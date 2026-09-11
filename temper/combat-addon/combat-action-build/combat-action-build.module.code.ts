@@ -1,10 +1,10 @@
-import { MIN_USABLE_DURATION_MS } from "../combat-action-levels/combat-action-levels.module.code.ts"
+import { MIN_USABLE_DURATION_MS } from "akasha/temper/combat-addon/combat-action-levels/combat-action-levels.module.code.ts"
 import type {
   Ability,
   Action,
   ActionFlags,
   Effect,
-} from "../combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 export const MAJOR_GALLOP_ICON = "major_gallop"
 

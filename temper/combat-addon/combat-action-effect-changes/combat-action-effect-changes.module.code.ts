@@ -1,22 +1,25 @@
-import { ensureCruxActions } from "../combat-action-crux/combat-action-crux.module.code.ts"
+import { ensureCruxActions } from "akasha/temper/combat-addon/combat-action-crux/combat-action-crux.module.code.ts"
 import {
   clearCrux,
   setCruxStacks,
-} from "../combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
-import { buildEffect } from "../combat-action-effect/combat-action-effect.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
+import { buildEffect } from "akasha/temper/combat-addon/combat-action-effect/combat-action-effect.module.code.ts"
 import {
   findActionByNewEffect,
   findActionByOldEffect,
-} from "../combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
 import {
   calcLevel,
   sortEffectList,
-} from "../combat-action-priority/combat-action-priority.module.code.ts"
-import { removeAction, STATE } from "../combat-action-queue/combat-action-queue.module.code.ts"
-import { getSelectedRole } from "../combat-action-slots/combat-action-slots.module.code.ts"
-import { updateStackInfo } from "../combat-action-stacks/combat-action-stacks.module.code.ts"
-import { saveAction } from "../combat-action-store/combat-action-store.module.code.ts"
-import type { Effect } from "../combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-priority/combat-action-priority.module.code.ts"
+import {
+  removeAction,
+  STATE,
+} from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
+import { getSelectedRole } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
+import { updateStackInfo } from "akasha/temper/combat-addon/combat-action-stacks/combat-action-stacks.module.code.ts"
+import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
+import type { Effect } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 export interface EffectChange {
   changeType: number

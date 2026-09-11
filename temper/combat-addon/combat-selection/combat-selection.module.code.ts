@@ -4,7 +4,7 @@ import {
   type CategoryKey,
   createBasicValues,
   sumUnitTables,
-} from "../combat-categories/combat-categories.module.code.ts"
+} from "akasha/temper/combat-addon/combat-categories/combat-categories.module.code.ts"
 import type {
   BasicValues,
   CmxFight,
@@ -14,9 +14,9 @@ import type {
   SelectedBuff,
   SelectionData,
   SelectionState,
-} from "../combat-core-types/combat-core-types.module.code.ts"
-import { getCalculated } from "../combat-fight-model/combat-fight-model.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import { getCalculated } from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 export const LAST_FIGHTS: CmxFight[] = []
 

@@ -1,20 +1,20 @@
-import { getNewest } from "../combat-action-build/combat-action-build.module.code.ts"
+import { getNewest } from "akasha/temper/combat-addon/combat-action-build/combat-action-build.module.code.ts"
 import {
   enqueueAction,
   nextSn,
   purgeQueue,
   removeAction,
   STATE,
-} from "../combat-action-queue/combat-action-queue.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import {
   buildActionFromSlot,
   getActiveHotbarCategory,
-} from "../combat-action-slots/combat-action-slots.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
 import {
   getActionByNewAction,
   saveAction,
-} from "../combat-action-store/combat-action-store.module.code.ts"
-import type { Action } from "../combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
+import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 const INHERIT_EFFECT_TAIL_MS = 500
 

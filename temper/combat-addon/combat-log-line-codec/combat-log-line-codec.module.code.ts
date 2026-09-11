@@ -18,16 +18,16 @@ import {
   LAYOUTS,
   LOG_TYPE_TO_LAYOUT,
   STAT_TABLE_CONVERT,
-} from "../combat-encoding-tables/combat-encoding-tables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-encoding-tables/combat-encoding-tables.module.code.ts"
 import {
   LOG_LEVEL_WARNING,
   log,
-} from "../combat-fight-data-log/combat-fight-data-log.module.code.ts"
+} from "akasha/temper/combat-addon/combat-fight-data-log/combat-fight-data-log.module.code.ts"
 import type {
   CombatLogLine,
   Fight,
-} from "../combat-fight-data-types/combat-fight-data-types.module.code.ts"
-import { LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE } from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import { LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 const CHARSET = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_"
 

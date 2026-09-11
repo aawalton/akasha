@@ -1,7 +1,7 @@
 import type {
   CoreLogLine,
   DamageCategory,
-} from "../combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   LIBCOMBAT_EVENT_BOSSHP,
   LIBCOMBAT_EVENT_PERFORMANCE,
@@ -11,11 +11,17 @@ import {
   LIBCOMBAT_STAT_MAXHEALTH,
   LIBCOMBAT_STAT_MAXMAGICKA,
   LIBCOMBAT_STAT_MAXSTAMINA,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import type { PlotData, XYPoint } from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import { YAXIS_LEFT, YAXIS_RIGHT } from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import { getFightData } from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import type {
+  PlotData,
+  XYPoint,
+} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import {
+  YAXIS_LEFT,
+  YAXIS_RIGHT,
+} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 type GraphData = Record<number, number | undefined>
 

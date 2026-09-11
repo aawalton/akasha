@@ -2,7 +2,7 @@ import type {
   Action,
   DurationResult,
   Effect,
-} from "../combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 export interface DurationCtx {
   now: number

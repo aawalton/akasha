@@ -1,6 +1,6 @@
-import { getNow } from "../combat-action-slots/combat-action-slots.module.code.ts"
-import { ADDON_NAME } from "../combat-actions-constants/combat-actions-constants.module.code.ts"
-import { recordCruxDiagnostic } from "../combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+import { getNow } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/combat-addon/combat-actions-constants/combat-actions-constants.module.code.ts"
+import { recordCruxDiagnostic } from "akasha/temper/combat-addon/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
 
 const CRUX_ICON_KEYWORD = "arcanist_crux"
 

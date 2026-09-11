@@ -1,5 +1,8 @@
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
-import type { DamageCategory } from "../combat-core-types/combat-core-types.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
+import type { DamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   LIBCOMBAT_STAT_CRITICALRESISTANCE,
   LIBCOMBAT_STAT_MAXHEALTH,
@@ -16,19 +19,19 @@ import {
   LIBCOMBAT_STAT_WEAPONCRITBONUS,
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import { getShowOverHeal } from "../combat-selection/combat-selection.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { getShowOverHeal } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
 import {
   numberValue,
   setChildText,
-} from "../combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import {
   getFightData,
   getSelections,
   getUiSelectionData,
   type UpdatableControl,
-} from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: "_MAGICKA",

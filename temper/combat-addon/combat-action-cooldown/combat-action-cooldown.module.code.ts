@@ -1,8 +1,8 @@
 import {
   cooldownGeometry,
   scaleCooldown,
-} from "../combat-action-display/combat-action-display.module.code.ts"
-import type { BarSettings } from "../combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-display/combat-action-display.module.code.ts"
+import type { BarSettings } from "akasha/temper/combat-addon/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
 
 const REDRAW_INTERVAL_MS = 40
 

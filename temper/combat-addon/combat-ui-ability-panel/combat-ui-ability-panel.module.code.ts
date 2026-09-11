@@ -1,36 +1,39 @@
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
-import type { AbilityData } from "../combat-core-types/combat-core-types.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
+import type { AbilityData } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   getFormattedAbilityIcon,
   getFormattedAbilityName,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { getDamageColor } from "../combat-lib-log-strings-format/combat-lib-log-strings-format.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import { getShowOverHeal } from "../combat-selection/combat-selection.module.code.ts"
-import { spairs } from "../combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
-import type { RowAnchor } from "../combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
-import { isNonNullObject } from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { getDamageColor } from "akasha/temper/combat-addon/combat-lib-log-strings-format/combat-lib-log-strings-format.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { getShowOverHeal } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
+import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import type { RowAnchor } from "akasha/temper/combat-addon/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
+import { isNonNullObject } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import {
   adjustRowSize,
   numberValue,
   resetBars,
   setChildText,
-} from "../combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import type {
   BarsPanelControl,
   SelectionRowControl,
-} from "../combat-ui-selection/combat-ui-selection.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getDx,
   getFightData,
   getSelections,
   getUiSelectionData,
-} from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import {
   COUNT_STRINGS,
   DPS_STRINGS,
   optionalNumberValue,
-} from "../combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 
 type HitCritLayout = [string, string, string, string]
 

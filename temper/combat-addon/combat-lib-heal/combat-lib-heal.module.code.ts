@@ -1,7 +1,10 @@
-import { combatEventHandler } from "../combat-lib-damage/combat-lib-damage.module.code.ts"
-import { groupCombatEventHandler } from "../combat-lib-death/combat-lib-death.module.code.ts"
-import type { CombatEventHandler } from "../combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import { DATA, getCurrentFight } from "../combat-lib-state/combat-lib-state.module.code.ts"
+import { combatEventHandler } from "akasha/temper/combat-addon/combat-lib-damage/combat-lib-damage.module.code.ts"
+import { groupCombatEventHandler } from "akasha/temper/combat-addon/combat-lib-death/combat-lib-death.module.code.ts"
+import type { CombatEventHandler } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 
 export const onCombatEventHeal: CombatEventHandler = (
   eventCode,

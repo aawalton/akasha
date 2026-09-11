@@ -1,14 +1,20 @@
-import { ADDON_NAME, REPORT_SCENE_NAME } from "../combat-constants/combat-constants.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
+import {
+  ADDON_NAME,
+  REPORT_SCENE_NAME,
+} from "akasha/temper/combat-addon/combat-constants/combat-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
 import type {
   CmxFight,
   CoreLogLine,
   CurrentData,
-} from "../combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   registerForCombatEvent,
   unregisterForCombatEvent,
-} from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   LIBCOMBAT_EVENT_DAMAGE_IN,
   LIBCOMBAT_EVENT_DAMAGE_OUT,
@@ -23,24 +29,24 @@ import {
   LIBCOMBAT_EVENT_PERFORMANCE,
   LIBCOMBAT_EVENT_QUICKSLOT,
   LIBCOMBAT_EVENT_UNITS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { DATA as libCombatData } from "../combat-lib-state/combat-lib-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { DATA as libCombatData } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   Fight,
   FightRecapData,
   GroupRecapData,
   UnitEntry,
-} from "../combat-lib-types/combat-lib-types.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   checkNumberOfFights,
   getFightName,
   LAST_FIGHTS,
-} from "../combat-selection/combat-selection.module.code.ts"
+} from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
 import {
   toggleLiveReport,
   updateLiveReport,
-} from "../combat-ui-live-report/combat-ui-live-report.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-live-report/combat-ui-live-report.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

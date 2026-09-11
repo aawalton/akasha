@@ -1,4 +1,4 @@
-import type { BarSettings } from "../combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+import type { BarSettings } from "akasha/temper/combat-addon/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
 
 export function buildFont(name: string, size: number, style: string): string {
   return name + "|" + size + "|" + style

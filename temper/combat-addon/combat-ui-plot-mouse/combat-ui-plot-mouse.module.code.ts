@@ -1,16 +1,19 @@
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import { spairs } from "../combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
-import { addTooltipLine, namedChild } from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import { drawAllPlots } from "../combat-ui-plot/combat-ui-plot.module.code.ts"
-import { PLOT_TYPE_XY } from "../combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts"
-import type { PlotWindowControl } from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import {
+  addTooltipLine,
+  namedChild,
+} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { drawAllPlots } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
+import { PLOT_TYPE_XY } from "akasha/temper/combat-addon/combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts"
+import type { PlotWindowControl } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import {
   getRequiredRange,
   limit,
   mapUIPosXY,
   updateScales,
   YAXIS_RIGHT,
-} from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 
 let START_X = 0
 let START_Y = 0

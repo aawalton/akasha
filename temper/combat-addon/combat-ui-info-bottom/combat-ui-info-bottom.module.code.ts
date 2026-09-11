@@ -2,14 +2,14 @@ import {
   getFoodDrinkItemLinkFromAbilityId,
   getFormattedAbilityIcon,
   getFormattedAbilityName,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { spairs } from "../combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 import {
   ARMOR_COLORS,
   getEnchantQuality,
-} from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import { getFightData } from "../combat-ui-state/combat-ui-state.module.code.ts"
-import type { GearItemControl } from "../combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import type { GearItemControl } from "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 
 const EQUIP_SLOTS: Array<[number, string]> = [
   [EQUIP_SLOT_MAIN_HAND, "EsoUI/Art/CharacterWindow/gearslot_mainhand.dds"],

@@ -32,7 +32,7 @@ import {
   LIBCOMBAT_STAT_WEAPONCRITBONUS,
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export const COMBAT_RESULT_TABLE_LOAD: Record<number, number> = {
   1: ACTION_RESULT_DAMAGE,

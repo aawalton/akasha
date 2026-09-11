@@ -1,13 +1,16 @@
-import { LOG_LEVEL_WARNING, log } from "../combat-core-log/combat-core-log.module.code.ts"
+import {
+  LOG_LEVEL_WARNING,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
 import type {
   CastEntry,
   CmxFight,
   CoreLogLine,
-} from "../combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   ABILITY_DELAY,
   CHANGING_ABILITIES,
-} from "../combat-data-tables/combat-data-tables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
 import {
   acquireBarStats,
   acquireSkillCastData,
@@ -15,7 +18,7 @@ import {
   getCalculated,
   getCurrentBar,
   setCurrentBar,
-} from "../combat-fight-model/combat-fight-model.module.code.ts"
+} from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
 import {
   getFormattedAbilityName,
   LIBCOMBAT_MESSAGE_WEAPONSWAP,
@@ -25,13 +28,13 @@ import {
   LIBCOMBAT_SKILLSTATUS_QUEUE,
   LIBCOMBAT_SKILLSTATUS_REGISTERED,
   LIBCOMBAT_SKILLSTATUS_SUCCESS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   isMessagesLogLine,
   isPerformanceLogLine,
   isQuickslotLogLine,
   isSkillTimingsLogLine,
-} from "../combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 
 export function processLogSkillTimings(fight: CmxFight, logline: CoreLogLine): undefined {
   if (!isSkillTimingsLogLine(logline)) {

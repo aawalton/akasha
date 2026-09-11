@@ -5,7 +5,7 @@ import type {
   EffectStackData,
   ResourceAbilityData,
   ResourceData,
-} from "../combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   acquireEffectData,
   acquireResourceData,
@@ -13,14 +13,17 @@ import {
   acquireUnitData,
   checkInstance,
   getCalculated,
-} from "../combat-fight-model/combat-fight-model.module.code.ts"
-import { ABILITY_ID_ZEN } from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
+import { ABILITY_ID_ZEN } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   isEffectLogLine,
   isPlayerStatsLogLine,
   isResourcesLogLine,
-} from "../combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
-import { countSlots, updateUnitStats } from "../combat-unit-stats/combat-unit-stats.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+import {
+  countSlots,
+  updateUnitStats,
+} from "akasha/temper/combat-addon/combat-unit-stats/combat-unit-stats.module.code.ts"
 
 function getStackData(instance: EffectInstance | undefined, stacks: number): EffectStackData {
   const stackData = instance !== undefined ? instance[stacks] : undefined

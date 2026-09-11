@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const combatUiLiveReportDeclarations = {
   id: "01a0625f-6d05-7d3b-840e-d692c8d2659b",

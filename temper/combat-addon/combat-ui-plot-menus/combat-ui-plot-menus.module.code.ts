@@ -1,4 +1,4 @@
-import type { DamageCategory } from "../combat-core-types/combat-core-types.module.code.ts"
+import type { DamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   LIBCOMBAT_STAT_CRITICALRESISTANCE,
   LIBCOMBAT_STAT_MAXHEALTH,
@@ -14,21 +14,25 @@ import {
   LIBCOMBAT_STAT_WEAPONCRITBONUS,
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { namedChild } from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import type { SelectorControl } from "../combat-ui-plot/combat-ui-plot.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { namedChild } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import type { SelectorControl } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
 import {
   drawAllPlots,
   getLastPlotSelector,
   removePlotSelection,
   setLastPlotSelector,
   updatePlot,
-} from "../combat-ui-plot/combat-ui-plot.module.code.ts"
-import { absolute, smooth, total } from "../combat-ui-plot-data/combat-ui-plot-data.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
+import {
+  absolute,
+  smooth,
+  total,
+} from "akasha/temper/combat-addon/combat-ui-plot-data/combat-ui-plot-data.module.code.ts"
 import type {
   PlotData,
   PlotWindowControl,
-} from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 
 export const PLOT_FUNCTIONS: ((this: void) => undefined)[] = []
 

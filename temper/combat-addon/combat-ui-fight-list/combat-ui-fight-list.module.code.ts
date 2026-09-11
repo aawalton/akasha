@@ -1,24 +1,27 @@
-import { calculateFight } from "../combat-analysis/combat-analysis.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
-import type { CmxFight } from "../combat-core-types/combat-core-types.module.code.ts"
-import type { SavedFight } from "../combat-fight-data-types/combat-fight-data-types.module.code.ts"
-import { getFights } from "../combat-saved-fights/combat-saved-fights.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+import { calculateFight } from "akasha/temper/combat-addon/combat-analysis/combat-analysis.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
+import type { CmxFight } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import type { SavedFight } from "akasha/temper/combat-addon/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import { getFights } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   generateSelectionStats,
   LAST_FIGHTS,
-} from "../combat-selection/combat-selection.module.code.ts"
-import type { TooltipCarrier } from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
+} from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
+import type { TooltipCarrier } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import {
   adjustRowSize,
   resetBars,
   type ScalableRowControl,
-} from "../combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import {
   clearSelections,
   type FightListItemControl,
-} from "../combat-ui-nav/combat-ui-nav.module.code.ts"
-import type { BarsPanelControl } from "../combat-ui-selection/combat-ui-selection.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-nav/combat-ui-nav.module.code.ts"
+import type { BarsPanelControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getCurrentFight,
   getDx,
@@ -28,8 +31,8 @@ import {
   setFightData,
   setUiSelectionData,
   type UpdatableControl,
-} from "../combat-ui-state/combat-ui-state.module.code.ts"
-import { DPS_STRINGS } from "../combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import { DPS_STRINGS } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 
 function updateReportDeferred(this: void): undefined {
   const report = TemperCombat_Report

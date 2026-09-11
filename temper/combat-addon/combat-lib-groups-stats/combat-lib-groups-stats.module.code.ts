@@ -8,7 +8,7 @@ import {
   LIBCOMBAT_EVENT_QUICKSLOT,
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   onCombatEventGrpDmgIn,
   onDeath,
@@ -17,35 +17,35 @@ import {
   onResurrect,
   onResurrectRequest,
   onResurrectResult,
-} from "../combat-lib-death/combat-lib-death.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-death/combat-lib-death.module.code.ts"
 import {
   createEventGroup,
   registerEvent,
   registerPlayerActivatedEvent,
   setGroupActive,
   updateSkillEvents,
-} from "../combat-lib-events/combat-lib-events.module.code.ts"
-import { onCombatEventGrpHealIn } from "../combat-lib-heal/combat-lib-heal.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-events/combat-lib-events.module.code.ts"
+import { onCombatEventGrpHealIn } from "akasha/temper/combat-addon/combat-lib-heal/combat-lib-heal.module.code.ts"
 import {
   onBaseResourceChangedGroup,
   onQuickSlotChanged,
   onQuickSlotUsed,
-} from "../combat-lib-resources/combat-lib-resources.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-resources/combat-lib-resources.module.code.ts"
 import {
   onProjectileEvent,
   onQueueEvent,
   onWeaponSwap,
-} from "../combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import {
   getCurrentSkillBarsDelayed,
   onSlotUpdate,
   onSlotUsed,
-} from "../combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
 import {
   onBossHealthChanged,
   onPlayerActivated2,
   onPlayerDeactivated,
-} from "../combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 
 createEventGroup(
   "Messages",

@@ -1,4 +1,7 @@
-import { ADDON_NAME, ADDON_VERSION } from "../combat-constants/combat-constants.module.code.ts"
+import {
+  ADDON_NAME,
+  ADDON_VERSION,
+} from "akasha/temper/combat-addon/combat-constants/combat-constants.module.code.ts"
 
 globalThis.TemperCombat = {
   name: ADDON_NAME,

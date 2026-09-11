@@ -1,22 +1,25 @@
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
-import type { ResourceAbilityData } from "../combat-core-types/combat-core-types.module.code.ts"
-import { getFormattedAbilityName } from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import { spairs } from "../combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
-import type { RowAnchor } from "../combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
+import type { ResourceAbilityData } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import { getFormattedAbilityName } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import type { RowAnchor } from "akasha/temper/combat-addon/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import {
   adjustRowSize,
   resetBars,
-} from "../combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import type {
   BarsPanelControl,
   SelectionRowControl,
-} from "../combat-ui-selection/combat-ui-selection.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getDx,
   getFightData,
   getSelections,
-} from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 function updateResourceBars(
   this: void,

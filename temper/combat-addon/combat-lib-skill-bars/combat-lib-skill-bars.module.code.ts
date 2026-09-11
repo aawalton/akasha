@@ -1,21 +1,21 @@
 import {
   ABILITY_ADDITIONS,
   ABILITY_CONVERSIONS,
-} from "../combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   LIBCOMBAT_EVENT_MESSAGES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
   LIBCOMBAT_MESSAGE_WEAPONSWAP,
   LIBCOMBAT_SKILLSTATUS_QUEUE,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_VERBOSE,
   LOG_LEVEL_WARNING,
   log,
-} from "../combat-lib-log/combat-lib-log.module.code.ts"
-import type { SkillRegistrationData } from "../combat-lib-message-types/combat-lib-message-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
+import type { SkillRegistrationData } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   DATA,
   EVENT_GROUP_ACTIVE,
@@ -23,9 +23,9 @@ import {
   IS_PROJECTILE,
   LAST_QUEUED_ABILITIES,
   setSlotSkills,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { getNewStats } from "../combat-lib-stats/combat-lib-stats.module.code.ts"
-import { getSlottedAbilityId } from "../combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { getNewStats } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 
 export const ID_TO_REDUCED_SLOT: Record<number, number> = {}
 

@@ -1,15 +1,15 @@
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   LayoutControl,
   TooltipCarrier,
   TooltipSpec,
-} from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import {
   isLabelControl,
   isNonNullObject,
   namedChild,
-} from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 interface LiveBlockControl extends LayoutControl {
   blocksize?: number

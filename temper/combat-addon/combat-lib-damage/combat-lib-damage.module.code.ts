@@ -1,26 +1,26 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   getFormattedAbilityName,
   LIBCOMBAT_EVENT_DAMAGE_OUT,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { prepareFight } from "../combat-lib-fight/combat-lib-fight.module.code.ts"
-import { addCombatEvent } from "../combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { prepareFight } from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
+import { addCombatEvent } from "akasha/temper/combat-addon/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_VERBOSE,
   LOG_LEVEL_WARNING,
   log,
-} from "../combat-lib-log/combat-lib-log.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type {
   CombatEventHandler,
   DamageShieldEntry,
-} from "../combat-lib-message-types/combat-lib-message-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   DAMAGE_SHIELD_BUFFER,
   DATA,
   getCurrentFight,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { checkUnit } from "../combat-lib-units/combat-lib-units.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { checkUnit } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 
 const SPECIAL_RESULTS_INVERSE: Record<string, number | undefined> = {
   ACTION_RESULT_BLADETURN: ACTION_RESULT_BLADETURN,

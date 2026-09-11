@@ -1,4 +1,4 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   DESTRO_STAFF_TYPES,
   DIVINE_SLOTS,
@@ -6,18 +6,18 @@ import {
   LIBCOMBAT_EVENT_BOSSHP,
   LIBCOMBAT_EVENT_PERFORMANCE,
   PLAYER_ACTIVATED_TIME,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_INFO,
   LOG_LEVEL_WARNING,
   log,
-} from "../combat-lib-log/combat-lib-log.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import {
   DATA,
   LAST_BOSS_HEALTH_VALUE,
   setLastBossHealthValue,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
-import type { StatusEffectBonusData } from "../combat-lib-types/combat-lib-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import type { StatusEffectBonusData } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 
 export function getSlottedAbilityId(
   actionSlotIndex: number,

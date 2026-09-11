@@ -2,7 +2,7 @@ import type {
   CmxFight,
   SelectionData,
   SelectionState,
-} from "../combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 
 let dxCache: number | undefined
 

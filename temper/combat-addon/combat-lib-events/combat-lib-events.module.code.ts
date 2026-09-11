@@ -1,23 +1,26 @@
 import {
   hasActiveCallbackType,
   setUpdateEventRegistrationsHook,
-} from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   LIB_EVENT_NAMESPACE,
   LIBCOMBAT_EVENT_MAX,
   LIBCOMBAT_EVENT_MIN,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { LOG_LEVEL_VERBOSE, log } from "../combat-lib-log/combat-lib-log.module.code.ts"
-import { setSkillsGroupUpdateHook } from "../combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_VERBOSE,
+  log,
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
+import { setSkillsGroupUpdateHook } from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import {
   onAbilityFinished,
   onAbilityUsed,
-} from "../combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
 import {
   DATA,
   EVENT_GROUP_ACTIVE,
   SLOT_SKILLS,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 
 export type RegisteredEventCallback = (this: void, eventCode: number, ...args: never[]) => void
 

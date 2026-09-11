@@ -3,24 +3,30 @@ import {
   CATEGORY_LIST,
   type CategoryKey,
   sumUnitTables,
-} from "../combat-categories/combat-categories.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
-import type { CmxFight, CoreLogLine } from "../combat-core-types/combat-core-types.module.code.ts"
-import { TRIAL_DUMMY_BUFFS } from "../combat-data-tables/combat-data-tables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-categories/combat-categories.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
+import type {
+  CmxFight,
+  CoreLogLine,
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import { TRIAL_DUMMY_BUFFS } from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
 import {
   acquireBarStats,
   getCalculated,
   getEmptyFightStats,
   setCurrentBar,
-} from "../combat-fight-model/combat-fight-model.module.code.ts"
+} from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
 import {
   finalizeBarData,
   finalizePerformanceData,
   finalizeResourceStats,
   finalizeSkillTimings,
   finalizeStats,
-} from "../combat-finalize/combat-finalize.module.code.ts"
-import { finalizeUnitBuffs } from "../combat-finalize-buffs/combat-finalize-buffs.module.code.ts"
+} from "akasha/temper/combat-addon/combat-finalize/combat-finalize.module.code.ts"
+import { finalizeUnitBuffs } from "akasha/temper/combat-addon/combat-finalize-buffs/combat-finalize-buffs.module.code.ts"
 import {
   LIBCOMBAT_EVENT_BOSSHP,
   LIBCOMBAT_EVENT_DAMAGE_IN,
@@ -39,25 +45,25 @@ import {
   LIBCOMBAT_EVENT_QUICKSLOT,
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   processLogDamage,
   processLogHeal,
   processLogHealSelf,
-} from "../combat-process-log-damage/combat-process-log-damage.module.code.ts"
+} from "akasha/temper/combat-addon/combat-process-log-damage/combat-process-log-damage.module.code.ts"
 import {
   processLogEffects,
   processLogResources,
   processLogStats,
-} from "../combat-process-log-effects/combat-process-log-effects.module.code.ts"
+} from "akasha/temper/combat-addon/combat-process-log-effects/combat-process-log-effects.module.code.ts"
 import {
   processBossHp,
   processLogSkillTimings,
   processMessages,
   processPerformanceStats,
   processQuickslotEvents,
-} from "../combat-process-log-timings/combat-process-log-timings.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-process-log-timings/combat-process-log-timings.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

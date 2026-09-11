@@ -1,8 +1,11 @@
-import { getCurrentData } from "../combat-core-events/combat-core-events.module.code.ts"
-import type { CmxFight, CurrentData } from "../combat-core-types/combat-core-types.module.code.ts"
-import type { UnitEntry } from "../combat-lib-types/combat-lib-types.module.code.ts"
-import { LAST_FIGHTS } from "../combat-selection/combat-selection.module.code.ts"
-import { optionalNumberValue } from "../combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import { getCurrentData } from "akasha/temper/combat-addon/combat-core-events/combat-core-events.module.code.ts"
+import type {
+  CmxFight,
+  CurrentData,
+} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import type { UnitEntry } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { LAST_FIGHTS } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
+import { optionalNumberValue } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 
 export type ChatReportData = (CurrentData & { units: Record<number, UnitEntry> }) | CmxFight
 

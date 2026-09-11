@@ -5,8 +5,8 @@ import {
   VALID_NON_PROJECTILE_SKILL_START_RESULTS,
   VALID_SKILL_END_RESULTS,
   VALID_SKILL_START_RESULTS,
-} from "../combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_RESOURCE_CACHE_SIZE,
   getFormattedAbilityName,
@@ -17,12 +17,15 @@ import {
   LIBCOMBAT_SKILLSTATUS_REGISTERED,
   LIBCOMBAT_SKILLSTATUS_SUCCESS,
   maxSkillDelay,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { LOG_LEVEL_VERBOSE, log } from "../combat-lib-log/combat-lib-log.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_VERBOSE,
+  log,
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import {
   getCurrentSkillBars,
   ID_TO_REDUCED_SLOT,
-} from "../combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import {
   DATA,
   EVENT_GROUP_ACTIVE,
@@ -30,8 +33,8 @@ import {
   LAST_ABILITY_ACTIVATIONS,
   LAST_QUEUED_ABILITIES,
   USED_CAST_TIME_ABILITY,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { getSlottedAbilityId } from "../combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 
 let heavyAttackCharging: number | undefined
 

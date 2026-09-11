@@ -1,4 +1,4 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   COMBAT_TIMEOUT,
   LIB_EVENT_NAMESPACE,
@@ -6,28 +6,28 @@ import {
   LIBCOMBAT_EVENT_MESSAGES,
   LIBCOMBAT_MESSAGE_COMBATEND,
   LIBCOMBAT_MESSAGE_COMBATSTART,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   getOtherBuffs,
   getPlayerBuffs,
   purgeEffectBuffer,
-} from "../combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
 import {
   createFight,
   finishFight,
-} from "../combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"
 import {
   getCritBonusFromCP,
   getCurrentCP,
   printDamageStats,
   updateStats,
-} from "../combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_INFO,
   log,
-} from "../combat-lib-log/combat-lib-log.module.code.ts"
-import { getCurrentSkillBars } from "../combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
+import { getCurrentSkillBars } from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import {
   clearDamageShieldBuffer,
   clearEffectBuffer,
@@ -41,11 +41,14 @@ import {
   setCurrentFight,
   setIsInPortalWorld,
   setLastBossHealthValue,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { getNewStats } from "../combat-lib-stats/combat-lib-stats.module.code.ts"
-import { initStatusEffectBonuses } from "../combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
-import type { Fight, FightCharData } from "../combat-lib-types/combat-lib-types.module.code.ts"
-import { clearUnitCaches } from "../combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { getNewStats } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { initStatusEffectBonuses } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import type {
+  Fight,
+  FightCharData,
+} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { clearUnitCaches } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 
 let RESET = false
 

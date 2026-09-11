@@ -1,4 +1,4 @@
-import type { DurSource } from "../combat-action-levels/combat-action-levels.module.code.ts"
+import type { DurSource } from "akasha/temper/combat-addon/combat-action-levels/combat-action-levels.module.code.ts"
 
 export interface Ability {
   id: number

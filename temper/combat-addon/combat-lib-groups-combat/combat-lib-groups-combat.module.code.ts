@@ -9,15 +9,15 @@ import {
   LIBCOMBAT_EVENT_HEAL_IN,
   LIBCOMBAT_EVENT_HEAL_OUT,
   LIBCOMBAT_EVENT_HEAL_SELF,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   onCombatEventDmg,
   onCombatEventDmgGrp,
   onCombatEventDmgIn,
   onCombatEventShield,
   onWTF,
-} from "../combat-lib-damage/combat-lib-damage.module.code.ts"
-import { onCustomEvent } from "../combat-lib-effects/combat-lib-effects.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-damage/combat-lib-damage.module.code.ts"
+import { onCustomEvent } from "akasha/temper/combat-addon/combat-lib-effects/combat-lib-effects.module.code.ts"
 import {
   createEventGroup,
   getAllCallbackTypes,
@@ -25,7 +25,7 @@ import {
   registerEvent,
   registerPlayerActivatedEvent,
   setGroupActive,
-} from "../combat-lib-events/combat-lib-events.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-events/combat-lib-events.module.code.ts"
 import {
   onBossesChanged,
   onCombatState,
@@ -33,15 +33,15 @@ import {
   onDuelStart,
   onMageExplode,
   onPortalWorld,
-} from "../combat-lib-fight/combat-lib-fight.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
 import {
   onCombatEventHeal,
   onCombatEventHealGrp,
   onCombatEventHealIn,
-} from "../combat-lib-heal/combat-lib-heal.module.code.ts"
-import { getCurrentSkillBars } from "../combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
-import { setIsInPortalWorld } from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { onGroupChange } from "../combat-lib-units/combat-lib-units.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-heal/combat-lib-heal.module.code.ts"
+import { getCurrentSkillBars } from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+import { setIsInPortalWorld } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { onGroupChange } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 
 const EVENT_ACTION_SLOT_ABILITY_SLOTTED_EFFECTIVE = EVENT_HOTBAR_SLOT_CHANGE_REQUESTED
 

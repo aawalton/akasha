@@ -1,24 +1,24 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_ID_ZEN,
   BAD_ABILITY,
   LIBCOMBAT_EVENT_EFFECTS_IN,
   STATUS_EFFECT_IDS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import type { EffectBufferEntry } from "../combat-lib-message-types/combat-lib-message-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import type { EffectBufferEntry } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   clearEffectBuffer,
   DATA,
   EFFECT_BUFFER,
   EVENT_GROUP_ACTIVE,
   getCurrentFight,
-} from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { onTFSChanged } from "../combat-lib-stats/combat-lib-stats.module.code.ts"
-import { getShadowBonus } from "../combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { onTFSChanged } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { getShadowBonus } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import {
   updateForceOfNatureData,
   updateZenData,
-} from "../combat-lib-units/combat-lib-units.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 
 let LAST_PURGE = 0
 

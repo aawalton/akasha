@@ -1,11 +1,11 @@
-import { isCruxConsumerIcon } from "../combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
-import { STATE } from "../combat-action-queue/combat-action-queue.module.code.ts"
+import { isCruxConsumerIcon } from "akasha/temper/combat-addon/combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
+import { STATE } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import {
   buildActionFromSlot,
   getActiveHotbarCategory,
   readSlotAbility,
-} from "../combat-action-slots/combat-action-slots.module.code.ts"
-import { saveAction } from "../combat-action-store/combat-action-store.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
+import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
 
 const FIRST_ABILITY_SLOT = 3
 const LAST_ABILITY_SLOT = 8

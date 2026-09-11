@@ -1,6 +1,9 @@
-import { buildEffect } from "../combat-action-effect/combat-action-effect.module.code.ts"
-import { LEVEL_CRUX } from "../combat-action-levels/combat-action-levels.module.code.ts"
-import type { Ability, Effect } from "../combat-action-types/combat-action-types.module.code.ts"
+import { buildEffect } from "akasha/temper/combat-addon/combat-action-effect/combat-action-effect.module.code.ts"
+import { LEVEL_CRUX } from "akasha/temper/combat-addon/combat-action-levels/combat-action-levels.module.code.ts"
+import type {
+  Ability,
+  Effect,
+} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 interface CruxState {
   stacks: number

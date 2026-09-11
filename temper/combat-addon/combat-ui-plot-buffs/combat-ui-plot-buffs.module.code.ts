@@ -1,14 +1,17 @@
-import type { CoreLogLine } from "../combat-core-types/combat-core-types.module.code.ts"
+import type { CoreLogLine } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   getFormattedAbilityName,
   LIBCOMBAT_EVENT_EFFECTS_IN,
   LIBCOMBAT_EVENT_EFFECTS_OUT,
   LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
   LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import type { BuffBarEntry } from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import { getFightData, getSelections } from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import type { BuffBarEntry } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import {
+  getFightData,
+  getSelections,
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 type EffectLogLine = [
   event: number,

@@ -1,4 +1,4 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ACTIVE_TIME_ON_HEALS,
   LIBCOMBAT_CPTYPE_PASSIVE,
@@ -12,17 +12,23 @@ import {
   LIBCOMBAT_EVENT_HEAL_OUT,
   LIBCOMBAT_EVENT_HEAL_SELF,
   LIBCOMBAT_EVENT_UNITS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-lib-log/combat-lib-log.module.code.ts"
-import { DATA, EVENT_GROUP_ACTIVE } from "../combat-lib-state/combat-lib-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
+import {
+  DATA,
+  EVENT_GROUP_ACTIVE,
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   CPData,
   CPDisciplineData,
   Fight,
   FightRecapData,
   GroupRecapData,
-} from "../combat-lib-types/combat-lib-types.module.code.ts"
-import { processDeathRecaps } from "../combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { processDeathRecaps } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 
 export function getCritBonusFromCP(cpData: CPData): number {
   const greenDiscipline = cpData[1]

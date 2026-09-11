@@ -1,7 +1,7 @@
-import { getBarSettings } from "../combat-action-bar-settings/combat-action-bar-settings.module.code.ts"
-import { onEngineUpdate } from "../combat-action-engine-context/combat-action-engine-context.module.code.ts"
-import { getStackLabelFont } from "../combat-action-fonts/combat-action-fonts.module.code.ts"
-import { vampireStageForAbilityId } from "../combat-action-vampire-stage/combat-action-vampire-stage.module.code.ts"
+import { getBarSettings } from "akasha/temper/combat-addon/combat-action-bar-settings/combat-action-bar-settings.module.code.ts"
+import { onEngineUpdate } from "akasha/temper/combat-addon/combat-action-engine-context/combat-action-engine-context.module.code.ts"
+import { getStackLabelFont } from "akasha/temper/combat-addon/combat-action-fonts/combat-action-fonts.module.code.ts"
+import { vampireStageForAbilityId } from "akasha/temper/combat-addon/combat-action-vampire-stage/combat-action-vampire-stage.module.code.ts"
 
 const SUB_CONTAINERS: readonly string[] = ["Container1", "Container2"]
 

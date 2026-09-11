@@ -1,14 +1,13 @@
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { calculateFight } from "../combat-analysis/combat-analysis.module.code.ts"
-import type { CmxFight } from "../combat-core-types/combat-core-types.module.code.ts"
-import { openSettings } from "../combat-menu/combat-menu.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+import { calculateFight } from "akasha/temper/combat-addon/combat-analysis/combat-analysis.module.code.ts"
+import type { CmxFight } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import { openSettings } from "akasha/temper/combat-addon/combat-menu/combat-menu.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   getShowOverHeal,
   LAST_FIGHTS,
   setShowOverHeal,
-} from "../combat-selection/combat-selection.module.code.ts"
-import { exportBuild } from "../combat-ui-build-export/combat-ui-build-export.module.code.ts"
+} from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
+import { exportBuild } from "akasha/temper/combat-addon/combat-ui-build-export/combat-ui-build-export.module.code.ts"
 import {
   POSTTOCHAT_MODE_HEALING,
   POSTTOCHAT_MODE_MULTI,
@@ -18,9 +17,13 @@ import {
   POSTTOCHAT_MODE_SINGLEANDMULTI,
   POSTTOCHAT_MODE_SMART,
   postToChat,
-} from "../combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
-import { getCurrentFight, getSelections } from "../combat-ui-state/combat-ui-state.module.code.ts"
-import { updateReport } from "../combat-ui-window/combat-ui-window.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
+import {
+  getCurrentFight,
+  getSelections,
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import { updateReport } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 function toggleShowIds(this: void): undefined {
   const db = getDb()

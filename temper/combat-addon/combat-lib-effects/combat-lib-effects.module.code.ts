@@ -1,4 +1,4 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_ID_ZEN,
   BAD_ABILITY,
@@ -9,19 +9,25 @@ import {
   LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
   SPECIAL_DEBUFFS,
   STATUS_EFFECT_IDS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { addToEffectBuffer } from "../combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
-import { LOG_LEVEL_VERBOSE, log } from "../combat-lib-log/combat-lib-log.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { addToEffectBuffer } from "akasha/temper/combat-addon/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
+import {
+  LOG_LEVEL_VERBOSE,
+  log,
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type {
   CombatEventHandler,
   EffectChangedHandler,
-} from "../combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import { DATA, getCurrentFight } from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { getNewStats } from "../combat-lib-stats/combat-lib-stats.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { getNewStats } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import {
   updateForceOfNatureData,
   updateZenData,
-} from "../combat-lib-units/combat-lib-units.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 
 const GROUP_EFFECT_NONE = 0
 const GROUP_EFFECT_IN = 1

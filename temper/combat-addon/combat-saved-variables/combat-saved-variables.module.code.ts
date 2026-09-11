@@ -1,5 +1,5 @@
-import { SAVED_VARIABLES_NAME } from "../combat-constants/combat-constants.module.code.ts"
-import type { DamageCategory } from "../combat-core-types/combat-core-types.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/combat-addon/combat-constants/combat-constants.module.code.ts"
+import type { DamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   LIBCOMBAT_EVENT_DAMAGE_IN,
   LIBCOMBAT_EVENT_DAMAGE_OUT,
@@ -12,7 +12,7 @@ import {
   LIBCOMBAT_EVENT_MESSAGES,
   LIBCOMBAT_EVENT_PLAYERSTATS,
   LIBCOMBAT_EVENT_RESOURCES,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export type PenetrationDebuffKey = "crusherValue" | "alkoshValue" | "tremorscaleValue"
 

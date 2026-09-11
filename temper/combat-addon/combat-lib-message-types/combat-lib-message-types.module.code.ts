@@ -4,7 +4,7 @@ import type {
   GroupRecapData,
   UnitCache,
   UnitEntry,
-} from "../combat-lib-types/combat-lib-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 
 export type CombatEventCallback = (this: void, eventId: number, ...args: never[]) => void
 

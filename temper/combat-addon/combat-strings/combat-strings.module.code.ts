@@ -1,4 +1,4 @@
-import { STRINGS_2 } from "../combat-strings-table/combat-strings-table.module.code.ts"
+import { STRINGS_2 } from "akasha/temper/combat-addon/combat-strings-table/combat-strings-table.module.code.ts"
 
 const STRINGS_1: Record<string, string> = {
   SI_TEMPER_COMBAT_SEP_COLOR: "FFAAAAAA",

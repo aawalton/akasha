@@ -18,8 +18,11 @@ import {
   LIBCOMBAT_STAT_WEAPONCRITBONUS,
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-lib-log/combat-lib-log.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type {
   BossHpLogLine,
   DeathLogLine,
@@ -27,7 +30,7 @@ import type {
   PerformanceLogLine,
   PlayerStatsLogLine,
   SkillTimingsLogLine,
-} from "../combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 import {
   getDeathFormatString,
   getMessageString,
@@ -46,8 +49,11 @@ import {
   STRING_UNITTYPE_PET,
   STRING_UNITTYPE_PLAYER,
   STRING_YOU,
-} from "../combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
-import type { Fight, UnitEntry } from "../combat-lib-types/combat-lib-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
+import type {
+  Fight,
+  UnitEntry,
+} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 
 export type CombatLogLine = (number | string | undefined)[]
 

@@ -1,28 +1,28 @@
-import type { Cooldown } from "../combat-action-cooldown/combat-action-cooldown.module.code.ts"
+import type { Cooldown } from "akasha/temper/combat-addon/combat-action-cooldown/combat-action-cooldown.module.code.ts"
 import {
   cooldownHide,
   cooldownStart,
   newCooldown,
-} from "../combat-action-cooldown/combat-action-cooldown.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-cooldown/combat-action-cooldown.module.code.ts"
 import {
   bracketLowPriority,
   formatRemainLabel,
   needEndingAlert,
-} from "../combat-action-display/combat-action-display.module.code.ts"
-import type { DurationCtx } from "../combat-action-duration/combat-action-duration.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-display/combat-action-display.module.code.ts"
+import type { DurationCtx } from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
 import {
   getDuration,
   getEndTime,
   optEffect,
-} from "../combat-action-duration/combat-action-duration.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
 import {
   getLabelFont,
   getStackLabelFont,
-} from "../combat-action-fonts/combat-action-fonts.module.code.ts"
-import { getActiveHotbarCategory } from "../combat-action-slots/combat-action-slots.module.code.ts"
-import { resolveStackLabels } from "../combat-action-stack-labels/combat-action-stack-labels.module.code.ts"
-import type { Action } from "../combat-action-types/combat-action-types.module.code.ts"
-import type { BarSettings } from "../combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-fonts/combat-action-fonts.module.code.ts"
+import { getActiveHotbarCategory } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
+import { resolveStackLabels } from "akasha/temper/combat-addon/combat-action-stack-labels/combat-action-stack-labels.module.code.ts"
+import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import type { BarSettings } from "akasha/temper/combat-addon/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

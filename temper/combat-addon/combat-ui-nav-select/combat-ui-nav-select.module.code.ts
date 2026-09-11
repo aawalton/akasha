@@ -1,13 +1,13 @@
-import { isInitialized } from "../combat-addon-state/combat-addon-state.module.code.ts"
-import { isDamageCategory } from "../combat-core-types/combat-core-types.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import { setLabelColor } from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import type { ActivePanelControl } from "../combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
-import { reportUpdate } from "../combat-ui-nav/combat-ui-nav.module.code.ts"
+import { isInitialized } from "akasha/temper/combat-addon/combat-addon-state/combat-addon-state.module.code.ts"
+import { isDamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { setLabelColor } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import type { ActivePanelControl } from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import { reportUpdate } from "akasha/temper/combat-addon/combat-ui-nav/combat-ui-nav.module.code.ts"
 import {
   getCurrentFight,
   type UpdatableControl,
-} from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 interface SelectorButtonMeta extends Control {
   isMainCategory?: boolean

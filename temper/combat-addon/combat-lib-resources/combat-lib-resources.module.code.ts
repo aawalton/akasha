@@ -1,4 +1,4 @@
-import { fireCombatEvent } from "../combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_RESOURCE_CACHE_SIZE,
   getFormattedAbilityName,
@@ -7,19 +7,22 @@ import {
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_STAT_MAXMAGICKA,
   LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_INFO,
   log,
-} from "../combat-lib-log/combat-lib-log.module.code.ts"
-import type { CombatEventHandler } from "../combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import { DATA, getCurrentFight } from "../combat-lib-state/combat-lib-state.module.code.ts"
-import { updateSingleStat } from "../combat-lib-stats/combat-lib-stats.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
+import type { CombatEventHandler } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { updateSingleStat } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import {
   getUnitCache,
   updateUnitCacheResource,
-} from "../combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 
 function getStat(stat: number): number {
   return GetPlayerStat(stat, STAT_BONUS_OPTION_APPLY_BONUS)

@@ -1,20 +1,23 @@
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { ADDON_VERSION } from "../combat-constants/combat-constants.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
+import { ADDON_VERSION } from "akasha/temper/combat-addon/combat-constants/combat-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
 import {
   getFormattedAbilityIcon,
   getFormattedAbilityName,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { GetNumFights } from "../combat-saved-fights/combat-saved-fights.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { GetNumFights } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   updateBottomInfoPanel,
   updateMiscInfoPanel,
-} from "../combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts"
-import { updateRightInfoPanel } from "../combat-ui-info-right/combat-ui-info-right.module.code.ts"
-import { numberValue } from "../combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
-import { getFightData } from "../combat-ui-state/combat-ui-state.module.code.ts"
-import type { SkillRowControl } from "../combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts"
+import { updateRightInfoPanel } from "akasha/temper/combat-addon/combat-ui-info-right/combat-ui-info-right.module.code.ts"
+import { numberValue } from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import type { SkillRowControl } from "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const LIB_COMBAT_VERSION = 88
 

@@ -9,7 +9,7 @@ import {
   SOURCE_BUGGED_BUFFS,
   SPECIAL_BUFFS,
   SPECIAL_DEBUFFS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   onEffectChanged,
   onGroupEffectIn,
@@ -17,18 +17,21 @@ import {
   onSourceBuggedEffectChanged,
   onSpecialBuffEvent,
   onSpecialDebuffEvent,
-} from "../combat-lib-effects/combat-lib-effects.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-effects/combat-lib-effects.module.code.ts"
 import {
   createEventGroup,
   registerEvent,
   setGroupActive,
-} from "../combat-lib-events/combat-lib-events.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-events/combat-lib-events.module.code.ts"
 import {
   onBaseResourceChangedDelayed,
   onResourceChanged,
-} from "../combat-lib-resources/combat-lib-resources.module.code.ts"
-import { onShadowMundus, onTFSChanged } from "../combat-lib-stats/combat-lib-stats.module.code.ts"
-import { onTrialDummy } from "../combat-lib-units/combat-lib-units.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-resources/combat-lib-resources.module.code.ts"
+import {
+  onShadowMundus,
+  onTFSChanged,
+} from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { onTrialDummy } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 
 createEventGroup(
   "Effects",

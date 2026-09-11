@@ -1,13 +1,13 @@
-import { matchIconPath } from "../combat-action-icon-path/combat-action-icon-path.module.code.ts"
+import { matchIconPath } from "akasha/temper/combat-addon/combat-action-icon-path/combat-action-icon-path.module.code.ts"
 import {
   EFFECT_FOLLOW_TOLERANCE_MS,
   STRICT_WINDOW_MS,
-} from "../combat-action-levels/combat-action-levels.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-levels/combat-action-levels.module.code.ts"
 import type {
   Ability,
   Action,
   Effect,
-} from "../combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 function matchFunc(s1: string, s2: string, full: boolean): boolean {
   if (s1.length === 0 || s2.length === 0) {

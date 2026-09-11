@@ -2,8 +2,11 @@ import {
   LEVEL_LOW_THRESHOLD,
   LEVEL_STACK,
   LEVEL_STACK_LOW,
-} from "../combat-action-levels/combat-action-levels.module.code.ts"
-import type { Action, Effect } from "../combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/combat-action-levels/combat-action-levels.module.code.ts"
+import type {
+  Action,
+  Effect,
+} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
 const STACK_BEGINNING_WINDOW_MS = 1000
 

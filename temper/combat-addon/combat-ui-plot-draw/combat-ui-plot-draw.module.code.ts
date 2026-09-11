@@ -1,15 +1,15 @@
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   PlotControl,
   PlotWindowControl,
-} from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import {
   mapValue,
   mapValueXY,
   PLOT_DIMENSION_X,
   YAXIS_RIGHT,
-} from "../combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import { getDx } from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { getDx } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 export const PLOT_TYPE_XY = 1
 export const PLOT_TYPE_BAR = 2

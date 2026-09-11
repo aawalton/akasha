@@ -1,5 +1,8 @@
-import { getCombatLogString } from "../combat-core-events/combat-core-events.module.code.ts"
-import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
+import { getCombatLogString } from "akasha/temper/combat-addon/combat-core-events/combat-core-events.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
 import {
   getFormattedAbilityName,
   LIBCOMBAT_EVENT_BOSSHP,
@@ -19,20 +22,20 @@ import {
   LIBCOMBAT_EVENT_PLAYERSTATS,
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
-} from "../combat-lib-constants/combat-lib-constants.module.code.ts"
-import { isLogLine } from "../combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
-import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
-import type { TooltipCarrier } from "../combat-ui-helpers/combat-ui-helpers.module.code.ts"
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { isLogLine } from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import type { TooltipCarrier } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type {
   CLButtonControl,
   CombatLogWindowControl,
-} from "../combat-ui-log-window/combat-ui-log-window.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-log-window/combat-ui-log-window.module.code.ts"
 import {
   getCurrentCLPage,
   getFightData,
   getFontsize,
   getSelections,
-} from "../combat-ui-state/combat-ui-state.module.code.ts"
+} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
 export interface CLPageButtonRowControl extends Control {
   Update?: (this: void, buttonrow: Control, page: number, maxpage: number) => undefined
