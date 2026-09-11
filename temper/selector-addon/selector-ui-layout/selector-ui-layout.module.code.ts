@@ -1,6 +1,6 @@
-import { ROOT_CONTROL_NAME } from "../selector-constants/selector-constants.module.code.ts"
-import { saveCurrentAsPack } from "../selector-packs/selector-packs.module.code.ts"
-import { STRINGS } from "../selector-strings/selector-strings.module.code.ts"
+import { ROOT_CONTROL_NAME } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import { saveCurrentAsPack } from "akasha/temper/selector-addon/selector-packs/selector-packs.module.code.ts"
+import { STRINGS } from "akasha/temper/selector-addon/selector-strings/selector-strings.module.code.ts"
 
 export interface SelectorControls {
   root: Control

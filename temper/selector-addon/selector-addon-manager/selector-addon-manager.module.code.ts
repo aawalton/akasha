@@ -1,5 +1,5 @@
-import { ADDON_NAME } from "../selector-constants/selector-constants.module.code.ts"
-import type { AddonEntry } from "../selector-types/selector-types.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import type { AddonEntry } from "akasha/temper/selector-addon/selector-types/selector-types.module.code.ts"
 
 function manager(): AddOnManager {
   return GetAddOnManager()

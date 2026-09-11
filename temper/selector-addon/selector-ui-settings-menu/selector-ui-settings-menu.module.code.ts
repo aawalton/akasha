@@ -1,13 +1,13 @@
-import "../../addon-library-types/temper-addons-global/temper-addons-global.type-declaration.d.ts"
+import "akasha/temper/addon-library-types/temper-addons-global/temper-addons-global.type-declaration.d.ts"
 
-import { MAX_ADDON_LOAD_PACK_KEYBINDS } from "../selector-constants/selector-constants.module.code.ts"
-import { getSavedVariables } from "../selector-saved-variables/selector-saved-variables.module.code.ts"
-import { STRINGS } from "../selector-strings/selector-strings.module.code.ts"
+import { MAX_ADDON_LOAD_PACK_KEYBINDS } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
+import { STRINGS } from "akasha/temper/selector-addon/selector-strings/selector-strings.module.code.ts"
 import {
   getSelectedPackName,
   refreshPackDropdown,
-} from "../selector-ui-dropdown/selector-ui-dropdown.module.code.ts"
-import { setSettingsHandler } from "../selector-ui-layout/selector-ui-layout.module.code.ts"
+} from "akasha/temper/selector-addon/selector-ui-dropdown/selector-ui-dropdown.module.code.ts"
+import { setSettingsHandler } from "akasha/temper/selector-addon/selector-ui-layout/selector-ui-layout.module.code.ts"
 
 type ToggleKey =
   | "showGlobalPacks"

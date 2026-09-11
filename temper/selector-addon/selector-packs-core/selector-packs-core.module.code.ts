@@ -1,4 +1,7 @@
-import type { AddonEntry, Pack } from "../selector-types/selector-types.module.code.ts"
+import type {
+  AddonEntry,
+  Pack,
+} from "akasha/temper/selector-addon/selector-types/selector-types.module.code.ts"
 
 export function buildPackFromEntries(entries: readonly AddonEntry[]): Pack {
   const pack: Pack = {}

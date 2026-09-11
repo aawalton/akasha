@@ -1,14 +1,18 @@
 import {
   COLOR_CHAR_PACK,
   COLOR_GLOBAL_PACK,
-} from "../selector-constants/selector-constants.module.code.ts"
-import { deletePack, listPacks, loadPack } from "../selector-packs/selector-packs.module.code.ts"
-import { getSavedVariables } from "../selector-saved-variables/selector-saved-variables.module.code.ts"
-import { STRINGS } from "../selector-strings/selector-strings.module.code.ts"
+} from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import {
+  deletePack,
+  listPacks,
+  loadPack,
+} from "akasha/temper/selector-addon/selector-packs/selector-packs.module.code.ts"
+import { getSavedVariables } from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
+import { STRINGS } from "akasha/temper/selector-addon/selector-strings/selector-strings.module.code.ts"
 import {
   getControls,
   setDeleteHandler,
-} from "../selector-ui-layout/selector-ui-layout.module.code.ts"
+} from "akasha/temper/selector-addon/selector-ui-layout/selector-ui-layout.module.code.ts"
 
 interface DropdownEntry {
   packName: string

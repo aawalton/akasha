@@ -3,22 +3,22 @@ import {
   reloadUI,
   requestPrioritySave,
   setAddOnEnabled,
-} from "../selector-addon-manager/selector-addon-manager.module.code.ts"
+} from "akasha/temper/selector-addon/selector-addon-manager/selector-addon-manager.module.code.ts"
 import {
   ADDONS_NEVER_DISABLED,
   GLOBAL_PACK_NAME,
-} from "../selector-constants/selector-constants.module.code.ts"
+} from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
 import {
   buildPackFromEntries,
   computeEnableActions,
-} from "../selector-packs-core/selector-packs-core.module.code.ts"
+} from "akasha/temper/selector-addon/selector-packs-core/selector-packs-core.module.code.ts"
 import {
   getCurrentCharId,
   getCurrentCharName,
   getSavedVariables,
   setCurrentSelectedPack,
-} from "../selector-saved-variables/selector-saved-variables.module.code.ts"
-import type { Pack } from "../selector-types/selector-types.module.code.ts"
+} from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
+import type { Pack } from "akasha/temper/selector-addon/selector-types/selector-types.module.code.ts"
 
 function isCharacterScoped(charName: string | undefined): boolean {
   if (charName !== undefined && charName !== "" && charName !== GLOBAL_PACK_NAME) {

@@ -1,7 +1,10 @@
-import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
-import { GLOBAL_PACK_NAME } from "../selector-constants/selector-constants.module.code.ts"
-import { listPacks, loadPack } from "../selector-packs/selector-packs.module.code.ts"
+import { GLOBAL_PACK_NAME } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import {
+  listPacks,
+  loadPack,
+} from "akasha/temper/selector-addon/selector-packs/selector-packs.module.code.ts"
 
 function tokenize(args: string): string[] {
   const tokens: string[] = []

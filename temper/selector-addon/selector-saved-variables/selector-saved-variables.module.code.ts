@@ -3,12 +3,12 @@ import {
   MAX_ADDON_LOAD_PACK_KEYBINDS,
   SAVED_VARIABLES_NAME,
   SAVED_VARIABLES_VERSION,
-} from "../selector-constants/selector-constants.module.code.ts"
+} from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
 import type {
   PackKeybind,
   SavedVariablesData,
   SelectedPackRef,
-} from "../selector-types/selector-types.module.code.ts"
+} from "akasha/temper/selector-addon/selector-types/selector-types.module.code.ts"
 
 function buildDefaults(): SavedVariablesData {
   const packKeybinds: PackKeybind[] = []

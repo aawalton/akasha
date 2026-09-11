@@ -1,6 +1,6 @@
-import { MAX_ADDON_LOAD_PACK_KEYBINDS } from "../selector-constants/selector-constants.module.code.ts"
-import { loadPack } from "../selector-packs/selector-packs.module.code.ts"
-import { getSavedVariables } from "../selector-saved-variables/selector-saved-variables.module.code.ts"
+import { MAX_ADDON_LOAD_PACK_KEYBINDS } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import { loadPack } from "akasha/temper/selector-addon/selector-packs/selector-packs.module.code.ts"
+import { getSavedVariables } from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
 
 function isValidSlot(slot: number): boolean {
   return slot >= 1 && slot <= MAX_ADDON_LOAD_PACK_KEYBINDS

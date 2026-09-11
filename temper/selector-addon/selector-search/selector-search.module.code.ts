@@ -1,14 +1,14 @@
-import { listAddons } from "../selector-addon-manager/selector-addon-manager.module.code.ts"
-import { GLOBAL_PACK_NAME } from "../selector-constants/selector-constants.module.code.ts"
-import { isPackActive } from "../selector-packs-core/selector-packs-core.module.code.ts"
+import { listAddons } from "akasha/temper/selector-addon/selector-addon-manager/selector-addon-manager.module.code.ts"
+import { GLOBAL_PACK_NAME } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import { isPackActive } from "akasha/temper/selector-addon/selector-packs-core/selector-packs-core.module.code.ts"
 import {
   getCurrentCharId,
   getCurrentSelectedPack,
   getSavedVariables,
-} from "../selector-saved-variables/selector-saved-variables.module.code.ts"
-import { STRINGS } from "../selector-strings/selector-strings.module.code.ts"
-import type { Pack } from "../selector-types/selector-types.module.code.ts"
-import { getControls } from "../selector-ui-layout/selector-ui-layout.module.code.ts"
+} from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
+import { STRINGS } from "akasha/temper/selector-addon/selector-strings/selector-strings.module.code.ts"
+import type { Pack } from "akasha/temper/selector-addon/selector-types/selector-types.module.code.ts"
+import { getControls } from "akasha/temper/selector-addon/selector-ui-layout/selector-ui-layout.module.code.ts"
 
 const SEARCH_STATE = { term: "", ordinal: -1 }
 

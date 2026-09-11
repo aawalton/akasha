@@ -1,12 +1,12 @@
-import { GLOBAL_PACK_NAME } from "../selector-constants/selector-constants.module.code.ts"
-import { getCurrentSelectedPack } from "../selector-saved-variables/selector-saved-variables.module.code.ts"
-import { searchAddon } from "../selector-search/selector-search.module.code.ts"
-import { STRINGS } from "../selector-strings/selector-strings.module.code.ts"
-import { refreshPackDropdown } from "../selector-ui-dropdown/selector-ui-dropdown.module.code.ts"
+import { GLOBAL_PACK_NAME } from "akasha/temper/selector-addon/selector-constants/selector-constants.module.code.ts"
+import { getCurrentSelectedPack } from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
+import { searchAddon } from "akasha/temper/selector-addon/selector-search/selector-search.module.code.ts"
+import { STRINGS } from "akasha/temper/selector-addon/selector-strings/selector-strings.module.code.ts"
+import { refreshPackDropdown } from "akasha/temper/selector-addon/selector-ui-dropdown/selector-ui-dropdown.module.code.ts"
 import {
   createSelectorControls,
   getControls,
-} from "../selector-ui-layout/selector-ui-layout.module.code.ts"
+} from "akasha/temper/selector-addon/selector-ui-layout/selector-ui-layout.module.code.ts"
 
 const ADDONS_HOST_SCENE = "gameMenuInGame"
 
