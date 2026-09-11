@@ -2308,7 +2308,7 @@
 							<Anchor point="BOTTOMLEFT" offsetX="4" offsetY="-3" />
 
 							<Controls>
-								<Control name="$(parent)Mundus" inherits="Misc_Setup_Item">
+								<Control name="$(parent)Mundus" inherits="TemperCombat_Misc_Setup_Item">
 									<Anchor point="TOPLEFT" />
 									<Anchor point="BOTTOMLEFT" />
 								</Control>
@@ -2318,7 +2318,7 @@
 									<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)Mundus" offsetX="2" />
 								</Line>
 
-								<Control name="$(parent)DrinkFood" inherits="Misc_Setup_Item">
+								<Control name="$(parent)DrinkFood" inherits="TemperCombat_Misc_Setup_Item">
 									<Anchor point="TOPLEFT" relativePoint="TOPRIGHT" relativeTo="$(parent)Mundus" offsetX="5" />
 									<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)Mundus" offsetX="5" />
 								</Control>
@@ -2328,7 +2328,7 @@
 									<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)DrinkFood" offsetX="2" />
 								</Line>
 
-								<Control name="$(parent)Potions" inherits="Misc_Setup_Item">
+								<Control name="$(parent)Potions" inherits="TemperCombat_Misc_Setup_Item">
 									<Anchor point="TOPLEFT" relativePoint="TOPRIGHT" relativeTo="$(parent)DrinkFood" offsetX="5" />
 									<Anchor point="BOTTOMRIGHT" />
 								</Control>

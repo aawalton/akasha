@@ -602,7 +602,7 @@
 			</Controls>
 		</Control>
 
-		<Control name="Misc_Setup_Item" virtual="true" mouseEnabled="true">
+		<Control name="TemperCombat_Misc_Setup_Item" virtual="true" mouseEnabled="true">
 			<Dimensions x="202" />
 			<Controls>
 				<Texture name="$(parent)Icon1" textureFile="EsoUI/Art/CharacterWindow/gearSlot_head.dds">
