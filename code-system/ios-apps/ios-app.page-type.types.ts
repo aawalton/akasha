@@ -17,6 +17,7 @@ import type { NativeShellRepoPath } from "akasha/code-system/ios-apps/properties
 import type { Programs } from "akasha/code-system/ios-apps/properties/programs.relation-property.types.ts"
 import type { SpaSourcePath } from "akasha/code-system/ios-apps/properties/spa-source-path.text-property.types.ts"
 import type { StageScript } from "akasha/code-system/ios-apps/properties/stage-script.relation-property.types.ts"
+import type { SyncScript } from "akasha/code-system/ios-apps/properties/sync-script.relation-property.types.ts"
 import type { WebDirectory } from "akasha/code-system/ios-apps/properties/web-directory.build-folder-property.types.ts"
 import type { WebEntry } from "akasha/code-system/ios-apps/properties/web-entry.file-property.types.ts"
 import type { WebEnvPath } from "akasha/code-system/ios-apps/properties/web-env-path.text-property.types.ts"
@@ -49,4 +50,5 @@ export type IosApp = WorkspacePackage & {
   widgetBundleId?: WidgetBundleId
   widgetProfileName?: WidgetProfileName
   webDirectory?: WebDirectory
+  syncScript?: SyncScript
 }

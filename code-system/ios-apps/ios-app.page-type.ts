@@ -44,6 +44,7 @@ export const iosApp = {
     "text-property/widget-profile-name",
     "build-folder-property/web-directory",
     "shell-script/write-install-manifest",
+    "relation-property/sync-script",
   ],
   extends: ["page-type/workspace-package"],
   properties: [
@@ -81,6 +82,7 @@ export const iosApp = {
     { pageProperty: "text-property/widget-bundle-id", required: false, many: false },
     { pageProperty: "text-property/widget-profile-name", required: false, many: false },
     { pageProperty: "build-folder-property/web-directory", required: false, many: false },
+    { pageProperty: "relation-property/sync-script", required: false, many: false },
   ],
   invariants: [
     {
