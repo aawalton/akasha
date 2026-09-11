@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { handWrittenGlobalIsNoMethod } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.check.code.ts"
 import { DECLARATION } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { arriving, filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
@@ -54,15 +54,6 @@ function rooted(): string {
     { path: EXTRA_AT, value: { id: EXTRA_ID, pageTypeSlug: DECLARATION, slug: "extra" } },
   ])
   return root
-}
-
-function arriving(root: string, bodies: Readonly<Record<string, string>>): Change {
-  const encoder = new TextEncoder()
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    return said === undefined ? null : encoder.encode(said)
-  }
-  return { root, changed: Object.keys(bodies), before: at, after: at }
 }
 
 function judged(change: Change): readonly Judged[] {

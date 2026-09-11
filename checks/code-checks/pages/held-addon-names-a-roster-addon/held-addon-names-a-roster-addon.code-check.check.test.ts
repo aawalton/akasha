@@ -5,9 +5,12 @@ import {
   touches,
 } from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.check.code.ts"
 import { ADDON } from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.decision.code.ts"
-import { filing, shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  arriving,
+  filing,
+  shadowed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   noPathsFiled,
   valueAlsoFiled,
@@ -36,15 +39,6 @@ function rooted(): string {
     { path: ADDON_PAGE, value: { id: ADDON_ID, pageTypeSlug: ADDON, slug: "lib-async" } },
   ])
   return root
-}
-
-function arriving(root: string, bodies: Readonly<Record<string, string>>): Change {
-  const encoder = new TextEncoder()
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    return said === undefined ? null : encoder.encode(said)
-  }
-  return { root, changed: Object.keys(bodies), before: at, after: at }
 }
 
 test("the check asks the index for the pages of a page type and where each page sits", () => {

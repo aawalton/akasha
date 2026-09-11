@@ -176,6 +176,14 @@ export function change(
   return { root, changed, before: at, after: at }
 }
 
+export function arriving(root: string, bodies: Readonly<Record<string, string>>): Change {
+  const at = (path: string): Uint8Array | null => {
+    const said = bodies[path]
+    return said === undefined ? null : bytesOf(said)
+  }
+  return { root, changed: Object.keys(bodies), before: at, after: at }
+}
+
 export function proposing(
   root: string,
   path: string,
