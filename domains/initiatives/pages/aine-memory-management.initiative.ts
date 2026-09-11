@@ -34,6 +34,11 @@ export const aineMemoryManagement = {
       workingMemory:
         "Per-worker peak times worker count is the number that reaches the host, so a ceiling on one bounds nothing without a ceiling on how many. Subagent fan-out is capped at 65 today, chosen against nothing.\n",
     },
+    {
+      statement: "Every limit the workstation holds is listed in one place.",
+      workingMemory:
+        "The live ones are scattered: the reaper's two ceilings in its own modules, the oomd thresholds in a unit drop-in, the node heap in the Claude settings file, the admission guard's free-memory minimum in a module of its own, and whatever cgroup files the units leave at max. Nothing reads them together, so no one of them can be set against the rest.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
