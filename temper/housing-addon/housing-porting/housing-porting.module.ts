@@ -16,5 +16,9 @@ export const housingPorting = {
       invariantKind: "departure",
       statement: "Where a port lands is a player setting rather than a per-house choice.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key bound to a favorite slot holding no house says so.",
+    },
   ],
 } as const satisfies Module

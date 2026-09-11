@@ -55,10 +55,11 @@ function portToMyHouseBinding(this: void, id: number, portType: number): boolean
     if (portType === portToFriend.constants.PORT_TYPE_OUTSIDE) {
       portOutside = true
     }
-    if (favorites[id] !== undefined) {
-      portToFriend.PortToMyHousesById(favorites[id], portOutside)
+    const houseId = favorites[id]
+    if (houseId !== undefined) {
+      portToFriend.PortToMyHousesById(houseId, portOutside)
+      return true
     }
-    return true
   }
   d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
   return false
