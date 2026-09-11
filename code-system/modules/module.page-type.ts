@@ -12,6 +12,7 @@ export const module = {
     "file-property/module-types",
     "code-file-property/test",
     "code-file-property/test-fixtures",
+    "boolean-property/answers-a-checkout-root",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -20,6 +21,7 @@ export const module = {
     { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
     { pageProperty: "boolean-property/allows-tmp-paths", required: false, many: false },
+    { pageProperty: "boolean-property/answers-a-checkout-root", required: false, many: false },
   ],
   invariants: [
     {

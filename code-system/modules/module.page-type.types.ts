@@ -1,3 +1,4 @@
+import type { AnswersACheckoutRoot } from "akasha/code-system/modules/properties/answers-a-checkout-root.boolean-property.types.ts"
 import type { Code } from "akasha/code-system/modules/properties/code.code-file-property.types.ts"
 import type { ModuleTypes } from "akasha/code-system/modules/properties/module-types.file-property.types.ts"
 import type { Test } from "akasha/code-system/modules/properties/test.code-file-property.types.ts"
@@ -11,4 +12,5 @@ export type Module = Domain & {
   test?: Test
   testFixtures?: TestFixtures
   allowsTmpPaths?: AllowsTmpPaths
+  answersACheckoutRoot?: AnswersACheckoutRoot
 }
