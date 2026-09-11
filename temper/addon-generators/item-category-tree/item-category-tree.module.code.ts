@@ -1,9 +1,9 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
-import { identityOf } from "akasha/temper/addon-generators/slug-of/slug-of.module.code.ts"
 import {
   nodeUnder,
   type TreeNode,
 } from "akasha/temper/addon-generators/tree-node-under/tree-node-under.module.code.ts"
+import { identityOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
 const ITEM_CATEGORY_TREE_EAV_SCHEMA = z
