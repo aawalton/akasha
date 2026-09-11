@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
 import {
   anchorIn,
+  everyFor,
+  everyIn,
   importsIn,
   lineFor,
   namedIn,
   namesIn,
   namingOf,
   openedIn,
+  withoutName,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
@@ -56,6 +59,30 @@ test("a name taken out of a line leaves the other names that line carries", () =
       : withoutOne(text, line, bound, gone)
 
   expect(left).toBe('import { two } from "./held.module.code.ts"')
+})
+
+const EVERY_LINE = 'import * as held from "./held.module.code.ts"'
+
+test("a line naming everything a path exports is answered under the name it binds", () => {
+  const found = everyIn(parsedAs(AT, `${ONE}\n${EVERY_LINE}\n`))
+
+  expect(found.get("held")).toEqual({ from: "./held.module.code.ts", type: false })
+  expect(found.get("one")).toBe(undefined)
+})
+
+test("such a line is written from that name and that path", () => {
+  expect(everyFor("held", "./held.module.code.ts")).toBe(EVERY_LINE)
+})
+
+test("taking the only name a line carries leaves no line", () => {
+  const one = `${ONE}\n${EVERY_LINE}\n`
+  const two = 'import { one, two } from "./held.module.code.ts"\n'
+
+  expect(withoutName(one, parsedAs(AT, one), "held")).toEqual({ old: `${EVERY_LINE}\n`, new: "" })
+  expect(withoutName(two, parsedAs(AT, two), "one")?.new).toBe(
+    'import { two } from "./held.module.code.ts"'
+  )
+  expect(withoutName(one, parsedAs(AT, one), "missing")).toBe(null)
 })
 
 test("a name imported under another name is answered by the name at its source", () => {

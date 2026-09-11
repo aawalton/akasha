@@ -86,6 +86,10 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement: "A namespace import the moved body names goes with that declaration.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import the body left behind no longer names goes with the declaration.",
     },
     {

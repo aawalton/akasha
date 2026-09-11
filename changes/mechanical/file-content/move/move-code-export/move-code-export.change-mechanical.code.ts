@@ -7,12 +7,15 @@ import type {
 import {
   anchorIn,
   type Carried,
+  everyFor,
+  everyIn,
   importsIn,
   lineFor,
   namedIn,
   namesIn,
   namingOf,
   openedIn,
+  withoutName,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
@@ -57,7 +60,7 @@ type Plan = {
 
 type Refused = { readonly refused: string }
 
-type Carrying = Carried & { readonly naming: string }
+type Carrying = Carried & { readonly naming: string; readonly every: boolean }
 
 type Held =
   | ts.TypeAliasDeclaration
@@ -107,22 +110,28 @@ function namingsIn(source: ts.SourceFile): ReadonlyMap<string, string> {
 function carriedIn(declared: Held, of: string, beside: string): ReadonlyMap<string, Carrying> {
   const source = declared.getSourceFile()
   const held = importsIn(source)
+  const every = everyIn(source)
   const naming = namingsIn(source)
   const found = new Map<string, Carrying>()
   for (const name of namesIn(declared)) {
-    const named = held.get(name)
+    const named = held.get(name) ?? every.get(name)
     if (named !== undefined) {
-      found.set(name, { ...named, naming: naming.get(name) ?? name })
+      found.set(name, { ...named, naming: naming.get(name) ?? name, every: every.has(name) })
       continue
     }
     const one = name === of ? null : declaredIn(source, name)
-    if (one !== null) found.set(name, { from: beside, type: typed(one), naming: name })
+    if (one === null) continue
+    found.set(name, { from: beside, type: typed(one), naming: name, every: false })
   }
   return found
 }
 
 function namedAs(name: string, one: Carrying): string {
   return one.naming === name ? name : `${one.naming} as ${name}`
+}
+
+function lineAs(name: string, spelled: string, one: Carrying): string {
+  return one.every ? everyFor(name, spelled) : lineFor(namedAs(name, one), spelled, one.type)
 }
 
 function spelledFor(given: Asked, from: string): string {
@@ -139,31 +148,9 @@ function bodyFor(carried: ReadonlyMap<string, Carrying>, passage: string, given:
   const lines = [...carried]
     .filter(([, named]) => !ownIn(given, named.from))
     .sort((one, two) => one[1].from.localeCompare(two[1].from))
-    .map(([name, one]) => lineFor(namedAs(name, one), spelledFor(given, one.from), one.type))
+    .map(([name, one]) => lineAs(name, spelledFor(given, one.from), one))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
-}
-
-function droppedFor(
-  text: string,
-  source: ts.SourceFile,
-  at: string,
-  named: string
-): Passage | null {
-  for (const one of source.statements) {
-    if (!ts.isImportDeclaration(one)) continue
-    const bound = namedIn(one)
-    if (bound === null) continue
-    const gone = bound.elements.find((each) => each.name.text === named)
-    if (gone === undefined) continue
-    if (bound.elements.length > 1) {
-      return { at, old: textOfNode(text, one), new: withoutOne(text, one, bound, gone) }
-    }
-    const ended = one.getEnd()
-    const from = one.getStart(source)
-    return { at, old: text.slice(from, text[ended] === LINE ? ended + 1 : ended), new: "" }
-  }
-  return null
 }
 
 function droppedIn(
@@ -176,8 +163,8 @@ function droppedIn(
   const found: Passage[] = []
   for (const named of carried.keys()) {
     if (still.has(named)) continue
-    const dropped = droppedFor(text, source, at, named)
-    if (dropped !== null) found.push(dropped)
+    const dropped = withoutName(text, source, named)
+    if (dropped !== null) found.push({ at, ...dropped })
   }
   return found
 }
@@ -283,17 +270,17 @@ function ontoFor(
   passage: string
 ): Passage | Refused {
   const first = parsedAs(given.to, whole)
-  const gone = droppedFor(whole, first, given.to, given.of)
+  const gone = withoutName(whole, first, given.of)
   const landed = gone === null ? whole : whole.replace(gone.old, gone.new)
   const source = parsedAs(given.to, landed)
-  const held = importsIn(source)
+  const held = new Map([...importsIn(source), ...everyIn(source)])
   const lines: string[] = []
   for (const [name, one] of carried) {
     if (ownIn(given, one.from)) continue
     const spelled = spelledFor(given, one.from)
     const there = held.get(name)
     if (there === undefined) {
-      lines.push(lineFor(namedAs(name, one), spelled, one.type))
+      lines.push(lineAs(name, spelled, one))
       continue
     }
     if (there.from !== spelled) {

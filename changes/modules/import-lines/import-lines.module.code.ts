@@ -2,9 +2,16 @@ import ts from "typescript"
 
 const LINE = "\n"
 
+const EVERY = "*"
+
 export type Carried = {
   readonly from: string
   readonly type: boolean
+}
+
+export type Taken = {
+  readonly old: string
+  readonly new: string
 }
 
 function spelt(one: ts.Identifier): boolean {
@@ -50,8 +57,29 @@ export function importsIn(source: ts.SourceFile): ReadonlyMap<string, Carried> {
   return found
 }
 
+function everyOf(one: ts.ImportDeclaration): string | null {
+  const bound = one.importClause?.namedBindings
+  return bound !== undefined && ts.isNamespaceImport(bound) ? bound.name.text : null
+}
+
+export function everyIn(source: ts.SourceFile): ReadonlyMap<string, Carried> {
+  const found = new Map<string, Carried>()
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const name = everyOf(one)
+    const named = one.moduleSpecifier
+    if (name === null || !ts.isStringLiteral(named)) continue
+    found.set(name, { from: named.text, type: one.importClause?.isTypeOnly === true })
+  }
+  return found
+}
+
 export function lineFor(name: string, spelled: string, type: boolean): string {
   return `import ${type ? "type " : ""}{ ${name} } from ${JSON.stringify(spelled)}`
+}
+
+export function everyFor(name: string, spelled: string): string {
+  return `import ${EVERY} as ${name} from ${JSON.stringify(spelled)}`
 }
 
 export function withoutOne(
@@ -67,6 +95,29 @@ export function withoutOne(
   const head = text.slice(one.getStart(source), bound.getStart(source))
   const tail = text.slice(bound.getEnd(), one.getEnd())
   return `${head}{ ${kept.join(", ")} }${tail}`
+}
+
+function wholeOut(text: string, source: ts.SourceFile, one: ts.ImportDeclaration): Taken {
+  const ended = one.getEnd()
+  const from = one.getStart(source)
+  return { old: text.slice(from, text[ended] === LINE ? ended + 1 : ended), new: "" }
+}
+
+export function withoutName(text: string, source: ts.SourceFile, named: string): Taken | null {
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const bound = namedIn(one)
+    if (bound === null) {
+      if (everyOf(one) !== named) continue
+      return wholeOut(text, source, one)
+    }
+    const gone = bound.elements.find((each) => each.name.text === named)
+    if (gone === undefined) continue
+    if (bound.elements.length === 1) return wholeOut(text, source, one)
+    const head = text.slice(one.getStart(source), one.getEnd())
+    return { old: head, new: withoutOne(text, one, bound, gone) }
+  }
+  return null
 }
 
 export function anchorIn(text: string, source: ts.SourceFile): string | null {

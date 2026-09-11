@@ -473,3 +473,34 @@ test("carrying such an import where the two bodies would name each other is refu
     `\`searchOf\` names \`childOf\` from \`${FROM}\`, which would name \`${TO}\` back`
   )
 })
+
+const STARRED_LINE = `import * as Utilities from "./utils.held.ts"`
+
+const STARRED = `${STARRED_LINE}
+
+export const AT = Utilities.questOf()
+`
+
+test("a namespace import the moved body names goes with that declaration", async () => {
+  const world = worldOf({ [FROM]: STARRED })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe(STARRED)
+})
+
+test("a landing body takes that namespace import too", async () => {
+  const world = worldOf({ [FROM]: STARRED, [TO]: BARE })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, TO).join("")).toContain(STARRED_LINE)
+})
+
+test("a namespace import the body left behind no longer names is dropped", async () => {
+  const said = await runChange(worldOf({ [FROM]: STARRED }), { from: FROM, to: TO, of: "AT" })
+
+  expect(takenAt(said, FROM)).toContain(`${STARRED_LINE}\n`)
+})

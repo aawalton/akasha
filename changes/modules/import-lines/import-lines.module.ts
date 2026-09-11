@@ -31,6 +31,18 @@ export const importLines = {
     },
     {
       invariantKind: "departure",
+      statement: "A line naming everything a path exports is answered under the name it binds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a line is written from that name and that path rather than from a list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The only name such a line carries is that name, so taking it leaves no line.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The anchor a body offers is the last import line that body holds.",
     },
     {
