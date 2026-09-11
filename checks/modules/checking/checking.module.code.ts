@@ -16,6 +16,10 @@ import type {
   Judging,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { modelChecksIn } from "akasha/checks/modules/model-running/model-running.module.code.ts"
+import {
+  diesIn,
+  sparingOver,
+} from "akasha/checks/modules/mortal-sparing/mortal-sparing.module.code.ts"
 import { refusalText } from "akasha/checks/modules/refusal-text/refusal-text.module.code.ts"
 import { framesOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -68,6 +72,8 @@ const TAKES_EVERY_CHECK =
 const NOT_GATHERED = "could not be gathered, so it judged nothing"
 
 const EVERY_PHASE: readonly Phase[] = ["change", "worktree", "deploy", "audit"]
+
+const AT_CHANGE: Phase = "change"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -343,6 +349,8 @@ export function judgingBy(
         return [{ path: first.page, reason: TAKES_EVERY_CHECK }]
       }
       const shadow = shadowAsked(change)
+      const dies = phase === AT_CHANGE ? diesIn(shadow.index.knownIn()) : null
+      const sparing = dies === null ? null : sparingOver(change, dies)
       const runId = Bun.randomUUIDv7()
       const said: Judged[] = []
       for (const one of checksFor(left, change, shadow)) {
@@ -366,8 +374,9 @@ export function judgingBy(
         )
         recordCost(one.root, one.page, cost, logsUnder(one, group))
         const over = ranOver(one, group, cost)
-        if (over !== null) found.push(over)
-        said.push(...found)
+        const kept = sparing === null ? found : [...(await sparing(one.run, found))]
+        if (over !== null) kept.push(over)
+        said.push(...kept)
       }
       return said
     },

@@ -157,6 +157,10 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
+      statement: "A mortal page is outside that ratchet.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check reads any path by name.",
     },
     {

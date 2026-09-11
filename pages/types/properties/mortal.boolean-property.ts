@@ -27,6 +27,14 @@ export const mortal = {
     },
     {
       invariantKind: "departure",
+      statement: "A change is not refused for a fault a mortal page already had.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change is refused for a fault that change puts into a mortal page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Either exemption applies on its own.",
     },
     {
