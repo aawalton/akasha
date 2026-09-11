@@ -163,6 +163,18 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "absence",
+      statement: "A name a destructuring pattern binds is no rooted name and no spelled name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A parameter's name is no rooted name and no spelled name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name a `for` declaration binds is no rooted name and no spelled name.",
+    },
+    {
+      invariantKind: "absence",
       statement: "A write from a language other than TypeScript is not judged.",
     },
     {
