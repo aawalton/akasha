@@ -77,5 +77,8 @@ export const aineResourceManagement = {
         "Processor time and memory both. check-cost already does this for four of the eight: a check and an audit through checking, a command through calling, a change through change-running and apply-running. Each writes one jsonl line beside the page of what ran, uncommitted and rolling at 8 MiB, carrying cpuSeconds, childCpuSeconds, wallMs, peakBytes, peakAddedBytes and peakMeasured. A guard, a test, a deploy and a bash call record nothing, so half the ceilings would be guesses.",
     },
   ],
-  constraints: ["Every ceiling number is settled with Alan rather than chosen."],
+  constraints: [
+    "Adding a mechanism requires Alan's approval.",
+    "Setting specific numbers requires Alan's approval.",
+  ],
 } as const satisfies Initiative
