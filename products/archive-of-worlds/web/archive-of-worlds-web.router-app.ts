@@ -30,6 +30,7 @@ export const archiveOfWorldsWeb = {
     "module/archive-of-worlds-nav-items",
     "app-routes/archive-of-worlds-web-routes",
   ],
+  toolReached: ["react-dom"],
   invariants: [
     {
       invariantKind: "departure",
