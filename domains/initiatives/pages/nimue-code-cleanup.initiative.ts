@@ -16,7 +16,7 @@ export const nimueCodeCleanup = {
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
       workingMemory:
-        "A live folder move leaves the manifest stale, shown by drafting two. `change-manifest-ways` reads only `exports`, so `main`, `scripts`, `bin` and `files` are invisible to it. `waysNaming` gates on that same member read as whole paths, and the root states one wildcard export, so the gate shuts for every move there is. A move repoints a TypeScript import specifier and nothing else. `folder-not-left-named` cannot catch this, judging only the bodies a move writes.\n",
+        "Met, by another route. A move reaches every body spelling a moved file's name and repoints a run resolving to a whole path that moved, so the root manifest's `main` and both `scripts` follow it: 3 of 3 members naming a real file, measured, where 0 followed before. `change-manifest-ways` is still gated shut by `waysNaming` reading only `exports`, and the one `exports` entry is the wildcard `./*`, which no move breaks. Nothing there is left to repoint.",
     },
     {
       statement: "All code-system files are in the code/ folder.",
