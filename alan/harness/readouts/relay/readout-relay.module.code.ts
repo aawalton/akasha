@@ -102,14 +102,6 @@ export async function relayReading(
   }
 }
 
-export function carryTo(to: string, secret: string, body: unknown): Promise<Response> {
-  return fetch(new URL(RELAY_PATH, to), {
-    method: "POST",
-    headers: { "Content-Type": "application/json", [RELAY_SECRET_HEADER]: secret },
-    body: JSON.stringify(body),
-  })
-}
-
 export function statedIn(open: Record<string, string | undefined>, name: string): string | null {
   const stated = open[name]?.trim()
   return stated === undefined || stated === "" ? null : stated

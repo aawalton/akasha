@@ -1,7 +1,17 @@
+import { RELAY_SECRET_HEADER } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   holdRelayed,
+  RELAY_PATH,
   relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+
+export function carryTo(to: string, secret: string, body: unknown): Promise<Response> {
+  return fetch(new URL(RELAY_PATH, to), {
+    method: "POST",
+    headers: { "Content-Type": "application/json", [RELAY_SECRET_HEADER]: secret },
+    body: JSON.stringify(body),
+  })
+}
 
 export function relayedFor(
   readout: string,

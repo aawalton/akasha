@@ -1,11 +1,11 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
-  carryTo,
   dropRelayed,
   RELAY_PATH,
   relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { carryTo } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
 import { z } from "zod"
 
