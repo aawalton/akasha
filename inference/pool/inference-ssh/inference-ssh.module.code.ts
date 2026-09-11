@@ -1,25 +1,12 @@
 import { spawn } from "node:child_process"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { sshArgs } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
 
 export interface SshTarget {
   readonly user: string
   readonly host: string
   readonly keyPath: string
-}
-
-function sshArgs(target: SshTarget): readonly string[] {
-  return [
-    "-i",
-    expandTilde(target.keyPath),
-    "-o",
-    "StrictHostKeyChecking=no",
-    "-o",
-    "UserKnownHostsFile=/dev/null",
-    "-o",
-    "ConnectTimeout=10",
-    `${target.user}@${target.host}`,
-  ]
 }
 
 interface RunResult {

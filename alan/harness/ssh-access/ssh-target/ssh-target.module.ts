@@ -12,5 +12,9 @@ export const sshTarget = {
       invariantKind: "departure",
       statement: "A target names a key path rather than carrying a key.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The options a target is reached with are stated here rather than by each caller.",
+    },
   ],
 } as const satisfies Module
