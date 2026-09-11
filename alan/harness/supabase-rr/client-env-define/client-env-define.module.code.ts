@@ -9,7 +9,7 @@ function refuseUnsetClientEnv(): undefined {
   for (const key of REQUIRED_KEYS) {
     if (!REQUIRED_SCHEMA.safeParse(process.env[key]).success) {
       throw new Error(
-        `supabaseClientEnvDefine: ${key} is empty — the bundle would ship with an un-inlined client env (compiles to undefined). Set it before building.`
+        `supabaseClientEnvGuard: ${key} is empty — the bundle would ship with an un-inlined client env (compiles to undefined). Set it before building.`
       )
     }
   }
