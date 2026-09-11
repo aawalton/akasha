@@ -25,9 +25,6 @@ export const astraIndexCleanup = {
       workingMemory:
         "Holds `index`, `reads` and `sops`. `index` is a stale copy nothing writes or reads since 234f8ddeac03; taking it away waits on the pty proxies and gateways started before that, which read it and throw where it is absent. `reads/agent` is a dead layout of 487k files, replaced by `reads/path` in b88f7238d4d, and nothing writes or sweeps it.",
     },
-    { statement: "`.git/akasha-restored` is gone." },
-    { statement: "`.git/answers` is gone." },
-    { statement: "`.git/deploy` is gone." },
     { statement: "`.git/harness-push` is gone." },
   ],
 } as const satisfies Initiative
