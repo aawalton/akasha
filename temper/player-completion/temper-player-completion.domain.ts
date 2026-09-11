@@ -55,6 +55,7 @@ export const temperPlayerCompletion = {
     "module/completion-companion-rapport-completeness",
     "module/completion-daily-writs-progress",
     "module/completion-lore-library-progress",
+    "module/lore-library-sparse-test-utils",
     "module/completion-recipe-progress",
     "module/completion-skill-points-progress",
     "module/completion-ui-types",

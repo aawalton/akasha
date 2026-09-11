@@ -8,32 +8,12 @@ import {
   extractLoreKnownSet,
   isLoreLibraryItemComplete,
 } from "akasha/temper/player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
+import {
+  sparseComplete,
+  sparseMissingOne,
+} from "akasha/temper/player-completion/lore-library-sparse-test-utils/lore-library-sparse-test-utils.module.code.ts"
 
 const CATEGORY = 1
-
-function sparseComplete(categoryIndex: number): Record<number, Record<number, number[]>> {
-  const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === categoryIndex)
-  if (!category) throw new Error(`no lore category ${categoryIndex}`)
-  const collections: Record<number, number[]> = {}
-  for (const collection of category.collections) {
-    collections[collection.collectionIndex] = collection.books.map((book) => book.bookIndex)
-  }
-  return { [categoryIndex]: collections }
-}
-
-function sparseMissingOne(categoryIndex: number): Record<number, Record<number, number[]>> {
-  const library = sparseComplete(categoryIndex)
-  const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === categoryIndex)
-  if (!category) throw new Error(`no lore category ${categoryIndex}`)
-  const firstCollection = category.collections[0]
-  if (!firstCollection) throw new Error("category has no collections")
-  const collections = library[categoryIndex]
-  if (!collections) throw new Error("sparse build missing category")
-  const books = collections[firstCollection.collectionIndex]
-  if (!books) throw new Error("sparse build missing collection")
-  collections[firstCollection.collectionIndex] = books.slice(1)
-  return library
-}
 
 describe("isLoreLibraryItemComplete over the sparse wire format", () => {
   test("returns true when every book in the category is known", () => {
