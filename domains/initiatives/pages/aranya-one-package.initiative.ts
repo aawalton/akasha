@@ -33,12 +33,12 @@ export const aranyaOnePackage = {
     {
       statement: "A check refuses a relative path.",
       workingMemory:
-        "The check judges at no phase, which its own invariant holds until the tree is clean. That is a deadlock: thirteen composers rewrite folded files back, so the count cannot reach zero while they run, and the gate that would stop them waits on zero. Mending every composer is the way out. runsOnChange judges what a change carries rather than the tree, so it need not wait on a clean tree. `akasha audit --check no-relative-specifier` is the meter, and a subagent cannot run it.",
+        "The check runs at change and refuses a relative specifier there, proved by a deliberate violation that was refused and dropped. runsOnWorktree, runsOnDeploy and runsOnAudit are still false: each reads the whole tree, which holds 22 refusals, all subagent pages draining as they are reaped. The page type calls for running at change before the count reaches zero, which this check own invariant had contradicted; that invariant is restated.",
     },
     {
       statement: "No file names another file by a relative path.",
       workingMemory:
-        "66 refusals over 124566 files, from 85324 at the start. Every hand-written specifier is folded, so all 66 are composer output. Thirteen composers write an import line as text with a relative specifier, not the three recorded here before; five are mended. A patch re-composes a page body, so patchPage un-folded 17 of 4384 pages 45 minutes after the fold. Subagent pages are mortal, so their count is a population rather than a backlog. The check leaves `./+types/` alone, as tsconfig rootDirs needs.",
+        "22 refusals over 124568 files, from 85324 at the start, and all 22 are subagent pages, which are mortal and drain as they are reaped. Every hand-written specifier is folded and all thirteen composers are mended, so nothing writes a relative specifier any more. A subagent page written after the mend is root-spelled, seen across two seats. The check runs at change now and refuses one there, proved by a deliberate violation that was refused and dropped.",
     },
   ],
 } as const satisfies Initiative
