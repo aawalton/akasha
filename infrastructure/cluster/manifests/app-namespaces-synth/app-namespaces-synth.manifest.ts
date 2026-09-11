@@ -7,4 +7,14 @@ export const appNamespacesSynth = {
   slug: "app-namespaces-synth",
   definition: "the namespaces the cluster has one application in each of",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every namespace named here has one application in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace no workload sits in is not named here.",
+    },
+  ],
 } as const satisfies Manifest
