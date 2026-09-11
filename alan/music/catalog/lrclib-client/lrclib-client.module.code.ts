@@ -1,3 +1,4 @@
+import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
 import {
   type LrclibRecord,
   lrclibSearchSchema,
@@ -9,16 +10,7 @@ const USER_AGENT = "temper-collections-music/0.1 ( aawalton@gmail.com )"
 
 export const RATE_LIMIT_MS = 250
 
-let pending: Promise<void> = Promise.resolve()
-
-function enqueue<T>(fn: () => Promise<T>): Promise<T> {
-  const result = pending.then(fn)
-  pending = result.then(
-    () => new Promise((r) => setTimeout(r, RATE_LIMIT_MS)),
-    () => new Promise((r) => setTimeout(r, RATE_LIMIT_MS))
-  )
-  return result
-}
+const enqueue = pacedQueue(RATE_LIMIT_MS)
 
 export async function searchLyrics(
   trackName: string,

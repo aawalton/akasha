@@ -1,3 +1,4 @@
+import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
 import {
   type MbArtist,
   type MbArtistSearchHit,
@@ -17,16 +18,7 @@ export const RATE_LIMIT_MS = 1100
 
 export const BROWSE_PAGE_SIZE = 100
 
-let pending: Promise<void> = Promise.resolve()
-
-function enqueue<T>(fn: () => Promise<T>): Promise<T> {
-  const result = pending.then(fn)
-  pending = result.then(
-    () => new Promise((r) => setTimeout(r, RATE_LIMIT_MS)),
-    () => new Promise((r) => setTimeout(r, RATE_LIMIT_MS))
-  )
-  return result
-}
+const enqueue = pacedQueue(RATE_LIMIT_MS)
 
 async function mbGet(path: string, params: Record<string, string>): Promise<unknown> {
   const query = new URLSearchParams({ ...params, fmt: "json" })

@@ -34,6 +34,7 @@ export const utilsNarrow = {
     "module/json-value",
     "module/narrow-error",
     "module/no-op",
+    "module/paced-queue",
     "module/require-at",
     "module/require-defined",
     "module/require-env",
