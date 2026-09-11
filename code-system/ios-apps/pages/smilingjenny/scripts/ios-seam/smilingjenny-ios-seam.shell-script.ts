@@ -6,6 +6,7 @@ export const smilingjennyIosSeam = {
   type: "shell-script",
   slug: "smilingjenny-ios-seam",
   definition: "the native layer written into Jenny's generated Xcode project",
+  scripting: {},
   shell: "sh",
   sourced: false,
 } as const satisfies ShellScript
