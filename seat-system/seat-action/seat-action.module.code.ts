@@ -1,3 +1,4 @@
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 import { controlOf, setControl } from "../seat-control/seat-control.module.code.ts"
 
 const DEFAULT_TIMEOUT_MS = 30_000
@@ -56,10 +57,6 @@ export async function setRequestedAction(
   )
 }
 
-function actionText(value: unknown): string | null {
-  return typeof value === "string" && value !== "" ? value : null
-}
-
 export async function waitForActionCleared(
   agentId: string,
   opts: { timeoutMs?: number; pollMs?: number } = {}
@@ -72,7 +69,7 @@ export async function waitForActionCleared(
     if (held === null) {
       throw new Error(`waitForActionCleared: no seat page stands for agent ${agentId} to answer`)
     }
-    const lastRequestedAction = actionText(held.requestedAction)
+    const lastRequestedAction = textIn(held.requestedAction)
     if (lastRequestedAction === null) return { ok: true }
     if (Date.now() >= deadline) {
       return { ok: false, reason: { agentId, timeoutMs, lastRequestedAction } }

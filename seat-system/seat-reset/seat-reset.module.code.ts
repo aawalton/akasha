@@ -22,6 +22,7 @@ import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind
 import { HELP } from "akasha/seat-system/seat-reset-help/seat-reset-help.module.code.ts"
 import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { A_RESET, stopSeat } from "akasha/seat-system/stop-seat/stop-seat.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "../seat-flex/seat-flex.module.code.ts"
@@ -76,10 +77,6 @@ function keptRecovered(was: SeatFromHistory): Kept {
   }
 }
 
-function parseCallingSeatId(held: unknown): string | null {
-  return typeof held === "string" && held !== "" ? held : null
-}
-
 export default async function seatReset(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
@@ -102,7 +99,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
 
   const agentId = await resolveSeatTargetCli(input)
 
-  if (parseCallingSeatId(process.env.AGENT_ID) === agentId) {
+  if (textIn(process.env.AGENT_ID) === agentId) {
     throw inputError(
       `'${input}' is the seat running this command. A reset takes the agent out of the seat, so ` +
         "a seat resetting itself destroys the turn issuing the command before it can answer. " +
