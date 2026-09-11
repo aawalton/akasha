@@ -7,6 +7,12 @@ export const design = {
   slug: "design",
   definition: "how something is done well",
   parts: ["domain/design-interfaces", "domain/design-games", "domain/image"],
-  invariants: [],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A design package reads the router through a context rather than importing the router.",
+    },
+  ],
   directives: [],
 } as const satisfies Domain

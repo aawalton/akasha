@@ -14,6 +14,10 @@ export const routerContextAdapters = {
         "The layout context and the pages-ui context are filled from the same host router.",
     },
     {
+      invariantKind: "departure",
+      statement: "A router app mounts these adapters rather than filling either context itself.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here names an app or a route.",
     },
