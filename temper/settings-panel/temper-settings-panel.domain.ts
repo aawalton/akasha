@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperSettingsPanel = {
   id: "01a06053-3636-7e00-b329-e1ac77ae851e",
