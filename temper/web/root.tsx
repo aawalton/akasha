@@ -10,11 +10,9 @@ import {
 } from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import {
-  type LayoutLinkProps,
-  LayoutLinkProvider,
-  type LayoutRouter,
-  LayoutRouterProvider,
-} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+  LayoutRouterAdapter,
+  PagesUIRouterAdapter,
+} from "akasha/code-system/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -28,19 +26,13 @@ import { CommandPalette } from "akasha/design/interfaces/primitives/command-pale
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import {
-  type PagesUILinkProps,
-  PagesUILinkProvider,
-  PagesUIRouterProvider,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import { TriangleAlert } from "lucide-react"
-import { type ReactNode, useEffect, useMemo } from "react"
+import { type ReactNode, useEffect } from "react"
 import {
   type AppLoadContext,
   data,
   isRouteErrorResponse,
-  Link,
   Links,
   type LinksFunction,
   type LoaderFunctionArgs,
@@ -49,10 +41,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-  useLocation,
-  useNavigate,
   useRouteLoaderData,
-  useSearchParams,
 } from "react-router"
 
 const AUTH_CONFIG: AuthRouteConfig = {
@@ -86,47 +75,6 @@ export async function loader({ request, context }: LoaderFunctionArgs<AppLoadCon
   return data({ nonce }, { headers: guard.headers })
 }
 
-function PagesUILinkAdapter({ href, ...rest }: PagesUILinkProps) {
-  return <Link to={href} {...rest} />
-}
-
-function LayoutLinkAdapter({ href, ...rest }: LayoutLinkProps) {
-  return <Link to={href} {...rest} />
-}
-
-function SeamAdapters({ children }: { children: ReactNode }) {
-  const { pathname } = useLocation()
-  const navigate = useNavigate()
-  const [searchParams] = useSearchParams()
-  const pagesUIValue = useMemo(
-    () => ({
-      pathname,
-      push: (href: string) => navigate(href),
-      replace: (href: string) => navigate(href, { replace: true }),
-    }),
-    [pathname, navigate]
-  )
-  const layoutValue = useMemo<LayoutRouter>(
-    () => ({
-      pathname,
-      searchParams: {
-        get: (name: string) => searchParams.get(name),
-        toString: () => searchParams.toString(),
-      },
-    }),
-    [pathname, searchParams]
-  )
-  return (
-    <PagesUIRouterProvider value={pagesUIValue}>
-      <PagesUILinkProvider component={PagesUILinkAdapter}>
-        <LayoutRouterProvider value={layoutValue}>
-          <LayoutLinkProvider component={LayoutLinkAdapter}>{children}</LayoutLinkProvider>
-        </LayoutRouterProvider>
-      </PagesUILinkProvider>
-    </PagesUIRouterProvider>
-  )
-}
-
 export function Layout({ children }: { children: ReactNode }) {
   const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
   useEffect(() => {
@@ -154,11 +102,13 @@ export function Layout({ children }: { children: ReactNode }) {
         <SurfaceProvider level={0} background={false}>
           <ErrorCaptureInstaller app="temper" />
           <SupabaseProvider>
-            <SeamAdapters>
-              {children}
-              <CommandPalette />
-              <ShortcutSheet />
-            </SeamAdapters>
+            <LayoutRouterAdapter>
+              <PagesUIRouterAdapter>
+                {children}
+                <CommandPalette />
+                <ShortcutSheet />
+              </PagesUIRouterAdapter>
+            </LayoutRouterAdapter>
           </SupabaseProvider>
         </SurfaceProvider>
         <Toaster />
