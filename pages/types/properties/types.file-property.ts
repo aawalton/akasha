@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Types = "ts"
-
 export const types = {
   id: "01a0879f-af02-7fcb-8c36-cd34429f89ab",
   pageTypeSlug: "file-property",
@@ -44,4 +42,5 @@ export const types = {
         "A key naming a property whose type is written beside that property is taken from that file.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

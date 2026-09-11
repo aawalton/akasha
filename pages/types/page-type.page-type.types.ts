@@ -11,8 +11,8 @@ import type { Owner } from "akasha/pages/types/properties/owner.relation-propert
 import type { Properties } from "akasha/pages/types/properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "akasha/pages/types/properties/runs-taboo-check.boolean-property.types.ts"
 import type { Sequence } from "akasha/pages/types/properties/sequence.record-property.types.ts"
-import type { TypeGenerator } from "akasha/pages/types/properties/type-generator.file-property.ts"
-import type { Types } from "akasha/pages/types/properties/types.file-property.ts"
+import type { TypeGenerator } from "akasha/pages/types/properties/type-generator.file-property.types.ts"
+import type { Types } from "akasha/pages/types/properties/types.file-property.types.ts"
 
 export type PageType = Domain & {
   extends: ExtendsType

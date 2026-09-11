@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type TypeGenerator = "ts"
-
 export const typeGenerator = {
   id: "01a0879f-931a-78e7-a5ea-03409cb5ee56",
   pageTypeSlug: "file-property",
@@ -28,4 +26,5 @@ export const typeGenerator = {
       statement: "Nothing here says when the code runs.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

@@ -4,7 +4,7 @@ import type { Nullable } from "akasha/pages/types/page-properties/properties/nul
 import type { PropertySlug } from "akasha/pages/types/page-properties/properties/property-slug.text-property.types.ts"
 import type { Unique } from "akasha/pages/types/page-properties/properties/unique.relation-property.types.ts"
 import type { UniqueProperty } from "akasha/pages/types/page-properties/properties/unique-property.relation-property.types.ts"
-import type { Types } from "akasha/pages/types/properties/types.file-property.ts"
+import type { Types } from "akasha/pages/types/properties/types.file-property.types.ts"
 
 export type PageProperty = Domain & {
   propertySlug: PropertySlug
