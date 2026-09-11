@@ -187,7 +187,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const commit = commitAt(given.root, ref)
   if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
   if (read.kind !== IOS_APP || ref === null) {
-    const built = closureFor(given.root, read.pagePath)
+    const built = closureFor(given.root, slug, read)
     const drifted = driftedFrom(given.root, commit).filter((one) => built.has(one))
     if (drifted.length > 0) return refused(saidOfDrift(slug, commit, drifted), INPUT)
   }

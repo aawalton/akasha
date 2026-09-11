@@ -10,12 +10,28 @@ export const deployFileClosure = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A deploy is built from the files beside its page and every file those reach.",
+      statement: "A deploy is built from the files it is seeded with and every file those reach.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every kind is seeded with the tracked files under the folder its page sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A web app is seeded as well with the folder its page names as its source.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The files beside a page are the tracked files under the folder that page sits in.",
+        "A web app is seeded as well with its cluster service, its manifest and that manifest's code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ios app is seeded as well with the files every ios app build shares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a kind's own reader refuses is seeded with the files beside it alone.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +59,7 @@ export const deployFileClosure = {
     },
     {
       invariantKind: "gap",
-      statement: "The files a build of a kind shares with every other build of that kind are here.",
+      statement: "The paths a container recipe copies out of its context are seeded here.",
     },
     {
       invariantKind: "absence",
