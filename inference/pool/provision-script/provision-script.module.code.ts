@@ -9,10 +9,7 @@ import type {
   InferenceHost,
   InferenceService,
 } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
-
-function sq(value: string): string {
-  return `'${value.replaceAll("'", "'\\''")}'`
-}
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 
 function provisionScriptName(sourceDir: string): string {
   const slug = sourceDir.slice(sourceDir.lastIndexOf("/") + 1)
@@ -56,7 +53,7 @@ export function buildQueryScript(
   const condaBase = host.condaSh.replace(/\/etc\/profile\.d\/conda\.sh$/, "")
   const lines = [
     "set -u",
-    `INF_ROOT=${sq(root)}`,
+    `INF_ROOT=${quoted(root)}`,
     `if [ -d "$INF_ROOT" ]; then`,
     `  for d in "$INF_ROOT"/*/; do`,
     `    [ -d "$d" ] || continue`,
@@ -65,14 +62,14 @@ export function buildQueryScript(
     `    echo "DIR $name $h"`,
     `  done`,
     "fi",
-    `launchctl list 2>/dev/null | awk 'NR>1 {print $3}' | grep -E ${sq(labelRe)} | sed ${sq(labelStrip)} | while read -r n; do echo "LAUNCHD $n"; done || true`,
-    `source ${sq(host.condaSh)} 2>/dev/null || true`,
+    `launchctl list 2>/dev/null | awk 'NR>1 {print $3}' | grep -E ${quoted(labelRe)} | sed ${quoted(labelStrip)} | while read -r n; do echo "LAUNCHD $n"; done || true`,
+    `source ${quoted(host.condaSh)} 2>/dev/null || true`,
     `conda env list 2>/dev/null | awk '{print $1}' | grep -E '^inference-' | sed 's/^inference-//' | while read -r n; do echo "CONDA $n"; done || true`,
   ]
   if (healthProbeNames.length > 0) {
-    const names = healthProbeNames.map(sq).join(" ")
+    const names = healthProbeNames.map(quoted).join(" ")
     lines.push(
-      `CONDA_BASE=${sq(condaBase)}`,
+      `CONDA_BASE=${quoted(condaBase)}`,
       `for hn in ${names}; do`,
       `  ENV_PREFIX="$CONDA_BASE/envs/inference-$hn"`,
       `  PYBIN="$ENV_PREFIX/bin/python"`,
@@ -94,9 +91,9 @@ export function buildQueryScript(
 export function buildMfluxQueryScript(host: InferenceHost, serviceName: string): string {
   return [
     "set -u",
-    `source ${sq(host.condaSh)} 2>/dev/null || true`,
-    `conda activate ${sq(condaEnvName(serviceName))} 2>/dev/null || { echo "ENV_MISSING"; exit 0; }`,
-    `ls "$CONDA_PREFIX"/bin/ 2>/dev/null | grep -E ${sq("^mflux-")} || true`,
+    `source ${quoted(host.condaSh)} 2>/dev/null || true`,
+    `conda activate ${quoted(condaEnvName(serviceName))} 2>/dev/null || { echo "ENV_MISSING"; exit 0; }`,
+    `ls "$CONDA_PREFIX"/bin/ 2>/dev/null | grep -E ${quoted("^mflux-")} || true`,
     "exit 0",
     "",
   ].join("\n")
@@ -104,13 +101,13 @@ export function buildMfluxQueryScript(host: InferenceHost, serviceName: string):
 
 export function buildRunScript(host: InferenceHost, service: InferenceService): string {
   const cwd = `${serviceDir(host.home, service.name)}/${service.workdir}`
-  const execLine = `exec ${service.command.map(sq).join(" ")}`
+  const execLine = `exec ${service.command.map(quoted).join(" ")}`
   return [
     "#!/bin/bash",
     "set -euo pipefail",
-    `source ${sq(host.condaSh)}`,
-    `conda activate ${sq(condaEnvName(service.name))}`,
-    `cd ${sq(cwd)}`,
+    `source ${quoted(host.condaSh)}`,
+    `conda activate ${quoted(condaEnvName(service.name))}`,
+    `cd ${quoted(cwd)}`,
     execLine,
     "",
   ].join("\n")
@@ -157,18 +154,18 @@ export function buildApplyScript(args: {
   const plistBody = buildPlist(host, service)
   return [
     "set -euo pipefail",
-    `SVC_DIR=${sq(dir)}`,
-    `mkdir -p "$SVC_DIR" "$SVC_DIR/logs" ${sq(`${host.home}/Library/LaunchAgents`)}`,
-    `source ${sq(host.condaSh)}`,
+    `SVC_DIR=${quoted(dir)}`,
+    `mkdir -p "$SVC_DIR" "$SVC_DIR/logs" ${quoted(`${host.home}/Library/LaunchAgents`)}`,
+    `source ${quoted(host.condaSh)}`,
     `# Idempotent per-service provisioning (clone, conda env, weights).`,
-    `bash "$SVC_DIR/src/${provisionScriptName(service.sourceDir)}" ${sq(service.name)} ${sq(service.pythonVersion)} "$SVC_DIR" ${sq(host.condaSh)}`,
+    `bash "$SVC_DIR/src/${provisionScriptName(service.sourceDir)}" ${quoted(service.name)} ${quoted(service.pythonVersion)} "$SVC_DIR" ${quoted(host.condaSh)}`,
     `# launchd wrapper`,
     `cat > "$SVC_DIR/run.sh" <<'INFERENCE_RUN_EOF'`,
     runScript.trimEnd(),
     "INFERENCE_RUN_EOF",
     `chmod +x "$SVC_DIR/run.sh"`,
     `# launchd plist`,
-    `cat > ${sq(plist)} <<'INFERENCE_PLIST_EOF'`,
+    `cat > ${quoted(plist)} <<'INFERENCE_PLIST_EOF'`,
     plistBody.trimEnd(),
     "INFERENCE_PLIST_EOF",
     `uid="$(id -u)"`,
@@ -183,7 +180,7 @@ export function buildApplyScript(args: {
     `bootstrapped=`,
     `for attempt in 1 2 3 4 5 6; do`,
     `  launchctl bootout "gui/$uid/${label}" 2>/dev/null || true`,
-    `  if boot_err="$(launchctl bootstrap "gui/$uid" ${sq(plist)} 2>&1)"; then`,
+    `  if boot_err="$(launchctl bootstrap "gui/$uid" ${quoted(plist)} 2>&1)"; then`,
     `    bootstrapped=1`,
     `    break`,
     `  fi`,
@@ -202,7 +199,7 @@ export function buildApplyScript(args: {
     `  exit 1`,
     `fi`,
     `# Stamp the content hash last — a failed step above aborts before this.`,
-    `echo ${sq(inputsHash)} > "$SVC_DIR/.inputs-hash"`,
+    `echo ${quoted(inputsHash)} > "$SVC_DIR/.inputs-hash"`,
     "",
   ].join("\n")
 }
@@ -214,10 +211,10 @@ export function buildPruneScript(args: { host: InferenceHost; name: string }): s
     "set -uo pipefail",
     `uid="$(id -u)"`,
     `launchctl bootout "gui/$uid/${label}" 2>/dev/null || true`,
-    `rm -f ${sq(plistPath(host.home, name))}`,
-    `rm -rf ${sq(serviceDir(host.home, name))}`,
-    `source ${sq(host.condaSh)} 2>/dev/null || true`,
-    `conda env remove -n ${sq(condaEnvName(name))} -y 2>/dev/null || true`,
+    `rm -f ${quoted(plistPath(host.home, name))}`,
+    `rm -rf ${quoted(serviceDir(host.home, name))}`,
+    `source ${quoted(host.condaSh)} 2>/dev/null || true`,
+    `conda env remove -n ${quoted(condaEnvName(name))} -y 2>/dev/null || true`,
     "",
   ].join("\n")
 }

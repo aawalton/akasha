@@ -10,7 +10,7 @@ export const provisionScript = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every value the shell has is quoted here rather than trusted.",
+      statement: "Every value the shell has is quoted rather than trusted.",
     },
     {
       invariantKind: "departure",
