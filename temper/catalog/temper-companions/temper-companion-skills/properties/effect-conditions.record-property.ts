@@ -16,7 +16,7 @@ export type EffectConditions = {
   maxDistance?: MaxDistance
   isCasting?: IsCasting
   weaponType?: ConditionWeaponType
-  enemyTypes?: readonly EnemyTypes[]
+  enemyTypes?: EnemyTypes
 }
 
 export const effectConditions = {
