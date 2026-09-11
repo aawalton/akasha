@@ -7,6 +7,7 @@ import {
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { bodiesOver } from "../../../modules/check-staging/check-staging.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { refusalsOver } from "./extension-host-reaches-no-bun-code.code-check.decision.code.ts"
 
@@ -78,18 +79,8 @@ export const PACKAGED_BODY = `${JSON.stringify({
   exports: { "./compose-notices": "./compose-notices/compose-notices.module.code.ts" },
 })}\n`
 
-const encoder = new TextEncoder()
-
-export function bodied(root: string, bodies: Readonly<Record<string, string>>): Change {
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    return said === undefined ? null : encoder.encode(said)
-  }
-  return { root, changed: Object.keys(bodies).toSorted(), after: at, before: at }
-}
-
 export function change(bodies: Readonly<Record<string, string>>): Change {
-  return bodied(ROOT, bodies)
+  return bodiesOver(ROOT, bodies)
 }
 
 export function withManifest(

@@ -3,6 +3,7 @@ import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { bodiesOver } from "../../../modules/check-staging/check-staging.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { refusalsOver } from "./no-import-cycle.code-check.decision.code.ts"
 
@@ -22,18 +23,8 @@ export function rooted(): string {
 
 export const ROOT = rooted()
 
-const encoder = new TextEncoder()
-
-export function bodied(root: string, bodies: Readonly<Record<string, string>>): Change {
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    return said === undefined ? null : encoder.encode(said)
-  }
-  return { root, changed: Object.keys(bodies).toSorted(), after: at, before: at }
-}
-
 export function change(bodies: Readonly<Record<string, string>>): Change {
-  return bodied(ROOT, bodies)
+  return bodiesOver(ROOT, bodies)
 }
 
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {

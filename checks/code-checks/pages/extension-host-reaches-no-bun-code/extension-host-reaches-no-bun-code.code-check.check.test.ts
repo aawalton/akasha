@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bodiesOver } from "../../../modules/check-staging/check-staging.module.code.ts"
 import { extensionHostReachesNoBunCode } from "./extension-host-reaches-no-bun-code.code-check.check.code.ts"
 import {
-  bodied,
   ENTRY,
   NEXT,
   rooted,
@@ -15,7 +15,7 @@ afterAll(scratch.sweep)
 const READS_NEXT = 'import { next } from "./next.module.code.ts"\n\nexport const one = next\n'
 
 function pathsIn(bodies: Readonly<Record<string, string>>): readonly string[] {
-  const held = bodied(rooted(), withManifest(bodies))
+  const held = bodiesOver(rooted(), withManifest(bodies))
   return extensionHostReachesNoBunCode(held, shadowAsked(held)).map((one) => one.path)
 }
 
@@ -28,7 +28,7 @@ test("a graph the host loads that reaches no bun is let through", () => {
 })
 
 test("the check runs on the manifest as well as on a text", () => {
-  const held = bodied(rooted(), {})
+  const held = bodiesOver(rooted(), {})
   const shadow = shadowAsked(held)
   const takes = (path: string): boolean => extensionHostReachesNoBunCode.isInput(path, shadow)
   expect(takes("editor-extension/ops-extension/package.json")).toBe(true)

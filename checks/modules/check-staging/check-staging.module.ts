@@ -35,6 +35,10 @@ export const checkStaging = {
         "A change over the checkout reads what it carries, then what it was handed, then the disk.",
     },
     {
+      invariantKind: "departure",
+      statement: "A change made from bodies alone reads those bodies both before and after.",
+    },
+    {
       invariantKind: "absence",
       statement: "No git tree is made here.",
     },

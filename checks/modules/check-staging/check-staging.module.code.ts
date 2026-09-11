@@ -90,3 +90,7 @@ export function change(
     before: based,
   }
 }
+
+export function bodiesOver(root: string, bodies: Readonly<Record<string, string>>): Change {
+  return change(root, bodies, bodies)
+}
