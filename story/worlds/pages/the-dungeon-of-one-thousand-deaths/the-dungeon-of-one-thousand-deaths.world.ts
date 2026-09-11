@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const theDungeonOfOneThousandDeaths = {
   id: "01a063d8-61f2-7d68-8d3d-b967ea06c44f",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const dungeonDiverStealingAMonstersPower = {
   id: "01a063d8-61f2-75e1-9d58-337260b64218",

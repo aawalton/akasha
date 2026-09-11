@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   id: "01a063d8-61f2-79ca-be32-366d8eb3e335",

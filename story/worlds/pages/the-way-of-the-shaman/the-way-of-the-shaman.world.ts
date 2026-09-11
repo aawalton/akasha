@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const theWayOfTheShaman = {
   id: "01a063d8-61f2-7706-9ae5-908ead5c8bed",

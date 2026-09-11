@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   id: "01a063d8-61f2-7f4a-8493-c367a9aee3b5",

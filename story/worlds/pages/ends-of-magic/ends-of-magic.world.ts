@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const endsOfMagic = {
   id: "01a063d8-61f2-7eb8-94a0-1d8c2fcfa939",

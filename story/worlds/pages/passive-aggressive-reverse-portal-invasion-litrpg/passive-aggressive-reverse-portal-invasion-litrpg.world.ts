@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const passiveAggressiveReversePortalInvasionLitrpg = {
   id: "01a063d8-61f2-7b01-8b1d-f7c159ebb296",

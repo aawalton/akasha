@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const underworldBreadMageYuriProgfanSliceOfLife = {
   id: "01a063d8-61f2-72be-95a8-d6a9d5025421",

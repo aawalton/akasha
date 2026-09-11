@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const pathOfTheDeathlessBook4Completed = {
   id: "01a063d8-61f2-7bd5-9823-fcaaea0b14c3",

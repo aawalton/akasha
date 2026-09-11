@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const theBeholder = {
   id: "01a063d8-61f2-7a9f-a469-72167f12989f",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete = {
   id: "01a063d8-61f2-7f07-a6d4-a3ebdc840e6f",

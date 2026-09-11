@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const newGam3Plus = {
   id: "01a063d8-61f2-7222-bf6a-bc15505c1bdb",

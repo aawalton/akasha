@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
   id: "01a063d8-61f2-7c20-9bb9-7fab4d11be49",

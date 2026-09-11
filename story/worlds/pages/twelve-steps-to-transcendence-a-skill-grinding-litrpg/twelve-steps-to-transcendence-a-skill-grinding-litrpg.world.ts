@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.types.ts"
+import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   id: "01a063d8-61f2-78b3-8d90-1eea7601690f",
