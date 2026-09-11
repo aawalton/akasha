@@ -71,6 +71,19 @@ export const groupWriting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body a group writes turns where that index turns and the group's code does not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page moving turns every body a group composes from where that page sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file no change names is written again where what a group reads turned.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing here refuses a landing.",
     },
     {
