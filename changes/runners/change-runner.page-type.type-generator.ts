@@ -1,10 +1,9 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-
-const ROOT = "akasha/"
 
 const PAGE_TYPE = "page-type"
 
@@ -46,7 +45,7 @@ function addressedOf(
     if (code === null) continue
     const text = textAt(code)
     if (text === null || !declaresRun(text)) continue
-    found.push({ address: `${kind}/${slug}`, spec: `${ROOT}${code}` })
+    found.push({ address: `${kind}/${slug}`, spec: importedFrom(code) })
   }
   return found
 }
