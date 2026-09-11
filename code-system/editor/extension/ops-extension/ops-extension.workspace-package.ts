@@ -6,20 +6,19 @@ export const opsExtension = {
   type: "workspace-package",
   slug: "ops-extension",
   definition: "the extension this repository gives the editor",
-  manifest: "json",
   parts: ["module/extension-entry"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The manifest names the extension `ops` under the publisher `vscode`.",
+      statement: "The root manifest names this entry, so no manifest sits here.",
     },
     {
       invariantKind: "departure",
-      statement: "The editor resolves the entry point rather than TypeScript.",
+      statement: "The editor reaches the repository root by a link and reads the root manifest.",
     },
     {
       invariantKind: "departure",
-      statement: "A panel and a command and a menu and a color are stated in the manifest.",
+      statement: "A panel and a command and a menu and a color are stated in the root manifest.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +26,7 @@ export const opsExtension = {
     },
     {
       invariantKind: "constraint",
-      statement: "The editor fork reaches this folder by a symlink rather than by its own path.",
+      statement: "The extension host strips the types, so the entry reaches only erasable syntax.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +34,8 @@ export const opsExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "The extension is identified as `vscode.ops` wherever the editor keeps its state.",
+      statement:
+        "The extension is identified as `vscode.akasha` wherever the editor keeps its state.",
     },
   ],
-  linkedAt: "~/.local/share/code-editor/extensions/ops",
 } as const satisfies WorkspacePackage
