@@ -294,13 +294,11 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
     if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
     const found: Found[] = []
     const program = await project.program
-    for (const one of asked) {
-      const file = join(root, one)
-      for (const said of await program.getSyntacticDiagnostics(file))
-        found.push(foundOf(root, said, placed))
-      for (const said of await program.getSemanticDiagnostics(file))
-        found.push(foundOf(root, said, placed))
-    }
+    const files = asked.map((one) => join(root, one))
+    for (const said of await program.getSyntacticDiagnostics(files))
+      found.push(foundOf(root, said, placed))
+    for (const said of await program.getSemanticDiagnostics(files))
+      found.push(foundOf(root, said, placed))
     return found
   } finally {
     await api.close()
