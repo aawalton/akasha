@@ -11,7 +11,7 @@ export const modelTest = {
     "model-test/restatement",
     "page-property-entry/cases",
     "page-type/model-test-outcome",
-    "relation-property/case-page",
+    "text-property/case-page",
     "relation-property/model-family",
     "select-property/case-answer",
     "text-property/case-statement",

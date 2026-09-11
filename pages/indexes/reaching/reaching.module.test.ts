@@ -234,7 +234,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
     pageTypeSlug: "page-property-entry",
     slug: "cases",
     propertySlug: "cases",
-    properties: [{ pagePropertySlug: "relation-property/case-page" }],
+    properties: [{ pagePropertySlug: "relation-property/noted-page" }],
   })
   page("logs.page-property-entry.ts", {
     id: "2",
@@ -253,7 +253,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
     ],
   })
   const every: readonly (readonly [string, string, string | null])[] = [
-    ["case-page", "relation-property", "domain"],
+    ["noted-page", "relation-property", "domain"],
     ["log-text", "text-property", null],
     ["cases", "page-property-entry", null],
     ["logs", "page-property-entry", null],

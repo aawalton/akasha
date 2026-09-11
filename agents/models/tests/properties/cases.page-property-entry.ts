@@ -8,7 +8,7 @@ export const cases = {
   propertySlug: "cases",
   definition: "the labelled texts a prompt is judged by",
   properties: [
-    { pageProperty: "relation-property/case-page", required: true, many: false },
+    { pageProperty: "text-property/case-page", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     { pageProperty: "text-property/case-statement", required: true, many: false },
     { pageProperty: "select-property/case-answer", required: true, many: false },
