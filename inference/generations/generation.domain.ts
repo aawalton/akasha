@@ -16,6 +16,7 @@ export const generation = {
     "domain/zimage",
     "module/comfy-up-building",
     "module/comfy-up-guarding",
+    "module/comfy-up-body",
   ],
   invariants: [
     {
