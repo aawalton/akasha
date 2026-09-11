@@ -149,7 +149,7 @@ export function reasonOf(ran: Ran, named: readonly string[], failing: readonly s
   if (ran.verdict === "short") {
     return (
       `${ran.summary.files} of the ${named.length} test files named ran, so the ones that did ` +
-      `pass say nothing about the rest. A file that will not load is counted here as not run:\n${saidOf(ran.output)}`
+      `pass say nothing about the rest:\n${saidOf(ran.output)}`
     )
   }
   const ended = endingOf(ran.code, ran.signal)
