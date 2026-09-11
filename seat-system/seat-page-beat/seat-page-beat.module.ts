@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatPageBeat = {
   id: "01a0692a-1110-7af0-a99e-53fc742d08aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-page-beat",
   definition: "a seat's page written or taken down from what one run of this states",

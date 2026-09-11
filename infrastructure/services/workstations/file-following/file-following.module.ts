@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fileFollowing = {
   id: "01a05a5e-4f46-76e6-8f54-5318900f7d74",
-  pageTypeSlug: "module",
   type: "module",
   slug: "file-following",
   definition: "which files of a set have changed, and word as soon as one does",

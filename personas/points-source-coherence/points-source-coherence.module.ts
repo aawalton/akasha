@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pointsSourceCoherence = {
   id: "01a05b70-a58d-7a88-969b-0e692ebd166e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "points-source-coherence",
   definition: "the rules a persona's points-source fields must hold together by",

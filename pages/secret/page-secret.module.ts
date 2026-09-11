@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageSecret = {
   id: "01a054c7-d2ae-7000-a800-88a46290bfd1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-secret",
   definition: "the values a page carries that holding its files does not reveal",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const composeNotices = {
   id: "01a06938-eca5-74c0-8f2c-68975c8da6f1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "compose-notices",
   definition: "every notice page rendered as one JSON object of notice slug to text",

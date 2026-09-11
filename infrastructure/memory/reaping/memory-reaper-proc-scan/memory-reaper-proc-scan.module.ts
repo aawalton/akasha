@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const memoryReaperProcScan = {
   id: "01a0686c-f06b-7000-bd79-2d9700be871d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "memory-reaper-proc-scan",
   definition: "what one process has, and its command line with what it must not say withheld",

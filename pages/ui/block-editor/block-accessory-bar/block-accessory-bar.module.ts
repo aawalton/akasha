@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const blockAccessoryBar = {
   id: "01a061ee-786e-7000-9d49-04de5d6b4867",
-  pageTypeSlug: "module",
   type: "module",
   slug: "block-accessory-bar",
   definition:

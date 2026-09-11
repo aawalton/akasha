@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const serviceInstalling = {
   id: "01a05a62-6da2-7e4f-9186-137486a0d1e2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "service-installing",
   definition: "the units a workstation service is installed as",

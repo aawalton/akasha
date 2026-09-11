@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const markdownPageName = {
   id: "01a05cc6-2a1c-776c-88f5-4be2c8d49e52",
-  pageTypeSlug: "module",
   type: "module",
   slug: "markdown-page-name",
   definition: "the stem and the page type read off the name of a markdown file",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const overServer = {
   id: "01a05bd6-c533-7600-b18c-c96577f03603",
-  pageTypeSlug: "module",
   type: "module",
   slug: "over-server",
   definition: "a page write sent to the server rather than run against the store",

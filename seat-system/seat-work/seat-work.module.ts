@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatWork = {
   id: "01a0695a-d2ea-764d-9899-b8a6f4e9acd3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-work",
   definition: "every initiative with the liveliest state any seat working it is in",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inputsHash = {
   id: "01a07740-d031-75fd-8c46-8bdcc92c5a1b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inputs-hash",
   definition: "a hash over a set of files, named as twelve lowercase hex",

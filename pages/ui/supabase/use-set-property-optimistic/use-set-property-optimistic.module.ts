@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useSetPropertyOptimistic = {
   id: "01a061df-fe7f-7002-af61-f503ba384122",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-set-property-optimistic",
   definition:

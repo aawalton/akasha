@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const readerCharTable = {
   id: "01a05c3d-a2e7-7441-80a9-5e6d74c6fadb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "reader-char-table",
   definition:

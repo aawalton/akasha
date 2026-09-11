@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageQueryReduce = {
   id: "01a06876-e5ea-7002-83a9-4885bf20bd04",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-query-reduce",
   definition: "the one number a page query's rows add up to, and why they add up to none",

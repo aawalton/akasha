@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const comfyGraph = {
   id: "01a06810-0b68-7ef9-b759-c81fe48c15c6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "comfy-graph",
   definition: "the nodes and links a ComfyUI workflow is made of",

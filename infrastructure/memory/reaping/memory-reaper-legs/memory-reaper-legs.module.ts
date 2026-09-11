@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const memoryReaperLegs = {
   id: "01a0686c-f06b-7001-9b7d-734cdb98ac14",
-  pageTypeSlug: "module",
   type: "module",
   slug: "memory-reaper-legs",
   definition: "whether one process or one supervisor tree is over its memory ceiling",

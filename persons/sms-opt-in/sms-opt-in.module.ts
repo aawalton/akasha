@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const smsOptIn = {
   id: "01a05b54-a903-7d92-ba67-13983ceac2c4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sms-opt-in",
   definition: "the form a person opts in to text messages through",

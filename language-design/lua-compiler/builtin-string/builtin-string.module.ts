@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const builtinString = {
   id: "01a06758-8ecf-7000-9de2-25def54eadf9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "builtin-string",
   definition: "the Lua a String built-in becomes",

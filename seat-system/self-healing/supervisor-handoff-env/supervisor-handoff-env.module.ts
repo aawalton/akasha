@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorHandoffEnv = {
   id: "01a0683e-3dbe-7023-a794-3a24720e3484",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-handoff-env",
   definition: "what a re-executing supervisor passes to itself through the environment",

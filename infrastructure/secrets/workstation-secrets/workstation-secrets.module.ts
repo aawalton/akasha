@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workstationSecrets = {
   id: "01a08ce2-2aad-723b-b3e8-bef5117eac5c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "workstation-secrets",
   definition: "a secret written into the workstation env file the shell reads",

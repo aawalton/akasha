@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const luaPrinterCore = {
   id: "01a06758-8e50-7000-87a6-50af44253098",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lua-printer-core",
   definition: "the indent, file paths and printer vtable a Lua printing run carries",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const navigationContext = {
   id: "01a05cce-25ec-7499-ac36-739e7996488b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "navigation-context",
   definition:

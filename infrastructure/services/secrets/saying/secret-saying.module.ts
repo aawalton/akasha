@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const secretSaying = {
   id: "01a07667-e09b-7f6e-bc84-5a76ea3566f4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "secret-saying",
   definition: "the values one resource's pages hold, said as yaml or handed over key by key",

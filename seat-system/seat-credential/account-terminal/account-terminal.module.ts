@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const accountTerminal = {
   id: "01a069bf-f8d9-7000-aa5b-257908ffc88e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "account-terminal",
   definition:

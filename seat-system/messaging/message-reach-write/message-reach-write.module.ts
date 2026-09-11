@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messageReachWrite = {
   id: "01a0686c-f06b-700e-9e66-f4c7b386ffe1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "message-reach-write",
   definition: "the seat a message page being written is reached at, and its waking afterwards",

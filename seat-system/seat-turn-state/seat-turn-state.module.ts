@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatTurnState = {
   id: "01a0695a-d2ea-7c13-b182-16f7c69f5587",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-turn-state",
   definition:

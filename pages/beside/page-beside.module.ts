@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageBeside = {
   id: "01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-beside",
   definition: "the files beside a page, as they are on disk",

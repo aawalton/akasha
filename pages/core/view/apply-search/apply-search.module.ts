@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const applySearch = {
   id: "01a05b92-a9c7-7642-a155-1b41fcdf0b8e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "apply-search",
   definition: "the rows matching a search term within one field",

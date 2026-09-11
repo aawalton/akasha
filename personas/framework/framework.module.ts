@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const framework = {
   id: "01a05b70-a58c-7dfa-8e79-b79e338c724b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "framework",
   definition: "a markdown body with its leading frontmatter block taken off",

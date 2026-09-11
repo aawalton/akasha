@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messagesDeliveryWitness = {
   id: "01a0686c-f06b-7011-b06e-16258f8aa85f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "messages-delivery-witness",
   definition: "a message held claimed until the seat's transcript shows the seat was shown it",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const retentionEnv = {
   id: "01a06863-74e8-7ceb-92a7-1901f2d56e8f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "retention-env",
   definition: "what the environment states a retention run is to work against",

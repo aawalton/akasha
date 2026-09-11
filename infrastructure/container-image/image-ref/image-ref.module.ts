@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const imageRef = {
   id: "01a08da3-e007-78c2-aa15-9ce06319c982",
-  pageTypeSlug: "module",
   type: "module",
   slug: "image-ref",
   definition: "the name and tag a built image is pushed and pulled under",

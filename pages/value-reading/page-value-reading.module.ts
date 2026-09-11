@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageValueReading = {
   id: "01a076b5-96a3-7e49-a821-ec55720b1f74",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-value-reading",
   definition: "what one key of a page's value has, read off a value already in hand",

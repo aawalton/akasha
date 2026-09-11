@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const comfyClient = {
   id: "01a0682d-8ef5-7008-9d37-824c7c7aafb6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "comfy-client",
   definition: "a graph run on ComfyUI and the image that run made",

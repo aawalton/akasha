@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatChildren = {
   id: "01a06867-7fc9-7003-a718-93571d4377aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-children",
   definition: "the seats standing under one seat, and how many of them somebody is present in",

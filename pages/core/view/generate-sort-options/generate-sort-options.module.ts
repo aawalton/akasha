@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const generateSortOptions = {
   id: "01a05b92-a9c7-7184-b2a4-f2e35540cf12",
-  pageTypeSlug: "module",
   type: "module",
   slug: "generate-sort-options",
   definition: "the sort options a page type's properties offer",

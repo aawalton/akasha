@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useGalleryViewProps = {
   id: "01a05cba-9cbb-7309-b76a-ab4a1c1dc77b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-gallery-view-props",
   definition: "what a gallery view is drawn from",

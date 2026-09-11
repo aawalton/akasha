@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const canonicalImageClassify = {
   id: "01a05b70-a58c-7353-ae85-0ff1987721d8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "canonical-image-classify",
   definition: "the bucket and category and grade read off an image's path under a named root",

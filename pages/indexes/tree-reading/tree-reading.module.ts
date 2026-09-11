@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treeReading = {
   id: "01a07220-6ee3-7c98-b086-7e3b497e8b41",
-  pageTypeSlug: "module",
   type: "module",
   slug: "tree-reading",
   definition: "the files under a tree, and the folders with no page of this repository's own",

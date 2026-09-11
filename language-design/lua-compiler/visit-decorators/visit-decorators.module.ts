@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitDecorators = {
   id: "01a06758-8ea9-7000-b63e-f2f02653b9ed",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-decorators",
   definition: "the decorate call a class, method, accessor, or field decorator becomes",

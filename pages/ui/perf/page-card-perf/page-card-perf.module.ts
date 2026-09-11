@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageCardPerf = {
   id: "01a0610c-430e-758f-9da6-bed7278e0bdb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-card-perf",
   definition: "one page-card edit timed from click through visible, stored and settled",

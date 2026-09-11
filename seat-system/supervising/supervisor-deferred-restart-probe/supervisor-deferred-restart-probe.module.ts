@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorDeferredRestartProbe = {
   id: "01a0683e-3dbe-701d-8d02-1a1db2476e25",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-deferred-restart-probe",
   definition: "an idle reading bounded by the tick it is taken in",

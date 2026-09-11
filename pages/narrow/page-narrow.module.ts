@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageNarrow = {
   id: "01a0686e-6807-7003-8fd9-7a76d4681715",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-narrow",
   definition: "a page's keys kept down to the ones a caller asked for",

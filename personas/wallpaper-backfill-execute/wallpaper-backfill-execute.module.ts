@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const wallpaperBackfillExecute = {
   id: "01a05b70-a58d-7a94-8b42-b1fe59350cd9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "wallpaper-backfill-execute",
   definition: "how a wallpaper restore backs off between attempts and what its outcome is called",

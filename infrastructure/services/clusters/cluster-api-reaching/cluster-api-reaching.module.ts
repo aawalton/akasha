@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const clusterApiReaching = {
   id: "01a06583-0030-7000-94b8-9fa8780482f5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cluster-api-reaching",
   definition: "the Kubernetes API reached with a service account token, directly or by proxy",

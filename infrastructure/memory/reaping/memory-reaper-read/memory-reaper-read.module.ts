@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const memoryReaperRead = {
   id: "01a0686c-f06b-7005-adc8-555b9569ab6f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "memory-reaper-read",
   definition: "what the kernel says every process of one user is holding right now",

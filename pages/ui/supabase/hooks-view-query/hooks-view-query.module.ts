@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hooksViewQuery = {
   id: "01a061df-fe7f-7004-be80-088a1f3b4cda",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hooks-view-query",
   definition:

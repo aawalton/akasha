@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const serviceHealth = {
   id: "01a0821e-fce3-79c6-bf54-45289546f49a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "service-health",
   definition: "whether the unit each workstation service is installed as is running as it should",

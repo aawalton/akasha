@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transpileTranspiler = {
   id: "01a06758-8edb-7000-8eee-12534ca2bb08",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transpile-transpiler",
   definition: "the emit run of one program, from plugin loading to written files",

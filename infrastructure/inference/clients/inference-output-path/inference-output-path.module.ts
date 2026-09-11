@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inferenceOutputPath = {
   id: "01a0682d-8ef5-7000-94d2-cb350381788d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inference-output-path",
   definition: "where a run's output file is written when the caller named none",

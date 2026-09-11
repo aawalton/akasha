@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const storeQuestioning = {
   id: "01a05aec-eaaa-7127-aa3c-7494fc98ae9b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "store-questioning",
   definition: "a composed query put to the store, and the answer its callers already spell",

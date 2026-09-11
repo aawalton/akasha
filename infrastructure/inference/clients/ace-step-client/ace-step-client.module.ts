@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const aceStepClient = {
   id: "01a0682d-8ef5-7006-9c39-daea2ba9c6dd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "ace-step-client",
   definition: "a song asked of the ACE-Step service and the wav that service made",

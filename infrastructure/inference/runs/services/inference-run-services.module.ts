@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inferenceRunServices = {
   id: "01a0685d-4b35-700e-a313-871e5b2440ad",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inference-run-services",
   definition:

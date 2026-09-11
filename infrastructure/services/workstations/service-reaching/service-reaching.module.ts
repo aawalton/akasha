@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const serviceReaching = {
   id: "01a05a5e-4f46-7ee6-a76e-5244d5852c62",
-  pageTypeSlug: "module",
   type: "module",
   slug: "service-reaching",
   definition: "the files a TypeScript entry reaches by import inside this repository",

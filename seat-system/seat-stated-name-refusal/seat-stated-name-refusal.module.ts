@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatStatedNameRefusal = {
   id: "01a0686d-9d5e-7012-94c3-843ea0bdf815",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-stated-name-refusal",
   definition: "the refusal a seat start meets when it types a name beside the attributes",

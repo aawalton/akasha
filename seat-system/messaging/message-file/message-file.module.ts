@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messageFile = {
   id: "01a06a00-69c9-7000-9e16-a5778d6ad576",
-  pageTypeSlug: "module",
   type: "module",
   slug: "message-file",
   definition: "a message on disk: written as a page, read from both stores, and taken once read",

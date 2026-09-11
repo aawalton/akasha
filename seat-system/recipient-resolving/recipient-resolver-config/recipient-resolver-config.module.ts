@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const recipientResolverConfig = {
   id: "01a0657d-a75e-7000-8cb9-c08b467911d7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "recipient-resolver-config",
   definition: "the tick interval, revive timeout and dry-run setting read out of the environment",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const proxy = {
   id: "01a06863-8e7c-79d7-b834-766a91baff9f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "proxy",
   definition: "a request sent on to its target, the caller named on it or not",

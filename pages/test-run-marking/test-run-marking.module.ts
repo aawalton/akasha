@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const testRunMarking = {
   id: "01a069c3-b0fd-7947-8715-46fad5843f53",
-  pageTypeSlug: "module",
   type: "module",
   slug: "test-run-marking",
   definition: "marking a test run so a child it spawns refuses a live write as its parent would",

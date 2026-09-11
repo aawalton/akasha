@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const healthSamplesBody = {
   id: "01a05b54-a90a-7911-bee0-2578b8352aa6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "health-samples-body",
   definition: "the body the health samples route takes",

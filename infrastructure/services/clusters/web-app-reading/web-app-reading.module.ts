@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const webAppReading = {
   id: "01a05af7-5996-7000-9cf8-b27923a0672b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "web-app-reading",
   definition: "the workload a web app's page and the cluster service page it names represent",

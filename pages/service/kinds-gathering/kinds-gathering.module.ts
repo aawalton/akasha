@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const kindsGathering = {
   id: "01a0723b-ed99-778a-8adb-131a72c2cd98",
-  pageTypeSlug: "module",
   type: "module",
   slug: "kinds-gathering",
   definition:

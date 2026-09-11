@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatRelaunchNameDecide = {
   id: "01a0686d-9d5e-700f-b204-fb26482a5d38",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-relaunch-name-decide",
   definition: "which name a seat being relaunched comes back under",

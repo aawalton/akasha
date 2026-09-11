@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transpileResolveRequireReplacement = {
   id: "01a06758-8ed6-7002-83fe-ec50dee7207e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transpile-resolve-require-replacement",
   definition: "the rewritten require path spliced into printed Lua code and its source map",

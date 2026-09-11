@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useViewConfigHandlers = {
   id: "01a05cba-9cbc-7530-9776-64407deb6bbc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-view-config-handlers",
   definition: "what a view calls when its configuration changes",

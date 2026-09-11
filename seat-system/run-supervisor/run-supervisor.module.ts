@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const runSupervisor = {
   id: "01a069c8-f654-7d87-acd6-65d71f1132ff",
-  pageTypeSlug: "module",
   type: "module",
   slug: "run-supervisor",
   definition:

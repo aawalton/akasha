@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const composeBoot = {
   id: "01a069c8-f654-7765-bacf-c9f586d7aa13",
-  pageTypeSlug: "module",
   type: "module",
   slug: "compose-boot",
   definition:

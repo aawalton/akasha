@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useActiveQuickAddPageType = {
   id: "01a06205-4f3c-7006-826b-46e584d9e991",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-active-quick-add-page-type",
   definition: "The page type quick add is currently adding to.",

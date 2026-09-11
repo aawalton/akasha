@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gatedLanding = {
   id: "01a068a4-60f0-7001-aebb-1a5a0fbc991d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gated-landing",
   definition:

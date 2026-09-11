@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageCarry = {
   id: "01a0686e-6807-7000-9245-b0c6335299c1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-carry",
   definition: "a value read off a page carried as text, as a list of text, or as nothing",

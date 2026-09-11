@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const imagePublishing = {
   id: "01a08da4-6ca4-798c-84fd-af4b515703c5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "image-publishing",
   definition: "a built image put in the cluster's registry by the cluster's builder",

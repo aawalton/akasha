@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const runComposing = {
   id: "01a08dff-2d3f-7efd-945c-c66c06e004db",
-  pageTypeSlug: "module",
   type: "module",
   slug: "run-composing",
   definition: "the command line a workstation service's start states as pages rather than paths",

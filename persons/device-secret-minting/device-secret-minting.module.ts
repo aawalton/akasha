@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deviceSecretMinting = {
   id: "01a05b54-a906-71e9-a3de-4d27766113e0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "device-secret-minting",
   definition: "whether a device mints a secret or keeps the one it has",

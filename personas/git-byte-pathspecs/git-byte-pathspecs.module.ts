@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gitBytePathspecs = {
   id: "01a05b70-a58c-71c5-b942-5c0973d995c0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "git-byte-pathspecs",
   definition: "the git pathspecs a persona's points are counted over, for a path prefix",

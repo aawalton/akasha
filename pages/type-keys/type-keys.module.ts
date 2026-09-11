@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const typeKeys = {
   id: "01a08881-d71d-7652-9d53-add334cdd396",
-  pageTypeSlug: "module",
   type: "module",
   slug: "type-keys",
   definition: "the page type keys the code composing a page body states",

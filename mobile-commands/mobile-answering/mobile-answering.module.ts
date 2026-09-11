@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mobileAnswering = {
   id: "01a0685d-ceae-7001-ab89-d96c099a2549",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mobile-answering",
   definition: "the words a mobile command was called with, read, and the answer built from them",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messagePageAddress = {
   id: "01a0686c-f06b-700c-8b8f-51f577e30eb1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "message-page-address",
   definition: "the address and the identity a message page's name carries",

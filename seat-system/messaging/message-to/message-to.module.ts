@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messageTo = {
   id: "01a0686c-f06b-700b-b0ac-bf88b0cd5564",
-  pageTypeSlug: "module",
   type: "module",
   slug: "message-to",
   definition: "the seat a message addressed to a domain and a role is for",

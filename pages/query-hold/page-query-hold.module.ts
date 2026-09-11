@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageQueryHold = {
   id: "01a06874-32dc-7000-837c-b1fa87bcc846",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-query-hold",
   definition: "an answer to a page query kept for as long as a caller says to keep it",

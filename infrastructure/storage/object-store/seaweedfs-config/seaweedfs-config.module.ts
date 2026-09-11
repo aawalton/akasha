@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seaweedfsConfig = {
   id: "01a05cbb-139d-7655-9c7c-efdbf2fee451",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seaweedfs-config",
   definition: "the endpoint and credentials a SeaweedFS store is reached with",

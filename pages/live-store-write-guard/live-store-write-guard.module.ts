@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const liveStoreWriteGuard = {
   id: "01a068a4-60f0-7002-93ad-6a1e24aebfeb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "live-store-write-guard",
   definition: "a test run's write into Alan's own checkout refused before it can land real data",

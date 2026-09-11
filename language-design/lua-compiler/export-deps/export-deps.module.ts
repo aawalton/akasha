@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const exportDeps = {
   id: "01a06758-8e77-7001-88d1-06221e0999d5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "export-deps",
   definition: "a late-bound holder of the module local name function",

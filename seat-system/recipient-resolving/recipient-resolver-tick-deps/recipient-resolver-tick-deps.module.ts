@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const recipientResolverTickDeps = {
   id: "01a0657d-a75e-7006-9dc7-31683901dbf1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "recipient-resolver-tick-deps",
   definition:

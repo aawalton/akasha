@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const filePageName = {
   id: "01a05bd6-c52f-759b-9a61-c0fad7a06d57",
-  pageTypeSlug: "module",
   type: "module",
   slug: "file-page-name",
   definition: "the name a file-backed page is known by, worked out from its id",

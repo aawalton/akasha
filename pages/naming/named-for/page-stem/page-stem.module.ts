@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageStem = {
   id: "01a05c53-bc6b-7dba-8a4d-0388f0ff1db2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-stem",
   definition: "free text cut down to the part of a file name a page is found by",

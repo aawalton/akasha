@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageQueryRequest = {
   id: "01a06874-32db-7000-85c2-0567c0db08d6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-query-request",
   definition: "what a request to a page query has, and what it answers with",

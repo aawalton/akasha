@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorAgentActionClear = {
   id: "01a0683e-3dbe-7006-8802-c5cdbe0a8d6d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-agent-action-clear",
   definition: "the requested action taken off a seat before the supervisor signals its child",

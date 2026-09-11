@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transpileEmitHost = {
   id: "01a06758-8ed1-7000-9826-eaa2aead9981",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transpile-emit-host",
   definition: "the file-system interface of directory checks, reads, and writes",

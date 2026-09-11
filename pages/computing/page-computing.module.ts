@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageComputing = {
   id: "01a071a5-d394-7d1d-ac04-9a2bf63eeaa8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-computing",
   definition: "the values a page type's calculations work out over the values a page carries",

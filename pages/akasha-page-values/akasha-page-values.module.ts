@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const akashaPageValues = {
   id: "01a068a4-60f0-7005-b761-625a83147b3e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "akasha-page-values",
   definition:

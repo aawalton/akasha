@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatReviveIoVerifyDecide = {
   id: "01a0686d-9d5e-700d-914f-8bcfda76a867",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-revive-io-verify-decide",
   definition: "whether a seat that was revived has moved since, or is wedged where it was left",

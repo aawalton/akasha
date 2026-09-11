@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const viewData = {
   id: "01a05b92-a9c7-7f79-916d-df7a07d5033c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "view-data",
   definition: "the configuration a view persists",

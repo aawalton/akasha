@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const geminiImageClient = {
   id: "01a0682d-8ef5-7004-ae3d-4d4efd7dcff0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gemini-image-client",
   definition: "an image edited by Gemini from a prompt and reference images",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitExtensionIdentifier = {
   id: "01a06758-8eb8-7000-84d7-ab7427732c82",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-extension-identifier",
   definition: "the diagnostic a bare $multi, $range, or $vararg identifier becomes",

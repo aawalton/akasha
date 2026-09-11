@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorEnv = {
   id: "01a0683e-3dbe-701f-84bf-56050a29afd2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-env",
   definition: "the environment a supervisor hands its Claude child",

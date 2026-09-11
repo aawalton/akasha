@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const snapshotFold = {
   id: "01a05b69-4558-7c9e-b808-730c3dcd5dea",
-  pageTypeSlug: "module",
   type: "module",
   slug: "snapshot-fold",
   definition: "the rows a snapshot's entries fold down to",

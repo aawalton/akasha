@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageBoard = {
   id: "01a0617e-0d2d-7001-9d93-15c81a59f416",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-board",
   definition: "pages laid out as columns of cards, one column to a group",

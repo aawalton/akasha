@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const servicePuttingUp = {
   id: "01a08cef-2ffd-70db-abdd-5cf7f3cfaf21",
-  pageTypeSlug: "module",
   type: "module",
   slug: "service-putting-up",
   definition: "one workstation service's units written and asked of systemd",

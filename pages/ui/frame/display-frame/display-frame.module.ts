@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const displayFrame = {
   id: "01a061ee-786e-7002-8593-6e84c28689af",
-  pageTypeSlug: "module",
   type: "module",
   slug: "display-frame",
   definition:

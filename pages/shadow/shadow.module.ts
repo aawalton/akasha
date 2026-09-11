@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shadow = {
   id: "01a053a5-3240-7a15-81e0-042ef50c4d89",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shadow",
   definition: "the files and index as a change would leave them",

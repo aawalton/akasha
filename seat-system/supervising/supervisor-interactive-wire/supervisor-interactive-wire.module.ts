@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorInteractiveWire = {
   id: "01a06871-3115-7009-a94c-1cccc05f925d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-interactive-wire",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitOptionalChainDeps = {
   id: "01a06758-8ec1-7002-bd55-3b1be2f9ed2f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-optional-chain-deps",
   definition: "the late-bound holder of the optional chain transformer",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messagesMcp = {
   id: "01a069cc-ae10-7ea6-a404-37258b7a6cca",
-  pageTypeSlug: "module",
   type: "module",
   slug: "messages-mcp",
   definition:

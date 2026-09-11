@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const recipientResolverRegistry = {
   id: "01a0657d-a75e-7003-ad87-1205dd4ec929",
-  pageTypeSlug: "module",
   type: "module",
   slug: "recipient-resolver-registry",
   definition:

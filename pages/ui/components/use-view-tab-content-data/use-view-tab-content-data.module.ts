@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useViewTabContentData = {
   id: "01a06205-4f3c-700a-a70f-5a87a7d010b4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-view-tab-content-data",
   definition: "The rows, groups and definitions one view tab shows.",

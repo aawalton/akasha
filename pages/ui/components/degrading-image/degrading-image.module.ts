@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const degradingImage = {
   id: "01a05c40-2192-76a6-9bf0-a3b224e8b06b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "degrading-image",
   definition:

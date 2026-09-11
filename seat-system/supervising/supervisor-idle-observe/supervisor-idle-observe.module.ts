@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorIdleObserve = {
   id: "01a06871-3115-7002-a786-a3fb7a53c159",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-idle-observe",
   definition: "what a seat's proxy, process tree and dispatch children show at this moment",

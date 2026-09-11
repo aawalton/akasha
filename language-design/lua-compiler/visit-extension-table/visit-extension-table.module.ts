@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitExtensionTable = {
   id: "01a06758-8eba-7000-a39a-bcf4e6fc9db9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-extension-table",
   definition:

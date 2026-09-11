@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatProcKey = {
   id: "01a068a4-60f0-7000-bffe-694978e0a342",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-proc-key",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageServing = {
   id: "01a05a0c-e821-77b9-8798-ffe359e087ba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-serving",
   definition: "a question or a write arriving over HTTP, and the answer sent back",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pointsSourceDeclarers = {
   id: "01a05b70-a58d-7513-8c39-624c74cdaf3a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "points-source-declarers",
   definition: "which personas declare a given external points source",

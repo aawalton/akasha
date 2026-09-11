@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transpileOutputCollector = {
   id: "01a06758-8ed3-7000-9776-842830b4ff4a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transpile-output-collector",
   definition:

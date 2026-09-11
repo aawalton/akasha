@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const richDocument = {
   id: "01a05b92-a9c7-7ec3-8290-1fb5694cef1b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rich-document",
   definition: "what makes a rich-document value well formed",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useInlineCompletion = {
   id: "01a05c40-2196-76a5-86e6-fa407ef6bfdd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-inline-completion",
   definition:

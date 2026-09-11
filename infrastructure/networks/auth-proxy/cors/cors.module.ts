@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const cors = {
   id: "01a06863-8e7c-7ff0-95ea-2e1024563925",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cors",
   definition: "this proxy's allowed origins put to a request and to its preflight",

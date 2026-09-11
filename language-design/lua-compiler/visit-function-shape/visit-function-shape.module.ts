@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitFunctionShape = {
   id: "01a06758-8eb4-7001-913c-4bb719075058",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-function-shape",
   definition: "the setmetatable callable table a function with properties becomes",

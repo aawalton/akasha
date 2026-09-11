@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const serviceCheckout = {
   id: "01a08df8-2f20-7590-8d5b-082a6a92bfc1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "service-checkout",
   definition: "the checkout a workstation service's run reads and writes under",

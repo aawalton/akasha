@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const personaReading = {
   id: "01a06949-b280-754e-ac40-fe17b061a1af",
-  pageTypeSlug: "module",
   type: "module",
   slug: "persona-reading",
   definition:

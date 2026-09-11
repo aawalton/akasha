@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const formatReaching = {
   id: "01a04ff9-7758-71a6-bf33-91862c9be16d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "format-reaching",
   definition: "how a name format is reached by slug and its judgement loaded",

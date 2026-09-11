@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitAsyncAwait = {
   id: "01a06758-8e98-7001-aebd-769452e10451",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-async-await",
   definition: "the awaiter call an await expression or an async function body becomes",

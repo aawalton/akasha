@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatNameHeldRefusal = {
   id: "01a0695a-d2ea-7fa4-b030-a36364fc2455",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-name-held-refusal",
   definition:

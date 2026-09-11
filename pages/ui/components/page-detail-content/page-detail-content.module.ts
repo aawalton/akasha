@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageDetailContent = {
   id: "01a0625a-e4ac-75a5-ad8c-dd0bb5c55a78",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-detail-content",
   definition: "the body of one page, chosen by the display its page type names",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageTypeDescent = {
   id: "01a04eca-11d6-7481-9151-c390edc031c2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-type-descent",
   definition: "which page types stand under a given page type",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const recipientResolverInbound = {
   id: "01a0657d-a75e-7002-9ef2-f790d1fe2d24",
-  pageTypeSlug: "module",
   type: "module",
   slug: "recipient-resolver-inbound",
   definition: "the unclaimed messages waiting on an agent, each read as one comms input",

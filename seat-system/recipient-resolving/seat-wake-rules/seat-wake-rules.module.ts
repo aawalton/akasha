@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatWakeRules = {
   id: "01a0686d-9d5e-7017-a8e4-4b5dc1d6aa6b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-wake-rules",
   definition:

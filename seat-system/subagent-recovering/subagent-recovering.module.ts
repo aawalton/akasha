@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const subagentRecovering = {
   id: "01a08d67-3a64-7f77-bb80-0d2661de12d7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "subagent-recovering",
   definition: "what a subagent left unlanded, moved onto the seat that dispatched it",

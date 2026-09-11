@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const viewportThresholds = {
   id: "01a05c43-02b9-7702-9bd9-b55543d6439a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "viewport-thresholds",
   definition:

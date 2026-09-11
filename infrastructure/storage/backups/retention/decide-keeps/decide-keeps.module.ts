@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const decideKeeps = {
   id: "01a06863-74e3-7737-8f36-29465597211c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "decide-keeps",
   definition: "what each backup's keep marking is to become",

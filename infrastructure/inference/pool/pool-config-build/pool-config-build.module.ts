@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const poolConfigBuild = {
   id: "01a0685d-4b35-7006-9a61-f8b884dd2d47",
-  pageTypeSlug: "module",
   type: "module",
   slug: "pool-config-build",
   definition: "the pool file the traffic cop reads, built from the declared services",

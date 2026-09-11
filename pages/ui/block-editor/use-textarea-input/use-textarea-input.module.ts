@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useTextareaInput = {
   id: "01a06252-344a-798e-852f-8b867fe1a378",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-textarea-input",
   definition: "the typing, shortcuts and caret handling one editable block's textarea takes",

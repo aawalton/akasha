@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keepDecision = {
   id: "01a06863-74e2-7c1b-b23b-96d87eca0184",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keep-decision",
   definition: "the shapes a decision about which backups are kept is stated in",

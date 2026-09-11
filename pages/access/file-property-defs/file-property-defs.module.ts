@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const filePropertyDefs = {
   id: "01a05bd6-c530-72bb-9046-ba72f58fad9b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "file-property-defs",
   definition: "the property definitions a file-backed page type declares",

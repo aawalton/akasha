@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorChildSpawn = {
   id: "01a0683e-3dbe-7010-8b9f-e1ca56441ef8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-child-spawn",
   definition: "a live Claude child adopted where one is there and spawned where none is",

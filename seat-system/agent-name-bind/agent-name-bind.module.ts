@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const agentNameBind = {
   id: "01a0695a-d2ea-7203-a1a2-06a2a8188bc0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "agent-name-bind",
   definition:

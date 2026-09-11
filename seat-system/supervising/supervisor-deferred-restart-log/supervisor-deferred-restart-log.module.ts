@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorDeferredRestartLog = {
   id: "01a0683e-3dbe-701c-bda1-241e26dc0af9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-deferred-restart-log",
   definition: "what a deferred restart says while it waits and when it fires",

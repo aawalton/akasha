@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const readerProse = {
   id: "01a05c3d-a2e7-7b06-a66e-82d41ecf1e27",
-  pageTypeSlug: "module",
   type: "module",
   slug: "reader-prose",
   definition:

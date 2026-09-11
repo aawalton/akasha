@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const extractTargetIds = {
   id: "01a05cac-2a50-78f7-921e-dd914651ad29",
-  pageTypeSlug: "module",
   type: "module",
   slug: "extract-target-ids",
   definition: "the page ids a where clause narrows a write down to",

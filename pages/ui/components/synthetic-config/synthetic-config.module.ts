@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const syntheticConfig = {
   id: "01a05cce-25ec-7ff8-bc53-96b43a0253f7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "synthetic-config",
   definition: "a view configuration built for a listing that states none of its own",

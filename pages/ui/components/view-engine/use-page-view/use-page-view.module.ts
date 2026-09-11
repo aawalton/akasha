@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const usePageView = {
   id: "01a06164-b506-7011-82d7-2fda5f30e223",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-page-view",
   definition:

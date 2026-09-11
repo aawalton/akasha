@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatCall = {
   id: "01a069d0-78a2-7469-99bf-2a7d3a0b5a78",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-call",
   definition: "one seat call read off a payload, for the shell that launches a seat",

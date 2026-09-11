@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const greenDayFraction = {
   id: "01a05b70-a58c-7b22-84e5-578b0088bcf5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "green-day-fraction",
   definition: "the green-day points a persona states",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const turnWorking = {
   id: "01a0687b-3c85-7000-b60f-9d7b8c037697",
-  pageTypeSlug: "module",
   type: "module",
   slug: "turn-working",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const unitWriting = {
   id: "01a05a56-b9f1-77a4-8a3d-6e0424952002",
-  pageTypeSlug: "module",
   type: "module",
   slug: "unit-writing",
   definition: "the unit and timer text a workstation service's page states",

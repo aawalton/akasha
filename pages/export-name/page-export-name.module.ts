@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageExportName = {
   id: "01a04e46-47d8-700f-b8cf-ef51ad3fe582",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-export-name",
   definition: "the names a page's slug makes, for the value it is bound to and for the type it is",

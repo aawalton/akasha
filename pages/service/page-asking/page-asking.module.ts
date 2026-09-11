@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageAsking = {
   id: "01a05a07-81e2-7f5f-a79f-e899fbe6699b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-asking",
   definition: "a question put to the pages, and the rows it answers with",

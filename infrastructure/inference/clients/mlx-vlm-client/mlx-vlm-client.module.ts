@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mlxVlmClient = {
   id: "01a0682d-8ef5-7003-ab7a-241d38f5e4c6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mlx-vlm-client",
   definition: "a clip read frame by frame by the MLX vision model against a checklist",

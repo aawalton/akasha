@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const webAppBuilding = {
   id: "01a05b27-a75c-7fab-a630-6d98b13144e1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "web-app-building",
   definition: "the build a web app's pod serves, made in that pod from what a workstation holds",

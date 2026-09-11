@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useChromeToggle = {
   id: "01a05cb4-fefc-78a8-a5c0-3bac22198227",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-chrome-toggle",
   definition: "whether the chrome shows, turned by a reader's click",

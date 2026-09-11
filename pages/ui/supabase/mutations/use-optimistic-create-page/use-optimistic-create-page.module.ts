@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useOptimisticCreatePage = {
   id: "01a061cd-1a4e-7000-96b1-be78648de486",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-optimistic-create-page",
   definition:

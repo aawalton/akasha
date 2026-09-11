@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workloadCensus = {
   id: "01a06977-65e4-7fe1-86eb-b5c80ca5d400",
-  pageTypeSlug: "module",
   type: "module",
   slug: "workload-census",
   definition: "every workload the cluster runs that no cluster service page claims",

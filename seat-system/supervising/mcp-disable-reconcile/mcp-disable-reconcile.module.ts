@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mcpDisableReconcile = {
   id: "01a0686c-f06b-700a-b0b5-cfa06c6e47bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mcp-disable-reconcile",
   definition: "a harness setting that switched a declared tool server off, undone before launch",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const memoryReaperTick = {
   id: "01a0686c-f06b-7008-9b99-4a53950c8d35",
-  pageTypeSlug: "module",
   type: "module",
   slug: "memory-reaper-tick",
   definition: "one pass of reading the host, planning the kills and signalling them",

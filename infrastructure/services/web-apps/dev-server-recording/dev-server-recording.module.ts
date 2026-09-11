@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const devServerRecording = {
   id: "01a06583-0030-7005-bc8d-acc88730da21",
-  pageTypeSlug: "module",
   type: "module",
   slug: "dev-server-recording",
   definition: "one dev server said as a row, running or stopped",

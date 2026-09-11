@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transportDeployment = {
   id: "01a06816-2f11-7368-876c-6dd1f691b8bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transport-deployment",
   definition: "the workload the cluster runs the transport as",

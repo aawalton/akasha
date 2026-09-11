@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const jsonbOps = {
   id: "01a05b92-a9c7-75cf-8c6e-e71a10fbd2df",
-  pageTypeSlug: "module",
   type: "module",
   slug: "jsonb-ops",
   definition: "a json value edited at a path the way postgres's jsonb operators do",

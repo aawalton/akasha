@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useOptimisticDeletePages = {
   id: "01a061cd-1a4e-7002-befa-7c8f8ff562fe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-optimistic-delete-pages",
   definition:

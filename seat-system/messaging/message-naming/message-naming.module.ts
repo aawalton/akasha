@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messageNaming = {
   id: "01a090ec-d6a6-7000-9e51-19347ddb64ce",
-  pageTypeSlug: "module",
   type: "module",
   slug: "message-naming",
   definition: "the name a message page takes from the message's identity",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const bootGate = {
   id: "01a05c7d-d068-79aa-9ca7-ec600a058f2d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "boot-gate",
   definition: "how long a screen waits for the page store to come up before it draws without it",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorChildExitRule = {
   id: "01a0683e-3dbe-700f-9725-cda76a9d7b7e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-child-exit-rule",
   definition: "the child-exit readings asked of the deciding command",

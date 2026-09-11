@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useOptimisticPatchPropertyDefinition = {
   id: "01a061cd-1a4e-7005-9858-4e40f08144bd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-optimistic-patch-property-definition",
   definition:

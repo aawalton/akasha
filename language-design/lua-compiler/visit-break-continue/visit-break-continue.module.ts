@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitBreakContinue = {
   id: "01a06758-8ea0-7001-b22d-7b073e1d69b9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-break-continue",
   definition: "the break, goto, or flag assignment a break or continue statement becomes",

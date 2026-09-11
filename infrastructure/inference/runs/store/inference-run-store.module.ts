@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inferenceRunStore = {
   id: "01a0685d-4b35-7014-819a-3402c8830118",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inference-run-store",
   definition: "recording a run from before it starts through to what it made",

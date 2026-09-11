@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const wallpaperRecord = {
   id: "01a05b70-a58d-713d-9f6d-5d268721e317",
-  pageTypeSlug: "module",
   type: "module",
   slug: "wallpaper-record",
   definition: "the record written for a persona's wallpaper at a level",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorIterationOutcome = {
   id: "01a06871-3115-700c-bb97-5d8f1d4b1d6d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-iteration-outcome",
   definition: "which directive the loop takes from whatever action was pending at the child's exit",

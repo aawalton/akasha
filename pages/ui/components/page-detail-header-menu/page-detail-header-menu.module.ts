@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageDetailHeaderMenu = {
   id: "01a061ee-786e-7008-9030-51ed6052435c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-detail-header-menu",
   definition: "The menu in a page detail header, offering the actions that page allows.",

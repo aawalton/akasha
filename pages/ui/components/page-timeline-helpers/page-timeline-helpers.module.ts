@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageTimelineHelpers = {
   id: "01a05cce-25ec-700a-89fa-64c10561f7ba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-timeline-helpers",
   definition: "the bars and ticks a timeline draws, worked out from its rows",

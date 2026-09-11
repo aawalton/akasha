@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorAgentActionArm = {
   id: "01a0683e-3dbe-7005-8bd3-faecca604871",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-agent-action-arm",
   definition: "an idle gate armed to delay a restart until the session is between turns",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const subagentCensus = {
   id: "01a072be-bffe-7f16-bf8b-0ccd8c2a00f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "subagent-census",
   definition: "every subagent page the index has, each judged working, stale or undetermined",

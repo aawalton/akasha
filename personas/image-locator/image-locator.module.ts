@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const imageLocator = {
   id: "01a05b70-a58c-726c-8271-4f467712887a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "image-locator",
   definition: "a path turned into and back out of a form relative to a named root",

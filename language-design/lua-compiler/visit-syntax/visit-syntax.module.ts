@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitSyntax = {
   id: "01a06758-8eb1-7001-8606-56af49b80634",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-syntax",
   definition: "the checks of class member modifiers and the extends clause",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lastMessaged = {
   id: "01a05b70-a58c-7e12-b45f-7ec257ec247d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "last-messaged",
   definition: "which persona an agent's stated persona or its own name points at",

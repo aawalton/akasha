@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const visitNew = {
   id: "01a06758-8eb0-7000-8bbb-1863e23e06c1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "visit-new",
   definition: "the Lua a new expression becomes",
