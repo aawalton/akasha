@@ -20,6 +20,7 @@ export const readout = {
     "module/readout-none-left",
     "module/readout-reading",
     "module/readout-relay",
+    "module/readout-relay-carrying",
     "module/readout-ring",
     "module/readout-scale-reading",
     "module/readout-tier",
