@@ -6,28 +6,28 @@ import {
   asScrollDataEntry,
   asScrollDataList,
   asTableKey,
-} from "../shifter-casts/shifter-casts.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   DATA_DEFAULT_CATEGORY,
   DATA_TYPE_DEFAULT,
-} from "../shifter-constants/shifter-constants.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import {
   fireCallback,
   getShallowClonedTable,
   getValueOrCallback,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
 import {
   onSearchHeaderButtonClicked,
   onSearchHeaderEditBoxReturnKey,
   onSearchHeaderEditBoxTextChanged,
-} from "../shifter-search-header/shifter-search-header.module.code.ts"
-import { lib } from "../shifter-state/shifter-state.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-search-header/shifter-search-header.module.code.ts"
+import { lib } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   RowData,
   ShifterBox,
   ShifterBoxList,
   ShifterBoxListClass,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export const ShifterBoxListProto = ZO_SortFilterList.Subclass<ShifterBoxListClass>()
 

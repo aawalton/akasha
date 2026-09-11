@@ -1,13 +1,13 @@
-import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
-import { asString } from "../shifter-casts/shifter-casts.module.code.ts"
-import { LIB_IDENTIFIER } from "../shifter-constants/shifter-constants.module.code.ts"
-import { CM, lib } from "../shifter-state/shifter-state.module.code.ts"
+import { asString } from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
+import { CM, lib } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   MasterEntry,
   ShifterBox,
   ShifterBoxList,
   Valued,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
+import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
 
 export function getDeepClonedTable<T>(sourceTable: T | undefined): T | undefined {
   if (sourceTable === undefined) return undefined

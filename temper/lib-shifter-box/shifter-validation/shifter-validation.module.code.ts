@@ -1,11 +1,15 @@
-import { asNumber, asString, asTableKey } from "../shifter-casts/shifter-casts.module.code.ts"
+import {
+  asNumber,
+  asString,
+  asTableKey,
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   LIB_IDENTIFIER,
   SPECIAL_TYPE_TEXTS,
-} from "../shifter-constants/shifter-constants.module.code.ts"
-import { getValueOrCallback } from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { allowedShifterBoxEvents } from "../shifter-state/shifter-state.module.code.ts"
-import type { ShifterBoxList } from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
+import { getValueOrCallback } from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { allowedShifterBoxEvents } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
+import type { ShifterBoxList } from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export function errorText(textTemplate: string, ...args: unknown[]): string {
   let errorTextStr = `${LIB_IDENTIFIER}_Error: `

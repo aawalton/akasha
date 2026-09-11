@@ -2,7 +2,7 @@ import {
   asCursorTLC,
   asLabelControl,
   asShifterScrollList,
-} from "../shifter-casts/shifter-casts.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   CURSOR_TLC_NAME,
   DEFAULT_LIST_SETTINGS,
@@ -10,15 +10,19 @@ import {
   GLOBAL_MOUSE_DOWN,
   GLOBAL_MOUSE_UP,
   MOUSECURSOR_DONOTCATRE,
-} from "../shifter-constants/shifter-constants.module.code.ts"
-import { getOtherSideShifterBoxListControl } from "../shifter-list-ops/shifter-list-ops.module.code.ts"
-import { CURSOR_STATE, EM, WM } from "../shifter-state/shifter-state.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
+import { getOtherSideShifterBoxListControl } from "akasha/temper/lib-shifter-box/shifter-list-ops/shifter-list-ops.module.code.ts"
+import {
+  CURSOR_STATE,
+  EM,
+  WM,
+} from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   DragData,
   ShifterBox,
   ShifterBoxList,
   ShifterScrollList,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export function setMouseCursor(cursorName: number): undefined {
   WM.SetMouseCursor(cursorName)

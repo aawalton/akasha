@@ -6,20 +6,23 @@ import {
   asScrollDataList,
   asString,
   asTableKey,
-} from "../shifter-casts/shifter-casts.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   FONT_STYLE,
   FONT_WEIGHT,
   RESELECTING_DURING_REBUILD,
   SCROLLBAR_WIDTH,
-} from "../shifter-constants/shifter-constants.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import {
   fireCallback,
   getShallowClonedTable,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { ShifterBoxListProto } from "../shifter-list-class/shifter-list-class.module.code.ts"
-import { lib } from "../shifter-state/shifter-state.module.code.ts"
-import type { RowData, ShifterBoxList } from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { ShifterBoxListProto } from "akasha/temper/lib-shifter-box/shifter-list-class/shifter-list-class.module.code.ts"
+import { lib } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
+import type {
+  RowData,
+  ShifterBoxList,
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 ShifterBoxListProto.SetupRowEntry = function (
   this: ShifterBoxList,

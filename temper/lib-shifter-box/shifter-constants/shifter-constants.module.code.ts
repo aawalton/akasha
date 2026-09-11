@@ -1,9 +1,9 @@
-import { registerLibShifterBoxStrings } from "../shifter-strings/shifter-strings.module.code.ts"
+import { registerLibShifterBoxStrings } from "akasha/temper/lib-shifter-box/shifter-strings/shifter-strings.module.code.ts"
 import type {
   CustomSettingEntry,
   ListSettings,
   ShifterBoxSettings,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 registerLibShifterBoxStrings()
 

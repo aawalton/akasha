@@ -5,19 +5,19 @@ import {
   initShifterBoxControls,
   initShifterBoxHandlers,
   setListBoxDimensions,
-} from "../shifter-box-create/shifter-box-create.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-box-create/shifter-box-create.module.code.ts"
 import {
   asControl,
   asNumberPair,
   asShifterBox,
   asTableKey,
-} from "../shifter-casts/shifter-casts.module.code.ts"
-import { ARROW_SIZE } from "../shifter-constants/shifter-constants.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { ARROW_SIZE } from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import {
   getUniqueShifterBoxEventName,
   refreshFilters,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { ShifterBoxListProto } from "../shifter-list-class/shifter-list-class.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { ShifterBoxListProto } from "akasha/temper/lib-shifter-box/shifter-list-class/shifter-list-class.module.code.ts"
 import {
   addEntriesToList,
   addEntryToList,
@@ -29,17 +29,20 @@ import {
   removeEntryFromList,
   selectEntries,
   selectEntry,
-} from "../shifter-list-ops/shifter-list-ops.module.code.ts"
-import { CM, existingShifterBoxes } from "../shifter-state/shifter-state.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-list-ops/shifter-list-ops.module.code.ts"
+import {
+  CM,
+  existingShifterBoxes,
+} from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   AnchorOptions,
   ShifterBox,
   ShifterBoxClass,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 import {
   assertValidShifterBoxEvent,
   errorText,
-} from "../shifter-validation/shifter-validation.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-validation/shifter-validation.module.code.ts"
 
 export const ShifterBoxProto = ZO_Object.Subclass<ShifterBoxClass>()
 

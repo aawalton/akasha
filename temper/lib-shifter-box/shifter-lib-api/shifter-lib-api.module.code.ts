@@ -1,13 +1,19 @@
-import { ShifterBoxProto } from "../shifter-box-class/shifter-box-class.module.code.ts"
+import { ShifterBoxProto } from "akasha/temper/lib-shifter-box/shifter-box-class/shifter-box-class.module.code.ts"
 import {
   asAnchorOptions,
   asControl,
   asTableKey,
   asUnknownArray,
-} from "../shifter-casts/shifter-casts.module.code.ts"
-import { DATA_DEFAULT_CATEGORY } from "../shifter-constants/shifter-constants.module.code.ts"
-import { existingShifterBoxes, lib } from "../shifter-state/shifter-state.module.code.ts"
-import type { Lib, ShifterBox } from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { DATA_DEFAULT_CATEGORY } from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
+import {
+  existingShifterBoxes,
+  lib,
+} from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
+import type {
+  Lib,
+  ShifterBox,
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 lib.DEFAULT_CATEGORY = DATA_DEFAULT_CATEGORY
 

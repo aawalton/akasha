@@ -11,7 +11,7 @@ import type {
   ShifterRowControl,
   ShifterScrollList,
   ShifterScrollListDataEntry,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export type TableKey = AnyNotNil
 

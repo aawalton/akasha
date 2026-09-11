@@ -2,20 +2,20 @@ import {
   asAnimationFieldHolder,
   asAnimationTimeline,
   asTableKey,
-} from "../shifter-casts/shifter-casts.module.code.ts"
-import { ANIMATION_FIELD_NAME } from "../shifter-constants/shifter-constants.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { ANIMATION_FIELD_NAME } from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import {
   fireCallback,
   getShallowClonedTable,
   refreshFilter,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { ShifterBoxListProto } from "../shifter-list-class/shifter-list-class.module.code.ts"
-import { lib } from "../shifter-state/shifter-state.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { ShifterBoxListProto } from "akasha/temper/lib-shifter-box/shifter-list-class/shifter-list-class.module.code.ts"
+import { lib } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   MasterEntry,
   RowData,
   ShifterBoxList,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 ShifterBoxListProto.AddEntry = function (this: ShifterBoxList, key, value, categoryId): undefined {
   const data: MasterEntry = {

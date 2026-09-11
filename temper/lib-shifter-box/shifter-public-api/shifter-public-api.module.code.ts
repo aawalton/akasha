@@ -1,15 +1,20 @@
-import "../shifter-list-class/shifter-list-class.module.code.ts"
-import "../shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts"
-import "../shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts"
-import "../shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"
-import "../shifter-box-class/shifter-box-class.module.code.ts"
-import "../shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts"
-import "../shifter-lib-api/shifter-lib-api.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-list-class/shifter-list-class.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-box-class/shifter-box-class.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts"
+import "akasha/temper/lib-shifter-box/shifter-lib-api/shifter-lib-api.module.code.ts"
 
-import { asGlobalTable } from "../shifter-casts/shifter-casts.module.code.ts"
-import { LIB_IDENTIFIER } from "../shifter-constants/shifter-constants.module.code.ts"
-import { checkIfDraggedAndDisableUpdateHandler } from "../shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
-import { CM, EM, lib, validationTypeToFunc } from "../shifter-state/shifter-state.module.code.ts"
+import { asGlobalTable } from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
+import { checkIfDraggedAndDisableUpdateHandler } from "akasha/temper/lib-shifter-box/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
+import {
+  CM,
+  EM,
+  lib,
+  validationTypeToFunc,
+} from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import {
   assertBoolean,
   assertFunction,
@@ -19,7 +24,7 @@ import {
   assertStringValueKey,
   assertTable,
   errorText,
-} from "../shifter-validation/shifter-validation.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-validation/shifter-validation.module.code.ts"
 
 const EVENT_ADD_ON_LOADED_NAMESPACE = `${LIB_IDENTIFIER}_EVENT_ADD_ON_LOADED`
 

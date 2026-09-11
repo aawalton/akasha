@@ -1,6 +1,9 @@
-import { asControl } from "../shifter-casts/shifter-casts.module.code.ts"
-import { refreshFilters } from "../shifter-helpers/shifter-helpers.module.code.ts"
-import type { ShifterBox, ShifterBoxList } from "../shifter-types/shifter-types.module.code.ts"
+import { asControl } from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { refreshFilters } from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import type {
+  ShifterBox,
+  ShifterBoxList,
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export function onSearchHeaderEditBoxReturnKey(
   shifterBox: ShifterBox | undefined,

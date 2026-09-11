@@ -8,7 +8,7 @@ import {
   asShifterRowControl,
   asShifterScrollList,
   asTableKey,
-} from "../shifter-casts/shifter-casts.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   EVENT_HANDLER_NAMESPACE,
   GLOBAL_MOUSE_DOWN,
@@ -17,7 +17,7 @@ import {
   MOUSECURSOR_NEXTLEFT,
   MOUSECURSOR_NEXTRIGHT,
   MULTIPLE_ROWS_DRAGGED_TEXT,
-} from "../shifter-constants/shifter-constants.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import {
   abortDragging,
   autoScroll,
@@ -26,19 +26,19 @@ import {
   getDraggedDataAndTarget,
   resetDragData,
   setMouseCursor,
-} from "../shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
 import {
   fireCallback,
   getShallowClonedTable,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { ShifterBoxListProto } from "../shifter-list-class/shifter-list-class.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { ShifterBoxListProto } from "akasha/temper/lib-shifter-box/shifter-list-class/shifter-list-class.module.code.ts"
 import {
   hasSameShifterBoxParent,
   moveEntryToOtherList,
   selectEntry,
-} from "../shifter-list-ops/shifter-list-ops.module.code.ts"
-import { EM, lib } from "../shifter-state/shifter-state.module.code.ts"
-import type { ShifterBoxList } from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-list-ops/shifter-list-ops.module.code.ts"
+import { EM, lib } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
+import type { ShifterBoxList } from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 ShifterBoxListProto.OnGlobalMouseDownDuringDrag = function (
   this: ShifterBoxList,

@@ -1,11 +1,17 @@
-import { asEventIndexable, asLib } from "../shifter-casts/shifter-casts.module.code.ts"
-import { EVENT_NAMES, LIB_IDENTIFIER } from "../shifter-constants/shifter-constants.module.code.ts"
+import {
+  asEventIndexable,
+  asLib,
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import {
+  EVENT_NAMES,
+  LIB_IDENTIFIER,
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import type {
   CursorTLC,
   Lib,
   ShifterBox,
   ValidateFn,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export const CM = CALLBACK_MANAGER
 export const EM = EVENT_MANAGER

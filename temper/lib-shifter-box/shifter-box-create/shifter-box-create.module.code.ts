@@ -7,28 +7,31 @@ import {
   asString,
   asStringRecord,
   asTableKey,
-} from "../shifter-casts/shifter-casts.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   ARROW_SIZE,
   DEFAULT_SETTINGS,
   HEADER_HEIGHT,
   LIST_SPACING,
   POSSIBLE_CUSTOM_SETTINGS,
-} from "../shifter-constants/shifter-constants.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
 import {
   defaultSearchFunc,
   getDeepClonedTable,
   getShallowClonedTable,
   refreshFilter,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { moveEntryFromTo } from "../shifter-list-ops/shifter-list-ops.module.code.ts"
-import { lib, validationTypeToFunc } from "../shifter-state/shifter-state.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { moveEntryFromTo } from "akasha/temper/lib-shifter-box/shifter-list-ops/shifter-list-ops.module.code.ts"
+import {
+  lib,
+  validationTypeToFunc,
+} from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   AnchorOptions,
   ShifterBox,
   ShifterBoxList,
   ShifterBoxSettings,
-} from "../shifter-types/shifter-types.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 export function createShifterBox(
   uniqueAddonName: unknown,

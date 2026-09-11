@@ -1,9 +1,12 @@
-import { ShifterBoxProto } from "../shifter-box-class/shifter-box-class.module.code.ts"
-import { asLabelControl, asString } from "../shifter-casts/shifter-casts.module.code.ts"
-import { DEFAULT_LIST_SETTINGS } from "../shifter-constants/shifter-constants.module.code.ts"
-import { getCursorTLC } from "../shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
-import { CURSOR_STATE } from "../shifter-state/shifter-state.module.code.ts"
-import type { ShifterBox } from "../shifter-types/shifter-types.module.code.ts"
+import { ShifterBoxProto } from "akasha/temper/lib-shifter-box/shifter-box-class/shifter-box-class.module.code.ts"
+import {
+  asLabelControl,
+  asString,
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
+import { DEFAULT_LIST_SETTINGS } from "akasha/temper/lib-shifter-box/shifter-constants/shifter-constants.module.code.ts"
+import { getCursorTLC } from "akasha/temper/lib-shifter-box/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
+import { CURSOR_STATE } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
+import type { ShifterBox } from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
 
 ShifterBoxProto.UpdateCursorTLC = function (
   this: ShifterBox,

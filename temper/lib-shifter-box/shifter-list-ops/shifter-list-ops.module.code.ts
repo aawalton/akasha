@@ -1,16 +1,19 @@
-import { asEntriesTable, asTableKey } from "../shifter-casts/shifter-casts.module.code.ts"
+import {
+  asEntriesTable,
+  asTableKey,
+} from "akasha/temper/lib-shifter-box/shifter-casts/shifter-casts.module.code.ts"
 import {
   fireCallback,
   getShallowClonedTable,
   refreshFilter,
-} from "../shifter-helpers/shifter-helpers.module.code.ts"
-import { lib } from "../shifter-state/shifter-state.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-helpers/shifter-helpers.module.code.ts"
+import { lib } from "akasha/temper/lib-shifter-box/shifter-state/shifter-state.module.code.ts"
 import type {
   ShifterBox,
   ShifterBoxList,
   ShifterScrollList,
-} from "../shifter-types/shifter-types.module.code.ts"
-import { assertKeyIsNotInTable } from "../shifter-validation/shifter-validation.module.code.ts"
+} from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
+import { assertKeyIsNotInTable } from "akasha/temper/lib-shifter-box/shifter-validation/shifter-validation.module.code.ts"
 
 function isEntriesThunk(value: unknown): value is (this: void) => unknown {
   return type(value) === "function"
