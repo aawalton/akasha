@@ -42,6 +42,14 @@ export const agentHookRegistration = {
     },
     {
       invariantKind: "departure",
+      statement: "An agent hook naming no event registers nothing rather than refusing the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook parked that way is the one hook parked rather than the whole fleet.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What a hook page carries is read from the index rather than by loading the page.",
     },
   ],

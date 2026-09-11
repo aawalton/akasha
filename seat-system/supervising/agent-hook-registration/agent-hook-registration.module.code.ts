@@ -36,9 +36,11 @@ export function commandFor(event: string): string {
 function runnableIn(root: string, listed: readonly Valued[]): undefined {
   for (const one of listed) {
     const slug = String(one.value["slug"])
-    if (!Array.isArray(one.value["runsAt"]) || one.value["runsAt"].length === 0) {
-      throw new Error(`\`${slug}\` is an agent hook and names no event it runs at`)
+    const runsAt = one.value["runsAt"]
+    if (!Array.isArray(runsAt)) {
+      throw new Error(`\`${slug}\` is an agent hook and states no events it runs at`)
     }
+    if (runsAt.length === 0) continue
     if (!one.path.endsWith(ENDING)) {
       throw new Error(`\`${slug}\` is an agent hook and its page is not named \`${ENDING}\``)
     }
