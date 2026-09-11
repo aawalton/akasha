@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   B,
@@ -11,6 +11,7 @@ import {
   scratch,
   shaped,
 } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import { lineFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   knownIn,
   namesMortal,
@@ -217,8 +218,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
   const root = scratch.rootFor("akasha-reaching-entry-root-")
   const kept = new Map<string, string[]>()
   const filed = (at: string, line: string): undefined => {
-    mkdirSync(dirname(join(root, at)), { recursive: true })
-    writeFileSync(join(root, at), `${line}\n`)
+    lineFiled(root, at, line)
   }
   const page = (at: string, value: Record<string, unknown>): undefined => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)

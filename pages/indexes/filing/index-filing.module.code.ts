@@ -63,3 +63,9 @@ export function valueAlsoFiled(
 ): undefined {
   added(root, join(indexValue.name, pageTypeSlug), lines)
 }
+
+export function lineFiled(root: string, at: string, line: string): undefined {
+  const path = join(root, at)
+  mkdirSync(dirname(path), { recursive: true })
+  writeFileSync(path, `${line}\n`)
+}

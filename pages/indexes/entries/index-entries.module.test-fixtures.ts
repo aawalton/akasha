@@ -6,6 +6,7 @@ import type {
   FilePropertiesBy,
   UncommittedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { lineFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   claimsOf,
   type IsThere,
@@ -71,8 +72,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
   }
   const filed = (at: string, line: string): undefined => {
-    mkdirSync(dirname(join(root, at)), { recursive: true })
-    writeFileSync(join(root, at), `${line}\n`)
+    lineFiled(root, at, line)
   }
   page("domain.page-type.ts", {
     id: "1",

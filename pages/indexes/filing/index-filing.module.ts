@@ -13,6 +13,15 @@ export const indexFiling = {
       statement: "Where a line is filed is worked out here rather than beside a module.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A line filed at a whole path is written under the root that path is read against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line is written closed by a line end.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a line back.",
     },

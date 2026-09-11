@@ -1,5 +1,5 @@
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { mkdirSync, readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import {
   type Fields,
   type Given,
@@ -12,6 +12,7 @@ import {
   type Usage,
 } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import {
   listedFiled,
@@ -176,11 +177,6 @@ export function bodied(name: string, held: unknown): string {
   return `export const ${name} = ${JSON.stringify(held, null, 2)} as const\n`
 }
 
-export function filed(root: string, at: string, text: string): undefined {
-  mkdirSync(dirname(join(root, at)), { recursive: true })
-  writeFileSync(join(root, at), text)
-}
-
 export function typeWritten(
   root: string,
   id: string,
@@ -189,7 +185,7 @@ export function typeWritten(
   above: readonly string[],
   declared: readonly Declared[]
 ): undefined {
-  filed(
+  writing(
     root,
     at,
     bodied("typed", {
@@ -248,8 +244,8 @@ export function accountWritten(
   beside: Record<string, unknown> | null
 ): undefined {
   const value = { id: idFor(slug), pageTypeSlug: "claude-account", slug, email: `${slug}@a.test` }
-  filed(root, pageAt(slug), bodied(slug, value))
-  if (beside !== null) filed(root, besideAt(slug), bodied("held", beside))
+  writing(root, pageAt(slug), bodied(slug, value))
+  if (beside !== null) writing(root, besideAt(slug), bodied("held", beside))
   listedFiled(root, "claude-account", slug, [{ path: pageAt(slug), id: idFor(slug) }])
   valueAlsoFiled(root, "claude-account", [{ path: pageAt(slug), value }])
 }
@@ -397,7 +393,7 @@ export function typelessWorld(): string {
 }
 
 export function besideBroken(root: string): undefined {
-  filed(root, besideAt("aine"), "this is not a page body\n")
+  writing(root, besideAt("aine"), "this is not a page body\n")
 }
 
 export function shutWorld(): string {

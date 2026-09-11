@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   bodiesFrom,
   reconcile,
@@ -23,18 +24,13 @@ function rootAt(): string {
   return scratch.rootFor("akasha-reconcile-")
 }
 
-function filed(root: string, at: string, body: string): undefined {
-  mkdirSync(dirname(join(root, at)), { recursive: true })
-  writeFileSync(join(root, at), body)
-}
-
 function bodyAt(root: string, at: string): string | null {
   return existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : null
 }
 
 test("an entry no file holds is written, and an entry no page carries is taken away", () => {
   const root = rootAt()
-  filed(root, GONE, "{}\n")
+  writing(root, GONE, "{}\n")
 
   const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
 
@@ -45,7 +41,7 @@ test("an entry no file holds is written, and an entry no page carries is taken a
 
 test("an entry already saying what the pages say is left as the entry is", () => {
   const root = rootAt()
-  filed(root, AT, "{}\n")
+  writing(root, AT, "{}\n")
   const was = statSync(join(root, AT)).ino
 
   const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
@@ -56,7 +52,7 @@ test("an entry already saying what the pages say is left as the entry is", () =>
 
 test("an entry saying something else is written again and named as changed", () => {
   const root = rootAt()
-  filed(root, AT, '{"was":1}\n')
+  writing(root, AT, '{"was":1}\n')
 
   const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
 
@@ -66,7 +62,7 @@ test("an entry saying something else is written again and named as changed", () 
 
 test("a repair putting nothing in place writes nothing and says the same difference", () => {
   const root = rootAt()
-  filed(root, GONE, "{}\n")
+  writing(root, GONE, "{}\n")
 
   const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, false)
 
@@ -94,7 +90,7 @@ test("one entry file holds every line the pages imply, each once and sorted", ()
 
 test("a folder left holding nothing goes with the entry file taken away", () => {
   const root = rootAt()
-  filed(root, GONE, "{}\n")
+  writing(root, GONE, "{}\n")
 
   reconcile(join(root, UNDER), [], root, true)
 
@@ -138,7 +134,7 @@ function indexAt(): string {
 test("a file at the index's own top is taken away and the index's folders are left", () => {
   const under = indexAt()
   writeFileSync(join(under, STAMP), "{}\n")
-  filed(under, AT, "{}\n")
+  writing(under, AT, "{}\n")
 
   const taken = sweptBeside(under, true)
 
@@ -150,8 +146,8 @@ test("a file at the index's own top is taken away and the index's folders are le
 test("a folder beside the index opening `index.` goes and one under another name does not", () => {
   const under = indexAt()
   const beside = dirname(under)
-  filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
-  filed(beside, "indexes/one.jsonl", "{}\n")
+  writing(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
+  writing(beside, "indexes/one.jsonl", "{}\n")
 
   const taken = sweptBeside(under, true)
 
@@ -169,8 +165,8 @@ test("an index that is not there yet sweeps nothing rather than refusing", () =>
 test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
   const root = scratch.rootFor("akasha-swept-")
   const under = join(root, "scratch")
-  filed(under, "one.jsonl", "{}\n")
-  filed(root, "index.other/one.jsonl", "{}\n")
+  writing(under, "one.jsonl", "{}\n")
+  writing(root, "index.other/one.jsonl", "{}\n")
 
   const taken = sweptBeside(under, true)
 
@@ -183,7 +179,7 @@ test("a sweep putting nothing in place answers the paths and leaves them where t
   const under = indexAt()
   const beside = dirname(under)
   writeFileSync(join(under, STAMP), "{}\n")
-  filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
+  writing(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
 
   const taken = sweptBeside(under, false)
 

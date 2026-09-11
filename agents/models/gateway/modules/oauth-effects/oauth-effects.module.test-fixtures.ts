@@ -1,15 +1,13 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import {
-  bodied,
-  filed,
-} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import { bodied } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
 import type {
   Doors,
   UsageRead,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -88,7 +86,7 @@ function typeWritten(
   above: readonly string[],
   declared: readonly Declared[]
 ): undefined {
-  filed(
+  writing(
     root,
     at,
     bodied("typed", {
@@ -154,8 +152,8 @@ export function accountWritten(
     email: `${slug}@a.test`,
     ...stated,
   }
-  filed(root, pageAt(slug), bodied(slug, value))
-  if (beside !== null) filed(root, besideAt(slug), bodied("held", beside))
+  writing(root, pageAt(slug), bodied(slug, value))
+  if (beside !== null) writing(root, besideAt(slug), bodied("held", beside))
   listedFiled(root, "claude-account", slug, [{ path: pageAt(slug), id: idFor(slug) }])
   valueAlsoFiled(root, "claude-account", [{ path: pageAt(slug), value }])
 }
