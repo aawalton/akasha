@@ -8,4 +8,5 @@ export const alanwaltonHealthSamplesIntent = {
   definition: "the three parts declaring the health-samples intent, sourced in order",
   shell: "sh",
   sourced: true,
+  scripting: {},
 } as const satisfies ShellScript
