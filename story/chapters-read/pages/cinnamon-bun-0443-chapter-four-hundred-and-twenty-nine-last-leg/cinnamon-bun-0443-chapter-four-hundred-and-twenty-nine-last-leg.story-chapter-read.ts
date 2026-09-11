@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0443ChapterFourHundredAndTwentyNineLastLeg = {
   id: "01a0672c-eb21-7004-8051-c8444daaf018",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0443-chapter-four-hundred-and-twenty-nine-last-leg",
   title: "Chapter Four Hundred and Twenty-Nine - Last Leg",

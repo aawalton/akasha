@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0414ChapterFourHundredAndOneAbsenceMakesThe = {
   id: "01a0672c-eb1f-7014-8579-0364df8c6c7c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0414-chapter-four-hundred-and-one-absence-makes-the",
   title: "Chapter Four Hundred and One - Absence Makes the Heart Grow Fonder",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0041Chapter41NatureMage = {
   id: "01a06731-af10-700a-bfd9-6de679e840b5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0041-chapter-41-nature-mage",
   title: "Chapter 41: Nature Mage",

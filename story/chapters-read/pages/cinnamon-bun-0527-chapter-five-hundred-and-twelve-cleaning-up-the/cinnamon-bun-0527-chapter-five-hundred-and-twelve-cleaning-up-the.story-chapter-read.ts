@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0527ChapterFiveHundredAndTwelveCleaningUpThe = {
   id: "01a0672c-eb26-7000-992e-ec8b2e0eae3e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0527-chapter-five-hundred-and-twelve-cleaning-up-the",
   title: "Chapter Five Hundred and Twelve - Cleaning Up the Remainder",

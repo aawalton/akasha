@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0003Chapter3Automaton = {
   id: "01a06731-af0e-7012-80d5-a3c1f3c112fb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0003-chapter-3-automaton",
   title: "Chapter 3: Automaton",

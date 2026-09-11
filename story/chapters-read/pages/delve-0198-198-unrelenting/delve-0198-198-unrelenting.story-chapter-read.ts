@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delve0198198Unrelenting = {
   id: "01a06731-af8a-7000-ae1b-8307d0ff10c2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delve-0198-198-unrelenting",
   title: "198: Unrelenting",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0403ChapterThreeHundredAndNinetyOneRampUp = {
   id: "01a0672c-eb1f-7009-98e0-7a5fb00eb9db",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0403-chapter-three-hundred-and-ninety-one-ramp-up",
   title: "Chapter Three Hundred and Ninety-One - Ramp Up",

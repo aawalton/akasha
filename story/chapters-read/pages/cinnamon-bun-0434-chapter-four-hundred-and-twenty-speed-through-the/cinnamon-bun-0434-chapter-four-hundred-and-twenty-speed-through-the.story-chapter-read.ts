@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0434ChapterFourHundredAndTwentySpeedThroughThe = {
   id: "01a0672c-eb20-7011-b2bd-3ce9cff4ff55",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0434-chapter-four-hundred-and-twenty-speed-through-the",
   title: "Chapter Four Hundred and Twenty - Speed Through the Finish",

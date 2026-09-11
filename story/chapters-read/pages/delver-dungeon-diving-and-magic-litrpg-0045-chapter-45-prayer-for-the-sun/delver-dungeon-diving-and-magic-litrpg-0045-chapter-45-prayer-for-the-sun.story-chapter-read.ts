@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0045Chapter45PrayerForTheSun = {
   id: "01a06731-af10-700e-9200-1d2c74c07c54",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0045-chapter-45-prayer-for-the-sun",
   title: "Chapter 45: Prayer For The Sun",

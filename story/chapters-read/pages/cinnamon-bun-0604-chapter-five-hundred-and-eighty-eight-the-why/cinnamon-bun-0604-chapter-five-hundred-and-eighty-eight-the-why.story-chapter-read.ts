@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0604ChapterFiveHundredAndEightyEightTheWhy = {
   id: "01a0672c-eb29-7004-ad75-f937c8ae3c98",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0604-chapter-five-hundred-and-eighty-eight-the-why",
   title: "Chapter Five Hundred and Eighty-Eight - The Why",

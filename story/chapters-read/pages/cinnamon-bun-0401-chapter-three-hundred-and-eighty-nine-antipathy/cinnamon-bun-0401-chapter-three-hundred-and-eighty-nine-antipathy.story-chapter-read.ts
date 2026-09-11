@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0401ChapterThreeHundredAndEightyNineAntipathy = {
   id: "01a0672c-eb1f-7007-891b-bbd06db4d138",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0401-chapter-three-hundred-and-eighty-nine-antipathy",
   title: "Chapter Three Hundred and Eighty-Nine - Antipathy",

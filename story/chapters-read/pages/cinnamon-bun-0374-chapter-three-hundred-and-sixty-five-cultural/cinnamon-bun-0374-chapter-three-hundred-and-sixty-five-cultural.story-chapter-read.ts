@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0374ChapterThreeHundredAndSixtyFiveCultural = {
   id: "01a0672c-eb1e-7001-96c5-844de523c4ad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0374-chapter-three-hundred-and-sixty-five-cultural",
   title: "Chapter Three Hundred and Sixty-Five - Cultural Considerations",

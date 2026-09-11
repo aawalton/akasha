@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0018Chapter1343WeaknessShift = {
   id: "01a06591-3c6b-7ca3-864e-b20305b64c3c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0018-chapter-1343-weakness-shift",
   title: "Chapter 1,343 - Weakness, Shift",

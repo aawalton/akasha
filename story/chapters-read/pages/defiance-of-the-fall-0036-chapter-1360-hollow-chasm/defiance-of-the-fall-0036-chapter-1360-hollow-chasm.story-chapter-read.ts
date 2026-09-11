@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0036Chapter1360HollowChasm = {
   id: "01a06591-3c6f-7159-baf8-cdd6f6b7ef97",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0036-chapter-1360-hollow-chasm",
   title: "Chapter 1,360 - Hollow Chasm",

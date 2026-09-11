@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0583ChapterFiveHundredAndSixtySevenWithInterest = {
   id: "01a0672c-eb28-7007-82f6-3c5922f81d5b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0583-chapter-five-hundred-and-sixty-seven-with-interest",
   title: "Chapter Five Hundred and Sixty-Seven - With Interest",

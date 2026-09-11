@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0139Chapter1458BrotherlyRegard = {
   id: "01a08c80-b057-78bc-b542-22ddd30dbd32",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0139-chapter-1458-brotherly-regard",
   position: 139,

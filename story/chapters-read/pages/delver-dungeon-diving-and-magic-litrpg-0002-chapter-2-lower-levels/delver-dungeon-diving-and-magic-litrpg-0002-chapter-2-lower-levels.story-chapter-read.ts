@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0002Chapter2LowerLevels = {
   id: "01a06731-af0e-7011-a56c-831e93fc6b13",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0002-chapter-2-lower-levels",
   title: "Chapter 2: Lower Levels",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0550ChapterFiveHundredAndThirtyFiveAManOutOf = {
   id: "01a0672c-eb26-7017-9fad-ca4af04377c0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0550-chapter-five-hundred-and-thirty-five-a-man-out-of",
   title: "Chapter Five Hundred and Thirty-Five - A Man Out of Time",

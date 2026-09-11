@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0599ChapterFiveHundredAndEightyThreeCloudwrack = {
   id: "01a0672c-eb28-7017-b97a-574b85467fd8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0599-chapter-five-hundred-and-eighty-three-cloudwrack",
   title: "Chapter Five Hundred and Eighty-Three - Cloudwrack",

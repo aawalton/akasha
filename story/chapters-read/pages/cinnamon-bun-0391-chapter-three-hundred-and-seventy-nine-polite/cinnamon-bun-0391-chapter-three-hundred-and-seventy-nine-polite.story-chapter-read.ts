@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0391ChapterThreeHundredAndSeventyNinePolite = {
   id: "01a0672c-eb1e-7012-8c6f-75e6cc8ba9b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0391-chapter-three-hundred-and-seventy-nine-polite",
   title: "Chapter Three Hundred and Seventy-Nine - Polite Friction",

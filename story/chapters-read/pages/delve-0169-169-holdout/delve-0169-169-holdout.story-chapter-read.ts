@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delve0169169Holdout = {
   id: "01a06731-af4c-7000-915f-4a3d601ed040",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delve-0169-169-holdout",
   title: "169: Holdout",

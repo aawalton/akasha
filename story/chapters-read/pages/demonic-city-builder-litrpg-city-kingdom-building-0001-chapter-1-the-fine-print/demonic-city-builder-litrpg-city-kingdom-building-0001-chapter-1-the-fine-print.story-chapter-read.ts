@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0001Chapter1TheFinePrint = {
   id: "01a06731-ae70-7000-9ae8-b8108d25b12d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0001-chapter-1-the-fine-print",
   title: "Chapter 1 - The Fine Print",

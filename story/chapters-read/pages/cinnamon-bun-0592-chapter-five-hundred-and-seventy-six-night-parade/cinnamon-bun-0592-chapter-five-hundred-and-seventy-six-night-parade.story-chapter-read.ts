@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0592ChapterFiveHundredAndSeventySixNightParade = {
   id: "01a0672c-eb28-7010-8e9b-1d2f2616aee1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0592-chapter-five-hundred-and-seventy-six-night-parade",
   title: "Chapter Five Hundred and Seventy-Six - Night Parade of Nine Protagonists",

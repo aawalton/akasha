@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0538ChapterFiveHundredAndTwentyThreeLookingA = {
   id: "01a0672c-eb26-700b-8816-7eb8160ff26f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0538-chapter-five-hundred-and-twenty-three-looking-a",
   title: "Chapter Five Hundred and Twenty-Three - Looking a Gift Book in the Mouth",

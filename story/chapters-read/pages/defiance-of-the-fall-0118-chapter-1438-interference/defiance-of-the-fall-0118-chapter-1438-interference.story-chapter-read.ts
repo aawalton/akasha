@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0118Chapter1438Interference = {
   id: "01a06731-adb0-7000-8323-173a7a89c57f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0118-chapter-1438-interference",
   title: "Chapter 1,438 - Interference",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0051Chapter49TalismanRoom = {
   id: "01a06731-af10-7014-a3be-9bde2469d04c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0051-chapter-49-talisman-room",
   title: "Chapter 49: Talisman Room",

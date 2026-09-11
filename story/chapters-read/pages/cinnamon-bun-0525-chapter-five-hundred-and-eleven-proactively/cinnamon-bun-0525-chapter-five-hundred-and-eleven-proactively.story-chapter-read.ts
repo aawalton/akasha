@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0525ChapterFiveHundredAndElevenProactively = {
   id: "01a0672c-eb25-700a-ae03-129036586079",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0525-chapter-five-hundred-and-eleven-proactively",
   title:

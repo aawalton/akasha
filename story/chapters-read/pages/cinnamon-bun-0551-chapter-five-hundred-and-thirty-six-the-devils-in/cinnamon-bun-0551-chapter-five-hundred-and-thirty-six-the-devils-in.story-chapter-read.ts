@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0551ChapterFiveHundredAndThirtySixTheDevilsIn = {
   id: "01a0672c-eb26-7018-9693-0bbd500f17ad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0551-chapter-five-hundred-and-thirty-six-the-devils-in",
   title: "Chapter Five Hundred and Thirty-Six - The Devil's in the Account Details",

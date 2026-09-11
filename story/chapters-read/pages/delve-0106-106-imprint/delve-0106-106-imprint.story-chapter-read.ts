@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delve0106106Imprint = {
   id: "01a06731-aea1-7000-b841-7a58f145c602",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delve-0106-106-imprint",
   title: "106: Imprint",

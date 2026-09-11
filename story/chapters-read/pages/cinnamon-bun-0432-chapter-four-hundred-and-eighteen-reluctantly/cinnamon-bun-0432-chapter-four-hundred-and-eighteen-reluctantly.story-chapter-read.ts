@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0432ChapterFourHundredAndEighteenReluctantly = {
   id: "01a0672c-eb20-700f-9056-8077bef276fc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0432-chapter-four-hundred-and-eighteen-reluctantly",
   title: "Chapter Four Hundred and Eighteen - Reluctantly Crouched at the Starting Line",

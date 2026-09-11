@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0407MeanwhileTheSidekicks = {
   id: "01a0672c-eb1f-700d-9e21-288bbd4816cf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0407-meanwhile-the-sidekicks",
   title: "Meanwhile, the sidekicks",

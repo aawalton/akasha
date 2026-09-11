@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0050Chapter1373StatusQuo = {
   id: "01a06591-3c71-76e7-a32d-a4016dea9173",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0050-chapter-1373-status-quo",
   title: "Chapter 1,373 - Status Quo",

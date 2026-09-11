@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0442ChapterFourHundredAndTwentyEightAdrenaline = {
   id: "01a0672c-eb21-7003-a310-deecf0891298",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0442-chapter-four-hundred-and-twenty-eight-adrenaline",
   title: "Chapter Four Hundred and Twenty-Eight - Adrenaline Crash",

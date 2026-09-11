@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0018Chapter18LostInLiterature = {
   id: "01a06731-af0f-7009-832a-c46d8cf62d05",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0018-chapter-18-lost-in-literature",
   title: "Chapter 18: Lost In Literature",

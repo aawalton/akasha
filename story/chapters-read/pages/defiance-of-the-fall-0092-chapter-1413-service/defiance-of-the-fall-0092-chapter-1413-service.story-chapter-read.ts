@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0092Chapter1413Service = {
   id: "01a06731-ad95-7000-a4c0-a67f6e195bb3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0092-chapter-1413-service",
   title: "Chapter 1,413 - Service",

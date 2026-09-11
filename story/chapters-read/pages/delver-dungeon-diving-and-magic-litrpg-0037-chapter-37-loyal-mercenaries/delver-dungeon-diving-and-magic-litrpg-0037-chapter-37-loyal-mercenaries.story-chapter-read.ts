@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0037Chapter37LoyalMercenaries = {
   id: "01a06731-af10-7006-9648-b3f3859830b1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0037-chapter-37-loyal-mercenaries",
   title: "Chapter 37: Loyal Mercenaries",

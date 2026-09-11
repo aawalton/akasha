@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0103Chapter1423DesperateMeasures = {
   id: "01a06731-ada4-7000-8f54-572a31b7e2bf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0103-chapter-1423-desperate-measures",
   title: "Chapter 1,423 - Desperate Measures",

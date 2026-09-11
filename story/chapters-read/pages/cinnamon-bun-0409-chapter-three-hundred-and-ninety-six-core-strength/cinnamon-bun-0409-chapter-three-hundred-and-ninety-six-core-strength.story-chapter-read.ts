@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0409ChapterThreeHundredAndNinetySixCoreStrength = {
   id: "01a0672c-eb1f-700f-aef7-cbaf80ca4e26",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0409-chapter-three-hundred-and-ninety-six-core-strength",
   title: "Chapter Three Hundred and Ninety-Six - Core Strength",

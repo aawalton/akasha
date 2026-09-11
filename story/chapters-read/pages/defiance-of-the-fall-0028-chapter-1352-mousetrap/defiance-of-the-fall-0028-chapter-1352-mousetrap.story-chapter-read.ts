@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0028Chapter1352Mousetrap = {
   id: "01a06591-3c6e-7e60-8b50-ac49a0aa57bc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0028-chapter-1352-mousetrap",
   title: "Chapter 1,352 - Mousetrap",

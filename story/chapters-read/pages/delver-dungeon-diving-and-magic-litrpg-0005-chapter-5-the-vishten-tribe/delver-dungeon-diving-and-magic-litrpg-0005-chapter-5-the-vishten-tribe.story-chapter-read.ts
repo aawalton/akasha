@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0005Chapter5TheVishtenTribe = {
   id: "01a06731-af0e-7014-ba4f-c1e803c0db5f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0005-chapter-5-the-vishten-tribe",
   title: "Chapter 5: The Vishten Tribe",

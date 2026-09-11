@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0002Chapter1RollForSurvival = {
   id: "01a06591-3c69-70b7-9784-3dee180cad83",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0002-chapter-1-roll-for-survival",
   title: "Chapter 1 - Roll For Survival",

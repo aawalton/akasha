@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0431ChapterFourHundredAndSeventeenRaceAgainst = {
   id: "01a0672c-eb20-700e-8559-1299693b9d56",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0431-chapter-four-hundred-and-seventeen-race-against",
   title: "Chapter Four Hundred and Seventeen - Race Against Time",

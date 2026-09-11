@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0516ChapterFiveHundredAndTwoChoiceParalysis = {
   id: "01a0672c-eb25-7001-9a89-6c49321d9939",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0516-chapter-five-hundred-and-two-choice-paralysis",
   title: "Chapter Five Hundred and Two - Choice Paralysis",

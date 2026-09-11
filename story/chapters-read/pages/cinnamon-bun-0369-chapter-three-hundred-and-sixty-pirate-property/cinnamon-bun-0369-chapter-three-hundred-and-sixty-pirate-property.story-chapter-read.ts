@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0369ChapterThreeHundredAndSixtyPirateProperty = {
   id: "01a0672c-eb1d-700d-9f7e-069eb979fa47",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0369-chapter-three-hundred-and-sixty-pirate-property",
   title: "Chapter Three Hundred and Sixty - Pirate Property",

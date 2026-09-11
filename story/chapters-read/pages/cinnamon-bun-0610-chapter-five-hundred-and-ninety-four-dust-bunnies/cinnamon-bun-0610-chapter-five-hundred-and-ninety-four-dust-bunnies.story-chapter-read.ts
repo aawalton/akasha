@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0610ChapterFiveHundredAndNinetyFourDustBunnies = {
   id: "01a0672c-eb29-700a-87fb-0b3d11fa3a68",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0610-chapter-five-hundred-and-ninety-four-dust-bunnies",
   title: "Chapter Five Hundred and Ninety-Four - Dust Bunnies",

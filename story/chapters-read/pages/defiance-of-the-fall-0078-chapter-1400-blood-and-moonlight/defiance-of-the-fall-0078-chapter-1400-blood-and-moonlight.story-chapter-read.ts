@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0078Chapter1400BloodAndMoonlight = {
   id: "01a06591-3c76-7c14-b070-2c02228ec69c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0078-chapter-1400-blood-and-moonlight",
   title: "Chapter 1,400 - Blood and Moonlight",

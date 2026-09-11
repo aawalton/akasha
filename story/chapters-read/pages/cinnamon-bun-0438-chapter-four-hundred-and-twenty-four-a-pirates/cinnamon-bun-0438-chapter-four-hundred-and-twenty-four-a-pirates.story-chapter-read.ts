@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0438ChapterFourHundredAndTwentyFourAPirates = {
   id: "01a0672c-eb20-7015-ba63-aec9756bb041",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0438-chapter-four-hundred-and-twenty-four-a-pirates",
   title: "Chapter Four Hundred and Twenty-Four - A Pirate's Life for Thee, But Not for Me",

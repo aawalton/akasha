@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0034Chapter1358AlleyCelestial = {
   id: "01a06591-3c6f-73fc-bebd-00183cfe2ade",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0034-chapter-1358-alley-celestial",
   title: "Chapter 1,358 - Alley Celestial",

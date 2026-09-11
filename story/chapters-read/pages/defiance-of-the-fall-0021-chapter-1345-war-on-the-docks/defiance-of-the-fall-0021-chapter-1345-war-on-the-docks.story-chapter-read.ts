@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0021Chapter1345WarOnTheDocks = {
   id: "01a06591-3c6b-76cd-bb05-bf4e2801b007",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0021-chapter-1345-war-on-the-docks",
   title: "Chapter 1,345 - War on the Docks",

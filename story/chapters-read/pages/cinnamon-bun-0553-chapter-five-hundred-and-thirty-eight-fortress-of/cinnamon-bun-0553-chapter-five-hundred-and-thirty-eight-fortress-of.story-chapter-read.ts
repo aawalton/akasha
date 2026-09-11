@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0553ChapterFiveHundredAndThirtyEightFortressOf = {
   id: "01a0672c-eb27-7001-a1da-0a56b2addfc8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0553-chapter-five-hundred-and-thirty-eight-fortress-of",
   title: "Chapter Five Hundred and Thirty-Eight - Fortress of Solitude",

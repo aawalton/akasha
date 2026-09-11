@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delve0078078Heatsink = {
   id: "01a06731-ae25-7000-bde4-258f3a51c26d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delve-0078-078-heatsink",
   title: "078: Heatsink",

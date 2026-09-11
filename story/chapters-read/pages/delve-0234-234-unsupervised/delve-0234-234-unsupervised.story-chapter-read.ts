@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delve0234234Unsupervised = {
   id: "01a06731-afb8-7000-af56-48b655d55916",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delve-0234-234-unsupervised",
   title: "234: Unsupervised",

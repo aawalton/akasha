@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0031Chapter1355Naruk = {
   id: "01a06591-3c6e-73d0-a08e-4dd8b889218c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0031-chapter-1355-naruk",
   title: "Chapter 1,355 - Naruk",

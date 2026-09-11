@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0071DefianceOfTheFallBook16OutNow = {
   id: "01a06591-3c75-7ea7-91fb-bc1a3e1b1329",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0071-defiance-of-the-fall-book-16-out-now",
   title: "Defiance of the Fall Book 16 out now!",

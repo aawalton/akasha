@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0371ChapterThreeHundredAndSixtyTwoIfTheEnemy = {
   id: "01a0672c-eb1d-700f-a787-fa95c0847cf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0371-chapter-three-hundred-and-sixty-two-if-the-enemy",
   title: "Chapter Three Hundred and Sixty-Two - If the Enemy is in Superior Strength, Evade Them",

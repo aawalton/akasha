@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delve0192192Swim = {
   id: "01a06731-af81-7000-bc5a-60ccfc7c2360",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delve-0192-192-swim",
   title: "192: Swim",

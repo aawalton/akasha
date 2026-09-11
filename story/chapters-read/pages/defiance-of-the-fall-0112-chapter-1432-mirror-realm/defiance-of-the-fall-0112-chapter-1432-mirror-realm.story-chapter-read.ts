@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0112Chapter1432MirrorRealm = {
   id: "01a06731-adac-7001-967d-a9e1a280111a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0112-chapter-1432-mirror-realm",
   title: "Chapter 1,432 - Mirror Realm",

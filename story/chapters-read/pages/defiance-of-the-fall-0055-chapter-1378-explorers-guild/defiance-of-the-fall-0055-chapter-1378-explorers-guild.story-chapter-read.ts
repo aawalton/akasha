@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0055Chapter1378ExplorersGuild = {
   id: "01a06591-3c72-7e14-b8b4-06d2b653562f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0055-chapter-1378-explorers-guild",
   title: "Chapter 1,378 - Explorer's Guild",

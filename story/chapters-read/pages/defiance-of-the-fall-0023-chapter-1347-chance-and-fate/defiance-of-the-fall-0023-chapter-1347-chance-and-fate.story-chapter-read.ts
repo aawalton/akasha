@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0023Chapter1347ChanceAndFate = {
   id: "01a06591-3c6d-70e6-befa-a46c4613ec5f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0023-chapter-1347-chance-and-fate",
   title: "Chapter 1,347 - Chance and Fate",

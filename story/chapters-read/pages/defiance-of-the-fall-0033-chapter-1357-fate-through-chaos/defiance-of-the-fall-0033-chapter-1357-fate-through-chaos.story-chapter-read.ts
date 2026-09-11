@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0033Chapter1357FateThroughChaos = {
   id: "01a06591-3c6e-7566-a6ef-79e0d259e001",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0033-chapter-1357-fate-through-chaos",
   title: "Chapter 1,357 - Fate through Chaos",

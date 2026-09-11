@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0086Chapter1407Perfection = {
   id: "01a06591-3c78-7db0-b64e-e0b7a7c2933e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0086-chapter-1407-perfection",
   title: "Chapter 1,407 - Perfection",

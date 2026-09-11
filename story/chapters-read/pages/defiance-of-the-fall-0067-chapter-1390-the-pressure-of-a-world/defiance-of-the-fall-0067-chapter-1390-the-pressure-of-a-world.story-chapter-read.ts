@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0067Chapter1390ThePressureOfAWorld = {
   id: "01a06591-3c74-72de-b0c3-eb3194f663ba",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0067-chapter-1390-the-pressure-of-a-world",
   title: "Chapter 1,390 - The Pressure of a World",

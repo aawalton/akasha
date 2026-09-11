@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const crimsonEternalAnImmortalDeathMageLitrpg0190B3UpdatedDreadEmpireAndGrandSilvanian = {
   id: "01a0672c-ec75-7013-83bc-fa04f34fb837",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0190-b3-updated-dread-empire-and-grand-silvanian",
   title: "B3 | Updated Dread Empire and Grand Silvanian Empire Glossary",

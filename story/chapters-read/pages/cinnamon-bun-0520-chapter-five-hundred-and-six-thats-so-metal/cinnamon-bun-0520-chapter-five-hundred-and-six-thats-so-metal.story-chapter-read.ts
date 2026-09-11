@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0520ChapterFiveHundredAndSixThatsSoMetal = {
   id: "01a0672c-eb25-7005-b69a-e6ba50b85552",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0520-chapter-five-hundred-and-six-thats-so-metal",
   title: "Chapter Five Hundred and Six - That's So Metal",

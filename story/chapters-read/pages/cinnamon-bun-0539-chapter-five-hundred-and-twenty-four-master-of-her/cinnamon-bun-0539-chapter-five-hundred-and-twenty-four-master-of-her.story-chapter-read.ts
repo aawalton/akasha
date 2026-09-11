@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0539ChapterFiveHundredAndTwentyFourMasterOfHer = {
   id: "01a0672c-eb26-700c-a2e0-53084f937384",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0539-chapter-five-hundred-and-twenty-four-master-of-her",
   title: "Chapter Five Hundred and Twenty-Four - Master of Her Craft",

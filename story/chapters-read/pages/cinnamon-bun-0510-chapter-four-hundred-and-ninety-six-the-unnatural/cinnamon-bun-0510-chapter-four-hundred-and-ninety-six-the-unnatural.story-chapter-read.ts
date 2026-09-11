@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0510ChapterFourHundredAndNinetySixTheUnnatural = {
   id: "01a0672c-eb24-7008-b628-c4847b2df1ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0510-chapter-four-hundred-and-ninety-six-the-unnatural",
   title: "Chapter Four Hundred and Ninety-Six - The Unnatural Power of Love",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const delverDungeonDivingAndMagicLitrpg0046Chapter46AncientSerpent = {
   id: "01a06731-af10-700f-b4a6-6266a103ee34",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0046-chapter-46-ancient-serpent",
   title: "Chapter 46: Ancient Serpent",

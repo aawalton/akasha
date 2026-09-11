@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0102Chapter1422AshesFertilizingSoil = {
   id: "01a06731-ada3-7001-bdc5-59ae76b8513a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0102-chapter-1422-ashes-fertilizing-soil",
   title: "Chapter 1,422 - Ashes Fertilizing Soil",

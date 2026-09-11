@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0542ChapterFiveHundredAndTwentySevenHeadToHead = {
   id: "01a0672c-eb26-700f-b509-859f390b8a9c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0542-chapter-five-hundred-and-twenty-seven-head-to-head",
   title: "Chapter Five Hundred and Twenty-Seven - Head-to-Head Search Algorithm Comparison",

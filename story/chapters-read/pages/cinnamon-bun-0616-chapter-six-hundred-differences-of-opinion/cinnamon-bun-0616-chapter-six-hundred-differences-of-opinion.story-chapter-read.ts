@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0616ChapterSixHundredDifferencesOfOpinion = {
   id: "01a0672c-eb29-7010-a2c2-7542e90fb496",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0616-chapter-six-hundred-differences-of-opinion",
   title: "Chapter Six Hundred - Differences of Opinion",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0463ChapterFourHundredAndFortyNineSuperego = {
   id: "01a0672c-eb22-7007-a032-a95261fe1af7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0463-chapter-four-hundred-and-forty-nine-superego",
   title: "Chapter Four Hundred and Forty-Nine - Superego",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0436ChapterFourHundredAndTwentyTwoSunriseOver = {
   id: "01a0672c-eb20-7013-89a4-9e751cecbabf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0436-chapter-four-hundred-and-twenty-two-sunrise-over",
   title: "Chapter Four Hundred and Twenty-Two - Sunrise Over Smoulderglen",

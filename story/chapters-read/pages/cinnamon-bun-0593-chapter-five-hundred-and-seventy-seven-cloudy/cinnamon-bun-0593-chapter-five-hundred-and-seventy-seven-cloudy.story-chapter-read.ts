@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0593ChapterFiveHundredAndSeventySevenCloudy = {
   id: "01a0672c-eb28-7011-aaff-93d1056bf8df",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0593-chapter-five-hundred-and-seventy-seven-cloudy",
   title: "Chapter Five Hundred and Seventy-Seven - Cloudy Memories",

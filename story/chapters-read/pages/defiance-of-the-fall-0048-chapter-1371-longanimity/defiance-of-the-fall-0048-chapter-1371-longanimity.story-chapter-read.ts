@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0048Chapter1371Longanimity = {
   id: "01a06591-3c70-7f00-a8d3-e07766cf37aa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0048-chapter-1371-longanimity",
   title: "Chapter 1,371 - Longanimity",

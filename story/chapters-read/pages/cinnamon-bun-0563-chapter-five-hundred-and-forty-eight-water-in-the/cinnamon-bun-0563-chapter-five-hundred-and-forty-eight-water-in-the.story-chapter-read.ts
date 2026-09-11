@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0563ChapterFiveHundredAndFortyEightWaterInThe = {
   id: "01a0672c-eb27-700b-af31-c7ef15830243",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0563-chapter-five-hundred-and-forty-eight-water-in-the",
   title: "Chapter Five Hundred and Forty-Eight - Water in the Desert",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0441ChapterFourHundredAndTwentySevenAcidic = {
   id: "01a0672c-eb21-7002-9705-0036780d927c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0441-chapter-four-hundred-and-twenty-seven-acidic",
   title: "Chapter Four Hundred and Twenty-Seven - Acidic Reaction",

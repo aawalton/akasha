@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0448ChapterFourHundredAndThirtyFourRibbonMe = {
   id: "01a0672c-eb21-7009-abd4-85f05a121144",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0448-chapter-four-hundred-and-thirty-four-ribbon-me",
   title: "Chapter Four Hundred and Thirty-Four - Ribbon Me This",

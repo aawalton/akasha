@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0558ChapterFiveHundredAndFortyThreeComeHereIts = {
   id: "01a0672c-eb27-7006-b405-cb72e8d886c8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0558-chapter-five-hundred-and-forty-three-come-here-its",
   title: "Chapter Five Hundred and Forty-Three - Come Here, it's Dry",

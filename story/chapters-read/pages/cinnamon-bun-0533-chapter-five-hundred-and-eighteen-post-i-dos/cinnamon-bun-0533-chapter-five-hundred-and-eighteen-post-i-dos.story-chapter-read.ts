@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0533ChapterFiveHundredAndEighteenPostIDos = {
   id: "01a0672c-eb26-7006-ade7-3ba78fb0a63a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0533-chapter-five-hundred-and-eighteen-post-i-dos",
   title: "Chapter Five Hundred and Eighteen - Post I-Dos",

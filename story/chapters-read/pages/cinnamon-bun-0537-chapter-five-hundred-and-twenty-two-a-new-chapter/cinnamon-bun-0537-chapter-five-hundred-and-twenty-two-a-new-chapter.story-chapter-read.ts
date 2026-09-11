@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0537ChapterFiveHundredAndTwentyTwoANewChapter = {
   id: "01a0672c-eb26-700a-b041-969e5f50dfb8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0537-chapter-five-hundred-and-twenty-two-a-new-chapter",
   title: "Chapter Five Hundred and Twenty-Two - A New Chapter in Your Life",

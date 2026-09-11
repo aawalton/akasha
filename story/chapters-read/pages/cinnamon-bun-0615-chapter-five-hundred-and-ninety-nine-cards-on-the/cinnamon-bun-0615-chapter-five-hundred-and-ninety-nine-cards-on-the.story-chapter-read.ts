@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0615ChapterFiveHundredAndNinetyNineCardsOnThe = {
   id: "01a0672c-eb29-700f-bc57-4df773df8545",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0615-chapter-five-hundred-and-ninety-nine-cards-on-the",
   title: "Chapter Five Hundred and Ninety-Nine - Cards on the Table",

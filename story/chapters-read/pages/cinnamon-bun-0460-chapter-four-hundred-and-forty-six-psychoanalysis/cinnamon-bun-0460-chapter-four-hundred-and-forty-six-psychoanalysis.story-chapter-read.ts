@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0460ChapterFourHundredAndFortySixPsychoanalysis = {
   id: "01a0672c-eb22-7004-81d8-5497d1cfd0f4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0460-chapter-four-hundred-and-forty-six-psychoanalysis",
   title: "Chapter Four Hundred and Forty-Six - Psychoanalysis",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const defianceOfTheFall0077Chapter1399TheFishermanAndTheOriole = {
   id: "01a06591-3c76-7c2e-89b8-25400c4f323c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "defiance-of-the-fall-0077-chapter-1399-the-fisherman-and-the-oriole",
   title: "Chapter 1,399 - The Fisherman and the Oriole",

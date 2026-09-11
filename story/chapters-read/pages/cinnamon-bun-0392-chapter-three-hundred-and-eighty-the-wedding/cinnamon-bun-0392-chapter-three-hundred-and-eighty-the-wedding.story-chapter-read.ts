@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0392ChapterThreeHundredAndEightyTheWedding = {
   id: "01a0672c-eb1e-7013-8d7d-fbab85263956",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0392-chapter-three-hundred-and-eighty-the-wedding",
   title: "Chapter Three Hundred and Eighty - The Wedding Trackers",

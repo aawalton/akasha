@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0561ChapterFiveHundredAndFortySixComeHereAnd = {
   id: "01a0672c-eb27-7009-ad64-d8e963c9489c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0561-chapter-five-hundred-and-forty-six-come-here-and",
   title: "Chapter Five Hundred and Forty-Six - Come Here and Fly (Away)",
