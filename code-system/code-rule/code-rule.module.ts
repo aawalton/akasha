@@ -16,7 +16,8 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the function does not bind is read as the name is written.",
+      statement:
+        "A name the function does not bind is read as written unless a name it binds is spelt the same.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +71,7 @@ export const codeRule = {
     },
     {
       invariantKind: "absence",
-      statement: "Only a renaming is defeated.",
+      statement: "Only a renaming is defeated, and not one onto a name the code cannot rename.",
     },
     {
       invariantKind: "absence",
