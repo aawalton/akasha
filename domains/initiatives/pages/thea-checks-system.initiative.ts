@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "One check refuses, at 168. 65 cannot be mended: 22 answer a constant, 18 are exports a router finds by name, 25 are event handlers whose only home would be a new module, which this check's own absence bars. All three are Alan's. A free name prints as written, so two bodies pair while reading different types: passingFor is one memo text over two unrelated Passing shapes. Look for the home before opening one; a new home can pair with a copy private to a file.",
+        "144 refusals over 132 files in 74 families, from 197. Only 6 have a leg in checks/: shortened is a real duplicate, passingFor is one memo text over two unrelated Passing shapes, noNode and gone are bare literals. The rest are framework exports, event handlers, and constants. Most of what is left can only be folded by opening a module, which this check's own absence bars, so it waits on Alan. A free name prints as written, and so does the type a name declares.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
@@ -31,7 +31,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "12 in play, from 31; 8 more sit on experimental pages and are out of scope. Most that went were mis-kinded, proven page by page by reading the code rather than the statement. Two on repository-is-written-by-a-change share one cause and neither can be closed: the check judges spelled fragments where the call sits, so a wrapper carries the rooted test across and leaves the aside test behind, and a folder rule matches no fragment at all. Re-kinding the rest is a form of words.",
+        "8 in play, from 31; 9 more sit on experimental pages and are out of scope. Three went today. change-walking's could never close: routing every check through it would make ten lenient readers refuse, and body-text binds that contract. The two on no-rule-in-two-files described a migration the index refresh finished, and ruleWhole now answers true over 126653 paths. Two on repository-is-written-by-a-change share one cause and neither can close. Re-kinding the rest is a form of words.",
     },
   ],
   constraints: [
