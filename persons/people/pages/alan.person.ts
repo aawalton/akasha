@@ -64,7 +64,7 @@ export const alan = {
       warrant:
         "Commentary reads as good communication, and every word of it spends Alan's attention.",
       aids: [
-        "DO put your question in the first line.",
+        "DO put your question in the last line.",
         "DO include the context needed to understand a question you ask Alan.",
         "DO name a specific case and the files it is in when you ask.",
         "DO give concise progress updates as you make progress.",
