@@ -1,14 +1,17 @@
-import { columns, output } from "../agent-tree-state/agent-tree-state.module.code.ts"
+import {
+  columns,
+  output,
+} from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   recordObservation,
   recordSweep,
-} from "../observation-store/observation-store.module.code.ts"
+} from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
 import {
   readSeatLookup,
   readSeatTerminals,
   type SeatTerminal,
-} from "../seat-terminals/seat-terminals.module.code.ts"
-import { PROCESS_ID_TIMEOUT_MS } from "../terminal-pids/terminal-pids.module.code.ts"
+} from "akasha/code-system/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+import { PROCESS_ID_TIMEOUT_MS } from "akasha/code-system/editor/extension/terminal-pids/terminal-pids.module.code.ts"
 
 export async function sampleColumns(
   trigger: string,
