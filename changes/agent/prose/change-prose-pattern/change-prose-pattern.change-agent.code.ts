@@ -23,7 +23,7 @@ import {
   restatedIn,
 } from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
 import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const BANNED_TERM = "banned-term"
 

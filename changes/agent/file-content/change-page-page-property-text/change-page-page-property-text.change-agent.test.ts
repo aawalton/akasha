@@ -12,7 +12,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-page-property") {

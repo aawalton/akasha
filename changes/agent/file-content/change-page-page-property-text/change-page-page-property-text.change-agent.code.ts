@@ -6,7 +6,7 @@ import {
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { readFor } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { slugAt } from "akasha/pages/value/page-value.module.code.ts"
+import { slugAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 

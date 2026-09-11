@@ -12,7 +12,7 @@ import {
   reaches,
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 

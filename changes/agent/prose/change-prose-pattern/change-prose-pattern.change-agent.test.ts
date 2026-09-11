@@ -10,7 +10,7 @@ import {
   refusalOf,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const TERM: Value = {
   slug: "hold-inside",
