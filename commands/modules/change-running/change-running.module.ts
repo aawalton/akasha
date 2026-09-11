@@ -113,6 +113,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A run whose change answered no edit says that change answered none.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The edits a change answers are appended beside the calling agent's page.",
     },
     {

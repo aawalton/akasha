@@ -5,6 +5,7 @@ import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.modu
 import {
   appending,
   changing,
+  type Loading,
   noPageSaid,
   owedBy,
   owingBy,
@@ -63,6 +64,29 @@ const PRESENCE_ID = "01a08f0a-0000-7000-8000-000000000001"
 const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
 const OWN = "a38f63805f9b94edf"
+
+const ANSWERS_NOTHING: Loading = async () => ({
+  run: () => ({ edits: [], refused: null }),
+  guards: [],
+})
+
+test("a run whose change answered no edit says that change answered none", async () => {
+  const said = `${taking(NAMER_PAGE)}draft: true\n`
+
+  const answered = await changing(
+    repo(),
+    PAGE,
+    null,
+    ["remove-page"],
+    piping(said),
+    ANSWERS_NOTHING,
+    applying,
+    CHOSEN
+  )
+
+  expect(answered.code).toBe(0)
+  expect(answered.report[0] ?? "").toContain("`remove-page` answered no edit")
+})
 
 test("a change answers its edits and appends the edits beside the calling agent's page", async () => {
   const root = repo()

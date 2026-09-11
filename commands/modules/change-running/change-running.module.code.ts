@@ -314,6 +314,12 @@ function keptSaid(page: string, why: string): string {
   return `the edits are kept at ${keptAt(page) ?? ""}, ${why}`
 }
 
+const ANSWERED_NOTHING = "answered no edit, so the edits kept are as they were"
+
+function nothingSaid(slug: string, paths: number): readonly string[] {
+  return paths === 0 ? [`\`${slug}\` ${ANSWERED_NOTHING}`] : []
+}
+
 export type Chosen = {
   readonly said: string
   readonly drafts: boolean | null
@@ -380,13 +386,15 @@ export async function changing(
     answered.refusals.length
   )
   if (answered.code !== 0) return answered
+  const nothing = nothingSaid(slug, paths)
   if (drafts) {
-    return { ...answered, report: [...answered.report, keptSaid(page, LANDS)] }
+    return { ...answered, report: [...answered.report, ...nothing, keptSaid(page, LANDS)] }
   }
   const landed = await applying(asked.message, asked.measure)
   return {
     report: [
       ...answered.report,
+      ...nothing,
       ...landed.report,
       ...(landed.code === 0 ? [] : [keptSaid(page, KEPT)]),
     ],
