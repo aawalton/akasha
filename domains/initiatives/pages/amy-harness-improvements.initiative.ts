@@ -17,7 +17,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's phone drains its health samples without him running a shortcut.",
       workingMemory:
-        'A Shortcuts automation on a timer cannot be relied on. HealthKit\'s store is encrypted while the phone is locked, so every read from a run firing then fails: the 11:30 run on 2026-09-11 reported "Health\'s store was shut" for both metrics, and nothing on the phone can schedule "unlocked". The drain therefore also runs when the app comes forward, which is unlocked by definition, at most once an hour. Read the runs by asking for runtime-error pages whose url is stream-health-samples.',
+        "MEASURED: HealthKit's store is encrypted while the phone is locked, so a timed automation fails there — the 11:30 run on 2026-09-11 said the store was shut and Alan confirmed the phone was locked. So the drain also runs when the app comes forward, at most once a quarter hour. Build 215 carried that and nothing arrived, which told nothing: a plugin that never loaded and a run that hung leave one silence. Build 216 says a run began before it reads, and keeps a refused report.",
     },
   ],
 } as const satisfies Initiative
