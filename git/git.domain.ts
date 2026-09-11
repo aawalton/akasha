@@ -19,6 +19,7 @@ export const git = {
     "module/git-push-handoff",
     "module/git-pushing",
     "module/served-tip",
+    "module/git-store-sweeping",
   ],
   invariants: [
     {
