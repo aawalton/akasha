@@ -9,11 +9,19 @@ import {
   getCompanionName,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,
 } from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
+import {
+  type BlendedPriceKey,
+  buildBlendedPriceMap,
+  buildSlotPriceMap,
+  computeTotalCost,
+  type SlotPriceKey,
+} from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   useInventory,
   usePriceExtract,
@@ -28,14 +36,6 @@ import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.mo
 import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import { useMemo } from "react"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import {
-  type BlendedPriceKey,
-  buildBlendedPriceMap,
-  buildSlotPriceMap,
-  computeTotalCost,
-  type SlotPriceKey,
-} from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 
 interface ShoppingEntity {
   companionId: CompanionId

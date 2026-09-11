@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { shoppingPlanSchema } from "./shopping-plan-schema.module.code.ts"
+import { shoppingPlanSchema } from "akasha/temper/player-economics-ui/shopping-plan-schema/shopping-plan-schema.module.code.ts"
 
 type Obj = Record<string, unknown>
 

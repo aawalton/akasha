@@ -23,14 +23,14 @@ import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
 } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { CompanionGearByCompanionPanelCard } from "akasha/temper/player-economics-ui/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"
+import { CompanionGearByPricePanelCard } from "akasha/temper/player-economics-ui/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"
+import { CompanionGearByTraitPanelCard } from "akasha/temper/player-economics-ui/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"
+import { useCompanionShoppingData } from "akasha/temper/player-economics-ui/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
+import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"
-import { CompanionGearByCompanionPanelCard } from "../companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"
-import { CompanionGearByPricePanelCard } from "../companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"
-import { CompanionGearByTraitPanelCard } from "../companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"
-import { useCompanionShoppingData } from "../use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
-import type { ShoppingList } from "../use-shopping-list/use-shopping-list.module.code.ts"
 
 const OWNERSHIP_ITEMS: BadgeToggleGroupItem[] = [
   { value: "owned", label: "Owned" },

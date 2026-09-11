@@ -18,15 +18,15 @@ import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
 } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { Handshake, ShoppingCart } from "lucide-react"
-import { Suspense } from "react"
-import { CompanionShoppingDataContent } from "../companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"
-import { ShoppingListTabContent } from "../shopping-list-tab-content/shopping-list-tab-content.module.code.tsx"
+import { CompanionShoppingDataContent } from "akasha/temper/player-economics-ui/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"
+import { ShoppingListTabContent } from "akasha/temper/player-economics-ui/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx"
 import type {
   ShoppingMarks,
   UpdateShoppingMarks,
-} from "../shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
-import { useShoppingList } from "../use-shopping-list/use-shopping-list.module.code.ts"
+} from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
+import { useShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
+import { Handshake, ShoppingCart } from "lucide-react"
+import { Suspense } from "react"
 
 type TabValue = "list" | "companion"
 

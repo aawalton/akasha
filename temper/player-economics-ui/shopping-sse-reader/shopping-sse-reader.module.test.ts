@@ -1,6 +1,9 @@
 import { describe, expect, test } from "bun:test"
+import {
+  readSSEStream,
+  type SseReadOutcome,
+} from "akasha/temper/player-economics-ui/shopping-sse-reader/shopping-sse-reader.module.code.ts"
 import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { readSSEStream, type SseReadOutcome } from "./shopping-sse-reader.module.code.ts"
 
 const ENCODER = new TextEncoder()
 

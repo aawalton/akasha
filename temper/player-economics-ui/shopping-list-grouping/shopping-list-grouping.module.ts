@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shoppingListGrouping = {
   id: "01a063a1-8cc1-7005-876e-c44fdd6786cf",

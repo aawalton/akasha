@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shoppingListTabContent = {
   id: "01a063a1-8cc1-7006-9e30-88a844c05bf5",

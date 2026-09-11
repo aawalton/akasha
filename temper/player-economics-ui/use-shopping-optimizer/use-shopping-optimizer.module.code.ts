@@ -1,15 +1,10 @@
 "use client"
 
 import { useSingleFlight } from "akasha/design/interfaces/primitives/use-single-flight/use-single-flight.module.code.ts"
-import type {
-  PurchaseRecommendation,
-  ShoppingItem,
-} from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import {
   pinLocationIndex,
   recomputeLocations,
-} from "../shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts"
+} from "akasha/temper/player-economics-ui/shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts"
 import type {
   LocationPurchase,
   LocationSummary,
@@ -17,14 +12,19 @@ import type {
   OptimizerDerived,
   OptimizerState,
   UpdateShoppingMarks,
-} from "../shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
+} from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import {
   clearCachedRoute,
   loadCachedRoute,
   saveCachedRoute,
-} from "../shopping-route-cache/shopping-route-cache.module.code.ts"
-import { readSSEStream } from "../shopping-sse-reader/shopping-sse-reader.module.code.ts"
-import type { ShoppingList } from "../use-shopping-list/use-shopping-list.module.code.ts"
+} from "akasha/temper/player-economics-ui/shopping-route-cache/shopping-route-cache.module.code.ts"
+import { readSSEStream } from "akasha/temper/player-economics-ui/shopping-sse-reader/shopping-sse-reader.module.code.ts"
+import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
+import type {
+  PurchaseRecommendation,
+  ShoppingItem,
+} from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 const IDLE_STATE: OptimizerState = {
   status: "idle",

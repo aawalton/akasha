@@ -30,6 +30,22 @@ import {
 } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { Progress } from "akasha/design/interfaces/primitives/progress-bar/progress-bar.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { formatGold } from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import {
+  buildCategoryGroups,
+  buildMissingItemDisplays,
+  type IndexedNeed,
+} from "akasha/temper/player-economics-ui/shopping-list-grouping/shopping-list-grouping.module.code.ts"
+import { ShoppingNextLocationPanelCard } from "akasha/temper/player-economics-ui/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx"
+import type {
+  ShoppingMarks,
+  UpdateShoppingMarks,
+} from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
+import { ShoppingRouteOverviewPanelCard } from "akasha/temper/player-economics-ui/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"
+import { ShoppingTripCompletePanelCard } from "akasha/temper/player-economics-ui/shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx"
+import { useCompanionShoppingData } from "akasha/temper/player-economics-ui/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
+import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
+import { useShoppingOptimizer } from "akasha/temper/player-economics-ui/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,
@@ -38,22 +54,6 @@ import {
 import { isShoppingSettings } from "akasha/temper/shopping/shopping-settings/shopping-settings.module.code.ts"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
-import { formatGold } from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
-import {
-  buildCategoryGroups,
-  buildMissingItemDisplays,
-  type IndexedNeed,
-} from "../shopping-list-grouping/shopping-list-grouping.module.code.ts"
-import { ShoppingNextLocationPanelCard } from "../shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx"
-import type {
-  ShoppingMarks,
-  UpdateShoppingMarks,
-} from "../shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
-import { ShoppingRouteOverviewPanelCard } from "../shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"
-import { ShoppingTripCompletePanelCard } from "../shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx"
-import { useCompanionShoppingData } from "../use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
-import type { ShoppingList } from "../use-shopping-list/use-shopping-list.module.code.ts"
-import { useShoppingOptimizer } from "../use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
 
 interface ShoppingListTabContentProps {
   userId: string | null

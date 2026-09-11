@@ -8,12 +8,12 @@ import { Button } from "akasha/design/interfaces/primitives/button/button.module
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import { formatGold } from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import type { LocationPurchase } from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/shopping/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import { kioskLocationName } from "akasha/temper/trading-pricing/kiosk-location-name/kiosk-location-name.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { Fragment, useEffect, useMemo, useState } from "react"
-import { formatGold } from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
-import type { LocationPurchase } from "../shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 
 interface ShoppingNextLocationPanelCardProps {
   location: string
