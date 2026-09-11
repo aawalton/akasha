@@ -24,6 +24,16 @@ const FIXTURES_AT = "akasha/one.thing.test-fixtures.ts"
 
 const HELD_AT = "akasha/held/held.module.code.ts"
 
+const INDEX = "index"
+
+const INDEX_TYPE_AT = "akasha/index.page-type.ts"
+
+const INDEX_CODE_AT = "akasha/one.index.code.ts"
+
+const INDEX_TEST_AT = "akasha/one.index.test.ts"
+
+const INDEX_ID = "01a09163-1a4e-7001-aebe-6612c8d7f8e7"
+
 const ID = "01a04f2b-3d24-70b3-8c3e-3076a9299151"
 
 const LISTS = 'export const held = readdirSync("akasha/held")\n'
@@ -31,8 +41,9 @@ const LISTS = 'export const held = readdirSync("akasha/held")\n'
 const ASKS = "export const held = 1\n"
 
 function rooted(): string {
-  const root = staged({ [TYPE_AT]: ASKS, [HELD_AT]: ASKS })
+  const root = staged({ [TYPE_AT]: ASKS, [INDEX_TYPE_AT]: ASKS, [HELD_AT]: ASKS })
   listedFiled(root, PAGE_TYPE, THING, [{ path: TYPE_AT, id: ID }])
+  listedFiled(root, PAGE_TYPE, INDEX, [{ path: INDEX_TYPE_AT, id: INDEX_ID }])
   pathFiled(root, HELD_AT, [{ path: HELD_AT, id: ID }])
   return root
 }
@@ -61,4 +72,11 @@ test("a page's code is input to this check and a file beside it is not", () => {
   const shadow = shadowed(given)
   expect(checkReachesAPathThroughTheIndex.isInput(CODE_AT, shadow)).toBe(true)
   expect(checkReachesAPathThroughTheIndex.isInput(FIXTURES_AT, shadow)).toBe(false)
+})
+
+test("an index's own code is no input to this check and an index's test is", () => {
+  const given = change(rooted(), {})
+  const shadow = shadowed(given)
+  expect(checkReachesAPathThroughTheIndex.isInput(INDEX_CODE_AT, shadow)).toBe(false)
+  expect(checkReachesAPathThroughTheIndex.isInput(INDEX_TEST_AT, shadow)).toBe(true)
 })

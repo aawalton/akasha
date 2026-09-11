@@ -245,6 +245,18 @@ export const checkReachesAPathThroughTheIndex = {
       statement: "A file the index names for no page is judged by nothing here.",
     },
     {
+      invariantKind: "departure",
+      statement: "An index's own code is run by the rebuild that writes the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the index is built from spells its own path rather than asking the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An index's own code is judged by nothing here.",
+    },
+    {
       invariantKind: "absence",
       statement: "A file held uncommitted is judged by nothing here.",
     },

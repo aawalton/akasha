@@ -13,6 +13,8 @@ const CODE = "code"
 
 const TEST = "test"
 
+const INDEX = "index"
+
 const PARTED_BY = "/"
 
 const SAID = "what sits under a path the index answers for is asked rather than listed"
@@ -344,6 +346,7 @@ export function judgedBy(types: ReadonlySet<string>): (path: string) => boolean 
     const said = partedIn(path)
     if (said === null || !types.has(said.pageType)) return false
     const last = said.sections[said.sections.length - 1]
+    if (said.pageType === INDEX && last === CODE) return false
     return last === CODE || last === TEST
   }
 }
