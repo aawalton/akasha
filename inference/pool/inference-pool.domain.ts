@@ -38,6 +38,18 @@ export const inferencePool = {
     "shell-script/segment-rembg-provision",
     "shell-script/traffic-cop-provision",
     "inference-service/moss-tts",
+    "inference-service/higgs-audio",
+    "inference-service/kokoro",
+    "inference-service/csm",
+    "inference-service/whisper-stt",
+    "inference-service/qwen3-tts",
+    "inference-service/voxcpm2",
+    "inference-service/ollama",
+    "inference-service/image-gen",
+    "inference-service/segment-rembg",
+    "inference-service/mlx-vlm",
+    "inference-service/music-gen",
+    "inference-service/traffic-cop",
   ],
   invariants: [
     {
