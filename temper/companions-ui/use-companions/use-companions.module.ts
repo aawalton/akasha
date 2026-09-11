@@ -19,5 +19,13 @@ export const useCompanions = {
       invariantKind: "absence",
       statement: "A role the companions core does not name is dropped from the build.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Making a new build, filing it and going to its page is one act here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build that could not be made leaves the act ready to be asked for again.",
+    },
   ],
 } as const satisfies Module

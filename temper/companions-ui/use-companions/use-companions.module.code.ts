@@ -4,27 +4,36 @@ import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import type { CompanionBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import {
+  type CompanionBuildMetadata,
+  extractCompanionMetadata,
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   type BuildRow,
   mapBuildRow,
 } from "akasha/temper/build-support/build-row/build-row.module.code.ts"
+import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import { createNewCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
 import {
   type CompanionRoleId,
   companionRoles,
 } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
 import type { CompanionVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { useMemo } from "react"
+import { useMemo, useState } from "react"
+import { toast } from "sonner"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 
@@ -324,6 +333,31 @@ export function useCompanionLifecycle() {
     createTargetBuild,
     setTarget,
   }
+}
+
+export function useNewCompanion() {
+  const [isCreating, setIsCreating] = useState(false)
+  const router = usePagesUIRouter()
+  const userId = useUserId()
+  const { createNew } = useCompanionLifecycle()
+
+  const handleCreate = async () => {
+    if (userId == null) return
+    setIsCreating(true)
+    try {
+      const build = createNewCompanion()
+      const buildHash = encodeCompanion(build)
+      const buildMetadata = extractCompanionMetadata(build)
+      const id = crypto.randomUUID()
+      await createNew({ id, userId, buildHash, buildMetadata })
+      router.push(`${companionUrl(toBuildId(id), build.name)}?tab=companion`)
+    } catch (error) {
+      toast.error(error instanceof Error ? error.message : "Failed to create companion")
+      setIsCreating(false)
+    }
+  }
+
+  return { isCreating, handleCreate }
 }
 
 export function useAllCompanionList(userId: string | null) {

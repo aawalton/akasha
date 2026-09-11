@@ -4,39 +4,11 @@ import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
-import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
-import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import { createNewCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
-import { useCompanionLifecycle } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { useNewCompanion } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { Plus } from "lucide-react"
-import { useState } from "react"
-import { toast } from "sonner"
 
 export function NewCompanionPanelCard() {
-  const [isCreating, setIsCreating] = useState(false)
-  const router = usePagesUIRouter()
-  const userId = useUserId()
-  const { createNew } = useCompanionLifecycle()
-
-  const handleCreate = async () => {
-    if (userId == null) return
-    setIsCreating(true)
-    try {
-      const build = createNewCompanion()
-      const buildHash = encodeCompanion(build)
-      const buildMetadata = extractCompanionMetadata(build)
-      const id = crypto.randomUUID()
-      await createNew({ id, userId, buildHash, buildMetadata })
-      router.push(`${companionUrl(buildId(id), build.name)}?tab=companion`)
-    } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to create companion")
-      setIsCreating(false)
-    }
-  }
+  const { isCreating, handleCreate } = useNewCompanion()
 
   return (
     <PanelCard
