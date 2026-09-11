@@ -9,4 +9,5 @@ export const lua50Code = {
   slug: "lua50-code",
   propertySlug: "lua50-code",
   definition: "the TypeScript a Lua 5.0 build takes in place of a page's code",
+  extensions: ["ts"],
 } as const satisfies CodeFileProperty

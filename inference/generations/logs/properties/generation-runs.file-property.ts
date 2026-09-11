@@ -9,6 +9,7 @@ export const generationRuns = {
   slug: "generation-runs",
   propertySlug: "runs",
   definition: "every loading of a model this log has recorded",
+  extensions: ["jsonl"],
   invariants: [
     {
       invariantKind: "departure",

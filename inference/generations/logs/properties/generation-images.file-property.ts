@@ -9,6 +9,7 @@ export const generationImages = {
   slug: "generation-images",
   propertySlug: "images",
   definition: "every picture the runs in this log have made",
+  extensions: ["jsonl"],
   invariants: [
     {
       invariantKind: "departure",

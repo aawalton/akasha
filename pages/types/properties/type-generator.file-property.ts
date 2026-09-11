@@ -9,6 +9,7 @@ export const typeGenerator = {
   slug: "type-generator",
   propertySlug: "type-generator",
   definition: "the code that writes the type a page type has",
+  extensions: ["ts"],
   invariants: [
     {
       invariantKind: "departure",

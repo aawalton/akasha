@@ -9,6 +9,7 @@ export const generationAudios = {
   slug: "generation-audios",
   propertySlug: "audios",
   definition: "every sound the runs in this log have made",
+  extensions: ["jsonl"],
   invariants: [
     {
       invariantKind: "departure",

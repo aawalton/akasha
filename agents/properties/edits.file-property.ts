@@ -9,6 +9,7 @@ export const edits = {
   slug: "edits",
   propertySlug: "edits",
   definition: "the edits an agent has answered and not yet landed",
+  extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
   invariants: [

@@ -9,6 +9,7 @@ export const types = {
   slug: "types",
   propertySlug: "types",
   definition: "the type with a page type's stored keys beside its calculations",
+  extensions: ["ts"],
   generated: true,
   runsFileLength: false,
   invariants: [

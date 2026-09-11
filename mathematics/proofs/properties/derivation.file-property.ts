@@ -9,4 +9,5 @@ export const derivation = {
   slug: "derivation",
   propertySlug: "derivation",
   definition: "the numbered lines a proof is worked out in",
+  extensions: ["txt"],
 } as const satisfies FileProperty

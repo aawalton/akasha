@@ -9,4 +9,5 @@ export const statement = {
   slug: "statement",
   propertySlug: "statement",
   definition: "what a proposition says, written out",
+  extensions: ["txt"],
 } as const satisfies FileProperty

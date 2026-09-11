@@ -9,6 +9,7 @@ export const refusals = {
   slug: "refusals",
   propertySlug: "refusals",
   definition: "why the landing an agent last tried was refused",
+  extensions: ["txt"],
   runsFileLength: false,
   generated: true,
   invariants: [
