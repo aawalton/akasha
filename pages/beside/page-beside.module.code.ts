@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { besideNamed } from "../file-name/page-file-name.module.code.ts"
+import { besideNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 const TS = ".ts"
 
