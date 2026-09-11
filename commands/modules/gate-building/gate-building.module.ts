@@ -70,6 +70,11 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The phase a gate is built for is the caller's, and a caller naming none means the change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which checks sit on a phase is answered where the checks are.",
     },
     {

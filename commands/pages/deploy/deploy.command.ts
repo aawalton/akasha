@@ -12,6 +12,7 @@ export const deploy = {
   changeKind: "change-none",
   timeout: 300,
   parts: [
+    "module/deploy-check-judging",
     "module/deploy-commit-naming",
     "module/deploy-commit-recording",
     "module/deploy-file-closure",
@@ -60,6 +61,8 @@ export const deploy = {
     "a call naming no `--ref` is made at the commit HEAD is at, and the report names that commit rather than HEAD.",
     "a deploy is refused where a file it is built from differs from the commit named, because what is put up would not be that commit.",
     "what a deploy is built from is the files beside its page, the source folder a web app names, the shared files an ios build takes, and every file the code in those imports, followed through.",
+    "the checks stating `runs-on-deploy` judge what changed from the commit the last deploy recorded to the commit named, narrowed to the files the deploy is built from.",
+    "a service whose page carries no deployed commit is judged over every file it is built from, since nothing was ever proved of it.",
     "an ios app is built from origin on the MacBook, so a `--ref` named on one is built however the worktree differs from it.",
     "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
@@ -164,6 +167,24 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A file another deploy is built from and this one is not leaves this one alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The checks stating they run on a deploy judge a deploy before anything is put up.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those checks are run over what changed from the last deploy's commit to this one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check refusing a file a deploy is built from refuses that deploy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run is judged by those checks as a run that puts up is.",
     },
     {
       invariantKind: "absence",

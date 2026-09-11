@@ -44,10 +44,11 @@ test("a slug no app page of either kind carries is refused as the data's fault",
   expect(answer.refusals[0]).toContain("ios app")
 })
 
-test("an app leaving which workload is meant unsettled is refused", async () => {
+test("a checkout whose checks will not load puts nothing up", async () => {
   const answer = await deploy(["two-web"], HERE)
   expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("unsettled")
+  expect(answer.refusals[0]).toContain("the checks would not load")
+  expect(answer.refusals[0]).toContain("two-web")
 })
 
 test("a refusal reaching no cluster reports nothing", async () => {

@@ -4,13 +4,20 @@ import { allowedThrough } from "akasha/commands/modules/stopping/command-stoppin
 import { putUpAddon } from "akasha/commands/pages/deploy/addon-installing/deploy-addon-installing.module.code.ts"
 import { publishedBundleFor } from "akasha/commands/pages/deploy/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
+  judgedOnDeploy,
+  sinceCommit,
+} from "akasha/commands/pages/deploy/check-judging/deploy-check-judging.module.code.ts"
+import {
   AT_HEAD,
   commitAt,
   driftedFrom,
   saidOfDrift,
   saidOfNoCommit,
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
-import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
+import {
+  commitRecordedIn,
+  recordedCommit,
+} from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
 import { closureFor } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
@@ -186,11 +193,14 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
   const commit = commitAt(given.root, ref)
   if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
+  const built = closureFor(given.root, slug, read)
   if (read.kind !== IOS_APP || ref === null) {
-    const built = closureFor(given.root, slug, read)
     const drifted = driftedFrom(given.root, commit).filter((one) => built.has(one))
     if (drifted.length > 0) return refused(saidOfDrift(slug, commit, drifted), INPUT)
   }
+  const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
+  const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
+  if (unjudged.length > 0) return answering([`commit\t${commit}`], unjudged, DATA)
   const answer = await putUp(read, slug, commit, rest, given)
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== 0 || answer.refusals.length > 0 || rest.includes(DRY_RUN)) {

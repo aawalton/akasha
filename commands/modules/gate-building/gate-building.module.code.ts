@@ -68,11 +68,15 @@ export function indexingLoaded(): Keeping {
   return held.keepingIn as Keeping
 }
 
-export function gateBuilt(root: string): Built {
+export function gateFor(root: string, phase: string): Built {
   try {
     const held = checkingLoaded()
-    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), CHANGE), CHANGE) }
+    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), phase), phase) }
   } catch (thrown) {
     return { broken: whyOf(thrown) }
   }
+}
+
+export function gateBuilt(root: string): Built {
+  return gateFor(root, CHANGE)
 }
