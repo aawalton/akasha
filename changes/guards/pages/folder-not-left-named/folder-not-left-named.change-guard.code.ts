@@ -9,10 +9,12 @@ import type {
   Guard,
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { facingHeld } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { namedBy } from "akasha/code/folder-spelling/folder-spelling.module.code.ts"
 import { runsIn } from "akasha/code/path-runs/path-runs.module.code.ts"
 import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { generatedIn } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 
 const UNDER = "/"
 
@@ -75,7 +77,9 @@ function spellingIn(
 }
 
 function namingIn(given: Guarding, folders: readonly string[]): string | null {
+  const facing = facingHeld(given.before)
   for (const [path, text] of writtenIn(given)) {
+    if (generatedIn(facing, path)) continue
     const why = spellingIn(path, text, folders, given.before.root)
     if (why !== null) return why
   }

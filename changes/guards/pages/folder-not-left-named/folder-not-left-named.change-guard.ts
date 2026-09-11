@@ -46,7 +46,7 @@ export const folderNotLeftNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "Every body the answer writes is read.",
+      statement: "Every body the answer writes by hand is read.\n",
     },
     {
       invariantKind: "absence",
@@ -102,6 +102,10 @@ export const folderNotLeftNamed = {
       invariantKind: "gap",
       statement:
         "A run that only looks like a path is read as one, and refuses where that run names the folder.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No body a machine writes is read, its writer running on the landing.",
     },
   ],
 } as const satisfies ChangeGuard
