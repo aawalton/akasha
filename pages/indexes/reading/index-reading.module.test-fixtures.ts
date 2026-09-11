@@ -151,7 +151,7 @@ export function listedFiledIn(root: string, pageTypeSlug: string, slug: string):
 
 const MINTED_FROM = 20
 
-export function filingOver(
+export function pageFilingFrom(
   root: string,
   stem: string
 ): (pageTypeSlug: string, slug: string, path: string, value: Value) => string {

@@ -6,7 +6,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
-  filingOver,
+  pageFilingFrom,
   relationFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -58,7 +58,7 @@ const CARRIED: readonly Value[] = [
 ]
 
 function alsoSeeded(root: string): undefined {
-  const filing = filingOver(root, STEM)
+  const filing = pageFilingFrom(root, STEM)
   filing(PAGE_TYPE, FILE_PROPERTY, `akasha/${FILE_PROPERTY}.page-type.ts`, {
     pageTypeSlug: PAGE_TYPE,
     slug: FILE_PROPERTY,
