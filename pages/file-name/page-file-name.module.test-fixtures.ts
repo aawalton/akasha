@@ -7,7 +7,7 @@ import {
   partedIn,
   secretNamed,
   uncommittedNamed,
-} from "./page-file-name.module.code.ts"
+} from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 export const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
 

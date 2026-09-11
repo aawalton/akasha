@@ -11,7 +11,7 @@ import {
   uncommittedBesideAt,
   uncommittedHeld,
   uncommittedNamed,
-} from "./page-file-name.module.code.ts"
+} from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   agreeing,
   FILE_PROPERTIES,
@@ -22,7 +22,7 @@ import {
   PATCH,
   PORTRAIT,
   pageNameIn,
-} from "./page-file-name.module.test-fixtures.ts"
+} from "akasha/pages/file-name/page-file-name.module.test-fixtures.ts"
 
 test("a page's name is the slug and the page type, whatever sections come after them", () => {
   expect(pageNameIn("one/file-length.check.ts")).toBe("file-length.check")
