@@ -13,11 +13,7 @@ export const nimueCodeCleanup = {
       workingMemory:
         "Both holes are closed. `askingOver` resolves a literal opening with a dot from the folder the spelling file sits in, and `namingIn` reads a literal again from each separator, as `ranIn` has always read a body outside TypeScript. Driven over the whole index the way the audit wires it, the check answers 189 refusals over 97 files where it answered 7 over 4: 32 new in a page's own code and 150 new in a test, none in a generator or a fixture. What is left is the remediation, not the reach.",
     },
-    {
-      statement: "A change moving a folder repoints the manifest naming that folder.",
-      workingMemory:
-        "Met, by another route. A move reaches every body spelling a moved file's name and repoints a run resolving to a whole path that moved, so the root manifest's `main` and both `scripts` follow it: 3 of 3 members naming a real file, measured, where 0 followed before. `change-manifest-ways` is still gated shut by `waysNaming` reading only `exports`, and the one `exports` entry is the wildcard `./*`, which no move breaks. Nothing there is left to repoint.",
-    },
+
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
