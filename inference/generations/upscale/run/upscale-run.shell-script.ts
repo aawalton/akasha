@@ -8,4 +8,5 @@ export const upscaleRun = {
   definition: "one image carried through the clean-up stage and then the skin stage",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
