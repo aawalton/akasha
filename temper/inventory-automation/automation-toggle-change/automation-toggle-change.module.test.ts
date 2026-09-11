@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import type { AutomationSettings } from "../automation-toggles/automation-toggles.module.code.ts"
-import { applyToggle, parseScope, parseValue } from "./automation-toggle-change.module.code.ts"
+import {
+  applyToggle,
+  parseScope,
+  parseValue,
+} from "akasha/temper/inventory-automation/automation-toggle-change/automation-toggle-change.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 
 const EMPTY: AutomationSettings = { characters: {}, companions: {} }
 

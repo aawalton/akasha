@@ -1,11 +1,11 @@
-import { z } from "zod"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CharacterToggleName,
   CompanionAutomationToggles,
   CompanionToggleName,
-} from "../automation-toggles/automation-toggles.module.code.ts"
+} from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
+import { z } from "zod"
 
 const CHARACTER_TOGGLE_FIELDS = {
   equipment: z.boolean().optional(),

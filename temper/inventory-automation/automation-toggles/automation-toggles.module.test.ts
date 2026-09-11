@@ -6,7 +6,7 @@ import {
   companionToggleNamesSaid,
   isCharacterToggleName,
   isCompanionToggleName,
-} from "./automation-toggles.module.code.ts"
+} from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 
 test("a name written twice in one list would be caught here", () => {
   expect(new Set(CHARACTER_TOGGLE_NAMES).size).toBe(CHARACTER_TOGGLE_NAMES.length)

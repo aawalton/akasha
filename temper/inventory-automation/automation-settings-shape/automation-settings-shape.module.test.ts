@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   AutomationSettingsShape,
   automationSettingsFrom,
-} from "./automation-settings-shape.module.code.ts"
+} from "akasha/temper/inventory-automation/automation-settings-shape/automation-settings-shape.module.code.ts"
 
 test("the emptiest settings there can be are read", () => {
   expect(automationSettingsFrom({ characters: {}, companions: {} })).toEqual({

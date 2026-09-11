@@ -9,7 +9,7 @@ import {
   companionToggleNamesSaid,
   isCharacterToggleName,
   isCompanionToggleName,
-} from "../automation-toggles/automation-toggles.module.code.ts"
+} from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 
 export type AutomationScope =
   | { readonly kind: "global"; readonly target: "characters" | "companions" }
