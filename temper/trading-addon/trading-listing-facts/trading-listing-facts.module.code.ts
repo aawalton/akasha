@@ -14,10 +14,7 @@ import {
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import type { BrowseListing } from "akasha/temper/trading-listings/browse-listings/browse-listings.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
-
-function asString(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function linkToInventoryItem(itemLink: string, stackCount: number): InventoryItemData {
   const [filterTypeBroad, filterTypeSpecific] = GetItemLinkFilterTypeInfo(itemLink)
@@ -112,8 +109,8 @@ export function readResultListing(index: number): BrowseListing<ItemFacts> | und
   }
 
   const linkRaw = GetTradingHouseSearchResultItemLink(index, LINK_STYLE_DEFAULT)
-  const itemLink = asString(linkRaw)
-  if (itemLink === undefined || itemLink === "") return undefined
+  const itemLink = stringIn(linkRaw)
+  if (itemLink === null || itemLink === "") return undefined
 
   const uid = Id64ToString(itemUniqueId)
   if (uid === "" || uid === "0") return undefined
@@ -121,7 +118,7 @@ export function readResultListing(index: number): BrowseListing<ItemFacts> | und
   const guildId = GetSelectedTradingHouseGuildId()
   if (guildId === undefined) return undefined
 
-  const sellerName = asString(sellerNameRaw) ?? ""
+  const sellerName = stringIn(sellerNameRaw) ?? ""
 
   const item = linkToInventoryItem(itemLink, stackCount)
   const nodeIds = classifyItemToNodeIds(toClassifiable(item))
