@@ -6,8 +6,8 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import { getSkillLineName } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { Plus, X } from "lucide-react"
-import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 
 interface UltimateSlotCardProps {
   ultimate: Skill | undefined

@@ -31,11 +31,11 @@ import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizo
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { formatEffects } from "akasha/temper/characters-stats/format-effects/format-effects.module.code.ts"
+import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"
 import type { ReactNode } from "react"
 import { useMemo, useState } from "react"
-import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
 
 export function FilterableSelectTrigger({
   className,

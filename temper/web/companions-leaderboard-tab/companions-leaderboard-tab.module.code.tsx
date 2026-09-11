@@ -15,13 +15,13 @@ import type {
   Build,
   ComboRankingsMap,
 } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
-import { useCallback, useState } from "react"
-import { CompanionLeaderboardContent } from "../companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
+import { CompanionLeaderboardContent } from "akasha/temper/web/companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
 import {
   LEADERBOARD_TARGET_ARMOR_ITEMS,
   LEADERBOARD_TARGET_COUNT_ITEMS,
   LEADERBOARD_TARGET_HEALTH_ITEMS,
-} from "../companions-filter-types/companions-filter-types.module.code.ts"
+} from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"
+import { useCallback, useState } from "react"
 
 type FilterId = "target-armor" | "target-count" | "target-health"
 const FILTER_IDS: ReadonlySet<string> = new Set<FilterId>([

@@ -4,7 +4,7 @@ import {
   newestCaptureAt,
   newestContactAt,
   type WatcherSyncInput,
-} from "./watcher-sync-status.module.code.ts"
+} from "akasha/temper/web/watcher-sync-status/watcher-sync-status.module.code.ts"
 
 const EMPTY = { count: 0, lastContactAt: null, capturedAt: null }
 

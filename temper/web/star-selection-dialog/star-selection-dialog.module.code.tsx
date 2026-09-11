@@ -5,12 +5,12 @@ import {
   type ChampionPointSource,
   championPoints,
 } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
+import type { FilterableSelectDialogConfig } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { FilterableSelectDialog } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { getSubcategory } from "akasha/utils/narrow/get-subcategory/get-subcategory.module.code.ts"
 import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 import { Hammer, Shield, Swords } from "lucide-react"
 import { useMemo, useState } from "react"
-import type { FilterableSelectDialogConfig } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
-import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 
 interface StarSelectionDialogProps {
   open: boolean

@@ -1,5 +1,5 @@
+import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { validateWatcherToken } from "../../../watcher/watcher-token-check/watcher-token-check.module.code.ts"
 
 type RequestBody = {
   wtToken: string

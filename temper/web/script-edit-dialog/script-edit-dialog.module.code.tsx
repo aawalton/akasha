@@ -23,20 +23,20 @@ import {
   grimoires,
 } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { getCombinedScriptDescription } from "akasha/temper/character-skills/scribing-script-description/scribing-script-description.module.code.ts"
-import { useMemo } from "react"
 import {
   type AffixScriptId,
   affixScripts,
-} from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+} from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import {
   type FocusScriptId,
   focusScripts,
-} from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+} from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import {
   type SignatureScriptId,
   signatureScripts,
-} from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import type { PendingScriptEdits } from "../skills-types/skills-types.module.code.ts"
+} from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import type { PendingScriptEdits } from "akasha/temper/web/skills-types/skills-types.module.code.ts"
+import { useMemo } from "react"
 
 interface ScriptEditDialogProps {
   open: boolean

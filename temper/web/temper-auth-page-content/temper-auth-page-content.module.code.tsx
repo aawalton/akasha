@@ -11,9 +11,12 @@ import {
 } from "akasha/design/interfaces/patterns/auth-page-content/auth-page-content.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
+import {
+  clearLastPath,
+  getLastPath,
+} from "akasha/temper/web/path-tracker/path-tracker.module.code.ts"
 import type { ReactNode } from "react"
 import { useState } from "react"
-import { clearLastPath, getLastPath } from "../path-tracker/path-tracker.module.code.ts"
 
 interface AuthPageContentProps {
   mode: AuthMode

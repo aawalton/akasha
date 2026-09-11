@@ -6,11 +6,11 @@ import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { buildCharacterSummary } from "akasha/temper/player-completion/completion-summary/completion-summary.module.code.ts"
+import type { CharacterProgressData } from "akasha/temper/web/character-progress/character-progress.module.code.ts"
+import { CharactersTabFilters } from "akasha/temper/web/characters-tab-filters/characters-tab-filters.module.code.tsx"
+import { CharactersTabPanels } from "akasha/temper/web/characters-tab-panels/characters-tab-panels.module.code.tsx"
+import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { useMemo } from "react"
-import type { CharacterProgressData } from "../character-progress/character-progress.module.code.ts"
-import { CharactersTabFilters } from "../characters-tab-filters/characters-tab-filters.module.code.tsx"
-import { CharactersTabPanels } from "../characters-tab-panels/characters-tab-panels.module.code.tsx"
-import { useCompletionToolbar } from "../completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 
 interface CompletionCharactersTabProps {
   active: boolean

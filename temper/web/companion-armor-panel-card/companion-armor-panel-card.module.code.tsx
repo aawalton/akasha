@@ -31,10 +31,10 @@ import {
   getQualityClassName,
   getQualityVariant,
 } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
+import { armorSlots } from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
+import type { CompanionEquipmentPanelProps } from "akasha/temper/web/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { useMemo } from "react"
-import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
-import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
-import type { CompanionEquipmentPanelProps } from "../companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 
 const WEIGHT_OPTIONS: { id: CompanionArmorWeight; name: string }[] = [
   { id: "no-weight", name: "No Weight" },

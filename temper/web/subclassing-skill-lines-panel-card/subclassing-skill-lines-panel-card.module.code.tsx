@@ -14,7 +14,7 @@ import {
 import {
   getSkillLineIdsForClass,
   skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 
 interface SubclassingSkillLinesPanelCardProps {
   id?: AccountCardId

@@ -3,7 +3,7 @@ import {
   deriveWatcherBuildVerdict,
   readReportedBuild,
   summarizeWatcherBuild,
-} from "./watcher-build-status.module.code.ts"
+} from "akasha/temper/web/watcher-build-status/watcher-build-status.module.code.ts"
 
 const DEPLOYED = "e4fbe0d2241bb84ec61548f080e810789fe0bd9b"
 const OLDER = "c5ea8376f6d0a1b2c3d4e5f60718293a4b5c6d7e"

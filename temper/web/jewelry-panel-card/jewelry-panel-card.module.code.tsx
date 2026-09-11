@@ -24,17 +24,17 @@ import {
   jewelryTraitsBuildList,
 } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
-import { useMemo } from "react"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,
   jewelrySlots,
-} from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
-import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
-import type { EquipmentSectionProps } from "../equipment-types/equipment-types.module.code.ts"
-import type { JewelryUpdateParams } from "../jewelry-card/jewelry-card.module.code.tsx"
-import { JewelryCard } from "../jewelry-card/jewelry-card.module.code.tsx"
+} from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
+import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
+import type { JewelryUpdateParams } from "akasha/temper/web/jewelry-card/jewelry-card.module.code.tsx"
+import { JewelryCard } from "akasha/temper/web/jewelry-card/jewelry-card.module.code.tsx"
+import { useMemo } from "react"
 
 export function JewelryPanelCard({
   equipment,

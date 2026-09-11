@@ -7,7 +7,7 @@ import {
   type CompanionMetricValue,
   companionMetrics,
 } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
-import { CompanionStatValue } from "../companion-stat-value/companion-stat-value.module.code.tsx"
+import { CompanionStatValue } from "akasha/temper/web/companion-stat-value/companion-stat-value.module.code.tsx"
 
 interface CompanionStatGroupPanelCardProps {
   id: string

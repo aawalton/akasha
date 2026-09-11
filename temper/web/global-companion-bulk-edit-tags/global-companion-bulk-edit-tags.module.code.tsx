@@ -20,8 +20,8 @@ import {
   getQualityClassName,
   getQualityVariant,
 } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import { useMemo } from "react"
-import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 
 interface GlobalCompanionBulkEditTagsProps {
   equipment: CompanionState["equipment"]

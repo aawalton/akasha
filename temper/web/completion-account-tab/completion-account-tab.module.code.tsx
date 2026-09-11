@@ -26,16 +26,16 @@ import { Button } from "akasha/design/interfaces/primitives/button/button.module
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import { Globe } from "lucide-react"
-import { useState } from "react"
 import {
   ACCOUNT_FILTERS,
   type FilterId,
   isFilterId,
-} from "../account-filters/account-filters.module.code.ts"
-import { AccountPanelGrid } from "../account-panel-grid/account-panel-grid.module.code.tsx"
-import type { AccountProgressData } from "../account-progress/account-progress.module.code.ts"
-import { useCompletionToolbar } from "../completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+} from "akasha/temper/web/account-filters/account-filters.module.code.ts"
+import { AccountPanelGrid } from "akasha/temper/web/account-panel-grid/account-panel-grid.module.code.tsx"
+import type { AccountProgressData } from "akasha/temper/web/account-progress/account-progress.module.code.ts"
+import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+import { Globe } from "lucide-react"
+import { useState } from "react"
 
 interface CompletionAccountTabProps {
   active: boolean

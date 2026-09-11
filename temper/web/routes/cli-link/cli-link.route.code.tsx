@@ -3,8 +3,8 @@ import { LayoutLink } from "akasha/design/interfaces/layout/router-context/route
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { CliLinkContent } from "akasha/temper/web/cli-link-content/cli-link-content.module.code.tsx"
 import { data, useSearchParams } from "react-router"
-import { CliLinkContent } from "../../cli-link-content/cli-link-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Temper | Link CLI" }]

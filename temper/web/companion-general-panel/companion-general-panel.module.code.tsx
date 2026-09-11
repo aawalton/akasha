@@ -1,10 +1,10 @@
 "use client"
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { BuildDescriptionPanelCard } from "../build-description-panel-card/build-description-panel-card.module.code.tsx"
-import { CompanionInfoPanelCard } from "../companion-info-panel-card/companion-info-panel-card.module.code.tsx"
-import { CompanionManagementPanelCard } from "../companion-management-panel-card/companion-management-panel-card.module.code.tsx"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { BuildDescriptionPanelCard } from "akasha/temper/web/build-description-panel-card/build-description-panel-card.module.code.tsx"
+import { CompanionInfoPanelCard } from "akasha/temper/web/companion-info-panel-card/companion-info-panel-card.module.code.tsx"
+import { CompanionManagementPanelCard } from "akasha/temper/web/companion-management-panel-card/companion-management-panel-card.module.code.tsx"
 
 interface CompanionGeneralPanelProps {
   buildId: BuildId

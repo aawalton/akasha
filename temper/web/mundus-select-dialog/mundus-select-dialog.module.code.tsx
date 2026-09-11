@@ -1,17 +1,17 @@
 "use client"
 
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
-import { useMemo } from "react"
 import {
   getMundusIconUrl,
   type MundusId,
   type MundusSource,
   mundus,
-} from "../../character-sources/mundus-source/mundus-source.module.code.ts"
+} from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
-} from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+} from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { useMemo } from "react"
 
 interface MundusSelectDialogProps {
   open: boolean

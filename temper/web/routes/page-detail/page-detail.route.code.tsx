@@ -28,15 +28,15 @@ import {
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
 import { toVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
-import { useEffect } from "react"
-import { data, useSearchParams } from "react-router"
-import { toast } from "sonner"
 import {
   buildHash as toBuildHash,
   buildId as toBuildId,
-} from "../../../formula-framework/branded-id/branded-id.module.code.ts"
-import { CharacterEditor } from "../../character-editor/character-editor.module.code.tsx"
-import { CompanionEditor } from "../../companion-editor/companion-editor.module.code.tsx"
+} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { CharacterEditor } from "akasha/temper/web/character-editor/character-editor.module.code.tsx"
+import { CompanionEditor } from "akasha/temper/web/companion-editor/companion-editor.module.code.tsx"
+import { useEffect } from "react"
+import { data, useSearchParams } from "react-router"
+import { toast } from "sonner"
 import type { Route } from "./+types/page-detail.route.code"
 
 const NAV_SLUG = "nav"

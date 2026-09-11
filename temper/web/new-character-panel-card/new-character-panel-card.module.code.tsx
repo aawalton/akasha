@@ -11,10 +11,10 @@ import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-met
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { createNewCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
 import { useCharacterLifecycle } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 import { toast } from "sonner"
-import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function NewCharacterPanelCard() {
   const [isCreating, setIsCreating] = useState(false)

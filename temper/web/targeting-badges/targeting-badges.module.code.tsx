@@ -1,8 +1,8 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import type { Targeting } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { targetScopes } from "../../skill-kinds/target-scopes/target-scopes.module.code.ts"
-import { targetTypes } from "../../skill-kinds/target-types/target-types.module.code.ts"
-import type { BadgeVariant } from "../effect-badge-types/effect-badge-types.module.code.ts"
+import type { Targeting } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import { targetScopes } from "akasha/temper/skill-kinds/target-scopes/target-scopes.module.code.ts"
+import { targetTypes } from "akasha/temper/skill-kinds/target-types/target-types.module.code.ts"
+import type { BadgeVariant } from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
 
 interface TargetingBadgeProps {
   targeting: Targeting

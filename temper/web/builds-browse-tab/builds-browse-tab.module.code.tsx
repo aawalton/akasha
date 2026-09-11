@@ -12,19 +12,19 @@ import {
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import { FolderOpen, Search } from "lucide-react"
-import { useCallback, useMemo } from "react"
-import { getRoleName } from "../../character-sources/character-roles/character-roles.module.code.ts"
-import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
-import { CharacterListCardWithHandle } from "../character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
+import { getRoleName } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
+import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
+import { CharacterListCardWithHandle } from "akasha/temper/web/character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
 import {
   type FilterValues,
   getClassName,
   getRaceName,
   isValidRole,
-} from "../characters-filter-types/characters-filter-types.module.code.ts"
-import { NewCharacterButton } from "../new-character-button/new-character-button.module.code.tsx"
-import { NewCharacterPanelCard } from "../new-character-panel-card/new-character-panel-card.module.code.tsx"
+} from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
+import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
+import { NewCharacterPanelCard } from "akasha/temper/web/new-character-panel-card/new-character-panel-card.module.code.tsx"
+import { FolderOpen, Search } from "lucide-react"
+import { useCallback, useMemo } from "react"
 
 export interface DecodedBuild {
   id: string

@@ -8,9 +8,9 @@ import type {
 import {
   activeSkillSlots,
   type SkillSlotId,
-} from "../../skill-kinds/skill-slots/skill-slots.module.code.ts"
-import { SkillSlotCard } from "../skill-slot-card/skill-slot-card.module.code.tsx"
-import { UltimateSlotCard } from "../ultimate-slot-card/ultimate-slot-card.module.code.tsx"
+} from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
+import { SkillSlotCard } from "akasha/temper/web/skill-slot-card/skill-slot-card.module.code.tsx"
+import { UltimateSlotCard } from "akasha/temper/web/ultimate-slot-card/ultimate-slot-card.module.code.tsx"
 
 interface SkillBarPanelCardProps {
   id: string

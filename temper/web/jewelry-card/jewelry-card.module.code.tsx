@@ -34,14 +34,17 @@ import {
 } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
-import { useMemo, useState } from "react"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,
   jewelrySlots,
-} from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
+} from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import {
+  getSetById,
+  SetSelectDialog,
+} from "akasha/temper/web/set-select-dialog/set-select-dialog.module.code.tsx"
+import { useMemo, useState } from "react"
 
 export type JewelryUpdateParams = Partial<JewelryItem>
 

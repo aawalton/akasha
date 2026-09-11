@@ -1,9 +1,9 @@
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { validateWatcherToken } from "../../../watcher/watcher-token-check/watcher-token-check.module.code.ts"
+import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import {
   MINE_NAME,
   MINED_QUEST_PAGE_TYPE,
-} from "../../mined-item-rows/mined-item-rows.module.code.ts"
+} from "akasha/temper/web/mined-item-rows/mined-item-rows.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 const MAX_QUESTS_PER_REQUEST = 1000
 

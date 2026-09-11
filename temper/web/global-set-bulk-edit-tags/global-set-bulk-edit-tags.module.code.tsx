@@ -24,15 +24,15 @@ import {
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import { armorSlots } from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import { useMemo } from "react"
-import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
-import { weaponBars } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import { weaponSlots } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 
 interface GlobalSetBulkEditTagsProps {
   equipment: CharacterState["equipment"]

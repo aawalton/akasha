@@ -27,17 +27,17 @@ import {
 } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
-import { useMemo } from "react"
 import {
   type ArmorSlotId,
   armorSlots,
-} from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { ArmorUpdateParams } from "../armor-card/armor-card.module.code.tsx"
-import { ArmorCard } from "../armor-card/armor-card.module.code.tsx"
-import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
-import type { EquipmentSectionProps } from "../equipment-types/equipment-types.module.code.ts"
+} from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { ArmorUpdateParams } from "akasha/temper/web/armor-card/armor-card.module.code.tsx"
+import { ArmorCard } from "akasha/temper/web/armor-card/armor-card.module.code.tsx"
+import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
+import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
+import { useMemo } from "react"
 
 export function ArmorPanelCard({
   equipment,

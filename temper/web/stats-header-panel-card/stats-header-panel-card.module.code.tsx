@@ -13,8 +13,8 @@ import {
 } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { StatsToolbar } from "akasha/temper/web/stats-toolbar/stats-toolbar.module.code.tsx"
 import { Shield, Swords } from "lucide-react"
-import { StatsToolbar } from "../stats-toolbar/stats-toolbar.module.code.tsx"
 
 type StatsTab = "primary" | "backup"
 

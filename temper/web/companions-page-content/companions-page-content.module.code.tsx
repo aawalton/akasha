@@ -16,12 +16,12 @@ import {
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
-import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
-import { Suspense } from "react"
-import { isValidTab, type TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
-import { CompanionsDataContent } from "../companions-data-content/companions-data-content.module.code.tsx"
-import type { SortField } from "../companions-filter-bar/companions-filter-bar.module.code.tsx"
+import {
+  isValidTab,
+  type TabValue,
+} from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
+import { CompanionsDataContent } from "akasha/temper/web/companions-data-content/companions-data-content.module.code.tsx"
+import type { SortField } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
 import {
   BASE_ROLES,
   type FilterValues,
@@ -31,8 +31,11 @@ import {
   isValidTargetArmor,
   isValidTargetCount,
   isValidTargetHealth,
-} from "../companions-filter-types/companions-filter-types.module.code.ts"
-import { NewCompanionButton } from "../new-companion-button/new-companion-button.module.code.tsx"
+} from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"
+import { NewCompanionButton } from "akasha/temper/web/new-companion-button/new-companion-button.module.code.tsx"
+import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
+import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
+import { Suspense } from "react"
 
 interface CompanionsPageContentProps {
   userId: string | null

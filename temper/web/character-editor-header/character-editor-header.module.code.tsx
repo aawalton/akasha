@@ -8,8 +8,8 @@ import { Button } from "akasha/design/interfaces/primitives/button/button.module
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import { BuildActionButtons } from "akasha/temper/web/build-action-buttons/build-action-buttons.module.code.tsx"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
-import { BuildActionButtons } from "../build-action-buttons/build-action-buttons.module.code.tsx"
 
 interface CharacterEditorHeaderProps {
   name: string

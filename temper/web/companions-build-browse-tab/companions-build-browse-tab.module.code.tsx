@@ -20,17 +20,17 @@ import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { FolderOpen, Search } from "lucide-react"
-import { type ReactNode, useCallback, useMemo } from "react"
-import { CompanionListCardWithHandle } from "../companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
+import { CompanionListCardWithHandle } from "akasha/temper/web/companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
 import {
   CompanionsFilterBar,
   type SortField,
-} from "../companions-filter-bar/companions-filter-bar.module.code.tsx"
-import type { FilterValues } from "../companions-filter-types/companions-filter-types.module.code.ts"
-import { NewCompanionButton } from "../new-companion-button/new-companion-button.module.code.tsx"
-import { NewCompanionPanelCard } from "../new-companion-panel-card/new-companion-panel-card.module.code.tsx"
-import type { useFilteredBuilds } from "../use-filtered-builds/use-filtered-builds.module.code.ts"
+} from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
+import type { FilterValues } from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"
+import { NewCompanionButton } from "akasha/temper/web/new-companion-button/new-companion-button.module.code.tsx"
+import { NewCompanionPanelCard } from "akasha/temper/web/new-companion-panel-card/new-companion-panel-card.module.code.tsx"
+import type { useFilteredBuilds } from "akasha/temper/web/use-filtered-builds/use-filtered-builds.module.code.ts"
+import { FolderOpen, Search } from "lucide-react"
+import { type ReactNode, useCallback, useMemo } from "react"
 
 interface CompanionsBuildBrowseTabProps {
   active: boolean

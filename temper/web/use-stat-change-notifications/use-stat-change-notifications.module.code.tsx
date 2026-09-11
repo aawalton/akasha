@@ -12,14 +12,14 @@ import {
 } from "akasha/temper/characters-stats/diff-effect-sources/diff-effect-sources.module.code.ts"
 import { calculateBuildStatsByBar } from "akasha/temper/characters-stats/metric-calculator/metric-calculator.module.code.ts"
 import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
-import { useEffect, useRef } from "react"
-import { toast } from "sonner"
-import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
 import {
   type StatChangeNotification,
   StatChangesDescription,
-} from "../stat-changes-description/stat-changes-description.module.code.tsx"
+} from "akasha/temper/web/stat-changes-description/stat-changes-description.module.code.tsx"
+import { useEffect, useRef } from "react"
+import { toast } from "sonner"
 
 export function useStatChangeNotifications(
   build: CharacterState,

@@ -16,13 +16,13 @@ import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.mo
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import { getRoleName } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import { type RaceId, races } from "akasha/temper/races/races/races.module.code.ts"
+import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
 import { FolderOpen } from "lucide-react"
-import { getRoleName } from "../../character-sources/character-roles/character-roles.module.code.ts"
-import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { type RaceId, races } from "../../races/races/races.module.code.ts"
-import { NewCharacterButton } from "../new-character-button/new-character-button.module.code.tsx"
 
 interface Build {
   id: string

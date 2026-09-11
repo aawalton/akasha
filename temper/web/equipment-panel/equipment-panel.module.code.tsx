@@ -2,11 +2,11 @@
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { getEquippedMythicSetId } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import { ArmorPanelCard } from "akasha/temper/web/armor-panel-card/armor-panel-card.module.code.tsx"
+import type { EquipmentPanelProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
+import { JewelryPanelCard } from "akasha/temper/web/jewelry-panel-card/jewelry-panel-card.module.code.tsx"
+import { WeaponBarPanelCard } from "akasha/temper/web/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"
 import { useMemo } from "react"
-import { ArmorPanelCard } from "../armor-panel-card/armor-panel-card.module.code.tsx"
-import type { EquipmentPanelProps } from "../equipment-types/equipment-types.module.code.ts"
-import { JewelryPanelCard } from "../jewelry-panel-card/jewelry-panel-card.module.code.tsx"
-import { WeaponBarPanelCard } from "../weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"
 
 export function EquipmentPanel({
   equipment,

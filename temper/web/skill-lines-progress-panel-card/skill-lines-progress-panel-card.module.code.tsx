@@ -16,16 +16,16 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import {
-  EXCLUDED_CATEGORIES,
-  EXCLUDED_SKILL_LINES,
-} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
-import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
   skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import {
+  EXCLUDED_CATEGORIES,
+  EXCLUDED_SKILL_LINES,
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 interface SkillLinesProgressPanelCardProps {
   id?: CharacterCardId

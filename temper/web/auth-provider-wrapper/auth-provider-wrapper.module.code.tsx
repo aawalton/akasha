@@ -10,9 +10,9 @@ import {
   getPagesStore,
 } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { useTemperPagesResolver } from "akasha/temper/web/temper-pages-resolver/temper-pages-resolver.module.code.ts"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 import { z } from "zod"
-import { useTemperPagesResolver } from "../temper-pages-resolver/temper-pages-resolver.module.code.ts"
 
 const SupabaseUrlSchema = z.string().url()
 const SupabaseAnonKeySchema = z.string().min(1)

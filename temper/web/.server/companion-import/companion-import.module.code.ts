@@ -7,12 +7,12 @@ import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-met
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import type {
   BuildHash,
   BuildId,
-} from "../../../formula-framework/branded-id/branded-id.module.code.ts"
-import { buildId as toBuildId } from "../../../formula-framework/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }

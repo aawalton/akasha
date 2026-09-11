@@ -9,10 +9,10 @@ import {
   type GrimoireId,
   grimoires,
 } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
+import type { FocusScriptId } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import type { PendingScriptEdits } from "akasha/temper/web/skills-types/skills-types.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
-import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import type { PendingScriptEdits } from "../skills-types/skills-types.module.code.ts"
 
 interface UseScribedSkillsReturn {
   scribedSkillDefinitions: readonly Skill[]

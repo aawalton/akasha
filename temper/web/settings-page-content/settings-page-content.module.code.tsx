@@ -12,11 +12,11 @@ import {
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
+import { AccountTab } from "akasha/temper/web/account-tab/account-tab.module.code.tsx"
+import { AutomationTab } from "akasha/temper/web/automation-tab/automation-tab.module.code.tsx"
+import { InventoryTab } from "akasha/temper/web/inventory-tab/inventory-tab.module.code.tsx"
+import { NotificationsTab } from "akasha/temper/web/notifications-tab/notifications-tab.module.code.tsx"
 import { Bell, Package, Sliders, User as UserIcon } from "lucide-react"
-import { AccountTab } from "../account-tab/account-tab.module.code.tsx"
-import { AutomationTab } from "../automation-tab/automation-tab.module.code.tsx"
-import { InventoryTab } from "../inventory-tab/inventory-tab.module.code.tsx"
-import { NotificationsTab } from "../notifications-tab/notifications-tab.module.code.tsx"
 
 const VALID_TABS = new Set(["account", "inventory", "automation", "notifications"])
 

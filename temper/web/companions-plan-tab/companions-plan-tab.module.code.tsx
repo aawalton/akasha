@@ -19,16 +19,16 @@ import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companio
 import type { ComboRankingsMap } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { Gamepad2 } from "lucide-react"
-import { useMemo } from "react"
 import {
   CompanionEntityPanelCard,
   type CompanionPlanEntity,
-} from "../companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"
+} from "akasha/temper/web/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"
 import {
   type CompanionLiveOnlyEntity,
   CompanionLiveOnlyPanelCard,
-} from "../companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
+} from "akasha/temper/web/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
+import { Gamepad2 } from "lucide-react"
+import { useMemo } from "react"
 
 interface CompanionsPlanTabProps {
   active: boolean

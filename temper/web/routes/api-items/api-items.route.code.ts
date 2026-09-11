@@ -3,7 +3,7 @@ import type { MinedItemData } from "akasha/temper/items-core/item-tooltip-types/
 import {
   MINED_ITEM_PAGE_TYPE,
   rowToMinedItemData,
-} from "../../mined-item-rows/mined-item-rows.module.code.ts"
+} from "akasha/temper/web/mined-item-rows/mined-item-rows.module.code.ts"
 
 const MAX_BATCH_SIZE = 50
 

@@ -31,6 +31,7 @@ import {
 import { useCharacterList } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { useCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { groupInventoryByType } from "akasha/temper/items-core/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
@@ -38,13 +39,12 @@ import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { InventoryTypeSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
+import { OverallSummaryPanelCard } from "akasha/temper/web/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
+import { RecentCharactersCard } from "akasha/temper/web/recent-characters-card/recent-characters-card.module.code.tsx"
+import { RecentCompanionsCard } from "akasha/temper/web/recent-companions-card/recent-companions-card.module.code.tsx"
+import { useCompletionProgress } from "akasha/temper/web/use-completion-progress/use-completion-progress.module.code.ts"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { OverallSummaryPanelCard } from "../overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
-import { RecentCharactersCard } from "../recent-characters-card/recent-characters-card.module.code.tsx"
-import { RecentCompanionsCard } from "../recent-companions-card/recent-companions-card.module.code.tsx"
-import { useCompletionProgress } from "../use-completion-progress/use-completion-progress.module.code.ts"
 
 const RECENT_BUILD_COUNT = 5
 

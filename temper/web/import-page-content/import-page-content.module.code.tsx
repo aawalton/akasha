@@ -18,13 +18,13 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/use-inventory-import/use-inventory-import.module.code.ts"
-import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 import {
   ImportSummary,
   InventoryImportSummary,
   importHadCaveats,
-} from "../import-summaries/import-summaries.module.code.tsx"
-import { useTemperImport } from "../use-temper-import/use-temper-import.module.code.ts"
+} from "akasha/temper/web/import-summaries/import-summaries.module.code.tsx"
+import { useTemperImport } from "akasha/temper/web/use-temper-import/use-temper-import.module.code.ts"
+import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 
 export function ImportPageContent() {
   const surface = useSurface()

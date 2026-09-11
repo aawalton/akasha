@@ -16,13 +16,13 @@ import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.t
 import { extractGuildBankKeys } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { AlertCircle, Package } from "lucide-react"
-import { useMemo } from "react"
 import {
   type GuildBankListState,
   resolveGuildBankListState,
-} from "../guild-bank-list-state/guild-bank-list-state.module.code.ts"
+} from "akasha/temper/web/guild-bank-list-state/guild-bank-list-state.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { AlertCircle, Package } from "lucide-react"
+import { useMemo } from "react"
 
 interface InventoryTabProps {
   active: boolean

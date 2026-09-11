@@ -14,8 +14,8 @@ import { Switch } from "akasha/design/interfaces/primitives/switch-control/switc
 import {
   type AllianceId,
   alliances,
-} from "../../character-sources/alliances/alliances.module.code.ts"
-import type { EsoPlusId } from "../../character-sources/eso-plus-source/eso-plus-source.module.code.ts"
+} from "akasha/temper/character-sources/alliances/alliances.module.code.ts"
+import type { EsoPlusId } from "akasha/temper/character-sources/eso-plus-source/eso-plus-source.module.code.ts"
 
 interface OtherPanelCardProps {
   alliance: AllianceId

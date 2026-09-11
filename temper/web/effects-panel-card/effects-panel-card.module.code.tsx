@@ -1,14 +1,14 @@
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { StatRow } from "akasha/design/interfaces/patterns/stat-row/stat-row.module.code.tsx"
-import type { BuffOrDebuffSource } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type EffectSource,
   isNamedSource,
-} from "../../formula-framework/effect-source/effect-source.module.code.ts"
+} from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import {
   filterEffectsBySearch,
   groupEffectsBySubcategory,
-} from "../stats-filtering/stats-filtering.module.code.ts"
+} from "akasha/temper/web/stats-filtering/stats-filtering.module.code.ts"
 
 interface EffectsPanelCardProps {
   id: string

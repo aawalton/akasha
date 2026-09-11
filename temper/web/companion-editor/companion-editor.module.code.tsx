@@ -4,9 +4,9 @@ import type {
   CompanionState,
   CompanionVisibility,
 } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { CompanionProvider } from "../companion-context/companion-context.module.code.tsx"
-import { CompanionEditorContent } from "../companion-editor-content/companion-editor-content.module.code.tsx"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { CompanionProvider } from "akasha/temper/web/companion-context/companion-context.module.code.tsx"
+import { CompanionEditorContent } from "akasha/temper/web/companion-editor-content/companion-editor-content.module.code.tsx"
 
 interface CompanionEditorProps {
   buildId: BuildId

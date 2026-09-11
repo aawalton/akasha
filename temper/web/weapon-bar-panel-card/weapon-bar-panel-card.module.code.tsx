@@ -35,13 +35,13 @@ import {
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
 } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponSlots as weaponSlotsData } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
+import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
+import { WeaponCard } from "akasha/temper/web/weapon-card/weapon-card.module.code.tsx"
 import { useMemo } from "react"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponSlots as weaponSlotsData } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
-import type { EquipmentSectionProps } from "../equipment-types/equipment-types.module.code.ts"
-import { WeaponCard } from "../weapon-card/weapon-card.module.code.tsx"
 
 interface WeaponBarPanelCardProps extends EquipmentSectionProps {
   barId: "primary-weapon-bar" | "backup-weapon-bar"

@@ -3,7 +3,7 @@ import type { MinedItemSearchResult } from "akasha/temper/items-core/item-toolti
 import {
   MINED_ITEM_PAGE_TYPE,
   rowToSearchResult,
-} from "../../mined-item-rows/mined-item-rows.module.code.ts"
+} from "akasha/temper/web/mined-item-rows/mined-item-rows.module.code.ts"
 
 const DEFAULT_LIMIT = 20
 const MAX_LIMIT = 20

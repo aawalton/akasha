@@ -16,12 +16,12 @@ import { useSurface } from "akasha/design/interfaces/primitives/surface-provider
 import type { ProfileMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { useCraftBagAccess } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { useCallback, useEffect, useState } from "react"
 import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,
   toCraftBagAccessValue,
-} from "../craft-bag-access-select/craft-bag-access-select.module.code.ts"
+} from "akasha/temper/web/craft-bag-access-select/craft-bag-access-select.module.code.ts"
+import { useCallback, useEffect, useState } from "react"
 
 const HANDLE_REGEX = /^[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]$/
 

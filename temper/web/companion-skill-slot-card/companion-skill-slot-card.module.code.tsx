@@ -6,8 +6,8 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { CompanionSkillCard } from "akasha/temper/web/companion-skill-card/companion-skill-card.module.code.tsx"
 import { Plus, X } from "lucide-react"
-import { CompanionSkillCard } from "../companion-skill-card/companion-skill-card.module.code.tsx"
 
 interface CompanionSkillSlotCardProps {
   skill: CompanionSkillTemplate | undefined

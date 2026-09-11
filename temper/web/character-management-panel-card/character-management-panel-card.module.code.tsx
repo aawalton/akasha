@@ -16,11 +16,11 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useCharacter } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { getCharacterVersions } from "akasha/temper/web/version-actions/version-actions.module.code.ts"
+import { VersionHistoryDialog } from "akasha/temper/web/version-history-dialog/version-history-dialog.module.code.tsx"
 import { useState } from "react"
 import { toast } from "sonner"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { getCharacterVersions } from "../version-actions/version-actions.module.code.ts"
-import { VersionHistoryDialog } from "../version-history-dialog/version-history-dialog.module.code.tsx"
 
 interface CharacterManagementPanelCardProps {
   buildId: BuildId

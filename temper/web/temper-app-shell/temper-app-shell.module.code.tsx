@@ -11,14 +11,17 @@ import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-sta
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
-import { LogOut } from "lucide-react"
-import { useMemo } from "react"
 import {
   PRIMARY_NAV_ITEMS,
   RESOURCES_NAV_ITEM,
   SETTINGS_NAV_ITEM,
-} from "../nav-items/nav-items.module.code.ts"
-import { TEMPER_APP_ID, TEMPER_APP_SLUG } from "../temper-app-id/temper-app-id.module.code.ts"
+} from "akasha/temper/web/nav-items/nav-items.module.code.ts"
+import {
+  TEMPER_APP_ID,
+  TEMPER_APP_SLUG,
+} from "akasha/temper/web/temper-app-id/temper-app-id.module.code.ts"
+import { LogOut } from "lucide-react"
+import { useMemo } from "react"
 
 function isAuthRoute(pathname: string): boolean {
   return (

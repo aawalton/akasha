@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { decidePlanEmptyState } from "./characters-plan-empty-state.module.code.ts"
+import { decidePlanEmptyState } from "akasha/temper/web/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 
 describe("decidePlanEmptyState", () => {
   test("an unconfirmed zero is never the no-characters claim", () => {

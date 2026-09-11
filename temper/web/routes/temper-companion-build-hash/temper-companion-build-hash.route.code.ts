@@ -1,7 +1,7 @@
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { importCompanionFromHash } from "akasha/temper/web/.server/companion-import/companion-import.module.code.ts"
 import { z } from "zod"
-import { buildHash } from "../../../formula-framework/branded-id/branded-id.module.code.ts"
-import { importCompanionFromHash } from "../../.server/companion-import/companion-import.module.code.ts"
 
 export async function loader({
   request,

@@ -1,5 +1,9 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import {
+  type TargetArmorId,
+  targetArmor,
+} from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
@@ -9,12 +13,8 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import {
-  type TargetArmorId,
-  targetArmor,
-} from "../../character-sources/target-armors/target-armors.module.code.ts"
-import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
-import type { SortField } from "../companions-filter-bar/companions-filter-bar.module.code.tsx"
+import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
+import type { SortField } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
 
 export function isValidGearOwnership(value: unknown): value is "owned" | "unowned" {
   return value === "owned" || value === "unowned"

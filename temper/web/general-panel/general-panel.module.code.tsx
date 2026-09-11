@@ -2,10 +2,10 @@
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { BuildDescriptionPanelCard } from "../build-description-panel-card/build-description-panel-card.module.code.tsx"
-import { BuildInfoPanelCard } from "../build-info-panel-card/build-info-panel-card.module.code.tsx"
-import { CharacterManagementPanelCard } from "../character-management-panel-card/character-management-panel-card.module.code.tsx"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { BuildDescriptionPanelCard } from "akasha/temper/web/build-description-panel-card/build-description-panel-card.module.code.tsx"
+import { BuildInfoPanelCard } from "akasha/temper/web/build-info-panel-card/build-info-panel-card.module.code.tsx"
+import { CharacterManagementPanelCard } from "akasha/temper/web/character-management-panel-card/character-management-panel-card.module.code.tsx"
 
 interface GeneralPanelProps {
   buildId: BuildId

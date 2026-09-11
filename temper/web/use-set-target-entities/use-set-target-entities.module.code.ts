@@ -14,14 +14,14 @@ import {
   useCharacterList,
 } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import { races } from "akasha/temper/races/races/races.module.code.ts"
+import type { SetTargetEntity } from "akasha/temper/web/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { races } from "../../races/races/races.module.code.ts"
-import type { SetTargetEntity } from "../set-target-dialog/set-target-dialog.module.code.tsx"
 
 interface UseSetTargetEntitiesParams {
   buildId: BuildId

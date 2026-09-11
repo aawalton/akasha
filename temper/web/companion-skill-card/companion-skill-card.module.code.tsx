@@ -13,21 +13,21 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
-import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
-import type { ReactNode } from "react"
-import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
-import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"
-import { CollapsibleSkillCard } from "../collapsible-skill-card/collapsible-skill-card.module.code.tsx"
-import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"
-import { EffectBadge } from "../effect-badge/effect-badge.module.code.tsx"
-import type { ArmorPieceCounts } from "../effect-badge-types/effect-badge-types.module.code.ts"
-import { EffectCard } from "../effect-card/effect-card.module.code.tsx"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
+import { formatAbbreviated } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
+import { CollapsibleSkillCard } from "akasha/temper/web/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
+import { ConstraintBadges } from "akasha/temper/web/constraint-badges/constraint-badges.module.code.tsx"
+import { EffectBadge } from "akasha/temper/web/effect-badge/effect-badge.module.code.tsx"
+import type { ArmorPieceCounts } from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
+import { EffectCard } from "akasha/temper/web/effect-card/effect-card.module.code.tsx"
 import {
   RadiusBadge,
   RangeBadge,
   TargetingBadge,
-} from "../targeting-badges/targeting-badges.module.code.tsx"
-import { TimingBadges } from "../timing-badges/timing-badges.module.code.tsx"
+} from "akasha/temper/web/targeting-badges/targeting-badges.module.code.tsx"
+import { TimingBadges } from "akasha/temper/web/timing-badges/timing-badges.module.code.tsx"
+import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
+import type { ReactNode } from "react"
 
 interface CompanionSkillCardProps {
   skill: CompanionSkillTemplate

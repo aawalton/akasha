@@ -18,9 +18,9 @@ import { companionUrl } from "akasha/temper/build-support/build-url/build-url.mo
 import { getBaseRoleName } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { NewCompanionButton } from "akasha/temper/web/new-companion-button/new-companion-button.module.code.tsx"
 import { FolderOpen } from "lucide-react"
-import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { NewCompanionButton } from "../new-companion-button/new-companion-button.module.code.tsx"
 
 interface Build {
   id: string

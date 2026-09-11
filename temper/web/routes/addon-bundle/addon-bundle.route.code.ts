@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { ADDONS_BUNDLE_DIR } from "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
+import { ADDONS_BUNDLE_DIR } from "akasha/temper/web/.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
 import type { Route } from "./+types/addon-bundle.route.code"
 
 const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")

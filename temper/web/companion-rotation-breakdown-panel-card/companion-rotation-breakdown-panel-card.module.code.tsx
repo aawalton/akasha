@@ -10,12 +10,12 @@ import type { CompanionFormulaStats } from "akasha/temper/companions-core/compan
 import type { CompanionSkillSlotId } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type { CompanionSkillId } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import { SkillBreakdownTable } from "akasha/temper/web/companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
+import { getPrimaryRows } from "akasha/temper/web/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
+import { deriveCompanionRotationOutcome } from "akasha/temper/web/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
+import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
+import { useCompanionStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { SkillBreakdownTable } from "../companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
-import { getPrimaryRows } from "../companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
-import { deriveCompanionRotationOutcome } from "../companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
-import { useCompanion } from "../use-companion/use-companion.module.code.ts"
-import { useCompanionStats } from "../use-companion-stats/use-companion-stats.module.code.ts"
 
 interface CompanionRotationBreakdownPanelCardProps {
   className?: string

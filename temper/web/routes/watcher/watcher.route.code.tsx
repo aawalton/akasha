@@ -3,22 +3,22 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/server-clien
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { getPage, getPages } from "akasha/pages/access/get/get.module.code.ts"
-import { Suspense } from "react"
-import { data } from "react-router"
-import { readServedWatcherVersion } from "../../.server/served-watcher-version/served-watcher-version.module.code.ts"
+import { readServedWatcherVersion } from "akasha/temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts"
 import {
   readReportedBuild,
   summarizeWatcherBuild,
-} from "../../watcher-build-status/watcher-build-status.module.code.ts"
-import { WatcherPageContent } from "../../watcher-page-content/watcher-page-content.module.code.tsx"
+} from "akasha/temper/web/watcher-build-status/watcher-build-status.module.code.ts"
+import { WatcherPageContent } from "akasha/temper/web/watcher-page-content/watcher-page-content.module.code.tsx"
 import {
   readReportedOperations,
   summarizeWatcherRun,
-} from "../../watcher-run-status/watcher-run-status.module.code.ts"
+} from "akasha/temper/web/watcher-run-status/watcher-run-status.module.code.ts"
 import {
   summarizeWatcherSync,
   type WatcherSyncSourceCounts,
-} from "../../watcher-sync-status/watcher-sync-status.module.code.ts"
+} from "akasha/temper/web/watcher-sync-status/watcher-sync-status.module.code.ts"
+import { Suspense } from "react"
+import { data } from "react-router"
 
 export function meta() {
   return [{ title: "Temper | Watcher" }]

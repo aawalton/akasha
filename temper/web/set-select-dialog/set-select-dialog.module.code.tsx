@@ -16,11 +16,11 @@ import { isSetsAllId } from "akasha/temper/characters-equipment/sets-all/sets-al
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import { typedPartialRecordKeys } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import { FilterableSelectDialog } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { typedPartialRecordKeys } from "../../formula-framework/record-parts/record-parts.module.code.ts"
-import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 
 interface SetSelectDialogProps {
   open: boolean

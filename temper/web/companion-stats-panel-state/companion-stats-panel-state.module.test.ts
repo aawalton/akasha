@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   type CompanionStatsPanelInput,
   deriveCompanionStatsPanelState,
-} from "./companion-stats-panel-state.module.code.ts"
+} from "akasha/temper/web/companion-stats-panel-state/companion-stats-panel-state.module.code.ts"
 
 function input(overrides: Partial<CompanionStatsPanelInput> = {}): CompanionStatsPanelInput {
   return { hasCompanion: true, isLoading: false, hasError: false, statCount: 12, ...overrides }

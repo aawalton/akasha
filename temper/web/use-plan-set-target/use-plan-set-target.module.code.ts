@@ -14,9 +14,9 @@ import {
   type useAllCompanionList,
   useCompanionLifecycle,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useCallback, useState, useTransition } from "react"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 interface UsePlanSetTargetArgs {
   buildMap: Map<string, ReturnType<typeof useAllCompanionList>["builds"][number]>

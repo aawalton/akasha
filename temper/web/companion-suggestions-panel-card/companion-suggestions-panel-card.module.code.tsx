@@ -8,8 +8,8 @@ import {
   useCompanion,
   useCompanionActions,
   useCompanionMetadata,
-} from "../use-companion/use-companion.module.code.ts"
-import { useCompanionSuggestions } from "../use-companion-suggestions/use-companion-suggestions.module.code.ts"
+} from "akasha/temper/web/use-companion/use-companion.module.code.ts"
+import { useCompanionSuggestions } from "akasha/temper/web/use-companion-suggestions/use-companion-suggestions.module.code.ts"
 
 interface CompanionSuggestionsPanelCardProps {
   className?: string

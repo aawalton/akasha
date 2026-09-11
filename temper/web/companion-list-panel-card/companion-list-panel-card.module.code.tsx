@@ -19,7 +19,7 @@ import type { CompanionState } from "akasha/temper/companions-core/companion-typ
 import { getWeaponRole } from "akasha/temper/companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
 import { companionWeaponRoles } from "akasha/temper/companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 
 function getRolePrimaryStats(roles: readonly CompanionBaseRoleId[]): ReadonlySet<string> {
   const stats = new Set<string>()

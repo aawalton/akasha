@@ -3,7 +3,7 @@
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import { ConstellationPanelCard } from "../constellation-panel-card/constellation-panel-card.module.code.tsx"
+import { ConstellationPanelCard } from "akasha/temper/web/constellation-panel-card/constellation-panel-card.module.code.tsx"
 
 interface ChampionPointsPanelProps {
   championPoints: CharacterState["championPoints"]

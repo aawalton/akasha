@@ -13,10 +13,10 @@ import {
 } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { CompanionIdentityLeaderboardPanelCard } from "akasha/temper/web/companion-identity-leaderboard-panel-card/companion-identity-leaderboard-panel-card.module.code.tsx"
+import { CompanionOverallLeaderboardPanelCard } from "akasha/temper/web/companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.code.tsx"
+import { CompanionRoleLeaderboardPanelCard } from "akasha/temper/web/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx"
 import { useCallback, useMemo } from "react"
-import { CompanionIdentityLeaderboardPanelCard } from "../companion-identity-leaderboard-panel-card/companion-identity-leaderboard-panel-card.module.code.tsx"
-import { CompanionOverallLeaderboardPanelCard } from "../companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.code.tsx"
-import { CompanionRoleLeaderboardPanelCard } from "../companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx"
 
 interface CompanionLeaderboardContentProps {
   builds: readonly Build[]

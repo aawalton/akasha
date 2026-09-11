@@ -1,9 +1,9 @@
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { useContext } from "react"
 import {
   CompanionStatsContext,
   type CompanionStatsContextValue,
-} from "../companion-stats-context/companion-stats-context.module.code.tsx"
+} from "akasha/temper/web/companion-stats-context/companion-stats-context.module.code.tsx"
+import { useContext } from "react"
 
 export function useCompanionStats(): CompanionStatsContextValue {
   const context = useContext(CompanionStatsContext)

@@ -4,7 +4,7 @@ import {
   readReportedOperations,
   summarizeWatcherRun,
   type WatcherRunOperation,
-} from "./watcher-run-status.module.code.ts"
+} from "akasha/temper/web/watcher-run-status/watcher-run-status.module.code.ts"
 
 const RAN_AT = "2026-07-25T13:04:29.560Z"
 const REPORTED_AT = "2026-07-25T13:21:16.992Z"

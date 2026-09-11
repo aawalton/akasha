@@ -23,31 +23,31 @@ import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
-import { useEffect, useState } from "react"
-import { toast } from "sonner"
-import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { CompanionAutomationPanelCard } from "../companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
-import { CompanionEditorHeader } from "../companion-editor-header/companion-editor-header.module.code.tsx"
-import { CompanionEquipmentPanel } from "../companion-equipment-panel/companion-equipment-panel.module.code.tsx"
-import { CompanionGeneralPanel } from "../companion-general-panel/companion-general-panel.module.code.tsx"
-import { CompanionPanel } from "../companion-panel/companion-panel.module.code.tsx"
-import { CompanionSkillsPanel } from "../companion-skills-panel/companion-skills-panel.module.code.tsx"
-import { CompanionStatsPanel } from "../companion-stats-panel/companion-stats-panel.module.code.tsx"
-import { CompanionTargetPanelCard } from "../companion-target-panel-card/companion-target-panel-card.module.code.tsx"
-import { GlobalCompanionBulkEditTags } from "../global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"
-import { SetTargetConfirmDialog } from "../set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
-import { UnderConstructionDialog } from "../under-construction-dialog/under-construction-dialog.module.code.tsx"
+import { CompanionAutomationPanelCard } from "akasha/temper/web/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
+import { CompanionEditorHeader } from "akasha/temper/web/companion-editor-header/companion-editor-header.module.code.tsx"
+import { CompanionEquipmentPanel } from "akasha/temper/web/companion-equipment-panel/companion-equipment-panel.module.code.tsx"
+import { CompanionGeneralPanel } from "akasha/temper/web/companion-general-panel/companion-general-panel.module.code.tsx"
+import { CompanionPanel } from "akasha/temper/web/companion-panel/companion-panel.module.code.tsx"
+import { CompanionSkillsPanel } from "akasha/temper/web/companion-skills-panel/companion-skills-panel.module.code.tsx"
+import { CompanionStatsPanel } from "akasha/temper/web/companion-stats-panel/companion-stats-panel.module.code.tsx"
+import { CompanionTargetPanelCard } from "akasha/temper/web/companion-target-panel-card/companion-target-panel-card.module.code.tsx"
+import { GlobalCompanionBulkEditTags } from "akasha/temper/web/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"
+import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
+import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {
   useCompanion,
   useCompanionActions,
   useCompanionMetadata,
-} from "../use-companion/use-companion.module.code.ts"
-import { useCompanionPartnerBuildUrl } from "../use-companion-partner-build-url/use-companion-partner-build-url.module.code.ts"
-import { useCompanionSetTarget } from "../use-companion-set-target/use-companion-set-target.module.code.ts"
-import { useCompanionUpdate } from "../use-companion-update/use-companion-update.module.code.ts"
+} from "akasha/temper/web/use-companion/use-companion.module.code.ts"
+import { useCompanionPartnerBuildUrl } from "akasha/temper/web/use-companion-partner-build-url/use-companion-partner-build-url.module.code.ts"
+import { useCompanionSetTarget } from "akasha/temper/web/use-companion-set-target/use-companion-set-target.module.code.ts"
+import { useCompanionUpdate } from "akasha/temper/web/use-companion-update/use-companion-update.module.code.ts"
+import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
+import { useEffect, useState } from "react"
+import { toast } from "sonner"
 
 const EDITOR_TAB_LABELS: Record<string, string> = {
   general: "General",

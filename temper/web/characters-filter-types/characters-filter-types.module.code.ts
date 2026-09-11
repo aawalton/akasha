@@ -3,15 +3,15 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
-import type { ReactNode } from "react"
 import {
   type RoleId,
   characterRoles as roles,
-} from "../../character-sources/character-roles/character-roles.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { type RaceId, races } from "../../races/races/races.module.code.ts"
-import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
+} from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import { type RaceId, races } from "akasha/temper/races/races/races.module.code.ts"
+import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
+import type { ReactNode } from "react"
 
 export type SortField = "updated" | "name"
 

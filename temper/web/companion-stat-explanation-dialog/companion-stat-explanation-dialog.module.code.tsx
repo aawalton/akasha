@@ -18,7 +18,7 @@ import {
   type CompanionMetricValue,
   getCompanionMetricName,
 } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
-import { FormulaDisplay } from "../formula-display/formula-display.module.code.tsx"
+import { FormulaDisplay } from "akasha/temper/web/formula-display/formula-display.module.code.tsx"
 
 interface CompanionStatExplanationDialogProps {
   open: boolean

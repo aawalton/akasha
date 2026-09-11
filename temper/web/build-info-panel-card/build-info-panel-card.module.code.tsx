@@ -12,8 +12,8 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { toCharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import { useCharacterMetadata } from "akasha/temper/web/use-character/use-character.module.code.ts"
 import { useEffect, useState } from "react"
-import { useCharacterMetadata } from "../use-character/use-character.module.code.ts"
 
 interface BuildInfoPanelCardProps {
   buildName: string

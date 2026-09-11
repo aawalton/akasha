@@ -7,9 +7,11 @@ const SCRATCH_AT = "/var/tmp"
 
 process.env["ADDONS_BUNDLE_DIR"] = mkdtempSync(join(SCRATCH_AT, "temper-addons-"))
 
-const { loader } = await import("./addon-bundle-version.route.code.ts")
+const { loader } = await import(
+  "akasha/temper/web/routes/addon-bundle-version/addon-bundle-version.route.code.ts"
+)
 const { ADDONS_BUNDLE_DIR } = await import(
-  "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
+  "akasha/temper/web/.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
 )
 
 const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")

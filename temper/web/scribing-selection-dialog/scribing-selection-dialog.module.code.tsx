@@ -19,14 +19,14 @@ import {
   getGrimoireCompatibleScripts,
   grimoires,
 } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
-import { ArrowLeft } from "lucide-react"
-import { useState } from "react"
-import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import {
   type FocusScriptId,
   focusScripts,
-} from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { ArrowLeft } from "lucide-react"
+import { useState } from "react"
 
 type SelectionStep = "grimoire" | "focus-script"
 

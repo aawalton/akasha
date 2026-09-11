@@ -1,11 +1,11 @@
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   CHARACTER_ACTIONS,
   type CharacterAction,
-} from "../character-actions/character-actions.module.code.ts"
+} from "akasha/temper/web/character-actions/character-actions.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export function characterReducer(state: CharacterState, action: CharacterAction): CharacterState {
   switch (action.type) {

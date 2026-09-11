@@ -2,10 +2,10 @@ import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { ShoppingPageContent } from "akasha/temper/player-economics-ui/shopping-page-content/shopping-page-content.module.code.tsx"
+import { useShoppingMarks } from "akasha/temper/web/player-settings/player-settings.module.code.ts"
+import { tabDefaultFor } from "akasha/temper/web/tab-defaults/tab-defaults.module.code.ts"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
-import { useShoppingMarks } from "../../player-settings/player-settings.module.code.ts"
-import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"
 
 export function meta() {
   return [{ title: "Temper | Shopping" }]

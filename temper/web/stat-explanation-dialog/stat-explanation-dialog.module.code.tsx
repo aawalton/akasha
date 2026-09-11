@@ -14,11 +14,11 @@ import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.mo
 import { metricToDisplayFormula } from "akasha/temper/characters-stats/metric-display-formula/metric-display-formula.module.code.ts"
 import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
-import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
-import { formatStatValue } from "../../formula-framework/number-format/number-format.module.code.ts"
-import { typedPartialRecordKeys } from "../../formula-framework/record-parts/record-parts.module.code.ts"
-import { FormulaDisplay } from "../formula-display/formula-display.module.code.tsx"
+import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
+import { formatStatValue } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
+import { typedPartialRecordKeys } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import { FormulaDisplay } from "akasha/temper/web/formula-display/formula-display.module.code.tsx"
 
 interface StatExplanationDialogProps {
   open: boolean

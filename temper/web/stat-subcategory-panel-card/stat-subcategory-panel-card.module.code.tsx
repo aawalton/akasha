@@ -4,8 +4,8 @@ import type { MetricValue } from "akasha/temper/characters-stats/metric-value/me
 import {
   hasVisibleMetricRows,
   MetricTreeRenderer,
-} from "../metric-tree-renderer/metric-tree-renderer.module.code.tsx"
-import type { StatsRecord } from "../stats-types/stats-types.module.code.ts"
+} from "akasha/temper/web/metric-tree-renderer/metric-tree-renderer.module.code.tsx"
+import type { StatsRecord } from "akasha/temper/web/stats-types/stats-types.module.code.ts"
 
 interface StatSubcategoryPanelCardProps {
   subcategoryName: string

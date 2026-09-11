@@ -3,13 +3,13 @@
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { AlertTriangle, CheckCircle2, CircleDashed, Clock, FileUp } from "lucide-react"
-import { ago } from "../format-time-ago/format-time-ago.module.code.ts"
+import { ago } from "akasha/temper/web/format-time-ago/format-time-ago.module.code.ts"
 import type {
   WatcherSyncSourceCounts,
   WatcherSyncSummary,
-} from "../watcher-sync-status/watcher-sync-status.module.code.ts"
+} from "akasha/temper/web/watcher-sync-status/watcher-sync-status.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { AlertTriangle, CheckCircle2, CircleDashed, Clock, FileUp } from "lucide-react"
 
 type Presentation = {
   icon: typeof CheckCircle2

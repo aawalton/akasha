@@ -2,25 +2,25 @@
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import type { RoleId } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import { useCallback, useMemo } from "react"
-import type { RoleId } from "../../character-sources/character-roles/character-roles.module.code.ts"
-import type { DecodedBuild } from "../builds-browse-tab/builds-browse-tab.module.code.tsx"
+import type { DecodedBuild } from "akasha/temper/web/builds-browse-tab/builds-browse-tab.module.code.tsx"
 import {
   CharacterEntityPanelCard,
   type CharacterPlanEntity,
-} from "../character-entity-panel-card/character-entity-panel-card.module.code.tsx"
+} from "akasha/temper/web/character-entity-panel-card/character-entity-panel-card.module.code.tsx"
 import {
   type CharacterLiveOnlyEntity,
   CharacterLiveOnlyPanelCard,
-} from "../character-live-only-panel-card/character-live-only-panel-card.module.code.tsx"
+} from "akasha/temper/web/character-live-only-panel-card/character-live-only-panel-card.module.code.tsx"
 import {
   getClassName,
   getRaceName,
   isValidRole,
-} from "../characters-filter-types/characters-filter-types.module.code.ts"
-import { CharactersPlanEmpty } from "../characters-plan-empty/characters-plan-empty.module.code.tsx"
-import { decidePlanEmptyState } from "../characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
+} from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
+import { CharactersPlanEmpty } from "akasha/temper/web/characters-plan-empty/characters-plan-empty.module.code.tsx"
+import { decidePlanEmptyState } from "akasha/temper/web/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
+import { useCallback, useMemo } from "react"
 
 type CompletionCharacterRows = ReturnType<typeof useCompletionCharactersByUser>["characters"]
 type OptimisticPatch = ReturnType<typeof useOptimisticPatchPage>

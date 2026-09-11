@@ -1,5 +1,8 @@
 import { describe, expect, it } from "bun:test"
-import { type CliLinkFailure, describeCliLinkFailure } from "./cli-link-failure.module.code.ts"
+import {
+  type CliLinkFailure,
+  describeCliLinkFailure,
+} from "akasha/temper/web/cli-link-failure/cli-link-failure.module.code.ts"
 
 describe("describeCliLinkFailure", () => {
   it("blames the connection only when no response arrived", () => {

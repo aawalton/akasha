@@ -6,9 +6,9 @@ import type {
 } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { CharacterProvider } from "../character-context/character-context.module.code.tsx"
-import { CharacterEditorContent } from "../character-editor-content/character-editor-content.module.code.tsx"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { CharacterProvider } from "akasha/temper/web/character-context/character-context.module.code.tsx"
+import { CharacterEditorContent } from "akasha/temper/web/character-editor-content/character-editor-content.module.code.tsx"
 
 interface CharacterEditorProps {
   buildId: BuildId

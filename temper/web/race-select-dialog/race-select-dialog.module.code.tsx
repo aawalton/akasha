@@ -7,13 +7,13 @@ import {
   sortedRaces,
 } from "akasha/temper/character-build/race-source/race-source.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
-import { useMemo } from "react"
-import { getRaceIconUrl } from "../../races/race-icon-url/race-icon-url.module.code.ts"
-import type { RaceId } from "../../races/races/races.module.code.ts"
+import { getRaceIconUrl } from "akasha/temper/races/race-icon-url/race-icon-url.module.code.ts"
+import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
-} from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+} from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { useMemo } from "react"
 
 interface RaceSelectDialogProps {
   open: boolean

@@ -13,11 +13,11 @@ import {
   getClassForSkillLine,
 } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 
 interface SkillLinesPanelCardProps {
   skillLineIds: readonly SkillLineId[]

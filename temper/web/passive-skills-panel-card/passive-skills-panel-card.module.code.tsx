@@ -15,17 +15,17 @@ import {
   getRacialSkillLineIdForRace,
 } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
 import { getWeaponSkillLineIdsForBar } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
-import { ChevronRight } from "lucide-react"
-import { useMemo } from "react"
 import {
   type SkillLineCategoryId,
   skillLineCategoriesSorted,
-} from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+} from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import { SkillCollapsibleCard } from "../skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { SkillCollapsibleCard } from "akasha/temper/web/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+import { ChevronRight } from "lucide-react"
+import { useMemo } from "react"
 
 const passivesBySkillLine = new Map<SkillLineId, Skill[]>()
 for (const skill of skills.list) {

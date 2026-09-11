@@ -3,11 +3,11 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/server-clien
 import { getPageTypeByPluralSlug } from "akasha/pages/access/page-type/page-type.module.code.ts"
 import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { CharactersPageContent } from "akasha/temper/web/characters-page-content/characters-page-content.module.code.tsx"
+import { CompanionsPageContent } from "akasha/temper/web/companions-page-content/companions-page-content.module.code.tsx"
+import { useImportErrorToast } from "akasha/temper/web/use-import-error-toast/use-import-error-toast.module.code.ts"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
-import { CharactersPageContent } from "../../characters-page-content/characters-page-content.module.code.tsx"
-import { CompanionsPageContent } from "../../companions-page-content/companions-page-content.module.code.tsx"
-import { useImportErrorToast } from "../../use-import-error-toast/use-import-error-toast.module.code.ts"
 
 export async function loader({
   params,

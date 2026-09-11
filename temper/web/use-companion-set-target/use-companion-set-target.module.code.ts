@@ -15,11 +15,11 @@ import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import type { SetTargetEntity } from "akasha/temper/web/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import type { SetTargetEntity } from "../set-target-dialog/set-target-dialog.module.code.tsx"
 
 interface UseCompanionSetTargetArgs {
   buildId: string

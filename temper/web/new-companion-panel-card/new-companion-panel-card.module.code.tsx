@@ -11,10 +11,10 @@ import { companionUrl } from "akasha/temper/build-support/build-url/build-url.mo
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { createNewCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
 import { useCompanionLifecycle } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 import { toast } from "sonner"
-import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function NewCompanionPanelCard() {
   const [isCreating, setIsCreating] = useState(false)

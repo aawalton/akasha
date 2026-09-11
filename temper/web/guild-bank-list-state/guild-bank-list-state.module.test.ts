@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { resolveGuildBankListState } from "./guild-bank-list-state.module.code.ts"
+import { resolveGuildBankListState } from "akasha/temper/web/guild-bank-list-state/guild-bank-list-state.module.code.ts"
 
 const SETTLED_WITH_GUILD_BANKS = {
   isLoading: false,

@@ -14,20 +14,20 @@ import {
   toVisibility,
 } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
-import { type ReactNode, useCallback, useReducer } from "react"
-import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
-import { COMPANION_ACTIONS } from "../companion-actions/companion-actions.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { CompanionAction } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
+import { COMPANION_ACTIONS } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
 import {
   CompanionDispatchContext,
   type CompanionMetadata,
   CompanionMetadataContext,
   CompanionStateContext,
-} from "../companion-contexts/companion-contexts.module.code.ts"
-import { companionReducer } from "../companion-reducer/companion-reducer.module.code.ts"
-import { CompanionStatsProvider } from "../companion-stats-context/companion-stats-context.module.code.tsx"
-import { useBuildSync } from "../use-build-sync/use-build-sync.module.code.ts"
+} from "akasha/temper/web/companion-contexts/companion-contexts.module.code.ts"
+import { companionReducer } from "akasha/temper/web/companion-reducer/companion-reducer.module.code.ts"
+import { CompanionStatsProvider } from "akasha/temper/web/companion-stats-context/companion-stats-context.module.code.tsx"
+import { useBuildSync } from "akasha/temper/web/use-build-sync/use-build-sync.module.code.ts"
+import { type ReactNode, useCallback, useReducer } from "react"
 
 interface CompanionProviderProps {
   children: ReactNode

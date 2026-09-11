@@ -11,7 +11,6 @@ import { SearchButton } from "akasha/design/interfaces/patterns/search-button/se
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import { useState } from "react"
 import {
   type CharactersFilterDef,
   type CharactersFilterId,
@@ -21,7 +20,8 @@ import {
   ROLE_ITEMS,
   SORT_OPTIONS,
   type SortField,
-} from "../characters-filter-types/characters-filter-types.module.code.ts"
+} from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
+import { useState } from "react"
 
 const CHARACTERS_FILTERS: CharactersFilterDef[] = [
   {

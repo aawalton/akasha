@@ -5,8 +5,8 @@ import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import { SkillCollapsibleCard } from "akasha/temper/web/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 import { Plus, X } from "lucide-react"
-import { SkillCollapsibleCard } from "../skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 
 interface SkillSlotCardProps {
   skill: Skill | undefined

@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { WATCHER_DIR } from "../../.server/watcher-dir/watcher-dir.module.code.ts"
+import { WATCHER_DIR } from "akasha/temper/web/.server/watcher-dir/watcher-dir.module.code.ts"
 
 const EXE_FILE = join(WATCHER_DIR, "temper-watcher-worker.exe")
 

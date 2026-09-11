@@ -11,7 +11,7 @@ import {
 import {
   type TargetArmorId,
   targetArmor,
-} from "../../character-sources/target-armors/target-armors.module.code.ts"
+} from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 
 const TARGET_HEALTH_OPTIONS = [1, 0.75, 0.5, 0.25] as const
 

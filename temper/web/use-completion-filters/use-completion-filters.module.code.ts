@@ -7,7 +7,7 @@ import {
   VALID_SKILL_TYPES,
   VALID_STATUSES,
   VALID_TABS,
-} from "../completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
+} from "akasha/temper/web/completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
 
 export type CompletionFilterValues = {
   tab: string

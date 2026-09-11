@@ -19,34 +19,34 @@ import {
   useCharacterLifecycle,
   useCharacterList,
 } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { useEffect, useState } from "react"
-import { toast } from "sonner"
-import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { CharacterEditorHeader } from "../character-editor-header/character-editor-header.module.code.tsx"
-import { CharacterEditorTabsList } from "../character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
-import { ClassChangeConfirmationDialog } from "../class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"
-import { EDITOR_TAB_LABELS } from "../editor-tab-labels/editor-tab-labels.module.code.ts"
-import { EditorTabPanels } from "../editor-tab-panels/editor-tab-panels.module.code.tsx"
-import { GlobalSetBulkEditTags } from "../global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"
-import { SetTargetConfirmDialog } from "../set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
-import { SetTargetDialog } from "../set-target-dialog/set-target-dialog.module.code.tsx"
-import { StatsPanel } from "../stats-panel/stats-panel.module.code.tsx"
-import { UnderConstructionDialog } from "../under-construction-dialog/under-construction-dialog.module.code.tsx"
+import { CharacterEditorHeader } from "akasha/temper/web/character-editor-header/character-editor-header.module.code.tsx"
+import { CharacterEditorTabsList } from "akasha/temper/web/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
+import { ClassChangeConfirmationDialog } from "akasha/temper/web/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"
+import { EDITOR_TAB_LABELS } from "akasha/temper/web/editor-tab-labels/editor-tab-labels.module.code.ts"
+import { EditorTabPanels } from "akasha/temper/web/editor-tab-panels/editor-tab-panels.module.code.tsx"
+import { GlobalSetBulkEditTags } from "akasha/temper/web/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"
+import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
+import { SetTargetDialog } from "akasha/temper/web/set-target-dialog/set-target-dialog.module.code.tsx"
+import { StatsPanel } from "akasha/temper/web/stats-panel/stats-panel.module.code.tsx"
+import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {
   useCharacter,
   useCharacterActions,
   useCharacterMetadata,
-} from "../use-character/use-character.module.code.ts"
-import { useClassChangeWithContext } from "../use-class-change/use-class-change.module.code.ts"
-import { usePartnerBuildUrl } from "../use-partner-build-url/use-partner-build-url.module.code.ts"
+} from "akasha/temper/web/use-character/use-character.module.code.ts"
+import { useClassChangeWithContext } from "akasha/temper/web/use-class-change/use-class-change.module.code.ts"
+import { usePartnerBuildUrl } from "akasha/temper/web/use-partner-build-url/use-partner-build-url.module.code.ts"
 import {
   PASSIVE_CATEGORY_FILTER_ITEMS,
   usePassiveFilter,
-} from "../use-passive-filter/use-passive-filter.module.code.ts"
-import { useSetTargetEntities } from "../use-set-target-entities/use-set-target-entities.module.code.ts"
-import { useStatChangeNotifications } from "../use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
+} from "akasha/temper/web/use-passive-filter/use-passive-filter.module.code.ts"
+import { useSetTargetEntities } from "akasha/temper/web/use-set-target-entities/use-set-target-entities.module.code.ts"
+import { useStatChangeNotifications } from "akasha/temper/web/use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
+import { useEffect, useState } from "react"
+import { toast } from "sonner"
 
 interface BuildEditorContentProps {
   initialTab?: string

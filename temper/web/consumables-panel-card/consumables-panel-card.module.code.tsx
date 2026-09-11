@@ -12,20 +12,20 @@ import {
   type PotionId,
   potions,
 } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import { Info } from "lucide-react"
-import { useState } from "react"
-import type { FoodOrDrinkId } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
-import type { MundusId } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
-import { FilterableSelectTrigger } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import type { FoodOrDrinkId } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import type { MundusId } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
+import { FilterableSelectTrigger } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import {
   FoodDrinkSelectDialog,
   getFoodDrinkById,
-} from "../food-drink-select-dialog/food-drink-select-dialog.module.code.tsx"
+} from "akasha/temper/web/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx"
 import {
   getMundusById,
   MundusSelectDialog,
-} from "../mundus-select-dialog/mundus-select-dialog.module.code.tsx"
-import { PotionSelectDialog } from "../potion-select-dialog/potion-select-dialog.module.code.tsx"
+} from "akasha/temper/web/mundus-select-dialog/mundus-select-dialog.module.code.tsx"
+import { PotionSelectDialog } from "akasha/temper/web/potion-select-dialog/potion-select-dialog.module.code.tsx"
+import { Info } from "lucide-react"
+import { useState } from "react"
 
 interface ConsumablesPanelCardProps {
   consumables: {

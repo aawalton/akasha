@@ -7,12 +7,12 @@ import {
   SurfaceProvider,
   useSurface,
 } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { useCallback, useState } from "react"
 import {
   type CliLinkFailure,
   describeCliLinkFailure,
-} from "../cli-link-failure/cli-link-failure.module.code.ts"
+} from "akasha/temper/web/cli-link-failure/cli-link-failure.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { useCallback, useState } from "react"
 
 interface CliLinkContentProps {
   port: number

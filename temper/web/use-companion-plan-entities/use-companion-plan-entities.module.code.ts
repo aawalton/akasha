@@ -10,9 +10,9 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import type { CompanionPlanEntity } from "akasha/temper/web/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"
+import type { CompanionLiveOnlyEntity } from "akasha/temper/web/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
 import { useMemo } from "react"
-import type { CompanionPlanEntity } from "../companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"
-import type { CompanionLiveOnlyEntity } from "../companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
 
 interface RawBuild {
   id: string

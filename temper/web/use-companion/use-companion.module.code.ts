@@ -2,15 +2,15 @@
 
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { useCallback, useContext } from "react"
-import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
+import type { CompanionAction } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
 import {
   CompanionDispatchContext,
   type CompanionMetadata,
   CompanionMetadataContext,
   CompanionStateContext,
-} from "../companion-contexts/companion-contexts.module.code.ts"
-import { COMPANION_ACTION_CREATORS } from "../companion-reducer/companion-reducer.module.code.ts"
+} from "akasha/temper/web/companion-contexts/companion-contexts.module.code.ts"
+import { COMPANION_ACTION_CREATORS } from "akasha/temper/web/companion-reducer/companion-reducer.module.code.ts"
+import { useCallback, useContext } from "react"
 
 export function useCompanion(): CompanionState {
   const context = useContext(CompanionStateContext)

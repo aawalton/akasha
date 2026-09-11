@@ -7,10 +7,10 @@ import {
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { SHORTCUT_GROUPS } from "akasha/temper/web/keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"
+import { ShortcutSectionCard } from "akasha/temper/web/shortcut-section-card/shortcut-section-card.module.code.tsx"
 import { ChevronLeft } from "lucide-react"
 import { useEffect, useState } from "react"
-import { SHORTCUT_GROUPS } from "../keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"
-import { ShortcutSectionCard } from "../shortcut-section-card/shortcut-section-card.module.code.tsx"
 
 export function KeyboardShortcutsPageContent() {
   const [isMac, setIsMac] = useState(false)

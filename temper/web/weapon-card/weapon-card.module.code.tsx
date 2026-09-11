@@ -51,15 +51,18 @@ import {
   weaponTraitsBuildList,
 } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
-import { useMemo, useState } from "react"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { WeaponBar } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { WeaponBar } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import {
   type WeaponSlot,
   weaponSlots,
-} from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
+} from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import {
+  getSetById,
+  SetSelectDialog,
+} from "akasha/temper/web/set-select-dialog/set-select-dialog.module.code.tsx"
+import { useMemo, useState } from "react"
 
 interface WeaponCardProps {
   slotId: WeaponSlot

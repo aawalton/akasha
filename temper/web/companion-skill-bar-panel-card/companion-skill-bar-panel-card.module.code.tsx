@@ -8,8 +8,8 @@ import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
-import { CompanionSkillSlotCard } from "../companion-skill-slot-card/companion-skill-slot-card.module.code.tsx"
-import { CompanionUltimateSlotCard } from "../companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx"
+import { CompanionSkillSlotCard } from "akasha/temper/web/companion-skill-slot-card/companion-skill-slot-card.module.code.tsx"
+import { CompanionUltimateSlotCard } from "akasha/temper/web/companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx"
 
 type ActiveCompanionSkillSlotId = "active-1" | "active-2" | "active-3" | "active-4" | "active-5"
 

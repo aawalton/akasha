@@ -2,11 +2,11 @@
 
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { toLatex } from "akasha/temper/formula-framework/display-formula-latex/display-formula-latex.module.code.ts"
+import type { DisplayFormulaNode } from "akasha/temper/formula-framework/display-formula-node/display-formula-node.module.code.ts"
 import katex from "katex"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { createPortal } from "react-dom"
-import { toLatex } from "../../formula-framework/display-formula-latex/display-formula-latex.module.code.ts"
-import type { DisplayFormulaNode } from "../../formula-framework/display-formula-node/display-formula-node.module.code.ts"
 
 interface ActiveLabel {
   label: string
