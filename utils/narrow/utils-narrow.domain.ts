@@ -17,6 +17,7 @@ export const utilsNarrow = {
     "module/as-object-record",
     "module/as-record",
     "module/assert-never",
+    "module/base64-url",
     "module/badge-variant",
     "module/chunk",
     "module/collapse",

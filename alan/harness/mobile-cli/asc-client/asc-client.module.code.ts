@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { base64Url } from "akasha/utils/narrow/base64-url/base64-url.module.code.ts"
 import { z } from "zod"
 import { ASC_ISSUER_ID, ASC_KEY_ID } from "../foundation/foundation.module.code.ts"
 
@@ -11,16 +12,6 @@ const ASC_API_BASE = "https://api.appstoreconnect.apple.com"
 export const JWT_TTL_SECONDS = 900
 
 export const JWT_REMINT_MARGIN_SECONDS = 120
-
-function base64Url(input: ArrayBuffer | Uint8Array | string): string {
-  const buf =
-    typeof input === "string"
-      ? Buffer.from(input)
-      : input instanceof Uint8Array
-        ? Buffer.from(input)
-        : Buffer.from(new Uint8Array(input))
-  return buf.toString("base64").replaceAll("+", "-").replaceAll("/", "_").replaceAll("=", "")
-}
 
 function pemToPkcs8Der(pem: string): Uint8Array<ArrayBuffer> {
   const body = pem.replace(/-----[^-]+-----/g, "").replace(/\s+/g, "")

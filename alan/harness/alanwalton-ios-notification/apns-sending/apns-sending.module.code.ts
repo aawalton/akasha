@@ -1,6 +1,7 @@
 import http2 from "node:http2"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
+import { base64Url } from "../../../../utils/narrow/base64-url/base64-url.module.code.ts"
 
 export const APNS_AUTH_KEY_ENV = "APNS_AUTH_KEY_P8"
 
@@ -51,16 +52,6 @@ export function reasonIn(body: string): string | null {
   } catch {
     return null
   }
-}
-
-function base64Url(bytes: ArrayBuffer | Uint8Array | string): string {
-  const held =
-    typeof bytes === "string"
-      ? Buffer.from(bytes)
-      : bytes instanceof Uint8Array
-        ? Buffer.from(bytes)
-        : Buffer.from(new Uint8Array(bytes))
-  return held.toString("base64").replaceAll("+", "-").replaceAll("/", "_").replaceAll("=", "")
 }
 
 export function pkcs8In(pem: string): Uint8Array<ArrayBuffer> {
