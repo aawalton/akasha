@@ -1,16 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync, readFileSync, statSync } from "node:fs"
+import { join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   bodiesFrom,
   keepDelta,
   reconcile,
-  sweptBeside,
   wholeOf,
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
-import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -148,83 +146,4 @@ test("the body an entry file holds is written the way a filing is answered", () 
   )
 
   expect(bodyAt(root, AT)).toBe(wholeOf(lines))
-})
-
-const STAMP = "stamp.jsonl"
-
-function indexAt(): string {
-  const under = indexIn(scratch.rootFor("akasha-swept-"))
-  mkdirSync(under, { recursive: true })
-  return under
-}
-
-const FILING = [UNDER]
-
-test("a file at the index's own top is taken away and the index's folders are left", () => {
-  const under = indexAt()
-  writeFileSync(join(under, STAMP), "{}\n")
-  writing(under, AT, "{}\n")
-
-  const taken = sweptBeside(under, true, FILING)
-
-  expect(taken).toEqual([join(under, STAMP)])
-  expect(existsSync(join(under, STAMP))).toBe(false)
-  expect(bodyAt(under, AT)).toBe("{}\n")
-})
-
-test("a folder at the index's own top that no index names goes away whole", () => {
-  const under = indexAt()
-  writing(under, AT, "{}\n")
-  writing(under, "gone/deep/one.jsonl", "{}\n")
-
-  const taken = sweptBeside(under, true, FILING)
-
-  expect(taken).toEqual([join(under, "gone")])
-  expect(existsSync(join(under, "gone"))).toBe(false)
-  expect(bodyAt(under, AT)).toBe("{}\n")
-})
-
-test("a folder beside the index opening with the index's name and a dot goes, and another stays", () => {
-  const under = indexAt()
-  const beside = dirname(under)
-  writing(beside, "indexes.refreshing.1/held/one.jsonl", "{}\n")
-  writing(beside, "index/one.jsonl", "{}\n")
-
-  const taken = sweptBeside(under, true, FILING)
-
-  expect(taken).toEqual([join(beside, "indexes.refreshing.1")])
-  expect(existsSync(join(beside, "indexes.refreshing.1"))).toBe(false)
-  expect(existsSync(join(beside, "index"))).toBe(true)
-})
-
-test("an index that is not there yet sweeps nothing rather than refusing", () => {
-  const root = scratch.rootFor("akasha-swept-")
-
-  expect(sweptBeside(indexIn(root), true, FILING)).toEqual([])
-})
-
-test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
-  const root = scratch.rootFor("akasha-swept-")
-  const under = join(root, "scratch")
-  writing(under, "one.jsonl", "{}\n")
-  writing(root, "indexes.other/one.jsonl", "{}\n")
-
-  const taken = sweptBeside(under, true, FILING)
-
-  expect(taken).toEqual([])
-  expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
-  expect(existsSync(join(root, "indexes.other"))).toBe(true)
-})
-
-test("a sweep putting nothing in place answers the paths and leaves them where they are", () => {
-  const under = indexAt()
-  const beside = dirname(under)
-  writeFileSync(join(under, STAMP), "{}\n")
-  writing(beside, "indexes.refreshing.1/held/one.jsonl", "{}\n")
-
-  const taken = sweptBeside(under, false, FILING)
-
-  expect(taken).toEqual([join(beside, "indexes.refreshing.1"), join(under, STAMP)].sort())
-  expect(existsSync(join(under, STAMP))).toBe(true)
-  expect(existsSync(join(beside, "indexes.refreshing.1"))).toBe(true)
 })

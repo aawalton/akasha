@@ -268,15 +268,14 @@ test("the report counts the indexes a difference falls under beside the files it
   expect(said(answer)).toMatch(/taken away — \S+ \d+ — /)
 })
 
-test("a dry run names a path belonging to no index and leaves that path alone", () => {
+test("a path belonging to no index is left where it is rather than swept", () => {
   const root = repoAt()
   seeded(root)
   const stray = join(root, indexNamed(), "athena-stray.jsonl")
   writeFileSync(stray, "{}\n")
-  const answer = indexRefresh(["--dry-run"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
-  expect(said(answer)).toContain("belonging to no index would be taken away")
-  expect(said(answer)).toContain("athena-stray.jsonl")
+  expect(said(answer)).not.toContain("athena-stray.jsonl")
   expect(existsSync(stray)).toBe(true)
 })
 

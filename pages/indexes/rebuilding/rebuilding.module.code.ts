@@ -1,20 +1,10 @@
-import {
-  existsSync,
-  mkdirSync,
-  readdirSync,
-  renameSync,
-  rmdirSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
-import { basename, dirname, join } from "node:path"
+import { existsSync, mkdirSync, renameSync, rmdirSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { INDEX_AT, indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
-
-const INDEX = basename(INDEX_AT)
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`
@@ -75,29 +65,6 @@ export function keepDelta(at: string, one: Filing, root: string): undefined {
   const lines = said.sort()
   if (was === (lines.length === 0 ? null : wholeOf(lines))) return
   keepWhole(at, lines, root)
-}
-
-export function sweptBeside(
-  root: string,
-  put: boolean,
-  named: readonly string[]
-): readonly string[] {
-  if (basename(root) !== INDEX || !existsSync(root)) return []
-  const filing = new Set(named)
-  const taken: string[] = []
-  for (const one of readdirSync(root, { withFileTypes: true })) {
-    if (one.isDirectory() && filing.has(one.name)) continue
-    const at = join(root, one.name)
-    if (put) rmSync(at, { recursive: true })
-    taken.push(at)
-  }
-  for (const one of readdirSync(dirname(root), { withFileTypes: true })) {
-    if (!one.isDirectory() || !one.name.startsWith(`${INDEX}.`)) continue
-    const at = join(dirname(root), one.name)
-    if (put) rmSync(at, { recursive: true })
-    taken.push(at)
-  }
-  return taken.sort()
 }
 
 export function reconcile(

@@ -80,41 +80,16 @@ export const rebuilding = {
       statement: "Where the index stands is derived from the repository root given here.",
     },
     {
-      invariantKind: "departure",
-      statement: "A file at the index's own top belongs to no index and is taken away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The names the indexes file under are handed to the sweep.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder at the index's own top under none of those names is taken away whole.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A folder beside the index whose name opens with the index's name and a dot is swept too.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That sweep answers only for the folder the index sits in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The paths answered are the same whether or not the sweep takes those paths away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An index that is not there yet sweeps nothing rather than refusing.",
+      invariantKind: "absence",
+      statement: "Nothing here takes away a path outside the entry files the pages imply.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides whether a rebuild should run.",
+      statement: "Nothing here decides whether a refresh should run.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says in words the change a rebuild made.",
+      statement: "Nothing here says in words the change a refresh made.",
     },
   ],
 } as const satisfies Module

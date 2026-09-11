@@ -4,7 +4,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { holding } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
-import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Drift } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
@@ -105,20 +105,12 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
   if (head === null) {
     return refusing([`no commit could be read from ${root}, so there is nothing to build over`], 3)
   }
-  const said = rebuiltWhole(root, tree, !read.dryRun)
+  const said = refreshedWhole(root, tree, !read.dryRun)
   const report = [
-    `the index was built over ${root} as it stands, at ${head}`,
+    `the index was brought level with ${root} as it is, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
     ...driftSaid(said.drift),
   ]
-  if (said.swept.length > 0) {
-    const many = counted(said.swept.length, "path")
-    report.push(
-      read.dryRun
-        ? `${many} belonging to no index would be taken away — ${named(said.swept)}`
-        : `took away ${many} belonging to no index — ${named(said.swept)}`
-    )
-  }
   report.push(
     read.dryRun
       ? `nothing was put in place — ${DRY_RUN}`

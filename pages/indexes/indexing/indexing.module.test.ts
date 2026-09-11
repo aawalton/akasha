@@ -10,7 +10,7 @@ import {
   scratch,
   thePage,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { indexingAt, rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   A,
   aSource,
@@ -283,14 +283,14 @@ test("a bare value narrowing to more than one page is refused rather than resolv
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
 })
 
-test("a rebuild from the pages agrees with the index a write left but for the reader", () => {
+test("a refresh from the pages agrees with the index a write left but for the reader", () => {
   const { landed, rebuilt } = worldsApart()
   expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
   expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
 })
 
-test("the rebuild names the reader that filed the rules and a write names none", () => {
+test("the refresh names the reader that filed the rules and a write names none", () => {
   const { landed, rebuilt } = stampsApart()
   expect(rebuilt.length).toBe(1)
   expect(rebuilt[0] ?? "").toContain(readerNow())
@@ -300,7 +300,7 @@ test("the rebuild names the reader that filed the rules and a write names none",
 test("pages carrying no property that declares a unique are refused rather than filed empty", () => {
   const { tree, root } = aWorldDeclaringNoUnique()
 
-  expect(() => rebuiltFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
+  expect(() => refreshedFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
 })
 
 test("a settle over pages declaring no unique is refused rather than filed empty", () => {
@@ -317,19 +317,19 @@ test("a settle over pages declaring no unique is refused rather than filed empty
 test("a world carrying a page and declaring no property at all is refused", () => {
   const { tree, root } = aWorldDeclaringNothing()
 
-  expect(() => rebuiltFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
+  expect(() => refreshedFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
 })
 
-test("a rebuild takes away an entry no page carries", () => {
+test("a refresh takes away an entry no page carries", () => {
   const { tree, root } = bare()
   put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
   put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
-  rebuiltFrom(tree, root, tree)
+  refreshedFrom(tree, root, tree)
 
   const stale = slugFile(root, "domain", "gone")
   mkdirSync(dirname(stale), { recursive: true })
   writeFileSync(stale, `${JSON.stringify({ path: "nowhere", id: C })}\n`)
-  rebuiltFrom(tree, root, tree)
+  refreshedFrom(tree, root, tree)
 
   expect(existsSync(stale)).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)

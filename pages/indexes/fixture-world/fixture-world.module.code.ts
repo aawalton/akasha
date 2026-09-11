@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
@@ -215,8 +215,8 @@ export function indexedRepo(named: Readonly<Record<string, string>> = {}): strin
     }
     git(held, ["add", "-A"])
     git(held, ["commit", "--quiet", "-m", "first"])
-    rebuiltWhole(held, join(held, TREE), true)
-    rebuiltWhole(held, join(held, TREE), true)
+    refreshedWhole(held, join(held, TREE), true)
+    refreshedWhole(held, join(held, TREE), true)
     BUILT[key] = held
   }
   const root = scratch.rootFor("akasha-indexed-")

@@ -20,7 +20,7 @@ import {
 import {
   type Indexing,
   indexingAt,
-  rebuiltFrom,
+  refreshedFrom,
 } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { listedByPath, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
@@ -117,7 +117,7 @@ function wrote(indexing: Indexing, tree: string, named: readonly Named[]): undef
   }
 }
 
-test("a rebuild from the pages agrees with the index a turned relation name left", () => {
+test("a refresh from the pages agrees with the index a turned relation name left", () => {
   const tree = heldAt()
   const root = heldAt()
   const first = indexingAt(root, tree)
@@ -136,7 +136,7 @@ test("a rebuild from the pages agrees with the index a turned relation name left
   expect(second.settle()).toEqual([])
 
   const rebuilt = heldAt()
-  rebuiltFrom(tree, rebuilt, tree)
+  refreshedFrom(tree, rebuilt, tree)
 
   expect(existsSync(edgeAt(root, "piece-slugs"))).toBe(true)
   expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
@@ -180,7 +180,7 @@ test("a relation an entry row states files an edge from the row's page", () => {
   expect(existsSync(edgeAt(root, "case-page"))).toBe(true)
 
   const rebuilt = heldAt()
-  rebuiltFrom(tree, rebuilt, tree)
+  refreshedFrom(tree, rebuilt, tree)
 
   expect(existsSync(edgeAt(rebuilt, "case-page"))).toBe(true)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
@@ -273,7 +273,7 @@ test("a file the page's type declares beside every such page is filed under that
   expect(listedByPath(settled.reading, HELD_TEST).map((one) => one.path)).toEqual([HELD_PAGE])
 })
 
-test("a rebuild agrees with the index a page taken from under a name left", () => {
+test("a refresh agrees with the index a page taken from under a name left", () => {
   const tree = heldAt()
   const root = heldAt()
   const first = indexingAt(root, tree)
@@ -288,7 +288,7 @@ test("a rebuild agrees with the index a page taken from under a name left", () =
   expect(second.settle()).toEqual([])
 
   const rebuilt = heldAt()
-  rebuiltFrom(tree, rebuilt, tree)
+  refreshedFrom(tree, rebuilt, tree)
 
   expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))

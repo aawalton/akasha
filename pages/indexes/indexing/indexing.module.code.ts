@@ -30,7 +30,6 @@ import {
   type Drift,
   keepDelta,
   reconcile,
-  sweptBeside,
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
@@ -67,8 +66,6 @@ const RULE = indexRule.name
 
 const VALUE = indexValue.name
 
-const FILING = [DECLARING_UNDER, IDENTITY, IMPORT, LISTED_UNDER, PATH, RELATION, RULE, VALUE]
-
 type Pending = {
   readonly before: string | null
   readonly after: string | null
@@ -80,12 +77,11 @@ export type Indexing = {
   readonly settle: () => readonly string[]
 }
 
-export type Rebuilt = {
+export type Refreshed = {
   readonly pages: number
   readonly entries: number
   readonly refused: readonly string[]
   readonly drift: Drift
-  readonly swept: readonly string[]
 }
 
 function drifting(said: readonly Drift[]): Drift {
@@ -96,7 +92,7 @@ function drifting(said: readonly Drift[]): Drift {
   }
 }
 
-export function rebuiltFrom(tree: string, root: string, repo: string, put = true): Rebuilt {
+export function refreshedFrom(tree: string, root: string, repo: string, put = true): Refreshed {
   if (put) mkdirSync(root, { recursive: true })
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
@@ -165,14 +161,11 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
       valued.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift),
-    swept: [],
   }
 }
 
-export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
-  const root = indexIn(repo)
-  const swept = sweptBeside(root, put, FILING)
-  return { ...rebuiltFrom(tree, root, repo, put), swept }
+export function refreshedWhole(repo: string, tree: string, put: boolean): Refreshed {
+  return refreshedFrom(tree, indexIn(repo), repo, put)
 }
 
 export function filedInto(root: string, filings: readonly Filing[]): undefined {

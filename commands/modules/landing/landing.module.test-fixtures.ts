@@ -24,7 +24,7 @@ import {
   butTheStamp,
   thePage,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { everythingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
@@ -389,7 +389,7 @@ export async function rebuiltBeside(): Promise<{
 }> {
   const root = await pageLanded(repoWith({ "seed.txt": "held" }))
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
-  rebuiltFrom(join(root, "akasha"), rebuilt, root)
+  refreshedFrom(join(root, "akasha"), rebuilt, root)
   return {
     filed: identityAmong(everythingFiled(root)),
     built: identityAmong(everyFileUnder(rebuilt)),

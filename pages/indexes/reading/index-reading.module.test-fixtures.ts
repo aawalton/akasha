@@ -18,7 +18,7 @@ import {
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
-import { rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -307,11 +307,11 @@ export function rebuiltIn(
   root: string,
   tree: string
 ): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
-  return rebuiltFrom(join(root, tree), indexIn(root), root)
+  return refreshedFrom(join(root, tree), indexIn(root), root)
 }
 
 export function rebuiltApart(root: string, tree: string, aside: string): readonly string[] {
-  rebuiltFrom(join(root, tree), aside, root)
+  refreshedFrom(join(root, tree), aside, root)
   return everyFileUnder(aside)
 }
 

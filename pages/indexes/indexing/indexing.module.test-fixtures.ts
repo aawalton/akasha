@@ -15,7 +15,7 @@ import {
   thePage,
   VOCABULARY,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { indexingAt, rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
@@ -166,7 +166,7 @@ export type Worlds = { readonly landed: string; readonly rebuilt: string }
 export function worldsApart(): Worlds {
   const { tree, root } = aWrittenWorld()
   const rebuilt = heldAt()
-  rebuiltFrom(tree, rebuilt, tree)
+  refreshedFrom(tree, rebuilt, tree)
   return { landed: root, rebuilt }
 }
 

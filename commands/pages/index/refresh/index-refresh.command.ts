@@ -14,7 +14,7 @@ export const indexRefresh = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is built over the repository as the repository stands.",
+      statement: "The index is brought level with the repository as the repository is.",
     },
     {
       invariantKind: "departure",
@@ -45,20 +45,8 @@ export const indexRefresh = {
       statement: "An entry that would not file is refused.",
     },
     {
-      invariantKind: "departure",
-      statement: "A path under the index belonging to no index is taken away before the repair.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A dry run takes no path away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A dry run names the paths that would be taken away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The report counts the paths taken away.",
+      invariantKind: "absence",
+      statement: "A refresh takes away no path outside the entry files the pages imply.",
     },
     {
       invariantKind: "departure",

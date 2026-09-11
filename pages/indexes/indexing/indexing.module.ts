@@ -19,7 +19,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild reads the index only to find the values no page has.",
+      statement: "A refresh reads the index only to find the values no page has.",
     },
     {
       invariantKind: "departure",
@@ -34,11 +34,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "A rebuild sets up the index the rebuild writes before the rebuild reads the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A rebuild sweeps the paths belonging to no index before filing an entry.",
+        "A refresh sets up the index the refresh writes before the refresh reads the index.",
     },
     {
       invariantKind: "departure",
