@@ -1,4 +1,5 @@
 import { readFile } from "node:fs/promises"
+import { join } from "node:path"
 import { getMountainMorningDayStr } from "akasha/alan/harness/day/mountain-day/mountain-day.module.code.ts"
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
@@ -13,6 +14,8 @@ import {
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
@@ -62,8 +65,13 @@ const DAY_PATTERN = /^\d{4}-\d{2}-\d{2}$/
 
 const TIME_PATTERN = /^(\d{1,2}):(\d{2})$/
 
-const NUTRITION_POINTS =
-  "../../../../alan/track/daily/nutrition-points/nutrition-points.module.code.ts"
+const NUTRITION_POINTS = "nutrition-points"
+
+const MODULE = "module"
+
+const CODE = "code"
+
+const TS = "ts"
 
 export type WallClock = { readonly hh: number; readonly mm: number }
 
@@ -336,7 +344,12 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   }
 
   try {
-    const nutrition: NutritionPoints = await import(NUTRITION_POINTS)
+    const page = listedAt(root, MODULE, NUTRITION_POINTS)[0]?.path
+    const at = page === undefined ? null : besideAt(page, CODE, TS)
+    if (at === null) {
+      throw new Error(`no \`${MODULE}\` page is filed under \`${NUTRITION_POINTS}\``)
+    }
+    const nutrition: NutritionPoints = await import(join(root, at))
     await nutrition.rollupNutritionForDay(dayStr)
   } catch (thrown) {
     missed(
