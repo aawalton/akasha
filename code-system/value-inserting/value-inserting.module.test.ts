@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { insertedInto } from "./value-inserting.module.code.ts"
+import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
 
 const AT = "akasha/one.thing.ts"
 
