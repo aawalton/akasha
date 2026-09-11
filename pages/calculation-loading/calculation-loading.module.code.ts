@@ -1,7 +1,7 @@
 import { dirname, join } from "node:path"
-import type { Work } from "../computed-properties/computed-property.page-type.ts"
-import type { Held } from "../computing/page-computing.module.code.ts"
-import { declaredIn } from "../value/page-value.module.code.ts"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
+import type { Held } from "akasha/pages/computing/page-computing.module.code.ts"
+import { declaredIn } from "akasha/pages/value/page-value.module.code.ts"
 
 const WORK = "work"
 

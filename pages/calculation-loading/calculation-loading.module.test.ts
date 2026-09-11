@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
-import type { Reach } from "../computed-properties/computed-property.page-type.ts"
-import type { Held } from "../computing/page-computing.module.code.ts"
-import { workIn } from "./calculation-loading.module.code.ts"
+import { workIn } from "akasha/pages/calculation-loading/calculation-loading.module.code.ts"
+import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
+import type { Held } from "akasha/pages/computing/page-computing.module.code.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }
 
