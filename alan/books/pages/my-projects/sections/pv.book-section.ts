@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const pv = {
   id: "01a06594-c68e-7009-a59b-6648b4222722",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "pv",
   title: "PV Sizing for Annual Net-Zero",

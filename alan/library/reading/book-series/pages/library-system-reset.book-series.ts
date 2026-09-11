@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const librarySystemReset = {
   id: "019db533-f38b-7812-b982-b05ab34ed8f5",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "library-system-reset",
   title: "Library System Reset",

@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const missionBreak = {
   id: "01a06594-c67b-7008-b871-43f8136ae0c8",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "mission-break",
   title: "The mission break",

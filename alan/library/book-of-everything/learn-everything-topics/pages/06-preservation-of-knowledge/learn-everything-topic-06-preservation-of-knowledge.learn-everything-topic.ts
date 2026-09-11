@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic06PreservationOfKnowledge = {
   id: "01a065a7-085b-701c-ab92-54b4e4a7e847",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-06-preservation-of-knowledge",
   node: "The Branches of Knowledge › Preservation of Knowledge",

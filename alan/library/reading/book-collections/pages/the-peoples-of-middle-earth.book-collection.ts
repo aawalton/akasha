@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const thePeoplesOfMiddleEarth = {
   id: "01a06808-148f-702c-8d1d-1c29fbe9c757",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-peoples-of-middle-earth",
   title: "The Peoples of Middle-earth",

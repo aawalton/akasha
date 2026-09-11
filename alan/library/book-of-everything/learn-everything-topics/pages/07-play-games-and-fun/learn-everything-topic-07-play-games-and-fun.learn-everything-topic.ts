@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic07PlayGamesAndFun = {
   id: "01a065a7-0855-7016-9876-76588c12f139",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-07-play-games-and-fun",
   node: "Human Life › Human Behavior and Experience › Play, Games, and Fun",

@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const chalion = {
   id: "019db533-f39a-701f-8aee-ee3bc821974f",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "chalion",
   title: "Chalion",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic07TheWorldSince1920 = {
   id: "01a065a7-085a-7018-ad95-c725ac4e2aa5",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-07-the-world-since-1920",
   node: "The History of Mankind › The World Since 1920",

@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theTwoTowers = {
   id: "01a06808-148f-7034-a837-b4255131191d",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-two-towers",
   title: "The Two Towers",

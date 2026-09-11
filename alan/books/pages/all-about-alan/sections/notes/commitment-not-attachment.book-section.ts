@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const commitmentNotAttachment = {
   id: "01a06594-c676-700d-a590-5ab51251505b",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "commitment-not-attachment",
   title: "Commitment, not attachment",

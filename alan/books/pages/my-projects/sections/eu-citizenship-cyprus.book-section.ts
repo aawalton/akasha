@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const euCitizenshipCyprus = {
   id: "01a06594-c687-7012-ba21-6e45e0143ad9",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "eu-citizenship-cyprus",
   title: "Cypriot Citizenship Paths (May 2026)",

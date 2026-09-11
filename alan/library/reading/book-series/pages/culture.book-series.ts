@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const culture = {
   id: "019db533-f39b-7558-925b-19295854ad8d",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "culture",
   title: "Culture",

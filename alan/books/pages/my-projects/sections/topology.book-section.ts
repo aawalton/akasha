@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const topology = {
   id: "01a06594-c68e-700b-ba2c-fede3797092d",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "topology",
   title: "Inverter Topology and Service-Panel Decision",

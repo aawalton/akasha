@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const milesVorsokigan = {
   id: "019db533-f39b-75b0-bc4d-ff5e26ace8ed",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "miles-vorsokigan",
   title: "Miles Vorsokigan",

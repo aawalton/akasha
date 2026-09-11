@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const toRead = {
   id: "01a06808-148f-7037-b509-e773689b474e",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "to-read",
   title: "To Read",

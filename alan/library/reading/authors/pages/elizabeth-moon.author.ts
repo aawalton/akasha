@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const elizabethMoon = {
   id: "01a06807-f091-700d-8cbe-5d617347ad60",
-  pageTypeSlug: "author",
   type: "author",
   slug: "elizabeth-moon",
   title: "Elizabeth Moon",

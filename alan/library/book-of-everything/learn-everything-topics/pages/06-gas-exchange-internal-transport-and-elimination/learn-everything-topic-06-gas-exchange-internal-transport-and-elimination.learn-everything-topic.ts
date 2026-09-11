@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic06GasExchangeInternalTransportAndElimination = {
   id: "01a065a7-0854-7012-894b-d93ebcba36ad",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-06-gas-exchange-internal-transport-and-elimination",
   node: "Life on Earth › The Structures and Functions of Organisms › Gas Exchange, Internal Transport, and Elimination",

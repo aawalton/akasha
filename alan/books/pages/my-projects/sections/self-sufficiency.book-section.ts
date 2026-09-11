@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const selfSufficiency = {
   id: "01a06594-c68d-7007-bd5c-3bc121fc6d03",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "self-sufficiency",
   title: "Self-Sufficiency Implications",

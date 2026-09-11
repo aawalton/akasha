@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const meditativeBreathing = {
   id: "01a06594-c67b-7006-8f63-4738ae90c27e",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "meditative-breathing",
   title: "Meditative breathing",

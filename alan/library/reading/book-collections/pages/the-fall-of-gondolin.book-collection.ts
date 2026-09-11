@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theFallOfGondolin = {
   id: "01a06808-148f-7022-8aed-b2d5df73b818",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-fall-of-gondolin",
   title: "The Fall of Gondolin",

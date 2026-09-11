@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const bookChapter001TwoChannels = {
   id: "01a06594-c68f-7001-bed1-b81da26c402c",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "book-chapter-001-two-channels",
   title: "The two channels",

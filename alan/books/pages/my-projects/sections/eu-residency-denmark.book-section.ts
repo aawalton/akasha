@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const euResidencyDenmark = {
   id: "01a06594-c689-700b-be14-d378fa7915ca",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "eu-residency-denmark",
   title: "Denmark",

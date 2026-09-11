@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const gradingScale = {
   id: "01a06594-c67a-7002-8289-094f32f578cf",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "grading-scale",
   title: "Grading scale",

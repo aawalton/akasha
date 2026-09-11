@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const degradationSystem = {
   id: "01a06594-c68c-700e-9b18-24b710ce2d62",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "degradation-system",
   title: "Degradation, ILR, Albedo, Structural, UV",

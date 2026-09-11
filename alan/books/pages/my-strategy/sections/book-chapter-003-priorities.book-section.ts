@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const bookChapter003Priorities = {
   id: "01a06594-c68f-7003-8e17-f477f99cb9e5",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "book-chapter-003-priorities",
   title: "The two orderings",

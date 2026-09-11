@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const national = {
   id: "01a06594-c68d-7015-89b5-ae0c218f5068",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "national",
   title: "National Installers",

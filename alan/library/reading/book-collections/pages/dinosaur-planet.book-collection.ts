@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const dinosaurPlanet = {
   id: "01a06808-148e-7017-aca4-e8456095c014",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "dinosaur-planet",
   title: "Dinosaur Planet",

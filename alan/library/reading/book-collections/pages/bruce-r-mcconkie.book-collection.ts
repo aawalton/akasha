@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const bruceRMcconkie = {
   id: "01a06808-148e-700e-9ed9-e6f80856bceb",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "bruce-r-mcconkie",
   title: "Bruce R. McConkie",

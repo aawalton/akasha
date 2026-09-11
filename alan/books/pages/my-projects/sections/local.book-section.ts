@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const local = {
   id: "01a06594-c68d-7014-9386-9dc43e23e31d",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "local",
   title: "Local Utah Installers",

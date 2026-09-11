@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const costCurve = {
   id: "01a06594-c68e-7001-aac5-34abc63cc5e9",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "cost-curve",
   title: "Cost Curve — Past 15 Years",

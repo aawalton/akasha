@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const empathyAlexithymiaParadox = {
   id: "01a06594-c678-7001-a228-648a3d457a9b",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "empathy-alexithymia-paradox",
   title: "Empathy + alexithymia paradox",

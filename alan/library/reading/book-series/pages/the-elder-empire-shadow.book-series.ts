@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theElderEmpireShadow = {
   id: "019db533-f39b-7435-b5cb-f63a0eb674c0",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "the-elder-empire-shadow",
   title: "The Elder Empire - Shadow",

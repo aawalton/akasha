@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const emotionalArchaeology = {
   id: "01a06594-c678-7000-b9b3-7bed25eebb83",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "emotional-archaeology",
   title: "Emotional Archaeology",

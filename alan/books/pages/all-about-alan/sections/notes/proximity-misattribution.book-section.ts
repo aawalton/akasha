@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const proximityMisattribution = {
   id: "01a06594-c67c-7007-8371-3c14d8b6bc92",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "proximity-misattribution",
   title: "Proximity misattribution — the pain ratchet",

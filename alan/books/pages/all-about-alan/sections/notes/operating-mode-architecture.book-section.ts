@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const operatingModeArchitecture = {
   id: "01a06594-c67b-7011-910c-e8c5b7882274",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "operating-mode-architecture",
   title: "Operating-mode architecture",

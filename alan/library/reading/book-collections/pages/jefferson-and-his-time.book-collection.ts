@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const jeffersonAndHisTime = {
   id: "01a06808-148f-7001-bee1-ecd74d5a1354",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "jefferson-and-his-time",
   title: "Jefferson & His Time",

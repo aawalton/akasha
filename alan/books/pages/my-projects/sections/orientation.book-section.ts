@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const orientation = {
   id: "01a06594-c68d-7000-93cd-e9cc6c9b6e20",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "orientation",
   title: "Tilt and Azimuth (POA Irradiance)",

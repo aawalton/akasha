@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const thomasSMonson = {
   id: "01a06807-f091-702c-a90f-e6bf9e4c8286",
-  pageTypeSlug: "author",
   type: "author",
   slug: "thomas-s-monson",
   title: "Thomas S. Monson",

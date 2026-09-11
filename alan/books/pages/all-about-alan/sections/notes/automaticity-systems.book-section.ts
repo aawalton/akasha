@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const automaticitySystems = {
   id: "01a06594-c675-7008-a35b-e6ddcd306013",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "automaticity-systems",
   title: "Automaticity systems",

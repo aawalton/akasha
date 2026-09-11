@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const robertLangdon = {
   id: "019db533-f39b-742d-a243-e8aac1de6a75",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "robert-langdon",
   title: "Robert Langdon",

@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const dynamicFeedback = {
   id: "01a06594-c677-7014-8512-2f4fa4582cb3",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "dynamic-feedback",
   title: "Dynamic feedback loop",

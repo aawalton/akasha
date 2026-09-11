@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const beingKnownCost = {
   id: "01a06594-c675-7012-9692-169389c12da2",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "being-known-cost",
   title: "Being-known cost",

@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const hyperionCantos = {
   id: "019db533-f39b-7510-bb6f-c764ae5a23dc",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "hyperion-cantos",
   title: "Hyperion Cantos",

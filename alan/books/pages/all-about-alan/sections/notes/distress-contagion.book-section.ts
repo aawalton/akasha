@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const distressContagion = {
   id: "01a06594-c677-7011-826f-c28188edfffa",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "distress-contagion",
   title: "Distress contagion — a conditioned threat forecast",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic09HeredityTheTransmissionOfTraits = {
   id: "01a065a7-0854-7015-bd7c-ee1b0497ec74",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-09-heredity-the-transmission-of-traits",
   node: "Life on Earth › The Structures and Functions of Organisms › Heredity: the Transmission of Traits",

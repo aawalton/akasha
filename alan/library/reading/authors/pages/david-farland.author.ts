@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const davidFarland = {
   id: "01a06807-f091-7009-9da3-3d4d16a8abee",
-  pageTypeSlug: "author",
   type: "author",
   slug: "david-farland",
   title: "David Farland",

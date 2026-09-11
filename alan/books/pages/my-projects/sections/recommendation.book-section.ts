@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const recommendation = {
   id: "01a06594-c68e-700a-868f-f38ca52044c1",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "recommendation",
   title: "Sensitivity and Recommendation",

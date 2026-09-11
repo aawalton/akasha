@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const nervousSystemSensitivity = {
   id: "01a06594-c67b-700d-bbf5-f150c9523c9b",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "nervous-system-sensitivity",
   title: "Mechanism root: nervous-system sensitivity",

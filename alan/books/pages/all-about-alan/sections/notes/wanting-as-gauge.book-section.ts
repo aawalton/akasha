@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const wantingAsGauge = {
   id: "01a06594-c686-7003-935c-1952b4a3c47b",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "wanting-as-gauge",
   title: "Wanting as a gauge",

@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const ruby = {
   id: "01a06594-c687-7007-91e2-69fc7d387a34",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "ruby",
   title: "Ruby",

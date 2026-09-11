@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const euCitizenshipHungary = {
   id: "01a06594-c688-7007-bb9d-345f54458eeb",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "eu-citizenship-hungary",
   title: "Hungarian Citizenship Paths",

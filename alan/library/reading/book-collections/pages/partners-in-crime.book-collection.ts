@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const partnersInCrime = {
   id: "01a06808-148f-7007-a617-57d07f3516f1",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "partners-in-crime",
   title: "Partners in Crime",

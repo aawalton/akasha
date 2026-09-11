@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const danBrown = {
   id: "01a06807-f091-7005-99a3-b9b3592c2280",
-  pageTypeSlug: "author",
   type: "author",
   slug: "dan-brown",
   title: "Dan Brown",

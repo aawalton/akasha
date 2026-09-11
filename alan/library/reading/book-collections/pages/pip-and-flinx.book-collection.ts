@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const pipAndFlinx = {
   id: "01a06808-148f-7009-8949-aae58e14acc0",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "pip-and-flinx",
   title: "Pip & Flinx",

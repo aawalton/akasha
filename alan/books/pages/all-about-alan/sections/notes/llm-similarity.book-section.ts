@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const llmSimilarity = {
   id: "01a06594-c67a-7019-868c-cb32cdba5300",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "llm-similarity",
   title: "LLM-similarity",

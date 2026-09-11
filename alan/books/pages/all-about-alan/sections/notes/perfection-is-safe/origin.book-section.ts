@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const origin = {
   id: "01a06594-c67b-7015-b11f-0b6fe25435b7",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "origin",
   title: "Origin — the dig site",

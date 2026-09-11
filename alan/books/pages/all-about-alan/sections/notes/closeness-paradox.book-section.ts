@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const closenessParadox = {
   id: "01a06594-c676-700b-8ada-79196b7ec20b",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "closeness-paradox",
   title: "The closeness paradox",

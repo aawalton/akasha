@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const sleepOnsetAttention = {
   id: "01a06594-c684-7003-804a-53c17726c79c",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "sleep-onset-attention",
   title: "Sleep-onset attention",

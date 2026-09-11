@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const presentTenseModel = {
   id: "01a06594-c67c-7006-a146-7d12fa444c1a",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "present-tense-model",
   title: "Present-tense conceptual model",

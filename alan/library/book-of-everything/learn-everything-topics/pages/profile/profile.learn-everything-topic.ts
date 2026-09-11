@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const profile = {
   id: "01a065a7-085b-701e-8335-c90f8b9e72d8",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "profile",
   node: "Everything",

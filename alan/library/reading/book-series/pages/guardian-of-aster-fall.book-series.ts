@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const guardianOfAsterFall = {
   id: "019db533-f38b-7854-9f97-eac6af7a6bb4",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "guardian-of-aster-fall",
   title: "Guardian of Aster Fall",

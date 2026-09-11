@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const resource = {
   id: "01a06594-c68d-7002-82b7-c6c949575efb",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "resource",
   title: "Solar Resource at Provo",

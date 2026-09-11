@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const safehold = {
   id: "019db533-f39b-74d8-b284-e96915727ae7",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "safehold",
   title: "Safehold",

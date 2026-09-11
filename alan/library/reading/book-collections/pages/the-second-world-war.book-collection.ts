@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theSecondWorldWar = {
   id: "01a06808-148f-702f-a067-53ad9c185fc5",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-second-world-war",
   title: "The Second World War",

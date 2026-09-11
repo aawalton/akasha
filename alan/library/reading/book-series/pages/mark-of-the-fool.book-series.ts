@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const markOfTheFool = {
   id: "019db533-f38b-780a-8ba1-db12a381b93a",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "mark-of-the-fool",
   title: "Mark of the Fool",

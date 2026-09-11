@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const bookOfMormonEvidence = {
   id: "01a06594-c675-7015-85dd-2d7913784b1e",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "book-of-mormon-evidence",
   title: "Book of Mormon evidence",

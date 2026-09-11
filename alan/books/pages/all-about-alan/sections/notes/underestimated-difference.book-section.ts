@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const underestimatedDifference = {
   id: "01a06594-c685-700c-bf84-4e3291bc4b34",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "underestimated-difference",
   title: "Underestimated difference",

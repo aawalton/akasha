@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const bornInTheApocalypse = {
   id: "019db533-f38b-78c0-9511-43efe9a4bb8c",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "born-in-the-apocalypse",
   title: "Born in the Apocalypse",

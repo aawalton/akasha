@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const computers = {
   id: "01a06594-c68d-7004-b389-d504ed1464d2",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "computers",
   title: "12 Gaming Computers",

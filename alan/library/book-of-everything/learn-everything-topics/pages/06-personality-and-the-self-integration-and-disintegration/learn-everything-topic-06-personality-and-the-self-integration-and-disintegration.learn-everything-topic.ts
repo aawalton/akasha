@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic06PersonalityAndTheSelfIntegrationAndDisintegration = {
   id: "01a065a7-0855-7015-86cc-848b5ae98d63",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-06-personality-and-the-self-integration-and-disintegration",
   node: "Human Life › Human Behavior and Experience › Personality and the Self: Integration and Disintegration",

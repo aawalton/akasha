@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const otherCitizenshipUruguay = {
   id: "01a06594-c68b-700b-b32a-63430ebcc149",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "other-citizenship-uruguay",
   title: "Uruguay",

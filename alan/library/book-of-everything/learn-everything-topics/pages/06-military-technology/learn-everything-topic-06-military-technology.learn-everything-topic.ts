@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic06MilitaryTechnology = {
   id: "01a065a7-0856-7029-aaf7-d871ed47a31c",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-06-military-technology",
   node: "Technology › Fields of Technology › Military Technology",

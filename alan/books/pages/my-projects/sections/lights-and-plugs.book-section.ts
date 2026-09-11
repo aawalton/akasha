@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const lightsAndPlugs = {
   id: "01a06594-c68d-7006-9ac2-cbf5c585c530",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "lights-and-plugs",
   title: "Lighting + Plug Loads (non-gaming)",

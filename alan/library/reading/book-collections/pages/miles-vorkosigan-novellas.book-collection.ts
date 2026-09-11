@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const milesVorkosiganNovellas = {
   id: "01a06808-148f-7003-baf4-75d79e4989d8",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "miles-vorkosigan-novellas",
   title: "Miles Vorkosigan Novellas",

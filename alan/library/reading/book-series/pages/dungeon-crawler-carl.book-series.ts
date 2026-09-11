@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const dungeonCrawlerCarl = {
   id: "019db533-f38b-7871-a1b2-5b7f80eedb0a",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "dungeon-crawler-carl",
   title: "Dungeon Crawler Carl",

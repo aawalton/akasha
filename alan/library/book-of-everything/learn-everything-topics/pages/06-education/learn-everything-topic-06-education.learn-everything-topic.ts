@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic06Education = {
   id: "01a065a7-0855-7032-b0e0-7ac2c89455ce",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-06-education",
   node: "Human Society › Education",

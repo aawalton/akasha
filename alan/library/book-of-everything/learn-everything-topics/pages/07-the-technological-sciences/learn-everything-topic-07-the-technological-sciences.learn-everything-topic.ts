@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic07TheTechnologicalSciences = {
   id: "01a065a7-085b-7014-bc19-4728412378bc",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-07-the-technological-sciences",
   node: "The Branches of Knowledge › Science › The Technological Sciences",

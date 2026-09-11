@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const brainAndBrawnShip = {
   id: "01a06808-148e-7009-8596-d4b5153081b8",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "brain-and-brawn-ship",
   title: "Brain & Brawn Ship",

@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theBookOfLostTalesPartTwo = {
   id: "01a06808-148f-7018-b956-1e1870c925bd",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-book-of-lost-tales-part-two",
   title: "The Book of Lost Tales, Part Two",

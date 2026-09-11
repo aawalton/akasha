@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const music = {
   id: "01a06594-c67b-700b-91eb-b7259ce4c0e7",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "music",
   title: "Music as cross-cutting bridge",

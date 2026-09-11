@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const apocalypseHealer = {
   id: "019db533-f38b-7929-a36a-8c5e377a493d",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "apocalypse-healer",
   title: "Apocalypse Healer",

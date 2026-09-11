@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const rwbyTheOfficialManga = {
   id: "019db533-f38b-71e5-82f0-e5e81fd936de",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "rwby-the-official-manga",
   title: "RWBY: The Official Manga",

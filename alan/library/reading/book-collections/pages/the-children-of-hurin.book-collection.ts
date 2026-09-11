@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theChildrenOfHurin = {
   id: "01a06808-148f-7019-a11e-86edce2c119c",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-children-of-hurin",
   title: "The Children of Húrin",

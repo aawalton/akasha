@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const heberJGrant = {
   id: "01a06807-f091-7013-ab61-188204f6910c",
-  pageTypeSlug: "author",
   type: "author",
   slug: "heber-j-grant",
   title: "Heber J. Grant",

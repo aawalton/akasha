@@ -3,7 +3,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 export const learnEverythingTopic06MechanicsOfParticlesRigidAndDeformableBodiesElasticityVibration =
   {
     id: "01a065a7-084d-7009-9da9-7989c5a61216",
-    pageTypeSlug: "learn-everything-topic",
     type: "learn-everything-topic",
     slug: "learn-everything-topic-06-mechanics-of-particles-rigid-and-deformable-bodies-elasticity-vibration",
     node: "Matter and Energy › Energy, Radiation, and States of Matter › Mechanics of Particles, Rigid and Deformable Bodies: Elasticity, Vibration, and Flow",

@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theReturnOfTheKing = {
   id: "01a06808-148f-702d-b46e-1f8d94e67a85",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-return-of-the-king",
   title: "The Return of the King",

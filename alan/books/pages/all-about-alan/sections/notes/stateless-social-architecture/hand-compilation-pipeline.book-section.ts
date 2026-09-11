@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const handCompilationPipeline = {
   id: "01a06594-c684-700c-8743-ce74889caaf3",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "hand-compilation-pipeline",
   title: "Hand-compilation pipeline",

@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const kimStanleyRobinson = {
   id: "01a06807-f091-7021-9de1-7673daac0adf",
-  pageTypeSlug: "author",
   type: "author",
   slug: "kim-stanley-robinson",
   title: "Kim Stanley Robinson",

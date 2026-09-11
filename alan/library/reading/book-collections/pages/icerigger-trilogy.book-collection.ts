@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const iceriggerTrilogy = {
   id: "01a06808-148e-702c-aa1d-3b992d1c6307",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "icerigger-trilogy",
   title: "Icerigger Trilogy",

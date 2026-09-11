@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const crossGenderInteractionMap = {
   id: "01a06594-c677-700b-8e01-45da35bfd514",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "cross-gender-interaction-map",
   title: "Cross-gender interaction map",

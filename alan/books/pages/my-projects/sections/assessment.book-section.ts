@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const assessment = {
   id: "01a06594-c68d-700c-9ddb-6b1adb48d132",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "assessment",
   title: "Envelope Assessment Options",

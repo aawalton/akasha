@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theShapingOfMiddleEarth = {
   id: "01a06808-148f-7030-80ab-dad071276e0b",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "the-shaping-of-middle-earth",
   title: "The Shaping of Middle-earth",

@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const jimButcher = {
   id: "01a06807-f091-701b-aa03-5b9535b67921",
-  pageTypeSlug: "author",
   type: "author",
   slug: "jim-butcher",
   title: "Jim Butcher",

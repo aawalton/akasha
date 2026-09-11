@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const focusDiffuseAlternation = {
   id: "01a06594-c679-700f-9a74-3acbf40957a9",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "focus-diffuse-alternation",
   title: "Focus/diffuse alternation",

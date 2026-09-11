@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const lorenzoSnow = {
   id: "01a06807-f091-7024-a738-da829b2cd954",
-  pageTypeSlug: "author",
   type: "author",
   slug: "lorenzo-snow",
   title: "Lorenzo Snow",

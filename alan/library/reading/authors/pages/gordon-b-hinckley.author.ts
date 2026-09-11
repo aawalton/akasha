@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const gordonBHinckley = {
   id: "01a06807-f091-7011-9d39-7e1cd987932e",
-  pageTypeSlug: "author",
   type: "author",
   slug: "gordon-b-hinckley",
   title: "Gordon B. Hinckley",

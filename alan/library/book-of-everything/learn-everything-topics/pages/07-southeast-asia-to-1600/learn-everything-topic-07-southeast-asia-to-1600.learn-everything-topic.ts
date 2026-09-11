@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic07SoutheastAsiaTo1600 = {
   id: "01a065a7-0857-7022-a2f8-3567f0d3dd46",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-07-southeast-asia-to-1600",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › Southeast Asia to 1600",

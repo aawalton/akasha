@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const alternativeGatedEndurance = {
   id: "01a06594-c674-700c-8417-e06319ad02a6",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "alternative-gated-endurance",
   title: "Alternative-gated endurance",

@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const riseOfTheDevourer = {
   id: "019db533-f38b-7986-977c-6ea90890ca15",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "rise-of-the-devourer",
   title: "Rise of the Devourer",

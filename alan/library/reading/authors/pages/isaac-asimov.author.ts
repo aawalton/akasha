@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const isaacAsimov = {
   id: "01a06807-f091-7016-b880-c6b56f10357f",
-  pageTypeSlug: "author",
   type: "author",
   slug: "isaac-asimov",
   title: "Isaac Asimov",

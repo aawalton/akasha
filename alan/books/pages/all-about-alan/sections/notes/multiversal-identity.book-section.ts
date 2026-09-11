@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const multiversalIdentity = {
   id: "01a06594-c67b-700a-ad4a-da78a4616ee3",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "multiversal-identity",
   title: "Multiversal identity",

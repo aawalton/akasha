@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theCompletionistChronicles = {
   id: "019db533-f38b-7698-85c2-d9a4c89f6c73",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "the-completionist-chronicles",
   title: "The Completionist Chronicles",

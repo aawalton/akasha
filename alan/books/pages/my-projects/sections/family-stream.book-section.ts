@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const familyStream = {
   id: "01a06594-c68b-700f-8e82-f7182a126e4d",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "family-stream",
   title: "Family Stream",

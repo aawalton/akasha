@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const agathaChristie = {
   id: "01a06807-f090-7000-8517-02da4478e7e9",
-  pageTypeSlug: "author",
   type: "author",
   slug: "agatha-christie",
   title: "Agatha Christie",

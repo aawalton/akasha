@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const visualSensitivityBundle = {
   id: "01a06594-c686-7000-901b-c7b8423ef6b7",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "visual-sensitivity-bundle",
   title: "Visual-sensitivity bundle",

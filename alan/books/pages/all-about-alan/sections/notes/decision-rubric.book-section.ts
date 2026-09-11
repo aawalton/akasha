@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const decisionRubric = {
   id: "01a06594-c677-700d-a581-5b89bdc902ac",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "decision-rubric",
   title: "Decision rubric",

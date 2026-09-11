@@ -2,7 +2,6 @@ import type { Author } from "akasha/alan/library/reading/authors/author.page-typ
 
 export const jeffreyRHolland = {
   id: "01a06807-f091-701a-852a-8bb2f9feeb23",
-  pageTypeSlug: "author",
   type: "author",
   slug: "jeffrey-r-holland",
   title: "Jeffrey R. Holland",

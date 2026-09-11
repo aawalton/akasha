@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const consentWeighting = {
   id: "01a06594-c675-7009-b1f8-9848b5a23f35",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "consent-weighting",
   title: "Consent-weighting — the keystone",

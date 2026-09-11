@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const ephemeralSelf = {
   id: "01a06594-c679-7004-9206-df782ef33c0b",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "ephemeral-self",
   title: "The ephemeral self",

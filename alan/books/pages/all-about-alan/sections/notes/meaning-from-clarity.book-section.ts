@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const meaningFromClarity = {
   id: "01a06594-c67b-7003-823c-3ffdd15af58d",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "meaning-from-clarity",
   title: "Meaning from clarity",

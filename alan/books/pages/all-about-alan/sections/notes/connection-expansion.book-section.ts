@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const connectionExpansion = {
   id: "01a06594-c677-7003-a5f5-e802dc32f635",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "connection-expansion",
   title: "Connection expansion",

@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const whatCanBeSaid = {
   id: "01a06594-c68e-7017-9a4c-626e6985ba96",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "what-can-be-said",
   title: "What can be said about an illegible number",

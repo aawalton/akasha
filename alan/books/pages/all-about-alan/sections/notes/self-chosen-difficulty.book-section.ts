@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const selfChosenDifficulty = {
   id: "01a06594-c683-7003-8b32-ac82f661a103",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "self-chosen-difficulty",
   title: "Self-chosen difficulty",

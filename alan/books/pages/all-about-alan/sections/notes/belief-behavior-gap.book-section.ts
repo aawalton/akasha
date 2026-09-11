@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const beliefBehaviorGap = {
   id: "01a06594-c675-7014-adda-b84e3ad17d3e",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "belief-behavior-gap",
   title: "The belief→behavior gap",

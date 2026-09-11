@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const efficiencyFactors = {
   id: "01a06594-c68d-7003-b765-d0f850b5a956",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "efficiency-factors",
   title: "Rooftop Solar Efficiency Factors (Provo, UT)",

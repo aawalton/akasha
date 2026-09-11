@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const abstractionMap = {
   id: "01a06594-c68e-700d-b690-848031a7a0ed",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "abstraction-map",
   title: "Domain abstraction map — The Book of Mormon (Layer 1)",

@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const foundationsAndSafety = {
   id: "01a06594-c679-7011-a7ac-7e5ff757b00c",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "foundations-and-safety",
   title: "Foundations and Safety",

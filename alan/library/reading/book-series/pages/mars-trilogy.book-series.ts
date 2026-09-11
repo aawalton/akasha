@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const marsTrilogy = {
   id: "019db533-f39b-7508-81a3-0080d5914a47",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "mars-trilogy",
   title: "Mars Trilogy",

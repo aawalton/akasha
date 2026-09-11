@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const suicidalIdeation = {
   id: "01a06594-c685-7001-ab9a-81027250ae7a",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "suicidal-ideation",
   title: "Suicidal ideation",

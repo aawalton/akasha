@@ -2,7 +2,6 @@ import type { BookSection } from "akasha/alan/library/reading/book-sections/book
 
 export const recognitionVsRecall = {
   id: "01a06594-c67c-700a-a09f-3f2fba75a379",
-  pageTypeSlug: "book-section",
   type: "book-section",
   slug: "recognition-vs-recall",
   title: "Recognition vs. Recall",

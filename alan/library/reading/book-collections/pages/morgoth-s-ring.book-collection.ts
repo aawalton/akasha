@@ -2,7 +2,6 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const morgothSRing = {
   id: "01a06808-148f-7005-850e-ae480c0fa1b3",
-  pageTypeSlug: "book-collection",
   type: "book-collection",
   slug: "morgoth-s-ring",
   title: "Morgoth's Ring",
