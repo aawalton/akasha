@@ -8,4 +8,5 @@ export const bootstrapNamespace = {
   definition: "a workspace's namespace, manifests, secrets and CI role put up for the first time",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
