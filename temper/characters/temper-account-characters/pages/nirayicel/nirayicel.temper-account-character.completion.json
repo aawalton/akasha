@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHLIkAAIBhxRNCyJtQsibULmC1C5gtQuYLULmC1C5gtEJSrUEdvUQQbtJiUx2xEEx1sAAAHN0RayABNgAAAAAABE8AAyzlUgFAGWpTgAAAG4AECEKgKJwg9AHYADmQBKC4pUBDJoFojMxIwgYAQCCc5HKRgQdIUYBg4AAAAA1IsScMrHkyy5k2dn0adWvbPoUaVOp4qgAAAAbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1gAAAAGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATQHLIkAAIBhxRNCyJtQsibULmC1C5gtQuYLULmC1C5gtEJSrUEdvUQQbtJiUx2xEEx1sAAAHN0RayABNgAAAAAABE8AAyzlUgFAGWpTgAAAG4AECEKgKJwg9AHYADmQBKC4pUBDJoFojMxIwgYAQCCc5HKRgQdIUYBg4AAAAA1IsScMrHkyy5k2dn0adWvbPoUaVOp4qgAAAAbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1gAAAAGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -13632,12 +13632,12 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-10"
+    "date": "2026-09-11",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
-      "1": 1,
+      "1": 6,
       "2": 7,
       "3": 6,
       "4": 2,
@@ -13654,7 +13654,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   "motifKnowledge": {
     "1": {
