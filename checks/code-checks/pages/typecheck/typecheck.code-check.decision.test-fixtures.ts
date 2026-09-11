@@ -1,16 +1,42 @@
 import { mkdirSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import {
+  reachedBy,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"
+import {
   bodied,
   change,
   named,
   staged,
 } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   pathFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+
+export async function judged(one: Change): Promise<readonly Judged[]> {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return await refusalsOver(one, cast.shadow)
+}
+
+export function reached(one: Change): readonly string[] {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return reachedBy(one, cast.shadow.index)
+}
+
+export async function over(
+  root: string,
+  path: string,
+  body: string | null
+): Promise<readonly Judged[]> {
+  return await judged(change(root, { [path]: body }))
+}
 
 const GENERATED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299145"
 

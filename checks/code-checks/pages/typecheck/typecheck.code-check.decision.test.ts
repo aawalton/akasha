@@ -30,15 +30,18 @@ import {
   HERE,
   holding,
   IMPORTS_TYPEGEN,
+  judged,
   LOADED_AT,
   MADE,
   moving,
   noting,
   numbered,
   ONE_NUMBER,
+  over,
   packaging,
   pairing,
   READER_AT,
+  reached,
   reading,
   THING_AT,
   TWO_BREAKS,
@@ -49,28 +52,10 @@ import {
   WRONG,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import { change, scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
-import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
-
-async function judged(one: Change): Promise<readonly Judged[]> {
-  const cast = shadowFor(one)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return await refusalsOver(one, cast.shadow)
-}
-
-function reached(one: Change): readonly string[] {
-  const cast = shadowFor(one)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return reachedBy(one, cast.shadow.index)
-}
-
-async function over(root: string, path: string, body: string | null): Promise<readonly Judged[]> {
-  return await judged(change(root, { [path]: body }))
-}
 
 test("the settings carry the files judged and every ambient type the packages folder holds", () => {
   expect(typesIn(HERE)).toContain("bun")
