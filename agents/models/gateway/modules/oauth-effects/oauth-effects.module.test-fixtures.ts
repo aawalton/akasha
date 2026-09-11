@@ -256,6 +256,10 @@ export function secretsMissing(slug: string): Doors["secretsRead"] {
   return (root, page) => (join(root, page).includes(`/${slug}/`) ? null : secretsHeld())
 }
 
+export function refuse(): never {
+  throw new Error("nothing here reaches an account")
+}
+
 export async function tokenHanded(account: string): Promise<OAuthCredential | null> {
   return {
     account,

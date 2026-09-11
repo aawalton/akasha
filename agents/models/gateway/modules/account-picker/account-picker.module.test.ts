@@ -6,6 +6,7 @@ import {
   type PickerDoors,
 } from "akasha/agents/models/gateway/modules/account-picker/account-picker.module.code.ts"
 import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import { refuse } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"
 import type { CredentialPick } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const PREFIX = "[gw]"
@@ -33,10 +34,6 @@ function pickOf(account: string): CredentialPick {
     },
     fiveHourResetsAtMs: null,
   }
-}
-
-function refuse(): never {
-  throw new Error("nothing here reaches an account")
 }
 
 function asked(answers: readonly (CredentialPick | null)[]): Asked {

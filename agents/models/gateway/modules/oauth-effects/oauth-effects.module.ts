@@ -137,6 +137,10 @@ export const oauthEffects = {
     },
     {
       invariantKind: "departure",
+      statement: "The reach that throws rather than answering is spelled here once for a test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every line written here goes to a door the caller may replace.",
     },
     {

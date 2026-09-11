@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import { refuse } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"
 import type {
   OAuthProxy,
   StartOAuthProxyOptions,
@@ -11,10 +12,6 @@ type Same<A, B> = (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 
 const ROOT = "/var/tmp/a-root-that-is-not-read"
 
 const FAKE_TOKEN = "fake-access-token-for-a-test"
-
-function refuse(): never {
-  throw new Error("nothing here reaches an account")
-}
 
 const EFFECTS: OAuthEffects = {
   getBestCredential: refuse,
