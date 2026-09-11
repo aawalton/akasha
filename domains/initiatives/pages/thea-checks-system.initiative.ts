@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "One check refuses, at 235. 34 of those answer a constant, like a body returning null in six files and a route title in four, which the check's own departure that a body with nothing to change cannot drift already covers and no work can mend. Half of the rest is artefact of how ruleOf reads, so print the rule and blank every free name before believing a family. It pairs declarations only: one folded family is still written inline 25 more times.",
+        "One check refuses, at 215. 43 cannot be mended by any work and have not moved while 185 became 172: 34 answer a constant, and 9 more are exports the router finds by name in the file, which cannot leave it. The check's own departure that a body with nothing to change cannot drift already covers the first, and the same page says widening an exemption narrows the check, so both are Alan's. Print the rule and blank every free name before believing a family; it pairs declarations only.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
