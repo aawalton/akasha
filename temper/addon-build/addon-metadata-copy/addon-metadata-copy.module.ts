@@ -6,6 +6,7 @@ export const addonMetadataCopy = {
   slug: "addon-metadata-copy",
   definition: "everything an addon ships that is not its Lua, put into the addon's build output",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -13,15 +14,23 @@ export const addonMetadataCopy = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon whose named markup is absent gets an empty document written.",
+      statement: "A document the addon does not hold is written by nothing here.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Lua or markup the built manifest does not load refuses the call.",
     },
     {
       invariantKind: "departure",
-      statement: "An addon that binds no keys gets an empty bindings document written.",
+      statement: "What the build writes and what the manifest loads are the same set.",
     },
     {
       invariantKind: "departure",
-      statement: "The game reads a named document rather than an optional document.",
+      statement: "An asset is carried for a path to reach rather than for the manifest to load.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line opening with a hash loads nothing.",
     },
     {
       invariantKind: "departure",

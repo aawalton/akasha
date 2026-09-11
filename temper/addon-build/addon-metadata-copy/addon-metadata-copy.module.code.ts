@@ -22,15 +22,37 @@ import {
   siblingSourceDir,
 } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 
-const EMPTY_MARKUP = "<GuiXml></GuiXml>\n"
-
-const EMPTY_BINDINGS = "<Bindings></Bindings>\n"
-
 const RUNTIME_TOKEN = /\$\([^)]*\)/
 
 const SHIPPED_BY_MANIFEST = addonManifestSchema
   .pick({ additionalLuaFiles: true, assets: true, xmlFiles: true })
   .passthrough()
+
+const NOT_A_FILE = /^\s*(?:#.*)?$/
+
+const LOADED_BY_MANIFEST = /\.(?:lua|xml)$/i
+
+export function listedIn(manifest: string): readonly string[] {
+  return manifest
+    .split("\n")
+    .filter((one) => !NOT_A_FILE.test(one))
+    .map((one) => one.trim())
+}
+
+export function unlistedIn(held: readonly string[], manifest: string): readonly string[] {
+  const named = new Set(listedIn(manifest))
+  return held.filter((one) => LOADED_BY_MANIFEST.test(one) && !named.has(one)).sort()
+}
+
+function heldUnder(dir: string, under: string): readonly string[] {
+  const out: string[] = []
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    const at = under === "" ? entry.name : `${under}/${entry.name}`
+    if (entry.isDirectory()) out.push(...heldUnder(join(dir, entry.name), at))
+    else out.push(at)
+  }
+  return out
+}
 
 export type MetadataCopied = {
   readonly distDir: string
@@ -52,16 +74,14 @@ export async function copyAddonMetadata(
   const order = await writeLoadOrder(root, addonDir, canonicalName)
 
   const namedMarkup = namedFilePathOrNull(root, addonDir, `${canonicalName}.xml`)
-  writeFileSync(
-    join(distDir, `${canonicalName}.xml`),
-    namedMarkup === null ? EMPTY_MARKUP : readFileSync(namedMarkup, "utf-8")
-  )
+  if (namedMarkup !== null) {
+    writeFileSync(join(distDir, `${canonicalName}.xml`), readFileSync(namedMarkup, "utf-8"))
+  }
 
   const bindings = await addonBindingsPathIn(root, addonDir)
-  writeFileSync(
-    join(distDir, BINDINGS_FILE_NAME),
-    bindings === null ? EMPTY_BINDINGS : readFileSync(bindings, "utf-8")
-  )
+  if (bindings !== null) {
+    writeFileSync(join(distDir, BINDINGS_FILE_NAME), readFileSync(bindings, "utf-8"))
+  }
 
   const manifestPath = addonManifestPathIn(root, addonDir)
   if (manifestPath === null) {
@@ -113,6 +133,13 @@ export async function copyAddonMetadata(
       )
     }
     cpSync(join(distDir, OWNERSHIP_MARKER_FILE), join(to, OWNERSHIP_MARKER_FILE))
+  }
+
+  const unlisted = unlistedIn(heldUnder(distDir, ""), readFileSync(order.manifestPath, "utf-8"))
+  if (unlisted.length > 0) {
+    throw new Error(
+      `copyAddonMetadata: ${canonicalName} builds ${String(unlisted.length)} file(s) its manifest does not load, so the game ignores them: ${unlisted.join(", ")}`
+    )
   }
 
   return {

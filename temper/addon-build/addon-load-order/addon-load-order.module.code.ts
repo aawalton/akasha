@@ -9,7 +9,7 @@ import {
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import {
   addonBindingsPathIn,
-  metadataFileIn,
+  namedFilePathOrNull,
 } from "akasha/temper/addon-build/addon-metadata-files/addon-metadata-files.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
@@ -130,8 +130,8 @@ export function manifestLines(asked: ManifestAsked): readonly string[] {
   return lines
 }
 
-export function nameXmlThereIn(addonDir: string, addonName: string): boolean {
-  return metadataFileIn(addonDir, `${addonName}.xml`) !== null
+export function nameXmlThereIn(root: string, addonDir: string, addonName: string): boolean {
+  return namedFilePathOrNull(root, addonDir, `${addonName}.xml`) !== null
 }
 
 const CATALOG_PAGE_TYPE = "temper-catalog-domain"
@@ -260,7 +260,7 @@ export async function writeLoadOrder(
     xmlAfterBundle: xml.afterBundle,
     luaPaths: [bundle.split("/").pop() ?? bundle],
     addonName: canonicalName,
-    nameXmlThere: nameXmlThereIn(addonDir, canonicalName),
+    nameXmlThere: nameXmlThereIn(root, addonDir, canonicalName),
     bindingsXmlThere: (await addonBindingsPathIn(root, addonDir)) !== null,
   })
   const body = `${lines.join("\n")}\n`
