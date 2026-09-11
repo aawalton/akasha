@@ -1,4 +1,5 @@
 import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
+import type { EffectiveSevenDayUsage } from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
 const CEILING = 100
@@ -15,7 +16,7 @@ function sevenDaySpentIn(page: ClaudeAccount): number | null {
   return Number.isFinite(found) ? found : null
 }
 
-export const work: Work<ClaudeAccount, number> = (page) => {
+export const work: Work<ClaudeAccount, EffectiveSevenDayUsage> = (page) => {
   if (withdrawn(page.subscriptionDisabledReason)) return CEILING
   return sevenDaySpentIn(page)
 }
