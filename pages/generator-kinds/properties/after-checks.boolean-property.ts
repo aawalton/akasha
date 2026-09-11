@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
 export const afterChecks = {
   id: "01a05031-3a74-7ba8-849b-751fec68738d",
