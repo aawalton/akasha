@@ -20,6 +20,7 @@ import {
 } from "akasha/code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
 import { typeSlugOf, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 
@@ -50,11 +51,6 @@ function heldOfType(root: string, pageType: string): readonly Held[] {
   return found
 }
 
-function textIn(values: Values, key: string): string | null {
-  const said = values[key]
-  return typeof said === "string" && said !== "" ? said : null
-}
-
 function namesGroup(values: Values, groupSlug: string): boolean {
   const named = values.groups
   return Array.isArray(named) && named.includes(groupSlug)
@@ -73,13 +69,13 @@ export function watchedFoldersIn(root: string): readonly string[] {
 function stoplightsByGroup(root: string): ReadonlyMap<string, readonly Stoplight[]> {
   const rungsBy = new Map<string, readonly Rung[]>()
   for (const one of heldOfType(root, READOUT_SCALE)) {
-    const slug = textIn(one.values, "slug")
+    const slug = textAt(one.values, "slug")
     if (slug !== null) rungsBy.set(slug, rungsIn(one.values))
   }
 
   const offScale = new Set<string>()
   for (const one of heldOfType(root, READOUT_GROUP)) {
-    const slug = textIn(one.values, "slug")
+    const slug = textAt(one.values, "slug")
     if (slug !== null && one.values.figureOffScale === true) offScale.add(slug)
   }
 
@@ -90,7 +86,7 @@ function stoplightsByGroup(root: string): ReadonlyMap<string, readonly Stoplight
     const found: Stoplight[] = []
     for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, groupSlug)))) {
       if (stilled(row)) continue
-      const scaleSlug = textIn(row, "scale")
+      const scaleSlug = textAt(row, "scale")
       const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
       const one = stoplightWith(row, rungs, HABIT, readingHeldOn)
       if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)
