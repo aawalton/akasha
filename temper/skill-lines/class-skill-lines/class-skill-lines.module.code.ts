@@ -1,4 +1,4 @@
-import type { SkillLineTemplate } from "../skill-line-template/skill-line-template.module.code.ts"
+import type { SkillLineTemplate } from "akasha/temper/skill-lines/skill-line-template/skill-line-template.module.code.ts"
 
 export const CLASS_SKILL_LINES = {
   "warden-animal-companions": {

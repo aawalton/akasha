@@ -1,4 +1,4 @@
-import type { SkillLineCategoryId } from "../skill-line-category-data/skill-line-category-data.module.code.ts"
+import type { SkillLineCategoryId } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 
 export interface SkillLineTemplate {
   id: string
