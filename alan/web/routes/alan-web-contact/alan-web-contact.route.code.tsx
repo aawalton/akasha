@@ -6,7 +6,7 @@ export function meta() {
     { title: "Contact — Alan Walton" },
     {
       name: "description",
-      content: "Contact Alan Walton — email and phone.",
+      content: "Contact Alan Walton — email and business address.",
     },
   ]
 }
@@ -17,7 +17,9 @@ export default function ContactRoute() {
       <div className="space-y-6">
         <header className="space-y-2">
           <PageTitle>Contact</PageTitle>
-          <p className="text-secondary text-sm">Reach Alan Walton by email or phone.</p>
+          <p className="text-secondary text-sm">
+            Reach Alan Walton by email, or write to the business address below.
+          </p>
         </header>
 
         <PanelCard id="contact" title="Contact information">
@@ -29,10 +31,8 @@ export default function ContactRoute() {
               </a>
             </li>
             <li>
-              Phone:{" "}
-              <a href="tel:+18445122550" className="text-accent underline">
-                844-512-2550
-              </a>
+              Business address:{" "}
+              <address className="inline not-italic">1350 Apple Ave, Provo, UT 84604</address>
             </li>
           </ul>
         </PanelCard>

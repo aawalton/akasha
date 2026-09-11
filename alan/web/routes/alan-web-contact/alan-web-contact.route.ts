@@ -8,4 +8,14 @@ export const alanWebContact = {
   definition: "how a reader reaches Alan Walton",
   code: "tsx",
   urlPath: "contact",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The contact page states the business address the SMS submission declares.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No phone number is stated on the contact page.",
+    },
+  ],
 } as const satisfies Route
