@@ -8,6 +8,7 @@ export const agentStated = {
   definition: "what an agent's page states under one of its keys, as a page type and a slug",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

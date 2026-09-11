@@ -5,6 +5,7 @@ import {
   slugStated,
   typeStated,
 } from "akasha/domains/context/modules/agent-stated/agent-stated.module.code.ts"
+import { NO_AGENT_AT } from "akasha/domains/context/modules/agent-stated/agent-stated.module.test-fixtures.ts"
 import { seatListed } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
@@ -63,7 +64,7 @@ test("a key stated empty answers nothing", () => {
 
 test("a path that is no agent's page states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const path = "akasha/persona-system/personas/akasha/akasha.persona.ts"
+  const path = NO_AGENT_AT
   writing(root, path, `export const akasha = { persona: "akasha" }\n`)
   expect(slugStated(root, path, "persona")).toBe(null)
   expect(typeStated(root, path, "persona")).toBe(null)
