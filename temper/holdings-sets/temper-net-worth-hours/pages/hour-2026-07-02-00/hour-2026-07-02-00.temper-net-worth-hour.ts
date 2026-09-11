@@ -1,4 +1,4 @@
-import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.types.ts"
+import type { TemperNetWorthHour } from "akasha/temper/holdings-sets/temper-net-worth-hours/temper-net-worth-hour.page-type.types.ts"
 
 export const hour2026070200 = {
   id: "01a06009-48e3-785e-b013-b419d0d6f1de",

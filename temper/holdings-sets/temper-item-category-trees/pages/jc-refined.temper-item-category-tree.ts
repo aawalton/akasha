@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
+import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-item-category-trees/temper-item-category-tree.page-type.types.ts"
 
 export const jcRefined = {
   id: "01a05fcf-f824-7c07-bce0-b96eb710f5f2",

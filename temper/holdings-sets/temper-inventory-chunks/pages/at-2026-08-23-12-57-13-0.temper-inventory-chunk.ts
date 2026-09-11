@@ -1,4 +1,4 @@
-import type { TemperInventoryChunk } from "../temper-inventory-chunk.page-type.types.ts"
+import type { TemperInventoryChunk } from "akasha/temper/holdings-sets/temper-inventory-chunks/temper-inventory-chunk.page-type.types.ts"
 
 export const at202608231257130 = {
   id: "01a02eb6-39a8-7000-84b1-b5f083a001df",

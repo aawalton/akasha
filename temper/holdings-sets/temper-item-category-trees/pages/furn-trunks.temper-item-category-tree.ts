@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
+import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-item-category-trees/temper-item-category-tree.page-type.types.ts"
 
 export const furnTrunks = {
   id: "01a05fcf-f816-7687-8fbe-7c7ad6f2acec",

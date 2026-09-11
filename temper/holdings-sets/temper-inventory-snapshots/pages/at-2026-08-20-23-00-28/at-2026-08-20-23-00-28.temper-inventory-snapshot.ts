@@ -1,4 +1,4 @@
-import type { TemperInventorySnapshot } from "../../temper-inventory-snapshot.page-type.types.ts"
+import type { TemperInventorySnapshot } from "akasha/temper/holdings-sets/temper-inventory-snapshots/temper-inventory-snapshot.page-type.types.ts"
 
 export const at20260820230028 = {
   id: "01a0216a-4fb5-7000-8435-71455ca9d0d9",

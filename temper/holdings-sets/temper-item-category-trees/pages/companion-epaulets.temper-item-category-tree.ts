@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
+import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-item-category-trees/temper-item-category-tree.page-type.types.ts"
 
 export const companionEpaulets = {
   id: "01a05fcf-f7c7-749d-b127-31e9908fe11a",

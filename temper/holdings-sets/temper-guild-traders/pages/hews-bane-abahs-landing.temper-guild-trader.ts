@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
+import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
 
 export const hewsBaneAbahsLanding = {
   id: "019e2fc6-5259-729d-88a2-9439faa8f47c",

@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
+import type { TemperInventoryCurrency } from "akasha/temper/holdings-sets/temper-inventory-currencies/temper-inventory-currency.page-type.types.ts"
 
 export const tomePoints = {
   id: "01a05fcf-26bc-7a4f-bbe2-ea96eb5881d2",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
+import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
 
 export const greenshadeMarbrukOutlawsRefuge = {
   id: "019e2fc6-5222-7234-ba44-33d7b57ca87f",

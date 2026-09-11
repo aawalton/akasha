@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
+import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
 
 export const rivenspireShornhelmOutlawsRefuge = {
   id: "019e2fc6-5235-756a-9484-9d85c171d775",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
+import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
 
 export const summersetShimmerene = {
   id: "019e2fc6-5262-7aac-8657-a6013271eeee",
