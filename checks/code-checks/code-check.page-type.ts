@@ -168,12 +168,8 @@ export const codeCheck = {
       statement: "A check looks for no files.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "upkeep",
       statement: "A check reaching for the tree does not land.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A check's phases are derived from the input the check reads.",
     },
   ],
   directives: [
