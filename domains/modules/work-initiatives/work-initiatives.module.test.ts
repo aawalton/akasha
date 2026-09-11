@@ -16,7 +16,11 @@ const INITIATIVE = "initiative"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
-const PARENT = "parent"
+const PARENT_PROPERTY = "01a04e58-5735-7668-9aee-b2da5c7b346a"
+
+const PARENT = "initiative-parent"
+
+const PARENT_KEY = "parent"
 
 const scratch = scratchWorld()
 
@@ -30,6 +34,12 @@ function worldFor(typeSlug: string = INITIATIVE): string {
   const root = scratch.rootFor("akasha-work-")
   idFiled(root, INITIATIVE_TYPE, [
     { path: `akasha/domain-system/initiative/${typeSlug}.page-type.ts`, id: INITIATIVE_TYPE },
+  ])
+  idFiled(root, PARENT_PROPERTY, [
+    {
+      path: `akasha/domain-system/initiative/properties/${PARENT}.relation-property.ts`,
+      id: PARENT_PROPERTY,
+    },
   ])
   return root
 }
@@ -73,6 +83,23 @@ test("the edge is filed under the parent, so the child is the one that sits unde
   const drawn = initiativesDrawn(root)
   expect(drawn.find((one) => one.slug === "amy-child")?.parent).toBe("amy-parent")
   expect(drawn.find((one) => one.slug === "amy-parent")?.parent).toBe(null)
+})
+
+test("an edge filed under the key the page spells rather than the property's own slug is no edge", () => {
+  const root = worldFor()
+  filing(root, "amy-parent", ONE)
+  filing(root, "amy-child", TWO)
+  relationFiled(root, ONE, PARENT_KEY, TWO, [{ path: pathFor("naming"), id: TWO }])
+  expect(initiativesDrawn(root).find((one) => one.slug === "amy-child")?.parent).toBe(null)
+})
+
+test("an index saying no slug for the parent property refuses rather than drawing no parent", () => {
+  const root = scratch.rootFor("akasha-work-")
+  idFiled(root, INITIATIVE_TYPE, [
+    { path: `akasha/domain-system/initiative/${INITIATIVE}.page-type.ts`, id: INITIATIVE_TYPE },
+  ])
+  filing(root, "amy-one", ONE)
+  expect(() => initiativesDrawn(root)).toThrow(PARENT_PROPERTY)
 })
 
 test("an initiative naming no parent sits under none", () => {

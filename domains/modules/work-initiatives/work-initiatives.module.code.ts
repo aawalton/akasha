@@ -9,7 +9,7 @@ import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
-const PARENT = "parent"
+const PARENT_PROPERTY = "01a04e58-5735-7668-9aee-b2da5c7b346a"
 
 const PERSONA = "persona"
 
@@ -72,10 +72,11 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
     const slug = slugIn(one.path, typeSlug)
     if (slug !== null) slugById.set(one.id, slug)
   }
+  const parentSlug = typeSlugOf(root, PARENT_PROPERTY)
   const edges = [...pages].flatMap((one) => {
     const parent = slugById.get(one.id)
     if (parent === undefined) return []
-    return [...idsNaming(root, one.id, PARENT)].flatMap((naming) => {
+    return [...idsNaming(root, one.id, parentSlug)].flatMap((naming) => {
       const child = slugById.get(naming)
       return child === undefined ? [] : [{ child, parent }]
     })

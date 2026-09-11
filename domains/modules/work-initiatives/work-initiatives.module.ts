@@ -40,6 +40,16 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The parent edge is found through the property reached by its id rather than by a spelled slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The index files that edge under the property's own slug rather than under the key a page spells.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An initiative under other than one parent is answered as under no parent.",
     },
     {
