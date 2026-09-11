@@ -24,11 +24,6 @@ export const theaChecksSystem = {
         "16 annotations on 12 workloads, 11 secret-derived: 10 agree with the page, 0 derive. Every manifest hardcodes the secret name and keys and reads no page, so agreement is hand-kept and headscale's checksum/tls already mismatches, over a Secret cert-manager issues. The filling is done: secretChecksum shells to kubectl inside planFor and throws without a cluster. Deriving sits with workload-applying, not web-app-reading, which reaches no cluster. 10 of 26 named secret resources are annotated.",
     },
     {
-      statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
-      workingMemory:
-        "Met. No client bundle reads any NEXT_PUBLIC_* key. Every literal process.env.NEXT_PUBLIC_* read left is server-side: both pmtiles reads sit inside loaders, and the build sha is read by five api-live-version routes. node_modules holds none, and no import.meta.env.NEXT_PUBLIC or bracketed spelling exists anywhere. Control: 23 live import.meta.env.VITE_* reads. a67d239f234 re-pointed the guard onto the VITE names, 4f084ddedb dropped the four dead defines. No vite build was run by anyone.",
-    },
-    {
       statement: "A check looks for unused code and passes.",
       workingMemory:
         "Verified 2026-09-10, and the premise was wrong. The finder is deleted rather than unwired: 8ead8507d0a took out its 568 lines, and 8392949e28 dropped it as a check because an instrument stating a population refuses nothing. Its target, the code repo, tracks zero files at HEAD. The 8 curation pages name 25 workspaces, of which 8 have no directory and 6 are packages. nimue-code-cleanup does not name it. Reaching this intent is a rebuild Alan approves.",
