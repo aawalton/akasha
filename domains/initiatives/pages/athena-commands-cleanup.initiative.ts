@@ -97,6 +97,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`taking.record-property.ts:34` says a command taking its arguments piped in states nothing here, so the keys `akasha change draft` reads are written on no page. A caller learns them from a refusal: drafting `rename-page` with `slug` was answered by `to` names what this change is handed. Each act carries its own — `at`, `old`, `new`, `key`, `record`, `where`, `is`, `of`, `to`. Only the way the words arrive differs.\n",
     },
+    {
+      statement: "No command page states `taking`.",
+      workingMemory:
+        "`taking` is a display list and nothing else: `helpOf` at `calling.module.code.ts:237-239` is its one reader. Once an argument is a page, help is drawn from the arguments a command names, and this goes with the two text properties it holds — `record-property/taking`, `text-property/said`, `text-property/takes`, all named at `command.page-type.ts:14,17,18`.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
