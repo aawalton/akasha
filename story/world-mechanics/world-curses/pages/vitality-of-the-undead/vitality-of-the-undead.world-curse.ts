@@ -1,4 +1,4 @@
-import type { WorldCurse } from "../../world-curse.page-type.types.ts"
+import type { WorldCurse } from "akasha/story/world-mechanics/world-curses/world-curse.page-type.types.ts"
 
 export const vitalityOfTheUndead = {
   id: "01a0655a-0687-74e3-bfef-c7e957e4c917",
