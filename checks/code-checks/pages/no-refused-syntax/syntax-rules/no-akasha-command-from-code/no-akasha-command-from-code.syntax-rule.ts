@@ -47,7 +47,7 @@ export const noAkashaCommandFromCode = {
       statement: "No use of the command from code is kept as permitted.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A name built as the code runs is not seen.",
     },
   ],
