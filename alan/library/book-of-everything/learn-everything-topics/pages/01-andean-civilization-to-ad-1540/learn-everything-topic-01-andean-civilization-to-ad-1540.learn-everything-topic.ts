@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01AndeanCivilizationToAd1540 = {
   id: "01a065a7-085a-7004-80c6-bc30641d29a1",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-andean-civilization-to-ad-1540",
   node: "The History of Mankind › Pre-Columbian America › Andean Civilization to AD 1540",

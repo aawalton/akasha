@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01NatureAndPatternsOfBehavior = {
   id: "01a065a7-0854-7017-b447-7ba5b8574c8c",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-nature-and-patterns-of-behavior",
   node: "Life on Earth › The Behavior of Organisms › Nature and Patterns of Behavior",

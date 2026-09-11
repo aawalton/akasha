@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic05ChinaInRevolutionJapaneseHegemony = {
   id: "01a065a7-085a-701d-9325-e9299a491a44",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-05-china-in-revolution-japanese-hegemony",
   node: "The History of Mankind › The World Since 1920 › China in Revolution, Japanese Hegemony",

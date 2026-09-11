@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic03HumanDiseases = {
   id: "01a065a7-0855-700d-98b2-203dec0085aa",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-03-human-diseases",
   node: "Human Life › The Human Body: Health and Disease › Human Diseases",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic04HumanPopulationsUrbanAndRuralCommunities = {
   id: "01a065a7-0855-7021-8a99-406d1f3a82df",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-04-human-populations-urban-and-rural-communities",
   node: "Human Society › Social Organization and Social Change › Human Populations: Urban and Rural Communities",

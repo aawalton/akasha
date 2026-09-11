@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const kindle = {
   id: "01a0655b-fcd0-701f-a95d-dbdce01bbfed",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "kindle",
   title: "Kindle",

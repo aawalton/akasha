@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01WesternEurope15001789 = {
   id: "01a065a7-085a-700d-a63c-357cfed26a20",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-western-europe-1500-1789",
   node: "The History of Mankind › The Modern World to 1920 › Western Europe 1500–1789",

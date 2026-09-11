@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const cardPayment6952OtherSign = {
   id: "01a0655b-fccf-700f-819b-09ee9f67b4d1",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "card-payment-6952-other-sign",
   title: "Card payment 6952 other sign",

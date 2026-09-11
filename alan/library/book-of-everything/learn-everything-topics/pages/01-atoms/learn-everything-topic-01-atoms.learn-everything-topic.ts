@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01Atoms = {
   id: "01a065a7-084d-7000-8a50-19dd682115ab",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-atoms",
   node: "Matter and Energy › Atoms",

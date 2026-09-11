@@ -2,7 +2,6 @@ import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cuts/mobil
 
 export const atlas2 = {
   id: "01a0685d-b820-7007-a165-ad936507cd24",
-  pageTypeSlug: "mobile-cut",
   type: "mobile-cut",
   slug: "atlas-2",
   title: "atlas cut build 2",

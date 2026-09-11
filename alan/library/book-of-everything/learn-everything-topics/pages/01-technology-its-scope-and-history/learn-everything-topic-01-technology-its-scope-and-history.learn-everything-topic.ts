@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01TechnologyItsScopeAndHistory = {
   id: "01a065a7-0856-701a-92d9-86449b3a93bb",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-technology-its-scope-and-history",
   node: "Technology › Nature & Development of Technology › Technology: Its Scope and History",

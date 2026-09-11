@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const disneyPlus = {
   id: "01a0655b-fcdc-7012-806d-1cafeb8affc4",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "disney-plus",
   title: "disney plus",

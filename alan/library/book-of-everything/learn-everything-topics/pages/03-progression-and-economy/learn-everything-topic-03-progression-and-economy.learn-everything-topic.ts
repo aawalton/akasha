@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic03ProgressionAndEconomy = {
   id: "01a065a7-0856-7013-9c6c-a354d038c6e3",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-03-progression-and-economy",
   node: "Art › Particular Arts › Game Design › Progression and Economy",

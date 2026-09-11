@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const edgemontAutoService = {
   id: "01a0655b-fcd0-7010-81cb-5ba1dd5c5529",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "edgemont-auto-service",
   title: "Edgemont auto service",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic03TheEarthSciences = {
   id: "01a065a7-085b-7010-a0e5-f71bdcaddcd3",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-03-the-earth-sciences",
   node: "The Branches of Knowledge › Science › The Earth Sciences",

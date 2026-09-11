@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const anthropic = {
   id: "01a0655b-fcdc-7004-98db-6c883de19ab8",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "anthropic",
   title: "anthropic",

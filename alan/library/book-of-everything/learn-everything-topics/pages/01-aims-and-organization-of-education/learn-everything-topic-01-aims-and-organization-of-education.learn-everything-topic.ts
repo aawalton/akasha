@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01AimsAndOrganizationOfEducation = {
   id: "01a065a7-0855-7033-af1d-0854fc28d282",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-aims-and-organization-of-education",
   node: "Human Society › Education › Aims and Organization of Education",

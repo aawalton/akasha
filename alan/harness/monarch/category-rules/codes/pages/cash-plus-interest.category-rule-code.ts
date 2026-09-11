@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const cashPlusInterest = {
   id: "01a0655b-fccf-7012-b055-37082357c171",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "cash-plus-interest",
   title: "Cash plus interest",

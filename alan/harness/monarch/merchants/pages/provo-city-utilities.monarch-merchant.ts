@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const provoCityUtilities = {
   id: "01a0655b-fcdc-7026-a08f-f62cf0eea71c",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "provo-city-utilities",
   title: "provo city utilities",

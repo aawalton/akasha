@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01StructureAndPropertiesOfAtoms = {
   id: "01a065a7-084d-7001-aafe-4f295b56ae01",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-structure-and-properties-of-atoms",
   node: "Matter and Energy › Atoms › Structure and Properties of Atoms",

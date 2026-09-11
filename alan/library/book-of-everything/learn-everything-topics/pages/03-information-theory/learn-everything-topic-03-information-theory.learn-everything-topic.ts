@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic03InformationTheory = {
   id: "01a065a7-085b-700a-a714-f895ce954b64",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-03-information-theory",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Information Theory",

@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const unstated = {
   id: "01a0655b-fcdc-702e-9cdd-62d56a56585f",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "unstated",
   title: "unstated",

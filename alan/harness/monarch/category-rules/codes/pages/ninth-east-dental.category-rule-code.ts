@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const ninthEastDental = {
   id: "01a0655b-fcd0-702b-95f8-e828c5c4168e",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "ninth-east-dental",
   title: "Ninth east dental",

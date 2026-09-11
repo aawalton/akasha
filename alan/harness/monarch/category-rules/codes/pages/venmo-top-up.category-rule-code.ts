@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const venmoTopUp = {
   id: "01a0655b-fcdb-7007-ad7e-4719109a7d45",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "venmo-top-up",
   title: "Venmo top up",

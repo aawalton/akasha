@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic03EastCentralSouthAndSoutheastAsia = {
   id: "01a065a7-0857-701b-8898-82c5c5f1c43d",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-03-east-central-south-and-southeast-asia",
   node: "The History of Mankind › East, Central, South, and Southeast Asia",

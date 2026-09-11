@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const utahDmvOther = {
   id: "01a0655b-fcdb-7002-a63a-53b4259f1e3f",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "utah-dmv-other",
   title: "Utah dmv other",

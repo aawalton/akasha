@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const youtubePremium = {
   id: "01a0655b-fcdb-700a-88e6-78785704a69c",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "youtube-premium",
   title: "Youtube premium",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic02DevelopmentAndRangeOfBehavioralCapacitiesIndividualAndGroup = {
   id: "01a065a7-0854-7018-8cf8-a2cc727e526a",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-02-development-and-range-of-behavioral-capacities-individual-and-group",
   node: "Life on Earth › The Behavior of Organisms › Development and Range of Behavioral Capacities: Individual and Group Behavior",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01TheoryAndClassificationOfTheArts = {
   id: "01a065a7-0855-7037-92b3-704c9caefdbe",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-theory-and-classification-of-the-arts",
   node: "Art › Art in General › Theory and Classification of the Arts",

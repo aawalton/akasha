@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const venmoCashOut = {
   id: "01a0655b-fcdb-7004-a0e8-2eabacb1cfc0",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "venmo-cash-out",
   title: "Venmo cash out",

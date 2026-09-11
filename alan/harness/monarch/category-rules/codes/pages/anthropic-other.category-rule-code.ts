@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const anthropicOther = {
   id: "01a0655b-fccf-7006-ac32-badc9a970055",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "anthropic-other",
   title: "Anthropic other",

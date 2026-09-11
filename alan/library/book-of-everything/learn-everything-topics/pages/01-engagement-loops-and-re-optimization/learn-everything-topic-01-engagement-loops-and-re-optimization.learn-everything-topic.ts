@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01EngagementLoopsAndReOptimization = {
   id: "01a065a7-0856-7011-a480-a2440b4dc538",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-engagement-loops-and-re-optimization",
   node: "Art › Particular Arts › Game Design › Engagement Loops and Re-optimization",

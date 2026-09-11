@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic04TheBehaviorOfOrganisms = {
   id: "01a065a7-0854-7016-8103-b72dfc5747b1",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-04-the-behavior-of-organisms",
   node: "Life on Earth › The Behavior of Organisms",

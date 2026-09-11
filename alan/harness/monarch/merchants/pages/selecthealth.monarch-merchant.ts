@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const selecthealth = {
   id: "01a0655b-fcdc-7028-a071-c8cffc665ce0",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "selecthealth",
   title: "selecthealth",

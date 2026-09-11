@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const costcoGas = {
   id: "01a0655b-fcdc-700f-b4b8-e3f3c52926b9",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "costco-gas",
   title: "costco gas",

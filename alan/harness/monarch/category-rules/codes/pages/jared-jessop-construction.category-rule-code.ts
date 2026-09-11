@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const jaredJessopConstruction = {
   id: "01a0655b-fcd0-701c-a49a-24214fd2b76c",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "jared-jessop-construction",
   title: "Jared jessop construction",

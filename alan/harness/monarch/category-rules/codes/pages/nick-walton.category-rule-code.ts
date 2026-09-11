@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const nickWalton = {
   id: "01a0655b-fcd0-7029-ad52-29d5f4752285",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "nick-walton",
   title: "Nick walton",

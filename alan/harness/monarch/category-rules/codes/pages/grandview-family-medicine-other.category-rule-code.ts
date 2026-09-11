@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const grandviewFamilyMedicineOther = {
   id: "01a0655b-fcd0-7017-9eaf-3b2cf2df5a0e",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "grandview-family-medicine-other",
   title: "Grandview family medicine other",

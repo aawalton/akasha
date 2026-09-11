@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const brightPediatricDentistryOther = {
   id: "01a0655b-fccf-700c-9700-31f4a3f22e47",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "bright-pediatric-dentistry-other",
   title: "Bright pediatric dentistry other",

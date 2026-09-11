@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const grandviewFamilyMedicine = {
   id: "01a0655b-fcdc-7018-98c5-c8fbe4b2b0cf",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "grandview-family-medicine",
   title: "grandview family medicine",

@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const fastOfferingOther = {
   id: "01a0655b-fcd0-7011-af9e-54ad987ae522",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "fast-offering-other",
   title: "Fast offering other",

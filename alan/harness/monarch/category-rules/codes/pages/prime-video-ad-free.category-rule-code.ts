@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const primeVideoAdFree = {
   id: "01a0655b-fcd1-7002-b752-1cd4113d2d6b",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "prime-video-ad-free",
   title: "Prime video ad free",

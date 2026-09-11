@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic04LanguageAndCommunication = {
   id: "01a065a7-0855-701c-b64c-9592010b67f1",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-04-language-and-communication",
   node: "Human Society › Social Groups: Ethnic groups and Cultures › Language and Communication",

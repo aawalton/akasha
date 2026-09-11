@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const midlandNationalOther = {
   id: "01a0655b-fcd0-7022-9594-d9fc6ce0cf13",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "midland-national-other",
   title: "Midland national other",

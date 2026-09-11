@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic02EarthSEnvelope = {
   id: "01a065a7-084d-7016-8bea-390aa73c82f9",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-02-earth-s-envelope",
   node: "The Earth › Earth's Envelope",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic05ToltecTula = {
   id: "01a065a7-085a-700a-a4b3-46222dc3a4fa",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-05-toltec-tula",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Toltec (Tula)",

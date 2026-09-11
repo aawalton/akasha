@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const intermountainHealthcare = {
   id: "01a0655b-fcd0-701a-8125-91344980cde5",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "intermountain-healthcare",
   title: "Intermountain healthcare",

@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const walmart = {
   id: "01a0655b-fcdb-7008-a57e-b30449a39b95",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "walmart",
   title: "Walmart",

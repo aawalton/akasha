@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic02AtomicNucleiAndElementaryParticles = {
   id: "01a065a7-084d-7002-9505-284940b4d69a",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-02-atomic-nuclei-and-elementary-particles",
   node: "Matter and Energy › Atoms › Atomic Nuclei and Elementary Particles",

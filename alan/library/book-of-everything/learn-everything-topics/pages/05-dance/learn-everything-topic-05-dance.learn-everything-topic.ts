@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic05Dance = {
   id: "01a065a7-0856-7007-89fd-f9bda93501cc",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-05-dance",
   node: "Art › Particular Arts › Dance",

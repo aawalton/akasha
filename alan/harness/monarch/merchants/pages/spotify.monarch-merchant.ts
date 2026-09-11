@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const spotify = {
   id: "01a0655b-fcdc-7029-bcca-58cde4310aad",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "spotify",
   title: "spotify",

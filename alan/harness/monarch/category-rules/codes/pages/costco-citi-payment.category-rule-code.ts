@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const costcoCitiPayment = {
   id: "01a0655b-fcd0-7004-a1f9-f1e4c9971491",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "costco-citi-payment",
   title: "Costco citi payment",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic05DevelopmentOfLearningAndThinking = {
   id: "01a065a7-0855-7014-8a2e-e7fddcaad842",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-05-development-of-learning-and-thinking",
   node: "Human Life › Human Behavior and Experience › Development of Learning and Thinking",

@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const digitalPurchaseOther = {
   id: "01a0655b-fcd0-700b-bdc4-d301652a3037",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "digital-purchase-other",
   title: "Digital purchase other",

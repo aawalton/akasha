@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const apple = {
   id: "01a0655b-fcdc-7005-b13d-903ba77e3d70",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "apple",
   title: "apple",

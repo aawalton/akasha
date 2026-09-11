@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const maverik = {
   id: "01a0655b-fcdc-701e-a3e1-58f95520ba8c",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "maverik",
   title: "maverik",

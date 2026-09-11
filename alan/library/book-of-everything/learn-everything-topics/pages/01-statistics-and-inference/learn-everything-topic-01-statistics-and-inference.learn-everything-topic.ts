@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01StatisticsAndInference = {
   id: "01a065a7-085b-7008-8c63-c8794e4c2268",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-statistics-and-inference",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Statistics and Inference",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic05MathInPhysicalTheories = {
   id: "01a065a7-085b-700c-b8a0-2c94829736ee",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-05-math-in-physical-theories",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Math in Physical Theories",

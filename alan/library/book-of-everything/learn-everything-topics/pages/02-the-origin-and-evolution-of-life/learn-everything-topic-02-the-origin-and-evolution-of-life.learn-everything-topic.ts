@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic02TheOriginAndEvolutionOfLife = {
   id: "01a065a7-0854-7006-ab94-8e144fe0dd9e",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-origin-and-evolution-of-life",
   node: "Life on Earth › The Nature and Diversity of Life › The Origin and Evolution of Life",

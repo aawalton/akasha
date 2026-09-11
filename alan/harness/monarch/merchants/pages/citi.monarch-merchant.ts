@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const citi = {
   id: "01a0655b-fcdc-700c-9294-7c93898536be",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "citi",
   title: "citi",

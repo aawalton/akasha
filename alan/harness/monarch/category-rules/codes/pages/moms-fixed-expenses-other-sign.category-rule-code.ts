@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const momsFixedExpensesOtherSign = {
   id: "01a0655b-fcd0-7025-9a01-569a778d72f4",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "moms-fixed-expenses-other-sign",
   title: "Moms fixed expenses other sign",

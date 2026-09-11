@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01OriginAndDevelopmentOfTheEarthAndItsEnvelopes = {
   id: "01a065a7-0854-7000-8807-15b63455116d",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes",
   node: "The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes",

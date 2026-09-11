@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic02TheHydrosphereTheOceansFreshwaterAndIceMasses = {
   id: "01a065a7-084d-7018-a112-1cf45c96c897",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-hydrosphere-the-oceans-freshwater-and-ice-masses",
   node: "The Earth › Earth's Envelope › The Hydrosphere: the Oceans, Freshwater and Ice Masses",

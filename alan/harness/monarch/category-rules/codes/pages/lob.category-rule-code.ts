@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const lob = {
   id: "01a0655b-fcd0-7021-93a1-94df5d0f1805",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "lob",
   title: "Lob",

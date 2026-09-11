@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const notYetMediaOtherMonth = {
   id: "01a0655b-fcd0-702c-b4a1-73359a43919f",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "not-yet-media-other-month",
   title: "Not yet media other month",

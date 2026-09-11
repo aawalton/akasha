@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01HistoryOfMathematics = {
   id: "01a065a7-085b-7003-8ee5-a5c5b2453aa2",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-history-of-mathematics",
   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › History of Mathematics",

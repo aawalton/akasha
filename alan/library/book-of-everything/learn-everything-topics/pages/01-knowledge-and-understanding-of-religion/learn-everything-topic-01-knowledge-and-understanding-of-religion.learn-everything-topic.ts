@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01KnowledgeAndUnderstandingOfReligion = {
   id: "01a065a7-0856-702e-a527-80cdee85f466",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-knowledge-and-understanding-of-religion",
   node: "Religion › Religion in General › Knowledge and Understanding of Religion",

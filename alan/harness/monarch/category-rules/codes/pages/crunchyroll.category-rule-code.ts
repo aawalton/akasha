@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const crunchyroll = {
   id: "01a0655b-fcd0-700a-9cba-1712b2e2c353",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "crunchyroll",
   title: "Crunchyroll",

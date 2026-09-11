@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic04Teotihuacan = {
   id: "01a065a7-085a-7009-9357-83b609bb020e",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-04-teotihuacan",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Teotihuacan",

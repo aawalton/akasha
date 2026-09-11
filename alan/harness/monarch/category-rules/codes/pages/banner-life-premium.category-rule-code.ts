@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const bannerLifePremium = {
   id: "01a0655b-fccf-700b-96eb-38e766f31681",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "banner-life-premium",
   title: "Banner life premium",

@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const brightPediatricDentistry = {
   id: "01a0655b-fcdc-7007-a46c-cd6bc92a95d4",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "bright-pediatric-dentistry",
   title: "bright pediatric dentistry",

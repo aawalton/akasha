@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic02FormalLogicMetalogicAppliedLogic = {
   id: "01a065a7-085b-7000-9c7c-f32fd125f1f0",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-02-formal-logic-metalogic-applied-logic",
   node: "The Branches of Knowledge › Logic › Formal Logic, Metalogic, & Applied Logic",

@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const cloudflare = {
   id: "01a0655b-fcd0-7003-a7a0-b184fef44883",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "cloudflare",
   title: "Cloudflare",

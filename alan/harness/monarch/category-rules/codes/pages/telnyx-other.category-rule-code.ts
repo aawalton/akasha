@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const telnyxOther = {
   id: "01a0655b-fcda-7007-b5cd-8856c88b19e6",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "telnyx-other",
   title: "Telnyx other",

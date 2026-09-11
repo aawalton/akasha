@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const stateFarm = {
   id: "01a0655b-fcdc-702b-b500-35004fe9f005",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "state-farm",
   title: "state farm",

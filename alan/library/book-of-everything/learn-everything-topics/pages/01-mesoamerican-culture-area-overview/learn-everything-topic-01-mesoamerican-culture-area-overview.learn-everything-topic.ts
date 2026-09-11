@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01MesoamericanCultureAreaOverview = {
   id: "01a065a7-085a-7006-a94c-db7be5c5fa97",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-mesoamerican-culture-area-overview",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Mesoamerican Culture-Area Overview",

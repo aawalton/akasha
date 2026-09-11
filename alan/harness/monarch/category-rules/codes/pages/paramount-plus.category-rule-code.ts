@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const paramountPlus = {
   id: "01a0655b-fcd1-7001-91a9-425848dd9140",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "paramount-plus",
   title: "Paramount plus",

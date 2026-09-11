@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const telnyx = {
   id: "01a0655b-fcdc-702d-8536-add1196f909a",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "telnyx",
   title: "telnyx",

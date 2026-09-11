@@ -2,7 +2,6 @@ import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule
 
 export const googleFiberOther = {
   id: "01a0655b-fcd0-7015-82b0-ade5f9790629",
-  pageTypeSlug: "category-rule-code",
   type: "category-rule-code",
   slug: "google-fiber-other",
   title: "Google fiber other",

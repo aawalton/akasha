@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const ecoshield = {
   id: "01a0655b-fcdc-7013-8fef-20ca2f7a4461",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "ecoshield",
   title: "ecoshield",

@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic01ReligiousAuthorityAndPriesthood = {
   id: "01a065a7-0856-7030-929c-2264cdd181b7",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-01-religious-authority-and-priesthood",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Religious Authority and Priesthood",

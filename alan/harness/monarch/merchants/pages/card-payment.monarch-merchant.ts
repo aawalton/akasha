@@ -2,7 +2,6 @@ import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/mona
 
 export const cardPayment = {
   id: "01a0655b-fcdc-7008-ab46-f56457fe75ef",
-  pageTypeSlug: "monarch-merchant",
   type: "monarch-merchant",
   slug: "card-payment",
   title: "card payment",

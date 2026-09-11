@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic05NutritionTheProcurementAndProcessingOfNutrients = {
   id: "01a065a7-0854-7011-b133-d58c047fe8a9",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-05-nutrition-the-procurement-and-processing-of-nutrients",
   node: "Life on Earth › The Structures and Functions of Organisms › Nutrition: the Procurement and Processing of Nutrients",

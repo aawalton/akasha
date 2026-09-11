@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic04HeatThermodynamicsLiquidsGasesPlasmas = {
   id: "01a065a7-084d-7007-baa1-344ddfddab5f",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-04-heat-thermodynamics-liquids-gases-plasmas",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Heat, Thermodynamics, Liquids, Gases, Plasmas",

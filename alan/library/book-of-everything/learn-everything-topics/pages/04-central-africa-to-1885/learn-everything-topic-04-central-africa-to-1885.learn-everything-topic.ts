@@ -2,7 +2,6 @@ import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everythin
 
 export const learnEverythingTopic04CentralAfricaTo1885 = {
   id: "01a065a7-085a-7001-84e7-02c31868e966",
-  pageTypeSlug: "learn-everything-topic",
   type: "learn-everything-topic",
   slug: "learn-everything-topic-04-central-africa-to-1885",
   node: "The History of Mankind › Sub-Saharan Africa to 1885 › Central Africa to 1885",
