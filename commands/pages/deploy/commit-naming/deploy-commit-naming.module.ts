@@ -22,23 +22,7 @@ export const deployCommitNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What the worktree differs from a commit by is the tracked paths git names.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The blank line git leaves at the end is no path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the commit, how many paths differ, and the first three of them.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Which of the paths differing belong to a deploy is settled elsewhere.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here settles whether a kind of deploy reads the worktree.",
     },
     {
       invariantKind: "absence",
