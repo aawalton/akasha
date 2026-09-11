@@ -14,13 +14,6 @@ export function expectedRemainderAfterMove(sourceStackBefore: number, count: num
   return remainder > 0 ? remainder : 0
 }
 
-export function isPacedMoveConfirmed(
-  observedSourceStack: number,
-  expectedRemaining: number
-): boolean {
-  return observedSourceStack <= expectedRemaining
-}
-
 export function countPacedMoves(steps: readonly PacedBankStep[]): number {
   let n = 0
   for (const s of steps) if (s.kind === "move") n++

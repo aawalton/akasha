@@ -4,7 +4,6 @@ import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/invent
 import {
   countPacedMoves,
   expectedRemainderAfterMove,
-  isPacedMoveConfirmed,
   type PacedBankStep,
 } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
 
@@ -112,7 +111,7 @@ export function startPacedBankChain(
     if (!pacedBankRunning) return
     if (inFlight === undefined) return
     const [srcStack] = GetSlotStackSize(inFlight.sourceBag, inFlight.sourceSlot)
-    if (!isPacedMoveConfirmed(srcStack, inFlight.expectedRemaining)) return
+    if (srcStack > inFlight.expectedRemaining) return
     stats.confirmed++
     if (firstIssueMs !== undefined) stats.spanMs = GetGameTimeMilliseconds() - firstIssueMs
     recordPacedDispatch(stats)
@@ -126,7 +125,7 @@ export function startPacedBankChain(
       if (!pacedBankRunning) return
       if (inFlight === undefined || issueGen !== myGen) return
       const [srcStack] = GetSlotStackSize(inFlight.sourceBag, inFlight.sourceSlot)
-      if (isPacedMoveConfirmed(srcStack, inFlight.expectedRemaining)) {
+      if (srcStack <= inFlight.expectedRemaining) {
         onMoveConfirmed()
         return
       }

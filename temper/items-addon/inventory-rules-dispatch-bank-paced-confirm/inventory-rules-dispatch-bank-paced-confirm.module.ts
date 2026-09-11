@@ -9,9 +9,9 @@ export const inventoryRulesDispatchBankPacedConfirm = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "departure",
       statement:
-        "Comparing stacks here and comparing clock times in claude-accounts lapsed are not one rule.",
+        "A move landed where the stack left behind is no more than what the move was to leave.",
     },
   ],
 } as const satisfies Module
