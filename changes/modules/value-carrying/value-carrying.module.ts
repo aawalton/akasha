@@ -33,6 +33,14 @@ export const valueCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "A run over one key reaches a key the page type no longer declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type the index does not name is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page with no value under the key read from is passed over rather than refused.",
     },
     {

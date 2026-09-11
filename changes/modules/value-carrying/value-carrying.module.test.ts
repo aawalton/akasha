@@ -176,10 +176,12 @@ test("a count handed in holds how many pages holding the key are answered", () =
   expect(holdingIn(typedIn(DECLARED), { ...HOLDING, most: 1 })).toEqual([ONE_AT])
 })
 
-test("a page type carrying no property under the key is refused", () => {
-  expect(holdingIn(typedIn([ONE_VALUE]), HOLDING)).toContain(
-    "carries no property under `partOfCollectionSlugs`"
-  )
+test("a key the page type no longer declares is answered rather than refused", () => {
+  expect(holdingIn(typedIn([ONE_VALUE]), HOLDING)).toEqual([ONE_AT, TWO_AT])
+})
+
+test("a page type the index does not name is refused over one key", () => {
+  expect(holdingIn(typedIn(null), HOLDING)).toBe("`story-chapter-read` names no page type")
 })
 
 test("the arguments handed in become what a run over one key is asked for", () => {

@@ -47,10 +47,8 @@ export function spelledAs(held: unknown, many: boolean): string | null {
 }
 
 export function holdingIn(world: World, given: KeyHoldingAsked): readonly string[] | string {
-  const carried = world.index.propertiesIfNamed(given.pageType)
-  if (carried === null) return `\`${given.pageType}\` names no page type`
-  if (!carried.some((one) => one.key === given.key)) {
-    return `a \`${given.pageType}\` carries no property under \`${given.key}\``
+  if (world.index.propertiesIfNamed(given.pageType) === null) {
+    return `\`${given.pageType}\` names no page type`
   }
   const found: string[] = []
   const most = given.most ?? null
