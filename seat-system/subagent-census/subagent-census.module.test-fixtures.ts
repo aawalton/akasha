@@ -1,12 +1,16 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { heldSaid, WAITED_AT_MOST } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   LOG_AT,
+  lineFor,
   pathOf,
   slugOf,
+  TAKING,
+  WRITING,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
@@ -22,9 +26,7 @@ export const CHILD = "claude --dangerously-skip-permissions --model opus"
 
 export const TASK = "rg --json needle ."
 
-export const REFUSED =
-  "nothing was committed and what was written was put back — another landing has held" +
-  " `.git/akasha-landing.lock` for longer than 300s, so this change was not judged"
+export const REFUSED = heldSaid(WAITED_AT_MOST)
 
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
@@ -57,11 +59,11 @@ export function logPut(baseDir: string, seatId: string, lines: readonly string[]
 }
 
 export function takeLine(seatName: string, own: string): string {
-  return `subagent-presence: take ${seatName} ${own} — ${REFUSED}`
+  return lineFor(`${TAKING} ${seatName} ${own} — ${REFUSED}`)
 }
 
 export const STAMPED = "2026-09-05T12:17:44.031-06:00"
 
 export function writeLine(seatName: string, own: string): string {
-  return `subagent-presence: write ${seatName} ${own} — ${REFUSED}`
+  return lineFor(`${WRITING} ${seatName} ${own} — ${REFUSED}`)
 }

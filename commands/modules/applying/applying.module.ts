@@ -242,6 +242,10 @@ export const applying = {
       statement: "Where those refusals are written is worked out by the module keeping them.",
     },
     {
+      invariantKind: "departure",
+      statement: "A hold held past its ceiling is answered as a refusal rather than thrown on.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes the hold.",
     },

@@ -3,7 +3,12 @@ import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { holding, LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
+import {
+  heldSaid,
+  holding,
+  LOCK_AT,
+  refusedWhereHeld,
+} from "akasha/commands/modules/holding/holding.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   CARRIED,
@@ -180,6 +185,28 @@ test("a caller that waits out the hold is refused, and the landing it would have
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
   await killed(kid)
+})
+
+test("a wait that ran out reaches a caller asking for a refusal as a refusal", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const kid = await heldBy(root)
+  const said = await refusedWhereHeld(() => Promise.resolve(holding(root, () => PROPOSED, 200)))
+  expect(said).toEqual({ refusals: [heldSaid(200)] })
+  await killed(kid)
+})
+
+test("an act that failed inside the hold is thrown on rather than answered as a refusal", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  await expect(
+    refusedWhereHeld(() =>
+      Promise.resolve(
+        holding(root, () => {
+          throw new Error("thrown for the test")
+        })
+      )
+    )
+  ).rejects.toThrow("thrown for the test")
+  expect(existsSync(join(root, LOCK_AT))).toBe(false)
 })
 
 test("a hold is released however the act inside it ends, so one failure wedges nothing after it", async () => {

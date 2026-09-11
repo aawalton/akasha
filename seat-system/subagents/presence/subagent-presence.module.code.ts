@@ -5,6 +5,7 @@ import { handedOver } from "akasha/changes/modules/subagent-handed/subagent-hand
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { dropReadings, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -321,14 +322,12 @@ export function stampedAt(when: Date): string {
   )
 }
 
-export const LOCK_HELD = "akasha-landing.lock"
-
 export const TRIES = 5
 
 export const WAIT_MS = 30_000
 
 export function worthAnotherTry(why: string): boolean {
-  return why.includes(LOCK_HELD) || why.includes(PUT_BACK)
+  return why.includes(LOCK_AT) || why.includes(PUT_BACK)
 }
 
 export async function sleeping(ms: number): Promise<void> {
@@ -347,8 +346,12 @@ export async function landingAgain(
   return went
 }
 
+export function lineFor(why: string): string {
+  return `${CALLED_AS}: ${why}`
+}
+
 function saying(why: string): number {
-  process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
+  process.stderr.write(`${stampedAt(new Date())} ${lineFor(why)}\n`)
   return 1
 }
 

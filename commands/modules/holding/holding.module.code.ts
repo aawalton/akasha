@@ -39,6 +39,23 @@ function taken(at: string, mine: string): boolean {
   }
 }
 
+export class HeldTooLong extends Error {}
+
+export function heldSaid(waited: number): string {
+  return `another landing has held \`${LOCK_AT}\` for longer than ${Math.round(waited / 1000)}s, so this change was not judged and nothing was written`
+}
+
+export async function refusedWhereHeld<T>(
+  act: () => Promise<T>
+): Promise<T | { readonly refusals: readonly string[] }> {
+  try {
+    return await act()
+  } catch (thrown) {
+    if (thrown instanceof HeldTooLong) return { refusals: [thrown.message] }
+    throw thrown
+  }
+}
+
 export function holding<T>(root: string, act: () => T, waited: number = WAITED_AT_MOST): T {
   const at = join(root, LOCK_AT)
   mkdirSync(dirname(at), { recursive: true })
@@ -50,9 +67,7 @@ export function holding<T>(root: string, act: () => T, waited: number = WAITED_A
       continue
     }
     if (Date.now() > until) {
-      throw new Error(
-        `another landing has held \`${LOCK_AT}\` for longer than ${Math.round(waited / 1000)}s, so this change was not judged and nothing was written`
-      )
+      throw new HeldTooLong(heldSaid(waited))
     }
     Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, WAITED)
   }

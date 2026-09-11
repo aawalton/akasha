@@ -56,6 +56,24 @@ export const holding = {
       statement: "The longest a caller waits for the hold is named for another caller to read.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The words a wait that ran out is known by are worded here rather than by a caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait that ran out is thrown as a kind of its own rather than as a plain error.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller asking for a refusal is answered a wait that ran out as a refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An act that failed inside the hold is thrown on rather than answered as a refusal.",
+    },
+    {
       invariantKind: "gap",
       statement: "Two landings over one worktree never overlap.",
     },

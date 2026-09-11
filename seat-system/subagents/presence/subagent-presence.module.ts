@@ -246,6 +246,14 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A held lock refuses a landing here rather than ending the run that asked for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing a held lock refused leaves its reason in the log as any refusal does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The pages under a seat are asked of the index rather than listed off a folder.",
     },
     {

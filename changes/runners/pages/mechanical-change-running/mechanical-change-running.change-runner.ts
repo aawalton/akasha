@@ -59,6 +59,10 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing another landing's hold refused answers a refusal rather than throwing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A call naming no change lands nothing and says so.",
     },
     {

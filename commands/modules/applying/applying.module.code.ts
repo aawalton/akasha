@@ -17,6 +17,7 @@ import {
   gateBuilt,
   NO_GATE,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { refusedWhereHeld } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { landing, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
 import {
@@ -302,16 +303,18 @@ export async function applied(
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
-  const done = await landing(
-    root,
-    prepared.changes,
-    message,
-    gate,
-    writer,
-    read ?? head,
-    asRead,
-    null,
-    prepared.over
+  const done = await refusedWhereHeld(() =>
+    landing(
+      root,
+      prepared.changes,
+      message,
+      gate,
+      writer,
+      read ?? head,
+      asRead,
+      null,
+      prepared.over
+    )
   )
   if ("refusals" in done) return done
   const carries = carriedFrom(root, head, moving)

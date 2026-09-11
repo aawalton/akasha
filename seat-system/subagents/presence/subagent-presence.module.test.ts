@@ -39,6 +39,7 @@ import {
   took,
   WAIT_MS,
   WRITING,
+  worthAnotherTry,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import {
@@ -48,6 +49,7 @@ import {
   GOING,
   HELD_ASSIGNMENT,
   HELD_ID,
+  HELD_LANDING,
   heldInHistory,
   heldUnder,
   idIn,
@@ -56,6 +58,7 @@ import {
   landedAt,
   landedUnder,
   landingNaming,
+  lockHeldIn,
   loggedAt,
   MECHANICAL,
   MOVED,
@@ -209,12 +212,13 @@ test("a page composed is landed by a program, and goes when the subagent is done
   })
 })
 
-test("a take-down the landing refuses answers why and takes no page away", async () => {
+test("a take-down a held hold refused answers a why worth another try, taking no page", async () => {
   await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
-    const refusing: Landing = () => Promise.resolve({ refusals: ["the index files no page there"] })
-    expect(whyIn(await took(root, "akasha", OWN, refusing))).toBe("the index files no page there")
+    lockHeldIn(root)
+    const why = whyIn(await took(root, "akasha", OWN, HELD_LANDING))
+    expect(worthAnotherTry(why)).toBe(true)
     expect(existsSync(join(root, at))).toBe(true)
   })
 })

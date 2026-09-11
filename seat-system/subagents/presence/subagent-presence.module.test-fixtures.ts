@@ -1,8 +1,16 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import {
+  heldSaid,
+  holding,
+  LOCK_AT,
+  refusedWhereHeld,
+  WAITED_AT_MOST,
+} from "akasha/commands/modules/holding/holding.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -177,9 +185,14 @@ export function heldInHistory(root: string, own: string, agentId: string, kind: 
 
 export const GOING: Went = { went: true }
 
-export const LOCKED: Went = {
-  why: "another landing has held `.git/akasha-landing.lock` for longer than 300s",
+export const LOCKED: Went = { why: heldSaid(WAITED_AT_MOST) }
+
+export function lockHeldIn(root: string): undefined {
+  writing(root, LOCK_AT, `${process.pid} ${startedAt(process.pid)}`)
 }
+
+export const HELD_LANDING: Landing = (root) =>
+  refusedWhereHeld(() => Promise.resolve(holding(root, () => LANDED, 0)))
 
 export const MOVED: Went = {
   why: `one.subagent.ts — read against \`abc\`, and what is at \`def\` is not what was read, ${PUT_BACK}`,
