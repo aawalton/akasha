@@ -113,8 +113,17 @@ function anythingLeft(under: Reading, at: string, emptied: ReadonlySet<string>):
   return false
 }
 
+type Laid = {
+  readonly base: Reading
+  readonly held: ReadonlyMap<string, readonly string[]>
+}
+
+const LAID = new WeakMap<Reading, Laid>()
+
 export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading {
-  const held = new Map<string, readonly string[]>()
+  const laid = LAID.get(under)
+  const base = laid?.base ?? under
+  const held = new Map<string, readonly string[]>(laid?.held)
   for (const one of filings) held.set(one.at, one.lines)
 
   const filled = new Set<string>()
@@ -139,16 +148,16 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
     if (filled.has(at)) return true
     if (emptied.has(at)) return false
     if ((added.get(at)?.size ?? 0) > 0) return true
-    if (at === ROOT || !thinned.has(at)) return under.holds(at)
-    return anythingLeft(under, at, emptied)
+    if (at === ROOT || !thinned.has(at)) return base.holds(at)
+    return anythingLeft(base, at, emptied)
   }
 
-  return {
+  const laying: Reading = {
     holds: holds,
-    lines: (at) => held.get(at) ?? under.lines(at),
+    lines: (at) => held.get(at) ?? base.lines(at),
     listing: (at) => {
       const found = new Map<string, boolean>()
-      for (const one of under.listing(at)) found.set(one.name, one.directory)
+      for (const one of base.listing(at)) found.set(one.name, one.directory)
       for (const [name, directory] of added.get(at) ?? []) found.set(name, directory)
       const said: Child[] = []
       for (const [name, directory] of found) {
@@ -158,4 +167,6 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
       return said
     },
   }
+  LAID.set(laying, { base, held })
+  return laying
 }

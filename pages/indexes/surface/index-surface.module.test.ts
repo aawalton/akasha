@@ -139,3 +139,40 @@ test("a reading laid over another with nothing to lay answers what stands under 
     everythingUnder(readingAt(at), "")
   )
 })
+
+const ACTS = [
+  { at: "identity/domain/slug/a.jsonl", lines: [] },
+  { at: "identity/module/slug/new.jsonl", lines: ['{"slug":"new"}'] },
+  { at: "identity/page/id/one.jsonl", lines: ['{"id":"held"}'] },
+  { at: "identity/module/slug/new.jsonl", lines: [] },
+  { at: "identity/domain/slug/a.jsonl", lines: ['{"slug":"again"}'] },
+]
+
+test("laying one act at a time answers what laying every act at once answers", () => {
+  const at = seeded()
+  let stacked = readingAt(at)
+  for (const one of ACTS) stacked = overlaidOn(stacked, [one])
+  const once = overlaidOn(readingAt(at), ACTS)
+
+  expect(everythingUnder(stacked, "")).toEqual(everythingUnder(once, ""))
+  for (const path of everythingUnder(once, "")) {
+    expect(stacked.lines(path)).toEqual(once.lines(path))
+    expect(stacked.holds(path)).toBe(once.holds(path))
+  }
+  expect(stacked.holds("identity/module/slug/new.jsonl")).toBe(false)
+  expect(stacked.lines("identity/domain/slug/a.jsonl")).toEqual(['{"slug":"again"}'])
+})
+
+test("a later act's lines are the ones a laid reading answers", () => {
+  const at = seeded()
+  const first = overlaidOn(readingAt(at), [
+    { at: "identity/page/id/one.jsonl", lines: ['{"id":"first"}'] },
+  ])
+  const second = overlaidOn(first, [
+    { at: "identity/page/id/one.jsonl", lines: ['{"id":"second"}'] },
+  ])
+
+  expect(second.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"second"}'])
+  expect(first.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"first"}'])
+  expect(second.lines("identity/page/id/two.jsonl")).toEqual(['{"id":"two"}'])
+})

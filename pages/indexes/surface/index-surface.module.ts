@@ -44,6 +44,19 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement: "A reading laid over a laid reading is laid over the reading beneath that one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The entry files of both are one set, and the later act's lines are the ones read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No reading is reached through another reading laid over the same one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry file emptied by the change does not stand.",
     },
     {
