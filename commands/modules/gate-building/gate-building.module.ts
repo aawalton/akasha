@@ -97,6 +97,11 @@ export const gateBuilding = {
       statement: "This module is never told whether the gate ran.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "`loadedBy` names a page type, and this loads two modules by slug, so nothing declares it.",
+    },
+    {
       invariantKind: "gap",
       statement: "The checks a change alters are loaded as that change leaves those checks.",
     },
