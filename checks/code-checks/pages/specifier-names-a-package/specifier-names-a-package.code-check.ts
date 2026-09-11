@@ -87,8 +87,8 @@ export const specifierNamesAPackage = {
       statement: "A package no specifier spells is not judged here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A specifier spelled with an escape is found by the scan deciding to parse.",
+      invariantKind: "absence",
+      statement: "A specifier spelled with an escape is not found by the scan deciding to parse.",
     },
   ],
   check: { maxCpuSeconds: 10 },
