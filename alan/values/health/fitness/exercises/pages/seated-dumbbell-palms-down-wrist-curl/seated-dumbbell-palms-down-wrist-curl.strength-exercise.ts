@@ -1,0 +1,35 @@
+import type { StrengthExercise } from "akasha/alan/values/health/fitness/exercises/strength-exercise.page-type.types.ts"
+
+export const seatedDumbbellPalmsDownWristCurl = {
+  id: "019ebc78-56d6-7109-a6d9-60e2c986cd0a",
+  type: "strength-exercise",
+  slug: "seated-dumbbell-palms-down-wrist-curl",
+  title: "Seated Dumbbell Palms-Down Wrist Curl",
+  exerciseCategory: "strength",
+  equipment: "dumbbell",
+  exerciseExternalId: "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl",
+  force: "pull",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+  implementCount: 2,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "pull",
+  primaryMuscles: ["forearms"],
+  scoringMode: "reps",
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

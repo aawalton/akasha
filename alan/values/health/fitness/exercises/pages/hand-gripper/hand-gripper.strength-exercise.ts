@@ -1,0 +1,25 @@
+import type { StrengthExercise } from "akasha/alan/values/health/fitness/exercises/strength-exercise.page-type.types.ts"
+
+export const handGripper = {
+  id: "019f0aaa-3b82-7774-a784-cd4a99eb9bf2",
+  type: "strength-exercise",
+  slug: "hand-gripper",
+  title: "Hand Gripper",
+  exerciseCategory: "strength",
+  equipment: "other",
+  gripDemand: "high",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "pull",
+  primaryMuscles: ["forearms"],
+  scoringMode: "reps",
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies StrengthExercise

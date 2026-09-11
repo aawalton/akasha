@@ -1,0 +1,43 @@
+import type { StrengthExercise } from "akasha/alan/values/health/fitness/exercises/strength-exercise.page-type.types.ts"
+
+export const snatch = {
+  id: "019ebc78-7b15-7b24-8235-0008902e86d3",
+  type: "strength-exercise",
+  slug: "snatch",
+  title: "Snatch",
+  exerciseCategory: "olympic-weightlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Snatch",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Snatch",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "biceps",
+    "glutes",
+    "hamstrings",
+    "lower-back",
+    "shoulders",
+    "traps",
+    "triceps",
+  ],
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise
