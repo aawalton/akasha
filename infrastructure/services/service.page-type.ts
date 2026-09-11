@@ -7,10 +7,16 @@ export const service = {
   definition: "a thing a deploy puts up",
   pluralSlug: "services",
   extends: ["page-type/domain"],
-  parts: ["text-property/deployed-commit"],
+  parts: ["text-property/deployed-commit", "text-property/refused-commit"],
   properties: [
     {
       pageProperty: "text-property/deployed-commit",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/refused-commit",
       required: false,
       many: false,
       uncommitted: true,
