@@ -11,6 +11,11 @@ import { dirname, join } from "node:path"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import { rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
@@ -30,7 +35,6 @@ import { declaringUnder } from "akasha/testing-system/declaring/declaring.module
 import { admitting } from "akasha/testing-system/minting/minting.module.code.ts"
 import { HELD } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
-import { idFiled, listedFiled, valueAlsoFiled } from "../filing/index-filing.module.code.ts"
 
 const ENDING = ".jsonl"
 
