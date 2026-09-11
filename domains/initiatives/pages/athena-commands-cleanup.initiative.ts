@@ -10,7 +10,7 @@ export const athenaCommandsCleanup = {
     {
       statement: "The five audit findings on the commands domain are reviewed and gone.",
       workingMemory:
-        "The five are `the-caller-facing-audit-of-the-command-tree-is-unreviewed`, `the-page-against-code-audit-of-commands-is-unreviewed`, `the-module-audit-of-the-command-system-is-unreviewed`, `the-folder-shape-audit-of-commands-is-unreviewed` and `the-refusal-audit-of-the-command-system-is-unreviewed`. Reviewing an item means settling it with Alan, landing it as an intent here, and taking it out of the finding. A finding whose items are all gone is deleted.\n",
+        "Two are gone, the page-against-code audit and the caller-facing audit. Three are left: `the-module-audit-of-the-command-system-is-unreviewed`, `the-folder-shape-audit-of-commands-is-unreviewed` and `the-refusal-audit-of-the-command-system-is-unreviewed`. Reviewing an item means settling it with Alan, landing it as an intent here, and taking it out of the finding. A finding whose items are all gone is deleted.\n",
     },
     {
       statement:
@@ -127,6 +127,11 @@ export const athenaCommandsCleanup = {
       statement: "A machine-facing answer is a flag on the command a person runs.",
       workingMemory:
         "`--json` is already the convention at `model-test.command.ts:15` and `icloud-fetch.command.ts:16`. Four commands are a second name instead: `domain-tree.command.ts:7` answers as JSON what `domain-dag` draws; `agent-forest:7` and `seat-compose-notices:7` each answer one JSON object; `claude-account-usage:7` answers a fleet mean where `measure-claude-accounts-usage:7` answers each account, so that pair differs in shape too. Each exists because the editor forks it.\n",
+    },
+    {
+      statement: "Every act a command carries is a command of its own, named in the tree.",
+      workingMemory:
+        "Seven commands carry acts as positionals, nineteen acts in all, none in any listing: `inference-wan.command.ts:19,23,27,29` has four, `infrastructure-dev-server:14-21` six, `infrastructure-service` five, and `alan-elaine`, `alan-food`, `inference-zimage` and `infrastructure-loki` hide exactly one each, so the word names nothing. Nobody finds `akasha inference wan score` from the top. Each act is already a command in all but the tree.\n",
     },
   ],
   constraints: [
