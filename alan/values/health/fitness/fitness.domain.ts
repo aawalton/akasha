@@ -7,7 +7,7 @@ export const fitness = {
   definition: "how Alan trains his body and what the training did",
   parts: [
     "page-type/fitness-equipment",
-    "page-type/schedule-day",
+    "page-type/coaching-schedule-day",
     "page-type/selection-policy",
     "domain/fitness-coaching",
     "domain/flexibility",

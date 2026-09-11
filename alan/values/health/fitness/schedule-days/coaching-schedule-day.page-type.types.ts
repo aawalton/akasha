@@ -3,7 +3,7 @@ import type { Focus } from "akasha/alan/values/health/fitness/schedule-days/prop
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
-export type ScheduleDay = Page & {
+export type CoachingScheduleDay = Page & {
   title: Title
   dayOfWeek: DayOfWeek
   focus: Focus
