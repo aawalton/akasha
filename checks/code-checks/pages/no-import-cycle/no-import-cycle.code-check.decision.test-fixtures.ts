@@ -1,6 +1,9 @@
 import { refusalsOver } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { bodiesOver } from "akasha/checks/modules/staging/check-staging.module.code.ts"
+import {
+  bodiesOver,
+  change as staged,
+} from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -23,8 +26,24 @@ export function rooted(): string {
 
 export const ROOT = rooted()
 
+export const READS_TWO = 'import { two } from "./two.ts"\n\nexport const one = two\n'
+
+export const READS_ONE = 'import { one } from "./one.ts"\n\nexport const two = one\n'
+
+export const READS_ONE_OUT = 'import { one } from "./one.ts"\n\nexport const out = one\n'
+
+export const ALONE = "export const one = 1\n"
+
 export function change(bodies: Readonly<Record<string, string>>): Change {
   return bodiesOver(ROOT, bodies)
+}
+
+export function patched(
+  before: Readonly<Record<string, string>>,
+  after: Readonly<Record<string, string | null>>,
+  root: string = ROOT
+): Change {
+  return staged(root, after, before)
 }
 
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {

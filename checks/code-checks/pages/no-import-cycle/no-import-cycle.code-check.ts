@@ -16,11 +16,27 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "A file outside the change is read where an importer reaches that file.",
+      statement: "A file outside the change is read where the change reaches that file by import.",
     },
     {
       invariantKind: "departure",
       statement: "Only a cycle with a file the change has is refused.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A cycle the change closes has an import that change adds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change adding no import is judged without any file being read around it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An added import is searched forward for the file that import is written in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cycle already there when the change arrived is the audit's rather than this.",
     },
     {
       invariantKind: "departure",

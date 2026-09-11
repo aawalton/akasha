@@ -1,20 +1,61 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  addedIn,
   cyclesIn,
   reachedIn,
   reachingIn,
+  refusalsAdded,
   refusalsOver,
 } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.code.ts"
 import {
+  ALONE,
   AT,
   change,
+  patched,
   pathsRefused,
+  READS_ONE,
+  READS_TWO,
   ROOT,
   refused,
   scratch,
+  TWO_AT,
 } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+test("an import the change did not add is no added import", () => {
+  const held = patched({ [AT]: READS_TWO, [TWO_AT]: READS_ONE }, { [AT]: `${READS_TWO}\n` })
+  expect(addedIn(held)).toEqual([])
+  expect(refusalsAdded(held)).toEqual([])
+})
+
+test("an import the change writes is an added import", () => {
+  const held = patched({ [AT]: ALONE, [TWO_AT]: READS_ONE }, { [AT]: READS_TWO })
+  expect(addedIn(held)).toEqual([{ from: AT, to: TWO_AT }])
+})
+
+test("every import a file the change adds carries is an added import", () => {
+  const held = patched({ [TWO_AT]: READS_ONE }, { [AT]: READS_TWO })
+  expect(addedIn(held)).toEqual([{ from: AT, to: TWO_AT }])
+})
+
+test("an added import the file it names reaches back along is a cycle", () => {
+  const held = patched({ [AT]: ALONE, [TWO_AT]: READS_ONE }, { [AT]: READS_TWO })
+  expect(refusalsAdded(held).map((one) => one.path)).toEqual([AT, TWO_AT])
+})
+
+test("a cycle already there when the change arrived is refused nothing here", () => {
+  const held = patched({ [AT]: READS_TWO, [TWO_AT]: READS_ONE }, { [AT]: `${READS_TWO}\n` })
+  expect(refusalsAdded(held)).toEqual([])
+  expect(refusalsOver(held).map((one) => one.path)).toEqual([AT, TWO_AT])
+})
+
+test("a file that begins importing itself is refused by the added import", () => {
+  const held = patched({ [AT]: ALONE }, { [AT]: 'import { a } from "./one.ts"\n' })
+  const said = refusalsAdded(held)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("imports itself")
+})
 
 test("two files that import each other by value are both refused", () => {
   const said = refused({

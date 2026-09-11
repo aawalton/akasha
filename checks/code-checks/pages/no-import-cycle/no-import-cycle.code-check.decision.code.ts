@@ -1,6 +1,7 @@
 import {
   textIn,
   textNamed,
+  textWas,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
@@ -34,45 +35,110 @@ export function reachedIn(at: string, text: string): readonly string[] {
   return found
 }
 
-export function reachingIn(
-  change: Change,
-  importersOf: (path: string) => readonly string[] = () => []
-): ReadonlyMap<string, readonly string[]> {
-  const held = new Set(change.changed.filter((one) => textNamed(one)))
-  const back = [...held]
-  while (back.length > 0) {
-    const at = back.pop()
-    if (at === undefined) break
-    for (const one of importersOf(at)) {
-      if (!textNamed(one) || held.has(one)) continue
-      held.add(one)
-      back.push(one)
-    }
+export type Edge = {
+  readonly from: string
+  readonly to: string
+}
+
+const AFTER = new WeakMap<Change, Map<string, readonly string[]>>()
+
+function landedIn(
+  at: string,
+  text: string | null,
+  stands: (path: string) => boolean
+): readonly string[] {
+  if (text === null) return []
+  const outs: string[] = []
+  for (const one of reachedIn(at, text)) {
+    const landed = landingOf(at, one)
+    if (landed === null || outs.includes(landed) || !textNamed(landed)) continue
+    if (!stands(landed)) continue
+    outs.push(landed)
   }
+  return outs
+}
+
+export function reachedAfter(change: Change, at: string): readonly string[] {
+  let held = AFTER.get(change)
+  if (held === undefined) {
+    held = new Map()
+    AFTER.set(change, held)
+  }
+  const found = held.get(at)
+  if (found !== undefined) return found
+  const made = landedIn(at, textIn(change, at), (path) => textIn(change, path) !== null)
+  held.set(at, made)
+  return made
+}
+
+export function reachedBefore(change: Change, at: string): readonly string[] {
+  return landedIn(at, textWas(change, at), (path) => textWas(change, path) !== null)
+}
+
+export function reachingIn(change: Change): ReadonlyMap<string, readonly string[]> {
+  const held = new Set(change.changed.filter((one) => textNamed(one)))
   const found = new Map<string, readonly string[]>()
   const ahead = [...held].sort()
-  while (ahead.length > 0) {
-    const path = ahead.shift()
-    if (path === undefined) break
-    if (found.has(path)) continue
-    const text = textIn(change, path)
-    if (text === null) {
-      found.set(path, [])
-      continue
-    }
-    const outs: string[] = []
-    for (const one of reachedIn(path, text)) {
-      const landed = landingOf(path, one)
-      if (landed === null || outs.includes(landed) || !textNamed(landed)) continue
-      if (textIn(change, landed) === null) continue
-      outs.push(landed)
-      if (held.has(landed)) continue
-      held.add(landed)
-      ahead.push(landed)
-    }
+  let at = 0
+  while (at < ahead.length) {
+    const path = ahead[at]
+    at += 1
+    if (path === undefined || found.has(path)) continue
+    const outs = reachedAfter(change, path)
     found.set(path, outs)
+    for (const one of outs) {
+      if (held.has(one)) continue
+      held.add(one)
+      ahead.push(one)
+    }
   }
   return found
+}
+
+export function addedIn(change: Change): readonly Edge[] {
+  const said: Edge[] = []
+  for (const from of change.changed) {
+    if (!textNamed(from)) continue
+    const now = reachedAfter(change, from)
+    if (now.length === 0) continue
+    const was = new Set(reachedBefore(change, from))
+    for (const to of now) {
+      if (was.has(to)) continue
+      said.push({ from, to })
+    }
+  }
+  return said
+}
+
+function heldBack(came: ReadonlyMap<string, string>, edge: Edge): readonly string[] {
+  const held: string[] = [edge.from]
+  let at = came.get(edge.from)
+  while (at !== undefined) {
+    held.push(at)
+    at = came.get(at)
+  }
+  return held
+}
+
+export function cycleFor(change: Change, edge: Edge): readonly string[] | null {
+  if (edge.to === edge.from) return [edge.from]
+  const came = new Map<string, string>()
+  const seen = new Set<string>([edge.to])
+  const queue: string[] = [edge.to]
+  let at = 0
+  while (at < queue.length) {
+    const one = queue[at]
+    at += 1
+    if (one === undefined) continue
+    for (const next of reachedAfter(change, one)) {
+      if (seen.has(next)) continue
+      seen.add(next)
+      came.set(next, one)
+      if (next === edge.from) return heldBack(came, edge)
+      queue.push(next)
+    }
+  }
+  return null
 }
 
 export function cyclesIn(
@@ -121,15 +187,28 @@ export function reasonFor(at: string, held: readonly string[]): string {
   return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
 
-export function refusalsOver(
-  change: Change,
-  importersOf: (path: string) => readonly string[] = () => []
-): readonly Judged[] {
+export function refusalsOver(change: Change): readonly Judged[] {
   const carried = new Set(change.changed)
   const said: Judged[] = []
-  for (const held of cyclesIn(reachingIn(change, importersOf))) {
+  for (const held of cyclesIn(reachingIn(change))) {
     if (!held.some((one) => carried.has(one))) continue
     for (const path of held) said.push({ path, reason: reasonFor(path, held) })
   }
   return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+}
+
+export function refusalsAdded(change: Change): readonly Judged[] {
+  const said = new Map<string, Judged>()
+  for (const edge of addedIn(change)) {
+    const found = cycleFor(change, edge)
+    if (found === null) continue
+    const held = [...found].sort()
+    for (const path of held) {
+      if (said.has(path)) continue
+      said.set(path, { path, reason: reasonFor(path, held) })
+    }
+  }
+  return [...said.values()].sort((one, two) =>
+    one.path < two.path ? -1 : one.path > two.path ? 1 : 0
+  )
 }
