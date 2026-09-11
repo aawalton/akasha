@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { ptyProxyRel } from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import { HANDLER } from "akasha/seat-system/seat-naming/seat-naming.module.code.ts"
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
@@ -37,9 +38,7 @@ describe("a session", () => {
 
 describe("the launch", () => {
   test("is composed from the same recipe a program launching a seat uses", () => {
-    expect(launching).toContain(
-      'bun run "$_root/seat-system/pty-proxy/pty-proxy.module.code.ts" -- bun run'
-    )
+    expect(launching).toContain(`bun run "$_root/${ptyProxyRel()}" -- bun run`)
     expect(launching).toContain("env -u TMUX -u TMUX_PANE")
     expect(launching).toContain("systemd-run --user --scope --collect --quiet")
     expect(launching).toContain("set-option -g status off")
