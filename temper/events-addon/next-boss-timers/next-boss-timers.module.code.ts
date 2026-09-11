@@ -3,12 +3,16 @@ import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declarati
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
-import { GREEN, RED, RESET } from "../next-boss-colors/next-boss-colors.module.code.ts"
+import {
+  GREEN,
+  RED,
+  RESET,
+} from "akasha/temper/events-addon/next-boss-colors/next-boss-colors.module.code.ts"
 import {
   SPAWNTIME_DEFAULT,
   SPAWNTIME_EVENT,
-} from "../next-boss-constants/next-boss-constants.module.code.ts"
-import { ICT } from "../next-boss-state/next-boss-state.module.code.ts"
+} from "akasha/temper/events-addon/next-boss-constants/next-boss-constants.module.code.ts"
+import { ICT } from "akasha/temper/events-addon/next-boss-state/next-boss-state.module.code.ts"
 
 function respawnFor(this: void, district: string): number {
   return ICT.timetable[district] ?? 0

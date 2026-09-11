@@ -1,6 +1,6 @@
 import "akasha/temper/eso-types/eso-api-3/eso-api-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-link-handler/eso-link-handler.type-declaration.d.ts"
-import "../../addon-library-types/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
+import "akasha/temper/addon-library-types/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
 
 import {
   ADDON_NAME,
@@ -8,7 +8,7 @@ import {
   FALLBACK_MAX_TIME,
   SPAWNTIME_DEFAULT,
   SPAWNTIME_MOLAG,
-} from "../next-boss-constants/next-boss-constants.module.code.ts"
+} from "akasha/temper/events-addon/next-boss-constants/next-boss-constants.module.code.ts"
 
 export interface IctUi {
   opened: boolean

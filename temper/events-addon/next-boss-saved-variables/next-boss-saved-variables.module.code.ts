@@ -1,7 +1,10 @@
 import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 
-import { SAVED_VARIABLES_NAME } from "../next-boss-constants/next-boss-constants.module.code.ts"
-import { ICT, type IctSavedVariables } from "../next-boss-state/next-boss-state.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/events-addon/next-boss-constants/next-boss-constants.module.code.ts"
+import {
+  ICT,
+  type IctSavedVariables,
+} from "akasha/temper/events-addon/next-boss-state/next-boss-state.module.code.ts"
 
 const DEFAULTS: IctSavedVariables = {
   timetable: true,

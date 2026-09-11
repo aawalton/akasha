@@ -1,10 +1,10 @@
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
-import "../../addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
+import { initializeSavedVariables } from "akasha/temper/events-addon/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"
+import { ICT } from "akasha/temper/events-addon/next-boss-state/next-boss-state.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import { initializeSavedVariables } from "../next-boss-saved-variables/next-boss-saved-variables.module.code.ts"
-import { ICT } from "../next-boss-state/next-boss-state.module.code.ts"
 
 const PANEL_ID = "ICTS"
 

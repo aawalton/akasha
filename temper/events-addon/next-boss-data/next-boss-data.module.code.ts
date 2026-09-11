@@ -1,6 +1,6 @@
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
-import { ICT } from "../next-boss-state/next-boss-state.module.code.ts"
+import { ICT } from "akasha/temper/events-addon/next-boss-state/next-boss-state.module.code.ts"
 
 export function initData(this: void): undefined {
   ICT.locations = {

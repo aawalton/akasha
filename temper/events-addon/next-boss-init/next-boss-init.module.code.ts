@@ -6,22 +6,22 @@ import "akasha/temper/eso-types/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-link-handler/eso-link-handler.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import "../next-boss-global/next-boss-global.module.code.ts"
+import "akasha/temper/events-addon/next-boss-global/next-boss-global.module.code.ts"
 
-import { makeUiStrings } from "../next-boss-ui-strings/next-boss-ui-strings.module.code.ts"
+import { makeUiStrings } from "akasha/temper/events-addon/next-boss-ui-strings/next-boss-ui-strings.module.code.ts"
 
 makeUiStrings()
 
-import "../next-boss-timers/next-boss-timers.module.code.ts"
-import "../next-boss-events/next-boss-events.module.code.ts"
-import "../next-boss-gui/next-boss-gui.module.code.ts"
-import "../next-boss-menu/next-boss-menu.module.code.ts"
+import "akasha/temper/events-addon/next-boss-timers/next-boss-timers.module.code.ts"
+import "akasha/temper/events-addon/next-boss-events/next-boss-events.module.code.ts"
+import "akasha/temper/events-addon/next-boss-gui/next-boss-gui.module.code.ts"
+import "akasha/temper/events-addon/next-boss-menu/next-boss-menu.module.code.ts"
 
-import { SLASH_COMMAND } from "../next-boss-constants/next-boss-constants.module.code.ts"
-import { initData } from "../next-boss-data/next-boss-data.module.code.ts"
-import { setupBroadcast } from "../next-boss-events/next-boss-events.module.code.ts"
-import { initUi } from "../next-boss-gui/next-boss-gui.module.code.ts"
-import { ICT } from "../next-boss-state/next-boss-state.module.code.ts"
+import { SLASH_COMMAND } from "akasha/temper/events-addon/next-boss-constants/next-boss-constants.module.code.ts"
+import { initData } from "akasha/temper/events-addon/next-boss-data/next-boss-data.module.code.ts"
+import { setupBroadcast } from "akasha/temper/events-addon/next-boss-events/next-boss-events.module.code.ts"
+import { initUi } from "akasha/temper/events-addon/next-boss-gui/next-boss-gui.module.code.ts"
+import { ICT } from "akasha/temper/events-addon/next-boss-state/next-boss-state.module.code.ts"
 
 export function initNextBoss(this: void): undefined {
   initData()
