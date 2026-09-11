@@ -1,6 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { page } from "../placing/secret-placing.module.test-fixtures.ts"
-import { flagValues, heldBy, labelsOf, secretYaml } from "./secret-saying.module.code.ts"
+import { page } from "akasha/services/secrets/placing/secret-placing.module.test-fixtures.ts"
+import {
+  flagValues,
+  heldBy,
+  labelsOf,
+  secretYaml,
+} from "akasha/services/secrets/saying/secret-saying.module.code.ts"
 
 describe("heldBy", () => {
   test("gathers every page placing a value in the resource", () => {

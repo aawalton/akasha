@@ -1,4 +1,4 @@
-import type { SecretPage } from "./secret-placing.module.code.ts"
+import type { SecretPage } from "akasha/services/secrets/placing/secret-placing.module.code.ts"
 
 export function page(slug: string, ...pairs: readonly (readonly [string, string])[]): SecretPage {
   return {

@@ -1,6 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { DeployRefused, placedAt, placementsIn } from "./secret-placing.module.code.ts"
-import { page } from "./secret-placing.module.test-fixtures.ts"
+import {
+  DeployRefused,
+  placedAt,
+  placementsIn,
+} from "akasha/services/secrets/placing/secret-placing.module.code.ts"
+import { page } from "akasha/services/secrets/placing/secret-placing.module.test-fixtures.ts"
 
 describe("placementsIn", () => {
   test("reads every resource and key a page names", () => {
