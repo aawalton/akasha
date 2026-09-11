@@ -84,5 +84,9 @@ export const alanWebRoutes = {
       invariantKind: "departure",
       statement: "A browser is handed the relative address that browser resolves itself.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An email address a route draws is readable in the HTML Cloudflare serves.",
+    },
   ],
 } as const satisfies AppRoutes

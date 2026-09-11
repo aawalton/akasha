@@ -3,6 +3,9 @@ import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { SmsOptInForm } from "akasha/persons/sms-opt-in/sms-opt-in.module.code.tsx"
 
+const EMAIL_LINK_HTML =
+  '<!--email_off--><a class="text-accent underline" href="mailto:alan@alanwalton.com">alan@alanwalton.com</a><!--/email_off-->'
+
 export function meta() {
   return [
     { title: "Amy — Messaging Terms, Consent & Privacy" },
@@ -152,10 +155,7 @@ export default function SmsRoute() {
         <PanelCard id="contact" title="Contact">
           <p className="text-secondary text-sm">
             Questions about this service or these terms? Contact{" "}
-            <a className="text-accent underline" href="mailto:alan@alanwalton.com">
-              alan@alanwalton.com
-            </a>
-            .
+            <span dangerouslySetInnerHTML={{ __html: EMAIL_LINK_HTML }} />.
           </p>
         </PanelCard>
       </div>

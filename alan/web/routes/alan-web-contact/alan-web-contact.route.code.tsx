@@ -1,6 +1,9 @@
 import { PageTitle } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 
+const EMAIL_LINK_HTML =
+  '<!--email_off--><a class="text-accent underline" href="mailto:alan@alanwalton.com">alan@alanwalton.com</a><!--/email_off-->'
+
 export function meta() {
   return [
     { title: "Contact — Alan Walton" },
@@ -25,10 +28,7 @@ export default function ContactRoute() {
         <PanelCard id="contact" title="Contact information">
           <ul className="space-y-2 text-secondary text-sm">
             <li>
-              Email:{" "}
-              <a href="mailto:alan@alanwalton.com" className="text-accent underline">
-                alan@alanwalton.com
-              </a>
+              Email: <span dangerouslySetInnerHTML={{ __html: EMAIL_LINK_HTML }} />
             </li>
             <li>
               Business address:{" "}
