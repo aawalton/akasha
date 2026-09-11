@@ -7,7 +7,7 @@ export const namedExtensionProperty = {
   definition: "a page property held in the files beside a page closing with one extension",
   pluralSlug: "named-extension-properties",
   parts: ["text-property/extension-name"],
-  extends: ["page-type/page-property"],
+  extends: ["page-type/true-property"],
   properties: [
     { pageProperty: "text-property/extension-name", required: true, many: false },
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },

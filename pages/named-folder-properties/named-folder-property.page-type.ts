@@ -8,7 +8,7 @@ export const namedFolderProperty = {
   definition: "a page property held in a folder whose name is stated",
   pluralSlug: "named-folder-properties",
   parts: ["text-property/folder-name"],
-  extends: ["page-type/page-property"],
+  extends: ["page-type/true-property"],
   properties: [
     { pageProperty: "text-property/folder-name", required: true, many: false },
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
