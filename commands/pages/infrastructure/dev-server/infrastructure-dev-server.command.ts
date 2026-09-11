@@ -9,7 +9,7 @@ export const infrastructureDevServer = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
-  parts: ["module/last-lines"],
+  parts: ["module/dev-server-argument-reading", "module/last-lines"],
   taking: [
     {
       said: "bootstrap",
