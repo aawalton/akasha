@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "No tool walks up: react-router and Capacitor both take process.cwd(), measured in node_modules. So the 7 web apps need no tool change; 5 go now, and alan/web pairs with web-capacitor once 21 specifiers come off its exports map. The 3 ios-apps wait on the mac build installing at the root. 2 can never go: ops-extension is vscode own descriptor, and vscode-typings is named workspace:* by the root. A removal leaving a dangling workspace:* fails the deploy frozen-lockfile gate.",
+        "No tool walks up: react-router and Capacitor take process.cwd(). Five manifests are left. The three ios-apps wait on the mac build installing at the root. ops-extension can still go: extensionsScannerService hardcodes `package.json` in three places, but only in the folder it scans, and that folder is one we make at linkedAt, so composing the manifest there, outside the repo, needs no fork patch. vscode-typings goes once the IDE has another route to the vscode types.\n",
     },
     {
       statement: "A cluster service deploys naming no package but the root.",
