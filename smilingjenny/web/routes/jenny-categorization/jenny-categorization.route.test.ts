@@ -130,10 +130,12 @@ test("a reading arriving replaces the one held before it", async () => {
   expect(body.unreviewed).toBe(8)
 })
 
-test("a reading past forty-five minutes is no reading", async () => {
+test("a reading taken long ago keeps what it holds", async () => {
   dropRelayed()
   await carryNow(99, new Date(Date.now() - 46 * 60_000))
-  expect((await ring(RING_CREDENTIAL)).status).toBe(503)
+  const answered = await ring(RING_CREDENTIAL)
+  expect(answered.status).toBe(200)
+  expect(((await answered.json()) as { unreviewed: number }).unreviewed).toBe(99)
 })
 
 test("a machine that starts again holds no reading", async () => {
