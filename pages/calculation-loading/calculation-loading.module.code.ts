@@ -2,6 +2,7 @@ import { dirname, join } from "node:path"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { Held } from "akasha/pages/computing/page-computing.module.code.ts"
 import { declaredIn } from "akasha/pages/value/page-value.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const WORK = "work"
 
@@ -76,7 +77,7 @@ export function workIn(body: string, at: string, textOf: TextOf): Loaded {
   const held = declared[WORK]
   if (typeof held === "function") return { work: held as Work<Held, unknown> }
   const named = Object.keys(declared).sort()
-  const what = named.length === 0 ? "nothing" : named.map((one) => `\`${one}\``).join(", ")
+  const what = named.length === 0 ? "nothing" : namesDrawn(named)
   return {
     failed: `a calculation is the export named \`work\`, and this code file exports ${what}`,
   }
