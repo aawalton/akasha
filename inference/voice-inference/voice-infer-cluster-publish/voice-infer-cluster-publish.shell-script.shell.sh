@@ -21,7 +21,7 @@ if [ -z "$BUILDCTL" ]; then
   chmod +x "$BUILDCTL"
 fi
 
-echo "[publish] building ${IMAGE} from ${PKG_DIR}/voice-infer-image/Containerfile via ${BUILDKIT_ADDR}"
+echo "[publish] building ${IMAGE} from ${PKG_DIR} via ${BUILDKIT_ADDR}"
 "$BUILDCTL" \
   --addr "$BUILDKIT_ADDR" \
   build \
