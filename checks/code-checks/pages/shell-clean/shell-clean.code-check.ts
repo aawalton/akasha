@@ -108,7 +108,7 @@ export const shellClean = {
         "A refusal for a missing linter names the linter rather than a fault in the change.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "Only shell scripts are judged.",
     },
   ],
