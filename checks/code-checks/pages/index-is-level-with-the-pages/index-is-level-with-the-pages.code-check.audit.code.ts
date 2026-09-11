@@ -4,14 +4,38 @@ import {
 } from "akasha/checks/code-checks/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { said } from "akasha/utils/run/running/running.module.code.ts"
+
+const PARTED_BY = "\n"
 
 export type Reconciling = (root: string) => Drifted
 
+export type Committing = (root: string) => string
+
+export type Moving = (root: string, from: string, to: string) => readonly string[]
+
+export type Reading = {
+  readonly read?: Reconciling
+  readonly at?: Committing
+  readonly moved?: Moving
+}
+
 export const reconciling: Reconciling = (root) => refreshedWhole(root, root, false).drift
 
-export function indexIsLevelWithThePages(
-  root: string,
-  read: Reconciling = reconciling
-): readonly Judged[] {
-  return judgedIn(read(root))
+export const committing: Committing = (root) =>
+  said(["git", "-C", root, "rev-parse", "HEAD"]).trim()
+
+export const moving: Moving = (root, from, to) =>
+  said(["git", "-C", root, "diff", "--name-only", from, to])
+    .split(PARTED_BY)
+    .filter((one) => one !== "")
+
+export function indexIsLevelWithThePages(root: string, given: Reading = {}): readonly Judged[] {
+  const read = given.read ?? reconciling
+  const at = given.at ?? committing
+  const moved = given.moved ?? moving
+  const before = at(root)
+  const drift = read(root)
+  const after = at(root)
+  return judgedIn(drift, before === after ? [] : moved(root, before, after))
 }

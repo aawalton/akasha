@@ -42,17 +42,20 @@ export function fileIn(entry: string): string {
   return held.startsWith(AT_PATH) ? held.slice(AT_PATH.length) : held
 }
 
-export function judgedIn(drift: Drifted): readonly Judged[] {
+export function judgedIn(drift: Drifted, moved: readonly string[]): readonly Judged[] {
   const over: readonly (readonly [readonly string[], string])[] = [
     [drift.added, MISSING],
     [drift.changed, DIFFERS],
     [drift.went, ORPHANED],
   ]
+  const churn = new Set(moved)
   const said: Judged[] = []
   for (const [every, how] of over) {
     for (const entry of every) {
       if (!judgedEntry(entry)) continue
-      said.push({ path: fileIn(entry), reason: `the index entry for this file ${how}` })
+      const path = fileIn(entry)
+      if (churn.has(path)) continue
+      said.push({ path, reason: `the index entry for this file ${how}` })
     }
   }
   return said

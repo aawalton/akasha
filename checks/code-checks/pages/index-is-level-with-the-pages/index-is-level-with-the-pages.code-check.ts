@@ -40,6 +40,26 @@ export const indexIsLevelWithThePages = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit is read before the reconcile runs and again after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file git says moved across that span is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file landed while the reconcile ran, so its drift is no skew either.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repository that never moved across that span is asked for no span.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drift outside that span refuses though the repository moved.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A missing page shows as an entry of its own as well as in what gathers many.",
     },
     {

@@ -9,6 +9,8 @@ import {
 
 const NOTHING = { added: [], changed: [], went: [] }
 
+const STILL: readonly string[] = []
+
 test("an entry is stripped of the ending every entry file carries", () => {
   expect(stemOf("path/checks/one.ts.jsonl")).toBe("path/checks/one.ts")
   expect(stemOf("path/checks/one.ts")).toBe("path/checks/one.ts")
@@ -33,31 +35,44 @@ test("the file an entry names is read back out of the entry", () => {
 })
 
 test("a drift with nothing in it refuses nothing", () => {
-  expect(judgedIn(NOTHING)).toEqual([])
+  expect(judgedIn(NOTHING, STILL)).toEqual([])
 })
 
 test("a file the index never filed is refused, and named", () => {
-  const said = judgedIn({ ...NOTHING, added: ["path/checks/one.ts.jsonl"] })
+  const said = judgedIn({ ...NOTHING, added: ["path/checks/one.ts.jsonl"] }, STILL)
   expect(said.map((one) => one.path)).toEqual(["checks/one.ts"])
   expect(said[0]?.reason).toContain("missing from the index")
 })
 
 test("a file the index holds differing from its page is refused", () => {
-  const said = judgedIn({ ...NOTHING, changed: ["path/checks/one.ts.jsonl"] })
+  const said = judgedIn({ ...NOTHING, changed: ["path/checks/one.ts.jsonl"] }, STILL)
   expect(said[0]?.reason).toContain("differing from what its page says")
 })
 
 test("a file the index holds and no page names is refused", () => {
-  const said = judgedIn({ ...NOTHING, went: ["path/checks/gone.ts.jsonl"] })
+  const said = judgedIn({ ...NOTHING, went: ["path/checks/gone.ts.jsonl"] }, STILL)
   expect(said.map((one) => one.path)).toEqual(["checks/gone.ts"])
   expect(said[0]?.reason).toContain("named by no page")
 })
 
 test("the churn an uncommitted page makes refuses nothing", () => {
-  const said = judgedIn({
-    added: ["path/seats/thea.seat.edits.uncommitted.jsonl.jsonl"],
-    changed: ["listing/path.jsonl"],
-    went: ["rule/read/at-path.jsonl"],
-  })
+  const said = judgedIn(
+    {
+      added: ["path/seats/thea.seat.edits.uncommitted.jsonl.jsonl"],
+      changed: ["listing/path.jsonl"],
+      went: ["rule/read/at-path.jsonl"],
+    },
+    STILL
+  )
   expect(said).toEqual([])
+})
+
+test("a file named as having moved refuses nothing", () => {
+  const drift = {
+    ...NOTHING,
+    added: ["path/checks/one.ts.jsonl"],
+    went: ["path/checks/gone.ts.jsonl"],
+  }
+  const said = judgedIn(drift, ["checks/gone.ts"])
+  expect(said.map((one) => one.path)).toEqual(["checks/one.ts"])
 })
