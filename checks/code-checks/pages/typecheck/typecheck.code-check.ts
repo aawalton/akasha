@@ -251,7 +251,7 @@ export const typecheck = {
       statement: "An audit hands this check every file, so its program is the whole tree.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A change reading clean here can refuse at audit over a file no change roots.",
     },
   ],
