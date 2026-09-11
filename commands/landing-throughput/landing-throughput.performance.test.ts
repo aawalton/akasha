@@ -4,7 +4,7 @@ import {
   linesFor,
   percentileOf,
   ratedIn,
-} from "./landing-throughput.performance.code.ts"
+} from "akasha/commands/landing-throughput/landing-throughput.performance.code.ts"
 
 const SORTED: readonly number[] = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
