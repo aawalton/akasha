@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
+import type { StoryDesignNote } from "akasha/story/design-notes/story-design-note.page-type.types.ts"
 
 export const theTowerFloorsFloor03 = {
   id: "01a0657d-bb98-7075-8b06-658d9abf7cbf",

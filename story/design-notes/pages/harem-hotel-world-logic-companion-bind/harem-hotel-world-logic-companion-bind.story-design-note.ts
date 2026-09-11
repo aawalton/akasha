@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
+import type { StoryDesignNote } from "akasha/story/design-notes/story-design-note.page-type.types.ts"
 
 export const haremHotelWorldLogicCompanionBind = {
   id: "01a0657d-bb98-7276-aff6-6ec9c74f7085",

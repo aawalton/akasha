@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
+import type { StoryDesignNote } from "akasha/story/design-notes/story-design-note.page-type.types.ts"
 
 export const haremHotelRulebook = {
   id: "01a0657d-bb98-7062-ab1e-9e3fd3e6234f",

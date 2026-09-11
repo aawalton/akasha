@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
+import type { StoryDesignNote } from "akasha/story/design-notes/story-design-note.page-type.types.ts"
 
 export const theTowerFleetNotes = {
   id: "01a0657d-bb98-78f9-ad17-3ecf534d2520",
