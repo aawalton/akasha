@@ -8,4 +8,5 @@ export const provisionWorkstation = {
   definition: "the Linux workstation brought to the state agents work on it in",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
