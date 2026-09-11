@@ -63,6 +63,16 @@ export const nameFormatJudgesByOneShape = {
       statement: "A format that fails is named in a refusal of its own.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A format that fails where the change names an edit at its code is refused as written.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal over code the change names no edit at says the change did not write what failed.",
+    },
+    {
       invariantKind: "absence",
       statement: "The names a shape lets through are not judged here.",
     },

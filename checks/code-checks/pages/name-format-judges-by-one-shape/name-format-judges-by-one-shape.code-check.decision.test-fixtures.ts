@@ -87,8 +87,10 @@ export function tracked(body: string): string {
   return root
 }
 
-export function judgedBy(root: string): readonly Judged[] {
-  const held = change(root, [])
+export const WILL_NOT_LOAD = `${IMPORTING}\nexport const lowerKebabCase = matching(/^[a-z-]+$/\n`
+
+export function judgedBy(root: string, named: readonly string[] = []): readonly Judged[] {
+  const held = change(root, named)
   const cast = shadowFor(held)
   if ("refused" in cast) throw new Error(cast.refused)
   return refusalsOver(held, cast.shadow)

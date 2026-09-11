@@ -9,6 +9,7 @@ import {
   rooted,
   SLUG,
   scratch,
+  WILL_NOT_LOAD,
 } from "akasha/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -87,4 +88,19 @@ test("a name format answering to nothing its slug names is refused", () => {
     rooted(`${IMPORTING}\nexport const somethingElse = matching(/^[a-z-]+$/)\n`)
   )
   expect(said.some((one) => one.reason.includes("answers to nothing that can judge"))).toBe(true)
+})
+
+test("a format's code that will not load is refused as written where the change names it", () => {
+  const said = judgedBy(rooted(WILL_NOT_LOAD), [AT])
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("could not be loaded")
+  expect(said[0]?.reason).not.toContain("names no edit")
+})
+
+test("a format's code that will not load says so where the change names no edit there", () => {
+  const said = judgedBy(rooted(WILL_NOT_LOAD))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("could not be loaded")
+  expect(said[0]?.reason).toContain(`this change names no edit at ${AT}`)
+  expect(said[0]?.reason).toContain("not what this change wrote")
 })

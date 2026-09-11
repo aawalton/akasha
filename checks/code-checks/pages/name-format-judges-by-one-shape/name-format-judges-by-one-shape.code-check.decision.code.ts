@@ -94,7 +94,15 @@ export function reasonsIn(slug: string, path: string, text: string, at: string):
   return found
 }
 
+function untouchedBy(why: string, beside: string): string {
+  return (
+    `${why} — this change names no edit at ${beside}, so what failed here is not what ` +
+    "this change wrote"
+  )
+}
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  const carried = new Set(change.changed)
   const formatting = matchingIn(change.root, shadow.index, shadow.codeAt)
   const named = shadow.index.listedAt(MODULE, MATCHING_SLUG)[0]
   if (named === undefined) {
@@ -129,9 +137,10 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
     try {
       formatting(`${NAME_FORMAT}/${said.slug}`)
     } catch (thrown) {
+      const why = thrown instanceof Error ? thrown.message : String(thrown)
       found.push({
         path: one.path,
-        reason: thrown instanceof Error ? thrown.message : String(thrown),
+        reason: carried.has(beside) ? why : untouchedBy(why, beside),
       })
     }
   }
