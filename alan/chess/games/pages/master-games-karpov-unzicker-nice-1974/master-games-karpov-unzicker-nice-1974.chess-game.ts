@@ -2,7 +2,6 @@ import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.typ
 
 export const masterGamesKarpovUnzickerNice1974 = {
   id: "019f248f-e85c-7235-b9ff-aca1bd51b7be",
-  pageTypeSlug: "chess-game",
   type: "chess-game",
   slug: "master-games-karpov-unzicker-nice-1974",
   title: "Anatoly Karpov vs Wolfgang Unzicker · classical · 1974-06-18",

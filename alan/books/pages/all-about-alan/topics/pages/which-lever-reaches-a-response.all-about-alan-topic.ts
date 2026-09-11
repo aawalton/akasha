@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whichLeverReachesAResponse = {
   id: "01a06559-9d65-7874-b618-bc127160feac",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "which-lever-reaches-a-response",
   title: "Which Lever Reaches A Response",

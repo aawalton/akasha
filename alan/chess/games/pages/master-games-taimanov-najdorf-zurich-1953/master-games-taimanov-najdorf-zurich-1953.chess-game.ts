@@ -2,7 +2,6 @@ import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.typ
 
 export const masterGamesTaimanovNajdorfZurich1953 = {
   id: "019f248f-e85f-7b5d-86bc-e24efca32c90",
-  pageTypeSlug: "chess-game",
   type: "chess-game",
   slug: "master-games-taimanov-najdorf-zurich-1953",
   title: "Mark Taimanov vs Miguel Najdorf · classical · 1953-09-05",

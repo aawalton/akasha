@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatICannotPlayForward = {
   id: "01a06559-9d65-798d-9778-0ee21ceffde9",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-i-cannot-play-forward",
   title: "What I Cannot Play Forward",

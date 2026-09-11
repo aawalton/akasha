@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyIKeepMyDataInFiles = {
   id: "01a04615-305e-763d-b28f-bedf12d64461",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-i-keep-my-data-in-files",
   title: "Why I Keep My Data In Files",

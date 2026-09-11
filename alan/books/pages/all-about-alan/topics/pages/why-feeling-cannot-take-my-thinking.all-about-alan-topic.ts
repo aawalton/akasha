@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyFeelingCannotTakeMyThinking = {
   id: "01a06559-9d65-7a32-a300-8509f6a71a3b",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-feeling-cannot-take-my-thinking",
   title: "Why Feeling Cannot Take My Thinking",

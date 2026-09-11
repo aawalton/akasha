@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyIKeepHardTruthsBack = {
   id: "01a06559-9d65-79d1-8e10-ecd515957640",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-i-keep-hard-truths-back",
   title: "Why I Keep Hard Truths Back",

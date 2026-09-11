@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyIRebuiltEverything = {
   id: "01a04615-305d-74ac-9bd3-68083fd2e2d5",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-i-rebuilt-everything",
   title: "Why I Rebuilt Everything",

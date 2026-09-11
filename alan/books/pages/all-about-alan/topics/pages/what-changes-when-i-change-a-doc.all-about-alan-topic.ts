@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatChangesWhenIChangeADoc = {
   id: "01a047c8-d167-7e81-b2dc-fd5adc1cf6b2",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-changes-when-i-change-a-doc",
   title: "What Changes When I Change A Doc",

@@ -2,7 +2,6 @@ import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.typ
 
 export const masterGamesEdwardLaskerThomasLondon1912 = {
   id: "019f1e68-979b-7b22-bac4-bce37e8628ac",
-  pageTypeSlug: "chess-game",
   type: "chess-game",
   slug: "master-games-edward-lasker-thomas-london-1912",
   title: "Edward Lasker vs George Alan Thomas · classical · 1912-10-29",

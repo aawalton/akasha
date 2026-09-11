@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theYearICutEveryoneOut = {
   id: "01a06559-9d65-7873-99d5-eee7ec71734d",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-year-i-cut-everyone-out",
   title: "The Year I Cut Everyone Out",

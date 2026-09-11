@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatMyRecordGivesMeBack = {
   id: "01a04625-d80e-77ab-8ff5-738b70a03458",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-my-record-gives-me-back",
   title: "What My Record Gives Me Back",

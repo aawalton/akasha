@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatIDoWhenIAmPastBearing = {
   id: "01a06559-9d65-7b7a-b12d-63e9b3de5732",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-i-do-when-i-am-past-bearing",
   title: "What I Do When I Am Past Bearing",

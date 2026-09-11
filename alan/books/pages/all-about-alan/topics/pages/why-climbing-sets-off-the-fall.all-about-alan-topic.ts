@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyClimbingSetsOffTheFall = {
   id: "01a06559-9d65-76a5-b8a0-ab3de44b87bd",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-climbing-sets-off-the-fall",
   title: "Why Climbing Sets Off The Fall",

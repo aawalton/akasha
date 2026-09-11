@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyThePeaceHolds = {
   id: "01a06559-9d65-74e3-9f28-ab1cbd69cbcb",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-the-peace-holds",
   title: "Why The Peace Holds",

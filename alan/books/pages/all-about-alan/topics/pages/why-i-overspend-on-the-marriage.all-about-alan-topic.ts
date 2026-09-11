@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyIOverspendOnTheMarriage = {
   id: "01a0785e-aa6d-7ab4-a65c-f0a083a6d4f7",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-i-overspend-on-the-marriage",
   title: "Why I Overspend On The Marriage",

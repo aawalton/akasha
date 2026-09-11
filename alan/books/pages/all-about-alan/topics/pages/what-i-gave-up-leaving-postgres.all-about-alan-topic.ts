@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatIGaveUpLeavingPostgres = {
   id: "01a04615-305f-7b56-995d-0efcc02c79c6",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-i-gave-up-leaving-postgres",
   title: "What I Gave Up Leaving Postgres",

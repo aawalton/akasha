@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theThingsINeverWeigh = {
   id: "01a06559-9d65-79f0-951e-c601ee3c505c",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-things-i-never-weigh",
   title: "The Things I Never Weigh",

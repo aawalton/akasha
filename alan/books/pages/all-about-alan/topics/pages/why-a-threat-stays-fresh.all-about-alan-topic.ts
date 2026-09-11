@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyAThreatStaysFresh = {
   id: "01a06559-9d65-7e22-baa5-3ec00699f209",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-a-threat-stays-fresh",
   title: "Why A Threat Stays Fresh",

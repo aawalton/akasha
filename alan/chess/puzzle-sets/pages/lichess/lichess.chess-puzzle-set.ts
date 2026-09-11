@@ -2,7 +2,6 @@ import type { ChessPuzzleSet } from "akasha/alan/chess/puzzle-sets/chess-puzzle-
 
 export const lichess = {
   id: "01a06582-bd62-775e-a5b4-28fee8b58455",
-  pageTypeSlug: "chess-puzzle-set",
   type: "chess-puzzle-set",
   slug: "lichess",
   title: "Lichess",

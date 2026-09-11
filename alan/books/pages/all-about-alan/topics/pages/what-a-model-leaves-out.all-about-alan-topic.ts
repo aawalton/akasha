@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatAModelLeavesOut = {
   id: "01a04625-d80c-7458-99ee-30faa32f46f2",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-a-model-leaves-out",
   title: "What A Model Leaves Out",

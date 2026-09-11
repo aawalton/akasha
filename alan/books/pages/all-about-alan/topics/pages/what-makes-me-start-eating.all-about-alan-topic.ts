@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatMakesMeStartEating = {
   id: "01a06559-9d65-7837-8675-506be4db758e",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-makes-me-start-eating",
   title: "What Makes Me Start Eating",

@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatItCostsSomeoneToKnowMe = {
   id: "01a06559-9d65-7176-a226-255b9859bced",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-it-costs-someone-to-know-me",
   title: "What It Costs Someone To Know Me",

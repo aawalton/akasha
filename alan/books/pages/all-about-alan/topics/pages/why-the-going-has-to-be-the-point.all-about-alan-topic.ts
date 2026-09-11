@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyTheGoingHasToBeThePoint = {
   id: "01a06559-9d65-7dea-8a17-569fc49c807a",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-the-going-has-to-be-the-point",
   title: "Why The Going Has To Be The Point",

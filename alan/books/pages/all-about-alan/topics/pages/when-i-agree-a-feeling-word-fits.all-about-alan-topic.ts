@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whenIAgreeAFeelingWordFits = {
   id: "01a06559-9d65-70c8-a743-e43077480c90",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "when-i-agree-a-feeling-word-fits",
   title: "When I Agree A Feeling Word Fits",

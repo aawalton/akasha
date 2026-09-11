@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatHappensWhenSomethingGetsCheap = {
   id: "01a04625-d80b-7391-a0f8-608f2ec324ec",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-happens-when-something-gets-cheap",
   title: "What Happens When Something Gets Cheap",

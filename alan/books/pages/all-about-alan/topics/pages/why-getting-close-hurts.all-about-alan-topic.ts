@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyGettingCloseHurts = {
   id: "01a06559-9d65-7e55-9af3-471a1af7ca27",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-getting-close-hurts",
   title: "Why Getting Close Hurts",

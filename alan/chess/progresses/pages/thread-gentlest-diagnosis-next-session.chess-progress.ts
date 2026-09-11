@@ -2,7 +2,6 @@ import type { ChessProgress } from "akasha/alan/chess/progresses/chess-progress.
 
 export const threadGentlestDiagnosisNextSession = {
   id: "019f06ba-fb5a-7ae1-8cd5-86494259dbfe",
-  pageTypeSlug: "chess-progress",
   type: "chess-progress",
   slug: "thread-gentlest-diagnosis-next-session",
   title: "Thread: gentlest diagnosis next session",

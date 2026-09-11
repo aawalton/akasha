@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const twoConditionsOrOne = {
   id: "01a06559-9d65-7274-9193-07f0f99e4e11",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "two-conditions-or-one",
   title: "Two Conditions Or One",

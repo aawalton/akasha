@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatStillFiresOffAMemory = {
   id: "01a06559-9d65-7310-8ba1-e5448ee4506a",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-still-fires-off-a-memory",
   title: "What Still Fires Off A Memory",

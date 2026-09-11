@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatTheBookOfMeIsFor = {
   id: "01a06559-9d65-7750-a371-4557e3986b92",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-the-book-of-me-is-for",
   title: "What The Book Of Me Is For",

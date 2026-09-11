@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theVersionOfMeIHaveNeverMet = {
   id: "01a06559-9d65-7702-87bd-86e69261704e",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-version-of-me-i-have-never-met",
   title: "The Version Of Me I Have Never Met",

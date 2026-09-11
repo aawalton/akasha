@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyMakingThingsHurts = {
   id: "01a06559-9d65-7f09-a0db-a2c72bc2fe56",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-making-things-hurts",
   title: "Why Making Things Hurts",

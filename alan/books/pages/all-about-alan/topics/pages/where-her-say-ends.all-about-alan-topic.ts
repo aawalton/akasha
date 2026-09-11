@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whereHerSayEnds = {
   id: "01a06559-9d65-79ba-a842-abe28f03f3e2",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "where-her-say-ends",
   title: "Where Her Say Ends",

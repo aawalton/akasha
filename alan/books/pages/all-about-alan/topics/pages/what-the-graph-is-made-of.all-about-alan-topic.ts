@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatTheGraphIsMadeOf = {
   id: "01a047c8-d165-7dc6-a4d7-12800519c6af",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-the-graph-is-made-of",
   title: "What The Graph Is Made Of",

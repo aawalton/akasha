@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatIThinkTruthIs = {
   id: "01a06559-9d65-7cf7-bbb9-a966ef5af2ed",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-i-think-truth-is",
   title: "What I Think Truth Is",

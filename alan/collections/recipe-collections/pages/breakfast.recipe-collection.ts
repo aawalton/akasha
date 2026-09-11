@@ -2,7 +2,6 @@ import type { RecipeCollection } from "akasha/alan/collections/recipe-collection
 
 export const breakfast = {
   id: "01a06808-ddb3-7000-8cea-e1e015b167bc",
-  pageTypeSlug: "recipe-collection",
   type: "recipe-collection",
   slug: "breakfast",
   title: "Breakfast",

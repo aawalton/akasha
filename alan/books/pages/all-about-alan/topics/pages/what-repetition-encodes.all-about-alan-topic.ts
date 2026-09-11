@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatRepetitionEncodes = {
   id: "01a06559-9d65-75ef-8aaf-0a53e3f23763",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-repetition-encodes",
   title: "What Repetition Encodes",

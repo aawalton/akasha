@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatLonelinessCostsMyBody = {
   id: "01a06559-9d65-76fe-ae1e-ac866e20d4d2",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-loneliness-costs-my-body",
   title: "What Loneliness Costs My Body",

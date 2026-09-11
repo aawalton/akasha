@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whereIStandLikeAWomanDoes = {
   id: "01a06559-9d65-76ed-af6c-ef2348f2274c",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "where-i-stand-like-a-woman-does",
   title: "Where I Stand Like A Woman Does",

@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theWeightedBlanket = {
   id: "01a06559-9d65-762e-b11c-095ca1fe26eb",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-weighted-blanket",
   title: "The Weighted Blanket",

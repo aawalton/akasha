@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whenWeNeedOppositeThings = {
   id: "01a06559-9d65-79bf-bd25-b3ab923523ce",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "when-we-need-opposite-things",
   title: "When We Need Opposite Things",

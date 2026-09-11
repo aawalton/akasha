@@ -2,7 +2,6 @@ import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.typ
 
 export const masterGamesAdamsTorreNewOrleans1920 = {
   id: "019f1e68-9796-764d-88f9-6bc158513583",
-  pageTypeSlug: "chess-game",
   type: "chess-game",
   slug: "master-games-adams-torre-new-orleans-1920",
   title: "Edwin Ziegler Adams vs Carlos Torre Repetto · classical · 1920-01-01",

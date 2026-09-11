@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whichChannelEachOneCutsThrough = {
   id: "01a06559-9d65-70d6-8e0f-55d18f6b3f43",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "which-channel-each-one-cuts-through",
   title: "Which Channel Each One Cuts Through",

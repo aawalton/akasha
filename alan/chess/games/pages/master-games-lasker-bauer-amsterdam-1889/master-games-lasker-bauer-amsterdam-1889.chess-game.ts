@@ -2,7 +2,6 @@ import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.typ
 
 export const masterGamesLaskerBauerAmsterdam1889 = {
   id: "019f1e68-9790-7618-a401-390b97082396",
-  pageTypeSlug: "chess-game",
   type: "chess-game",
   slug: "master-games-lasker-bauer-amsterdam-1889",
   title: "Emanuel Lasker vs Johann Hermann Bauer · classical · 1889-08-26",

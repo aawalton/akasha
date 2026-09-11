@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyTooMuchAndTooLittleSwapOver = {
   id: "01a06559-9d65-7f72-932f-0e6a859b3334",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-too-much-and-too-little-swap-over",
   title: "Why Too Much And Too Little Swap Over",

@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whenSomethingIsFun = {
   id: "01a06559-9d65-7462-a879-a80a8c5a35f4",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "when-something-is-fun",
   title: "When Something Is Fun",

@@ -2,7 +2,6 @@ import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.typ
 
 export const masterGamesBirdMorphyLondon1858 = {
   id: "019f1e68-9799-7f36-9f9b-065a9607e6e5",
-  pageTypeSlug: "chess-game",
   type: "chess-game",
   slug: "master-games-bird-morphy-london-1858",
   title: "Henry Bird vs Paul Morphy · classical · 1858-01-01",

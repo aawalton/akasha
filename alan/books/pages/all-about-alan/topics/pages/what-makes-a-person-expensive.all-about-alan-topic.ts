@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whatMakesAPersonExpensive = {
   id: "01a07866-7795-75e8-9ed9-5c69ef2ffc1a",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "what-makes-a-person-expensive",
   title: "What Makes A Person Expensive",

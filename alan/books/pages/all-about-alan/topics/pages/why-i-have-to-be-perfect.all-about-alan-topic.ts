@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const whyIHaveToBePerfect = {
   id: "01a06559-9d65-7a0d-ba27-68dc5d9d5e2c",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "why-i-have-to-be-perfect",
   title: "Why I Have To Be Perfect",
