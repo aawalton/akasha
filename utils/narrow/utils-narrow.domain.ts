@@ -41,6 +41,7 @@ export const utilsNarrow = {
     "module/no-op",
     "module/paced-queue",
     "module/parse-string",
+    "module/parse-timestamp",
     "module/require-at",
     "module/require-defined",
     "module/require-env",

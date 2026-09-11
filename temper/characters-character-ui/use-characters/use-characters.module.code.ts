@@ -17,6 +17,7 @@ import {
 } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
+import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
 import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
@@ -31,15 +32,6 @@ export interface CharacterBuildRow {
   esoCharacterId?: string
   createdAt: number
   updatedAt: number
-}
-
-function parseTimestamp(value: unknown): number {
-  if (typeof value === "number") return value
-  if (typeof value === "string") {
-    const parsed = Date.parse(value)
-    if (!Number.isNaN(parsed)) return parsed
-  }
-  return 0
 }
 
 function parseStringOrNull(value: unknown): string | null {

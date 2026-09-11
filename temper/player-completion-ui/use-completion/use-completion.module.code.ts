@@ -10,6 +10,7 @@ import type {
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
+import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -43,15 +44,6 @@ export interface CompletionCompanionRow {
   targetBuildId: string | undefined
   createdAt: number
   updatedAt: number
-}
-
-function parseTimestamp(value: unknown): number {
-  if (typeof value === "number") return value
-  if (typeof value === "string") {
-    const parsed = Date.parse(value)
-    if (!Number.isNaN(parsed)) return parsed
-  }
-  return 0
 }
 
 function parseStringOrNull(value: unknown): string | null {
