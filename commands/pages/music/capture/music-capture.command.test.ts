@@ -41,6 +41,7 @@ import {
   TOLD_NOTHING,
   type Told,
 } from "akasha/commands/pages/music/capture/music-capture.command.test-fixtures.ts"
+import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const refusalOf = refusingWith(taken)
@@ -224,6 +225,7 @@ test("a play lands on the ESO day it finished in rather than on a field of its o
 test("a listen names its keys and no persona, and a heard track names its own", () => {
   const planned = plannedOver([playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha")], LEDGER)
   expect(Object.keys(rowsIn(planned, "2026-08-21")[0] ?? {})).toEqual([
+    "id",
     "playKey",
     "spotifyTrackId",
     "playedAt",
@@ -234,6 +236,7 @@ test("a listen names its keys and no persona, and a heard track names its own", 
     "newMusicMinutes",
   ])
   expect(Object.keys(planned.heard[0] ?? {})).toEqual([
+    "id",
     "spotifyTrackId",
     "titleKey",
     "trackName",
@@ -241,6 +244,20 @@ test("a listen names its keys and no persona, and a heard track names its own", 
     "firstHeardAt",
     "heardSource",
   ])
+})
+
+test("every row composed carries an id of its own", () => {
+  const planned = plannedOver(
+    [
+      playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha"),
+      playOf("t2", "2026-08-21T12:05:00.000Z", "Two", "Beta"),
+    ],
+    LEDGER
+  )
+  const rows = [...rowsIn(planned, "2026-08-21"), ...planned.heard]
+  const said = rows.map((one) => one["id"])
+  expect(said.filter((one) => typeof one === "string" && statesVersionSeven(one))).toHaveLength(4)
+  expect(new Set(said).size).toBe(4)
 })
 
 test("an append keeps every byte already there and adds a line for each row", () => {

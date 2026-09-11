@@ -70,6 +70,10 @@ export const musicCapture = {
         "A run saying to write nothing reaches no landing and names what would be written.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every listen and every heard track is composed carrying an id of its own.",
+    },
+    {
       invariantKind: "absence",
       statement: "No test here reaches Spotify.",
     },

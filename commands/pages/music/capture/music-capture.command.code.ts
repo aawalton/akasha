@@ -18,6 +18,7 @@ import {
 } from "akasha/commands/modules/play-row/play-row.module.code.ts"
 import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -177,6 +178,7 @@ export function askingFor(ledger: Ledger): Asking {
 
 function listenRowOf(row: PlayRow): Value {
   return {
+    id: uuidVersion7(),
     playKey: row.playKey,
     spotifyTrackId: row.spotifyTrackId,
     playedAt: row.playedAt,
@@ -190,6 +192,7 @@ function listenRowOf(row: PlayRow): Value {
 
 function heardRowOf(play: PlayInput, titleKey: string, priming: boolean): Value {
   return {
+    id: uuidVersion7(),
     spotifyTrackId: play.trackId,
     titleKey,
     trackName: play.trackName,
