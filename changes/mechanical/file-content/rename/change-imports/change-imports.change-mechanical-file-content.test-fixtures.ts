@@ -1,9 +1,11 @@
 export const SHELL =
-  "machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh"
+  "infrastructure/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh"
 
-export const ROOTS = "machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
+export const ROOTS =
+  "infrastructure/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
 
-export const ROOTS_AT = "machines/provisioning/roots/repo-roots/repo-roots.shell-script.shell.sh"
+export const ROOTS_AT =
+  "infrastructure/machines/provisioning/roots/repo-roots/repo-roots.shell-script.shell.sh"
 
 export const ROOTS_MOVED = new Map([[ROOTS, ROOTS_AT]])
 

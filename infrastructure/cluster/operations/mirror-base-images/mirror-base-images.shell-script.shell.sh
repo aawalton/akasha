@@ -4,7 +4,7 @@ set -euo pipefail
 
 HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 REPO="$(cd -- "$HERE/../../../.." && pwd -P)"
-. "$REPO/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
+. "$REPO/infrastructure/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
 
 LOCAL_REGISTRY="registry.registry.svc.cluster.local:5000"
 
