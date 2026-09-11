@@ -167,7 +167,7 @@ export function landedOver(weighed: Weighing, home: string, run: Running): Linki
   const reload = asked(run, RELOAD)
   if (reload.code !== 0) {
     wrong.push(
-      `${many} were written and systemd was not told to read them again, so what is loaded is what was loaded — ${reload.out}`
+      `systemd was not told to read ${many} again, so what is loaded is what was loaded — ${reload.out}`
     )
     return { said, wrong }
   }
