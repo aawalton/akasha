@@ -55,7 +55,7 @@ test("a path under the food entries is no stray", () => {
 })
 
 test("a path elsewhere under akasha is a stray", () => {
-  const at = "commands/pages/alan/tracking/alan-tracking.command.ts"
+  const at = "commands/thrumming/thrum-tracking.command.ts"
   const said = strayIn(ROOT, ["--file-path", at])
   expect(said).toEqual([outsideTracked(at)])
 })
