@@ -1,13 +1,17 @@
-import { bodyOf } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { dirname, join } from "node:path"
+import { bodyOf, textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
+import { heldIn, pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   eachTarget,
   filedById,
   type Known,
   namesIn,
   namingsIn,
+  namingsInRows,
   reaches,
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
@@ -34,6 +38,43 @@ export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): reado
     if (value !== null) found.push({ path, value })
   }
   return found
+}
+
+function rowKeysIn(shadow: Shadow): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const held of shadow.index.schemaAt().values()) {
+    if (held.pageTypeSlug === ENTRY_PROPERTY) found.add(held.propertySlug)
+  }
+  return found
+}
+
+export function pageOfRow(path: string, shadow: Shadow): string | null {
+  const held = heldIn(path, shadow.index.pageTypesIn(), new Set(shadow.index.fileKeysAt().keys()))
+  if (held.kind !== "property" || held.page === null || held.propertySlug === null) return null
+  if (!rowKeysIn(shadow).has(held.propertySlug)) return null
+  return join(dirname(path), `${held.page}.ts`)
+}
+
+export function rowNamed(path: string, shadow: Shadow): boolean {
+  return pageOfRow(path, shadow) !== null
+}
+
+export function rowedBy(change: Change, shadow: Shadow): readonly Carried[] {
+  const carrying = new Set(change.changed)
+  const found: Carried[] = []
+  const seen = new Set<string>()
+  for (const path of change.changed) {
+    const page = pageOfRow(path, shadow)
+    if (page === null || carrying.has(page) || seen.has(page)) continue
+    seen.add(page)
+    const value = shadow.pageOf(page)
+    if (value !== null) found.push({ path: page, value })
+  }
+  return found
+}
+
+export function rowsFor(change: Change, known: Shaped, one: Carried): readonly Rowing[] {
+  return rowsOver(one.path, one.value, known.entriedIn(one.value), (at) => textIn(change, at))
 }
 
 export function relationProperties(shadow: Shadow, known: Known): readonly string[] {
@@ -118,7 +159,8 @@ export function danglingIn(
   path: string,
   value: Value,
   known: Shaped,
-  mortal: Mortality
+  mortal: Mortality,
+  rowing: readonly Rowing[]
 ): readonly Judged[] {
   const own = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (own !== null && mortal.stated(own)) return []
@@ -150,24 +192,29 @@ export function danglingIn(
       if (dies !== null) said.push({ path, reason: cannot(where, dies) })
     }
   }
-  for (const one of namingsIn(value, known)) judge(one.propertySlug, one.held, one.said)
+  for (const one of [...namingsIn(value, known), ...namingsInRows(rowing, known)]) {
+    judge(one.propertySlug, one.held, one.said)
+  }
   return said
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(change, shadow.index.pageTypesIn())
+  const carried = [...carriedBy(change, shadow.index.pageTypesIn()), ...rowedBy(change, shadow)]
   const took = change.changed.some((one) => change.after(one) === null)
   if (carried.length === 0 && !took) return []
   const known = shadow.index.knownIn()
   const mortal = mortalityIn(shadow, known)
   const said: Judged[] = []
-  for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
+  for (const one of carried) {
+    said.push(...danglingIn(one.path, one.value, known, mortal, rowsFor(change, known, one)))
+  }
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
   for (const path of namersOf(change, shadow, relationProperties(shadow, known))) {
     if (carrying.has(path)) continue
     const value = valueFor(change, path)
-    if (value !== null) said.push(...danglingIn(path, value, known, mortal))
+    if (value === null) continue
+    said.push(...danglingIn(path, value, known, mortal, rowsFor(change, known, { path, value })))
   }
   return said
 }

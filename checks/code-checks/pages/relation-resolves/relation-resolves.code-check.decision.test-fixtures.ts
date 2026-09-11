@@ -57,7 +57,20 @@ export const SCHEMA: Record<string, Record<string, string | null>> = {
   "part-slugs": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain", unique: null },
   definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: null },
   marks: { pageTypeSlug: "record-property", targetPageTypeSlug: null, unique: null },
+  cases: { pageTypeSlug: "page-property-entry", targetPageTypeSlug: null, unique: null },
   code: { pageTypeSlug: "file-property", targetPageTypeSlug: null, unique: null },
+}
+
+export const CASES = "akasha/t/cases.page-property-entry.ts"
+
+export const CASES_ID = "01a04d99-71ca-7e06-8000-00000000000e"
+
+export const ROWS_AT = "akasha/t/a.note.cases.jsonl"
+
+export const ROW_ID = "01a04d99-71ca-7e06-8000-00000000000f"
+
+export function row(slug: string): string {
+  return `${JSON.stringify({ id: ROW_ID, domainSlug: slug })}\n`
 }
 
 export const M = "akasha/t/marks.record-property.ts"
@@ -140,12 +153,17 @@ export function rooted(carrying: boolean = true): string {
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
     const said = above === null ? [] : [above]
     const dies = mortal ? { mortal: true } : {}
-    filing(root, path, id, "page-type", slug, { extends: said, ...dies })
+    const holds = slug === "note" ? { properties: [{ pagePropertySlug: "cases" }] } : {}
+    filing(root, path, id, "page-type", slug, { extends: said, ...dies, ...holds })
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
     schemaFiled(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
   }
   filing(root, M, M_ID, "record-property", "marks", {
+    properties: [{ pagePropertySlug: "domain-slug" }],
+  })
+  filing(root, CASES, CASES_ID, "page-property-entry", "cases", {
+    propertySlug: "cases",
     properties: [{ pagePropertySlug: "domain-slug" }],
   })
   if (carrying) filing(root, D, D_ID, "domain", "d")

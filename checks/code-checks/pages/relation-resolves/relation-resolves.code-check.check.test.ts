@@ -4,7 +4,9 @@ import {
   A,
   note,
   over,
+  ROWS_AT,
   rooted,
+  row,
   scratch,
 } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -40,4 +42,30 @@ test("the check takes a page as its input and no other body", () => {
 
   expect(relationResolves.isInput(A, cast.shadow)).toBe(true)
   expect(relationResolves.isInput("akasha/t/a.module.code.ts", cast.shadow)).toBe(false)
+})
+
+const CASED = note(', cases: "jsonl"')
+
+test("the check refuses a row whose relation reaches nothing", () => {
+  const root = rooted()
+  const bodies = { ...CASED, [ROWS_AT]: row("domain/gone") }
+
+  expect(judged(over(root, [A, ROWS_AT], bodies))).toEqual([
+    { path: A, reason: "states `cases domain-slug`, and no `domain` carries the slug `gone`" },
+  ])
+})
+
+test("the check lets through a row whose relation reaches a page", () => {
+  const root = rooted()
+  const bodies = { ...CASED, [ROWS_AT]: row("domain/d") }
+
+  expect(judged(over(root, [A, ROWS_AT], bodies))).toEqual([])
+})
+
+test("the check takes an entry row's file as its input", () => {
+  const root = rooted()
+  const cast = shadowFor(over(root, [ROWS_AT], { [ROWS_AT]: row("domain/d") }))
+  if ("refused" in cast) throw new Error(cast.refused)
+
+  expect(relationResolves.isInput(ROWS_AT, cast.shadow)).toBe(true)
 })

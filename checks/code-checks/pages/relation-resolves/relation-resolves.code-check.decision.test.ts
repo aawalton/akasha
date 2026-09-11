@@ -36,11 +36,17 @@ import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 afterAll(scratch.sweep)
 
 function knowing(shadow: Shadow): Shaped {
   return shadow.index.knownIn()
+}
+
+function dangling(shadow: Shadow, value: Value): readonly Judged[] {
+  const known = knowing(shadow)
+  return danglingIn(A, value, known, mortalityIn(shadow, known), [])
 }
 
 function judged(change: Change): readonly Judged[] {
@@ -212,48 +218,40 @@ test("the id of a page taken away is read from the body the change takes away", 
 })
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
-  const root = rooted()
-  const shadow = shadowAt(root)
-  const known = knowing(shadow)
+  const shadow = shadowAt(rooted())
   const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
-  expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
+  expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
     "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
     "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
   ])
 })
 
 test("a relation nested in a record is judged, and the refusal names the record and the field", () => {
-  const root = rooted()
-  const shadow = shadowAt(root)
-  const known = knowing(shadow)
+  const shadow = shadowAt(rooted())
   const value = { pageTypeSlug: "note", marks: [{ domainSlug: "domain/gone" }] }
-  expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
+  expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
     "states `marks domain-slug`, and no `domain` carries the slug `gone`",
   ])
 })
 
 test("one name repeated across a record's entries is judged once", () => {
-  const root = rooted()
-  const shadow = shadowAt(root)
-  const known = knowing(shadow)
+  const shadow = shadowAt(rooted())
   const value = {
     pageTypeSlug: "note",
     marks: [{ domainSlug: "domain/gone" }, { domainSlug: "domain/gone" }],
   }
-  expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
+  expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
     "states `marks domain-slug`, and no `domain` carries the slug `gone`",
   ])
 })
 
 test("a field the record does not declare, and a record deeper than one, are left alone", () => {
-  const root = rooted()
-  const shadow = shadowAt(root)
-  const known = knowing(shadow)
+  const shadow = shadowAt(rooted())
   const value = {
     pageTypeSlug: "note",
     marks: [{ partSlugs: ["gone"], deeper: [{ domainSlug: "domain/gone" }] }],
   }
-  expect(danglingIn(A, value, known, mortalityIn(shadow, known))).toEqual([])
+  expect(dangling(shadow, value)).toEqual([])
 })
 
 const NOT_MORTAL = "states `spark-slug`, and a page that is not mortal cannot name a mortal `spark`"

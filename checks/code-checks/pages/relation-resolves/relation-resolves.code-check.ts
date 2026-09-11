@@ -44,6 +44,22 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
+      statement: "A name an entry row states is resolved, and the refusal lands on the row's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name nested in a record inside an entry row is not resolved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry row is read through the change rather than off the working tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change carrying an entry file judges the page that file sits beside.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property declaring more than one target is judged on the page a name reaches.",
     },
     {
