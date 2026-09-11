@@ -1,6 +1,6 @@
 import type { Text } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { heldPerShadow, type Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Grant = {
@@ -130,15 +130,7 @@ export function reasonsOver(passing: Passing): (given: Text) => readonly string[
   return (given) => found(passing, given.path, given.text)
 }
 
-const PASSING = new WeakMap<Shadow, Passing>()
-
-function passingFor(shadow: Shadow): Passing {
-  const held = PASSING.get(shadow)
-  if (held !== undefined) return held
-  const made = passingIn(shadow)
-  PASSING.set(shadow, made)
-  return made
-}
+const passingFor = heldPerShadow(passingIn)
 
 export function foundIn(shadow: Shadow, path: string, text: string): readonly string[] {
   return found(passingFor(shadow), path, text)

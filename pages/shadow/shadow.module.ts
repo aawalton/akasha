@@ -55,6 +55,11 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A value a reader works out from a shadow is held against that shadow and made once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path a settle had is forgotten from the memo handed in.",
     },
     {

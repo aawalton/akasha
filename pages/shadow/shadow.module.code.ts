@@ -47,6 +47,17 @@ export function forgotten(held: Remembered, paths: Iterable<string>): undefined 
   }
 }
 
+export function heldPerShadow<Held>(made: (shadow: Shadow) => Held): (shadow: Shadow) => Held {
+  const held = new WeakMap<Shadow, Held>()
+  return (shadow) => {
+    const found = held.get(shadow)
+    if (found !== undefined) return found
+    const one = made(shadow)
+    held.set(shadow, one)
+    return one
+  }
+}
+
 function remembering(
   pageOf: (path: string) => Value | null,
   values: Map<string, Value | null>
