@@ -33,12 +33,12 @@ export const aranyaOnePackage = {
     {
       statement: "A check refuses a relative path.",
       workingMemory:
-        "The check is built: page, decision, check and audit, each with its test. It judges at no phase yet, which is what its own invariant calls for until nothing names a file by a relative path. `akasha audit --check no-relative-specifier` is the meter and needs no phase. Meeting this intent is setting runsOnChange, runsOnWorktree, runsOnDeploy and runsOnAudit true on the page, and that waits on the tree being clean.",
+        "The check is built and judges at no phase, which its own invariant calls for until the tree is clean. `akasha audit --check no-relative-specifier` is the meter. Meeting this intent is setting runsOnChange, runsOnWorktree, runsOnDeploy and runsOnAudit true. That waits on one exemption: a `./+types/` specifier is resolved by tsconfig rootDirs and cannot be spelled from the root. The check reads import specifiers alone, so a relative path in a `mock.module` argument goes unjudged.",
     },
     {
       statement: "No file names another file by a relative path.",
       workingMemory:
-        "`rename-folder-imports` at a folder does the work, one folder to a landing. 85324 refusals at the start, 79349 after utils, design, domains, places, personas, the ten smallest folders and both type generators. Three things block a folder and none of them is the act: a file going over the 15000 byte ceiling because a root-spelled specifier is longer than a relative one, a test asserting the exact spelling of a path, and a page path spelled rather than asked of the index.",
+        '85324 refusals at the start, 3261 now over 124576 files. What is left is seat-system, which churns while agents run and goes last alone, and the seven web apps. 27 of those are react-router `+types` specifiers that must stay relative: each web app tsconfig names `rootDirs: [".", "./.react-router/types"]`, and rootDirs resolves a relative specifier alone. So meeting this intent needs the check to leave `./+types/` alone. Every generator composing a relative specifier is mended; there were three.',
     },
   ],
 } as const satisfies Initiative
