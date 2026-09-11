@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodyOf, importedFrom, saidAs, unnamedIn } from "./page-body.module.code.ts"
+import { bodyOf, importedFrom, saidAs, unnamedIn } from "akasha/pages/body/page-body.module.code.ts"
 
 const AT = "akasha/person-system/device-tokens/pages/one.device-token.ts"
 

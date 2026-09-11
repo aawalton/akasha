@@ -1,5 +1,5 @@
-import { exportedAs, typedAs } from "../export-name/page-export-name.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Rendering = {
   readonly pageTypeSlug: string
