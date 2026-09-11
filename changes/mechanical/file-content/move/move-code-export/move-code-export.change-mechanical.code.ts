@@ -19,6 +19,7 @@ import {
   type Taking,
   withName,
   withoutName,
+  withoutNames,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
@@ -159,13 +160,8 @@ function droppedIn(
   carried: ReadonlyMap<string, Carried>
 ): readonly Passage[] {
   const still = new Set(namesIn(source))
-  const found: Passage[] = []
-  for (const named of carried.keys()) {
-    if (still.has(named)) continue
-    const dropped = withoutName(text, source, named)
-    if (dropped !== null) found.push({ at, ...dropped })
-  }
-  return found
+  const gone = [...carried.keys()].filter((named) => !still.has(named))
+  return withoutNames(text, source, gone).map((one) => ({ at, ...one }))
 }
 
 function leftBy(text: string, gone: readonly Passage[]): string {

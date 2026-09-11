@@ -19,6 +19,7 @@ import {
   NAMED,
   NAMED_AT,
   NAMES_LANDING,
+  NEITHER_LEFT,
   OTHER_PATH,
   OWN_USING,
   PRIVATE,
@@ -246,6 +247,13 @@ test("an import the body left behind no longer names goes with an exported value
   const said = await runChange(worldOf({ [FROM]: VALUED }), { from: FROM, to: TO, of: "AT" })
 
   expect(takenAt(said, FROM)).toContain(`import { join } from "node:path"\n`)
+})
+
+test("two names the body left behind no longer takes from one line go out together", async () => {
+  const said = await runChange(worldOf({ [FROM]: NEITHER_LEFT }), { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  expect(takenAt(said, FROM)).toContain(`import { dirname, join } from "node:path"\n`)
 })
 
 test("an exported function moves whole", async () => {

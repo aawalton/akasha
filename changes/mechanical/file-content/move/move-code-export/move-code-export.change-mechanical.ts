@@ -95,6 +95,11 @@ export const moveCodeExport = {
     {
       invariantKind: "departure",
       statement:
+        "Names the body left behind no longer takes from one line leave that line together.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The import naming the export at its landing is worked out over the body those departures leave.",
     },
     {

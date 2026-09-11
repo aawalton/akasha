@@ -129,6 +129,13 @@ export const AT = join(dirname("a"), "b")
 export const KEPT = dirname("c")
 `
 
+export const NEITHER_LEFT = `import { dirname, join } from "node:path"
+
+export const AT = join(dirname("a"), "b")
+
+export const KEPT = 1
+`
+
 export const OTHER_PATH = `import { dirname } from "node:path"
 
 export const OTHER = dirname("x")
