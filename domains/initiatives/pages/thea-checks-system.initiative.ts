@@ -22,13 +22,19 @@ export const theaChecksSystem = {
       statement:
         "Audits run in a dedicated singleton service and are requested by agents, never run directly.",
       workingMemory:
-        "Alan's shape: the unit is one check's audit rather than the whole run, concurrency is one per check rather than one per service, and an agent asks at a commit, answered by a clean result for that check at a commit at or after it. One run serves every asker beneath it. That keying is also the answer to a tree moving under a run, a verdict being true of a commit rather than of a moment. service-workstation is the mechanism, hourly already in use by royal-road-sync.",
+        "Built: audit-verdict keys a finding to a commit and answers for every ancestor of it, and audit-serving runs one check's audit under a turn of its own, joins askers in one process on one promise, and carries a verdict forward where git says nothing the check takes as input moved. Left: the service page and the deploy, and the request path an agent asks through. block-subagent-audit will have to refuse the seat too, which changes what a hook refuses and needs Alan.",
     },
     {
       statement:
         "The singleton service runs every audit hourly and messages thea the failures to remediate.",
       workingMemory:
-        "writeMessage lands a message page and is proven from a plain process by service-watching, a oneshot systemd unit with no agent near it, so the sending half is solved. No command sends one, by an absence on seat-system; the reach is the module. The seat-side receiver answered nothing all session, so delivery into thea is unproven. A cost line cannot tell a check that threw from one that refused once, both writing found.length, so the service reads rows rather than counts.",
+        "serving runs every audit in a round and tells thea only the checks that turned from clean to refusing, one message for the round, so a check red last hour is not told again. writeMessage is proven from a plain process by service-watching. Left: the service-workstation page, hourly as royal-road-sync is, and a deploy. The seat-side receiver answered nothing all session, so delivery into thea is the one part nothing has shown working end to end.",
+    },
+    {
+      statement:
+        "The index reconcile runs as an audit, so a skew between index and pages is found.",
+      workingMemory:
+        "`akasha index refresh --dry-run` already reconciles and reports drift: 49.4s of processor time over 70,344 pages and 660,612 entries. Read in place it is no check. Every drift today is a live subagent page or seat edits file arriving while it runs, and the two aggregate listings move with them, so it would refuse hourly on churn that heals in seconds. refreshedFrom takes the index root, so the audit builds a scratch index and diffs the two, dropping whatever names an uncommitted file.",
     },
   ],
   constraints: [
