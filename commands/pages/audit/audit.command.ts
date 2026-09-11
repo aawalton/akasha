@@ -132,6 +132,10 @@ export const audit = {
     },
     {
       invariantKind: "absence",
+      statement: "Nothing schedules this command.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing has the folder still while an audit runs.",
     },
     {
