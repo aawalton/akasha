@@ -39,6 +39,7 @@ import "../scrollable-menu-combobox-base-setup-helpers/scrollable-menu-combobox-
 import "../scrollable-menu-combobox-base-setup-editbox/scrollable-menu-combobox-base-setup-editbox.module.code.ts"
 import "../scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.code.ts"
 import "../scrollable-menu-combobox-base-setup/scrollable-menu-combobox-base-setup.module.code.ts"
+import "../scrollable-menu-combobox-base-setup-toggles/scrollable-menu-combobox-base-setup-toggles.module.code.ts"
 
 import "../scrollable-menu-combobox-class/scrollable-menu-combobox-class.module.code.ts"
 import "../scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.code.ts"

@@ -98,6 +98,7 @@ export const temperLibScrollableMenu = {
     "type-declaration/scrollable-menu-string-ids",
     "type-declaration/scrollable-menu-submenu-shapes",
     "type-declaration/scrollable-menu-util-shapes",
+    "module/scrollable-menu-combobox-base-setup-toggles",
   ],
   invariants: [
     {
