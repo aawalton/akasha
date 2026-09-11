@@ -29,5 +29,10 @@ export const smsOptIn = {
       invariantKind: "absence",
       statement: "Nothing here writes the consent down.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The wording and the links beside the box read as one sentence rather than as a row.",
+    },
   ],
 } as const satisfies Module

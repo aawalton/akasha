@@ -109,7 +109,7 @@ export function SmsOptInForm() {
         />
         <Label
           htmlFor="opt-in-consent"
-          className="font-normal text-secondary text-sm leading-relaxed"
+          className="block font-normal text-secondary text-sm leading-relaxed"
         >
           {CONSENT_TEXT} See our{" "}
           <a className="text-accent underline" href="/terms">
