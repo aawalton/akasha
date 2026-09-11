@@ -26,7 +26,7 @@ export const theaChecksSystem = {
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
-        "Every workload carrying a checksum annotation now names its secrets, but buildkit and promtail, whose annotation tracks a ConfigMap the manifest emits rather than a secret. 8 secret pages were written for the 4 s3-creds resources that had none, placements only and no sops value. Left: the deploy fills the annotation. workload-deploying cannot, carrying the absence that nothing there reads a page, so the filling sits with web-app-reading, which already reads the cluster-service page.",
+        "16 annotations on 12 workloads, 11 secret-derived: 10 agree with the page, 0 derive. Every manifest hardcodes the secret name and keys and reads no page, so agreement is hand-kept and headscale's checksum/tls already mismatches, over a Secret cert-manager issues. The filling is done: secretChecksum shells to kubectl inside planFor and throws without a cluster. Deriving sits with workload-applying, not web-app-reading, which reaches no cluster. 10 of 26 named secret resources are annotated.",
     },
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
