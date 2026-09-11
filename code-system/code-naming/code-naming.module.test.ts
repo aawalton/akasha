@@ -9,8 +9,12 @@ import {
   namingOf,
   referencesOf,
   spelledAs,
-} from "./code-naming.module.code.ts"
-import { KEYS_SAID, scratch, typed } from "./code-naming.module.test-fixtures.ts"
+} from "akasha/code-system/code-naming/code-naming.module.code.ts"
+import {
+  KEYS_SAID,
+  scratch,
+  typed,
+} from "akasha/code-system/code-naming/code-naming.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
