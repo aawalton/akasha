@@ -6,4 +6,10 @@ export const fcoSkills = {
   slug: "fco-skills",
   definition: "the skills window the interface tweaks change",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No shared guard could name the type each guard here narrows to.",
+    },
+  ],
 } as const satisfies Module
