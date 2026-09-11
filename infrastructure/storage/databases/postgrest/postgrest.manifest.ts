@@ -13,5 +13,10 @@ export const postgrest = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the postgrest-secrets secret.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The keys hashed from the postgrest-secrets secret are DATABASE_URL and PGRST_JWT_SECRET.",
+    },
   ],
 } as const satisfies Manifest
