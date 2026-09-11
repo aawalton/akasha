@@ -1,4 +1,4 @@
-import type { PythonModule } from "akasha/code-system/python-modules/python-module.page-type.types.ts"
+import type { PythonModule } from "akasha/code/python-modules/python-module.page-type.types.ts"
 
 export const voiceSpeechHls = {
   id: "01a06815-9efd-701a-88c8-c37cdfb8110a",

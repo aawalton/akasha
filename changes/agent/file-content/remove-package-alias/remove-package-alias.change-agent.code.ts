@@ -18,13 +18,13 @@ import {
   nameFor,
 } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { placedIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import {
   calledIn,
   DEPENDING,
   objectIn,
 } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import { placedIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 

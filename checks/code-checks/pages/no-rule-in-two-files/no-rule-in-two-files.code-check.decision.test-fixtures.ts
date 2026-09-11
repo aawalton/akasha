@@ -5,7 +5,7 @@ import {
   declaring,
   filing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
+import { speltIn } from "akasha/code/code-rule/code-rule.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"

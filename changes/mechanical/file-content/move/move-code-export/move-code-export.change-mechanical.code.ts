@@ -23,12 +23,12 @@ import {
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import {
   landingOf,
   type Naming,
   specifierFor,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+} from "akasha/code/code-specifier/code-specifier.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 

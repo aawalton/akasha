@@ -8,11 +8,8 @@ import type {
   Guard,
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { landingOf, placedIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
 import { objectIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import {
-  landingOf,
-  placedIn,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 
 const CODE = new Set([".ts", ".tsx"])
 

@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
+import { speltIn } from "akasha/code/code-rule/code-rule.module.code.ts"
 import { columnsOf } from "akasha/commands/pages/measure/repo/checkout-counting/checkout-counting.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedPartsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"

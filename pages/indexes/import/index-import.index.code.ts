@@ -1,11 +1,11 @@
 import { join } from "node:path"
-import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import {
   landingOf,
   NAMING_NONE,
   type Naming,
   specifiersIn,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+} from "akasha/code/code-specifier/code-specifier.module.code.ts"
+import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"

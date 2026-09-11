@@ -1,4 +1,4 @@
-import type { Javascript } from "akasha/code-system/javascript-modules/properties/javascript.code-file-property.types.ts"
+import type { Javascript } from "akasha/code/javascript-modules/properties/javascript.code-file-property.types.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type JavascriptModule = Domain & {

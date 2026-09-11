@@ -14,11 +14,8 @@ import {
   textNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { landingOf, specifiersIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
 import { calledIn, objectIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import {
-  landingOf,
-  specifiersIn,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

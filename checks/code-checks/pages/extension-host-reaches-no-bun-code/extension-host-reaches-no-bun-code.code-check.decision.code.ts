@@ -1,6 +1,7 @@
 import { dirname, join, normalize } from "node:path"
 import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { landingOf, type Naming } from "akasha/code/code-specifier/code-specifier.module.code.ts"
 import {
   reachesIn,
   reachingOver,
@@ -10,10 +11,6 @@ import {
   erasedImport,
   skimmedAs,
 } from "akasha/code-system/code-source/code-source.module.code.ts"
-import {
-  landingOf,
-  type Naming,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Carried } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"

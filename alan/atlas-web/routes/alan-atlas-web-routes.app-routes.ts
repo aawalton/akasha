@@ -1,4 +1,4 @@
-import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-type.types.ts"
+import type { AppRoutes } from "akasha/code/app-routes/app-routes.page-type.types.ts"
 
 export const alanAtlasWebRoutes = {
   id: "01a08be5-61c3-741a-823e-0a08582a9f40",

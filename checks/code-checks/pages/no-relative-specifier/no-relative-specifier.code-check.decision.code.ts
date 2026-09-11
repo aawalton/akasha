@@ -4,7 +4,7 @@ import {
   overEachText,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { specifiersIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { specifiersIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 const RELATIVE = /^\.\.?\//

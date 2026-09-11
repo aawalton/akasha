@@ -1,4 +1,4 @@
-import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-type.types.ts"
+import type { AppRoutes } from "akasha/code/app-routes/app-routes.page-type.types.ts"
 
 export const temperWebRoutes = {
   id: "01a08be6-663c-7a22-88ef-561c8e79b266",

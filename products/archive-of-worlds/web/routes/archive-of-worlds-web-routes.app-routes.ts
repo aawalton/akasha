@@ -1,4 +1,4 @@
-import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-type.types.ts"
+import type { AppRoutes } from "akasha/code/app-routes/app-routes.page-type.types.ts"
 
 export const archiveOfWorldsWebRoutes = {
   id: "01a08be4-f999-7d6f-9463-5023ae3c936a",

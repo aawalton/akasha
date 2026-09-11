@@ -6,11 +6,8 @@ import {
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { landingOf, specifiersIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
 import { calledIn, objectIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import {
-  landingOf,
-  specifiersIn,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageOf, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
