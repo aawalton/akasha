@@ -31,6 +31,14 @@ export const refusalsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "The file a run writes is filed in the path index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file a run takes away is withdrawn from the path index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One blank line parts two refusals in the file.",
     },
     {

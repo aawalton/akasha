@@ -255,9 +255,11 @@ export function sidecarsOver(given: string | Reading, left: Iterable<Value>): Si
 }
 
 function besidesOf(own: string, slug: string, beside: Beside, there: IsThere): readonly string[] {
-  if (beside.uncommitted) return uncommittedPartsOf(own, slug, beside.held, there)
+  if (beside.uncommitted) {
+    return uncommittedPartsOf(own, slug, beside.held, there).filter((one) => there(one))
+  }
   const at = besideAt(own, slug, beside.held)
-  return at === null ? [] : [at]
+  return at === null || !there(at) ? [] : [at]
 }
 
 export function claimsOf(

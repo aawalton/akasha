@@ -42,6 +42,10 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
+      statement: "That property's file is claimed only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "That file is claimed from the page's type rather than from the values the page states.",
     },
@@ -61,6 +65,10 @@ export const pathClaiming = {
       invariantKind: "departure",
       statement:
         "A page whose type declares a file property group claims a file beside the page for each member.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A member's file is claimed only where that file is there.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +130,11 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that a page claims without stating is not asked to be there.",
+      statement: "A page claims a file it does not state only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page claims a file it states whether or not that file is there.",
     },
     {
       invariantKind: "absence",

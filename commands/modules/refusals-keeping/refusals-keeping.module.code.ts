@@ -2,6 +2,7 @@ import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ANSWER_CEILING } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 
 const SLUG = "refusals"
 
@@ -33,10 +34,16 @@ export function pointedAt(at: string): readonly string[] {
   return [PAST, pointerFor(at)]
 }
 
-function put(at: string, body: string | null): boolean {
+function put(root: string, page: string, at: string, body: string | null): boolean {
+  const full = join(root, at)
   try {
-    if (body === null) rmSync(at, { force: true })
-    else writeFileSync(at, body)
+    if (body === null) {
+      rmSync(full, { force: true })
+      partUnfiled(root, at)
+    } else {
+      writeFileSync(full, body)
+      partFiled(root, page, at)
+    }
     return true
   } catch {
     return false
@@ -51,7 +58,7 @@ export function refusalsPut(
   const at = refusalsAt(page)
   if (at === null) return null
   const held = refusals.length === 0 ? null : bodyOf(refusals)
-  if (!put(join(root, at), held)) return null
+  if (!put(root, page, at, held)) return null
   return held === null ? null : at
 }
 

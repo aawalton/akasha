@@ -90,6 +90,11 @@ export const indexPath = {
     {
       invariantKind: "departure",
       statement:
+        "A file filed here for a page that does not state it is filed only where it is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A numbered file a writer opens beside a page is filed here as that writer opens it.",
     },
     {

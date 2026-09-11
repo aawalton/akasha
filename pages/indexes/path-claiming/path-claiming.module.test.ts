@@ -128,21 +128,30 @@ const PART2 = "deep/a.held-type.lines.part2.uncommitted.jsonl"
 
 const PART3 = "deep/a.held-type.lines.part3.uncommitted.jsonl"
 
-test("a file property a page type declares uncommitted is claimed under its uncommitted name", () => {
-  expect(claimingBeside(LINES, LINED)).toEqual([HELD_PAGE, FIRST])
+test("a file property a page type declares uncommitted claims no file that is not there", () => {
+  expect(claimingBeside(LINES, LINED)).toEqual([HELD_PAGE])
 })
 
-test("a file property a page type declares without that word is claimed under its plain name", () => {
-  const said = { pagePropertySlug: "patch", default: "diff" }
+test("that same property is claimed under its uncommitted name once that file is there", () => {
+  expect(claimingBeside(LINES, LINED, (at) => at === FIRST)).toEqual([HELD_PAGE, FIRST])
+})
 
-  expect(claimingBeside(said, filedAs("held-type", { patch: null }))).toEqual([
-    HELD_PAGE,
-    "deep/a.held-type.patch.diff",
-  ])
+const PATCH = { pagePropertySlug: "patch", default: "diff" }
+
+const PATCH_AT = "deep/a.held-type.patch.diff"
+
+test("a file property a page type declares without that word claims no file that is not there", () => {
+  expect(claimingBeside(PATCH, filedAs("held-type", { patch: null }))).toEqual([HELD_PAGE])
+})
+
+test("that same property is claimed under its plain name once that file is there", () => {
+  expect(
+    claimingBeside(PATCH, filedAs("held-type", { patch: null }), (at) => at === PATCH_AT)
+  ).toEqual([HELD_PAGE, PATCH_AT])
 })
 
 test("the numbered files of an uncommitted property are claimed while they are there", () => {
-  const there = new Set([PART2, PART3])
+  const there = new Set([FIRST, PART2, PART3])
 
   expect(claimingBeside(LINES, LINED, (at) => there.has(at))).toEqual([
     HELD_PAGE,
@@ -153,7 +162,9 @@ test("the numbered files of an uncommitted property are claimed while they are t
 })
 
 test("naming an uncommitted property's files stops at the first that is not there", () => {
-  expect(claimingBeside(LINES, LINED, (at) => at === PART3)).toEqual([HELD_PAGE, FIRST])
+  const there = new Set([FIRST, PART3])
+
+  expect(claimingBeside(LINES, LINED, (at) => there.has(at))).toEqual([HELD_PAGE, FIRST])
 })
 
 const SOPS = "deep/a.held-type.sops.yaml"
@@ -243,22 +254,36 @@ test("a page of a file property group page type has no file of its own beside it
   expect([...(sidecarsIn(GROUPING).get("module-property-group")?.besides ?? [])]).toEqual([])
 })
 
-test("a page carrying a group claims a file for each member while stating none of them", () => {
-  const value = { id: A, pageTypeSlug: "code-check", slug: "a" }
-  const keys = { "audit.code": null, "audit.test": null, "audit.logs": null }
+const GROUP_PAGE = "/repo/deep/a.code-check.ts"
 
-  expect(
-    claimsOf(
-      value,
-      "/repo/deep/a.code-check.ts",
-      "/repo",
-      filedAs("code-check", keys),
-      sidecarsIn(GROUPING)
-    )
-  ).toEqual([
-    "deep/a.code-check.ts",
-    "deep/a.code-check.audit.code.ts",
-    "deep/a.code-check.audit.test.ts",
-    "deep/a.code-check.audit.logs.uncommitted.jsonl",
-  ])
+const GROUP_KEYS = { "audit.code": null, "audit.test": null, "audit.logs": null }
+
+const GROUP_MEMBERS = [
+  "deep/a.code-check.audit.code.ts",
+  "deep/a.code-check.audit.test.ts",
+  "deep/a.code-check.audit.logs.uncommitted.jsonl",
+]
+
+const GROUP_OWN = "deep/a.code-check.ts"
+
+const ONE_MEMBER = "deep/a.code-check.audit.test.ts"
+
+function groupClaiming(there: (at: string) => boolean = () => false): readonly string[] {
+  const value = { id: A, pageTypeSlug: "code-check", slug: "a" }
+  const filed = filedAs("code-check", GROUP_KEYS)
+  return claimsOf(value, GROUP_PAGE, "/repo", filed, sidecarsIn(GROUPING), new Map(), there)
+}
+
+test("a page carrying a group claims no member's file that is not there", () => {
+  expect(groupClaiming()).toEqual([GROUP_OWN])
+})
+
+test("that same page claims a file for each member that is there, while stating none of them", () => {
+  const there = new Set(GROUP_MEMBERS)
+
+  expect(groupClaiming((at) => there.has(at))).toEqual([GROUP_OWN, ...GROUP_MEMBERS])
+})
+
+test("a member whose file alone is there is the only member claimed", () => {
+  expect(groupClaiming((at) => at === ONE_MEMBER)).toEqual([GROUP_OWN, ONE_MEMBER])
 })

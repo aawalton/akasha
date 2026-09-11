@@ -46,6 +46,8 @@ const BESIDE = "a.domain.uncommitted.ts"
 
 const BESIDE_THERE: IsThere = (at) => at === BESIDE
 
+const PATCH_THERE: IsThere = (at) => at === "a.domain.patch.diff"
+
 test("a page whose type declares a secret files no sops file while that file is not there", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
@@ -88,7 +90,7 @@ test("that same page files the file beside it as soon as that file is there", ()
   ])
 })
 
-test("a page whose type declares a file property with a default claims that file beside it", () => {
+test("a page whose type gives a file property a default files no file that is not there", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
   const drafting: SidecarsBy = new Map([
@@ -104,6 +106,12 @@ test("a page whose type declares a file property with a default claims that file
   const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
+  ])
+
+  expect(
+    pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting, undefined, PATCH_THERE)
+  ).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.patch.diff.jsonl", line },
   ])
