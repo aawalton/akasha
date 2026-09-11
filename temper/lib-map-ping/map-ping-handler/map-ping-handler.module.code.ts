@@ -2,15 +2,15 @@ import {
   asCoordFn,
   asEsoVoidFn,
   asSuccessFn,
-} from "../map-ping-casts/map-ping-casts.module.code.ts"
+} from "akasha/temper/lib-map-ping/map-ping-casts/map-ping-casts.module.code.ts"
 import {
   MAP_PIN_TAG_PLAYER_WAYPOINT,
   MAP_PIN_TAG_RALLY_POINT,
   PING_CATEGORY,
   PING_EVENT_TYPE_INDEX,
   PING_EVENT_WATCHDOG_TIME,
-} from "../map-ping-constants/map-ping-constants.module.code.ts"
-import { INTERNAL, LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"
+} from "akasha/temper/lib-map-ping/map-ping-constants/map-ping-constants.module.code.ts"
+import { INTERNAL, LIB } from "akasha/temper/lib-map-ping/map-ping-lib/map-ping-lib.module.code.ts"
 import type {
   CoordFn,
   GlobalFnTable,
@@ -18,8 +18,8 @@ import type {
   MapPingHandlerClass,
   MapPingHandlerInstance,
   PendingPing,
-} from "../map-ping-types/map-ping-types.module.code.ts"
-import { LeakyBucket } from "../ping-leaky-bucket/ping-leaky-bucket.module.code.ts"
+} from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
+import { LeakyBucket } from "akasha/temper/lib-map-ping/ping-leaky-bucket/ping-leaky-bucket.module.code.ts"
 
 const logger = INTERNAL.logger
 const callback = INTERNAL.callback

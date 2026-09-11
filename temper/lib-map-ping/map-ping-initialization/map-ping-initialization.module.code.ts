@@ -1,8 +1,8 @@
-import { LIB_IDENTIFIER } from "../map-ping-constants/map-ping-constants.module.code.ts"
-import { MapPingHandler } from "../map-ping-handler/map-ping-handler.module.code.ts"
-import { INTERNAL } from "../map-ping-lib/map-ping-lib.module.code.ts"
-import "../map-ping-handler-state/map-ping-handler-state.module.code.ts"
-import type { MapPingHandlerInstance } from "../map-ping-types/map-ping-types.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-map-ping/map-ping-constants/map-ping-constants.module.code.ts"
+import { MapPingHandler } from "akasha/temper/lib-map-ping/map-ping-handler/map-ping-handler.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-map-ping/map-ping-lib/map-ping-lib.module.code.ts"
+import "akasha/temper/lib-map-ping/map-ping-handler-state/map-ping-handler-state.module.code.ts"
+import type { MapPingHandlerInstance } from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
 
 export function requireHandler(this: void): MapPingHandlerInstance {
   if (INTERNAL.handler === undefined) {

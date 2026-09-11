@@ -1,6 +1,6 @@
-import { asGlobalObjectTable } from "../map-ping-casts/map-ping-casts.module.code.ts"
-import { LIB_IDENTIFIER } from "../map-ping-constants/map-ping-constants.module.code.ts"
-import { LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"
+import { asGlobalObjectTable } from "akasha/temper/lib-map-ping/map-ping-casts/map-ping-casts.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-map-ping/map-ping-constants/map-ping-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-map-ping/map-ping-lib/map-ping-lib.module.code.ts"
 
 const globals = asGlobalObjectTable(_G)
 if (globals[LIB_IDENTIFIER] !== undefined) {

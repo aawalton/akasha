@@ -4,7 +4,7 @@ import type {
   EsoVoidFn,
   GlobalObjectTable,
   SuccessFn,
-} from "../map-ping-types/map-ping-types.module.code.ts"
+} from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
 
 export function asEsoVoidFn(value: unknown): EsoVoidFn {
   return value as EsoVoidFn

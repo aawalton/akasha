@@ -1,7 +1,7 @@
 import type {
   RollingAverageClass,
   RollingAverageInstance,
-} from "../map-ping-types/map-ping-types.module.code.ts"
+} from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
 
 const RollingAverage = ZO_Object.Subclass<RollingAverageClass>()
 

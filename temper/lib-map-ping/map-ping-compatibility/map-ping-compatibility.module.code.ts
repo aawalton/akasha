@@ -1,7 +1,10 @@
-import { asCompatLib, asGlobalObjectTable } from "../map-ping-casts/map-ping-casts.module.code.ts"
-import { requireHandler } from "../map-ping-initialization/map-ping-initialization.module.code.ts"
-import { LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"
-import type { CompatLib } from "../map-ping-types/map-ping-types.module.code.ts"
+import {
+  asCompatLib,
+  asGlobalObjectTable,
+} from "akasha/temper/lib-map-ping/map-ping-casts/map-ping-casts.module.code.ts"
+import { requireHandler } from "akasha/temper/lib-map-ping/map-ping-initialization/map-ping-initialization.module.code.ts"
+import { LIB } from "akasha/temper/lib-map-ping/map-ping-lib/map-ping-lib.module.code.ts"
+import type { CompatLib } from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
 
 export function initCompatibility(this: void): undefined {
   const compat: CompatLib = asCompatLib({})

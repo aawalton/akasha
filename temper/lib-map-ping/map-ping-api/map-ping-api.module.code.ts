@@ -1,5 +1,5 @@
-import { requireHandler } from "../map-ping-initialization/map-ping-initialization.module.code.ts"
-import { INTERNAL, LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"
+import { requireHandler } from "akasha/temper/lib-map-ping/map-ping-initialization/map-ping-initialization.module.code.ts"
+import { INTERNAL, LIB } from "akasha/temper/lib-map-ping/map-ping-lib/map-ping-lib.module.code.ts"
 
 export function initApi(this: void): undefined {
   LIB.MapPingState = INTERNAL.MapPingState

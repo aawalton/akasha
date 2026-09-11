@@ -2,8 +2,11 @@ import {
   CALLBACK,
   LIB_IDENTIFIER,
   MAP_PING_STATE,
-} from "../map-ping-constants/map-ping-constants.module.code.ts"
-import type { InternalState, Lib } from "../map-ping-types/map-ping-types.module.code.ts"
+} from "akasha/temper/lib-map-ping/map-ping-constants/map-ping-constants.module.code.ts"
+import type {
+  InternalState,
+  Lib,
+} from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
 
 function createLogger(this: void): DebugLogger {
   if (LibDebugLogger === undefined) {
