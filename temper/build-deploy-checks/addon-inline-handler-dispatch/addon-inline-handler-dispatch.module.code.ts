@@ -1,5 +1,8 @@
 import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
-import { parseInlineHandlers } from "../addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
+import {
+  parseInlineHandlers,
+  snippetOf,
+} from "../addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
 
 export interface DispatchFinding {
   readonly xmlPath: string
@@ -10,19 +13,12 @@ export interface DispatchFinding {
   readonly message: string
 }
 
-const MAX_SNIPPET = 160
-
 function referencesNamespace(body: string, namespace: string): boolean {
   return new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`).test(body)
 }
 
 function namespaceRefCount(body: string, namespace: string): number {
   return [...body.matchAll(new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`, "g"))].length
-}
-
-function snippetOf(body: string): string {
-  const flat = body.trim().replace(/\s+/g, " ")
-  return flat.length > MAX_SNIPPET ? `${flat.slice(0, MAX_SNIPPET)}…` : flat
 }
 
 export function isSingleDispatch(body: string, namespace: string): boolean {

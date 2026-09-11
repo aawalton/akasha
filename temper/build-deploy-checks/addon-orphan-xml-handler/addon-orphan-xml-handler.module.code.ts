@@ -111,7 +111,7 @@ function referencesNamespace(body: string, namespace: string): boolean {
   return new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`).test(body)
 }
 
-function snippetOf(body: string): string {
+export function snippetOf(body: string): string {
   const flat = body.trim().replace(/\s+/g, " ")
   return flat.length > MAX_SNIPPET ? `${flat.slice(0, MAX_SNIPPET)}…` : flat
 }
