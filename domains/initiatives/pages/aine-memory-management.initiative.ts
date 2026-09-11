@@ -24,6 +24,11 @@ export const aineMemoryManagement = {
       workingMemory:
         "The pattern is check-cost: one jsonl line per run beside the page of what ran, uncommitted, rolling into a numbered part at 8 MiB. Its record already carries peakBytes, residentBeforeBytes, peakAddedBytes and peakMeasured, read from VmHWM after refs are cleared. Checks are measured already, commands and changes record under entries, and every other kind records nothing. A group may state max-memory-mb and nothing reads it.",
     },
+    {
+      statement: "The workstation keeps memory for itself that no agent can take.",
+      workingMemory:
+        "app.slice peaked at 55.5 GiB of 62.2, leaving 6.7 GiB for the kernel, the compositor and everything outside it, and nothing reserves that. A ceiling on each seat does not give it either, since sixteen seats each under a fair ceiling still add to more than the host has. MemoryMin on the system's own units protects a reserve from reclaim, and a MemoryMax on app.slice caps what agents can collectively reach.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
