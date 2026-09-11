@@ -29,6 +29,7 @@ import type {
   GameState,
   Teammate,
 } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export function trainCost(t: { readonly rate: number; readonly rank: number }): number {
   return Math.ceil(t.rate * TRAIN_COST_BASE * TRAIN_COST_GROWTH ** t.rank)
@@ -194,10 +195,6 @@ function asTeammate(raw: unknown): Teammate {
 
 function asGameState(raw: unknown): GameState {
   return raw as GameState
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return value !== null && typeof value === "object" && !Array.isArray(value)
 }
 
 function stripOwned(raw: unknown): unknown {
