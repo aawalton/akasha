@@ -26,7 +26,7 @@ interface Reached {
 async function reach(): Promise<Reached | null> {
   const store = getDefaultObjectStore()
   if (store === null) {
-    console.log("[session-watch] streaming disabled — no object store, so the watch is a no-op")
+    console.log("[session-watch] no object store, so a transcript is found but not streamed")
     return null
   }
   return { store }
@@ -104,7 +104,7 @@ export function watchSessionFile(agentId: string, _sessionId: string, projDir: s
   }
 
   const beginWatching = async (
-    at: Reached,
+    at: Reached | null,
     path: string,
     via: "seat" | "fallback"
   ): Promise<boolean> => {
@@ -121,7 +121,8 @@ export function watchSessionFile(agentId: string, _sessionId: string, projDir: s
     expectedSessionId = own ?? held
     watchedPath = path
     keepSeatTranscript(agentId, path)
-    console.log(`[session-watch] watching ${path} (via ${via})`)
+    console.log(`[session-watch] found ${path} (via ${via})`)
+    if (at === null) return true
     watchFile(path, { interval: 3_000 }, onChange)
     void doUpload(at, path).catch((err) =>
       console.error("[session-watch] initial upload error:", err)
@@ -140,10 +141,6 @@ export function watchSessionFile(agentId: string, _sessionId: string, projDir: s
     void (async () => {
       try {
         const at = await reached
-        if (at === null) {
-          clearInterval(discoverInterval)
-          return
-        }
         const stated = transcriptOf(agentId)
         if (stated !== null) {
           if (existsSync(stated.value)) {
