@@ -3,17 +3,12 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { getValueArray } from "akasha/pages/core/property-types/multi-relation/multi-relation.module.code.ts"
 import { getOptions } from "akasha/pages/core/property-types/multi-select-property/multi-select-property.module.code.ts"
-import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { MultiSelectPopover } from "akasha/pages/ui/components/multi-select-popover/multi-select-popover.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
-
-function getValueArray(value: PropertyValue): readonly string[] {
-  if (!Array.isArray(value)) return []
-  return value.filter((v): v is string => typeof v === "string")
-}
 
 function resolveOptionVariant(
   definition: PropertyDefinition,
