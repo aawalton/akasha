@@ -1,3 +1,4 @@
+import type { SetVolume } from "akasha/alan/values/health/fitness/set-logs/properties/set-volume.computed-property.types.ts"
 import type { SetLog } from "akasha/alan/values/health/fitness/set-logs/set-log.page-type.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
@@ -9,7 +10,7 @@ type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
 
 type Weighed = { readonly bodyweight?: number }
 
-export const work: Work<SetLog, number> = (page, reach) => {
+export const work: Work<SetLog, SetVolume> = (page, reach) => {
   if (page.isWarmup === true) return 0
   if (page.activityType !== undefined) return 0
   const slug = page.exercise
