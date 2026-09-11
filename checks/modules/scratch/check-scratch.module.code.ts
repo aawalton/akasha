@@ -9,7 +9,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
@@ -198,10 +198,12 @@ export function treed(root: string): string {
   return root
 }
 
+export function shadowed(over: Change): Shadow {
+  const cast = shadowFor(over)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return cast.shadow
+}
+
 export function judgingBy(running: Running): (over: Change) => readonly Judged[] {
-  return (over: Change): readonly Judged[] => {
-    const cast = shadowFor(over)
-    if ("refused" in cast) throw new Error(cast.refused)
-    return running(over, cast.shadow)
-  }
+  return (over: Change): readonly Judged[] => running(over, shadowed(over))
 }

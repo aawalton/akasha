@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { listedTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { landing } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { landing, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   declaresIn,
   introducedIn,
@@ -17,7 +17,6 @@ import {
   QUALIFIED,
   rooted,
   scratch,
-  shadowed,
   TEXT,
   typed,
 } from "./introduced-property-is-a-part.code-check.decision.test-fixtures.ts"

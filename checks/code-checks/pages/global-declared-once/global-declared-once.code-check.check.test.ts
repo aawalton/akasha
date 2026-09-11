@@ -8,8 +8,8 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   change,
   scratch,
@@ -102,12 +102,6 @@ function naming(shared: string, held: string): string {
   pathFiled(root, APART_AT, [{ path: APART_AT, id: APART_ID }])
   ambient(root)
   return root
-}
-
-function shadowed(given: Change): Shadow {
-  const cast = shadowFor(given)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow
 }
 
 function reached(given: Change): readonly string[] {

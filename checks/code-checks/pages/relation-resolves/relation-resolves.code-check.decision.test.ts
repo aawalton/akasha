@@ -2,8 +2,9 @@ import { afterAll, expect, test } from "bun:test"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { type Shadow, shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   danglingIn,
   mortalityIn,
@@ -42,14 +43,8 @@ function knowing(shadow: Shadow): Shaped {
   return shadow.index.knownIn()
 }
 
-function shadowing(change: Change): Shadow {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow
-}
-
 function judged(change: Change): readonly Judged[] {
-  return refusalsOver(change, shadowing(change))
+  return refusalsOver(change, shadowed(change))
 }
 
 test("a page naming a page the index already carries is let through", () => {
@@ -201,9 +196,9 @@ test("the pages to judge for a page taken away are the ones the reverse edges na
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
-  expect(namersOf(change, shadowing(change), ["domain-slug", "part-slugs"])).toEqual([A])
+  expect(namersOf(change, shadowed(change), ["domain-slug", "part-slugs"])).toEqual([A])
   const kept = over(root, [D], { [D]: "held" })
-  expect(namersOf(kept, shadowing(kept), ["domain-slug"])).toEqual([])
+  expect(namersOf(kept, shadowed(kept), ["domain-slug"])).toEqual([])
 })
 
 test("the id of a page taken away is read from the body the change takes away", () => {
@@ -211,7 +206,7 @@ test("the id of a page taken away is read from the body the change takes away", 
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
-  const shadow = shadowing(change)
+  const shadow = shadowed(change)
   expect(shadow.index.listedByPath(D)).toEqual([])
   expect(namersOf(change, shadow, ["domain-slug"])).toEqual([A])
 })
@@ -400,6 +395,6 @@ test("a file the index files against a page is no page taken away, and nothing i
   pathFiled(root, D_CODE, [{ path: D, id: D_ID }])
   const bodies = { ...note(', domainSlug: "domain/d"'), [D_CODE]: null }
   const change = over(root, [D_CODE], bodies)
-  expect(namersOf(change, shadowing(change), ["domain-slug", "part-slugs"])).toEqual([])
+  expect(namersOf(change, shadowed(change), ["domain-slug", "part-slugs"])).toEqual([])
   expect(judged(change)).toEqual([])
 })

@@ -1,11 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   change,
   scratch,
@@ -38,12 +37,6 @@ function rooted(): string {
   listedFiled(root, PAGE_TYPE, THING, [{ path: TYPE_AT, id: ID }])
   pathFiled(root, HELD_AT, [{ path: HELD_AT, id: ID }])
   return root
-}
-
-function shadowed(given: Change): Shadow {
-  const cast = shadowFor(given)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow
 }
 
 function judged(over: Readonly<Record<string, string>>): readonly Judged[] {

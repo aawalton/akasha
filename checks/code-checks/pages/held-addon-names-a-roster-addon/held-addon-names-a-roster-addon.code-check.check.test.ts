@@ -4,9 +4,8 @@ import {
   noPathsFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { filing } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { filing, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   askingIn,
   heldAddonNamesARosterAddon,
@@ -46,12 +45,6 @@ function arriving(root: string, bodies: Readonly<Record<string, string>>): Chang
     return said === undefined ? null : encoder.encode(said)
   }
   return { root, changed: Object.keys(bodies), before: at, after: at }
-}
-
-function shadowed(change: Change): Shadow {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow
 }
 
 test("the check asks the index for the pages of a page type and where each page sits", () => {

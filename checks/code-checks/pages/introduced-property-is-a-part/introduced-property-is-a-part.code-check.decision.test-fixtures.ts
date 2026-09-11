@@ -5,10 +5,9 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { declaring } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { declaring, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 import {
   everyType,
@@ -100,12 +99,6 @@ export function bytesOf(
   parts: readonly string[]
 ): Uint8Array {
   return new TextEncoder().encode(stated(slug, above, declares, parts))
-}
-
-export function shadowed(change: Change): Shadow {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow
 }
 
 export function judgedBy(change: Change): readonly Judged[] {
