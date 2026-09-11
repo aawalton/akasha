@@ -1,10 +1,10 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { slugIn } from "../../../address/page-address.module.code.ts"
-import { exportedAs } from "../../../export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../../file-name/page-file-name.module.code.ts"
-import type { Matching } from "../name-matching/name-matching.module.code.ts"
+import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
 
 const NAME_FORMAT = "name-format"
 

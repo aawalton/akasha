@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { matching } from "./name-matching.module.code.ts"
+import { matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
 
 const LETTERS = matching(/^[a-z]+$/)
 
