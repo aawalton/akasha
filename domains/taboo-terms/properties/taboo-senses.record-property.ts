@@ -1,14 +1,11 @@
 import type { Instead } from "akasha/domains/taboo-terms/properties/instead.text-property.types.ts"
 import type { Sense } from "akasha/domains/taboo-terms/properties/sense.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type TabooSense = {
   sense: Sense
   instead: Instead
 }
-
-export type TabooSenses = List<TabooSense>
 
 export const tabooSenses = {
   id: "01a0592f-d53e-7a82-b68e-38856ee374cf",
@@ -35,4 +32,5 @@ export const tabooSenses = {
       statement: "A sense is alone among the senses one term bars.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

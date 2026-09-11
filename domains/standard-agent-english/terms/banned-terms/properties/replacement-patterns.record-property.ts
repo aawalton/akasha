@@ -2,15 +2,12 @@ import type { FromPattern } from "akasha/domains/standard-agent-english/terms/ba
 import type { ProseFrame } from "akasha/domains/standard-agent-english/terms/banned-terms/properties/prose-frame.relation-property.types.ts"
 import type { ToPattern } from "akasha/domains/standard-agent-english/terms/banned-terms/properties/to-pattern.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type ReplacementPattern = {
   frame: ProseFrame
   fromPattern: FromPattern
   toPattern: ToPattern
 }
-
-export type ReplacementPatterns = List<ReplacementPattern>
 
 export const replacementPatterns = {
   id: "01a0822d-c124-76d5-acd8-925e9cdcdb81",
@@ -59,4 +56,5 @@ export const replacementPatterns = {
       statement: "A term whose replacement needs a reader's judgement names no pair.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

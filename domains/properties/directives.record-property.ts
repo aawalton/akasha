@@ -4,7 +4,6 @@ import type { DirectiveKind } from "akasha/domains/properties/directive-kind.rel
 import type { Name } from "akasha/domains/properties/name.text-property.types.ts"
 import type { Warrant } from "akasha/domains/properties/warrant.standard-agent-english-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type Directive = {
   directiveKind: DirectiveKind
@@ -13,8 +12,6 @@ export type Directive = {
   warrant: Warrant
   aids: Aids
 }
-
-export type Directives = List<Directive>
 
 export const directives = {
   id: "01a04e1f-cbf6-7150-812b-844b9bf21ed2",
@@ -46,4 +43,5 @@ export const directives = {
         "A directive needing more aids than that directive may hold has design belonging in an invariant.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

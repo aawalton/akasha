@@ -1,14 +1,11 @@
 import type { InvariantKind } from "akasha/domains/properties/invariant-kind.relation-property.types.ts"
 import type { InvariantStatement } from "akasha/domains/properties/invariant-statement.standard-agent-english-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type Invariant = {
   invariantKind: InvariantKind
   statement: InvariantStatement
 }
-
-export type Invariants = List<Invariant>
 
 export const invariants = {
   id: "01a04e14-2276-7559-823a-c7ac8abf852e",
@@ -56,4 +53,5 @@ export const invariants = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

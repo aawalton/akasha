@@ -1,14 +1,11 @@
 import type { MemberName } from "akasha/domains/lists/properties/member-name.text-property.types.ts"
 import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type Member = {
   memberName: MemberName
   definition: Definition
 }
-
-export type ListMembers = List<Member>
 
 export const listMembers = {
   id: "01a06838-7a9e-7730-9e7f-e9d9393fe6ad",
@@ -31,4 +28,5 @@ export const listMembers = {
       statement: "The order the members are in is the order the list means.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

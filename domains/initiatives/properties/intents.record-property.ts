@@ -1,14 +1,11 @@
 import type { IntentStatement } from "akasha/domains/initiatives/properties/intent-statement.standard-agent-english-property.types.ts"
 import type { WorkingMemory } from "akasha/domains/initiatives/properties/working-memory.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type Intent = {
   statement: IntentStatement
   workingMemory?: WorkingMemory
 }
-
-export type Intents = List<Intent>
 
 export const intents = {
   id: "01a058a3-b01f-7002-b869-8274ae8203a6",
@@ -39,4 +36,5 @@ export const intents = {
       statement: "An intent is a gap rather than stating which kind of invariant that intent is.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty
