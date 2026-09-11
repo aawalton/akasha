@@ -27,11 +27,10 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
         var valueChanged = 0
 
         for _ in 0..<maxRoundsPerMetric {
-            let (samples, newAnchor) = await runAnchoredQuery(
+            let (samples, newAnchor, readError) = await runAnchoredQuery(
                 store: store, quantityType: quantityType, predicate: predicate, anchor: anchor)
             guard let newAnchor else {
-                return
-                    "\(metric.wireName): could not be read from Health — nothing sent. If this repeats, allow it under Health > Sharing > Apps."
+                return "\(metric.wireName): \(whyUnread(readError))"
             }
             if samples.isEmpty {
                 // THE ANCHOR IS NOT WRITTEN HERE, and that is the repair generation 2 exists for.
