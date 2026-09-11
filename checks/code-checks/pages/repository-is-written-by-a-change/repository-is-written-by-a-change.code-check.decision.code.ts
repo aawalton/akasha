@@ -96,11 +96,22 @@ const WRITES = new Map<string, readonly number[]>([
   ["writeFileSync", [0]],
 ])
 
+const OPENS = new Set(["open", "openSync"])
+
+const WRITING = /[wa+]/
+
 type Taken = {
   readonly writes: ReadonlyMap<string, readonly number[]>
+  readonly opens: ReadonlySet<string>
   readonly spaces: ReadonlySet<string>
   readonly rooted: ReadonlySet<string>
   readonly away: ReadonlySet<string>
+}
+
+function opensWriting(node: ts.CallExpression): boolean {
+  const flag = node.arguments[1]
+  if (flag === undefined || !ts.isStringLiteralLike(flag)) return false
+  return WRITING.test(flag.text)
 }
 
 function slugOf(specifier: string): string {
@@ -126,6 +137,7 @@ function namedOf(clause: ts.ImportClause): readonly string[] {
 
 function takenIn(source: ts.SourceFile, roots: ReadonlySet<string>): Taken {
   const writes = new Map<string, readonly number[]>()
+  const opens = new Set<string>()
   const spaces = new Set<string>()
   const rooted = new Set<string>()
   const away = new Set<string>()
@@ -145,11 +157,13 @@ function takenIn(source: ts.SourceFile, roots: ReadonlySet<string>): Taken {
     const held = clause.namedBindings
     if (held !== undefined && ts.isNamespaceImport(held)) spaces.add(held.name.text)
     for (const element of boundIn(clause)) {
-      const at = WRITES.get((element.propertyName ?? element.name).text)
+      const named = (element.propertyName ?? element.name).text
+      if (OPENS.has(named)) opens.add(element.name.text)
+      const at = WRITES.get(named)
       if (at !== undefined) writes.set(element.name.text, at)
     }
   }
-  return { writes, spaces, rooted, away }
+  return { writes, opens, spaces, rooted, away }
 }
 
 function heldIn(node: ts.Node, held: (one: ts.Node) => boolean): boolean {
@@ -276,11 +290,15 @@ function asideBy(aside: readonly string[]): (node: ts.Node) => boolean {
 
 function calledAs(node: ts.CallExpression, taken: Taken): readonly number[] | null {
   const held = node.expression
-  if (ts.isIdentifier(held)) return taken.writes.get(held.text) ?? null
+  if (ts.isIdentifier(held)) {
+    if (taken.opens.has(held.text)) return opensWriting(node) ? [0] : null
+    return taken.writes.get(held.text) ?? null
+  }
   if (!ts.isPropertyAccessExpression(held) || !ts.isIdentifier(held.expression)) return null
   const named = held.name.text
   if (held.expression.text === BUN && named === WRITE) return [0]
   if (!taken.spaces.has(held.expression.text)) return null
+  if (OPENS.has(named)) return opensWriting(node) ? [0] : null
   return WRITES.get(named) ?? null
 }
 
@@ -305,7 +323,9 @@ export function reasonsOver(
   const source = parsedAs(at, text)
   const taken = takenIn(source, roots)
   const bun = text.includes(BUN_WRITE)
-  if (taken.writes.size === 0 && taken.spaces.size === 0 && !bun) return []
+  if (taken.writes.size === 0 && taken.opens.size === 0 && taken.spaces.size === 0 && !bun) {
+    return []
+  }
   const stated = statedIn(source)
   const rooted = spreadOver(stated, taken.rooted, pointsRoot)
   const asideNamed = asideBy(aside)

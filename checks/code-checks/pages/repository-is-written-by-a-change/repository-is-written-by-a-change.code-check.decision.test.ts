@@ -329,3 +329,45 @@ test("a write to a name an un-ignoring rule reaches is judged where that rule is
   expect(reasonsOver(AT, body, asideIn("*.d.ts\n"), ROOTED)).toEqual([])
   expect(reasonsOver(AT, body, asideIn("*.d.ts\n!**/types/**/*.d.ts\n"), ROOTED)).toHaveLength(1)
 })
+
+function opened(taken: string, flag: string): readonly string[] {
+  return only(
+    `import { ${taken} } from "node:fs"\n` +
+      'import { join } from "node:path"\n' +
+      "export function one(given: { root: string }): void {\n" +
+      `  ${taken}(join(given.root, "a.ts"), "${flag}")\n` +
+      "}\n"
+  )
+}
+
+test("a descriptor opened for writing is a write and one opened for reading is not", () => {
+  expect(opened("openSync", "w")).toHaveLength(1)
+  expect(opened("openSync", "a")).toHaveLength(1)
+  expect(opened("openSync", "wx")).toHaveLength(1)
+  expect(opened("openSync", "r")).toEqual([])
+})
+
+test("a descriptor opened through `node:fs/promises` is judged the same way", () => {
+  const body = (flag: string): string =>
+    'import { open } from "node:fs/promises"\n' +
+    'import { join } from "node:path"\n' +
+    "export async function one(given: { root: string }): Promise<void> {\n" +
+    `  const held = await open(join(given.root, "a.ts"), "${flag}")\n` +
+    "  await held.close()\n" +
+    "}\n"
+
+  expect(only(body("w"))).toHaveLength(1)
+  expect(only(body("r"))).toEqual([])
+})
+
+test("a descriptor whose flag is no spelled name is let through, the check reading nothing", () => {
+  expect(
+    only(
+      'import { openSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        "export function one(given: { root: string }, flag: string): void {\n" +
+        '  openSync(join(given.root, "a.ts"), flag)\n' +
+        "}\n"
+    )
+  ).toEqual([])
+})

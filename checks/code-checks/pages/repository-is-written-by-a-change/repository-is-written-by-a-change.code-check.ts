@@ -158,10 +158,6 @@ export const repositoryIsWrittenByAChange = {
       statement: "A write through a wrapper of another module is seen.",
     },
     {
-      invariantKind: "gap",
-      statement: "A descriptor opened for writing is seen.",
-    },
-    {
       invariantKind: "absence",
       statement: "A root a caller hands in under a name other than `root` is no checkout root.",
     },
@@ -173,6 +169,11 @@ export const repositoryIsWrittenByAChange = {
       invariantKind: "departure",
       statement:
         "An un-ignoring rule drops the whole ignored name it reaches rather than only the path it names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A descriptor is a write where its flag spells one, and a flag that is no spelled name is no write.",
     },
   ],
   check: { maxCpuSeconds: 10 },
