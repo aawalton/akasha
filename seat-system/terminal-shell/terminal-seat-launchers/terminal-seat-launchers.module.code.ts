@@ -7,6 +7,7 @@ import {
   supervisorEntryShell,
 } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import { HANDLER } from "akasha/seat-system/seat-naming/seat-naming.module.code.ts"
+import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   personaDocumentGateLines,
   personaDocumentStandsShell,
@@ -232,8 +233,12 @@ export function seatResumeFn(name: string): string {
     "  fi",
     `  ${ROOT_LOCAL}`,
     `  if command -v tmux >/dev/null 2>&1 && ${SEAT_LIVE_FN} "$name"; then`,
-    `    ${SEAT_ATTACH_FN} "$name"`,
-    "    return $?",
+    `    if [ -f "$_root/${seatPathForName("$name")}" ]; then`,
+    `      ${SEAT_ATTACH_FN} "$name"`,
+    "      return $?",
+    "    fi",
+    `    echo "${name}: '$name' holds a tmux session with no seat page; resuming the seat ` +
+      `onto the session it holds rather than attaching to it." >&2`,
     "  fi",
     ...handlerForPersonLines(name, false),
     ...payloadEscapeLines(name),

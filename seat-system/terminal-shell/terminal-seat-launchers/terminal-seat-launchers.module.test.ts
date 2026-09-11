@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import { HANDLER } from "akasha/seat-system/seat-naming/seat-naming.module.code.ts"
+import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import { parses } from "akasha/seat-system/terminal-shell/terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   SEAT_LIVE_FN,
@@ -109,11 +110,25 @@ describe("a fresh seat", () => {
 })
 
 describe("a resume", () => {
-  test("attaches to a live session without asking anything to start it", () => {
+  test("attaches to a live session a page states, asking nothing to start it", () => {
     expect(resuming.indexOf(`${SEAT_LIVE_FN} "$name"`)).toBeLessThan(
       resuming.indexOf("seat-resume.module.code.ts")
     )
-    expect(resuming).toContain(`${SEAT_ATTACH_FN} "$name"\n    return $?`)
+    expect(resuming).toContain(`if [ -f "$_root/${seatPathForName("$name")}" ]; then`)
+    expect(resuming.indexOf(seatPathForName("$name"))).toBeLessThan(
+      resuming.indexOf(`${SEAT_ATTACH_FN} "$name"`)
+    )
+    expect(resuming).toContain(`${SEAT_ATTACH_FN} "$name"\n      return $?`)
+  })
+
+  test("resumes a live session no page states rather than attaching to it", () => {
+    expect(resuming).toContain(
+      `      return $?\n    fi\n    echo "sr: '$name' holds a tmux session with no seat page; ` +
+        `resuming the seat onto the session it holds rather than attaching to it." >&2\n  fi`
+    )
+    expect(resuming.indexOf("no seat page")).toBeLessThan(
+      resuming.indexOf("seat-resume.module.code.ts")
+    )
   })
 
   test("takes no force flag, because it stops nothing", () => {

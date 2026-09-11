@@ -34,8 +34,15 @@ export const terminalSeatLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A resume attaches to a live session without asking anything to start that session.",
+      statement: "A resume attaches to a live session a page states, asking nothing to start it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A live session no page states is resumed rather than attached to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a seat is stated is read as the page that seat's name reaches.",
     },
     {
       invariantKind: "departure",
