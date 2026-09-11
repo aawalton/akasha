@@ -4,6 +4,7 @@ import { matRowFromLink } from "akasha/temper/crafting-addon/writ-mat-row/writ-m
 import { FOODDRINK_TO_RECIPE_ITEM_ID } from "akasha/temper/crafting-addon/writ-prov-recipe-map/writ-prov-recipe-map.module.code.ts"
 import type { MatList } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 import { fail } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 export interface Recipe {
   class: string

@@ -1,5 +1,6 @@
 import { libSlashCommander } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
 import { strOrKey as wwStr } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 export function forget(this: void): undefined {
   const sc = TemperWrit.savedChariables

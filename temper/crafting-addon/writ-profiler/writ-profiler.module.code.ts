@@ -1,3 +1,5 @@
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
+
 interface ProfilerStat {
   call_ct: number
   durMs: number

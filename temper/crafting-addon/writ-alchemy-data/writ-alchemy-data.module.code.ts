@@ -1,4 +1,5 @@
 import { add as logAdd } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 export interface Effect {
   effect_id: number

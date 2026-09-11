@@ -8,6 +8,7 @@ import {
 import type { Know } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 import { KNOW } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 import { decaret } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 interface SkillIndexRow {
   id: number

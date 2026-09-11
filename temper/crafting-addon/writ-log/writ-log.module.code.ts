@@ -1,4 +1,5 @@
 import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 interface LogState {
   log_event: string[] | undefined

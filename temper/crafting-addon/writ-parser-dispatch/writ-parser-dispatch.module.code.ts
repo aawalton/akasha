@@ -11,6 +11,7 @@ import type {
 } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 import { fail, round } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
 import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 type ParserFactory = (this: void) => Parser
 

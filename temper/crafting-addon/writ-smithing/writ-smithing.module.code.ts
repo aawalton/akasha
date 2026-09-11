@@ -3,6 +3,7 @@ import { newSmithingParser } from "akasha/temper/crafting-addon/writ-smith-parse
 import type { SmithingParser } from "akasha/temper/crafting-addon/writ-smith-parser-types/writ-smith-parser-types.module.code.ts"
 import { smithingInit } from "akasha/temper/crafting-addon/writ-smith-schema/writ-smith-schema.module.code.ts"
 import type { School } from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 interface MotifEntry {
   pages_id?: number

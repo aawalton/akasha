@@ -16,6 +16,7 @@ import type {
   MatList,
   Parser,
 } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 interface AssemblerParser extends Parser {
   WarningText: (this: Parser) => string | undefined

@@ -9,6 +9,7 @@ import type {
   WritFields,
 } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 TemperWrit.GOLD_UNKNOWN = undefined
 

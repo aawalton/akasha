@@ -11,6 +11,7 @@ import {
   COLOR_RED,
   color,
 } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 export function newKnow(args: KnowArgs): Know {
   const o: Know = {

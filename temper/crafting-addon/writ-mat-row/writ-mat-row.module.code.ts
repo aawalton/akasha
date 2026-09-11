@@ -11,6 +11,7 @@ import {
   matPrice,
   toMoney,
 } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import "akasha/temper/crafting-addon/writ-public-api/writ-public-api.module.code.ts"
 
 export function newMatRow(): MatRow {
   const o: MatRow = {
