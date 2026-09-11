@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterSkillActivations = {
   id: "01a06187-b3a2-71d7-8a99-86c4051cb91c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-skill-activations",
   definition: "the tooltip wording and formula effects a character skill activation carries",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const curseSource = {
   id: "01a060ea-ac60-758d-ad8f-786d0b97c62d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "curse-source",
   definition: "the penalties a vampire stage puts on a character's recovery and costs",
   code: "ts",

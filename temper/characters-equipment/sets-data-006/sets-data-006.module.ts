@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData006 = {
   id: "01a0619f-59e3-7312-9043-152fb7857819",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-006",
   definition: "part 006 of the gear set table, armor-of-the-trainee through arms-of-the-ancestors",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatEncodingTables = {
   id: "01a0617f-5841-77db-8988-0b2c804a304c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-encoding-tables",
   definition: "the field layouts each kind of log line is packed into",
   code: "ts",

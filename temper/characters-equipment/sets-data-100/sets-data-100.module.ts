@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData100 = {
   id: "01a061a3-9828-7640-998d-bf625eaac138",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-100",
   definition: "part 100 of the gear set table, syrabanes-grip through talfygs-treachery",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData061 = {
   id: "01a061a3-3082-76ab-bee7-469bdf992f1a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-061",
   definition: "part 061 of the gear set table, new-moon-acolyte through night-mothers-gaze",
   code: "ts",

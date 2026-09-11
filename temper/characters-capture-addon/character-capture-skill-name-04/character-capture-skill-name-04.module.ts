@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureSkillName04 = {
   id: "01a0616b-bfd7-718c-aada-e9f813fc094a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-skill-name-04",
   definition: "part 04 of each skill's game id against its temper id",
   code: "ts",

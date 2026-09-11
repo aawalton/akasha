@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const leadsUnitList = {
   id: "01a06274-b08a-7e24-bb52-b2b7aeb6d21d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "leads-unit-list",
   definition: "the sortable, filtered list of leads",
   code: "ts",

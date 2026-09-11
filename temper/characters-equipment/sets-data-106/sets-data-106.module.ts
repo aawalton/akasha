@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData106 = {
   id: "01a061a3-982a-7cfa-8655-33117192cbed",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-106",
   definition:
     "part 106 of the gear set table, torc-of-the-last-ayleid-king through transformative-hope",

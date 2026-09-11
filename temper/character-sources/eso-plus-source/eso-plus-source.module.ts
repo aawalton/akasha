@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoPlusSource = {
   id: "01a060ea-ac63-7845-9a82-f9f16acf19da",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-plus-source",
   definition: "the tenth an ESO Plus subscription adds to what a character earns",
   code: "ts",

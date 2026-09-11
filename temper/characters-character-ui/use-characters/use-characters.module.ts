@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useCharacters = {
   id: "01a06360-7480-7001-8431-aa4304c430ae",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-characters",
   definition: "a player's character builds, read and written",
   code: "ts",

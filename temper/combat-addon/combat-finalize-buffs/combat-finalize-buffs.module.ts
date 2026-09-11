@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatFinalizeBuffs = {
   id: "01a0617f-5843-7e19-bc88-36ce0825e610",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-finalize-buffs",
   definition: "working out how much of a fight each buff was up for",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData099 = {
   id: "01a061a3-9828-737e-ba3e-a85b4085ec39",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-099",
   definition: "part 099 of the gear set table, swamp-raider through symphony-of-blades",
   code: "ts",

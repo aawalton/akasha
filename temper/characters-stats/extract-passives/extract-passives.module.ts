@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const extractPassives = {
   id: "01a06271-abcf-7c72-adb9-549ee5b23055",
   pageTypeSlug: "module",
+  type: "module",
   slug: "extract-passives",
   definition: "the passives a build is eligible for, read out as effect sources",
   code: "ts",

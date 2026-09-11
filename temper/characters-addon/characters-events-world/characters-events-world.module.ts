@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersEventsWorld = {
   id: "01a0632d-cc07-702c-b838-1700356d3d00",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-events-world",
   definition: "what this add-on does when the played character's progress in the world changes",
   code: "ts",

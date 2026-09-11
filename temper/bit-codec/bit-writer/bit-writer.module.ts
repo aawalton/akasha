@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const bitWriter = {
   id: "01a060af-2560-7182-8953-f9402a4521e1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "bit-writer",
   definition: "packing numbers into a byte array a chosen number of bits at a time",
   code: "ts",

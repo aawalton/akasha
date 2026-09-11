@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const catalogWalk = {
   id: "01a06071-0c78-7ebb-b9aa-00dcb686b129",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalog-walk",
   definition:
     "collecting each catalog domain in turn, giving up on one that hangs, and saying what was missed",

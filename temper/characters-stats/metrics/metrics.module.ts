@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const metrics = {
   id: "01a06131-abb7-7c5f-81a0-69154a33d704",
   pageTypeSlug: "module",
+  type: "module",
   slug: "metrics",
   definition:
     "every character stat indexed by its id, with the ones carrying a formula gathered apart",

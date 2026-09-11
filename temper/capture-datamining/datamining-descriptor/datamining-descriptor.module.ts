@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataminingDescriptor = {
   id: "01a0608a-15b1-7b7c-a207-279aad7165d2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "datamining-descriptor",
   definition: "the name, version and defaults the mining add-on hands the game to save under",
   code: "ts",

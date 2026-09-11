@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const catalogFilePaths = {
   id: "01a060ce-b8cc-7704-9bd1-cd4631423a3c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalog-file-paths",
   definition: "where the catalog addon's saved file and its request file are looked for",
   code: "ts",

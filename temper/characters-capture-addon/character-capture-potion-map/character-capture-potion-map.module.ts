@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCapturePotionMap = {
   id: "01a0616b-4d67-7eae-a7e9-5dba894d679f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-potion-map",
   definition: "each potion's item id and packed effects against its place in a build hash",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDependencyFloor = {
   id: "01a06297-7f6a-7664-ac3d-ea7ecf537e2f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-dependency-floor",
   definition: "whether a version floor a game add-on declares is met by what ships",
   code: "ts",

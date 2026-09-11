@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const zoneCompletionCatalog = {
   id: "01a0604d-23a2-79a2-808b-325871382906",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zone-completion-catalog",
   definition: "the activities a zone counts towards completion, held under completion types",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersGrandMasterStations = {
   id: "01a062ea-6084-7fb0-80ea-9880f04a9f18",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-grand-master-stations",
   definition: "the consolidated smithing sets unlocked for a craft, read into the saved table",
   code: "ts",

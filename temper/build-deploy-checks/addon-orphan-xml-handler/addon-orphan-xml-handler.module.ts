@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonOrphanXmlHandler = {
   id: "01a062a8-e76a-77f5-a7f2-de80170b6c77",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-orphan-xml-handler",
   definition: "whether an inline markup handler names what an add-on's source defines nowhere",
   code: "ts",

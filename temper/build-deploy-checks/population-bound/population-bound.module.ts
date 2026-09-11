@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const populationBound = {
   id: "01a06287-7841-72c9-bcad-ce7b9ecfcd04",
   pageTypeSlug: "module",
+  type: "module",
   slug: "population-bound",
   definition: "the note saying how much of a population a run examined",
   code: "ts",

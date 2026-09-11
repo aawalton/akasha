@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData095 = {
   id: "01a061a3-621a-74e0-b2ca-044f230dba85",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-095",
   definition: "part 095 of the gear set table, spider-cultist-cowl through steadfast-hero",
   code: "ts",

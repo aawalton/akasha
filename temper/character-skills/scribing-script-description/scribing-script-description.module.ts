@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scribingScriptDescription = {
   id: "01a06187-b3a2-7a11-b605-168d750e9430",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scribing-script-description",
   definition: "the wording a grimoire, a focus script and its variants read out together",
   code: "ts",

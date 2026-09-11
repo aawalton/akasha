@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData007 = {
   id: "01a0619f-59e4-7446-aa7d-a88b18e74e8c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-007",
   definition: "part 007 of the gear set table, ashen-grip through aurorans-thunder",
   code: "ts",

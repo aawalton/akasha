@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData050 = {
   id: "01a061a3-307f-7c8a-805e-f57528f00845",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-050",
   definition: "part 050 of the gear set table, kragh through kynes-wind",
   code: "ts",

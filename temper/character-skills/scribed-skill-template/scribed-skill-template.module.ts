@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scribedSkillTemplate = {
   id: "01a0617c-86c1-77b2-9e1c-f729dd5bce09",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scribed-skill-template",
   definition: "the shape a scribed skill carries beyond an ordinary skill row",
   code: "ts",

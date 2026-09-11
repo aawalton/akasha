@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const armorWeights = {
   id: "01a0616f-8e17-7f39-850b-c2da8d153a31",
   pageTypeSlug: "module",
+  type: "module",
   slug: "armor-weights",
   definition: "the armor weights a piece is made in, and what wearing each is worth",
   code: "ts",

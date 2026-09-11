@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonRemovedRefs = {
   id: "01a06365-e827-7004-83d6-2a85f1a30c02",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-removed-refs",
   definition: "the references an emitted bundle keeps to a third-party add-on that is gone",
   code: "ts",

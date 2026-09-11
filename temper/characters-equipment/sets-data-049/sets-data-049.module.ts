@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData049 = {
   id: "01a061a3-307f-79a2-9c75-f6d88c5b9ea1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-049",
   definition: "part 049 of the gear set table, kazpians-cruel-signet through knightmare",
   code: "ts",

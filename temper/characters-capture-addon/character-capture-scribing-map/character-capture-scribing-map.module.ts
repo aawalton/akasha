@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureScribingMap = {
   id: "01a0616b-73d4-7812-9a51-9ac08a5b1406",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-scribing-map",
   definition: "each grimoire and script name against its place in a build hash",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const domainKeys = {
   id: "01a06071-0c79-7e98-87f3-f277a3b41182",
   pageTypeSlug: "module",
+  type: "module",
   slug: "domain-keys",
   definition: "the key each catalog domain is saved under, held to the payload's own fields",
   code: "ts",

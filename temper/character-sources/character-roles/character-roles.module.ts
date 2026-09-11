@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterRoles = {
   id: "01a060ea-ac5f-7d16-af64-7fbc832ae916",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-roles",
   definition: "the playstyles a build is planned for, from DPS through to solo",
   code: "ts",

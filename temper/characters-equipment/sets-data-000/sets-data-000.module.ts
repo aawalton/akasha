@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData000 = {
   id: "01a0619d-2caa-7226-be72-6ecbc3be7403",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-000",
   definition: "part 000 of the gear set table, no-set through aegis-caller",
   code: "ts",

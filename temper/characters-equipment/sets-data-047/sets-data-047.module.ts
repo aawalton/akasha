@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData047 = {
   id: "01a061a3-307d-7078-8700-a1dcef2107c8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-047",
   definition: "part 047 of the gear set table, iron-flask through jerensis-bladestorm",
   code: "ts",

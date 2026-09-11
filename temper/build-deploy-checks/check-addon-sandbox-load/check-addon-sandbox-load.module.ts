@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkAddonSandboxLoad = {
   id: "01a06365-e827-7009-9a16-7217fe717a36",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-addon-sandbox-load",
   definition:
     "the run judging whether an emitted bundle loads under a sandbox shaped like the game's",

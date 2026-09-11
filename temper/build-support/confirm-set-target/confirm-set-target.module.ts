@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const confirmSetTarget = {
   id: "01a090a4-c227-7bc1-87d7-d7b98fe5499c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "confirm-set-target",
   definition: "setting a build as a waiting entity's target once the player has confirmed",
   code: "ts",

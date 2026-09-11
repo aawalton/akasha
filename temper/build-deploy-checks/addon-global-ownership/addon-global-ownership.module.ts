@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonGlobalOwnership = {
   id: "01a06351-9b09-79b9-9375-0365c78e88d8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-global-ownership",
   definition: "which port writes which Lua global, and where two ports claim one",
   code: "ts",

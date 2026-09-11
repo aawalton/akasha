@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData039 = {
   id: "01a061a3-0132-7bc7-a984-ad2509484a7e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-039",
   definition: "part 039 of the gear set table, hand-of-mephala through haven-of-ursus",
   code: "ts",

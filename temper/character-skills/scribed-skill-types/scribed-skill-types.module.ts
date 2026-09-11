@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scribedSkillTypes = {
   id: "01a06187-b3a2-7407-b074-aff0b3d8c06d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scribed-skill-types",
   definition: "the four choices that name one scribed skill a character has made",
   code: "ts",

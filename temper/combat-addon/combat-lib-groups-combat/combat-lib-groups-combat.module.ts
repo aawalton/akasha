@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatLibGroupsCombat = {
   id: "01a0617f-5846-74e8-b8d4-c582c1285a0a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-lib-groups-combat",
   definition: "the damage and healing event groups declared to the recorder",
   code: "ts",

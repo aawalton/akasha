@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData023 = {
   id: "01a061a3-012e-757f-b157-876603c46e8b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-023",
   definition: "part 023 of the gear set table, deadly-strike through deeproot-zeal",
   code: "ts",

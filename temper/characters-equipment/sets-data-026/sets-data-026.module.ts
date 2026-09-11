@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData026 = {
   id: "01a061a3-012f-7af1-8e12-d080b1dfc659",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-026",
   definition: "part 026 of the gear set table, dragons-appetite through draugr-hulk",
   code: "ts",

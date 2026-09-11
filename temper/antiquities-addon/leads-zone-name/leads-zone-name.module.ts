@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const leadsZoneName = {
   id: "01a06274-b08a-7546-b923-d5ea415aa870",
   pageTypeSlug: "module",
+  type: "module",
   slug: "leads-zone-name",
   definition: "the name a lead's zone is shown under",
   code: "ts",

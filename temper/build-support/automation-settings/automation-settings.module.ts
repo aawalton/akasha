@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const automationSettings = {
   id: "01a0609f-53f9-741e-ad0d-f6c482c8057e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "automation-settings",
   definition: "which chores are done for a character or companion without being asked for",
   code: "ts",

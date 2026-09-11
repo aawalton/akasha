@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData018 = {
   id: "01a0619f-59eb-774a-8868-2cdaa188edaf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-018",
   definition: "part 018 of the gear set table, coldharbours-favorite through corpseburster",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData008 = {
   id: "01a0619f-59e5-7052-ab40-6eacb491641e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-008",
   definition: "part 008 of the gear set table, automated-defense through back-alley-gourmand",
   code: "ts",

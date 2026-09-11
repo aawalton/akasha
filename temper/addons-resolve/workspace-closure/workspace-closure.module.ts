@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const workspaceClosure = {
   id: "01a06060-ec3e-7582-ae88-090d58ee8ee9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "workspace-closure",
   definition: "every workspace package one package reaches, directly or through another",
   code: "ts",

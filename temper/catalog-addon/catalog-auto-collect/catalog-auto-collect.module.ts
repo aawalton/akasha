@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const catalogAutoCollect = {
   id: "01a063ba-94e5-761c-9dd4-1124b1de80bb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalog-auto-collect",
   definition: "collecting on login whichever catalogs the saved table is still missing",
   code: "ts",

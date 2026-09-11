@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData046 = {
   id: "01a061a3-0134-7553-9ca4-392186c3e449",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-046",
   definition: "part 046 of the gear set table, indomitable-fury through inventors-guard",
   code: "ts",

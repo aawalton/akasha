@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData032 = {
   id: "01a061a3-0131-7ce7-85ba-4bebed422dc4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-032",
   definition: "part 032 of the gear set table, eyes-of-mara through fauns-lark-cladding",
   code: "ts",

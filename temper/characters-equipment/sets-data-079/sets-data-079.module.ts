@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData079 = {
   id: "01a061a3-6216-7505-9d87-1ec9b9ff77a6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-079",
   definition: "part 079 of the gear set table, quick-serpent through rampaging-slash",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData033 = {
   id: "01a061a3-0131-7f7b-bf97-d4173fb1442e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-033",
   definition: "part 033 of the gear set table, fellowships-fortitude through fledglings-nest",
   code: "ts",

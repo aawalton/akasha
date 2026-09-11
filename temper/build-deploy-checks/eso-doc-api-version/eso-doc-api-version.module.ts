@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoDocApiVersion = {
   id: "01a06297-7f69-79e9-ba2d-841bbb66190f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-doc-api-version",
   definition: "whether the ESO artifacts a repository holds were stamped from one clone",
   code: "ts",

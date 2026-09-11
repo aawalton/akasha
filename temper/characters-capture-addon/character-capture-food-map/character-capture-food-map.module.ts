@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureFoodMap = {
   id: "01a0616b-a193-7b4e-8eda-59845fbc07d4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-food-map",
   definition: "each food and drink buff's ability id against its place in a build hash",
   code: "ts",

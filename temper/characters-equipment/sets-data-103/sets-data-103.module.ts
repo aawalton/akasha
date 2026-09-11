@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData103 = {
   id: "01a061a3-982a-74a2-8ca9-ac0c3dacb3bf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-103",
   definition: "part 103 of the gear set table, the-juggernaut through thrassian-stranglers",
   code: "ts",

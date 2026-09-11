@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatLibAbilityTables = {
   id: "01a0617f-5843-7e0a-9e4a-fc8ca81e1dbc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-lib-ability-tables",
   definition: "the ability ids the recorder rewrites, adds or refuses",
   code: "ts",

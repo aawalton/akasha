@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData063 = {
   id: "01a061a3-3083-7636-8340-4ed8f6530fdb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-063",
   definition: "part 063 of the gear set table, nobility-in-decay through nocturnals-ploy",
   code: "ts",

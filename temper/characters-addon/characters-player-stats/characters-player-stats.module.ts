@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersPlayerStats = {
   id: "01a062ed-3953-7006-94d1-870f11c3c3fc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-player-stats",
   definition:
     "the name, build hash and curse of the character now played, read into the saved table",

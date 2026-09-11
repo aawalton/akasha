@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillBarFiltering = {
   id: "01a06187-b3a3-78c4-bc72-3cc3411efc24",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-bar-filtering",
   definition: "the skills a character may put on one bar, given what it wears and what it is",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const jewelryEnchantsData = {
   id: "01a0616f-8e14-79ec-a8cd-c4989b33053d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "jewelry-enchants-data",
   definition: "the table of jewelry glyphs, kept apart from the module that reads the table",
   code: "ts",

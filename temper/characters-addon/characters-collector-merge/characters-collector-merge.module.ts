@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersCollectorMerge = {
   id: "01a062e9-b6fe-7010-ab1f-3d8afc6a9e8e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-collector-merge",
   definition: "what a collector already stored joined with what it has just read",
   code: "ts",

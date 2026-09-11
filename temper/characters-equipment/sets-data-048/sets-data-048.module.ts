@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData048 = {
   id: "01a061a3-307e-7014-8d63-65f25e79cb0d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-048",
   definition: "part 048 of the gear set table, jolting-arms through kargaeda",
   code: "ts",

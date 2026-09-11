@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const perfTrace = {
   id: "01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "perf-trace",
   definition: "the milliseconds an add-on spent loading",
   code: "ts",

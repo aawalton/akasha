@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const recipeCatalog = {
   id: "01a0604d-23a0-7cb1-93da-f155d5f49f5b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recipe-catalog",
   definition: "the recipes the game lists, held under recipe lists",
   code: "ts",

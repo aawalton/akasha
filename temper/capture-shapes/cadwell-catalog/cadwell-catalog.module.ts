@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const cadwellCatalog = {
   id: "01a0604d-239b-7e40-96b8-b77f26524225",
   pageTypeSlug: "module",
+  type: "module",
   slug: "cadwell-catalog",
   definition: "the zones and points of interest Cadwell's Almanac counts at each level",
   code: "ts",

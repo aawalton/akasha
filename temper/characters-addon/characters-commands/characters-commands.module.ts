@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersCommands = {
   id: "01a0632d-cacd-700b-99b3-a58078ae9a53",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-commands",
   definition: "the slash commands this add-on answers to",
   code: "ts",

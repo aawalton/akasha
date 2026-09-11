@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDependencyCycle = {
   id: "01a06297-7f6a-7306-9a6f-acca84ccb4b8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-dependency-cycle",
   definition: "the cycles in what a game add-on declares it loads after",
   code: "ts",

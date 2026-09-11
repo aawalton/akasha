@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonSandboxLoad = {
   id: "01a06365-e827-7006-87ad-08154100525f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-sandbox-load",
   definition: "an emitted bundle run inside a Lua sandbox shaped like the game's",
   code: "ts",

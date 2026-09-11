@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatLibInit = {
   id: "01a0617f-5847-7e7b-9c03-306feba37533",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-lib-init",
   definition: "starting the recorder",
   code: "ts",

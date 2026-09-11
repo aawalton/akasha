@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const metricsData01 = {
   id: "01a06131-abae-79ee-aef9-9dc78243fd8c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "metrics-data-01",
   definition: "character stats alliance-points-gain through bloodthirsty-weapon-damage",
   code: "ts",

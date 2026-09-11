@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData071 = {
   id: "01a061a3-3085-7fe3-be40-6154b2f3d8c6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-071",
   definition:
     "part 071 of the gear set table, perfected-mantle-of-siroria through perfected-piercing-spray",

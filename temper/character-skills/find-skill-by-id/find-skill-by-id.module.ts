@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const findSkillById = {
   id: "01a06187-b3a3-7d2a-b33f-3befa93b8a07",
   pageTypeSlug: "module",
+  type: "module",
   slug: "find-skill-by-id",
   definition:
     "the skill an id names, looked for among the ordinary skills and then the scribed ones",

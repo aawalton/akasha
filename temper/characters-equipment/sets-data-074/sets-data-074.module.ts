@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData074 = {
   id: "01a061a3-6215-7716-8266-fc862ef429aa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-074",
   definition:
     "part 074 of the gear set table, perfected-test-of-resolve through perfected-virulent-shot",

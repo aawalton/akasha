@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const chatEntryText = {
   id: "01a090b3-cd34-73db-8728-72f922749cda",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chat-entry-text",
   definition: "text written into the chat entry box for the player to send or edit",
   code: "ts",

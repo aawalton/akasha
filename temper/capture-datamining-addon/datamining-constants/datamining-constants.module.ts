@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataminingConstants = {
   id: "01a06341-d9e8-7002-a0ab-0c2c0932a9ad",
   pageTypeSlug: "module",
+  type: "module",
   slug: "datamining-constants",
   definition: "the fixed names, batch sizes and delays datamining runs by",
   code: "ts",

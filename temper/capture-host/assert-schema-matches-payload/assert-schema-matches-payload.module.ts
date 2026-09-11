@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const assertSchemaMatchesPayload = {
   id: "01a06075-b052-7e77-979b-c9bea93f7ba3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "assert-schema-matches-payload",
   definition: "a call refusing to typecheck unless a zod schema infers exactly a payload type",
   code: "ts",

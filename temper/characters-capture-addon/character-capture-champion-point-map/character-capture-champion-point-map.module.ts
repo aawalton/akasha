@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureChampionPointMap = {
   id: "01a0616b-23c3-7958-8a1f-21a8646a50db",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-champion-point-map",
   definition: "each champion point star's game id against its place in a build hash",
   code: "ts",

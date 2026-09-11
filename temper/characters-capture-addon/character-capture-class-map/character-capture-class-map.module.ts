@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureClassMap = {
   id: "01a0616b-83c5-7863-8ef6-9a4458d16ae4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-class-map",
   definition: "each class's game id against its place in a build hash",
   code: "ts",

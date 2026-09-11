@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData111 = {
   id: "01a061a3-982c-7db9-9f95-3f611e443ee7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-111",
   definition: "part 111 of the gear set table, undaunted-unweaver through unleashed-terror",
   code: "ts",

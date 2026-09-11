@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const leadsToggle = {
   id: "01a06274-b08a-7259-9ab9-8679894dbe99",
   pageTypeSlug: "module",
+  type: "module",
   slug: "leads-toggle",
   definition: "the sweep over every antiquity that fills the list, and the window's showing",
   code: "ts",

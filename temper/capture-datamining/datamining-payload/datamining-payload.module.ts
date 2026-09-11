@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataminingPayload = {
   id: "01a0608a-15b1-7c8a-abad-1fed4e8585a6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "datamining-payload",
   definition: "the shape a mined item, a mined quest and the sweep's own progress take",
   code: "ts",

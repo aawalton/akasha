@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData065 = {
   id: "01a061a3-3083-782e-a1f2-93172587c2ef",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-065",
   definition: "part 065 of the gear set table, old-growth-brewer through orgnums-scales",
   code: "ts",

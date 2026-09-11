@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkEsoTypingsFresh = {
   id: "01a06297-7f6a-7fd6-9fbb-6cb8003a350c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-eso-typings-fresh",
   definition: "the run judging whether every clone-derived ESO artifact is stamped",
   code: "ts",

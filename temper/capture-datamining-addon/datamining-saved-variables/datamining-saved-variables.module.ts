@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataminingSavedVariables = {
   id: "01a06341-d9e8-7003-86e4-05d88c5ad77a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "datamining-saved-variables",
   definition: "the way the mined data is reached where the game keeps saved variables",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureCurseMap = {
   id: "01a0616b-c4eb-7239-a6d1-ba1f09953f22",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-curse-map",
   definition: "the vampire and werewolf ability ids against their place in a build hash",
   code: "ts",

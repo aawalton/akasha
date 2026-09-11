@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const accountWideVars = {
   id: "01a060b5-5ba8-7a8b-9378-5bd025a7cb9d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "account-wide-vars",
   definition: "the game's own account-wide saved table, held for as long as the add-on runs",
   code: "ts",

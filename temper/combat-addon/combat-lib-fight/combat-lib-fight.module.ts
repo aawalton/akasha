@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatLibFight = {
   id: "01a0617f-5846-77b4-bbf5-852766f06f5f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-lib-fight",
   definition: "when a fight starts, when it ends, and what counts as the same fight",
   code: "ts",

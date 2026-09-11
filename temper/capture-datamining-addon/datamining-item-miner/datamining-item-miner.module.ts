@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataminingItemMiner = {
   id: "01a06341-d9e8-7004-990d-d242df0e2bd1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "datamining-item-miner",
   definition: "what the game says about every item, taken one item id at a time",
   code: "ts",

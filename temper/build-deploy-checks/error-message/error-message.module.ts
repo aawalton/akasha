@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const errorMessage = {
   id: "01a06287-7841-76ad-85d5-861974947268",
   pageTypeSlug: "module",
+  type: "module",
   slug: "error-message",
   definition: "the message read off a thrown value of any shape",
   code: "ts",

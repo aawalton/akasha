@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData017 = {
   id: "01a0619f-59eb-776d-aa7f-f1621cd6b1cb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-017",
   definition: "part 017 of the gear set table, chokethorn through clever-alchemist",
   code: "ts",

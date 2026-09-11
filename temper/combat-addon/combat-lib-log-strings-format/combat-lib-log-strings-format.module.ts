@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatLibLogStringsFormat = {
   id: "01a0617f-5849-7a45-99a8-60a3af297a3b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-lib-log-strings-format",
   definition: "formatting one stats, message, timing, boss or death line for the chat log",
   code: "ts",

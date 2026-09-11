@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatFightDataTypes = {
   id: "01a0617f-5842-74d8-8081-02ac1afbef82",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-fight-data-types",
   definition: "the shapes a fight takes once it is written to disk",
   code: "ts",

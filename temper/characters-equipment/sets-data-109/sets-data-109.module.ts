@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData109 = {
   id: "01a061a3-982b-7a12-97e5-65b6b37b8aee",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-109",
   definition: "part 109 of the gear set table, twilights-embrace through ulfnors-favor",
   code: "ts",

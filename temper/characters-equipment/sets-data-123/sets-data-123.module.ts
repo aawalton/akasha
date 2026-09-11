@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData123 = {
   id: "01a061a4-18b0-7f37-89cc-e3646ca45a3c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-123",
   definition: "part 123 of the gear set table, zens-redress through zoal-the-ever-wakeful",
   code: "ts",

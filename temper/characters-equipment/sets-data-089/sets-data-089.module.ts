@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData089 = {
   id: "01a061a3-6219-7061-98c0-774afb48499a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-089",
   definition: "part 089 of the gear set table, shalk-exoskeleton through shattered-fate",
   code: "ts",

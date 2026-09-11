@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData043 = {
   id: "01a061a3-0134-7763-985e-65465f13cfbc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-043",
   definition: "part 043 of the gear set table, hist-bark through hollowfang-thirst",
   code: "ts",

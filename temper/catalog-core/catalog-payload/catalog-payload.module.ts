@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const catalogPayload = {
   id: "01a06071-0c78-7ec6-a529-55cd1d262309",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalog-payload",
   definition: "the shape of everything the catalog add-on saves out of the game's reference data",
   code: "ts",

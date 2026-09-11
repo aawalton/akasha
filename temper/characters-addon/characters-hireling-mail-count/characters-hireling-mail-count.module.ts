@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersHirelingMailCount = {
   id: "01a062ed-3966-7007-9279-aa90f8aed0c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-hireling-mail-count",
   definition: "a day's tally of hireling mails looted, and the tally a day is done at",
   code: "ts",

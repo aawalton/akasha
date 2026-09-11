@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const bitReader = {
   id: "01a060b3-77ca-7b4f-a569-3dce9d9f75ad",
   pageTypeSlug: "module",
+  type: "module",
   slug: "bit-reader",
   definition: "taking numbers back out of a byte array a chosen number of bits at a time",
   code: "ts",

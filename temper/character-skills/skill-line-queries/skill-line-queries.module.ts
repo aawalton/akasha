@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillLineQueries = {
   id: "01a06187-b3a4-7f6e-9755-30b39a3b5cfb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-line-queries",
   definition: "which skill lines a character may choose, wear into, or lose on a class change",
   code: "ts",

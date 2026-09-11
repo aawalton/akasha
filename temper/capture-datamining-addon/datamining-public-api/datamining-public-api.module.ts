@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataminingPublicApi = {
   id: "01a06341-d9e8-7006-a2dc-0b3e1ae1c2a6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "datamining-public-api",
   definition: "the global another addon reads the mined data through",
   code: "ts",

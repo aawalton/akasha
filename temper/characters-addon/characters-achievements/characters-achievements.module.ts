@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersAchievements = {
   id: "01a062e9-b6ff-701b-ad38-42cae450de18",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-achievements",
   definition:
     "every achievement's progress, read into the saved table under the account or the character",

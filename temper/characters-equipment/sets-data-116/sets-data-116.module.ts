@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData116 = {
   id: "01a061a3-982d-7b80-a2d6-bbbc20cace71",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-116",
   definition: "part 116 of the gear set table, vrols-command through ward-of-cyrodiil",
   code: "ts",

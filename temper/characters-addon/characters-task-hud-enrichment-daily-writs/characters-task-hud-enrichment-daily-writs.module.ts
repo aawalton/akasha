@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const charactersTaskHudEnrichmentDailyWrits = {
   id: "01a062ee-f0f3-7074-b8dc-cfc644c42df3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "characters-task-hud-enrichment-daily-writs",
   definition: "one row for each crafting profession's daily writ, with how far that writ has got",
   code: "ts",

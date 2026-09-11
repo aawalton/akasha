@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const weaponEnchants = {
   id: "01a0616f-8e18-7979-89eb-61f1621f3cdb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "weapon-enchants",
   definition: "every glyph a weapon takes, and what each is worth at a quality",
   code: "ts",

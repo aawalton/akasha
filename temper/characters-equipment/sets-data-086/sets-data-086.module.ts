@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData086 = {
   id: "01a061a3-6218-74e3-b542-58e4877a896a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-086",
   definition: "part 086 of the gear set table, seeker-synthesis through senche-rahts-grit",
   code: "ts",

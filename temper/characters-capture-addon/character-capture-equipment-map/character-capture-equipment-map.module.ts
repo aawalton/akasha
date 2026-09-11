@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureEquipmentMap = {
   id: "01a0616b-618d-790e-b832-fb5fba674711",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-equipment-map",
   definition: "each trait, glyph and weapon type against its place in a build hash",
   code: "ts",

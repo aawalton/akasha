@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const potionTraits = {
   id: "01a06076-1b6c-7878-b299-8255b113ea93",
   pageTypeSlug: "module",
+  type: "module",
   slug: "potion-traits",
   definition: "the number the game encodes each alchemy effect as",
   code: "ts",

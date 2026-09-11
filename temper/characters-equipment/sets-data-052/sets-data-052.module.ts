@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData052 = {
   id: "01a061a3-3080-7b8a-b3c0-dd2ccac6ef5b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-052",
   definition: "part 052 of the gear set table, law-of-julianos through lekis-focus",
   code: "ts",

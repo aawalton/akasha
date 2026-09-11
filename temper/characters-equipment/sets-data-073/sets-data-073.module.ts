@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData073 = {
   id: "01a061a3-6214-7af6-a01b-0a7dd14667d1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-073",
   definition:
     "part 073 of the gear set table, perfected-saxhleel-champion through perfected-sul-xans-torment",

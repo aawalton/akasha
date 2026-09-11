@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterCaptureCodecTypes = {
   id: "01a0616b-8743-7689-94a2-936218e8c171",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-capture-codec-types",
   definition: "the shape of everything a character build hash carries",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const rowGrouping = {
   id: "01a0609f-53fa-76c3-b842-f36808ca5db3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "row-grouping",
   definition: "rows filed under a key, and rows counted by a key",
   code: "ts",

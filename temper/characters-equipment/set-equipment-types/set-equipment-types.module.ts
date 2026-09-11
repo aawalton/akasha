@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setEquipmentTypes = {
   id: "01a0616f-8e14-7cf7-8e3f-2a2890a905b6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "set-equipment-types",
   definition: "which armor jewelry and weapon kinds a gear set pattern is written against",
   code: "ts",

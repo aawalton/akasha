@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setsData081 = {
   id: "01a061a3-6216-77eb-bdad-9a9303b2a9bb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sets-data-081",
   definition:
     "part 081 of the gear set table, recovery-convergence through relics-of-the-rebellion",
