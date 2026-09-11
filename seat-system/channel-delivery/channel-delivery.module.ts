@@ -20,7 +20,7 @@ export const channelDelivery = {
     {
       invariantKind: "departure",
       statement:
-        "A message the seat found in its own inbox is apart from a message the channel woke the seat with.",
+        "A message the seat found in its own inbox is apart from a message the channel injected.",
     },
     {
       invariantKind: "departure",
