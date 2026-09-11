@@ -28,7 +28,7 @@ export const theaChecksSystem = {
       statement:
         "The singleton service runs every audit hourly and messages thea the failures to remediate.",
       workingMemory:
-        "Alan's wording: the service runs all audits once per hour and sends failures to thea for remediation through a message. Nothing schedules an audit now, read live off 29 user timers, 8 system timers and 75 unit files, none naming the repository. How a failure reaches a seat is unproven here: the messages server has answered nothing all session.",
+        "Alan's wording: the service runs all audits once per hour and sends failures to thea for remediation through a message. Nothing schedules an audit now, read live off 29 user timers and 75 unit files, none naming the repository. How a failure reaches a seat is unproven: the messages server answered nothing all session. A cost line cannot tell a check that threw from one that refused once, both writing found.length, so the service reads rows rather than counts.",
     },
   ],
   constraints: [
