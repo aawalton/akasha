@@ -1,4 +1,7 @@
 import { describe, expect, test } from "bun:test"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   ptyProxyRel,
   seatResumeRel,
@@ -13,6 +16,10 @@ import {
   seatResume,
   supervisor,
 } from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
+
+const LAUNCHER_PAGE = listedAt(akashaRoot(), "shell-script", "akasha-launcher")[0]?.path ?? ""
+
+const LAUNCHER_AT = besideAt(LAUNCHER_PAGE, "shell", "sh") ?? ""
 
 describe("the checkout", () => {
   test("is whatever the environment names, falling back to the one at home", () => {
@@ -40,9 +47,7 @@ describe("what a seat comes up under", () => {
 
 describe("the commands a terminal reaches", () => {
   test("name akasha through the one file on the path", () => {
-    expect(akashaCommand()).toBe(
-      '"${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"'
-    )
+    expect(akashaCommand()).toBe(`"\${AKASHA_ROOT:-$HOME/repos/akasha}/${LAUNCHER_AT}"`)
   })
 
   test("name the resume module a terminal runs to put a seat back on its session", () => {
