@@ -18,6 +18,7 @@ export const alan = {
         "Ask where you cannot tell what Alan wants built.",
         "Ask where only Alan can run the test or see the result.",
         "An irreversible command is a reason to look, never a reason to ask.",
+        "When Alan asks you to pause, pause.",
         "Nothing else is required.",
       ],
     },

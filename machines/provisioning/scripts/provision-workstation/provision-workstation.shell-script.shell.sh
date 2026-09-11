@@ -108,17 +108,17 @@ if [ "$(uname)" != "Darwin" ]; then
 fi
 
 
-echo "==> Projecting the workstation-service pages into systemd units..."
+echo "==> Projecting the service-workstation pages into systemd units..."
 if [ -f "$DISPATCHER" ]; then
   services_failed=0
   while IFS= read -r page; do
-    slug="$(basename "$page" .workstation-service.ts)"
+    slug="$(basename "$page" .service-workstation.ts)"
     if ! (cd "$AKASHA" && bun "$DISPATCHER" deploy "$slug"); then
       echo "WARN: 'akasha deploy $slug' failed — that service is uninstalled" >&2
       echo "      on this box." >&2
       services_failed=1
     fi
-  done < <(cd "$AKASHA" && git ls-files -- '*.workstation-service.ts')
+  done < <(cd "$AKASHA" && git ls-files -- '*.service-workstation.ts')
   if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure service sweep); then
     echo "WARN: 'akasha infrastructure service sweep' failed — a unit akasha owns that no page" >&2
     echo "      accounts for may still sit on this box." >&2
@@ -128,7 +128,7 @@ if [ -f "$DISPATCHER" ]; then
     echo "      Re-run what failed once the cause is cleared." >&2
   fi
 else
-  echo "WARN: no akasha checkout at $AKASHA, so the workstation-service pages cannot" >&2
+  echo "WARN: no akasha checkout at $AKASHA, so the service-workstation pages cannot" >&2
   echo "      be read and none of the services they describe is installed." >&2
 fi
 
