@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0045Ch45ReturnToTheMarket = {
   id: "01a06731-adb5-700a-b98d-b9463e174acd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0045-ch45-return-to-the-market",
   title: "Ch45 Return to the Market",

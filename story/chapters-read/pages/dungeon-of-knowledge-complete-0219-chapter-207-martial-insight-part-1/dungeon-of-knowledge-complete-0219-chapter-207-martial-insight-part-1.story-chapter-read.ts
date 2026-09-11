@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0219Chapter207MartialInsightPart1 = {
   id: "01a0672c-ebcb-7006-a883-c6c0870ce179",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0219-chapter-207-martial-insight-part-1",
   title: "Chapter 207: Martial Insight (Part 1)",

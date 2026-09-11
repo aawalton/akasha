@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0354Chapter317TheArtOfCalligraphy = {
   id: "01a0672c-ebee-7002-9c3c-36932f3f1d90",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0354-chapter-317-the-art-of-calligraphy",
   title: "Chapter 317: The Art of Calligraphy",

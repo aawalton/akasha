@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0523Chapter485AToolForSmiting = {
   id: "01a0672c-ec2d-7001-96e3-b0dfd872d0f3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0523-chapter-485-a-tool-for-smiting",
   title: "Chapter 485: A Tool for Smiting",

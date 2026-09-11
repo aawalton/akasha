@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fleshEaterDemonEvolutionLitrpg0057ChapterFiftySixUnderTheMoonlight = {
   id: "01a06731-af58-7002-846c-aa4f8898658f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0057-chapter-fifty-six-under-the-moonlight",
   title: "Chapter Fifty-Six: Under the Moonlight",

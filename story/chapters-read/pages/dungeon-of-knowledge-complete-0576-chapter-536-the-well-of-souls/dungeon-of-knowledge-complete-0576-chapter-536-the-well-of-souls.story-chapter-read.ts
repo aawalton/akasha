@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0576Chapter536TheWellOfSouls = {
   id: "01a0672c-ec4f-7000-b079-a1180ed4e757",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0576-chapter-536-the-well-of-souls",
   title: "Chapter 536: The Well of Souls",

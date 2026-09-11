@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0443Chapter406EyeOfAgnor = {
   id: "01a0672c-ec0c-7000-83d1-e13404dc9630",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0443-chapter-406-eye-of-agnor",
   title: "Chapter 406: Eye of Agnor",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0473Chapter436RingingTheDoorbellPart1 = {
   id: "01a0672c-ec1c-7002-9549-9c40d08bd656",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0473-chapter-436-ringing-the-doorbell-part-1",
   title: "Chapter 436: Ringing The Doorbell (Part 1)",

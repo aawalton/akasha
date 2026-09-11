@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0115Chapter114TheDefianceOfTheLowly = {
   id: "01a0672c-eb76-7001-8765-15a7c824efdb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0115-chapter-114-the-defiance-of-the-lowly",
   title: "Chapter 114: The Defiance of the Lowly",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008584AlleneTheDragonrider = {
   id: "01a06731-ae11-700e-af36-96acf05113e3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0085-84-allene-the-dragonrider",
   title: "84 - Allene, the Dragonrider",

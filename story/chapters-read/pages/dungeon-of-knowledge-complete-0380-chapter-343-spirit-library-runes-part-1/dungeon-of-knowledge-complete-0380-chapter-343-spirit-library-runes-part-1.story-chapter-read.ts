@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0380Chapter343SpiritLibraryRunesPart1 = {
   id: "01a0672c-ebf6-7001-b233-10fc34621949",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0380-chapter-343-spirit-library-runes-part-1",
   title: "Chapter 343: Spirit Library Runes (Part 1)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0295Chapter263SoulNet = {
   id: "01a0672c-ebde-7003-8bfb-b8b8528c5a7b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0295-chapter-263-soul-net",
   title: "Chapter 263: Soul Net",

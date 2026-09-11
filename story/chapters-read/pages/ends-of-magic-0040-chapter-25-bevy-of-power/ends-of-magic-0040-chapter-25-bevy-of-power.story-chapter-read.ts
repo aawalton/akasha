@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0040Chapter25BevyOfPower = {
   id: "01a06731-adde-7000-b163-901222a992a9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0040-chapter-25-bevy-of-power",
   title: "Chapter 25: Bevy of Power",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0385Chapter348TwinsPart2 = {
   id: "01a0672c-ebf7-7001-ad20-1ec996fbd17d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0385-chapter-348-twins-part-2",
   title: "Chapter 348: Twins (Part 2)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0017Ch17AHardLesson = {
   id: "01a06731-adb4-7005-9a35-bfe02104bed6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0017-ch17-a-hard-lesson",
   title: "Ch17 A Hard Lesson",

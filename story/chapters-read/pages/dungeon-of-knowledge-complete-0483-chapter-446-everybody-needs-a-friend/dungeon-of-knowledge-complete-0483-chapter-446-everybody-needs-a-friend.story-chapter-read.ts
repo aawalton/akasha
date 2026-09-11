@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0483Chapter446EverybodyNeedsAFriend = {
   id: "01a0672c-ec1f-7002-b241-a0973eec830e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0483-chapter-446-everybody-needs-a-friend",
   title: "Chapter 446: Everybody Needs a Friend",

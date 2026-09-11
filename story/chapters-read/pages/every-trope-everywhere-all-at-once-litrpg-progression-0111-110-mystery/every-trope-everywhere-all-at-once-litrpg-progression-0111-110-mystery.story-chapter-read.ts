@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression0111110Mystery = {
   id: "01a090ca-1efa-7cfd-9e30-043561450aa0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0111-110-mystery",
   position: 111,

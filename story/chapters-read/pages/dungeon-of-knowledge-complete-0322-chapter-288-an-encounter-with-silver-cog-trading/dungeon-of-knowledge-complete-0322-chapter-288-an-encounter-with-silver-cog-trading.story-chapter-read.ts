@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0322Chapter288AnEncounterWithSilverCogTrading = {
   id: "01a0672c-ebe3-700a-97d1-c9cda819038a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0322-chapter-288-an-encounter-with-silver-cog-trading",
   title: "Chapter 288: An Encounter with Silver Cog Trading",

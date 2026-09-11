@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0046Chapter31AShadowUponTheSky = {
   id: "01a06731-ade9-7000-9ddb-ccb3a756dd1c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0046-chapter-31-a-shadow-upon-the-sky",
   title: "Chapter 31:  A Shadow Upon the Sky",

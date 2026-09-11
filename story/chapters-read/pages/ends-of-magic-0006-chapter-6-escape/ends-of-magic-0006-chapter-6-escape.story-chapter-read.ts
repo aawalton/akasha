@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0006Chapter6Escape = {
   id: "01a06731-adc2-7000-ba72-75869944b325",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0006-chapter-6-escape",
   title: "Chapter 6 Escape?",

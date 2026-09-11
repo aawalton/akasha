@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0412Chapter375AllGoldRaidPart1 = {
   id: "01a0672c-ec01-7001-8dca-ea0b0a40a191",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0412-chapter-375-all-gold-raid-part-1",
   title: "Chapter 375: All Gold Raid (Part 1)",

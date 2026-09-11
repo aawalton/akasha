@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0538Chapter498TheNightmare = {
   id: "01a0672c-ec36-7000-a784-c077fd3f6275",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0538-chapter-498-the-nightmare",
   title: "Chapter 498: The Nightmare",

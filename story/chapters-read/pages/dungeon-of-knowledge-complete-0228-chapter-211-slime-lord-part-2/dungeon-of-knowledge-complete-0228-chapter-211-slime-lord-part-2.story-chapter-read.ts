@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0228Chapter211SlimeLordPart2 = {
   id: "01a0672c-ebce-7004-bee6-b1c433a3dc0c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0228-chapter-211-slime-lord-part-2",
   title: "Chapter 211: Slime Lord (Part 2)",

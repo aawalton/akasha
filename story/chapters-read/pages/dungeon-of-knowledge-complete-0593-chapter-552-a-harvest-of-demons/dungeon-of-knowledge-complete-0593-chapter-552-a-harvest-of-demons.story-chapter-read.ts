@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0593Chapter552AHarvestOfDemons = {
   id: "01a0672c-ec5b-7002-ae21-6c4161dcbb8d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0593-chapter-552-a-harvest-of-demons",
   title: "Chapter 552: A Harvest of Demons",

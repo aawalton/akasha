@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0612Chapter568MakingAStand = {
   id: "01a0672c-ec64-7002-ac20-49a6c0a4f472",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0612-chapter-568-making-a-stand",
   title: "Chapter 568: Making a Stand",

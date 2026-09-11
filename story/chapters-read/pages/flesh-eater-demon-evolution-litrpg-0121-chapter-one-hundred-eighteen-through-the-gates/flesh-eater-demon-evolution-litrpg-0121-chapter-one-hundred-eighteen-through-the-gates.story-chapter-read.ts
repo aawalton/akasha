@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fleshEaterDemonEvolutionLitrpg0121ChapterOneHundredEighteenThroughTheGates = {
   id: "01a06731-af6a-7000-bc5e-d8bee9b0f5fc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0121-chapter-one-hundred-eighteen-through-the-gates",
   title: "Chapter One Hundred Eighteen: Through the Gates",

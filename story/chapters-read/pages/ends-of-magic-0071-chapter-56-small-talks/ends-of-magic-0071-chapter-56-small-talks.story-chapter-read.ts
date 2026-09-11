@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0071Chapter56SmallTalks = {
   id: "01a06731-ae05-7000-9fa1-76303c20da39",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0071-chapter-56-small-talks",
   title: "Chapter 56: Small Talks",

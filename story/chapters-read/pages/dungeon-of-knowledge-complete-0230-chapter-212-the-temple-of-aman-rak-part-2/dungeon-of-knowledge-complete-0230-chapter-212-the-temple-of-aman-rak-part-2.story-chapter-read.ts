@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0230Chapter212TheTempleOfAmanRakPart2 = {
   id: "01a0672c-ebcf-7001-aa52-0390aaec6fb8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0230-chapter-212-the-temple-of-aman-rak-part-2",
   title: "Chapter 212: The Temple of Aman Rak (Part 2)",

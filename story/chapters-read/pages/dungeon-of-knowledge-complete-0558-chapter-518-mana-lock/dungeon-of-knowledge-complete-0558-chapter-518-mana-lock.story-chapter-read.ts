@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0558Chapter518ManaLock = {
   id: "01a0672c-ec40-7002-aa31-3d4df94a9866",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0558-chapter-518-mana-lock",
   title: "Chapter 518: Mana Lock",

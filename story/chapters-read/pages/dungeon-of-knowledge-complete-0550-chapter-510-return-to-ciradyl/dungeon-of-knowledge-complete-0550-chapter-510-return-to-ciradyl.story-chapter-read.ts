@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0550Chapter510ReturnToCiradyl = {
   id: "01a0672c-ec3e-7000-9627-4f0b85d50d81",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0550-chapter-510-return-to-ciradyl",
   title: "Chapter 510: Return to Ciradyl",

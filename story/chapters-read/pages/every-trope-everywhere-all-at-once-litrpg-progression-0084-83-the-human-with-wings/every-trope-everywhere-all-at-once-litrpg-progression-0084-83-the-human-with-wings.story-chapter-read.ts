@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008483TheHumanWithWings = {
   id: "01a06731-ae11-700d-9671-dbbe52f4264a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0084-83-the-human-with-wings",
   title: "83 - The Human With Wings",

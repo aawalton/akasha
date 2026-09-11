@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0067Chapter52AShortVictoriousWar = {
   id: "01a06731-ae00-7000-853a-081a28fdabf7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0067-chapter-52-a-short-victorious-war",
   title: "Chapter 52: A Short, Victorious War ",

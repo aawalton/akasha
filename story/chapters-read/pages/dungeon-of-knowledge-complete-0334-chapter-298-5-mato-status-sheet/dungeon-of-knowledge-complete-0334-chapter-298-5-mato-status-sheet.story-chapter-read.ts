@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0334Chapter2985MatoStatusSheet = {
   id: "01a0672c-ebe6-7005-80f9-2769365e9944",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0334-chapter-298-5-mato-status-sheet",
   title: "Chapter 298.5: Mato - Status Sheet",

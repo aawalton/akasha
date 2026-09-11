@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0403Chapter366SixfoldStrike = {
   id: "01a0672c-ebff-7002-9dfe-cfa543dba65c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0403-chapter-366-sixfold-strike",
   title: "Chapter 366: Sixfold Strike",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0057Chapter42ALandOfLegend = {
   id: "01a06731-adf2-7000-95fb-972a53e2c8be",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0057-chapter-42-a-land-of-legend",
   title: "Chapter 42: A Land of Legend",

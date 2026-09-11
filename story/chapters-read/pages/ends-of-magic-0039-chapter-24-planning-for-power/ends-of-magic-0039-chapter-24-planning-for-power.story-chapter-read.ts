@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0039Chapter24PlanningForPower = {
   id: "01a06731-addd-7001-8161-196071c96bcf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0039-chapter-24-planning-for-power",
   title: "Chapter 24: Planning for Power",

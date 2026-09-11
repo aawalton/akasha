@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0589Chapter5485AliandraStatusSheet = {
   id: "01a0672c-ec5a-7000-897d-95b3a75fe94d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0589-chapter-548-5-aliandra-status-sheet",
   title: "Chapter 548.5: Aliandra - Status Sheet",

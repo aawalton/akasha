@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0060Chapter45SmartSystems = {
   id: "01a06731-adf7-7000-b3ee-61c6ce3ee82d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0060-chapter-45-smart-systems",
   title: "Chapter 45: Smart Systems",

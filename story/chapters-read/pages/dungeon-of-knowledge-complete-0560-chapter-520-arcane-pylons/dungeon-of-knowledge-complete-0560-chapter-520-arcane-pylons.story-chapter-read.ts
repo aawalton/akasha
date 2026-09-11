@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0560Chapter520ArcanePylons = {
   id: "01a0672c-ec41-7001-9f1c-eedf159435a0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0560-chapter-520-arcane-pylons",
   title: "Chapter 520: Arcane Pylons",

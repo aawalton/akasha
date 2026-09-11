@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0156Chapter153TheForgingOfARaidTeam = {
   id: "01a0672c-eb9c-7000-80b7-2a8bb8434962",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0156-chapter-153-the-forging-of-a-raid-team",
   title: "Chapter 153: The Forging of a Raid Team",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0511Chapter474FarmingZulkora = {
   id: "01a0672c-ec29-7001-828f-55b1c2e636ee",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0511-chapter-474-farming-zulkora",
   title: "Chapter 474: Farming Zulkora",

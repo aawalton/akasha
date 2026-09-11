@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0198Chapter194DinnerAndGuests2Of2 = {
   id: "01a0672c-ebc4-7000-a664-c1a1684c2d10",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0198-chapter-194-dinner-and-guests-2-of-2",
   title: "Chapter 194: Dinner and Guests (2 of 2)",

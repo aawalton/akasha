@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0058Chapter58ThatWhichLurksBelow = {
   id: "01a0672c-eb48-7001-a6c6-af92e40ad2d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0058-chapter-58-that-which-lurks-below",
   title: "Chapter 58: That Which Lurks Below",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0076Chapter61TheArenaOfConcord = {
   id: "01a06731-ae0b-7000-9863-7199bcd22d4c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0076-chapter-61-the-arena-of-concord",
   title: "Chapter 61: The Arena of Concord",

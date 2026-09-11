@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0470Chapter433CreepSpores = {
   id: "01a0672c-ec1a-7000-985b-995aeeeae1d4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0470-chapter-433-creep-spores",
   title: "Chapter 433: Creep Spores",

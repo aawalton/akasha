@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0042Chapter27BesiegedArrival = {
   id: "01a06731-ade1-7000-bad2-38815eebe1f2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0042-chapter-27-besieged-arrival",
   title: "Chapter 27: Besieged Arrival",

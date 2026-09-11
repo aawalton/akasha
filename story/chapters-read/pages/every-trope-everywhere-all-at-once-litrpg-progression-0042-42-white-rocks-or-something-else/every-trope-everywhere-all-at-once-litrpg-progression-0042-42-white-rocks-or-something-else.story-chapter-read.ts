@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004242WhiteRocksOrSomethingElse = {
   id: "01a06731-ae0f-7000-b2f5-8dbab4a47f53",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0042-42-white-rocks-or-something-else",
   title: "42 - White Rocks? Or something Else?",

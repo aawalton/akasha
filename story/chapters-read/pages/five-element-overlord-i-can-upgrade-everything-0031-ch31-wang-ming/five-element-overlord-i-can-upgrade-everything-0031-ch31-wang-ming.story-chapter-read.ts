@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0031Ch31WangMing = {
   id: "01a06731-adb4-7013-83f5-21999e574cb8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0031-ch31-wang-ming",
   title: "Ch31 Wang Ming",

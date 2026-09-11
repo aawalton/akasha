@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0516Chapter478AMightyDemonSlayer = {
   id: "01a0672c-ec2a-7003-bb7a-c0caa4197250",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0516-chapter-478-a-mighty-demon-slayer",
   title: "Chapter 478: A Mighty Demon Slayer",

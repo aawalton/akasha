@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003131TheCampfireGathering = {
   id: "01a06731-ae0e-7000-84f1-90805543b624",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0031-31-the-campfire-gathering",
   title: "31 - The Campfire Gathering",

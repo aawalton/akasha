@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0592Chapter551WhileTheLichSlumbers = {
   id: "01a0672c-ec5b-7001-92c8-153440024c72",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0592-chapter-551-while-the-lich-slumbers",
   title: "Chapter 551: While the Lich Slumbers",

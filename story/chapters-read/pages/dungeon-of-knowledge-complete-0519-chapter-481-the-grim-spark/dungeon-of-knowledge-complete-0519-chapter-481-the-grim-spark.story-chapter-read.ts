@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0519Chapter481TheGrimSpark = {
   id: "01a0672c-ec2b-7001-8570-4f3eb695302d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0519-chapter-481-the-grim-spark",
   title: "Chapter 481: The Grim Spark",

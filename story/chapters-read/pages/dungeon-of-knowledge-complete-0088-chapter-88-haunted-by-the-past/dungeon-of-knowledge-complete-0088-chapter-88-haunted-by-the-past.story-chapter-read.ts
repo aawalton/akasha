@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0088Chapter88HauntedByThePast = {
   id: "01a0672c-eb61-7001-9ec1-e4319a2e7140",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0088-chapter-88-haunted-by-the-past",
   title: "Chapter 88: Haunted by the Past",

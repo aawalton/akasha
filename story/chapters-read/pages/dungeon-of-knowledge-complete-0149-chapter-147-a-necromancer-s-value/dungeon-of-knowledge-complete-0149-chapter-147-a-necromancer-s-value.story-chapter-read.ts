@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0149Chapter147ANecromancerSValue = {
   id: "01a0672c-eb94-7000-8122-8a743ceb048a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0149-chapter-147-a-necromancer-s-value",
   title: "Chapter 147: A Necromancer’s Value",

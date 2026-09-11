@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0269Chapter237MokFrejaIceQueenPart1 = {
   id: "01a0672c-ebd9-7001-aa55-13f0568c9603",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0269-chapter-237-mok-freja-ice-queen-part-1",
   title: "Chapter 237: Mok’freja, Ice Queen (Part 1)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005050TheHollowBody = {
   id: "01a06731-ae0f-7008-9a1d-19c4a4c94f46",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0050-50-the-hollow-body",
   title: "50 - The Hollow Body",

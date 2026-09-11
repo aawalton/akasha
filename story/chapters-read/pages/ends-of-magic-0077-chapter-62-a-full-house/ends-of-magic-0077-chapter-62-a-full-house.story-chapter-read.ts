@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0077Chapter62AFullHouse = {
   id: "01a06731-ae0c-7000-ad60-d3f6e4a01494",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0077-chapter-62-a-full-house",
   title: "Chapter 62: A Full House",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0614Chapter570AegisAndAuthority = {
   id: "01a0672c-ec66-7000-bdad-7a72e2cfb1bd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0614-chapter-570-aegis-and-authority",
   title: "Chapter 570: Aegis and Authority",

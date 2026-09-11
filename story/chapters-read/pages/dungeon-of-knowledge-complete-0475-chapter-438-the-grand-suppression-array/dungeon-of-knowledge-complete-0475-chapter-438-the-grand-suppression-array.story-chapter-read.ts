@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0475Chapter438TheGrandSuppressionArray = {
   id: "01a0672c-ec1d-7000-8fdf-bbe3cfbeb438",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0475-chapter-438-the-grand-suppression-array",
   title: "Chapter 438: The Grand Suppression Array",

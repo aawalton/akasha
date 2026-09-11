@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const forgeOfDestiny0010BonusTheGreatDiviner = {
   id: "01a0672c-eb08-7000-95bd-b8348a4028f4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "forge-of-destiny-0010-bonus-the-great-diviner",
   title: "Bonus: The Great Diviner",

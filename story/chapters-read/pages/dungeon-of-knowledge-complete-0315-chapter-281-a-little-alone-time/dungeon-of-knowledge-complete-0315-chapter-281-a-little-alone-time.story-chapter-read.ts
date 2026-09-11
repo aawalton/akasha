@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0315Chapter281ALittleAloneTime = {
   id: "01a0672c-ebe3-7003-94ae-700a3ee95e9a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0315-chapter-281-a-little-alone-time",
   title: "Chapter 281: A Little Alone Time",

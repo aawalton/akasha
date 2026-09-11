@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0064Chapter49StagingForWar = {
   id: "01a06731-adfd-7000-8ac7-ab04cf8ae855",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0064-chapter-49-staging-for-war",
   title: "Chapter 49: Staging for War",

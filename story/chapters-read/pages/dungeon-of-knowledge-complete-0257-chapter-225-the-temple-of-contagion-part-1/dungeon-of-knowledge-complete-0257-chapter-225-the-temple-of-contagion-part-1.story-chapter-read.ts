@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0257Chapter225TheTempleOfContagionPart1 = {
   id: "01a0672c-ebd3-7000-ab16-c44050a31f31",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0257-chapter-225-the-temple-of-contagion-part-1",
   title: "Chapter 225: The Temple of Contagion (Part 1)",

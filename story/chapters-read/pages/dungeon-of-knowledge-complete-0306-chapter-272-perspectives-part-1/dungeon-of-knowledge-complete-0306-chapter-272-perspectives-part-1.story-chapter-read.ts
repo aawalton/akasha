@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0306Chapter272PerspectivesPart1 = {
   id: "01a0672c-ebe2-7001-9cfe-e00770507ccd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0306-chapter-272-perspectives-part-1",
   title: "Chapter 272: Perspectives (Part 1)",

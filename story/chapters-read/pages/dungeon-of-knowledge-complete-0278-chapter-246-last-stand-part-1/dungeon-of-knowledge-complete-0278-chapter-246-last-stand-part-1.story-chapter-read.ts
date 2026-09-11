@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0278Chapter246LastStandPart1 = {
   id: "01a0672c-ebdb-7001-b2ca-5f1e8f520282",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0278-chapter-246-last-stand-part-1",
   title: "Chapter 246: Last Stand (Part 1)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0606Chapter563TheLairOfTheDracolich = {
   id: "01a0672c-ec62-7001-b10e-2a2bf16b09e1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0606-chapter-563-the-lair-of-the-dracolich",
   title: "Chapter 563: The Lair of the Dracolich",

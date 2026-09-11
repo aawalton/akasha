@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fleshEaterDemonEvolutionLitrpg0055ChapterFiftyFourTickingTime = {
   id: "01a06731-af58-7000-8d8c-54d90c261237",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0055-chapter-fifty-four-ticking-time",
   title: "Chapter Fifty-Four: Ticking Time",

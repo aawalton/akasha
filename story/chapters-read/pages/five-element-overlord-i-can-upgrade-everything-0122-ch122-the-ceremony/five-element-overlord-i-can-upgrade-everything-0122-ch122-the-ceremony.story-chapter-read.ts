@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0122Ch122TheCeremony = {
   id: "01a06731-adbb-7002-850c-10de3c799b69",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0122-ch122-the-ceremony",
   title: "Ch122 The Ceremony",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0300Chapter268SaviorOfAmanRak = {
   id: "01a0672c-ebdf-7003-861e-37cf93a84b55",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0300-chapter-268-savior-of-aman-rak",
   title: "Chapter 268: Savior of Aman Rak",

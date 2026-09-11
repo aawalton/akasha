@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0286Chapter254JoraaTheBetrayerPart1 = {
   id: "01a0672c-ebdc-7005-b762-56868d65db98",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0286-chapter-254-joraa-the-betrayer-part-1",
   title: "Chapter 254: Joraa, The Betrayer (Part 1)",

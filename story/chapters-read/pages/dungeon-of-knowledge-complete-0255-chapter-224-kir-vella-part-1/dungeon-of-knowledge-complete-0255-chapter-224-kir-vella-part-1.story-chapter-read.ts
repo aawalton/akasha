@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0255Chapter224KirVellaPart1 = {
   id: "01a0672c-ebd2-7002-8731-f932e6b9aab9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0255-chapter-224-kir-vella-part-1",
   title: "Chapter 224: Kir’vella (Part 1)",

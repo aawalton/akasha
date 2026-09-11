@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0032Chapter17AComplicatedSituation = {
   id: "01a06731-add9-7001-8eaa-cba28c5fdc87",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0032-chapter-17-a-complicated-situation",
   title: "Chapter 17: A Complicated Situation",

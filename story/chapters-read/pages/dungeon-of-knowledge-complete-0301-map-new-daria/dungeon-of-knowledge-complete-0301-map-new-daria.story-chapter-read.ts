@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0301MapNewDaria = {
   id: "01a0672c-ebdf-7004-a4c8-e70ff398b91d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0301-map-new-daria",
   title: "Map: New Daria",

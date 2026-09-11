@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0364Chapter327PlagueGhoul = {
   id: "01a0672c-ebf1-7003-a684-7f8a69f9f3ee",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0364-chapter-327-plague-ghoul",
   title: "Chapter 327: Plague Ghoul",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0521Chapter483AliSDaringPlan = {
   id: "01a0672c-ec2c-7001-a4f3-f6ca4b35ed42",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0521-chapter-483-ali-s-daring-plan",
   title: "Chapter 483: Ali’s Daring Plan",

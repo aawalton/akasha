@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0041Chapter41AnUnexpectedRescue = {
   id: "01a0672c-eb3b-7000-8dbc-6c020dc20b7e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0041-chapter-41-an-unexpected-rescue",
   title: "Chapter 41: An Unexpected Rescue",

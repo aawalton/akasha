@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0065Ch65BlackIronMountain = {
   id: "01a06731-adb6-7005-b881-d368013a1408",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0065-ch65-black-iron-mountain",
   title: "Ch65 Black Iron Mountain",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0323Chapter289ThePathOfTheWanderer = {
   id: "01a0672c-ebe4-7000-a787-1f4d9e8d8414",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0323-chapter-289-the-path-of-the-wanderer",
   title: "Chapter 289: The Path of the Wanderer",

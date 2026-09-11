@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0044Chapter29TerribleNight = {
   id: "01a06731-ade7-7000-8796-65cb7011f15c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0044-chapter-29-terrible-night",
   title: "Chapter 29: Terrible Night",

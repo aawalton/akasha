@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001010MatchingHairTies = {
   id: "01a06731-ae0b-7000-8866-cd687dc66299",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0010-10-matching-hair-ties",
   title: "10 - Matching Hair Ties",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0561Chapter521HowToSquashAnOoze = {
   id: "01a0672c-ec42-7000-b766-ab4b2c167fde",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0561-chapter-521-how-to-squash-an-ooze",
   title: "Chapter 521: How to Squash an Ooze",

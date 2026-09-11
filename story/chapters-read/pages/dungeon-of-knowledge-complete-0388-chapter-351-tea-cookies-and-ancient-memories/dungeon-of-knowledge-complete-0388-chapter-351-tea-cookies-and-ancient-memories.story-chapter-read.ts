@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0388Chapter351TeaCookiesAndAncientMemories = {
   id: "01a0672c-ebf7-7004-a71d-5ffe464a2667",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0388-chapter-351-tea-cookies-and-ancient-memories",
   title: "Chapter 351: Tea, Cookies, and Ancient Memories",

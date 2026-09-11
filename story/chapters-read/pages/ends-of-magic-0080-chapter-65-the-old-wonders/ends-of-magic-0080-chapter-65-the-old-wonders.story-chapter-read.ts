@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0080Chapter65TheOldWonders = {
   id: "01a06731-ae0d-7001-a0c0-c343728a70c6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0080-chapter-65-the-old-wonders",
   title: "Chapter 65: The Old Wonders",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0568Chapter528TheVengeanceOfMiIrValdanis = {
   id: "01a0672c-ec46-7000-9e2d-e69e6ccad05e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0568-chapter-528-the-vengeance-of-mi-ir-valdanis",
   title: "Chapter 528: The Vengeance of Mi’ir Valdanis",

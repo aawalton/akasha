@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0531Chapter492TheFrozenApocalypseUnleashed = {
   id: "01a0672c-ec32-7000-9a24-cf944e1451e1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0531-chapter-492-the-frozen-apocalypse-unleashed",
   title: "Chapter 492: The Frozen Apocalypse Unleashed",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0151Chapter148ForbiddenKnowledge = {
   id: "01a0672c-eb94-7002-ac82-ee33c0ecffc8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0151-chapter-148-forbidden-knowledge",
   title: "Chapter 148: Forbidden Knowledge",

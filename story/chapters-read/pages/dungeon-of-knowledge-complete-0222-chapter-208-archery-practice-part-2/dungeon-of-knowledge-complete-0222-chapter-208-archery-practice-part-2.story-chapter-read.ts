@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0222Chapter208ArcheryPracticePart2 = {
   id: "01a0672c-ebcd-7002-abd3-725a65b2e4df",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0222-chapter-208-archery-practice-part-2",
   title: "Chapter 208: Archery Practice (Part 2)",

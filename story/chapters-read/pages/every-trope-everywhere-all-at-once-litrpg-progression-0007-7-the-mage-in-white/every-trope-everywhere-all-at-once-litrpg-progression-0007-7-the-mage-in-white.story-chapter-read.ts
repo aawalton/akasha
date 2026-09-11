@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression00077TheMageInWhite = {
   id: "01a06731-ae09-7004-824d-514b667e13d5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0007-7-the-mage-in-white",
   title: "7 - The Mage in White ",

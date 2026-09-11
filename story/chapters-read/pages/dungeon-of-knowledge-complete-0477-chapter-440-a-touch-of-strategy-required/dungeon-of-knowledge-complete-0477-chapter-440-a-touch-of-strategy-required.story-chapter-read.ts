@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0477Chapter440ATouchOfStrategyRequired = {
   id: "01a0672c-ec1d-7002-9ce5-a92022e9c4e0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0477-chapter-440-a-touch-of-strategy-required",
   title: "Chapter 440: A Touch of Strategy Required",

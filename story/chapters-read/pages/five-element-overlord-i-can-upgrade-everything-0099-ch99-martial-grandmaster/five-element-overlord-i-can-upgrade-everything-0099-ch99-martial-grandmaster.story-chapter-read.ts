@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0099Ch99MartialGrandmaster = {
   id: "01a06731-adb7-700f-850d-97bd96a0bfb6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0099-ch99-martial-grandmaster",
   title: "Ch99 Martial Grandmaster",

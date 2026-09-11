@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0010Ch10MinorLottery = {
   id: "01a06731-adb3-700c-b14b-4a93c8982016",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0010-ch10-minor-lottery",
   title: "Ch10 Minor Lottery",

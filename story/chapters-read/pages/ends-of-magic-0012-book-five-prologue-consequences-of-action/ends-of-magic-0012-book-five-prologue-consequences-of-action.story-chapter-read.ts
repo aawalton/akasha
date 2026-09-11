@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0012BookFivePrologueConsequencesOfAction = {
   id: "01a06731-adc5-7000-adcb-e3db12afadac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0012-book-five-prologue-consequences-of-action",
   title: "Book Five Prologue: Consequences of Action",

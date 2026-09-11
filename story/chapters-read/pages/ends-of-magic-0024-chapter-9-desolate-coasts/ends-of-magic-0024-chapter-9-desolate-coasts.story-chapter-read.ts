@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0024Chapter9DesolateCoasts = {
   id: "01a06731-add0-7001-b714-e78fab993b60",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0024-chapter-9-desolate-coasts",
   title: "Chapter 9: Desolate Coasts",

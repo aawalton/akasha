@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0544Chapter504TheHolyChurchOfHavok = {
   id: "01a0672c-ec39-7001-986f-988864c9e478",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0544-chapter-504-the-holy-church-of-havok",
   title: "Chapter 504: The Holy Church of Havok",

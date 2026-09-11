@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0461Chapter424MaalgarothSReturn = {
   id: "01a0672c-ec16-7002-beb7-4b1637fdab9e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0461-chapter-424-maalgaroth-s-return",
   title: "Chapter 424: Maalgaroth’s Return",

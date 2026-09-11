@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0454Chapter417WielderOfTheSacredFlame = {
   id: "01a0672c-ec13-7001-9cfe-72f91686bb6e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0454-chapter-417-wielder-of-the-sacred-flame",
   title: "Chapter 417: Wielder of the Sacred Flame",

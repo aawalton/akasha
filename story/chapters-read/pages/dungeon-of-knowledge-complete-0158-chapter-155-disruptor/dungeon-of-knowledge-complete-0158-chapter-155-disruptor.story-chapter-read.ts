@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0158Chapter155Disruptor = {
   id: "01a0672c-eb9e-7000-bf61-51cf3857fbf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0158-chapter-155-disruptor",
   title: "Chapter 155: Disruptor",

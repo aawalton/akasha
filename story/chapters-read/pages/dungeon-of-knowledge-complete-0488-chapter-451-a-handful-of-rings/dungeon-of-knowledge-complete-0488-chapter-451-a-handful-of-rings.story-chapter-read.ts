@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0488Chapter451AHandfulOfRings = {
   id: "01a0672c-ec20-7002-9b0b-d2bd2a7a270b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0488-chapter-451-a-handful-of-rings",
   title: "Chapter 451: A Handful of Rings",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0050Chapter35ChainsOfCorruption = {
   id: "01a06731-adec-7000-89f3-a643f48e9cac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0050-chapter-35-chains-of-corruption",
   title: "Chapter 35:  Chains of Corruption",

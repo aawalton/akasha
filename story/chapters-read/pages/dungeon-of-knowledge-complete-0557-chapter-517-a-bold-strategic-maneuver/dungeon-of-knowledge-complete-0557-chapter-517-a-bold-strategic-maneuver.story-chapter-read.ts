@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0557Chapter517ABoldStrategicManeuver = {
   id: "01a0672c-ec40-7001-8639-ce0aa66a036b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0557-chapter-517-a-bold-strategic-maneuver",
   title: "Chapter 517: A Bold Strategic Maneuver",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0374Chapter337HuntingInTheSpiritRealm = {
   id: "01a0672c-ebf3-7004-b0e6-6bc31955db98",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0374-chapter-337-hunting-in-the-spirit-realm",
   title: "Chapter 337: Hunting in the Spirit Realm",

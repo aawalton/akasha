@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0047Chapter32ThoughtsOfFlight = {
   id: "01a06731-adea-7000-9c1f-2b83c2ead334",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0047-chapter-32-thoughts-of-flight",
   title: "Chapter 32:  Thoughts of Flight",

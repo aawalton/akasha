@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0062Chapter47UnfriendlySkies = {
   id: "01a06731-adfa-7000-99a2-3942f75392b2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0062-chapter-47-unfriendly-skies",
   title: "Chapter 47: Unfriendly Skies",

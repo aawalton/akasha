@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0050Ch50TheWorldOutside = {
   id: "01a06731-adb5-700f-a98f-c92e2c687d65",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0050-ch50-the-world-outside",
   title: "Ch50 The World Outside",

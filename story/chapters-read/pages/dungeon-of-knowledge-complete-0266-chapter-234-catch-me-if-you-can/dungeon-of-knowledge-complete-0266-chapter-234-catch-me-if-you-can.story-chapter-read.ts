@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0266Chapter234CatchMeIfYouCan = {
   id: "01a0672c-ebd8-7001-9eea-b205ec16b814",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0266-chapter-234-catch-me-if-you-can",
   title: "Chapter 234: Catch Me, If You Can",

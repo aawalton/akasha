@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0042Ch42StringOfFate = {
   id: "01a06731-adb5-7007-8224-e84e3df0ff63",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0042-ch42-string-of-fate",
   title: "Ch42 String of Fate",

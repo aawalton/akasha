@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0596Chapter555StealthArmy = {
   id: "01a0672c-ec5d-7000-878a-6b2bb2d30902",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0596-chapter-555-stealth-army",
   title: "Chapter 555: Stealth Army",

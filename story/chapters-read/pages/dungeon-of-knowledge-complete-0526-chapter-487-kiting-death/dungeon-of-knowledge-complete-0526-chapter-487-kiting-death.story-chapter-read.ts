@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0526Chapter487KitingDeath = {
   id: "01a0672c-ec2e-7002-a071-f9e20e5d73a4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0526-chapter-487-kiting-death",
   title: "Chapter 487: Kiting Death",

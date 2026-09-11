@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0009Book3Prologue = {
   id: "01a06731-adc3-7001-b1a8-c4e92cc0225b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0009-book-3-prologue",
   title: "Book 3 Prologue",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fleshEaterDemonEvolutionLitrpg0118ChapterOneHundredFifteenBlood = {
   id: "01a06731-af68-7005-a903-60d184139ca0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0118-chapter-one-hundred-fifteen-blood",
   title: "Chapter One Hundred Fifteen: Blood",

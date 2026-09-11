@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0383Chapter346BreakingAndEntering = {
   id: "01a0672c-ebf6-7004-9624-3eaca785e07d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0383-chapter-346-breaking-and-entering",
   title: "Chapter 346: Breaking and Entering",

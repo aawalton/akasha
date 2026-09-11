@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0069Ch69LanXin = {
   id: "01a06731-adb6-7009-855a-644e601794b6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0069-ch69-lan-xin",
   title: "Ch69 Lan Xin",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0068Chapter53WizardSDomain = {
   id: "01a06731-ae01-7000-9df1-139578e13d7b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0068-chapter-53-wizard-s-domain",
   title: "Chapter 53: Wizard’s Domain",

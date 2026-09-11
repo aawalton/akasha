@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0289Chapter257OminousMissives = {
   id: "01a0672c-ebdd-7002-903f-b095d85a00e7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0289-chapter-257-ominous-missives",
   title: "Chapter 257: Ominous Missives",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression0106105SovereignOfSouls = {
   id: "01a090ca-186c-77f0-bed9-5eb37e1919f7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0106-105-sovereign-of-souls",
   position: 106,

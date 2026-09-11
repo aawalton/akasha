@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0617Chapter573ShowdownAtLiraSGrave = {
   id: "01a0672c-ec66-7003-826f-dcc0e39b7f58",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0617-chapter-573-showdown-at-lira-s-grave",
   title: "Chapter 573: Showdown at Lira’s Grave",

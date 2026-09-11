@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0205Chapter199DrakeWing2Of2 = {
   id: "01a0672c-ebc8-7001-bcd3-ebf6a98ff352",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0205-chapter-199-drake-wing-2-of-2",
   title: "Chapter 199: Drake Wing (2 of 2)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0431Chapter394AMotherSWoes = {
   id: "01a0672c-ec08-7004-981a-6c869f61cbb9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0431-chapter-394-a-mother-s-woes",
   title: "Chapter 394: A Mother’s Woes",

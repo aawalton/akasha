@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0349Chapter312LoomingVengeance = {
   id: "01a0672c-ebed-7000-843d-6d911511c17a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0349-chapter-312-looming-vengeance",
   title: "Chapter 312: Looming Vengeance",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0015Book6PrologueTheAshenAccord = {
   id: "01a06731-adc7-7001-b4a9-b82609252bd0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0015-book-6-prologue-the-ashen-accord",
   title: "Book 6 Prologue: The Ashen Accord",

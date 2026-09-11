@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0089Epilogue1ThreeMonthsLater = {
   id: "01a06731-ae14-7000-8100-628cedf204bb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0089-epilogue-1-three-months-later",
   title: "Epilogue 1: Three Months Later",

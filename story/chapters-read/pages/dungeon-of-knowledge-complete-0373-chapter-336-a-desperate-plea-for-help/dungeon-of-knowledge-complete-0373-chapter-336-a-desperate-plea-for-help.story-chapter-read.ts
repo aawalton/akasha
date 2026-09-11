@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0373Chapter336ADesperatePleaForHelp = {
   id: "01a0672c-ebf3-7003-9738-5d4ec6e9db07",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0373-chapter-336-a-desperate-plea-for-help",
   title: "Chapter 336: A Desperate Plea for Help",

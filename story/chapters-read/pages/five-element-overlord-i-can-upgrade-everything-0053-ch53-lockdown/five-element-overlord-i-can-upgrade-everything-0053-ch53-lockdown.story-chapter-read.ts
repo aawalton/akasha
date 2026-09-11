@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0053Ch53Lockdown = {
   id: "01a06731-adb5-7012-af19-52d20dbc18a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0053-ch53-lockdown",
   title: "Ch53 Lockdown",

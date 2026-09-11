@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002020TheSkySpearToss = {
   id: "01a06731-ae0d-7002-957b-ab996d873a4d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0020-20-the-sky-spear-toss",
   title: "20 - The Sky Spear Toss",

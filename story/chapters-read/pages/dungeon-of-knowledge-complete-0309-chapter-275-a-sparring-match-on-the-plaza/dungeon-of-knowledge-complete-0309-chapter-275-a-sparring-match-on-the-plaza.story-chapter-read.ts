@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0309Chapter275ASparringMatchOnThePlaza = {
   id: "01a0672c-ebe2-7004-a948-07456d6e0647",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0309-chapter-275-a-sparring-match-on-the-plaza",
   title: "Chapter 275: A Sparring Match on the Plaza",

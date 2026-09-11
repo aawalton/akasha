@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0202Chapter197SlippersDragonsAndGhosts = {
   id: "01a0672c-ebc7-7000-a366-6377f444f3c9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0202-chapter-197-slippers-dragons-and-ghosts",
   title: "Chapter 197: Slippers, Dragons, and Ghosts",

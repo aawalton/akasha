@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0064Chapter64FireballFtw = {
   id: "01a0672c-eb4d-7000-9b48-c7215c215e08",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0064-chapter-64-fireball-ftw",
   title: "Chapter 64: Fireball FTW",

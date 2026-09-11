@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0093Chapter92EliyenSRequest = {
   id: "01a0672c-eb65-7000-b727-fe21bbd2868b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0093-chapter-92-eliyen-s-request",
   title: "Chapter 92: Eliyen’s Request",

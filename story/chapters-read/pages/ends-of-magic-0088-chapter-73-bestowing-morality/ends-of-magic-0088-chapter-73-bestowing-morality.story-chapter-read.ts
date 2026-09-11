@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0088Chapter73BestowingMorality = {
   id: "01a06731-ae13-7001-a669-75660b19a9ee",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0088-chapter-73-bestowing-morality",
   title: "Chapter 73: Bestowing Morality",

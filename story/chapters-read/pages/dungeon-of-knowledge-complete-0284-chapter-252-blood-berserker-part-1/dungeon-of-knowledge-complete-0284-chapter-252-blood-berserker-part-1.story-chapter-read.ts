@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0284Chapter252BloodBerserkerPart1 = {
   id: "01a0672c-ebdc-7003-923d-ad333060ad37",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0284-chapter-252-blood-berserker-part-1",
   title: "Chapter 252: Blood Berserker (Part 1)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0586Chapter546FruitOfTheWorldTree = {
   id: "01a0672c-ec57-7000-9eab-2b18278808dc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0586-chapter-546-fruit-of-the-world-tree",
   title: "Chapter 546: Fruit of the World Tree",

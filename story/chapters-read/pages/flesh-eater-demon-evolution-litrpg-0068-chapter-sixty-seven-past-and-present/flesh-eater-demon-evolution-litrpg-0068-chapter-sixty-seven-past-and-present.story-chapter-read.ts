@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fleshEaterDemonEvolutionLitrpg0068ChapterSixtySevenPastAndPresent = {
   id: "01a06731-af5d-7001-9e59-89806b043213",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0068-chapter-sixty-seven-past-and-present",
   title: "Chapter Sixty-Seven: Past and Present",

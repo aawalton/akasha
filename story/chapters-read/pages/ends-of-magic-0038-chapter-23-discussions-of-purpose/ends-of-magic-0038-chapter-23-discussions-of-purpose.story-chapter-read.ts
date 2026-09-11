@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const endsOfMagic0038Chapter23DiscussionsOfPurpose = {
   id: "01a06731-addd-7000-bd1a-843cf8a88a07",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ends-of-magic-0038-chapter-23-discussions-of-purpose",
   title: "Chapter 23: Discussions of Purpose",

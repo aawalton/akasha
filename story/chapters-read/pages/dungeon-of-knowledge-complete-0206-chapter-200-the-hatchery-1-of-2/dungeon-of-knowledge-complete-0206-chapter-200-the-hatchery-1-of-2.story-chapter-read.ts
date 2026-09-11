@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0206Chapter200TheHatchery1Of2 = {
   id: "01a0672c-ebc9-7000-9b58-b782bb60b973",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0206-chapter-200-the-hatchery-1-of-2",
   title: "Chapter 200: The Hatchery (1 of 2)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0078Chapter78SilverRank = {
   id: "01a0672c-eb5b-7000-a917-fdc88ddd1421",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0078-chapter-78-silver-rank",
   title: "Chapter 78: Silver Rank",

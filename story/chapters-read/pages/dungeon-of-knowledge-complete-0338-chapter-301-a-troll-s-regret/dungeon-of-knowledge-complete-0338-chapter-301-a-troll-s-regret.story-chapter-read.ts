@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0338Chapter301ATrollSRegret = {
   id: "01a0672c-ebe7-7003-8330-566344d8c4d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0338-chapter-301-a-troll-s-regret",
   title: "Chapter 301: A Troll’s Regret",

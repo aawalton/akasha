@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fleshEaterDemonEvolutionLitrpg0008ChapterEightTheWorldOutside = {
   id: "01a06731-af3b-7000-80ae-75f5840e0c5b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0008-chapter-eight-the-world-outside",
   title: "Chapter Eight: The World Outside",

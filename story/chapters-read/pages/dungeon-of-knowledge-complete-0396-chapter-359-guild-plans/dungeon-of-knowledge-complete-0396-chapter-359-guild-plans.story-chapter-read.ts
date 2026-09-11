@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0396Chapter359GuildPlans = {
   id: "01a0672c-ebfb-7000-b1ad-65de0a2fad7d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0396-chapter-359-guild-plans",
   title: "Chapter 359: Guild Plans",

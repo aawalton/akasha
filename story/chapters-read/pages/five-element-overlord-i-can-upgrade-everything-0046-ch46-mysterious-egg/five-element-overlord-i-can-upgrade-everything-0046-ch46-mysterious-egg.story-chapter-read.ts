@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0046Ch46MysteriousEgg = {
   id: "01a06731-adb5-700b-9053-d31d5a96abeb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0046-ch46-mysterious-egg",
   title: "Ch46 Mysterious Egg",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0143Chapter141TheDungeonSSurvivalGuide = {
   id: "01a0672c-eb8e-7000-b0cd-2556c080619f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0143-chapter-141-the-dungeon-s-survival-guide",
   title: "Chapter 141: The Dungeon’s Survival Guide",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const fiveElementOverlordICanUpgradeEverything0036Ch36XuHongSStrength = {
   id: "01a06731-adb5-7001-b493-61a938c8c916",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0036-ch36-xu-hong-s-strength",
   title: "Ch36 Xu Hong’s Strength",

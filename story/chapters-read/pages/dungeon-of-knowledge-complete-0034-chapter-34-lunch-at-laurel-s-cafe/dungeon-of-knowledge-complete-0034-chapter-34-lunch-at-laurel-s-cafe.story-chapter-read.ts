@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0034Chapter34LunchAtLaurelSCafe = {
   id: "01a0672c-eb34-7000-9213-cac8a81dfa0d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0034-chapter-34-lunch-at-laurel-s-cafe",
   title: "Chapter 34: Lunch at Laurel’s Café",

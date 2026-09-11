@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0347Chapter310TheSearingArrowsOfRetribution = {
   id: "01a0672c-ebec-7001-8ee4-8386047e17b0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0347-chapter-310-the-searing-arrows-of-retribution",
   title: "Chapter 310: The Searing Arrows of Retribution",

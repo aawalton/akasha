@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0622Chapter578TheCorruptedCoil = {
   id: "01a0672c-ec67-7004-bce8-70c9bafde92a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0622-chapter-578-the-corrupted-coil",
   title: "Chapter 578: The Corrupted Coil",

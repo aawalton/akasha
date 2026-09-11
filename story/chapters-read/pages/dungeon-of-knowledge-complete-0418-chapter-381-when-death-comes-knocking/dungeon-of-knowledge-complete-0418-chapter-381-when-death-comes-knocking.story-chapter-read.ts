@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0418Chapter381WhenDeathComesKnocking = {
   id: "01a0672c-ec03-7001-8b61-025f67a093f3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0418-chapter-381-when-death-comes-knocking",
   title: "Chapter 381: When Death Comes Knocking",

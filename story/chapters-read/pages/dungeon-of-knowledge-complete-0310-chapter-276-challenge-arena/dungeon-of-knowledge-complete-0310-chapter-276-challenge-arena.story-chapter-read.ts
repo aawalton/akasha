@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0310Chapter276ChallengeArena = {
   id: "01a0672c-ebe2-7005-801c-2113dd0d8382",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0310-chapter-276-challenge-arena",
   title: "Chapter 276: Challenge Arena",

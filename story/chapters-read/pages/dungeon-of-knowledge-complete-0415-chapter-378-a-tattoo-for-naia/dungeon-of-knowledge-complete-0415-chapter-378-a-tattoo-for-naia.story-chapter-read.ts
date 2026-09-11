@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0415Chapter378ATattooForNaia = {
   id: "01a0672c-ec02-7000-afb5-01d197866558",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0415-chapter-378-a-tattoo-for-naia",
   title: "Chapter 378: A Tattoo for Naia",
