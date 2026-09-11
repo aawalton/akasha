@@ -89,6 +89,7 @@ export const temperItemsRulesCore = {
     "module/rule-template-table-02",
     "module/stack-fullness-filter",
     "module/stock-chain-visit",
+    "module/stock-destination-context-builder",
     "module/stock-destination-planner",
     "module/stock-threshold-filter",
     "module/stolen-filter",

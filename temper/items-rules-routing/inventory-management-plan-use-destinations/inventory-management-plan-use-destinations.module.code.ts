@@ -8,6 +8,7 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { buildStockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
 import { planStockDestinationsForStack } from "akasha/temper/items-rules-core/stock-destination-planner/stock-destination-planner.module.code.ts"
 import type { StockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-types/stock-destination-types.module.code.ts"
 import {
@@ -15,10 +16,7 @@ import {
   inventoryItemUseKey,
 } from "akasha/temper/items-rules-core/use-destination-context-builder/use-destination-context-builder.module.code.ts"
 import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
-import {
-  type CharacterId,
-  characterId,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 
 export function fillUseAllocationsInPlace(
   rules: readonly CompiledOrderedRule[],
@@ -34,21 +32,7 @@ export function fillUseAllocationsInPlace(
   let stockCtx: StockDestinationContext | undefined
   function ensureStockCtx(): StockDestinationContext {
     if (stockCtx !== undefined) return stockCtx
-    const captured = ruleContext
-    const readOne = (itemId: number, charId: CharacterId): number => {
-      const charStock = captured.consumableStock.get(itemId)
-      if (charStock === undefined) return 0
-      return charStock.get(charId) ?? 0
-    }
-    stockCtx = {
-      characterPriority: captured.characterPriority.map((id) => characterId(id)),
-      getStockOnChar: readOne,
-      getStockOnCharForGroup: (itemIds, charId) => {
-        let sum = 0
-        for (const id of itemIds) sum += readOne(id, charId)
-        return sum
-      },
-    }
+    stockCtx = buildStockDestinationContext(ruleContext)
     return stockCtx
   }
 

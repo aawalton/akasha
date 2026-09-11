@@ -8,35 +8,15 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { buildStockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
 import { planStockDestinationsForChain } from "akasha/temper/items-rules-core/stock-destination-planner/stock-destination-planner.module.code.ts"
-import type { StockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-types/stock-destination-types.module.code.ts"
-import {
-  type CharacterId,
-  characterId,
-} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 
 export interface ChainExpansionRow {
   readonly entry: AffectedItem
   readonly destination: MoveToDestination
   readonly sourceSlotCount: number
   readonly directAct: boolean
-}
-
-function buildChainStockContext(context: RuleMatcherContext): StockDestinationContext {
-  const readOne = (itemId: number, charId: CharacterId): number => {
-    const charStock = context.consumableStock.get(itemId)
-    if (charStock === undefined) return 0
-    return charStock.get(charId) ?? 0
-  }
-  return {
-    characterPriority: context.characterPriority.map((id) => characterId(id)),
-    getStockOnChar: readOne,
-    getStockOnCharForGroup: (itemIds, charId) => {
-      let sum = 0
-      for (const id of itemIds) sum += readOne(id, charId)
-      return sum
-    },
-  }
 }
 
 function buildChainEligibilityResolvers(context: RuleMatcherContext): EligibilityResolvers {
@@ -59,7 +39,7 @@ export function expandChainEntryIntoRows(
   if (chain === undefined || chain.length === 0) return { rows: [], residue: 0 }
   const stackCount = entry.quantity ?? entry.item.stackCount
   if (stackCount <= 0) return { rows: [], residue: 0 }
-  const stockCtx = buildChainStockContext(context)
+  const stockCtx = buildStockDestinationContext(context)
   const resolvers = buildChainEligibilityResolvers(context)
   const groupKey = group !== undefined ? `stock:rule:${rule.id}` : `stock:${entry.item.itemId}`
   const itemIds = group?.itemIds ?? new Set([entry.item.itemId])
