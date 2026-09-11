@@ -1,6 +1,6 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { getActionReportLevel } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { getActionReportLevel } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 export const CURRENCY_KEY_TO_CURT: Record<string, number> = {
   gold: CURT_MONEY,
   alliancePoints: CURT_ALLIANCE_POINTS,

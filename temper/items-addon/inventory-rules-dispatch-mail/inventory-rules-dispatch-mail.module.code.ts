@@ -1,10 +1,10 @@
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { formatItemList } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { formatItemList } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 export interface MailCandidate {
   bagId: number
   slotIndex: number

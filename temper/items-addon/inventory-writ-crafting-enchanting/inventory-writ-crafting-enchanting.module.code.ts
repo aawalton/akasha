@@ -1,23 +1,23 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { ensureEnchantSoundGuard } from "../inventory-writ-crafting-enchant-sound-guard/inventory-writ-crafting-enchant-sound-guard.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { ensureEnchantSoundGuard } from "akasha/temper/items-addon/inventory-writ-crafting-enchant-sound-guard/inventory-writ-crafting-enchant-sound-guard.module.code.ts"
 import {
   GLYPH_TYPES,
   LEVEL_TIERS,
   selectMasterEnchantingRunes,
   selectPotencyRune,
   TA_ITEM_ID,
-} from "../inventory-writ-crafting-glyph-table/inventory-writ-crafting-glyph-table.module.code.ts"
-import { computeCraftIterations } from "../inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
-import type { MasterWritSpec } from "../inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
-import { planMasterConsumableNeeded } from "../inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-glyph-table/inventory-writ-crafting-glyph-table.module.code.ts"
+import { computeCraftIterations } from "akasha/temper/items-addon/inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
+import type { MasterWritSpec } from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
+import { planMasterConsumableNeeded } from "akasha/temper/items-addon/inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
 import {
   clearWritCraftQueue,
   type WritCraftRequest,
-} from "../inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 import {
   newConsumableTrace,
   recordMasterConsumableTrace,
-} from "../inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
 export function findItemInBags(itemId: number): { bag: number; slot: number } | undefined {
   const bags = [BAG_BACKPACK, BAG_BANK, BAG_SUBSCRIBER_BANK]
   for (const bagId of bags) {

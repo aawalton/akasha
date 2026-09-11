@@ -3,6 +3,27 @@ import {
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
 } from "akasha/temper/equipment/eso-trait-map/eso-trait-map.module.code.ts"
+import { buildItemFactsForLink } from "akasha/temper/items-addon/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
+import { buildEsoEvalEnv } from "akasha/temper/items-addon/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
+import {
+  findItemInInventory,
+  isItemLinkCraftedSafe,
+  lookupTtcPricing,
+} from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
+import { captureOrNull } from "akasha/temper/items-addon/inventory-match-capture/inventory-match-capture.module.code.ts"
+import { isItemLinkQuestRelevant } from "akasha/temper/items-addon/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
+import {
+  classifyItem,
+  gatherSignals,
+  getAncestorChain,
+} from "akasha/temper/items-addon/inventory-rules-classify/inventory-rules-classify.module.code.ts"
+import {
+  describeInlineConditions,
+  formatCategoryPath,
+  type MatchContext,
+} from "akasha/temper/items-addon/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { inferDeconCraftingType } from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type {
   IndeterminateReason,
@@ -13,27 +34,6 @@ import {
   walkRules,
 } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
-import { buildEsoEvalEnv } from "../inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
-import {
-  findItemInInventory,
-  isItemLinkCraftedSafe,
-  lookupTtcPricing,
-} from "../inventory-item-data/inventory-item-data.module.code.ts"
-import { captureOrNull } from "../inventory-match-capture/inventory-match-capture.module.code.ts"
-import { isItemLinkQuestRelevant } from "../inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
-import {
-  classifyItem,
-  gatherSignals,
-  getAncestorChain,
-} from "../inventory-rules-classify/inventory-rules-classify.module.code.ts"
-import {
-  describeInlineConditions,
-  formatCategoryPath,
-  type MatchContext,
-} from "../inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { inferDeconCraftingType } from "../inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
 export const PREFIX = "[TemperRules]"
 
 function buildMatchContextForRender(itemLink: string, ancestorChain: string[]): MatchContext {

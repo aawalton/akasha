@@ -1,41 +1,41 @@
-import { registerAutoMaintenanceEvents } from "../inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"
+import { registerAutoMaintenanceEvents } from "akasha/temper/items-addon/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"
 import {
   hideBankActionPanel,
   refreshBankActionPanel,
-} from "../inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"
 import {
   beginBankProfile,
   scheduleBankProfileFinalize,
-} from "../inventory-bank-profile/inventory-bank-profile.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-profile/inventory-bank-profile.module.code.ts"
 import {
   beginBankTrace,
   finishBankOpenHandler,
   markBankClosed,
   recordBankPhaseMs,
   recordSettlingMs,
-} from "../inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   scanAccountCurrencies,
   scanBankedCurrencies,
   scanCharacterCurrencies,
   updateCurrency,
-} from "../inventory-currency/inventory-currency.module.code.ts"
+} from "akasha/temper/items-addon/inventory-currency/inventory-currency.module.code.ts"
 import {
   addPlacedFurnishing,
   removePlacedFurnishing,
   scanPlacedFurnishings,
-} from "../inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts"
+} from "akasha/temper/items-addon/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts"
 import {
   recomputeNetWorthAndUpdateHud,
   reseedNetWorthBaseline,
   resetSession,
-} from "../inventory-hud-fields/inventory-hud-fields.module.code.ts"
+} from "akasha/temper/items-addon/inventory-hud-fields/inventory-hud-fields.module.code.ts"
 import {
   flushJunkGate,
   openJunkGate,
-} from "../inventory-junk-queue/inventory-junk-queue.module.code.ts"
+} from "akasha/temper/items-addon/inventory-junk-queue/inventory-junk-queue.module.code.ts"
 import {
   recordFullScan,
   scanBankBags,
@@ -45,37 +45,37 @@ import {
   scanHouseBanks,
   scanPersonalBags,
   updateSlot,
-} from "../inventory-ops/inventory-ops.module.code.ts"
-import { annotateContainerIfPending } from "../inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
+} from "akasha/temper/items-addon/inventory-ops/inventory-ops.module.code.ts"
+import { annotateContainerIfPending } from "akasha/temper/items-addon/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
 import {
   clearPendingAction,
   getPendingAction,
   isPendingActionStale,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { captureCraftingLevels } from "../inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { captureCraftingLevels } from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
 import {
   isDispatchingBank,
   onOpenBank,
-} from "../inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"
-import { dispatchEquipActions } from "../inventory-rules-dispatch-equip/inventory-rules-dispatch-equip.module.code.ts"
-import { onOpenGuildBank } from "../inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
-import { dispatchGuildBankCurrency } from "../inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.code.ts"
-import { isOpenQueueActive } from "../inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
-import { dispatchUnlockActions } from "../inventory-rules-dispatch-unlock/inventory-rules-dispatch-unlock.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"
+import { dispatchEquipActions } from "akasha/temper/items-addon/inventory-rules-dispatch-equip/inventory-rules-dispatch-equip.module.code.ts"
+import { onOpenGuildBank } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
+import { dispatchGuildBankCurrency } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.code.ts"
+import { isOpenQueueActive } from "akasha/temper/items-addon/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
+import { dispatchUnlockActions } from "akasha/temper/items-addon/inventory-rules-dispatch-unlock/inventory-rules-dispatch-unlock.module.code.ts"
 import {
   dispatchSafeOpenActions,
   dispatchUseActions,
-} from "../inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"
 import {
   evaluateRules,
   fireInventoryActionsChanged,
   rescanInventory,
   rescanWornItems,
-} from "../inventory-rules-eval/inventory-rules-eval.module.code.ts"
-import { registerAutoListResultEvents } from "../inventory-rules-list/inventory-rules-list.module.code.ts"
-import { registerVenueDispatchEvents } from "../inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
-import { invalidateScribingKnowledgeCache } from "../inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
-import { migrateLocksToTemperLocks } from "../inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { registerAutoListResultEvents } from "akasha/temper/items-addon/inventory-rules-list/inventory-rules-list.module.code.ts"
+import { registerVenueDispatchEvents } from "akasha/temper/items-addon/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
+import { invalidateScribingKnowledgeCache } from "akasha/temper/items-addon/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { migrateLocksToTemperLocks } from "akasha/temper/items-addon/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
 
 const NET_WORTH_DEBOUNCE_MS = 500
 let netWorthRecomputePending = false

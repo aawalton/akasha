@@ -1,20 +1,20 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import type { MasterWritSpec } from "../inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import type { MasterWritSpec } from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
 import {
   findBestSpecMatch,
   resolveEquipPattern,
-} from "../inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"
-import type { MasterWritStepKind } from "../inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
-import { selectConsolidatedSet } from "../inventory-writ-crafting-master-set-select/inventory-writ-crafting-master-set-select.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"
+import type { MasterWritStepKind } from "akasha/temper/items-addon/inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
+import { selectConsolidatedSet } from "akasha/temper/items-addon/inventory-writ-crafting-master-set-select/inventory-writ-crafting-master-set-select.module.code.ts"
 import {
   clearWritCraftQueue,
   type WritCraftRequest,
-} from "../inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
-import { recordMasterCraftTrace } from "../inventory-writ-master-craft-trace/inventory-writ-master-craft-trace.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+import { recordMasterCraftTrace } from "akasha/temper/items-addon/inventory-writ-master-craft-trace/inventory-writ-master-craft-trace.module.code.ts"
 import type {
   MasterCraftOutcome,
   MasterCraftTrace,
-} from "../inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
 
 const SET_PATTERN_OFFSET: Record<number, number> = { [1]: 14, [2]: 15, [6]: 6, [7]: 2 }
 

@@ -1,7 +1,4 @@
-import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
-import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -12,21 +9,24 @@ import {
   getPendingStockScope,
   getPendingTargetQuantity,
   setPendingAction,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { getPendingUseDeposits } from "../inventory-rules-core-use-deposits/inventory-rules-core-use-deposits.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { getPendingUseDeposits } from "akasha/temper/items-addon/inventory-rules-core-use-deposits/inventory-rules-core-use-deposits.module.code.ts"
 import {
   type FrozenStockCounts,
   frozenStockCount,
-} from "../inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
 import {
   type BankSlotContext,
   bankCountItemInStorage,
   bankFindEmptyStorageSlot,
   bankFindPartialStorageSlot,
   bankIsCorrectStorage,
-} from "../inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
-import { slotKey } from "../inventory-slot-key/inventory-slot-key.module.code.ts"
-import { computeStockTierDeposit } from "../inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
+import { computeStockTierDeposit } from "akasha/temper/items-addon/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
+import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 export const DEPOSIT_CHARACTER_PREFIX = "character:"
 
 function resolveCascadeTierForCtx(

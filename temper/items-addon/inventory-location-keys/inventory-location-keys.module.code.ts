@@ -6,7 +6,7 @@ import {
   LOC_FURNITURE_VAULT,
   LOC_HOUSE_BANK_PREFIX,
   LOC_HOUSE_PREFIX,
-} from "../inventory-constants/inventory-constants.module.code.ts"
+} from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 export function getCharacterLocationKey(): string | undefined {
   const id = tostring(GetCurrentCharacterId())
   if (id === "" || id === "0") return undefined

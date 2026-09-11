@@ -1,15 +1,15 @@
-import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 import {
   computeBuyQuantity,
   computeGlobalTotal,
-} from "../inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { bankCountInBag } from "../inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { bankCountInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import type {
   BuyExplainRule,
   BuyExplainStoreScan,
   BuyExplainTrace,
-} from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 
 const SCHEMA_VERSION = 1
 

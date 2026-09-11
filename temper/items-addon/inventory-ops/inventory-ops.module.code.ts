@@ -1,4 +1,4 @@
-import { scanBag } from "../inventory-bag-scanner/inventory-bag-scanner.module.code.ts"
+import { scanBag } from "akasha/temper/items-addon/inventory-bag-scanner/inventory-bag-scanner.module.code.ts"
 import {
   BANK_BAGS,
   HOUSE_BANK_BAGS,
@@ -9,20 +9,20 @@ import {
   LOC_HOUSE_BANK_PREFIX,
   LOC_HOUSE_PREFIX,
   PERSONAL_BAGS,
-} from "../inventory-constants/inventory-constants.module.code.ts"
+} from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   extractItemData,
   resolvePriceSource,
-} from "../inventory-item-data/inventory-item-data.module.code.ts"
+} from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
 import {
   getCharacterLocationKey,
   getChestDisplayName,
   getCompanionLocationKey,
   getGuildBankLocationKey,
   getLocationKeyForBag,
-} from "../inventory-location-keys/inventory-location-keys.module.code.ts"
-import { ensureLocation } from "../inventory-saved-variables/inventory-saved-variables.module.code.ts"
-import { getDatabase } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
+import { ensureLocation } from "akasha/temper/items-addon/inventory-saved-variables/inventory-saved-variables.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 export function scanLocation(key: string, displayName: string, bags: number[]): undefined {
   const location = ensureLocation(key, displayName)
   for (const bagId of bags) {

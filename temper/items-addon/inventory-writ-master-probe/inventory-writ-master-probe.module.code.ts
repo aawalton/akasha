@@ -1,11 +1,11 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type {
   MasterWritProbe,
   MasterWritProbeCondition,
   MasterWritProbeQuest,
   MasterWritProbeStep,
-} from "../inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
 
 function probeCondition(
   this: void,

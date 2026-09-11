@@ -1,26 +1,26 @@
-import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getActionReportLevel } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { resolveAlchemyWrit } from "../inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"
-import { resolveEnchantingWrit } from "../inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"
-import { dispatchMasterWrit } from "../inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"
-import { resolveProvisioningWrit } from "../inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getActionReportLevel } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { resolveAlchemyWrit } from "akasha/temper/items-addon/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"
+import { resolveEnchantingWrit } from "akasha/temper/items-addon/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"
+import { dispatchMasterWrit } from "akasha/temper/items-addon/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"
+import { resolveProvisioningWrit } from "akasha/temper/items-addon/inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"
 import {
   enqueueWritCraft,
   type WritCraftRequest,
-} from "../inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
-import { resolveSmithingWrit } from "../inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+import { resolveSmithingWrit } from "akasha/temper/items-addon/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"
 import {
   scanActiveMasterWrits,
   scanActiveWrits,
-} from "../inventory-writ-detection/inventory-writ-detection.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-detection/inventory-writ-detection.module.code.ts"
 import {
   computeMasterWritEnabled,
   computeMasterWritToggles,
   computeWritToggles,
   type MasterWritToggles,
   type WritToggles,
-} from "../inventory-writ-toggles/inventory-writ-toggles.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-toggles/inventory-writ-toggles.module.code.ts"
 export const SMITHING_CRAFT_TYPES = new LuaSet<number>()
 SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)
 SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_CLOTHIER)

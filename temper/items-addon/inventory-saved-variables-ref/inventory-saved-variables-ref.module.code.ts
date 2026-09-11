@@ -1,7 +1,7 @@
 import type {
   InventoryDatabase,
   SavedVariablesData,
-} from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export let inventorySavedVariables: SavedVariablesData | undefined
 
 export function setSavedVarsInstance(value: SavedVariablesData): undefined {

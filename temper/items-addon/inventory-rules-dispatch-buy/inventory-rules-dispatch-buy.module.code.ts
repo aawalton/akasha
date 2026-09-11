@@ -1,20 +1,20 @@
-import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   computeBuyQuantity,
   computeGlobalTotal,
-} from "../inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
   shouldConfirmAction,
   showConfirmDialog,
-} from "../inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import {
   formatItemList,
   reportAction,
   reportPendingAction,
-} from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { bankCountInBag } from "../inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { bankCountInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 
 interface BuyTarget {
   entryIndex: number

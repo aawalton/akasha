@@ -1,6 +1,9 @@
-import { ADDON_NAME, BANK_BAGS } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { QuestAnnotation } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import {
+  ADDON_NAME,
+  BANK_BAGS,
+} from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { QuestAnnotation } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export interface PendingQuestCompletion {
   questId: number
   questType: "delve" | "group-boss" | "world-event"

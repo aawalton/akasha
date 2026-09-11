@@ -1,12 +1,12 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getChestDisplayName } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getChestDisplayName } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
 import {
   forEachPendingAction,
   getCompiledConfig,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import type { AddonItemAction } from "../inventory-rules-types/inventory-rules-types.module.code.ts"
-import { isSavedVariablesReady } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import { addToTally } from "../inventory-tally/inventory-tally.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import type { AddonItemAction } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { isSavedVariablesReady } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { addToTally } from "akasha/temper/items-addon/inventory-tally/inventory-tally.module.code.ts"
 export type StaticVenueKey =
   | "bank"
   | "house-storage"

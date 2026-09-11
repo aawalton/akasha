@@ -1,4 +1,4 @@
-import { isTemperLocked } from "../inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import { isTemperLocked } from "akasha/temper/items-addon/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 
 const LOCK_TEXTURE = "EsoUI/Art/Miscellaneous/locked_up.dds"
 const ICON_SIZE = 24

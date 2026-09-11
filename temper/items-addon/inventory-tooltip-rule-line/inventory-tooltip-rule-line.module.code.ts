@@ -1,15 +1,15 @@
-import { formatActionLabel } from "akasha/temper/items-rules-core/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
-import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { resolveCharacterNameById } from "../inventory-character-names/inventory-character-names.module.code.ts"
-import { isItemAtMoveToDestination } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
-import { resolveVenueLabel } from "../inventory-plan/inventory-plan.module.code.ts"
+import { resolveCharacterNameById } from "akasha/temper/items-addon/inventory-character-names/inventory-character-names.module.code.ts"
+import { isItemAtMoveToDestination } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
+import { resolveVenueLabel } from "akasha/temper/items-addon/inventory-plan/inventory-plan.module.code.ts"
 import {
   getPendingAction,
   getPendingDestination,
   getPendingTargetQuantity,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { findMatchedRule } from "../inventory-rules-eval/inventory-rules-eval.module.code.ts"
-import type { AddonItemAction } from "../inventory-rules-types/inventory-rules-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { findMatchedRule } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import type { AddonItemAction } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { formatActionLabel } from "akasha/temper/items-rules-core/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 export interface TooltipDecision {
   action: ItemAction
   destination: string | undefined

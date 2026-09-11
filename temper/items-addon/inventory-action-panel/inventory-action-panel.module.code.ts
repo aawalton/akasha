@@ -6,8 +6,8 @@ import {
   createMovableWindow,
   type MovableWindowHandle,
 } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
-import { getInventoryActionSummary } from "../inventory-plan/inventory-plan.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { getInventoryActionSummary } from "akasha/temper/items-addon/inventory-plan/inventory-plan.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const PANEL_NAME = "TemperInventoryActionPanel"
 const ANCHOR_TARGET_NAME = "ZO_PlayerInventory"

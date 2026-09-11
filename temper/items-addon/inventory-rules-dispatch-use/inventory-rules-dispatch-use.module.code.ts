@@ -2,15 +2,15 @@ import {
   clearPendingAction,
   forEachPendingAction,
   getPendingRuleIndex,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { isItemUnlockable } from "../inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts"
-import { reportAction } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { isItemUnlockable } from "akasha/temper/items-addon/inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts"
+import { reportAction } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import {
   ATTEMPTED_OPEN_LINKS_HOLDER,
   enqueueOpenItems,
   type OpenQueueEntry,
   resetAttemptedOpenLinksForChain,
-} from "../inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
 export const MAX_OPS = 50
 export const CHARACTER_PREFIX = "character:"
 export const USE_FRAME_DELAY = 200

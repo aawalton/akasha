@@ -1,13 +1,13 @@
-import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 import {
   GREEN,
   RED,
 } from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
-import { recordNetWorthScanMs } from "../inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
-import { computeLiveNetWorth } from "../inventory-live-net-worth/inventory-live-net-worth.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { recordNetWorthScanMs } from "akasha/temper/items-addon/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
+import { computeLiveNetWorth } from "akasha/temper/items-addon/inventory-live-net-worth/inventory-live-net-worth.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   applyBurstChange,
   type BurstState,
@@ -16,7 +16,7 @@ import {
   formatBagSlots,
   formatSignedGold,
   isBurstVisible,
-} from "../inventory-session-tracking/inventory-session-tracking.module.code.ts"
+} from "akasha/temper/items-addon/inventory-session-tracking/inventory-session-tracking.module.code.ts"
 
 interface HudCell {
   text: string

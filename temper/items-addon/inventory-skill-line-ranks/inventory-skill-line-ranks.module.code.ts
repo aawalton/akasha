@@ -1,6 +1,6 @@
+import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 
 function hasAnyKey(record: Record<string, unknown>): boolean {
   return Object.keys(record).length > 0

@@ -1,10 +1,10 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { getActionReportLevel } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { getActionReportLevel } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import {
   CURRENCY_DISPLAY_NAMES,
   CURRENCY_KEY_TO_CURT,
-} from "../inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"
 
 function transferToGuildBank(this: void, curt: number, amount: number): undefined {
   if (IsProtectedFunction("TransferCurrency")) {

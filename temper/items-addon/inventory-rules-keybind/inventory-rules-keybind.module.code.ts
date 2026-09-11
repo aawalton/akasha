@@ -1,8 +1,8 @@
-import { refreshEquipmentLockOverlays } from "../inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
-import { verdictActionForJunk } from "../inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
-import { setItemRuleVerdict } from "../inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
-import { refreshLockOverlays } from "../inventory-lock-overlay/inventory-lock-overlay.module.code.ts"
-import { toggleTemperLock } from "../inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import { refreshEquipmentLockOverlays } from "akasha/temper/items-addon/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
+import { verdictActionForJunk } from "akasha/temper/items-addon/inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
+import { setItemRuleVerdict } from "akasha/temper/items-addon/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
+import { refreshLockOverlays } from "akasha/temper/items-addon/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"
+import { toggleTemperLock } from "akasha/temper/items-addon/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 
 interface HoveredSlot {
   bagId: number

@@ -1,14 +1,14 @@
-import { compareStrings } from "akasha/temper/items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { matchCategory } from "../inventory-browser-categories/inventory-browser-categories.module.code.ts"
-import { matchLocationView } from "../inventory-browser-locations/inventory-browser-locations.module.code.ts"
+import { matchCategory } from "akasha/temper/items-addon/inventory-browser-categories/inventory-browser-categories.module.code.ts"
+import { matchLocationView } from "akasha/temper/items-addon/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
   BrowserFilterState,
   BrowserRow,
   BrowserSearchMode,
   BrowserSortKey,
-} from "../inventory-browser-types/inventory-browser-types.module.code.ts"
-import { BROWSER_QUALITY_ANY } from "../inventory-browser-types/inventory-browser-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { BROWSER_QUALITY_ANY } from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { compareStrings } from "akasha/temper/items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 const ASCII_UPPER_A = 65
 const ASCII_UPPER_Z = 90

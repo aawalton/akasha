@@ -1,3 +1,24 @@
+import { buildItemFactsForLink } from "akasha/temper/items-addon/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
+import { buildCompiledCharacterPriority } from "akasha/temper/items-addon/inventory-character-priority/inventory-character-priority.module.code.ts"
+import { buildEsoEvalEnv } from "akasha/temper/items-addon/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
+import { buildMatchContext } from "akasha/temper/items-addon/inventory-explain-match-context/inventory-explain-match-context.module.code.ts"
+import { findItemInInventory } from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
+import {
+  classifyItem,
+  gatherSignals,
+  getAncestorChain,
+} from "akasha/temper/items-addon/inventory-rules-classify/inventory-rules-classify.module.code.ts"
+import {
+  describeInlineConditions,
+  type MatchContext,
+} from "akasha/temper/items-addon/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import {
+  buildUnlockContext,
+  buildUnlockItemKey,
+} from "akasha/temper/items-addon/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
+import type { ExplainTrace } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -14,28 +35,6 @@ import type {
 import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
-import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
-import { buildEsoEvalEnv } from "../inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
-import { buildMatchContext } from "../inventory-explain-match-context/inventory-explain-match-context.module.code.ts"
-import { findItemInInventory } from "../inventory-item-data/inventory-item-data.module.code.ts"
-import {
-  classifyItem,
-  gatherSignals,
-  getAncestorChain,
-} from "../inventory-rules-classify/inventory-rules-classify.module.code.ts"
-import {
-  describeInlineConditions,
-  type MatchContext,
-} from "../inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import {
-  buildUnlockContext,
-  buildUnlockItemKey,
-} from "../inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
-
-import type { ExplainTrace } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 
 const SCHEMA_VERSION = 1
 const MAX_REJECTIONS = 50

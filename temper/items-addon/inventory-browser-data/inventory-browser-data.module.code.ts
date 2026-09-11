@@ -1,3 +1,10 @@
+import type {
+  BrowserRow,
+  FixedLocationViewId,
+  LocationViewKind,
+  LocationViewOption,
+} from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemCentricInventory } from "akasha/temper/items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
 import {
   classifyLocation,
@@ -5,13 +12,6 @@ import {
 } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type {
-  BrowserRow,
-  FixedLocationViewId,
-  LocationViewKind,
-  LocationViewOption,
-} from "../inventory-browser-types/inventory-browser-types.module.code.ts"
-import { getDatabase } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const FIXED_LOCATION_VIEWS: readonly (readonly [FixedLocationViewId, string])[] = [
   ["all", "All"],

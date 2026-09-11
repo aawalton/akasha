@@ -1,15 +1,15 @@
 import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import { createMovableWindow } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
-import { quantityInView } from "../inventory-browser-locations/inventory-browser-locations.module.code.ts"
+import { quantityInView } from "akasha/temper/items-addon/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
   BrowserRow,
   LocationViewOption,
-} from "../inventory-browser-types/inventory-browser-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
 import {
   hideLocationBreakdown,
   showLocationBreakdown,
-} from "../inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const WINDOW_NAME = "TemperInventoryBrowser"
 const LIST_NAME = "TemperInventoryBrowserList"

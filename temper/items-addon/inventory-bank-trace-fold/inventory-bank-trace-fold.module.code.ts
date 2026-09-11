@@ -2,7 +2,7 @@ import type {
   BankTraceBracket,
   BankTraceNetWorth,
   BankTraceSettling,
-} from "../inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 export function emptyNetWorthStats(): BankTraceNetWorth {
   return { walkCount: 0, walkTotalMs: 0, walkMaxMs: 0 }
 }

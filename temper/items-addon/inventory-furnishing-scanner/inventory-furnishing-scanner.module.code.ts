@@ -1,9 +1,9 @@
-import { LOC_HOUSE_PREFIX } from "../inventory-constants/inventory-constants.module.code.ts"
-import { lookupTtcPricing } from "../inventory-item-data/inventory-item-data.module.code.ts"
-import { getHouseFurnishingsLocationKey } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
-import { ensureLocation } from "../inventory-saved-variables/inventory-saved-variables.module.code.ts"
-import { getDatabase } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { PlacedFurnishingData } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { LOC_HOUSE_PREFIX } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { lookupTtcPricing } from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
+import { getHouseFurnishingsLocationKey } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
+import { ensureLocation } from "akasha/temper/items-addon/inventory-saved-variables/inventory-saved-variables.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { PlacedFurnishingData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export function extractFurnishingData(furnitureId: Id64): PlacedFurnishingData | undefined {
   const [itemName] = GetPlacedHousingFurnitureInfo(furnitureId)
   if (itemName === "") return undefined

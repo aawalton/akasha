@@ -1,4 +1,4 @@
-import type { BrowserWindowHandle } from "../inventory-browser-window/inventory-browser-window.module.code.ts"
+import type { BrowserWindowHandle } from "akasha/temper/items-addon/inventory-browser-window/inventory-browser-window.module.code.ts"
 
 const DOCKED_SCENES: readonly string[] = [
   "inventory",

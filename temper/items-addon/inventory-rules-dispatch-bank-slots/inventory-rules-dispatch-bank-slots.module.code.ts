@@ -1,7 +1,7 @@
-import { LOC_HOUSE_BANK_PREFIX } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getDatabase } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { LocationData } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import { slotKey } from "../inventory-slot-key/inventory-slot-key.module.code.ts"
+import { LOC_HOUSE_BANK_PREFIX } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { LocationData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
 export interface BankSlotContext {
   reserved: LuaMap<number, true>
   vacated: LuaMap<number, true>

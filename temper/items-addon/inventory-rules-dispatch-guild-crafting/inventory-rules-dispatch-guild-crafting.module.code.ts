@@ -1,7 +1,5 @@
-import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getGuildBankLocationKey } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getGuildBankLocationKey } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -9,19 +7,21 @@ import {
   getPendingDestination,
   getPendingRuleIndex,
   getPendingTargetQuantity,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
   shouldConfirmAction,
   showConfirmDialog,
-} from "../inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import {
   formatItemList,
   reportAction,
   reportPendingAction,
-} from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { runRefinePass } from "../inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"
-import { evaluateRules } from "../inventory-rules-eval/inventory-rules-eval.module.code.ts"
-import { dispatchWritCrafting } from "../inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { runRefinePass } from "akasha/temper/items-addon/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"
+import { evaluateRules } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { dispatchWritCrafting } from "akasha/temper/items-addon/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 export const MAX_OPS = 50
 
 export function onOpenGuildBank(): undefined {

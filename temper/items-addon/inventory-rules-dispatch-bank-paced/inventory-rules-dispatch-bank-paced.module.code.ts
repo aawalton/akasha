@@ -1,12 +1,12 @@
-import { recordPacedDispatch } from "../inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import type { BankTracePacedDispatch } from "../inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { recordPacedDispatch } from "akasha/temper/items-addon/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import type { BankTracePacedDispatch } from "akasha/temper/items-addon/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   countPacedMoves,
   expectedRemainderAfterMove,
   isPacedMoveConfirmed,
   type PacedBankStep,
-} from "../inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
 
 const PACED_BANK_NS = `${ADDON_NAME}_PacedBank`
 const PACED_BANK_WATCHDOG_MS = 2000

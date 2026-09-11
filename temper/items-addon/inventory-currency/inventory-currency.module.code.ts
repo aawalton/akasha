@@ -1,13 +1,13 @@
-import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
-import { getCharacterLocationKey } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
+import { getCharacterLocationKey } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
 import {
   getDatabase,
   getSavedVariables,
-} from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryCurrencies,
-} from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
 export const CURRENCY_MAP: Record<number, string> = {}
 if (CURT_MONEY !== undefined) CURRENCY_MAP[CURT_MONEY] = "gold"
 if (CURT_ALLIANCE_POINTS !== undefined) CURRENCY_MAP[CURT_ALLIANCE_POINTS] = "alliancePoints"

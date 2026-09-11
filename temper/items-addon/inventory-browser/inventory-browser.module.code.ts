@@ -1,25 +1,25 @@
 import {
   buildBrowserRows,
   collectLocationOptions,
-} from "../inventory-browser-data/inventory-browser-data.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-data/inventory-browser-data.module.code.ts"
 import {
   filterRows,
   sortRows,
-} from "../inventory-browser-filter/inventory-browser-filter.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-filter/inventory-browser-filter.module.code.ts"
 import {
   type BrowserFilterBarHandle,
   createBrowserFilterBar,
-} from "../inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"
-import { registerBrowserScene } from "../inventory-browser-scene/inventory-browser-scene.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"
+import { registerBrowserScene } from "akasha/temper/items-addon/inventory-browser-scene/inventory-browser-scene.module.code.ts"
 import {
   BROWSER_QUALITY_ANY,
   type BrowserFilterState,
   type LocationViewOption,
-} from "../inventory-browser-types/inventory-browser-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
 import {
   type BrowserWindowHandle,
   createBrowserWindow,
-} from "../inventory-browser-window/inventory-browser-window.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-window/inventory-browser-window.module.code.ts"
 
 interface BrowserState {
   window: BrowserWindowHandle

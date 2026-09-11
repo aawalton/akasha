@@ -1,20 +1,20 @@
-import { resolveAlchemyMasterWrit } from "../inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"
-import { resolveEnchantingMasterWrit } from "../inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"
+import { resolveAlchemyMasterWrit } from "akasha/temper/items-addon/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"
+import { resolveEnchantingMasterWrit } from "akasha/temper/items-addon/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"
 import {
   decodeMasterWrit,
   type MasterWritSpec,
-} from "../inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
-import { findBestSpecMatch } from "../inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"
-import { planMasterWritSteps } from "../inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
+import { findBestSpecMatch } from "akasha/temper/items-addon/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"
+import { planMasterWritSteps } from "akasha/temper/items-addon/inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
 import {
   buildMasterSmithingStep,
   findMasterSmithingMatch,
-} from "../inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"
-import { resolveProvisioningMasterWrit } from "../inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"
+import { resolveProvisioningMasterWrit } from "akasha/temper/items-addon/inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"
 import {
   enqueueWritCraft,
   type WritCraftRequest,
-} from "../inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 
 const MASTER_SMITHING_CRAFT_TYPES = new LuaSet<number>()
 MASTER_SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)

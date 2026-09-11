@@ -5,7 +5,7 @@ import type {
   ProfilerRecord,
   ProfilerSourceBucket,
   ResolvedEntry,
-} from "../inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
 export function emptyAccumulator(): ProfilerAccumulator {
   return {
     closures: new Map<number, ProfilerCounter>(),

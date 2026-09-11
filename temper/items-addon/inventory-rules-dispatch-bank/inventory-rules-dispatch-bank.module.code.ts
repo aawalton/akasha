@@ -1,21 +1,21 @@
 import {
   recordBankMoves,
   recordBankPhaseMs,
-} from "../inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import { HOUSE_BANK_BAGS } from "../inventory-constants/inventory-constants.module.code.ts"
-import { moveItem } from "../inventory-move-item/inventory-move-item.module.code.ts"
-import { reportAction } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { dispatchCurrencyRules } from "../inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"
-import { executeBankDeposits } from "../inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.code.ts"
-import { startPacedBankChain } from "../inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"
-import type { PacedBankStep } from "../inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
-import { freezeStockBackpackCounts } from "../inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
-import type { BankSlotContext } from "../inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { HOUSE_BANK_BAGS } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { moveItem } from "akasha/temper/items-addon/inventory-move-item/inventory-move-item.module.code.ts"
+import { reportAction } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { dispatchCurrencyRules } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"
+import { executeBankDeposits } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.code.ts"
+import { startPacedBankChain } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"
+import type { PacedBankStep } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
+import { freezeStockBackpackCounts } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
+import type { BankSlotContext } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import {
   executeVaultWithdrawals,
   startVaultDepositChain,
-} from "../inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
-import { executeBankWithdrawals } from "../inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
+import { executeBankWithdrawals } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
 export const MAX_OPS = 50
 
 export let dispatchingBank = false

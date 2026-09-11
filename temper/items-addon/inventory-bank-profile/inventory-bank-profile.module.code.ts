@@ -4,14 +4,14 @@ import {
   emptyAccumulator,
   nsToMs,
   selectTop,
-} from "../inventory-bank-profile-fold/inventory-bank-profile-fold.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-profile-fold/inventory-bank-profile-fold.module.code.ts"
 import type {
   BankProfile,
   ProfilerRecord,
   ProfilerRecordKind,
   ResolvedEntry,
-} from "../inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const SCHEMA_VERSION = 1
 const TOP_N = 40

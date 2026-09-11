@@ -1,8 +1,8 @@
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type {
   InventoryConfigGlobal,
   SavedVariablesData,
-} from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export interface InventoryConfigView {
   sell: SavedVariablesData["sell"]
   sellTimestamps: SavedVariablesData["sellTimestamps"]

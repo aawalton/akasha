@@ -1,4 +1,4 @@
-import { findMatchedRule } from "../inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { findMatchedRule } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 export type FrozenStockCounts = LuaMap<number, number>
 
 function stockGroupKey(ruleIndex: number | undefined, itemId: number): number {

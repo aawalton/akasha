@@ -6,7 +6,7 @@ import {
   runMaintenancePass,
   shouldSuppressChargeEvent,
   shouldSuppressDurabilityEvent,
-} from "../inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.code.ts"
+} from "akasha/temper/items-addon/inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.code.ts"
 
 const LOGIN_MAINTENANCE_DELAY_MS = 10000
 const POST_COMBAT_MAINTENANCE_DELAY_MS = 500

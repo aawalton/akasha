@@ -1,17 +1,17 @@
-import {
-  type BarButton,
-  COLOR_SECONDARY,
-  setButtonActive,
-} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
-import { BROWSER_CATEGORIES } from "../inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"
+import { BROWSER_CATEGORIES } from "akasha/temper/items-addon/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"
 import type {
   BrowserFilterState,
   BrowserSortKey,
   CategoryDef,
   LocationViewOption,
   SubfilterDef,
-} from "../inventory-browser-types/inventory-browser-types.module.code.ts"
-import { BROWSER_QUALITY_ANY } from "../inventory-browser-types/inventory-browser-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { BROWSER_QUALITY_ANY } from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
+import {
+  type BarButton,
+  COLOR_SECONDARY,
+  setButtonActive,
+} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
 export interface BrowserFilterBarParams {
   toolbar: Control
   searchBar: Control

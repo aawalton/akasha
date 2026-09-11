@@ -1,7 +1,7 @@
-import { LOC_COMPANION_PREFIX } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { getDatabase } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { ItemData } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { LOC_COMPANION_PREFIX } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { ItemData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export function equipTypeToEquipSlot(equipType: number): number | undefined {
   if (equipType === EQUIP_TYPE_HEAD) return EQUIP_SLOT_HEAD
   if (equipType === EQUIP_TYPE_CHEST) return EQUIP_SLOT_CHEST

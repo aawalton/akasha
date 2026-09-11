@@ -1,9 +1,5 @@
-import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/action-storage-capability/action-storage-capability.module.code.ts"
-import { planStockReconcile } from "akasha/temper/items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
-import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { getConfiguredBufferSlots } from "../inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { getConfiguredBufferSlots } from "akasha/temper/items-addon/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -13,12 +9,12 @@ import {
   getPendingRuleIndex,
   getPendingStockScope,
   getPendingTargetQuantity,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { isVendorCrossCharDestination } from "../inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { isVendorCrossCharDestination } from "akasha/temper/items-addon/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import {
   type FrozenStockCounts,
   frozenStockCount,
-} from "../inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.code.ts"
 import {
   type BankSlotContext,
   bankFindEmptyBackpackSlot,
@@ -26,13 +22,17 @@ import {
   bankIsCorrectStorage,
   destinationHasStackableItem,
   estimateDestinationFreeSlots,
-} from "../inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import {
   evaluateRules,
   findMatchedRule,
-} from "../inventory-rules-eval/inventory-rules-eval.module.code.ts"
-import { slotKey } from "../inventory-slot-key/inventory-slot-key.module.code.ts"
-import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/action-storage-capability/action-storage-capability.module.code.ts"
+import { planStockReconcile } from "akasha/temper/items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
+import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 export const BANK_CHARACTER_PREFIX = "character:"
 
 export function canCurrentCharacterBenefitFromXP(): boolean {

@@ -1,20 +1,20 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
   getPendingAction,
   getPendingRuleIndex,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
   shouldConfirmAction,
   showConfirmDialog,
-} from "../inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import {
   formatItemList,
   reportAction,
   reportPendingAction,
-} from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { evaluateRules } from "../inventory-rules-eval/inventory-rules-eval.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { evaluateRules } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 
 const MAX_REFINE_OPS = 50
 

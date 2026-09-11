@@ -1,19 +1,19 @@
-import { signatureMatchesItem } from "akasha/temper/items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import type { EvalEnv } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
-import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
-import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { isCompanionWornSlotFilled } from "../inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { isCompanionWornSlotFilled } from "akasha/temper/items-addon/inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts"
 import {
   characterNeedsTrait,
   isDeconUsefulForCharacter,
   isDeconUsefulForCurrent,
-} from "../inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
-import { knowsMotifByCharData } from "../inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
-import { bankCountInBag } from "../inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import { countScripts } from "../inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
-import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
+import { knowsMotifByCharData } from "akasha/temper/items-addon/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
+import { bankCountInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { countScripts } from "akasha/temper/items-addon/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { signatureMatchesItem } from "akasha/temper/items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import type { EvalEnv } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 
 function knowsItemKeyForCurrent(itemKey: ItemKey, itemLink: string | undefined): boolean {
   if (itemLink !== undefined && itemLink !== "") {

@@ -1,3 +1,9 @@
+import { buildCompiledCharacterPriority } from "akasha/temper/items-addon/inventory-character-priority/inventory-character-priority.module.code.ts"
+import { buildGetCharacterCurseState } from "akasha/temper/items-addon/inventory-curse-state/inventory-curse-state.module.code.ts"
+import { buildUnlockContext } from "akasha/temper/items-addon/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
+import type { UseAllocation } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { buildGetCharacterSkillLineRanks } from "akasha/temper/items-addon/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
+import { canCharacterLevelMorphs } from "akasha/temper/items-addon/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import {
   type CharEligibilityConditions,
   composeCharEligibilityPredicate,
@@ -15,12 +21,6 @@ import {
   characterId,
   type ItemKey,
 } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
-import { buildGetCharacterCurseState } from "../inventory-curse-state/inventory-curse-state.module.code.ts"
-import { buildUnlockContext } from "../inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
-import type { UseAllocation } from "../inventory-rules-types/inventory-rules-types.module.code.ts"
-import { buildGetCharacterSkillLineRanks } from "../inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
-import { canCharacterLevelMorphs } from "../inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 
 const FLAT_STOCK_SURPLUS_SINK = "bank"
 

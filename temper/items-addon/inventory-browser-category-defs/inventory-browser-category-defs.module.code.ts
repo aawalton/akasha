@@ -1,7 +1,7 @@
 import type {
   CategoryDef,
   SubfilterDef,
-} from "../inventory-browser-types/inventory-browser-types.module.code.ts"
+} from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
 
 const NO_TYPES: number[] = []
 

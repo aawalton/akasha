@@ -1,5 +1,5 @@
+import type { InventoryDatabase } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
-import type { InventoryDatabase } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export function computeLiveNetWorth(
   db: InventoryDatabase,
   currencyRates: Record<string, number> | undefined,

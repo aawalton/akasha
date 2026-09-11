@@ -1,11 +1,11 @@
-import type { CompiledRuleConfig } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   type ItemRuleVerdictMutation,
   selectConfirmedVerdictItemIds,
   selectEffectiveAction,
-} from "../inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { CompiledRuleConfig } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 export function setItemRuleVerdict(
   itemId: number,
   itemName: string,

@@ -1,6 +1,6 @@
+import { buildLocationTooltipLines } from "akasha/temper/items-addon/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemCentricInventory } from "akasha/temper/items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
-import { buildLocationTooltipLines } from "../inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"
-import { getDatabase } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const FRAME_NAME = "TemperInventoryLocationTooltip"
 const FRAME_PADDING = 8

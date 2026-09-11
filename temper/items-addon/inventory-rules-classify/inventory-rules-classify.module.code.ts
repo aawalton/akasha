@@ -1,9 +1,9 @@
-import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   CATEGORY_ROOTS,
   CATEGORY_TREE,
   type CategoryNode,
-} from "../inventory-category-tree/inventory-category-tree.module.code.ts"
+} from "akasha/temper/items-addon/inventory-category-tree/inventory-category-tree.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 export function resolveCategoryNode(signals: ItemSignals, nodeId: string): string | undefined {
   const node = CATEGORY_TREE[nodeId]
   if (!node) return undefined

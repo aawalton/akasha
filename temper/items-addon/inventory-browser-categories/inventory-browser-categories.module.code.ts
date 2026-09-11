@@ -1,4 +1,4 @@
-import type { BrowserRow } from "../inventory-browser-types/inventory-browser-types.module.code.ts"
+import type { BrowserRow } from "akasha/temper/items-addon/inventory-browser-types/inventory-browser-types.module.code.ts"
 
 function isWeaponRow(row: BrowserRow): boolean {
   const weaponType = row.weaponType

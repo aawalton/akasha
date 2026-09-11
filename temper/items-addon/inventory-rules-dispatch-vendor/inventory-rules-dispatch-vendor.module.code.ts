@@ -2,18 +2,18 @@ import {
   clearPendingAction,
   forEachPendingAction,
   getPendingRuleIndex,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
   shouldConfirmAction,
   showConfirmDialog,
-} from "../inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import {
   formatItemList,
   reportAction,
   reportPendingAction,
-} from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { isVendorCrossCharDestination } from "../inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
-import { dispatchBuyRules } from "../inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { isVendorCrossCharDestination } from "akasha/temper/items-addon/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
+import { dispatchBuyRules } from "akasha/temper/items-addon/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
 export function onOpenStore(): undefined {
   const soldLinks: string[] = []
   const bagSize = GetBagSize(BAG_BACKPACK)

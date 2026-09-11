@@ -1,10 +1,10 @@
-import type { MasterWritSpec } from "../inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
-import { itemTemplateIdPatternIndex } from "../inventory-writ-crafting-master-template/inventory-writ-crafting-master-template.module.code.ts"
+import type { MasterWritSpec } from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
+import { itemTemplateIdPatternIndex } from "akasha/temper/items-addon/inventory-writ-crafting-master-template/inventory-writ-crafting-master-template.module.code.ts"
 import {
   INDEX_RANGES,
   JEWELRY_INDEX_RANGES,
   selectStyle,
-} from "../inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"
 export interface SpecMatch {
   bag: number
   slot: number

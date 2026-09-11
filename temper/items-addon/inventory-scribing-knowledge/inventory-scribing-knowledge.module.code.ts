@@ -1,11 +1,11 @@
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import {
   findCooldownGroup,
   isAnyCooldownActive,
   isOpenCooldownEnabled,
   isRftwContainer,
-} from "../inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
-import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+} from "akasha/temper/items-addon/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 export let cachedCurrentCharKnowsAll: boolean | undefined
 export let cachedAllCharsKnowAll: boolean | undefined
 export let cachedTotalScriptCount: number | undefined

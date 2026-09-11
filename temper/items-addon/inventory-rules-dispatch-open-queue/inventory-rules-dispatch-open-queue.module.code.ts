@@ -1,19 +1,19 @@
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import { hasRoomAboveBuffer } from "../inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
+import { hasRoomAboveBuffer } from "akasha/temper/items-addon/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   isAnyCooldownActive,
   isGameCooldownActive,
   isOpenCooldownEnabled,
   onContainerOpenedForCooldown,
-} from "../inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
+} from "akasha/temper/items-addon/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
 import {
   clearPendingAction,
   setPendingAction,
-} from "../inventory-rules-core/inventory-rules-core.module.code.ts"
-import { reportAction } from "../inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { RESCAN_INVENTORY_HOLDER } from "../inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
-import { evaluateScriptKnowledgeForOpen } from "../inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+} from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { reportAction } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { RESCAN_INVENTORY_HOLDER } from "akasha/temper/items-addon/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
+import { evaluateScriptKnowledgeForOpen } from "akasha/temper/items-addon/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 export interface OpenQueueEntry {
   bagId: number
   slotIndex: number

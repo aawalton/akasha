@@ -1,3 +1,7 @@
+import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getQuestAnnotation } from "akasha/temper/items-addon/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   type CooldownGroup,
   isDlcDailyContainerByName,
@@ -9,10 +13,6 @@ import {
   findCooldownGroup as pureFindCooldownGroup,
   matchesCooldownGroup as pureMatchesCooldownGroup,
 } from "akasha/temper/items-core/cooldown-groups/cooldown-groups.module.code.ts"
-import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { getQuestAnnotation } from "../inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 export const RFTW_GROUP = PURE_RFTW_GROUP
 export const COOLDOWN_GROUPS = PURE_COOLDOWN_GROUPS
 export const DLC_DAILY_PATTERNS = PURE_DLC_DAILY_PATTERNS

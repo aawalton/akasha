@@ -1,15 +1,15 @@
-import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
-import { computeCraftIterations } from "../inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
-import type { MasterWritSpec } from "../inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
-import { planMasterConsumableNeeded } from "../inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { computeCraftIterations } from "akasha/temper/items-addon/inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
+import type { MasterWritSpec } from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
+import { planMasterConsumableNeeded } from "akasha/temper/items-addon/inventory-writ-crafting-master-plan/inventory-writ-crafting-master-plan.module.code.ts"
 import {
   clearWritCraftQueue,
   type WritCraftRequest,
-} from "../inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 import {
   newConsumableTrace,
   recordMasterConsumableTrace,
-} from "../inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
+} from "akasha/temper/items-addon/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
 export function resolveProvisioningWrit(
   questIndex: number,
   conditionIndex: number

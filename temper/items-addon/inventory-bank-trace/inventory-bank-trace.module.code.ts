@@ -1,17 +1,17 @@
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import {
   computeUnattributedMs,
   emptyNetWorthStats,
   emptySettlingStats,
   foldBracket,
   foldNetWorthScan,
-} from "../inventory-bank-trace-fold/inventory-bank-trace-fold.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-trace-fold/inventory-bank-trace-fold.module.code.ts"
 import type {
   BankTrace,
   BankTraceCraftingStats,
   BankTracePacedDispatch,
-} from "../inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
-import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const TRAILING_SCAN_WINDOW_MS = 5000
 
