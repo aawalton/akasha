@@ -28,6 +28,7 @@ export const alan = {
       act: "Work until the work is done; stop only where nothing left can move without Alan.",
       warrant: "Agents are trained to stop and so stop much more than they should.",
       aids: [
+        "When Alan asks you to pause, pause.",
         "Stop only when every remaining part waits on a required answer.",
         "Asking whether to go on is stopping.",
         "Asking which task to do next is stopping.",
