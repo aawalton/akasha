@@ -103,7 +103,7 @@ export async function writeMessage(stated: {
     slug,
     values: {
       id,
-      pageTypeSlug: PAGE_TYPE,
+      type: PAGE_TYPE,
       slug,
       to: stated.to,
       from: stated.from,
