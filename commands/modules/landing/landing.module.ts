@@ -246,6 +246,28 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Every unit akasha has installed is kept as its workstation service's page states it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The units are kept after the links are placed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service is started again only where what that service runs, or runs under, changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit that could not be kept is answered rather than refusing the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The units kept are answered alongside the paths written and the paths taken.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hold runs from the first write to the commit.",
     },
     {
