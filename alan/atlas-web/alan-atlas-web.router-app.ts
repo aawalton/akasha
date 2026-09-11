@@ -25,7 +25,6 @@ export const alanAtlasWeb = {
     "stylesheet/alan-atlas-web-look",
     "module/atlas-app-id",
     "module/atlas-app-shell",
-    "module/atlas-auth-provider",
     "module/atlas-nav-commands",
     "module/atlas-nav-items",
     "module/basemap-range",

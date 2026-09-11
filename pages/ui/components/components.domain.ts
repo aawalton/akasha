@@ -10,6 +10,7 @@ export const components = {
   parts: [
     "module/action-button-property-badge",
     "module/aggregate-property-badge",
+    "module/auth-provider",
     "module/badge-registry",
     "module/bare-listing-card",
     "module/base-conditions",

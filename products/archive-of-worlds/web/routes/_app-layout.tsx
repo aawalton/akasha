@@ -3,9 +3,9 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/server-clien
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { AuthProvider } from "akasha/pages/ui/components/auth-provider/auth-provider.module.code.tsx"
 import { ARCHIVE_OF_WORLDS_APP_SLUG } from "akasha/products/archive-of-worlds/web/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { AppShell } from "akasha/products/archive-of-worlds/web/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
-import { AuthProvider } from "akasha/products/archive-of-worlds/web/archive-of-worlds-auth-provider/archive-of-worlds-auth-provider.module.code.tsx"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 

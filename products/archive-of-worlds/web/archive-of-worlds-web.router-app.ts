@@ -25,7 +25,6 @@ export const archiveOfWorldsWeb = {
     "stylesheet/archive-of-worlds-web-look",
     "module/archive-of-worlds-app-id",
     "module/archive-of-worlds-app-shell",
-    "module/archive-of-worlds-auth-provider",
     "module/archive-of-worlds-nav-commands",
     "module/archive-of-worlds-nav-items",
     "app-routes/archive-of-worlds-web-routes",
