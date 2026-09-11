@@ -95,6 +95,7 @@ export const page = {
     "module/test-run-marking",
     "domain/page-commands",
     "page-type/named-folder-property",
+    "page-type/named-extension-property",
     "page-type/build-folder-property",
     "service-workstation/sweep-page-answers",
     "module/type-keys",
