@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0158Chapter653BorrowedAuthority = {
   id: "01a06731-ae49-7000-a402-d0051298881b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0158-chapter-653-borrowed-authority",
   title: "Chapter: 653 - Borrowed Authority",

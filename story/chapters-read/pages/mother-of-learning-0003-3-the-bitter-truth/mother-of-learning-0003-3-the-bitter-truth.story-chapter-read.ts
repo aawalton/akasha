@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning00033TheBitterTruth = {
   id: "01a06731-b025-7000-bf43-2c951aed2b0a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0003-3-the-bitter-truth",
   title: "3. The Bitter Truth",

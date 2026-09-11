@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0072Chapter62JacksonSExitAndExamRegistration = {
   id: "01a0672c-ed5e-7004-875c-8a77b39bbc73",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0072-chapter-62-jackson-s-exit-and-exam-registration",
   title: "Chapter 62 Jackson's exit and exam registration",

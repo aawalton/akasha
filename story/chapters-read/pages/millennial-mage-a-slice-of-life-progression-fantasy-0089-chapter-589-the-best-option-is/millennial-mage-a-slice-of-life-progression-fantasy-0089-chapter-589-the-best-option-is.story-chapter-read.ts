@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0089Chapter589TheBestOptionIs = {
   id: "01a06731-add4-7001-ae7e-3010d4b62a8e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0089-chapter-589-the-best-option-is",
   title: "Chapter: 589 - The Best Option is...",

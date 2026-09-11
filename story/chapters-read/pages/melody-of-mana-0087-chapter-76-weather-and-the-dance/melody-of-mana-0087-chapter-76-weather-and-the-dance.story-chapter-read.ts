@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0087Chapter76WeatherAndTheDance = {
   id: "01a0672c-ed5e-7013-8157-e5e56dca2acc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0087-chapter-76-weather-and-the-dance",
   title: "Chapter 76 Weather, and the dance",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0140Chapter127DemocracyAndNewSpell = {
   id: "01a06731-ad80-7007-b331-2fe020e61c51",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0140-chapter-127-democracy-and-new-spell",
   title: "Chapter 127 Democracy and New Spell",

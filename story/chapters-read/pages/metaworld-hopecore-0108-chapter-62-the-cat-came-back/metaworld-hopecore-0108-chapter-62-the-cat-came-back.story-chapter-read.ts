@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0108Chapter62TheCatCameBack = {
   id: "01a06731-af09-7000-801f-c8ebc87ca358",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0108-chapter-62-the-cat-came-back",
   title: "CHAPTER 62 - The Cat Came Back",

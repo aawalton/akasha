@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning004242SumOfItsParts = {
   id: "01a06731-b05f-7000-9b5c-a714b02abcb6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0042-42-sum-of-its-parts",
   title: "42. Sum of its Parts",

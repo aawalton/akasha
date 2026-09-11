@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0042Chapter58TheForge = {
   id: "01a06591-3f83-74db-911f-d982c789df33",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0042-chapter-58-the-forge",
   title: "Chapter 58 - The Forge",

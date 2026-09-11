@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0203Chapter189ImperialCouple = {
   id: "01a06731-ad82-701b-9742-b7d4818775d4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0203-chapter-189-imperial-couple",
   title: "Chapter 189 Imperial Couple",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning001515BusyFriday = {
   id: "01a06731-b039-7000-b532-b9f3753b30be",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0015-15-busy-friday",
   title: "15. Busy Friday",

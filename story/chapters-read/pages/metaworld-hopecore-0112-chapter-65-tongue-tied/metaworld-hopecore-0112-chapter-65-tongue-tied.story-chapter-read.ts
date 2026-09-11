@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0112Chapter65TongueTied = {
   id: "01a06731-af0c-7000-b02c-40ea68b64b80",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0112-chapter-65-tongue-tied",
   title: "CHAPTER 65 - TONGUE-TIED",

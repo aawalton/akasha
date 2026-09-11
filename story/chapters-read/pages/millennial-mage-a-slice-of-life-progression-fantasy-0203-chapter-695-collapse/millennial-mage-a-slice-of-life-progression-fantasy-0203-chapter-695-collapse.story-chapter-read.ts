@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0203Chapter695Collapse = {
   id: "01a06731-ae8b-7001-9896-d1777c0a6eeb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0203-chapter-695-collapse",
   title: "Chapter: 695 - Collapse",

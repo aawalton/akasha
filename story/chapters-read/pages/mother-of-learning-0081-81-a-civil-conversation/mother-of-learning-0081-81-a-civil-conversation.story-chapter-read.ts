@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning008181ACivilConversation = {
   id: "01a06731-b09a-7000-8329-6bf690f3c274",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0081-81-a-civil-conversation",
   title: "81. A Civil Conversation",

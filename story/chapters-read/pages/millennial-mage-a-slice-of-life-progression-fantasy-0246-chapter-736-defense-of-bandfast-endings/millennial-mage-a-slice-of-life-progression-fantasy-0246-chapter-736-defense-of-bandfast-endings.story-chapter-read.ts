@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0246Chapter736DefenseOfBandfastEndings = {
   id: "01a06743-b416-7000-9cbf-5bb618cb2991",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0246-chapter-736-defense-of-bandfast-endings",
   title: "Chapter: 736 - Defense of Bandfast (Endings)",

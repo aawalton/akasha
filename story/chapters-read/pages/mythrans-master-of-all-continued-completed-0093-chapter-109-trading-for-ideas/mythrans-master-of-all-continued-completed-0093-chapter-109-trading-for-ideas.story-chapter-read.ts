@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0093Chapter109TradingForIdeas = {
   id: "01a0672c-eb3e-7000-abf6-5c1c55b20e4f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0093-chapter-109-trading-for-ideas",
   title: "Chapter 109 - Trading For Ideas",

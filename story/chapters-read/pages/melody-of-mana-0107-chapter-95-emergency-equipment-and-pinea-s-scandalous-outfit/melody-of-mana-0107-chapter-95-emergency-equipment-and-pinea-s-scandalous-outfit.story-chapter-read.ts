@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0107Chapter95EmergencyEquipmentAndPineaSScandalousOutfit = {
   id: "01a0672c-ed5f-7008-b9a3-0b9dbbbb22b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0107-chapter-95-emergency-equipment-and-pinea-s-scandalous-outfit",
   title: "Chapter 95 Emergency Equipment and Pinea's Scandalous Outfit",

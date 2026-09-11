@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0049Chapter26TheManComesAround = {
   id: "01a06731-aee0-7006-af09-5304c71cdbf6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0049-chapter-26-the-man-comes-around",
   title: "Chapter 26 - The Man Comes Around",

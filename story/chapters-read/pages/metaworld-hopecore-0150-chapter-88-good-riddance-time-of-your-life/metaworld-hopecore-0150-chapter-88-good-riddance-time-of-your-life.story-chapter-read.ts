@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0150Chapter88GoodRiddanceTimeOfYourLife = {
   id: "01a06731-af27-7000-a7c9-f8a9bc90ef5d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0150-chapter-88-good-riddance-time-of-your-life",
   title: "CHAPTER 88 - Good Riddance (Time of Your Life) ",

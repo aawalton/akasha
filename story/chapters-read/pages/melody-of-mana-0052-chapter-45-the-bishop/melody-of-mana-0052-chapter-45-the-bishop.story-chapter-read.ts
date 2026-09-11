@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0052Chapter45TheBishop = {
   id: "01a0672c-ed5d-7000-915d-f582ccafe532",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0052-chapter-45-the-bishop",
   title: "Chapter 45 The Bishop",

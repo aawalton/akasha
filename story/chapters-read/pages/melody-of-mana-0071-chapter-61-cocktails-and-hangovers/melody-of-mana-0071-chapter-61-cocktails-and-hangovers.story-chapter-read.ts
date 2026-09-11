@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0071Chapter61CocktailsAndHangovers = {
   id: "01a0672c-ed5e-7003-84dd-dde9abfa9dec",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0071-chapter-61-cocktails-and-hangovers",
   title: "Chapter 61 Cocktails and hangovers",

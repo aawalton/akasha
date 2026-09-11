@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0077Chapter577FullAuthority = {
   id: "01a06731-adc5-7000-aed7-61e068ce9be4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0077-chapter-577-full-authority",
   title: "Chapter: 577 - Full Authority",

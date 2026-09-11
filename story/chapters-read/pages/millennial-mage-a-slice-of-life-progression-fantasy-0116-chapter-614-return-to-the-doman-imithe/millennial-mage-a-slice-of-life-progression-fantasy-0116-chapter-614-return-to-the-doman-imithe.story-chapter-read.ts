@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0116Chapter614ReturnToTheDomanImithe = {
   id: "01a06731-adfd-7000-b2b3-7add08381f41",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0116-chapter-614-return-to-the-doman-imithe",
   title: "Chapter: 614 - Return to the Doman-Imithe",

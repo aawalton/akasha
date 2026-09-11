@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning006464Distance = {
   id: "01a06731-b082-7000-889a-4d2f1ea46b2b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0064-64-distance",
   title: "64. Distance",

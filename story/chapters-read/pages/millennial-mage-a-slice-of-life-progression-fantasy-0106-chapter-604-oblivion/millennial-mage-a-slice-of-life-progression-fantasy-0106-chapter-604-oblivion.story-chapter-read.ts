@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0106Chapter604Oblivion = {
   id: "01a06731-aded-7000-a934-58dbf9bc9d93",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0106-chapter-604-oblivion",
   title: "Chapter: 604 - Oblivion?",

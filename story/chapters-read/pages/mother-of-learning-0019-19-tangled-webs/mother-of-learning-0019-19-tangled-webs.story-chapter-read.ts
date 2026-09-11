@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning001919TangledWebs = {
   id: "01a06731-b03e-7000-b2d5-42cd68fc8952",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0019-19-tangled-webs",
   title: "19. Tangled Webs",

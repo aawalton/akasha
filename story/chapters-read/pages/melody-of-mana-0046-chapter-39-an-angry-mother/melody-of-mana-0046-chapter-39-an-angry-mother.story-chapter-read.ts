@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0046Chapter39AnAngryMother = {
   id: "01a0672c-ed5c-7018-94b0-79af67841ef5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0046-chapter-39-an-angry-mother",
   title: "Chapter 39 An angry mother",

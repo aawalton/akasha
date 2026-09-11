@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0024Chapter13StarryStarryNight = {
   id: "01a06731-aed6-7001-8a3a-c4f09c4f77d5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0024-chapter-13-starry-starry-night",
   title: "CHAPTER 13 - Starry Starry Night",

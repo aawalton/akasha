@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning009090ChangeOfPlans = {
   id: "01a06731-b0a9-7000-a578-fb8c66e320fb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0090-90-change-of-plans",
   title: "90. Change of Plans",

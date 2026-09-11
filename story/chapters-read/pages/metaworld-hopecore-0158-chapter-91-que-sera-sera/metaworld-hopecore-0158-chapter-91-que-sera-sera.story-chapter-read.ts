@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0158Chapter91QueSeraSera = {
   id: "01a06731-af2b-7000-a9ce-4fa6eff9d72b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0158-chapter-91-que-sera-sera",
   title: "CHAPTER 91 - Que Sera Sera",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0037Chapter32LightningStrikes = {
   id: "01a0672c-ed5c-700f-b206-6136cab83033",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0037-chapter-32-lightning-strikes",
   title: "Chapter 32 Lightning strikes",

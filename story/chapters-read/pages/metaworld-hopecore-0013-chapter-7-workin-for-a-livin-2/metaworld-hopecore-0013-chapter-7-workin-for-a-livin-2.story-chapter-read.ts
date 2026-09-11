@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0013Chapter7WorkinForALivin2 = {
   id: "01a06731-aed0-7003-9e98-0f7c03f0c5a7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0013-chapter-7-workin-for-a-livin-2",
   title: "CHAPTER 7 - Workin’ for a Livin’ (2) ",

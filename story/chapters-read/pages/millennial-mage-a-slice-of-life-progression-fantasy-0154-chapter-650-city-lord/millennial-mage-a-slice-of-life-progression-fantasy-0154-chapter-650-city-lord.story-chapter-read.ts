@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0154Chapter650CityLord = {
   id: "01a06731-ae44-7000-9680-ccc4eca93883",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0154-chapter-650-city-lord",
   title: "Chapter: 650 - City Lord?",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning003737SlowBurn = {
   id: "01a06731-b055-7000-9ed0-d4b8a3e9650e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0037-37-slow-burn",
   title: "37. Slow Burn",

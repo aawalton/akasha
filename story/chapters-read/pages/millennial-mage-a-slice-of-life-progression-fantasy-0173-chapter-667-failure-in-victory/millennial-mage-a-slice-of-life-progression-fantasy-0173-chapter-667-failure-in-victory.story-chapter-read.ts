@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0173Chapter667FailureInVictory = {
   id: "01a06731-ae64-7000-bb32-13fd9bd302c7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0173-chapter-667-failure-in-victory",
   title: "Chapter: 667 - Failure in Victory",

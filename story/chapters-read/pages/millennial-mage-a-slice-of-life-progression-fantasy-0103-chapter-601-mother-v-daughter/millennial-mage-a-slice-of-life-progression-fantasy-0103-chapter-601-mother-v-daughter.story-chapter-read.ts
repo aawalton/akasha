@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0103Chapter601MotherVDaughter = {
   id: "01a06731-ade8-7000-806b-43c2e6ce5a46",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0103-chapter-601-mother-v-daughter",
   title: "Chapter: 601 - Mother v. Daughter",

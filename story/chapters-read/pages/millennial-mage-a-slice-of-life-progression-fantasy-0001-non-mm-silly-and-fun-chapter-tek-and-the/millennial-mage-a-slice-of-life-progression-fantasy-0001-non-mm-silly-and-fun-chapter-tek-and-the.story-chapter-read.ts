@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0001NonMmSillyAndFunChapterTekAndThe = {
   id: "01a06731-ad60-7000-b700-efd306b4b2b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0001-non-mm-silly-and-fun-chapter-tek-and-the",
   title: "Non-MM, Silly and Fun Chapter - Tek and the Wizard's Cat",

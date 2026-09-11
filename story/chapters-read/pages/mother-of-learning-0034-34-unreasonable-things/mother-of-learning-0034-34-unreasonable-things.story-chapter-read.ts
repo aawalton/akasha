@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning003434UnreasonableThings = {
   id: "01a06731-b052-7000-a527-ec5e2edceb34",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0034-34-unreasonable-things",
   title: "34. Unreasonable Things",

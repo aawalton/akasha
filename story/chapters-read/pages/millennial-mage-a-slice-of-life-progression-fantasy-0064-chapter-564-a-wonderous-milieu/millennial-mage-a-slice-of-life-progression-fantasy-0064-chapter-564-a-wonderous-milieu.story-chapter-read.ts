@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0064Chapter564AWonderousMilieu = {
   id: "01a06731-adb2-7000-a5a5-cd36ee52c0b1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0064-chapter-564-a-wonderous-milieu",
   title: "Chapter: 564 - A Wonderous Milieu",

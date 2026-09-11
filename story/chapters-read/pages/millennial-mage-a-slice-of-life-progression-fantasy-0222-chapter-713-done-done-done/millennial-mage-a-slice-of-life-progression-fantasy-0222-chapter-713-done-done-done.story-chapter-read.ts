@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0222Chapter713DoneDoneDone = {
   id: "01a06743-b3da-7000-9f97-4b2758532d64",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0222-chapter-713-done-done-done",
   title: "Chapter: 713 - Done, Done, Done",

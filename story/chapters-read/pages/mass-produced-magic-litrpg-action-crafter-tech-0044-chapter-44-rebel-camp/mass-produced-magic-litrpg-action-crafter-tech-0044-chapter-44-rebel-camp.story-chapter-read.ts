@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const massProducedMagicLitrpgActionCrafterTech0044Chapter44RebelCamp = {
   id: "01a06731-afb2-7007-95cc-86f19cfa405d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0044-chapter-44-rebel-camp",
   title: "Chapter 44 – Rebel Camp",

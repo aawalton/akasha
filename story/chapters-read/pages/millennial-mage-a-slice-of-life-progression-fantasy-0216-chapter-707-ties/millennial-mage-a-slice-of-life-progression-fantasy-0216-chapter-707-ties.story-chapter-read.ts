@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0216Chapter707Ties = {
   id: "01a06743-b3ce-7001-97cd-0613c551b837",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0216-chapter-707-ties",
   title: "Chapter: 707 - Ties",

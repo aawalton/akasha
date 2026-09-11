@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0174Chapter668MeetingWithPillarSanguis = {
   id: "01a06731-ae65-7000-80fd-57fdd63d5105",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0174-chapter-668-meeting-with-pillar-sanguis",
   title: "Chapter: 668 - Meeting with Pillar Sanguis",

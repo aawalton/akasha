@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning001414TheSisterEffect = {
   id: "01a06731-b038-7000-b650-a35ef68ab266",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0014-14-the-sister-effect",
   title: "14. The Sister Effect",

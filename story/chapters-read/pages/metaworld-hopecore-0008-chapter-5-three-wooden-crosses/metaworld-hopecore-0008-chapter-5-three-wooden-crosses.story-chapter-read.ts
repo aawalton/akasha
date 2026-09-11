@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0008Chapter5ThreeWoodenCrosses = {
   id: "01a06731-aece-7000-8e20-661089ca4769",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0008-chapter-5-three-wooden-crosses",
   title: "CHAPTER 5 - Three Wooden Crosses",

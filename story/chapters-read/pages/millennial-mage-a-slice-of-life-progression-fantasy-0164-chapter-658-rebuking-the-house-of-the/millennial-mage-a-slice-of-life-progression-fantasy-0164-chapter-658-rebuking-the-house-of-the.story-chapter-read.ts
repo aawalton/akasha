@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0164Chapter658RebukingTheHouseOfThe = {
   id: "01a06731-ae53-7000-a0ed-94f7332a13ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0164-chapter-658-rebuking-the-house-of-the",
   title: "Chapter: 658 - Rebuking the House of the Frost Lance",

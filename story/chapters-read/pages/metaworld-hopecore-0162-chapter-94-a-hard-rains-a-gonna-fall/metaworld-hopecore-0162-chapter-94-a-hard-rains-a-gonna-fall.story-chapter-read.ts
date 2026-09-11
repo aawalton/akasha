@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0162Chapter94AHardRainsAGonnaFall = {
   id: "01a06731-af31-7000-922e-d3c8e583a344",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0162-chapter-94-a-hard-rains-a-gonna-fall",
   title: "CHAPTER 94 — A Hard Rain's A-Gonna Fall",

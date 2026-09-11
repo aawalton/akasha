@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0152Chapter648PareshAgain = {
   id: "01a06731-ae40-7000-89c2-638ebe5d0a5e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0152-chapter-648-paresh-again",
   title: "Chapter: 648 - Paresh Again",

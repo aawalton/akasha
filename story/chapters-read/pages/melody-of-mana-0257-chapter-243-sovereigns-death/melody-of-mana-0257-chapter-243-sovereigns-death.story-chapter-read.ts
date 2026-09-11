@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0257Chapter243SovereignsDeath = {
   id: "01a06731-ad85-7003-ba27-26abea1225c3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0257-chapter-243-sovereigns-death",
   title: "Chapter 243 Sovereigns' Death",

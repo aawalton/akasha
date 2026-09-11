@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0229Chapter720LeaAndRane = {
   id: "01a06743-b3e5-7000-abc1-86ad366d47cd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0229-chapter-720-lea-and-rane",
   title: "Chapter: 720 - Lea and Rane",

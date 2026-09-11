@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0196Chapter688LongHiddenFears = {
   id: "01a06731-ae84-7000-a54f-ba487253f897",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0196-chapter-688-long-hidden-fears",
   title: "Chapter: 688 - Long Hidden Fears",

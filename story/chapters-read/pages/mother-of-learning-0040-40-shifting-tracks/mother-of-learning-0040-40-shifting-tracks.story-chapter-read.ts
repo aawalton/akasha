@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning004040ShiftingTracks = {
   id: "01a06731-b05c-7000-89ba-d3ea0f5d60f5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0040-40-shifting-tracks",
   title: "40. Shifting Tracks",

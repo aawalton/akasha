@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0161Chapter147ThePrinceSGambits = {
   id: "01a06731-ad81-700d-abbb-cf87818d7be2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0161-chapter-147-the-prince-s-gambits",
   title: "Chapter 147 The Prince's Gambits",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0096Chapter91Boundaries = {
   id: "01a06591-3f7b-782d-ab64-d6f7c412cad4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0096-chapter-91-boundaries",
   title: "Chapter 91 Boundaries",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0026Chapter42BasicLabor = {
   id: "01a06591-3f81-7e09-8911-4420bcfd3a3d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0026-chapter-42-basic-labor",
   title: "Chapter 42 - Basic Labor",

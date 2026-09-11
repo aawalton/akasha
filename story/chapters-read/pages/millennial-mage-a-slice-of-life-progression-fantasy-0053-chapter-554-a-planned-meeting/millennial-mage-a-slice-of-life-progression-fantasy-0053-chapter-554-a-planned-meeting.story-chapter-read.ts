@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0053Chapter554APlannedMeeting = {
   id: "01a06731-ada4-7000-a894-8c0089f5fd8a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0053-chapter-554-a-planned-meeting",
   title: "Chapter: 554 - A Planned Meeting",

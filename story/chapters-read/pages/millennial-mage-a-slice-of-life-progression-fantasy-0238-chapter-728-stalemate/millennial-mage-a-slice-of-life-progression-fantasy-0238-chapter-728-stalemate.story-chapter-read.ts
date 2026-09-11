@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0238Chapter728Stalemate = {
   id: "01a06743-b3f1-7001-ae9d-99296402e085",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0238-chapter-728-stalemate",
   title: "Chapter: 728 - Stalemate?",

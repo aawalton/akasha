@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0099Chapter597FoxKin = {
   id: "01a06731-ade3-7000-a5e2-01f6b547b51c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0099-chapter-597-fox-kin",
   title: "Chapter: 597 - Fox-kin",

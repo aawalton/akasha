@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0192Chapter684TheDiscussionEnds = {
   id: "01a06731-ae81-7000-9912-cc831ae7d80d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0192-chapter-684-the-discussion-ends",
   title: "Chapter: 684 - The Discussion Ends",

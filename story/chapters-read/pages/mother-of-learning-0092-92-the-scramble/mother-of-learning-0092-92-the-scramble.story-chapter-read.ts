@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning009292TheScramble = {
   id: "01a06731-b0ad-7000-a2b8-f5f0ffed5db2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0092-92-the-scramble",
   title: "92. The Scramble",

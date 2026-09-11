@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0208Chapter700ARoyalGambit = {
   id: "01a06731-ae92-7000-8ec4-80e8685b5947",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0208-chapter-700-a-royal-gambit",
   title: "Chapter: 700 - A Royal Gambit",

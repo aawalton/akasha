@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0118Chapter616Abrasion = {
   id: "01a06731-ae01-7000-8fa1-0f62860010fe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0118-chapter-616-abrasion",
   title: "Chapter: 616 - Abrasion",

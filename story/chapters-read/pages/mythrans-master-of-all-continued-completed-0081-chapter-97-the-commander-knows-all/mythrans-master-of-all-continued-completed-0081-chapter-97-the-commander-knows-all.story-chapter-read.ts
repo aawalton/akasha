@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0081Chapter97TheCommanderKnowsAll = {
   id: "01a0672c-eb2e-7000-95cc-c9e5a1ba787c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0081-chapter-97-the-commander-knows-all",
   title: "Chapter 97 - The Commander Knows All",

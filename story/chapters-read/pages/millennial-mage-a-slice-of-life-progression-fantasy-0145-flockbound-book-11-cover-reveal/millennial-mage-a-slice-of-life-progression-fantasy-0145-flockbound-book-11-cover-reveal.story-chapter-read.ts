@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0145FlockboundBook11CoverReveal = {
   id: "01a06731-ae2d-7000-87ff-95d179453ad5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0145-flockbound-book-11-cover-reveal",
   title: "Flockbound - Book 11 Cover Reveal!",

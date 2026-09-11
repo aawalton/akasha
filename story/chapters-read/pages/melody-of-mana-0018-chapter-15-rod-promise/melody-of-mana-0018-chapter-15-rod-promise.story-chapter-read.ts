@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0018Chapter15RodPromise = {
   id: "01a0672c-ed5b-7006-a842-e6aae80b6a91",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0018-chapter-15-rod-promise",
   title: "Chapter 15 Rod- Promise",

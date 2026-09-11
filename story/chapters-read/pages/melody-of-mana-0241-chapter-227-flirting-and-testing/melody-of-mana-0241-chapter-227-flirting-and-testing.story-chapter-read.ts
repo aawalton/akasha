@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0241Chapter227FlirtingAndTesting = {
   id: "01a06731-ad84-700e-8961-f258b00051a0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0241-chapter-227-flirting-and-testing",
   title: "Chapter 227 Flirting and Testing",

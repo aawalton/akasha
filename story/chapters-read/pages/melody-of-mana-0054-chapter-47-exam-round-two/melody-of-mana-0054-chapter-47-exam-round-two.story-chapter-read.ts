@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0054Chapter47ExamRoundTwo = {
   id: "01a0672c-ed5d-7002-ad79-118f6a7cdfbf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0054-chapter-47-exam-round-two",
   title: "Chapter 47 Exam Round Two",

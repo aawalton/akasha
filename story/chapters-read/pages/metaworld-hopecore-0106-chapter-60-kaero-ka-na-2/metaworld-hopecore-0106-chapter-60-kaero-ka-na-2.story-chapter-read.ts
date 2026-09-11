@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0106Chapter60KaeroKaNa2 = {
   id: "01a06731-af07-7000-a402-804791f7872c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0106-chapter-60-kaero-ka-na-2",
   title: "CHAPTER 60 - Kaerō ka na (2) ",

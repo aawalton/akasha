@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0046Chapter62LetThemEatCake = {
   id: "01a06591-3f83-7f4a-9dc5-f172e3b664fb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0046-chapter-62-let-them-eat-cake",
   title: "Chapter 62 - Let Them Eat Cake",

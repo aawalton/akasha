@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0064Chapter55LightSpyingAndTheWalk = {
   id: "01a0672c-ed5d-700c-be38-9016e525512c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0064-chapter-55-light-spying-and-the-walk",
   title: "Chapter 55 Light spying and the walk",

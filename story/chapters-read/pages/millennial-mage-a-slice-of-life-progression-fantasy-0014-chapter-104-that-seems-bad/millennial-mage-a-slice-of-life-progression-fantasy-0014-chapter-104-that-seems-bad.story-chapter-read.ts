@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0014Chapter104ThatSeemsBad = {
   id: "01a06731-ad72-7000-9dab-b33de09eb511",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0014-chapter-104-that-seems-bad",
   title: "Chapter: 104 - That Seems Bad",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0091Chapter107BackToHouseNeram = {
   id: "01a0672c-eb39-7000-baa6-900cc19d0cb4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0091-chapter-107-back-to-house-neram",
   title: "Chapter 107 - Back To House Neram",

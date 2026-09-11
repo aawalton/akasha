@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const massProducedMagicLitrpgActionCrafterTech0040Chapter40NecromanticInterlude = {
   id: "01a06731-afb2-7003-a56d-82aa614d36e2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0040-chapter-40-necromantic-interlude",
   title: "Chapter 40 – Necromantic Interlude",

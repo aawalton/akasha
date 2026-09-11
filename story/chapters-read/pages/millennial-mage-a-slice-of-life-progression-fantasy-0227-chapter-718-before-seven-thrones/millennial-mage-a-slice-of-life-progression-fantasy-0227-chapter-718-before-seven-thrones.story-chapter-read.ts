@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0227Chapter718BeforeSevenThrones = {
   id: "01a06743-b3e1-7000-8917-8062ec62fc2e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0227-chapter-718-before-seven-thrones",
   title: "Chapter: 718 - Before Seven Thrones",

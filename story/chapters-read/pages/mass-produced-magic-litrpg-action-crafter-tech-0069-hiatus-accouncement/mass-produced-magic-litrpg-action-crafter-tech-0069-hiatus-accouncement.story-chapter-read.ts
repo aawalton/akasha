@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const massProducedMagicLitrpgActionCrafterTech0069HiatusAccouncement = {
   id: "01a06731-afb3-700a-8c49-f95b479f0b3c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0069-hiatus-accouncement",
   title: "Hiatus Accouncement",

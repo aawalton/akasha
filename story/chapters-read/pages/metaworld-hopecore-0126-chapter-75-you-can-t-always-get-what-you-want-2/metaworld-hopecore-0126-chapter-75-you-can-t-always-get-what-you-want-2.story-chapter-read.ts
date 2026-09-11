@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0126Chapter75YouCanTAlwaysGetWhatYouWant2 = {
   id: "01a06731-af18-7001-accb-534bfcc93366",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0126-chapter-75-you-can-t-always-get-what-you-want-2",
   title: "CHAPTER 75 - You Can’t Always Get What You Want (2) ",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0099Chapter56Sukiyaki = {
   id: "01a06731-aeff-7000-b36c-1443eb2c87ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0099-chapter-56-sukiyaki",
   title: "CHAPTER 56 - Sukiyaki",

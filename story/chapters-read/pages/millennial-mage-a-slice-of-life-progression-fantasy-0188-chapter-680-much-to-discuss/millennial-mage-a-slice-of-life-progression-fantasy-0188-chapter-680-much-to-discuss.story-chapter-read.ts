@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0188Chapter680MuchToDiscuss = {
   id: "01a06731-ae79-7001-a5b5-b06bb5aed3aa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0188-chapter-680-much-to-discuss",
   title: "Chapter: 680 - Much to Discuss",

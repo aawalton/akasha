@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0014Chapter8TearsOfAClown = {
   id: "01a06731-aed0-7004-b79a-e705fdada2c6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0014-chapter-8-tears-of-a-clown",
   title: "CHAPTER 8 -Tears of a Clown",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0247Chapter233SilverspringsMelee = {
   id: "01a06731-ad84-7014-a2de-ef200f882505",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0247-chapter-233-silversprings-melee",
   title: "Chapter 233 Silversprings Melee",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning008080Enemies = {
   id: "01a06731-b099-7000-aeef-464e2b343573",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0080-80-enemies",
   title: "80. Enemies",

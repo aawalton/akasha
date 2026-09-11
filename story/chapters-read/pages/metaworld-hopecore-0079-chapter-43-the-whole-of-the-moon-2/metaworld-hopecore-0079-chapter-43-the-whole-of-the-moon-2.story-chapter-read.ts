@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0079Chapter43TheWholeOfTheMoon2 = {
   id: "01a06731-aeec-7000-8da7-e46716bf4eef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0079-chapter-43-the-whole-of-the-moon-2",
   title: "Chapter 43 - The Whole of the Moon (2) ",

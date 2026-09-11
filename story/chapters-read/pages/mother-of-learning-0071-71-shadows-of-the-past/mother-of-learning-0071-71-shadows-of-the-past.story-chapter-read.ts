@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning007171ShadowsOfThePast = {
   id: "01a06731-b08c-7000-bd7f-19501c6a9d1b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0071-71-shadows-of-the-past",
   title: "71. Shadows of the Past",

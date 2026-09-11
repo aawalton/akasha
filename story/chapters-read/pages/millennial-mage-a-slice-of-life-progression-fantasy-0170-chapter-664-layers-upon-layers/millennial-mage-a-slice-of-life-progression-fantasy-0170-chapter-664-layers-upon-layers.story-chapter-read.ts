@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0170Chapter664LayersUponLayers = {
   id: "01a06731-ae5e-7000-9636-2d220c0442c9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0170-chapter-664-layers-upon-layers",
   title: "Chapter: 664 - Layers Upon Layers",

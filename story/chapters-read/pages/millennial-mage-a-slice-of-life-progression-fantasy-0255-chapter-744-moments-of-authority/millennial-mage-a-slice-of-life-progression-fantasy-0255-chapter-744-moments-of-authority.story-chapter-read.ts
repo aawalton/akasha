@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0255Chapter744MomentsOfAuthority = {
   id: "01a06743-b41f-7001-96ca-1d48a5601cfc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0255-chapter-744-moments-of-authority",
   title: "Chapter: 744 - Moments of Authority",

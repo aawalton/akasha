@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0247HomeboundBook13CoverReveal = {
   id: "01a06743-b417-7000-997b-d270e39ad962",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0247-homebound-book-13-cover-reveal",
   title: "Homebound - Book 13 Cover Reveal!",

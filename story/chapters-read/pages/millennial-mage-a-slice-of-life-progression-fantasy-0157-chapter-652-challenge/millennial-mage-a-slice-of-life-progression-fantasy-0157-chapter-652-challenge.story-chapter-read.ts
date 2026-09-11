@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0157Chapter652Challenge = {
   id: "01a06731-ae47-7000-acee-1926f7e20ae2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0157-chapter-652-challenge",
   title: "Chapter: 652 - Challenge",

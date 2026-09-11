@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0115Chapter67AmIWrong = {
   id: "01a06731-af0f-7002-95ea-78aed33fbfb0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0115-chapter-67-am-i-wrong",
   title: "CHAPTER 67 - Am I Wrong",

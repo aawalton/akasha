@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0155Chapter90TheKillingMoon2 = {
   id: "01a06731-af28-7002-97e7-91e612717566",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0155-chapter-90-the-killing-moon-2",
   title: " CHAPTER 90 — The Killing Moon (2) ",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0020Chapter11LifeOnMars = {
   id: "01a06731-aed2-7001-b95b-73bbeedfb83d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0020-chapter-11-life-on-mars",
   title: "CHAPTER 11 - Life on Mars",

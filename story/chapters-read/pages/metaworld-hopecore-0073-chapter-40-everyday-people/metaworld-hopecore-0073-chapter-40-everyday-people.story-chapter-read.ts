@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0073Chapter40EverydayPeople = {
   id: "01a06731-aeeb-7000-874e-3b6eb1d074b1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0073-chapter-40-everyday-people",
   title: "Chapter 40 - Everyday People",

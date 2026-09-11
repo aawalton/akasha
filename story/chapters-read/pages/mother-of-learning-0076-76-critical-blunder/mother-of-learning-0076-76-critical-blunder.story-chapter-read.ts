@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning007676CriticalBlunder = {
   id: "01a06731-b095-7000-9199-dc15b185bed7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0076-76-critical-blunder",
   title: "76. Critical Blunder",

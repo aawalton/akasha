@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning003030AGameOfShops = {
   id: "01a06731-b04e-7000-a05d-ae79b6f4f58d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0030-30-a-game-of-shops",
   title: "30. A Game of Shops",

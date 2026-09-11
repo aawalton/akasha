@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0183Chapter676WakingSparringBalance = {
   id: "01a06731-ae72-7000-bf23-58cbad327734",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0183-chapter-676-waking-sparring-balance",
   title: "Chapter: 676 - Waking, Sparring, Balance",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0096Chapter594TherapeuticViolence = {
   id: "01a06731-addd-7001-8be0-802755ca8037",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0096-chapter-594-therapeutic-violence",
   title: "Chapter: 594 - Therapeutic  Violence",

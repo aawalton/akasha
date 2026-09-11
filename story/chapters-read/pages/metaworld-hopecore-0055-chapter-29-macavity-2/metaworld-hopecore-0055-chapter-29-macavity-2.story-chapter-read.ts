@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0055Chapter29Macavity2 = {
   id: "01a06731-aee4-7000-a008-538907a35069",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0055-chapter-29-macavity-2",
   title: "Chapter 29 - Macavity (2) ",

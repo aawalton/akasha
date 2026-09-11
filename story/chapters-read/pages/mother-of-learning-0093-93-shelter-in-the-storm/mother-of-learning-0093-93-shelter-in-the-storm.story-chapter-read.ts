@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning009393ShelterInTheStorm = {
   id: "01a06731-b0b0-7000-ac0e-d0e18d83dd38",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0093-93-shelter-in-the-storm",
   title: "93. Shelter in the Storm",

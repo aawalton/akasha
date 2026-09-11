@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0062Chapter58Undertone = {
   id: "01a06591-3f77-7125-8491-b59487f62465",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0062-chapter-58-undertone",
   title: "Chapter 58 Undertone",

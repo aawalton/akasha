@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0100Chapter598FightViewRestaurant = {
   id: "01a06731-ade4-7000-bbb7-ec755e13657f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0100-chapter-598-fight-view-restaurant",
   title: "Chapter: 598 - Fight-View Restaurant",

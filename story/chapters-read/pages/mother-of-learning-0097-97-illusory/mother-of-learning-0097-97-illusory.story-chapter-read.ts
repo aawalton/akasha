@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning009797Illusory = {
   id: "01a06731-b0b6-7000-8181-76d9510d4a7e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0097-97-illusory",
   title: "97. Illusory",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0023Chapter12ADayInTheLife2 = {
   id: "01a06731-aed6-7000-b696-564da36b59d3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0023-chapter-12-a-day-in-the-life-2",
   title: "CHAPTER 12 - A Day in the Life (2) ",

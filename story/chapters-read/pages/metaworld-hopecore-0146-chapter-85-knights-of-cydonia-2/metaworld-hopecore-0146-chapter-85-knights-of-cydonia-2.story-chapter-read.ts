@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0146Chapter85KnightsOfCydonia2 = {
   id: "01a06731-af21-7001-b1e8-85e9aa560d10",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0146-chapter-85-knights-of-cydonia-2",
   title: "CHAPTER 85 - Knights of Cydonia (2) ",

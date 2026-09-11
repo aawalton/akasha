@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0063Chapter34BridgeOverTroubledWater2 = {
   id: "01a06731-aee8-7001-b41b-eef8240db1c1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0063-chapter-34-bridge-over-troubled-water-2",
   title: "Chapter 34 - Bridge Over Troubled Water (2) ",

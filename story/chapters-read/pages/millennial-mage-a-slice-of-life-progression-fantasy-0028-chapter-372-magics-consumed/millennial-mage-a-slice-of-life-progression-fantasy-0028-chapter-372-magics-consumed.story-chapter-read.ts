@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0028Chapter372MagicsConsumed = {
   id: "01a06731-ad80-7001-90e7-0e1a3d6f0815",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0028-chapter-372-magics-consumed",
   title: "Chapter: 372 - Magics Consumed",

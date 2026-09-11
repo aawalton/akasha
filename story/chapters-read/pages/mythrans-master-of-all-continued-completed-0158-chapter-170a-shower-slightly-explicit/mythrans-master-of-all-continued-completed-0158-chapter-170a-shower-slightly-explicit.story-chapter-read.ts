@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0158Chapter170aShowerSlightlyExplicit = {
   id: "01a0672c-eb99-7000-8a3e-daff0a24e891",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0158-chapter-170a-shower-slightly-explicit",
   title: "Chapter 170A - Shower (Slightly Explicit)",

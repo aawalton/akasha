@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0122Chapter109AQuickOutingAndIrritatedMentor = {
   id: "01a0672c-ed5f-7017-92d0-fc0239efacbf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0122-chapter-109-a-quick-outing-and-irritated-mentor",
   title: "Chapter 109 A Quick Outing and Irritated Mentor",

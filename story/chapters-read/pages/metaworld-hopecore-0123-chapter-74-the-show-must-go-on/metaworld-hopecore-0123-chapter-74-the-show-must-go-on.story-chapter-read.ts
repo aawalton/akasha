@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0123Chapter74TheShowMustGoOn = {
   id: "01a06731-af16-7001-be1a-9981865aac6f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0123-chapter-74-the-show-must-go-on",
   title: "CHAPTER 74 - The Show Must Go On",

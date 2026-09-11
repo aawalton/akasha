@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0155Chapter168AnOldFriend = {
   id: "01a0672c-eb95-7000-9640-8a192e3d6148",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0155-chapter-168-an-old-friend",
   title: "Chapter 168 - An Old Friend",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0202Chapter694IntoTheHold = {
   id: "01a06731-ae8b-7000-b7e5-b03782a8ba0b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0202-chapter-694-into-the-hold",
   title: "Chapter: 694 - Into the Hold",

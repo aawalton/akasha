@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0045Chapter546SurprisingYetInevitable = {
   id: "01a06731-ad98-7000-bd4b-10dd3ccc05c9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0045-chapter-546-surprising-yet-inevitable",
   title: "Chapter: 546 - Surprising yet Inevitable",

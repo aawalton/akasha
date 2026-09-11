@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0029Chapter15CornflakeGirl2 = {
   id: "01a06731-aed7-7004-95df-045e9b8f0ad8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0029-chapter-15-cornflake-girl-2",
   title: "CHAPTER 15 - Cornflake Girl (2) ",

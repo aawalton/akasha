@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0094Chapter53KissWithAFist = {
   id: "01a06731-aefb-7000-8c8e-dd3fde7de006",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0094-chapter-53-kiss-with-a-fist",
   title: "CHAPTER 53  - Kiss With a Fist",

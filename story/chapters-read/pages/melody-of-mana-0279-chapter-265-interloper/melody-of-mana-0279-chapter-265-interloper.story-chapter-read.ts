@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0279Chapter265Interloper = {
   id: "01a06731-ad85-7019-8c34-b04fddbca55b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0279-chapter-265-interloper",
   title: "Chapter 265 Interloper",

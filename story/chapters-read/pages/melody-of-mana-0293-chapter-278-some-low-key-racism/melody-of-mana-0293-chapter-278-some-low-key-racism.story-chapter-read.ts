@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0293Chapter278SomeLowKeyRacism = {
   id: "01a06731-ad86-700d-ba52-5773d6416e80",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0293-chapter-278-some-low-key-racism",
   title: "Chapter 278 Some Low-Key Racism",

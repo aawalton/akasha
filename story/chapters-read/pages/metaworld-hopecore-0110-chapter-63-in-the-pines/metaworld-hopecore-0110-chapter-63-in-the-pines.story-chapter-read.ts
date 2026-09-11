@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const metaworldHopecore0110Chapter63InThePines = {
   id: "01a06731-af0a-7001-a852-1ba6865647ab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0110-chapter-63-in-the-pines",
   title: "CHAPTER 63 - In the Pines",

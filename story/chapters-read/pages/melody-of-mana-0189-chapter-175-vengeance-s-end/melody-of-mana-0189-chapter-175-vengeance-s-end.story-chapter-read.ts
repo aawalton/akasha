@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const melodyOfMana0189Chapter175VengeanceSEnd = {
   id: "01a06731-ad82-700d-87f0-89fb5a3f78b0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "melody-of-mana-0189-chapter-175-vengeance-s-end",
   title: "Chapter 175 Vengeance's End",

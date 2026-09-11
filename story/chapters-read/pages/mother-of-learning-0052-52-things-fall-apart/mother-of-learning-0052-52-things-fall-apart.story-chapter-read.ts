@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const motherOfLearning005252ThingsFallApart = {
   id: "01a06731-b06e-7000-a13b-97352fa435e2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mother-of-learning-0052-52-things-fall-apart",
   title: "52. Things Fall Apart",

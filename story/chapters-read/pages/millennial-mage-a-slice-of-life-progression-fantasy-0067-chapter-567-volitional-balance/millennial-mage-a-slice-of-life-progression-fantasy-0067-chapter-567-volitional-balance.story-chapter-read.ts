@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const millennialMageASliceOfLifeProgressionFantasy0067Chapter567VolitionalBalance = {
   id: "01a06731-adb4-7000-a102-aadfd2065681",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0067-chapter-567-volitional-balance",
   title: "Chapter: 567 - Volitional Balance",

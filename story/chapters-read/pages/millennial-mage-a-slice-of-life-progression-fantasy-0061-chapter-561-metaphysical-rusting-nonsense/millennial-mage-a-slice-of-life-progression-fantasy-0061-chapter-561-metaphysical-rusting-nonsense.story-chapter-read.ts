@@ -3,7 +3,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 export const millennialMageASliceOfLifeProgressionFantasy0061Chapter561MetaphysicalRustingNonsense =
   {
     id: "01a06731-adad-7000-8ff8-3aed606b10ca",
-    pageTypeSlug: "story-chapter-read",
     type: "story-chapter-read",
     slug: "millennial-mage-a-slice-of-life-progression-fantasy-0061-chapter-561-metaphysical-rusting-nonsense",
     title: "Chapter: 561 - Metaphysical Rusting Nonsense",
