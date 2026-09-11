@@ -92,4 +92,5 @@ export const temperCompanionsAddon = {
       statement: "Nothing here reads another player's companion.",
     },
   ],
+  deployedCommit: "74dde4f3f0af7fd3219764044aee270d66c3be68",
 } as const satisfies EsoAddon
