@@ -7,4 +7,10 @@ export const textAt = {
   definition: "the non-empty text a record holds under a key, or nothing",
   code: "ts",
   test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A record that is not there holds no text under any key.",
+    },
+  ],
 } as const satisfies Module

@@ -10,4 +10,8 @@ describe("textAt", () => {
     expect(textAt({ tool_name: "" }, "tool_name")).toBe(null)
     expect(textAt({}, "tool_name")).toBe(null)
   })
+
+  test("answers nothing where the record is not there", () => {
+    expect(textAt(null, "tool_name")).toBe(null)
+  })
 })

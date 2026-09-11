@@ -1,5 +1,6 @@
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { attributesOf, recordedModeOf } from "../seat-attributes/seat-attributes.module.code.ts"
 import {
   frontmatterFromHistory,
@@ -27,13 +28,8 @@ function bareSlug(value: string | null): string | null {
   return value === null ? null : (slugIn(value) ?? value)
 }
 
-function slugAt(frontmatter: Record<string, unknown> | null, key: string): string | null {
-  const held = frontmatter?.[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
-
 function parentFromFrontmatter(frontmatter: Record<string, unknown> | null): string | null {
-  const name = slugAt(frontmatter, "principal-seat-name")
+  const name = textAt(frontmatter, "principal-seat-name")
   return name === null ? null : seatIdForName(name)
 }
 
@@ -58,11 +54,11 @@ function fromHistory(agentId: string): SeatWhoami | null {
   return {
     id: agentId,
     name: nameFromHistory(agentId, roots),
-    role: slugAt(frontmatter, "role-slug"),
-    domain: bareSlug(slugAt(frontmatter, "domain-slug")),
-    persona: slugAt(frontmatter, "persona-slug"),
-    mode: slugAt(frontmatter, "start-mode"),
-    principal: slugAt(frontmatter, "person-slug") ?? slugAt(frontmatter, "principal-seat-name"),
+    role: textAt(frontmatter, "role-slug"),
+    domain: bareSlug(textAt(frontmatter, "domain-slug")),
+    persona: textAt(frontmatter, "persona-slug"),
+    mode: textAt(frontmatter, "start-mode"),
+    principal: textAt(frontmatter, "person-slug") ?? textAt(frontmatter, "principal-seat-name"),
     parentAgentId: parentFromFrontmatter(frontmatter),
   }
 }
@@ -76,5 +72,5 @@ export function seatWhoami(agentId: string): SeatWhoami | null {
 export function seatTitle(agentId: string): string | null {
   const held = pageTextOf(agentId, "title")
   if (held !== null) return held
-  return slugAt(frontmatterFromHistory(agentId, resolveRoots()), "title")
+  return textAt(frontmatterFromHistory(agentId, resolveRoots()), "title")
 }

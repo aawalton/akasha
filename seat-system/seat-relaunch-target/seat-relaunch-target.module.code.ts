@@ -1,4 +1,5 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,
@@ -17,11 +18,6 @@ export interface RelaunchTarget {
   readonly account: string | null
   readonly presence: SeatPresence
   readonly sessionId: string | null
-}
-
-function textAt(frontmatter: Record<string, unknown> | null, key: string): string | null {
-  const held = frontmatter?.[key]
-  return typeof held === "string" && held !== "" ? held : null
 }
 
 function fromHistory(agentId: string): RelaunchTarget | null {
