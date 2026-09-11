@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import { moveCodeExportCommand } from "akasha/changes/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"
 import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as moveCodeExport } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
+import { addedAt } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test-fixtures.ts"
 import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -69,11 +69,6 @@ function worldOf(held: Readonly<Record<string, string>>, importers: readonly str
     over: NOTHING_OVER,
     reaching: RUNS,
   }
-}
-
-function addedAt(said: Answer, path: string): string {
-  const found = said.edits.flatMap((one) => (one.kind === "add" && one.path === path ? [one] : []))
-  return found[0]?.content ?? ""
 }
 
 test("the three arguments are answered as the edits the move leaves", async () => {
