@@ -9,6 +9,7 @@ import {
   everyOfType,
   everyPath,
   importersOf,
+  indexNamed,
   listedById,
   listedByPath,
   listedFor,
@@ -198,7 +199,7 @@ test("an id directory standing nowhere under a standing index is nothing rather 
 test("every reader is refused where the index stands nowhere, whatever it was asked", () => {
   const root = rootAt()
 
-  expect(() => listedById(root, A)).toThrow(/\.git\/data\/index/)
+  expect(() => listedById(root, A)).toThrow(indexNamed())
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
   expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
