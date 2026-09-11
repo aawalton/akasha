@@ -22,7 +22,6 @@ import {
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
-import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { type Held, heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
@@ -31,7 +30,6 @@ import type {
   FoldersBy,
   UncommittedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import {
   claimsOf,
   type IsThere,
@@ -272,11 +270,9 @@ export type Reading = {
   readonly root: string
   readonly shadow: Shadow
   readonly grouped: Grouped
-  readonly textAt: (path: string) => string | null
 }
 
 export type Judging = {
-  readonly naming: Naming
   readonly holds: Holds
   readonly heldNames: ReadonlySet<string>
   readonly refusalsAt: (folders: Iterable<string>) => readonly Judged[]
@@ -290,7 +286,6 @@ export function judgingOver(given: Reading): Judging {
   const stated = index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
-  const naming = reachingOf(index.manifestsBeside(stated), given.textAt)
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
@@ -362,5 +357,5 @@ export function judgingOver(given: Reading): Judging {
     }
     return found
   }
-  return { naming, holds, heldNames, refusalsAt }
+  return { holds, heldNames, refusalsAt }
 }
