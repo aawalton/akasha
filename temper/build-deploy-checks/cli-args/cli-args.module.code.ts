@@ -1,5 +1,5 @@
+import { suggestClosest } from "akasha/temper/build-deploy-checks/suggest-closest/suggest-closest.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { suggestClosest } from "../suggest-closest/suggest-closest.module.code.ts"
 
 export type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }

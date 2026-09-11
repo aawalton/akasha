@@ -3,16 +3,19 @@ import {
   formatIssue,
   type Issue,
   scanBundleFile,
-} from "../addon-banned-symbols/addon-banned-symbols.module.code.ts"
+} from "akasha/temper/build-deploy-checks/addon-banned-symbols/addon-banned-symbols.module.code.ts"
 import {
   ADDON_BUNDLE_UNIT,
   type AddonDistBundles,
   collectAddonDistBundles,
   refuseAddonDistPopulation,
-} from "../addon-dist-bundles/addon-dist-bundles.module.code.ts"
-import { parseSingleFileFlag } from "../cli-args/cli-args.module.code.ts"
-import { errnoCode, errorMessage } from "../error-message/error-message.module.code.ts"
-import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
+} from "akasha/temper/build-deploy-checks/addon-dist-bundles/addon-dist-bundles.module.code.ts"
+import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
+import {
+  errnoCode,
+  errorMessage,
+} from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 
 const GATE = "addon-sandbox-safety"
 

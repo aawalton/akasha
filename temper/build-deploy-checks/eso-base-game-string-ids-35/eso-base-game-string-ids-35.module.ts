@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const esoBaseGameStringIds35 = {
   id: "01a06372-72ff-7023-a1c8-7b553a8da0a3",

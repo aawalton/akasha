@@ -1,5 +1,5 @@
+import { readFieldKey } from "akasha/temper/build-deploy-checks/ts-node-shapes/ts-node-shapes.module.code.ts"
 import ts from "typescript"
-import { readFieldKey } from "../ts-node-shapes/ts-node-shapes.module.code.ts"
 
 export function parseAddonSource(source: string, filePath: string): ts.SourceFile {
   return ts.createSourceFile(filePath, source, ts.ScriptTarget.Latest, true)

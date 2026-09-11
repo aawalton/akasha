@@ -4,16 +4,19 @@ import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-r
 import {
   type DispatchFinding,
   detectNonDispatchHandlers,
-} from "../addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts"
+} from "akasha/temper/build-deploy-checks/addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts"
 import {
   addonRosterIsEmpty,
   EMPTY_ADDON_ROSTER_HINT,
-} from "../addon-roster-guard/addon-roster-guard.module.code.ts"
-import { addonMarkupFiles } from "../addon-source-files/addon-source-files.module.code.ts"
-import { parseArgs as parseCliArgs, REPO_ROOT_FLAG } from "../cli-args/cli-args.module.code.ts"
-import { errorMessage } from "../error-message/error-message.module.code.ts"
-import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
-import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
+} from "akasha/temper/build-deploy-checks/addon-roster-guard/addon-roster-guard.module.code.ts"
+import { addonMarkupFiles } from "akasha/temper/build-deploy-checks/addon-source-files/addon-source-files.module.code.ts"
+import {
+  parseArgs as parseCliArgs,
+  REPO_ROOT_FLAG,
+} from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
+import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
+import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"
 
 const PREFIX = "[addon-inline-handler-dispatch]"
 

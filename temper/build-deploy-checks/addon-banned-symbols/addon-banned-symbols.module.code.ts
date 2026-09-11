@@ -1,6 +1,4 @@
 import { readFileSync } from "node:fs"
-import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
-import { z } from "zod"
 import {
   ESO_AVAILABLE_COROUTINE,
   ESO_AVAILABLE_DEBUG,
@@ -11,7 +9,9 @@ import {
   ESO_AVAILABLE_UTF8,
   ESO_STRIPPED_GLOBALS,
   ESO_WHOLLY_STRIPPED_NAMESPACES,
-} from "../eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts"
+} from "akasha/temper/build-deploy-checks/eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts"
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { z } from "zod"
 
 const MATCH_GROUPS_SCHEMA = z
   .object({

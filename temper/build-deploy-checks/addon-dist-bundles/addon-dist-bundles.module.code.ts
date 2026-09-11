@@ -1,6 +1,6 @@
 import { readdirSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
+import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 
 export const ADDON_DIST_REL = "temper/addons/dist"
 

@@ -1,15 +1,18 @@
-import { parseArgs as parseCliArgs, REPO_ROOT_FLAG } from "../cli-args/cli-args.module.code.ts"
-import { errorMessage } from "../error-message/error-message.module.code.ts"
+import {
+  parseArgs as parseCliArgs,
+  REPO_ROOT_FLAG,
+} from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
+import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,
-} from "../eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
+} from "akasha/temper/build-deploy-checks/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
 import {
   evaluateEsoTypingsFreshness,
   type StampedArtifact,
-} from "../eso-doc-api-version/eso-doc-api-version.module.code.ts"
-import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
-import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
+} from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
+import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"
 
 function generatorsCovered(artifacts: readonly StampedArtifact[]): number {
   return new Set(artifacts.map((a) => a.generator)).size

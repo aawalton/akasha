@@ -1,8 +1,8 @@
-import { z } from "zod"
 import {
   buildSandboxGlobals,
   type SandboxGlobalsConfig,
-} from "../eso-sandbox-globals/eso-sandbox-globals.module.code.ts"
+} from "akasha/temper/build-deploy-checks/eso-sandbox-globals/eso-sandbox-globals.module.code.ts"
+import { z } from "zod"
 
 export interface SandboxVm {
   setGlobal: (name: string, value: unknown) => void

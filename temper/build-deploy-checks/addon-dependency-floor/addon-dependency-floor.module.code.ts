@@ -1,5 +1,5 @@
+import { stripVersionSuffix } from "akasha/temper/build-deploy-checks/addon-dependency-cycle/addon-dependency-cycle.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { stripVersionSuffix } from "../addon-dependency-cycle/addon-dependency-cycle.module.code.ts"
 
 export type DependencyDirective = "dependsOn" | "optionalDependsOn"
 

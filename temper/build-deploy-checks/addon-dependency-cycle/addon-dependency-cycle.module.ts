@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const addonDependencyCycle = {
   id: "01a06297-7f6a-7306-9a6f-acca84ccb4b8",
