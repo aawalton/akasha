@@ -33,6 +33,10 @@ const SLUG_AT = "text-property/slug"
 
 const CHOSEN = new Set(["rank-property", "select-property"])
 
+const FILE_PROPERTY = "file-property"
+
+const EXTENSIONS = "extensions"
+
 const COMPUTED = "computed-property"
 
 const ONE_OF = "one-of-property"
@@ -97,10 +101,10 @@ export function manyIn(shadow: Shadow): ReadonlySet<string> {
   return found
 }
 
-function chosenIn(path: string, slug: string): Written {
+function chosenIn(path: string, slug: string, key: string): Written {
   const named = exportedAs(slug)
   return {
-    held: `(typeof ${named}.values)[number]`,
+    held: `(typeof ${named}.${key})[number]`,
     imports: [`import type { ${named} } from "${PACKAGE}${path}"`],
   }
 }
@@ -160,10 +164,13 @@ export function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   if (held !== undefined) return { held, imports: [] }
   if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
   if (asked.kind === RECORD) return recordIn(shadow, asked)
-  if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug)
+  if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug, VALUES)
+  if (shadow.index.kindsUnder(FILE_PROPERTY).has(asked.kind)) {
+    return chosenIn(asked.path, asked.slug, EXTENSIONS)
+  }
   if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
   if (asked.kind !== COMPUTED) return null
-  if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
+  if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug, VALUES)
   const worked = WORKED.get(String(asked.value[HOLDS_AT]))
   return worked === undefined ? null : { held: worked, imports: [] }
 }
