@@ -25,5 +25,16 @@ test("the scopes the player is commanded under are asked for", () => {
   expect(SPOTIFY_SCOPES).toContain("user-read-playback-state")
   expect(SPOTIFY_SCOPES).toContain("user-modify-playback-state")
   expect(SPOTIFY_SCOPES).toContain("user-read-recently-played")
+  expect(SPOTIFY_SCOPES).toContain("user-read-currently-playing")
   expect(SPOTIFY_SCOPES).toContain("user-top-read")
+})
+
+test("a scope no call in this domain needs is not asked for", () => {
+  expect(SPOTIFY_SCOPES).toEqual([
+    "user-top-read",
+    "user-read-recently-played",
+    "user-read-playback-state",
+    "user-read-currently-playing",
+    "user-modify-playback-state",
+  ])
 })

@@ -21,5 +21,9 @@ export const spotifyScopes = {
       invariantKind: "departure",
       statement: "A scope the consent no longer covers is dropped by asking again.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A scope no call in this domain needs is not asked for.",
+    },
   ],
 } as const satisfies Module
