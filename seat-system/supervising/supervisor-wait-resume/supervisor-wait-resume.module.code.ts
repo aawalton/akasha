@@ -16,6 +16,7 @@ import {
 } from "akasha/seat-system/supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import { askSupervisorDecide } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
+import { tickSaying } from "../supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
@@ -60,13 +61,9 @@ export function startWaitResumeMonitor(opts: {
 
   let stopped = false
   let tickInFlight = false
-  let lastKind: TickKind = "none"
   let lastNudgeAtMs: number | null = null
   let ceilingReported = false
-  const note = (kind: TickKind, line: string): undefined => {
-    if (kind !== lastKind) opts.log?.(line)
-    lastKind = kind
-  }
+  const { note, marked } = tickSaying<TickKind>("none", opts.log)
 
   const tick = async (): Promise<void> => {
     if (tickInFlight || stopped) return
@@ -77,7 +74,7 @@ export function startWaitResumeMonitor(opts: {
       const text = readTranscriptTail(agentId)
       const reading = text === null ? null : classifyTurnEndErrorDeath(text)
       if (reading === null || !reading.detected) {
-        lastKind = "none"
+        marked("none")
         lastNudgeAtMs = null
         ceilingReported = false
         return
@@ -113,7 +110,7 @@ export function startWaitResumeMonitor(opts: {
       }
       await injectNudge(agentId, verdict.nudge)
       lastNudgeAtMs = now
-      lastKind = "nudge"
+      marked("nudge")
       opts.log?.(
         `wait-resume: nudged ${agentId} after ${kindsOf(reading.statuses)} — ${verdict.reason}`
       )

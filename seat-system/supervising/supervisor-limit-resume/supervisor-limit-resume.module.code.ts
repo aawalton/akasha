@@ -23,6 +23,7 @@ import {
   classifyRateLimitDeath,
 } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
+import { tickSaying } from "../supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000
 
@@ -61,11 +62,7 @@ export function startLimitResumeMonitor(opts: {
 
   let stopped = false
   let tickInFlight = false
-  let lastKind: TickKind = "none"
-  const note = (kind: TickKind, line: string): undefined => {
-    if (kind !== lastKind) opts.log?.(line)
-    lastKind = kind
-  }
+  const { note, marked } = tickSaying<TickKind>("none", opts.log)
   let eligibleSinceMs: number | null = null
 
   const tick = async (): Promise<undefined> => {
@@ -76,7 +73,7 @@ export function startLimitResumeMonitor(opts: {
       if (agentId === null) return
       const text = readTranscriptTail(agentId)
       if (text === null || !classifyRateLimitDeath(text)) {
-        lastKind = "none"
+        marked("none")
         eligibleSinceMs = null
         return
       }
@@ -116,7 +113,7 @@ export function startLimitResumeMonitor(opts: {
         return
       }
       await injectNudge(agentId, nudge)
-      lastKind = "nudge"
+      marked("nudge")
       opts.log?.(`limit-resume: nudged ${agentId} — ${verdict.reason}`)
     } catch (err) {
       opts.log?.(`limit-resume: tick error: ${String(err)}`)

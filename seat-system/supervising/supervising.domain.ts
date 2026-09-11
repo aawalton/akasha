@@ -92,6 +92,7 @@ export const supervising = {
     "module/supervisor-spawn-settings",
     "module/supervisor-state",
     "module/supervisor-terminal",
+    "module/supervisor-tick-saying",
     "module/supervisor-types",
     "module/supervisor-uncertain-wait-decide",
     "module/supervisor-usage-snapshot",
