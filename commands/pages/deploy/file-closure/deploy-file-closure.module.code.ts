@@ -1,6 +1,7 @@
 import { folderOf } from "akasha/code/code-path-between/code-path-between.module.code.ts"
 import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
+import { bodyAt as bodyInCommit } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { reachedFrom } from "akasha/commands/modules/source-globbing/source-globbing.module.code.ts"
 import {
   IOS_APP,
@@ -11,7 +12,6 @@ import { said } from "akasha/git/running/git-running.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
 import {
   type Body,
-  bodiesAt,
   manifestsAmong,
   reachingOf,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
@@ -20,9 +20,17 @@ const MANIFEST = "package.json"
 
 const APART = "\0"
 
-export function trackedIn(root: string): readonly string[] {
-  const held = said(root, ["ls-files", "-z"]).split(APART)
+export function trackedAt(root: string, commit: string): readonly string[] {
+  const held = said(root, ["ls-tree", "-r", "-z", "--name-only", commit]).split(APART)
   return held.filter((one) => one !== "")
+}
+
+export function bodiesFrom(root: string, commit: string): Body {
+  const reading = new TextDecoder()
+  return (path) => {
+    const held = bodyInCommit(root, commit, path)
+    return held === null ? null : reading.decode(held)
+  }
 }
 
 export function codeBodies(bodyAt: Body): Body {
@@ -80,7 +88,12 @@ export function closureOver(
   return reachedFrom(seeds, codeBodies(bodyAt), naming, new Set(tracked))
 }
 
-export function closureFor(root: string, slug: string, read: Named): ReadonlySet<string> {
-  const tracked = trackedIn(root)
-  return closureOver(tracked, seedsFor(root, slug, read, tracked), bodiesAt(root))
+export function closureFor(
+  root: string,
+  slug: string,
+  read: Named,
+  commit: string
+): ReadonlySet<string> {
+  const tracked = trackedAt(root, commit)
+  return closureOver(tracked, seedsFor(root, slug, read, tracked), bodiesFrom(root, commit))
 }

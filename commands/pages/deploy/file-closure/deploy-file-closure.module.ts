@@ -55,15 +55,15 @@ export const deployFileClosure = {
     },
     {
       invariantKind: "departure",
-      statement: "The files are read off the worktree rather than off the commit being put up.",
+      statement: "The files are read out of the commit being put up rather than off the worktree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which files git tracks is read out of that commit's tree.",
     },
     {
       invariantKind: "gap",
       statement: "The paths a container recipe copies out of its context are seeded here.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here reads a commit.",
     },
     {
       invariantKind: "absence",

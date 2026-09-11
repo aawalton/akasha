@@ -58,12 +58,10 @@ export const deploy = {
     "an ios app is built on the MacBook at Release at the commit named, and the build takes its own number.",
     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and every deploy reports the hash it resolved to.",
     "a call naming no `--ref` is made at the commit HEAD is at, and the report names that commit rather than HEAD.",
-    "a deploy is refused where a file it is built from differs from the commit named, because what is put up would not be that commit.",
     "what a deploy is built from is the files beside its page, the source folder a web app names, the shared files an ios build takes, and every file the code in those imports, followed through.",
     "the checks stating `runs-on-deploy` judge what changed from the commit the last deploy recorded to the commit named, narrowed to the files the deploy is built from.",
     "a service whose page carries no deployed commit is judged over every file it is built from, since nothing was ever proved of it.",
     "a deploy that refused keeps the commit it refused at beside the commit it last put up, and neither is committed, so a deploy lands no commit of its own.",
-    "an ios app is built from origin on the MacBook, so a `--ref` named on one is built however the worktree differs from it.",
     "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
@@ -99,6 +97,8 @@ export const deploy = {
     "a web app whose page states an addon bundle image has every addon compiled, packed and pushed to the registry before the app is put up.",
     "the bundle image is named by the hash of the archive inside, so a commit changing no addon publishes no new image.",
     "the tag naming that image lands as its own commit once the push is done, and the app is then built from the commit that tag is in.",
+    "what a deploy is built from is read out of the commit named rather than off the worktree, so a file changed and not committed reaches no deploy.",
+    "an ios app is built from origin on the MacBook rather than from this checkout's tree.",
   ],
   invariants: [
     {
@@ -182,7 +182,7 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement:
-        "A worktree differing from that commit in a file a deploy is built from refuses that deploy.",
+        "What a deploy is built from is read out of the commit rather than off the worktree.",
     },
     {
       invariantKind: "departure",
@@ -205,11 +205,6 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A dry run is judged by those checks as a run that puts up is.",
-    },
-    {
-      invariantKind: "absence",
-      statement:
-        "An ios app is built from origin, so the worktree is read for it only where no commit is named.",
     },
     {
       invariantKind: "departure",

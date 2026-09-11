@@ -52,11 +52,11 @@ export async function judgedOnDeploy(
   now: string,
   built: ReadonlySet<string>
 ): Promise<readonly string[]> {
-  const change = changeFrom(root, was, now, built)
-  if (change.changed.length === 0) return []
-  const gate = gateFor(root, AT_DEPLOY)
-  if (!("gate" in gate)) return [saidOfNoGate(slug, gate.broken)]
   try {
+    const change = changeFrom(root, was, now, built)
+    if (change.changed.length === 0) return []
+    const gate = gateFor(root, AT_DEPLOY)
+    if (!("gate" in gate)) return [saidOfNoGate(slug, gate.broken)]
     return saidOf(await gate.gate.over(change))
   } finally {
     readingEnded()

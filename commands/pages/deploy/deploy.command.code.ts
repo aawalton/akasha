@@ -11,8 +11,6 @@ import {
 import {
   AT_HEAD,
   commitAt,
-  driftedFrom,
-  saidOfDrift,
   saidOfNoCommit,
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import {
@@ -196,11 +194,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
   const commit = commitAt(given.root, ref)
   if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
-  const built = closureFor(given.root, slug, read)
-  if (read.kind !== IOS_APP || ref === null) {
-    const drifted = driftedFrom(given.root, commit).filter((one) => built.has(one))
-    if (drifted.length > 0) return refused(saidOfDrift(slug, commit, drifted), INPUT)
-  }
+  const built = closureFor(given.root, slug, read, commit)
   const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
   const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
   const dry = rest.includes(DRY_RUN)
