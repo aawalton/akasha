@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { ProcLivenessEntry } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import {
   claudeChildProcsByAgent,
   newestProcStartMsByAgent,
@@ -7,7 +7,7 @@ import {
   rejectSelfProc,
   selectSupersededTreePids,
   supervisedClaudePids,
-} from "./seat-proc-tree.module.code.ts"
+} from "akasha/seat-system/seat-proc-tree/seat-proc-tree.module.code.ts"
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 

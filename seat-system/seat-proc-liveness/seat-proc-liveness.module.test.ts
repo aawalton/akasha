@@ -10,8 +10,8 @@ import {
   liveAgentPidsFromProc,
   liveClaudeChildIdsFromProc,
   liveSupervisorIdsFromProc,
-} from "./seat-proc-liveness.module.code.ts"
-import { entry } from "./seat-proc-liveness.module.test-fixtures.ts"
+} from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import { entry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.test-fixtures.ts"
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 const TWO = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f8"

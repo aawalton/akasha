@@ -2,15 +2,18 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { composeSeatName } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { flexInName } from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
@@ -19,19 +22,20 @@ import {
   SEAT_MODES,
 } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
-import { HELP } from "akasha/seat-system/seat-reset-help/seat-reset-help.module.code.ts"
-import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
-import { A_RESET, stopSeat } from "akasha/seat-system/stop-seat/stop-seat.module.code.ts"
-import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
-import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
-import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
-import { flexInName } from "../seat-flex/seat-flex.module.code.ts"
 import {
   type SeatFromHistory,
   seatFromHistory,
-} from "../seat-page-history/seat-page-history.module.code.ts"
-import { principalSeatNameOf } from "../seat-principal/seat-principal.module.code.ts"
-import { pageWouldCompose, type Stated, statedOf } from "../seat-stated/seat-stated.module.code.ts"
+} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { principalSeatNameOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import { HELP } from "akasha/seat-system/seat-reset-help/seat-reset-help.module.code.ts"
+import {
+  pageWouldCompose,
+  type Stated,
+  statedOf,
+} from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
+import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
+import { A_RESET, stopSeat } from "akasha/seat-system/stop-seat/stop-seat.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 interface Kept {
   readonly persona: string | null

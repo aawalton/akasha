@@ -1,4 +1,4 @@
-import type { CommandHelp } from "../../commands/modules/declaring/command-declaring.module.code.ts"
+import type { CommandHelp } from "akasha/commands/modules/declaring/command-declaring.module.code.ts"
 
 export const HELP: CommandHelp = {
   positionals: [

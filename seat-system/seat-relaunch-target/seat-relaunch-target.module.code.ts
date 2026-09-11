@@ -1,13 +1,13 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,
-} from "../seat-page-history/seat-page-history.module.code.ts"
-import { pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
-import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
-import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
-import { sessionOf } from "../seat-session/seat-session.module.code.ts"
+} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { pageValuesOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import { agentPresence } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+import { sessionOf } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const TITLE = "title"
 

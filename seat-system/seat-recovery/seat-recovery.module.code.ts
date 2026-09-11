@@ -1,7 +1,7 @@
+import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { liveAgentPidsFromProc } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import { selectSupersededTreePids } from "akasha/seat-system/seat-proc-tree/seat-proc-tree.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
-import { scanProcEntries } from "../proc-scan/proc-scan.module.code.ts"
 
 async function terminate(pids: readonly number[]): Promise<void> {
   await ending(pids)

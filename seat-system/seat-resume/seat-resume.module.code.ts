@@ -4,6 +4,7 @@ import {
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import { readTranscriptMtimeMs } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
 import {
   holdSeatPaneOpen,
@@ -40,10 +41,9 @@ import {
   type TakenSeat,
   takeoverSeat,
 } from "akasha/seat-system/takeover-seat/takeover-seat.module.code.ts"
+import { parseWindowDuration } from "akasha/seat-system/window-duration/window-duration.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
-import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 
 const DEFAULT_VERIFY_GRACE_MS = 30_000
 

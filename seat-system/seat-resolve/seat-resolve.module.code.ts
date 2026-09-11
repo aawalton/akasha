@@ -6,8 +6,8 @@ import {
   type AttributeKey,
   DECLARATIONS,
   type Declaration,
-} from "../seat-attributes/seat-attributes.module.code.ts"
-import { seat as seatPageType } from "../seats/seat.page-type.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { seat as seatPageType } from "akasha/seat-system/seats/seat.page-type.ts"
 
 const DOMAIN_SLUG_KEY = "slug"
 

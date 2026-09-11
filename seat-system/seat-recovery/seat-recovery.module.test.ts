@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { selectPriorTreePids } from "./seat-recovery.module.code.ts"
+import { selectPriorTreePids } from "akasha/seat-system/seat-recovery/seat-recovery.module.code.ts"
 
 const BY_ID = new Map<string, readonly number[]>([
   ["agent-a", [11, 22, 33]],
