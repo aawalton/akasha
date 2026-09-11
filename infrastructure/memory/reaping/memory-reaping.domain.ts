@@ -35,10 +35,6 @@ export const memoryReaping = {
       invariantKind: "departure",
       statement: "A reaper takes only what every limit above that reaper let through.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A host short of memory is known from how long its programs stall.",
-    },
   ],
   parts: [
     "module/memory-reaper-running",
