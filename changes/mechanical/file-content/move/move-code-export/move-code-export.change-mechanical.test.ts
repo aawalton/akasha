@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
 import {
   addedAt,
+  BACK_ALREADY,
   DEEP,
   ELSEWHERE,
   FAR,
@@ -102,6 +103,18 @@ test("the import back is spelled from the root where the root names a way in", a
 
   expect(said.refused).toBeNull()
   expect(puttingAt(said, FROM).join("")).toContain(`import type { Kept } from "tree/${ELSEWHERE}"`)
+})
+
+test("the import back joins the line that body already takes from there", async () => {
+  const said = await runChange(worldOf({ [FROM]: BACK_ALREADY }), {
+    from: FROM,
+    to: TO,
+    of: "keptOf",
+  })
+
+  const put = puttingAt(said, FROM).join("")
+  expect(put).toContain(`import { type Deep, keptOf } from "./two.held.ts"`)
+  expect(put.split(`from "./two.held.ts"`).length - 1).toBe(1)
 })
 
 const ALREADY = `import { join } from "node:path"

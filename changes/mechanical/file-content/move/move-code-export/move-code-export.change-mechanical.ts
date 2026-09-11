@@ -123,6 +123,11 @@ export const moveCodeExport = {
       statement:
         "A body naming that export through a package names the export from the workspace root.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The import back joins the line the body left behind already takes from that landing.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

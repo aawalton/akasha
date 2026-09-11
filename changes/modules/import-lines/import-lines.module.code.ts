@@ -120,6 +120,36 @@ export function withoutName(text: string, source: ts.SourceFile, named: string):
   return null
 }
 
+export function withName(
+  text: string,
+  source: ts.SourceFile,
+  spelled: string,
+  named: string,
+  type: boolean
+): Taken | null {
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const bound = namedIn(one)
+    const from = one.moduleSpecifier
+    if (bound === null || !ts.isStringLiteral(from) || from.text !== spelled) continue
+    if (bound.elements.some((each) => each.name.text === named)) return null
+    const whole = one.importClause?.isTypeOnly === true
+    const marked = whole && !type
+    const kept = bound.elements.map((each) => {
+      const held = text.slice(each.getStart(source), each.getEnd())
+      return marked ? `type ${held}` : held
+    })
+    const added = !whole && type ? `type ${named}` : named
+    const head = `import ${whole && type ? "type " : ""}`
+    const tail = text.slice(from.getStart(source), from.getEnd())
+    return {
+      old: text.slice(one.getStart(source), one.getEnd()),
+      new: `${head}{ ${[...kept, added].join(", ")} } from ${tail}`,
+    }
+  }
+  return null
+}
+
 export function anchorIn(text: string, source: ts.SourceFile): string | null {
   let found: string | null = null
   for (const one of source.statements) {

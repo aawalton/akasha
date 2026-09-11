@@ -65,5 +65,23 @@ export const importLines = {
       invariantKind: "absence",
       statement: "Nothing here decides which lines a body should carry.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A name put into a body joins the line that body already takes from that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value joining a line marked type throughout marks every name that line already carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type joining a line of values is marked a type on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body holding no line from that path, or a line already naming it, takes no name.",
+    },
   ],
 } as const satisfies Module

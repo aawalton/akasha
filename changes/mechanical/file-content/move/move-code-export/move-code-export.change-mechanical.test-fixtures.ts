@@ -88,6 +88,17 @@ export type Kept = {
   readonly deep: Deep
 }`
 
+export const BACK_ALREADY = `import type { Deep } from "./two.held.ts"
+
+export function keptOf(one: Deep): Deep {
+  return one
+}
+
+export function alsoOf(one: Deep): Deep {
+  return keptOf(one)
+}
+`
+
 export const USING = `import type { Kept } from "./one.held.ts"
 
 export type Wraps = {

@@ -15,6 +15,7 @@ import {
   namesIn,
   namingOf,
   openedIn,
+  withName,
   withoutName,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
@@ -188,7 +189,10 @@ function backIn(
   naming: Naming
 ): Passage | null {
   if (!namesIn(source).includes(given.of)) return null
-  const line = lineFor(given.of, spelledAt(given, given.to, naming), type)
+  const spelled = spelledAt(given, given.to, naming)
+  const joined = withName(text, source, spelled, given.of, type)
+  if (joined !== null) return { at: given.from, ...joined }
+  const line = lineFor(given.of, spelled, type)
   const anchor = anchorIn(text, source)
   if (anchor === null) return { at: given.from, old: text, new: `${line}${LINE}${LINE}${text}` }
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }

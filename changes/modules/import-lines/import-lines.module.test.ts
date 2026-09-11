@@ -9,6 +9,7 @@ import {
   namesIn,
   namingOf,
   openedIn,
+  withName,
   withoutName,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
@@ -109,4 +110,51 @@ test("a line put into a body follows the anchor, or opens a bare body above a bl
   )
   expect(openedIn(bare, parsedAs(AT, bare), [TWO])).toBe(`${TWO}\n\n${bare}`)
   expect(openedIn(bare, parsedAs(AT, bare), [])).toBe(bare)
+})
+
+const AT_HELD = "./held.module.code.ts"
+
+const VALUES = `import { one, two } from "${AT_HELD}"`
+
+const TYPES = `import type { Held, Kept } from "${AT_HELD}"`
+
+test("a name joins the line a body already takes from that path", () => {
+  const text = `${VALUES}\n`
+
+  expect(withName(text, parsedAs(AT, text), AT_HELD, "three", false)).toEqual({
+    old: VALUES,
+    new: `import { one, two, three } from "${AT_HELD}"`,
+  })
+})
+
+test("a value joining a type-only line marks every name that line already carried", () => {
+  const text = `${TYPES}\n`
+
+  expect(withName(text, parsedAs(AT, text), AT_HELD, "held", false)?.new).toBe(
+    `import { type Held, type Kept, held } from "${AT_HELD}"`
+  )
+})
+
+test("a type joining a line of values is marked a type on its own", () => {
+  const text = `${VALUES}\n`
+
+  expect(withName(text, parsedAs(AT, text), AT_HELD, "Held", true)?.new).toBe(
+    `import { one, two, type Held } from "${AT_HELD}"`
+  )
+})
+
+test("a type joining a type-only line needs no mark of its own", () => {
+  const text = `${TYPES}\n`
+
+  expect(withName(text, parsedAs(AT, text), AT_HELD, "Other", true)?.new).toBe(
+    `import type { Held, Kept, Other } from "${AT_HELD}"`
+  )
+})
+
+test("a body taking nothing from that path, or already naming it, is left whole", () => {
+  const text = `${VALUES}\n`
+  const source = parsedAs(AT, text)
+
+  expect(withName(text, source, "./other.module.code.ts", "three", false)).toBe(null)
+  expect(withName(text, source, AT_HELD, "one", false)).toBe(null)
 })
