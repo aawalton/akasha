@@ -1,4 +1,4 @@
-import type { Author } from "../author.page-type.types.ts"
+import type { Author } from "akasha/alan/library/reading/authors/author.page-type.types.ts"
 
 export const loisMcmasterBujold = {
   id: "01a06807-f091-7023-8bce-3bd6062c49df",

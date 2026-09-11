@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y66PlotinusTheFifthEnnead = {
   id: "019f0c09-be27-70e0-827f-ec9e4b72eb43",

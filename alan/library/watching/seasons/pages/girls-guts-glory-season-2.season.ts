@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const girlsGutsGlorySeason2 = {
   id: "01a06802-b8ba-701d-8854-a20b3a32caea",

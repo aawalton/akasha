@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
+import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-collections/scripture-collection.page-type.types.ts"
 
 export const bookOfMormon = {
   id: "01a06808-34d9-701a-98c7-0aeb69cef05d",

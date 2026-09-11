@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const wandavision = {
   id: "01a06802-9333-700c-9f9d-4e3ed12c2e92",

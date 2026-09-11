@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const doctrinalCommentaryOnTheBookOfMormonVolume4 = {
   id: "019db533-f39d-7435-ba24-432e1996a46f",

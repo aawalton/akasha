@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const theLastTide = {
   id: "019db533-f39d-7c75-b142-fcb578be0834",

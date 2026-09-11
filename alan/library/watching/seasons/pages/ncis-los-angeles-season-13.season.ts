@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const ncisLosAngelesSeason13 = {
   id: "01a06802-b8bb-700e-952b-28ebd45a64f0",

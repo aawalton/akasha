@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
+import type { ScripturePassage } from "akasha/alan/library/reading/scripture-passages/scripture-passage.page-type.types.ts"
 
 export const psalms9 = {
   id: "01a06804-11b1-7003-be8e-e197033fc81f",

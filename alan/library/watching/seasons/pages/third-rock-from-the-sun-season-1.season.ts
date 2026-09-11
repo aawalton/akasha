@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const thirdRockFromTheSunSeason1 = {
   id: "01a06802-b8b7-7000-93e3-8326287b64ba",

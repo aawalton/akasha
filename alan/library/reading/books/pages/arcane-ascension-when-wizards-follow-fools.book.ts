@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const arcaneAscensionWhenWizardsFollowFools = {
   id: "019db533-f38a-73e4-8b26-32077612b1b4",

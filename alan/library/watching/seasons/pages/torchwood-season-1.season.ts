@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const torchwoodSeason1 = {
   id: "01a06802-b8c0-7007-ba67-46172d70baed",

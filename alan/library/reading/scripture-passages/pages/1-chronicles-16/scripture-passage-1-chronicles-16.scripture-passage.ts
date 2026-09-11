@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
+import type { ScripturePassage } from "akasha/alan/library/reading/scripture-passages/scripture-passage.page-type.types.ts"
 
 export const scripturePassage1Chronicles16 = {
   id: "01a06804-11a8-7007-81ff-ff814ae07e19",

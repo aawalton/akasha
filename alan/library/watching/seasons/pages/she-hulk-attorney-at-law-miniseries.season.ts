@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const sheHulkAttorneyAtLawMiniseries = {
   id: "01a06802-b8bc-7038-89f3-4775d5622458",

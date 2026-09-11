@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y815MarxCapital = {
   id: "019f0c09-bfb3-7316-946c-b667692d6c1b",

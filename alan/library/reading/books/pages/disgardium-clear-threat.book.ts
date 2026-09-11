@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const disgardiumClearThreat = {
   id: "019db533-f390-7d6f-9e83-264690ae4841",

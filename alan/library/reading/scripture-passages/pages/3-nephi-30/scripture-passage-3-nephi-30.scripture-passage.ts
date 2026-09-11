@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
+import type { ScripturePassage } from "akasha/alan/library/reading/scripture-passages/scripture-passage.page-type.types.ts"
 
 export const scripturePassage3Nephi30 = {
   id: "019f0977-4958-7dc2-a337-3a21749ccb3a",

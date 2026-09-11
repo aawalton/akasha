@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const theWheelOfTimeSeason1 = {
   id: "01a06802-b8bf-704d-89e4-0ee5c08df4bc",

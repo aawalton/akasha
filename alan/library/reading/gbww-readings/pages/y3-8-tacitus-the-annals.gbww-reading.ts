@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y38TacitusTheAnnals = {
   id: "019f0c09-bd12-7320-b05b-7336039d44d5",

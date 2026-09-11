@@ -8,14 +8,14 @@ import {
   selectNextChapter,
   storyIsLiked,
   storyPool,
-} from "../chapter-choosing/chapter-choosing.module.code.ts"
+} from "akasha/alan/library/reading/chapter-choosing/chapter-choosing.module.code.ts"
 import type {
   LitrpgCatalog,
   LitrpgSelection,
   LitrpgStory,
   NowReading,
   SelectOptions,
-} from "../shapes/reading-shapes.module.code.ts"
+} from "akasha/alan/library/reading/shapes/reading-shapes.module.code.ts"
 
 export function selectNextStory(
   catalog: LitrpgCatalog,

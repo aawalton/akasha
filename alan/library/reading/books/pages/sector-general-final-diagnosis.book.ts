@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const sectorGeneralFinalDiagnosis = {
   id: "019db533-f38b-7171-bdf7-d260718c9460",

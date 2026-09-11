@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theArtOfThinkingClearly = {
   id: "019db533-f39e-7087-a802-38cbc553f5f8",

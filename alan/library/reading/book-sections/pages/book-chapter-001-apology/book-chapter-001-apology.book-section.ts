@@ -1,4 +1,4 @@
-import type { BookSection } from "../../book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/library/reading/book-sections/book-section.page-type.types.ts"
 
 export const bookChapter001Apology = {
   id: "01a06594-c68f-700c-9128-592393371e5c",

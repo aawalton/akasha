@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y121SchrodingerWhatIsLife = {
   id: "019f0c09-bc8b-7a42-a8eb-73444383f996",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const medicalSchoolForEveryoneEmergencyMedicine = {
   id: "019db533-f3a0-77c7-ac3f-0a0156ebb5de",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const effectiveResearchMethodsForAnyProject = {
   id: "019db533-f39e-74a2-92f0-f83b464e5618",

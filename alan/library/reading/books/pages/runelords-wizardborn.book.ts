@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const runelordsWizardborn = {
   id: "019db533-f39a-782b-967b-93f103ccbc1b",

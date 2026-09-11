@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const theMentalistSeason4 = {
   id: "01a06802-b8bf-701f-b8ac-6016d748af7a",

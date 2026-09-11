@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const starWarsTheCloneWarsSpecials = {
   id: "01a06802-b8bd-7043-8a37-b44a2b614c4d",

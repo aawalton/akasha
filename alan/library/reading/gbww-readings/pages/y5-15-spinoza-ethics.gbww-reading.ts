@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y515SpinozaEthics = {
   id: "019f0c09-bde6-7f4b-9dac-9c93de9ff3c5",

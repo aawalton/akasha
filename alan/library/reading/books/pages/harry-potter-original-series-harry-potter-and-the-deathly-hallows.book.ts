@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const harryPotterOriginalSeriesHarryPotterAndTheDeathlyHallows = {
   id: "019db533-f38b-701b-9803-1230fe2f52d5",

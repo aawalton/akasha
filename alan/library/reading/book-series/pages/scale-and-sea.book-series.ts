@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const scaleAndSea = {
   id: "019db533-f38a-74b8-bee0-2c06506d08c8",

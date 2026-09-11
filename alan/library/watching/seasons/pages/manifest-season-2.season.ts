@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const manifestSeason2 = {
   id: "01a06802-b8ba-7033-a837-66b1a3cdcedb",

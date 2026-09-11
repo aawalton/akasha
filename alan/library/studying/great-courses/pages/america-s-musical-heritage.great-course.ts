@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const americaSMusicalHeritage = {
   id: "019db533-f3a0-756a-aca4-8d58d6952e5b",

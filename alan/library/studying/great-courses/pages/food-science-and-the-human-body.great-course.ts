@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const foodScienceAndTheHumanBody = {
   id: "019db533-f3a0-792f-850b-2de7603300f9",

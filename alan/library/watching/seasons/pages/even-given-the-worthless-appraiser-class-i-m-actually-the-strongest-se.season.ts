@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongestSe = {
   id: "01a06802-b8b9-7042-a207-6d8dc4737be8",

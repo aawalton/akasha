@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { drawsFromSeed } from "./seeded-draw.module.code.ts"
+import { drawsFromSeed } from "akasha/alan/library/book-of-everything/seeded-draw/seeded-draw.module.code.ts"
 
 const BOUND = 100
 

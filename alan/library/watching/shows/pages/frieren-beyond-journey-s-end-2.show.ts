@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const frierenBeyondJourneySEnd2 = {
   id: "01a06802-9331-7028-b9e6-6ec619aac1d3",

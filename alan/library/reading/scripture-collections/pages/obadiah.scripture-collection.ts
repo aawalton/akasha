@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
+import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-collections/scripture-collection.page-type.types.ts"
 
 export const obadiah = {
   id: "01a06808-34da-701f-a36e-8d92085c59c3",

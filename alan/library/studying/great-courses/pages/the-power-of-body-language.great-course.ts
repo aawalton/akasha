@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const thePowerOfBodyLanguage = {
   id: "019db533-f39e-7283-b9e1-68784f043833",

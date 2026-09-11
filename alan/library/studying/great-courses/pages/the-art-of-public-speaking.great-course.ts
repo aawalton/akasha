@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const theArtOfPublicSpeaking = {
   id: "019db533-f3a0-7131-823a-7f32f34a0016",

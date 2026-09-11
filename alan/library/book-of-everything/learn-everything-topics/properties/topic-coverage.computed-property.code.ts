@@ -1,5 +1,5 @@
+import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.types.ts"
 import type { Reach, Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { LearnEverythingTopic } from "../learn-everything-topic.page-type.types.ts"
 
 const UNDER = "topic-part-of"
 

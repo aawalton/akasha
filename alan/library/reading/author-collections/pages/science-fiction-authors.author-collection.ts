@@ -1,4 +1,4 @@
-import type { AuthorCollection } from "../author-collection.page-type.types.ts"
+import type { AuthorCollection } from "akasha/alan/library/reading/author-collections/author-collection.page-type.types.ts"
 
 export const scienceFictionAuthors = {
   id: "01a06808-06b5-7000-8918-9259b5ed3ff2",

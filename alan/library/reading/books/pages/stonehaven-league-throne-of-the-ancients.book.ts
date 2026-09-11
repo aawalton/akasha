@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const stonehavenLeagueThroneOfTheAncients = {
   id: "019db533-f391-7696-bfcd-a9e7904108e5",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const theoriesOfHumanDevelopment = {
   id: "019db533-f39e-7df2-a14f-38bc821176c1",

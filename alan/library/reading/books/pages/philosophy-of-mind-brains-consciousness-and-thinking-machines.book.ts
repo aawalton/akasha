@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   id: "019db533-f39d-7ffe-bda8-fdd8d7cb318b",

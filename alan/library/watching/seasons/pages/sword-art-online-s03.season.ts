@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const swordArtOnlineS03 = {
   id: "019ea442-82c7-7d6f-bde1-3dbd1bc94709",

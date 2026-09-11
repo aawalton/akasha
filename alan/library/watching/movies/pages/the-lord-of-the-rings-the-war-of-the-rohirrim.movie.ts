@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.types.ts"
+import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.types.ts"
 
 export const theLordOfTheRingsTheWarOfTheRohirrim = {
   id: "01a06802-6d9a-701a-b500-f43d789bf451",

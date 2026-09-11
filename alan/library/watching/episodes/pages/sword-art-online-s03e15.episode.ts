@@ -1,4 +1,4 @@
-import type { Episode } from "../episode.page-type.types.ts"
+import type { Episode } from "akasha/alan/library/watching/episodes/episode.page-type.types.ts"
 
 export const swordArtOnlineS03e15 = {
   id: "019ea442-8613-7b55-aec7-9a150806475d",

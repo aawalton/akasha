@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.types.ts"
+import type { BookCollection } from "akasha/alan/library/reading/book-collections/book-collection.page-type.types.ts"
 
 export const cytoverse = {
   id: "01a06808-148e-7015-9a3d-1fd2381f8643",

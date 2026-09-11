@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const storyCatalog = {
   id: "01a0657b-06a9-7db2-b08d-6426f1d11152",

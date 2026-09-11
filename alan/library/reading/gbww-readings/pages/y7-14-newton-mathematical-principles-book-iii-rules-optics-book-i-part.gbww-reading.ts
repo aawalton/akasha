@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y714NewtonMathematicalPrinciplesBookIiiRulesOpticsBookIPart = {
   id: "019f0c09-bea7-781d-adf3-93e3036c656c",

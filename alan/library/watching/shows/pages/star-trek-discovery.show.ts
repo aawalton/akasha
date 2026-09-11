@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const starTrekDiscovery = {
   id: "01a06802-9332-7028-993e-f437d7ee55bc",

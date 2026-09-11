@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
+import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-collections/scripture-collection.page-type.types.ts"
 
 export const acts = {
   id: "01a06808-34d9-7016-b321-4bdc1ef9b541",

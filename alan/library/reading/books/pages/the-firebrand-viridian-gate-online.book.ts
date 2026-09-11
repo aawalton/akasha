@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theFirebrandViridianGateOnline = {
   id: "019db533-f38a-732a-b30a-c4c0e336bc86",

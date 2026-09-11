@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theSmallestPart = {
   id: "019db533-f39c-7f7b-85b2-deacc933160c",

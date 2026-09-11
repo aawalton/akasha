@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y816GoetheFaust = {
   id: "019f0c09-bfb7-7ce4-8ebf-f0e4a00aadba",

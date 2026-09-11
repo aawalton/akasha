@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const spaceOdyssey = {
   id: "019db533-f39b-7456-9b92-d636aacd337a",

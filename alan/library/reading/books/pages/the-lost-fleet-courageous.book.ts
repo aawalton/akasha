@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theLostFleetCourageous = {
   id: "019db533-f39a-7916-97d1-f6735b8afd96",

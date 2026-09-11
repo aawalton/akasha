@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.types.ts"
+import type { BookCollection } from "akasha/alan/library/reading/book-collections/book-collection.page-type.types.ts"
 
 export const scienceClassics = {
   id: "01a06808-148f-700f-9486-4754bedd97d4",

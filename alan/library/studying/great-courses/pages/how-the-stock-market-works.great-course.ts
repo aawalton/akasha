@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const howTheStockMarketWorks = {
   id: "019db533-f39e-74b9-9da7-949da690979a",

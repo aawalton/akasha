@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const warpingRealityInsideThePsychologyOfCults = {
   id: "019db533-f39e-7daa-b9e2-7a50e4d8a018",

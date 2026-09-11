@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const theTrialOfATimeLord = {
   id: "01a06802-b8bf-703d-9983-5a68252d51bc",

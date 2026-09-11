@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const peacemaker = {
   id: "01a06802-9332-7015-b90c-cf51ff16fd9c",

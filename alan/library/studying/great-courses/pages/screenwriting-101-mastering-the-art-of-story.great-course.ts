@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const screenwriting101MasteringTheArtOfStory = {
   id: "019db533-f39e-7846-8832-2b3102391d3a",

@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const bornInTheApocalypse = {
   id: "019db533-f38b-78c0-9511-43efe9a4bb8c",

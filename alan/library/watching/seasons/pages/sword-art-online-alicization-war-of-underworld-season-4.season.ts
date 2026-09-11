@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const swordArtOnlineAlicizationWarOfUnderworldSeason4 = {
   id: "01a06802-b8be-702d-8b37-f59a0b9a5a8a",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const swordArtOnline = {
   id: "019db533-f38b-7343-82f2-4eb8f301abbd",

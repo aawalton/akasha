@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const weaponsAndWieldersSixSacredSwords = {
   id: "019db533-f38a-73bd-a2f6-e5b5562d6c4f",

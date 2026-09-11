@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
   id: "019db533-f398-7390-8f8e-4e1327d8d4f1",

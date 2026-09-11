@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const azarinthHealer = {
   id: "019db533-f38b-78da-8821-0ab9cc836bb9",

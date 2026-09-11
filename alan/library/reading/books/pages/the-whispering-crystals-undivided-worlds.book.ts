@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theWhisperingCrystalsUndividedWorlds = {
   id: "019db533-f38b-757c-bc60-b61fbfe4f987",

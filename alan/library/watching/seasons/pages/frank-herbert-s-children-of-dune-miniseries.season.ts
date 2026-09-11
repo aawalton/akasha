@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const frankHerbertSChildrenOfDuneMiniseries = {
   id: "01a06802-b8ba-7000-894c-7c110a459db6",

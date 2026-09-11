@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const theUnsleepingCityChapter2 = {
   id: "01a06802-b8bf-704b-99b3-f06a1e1e36ad",

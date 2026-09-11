@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y710RabelaisGargantuaAndPantagruel = {
   id: "019f0c09-be95-76b8-86af-58d6ece8ee26",

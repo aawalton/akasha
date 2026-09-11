@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const theGreatCoursesProfessorsRememberStephenHawking = {
   id: "019db533-f39e-7d6e-b510-3ab5bf34c13e",

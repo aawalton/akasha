@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.types.ts"
+import type { ShowCollection } from "akasha/alan/library/watching/show-collections/show-collection.page-type.types.ts"
 
 export const sitcoms = {
   id: "01a06808-6a77-700f-a93d-6b21007f60d5",

@@ -1,4 +1,4 @@
-import type { MasteryLevel } from "../mastery-level.page-type.types.ts"
+import type { MasteryLevel } from "akasha/alan/library/book-of-everything/mastery-levels/mastery-level.page-type.types.ts"
 
 export const reader = {
   id: "01a0784a-cdb9-7771-9277-a0697fa6f3aa",

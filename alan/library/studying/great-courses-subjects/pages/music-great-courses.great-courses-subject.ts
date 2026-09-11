@@ -1,4 +1,4 @@
-import type { GreatCoursesSubject } from "../great-courses-subject.page-type.types.ts"
+import type { GreatCoursesSubject } from "akasha/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.types.ts"
 
 export const musicGreatCourses = {
   id: "019db533-f3a0-7a0d-9877-22f25fcef2fa",

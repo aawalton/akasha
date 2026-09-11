@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.types.ts"
+import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.types.ts"
 
 export const stargate = {
   id: "01a06802-6d9a-7000-afd7-7e8a9474eaec",

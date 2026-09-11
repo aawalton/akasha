@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const stormlightArchiveWindAndTruth = {
   id: "019db533-f38a-7bf2-aaae-40c879e5b8fc",

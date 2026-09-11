@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const millennialMageFlockbound = {
   id: "019db533-f388-7f1d-a57c-a5406f313d99",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const dumbWitness = {
   id: "019db533-f399-7ca0-a231-0181c220bc81",

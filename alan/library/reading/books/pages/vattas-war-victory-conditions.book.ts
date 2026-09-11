@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const vattasWarVictoryConditions = {
   id: "019db533-f39a-7a0c-9ea3-89bdc82ba0bc",

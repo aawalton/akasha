@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.types.ts"
+import type { BookCollection } from "akasha/alan/library/reading/book-collections/book-collection.page-type.types.ts"
 
 export const brandonSandersonSNonCosmereShortStories = {
   id: "01a06808-148e-700d-888d-d8cf9fb001d7",

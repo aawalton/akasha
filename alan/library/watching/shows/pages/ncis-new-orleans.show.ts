@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const ncisNewOrleans = {
   id: "01a06802-9332-700f-bd64-6fa7aa890cbe",

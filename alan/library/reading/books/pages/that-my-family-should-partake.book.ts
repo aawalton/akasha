@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const thatMyFamilyShouldPartake = {
   id: "019db533-f39d-720f-80ec-64a1938b3957",

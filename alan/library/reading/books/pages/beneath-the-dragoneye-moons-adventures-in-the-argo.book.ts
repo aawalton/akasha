@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const beneathTheDragoneyeMoonsAdventuresInTheArgo = {
   id: "019db533-f390-79bb-9afc-2f16b10949e7",

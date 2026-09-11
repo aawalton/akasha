@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const advancedFlakyFrenchPastries = {
   id: "019db533-f389-7102-88bb-0ebebce57553",

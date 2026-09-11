@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const connected = {
   id: "019db533-f39e-726b-ab2e-3ab319b509c4",

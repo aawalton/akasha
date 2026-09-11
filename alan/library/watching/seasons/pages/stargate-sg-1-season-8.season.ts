@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const stargateSg1Season8 = {
   id: "01a06802-b8be-7004-b82f-a81275c3fe2a",

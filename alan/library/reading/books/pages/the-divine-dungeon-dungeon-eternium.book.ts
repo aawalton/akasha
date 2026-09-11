@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theDivineDungeonDungeonEternium = {
   id: "019db533-f391-78c3-9fe6-1cefd23ed433",

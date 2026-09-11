@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y414HumeAnEnquiryConcerningHumanUnderstanding = {
   id: "019f0c09-bd86-7565-a5d5-174236dadde0",

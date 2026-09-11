@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const castle = {
   id: "01a06802-9331-700f-9ea8-79acf4cfa58c",

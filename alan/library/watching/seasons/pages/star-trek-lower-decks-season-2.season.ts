@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const starTrekLowerDecksSeason2 = {
   id: "01a06802-b8bd-7004-83cc-9170f657ca25",

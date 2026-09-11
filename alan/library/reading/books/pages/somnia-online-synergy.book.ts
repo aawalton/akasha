@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const somniaOnlineSynergy = {
   id: "019db533-f391-7642-92ed-5c85644048c9",

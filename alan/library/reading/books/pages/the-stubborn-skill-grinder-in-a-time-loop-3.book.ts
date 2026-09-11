@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoop3 = {
   id: "019db533-f387-7365-99bf-6f6c1551ef32",

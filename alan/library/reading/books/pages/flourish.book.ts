@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const flourish = {
   id: "019db533-f39e-7142-8f1c-9e399db40a8d",

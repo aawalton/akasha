@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const riseOfTheDevourerVoidborne = {
   id: "019db533-f391-74e3-8fb3-b22bd0f46a88",

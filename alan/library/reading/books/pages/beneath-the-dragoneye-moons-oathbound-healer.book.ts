@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const beneathTheDragoneyeMoonsOathboundHealer = {
   id: "019db533-f390-79f5-9a2c-e3fe2fa334f5",

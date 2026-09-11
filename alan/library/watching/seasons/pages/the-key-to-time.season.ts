@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const theKeyToTime = {
   id: "01a06802-b8bf-7011-9802-c7fe93ca0df8",

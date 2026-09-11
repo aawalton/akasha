@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
+import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02GalaxiesAndStars = {
   id: "01a065a7-084d-700e-b5be-fc8dc160c4f0",

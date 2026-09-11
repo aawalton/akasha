@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const theHistoryAndAchievementsOfTheIslamicGoldenAge = {
   id: "019db533-f3a0-71f7-bcc9-67a7dc3bd815",

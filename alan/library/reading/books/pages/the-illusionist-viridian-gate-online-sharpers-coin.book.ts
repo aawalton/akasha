@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theIllusionistViridianGateOnlineSharpersCoin = {
   id: "019db533-f38a-7341-87de-d2f5492e1b22",

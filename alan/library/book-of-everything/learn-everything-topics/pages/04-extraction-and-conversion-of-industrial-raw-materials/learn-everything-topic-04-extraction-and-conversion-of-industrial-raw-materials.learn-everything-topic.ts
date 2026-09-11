@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
+import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic04ExtractionAndConversionOfIndustrialRawMaterials = {
   id: "01a065a7-0856-7021-951f-ecfd8fde7d1a",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theCompletionistChroniclesUnmapped = {
   id: "019db533-f386-7b1c-86ea-a9621b662811",

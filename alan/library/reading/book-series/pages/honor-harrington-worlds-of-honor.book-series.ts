@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const honorHarringtonWorldsOfHonor = {
   id: "019db533-f39b-7540-be36-b572b3f53667",

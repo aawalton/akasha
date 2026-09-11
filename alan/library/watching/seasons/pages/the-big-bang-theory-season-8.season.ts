@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const theBigBangTheorySeason8 = {
   id: "01a06802-b8bf-7000-ab77-4066559a8cbb",

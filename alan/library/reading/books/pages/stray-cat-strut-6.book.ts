@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const strayCatStrut6 = {
   id: "019db533-f391-76b4-9c97-737f37f6a4fb",

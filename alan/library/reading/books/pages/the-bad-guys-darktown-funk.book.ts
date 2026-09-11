@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theBadGuysDarktownFunk = {
   id: "019db533-f391-7793-81c4-9780b53dc82f",

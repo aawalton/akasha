@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y517KantCritiqueOfPureReason = {
   id: "019f0c09-bdef-771e-93a6-bb162dc02025",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const creatureCommandos = {
   id: "01a06802-9331-7013-bd23-e5bcbc864db4",

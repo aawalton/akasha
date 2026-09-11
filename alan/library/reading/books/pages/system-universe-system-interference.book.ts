@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const systemUniverseSystemInterference = {
   id: "019db533-f391-7754-b567-232ec4616ea7",

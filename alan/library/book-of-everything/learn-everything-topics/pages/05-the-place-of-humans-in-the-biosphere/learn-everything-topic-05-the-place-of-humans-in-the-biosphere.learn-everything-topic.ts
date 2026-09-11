@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
+import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic05ThePlaceOfHumansInTheBiosphere = {
   id: "01a065a7-0855-7005-8cd0-d9e23c2e0d79",

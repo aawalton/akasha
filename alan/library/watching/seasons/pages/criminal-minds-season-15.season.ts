@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const criminalMindsSeason15 = {
   id: "01a06802-b8b8-7038-829d-e672f2d0fd73",

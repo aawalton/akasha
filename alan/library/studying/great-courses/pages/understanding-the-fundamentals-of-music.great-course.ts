@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const understandingTheFundamentalsOfMusic = {
   id: "019db533-f3a0-7201-bb90-a2145dedd00a",

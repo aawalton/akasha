@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theViridianGateArchivesDarklingSiege = {
   id: "019db533-f38b-70af-ba71-b6af6e31356c",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
   id: "019db533-f3a0-7296-8ed0-0dcf6cc650e9",

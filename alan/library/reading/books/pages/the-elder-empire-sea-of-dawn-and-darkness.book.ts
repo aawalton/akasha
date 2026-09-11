@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theElderEmpireSeaOfDawnAndDarkness = {
   id: "019db533-f39a-7db4-93ea-b50a1db0453e",

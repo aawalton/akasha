@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.types.ts"
+import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.types.ts"
 
 export const accelWorldInfiniteBurst = {
   id: "01a06802-6d98-7001-a153-516c48badd59",

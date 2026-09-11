@@ -1,4 +1,4 @@
-import type { ProfileStatus } from "../topic-tree/topic-tree.module.code.ts"
+import type { ProfileStatus } from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
 
 const STEP = 0x6d2b79f5
 

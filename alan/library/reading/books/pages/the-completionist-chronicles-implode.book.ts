@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theCompletionistChroniclesImplode = {
   id: "019db533-f391-7877-8e83-b73b5a58cf01",

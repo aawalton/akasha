@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const jesusAndHisJewishInfluences = {
   id: "019db533-f39e-7a14-9f7e-ad4747b9b2aa",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const starTrekDiscoverySpecials = {
   id: "01a06802-b8bc-7052-911e-5fcdfd99dd70",

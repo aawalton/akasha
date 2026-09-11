@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
+import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-collections/scripture-collection.page-type.types.ts"
 
 export const mark = {
   id: "01a06808-34da-7014-90a5-5263ff9bcbe9",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const campaign2TheMightyNein = {
   id: "01a06802-b8b8-7020-bdb4-51a0c5263b10",

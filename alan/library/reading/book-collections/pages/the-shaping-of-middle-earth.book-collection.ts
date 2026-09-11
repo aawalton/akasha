@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.types.ts"
+import type { BookCollection } from "akasha/alan/library/reading/book-collections/book-collection.page-type.types.ts"
 
 export const theShapingOfMiddleEarth = {
   id: "01a06808-148f-7030-80ab-dad071276e0b",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const markOfTheCrijikTheAscension = {
   id: "019db533-f391-7199-be5f-056859a542fb",

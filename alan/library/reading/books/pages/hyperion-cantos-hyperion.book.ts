@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const hyperionCantosHyperion = {
   id: "019db533-f39b-7016-9e48-ce6e588f4478",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theWayOfTheShamanTheKartossGambit = {
   id: "019db533-f38b-75d5-8306-bb3df8ae569c",

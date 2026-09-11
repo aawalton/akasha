@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y69DanteTheDivineComedy = {
   id: "019f0c09-be34-7039-97ad-dcabb7323e60",

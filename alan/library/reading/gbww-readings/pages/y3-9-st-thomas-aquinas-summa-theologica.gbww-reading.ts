@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
+import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww-reading.page-type.types.ts"
 
 export const y39StThomasAquinasSummaTheologica = {
   id: "019f0c09-bd16-769f-a0cf-3efa9fd8588e",

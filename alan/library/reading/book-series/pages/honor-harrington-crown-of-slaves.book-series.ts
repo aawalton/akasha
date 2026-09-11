@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.types.ts"
+import type { BookSeries } from "akasha/alan/library/reading/book-series/book-series.page-type.types.ts"
 
 export const honorHarringtonCrownOfSlaves = {
   id: "019db533-f39b-7560-926f-e2dc2e478c9c",

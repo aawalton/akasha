@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.types.ts"
+import type { BookCollection } from "akasha/alan/library/reading/book-collections/book-collection.page-type.types.ts"
 
 export const theCollectedWordsOfNealAMaxwellVolume1 = {
   id: "01a06808-148f-701b-9603-796a29f1ab24",

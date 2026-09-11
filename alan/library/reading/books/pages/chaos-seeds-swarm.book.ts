@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const chaosSeedsSwarm = {
   id: "019db533-f390-7a8c-a327-dc74a4542109",

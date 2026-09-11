@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const systemUniverseIndaria = {
   id: "019db533-f391-774c-8db9-da61257bdc65",

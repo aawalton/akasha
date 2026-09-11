@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const beastborneChroniclesDunesOfMidnight = {
   id: "019db533-f390-78d9-aaa6-3360ad447980",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const salvosBeast = {
   id: "019db533-f391-75ac-8cef-0522fa5dc7f8",

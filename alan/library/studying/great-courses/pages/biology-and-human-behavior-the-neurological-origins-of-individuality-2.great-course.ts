@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const biologyAndHumanBehaviorTheNeurologicalOriginsOfIndividuality2 = {
   id: "019db533-f39e-7cae-8833-e694449752a8",

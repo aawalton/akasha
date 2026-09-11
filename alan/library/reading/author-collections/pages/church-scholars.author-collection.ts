@@ -1,4 +1,4 @@
-import type { AuthorCollection } from "../author-collection.page-type.types.ts"
+import type { AuthorCollection } from "akasha/alan/library/reading/author-collections/author-collection.page-type.types.ts"
 
 export const churchScholars = {
   id: "01a06808-06b4-7002-b8fa-83e0fa8481f1",

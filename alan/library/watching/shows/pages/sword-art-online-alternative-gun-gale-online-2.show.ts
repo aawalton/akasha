@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const swordArtOnlineAlternativeGunGaleOnline2 = {
   id: "01a06802-9332-703f-a49b-e03eeeb1934a",

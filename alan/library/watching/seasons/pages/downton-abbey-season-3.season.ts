@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const downtonAbbeySeason3 = {
   id: "01a06802-b8b9-702a-8992-7235f0d73dfa",

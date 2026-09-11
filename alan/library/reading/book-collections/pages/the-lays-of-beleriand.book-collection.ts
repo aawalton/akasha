@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.types.ts"
+import type { BookCollection } from "akasha/alan/library/reading/book-collections/book-collection.page-type.types.ts"
 
 export const theLaysOfBeleriand = {
   id: "01a06808-148f-7027-b348-2b7e9f9f48ac",

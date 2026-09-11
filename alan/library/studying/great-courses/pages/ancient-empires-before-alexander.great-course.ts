@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.types.ts"
+import type { GreatCourse } from "akasha/alan/library/studying/great-courses/great-course.page-type.types.ts"
 
 export const ancientEmpiresBeforeAlexander = {
   id: "019db533-f388-70ed-b0a6-01efa434d0de",

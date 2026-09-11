@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const titanTakedown = {
   id: "01a06802-b8c0-7006-843d-482c7789dc73",

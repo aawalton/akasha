@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.types.ts"
+import type { Show } from "akasha/alan/library/watching/shows/show.page-type.types.ts"
 
 export const severance = {
   id: "01a06802-9332-7020-ba2a-d2a2a8e27945",

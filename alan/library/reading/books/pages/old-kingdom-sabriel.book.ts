@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const oldKingdomSabriel = {
   id: "019db533-f39a-7d48-9ef0-af5f32a2f23b",

@@ -1,4 +1,4 @@
-import type { Author } from "../author.page-type.types.ts"
+import type { Author } from "akasha/alan/library/reading/authors/author.page-type.types.ts"
 
 export const cSLewis = {
   id: "01a06807-f091-7002-bfdd-29359cc03b97",

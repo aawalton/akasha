@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const vorkosiganSagaTheMountainsOfMourning = {
   id: "019db533-f39a-795a-9331-2b393247de3d",

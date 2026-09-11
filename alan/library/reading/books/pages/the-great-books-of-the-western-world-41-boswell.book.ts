@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.types.ts"
+import type { Book } from "akasha/alan/library/reading/books/book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld41Boswell = {
   id: "019db533-f39d-76e8-ba49-15afcf9311ef",

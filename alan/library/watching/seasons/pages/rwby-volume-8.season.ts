@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.types.ts"
+import type { Season } from "akasha/alan/library/watching/seasons/season.page-type.types.ts"
 
 export const rwbyVolume8 = {
   id: "01a06802-b8bc-702b-9d88-1058281c7d5b",
