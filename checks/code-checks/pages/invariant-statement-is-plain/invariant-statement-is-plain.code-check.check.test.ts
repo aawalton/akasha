@@ -3,6 +3,7 @@ import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import { reasonsIn, reasonsShaped } from "./invariant-statement-is-plain.code-check.check.code.ts"
+import { paged } from "./invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
 
 const ROOT = "/repo"
 
@@ -13,11 +14,6 @@ const REPO_AT = rootOf(import.meta.dir)
 const judged = reasonsShaped(REPO_AT, shadowAt(REPO_AT).index)
 
 const given = bodiesAt(ROOT, AT)
-
-function paged(one: string): string {
-  const said = `    { invariantKind: "departure", statement: ${JSON.stringify(one)} },`
-  return ["export const held = {", "  invariants: [", said, "  ],", "}", ""].join("\n")
-}
 
 test("the body judged is the one the change carries", () => {
   const body = paged("A page is named because the slug says so.")

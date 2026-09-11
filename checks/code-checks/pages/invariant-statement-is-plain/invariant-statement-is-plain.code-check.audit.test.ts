@@ -4,6 +4,7 @@ import { scratchWorld } from "../../../../commands/modules/scratching/scratching
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as git } from "../../../../git/running/git-running.module.code.ts"
 import { invariantStatementIsPlain } from "./invariant-statement-is-plain.code-check.audit.code.ts"
+import { paged } from "./invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
 
 const AT = "akasha/held.check.ts"
 
@@ -12,11 +13,6 @@ const NOTES = "akasha/held.md"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function paged(one: string): string {
-  const said = `    { invariantKind: "departure", statement: ${JSON.stringify(one)} },`
-  return ["export const held = {", "  invariants: [", said, "  ],", "}", ""].join("\n")
-}
 
 function treed(path: string): string {
   const root = scratch.rootFor("akasha-plain-audit-")
