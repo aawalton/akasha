@@ -8,7 +8,8 @@ import {
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { addressedIn } from "akasha/pages/address/page-address.module.code.ts"
 import { listedAt, listedFor } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const ASSIGNMENT =
   "A seat answers for the assignment it states, and that assignment is read before the seat is changed."

@@ -12,7 +12,8 @@ import {
   listedAt,
   listedFor,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const UNDER =
   "A seat answers for the initiative it states, and every initiative that one is under is read before the seat is changed."
