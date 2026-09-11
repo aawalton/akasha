@@ -42,7 +42,15 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A message is claimed and taken by a path composed from that message's id.",
+      statement: "A message is claimed and taken at the path the index files that message at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page composer may give a message a folder of its own, so the path is asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message the index does not name is claimed and taken at the composed path.",
     },
     {
       invariantKind: "departure",

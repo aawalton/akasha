@@ -65,9 +65,10 @@ export function messageDirRelPath(_to: string): string {
   return PAGES_AT
 }
 
-export function messageRelPath(_to: string, id: string): string {
+export function messageRelPath(to: string, id: string): string {
   const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : messageNamed(id)
-  return `${PAGES_AT}/${stem}${PAGE_EXT}`
+  const found = messagesTo(to).find((one) => one.id === stem)
+  return found?.relPath ?? `${PAGES_AT}/${stem}${PAGE_EXT}`
 }
 
 function unknownRecipient(to: string): string | null {
