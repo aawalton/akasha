@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { describedAs } from "./tree-description.module.code.ts"
+import { describedAs } from "akasha/code-system/editor/extension/tree-description/tree-description.module.code.ts"
 
 test("a panel under no filter says how many rows it drew", () => {
   expect(describedAs(undefined, 7)).toBe("7 rows")

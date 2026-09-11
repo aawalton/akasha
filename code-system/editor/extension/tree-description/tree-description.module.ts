@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const treeDescription = {
   id: "01a081eb-4c68-74d1-b315-5777eb9c2046",
