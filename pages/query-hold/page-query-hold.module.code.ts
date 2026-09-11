@@ -1,4 +1,4 @@
-import type { Said } from "../query-request/page-query-request.module.code.ts"
+import type { Said } from "akasha/pages/query-request/page-query-request.module.code.ts"
 
 let answerTtlMs = 0
 
