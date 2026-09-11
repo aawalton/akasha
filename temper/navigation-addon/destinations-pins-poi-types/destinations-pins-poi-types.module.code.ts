@@ -1,4 +1,4 @@
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 
 export const DESTINATIONS_PIN_TYPE_AOI = 1
 export const DESTINATIONS_PIN_TYPE_AYLEIDRUIN = 2

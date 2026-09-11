@@ -1,4 +1,7 @@
-import { ADDON_NAME, ADDON_VERSION } from "../map-pins-names/map-pins-names.module.code.ts"
+import {
+  ADDON_NAME,
+  ADDON_VERSION,
+} from "akasha/temper/navigation-addon/map-pins-names/map-pins-names.module.code.ts"
 
 export interface TemperMapPinsApi {
   ADDON_NAME: typeof ADDON_NAME

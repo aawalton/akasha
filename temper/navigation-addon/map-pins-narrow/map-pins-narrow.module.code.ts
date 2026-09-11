@@ -10,8 +10,11 @@ import type {
   PoiNameTable,
   StringNumberMap,
   SubzonePinTable,
-} from "../map-pins-data-types/map-pins-data-types.module.code.ts"
-import type { PinDef, PinTag } from "../map-pins-pin-types/map-pins-pin-types.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
+import type {
+  PinDef,
+  PinTag,
+} from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
 
 type OptNumber = number | undefined
 type OptString = string | undefined

@@ -1,4 +1,4 @@
-import { achievementName } from "../destinations-data-runtime/destinations-data-runtime.module.code.ts"
+import { achievementName } from "akasha/temper/navigation-addon/destinations-data-runtime/destinations-data-runtime.module.code.ts"
 
 export const SETTINGS_STRINGS_02: Record<string, string> = {
   DEST_SETTINGS_VWW_HEADER_TT:

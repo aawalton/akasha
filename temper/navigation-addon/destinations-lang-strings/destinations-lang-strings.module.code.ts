@@ -1,49 +1,49 @@
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_DE,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_DE,
-} from "../destinations-lang-collectibles-de/destinations-lang-collectibles-de.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-de/destinations-lang-collectibles-de.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_EN,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_EN,
-} from "../destinations-lang-collectibles-en/destinations-lang-collectibles-en.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-en/destinations-lang-collectibles-en.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_FR,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_FR,
-} from "../destinations-lang-collectibles-fr/destinations-lang-collectibles-fr.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-fr/destinations-lang-collectibles-fr.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_FX,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_FX,
-} from "../destinations-lang-collectibles-fx/destinations-lang-collectibles-fx.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-fx/destinations-lang-collectibles-fx.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_JF,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_JF,
-} from "../destinations-lang-collectibles-jf/destinations-lang-collectibles-jf.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-jf/destinations-lang-collectibles-jf.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_JP,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_JP,
-} from "../destinations-lang-collectibles-jp/destinations-lang-collectibles-jp.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-jp/destinations-lang-collectibles-jp.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_PL,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_PL,
-} from "../destinations-lang-collectibles-pl/destinations-lang-collectibles-pl.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-pl/destinations-lang-collectibles-pl.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_RU,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_RU,
-} from "../destinations-lang-collectibles-ru/destinations-lang-collectibles-ru.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-ru/destinations-lang-collectibles-ru.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_ZH,
   COLLECTIBLE_DATA_STORE as COLLECTIBLE_STORE_ZH,
-} from "../destinations-lang-collectibles-zh/destinations-lang-collectibles-zh.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_DE } from "../destinations-lang-settings-de/destinations-lang-settings-de.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_EN } from "../destinations-lang-settings-en/destinations-lang-settings-en.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_ES } from "../destinations-lang-settings-es/destinations-lang-settings-es.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_FR } from "../destinations-lang-settings-fr/destinations-lang-settings-fr.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_FX } from "../destinations-lang-settings-fx/destinations-lang-settings-fx.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_JF } from "../destinations-lang-settings-jf/destinations-lang-settings-jf.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_JP } from "../destinations-lang-settings-jp/destinations-lang-settings-jp.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_PL } from "../destinations-lang-settings-pl/destinations-lang-settings-pl.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_RU } from "../destinations-lang-settings-ru/destinations-lang-settings-ru.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_ZH } from "../destinations-lang-settings-zh/destinations-lang-settings-zh.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-lang-collectibles-zh/destinations-lang-collectibles-zh.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_DE } from "akasha/temper/navigation-addon/destinations-lang-settings-de/destinations-lang-settings-de.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_EN } from "akasha/temper/navigation-addon/destinations-lang-settings-en/destinations-lang-settings-en.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_ES } from "akasha/temper/navigation-addon/destinations-lang-settings-es/destinations-lang-settings-es.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_FR } from "akasha/temper/navigation-addon/destinations-lang-settings-fr/destinations-lang-settings-fr.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_FX } from "akasha/temper/navigation-addon/destinations-lang-settings-fx/destinations-lang-settings-fx.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_JF } from "akasha/temper/navigation-addon/destinations-lang-settings-jf/destinations-lang-settings-jf.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_JP } from "akasha/temper/navigation-addon/destinations-lang-settings-jp/destinations-lang-settings-jp.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_PL } from "akasha/temper/navigation-addon/destinations-lang-settings-pl/destinations-lang-settings-pl.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_RU } from "akasha/temper/navigation-addon/destinations-lang-settings-ru/destinations-lang-settings-ru.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_ZH } from "akasha/temper/navigation-addon/destinations-lang-settings-zh/destinations-lang-settings-zh.module.code.ts"
 
 export interface CollectiblesData {
   CollectibleDataIndex: { KEY: number; NUMBER: number; NAME: number }

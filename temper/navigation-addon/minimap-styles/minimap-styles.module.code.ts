@@ -2,8 +2,8 @@ import {
   asAnyTable,
   asMiniMapControl,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder } from "../minimap-holder/minimap-holder.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import { holder } from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
 
 const self = holder
 

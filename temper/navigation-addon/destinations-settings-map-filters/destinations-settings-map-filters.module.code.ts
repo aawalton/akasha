@@ -1,12 +1,12 @@
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { getCharacterSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   achHeaderName,
   perCharName,
   reloadWarningColored,
   tooltipWithPerChar,
-} from "../destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
 
 type MapFilterSettingKey =
   | "MapFiltersPOIs"

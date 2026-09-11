@@ -5,13 +5,19 @@ import {
   asMiniMapPanAndZoom,
   asMiniMapPinManager,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { panZoom, pins } from "../minimap-shared/minimap-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import {
+  panZoom,
+  pins,
+} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
 import type {
   LooseTable,
   MiniMapControl,
-} from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 holder.GetCurrentZoom = function (this: VotansMiniMap): number {
   return asNumber(asMiniMapPanAndZoom(panZoom()).GetCurrentNormalizedZoom())

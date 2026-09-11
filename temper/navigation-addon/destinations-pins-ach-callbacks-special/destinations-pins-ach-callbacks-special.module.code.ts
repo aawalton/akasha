@@ -9,17 +9,17 @@ import {
   DEST_PIN_TEXT_COLOR_RELICHUNTER_DONE,
   DEST_PIN_TINT_CHAMPION,
   DEST_PIN_TINT_CHAMPION_DONE,
-} from "../destinations-colors/destinations-colors.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   ACH_STATE,
   sharedAchievementsPinData,
-} from "../destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
-} from "../destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
-import { zoneToAchievementCriterion } from "../destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIDs,
   AchIndex,
@@ -27,9 +27,9 @@ import {
   DBossStore,
   rowNumber,
   rowString,
-} from "../destinations-pins-stores/destinations-pins-stores.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function otherpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

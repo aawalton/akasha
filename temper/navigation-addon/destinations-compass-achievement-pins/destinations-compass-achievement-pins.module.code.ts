@@ -1,13 +1,13 @@
 import {
   createCompassPairPin,
   pairEnabled,
-} from "../destinations-compass-pair-pin/destinations-compass-pair-pin.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-compass-pair-pin/destinations-compass-pair-pin.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
-} from "../destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
-import { zoneToAchievementCriterion } from "../destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIndex,
   type AchRow,
@@ -16,12 +16,12 @@ import {
   DBossStore,
   rowNumber,
   rowString,
-} from "../destinations-pins-stores/destinations-pins-stores.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import {
   getCharacterSavedVariables,
   getSavedVariables,
-} from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function addAchievementCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

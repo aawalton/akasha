@@ -5,9 +5,9 @@ import {
   asNumber,
   asScene,
   asSceneFragment,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import type { VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import type { LooseTable } from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import type { VotansMiniMap } from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
   let scene: LooseTable = asAnyTable(undefined)

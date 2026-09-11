@@ -1,15 +1,15 @@
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
-} from "../destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 import {
   AchIndex,
   AchStore,
   rowNumber,
-} from "../destinations-pins-stores/destinations-pins-stores.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getCharacterSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function addMiscCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

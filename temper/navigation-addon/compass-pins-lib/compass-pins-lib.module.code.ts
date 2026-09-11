@@ -3,7 +3,7 @@ import {
   asOptString,
   asPinTypeId,
   asTableKey,
-} from "../compass-pins-casts/compass-pins-casts.module.code.ts"
+} from "akasha/temper/navigation-addon/compass-pins-casts/compass-pins-casts.module.code.ts"
 import {
   COEFFICIENTS,
   DEFAULT_MAX_DISTANCE,
@@ -18,14 +18,17 @@ import {
   SUBZONE_COEFFICIENT,
   UPDATE_THROTTLE_MS,
   WORLD_MAP_CHANGED_CALLBACK,
-} from "../compass-pins-constants/compass-pins-constants.module.code.ts"
-import { CompassPinManager } from "../compass-pins-manager/compass-pins-manager.module.code.ts"
-import { pinLayouts, STATE } from "../compass-pins-state/compass-pins-state.module.code.ts"
+} from "akasha/temper/navigation-addon/compass-pins-constants/compass-pins-constants.module.code.ts"
+import { CompassPinManager } from "akasha/temper/navigation-addon/compass-pins-manager/compass-pins-manager.module.code.ts"
+import {
+  pinLayouts,
+  STATE,
+} from "akasha/temper/navigation-addon/compass-pins-state/compass-pins-state.module.code.ts"
 import type {
   CompassPin,
   Lib,
   PinCallback,
-} from "../compass-pins-types/compass-pins-types.module.code.ts"
+} from "akasha/temper/navigation-addon/compass-pins-types/compass-pins-types.module.code.ts"
 
 const sharedMapPinManager = ZO_WorldMap_GetPinManager()
 

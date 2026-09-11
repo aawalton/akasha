@@ -1,6 +1,6 @@
-import { fishDonepinTypeCallback } from "../destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"
-import { fishpinTypeCallback } from "../destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { fishDonepinTypeCallback } from "akasha/temper/navigation-addon/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"
+import { fishpinTypeCallback } from "akasha/temper/navigation-addon/destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   BrawlpinTypeCallback,
   BrawlpinTypeCallbackDone,
@@ -18,7 +18,7 @@ import {
   PeacemakerpinTypeCallbackDone,
   WrothgarJumperpinTypeCallback,
   WrothgarJumperpinTypeCallbackDone,
-} from "../destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import {
   breakingpinTypeCallback,
   breakingpinTypeCallbackDone,
@@ -30,13 +30,13 @@ import {
   otherpinTypeCallbackDone,
   relicHunterpinTypeCallback,
   relicHunterpinTypeCallbackDone,
-} from "../destinations-pins-ach-callbacks-special/destinations-pins-ach-callbacks-special.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks-special/destinations-pins-ach-callbacks-special.module.code.ts"
 import {
   collectibleDonepinTypeCallback,
   collectiblepinTypeCallback,
-} from "../destinations-pins-collectible-callbacks/destinations-pins-collectible-callbacks.module.code.ts"
-import { addCompassPins } from "../destinations-pins-compass/destinations-pins-compass.module.code.ts"
-import { addPinFilters } from "../destinations-pins-map-filters/destinations-pins-map-filters.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-collectible-callbacks/destinations-pins-collectible-callbacks.module.code.ts"
+import { addCompassPins } from "akasha/temper/navigation-addon/destinations-pins-compass/destinations-pins-compass.module.code.ts"
+import { addPinFilters } from "akasha/temper/navigation-addon/destinations-pins-map-filters/destinations-pins-map-filters.module.code.ts"
 import {
   AyleidpinTypeCallback,
   DeadlandspinTypeCallback,
@@ -45,17 +45,17 @@ import {
   VampireAltarpinTypeCallback,
   WerewolfShrinepinTypeCallback,
   WWVamppinTypeCallback,
-} from "../destinations-pins-misc-poi-callbacks/destinations-pins-misc-poi-callbacks.module.code.ts"
-import { buildPinLayouts } from "../destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"
-import { mapCallbackQolPins } from "../destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-misc-poi-callbacks/destinations-pins-misc-poi-callbacks.module.code.ts"
+import { buildPinLayouts } from "akasha/temper/navigation-addon/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"
+import { mapCallbackQolPins } from "akasha/temper/navigation-addon/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"
 import {
   PIN_TOOLTIP_CREATOR,
   QOL_PIN_TOOLTIP_CREATOR,
-} from "../destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
 import {
   mapCallbackFakeKnown,
   mapCallbackUnknown,
-} from "../destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
 
 export function setPinLayouts(): undefined {
   const layouts = buildPinLayouts()

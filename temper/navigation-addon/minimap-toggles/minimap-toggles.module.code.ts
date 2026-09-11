@@ -5,17 +5,20 @@ import {
   asNumber,
   asScene,
   asSceneFragment,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { MINIMAP_MAP_MODE } from "../minimap-names/minimap-names.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
 import type {
   AccountSettings,
   PlayerSettings,
-} from "../minimap-saved-variables/minimap-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-saved-variables/minimap-saved-variables.module.code.ts"
 import {
   SAVED_VARS_GLOBAL,
   SAVED_VARS_VERSION,
-} from "../minimap-saved-variables/minimap-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-saved-variables/minimap-saved-variables.module.code.ts"
 
 const async = LibAsync
 

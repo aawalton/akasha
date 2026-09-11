@@ -1,29 +1,29 @@
 import {
   CHAMPION_TABLE_INDEX,
   CHAMPION_TABLE_STORE,
-} from "../destinations-champions-data/destinations-champions-data.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-champions-data/destinations-champions-data.module.code.ts"
 import {
   FISH_LOCATIONS_INDEX,
   FISH_LOCATIONS_STORE,
-} from "../destinations-fish-data/destinations-fish-data.module.code.ts"
-import { getCollectiblesData } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { MUNDUS_STRINGS } from "../destinations-mundus-data/destinations-mundus-data.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-fish-data/destinations-fish-data.module.code.ts"
+import { getCollectiblesData } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { MUNDUS_STRINGS } from "akasha/temper/navigation-addon/destinations-mundus-data/destinations-mundus-data.module.code.ts"
 import {
   KEEPS_STORE as KeepsStoreData,
   POIS_STORE,
   SETS_STORE,
-} from "../destinations-poi-data/destinations-poi-data.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-poi-data/destinations-poi-data.module.code.ts"
 import {
   ACH_DATA_INDEX,
   ACH_DATA_STORE,
   QOL_DATA_STORE,
-} from "../destinations-shared-data/destinations-shared-data.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-shared-data/destinations-shared-data.module.code.ts"
 import {
   ACH_IDS as AchIDsData,
   COLLECTIBLE_IDS as CollectibleIDsData,
   FISH_IDS as FishIDsData,
   FISH_LOCS as FishLocsData,
-} from "../destinations-shared-data-ids/destinations-shared-data-ids.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-shared-data-ids/destinations-shared-data-ids.module.code.ts"
 
 export type AchRow = (number | string)[]
 export type ChampionRow = number[]

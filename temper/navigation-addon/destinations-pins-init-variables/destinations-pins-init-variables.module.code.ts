@@ -1,10 +1,10 @@
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { MAP_STATE } from "../destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { MAP_STATE } from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import {
   getCharacterSavedVariables,
   getSavedVariables,
-} from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 interface PartialPinEntry {
   maxDistance?: number

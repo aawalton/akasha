@@ -4,32 +4,32 @@ import {
   DEST_PIN_TEXT_COLORBAIT_FISH,
   DEST_PIN_TEXT_COLORTITLE_FISH,
   DEST_PIN_TEXT_COLORWATER_FISH,
-} from "../destinations-colors/destinations-colors.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
 import {
   baitAndWaterForPinType,
   baitLeftForPinType,
   scanFishingBait,
-} from "../destinations-fishing-bait/destinations-fishing-bait.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-fishing-bait/destinations-fishing-bait.module.code.ts"
 import {
   DESTINATIONS_FISH_TYPE_FOUL,
   DESTINATIONS_FISH_TYPE_LAKE,
   DESTINATIONS_FISH_TYPE_OCEAN,
   DESTINATIONS_FISH_TYPE_RIVER,
-} from "../destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   ACH_STATE,
   sharedAchievementsPinData,
-} from "../destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import {
   AchIndex,
   FishIDs,
   FishIndex,
   FishStore,
   rowNumber,
-} from "../destinations-pins-stores/destinations-pins-stores.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function fishpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

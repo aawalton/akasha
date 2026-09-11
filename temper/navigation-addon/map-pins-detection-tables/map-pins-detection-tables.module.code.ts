@@ -1,4 +1,4 @@
-import type { NameSet } from "../map-pins-data-types/map-pins-data-types.module.code.ts"
+import type { NameSet } from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
 
 export const IS_CHEST: NameSet = {
   Chest: true,

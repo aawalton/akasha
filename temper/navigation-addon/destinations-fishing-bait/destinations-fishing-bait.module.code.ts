@@ -1,5 +1,5 @@
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 
 function findsIn(haystack: string, pattern: string): boolean {
   const [findStart] = string.find(haystack, pattern)

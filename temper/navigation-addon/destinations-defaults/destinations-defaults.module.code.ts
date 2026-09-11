@@ -18,9 +18,9 @@ import {
   DEST_COLOR_SADDLEBROWN,
   DEST_COLOR_WHITE,
   DEST_COLOR_YELLOW,
-} from "../destinations-colors/destinations-colors.module.code.ts"
-import { PIN_DEFAULTS } from "../destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_DEFAULTS } from "akasha/temper/navigation-addon/destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 
 const FILTER_DEFAULTS: Record<string, boolean> = {
   [PIN_TYPES.UNKNOWN]: true,

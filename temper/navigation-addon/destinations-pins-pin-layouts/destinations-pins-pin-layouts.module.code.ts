@@ -16,14 +16,14 @@ import {
   DEST_PIN_TINT_VAMPALTAR,
   DEST_PIN_TINT_WWSHRINE,
   DEST_PIN_TINT_WWVAMP,
-} from "../destinations-colors/destinations-colors.module.code.ts"
-import { PIN_TEXTURES } from "../destinations-pin-textures/destinations-pin-textures.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_TEXTURES } from "akasha/temper/navigation-addon/destinations-pin-textures/destinations-pin-textures.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getFakedPinTexture,
   getPinTextureUnknown,
-} from "../destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
-import { getSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 interface SvPinEntry {
   maxDistance: number

@@ -1,6 +1,10 @@
-import { CUSTOM_PINS } from "../map-pins-config/map-pins-config.module.code.ts"
-import { asNumber, asNumberMap, asPinTag } from "../map-pins-narrow/map-pins-narrow.module.code.ts"
-import type { PinDef } from "../map-pins-pin-types/map-pins-pin-types.module.code.ts"
+import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
+import {
+  asNumber,
+  asNumberMap,
+  asPinTag,
+} from "akasha/temper/navigation-addon/map-pins-narrow/map-pins-narrow.module.code.ts"
+import type { PinDef } from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
 
 export const PIN_TOOLTIP_SUPRES: Record<number, true> = {
   [7]: true,

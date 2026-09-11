@@ -59,8 +59,8 @@ import {
   DEST_PIN_TINT_VAMPALTAR,
   DEST_PIN_TINT_WWSHRINE,
   DEST_PIN_TINT_WWVAMP,
-} from "../destinations-colors/destinations-colors.module.code.ts"
-import { getSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 type SavedColorTable = number[]
 

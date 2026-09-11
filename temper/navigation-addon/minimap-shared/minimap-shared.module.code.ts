@@ -4,14 +4,14 @@ import {
   asMapScene,
   asRecord,
   asString,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder } from "../minimap-holder/minimap-holder.module.code.ts"
-import { MINIMAP_MAP_MODE } from "../minimap-names/minimap-names.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import { holder } from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
 import type {
   AnyAsyncTask,
   LooseTable,
   MapScene,
-} from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 MAP_MODE_VOTANS_MINIMAP = MINIMAP_MAP_MODE
 

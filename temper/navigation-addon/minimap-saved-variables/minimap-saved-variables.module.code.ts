@@ -1,4 +1,4 @@
-import { SAVED_VARIABLES_NAME } from "../minimap-names/minimap-names.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
 
 export interface AccountSettings {
   enableTweaks: boolean

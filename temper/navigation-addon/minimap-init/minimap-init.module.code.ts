@@ -5,19 +5,25 @@ import {
   asMiniMapControl,
   asMiniMapScene,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { installHandlers } from "../minimap-handlers/minimap-handlers.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { MINIMAP_MAP_MODE } from "../minimap-names/minimap-names.module.code.ts"
-import { noGamepad, noOp } from "../minimap-shared/minimap-shared.module.code.ts"
-import { STATE } from "../minimap-state/minimap-state.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import { installHandlers } from "akasha/temper/navigation-addon/minimap-handlers/minimap-handlers.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
+import {
+  noGamepad,
+  noOp,
+} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
+import { STATE } from "akasha/temper/navigation-addon/minimap-state/minimap-state.module.code.ts"
 import {
   installCallbackPump,
   installUpdateHandler,
   installVisibility,
   installZoomOverrides,
-} from "../minimap-update/minimap-update.module.code.ts"
-import type { LooseTable } from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-update/minimap-update.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 const em = EVENT_MANAGER
 

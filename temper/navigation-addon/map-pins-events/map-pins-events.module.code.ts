@@ -2,19 +2,22 @@ import {
   onAchievementUpdate,
   onBookLearned,
   onSkyshardsUpdated,
-} from "../map-pins-achievement-events/map-pins-achievement-events.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-achievement-events/map-pins-achievement-events.module.code.ts"
 import {
   onInteract,
   trackChestsRange,
-} from "../map-pins-chest-capture/map-pins-chest-capture.module.code.ts"
-import { scanInventory } from "../map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"
-import { onLootReceived } from "../map-pins-item-events/map-pins-item-events.module.code.ts"
-import { ADDON_NAME } from "../map-pins-names/map-pins-names.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-chest-capture/map-pins-chest-capture.module.code.ts"
+import { scanInventory } from "akasha/temper/navigation-addon/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"
+import { onLootReceived } from "akasha/temper/navigation-addon/map-pins-item-events/map-pins-item-events.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/navigation-addon/map-pins-names/map-pins-names.module.code.ts"
 import {
   getSavedGlobal,
   getSavedVars,
-} from "../map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { getPinTypeId, STATE } from "../map-pins-state/map-pins-state.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import {
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 
 export function resizePins(this: void, minimap: boolean): undefined {
   if (BUI === undefined) return

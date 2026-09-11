@@ -6,18 +6,18 @@ import {
   DEST_PIN_TEXT_COLOR_VAMPALTAR,
   DEST_PIN_TEXT_COLOR_WWSHRINE,
   DEST_PIN_TEXT_COLOR_WWVAMP,
-} from "../destinations-colors/destinations-colors.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   ACH_STATE,
   sharedAchievementsPinData,
-} from "../destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
-import { getAchTypeName } from "../destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+import { getAchTypeName } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIndex,
   rowNumber,
-} from "../destinations-pins-stores/destinations-pins-stores.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 
 function makeMiscPoiCallback(
   pinName: string,

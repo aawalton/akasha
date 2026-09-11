@@ -1,11 +1,17 @@
-import { ACHIEVEMENTS_ID } from "../map-pins-achievements-id/map-pins-achievements-id.module.code.ts"
-import { BOSSES_ACHIEVEMENTS } from "../map-pins-bosses-achievements/map-pins-bosses-achievements.module.code.ts"
-import { CUSTOM_PINS } from "../map-pins-config/map-pins-config.module.code.ts"
-import type { IdSet, NumberMap } from "../map-pins-data-types/map-pins-data-types.module.code.ts"
-import { FISHING_ACHIEVEMENTS } from "../map-pins-fishing-achievements/map-pins-fishing-achievements.module.code.ts"
-import { getSavedVars } from "../map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { SKY_SHARDS_ACHIEVEMENTS } from "../map-pins-sky-shards-achievements/map-pins-sky-shards-achievements.module.code.ts"
-import { getPinTypeId, STATE } from "../map-pins-state/map-pins-state.module.code.ts"
+import { ACHIEVEMENTS_ID } from "akasha/temper/navigation-addon/map-pins-achievements-id/map-pins-achievements-id.module.code.ts"
+import { BOSSES_ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-bosses-achievements/map-pins-bosses-achievements.module.code.ts"
+import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
+import type {
+  IdSet,
+  NumberMap,
+} from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
+import { FISHING_ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-fishing-achievements/map-pins-fishing-achievements.module.code.ts"
+import { getSavedVars } from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import { SKY_SHARDS_ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-sky-shards-achievements/map-pins-sky-shards-achievements.module.code.ts"
+import {
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 
 const achievementsId: NumberMap = ACHIEVEMENTS_ID
 const skyShardsAchievements: IdSet = SKY_SHARDS_ACHIEVEMENTS

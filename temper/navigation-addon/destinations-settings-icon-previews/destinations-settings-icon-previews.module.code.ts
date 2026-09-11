@@ -1,9 +1,9 @@
-import { PIN_TEXTURE_PATHS } from "../destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
-import { getSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   applyTint,
   texturePathAt,
-} from "../destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
 
 export interface IconPreviews {
   unknownPoi: TextureControl

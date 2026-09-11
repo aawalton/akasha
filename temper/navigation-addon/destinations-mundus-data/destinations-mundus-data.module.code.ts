@@ -1,4 +1,4 @@
-import { abilityDescription } from "../destinations-data-runtime/destinations-data-runtime.module.code.ts"
+import { abilityDescription } from "akasha/temper/navigation-addon/destinations-data-runtime/destinations-data-runtime.module.code.ts"
 export const MUNDUS_STRINGS = {
   [13940]: abilityDescription(60462),
   [13943]: abilityDescription(60550),

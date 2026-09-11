@@ -1,9 +1,9 @@
 import {
   DEST_PIN_TEXT_COLOR_OTHER,
   DEST_PIN_TEXT_COLOR_OTHER_DONE,
-} from "../destinations-colors/destinations-colors.module.code.ts"
-import type { PinDefaultsKey } from "../destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
-import type { AchievementPinKey } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
+import type { PinDefaultsKey } from "akasha/temper/navigation-addon/destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
+import type { AchievementPinKey } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 
 export interface DestinationsRuntimeVariables {
   MapMiscPOIs: boolean

@@ -5,21 +5,21 @@ import {
   asMiniMapPin,
   asMiniMapPinManager,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
 import {
   createAsyncTask,
   dbg,
   getScene,
   pins,
-} from "../minimap-shared/minimap-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
 import {
   type WayshrineCell,
   zoomDone,
-} from "../minimap-tweaks-shared/minimap-tweaks-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-tweaks-shared/minimap-tweaks-shared.module.code.ts"
 import type {
   AnyAsyncTask,
   LooseTable,
-} from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 const SIXTY_FPS_FRAME_BUDGET_SECONDS = 0.016
 

@@ -1,9 +1,9 @@
-import type { DestinationsDefaults } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getCharacterSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import type { DestinationsDefaults } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 const LMP = LibMapPins
 

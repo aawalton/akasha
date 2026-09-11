@@ -1,4 +1,3 @@
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
@@ -6,13 +5,17 @@ import {
   asMiniMapPinManager,
   asNumber,
   asRecord,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { createAsyncTask } from "../minimap-shared/minimap-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { createAsyncTask } from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
 import type {
   AnyAsyncTask,
   LooseTable,
-} from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const em = EVENT_MANAGER
 const G = asRecord(globalThis)

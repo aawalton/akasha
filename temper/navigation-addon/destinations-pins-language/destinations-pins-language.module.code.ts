@@ -1,6 +1,6 @@
-import { getClientLanguage } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { ADDON_NAME } from "../destinations-names/destinations-names.module.code.ts"
-import { getSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { getClientLanguage } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/navigation-addon/destinations-names/destinations-names.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 const SUPPORTED_MENU_LANGS = ["de", "en", "es", "fr", "fx", "jf", "jp", "pl", "ru", "zh"]
 

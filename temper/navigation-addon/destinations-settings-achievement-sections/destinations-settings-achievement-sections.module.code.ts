@@ -1,12 +1,12 @@
-import type { DestinationsDefaults } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import { togglePins } from "../destinations-pins-filters/destinations-pins-filters.module.code.ts"
+import type { DestinationsDefaults } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { togglePins } from "akasha/temper/navigation-addon/destinations-pins-filters/destinations-pins-filters.module.code.ts"
 import {
   getCharacterSavedVariables,
   getSavedVariables,
-} from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   achHeaderName,
   choiceAt,
@@ -15,9 +15,9 @@ import {
   perCharName,
   redrawAllPins,
   texturePathAt,
-} from "../destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
-import type { IconPreviews } from "../destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
-import { getIconPreviews } from "../destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import type { IconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
+import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 
 export const LMP = LibMapPins
 

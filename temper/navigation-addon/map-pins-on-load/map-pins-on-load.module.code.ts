@@ -1,22 +1,25 @@
-import { CUSTOM_PINS } from "../map-pins-config/map-pins-config.module.code.ts"
-import { registerEvents } from "../map-pins-events/map-pins-events.module.code.ts"
+import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
+import { registerEvents } from "akasha/temper/navigation-addon/map-pins-events/map-pins-events.module.code.ts"
 import {
   addPinFilter,
   makeMapFiltersScroll,
-} from "../map-pins-map-filters/map-pins-map-filters.module.code.ts"
-import { asGlobalTable, asPinDef } from "../map-pins-narrow/map-pins-narrow.module.code.ts"
-import { mapPinAddCallback } from "../map-pins-pin-add/map-pins-pin-add.module.code.ts"
-import type { PinDef } from "../map-pins-pin-types/map-pins-pin-types.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-map-filters/map-pins-map-filters.module.code.ts"
+import {
+  asGlobalTable,
+  asPinDef,
+} from "akasha/temper/navigation-addon/map-pins-narrow/map-pins-narrow.module.code.ts"
+import { mapPinAddCallback } from "akasha/temper/navigation-addon/map-pins-pin-add/map-pins-pin-add.module.code.ts"
+import type { PinDef } from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
 import {
   getSavedGlobal,
   initializeSavedVariables,
-} from "../map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { STATE } from "../map-pins-state/map-pins-state.module.code.ts"
-import { getSubzone } from "../map-pins-subzone/map-pins-subzone.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import { STATE } from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
+import { getSubzone } from "akasha/temper/navigation-addon/map-pins-subzone/map-pins-subzone.module.code.ts"
 import {
   PIN_TOOLTIP_CREATOR,
   PIN_TOOLTIP_SUPRES,
-} from "../map-pins-tooltips/map-pins-tooltips.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-tooltips/map-pins-tooltips.module.code.ts"
 
 function addPin(this: void, pin: number, pinLayout: PinDef): number {
   const tooltipCreator = PIN_TOOLTIP_SUPRES[pin] === true ? undefined : PIN_TOOLTIP_CREATOR

@@ -1,22 +1,25 @@
-import { CHEST_DATA } from "../map-pins-chests/map-pins-chests.module.code.ts"
-import { CUSTOM_PINS } from "../map-pins-config/map-pins-config.module.code.ts"
+import { CHEST_DATA } from "akasha/temper/navigation-addon/map-pins-chests/map-pins-chests.module.code.ts"
+import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
 import type {
   NestedPinTable,
   SubzonePinTable,
-} from "../map-pins-data-types/map-pins-data-types.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
 import {
   IS_CHEST,
   IS_THIEVES_TROVE,
   IS_TIME_BREACH,
-} from "../map-pins-detection-tables/map-pins-detection-tables.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-detection-tables/map-pins-detection-tables.module.code.ts"
 import {
   getChestData,
   getSavedVars,
   getThievesTrove,
-} from "../map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { getPinTypeId, STATE } from "../map-pins-state/map-pins-state.module.code.ts"
-import { getSubzone } from "../map-pins-subzone/map-pins-subzone.module.code.ts"
-import { TIME_BREACH } from "../map-pins-time-breach/map-pins-time-breach.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import {
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
+import { getSubzone } from "akasha/temper/navigation-addon/map-pins-subzone/map-pins-subzone.module.code.ts"
+import { TIME_BREACH } from "akasha/temper/navigation-addon/map-pins-time-breach/map-pins-time-breach.module.code.ts"
 
 const chestData: NestedPinTable = CHEST_DATA
 const timeBreach: SubzonePinTable = TIME_BREACH

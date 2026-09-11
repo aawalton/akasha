@@ -1,5 +1,5 @@
 import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
-import { ADDON_NAME } from "../destinations-names/destinations-names.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/navigation-addon/destinations-names/destinations-names.module.code.ts"
 
 export let showLog = true
 

@@ -1,14 +1,14 @@
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { PIN_TEXTURE_PATHS } from "../destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
-import { PIN_TEXTURE_LISTS } from "../destinations-pin-textures/destinations-pin-textures.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import { onPoiUpdated } from "../destinations-pins-events/destinations-pins-events.module.code.ts"
-import { togglePins } from "../destinations-pins-filters/destinations-pins-filters.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
+import { PIN_TEXTURE_LISTS } from "akasha/temper/navigation-addon/destinations-pin-textures/destinations-pin-textures.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { onPoiUpdated } from "akasha/temper/navigation-addon/destinations-pins-events/destinations-pins-events.module.code.ts"
+import { togglePins } from "akasha/temper/navigation-addon/destinations-pins-filters/destinations-pins-filters.module.code.ts"
 import {
   getCharacterSavedVariables,
   getSavedVariables,
-} from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   choiceAt,
   colorDefaultRgb,
@@ -18,8 +18,8 @@ import {
   setUnknownDestLayoutKey,
   texturePathAt,
   unpackRgb,
-} from "../destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
-import { getIconPreviews } from "../destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 
 function unknownColored(stringKey: string): string {
   return DEFAULTS.miscColorCodes.settingsTextUnknown.Colorize(getSettingsString(stringKey))

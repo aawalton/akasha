@@ -1,4 +1,4 @@
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 
 export function onPoiUpdated(this: void): undefined {
   LibMapPins.RefreshPins(PIN_TYPES.UNKNOWN)

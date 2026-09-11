@@ -1,7 +1,13 @@
-import { asMiniMapControl } from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { applyModeStyle } from "../minimap-mode/minimap-mode.module.code.ts"
-import { getScene, noGamepad } from "../minimap-shared/minimap-shared.module.code.ts"
+import { asMiniMapControl } from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { applyModeStyle } from "akasha/temper/navigation-addon/minimap-mode/minimap-mode.module.code.ts"
+import {
+  getScene,
+  noGamepad,
+} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
 
 holder.UpdateBorder = function (this: VotansMiniMap): undefined {
   const control = asMiniMapControl(this.background)

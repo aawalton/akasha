@@ -3,7 +3,7 @@ import {
   type FrameStyleItem,
   holder,
   type VotansMiniMap,
-} from "../minimap-holder/minimap-holder.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
 
 interface FontItem {
   name: string

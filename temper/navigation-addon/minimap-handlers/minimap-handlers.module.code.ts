@@ -8,10 +8,13 @@ import {
   asMiniMapPanAndZoom,
   asMiniMapScene,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { MINIMAP_MAP_MODE } from "../minimap-names/minimap-names.module.code.ts"
-import { noOp } from "../minimap-shared/minimap-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
+import { noOp } from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
 import {
   clearMouseoverText,
   newUpdateSize,
@@ -19,9 +22,9 @@ import {
   saveMapPosition,
   setMapTitle,
   setMapTitleCurrentLocation,
-} from "../minimap-state/minimap-state.module.code.ts"
-import { EXPORTED_UPDATE_MAP } from "../minimap-update/minimap-update.module.code.ts"
-import type { LooseTable } from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-state/minimap-state.module.code.ts"
+import { EXPORTED_UPDATE_MAP } from "akasha/temper/navigation-addon/minimap-update/minimap-update.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 const em = EVENT_MANAGER
 const async = LibAsync

@@ -1,14 +1,14 @@
-import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { dm } from "../destinations-logger/destinations-logger.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { dm } from "akasha/temper/navigation-addon/destinations-logger/destinations-logger.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
-} from "../destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
-import { FishLocs } from "../destinations-pins-stores/destinations-pins-stores.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+import { FishLocs } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import {
   getRawSavedVariablesRoot,
   getSavedVariables,
-} from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 type PoiCaptureTable = Record<number, Record<string, string>>
 

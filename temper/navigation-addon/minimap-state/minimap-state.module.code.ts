@@ -4,13 +4,13 @@ import {
   asMiniMapControl,
   asMiniMapPin,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder } from "../minimap-holder/minimap-holder.module.code.ts"
-import { noOp } from "../minimap-shared/minimap-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import { holder } from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { noOp } from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
 import type {
   AnyAsyncTask,
   LooseTable,
-} from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 interface InitMiniMapState {
   orgUpdateSize: (this: void, ...args: unknown[]) => unknown

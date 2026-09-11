@@ -3,7 +3,7 @@ import {
   SV_GLOBAL_NAME,
   SV_THIEVESTROVE_NAME,
   SV_VARS_NAME,
-} from "../map-pins-names/map-pins-names.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-names/map-pins-names.module.code.ts"
 
 export type ChestCoordList = (readonly number[])[]
 

@@ -1,9 +1,9 @@
-import { addAchievementCompassPins } from "../destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"
-import { collectibleFishCompassPins } from "../destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"
-import { addMiscCompassPins } from "../destinations-compass-misc-pins/destinations-compass-misc-pins.module.code.ts"
-import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import type { DestinationsPinLayouts } from "../destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"
-import { getCharacterSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { addAchievementCompassPins } from "akasha/temper/navigation-addon/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"
+import { collectibleFishCompassPins } from "akasha/temper/navigation-addon/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"
+import { addMiscCompassPins } from "akasha/temper/navigation-addon/destinations-compass-misc-pins/destinations-compass-misc-pins.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import type { DestinationsPinLayouts } from "akasha/temper/navigation-addon/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function addCompassPins(layouts: DestinationsPinLayouts): undefined {
   const filters = getCharacterSavedVariables().filters

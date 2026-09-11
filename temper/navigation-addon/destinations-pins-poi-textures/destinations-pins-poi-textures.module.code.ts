@@ -54,7 +54,7 @@ import {
   DESTINATIONS_PIN_TYPE_TOWN,
   DESTINATIONS_PIN_TYPE_UNKNOWN,
   DESTINATIONS_PIN_TYPE_WAYSHRINE,
-} from "../destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+} from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 
 const UNKNOWN_PIN_TEXTURE = "TemperNavigation/pins/poi_unknown_pintype.dds"
 

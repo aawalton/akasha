@@ -1,8 +1,11 @@
-import { CHEST_DATA } from "../map-pins-chests/map-pins-chests.module.code.ts"
-import { CUSTOM_PINS } from "../map-pins-config/map-pins-config.module.code.ts"
-import type { PinList, PinTuple } from "../map-pins-data-types/map-pins-data-types.module.code.ts"
-import { LOREBOOKS } from "../map-pins-lorebooks/map-pins-lorebooks.module.code.ts"
-import { MUNDUS_DESCRIPTION } from "../map-pins-mundus-description/map-pins-mundus-description.module.code.ts"
+import { CHEST_DATA } from "akasha/temper/navigation-addon/map-pins-chests/map-pins-chests.module.code.ts"
+import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
+import type {
+  PinList,
+  PinTuple,
+} from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
+import { LOREBOOKS } from "akasha/temper/navigation-addon/map-pins-lorebooks/map-pins-lorebooks.module.code.ts"
+import { MUNDUS_DESCRIPTION } from "akasha/temper/navigation-addon/map-pins-mundus-description/map-pins-mundus-description.module.code.ts"
 import {
   asDescMap,
   asIconMap,
@@ -14,15 +17,19 @@ import {
   asPoiNameTable,
   asString,
   asSubzonePinTable,
-} from "../map-pins-narrow/map-pins-narrow.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-narrow/map-pins-narrow.module.code.ts"
 import type {
   MapPinCallbackFn,
   PinTag,
-} from "../map-pins-pin-types/map-pins-pin-types.module.code.ts"
-import { getChestData } from "../map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { getPinManager, getPinTypeId, STATE } from "../map-pins-state/map-pins-state.module.code.ts"
-import { UNKNOWN_POI } from "../map-pins-unknown-poi/map-pins-unknown-poi.module.code.ts"
-import { UNKNOWN_POI_TEXTURE } from "../map-pins-unknown-poi-texture/map-pins-unknown-poi-texture.module.code.ts"
+} from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
+import { getChestData } from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import {
+  getPinManager,
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
+import { UNKNOWN_POI } from "akasha/temper/navigation-addon/map-pins-unknown-poi/map-pins-unknown-poi.module.code.ts"
+import { UNKNOWN_POI_TEXTURE } from "akasha/temper/navigation-addon/map-pins-unknown-poi-texture/map-pins-unknown-poi-texture.module.code.ts"
 
 const lorebooks = asSubzonePinTable(LOREBOOKS)
 const chestDataTable = asSubzonePinTable(CHEST_DATA)

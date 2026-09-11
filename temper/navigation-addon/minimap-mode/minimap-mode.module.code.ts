@@ -4,12 +4,19 @@ import {
   asBoolean,
   asMiniMapControl,
   asNumber,
-} from "../minimap-casts/minimap-casts.module.code.ts"
-import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
-import { MINIMAP_MAP_MODE } from "../minimap-names/minimap-names.module.code.ts"
-import { noGamepad, noOp, panZoom } from "../minimap-shared/minimap-shared.module.code.ts"
-import { STATE } from "../minimap-state/minimap-state.module.code.ts"
-import type { LooseTable } from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+import {
+  holder,
+  type VotansMiniMap,
+} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
+import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
+import {
+  noGamepad,
+  noOp,
+  panZoom,
+} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
+import { STATE } from "akasha/temper/navigation-addon/minimap-state/minimap-state.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 holder.GoWorldMapMode = function (this: VotansMiniMap, skipPanToPlayer?: boolean): undefined {
   const glob = asAnyTable(globalThis)

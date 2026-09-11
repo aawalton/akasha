@@ -1,6 +1,6 @@
+import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/navigation-addon/destinations-names/destinations-names.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
-import { SAVED_VARIABLES_NAME } from "../destinations-names/destinations-names.module.code.ts"
 
 export type DestinationsSavedVariables = typeof DEFAULTS & {
   oneTamrielUpdate?: boolean

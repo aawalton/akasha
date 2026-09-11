@@ -1,4 +1,4 @@
-import type { VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
+import type { VotansMiniMap } from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
 import type {
   AnyAsyncTask,
   ColorDef,
@@ -11,7 +11,7 @@ import type {
   MiniMapPin,
   MiniMapPinManager,
   MiniMapScene,
-} from "../minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
 export function asVotansMiniMap(value: unknown): VotansMiniMap {
   return value as VotansMiniMap
