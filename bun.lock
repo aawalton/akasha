@@ -141,19 +141,6 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "code-system/ios-apps/pages/atlas": {
-      "name": "@alanwalton/atlas-native-shell",
-      "version": "0.0.1",
-      "dependencies": {
-        "@capacitor/core": "^8.4.1",
-        "@capacitor/ios": "^8.4.1",
-        "@capacitor/preferences": "^8.0.1",
-        "@capgo/background-geolocation": "^8.3.1",
-      },
-      "devDependencies": {
-        "@capacitor/cli": "^8.4.1",
-      },
-    },
     "code-system/ios-apps/pages/smilingjenny": {
       "name": "@smilingjenny/native-shell",
       "version": "0.0.1",
@@ -178,8 +165,6 @@
   },
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
-
-    "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 
     "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:code-system/ios-apps/pages/alanwalton"],
 

@@ -6,7 +6,6 @@ export const atlas = {
   type: "ios-app",
   slug: "atlas",
   definition: "the app Alan reads his places in and the shell it runs in",
-  manifest: "json",
   appProfileName: "Atlas App Store",
   bundleId: "com.alanwalton.atlas",
   capacitorConfig: "json",
