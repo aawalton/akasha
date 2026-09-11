@@ -16,4 +16,5 @@ export const day20260911 = {
   inboxTemperTasks: 14,
   inboxTemperTasksClearedToday: false,
   lowestEmailInboxCount: 0,
+  sessions: "jsonl",
 } as const satisfies Day
