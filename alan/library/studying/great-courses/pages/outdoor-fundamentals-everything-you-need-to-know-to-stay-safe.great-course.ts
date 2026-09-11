@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const outdoorFundamentalsEverythingYouNeedToKnowToStaySafe = {
   id: "019db533-f39e-773e-b8b5-d402d4f71279",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
   title: "Outdoor Fundamentals: Everything You Need to Know to Stay Safe",

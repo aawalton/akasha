@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const sketchingPeoplePlacesAndLandscapes = {
   id: "019db533-f39f-748e-903a-9df062495a77",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "sketching-people-places-and-landscapes",
   title: "Sketching People, Places, and Landscapes",

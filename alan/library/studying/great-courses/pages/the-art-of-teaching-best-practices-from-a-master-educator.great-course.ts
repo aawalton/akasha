@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theArtOfTeachingBestPracticesFromAMasterEducator = {
   id: "019db533-f39e-7812-990b-9b4fc62da41c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-art-of-teaching-best-practices-from-a-master-educator",
   title: "The Art of Teaching: Best Practices from a Master Educator",

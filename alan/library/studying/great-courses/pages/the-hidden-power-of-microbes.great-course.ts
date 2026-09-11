@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theHiddenPowerOfMicrobes = {
   id: "019db533-f39e-7be5-ab1d-ba5681f117ba",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-hidden-power-of-microbes",
   title: "The Hidden Power of Microbes",

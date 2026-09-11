@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const quiltingBigProjectsOnASmallMachine = {
   id: "019db533-f39e-75f2-9169-08fb5dbd6322",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "quilting-big-projects-on-a-small-machine",
   title: "Quilting Big Projects on a Small Machine",

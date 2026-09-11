@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const metropolisExaminedGermanExpressionismInFilm = {
   id: "019db533-f39e-7fd2-be62-6446963a3bf9",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "metropolis-examined-german-expressionism-in-film",
   title: "Metropolis Examined: German Expressionism in Film",

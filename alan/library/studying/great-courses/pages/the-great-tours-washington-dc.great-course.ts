@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatToursWashingtonDc = {
   id: "019db533-f39f-7499-a294-72c07472331e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-tours-washington-dc",
   title: "The Great Tours: Washington DC",

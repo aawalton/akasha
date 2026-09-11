@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const outsmartYourselfBrainBasedStrategiesToABetterYou = {
   id: "019db533-f3a0-7767-b9d3-b312481dbd46",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "outsmart-yourself-brain-based-strategies-to-a-better-you",
   title: "Outsmart Yourself: Brain-Based Strategies to a Better You",

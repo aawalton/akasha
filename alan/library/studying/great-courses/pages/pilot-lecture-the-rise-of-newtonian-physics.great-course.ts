@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureTheRiseOfNewtonianPhysics = {
   id: "019db533-f39f-71f5-9784-22414563e3aa",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-the-rise-of-newtonian-physics",
   title: "Pilot Lecture: The Rise of Newtonian Physics",

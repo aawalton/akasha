@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theAgeOfHenryViii = {
   id: "019db533-f3a0-70b3-b046-c4bdaf7cc924",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-age-of-henry-viii",
   title: "The Age of Henry VIII",

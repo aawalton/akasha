@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const mindBlowingScienceSeason1 = {
   id: "019db533-f39e-7d33-b285-afa950739c72",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "mind-blowing-science-season-1",
   title: "Mind-Blowing Science: Season 1",

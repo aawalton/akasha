@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatToursGreeceAndTurkeyFromAthensToIstanbul = {
   id: "019db533-f39f-7716-9671-4b55f1db1c16",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-tours-greece-and-turkey-from-athens-to-istanbul",
   title: "The Great Tours: Greece and Turkey, from Athens to Istanbul",

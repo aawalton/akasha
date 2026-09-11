@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const ourNightSky = {
   id: "019db533-f39e-7f18-b336-ff4805234624",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "our-night-sky",
   title: "Our Night Sky",

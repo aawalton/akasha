@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theHiddenFactorWhyThinkingDifferentlyIsYourGreatestAsset = {
   id: "019db533-f3a0-76be-8369-9af77f4e67a9",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-hidden-factor-why-thinking-differently-is-your-greatest-asset",
   title: "The Hidden Factor: Why Thinking Differently Is Your Greatest Asset",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const storytellingAndTheHumanCondition = {
   id: "019db533-f39e-7855-ad25-0ee5d4f0b5b0",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "storytelling-and-the-human-condition",
   title: "Storytelling and the Human Condition",

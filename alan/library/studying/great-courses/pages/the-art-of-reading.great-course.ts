@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theArtOfReading = {
   id: "01a06578-6717-7000-bd37-493c67d08275",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-art-of-reading",
   title: "The Art of Reading",

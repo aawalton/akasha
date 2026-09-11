@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const makeYourOwnWireworkFindings = {
   id: "019db533-f39e-7565-8684-fd23bc877cbb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "make-your-own-wirework-findings",
   title: "Make Your Own Wirework Findings",

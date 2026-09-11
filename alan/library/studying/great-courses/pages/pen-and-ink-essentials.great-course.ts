@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const penAndInkEssentials = {
   id: "019db533-f39f-74cd-ae64-5278d998b7bb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pen-and-ink-essentials",
   title: "Pen & Ink Essentials",

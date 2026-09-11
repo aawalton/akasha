@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const propagandaAndPersuasion = {
   id: "019db533-f39e-759b-be93-9e7fed581fa5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "propaganda-and-persuasion",
   title: "Propaganda and Persuasion",

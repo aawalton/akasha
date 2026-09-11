@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const musicTheoryTheFoundationOfGreatMusic = {
   id: "019db533-f3a0-72cd-93c0-6a4dcace14fe",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "music-theory-the-foundation-of-great-music",
   title: "Music Theory: The Foundation of Great Music",

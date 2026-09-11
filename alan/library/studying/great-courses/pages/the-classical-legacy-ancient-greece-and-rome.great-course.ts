@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theClassicalLegacyAncientGreeceAndRome = {
   id: "01a06578-6718-7002-910b-3ee7f071bd48",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-classical-legacy-ancient-greece-and-rome",
   title: "The Classical Legacy: Ancient Greece and Rome",

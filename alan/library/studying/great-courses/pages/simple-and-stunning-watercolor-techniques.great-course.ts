@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const simpleAndStunningWatercolorTechniques = {
   id: "019db533-f39f-742f-bcba-efa202013736",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "simple-and-stunning-watercolor-techniques",
   title: "Simple and Stunning Watercolor Techniques",

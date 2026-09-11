@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureTheGreatLibraryOfAlexandria = {
   id: "019db533-f389-70f1-b797-d5772f0ef7a6",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-the-great-library-of-alexandria",
   title: "Pilot Lecture: The Great Library of Alexandria",

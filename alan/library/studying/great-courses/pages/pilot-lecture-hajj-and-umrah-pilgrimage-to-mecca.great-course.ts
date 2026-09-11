@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureHajjAndUmrahPilgrimageToMecca = {
   id: "019db533-f39e-7a94-927b-860095f7ae29",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-hajj-and-umrah-pilgrimage-to-mecca",
   title: "Pilot Lecture: Hajj and Umrah - Pilgrimage to Mecca",

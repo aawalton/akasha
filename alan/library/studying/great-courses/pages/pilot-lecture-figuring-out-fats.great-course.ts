@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureFiguringOutFats = {
   id: "019db533-f388-70df-a3df-f77bbeea7df7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-figuring-out-fats",
   title: "Pilot Lecture: Figuring Out Fats",

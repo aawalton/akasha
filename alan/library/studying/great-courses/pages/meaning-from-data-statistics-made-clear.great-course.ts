@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const meaningFromDataStatisticsMadeClear = {
   id: "019db533-f3a0-785b-8c23-e7d80747aa5a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "meaning-from-data-statistics-made-clear",
   title: "Meaning from Data: Statistics Made Clear",

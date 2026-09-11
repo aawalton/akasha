@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theHistoricalJesus = {
   id: "019db533-f39e-78fb-bcec-983677d766d2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-historical-jesus",
   title: "The Historical Jesus",

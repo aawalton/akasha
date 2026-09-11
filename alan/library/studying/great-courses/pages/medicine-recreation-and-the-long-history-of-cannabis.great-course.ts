@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const medicineRecreationAndTheLongHistoryOfCannabis = {
   id: "01a06578-6718-7000-b2e1-c24bbb78fd13",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "medicine-recreation-and-the-long-history-of-cannabis",
   title: "Medicine, Recreation, and the Long History of Cannabis",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureHowToPlayTexasHoldEm = {
   id: "01a06578-671a-7000-9204-0f8bb5cb92ab",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-how-to-play-texas-hold-em",
   title: "Pilot Lecture: How to Play Texas Hold’em",

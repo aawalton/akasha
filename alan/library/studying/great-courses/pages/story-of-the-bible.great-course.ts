@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const storyOfTheBible = {
   id: "019db533-f39e-7a75-8921-e85bf279095f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "story-of-the-bible",
   title: "Story of the Bible",

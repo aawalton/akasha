@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureExploringVietnamHoiAnAndTheChampaWorld = {
   id: "019db533-f389-714d-bedb-a0efd1da42b2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
   title: "Pilot Lecture: Exploring Vietnam—Hoi An and the Champa World",

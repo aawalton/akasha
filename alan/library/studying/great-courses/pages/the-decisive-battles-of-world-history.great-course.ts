@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theDecisiveBattlesOfWorldHistory = {
   id: "019db533-f39f-7908-8d0e-3c7888858306",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-decisive-battles-of-world-history",
   title: "The Decisive Battles of World History",

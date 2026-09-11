@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureThePirateWarsOf1718 = {
   id: "019db533-f39f-7d8e-87e4-0702ae8e7b6f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-the-pirate-wars-of-1718",
   title: "Pilot Lecture: The Pirate Wars of 1718",

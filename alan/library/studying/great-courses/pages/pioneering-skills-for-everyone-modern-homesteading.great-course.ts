@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pioneeringSkillsForEveryoneModernHomesteading = {
   id: "019db533-f39e-765e-9088-0b001b00e323",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pioneering-skills-for-everyone-modern-homesteading",
   title: "Pioneering Skills for Everyone: Modern Homesteading",

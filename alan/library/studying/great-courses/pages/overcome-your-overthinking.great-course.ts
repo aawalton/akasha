@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const overcomeYourOverthinking = {
   id: "019db533-f39e-7456-827f-722d1907fafd",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "overcome-your-overthinking",
   title: "Overcome Your Overthinking",

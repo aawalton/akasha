@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theHistoryOfChristianityIiFromTheReformationToTheModernMega = {
   id: "019db533-f3a0-7013-99a7-a0d136c4b1bf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-history-of-christianity-ii-from-the-reformation-to-the-modern-mega",
   title: "The History of Christianity II: From the Reformation to the Modern Megachurch",

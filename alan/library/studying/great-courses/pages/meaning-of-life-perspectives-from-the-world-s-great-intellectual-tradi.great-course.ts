@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const meaningOfLifePerspectivesFromTheWorldSGreatIntellectualTradi = {
   id: "019db533-f39e-7c88-b536-041ade4d1d2c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "meaning-of-life-perspectives-from-the-world-s-great-intellectual-tradi",
   title: "Meaning of Life: Perspectives from the World's Great Intellectual Traditions",

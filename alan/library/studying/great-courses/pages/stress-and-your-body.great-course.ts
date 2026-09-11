@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const stressAndYourBody = {
   id: "019db533-f3a0-781b-9d09-31cc9680488e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "stress-and-your-body",
   title: "Stress and Your Body",

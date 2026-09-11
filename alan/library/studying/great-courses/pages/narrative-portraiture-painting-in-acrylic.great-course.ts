@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const narrativePortraiturePaintingInAcrylic = {
   id: "019db533-f38a-756d-8905-a38dcd301205",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "narrative-portraiture-painting-in-acrylic",
   title: "Narrative Portraiture: Painting in Acrylic",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const masteringTheFundamentalsOfMathematics = {
   id: "019db533-f3a0-7826-a92e-5b3c6d8778bf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "mastering-the-fundamentals-of-mathematics",
   title: "Mastering the Fundamentals of Mathematics",

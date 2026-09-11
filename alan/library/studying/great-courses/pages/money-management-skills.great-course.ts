@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const moneyManagementSkills = {
   id: "019db533-f39e-7464-8901-95231845290e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "money-management-skills",
   title: "Money Management Skills",

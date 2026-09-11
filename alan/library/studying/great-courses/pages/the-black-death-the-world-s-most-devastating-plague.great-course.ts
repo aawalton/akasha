@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theBlackDeathTheWorldSMostDevastatingPlague = {
   id: "019db533-f3a0-722d-883e-e56bb8c43352",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-black-death-the-world-s-most-devastating-plague",
   title: "The Black Death: The World's Most Devastating Plague",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureUnderstandingYourVitalSignsHowBloodPressureWorks = {
   id: "019db533-f3a0-7870-9864-a2be3ddbdfb3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-understanding-your-vital-signs-how-blood-pressure-works",
   title: "Pilot Lecture: Understanding Your Vital Signs—How Blood Pressure Works",

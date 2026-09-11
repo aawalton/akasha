@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const oldEnglishLiteratureLanguageAsHistory = {
   id: "019db533-f39e-78a0-b23c-6eaea8c18149",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "old-english-literature-language-as-history",
   title: "Old English Literature: Language as History",

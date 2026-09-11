@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const museumMasterpiecesTheLouvre = {
   id: "019db533-f39f-7542-b179-3555e41c6f1f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "museum-masterpieces-the-louvre",
   title: "Museum Masterpieces: The Louvre",

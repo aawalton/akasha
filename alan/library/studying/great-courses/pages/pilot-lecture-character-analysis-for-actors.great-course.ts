@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureCharacterAnalysisForActors = {
   id: "019db533-f39e-756c-81eb-83a7d5c0fd94",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-character-analysis-for-actors",
   title: "Pilot Lecture: Character Analysis for Actors",

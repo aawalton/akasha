@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const optimizingBrainFitness = {
   id: "019db533-f3a0-783b-b9a1-4aa5fd6b5d7a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "optimizing-brain-fitness",
   title: "Optimizing Brain Fitness",

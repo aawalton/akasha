@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const notoriousLondonACityTour = {
   id: "019db533-f39f-7522-b547-f9091190f3c7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "notorious-london-a-city-tour",
   title: "Notorious London: A City Tour",

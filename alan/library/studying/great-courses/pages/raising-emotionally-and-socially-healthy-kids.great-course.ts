@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const raisingEmotionallyAndSociallyHealthyKids = {
   id: "019db533-f39e-7c27-969c-9db498b5b588",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "raising-emotionally-and-socially-healthy-kids",
   title: "Raising Emotionally and Socially Healthy Kids",

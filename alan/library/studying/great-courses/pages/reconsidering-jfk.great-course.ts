@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const reconsideringJfk = {
   id: "019db533-f3a0-70ae-9302-f3208b39a1b3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "reconsidering-jfk",
   title: "Reconsidering JFK",

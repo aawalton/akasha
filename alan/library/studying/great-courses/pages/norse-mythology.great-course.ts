@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const norseMythology = {
   id: "019db533-f39e-78b6-91fe-7ceda2c1d2ae",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "norse-mythology",
   title: "Norse Mythology",

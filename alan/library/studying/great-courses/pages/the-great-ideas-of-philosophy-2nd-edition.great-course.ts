@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatIdeasOfPhilosophy2ndEdition = {
   id: "019db533-f39e-7b8f-a752-c2e889e653b2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-ideas-of-philosophy-2nd-edition",
   title: "The Great Ideas of Philosophy, 2nd Edition",

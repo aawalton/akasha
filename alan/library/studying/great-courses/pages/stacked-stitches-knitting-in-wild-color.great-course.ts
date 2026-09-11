@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const stackedStitchesKnittingInWildColor = {
   id: "019db533-f39e-758c-bf89-f1b7167a290c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "stacked-stitches-knitting-in-wild-color",
   title: "Stacked Stitches: Knitting in Wild Color",

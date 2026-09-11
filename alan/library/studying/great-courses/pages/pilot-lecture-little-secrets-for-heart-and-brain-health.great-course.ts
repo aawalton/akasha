@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureLittleSecretsForHeartAndBrainHealth = {
   id: "019db533-f3a0-7747-9d1e-6f1074075276",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-little-secrets-for-heart-and-brain-health",
   title: "Pilot Lecture: Little Secrets for Heart and Brain Health",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const secretsOfTheOccult = {
   id: "019db533-f39f-7d99-aec4-7beb1b6686bc",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "secrets-of-the-occult",
   title: "Secrets of the Occult",

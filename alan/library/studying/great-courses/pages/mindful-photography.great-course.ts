@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const mindfulPhotography = {
   id: "019db533-f39e-7584-a966-0efe6ba8c543",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "mindful-photography",
   title: "Mindful Photography",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatToursExperiencingMedievalEurope = {
   id: "019db533-f3a0-706a-8b3d-510961e28f77",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-tours-experiencing-medieval-europe",
   title: "The Great Tours: Experiencing Medieval Europe",

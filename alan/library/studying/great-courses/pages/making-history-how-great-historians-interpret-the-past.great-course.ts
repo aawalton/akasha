@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const makingHistoryHowGreatHistoriansInterpretThePast = {
   id: "019db533-f388-7092-aea9-e400dc109472",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "making-history-how-great-historians-interpret-the-past",
   title: "Making History: How Great Historians Interpret the Past",

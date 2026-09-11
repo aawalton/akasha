@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureMythsOfLearningAndMemory = {
   id: "019db533-f39f-713f-b049-4f0d039b0aa8",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-myths-of-learning-and-memory",
   title: "Pilot Lecture: Myths of Learning and Memory",

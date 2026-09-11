@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theArtOfInvestingLessonsFromHistorySGreatestTraders = {
   id: "019db533-f39e-73ea-b133-1d063675339d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-art-of-investing-lessons-from-history-s-greatest-traders",
   title: "The Art of Investing: Lessons from History's Greatest Traders",

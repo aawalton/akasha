@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theBrainBasedGuideToCommunicatingBetter = {
   id: "019db533-f39e-7d57-aa27-abe2e0d90d4d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-brain-based-guide-to-communicating-better",
   title: "The Brain-Based Guide to Communicating Better",

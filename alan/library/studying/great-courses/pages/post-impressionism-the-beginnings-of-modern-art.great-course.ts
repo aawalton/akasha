@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const postImpressionismTheBeginningsOfModernArt = {
   id: "019db533-f39f-7537-a877-64698ad015cd",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "post-impressionism-the-beginnings-of-modern-art",
   title: "Post-Impressionism: The Beginnings of Modern Art",

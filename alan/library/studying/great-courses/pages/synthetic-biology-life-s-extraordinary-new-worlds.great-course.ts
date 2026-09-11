@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const syntheticBiologyLifeSExtraordinaryNewWorlds = {
   id: "019db533-f39f-71ea-9358-edb54b604307",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "synthetic-biology-life-s-extraordinary-new-worlds",
   title: "Synthetic Biology: Life’s Extraordinary New Worlds",

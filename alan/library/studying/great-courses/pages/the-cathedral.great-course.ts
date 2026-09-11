@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theCathedral = {
   id: "019db533-f3a0-7126-a45b-0efc0fe2476e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-cathedral",
   title: "The Cathedral",

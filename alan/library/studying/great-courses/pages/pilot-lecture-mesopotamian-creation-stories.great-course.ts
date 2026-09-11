@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureMesopotamianCreationStories = {
   id: "019db533-f39f-7dd9-8ea3-6adb93d1d913",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-mesopotamian-creation-stories",
   title: "Pilot Lecture: Mesopotamian Creation Stories",

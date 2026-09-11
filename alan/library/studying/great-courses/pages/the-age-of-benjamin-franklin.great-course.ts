@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theAgeOfBenjaminFranklin = {
   id: "019db533-f39f-7d3a-a52f-86ba8f044a58",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-age-of-benjamin-franklin",
   title: "The Age of Benjamin Franklin",

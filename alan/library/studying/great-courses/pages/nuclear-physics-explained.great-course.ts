@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const nuclearPhysicsExplained = {
   id: "019db533-f39f-711f-a376-7036f650d73f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "nuclear-physics-explained",
   title: "Nuclear Physics Explained",

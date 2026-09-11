@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const startupLibrarySewing = {
   id: "019db533-f39e-7666-9acf-c78be499bc93",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "startup-library-sewing",
   title: "Startup Library: Sewing",

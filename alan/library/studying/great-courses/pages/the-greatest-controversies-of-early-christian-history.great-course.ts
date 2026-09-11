@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatestControversiesOfEarlyChristianHistory = {
   id: "019db533-f39e-7aab-b766-eebd181270e6",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-greatest-controversies-of-early-christian-history",
   title: "The Greatest Controversies of Early Christian History",

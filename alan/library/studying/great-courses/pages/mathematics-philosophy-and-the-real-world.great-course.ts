@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const mathematicsPhilosophyAndTheRealWorld = {
   id: "019db533-f3a0-7313-bfe4-129558f301aa",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "mathematics-philosophy-and-the-real-world",
   title: "Mathematics, Philosophy, and the “Real World”",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theBigHistoryOfCivilizations = {
   id: "019db533-f3a0-71ee-b6ad-db6edc9d3e68",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-big-history-of-civilizations",
   title: "The Big History of Civilizations",

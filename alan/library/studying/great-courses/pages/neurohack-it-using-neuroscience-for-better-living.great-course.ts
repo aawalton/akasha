@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const neurohackItUsingNeuroscienceForBetterLiving = {
   id: "01a06578-6719-7003-992f-9eaa2540c43a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "neurohack-it-using-neuroscience-for-better-living",
   title: "Neurohack It: Using Neuroscience for Better Living",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatVillainsOfHistory = {
   id: "01a06578-6718-7005-b8f2-5dd254a23519",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-villains-of-history",
   title: "The Great Villains of History",

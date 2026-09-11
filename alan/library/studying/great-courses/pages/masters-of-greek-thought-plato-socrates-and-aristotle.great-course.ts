@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const mastersOfGreekThoughtPlatoSocratesAndAristotle = {
   id: "019db533-f39e-7a8c-94f7-e5a2843650f7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "masters-of-greek-thought-plato-socrates-and-aristotle",
   title: "Masters of Greek Thought: Plato, Socrates, and Aristotle",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const playBallTheRiseOfBaseballAsAmericaSPastime = {
   id: "019db533-f39f-7d10-a8a3-9bd2baccc588",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "play-ball-the-rise-of-baseball-as-america-s-pastime",
   title: "Play Ball! The Rise of Baseball as America’s Pastime",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const settingsForEveryShape = {
   id: "019db533-f39e-7636-bb7e-f93d53209be0",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "settings-for-every-shape",
   title: "Settings for Every Shape",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const plantScienceAnIntroductionToBotany = {
   id: "019db533-f39f-714a-8582-f7ec222c1793",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "plant-science-an-introduction-to-botany",
   title: "Plant Science: An Introduction to Botany",

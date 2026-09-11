@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const scientificSecretsForAPowerfulMemory = {
   id: "019db533-f3a0-7811-89a5-780701eefc62",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "scientific-secrets-for-a-powerful-memory",
   title: "Scientific Secrets for a Powerful Memory",

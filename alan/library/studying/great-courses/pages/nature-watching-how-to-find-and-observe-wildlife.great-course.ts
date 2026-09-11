@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const natureWatchingHowToFindAndObserveWildlife = {
   id: "019db533-f39e-7c72-b123-2c371c90fada",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "nature-watching-how-to-find-and-observe-wildlife",
   title: "Nature Watching: How to Find and Observe Wildlife",

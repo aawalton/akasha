@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const mysteriesOfTheMicroscopicWorld = {
   id: "019db533-f39e-7e6e-a7af-a680cb5e060c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "mysteries-of-the-microscopic-world",
   title: "Mysteries of the Microscopic World",

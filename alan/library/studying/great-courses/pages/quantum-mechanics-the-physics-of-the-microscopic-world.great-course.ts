@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const quantumMechanicsThePhysicsOfTheMicroscopicWorld = {
   id: "019db533-f39e-7c3e-b25d-ad8fb27bf981",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "quantum-mechanics-the-physics-of-the-microscopic-world",
   title: "Quantum Mechanics: The Physics of the Microscopic World",

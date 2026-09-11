@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const qigongFlowForHealthAndHappiness = {
   id: "019db533-f3a0-7885-b492-770f925d545f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "qigong-flow-for-health-and-happiness",
   title: "Qigong Flow for Health and Happiness",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const storiesAboutGreatStorytellers = {
   id: "019db533-f39e-785d-b256-61f5499f59ea",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "stories-about-great-storytellers",
   title: "Stories about Great Storytellers",

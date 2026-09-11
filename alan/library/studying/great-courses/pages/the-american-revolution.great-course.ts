@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theAmericanRevolution = {
   id: "019db533-f39f-7973-ab99-e014d7379d42",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-american-revolution",
   title: "The American Revolution",

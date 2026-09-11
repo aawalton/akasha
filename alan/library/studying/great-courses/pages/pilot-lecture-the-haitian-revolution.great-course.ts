@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureTheHaitianRevolution = {
   id: "019db533-f39f-75c0-bc78-b825e14dbd78",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-the-haitian-revolution",
   title: "Pilot Lecture: The Haitian Revolution",

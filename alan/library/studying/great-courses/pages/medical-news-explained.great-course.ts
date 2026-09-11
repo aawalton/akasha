@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const medicalNewsExplained = {
   id: "019db533-f3a0-77e6-b8dc-a36b9981a2ed",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "medical-news-explained",
   title: "Medical News Explained",

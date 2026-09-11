@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureYourFantasticPlasticBrain = {
   id: "019db533-f39e-7e8e-9aa0-378a4447fe0f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-your-fantastic-plastic-brain",
   title: "Pilot Lecture: Your Fantastic Plastic Brain",

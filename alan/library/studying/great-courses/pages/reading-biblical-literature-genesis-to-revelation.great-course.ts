@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const readingBiblicalLiteratureGenesisToRevelation = {
   id: "019db533-f39e-7c6a-94ee-16ea80571b4c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "reading-biblical-literature-genesis-to-revelation",
   title: "Reading Biblical Literature: Genesis to Revelation",

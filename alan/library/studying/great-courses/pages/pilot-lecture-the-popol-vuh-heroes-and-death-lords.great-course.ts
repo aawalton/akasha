@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureThePopolVuhHeroesAndDeathLords = {
   id: "019db533-f3a0-7327-b98b-dc52a369b804",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-the-popol-vuh-heroes-and-death-lords",
   title: "Pilot Lecture: The Popol Vuh - Heroes and Death Lords",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureEngineeringSchoolForEveryoneStatics = {
   id: "019db533-f39e-7c11-86e6-e16c2e614964",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-engineering-school-for-everyone-statics",
   title: "Pilot Lecture: Engineering School for Everyone: Statics",

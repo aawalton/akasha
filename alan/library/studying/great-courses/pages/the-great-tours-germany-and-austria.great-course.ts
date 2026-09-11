@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatToursGermanyAndAustria = {
   id: "019db533-f39f-743a-b809-30778916c3f3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-tours-germany-and-austria",
   title: "The Great Tours: Germany and Austria",

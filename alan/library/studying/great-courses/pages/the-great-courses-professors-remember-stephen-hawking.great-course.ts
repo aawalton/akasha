@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatCoursesProfessorsRememberStephenHawking = {
   id: "019db533-f39e-7d6e-b510-3ab5bf34c13e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-courses-professors-remember-stephen-hawking",
   title: "The Great Courses Professors Remember Stephen Hawking",

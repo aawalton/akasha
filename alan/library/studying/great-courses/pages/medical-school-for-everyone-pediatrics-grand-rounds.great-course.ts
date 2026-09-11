@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const medicalSchoolForEveryonePediatricsGrandRounds = {
   id: "019db533-f3a0-7a6e-8082-5069bc48b3e2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "medical-school-for-everyone-pediatrics-grand-rounds",
   title: "Medical School for Everyone: Pediatrics Grand Rounds",

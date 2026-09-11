@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pyramidsOfTheWorld = {
   id: "019db533-f387-7f4c-b4ab-83cf07a1415b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pyramids-of-the-world",
   title: "Pyramids of the World",

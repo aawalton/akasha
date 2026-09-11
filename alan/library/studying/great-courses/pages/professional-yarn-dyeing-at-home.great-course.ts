@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const professionalYarnDyeingAtHome = {
   id: "019db533-f39e-7608-b1ae-0cf412066954",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "professional-yarn-dyeing-at-home",
   title: "Professional Yarn Dyeing at Home",

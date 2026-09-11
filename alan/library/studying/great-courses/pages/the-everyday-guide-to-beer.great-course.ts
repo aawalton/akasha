@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theEverydayGuideToBeer = {
   id: "019db533-f39f-783d-8e04-7d77c0c67c4b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-everyday-guide-to-beer",
   title: "The Everyday Guide to Beer",

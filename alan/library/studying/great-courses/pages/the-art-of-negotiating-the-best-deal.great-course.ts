@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theArtOfNegotiatingTheBestDeal = {
   id: "019db533-f39e-7273-9d19-9ada5bde577e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-art-of-negotiating-the-best-deal",
   title: "The Art of Negotiating the Best Deal",

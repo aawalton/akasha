@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureThinkingAboutIndigenousCulturesOfTheWorld = {
   id: "019db533-f39f-7dce-bf76-2e1150d41878",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-thinking-about-indigenous-cultures-of-the-world",
   title: "Pilot Lecture: Thinking about Indigenous Cultures of the World",

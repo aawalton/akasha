@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const physiologyAndFitness = {
   id: "019db533-f3a0-77b1-9ae8-3b22ca32c20a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "physiology-and-fitness",
   title: "Physiology and Fitness",

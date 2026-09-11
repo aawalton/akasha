@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theBlackDeathNewLessonsFromRecentResearch = {
   id: "019db533-f3a0-7121-9eac-c56f8547f18a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-black-death-new-lessons-from-recent-research",
   title: "The Black Death: New Lessons from Recent Research",

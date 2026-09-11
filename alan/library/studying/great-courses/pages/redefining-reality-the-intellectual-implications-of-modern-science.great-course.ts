@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const redefiningRealityTheIntellectualImplicationsOfModernScience = {
   id: "019db533-f39e-7f0e-8ab4-cb0dd094ffc7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "redefining-reality-the-intellectual-implications-of-modern-science",
   title: "Redefining Reality: The Intellectual Implications of Modern Science",

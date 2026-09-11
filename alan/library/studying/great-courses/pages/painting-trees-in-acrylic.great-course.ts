@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const paintingTreesInAcrylic = {
   id: "019db533-f39f-7596-a68f-9cdcba0088d1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "painting-trees-in-acrylic",
   title: "Painting Trees in Acrylic",

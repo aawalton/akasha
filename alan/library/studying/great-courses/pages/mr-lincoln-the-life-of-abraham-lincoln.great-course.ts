@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const mrLincolnTheLifeOfAbrahamLincoln = {
   id: "019db533-f39f-7dae-9081-e036c89bb2a2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "mr-lincoln-the-life-of-abraham-lincoln",
   title: "Mr. Lincoln: The Life of Abraham Lincoln",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureTortureInTheMiddleAgesMythsAndReality = {
   id: "019db533-f3a0-70bd-93cf-7e0ffe27c7ac",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-torture-in-the-middle-ages-myths-and-reality",
   title: "Pilot Lecture: Torture in the Middle Ages: Myths and Reality",

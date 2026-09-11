@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureUnderwaterArchaeologyTheNorthAmericanGreatLakes = {
   id: "019db533-f39e-7c4c-b283-8e1c6589615c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-underwater-archaeology-the-north-american-great-lakes",
   title: "Pilot Lecture: Underwater Archaeology - The North American Great Lakes",

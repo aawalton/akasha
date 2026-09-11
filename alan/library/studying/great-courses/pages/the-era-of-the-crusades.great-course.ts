@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theEraOfTheCrusades = {
   id: "01a06578-6718-7004-8c0e-9fb556882dbd",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-era-of-the-crusades",
   title: "The Era of the Crusades",

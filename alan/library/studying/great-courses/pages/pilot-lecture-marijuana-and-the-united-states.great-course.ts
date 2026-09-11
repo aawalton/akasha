@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureMarijuanaAndTheUnitedStates = {
   id: "019db533-f39f-7953-a0fb-a5144a0dd367",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-marijuana-and-the-united-states",
   title: "Pilot Lecture: Marijuana and the United States",

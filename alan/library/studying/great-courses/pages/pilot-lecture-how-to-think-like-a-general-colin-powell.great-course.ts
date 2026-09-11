@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureHowToThinkLikeAGeneralColinPowell = {
   id: "01a06578-6718-7001-981d-d9bdb38bef29",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-how-to-think-like-a-general-colin-powell",
   title: "Pilot Lecture: How to Think like a General—Colin Powell",

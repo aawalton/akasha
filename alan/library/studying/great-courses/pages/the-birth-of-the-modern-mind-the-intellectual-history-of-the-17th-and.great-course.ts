@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theBirthOfTheModernMindTheIntellectualHistoryOfThe17thAnd = {
   id: "019db533-f39f-7e18-975d-a535b6681ddf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-birth-of-the-modern-mind-the-intellectual-history-of-the-17th-and",
   title: "The Birth of the Modern Mind: The Intellectual History of the 17th and 18th Centuries",

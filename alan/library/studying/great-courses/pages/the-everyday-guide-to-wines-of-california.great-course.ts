@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theEverydayGuideToWinesOfCalifornia = {
   id: "019db533-f39f-78d3-b382-cf21ecaec2c3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-everyday-guide-to-wines-of-california",
   title: "The Everyday Guide to Wines of California",

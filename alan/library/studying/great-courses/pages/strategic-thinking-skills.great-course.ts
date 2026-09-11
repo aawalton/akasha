@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const strategicThinkingSkills = {
   id: "019db533-f39e-7418-8bb7-97de8cdde1b3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "strategic-thinking-skills",
   title: "Strategic Thinking Skills",

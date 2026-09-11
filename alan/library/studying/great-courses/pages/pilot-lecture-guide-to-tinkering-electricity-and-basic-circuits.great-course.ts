@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureGuideToTinkeringElectricityAndBasicCircuits = {
   id: "019db533-f39e-7601-872e-9842dc0df99b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-guide-to-tinkering-electricity-and-basic-circuits",
   title: "Pilot Lecture: Guide to Tinkering: Electricity and Basic Circuits",

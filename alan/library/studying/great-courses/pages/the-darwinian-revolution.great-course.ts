@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theDarwinianRevolution = {
   id: "019db533-f39e-7b5e-b894-6751c2c2820f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-darwinian-revolution",
   title: "The Darwinian Revolution",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const sewBetterSewFasterShirtmaking = {
   id: "019db533-f39e-75ca-9383-fe1910953172",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "sew-better-sew-faster-shirtmaking",
   title: "Sew Better, Sew Faster: Shirtmaking",

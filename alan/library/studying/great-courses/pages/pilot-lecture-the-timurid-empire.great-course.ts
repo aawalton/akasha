@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureTheTimuridEmpire = {
   id: "019db533-f3a0-730d-8dfb-89ca762720ae",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-the-timurid-empire",
   title: "Pilot Lecture: The Timurid Empire",

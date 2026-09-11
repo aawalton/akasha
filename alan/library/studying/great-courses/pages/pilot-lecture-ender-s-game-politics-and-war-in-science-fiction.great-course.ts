@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureEnderSGamePoliticsAndWarInScienceFiction = {
   id: "019db533-f3a0-72bf-8c19-d2639e67f14d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-ender-s-game-politics-and-war-in-science-fiction",
   title: "Pilot Lecture: Ender’s Game: Politics and War in Science Fiction",

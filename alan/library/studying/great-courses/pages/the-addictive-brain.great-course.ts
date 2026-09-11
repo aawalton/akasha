@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theAddictiveBrain = {
   id: "019db533-f3a0-7669-bc12-b22330fe3205",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-addictive-brain",
   title: "The Addictive Brain",

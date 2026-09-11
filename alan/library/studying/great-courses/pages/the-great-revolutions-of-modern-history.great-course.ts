@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theGreatRevolutionsOfModernHistory = {
   id: "019db533-f39f-7d6f-adbb-1b7583f5a972",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-great-revolutions-of-modern-history",
   title: "The Great Revolutions of Modern History",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
   id: "019db533-f39f-7948-a76b-342c4ffbf799",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-picturing-the-bible-how-artists-tell-the-story",
   title: "Pilot Lecture: Picturing the Bible—How Artists Tell the Story",

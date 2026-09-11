@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureAWalkingTourOfHistoricHavana = {
   id: "019db533-f398-7397-bc8c-bf2ee817a29f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-a-walking-tour-of-historic-havana",
   title: "Pilot Lecture: A Walking Tour of Historic Havana",

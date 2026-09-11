@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const stAugustineSConfessions = {
   id: "019db533-f39e-7c63-863c-b176e0067cdd",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "st-augustine-s-confessions",
   title: "St. Augustine's Confessions",

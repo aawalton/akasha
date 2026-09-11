@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureHowToThinkLikeASpyTheArtOfReadingPeople = {
   id: "019db533-f39e-72d8-a57d-ac71f231df4d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
   title: "Pilot Lecture: How to Think like a Spy: The Art of Reading People",

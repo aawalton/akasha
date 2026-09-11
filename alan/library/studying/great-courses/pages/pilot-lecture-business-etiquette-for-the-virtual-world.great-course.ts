@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const pilotLectureBusinessEtiquetteForTheVirtualWorld = {
   id: "019db533-f39e-7421-b09d-a2c774751a2d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "pilot-lecture-business-etiquette-for-the-virtual-world",
   title: "Pilot Lecture: Business Etiquette for the Virtual World",

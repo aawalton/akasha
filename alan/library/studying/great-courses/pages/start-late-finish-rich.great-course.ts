@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const startLateFinishRich = {
   id: "019db533-f39e-744f-83e2-d1b897defd0a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "start-late-finish-rich",
   title: "Start Late, Finish Rich",
