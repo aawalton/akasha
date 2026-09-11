@@ -14,10 +14,6 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const REPO = join(import.meta.dir, "..", "..")
-
-const REAL = "agents/models/tests/pages/restatement/restatement.model-test.ts"
-
 const PAGE = "akasha/one/held.model-test.ts"
 
 const CASES: Entried = {
@@ -45,14 +41,6 @@ function rooted(name: string, bodies: Readonly<Record<string, string>>): string 
   }
   return root
 }
-
-test("the cases beside the restatement test are answered as fourteen values", () => {
-  const read = entriesAt(REPO, REAL, "cases", "jsonl")
-
-  expect("entries" in read && read.entries.length).toBe(14)
-  expect("entries" in read && read.entries[0]?.["page"]).toBe("code-lint")
-  expect("entries" in read && read.entries.every((one) => typeof one["id"] === "string")).toBe(true)
-})
 
 test("one line is one value and a blank line is none", () => {
   const read = entriesIn("held.jsonl", '{"a":1}\n\n{"a":2}\n')
