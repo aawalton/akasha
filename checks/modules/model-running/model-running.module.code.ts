@@ -1,5 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { opensYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import { PAGES } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -117,13 +118,6 @@ function askedOf(
 
 function counted(many: number): string {
   return `${many} statement${many === 1 ? "" : "s"}`
-}
-
-function opensYes(said: string): boolean {
-  return said
-    .replace(/[^A-Za-z]/g, "")
-    .toUpperCase()
-    .startsWith("YES")
 }
 
 function priorOf(change: Change, path: string): string | null {

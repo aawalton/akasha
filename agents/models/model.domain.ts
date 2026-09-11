@@ -13,6 +13,7 @@ export const model = {
     "module/model-vocab",
     "page-type/model-family",
     "page-type/model-test",
+    "module/model-answer",
   ],
   invariants: [
     {

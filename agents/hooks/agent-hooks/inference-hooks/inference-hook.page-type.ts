@@ -8,11 +8,7 @@ export const inferenceHook = {
   definition: "an agent hook that asks a model",
   pluralSlug: "inference-hooks",
   extends: ["page-type/agent-hook"],
-  invariants: [
-    {
-      invariantKind: "gap",
-      statement: "Every inference hook is lagging.",
-    },
-  ],
+  parts: ["inference-hook/keep-alan-directives"],
+  invariants: [],
   types: "ts",
 } as const satisfies PageType

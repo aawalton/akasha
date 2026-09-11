@@ -2,10 +2,11 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
   eventsIn,
+  hooksIn,
   type Valued,
 } from "akasha/agents/hooks/hook-dispatch/hook-dispatch.module.code.ts"
 import { linkFor, linksMade } from "akasha/agents/hooks/hook-links/hook-links.module.code.ts"
-import { indexNamed, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const PAGE_TYPE = "agent-hook"
 
@@ -50,7 +51,7 @@ function runnableIn(root: string, listed: readonly Valued[]): undefined {
 }
 
 export function hooksFrom(root: string): Record<string, HookRegistration[]> {
-  const listed = valuesOfType(root, PAGE_TYPE) as readonly Valued[]
+  const listed = hooksIn(root)
   if (listed.length === 0) {
     throw new Error(
       `\`${indexNamed()}\` names no \`${PAGE_TYPE}\`, so nothing would guard any tool call and a ` +

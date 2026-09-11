@@ -20,6 +20,10 @@ const HOOK = "hook-dispatch"
 
 const PAGE_TYPE = "agent-hook"
 
+const ASKING_TYPE = "inference-hook"
+
+export const HOOK_TYPES: readonly string[] = [PAGE_TYPE, ASKING_TYPE]
+
 const CODE = "code"
 
 const TS = "ts"
@@ -80,6 +84,16 @@ export function heldFor(
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
+export function hooksIn(root: string): readonly Valued[] {
+  const found: Valued[] = []
+  for (const one of HOOK_TYPES) {
+    try {
+      found.push(...(valuesOfType(root, one) as readonly Valued[]))
+    } catch {}
+  }
+  return found
+}
+
 export function inputAnew(out: string): Record<string, unknown> | null {
   let parsed: unknown
   try {
@@ -117,7 +131,7 @@ async function ranAt(at: string, payload: string): Promise<Ran> {
 }
 
 async function answerFor(root: string, payload: Record<string, unknown>): Promise<Answer> {
-  const listed = valuesOfType(root, PAGE_TYPE) as readonly Valued[]
+  const listed = hooksIn(root)
   if (listed.length === 0) {
     return refusing(`${HOOK}: the index names no \`${PAGE_TYPE}\`, so nothing judged this call`)
   }
