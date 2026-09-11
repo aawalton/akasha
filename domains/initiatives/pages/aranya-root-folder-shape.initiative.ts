@@ -12,7 +12,7 @@ export const aranyaRootFolderShape = {
     {
       statement: "The root akasha folder matches its folder shape.",
       workingMemory:
-        "99 root folders beside `node_modules`, `.git` and `.supervisors`: `akasha.domain.ts` declares 58 and leaves 41 undeclared. Of those 41, 36 have a page another page names, 32 of them by `alan/harness/alan-harness.domain.ts`, and 5 have no page at all: `commands`, `infra`, `persona-system`, `person-system`, `version`. The 13 root files are the 2 pages, 9 the workspace page states, `tsconfig.tsbuildinfo` whose optional property that page leaves unstated, and one churning `.uncommitted.ts` scratch.",
+        "The root may not hold 21 folders: instruments, ki, language-design, machines, mathematics, mobile-commands, personas, persons, places, required-reading, roles, seat-system, shell, smilingjenny, story, technology, testing-system, text, type, utils, verdict. 12 files sit there and none is allowed yet. Alan takes one at a time, answering with approval or a move: `inference` went under `infrastructure`. `move-folder` walks the index, so refresh it first or a page landed since is left behind.",
     },
   ],
   constraints: [
