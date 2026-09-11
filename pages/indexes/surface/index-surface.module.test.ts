@@ -52,13 +52,14 @@ test("a directory that is not there lists nothing, and a file that is not there 
   expect(reading.lines("nowhere.jsonl")).toEqual([])
 })
 
-test("an entry file is read off the disk each time rather than held in memory", () => {
+test("an entry file is read at the first ask and one copy of it is held", () => {
   const at = seeded()
   const reading = readingAt(at)
   expect(reading.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
   put(at, "identity/page/id/one.jsonl", '{"id":"held"}\n')
 
-  expect(reading.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"held"}'])
+  expect(reading.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"one"}'])
+  expect(readingAt(at).lines("identity/page/id/one.jsonl")).toEqual(['{"id":"held"}'])
 })
 
 test("a file the change touches answers its own lines, and every other file answers the index", () => {

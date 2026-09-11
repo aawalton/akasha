@@ -28,11 +28,11 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry file is read off the disk each time it is asked for.",
+      statement: "An entry file is read at the first ask and one copy of it is held.",
     },
     {
       invariantKind: "absence",
-      statement: "No reading holds the index it reads in memory.",
+      statement: "No entry file is held in more than one copy.",
     },
     {
       invariantKind: "departure",
