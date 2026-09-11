@@ -9,6 +9,7 @@ export const pageValue = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  pageBodyReaders: ["valueAt"],
   invariants: [
     {
       invariantKind: "departure",

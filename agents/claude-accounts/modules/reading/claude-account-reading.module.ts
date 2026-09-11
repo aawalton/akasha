@@ -8,6 +8,7 @@ export const claudeAccountReading = {
   definition: "what a claude-account has",
   code: "ts",
   test: "ts",
+  pageBodyReaders: ["accountValuesIn"],
   invariants: [
     {
       invariantKind: "departure",
