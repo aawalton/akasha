@@ -47,7 +47,7 @@ export const noSopsOnDevStdin = {
       statement: "A path built by joining or interpolating is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "Only a whole literal sitting in the call is read.",
     },
   ],
