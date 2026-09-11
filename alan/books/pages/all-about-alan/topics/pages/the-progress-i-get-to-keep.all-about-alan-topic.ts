@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theProgressIGetToKeep = {
   id: "01a06559-9d65-7c4e-bcb0-7584d4b303c3",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-progress-i-get-to-keep",
   title: "The Progress I Get To Keep",

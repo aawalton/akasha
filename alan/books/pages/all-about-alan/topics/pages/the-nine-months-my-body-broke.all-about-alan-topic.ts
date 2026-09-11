@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theNineMonthsMyBodyBroke = {
   id: "01a06559-9d65-750f-a74f-c33c8cefa8a6",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-nine-months-my-body-broke",
   title: "The Nine Months My Body Broke",

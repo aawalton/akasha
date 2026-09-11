@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const safetyYears = {
   id: "01a06559-9d65-76b8-97c5-e525090bea64",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "safety-years",
   title: "Safety Years",

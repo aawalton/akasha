@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theOddsOfAHardEvening = {
   id: "01a07878-59a9-7673-9d55-b1f11f5e75e1",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-odds-of-a-hard-evening",
   title: "The Odds Of A Hard Evening",

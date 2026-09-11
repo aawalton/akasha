@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theScoreIKeepOnMyself = {
   id: "01a06559-9d65-7d7b-b045-0acff11e4f98",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-score-i-keep-on-myself",
   title: "The Score I Keep On Myself",

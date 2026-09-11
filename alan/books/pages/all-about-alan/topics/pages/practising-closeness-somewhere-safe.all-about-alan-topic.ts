@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const practisingClosenessSomewhereSafe = {
   id: "01a06559-9d65-7185-90f3-dc203dd0e78a",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "practising-closeness-somewhere-safe",
   title: "Practising Closeness Somewhere Safe",

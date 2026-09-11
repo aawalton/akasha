@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theScaffoldingIBuilt = {
   id: "01a06559-9d65-7ec9-b3bf-87a17dee0c36",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-scaffolding-i-built",
   title: "The Scaffolding I Built",

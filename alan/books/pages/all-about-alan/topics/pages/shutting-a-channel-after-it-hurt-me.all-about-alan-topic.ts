@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const shuttingAChannelAfterItHurtMe = {
   id: "01a06559-9d65-7b3a-b6bb-3158e3237be9",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "shutting-a-channel-after-it-hurt-me",
   title: "Shutting A Channel After It Hurt Me",

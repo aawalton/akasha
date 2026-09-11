@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howMyAttentionWorks = {
   id: "01a06559-9d65-76e3-b4bb-e0a9f1071107",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-my-attention-works",
   title: "How My Attention Works",

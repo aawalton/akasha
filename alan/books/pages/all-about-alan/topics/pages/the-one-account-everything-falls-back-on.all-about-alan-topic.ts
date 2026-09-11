@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theOneAccountEverythingFallsBackOn = {
   id: "01a06559-9d65-78b0-bf36-e2813b9c69cd",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-one-account-everything-falls-back-on",
   title: "The One Account Everything Falls Back On",

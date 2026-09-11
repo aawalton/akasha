@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howOftenIStartOver = {
   id: "01a04625-d80d-744a-a80f-b7e7545d9b82",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-often-i-start-over",
   title: "How Often I Start Over",

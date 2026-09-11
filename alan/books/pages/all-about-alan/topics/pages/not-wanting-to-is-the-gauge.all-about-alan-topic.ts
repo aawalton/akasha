@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const notWantingToIsTheGauge = {
   id: "01a06559-9d65-73c5-9c38-c2134c5f2d54",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "not-wanting-to-is-the-gauge",
   title: "Not Wanting To Is The Gauge",

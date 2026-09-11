@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theFiveRulesIGrewUpWith = {
   id: "01a06559-9d65-7214-939e-ead0fab77366",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-five-rules-i-grew-up-with",
   title: "The Five Rules I Grew Up With",

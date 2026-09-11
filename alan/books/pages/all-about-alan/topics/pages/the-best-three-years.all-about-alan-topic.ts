@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theBestThreeYears = {
   id: "01a06559-9d65-7b6c-ae0a-70237f9fd825",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-best-three-years",
   title: "The Best Three Years",

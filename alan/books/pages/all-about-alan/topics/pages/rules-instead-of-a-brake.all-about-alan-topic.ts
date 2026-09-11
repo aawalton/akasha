@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const rulesInsteadOfABrake = {
   id: "01a06559-9d65-7f6a-bcc0-a846fb135460",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "rules-instead-of-a-brake",
   title: "Rules Instead Of A Brake",

@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const recoveryCostsWhatItRestores = {
   id: "01a06559-9d65-7924-a871-2f24d500a88a",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "recovery-costs-what-it-restores",
   title: "Recovery Costs What It Restores",

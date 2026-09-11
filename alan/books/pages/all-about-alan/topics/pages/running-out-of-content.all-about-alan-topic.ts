@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const runningOutOfContent = {
   id: "01a06559-9d65-7ee0-a9ed-72652fa93ce2",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "running-out-of-content",
   title: "Running Out Of Content",

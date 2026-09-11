@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theMoneyWeAreLivingOn = {
   id: "01a06559-9d65-7c36-8ace-5776f5b44e37",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-money-we-are-living-on",
   title: "The Money We Are Living On",

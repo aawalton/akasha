@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theMarriageLeverICannotRead = {
   id: "01a0784a-5761-7614-9bc5-c0913da356b1",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-marriage-lever-i-cannot-read",
   title: "The Marriage Lever I Cannot Read",

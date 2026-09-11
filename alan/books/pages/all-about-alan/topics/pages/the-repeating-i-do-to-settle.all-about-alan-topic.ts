@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const theRepeatingIDoToSettle = {
   id: "01a06559-9d65-771f-9271-27cf7ac918eb",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "the-repeating-i-do-to-settle",
   title: "The Repeating I Do To Settle",
