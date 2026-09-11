@@ -12,7 +12,7 @@ import {
   stopsOnSignal,
 } from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 
-async function main(): Promise<void> {
+export async function runPushNotifying(): Promise<void> {
   const ac = stopsOnSignal()
 
   const { sender, why } = apnsSenderFromEnv()
@@ -40,7 +40,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  runPushNotifying().catch((err) => {
     console.error(`${LOG} fatal:`, err)
     process.exit(1)
   })
