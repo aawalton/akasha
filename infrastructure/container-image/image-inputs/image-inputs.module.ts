@@ -21,5 +21,10 @@ export const imageInputs = {
       invariantKind: "departure",
       statement: "A path a second stage copies is no input, because an earlier stage made it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A copied path is named from the root rather than from the folder the build is handed.",
+    },
   ],
 } as const satisfies Module

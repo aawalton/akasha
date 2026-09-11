@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
+import { buildOf } from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 import {
   copiedIn,
   inputsFor,
 } from "akasha/infrastructure/container-image/image-inputs/image-inputs.module.code.ts"
+
+const PROXY = buildOf("auth-proxy")
 
 const SAMPLE = [
   "FROM oven/bun AS build",
@@ -22,15 +25,15 @@ test("a path a second stage copies is left out", () => {
 })
 
 test("the authenticating proxy's inputs hash to twelve hex characters", () => {
-  expect(inputsFor("auth-proxy").hash).toMatch(/^[0-9a-f]{12}$/)
+  expect(inputsFor(PROXY).hash).toMatch(/^[0-9a-f]{12}$/)
 })
 
 test("the same inputs hash the same twice", () => {
-  expect(inputsFor("auth-proxy").hash).toBe(inputsFor("auth-proxy").hash)
+  expect(inputsFor(PROXY).hash).toBe(inputsFor(PROXY).hash)
 })
 
 test("what the proxy is built from carries the lockfile and its own folder", () => {
-  const copied = inputsFor("auth-proxy").copied
+  const copied = inputsFor(PROXY).copied
   expect(copied).toContain("bun.lock")
   expect(copied).toContain("infrastructure/networks/auth-proxy")
 })

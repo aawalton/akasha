@@ -16,6 +16,7 @@ export const containerImage = {
     "module/image-publishing",
     "module/recipe-page",
     "module/recipe-proving",
+    "module/image-build",
   ],
   invariants: [
     {

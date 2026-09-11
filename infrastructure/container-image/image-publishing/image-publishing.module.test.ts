@@ -1,12 +1,13 @@
 import { expect, test } from "bun:test"
+import { namedOf } from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 import {
   buildArgv,
   claimedIn,
-  pushedImages,
 } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
 import { REGISTRY } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
-const ARGV = buildArgv("/where/it/was/written", "infra/auth-proxy", "reg/infra/auth-proxy:abc")
+const PROXY = namedOf("auth-proxy")
+const ARGV = buildArgv("/where/it/was/written", PROXY, "reg/infra/auth-proxy:abc")
 
 test("the build is asked of the builder in the cluster", () => {
   expect(ARGV).toContain("tcp://buildkit.buildkit.svc.cluster.local:1234")
@@ -27,8 +28,8 @@ test("the cache is kept beside the image rather than under a tag a pull would ta
   for (const one of cached) expect(one).toContain("infra/auth-proxy:buildcache")
 })
 
-test("an image stating no repository is pushed by nothing", () => {
-  expect(pushedImages().map((one) => one.slug)).toEqual(["auth-proxy"])
+test("the folder the build is handed is the one the image names", () => {
+  expect(ARGV.some((one) => one.startsWith("context=/"))).toBe(true)
 })
 
 test("a manifest naming an image in the registry claims that image", () => {

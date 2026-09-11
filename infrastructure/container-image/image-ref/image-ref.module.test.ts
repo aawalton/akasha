@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { authProxy } from "akasha/infrastructure/container-image/dockerfiles/built-images/auth-proxy/auth-proxy.built-image.ts"
 import { buildkit } from "akasha/infrastructure/container-image/dockerfiles/built-images/buildkit/buildkit.built-image.ts"
+import { namedOf } from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 import {
   REGISTRY,
   refFor,
   refOf,
-  repositoryOf,
 } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
 test("a ref is the registry, the repository and the tag", () => {
@@ -13,7 +13,7 @@ test("a ref is the registry, the repository and the tag", () => {
 })
 
 test("the authenticating proxy is named at the repository its page states", () => {
-  expect(repositoryOf(authProxy)).toBe("infra/auth-proxy")
+  expect(namedOf(authProxy.slug).repository).toBe("infra/auth-proxy")
 })
 
 test("the proxy's ref carries a twelve hex tag", () => {
@@ -23,5 +23,5 @@ test("the proxy's ref carries a twelve hex tag", () => {
 })
 
 test("an image stating no repository is refused", () => {
-  expect(() => repositoryOf(buildkit)).toThrow("states no repository")
+  expect(() => namedOf(buildkit.slug)).toThrow("states no repository")
 })

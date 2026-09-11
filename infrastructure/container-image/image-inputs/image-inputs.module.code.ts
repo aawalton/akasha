@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
+import { join } from "node:path"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
-import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
+import type { ImageBuild } from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const COPY_AT = "COPY "
@@ -34,11 +35,11 @@ function gitIn(argv: readonly string[]): string {
   return done.out
 }
 
-export function inputsFor(slug: string): ImageInputs {
-  const dockerfile = dockerfileFor(slug)
-  const copied = copiedIn(dockerfile)
+export function inputsFor(build: ImageBuild): ImageInputs {
+  const dockerfile = build.dockerfile
+  const copied = copiedIn(dockerfile).map((one) => join(build.context, one))
   if (copied.length === 0) {
-    throw new Error(`the Dockerfile for ${slug} copies nothing, so its inputs are no hash`)
+    throw new Error(`the Dockerfile for ${build.slug} copies nothing, so its inputs are no hash`)
   }
   const listed = gitIn(["ls-tree", "-r", "HEAD", "--", ...copied])
   const summed = createHash("sha256")

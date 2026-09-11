@@ -1,11 +1,15 @@
 import { chmodSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import type { BuiltImage } from "akasha/infrastructure/container-image/dockerfiles/built-images/built-image.page-type.types.ts"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+import type {
+  ImageBuild,
+  ImageNamed,
+} from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 import {
-  IMAGES,
-  ROOT,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+  buildOf,
+  everyNamed,
+} from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 import {
   driftedIn,
   inputsFor,
@@ -14,7 +18,6 @@ import {
   CACHE_TAG,
   REGISTRY,
   refFor,
-  repositoryOf,
 } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -62,8 +65,8 @@ export async function heldInRegistry(repository: string, tag: string): Promise<b
   return asked.ok
 }
 
-export function buildArgv(at: string, repository: string, ref: string): readonly string[] {
-  const cache = refFor(repository, CACHE_TAG)
+export function buildArgv(at: string, build: ImageNamed, ref: string): readonly string[] {
+  const cache = refFor(build.repository, CACHE_TAG)
   return [
     "--addr",
     BUILDER,
@@ -72,7 +75,7 @@ export function buildArgv(at: string, repository: string, ref: string): readonly
     "--frontend",
     "dockerfile.v0",
     "--local",
-    `context=${ROOT}`,
+    `context=${join(ROOT, build.context)}`,
     "--local",
     `dockerfile=${at}`,
     "--opt",
@@ -93,33 +96,28 @@ export interface Published {
   readonly built: boolean
 }
 
-export async function publish(image: BuiltImage, dryRun: boolean): Promise<Published> {
-  const repository = repositoryOf(image)
-  const inputs = inputsFor(image.slug)
-  const ref = refFor(repository, inputs.hash)
-  const held = await heldInRegistry(repository, inputs.hash)
-  if (held || dryRun) return { slug: image.slug, ref, held, built: false }
+export async function publish(build: ImageBuild, dryRun: boolean): Promise<Published> {
+  const inputs = inputsFor(build)
+  const ref = refFor(build.repository, inputs.hash)
+  const held = await heldInRegistry(build.repository, inputs.hash)
+  if (held || dryRun) return { slug: build.slug, ref, held, built: false }
   const drifted = driftedIn(inputs.copied)
   if (drifted.length > 0) {
     throw new Error(
-      `${image.slug} is built at the commit HEAD is at, and ${drifted.join(", ")} differs from it, so the image would not be what its tag names`
+      `${build.slug} is built at the commit HEAD is at, and ${drifted.join(", ")} differs from it, so the image would not be what its tag names`
     )
   }
-  const at = dockerfileWrittenTo(image.slug, inputs.dockerfile)
-  const done = ran([buildctlAt(), ...buildArgv(at, repository, ref)])
+  const at = dockerfileWrittenTo(build.slug, inputs.dockerfile)
+  const done = ran([buildctlAt(), ...buildArgv(at, build, ref)])
   if (done.code !== 0) {
     throw new Error(`building ${ref} exited ${done.code}: ${done.err.trim()}`)
   }
-  return { slug: image.slug, ref, held: false, built: true }
+  return { slug: build.slug, ref, held: false, built: true }
 }
 
-export function pushedImages(): readonly BuiltImage[] {
-  return IMAGES.filter((one) => one.repository !== undefined)
-}
-
-export function claimedIn(yamls: readonly string[]): readonly BuiltImage[] {
-  return pushedImages().filter((one) =>
-    yamls.some((yaml) => yaml.includes(`${REGISTRY}/${repositoryOf(one)}:`))
+export function claimedIn(yamls: readonly string[]): readonly ImageNamed[] {
+  return everyNamed().filter((one) =>
+    yamls.some((yaml) => yaml.includes(`${REGISTRY}/${one.repository}:`))
   )
 }
 
@@ -128,6 +126,6 @@ export async function publishedFor(
   dryRun: boolean
 ): Promise<readonly Published[]> {
   const done: Published[] = []
-  for (const image of claimedIn(yamls)) done.push(await publish(image, dryRun))
+  for (const named of claimedIn(yamls)) done.push(await publish(buildOf(named.slug), dryRun))
   return done
 }
