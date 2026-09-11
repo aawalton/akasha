@@ -1,16 +1,13 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
-import { secretEnv } from "akasha/infrastructure/cluster/k8s-types/k8s-secret-env/k8s-secret-env.module.code.ts"
 import {
   ASSETS_BUCKET,
   componentLabels,
   EXPIRING_PREFIXES,
-  S3_GATEWAY_ENDPOINT,
 } from "../constants/seaweedfs-constants.module.code.ts"
+import { rcloneEnv } from "../rclone-env/seaweedfs-rclone-env.module.code.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
-
-const SRC_SECRET = "seaweedfs-creds"
 
 export const PRUNE_NAMESPACE = "seaweedfs-prune-sessions"
 
@@ -19,17 +16,6 @@ export const COMPONENT_PRUNE = "prune"
 export const RETENTION_DAYS = 30
 
 const PRUNE_PATH = `src:${ASSETS_BUCKET}/${EXPIRING_PREFIXES[0]}`
-
-function rcloneEnv() {
-  return [
-    { name: "HOME", value: "/tmp" },
-    { name: "RCLONE_CONFIG_SRC_TYPE", value: "s3" },
-    { name: "RCLONE_CONFIG_SRC_PROVIDER", value: "Other" },
-    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: S3_GATEWAY_ENDPOINT },
-    secretEnv("RCLONE_CONFIG_SRC_ACCESS_KEY_ID", SRC_SECRET, "access_key"),
-    secretEnv("RCLONE_CONFIG_SRC_SECRET_ACCESS_KEY", SRC_SECRET, "secret_key"),
-  ]
-}
 
 function pruneScript(): string {
   return [

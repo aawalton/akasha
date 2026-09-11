@@ -25,5 +25,6 @@ export const seaweedfs = {
     "module/seaweedfs-longtail-assets",
     "module/seaweedfs-maintenance-manifests",
     "module/seaweedfs-prune-manifests",
+    "module/seaweedfs-rclone-env",
   ],
 } as const satisfies Domain

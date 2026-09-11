@@ -1,16 +1,13 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
-import { secretEnv } from "akasha/infrastructure/cluster/k8s-types/k8s-secret-env/k8s-secret-env.module.code.ts"
 import {
   ASSETS_BUCKET,
   componentLabels,
   NON_EXPIRING_PREFIXES,
-  S3_GATEWAY_ENDPOINT,
 } from "../constants/seaweedfs-constants.module.code.ts"
+import { rcloneEnv } from "../rclone-env/seaweedfs-rclone-env.module.code.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
-
-const SRC_SECRET = "seaweedfs-creds"
 
 export const ASSETS_NAMESPACE = "seaweedfs-backup-assets"
 
@@ -25,17 +22,6 @@ const ASSET_BUDGET_BYTES = 50 * 1024 ** 3
 const ASSET_REVIEW_THRESHOLD = 0.8
 
 const ASSET_REVIEW_BYTES = ASSET_BUDGET_BYTES * ASSET_REVIEW_THRESHOLD
-
-function rcloneEnv() {
-  return [
-    { name: "HOME", value: "/tmp" },
-    { name: "RCLONE_CONFIG_SRC_TYPE", value: "s3" },
-    { name: "RCLONE_CONFIG_SRC_PROVIDER", value: "Other" },
-    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: S3_GATEWAY_ENDPOINT },
-    secretEnv("RCLONE_CONFIG_SRC_ACCESS_KEY_ID", SRC_SECRET, "access_key"),
-    secretEnv("RCLONE_CONFIG_SRC_SECRET_ACCESS_KEY", SRC_SECRET, "secret_key"),
-  ]
-}
 
 export function assetCopyScript(): string {
   const list = NON_EXPIRING_PREFIXES.join(" ")
