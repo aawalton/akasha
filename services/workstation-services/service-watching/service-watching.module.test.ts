@@ -16,6 +16,10 @@ afterAll(() => rmSync(HOME, { recursive: true, force: true }))
 
 const ROOT = process.cwd()
 
+const OWN_SLUG = "service-watching"
+
+const SERVICE_ENDING = ".workstation-service.ts"
+
 test("a ledger that is not there is read as holding nothing", () => {
   expect(ledgerRead(HOME)).toEqual({})
 })
@@ -118,11 +122,9 @@ test("this run hands the keeper every service, its moment and its own slug", asy
       return []
     },
   })
-  expect(named).toEqual([`${ROOT} ${now} service-watching`])
+  expect(named).toEqual([`${ROOT} ${now} ${OWN_SLUG}`])
   expect(seen.length).toBeGreaterThan(0)
-  expect(seen.every((one) => one.endsWith(".workstation-service.ts"))).toBe(true)
-  expect(seen).toContain(
-    "services/workstation-services/pages/service-watching.workstation-service.ts"
-  )
+  expect(seen.every((one) => one.endsWith(SERVICE_ENDING))).toBe(true)
+  expect(seen.filter((one) => one.endsWith(`${OWN_SLUG}${SERVICE_ENDING}`)).length).toBe(1)
   rmSync(home, { recursive: true, force: true })
 })
