@@ -119,5 +119,14 @@ export const indexSettling = {
       invariantKind: "departure",
       statement: "A page refiled for more than one reason is refiled once.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The lines a filing answers are in order.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A filing merges what comes in with the lines already there rather than sorting them again.",
+    },
   ],
 } as const satisfies Module

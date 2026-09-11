@@ -22,11 +22,26 @@ import {
 } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import { mergedIn, settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
+
+test("a merge with nothing coming answers the lines it was handed", () => {
+  expect(mergedIn(["a", "c"], [])).toEqual(["a", "c"])
+})
+
+test("a merge lays each line coming into its place among the lines already in order", () => {
+  expect(mergedIn(["b", "d"], ["e", "a", "c"])).toEqual(["a", "b", "c", "d", "e"])
+})
+
+test("a merge answers what sorting the two together answers", () => {
+  const held = ["alpha", "beta", "gamma"]
+  const coming = ["aardvark", "delta", "beta beta"]
+
+  expect(mergedIn(held, coming)).toEqual([...held, ...coming].sort())
+})
 
 const TARGET_ID = idOf("b")
 

@@ -60,6 +60,26 @@ function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
 }
 
+export function mergedIn(sorted: readonly string[], coming: readonly string[]): readonly string[] {
+  if (coming.length === 0) return sorted
+  const fresh = [...coming].sort()
+  const said: string[] = []
+  let at = 0
+  for (const one of fresh) {
+    for (; at < sorted.length; at += 1) {
+      const held = sorted[at]
+      if (held === undefined || held > one) break
+      said.push(held)
+    }
+    said.push(one)
+  }
+  for (; at < sorted.length; at += 1) {
+    const held = sorted[at]
+    if (held !== undefined) said.push(held)
+  }
+  return said
+}
+
 export function filingOf(
   reading: Reading,
   was: readonly Entry[],
@@ -77,7 +97,7 @@ export function filingOf(
     const come = new Set((added.get(at) ?? []).map((one) => one.line))
     const surviving = new Set([...reading.lines(at)].filter((one) => !gone.has(one)))
     const coming = [...come].filter((one) => !surviving.has(one))
-    said.push({ at, lines: [...surviving, ...coming].sort() })
+    said.push({ at, lines: mergedIn([...surviving], coming) })
   }
   return said
 }
