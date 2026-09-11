@@ -10,6 +10,7 @@ import {
 } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
 
 const SHOWN = 3
@@ -115,10 +116,7 @@ export function cyclesIn(
 export function reasonFor(at: string, held: readonly string[]): string {
   const others = held.filter((one) => one !== at)
   if (others.length === 0) return `imports itself — ${ITSELF}`
-  const first = others
-    .slice(0, SHOWN)
-    .map((one) => `\`${one}\``)
-    .join(", ")
+  const first = namesDrawn(others.slice(0, SHOWN))
   const rest = others.length > SHOWN ? `, and ${others.length - SHOWN} more` : ""
   return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
