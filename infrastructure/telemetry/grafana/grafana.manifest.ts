@@ -17,6 +17,10 @@ export const grafana = {
     },
     {
       invariantKind: "departure",
+      statement: "The keys hashed from it are GRAFANA_ADMIN_PASSWORD and GRAFANA_DB_RO_PASSWORD.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The pod template carries the hash of the grafana-datasources and grafana-dashboards configmaps.",
     },
