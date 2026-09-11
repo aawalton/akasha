@@ -91,6 +91,10 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
+      statement: "A run here is held to the processors a run made to lint is held to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Many bodies are formatted in one run of the formatter.",
     },
     {

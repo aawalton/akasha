@@ -36,6 +36,14 @@ const SAID_AT_MOST = 240
 
 const NAMED_AT_MOST = 100000
 
+const THREADS = "RAYON_NUM_THREADS"
+
+const PROCESSORS_AT_MOST = "2"
+
+export function linterEnv(): Record<string, string | undefined> {
+  return { ...process.env, [THREADS]: PROCESSORS_AT_MOST }
+}
+
 export type Found = {
   readonly path: string
   readonly line: number
@@ -126,7 +134,7 @@ function unlooked(why: string): Linted {
 }
 
 function askedOf(at: string, root: string, named: readonly string[]): Done {
-  const done = ran([at, CHECKS, REPORTER, CEILING, ...named], { cwd: root })
+  const done = ran([at, CHECKS, REPORTER, CEILING, ...named], { cwd: root, env: linterEnv() })
   return { code: done.code, output: `${done.out}${done.err}` }
 }
 

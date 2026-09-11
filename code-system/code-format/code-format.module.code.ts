@@ -1,5 +1,6 @@
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { linterEnv } from "akasha/code-system/code-lint/code-lint.module.code.ts"
 import {
   classifyExtension,
   type FileKind,
@@ -70,6 +71,7 @@ export function formattedBody(root: string, path: string, body: Uint8Array): For
   try {
     const done = bytes([join(root, BIOME_AT), CHECKS, REWRITES, `${OVER}${path}`], {
       cwd: root,
+      env: linterEnv(),
       stdin: body,
     })
     if (done.code !== 0) return held
@@ -109,7 +111,7 @@ export function formattedBodies(
       mkdirSync(dirname(at), { recursive: true })
       writeFileSync(at, body)
     }
-    bytes([join(root, BIOME_AT), CHECKS, REWRITES, held], { cwd: held })
+    bytes([join(root, BIOME_AT), CHECKS, REWRITES, held], { cwd: held, env: linterEnv() })
     for (const [path, body] of taking) {
       const back = bodyOr(join(held, path))
       done.set(path, back === null ? { body, changed: false } : takenOver(body, back))

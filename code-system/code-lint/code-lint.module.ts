@@ -57,6 +57,22 @@ export const codeLint = {
       statement: "A batch that could not be looked at answers for the whole run.",
     },
     {
+      invariantKind: "departure",
+      statement: "A run is held to two processors rather than to every processor the machine has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run takes longer for being held there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every run of the linter is held there, a run made to format among them.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The linter is told how many processors to take by the environment it is given.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "Biome says of its own JSON reporter that the reporter is unstable and may change between patches.",
