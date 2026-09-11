@@ -46,10 +46,7 @@ export const domainDrawing = {
       invariantKind: "absence",
       statement: "A domain drawn elsewhere is no domain open above the point being drawn.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A thrown reason is handed back as a refusal with that reason.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reads a command line.",

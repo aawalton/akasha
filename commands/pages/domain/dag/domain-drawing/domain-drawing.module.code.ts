@@ -2,8 +2,6 @@ import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-read
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const DOMAINS = "domains"
 
@@ -189,12 +187,4 @@ export function declarationLines(asked: readonly string[], root: string): readon
     subjects[subject] = { records }
   }
   return [JSON.stringify({ root, subjects }, null, 2)]
-}
-
-export function answering(lines: () => readonly string[]): Answer {
-  try {
-    return { report: [...lines()], refusals: [], code: 0 }
-  } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
-  }
 }

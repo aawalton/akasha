@@ -8,7 +8,6 @@ import {
 import { rootOf } from "../../../../modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import {
-  answering,
   domainsIn,
   type Entry,
   heldBy,
@@ -91,15 +90,6 @@ test("a domain open above the point being drawn is marked rather than drawn agai
     "    beside",
     "      held  — already open above here",
   ])
-})
-
-test("a thrown reason comes back as a refusal carrying that reason", () => {
-  const said = answering(() => {
-    throw new Error("nothing was there")
-  })
-
-  expect(said.code).toBe(3)
-  expect(said.refusals.join(" ")).toContain("nothing was there")
 })
 
 function typed(root: string, slug: string, above: readonly string[]): undefined {

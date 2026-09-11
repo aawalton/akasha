@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { answeredBy, cyclomaticLines, readIn, summaryOf } from "./complexity-rowing.module.code.ts"
+import { answeredBy } from "../report-answering/report-answering.module.code.ts"
+import { cyclomaticLines, readIn, summaryOf } from "./complexity-rowing.module.code.ts"
 
 const OWN = join(import.meta.dir, "complexity-rowing.module.code.ts")
 

@@ -1,6 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { answering, type Drawn, dagLines } from "./domain-drawing/domain-drawing.module.code.ts"
+import { answeredBy } from "../../../modules/report-answering/report-answering.module.code.ts"
+import { type Drawn, dagLines } from "./domain-drawing/domain-drawing.module.code.ts"
 
 export const AT_DOMAIN = "--domain"
 
@@ -52,5 +53,5 @@ export function readIn(argv: readonly string[]): Read {
 export function domainDag(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
-  return answering(() => dagLines(read, resolve(given.root)))
+  return answeredBy(() => dagLines(read, resolve(given.root)))
 }

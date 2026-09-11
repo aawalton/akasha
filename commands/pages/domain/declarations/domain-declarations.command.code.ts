@@ -1,10 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  answering,
-  declarationLines,
-  SUBJECTS,
-} from "../dag/domain-drawing/domain-drawing.module.code.ts"
+import { answeredBy } from "../../../modules/report-answering/report-answering.module.code.ts"
+import { declarationLines, SUBJECTS } from "../dag/domain-drawing/domain-drawing.module.code.ts"
 
 export const SUBJECT = "--subject"
 
@@ -42,5 +39,5 @@ export function readIn(argv: readonly string[]): Read {
 export function domainDeclarations(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
-  return answering(() => declarationLines(read.subjects, resolve(given.root)))
+  return answeredBy(() => declarationLines(read.subjects, resolve(given.root)))
 }

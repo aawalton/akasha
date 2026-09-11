@@ -10,8 +10,6 @@ import {
   percentile,
   resolveAnalysisInputs,
 } from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
-import type { Answer } from "../calling/calling.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { quoted } from "../seat-act-calling/seat-act-calling.module.code.ts"
 
 export const FILE = "--file"
@@ -229,12 +227,4 @@ export function reportLines(wanted: Wanted, root: string): readonly string[] {
     for (const one of miTop) lines.push(`${fmt(one.mi, 1)}\t${one.file}`)
   }
   return lines
-}
-
-export function answeredBy(lines: () => readonly string[]): Answer {
-  try {
-    return { report: [...lines()], refusals: [], code: 0 }
-  } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
-  }
 }
