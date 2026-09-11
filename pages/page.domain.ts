@@ -101,6 +101,7 @@ export const page = {
     "domain/identity",
     "domain/id",
     "page-type/true-property",
+    "page-type/false-property",
   ],
   invariants: [
     {
