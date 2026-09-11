@@ -11,6 +11,7 @@ import { formatGold } from "akasha/design/interfaces/primitives/format-gold/form
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import type { InventoryLeafNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 
 export interface ValueExplanationData {
   itemName: string
@@ -22,6 +23,19 @@ export interface ValueExplanationData {
   amountCount?: number
   saleAmountCount?: number
   suggestedPrice?: number
+}
+
+export function leafToValueData(node: InventoryLeafNode): ValueExplanationData {
+  return {
+    itemName: node.label,
+    replacementValue: node.replacementValue,
+    merchantValue: node.merchantValue,
+    saleAvg: node.saleAvg,
+    minPrice: node.minPrice,
+    amountCount: node.amountCount,
+    saleAmountCount: node.saleAmountCount,
+    suggestedPrice: node.suggestedPrice,
+  }
 }
 
 interface ValueExplanationDialogProps {

@@ -18,7 +18,6 @@ import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.mo
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import {
   hasAnyValue,
-  type InventoryLeafNode,
   type InventoryNode,
 } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import {
@@ -27,6 +26,7 @@ import {
 } from "akasha/temper/items-rules-core/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
+  leafToValueData,
   type ValueExplanationData,
   ValueExplanationDialog,
 } from "akasha/temper/player-inventory-management-ui/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
@@ -60,19 +60,6 @@ function aggregate(node: InventoryNode): AggregateResult {
   return {
     stackCount,
     totalValue: hasValue ? totalValue : undefined,
-  }
-}
-
-function leafToValueData(node: InventoryLeafNode): ValueExplanationData {
-  return {
-    itemName: node.label,
-    replacementValue: node.replacementValue,
-    merchantValue: node.merchantValue,
-    saleAvg: node.saleAvg,
-    minPrice: node.minPrice,
-    amountCount: node.amountCount,
-    saleAmountCount: node.saleAmountCount,
-    suggestedPrice: node.suggestedPrice,
   }
 }
 
