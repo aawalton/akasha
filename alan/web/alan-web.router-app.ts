@@ -6,7 +6,6 @@ export const alanWeb = {
   type: "router-app",
   slug: "alan-web",
   definition: "the routes Alan's site serves to a browser",
-  manifest: "json",
   tunnelRoutes: "ts",
   rootRoute: "tsx",
   routeTable: "ts",

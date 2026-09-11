@@ -1,14 +1,14 @@
 "use client"
 
-import { OfflineDownloadButton } from "@akasha/alanwalton-web/offline-download-button"
+import { OfflineDownloadButton } from "akasha/alan/web/offline-download-button/offline-download-button.module.code.tsx"
 import {
   type PageDisplayKind,
   selectPageDisplayKind,
-} from "@akasha/alanwalton-web/page-display-kind"
-import { ReaderNarrationDetail } from "@akasha/alanwalton-web/reader-narration-detail"
-import { useIsOnline } from "@akasha/alanwalton-web/use-is-online"
-import { useMediaVariants } from "@akasha/alanwalton-web/use-media-variants"
-import { useNextUnreadHref } from "@akasha/alanwalton-web/use-next-unread"
+} from "akasha/alan/web/page-display-kind/page-display-kind.module.code.ts"
+import { ReaderNarrationDetail } from "akasha/alan/web/reader-narration-detail/reader-narration-detail.module.code.tsx"
+import { useIsOnline } from "akasha/alan/web/use-is-online/use-is-online.module.code.ts"
+import { useMediaVariants } from "akasha/alan/web/use-media-variants/use-media-variants.module.code.ts"
+import { useNextUnreadHref } from "akasha/alan/web/use-next-unread/use-next-unread.module.code.ts"
 import { NotFoundNotice } from "akasha/alan/web-capacitor/not-found-notice/not-found-notice.module.code.tsx"
 import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
@@ -28,7 +28,7 @@ const READING_STORY_SLUG = "reading-story"
 
 const ChessBoard = lazy(() => import("akasha/alan/chess/board/chess-board.module.code.tsx"))
 
-const IdleGame = lazy(() => import("@akasha/alanwalton-web/idle-game"))
+const IdleGame = lazy(() => import("akasha/alan/web/idle-game/idle-game.module.code.tsx"))
 
 export default function CapacitorPageDetail() {
   const params = useParams()

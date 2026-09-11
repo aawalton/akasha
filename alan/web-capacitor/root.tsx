@@ -1,9 +1,3 @@
-import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
-import { isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
-import { createNativeFsContentPersistence } from "@akasha/alanwalton-web/content-pages-fs"
-import { readLocalPosition } from "@akasha/alanwalton-web/offline-text"
-import { createNativeFsPagesPersistence } from "@akasha/alanwalton-web/pages-persistence-fs"
-import { StatusBarSync } from "@akasha/alanwalton-web/status-bar-sync"
 import literataLatinWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import {
@@ -13,6 +7,12 @@ import {
 } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { createNativeFsContentPersistence } from "akasha/alan/web/content-pages-fs/content-pages-fs.module.code.ts"
+import { readLocalPosition } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
+import { createNativeFsPagesPersistence } from "akasha/alan/web/pages-persistence-fs/pages-persistence-fs.module.code.ts"
+import { StatusBarSync } from "akasha/alan/web/status-bar-sync/status-bar-sync.module.code.tsx"
 import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
@@ -36,7 +36,7 @@ import {
   Scripts,
   ScrollRestoration,
 } from "react-router"
-import "@akasha/alanwalton-web/capability-registrations"
+import "akasha/alan/web/capability-registrations/capability-registrations.module.code.ts"
 import "akasha/alan/web-capacitor/look/alan-web-capacitor-look.stylesheet.styles.css"
 
 configurePagesStoreFetch(apiFetch)

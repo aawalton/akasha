@@ -1,8 +1,8 @@
 "use client"
 
-import { ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
-import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
+import { ALANWALTON_APP_SLUG } from "akasha/alan/web/alan-app-id/alan-app-id.module.code.ts"
+import { HOME_NAV_SLUG } from "akasha/alan/web/home-dni/home-dni.module.code.ts"
 import {
   PageLayout,
   PageLayoutSkeleton,
