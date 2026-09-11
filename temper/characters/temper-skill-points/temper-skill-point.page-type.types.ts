@@ -1,5 +1,5 @@
-import type { Category } from "../../things/properties/category.text-property.ts"
-import type { Key } from "../../things/properties/key.text-property.ts"
+import type { Category } from "../../things/properties/category.text-property.types.ts"
+import type { Key } from "../../things/properties/key.text-property.types.ts"
 import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
 import type { MaxQuests } from "./properties/max-quests.number-property.types.ts"
 import type { MaxSkyshards } from "./properties/max-skyshards.number-property.types.ts"

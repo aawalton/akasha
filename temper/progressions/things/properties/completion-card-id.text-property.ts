@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CompletionCardId = string
-
 export const completionCardId = {
   id: "01a05fc6-81fb-7893-8ba7-9e582c0fd637",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const completionCardId = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a completion card." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

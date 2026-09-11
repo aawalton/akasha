@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type CompletionItemPath = List<string>
 
 export const completionItemPath = {
   id: "01a05fc6-81fb-729c-8013-4df821b1c2d7",
@@ -18,4 +15,5 @@ export const completionItemPath = {
       statement: "A path is read in the order the page states each step.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

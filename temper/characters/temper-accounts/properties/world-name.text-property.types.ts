@@ -1,0 +1,1 @@
+export type WorldName = string

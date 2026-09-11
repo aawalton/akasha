@@ -1,4 +1,4 @@
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { Alliance } from "../temper-companion-things/properties/alliance.text-property.types.ts"
 import type { ClassPassiveId } from "../temper-companion-things/properties/class-passive-id.text-property.types.ts"
 import type { EsoCompanionId } from "../temper-companion-things/properties/eso-companion-id.number-property.types.ts"

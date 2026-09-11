@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AbilityHeader = string
-
 export const abilityHeader = {
   id: "01a05fcd-f54c-7d17-833b-2cdc7610f956",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const abilityHeader = {
   definition: "the line an item's ability is shown under",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

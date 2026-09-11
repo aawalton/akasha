@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ConditionValue = string
-
 export const conditionValue = {
   id: "01a05fd0-3aa5-7e12-bb0a-a40ab13f2405",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const conditionValue = {
       statement: "A number or a list is written here as text whatever kind the test wants.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Parent = string
-
 export const parent = {
   id: "01a05fba-ce39-70e6-a46f-4b11e5d2a508",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const parent = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  the page above." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

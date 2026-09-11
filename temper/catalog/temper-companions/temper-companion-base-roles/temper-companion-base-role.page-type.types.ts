@@ -1,6 +1,6 @@
 import type { Description } from "../../../../pages/properties/description.text-property.ts"
 import type { DisplayOrder } from "../../../things/properties/display-order.number-property.types.ts"
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { Abbreviation } from "../temper-companion-things/properties/abbreviation.text-property.types.ts"
 import type { ValidArmorWeights } from "../temper-companion-things/properties/valid-armor-weights.text-property.types.ts"
 import type { ValidTraitIds } from "../temper-companion-things/properties/valid-trait-ids.text-property.types.ts"

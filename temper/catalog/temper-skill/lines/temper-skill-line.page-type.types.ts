@@ -1,5 +1,5 @@
 import type { DisplayOrder } from "../../../things/properties/display-order.number-property.types.ts"
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { SubcategoryId } from "../../things/properties/subcategory-id.text-property.types.ts"
 import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { EsoSkillLineId } from "../properties/eso-skill-line-id.number-property.types.ts"

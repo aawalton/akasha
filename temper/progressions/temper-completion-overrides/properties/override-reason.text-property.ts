@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type OverrideReason = string
-
 export const overrideReason = {
   id: "01a05fd0-3aa7-73f0-9c3b-150ba0630621",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const overrideReason = {
   definition: "why a count is set by hand instead of taken from the game",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

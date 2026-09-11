@@ -1,7 +1,7 @@
 import type { Date as PersonaCraftDayDate } from "../../alan/track/daily/days/properties/date.text-property.ts"
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Icon } from "../../temper/things/properties/icon.text-property.ts"
+import type { Icon } from "../../temper/things/properties/icon.text-property.types.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
 import type { AdvanceCount } from "./properties/advance-count.number-property.types.ts"
 import type { CraftDayPersona } from "./properties/craft-day-persona.relation-property.types.ts"

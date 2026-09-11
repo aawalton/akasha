@@ -1,0 +1,1 @@
+export type RruleRule = string

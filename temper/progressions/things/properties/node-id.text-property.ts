@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NodeId = string
-
 export const nodeId = {
   id: "01a05fc6-81fc-7831-9ded-1ba2e1d47ca1",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const nodeId = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a node of the same tree." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

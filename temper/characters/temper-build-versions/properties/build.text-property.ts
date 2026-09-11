@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Build = string
-
 export const build = {
   id: "01a0685d-89aa-749c-b7bc-b0f638217233",
   pageTypeSlug: "text-property",
@@ -18,4 +16,5 @@ export const build = {
       statement: "A character build and a companion build are named here alike.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

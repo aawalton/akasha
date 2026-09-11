@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type BadgeVariant = string
-
 export const badgeVariant = {
   id: "01a05fc9-9a00-724c-8bd4-be27362863ab",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const badgeVariant = {
   definition: "the color a category is badged in",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

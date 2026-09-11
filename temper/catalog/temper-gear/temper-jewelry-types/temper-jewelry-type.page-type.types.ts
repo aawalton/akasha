@@ -1,4 +1,4 @@
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { ValidSlots } from "../properties/valid-slots.text-property.types.ts"
 import type { TemperGearThing } from "../things/temper-gear-thing.page-type.types.ts"
 

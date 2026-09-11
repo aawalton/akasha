@@ -1,13 +1,13 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
-import type { AccountPage } from "./properties/account-page.text-property.ts"
-import type { Category } from "./properties/category.text-property.ts"
-import type { CategoryId } from "./properties/category-id.text-property.ts"
-import type { CompanionId } from "./properties/companion-id.text-property.ts"
+import type { AccountPage } from "./properties/account-page.text-property.types.ts"
+import type { Category } from "./properties/category.text-property.types.ts"
+import type { CategoryId } from "./properties/category-id.text-property.types.ts"
+import type { CompanionId } from "./properties/companion-id.text-property.types.ts"
 import type { DisplayOrder } from "./properties/display-order.number-property.types.ts"
-import type { EsoCharacterId } from "./properties/eso-character-id.text-property.ts"
-import type { Icon } from "./properties/icon.text-property.ts"
-import type { Key } from "./properties/key.text-property.ts"
-import type { Parent } from "./properties/parent.text-property.ts"
+import type { EsoCharacterId } from "./properties/eso-character-id.text-property.types.ts"
+import type { Icon } from "./properties/icon.text-property.types.ts"
+import type { Key } from "./properties/key.text-property.types.ts"
+import type { Parent } from "./properties/parent.text-property.types.ts"
 
 export type TemperThing = Page & {
   key?: Key

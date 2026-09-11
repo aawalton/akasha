@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WorldName = string
-
 export const worldName = {
   id: "01a0675a-f185-7ba7-85f2-df84ed542a9e",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const worldName = {
   definition: "the megaserver a reading was taken on",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CooldownKey = string
-
 export const cooldownKey = {
   id: "01a0675a-f185-7261-8c87-615e5578b628",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const cooldownKey = {
   definition: "the string the game names a timed activity by",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

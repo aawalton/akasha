@@ -5,7 +5,7 @@ import type { EquipTypes } from "./properties/equip-types.number-property.types.
 import type { FilterTypes } from "./properties/filter-types.number-property.types.ts"
 import type { FurnitureCategoryIds } from "./properties/furniture-category-ids.number-property.types.ts"
 import type { FurnitureSubcategoryIds } from "./properties/furniture-subcategory-ids.number-property.types.ts"
-import type { ItemNameContains } from "./properties/item-name-contains.text-property.ts"
+import type { ItemNameContains } from "./properties/item-name-contains.text-property.types.ts"
 import type { ItemTypes } from "./properties/item-types.number-property.types.ts"
 import type { PriorityOrder } from "./properties/priority-order.number-property.types.ts"
 import type { SpecializedItemTypes } from "./properties/specialized-item-types.number-property.types.ts"

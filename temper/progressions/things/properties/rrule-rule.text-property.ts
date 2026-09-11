@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RruleRule = string
-
 export const rruleRule = {
   id: "01a05fc6-81fd-7f0e-82af-5f52794a8b51",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const rruleRule = {
       statement: "A recurrence is written as an RFC 5545 RRULE without its `RRULE:` opener.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

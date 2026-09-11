@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DamageType = string
-
 export const damageType = {
   id: "01a05fcd-f549-776e-8c14-650e3911df93",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const damageType = {
   definition: "the flavour of damage an effect deals",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,5 +1,5 @@
 import type { Description } from "../../../../pages/properties/description.text-property.ts"
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { SkillLineId } from "../../things/properties/skill-line-id.text-property.types.ts"
 import type { SkillType } from "../../things/properties/skill-type.text-property.types.ts"
 import type { SubcategoryId } from "../../things/properties/subcategory-id.text-property.types.ts"

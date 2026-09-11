@@ -1,4 +1,4 @@
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { IsTwoHanded } from "../../things/properties/is-two-handed.boolean-property.types.ts"
 import type { EnchantmentMultiplier } from "../properties/enchantment-multiplier.number-property.types.ts"
 import type { EsoWeaponType } from "../properties/eso-weapon-type.text-property.types.ts"

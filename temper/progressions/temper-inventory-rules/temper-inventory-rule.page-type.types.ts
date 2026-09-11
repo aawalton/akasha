@@ -1,5 +1,5 @@
-import type { AccountPage } from "../../things/properties/account-page.text-property.ts"
-import type { CategoryId } from "../../things/properties/category-id.text-property.ts"
+import type { AccountPage } from "../../things/properties/account-page.text-property.types.ts"
+import type { CategoryId } from "../../things/properties/category-id.text-property.types.ts"
 import type { DisplayOrder } from "../../things/properties/display-order.number-property.types.ts"
 import type { Action } from "../temper-rules/properties/action.relation-property.types.ts"
 import type { Active } from "../temper-rules/properties/active.boolean-property.types.ts"

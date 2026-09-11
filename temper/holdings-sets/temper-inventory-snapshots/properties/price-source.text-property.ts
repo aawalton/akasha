@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PriceSource = string
-
 export const priceSource = {
   id: "01a0675a-f185-7929-9208-3fb95bf5d7a1",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const priceSource = {
   definition: "the addon the gold figures on a reading came from",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EffectiveCharacter = string
-
 export const effectiveCharacter = {
   id: "01a05fd3-435d-7270-818b-8846a738e4c8",
   pageTypeSlug: "text-property",
@@ -12,4 +10,5 @@ export const effectiveCharacter = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a character." }],
+  types: "ts",
 } as const satisfies TextProperty

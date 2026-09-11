@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ItemLink = string
-
 export const itemLink = {
   id: "01a06053-b37e-7d8f-9b54-cc84490468a6",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const itemLink = {
   definition: "the string the game writes an item's whole state as",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

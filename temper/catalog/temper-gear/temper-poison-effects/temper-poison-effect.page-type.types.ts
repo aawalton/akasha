@@ -1,4 +1,4 @@
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { Cooldown } from "../properties/cooldown.number-property.types.ts"
 import type { IsPositive } from "../properties/is-positive.boolean-property.types.ts"
 import type { OppositeId } from "../properties/opposite-id.text-property.types.ts"

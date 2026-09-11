@@ -1,6 +1,6 @@
 import type { Description } from "../../../../pages/properties/description.text-property.ts"
-import type { CompanionId } from "../../../things/properties/companion-id.text-property.ts"
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { CompanionId } from "../../../things/properties/companion-id.text-property.types.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { SkillLineId } from "../../things/properties/skill-line-id.text-property.types.ts"
 import type { SkillType } from "../../things/properties/skill-type.text-property.types.ts"
 import type { AbilityId } from "../temper-companion-things/properties/ability-id.number-property.types.ts"

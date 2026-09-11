@@ -1,5 +1,5 @@
 import type { DisplayOrder } from "../../../things/properties/display-order.number-property.types.ts"
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { ConstantKind } from "../temper-companion-things/properties/constant-kind.text-property.types.ts"
 import type { KeyText } from "../temper-companion-things/properties/key-text.text-property.types.ts"
 import type { ValueNum } from "../temper-companion-things/properties/value-num.number-property.types.ts"

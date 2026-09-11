@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ScalingKind = string
-
 export const scalingKind = {
   id: "01a05fcd-f549-7dc9-9a01-64ab56ce9e42",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const scalingKind = {
   definition: "how an effect is worked out from the number it reads",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

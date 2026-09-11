@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AccountPage = string
-
 export const accountPage = {
   id: "01a05fba-ce37-7ab7-ac79-b568699606b3",
   pageTypeSlug: "text-property",
@@ -12,4 +10,5 @@ export const accountPage = {
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  an account." }],
+  types: "ts",
 } as const satisfies TextProperty

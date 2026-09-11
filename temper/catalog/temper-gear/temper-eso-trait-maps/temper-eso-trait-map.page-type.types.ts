@@ -1,5 +1,5 @@
 import type { DisplayOrder } from "../../../things/properties/display-order.number-property.types.ts"
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { EsoTraitNum } from "../properties/eso-trait-num.number-property.types.ts"
 import type { TraitFamily } from "../properties/trait-family.text-property.types.ts"

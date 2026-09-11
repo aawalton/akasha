@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CheckpointName = string
-
 export const checkpointName = {
   id: "01a0685d-89aa-7e0e-87ba-fd8437784410",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const checkpointName = {
   definition: "what a version kept on purpose is called",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

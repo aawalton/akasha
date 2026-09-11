@@ -1,4 +1,4 @@
-import type { Key } from "../../../things/properties/key.text-property.ts"
+import type { Key } from "../../../things/properties/key.text-property.types.ts"
 import type { ArmorMultiplier } from "../properties/armor-multiplier.number-property.types.ts"
 import type { IsLargeEnchantSlot } from "../properties/is-large-enchant-slot.boolean-property.types.ts"
 import type { ValidSlots } from "../properties/valid-slots.text-property.types.ts"

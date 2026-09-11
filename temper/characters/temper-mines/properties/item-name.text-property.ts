@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ItemName = string
-
 export const itemName = {
   id: "01a06553-ace7-70af-be45-b007740978fa",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const itemName = {
       statement: "A name and a title part where a sweep read the item before the item was renamed.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

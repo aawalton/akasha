@@ -1,4 +1,4 @@
-import type { Icon } from "../../../things/properties/icon.text-property.ts"
+import type { Icon } from "../../../things/properties/icon.text-property.types.ts"
 import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { ApiVersion } from "../properties/api-version.text-property.types.ts"
 import type { CapturedAt } from "../properties/captured-at.instant-property.types.ts"

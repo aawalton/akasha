@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LastRunOutcome = string
-
 export const lastRunOutcome = {
   id: "01a05fd3-4362-7b80-9591-3e5f58ebfa66",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const lastRunOutcome = {
       statement: "A report is held as JSON text rather than as the fields a report carries.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

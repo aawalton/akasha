@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TokenHash = string
-
 export const tokenHash = {
   id: "01a05fd3-4363-7c0f-9df5-69d317e01c6f",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const tokenHash = {
   definition: "the digest a token is recognised by without the token being held",
   maxLength: 64,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

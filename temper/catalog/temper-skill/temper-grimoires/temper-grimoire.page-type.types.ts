@@ -1,4 +1,4 @@
-import type { Icon } from "../../../things/properties/icon.text-property.ts"
+import type { Icon } from "../../../things/properties/icon.text-property.types.ts"
 import type { SkillLineId } from "../../things/properties/skill-line-id.text-property.types.ts"
 import type { AbilityIcon } from "../properties/ability-icon.text-property.types.ts"
 import type { AffixScripts } from "../properties/affix-scripts.page-property-entry.types.ts"

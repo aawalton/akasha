@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Priority = string
-
 export const priority = {
   id: "01a05fc6-81fd-7764-b99b-b35b9b100540",
   pageTypeSlug: "text-property",
@@ -15,4 +13,5 @@ export const priority = {
     { invariantKind: "departure", statement: "A priority is written `p` before its number." },
     { invariantKind: "departure", statement: "A lower number is wanted sooner." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

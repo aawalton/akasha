@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LiveBuildId = string
-
 export const liveBuildId = {
   id: "01a05fcd-f545-7d48-9dcc-6dc427e56e01",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const liveBuildId = {
   definition: "the build a character is wearing right now",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
+  types: "ts",
 } as const satisfies TextProperty

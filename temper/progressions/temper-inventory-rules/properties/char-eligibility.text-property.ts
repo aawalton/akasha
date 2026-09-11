@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CharEligibility = string
-
 export const charEligibility = {
   id: "01a07283-f298-7cad-8c9f-82f3ca167ff1",
   pageTypeSlug: "text-property",
@@ -29,4 +27,5 @@ export const charEligibility = {
       statement: "A character test is a field of its own as an item test is.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty
