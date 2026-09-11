@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRulesCoreUseDeposits = {
   id: "01a06258-b52f-79ff-83c8-e91b41c15b82",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rules-core-use-deposits",
   definition: "the deposits owed to other characters after a use action is allocated",
   code: "ts",

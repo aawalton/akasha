@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuWidgetHeader = {
   id: "01a06100-0000-7000-8000-000000000022",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-widget-header",
   definition: "the section title with a rule above it",
   code: "ts",

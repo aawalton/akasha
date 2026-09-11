@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const keybinderSavedVariables = {
   id: "01a06381-67c1-7efa-89ba-519602e056ec",
   pageTypeSlug: "module",
+  type: "module",
   slug: "keybinder-saved-variables",
   definition: "what the add-on keeps between sessions, shared by every character on the machine",
   code: "ts",

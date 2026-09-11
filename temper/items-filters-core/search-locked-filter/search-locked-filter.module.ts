@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const searchLockedFilter = {
   id: "01a0613a-e0aa-7943-ae0c-5c2ed6437954",
   pageTypeSlug: "module",
+  type: "module",
   slug: "search-locked-filter",
   definition:
     "whether an item is locked against sale or destruction, narrowed by an include or exclude toggle",

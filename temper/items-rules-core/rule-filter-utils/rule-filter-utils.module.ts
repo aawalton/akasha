@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleFilterUtils = {
   id: "01a06100-3bfa-7c59-bbd4-bfdee7444bab",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-filter-utils",
   definition:
     "the two readings every condition filter shares, of a threshold and of a category's roots",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const keybinderBindingUtils = {
   id: "01a06381-67c1-7246-ad70-5a367ff2cd98",
   pageTypeSlug: "module",
+  type: "module",
   slug: "keybinder-binding-utils",
   definition: "reading an action's keys out of the game and comparing them with a saved set",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoTraitReverseMap = {
   id: "01a0612e-28d6-7df8-bb5c-419ce436eb8f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-trait-reverse-map",
   definition:
     "the temper trait id an ESO trait number means, for a player's gear or for a companion's",

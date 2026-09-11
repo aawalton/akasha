@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const backpackSettingsTypes = {
   id: "01a060c5-3c1d-7e3a-9997-6f9c875ac2eb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "backpack-settings-types",
   definition: "the settings a player sets for the backpack",
   code: "ts",

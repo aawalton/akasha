@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const chatProxy = {
   id: "01a06060-0d16-7e3b-99f0-9bc14b4374ad",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chat-proxy",
   definition: "the handle an addon prints tagged chat messages through",
   code: "ts",

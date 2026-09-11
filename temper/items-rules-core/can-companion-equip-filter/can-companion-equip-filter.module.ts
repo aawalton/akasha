@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const canCompanionEquipFilter = {
   id: "01a06100-3be3-7f9c-94ec-fd44ada789d8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "can-companion-equip-filter",
   definition: "the Can Companion Equip condition a rule may have, as the rule editor offers it",
   code: "ts",

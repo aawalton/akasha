@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleMapping = {
   id: "01a0615c-1e0f-7d27-ab92-82119f712c91",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-mapping",
   definition: "the game addon's inventory settings written out from the saved rules",
   code: "ts",

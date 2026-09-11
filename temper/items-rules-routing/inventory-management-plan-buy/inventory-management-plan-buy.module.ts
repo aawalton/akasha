@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryManagementPlanBuy = {
   id: "01a06289-2676-71eb-b326-afa48bd70c7a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-management-plan-buy",
   definition: "what a buy rule falls short of, put into the plan as a vendor errand",
   code: "ts",

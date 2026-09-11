@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemLinkParser = {
   id: "01a060bf-747c-74be-8914-30e2ea6cabe8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-link-parser",
   definition: "the fields an item link has, read out by their place in it",
   code: "ts",

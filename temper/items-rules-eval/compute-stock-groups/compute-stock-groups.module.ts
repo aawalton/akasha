@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const computeStockGroups = {
   id: "01a06137-f969-7f2a-b975-82f7a16eb18d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "compute-stock-groups",
   definition: "the set of item ids each stocking rule matches, gathered under that rule's id",
   code: "ts",

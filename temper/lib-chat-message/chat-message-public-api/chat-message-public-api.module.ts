@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const chatMessagePublicApi = {
   id: "01a06060-0d18-7688-8eab-91ba2a064865",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chat-message-public-api",
   definition: "the name the chat message library puts in the game's global table",
   code: "ts",

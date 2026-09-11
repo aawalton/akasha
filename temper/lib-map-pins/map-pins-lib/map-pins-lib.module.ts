@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPinsLib = {
   id: "01a06062-57e0-7fda-88f1-71a061e4e2a1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-pins-lib",
   definition: "the library object every caller of the map pin library reaches",
   code: "ts",

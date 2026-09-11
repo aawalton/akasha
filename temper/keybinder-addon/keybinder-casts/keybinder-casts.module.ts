@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const keybinderCasts = {
   id: "01a06381-67c1-74e3-a405-6c6a7d592238",
   pageTypeSlug: "module",
+  type: "module",
   slug: "keybinder-casts",
   definition: "every cast this add-on makes, gathered where they can be counted",
   code: "ts",

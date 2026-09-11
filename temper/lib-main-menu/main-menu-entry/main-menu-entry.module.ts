@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mainMenuEntry = {
   id: "01a0605b-c802-71af-a8cf-d954d41e3520",
   pageTypeSlug: "module",
+  type: "module",
   slug: "main-menu-entry",
   definition: "the module a bundle of this addon is gathered from",
   code: "ts",

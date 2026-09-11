@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const requiredSkillLinesFilterTypes = {
   id: "01a060d9-44cb-7469-95e8-03afb51f0719",
   pageTypeSlug: "module",
+  type: "module",
   slug: "required-skill-lines-filter-types",
   definition: "the shape of the condition asking how far named skill lines have been levelled",
   code: "ts",

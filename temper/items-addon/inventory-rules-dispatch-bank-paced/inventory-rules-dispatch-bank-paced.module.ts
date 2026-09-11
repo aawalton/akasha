@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRulesDispatchBankPaced = {
   id: "01a06258-b530-7ef5-9ff0-40428a6c5232",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rules-dispatch-bank-paced",
   definition: "the paced chain of bank moves that waits for each one to settle",
   code: "ts",

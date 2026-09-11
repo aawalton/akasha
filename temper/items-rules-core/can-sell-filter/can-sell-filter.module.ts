@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const canSellFilter = {
   id: "01a06100-3be8-7f83-ba88-c5db0a0a8a2f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "can-sell-filter",
   definition: "the Can Sell to Merchant condition a rule may carry, as the rule editor offers it",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeResearch = {
   id: "01a06226-490c-700b-9156-1eb54fe342b2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-research",
   definition: "the trait research table every crafting line is indexed by",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const quietSettingsMenu = {
   id: "01a060f1-6947-7e1e-9487-10012ccdeb7d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "quiet-settings-menu",
   definition: "the settings panel the unwanted-message add-on registers",
   code: "ts",

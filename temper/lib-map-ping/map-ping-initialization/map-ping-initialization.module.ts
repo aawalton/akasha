@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPingInitialization = {
   id: "01a0605f-6262-7b60-aee2-f54376867f1a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-ping-initialization",
   definition: "the one handler the library makes as the game loads it",
   code: "ts",

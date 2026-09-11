@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const asyncTaskSort = {
   id: "01a0606a-1c59-7223-ad74-aecf370c93d5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "async-task-sort",
   definition: "a quicksort broken into steps a task runs across frames",
   code: "ts",

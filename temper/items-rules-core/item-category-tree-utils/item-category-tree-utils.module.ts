@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemCategoryTreeUtils = {
   id: "01a0615c-1e10-735d-82f0-7a28eff84e0f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-category-tree-utils",
   definition: "the readings of the item category tree a rule needs of paths, children and kin",
   code: "ts",

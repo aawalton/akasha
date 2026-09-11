@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const requiredSkillLinesFilter = {
   id: "01a06100-3bf8-70f7-9492-2892d8648322",
   pageTypeSlug: "module",
+  type: "module",
   slug: "required-skill-lines-filter",
   definition: "the Required Skill Lines condition a rule may carry, as the rule editor offers it",
   code: "ts",

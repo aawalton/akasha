@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeScribing = {
   id: "01a06226-490a-7cec-9f6b-29f3b0492275",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-scribing",
   definition: "what a character has unlocked of grimoires and scripts",
   code: "ts",

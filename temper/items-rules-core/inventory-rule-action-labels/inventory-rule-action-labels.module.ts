@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleActionLabels = {
   id: "01a06100-3bec-73b4-afa8-f71d8f0a648e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-action-labels",
   definition:
     "the words shown for an action, and the whole sentence shown for an action with a destination",

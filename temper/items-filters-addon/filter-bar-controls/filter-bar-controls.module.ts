@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const filterBarControls = {
   id: "01a0614b-6736-7575-aaa0-1766a1adf1a8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "filter-bar-controls",
   definition: "one drawn editor per filter editor kind, laid out left to right",
   code: "ts",

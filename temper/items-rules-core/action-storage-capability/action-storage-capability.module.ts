@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const actionStorageCapability = {
   id: "01a06100-3bdf-73c8-af37-4cb6f942667f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "action-storage-capability",
   definition:
     "whether an action needs the item in the backpack before the action can be carried out",

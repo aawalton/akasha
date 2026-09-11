@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkKnowledge = {
   id: "01a06137-f965-7f9c-a6f1-3d941b423696",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-knowledge",
   definition: "the condition check over whether every character already knows an item",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryManagementPlanRoute = {
   id: "01a06151-3709-7e05-8784-492a19817f13",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-management-plan-route",
   definition: "the route one item takes from where the item lies to where a rule sends it",
   code: "ts",

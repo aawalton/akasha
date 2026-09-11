@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const keybinderBindingFns = {
   id: "01a06381-67c1-70be-89d4-23608f21260c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "keybinder-binding-fns",
   definition: "binding and unbinding a key, through the secure call where the game protects it",
   code: "ts",

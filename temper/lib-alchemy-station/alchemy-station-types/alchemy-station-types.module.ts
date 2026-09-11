@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const alchemyStationTypes = {
   id: "01a06054-98bd-71bf-8f8d-ba29e4db147c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "alchemy-station-types",
   definition: "the shape of a tab a caller adds and of the library the game global has",
   code: "ts",

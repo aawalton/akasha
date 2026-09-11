@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const compileRules = {
   id: "01a06151-370b-7db1-8ce0-836dab4a6093",
   pageTypeSlug: "module",
+  type: "module",
   slug: "compile-rules",
   definition: "a whole list of saved rules compiled at once for a property test",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const gpsCasts = {
   id: "01a0614d-4760-77ae-8327-bdf716931de5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gps-casts",
   definition: "what an untyped table the game hands over is taken to be",
   code: "ts",

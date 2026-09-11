@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleTemplateTable01 = {
   id: "01a06100-3bfc-7142-8fe2-abb5978a1b49",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-template-table-01",
   definition: "the first 24 rule templates, in the order the rules are tried in",
   code: "ts",

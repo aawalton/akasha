@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryAutoMaintenance = {
   id: "01a06258-b526-788f-bd09-2b02c266a502",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-auto-maintenance",
   definition: "the events that start a maintenance sweep when charge or durability changes",
   code: "ts",

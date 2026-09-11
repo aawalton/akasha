@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkEquipTarget = {
   id: "01a06137-f964-761e-935e-c18a08cf1dce",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-equip-target",
   definition:
     "the condition check over whether an item is equipment a character or companion wants",

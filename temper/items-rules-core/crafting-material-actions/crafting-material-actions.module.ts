@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const craftingMaterialActions = {
   id: "01a06100-3bea-776e-bce8-156c6ba94357",
   pageTypeSlug: "module",
+  type: "module",
   slug: "crafting-material-actions",
   definition:
     "what becomes of each crafting material, worked out from the rules over the material tree",

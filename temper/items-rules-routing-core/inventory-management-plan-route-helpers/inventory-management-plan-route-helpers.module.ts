@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryManagementPlanRouteHelpers = {
   id: "01a06151-3709-783e-95d5-d8689987fee1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-management-plan-route-helpers",
   definition:
     "the readings a route needs of an item's value, of storage keys and of character names",

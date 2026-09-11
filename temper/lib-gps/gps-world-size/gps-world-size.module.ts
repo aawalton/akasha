@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const gpsWorldSize = {
   id: "01a0614d-4766-7a5a-b36b-152682f53e3d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gps-world-size",
   definition: "how far across a map reaches in the world's own units",
   code: "ts",

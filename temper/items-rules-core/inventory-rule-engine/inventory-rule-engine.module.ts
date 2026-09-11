@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleEngine = {
   id: "01a06100-3bee-7b0c-8fa1-7837c3bf430b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-engine",
   definition: "the action every category tree node resolves to, given the rules and the tree",
   code: "ts",

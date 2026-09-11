@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRulesConditionsRender = {
   id: "01a06258-b52f-7479-b5bb-a93560d71421",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rules-conditions-render",
   definition: "the wording of a rule's conditions and of the result of judging them",
   code: "ts",

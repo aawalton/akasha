@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkFlags = {
   id: "01a06137-f965-79e3-938a-957ed9482203",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-flags",
   definition: "the condition check over the eight boolean flags an item has",
   code: "ts",

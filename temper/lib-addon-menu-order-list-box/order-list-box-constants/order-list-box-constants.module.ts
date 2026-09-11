@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const orderListBoxConstants = {
   id: "01a06207-bdef-7f81-9b52-c6df27e5e358",
   pageTypeSlug: "module",
+  type: "module",
   slug: "order-list-box-constants",
   definition: "the names, textures, sizes and translated words this widget uses",
   code: "ts",

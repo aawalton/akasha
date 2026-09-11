@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataEncodeCharset = {
   id: "01a06061-969f-7a3f-8f90-cd7a3e2551ba",
   pageTypeSlug: "module",
+  type: "module",
   slug: "data-encode-charset",
   definition: "the alphabet a value is written in and the control characters parting values",
   code: "ts",

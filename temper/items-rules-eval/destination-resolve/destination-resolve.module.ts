@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationResolve = {
   id: "01a06137-f96b-7043-97c6-458a3d722f28",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destination-resolve",
   definition: "the concrete destination a by-priority rule destination resolves to for one item",
   code: "ts",

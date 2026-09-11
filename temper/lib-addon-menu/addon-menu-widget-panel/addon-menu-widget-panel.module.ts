@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuWidgetPanel = {
   id: "01a06100-0000-7000-8000-000000000025",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-widget-panel",
   definition: "the scrolling page of one addon's settings, headed by its name and author",
   code: "ts",

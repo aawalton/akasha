@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const asyncTaskCallstack = {
   id: "01a0606a-1c58-7824-9a32-89e327147359",
   pageTypeSlug: "module",
+  type: "module",
   slug: "async-task-callstack",
   definition: "how a step is put onto a task's callstack",
   code: "ts",

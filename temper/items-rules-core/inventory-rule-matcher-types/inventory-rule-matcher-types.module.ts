@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleMatcherTypes = {
   id: "01a06100-3bef-716e-8a17-b2edb1a2dc74",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-matcher-types",
   definition: "the shape of an item a rule was found to affect, and of the map from rule to items",
   code: "ts",

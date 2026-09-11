@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mediaProvider = {
   id: "01a06069-f8c6-70d6-95b7-416a6fcedd26",
   pageTypeSlug: "module",
+  type: "module",
   slug: "media-provider",
   definition: "the calls another addon makes to add and fetch media",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const priceCache = {
   id: "01a0615d-c218-7c2e-8456-f4c21cdb9bd4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "price-cache",
   definition: "a price held for a while so a source is asked once",
   code: "ts",

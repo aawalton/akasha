@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkNumeric = {
   id: "01a06137-f967-7ff4-a7da-b8e750de7c13",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-numeric",
   definition: "the condition check over an item's quality, level, and three value figures",
   code: "ts",

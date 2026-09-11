@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mediaCasts = {
   id: "01a06069-f8c1-7b1c-8814-7f8f27501204",
   pageTypeSlug: "module",
+  type: "module",
   slug: "media-casts",
   definition: "the shape the untyped global table is read as",
   code: "ts",

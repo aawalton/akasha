@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const orderListBoxState = {
   id: "01a06207-bdf9-7a09-870c-479a20bc8a98",
   pageTypeSlug: "module",
+  type: "module",
   slug: "order-list-box-state",
   definition: "the library handles this widget holds and the one cursor control it shares",
   code: "ts",

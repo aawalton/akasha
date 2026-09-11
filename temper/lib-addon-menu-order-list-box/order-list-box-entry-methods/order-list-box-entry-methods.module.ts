@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const orderListBoxEntryMethods = {
   id: "01a06207-bdf3-746a-a7b6-8ad6ebf5a361",
   pageTypeSlug: "module",
+  type: "module",
   slug: "order-list-box-entry-methods",
   definition: "the methods adding one entry to the list and taking one away",
   code: "ts",

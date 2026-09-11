@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryBuildItemFacts = {
   id: "01a06258-b529-71ba-8496-6c343352f8de",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-build-item-facts",
   definition: "the facts about one item that the rule evaluator judges, read from a slot or a link",
   code: "ts",

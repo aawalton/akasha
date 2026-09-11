@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuWidgetSubmenu = {
   id: "01a06100-0000-7000-8000-000000000027",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-widget-submenu",
   definition: "the collapsible group of widgets under a titled bar",
   code: "ts",

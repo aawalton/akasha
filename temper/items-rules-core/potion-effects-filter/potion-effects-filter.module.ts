@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const potionEffectsFilter = {
   id: "01a06100-3bf6-7b0c-9855-00ae35b35c25",
   pageTypeSlug: "module",
+  type: "module",
   slug: "potion-effects-filter",
   definition: "the Potion Effects condition a rule may carry, as the rule editor offers it",
   code: "ts",

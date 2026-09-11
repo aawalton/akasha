@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const quietGuildMotd = {
   id: "01a060f1-691b-7c77-bc50-53832d7e309a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "quiet-guild-motd",
   definition: "the guild message of the day the add-on hides",
   code: "ts",

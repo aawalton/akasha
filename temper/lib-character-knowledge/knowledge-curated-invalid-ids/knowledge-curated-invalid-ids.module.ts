@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeCuratedInvalidIds = {
   id: "01a0622b-dc57-7c4b-8f62-fa6a29f7844e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-curated-invalid-ids",
   definition: "the items kept out of the style and chapter tables",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const asyncTaskTimer = {
   id: "01a0606a-1c59-7cbd-b45b-61c3cf20d13d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "async-task-timer",
   definition: "the delays and the waits that hold a task back",
   code: "ts",

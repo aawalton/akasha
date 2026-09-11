@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemBrowserItems2 = {
   id: "01a06178-371f-7d1f-8642-f4b81de71247",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-browser-items-2",
   definition: "the second third of the item set rows, in the order upstream wrote them",
   code: "ts",

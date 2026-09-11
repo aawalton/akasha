@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleMatcherContextEquipment = {
   id: "01a06281-4830-72a3-92f6-7ca21fa87284",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-matcher-context-equipment",
   definition: "the gear every target build wants, decoded from the build hashes",
   code: "ts",

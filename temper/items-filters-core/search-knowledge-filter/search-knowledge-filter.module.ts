@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const searchKnowledgeFilter = {
   id: "01a0613a-e0a9-7d8a-aa66-d1a77994500e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "search-knowledge-filter",
   definition:
     "whether the recipe or motif an item teaches is learned, narrowed by a known or unknown toggle",

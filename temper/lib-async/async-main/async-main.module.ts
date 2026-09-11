@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const asyncMain = {
   id: "01a0606a-1c55-7ece-9605-df5b14cabe22",
   pageTypeSlug: "module",
+  type: "module",
   slug: "async-main",
   definition: "the order the library parts are loaded in",
   code: "ts",

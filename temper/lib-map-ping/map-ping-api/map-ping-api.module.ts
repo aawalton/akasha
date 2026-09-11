@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPingApi = {
   id: "01a0605f-6262-7e93-8504-251a34ece495",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-ping-api",
   definition: "the ping functions the library object carries",
   code: "ts",

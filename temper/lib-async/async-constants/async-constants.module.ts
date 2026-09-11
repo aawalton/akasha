@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const asyncConstants = {
   id: "01a0606a-1c54-7a06-8b76-419e5170ac50",
   pageTypeSlug: "module",
+  type: "module",
   slug: "async-constants",
   definition: "the frame budget, the stall bounds and the delays the scheduler is tuned by",
   code: "ts",

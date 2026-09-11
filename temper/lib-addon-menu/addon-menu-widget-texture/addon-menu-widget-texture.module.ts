@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuWidgetTexture = {
   id: "01a06100-0000-7000-8000-000000000028",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-widget-texture",
   definition: "the fixed-size image widget of the settings panel",
   code: "ts",

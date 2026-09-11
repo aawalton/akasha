@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const searchTransmutedFilter = {
   id: "01a0613a-e0b1-73d3-90ad-04d99f112113",
   pageTypeSlug: "module",
+  type: "module",
   slug: "search-transmuted-filter",
   definition: "whether an item trait was transmuted, narrowed by an include or exclude toggle",
   code: "ts",

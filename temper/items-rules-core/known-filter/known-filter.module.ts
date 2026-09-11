@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knownFilter = {
   id: "01a06100-3bf1-7c10-962d-c2163a907de5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "known-filter",
   definition: "the Known Status condition a rule may carry, as the rule editor offers it",
   code: "ts",

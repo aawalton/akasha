@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeBaseDataPlans = {
   id: "01a0622b-dc53-778f-984b-f2eee085d95d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-base-data-plans",
   definition: "the pre-scanned item ids upstream ships for furnishing plans",
   code: "ts",

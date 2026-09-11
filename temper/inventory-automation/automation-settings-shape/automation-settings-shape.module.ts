@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const automationSettingsShape = {
   id: "01a06038-b7a4-79d6-aa24-39870ef827c8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "automation-settings-shape",
   definition: "what unknown JSON holds to be read as automation settings",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const categoryMatch = {
   id: "01a06137-f962-7e16-b493-859ad858c122",
   pageTypeSlug: "module",
+  type: "module",
   slug: "category-match",
   definition:
     "the answer to whether a compiled rule's category id appears in one item's category chain",

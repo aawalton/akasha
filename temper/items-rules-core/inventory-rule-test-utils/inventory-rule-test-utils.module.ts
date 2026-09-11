@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleTestUtils = {
   id: "01a06100-3bef-7eeb-afe9-e4458d43d5ef",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-test-utils",
   definition: "the item and the matcher context a test builds when the test cares about neither",
   code: "ts",

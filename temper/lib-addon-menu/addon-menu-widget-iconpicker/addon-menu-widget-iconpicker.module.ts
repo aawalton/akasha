@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuWidgetIconpicker = {
   id: "01a06100-0000-7000-8000-000000000023",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-widget-iconpicker",
   definition: "the icon swatch widget and its handle on the shared picker menu",
   code: "ts",

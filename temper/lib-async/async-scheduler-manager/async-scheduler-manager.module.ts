@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const asyncSchedulerManager = {
   id: "01a0606a-1c57-7e6a-ae00-05ca57435c03",
   pageTypeSlug: "module",
+  type: "module",
   slug: "async-scheduler-manager",
   definition: "when the scheduler and the frame measurement are switched on and off",
   code: "ts",

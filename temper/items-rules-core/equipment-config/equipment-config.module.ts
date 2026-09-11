@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const equipmentConfig = {
   id: "01a06100-3beb-75f4-a59d-ba8d15b49b38",
   pageTypeSlug: "module",
+  type: "module",
   slug: "equipment-config",
   definition:
     "the equipment settings the game addon reads, built from the rules and from the saved settings",

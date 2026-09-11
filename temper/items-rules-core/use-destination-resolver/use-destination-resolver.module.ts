@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useDestinationResolver = {
   id: "01a060d9-44ce-740b-8902-a0d1541b3f6e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-destination-resolver",
   definition: "which character an item worth learning goes to, given who already knows the item",
   code: "ts",

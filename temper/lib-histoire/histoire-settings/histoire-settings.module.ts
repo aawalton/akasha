@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const histoireSettings = {
   id: "01a06197-4c9a-753f-9265-31468ba1c486",
   pageTypeSlug: "module",
+  type: "module",
   slug: "histoire-settings",
   definition: "the settings panel this library adds to the add-on menu",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataEncodeEntry = {
   id: "01a06061-96a2-7ec7-8dd4-d8d8ce2fc3ff",
   pageTypeSlug: "module",
+  type: "module",
   slug: "data-encode-entry",
   definition: "the global the game reads the encoding library from once the addon loads",
   code: "ts",

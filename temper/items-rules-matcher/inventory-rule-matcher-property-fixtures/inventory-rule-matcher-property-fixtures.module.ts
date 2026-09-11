@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleMatcherPropertyFixtures = {
   id: "01a06281-4830-72b8-a8a5-7323d4ed93c2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-matcher-property-fixtures",
   definition: "the generated rules and items the matcher's property tests are built from",
   code: "ts",

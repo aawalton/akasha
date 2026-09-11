@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mainMenuKeyboard = {
   id: "01a0605b-c803-7076-8256-6e18f678aa85",
   pageTypeSlug: "module",
+  type: "module",
   slug: "main-menu-keyboard",
   definition: "the keyboard main menu object the game itself puts up",
   code: "ts",

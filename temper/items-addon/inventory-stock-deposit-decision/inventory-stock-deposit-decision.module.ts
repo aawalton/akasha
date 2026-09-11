@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryStockDepositDecision = {
   id: "01a06258-b534-7658-a6f9-6918c06107d4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-stock-deposit-decision",
   definition: "how much of a stock tier to deposit given what is held and what is wanted",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapDataConstants = {
   id: "01a061e1-ae98-7821-a716-1b5246aeb256",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-data-constants",
   definition: "the library's names, its version and the bounds it scans within",
   code: "ts",

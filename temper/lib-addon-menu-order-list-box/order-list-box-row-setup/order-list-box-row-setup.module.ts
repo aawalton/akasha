@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const orderListBoxRowSetup = {
   id: "01a06207-bdf7-755b-88bf-b9588192e64b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "order-list-box-row-setup",
   definition: "the row template and the reads of what a caller asked the widget to show",
   code: "ts",

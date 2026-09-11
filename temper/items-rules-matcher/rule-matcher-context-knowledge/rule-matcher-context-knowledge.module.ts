@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleMatcherContextKnowledge = {
   id: "01a06281-4830-7a5f-998e-b9cc4662de7e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-matcher-context-knowledge",
   definition: "what each character knows and what the account has of what they want",
   code: "ts",

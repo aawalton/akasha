@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const chatHistory = {
   id: "01a06060-0d16-7573-9d55-36758b6276fa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chat-history",
   definition: "the chat events this library keeps for a later session to replay",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const customMenuLib = {
   id: "01a0605a-581e-7826-9cc9-769dd4862bdf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "custom-menu-lib",
   definition: "the library object every caller of the custom menu reaches",
   code: "ts",

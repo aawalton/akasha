@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleCompilerSparse = {
   id: "01a06100-3bed-7fbc-a172-772ac30b19bf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-compiler-sparse",
   definition:
     "which characters or companions a rule reaches, read off the destination the rule names",

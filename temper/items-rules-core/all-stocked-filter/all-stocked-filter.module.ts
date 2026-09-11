@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const allStockedFilter = {
   id: "01a06100-3be0-7ea8-a8de-32cfd5204303",
   pageTypeSlug: "module",
+  type: "module",
   slug: "all-stocked-filter",
   definition: "the All Stocked condition a rule may carry, as the rule editor offers it",
   code: "ts",

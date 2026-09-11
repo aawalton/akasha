@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryNetWorthTypes = {
   id: "01a060c5-3c21-78d0-879a-f8c3dc4e3448",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-net-worth-types",
   definition: "the parts a net worth total breaks into",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryWritCraftingEnchanting = {
   id: "01a06258-b535-767f-9335-727a86df2980",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-writ-crafting-enchanting",
   definition: "resolving an enchanting writ or master writ into the runes to craft with",
   code: "ts",

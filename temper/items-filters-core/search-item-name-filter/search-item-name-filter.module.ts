@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const searchItemNameFilter = {
   id: "01a0613a-e0a8-75a5-b44f-e3ccf7935549",
   pageTypeSlug: "module",
+  type: "module",
   slug: "search-item-name-filter",
   definition: "the item name, narrowed by a text pattern typed into the filter bar",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPingConstants = {
   id: "01a0605f-625f-76ae-9f25-ff0c59770ee5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-ping-constants",
   definition: "the fixed values a map ping is handled by",
   code: "ts",

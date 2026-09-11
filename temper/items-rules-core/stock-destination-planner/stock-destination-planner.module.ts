@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const stockDestinationPlanner = {
   id: "01a06100-3bfe-70d5-a0ce-6f5cbaf8b7d9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "stock-destination-planner",
   definition:
     "where a stack of stocked items goes across characters and down a chain of destinations",

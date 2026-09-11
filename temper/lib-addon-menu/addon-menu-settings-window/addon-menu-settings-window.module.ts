@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuSettingsWindow = {
   id: "01a06100-0000-7000-8000-000000000008",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-settings-window",
   definition: "the top-level Addons window and its entry in the game's settings menu",
   code: "ts",

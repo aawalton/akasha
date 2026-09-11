@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const gpsApi = {
   id: "01a0614d-475f-7750-9fee-976d2964bf0f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gps-api",
   definition: "the coordinate functions the library object carries",
   code: "ts",

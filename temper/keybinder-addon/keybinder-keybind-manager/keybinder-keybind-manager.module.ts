@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const keybinderKeybindManager = {
   id: "01a06381-67c1-7ac7-b142-56557c9b3a13",
   pageTypeSlug: "module",
+  type: "module",
   slug: "keybinder-keybind-manager",
   definition: "the game's key-bind manager, taken from whichever of its two names is there",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const buildItemFactsFromInventoryItem = {
   id: "01a06137-f960-762e-920f-bb17bcdd1294",
   pageTypeSlug: "module",
+  type: "module",
   slug: "build-item-facts-from-inventory-item",
   definition:
     "the evaluable facts of one item, projected out of the game client's inventory item record",

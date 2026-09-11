@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryManagementPlanPropertyFixtures = {
   id: "01a06289-2676-74b4-91ec-0643ccf4bba1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-management-plan-property-fixtures",
   definition: "the generated holdings and rules the plan's property tests are built from",
   code: "ts",

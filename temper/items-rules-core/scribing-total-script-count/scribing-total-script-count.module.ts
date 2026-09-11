@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scribingTotalScriptCount = {
   id: "01a060d9-44cc-7857-8133-d0c4c0bfc797",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scribing-total-script-count",
   definition: "how many scribing scripts the game holds across focus, signature and affix",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const keepQuantityFilter = {
   id: "01a06100-3bf1-7a3f-9e81-b21c96e8c7af",
   pageTypeSlug: "module",
+  type: "module",
   slug: "keep-quantity-filter",
   definition: "the Keep condition a rule may carry, as the rule editor offers it",
   code: "ts",

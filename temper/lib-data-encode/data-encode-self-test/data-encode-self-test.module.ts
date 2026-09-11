@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dataEncodeSelfTest = {
   id: "01a06061-96a1-75e4-ac25-398ca505ef1b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "data-encode-self-test",
   definition: "a table encoded and decoded again to prove the two halves agree",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const targetQuantityFilter = {
   id: "01a06100-3c00-7f25-8688-74ce5d924b58",
   pageTypeSlug: "module",
+  type: "module",
   slug: "target-quantity-filter",
   definition: "the Target condition a rule may carry, as the rule editor offers it",
   code: "ts",

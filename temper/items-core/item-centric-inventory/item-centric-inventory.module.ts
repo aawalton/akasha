@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemCentricInventory = {
   id: "01a060d9-498d-7a88-8425-e671811fadae",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-centric-inventory",
   definition: "every place one item is held, gathered under the item",
   code: "ts",

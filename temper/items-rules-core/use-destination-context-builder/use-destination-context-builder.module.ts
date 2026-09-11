@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useDestinationContextBuilder = {
   id: "01a06100-3c01-7ef0-942b-121ee94162c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-destination-context-builder",
   definition:
     "what an item teaches, and the reader of who already knows it, built from the matcher context",

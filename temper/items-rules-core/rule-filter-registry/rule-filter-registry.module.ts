@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleFilterRegistry = {
   id: "01a06276-e3e6-7e70-9bbc-90a25d75294c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-filter-registry",
   definition: "every condition a rule may carry, in the order they are offered",
   code: "ts",

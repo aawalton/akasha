@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const replacementValueFilter = {
   id: "01a06100-3bf8-79b5-9b75-c12a48c6385c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "replacement-value-filter",
   definition: "the Replacement Value condition a rule may carry, as the rule editor offers it",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const orderListBoxEntry = {
   id: "01a06207-bdf3-79e2-9e63-14aa5448d6e1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "order-list-box-entry",
   definition: "the module a bundle of this addon is gathered from",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleConstants = {
   id: "01a060d9-44cc-7b06-9dd7-c62933ed2bb1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-constants",
   definition: "the named thresholds a rule may name in place of a number",
   code: "ts",

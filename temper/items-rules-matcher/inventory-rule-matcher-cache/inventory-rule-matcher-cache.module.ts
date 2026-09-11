@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleMatcherCache = {
   id: "01a06151-370c-7bba-9b75-347465f546d7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-matcher-cache",
   definition:
     "the matched items kept from an earlier run, and the fingerprint saying they still hold",

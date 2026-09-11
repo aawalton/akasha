@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryItemTestUtils = {
   id: "01a060c5-3c20-763c-be6d-a077fbb806de",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-item-test-utils",
   definition: "an inventory item built for a test",
   code: "ts",

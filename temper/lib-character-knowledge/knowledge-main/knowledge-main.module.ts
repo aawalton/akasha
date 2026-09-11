@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeMain = {
   id: "01a0622b-dc5b-7521-9cc9-030f60f5f84e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-main",
   definition: "the wiring the library does as the game loads it",
   code: "ts",

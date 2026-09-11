@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleMatcherContextSkillLines = {
   id: "01a06151-370e-7c6e-8369-9aab90a53fd0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-matcher-context-skill-lines",
   definition: "each character's skill line ranks, compiled into a reader the matcher calls",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryManagementPlanChainPropertyFixtures = {
   id: "01a06289-2676-7bb0-bf20-a5161d4bbd69",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-management-plan-chain-property-fixtures",
   definition: "the generated destination chains the plan's chain property tests are built from",
   code: "ts",

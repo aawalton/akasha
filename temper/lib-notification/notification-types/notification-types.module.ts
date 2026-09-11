@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const notificationTypes = {
   id: "01a0605a-0517-72bd-a7a6-c5f4d281833c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "notification-types",
   definition: "the shape of a notification row and of the providers carrying rows to a panel",
   code: "ts",

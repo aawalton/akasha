@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const checkStock = {
   id: "01a06137-f969-797a-9d04-179e4e9701ba",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-stock",
   definition:
     "the condition check over how much of a stock group characters and the bank already have",

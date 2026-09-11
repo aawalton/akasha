@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const marketValueFilter = {
   id: "01a06100-3bf3-7e98-bc03-434a49553e2c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "market-value-filter",
   definition: "the Market Value condition a rule may carry, as the rule editor offers it",
   code: "ts",

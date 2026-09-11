@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeLdei = {
   id: "01a0621c-516c-7e6c-b88e-6a86a6f54d21",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-ldei",
   definition: "one character's knowledge wrapped as text another account can read",
   code: "ts",

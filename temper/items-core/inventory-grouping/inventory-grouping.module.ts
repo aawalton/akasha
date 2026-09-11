@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryGrouping = {
   id: "01a0626e-3e05-702f-9116-c504ffbe4049",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-grouping",
   definition: "everything an account holds gathered by where it sits or what it is",
   code: "ts",

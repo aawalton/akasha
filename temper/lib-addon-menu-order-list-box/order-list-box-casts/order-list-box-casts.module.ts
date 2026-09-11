@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const orderListBoxCasts = {
   id: "01a06207-bdee-719b-9def-b29a859b1aaa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "order-list-box-casts",
   definition: "the narrowings from an untyped game value to a shape this widget reads",
   code: "ts",

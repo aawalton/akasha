@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const evalEnv = {
   id: "01a06137-f96b-7cf5-abc2-4f59c9d2db9a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eval-env",
   definition: "the lookups a rule evaluation needs from outside the item's own facts",
   code: "ts",

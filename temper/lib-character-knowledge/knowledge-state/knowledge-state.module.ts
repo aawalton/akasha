@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeState = {
   id: "01a06226-4903-78dc-9a7c-de38884ab4ee",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-state",
   definition: "the two tables the library keeps everything else on",
   code: "ts",

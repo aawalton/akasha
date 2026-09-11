@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemBrowserTooltipHooks = {
   id: "01a06178-3722-7072-929f-386663022358",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-browser-tooltip-hooks",
   definition: "the game tooltips this add-on attaches its extra lines to",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemSetCategories = {
   id: "01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-set-categories",
   definition: "the category and subcategory the game hangs one item set collection under",
   code: "ts",

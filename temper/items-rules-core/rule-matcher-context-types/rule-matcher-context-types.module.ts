@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleMatcherContextTypes = {
   id: "01a06100-3bfb-733c-9d6f-e271da93d557",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-matcher-context-types",
   definition: "everything a matcher is given to read about the account before judging an item",
   code: "ts",

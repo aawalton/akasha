@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonMenuWidgetDropdownTooltips = {
   id: "01a08e64-006e-746c-af7a-60917c2846f1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-menu-widget-dropdown-tooltips",
   definition: "the tooltip a combo box row shows while a pointer rests on that row",
   code: "ts",

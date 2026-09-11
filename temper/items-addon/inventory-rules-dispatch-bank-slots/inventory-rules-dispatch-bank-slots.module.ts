@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRulesDispatchBankSlots = {
   id: "01a06258-b530-718c-b327-f3b5d5065cb4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rules-dispatch-bank-slots",
   definition: "finding empty and partial slots in the bank and the backpack for a move",
   code: "ts",

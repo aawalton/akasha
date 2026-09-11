@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const knowledgeSettingsMainSection = {
   id: "01a06229-580d-78a3-ba2e-9a80baec0fcd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "knowledge-settings-main-section",
   definition: "every server, account and character as nested menus",
   code: "ts",
