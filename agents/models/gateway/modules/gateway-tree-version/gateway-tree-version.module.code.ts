@@ -1,21 +1,14 @@
 import { createHash } from "node:crypto"
-import { readFileSync, realpathSync, statSync } from "node:fs"
+import { readFileSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
+import { canonicalize } from "akasha/pages/repo-path/repo-path.module.code.ts"
 
 const ENTRYPOINT_REL = "../proxy-entry/proxy-entry.module.code.ts"
 
 const SPECIFIER = /^[^\S\n]*(?:import|export)\b[^;'"`]*?["']([^"']+)["']/gm
 
-function realOrGiven(path: string): string {
-  try {
-    return realpathSync(path)
-  } catch {
-    return path
-  }
-}
-
 function libDir(): string {
-  return realOrGiven(dirname(new URL(import.meta.url).pathname))
+  return canonicalize(dirname(new URL(import.meta.url).pathname))
 }
 
 function instructionsRoot(): string {
@@ -55,7 +48,7 @@ function isFileAt(absolute: string): boolean {
 function resolveImport(root: string, specifier: string, fromAbsolute: string): string {
   const at = resolve(dirname(fromAbsolute), specifier)
   for (const candidate of [at, `${at}.ts`, `${at}/index.ts`]) {
-    if (isFileAt(candidate)) return realOrGiven(candidate)
+    if (isFileAt(candidate)) return canonicalize(candidate)
   }
   throw new Error(
     `model-gateway-tree-version: ${relative(root, fromAbsolute)} imports "${specifier}", which ` +
