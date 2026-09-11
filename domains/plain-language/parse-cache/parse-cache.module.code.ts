@@ -2,13 +2,14 @@ import { createHash } from "node:crypto"
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
 import { isAbsolute, join, resolve } from "node:path"
 import type { ParsedSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import { CACHE } from "akasha/files/git-place/git-place.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const OFF = "AKASHA_PARSE_CACHE_OFF"
 const SHARD_WIDTH = 2
 const KEY_WIDTH = 32
 const NO_MODEL = "unknown-model"
-const CACHE_PARTS = ["cache", "parse"]
+const CACHE_PARTS = [CACHE, "parse"]
 
 export type ParseCache = {
   readonly at: string | null
