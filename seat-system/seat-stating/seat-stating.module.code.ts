@@ -121,7 +121,6 @@ export function seatBody(
     "",
     `export const ${exportedAs(seatName)} = {`,
     `  id: ${said(stated.agentId)},`,
-    `  pageTypeSlug: ${named},`,
     `  type: ${named},`,
     `  slug: ${said(seatName)},`,
     `  persona: ${said(persona)},`,
