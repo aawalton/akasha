@@ -110,7 +110,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "gap",
-      statement: "Every check walks a change through this module.",
+      statement: "Every check reading a body a change carries reads that body through this module.",
     },
   ],
 } as const satisfies Module
