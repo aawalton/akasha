@@ -59,6 +59,7 @@ export const codeSystem = {
     "module/name-series",
     "module/value-inserting",
     "module/test-overlay",
+    "module/mount-naming",
     "page-type/performance",
     "domain/browser",
     "domain/editor",

@@ -1,5 +1,6 @@
 import { mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, isAbsolute, join, normalize } from "node:path"
+import { MOUNTED } from "akasha/code-system/mount-naming/mount-naming.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const HOLD = "/var/tmp"
@@ -11,8 +12,6 @@ const UPPER = "upper"
 const WORK = "work"
 
 const MERGED = "merged"
-
-export const MOUNTED = "AKASHA_MERGED"
 
 const MOUNTING = "mount.sh"
 
