@@ -24,7 +24,7 @@ export const namedExtensionProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page claims these files only where that page states the property.",
+      statement: "A page beside those files claims them, so nothing names each file one at a time.",
     },
     {
       invariantKind: "departure",

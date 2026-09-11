@@ -34,6 +34,7 @@ export const index = {
     "module/index-shape",
     "module/package-reaching",
     "module/property-carrying",
+    "module/extension-carrying",
     "module/index-answering",
     "module/tree-reading",
     "index/index-declaring",
