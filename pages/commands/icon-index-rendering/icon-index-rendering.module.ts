@@ -58,6 +58,10 @@ export const iconIndexRendering = {
     },
     {
       invariantKind: "departure",
+      statement: "That page names each shard from the root rather than by a relative path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shard no longer reached is taken away rather than left unimported.",
     },
     {

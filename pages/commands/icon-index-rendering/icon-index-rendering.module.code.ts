@@ -5,6 +5,8 @@ import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-read
 
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
+const ROOT = "akasha/"
+
 export const GENERATED_AT = "pages/core/generated"
 
 export const AGGREGATE = "icon-search-index"
@@ -182,7 +184,7 @@ export function aggregate(indexShards: number, pascalShards: number): Staged {
   const overPascal = <T>(f: (at: number) => T): T[] =>
     Array.from({ length: pascalShards }, (_unused, at) => f(at))
   const reaching = (named: string, slug: string): string =>
-    `import { ${named} } from "../${slug}/${slug}.module.code.ts"`
+    `import { ${named} } from "${ROOT}${codeAtOf(slug)}"`
 
   const body = [
     ...overIndex((at) => reaching(shardConst("ICON_SEARCH_INDEX", at), shardSlug(INDEX_STEM, at))),
