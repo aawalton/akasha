@@ -9,6 +9,7 @@ import {
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
+import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 import { useState } from "react"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
@@ -65,6 +66,5 @@ function parseLocalDate(dateStr: string): Date {
 }
 
 function formatLocalDate(date: Date): string {
-  const pad = (n: number) => String(n).padStart(2, "0")
-  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`
+  return `${date.getFullYear()}-${padTwo(date.getMonth() + 1)}-${padTwo(date.getDate())}`
 }

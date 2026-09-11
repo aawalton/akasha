@@ -1,5 +1,6 @@
 import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import type { Contact } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
+import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 
 export interface ContactNaming {
   readonly buildNameIndex: (contacts: readonly Contact[]) => ReadonlyMap<string, string>
@@ -15,8 +16,7 @@ export function nameFor(contactsDb: ContactNaming, contacts: readonly Contact[])
 
 export function formatLocalMinute(unixSeconds: number): string {
   const d = new Date(unixSeconds * 1000)
-  const p = (n: number): string => String(n).padStart(2, "0")
-  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}T${p(d.getHours())}:${p(d.getMinutes())}`
+  return `${d.getFullYear()}-${padTwo(d.getMonth() + 1)}-${padTwo(d.getDate())}T${padTwo(d.getHours())}:${padTwo(d.getMinutes())}`
 }
 
 export function messageLabel(msg: ImessageMessage, name: NameFor): string {

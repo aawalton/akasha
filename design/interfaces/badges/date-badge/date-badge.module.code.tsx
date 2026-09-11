@@ -12,6 +12,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 import { CalendarDays } from "lucide-react"
 import { useState } from "react"
 
@@ -115,8 +116,7 @@ function parseLocalDate(dateStr: string): Date {
 }
 
 function formatLocalDate(date: Date): string {
-  const pad = (n: number) => String(n).padStart(2, "0")
-  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`
+  return `${date.getFullYear()}-${padTwo(date.getMonth() + 1)}-${padTwo(date.getDate())}`
 }
 
 export type { DateBadgeProps }
