@@ -101,11 +101,11 @@ function settledInto(runs: readonly Value[], startedAt: string, set: Stated): re
   return [...held, { id: uuidVersion7(), runStartedAt: startedAt, ...set }]
 }
 
-function settling(source: string, startedAt: string, set: Stated): undefined {
+async function settling(source: string, startedAt: string, set: Stated): Promise<undefined> {
   const root = akashaRoot()
   const filed = filedFor(root, source)
   if (filed === null) return
-  landed(
+  await landed(
     root,
     filed.page,
     settledInto(filed.runs, startedAt, set),
@@ -123,7 +123,7 @@ export async function recordingRun(
   const root = akashaRoot()
   const filed = filedFor(root, source)
   if (filed !== null) {
-    landed(
+    await landed(
       root,
       filed.page,
       [
@@ -135,16 +135,16 @@ export async function recordingRun(
   }
 
   let settled = false
-  const finish = (set: Stated): undefined => {
+  const finish = async (set: Stated): Promise<undefined> => {
     settled = true
-    settling(source, startedAt, set)
+    await settling(source, startedAt, set)
   }
 
-  const onSignal = (signal: string, code: number): undefined => {
+  const onSignal = async (signal: string, code: number): Promise<undefined> => {
     if (settled) return
     settled = true
     const endedMs = Date.now()
-    settling(source, startedAt, {
+    await settling(source, startedAt, {
       runStatus: FAILED,
       runCompletedAt: new Date(endedMs).toISOString(),
       durationMs: endedMs - startedAtMs,
@@ -152,8 +152,8 @@ export async function recordingRun(
     })
     process.exit(code)
   }
-  const onSigterm = (): undefined => onSignal("SIGTERM", 143)
-  const onSigint = (): undefined => onSignal("SIGINT", 130)
+  const onSigterm = (): Promise<undefined> => onSignal("SIGTERM", 143)
+  const onSigint = (): Promise<undefined> => onSignal("SIGINT", 130)
   process.once("SIGTERM", onSigterm)
   process.once("SIGINT", onSigint)
 
@@ -163,7 +163,7 @@ export async function recordingRun(
       counts = await sync()
     } catch (thrown) {
       const endedMs = Date.now()
-      finish({
+      await finish({
         runStatus: FAILED,
         runCompletedAt: new Date(endedMs).toISOString(),
         durationMs: endedMs - startedAtMs,
@@ -173,7 +173,7 @@ export async function recordingRun(
     }
 
     const endedMs = Date.now()
-    finish({
+    await finish({
       runStatus: counts.failed > 0 ? FAILED : SUCCESS,
       runCompletedAt: new Date(endedMs).toISOString(),
       durationMs: endedMs - startedAtMs,
