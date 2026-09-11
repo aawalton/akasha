@@ -1,6 +1,7 @@
 import { mkdirSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import {
+  orphanedIn,
   reachedBy,
   refusalsOver,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"
@@ -16,7 +17,7 @@ import {
   pathFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export async function judged(one: Change): Promise<readonly Judged[]> {
   const cast = shadowFor(one)
@@ -291,6 +292,21 @@ export function twinned(): string {
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": "export const two = 2\n",
   })
+}
+
+export const GONE_AT = "akasha/gone.ts"
+
+export const READS_GONE: Readonly<Record<string, string>> = {
+  "akasha/reads-gone.ts": 'import { gone } from "./gone.ts"\n\nexport const said = gone\n',
+}
+
+export function orphaning(): string {
+  return staged({ [GONE_AT]: "export const gone = 1\n" })
+}
+
+export function orphans(root: string, also: Readonly<Record<string, string>>): readonly string[] {
+  const held = change(root, { [GONE_AT]: null, ...also })
+  return orphanedIn(held, shadowAsked(held).index)
 }
 
 export const READER_AT = "akasha/reader.ts"

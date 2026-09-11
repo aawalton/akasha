@@ -237,11 +237,7 @@ export const typecheck = {
       invariantKind: "absence",
       statement: "No import is added for the narrowing.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "No test fails where the committed index is read in place of the one the change leaves.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An audit hands this check every file, so its program is the whole tree.",
