@@ -187,6 +187,7 @@ export const seatSystem = {
     "domain/oauth-proxy",
     "domain/seat-credential",
     "domain/memory-reaping",
+    "module/agent-last-said",
   ],
   invariants: [
     {
