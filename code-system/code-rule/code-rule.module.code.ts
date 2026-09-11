@@ -1,5 +1,5 @@
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import { parsedAs } from "../code-source/code-source.module.code.ts"
 
 export type Spelt = {
   readonly name: string
