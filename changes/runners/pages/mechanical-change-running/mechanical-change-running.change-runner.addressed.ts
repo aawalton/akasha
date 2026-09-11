@@ -1,4 +1,4 @@
-export type Changes = Readonly<{
+export type Changes = {
   "change-mechanical-file-content/add-page-property": Parameters<
     typeof import("akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
@@ -176,4 +176,4 @@ export type Changes = Readonly<{
   "change-mechanical/rename-file-pages": Parameters<
     typeof import("akasha/changes/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts")["runChange"]
   >[1]
-}>
+}
