@@ -10,12 +10,12 @@ export const aranyaWorkstationServiceStability = {
     {
       statement: "A change never breaks a workstation service.",
       workingMemory:
-        "Alan: the code a workstation service runs is named by a module-group property on the service page, and that module has a standard `runService` export, so the run cannot be separated from the service. Today the page states `starts` records and `runs` literal command strings spelling `.ts` paths, which a folder move leaves stale. A guard or a check over those strings is the wrong mend.\n",
+        "Alan: the code a service runs is named by a module property group on its page, with a standard `runService` export, so the run cannot be separated from it. All 43 services now carry `running.code.ts` and `running.test.ts`, each run to prove it. No unit uses them; `ExecStart` still names a `.ts` path. The switch must land `unit-writing` naming the slug and the wrap test together: `isWrapped` matches `.ts`, so naming the slug alone would silently drop every file-following restarter.\n",
     },
     {
       statement: "A workstation unit on the machine is what its page says.",
       workingMemory:
-        "`akasha deploy <slug>`, run by hand, is the only path from a page to systemd. A service's own page is never in the wrapper's import closure (`service-wrapping.module.ts:85`), so `systemd`, `enabled` and `schedule` reach the machine on a deploy alone, and a code change restarts the process without rewriting the unit. `unit-writing.ts` stamps `# Written from ` into every unit header and nothing reads it back, so a stale unit is invisible.\n",
+        "`akasha deploy <slug>`, run by hand, is still the only path from a page to systemd, so a stale unit is invisible: `unit-writing` stamps `# Written from ` into every header and nothing reads it back. A sweep on 2026-09-11 found all 35 `ExecStart` paths present but 2 of 44 `Documentation=` lines naming a folder since renamed. Links placed outside the checkout no longer drift: `install-linking` repoints every link a page states, in the landing.\n",
     },
   ],
   constraints: [
