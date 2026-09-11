@@ -265,7 +265,7 @@ const PROPERTIES: Record<string, Value> = {
       { pagePropertySlug: "name", required: true, many: false },
       { pagePropertySlug: "aids", required: false, many: true, maxCount: 3, maxLength: 4 },
       { pagePropertySlug: "text-property/tag", required: false, many: false },
-      { pagePropertySlug: "one-of-property/properties", many: true, maxCount: null },
+      { pagePropertySlug: "record-property/properties", many: true, maxCount: null },
     ],
   },
 }
