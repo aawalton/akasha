@@ -23,6 +23,10 @@ export const claudeAccountRefreshing = {
     },
     {
       invariantKind: "departure",
+      statement: "A token expiring at the moment being read against has lapsed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An account whose subscription is withdrawn is passed over.",
     },
     {

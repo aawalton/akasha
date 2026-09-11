@@ -27,10 +27,6 @@ export type Refreshing = {
   readonly why: string | null
 }
 
-export function lapsed(expiresAtMs: number, now: number): boolean {
-  return expiresAtMs <= now
-}
-
 export function noteOf(one: Refreshing): string | null {
   return one.kind === "read" ? null : `${one.account} was not refreshed — ${one.why}`
 }
@@ -51,7 +47,7 @@ export async function refreshOne(root: string, account: string, now: number): Pr
   if (cred.subscriptionDisabledReason !== null) {
     return { account, kind: "withdrawn", why: WITHDRAWN_WHY }
   }
-  if (lapsed(cred.accessTokenExpiresAtMs, now)) {
+  if (cred.accessTokenExpiresAtMs <= now) {
     return { account, kind: "lapsed", why: LAPSED_WHY }
   }
   const read = await usageFetched(cred.accessToken)
