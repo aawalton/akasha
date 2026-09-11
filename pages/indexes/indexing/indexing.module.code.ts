@@ -30,6 +30,8 @@ import {
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { indexRule } from "akasha/pages/indexes/rule/index-rule.index.ts"
 import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
 import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
 import {
@@ -58,6 +60,8 @@ const IMPORT = indexImport.name
 const PATH = indexPath.name
 
 const RELATION = indexRelation.name
+
+const RULE = indexRule.name
 
 const SCHEMA = indexSchema.name
 
@@ -130,6 +134,10 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
   drift.push(reconcile(join(root, IMPORT), imported, root, put))
+  const ruled = walkedUnder(tree, typed).flatMap((path) =>
+    ruleIn(readFileSync(path, "utf8"), path, repo)
+  )
+  drift.push(reconcile(join(root, RULE), ruled, root, put))
   return {
     pages: held.length,
     entries:
@@ -138,6 +146,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
       schema.length +
       relation.length +
       imported.length +
+      ruled.length +
       valued.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift),

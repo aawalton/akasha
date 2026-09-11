@@ -1,4 +1,4 @@
-import type { Said } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"
+import type { Saying } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"
 import {
   carrying,
   claiming,
@@ -9,6 +9,7 @@ import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -46,15 +47,15 @@ type Held = {
   readonly text: string
 }
 
-export function byRule(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
+export function byRule(held: readonly Held[]): Saying {
   const found = new Map<string, Said[]>()
   for (const one of held) {
-    for (const each of speltIn(one.path, one.text)) {
+    for (const [place, each] of speltIn(one.path, one.text).entries()) {
       const already = found.get(each.rule) ?? []
-      found.set(each.rule, [...already, { path: one.path, name: each.name }])
+      found.set(each.rule, [...already, { path: one.path, place, name: each.name }])
     }
   }
-  return found
+  return (rule) => found.get(rule) ?? []
 }
 
 export function rooted(): string {

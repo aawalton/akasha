@@ -92,7 +92,45 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read on each run whose change has a code file.",
+      statement:
+        "A rule is looked for in every file the index names on each run whose change has a code file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing files the rules a changed file spells under those rules.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run at change reads those filed rules rather than parsing every file named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The filed rules are read only where every typed path the index names is in them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose filed rules fall short of that parses every file named instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit parses every file named rather than reading the filed rules.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A filed rule string is the one the code-rule reader spells.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing works a rule string out a second time to file it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A path named before these rules were filed is in them only once it is landed.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Until every such path is landed the filed rules go unread and every file is parsed.",
     },
     {
       invariantKind: "departure",

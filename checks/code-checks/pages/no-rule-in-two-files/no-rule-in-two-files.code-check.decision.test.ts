@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  everyFiledIn,
   everySpeltIn,
   reasonsIn,
   refusalsOver,
+  refusingBy,
 } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"
 import {
   bothArriving,
@@ -16,6 +18,7 @@ import {
   unindexed,
   WIDEN,
 } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"
+import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -130,6 +133,25 @@ test("the files a change brings are among those a rule is looked for in", () => 
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   const every = everySpeltIn(change, cast.shadow)
-  const said = [...every.values()].flat().map((one) => one.path)
+  const [one] = speltIn(ONE_CODE, CAMEL)
+  if (one === undefined) throw new Error("that body spells no rule")
+  const said = every(one.rule).map((each) => each.path)
   expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
+})
+
+test("the filed map answers what parsing answers, refusal for refusal", () => {
+  const change = bothArriving(rooted())
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const parsed = refusingBy(change, everySpeltIn(change, cast.shadow))
+  expect(parsed.length).toBeGreaterThan(0)
+  expect(refusingBy(change, everyFiledIn(cast.shadow))).toEqual(parsed)
+})
+
+test("an index that has not read every path it names is parsed rather than trusted", () => {
+  const change = bothArriving(rooted())
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.index.ruleWhole()).toBe(false)
+  expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
 })

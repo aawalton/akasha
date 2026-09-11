@@ -42,6 +42,7 @@ import {
   NOTHING_FILED,
   relationIn,
 } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { overlaidOn, readingNone } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
@@ -178,6 +179,12 @@ export function settlingOver(
     )
   )
 
+  const ruled = filingOf(
+    reading,
+    held.flatMap((one) => (one.before === null ? [] : ruleIn(one.before, one.path, repo))),
+    held.flatMap((one) => (one.after === null ? [] : ruleIn(one.after, one.path, repo)))
+  )
+
   const wasSchema = held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was)))
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
   const schema = filingOf(reading, wasSchema, nowSchema)
@@ -297,6 +304,7 @@ export function settlingOver(
 
   const filings = [
     ...imported,
+    ...ruled,
     ...identity,
     ...paths,
     ...schema,

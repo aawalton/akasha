@@ -44,6 +44,7 @@ import {
   typeSlugOf,
   valuesByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { ruleWhole, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type {
   Schema as Filed,
   Reading,
@@ -107,6 +108,8 @@ export type Answering = {
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
+  readonly ruleWhole: () => boolean
+  readonly saidOf: (rule: string) => readonly Said[]
   readonly schemaAt: () => ReadonlyMap<string, Filed>
   readonly schemaOf: (named: string) => Schemad
   readonly sidecarsAt: () => SidecarsBy
@@ -160,6 +163,8 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     pageTypesIn: heldOnce(() => pageTypesIn(reading)),
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
+    ruleWhole: heldOnce(() => ruleWhole(reading, everyPath(reading))),
+    saidOf: (rule) => saidOf(reading, rule),
     schemaAt: heldOnce(() => schemaAt(reading)),
     schemaOf: (named) => schemaOf(reading, named),
     sidecarsAt: heldOnce(() => sidecarsOver(reading, [])),
