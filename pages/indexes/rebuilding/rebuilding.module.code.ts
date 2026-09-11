@@ -8,14 +8,13 @@ import {
   writeFileSync,
 } from "node:fs"
 import { basename, dirname, join } from "node:path"
-
-const INDEX = "index"
-
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { INDEX_AT, indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
+
+const INDEX = basename(INDEX_AT)
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`

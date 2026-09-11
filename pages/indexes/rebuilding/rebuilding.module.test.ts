@@ -9,6 +9,7 @@ import {
   sweptBeside,
   wholeOf,
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
+import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -126,7 +127,7 @@ test("the body an entry file holds is written the way a filing is answered", () 
 const STAMP = "stamp.jsonl"
 
 function indexAt(): string {
-  const under = join(scratch.rootFor("akasha-swept-"), "data", "index")
+  const under = indexIn(scratch.rootFor("akasha-swept-"))
   mkdirSync(under, { recursive: true })
   return under
 }
@@ -143,47 +144,47 @@ test("a file at the index's own top is taken away and the index's folders are le
   expect(bodyAt(under, AT)).toBe("{}\n")
 })
 
-test("a folder beside the index opening `index.` goes and one under another name does not", () => {
+test("a folder beside the index opening with the index's name and a dot goes, and another stays", () => {
   const under = indexAt()
   const beside = dirname(under)
-  writing(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
-  writing(beside, "indexes/one.jsonl", "{}\n")
+  writing(beside, "indexes.refreshing.1/held/one.jsonl", "{}\n")
+  writing(beside, "index/one.jsonl", "{}\n")
 
   const taken = sweptBeside(under, true)
 
-  expect(taken).toEqual([join(beside, "index.refreshing.1")])
-  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(false)
-  expect(existsSync(join(beside, "indexes"))).toBe(true)
+  expect(taken).toEqual([join(beside, "indexes.refreshing.1")])
+  expect(existsSync(join(beside, "indexes.refreshing.1"))).toBe(false)
+  expect(existsSync(join(beside, "index"))).toBe(true)
 })
 
 test("an index that is not there yet sweeps nothing rather than refusing", () => {
   const root = scratch.rootFor("akasha-swept-")
 
-  expect(sweptBeside(join(root, "data", "index"), true)).toEqual([])
+  expect(sweptBeside(indexIn(root), true)).toEqual([])
 })
 
 test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
   const root = scratch.rootFor("akasha-swept-")
   const under = join(root, "scratch")
   writing(under, "one.jsonl", "{}\n")
-  writing(root, "index.other/one.jsonl", "{}\n")
+  writing(root, "indexes.other/one.jsonl", "{}\n")
 
   const taken = sweptBeside(under, true)
 
   expect(taken).toEqual([])
   expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
-  expect(existsSync(join(root, "index.other"))).toBe(true)
+  expect(existsSync(join(root, "indexes.other"))).toBe(true)
 })
 
 test("a sweep putting nothing in place answers the paths and leaves them where they are", () => {
   const under = indexAt()
   const beside = dirname(under)
   writeFileSync(join(under, STAMP), "{}\n")
-  writing(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
+  writing(beside, "indexes.refreshing.1/held/one.jsonl", "{}\n")
 
   const taken = sweptBeside(under, false)
 
-  expect(taken).toEqual([join(beside, "index.refreshing.1"), join(under, STAMP)].sort())
+  expect(taken).toEqual([join(beside, "indexes.refreshing.1"), join(under, STAMP)].sort())
   expect(existsSync(join(under, STAMP))).toBe(true)
-  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(true)
+  expect(existsSync(join(beside, "indexes.refreshing.1"))).toBe(true)
 })

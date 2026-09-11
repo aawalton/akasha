@@ -74,11 +74,11 @@ export const rebuilding = {
     {
       invariantKind: "departure",
       statement:
-        "A folder beside the index whose name opens `index.` is taken away with the index.",
+        "A folder beside the index whose name opens with the index's name and a dot is swept too.",
     },
     {
       invariantKind: "departure",
-      statement: "That sweep answers only for a folder named `index`.",
+      statement: "That sweep answers only for the folder the index sits in.",
     },
     {
       invariantKind: "departure",
