@@ -10,6 +10,7 @@ export const claudeCodeSession = {
     "module/session-jsonl-schema",
     "module/session-jsonl",
     "module/transcript-materialize",
+    "module/session-stream",
   ],
   invariants: [
     {

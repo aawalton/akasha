@@ -1,14 +1,14 @@
 import { existsSync, readdirSync, unwatchFile, watchFile } from "node:fs"
 import { stat } from "node:fs/promises"
 import { readTranscriptSessionId } from "akasha/agents/claude-code/session/jsonl/session-jsonl.module.code.ts"
-import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { sessionOf } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
-import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   getDefaultObjectStore,
   sessionObjectKeyFor,
   syncSessionFileToObjectStore,
-} from "akasha/seat-system/session-stream/session-stream.module.code.ts"
+} from "akasha/agents/claude-code/session/stream/session-stream.module.code.ts"
+import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { sessionOf } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
+import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { keepSeatTranscript } from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 const FALLBACK_AFTER_MS = 15_000
