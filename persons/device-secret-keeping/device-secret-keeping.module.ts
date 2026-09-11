@@ -74,5 +74,9 @@ export const deviceSecretKeeping = {
       invariantKind: "gap",
       statement: "When a secret was last presented is written nowhere.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page written here names its type from the root rather than by a relative path.",
+    },
   ],
 } as const satisfies Module
