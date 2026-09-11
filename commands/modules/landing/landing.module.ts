@@ -272,7 +272,16 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing that throws has committed nothing.",
+      statement: "A landing that throws before the commit has committed nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that throws after the commit leaves that commit where it landed.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Such a landing puts the bodies back to the base commit's while HEAD keeps the commit it made.",
     },
     {
       invariantKind: "departure",

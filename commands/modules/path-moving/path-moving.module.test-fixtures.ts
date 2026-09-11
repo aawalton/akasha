@@ -13,6 +13,7 @@ import {
   repoWith,
   rowsIn,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { everythingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
@@ -38,6 +39,8 @@ export function blockedMoves(root: string): readonly FileChange[] {
 export const ASIDE_OUT = "held.uncommitted.json"
 
 const ASIDE_ON = "blocked/deep.uncommitted.json"
+
+const ASIDE_IN = "new.txt"
 
 const ASIDE_ENDS = ".aside"
 
@@ -70,12 +73,16 @@ export async function asidePutBack(): Promise<{
   readonly why: string
   readonly held: string | null
   readonly aside: readonly string[]
+  readonly committed: boolean
+  readonly wrote: boolean
 }> {
   const root = await asideRepo()
+  const was = baseOf(root)
   let why = ""
   try {
     const rows = rowsIn(root, [
       { path: ASIDE_OUT, body: null },
+      { path: ASIDE_IN, body: bytesOf("proposed") },
       { path: ASIDE_ON, body: bytesOf("never") },
     ])
     await landing(root, rows, "held", ADMITS)
@@ -87,6 +94,8 @@ export async function asidePutBack(): Promise<{
     why,
     held: existsSync(at) ? readFileSync(at, "utf8") : null,
     aside: asidesIn(root),
+    committed: baseOf(root) !== was,
+    wrote: existsSync(join(root, ASIDE_IN)),
   }
 }
 
