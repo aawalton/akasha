@@ -1,4 +1,4 @@
-import { spellsText } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
+import { spellsText } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { blobIdOf } from "akasha/commands/modules/reading/reading.module.code.ts"
 import {
   bytesAt,

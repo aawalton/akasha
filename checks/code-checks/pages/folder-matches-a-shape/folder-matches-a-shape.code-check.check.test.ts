@@ -13,7 +13,7 @@ import {
   ancestorsOf,
   reachedFolders,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
-import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/code-path-between/code-path-between.module.code.ts"
 import { NAMING_NONE } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 

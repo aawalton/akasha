@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { leadingBytes } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
+import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "akasha/commands/modules/differing/differing.module.code.ts"

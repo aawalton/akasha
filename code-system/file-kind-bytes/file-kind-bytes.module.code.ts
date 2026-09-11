@@ -1,7 +1,4 @@
-import {
-  classifyExtension,
-  type FileKind,
-} from "akasha/code-system/file-kind/file-kind.module.code.ts"
+import { classifyExtension, type FileKind } from "akasha/code/file-kind/file-kind.module.code.ts"
 
 const BYTES: Record<FileKind, boolean> = {
   ts: false,

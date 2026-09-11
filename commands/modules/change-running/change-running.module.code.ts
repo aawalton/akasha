@@ -23,7 +23,7 @@ import {
   runAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
+import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,

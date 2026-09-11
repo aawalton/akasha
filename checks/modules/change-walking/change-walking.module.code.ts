@@ -5,7 +5,7 @@ import type {
   Running,
   RunningAsync,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { typeScripted } from "akasha/code-system/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   heldIn,

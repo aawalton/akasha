@@ -1,7 +1,7 @@
 import { createRequire } from "node:module"
 import { join, relative } from "node:path"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { dirOfModule } from "akasha/code-system/module-directory/module-directory.module.code.ts"
+import { dirOfModule } from "akasha/code/module-directory/module-directory.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Indexing } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
