@@ -14,5 +14,5 @@ export type FileProperty = PageProperty & {
   holdsBytes?: HoldsBytes
   toolResolvesPaths?: ToolResolvesPaths
   writtenBy?: FileWrittenBy
-  extensions?: Extensions
+  extensions: Extensions
 }

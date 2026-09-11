@@ -24,7 +24,7 @@ export const fileProperty = {
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
     { pageProperty: "boolean-property/tool-resolves-paths", required: false, many: false },
     { pageProperty: "relation-property/file-written-by", required: false, many: false },
-    { pageProperty: "text-property/extensions", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/extensions", required: true, many: true, maxCount: null },
   ],
   invariants: [
     {
