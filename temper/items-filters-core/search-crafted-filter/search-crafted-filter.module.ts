@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchCraftedFilter = {
   id: "01a0613a-e0a6-7788-9b2c-3aeaec9aea07",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-crafted-filter",
   definition: "whether an item was crafted by a player, narrowed by an include or exclude toggle",

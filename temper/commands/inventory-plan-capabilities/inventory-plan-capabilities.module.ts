@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryPlanCapabilities = {
   id: "01a068f6-dee0-7713-8806-b95995b92fdc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-plan-capabilities",
   definition: "what building an inventory management plan is built from",

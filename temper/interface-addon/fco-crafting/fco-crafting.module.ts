@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoCrafting = {
   id: "01a06115-1ac6-7277-abd5-04d2ce7fa137",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-crafting",
   definition: "the crafting window behaviour the interface tweaks change",

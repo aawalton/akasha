@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setIdsPToZ = {
   id: "01a060d5-2f13-7e21-ba0a-cad84c827372",
-  pageTypeSlug: "module",
   type: "module",
   slug: "set-ids-p-to-z",
   definition: "the gear sets keyed under the letters p through z",

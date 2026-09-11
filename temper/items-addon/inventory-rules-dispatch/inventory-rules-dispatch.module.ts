@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRulesDispatch = {
   id: "01a06258-b532-7df4-899b-73fff2d89b43",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rules-dispatch",
   definition: "what happens when the trading house opens",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsSummaryPanel = {
   id: "01a0611d-84e5-7467-8cd2-0efd143eb949",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-summary-panel",
   definition: "the table of one row per companion the summary tab is drawn from",

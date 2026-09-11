@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionSkillCatalogCapture = {
   id: "01a060e2-3183-7d2a-a40a-3c845ef259aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-skill-catalog-capture",
   definition:

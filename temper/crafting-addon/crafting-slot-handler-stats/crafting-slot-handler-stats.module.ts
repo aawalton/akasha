@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftingSlotHandlerStats = {
   id: "01a061c7-e879-7974-affb-2305b596cf40",
-  pageTypeSlug: "module",
   type: "module",
   slug: "crafting-slot-handler-stats",
   definition: "how long an inventory slot handler took",

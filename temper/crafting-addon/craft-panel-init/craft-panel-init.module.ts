@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftPanelInit = {
   id: "01a061c7-e85d-7dbd-badd-8852eeaa18f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-panel-init",
   definition: "builds the main crafting panel once",

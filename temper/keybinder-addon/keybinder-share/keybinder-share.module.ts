@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keybinderShare = {
   id: "01a06381-67c1-7b12-b16d-aa11abf8a0bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keybinder-share",
   definition:

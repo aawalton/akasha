@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionArmorBaseValues = {
   id: "01a06152-c2c3-745e-9ada-68a8820c6c2f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-armor-base-values",
   definition: "armor value lookup by companion armor weight and equipment quality",

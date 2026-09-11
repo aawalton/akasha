@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const weaponSlots = {
   id: "01a060b8-08c6-7f16-b8a5-2cc75abc76f5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "weapon-slots",
   definition: "the main hand, off hand and poison positions a weapon bar holds",

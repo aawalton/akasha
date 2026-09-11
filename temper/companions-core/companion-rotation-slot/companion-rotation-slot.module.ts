@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionRotationSlot = {
   id: "01a06152-c2d0-7ecb-a493-0d67e8ff42e0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-rotation-slot",
   definition: "per-slot damage, healing and toughness breakdown of a simulated companion rotation",

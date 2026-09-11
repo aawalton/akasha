@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftValidation = {
   id: "01a061c7-e874-7277-92dd-f1d3135b5172",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-validation",
   definition: "whether an item link is worth keeping, learning or studying",

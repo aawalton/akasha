@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hudAddonHideTypes = {
   id: "01a061c5-18dd-700a-803e-9da71e9587ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hud-addon-hide-types",
   definition: "what a request to hide a HUD part states and what the worked-out plan states",

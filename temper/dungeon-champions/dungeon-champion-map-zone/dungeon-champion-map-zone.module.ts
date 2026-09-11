@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dungeonChampionMapZone = {
   id: "01a060f9-bac9-786e-a896-0143797eade0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "dungeon-champion-map-zone",
   definition: "which zone and subzone the open map shows, read from the map tile texture",

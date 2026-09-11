@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchMerchantValueFilter = {
   id: "01a0613a-e0ab-7549-a285-5931f6ce1026",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-merchant-value-filter",
   definition:

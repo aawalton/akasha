@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftCookingLists = {
   id: "01a08e69-e336-7e71-b562-58e9c8e75d47",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-cooking-lists",
   definition: "the recipe rows a cooking category or a search fills the food panel with",

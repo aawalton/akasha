@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryConsolidateDest = {
   id: "01a06151-3707-766e-bfa9-91d05b3b9c5c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-consolidate-dest",
   definition: "whether a destination gathers one thing from every character into one place",

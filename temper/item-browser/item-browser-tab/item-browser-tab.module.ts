@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemBrowserTab = {
   id: "01a06178-3722-7cb3-93b8-f06e95d36151",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-browser-tab",
   definition:

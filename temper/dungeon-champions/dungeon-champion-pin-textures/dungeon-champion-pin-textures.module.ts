@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dungeonChampionPinTextures = {
   id: "01a060f9-bacf-7388-b800-ec92c9f44b96",
-  pageTypeSlug: "module",
   type: "module",
   slug: "dungeon-champion-pin-textures",
   definition: "which icon a champion pin draws, killed or not, in each of the two icon sets",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemBrowserGlobal = {
   id: "01a06178-371c-7a53-91d3-e4251c76d175",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-browser-global",
   definition: "the three row handlers this add-on's own markup calls back into",

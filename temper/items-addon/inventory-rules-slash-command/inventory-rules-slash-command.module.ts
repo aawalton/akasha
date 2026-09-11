@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRulesSlashCommand = {
   id: "01a06258-b533-792d-a189-05ce72b05e25",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rules-slash-command",
   definition: "the chat command that manages the inventory rules",

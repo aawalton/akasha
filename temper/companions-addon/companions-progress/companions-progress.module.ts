@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsProgress = {
   id: "01a0611d-84de-7012-b6a4-85e9b16fe633",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-progress",
   definition: "recording a companion's experience, rapport and skill line ranks",

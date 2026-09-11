@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const loreLibraryCatalogCapture = {
   id: "01a060e2-3184-7000-83bf-82062963f749",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lore-library-catalog-capture",
   definition:

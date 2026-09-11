@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lcccCodec = {
   id: "01a0617d-5450-7b64-93e1-6235aea14f1e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lccc-codec",
   definition: "a number written as text in a sixty-four letter alphabet and read back",

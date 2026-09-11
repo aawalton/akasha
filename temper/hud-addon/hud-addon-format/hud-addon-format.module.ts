@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hudAddonFormat = {
   id: "01a061c5-18dd-7001-884c-e18901d8f626",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hud-addon-format",
   definition: "the words a bar cell reads a rate, a delay and a span in",

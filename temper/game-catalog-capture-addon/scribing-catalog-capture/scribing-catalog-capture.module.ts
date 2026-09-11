@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scribingCatalogCapture = {
   id: "01a060e2-3185-722d-8f2e-4cfdeb3fc189",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scribing-catalog-capture",
   definition: "the scribing grimoires and scripts, read into the add-on's saved variables",

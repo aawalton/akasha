@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkPotionEffects = {
   id: "01a06137-f968-77cc-97d7-6adbf8f9ea1d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-potion-effects",
   definition:

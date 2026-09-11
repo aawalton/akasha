@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillLinesByCompanion = {
   id: "01a06110-abe5-7321-989c-62b7829a7f4b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-lines-by-companion",
   definition: "every companion skill line beside the companion owning it, or beside all of them",

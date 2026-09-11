@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchArmorWeightFilter = {
   id: "01a0613a-e0a5-73ad-8749-ca689469fc54",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-armor-weight-filter",
   definition: "the armor weight of an item, narrowed by a multiselect of light, medium, and heavy",

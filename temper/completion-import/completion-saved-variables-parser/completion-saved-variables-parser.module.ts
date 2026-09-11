@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionSavedVariablesParser = {
   id: "01a060d7-c8cf-7aa1-a0b6-af0a0addf2ef",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-saved-variables-parser",
   definition: "the addon's saved variables file turned into records of what is complete",

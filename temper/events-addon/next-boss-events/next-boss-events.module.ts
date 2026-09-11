@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const nextBossEvents = {
   id: "01a06157-8359-7b61-8020-3f4072b058a7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "next-boss-events",
   definition: "what the tracker does when a boss dies, a zone changes or a group member shares",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryManagementPlanRouteVenue = {
   id: "01a06151-370a-75d2-9f60-78f57041397a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-management-plan-route-venue",
   definition: "the places a plan visits, in the order a player goes round them",

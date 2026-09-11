@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionMetricTree = {
   id: "01a06152-c2cd-7151-9afb-057ef756a156",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-metric-tree",
   definition: "the fixed grouping of companion metrics into labeled display categories",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const quietMapPins = {
   id: "01a060f1-692c-79bd-802e-0f75b32496db",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quiet-map-pins",
   definition: "the map pins the add-on takes off the map",

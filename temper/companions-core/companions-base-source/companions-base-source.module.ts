@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsBaseSource = {
   id: "01a06152-c2d1-730e-a4ec-8f2ee2d4c798",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-base-source",
   definition: "gatherer data file of the flat base stats every companion starts with",

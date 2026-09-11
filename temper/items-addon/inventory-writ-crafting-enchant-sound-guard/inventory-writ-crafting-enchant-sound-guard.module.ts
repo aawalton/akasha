@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryWritCraftingEnchantSoundGuard = {
   id: "01a06258-b535-77fc-8a96-1f6e6a80d513",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-writ-crafting-enchant-sound-guard",
   definition: "guarding the enchanting sound player against a missing length",

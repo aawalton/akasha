@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryManagementPlanCapacity = {
   id: "01a0615a-a1da-7c31-ab71-f3b4228cff88",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-management-plan-capacity",
   definition: "how many free slots each place holds and which stacks merge into each other",

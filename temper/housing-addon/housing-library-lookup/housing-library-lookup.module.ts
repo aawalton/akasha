@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingLibraryLookup = {
   id: "01a06128-d5ce-7064-a84c-9ce7846075e6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-library-lookup",
   definition: "choosing the European or North American community library for this world",

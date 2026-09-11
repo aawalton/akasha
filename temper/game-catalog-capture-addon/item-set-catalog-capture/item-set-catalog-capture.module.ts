@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemSetCatalogCapture = {
   id: "01a06127-6644-7d5a-b5dd-845d71c2890e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-set-catalog-capture",
   definition:

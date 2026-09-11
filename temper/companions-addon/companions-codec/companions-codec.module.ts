@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsCodec = {
   id: "01a0611d-84d0-7a02-930a-0f62bfef9dcc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-codec",
   definition: "reading a companion's gear and skills off the game and writing them out as a hash",

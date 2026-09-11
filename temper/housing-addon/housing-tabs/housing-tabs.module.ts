@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingTabs = {
   id: "01a06128-d5d4-7fed-876f-4cd076587467",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-tabs",
   definition: "the four tabs across the top of the housing window",

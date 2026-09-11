@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingMenuState = {
   id: "01a06113-b7d1-7b8c-b88f-ba1df4ff6bdf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-menu-state",
   definition: "the settings-panel holder the port-to-friend part registers",

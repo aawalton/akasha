@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const writSettingsWindow = {
   id: "01a061c7-e8b0-704d-8534-7e31ea2bfb1e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "writ-settings-window",
   definition: "the writ tracker's own settings window",

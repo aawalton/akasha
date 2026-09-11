@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventorySnapshotReading = {
   id: "01a068e2-226c-7031-8b22-521c27850f03",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-snapshot-reading",
   definition: "a reading of a player's inventory, found by its page and read from its data file",

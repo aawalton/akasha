@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftLibraries = {
   id: "01a061c7-e85a-749f-9438-5cbd4f97402b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-libraries",
   definition: "the add-on libraries this add-on calls, reached where the game installs them",

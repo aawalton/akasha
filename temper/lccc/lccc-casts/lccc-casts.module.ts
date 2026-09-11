@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lcccCasts = {
   id: "01a08d72-b007-7beb-b91e-33727605794e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lccc-casts",
   definition: "what a value the game hands over is taken to be",

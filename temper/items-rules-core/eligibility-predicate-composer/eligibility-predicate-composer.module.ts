@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const eligibilityPredicateComposer = {
   id: "01a06100-3beb-7c1f-82cd-d52265a07bd5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eligibility-predicate-composer",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const savedSearch = {
   id: "01a0613a-e0a4-7b20-bccd-ee3321b608f2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "saved-search",
   definition: "a named, stored set of filter values that reloads into the filter bar",

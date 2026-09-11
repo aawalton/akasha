@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionFormulaExtraction = {
   id: "01a06152-c2c8-7340-b909-f5fd7c81e388",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-formula-extraction",
   definition: "the damage and healing components a companion skill template breaks down into",

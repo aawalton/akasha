@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionWriterSchema = {
   id: "01a0607a-9cbc-744c-801a-ac572d86a811",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-writer-schema",
   definition: "the zod shapes a completion capture is checked against",

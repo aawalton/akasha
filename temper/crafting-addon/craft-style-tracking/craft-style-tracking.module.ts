@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftStyleTracking = {
   id: "01a061c7-e871-7db1-b36b-f057c79306e8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-style-tracking",
   definition: "which motif chapters a character knows, and the filters over them",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryTypes = {
   id: "01a060c5-3c23-76ec-aa93-fa279ae67a96",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-types",
   definition: "what an inventory has and the item numbers the game gives",

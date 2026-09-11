@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const weaponTraits = {
   id: "01a0610f-45bb-7d20-aedf-7d954ebf2ec5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "weapon-traits",
   definition: "every property a piece of player weapon is worked with, and what each is worth",

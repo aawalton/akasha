@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryBackpackBuffer = {
   id: "01a06258-b526-7d25-ae50-a9ad55256535",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-backpack-buffer",
   definition: "how many backpack slots are kept free, and whether there is room above that buffer",

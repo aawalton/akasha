@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleMatcherContextCanLevelMorphs = {
   id: "01a06281-4830-7235-b19b-27df1e1b1b92",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-matcher-context-can-level-morphs",
   definition: "which characters still have a skill morph left to level",

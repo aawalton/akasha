@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingVisitCardsRender = {
   id: "01a06128-d5d6-7c5b-a636-be1909ea5a7d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-visit-cards-render",
   definition: "drawing one row for each received visit card",

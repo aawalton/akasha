@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionPotionCraft = {
   id: "01a061c7-e882-7d57-8d75-2ec6413eb66b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-potion-craft",
   definition: "makes the potion the player chose",

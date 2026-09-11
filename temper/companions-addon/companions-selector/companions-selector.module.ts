@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsSelector = {
   id: "01a0611d-84e2-7e9e-843a-d527c9bc4f3c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-selector",
   definition: "the dropdown choosing which companion every panel is showing",

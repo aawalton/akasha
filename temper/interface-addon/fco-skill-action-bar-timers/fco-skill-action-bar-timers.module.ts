@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoSkillActionBarTimers = {
   id: "01a06115-1ad5-7d01-8cc1-694928184aab",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-skill-action-bar-timers",
   definition: "the countdown text the interface tweaks draw on an action slot",

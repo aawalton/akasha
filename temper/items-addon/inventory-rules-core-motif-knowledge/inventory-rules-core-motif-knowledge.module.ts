@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRulesCoreMotifKnowledge = {
   id: "01a06258-b52f-7219-a9f9-f6d5b67fe4a5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rules-core-motif-knowledge",
   definition: "how many chapters of a motif a character knows, from the characters add-on's data",

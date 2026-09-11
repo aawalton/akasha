@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftStoragePrune = {
   id: "01a061c7-e870-76f8-9e9e-166fcff4ff1d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-storage-prune",
   definition: "drops the storage entries that count nothing",

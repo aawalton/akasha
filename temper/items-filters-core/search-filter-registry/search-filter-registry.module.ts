@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchFilterRegistry = {
   id: "01a0613a-e0a7-7fab-b39b-bff6d9ac4ec6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-filter-registry",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsCommands = {
   id: "01a0611d-84d1-76d7-bc57-493947e69afe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-commands",
   definition: "refreshing and clearing every companion's recorded data",

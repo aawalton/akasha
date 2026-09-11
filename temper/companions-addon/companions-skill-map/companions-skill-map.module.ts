@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsSkillMap = {
   id: "01a0611d-84e2-7459-a5ca-157255030bb6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-skill-map",
   definition: "which index the build codec gives each companion ability the game knows",

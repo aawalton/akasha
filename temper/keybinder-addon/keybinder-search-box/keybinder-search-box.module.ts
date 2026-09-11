@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keybinderSearchBox = {
   id: "01a06381-67c1-7df3-9f12-953a58355bdc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keybinder-search-box",
   definition: "the search field the add-on adds to the key-bind window",

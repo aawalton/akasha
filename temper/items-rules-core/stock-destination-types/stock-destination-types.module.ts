@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stockDestinationTypes = {
   id: "01a060d9-44cd-7492-b42b-190488055dda",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stock-destination-types",
   definition: "what a stock-destination decision is given to read about a character's holdings",

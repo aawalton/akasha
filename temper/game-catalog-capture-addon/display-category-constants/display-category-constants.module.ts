@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const displayCategoryConstants = {
   id: "01a06127-6628-72fa-ab27-53d7049284ec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "display-category-constants",
   definition:

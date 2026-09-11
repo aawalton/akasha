@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemBrowserMultiAccount = {
   id: "01a06178-3720-7c0a-bb56-fe4d999bb279",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-browser-multi-account",
   definition:

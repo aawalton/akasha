@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchPotionEffectsFilter = {
   id: "01a0613a-e0ab-720b-94a5-6dafe7b134f2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-potion-effects-filter",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const zoneCompletionCatalogSchema = {
   id: "01a06076-5ea8-74db-9f0e-70749cf99a27",
-  pageTypeSlug: "module",
   type: "module",
   slug: "zone-completion-catalog-schema",
   definition: "the zod schema reading the zone completion catalog out of saved variables",

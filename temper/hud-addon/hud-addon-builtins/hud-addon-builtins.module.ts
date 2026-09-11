@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hudAddonBuiltins = {
   id: "01a061c5-18dd-7008-b922-a4aeb80eade3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hud-addon-builtins",
   definition: "the three fields the HUD add-on puts in the bar without another add-on",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryWritMasterConsumableTraceTypes = {
   id: "01a06258-b536-7f44-b78a-c7028ff4e266",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-writ-master-consumable-trace-types",
   definition: "the shapes of a consumable master writ trace",

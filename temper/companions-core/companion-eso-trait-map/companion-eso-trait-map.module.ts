@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionEsoTraitMap = {
   id: "01a06108-0767-7cc4-aa89-8fc44f01c10b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-eso-trait-map",
   definition:

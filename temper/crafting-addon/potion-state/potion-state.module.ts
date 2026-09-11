@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionState = {
   id: "01a061c7-e88a-7f71-b4bb-cb95b4102781",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-state",
   definition: "the one table the potion window reads and writes",

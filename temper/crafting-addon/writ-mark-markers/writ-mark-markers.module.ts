@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const writMarkMarkers = {
   id: "01a061c7-e8a3-7d0b-825a-af08c755bdc2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "writ-mark-markers",
   definition: "draws a mark on every inventory row with a master writ",

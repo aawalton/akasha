@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const writUtil = {
   id: "01a061c7-e8bc-72c8-9dad-473e7c5a67d9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "writ-util",
   definition: "the colors, the failures and the small turns the writ tracker shares",

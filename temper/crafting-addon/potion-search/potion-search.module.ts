@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionSearch = {
   id: "01a061c7-e889-7357-ba40-4ffd193e9166",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-search",
   definition: "the filters the player sets and the results they narrow",

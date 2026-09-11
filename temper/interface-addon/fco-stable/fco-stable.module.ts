@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoStable = {
   id: "01a06115-1ad7-73e4-ae36-acf5f80740be",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-stable",
   definition: "the stable window the interface tweaks change",

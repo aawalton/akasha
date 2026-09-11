@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const antiquityLoreCatalogSchema = {
   id: "01a06076-5ea5-7559-8362-c4ea6704e72a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "antiquity-lore-catalog-schema",
   definition: "the zod schema reading the antiquity lore catalog out of saved variables",

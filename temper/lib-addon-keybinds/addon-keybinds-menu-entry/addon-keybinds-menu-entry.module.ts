@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonKeybindsMenuEntry = {
   id: "01a0605a-051a-7771-b0b3-49c682c49d2b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-keybinds-menu-entry",
   definition: "the second controls panel the game menu gains for addon keybinds",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryLockOverlay = {
   id: "01a06258-b52c-78c9-aa9d-9ff2d3646f16",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-lock-overlay",
   definition: "the lock icon drawn over inventory rows the add-on has locked",

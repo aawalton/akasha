@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionDescriptionUtils = {
   id: "01a06110-abe2-73b2-aa07-21f92feaba3f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-description-utils",
   definition: "how a companion skill description is put together from its parts",

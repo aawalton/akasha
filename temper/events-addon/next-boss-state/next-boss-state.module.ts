@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const nextBossState = {
   id: "01a06157-8356-706b-948b-6f8dae0434bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "next-boss-state",
   definition: "the one table every part of this tracker reads and writes",

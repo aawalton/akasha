@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoPanelLogin = {
   id: "01a06115-1ad1-7a82-b5a7-5b541f27cbb4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-panel-login",
   definition: "the settings rows covering login and reload",

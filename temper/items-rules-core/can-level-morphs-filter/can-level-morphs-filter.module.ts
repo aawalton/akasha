@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const canLevelMorphsFilter = {
   id: "01a06100-3be6-725c-a600-133642aa5e5b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "can-level-morphs-filter",
   definition: "the Can Level Morphs condition a rule may have, as the rule editor offers it",

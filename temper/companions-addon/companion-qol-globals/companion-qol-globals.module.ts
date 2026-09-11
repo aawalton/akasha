@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQolGlobals = {
   id: "01a0611d-84c7-7d9e-8f94-55dee6f9ebf2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-qol-globals",
   definition: "the one name the quality-of-life code hangs off the game's global table",

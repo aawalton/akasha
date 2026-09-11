@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const automationToggleChange = {
   id: "01a06038-b7a4-7626-9f8d-00da1e05f38a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "automation-toggle-change",
   definition: "the settings that follow from switching one toggle in one scope",

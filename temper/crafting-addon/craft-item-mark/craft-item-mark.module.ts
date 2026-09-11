@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftItemMark = {
   id: "01a061c7-e851-7abd-8f72-757c171ac740",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-item-mark",
   definition: "the small icons drawn over an inventory row",

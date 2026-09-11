@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionActivationBuffs = {
   id: "01a06110-abe1-76b3-a5f0-27936e095c05",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-activation-buffs",
   definition: "the buff names a companion skill shows where the shared buff table has none",

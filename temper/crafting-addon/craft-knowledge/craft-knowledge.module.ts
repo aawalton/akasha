@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftKnowledge = {
   id: "01a061c7-e852-7375-898b-883039b51d97",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-knowledge",
   definition: "what a character knows, sourced from LibCharacterKnowledge",

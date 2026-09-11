@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingChatCapture = {
   id: "01a06128-d5c8-74ad-829d-e287530df9eb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-chat-capture",
   definition: "reading a visit card out of a chat line another player sent",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryAutoMaintenanceSelect = {
   id: "01a06258-b526-7ef8-b4e9-6e03d7c51770",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-auto-maintenance-select",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keybinderUiStrings = {
   id: "01a06381-67c1-7cd2-a410-e5dbfae940cd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keybinder-ui-strings",
   definition: "the words the add-on shows in the key-bind window",

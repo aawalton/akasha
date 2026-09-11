@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryWritCraftingSmithing = {
   id: "01a06258-b536-76f6-b107-29076f627905",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-writ-crafting-smithing",
   definition: "resolving a smithing writ into the pattern, material, style and count to craft",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonKeybindsLoad = {
   id: "01a0605a-0518-7ae4-b056-c6b67b1c897b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-keybinds-load",
   definition: "the menu split put in place once the game's own keybinding screen has loaded",

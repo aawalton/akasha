@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const canGiveMaxRewardsFilter = {
   id: "01a06100-3be5-777a-bd80-406d92d501f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "can-give-max-rewards-filter",
   definition: "the Can Give Max Rewards condition a rule may have, as the rule editor offers it",

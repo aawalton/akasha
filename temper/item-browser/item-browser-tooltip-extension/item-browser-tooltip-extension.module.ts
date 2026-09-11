@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemBrowserTooltipExtension = {
   id: "01a06178-3722-761a-a485-c7c7a934b42e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-browser-tooltip-extension",
   definition: "the collection lines this add-on adds under an item's tooltip",

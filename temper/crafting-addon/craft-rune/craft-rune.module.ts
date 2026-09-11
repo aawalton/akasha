@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftRune = {
   id: "01a061c7-e864-74c5-ba87-0b5c036f4471",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-rune",
   definition: "the essences, potencies and aspects a glyph is made from",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemCategoryActions = {
   id: "01a06100-3bf0-79a0-90a2-4dec665976b8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-category-actions",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemBrowserState = {
   id: "01a06178-3721-731d-b1fb-863ccc82549b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-browser-state",
   definition:

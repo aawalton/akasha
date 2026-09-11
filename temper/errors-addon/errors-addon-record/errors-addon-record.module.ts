@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorsAddonRecord = {
   id: "01a060d8-0919-792d-bef8-62245cc5dac8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "errors-addon-record",
   definition: "one Lua error written into the add-on's saved variables",

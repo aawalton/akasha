@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const canListAtGuildTraderFilter = {
   id: "01a06100-3be7-7e16-98f5-59dabc92b040",
-  pageTypeSlug: "module",
   type: "module",
   slug: "can-list-at-guild-trader-filter",
   definition:

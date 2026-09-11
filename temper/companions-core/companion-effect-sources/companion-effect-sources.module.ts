@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionEffectSources = {
   id: "01a06152-c2c7-7dff-b7bf-68a31c3744ce",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-effect-sources",
   definition: "extractors turning a companion build into categorized metric effect sources",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stockChainVisit = {
   id: "01a06100-3bfe-7ffb-9774-39a6a9d3d6ba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stock-chain-visit",
   definition: "what a single visit to a storage chain fills first and where the surplus cascades",

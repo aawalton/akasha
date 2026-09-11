@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryEsoEvalEnv = {
   id: "01a06258-b52a-73ae-8e70-29b3bb5beb50",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-eso-eval-env",
   definition: "the evaluation environment the rule evaluator runs in, built from game state",

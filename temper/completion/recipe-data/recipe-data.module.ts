@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const recipeData = {
   id: "01a060c0-4132-7121-b748-a5113359ebd8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "recipe-data",
   definition: "every crafting recipe the game knows, under the recipe list that has it",

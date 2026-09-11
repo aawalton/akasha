@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const esoTokenScope = {
   id: "01a0673e-3ddf-7002-9c1f-4402e2e05fcd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eso-token-scope",
   definition: "the tokens an opt-in list picks out of a dump, with what those tokens reach",

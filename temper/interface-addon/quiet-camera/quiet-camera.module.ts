@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const quietCamera = {
   id: "01a060f1-6912-7f58-a570-015058778d9f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quiet-camera",
   definition: "the game's own camera spin and chat minimise, as this add-on sets them",

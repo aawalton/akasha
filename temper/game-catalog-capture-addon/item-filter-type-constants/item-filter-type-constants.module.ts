@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemFilterTypeConstants = {
   id: "01a06127-6642-7422-baf1-357f6f2e6d5f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-filter-type-constants",
   definition:

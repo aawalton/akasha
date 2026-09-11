@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchStackFullnessFilter = {
   id: "01a0613a-e0ae-7c58-9f5e-7a0a707c9698",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-stack-fullness-filter",
   definition: "whether an item stack is full, narrowed by a toggle between full and partial",

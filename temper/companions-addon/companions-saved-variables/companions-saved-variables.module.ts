@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsSavedVariables = {
   id: "01a0611d-84df-7d7e-8754-8460553e63d0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-saved-variables",
   definition: "what the companion add-on keeps between sessions, and how a session opens it",

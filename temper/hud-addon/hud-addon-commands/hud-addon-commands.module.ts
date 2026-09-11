@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hudAddonCommands = {
   id: "01a061c5-18dd-7006-8723-723b7648294e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hud-addon-commands",
   definition: "the one slash command every Temper add-on reaches its own subcommands through",

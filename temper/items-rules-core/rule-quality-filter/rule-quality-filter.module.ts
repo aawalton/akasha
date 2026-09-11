@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleQualityFilter = {
   id: "01a06100-3bfc-7312-ae3a-edec601898f5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-quality-filter",
   definition: "the Quality condition a rule may carry, as the rule editor offers it",

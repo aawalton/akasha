@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buffsOther = {
   id: "01a06070-82de-7654-9afa-40a14ef3a716",
-  pageTypeSlug: "module",
   type: "module",
   slug: "buffs-other",
   definition: "the buffs the game applies under neither Major nor Minor",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryCurrency = {
   id: "01a06258-b52a-7942-8b11-daff55c0534e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-currency",
   definition:

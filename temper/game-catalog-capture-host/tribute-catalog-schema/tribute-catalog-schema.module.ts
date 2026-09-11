@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const tributeCatalogSchema = {
   id: "01a06076-5ea7-7930-8509-86381d5f66d2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "tribute-catalog-schema",
   definition: "the zod schema reading the tribute patron catalog out of saved variables",

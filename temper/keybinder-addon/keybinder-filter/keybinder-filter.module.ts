@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keybinderFilter = {
   id: "01a06381-67c1-70e1-ad09-ace0c705c355",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keybinder-filter",
   definition: "narrowing the key-bind list to the actions whose names match what was typed",

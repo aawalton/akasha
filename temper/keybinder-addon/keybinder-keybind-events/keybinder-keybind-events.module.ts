@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keybinderKeybindEvents = {
   id: "01a06381-67c1-7e9d-98cb-1b00a62bc68f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keybinder-keybind-events",
   definition: "the game announcing a key bound or cleared, written back into what the add-on holds",

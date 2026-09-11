@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const furnitureCatalogCapture = {
   id: "01a060e2-3184-7486-8bde-685c51a8fc83",
-  pageTypeSlug: "module",
   type: "module",
   slug: "furniture-catalog-capture",
   definition:

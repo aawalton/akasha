@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionEffectLabels = {
   id: "01a06110-abe3-70be-9801-313e54937033",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-effect-labels",
   definition: "the label a companion skill effect is shown by",

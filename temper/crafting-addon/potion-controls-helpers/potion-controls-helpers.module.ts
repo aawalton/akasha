@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionControlsHelpers = {
   id: "01a061c7-e87b-72f2-9aee-93257de3c1b3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-controls-helpers",
   definition: "reaching a control's own fields",

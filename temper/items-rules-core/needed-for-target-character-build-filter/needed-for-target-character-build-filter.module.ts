@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const neededForTargetCharacterBuildFilter = {
   id: "01a06100-3bf4-7578-bfbf-d81253588245",
-  pageTypeSlug: "module",
   type: "module",
   slug: "needed-for-target-character-build-filter",
   definition:

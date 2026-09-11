@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionSkillLineQueries = {
   id: "01a06152-c2d2-725e-9e7f-499e3e6fc2f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-skill-line-queries",
   definition: "the companion skill lines a companion's equipped gear opens up",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const currencyCatalogCapture = {
   id: "01a060e2-3184-7c0b-a09e-795eff7eebf3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "currency-catalog-capture",
   definition: "the game's currencies, read out of the client into the add-on's saved variables",

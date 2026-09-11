@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoPanelTooltips = {
   id: "01a06115-1ad3-7cf3-a529-8500c017983d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-panel-tooltips",
   definition: "the settings rows covering tooltips",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRulesDispatchGuildCrafting = {
   id: "01a06258-b531-7efe-864b-ce4a1f797ba8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rules-dispatch-guild-crafting",
   definition:

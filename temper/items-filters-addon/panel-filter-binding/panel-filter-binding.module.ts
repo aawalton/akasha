@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const panelFilterBinding = {
   id: "01a0614b-6736-723e-b829-79279bb14e49",
-  pageTypeSlug: "module",
   type: "module",
   slug: "panel-filter-binding",
   definition: "the wrapper that hides the inventory rows the active filters reject",

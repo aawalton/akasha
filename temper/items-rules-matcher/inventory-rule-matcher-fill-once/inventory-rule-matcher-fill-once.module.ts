@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRuleMatcherFillOnce = {
   id: "01a06151-370d-70a8-a87f-8418ae7034ba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rule-matcher-fill-once",
   definition: "a rule filling a character or a companion once, rather than once for each item",

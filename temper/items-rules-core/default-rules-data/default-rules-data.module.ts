@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const defaultRulesData = {
   id: "01a06100-3bea-7c4a-93e9-7fb293bfd0c3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "default-rules-data",
   definition:

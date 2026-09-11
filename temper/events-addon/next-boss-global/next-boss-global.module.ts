@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const nextBossGlobal = {
   id: "01a06157-8357-7112-8787-b5ac39b4f125",
-  pageTypeSlug: "module",
   type: "module",
   slug: "next-boss-global",
   definition: "the name the key bindings reach this tracker's table by",

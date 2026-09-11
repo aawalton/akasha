@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorsAddonHooks = {
   id: "01a060d8-091a-7436-a0ac-00c5553d0e0b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "errors-addon-hooks",
   definition: "listening for the game's Lua error and low memory announcements",

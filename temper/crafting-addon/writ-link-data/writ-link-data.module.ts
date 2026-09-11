@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const writLinkData = {
   id: "01a061c7-e89c-7561-abe9-924ff36d0056",
-  pageTypeSlug: "module",
   type: "module",
   slug: "writ-link-data",
   definition: "finds the item link for a material the writ named",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const rotationTypes = {
   id: "01a06152-c2da-7a46-9d70-0b6d3eec75de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rotation-types",
   definition: "the vocabulary a companion rotation simulation is written in",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const armorTypeConstants = {
   id: "01a06127-661f-7ab9-8fd2-c12787790998",
-  pageTypeSlug: "module",
   type: "module",
   slug: "armor-type-constants",
   definition:

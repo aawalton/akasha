@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryManagementPlanGrouping = {
   id: "01a0615a-a1db-77c0-bfca-77236df241ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-management-plan-grouping",
   definition: "the plan's items gathered into groups by the action taken on them",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const nextBossData = {
   id: "01a06157-8358-771d-9755-608609075ff5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "next-boss-data",
   definition: "which boss belongs to which district, and the order the round runs in",

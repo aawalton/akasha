@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const installedAddons = {
   id: "01a06069-b78f-7051-8fb2-ebe10b403037",
-  pageTypeSlug: "module",
   type: "module",
   slug: "installed-addons",
   definition: "what the game's addons directory has, each folder with the version it states",

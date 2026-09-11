@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionUiStrings = {
   id: "01a061c7-e88d-7c4f-a800-d91c484cd575",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-ui-strings",
   definition: "the English text of the potion window",

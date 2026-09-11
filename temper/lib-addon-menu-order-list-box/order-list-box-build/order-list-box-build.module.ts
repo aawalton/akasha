@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const orderListBoxBuild = {
   id: "01a06207-bded-733f-a70c-c2a4d78de1d0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "order-list-box-build",
   definition: "the widget object built from a caller's data, with its scroll list and rows",

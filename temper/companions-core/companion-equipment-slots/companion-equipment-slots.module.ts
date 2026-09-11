@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionEquipmentSlots = {
   id: "01a06152-c2c7-7073-b355-b0dfada463c2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-equipment-slots",
   definition: "trait and quality mutations over the companion equipment slot map",

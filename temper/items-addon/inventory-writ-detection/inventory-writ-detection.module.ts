@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryWritDetection = {
   id: "01a06258-b536-7356-be88-ffa8fd44d008",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-writ-detection",
   definition: "the writs and master writs active in the journal, read from quest conditions",

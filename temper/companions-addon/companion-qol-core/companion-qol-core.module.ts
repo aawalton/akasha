@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQolCore = {
   id: "01a0611d-84c6-7ad9-9eb6-645084830a14",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-qol-core",
   definition: "summoning and dismissing the active companion",

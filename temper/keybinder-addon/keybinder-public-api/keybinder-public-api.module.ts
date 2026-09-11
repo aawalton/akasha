@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keybinderPublicApi = {
   id: "01a06381-67c1-75f6-ba15-5366cbc95058",
-  pageTypeSlug: "module",
   type: "module",
   slug: "keybinder-public-api",
   definition: "the global the key binding in the markup calls the toggle through",

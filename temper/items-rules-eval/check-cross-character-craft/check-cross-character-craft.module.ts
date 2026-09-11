@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkCrossCharacterCraft = {
   id: "01a06137-f964-7c61-843b-2d70fcb4ffe7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-cross-character-craft",
   definition:

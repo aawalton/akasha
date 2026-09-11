@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const nextBossSavedVariables = {
   id: "01a06157-8358-7649-943c-84dc225013dc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "next-boss-saved-variables",
   definition: "what this tracker keeps between sessions, and what it starts at",

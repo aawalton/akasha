@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const quietNarrow = {
   id: "01a060f1-6931-7e1b-9d4c-7a7ae111d3cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quiet-narrow",
   definition: "the tests telling what an unknown value is",

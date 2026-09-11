@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorsAddonTraceback = {
   id: "01a060d8-0918-794b-b5f8-4d8440ca2d4b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "errors-addon-traceback",
   definition: "the message and the callstack read out of what the game hands an error listener",

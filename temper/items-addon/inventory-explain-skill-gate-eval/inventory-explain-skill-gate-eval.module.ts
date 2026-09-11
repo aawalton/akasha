@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryExplainSkillGateEval = {
   id: "01a06267-2a26-7a6a-8c98-3f0030d66dc5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-explain-skill-gate-eval",
   definition: "the trace over characters and skill lines recorded when a skill gate is explained",

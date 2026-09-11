@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryGroupingTypes = {
   id: "01a060c5-3c20-76ca-a588-a08622426e47",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-grouping-types",
   definition: "the categories an inventory row is grouped under",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hudAddonHidePlan = {
   id: "01a061c5-18dd-700b-9e4a-ac33f45c2a8f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hud-addon-hide-plan",
   definition: "what hiding to carry out, worked out from the catalog and what the player asked for",

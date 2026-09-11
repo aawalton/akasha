@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkLocation = {
   id: "01a06137-f966-775e-b470-aec9815be083",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-location",
   definition:

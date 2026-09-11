@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionMetrics = {
   id: "01a06152-c2cb-7faa-af35-b220143e5186",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-metrics",
   definition: "every companion metric gathered into one table, keyed by metric id",

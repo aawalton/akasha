@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoOverall = {
   id: "01a06115-1acf-7e29-bf3b-7bd875d227ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-overall",
   definition: "the interface-wide tweaks that belong to no one window",

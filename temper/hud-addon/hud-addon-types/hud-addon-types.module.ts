@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hudAddonTypes = {
   id: "01a061c5-18dd-7000-bd52-66ec64cec528",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hud-addon-types",
   definition: "the shapes a HUD field, a HUD cell, a Temper command and the saved variables take",

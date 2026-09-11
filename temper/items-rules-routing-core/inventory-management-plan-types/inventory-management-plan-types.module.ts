@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryManagementPlanTypes = {
   id: "01a06151-370a-7582-a557-5052447bbc7c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-management-plan-types",
   definition: "the shape of a management plan, of the stops it makes and of the steps at each",

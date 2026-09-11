@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkContainerFixtures = {
   id: "01a06137-f963-75d4-b14c-bdaa8c6693a8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-container-fixtures",
   definition:

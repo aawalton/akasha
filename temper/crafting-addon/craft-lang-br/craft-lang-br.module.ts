@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftLangBr = {
   id: "01a061c7-e853-7451-ae9e-eda18e4eaf4c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-lang-br",
   definition: "the Brazilian Portuguese text of the crafting windows",

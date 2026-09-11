@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const esoCloneStamp = {
   id: "01a06050-639f-76e4-94da-ea05355aa7da",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eso-clone-stamp",
   definition: "the marker a file generated from the game's source clone carries",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useDestinationPlanner = {
   id: "01a060d9-44ce-70aa-bd37-68ba4f1e19d1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-destination-planner",
   definition: "a whole batch of items worth learning shared out over the characters at once",

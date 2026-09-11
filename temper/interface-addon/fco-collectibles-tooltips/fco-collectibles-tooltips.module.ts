@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoCollectiblesTooltips = {
   id: "01a06115-1ac5-7050-946e-7d240ac0b33f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-collectibles-tooltips",
   definition: "the collectible tooltip lines the interface tweaks add",

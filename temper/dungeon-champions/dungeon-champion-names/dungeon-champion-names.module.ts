@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dungeonChampionNames = {
   id: "01a060f9-baca-7e73-b37a-1f69b51ac984",
-  pageTypeSlug: "module",
   type: "module",
   slug: "dungeon-champion-names",
   definition: "the addon's own name and version, and the four keys its map pins answer to",

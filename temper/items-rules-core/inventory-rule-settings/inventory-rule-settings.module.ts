@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRuleSettings = {
   id: "01a06100-3bef-7218-afac-34da69a03f7b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rule-settings",
   definition:

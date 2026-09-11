@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftingHelpers = {
   id: "01a061c7-e878-7f6f-9acf-22a044cfa382",
-  pageTypeSlug: "module",
   type: "module",
   slug: "crafting-helpers",
   definition: "the small text and table turns the crafting windows all reach for",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingFavoritesRender = {
   id: "01a06128-d5cd-747f-9722-dadfc96875d3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-favorites-render",
   definition: "drawing one row for each favourite house in the house tab",

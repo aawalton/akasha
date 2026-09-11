@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionLightAttack = {
   id: "01a06152-c2ca-7b83-b9c0-91952d593058",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-light-attack",
   definition: "how a companion's light attack resolves",

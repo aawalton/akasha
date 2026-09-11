@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftInference = {
   id: "01a06137-f96a-71d7-bd01-e8c7b488135a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-inference",
   definition:

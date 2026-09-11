@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lcccUtilTables = {
   id: "01a0617d-5451-7d54-b0e1-5defc346945b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lccc-util-tables",
   definition: "the table helpers the codes library answers with",

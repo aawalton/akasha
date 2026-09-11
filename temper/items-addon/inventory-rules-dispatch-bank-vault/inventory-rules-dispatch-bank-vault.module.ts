@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRulesDispatchBankVault = {
   id: "01a06258-b530-79eb-a110-55d5942865b1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rules-dispatch-bank-vault",
   definition: "withdrawing from and depositing into the furniture vault by rule",

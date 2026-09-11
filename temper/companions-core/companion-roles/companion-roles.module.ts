@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionRoles = {
   id: "01a06108-076d-71af-8f22-a96f6b30e038",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-roles",
   definition: "every combination of duties a companion is built to cover",

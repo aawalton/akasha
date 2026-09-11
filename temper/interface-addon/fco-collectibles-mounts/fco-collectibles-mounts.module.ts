@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoCollectiblesMounts = {
   id: "01a06115-1ac5-7e5c-8d3a-faa3aae9eba1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-collectibles-mounts",
   definition: "the mount list the interface tweaks mark favourites in",

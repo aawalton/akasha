@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingBuildVisitCardsTab = {
   id: "01a06128-d5c5-7488-b800-14b49d097a7e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-build-visit-cards-tab",
   definition: "building the controls of the visit cards tab",

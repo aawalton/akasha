@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftDefined = {
   id: "01a08de1-2f29-7d20-a437-b66d1cb3ba33",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-defined",
   definition: "a value the crafting add-on read that must be there, refused where it is nil",

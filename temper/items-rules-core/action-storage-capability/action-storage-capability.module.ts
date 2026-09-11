@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const actionStorageCapability = {
   id: "01a06100-3bdf-73c8-af37-4cb6f942667f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "action-storage-capability",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionEquipmentQualityRules = {
   id: "01a06110-abe3-7c45-b1de-ab59235bc2e6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-equipment-quality-rules",
   definition: "which quality tier a companion's gear is allowed at",

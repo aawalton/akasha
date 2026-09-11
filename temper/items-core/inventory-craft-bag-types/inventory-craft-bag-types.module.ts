@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryCraftBagTypes = {
   id: "01a060c5-3c1f-718b-9214-b751562ad958",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-craft-bag-types",
   definition: "the settings a player sets for craft bag access",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const antiquityLoreCatalogCapture = {
   id: "01a060e2-3182-7e5c-bae4-5a096f5b7806",
-  pageTypeSlug: "module",
   type: "module",
   slug: "antiquity-lore-catalog-capture",
   definition: "the antiquities with lore entries, read into the add-on's saved variables",

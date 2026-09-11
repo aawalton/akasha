@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const classifyItem = {
   id: "01a060e4-b745-7869-bf3d-8c96e819e7d4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "classify-item",
   definition: "the branch of the item category tree an item belongs under, named all the way down",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryBrowserTypes = {
   id: "01a06258-b529-7e66-9b5d-4917d5969895",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-browser-types",
   definition: "the shapes of a browser row, its filter state, and the views it can be narrowed to",

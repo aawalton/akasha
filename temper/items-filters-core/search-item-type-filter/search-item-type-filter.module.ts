@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchItemTypeFilter = {
   id: "01a0613a-e0a9-7142-b5d9-3ca6d7ec3c1f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-item-type-filter",
   definition: "the item type, narrowed by a multiselect of twenty client item-type numbers",

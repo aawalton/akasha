@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingHolderTypes = {
   id: "01a06113-b7ce-7f67-beb7-a7a3ee79e25d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-holder-types",
   definition: "the shape of the one holder every housing module hangs a function on",

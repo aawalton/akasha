@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQolConstants = {
   id: "01a0611d-84c6-7e76-97f3-a24fa6b91e9a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-qol-constants",
   definition: "the settings the quality-of-life code starts out with",

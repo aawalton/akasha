@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryMoveItem = {
   id: "01a06267-2a3a-7e2c-9719-6644235937c6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-move-item",
   definition:

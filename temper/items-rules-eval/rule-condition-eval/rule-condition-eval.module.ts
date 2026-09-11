@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleConditionEval = {
   id: "01a06137-f96d-7493-bbc2-36975759b675",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-condition-eval",
   definition:

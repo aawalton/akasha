@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionWeaponTypes = {
   id: "01a06108-0770-70cf-94b7-bd4a064ac2f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-weapon-types",
   definition: "every weapon a companion may hold, with whether the weapon takes both hands",

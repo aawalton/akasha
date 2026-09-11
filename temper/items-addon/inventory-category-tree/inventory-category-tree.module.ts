@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryCategoryTree = {
   id: "01a06258-b52a-7a34-8e85-b99f40b1b436",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-category-tree",
   definition: "the item category tree flattened into nodes keyed by id, with parents and children",

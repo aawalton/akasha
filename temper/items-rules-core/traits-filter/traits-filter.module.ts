@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const traitsFilter = {
   id: "01a0615c-1e11-7b74-a805-3a2271d63ffb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "traits-filter",
   definition: "the Traits condition a rule may carry, as the rule editor offers it",

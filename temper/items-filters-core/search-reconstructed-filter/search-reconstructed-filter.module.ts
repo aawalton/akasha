@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchReconstructedFilter = {
   id: "01a0613a-e0ad-779f-95eb-2ce9443f70a6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-reconstructed-filter",
   definition:

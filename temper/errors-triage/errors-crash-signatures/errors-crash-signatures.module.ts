@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorsCrashSignatures = {
   id: "01a060cd-5650-7e48-8597-777c84f0ffa4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "errors-crash-signatures",
   definition: "the known crashes an error is matched against to name the addon at fault",

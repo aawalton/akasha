@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const comparisonOpData = {
   id: "01a060d9-44ca-7f34-b2bb-07aab8837d17",
-  pageTypeSlug: "module",
   type: "module",
   slug: "comparison-op-data",
   definition: "the six numeric comparisons a rule condition may be written with",

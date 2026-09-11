@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQolSavedVariables = {
   id: "01a0611d-84cc-7974-969f-8cbccd74d0f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-qol-saved-variables",
   definition: "opening the quality-of-life settings account-wide or per character",

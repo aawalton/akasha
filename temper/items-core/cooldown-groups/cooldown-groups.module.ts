@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const cooldownGroups = {
   id: "01a060c5-3c1d-7543-b63d-accaf9d6201a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cooldown-groups",
   definition: "the timed groups an item's reuse falls into",

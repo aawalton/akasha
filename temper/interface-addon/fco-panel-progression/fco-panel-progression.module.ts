@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fcoPanelProgression = {
   id: "01a06115-1ad2-77f3-aa44-5d4ed70fd14f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fco-panel-progression",
   definition: "the settings rows covering progression",

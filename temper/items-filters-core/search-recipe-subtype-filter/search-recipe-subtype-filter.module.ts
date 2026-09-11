@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchRecipeSubtypeFilter = {
   id: "01a0613a-e0ad-73d1-95f0-27bb2a879d89",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-recipe-subtype-filter",
   definition:

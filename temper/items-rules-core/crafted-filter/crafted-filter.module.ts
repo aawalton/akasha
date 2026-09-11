@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftedFilter = {
   id: "01a06100-3be9-72bb-ae2f-272ecba3d354",
-  pageTypeSlug: "module",
   type: "module",
   slug: "crafted-filter",
   definition: "the Crafted Status condition a rule may carry, as the rule editor offers it",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingDropdowns = {
   id: "01a06128-d5cb-78a7-84f1-5c476624efdc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-dropdowns",
   definition: "the drop-downs choosing a library filter, a library sort and a house sort",

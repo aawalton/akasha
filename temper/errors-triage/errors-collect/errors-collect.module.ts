@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorsCollect = {
   id: "01a060cd-5650-7b6e-ab6c-41d8a589a7ce",
-  pageTypeSlug: "module",
   type: "module",
   slug: "errors-collect",
   definition: "every error entry gathered out of what each account saved",

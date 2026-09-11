@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchRangeValueParse = {
   id: "01a0613a-e0ac-785c-a9b6-1aa6dca2564d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-range-value-parse",
   definition:

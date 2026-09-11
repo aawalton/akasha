@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const topologicalSort = {
   id: "01a06070-82e5-713f-ac89-431606c70239",
-  pageTypeSlug: "module",
   type: "module",
   slug: "topological-sort",
   definition: "an ordering putting every item after the items that item depends on",

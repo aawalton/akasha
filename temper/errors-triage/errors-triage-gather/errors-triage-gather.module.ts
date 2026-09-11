@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorsTriageGather = {
   id: "01a060cd-5652-70fe-ac43-14c6188a70ae",
-  pageTypeSlug: "module",
   type: "module",
   slug: "errors-triage-gather",
   definition: "the deployed build ids an error is judged against, read off the addons folder",

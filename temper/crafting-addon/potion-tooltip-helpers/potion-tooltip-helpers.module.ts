@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionTooltipHelpers = {
   id: "01a061c7-e88a-7caa-b7bb-de1efbf61963",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-tooltip-helpers",
   definition: "the lines a potion tooltip is built from",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setPatterns = {
   id: "01a060f0-3eb0-7996-8573-950d39504f1c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "set-patterns",
   definition: "the shape naming which gear pieces a set bonus or a set icon answers to",

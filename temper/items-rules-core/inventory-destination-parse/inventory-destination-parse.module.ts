@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryDestinationParse = {
   id: "01a06100-3bec-7b79-9779-2c42248a315d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-destination-parse",
   definition: "an action name or a destination read out of the text a saved rule holds",

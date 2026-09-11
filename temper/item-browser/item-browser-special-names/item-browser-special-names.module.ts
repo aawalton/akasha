@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemBrowserSpecialNames = {
   id: "01a06178-3721-7cee-9a32-92734c7b0193",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-browser-special-names",
   definition:

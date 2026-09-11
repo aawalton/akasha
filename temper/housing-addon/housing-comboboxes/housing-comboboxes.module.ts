@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const housingComboboxes = {
   id: "01a06128-d5c9-78cc-9a1a-1b0d3985edd8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "housing-comboboxes",
   definition: "the drop-downs listing a player's favourite houses",

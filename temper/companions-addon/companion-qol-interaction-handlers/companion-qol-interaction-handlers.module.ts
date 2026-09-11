@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQolInteractionHandlers = {
   id: "01a0611d-84c8-77bb-90ec-9585304e04c6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-qol-interaction-handlers",
   definition: "the game events that dismiss and resummon a companion around an interaction",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const craftCharacters = {
   id: "01a061c7-e84b-7702-96dc-b62a7fe32f49",
-  pageTypeSlug: "module",
   type: "module",
   slug: "craft-characters",
   definition: "the account's character names in the order the player set",

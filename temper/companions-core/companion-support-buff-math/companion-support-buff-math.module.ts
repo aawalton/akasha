@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionSupportBuffMath = {
   id: "01a06152-c2d7-7695-9439-9870ccc2e399",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-support-buff-math",
   definition: "buff multiplier and crit chance arithmetic shared by the support evaluators",

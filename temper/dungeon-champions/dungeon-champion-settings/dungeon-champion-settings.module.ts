@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dungeonChampionSettings = {
   id: "01a060f9-bad9-750a-870e-3ac5edb4440c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "dungeon-champion-settings",
   definition: "the settings panel a player opens with the slash command",

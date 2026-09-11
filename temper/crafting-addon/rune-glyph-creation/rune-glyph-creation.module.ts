@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const runeGlyphCreation = {
   id: "01a061c7-e88f-7f06-aa88-552dee1ee83a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rune-glyph-creation",
   definition: "the essences on offer at an enchanting station",

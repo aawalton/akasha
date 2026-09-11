@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const automationToggles = {
   id: "01a06038-b7a3-702e-9416-158e24c98857",
-  pageTypeSlug: "module",
   type: "module",
   slug: "automation-toggles",
   definition: "every automation a character or a companion can have switched on",

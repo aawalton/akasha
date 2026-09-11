@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRuleTraitResearch = {
   id: "01a06276-e3e7-7361-a8b3-36d14843bf91",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rule-trait-research",
   definition: "whether any character still has an item's trait left to research",

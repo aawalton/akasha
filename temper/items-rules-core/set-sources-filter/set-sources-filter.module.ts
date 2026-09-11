@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setSourcesFilter = {
   id: "01a06276-e3e6-7c64-8c97-3ce008f60697",
-  pageTypeSlug: "module",
   type: "module",
   slug: "set-sources-filter",
   definition: "the Set Sources condition a rule may carry, as the rule editor offers it",

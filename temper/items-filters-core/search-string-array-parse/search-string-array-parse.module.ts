@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const searchStringArrayParse = {
   id: "01a0613a-e0af-7002-b311-310a410d8013",
-  pageTypeSlug: "module",
   type: "module",
   slug: "search-string-array-parse",
   definition: "a list of strings read out of whatever a saved search or an editor handed in",

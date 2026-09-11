@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stockReconcilePlan = {
   id: "01a060d9-44cd-7adb-a1ad-5ce340c6cd3d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stock-reconcile-plan",
   definition: "whether a character withdraws or deposits to reach the count it is meant to carry",

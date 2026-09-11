@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const esoReset = {
   id: "01a0603b-d66a-7bf8-9657-cb2176247f1b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eso-reset",
   definition: "when the game's day last turned over, counted in whole seconds",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationChainTypes = {
   id: "01a06100-3beb-7cbe-8efb-ecf0935f3720",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destination-chain-types",
   definition: "the shape of one tier in a chain of destinations an item cascades down",

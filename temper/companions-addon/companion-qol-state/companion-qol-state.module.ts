@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQolState = {
   id: "01a0611d-84cd-766a-94cc-4f86cd3cfe46",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-qol-state",
   definition: "the one holder the companion quality-of-life code keeps its settings in",

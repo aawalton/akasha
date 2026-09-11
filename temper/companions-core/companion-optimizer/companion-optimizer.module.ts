@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionOptimizer = {
   id: "01a06152-c2cd-7817-8e93-a08a7fd88008",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-optimizer",
   definition: "recursive phase search for the highest scoring companion build",

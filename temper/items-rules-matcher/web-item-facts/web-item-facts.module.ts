@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const webItemFacts = {
   id: "01a06151-370f-7640-8a17-8e63877bb9d9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "web-item-facts",
   definition: "the facts a rule reads, gathered for the web build from the captured holdings",

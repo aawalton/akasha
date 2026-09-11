@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryMailHandler = {
   id: "01a06258-b52d-7eec-8d2a-ba02347333d0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-mail-handler",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryPlanChecklist = {
   id: "01a0615a-a1dd-7b58-b123-f480b766aed5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-plan-checklist",
   definition: "a management plan written out as a checklist a player reads while playing",
