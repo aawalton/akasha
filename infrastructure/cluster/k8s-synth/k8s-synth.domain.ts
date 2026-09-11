@@ -21,7 +21,7 @@ export const k8sSynth = {
     },
     {
       invariantKind: "departure",
-      statement: "A synth file is found by the globs rather than by a list naming each file.",
+      statement: "A synth file is the code file of a `manifest` page the index answers.",
     },
   ],
 } as const satisfies Domain

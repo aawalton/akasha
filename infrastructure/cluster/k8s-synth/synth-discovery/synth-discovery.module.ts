@@ -11,15 +11,19 @@ export const synthDiscovery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A synth file reached through a `src` folder is no synth file here.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path component naming a folder every synth sits under names no package.",
     },
     {
       invariantKind: "departure",
       statement: "The code file of every `manifest` page the index holds is a synth file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest page's synth file is the file that page states its code under.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder and no file name ending is spelled here.",
     },
   ],
 } as const satisfies Module
