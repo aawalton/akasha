@@ -26,6 +26,10 @@ export const deployCheckJudging = {
     },
     {
       invariantKind: "departure",
+      statement: "That change moves nothing, so each body is loaded where the body is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A commit written onto a page that git no longer holds is read as no commit.",
     },
     {

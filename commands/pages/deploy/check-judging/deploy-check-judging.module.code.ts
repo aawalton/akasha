@@ -27,13 +27,13 @@ export function changeFrom(
   now: string,
   built: ReadonlySet<string>
 ): Change {
-  const changed =
-    was === null ? [...built] : changedBetween(root, was, now).filter((one) => built.has(one))
+  const at = (path: string) => bodyAt(root, now, path)
+  if (was === null) return { root, changed: [...built], before: at, after: at }
   return {
     root,
-    changed,
-    before: was === null ? () => null : (path) => bodyAt(root, was, path),
-    after: (path) => bodyAt(root, now, path),
+    changed: changedBetween(root, was, now).filter((one) => built.has(one)),
+    before: (path) => bodyAt(root, was, path),
+    after: at,
   }
 }
 

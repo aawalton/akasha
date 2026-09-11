@@ -17,8 +17,9 @@ test("a service no deploy has finished for is judged over every file it is built
   expect([...changeFrom(ROOT, null, "HEAD", BUILT).changed].sort()).toEqual(["one.ts", "two.ts"])
 })
 
-test("a service no deploy has finished for has nothing to read a file out of before", () => {
-  expect(changeFrom(ROOT, null, "HEAD", BUILT).before("one.ts")).toBe(null)
+test("a service no deploy has finished for is a change nothing moved in", () => {
+  const change = changeFrom(ROOT, null, "HEAD", BUILT)
+  expect(change.before).toBe(change.after)
 })
 
 test("the change carries the root it is judged in", () => {
