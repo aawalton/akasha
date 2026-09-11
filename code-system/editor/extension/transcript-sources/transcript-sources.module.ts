@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const transcriptSources = {
   id: "01a06811-01d3-7000-b3d5-a000505cc21f",
