@@ -26,6 +26,14 @@ export const landingChangeComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A row bringing a body in takes that body off the tree as bytes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those bytes are never read as text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body no row names is read from the base commit.",
     },
     {

@@ -128,6 +128,14 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "A row bringing a body in is left as that row rather than read for a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row bringing a body in is never formatted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change is built from the rows rather than from the bodies handed in.",
     },
     {

@@ -43,12 +43,16 @@ export function bodyIn(one: Adding | Replacing): string {
   return one.kind === "add" ? one.content : one.contentTo
 }
 
+export function bodied(one: FileChange): one is Adding | Replacing {
+  return one.kind === "add" || one.kind === "replace"
+}
+
 export type Stated = { readonly rows: readonly FileChange[] } | { readonly why: string }
 
 export function rowsFrom(root: string, base: string, changes: readonly FileChange[]): Stated {
   const rows: FileChange[] = []
   for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") {
+    if (!bodied(one)) {
       rows.push(one)
       continue
     }
@@ -74,7 +78,7 @@ export function formattingIn(
   const edits: Replacing[] = []
   const formatted: string[] = []
   for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") continue
+    if (!bodied(one)) continue
     if (already.has(one.path)) continue
     const body = BYTES.encode(bodyIn(one))
     const said = formattedBody(root, one.path, body)

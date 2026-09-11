@@ -39,6 +39,10 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "absence",
+      statement: "No ask here brings a body in off the tree.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here keeps an edit rather than landing it.",
     },
     {

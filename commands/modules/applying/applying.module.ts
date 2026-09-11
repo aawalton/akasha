@@ -188,6 +188,10 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A body a row brought in is recorded as read by nobody.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An apply whose rows owe their readers no reading carries those readings onto the bodies applied.",
     },

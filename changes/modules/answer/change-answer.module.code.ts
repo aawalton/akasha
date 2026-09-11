@@ -2,6 +2,7 @@ import type {
   Adding,
   Answer,
   Appending,
+  Bringing,
   FileChange,
   Held,
   Moving,
@@ -214,12 +215,21 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
   return { left: { path: one.pathTo, body: text, from: one.pathFrom } }
 }
 
+function broughtIn(one: Bringing, textOf: BodyOf): Expanded {
+  const body = textOf(one.path)
+  if (body === null) {
+    return { refused: `\`${one.path}\` holds no body, so nothing is brought in` }
+  }
+  return { left: { path: one.path, body } }
+}
+
 export function expanded(one: FileChange, textOf: BodyOf): Expanded {
   if (one.kind === "add") return addedIn(one, textOf)
   if (one.kind === "append") return appendedIn(one, textOf)
   if (one.kind === "replace") return replacedIn(one, textOf)
   if (one.kind === "remove") return removedIn(one, textOf)
-  return movedIn(one, textOf)
+  if (one.kind === "move") return movedIn(one, textOf)
+  return broughtIn(one, textOf)
 }
 
 export function replayed(said: Said, textOf: BodyOf): Replayed | { readonly refused: string } {

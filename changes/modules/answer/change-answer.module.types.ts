@@ -33,7 +33,12 @@ export type Moving = Reading & {
   readonly pathTo: string
 }
 
-export type FileChange = Adding | Appending | Replacing | Removing | Moving
+export type Bringing = Reading & {
+  readonly kind: "bring"
+  readonly path: string
+}
+
+export type FileChange = Adding | Appending | Replacing | Removing | Moving | Bringing
 
 export type Splice = {
   readonly from: number

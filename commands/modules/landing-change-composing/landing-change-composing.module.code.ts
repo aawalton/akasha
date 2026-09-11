@@ -4,6 +4,7 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type {
   Adding,
   Appending,
+  Bringing,
   FileChange,
   Removing,
   Replacing,
@@ -44,10 +45,11 @@ function endedWith(root: string, one: Appending, held: Held): Uint8Array {
 
 function bodiedOf(
   root: string,
-  one: Adding | Appending | Replacing | Removing,
+  one: Adding | Appending | Replacing | Removing | Bringing,
   held: Held
 ): Bodied {
   if (one.kind === "remove") return { path: one.path, body: null }
+  if (one.kind === "bring") return { path: one.path, body: diskAt(root, one.path) }
   if (one.kind === "append") return { path: one.path, body: endedWith(root, one, held) }
   return {
     path: one.path,

@@ -51,6 +51,10 @@ export const trackLanding = {
       statement: "Nothing here appends.",
     },
     {
+      invariantKind: "absence",
+      statement: "Nothing here brings a body in off the tree.",
+    },
+    {
       invariantKind: "constraint",
       statement: "Alan's tracking composes a whole body every time.",
     },

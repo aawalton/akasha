@@ -322,6 +322,8 @@ export function changingOf(root: string, changes: readonly FileChange[]): Changi
       const was = after.has(one.path) ? (after.get(one.path) ?? null) : before(one.path)
       const put = bytes.encode(one.content)
       after.set(one.path, was === null ? put : new Uint8Array([...was, ...put]))
+    } else if (one.kind === "bring") {
+      after.set(one.path, before(one.path))
     } else {
       after.set(one.path, bytes.encode(one.kind === "add" ? one.content : one.contentTo))
     }

@@ -31,7 +31,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A line states one edit of the five kinds and no body that edit does not name.",
+      statement: "A line states one edit of the six kinds and no body that edit does not name.",
     },
     {
       invariantKind: "departure",

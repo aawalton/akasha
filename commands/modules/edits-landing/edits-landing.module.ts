@@ -63,6 +63,14 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A bring no other edit names is handed on as that bring rather than as a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path a bring names is read for no body and formatted by nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Neither path of a move is read for a body or handed on as one.",
     },
     {

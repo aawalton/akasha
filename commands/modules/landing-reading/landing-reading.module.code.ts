@@ -18,6 +18,7 @@ export function recordLanded(given: Given, changes: readonly FileChange[]): unde
   if (given.agentId === null) return
   for (const one of changes) {
     if (one.kind === "move" || one.kind === "remove" || one.kind === "append") continue
+    if (one.kind === "bring") continue
     recordRead(given.root, given.agentId, {
       path: one.path,
       oid: blobIdOf(BYTES.encode(one.kind === "add" ? one.content : one.contentTo)),

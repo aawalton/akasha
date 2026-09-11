@@ -41,6 +41,10 @@ export const exportNaming = {
     },
     {
       invariantKind: "absence",
+      statement: "An edit bringing a body in states no body, so that edit names no slug.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },
     {

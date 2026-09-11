@@ -69,6 +69,22 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "A bring has a path alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body a bring leaves is the body its path already holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bring names no body, so a body of any bytes goes through a bring.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bring at a path holding no body is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The path an edit leaves a body at is the path moved to for a move and the path named otherwise.",
     },

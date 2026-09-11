@@ -6,6 +6,7 @@ import {
   replayed,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
+  Bringing,
   FileChange,
   Answer as Said,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
@@ -43,11 +44,16 @@ export type Landing = {
   readonly owed: ReadonlyMap<string, boolean>
 }
 
-export function movesIn(said: Said): readonly FileMove[] {
+function namedIn(said: Said): ReadonlyMap<string, number> {
   const named = new Map<string, number>()
   for (const one of said.edits) {
     for (const path of pathsOf(one)) named.set(path, (named.get(path) ?? 0) + 1)
   }
+  return named
+}
+
+export function movesIn(said: Said): readonly FileMove[] {
+  const named = namedIn(said)
   const moves: FileMove[] = []
   for (const one of said.edits) {
     if (one.kind !== "move") continue
@@ -55,6 +61,17 @@ export function movesIn(said: Said): readonly FileMove[] {
     moves.push({ from: one.pathFrom, to: one.pathTo })
   }
   return moves
+}
+
+export function bringsIn(said: Said): readonly Bringing[] {
+  const named = namedIn(said)
+  const brings: Bringing[] = []
+  for (const one of said.edits) {
+    if (one.kind !== "bring") continue
+    if (named.get(one.path) !== 1) continue
+    brings.push(one)
+  }
+  return brings
 }
 
 function overCommit(root: string, head: string): BodyOf {
@@ -114,6 +131,8 @@ export function landingFrom(
 ): Landing | { readonly why: string } {
   const moves = movesIn(said)
   const moved = new Set(moves.flatMap((one) => [one.from, one.to]))
+  const brings = bringsIn(said)
+  const brought = new Set(brings.map((one) => one.path))
   const over = overCommit(root, head)
   const after = replayed(said, (path) =>
     moved.has(path) ? (over(path) === null ? null : NOT_TEXT) : over(path)
@@ -124,7 +143,7 @@ export function landingFrom(
   const rows: FileChange[] = []
   const taking = new Map<string, Uint8Array>()
   for (const [path, body] of after) {
-    if (moved.has(path)) continue
+    if (moved.has(path) || brought.has(path)) continue
     if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
     if (body === null) {
       rows.push({ kind: "remove", path })
@@ -141,5 +160,10 @@ export function landingFrom(
       ? one
       : { kind: "add" as const, path: one.path, content: textIn(made.body) }
   })
-  return { rows: filled, moves, formatted: new Set(taking.keys()), owed: owingIn(said) }
+  return {
+    rows: [...brings, ...filled],
+    moves,
+    formatted: new Set(taking.keys()),
+    owed: owingIn(said),
+  }
 }
