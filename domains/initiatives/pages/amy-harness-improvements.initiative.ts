@@ -12,5 +12,6 @@ export const amyHarnessImprovements = {
       statement:
         "A code editor restart puts every interactive seat back in the terminal tab that seat held.",
     },
+    { statement: "The Stream Health Samples shortcut succeeds when an iOS automation runs it." },
   ],
 } as const satisfies Initiative
