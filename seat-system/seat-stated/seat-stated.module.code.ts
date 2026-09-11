@@ -1,34 +1,40 @@
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import type { Principal } from "../compose-seat-name/compose-seat-name.module.code.ts"
-import * as declarations from "../seat-attributes/seat-attributes.module.code.ts"
-import { type FlexRecord, flexOf } from "../seat-flex/seat-flex.module.code.ts"
+import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import * as declarations from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { type FlexRecord, flexOf } from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
 import {
   type InitiativeRecord,
   initiativeOf,
-} from "../seat-initiative/seat-initiative.module.code.ts"
-import { onCallOf } from "../seat-on-call/seat-on-call.module.code.ts"
+} from "akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
+import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
 import {
   type StatedFromHistory,
   statedFromHistory,
-} from "../seat-page-history/seat-page-history.module.code.ts"
-import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
-import { type PrincipalRecord, principalOf } from "../seat-principal/seat-principal.module.code.ts"
-import { backfillSeatRecord } from "../seat-record/seat-record.module.code.ts"
+} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import {
+  type PrincipalRecord,
+  principalOf,
+} from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import { backfillSeatRecord } from "akasha/seat-system/seat-record/seat-record.module.code.ts"
 import {
   type RegistrationRecord,
   registrationAccountOf,
-} from "../seat-registration-account/seat-registration-account.module.code.ts"
-import { ROTATED_KEY, rotatedOf } from "../seat-rotated-session/seat-rotated-session.module.code.ts"
+} from "akasha/seat-system/seat-registration-account/seat-registration-account.module.code.ts"
+import {
+  ROTATED_KEY,
+  rotatedOf,
+} from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
 import {
   SESSION_KEY,
   type SessionRecord,
   sessionOf,
-} from "../seat-session/seat-session.module.code.ts"
+} from "akasha/seat-system/seat-session/seat-session.module.code.ts"
 import {
   TRANSCRIPT_KEY,
   type TranscriptRecord,
   transcriptOf,
-} from "../seat-transcript-path/seat-transcript-path.module.code.ts"
+} from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
 

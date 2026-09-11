@@ -2,20 +2,23 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { dropReadings } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { removeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { procEntries } from "akasha/utils/process/proc-reading/proc-reading.module.code.ts"
-import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
-import type { Given } from "../../commands/modules/calling/calling.module.code.ts"
-import { dropReadings } from "../../commands/modules/reading/reading.module.code.ts"
-import { seatPathForName, supervisorAlive } from "../seat-reading/seat-reading.module.code.ts"
+import {
+  seatPathForName,
+  supervisorAlive,
+} from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   movedOnto,
   namedAt,
   saidOf,
-} from "../subagent-recovering/subagent-recovering.module.code.ts"
+} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { procEntries } from "akasha/utils/process/proc-reading/proc-reading.module.code.ts"
+import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 

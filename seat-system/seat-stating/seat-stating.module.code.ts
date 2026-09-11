@@ -13,7 +13,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { seatPathForName } from "../seat-reading/seat-reading.module.code.ts"
+import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 
 const PERSON = "person"
 

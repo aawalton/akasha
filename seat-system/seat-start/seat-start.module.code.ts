@@ -2,11 +2,19 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  composeSeatName,
+  FLEET,
+  FLEX,
+  personaDefaultsOf,
+  principals,
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import {
   handlerDerives,
@@ -29,6 +37,7 @@ import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind
 import { refuseHeldName } from "akasha/seat-system/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
 import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
+import { defaultFor } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import {
   compositionOf,
   decideSpawnName,
@@ -44,15 +53,6 @@ import {
 import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import type { StatedAgentSlots } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
-import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
-import {
-  composeSeatName,
-  FLEET,
-  FLEX,
-  personaDefaultsOf,
-  principals,
-} from "../compose-seat-name/compose-seat-name.module.code.ts"
-import { defaultFor } from "../seat-resolve/seat-resolve.module.code.ts"
 
 export interface StartSeatInput {
   readonly startMode: string

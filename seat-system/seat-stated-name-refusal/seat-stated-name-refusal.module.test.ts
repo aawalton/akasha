@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refuseStatedName } from "./seat-stated-name-refusal.module.code.ts"
+import { refuseStatedName } from "akasha/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
 
 test("a typed name is refused, and the refusal says what to state instead", () => {
   const said = refuseStatedName(["scribe"])

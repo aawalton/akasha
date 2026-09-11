@@ -1,4 +1,4 @@
-import type { Seat } from "../../seat.page-type.types.ts"
+import type { Seat } from "akasha/seat-system/seats/seat.page-type.types.ts"
 
 export const nimue = {
   id: "01a08cd2-f750-7000-a7d8-5b558d039e25",

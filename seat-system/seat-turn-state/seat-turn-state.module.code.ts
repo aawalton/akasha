@@ -1,19 +1,19 @@
-import { attributesOf } from "../seat-attributes/seat-attributes.module.code.ts"
+import { attributesOf } from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 import {
   anyWorking,
   anyWorkingRead,
   type TurnWorking,
   workingOf,
-} from "../seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
-import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
-import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
-import { roleIsOnCall } from "../seat-role-on-call/seat-role-on-call.module.code.ts"
+} from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+import { agentPresence } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+import { roleIsOnCall } from "akasha/seat-system/seat-role-on-call/seat-role-on-call.module.code.ts"
 import {
   anyPendingRead,
   pendingOf,
   pendingOn,
   type TurnPending,
-} from "../seat-turn-pending/seat-turn-pending.module.code.ts"
+} from "akasha/seat-system/seat-turn-pending/seat-turn-pending.module.code.ts"
 
 export const SEAT_TURN_STATES = ["working", "idle-pending", "ready", "idle", "stopped"] as const
 

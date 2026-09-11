@@ -4,6 +4,10 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  composeSeatName,
+  personPrincipals,
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { seatId } from "akasha/seat-system/read-record/read-record.module.code.ts"
 import {
   handlerDerives,
@@ -12,22 +16,6 @@ import {
 } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { type Args, parseArgs } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { attributeFor } from "akasha/seat-system/seat-attribute/seat-attribute.module.code.ts"
-import { defaultLines } from "akasha/seat-system/seat-defaults/seat-defaults.module.code.ts"
-import { SEAT_HELP } from "akasha/seat-system/seat-help/seat-help.module.code.ts"
-import { nameStanding } from "akasha/seat-system/seat-name-stands/seat-name-stands.module.code.ts"
-import {
-  nameableFrom,
-  nameableStated,
-} from "akasha/seat-system/seat-nameable/seat-nameable.module.code.ts"
-import { writeSeatPage } from "akasha/seat-system/seat-page-writing/seat-page-writing.module.code.ts"
-import {
-  composedNameOf,
-  followName,
-} from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
-import {
-  composeSeatName,
-  personPrincipals,
-} from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ATTRIBUTES,
   type Attribute,
@@ -36,20 +24,36 @@ import {
   DECLARATIONS,
   type Declaration,
   recordedModeOf,
-} from "../seat-attributes/seat-attributes.module.code.ts"
-import { launchOf, launchStating, refuseFlex } from "../seat-flex/seat-flex.module.code.ts"
-import { refuseInitiative } from "../seat-initiative/seat-initiative.module.code.ts"
-import { akashaSeatRelPath } from "../seat-page-akasha/seat-page-akasha.module.code.ts"
-import { statedFromHistory } from "../seat-page-history/seat-page-history.module.code.ts"
-import { principalOf } from "../seat-principal/seat-principal.module.code.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { defaultLines } from "akasha/seat-system/seat-defaults/seat-defaults.module.code.ts"
+import {
+  launchOf,
+  launchStating,
+  refuseFlex,
+} from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
+import { SEAT_HELP } from "akasha/seat-system/seat-help/seat-help.module.code.ts"
+import { refuseInitiative } from "akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
+import { nameStanding } from "akasha/seat-system/seat-name-stands/seat-name-stands.module.code.ts"
+import {
+  nameableFrom,
+  nameableStated,
+} from "akasha/seat-system/seat-nameable/seat-nameable.module.code.ts"
+import { akashaSeatRelPath } from "akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
+import { statedFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { writeSeatPage } from "akasha/seat-system/seat-page-writing/seat-page-writing.module.code.ts"
+import { principalOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import {
+  composedNameOf,
+  followName,
+} from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
 import {
   defaultFor,
   defaultSlots,
   type Found,
   resolveAttributes,
   scan,
-} from "../seat-resolve/seat-resolve.module.code.ts"
-import { statedNow } from "../seat-stated/seat-stated.module.code.ts"
+} from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
+import { statedNow } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 export type SeatStated =
   | { readonly kind: "stated"; readonly report: string }

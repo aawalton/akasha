@@ -1,4 +1,4 @@
-import type { Seat } from "../../seat.page-type.types.ts"
+import type { Seat } from "akasha/seat-system/seats/seat.page-type.types.ts"
 
 export const alan = {
   id: "01a08dcf-3137-7000-9144-7005efade59e",

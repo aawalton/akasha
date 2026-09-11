@@ -1,7 +1,7 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
-import { fieldFromHistory } from "../seat-page-history/seat-page-history.module.code.ts"
-import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
+import { fieldFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 
 export const SESSION_KEY = "claude-code-session-uuid"
 

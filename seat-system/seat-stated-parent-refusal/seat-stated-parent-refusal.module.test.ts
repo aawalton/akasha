@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refuseStatedParent } from "./seat-stated-parent-refusal.module.code.ts"
+import { refuseStatedParent } from "akasha/seat-system/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 
 test("a stated parent is refused, and the refusal names the environment instead", () => {
   const said = refuseStatedParent(["--agent-id", "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"])

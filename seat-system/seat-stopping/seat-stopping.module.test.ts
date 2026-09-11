@@ -7,13 +7,12 @@ import {
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Applied } from "../../commands/modules/applying/applying.module.code.ts"
-import type { Given } from "../../commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "../../commands/modules/landing/landing.module.code.ts"
-import { readingIn, recordRead } from "../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { seatEditsAt } from "../subagent-recovering/subagent-recovering.module.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { readingIn, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   isAgentProcess,
   killTarget,
@@ -23,7 +22,8 @@ import {
   TAKE,
   took,
   type Working,
-} from "./seat-stopping.module.code.ts"
+} from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
+import { seatEditsAt } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 
 const SELF = 4242
 

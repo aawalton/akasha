@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   firstTimestampOf,
   rotationFrom,
   SETTLED_MS,
   type TranscriptCandidate,
-} from "./seat-transcript-rotation.module.code.ts"
+} from "akasha/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
 
 const NAMED = "/transcripts/old.jsonl"
 

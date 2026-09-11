@@ -1,7 +1,7 @@
 import { akashaValuesAt } from "akasha/pages/akasha-page-values/akasha-page-values.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { SeatTurnState } from "../seat-turn-state/seat-turn-state.module.code.ts"
+import type { SeatTurnState } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 
 const PAGE_TYPE = "seat-turn-state"
 

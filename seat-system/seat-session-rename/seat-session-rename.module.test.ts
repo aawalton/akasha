@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { renameSeatSession, sessionNote } from "./seat-session-rename.module.code.ts"
+import {
+  renameSeatSession,
+  sessionNote,
+} from "akasha/seat-system/seat-session-rename/seat-session-rename.module.code.ts"
 
 test("a seat with no old name to move is left alone", () => {
   expect(renameSeatSession(null, "now")).toEqual({ kind: "no-session" })

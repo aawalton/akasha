@@ -1,5 +1,8 @@
-import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
-import { keepSeatRecord, seatRecordOf } from "../seat-record/seat-record.module.code.ts"
+import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import {
+  keepSeatRecord,
+  seatRecordOf,
+} from "akasha/seat-system/seat-record/seat-record.module.code.ts"
 
 export const TRANSCRIPT_KEY = "transcript-path"
 

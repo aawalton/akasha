@@ -3,8 +3,11 @@ import {
   ASSIGNMENTS,
   ATTRIBUTES,
   type Declaration,
-} from "../seat-attributes/seat-attributes.module.code.ts"
-import { resolveAttributes, scan } from "../seat-resolve/seat-resolve.module.code.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import {
+  resolveAttributes,
+  scan,
+} from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string

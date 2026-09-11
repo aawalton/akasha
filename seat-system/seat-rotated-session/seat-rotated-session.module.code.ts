@@ -1,10 +1,13 @@
-import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
+import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import {
   dropSeatRecord,
   keepSeatRecord,
   seatRecordOf,
-} from "../seat-record/seat-record.module.code.ts"
-import { type SessionRecord, sessionRecordOf } from "../seat-session/seat-session.module.code.ts"
+} from "akasha/seat-system/seat-record/seat-record.module.code.ts"
+import {
+  type SessionRecord,
+  sessionRecordOf,
+} from "akasha/seat-system/seat-session/seat-session.module.code.ts"
 
 export const ROTATED_KEY = "rotated-session-uuid"
 

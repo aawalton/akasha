@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { seatPathForName } from "../seat-reading/seat-reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   addressFor,
   assignedKinds,
@@ -14,7 +14,7 @@ import {
   seatBody,
   tookSeat,
   unfiled,
-} from "./seat-stating.module.code.ts"
+} from "akasha/seat-system/seat-stating/seat-stating.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

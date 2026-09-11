@@ -1,5 +1,5 @@
-import type { CommandHelp } from "../../commands/modules/declaring/command-declaring.module.code.ts"
-import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
+import type { CommandHelp } from "akasha/commands/modules/declaring/command-declaring.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 
 export const HELP: CommandHelp = {
   flags: [

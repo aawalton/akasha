@@ -1,4 +1,4 @@
-import type { Seat } from "../../seat.page-type.types.ts"
+import type { Seat } from "akasha/seat-system/seats/seat.page-type.types.ts"
 
 export const awen = {
   id: "01a08d78-eee7-7000-8976-d8e80a33b130",

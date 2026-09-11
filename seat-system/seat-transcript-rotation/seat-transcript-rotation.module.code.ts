@@ -1,11 +1,11 @@
 import { closeSync, openSync, readdirSync, readSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { akashaSeatsThatExist } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaObservedOf } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 import {
   TRANSCRIPT_KEY,
   transcriptOf,
-} from "../seat-transcript-path/seat-transcript-path.module.code.ts"
+} from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 export const SETTLED_MS = 60_000
 

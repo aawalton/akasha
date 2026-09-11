@@ -1,4 +1,4 @@
-import type { SeatTurnState } from "../seat-turn-state.page-type.types.ts"
+import type { SeatTurnState } from "akasha/seat-system/seat-turn-states/seat-turn-state.page-type.types.ts"
 
 export const ready = {
   id: "01a076c0-d7f8-7aac-8883-230f77f30349",
