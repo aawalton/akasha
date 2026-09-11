@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
@@ -50,6 +50,7 @@ import {
 } from "akasha/commands/modules/orphaning/orphaning.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
+  asideOnto,
   movedOnto,
   movesHeld,
 } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
@@ -129,6 +130,13 @@ function wroteOnto(
     wrote.push(one.path)
   }
   return { wrote, took }
+}
+
+function asideFrom(root: string, changed: readonly Bodied[]): ReadonlySet<string> {
+  const held = changed.filter(
+    (one) => one.body === null && existsSync(join(root, one.path)) && !isFolder(root, one.path)
+  )
+  return new Set(held.map((one) => one.path))
 }
 
 function bodiesOf(
@@ -373,12 +381,21 @@ export async function landing(
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
         const commit = committed(root, bodies, took, message, writer)
-        const ignoredGone = wroteOnto(root, split.uncommitted)
-        const gone = [...put.took, ...then.took, ...moves.map((one) => one.from)]
-        const cleared = clearedOff(root, gone)
-        const linked = linkedOver(root, moves, homedir())
-        const untracked = [...ignoredGone.took].sort()
-        return { base, commit, wrote, took, noted, cleared, linked, untracked }
+        const held = asideFrom(root, split.uncommitted)
+        const aside = asideOnto(root, [...held])
+        try {
+          const rest = split.uncommitted.filter((one) => !held.has(one.path))
+          const ignoredGone = wroteOnto(root, rest)
+          const gone = [...put.took, ...then.took, ...moves.map((one) => one.from)]
+          const cleared = clearedOff(root, gone)
+          const linked = linkedOver(root, moves, homedir())
+          const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
+          aside.done()
+          return { base, commit, wrote, took, noted, cleared, linked, untracked }
+        } catch (failed) {
+          aside.back()
+          throw failed
+        }
       } catch (thrown) {
         back()
         throw thrown

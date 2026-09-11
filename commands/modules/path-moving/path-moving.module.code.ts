@@ -1,9 +1,44 @@
-import { existsSync, mkdirSync, renameSync } from "node:fs"
+import { existsSync, mkdirSync, renameSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 
 export type FileMove = {
   readonly from: string
   readonly to: string
+}
+
+export type Aside = {
+  readonly took: readonly string[]
+  readonly back: () => undefined
+  readonly done: () => undefined
+}
+
+const ASIDE = "aside"
+
+function asideAt(root: string, path: string): string {
+  return `${join(root, path)}.${String(process.pid)}.${ASIDE}`
+}
+
+export function asideOnto(root: string, paths: readonly string[]): Aside {
+  const took: string[] = []
+  const back = (): undefined => {
+    for (const one of took) {
+      const aside = asideAt(root, one)
+      if (existsSync(aside)) renameSync(aside, join(root, one))
+    }
+  }
+  try {
+    for (const one of paths) {
+      renameSync(join(root, one), asideAt(root, one))
+      took.push(one)
+    }
+  } catch (thrown) {
+    back()
+    throw thrown
+  }
+  const done = (): undefined => {
+    for (const one of took) rmSync(asideAt(root, one), { force: true })
+  }
+  return { took, back, done }
 }
 
 export type Moving = {

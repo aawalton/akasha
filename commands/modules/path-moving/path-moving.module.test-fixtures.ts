@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -7,6 +7,7 @@ import {
   ADMITS,
   BROKEN,
   CARRIED,
+  edged,
   git,
   PAGE,
   repoWith,
@@ -32,6 +33,61 @@ export function blockedMoves(root: string): readonly FileChange[] {
     { kind: "move", pathFrom: "one.uncommitted.ts", pathTo: "deep/one.uncommitted.ts" },
     { kind: "move", pathFrom: "two.uncommitted.ts", pathTo: "deep/two.uncommitted.ts" },
   ]
+}
+
+export const ASIDE_OUT = "held.uncommitted.json"
+
+const ASIDE_ON = "blocked/deep.uncommitted.json"
+
+const ASIDE_ENDS = ".aside"
+
+export const asidesIn = (root: string): readonly string[] =>
+  readdirSync(root).filter((one) => one.endsWith(ASIDE_ENDS))
+
+async function asideRepo(): Promise<string> {
+  const root = await edged({ ".gitignore": "*.uncommitted.*\n", blocked: "one" })
+  writeFileSync(join(root, ASIDE_OUT), "was")
+  return root
+}
+
+export async function asideTook(): Promise<{
+  readonly untracked: readonly string[]
+  readonly there: boolean
+  readonly aside: readonly string[]
+}> {
+  const root = await asideRepo()
+  const rows = rowsIn(root, [{ path: ASIDE_OUT, body: null }])
+  const said = await landing(root, rows, "held", ADMITS)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return {
+    untracked: said.untracked ?? [],
+    there: existsSync(join(root, ASIDE_OUT)),
+    aside: asidesIn(root),
+  }
+}
+
+export async function asidePutBack(): Promise<{
+  readonly why: string
+  readonly held: string | null
+  readonly aside: readonly string[]
+}> {
+  const root = await asideRepo()
+  let why = ""
+  try {
+    const rows = rowsIn(root, [
+      { path: ASIDE_OUT, body: null },
+      { path: ASIDE_ON, body: bytesOf("never") },
+    ])
+    await landing(root, rows, "held", ADMITS)
+  } catch (thrown) {
+    why = thrown instanceof Error ? thrown.message : String(thrown)
+  }
+  const at = join(root, ASIDE_OUT)
+  return {
+    why,
+    held: existsSync(at) ? readFileSync(at, "utf8") : null,
+    aside: asidesIn(root),
+  }
 }
 
 export type Moved = {

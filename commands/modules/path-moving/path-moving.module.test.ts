@@ -14,7 +14,12 @@ import {
   scratch,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { asideOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
+  ASIDE_OUT,
+  asidePutBack,
+  asidesIn,
+  asideTook,
   blockedMoves,
   MORE,
   MOVED_BIN,
@@ -80,4 +85,39 @@ test("a move that will not go puts back the ones that went and commits nothing",
   expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
+})
+
+test("a path moved aside is put back where it came from, or unlinked at the caller's word", () => {
+  const root = scratch.rootFor("akasha-aside-")
+  writeFileSync(join(root, "one.txt"), "one")
+  writeFileSync(join(root, "two.txt"), "two")
+  const aside = asideOnto(root, ["one.txt", "two.txt"])
+  expect(aside.took).toEqual(["one.txt", "two.txt"])
+  expect(existsSync(join(root, "one.txt"))).toBe(false)
+  aside.back()
+  expect(readFileSync(join(root, "two.txt"), "utf8")).toBe("two")
+  asideOnto(root, ["one.txt"]).done()
+  expect([existsSync(join(root, "one.txt")), asidesIn(root)]).toEqual([false, []])
+})
+
+test("a move aside that throws partway puts back every path moved aside before it", () => {
+  const root = scratch.rootFor("akasha-aside-")
+  writeFileSync(join(root, "one.txt"), "one")
+  expect(() => asideOnto(root, ["one.txt", "gone.txt"])).toThrow()
+  expect(readFileSync(join(root, "one.txt"), "utf8")).toBe("one")
+  expect(asidesIn(root)).toEqual([])
+})
+
+test("an ignored path taken away is moved aside, answered, and the aside name unlinked", async () => {
+  const said = await asideTook()
+  expect(said.untracked).toEqual([ASIDE_OUT])
+  expect(said.there).toBe(false)
+  expect(said.aside).toEqual([])
+})
+
+test("a landing that throws after the move aside puts the ignored body back", async () => {
+  const said = await asidePutBack()
+  expect(said.why).toContain("EEXIST")
+  expect(said.held).toBe("was")
+  expect(said.aside).toEqual([])
 })

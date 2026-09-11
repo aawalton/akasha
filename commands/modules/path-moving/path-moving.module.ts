@@ -69,6 +69,28 @@ export const pathMoving = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller taking a path away may move that path aside rather than unlink it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name a path is moved aside to is that path with the process's number and a word after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path moved aside is put back where it came from or unlinked, at the caller's word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move aside that throws partway puts back every path moved aside before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Putting back a path whose aside name has gone leaves that path alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder left with nothing by a path moved away is cleared off the disk.",
     },
     {

@@ -147,6 +147,35 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A path the repository ignores that is taken away is renamed aside rather than unlinked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that finishes unlinks every name it renamed aside.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing that throws after the rename puts each body back at the path it came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder the repository ignores is taken away as a folder rather than renamed aside.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A name renamed aside by a process that died before the unlink is taken away by nothing.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "An ignored path written over before a landing throws keeps the body that landing wrote.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder left with nothing by a path taken away is cleared off the disk.",
     },
     {
