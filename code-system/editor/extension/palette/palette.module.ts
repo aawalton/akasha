@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const palette = {
   id: "01a064d3-f9f9-7259-a38b-0eb2aede39cb",
