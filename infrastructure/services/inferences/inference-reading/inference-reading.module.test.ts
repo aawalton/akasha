@@ -33,7 +33,7 @@ test("the one command line a service runs is read, and anything else is none", (
 
 test("the folder handed to the host is the folder the named script sits in", () => {
   expect(folderOf(ROOT, "shell-script/mlx-audio-provision")).toBe(
-    "inference/pool/mlx-audio-provision"
+    "infrastructure/inference/pool/mlx-audio-provision"
   )
   expect(folderOf(ROOT, "no-script-is-filed-under-this")).toBe(null)
 })
@@ -44,7 +44,7 @@ test("a value stating everything a service needs is read as one", () => {
   if (typeof read === "string") return
   expect(read.name).toBe("a-service")
   expect(read.runs).toBe("python -m a.server")
-  expect(read.sourceDir).toBe("inference/pool/mlx-audio-provision")
+  expect(read.sourceDir).toBe("infrastructure/inference/pool/mlx-audio-provision")
   expect(read.warm).toBe(false)
 })
 
@@ -79,7 +79,7 @@ test("the service there today is read from its page", () => {
   if ("refused" in read) return
   expect(read.services[0]?.port).toBe(8093)
   expect(read.services[0]?.warm).toBe(true)
-  expect(read.services[0]?.sourceDir).toBe("inference/pool/mlx-audio-provision")
+  expect(read.services[0]?.sourceDir).toBe("infrastructure/inference/pool/mlx-audio-provision")
 })
 
 test("every inference service there is read, and the cop is among them", () => {
