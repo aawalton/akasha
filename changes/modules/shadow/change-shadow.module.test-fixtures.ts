@@ -1,6 +1,8 @@
 import { expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { runChange as addFile } from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
+import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   type BodyOf,
   refusing,
@@ -348,6 +350,33 @@ export function taking(address: string): Reaching {
 
 export function worldTaking(root: string, address: string): World {
   return worldAt(root, textIn(root), taking(address))
+}
+
+export const AT = "akasha/one/fresh.module.code.ts"
+
+export const OTHER = "akasha/one/other.module.code.ts"
+
+export const ADD_FILE = "change-mechanical-file/add-file"
+
+export const REMOVE_FILE = "change-mechanical-file/remove-file"
+
+export const AROUND = "change-mechanical-file/add-file-around"
+
+export const NO_BODY = `\`${AT}\` holds no body, so nothing is taken away`
+
+export const WRITING: Reaching = (world, at, given) => {
+  if (at === ADD_FILE) {
+    return Promise.resolve(addFile(world, given as { at: string; body: string }))
+  }
+  if (at === REMOVE_FILE) {
+    return Promise.resolve(removeFile(world, given as { at: string }))
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+}
+
+export const NESTING: Reaching = async (world, at, given) => {
+  if (at !== AROUND) return await WRITING(world, at, given)
+  return (await reach(world, ADD_FILE as never, given)).said
 }
 
 export const FRESH_PAGE = "akasha/one/fresh.module.ts"

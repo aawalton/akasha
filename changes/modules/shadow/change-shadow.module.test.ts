@@ -1,11 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as addFile } from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
-import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   beyond,
   gathered,
   pathsIn,
-  refusing,
   stating,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
@@ -15,13 +12,15 @@ import {
   type Ledger,
   ledgerAt,
   NOTHING_OVER,
-  type Reaching,
   reach,
   type World,
   worldAt,
   worldOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  ADD_FILE,
+  AROUND,
+  AT,
   AUTHORED_AT,
   answeredOf,
   FRESH_BODY,
@@ -29,7 +28,12 @@ import {
   GENERATED_AT,
   IN_ORDER,
   LOOSE,
+  NESTING,
+  NO_BODY,
+  OTHER,
+  REMOVE_FILE,
   REORDERED,
+  WRITING,
   withheldExactly,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
@@ -42,34 +46,14 @@ import {
 
 afterAll(scratch.sweep)
 
-const AT = "akasha/one/fresh.module.code.ts"
-
-const OTHER = "akasha/one/other.module.code.ts"
-
-const ADD_FILE = "change-mechanical-file/add-file"
-
-const REMOVE_FILE = "change-mechanical-file/remove-file"
-
-const NO_BODY = `\`${AT}\` holds no body, so nothing is taken away`
-
 const BYTES = new TextEncoder()
 
-const RUNS: Reaching = (world, at, given) => {
-  if (at === ADD_FILE) {
-    return Promise.resolve(addFile(world, given as { at: string; body: string }))
-  }
-  if (at === REMOVE_FILE) {
-    return Promise.resolve(removeFile(world, given as { at: string }))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), RUNS)
+  return worldAt(root, textIn(root), WRITING)
 }
 
 function ledgerIn(root: string): Ledger {
-  return ledgerAt(root, textIn(root), RUNS)
+  return ledgerAt(root, textIn(root), WRITING)
 }
 
 test("a ledger over no answer carries an answer holding no edit", () => {
@@ -395,14 +379,9 @@ test("an edit that will not replay onto a world throws rather than answering", (
 
 test("a reach inside a change states an edit the reach around that change states again", async () => {
   const root = indexedRepo()
-  const around = "change-mechanical-file/add-file-around"
-  const nesting: Reaching = async (world, at, given) => {
-    if (at !== around) return await RUNS(world, at, given)
-    return (await reach(world, ADD_FILE as never, given)).said
-  }
-  const ledger = ledgerAt(root, textIn(root), nesting)
+  const ledger = ledgerAt(root, textIn(root), NESTING)
 
-  const said = await reach(ledger, around as never, { at: AT, body: "held\n" })
+  const said = await reach(ledger, AROUND as never, { at: AT, body: "held\n" })
 
   expect(said.said.refused).toBeNull()
   expect(ledger.over.edits).toEqual([{ kind: "add", path: AT, content: "held\n" }])
