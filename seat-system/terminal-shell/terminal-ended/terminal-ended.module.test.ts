@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { parses } from "../terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   ENDED_FN,
   TERMINAL_PAGES_DIR,
@@ -11,11 +12,6 @@ const ROOT_LOCAL = 'local _root="/repos/akasha"'
 const said = terminalEndedFnLines(ROOT_LOCAL).join("\n")
 
 const trapped = terminalEndedTrapLines().join("\n")
-
-async function parses(text: string): Promise<number> {
-  const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(text) })
-  return await ran.exited
-}
 
 describe("what is left", () => {
   test("names when the shell ended, what it ended with and where it was", () => {

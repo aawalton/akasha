@@ -1,10 +1,6 @@
 import { describe, expect, test } from "bun:test"
+import { parses } from "../terminal-bash/terminal-bash.module.test-fixtures.ts"
 import { claudeNewAccountFn, supervisorFn } from "./terminal-account-launchers.module.code.ts"
-
-async function parses(said: string): Promise<number> {
-  const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(said) })
-  return await ran.exited
-}
 
 describe("a client opened on one account", () => {
   const said = supervisorFn("c1", " -a aawalton")

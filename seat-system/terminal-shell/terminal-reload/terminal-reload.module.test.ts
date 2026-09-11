@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { parses } from "../terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   COMPOSING,
   implName,
@@ -49,7 +50,6 @@ describe("the reload", () => {
   })
 
   test("is one function bash can parse", async () => {
-    const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(said) })
-    expect(await ran.exited).toBe(0)
+    expect(await parses(said)).toBe(0)
   })
 })

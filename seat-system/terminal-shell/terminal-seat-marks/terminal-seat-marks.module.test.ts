@@ -1,4 +1,5 @@
 import { describe, expect, it } from "bun:test"
+import { parses } from "../terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   MARK_TAIL,
   markIn,
@@ -18,11 +19,6 @@ function startedIn(started: Readonly<Record<number, string>>): (pid: number) => 
 
 function markOf(pid: number, startedAt: string, seat: string): SeatMark {
   return { pid, startedAt, seat }
-}
-
-async function parses(text: string): Promise<number> {
-  const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(text) })
-  return await ran.exited
 }
 
 describe("a mark a shell left", () => {

@@ -7,6 +7,7 @@ export const terminalBash = {
   definition: "the whole of the bash a terminal sources, composed as one text",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

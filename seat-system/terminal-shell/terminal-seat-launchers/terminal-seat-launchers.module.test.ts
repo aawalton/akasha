@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { DEFAULT_ACCOUNT } from "../../seat-launching/seat-launching.module.code.ts"
 import { HANDLER } from "../../seat-naming/seat-naming.module.code.ts"
+import { parses } from "../terminal-bash/terminal-bash.module.test-fixtures.ts"
 import { SEAT_ATTACH_FN } from "../terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import {
   SEAT_LIVE_FN,
@@ -20,11 +21,6 @@ const launching = tmuxLaunchFnLines().join("\n")
 const fresh = seatNewFn("sn")
 
 const resuming = seatResumeFn("sr")
-
-async function parses(text: string): Promise<number> {
-  const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(text) })
-  return await ran.exited
-}
 
 describe("a session", () => {
   test("is live only where it holds a pane that is not dead", () => {
