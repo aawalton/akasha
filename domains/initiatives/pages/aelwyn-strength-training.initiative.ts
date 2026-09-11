@@ -58,6 +58,10 @@ export const aelwynStrengthTraining = {
       statement:
         "A movement's value is weighed against the goals Alan states rather than training in general.",
     },
+    {
+      statement:
+        "A movement is dropped when that movement stops progressing rather than after a fixed time.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
