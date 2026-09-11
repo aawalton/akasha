@@ -130,4 +130,5 @@ export const extension = {
       statement: "A row with a match is drawn open while a filter is there.",
     },
   ],
+  typescriptConfig: "json",
 } as const satisfies Domain
