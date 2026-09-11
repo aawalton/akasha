@@ -10,10 +10,6 @@ export const alanWebApiSmsOptIn = {
   urlPath: "api/sms/opt-in",
   invariants: [
     {
-      invariantKind: "constraint",
-      statement: "The sms-consent page a consent becomes is no page type the pages service has.",
-    },
-    {
       invariantKind: "absence",
       statement: "No consent given here is written down.",
     },
