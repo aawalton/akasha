@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
 export const CLAUDE_CONFIG_PATH = new URL(
   "../../agent-settings/pages/claude-config/claude-config.agent-settings.harness-settings.json",
@@ -6,12 +7,6 @@ export const CLAUDE_CONFIG_PATH = new URL(
 ).pathname
 
 const HOME_TOKEN = "$HOME"
-
-export function asRecord(value: unknown): Record<string, unknown> | null {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-    ? (value as Record<string, unknown>)
-    : null
-}
 
 export function expandHome(path: string, homeDir: string): string {
   return path.startsWith(HOME_TOKEN) ? `${homeDir}${path.slice(HOME_TOKEN.length)}` : path
@@ -29,11 +24,11 @@ export function reconcileClaudeConfig(
       continue
     }
     const declaredProjects = asRecord(value)
-    if (declaredProjects === null) continue
+    if (declaredProjects === undefined) continue
     const projects: Record<string, unknown> = { ...(asRecord(existing.projects) ?? {}) }
     for (const [rawPath, entry] of Object.entries(declaredProjects)) {
       const declaredEntry = asRecord(entry)
-      if (declaredEntry === null) continue
+      if (declaredEntry === undefined) continue
       const path = expandHome(rawPath, homeDir)
       projects[path] = { ...(asRecord(projects[path]) ?? {}), ...declaredEntry }
     }
@@ -43,7 +38,7 @@ export function reconcileClaudeConfig(
 }
 
 function parseClaudeConfig(held: unknown): Record<string, unknown> | null {
-  return asRecord(held)
+  return asRecord(held) ?? null
 }
 
 export function readClaudeConfigDeclaration(

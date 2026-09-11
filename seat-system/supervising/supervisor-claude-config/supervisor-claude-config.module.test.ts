@@ -1,18 +1,10 @@
 import { expect, test } from "bun:test"
 import {
-  asRecord,
   CLAUDE_CONFIG_PATH,
   expandHome,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
 } from "akasha/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.code.ts"
-
-test("only a plain object reads as a record", () => {
-  expect(asRecord({ a: 1 })).toEqual({ a: 1 })
-  expect(asRecord([1])).toBeNull()
-  expect(asRecord(null)).toBeNull()
-  expect(asRecord("a")).toBeNull()
-})
 
 test("a leading home token is expanded and one elsewhere is not", () => {
   expect(expandHome("$HOME/.claude", "/home/walton")).toBe("/home/walton/.claude")

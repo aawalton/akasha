@@ -7,7 +7,6 @@ import type { SupervisorHandoff } from "akasha/seat-system/self-healing/supervis
 import type { ChildExitStatus } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
-  asRecord,
   CLAUDE_CONFIG_PATH,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
@@ -24,6 +23,7 @@ import {
 } from "akasha/seat-system/supervising/supervisor-exec/supervisor-exec.module.code.ts"
 import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {
   if (!isProcessAlive(pid)) {
@@ -167,14 +167,14 @@ export function reconcileAgentBootFiles(
   const path = `${configDir}/.claude.json`
   let existing: Record<string, unknown> = {}
   if (existsSync(path)) {
-    let parsed: Record<string, unknown> | null = null
+    let parsed: Record<string, unknown> | undefined
     try {
       parsed = asRecord(JSON.parse(readFileSync(path, "utf8")))
     } catch (err) {
       console.error(`${LOG} adopt: ${path} did not parse, so nothing was reconciled into it:`, err)
       return
     }
-    if (parsed === null) {
+    if (parsed === undefined) {
       console.error(`${LOG} adopt: ${path} holds no JSON object, so nothing was reconciled into it`)
       return
     }

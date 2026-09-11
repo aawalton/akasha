@@ -6,4 +6,15 @@ export const asRecord = {
   slug: "as-record",
   definition: "a value read as a record of unknown values, or nothing where it is not one",
   code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A list is no record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing at all is no record.",
+    },
+  ],
 } as const satisfies Module
