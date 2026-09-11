@@ -4,13 +4,22 @@ export const propertyShaping = {
   id: "01a091e7-e2ef-7749-b938-fe724b6673e5",
   type: "module",
   slug: "property-shaping",
-  definition: "the shape each page property declares, read from one file",
+  definition: "the shape each page property declares, read from the pages of its own kinds",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every shape the pages declare is read from the declaring index.",
+      statement:
+        "Every shape the pages declare is read from the value each of those pages carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages read are the pages of `page-property` and of every kind under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of one of those kinds stating no property slug carries no shape.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +27,7 @@ export const propertyShaping = {
     },
     {
       invariantKind: "departure",
-      statement: "The first line a property is filed under answers for that property.",
+      statement: "The first value a property is filed under answers for that property.",
     },
     {
       invariantKind: "departure",

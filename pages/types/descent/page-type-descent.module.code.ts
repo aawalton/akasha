@@ -1,4 +1,4 @@
-import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { slugsIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -20,11 +20,11 @@ function namedAbove(value: Value | null): readonly string[] {
 
 export function listedAbove(
   given: string | Reading,
-  pageOf: (path: string) => Value | null
+  pageOf?: (path: string) => Value | null
 ): ReadonlyMap<string, readonly string[]> {
   const above = new Map<string, readonly string[]>()
-  for (const one of everyOfType(given, PAGE_TYPE)) {
-    const value = pageOf(one.path)
+  for (const one of valuesOfType(given, PAGE_TYPE)) {
+    const value = pageOf === undefined ? one.value : pageOf(one.path)
     const slug = saidIn(value, SLUG)
     const named = namedAbove(value)
     if (slug !== null && named.length > 0) above.set(slug, named)
@@ -35,7 +35,7 @@ export function listedAbove(
 export function kindsUnder(
   slug: string,
   given: string | Reading,
-  pageOf: (path: string) => Value | null
+  pageOf?: (path: string) => Value | null
 ): ReadonlySet<string> {
   const above = listedAbove(given, pageOf)
   const under = new Set<string>([slug])

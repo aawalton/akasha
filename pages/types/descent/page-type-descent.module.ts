@@ -27,7 +27,11 @@ export const pageTypeDescent = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller names the reading and the reader of page bodies.",
+      statement: "A caller names the reading, and the reader of page bodies where it has one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming no reader is answered from the values the index holds.",
     },
     {
       invariantKind: "absence",

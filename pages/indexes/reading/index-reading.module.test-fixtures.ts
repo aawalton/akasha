@@ -9,7 +9,6 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   idFiled,
@@ -194,10 +193,38 @@ export function listingFiled(root: string, paths: readonly string[]): undefined 
   writeFileSync(at, paths.map((one) => `${one}\n`).join(""))
 }
 
-function declaringAdded(root: string, lines: readonly unknown[]): undefined {
-  const at = under(root, DECLARING_AT)
-  mkdirSync(dirname(at), { recursive: true })
-  appendFileSync(at, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+const KINDED = new Set<string>()
+
+function kindFiled(root: string, kind: string): undefined {
+  const named = `${root} ${kind}`
+  if (KINDED.has(named) || kind === PAGE_PROPERTY) return
+  KINDED.add(named)
+  valueAlsoFiled(root, PAGE_TYPE, [
+    {
+      path: `akasha/${kind}.${PAGE_TYPE}.ts`,
+      value: { pageTypeSlug: PAGE_TYPE, slug: kind, extends: [PAGE_PROPERTY] },
+    },
+  ])
+}
+
+const CARRIED: readonly (readonly [string, string])[] = [
+  ["pageTypeSlug", "pageTypeSlug"],
+  ["slug", "slug"],
+  ["propertySlug", "propertySlug"],
+  ["targetPageTypeSlug", "targetPageType"],
+  ["unique", "unique"],
+  ["uniquePropertySlug", "uniqueProperty"],
+  ["fileName", "fileName"],
+  ["folderName", "folderName"],
+]
+
+function shapeSaid(said: Record<string, unknown>): Record<string, unknown> {
+  const value: Record<string, unknown> = {}
+  for (const [held, key] of CARRIED) {
+    const one = said[held]
+    if (one !== undefined && one !== null) value[key] = one
+  }
+  return value
 }
 
 export function shapeAdded(
@@ -206,12 +233,14 @@ export function shapeAdded(
   slug: string,
   lines: readonly unknown[]
 ): undefined {
-  declaringAdded(
-    root,
-    lines.map((one) =>
-      one === null || typeof one !== "object" ? one : { pageTypeSlug, slug, ...one }
-    )
-  )
+  for (const one of lines) {
+    if (one === null || typeof one !== "object") continue
+    const said = { pageTypeSlug, slug, propertySlug: slug, ...one } as Record<string, unknown>
+    const kind = typeof said.pageTypeSlug === "string" ? said.pageTypeSlug : pageTypeSlug
+    const named = typeof said.slug === "string" ? said.slug : slug
+    kindFiled(root, kind)
+    valueAlsoFiled(root, kind, [{ path: `akasha/${named}.${kind}.ts`, value: shapeSaid(said) }])
+  }
 }
 
 export function relationFiled(

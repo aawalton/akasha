@@ -1,13 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { mkdirSync } from "node:fs"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   shapeOf,
   shapesAt,
 } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 
 const scratch = scratchWorld()
@@ -16,9 +15,14 @@ afterAll(scratch.sweep)
 
 function declaring(prefix: string, said: readonly unknown[]): string {
   const root = scratch.rootFor(prefix)
-  const at = join(indexIn(root), DECLARING_AT)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, said.map((one) => `${JSON.stringify(one)}\n`).join(""), "utf8")
+  mkdirSync(indexIn(root), { recursive: true })
+  for (const one of said) {
+    const held = one as Record<string, unknown>
+    const kind = held.pageTypeSlug
+    const slug = held.slug
+    if (typeof kind !== "string" || typeof slug !== "string") continue
+    shapeAdded(root, kind, slug, [held])
+  }
   return root
 }
 
@@ -43,7 +47,7 @@ test("a property is keyed by the page type it is and then its own slug", () => {
   expect([...shapesAt(root).keys()].sort()).toEqual(["number-property/foo", "text-property/foo"])
 })
 
-test("a line saying nothing of a field carries that field as null", () => {
+test("a value saying nothing of a field carries that field as null", () => {
   const root = declaring("akasha-shaping-null-", [
     { pageTypeSlug: "relation-property", slug: "held", propertySlug: "held" },
   ])
@@ -55,7 +59,7 @@ test("a line saying nothing of a field carries that field as null", () => {
   expect(one?.folderName).toBe(null)
 })
 
-test("a line carries the key a page reads the property by", () => {
+test("a value carries the key a page reads the property by", () => {
   const root = declaring("akasha-shaping-key-", [
     { pageTypeSlug: "text-property", slug: "held-name", propertySlug: "named" },
   ])
@@ -63,7 +67,7 @@ test("a line carries the key a page reads the property by", () => {
   expect(shapesAt(root).get("text-property/held-name")?.propertySlug).toBe("named")
 })
 
-test("the first line a property is filed under answers for that property", () => {
+test("the first value a property is filed under answers for that property", () => {
   const root = declaring("akasha-shaping-first-", [
     { pageTypeSlug: "text-property", slug: "held", propertySlug: "first" },
     { pageTypeSlug: "text-property", slug: "held", propertySlug: "second" },
@@ -72,9 +76,9 @@ test("the first line a property is filed under answers for that property", () =>
   expect(shapesAt(root).get("text-property/held")?.propertySlug).toBe("first")
 })
 
-test("a line that is no record is left out rather than refusing the rest", () => {
+test("a page of one of those kinds stating no property slug carries no shape", () => {
   const root = declaring("akasha-shaping-odd-", [
-    [1, 2],
+    { pageTypeSlug: "text-property", slug: "loose", propertySlug: null },
     { pageTypeSlug: "text-property", slug: "held", propertySlug: "held" },
   ])
 
@@ -140,7 +144,7 @@ test("a name reaching a page by id is refused, a property being named by its slu
   expect("refused" in said && said.refused).toContain("named by its slug")
 })
 
-test("an index filing no shape at all refuses the name rather than the reading", () => {
+test("an index filing no shape refuses the name rather than the reading", () => {
   const root = declaring("akasha-shaping-empty-", [])
 
   expect(shapeOf(root, "text-property/nowhere")).toEqual({

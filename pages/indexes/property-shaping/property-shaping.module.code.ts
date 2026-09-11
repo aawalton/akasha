@@ -1,29 +1,37 @@
 import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
-import { answered, heldOnce } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  answered,
+  heldOnce,
+  valuesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import { slugAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+
+const PAGE_PROPERTY = "page-property"
 
 function shapesIn(reading: Reading): ReadonlyMap<string, Shape> {
   const found = new Map<string, Shape>()
-  for (const line of reading.lines(DECLARING_AT)) {
-    const said: unknown = JSON.parse(line)
-    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
-    const held = said as Value
-    const pageTypeSlug = textAt(held, "pageTypeSlug") ?? ""
-    const slug = textAt(held, "slug") ?? ""
-    const named = `${pageTypeSlug}/${slug}`
-    if (found.has(named)) continue
-    found.set(named, {
-      pageTypeSlug,
-      targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
-      unique: textAt(held, "unique"),
-      uniquePropertySlug: textAt(held, "uniquePropertySlug"),
-      slug,
-      propertySlug: textAt(held, "propertySlug") ?? "",
-      fileName: textAt(held, "fileName"),
-      folderName: textAt(held, "folderName"),
-    })
+  for (const kind of kindsUnder(PAGE_PROPERTY, reading)) {
+    for (const one of valuesOfType(reading, kind)) {
+      const held = one.value
+      const pageTypeSlug = textAt(held, "type") ?? textAt(held, "pageTypeSlug")
+      const slug = textAt(held, "slug")
+      const propertySlug = textAt(held, "propertySlug")
+      if (pageTypeSlug === null || slug === null || propertySlug === null) continue
+      const named = `${pageTypeSlug}/${slug}`
+      if (found.has(named)) continue
+      found.set(named, {
+        pageTypeSlug,
+        targetPageTypeSlug: slugAt(held, "targetPageType"),
+        unique: slugAt(held, "unique"),
+        uniquePropertySlug: slugAt(held, "uniqueProperty"),
+        slug,
+        propertySlug,
+        fileName: textAt(held, "fileName"),
+        folderName: textAt(held, "folderName"),
+      })
+    }
   }
   return found
 }

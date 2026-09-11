@@ -189,9 +189,13 @@ export function settlingOver(
     held.flatMap((one) => (one.was === null ? [] : declaredIn(one.was))),
     held.flatMap((one) => (one.now === null ? [] : declaredIn(one.now)))
   )
-  const overDeclaring = overlaidOn(reading, declaring)
+  const valued = filingOf(
+    held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
+    held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
+  )
+  const overValued = overlaidOn(reading, valued)
   const wasUnique = uniquePropertiesAt(reading)
-  const unique = uniquePropertiesAt(overDeclaring)
+  const unique = uniquePropertiesAt(overValued)
   if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
   const turned = turningIn(wasUnique, unique)
   const carried = new Map(held.map((one) => [under(repo, one.path), one]))
@@ -205,7 +209,7 @@ export function settlingOver(
   }
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
   const wasSource = sourceAmong(before, sourceIn(reading, wasPageOf))
-  const nowSource = sourceAmong(left, sourceIn(overDeclaring, pageOf))
+  const nowSource = sourceAmong(left, sourceIn(overValued, pageOf))
   const wasIdentifying = identifyingFrom(wasSource)
   const nowIdentifying = identifyingFrom(nowSource)
   const carriedAt = new Set(carried.keys())
@@ -263,11 +267,6 @@ export function settlingOver(
   const paths = filingOf(wasPaths, nowPaths)
   const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
 
-  const valued = filingOf(
-    held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
-    held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
-  )
-
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...declaring, ...valued])
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
@@ -281,7 +280,7 @@ export function settlingOver(
     rowsOver(under(repo, path), value, shaped.entriedIn(value), body)
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
-  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overDeclaring))
+  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overValued))
   const relating = pagesOfTypes(
     reading,
     typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
