@@ -118,8 +118,10 @@ export function orphanedIn(change: Change, index: Answering): readonly string[] 
 }
 
 export function declaringIn(change: Change, index: Answering): readonly string[] {
-  const held = index.everyPath()
-  return held.filter((one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null)
+  const held = new Set([...index.everyPath(), ...change.changed])
+  return [...held].filter(
+    (one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null
+  )
 }
 
 export type Minting = (path: string, text: string) => string
@@ -282,7 +284,7 @@ export async function foundIn(given: Change, shadow: Shadow): Promise<readonly F
   const root = resolve(change.root)
   const every = [...new Set([...shadow.index.everyPath(), ...change.changed])]
   const placed = placingOver(every, (one) => textOf(change.after(one)))
-  const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
+  const declared = declaringIn(change, shadow.index)
   const named = [...new Set([...roots, ...declared])]
   const asked = orphaned.length === 0 ? roots : named
   if (asked.length === 0) return []

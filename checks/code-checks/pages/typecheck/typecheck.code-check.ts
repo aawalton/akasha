@@ -270,6 +270,14 @@ export const typecheck = {
       invariantKind: "departure",
       statement: "A lua runtime library the change moves is found where that change leaves it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A declaration file the change moves is found where that change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration file another config compiles is compiled here as well.",
+    },
   ],
   check: { maxCpuSeconds: 120 },
   audit: { maxCpuSeconds: 150 },
