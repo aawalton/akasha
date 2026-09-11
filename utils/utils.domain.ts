@@ -19,4 +19,10 @@ export const utils = {
     "domain/utils-waiting",
     "domain/digit-padding",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A `utils` module an addon's bundle reaches is compiled to Lua.",
+    },
+  ],
 } as const satisfies Domain
