@@ -50,6 +50,9 @@ export type Changes = {
   "change-agent/copy-property-on-every-page": Parameters<
     typeof import("../../../agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/divide-page-property": Parameters<
+    typeof import("../../../agent/file/divide-page-property/divide-page-property.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-code-export": Parameters<
     typeof import("../../../agent/file-content/move-code-export/move-code-export.change-agent.code.ts")["runChange"]
   >[1]
