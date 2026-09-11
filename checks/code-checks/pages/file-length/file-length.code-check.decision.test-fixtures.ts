@@ -5,6 +5,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
+  filingOver,
   relationFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -56,15 +57,7 @@ const CARRIED: readonly Value[] = [
 ]
 
 function alsoSeeded(root: string): undefined {
-  let held = 20
-  const filing = (kind: string, slug: string, path: string, value: Value): string => {
-    const id = `${STEM}${held}`
-    held += 1
-    listedFiled(root, kind, slug, [{ path, id }])
-    idFiled(root, id, [{ path, id }])
-    valueAlsoFiled(root, kind, [{ path, value: { id, ...value } }])
-    return id
-  }
+  const filing = filingOver(root, STEM)
   for (const [slug, above] of ABOVE) {
     const value = { pageTypeSlug: PAGE_TYPE, slug, extends: [above] }
     filing(PAGE_TYPE, slug, `akasha/${slug}.page-type.ts`, value)

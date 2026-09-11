@@ -31,6 +31,7 @@ import {
   overlaidOn,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { admitting } from "akasha/testing-system/minting/minting.module.code.ts"
 import { HELD } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
@@ -146,6 +147,23 @@ export function listedAndValued(
 
 export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
   return identityListed(root, PAGE_TYPE, pageTypeSlug, SLUG, slug)
+}
+
+const MINTED_FROM = 20
+
+export function filingOver(
+  root: string,
+  stem: string
+): (pageTypeSlug: string, slug: string, path: string, value: Value) => string {
+  let held = MINTED_FROM
+  return (pageTypeSlug, slug, path, value) => {
+    const id = `${stem}${held}`
+    held += 1
+    listedFiled(root, pageTypeSlug, slug, [{ path, id }])
+    idFiled(root, id, [{ path, id }])
+    valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, ...value } }])
+    return id
+  }
 }
 
 export function listedUnreadableFiled(root: string, pageTypeSlug: string, slug: string): undefined {
