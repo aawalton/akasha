@@ -2,7 +2,6 @@ import type { Seat } from "akasha/seat-system/seats/seat.page-type.types.ts"
 
 export const dalla = {
   id: "01a08cd2-1ea9-7000-bfad-e74cc7358c36",
-  pageTypeSlug: "seat",
   type: "seat",
   slug: "dalla",
   persona: "dalla",
