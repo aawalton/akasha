@@ -8,6 +8,8 @@ export const service = {
   definition: "a thing a deploy puts up",
   pluralSlug: "services",
   extends: ["page-type/domain"],
+  parts: ["text-property/deployed-commit"],
+  properties: [{ pageProperty: "text-property/deployed-commit", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",
@@ -30,8 +32,8 @@ export const service = {
       statement: "A service a runner keeps up states whether that service is to be running.",
     },
     {
-      invariantKind: "absence",
-      statement: "This page type adds no property of its own.",
+      invariantKind: "departure",
+      statement: "A service carries the commit the last deploy that finished put up.",
     },
   ],
   types: "ts",
