@@ -1,7 +1,7 @@
+import type { StoplightLegends } from "akasha/code-system/editor/extension/status-bar-legends/status-bar-legends.module.code.ts"
+import { SLOTS } from "akasha/code-system/editor/extension/status-bar-slots/status-bar-slots.module.code.ts"
+import type { UsageReading } from "akasha/code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
 import type * as vscode from "vscode"
-import type { StoplightLegends } from "../status-bar-legends/status-bar-legends.module.code.ts"
-import { SLOTS } from "../status-bar-slots/status-bar-slots.module.code.ts"
-import type { UsageReading } from "../status-bar-usage/status-bar-usage.module.code.ts"
 
 export type SectionResult<T> = {
   readonly value: T | undefined
