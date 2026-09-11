@@ -1,4 +1,4 @@
-import type { IosHarness } from "../../ios-harness.page-type.types.ts"
+import type { IosHarness } from "akasha/code-system/ios-harnesses/ios-harness.page-type.types.ts"
 
 export const renderHarnessCasesCost = {
   id: "01a08c83-ffd7-7522-a7f2-606479a6ddb9",
