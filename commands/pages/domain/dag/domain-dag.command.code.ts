@@ -5,6 +5,7 @@ import {
   type Drawn,
   dagLines,
 } from "akasha/commands/pages/domain/dag/domain-drawing/domain-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const AT_DOMAIN = "--domain"
 
@@ -46,7 +47,7 @@ export function readIn(argv: readonly string[]): Read {
       else above.push(value)
       continue
     }
-    const taken = FLAGS.map((each) => `\`${each}\``).join(", ")
+    const taken = namesDrawn(FLAGS)
     refusals.push(`\`${one}\` is no flag this takes — it takes ${taken}`)
   }
   if (refusals.length > 0) return { refused: refusals }
