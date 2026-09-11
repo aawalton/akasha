@@ -20,5 +20,10 @@ export const fileProperty = {
       invariantKind: "departure",
       statement: "A page warrants nothing for a property the page does not state.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "`Never Depend On Everything` refuses this warrant a loader edge, which would reach every page.",
+    },
   ],
 } as const satisfies ContextWarrant

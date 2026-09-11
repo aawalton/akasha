@@ -52,6 +52,11 @@ export const pageValue = {
       statement: "Nothing here reads the index.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "No page type names this module as its loader, since a body is loaded from text, not a path.",
+    },
+    {
       invariantKind: "departure",
       statement: "Importing this module makes no transpiler.",
     },
