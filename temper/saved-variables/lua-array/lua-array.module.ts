@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const luaArray = {
   id: "01a06053-3636-7157-ade2-a72c0d19b41c",
