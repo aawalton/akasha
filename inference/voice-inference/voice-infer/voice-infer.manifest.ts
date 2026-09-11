@@ -13,5 +13,9 @@ export const voiceInfer = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the voice-infer-s3-creds secret.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The keys hashed from it are access_key and secret_key.",
+    },
   ],
 } as const satisfies Manifest
