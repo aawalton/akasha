@@ -9,9 +9,9 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every check is green.",
+      statement: "Every check has come back green at audit once.",
       workingMemory:
-        "Duplicated rules are at 0 from 197, and that check runs at change now, so the count cannot rise. What is left is 16 shipped .dds textures three checks refuse together, all at an add-on's own folder level: a folder property already says its folder holds bytes, and letting that property state which endings it speaks for reaches all 16. The test check flips on the world rather than on the tree, because one module test asks the live workstation whether Alan's status bar is populated.",
+        "Each is seen green once rather than all at one moment, because the tree moves faster than a whole audit takes. 49 came back green in one census today, and no-rule-in-two-files reached 0 from 197. Three are left, refusing the same 16 shipped .dds textures at an add-on's own folder level: file-has-its-page, no-raw-nul-bytes and file-length. A folder property may now state the endings it speaks for, so claiming those 16 closes all three.",
     },
     {
       statement: "Every check spends less processor time than the ceiling its page states.",
