@@ -1,6 +1,6 @@
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { slugOf, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const GENERATOR = "generator"
 
@@ -14,30 +14,22 @@ export type Generated = {
   readonly afterChecks: boolean
 }
 
-function waitsFor(shadow: Shadow, kind: string): boolean {
-  for (const one of shadow.index.listedAt(GENERATOR_KIND, kind)) {
-    const value = shadow.pageOf(one.path)
-    if (value !== null) return value[AFTER_CHECKS] === true
-  }
-  throw new Error(
-    `\`${kind}\` is named as a generator, and no \`${GENERATOR_KIND}\` carries that slug, so when it works its value out could not be answered`
-  )
-}
-
 export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generated> {
   const found = new Map<string, Generated>()
-  for (const held of shadow.index.shapesAt().values()) {
-    for (const one of shadow.index.listedAt(held.pageTypeSlug, held.slug)) {
-      const value = shadow.pageOf(one.path)
+  for (const one of shadow.index.everyOfType(GENERATOR_KIND)) {
+    const page = shadow.pageOf(one.path)
+    if (page === null) continue
+    const kind = textAt(page, "slug")
+    if (kind === null) continue
+    const afterChecks = page[AFTER_CHECKS] === true
+    for (const naming of shadow.index.namersOf(one.id)) {
+      if (naming.propertySlug !== GENERATOR) continue
+      const value = shadow.pageOf(naming.path)
       if (value === null) continue
-      const said = textAt(value, GENERATOR)
-      if (said === null) continue
-      const kind = slugOf(said)
-      found.set(held.slug, {
-        key: exportedAs(held.propertySlug),
-        kind,
-        afterChecks: waitsFor(shadow, kind),
-      })
+      const slug = textAt(value, "slug")
+      const key = textAt(value, "propertySlug")
+      if (slug === null || key === null) continue
+      found.set(slug, { key: exportedAs(key), kind, afterChecks })
     }
   }
   return new Map([...found].sort((one, two) => (one[0] < two[0] ? -1 : one[0] > two[0] ? 1 : 0)))

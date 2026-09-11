@@ -55,7 +55,12 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A generator naming a kind that stands nowhere is refused.",
+      statement:
+        "The properties that state a generator are the ones the index names as naming a generator kind.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No property page the index does not name that way is opened.",
     },
     {
       invariantKind: "departure",
