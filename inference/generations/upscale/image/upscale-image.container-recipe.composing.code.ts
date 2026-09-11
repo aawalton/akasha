@@ -1,4 +1,27 @@
-export function bodyIn(): string {
+import { dirname, relative } from "node:path"
+import {
+  besideOf,
+  pageOf,
+} from "akasha/infrastructure/container-image/recipe-page/recipe-page.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+
+const RECIPE = "container-recipe"
+
+const OWN = "upscale-image"
+
+const SCRIPT = "shell-script"
+
+const SHELL = "shell"
+
+const UP = "upscale-up"
+
+function upIn(given: string | Reading): string {
+  const here = dirname(pageOf(given, RECIPE, OWN).path)
+  return relative(here, besideOf(pageOf(given, SCRIPT, UP), SHELL))
+}
+
+export function bodyIn(given: string | Reading): string {
+  const up = upIn(given)
   const lines = [
     "# Reproducible ComfyUI image for CUDA portrait upscaling on the workstation",
     "# RTX 5080 (Blackwell, sm_120, 16 GB). Two-stage skin-realism pipeline:",
@@ -10,8 +33,7 @@ export function bodyIn(): string {
     "# and no VideoHelperSuite (video-only). torch 2.9.1 cu128 carries native sm_120",
     "# kernels and is the exact build @infra/wan proves working on this card.",
     "#",
-    "# Build:  podman build -t upscale:local -f Containerfile .",
-    "# Run:    see bin/upscale-up.sh",
+    `# Run:    see ${up}`,
     "FROM nvidia/cuda:12.8.1-devel-ubuntu24.04",
     "",
     "ENV DEBIAN_FRONTEND=noninteractive",
@@ -100,7 +122,7 @@ export function bodyIn(): string {
     "EXPOSE 8677",
     "WORKDIR /app/ComfyUI",
     "# Inside-container listen must be 0.0.0.0 for the podman port publish; the",
-    "# publish itself binds host 127.0.0.1 only (see bin/upscale-up.sh). Port 8677",
+    `# publish itself binds host 127.0.0.1 only (see ${up}). Port 8677`,
     "# is one above @infra/wan's 8676 so both daemons can be up at once.",
     'CMD ["python", "main.py", "--listen", "0.0.0.0", "--port", "8677"]',
   ]

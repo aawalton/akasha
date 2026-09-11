@@ -8,8 +8,7 @@
 # and no VideoHelperSuite (video-only). torch 2.9.1 cu128 carries native sm_120
 # kernels and is the exact build @infra/wan proves working on this card.
 #
-# Build:  podman build -t upscale:local -f Containerfile .
-# Run:    see bin/upscale-up.sh
+# Run:    see ../up/upscale-up.shell-script.shell.sh
 FROM nvidia/cuda:12.8.1-devel-ubuntu24.04
 
 ENV DEBIAN_FRONTEND=noninteractive
@@ -98,6 +97,6 @@ ENV PYTORCH_ALLOC_CONF=expandable_segments:True
 EXPOSE 8677
 WORKDIR /app/ComfyUI
 # Inside-container listen must be 0.0.0.0 for the podman port publish; the
-# publish itself binds host 127.0.0.1 only (see bin/upscale-up.sh). Port 8677
+# publish itself binds host 127.0.0.1 only (see ../up/upscale-up.shell-script.shell.sh). Port 8677
 # is one above @infra/wan's 8676 so both daemons can be up at once.
 CMD ["python", "main.py", "--listen", "0.0.0.0", "--port", "8677"]
