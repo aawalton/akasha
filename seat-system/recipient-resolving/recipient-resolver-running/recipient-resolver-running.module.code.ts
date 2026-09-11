@@ -15,7 +15,7 @@ import { defaultRecipientResolverDeps } from "akasha/seat-system/recipient-resol
 import { assembleRecipientResolverSpecs } from "akasha/seat-system/recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
 import { runRecipientResolverTick } from "akasha/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"
 
-async function main(): Promise<void> {
+export async function runRecipientResolverRunning(): Promise<void> {
   const ac = stopsOnSignal()
 
   const config = resolveRecipientResolverConfig()
@@ -46,7 +46,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  await main().catch(async (err) => {
+  await runRecipientResolverRunning().catch(async (err) => {
     console.error("recipient-resolver fatal:", err)
     process.exit(1)
   })
