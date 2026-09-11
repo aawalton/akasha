@@ -1,4 +1,4 @@
-import type { FilePurpose } from "../file-purpose.page-type.types.ts"
+import type { FilePurpose } from "akasha/code-system/file-purposes/file-purpose.page-type.types.ts"
 
 export const testTs = {
   id: "01a06860-a0ef-77a2-b7d4-1fd2a8169652",
