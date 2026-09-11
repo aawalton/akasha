@@ -84,6 +84,11 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That reading is of the edges into that page rather than of every relation property in turn.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The id of a page being taken away is read from the body the change takes away.",
     },
   ],

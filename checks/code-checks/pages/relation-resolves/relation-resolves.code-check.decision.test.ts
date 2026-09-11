@@ -5,7 +5,6 @@ import {
   namersOf,
   pageTypeOf,
   refusalsOver,
-  relationProperties,
 } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
 import {
   A,
@@ -186,25 +185,23 @@ test("a change naming no page and taking nothing away asks the index nothing", (
   expect(judged(over(root, ["akasha/t/loose.txt"], { "akasha/t/loose.txt": "held" }))).toEqual([])
 })
 
-test("which properties are relations is read from the index", () => {
-  const root = rooted()
-  const shadow = shadowAt(root)
-  expect(relationProperties(shadow, knowing(shadow))).toEqual([
-    "domain-slug",
-    "page-type-slug",
-    "part-slugs",
-    "spark-slug",
-  ])
-})
-
 test("the pages to judge for a page taken away are the ones the reverse edges name", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
-  expect(namersOf(change, shadowed(change), ["domain-slug", "part-slugs"])).toEqual([A])
+  expect(namersOf(change, shadowed(change))).toEqual([A])
   const kept = over(root, [D], { [D]: "held" })
-  expect(namersOf(kept, shadowed(kept), ["domain-slug"])).toEqual([])
+  expect(namersOf(kept, shadowed(kept))).toEqual([])
+})
+
+test("which properties name the page taken away is read off that page's own edges", () => {
+  const root = rooted()
+  naming(root, D_ID, "domain-slug", A_ID, A)
+  filing(root, A, A_ID, "note", "a")
+  const change = over(root, [D], { [D]: null })
+
+  expect(shadowed(change).index.namersOf(D_ID)).toEqual([{ path: A, propertySlug: "domain-slug" }])
 })
 
 test("the id of a page taken away is read from the body the change takes away", () => {
@@ -214,7 +211,7 @@ test("the id of a page taken away is read from the body the change takes away", 
   const change = over(root, [D], { [D]: null })
   const shadow = shadowed(change)
   expect(shadow.index.listedByPath(D)).toEqual([])
-  expect(namersOf(change, shadow, ["domain-slug"])).toEqual([A])
+  expect(namersOf(change, shadow)).toEqual([A])
 })
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
@@ -393,6 +390,6 @@ test("a file the index files against a page is no page taken away, and nothing i
   pathFiled(root, D_CODE, [{ path: D, id: D_ID }])
   const bodies = { ...note(', domainSlug: "domain/d"'), [D_CODE]: null }
   const change = over(root, [D_CODE], bodies)
-  expect(namersOf(change, shadowed(change), ["domain-slug", "part-slugs"])).toEqual([])
+  expect(namersOf(change, shadowed(change))).toEqual([])
   expect(judged(change)).toEqual([])
 })

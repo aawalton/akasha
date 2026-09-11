@@ -60,14 +60,6 @@ export function rowsFor(change: Change, known: Shaped, one: Carried): readonly R
   return rowsOver(one.path, one.value, known.entriedIn(one.value), (at) => textIn(change, at))
 }
 
-export function relationProperties(shadow: Shadow, known: Known): readonly string[] {
-  const found: string[] = []
-  for (const held of shadow.index.shapesAt().values()) {
-    if (known.targetOf(held.slug) !== null) found.push(held.slug)
-  }
-  return found.sort()
-}
-
 export function idTakenFrom(change: Change, path: string): string | null {
   const text = textWas(change, path)
   if (text === null) return null
@@ -75,11 +67,7 @@ export function idTakenFrom(change: Change, path: string): string | null {
   return value === null ? null : textAt(value, "id")
 }
 
-export function namersOf(
-  change: Change,
-  shadow: Shadow,
-  properties: readonly string[]
-): readonly string[] {
+export function namersOf(change: Change, shadow: Shadow): readonly string[] {
   const heldInAFile = shadow.index.fileKeysAt()
   const found = new Set<string>()
   for (const path of change.changed) {
@@ -89,12 +77,7 @@ export function namersOf(
     if (heldInAFile.has(said.pageType)) continue
     const gone = idTakenFrom(change, path)
     if (gone === null) continue
-    for (const propertySlug of properties) {
-      for (const id of shadow.index.idsNaming(gone, propertySlug)) {
-        const naming = shadow.index.listedById(id)
-        if (naming !== null) found.add(naming.path)
-      }
-    }
+    for (const one of shadow.index.namersOf(gone)) found.add(one.path)
   }
   return [...found].sort()
 }
@@ -193,7 +176,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   }
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
-  for (const path of namersOf(change, shadow, relationProperties(shadow, known))) {
+  for (const path of namersOf(change, shadow)) {
     if (carrying.has(path)) continue
     const value = valueFor(change, path)
     if (value === null) continue
