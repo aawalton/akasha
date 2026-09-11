@@ -6,7 +6,7 @@ export const temperAddonLog = {
   type: "domain",
   slug: "temper-addon-log",
   definition: "the lines an add-on writes about its own working while the game runs",
-  parts: ["module/addon-log"],
+  parts: ["module/addon-log", "module/library-logger"],
   invariants: [
     {
       invariantKind: "departure",

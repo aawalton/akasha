@@ -1,3 +1,4 @@
+import { createLogger } from "akasha/temper/addon-log/library-logger/library-logger.module.code.ts"
 import { asLib } from "akasha/temper/lib-gps/gps-casts/gps-casts.module.code.ts"
 import {
   BLACKREACH_ROOT_MAP_INDEX,
@@ -8,13 +9,6 @@ import {
 } from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
 import type { InternalState, Lib } from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
-function createLogger(this: void): DebugLogger {
-  if (LibDebugLogger === undefined) {
-    error(`${LIB_IDENTIFIER} requires LibDebugLogger`)
-  }
-  return LibDebugLogger(LIB_IDENTIFIER)
-}
-
 function createChat(this: void): LibChatMessageProxy {
   if (LibChatMessage === undefined) {
     error(`${LIB_IDENTIFIER} requires LibChatMessage`)
@@ -23,7 +17,7 @@ function createChat(this: void): LibChatMessageProxy {
 }
 
 export const INTERNAL: InternalState = {
-  logger: createLogger(),
+  logger: createLogger(LIB_IDENTIFIER),
   chat: createChat(),
   TAMRIEL_MAP_INDEX,
   BLACKREACH_ROOT_MAP_INDEX,

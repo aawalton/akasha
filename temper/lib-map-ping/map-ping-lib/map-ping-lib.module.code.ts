@@ -1,3 +1,4 @@
+import { createLogger } from "akasha/temper/addon-log/library-logger/library-logger.module.code.ts"
 import {
   CALLBACK,
   LIB_IDENTIFIER,
@@ -7,13 +8,6 @@ import type {
   InternalState,
   Lib,
 } from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
-
-function createLogger(this: void): DebugLogger {
-  if (LibDebugLogger === undefined) {
-    error(`${LIB_IDENTIFIER} requires LibDebugLogger`)
-  }
-  return LibDebugLogger(LIB_IDENTIFIER)
-}
 
 let NEXT_NAMESPACE_ID = 1
 
@@ -47,7 +41,7 @@ export const INTERNAL: InternalState = {
   callbackObject: ZO_CallbackObject.New(),
   callback: CALLBACK,
   MapPingState: MAP_PING_STATE,
-  logger: createLogger(),
+  logger: createLogger(LIB_IDENTIFIER),
   RegisterForEvent: registerForEvent,
   UnregisterForEvent: unregisterForEvent,
   RegisterForUpdate: registerForUpdate,
