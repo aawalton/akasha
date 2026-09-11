@@ -1,8 +1,17 @@
+import type {
+  AgentNode,
+  SeatClick,
+} from "akasha/code-system/editor/extension/agent-row/agent-row.module.code.ts"
+import { seatContextValue } from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+import {
+  filterTree,
+  textMatches,
+} from "akasha/code-system/editor/extension/tree-filter/tree-filter.module.code.ts"
+import {
+  turnColorIn,
+  turnStateSaid,
+} from "akasha/code-system/editor/extension/turn-color-scheme/turn-color-scheme.module.code.ts"
 import * as vscode from "vscode"
-import type { AgentNode, SeatClick } from "../agent-row/agent-row.module.code.ts"
-import { seatContextValue } from "../seat-toggles/seat-toggles.module.code.ts"
-import { filterTree, textMatches } from "../tree-filter/tree-filter.module.code.ts"
-import { turnColorIn, turnStateSaid } from "../turn-color-scheme/turn-color-scheme.module.code.ts"
 
 export const REVEAL_TERMINAL_COMMAND = "opsAgentTree.revealTerminal"
 
