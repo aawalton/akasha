@@ -57,6 +57,20 @@ export const alan = {
         "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
       aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
     },
+    {
+      directiveKind: "rule",
+      name: "No Commentary",
+      act: "Tell Alan what you need from him, what he needs from you, and nothing more.",
+      warrant:
+        "Commentary reads as good communication, and every word of it spends Alan's attention.",
+      aids: [
+        "DO include the context needed to understand a question you ask Alan.",
+        "DO give concise progress updates as you make progress.",
+        "DO NOT narrate what you do or what a subagent did.",
+        "DO NOT correct what you said earlier unless Alan needs the correction to answer a question.",
+        "DO NOT tell Alan something because it is worth knowing.",
+      ],
+    },
   ],
   answeredBy: "amy",
   phone: "+16085122510",
