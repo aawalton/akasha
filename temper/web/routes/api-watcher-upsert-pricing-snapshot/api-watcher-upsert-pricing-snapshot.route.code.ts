@@ -1,4 +1,4 @@
-import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
+import { answerPricingPost } from "akasha/temper/web/pricing-post-answer/pricing-post-answer.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 type RequestBody = {
@@ -26,23 +26,6 @@ function isRequestBody(v: unknown): v is RequestBody {
   )
 }
 
-export async function action({ request }: { request: Request }): Promise<Response> {
-  let body: unknown
-  try {
-    body = await request.json()
-  } catch {
-    return Response.json({ error: "Invalid JSON body" }, { status: 400 })
-  }
-
-  if (!isRequestBody(body)) {
-    return Response.json({ error: "Malformed request body" }, { status: 400 })
-  }
-
-  const { wtToken } = body
-  const validated = await validateWatcherToken(wtToken)
-  if (!validated) {
-    return Response.json({ error: "Invalid or expired watcher token" }, { status: 401 })
-  }
-
-  return Response.json({ error: "pricing-pipeline-retired" }, { status: 410 })
+export function action({ request }: { request: Request }): Promise<Response> {
+  return answerPricingPost(request, isRequestBody)
 }

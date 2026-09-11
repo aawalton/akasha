@@ -223,6 +223,7 @@ export const temperWeb = {
     "module/recipes-progress-panel-card",
     "module/resource-loader-args-test-utils",
     "module/restore-confirm-dialog",
+    "module/pricing-post-answer",
     "module/scribing-knowledge-progress-panel-card",
     "module/scribing-panel-card",
     "module/scribing-selection-dialog",
