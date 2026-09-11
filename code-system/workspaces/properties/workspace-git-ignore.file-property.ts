@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type WorkspaceGitIgnore = "gitignore"
-
 export const workspaceGitIgnore = {
   id: "01a06cd1-f991-7376-802f-680c3c54dfa8",
   pageTypeSlug: "file-property",
@@ -11,4 +9,5 @@ export const workspaceGitIgnore = {
   definition: "the paths git keeps untracked",
   extensions: ["gitignore"],
   fileName: ".gitignore",
+  types: "ts",
 } as const satisfies FileProperty

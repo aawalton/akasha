@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type TypescriptBuildInfo = "tsbuildinfo"
-
 export const typescriptBuildInfo = {
   id: "01a06dd5-7342-74de-8e60-7a85c3deef6e",
   pageTypeSlug: "file-property",
@@ -42,4 +40,5 @@ export const typescriptBuildInfo = {
       statement: "This file has no record of the files a change reached.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

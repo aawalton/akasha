@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type TestPreload = "toml"
-
 export const testPreload = {
   id: "01a081a7-94db-7f89-b28d-d6b14b0058eb",
   pageTypeSlug: "file-property",
@@ -12,4 +10,5 @@ export const testPreload = {
   extensions: ["toml"],
   fileName: "bunfig.toml",
   toolResolvesPaths: true,
+  types: "ts",
 } as const satisfies FileProperty

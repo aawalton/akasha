@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type DockerIgnore = "dockerignore"
-
 export const dockerIgnore = {
   id: "01a06cd1-f990-7f38-95fd-d574435778e7",
   pageTypeSlug: "file-property",
@@ -11,4 +9,5 @@ export const dockerIgnore = {
   definition: "the paths a container build leaves out",
   extensions: ["dockerignore"],
   fileName: ".dockerignore",
+  types: "ts",
 } as const satisfies FileProperty

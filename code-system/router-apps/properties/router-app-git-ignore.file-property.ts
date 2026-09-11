@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type RouterAppGitIgnore = "gitignore"
-
 export const routerAppGitIgnore = {
   id: "01a081a4-e893-7a14-b7ba-c4f6c5977a3b",
   pageTypeSlug: "file-property",
@@ -11,4 +9,5 @@ export const routerAppGitIgnore = {
   definition: "what a build and an install leave behind that git does not keep",
   extensions: ["gitignore"],
   fileName: ".gitignore",
+  types: "ts",
 } as const satisfies FileProperty

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type BiomeConfig = "json"
-
 export const biomeConfig = {
   id: "01a06cd1-f98f-7d46-aecf-f86e2e853c03",
   pageTypeSlug: "file-property",
@@ -12,4 +10,5 @@ export const biomeConfig = {
   extensions: ["json"],
   fileName: "biome.json",
   toolResolvesPaths: true,
+  types: "ts",
 } as const satisfies FileProperty

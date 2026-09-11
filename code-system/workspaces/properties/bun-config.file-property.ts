@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type BunConfig = "toml"
-
 export const bunConfig = {
   id: "01a06cd1-f990-70ec-8845-8d5a86c0e992",
   pageTypeSlug: "file-property",
@@ -12,4 +10,5 @@ export const bunConfig = {
   extensions: ["toml"],
   fileName: "bunfig.toml",
   toolResolvesPaths: true,
+  types: "ts",
 } as const satisfies FileProperty
