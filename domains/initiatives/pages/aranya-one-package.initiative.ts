@@ -29,10 +29,5 @@ export const aranyaOnePackage = {
       workingMemory:
         "Three manifests are left, all ios-apps, waiting on the mac build installing at the root. ops-extension and vscode-typings are both gone: the editor link points at the repository root and reads the root manifest as vscode.akasha, and the ambient editor api is reached by the extension's own tsconfig rather than by a package name, which typechecks clean over the whole extension. linked-at moved to domain, so the root page states where the editor reaches it.\n",
     },
-    {
-      statement: "A cluster service deploys naming no package but the root.",
-      workingMemory:
-        "Measured by writing both bun-service Dockerfiles: the only lines naming a package are the `COPY <dir>/package.json` ones for ops-extension, vscode-typings and the three ios-apps, emitted from listWorkspaceDirs so bun install --frozen-lockfile finds every member. Every other line is a path: collectExecutedDeps resolves akasha/ by path since 3207c923332 and emits a folder copy each, so it never empties. The four tool-images take no dirs and already name only the root.\n",
-    },
   ],
 } as const satisfies Initiative
