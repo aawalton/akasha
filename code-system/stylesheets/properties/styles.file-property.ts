@@ -8,10 +8,19 @@ export const styles = {
   propertySlug: "styles",
   definition: "the rules a browser dresses a thing by",
   extensions: ["css"],
+  toolResolvesPaths: true,
   invariants: [
     {
       invariantKind: "departure",
       statement: "Rules are written in CSS.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path in a stylesheet is a specifier a bundler resolves rather than a place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change moving what such a specifier reaches repoints that specifier.",
     },
   ],
   types: "ts",
