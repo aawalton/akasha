@@ -14,7 +14,7 @@ import {
   stopsOnSignal,
 } from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 
-async function main(): Promise<void> {
+export async function runSurplusFallNotifying(): Promise<void> {
   const ac = stopsOnSignal()
 
   console.log(
@@ -43,7 +43,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  runSurplusFallNotifying().catch((err) => {
     console.error(`${LOG} fatal:`, err)
     process.exit(1)
   })
