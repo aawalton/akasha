@@ -270,6 +270,29 @@ test("a key the page's type declares no property for is refused and names the li
   expect(said.refused ?? "").toContain(line)
 })
 
+test("a slug the page's type declares a key for is refused by naming that key", async () => {
+  const line = `${ONE} transcript-path /one.jsonl`
+  const world = worldSaying([{ key: "transcriptPath", many: false }], () => undefined)
+
+  const said = await runChange(world, { added: `${line}\n` })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(
+    "`transcript-path` is a slug, and `module` declares that property under the key " +
+      "`transcriptPath`. Name the key"
+  )
+  expect(said.refused ?? "").toContain(line)
+})
+
+test("a slug the page's type declares no key for is refused as no property", async () => {
+  const world = worldSaying([{ key: "transcriptPath", many: false }], () => undefined)
+
+  const said = await runChange(world, { added: `${ONE} no-such-thing one\n` })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`no-such-thing` is no property `module` declares")
+})
+
 test("each value is left to the change reached at its address", async () => {
   const reached: string[] = []
   const root = repo()

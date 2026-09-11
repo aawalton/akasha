@@ -107,6 +107,11 @@ export const addPropertyValues = {
       invariantKind: "departure",
       statement: "A property holding a boolean or a number is handed on as holding it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal over a slug the page's type declares a key for names the key to write instead.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent

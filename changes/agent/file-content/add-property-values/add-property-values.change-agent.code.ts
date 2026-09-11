@@ -7,6 +7,7 @@ import {
   holdsIn,
   readFor,
   singleIn,
+  spelledIn,
   targetsIn,
   typeIn,
 } from "../../../modules/page-knowing/page-knowing.module.code.ts"
@@ -63,6 +64,11 @@ function putIn(world: World, one: Line): Put {
   if ("refused" in read) return { refused: read.refused }
   const stated = typeIn(read.value)
   if (stated !== null && declaresIn(world, read.value, one.key) === false) {
+    const named = spelledIn(world, read.value, one.key)
+    if (named !== null) {
+      const under = `declares that property under the key \`${named}\``
+      return { refused: `\`${one.key}\` is a slug, and \`${stated}\` ${under}. Name the key` }
+    }
     return { refused: `\`${one.key}\` is no property \`${stated}\` declares, and ${INSIDE}` }
   }
   const targets = targetsIn(read.known, read.value, one.key)
