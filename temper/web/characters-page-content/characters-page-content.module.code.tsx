@@ -19,15 +19,14 @@ import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigati
 import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
+import { isValidTab, type TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
 import { CharactersDataContent } from "../characters-data-content/characters-data-content.module.code.tsx"
 import {
   type FilterValues,
   isValidClass,
   isValidRole,
   isValidSortField,
-  isValidTab,
   type SortField,
-  type TabValue,
 } from "../characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "../new-character-button/new-character-button.module.code.tsx"
 
@@ -100,8 +99,6 @@ export function CharactersPageContent({
 
   const { tab } = values
 
-  const handleTabChange = (value: TabValue) => update({ tab: value })
-
   return (
     <PageLayout skeleton={listPageSkeleton({ titleWidth: 112, initialTab })}>
       <PageLayout.Header>
@@ -122,7 +119,7 @@ export function CharactersPageContent({
         <Tabs
           value={tab}
           onValueChange={(v) => {
-            if (isValidTab(v)) handleTabChange(v)
+            if (isValidTab(v)) update({ tab: v })
           }}
         >
           <TabsList className="grid h-18 w-full grid-cols-4 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">

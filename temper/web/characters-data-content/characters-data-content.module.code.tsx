@@ -28,6 +28,7 @@ import { useCompletionCharactersByUser } from "akasha/temper/player-completion-u
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
 import {
   BuildsBrowseTab,
   type DecodedBuild,
@@ -38,7 +39,6 @@ import {
   type FilterValues,
   type SortField,
   TAB_LABELS,
-  type TabValue,
 } from "../characters-filter-types/characters-filter-types.module.code.ts"
 import { PlanTab, usePlanEntities } from "../plan-tab/plan-tab.module.code.tsx"
 

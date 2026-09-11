@@ -11,8 +11,7 @@ import {
 } from "../../character-sources/character-roles/character-roles.module.code.ts"
 import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import { type RaceId, races } from "../../races/races/races.module.code.ts"
-
-export type TabValue = "plan" | "build" | "browse" | "leaderboard"
+import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
 
 export type SortField = "updated" | "name"
 
@@ -49,10 +48,6 @@ export const SORT_OPTIONS: SortOption<SortField>[] = [
 
 export const getClassName = (classId: ClassId) => classes.data[classId].name
 export const getRaceName = (raceId: RaceId) => races.data[raceId].name
-
-export function isValidTab(value: unknown): value is TabValue {
-  return value === "plan" || value === "build" || value === "browse" || value === "leaderboard"
-}
 
 export function isValidSortField(value: unknown): value is SortField {
   return value === "updated" || value === "name"

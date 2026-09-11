@@ -13,16 +13,11 @@ import {
   type TargetArmorId,
   targetArmor,
 } from "../../character-sources/target-armors/target-armors.module.code.ts"
+import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "../companions-filter-bar/companions-filter-bar.module.code.tsx"
-
-export type TabValue = "plan" | "build" | "browse" | "leaderboard"
 
 export function isValidGearOwnership(value: unknown): value is "owned" | "unowned" {
   return value === "owned" || value === "unowned"
-}
-
-export function isValidTab(value: unknown): value is TabValue {
-  return value === "plan" || value === "build" || value === "browse" || value === "leaderboard"
 }
 
 export const BASE_ROLES = companionBaseRoles.ids

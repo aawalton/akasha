@@ -320,5 +320,6 @@ export const temperWeb = {
     "module/general-panel",
     "module/version-history-dialog",
     "app-routes/temper-web-routes",
+    "module/build-page-tab",
   ],
 } as const satisfies RouterApp

@@ -15,13 +15,13 @@ import type { CharacterState } from "akasha/temper/character-build/build-types/b
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"
 import { getRoleName } from "../../character-sources/character-roles/character-roles.module.code.ts"
+import type { TabValue } from "../build-page-tab/build-page-tab.module.code.ts"
 import { CharacterListCardWithHandle } from "../character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
 import {
   type FilterValues,
   getClassName,
   getRaceName,
   isValidRole,
-  type TabValue,
 } from "../characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "../new-character-button/new-character-button.module.code.tsx"
 import { NewCharacterPanelCard } from "../new-character-panel-card/new-character-panel-card.module.code.tsx"
