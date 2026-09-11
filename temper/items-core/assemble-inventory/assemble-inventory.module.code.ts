@@ -1,9 +1,6 @@
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { z } from "zod"
-
-function readString(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
 
 function readNumber(value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined
@@ -22,7 +19,7 @@ export function assembleInventory(
     const bi = readNumber(b.chunkIndex) ?? 0
     return ai - bi
   })
-  const combined = ordered.map((c) => readString(c.data) ?? "").join("")
+  const combined = ordered.map((c) => stringIn(c.data) ?? "").join("")
   try {
     return INVENTORY_DATABASE_SCHEMA.parse(JSON.parse(combined))
   } catch {

@@ -6,6 +6,7 @@ import { assembleInventory } from "akasha/temper/items-core/assemble-inventory/a
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { chunksStillLoading } from "akasha/temper/player-inventory-management-ui/chunks-loading/chunks-loading.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { useMemo } from "react"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
@@ -18,18 +19,14 @@ interface InventorySnapshotRow {
   chunkCount: number
 }
 
-function readString(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
-
 function readNumber(value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined
 }
 
 function mapSnapshotRow(row: Record<string, unknown>): InventorySnapshotRow {
   return {
-    id: readString(row.id) ?? "",
-    capturedAt: readString(row.capturedAt) ?? "",
+    id: stringIn(row.id) ?? "",
+    capturedAt: stringIn(row.capturedAt) ?? "",
     totalValue: readNumber(row.totalValue) ?? 0,
     chunkCount: readNumber(row.chunkCount) ?? 0,
   }
