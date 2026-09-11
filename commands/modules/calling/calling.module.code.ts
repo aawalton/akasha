@@ -96,6 +96,12 @@ const COMMAND = "command"
 
 export const ROOTED = "index refresh"
 
+const ROOTED_WORDS = ROOTED.split(" ")
+
+export function refreshNamed(argv: readonly string[]): boolean {
+  return ROOTED_WORDS.every((one, at) => argv[at] === one)
+}
+
 const loadFrom = createRequire(import.meta.url)
 
 export function answering(
@@ -239,20 +245,12 @@ function refusing(said: string): Answer {
   return { report: [], refusals: [said], code: 1 }
 }
 
-function repairedIn(root: string, outside: Outside): string {
-  const answer = indexRefresh([], { ...outside, root })
-  if (answer.code !== 0) {
-    return `The index could not be built again — ${answer.refusals.join("; ")}`
-  }
-  return `The index was built again — ${answer.report.join("; ")}. Say the call again.`
-}
-
 export function unreadIn(root: string, outside: Outside): string | null {
   const at = indexNamed()
   const saying = (opened: string): string =>
-    `${opened} Every command is found through the index, ` +
-    `\`${outside.calledAs} ${ROOTED}\` among them, so none is found without one. ` +
-    `${repairedIn(root, outside)}`
+    `${opened} Every command is found through the index, so none is read without one. ` +
+    `Say \`${outside.calledAs} ${ROOTED}\`, which is answered without the index, ` +
+    `and then say the call again.`
   if (!indexThere(root)) {
     return saying(`No index is at \`${at}\`, so no command was read.`)
   }
@@ -376,10 +374,13 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   const root = resolve(outside.root)
   const named = argv[0]
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)
-  const carried = (saying: (unread: string | null) => string): Answer => {
+  const unread = unreadIn(root, outside)
+  if (unread !== null && refreshNamed(argv)) {
+    return indexRefresh(argv.slice(ROOTED_WORDS.length), { ...outside, root })
+  }
+  const carried = (saying: () => string): Answer => {
     const every = commandsIn(root)
-    const unread = unreadIn(root, outside)
-    const held = [saying(unread)]
+    const held = [saying()]
     if (unread !== null) held.push(unread)
     if (every.length > 0) {
       held.push(
@@ -399,7 +400,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     const listing =
       under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
     if (listing !== null) return { report: listing, refusals: [], code: 0 }
-    return carried((unread) =>
+    return carried(() =>
       unread === null
         ? `\`${named}\` is no command akasha carries.`
         : `\`${named}\` was looked for and not read.`

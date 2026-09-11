@@ -243,32 +243,31 @@ test("a file at the path the bootstrap loaded is listed among no commands", asyn
   expect(said.report).not.toContain("  akasha index")
 })
 
-test("`index` with no index at all is refused rather than found by its path", async () => {
+test("`index refresh` with no index at all is answered without the index", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   bootstrapped(root)
   rmSync(join(root, ".git"), { recursive: true })
   const said = await calling(["index", "refresh"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("was looked for and not read")
+  expect(said.refusals[0]).toContain("so there is no index to build")
+  expect(said.refusals.join(" ")).not.toContain("was looked for and not read")
 })
 
-test("a name looked for where no index is answers as unread and builds the index again", async () => {
+test("a name looked for where no index is answers as unread", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   rmSync(join(root, ".git"), { recursive: true })
   const said = await calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("was looked for and not read")
   expect(said.refusals[0]).not.toContain("is no command akasha carries")
-  expect(said.refusals[0]).not.toContain("is found without the index")
   expect(said.refusals[0]).not.toContain("bun -e ")
 })
 
-test("a repair the scratch root refuses is said with the reason the repair gave", async () => {
+test("a name looked for where no index is builds nothing and names the call that would", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   rmSync(join(root, ".git"), { recursive: true })
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.refusals[0]).toContain("The index could not be built again")
-  expect(said.refusals[0]).toContain("so there is no index to build")
+  expect(said.refusals[0]).toContain("Say `akasha index refresh`")
+  expect(said.refusals[0]).not.toContain("built again")
 })
 
 test("the commands there are come from the index", () => {

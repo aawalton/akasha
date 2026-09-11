@@ -39,8 +39,21 @@ export const calling = {
       statement: "The file with a command's code is answered from the page the index names.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "No call here refreshes the index, whatever the index is missing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no command where the index is unusable names the call that builds one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The call that refreshes the index is answered where the index is unusable.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code that refreshes the index is imported rather than named by a path.",
     },
     {
       invariantKind: "departure",
