@@ -1,4 +1,4 @@
-import type { PidSnapshot } from "akasha/infrastructure/memory/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+import type { PidSnapshot } from "akasha/infrastructure/memory/reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 export const KB_PER_GB = 1024 * 1024
 

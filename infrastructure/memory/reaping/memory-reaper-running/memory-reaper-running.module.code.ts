@@ -1,11 +1,11 @@
 import {
   reaperConfigBanner,
   TICK_MS,
-} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-config/memory-reaper-config.module.code.ts"
+} from "akasha/infrastructure/memory/reaping/memory-reaper-config/memory-reaper-config.module.code.ts"
 import {
   type ReaperState,
   runBoundedReaperTick,
-} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-tick/memory-reaper-tick.module.code.ts"
+} from "akasha/infrastructure/memory/reaping/memory-reaper-tick/memory-reaper-tick.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,

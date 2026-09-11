@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { KB_PER_GB } from "akasha/infrastructure/memory/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
-import { snap } from "akasha/infrastructure/memory/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
+import { KB_PER_GB } from "akasha/infrastructure/memory/reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import { snap } from "akasha/infrastructure/memory/reaping/memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
 import {
   planReaperKills,
   seatsInTree,
-} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-plan/memory-reaper-plan.module.code.ts"
+} from "akasha/infrastructure/memory/reaping/memory-reaper-plan/memory-reaper-plan.module.code.ts"
 
 const SEAT_A = "11111111-2222-3333-4444-555555555555"
 const SEAT_B = "66666666-7777-8888-9999-aaaaaaaaaaaa"

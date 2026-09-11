@@ -4,8 +4,8 @@ import {
   assessTreeKills,
   KB_PER_GB,
   selectTopmostSupervisors,
-} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
-import { snap } from "akasha/infrastructure/memory/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
+} from "akasha/infrastructure/memory/reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import { snap } from "akasha/infrastructure/memory/reaping/memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
 
 describe("assessMemoryKill", () => {
   test("kills strictly over the ceiling", () => {

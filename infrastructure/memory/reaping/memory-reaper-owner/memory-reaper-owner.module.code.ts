@@ -1,4 +1,4 @@
-import type { PidSnapshot } from "akasha/infrastructure/memory/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+import type { PidSnapshot } from "akasha/infrastructure/memory/reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export const MAX_OWNER_HOPS = 32
