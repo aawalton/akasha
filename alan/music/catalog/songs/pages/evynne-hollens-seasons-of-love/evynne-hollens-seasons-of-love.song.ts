@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const evynneHollensSeasonsOfLove = {
   id: "019ea4cf-2eb4-79dd-86eb-338d0bc43f03",
-  pageTypeSlug: "song",
   type: "song",
   slug: "evynne-hollens-seasons-of-love",
   title: "Seasons of Love",

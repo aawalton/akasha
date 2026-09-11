@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonThereSANewKidInTown = {
   id: "019ea4b1-86ee-7e0e-9088-69849035eeb4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-there-s-a-new-kid-in-town",
   title: "There's a New Kid in Town",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaAsrepOnosim = {
   id: "019ea4c4-8447-7538-9dd8-67321e80f85e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-asrep-onosim",
   title: "Asrep onosim",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaAngelInYourEyes = {
   id: "019ea4c4-2594-75a2-990c-837b4591c468",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-angel-in-your-eyes",
   title: "Angel in Your Eyes",

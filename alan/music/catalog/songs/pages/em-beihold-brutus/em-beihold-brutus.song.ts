@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdBrutus = {
   id: "019ea4df-8151-7985-82e5-1c24db95ff91",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-brutus",
   title: "Brutus",

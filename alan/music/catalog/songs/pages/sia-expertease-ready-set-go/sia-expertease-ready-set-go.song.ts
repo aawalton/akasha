@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaExperteaseReadySetGo = {
   id: "019ea4c2-98b1-72b0-9d41-07a17d06cf4c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-expertease-ready-set-go",
   title: "Expertease (Ready Set Go)",

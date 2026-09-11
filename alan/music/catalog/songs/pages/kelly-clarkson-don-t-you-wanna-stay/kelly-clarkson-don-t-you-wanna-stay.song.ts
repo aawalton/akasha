@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonDonTYouWannaStay = {
   id: "019ea4ac-ff55-7291-96b1-53e49263ccc1",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-don-t-you-wanna-stay",
   title: "Don’t You Wanna Stay",

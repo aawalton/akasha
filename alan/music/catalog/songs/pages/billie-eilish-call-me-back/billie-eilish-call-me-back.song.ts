@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishCallMeBack = {
   id: "019ea4ac-6365-733d-8be6-dc1a98efed0a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-call-me-back",
   title: "Call Me Back",

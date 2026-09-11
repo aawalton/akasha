@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaEyeOfTheNeedle = {
   id: "019ea4c5-e39e-7b42-9741-4a4d84dbd98b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",

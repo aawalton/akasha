@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishIDidnTChangeMyNumber = {
   id: "019ea4aa-ef04-7405-9aea-8adacc20fc31",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-i-didn-t-change-my-number",
   title: "I Didn’t Change My Number",

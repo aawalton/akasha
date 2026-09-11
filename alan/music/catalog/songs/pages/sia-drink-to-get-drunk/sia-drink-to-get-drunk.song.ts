@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaDrinkToGetDrunk = {
   id: "019ea4c5-1730-7da0-a08b-d6546510ceb4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-drink-to-get-drunk",
   title: "Drink to Get Drunk",

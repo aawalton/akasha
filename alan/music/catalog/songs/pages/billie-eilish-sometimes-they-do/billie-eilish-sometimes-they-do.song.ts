@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishSometimesTheyDo = {
   id: "019ea4a8-6a0c-7e2a-bf85-322da4b0346d",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-sometimes-they-do",
   title: "Sometimes They Do",

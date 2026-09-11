@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishUKnowWhatSUp = {
   id: "019ea4a9-3820-7dc4-b0c1-018f7e83515c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-u-know-what-s-up",
   title: "U Know What’s Up",

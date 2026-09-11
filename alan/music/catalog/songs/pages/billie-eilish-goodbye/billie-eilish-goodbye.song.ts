@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishGoodbye = {
   id: "019ea4a9-e814-7d50-b7b9-1c0aa026891a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-goodbye",
   title: "goodbye",

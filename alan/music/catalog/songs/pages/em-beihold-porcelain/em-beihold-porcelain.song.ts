@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdPorcelain = {
   id: "019ea4df-2743-789c-98d3-addf1962ea20",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-porcelain",
   title: "Porcelain",

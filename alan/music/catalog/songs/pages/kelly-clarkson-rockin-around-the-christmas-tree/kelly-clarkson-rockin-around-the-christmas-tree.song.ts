@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonRockinAroundTheChristmasTree = {
   id: "019ea4b1-7ad9-75d3-a0e1-4e4f5e57cf50",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-rockin-around-the-christmas-tree",
   title: "Rockin’ Around the Christmas Tree",

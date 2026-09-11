@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdSpiderman = {
   id: "019ea4df-10eb-7e94-a868-cadcc4da063e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-spiderman",
   title: "Spiderman",

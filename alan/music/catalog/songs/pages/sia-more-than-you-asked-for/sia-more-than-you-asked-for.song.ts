@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaMoreThanYouAskedFor = {
   id: "019ea4c6-7b7d-7a1d-a58c-e3aed4cdb241",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-more-than-you-asked-for",
   title: "More Than You Asked For",

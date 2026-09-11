@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishLimbo = {
   id: "019ea4ab-a01d-7b2b-aff4-0830ce94195e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-limbo",
   title: "Limbo",

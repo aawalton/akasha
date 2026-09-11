@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdWonTLetGo = {
   id: "019ea4df-6177-70e7-9c82-c6e15f3f5009",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-won-t-let-go",
   title: "Won’t Let Go",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiWhyDidnTYouStopMe = {
   id: "019f0ea6-3f2b-7a90-bafd-e16f37165579",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-why-didn-t-you-stop-me",
   title: "Why Didn’t You Stop Me?",

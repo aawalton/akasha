@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonIDareYou = {
   id: "019ea4ac-bc11-799b-8ecd-758f1983878f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-i-dare-you",
   title: "I Dare You",

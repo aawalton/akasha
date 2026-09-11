@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishMaleFantasy = {
   id: "019ea4a9-0951-7331-addb-f954ef3ccc53",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-male-fantasy",
   title: "Male Fantasy",

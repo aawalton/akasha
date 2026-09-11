@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonIHadADream = {
   id: "019ea4b0-f095-7e36-a8a3-fcd6baba8875",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-i-had-a-dream",
   title: "I Had a Dream",

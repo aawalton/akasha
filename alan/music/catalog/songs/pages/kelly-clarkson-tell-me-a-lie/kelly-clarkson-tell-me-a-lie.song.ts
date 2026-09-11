@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonTellMeALie = {
   id: "019ea4b2-6d5d-7f21-8622-c7bd60c42bd9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-tell-me-a-lie",
   title: "Tell Me a Lie",

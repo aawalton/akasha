@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonFakePlasticTrees = {
   id: "019ea4af-18d6-7494-af58-8ef556ffdbfa",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-fake-plastic-trees",
   title: "Fake Plastic Trees",

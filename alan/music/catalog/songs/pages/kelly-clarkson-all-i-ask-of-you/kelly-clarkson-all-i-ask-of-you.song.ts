@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonAllIAskOfYou = {
   id: "019ea4ae-c6d4-7fa7-9df8-20b4900fa7fd",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-all-i-ask-of-you",
   title: "All I Ask of You",

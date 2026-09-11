@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiShouldVeBeenMe = {
   id: "019f0ea1-5435-7ffa-8e1c-60f3b51149db",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-should-ve-been-me",
   title: "Should’ve Been Me",

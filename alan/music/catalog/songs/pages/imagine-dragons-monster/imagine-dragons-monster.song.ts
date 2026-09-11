@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const imagineDragonsMonster = {
   id: "019ea498-803a-7b01-a1c4-5f3bac269a27",
-  pageTypeSlug: "song",
   type: "song",
   slug: "imagine-dragons-monster",
   title: "Monster",

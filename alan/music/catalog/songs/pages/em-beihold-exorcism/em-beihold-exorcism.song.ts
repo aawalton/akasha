@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdExorcism = {
   id: "019ea4df-9541-7911-977d-6e0cad05815c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-exorcism",
   title: "Exorcism",

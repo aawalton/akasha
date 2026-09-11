@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   id: "019ea4f5-ad97-7807-bd59-8427b29382c8",
-  pageTypeSlug: "song",
   type: "song",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
   title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",

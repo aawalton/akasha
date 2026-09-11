@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonQueenOfTheNight = {
   id: "019ea4b1-b15d-7c45-9792-b528614b7560",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-queen-of-the-night",
   title: "Queen of the Night",

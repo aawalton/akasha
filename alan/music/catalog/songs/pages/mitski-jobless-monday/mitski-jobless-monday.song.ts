@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiJoblessMonday = {
   id: "019f0e9e-d4b8-74bd-ac4a-e6f6634d8a7a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-jobless-monday",
   title: "Jobless Monday",

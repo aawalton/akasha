@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaIForgiveYou = {
   id: "019ea4c9-935c-743f-acf2-2b4ac958c488",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-i-forgive-you",
   title: "I Forgive You",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const evynneHollensAThousandYears = {
   id: "019ea4cf-0d36-7d0b-a473-30436cf374ac",
-  pageTypeSlug: "song",
   type: "song",
   slug: "evynne-hollens-a-thousand-years",
   title: "A Thousand Years",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaHeartOfGlass = {
   id: "019ea4c7-cde8-7820-a4c1-77f666c508ad",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-heart-of-glass",
   title: "Heart of Glass",

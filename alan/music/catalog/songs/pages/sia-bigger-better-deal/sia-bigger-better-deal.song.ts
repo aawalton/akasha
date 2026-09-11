@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaBiggerBetterDeal = {
   id: "019ea4c2-7940-75ce-abbd-b75da78901b9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-bigger-better-deal",
   title: "Bigger Better Deal",

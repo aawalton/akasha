@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishListenBeforeIGo = {
   id: "019ea4a8-718b-74ea-8403-90a0d7925279",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-listen-before-i-go",
   title: "listen before i go",

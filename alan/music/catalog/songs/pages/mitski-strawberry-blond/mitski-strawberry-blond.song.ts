@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiStrawberryBlond = {
   id: "019f0e9f-4c40-74ec-8075-ac8393078c49",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-strawberry-blond",
   title: "Strawberry Blond",

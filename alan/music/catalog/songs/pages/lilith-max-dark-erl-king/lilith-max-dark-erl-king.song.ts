@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const lilithMaxDarkErlKing = {
   id: "019ea4f5-f1c2-7b1f-8e62-27fe1624fd65",
-  pageTypeSlug: "song",
   type: "song",
   slug: "lilith-max-dark-erl-king",
   title: "Dark Erl King",

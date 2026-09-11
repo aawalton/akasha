@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdTooPrecious = {
   id: "019ea4df-2166-7dfe-80f5-e1bbf7b2905b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-too-precious",
   title: "Too Precious",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonPieceByPiece = {
   id: "019ea4b1-5ac5-719f-828b-19e502142596",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-piece-by-piece",
   title: "Piece by Piece",

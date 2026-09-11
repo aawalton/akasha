@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const jessicaBaioFerrari = {
   id: "019ea4f7-81f0-73bf-8f8f-c378119edcd6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "jessica-baio-ferrari",
   title: "ferrari",

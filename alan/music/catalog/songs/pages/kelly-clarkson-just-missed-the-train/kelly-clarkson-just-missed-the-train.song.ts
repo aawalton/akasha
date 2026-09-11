@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonJustMissedTheTrain = {
   id: "019ea4ad-59a9-79d4-ae55-dc372baa4745",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-just-missed-the-train",
   title: "Just Missed the Train",

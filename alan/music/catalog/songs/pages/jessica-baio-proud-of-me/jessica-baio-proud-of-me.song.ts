@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const jessicaBaioProudOfMe = {
   id: "019ea4f8-8c34-7d2d-83de-f03575331b9a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "jessica-baio-proud-of-me",
   title: "proud of me",

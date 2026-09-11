@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiTheOnlyHeartbreaker = {
   id: "019f0e9f-ed2e-77f6-8b23-292a33653ab8",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-the-only-heartbreaker",
   title: "The Only Heartbreaker",

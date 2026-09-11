@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishBirdsOfAFeather = {
   id: "019ea4a9-b01b-7ced-8184-b9c4eeaf675c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-birds-of-a-feather",
   title: "BIRDS OF A FEATHER",

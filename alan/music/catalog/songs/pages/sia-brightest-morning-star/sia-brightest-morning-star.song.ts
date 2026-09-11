@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaBrightestMorningStar = {
   id: "019ea4c3-dc12-74a1-97d1-6b9d4dd667e6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-brightest-morning-star",
   title: "Brightest Morning Star",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const lilithMaxChampagneCigarettes = {
   id: "019ea4f5-b5f6-7302-a813-da0bfd11a0cc",
-  pageTypeSlug: "song",
   type: "song",
   slug: "lilith-max-champagne-cigarettes",
   title: "Champagne & Cigarettes",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonIDRatherGoBlind = {
   id: "019ea4af-a27a-795b-8bdd-bc70e8e142b4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-i-d-rather-go-blind",
   title: "I’d Rather Go Blind",

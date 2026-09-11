@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiDrunkWalkHome = {
   id: "019f0ea4-4fcf-706f-a78b-bc2fd3c9570e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-drunk-walk-home",
   title: "Drunk Walk Home",

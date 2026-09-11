@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const lilithMaxMaidenSNight = {
   id: "019ea4f6-18f1-7b3a-935b-261622cc6ab2",
-  pageTypeSlug: "song",
   type: "song",
   slug: "lilith-max-maiden-s-night",
   title: "Maiden's Night",

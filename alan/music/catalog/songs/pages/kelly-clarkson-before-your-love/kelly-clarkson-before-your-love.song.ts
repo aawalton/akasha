@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonBeforeYourLove = {
   id: "019ea4ad-a5c4-7aba-ab66-fba674366279",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-before-your-love",
   title: "Before Your Love",

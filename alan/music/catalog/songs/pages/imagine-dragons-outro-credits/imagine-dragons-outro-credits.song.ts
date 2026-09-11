@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const imagineDragonsOutroCredits = {
   id: "019ea497-e80b-778d-afda-b8b5ebbc109b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "imagine-dragons-outro-credits",
   title: "Outro / Credits",

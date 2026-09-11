@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const imagineDragonsChaChingTillWeGrowOlder = {
   id: "019ea498-3476-7d34-b2c1-4c92e1b56a40",
-  pageTypeSlug: "song",
   type: "song",
   slug: "imagine-dragons-cha-ching-till-we-grow-older",
   title: "Cha‐Ching (Till We Grow Older)",

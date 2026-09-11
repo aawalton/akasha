@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const jessicaBaioGhost = {
   id: "019ea4f7-89c9-7e61-9823-ef3f0d53ef2d",
-  pageTypeSlug: "song",
   type: "song",
   slug: "jessica-baio-ghost",
   title: "ghost",

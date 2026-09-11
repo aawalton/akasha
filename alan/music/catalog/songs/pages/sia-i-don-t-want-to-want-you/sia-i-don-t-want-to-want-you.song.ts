@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaIDonTWantToWantYou = {
   id: "019ea4c7-2431-7e1f-871d-cd72c308c17f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-i-don-t-want-to-want-you",
   title: "I Don’t Want to Want You",

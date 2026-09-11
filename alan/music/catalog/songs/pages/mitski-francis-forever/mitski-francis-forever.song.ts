@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiFrancisForever = {
   id: "019f0e9c-cfe1-72b9-9447-a0bf20be179b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-francis-forever",
   title: "Francis Forever",

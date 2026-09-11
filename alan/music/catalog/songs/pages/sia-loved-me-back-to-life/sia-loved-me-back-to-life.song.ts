@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaLovedMeBackToLife = {
   id: "019ea4c9-8641-77fd-889e-4a98d162f251",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-loved-me-back-to-life",
   title: "Loved Me Back to Life",

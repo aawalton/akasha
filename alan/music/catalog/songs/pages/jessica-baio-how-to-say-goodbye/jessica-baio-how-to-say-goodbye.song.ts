@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const jessicaBaioHowToSayGoodbye = {
   id: "019ea4f7-c143-7537-bd9f-c09b40b4f1e9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "jessica-baio-how-to-say-goodbye",
   title: "How To Say Goodbye",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonJingleBellRock = {
   id: "019ea4af-888e-75db-8cb4-e8ed200601c2",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-jingle-bell-rock",
   title: "Jingle Bell Rock",

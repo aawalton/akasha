@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaChandelier = {
   id: "019ea4c4-f9e0-7306-8c74-4dd8eca30736",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-chandelier",
   title: "Chandelier",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const lilithMaxStardust = {
   id: "019ea4f6-572a-7d87-93a7-b0a3f19dc4b8",
-  pageTypeSlug: "song",
   type: "song",
   slug: "lilith-max-stardust",
   title: "Stardust",

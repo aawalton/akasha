@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishLAmourDeMaVie = {
   id: "019ea4aa-988c-7ed0-85ca-8055a34ac8b2",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-l-amour-de-ma-vie",
   title: "L’AMOUR DE MA VIE",

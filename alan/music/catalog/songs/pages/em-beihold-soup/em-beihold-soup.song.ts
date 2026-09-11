@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdSoup = {
   id: "019ea4df-c90b-799e-afa4-989200b96705",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-soup",
   title: "Soup!",

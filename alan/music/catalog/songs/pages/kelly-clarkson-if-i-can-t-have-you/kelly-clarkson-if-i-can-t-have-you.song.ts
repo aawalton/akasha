@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonIfICanTHaveYou = {
   id: "019ea4b0-aa53-7105-819e-cc3d3385d16c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-if-i-can-t-have-you",
   title: "If I Can't Have You",

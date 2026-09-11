@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonFoolishGames = {
   id: "019ea4af-6185-7a98-a53e-66a56285bd9f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-foolish-games",
   title: "Foolish Games",

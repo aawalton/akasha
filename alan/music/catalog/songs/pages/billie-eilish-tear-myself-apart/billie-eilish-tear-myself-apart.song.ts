@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishTearMyselfApart = {
   id: "019ea4a8-8758-7600-ad44-99048ae68e3c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-tear-myself-apart",
   title: "Tear Myself Apart",

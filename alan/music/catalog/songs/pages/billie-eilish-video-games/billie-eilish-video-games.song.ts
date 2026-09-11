@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishVideoGames = {
   id: "019ea4ab-a7fb-70dd-8ec8-d3f03215b331",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-video-games",
   title: "Video Games",

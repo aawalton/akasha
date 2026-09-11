@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonNeverEnough = {
   id: "019ea4ad-0687-777e-94d5-d5b13d8fbe93",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-never-enough",
   title: "Never Enough",

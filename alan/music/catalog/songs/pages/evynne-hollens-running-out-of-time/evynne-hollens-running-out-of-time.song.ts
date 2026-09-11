@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const evynneHollensRunningOutOfTime = {
   id: "019ea4cf-662e-7139-93b7-4c51c8ee27d6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "evynne-hollens-running-out-of-time",
   title: "Running Out of Time",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaItSTime = {
   id: "019ea4c8-8cf7-723c-9f3c-6a018f1752bc",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-it-s-time",
   title: "It’s Time",

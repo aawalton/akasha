@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonMerryChristmasBaby = {
   id: "019ea4ad-440c-759e-a501-62f05e885008",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-merry-christmas-baby",
   title: "Merry Christmas Baby",

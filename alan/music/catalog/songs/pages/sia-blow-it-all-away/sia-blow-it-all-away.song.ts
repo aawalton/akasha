@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaBlowItAllAway = {
   id: "019ea4c2-ccc9-7f58-98d5-07365e219ee1",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-blow-it-all-away",
   title: "Blow It All Away",

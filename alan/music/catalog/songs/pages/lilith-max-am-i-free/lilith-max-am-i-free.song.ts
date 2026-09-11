@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const lilithMaxAmIFree = {
   id: "019ea4f5-41fb-798c-8cac-3524694ba3aa",
-  pageTypeSlug: "song",
   type: "song",
   slug: "lilith-max-am-i-free",
   title: "Am I Free",

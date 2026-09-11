@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonMrKnowItAll = {
   id: "019ea4ae-d4df-7b25-968d-11b1e5461fc0",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-mr-know-it-all",
   title: "Mr. Know It All",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonChristmasIsnTCanceledJustYou = {
   id: "019ea4ae-b35b-7626-8294-a677fc4f1fad",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you",
   title: "Christmas Isn’t Canceled (Just You)",

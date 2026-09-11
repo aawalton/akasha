@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaBabyItSColdOutside = {
   id: "019ea4b0-07df-704b-9b51-90354da08573",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-baby-it-s-cold-outside",
   title: "Baby, It’s Cold Outside",

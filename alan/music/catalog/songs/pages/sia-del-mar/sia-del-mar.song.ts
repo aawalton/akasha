@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaDelMar = {
   id: "019ea4c3-5605-78cd-a751-041d186d0b13",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-del-mar",
   title: "Del mar",

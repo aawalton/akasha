@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const imagineDragonsItComesBackToYou = {
   id: "019ea496-afee-71ee-822f-dc090e5d3577",
-  pageTypeSlug: "song",
   type: "song",
   slug: "imagine-dragons-it-comes-back-to-you",
   title: "It Comes Back to You",

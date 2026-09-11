@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const evynneHollensAMillionDreams = {
   id: "019ea4cf-1d64-71ff-a353-0be93833703c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "evynne-hollens-a-million-dreams",
   title: "A Million Dreams",

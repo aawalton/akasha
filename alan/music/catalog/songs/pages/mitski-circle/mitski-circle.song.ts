@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiCircle = {
   id: "019f0e9f-3210-7235-b178-54e290e606e7",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-circle",
   title: "Circle",

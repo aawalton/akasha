@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonCanIHaveAKiss = {
   id: "019ea4b0-bb12-707b-89ee-b1eb31d0d6fb",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-can-i-have-a-kiss",
   title: "Can I Have a Kiss",

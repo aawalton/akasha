@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonItSQuietUptown = {
   id: "019ea4ad-33aa-7706-9100-81dad3c01e73",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-it-s-quiet-uptown",
   title: "It’s Quiet Uptown",

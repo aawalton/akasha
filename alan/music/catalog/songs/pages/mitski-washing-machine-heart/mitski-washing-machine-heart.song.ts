@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiWashingMachineHeart = {
   id: "019f0e9e-675f-728a-aae2-3c630f67d53a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-washing-machine-heart",
   title: "Washing Machine Heart",

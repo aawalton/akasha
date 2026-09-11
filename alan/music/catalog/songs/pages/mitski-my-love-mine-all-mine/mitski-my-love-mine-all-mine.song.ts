@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiMyLoveMineAllMine = {
   id: "019f0ea5-f219-747c-a237-26086f06f855",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-my-love-mine-all-mine",
   title: "My Love Mine All Mine",

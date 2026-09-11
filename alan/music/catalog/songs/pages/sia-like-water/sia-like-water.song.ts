@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaLikeWater = {
   id: "019ea4c9-e8a7-7825-ad6f-1fffe8a395e6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-like-water",
   title: "Like Water",

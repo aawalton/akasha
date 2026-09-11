@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const emBeiholdShinyNewThings = {
   id: "019ea4de-f411-73db-926c-aa66772cd863",
-  pageTypeSlug: "song",
   type: "song",
   slug: "em-beihold-shiny-new-things",
   title: "Shiny New Things",

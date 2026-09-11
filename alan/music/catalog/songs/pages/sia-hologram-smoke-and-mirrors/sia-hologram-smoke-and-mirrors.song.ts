@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaHologramSmokeAndMirrors = {
   id: "019ea4c9-d8bc-74a5-b0e4-46fe3f1998bd",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-hologram-smoke-and-mirrors",
   title: "Hologram (Smoke and Mirrors)",

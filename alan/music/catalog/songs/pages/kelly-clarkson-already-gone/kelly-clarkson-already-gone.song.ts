@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonAlreadyGone = {
   id: "019ea4ad-c3d5-7290-a26c-b6b2d61aabc3",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-already-gone",
   title: "Already Gone",

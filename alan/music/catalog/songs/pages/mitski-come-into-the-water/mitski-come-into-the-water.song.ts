@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const mitskiComeIntoTheWater = {
   id: "019f0ea5-271c-7db6-9ce2-71b772ea2cd5",
-  pageTypeSlug: "song",
   type: "song",
   slug: "mitski-come-into-the-water",
   title: "Come Into the Water",

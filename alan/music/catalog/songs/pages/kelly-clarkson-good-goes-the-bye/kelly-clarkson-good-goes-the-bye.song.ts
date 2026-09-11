@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const kellyClarksonGoodGoesTheBye = {
   id: "019ea4af-23ae-7ac8-b3bb-ad19bcce5010",
-  pageTypeSlug: "song",
   type: "song",
   slug: "kelly-clarkson-good-goes-the-bye",
   title: "Good Goes the Bye",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const imagineDragonsHandInMyPocket = {
   id: "019ea499-92fd-7296-85e6-f962f9892593",
-  pageTypeSlug: "song",
   type: "song",
   slug: "imagine-dragons-hand-in-my-pocket",
   title: "Hand in My Pocket",

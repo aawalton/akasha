@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaEyeOfTheNeedleBounceRemix = {
   id: "019ea4c3-390a-70d6-824a-c57b48727798",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-eye-of-the-needle-bounce-remix",
   title: "Eye of the Needle (Bounce remix)",

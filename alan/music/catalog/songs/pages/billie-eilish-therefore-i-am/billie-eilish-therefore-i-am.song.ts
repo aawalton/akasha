@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const billieEilishThereforeIAm = {
   id: "019ea4a8-e5c3-7983-8a74-1e1a4529a345",
-  pageTypeSlug: "song",
   type: "song",
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",

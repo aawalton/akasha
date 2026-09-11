@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaCutToTheChase = {
   id: "019ea4c5-de52-7b77-a2fb-16a5687e1868",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-cut-to-the-chase",
   title: "Cut to the Chase",
