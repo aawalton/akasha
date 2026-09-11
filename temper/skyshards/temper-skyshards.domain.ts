@@ -24,7 +24,6 @@ export const temperSkyshards = {
     "module/skyshards-data-accessors",
     "module/skyshards-global",
     "type-declaration/skyshards-global-declarations",
-    "module/skyshards-logger",
     "module/skyshards-part-1",
     "module/skyshards-part-10",
     "module/skyshards-part-11",
