@@ -36,6 +36,15 @@ export const monarchDomainFiles = {
     },
     {
       invariantKind: "departure",
+      statement: "A page composed names its type from the root rather than by a relative path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The type a page names sits one folder above the folder that page is written into.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Two rows slugging alike are told apart by Monarch's own id rather than by a number.",
     },

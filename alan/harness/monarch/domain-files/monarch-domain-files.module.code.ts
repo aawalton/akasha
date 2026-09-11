@@ -1,3 +1,4 @@
+import { dirname } from "node:path"
 import type {
   MonarchAccount,
   MonarchCategory,
@@ -61,11 +62,17 @@ function stated(key: string, value: unknown): readonly string[] {
   return one.length <= WIDTH ? [one] : [`  ${key}:`, `    ${said},`]
 }
 
-export function pageText(pageTypeSlug: string, value: Readonly<Record<string, unknown>>): string {
+const ROOT = "akasha/"
+
+export function pageText(
+  typesAt: string,
+  pageTypeSlug: string,
+  value: Readonly<Record<string, unknown>>
+): string {
   const slug = String(value.slug)
   const lines = ordered(value).flatMap((key) => stated(key, value[key]))
   return [
-    `import type { ${typedAs(pageTypeSlug)} } from "../${pageTypeSlug}.page-type.types.ts"`,
+    `import type { ${typedAs(pageTypeSlug)} } from "${typesAt}"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     ...lines,
@@ -82,8 +89,14 @@ export interface Wanted {
   readonly definition: string
 }
 
-function minted(pageTypeSlug: string, slug: string, wanted: Wanted, defined: boolean): string {
-  return pageText(pageTypeSlug, {
+function minted(
+  typesAt: string,
+  pageTypeSlug: string,
+  slug: string,
+  wanted: Wanted,
+  defined: boolean
+): string {
+  return pageText(typesAt, pageTypeSlug, {
     id: Bun.randomUUIDv7(),
     pageTypeSlug,
     type: pageTypeSlug,
@@ -113,6 +126,7 @@ export async function landing(
   wanted: readonly Wanted[],
   defined: boolean = true
 ): Promise<Landing> {
+  const typesAt = `${ROOT}${dirname(folder)}/${pageTypeSlug}.page-type.types.ts`
   const byMonarchId = new Map<string, PageFile>()
   const taken = new Set<string>()
   for (const page of already) {
@@ -134,7 +148,7 @@ export async function landing(
       slugs.set(one.monarchId, slug)
       items.push({
         file_path: `${folder}/${namedForType(pageTypeSlug, slug)}`,
-        content: minted(pageTypeSlug, slug, one, defined),
+        content: minted(typesAt, pageTypeSlug, slug, one, defined),
       })
       made.push(slug)
       continue
@@ -147,7 +161,7 @@ export async function landing(
     if (Object.keys(drifted).length === 0) continue
     items.push({
       file_path: page.path,
-      content: pageText(pageTypeSlug, { ...page.value, ...drifted }),
+      content: pageText(typesAt, pageTypeSlug, { ...page.value, ...drifted }),
     })
     moved.push(`${page.slug} (${Object.keys(drifted).join(", ")})`)
   }
