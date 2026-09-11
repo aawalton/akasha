@@ -1,6 +1,9 @@
+import {
+  callHarness,
+  LANDING_TIMEOUT_MS,
+} from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { VIEW_ID } from "akasha/code-system/editor/extension/work-tree-ids/work-tree-ids.module.code.ts"
 import type * as vscode from "vscode"
-import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
-import { VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
 
 export const DRAG_MIME = `application/vnd.code.tree.${VIEW_ID.toLowerCase()}`
 

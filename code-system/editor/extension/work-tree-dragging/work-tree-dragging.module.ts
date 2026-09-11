@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const workTreeDragging = {
   id: "01a081e8-84f4-78f4-89ef-3f3d801114cb",
