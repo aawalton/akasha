@@ -31,6 +31,7 @@ export const alan = {
         "When Alan asks you to pause, pause.",
         "Stop only when every remaining part waits on a required answer.",
         "Asking whether to go on is stopping.",
+        "Asking for an approval a rule requires is not stopping.",
         "Asking which task to do next is stopping.",
         "Saying what you will do next is stopping.",
         "Saying you are worried about time or context is stopping.",
