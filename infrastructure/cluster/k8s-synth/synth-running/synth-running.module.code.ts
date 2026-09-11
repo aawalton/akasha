@@ -1,4 +1,5 @@
 import { synthManifests } from "akasha/infrastructure/cluster/k8s-synth/synth-manifests/synth-manifests.module.code.ts"
+import { flagValue } from "akasha/utils/narrow/flag-value/flag-value.module.code.ts"
 
 const PREFIX = "[k8s-synth]"
 
@@ -11,13 +12,6 @@ export function driftReport(drifts: readonly string[]): string {
     "fix: re-run this with --write and re-commit.",
     "",
   ].join("\n")
-}
-
-export function flagValue(argv: readonly string[], name: string): string | undefined {
-  const at = argv.indexOf(name)
-  if (at === -1) return undefined
-  const value = argv[at + 1]
-  return value === undefined || value.startsWith("--") ? undefined : value
 }
 
 export async function runSynth(argv: readonly string[]): Promise<number> {

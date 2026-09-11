@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type { SecretPage } from "../placing/secret-placing.module.code.ts"
-import { flagValue, flagValues, heldBy, labelsOf, secretYaml } from "./secret-saying.module.code.ts"
+import { flagValues, heldBy, labelsOf, secretYaml } from "./secret-saying.module.code.ts"
 
 function page(slug: string, ...pairs: readonly (readonly [string, string])[]): SecretPage {
   return {
@@ -105,20 +105,6 @@ describe("labelsOf", () => {
 
   test("refuses an entry that is no pair, rather than passing it over", () => {
     expect(() => labelsOf(["a"])).toThrow()
-  })
-})
-
-describe("flagValue", () => {
-  test("reads the word after a flag", () => {
-    expect(flagValue(["--resource", "gotrue-secrets"], "--resource")).toBe("gotrue-secrets")
-  })
-
-  test("a flag followed by another flag names nothing", () => {
-    expect(flagValue(["--resource", "--namespace"], "--resource")).toBeUndefined()
-  })
-
-  test("a flag that is not there names nothing", () => {
-    expect(flagValue(["--namespace", "gotrue"], "--resource")).toBeUndefined()
   })
 })
 

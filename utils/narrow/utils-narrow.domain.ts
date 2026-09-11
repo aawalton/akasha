@@ -25,6 +25,7 @@ export const utilsNarrow = {
     "module/create-data-file",
     "module/delete-record-key",
     "module/escape-reg-exp",
+    "module/flag-value",
     "module/get-subcategory",
     "module/is-json",
     "module/is-object-record",
