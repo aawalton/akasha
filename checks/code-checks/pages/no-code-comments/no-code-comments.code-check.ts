@@ -44,10 +44,6 @@ export const noCodeComments = {
       invariantKind: "constraint",
       statement: "A shebang is trivia the parser takes before any comment.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The code comment forms are read from a page rather than copied into this check.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
