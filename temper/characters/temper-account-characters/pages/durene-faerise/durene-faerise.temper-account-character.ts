@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const dureneFaerise = {
   id: "019dda20-723a-792a-99cc-c642ede18861",
