@@ -56,6 +56,15 @@ export const changeRunning = {
     {
       invariantKind: "departure",
       statement:
+        "A path under the folder git does not track is refused before the change is loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every change is refused that path here rather than each change refusing it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Every other value with a quote or a newline reaches the change as the caller wrote it.",
     },
     {

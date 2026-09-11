@@ -36,7 +36,11 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import {
+  offRepo,
+  pathAt,
+  underGitIn,
+} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import {
   changingOf,
   owedIn,
@@ -160,7 +164,9 @@ export function rootedIn(root: string, given: Arguments): Arguments | string {
   const said = held.trim()
   if (LINE_BREAK.test(said)) return MANY_LINES
   const path = pathAt(root, said)
-  return path === null ? offRepo(said) : { ...given, [AT]: path }
+  if (path === null) return offRepo(said)
+  const under = underGitIn(path)
+  return under === null ? { ...given, [AT]: path } : under
 }
 
 const DRAFT = "draft"

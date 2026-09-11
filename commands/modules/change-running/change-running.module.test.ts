@@ -37,6 +37,7 @@ import {
   PAGE,
   pathsIn,
   piping,
+  presenceIn,
   readingNotText,
   refusedApply,
   removing,
@@ -46,7 +47,6 @@ import {
   saysApply,
   taking,
 } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   NAMER_CODE,
   NAMER_PAGE,
@@ -54,14 +54,6 @@ import {
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
-
-const PRESENCE_AT = "akasha/subagent-presence.module.ts"
-
-const PRESENCE_ID = "01a08f0a-0000-7000-8000-000000000001"
-
-const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
-
-const OWN = "a38f63805f9b94edf"
 
 const ANSWERS_NOTHING: Loading = async () => ({
   run: () => ({ edits: [], refused: null }),
@@ -176,6 +168,16 @@ test("a path outside the repository is refused", async () => {
 
   expect(said.refusals.length).toBe(1)
   expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
+})
+
+test("a path under the folder git does not track is refused, and names the sweep", async () => {
+  const root = repo()
+
+  const said = await removing(root, ".git/data/reads")
+
+  expect(said.refusals.length).toBe(1)
+  expect(said.refusals[0] ?? "").toContain("akasha git sweep")
+  expect(pathsIn(root)).toEqual([])
 })
 
 test("a path handed through a fence loses the newline that fence ends it with", async () => {
@@ -455,9 +457,8 @@ test("a move names the path it leaves and the path it reaches", () => {
 
 test("the refusal opens with the retry and names where to look before it explains", () => {
   const root = repo()
-  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
 
-  const said = noPageSaid(root, `${SEAT_ID}--${OWN}`)
+  const said = noPageSaid(root, presenceIn(root))
 
   expect(said).toContain("Run this same call again")
   expect(said).toContain("nothing was kept and nothing was lost")
@@ -466,9 +467,8 @@ test("the refusal opens with the retry and names where to look before it explain
 
 test("the refusal promises no outcome from waiting and names no call an agent is refused", () => {
   const root = repo()
-  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
 
-  const said = noPageSaid(root, `${SEAT_ID}--${OWN}`)
+  const said = noPageSaid(root, presenceIn(root))
 
   expect(said).toContain("waiting will not mend it")
   expect(said).toContain("nothing may have started it")
@@ -477,7 +477,7 @@ test("the refusal promises no outcome from waiting and names no call an agent is
 
 test("a call naming no agent at all is refused without the retry", () => {
   const root = repo()
-  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
+  presenceIn(root)
 
   expect(noPageSaid(root, null)).not.toContain("Run this same call again")
 })
