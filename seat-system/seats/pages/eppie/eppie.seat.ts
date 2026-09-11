@@ -6,7 +6,7 @@ export const eppie = {
   type: "seat",
   slug: "eppie",
   persona: "eppie",
-  assignmentSlug: "domain/music",
+  assignmentSlug: "initiative/eppie-music-improvements",
   role: "companion",
   person: "alan",
   startMode: "interactive",
