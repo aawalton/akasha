@@ -9,5 +9,5 @@ export type Asked = {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  return (await reach(world, MOVE_FILE_PAGE, { from: given.from, to: given.to })).said
+  return (await reach(world, MOVE_FILE_PAGE, given)).said
 }
