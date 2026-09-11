@@ -20,6 +20,8 @@ export const CHANGE_FROM = "../pages-system/change/change.module.code.ts"
 
 export const JUDGED_FROM = "../checks-system/judging/judging.module.code.ts"
 
+export const SHADOW_AT = "akasha/pages-system/shadow/shadow.module.code.ts"
+
 export const RULE = "syntax-rule"
 
 const MODULE = "module"

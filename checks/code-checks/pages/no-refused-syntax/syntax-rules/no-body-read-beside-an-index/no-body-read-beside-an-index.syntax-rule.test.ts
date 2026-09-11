@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   parsed,
   READERS_FILED,
+  SHADOW_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noBodyReadBesideAnIndex } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
@@ -113,7 +114,7 @@ test("a root beside the index with the reader of page bodies handed in is admitt
 })
 
 test("the same code is judged the same wherever it sits", () => {
-  const one = noBodyReadBesideAnIndex(at("akasha/pages-system/shadow/shadow.module.code.ts", TRIPS))
+  const one = noBodyReadBesideAnIndex(at(SHADOW_AT, TRIPS))
   const two = noBodyReadBesideAnIndex(at("akasha/one/other.module.code.ts", TRIPS))
   expect(one).toEqual(two)
   expect(one).toHaveLength(1)
