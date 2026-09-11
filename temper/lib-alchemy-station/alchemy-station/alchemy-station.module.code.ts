@@ -2,7 +2,7 @@ import type {
   AlchemyDescriptor,
   LasTabData,
   Lib,
-} from "../alchemy-station-types/alchemy-station-types.module.code.ts"
+} from "akasha/temper/lib-alchemy-station/alchemy-station-types/alchemy-station-types.module.code.ts"
 
 export const ALCHEMY_STATION: Lib = {} as Lib
 
