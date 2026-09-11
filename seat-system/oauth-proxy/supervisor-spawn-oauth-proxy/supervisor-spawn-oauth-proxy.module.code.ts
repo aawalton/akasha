@@ -2,6 +2,7 @@ import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
 import { modelGatewayEntrypoint } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import {
   pidsListeningOn,
@@ -30,11 +31,6 @@ const POLL_INTERVAL_MS = 100
 export const HEALTHZ_TIMEOUT_MS = 10_000
 
 const STDERR_LOG = "oauth-proxy.stderr.log"
-
-function assertNever(value: never): never {
-  const rendered = typeof value === "string" ? value : JSON.stringify(value)
-  throw new Error(`assertNever: unhandled variant ${rendered}`)
-}
 
 async function fetchHealthzOk(port: number): Promise<boolean> {
   try {

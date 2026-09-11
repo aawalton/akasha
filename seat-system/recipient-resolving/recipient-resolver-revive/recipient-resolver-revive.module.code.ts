@@ -1,12 +1,8 @@
 import { resumeSeat } from "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
 import type { ReviveVerifySignal } from "akasha/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { RecipientResolverConfig } from "../recipient-resolver-config/recipient-resolver-config.module.code.ts"
-
-function assertNever(value: never): never {
-  const rendered = typeof value === "string" ? value : JSON.stringify(value)
-  throw new Error(`assertNever: unhandled variant ${rendered}`)
-}
 
 const REVIVE_OUTRAN = Symbol("revive-outran-the-timeout")
 

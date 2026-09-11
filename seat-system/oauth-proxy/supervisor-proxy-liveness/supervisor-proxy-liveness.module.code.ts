@@ -2,6 +2,7 @@ import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/mod
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "akasha/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import {
   type OAuthProxyState,
@@ -18,11 +19,6 @@ import {
 } from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
-
-function assertNever(value: never): never {
-  const rendered = typeof value === "string" ? value : JSON.stringify(value)
-  throw new Error(`assertNever: unhandled variant ${rendered}`)
-}
 
 async function fetchHealthzOk(port: number): Promise<boolean> {
   try {
