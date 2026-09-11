@@ -33,6 +33,7 @@ export const utilsNarrow = {
     "module/is-json",
     "module/is-object-record",
     "module/is-record",
+    "module/is-sort-direction",
     "module/join-path",
     "module/json-equal",
     "module/json-schema",

@@ -28,7 +28,6 @@ import {
   isValidRuleLock,
   isValidRuleSortField,
   isValidRuleStatus,
-  isValidSortDirection,
   isValidSortField,
   isValidWeaponTraits,
   type LockStatusFilter,
@@ -38,6 +37,7 @@ import {
 import { InventoryLocationDataContent } from "akasha/temper/player-inventory-management-ui/inventory-location-data-content/inventory-location-data-content.module.code.tsx"
 import { InventoryRulesTab } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab/inventory-rules-tab.module.code.tsx"
 import { InventoryTypeDataContent } from "akasha/temper/player-inventory-management-ui/inventory-type-data-content/inventory-type-data-content.module.code.tsx"
+import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
 import { LayoutList, MapPin, Scale } from "lucide-react"
 import { Suspense } from "react"
 
@@ -131,7 +131,7 @@ export function InventoryPageContent({
         urlParam: "dir",
         defaultValue: "asc" satisfies SortDirection,
         initial: initialDirection,
-        validate: (raw) => (isValidSortDirection(raw) ? raw : undefined),
+        validate: (raw) => (isSortDirection(raw) ? raw : undefined),
         toParam: (v) => (v === "asc" ? null : v),
       },
       qualities: {
@@ -229,7 +229,7 @@ export function InventoryPageContent({
         urlParam: "rdir",
         defaultValue: "asc" satisfies SortDirection,
         initial: initialRuleDir,
-        validate: (raw) => (isValidSortDirection(raw) ? raw : undefined),
+        validate: (raw) => (isSortDirection(raw) ? raw : undefined),
         toParam: (v) => (v === "asc" ? null : v),
       },
     },

@@ -58,10 +58,6 @@ export function isValidSortField(value: unknown): value is SortField {
   return value === "updated" || value === "name"
 }
 
-export function isValidSortDirection(value: unknown): value is SortDirection {
-  return value === "asc" || value === "desc"
-}
-
 export function isValidRole(value: unknown): value is RoleId {
   return typeof value === "string" && value in roles.data
 }

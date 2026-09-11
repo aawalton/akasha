@@ -16,6 +16,7 @@ import {
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 import { CompanionsDataContent } from "../companions-data-content/companions-data-content.module.code.tsx"
@@ -25,7 +26,6 @@ import {
   type FilterValues,
   isValidCompanion,
   isValidRoles,
-  isValidSortDirection,
   isValidSortField,
   isValidTab,
   isValidTargetArmor,
@@ -133,7 +133,7 @@ export function CompanionsPageContent({
         urlParam: "dir",
         defaultValue: "desc" satisfies SortDirection,
         initial: initialSortDirection,
-        validate: (raw) => (isValidSortDirection(raw) ? raw : undefined),
+        validate: (raw) => (isSortDirection(raw) ? raw : undefined),
         toParam: (v: SortDirection) => (v === "desc" ? null : v),
       },
       leaderboardTargetArmor: {

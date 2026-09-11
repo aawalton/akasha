@@ -57,10 +57,6 @@ export function isValidSortField(value: unknown): value is SortField {
   return value === "name" || value === "quality" || value === "count" || value === "value"
 }
 
-export function isValidSortDirection(value: unknown): value is SortDirection {
-  return value === "asc" || value === "desc"
-}
-
 export function isValidQualities(value: unknown): readonly number[] | undefined {
   if (typeof value === "string") {
     if (value === "") return []
