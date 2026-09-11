@@ -69,10 +69,6 @@ export const noColorLiteral = {
       statement:
         "A grant reaches only the file the grant names and only the values the grant names.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A design token value is judged against the color page that value is read from.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
