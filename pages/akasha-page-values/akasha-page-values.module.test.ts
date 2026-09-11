@@ -1,5 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { isAkashaPage, kebabisedRow, valuesOfDeclared } from "./akasha-page-values.module.code.ts"
+import {
+  isAkashaPage,
+  kebabisedRow,
+  valuesOfDeclared,
+} from "akasha/pages/akasha-page-values/akasha-page-values.module.code.ts"
 
 describe("the values an akasha page declares", () => {
   test("a `.ts` page is one and a `.md` page is not", () => {
