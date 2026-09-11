@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const extension = {
   id: "01a063f4-6690-7556-b094-e83b2ecfe46d",
