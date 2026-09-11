@@ -30,5 +30,9 @@ export const alanwaltonHealthAnchoredRead = {
       invariantKind: "constraint",
       statement: "HealthKit's store is shut while the phone is locked.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A shut store and a refused read are told apart by the error code alone.",
+    },
   ],
 } as const satisfies ShellScript
