@@ -45,6 +45,10 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "departure",
+      statement: "A page composed names its type from the root rather than by a relative path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name the account shape refuses is refused before anything is read.",
     },
     {
