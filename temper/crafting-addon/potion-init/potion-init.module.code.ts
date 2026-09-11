@@ -17,6 +17,7 @@ import {
   saveSolventSelection,
   showStationOrTopLevel,
 } from "../potion-window-helpers/potion-window-helpers.module.code.ts"
+import "../potion-controls-ingredients/potion-controls-ingredients.module.code.ts"
 import "../potion-controls-layout/potion-controls-layout.module.code.ts"
 import "../potion-controls/potion-controls.module.code.ts"
 import "../potion-events/potion-events.module.code.ts"

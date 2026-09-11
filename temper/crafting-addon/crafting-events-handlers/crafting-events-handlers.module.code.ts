@@ -1,6 +1,7 @@
 import { blueprintLearned } from "../craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import { characterInitialize } from "../craft-character-panel-init/craft-character-panel-init.module.code.ts"
-import { cookShow, cookShowCategory } from "../craft-cooking/craft-cooking.module.code.ts"
+import { cookShow } from "../craft-cooking/craft-cooking.module.code.ts"
+import { cookShowCategory } from "../craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import { updateBag } from "../craft-inventory/craft-inventory.module.code.ts"
 import { migrateJewelryIdSwap } from "../craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"

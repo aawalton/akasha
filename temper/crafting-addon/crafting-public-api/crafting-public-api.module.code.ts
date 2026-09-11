@@ -6,11 +6,11 @@ import {
 } from "../craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import type { CharacterData } from "../craft-char-init/craft-char-init.module.code.ts"
 import { drawCharacters } from "../craft-character-panel/craft-character-panel.module.code.ts"
+import { cookShowVanilla } from "../craft-cooking/craft-cooking.module.code.ts"
 import {
   cookSearchRecipe,
   cookShowCategory,
-  cookShowVanilla,
-} from "../craft-cooking/craft-cooking.module.code.ts"
+} from "../craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { isItemStoredForTemperCrafting } from "../craft-inventory/craft-inventory.module.code.ts"
 import {
   closeRecipeWindow,
