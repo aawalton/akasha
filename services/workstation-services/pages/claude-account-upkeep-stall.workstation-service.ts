@@ -9,6 +9,13 @@ export const claudeAccountUpkeepStall = {
   runs: [
     "timeout 120 bun agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts --notify",
   ],
+  starts: [
+    {
+      before: ["timeout", "120"],
+      code: "module/account-upkeep-stall-reading",
+      arguments: ["--notify"],
+    },
+  ],
   enabled: true,
   systemd: {
     schedule: "*:0/30",
