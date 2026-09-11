@@ -62,6 +62,22 @@ export const test = {
     },
     {
       invariantKind: "constraint",
+      statement: "A module mock outlives the test file that made it.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Every later importer of a mocked specifier sees the mocking test's values.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A later factory cannot take away a key an earlier one put in.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The failure surfaces in the later file rather than in the file that mocked.",
+    },
+    {
+      invariantKind: "constraint",
       statement: "A `beforeAll` is charged against the same time bound as a test case.",
     },
     {
