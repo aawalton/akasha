@@ -41,7 +41,7 @@ export const noRunOutsideTheRunner = {
     },
     {
       invariantKind: "gap",
-      statement: "A process started asynchronously and read to its end is not seen.",
+      statement: "A process started asynchronously and read to its end is refused.",
     },
   ],
 } as const satisfies SyntaxRule
