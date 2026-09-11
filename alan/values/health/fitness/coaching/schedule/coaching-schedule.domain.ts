@@ -5,4 +5,5 @@ export const coachingSchedule = {
   type: "domain",
   slug: "coaching-schedule",
   definition: "the rotation Alan's training repeats on",
+  parts: ["page-type/coaching-schedule-day"],
 } as const satisfies Domain
