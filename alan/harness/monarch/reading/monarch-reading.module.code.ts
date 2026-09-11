@@ -33,20 +33,27 @@ export function cookieIn(held: Record<string, string | undefined>): string | nul
   return cookie === undefined || cookie === "" ? null : cookie
 }
 
-if (import.meta.main) {
+const COOKIE_ABSENT_STATUS = 2
+
+const TAKING_REFUSED_STATUS = 1
+
+export async function runMonarchReading(): Promise<void> {
   const cookie = cookieIn(process.env)
-  if (cookie === null) {
-    process.stderr.write(`${COOKIE_ABSENT}\n`)
-    process.exit(2)
-  }
+  if (cookie === null) throw new Error(COOKIE_ABSENT)
   const root = shape.string().default(process.cwd()).parse(process.env.AKASHA_ROOT)
+  const unreviewed = await takeReading(root, cookie)
+  process.stdout.write(`${unreviewed} unreviewed, kept beside ${readoutPage(root, READOUT_SLUG)}\n`)
+}
+
+if (import.meta.main) {
   try {
-    const unreviewed = await takeReading(root, cookie)
-    process.stdout.write(
-      `${unreviewed} unreviewed, kept beside ${readoutPage(root, READOUT_SLUG)}\n`
-    )
+    await runMonarchReading()
   } catch (thrown) {
+    if (thrown instanceof Error && thrown.message === COOKIE_ABSENT) {
+      process.stderr.write(`${COOKIE_ABSENT}\n`)
+      process.exit(COOKIE_ABSENT_STATUS)
+    }
     process.stderr.write(`${saidBy(thrown)}\n`)
-    process.exit(1)
+    process.exit(TAKING_REFUSED_STATUS)
   }
 }
