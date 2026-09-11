@@ -4,9 +4,9 @@ import {
   RELAY_PATH,
   relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { loader } from "akasha/smilingjenny/web/routes/jenny-cost/jenny-cost.route.code.ts"
+import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { action } from "../jenny-readout-relay/jenny-readout-relay.route.code.ts"
-import { loader } from "./jenny-cost.route.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()

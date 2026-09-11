@@ -1,10 +1,10 @@
 "use client"
 
-import { useEffect } from "react"
 import {
   getPushNotifications,
   isNativeShell,
-} from "../jenny-capacitor-bridge/jenny-capacitor-bridge.module.code.ts"
+} from "akasha/smilingjenny/web/jenny-capacitor-bridge/jenny-capacitor-bridge.module.code.ts"
+import { useEffect } from "react"
 
 async function postDeviceToken(deviceToken: string): Promise<undefined> {
   try {

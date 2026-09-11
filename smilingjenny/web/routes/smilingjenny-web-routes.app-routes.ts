@@ -1,4 +1,4 @@
-import type { AppRoutes } from "../../../code-system/app-routes/app-routes.page-type.types.ts"
+import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-type.types.ts"
 
 export const smilingjennyWebRoutes = {
   id: "01a08be0-c736-78bf-a742-a76759c4c2a4",

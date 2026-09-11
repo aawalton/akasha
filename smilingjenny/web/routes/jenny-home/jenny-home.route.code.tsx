@@ -1,6 +1,6 @@
+import { requireJenny } from "akasha/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"
+import { Shell } from "akasha/smilingjenny/web/jenny-shell/jenny-shell.module.code.tsx"
 import { data } from "react-router"
-import { requireJenny } from "../../.server/jenny-session/jenny-session.module.code.ts"
-import { Shell } from "../../jenny-shell/jenny-shell.module.code.tsx"
 
 export async function loader({ request }: { request: Request }) {
   const { headers } = await requireJenny(request)

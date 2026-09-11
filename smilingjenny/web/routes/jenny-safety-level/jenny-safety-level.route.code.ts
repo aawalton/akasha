@@ -1,5 +1,5 @@
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
-import { refuseUncredentialedRingCaller } from "../../.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"
+import { refuseUncredentialedRingCaller } from "akasha/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"
 import type { Route } from "./+types/jenny-safety-level.route.code"
 
 const GROUP = "safety"

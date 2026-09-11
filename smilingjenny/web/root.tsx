@@ -1,6 +1,7 @@
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { PushRegistrationSync } from "akasha/smilingjenny/web/jenny-push-registration-sync/jenny-push-registration-sync.module.code.tsx"
 import type React from "react"
 import {
   isRouteErrorResponse,
@@ -12,8 +13,7 @@ import {
   useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
-import { PushRegistrationSync } from "./jenny-push-registration-sync/jenny-push-registration-sync.module.code.tsx"
-import "./look/smilingjenny-web-look.stylesheet.styles.css"
+import "akasha/smilingjenny/web/look/smilingjenny-web-look.stylesheet.styles.css"
 
 export const meta: Route.MetaFunction = () => [
   { title: "Smiling Jenny" },
