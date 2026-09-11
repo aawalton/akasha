@@ -29,9 +29,5 @@ export const noNeverSettlingThrow = {
       invariantKind: "departure",
       statement: "A Promise reached through any object is read as a promise.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A throw of a promise built elsewhere is judged.",
-    },
   ],
 } as const satisfies SyntaxRule
