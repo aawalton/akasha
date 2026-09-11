@@ -1,5 +1,5 @@
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 
 export type PropertyValue = ReadonlyJSONValue | undefined
 

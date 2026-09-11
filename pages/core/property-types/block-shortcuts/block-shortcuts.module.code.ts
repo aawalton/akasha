@@ -1,7 +1,7 @@
 import type {
   HeadingLevel,
   V1BlockType,
-} from "../rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 
 export interface ShortcutMods {
   readonly code: string

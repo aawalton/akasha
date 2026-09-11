@@ -1,7 +1,7 @@
 import type {
   FilterConfig,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 export function textFilterPredicate(config: FilterConfig): (value: PropertyValue) => boolean {
   const filterStr = String(config.value ?? "").toLowerCase()

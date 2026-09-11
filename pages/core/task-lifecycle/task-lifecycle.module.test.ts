@@ -7,7 +7,7 @@ import {
   completionValues,
   readsAsDone,
   uncompletionValues,
-} from "./task-lifecycle.module.code.ts"
+} from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 
 const AT = Date.parse("2026-09-06T22:00:00.000Z")
 

@@ -1,9 +1,9 @@
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import { PROPERTY_TYPE_OPS_REGISTRY } from "../../property-types/registry/registry.module.code.ts"
-import { resolveComputedProperty } from "../../property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "../../property-types/rollup/rollup.module.code.ts"
-import type { FilterableRow } from "../apply-filters/apply-filters.module.code.ts"
-import type { PageResolver } from "../apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/pages/core/property-types/registry/registry.module.code.ts"
+import { resolveComputedProperty } from "akasha/pages/core/property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { FilterableRow } from "akasha/pages/core/view/apply-filters/apply-filters.module.code.ts"
+import type { PageResolver } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 
 export function generateSortAccessors(
   properties: readonly PropertyDefinition[],

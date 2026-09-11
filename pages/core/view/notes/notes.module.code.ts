@@ -1,4 +1,7 @@
-import type { PropertyDefinition, PropertyType } from "../../page-data/page-data.module.code.ts"
+import type {
+  PropertyDefinition,
+  PropertyType,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
 
 export function isNotesEligible(type: PropertyType): boolean {
   return type === "markdown" || type === "rich-document"

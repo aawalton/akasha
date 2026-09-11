@@ -1,8 +1,8 @@
-import * as z from "zod"
 import {
   type LockedFacet,
   lockedFacetSchema,
-} from "../view-data-locked/view-data-locked.module.code.ts"
+} from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
+import * as z from "zod"
 
 export const navConfigSchema = z
   .object({

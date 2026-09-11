@@ -3,7 +3,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 function isPlainObject(value: PropertyValue): value is { readonly [key: string]: PropertyValue } {
   return typeof value === "object" && value !== null && !Array.isArray(value)

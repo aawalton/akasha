@@ -3,7 +3,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 export function getValueArray(value: PropertyValue): readonly string[] {
   if (!Array.isArray(value)) return []

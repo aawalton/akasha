@@ -1,11 +1,11 @@
-import { z } from "zod"
-import type { ViewDataJSON } from "../view-data/view-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
   galleryCardSizeSchema,
   viewFilterSchema,
   viewLayoutSchema,
   viewSortSchema,
-} from "../view-data/view-data.module.code.ts"
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { z } from "zod"
 
 export const listingConfigSchema = z
   .object({

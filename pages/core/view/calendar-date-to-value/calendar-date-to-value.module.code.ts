@@ -1,7 +1,7 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import { instantToMillis } from "../../property-types/instant/instant.module.code.ts"
-import type { PropertyValue } from "../../property-types/property-type-ops/property-type-ops.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { instantToMillis } from "akasha/pages/core/property-types/instant/instant.module.code.ts"
+import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 export function isCalendarKeyablePropertyType(prop: PropertyDefinition): boolean {
   return prop.type === "calendar-date" || prop.type === "instant"

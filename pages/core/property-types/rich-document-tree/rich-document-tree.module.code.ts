@@ -1,4 +1,4 @@
-import type { Block } from "../rich-document/rich-document.module.code.ts"
+import type { Block } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
 
 export type BlockPath = readonly number[]
 

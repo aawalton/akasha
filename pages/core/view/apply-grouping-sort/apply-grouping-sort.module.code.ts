@@ -1,6 +1,6 @@
-import { nullOrderSign } from "../../null-ordering/null-ordering.module.code.ts"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import type { ViewSort } from "../../schema/view-data/view-data.module.code.ts"
+import { nullOrderSign } from "akasha/pages/core/null-ordering/null-ordering.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
   compareGroupLabels,
   effectiveGroupable,
@@ -9,7 +9,7 @@ import {
   type GroupSortOption,
   getOptions,
   type PageResolver,
-} from "../apply-grouping-shared/apply-grouping-shared.module.code.ts"
+} from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 
 export function generateGroupSortOptions(
   groupBy: string,

@@ -3,7 +3,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 

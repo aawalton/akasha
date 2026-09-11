@@ -1,17 +1,20 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { PageDataJSON, PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import {
-  type AggregateFilter,
-  aggregateFilterSchema,
-} from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
-import { matchesAggregateFilter } from "../aggregate-filter/aggregate-filter.module.code.ts"
-import { toNumber } from "../number/number.module.code.ts"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { matchesAggregateFilter } from "akasha/pages/core/property-types/aggregate-filter/aggregate-filter.module.code.ts"
+import { toNumber } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import {
+  type AggregateFilter,
+  aggregateFilterSchema,
+} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export type AggregateFunction = "sum" | "count" | "avg" | "min" | "max" | "first" | "count_distinct"
 

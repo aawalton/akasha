@@ -1,16 +1,16 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import { formulaConfigSchema } from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
-import { BOOLEAN_OPS } from "../boolean/boolean.module.code.ts"
-import { DATE_OPS } from "../date/date.module.code.ts"
-import { textFilterPredicate } from "../filter-utils/filter-utils.module.code.ts"
-import { NUMBER_OPS, toNumber } from "../number/number.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { BOOLEAN_OPS } from "akasha/pages/core/property-types/boolean/boolean.module.code.ts"
+import { DATE_OPS } from "akasha/pages/core/property-types/date/date.module.code.ts"
+import { textFilterPredicate } from "akasha/pages/core/property-types/filter-utils/filter-utils.module.code.ts"
+import { NUMBER_OPS, toNumber } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { formulaConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export const FORMULA_OPS: PropertyTypeOps = {
   validate() {

@@ -1,4 +1,4 @@
-import { formatSmartDate } from "../format-smart-date/format-smart-date.module.code.ts"
+import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
 
 const DATE_MENTION_RE = /@date:(\d{4}-\d{2}-\d{2})/g
 

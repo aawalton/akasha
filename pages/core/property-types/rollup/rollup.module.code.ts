@@ -1,10 +1,13 @@
-import type { PageDataJSON, PropertyDefinition } from "../../page-data/page-data.module.code.ts"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 export interface RollupConfig {
   readonly relationPropertyId: string

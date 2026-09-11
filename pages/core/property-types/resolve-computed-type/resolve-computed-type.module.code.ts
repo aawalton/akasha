@@ -1,18 +1,18 @@
-import type * as z from "zod"
 import {
   type PropertyDefinition,
   type PropertyType,
   readString,
-} from "../../page-data/page-data.module.code.ts"
-import {
-  aggregateConfigSchema,
-  formulaConfigSchema,
-} from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
 import {
   type PageTypePropertiesMap,
   parseRollupConfig,
   type RollupConfig,
-} from "../rollup/rollup.module.code.ts"
+} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import {
+  aggregateConfigSchema,
+  formulaConfigSchema,
+} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type * as z from "zod"
 
 const MAX_ROLLUP_DEPTH = 10
 

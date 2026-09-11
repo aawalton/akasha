@@ -1,13 +1,13 @@
-import * as z from "zod"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
-import { stripLeadingMarker } from "../block-markers/block-markers.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { stripLeadingMarker } from "akasha/pages/core/property-types/block-markers/block-markers.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import * as z from "zod"
 
 export type Block = {
   readonly id?: string

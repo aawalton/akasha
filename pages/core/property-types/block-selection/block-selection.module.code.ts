@@ -1,4 +1,4 @@
-import type { ShortcutMods } from "../block-shortcuts/block-shortcuts.module.code.ts"
+import type { ShortcutMods } from "akasha/pages/core/property-types/block-shortcuts/block-shortcuts.module.code.ts"
 
 export interface BlockSelection {
   readonly anchorId: string

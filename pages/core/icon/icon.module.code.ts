@@ -3,7 +3,7 @@ import {
   ICON_SEARCH_INDEX,
   type IconName,
   PASCAL_TO_KEBAB,
-} from "../generated/icon-search-index/icon-search-index.module.code.ts"
+} from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 
 const FALLBACK_ICON_NAME: IconName = "file-text"
 

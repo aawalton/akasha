@@ -1,11 +1,11 @@
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import type { PageTypePropertiesMap } from "../../property-types/rollup/rollup.module.code.ts"
-import type { ViewConfig } from "../../schema/view-data/view-data.module.code.ts"
-import type { FilterableRow } from "../apply-filters/apply-filters.module.code.ts"
-import { applyFilters } from "../apply-filters/apply-filters.module.code.ts"
-import type { PageResolver } from "../apply-grouping-shared/apply-grouping-shared.module.code.ts"
-import { applySorts } from "../apply-sorts/apply-sorts.module.code.ts"
-import { generateSortAccessors } from "../sort-accessors/sort-accessors.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { ViewConfig } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { FilterableRow } from "akasha/pages/core/view/apply-filters/apply-filters.module.code.ts"
+import { applyFilters } from "akasha/pages/core/view/apply-filters/apply-filters.module.code.ts"
+import type { PageResolver } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import { applySorts } from "akasha/pages/core/view/apply-sorts/apply-sorts.module.code.ts"
+import { generateSortAccessors } from "akasha/pages/core/view/sort-accessors/sort-accessors.module.code.ts"
 
 export function applyView<T extends FilterableRow>(
   items: readonly T[],

@@ -1,12 +1,10 @@
-import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import type { PropertyType } from "../../page-data/page-data.module.code.ts"
-import type { PageCondition } from "../../page-types/page-types.module.code.ts"
+import type { PropertyType } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type {
   RelativeToTodayValue,
   SentinelDateValue,
   SentinelInstantValue,
-} from "../../property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
 import {
   resolveDateSentinel,
   resolveInstantSentinel,
@@ -14,8 +12,10 @@ import {
   resolveRelativeToToday,
   resolveRelativeToTodayInstant,
   resolveSentinelInstantDayRange,
-} from "../../property-types/date-sentinels/date-sentinels.module.code.ts"
-import type { FilterOperator } from "../../property-types/property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 type LooseSentinel = SentinelDateValue & SentinelInstantValue
 

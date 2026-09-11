@@ -1,8 +1,8 @@
-import * as z from "zod"
 import {
   BADGE_ICON_FIELD,
   BADGE_VARIANT_FIELD,
-} from "../badge-display/badge-display.module.code.ts"
+} from "akasha/pages/core/schema/badge-display/badge-display.module.code.ts"
+import * as z from "zod"
 
 export const selectOptionSchema = z.object({
   id: z.string(),

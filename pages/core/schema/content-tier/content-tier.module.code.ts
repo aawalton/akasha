@@ -1,4 +1,4 @@
-import type { PageTypeDataJSON } from "../pages/pages.module.code.ts"
+import type { PageTypeDataJSON } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 
 export const NON_EMPTY_CONTENT_KEYS_ATTR = "nonEmptyContentKeys"
 

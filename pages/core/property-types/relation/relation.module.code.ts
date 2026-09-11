@@ -1,10 +1,10 @@
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export function readTargetPageTypeId(config: unknown): string | undefined {
   if (!isRecord(config)) return undefined

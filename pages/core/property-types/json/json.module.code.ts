@@ -3,7 +3,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 function isEmpty(value: PropertyValue): boolean {
   if (value === null || value === undefined) return true

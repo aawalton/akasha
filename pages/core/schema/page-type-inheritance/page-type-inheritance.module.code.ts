@@ -1,4 +1,4 @@
-import { slugIn } from "../../../address/page-address.module.code.ts"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 
 export interface PageTypeForInheritance {
   readonly _id: string

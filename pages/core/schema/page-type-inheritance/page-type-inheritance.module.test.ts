@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type PageTypeForInheritance,
   resolveDescendantPageTypeIds,
-} from "./page-type-inheritance.module.code.ts"
+} from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
 
 function typed(id: string, slug: string, above: readonly string[]): PageTypeForInheritance {
   return { _id: id, properties: { slug, extendsSlug: above } }

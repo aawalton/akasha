@@ -1,10 +1,10 @@
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { detailConfigSchema } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
+import { listingConfigSchema } from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
+import { mediaConfigSchema } from "akasha/pages/core/schema/media-config/media-config.module.code.ts"
+import { sequenceConfigSchema } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import * as z from "zod"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import { detailConfigSchema } from "../detail-config/detail-config.module.code.ts"
-import { listingConfigSchema } from "../listing-config/listing-config.module.code.ts"
-import { mediaConfigSchema } from "../media-config/media-config.module.code.ts"
-import { sequenceConfigSchema } from "../sequence-config/sequence-config.module.code.ts"
 
 export type ReadonlyJSONValue =
   | string

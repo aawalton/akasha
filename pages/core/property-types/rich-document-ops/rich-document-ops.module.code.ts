@@ -1,16 +1,14 @@
-import { randomId } from "akasha/pages/ids/random-id/random-id.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   healBlockMarker,
   isMarkerType,
   markerFor,
   stripLeadingMarker,
-} from "../block-markers/block-markers.module.code.ts"
+} from "akasha/pages/core/property-types/block-markers/block-markers.module.code.ts"
 import {
   type Block,
   type RichDocument,
   richDocumentSchema,
-} from "../rich-document/rich-document.module.code.ts"
+} from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
 import {
   type BlockPath,
   childrenAtParent,
@@ -20,7 +18,9 @@ import {
   modifySiblings,
   removeAtPath,
   replaceAtPath,
-} from "../rich-document-tree/rich-document-tree.module.code.ts"
+} from "akasha/pages/core/property-types/rich-document-tree/rich-document-tree.module.code.ts"
+import { randomId } from "akasha/pages/ids/random-id/random-id.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export const V1_BLOCK_TYPES = [
   "paragraph",

@@ -1,5 +1,11 @@
-import { type PropertyDefinition, readString } from "../../page-data/page-data.module.code.ts"
-import { type PageTypePropertiesMap, parseRollupConfig } from "../rollup/rollup.module.code.ts"
+import {
+  type PropertyDefinition,
+  readString,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import {
+  type PageTypePropertiesMap,
+  parseRollupConfig,
+} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 
 const MAX_DEPTH = 10
 

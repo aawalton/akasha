@@ -1,11 +1,11 @@
-import * as z from "zod"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import type { ReadonlyJSONValue } from "../pages/pages.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {
   type SelectOption,
   selectConfigSchema,
   selectOptionSchema,
-} from "../property-config-schemas/property-config-schemas.module.code.ts"
+} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import * as z from "zod"
 
 const optionEntriesSchema = z.array(z.unknown())
 

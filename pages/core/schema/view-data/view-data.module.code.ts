@@ -1,13 +1,13 @@
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import * as z from "zod"
-import type { GalleryCardSize } from "../../view/gallery/gallery.module.code.ts"
-import type { ReadonlyJSONValue } from "../pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {
   type GranularLockKey,
   isFacetLocked,
   type LockedFacet,
   lockedFacetSchema,
-} from "../view-data-locked/view-data-locked.module.code.ts"
+} from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
+import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import * as z from "zod"
 
 export const viewLayoutSchema = z.enum([
   "cards",

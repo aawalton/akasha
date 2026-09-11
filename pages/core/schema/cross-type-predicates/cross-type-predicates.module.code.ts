@@ -1,4 +1,7 @@
-import type { ViewFilter, ViewSort } from "../view-data/view-data.module.code.ts"
+import type {
+  ViewFilter,
+  ViewSort,
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 
 export interface CrossTypePredicate {
   key: string

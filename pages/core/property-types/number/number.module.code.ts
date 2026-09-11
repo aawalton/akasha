@@ -1,16 +1,16 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import { parseConfig } from "../../schema/pages/pages.module.code.ts"
-import {
-  type NumberFormat,
-  numberConfigSchema,
-} from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  type NumberFormat,
+  numberConfigSchema,
+} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export function toNumber(value: PropertyValue): number | null {
   if (value === null || value === undefined || value === "") return null

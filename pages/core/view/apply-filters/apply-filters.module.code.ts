@@ -1,11 +1,11 @@
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
-import type { FilterConfig } from "../../property-types/property-type-ops/property-type-ops.module.code.ts"
-import { PROPERTY_TYPE_OPS_REGISTRY } from "../../property-types/registry/registry.module.code.ts"
-import { resolveComputedProperty } from "../../property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "../../property-types/rollup/rollup.module.code.ts"
-import { pageHasNonEmptyContentKey } from "../../schema/content-tier/content-tier.module.code.ts"
-import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
-import type { ViewFilter } from "../../schema/view-data/view-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { FilterConfig } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/pages/core/property-types/registry/registry.module.code.ts"
+import { resolveComputedProperty } from "akasha/pages/core/property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 
 export type FilterableRow = Readonly<Record<string, ReadonlyJSONValue>>
 

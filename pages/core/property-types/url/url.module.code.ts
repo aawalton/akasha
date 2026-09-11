@@ -1,10 +1,10 @@
-import { textFilterPredicate } from "../filter-utils/filter-utils.module.code.ts"
+import { textFilterPredicate } from "akasha/pages/core/property-types/filter-utils/filter-utils.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "../property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 
 function tryHostname(value: PropertyValue): string | null {
   if (value === null || value === undefined) return null

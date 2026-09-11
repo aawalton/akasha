@@ -1,5 +1,8 @@
-import type { PropertyDefinition, PropertyType } from "../../page-data/page-data.module.code.ts"
-import type { FilterableRow } from "../apply-filters/apply-filters.module.code.ts"
+import type {
+  PropertyDefinition,
+  PropertyType,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { FilterableRow } from "akasha/pages/core/view/apply-filters/apply-filters.module.code.ts"
 
 export type SortDirection = "asc" | "desc"
 

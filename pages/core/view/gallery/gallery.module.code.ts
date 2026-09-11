@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 
 export type GalleryCardSize = "small" | "medium" | "large"
 

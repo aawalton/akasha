@@ -1,5 +1,5 @@
+import type { Block } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { Block } from "../rich-document/rich-document.module.code.ts"
 
 export type MarkerBlockType = "bulleted-list-item" | "numbered-list-item" | "to-do" | "toggle"
 

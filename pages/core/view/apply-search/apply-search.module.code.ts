@@ -1,4 +1,4 @@
-import type { FilterableRow } from "../apply-filters/apply-filters.module.code.ts"
+import type { FilterableRow } from "akasha/pages/core/view/apply-filters/apply-filters.module.code.ts"
 
 export function applySearch<T extends FilterableRow>(
   items: readonly T[],

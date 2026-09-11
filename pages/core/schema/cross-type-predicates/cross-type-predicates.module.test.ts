@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   CROSS_TYPE_PREDICATES,
   getCrossTypePredicate,
-} from "./cross-type-predicates.module.code.ts"
+} from "akasha/pages/core/schema/cross-type-predicates/cross-type-predicates.module.code.ts"
 
 test("a predicate is reached by the key a view writes", () => {
   expect(getCrossTypePredicate("favorites")?.filters[0]?.propertyId).toBe("favoritedAt")
