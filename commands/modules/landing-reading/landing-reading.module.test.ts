@@ -128,3 +128,34 @@ test("a path a rename row names is neither carried nor dropped", () => {
   expect(readingIn(root, AGENT, ONE_AT)).not.toBe(null)
   expect(readingIn(root, AGENT, TWO_AT)).not.toBe(null)
 })
+
+test("a rename handed in moves the reading onto the path that body landed at", () => {
+  const root = repoWith({ [ONE_AT]: WAS })
+  const base = baseOf(root)
+  const from = blobIdOf(readFileSync(join(root, ONE_AT)))
+  put(root, TWO_AT, WAS)
+
+  carryLanded(root, base, runningOf(CHECKED), [], [{ was: ONE_AT, now: TWO_AT, from }], NO_OWING)
+
+  expect(readingIn(root, AGENT, ONE_AT)).toBe(null)
+  expect(sameBody(readingIn(root, AGENT, TWO_AT), from)).toBe(true)
+})
+
+test("a rename carries no reading of a body other than the one that moved", () => {
+  const root = repoWith({ [ONE_AT]: WAS })
+  const base = baseOf(root)
+  const other = blobIdOf(new TextEncoder().encode(AGAIN))
+  put(root, TWO_AT, WAS)
+
+  carryLanded(
+    root,
+    base,
+    runningOf(CHECKED),
+    [],
+    [{ was: ONE_AT, now: TWO_AT, from: other }],
+    NO_OWING
+  )
+
+  expect(readingIn(root, AGENT, TWO_AT)).toBe(null)
+  expect(readingIn(root, AGENT, ONE_AT)).not.toBe(null)
+})

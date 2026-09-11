@@ -27,6 +27,7 @@ import { installingIn } from "akasha/commands/modules/manifest-locking/manifest-
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
   blobIdOf,
+  type Carry,
   type Reading,
   readingIn,
   recordRead,
@@ -260,6 +261,16 @@ function recordedAsLanded(
   }
 }
 
+function carriedFrom(root: string, base: string, moves: readonly FileMove[]): readonly Carry[] {
+  const held: Carry[] = []
+  for (const one of moves) {
+    const was = bodyAt(root, base, one.from)
+    if (was === null) continue
+    held.push({ was: one.from, now: one.to, from: blobIdOf(was) })
+  }
+  return held
+}
+
 export async function applied(
   root: string,
   agentId: string | null,
@@ -294,7 +305,8 @@ export async function applied(
     prepared.over
   )
   if ("refusals" in done) return done
-  carryLanded(root, head, running, prepared.changes, [], holding.owed ?? new Map())
+  const carries = carriedFrom(root, head, moving)
+  carryLanded(root, head, running, prepared.changes, carries, holding.owed ?? new Map())
   if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
   const put = installingIn(root, prepared.changes)
   return {

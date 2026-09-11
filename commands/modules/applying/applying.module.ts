@@ -181,7 +181,7 @@ export const applying = {
         "A reading is carried and dropped before the applying agent's own reading is recorded.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A path a move renamed has the reading of the body that path came from.",
     },
     {
