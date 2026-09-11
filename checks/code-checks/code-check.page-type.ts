@@ -76,6 +76,7 @@ export const codeCheck = {
     "code-check/browser-code-reads-the-environment-by-a-name",
     "boolean-property/experimental",
     "code-check/no-relative-specifier",
+    "code-check/index-is-level-with-the-pages",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
