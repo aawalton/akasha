@@ -1,25 +1,25 @@
-import type { GlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
 import {
   asColorTuple,
   asFilterTooltipFn,
   asLmpMapPin,
   asOptionalObject,
   asPinTypeId,
-} from "../map-pins-casts/map-pins-casts.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
 import {
   DEFAULT_ADD_PIN_LEVEL,
   DEFAULT_PIN_TEXTURE,
   DEFAULT_SET_LAYOUT_LEVEL,
-} from "../map-pins-constants/map-pins-constants.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getPinTypeId,
   getPinTypeIdAndString,
-} from "../map-pins-helpers/map-pins-helpers.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-helpers/map-pins-helpers.module.code.ts"
 import type {
   ClickHandler,
   Lib,
   LmpPinManager,
-} from "../map-pins-types/map-pins-types.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
 
 export function addPinType(
   lib: Lib,

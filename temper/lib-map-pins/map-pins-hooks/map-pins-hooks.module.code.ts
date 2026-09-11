@@ -3,10 +3,13 @@ import {
   asGrayscaleFn,
   asHookPin,
   asLmpMapPin,
-} from "../map-pins-casts/map-pins-casts.module.code.ts"
-import { initDebug } from "../map-pins-debug/map-pins-debug.module.code.ts"
-import { LIB } from "../map-pins-lib/map-pins-lib.module.code.ts"
-import { isEnabled, setEnabled } from "../pin-state/pin-state.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
+import { initDebug } from "akasha/temper/lib-map-pins/map-pins-debug/map-pins-debug.module.code.ts"
+import { LIB } from "akasha/temper/lib-map-pins/map-pins-lib/map-pins-lib.module.code.ts"
+import {
+  isEnabled,
+  setEnabled,
+} from "akasha/temper/lib-map-pins/pin-state/pin-state.module.code.ts"
 
 function fixupPool(
   pool: WorldMapFilterControlPool | undefined,

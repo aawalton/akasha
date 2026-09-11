@@ -1,6 +1,6 @@
-import type { TableKey } from "../map-pins-casts/map-pins-casts.module.code.ts"
+import type { TableKey } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
 
-import type { Lib } from "../map-pins-types/map-pins-types.module.code.ts"
+import type { Lib } from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
 
 export function initDebug(lib: Lib): undefined {
   if (LibDebugLogger !== undefined) {

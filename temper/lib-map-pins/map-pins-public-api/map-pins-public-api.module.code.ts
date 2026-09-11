@@ -1,4 +1,4 @@
-import type { GlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
 
 import {
   LIBMAPPINS_AVA_IMPERIAL_MAPGROUP,
@@ -8,8 +8,8 @@ import {
   LIBMAPPINS_PIN_ACTION_GROUP_QUEST,
   LIBMAPPINS_PIN_ACTION_GROUP_RESPAWN,
   LIBMAPPINS_PVE_MAPGROUP,
-} from "../map-pins-constants/map-pins-constants.module.code.ts"
-import { LIB } from "../map-pins-lib/map-pins-lib.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-map-pins/map-pins-lib/map-pins-lib.module.code.ts"
 
 const glob = globalThis as GlobalTable
 

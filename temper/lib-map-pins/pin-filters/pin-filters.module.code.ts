@@ -1,16 +1,19 @@
-import { asFilterPanel } from "../map-pins-casts/map-pins-casts.module.code.ts"
-import { LIBMAPPINS_GLOBAL_MAPGROUP } from "../map-pins-constants/map-pins-constants.module.code.ts"
+import { asFilterPanel } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
+import { LIBMAPPINS_GLOBAL_MAPGROUP } from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getCurrentGamepadMapFilterPanel,
   getPinTypeIdAndString,
-} from "../map-pins-helpers/map-pins-helpers.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-helpers/map-pins-helpers.module.code.ts"
 import type {
   Filter,
   GamepadFilterEntryData,
   GamepadFilterInfo,
   Lib,
-} from "../map-pins-types/map-pins-types.module.code.ts"
-import { isEnabled, setEnabled } from "../pin-state/pin-state.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
+import {
+  isEnabled,
+  setEnabled,
+} from "akasha/temper/lib-map-pins/pin-state/pin-state.module.code.ts"
 
 export function addPinFilter(
   lib: Lib,

@@ -2,7 +2,7 @@ import type {
   GamepadFilterInfo,
   LmpHookPin,
   LmpMapPinClass,
-} from "../map-pins-types/map-pins-types.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
 
 export type GlobalTable = Record<string, unknown>
 

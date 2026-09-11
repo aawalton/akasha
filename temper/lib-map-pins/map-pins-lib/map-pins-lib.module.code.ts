@@ -3,16 +3,27 @@ import {
   LIB_VERSION,
   LIBMAPPINS_GLOBAL_MAPGROUP,
   LIBMAPPINS_PVE_MAPGROUP,
-} from "../map-pins-constants/map-pins-constants.module.code.ts"
-import { dm as dmImpl } from "../map-pins-debug/map-pins-debug.module.code.ts"
-import { getCurrentMapFilterGroup } from "../map-pins-helpers/map-pins-helpers.module.code.ts"
-import type { Lib, LmpPinManager } from "../map-pins-types/map-pins-types.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
+import { dm as dmImpl } from "akasha/temper/lib-map-pins/map-pins-debug/map-pins-debug.module.code.ts"
+import { getCurrentMapFilterGroup } from "akasha/temper/lib-map-pins/map-pins-helpers/map-pins-helpers.module.code.ts"
+import type {
+  Lib,
+  LmpPinManager,
+} from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
 import {
   getZoneAndSubzone,
   myPosition,
-} from "../map-zone-and-subzone/map-zone-and-subzone.module.code.ts"
-import { addPinFilter, setPinFilterHidden } from "../pin-filters/pin-filters.module.code.ts"
-import { disablePin, enablePin, isEnabled, setEnabled } from "../pin-state/pin-state.module.code.ts"
+} from "akasha/temper/lib-map-pins/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"
+import {
+  addPinFilter,
+  setPinFilterHidden,
+} from "akasha/temper/lib-map-pins/pin-filters/pin-filters.module.code.ts"
+import {
+  disablePin,
+  enablePin,
+  isEnabled,
+  setEnabled,
+} from "akasha/temper/lib-map-pins/pin-state/pin-state.module.code.ts"
 import {
   addPinType,
   createPin,
@@ -27,7 +38,7 @@ import {
   setLayoutData,
   setLayoutKey,
   setResizeCallback,
-} from "../pin-types/pin-types.module.code.ts"
+} from "akasha/temper/lib-map-pins/pin-types/pin-types.module.code.ts"
 
 function onMapChanged(this: void): undefined {
   const [mapGroup, filterKey] = getCurrentMapFilterGroup()
