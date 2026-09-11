@@ -16,7 +16,7 @@ export const theaChecksSystem = {
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
-        "16 annotations on 12 workloads, 11 secret-derived: 10 agree with the page, 0 derive. Every manifest hardcodes the secret name and keys and reads no page, so agreement is hand-kept and headscale's checksum/tls already mismatches, over a Secret cert-manager issues. The filling is done: secretChecksum shells to kubectl inside planFor and throws without a cluster. Deriving sits with workload-applying, not web-app-reading, which reaches no cluster. 10 of 26 named secret resources are annotated.",
+        "The value already derives: secretChecksum md5s what kubectl answers at synth, so no number goes stale. headscale's checksum/tls agrees across the live Secret, the generated yaml, the deployed template and the running pod, and never mismatched. What is hardcoded is the secret's name and its keys, and the gap is a page naming them: headscale's two are named now, the other 14 sites unsurveyed. A cert-manager Secret rightly has no page, so the naming sits on the workload.",
     },
     {
       statement: "A check looks for unused code and passes.",
