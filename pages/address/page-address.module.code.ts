@@ -1,19 +1,19 @@
-import type { Filed } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import {
   filedInPage,
   type InPage,
   isInPage,
-} from "../address-kinds/in-page/in-page.page-address-kind.code.ts"
+} from "akasha/pages/address-kinds/in-page/in-page.page-address-kind.code.ts"
 import {
   filedInPageProperty,
   type InPageProperty,
   isInPageProperty,
-} from "../address-kinds/in-page-property/in-page-property.page-address-kind.code.ts"
+} from "akasha/pages/address-kinds/in-page-property/in-page-property.page-address-kind.code.ts"
 import {
   filedInPageType,
   type InPageType,
-} from "../address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
-import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+} from "akasha/pages/address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
+import type { Filed } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export type PageAddress = InPage | InPageType | InPageProperty
 

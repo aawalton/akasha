@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
-import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
-import type { Address } from "./page-address.module.code.ts"
-import { addressedIn, addressIn, namedAs, slugIn } from "./page-address.module.code.ts"
+import type { Address } from "akasha/pages/address/page-address.module.code.ts"
+import {
+  addressedIn,
+  addressIn,
+  namedAs,
+  slugIn,
+} from "akasha/pages/address/page-address.module.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const ID = "01a04b14-4355-7352-9c98-ad67e309f5f6"
 
