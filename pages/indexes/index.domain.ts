@@ -36,6 +36,7 @@ export const index = {
     "module/extension-carrying",
     "module/index-answering",
     "module/tree-reading",
+    "module/file-appending",
   ],
   invariants: [
     {
