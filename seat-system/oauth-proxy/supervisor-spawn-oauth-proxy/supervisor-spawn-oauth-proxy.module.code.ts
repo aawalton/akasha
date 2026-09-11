@@ -32,7 +32,7 @@ export const HEALTHZ_TIMEOUT_MS = 10_000
 
 const STDERR_LOG = "oauth-proxy.stderr.log"
 
-async function fetchHealthzOk(port: number): Promise<boolean> {
+export async function fetchHealthzOk(port: number): Promise<boolean> {
   try {
     const res = await fetch(`http://localhost:${port}/healthz`, {
       signal: AbortSignal.timeout(HEALTHZ_TIMEOUT_MS),

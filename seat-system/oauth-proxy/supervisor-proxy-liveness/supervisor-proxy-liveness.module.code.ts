@@ -13,23 +13,12 @@ import type {
   ProxyLivenessState,
 } from "../supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import {
-  HEALTHZ_TIMEOUT_MS,
+  fetchHealthzOk,
   respawnOAuthProxy,
   type SupervisorOAuthProxyHandle,
 } from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
-
-async function fetchHealthzOk(port: number): Promise<boolean> {
-  try {
-    const res = await fetch(`http://localhost:${port}/healthz`, {
-      signal: AbortSignal.timeout(HEALTHZ_TIMEOUT_MS),
-    })
-    return res.ok
-  } catch {
-    return false
-  }
-}
 
 export function startProxyLivenessMonitor(opts: {
   getProxyHandle: () => SupervisorOAuthProxyHandle | null
