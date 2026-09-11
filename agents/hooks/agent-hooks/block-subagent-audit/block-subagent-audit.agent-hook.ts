@@ -5,7 +5,7 @@ export const blockSubagentAudit = {
   type: "agent-hook",
   slug: "block-subagent-audit",
   definition:
-    "a refusal of an `akasha audit` a subagent calls, the seat that ran it calling it still",
+    "a refusal of an `akasha audit` a subagent narrows, the bare call left through for anyone",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -35,11 +35,21 @@ export const blockSubagentAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "A run narrowed to named checks is refused as a whole run is.",
+      statement: "A run narrowed to named checks is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A run narrowed to named paths is refused as a whole run is.",
+      statement: "A run narrowed to named paths is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run naming no check and no path asks the service, so that run is refused here by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A narrowed run judges where it is called, so several of them at once are several audits.",
     },
     {
       invariantKind: "departure",
