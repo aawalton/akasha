@@ -5,6 +5,7 @@ import {
   alreadyRunning,
   BATCH,
   batchedOf,
+  errorsIn,
   groupedBy,
   judgedAs,
   plain,
@@ -134,6 +135,19 @@ check("a run with a failing test is a failure whatever it exited", () => {
   const output = " 8 pass\n 1 fail\nRan 9 tests across 2 files."
   expect(verdictOf(0, output, 2)).toBe("fail")
   expect(verdictOf(1, output, 2)).toBe("fail")
+})
+
+check("a run whose summary counts an error is a failure whatever it exited", () => {
+  const output = " 0 pass\n 0 fail\n 1 error\nRan 0 tests across 2 files."
+  expect(errorsIn(output)).toBe(1)
+  expect(verdictOf(1, output, 2)).toBe("fail")
+  expect(verdictOf(0, output, 2)).toBe("fail")
+})
+
+check("an error a test printed is no count of errors", () => {
+  const output = " 9 pass\n 0 fail\nerror: refused\nRan 9 tests across 2 files."
+  expect(errorsIn(output)).toBeNull()
+  expect(verdictOf(1, output, 2)).toBe("pass")
 })
 
 check("a run answers what it printed, the summary in it, and the verdict that follows", () => {

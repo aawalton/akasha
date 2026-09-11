@@ -200,6 +200,10 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A run whose summary counts an error is a failure whatever the run exited.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A run reaching fewer files than are under the paths named is short rather than a pass.",
     },

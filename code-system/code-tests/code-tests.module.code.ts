@@ -169,11 +169,17 @@ export function summaryIn(output: string): Summary {
   }
 }
 
+export function errorsIn(output: string): number | null {
+  return totalOf(plain(output), /^\s*(\d+)\s+error\b/gm)
+}
+
 export function verdictOf(code: number, output: string, expected: number): Verdict {
   const said = summaryIn(output)
   if (said.files === null) return "crash"
   if (expected > 0 && said.files < expected) return "short"
   if (said.failed !== null && said.failed > 0) return "fail"
+  const errored = errorsIn(output)
+  if (errored !== null && errored > 0) return "fail"
   if (code === 0) return "pass"
   return said.failed === 0 ? "pass" : "fail"
 }
