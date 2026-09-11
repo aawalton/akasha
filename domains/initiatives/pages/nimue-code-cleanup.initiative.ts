@@ -46,5 +46,6 @@ export const nimueCodeCleanup = {
   ],
   constraints: [
     "The relative addresses reaching into the folder are repointed inside the move rather than by a landing before it.",
+    "Up to twenty agents work at once, each one carrying one migration.",
   ],
 } as const satisfies Initiative
