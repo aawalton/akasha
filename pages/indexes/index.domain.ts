@@ -162,5 +162,9 @@ export const index = {
       invariantKind: "departure",
       statement: "A question answered once over one reading is held rather than worked out again.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A folder under the index that no index page names is taken away by nothing.",
+    },
   ],
 } as const satisfies Domain
