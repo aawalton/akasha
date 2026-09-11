@@ -18,6 +18,7 @@ export const builtImage = {
     "text-property/image-folder",
     "select-property/image-kind",
     "text-property/image-repository",
+    "module-property-group/extending",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -25,6 +26,7 @@ export const builtImage = {
     { pageProperty: "text-property/image-folder", required: true, many: false },
     { pageProperty: "file-property/image-extensions", required: false, many: false },
     { pageProperty: "text-property/image-repository", required: false, many: false },
+    { pageProperty: "module-property-group/extending", required: false, many: false },
   ],
   invariants: [
     {
