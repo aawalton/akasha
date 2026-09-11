@@ -68,5 +68,15 @@ export const monarchLandFiles = {
       statement:
         "The landing is made from inside akasha rather than through anything outside akasha.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "No key is read through `text-at` here, because `raw` indexes a value nested in the row.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`raw` reads a row's nested value, guards that value is an object, then indexes it.",
+    },
   ],
 } as const satisfies Module
