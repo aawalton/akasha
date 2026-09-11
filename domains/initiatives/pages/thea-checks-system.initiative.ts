@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Six checks are not green, and three of them are one cause: 62 shipped .dds textures every addon manifest declares and the build copies to dist, untracked since the August port, claimed by no page. The way in for bytes is there — holdsBytes with runsFileLength false — but admits one named file beside a page, not sixteen in a subfolder nobody may rename. no-rule-in-two-files is at 6 from 197, over daysFromCivil, a loader behind a secret, and one operator pair. 11 test files fail.",
+        "Two duplicated rules left from 197, and the check runs at change now, so the count cannot rise while the rest are cleared. What is left is 62 shipped .dds textures three checks refuse together: a folder property already says its folder holds bytes, and letting that property state which endings it speaks for reaches all 62 without a second mechanism beside it. Then 11 test files fail. Every check but those answers nothing, and every one of them is measured at audit.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
