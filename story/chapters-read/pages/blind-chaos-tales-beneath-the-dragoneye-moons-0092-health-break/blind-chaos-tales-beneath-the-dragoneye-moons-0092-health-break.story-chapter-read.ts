@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0092HealthBreak = {
   id: "01a080b3-67a0-7917-82fc-374fd8e9a666",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0092-health-break",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

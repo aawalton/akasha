@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0067Book5Chapter10BeansBrawling = {
   id: "01a06731-aeed-7000-927d-bd08ce3783f1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0067-book-5-chapter-10-beans-brawling",
   title: "Book 5 - Chapter 10 - Beans & Brawling",

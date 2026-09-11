@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook001818CarpeDiem = {
   id: "01a06731-af09-7001-ae79-c9e452e9caba",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0018-18-carpe-diem",
   title: "18: Carpe Diem",

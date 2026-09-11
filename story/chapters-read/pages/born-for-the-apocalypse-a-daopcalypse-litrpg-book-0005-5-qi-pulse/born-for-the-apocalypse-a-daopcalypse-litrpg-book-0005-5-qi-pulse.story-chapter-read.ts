@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook00055QiPulse = {
   id: "01a06731-af08-7000-99cf-63dfe0caaf85",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0005-5-qi-pulse",
   title: "5: Qi Pulse",

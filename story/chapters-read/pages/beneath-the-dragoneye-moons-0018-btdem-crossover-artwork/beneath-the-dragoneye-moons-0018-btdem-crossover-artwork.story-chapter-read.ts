@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork = {
   id: "01a06731-af15-7008-bf7a-a611f3b377f6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0018-btdem-crossover-artwork",
   title: "BTDEM Crossover Artwork!",

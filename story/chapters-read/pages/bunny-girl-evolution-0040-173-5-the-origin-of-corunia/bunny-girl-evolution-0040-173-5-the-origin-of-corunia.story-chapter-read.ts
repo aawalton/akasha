@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution00401735TheOriginOfCorunia = {
   id: "01a06743-b3ac-7000-bf75-458314e20469",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0040-173-5-the-origin-of-corunia",
   title: "173.5 - The Origin of Corunia",

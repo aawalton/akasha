@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons007979FamiliarChords = {
   id: "01a06731-adac-7006-a277-97675abfd5aa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0079-79-familiar-chords",
   title: "79. Familiar Chords",

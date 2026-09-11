@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0042Book4Chapter37LifesSubtleChanges = {
   id: "01a06731-aed5-7000-8f74-279f5d571516",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0042-book-4-chapter-37-lifes-subtle-changes",
   title: "Book 4 - Chapter 37 - Life’s Subtle Changes",

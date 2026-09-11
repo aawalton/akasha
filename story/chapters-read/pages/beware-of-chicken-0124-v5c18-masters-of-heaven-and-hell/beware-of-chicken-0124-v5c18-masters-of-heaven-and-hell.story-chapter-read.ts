@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0124V5c18MastersOfHeavenAndHell = {
   id: "01a06731-ad8d-7007-a075-50cb3184ce41",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0124-v5c18-masters-of-heaven-and-hell",
   title: "v5c18: Masters of Heaven and Hell",

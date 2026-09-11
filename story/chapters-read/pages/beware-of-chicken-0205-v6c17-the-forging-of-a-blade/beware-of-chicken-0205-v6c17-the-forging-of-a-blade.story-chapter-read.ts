@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0205V6c17TheForgingOfABlade = {
   id: "01a06731-adb7-7007-926c-4671e8f1f58a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0205-v6c17-the-forging-of-a-blade",
   title: "v6c17: The Forging of a Blade",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0182V5c72TheScouringOfTheNorth = {
   id: "01a06731-adaf-7000-b72e-bf401b8a6f33",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0182-v5c72-the-scouring-of-the-north",
   title: "v5c72: The Scouring of the North",

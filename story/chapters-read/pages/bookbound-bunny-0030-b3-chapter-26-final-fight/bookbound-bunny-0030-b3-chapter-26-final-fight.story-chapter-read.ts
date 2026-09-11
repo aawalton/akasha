@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bookboundBunny0030B3Chapter26FinalFight = {
   id: "01a06731-b0cc-700e-854a-d6bb13106b45",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bookbound-bunny-0030-b3-chapter-26-final-fight",
   title: "B3 - Chapter 26 - Final Fight",

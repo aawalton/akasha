@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0290V7c37SpiritsOfEarthAndWater = {
   id: "01a06731-add9-7005-abab-3ca57b262ba4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0290-v7c37-spirits-of-earth-and-water",
   title: "v7c37: Spirits of Earth and Water",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone = {
   id: "01a06731-af14-7000-a675-02c83d479fce",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0008-worldbuilding-what-caused-the-deadzone",
   title: "Worldbuilding - What caused the deadzone?",

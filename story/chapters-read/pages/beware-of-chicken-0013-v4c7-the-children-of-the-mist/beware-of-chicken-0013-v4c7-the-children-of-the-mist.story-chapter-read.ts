@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0013V4c7TheChildrenOfTheMist = {
   id: "01a0672c-ec82-7000-8324-7a46a2d0a5c4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0013-v4c7-the-children-of-the-mist",
   title: "v4c7: The Children of the Mist",

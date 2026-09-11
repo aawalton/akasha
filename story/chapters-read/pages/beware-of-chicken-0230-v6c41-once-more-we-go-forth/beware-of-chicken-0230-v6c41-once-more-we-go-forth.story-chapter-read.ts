@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0230V6c41OnceMoreWeGoForth = {
   id: "01a06731-adc1-7008-964e-368fc4a80115",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0230-v6c41-once-more-we-go-forth",
   title: "v6c41: Once More, We Go Forth",

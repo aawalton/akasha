@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0294V7c41SunriseAndSunset = {
   id: "01a06731-adda-7000-b7de-5ae2af810847",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0294-v7c41-sunrise-and-sunset",
   title: "v7c41: Sunrise and Sunset",

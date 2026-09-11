@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0057189AdviceFromADragon = {
   id: "01a06731-ae5b-7000-8b53-c0c1220d6a9c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0057-189-advice-from-a-dragon",
   title: "189 - Advice from a Dragon",

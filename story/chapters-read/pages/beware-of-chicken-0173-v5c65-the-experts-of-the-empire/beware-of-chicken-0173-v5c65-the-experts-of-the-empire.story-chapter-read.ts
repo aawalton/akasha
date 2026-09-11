@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0173V5c65TheExpertsOfTheEmpire = {
   id: "01a06731-adac-7001-a97e-d99ce8904a5f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0173-v5c65-the-experts-of-the-empire",
   title: "v5c65: The Experts of the Empire",

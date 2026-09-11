@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const beneathTheDragoneyeMoons0022MyNextStorySongOfTheGiftGiverIsNowOut = {
   id: "01a06731-af16-7003-82a5-529d39d3039f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0022-my-next-story-song-of-the-gift-giver-is-now-out",
   title: "My next story, Song of the Gift-Giver, is now out!",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons0168168FriendsAndFoes = {
   id: "01a06731-adb0-7012-9e93-08ad4508a7ac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0168-168-friends-and-foes",
   title: "168. Friends and Foes",

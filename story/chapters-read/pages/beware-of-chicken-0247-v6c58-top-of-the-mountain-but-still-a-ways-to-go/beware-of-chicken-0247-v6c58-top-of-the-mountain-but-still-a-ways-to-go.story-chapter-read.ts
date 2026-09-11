@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0247V6c58TopOfTheMountainButStillAWaysToGo = {
   id: "01a06731-adc4-7008-9402-deadb9d28d22",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0247-v6c58-top-of-the-mountain-but-still-a-ways-to-go",
   title: "v6c58: Top of the Mountain, But Still a Ways to Go",

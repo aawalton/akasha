@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons0189187aRedrawingLines = {
   id: "01a06731-adb3-7000-8edf-9aa14f158e2a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0189-187a-redrawing-lines",
   title: "187a. Redrawing Lines",

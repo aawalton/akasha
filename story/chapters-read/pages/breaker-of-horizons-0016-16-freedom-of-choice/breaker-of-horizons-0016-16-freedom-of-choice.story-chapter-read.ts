@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons001616FreedomOfChoice = {
   id: "01a06731-ad9b-7007-adb3-d7820240484a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0016-16-freedom-of-choice",
   title: "16. Freedom of Choice",

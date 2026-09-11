@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook006161RunForYourLife = {
   id: "01a06731-af0e-7001-8337-1777fa206985",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0061-61-run-for-your-life",
   title: "61: Run for your life",

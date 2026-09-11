@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution001360TheBoss = {
   id: "01a06743-b36d-7000-ba63-dd33fdaae539",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0013-60-the-boss",
   title: "60 - The Boss",

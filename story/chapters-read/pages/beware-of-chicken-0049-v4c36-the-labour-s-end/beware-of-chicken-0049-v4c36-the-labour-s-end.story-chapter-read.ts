@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0049V4c36TheLabourSEnd = {
   id: "01a06731-ad70-7000-b87d-b39b1b334453",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0049-v4c36-the-labour-s-end",
   title: "v4c36: The Labour's End",

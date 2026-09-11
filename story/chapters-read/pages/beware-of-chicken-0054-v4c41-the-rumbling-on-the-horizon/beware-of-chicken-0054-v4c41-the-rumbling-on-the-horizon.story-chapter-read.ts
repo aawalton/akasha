@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0054V4c41TheRumblingOnTheHorizon = {
   id: "01a06731-ad78-7001-8116-b8fe2bc1303e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0054-v4c41-the-rumbling-on-the-horizon",
   title: "v4c41: The Rumbling on the Horizon",

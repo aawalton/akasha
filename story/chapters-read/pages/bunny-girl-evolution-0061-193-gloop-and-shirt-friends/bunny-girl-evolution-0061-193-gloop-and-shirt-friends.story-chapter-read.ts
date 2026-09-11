@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0061193GloopAndShirtFriends = {
   id: "01a06731-ae61-7000-a200-66ca64642a45",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0061-193-gloop-and-shirt-friends",
   title: "193 - Gloop and Shirt Friends",

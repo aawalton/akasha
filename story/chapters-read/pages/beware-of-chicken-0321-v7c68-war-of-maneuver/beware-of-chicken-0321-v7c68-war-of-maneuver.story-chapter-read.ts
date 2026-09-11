@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0321V7c68WarOfManeuver = {
   id: "01a06731-ade4-7001-b2e1-fe2bc57e96b6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0321-v7c68-war-of-maneuver",
   title: "v7c68: War of Maneuver",

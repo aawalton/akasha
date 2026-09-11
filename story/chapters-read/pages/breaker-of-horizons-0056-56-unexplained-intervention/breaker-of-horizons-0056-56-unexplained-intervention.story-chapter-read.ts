@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons005656UnexplainedIntervention = {
   id: "01a06731-adab-7001-9983-abc913ba7b00",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0056-56-unexplained-intervention",
   title: "56. Unexplained Intervention",

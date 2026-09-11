@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons006060Beacons = {
   id: "01a06731-adab-7005-afee-e0a7d464399e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0060-60-beacons",
   title: "60. Beacons",

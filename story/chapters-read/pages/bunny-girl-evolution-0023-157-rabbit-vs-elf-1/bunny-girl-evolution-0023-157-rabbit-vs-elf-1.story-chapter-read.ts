@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0023157RabbitVsElf1 = {
   id: "01a06743-b386-7002-a455-fecb11cccafd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0023-157-rabbit-vs-elf-1",
   title: "157 - Rabbit vs Elf 1",

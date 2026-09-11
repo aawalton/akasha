@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0020154TakingControlOfThings = {
   id: "01a06743-b382-7001-868a-91abe21e80a5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0020-154-taking-control-of-things",
   title: "154 - Taking Control of Things",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0043Book4Chapter38StallingOut = {
   id: "01a06731-aed5-7001-b8ee-2cfdefcb6337",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0043-book-4-chapter-38-stalling-out",
   title: "Book 4 - Chapter 38 - Stalling Out",

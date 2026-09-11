@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons0164164UnknownVariables = {
   id: "01a06731-adb0-700e-acaa-f9cbd0e0c914",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0164-164-unknown-variables",
   title: "164. Unknown Variables",

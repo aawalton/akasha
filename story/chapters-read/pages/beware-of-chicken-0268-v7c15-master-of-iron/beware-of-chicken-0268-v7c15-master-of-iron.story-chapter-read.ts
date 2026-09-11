@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0268V7c15MasterOfIron = {
   id: "01a06731-adcd-7000-b625-6069bf245372",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0268-v7c15-master-of-iron",
   title: "v7c15: Master of Iron",

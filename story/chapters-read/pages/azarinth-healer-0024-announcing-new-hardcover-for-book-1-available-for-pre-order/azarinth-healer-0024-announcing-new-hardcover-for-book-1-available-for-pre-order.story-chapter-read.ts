@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableForPreOrder = {
   id: "01a06731-affc-7002-8d10-a2ddaf0370dc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "azarinth-healer-0024-announcing-new-hardcover-for-book-1-available-for-pre-order",
   title:

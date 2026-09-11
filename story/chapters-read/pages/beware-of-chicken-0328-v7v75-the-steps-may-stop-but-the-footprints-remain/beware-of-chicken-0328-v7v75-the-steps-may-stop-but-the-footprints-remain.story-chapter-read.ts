@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0328V7v75TheStepsMayStopButTheFootprintsRemain = {
   id: "01a06731-adec-7000-9c0e-17cae2bf3918",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0328-v7v75-the-steps-may-stop-but-the-footprints-remain",
   title: "v7v75: The Steps May Stop, but the Footprints Remain",

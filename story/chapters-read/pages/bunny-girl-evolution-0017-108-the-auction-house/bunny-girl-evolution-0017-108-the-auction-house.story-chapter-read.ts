@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0017108TheAuctionHouse = {
   id: "01a06743-b37a-7000-a951-66c08b8401d6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0017-108-the-auction-house",
   title: "108 - The Auction House",

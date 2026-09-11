@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0203V6c15NotEveryDepartureIsHeavenSShaking = {
   id: "01a06731-adb7-7005-825e-f898f8a12b3d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0203-v6c15-not-every-departure-is-heaven-s-shaking",
   title: "v6c15: Not Every Departure is Heaven's Shaking",

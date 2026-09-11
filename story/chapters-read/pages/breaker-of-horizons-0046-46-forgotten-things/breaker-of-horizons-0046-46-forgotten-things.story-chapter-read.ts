@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons004646ForgottenThings = {
   id: "01a06731-ada0-7001-945b-d76f178326ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0046-46-forgotten-things",
   title: "46. Forgotten Things",

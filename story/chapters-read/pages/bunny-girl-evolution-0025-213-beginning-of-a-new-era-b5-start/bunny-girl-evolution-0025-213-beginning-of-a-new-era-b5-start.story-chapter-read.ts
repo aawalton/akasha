@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0025213BeginningOfANewEraB5Start = {
   id: "01a06743-b388-7000-82b7-024d43edec93",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0025-213-beginning-of-a-new-era-b5-start",
   title: "213 - Beginning of a New Era (B5 start)",

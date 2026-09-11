@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution00066LevelsAndMore = {
   id: "01a06731-afeb-7005-9dc2-57e55e183fd4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0006-6-levels-and-more",
   title: "6 - Levels and More",

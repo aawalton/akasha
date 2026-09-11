@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons004141LapsesInJudgement = {
   id: "01a06731-ad9f-7009-9c9d-b2cdfd72ed50",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0041-41-lapses-in-judgement",
   title: "41. Lapses in Judgement",

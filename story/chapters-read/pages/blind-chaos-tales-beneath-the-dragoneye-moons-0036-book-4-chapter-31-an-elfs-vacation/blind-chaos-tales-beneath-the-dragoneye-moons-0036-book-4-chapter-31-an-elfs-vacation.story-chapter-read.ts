@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0036Book4Chapter31AnElfsVacation = {
   id: "01a06731-aecb-7000-92fe-d6d46ce24c12",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0036-book-4-chapter-31-an-elfs-vacation",
   title: "Book 4 - Chapter 31 - An Elf's Vacation",

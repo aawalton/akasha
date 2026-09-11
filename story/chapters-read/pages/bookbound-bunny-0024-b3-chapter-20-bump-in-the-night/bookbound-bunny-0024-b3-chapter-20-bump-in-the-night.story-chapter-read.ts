@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bookboundBunny0024B3Chapter20BumpInTheNight = {
   id: "01a06731-b0cc-7008-a058-a2ef73166b65",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bookbound-bunny-0024-b3-chapter-20-bump-in-the-night",
   title: "B3 - Chapter 20 - Bump in the Night",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0263V7c10TheVirtuousSReward = {
   id: "01a06731-adca-7001-956a-64f5263932a5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0263-v7c10-the-virtuous-s-reward",
   title: "v7c10: The Virtuous's Reward",

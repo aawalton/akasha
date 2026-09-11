@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons001010ThaumaturgyTrial = {
   id: "01a06731-ad9b-7001-9a33-e10419635d96",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0010-10-thaumaturgy-trial",
   title: "10. Thaumaturgy Trial",

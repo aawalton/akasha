@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0253V5HardcoverPreorderBocSchedule = {
   id: "01a06731-adc6-7002-ab3c-8d571b9cd9a0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0253-v5-hardcover-preorder-boc-schedule",
   title: "V5 Hardcover Preorder+BOC schedule",

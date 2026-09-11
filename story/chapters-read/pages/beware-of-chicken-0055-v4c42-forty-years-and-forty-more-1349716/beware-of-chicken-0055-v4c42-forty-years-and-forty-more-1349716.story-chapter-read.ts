@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0055V4c42FortyYearsAndFortyMore1349716 = {
   id: "01a08396-b9a3-7cab-a3fb-48f2443e0265",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0055-v4c42-forty-years-and-forty-more-1349716",
   story: "story-read/beware-of-chicken",

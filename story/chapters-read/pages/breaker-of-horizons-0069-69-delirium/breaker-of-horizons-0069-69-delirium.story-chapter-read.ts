@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons006969Delirium = {
   id: "01a06731-adab-700e-aac2-4c4b3319a86d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0069-69-delirium",
   title: "69. Delirium",

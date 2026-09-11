@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const azarinthHealer0002Chapter2GenericWolvesWhoWouldVeGuessed = {
   id: "01a06731-aff5-7000-b6e7-8464a341b9cb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "azarinth-healer-0002-chapter-2-generic-wolves-who-would-ve-guessed",
   title: "Chapter 2 Generic wolves - who would've guessed",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0018109FreedomFunFey = {
   id: "01a06743-b37b-7000-8088-80b577fe753a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0018-109-freedom-fun-fey",
   title: "109 - Freedom, Fun, Fey",

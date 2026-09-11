@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons00088PowerLadder = {
   id: "01a06731-ad9a-7003-89b4-974b82c6d22b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0008-8-power-ladder",
   title: "8. Power Ladder",

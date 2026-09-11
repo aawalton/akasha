@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0327V7c74DustAndRebirth = {
   id: "01a06731-adea-7003-88ed-683c5b51a748",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0327-v7c74-dust-and-rebirth",
   title: "v7c74: Dust and Rebirth",

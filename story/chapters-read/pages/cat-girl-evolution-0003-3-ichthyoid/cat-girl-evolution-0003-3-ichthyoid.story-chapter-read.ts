@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution00033Ichthyoid = {
   id: "01a06731-afeb-7002-a675-0edd1e8812de",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0003-3-ichthyoid",
   title: "3 - Ichthyoid",

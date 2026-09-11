@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const beneathTheDragoneyeMoons0015TheProblemsWithBeneathTheDragoneyeMoons941664 = {
   id: "01a08396-4f4b-724c-aabb-40a88e0c2f38",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0015-the-problems-with-beneath-the-dragoneye-moons-941664",
   story: "story-read/beneath-the-dragoneye-moons",

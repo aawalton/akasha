@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons002222IneffableForces = {
   id: "01a06731-ad9c-7003-95b2-c6e53f1e42fd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0022-22-ineffable-forces",
   title: "22. Ineffable Forces",

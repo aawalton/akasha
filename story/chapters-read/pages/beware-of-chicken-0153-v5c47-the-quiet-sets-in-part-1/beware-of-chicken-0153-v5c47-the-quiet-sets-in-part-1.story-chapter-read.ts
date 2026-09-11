@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0153V5c47TheQuietSetsInPart1 = {
   id: "01a06731-ada7-7000-8d17-e62e4f3c6d21",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0153-v5c47-the-quiet-sets-in-part-1",
   title: "v5c47: The Quiet Sets in Part 1",

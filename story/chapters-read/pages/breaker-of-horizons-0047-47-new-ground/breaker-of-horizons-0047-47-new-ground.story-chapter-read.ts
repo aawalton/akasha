@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons004747NewGround = {
   id: "01a06731-ada1-7000-b867-8112bb8f9d7d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0047-47-new-ground",
   title: "47. New Ground",

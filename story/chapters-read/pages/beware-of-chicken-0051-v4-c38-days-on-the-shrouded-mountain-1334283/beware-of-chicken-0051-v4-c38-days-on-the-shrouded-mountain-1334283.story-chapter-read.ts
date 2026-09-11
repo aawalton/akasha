@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0051V4C38DaysOnTheShroudedMountain1334283 = {
   id: "01a08396-b601-7f74-b1e8-e78c6eeba880",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0051-v4-c38-days-on-the-shrouded-mountain-1334283",
   story: "story-read/beware-of-chicken",

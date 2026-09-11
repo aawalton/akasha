@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0222ComicTwoKindsOfImmortality = {
   id: "01a06731-adc1-7000-9b59-6d7c219fe175",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0222-comic-two-kinds-of-immortality",
   title: "Comic: Two Kinds of Immortality",

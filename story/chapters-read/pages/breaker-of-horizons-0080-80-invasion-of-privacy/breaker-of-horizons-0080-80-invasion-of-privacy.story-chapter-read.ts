@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons008080InvasionOfPrivacy = {
   id: "01a06731-adac-7007-af2d-fd914b69fb90",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0080-80-invasion-of-privacy",
   title: "80. Invasion of Privacy",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0029217PainIsGoodForYou = {
   id: "01a06743-b393-7000-94d6-ee24d266d958",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0029-217-pain-is-good-for-you",
   title: "217 - Pain is Good for You",

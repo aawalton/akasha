@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0199V6c11InterludeTheLairOfThePhoenix = {
   id: "01a06731-adb7-7001-b4bc-addbaf93b6d9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0199-v6c11-interlude-the-lair-of-the-phoenix",
   title: "v6c11: Interlude: The Lair of the Phoenix",

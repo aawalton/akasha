@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution002929PerfectDisguise = {
   id: "01a06731-afef-7003-a1be-daf5e212e4f3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0029-29-perfect-disguise",
   title: "29 - Perfect Disguise",

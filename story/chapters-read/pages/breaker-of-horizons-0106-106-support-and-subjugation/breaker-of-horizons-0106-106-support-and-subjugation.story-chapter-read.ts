@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons0106106SupportAndSubjugation = {
   id: "01a06731-adad-700d-9548-459de0c44d30",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0106-106-support-and-subjugation",
   title: "106. Support and Subjugation",

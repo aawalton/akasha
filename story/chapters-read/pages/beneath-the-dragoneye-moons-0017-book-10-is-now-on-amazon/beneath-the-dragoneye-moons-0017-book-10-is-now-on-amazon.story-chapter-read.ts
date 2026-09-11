@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon = {
   id: "01a06731-af15-7007-b9e0-69bce5623166",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0017-book-10-is-now-on-amazon",
   title: "Book 10 is now on Amazon!",

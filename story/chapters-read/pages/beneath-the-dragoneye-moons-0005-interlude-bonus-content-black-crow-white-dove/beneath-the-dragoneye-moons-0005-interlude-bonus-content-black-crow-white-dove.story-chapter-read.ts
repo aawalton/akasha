@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowWhiteDove = {
   id: "01a06731-af13-7004-b340-82ef4629176d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0005-interlude-bonus-content-black-crow-white-dove",
   title: "Interlude - Bonus Content - Black Crow//White Dove",

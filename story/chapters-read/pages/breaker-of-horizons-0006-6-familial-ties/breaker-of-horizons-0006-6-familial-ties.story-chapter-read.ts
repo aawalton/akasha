@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons00066FamilialTies = {
   id: "01a06731-ad9a-7001-bcde-c26ddb6303ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0006-6-familial-ties",
   title: "6. Familial Ties",

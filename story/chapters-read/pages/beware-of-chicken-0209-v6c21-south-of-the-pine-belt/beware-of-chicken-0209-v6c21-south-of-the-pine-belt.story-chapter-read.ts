@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0209V6c21SouthOfThePineBelt = {
   id: "01a06731-adbb-7002-b2e5-b24b6b427c4f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0209-v6c21-south-of-the-pine-belt",
   title: "v6c21: South of the Pine Belt",

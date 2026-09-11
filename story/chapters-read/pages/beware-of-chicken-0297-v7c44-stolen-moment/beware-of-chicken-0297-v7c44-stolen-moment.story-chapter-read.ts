@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0297V7c44StolenMoment = {
   id: "01a06731-adda-7003-9997-a8d9b5885d37",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0297-v7c44-stolen-moment",
   title: "v7c44: Stolen Moment",

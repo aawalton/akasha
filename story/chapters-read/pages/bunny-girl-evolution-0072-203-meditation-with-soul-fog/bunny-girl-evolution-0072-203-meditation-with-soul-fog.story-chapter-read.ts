@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0072203MeditationWithSoulFog = {
   id: "01a06731-ae6f-7000-8c66-0d6ee20cb1f2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0072-203-meditation-with-soul-fog",
   title: "203 - Meditation with Soul Fog",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons007171FrayedThreads = {
   id: "01a06731-adab-7010-8b2f-d7d2f7e33610",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0071-71-frayed-threads",
   title: "71. Frayed Threads",

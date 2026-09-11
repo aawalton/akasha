@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0022156TypesOfNatureMagic = {
   id: "01a06743-b386-7001-916d-0b7dc4b02c69",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0022-156-types-of-nature-magic",
   title: "156 - Types of Nature Magic",

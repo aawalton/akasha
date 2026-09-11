@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0287V7c34MetalToWater = {
   id: "01a06731-add9-7002-92d6-d26095248db0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0287-v7c34-metal-to-water",
   title: "v7c34: Metal to Water",

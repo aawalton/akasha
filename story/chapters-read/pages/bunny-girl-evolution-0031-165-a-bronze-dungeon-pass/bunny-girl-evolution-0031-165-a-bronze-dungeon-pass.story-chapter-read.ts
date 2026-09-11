@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0031165ABronzeDungeonPass = {
   id: "01a06743-b397-7001-bae1-4ff60d65b742",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0031-165-a-bronze-dungeon-pass",
   title: "165 - A Bronze Dungeon Pass",

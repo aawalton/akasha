@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0054186EndOfTheBreak = {
   id: "01a06731-ae58-7000-951f-4198515ca528",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0054-186-end-of-the-break",
   title: "186 - End of the Break",

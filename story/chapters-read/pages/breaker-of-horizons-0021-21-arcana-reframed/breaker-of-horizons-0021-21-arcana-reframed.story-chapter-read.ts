@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons002121ArcanaReframed = {
   id: "01a06731-ad9c-7002-8c9b-4a36a3fa6fdf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0021-21-arcana-reframed",
   title: "21. Arcana Reframed",

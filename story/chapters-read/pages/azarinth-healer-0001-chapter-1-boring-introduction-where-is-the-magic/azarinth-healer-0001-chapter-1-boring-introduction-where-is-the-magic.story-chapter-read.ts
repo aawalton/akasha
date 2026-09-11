@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic = {
   id: "01a06731-aff4-7000-a215-188c70984aef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "azarinth-healer-0001-chapter-1-boring-introduction-where-is-the-magic",
   title: "Chapter 1 Boring introduction - Where is the magic?",

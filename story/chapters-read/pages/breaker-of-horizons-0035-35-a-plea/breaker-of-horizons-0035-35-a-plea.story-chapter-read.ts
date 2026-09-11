@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons003535APlea = {
   id: "01a06731-ad9f-7003-ac12-eb57a365a820",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0035-35-a-plea",
   title: "35. A Plea",

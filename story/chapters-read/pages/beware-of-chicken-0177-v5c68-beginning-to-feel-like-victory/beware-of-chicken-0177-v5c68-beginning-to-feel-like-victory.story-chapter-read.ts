@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0177V5c68BeginningToFeelLikeVictory = {
   id: "01a06731-adad-7003-aede-d2f7d5eafb0d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0177-v5c68-beginning-to-feel-like-victory",
   title: "v5c68: Beginning to Feel Like Victory",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons0103103ChartingACourse = {
   id: "01a06731-adad-700a-964d-78ce041958b7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0103-103-charting-a-course",
   title: "103. Charting a Course",

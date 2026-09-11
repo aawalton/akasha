@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution00191535SomeOldForgottenThingsB4Prologue = {
   id: "01a06743-b382-7000-87eb-58977f4ec06b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0019-153-5-some-old-forgotten-things-b4-prologue",
   title: "153.5 - Some Old Forgotten Things (B4 prologue)",

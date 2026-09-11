@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0027215Lesson1DirectedAetherPulse = {
   id: "01a06743-b391-7000-9ebb-4296e0cf2d5b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0027-215-lesson-1-directed-aether-pulse",
   title: "215 - Lesson 1: Directed Aether Pulse",

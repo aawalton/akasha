@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0306V7c53GoldenBlood = {
   id: "01a06731-addf-7002-925b-1379d5621fea",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0306-v7c53-golden-blood",
   title: "v7c53: Golden Blood",

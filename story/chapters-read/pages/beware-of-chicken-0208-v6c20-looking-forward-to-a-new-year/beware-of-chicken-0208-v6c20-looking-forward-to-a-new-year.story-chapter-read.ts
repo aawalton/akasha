@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0208V6c20LookingForwardToANewYear = {
   id: "01a06731-adbb-7001-9f7c-89223f8e0903",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0208-v6c20-looking-forward-to-a-new-year",
   title: "v6c20: Looking Forward to a New Year",

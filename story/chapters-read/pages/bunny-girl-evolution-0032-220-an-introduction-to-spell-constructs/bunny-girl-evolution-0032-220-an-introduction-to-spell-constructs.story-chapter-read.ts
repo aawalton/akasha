@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bunnyGirlEvolution0032220AnIntroductionToSpellConstructs = {
   id: "01a06743-b398-7002-bb72-47511768e50e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "bunny-girl-evolution-0032-220-an-introduction-to-spell-constructs",
   title: "220 - An Introduction to Spell Constructs",

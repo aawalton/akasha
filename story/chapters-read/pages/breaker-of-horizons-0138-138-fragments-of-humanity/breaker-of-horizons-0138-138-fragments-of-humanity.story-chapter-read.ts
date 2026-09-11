@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const breakerOfHorizons0138138FragmentsOfHumanity = {
   id: "01a06731-adaf-7006-8ccf-041674f1d0b1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "breaker-of-horizons-0138-138-fragments-of-humanity",
   title: "138. Fragments of Humanity",

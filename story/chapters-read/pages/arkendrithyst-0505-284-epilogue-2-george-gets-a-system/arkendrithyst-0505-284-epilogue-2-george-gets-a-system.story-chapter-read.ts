@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const arkendrithyst0505284Epilogue2GeorgeGetsASystem = {
   id: "01a0672c-ed50-7000-9419-bce9b2e2f636",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "arkendrithyst-0505-284-epilogue-2-george-gets-a-system",
   title: "284 - Epilogue 2, George gets a System",

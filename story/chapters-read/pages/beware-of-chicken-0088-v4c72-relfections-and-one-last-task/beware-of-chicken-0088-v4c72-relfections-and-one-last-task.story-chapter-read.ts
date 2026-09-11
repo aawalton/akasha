@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask = {
   id: "01a06731-ad85-7000-ada3-47bc8cce45bb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "beware-of-chicken-0088-v4c72-relfections-and-one-last-task",
   title: "v4c72: Relfections and One Last Task",
