@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const setIdsAToO = {
   id: "01a060d5-2f13-7b67-ac60-358958a4c07b",

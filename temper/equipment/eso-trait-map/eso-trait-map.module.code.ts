@@ -1,6 +1,15 @@
-import { type ArmorTraitId, armorTraits } from "../armor-traits/armor-traits.module.code.ts"
-import { type JewelryTraitId, jewelryTraits } from "../jewelry-traits/jewelry-traits.module.code.ts"
-import { type WeaponTraitId, weaponTraits } from "../weapon-traits/weapon-traits.module.code.ts"
+import {
+  type ArmorTraitId,
+  armorTraits,
+} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import {
+  type JewelryTraitId,
+  jewelryTraits,
+} from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import {
+  type WeaponTraitId,
+  weaponTraits,
+} from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 
 const TEMPER_PLAYER_WEAPON_TRAIT_TO_ESO = {
   "no-trait": 0,
