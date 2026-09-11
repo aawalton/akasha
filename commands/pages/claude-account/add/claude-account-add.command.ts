@@ -45,6 +45,10 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "departure",
+      statement: "A page composed names its type from the root rather than by a relative path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The change adding a file writes the page rather than an edit composed here.",
     },
     {
