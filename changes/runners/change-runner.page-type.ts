@@ -37,6 +37,10 @@ export const changeRunner = {
     },
     {
       invariantKind: "departure",
+      statement: "The map beside a runner is written by the generator this page type states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A runner reads the page filed at that address off the index.",
     },
     {

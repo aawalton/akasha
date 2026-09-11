@@ -8,7 +8,6 @@ import {
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { writtenPathsIn } from "akasha/commands/modules/address-mapping/address-mapping.module.code.ts"
 import {
   applying,
   askedIn,
@@ -36,6 +35,23 @@ import {
   MEASURED_ALLOWED,
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+
+const RUNNER = "change-runner"
+
+const ADDRESSED = "addressed"
+
+const TS = "ts"
+
+function writtenAgainIn(root: string): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const listed of everyOfType(root, RUNNER)) {
+    const at = besideAt(listed.path, ADDRESSED, TS)
+    if (at !== null) held.add(at)
+  }
+  return held
+}
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
@@ -59,7 +75,7 @@ export type Folded =
 export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
   const head = headOf(root)
-  const written = writtenPathsIn(root)
+  const written = writtenAgainIn(root)
   const again = (one: string): boolean => written.has(one)
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had

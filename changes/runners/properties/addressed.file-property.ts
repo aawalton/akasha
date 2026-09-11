@@ -36,6 +36,34 @@ export const addressed = {
       statement: "An address the map does not have is refused where that address is written.",
     },
     {
+      invariantKind: "departure",
+      statement: "A runner naming no page type has no map written for that runner.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change exporting the run is reached by the map.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change exporting no run is left out of the map rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a change exports the run is read from that change's own code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The addresses come out sorted rather than in the order the index answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every body the map reads is read through the change rather than off the disk.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing the map holds survives into the code that runs.",
     },
