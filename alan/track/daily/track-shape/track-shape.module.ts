@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const trackShape = {
   id: "01a069d7-ba37-75fb-8dbd-6f5be522dda9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "track-shape",
   definition: "the shape a tracking row is turned into as it is landed",

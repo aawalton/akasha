@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const servedTip = {
   id: "01a0691b-4f64-7e7b-882f-6c45e18374af",
-  pageTypeSlug: "module",
   type: "module",
   slug: "served-tip",
   definition: "the commit a branch is at on the transport, and whether a commit is there locally",

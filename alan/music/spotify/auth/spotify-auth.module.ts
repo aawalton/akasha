@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const spotifyAuth = {
   id: "01a06261-dc1d-7006-a47d-60926a2515c8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "spotify-auth",
   definition: "an access token good right now, refreshed when it is not",

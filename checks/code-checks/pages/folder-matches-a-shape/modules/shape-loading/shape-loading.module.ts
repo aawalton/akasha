@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shapeLoading = {
   id: "01a06328-b8b6-750e-9c26-741059f3c69f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shape-loading",
   definition: "the folder shapes the index names, each loaded from the code beside its page",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mountainDay = {
   id: "01a05c77-31e7-7659-86c4-340d070e0baf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mountain-day",
   definition: "the day an instant falls on for someone living on a Denver clock",

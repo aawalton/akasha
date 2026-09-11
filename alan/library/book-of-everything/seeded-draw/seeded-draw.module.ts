@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seededDraw = {
   id: "01a077e7-e766-7e74-bb8e-f95b949f5b32",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seeded-draw",
   definition: "items drawn without replacement from a source of draws a seed makes repeatable",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatToggles = {
   id: "01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-toggles",
   definition: "the steps a run or a reset asks of a seat, and the line a terminal attaches by",

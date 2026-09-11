@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workspaceDirs = {
   id: "01a05c48-deeb-700b-9305-52a189c99aa2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "workspace-dirs",
   definition: "the folders a root manifest's workspaces entries represent, with globs expanded",

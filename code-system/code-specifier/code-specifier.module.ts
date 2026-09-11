@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const codeSpecifier = {
   id: "01a04ea7-b2ea-711c-8256-13b0697772b3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "code-specifier",
   definition:

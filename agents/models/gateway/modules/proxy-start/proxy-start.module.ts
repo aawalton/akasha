@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const proxyStart = {
   id: "01a063af-ee63-7655-8598-ffbe6f7b0d22",
-  pageTypeSlug: "module",
   type: "module",
   slug: "proxy-start",
   definition: "what starting a gateway is told and what a started gateway hands back",

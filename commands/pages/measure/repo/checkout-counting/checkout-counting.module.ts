@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkoutCounting = {
   id: "01a06d1e-b1fe-7eae-ba21-1842c4d3106e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "checkout-counting",
   definition:

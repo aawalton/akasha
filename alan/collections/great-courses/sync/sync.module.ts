@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sync = {
   id: "01a06579-f3d9-7007-b519-cafdb2cbafba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sync",
   definition: "one run of the catalogue into a page for each course the collection does not hold",

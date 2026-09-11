@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const literalSplicing = {
   id: "01a0822c-932a-7f1c-8dbf-5fe8221d3854",
-  pageTypeSlug: "module",
   type: "module",
   slug: "literal-splicing",
   definition: "the span an edit takes in an object literal or an array literal",

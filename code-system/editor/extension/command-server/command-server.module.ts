@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const commandServer = {
   id: "01a06a05-bf7b-78ff-9bba-95684e31bba4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "command-server",
   definition: "one bun runtime held open, answering commands over a pipe against no startup cost",

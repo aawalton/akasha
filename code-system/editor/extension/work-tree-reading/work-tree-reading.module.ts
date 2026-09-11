@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workTreeReading = {
   id: "01a06867-dbcb-78e4-a9b3-4a59f26c06ca",
-  pageTypeSlug: "module",
   type: "module",
   slug: "work-tree-reading",
   definition: "what is counted and keyed from work tree rows already in hand",

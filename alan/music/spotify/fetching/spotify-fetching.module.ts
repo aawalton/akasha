@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const spotifyFetching = {
   id: "01a06261-dc1d-700f-a5c9-3bfc9c2b5371",
-  pageTypeSlug: "module",
   type: "module",
   slug: "spotify-fetching",
   definition: "the network call every Spotify request is made over",

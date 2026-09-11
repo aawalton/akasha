@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const browserCommandArguing = {
   id: "01a06862-06c8-7005-a0b9-40b1cee375d7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "browser-command-arguing",
   definition: "the words a browser command was called with, read against what that command takes",

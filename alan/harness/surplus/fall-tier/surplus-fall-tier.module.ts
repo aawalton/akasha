@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const surplusFallTier = {
   id: "01a0697e-ded3-7adb-9d6e-f852cfc9ffd7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "surplus-fall-tier",
   definition:

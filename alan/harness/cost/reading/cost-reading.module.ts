@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const costReading = {
   id: "01a08b9c-abbc-7be3-b86c-29165739234a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cost-reading",
   definition: "the cost of Alan's open block, taken and kept on the cost readout",

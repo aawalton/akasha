@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkScratch = {
   id: "01a04fd0-8a9a-7915-a355-32d5432a7f11",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-scratch",
   definition:

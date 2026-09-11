@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const terminalPids = {
   id: "01a064f0-734e-706e-8699-1b47b8fea065",
-  pageTypeSlug: "module",
   type: "module",
   slug: "terminal-pids",
   definition: "the process id a terminal answers with and the outcome of asking each terminal",

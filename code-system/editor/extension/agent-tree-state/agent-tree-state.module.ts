@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const agentTreeState = {
   id: "01a0686b-bfe9-705b-a5cc-ec57c2a1d63b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "agent-tree-state",
   definition:

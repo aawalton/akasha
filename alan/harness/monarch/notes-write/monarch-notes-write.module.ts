@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchNotesWrite = {
   id: "01a06863-ac0c-7d5f-9e84-4f2e2d021b08",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-notes-write",
   definition: "the note and the tags written back onto a Monarch transaction",

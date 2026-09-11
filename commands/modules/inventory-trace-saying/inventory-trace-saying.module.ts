@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryTraceSaying = {
   id: "01a08de9-9baa-7d2a-9edd-e51a79c7f0af",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-trace-saying",
   definition: "a number a Temper trace carried, written out for a line of a report",

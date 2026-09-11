@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const verifyRenderPlan = {
   id: "01a0691b-4f64-7cae-bd86-446992c33c41",
-  pageTypeSlug: "module",
   type: "module",
   slug: "verify-render-plan",
   definition:

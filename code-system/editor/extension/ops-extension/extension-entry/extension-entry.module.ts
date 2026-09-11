@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const extensionEntry = {
   id: "01a0680b-7175-7003-911e-8a75aa9ad7d4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "extension-entry",
   definition: "what the editor calls to start the panels, and what each start is recorded as",

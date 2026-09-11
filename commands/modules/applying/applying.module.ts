@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const applying = {
   id: "01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21",
-  pageTypeSlug: "module",
   type: "module",
   slug: "applying",
   definition: "the rows an agent has answered landed onto the tree as one commit",

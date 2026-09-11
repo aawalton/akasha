@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const hookLinks = {
   id: "01a08dc1-ffb8-707b-b5d8-3633bf16ddae",
-  pageTypeSlug: "module",
   type: "module",
   slug: "hook-links",
   definition: "the fixed path outside the repository a hook is registered through",

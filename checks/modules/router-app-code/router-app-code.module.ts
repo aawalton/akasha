@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const routerAppCode = {
   id: "01a08e07-d3c0-7687-a361-081c6e367ee5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "router-app-code",
   definition: "how a check reads the code a router app's package holds",

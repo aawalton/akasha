@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageListingLoader = {
   id: "01a08e24-787c-78b5-a972-ca859eaa4fd8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-listing-loader",
   definition: "the page type a plural slug in a url names, with the query beside it",

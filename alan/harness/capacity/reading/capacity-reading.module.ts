@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const capacityReading = {
   id: "01a069ba-b018-7b6b-b9a6-18cd82bd54b3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "capacity-reading",
   definition: "the stress capacity Alan's stretches leave him, kept on the capacity readout",

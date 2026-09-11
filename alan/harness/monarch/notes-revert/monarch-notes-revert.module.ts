@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchNotesRevert = {
   id: "01a06865-ecc3-7197-8546-e38b32431638",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-notes-revert",
   definition:

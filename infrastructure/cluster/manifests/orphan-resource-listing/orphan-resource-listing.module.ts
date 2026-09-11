@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const orphanResourceListing = {
   id: "01a0686c-fd2c-7004-911e-afd0ee7326f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "orphan-resource-listing",
   definition: "the deployments, services and stateful sets a namespace is running",

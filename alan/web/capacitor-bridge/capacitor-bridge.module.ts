@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const capacitorBridge = {
   id: "01a063c9-03ff-7eb7-8909-d39430301bb3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "capacitor-bridge",
   definition: "the plugins the native shell puts on the window",

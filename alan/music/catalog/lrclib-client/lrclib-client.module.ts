@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lrclibClient = {
   id: "01a06262-ff4c-7004-99a6-b15f63fddbd0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lrclib-client",
   definition: "LRCLIB asked for the words of a song",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gmailAuth = {
   id: "01a05c0e-372e-77e5-9829-8e3c9ce333ef",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gmail-auth",
   definition: "the OAuth client a Gmail call is made through",

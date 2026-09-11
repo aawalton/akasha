@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transcriptView = {
   id: "01a06811-01d3-7003-a56a-b2779b494581",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transcript-view",
   definition: "the webview a seat's transcript is drawn into, and what each read draws again",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inboundMessage = {
   id: "01a05bcd-25e2-7e66-887c-dfeac5718e84",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inbound-message",
   definition: "the shape an arriving email is read into",

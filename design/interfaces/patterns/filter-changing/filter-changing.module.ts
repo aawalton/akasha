@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const filterChanging = {
   id: "01a090ec-d6a6-7001-9492-6e84f3f7dfe4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "filter-changing",
   definition: "the handler a search box or a sort control hands its change to",

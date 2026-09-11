@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const agentTreeDrawing = {
   id: "01a0686b-bfe9-706d-8295-b8bf933d18de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "agent-tree-drawing",
   definition:

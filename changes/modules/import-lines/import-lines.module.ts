@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const importLines = {
   id: "01a08cda-348f-7c87-89fb-04be4a6a3124",
-  pageTypeSlug: "module",
   type: "module",
   slug: "import-lines",
   definition: "the import lines a body carries, read and written as text",

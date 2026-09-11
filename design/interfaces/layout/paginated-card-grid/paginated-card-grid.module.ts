@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const paginatedCardGrid = {
   id: "01a05b82-8b99-7d72-a281-3ee142f34027",
-  pageTypeSlug: "module",
   type: "module",
   slug: "paginated-card-grid",
   definition: "a grid drawing a page of cards at a time",

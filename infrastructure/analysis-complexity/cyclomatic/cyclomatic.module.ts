@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const cyclomatic = {
   id: "01a0680f-d1b7-75cd-9668-69db68df9b0f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cyclomatic",
   definition: "the count of independent paths through a function",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transcriptSources = {
   id: "01a06811-01d3-7000-b3d5-a000505cc21f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transcript-sources",
   definition: "where each seat's transcript is, and which subagent transcripts sit beside one",

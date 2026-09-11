@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sampleIdentity = {
   id: "01a05bc7-9129-7002-ab78-700980114edd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sample-identity",
   definition: "what tells one health reading from another",

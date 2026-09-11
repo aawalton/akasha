@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skeleton = {
   id: "01a05be9-d4c4-79bb-9b53-4a122e985104",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skeleton",
   definition: "the grey block sitting where content has not arrived",

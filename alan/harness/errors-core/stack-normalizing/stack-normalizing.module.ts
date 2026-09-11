@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stackNormalizing = {
   id: "01a05c48-deeb-7017-b565-3730f8ab193a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stack-normalizing",
   definition: "a stack trace with line numbers, directories and build hashes taken out",

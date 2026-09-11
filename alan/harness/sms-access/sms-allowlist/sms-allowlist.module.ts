@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const smsAllowlist = {
   id: "01a05b73-2ec7-7c96-a18b-ac0ec2a858e9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sms-allowlist",
   definition: "who may send us an SMS, read from the relationship pages",

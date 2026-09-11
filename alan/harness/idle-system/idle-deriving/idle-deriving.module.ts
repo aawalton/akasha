@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const idleDeriving = {
   id: "01a05b69-c24c-7187-ba21-83df7ae3528b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "idle-deriving",
   definition: "the mechanics an idle game's state implies",

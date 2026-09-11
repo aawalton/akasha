@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dragHold = {
   id: "01a09093-a35f-7798-8306-75a6528275cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "drag-hold",
   definition: "the row a drag has, written where a render reads it and where a pointer reads it",

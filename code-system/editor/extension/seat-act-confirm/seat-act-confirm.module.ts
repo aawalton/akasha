@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatActConfirm = {
   id: "01a0686b-bfe9-7d14-9f46-c9701b005af8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-act-confirm",
   definition: "what Alan is asked before an act loses the turn a seat is part-way through",

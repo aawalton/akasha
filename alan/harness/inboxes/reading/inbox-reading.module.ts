@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inboxReading = {
   id: "01a069bf-3919-77bc-a8a7-66b02d4185bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inbox-reading",
   definition:

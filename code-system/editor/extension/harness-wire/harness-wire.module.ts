@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const harnessWire = {
   id: "01a08b9e-4c10-7c47-9cc1-698db3594c89",
-  pageTypeSlug: "module",
   type: "module",
   slug: "harness-wire",
   definition: "the protocol the editor and its bun server speak, and how stale an answer may get",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const oauthTypes = {
   id: "01a0628c-26f7-76fc-b581-b548953cd882",
-  pageTypeSlug: "module",
   type: "module",
   slug: "oauth-types",
   definition: "the types an OAuth account's credential and usage state are carried in",

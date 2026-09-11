@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changeFreshness = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-freshness",
   definition:

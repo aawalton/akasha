@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const field = {
   id: "01a05b7e-679a-799c-925a-bae00397cfbb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "field",
   definition: "the parts a labelled control is laid out from",

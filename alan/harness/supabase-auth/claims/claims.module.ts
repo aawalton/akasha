@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const claims = {
   id: "01a05c6d-3509-7148-94be-e982b26664f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "claims",
   definition: "the signed claims a Supabase token has, read into a user or refused",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supabaseUser = {
   id: "01a05c6d-350a-7a9e-b989-5c974158f6f9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supabase-user",
   definition: "who Supabase says a user is, narrowed to the id and the address",

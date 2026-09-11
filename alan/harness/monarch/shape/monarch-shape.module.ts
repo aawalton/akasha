@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchShape = {
   id: "01a0685f-4ed8-7f56-8b0b-c5eb38474e06",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-shape",
   definition: "the reader saying what an untyped value is, refusing it by the path it stands at",

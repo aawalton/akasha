@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const statusBarPanel = {
   id: "01a06816-69fa-7001-a0ca-bd4a904571ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "status-bar-panel",
   definition: "the strip of readings Alan keeps in view, drawn from one file and on a click",

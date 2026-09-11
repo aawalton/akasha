@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lineupSlotsDraft = {
   id: "01a0655d-dabf-7840-b493-58b65ba1e569",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lineup-slots-draft",
   definition: "a lineup being rearranged before the rearrangement is committed",

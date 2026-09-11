@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const drafting = {
   id: "01a06315-8aa2-7993-a0d0-9ec51066ecaf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "drafting",
   definition: "what a run of a change does about the checks and the readings owed",

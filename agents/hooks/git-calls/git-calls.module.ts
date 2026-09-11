@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gitCalls = {
   id: "01a04e16-d380-7000-aca5-c084a6730236",
-  pageTypeSlug: "module",
   type: "module",
   slug: "git-calls",
   definition: "the git invocations a shell command line carries",

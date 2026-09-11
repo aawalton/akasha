@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const claudeAccountMarking = {
   id: "01a06351-3c6f-7c8c-b00a-a1234022ca1f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "claude-account-marking",
   definition: "what is written down about a claude-account",

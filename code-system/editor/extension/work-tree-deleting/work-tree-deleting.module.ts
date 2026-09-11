@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workTreeDeleting = {
   id: "01a08c50-69e1-76f0-a610-90ebd835ef29",
-  pageTypeSlug: "module",
   type: "module",
   slug: "work-tree-deleting",
   definition: "the row Alan deletes in the work tree named to the command that deletes it",

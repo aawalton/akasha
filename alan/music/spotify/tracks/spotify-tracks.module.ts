@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const spotifyTracks = {
   id: "01a06261-dc1d-700a-bfca-ad92b08a3e74",
-  pageTypeSlug: "module",
   type: "module",
   slug: "spotify-tracks",
   definition: "one track read by its Spotify id",

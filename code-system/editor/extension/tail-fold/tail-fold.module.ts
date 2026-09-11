@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const tailFold = {
   id: "01a064f0-734e-7895-96ab-58a7eeeeee3b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "tail-fold",
   definition:

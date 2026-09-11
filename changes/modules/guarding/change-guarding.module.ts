@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changeGuarding = {
   id: "01a07744-1311-7679-acd5-cea149b8e44a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-guarding",
   definition: "the guards a change names, run over the answer that change gives",

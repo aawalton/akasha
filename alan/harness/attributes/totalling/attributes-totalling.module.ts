@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const attributesTotalling = {
   id: "01a07899-c5db-720d-b555-089ffd6bae07",
-  pageTypeSlug: "module",
   type: "module",
   slug: "attributes-totalling",
   definition: "the points each attribute has earned since the day the counting begins",

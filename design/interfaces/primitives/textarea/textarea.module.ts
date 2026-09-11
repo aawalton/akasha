@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const textarea = {
   id: "01a05be9-d4c6-78ef-a0f5-7b6d2ae73b6a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "textarea",
   definition: "the many line text field",

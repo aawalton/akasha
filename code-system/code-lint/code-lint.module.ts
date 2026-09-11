@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const codeLint = {
   id: "01a04edb-5f2c-7000-b8b5-430c5419cbda",
-  pageTypeSlug: "module",
   type: "module",
   slug: "code-lint",
   definition:

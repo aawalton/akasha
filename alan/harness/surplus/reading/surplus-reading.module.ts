@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const surplusReading = {
   id: "01a069bb-b921-759e-92f7-2095b2099a24",
-  pageTypeSlug: "module",
   type: "module",
   slug: "surplus-reading",
   definition: "the surplus hours left of Alan's night, taken from his day and kept on its readout",

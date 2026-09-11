@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stateCooldown = {
   id: "01a0725a-758c-7335-9600-2a7c8c1391a4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "state-cooldown",
   definition: "when a state file is written again and when the writing waits",

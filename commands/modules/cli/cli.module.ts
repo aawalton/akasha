@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const cli = {
   id: "01a04bdd-596d-7b27-bcc5-9acb2728eb0f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cli",
   definition: "the name on the path answered, printed and given an exit code",

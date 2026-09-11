@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const componentsInputPanels = {
   id: "01a05c95-5648-760a-b017-7d6a4cfa55ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "components-input-panels",
   definition: "the panels showing the text input, the textarea and the select",

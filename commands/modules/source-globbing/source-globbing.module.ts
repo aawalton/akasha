@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sourceGlobbing = {
   id: "01a08293-ce34-754b-8be5-2829fd5fb36e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "source-globbing",
   definition:

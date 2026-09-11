@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const claudeAccountHealth = {
   id: "01a06869-4fee-7000-9180-62f07f2844dc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "claude-account-health",
   definition: "what an upkeep pass records of an account's health",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const testflightPoll = {
   id: "01a05cee-e560-7b4d-8df2-e5be4918211f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "testflight-poll",
   definition: "the polling loop that carries an uploaded build from processing to tester-visible",

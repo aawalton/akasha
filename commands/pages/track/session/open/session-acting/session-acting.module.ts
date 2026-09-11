@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sessionActing = {
   id: "01a07979-7dc5-790d-be68-e06fd961532b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "session-acting",
   definition: "one act on a day's stretches, read off the checkout and landed as a commit",

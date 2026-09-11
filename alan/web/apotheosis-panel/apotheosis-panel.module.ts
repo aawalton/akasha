@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const apotheosisPanel = {
   id: "01a0655d-dab9-79d0-9613-c26dde2e7595",
-  pageTypeSlug: "module",
   type: "module",
   slug: "apotheosis-panel",
   definition: "what an apotheosis costs and what it gives",

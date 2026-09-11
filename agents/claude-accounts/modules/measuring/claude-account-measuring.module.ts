@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const claudeAccountMeasuring = {
   id: "01a05827-314f-7bc0-afb4-1189b872a8fb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "claude-account-measuring",
   definition: "what each account has spent of its windows, and which one the picker takes next",

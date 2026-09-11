@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const albumPulling = {
   id: "01a06585-5f39-70a6-bafc-9a2c3771bb19",
-  pageTypeSlug: "module",
   type: "module",
   slug: "album-pulling",
   definition: "the CloudKit calls an iCloud shared album is read by, and where each photo goes",

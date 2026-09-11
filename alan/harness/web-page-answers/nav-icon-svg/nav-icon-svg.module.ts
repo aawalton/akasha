@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const navIconSvg = {
   id: "01a0640f-8510-721d-88b0-b37b2bda4681",
-  pageTypeSlug: "module",
   type: "module",
   slug: "nav-icon-svg",
   definition: "a navigation icon drawn as svg text",

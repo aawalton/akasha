@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const invokedSeat = {
   id: "01a0686b-bfe9-7de3-9eeb-08993f0dc27e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "invoked-seat",
   definition: "which seat a command was invoked on, whether from a row of the panel or from a tab",

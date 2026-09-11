@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const domainTreeView = {
   id: "01a06867-dbcb-7f8b-95a7-e07e36cdffee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "domain-tree-view",
   definition: "the rows the editor asks for of the domain tree and what each row is drawn as",

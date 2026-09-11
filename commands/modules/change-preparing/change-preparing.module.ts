@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changePreparing = {
   id: "01a0818a-874f-79bb-a981-3f70b61d6b09",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-preparing",
   definition: "the change the gate is judged over, worked out from the change a call asked for",

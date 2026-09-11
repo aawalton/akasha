@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const normalize = {
   id: "01a05b6f-999d-7245-878b-3293cdfb33fb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "normalize",
   definition: "the words the channel shows for a message it carried or would not carry",

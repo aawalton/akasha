@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const consoleCapture = {
   id: "01a05ca9-d802-7e8d-8a1c-61187202e954",
-  pageTypeSlug: "module",
   type: "module",
   slug: "console-capture",
   definition:

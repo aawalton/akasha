@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const complexityRowing = {
   id: "01a08ccb-ef46-7d67-8b4e-cc41cae3762e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "complexity-rowing",
   definition: "the rows a complexity metric answers, and the flags a call for them takes",

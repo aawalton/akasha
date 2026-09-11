@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAmazonLines = {
   id: "01a06867-e5ed-7136-848d-0f062a3b65e9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-amazon-lines",
   definition: "the Amazon movements in our copy that are still waiting for a note",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const k8sManifestWalker = {
   id: "01a06735-dd9c-7006-89aa-ce3fbc8db31d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "k8s-manifest-walker",
   definition: "the lines, documents and blocks a YAML manifest is read as",

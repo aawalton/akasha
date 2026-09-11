@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchSync = {
   id: "01a06868-1536-78a0-ac3e-855101a65f64",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-sync",
   definition:

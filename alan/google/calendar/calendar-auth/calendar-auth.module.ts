@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const calendarAuth = {
   id: "01a05c02-c734-78ed-a826-ea774f206b33",
-  pageTypeSlug: "module",
   type: "module",
   slug: "calendar-auth",
   definition: "the client a calendar call is made through",

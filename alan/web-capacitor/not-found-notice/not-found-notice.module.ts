@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const notFoundNotice = {
   id: "01a08e04-ae95-7615-b97a-27cdf8ec5cda",
-  pageTypeSlug: "module",
   type: "module",
   slug: "not-found-notice",
   definition: "what a route draws in place of a page that is not there",

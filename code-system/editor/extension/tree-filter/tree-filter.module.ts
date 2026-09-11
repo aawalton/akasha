@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treeFilter = {
   id: "01a064d3-f9f9-789e-ad63-cd6848c691b2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "tree-filter",
   definition: "the part of a tree a match keeps and the test a node's fields are matched by",

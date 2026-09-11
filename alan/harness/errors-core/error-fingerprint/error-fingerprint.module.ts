@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const errorFingerprint = {
   id: "01a05c48-deeb-7016-a6d6-1a0c3bcc2c59",
-  pageTypeSlug: "module",
   type: "module",
   slug: "error-fingerprint",
   definition: "the one value two accounts of the same fault share",

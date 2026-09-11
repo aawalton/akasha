@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const modelAnswer = {
   id: "01a090e8-1fef-7d6a-a940-542adc23a645",
-  pageTypeSlug: "module",
   type: "module",
   slug: "model-answer",
   definition: "how a yes or no answer from a model is read",

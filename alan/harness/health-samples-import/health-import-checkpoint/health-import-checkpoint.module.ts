@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const healthImportCheckpoint = {
   id: "01a05c14-b11a-7003-bd04-1cf0d76f48ca",
-  pageTypeSlug: "module",
   type: "module",
   slug: "health-import-checkpoint",
   definition: "how far an import got, kept on disk so the next run carries on from there",

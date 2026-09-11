@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const typedstream = {
   id: "01a05bc9-4308-7002-8ad9-2d99f9097e39",
-  pageTypeSlug: "module",
   type: "module",
   slug: "typedstream",
   definition: "the text held inside an Apple typedstream message body",

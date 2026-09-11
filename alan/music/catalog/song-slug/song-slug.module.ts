@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const songSlug = {
   id: "01a06262-ff4c-7001-86ff-443d16400dc0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "song-slug",
   definition: "the name a song page or an artist page is reached by",

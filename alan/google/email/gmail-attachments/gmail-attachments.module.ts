@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gmailAttachments = {
   id: "01a05c0e-3730-7187-8180-c05ac035233c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gmail-attachments",
   definition: "the files hanging off a mail message, listed, fetched and made",

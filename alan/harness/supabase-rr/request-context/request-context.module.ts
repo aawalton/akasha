@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const requestContext = {
   id: "01a08dfb-590c-781c-8b39-2c8c78aa6740",
-  pageTypeSlug: "module",
   type: "module",
   slug: "request-context",
   definition: "the client and the user a request is carried out as",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const imessageRemote = {
   id: "01a05bc9-4308-7005-8e21-1d68ebecb94c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "imessage-remote",
   definition: "message and contact reads carried to the machine with them",

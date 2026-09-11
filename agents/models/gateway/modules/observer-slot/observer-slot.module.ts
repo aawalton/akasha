@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const observerSlot = {
   id: "01a062be-c8b4-7001-8e37-6c3dfe1b34d0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "observer-slot",
   definition: "the one stream a connection has in flight, and the end that runs once",

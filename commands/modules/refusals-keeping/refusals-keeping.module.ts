@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const refusalsKeeping = {
   id: "01a08165-a236-719a-95cf-da4ade5acc9f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "refusals-keeping",
   definition: "the refusals an agent's last landing answered with",

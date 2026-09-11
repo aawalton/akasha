@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const chessBoard = {
   id: "01a05bb1-0c04-7928-a1eb-636fd857d174",
-  pageTypeSlug: "module",
   type: "module",
   slug: "chess-board",
   definition: "a chess position drawn in a browser and played by dragging pieces",

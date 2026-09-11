@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deployCommitNaming = {
   id: "01a09183-6693-7551-9148-59aca04e1bcd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "deploy-commit-naming",
   definition: "the commit a deploy is made at",

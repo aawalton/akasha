@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const itemRow = {
   id: "01a05c69-c063-7566-8a9b-689790778f2f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "item-row",
   definition: "a row representing one item in a list",

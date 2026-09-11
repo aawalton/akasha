@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const panelCardData = {
   id: "01a05b82-8b99-778b-90ac-67f22974836e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "panel-card-data",
   definition: "the width classes every panel card is drawn to",

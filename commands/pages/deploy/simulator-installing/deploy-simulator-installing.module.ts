@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deploySimulatorInstalling = {
   id: "01a08e07-611c-798a-bc99-55b321247e50",
-  pageTypeSlug: "module",
   type: "module",
   slug: "deploy-simulator-installing",
   definition: "one iOS app built on the mac and installed on a simulator there",

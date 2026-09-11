@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const safetyReading = {
   id: "01a069bc-9375-7eee-b662-6f844c8880b6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "safety-reading",
   definition:

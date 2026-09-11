@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const packageManifest = {
   id: "01a05ae4-fc70-7000-89a5-77bf2b9786ae",
-  pageTypeSlug: "module",
   type: "module",
   slug: "package-manifest",
   definition: "the name a package is reached by and the file each way in lands on",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const refusalText = {
   id: "01a06895-1cfe-7000-918a-9e999d062e47",
-  pageTypeSlug: "module",
   type: "module",
   slug: "refusal-text",
   definition: "a refusal's words, read from its page and filled at every hole",

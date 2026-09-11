@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changeShadowTree = {
   id: "01a08e11-1e9d-7287-aea2-7bdc8d2fd844",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-shadow-tree",
   definition: "the paths under a folder, read from the tree rather than from the index",

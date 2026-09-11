@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mortalSparing = {
   id: "01a090fe-a88f-7766-88f5-4ef36edcf941",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mortal-sparing",
   definition: "the refusals a change draws over a mortal page, less the ones already drawn there",

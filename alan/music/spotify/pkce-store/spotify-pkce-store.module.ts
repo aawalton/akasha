@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const spotifyPkceStore = {
   id: "01a06261-dc1d-7004-9cf8-e12c3dded39e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "spotify-pkce-store",
   definition: "the verifier carried between the consent step and the exchange step",

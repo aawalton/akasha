@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const idleCardGrouping = {
   id: "01a0655d-dabf-7776-ad15-0959c54c103b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "idle-card-grouping",
   definition: "persona cards bucketed into the sections they are shown under",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pathMoving = {
   id: "01a0818f-6163-7ff5-b0d8-a3212cb3ace0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "path-moving",
   definition:

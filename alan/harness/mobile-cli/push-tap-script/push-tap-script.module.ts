@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pushTapScript = {
   id: "01a05cee-e560-71d2-95a2-e4f789ace504",
-  pageTypeSlug: "module",
   type: "module",
   slug: "push-tap-script",
   definition: "the shell that pushes an APNs payload to a booted simulator",

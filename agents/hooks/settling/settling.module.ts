@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const settling = {
   id: "01a04eb3-0e17-7660-850e-4311257ed9fa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "settling",
   definition: "where a path lands once every link on it is followed",

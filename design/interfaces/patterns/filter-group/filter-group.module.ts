@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const filterGroup = {
   id: "01a05c69-c061-72df-a9a9-0d74819af701",
-  pageTypeSlug: "module",
   type: "module",
   slug: "filter-group",
   definition: "a labelled filter with a way to take it off",

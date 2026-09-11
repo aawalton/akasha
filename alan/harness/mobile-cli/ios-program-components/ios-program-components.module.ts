@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const iosProgramComponents = {
   id: "01a05cee-e560-7f62-99a4-8df3cd92480b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "ios-program-components",
   definition: "the Swift components and build target an akasha ios-program page names",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const commandWalking = {
   id: "01a08171-a8fd-7adf-8d4e-cb3813757c6b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "command-walking",
   definition: "the level of the command tree a line's leading words reach",

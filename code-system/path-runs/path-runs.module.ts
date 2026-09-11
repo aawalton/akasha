@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pathRuns = {
   id: "01a08dc8-f79a-7000-992b-06d5107912ec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "path-runs",
   definition: "the runs of path characters a body holds, each with the line that run sits on",

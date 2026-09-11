@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ascClient = {
   id: "01a05cee-e560-7e4e-918a-7f897a988209",
-  pageTypeSlug: "module",
   type: "module",
   slug: "asc-client",
   definition: "the App Store Connect REST client that mints its own ES256 JWT from the local .p8",

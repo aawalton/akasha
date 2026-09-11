@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const answerPages = {
   id: "01a0640f-8510-77f1-af47-ecbe09c2dd3b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "answer-pages",
   definition: "the pages of one type answered to a browser",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dayReadoutWatching = {
   id: "01a08c11-e71f-7f8f-b343-d87bac283b1c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "day-readout-watching",
   definition: "the readouts read off Alan's opened day, taken again as that day's files change",

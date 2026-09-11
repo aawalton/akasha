@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const reading = {
   id: "01a04e96-c80a-79ef-819f-a455a96a0e54",
-  pageTypeSlug: "module",
   type: "module",
   slug: "reading",
   definition: "what an agent has read, kept beside the index and answered in one file read",

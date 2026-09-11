@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildSha = {
   id: "01a05c48-deeb-700e-a808-4f4784f43278",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-sha",
   definition: "the forty hexadecimal characters a commit is named by, read out of one string",

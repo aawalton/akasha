@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dayEntryKeys = {
   id: "01a072fc-7da3-7248-a22d-918364c535de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "day-entry-keys",
   definition: "the keys an entry beside a day is declared as able to carry",

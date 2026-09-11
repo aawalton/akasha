@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const configChecksum = {
   id: "01a08d87-c786-760e-992f-c710e3d37ad9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "config-checksum",
   definition: "the hash a config the same code emits is summed to",

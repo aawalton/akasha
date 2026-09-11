@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deployAddonInstalling = {
   id: "01a090bd-a195-7917-b992-02729e839291",
-  pageTypeSlug: "module",
   type: "module",
   slug: "deploy-addon-installing",
   definition: "one ESO addon compiled and put where the game reads it",

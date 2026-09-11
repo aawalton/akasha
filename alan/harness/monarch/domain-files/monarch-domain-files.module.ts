@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchDomainFiles = {
   id: "01a06865-ecc3-7ebe-8112-4082e54070c4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-domain-files",
   definition: "the account, category, tag and holding pages, composed from Monarch's own rows",

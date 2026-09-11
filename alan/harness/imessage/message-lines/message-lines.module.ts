@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const messageLines = {
   id: "01a0657e-795c-7000-8a91-fdebae0f4233",
-  pageTypeSlug: "module",
   type: "module",
   slug: "message-lines",
   definition: "a run of iMessage rows written out as tab-parted lines or as one JSON array",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAgreement = {
   id: "01a06863-ac0b-7070-8802-ece61d5b73b6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-agreement",
   definition: "our copy of Monarch counted against Monarch, and where the two part",

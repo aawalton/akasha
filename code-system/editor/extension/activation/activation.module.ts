@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const activation = {
   id: "01a064e4-627c-7eb1-ba44-da0dfc4df542",
-  pageTypeSlug: "module",
   type: "module",
   slug: "activation",
   definition: "each start run on its own to a deadline and the outcome that start reaches",

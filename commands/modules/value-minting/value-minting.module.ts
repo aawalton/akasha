@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const valueMinting = {
   id: "01a0503f-14ea-79f4-94bd-4c365bc24d5b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "value-minting",
   definition: "the values a write does not carry, worked out and put into a page or into an entry",

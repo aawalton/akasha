@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const agentStated = {
   id: "01a0582a-d9ef-72d5-a4df-56bca58d3005",
-  pageTypeSlug: "module",
   type: "module",
   slug: "agent-stated",
   definition: "what an agent's page states under one of its keys, as a page type and a slug",

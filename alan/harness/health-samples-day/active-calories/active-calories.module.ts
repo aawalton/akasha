@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const activeCalories = {
   id: "01a05bc7-9129-7009-bcbc-7874a1897c8b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "active-calories",
   definition: "the calories Alan burned over a day counted from when that day opened",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkStaging = {
   id: "01a08e16-827d-7f4d-bb26-5724ed027608",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-staging",
   definition: "the scratch checkout a check's test runs over",

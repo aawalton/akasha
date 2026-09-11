@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const catalogue = {
   id: "01a06579-f3d9-7001-8e82-d6a75a254ea0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "catalogue",
   definition:

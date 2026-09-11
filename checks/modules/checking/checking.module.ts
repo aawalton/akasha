@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checking = {
   id: "01a04bc4-7e86-7df4-a322-36cc3b789fce",
-  pageTypeSlug: "module",
   type: "module",
   slug: "checking",
   definition: "every check gathered and run over one change, answering what refuses it",

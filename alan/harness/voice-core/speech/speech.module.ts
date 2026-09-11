@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const speech = {
   id: "01a05b55-e06e-713c-ae5c-d556cabac43e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "speech",
   definition:

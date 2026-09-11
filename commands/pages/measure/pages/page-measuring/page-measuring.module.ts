@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageMeasuring = {
   id: "01a06d1e-b1fe-7d25-9a68-a0176409c125",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-measuring",
   definition:

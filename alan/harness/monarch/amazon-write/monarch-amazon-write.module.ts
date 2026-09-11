@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAmazonWrite = {
   id: "01a06866-06f1-72f6-aae7-817014db4c00",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-amazon-write",
   definition: "the Amazon note written onto a transaction, and the order number kept beside it",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const globalErrorCapture = {
   id: "01a05c89-6034-7aa8-8022-17a7a37e61e3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "global-error-capture",
   definition: "the window handlers turning an uncaught error or rejection into a report",

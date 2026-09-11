@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageClaiming = {
   id: "01a078bd-ae49-7881-bdf5-084ad0327dbe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-claiming",
   definition: "the files a page claims, read through the world a change reads",

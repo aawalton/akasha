@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inboxPass = {
   id: "01a06948-c4c6-798a-a36f-1d22dd231125",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inbox-pass",
   definition: "one pass over a person's inbox, said in lines a reader can act on",

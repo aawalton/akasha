@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const palette = {
   id: "01a064d3-f9f9-7259-a38b-0eb2aede39cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "palette",
   definition: "the color names the editor admits and the hex triplet each name answers with",

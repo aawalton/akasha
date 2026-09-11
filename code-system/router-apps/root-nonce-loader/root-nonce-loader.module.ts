@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const rootNonceLoader = {
   id: "01a0911f-df93-7daf-8b5c-e52e803f1f79",
-  pageTypeSlug: "module",
   type: "module",
   slug: "root-nonce-loader",
   definition: "the nonce a root route answers to the document that route renders",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const universalTitleBar = {
   id: "01a0655d-daba-741e-bfd8-5f9f906b20fd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "universal-title-bar",
   definition: "the bar naming what the idle game is showing",

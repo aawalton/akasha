@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkCost = {
   id: "01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-cost",
   definition: "what one run cost, appended beside the page of what ran",

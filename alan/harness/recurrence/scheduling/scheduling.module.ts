@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scheduling = {
   id: "01a05c6f-c7c4-7bd2-ac26-fc8ae8b38e8b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scheduling",
   definition: "the next day a repeating thing falls due after the one it has",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mimeMessage = {
   id: "01a05c0e-372f-78d8-908e-3f8b94dc0ac5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mime-message",
   definition: "an email written out as the bytes a mail server takes",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const routerAppRendering = {
   id: "01a08e0c-9954-75c1-9e79-f74a78e53f01",
-  pageTypeSlug: "module",
   type: "module",
   slug: "router-app-rendering",
   definition: "the response a router app's server entry renders for one request",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scratching = {
   id: "01a04e38-e129-7fb0-90d9-b552acc212d8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scratching",
   definition:

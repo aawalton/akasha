@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transcriptModel = {
   id: "01a064f0-734e-75cf-a1f2-3aaa770e1edf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transcript-model",
   definition: "the entries a transcript's lines fold into",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const statusBarLegends = {
   id: "01a0655b-ae42-7398-bbea-589a74f1d120",
-  pageTypeSlug: "module",
   type: "module",
   slug: "status-bar-legends",
   definition: "the labels a stoplight section's tooltip names",

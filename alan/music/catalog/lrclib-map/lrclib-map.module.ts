@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lrclibMap = {
   id: "01a06262-ff4c-7005-b1fe-0f60b8c2ffbe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lrclib-map",
   definition: "an LRCLIB answer read as the words a song has",

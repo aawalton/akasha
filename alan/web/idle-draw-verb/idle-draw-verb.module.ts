@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const idleDrawVerb = {
   id: "01a0655d-dabf-7b96-a057-051c4f931317",
-  pageTypeSlug: "module",
   type: "module",
   slug: "idle-draw-verb",
   definition: "a draw asked for from a card",

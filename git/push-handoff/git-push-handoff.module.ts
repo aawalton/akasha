@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gitPushHandoff = {
   id: "01a068b3-8055-7000-b301-1ef5cf968dde",
-  pageTypeSlug: "module",
   type: "module",
   slug: "git-push-handoff",
   definition:

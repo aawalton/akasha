@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAmazonOrder = {
   id: "01a06863-8dd7-7e4b-b3a0-aceedce9757e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-amazon-order",
   definition: "an Amazon order read out of the confirmation mail Amazon sends",

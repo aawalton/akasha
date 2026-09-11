@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const transcriptReading = {
   id: "01a06811-01d3-7001-82ae-508e168fc61f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "transcript-reading",
   definition: "one fold per transcript file, advanced over the bytes appended since the last read",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lrclibSchema = {
   id: "01a06262-ff4c-7003-9b41-cc6b930ce9df",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lrclib-schema",
   definition: "the shape an LRCLIB answer takes",

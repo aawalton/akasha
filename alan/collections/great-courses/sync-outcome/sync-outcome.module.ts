@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const syncOutcome = {
   id: "01a06580-196a-7000-9451-e53d200e3e2d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sync-outcome",
   definition:

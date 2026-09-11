@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const longBody = {
   id: "01a0614f-24db-74bb-83ae-6e7c5477cf42",
-  pageTypeSlug: "module",
   type: "module",
   slug: "long-body",
   definition: "a body longer than one answer handed back a run of whole numbered lines at a time",

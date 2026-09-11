@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const authClient = {
   id: "01a05c97-8af8-75bc-b844-9f52803ba264",
-  pageTypeSlug: "module",
   type: "module",
   slug: "auth-client",
   definition: "signing in, signing up and signing out from the browser",

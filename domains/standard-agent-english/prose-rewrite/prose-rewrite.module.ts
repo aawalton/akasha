@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const proseRewrite = {
   id: "01a08245-78cc-7f77-96bc-39695e9c2410",
-  pageTypeSlug: "module",
   type: "module",
   slug: "prose-rewrite",
   definition: "the words a passage is written with in place of the words it was written with",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const codePathBetween = {
   id: "01a06558-3a62-7fa9-90c6-0d6dc35875f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "code-path-between",
   definition:

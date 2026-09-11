@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const domainTreePanel = {
   id: "01a06867-dbcb-7dfc-899e-b45619e04890",
-  pageTypeSlug: "module",
   type: "module",
   slug: "domain-tree-panel",
   definition: "the Domains panel brought up, and the domains drawn into it from one file",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const devServerArgumentReading = {
   id: "01a08df9-5e27-71e7-8009-6228d636611b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "dev-server-argument-reading",
   definition: "the act, the seq, the app and the flags one dev-server call names",

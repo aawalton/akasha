@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const landingChangeComposing = {
   id: "01a08e4b-4473-76f8-a0ab-a6f11802d8b6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "landing-change-composing",
   definition: "the change a set of file changes makes against the repository",

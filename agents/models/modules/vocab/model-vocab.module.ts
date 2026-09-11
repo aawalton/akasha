@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const modelVocab = {
   id: "01a06a01-258c-7517-820a-2362cf730b25",
-  pageTypeSlug: "module",
   type: "module",
   slug: "model-vocab",
   definition: "the names a model is called by, and the reading between them",

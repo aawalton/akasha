@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const porcelainStatusReading = {
   id: "01a06816-2f10-7367-b0af-3052e7774a7c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "porcelain-status-reading",
   definition: "a repository's status asked of git and read into entries",

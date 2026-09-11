@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const throwawayUser = {
   id: "01a06583-0030-7003-b7d9-21d45fedb867",
-  pageTypeSlug: "module",
   type: "module",
   slug: "throwaway-user",
   definition: "a user the service role makes by email, with the password the user was made with",

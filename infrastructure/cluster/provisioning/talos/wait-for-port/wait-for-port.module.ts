@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const waitForPort = {
   id: "01a06813-7b0f-7521-9492-72769e9aaf3c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "wait-for-port",
   definition: "a poll loop resolving once a host and a port accept a TCP connection",

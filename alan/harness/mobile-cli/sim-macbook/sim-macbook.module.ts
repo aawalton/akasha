@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const simMacbook = {
   id: "01a05cee-e560-774c-8033-bd5fef37e8aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sim-macbook",
   definition: "bringing appium and a booted simulator up on the remote macbook",

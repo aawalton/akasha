@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const decodeHarnessScript = {
   id: "01a0910c-50a4-7b5a-8f18-530ddf42c6ea",
-  pageTypeSlug: "module",
   type: "module",
   slug: "decode-harness-script",
   definition: "the script that builds an app's decode harness and runs it on a simulator",

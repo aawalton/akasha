@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageReasons = {
   id: "01a08c0e-0449-7f41-9132-874bda8f8428",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-reasons",
   definition: "the reasons a page's values give against what its page type declares",

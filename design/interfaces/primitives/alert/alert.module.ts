@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const alert = {
   id: "01a05be9-d4c2-79bc-818d-6b54ee9d769d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "alert",
   definition: "a boxed notice with a title and a body",

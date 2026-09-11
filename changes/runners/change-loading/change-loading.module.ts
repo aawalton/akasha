@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changeLoading = {
   id: "01a08161-d992-7ad5-b5f9-6397f53d2002",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-loading",
   definition: "the change filed at an address loaded with the guards that change names",

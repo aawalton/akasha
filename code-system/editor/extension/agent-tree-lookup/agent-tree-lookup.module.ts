@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const agentTreeLookup = {
   id: "01a0686b-bfe9-784a-84aa-10a105843c4e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "agent-tree-lookup",
   definition: "the place each seat has, and what a drawn forest answers about a row in it",

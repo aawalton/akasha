@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sendUpdatesNarrowing = {
   id: "01a0657c-604c-7000-884b-de941ede99ce",
-  pageTypeSlug: "module",
   type: "module",
   slug: "send-updates-narrowing",
   definition: "the three values a send-updates choice takes, and a raw value read as one",

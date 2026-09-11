@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deployBundlePublishing = {
   id: "01a090c2-cad0-7d60-8365-27184838f8ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "deploy-bundle-publishing",
   definition: "the addon bundle a web app serves, put into the registry under its content hash",

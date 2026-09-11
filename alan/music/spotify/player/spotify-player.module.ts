@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const spotifyPlayer = {
   id: "01a06261-dc1d-7008-b575-b9785f2015e8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "spotify-player",
   definition: "what is playing on Alan's devices and what is asked of them",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const readoutReading = {
   id: "01a057f9-873e-7390-9635-32012c10d149",
-  pageTypeSlug: "module",
   type: "module",
   slug: "readout-reading",
   definition: "the reading a readout last took, kept beside its page",

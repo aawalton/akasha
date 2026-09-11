@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fileArguing = {
   id: "01a07bd4-e969-7d84-be28-cfc9777fb405",
-  pageTypeSlug: "module",
   type: "module",
   slug: "file-arguing",
   definition: "the files a command line names, and the body each file is left with",

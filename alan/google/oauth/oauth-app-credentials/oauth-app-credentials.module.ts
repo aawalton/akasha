@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const oauthAppCredentials = {
   id: "01a05bdc-e25c-7dd0-ad2f-2a9019b21439",
-  pageTypeSlug: "module",
   type: "module",
   slug: "oauth-app-credentials",
   definition: "the client id and secret the Google desktop app is reached with",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useMobile = {
   id: "01a05be9-d4c6-7a5d-ba43-99e2f2bba4fc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-mobile",
   definition: "whether the viewport is narrow enough to be a phone",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scriptPaths = {
   id: "01a08ee1-df5c-739b-aaae-9c94d47a27ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "script-paths",
   definition: "the paths a composed script names under the checkout root",

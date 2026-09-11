@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const spotifyClient = {
   id: "01a06261-dc1d-7007-8f9c-f19cb6de7402",
-  pageTypeSlug: "module",
   type: "module",
   slug: "spotify-client",
   definition: "one paced queue every Spotify Web API call goes through",

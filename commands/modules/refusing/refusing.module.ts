@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const refusing = {
   id: "01a08cba-d78e-707e-a8b3-0f8748457353",
-  pageTypeSlug: "module",
   type: "module",
   slug: "refusing",
   definition: "a command's answer where the call is refused",

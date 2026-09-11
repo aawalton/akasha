@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const authFooter = {
   id: "01a08e43-fb7d-780f-b702-af0566841b73",
-  pageTypeSlug: "module",
   type: "module",
   slug: "auth-footer",
   definition: "the sidebar footer a person signs in from, or signs out of by posting a form",

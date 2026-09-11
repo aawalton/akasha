@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const iosSigning = {
   id: "01a05cee-e560-71dd-8e89-cb8b5c1119d9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "ios-signing",
   definition:

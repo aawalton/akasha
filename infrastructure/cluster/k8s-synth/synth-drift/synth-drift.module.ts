@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const synthDrift = {
   id: "01a06810-0b68-7951-a36a-4b0291df9b60",
-  pageTypeSlug: "module",
   type: "module",
   slug: "synth-drift",
   definition: "how a generated file on disk differs from what its synth file makes",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workTreeDragging = {
   id: "01a081e8-84f4-78f4-89ef-3f3d801114cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "work-tree-dragging",
   definition: "the row dragged in the work tree read as one intent's new place or new initiative",

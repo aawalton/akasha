@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sleepReading = {
   id: "01a069b3-8f5a-7bff-bb12-ccc087280c99",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sleep-reading",
   definition: "the hours Alan slept, taken from his day and kept on the sleep readout",

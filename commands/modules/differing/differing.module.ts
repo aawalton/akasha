@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const differing = {
   id: "01a04ebb-d762-7000-92c3-765835d1b7a3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "differing",
   definition:

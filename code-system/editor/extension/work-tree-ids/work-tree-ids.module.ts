@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workTreeIds = {
   id: "01a064c8-9a9c-7f08-a940-edc2c37c2024",
-  pageTypeSlug: "module",
   type: "module",
   slug: "work-tree-ids",
   definition: "the strings the editor knows the work tree's view and its commands by",

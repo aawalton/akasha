@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const courseMapping = {
   id: "01a06579-f3d9-7002-8c59-6aa5c1dd9e49",
-  pageTypeSlug: "module",
   type: "module",
   slug: "course-mapping",
   definition:

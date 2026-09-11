@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dataWatching = {
   id: "01a07266-d474-7296-bd8e-10c7667fe6b6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "data-watching",
   definition: "the loop holding what the editor draws and writing it where the editor reads",

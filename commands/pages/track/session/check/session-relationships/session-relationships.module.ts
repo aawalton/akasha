@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sessionRelationships = {
   id: "01a08cad-1eca-7853-9c10-0a4d891fc3d8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "session-relationships",
   definition: "the relationships a stretch of one of Alan's days is tagged with",

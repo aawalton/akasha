@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changeCeiling = {
   id: "01a09154-47b9-7842-861a-266f8b227077",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-ceiling",
   definition: "the processor seconds one change is allowed and what a change past them is told",

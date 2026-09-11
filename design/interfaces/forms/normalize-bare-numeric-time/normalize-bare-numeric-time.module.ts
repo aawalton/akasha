@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const normalizeBareNumericTime = {
   id: "01a05b7e-679a-76a2-a445-5bf0237a1fd0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "normalize-bare-numeric-time",
   definition: "bare digits written as a clock time",

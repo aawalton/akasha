@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const keyRequiring = {
   id: "01a0825b-21cd-7c17-ac5f-ecb7da01c1e7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "key-requiring",
   definition: "whether the page type a page is requires a key",

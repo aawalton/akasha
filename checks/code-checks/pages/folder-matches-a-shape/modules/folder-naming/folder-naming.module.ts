@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const folderNaming = {
   id: "01a08862-ae61-7aba-8958-91c3c7732e22",
-  pageTypeSlug: "module",
   type: "module",
   slug: "folder-naming",
   definition: "the name a folder is asked for, and the page that name is asked against",

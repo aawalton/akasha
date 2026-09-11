@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deployedRenderCheck = {
   id: "01a05ca9-d802-795d-ac6f-ca68611372b6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "deployed-render-check",
   definition:

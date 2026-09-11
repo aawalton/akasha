@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const rebindOutcome = {
   id: "01a09098-2365-7377-876b-8d9e17c749d6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rebind-outcome",
   definition: "what an attempt to move a request to another account answers with",

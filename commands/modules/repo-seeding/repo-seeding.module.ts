@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const repoSeeding = {
   id: "01a08cc2-9f09-710e-8d8a-30169349b3d9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "repo-seeding",
   definition: "a scratch akasha repository a change can be landed into",

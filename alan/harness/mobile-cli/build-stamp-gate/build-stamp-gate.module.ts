@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildStampGate = {
   id: "01a05cee-e560-7095-8d3c-c3c7cef4babf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-stamp-gate",
   definition: "the shell that refuses an upload whose binaries do not have this cut's commit",

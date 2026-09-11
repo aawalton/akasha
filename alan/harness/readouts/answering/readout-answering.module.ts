@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const readoutAnswering = {
   id: "01a05e99-b83f-7309-8cbb-19beb1c4e8cd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "readout-answering",
   definition: "a fetcher answering one canned payload",

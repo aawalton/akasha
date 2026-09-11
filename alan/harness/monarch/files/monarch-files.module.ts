@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchFiles = {
   id: "01a0685f-4ed9-7c80-a890-3fdd317a74d0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-files",
   definition: "the Monarch pages inside akasha, read from the checkout rather than from a service",

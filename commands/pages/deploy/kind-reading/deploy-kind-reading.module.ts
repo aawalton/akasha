@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const deployKindReading = {
   id: "01a05f90-94a7-7fc2-9a67-8a23a3e65539",
-  pageTypeSlug: "module",
   type: "module",
   slug: "deploy-kind-reading",
   definition: "the kind of thing a slug names, with the page carrying that slug",

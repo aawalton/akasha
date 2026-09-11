@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const clusterFetch = {
   id: "01a068d4-d2aa-7902-bb36-12d037d7ac6b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cluster-fetch",
   definition: "one call to the cluster's API server, with the credential the environment holds",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const responsiveOverlay = {
   id: "01a05c69-c063-71be-aa2b-40407173dfec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "responsive-overlay",
   definition: "a sheet on a phone and a popover on a desktop",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gmailInboundAdapter = {
   id: "01a05c0e-3731-700e-afc0-458bb381fe6a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gmail-inbound-adapter",
   definition: "one Gmail message read into the shape an arriving email is judged in",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchCategorize = {
   id: "01a06865-ecc3-728c-8068-f1a0461fa6d7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-categorize",
   definition: "a category set on one transaction, in Monarch and in our copy alike",

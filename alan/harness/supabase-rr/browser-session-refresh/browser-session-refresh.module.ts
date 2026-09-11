@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const browserSessionRefresh = {
   id: "01a09099-ea3c-7d5e-a085-0b0c4402eeea",
-  pageTypeSlug: "module",
   type: "module",
   slug: "browser-session-refresh",
   definition: "the Supabase session a browser holds, refreshed in place",

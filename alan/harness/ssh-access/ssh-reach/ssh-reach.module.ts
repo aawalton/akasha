@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sshReach = {
   id: "01a05c2f-0f03-7c3a-84db-8888d5bebc83",
-  pageTypeSlug: "module",
   type: "module",
   slug: "ssh-reach",
   definition: "a script run on another host, its output taken line by line or whole",

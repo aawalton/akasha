@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const oauthConsent = {
   id: "01a0657c-604c-7001-97a9-2a69478eb550",
-  pageTypeSlug: "module",
   type: "module",
   slug: "oauth-consent",
   definition: "the browser round trip a Google refresh token comes back from",

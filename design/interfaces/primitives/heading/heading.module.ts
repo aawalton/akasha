@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const heading = {
   id: "01a05be9-d4c3-7ba0-9d44-7151c04784fd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "heading",
   definition: "the sized page headings, from the largest down to the smallest",

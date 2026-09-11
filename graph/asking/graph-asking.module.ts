@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const graphAsking = {
   id: "01a04ff4-320c-7689-9d79-b3b0caa05ab1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "graph-asking",
   definition: "what the graph is asked, and where each answer is read from",

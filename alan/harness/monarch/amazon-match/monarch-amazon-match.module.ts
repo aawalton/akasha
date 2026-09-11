@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAmazonMatch = {
   id: "01a06865-ecc2-705a-8dad-0a43e80e596b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-amazon-match",
   definition: "an Amazon order or refund matched against the card movement it accounts for",

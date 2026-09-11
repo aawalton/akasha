@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gmailMailbox = {
   id: "01a0657c-604c-7003-9159-bb1811c11e74",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gmail-mailbox",
   definition: "the Gmail mailbox reached over HTTP as summaries, raw bytes and labels",

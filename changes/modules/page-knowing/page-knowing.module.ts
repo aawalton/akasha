@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageKnowing = {
   id: "01a0795c-c0d5-7580-afd1-7b86083ef2dd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-knowing",
   definition:

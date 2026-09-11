@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildShaDefine = {
   id: "01a05c48-deeb-7010-a5ad-81104931a96d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-sha-define",
   definition: "the commit a bundler compiles into the build it is making",

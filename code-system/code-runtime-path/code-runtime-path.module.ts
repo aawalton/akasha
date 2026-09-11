@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const codeRuntimePath = {
   id: "01a06558-3a63-7eb3-af7c-3a1c913d02c1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "code-runtime-path",
   definition:

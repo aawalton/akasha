@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const readerNarrationDetail = {
   id: "01a0655d-dab9-7e94-85cc-d8ee503c200b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "reader-narration-detail",
   definition: "a chapter drawn beside the voice reading it aloud",

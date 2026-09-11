@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const statusBarDrawing = {
   id: "01a06816-69fa-7000-b090-e3d420f7dce0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "status-bar-drawing",
   definition: "what each slot says once a reading has settled or gone stale",

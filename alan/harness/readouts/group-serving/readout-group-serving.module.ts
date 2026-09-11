@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const readoutGroupServing = {
   id: "01a05f42-92f5-7006-91fc-290b825bc130",
-  pageTypeSlug: "module",
   type: "module",
   slug: "readout-group-serving",
   definition: "what a route answers when a caller asks for a group of readings as colors",

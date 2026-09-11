@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAgree = {
   id: "01a06867-e5ed-703d-b129-e891c8fed291",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-agree",
   definition:

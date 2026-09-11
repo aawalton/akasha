@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const holding = {
   id: "01a04df0-eccd-725e-9745-6888f36628bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "holding",
   definition: "the hold one landing takes over a worktree while it judges, writes and commits",

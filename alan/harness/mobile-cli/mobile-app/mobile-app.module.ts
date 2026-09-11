@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mobileApp = {
   id: "01a05cee-e560-793f-a803-19a1b3c458ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mobile-app",
   definition: "an iOS app as stated on its ios-app page, with the repo paths it spells",

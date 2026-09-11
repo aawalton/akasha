@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkMeasuring = {
   id: "01a0735c-1733-7951-92bb-c79e18a063a2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-measuring",
   definition: "what a check's runs took and how many bodies share a rule with another file",

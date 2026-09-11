@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchTransaction = {
   id: "01a0685f-4ed9-79ad-a2e6-7f7ef50b5218",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-transaction",
   definition:

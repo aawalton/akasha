@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sessionPointsCompute = {
   id: "01a06972-b75e-7000-8a80-28e0cf97299c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "session-points-compute",
   definition:

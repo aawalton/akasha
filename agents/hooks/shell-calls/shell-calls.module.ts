@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shellCalls = {
   id: "01a04eab-4522-7000-9e89-8627b48fbcc5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shell-calls",
   definition: "a shell command line cut into the segments and words it carries",

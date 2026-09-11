@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seatShowing = {
   id: "01a0686b-bfe9-7ca6-919b-b3b0a47d62d8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seat-showing",
   definition: "what a click on a seat brings up, and the column it comes up in",

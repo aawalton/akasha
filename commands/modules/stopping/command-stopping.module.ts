@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const commandStopping = {
   id: "01a08210-6d0b-7dc1-ab3e-7bbc1658cd31",
-  pageTypeSlug: "module",
   type: "module",
   slug: "command-stopping",
   definition: "a call stopped where the command runs past the seconds that command is allowed",

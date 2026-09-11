@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const starRow = {
   id: "01a0655d-daba-7b19-8ffb-b74fb03be230",
-  pageTypeSlug: "module",
   type: "module",
   slug: "star-row",
   definition: "a persona's rank drawn as stars",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const bodyText = {
   id: "01a04fa7-aae4-77e8-8e0c-b9e61046b33b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "body-text",
   definition: "a file body as the text it holds",

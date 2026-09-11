@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const subagentCheckpoints = {
   id: "01a0686b-bfe9-752c-8f69-90fe541e5755",
-  pageTypeSlug: "module",
   type: "module",
   slug: "subagent-checkpoints",
   definition:

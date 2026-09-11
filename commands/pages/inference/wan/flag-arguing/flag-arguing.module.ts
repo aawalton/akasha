@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const flagArguing = {
   id: "01a08210-304b-74bd-95f9-7f1105af1da7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "flag-arguing",
   definition: "the value a flag has, read off the command line",

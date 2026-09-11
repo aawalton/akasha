@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const changeArguing = {
   id: "01a08174-78c9-7fb4-91e3-ca3e56c1323c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "change-arguing",
   definition: "whether a command under `akasha change` was named a word it takes none of",

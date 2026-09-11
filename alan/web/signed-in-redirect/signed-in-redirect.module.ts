@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const signedInRedirect = {
   id: "01a08e1d-f4fb-72e1-9f35-8bab309aa758",
-  pageTypeSlug: "module",
   type: "module",
   slug: "signed-in-redirect",
   definition: "where a signed-in reader asking for a signed-out route is sent",

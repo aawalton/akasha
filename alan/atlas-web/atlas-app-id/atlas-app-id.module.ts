@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const atlasAppId = {
   id: "01a06582-6b2f-7b72-94d2-b59147464737",
-  pageTypeSlug: "module",
   type: "module",
   slug: "atlas-app-id",
   definition: "the id and slug Atlas is registered under",

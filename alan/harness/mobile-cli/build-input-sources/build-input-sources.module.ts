@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildInputSources = {
   id: "01a05cee-e560-7116-bb78-4e76e90508fe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-input-sources",
   definition: "the two repo-and-paths pairs a mobile build's inputs sit in",

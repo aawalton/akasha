@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gitPushing = {
   id: "01a068ae-fd9c-7003-9693-a93bade6fb89",
-  pageTypeSlug: "module",
   type: "module",
   slug: "git-pushing",
   definition:

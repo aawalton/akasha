@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const userClient = {
   id: "01a05c91-61cd-7ca0-84dc-81d150423884",
-  pageTypeSlug: "module",
   type: "module",
   slug: "user-client",
   definition: "the Supabase client a signed-in person acts through, bound by row policy",

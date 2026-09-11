@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const noWordReading = {
   id: "01a081e9-0f95-73af-911a-922ce68fb62c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "no-word-reading",
   definition: "the reading of a call by a command taking no word",

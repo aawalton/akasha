@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchAmazonPairs = {
   id: "01a06866-06f1-75a5-8052-12c391088698",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-amazon-pairs",
   definition: "the Amazon charges and refunds standing under one order, and where they disagree",

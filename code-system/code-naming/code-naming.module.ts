@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const codeNaming = {
   id: "01a08cc7-f1c9-7e9b-9ff6-01abb5cea0cc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "code-naming",
   definition: "what the checker says a spelling means",

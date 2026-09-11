@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const costColor = {
   id: "01a08b96-95c4-7a57-9ee3-efab04e522fc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cost-color",
   definition: "the color a cost multiplier is drawn in, read with the surplus",

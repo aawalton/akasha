@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const forwardedMessage = {
   id: "01a0657c-604c-7002-a940-7c5975e0d53e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "forwarded-message",
   definition: "the bytes of one email wrapped as a forward of itself",

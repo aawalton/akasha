@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gitRunning = {
   id: "01a05d7f-23fc-7001-9aaa-0ba0969f501e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "git-running",
   definition: "a git command run to its end in a repository, and the text it left",

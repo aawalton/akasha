@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const outputReaching = {
   id: "01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "output-reaching",
   definition: "whether what a command writes out reaches the agent that called it",

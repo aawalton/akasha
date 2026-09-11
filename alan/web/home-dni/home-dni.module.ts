@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const homeDni = {
   id: "01a0655d-daa7-7945-ac04-32daf772c01c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "home-dni",
   definition: "the navigation item the home screen opens on",

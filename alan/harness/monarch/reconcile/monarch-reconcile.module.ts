@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const monarchReconcile = {
   id: "01a06865-ecc3-7dce-83d7-64dbed1ee5a2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "monarch-reconcile",
   definition:

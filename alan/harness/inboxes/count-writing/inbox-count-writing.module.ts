@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inboxCountWriting = {
   id: "01a069b6-bb6b-7b92-97c2-53a4f930ea5a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inbox-count-writing",
   definition: "the counts one poll took, written onto that day's tracking row",

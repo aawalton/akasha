@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const claudeAccountRefreshing = {
   id: "01a0633c-772d-75a9-bf36-5beb8bfeea02",
-  pageTypeSlug: "module",
   type: "module",
   slug: "claude-account-refreshing",
   definition: "what an account has spent, read upstream and written beside that account's page",

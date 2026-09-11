@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gmailHistory = {
   id: "01a05c0e-3730-7af5-a10b-a823e4340d0b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gmail-history",
   definition: "what arrived in the mailbox since a point Gmail names",

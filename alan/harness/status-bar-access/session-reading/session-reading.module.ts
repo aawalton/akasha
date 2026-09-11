@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sessionReading = {
   id: "01a05c9d-4096-7200-bed7-33491866fccb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "session-reading",
   definition: "the readings a day's activity is scored from",

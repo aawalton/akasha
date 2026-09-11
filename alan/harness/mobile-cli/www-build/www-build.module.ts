@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const wwwBuild = {
   id: "01a05cee-e560-7a57-a963-fd6e97427f94",
-  pageTypeSlug: "module",
   type: "module",
   slug: "www-build",
   definition: "the www bundle built at a named commit in a detached worktree",

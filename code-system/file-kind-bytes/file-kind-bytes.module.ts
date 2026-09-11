@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fileKindBytes = {
   id: "01a068ce-5a2d-7d3b-913a-1d239336818e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "file-kind-bytes",
   definition: "whether the kind a file's name says it is holds bytes rather than text",

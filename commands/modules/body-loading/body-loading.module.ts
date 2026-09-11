@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const bodyLoading = {
   id: "01a09144-e05c-7d0e-996c-bbc555e3f9f7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "body-loading",
   definition: "the code at a module path, loaded from the body a change leaves there",
