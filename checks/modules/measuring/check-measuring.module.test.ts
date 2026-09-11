@@ -17,7 +17,7 @@ import {
   totalOf,
   windowIn,
   withinOf,
-} from "./check-measuring.module.code.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import {
   AUDIT_LOGS,
   agoOf,
@@ -42,7 +42,7 @@ import {
   TWO,
   unreadableInto,
   WITHIN,
-} from "./check-measuring.module.test-fixtures.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,10 +1,16 @@
+import type {
+  CheckCost,
+  Chosen,
+  Costs,
+  Ruled,
+  Tally,
+} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   nothingFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import type { CheckCost, Chosen, Costs, Ruled, Tally } from "./check-measuring.module.code.ts"
 
 export const ENTRIES = "entries"
 
