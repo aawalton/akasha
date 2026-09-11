@@ -1,6 +1,7 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import { fontPreloading } from "akasha/code-system/router-apps/font-preload/font-preload.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
 import {
@@ -15,15 +16,7 @@ import {
 import type { Route } from "./+types/root"
 import "akasha/products/audhdalan/web/look/audhdalan-web-look.stylesheet.styles.css"
 
-export const links: Route.LinksFunction = () => [
-  {
-    rel: "preload",
-    href: geistSansWoff2,
-    as: "font",
-    type: "font/woff2",
-    crossOrigin: "anonymous",
-  },
-]
+export const links: Route.LinksFunction = () => fontPreloading(geistSansWoff2)
 
 export const meta: Route.MetaFunction = () => [
   { title: "audhdalan" },
