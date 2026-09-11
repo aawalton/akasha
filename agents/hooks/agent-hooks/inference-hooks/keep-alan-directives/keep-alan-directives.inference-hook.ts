@@ -20,6 +20,14 @@ export const keepAlanDirectives = {
     },
     {
       invariantKind: "departure",
+      statement: "What the person last asked for is judged beside the words the agent wrote back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tail holding nothing the person asked for is judged as an empty asking.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat answering to no person is left alone.",
     },
     {

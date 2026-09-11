@@ -10,6 +10,7 @@ export const cases = {
   properties: [
     { pageProperty: "text-property/case-page", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/case-asked", required: false, many: false },
     { pageProperty: "text-property/case-statement", required: true, many: false },
     { pageProperty: "select-property/case-answer", required: true, many: false },
     { pageProperty: "text-property/case-against", required: false, many: false },

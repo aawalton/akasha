@@ -24,7 +24,10 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
-import { lastSaidIn } from "akasha/seat-system/agent-last-said/agent-last-said.module.code.ts"
+import {
+  lastAskedIn,
+  lastSaidIn,
+} from "akasha/seat-system/agent-last-said/agent-last-said.module.code.ts"
 import {
   anyLiveShell,
   type TurnWorking,
@@ -72,6 +75,7 @@ export const SCOPE: readonly string[] = [
   "",
   "It catches:",
   "  the closing words of a turn, put to a model against each rule the seat's person states.",
+  "  what the person last asked for, put beside those words so a rule about it can be judged.",
   "",
   "It does not catch:",
   "  a turn under a seat that answers to no person.",
@@ -156,12 +160,12 @@ async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
   }
 }
 
-export function judging(root: string, agent: string, turn: string): Answer {
+export function judging(root: string, agent: string, asked: string, turn: string): Answer {
   const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
   if (person === null) return LET_THROUGH
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
   if (directives.length === 0) return LET_THROUGH
-  const asking = directiveKept({ turn, directives })
+  const asking = directiveKept({ asked, turn, directives })
   const answers = askedOf(
     root,
     modelOf(root),
@@ -187,9 +191,11 @@ export async function ran(): Promise<number> {
   if (stillWorking(await runningUnder(agent), workingOf(agent))) return ASIDE
   const tail = readOwnTranscriptTail(agent)
   const turn = tail === null ? null : lastSaidIn(tail)
-  if (turn === null) return ASIDE
+  if (tail === null || turn === null) return ASIDE
   try {
-    return said(judging(rootOf(realpathSync(import.meta.path)), agent, turn))
+    return said(
+      judging(rootOf(realpathSync(import.meta.path)), agent, lastAskedIn(tail) ?? "", turn)
+    )
   } catch {
     return ASIDE
   }
