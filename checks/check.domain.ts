@@ -9,6 +9,7 @@ export const check = {
   parts: [
     "module/body-not-utf8",
     "module/refusal-text",
+    "module/refusal-holding",
     "page-type/code-check",
     "page-type/model-check",
     "page-type/refusal",

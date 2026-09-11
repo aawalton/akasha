@@ -1,5 +1,9 @@
 import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  heldTo,
+  reasonSaid,
+} from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { pointerFor } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
@@ -22,44 +26,6 @@ export type Keeping = (whole: readonly string[]) => string | null
 
 export function brokenBy(thrown: unknown): Answer {
   return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
-}
-
-export function heldTo(said: readonly string[], ceiling: number): readonly string[] {
-  const held: string[] = []
-  let bytes = 0
-  for (const one of said) {
-    bytes += new TextEncoder().encode(one).length + 1
-    if (bytes > ceiling) {
-      held.push(
-        `${counted(said.length, "refusal")} in all, and the ${held.length} above are what one ` +
-          `answer holds at ${ceiling} bytes — begin with those`
-      )
-      return held
-    }
-    held.push(one)
-  }
-  return held
-}
-
-export function reasonSaid(reason: string, ceiling: number): string {
-  const said = reason
-    .split("\n")
-    .map((one) => one.replace(/\s+/g, " ").trim())
-    .filter((one) => one !== "")
-  const kept: string[] = []
-  let held = 0
-  for (const one of said) {
-    if (kept.length > 0 && held + one.length + 1 > ceiling) break
-    kept.push(one)
-    held += one.length + 1
-  }
-  const whole = kept.join(" ")
-  const over = whole.length - ceiling
-  const more: string[] = []
-  if (over > 0) more.push(counted(over, "character"))
-  if (said.length > kept.length) more.push(counted(said.length - kept.length, "line"))
-  const shown = over > 0 ? `${whole.slice(0, ceiling)}...` : whole
-  return more.length === 0 ? shown : `${shown} (${more.join(" and ")} more)`
 }
 
 export async function judgedOver(

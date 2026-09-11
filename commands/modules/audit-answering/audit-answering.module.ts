@@ -23,15 +23,8 @@ export const auditAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal is carried by its lines rather than as one run of words.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reason the answer holds only part of says how much of that reason went.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "More refusals than one answer holds keep their start and say how many there are.",
+      statement:
+        "A reason and a run of refusals are held to a ceiling by `module/refusal-holding`.",
     },
     {
       invariantKind: "departure",

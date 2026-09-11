@@ -2,14 +2,10 @@ import { expect, test } from "bun:test"
 import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
-  ANSWER_CEILING,
   type Asked,
   askedAnswer,
   codeOf,
-  heldTo,
   judgedOver,
-  REASON_CEILING,
-  reasonSaid,
 } from "akasha/commands/modules/audit-answering/audit-answering.module.code.ts"
 import { over } from "akasha/commands/modules/audit-answering/audit-answering.module.test-fixtures.ts"
 
@@ -91,23 +87,6 @@ test("a run that finds something says both what it found and what was handed in"
   expect(said.report[1]).toBe(NARROWED[0])
 })
 
-test("a reason one answer holds whole is carried whole, its lines run together", () => {
-  expect(reasonSaid("one\n\ntwo", REASON_CEILING)).toBe("one two")
-})
-
-test("a reason of many lines says how many of those lines went", () => {
-  const said = reasonSaid(`22 test files failed:\n${"a/b.test.ts\n".repeat(22)}`, 60)
-  expect(said).toContain("22 test files failed:")
-  expect(said).toContain("a/b.test.ts")
-  expect(said).toContain("(19 lines more)")
-})
-
-test("a first line past the ceiling says how many characters went", () => {
-  const said = reasonSaid("h".repeat(300), REASON_CEILING)
-  expect(said.startsWith("h".repeat(REASON_CEILING))).toBe(true)
-  expect(said).toContain(`(${300 - REASON_CEILING} characters more)`)
-})
-
 test("a reason spanning lines comes back on one, so one refusal is one line", async () => {
   const found = [{ path: "akasha/one.ts", reason: "first\n  second\n\tthird" }]
   const said = await judgedOver(saying(["one"], found), over(["akasha/one.ts"]), [])
@@ -148,19 +127,6 @@ test("a judging that throws is refused as unjudged rather than answered clean", 
   expect(said.code).toBe(3)
   expect(said.refusals[0]).toContain("nothing was judged")
   expect(said.refusals[0]).toContain("the checks could not be reached")
-})
-
-test("more refusals than one answer holds keep their start and say how many there are", () => {
-  const lines = Array.from({ length: 900 }, (_, at) => `akasha/${at}.ts — ${"held ".repeat(20)}`)
-  const said = heldTo(lines, ANSWER_CEILING)
-  expect(said.length).toBeLessThan(lines.length)
-  expect(said[said.length - 1]).toContain(`${lines.length} refusals in all`)
-  expect(said[said.length - 1]).toContain(`the ${said.length - 1} above`)
-  expect(new TextEncoder().encode(said.join("\n")).length).toBeLessThan(ANSWER_CEILING + 200)
-})
-
-test("every refusal remains when they all fit", () => {
-  expect(heldTo(["one", "two"], ANSWER_CEILING)).toEqual(["one", "two"])
 })
 
 const ANSWERED: Told = { refusals: [], unrun: [], unanswered: [], broken: null }
