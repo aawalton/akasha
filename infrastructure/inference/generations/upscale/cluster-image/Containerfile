@@ -3,7 +3,7 @@
 # 535.247.01 = CUDA 12.2 ceiling). Origin: #14565 (quantify workstation-5080 vs
 # cluster-GPU placement for the SeedVR2 v2.5 upscale recipe).
 #
-# WHY A SEPARATE FILE (not a parameterization of ./Containerfile): the two builds
+# WHY A SEPARATE FILE (not a parameterization of the workstation image): the two builds
 # diverge on base OS + CUDA + torch, not just ARG values. The workstation image is
 # CUDA 12.8 / torch 2.9.1 cu128 on ubuntu24.04/python3.12 (Blackwell sm_120). This
 # card's driver (535 = CUDA 12.2) cannot run a cu128 stack, so this image pins the
