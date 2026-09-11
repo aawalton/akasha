@@ -9,6 +9,7 @@ export const typescriptConfig = {
   slug: "typescript-config",
   propertySlug: "typescript-config",
   definition: "the TypeScript settings this tree is judged under",
+  extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,
 } as const satisfies FileProperty

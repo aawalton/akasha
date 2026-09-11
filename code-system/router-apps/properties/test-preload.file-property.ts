@@ -9,6 +9,7 @@ export const testPreload = {
   slug: "test-preload",
   propertySlug: "test-preload",
   definition: "what a test run loads before the first test",
+  extensions: ["toml"],
   fileName: "bunfig.toml",
   toolResolvesPaths: true,
 } as const satisfies FileProperty

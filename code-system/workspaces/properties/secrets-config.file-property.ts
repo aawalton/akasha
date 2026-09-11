@@ -9,5 +9,6 @@ export const secretsConfig = {
   slug: "secrets-config",
   propertySlug: "secrets-config",
   definition: "the keys each encrypted file is sealed to",
+  extensions: ["yaml"],
   fileName: ".sops.yaml",
 } as const satisfies FileProperty

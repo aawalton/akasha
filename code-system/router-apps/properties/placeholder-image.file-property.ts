@@ -9,5 +9,6 @@ export const placeholderImage = {
   slug: "placeholder-image",
   propertySlug: "placeholder-image",
   definition: "the image shown where an app has no image of its own",
+  extensions: ["svg"],
   fileName: "public/placeholder.svg",
 } as const satisfies FileProperty

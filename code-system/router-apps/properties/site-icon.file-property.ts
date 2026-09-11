@@ -9,5 +9,6 @@ export const siteIcon = {
   slug: "site-icon",
   propertySlug: "site-icon",
   definition: "the icon a browser shows for an app",
+  extensions: ["svg"],
   fileName: "public/favicon.svg",
 } as const satisfies FileProperty

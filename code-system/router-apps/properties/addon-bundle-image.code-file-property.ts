@@ -9,5 +9,6 @@ export const addonBundleImage = {
   slug: "addon-bundle-image",
   propertySlug: "addon-bundle-image",
   definition: "the addon bundle image an app serves, named by its content hash",
+  extensions: ["ts"],
   fileName: "deploy/addon-bundle-image.ts",
 } as const satisfies CodeFileProperty

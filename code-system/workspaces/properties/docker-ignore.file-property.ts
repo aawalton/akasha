@@ -9,5 +9,6 @@ export const dockerIgnore = {
   slug: "docker-ignore",
   propertySlug: "docker-ignore",
   definition: "the paths a container build leaves out",
+  extensions: ["dockerignore"],
   fileName: ".dockerignore",
 } as const satisfies FileProperty

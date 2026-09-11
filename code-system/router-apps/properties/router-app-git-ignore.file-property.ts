@@ -9,5 +9,6 @@ export const routerAppGitIgnore = {
   slug: "router-app-git-ignore",
   propertySlug: "git-ignore",
   definition: "what a build and an install leave behind that git does not keep",
+  extensions: ["gitignore"],
   fileName: ".gitignore",
 } as const satisfies FileProperty

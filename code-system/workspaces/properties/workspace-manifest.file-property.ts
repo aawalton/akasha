@@ -9,6 +9,7 @@ export const workspaceManifest = {
   slug: "workspace-manifest",
   propertySlug: "workspace-manifest",
   definition: "what a workspace states about itself",
+  extensions: ["json"],
   fileName: "package.json",
   toolResolvesPaths: true,
 } as const satisfies FileProperty

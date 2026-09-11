@@ -9,5 +9,6 @@ export const routeTable = {
   slug: "route-table",
   propertySlug: "route-table",
   definition: "what names every route a package serves",
+  extensions: ["ts"],
   fileName: "routes.ts",
 } as const satisfies CodeFileProperty

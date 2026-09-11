@@ -9,6 +9,7 @@ export const biomeConfig = {
   slug: "biome-config",
   propertySlug: "biome-config",
   definition: "what the formatter and the linter are told about this tree",
+  extensions: ["json"],
   fileName: "biome.json",
   toolResolvesPaths: true,
 } as const satisfies FileProperty

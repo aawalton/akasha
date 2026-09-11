@@ -9,5 +9,6 @@ export const viteConfig = {
   slug: "vite-config",
   propertySlug: "vite-config",
   definition: "what the bundler is told before it builds a router app",
+  extensions: ["ts"],
   fileName: "vite.config.ts",
 } as const satisfies CodeFileProperty

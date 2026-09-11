@@ -9,6 +9,7 @@ export const typescriptBuildInfo = {
   slug: "typescript-build-info",
   propertySlug: "typescript-build-info",
   definition: "what TypeScript already worked out about this tree, kept between runs",
+  extensions: ["tsbuildinfo"],
   fileName: "tsconfig.tsbuildinfo",
   runsFileLength: false,
   invariants: [

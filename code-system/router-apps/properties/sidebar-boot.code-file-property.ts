@@ -9,5 +9,6 @@ export const sidebarBoot = {
   slug: "sidebar-boot",
   propertySlug: "sidebar-boot",
   definition: "what sets the sidebar collapsed or expanded before the page first paints",
+  extensions: ["js"],
   fileName: "public/sidebar-boot.js",
 } as const satisfies CodeFileProperty

@@ -9,5 +9,6 @@ export const routerConfig = {
   slug: "router-config",
   propertySlug: "router-config",
   definition: "what the router is told before it reads a route",
+  extensions: ["ts"],
   fileName: "react-router.config.ts",
 } as const satisfies CodeFileProperty

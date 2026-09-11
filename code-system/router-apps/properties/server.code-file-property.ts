@@ -9,5 +9,6 @@ export const server = {
   slug: "server",
   propertySlug: "server",
   definition: "what listens on a port and hands each request to the router",
+  extensions: ["ts"],
   fileName: "server.ts",
 } as const satisfies CodeFileProperty

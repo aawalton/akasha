@@ -9,5 +9,6 @@ export const workspaceGitIgnore = {
   slug: "workspace-git-ignore",
   propertySlug: "workspace-git-ignore",
   definition: "the paths git keeps untracked",
+  extensions: ["gitignore"],
   fileName: ".gitignore",
 } as const satisfies FileProperty

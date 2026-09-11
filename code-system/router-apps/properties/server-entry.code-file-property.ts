@@ -9,5 +9,6 @@ export const serverEntry = {
   slug: "server-entry",
   propertySlug: "server-entry",
   definition: "what renders a response before it leaves the server",
+  extensions: ["tsx"],
   fileName: "entry.server.tsx",
 } as const satisfies CodeFileProperty

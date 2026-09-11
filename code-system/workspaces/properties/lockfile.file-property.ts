@@ -9,6 +9,7 @@ export const lockfile = {
   slug: "lockfile",
   propertySlug: "lockfile",
   definition: "what the package manager resolved every dependency to",
+  extensions: ["lock"],
   fileName: "bun.lock",
   generated: true,
   runsFileLength: false,

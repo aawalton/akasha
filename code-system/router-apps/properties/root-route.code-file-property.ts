@@ -9,6 +9,7 @@ export const rootRoute = {
   slug: "root-route",
   propertySlug: "root-route",
   definition: "the route every other route renders inside",
+  extensions: ["tsx"],
   fileName: "root.tsx",
   invariants: [
     {
