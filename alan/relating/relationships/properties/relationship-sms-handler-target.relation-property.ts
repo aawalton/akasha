@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const relationshipSmsHandlerTarget = {
   id: "01a06594-c6e2-7aa9-a606-4a5b660b0499",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "relationship-sms-handler-target",
   propertySlug: "relationship-sms-handler-target",

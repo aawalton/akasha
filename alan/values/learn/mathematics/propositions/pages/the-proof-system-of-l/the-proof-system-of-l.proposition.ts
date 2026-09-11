@@ -2,7 +2,6 @@ import type { Proposition } from "akasha/alan/values/learn/mathematics/propositi
 
 export const theProofSystemOfL = {
   id: "019f0f59-86c7-72a0-9f2f-ea23fa07f6fd",
-  pageTypeSlug: "proposition",
   type: "proposition",
   slug: "the-proof-system-of-l",
   title: "The Proof System of L",

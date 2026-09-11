@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const changeMode = {
   id: "01a07c24-7fb6-7822-ae49-528d32267cb2",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "change-mode",
   propertySlug: "change-mode",

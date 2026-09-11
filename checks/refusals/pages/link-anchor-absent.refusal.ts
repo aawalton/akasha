@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const linkAnchorAbsent = {
   id: "01a06611-398a-74b9-896d-d291af9e399c",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "link-anchor-absent",
   title: "Link anchor absent",

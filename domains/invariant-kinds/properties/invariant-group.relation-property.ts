@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const invariantGroup = {
   id: "01a04e11-9f98-7cf1-ac25-c66b4eea07c5",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "invariant-group",
   propertySlug: "invariant-group",

@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const coconutCreamPieCheesecake = {
   id: "01a06808-b765-7006-9a50-fcce090d43a9",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "coconut-cream-pie-cheesecake",
   title: "Coconut Cream Pie Cheesecake",

@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const effectConditions = {
   id: "01a06196-037c-761a-88dd-6339c805b996",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "effect-conditions",
   propertySlug: "conditions",

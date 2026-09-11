@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const runCode = {
   id: "01a08e05-72f7-7a28-b5c7-0e54c3d54c55",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "run-code",
   propertySlug: "code",

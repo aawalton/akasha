@@ -2,7 +2,6 @@ import type { ProseFrame } from "akasha/domains/standard-agent-english/prose-fra
 
 export const participle = {
   id: "01a08242-274c-7b44-a416-fa3191a028ff",
-  pageTypeSlug: "prose-frame",
   type: "prose-frame",
   slug: "participle",
   definition: "a word describing the thing before it",

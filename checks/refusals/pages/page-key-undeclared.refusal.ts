@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageKeyUndeclared = {
   id: "01a06611-3995-736d-bf67-fc1b2ba90379",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-key-undeclared",
   title: "Page key undeclared",

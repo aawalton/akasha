@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const valuesAlignment = {
   id: "019db533-f382-7381-8ce1-baa8ee863e61",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "values-alignment",
   title: "Values Alignment",

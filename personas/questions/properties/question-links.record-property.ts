@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const questionLinks = {
   id: "01a06823-89b2-7009-9d8b-67cd69c12142",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "question-links",
   propertySlug: "links",

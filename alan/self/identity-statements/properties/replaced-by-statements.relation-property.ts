@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const replacedByStatements = {
   id: "01a0658a-739f-7a30-b80e-84746389acf7",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "replaced-by-statements",
   propertySlug: "replaced-by-statements",

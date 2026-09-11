@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const medicationManagement = {
   id: "019db533-f382-71f6-a1a8-aac9c98d9c0c",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "medication-management",
   title: "Medication Management",

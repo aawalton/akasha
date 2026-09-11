@@ -2,7 +2,6 @@ import type { ProvisionedFile } from "akasha/infrastructure/machines/provisionin
 
 export const bashrc = {
   id: "01a06862-af5c-7212-901d-4472fc61079c",
-  pageTypeSlug: "provisioned-file",
   type: "provisioned-file",
   slug: "bashrc",
   definition: "what an interactive bash shell on a machine of Alan's reads at start",

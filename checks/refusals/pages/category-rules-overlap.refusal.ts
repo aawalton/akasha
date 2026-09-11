@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const categoryRulesOverlap = {
   id: "01a06611-3982-7d35-aeaf-83c657727992",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "category-rules-overlap",
   title: "Category rules overlap",

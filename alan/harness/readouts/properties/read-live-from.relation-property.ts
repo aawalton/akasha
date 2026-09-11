@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const readLiveFrom = {
   id: "01a06559-e74c-7e30-bbec-7604ae4f8dc5",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "read-live-from",
   propertySlug: "read-live-from",

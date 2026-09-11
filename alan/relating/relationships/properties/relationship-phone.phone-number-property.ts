@@ -2,7 +2,6 @@ import type { PhoneNumberProperty } from "akasha/pages/phone-number-properties/p
 
 export const relationshipPhone = {
   id: "01a06594-c6e2-7f94-94c3-0b50f4d7d8fa",
-  pageTypeSlug: "phone-number-property",
   type: "phone-number-property",
   slug: "relationship-phone",
   propertySlug: "relationship-phone",

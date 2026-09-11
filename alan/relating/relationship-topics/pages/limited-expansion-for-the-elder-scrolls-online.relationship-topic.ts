@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const limitedExpansionForTheElderScrollsOnline = {
   id: "019db533-f382-71d2-84b1-296ad47461bc",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "limited-expansion-for-the-elder-scrolls-online",
   title: "Limited Expansion For The Elder Scrolls Online",

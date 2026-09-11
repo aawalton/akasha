@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const nameFormat = {
   id: "01a049b9-856c-73f0-bea2-c3036209aa09",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "name-format",
   propertySlug: "name-format",

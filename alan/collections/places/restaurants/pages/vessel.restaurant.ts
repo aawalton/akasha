@@ -2,7 +2,6 @@ import type { Restaurant } from "akasha/alan/collections/places/restaurants/rest
 
 export const vessel = {
   id: "01a06808-a2ed-7000-8600-f292d1571c62",
-  pageTypeSlug: "restaurant",
   type: "restaurant",
   slug: "vessel",
   title: "Vessel",

@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const linkOutsideRoots = {
   id: "01a06611-398b-77f2-9c4e-5aa9a9baaf0f",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "link-outside-roots",
   title: "Link outside roots",

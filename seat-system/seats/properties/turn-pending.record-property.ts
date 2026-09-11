@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const turnPending = {
   id: "01a0541c-db5f-70d8-a32a-c321eef90312",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "turn-pending",
   propertySlug: "turn-pending",

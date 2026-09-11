@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const generated = {
   id: "01a08235-0ea1-7f91-8c09-9014555e81bc",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "generated",
   propertySlug: "generated",

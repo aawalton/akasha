@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const bundleEntry = {
   id: "01a060e4-5184-70a7-91ff-37d5b94a8d86",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "bundle-entry",
   propertySlug: "bundle-entry",

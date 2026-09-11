@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const esoAddon = {
   id: "01a0819d-6872-7b9e-8c67-c011834d8ab8",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "eso-addon",
   propertySlug: "eso-addon",

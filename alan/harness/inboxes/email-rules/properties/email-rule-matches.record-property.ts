@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const emailRuleMatches = {
   id: "01a06860-549f-7699-a464-5922a5455508",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "email-rule-matches",
   propertySlug: "matches",

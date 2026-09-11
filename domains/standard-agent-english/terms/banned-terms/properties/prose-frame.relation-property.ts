@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const proseFrame = {
   id: "01a08243-41cd-7873-9af3-308bc9152b5d",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "prose-frame",
   propertySlug: "frame",

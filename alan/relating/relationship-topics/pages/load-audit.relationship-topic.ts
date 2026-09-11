@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const loadAudit = {
   id: "019db533-f382-735d-9542-9a4e72047411",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "load-audit",
   title: "Load Audit",

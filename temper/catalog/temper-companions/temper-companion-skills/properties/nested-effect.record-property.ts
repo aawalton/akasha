@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const nestedEffect = {
   id: "01a06196-037c-704b-a0d5-349064c3a709",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "nested-effect",
   propertySlug: "effect",

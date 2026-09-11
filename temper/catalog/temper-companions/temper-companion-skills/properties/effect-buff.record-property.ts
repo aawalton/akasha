@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const effectBuff = {
   id: "01a06196-037a-7895-82cf-ee84fd21570f",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "effect-buff",
   propertySlug: "buff",

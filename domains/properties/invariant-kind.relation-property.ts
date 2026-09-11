@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const invariantKind = {
   id: "01a04d66-767b-740d-a958-1f84e5858ad0",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "invariant-kind",
   propertySlug: "invariant-kind",

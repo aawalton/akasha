@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageBlockNarrowingUnresolved = {
   id: "01a06611-398e-78c1-bb84-671b5df5f4f7",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-block-narrowing-unresolved",
   title: "Page block narrowing unresolved",

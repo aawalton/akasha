@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageRowRequiredDropped = {
   id: "01a06611-3999-783d-8ba6-ae80e9c6241f",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-row-required-dropped",
   title: "Page row required dropped",

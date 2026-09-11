@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const parentStatement = {
   id: "01a0658a-739f-7ef0-8539-77171f82a139",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "parent-statement",
   propertySlug: "parent-statement",

@@ -2,7 +2,6 @@ import type { Restaurant } from "akasha/alan/collections/places/restaurants/rest
 
 export const aubergene = {
   id: "01a06808-a2ec-7001-bbba-7c14b16d57e4",
-  pageTypeSlug: "restaurant",
   type: "restaurant",
   slug: "aubergene",
   title: "Aubergene",

@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageBlockRedeclarationSilent = {
   id: "01a06611-398f-7e33-a226-f31a9a556eb8",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-block-redeclaration-silent",
   title: "Page block redeclaration silent",

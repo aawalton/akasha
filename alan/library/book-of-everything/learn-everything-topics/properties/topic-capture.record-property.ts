@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const topicCapture = {
   id: "01a0659f-93da-7010-a67c-81b8b0e31d4b",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "topic-capture",
   propertySlug: "capture",

@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const deviceTokenPerson = {
   id: "01a05dc7-77db-73e5-a433-7a5181faab7e",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "device-token-person",
   propertySlug: "person",

@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const longTermVisionForOurHome = {
   id: "019db533-f382-739b-afed-8b4bddf1245f",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "long-term-vision-for-our-home",
   title: "Long-term Vision For Our Home",

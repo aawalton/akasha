@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const traumaResponses = {
   id: "019db533-f382-70e4-9008-a25f20f24124",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "trauma-responses",
   title: "Trauma Responses",

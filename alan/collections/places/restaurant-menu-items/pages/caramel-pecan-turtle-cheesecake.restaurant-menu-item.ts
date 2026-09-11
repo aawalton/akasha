@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const caramelPecanTurtleCheesecake = {
   id: "01a06808-b765-7000-a172-538ca66dc45e",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "caramel-pecan-turtle-cheesecake",
   title: "Caramel Pecan Turtle Cheesecake",

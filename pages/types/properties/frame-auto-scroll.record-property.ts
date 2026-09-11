@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const frameAutoScroll = {
   id: "01a0683a-620a-738e-922d-fa0b734ddda1",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "frame-auto-scroll",
   propertySlug: "auto-scroll",

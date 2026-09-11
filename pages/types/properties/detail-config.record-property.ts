@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const detailConfig = {
   id: "01a0683a-620a-7046-8715-e1d2a2aa8586",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "detail-config",
   propertySlug: "detail-config",

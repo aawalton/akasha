@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const unique = {
   id: "01a04edd-897d-7695-8047-3d1c855b750f",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "unique",
   propertySlug: "unique",

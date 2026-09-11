@@ -2,7 +2,6 @@ import type { RestaurantCollection } from "akasha/alan/collections/places/restau
 
 export const cheesecakeFactoryCheescakes = {
   id: "01a06808-aeb8-7000-99d8-29479c631712",
-  pageTypeSlug: "restaurant-collection",
   type: "restaurant-collection",
   slug: "cheesecake-factory-cheescakes",
   title: "Cheesecake Factory Cheescakes",

@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const detailFrame = {
   id: "01a0683a-620a-721f-ac05-27b2bc929afe",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "detail-frame",
   propertySlug: "frame",

@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const categoryRuleMatchUnreadable = {
   id: "01a06611-3981-7237-ac17-80f6c64d85f6",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "category-rule-match-unreadable",
   title: "Category rule match unreadable",

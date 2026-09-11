@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const account = {
   id: "01a0680a-1a00-7010-9e43-7f1d8a5b1110",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "account",
   propertySlug: "account",

@@ -2,7 +2,6 @@ import type { ProvisionedFile } from "akasha/infrastructure/machines/provisionin
 
 export const btw5UdevRule = {
   id: "01a06862-af5d-7bcd-9d81-fbddcbe6dd2d",
-  pageTypeSlug: "provisioned-file",
   type: "provisioned-file",
   slug: "btw5-udev-rule",
   definition: "the seated user's access to the BT-W5 transmitter's config interface",

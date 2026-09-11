@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const serviceClusters = {
   id: "01a05b26-f8b6-7334-a5d4-d44ab19e071e",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "service-clusters",
   propertySlug: "service-clusters",

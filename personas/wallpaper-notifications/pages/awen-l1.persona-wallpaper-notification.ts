@@ -2,7 +2,6 @@ import type { PersonaWallpaperNotification } from "akasha/personas/wallpaper-not
 
 export const awenL1 = {
   id: "019f182f-7afe-7b5f-8689-d30ea901c096",
-  pageTypeSlug: "persona-wallpaper-notification",
   type: "persona-wallpaper-notification",
   slug: "awen-l1",
   title: "awen L01 wallpaper notified",

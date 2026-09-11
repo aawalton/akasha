@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const locations = {
   id: "01a06585-5fc5-7f40-b744-a7962cb2915f",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "locations",
   propertySlug: "locations",

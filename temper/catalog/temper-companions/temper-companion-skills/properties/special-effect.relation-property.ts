@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const specialEffect = {
   id: "01a08ece-83bb-74f4-bd4f-f9b0672a0047",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "special-effect",
   propertySlug: "special-effect",

@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageKeyAttachment = {
   id: "01a06611-3990-782d-bd8b-1fa5df2dbfbe",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-key-attachment",
   title: "Page key attachment",

@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const setBonuses = {
   id: "01a05fcd-f554-73bf-83df-72e8cb8357e3",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "set-bonuses",
   propertySlug: "set-bonuses",

@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const replacementPatterns = {
   id: "01a0822d-c124-76d5-acd8-925e9cdcdb81",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "replacement-patterns",
   propertySlug: "replacement-patterns",

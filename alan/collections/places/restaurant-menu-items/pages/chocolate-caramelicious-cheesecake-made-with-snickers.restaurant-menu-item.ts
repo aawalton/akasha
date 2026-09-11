@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const chocolateCarameliciousCheesecakeMadeWithSnickers = {
   id: "01a06808-b765-7002-b1ec-f1708deb8c48",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "chocolate-caramelicious-cheesecake-made-with-snickers",
   title: "Chocolate Caramelicious Cheesecake Made with Snickers",

@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const subagentKind = {
   id: "01a06d81-1aaf-767b-a25d-951b643a1247",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "subagent-kind",
   propertySlug: "subagent-kind",

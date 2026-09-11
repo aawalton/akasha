@@ -2,7 +2,6 @@ import type { RelationProperty } from "akasha/pages/relation-properties/relation
 
 export const syncScript = {
   id: "01a090f2-699c-72b3-bd1c-8131bbdf8613",
-  pageTypeSlug: "relation-property",
   type: "relation-property",
   slug: "sync-script",
   propertySlug: "sync-script",

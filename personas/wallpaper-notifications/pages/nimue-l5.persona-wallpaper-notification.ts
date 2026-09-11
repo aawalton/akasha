@@ -2,7 +2,6 @@ import type { PersonaWallpaperNotification } from "akasha/personas/wallpaper-not
 
 export const nimueL5 = {
   id: "019f0fbd-578e-75bd-8b2a-dfa96fb84646",
-  pageTypeSlug: "persona-wallpaper-notification",
   type: "persona-wallpaper-notification",
   slug: "nimue-l5",
   title: "nimue L05 wallpaper notified",

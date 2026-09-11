@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pagePartOutsideShape = {
   id: "01a06611-3997-7a00-bd4f-6d0750b8e9a4",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-part-outside-shape",
   title: "Page part outside shape",

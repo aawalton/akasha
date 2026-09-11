@@ -2,7 +2,6 @@ import type { Proof } from "akasha/alan/values/learn/mathematics/proofs/proof.pa
 
 export const reflexivityAttempt1 = {
   id: "019f0f5a-12ab-7117-b622-1c1e718c6017",
-  pageTypeSlug: "proof",
   type: "proof",
   slug: "reflexivity-attempt-1",
   title: "⊢ A → A — Attempt 1",

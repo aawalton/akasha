@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const taking = {
   id: "01a05027-c468-74f9-99df-98fc7bd0c372",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "taking",
   propertySlug: "taking",

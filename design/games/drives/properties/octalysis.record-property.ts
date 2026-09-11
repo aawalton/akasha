@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const octalysis = {
   id: "01a06756-f604-7da5-89c2-26d073aeedb1",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "octalysis",
   propertySlug: "octalysis",

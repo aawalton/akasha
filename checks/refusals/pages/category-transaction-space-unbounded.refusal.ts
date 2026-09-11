@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const categoryTransactionSpaceUnbounded = {
   id: "01a06611-3983-7cee-96d3-6a8fbc651fba",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "category-transaction-space-unbounded",
   title: "Category transaction space unbounded",

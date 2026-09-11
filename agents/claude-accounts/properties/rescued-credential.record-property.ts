@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const rescuedCredential = {
   id: "01a0637b-78bb-77e3-8457-23dd0863e27e",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "rescued-credential",
   propertySlug: "rescued-credential",

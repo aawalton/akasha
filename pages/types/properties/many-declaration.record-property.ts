@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const manyDeclaration = {
   id: "01a090a6-984a-7b9d-99e6-299e1fff2958",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "many-declaration",
   propertySlug: "many-declaration",

@@ -2,7 +2,6 @@ import type { RankProperty } from "akasha/pages/rank-properties/rank-property.pa
 
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",
-  pageTypeSlug: "rank-property",
   type: "rank-property",
   slug: "singability",
   propertySlug: "singability",

@@ -2,7 +2,6 @@ import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics
 
 export const garageSalePile = {
   id: "019db533-f382-73ec-af49-9279840dcbe7",
-  pageTypeSlug: "relationship-topic",
   type: "relationship-topic",
   slug: "garage-sale-pile",
   title: "Garage Sale Pile",

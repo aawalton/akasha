@@ -2,7 +2,6 @@ import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageKeySpelledCamel = {
   id: "01a06611-3994-7a86-afdf-5e24799d8cb0",
-  pageTypeSlug: "refusal",
   type: "refusal",
   slug: "page-key-spelled-camel",
   title: "Page key spelled camel",

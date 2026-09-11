@@ -2,7 +2,6 @@ import type { PythonModule } from "akasha/code/python-modules/python-module.page
 
 export const btw5 = {
   id: "01a06864-40db-7ab8-867f-5c628bb6ad8d",
-  pageTypeSlug: "python-module",
   type: "python-module",
   slug: "btw5",
   definition:

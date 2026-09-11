@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const freshBananaCreamCheesecake = {
   id: "01a06808-b765-7009-a5a9-9da145ccf083",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "fresh-banana-cream-cheesecake",
   title: "Fresh Banana Cream Cheesecake",

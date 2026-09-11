@@ -2,7 +2,6 @@ import type { RelationshipDeposit } from "akasha/alan/relating/relationship-depo
 
 export const deposit20260630DinnerCostcoTripWithJen = {
   id: "019f1d7c-658b-7e44-92a6-5ec2d3830d13",
-  pageTypeSlug: "relationship-deposit",
   type: "relationship-deposit",
   slug: "deposit-2026-06-30-dinner-costco-trip-with-jen",
   title: "Deposit — 2026-06-30 — dinner + Costco trip with Jen",

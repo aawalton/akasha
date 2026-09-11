@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const invariants = {
   id: "01a04e14-2276-7559-823a-c7ac8abf852e",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "invariants",
   propertySlug: "invariants",

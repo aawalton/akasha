@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const systemd = {
   id: "01a05a3f-b42d-7f99-8339-43009bbd74bb",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "systemd",
   propertySlug: "systemd",

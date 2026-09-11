@@ -2,7 +2,6 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 
 export const effectStatus = {
   id: "01a06196-037b-7292-b3da-52c4a6dc68a0",
-  pageTypeSlug: "record-property",
   type: "record-property",
   slug: "effect-status",
   propertySlug: "status",

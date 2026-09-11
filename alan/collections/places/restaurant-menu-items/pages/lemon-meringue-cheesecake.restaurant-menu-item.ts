@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const lemonMeringueCheesecake = {
   id: "01a06808-b765-700e-8304-932ae1450b38",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "lemon-meringue-cheesecake",
   title: "Lemon Meringue Cheesecake",
