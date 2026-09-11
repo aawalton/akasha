@@ -13,7 +13,7 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { mostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
+import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
@@ -50,7 +50,7 @@ const AT = "at"
 
 const TO = "to"
 
-const MOST = "most"
+const AT_MOST = "at-most"
 
 const WAS = "was"
 
@@ -68,7 +68,7 @@ function spelledNothing(at: string, key: string, now: string): string {
 export type RenamePagePropertyPropertySlugAsked = {
   readonly at: string
   readonly to: string
-  readonly most?: number | null
+  readonly atMost?: number | null
   readonly was?: string | null
 }
 
@@ -84,7 +84,7 @@ type Spelling = {
   readonly was: string
   readonly to: string
   readonly beside: boolean
-  readonly most: number | null
+  readonly atMost: number | null
 }
 
 type Reading = {
@@ -125,7 +125,7 @@ function spelledIn(world: World, types: readonly string[], one: Spelling): Spell
   for (const type of types) {
     for (const kind of world.index.kindsUnder(type)) {
       for (const [path, value] of world.index.valuesByPath(kind)) {
-        if (one.most !== null && carrying.length >= one.most) return { carrying, moving }
+        if (one.atMost !== null && carrying.length >= one.atMost) return { carrying, moving }
         if (seen.has(path)) continue
         seen.add(path)
         const held = value[one.key]
@@ -186,7 +186,7 @@ type Within = {
   readonly carrying: readonly string[]
 }
 
-function withinOf(world: World, record: Declared, most: number | null): Within | null {
+function withinOf(world: World, record: Declared, atMost: number | null): Within | null {
   const value = pageIn(world, record.path)
   const slug = value === null ? null : value[PROPERTY_SLUG]
   if (typeof slug !== "string") return null
@@ -195,7 +195,7 @@ function withinOf(world: World, record: Declared, most: number | null): Within |
     .filter((one) => one.kind === PAGE_TYPE)
     .map((one) => one.slug)
   const key = exportedAs(slug)
-  const held = spelledIn(world, under, { key, was: slug, to: slug, beside: false, most })
+  const held = spelledIn(world, under, { key, was: slug, to: slug, beside: false, atMost })
   return { key, carrying: held.carrying }
 }
 
@@ -212,9 +212,9 @@ export async function renamePagePropertyPropertySlug(
   const records = declared.filter((one) => one.kind === RECORD_PROPERTY)
   const key = exportedAs(read.was)
   const now = exportedAs(given.to)
-  const most = given.most ?? null
-  const whole = !read.states && most === null
-  const entries = most === null ? shapes.flatMap((one) => filedUnder(world, one)) : []
+  const atMost = given.atMost ?? null
+  const whole = !read.states && atMost === null
+  const entries = atMost === null ? shapes.flatMap((one) => filedUnder(world, one)) : []
   const held = spelledIn(
     world,
     types.map((one) => one.slug),
@@ -223,7 +223,7 @@ export async function renamePagePropertyPropertySlug(
       was: read.was,
       to: given.to,
       beside: read.kind === FILE_PROPERTY,
-      most,
+      atMost,
     }
   )
   const answers: Answer[] = []
@@ -250,7 +250,7 @@ export async function renamePagePropertyPropertySlug(
     if (why !== null) return refusing(`\`${path}\` is refused, and ${why}`)
   }
   for (const one of records) {
-    const within = withinOf(world, one, most)
+    const within = withinOf(world, one, atMost)
     if (within === null) continue
     for (const path of within.carrying) {
       const why = await reaching(RENAME_KEY, { at: path, was: key, now, within: within.key })
@@ -286,7 +286,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  const most = mostIn(given[MOST])
-  if (typeof most === "string") return refusing(most)
-  return await renamePagePropertyPropertySlug(world, { at, to, most, was: given[WAS] ?? null })
+  const atMost = atMostIn(given[AT_MOST])
+  if (typeof atMost === "string") return refusing(atMost)
+  return await renamePagePropertyPropertySlug(world, { at, to, atMost, was: given[WAS] ?? null })
 }

@@ -9,11 +9,11 @@ import {
 import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   askedIn,
+  atMostIn,
   carriedIn,
   carryingOver,
   holdingIn,
   keyAskedIn,
-  mostIn,
   spelledAs,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
@@ -133,7 +133,7 @@ test("a page with no value under the key read from is passed over rather than re
 })
 
 test("a count handed in holds how many pages are carried on", () => {
-  expect(carriedIn(typedIn(DECLARED), { ...CARRYING, most: 1 })).toEqual([
+  expect(carriedIn(typedIn(DECLARED), { ...CARRYING, atMost: 1 })).toEqual([
     { path: ONE_AT, value: `"salvos"` },
   ])
 })
@@ -173,7 +173,7 @@ test("a page holding no value under that key is passed over rather than refused"
 })
 
 test("a count handed in holds how many pages holding the key are answered", () => {
-  expect(holdingIn(typedIn(DECLARED), { ...HOLDING, most: 1 })).toEqual([ONE_AT])
+  expect(holdingIn(typedIn(DECLARED), { ...HOLDING, atMost: 1 })).toEqual([ONE_AT])
 })
 
 test("a key the page type no longer declares is answered rather than refused", () => {
@@ -185,10 +185,10 @@ test("a page type the index does not name is refused over one key", () => {
 })
 
 test("the arguments handed in become what a run over one key is asked for", () => {
-  expect(keyAskedIn({ "page-type": "story-chapter-read", key: "a", most: "3" })).toEqual({
+  expect(keyAskedIn({ "page-type": "story-chapter-read", key: "a", "at-most": "3" })).toEqual({
     pageType: "story-chapter-read",
     key: "a",
-    most: 3,
+    atMost: 3,
   })
 })
 
@@ -199,23 +199,25 @@ test("a run over one key handed no key is refused by the key naming that argumen
 })
 
 test("a run handed no count is held to no count", () => {
-  expect(mostIn(undefined)).toBeNull()
+  expect(atMostIn(undefined)).toBeNull()
 })
 
 test("a count handed in is read as a whole number", () => {
-  expect(mostIn("2")).toBe(2)
+  expect(atMostIn("2")).toBe(2)
 })
 
 test("a count that is no whole number above nothing is refused", () => {
-  expect(mostIn("none")).toContain("is no count of pages")
+  expect(atMostIn("none")).toContain("is no count of pages")
 })
 
 test("the arguments handed in become what the carrying is asked for", () => {
-  expect(askedIn({ "page-type": "story-chapter-read", from: "a", to: "b", most: "3" })).toEqual({
+  expect(
+    askedIn({ "page-type": "story-chapter-read", from: "a", to: "b", "at-most": "3" })
+  ).toEqual({
     pageType: "story-chapter-read",
     from: "a",
     to: "b",
-    most: 3,
+    atMost: 3,
   })
 })
 

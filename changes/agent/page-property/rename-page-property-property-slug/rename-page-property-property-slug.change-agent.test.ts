@@ -163,7 +163,7 @@ test("a count handed in holds how many pages the key is spelled anew on", async 
   await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached), BOTH), {
     at: CODE_AT,
     to: "code-file",
-    most: 1,
+    atMost: 1,
   })
 
   expect(reached.filter((one) => one.at === RENAME_KEY).map((one) => one.given)).toEqual([
@@ -177,7 +177,7 @@ test("a run handed a count states no slug and spells no signature anew", async (
   await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached), BOTH), {
     at: CODE_AT,
     to: "code-file",
-    most: 1,
+    atMost: 1,
   })
 
   expect(reached.map((one) => one.at)).toEqual([RENAME_KEY, MOVE_FILE_CODE])
@@ -201,7 +201,7 @@ test("a count that is no whole number above nothing is refused", async () => {
   const said = await runChange(worldIn(BY_A_TYPE, watching([])), {
     at: CODE_AT,
     to: "code-file",
-    most: "none",
+    "at-most": "none",
   })
 
   expect(said.edits).toEqual([])
@@ -475,7 +475,7 @@ test("a run handed a count spells no key anew in a file of entries", async () =>
   await renamePagePropertyPropertySlug(worldOfEntries(watching(reached)), {
     at: CODE_AT,
     to: "code-file",
-    most: 1,
+    atMost: 1,
   })
 
   expect(reached.map((one) => one.at)).not.toContain(RENAME_ENTRY_KEY)

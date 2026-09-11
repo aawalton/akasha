@@ -10,38 +10,32 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 
 const REMOVE_FILE_PAGE = "change-mechanical-file/remove-file-page"
 
 const PAGE_TYPE = "page-type"
 
-const COUNT = "count"
-
-const WHOLE = /^\d+$/
+const AT_MOST = "at-most"
 
 export type RemoveEveryPageOfATypeAsked = {
   readonly pageType: string
-  readonly count?: number
-}
-
-function noCount(said: string): string {
-  return `\`${COUNT}\` counts pages to take away, and \`${said}\` is no whole number above nothing`
+  readonly atMost?: number
 }
 
 export async function removeEveryPageOfAType(
   world: World,
   given: RemoveEveryPageOfATypeAsked
 ): Promise<Answer> {
-  const count = given.count
-  if (count !== undefined && (!Number.isInteger(count) || count < 1)) {
-    return refusing(noCount(String(count)))
-  }
+  const atMost = given.atMost
+  const read = atMost === undefined ? null : atMostIn(String(atMost))
+  if (typeof read === "string") return refusing(read)
   if (world.index.propertiesIfNamed(given.pageType) === null) {
     return refusing(`\`${given.pageType}\` names no page type`)
   }
   const named = world.index.everyOfType(given.pageType)
   if (named.length === 0) return refusing(`no page is a \`${given.pageType}\``)
-  const listed = count === undefined ? named : named.slice(0, count)
+  const listed = atMost === undefined ? named : named.slice(0, atMost)
   const answers: Answer[] = []
   let over: World = isLedger(world)
     ? world
@@ -62,8 +56,8 @@ export type Asked = Readonly<Record<string, string>>
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const pageType = given[PAGE_TYPE]
   if (pageType === undefined) return refusing(missing(PAGE_TYPE))
-  const counted = given[COUNT]
-  if (counted === undefined) return await removeEveryPageOfAType(world, { pageType })
-  if (!WHOLE.test(counted)) return refusing(noCount(counted))
-  return await removeEveryPageOfAType(world, { pageType, count: Number(counted) })
+  const atMost = atMostIn(given[AT_MOST])
+  if (typeof atMost === "string") return refusing(atMost)
+  if (atMost === null) return await removeEveryPageOfAType(world, { pageType })
+  return await removeEveryPageOfAType(world, { pageType, atMost })
 }

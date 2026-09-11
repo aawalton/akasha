@@ -14,7 +14,7 @@ const FROM = "from"
 
 const TO = "to"
 
-const MOST = "most"
+const AT_MOST = "at-most"
 
 const KEY = "key"
 
@@ -22,13 +22,13 @@ export type ValueCarryingAsked = {
   readonly pageType: string
   readonly from: string
   readonly to: string
-  readonly most?: number | null
+  readonly atMost?: number | null
 }
 
 export type KeyHoldingAsked = {
   readonly pageType: string
   readonly key: string
-  readonly most?: number | null
+  readonly atMost?: number | null
 }
 
 export type Asked = Readonly<Record<string, string>>
@@ -51,10 +51,10 @@ export function holdingIn(world: World, given: KeyHoldingAsked): readonly string
     return `\`${given.pageType}\` names no page type`
   }
   const found: string[] = []
-  const most = given.most ?? null
+  const atMost = given.atMost ?? null
   for (const kind of world.index.kindsUnder(given.pageType)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
-      if (most !== null && found.length >= most) return found
+      if (atMost !== null && found.length >= atMost) return found
       if (value[given.key] === undefined) continue
       found.push(path)
     }
@@ -71,10 +71,10 @@ export function carriedIn(world: World, given: ValueCarryingAsked): readonly Car
     return `a \`${given.pageType}\` has no property under \`${given.from}\``
   }
   const found: Carrying[] = []
-  const most = given.most ?? null
+  const atMost = given.atMost ?? null
   for (const kind of world.index.kindsUnder(given.pageType)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
-      if (most !== null && found.length >= most) return found
+      if (atMost !== null && found.length >= atMost) return found
       if (value[given.to] !== undefined) continue
       const held = value[given.from]
       if (held === undefined) continue
@@ -105,7 +105,7 @@ export function carryingOver(world: World): Carrier {
   }
 }
 
-export function mostIn(said: string | undefined): number | null | string {
+export function atMostIn(said: string | undefined): number | null | string {
   if (said === undefined) return null
   const held = Number(said)
   if (!Number.isInteger(held) || held < 1) {
@@ -119,9 +119,9 @@ export function keyAskedIn(given: Asked): KeyHoldingAsked | string {
   if (pageType === undefined) return missing(PAGE_TYPE)
   const key = given[KEY]
   if (key === undefined) return missing(KEY)
-  const most = mostIn(given[MOST])
-  if (typeof most === "string") return most
-  return { pageType, key, most }
+  const atMost = atMostIn(given[AT_MOST])
+  if (typeof atMost === "string") return atMost
+  return { pageType, key, atMost }
 }
 
 export function askedIn(given: Asked): ValueCarryingAsked | string {
@@ -131,7 +131,7 @@ export function askedIn(given: Asked): ValueCarryingAsked | string {
   if (from === undefined) return missing(FROM)
   const to = given[TO]
   if (to === undefined) return missing(TO)
-  const most = mostIn(given[MOST])
-  if (typeof most === "string") return most
-  return { pageType, from, to, most }
+  const atMost = atMostIn(given[AT_MOST])
+  if (typeof atMost === "string") return atMost
+  return { pageType, from, to, atMost }
 }

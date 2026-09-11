@@ -150,7 +150,7 @@ test("a page with no value under the key read from is passed over rather than re
 test("a count handed in holds how many pages the value is written on", async () => {
   const world = pagesIn(BODIES, DECLARED)
 
-  const said = await copyPropertyOnEveryPage(world, { ...COPYING, most: 1 })
+  const said = await copyPropertyOnEveryPage(world, { ...COPYING, atMost: 1 })
 
   const bodies = bodiesIn(said, world.base)
   expect(bodies.get(ONE_AT) ?? "").toContain(`storySlug: "salvos"`)
@@ -201,7 +201,7 @@ test("a count that is no whole number above nothing is refused", async () => {
     "page-type": "story-chapter-read",
     from: "partOfCollectionSlugs",
     to: "storySlug",
-    most: "none",
+    "at-most": "none",
   })
 
   expect(said.edits).toEqual([])

@@ -157,7 +157,7 @@ test("a count handed in holds how many pages the key goes from", async () => {
   const said = await removePropertyFromEveryPage(world, {
     pageType: "book-section",
     key: "sectionOfSlug",
-    most: 1,
+    atMost: 1,
   })
 
   expect(said.refused).toBeNull()
