@@ -350,3 +350,9 @@ export function textIn(change: Change, path: string): string | null {
   if (bytes === null) return null
   return bodyOf({ root: change.root, path, bytes })
 }
+
+export function textWas(change: Change, path: string): string | null {
+  const bytes = change.before(path)
+  if (bytes === null) return null
+  return bodyOf({ root: change.root, path, bytes })
+}

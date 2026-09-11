@@ -19,6 +19,7 @@ import {
   type Selector,
   TEXTS,
   textNamed,
+  textWas,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   BUILT_AT,
@@ -80,6 +81,14 @@ test("reading each text refuses a body that is no text at all, and names the pat
   const bytes = Uint8Array.from([0xff, 0xfe, 0xfd])
   expect(() => judge({ root: "/nowhere", path: "one.ts", bytes })).toThrow("one.ts")
   expect(() => judge({ root: "/nowhere", path: "one.ts", bytes })).toThrow("not valid UTF-8")
+})
+
+test("the body a change took away is read as the text a check judges", () => {
+  const root = scratch.rootFor("akasha-text-was-")
+  writeFileSync(join(root, "was.ts"), "was")
+  const gone = { root, changed: ["was.ts"], after: () => null, before: onDisk(root) }
+  expect(textWas(gone, "was.ts")).toBe("was")
+  expect(textWas(gone, "none.ts")).toBeNull()
 })
 
 test("judging each file makes a runner of a judge, naming the path each refusal is for", () => {
