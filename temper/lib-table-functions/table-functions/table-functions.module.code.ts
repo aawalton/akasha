@@ -1,6 +1,6 @@
-import type { TableKey } from "../table-function-casts/table-function-casts.module.code.ts"
-import { asMetatable } from "../table-function-casts/table-function-casts.module.code.ts"
-import type { Lib } from "../table-function-types/table-function-types.module.code.ts"
+import type { TableKey } from "akasha/temper/lib-table-functions/table-function-casts/table-function-casts.module.code.ts"
+import { asMetatable } from "akasha/temper/lib-table-functions/table-function-casts/table-function-casts.module.code.ts"
+import type { Lib } from "akasha/temper/lib-table-functions/table-function-types/table-function-types.module.code.ts"
 
 const LIB_VERSION = 100
 

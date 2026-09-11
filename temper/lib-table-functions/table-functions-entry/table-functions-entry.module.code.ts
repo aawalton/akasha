@@ -1,6 +1,6 @@
-import type { GlobalTable } from "../table-function-casts/table-function-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-table-functions/table-function-casts/table-function-casts.module.code.ts"
 
-import { TABLE_FUNCTIONS } from "../table-functions/table-functions.module.code.ts"
+import { TABLE_FUNCTIONS } from "akasha/temper/lib-table-functions/table-functions/table-functions.module.code.ts"
 
 const LIB_GLOBAL_NAME = "TemperTableFunctions"
 
