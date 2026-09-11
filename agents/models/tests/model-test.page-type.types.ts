@@ -6,5 +6,5 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export type ModelTest = Module & {
   modelFamily: ModelFamily
   prompt: Prompt
-  cases: Cases
+  cases?: Cases
 }

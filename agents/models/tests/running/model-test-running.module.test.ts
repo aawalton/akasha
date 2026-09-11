@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Case,
   casesIn,
+  filling,
   keptBy,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
@@ -39,4 +40,20 @@ test("a case is broken where the answer and the label disagree", () => {
 test("an answer that opens with neither word reads as no", () => {
   expect(keptBy({ ...ONE, answer: "NO" }, "")).toBe(true)
   expect(keptBy(ONE, "")).toBe(false)
+})
+
+test("every sign a prompt carries takes its value", () => {
+  expect(filling("{asked} {turn} {rule}", { "{asked}": "a", "{turn}": "b", "{rule}": "c" })).toBe(
+    "a b c"
+  )
+})
+
+test("a sign a value carries is put through unchanged", () => {
+  expect(filling("{asked} {turn}", { "{asked}": "{turn}", "{turn}": "written" })).toBe(
+    "{turn} written"
+  )
+})
+
+test("a sign no value is given for is left alone", () => {
+  expect(filling("{rule}", {})).toBe("{rule}")
 })

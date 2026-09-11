@@ -20,12 +20,13 @@ export const modelTest = {
     "text-property/prompt",
     "text-property/case-against",
     "model-test/directive-kept",
+    "model-test/directives-kept",
   ],
   extends: ["page-type/module"],
   properties: [
     { pageProperty: "relation-property/model-family", required: true, many: false },
     { pageProperty: "text-property/prompt", required: true, many: false },
-    { pageProperty: "page-property-entry/cases", required: true, many: false },
+    { pageProperty: "page-property-entry/cases", required: false, many: false },
   ],
   invariants: [
     {
@@ -39,6 +40,15 @@ export const modelTest = {
     {
       invariantKind: "departure",
       statement: "A case has its own text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test stating no cases is run against the cases of the test it rivals.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Two tests asking one question of one set of cases are weighed against each other.",
     },
     {
       invariantKind: "departure",

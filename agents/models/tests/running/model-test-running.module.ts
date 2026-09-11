@@ -27,7 +27,15 @@ export const modelTestRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A case is kept where the model's answer and the case's label agree.",
+      statement: "Whether an answer keeps a case is judged by the code beside the test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test is run against another test's cases where the caller names that test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test naming no other test is run against its own cases.",
     },
     {
       invariantKind: "departure",

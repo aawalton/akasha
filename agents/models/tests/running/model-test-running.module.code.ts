@@ -27,7 +27,11 @@ const MODEL_FAMILY = "modelFamily"
 
 const ASKING = "asking"
 
+const KEEPING = "keeping"
+
 const YES = "YES"
+
+const SIGNS = /\{[a-z]+\}/g
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -44,6 +48,10 @@ export type Case = {
 export type PageReading = (pageTypeSlug: string, slug: string) => Record<string, unknown> | null
 
 export type Asking = (one: Case, reading: PageReading) => string | null
+
+export type Keeping = (one: Case, got: string) => boolean
+
+export type Beside = { readonly asking: Asking; readonly keeping: Keeping }
 
 export type Judged = {
   readonly one: Case
@@ -100,6 +108,10 @@ export function casesIn(text: string): readonly Case[] {
   return found
 }
 
+export function filling(prompt: string, values: Readonly<Record<string, string>>): string {
+  return prompt.replace(SIGNS, (sign) => values[sign] ?? sign)
+}
+
 export function keptBy(one: Case, got: string): boolean {
   return opensYes(got) === (one.answer === YES)
 }
@@ -114,27 +126,37 @@ export function readingIn(root: string): PageReading {
   }
 }
 
-function askingIn(root: string, at: string): Asking {
-  const held = (loadFrom(join(root, at)) as Record<string, unknown>)[ASKING]
-  if (typeof held !== "function") throw new Error(`\`${at}\` exports no \`${ASKING}\``)
-  return held as Asking
+function besideIn(root: string, at: string): Beside {
+  const mod = loadFrom(join(root, at)) as Record<string, unknown>
+  const asking = mod[ASKING]
+  const keeping = mod[KEEPING]
+  if (typeof asking !== "function") throw new Error(`\`${at}\` exports no \`${ASKING}\``)
+  if (typeof keeping !== "function") throw new Error(`\`${at}\` exports no \`${KEEPING}\``)
+  return { asking: asking as Asking, keeping: keeping as Keeping }
 }
 
-export async function runningOf(root: string, slug: string): Promise<readonly Judged[]> {
+export async function everyCase(root: string, slug: string): Promise<readonly Case[]> {
+  const at = besideAt(valuedAt(root, TEST, slug).path, CASES, JSONL)
+  if (at === null) throw new Error(`\`${slug}\` has no cases beside it`)
+  return casesIn(await Bun.file(join(root, at)).text())
+}
+
+export async function runningOf(
+  root: string,
+  slug: string,
+  from: string = slug
+): Promise<readonly Judged[]> {
   const page = valuedAt(root, TEST, slug)
   const family = page.value[MODEL_FAMILY]
   if (typeof family !== "string") throw new Error(`\`${slug}\` names no model family`)
   const codeAt = besideAt(page.path, CODE, TS)
-  const casesAt = besideAt(page.path, CASES, JSONL)
-  if (codeAt === null || casesAt === null) {
-    throw new Error(`\`${slug}\` has no code and no cases beside it`)
-  }
-  const asking = askingIn(root, codeAt)
+  if (codeAt === null) throw new Error(`\`${slug}\` has no code beside it`)
+  const { asking, keeping } = besideIn(root, codeAt)
   const reading = readingIn(root)
   const prompts: string[] = []
   const asked: Case[] = []
   const missed: Judged[] = []
-  for (const one of casesIn(await Bun.file(join(root, casesAt)).text())) {
+  for (const one of await everyCase(root, from)) {
     const prompt = asking(one, reading)
     if (prompt === null) {
       missed.push({ one, got: "", kept: false, reached: false })
@@ -150,7 +172,7 @@ export async function runningOf(root: string, slug: string): Promise<readonly Ju
     const one = asked[at]
     if (one === undefined) continue
     const got = answers[at] ?? ""
-    judged.push({ one, got, kept: keptBy(one, got), reached: true })
+    judged.push({ one, got, kept: keeping(one, got), reached: true })
   }
   return [...judged, ...missed]
 }

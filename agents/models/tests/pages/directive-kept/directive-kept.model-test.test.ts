@@ -4,7 +4,6 @@ import {
   type Directive,
   directiveKept,
   directivesIn,
-  filling,
   ruleOf,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import type { Case } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
@@ -38,16 +37,6 @@ test("the words put back are the rule's own", () => {
 test("one rule is put to the model at a time", () => {
   const put = directiveKept({ asked: "", turn: "anything", directives: [ONE, ONE] })
   expect(put).toHaveLength(2)
-})
-
-test("a sign a value carries is put through unchanged", () => {
-  expect(filling("{asked} {turn}", { "{asked}": "{turn}", "{turn}": "written" })).toBe(
-    "{turn} written"
-  )
-})
-
-test("a sign no value is given for is left alone", () => {
-  expect(filling("{rule}", {})).toBe("{rule}")
 })
 
 test("a whole directive is read", () => {

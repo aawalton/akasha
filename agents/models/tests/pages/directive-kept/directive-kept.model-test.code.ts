@@ -1,7 +1,9 @@
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
-import type {
-  Case,
-  PageReading,
+import {
+  type Case,
+  filling,
+  keptBy,
+  type PageReading,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const PERSON = "person"
@@ -21,8 +23,6 @@ const ASKED = "{asked}"
 const TURN = "{turn}"
 
 const RULE = "{rule}"
-
-const SIGNS = /\{asked\}|\{turn\}|\{rule\}/g
 
 export type Directive = {
   readonly name: string
@@ -44,10 +44,6 @@ export type Asked = {
 
 export function ruleOf(one: Directive): string {
   return [`${one.name}: ${one.act}`, one.warrant, ...one.aids.map((aid) => `- ${aid}`)].join("\n")
-}
-
-export function filling(prompt: string, values: Readonly<Record<string, string>>): string {
-  return prompt.replace(SIGNS, (sign) => values[sign] ?? sign)
 }
 
 export function directivesIn(given: unknown): readonly Directive[] {
@@ -79,6 +75,10 @@ export function asking(one: Case, reading: PageReading): string | null {
     })
   }
   return null
+}
+
+export function keeping(one: Case, got: string): boolean {
+  return keptBy(one, got)
 }
 
 export function directiveKept(judging: Judging): readonly Asked[] {
