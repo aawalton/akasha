@@ -11,7 +11,8 @@ import {
   splitRepoPath,
   stagedWwwRepoPath,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { said, shown } from "akasha/utils/run/running/running.module.code.ts"
+import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
+import { shown } from "akasha/utils/run/running/running.module.code.ts"
 
 export const SPA_SOURCE_VAR = "NATIVE_SHELL_SPA_SOURCE_DIR"
 
@@ -140,14 +141,8 @@ export function ensureWebEnvLocal(app: MobileApp, repoRoot: string): undefined {
   if (segments === null) return undefined
   const target = join(repoRoot, ...segments)
   if (existsSync(target)) return undefined
-  const commonGitDir = said([
-    "git",
-    "-C",
-    repoRoot,
-    "rev-parse",
-    "--path-format=absolute",
-    "--git-common-dir",
-  ]).trim()
+  const commonGitDir = gitDirIn(repoRoot)
+  if (commonGitDir === null) return undefined
   const mainRoot = dirname(commonGitDir)
   const source = join(mainRoot, ...segments)
   if (mainRoot !== repoRoot && existsSync(source)) {
