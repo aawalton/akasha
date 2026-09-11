@@ -89941,7 +89941,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 0
+          "currentMorph": 1
         },
         "33386": {
           "morph1": {
@@ -91375,7 +91375,7 @@
             "rank": 4
           },
           "abilityIndex": 1,
-          "currentMorph": 0
+          "currentMorph": 1
         }
       },
       "nextRankXP": 107441
