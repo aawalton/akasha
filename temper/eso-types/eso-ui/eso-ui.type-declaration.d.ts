@@ -21,8 +21,8 @@ interface Control {
   ClearAnchors: () => void
   SetParent: (parent: Control) => void
   GetParent: <T extends Control = Control>() => T | undefined
-  GetChild: (<T extends Control = Control>(name: string) => T | undefined) &
-    (<T extends Control = BuffDebuffIconControl>(index: number) => T | undefined)
+  GetChild: (<T extends Control = Control>(this: Control, name: string) => T | undefined) &
+    (<T extends Control = BuffDebuffIconControl>(this: Control, index: number) => T | undefined)
 
   GetNumChildren: () => number
   GetNamedChild: <T extends Control = Control>(name: string) => T | undefined

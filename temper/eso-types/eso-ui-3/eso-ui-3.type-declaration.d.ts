@@ -56,6 +56,7 @@ interface ComboBox {
   AddItem: (entry: ComboBoxItem) => void
   ClearItems: () => void
   CreateItemEntry: ((
+    this: ComboBox,
     name: string,
     callback: (
       this: void,
@@ -65,7 +66,7 @@ interface ComboBox {
       selectionChanged?: boolean
     ) => void
   ) => ComboBoxItem) &
-    ((name: string, callback: () => void) => ComboBoxItem)
+    ((this: ComboBox, name: string, callback: () => void) => ComboBoxItem)
 
   SelectItem: (item: ComboBoxItem) => void
   GetItems: () => ComboBoxItem[]
