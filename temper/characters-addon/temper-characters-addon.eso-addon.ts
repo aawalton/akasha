@@ -77,6 +77,7 @@ export const temperCharactersAddon = {
     "module/characters-task-progress-resolver-knowledge",
     "module/characters-task-progress-resolver-skills",
     "module/characters-task-progress-resolver-world",
+    "module/characters-task-progress-test-utils",
     "module/characters-trait-research",
     "module/characters-trait-research-merge",
     "module/characters-tribute-card-upgrades",

@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { resolveSkillPoints } from "akasha/temper/characters-addon/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
+import { characterEntry } from "akasha/temper/characters-addon/characters-task-progress-test-utils/characters-task-progress-test-utils.module.code.ts"
 import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const FOLIUM_DISCOGNITUM_CEILING = 2
 
@@ -27,10 +27,6 @@ function skillPointCapture(fields: Partial<SkillPointProgress>): SkillPointProgr
     publicDungeons: {},
     ...fields,
   }
-}
-
-function characterEntry(fields: Partial<SavedCharacterEntry>): SavedCharacterEntry {
-  return { name: "Fixture Character", ...fields }
 }
 
 describe("resolveSkillPoints", () => {

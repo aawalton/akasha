@@ -4,15 +4,11 @@ import {
   resolveCompanionRapport,
   resolveLoreLibrary,
 } from "akasha/temper/characters-addon/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
+import { characterEntry } from "akasha/temper/characters-addon/characters-task-progress-test-utils/characters-task-progress-test-utils.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/companions-id-map/companions-id-map.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player-completion/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
-import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-
-function characterEntry(fields: Partial<SavedCharacterEntry>): SavedCharacterEntry {
-  return { name: "Fixture Character", ...fields }
-}
 
 function itemAt<T>(items: readonly T[], index: number, what: string): T {
   const item = items[index]
