@@ -45,6 +45,10 @@ export default [
   ),
   route("api/sms/opt-in", "routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"),
   route(
+    "api/sms/verification-status",
+    "routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"
+  ),
+  route(
     "api/spotify/callback",
     "routes/alan-web-api-spotify-callback/alan-web-api-spotify-callback.route.code.ts"
   ),

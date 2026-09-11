@@ -65,6 +65,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-tracking-health-samples",
     "route/alan-web-api-device-secret-mint",
     "route/alan-web-api-sms-opt-in",
+    "route/alan-web-api-sms-verification-status",
   ],
   invariants: [
     {
