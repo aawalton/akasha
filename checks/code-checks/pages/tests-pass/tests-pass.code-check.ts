@@ -16,6 +16,14 @@ export const testsPass = {
       statement:
         "The tests a change is judged by are the ones standing beside the files the change has.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A test beside no changed file is left red rather than made input.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test another file's change breaks is a test in the wrong file.",
+    },
 
     {
       invariantKind: "constraint",
