@@ -230,12 +230,11 @@ export function overEachFile(
   return said
 }
 
-export function overEveryNamed(
-  root: string,
+export function overEveryIn(
+  change: Change,
   taken: (path: string) => boolean,
   judge: (path: string, text: string) => readonly string[]
 ): readonly Judged[] {
-  const change = everythingIn(root)
   const said: Judged[] = []
   for (const path of change.changed) {
     if (!taken(path)) continue
@@ -244,6 +243,14 @@ export function overEveryNamed(
     for (const reason of judge(path, text)) said.push({ path, reason })
   }
   return said
+}
+
+export function overEveryNamed(
+  root: string,
+  taken: (path: string) => boolean,
+  judge: (path: string, text: string) => readonly string[]
+): readonly Judged[] {
+  return overEveryIn(everythingIn(root), taken, judge)
 }
 
 export function overEveryText(

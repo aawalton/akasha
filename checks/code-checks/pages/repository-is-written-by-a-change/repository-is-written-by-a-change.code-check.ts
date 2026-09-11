@@ -75,6 +75,15 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That `.gitignore` is read as the change leaves it rather than as the disk holds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change taking `.gitignore` away leaves nothing but `.git` ignored.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule is read as the name left once its stars and its edging slashes are gone.",
     },
     {

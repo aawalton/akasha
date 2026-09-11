@@ -29,9 +29,27 @@ const CHANGE_ID = "01a08299-65c2-7001-8000-000000000001"
 
 const COMMAND_ID = "01a08299-65c2-7002-8000-000000000002"
 
-const IGNORE_AT = ".gitignore"
+export const IGNORE_AT = ".gitignore"
 
 const IGNORES = "*.uncommitted.*\n.supervisors/\nnode_modules/\n"
+
+export const IGNORES_HOLDING = `${IGNORES}held/\n`
+
+export const IGNORES_LESS = "*.uncommitted.*\n.supervisors/\n"
+
+function writesInto(where: string): string {
+  return (
+    'import { writeFileSync } from "node:fs"\n' +
+    'import { join } from "node:path"\n' +
+    "export function one(given: { root: string }): void {\n" +
+    `  writeFileSync(join(given.root, "${where}"), "")\n` +
+    "}\n"
+  )
+}
+
+export const WRITES_HELD = writesInto("held/a.ts")
+
+export const WRITES_VENDORED = writesInto("node_modules/a.ts")
 
 const MODULE_VALUES: readonly {
   readonly path: string

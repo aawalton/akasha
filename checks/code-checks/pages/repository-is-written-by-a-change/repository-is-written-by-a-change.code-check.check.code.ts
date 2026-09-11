@@ -3,26 +3,15 @@ import {
   reasonsOf,
 } from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.code.ts"
 import {
-  judgingEach,
+  input,
   type Selector,
   TEXTS,
   type Text,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
-type Reasons = (at: string, text: string) => readonly string[]
-
 const OUTSIDE_BY = new WeakMap<Shadow, (path: string) => boolean>()
-
-const REASONS_BY = new WeakMap<Shadow, Reasons>()
-
-function reasonsFor(shadow: Shadow, root: string): Reasons {
-  const found = REASONS_BY.get(shadow)
-  if (found !== undefined) return found
-  const made = reasonsOf(root, shadow)
-  REASONS_BY.set(shadow, made)
-  return made
-}
 
 function outsideFor(shadow: Shadow): (path: string) => boolean {
   const found = OUTSIDE_BY.get(shadow)
@@ -39,6 +28,11 @@ export const OUTSIDE: Selector<Text> = {
     TEXTS.from(change, shadow).filter((one) => outsideFor(shadow)(one.path)),
 }
 
-export const repositoryIsWrittenByAChange = judgingEach(OUTSIDE, (given, shadow) =>
-  reasonsFor(shadow, given.root)(given.path, given.text)
-)
+export const repositoryIsWrittenByAChange = input(OUTSIDE, (change, shadow) => {
+  const reasons = reasonsOf(change, shadow)
+  const said: Judged[] = []
+  for (const given of OUTSIDE.from(change, shadow)) {
+    for (const reason of reasons(given.path, given.text)) said.push({ path: given.path, reason })
+  }
+  return said
+})

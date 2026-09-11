@@ -1,7 +1,10 @@
-import { readFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { dirname } from "node:path"
+import {
+  textIn,
+  textNamed,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
@@ -66,8 +69,8 @@ export function asideIn(text: string): readonly string[] {
   return [...found].filter((one) => !back.some((said) => namesAside(said, one)))
 }
 
-export function asideAt(root: string): readonly string[] {
-  return asideIn(readFileSync(join(root, IGNORE_AT), "utf8"))
+export function asideOver(change: Change): readonly string[] {
+  return asideIn(textIn(change, IGNORE_AT) ?? "")
 }
 
 const WRITES = new Map<string, readonly number[]>([
@@ -262,7 +265,7 @@ function spreadOver(
   return found
 }
 
-function textIn(node: ts.Node): string | null {
+function spelledIn(node: ts.Node): string | null {
   if (ts.isStringLiteralLike(node)) return node.text
   if (ts.isTemplateHead(node) || ts.isTemplateMiddle(node) || ts.isTemplateTail(node)) {
     return node.text
@@ -283,7 +286,7 @@ export function namesAside(said: string, one: string): boolean {
 
 function asideBy(aside: readonly string[]): (node: ts.Node) => boolean {
   return (node) => {
-    const said = textIn(node)
+    const said = spelledIn(node)
     return said !== null && aside.some((one) => namesAside(said, one))
   }
 }
@@ -307,7 +310,7 @@ function noNode(): boolean {
 }
 
 function holdsName(node: ts.Node): boolean {
-  return textIn(node) !== null
+  return spelledIn(node) !== null
 }
 
 function pointsRoot(node: ts.Node): boolean {
@@ -367,10 +370,10 @@ export function rootModulesOf(shadow: Shadow): ReadonlySet<string> {
 }
 
 export function reasonsOf(
-  root: string,
+  change: Change,
   shadow: Shadow
 ): (at: string, text: string) => readonly string[] {
-  const aside = asideAt(root)
+  const aside = asideOver(change)
   const roots = rootModulesOf(shadow)
   return (at, text) => reasonsOver(at, text, aside, roots)
 }
