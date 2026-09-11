@@ -40,7 +40,8 @@ export const pathNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies searched are the bodies the commit handed in holds.",
+      statement:
+        "The bodies searched are the ones the caller hands in, as paths with a reader or as a commit.",
     },
     {
       invariantKind: "departure",

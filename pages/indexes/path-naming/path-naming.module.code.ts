@@ -57,21 +57,32 @@ export function importingOf(
   return { importers: [...found].sort() }
 }
 
+export function spellersIn(
+  paths: readonly string[],
+  textAt: (path: string) => string | null,
+  moved: ReadonlyMap<string, string>,
+  known: ReadonlySet<string>
+): readonly string[] {
+  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
+  const found: string[] = []
+  for (const path of paths) {
+    if (!typed(path) || moved.has(path) || known.has(path)) continue
+    const text = textAt(path)
+    if (text === null) continue
+    if (names.some((name) => text.includes(name))) found.push(path)
+  }
+  return found
+}
+
 export function spellingOf(
   root: string,
   base: string,
   moved: ReadonlyMap<string, string>,
   known: ReadonlySet<string>
 ): readonly string[] {
-  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
-  const found: string[] = []
-  for (const path of everyPath(root)) {
-    if (!typed(path) || moved.has(path) || known.has(path)) continue
+  const said = (path: string): string | null => {
     const held = bodyAt(root, base, path)
-    if (held === null) continue
-    const text = textOf(held)
-    if (text === null) continue
-    if (names.some((name) => text.includes(name))) found.push(path)
+    return held === null ? null : textOf(held)
   }
-  return found
+  return spellersIn(everyPath(root), said, moved, known)
 }

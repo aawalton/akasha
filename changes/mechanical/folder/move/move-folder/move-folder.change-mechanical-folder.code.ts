@@ -7,7 +7,10 @@ import type {
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
+import {
+  importingOf,
+  spellersIn,
+} from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
@@ -109,6 +112,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (seen.textOf(path) === null) {
       return refusing(`\`${path}\` names a path that moved and could not be read`)
     }
+    const asked = { was: path, now: path, moved: carried }
+    const answer = await reach(seen, CHANGE_IMPORTS, asked)
+    if (answer.said.refused !== null) return answer.said
+    edits.push(...answer.said.edits)
+    seen = answer.world
+  }
+  const known = new Set([...moved.keys(), ...reading.importers])
+  for (const path of spellersIn(seen.index.everyPath(), seen.textOf, moved, known)) {
     const asked = { was: path, now: path, moved: carried }
     const answer = await reach(seen, CHANGE_IMPORTS, asked)
     if (answer.said.refused !== null) return answer.said
