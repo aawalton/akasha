@@ -22,6 +22,10 @@ export const gitPlace = {
     },
     {
       invariantKind: "departure",
+      statement: "That folder is answered both under a root and on its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A store is a name akasha keeps that holds a tree.",
     },
     {

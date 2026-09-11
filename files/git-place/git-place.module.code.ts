@@ -1,6 +1,6 @@
 import { join } from "node:path"
 
-const GIT_AT = ".git"
+export const GIT_AT = ".git"
 
 export const CACHE = "cache"
 
@@ -22,6 +22,10 @@ export const LEFT: readonly string[] = [`${DATA}/reads/agent`]
 
 export function keptAt(name: string): string {
   return join(GIT_AT, name)
+}
+
+export function gitIn(root: string): string {
+  return join(root, GIT_AT)
 }
 
 export function storeAt(store: string, ...parts: readonly string[]): string {

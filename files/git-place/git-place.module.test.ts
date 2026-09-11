@@ -4,6 +4,8 @@ import {
   DATA,
   dataAt,
   dataIn,
+  GIT_AT,
+  gitIn,
   HANDOFF,
   HARNESS_LANDING_LOCK,
   INDEXES,
@@ -28,6 +30,15 @@ test("a subtree is answered under the place, so what owns it never spells the pl
 
 test("the place under a root is the place itself, taken from that root", () => {
   expect(dataIn("/repo", "held")).toBe(`/repo/${dataAt("held")}`)
+})
+
+test("the folder git does not track is answered both under a root and on its own", () => {
+  expect(GIT_AT).toBe(".git")
+  expect(gitIn("/repo")).toBe("/repo/.git")
+})
+
+test("every name akasha keeps sits under that folder", () => {
+  expect(keptAt(CACHE).startsWith(`${GIT_AT}/`)).toBe(true)
 })
 
 test("every store akasha keeps is named here", () => {
