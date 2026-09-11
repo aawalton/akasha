@@ -1,0 +1,13 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const aReadRecordEntryDoesNotOutlastTheReadsAfterIt = {
+  id: "01a06c31-1b01-7000-b602-000000000001",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "a-read-record-entry-does-not-outlast-the-reads-after-it",
+  domain: "domain/seat-system",
+  claim:
+    "A page read into the read record leaves it within about a minute, so a required-reading set larger than one answer cannot be satisfied: reading the overflow costs the head of the set, and the gate then asks for the head again.",
+  evidence:
+    "Measured on 2026-09-11 from seat thea, agent id 01a06c31-1b01-7000-b602-fc1a3f96f3a4, with two subagents live.\n\nThe record sits at .git/data/reads/agent/id/<agentId>/path/<path>.jsonl, one file per path, written by recordRead in commands/modules/reading/reading.module.code.ts and keyed by blobIdOf, the git blob id of the body read.\n\nCount of entries under my agent id, taken three times:\n- 18, with timestamps spanning 1789133899 to 1789133954, a 55 second spread covering the two calls before the count.\n- 13 immediately after one further read that delivered 12 bodies, every surviving entry stamped 1789134000 and none of the previous 18 present.\n- Entries from the call before that did survive into the next call when the two ran back to back with no turn between them.\n\nSo entries are not replaced per call, and they do not accumulate either. Over this session I read well over a hundred distinct pages and the count never passed 18.\n\nThe only removals in the module are carryReadings, which moves an entry when a page moves, and dropReadings(root, paths), whose three callers all drop entries for pages that were deleted: seat-stopping.module.code.ts:148, log-day-sweeping.module.code.ts:152, subagent-presence.module.code.ts:224. None of those clears a live agent's record wholesale, so the cause is not an explicit drop and is not established here.\n\nThe cost is in the gate rather than in the record. `akasha change draft` on a page under agents/ asked for 19 pages; their transitive expansion ran to 64 files, which is seven answers at the 28000 bytes one answer holds. Paid across seven calls with no turn between them, the draft was admitted. Paid across the same number of calls with work in between, the same demand came back whole seven separate times in one session, each time naming pages read minutes earlier.\n\nA seat whose required reading exceeds one answer therefore lands changes only by reading the whole set in an unbroken run, and a set that grows past what can be read before the head ages out cannot be satisfied at all.",
+} as const satisfies Finding
