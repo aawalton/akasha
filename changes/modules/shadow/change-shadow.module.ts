@@ -51,7 +51,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A world whose index answers for one page type, its properties and values is built here.",
+        "A ledger whose index answers for one page type, its properties and values is built here.",
     },
     {
       invariantKind: "departure",

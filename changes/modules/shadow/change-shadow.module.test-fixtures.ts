@@ -217,9 +217,11 @@ export function bodyAt(at: string, body: string): (path: string) => string | nul
   return (path) => (path === at ? body : null)
 }
 
+const NOWHERE = "/nowhere"
+
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
-    root: "/nowhere",
+    root: NOWHERE,
     index: { everyPath: () => Object.keys(held) } as never,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
@@ -257,7 +259,7 @@ export type Carried = { at: string; given: unknown }
 
 export function worldRecording(carried: Carried, answers: Answer = NOTHING_OVER): World {
   return {
-    root: "/nowhere",
+    root: NOWHERE,
     index: {} as World["index"],
     textOf: () => null,
     bodyOf: () => null,
@@ -280,7 +282,7 @@ export function worldFor(
 ): World {
   const known = knownOf({ admitting: (one) => [one] })
   return {
-    root: "/nowhere",
+    root: NOWHERE,
     index: { knownIn: () => known, pageByPath: () => page, valuesByPath: () => valued } as never,
     textOf: () => body,
     bodyOf: () => body,
@@ -298,15 +300,13 @@ export function worldOfType(
   values: ReadonlyMap<string, Value>,
   reaching: Reaching
 ): World {
-  return {
-    ...worldOf(bodies),
-    index: {
-      kindsUnder: () => new Set([kind]),
-      propertiesIfNamed: () => carried,
-      valuesByPath: () => values,
-    } as never,
-    reaching,
-  }
+  const index = {
+    kindsUnder: () => new Set([kind]),
+    propertiesIfNamed: () => carried,
+    valuesByPath: () => values,
+  } as never
+  const ledger = ledgerAt(NOWHERE, filesOf(bodies), reaching)
+  return Object.defineProperty(ledger, "index", { value: index })
 }
 
 export type Caught = { readonly at: string; readonly given: Record<string, unknown> }
