@@ -25,7 +25,6 @@ WORKSPACE="$1"
 resolve_workspace_dir() {
   local ws="$1"
   case "$ws" in
-    cluster) echo "${AKASHA_ROOT}/infra" ;;
     *) echo "${AKASHA_ROOT}/$ws" ;;
   esac
 }
