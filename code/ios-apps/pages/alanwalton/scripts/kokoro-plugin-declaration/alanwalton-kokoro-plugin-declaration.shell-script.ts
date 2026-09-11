@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const alanwaltonKokoroPluginDeclaration = {
   id: "01a0595b-ef5c-791f-894c-0e66937282b6",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-kokoro-plugin-declaration",
   definition: "the Swift declaring KokoroTtsPlugin's method table, tunables and playback state",

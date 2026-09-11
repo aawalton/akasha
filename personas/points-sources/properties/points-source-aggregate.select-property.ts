@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const pointsSourceAggregate = {
   id: "01a060b8-bfaf-7002-8d8d-62373bc372fa",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "points-source-aggregate",
   propertySlug: "aggregate",

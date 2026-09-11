@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const seaweedfsBackupCnpg = {
   id: "01a06816-68b2-7eef-b522-058dbe5af91b",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "seaweedfs-backup-cnpg",
   definition: "what copies the Postgres backups off to separate storage",

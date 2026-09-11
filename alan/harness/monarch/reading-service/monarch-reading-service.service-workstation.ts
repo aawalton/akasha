@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const monarchReadingService = {
   id: "01a05b42-a2d3-7d02-b6b1-5faa28a7bdba",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "monarch-reading-service",
   definition: "the service taking Monarch's unreviewed count onto its readout",

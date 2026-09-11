@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const ciApplyManifests = {
   id: "01a06865-abff-7012-a178-ceaa65d5a61f",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "ci-apply-manifests",
   definition: "the manifests under one directory applied to a namespace, or diffed against it",

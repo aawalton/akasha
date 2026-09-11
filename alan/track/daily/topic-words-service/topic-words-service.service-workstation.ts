@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const topicWordsService = {
   id: "01a0771b-064e-7b47-8966-3baf08055a96",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "topic-words-service",
   definition:

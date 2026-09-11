@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const theIdleEpoch0010WhoDeservesToSurvive = {
   id: "01a064b4-9ec8-7e97-a09a-d265802a1203",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-idle-epoch-0010-who-deserves-to-survive",
   title: "Who Deserves to Survive",

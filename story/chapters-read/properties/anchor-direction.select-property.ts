@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const anchorDirection = {
   id: "01a0685e-ef8a-7e52-9e45-460c839b0933",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "anchor-direction",
   propertySlug: "direction",

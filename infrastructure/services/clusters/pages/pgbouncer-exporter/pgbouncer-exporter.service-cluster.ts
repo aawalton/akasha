@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const pgbouncerExporter = {
   id: "01a06812-2380-7c17-9f68-cd789c803dea",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "pgbouncer-exporter",
   definition: "the server that publishes the connection pool's state as metrics",

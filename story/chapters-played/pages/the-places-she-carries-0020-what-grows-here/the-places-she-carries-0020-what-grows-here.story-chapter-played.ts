@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const thePlacesSheCarries0020WhatGrowsHere = {
   id: "01a064b4-9ec8-74e8-9737-846d40f3b4a2",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-places-she-carries-0020-what-grows-here",
   title: "What Grows Here",

@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const inboxTrackingPoll = {
   id: "01a06829-0194-7b3e-8aaf-32073fb983f2",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "inbox-tracking-poll",
   definition: "the service refreshing the inbox counts the statusline shows",

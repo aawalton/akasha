@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const dragonsAndDungeons0007TheHushAndTheCage = {
   id: "01a064b4-9ec8-75b6-9f92-57191945f330",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "dragons-and-dungeons-0007-the-hush-and-the-cage",
   title: "The Hush and the Cage",

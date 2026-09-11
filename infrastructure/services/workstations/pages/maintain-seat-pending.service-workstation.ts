@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const maintainSeatPending = {
   id: "01a026aa-c443-7000-8636-7a36d8bbf564",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "maintain-seat-pending",
   definition:

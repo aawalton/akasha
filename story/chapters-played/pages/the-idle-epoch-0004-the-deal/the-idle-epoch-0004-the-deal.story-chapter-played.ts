@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const theIdleEpoch0004TheDeal = {
   id: "01a064b4-9ec8-7527-84e2-980e02e9c460",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-idle-epoch-0004-the-deal",
   title: "The Deal",

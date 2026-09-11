@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const esoRigEntrypoint = {
   id: "01a06866-58f8-7ecd-b4cb-5a4541c4ce02",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "eso-rig-entrypoint",
   definition: "the X server the rig runs and the acceptance saying the substrate works",

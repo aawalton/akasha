@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const mechanicsWeight = {
   id: "01a0673c-8e0e-7008-975c-8cd78b5fcf4f",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "mechanics-weight",
   propertySlug: "mechanics-weight",

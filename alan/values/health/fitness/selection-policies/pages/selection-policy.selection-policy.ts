@@ -2,7 +2,6 @@ import type { SelectionPolicy } from "akasha/alan/values/health/fitness/selectio
 
 export const selectionPolicy = {
   id: "01a06862-a02e-7416-95e5-bb41af7c60d1",
-  pageTypeSlug: "selection-policy",
   type: "selection-policy",
   slug: "selection-policy",
   weightLongevity: 40,

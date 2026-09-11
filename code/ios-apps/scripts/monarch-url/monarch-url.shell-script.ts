@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const monarchUrl = {
   id: "01a05934-fe0d-7f10-9cfc-151487a0cef1",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "monarch-url",
   definition: "the Monarch link a tile's tap opens",

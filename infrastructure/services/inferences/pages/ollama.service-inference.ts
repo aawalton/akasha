@@ -2,7 +2,6 @@ import type { ServiceInference } from "akasha/infrastructure/services/inferences
 
 export const ollama = {
   id: "01a090a2-cd03-701a-8161-c9b80aff3edc",
-  pageTypeSlug: "service-inference",
   type: "service-inference",
   slug: "ollama",
   definition: "the models ollama serves",

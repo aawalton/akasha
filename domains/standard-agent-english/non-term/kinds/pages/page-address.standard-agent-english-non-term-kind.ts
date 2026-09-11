@@ -2,7 +2,6 @@ import type { StandardAgentEnglishNonTermKind } from "akasha/domains/standard-ag
 
 export const pageAddress = {
   id: "01a07c77-7ea0-7d32-a298-06f8793773bb",
-  pageTypeSlug: "standard-agent-english-non-term-kind",
   type: "standard-agent-english-non-term-kind",
   slug: "page-address",
   definition: "the place a file sits",

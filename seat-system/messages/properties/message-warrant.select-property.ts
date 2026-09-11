@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const messageWarrant = {
   id: "01a06818-107b-7002-8cb9-81d4d299a260",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "message-warrant",
   propertySlug: "warrant",

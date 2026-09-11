@@ -2,7 +2,6 @@ import type { StandardAgentEnglishNonTermKind } from "akasha/domains/standard-ag
 
 export const number = {
   id: "01a07c77-93eb-72b1-a4b8-1cd905b273c2",
-  pageTypeSlug: "standard-agent-english-non-term-kind",
   type: "standard-agent-english-non-term-kind",
   slug: "number",
   definition: "a count or a measure",

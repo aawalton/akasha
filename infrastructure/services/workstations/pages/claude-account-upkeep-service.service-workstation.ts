@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const claudeAccountUpkeepService = {
   id: "01a06829-0194-744a-b8fe-cd24f9fcdcc1",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "claude-account-upkeep-service",
   definition: "the service renewing each Claude account's token and reading its usage every hour",

@@ -2,7 +2,6 @@ import type { ServiceInference } from "akasha/infrastructure/services/inferences
 
 export const trafficCop = {
   id: "01a090a3-49cd-77e0-94ee-65778e11afc4",
-  pageTypeSlug: "service-inference",
   type: "service-inference",
   slug: "traffic-cop",
   definition: "the service settling which model is resident on the machine",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const seaweedfsBackupBulk = {
   id: "01a06816-68b2-77c0-978a-5f3ba0874d8e",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "seaweedfs-backup-bulk",
   definition: "what copies the logs, agent sessions and network database off to separate storage",

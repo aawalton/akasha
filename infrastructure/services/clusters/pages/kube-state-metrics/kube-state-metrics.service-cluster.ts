@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const kubeStateMetrics = {
   id: "01a06812-2380-742f-b9bc-e1bb91eceda6",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "kube-state-metrics",
   definition: "the server that publishes the state of the cluster's own objects as metrics",

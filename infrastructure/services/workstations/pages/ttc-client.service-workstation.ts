@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const ttcClient = {
   id: "01a06829-0194-7e8a-b87b-1e6e9ea4fe59",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "ttc-client",
   definition: "the service keeping Tamriel Trade Centre prices current inside the game's prefix",

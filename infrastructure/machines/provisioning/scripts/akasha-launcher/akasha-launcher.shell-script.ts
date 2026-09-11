@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const akashaLauncher = {
   id: "01a07352-c56d-7d59-981a-3d7fa93e062d",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "akasha-launcher",
   definition:

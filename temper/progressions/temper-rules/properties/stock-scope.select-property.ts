@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const stockScope = {
   id: "01a05fd0-3aa6-791c-b6da-a96ebc31c770",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "stock-scope",
   propertySlug: "stock-scope",

@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const dragonsAndDungeons0005InterludeSessionZeroSEnd = {
   id: "01a064b4-9ec8-713c-8f2a-b8fae4e00218",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "dragons-and-dungeons-0005-interlude-session-zero-s-end",
   title: "Interlude — Session Zero's End",

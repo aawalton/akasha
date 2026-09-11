@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const towerAndTheStar0023TheProvingGatePartOne = {
   id: "01a064b4-9ec8-7fa6-aaee-cef1bafd1441",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "tower-and-the-star-0023-the-proving-gate-part-one",
   title: "The Proving Gate (Part One)",

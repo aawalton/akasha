@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const alanwaltonHealthForegroundSync = {
   id: "01a0918a-3664-7abd-bf6c-187ed7e96493",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-health-foreground-sync",
   definition: "the Swift draining health samples when the app comes forward",

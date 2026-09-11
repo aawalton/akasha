@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const thePlacesSheCarries0023WhatTheLandRemembers = {
   id: "01a064b4-9ec8-7ff5-b991-1fdc9b5b81eb",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-places-she-carries-0023-what-the-land-remembers",
   title: "What the Land Remembers",

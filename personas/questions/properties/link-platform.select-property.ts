@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const linkPlatform = {
   id: "01a06823-89b2-700c-876a-8f2a761dc8e5",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "link-platform",
   propertySlug: "platform",

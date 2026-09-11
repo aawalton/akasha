@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const dcgmExporterDaemonset = {
   id: "01a06812-2380-779b-83b3-f7f564f62401",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "dcgm-exporter-daemonset",
   definition: "the daemon that publishes each node's graphics card as metrics",

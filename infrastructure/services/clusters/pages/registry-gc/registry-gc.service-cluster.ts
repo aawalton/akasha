@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const registryGc = {
   id: "01a06812-2380-70a7-a24a-bcc1429b9b1b",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "registry-gc",
   definition: "the job that removes an image layer nothing refers to",

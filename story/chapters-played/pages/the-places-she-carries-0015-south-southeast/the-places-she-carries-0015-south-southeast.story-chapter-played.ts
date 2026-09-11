@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const thePlacesSheCarries0015SouthSoutheast = {
   id: "01a064b4-9ec8-7b0f-8399-277d5613073b",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-places-she-carries-0015-south-southeast",
   title: "South-Southeast",

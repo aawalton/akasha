@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const groupGranularity = {
   id: "01a0680d-4d00-7009-8c62-3f7a1d5b410a",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "group-granularity",
   propertySlug: "group-granularity",

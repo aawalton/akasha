@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const writeCapacitorConfig = {
   id: "01a05934-fe0e-7785-bb6a-bdfc081e0a63",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "write-capacitor-config",
   definition: "the bundle id and display name put into a shell's Capacitor config",

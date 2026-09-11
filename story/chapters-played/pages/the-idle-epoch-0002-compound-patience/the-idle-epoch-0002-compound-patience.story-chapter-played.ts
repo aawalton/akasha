@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const theIdleEpoch0002CompoundPatience = {
   id: "01a064b4-9ec8-77a2-b989-665e447360e2",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-idle-epoch-0002-compound-patience",
   title: "Compound Patience",

@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const findSession = {
   id: "01a06864-40db-7788-b62b-0c19278aaa92",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "find-session",
   definition: "the transcript file a session id or its prefix names",

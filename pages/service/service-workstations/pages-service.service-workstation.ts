@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const pagesService = {
   id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "pages-service",
   definition: "the service answering page queries and landing page writes",

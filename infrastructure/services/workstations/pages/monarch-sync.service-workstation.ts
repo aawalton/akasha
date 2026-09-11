@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const monarchSync = {
   id: "01a06829-0194-7976-b3a8-db7df0bae3ef",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "monarch-sync",
   definition: "the service copying the whole of Monarch and comparing the copy against it",

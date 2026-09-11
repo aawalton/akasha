@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const desktopWallpaperSetting = {
   id: "01a0786c-047b-7863-b793-0ff93be3d895",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "desktop-wallpaper-setting",
   definition: "the service setting the desktop wallpaper to the persona Alan messaged last",

@@ -2,7 +2,6 @@ import type { SessionActivity } from "akasha/alan/track/session-activities/sessi
 
 export const drive = {
   id: "019fb7b4-7f5d-733d-9363-7b588935e658",
-  pageTypeSlug: "session-activity",
   type: "session-activity",
   slug: "drive",
   title: "Drive",

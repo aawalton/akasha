@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const thePlacesSheCarries0009TheSouthWindow = {
   id: "01a064b4-9ec8-7de7-a832-ced918720c90",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-places-she-carries-0009-the-south-window",
   title: "The South Window",

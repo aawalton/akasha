@@ -2,7 +2,6 @@ import type { ServiceInference } from "akasha/infrastructure/services/inferences
 
 export const csm = {
   id: "01a090a2-71a8-79b2-a532-b27c27e05122",
-  pageTypeSlug: "service-inference",
   type: "service-inference",
   slug: "csm",
   definition: "the Sesame CSM voice model, served by mlx-audio",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const talosSubnetRouter = {
   id: "01a06812-2380-7d28-a4a5-09178aa6be26",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "talos-subnet-router",
   definition: "the router carrying private network traffic to the cluster nodes' addresses",

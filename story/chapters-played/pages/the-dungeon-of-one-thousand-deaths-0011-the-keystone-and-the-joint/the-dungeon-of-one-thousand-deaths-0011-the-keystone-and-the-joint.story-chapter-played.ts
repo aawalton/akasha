@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const theDungeonOfOneThousandDeaths0011TheKeystoneAndTheJoint = {
   id: "01a064b4-9ec8-78a3-b34b-627cde09880c",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0011-the-keystone-and-the-joint",
   title: "The Keystone and the Joint",

@@ -2,7 +2,6 @@ import type { ServiceInference } from "akasha/infrastructure/services/inferences
 
 export const kokoro = {
   id: "01a090a2-5c24-724d-b01c-a733d03553e2",
-  pageTypeSlug: "service-inference",
   type: "service-inference",
   slug: "kokoro",
   definition: "the Kokoro voice model, served by mlx-audio",

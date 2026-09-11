@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const deployFunctions = {
   id: "01a06887-6590-7ef6-b6f5-49959a7c99f2",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "deploy-functions",
   definition: "the names a cluster script sources for reaching the cluster",

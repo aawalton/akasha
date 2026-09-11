@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const buildVisibility = {
   id: "01a06862-c4ee-7a6d-886a-f9af2859fd5f",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "build-visibility",
   propertySlug: "visibility",

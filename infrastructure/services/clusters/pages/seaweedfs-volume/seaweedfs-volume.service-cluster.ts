@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const seaweedfsVolume = {
   id: "01a06816-68b1-7d63-9c32-76a6915a2d9d",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "seaweedfs-volume",
   definition: "what holds the bytes of the files that are stored",

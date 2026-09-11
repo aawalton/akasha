@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const createTunnel = {
   id: "01a06865-abff-7013-bd8a-23b0cf633a6f",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "create-tunnel",
   definition: "a Cloudflare tunnel created and its credentials sealed into the cluster secret",

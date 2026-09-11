@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const zimageUp = {
   id: "01a06815-9efd-702d-82a8-4cd32ae44d0d",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "zimage-up",
   definition: "the Z-Image container started with the card attached",

@@ -2,7 +2,6 @@ import type { ServiceInference } from "akasha/infrastructure/services/inferences
 
 export const imageGen = {
   id: "01a090a2-e6cb-721a-882d-350f1bbdcced",
-  pageTypeSlug: "service-inference",
   type: "service-inference",
   slug: "image-gen",
   definition: "the Z-Image Turbo picture model, served by mlx-openai-server",

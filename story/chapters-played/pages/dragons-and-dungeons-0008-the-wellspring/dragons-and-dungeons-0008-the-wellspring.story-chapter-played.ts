@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const dragonsAndDungeons0008TheWellspring = {
   id: "01a064b4-9ec8-701a-bdf6-20adcdb6af9c",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "dragons-and-dungeons-0008-the-wellspring",
   title: "The Wellspring",

@@ -2,7 +2,6 @@ import type { StoryBuild } from "akasha/story/builds/story-build.page-type.types
 
 export const theBeholderBuild = {
   id: "01a0657d-bb96-7523-bb95-78170e8e6bd6",
-  pageTypeSlug: "story-build",
   type: "story-build",
   slug: "the-beholder-build",
   title: "The Beholder — Build",

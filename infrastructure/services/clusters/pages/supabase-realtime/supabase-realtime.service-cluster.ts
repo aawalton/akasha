@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const supabaseRealtime = {
   id: "01a06812-2380-7fe4-8a55-3bb9b9dc3a52",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "supabase-realtime",
   definition: "the server that pushes a row's change to the browsers subscribed to it",

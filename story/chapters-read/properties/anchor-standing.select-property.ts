@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const anchorStanding = {
   id: "01a0685e-ef8a-7fef-b999-aae06d585ffb",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "anchor-standing",
   propertySlug: "standing",

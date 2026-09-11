@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const nodeExporter = {
   id: "01a06829-0194-7b8c-b075-9bab1fe4e693",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "node-exporter",
   definition:

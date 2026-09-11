@@ -2,7 +2,6 @@ import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chap
 
 export const towerAndTheStar0009Floor9ClearAndTheWeightOfKnowing = {
   id: "01a064b4-9ec8-7a48-a28f-bdd7c99429ec",
-  pageTypeSlug: "story-chapter-played",
   type: "story-chapter-played",
   slug: "tower-and-the-star-0009-floor-9-clear-and-the-weight-of-knowing",
   title: "Floor 9 Clear and the Weight of Knowing",

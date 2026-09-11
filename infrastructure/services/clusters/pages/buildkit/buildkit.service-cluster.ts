@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const buildkit = {
   id: "01a06812-237f-7cab-9c28-f1508f8046fb",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "buildkit",
   definition: "the builder that turns a Dockerfile into an image",

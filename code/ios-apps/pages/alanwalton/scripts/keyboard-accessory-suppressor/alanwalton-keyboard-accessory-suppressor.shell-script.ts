@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const alanwaltonKeyboardAccessorySuppressor = {
   id: "01a0595b-ef5b-70f5-b811-48e089de6c8d",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-keyboard-accessory-suppressor",
   definition: "the Swift taking the accessory bar off the keyboard",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const smilingjennyWeb = {
   id: "01a05b26-f8b6-70f1-b1ef-8cafc8f8b6e6",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "smilingjenny-web",
   definition: "what runs Jenny's command center in the cluster",

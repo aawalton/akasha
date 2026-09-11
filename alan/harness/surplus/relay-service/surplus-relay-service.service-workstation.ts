@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const surplusRelayService = {
   id: "01a05fc3-145a-7083-9cec-6a873c631afe",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "surplus-relay-service",
   definition: "the service carrying the surplus hours to the sites that show them",

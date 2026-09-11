@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const personaPointsRebuilding = {
   id: "01a082eb-b037-7fe2-b2ad-f45181c80cb2",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "persona-points-rebuilding",
   definition: "the service working out each persona's points again once a day has opened",

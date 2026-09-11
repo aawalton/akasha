@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const pageStore = {
   id: "01a05aba-55cb-7696-8110-a428e8ffd3f2",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "page-store",
   definition: "the forwarder that carries a pod's page request to the workstation",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const gotrue = {
   id: "01a06812-2380-7106-9c4f-27bad81011ae",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "gotrue",
   definition: "the server that issues and refuses the tokens a person is known by",

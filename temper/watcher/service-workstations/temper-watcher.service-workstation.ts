@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const temperWatcher = {
   id: "01a06039-9c8b-7942-a8fc-234055602831",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "temper-watcher",
   definition: "the service carrying what Alan does in the game across to the web",

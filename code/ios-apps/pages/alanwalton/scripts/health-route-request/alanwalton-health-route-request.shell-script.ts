@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const alanwaltonHealthRouteRequest = {
   id: "01a0595b-ef5a-7421-8855-05d0d25560ac",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-health-route-request",
   definition: "the Swift encoding what the phone posts to a route and posting it",

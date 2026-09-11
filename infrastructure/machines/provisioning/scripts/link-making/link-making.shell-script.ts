@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const linkMaking = {
   id: "01a06864-40db-7667-b568-c45fb304dce3",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "link-making",
   definition:

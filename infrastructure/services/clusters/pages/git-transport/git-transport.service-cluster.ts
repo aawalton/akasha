@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const gitTransport = {
   id: "01a06816-2f11-7fe0-b5a2-6c9518d6f0c3",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "git-transport",
   definition: "what serves the repositories over the network",

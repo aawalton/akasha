@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const registry = {
   id: "01a06812-2380-78aa-994b-e27680b0a2eb",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "registry",
   definition: "the store with the images the cluster runs",

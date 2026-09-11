@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const seaweedfsFiler = {
   id: "01a06816-68b1-7864-ad3f-f262707c3baa",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "seaweedfs-filer",
   definition: "what gives the stored bytes their names and directories",

@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const sweepLogDays = {
   id: "01a03b2f-4e21-7000-b7c5-1d9a4e3f8a60",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "sweep-log-days",
   definition: "the service removing every log day past the window a log is kept for",

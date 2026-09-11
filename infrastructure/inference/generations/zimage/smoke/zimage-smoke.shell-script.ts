@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const zimageSmoke = {
   id: "01a06815-9efd-702f-bfe6-a79f0b83fe3e",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "zimage-smoke",
   definition: "proof the Z-Image image reaches the card",

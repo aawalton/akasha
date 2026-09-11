@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const overdueRolling = {
   id: "01a07959-e7b3-7474-b7d6-6b2d76b1b642",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "overdue-rolling",
   definition: "the service moving every overdue to-do onto the day that has just opened",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const authProxy = {
   id: "01a06863-8e7c-7a70-a620-0a4edd125d51",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "auth-proxy",
   definition: "what decides who a request is from before it reaches anything",

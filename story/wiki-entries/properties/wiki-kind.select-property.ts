@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const wikiKind = {
   id: "01a06577-f385-7cda-a112-1e8887344a93",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "wiki-kind",
   propertySlug: "kind",

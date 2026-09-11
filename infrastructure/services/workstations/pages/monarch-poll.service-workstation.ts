@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const monarchPoll = {
   id: "01a06829-0194-7a16-9864-72598a2e5654",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "monarch-poll",
   definition: "the service landing the Monarch rows whose update time has moved",

@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const anchorTier = {
   id: "01a0685e-ef8a-7c8d-8b8c-de6047bf0040",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "anchor-tier",
   propertySlug: "tier",

@@ -2,7 +2,6 @@ import type { ServiceInference } from "akasha/infrastructure/services/inferences
 
 export const musicGen = {
   id: "01a090a3-3343-7623-808c-2d863b26130c",
-  pageTypeSlug: "service-inference",
   type: "service-inference",
   slug: "music-gen",
   definition: "the ACE-Step music model",

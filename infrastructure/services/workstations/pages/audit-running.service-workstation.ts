@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const auditRunning = {
   id: "01a091e9-689c-7002-afcc-8b73def2b8f9",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "audit-running",
   definition: "the service running each check's audit and telling thea what turned red",

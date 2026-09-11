@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const headscale = {
   id: "01a06812-2380-7204-bb6c-c05c012bbf72",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "headscale",
   definition:

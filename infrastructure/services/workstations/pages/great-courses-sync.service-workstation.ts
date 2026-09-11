@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const greatCoursesSync = {
   id: "01a06829-0194-71d6-8b3b-2687352034df",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "great-courses-sync",
   definition: "the service filing a Great Courses course as a page where none represents it",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const podJanitor = {
   id: "01a06812-2380-7b30-8877-d7c4a1d5411c",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "pod-janitor",
   definition: "the job that removes a failed pod its controller left behind",

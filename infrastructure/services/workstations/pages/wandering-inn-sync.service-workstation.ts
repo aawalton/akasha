@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const wanderingInnSync = {
   id: "01a06829-0194-7944-8222-878e84344e48",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "wandering-inn-sync",
   definition: "the service filing each new Wandering Inn chapter as a page",

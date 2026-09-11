@@ -2,7 +2,6 @@ import type { SessionActivity } from "akasha/alan/track/session-activities/sessi
 
 export const piano = {
   id: "019fb7b4-7ddd-7f10-a5df-cc66eb3eecfb",
-  pageTypeSlug: "session-activity",
   type: "session-activity",
   slug: "piano",
   title: "Piano",

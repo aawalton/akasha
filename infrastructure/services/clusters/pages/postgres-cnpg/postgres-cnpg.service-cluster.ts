@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const postgresCnpg = {
   id: "01a06812-2380-705a-87bc-2d6f0da9924c",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "postgres-cnpg",
   definition: "the managed cluster the Postgres database runs as",

@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const loki = {
   id: "01a06816-68b2-782a-9997-af90e9fdae8a",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "loki",
   definition: "the store every log is shipped to and queried out of",

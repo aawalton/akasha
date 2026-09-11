@@ -2,7 +2,6 @@ import type { SessionActivity } from "akasha/alan/track/session-activities/sessi
 
 export const walk = {
   id: "019f3489-485b-73f1-8595-db7750baedba",
-  pageTypeSlug: "session-activity",
   type: "session-activity",
   slug: "walk",
   title: "Walk",

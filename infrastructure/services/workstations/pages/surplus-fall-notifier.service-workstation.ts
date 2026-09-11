@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const surplusFallNotifier = {
   id: "01a06829-0194-7754-b17a-14e66866bd98",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "surplus-fall-notifier",
   definition: "the service saying when the day has spent Alan's night down a rung",

@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const reposEmptyDirPurge = {
   id: "01a06561-3c4d-7a18-b072-9e4c1d8f2a35",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "repos-empty-dir-purge",
   definition: "the empty directories under the repos folder taken away",

@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const sendDueReminders = {
   id: "01a06829-0194-7cac-9819-5df28b44cea6",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "send-due-reminders",
   definition: "the service sending each reminder whose schedule has come due",

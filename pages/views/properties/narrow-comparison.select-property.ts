@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const narrowComparison = {
   id: "01a063ee-2a3b-7703-9869-e8ab3280d56f",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "narrow-comparison",
   propertySlug: "comparison",

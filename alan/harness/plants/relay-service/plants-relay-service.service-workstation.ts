@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const plantsRelayService = {
   id: "01a06221-d65f-71c6-9f1e-446dff470034",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "plants-relay-service",
   definition: "the service carrying the plant grams to the sites that show them",

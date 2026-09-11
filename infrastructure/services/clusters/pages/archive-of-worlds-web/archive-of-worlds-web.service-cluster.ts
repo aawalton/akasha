@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const archiveOfWorldsWeb = {
   id: "01a05b26-f8b6-7d0c-8371-3abedb498e0f",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "archive-of-worlds-web",
   definition: "what serves the site published original stories are read on",

@@ -2,7 +2,6 @@ import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-ty
 
 export const wanDown = {
   id: "01a06815-9efd-7024-8562-8fb716c958fe",
-  pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "wan-down",
   definition: "the Wan container stopped and taken away",

@@ -2,7 +2,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 
 export const reposEmptyDirPurge = {
   id: "01a06829-0194-7c17-9a07-d06e04099921",
-  pageTypeSlug: "service-workstation",
   type: "service-workstation",
   slug: "repos-empty-dir-purge",
   definition: "the service removing every directory with nothing under Alan's repositories",

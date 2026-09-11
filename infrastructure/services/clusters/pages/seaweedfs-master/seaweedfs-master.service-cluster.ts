@@ -2,7 +2,6 @@ import type { ServiceCluster } from "akasha/infrastructure/services/clusters/ser
 
 export const seaweedfsMaster = {
   id: "01a06816-68b1-7782-ae24-3afcb9a52746",
-  pageTypeSlug: "service-cluster",
   type: "service-cluster",
   slug: "seaweedfs-master",
   definition: "what decides which volume a stored file goes to",
