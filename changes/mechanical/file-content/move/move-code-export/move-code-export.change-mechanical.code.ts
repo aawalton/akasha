@@ -19,6 +19,7 @@ import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.m
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import {
   landingOf,
+  type Naming,
   specifierFor,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
@@ -103,14 +104,19 @@ function namingsIn(source: ts.SourceFile): ReadonlyMap<string, string> {
   return found
 }
 
-function carriedIn(declared: Held): ReadonlyMap<string, Carrying> {
+function carriedIn(declared: Held, of: string, beside: string): ReadonlyMap<string, Carrying> {
   const source = declared.getSourceFile()
   const held = importsIn(source)
   const naming = namingsIn(source)
   const found = new Map<string, Carrying>()
   for (const name of namesIn(declared)) {
     const named = held.get(name)
-    if (named !== undefined) found.set(name, { ...named, naming: naming.get(name) ?? name })
+    if (named !== undefined) {
+      found.set(name, { ...named, naming: naming.get(name) ?? name })
+      continue
+    }
+    const one = name === of ? null : declaredIn(source, name)
+    if (one !== null) found.set(name, { from: beside, type: typed(one), naming: name })
   }
   return found
 }
@@ -254,9 +260,12 @@ function repointedAt(
   return null
 }
 
-function repointedIn(world: World, given: Asked): { readonly found: readonly Passage[] } | Refused {
+function repointedIn(
+  world: World,
+  given: Asked,
+  naming: Naming
+): { readonly found: readonly Passage[] } | Refused {
   const found: Passage[] = []
-  const naming = reachingOf(world.index.manifestsBeside(world.index.fileKeysAt()), world.textOf)
   for (const at of world.index.importersOf(given.from)) {
     if (at === given.to) continue
     const held = world.textOf(at)
@@ -296,20 +305,40 @@ function ontoFor(
   return { at: given.to, old: whole, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
 }
 
+function besideIn(given: Asked, naming: Naming): string {
+  const rooted = rootedIn(naming)
+  return rooted === null ? specifierFor(dirname(given.from), given.from) : `${rooted}${given.from}`
+}
+
+function namesBack(rest: ts.SourceFile, given: Asked, naming: Naming): boolean {
+  return rest.statements.some((one) => {
+    if (!ts.isImportDeclaration(one)) return false
+    const named = one.moduleSpecifier
+    return ts.isStringLiteral(named) && landingOf(given.from, named.text, naming) === given.to
+  })
+}
+
 function planFor(
   given: Asked,
   text: string,
   declared: Held,
   repointed: readonly Passage[],
-  landing: { readonly adding: boolean; readonly onto: string | null }
+  landing: { readonly adding: boolean; readonly onto: string | null; readonly naming: Naming }
 ): Plan | Refused {
   const passage = text.slice(declared.getFullStart(), declared.getEnd())
   const left = text.slice(0, declared.getFullStart()) + text.slice(declared.getEnd())
-  const carried = carriedIn(declared)
+  const beside = besideIn(given, landing.naming)
+  const carried = carriedIn(declared, given.of, beside)
   const source = parsedAs(given.from, left)
   const gone = droppedIn(left, source, given.from, carried)
   const rest = leftBy(left, gone)
-  const back = backIn(rest, parsedAs(given.from, rest), given, typed(declared))
+  const after = parsedAs(given.from, rest)
+  const back = backIn(rest, after, given, typed(declared))
+  const first = [...carried].find(([, one]) => one.from === beside)
+  if (first !== undefined && (back !== null || namesBack(after, given, landing.naming))) {
+    const said = `\`${first[0]}\` from \`${given.from}\`, which would name \`${given.to}\` back`
+    return { refused: `\`${given.of}\` names ${said}` }
+  }
   const onto = landing.onto === null ? null : ontoFor(given, landing.onto, carried, passage)
   if (onto !== null && "refused" in onto) return onto
   return {
@@ -352,10 +381,11 @@ function planned(world: World, given: Asked): Plan | Refused {
     const held = `\`${behind}\`, which \`${given.from}\` declares under no export`
     return { refused: `\`${given.of}\` names ${held}` }
   }
-  const repointed = repointedIn(world, given)
+  const naming = reachingOf(world.index.manifestsBeside(world.index.fileKeysAt()), world.textOf)
+  const repointed = repointedIn(world, given, naming)
   if ("refused" in repointed) return repointed
   const there = landed !== null && exportedIn(given.to, landed, given.of)
-  const landing = { adding: landed === null, onto: there ? null : landed }
+  const landing = { adding: landed === null, onto: there ? null : landed, naming }
   return planFor(given, text, declared, repointed.found, landing)
 }
 

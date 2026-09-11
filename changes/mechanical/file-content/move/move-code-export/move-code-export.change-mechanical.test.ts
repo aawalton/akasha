@@ -417,3 +417,59 @@ test("an export naming something its own body declares under no export is refuse
     `\`changeOf\` names \`bodiedOf\`, which \`${FROM}\` declares under no export`
   )
 })
+
+const SIBLING = `export function childOf(one: number): number {
+  return one
+}
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+`
+
+const SIBLING_LANDED = `import { childOf } from "./one.held.ts"
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+`
+
+test("an export the moved body names from its own source file is imported from there", async () => {
+  const world = worldOf({ [FROM]: SIBLING })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "searchOf" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe(SIBLING_LANDED)
+})
+
+test("that import is spelled from the checkout root where the root names a way in", async () => {
+  const world = worldOf({ [FROM]: SIBLING, [NAMED_AT]: NAMED, [ROOT_AT]: ROOT })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "searchOf" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toContain(`import { childOf } from "tree/${FROM}"`)
+})
+
+const SIBLING_BACK = `export function childOf(one: number): number {
+  return one
+}
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+
+export const FIRST = searchOf(1)
+`
+
+test("carrying such an import where the two bodies would name each other is refused", async () => {
+  const world = worldOf({ [FROM]: SIBLING_BACK })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "searchOf" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`searchOf\` names \`childOf\` from \`${FROM}\`, which would name \`${TO}\` back`
+  )
+})

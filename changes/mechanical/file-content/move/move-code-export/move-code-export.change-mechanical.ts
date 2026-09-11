@@ -77,6 +77,15 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An export the moved body names from its own source file is imported from that source file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Carrying such an import where the two bodies would name each other is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import the body left behind no longer names goes with the declaration.",
     },
     {
