@@ -54,6 +54,10 @@ export const aelwynStrengthTraining = {
     {
       statement: "The most valuable movement available is always the one offered next.",
     },
+    {
+      statement:
+        "A movement's value is weighed against the goals Alan states rather than training in general.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
