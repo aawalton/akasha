@@ -1,0 +1,13 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const anEntryShapesRowTypeIsWrittenByHandWhileItsOwnTypeIsGenerated = {
+  id: "01a090cd-8841-7519-9fdc-0e95d1d9dcfe",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated",
+  domain: "domain/page",
+  claim:
+    "A `page-property-entry` declares the fields every row beside the page carries, and the generator writes only the type of the key on the page. The rows themselves are typed by hand where anything reads them. `sessions` is the one page left doing this, and the hand-written row disagrees with what the page declares: nine of its twelve fields are declared required or typed as text, and the row writes every field optional and two of them as text or a number.",
+  evidence:
+    'Read 2026-09-11 on the akasha checkout, after the last page property type was generated.\n\nOf every page property file in the repository, `alan/track/daily/days/properties/sessions.page-property-entry.ts` is the only one still exporting a type of its own. It states `types: "ts"`, so its own type is written beside it and reads `export type Sessions = "jsonl"` — the extension of the file the rows sit in. Beside that it hand-writes `SessionRow` and `WorkedSessions`, which `alan/track/daily/days/day.page-type.ts:5` folds into `WorkedDay` for the day\'s calculations.\n\nThe page declares twelve fields under `properties`, four of them required. `SessionRow` writes all thirteen of its keys optional, adds `id`, and types `safetyLevel` and `difficultyLevel` as `string | number` where the declarations name `text-property/safety-level` and `text-property/difficulty-level`. Generating the row from the declarations would therefore change the type rather than restate it, and the calculations reading those fields would have to be mended with it.\n\nThe declarations are already read at the value layer: `page-matches-its-type` judges every row against the fields its shape declares, through `entryReasonsIn` in `entry-reasons.module.code.ts`. So the shape is known and judged, and only the type is left to hand.\n\nThe generator that would write it has no case yet: `page-property.page-type.type-generator.ts` maps `page-property-entry` to the literal `"jsonl"` in `HELD` and stops there. A second type beside the page — the row — is a shape no page property states today.',
+} as const satisfies Finding

@@ -54,6 +54,15 @@ export const pageProperty = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page property's type is written beside that property rather than written by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That type says what the property's own kind says and nothing a page states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The two answer to different reaches.",
     },
   ],
