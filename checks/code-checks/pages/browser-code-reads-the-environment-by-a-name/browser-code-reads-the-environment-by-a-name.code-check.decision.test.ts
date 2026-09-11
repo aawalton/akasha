@@ -4,9 +4,7 @@ import {
   type Asking,
   appsIn,
   exportsIn,
-  folderOf,
   landedAt,
-  modulesIn,
   passedOver,
   reachesByKey,
   refusalsOver,
@@ -179,11 +177,6 @@ test("a body with no keyed reach in its text reads by no key", () => {
   expect(reachesByKey(HELPER, HELPER_TEXT)).toBe(true)
 })
 
-test("an app's folder is the folder its page sits in", () => {
-  expect(folderOf(PAGE)).toBe("held-web/")
-  expect(folderOf("top.router-app.ts")).toBe("")
-})
-
 test("the files an app's build and its listener use are read from the index", () => {
   const app = appsIn(asking({}))[0]
   expect([...(app?.apart ?? [])].sort()).toEqual([
@@ -199,12 +192,6 @@ test("the route modules are the root route and what the table names", () => {
   const app = appsIn(asking({}))[0]
   const found = app === undefined ? [] : [...routesOf(app, asking({ [TABLE]: TABLE_TEXT }))]
   expect(found.sort()).toEqual([ROOTED, ROUTE])
-})
-
-test("only a string ending in a module extension names a route module", () => {
-  const text =
-    'route("home", "routes/home.tsx")\nimport { route } from "@react-router/dev/routes"\n'
-  expect(modulesIn(TABLE, text)).toEqual(["routes/home.tsx"])
 })
 
 test("a path is passed over where it is server-only, a test or the build's own", () => {

@@ -1,4 +1,4 @@
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import {
   lineOf,
   parsedAs,
@@ -10,22 +10,18 @@ import type { Value } from "akasha/pages/value-reading/page-value-reading.module
 import ts from "typescript"
 import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-
-export const APP = "router-app"
+import {
+  APP,
+  folderOf,
+  modulesIn,
+  serverNamed,
+} from "../../../modules/router-app-code/router-app-code.module.code.ts"
 
 const TABLE = "route-table"
 
 const ROUTED = ["root-route", "server-entry", "app-layout"]
 
 const TESTED = "test"
-
-const PARTED_BY = "/"
-
-const SERVER_NAMED = /\.server(\.[cm]?[jt]sx?)?$/
-
-const SERVER_FOLDER = /(^|\/)\.server\//
-
-const MODULE_NAMED = /\.[cm]?[jt]sx?$/
 
 const ONLY =
   "only a route module reaches the server, so take the import as a type or move the reach " +
@@ -55,11 +51,6 @@ export type Reached = {
   readonly line: number
 }
 
-export function folderOf(path: string): string {
-  const at = dirname(path)
-  return at === "." ? "" : `${at}${PARTED_BY}`
-}
-
 function carries(value: Value, propertySlug: string): boolean {
   return Object.keys(value).some((key) => slugFor(key) === propertySlug)
 }
@@ -85,17 +76,6 @@ export function appsIn(asking: Asking): readonly App[] {
   return found
 }
 
-export function modulesIn(path: string, text: string): readonly string[] {
-  const source = parsedAs(path, text)
-  const found: string[] = []
-  const visit = (node: ts.Node): undefined => {
-    if (ts.isStringLiteral(node) && MODULE_NAMED.test(node.text)) found.push(node.text)
-    ts.forEachChild(node, visit)
-  }
-  ts.forEachChild(source, visit)
-  return found
-}
-
 export function routesOf(app: App, asking: Asking): ReadonlySet<string> {
   const text = asking.textAt(app.table)
   if (text === null) {
@@ -107,10 +87,6 @@ export function routesOf(app: App, asking: Asking): ReadonlySet<string> {
   const found = new Set<string>(app.fixed)
   for (const said of modulesIn(app.table, text)) found.add(join(app.at, said))
   return found
-}
-
-export function serverNamed(said: string): boolean {
-  return SERVER_NAMED.test(said) || SERVER_FOLDER.test(said)
 }
 
 function testNamed(path: string): boolean {

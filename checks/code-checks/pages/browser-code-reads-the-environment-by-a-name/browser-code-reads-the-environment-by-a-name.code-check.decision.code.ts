@@ -1,4 +1,4 @@
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import {
   lineOf,
   parsedAs,
@@ -8,8 +8,12 @@ import { landingOf } from "akasha/code-system/code-specifier/code-specifier.modu
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-
-export const APP = "router-app"
+import {
+  APP,
+  folderOf,
+  modulesIn,
+  serverNamed,
+} from "../../../modules/router-app-code/router-app-code.module.code.ts"
 
 const TABLE = "route-table"
 
@@ -41,12 +45,6 @@ const ENV = "env"
 
 const KEYED = "process.env["
 
-const SERVER_NAMED = /\.server(\.[cm]?[jt]sx?)?$/
-
-const SERVER_FOLDER = /(^|\/)\.server\//
-
-const MODULE_NAMED = /\.[cm]?[jt]sx?$/
-
 const CODE_NAMED = /\.tsx?$/
 
 const INSTEAD =
@@ -69,11 +67,6 @@ export type App = {
   readonly table: string
   readonly apart: ReadonlySet<string>
   readonly rooted: string | null
-}
-
-export function folderOf(path: string): string {
-  const at = dirname(path)
-  return at === "." ? "" : `${at}${PARTED_BY}`
 }
 
 export function appsIn(asking: Asking): readonly App[] {
@@ -100,17 +93,6 @@ export function appsIn(asking: Asking): readonly App[] {
   return found
 }
 
-export function modulesIn(path: string, text: string): readonly string[] {
-  const source = parsedAs(path, text)
-  const found: string[] = []
-  const visit = (node: ts.Node): undefined => {
-    if (ts.isStringLiteral(node) && MODULE_NAMED.test(node.text)) found.push(node.text)
-    ts.forEachChild(node, visit)
-  }
-  ts.forEachChild(source, visit)
-  return found
-}
-
 export function routesOf(app: App, asking: Asking): ReadonlySet<string> {
   const text = asking.textAt(app.table)
   if (text === null) {
@@ -123,10 +105,6 @@ export function routesOf(app: App, asking: Asking): ReadonlySet<string> {
   if (app.rooted !== null) found.add(app.rooted)
   for (const said of modulesIn(app.table, text)) found.add(join(app.at, said))
   return found
-}
-
-export function serverNamed(said: string): boolean {
-  return SERVER_NAMED.test(said) || SERVER_FOLDER.test(said)
 }
 
 function testNamed(path: string): boolean {

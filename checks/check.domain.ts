@@ -25,6 +25,7 @@ export const check = {
     "module/change-mirror",
     "module/audit-reading",
     "module/check-measuring",
+    "module/router-app-code",
   ],
   invariants: [
     {

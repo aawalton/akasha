@@ -3,8 +3,6 @@ import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   type Asking,
   appsIn,
-  folderOf,
-  modulesIn,
   passedOver,
   reachesIn,
   refusalsOver,
@@ -152,11 +150,6 @@ test("the refusal names the line the import sits on", () => {
   expect(said[0]).toContain("line 2")
 })
 
-test("an app's folder is the folder its page sits in", () => {
-  expect(folderOf(PAGE)).toBe("hum/")
-  expect(folderOf("top.router-app.ts")).toBe("")
-})
-
 test("an app's fixed files are the names the index declares", () => {
   const app = appsIn(asking({}))[0]
   expect(app?.table).toBe(TABLE)
@@ -178,12 +171,6 @@ test("the route modules are the fixed files and what the table names", () => {
   expect(app === undefined ? [] : [...routesOf(app, asking({ [TABLE]: TABLE_TEXT }))]).toContain(
     ROUTE
   )
-})
-
-test("only a string ending in a module extension names a route module", () => {
-  const text =
-    'route("home", "routes/home.tsx")\nimport { route } from "@react-router/dev/routes"\n'
-  expect(modulesIn(TABLE, text)).toEqual(["routes/home.tsx"])
 })
 
 test("an app whose route table reads as nothing refuses", () => {
