@@ -1,4 +1,4 @@
-import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
+import type { Day } from "../../day.page-type.types.ts"
 
 export const day20260910 = {
   id: "01a0882f-b821-7000-9d3b-fb7ec08543c2",
@@ -8,7 +8,7 @@ export const day20260910 = {
   title: "@date:2026-09-10",
   date: "2026-09-10",
   version: "3.0",
-  nutritionPoints: 255,
+  nutritionPoints: 615,
   activeCalories: 1.193,
   wisdomWords: 0,
   intelligenceTopics: 0,
