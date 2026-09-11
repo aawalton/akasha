@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive1369858 = {
   id: "01a08392-00cc-7082-9c76-11135bd829fb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0026-amelia-webtoon-pre-emptive-1369858",
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",

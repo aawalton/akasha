@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const allTheSkillsADeckbuildingLitrpg0044B6Ch37TheEarthFellAway = {
   id: "01a06585-ef19-7435-8b81-ac14ac50afaf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0044-b6-ch37-the-earth-fell-away",
   title: "B6 Ch37: The Earth Fell Away",

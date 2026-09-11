@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarlier = {
   id: "01a06585-ef15-7e28-8d45-d808adbc1808",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0007-chapter-124-the-arrival-four-hours-earlier",
   title: "Chapter 124  The Arrival (Four Hours Earlier)",

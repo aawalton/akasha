@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const allTheSkillsADeckbuildingLitrpg0023Book6Ch16QuiteTheEntrance = {
   id: "01a06585-ef18-7b12-b916-2f7d70c4dc4b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0023-book-6-ch16-quite-the-entrance",
   title: "Book 6 Ch16: Quite The Entrance",

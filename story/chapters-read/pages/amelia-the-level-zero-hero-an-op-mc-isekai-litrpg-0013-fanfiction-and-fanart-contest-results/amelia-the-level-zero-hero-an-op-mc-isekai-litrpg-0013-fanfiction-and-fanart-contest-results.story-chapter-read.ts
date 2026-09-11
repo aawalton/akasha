@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0013FanfictionAndFanartContestResults = {
   id: "01a06585-ef23-7c70-b0f0-4942fb7c6b2d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0013-fanfiction-and-fanart-contest-results",
   title: "Fanfiction and Fanart Contest RESULTS",

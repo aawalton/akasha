@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0008B5Prologue2916703 = {
   id: "01a08392-4915-7415-b004-2c165fbf0ac6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0008-b5-prologue-2916703",
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",

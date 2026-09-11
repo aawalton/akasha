@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion = {
   id: "01a06585-ef14-7a29-a3b9-5a095b0c794e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0004-chapter-42-sunday-into-monday-reunion",
   title: "Chapter 42  Sunday into Monday Reunion",

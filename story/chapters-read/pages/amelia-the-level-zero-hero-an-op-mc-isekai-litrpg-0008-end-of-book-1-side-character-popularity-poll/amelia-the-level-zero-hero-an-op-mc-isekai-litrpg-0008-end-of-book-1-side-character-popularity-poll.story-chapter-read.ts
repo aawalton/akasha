@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0008EndOfBook1SideCharacterPopularityPoll = {
   id: "01a06585-ef23-78fb-aad0-b64978e50b9f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0008-end-of-book-1-side-character-popularity-poll",
   title: "End of Book 1 Side Character Popularity Poll!",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const arkendrithyst0130JanesClassAbilityOptionsP2NotAChapter = {
   id: "01a08393-50ab-7b18-adb8-7048ddca2705",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "arkendrithyst-0130-janes-class-ability-options-p2-not-a-chapter",
   story: "story-read/arkendrithyst",

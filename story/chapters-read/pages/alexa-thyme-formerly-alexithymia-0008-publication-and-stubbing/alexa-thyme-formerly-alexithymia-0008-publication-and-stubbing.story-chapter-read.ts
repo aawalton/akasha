@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing = {
   id: "01a06585-ef15-71c9-89d4-6056fa044fad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0008-publication-and-stubbing",
   title: "Publication and Stubbing",
