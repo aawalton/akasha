@@ -22,7 +22,6 @@ export const akasha = {
     "domain/verdict",
     "domain/seat-system",
     "domain/persona",
-    "page-type/role",
     "domain/agent",
     "domain/alan",
     "domain/design",

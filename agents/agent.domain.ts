@@ -11,5 +11,6 @@ export const agent = {
     "page-type/agent",
     "page-type/claude-account",
     "domain/hook",
+    "page-type/role",
   ],
 } as const satisfies Domain
