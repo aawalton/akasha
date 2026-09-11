@@ -6,7 +6,7 @@ export const noRuleInTwoFiles = {
   type: "code-check",
   slug: "no-rule-in-two-files",
   definition: "the check refusing a function whose rule is spelled in another file as well",
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,
