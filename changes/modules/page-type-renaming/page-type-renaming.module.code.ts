@@ -1,9 +1,12 @@
 import { basename, dirname, join } from "node:path"
+import { renameManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
 import { changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 
 const KEYS = ["type", "pageTypeSlug"]
@@ -94,6 +97,23 @@ export function importersOf(
 ): readonly string[] | string {
   const reading = importingOf(world.index, moved)
   return "unread" in reading ? reading.unread : reading.importers
+}
+
+export function manifestsAnew(
+  world: World,
+  moved: ReadonlyMap<string, string>
+): readonly FileChange[] | string {
+  const over = Object.fromEntries(moved)
+  const said: FileChange[] = []
+  for (const at of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
+    const text = world.textOf(at)
+    if (text === null) continue
+    if (![...reachesIn(dirname(at), text).values()].some((one) => moved.has(one))) continue
+    const held = renameManifestWays({ at, moved: over }, world.textOf)
+    if (held.refused !== null) return held.refused
+    said.push(...held.edits)
+  }
+  return said
 }
 
 export function repointedOver(

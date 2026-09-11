@@ -52,6 +52,14 @@ export const pageTypeRenaming = {
       statement: "A page stating its type under both keys has both keys restated.",
     },
     {
+      invariantKind: "departure",
+      statement: "A manifest naming a file that moved as a way in states where that file landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The manifests are read once for the whole rename rather than once for a file.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches a change.",
     },

@@ -11,6 +11,7 @@ export const changeMechanical = {
     "page-type/change-mechanical-file",
     "page-type/change-mechanical-folder",
     "page-type/change-mechanical-file-content",
+    "page-type/change-mechanical-page-type",
     "relation-property/guards",
   ],
   properties: [
@@ -36,11 +37,16 @@ export const changeMechanical = {
     },
     {
       invariantKind: "absence",
-      statement: "No mechanical change acts on a page type or on a page property or on prose.",
+      statement: "No mechanical change acts on a page property or on prose.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent change reaches all three by composing the rungs beneath.",
+      statement: "An agent change reaches both by composing the rungs beneath.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A mechanical change acting on a page type answers for every page filed under that page type.",
     },
   ],
   types: "ts",

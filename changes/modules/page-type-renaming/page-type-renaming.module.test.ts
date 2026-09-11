@@ -3,6 +3,7 @@ import {
   importersOf,
   keyedAnew,
   landedName,
+  manifestsAnew,
   movesOf,
   pagesMoved,
   repointedOver,
@@ -122,6 +123,12 @@ test("the importers of everything that moved are asked for in one call", () => {
   const moved = new Map([[PAGE_CODE, "akasha/widgets/one.gadget.code.ts"]])
 
   expect(importersOf(worldHeld(), moved)).toEqual([NAMER_AT])
+})
+
+test("a world with no manifest has no way in restated", () => {
+  const moved = new Map([[PAGE_CODE, "akasha/widgets/one.gadget.code.ts"]])
+
+  expect(manifestsAnew(worldHeld(), moved)).toEqual([])
 })
 
 test("a body is repointed over one map of what moved", () => {
