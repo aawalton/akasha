@@ -59,7 +59,6 @@ export const alan = {
       warrant:
         "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
       aids: [
-        "Quick, small and a lot are all estimates.",
         "A duration already elapsed is a fact.",
         "Doing less work to save time or context is acting on them.",
       ],
