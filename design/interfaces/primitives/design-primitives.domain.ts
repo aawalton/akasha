@@ -29,6 +29,7 @@ export const designPrimitives = {
     "module/format-gold",
     "module/format-relative-time",
     "module/heading",
+    "module/home-end-scroll",
     "module/horizontal-scroll-fade",
     "module/hover-card",
     "module/input",

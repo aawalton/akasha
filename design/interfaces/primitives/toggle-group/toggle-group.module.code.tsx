@@ -2,6 +2,7 @@
 
 import * as ToggleGroupPrimitive from "@radix-ui/react-toggle-group"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { handleHomeEndScroll } from "akasha/design/interfaces/primitives/home-end-scroll/home-end-scroll.module.code.ts"
 import { toggleVariants } from "akasha/design/interfaces/primitives/toggle/toggle.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 import * as React from "react"
@@ -10,14 +11,6 @@ const ToggleGroupContext = React.createContext<VariantProps<typeof toggleVariant
   size: "default",
   variant: "default",
 })
-
-function handleHomeEndScroll(event: React.KeyboardEvent) {
-  if (event.key === "Home") {
-    window.scrollTo({ top: 0 })
-  } else if (event.key === "End") {
-    window.scrollTo({ top: document.documentElement.scrollHeight })
-  }
-}
 
 function ToggleGroup({
   className,

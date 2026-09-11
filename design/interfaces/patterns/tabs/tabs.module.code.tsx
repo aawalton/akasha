@@ -7,6 +7,7 @@ import {
   DropdownMenu,
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { handleHomeEndScroll } from "akasha/design/interfaces/primitives/home-end-scroll/home-end-scroll.module.code.ts"
 import {
   clampSurfaceLevel,
   surfaceClass,
@@ -114,14 +115,6 @@ function Tabs({
       {...props}
     />
   )
-}
-
-function handleHomeEndScroll(event: React.KeyboardEvent) {
-  if (event.key === "Home") {
-    window.scrollTo({ top: 0 })
-  } else if (event.key === "End") {
-    window.scrollTo({ top: document.documentElement.scrollHeight })
-  }
 }
 
 function TabsList({
