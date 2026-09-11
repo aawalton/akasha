@@ -1,8 +1,8 @@
-import { AuthFooter } from "akasha/code-system/router-apps/auth-footer/auth-footer.module.code.tsx"
+import { AuthFooter } from "akasha/code/router-apps/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
-} from "akasha/code-system/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
+} from "akasha/code/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"

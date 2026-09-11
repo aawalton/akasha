@@ -1,0 +1,36 @@
+import type { AddonBundleImage } from "akasha/code/router-apps/properties/addon-bundle-image.code-file-property.types.ts"
+import type { BundleDirectory } from "akasha/code/router-apps/properties/bundle-directory.build-folder-property.types.ts"
+import type { CompileConfig } from "akasha/code/router-apps/properties/compile-config.file-property.types.ts"
+import type { DeclarationDirectory } from "akasha/code/router-apps/properties/declaration-directory.build-folder-property.types.ts"
+import type { PlaceholderImage } from "akasha/code/router-apps/properties/placeholder-image.file-property.types.ts"
+import type { RootRoute } from "akasha/code/router-apps/properties/root-route.code-file-property.types.ts"
+import type { RouteTable } from "akasha/code/router-apps/properties/route-table.code-file-property.types.ts"
+import type { RouteTypesDirectory } from "akasha/code/router-apps/properties/route-types-directory.build-folder-property.types.ts"
+import type { RouterAppGitIgnore } from "akasha/code/router-apps/properties/router-app-git-ignore.file-property.types.ts"
+import type { RouterConfig } from "akasha/code/router-apps/properties/router-config.code-file-property.types.ts"
+import type { Server } from "akasha/code/router-apps/properties/server.code-file-property.types.ts"
+import type { ServerEntry } from "akasha/code/router-apps/properties/server-entry.code-file-property.types.ts"
+import type { SidebarBoot } from "akasha/code/router-apps/properties/sidebar-boot.code-file-property.types.ts"
+import type { SiteIcon } from "akasha/code/router-apps/properties/site-icon.file-property.types.ts"
+import type { TestPreload } from "akasha/code/router-apps/properties/test-preload.file-property.types.ts"
+import type { ViteConfig } from "akasha/code/router-apps/properties/vite-config.code-file-property.types.ts"
+import type { WorkspacePackage } from "akasha/code/workspace-packages/workspace-package.page-type.types.ts"
+
+export type RouterApp = WorkspacePackage & {
+  rootRoute: RootRoute
+  routeTable: RouteTable
+  serverEntry: ServerEntry
+  routerConfig: RouterConfig
+  compileConfig?: CompileConfig
+  viteConfig?: ViteConfig
+  server?: Server
+  addonBundleImage?: AddonBundleImage
+  sidebarBoot?: SidebarBoot
+  placeholderImage?: PlaceholderImage
+  siteIcon?: SiteIcon
+  gitIgnore?: RouterAppGitIgnore
+  testPreload?: TestPreload
+  routeTypesDirectory?: RouteTypesDirectory
+  declarationDirectory?: DeclarationDirectory
+  bundleDirectory?: BundleDirectory
+}

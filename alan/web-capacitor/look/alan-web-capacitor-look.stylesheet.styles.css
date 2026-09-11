@@ -18,6 +18,6 @@
 @source "../../chess/**/*.{ts,tsx}";
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../web/**/*.{ts,tsx}";
-@source "../../../code-system/router-apps/**/*.{ts,tsx}";
+@source "../../../code/router-apps/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
