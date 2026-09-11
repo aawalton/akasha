@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
+import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.types.ts"
 
 export const generationalWork = {
   id: "019dbb6d-c145-7d7a-b854-6df7f6cee1ab",

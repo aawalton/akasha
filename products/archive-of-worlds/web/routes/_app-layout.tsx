@@ -3,10 +3,10 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/server-clien
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { ARCHIVE_OF_WORLDS_APP_SLUG } from "akasha/products/archive-of-worlds/web/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
+import { AppShell } from "akasha/products/archive-of-worlds/web/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
+import { AuthProvider } from "akasha/products/archive-of-worlds/web/archive-of-worlds-auth-provider/archive-of-worlds-auth-provider.module.code.tsx"
 import { data, Outlet } from "react-router"
-import { ARCHIVE_OF_WORLDS_APP_SLUG } from "../archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
-import { AppShell } from "../archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
-import { AuthProvider } from "../archive-of-worlds-auth-provider/archive-of-worlds-auth-provider.module.code.tsx"
 import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {

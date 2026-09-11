@@ -13,7 +13,7 @@ import {
   useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
-import "./look/audhdalan-web-look.stylesheet.styles.css"
+import "akasha/products/audhdalan/web/look/audhdalan-web-look.stylesheet.styles.css"
 
 export const links: Route.LinksFunction = () => [
   {

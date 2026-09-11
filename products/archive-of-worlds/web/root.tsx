@@ -9,6 +9,7 @@ import { CommandPalette } from "akasha/design/interfaces/primitives/command-pale
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { NavCommands } from "akasha/products/archive-of-worlds/web/archive-of-worlds-nav-commands/archive-of-worlds-nav-commands.module.code.tsx"
 import type React from "react"
 import { useEffect } from "react"
 import {
@@ -22,8 +23,7 @@ import {
   useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
-import { NavCommands } from "./archive-of-worlds-nav-commands/archive-of-worlds-nav-commands.module.code.tsx"
-import "./look/archive-of-worlds-web-look.stylesheet.styles.css"
+import "akasha/products/archive-of-worlds/web/look/archive-of-worlds-web-look.stylesheet.styles.css"
 
 const AUTH_CONFIG: AuthRouteConfig = {
   signInPath: "/sign-in",

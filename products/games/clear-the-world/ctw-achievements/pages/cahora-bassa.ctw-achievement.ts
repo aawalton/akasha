@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
+import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.types.ts"
 
 export const cahoraBassa = {
   id: "019dbb6d-cba4-78c1-8390-71a6ebd5fc8f",

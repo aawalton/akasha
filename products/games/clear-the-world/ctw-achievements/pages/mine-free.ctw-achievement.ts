@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
+import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.types.ts"
 
 export const mineFree = {
   id: "019dbb6d-b6c3-72fa-a5c2-928ce1aaf4e1",

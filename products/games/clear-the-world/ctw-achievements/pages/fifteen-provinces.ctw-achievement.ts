@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
+import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.types.ts"
 
 export const fifteenProvinces = {
   id: "019dbb6d-eac0-7816-b6d2-b9bbdb385f17",

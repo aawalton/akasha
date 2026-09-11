@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
+import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.types.ts"
 
 export const maputoActionPlan = {
   id: "019dbb6d-ff8d-7fc2-8447-893cdb5151d4",

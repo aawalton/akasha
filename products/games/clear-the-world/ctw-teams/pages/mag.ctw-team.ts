@@ -1,4 +1,4 @@
-import type { CtwTeam } from "../ctw-team.page-type.types.ts"
+import type { CtwTeam } from "akasha/products/games/clear-the-world/ctw-teams/ctw-team.page-type.types.ts"
 
 export const mag = {
   id: "019dbb6d-6b73-7eb5-9f90-4c12a7b01529",

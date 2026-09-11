@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
+import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.types.ts"
 
 export const wideAreaSurvey = {
   id: "019dbb6d-a70e-7cbd-a5ca-cfdff6e2aa11",

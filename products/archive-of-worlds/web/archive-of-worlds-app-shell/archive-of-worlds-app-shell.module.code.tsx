@@ -12,14 +12,14 @@ import {
   PagesUILinkProvider,
   PagesUIRouterProvider,
 } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { LogIn, LogOut } from "lucide-react"
-import { type ReactNode, useMemo } from "react"
-import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
 import {
   ARCHIVE_OF_WORLDS_APP_ID,
   ARCHIVE_OF_WORLDS_APP_SLUG,
-} from "../archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
-import { primaryNavItems } from "../archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
+} from "akasha/products/archive-of-worlds/web/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
+import { primaryNavItems } from "akasha/products/archive-of-worlds/web/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
+import { LogIn, LogOut } from "lucide-react"
+import { type ReactNode, useMemo } from "react"
+import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
 
 interface AppShellProps {
   children: React.ReactNode

@@ -1,4 +1,4 @@
-import type { AppRoutes } from "../../../../code-system/app-routes/app-routes.page-type.types.ts"
+import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-type.types.ts"
 
 export const audhdalanWebRoutes = {
   id: "01a08bdf-ff09-7348-bca5-28dcbe2f36ee",

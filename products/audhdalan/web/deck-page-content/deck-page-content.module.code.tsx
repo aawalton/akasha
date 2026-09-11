@@ -2,8 +2,6 @@ import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-lay
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Separator } from "akasha/design/interfaces/primitives/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
-import { useCallback, useEffect, useState } from "react"
 import {
   type AboutFactIcon,
   type AboutSlide,
@@ -15,7 +13,9 @@ import {
   type StoplightColor,
   slides,
   type TitleSlide,
-} from "../deck-slides/deck-slides.module.code.ts"
+} from "akasha/products/audhdalan/web/deck-slides/deck-slides.module.code.ts"
+import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
+import { useCallback, useEffect, useState } from "react"
 
 const ABOUT_FACT_ICONS: Record<AboutFactIcon, typeof Brain> = {
   brain: Brain,
