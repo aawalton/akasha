@@ -8,4 +8,5 @@ export const ciCostSnapshot = {
   definition: "what a session has cost, read from the seat page its id names",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
