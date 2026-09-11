@@ -5,7 +5,7 @@ export const spotifyFetching = {
   pageTypeSlug: "module",
   type: "module",
   slug: "spotify-fetching",
-  definition: "the one function every call to Spotify is made through",
+  definition: "the network call every Spotify request is made over",
   code: "ts",
   test: "ts",
   invariants: [
