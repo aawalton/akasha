@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const genesisElectrifiedGv702025 = {
   id: "019e4add-69b7-7334-a203-2874edacbde4",

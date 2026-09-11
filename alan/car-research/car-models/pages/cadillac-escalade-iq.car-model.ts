@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const cadillacEscaladeIq = {
   id: "019e4ad6-f045-7f75-9bd8-4bcc059272c0",

@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const volvoXc60 = {
   id: "019e4afd-1259-7a08-8904-cdc1e599f761",

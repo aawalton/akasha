@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const lamborghiniRevuelto2025 = {
   id: "019e4ae5-5e86-7389-a658-22abcd47a5ca",

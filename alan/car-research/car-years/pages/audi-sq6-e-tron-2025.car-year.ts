@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const audiSq6ETron2025 = {
   id: "019e4add-b0c1-7a97-8089-cac306c396d9",

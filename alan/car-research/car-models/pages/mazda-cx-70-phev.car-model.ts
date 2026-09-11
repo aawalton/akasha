@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const mazdaCx70Phev = {
   id: "019e4aec-b00b-7da3-98eb-382ceb523b86",

@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const kiaNiroPlugInHybrid = {
   id: "019e4ae9-f859-77e4-a54c-ea3587952088",

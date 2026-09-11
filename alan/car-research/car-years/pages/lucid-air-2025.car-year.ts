@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const lucidAir2025 = {
   id: "019e4aea-f5cb-7559-a2a0-a1258032b1a2",

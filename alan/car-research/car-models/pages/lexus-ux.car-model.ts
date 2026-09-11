@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const lexusUx = {
   id: "019e4aec-4a86-7286-8cb7-262786e4677c",

@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.types.ts"
+import type { CarMake } from "akasha/alan/car-research/car-makes/car-make.page-type.types.ts"
 
 export const rollsRoyce = {
   id: "019e4af6-54ce-71a5-b01a-6c549455f33d",

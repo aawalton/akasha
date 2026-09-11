@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.types.ts"
+import type { CarMake } from "akasha/alan/car-research/car-makes/car-make.page-type.types.ts"
 
 export const maserati = {
   id: "019e4aec-cb97-7cd7-8c63-b7703e064311",

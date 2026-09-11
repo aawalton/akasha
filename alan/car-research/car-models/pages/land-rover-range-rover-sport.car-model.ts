@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const landRoverRangeRoverSport = {
   id: "019e4ae7-3199-7eaf-8782-2e0555abff23",

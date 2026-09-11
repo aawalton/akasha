@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const mclarenArtura = {
   id: "019e4aec-49ae-7be8-a79e-5559e9fe25df",

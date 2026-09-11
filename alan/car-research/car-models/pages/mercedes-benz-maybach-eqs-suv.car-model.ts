@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const mercedesBenzMaybachEqsSuv = {
   id: "019e4af0-52ac-7407-879e-b1f2463b78ed",

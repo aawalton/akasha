@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const rollsRoyceSpectre2025 = {
   id: "019e4af6-b9a6-7f87-b2b4-fc8ff25a4cc0",

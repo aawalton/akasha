@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.types.ts"
+import type { CarMake } from "akasha/alan/car-research/car-makes/car-make.page-type.types.ts"
 
 export const polestar = {
   id: "019e4af2-5e49-7c02-b428-089f08689f28",

@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const lotusEmeya2026 = {
   id: "019e4aed-1a6c-7ae7-a1cd-324b0927374b",

@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const hyundaiElantraHybrid2025 = {
   id: "019e4ae3-98fd-7a4c-a5f7-d2da32ccc5a2",

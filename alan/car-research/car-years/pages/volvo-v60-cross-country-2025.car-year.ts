@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const volvoV60CrossCountry2025 = {
   id: "019e4aff-0894-771e-bcc4-546dd66d3c15",

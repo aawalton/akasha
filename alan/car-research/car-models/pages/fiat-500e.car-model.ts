@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const fiat500e = {
   id: "019e4ada-4be3-714d-99ea-fd86ac0a5771",

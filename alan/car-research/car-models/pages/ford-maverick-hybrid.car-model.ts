@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const fordMaverickHybrid = {
   id: "019e4add-f062-7188-ab42-a37a87e3f301",

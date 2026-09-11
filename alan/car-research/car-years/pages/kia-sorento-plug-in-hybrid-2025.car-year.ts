@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.types.ts"
+import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-type.types.ts"
 
 export const kiaSorentoPlugInHybrid2025 = {
   id: "019e4aed-d360-75e4-81d7-b3bb5aab38eb",

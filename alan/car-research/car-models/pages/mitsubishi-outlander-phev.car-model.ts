@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const mitsubishiOutlanderPhev = {
   id: "019e4af2-2af2-7ee3-8555-5861d10053cf",

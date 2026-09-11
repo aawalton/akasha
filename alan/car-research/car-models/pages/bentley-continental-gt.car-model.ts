@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.types.ts"
+import type { CarModel } from "akasha/alan/car-research/car-models/car-model.page-type.types.ts"
 
 export const bentleyContinentalGt = {
   id: "019e4ad6-c7af-7c25-9b6b-3752af27454e",
