@@ -11,4 +11,5 @@ export const recipe = {
   definition: "the steps an image is built by",
   fileName: "Containerfile",
   generated: true,
+  writtenBy: "module-property-group/composing",
 } as const satisfies FileProperty

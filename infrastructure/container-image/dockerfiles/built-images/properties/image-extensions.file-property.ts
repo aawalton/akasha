@@ -9,5 +9,6 @@ export const imageExtensions = {
   slug: "image-extensions",
   propertySlug: "extensions",
   definition: "what an image adds to the Dockerfile written for it",
+  writtenBy: "module-property-group/extending",
   runsFileLength: false,
 } as const satisfies FileProperty
