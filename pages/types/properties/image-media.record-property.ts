@@ -1,9 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { MediaRenderer } from "./media-renderer.text-property.types.ts"
-
-export type ImageMedia = {
-  renderer: MediaRenderer
-}
 
 export const imageMedia = {
   id: "01a062b8-8775-7002-af76-179b0e1a6c4c",
@@ -19,4 +14,5 @@ export const imageMedia = {
       statement: "An image is rendered from the whole page rather than from one property.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

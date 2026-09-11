@@ -1,13 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { MediaRenderer } from "./media-renderer.text-property.types.ts"
-import type { MediaSourcePropertyId } from "./media-source-property-id.text-property.types.ts"
-import type { MediaVariantAxis } from "./media-variant-axis.text-property.types.ts"
-
-export type AudioMedia = {
-  sourcePropertyId: MediaSourcePropertyId
-  renderer: MediaRenderer
-  variantAxis?: MediaVariantAxis
-}
 
 export const audioMedia = {
   id: "01a062b8-8775-7001-8dc5-cf2cfeb779b3",
@@ -32,4 +23,5 @@ export const audioMedia = {
         "A page type saying its pages have audio names the property the audio is made from.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

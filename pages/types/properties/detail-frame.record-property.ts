@@ -1,13 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { FrameAutoScroll } from "./frame-auto-scroll.record-property.ts"
-import type { FrameEdgeToEdge } from "./frame-edge-to-edge.boolean-property.types.ts"
-import type { FrameFocusMode } from "./frame-focus-mode.boolean-property.types.ts"
-
-export type DetailFrame = {
-  edgeToEdge?: FrameEdgeToEdge
-  focusMode?: FrameFocusMode
-  autoScroll?: FrameAutoScroll
-}
 
 export const detailFrame = {
   id: "01a0683a-620a-721f-ac05-27b2bc929afe",
@@ -31,4 +22,5 @@ export const detailFrame = {
       statement: "A page type stating no frame is read in the frame every page is read in.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

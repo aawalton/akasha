@@ -1,9 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { LoadScroll } from "./load-scroll.text-property.types.ts"
-
-export type FrameAutoScroll = {
-  loadScroll?: LoadScroll
-}
 
 export const frameAutoScroll = {
   id: "01a0683a-620a-738e-922d-fa0b734ddda1",
@@ -19,4 +14,5 @@ export const frameAutoScroll = {
       statement: "A page is carried on its own only as the page opens.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

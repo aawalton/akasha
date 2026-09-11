@@ -1,11 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { ChildRelation } from "./child-relation.text-property.types.ts"
-import type { ChildType } from "./child-type.relation-property.types.ts"
-
-export type ChildCollection = {
-  childType: ChildType
-  childRelation: ChildRelation
-}
 
 export const childCollection = {
   id: "01a0683a-620a-7821-a81d-95fedabac32d",
@@ -37,4 +30,5 @@ export const childCollection = {
       statement: "The reader outside names that key so.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

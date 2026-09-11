@@ -1,27 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { BodyPropertyId } from "./body-property-id.text-property.types.ts"
-import type { ChildCollection } from "./child-collection.record-property.ts"
-import type { CollectionHeader } from "./collection-header.record-property.ts"
-import type { DetailDisplay } from "./detail-display.text-property.types.ts"
-import type { DetailFrame } from "./detail-frame.record-property.ts"
-import type { FullBleed } from "./full-bleed.boolean-property.types.ts"
-import type { LengthPropertyId } from "./length-property-id.text-property.types.ts"
-import type { MarkReadOnEnd } from "./mark-read-on-end.boolean-property.types.ts"
-import type { ProgressPropertyId } from "./progress-property-id.text-property.types.ts"
-import type { ShowReadingProgress } from "./show-reading-progress.boolean-property.types.ts"
-
-export type DetailConfig = {
-  display?: DetailDisplay
-  frame?: DetailFrame
-  bodyPropertyId?: BodyPropertyId
-  fullBleed?: FullBleed
-  showReadingProgress?: ShowReadingProgress
-  markReadOnEnd?: MarkReadOnEnd
-  progressPropertyId?: ProgressPropertyId
-  lengthPropertyId?: LengthPropertyId
-  header?: CollectionHeader
-  childCollection?: ChildCollection
-}
 
 export const detailConfig = {
   id: "01a0683a-620a-7046-8715-e1d2a2aa8586",
@@ -62,4 +39,5 @@ export const detailConfig = {
       statement: "A page gathering other pages is laid out by the pages that page gathers.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

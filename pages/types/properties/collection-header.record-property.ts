@@ -1,11 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { HeaderFields } from "./header-fields.text-property.types.ts"
-import type { HeaderShowCover } from "./header-show-cover.boolean-property.types.ts"
-
-export type CollectionHeader = {
-  showCover?: HeaderShowCover
-  fields: HeaderFields
-}
 
 export const collectionHeader = {
   id: "01a0683a-620a-7fa0-b6b2-c73fafd745f0",
@@ -24,4 +17,5 @@ export const collectionHeader = {
       statement: "A header naming no keys stands as the page's own name alone.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

@@ -1,13 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { SequenceDirection } from "./sequence-direction.text-property.types.ts"
-import type { SequenceGroupBy } from "./sequence-group-by.text-property.types.ts"
-import type { SequenceOrderBy } from "./sequence-order-by.text-property.types.ts"
-
-export type Sequence = {
-  groupBy: SequenceGroupBy
-  orderBy: SequenceOrderBy
-  direction?: SequenceDirection
-}
 
 export const sequence = {
   id: "01a062de-2001-7000-bc0f-0dd4d369ec1b",
@@ -39,4 +30,5 @@ export const sequence = {
       statement: "Pages with one value under the grouping key stand in one run.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty
