@@ -46,15 +46,16 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's page goes when the subagent returns leaving no edits.",
+      statement: "A subagent's page goes when the subagent returns.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent returning with edits waiting says so on its page.",
+      statement: "A page goes whether or not the subagent left edits waiting beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "A page saying so is there until the edits beside it are taken or dropped.",
+      statement:
+        "The edits a subagent leaves unlanded move onto the seat that dispatched it as its page goes.",
     },
     {
       invariantKind: "gap",

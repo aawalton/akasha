@@ -8,12 +8,20 @@ import {
   refusedWhereHeld,
   WAITED_AT_MOST,
 } from "akasha/commands/modules/holding/holding.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  seatEditsAt,
+  seatRefusalsAt,
+} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import {
   bodyOf,
   type Landing,
@@ -39,6 +47,25 @@ export function landingNaming(named: string[]): Landing {
     return Promise.resolve(LANDED)
   }
 }
+
+export const LANDS: Landing = landingNaming([])
+
+export const ROW = `${JSON.stringify({ kind: "remove", path: "one.md" })}\n`
+
+export const REFUSAL = "the body moved under the change"
+
+export const NOTHING_KEPT = { edits: "", refusals: "" }
+
+export const BODY_STATES = [
+  'from "akasha/seat-system/subagents/subagent.page-type.types.ts"',
+  "export const akashaAbc = {",
+  'type: "subagent"',
+  'slug: "akasha-abc"',
+  'principalSeatName: "akasha"',
+  'assignmentSlug: "domain/akasha-system"',
+  'dispatchedAs: "Explore"',
+  'agentId: "seat--own"',
+]
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -113,6 +140,52 @@ export function inScratch(act: (root: string) => void): undefined {
   } finally {
     world.sweep()
   }
+}
+
+export async function inTwoScratch(
+  act: (root: string, base: string) => Promise<void>
+): Promise<undefined> {
+  const world = scratchWorld()
+  try {
+    const root = seated(world.rootFor("subagent-presence-"))
+    await act(root, world.rootFor("subagent-presence-logs-"))
+  } finally {
+    world.sweep()
+  }
+}
+
+export function bodyAt(root: string, at: string | null): string {
+  return at !== null && existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : ""
+}
+
+export function keptBySeat(root: string): { readonly edits: string; readonly refusals: string } {
+  return {
+    edits: bodyAt(root, seatEditsAt(SEAT_AT)),
+    refusals: bodyAt(root, seatRefusalsAt(SEAT_AT)),
+  }
+}
+
+export function pageUnder(root: string, seatName: string): string {
+  const slug = slugOf(seatName, OWN)
+  const at = pathOf(slug)
+  writing(root, at, bodyOf(slug, seatName, "domain/akasha-system", "Explore", AGENT))
+  gitIn(root, ["add", "-A"])
+  gitIn(root, ["commit", "--quiet", "-m", "a page under a seat the index has no page for"])
+  return at
+}
+
+export function readingKept(root: string, at: string): undefined {
+  const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
+  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+  return undefined
+}
+
+export function subagentsFiled(root: string, at: string, other: string): undefined {
+  valueAlsoFiled(root, "subagent", [
+    { path: at, value: { id: SEAT_ID, slug: slugOf("akasha", OWN) } },
+    { path: other, value: { id: ANOTHER, slug: slugOf("akasha", "second") } },
+  ])
+  return undefined
 }
 
 export function messageIn(root: string): string {

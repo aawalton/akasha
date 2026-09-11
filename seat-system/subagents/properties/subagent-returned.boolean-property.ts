@@ -14,7 +14,7 @@ export const subagentReturned = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent that returned leaving no edits has no page to say this on.",
+      statement: "A subagent whose page was taken down has no page to say this on.",
     },
   ],
   types: "ts",

@@ -1,30 +1,20 @@
 import { expect, test } from "bun:test"
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import {
-  blobIdOf,
-  readingIn,
-  recordRead,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { readingIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  keepUncommitted,
-  uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import {
   agentIdOf,
   asking,
   assignedTo,
   bodyOf,
-  type Landing,
   LOG_AT,
   landingAgain,
   logPathOf,
@@ -45,6 +35,7 @@ import {
 import {
   AGENT,
   ANOTHER,
+  BODY_STATES,
   counting,
   GOING,
   HELD_ASSIGNMENT,
@@ -54,6 +45,9 @@ import {
   heldUnder,
   idIn,
   inScratch,
+  inTwoScratch,
+  keptBySeat,
+  LANDS,
   LOCKED,
   landedAt,
   landedUnder,
@@ -63,24 +57,23 @@ import {
   MECHANICAL,
   MOVED,
   messageIn,
+  NOTHING_KEPT,
   OWN,
+  pageUnder,
   pastTheStamp,
+  REFUSAL,
   REFUSED,
+  ROW,
+  readingKept,
   SEAT_AT,
   SEAT_BODY,
   SEAT_ID,
-  seated,
   stampOpening,
+  subagentsFiled,
   underSeat,
   WENT,
   whyIn,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
-
-const LANDS: Landing = landingNaming([])
-
-const SUBAGENT = "subagent"
-
-const ROW = `${JSON.stringify({ kind: "remove", path: "one.md" })}\n`
 
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {
   const when = new Date(1788600000123)
@@ -130,15 +123,8 @@ test("a log sits in the seat's own folder named for this module", () => {
 
 test("a body states the type and slug and seat and assignment and kind and agent id", () => {
   const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
-  expect(body).toContain('from "akasha/seat-system/subagents/subagent.page-type.types.ts"')
-  expect(body).toContain("export const akashaAbc = {")
-  expect(body).toContain('type: "subagent"')
+  for (const said of BODY_STATES) expect(body).toContain(said)
   expect(body).not.toContain("pageTypeSlug:")
-  expect(body).toContain('slug: "akasha-abc"')
-  expect(body).toContain('principalSeatName: "akasha"')
-  expect(body).toContain('assignmentSlug: "domain/akasha-system"')
-  expect(body).toContain('dispatchedAs: "Explore"')
-  expect(body).toContain('agentId: "seat--own"')
 })
 
 test("a body composed states no id, leaving the change to mint one", () => {
@@ -200,8 +186,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
     expect(messageIn(root)).toContain("a subagent states the agent id it acts under")
     expect(messageIn(root)).not.toContain(MECHANICAL)
     const at = pathOf(slugOf("akasha", OWN))
-    const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
-    recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+    readingKept(root, at)
     expect(readingIn(root, AGENT, at)).not.toBe(null)
     const named: string[] = []
     expect(await took(root, "akasha", OWN, landingNaming(named))).toEqual(WENT)
@@ -209,6 +194,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
     expect(existsSync(join(root, at))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
     expect(readingIn(root, AGENT, at)).toBe(null)
+    expect(keptBySeat(root)).toEqual(NOTHING_KEPT)
   })
 })
 
@@ -250,16 +236,27 @@ test("a page that is not there is taken away by doing nothing", async () => {
   })
 })
 
-test("a page whose subagent left edits waiting stays and says the subagent returned", async () => {
+test("a take-down moves what its subagent left onto the seat, and the page goes", async () => {
   await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     writing(root, editsAt(at) ?? "", ROW)
-    const named: string[] = []
-    expect(await took(root, "akasha", OWN, landingNaming(named))).toEqual(WENT)
-    expect(named).toEqual([])
+    refusalsKept(root, at, [REFUSAL])
+    expect(await took(root, "akasha", OWN, LANDS)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(false)
+    expect(keptBySeat(root)).toEqual({
+      edits: ROW,
+      refusals: refusalsSaid(slugOf("akasha", OWN), REFUSAL),
+    })
+  })
+})
+
+test("a take-down whose seat the index has no page for leaves edits waiting", async () => {
+  await underSeat(async (root) => {
+    const at = pageUnder(root, "thea")
+    writing(root, editsAt(at) ?? "", ROW)
+    expect(whyIn(await took(root, "thea", OWN, LANDS))).toContain("edits waiting")
     expect(existsSync(join(root, at))).toBe(true)
-    expect(uncommittedIn(root, at)?.returned).toBe(true)
   })
 })
 
@@ -279,10 +276,7 @@ test("a subagent that handed edits over is not among the pages under a seat", ()
   inScratch((root) => {
     const at = pathOf(slugOf("akasha", OWN))
     const other = pathOf(slugOf("akasha", "second"))
-    valueAlsoFiled(root, SUBAGENT, [
-      { path: at, value: { id: SEAT_ID, slug: slugOf("akasha", OWN) } },
-      { path: other, value: { id: ANOTHER, slug: slugOf("akasha", "second") } },
-    ])
+    subagentsFiled(root, at, other)
     writing(root, editsAt(at) ?? "", ROW)
     keepUncommitted(root, at, { returned: true })
     expect(pathsUnder(root, "akasha")).toEqual([other])
@@ -344,10 +338,7 @@ test("a page in history under another agent id is composed afresh", async () => 
 })
 
 test("a write the seat's assignment refuses leaves its reason in the log", async () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-presence-"))
-    const base = world.rootFor("subagent-presence-logs-")
+  await inTwoScratch(async (root, base) => {
     asking(root, SEAT_ID, [WRITING, "thea", OWN, "Explore", SEAT_ID], base)
     const held = await loggedAt(logPathOf(SEAT_ID, base), 30000)
     const line = held.split("\n")[0] ?? ""
@@ -357,9 +348,7 @@ test("a write the seat's assignment refuses leaves its reason in the log", async
     expect(pastTheStamp(line).startsWith(`subagent-presence: write thea ${OWN} — `)).toBe(true)
     expect(held).toContain("thea")
     expect(held).toContain("no assignment is stated")
-  } finally {
-    world.sweep()
-  }
+  })
 }, 40000)
 
 test("a landing refused for a held lock is asked for again until that landing goes", async () => {

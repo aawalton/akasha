@@ -21,7 +21,6 @@ import {
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
-import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
@@ -54,8 +53,6 @@ const SUFFIX = ".subagent.ts"
 const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 
 const TAKE_PAGE = "change-mechanical-file/remove-file-page"
-
-const RETURNED = subagentReturned.propertySlug
 
 const STARTED = subagentStarted.propertySlug
 
@@ -205,6 +202,20 @@ export function startedAfter(root: string, page: string, stoppedAt: number | nul
   return held !== null && held > stoppedAt
 }
 
+export function movingOff(root: string, seatName: string, at: string): Went {
+  const seat = seatPageIn(root, seatName)
+  if (seat !== null) {
+    movedOnto(root, seat, at)
+    return WENT
+  }
+  if (!editsWaiting(root, at)) return WENT
+  return {
+    why:
+      `the index files no page for the ${seatName} seat to move onto, and ${at} has edits waiting` +
+      ` that its take-down would take away, so that page was left where it is`,
+  }
+}
+
 export async function took(
   root: string,
   seatName: string,
@@ -215,11 +226,9 @@ export async function took(
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
   if (!existsSync(join(root, at))) return WENT
-  if (editsWaiting(root, at)) {
-    mergeUncommitted(root, at, { [RETURNED]: true })
-    return WENT
-  }
   if (startedAfter(root, at, stoppedAt)) return WENT
+  const moved = movingOff(root, seatName, at)
+  if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
   const went = wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
   if ("why" in went) return went
