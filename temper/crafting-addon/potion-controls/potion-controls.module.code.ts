@@ -1,7 +1,7 @@
-import { asBoolean } from "../potion-casts/potion-casts.module.code.ts"
-import { asFields } from "../potion-controls-helpers/potion-controls-helpers.module.code.ts"
-import { getSavedFavorites } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
+import { asBoolean } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { asFields } from "akasha/temper/crafting-addon/potion-controls-helpers/potion-controls-helpers.module.code.ts"
+import { getSavedFavorites } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 
 type LinkBuilder = (this: void, ...args: unknown[]) => string
 

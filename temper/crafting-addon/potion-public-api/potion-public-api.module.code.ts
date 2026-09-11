@@ -1,4 +1,4 @@
-import { PotMaker as holder } from "../potion-state/potion-state.module.code.ts"
+import { PotMaker as holder } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 
 interface PotionGlobalTable {
   PotMaker: typeof holder

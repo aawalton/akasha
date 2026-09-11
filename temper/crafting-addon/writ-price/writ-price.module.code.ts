@@ -1,6 +1,6 @@
-import { findLink } from "../writ-link-data/writ-link-data.module.code.ts"
-import { FALLBACK_PRICE as FALLBACK_PRICE_STATIC } from "../writ-price-data-table/writ-price-data-table.module.code.ts"
-import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
+import { findLink } from "akasha/temper/crafting-addon/writ-link-data/writ-link-data.module.code.ts"
+import { FALLBACK_PRICE as FALLBACK_PRICE_STATIC } from "akasha/temper/crafting-addon/writ-price-data-table/writ-price-data-table.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 const FALLBACK_PRICE: Record<string | number, number | boolean> = {}
 for (const [name, price] of pairs(FALLBACK_PRICE_STATIC)) {

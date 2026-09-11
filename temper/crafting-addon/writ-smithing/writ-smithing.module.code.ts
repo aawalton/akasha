@@ -1,8 +1,8 @@
-import { warn as logWarn } from "../writ-log/writ-log.module.code.ts"
-import { newSmithingParser } from "../writ-smith-parser/writ-smith-parser.module.code.ts"
-import type { SmithingParser } from "../writ-smith-parser-types/writ-smith-parser-types.module.code.ts"
-import { smithingInit } from "../writ-smith-schema/writ-smith-schema.module.code.ts"
-import type { School } from "../writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+import { warn as logWarn } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import { newSmithingParser } from "akasha/temper/crafting-addon/writ-smith-parser/writ-smith-parser.module.code.ts"
+import type { SmithingParser } from "akasha/temper/crafting-addon/writ-smith-parser-types/writ-smith-parser-types.module.code.ts"
+import { smithingInit } from "akasha/temper/crafting-addon/writ-smith-schema/writ-smith-schema.module.code.ts"
+import type { School } from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 
 interface MotifEntry {
   pages_id?: number

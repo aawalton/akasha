@@ -1,9 +1,12 @@
-import type { RgbColor } from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
-import type { RefineButton } from "../craft-rune-refining/craft-rune-refining.module.code.ts"
-import * as runeRefining from "../craft-rune-refining/craft-rune-refining.module.code.ts"
-import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import { runeHideVanillaUI, runeInitialize } from "../rune-panel/rune-panel.module.code.ts"
+import type { RgbColor } from "akasha/temper/crafting-addon/craft-rune-crafting/craft-rune-crafting.module.code.ts"
+import type { RefineButton } from "akasha/temper/crafting-addon/craft-rune-refining/craft-rune-refining.module.code.ts"
+import * as runeRefining from "akasha/temper/crafting-addon/craft-rune-refining/craft-rune-refining.module.code.ts"
+import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import {
+  runeHideVanillaUI,
+  runeInitialize,
+} from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 
 function asRefineButton(c: ButtonControl): RefineButton {
   return c as RefineButton

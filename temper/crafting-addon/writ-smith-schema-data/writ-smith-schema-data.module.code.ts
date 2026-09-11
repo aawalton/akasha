@@ -3,11 +3,11 @@ import {
   CL_TEMPER_EXPERTISE,
   JW_TEMPER_EXPERTISE,
   WW_TEMPER_EXPERTISE,
-} from "../writ-required-skill/writ-required-skill.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
 import type {
   School,
   TraitSet,
-} from "../writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 
 const JEWELRY_CRAFTING_TYPE = CRAFTING_TYPE_JEWELRYCRAFTING
 

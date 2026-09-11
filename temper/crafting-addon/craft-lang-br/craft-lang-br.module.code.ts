@@ -1,11 +1,11 @@
-import type { LangTable } from "../craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
+import type { LangTable } from "akasha/temper/crafting-addon/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 import {
   intricate,
   LMB,
   MMB,
   ornate,
   RMB,
-} from "../craft-lang-shared/craft-lang-shared.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-lang-shared/craft-lang-shared.module.code.ts"
 
 export const BR: LangTable = {
   options: {

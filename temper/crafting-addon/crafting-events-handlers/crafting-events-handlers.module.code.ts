@@ -1,28 +1,31 @@
-import { blueprintLearned } from "../craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
-import { characterInitialize } from "../craft-character-panel-init/craft-character-panel-init.module.code.ts"
-import { cookShow } from "../craft-cooking/craft-cooking.module.code.ts"
-import { cookShowCategory } from "../craft-cooking-lists/craft-cooking-lists.module.code.ts"
-import { defined } from "../craft-defined/craft-defined.module.code.ts"
-import { updateBag } from "../craft-inventory/craft-inventory.module.code.ts"
-import { migrateJewelryIdSwap } from "../craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
-import { migrateStoragePrune } from "../craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"
-import { migrateStudiesShape } from "../craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"
-import { inventorySpace } from "../craft-panel-init/craft-panel-init.module.code.ts"
+import { blueprintLearned } from "akasha/temper/crafting-addon/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
+import { characterInitialize } from "akasha/temper/crafting-addon/craft-character-panel-init/craft-character-panel-init.module.code.ts"
+import { cookShow } from "akasha/temper/crafting-addon/craft-cooking/craft-cooking.module.code.ts"
+import { cookShowCategory } from "akasha/temper/crafting-addon/craft-cooking-lists/craft-cooking-lists.module.code.ts"
+import { defined } from "akasha/temper/crafting-addon/craft-defined/craft-defined.module.code.ts"
+import { updateBag } from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
+import { migrateJewelryIdSwap } from "akasha/temper/crafting-addon/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
+import { migrateStoragePrune } from "akasha/temper/crafting-addon/craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"
+import { migrateStudiesShape } from "akasha/temper/crafting-addon/craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"
+import { inventorySpace } from "akasha/temper/crafting-addon/craft-panel-init/craft-panel-init.module.code.ts"
 import {
   updateAccountVars,
   updateInventory,
   updatePlayer,
   updateRecipeKnowledge,
-} from "../craft-player-state/craft-player-state.module.code.ts"
-import { updateQuest } from "../craft-quest-tracking/craft-quest-tracking.module.code.ts"
-import { recipeLearned } from "../craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
+import { updateQuest } from "akasha/temper/crafting-addon/craft-quest-tracking/craft-quest-tracking.module.code.ts"
+import { recipeLearned } from "akasha/temper/crafting-addon/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import {
   updateAllStudies,
   updateResearch,
   updateResearchWindows,
-} from "../craft-research/craft-research.module.code.ts"
-import { updatePanelIcon } from "../craft-research-grid/craft-research-grid.module.code.ts"
-import type { RuneRefineGlyphEntry, RuneTable } from "../craft-rune/craft-rune.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-research/craft-research.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
+import type {
+  RuneRefineGlyphEntry,
+  RuneTable,
+} from "akasha/temper/crafting-addon/craft-rune/craft-rune.module.code.ts"
 import {
   hideCrownStyles,
   hideKnownBlueprints,
@@ -33,17 +36,23 @@ import {
   hideUnknownRecipes,
   hideUnknownStyles,
   updateStyleKnowledge,
-} from "../craft-style-tracking/craft-style-tracking.module.code.ts"
-import { controlCloseAll, initPreviews } from "../craft-ui-updates/craft-ui-updates.module.code.ts"
-import { getQuest, getTimer } from "../craft-utilities/craft-utilities.module.code.ts"
-import { hideControl } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import { runeShowMode } from "../rune-mode/rune-mode.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-style-tracking/craft-style-tracking.module.code.ts"
+import {
+  controlCloseAll,
+  initPreviews,
+} from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
+import {
+  getQuest,
+  getTimer,
+} from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
+import { hideControl } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,
   runeInitialize,
   runeView,
-} from "../rune-panel/rune-panel.module.code.ts"
+} from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 
 type RuneJob = RuneTable["job"]
 const asRuneJob = (value: { amount: number }): RuneJob => value as RuneJob

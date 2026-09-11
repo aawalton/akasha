@@ -1,6 +1,6 @@
-import * as RuneCrafting from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
-import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import * as RuneCrafting from "akasha/temper/crafting-addon/craft-rune-crafting/craft-rune-crafting.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 export function runeShowWrit(): undefined {
   const tt = STATE.Loc.TT

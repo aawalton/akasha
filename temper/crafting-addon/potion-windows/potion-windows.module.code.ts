@@ -1,17 +1,17 @@
-import { asBoolean } from "../potion-casts/potion-casts.module.code.ts"
+import { asBoolean } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
 import {
   COLOR_SELECT,
   TEXTURE_BAG,
   TEXTURE_BANK,
-} from "../potion-constants/potion-constants.module.code.ts"
-import { getSavedFavorites } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import { clearTooltips } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
-import type { Potion } from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { getSavedFavorites } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import { clearTooltips } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+import type { Potion } from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 import {
   clearInventory,
   clearResultList,
-} from "../potion-window-helpers/potion-window-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-window-helpers/potion-window-helpers.module.code.ts"
 
 interface HighlightLabelControl extends LabelControl {
   defaultHighlightColor?: ZoColorDef

@@ -4,12 +4,16 @@ import {
   toKnowList,
   toMatList,
   warningText,
-} from "../writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"
 import type {
   SetBonus,
   SmithingParser,
-} from "../writ-smith-parser-types/writ-smith-parser-types.module.code.ts"
-import type { KnowList, MatList, Parser } from "../writ-types/writ-types.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-smith-parser-types/writ-smith-parser-types.module.code.ts"
+import type {
+  KnowList,
+  MatList,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 
 export function newSmithingParser(): SmithingParser {
   const o: SmithingParser = {

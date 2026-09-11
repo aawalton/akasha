@@ -1,7 +1,7 @@
 import {
   toMatKnowList,
   toVoucherCount,
-} from "../writ-parser-dispatch/writ-parser-dispatch.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"
 import {
   canDumpMatlist,
   canShowCMWDuplicates,
@@ -10,8 +10,12 @@ import {
   matTooltipText,
   type TooltipTarget,
   tooltipVars,
-} from "../writ-tooltip-text/writ-tooltip-text.module.code.ts"
-import type { KnowList, MatList, Parser } from "../writ-types/writ-types.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-tooltip-text/writ-tooltip-text.module.code.ts"
+import type {
+  KnowList,
+  MatList,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 
 interface AssemblerParser extends Parser {
   WarningText: (this: Parser) => string | undefined

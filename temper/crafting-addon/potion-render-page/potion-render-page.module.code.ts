@@ -1,5 +1,5 @@
-import { libAsync } from "../craft-libraries/craft-libraries.module.code.ts"
-import { asNumber } from "../potion-casts/potion-casts.module.code.ts"
+import { libAsync } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
+import { asNumber } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
 import {
   COLOR_SELECT,
   COLOR_USEABLE,
@@ -7,7 +7,7 @@ import {
   TEXTURE_FAVORITE,
   TEXTURE_REAGENTUNKNOWN,
   TEXTURE_TRAITUNKNOWN,
-} from "../potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   asIngredientRuntime,
   asPotion,
@@ -15,11 +15,11 @@ import {
   type ReagentControl,
   type ResultControl,
   type TraitControl,
-} from "../potion-result-controls/potion-result-controls.module.code.ts"
-import { getSavedFavorites } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import type {} from "../potion-types/potion-types.module.code.ts"
-import "../potion-refresh-traits/potion-refresh-traits.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-result-controls/potion-result-controls.module.code.ts"
+import { getSavedFavorites } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import type {} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
+import "akasha/temper/crafting-addon/potion-refresh-traits/potion-refresh-traits.module.code.ts"
 
 function renderLastStep(this: void): undefined {
   if (PotMaker.doablePotions.length > PotMaker.resultsMaxIndex + PAGE_SIZE) {

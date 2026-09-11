@@ -1,7 +1,7 @@
-import { COOK } from "../craft-cook/craft-cook.module.code.ts"
-import * as DataValidation from "../craft-validation/craft-validation.module.code.ts"
-import { splitLink } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import { COOK } from "akasha/temper/crafting-addon/craft-cook/craft-cook.module.code.ts"
+import * as DataValidation from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
+import { splitLink } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

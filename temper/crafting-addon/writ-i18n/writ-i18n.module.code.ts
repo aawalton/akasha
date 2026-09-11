@@ -1,11 +1,11 @@
-import { CLIENT_SI } from "../writ-i18n-client-si/writ-i18n-client-si.module.code.ts"
-import { FOODDRINK } from "../writ-i18n-fooddrink/writ-i18n-fooddrink.module.code.ts"
-import { GEAR } from "../writ-i18n-gear/writ-i18n-gear.module.code.ts"
-import { MAT } from "../writ-i18n-mat/writ-i18n-mat.module.code.ts"
-import { MOTIF } from "../writ-i18n-motif/writ-i18n-motif.module.code.ts"
-import { SET } from "../writ-i18n-set/writ-i18n-set.module.code.ts"
-import { SHORTEN } from "../writ-ui-strings-shorten/writ-ui-strings-shorten.module.code.ts"
-import { STATIC_STRINGS } from "../writ-ui-strings-static/writ-ui-strings-static.module.code.ts"
+import { CLIENT_SI } from "akasha/temper/crafting-addon/writ-i18n-client-si/writ-i18n-client-si.module.code.ts"
+import { FOODDRINK } from "akasha/temper/crafting-addon/writ-i18n-fooddrink/writ-i18n-fooddrink.module.code.ts"
+import { GEAR } from "akasha/temper/crafting-addon/writ-i18n-gear/writ-i18n-gear.module.code.ts"
+import { MAT } from "akasha/temper/crafting-addon/writ-i18n-mat/writ-i18n-mat.module.code.ts"
+import { MOTIF } from "akasha/temper/crafting-addon/writ-i18n-motif/writ-i18n-motif.module.code.ts"
+import { SET } from "akasha/temper/crafting-addon/writ-i18n-set/writ-i18n-set.module.code.ts"
+import { SHORTEN } from "akasha/temper/crafting-addon/writ-ui-strings-shorten/writ-ui-strings-shorten.module.code.ts"
+import { STATIC_STRINGS } from "akasha/temper/crafting-addon/writ-ui-strings-static/writ-ui-strings-static.module.code.ts"
 
 export interface StrHow {
   name: string

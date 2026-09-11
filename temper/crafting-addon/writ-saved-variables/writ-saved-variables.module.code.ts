@@ -1,8 +1,8 @@
 import {
   SAVED_VAR_VERSION,
   SAVED_VARIABLES_NAME,
-} from "../writ-constants/writ-constants.module.code.ts"
-import { str } from "../writ-i18n/writ-i18n.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-constants/writ-constants.module.code.ts"
+import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
 
 export const WW_DEFAULT: {
   log?: unknown

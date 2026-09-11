@@ -1,21 +1,21 @@
-import { asLabelControl } from "../potion-casts/potion-casts.module.code.ts"
-import { COLOR_SELECT } from "../potion-constants/potion-constants.module.code.ts"
-import { updateKeyStrip } from "../potion-keybind-helpers/potion-keybind-helpers.module.code.ts"
+import { asLabelControl } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { COLOR_SELECT } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { updateKeyStrip } from "akasha/temper/crafting-addon/potion-keybind-helpers/potion-keybind-helpers.module.code.ts"
 import {
   getAccountSettings,
   getPlayerSettings,
-} from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 import {
   clearTooltips,
   showAnnoucement,
-} from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import {
   clearInventory,
   clearResultList,
   showFilterPage,
   showStationOrTopLevel,
-} from "../potion-window-helpers/potion-window-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-window-helpers/potion-window-helpers.module.code.ts"
 
 interface AlchemyStationInventory {
   dirty: boolean

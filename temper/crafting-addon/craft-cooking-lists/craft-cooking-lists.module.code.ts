@@ -1,7 +1,10 @@
-import { cookShowRecipe, getCookChild } from "../craft-cooking/craft-cooking.module.code.ts"
-import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
-import { hideControl } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import {
+  cookShowRecipe,
+  getCookChild,
+} from "akasha/temper/crafting-addon/craft-cooking/craft-cooking.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
+import { hideControl } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 export function cookSearchRecipe(): undefined {
   const search = TemperCrafting_CookSearch.GetText()

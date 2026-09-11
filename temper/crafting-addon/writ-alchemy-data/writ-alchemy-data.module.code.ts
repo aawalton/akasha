@@ -1,4 +1,4 @@
-import { add as logAdd } from "../writ-log/writ-log.module.code.ts"
+import { add as logAdd } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
 
 export interface Effect {
   effect_id: number
@@ -10,7 +10,9 @@ export interface Effect {
 export interface Reagent {
   name: string
   effects: Record<string, Effect | undefined>
-  mat?: import("../writ-types/writ-types.module.code.ts").MatRow | undefined
+  mat?:
+    | import("akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts").MatRow
+    | undefined
 }
 
 export type ReagentThree = [Reagent, Reagent, Reagent]

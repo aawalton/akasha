@@ -1,4 +1,4 @@
-import type { WritFields } from "../writ-types/writ-types.module.code.ts"
+import type { WritFields } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 
 export function toWritFields(itemLink: string): WritFields {
   const x = [...ZO_LinkHandler_ParseLink(itemLink)]

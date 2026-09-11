@@ -1,7 +1,16 @@
-import { matName } from "../writ-i18n/writ-i18n.module.code.ts"
-import { findLink } from "../writ-link-data/writ-link-data.module.code.ts"
-import type { GoldAmount, MatList, MatRow } from "../writ-types/writ-types.module.code.ts"
-import { fail, matHaveCt, matPrice, toMoney } from "../writ-util/writ-util.module.code.ts"
+import { matName } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import { findLink } from "akasha/temper/crafting-addon/writ-link-data/writ-link-data.module.code.ts"
+import type {
+  GoldAmount,
+  MatList,
+  MatRow,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import {
+  fail,
+  matHaveCt,
+  matPrice,
+  toMoney,
+} from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
 
 export function newMatRow(): MatRow {
   const o: MatRow = {

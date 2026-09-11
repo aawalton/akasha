@@ -1,13 +1,17 @@
-import type { TraitEffect } from "../potion-constants/potion-constants.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   COLOR_DISABLED,
   COLOR_SELECT,
   TEXTURE_REAGENTUNKNOWN,
   TRAIT_EFFECT,
-} from "../potion-constants/potion-constants.module.code.ts"
-import { getPlayerSettings } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import type { BagSlot, Ingredient, Reagent } from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { getPlayerSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import type {
+  BagSlot,
+  Ingredient,
+  Reagent,
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 interface SlotCacheEntry {
   itemType: number

@@ -1,9 +1,9 @@
-import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
-import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
-import * as DataValidation from "../craft-validation/craft-validation.module.code.ts"
-import { MAXCRAFT } from "../crafting-constants/crafting-constants.module.code.ts"
-import { stripLink } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import { LANG } from "akasha/temper/crafting-addon/craft-lang-index/craft-lang-index.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
+import * as DataValidation from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
+import { MAXCRAFT } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
+import { stripLink } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 export function setTimer(control: TemperCraftingButton, hour: number): undefined {
   const account = STATE.Account

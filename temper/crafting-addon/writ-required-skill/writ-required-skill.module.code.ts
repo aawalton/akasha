@@ -1,12 +1,12 @@
-import { newKnow } from "../writ-know/writ-know.module.code.ts"
+import { newKnow } from "akasha/temper/crafting-addon/writ-know/writ-know.module.code.ts"
 import {
   add as logAdd,
   endEvent as logEndEvent,
   startNewEvent as logStartNewEvent,
-} from "../writ-log/writ-log.module.code.ts"
-import type { Know } from "../writ-types/writ-types.module.code.ts"
-import { KNOW } from "../writ-types/writ-types.module.code.ts"
-import { decaret } from "../writ-util/writ-util.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import type { Know } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { KNOW } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { decaret } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
 
 interface SkillIndexRow {
   id: number

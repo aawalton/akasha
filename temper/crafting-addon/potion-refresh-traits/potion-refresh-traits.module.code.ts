@@ -1,12 +1,12 @@
-import { TEXTURE_TRAITUNKNOWN } from "../potion-constants/potion-constants.module.code.ts"
+import { TEXTURE_TRAITUNKNOWN } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   asIngredientRuntime,
   asVoidHolderMethod,
   type ResultControl,
   type TraitControl,
-} from "../potion-result-controls/potion-result-controls.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import type {} from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-result-controls/potion-result-controls.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import type {} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 function refreshTraits(this: void): boolean {
   const resultList = TemperPotionsOutputResultsBG

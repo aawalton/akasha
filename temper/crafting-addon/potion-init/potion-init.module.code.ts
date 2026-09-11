@@ -1,40 +1,43 @@
-import { libAlchemyStation } from "../craft-libraries/craft-libraries.module.code.ts"
+import { libAlchemyStation } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
 
 import {
   TEXTURE_POISON_DISABLED,
   TEXTURE_POISON_DOWN,
   TEXTURE_POISON_OVER,
   TEXTURE_POISON_UP,
-} from "../potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   getPlayerSettings,
   initializeSavedVariables,
-} from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import { EN_LANGUAGE, registerStrings } from "../potion-ui-strings/potion-ui-strings.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import {
+  EN_LANGUAGE,
+  registerStrings,
+} from "akasha/temper/crafting-addon/potion-ui-strings/potion-ui-strings.module.code.ts"
 import {
   loadSolventSelection,
   saveSolventSelection,
   showStationOrTopLevel,
-} from "../potion-window-helpers/potion-window-helpers.module.code.ts"
-import "../potion-controls-ingredients/potion-controls-ingredients.module.code.ts"
-import "../potion-controls-layout/potion-controls-layout.module.code.ts"
-import "../potion-controls/potion-controls.module.code.ts"
-import "../potion-events/potion-events.module.code.ts"
-import "../potion-ingredient/potion-ingredient.module.code.ts"
-import "../potion-inventory/potion-inventory.module.code.ts"
-import "../potion-job-search/potion-job-search.module.code.ts"
-import "../potion-keybinds/potion-keybinds.module.code.ts"
-import "../potion-main-menu/potion-main-menu.module.code.ts"
-import "../potion-potion-craft/potion-potion-craft.module.code.ts"
-import "../potion-potion/potion-potion.module.code.ts"
-import "../potion-public-api/potion-public-api.module.code.ts"
-import "../potion-reagents/potion-reagents.module.code.ts"
-import "../potion-render-page/potion-render-page.module.code.ts"
-import "../potion-search/potion-search.module.code.ts"
-import "../potion-settings-menu/potion-settings-menu.module.code.ts"
-import "../potion-tooltips/potion-tooltips.module.code.ts"
-import "../potion-windows/potion-windows.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-window-helpers/potion-window-helpers.module.code.ts"
+import "akasha/temper/crafting-addon/potion-controls-ingredients/potion-controls-ingredients.module.code.ts"
+import "akasha/temper/crafting-addon/potion-controls-layout/potion-controls-layout.module.code.ts"
+import "akasha/temper/crafting-addon/potion-controls/potion-controls.module.code.ts"
+import "akasha/temper/crafting-addon/potion-events/potion-events.module.code.ts"
+import "akasha/temper/crafting-addon/potion-ingredient/potion-ingredient.module.code.ts"
+import "akasha/temper/crafting-addon/potion-inventory/potion-inventory.module.code.ts"
+import "akasha/temper/crafting-addon/potion-job-search/potion-job-search.module.code.ts"
+import "akasha/temper/crafting-addon/potion-keybinds/potion-keybinds.module.code.ts"
+import "akasha/temper/crafting-addon/potion-main-menu/potion-main-menu.module.code.ts"
+import "akasha/temper/crafting-addon/potion-potion-craft/potion-potion-craft.module.code.ts"
+import "akasha/temper/crafting-addon/potion-potion/potion-potion.module.code.ts"
+import "akasha/temper/crafting-addon/potion-public-api/potion-public-api.module.code.ts"
+import "akasha/temper/crafting-addon/potion-reagents/potion-reagents.module.code.ts"
+import "akasha/temper/crafting-addon/potion-render-page/potion-render-page.module.code.ts"
+import "akasha/temper/crafting-addon/potion-search/potion-search.module.code.ts"
+import "akasha/temper/crafting-addon/potion-settings-menu/potion-settings-menu.module.code.ts"
+import "akasha/temper/crafting-addon/potion-tooltips/potion-tooltips.module.code.ts"
+import "akasha/temper/crafting-addon/potion-windows/potion-windows.module.code.ts"
 
 PotMaker.language = EN_LANGUAGE
 

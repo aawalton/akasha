@@ -1,14 +1,17 @@
-import { libAsync } from "../craft-libraries/craft-libraries.module.code.ts"
-import type { TraitEffect } from "../potion-constants/potion-constants.module.code.ts"
-import { PAGE_SIZE } from "../potion-constants/potion-constants.module.code.ts"
-import { getPlayerSettings } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import { isThirdAlchemySlotUnlocked } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
-import type { Ingredient, Potion } from "../potion-types/potion-types.module.code.ts"
+import { libAsync } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { PAGE_SIZE } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { getPlayerSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import { isThirdAlchemySlotUnlocked } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+import type {
+  Ingredient,
+  Potion,
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 import {
   clearResultList,
   showFilterPage,
-} from "../potion-window-helpers/potion-window-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-window-helpers/potion-window-helpers.module.code.ts"
 
 interface HideShowControlView {
   Hide: (this: HideShowControlView) => undefined

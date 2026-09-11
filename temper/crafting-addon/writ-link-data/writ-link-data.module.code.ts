@@ -1,4 +1,4 @@
-import { LINK } from "../writ-link-data-table/writ-link-data-table.module.code.ts"
+import { LINK } from "akasha/temper/crafting-addon/writ-link-data-table/writ-link-data-table.module.code.ts"
 
 export function toLinkKey(name: string): string {
   const [s1] = string.gsub(name, "%^.*", "")

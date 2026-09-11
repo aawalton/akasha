@@ -1,23 +1,35 @@
-import type { AccountData } from "../craft-account-init/craft-account-init.module.code.ts"
-import type { CharacterData } from "../craft-char-init/craft-char-init.module.code.ts"
-import { COOK, type CookTable } from "../craft-cook/craft-cook.module.code.ts"
-import { FURNISHER, type FurnisherTable } from "../craft-furnisher/craft-furnisher.module.code.ts"
-import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
-import type { LangTable } from "../craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
+import type { AccountData } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
+import type { CharacterData } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
+import {
+  COOK,
+  type CookTable,
+} from "akasha/temper/crafting-addon/craft-cook/craft-cook.module.code.ts"
+import {
+  FURNISHER,
+  type FurnisherTable,
+} from "akasha/temper/crafting-addon/craft-furnisher/craft-furnisher.module.code.ts"
+import { LANG } from "akasha/temper/crafting-addon/craft-lang-index/craft-lang-index.module.code.ts"
+import type { LangTable } from "akasha/temper/crafting-addon/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 import {
   type CsQualityColor,
   QUALITY,
   QUALITY_HEX,
-} from "../craft-quality/craft-quality.module.code.ts"
-import { RUNE, type RuneTable } from "../craft-rune/craft-rune.module.code.ts"
-import { type CraftedSetEntry, SETS } from "../craft-sets-data/craft-sets-data.module.code.ts"
-import type { StyleApi } from "../craft-styles-data/craft-styles-data.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-quality/craft-quality.module.code.ts"
+import {
+  RUNE,
+  type RuneTable,
+} from "akasha/temper/crafting-addon/craft-rune/craft-rune.module.code.ts"
+import {
+  type CraftedSetEntry,
+  SETS,
+} from "akasha/temper/crafting-addon/craft-sets-data/craft-sets-data.module.code.ts"
+import type { StyleApi } from "akasha/temper/crafting-addon/craft-styles-data/craft-styles-data.module.code.ts"
 import {
   CHAMPION_POINTS_TEXTURE,
   HealthName,
   MagickaName,
   StaminaName,
-} from "../crafting-constants/crafting-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 
 export interface StyleNameRow {
   name: string

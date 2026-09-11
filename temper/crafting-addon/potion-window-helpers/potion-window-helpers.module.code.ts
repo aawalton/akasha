@@ -1,7 +1,7 @@
-import { asLabelControl } from "../potion-casts/potion-casts.module.code.ts"
-import { getPlayerSettings } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import { isThirdAlchemySlotUnlocked } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+import { asLabelControl } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { getPlayerSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import { isThirdAlchemySlotUnlocked } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 
 export function saveSolventSelection(this: void): undefined {
   const selected = PotMaker.SelectedSolvents[PotMaker.solventMode]

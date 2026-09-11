@@ -1,4 +1,4 @@
-import { CHAMPION_POINTS_TEXTURE } from "../crafting-constants/crafting-constants.module.code.ts"
+import { CHAMPION_POINTS_TEXTURE } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 
 export interface RuneGlyphDef {
   1: number

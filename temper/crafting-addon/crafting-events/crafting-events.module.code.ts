@@ -1,41 +1,50 @@
-import { ACCOUNT_INIT } from "../craft-account-init/craft-account-init.module.code.ts"
-import type { CharacterData } from "../craft-char-init/craft-char-init.module.code.ts"
-import { CHAR_INIT } from "../craft-char-init/craft-char-init.module.code.ts"
+import { ACCOUNT_INIT } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
+import type { CharacterData } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
+import { CHAR_INIT } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
 import {
   drawCharacters,
   removeCharacter,
-} from "../craft-character-panel/craft-character-panel.module.code.ts"
-import { CRAFTING } from "../craft-crafting/craft-crafting.module.code.ts"
-import { storagePurge, updateBag } from "../craft-inventory/craft-inventory.module.code.ts"
-import * as Knowledge from "../craft-knowledge/craft-knowledge.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-character-panel/craft-character-panel.module.code.ts"
+import { CRAFTING } from "akasha/temper/crafting-addon/craft-crafting/craft-crafting.module.code.ts"
+import {
+  storagePurge,
+  updateBag,
+} from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
+import * as Knowledge from "akasha/temper/crafting-addon/craft-knowledge/craft-knowledge.module.code.ts"
 import {
   inventorySpace,
   panelInitialize,
-} from "../craft-panel-init/craft-panel-init.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-panel-init/craft-panel-init.module.code.ts"
 import {
   repairStored,
   updateGuildStore,
   updatePlayer,
   updateRecipeKnowledge,
-} from "../craft-player-state/craft-player-state.module.code.ts"
-import { addResearchItem, updateResearch } from "../craft-research/craft-research.module.code.ts"
-import { updatePanelIcon } from "../craft-research-grid/craft-research-grid.module.code.ts"
-import { registerSettings } from "../craft-set-lam/craft-set-lam.module.code.ts"
-import { styleApi } from "../craft-styles-data/craft-styles-data.module.code.ts"
-import { tooltipHandler } from "../craft-tooltip-handler/craft-tooltip-handler.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
+import {
+  addResearchItem,
+  updateResearch,
+} from "akasha/temper/crafting-addon/craft-research/craft-research.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
+import { registerSettings } from "akasha/temper/crafting-addon/craft-set-lam/craft-set-lam.module.code.ts"
+import { styleApi } from "akasha/temper/crafting-addon/craft-styles-data/craft-styles-data.module.code.ts"
+import { tooltipHandler } from "akasha/temper/crafting-addon/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"
 import {
   controlShow,
   showMain,
   updateScreen,
-} from "../craft-ui-updates/craft-ui-updates.module.code.ts"
-import { queue, scrollText } from "../craft-utilities/craft-utilities.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
+import {
+  queue,
+  scrollText,
+} from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
 import {
   CB_ADD_RESEARCH_ITEM,
   CB_CONTROL_SHOW,
   CB_INVENTORY_SPACE,
   CB_UPDATE_PANEL_ICON,
   CB_UPDATE_PLAYER,
-} from "../crafting-constants/crafting-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import {
   newMovementInUIMode,
   onActionLayerPushed,
@@ -56,21 +65,21 @@ import {
   runeCreationTabShow,
   runeExtractionTabShow,
   runeRecipeTabShow,
-} from "../crafting-events-handlers/crafting-events-handlers.module.code.ts"
+} from "akasha/temper/crafting-addon/crafting-events-handlers/crafting-events-handlers.module.code.ts"
 import {
   onInventorySingleSlotUpdate,
   onInventorySlotAdded,
   onInventorySlotRemoved,
   onMoneyUpdate,
   onStackSplitShow,
-} from "../crafting-events-inventory/crafting-events-inventory.module.code.ts"
-import { filterPublishedItems } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { TEMPER_CRAFTING_API } from "../crafting-public-api/crafting-public-api.module.code.ts"
-import { timed } from "../crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import { initializeTemperPotions } from "../potion-init/potion-init.module.code.ts"
-import { initializeTemperWrit } from "../writ-init/writ-init.module.code.ts"
-import { initializeMasterWritInventoryMarker } from "../writ-mark-init/writ-mark-init.module.code.ts"
+} from "akasha/temper/crafting-addon/crafting-events-inventory/crafting-events-inventory.module.code.ts"
+import { filterPublishedItems } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { TEMPER_CRAFTING_API } from "akasha/temper/crafting-addon/crafting-public-api/crafting-public-api.module.code.ts"
+import { timed } from "akasha/temper/crafting-addon/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
+import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
+import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"
 
 export function onAddOnLoaded(this: void): undefined {
   CALLBACK_MANAGER.RegisterCallback(CB_UPDATE_PLAYER, updatePlayer)

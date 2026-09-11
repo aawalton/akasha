@@ -1,4 +1,4 @@
-import type { CraftedSetEntry } from "../craft-sets-data/craft-sets-data.module.code.ts"
+import type { CraftedSetEntry } from "akasha/temper/crafting-addon/craft-sets-data/craft-sets-data.module.code.ts"
 
 export const SETS_TIERS6TO9: Record<number, CraftedSetEntry> = {
   46: {

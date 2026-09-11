@@ -1,12 +1,15 @@
-import { valueDropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import { ADDON_NAME, ADDON_TITLE } from "../writ-mark-constants/writ-mark-constants.module.code.ts"
-import { initializeInventoryTweaks } from "../writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"
+import {
+  ADDON_NAME,
+  ADDON_TITLE,
+} from "akasha/temper/crafting-addon/writ-mark-constants/writ-mark-constants.module.code.ts"
+import { initializeInventoryTweaks } from "akasha/temper/crafting-addon/writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"
 import {
   areInventoryTweaksEnabled,
   getMarkerColor,
   getSv,
-} from "../writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
+import { valueDropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const PANEL_ID = "TemperMasterWritInventoryMarkerSettings"
 

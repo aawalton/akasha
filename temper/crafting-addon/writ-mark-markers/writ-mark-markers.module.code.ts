@@ -3,13 +3,19 @@ import {
   isWritCompleted,
   isWritDoable,
   isWritMotifUnknown,
-} from "../writ-mark-analysis/writ-mark-analysis.module.code.ts"
-import { asGlobalTable, asMaybeControl } from "../writ-mark-casts/writ-mark-casts.module.code.ts"
-import { ADDON_NAME, MARKERS } from "../writ-mark-constants/writ-mark-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-mark-analysis/writ-mark-analysis.module.code.ts"
+import {
+  asGlobalTable,
+  asMaybeControl,
+} from "akasha/temper/crafting-addon/writ-mark-casts/writ-mark-casts.module.code.ts"
+import {
+  ADDON_NAME,
+  MARKERS,
+} from "akasha/temper/crafting-addon/writ-mark-constants/writ-mark-constants.module.code.ts"
 import {
   areInventoryTweaksEnabled,
   getMarkerColor,
-} from "../writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
 
 type LinkResolver = (this: void, ctx: InventoryRowSlotData) => string | undefined
 

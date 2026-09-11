@@ -1,17 +1,17 @@
-import { asLabelControl } from "../potion-casts/potion-casts.module.code.ts"
+import { asLabelControl } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
 import {
   TEXTURE_POISON_DISABLED,
   TEXTURE_POISON_DOWN,
   TEXTURE_POISON_OVER,
   TEXTURE_POISON_UP,
-} from "../potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   getAccountSettings,
   getPlayerSettings,
   getSavedFavorites,
-} from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import { clearTooltips } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import { clearTooltips } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import {
   clearInventory,
   clearResultList,
@@ -21,7 +21,7 @@ import {
   saveSolventSelection,
   showFilterPage,
   showStationOrTopLevel,
-} from "../potion-window-helpers/potion-window-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-window-helpers/potion-window-helpers.module.code.ts"
 
 interface SceneManagerView {
   AddSceneGroup: (this: SceneManagerView, name: string, sceneGroup: unknown) => undefined

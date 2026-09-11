@@ -1,8 +1,8 @@
-import { EQUIPMENT_CHAPTERS } from "../writ-mark-constants/writ-mark-constants.module.code.ts"
+import { EQUIPMENT_CHAPTERS } from "akasha/temper/crafting-addon/writ-mark-constants/writ-mark-constants.module.code.ts"
 import {
   getMotifCharId,
   getSv,
-} from "../writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
 
 export function getMasterWritSetName(
   this: void,

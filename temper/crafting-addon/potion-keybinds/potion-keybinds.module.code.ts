@@ -1,8 +1,8 @@
-import { asBoolean } from "../potion-casts/potion-casts.module.code.ts"
-import { updateKeyStrip } from "../potion-keybind-helpers/potion-keybind-helpers.module.code.ts"
-import { getAccountSettings } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import { showAnnoucement } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+import { asBoolean } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { updateKeyStrip } from "akasha/temper/crafting-addon/potion-keybind-helpers/potion-keybind-helpers.module.code.ts"
+import { getAccountSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import { showAnnoucement } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 
 interface KeybindButtonDescriptor {
   name: (this: void) => string

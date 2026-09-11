@@ -1,4 +1,7 @@
-import type { Ingredient, Potion } from "../potion-types/potion-types.module.code.ts"
+import type {
+  Ingredient,
+  Potion,
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 export interface ResultControl extends Control {
   potion?: Potion

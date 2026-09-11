@@ -1,7 +1,7 @@
-import { TRAIT_EFFECT } from "../potion-constants/potion-constants.module.code.ts"
-import { buildReagentsById } from "../potion-reagent-data/potion-reagent-data.module.code.ts"
-import { getAccountSettings } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
+import { TRAIT_EFFECT } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { buildReagentsById } from "akasha/temper/crafting-addon/potion-reagent-data/potion-reagent-data.module.code.ts"
+import { getAccountSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>

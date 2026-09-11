@@ -1,7 +1,7 @@
 import {
   DEFAULT_COLORS,
   type MarkerState,
-} from "../writ-mark-constants/writ-mark-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-mark-constants/writ-mark-constants.module.code.ts"
 
 export interface MwimSavedVars {
   inventoryTweaks?: boolean

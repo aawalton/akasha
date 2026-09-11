@@ -8,8 +8,8 @@ import {
   TRAITS_ARMOR,
   TRAITS_JEWELRY,
   TRAITS_WEAPON,
-} from "../writ-smith-schema-data/writ-smith-schema-data.module.code.ts"
-import type { RequestItem } from "../writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-smith-schema-data/writ-smith-schema-data.module.code.ts"
+import type { RequestItem } from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 
 const HVY = SCHOOL_HEAVY
 const MED = SCHOOL_MEDIUM

@@ -1,15 +1,15 @@
-import * as RuneSelection from "../craft-rune-selection/craft-rune-selection.module.code.ts"
-import { hideControl } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import * as RuneSelection from "akasha/temper/crafting-addon/craft-rune-selection/craft-rune-selection.module.code.ts"
+import { hideControl } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import {
   runeShowFavorites,
   runeShowFurnitureFavorites,
-} from "../rune-favorites/rune-favorites.module.code.ts"
-import { runeShowFurniture } from "../rune-furniture-recipes/rune-furniture-recipes.module.code.ts"
-import { runeShowCategory } from "../rune-glyph-creation/rune-glyph-creation.module.code.ts"
-import { runeShowRefine } from "../rune-glyph-refining/rune-glyph-refining.module.code.ts"
-import { runeSearch } from "../rune-search/rune-search.module.code.ts"
-import { runeShowWrit } from "../rune-writs/rune-writs.module.code.ts"
+} from "akasha/temper/crafting-addon/rune-favorites/rune-favorites.module.code.ts"
+import { runeShowFurniture } from "akasha/temper/crafting-addon/rune-furniture-recipes/rune-furniture-recipes.module.code.ts"
+import { runeShowCategory } from "akasha/temper/crafting-addon/rune-glyph-creation/rune-glyph-creation.module.code.ts"
+import { runeShowRefine } from "akasha/temper/crafting-addon/rune-glyph-refining/rune-glyph-refining.module.code.ts"
+import { runeSearch } from "akasha/temper/crafting-addon/rune-search/rune-search.module.code.ts"
+import { runeShowWrit } from "akasha/temper/crafting-addon/rune-writs/rune-writs.module.code.ts"
 
 export function runeShowMode(atStationOnly?: boolean): undefined {
   if (atStationOnly === undefined) {

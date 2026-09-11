@@ -1,11 +1,21 @@
-import { str } from "../writ-i18n/writ-i18n.module.code.ts"
-import { newKnow } from "../writ-know/writ-know.module.code.ts"
-import { startNewEvent as logStartNewEvent } from "../writ-log/writ-log.module.code.ts"
-import { findRecipe, type Recipe } from "../writ-prov-data/writ-prov-data.module.code.ts"
-import { PR_DRINK_4X, PR_FOOD_4X } from "../writ-required-skill/writ-required-skill.module.code.ts"
-import type { KnowList, MatList, Parser } from "../writ-types/writ-types.module.code.ts"
-import { KNOW } from "../writ-types/writ-types.module.code.ts"
-import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
+import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import { newKnow } from "akasha/temper/crafting-addon/writ-know/writ-know.module.code.ts"
+import { startNewEvent as logStartNewEvent } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import {
+  findRecipe,
+  type Recipe,
+} from "akasha/temper/crafting-addon/writ-prov-data/writ-prov-data.module.code.ts"
+import {
+  PR_DRINK_4X,
+  PR_FOOD_4X,
+} from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
+import type {
+  KnowList,
+  MatList,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { KNOW } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 interface ProvisioningParser extends Parser {
   recipe: Recipe | undefined

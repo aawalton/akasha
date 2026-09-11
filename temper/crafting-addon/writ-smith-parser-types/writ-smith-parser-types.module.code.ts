@@ -2,8 +2,11 @@ import type {
   Improvement,
   RequestItem,
   Trait,
-} from "../writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
-import type { MatList, Parser } from "../writ-types/writ-types.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+import type {
+  MatList,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 
 export interface SetBonus {
   name: string | undefined

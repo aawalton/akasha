@@ -1,4 +1,7 @@
-import { ADDON_NAME, ADDON_VERSION } from "../writ-constants/writ-constants.module.code.ts"
+import {
+  ADDON_NAME,
+  ADDON_VERSION,
+} from "akasha/temper/crafting-addon/writ-constants/writ-constants.module.code.ts"
 
 interface WritGlobalTable {
   TemperWrit: TemperWritGlobal

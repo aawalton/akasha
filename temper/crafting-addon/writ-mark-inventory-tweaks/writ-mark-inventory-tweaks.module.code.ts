@@ -1,10 +1,10 @@
 import {
   getMasterWritSetName,
   getMasterWritVouchers,
-} from "../writ-mark-analysis/writ-mark-analysis.module.code.ts"
-import { INVENTORY_TYPES } from "../writ-mark-constants/writ-mark-constants.module.code.ts"
-import { safeGetTabFilterInfo } from "../writ-mark-safe-tab-filter/writ-mark-safe-tab-filter.module.code.ts"
-import { areInventoryTweaksEnabled } from "../writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-mark-analysis/writ-mark-analysis.module.code.ts"
+import { INVENTORY_TYPES } from "akasha/temper/crafting-addon/writ-mark-constants/writ-mark-constants.module.code.ts"
+import { safeGetTabFilterInfo } from "akasha/temper/crafting-addon/writ-mark-safe-tab-filter/writ-mark-safe-tab-filter.module.code.ts"
+import { areInventoryTweaksEnabled } from "akasha/temper/crafting-addon/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
 
 let INITIALIZED_TWEAKS = false
 

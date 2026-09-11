@@ -1,11 +1,11 @@
-import { asRecord } from "../potion-casts/potion-casts.module.code.ts"
-import { SAVED_VARIABLES_NAME } from "../potion-constants/potion-constants.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
+import { asRecord } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 import type {
   AccountSettings,
   Favorite,
   PlayerSettings,
-} from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 let playerSettings: PlayerSettings | undefined
 let accountSettings: AccountSettings | undefined

@@ -1,5 +1,5 @@
-import * as Characters from "../craft-characters/craft-characters.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import * as Characters from "akasha/temper/crafting-addon/craft-characters/craft-characters.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const RESEARCH_CRAFTS: number[] = [
   CRAFTING_TYPE_BLACKSMITHING,

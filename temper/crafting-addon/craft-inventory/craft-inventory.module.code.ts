@@ -1,15 +1,19 @@
-import type { AccountData } from "../craft-account-init/craft-account-init.module.code.ts"
-import { defined } from "../craft-defined/craft-defined.module.code.ts"
-import { RawItemTypes } from "../craft-item-types/craft-item-types.module.code.ts"
-import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
-import { pruneEmptyStorage } from "../craft-storage-prune/craft-storage-prune.module.code.ts"
-import * as DataValidation from "../craft-validation/craft-validation.module.code.ts"
+import type { AccountData } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
+import { defined } from "akasha/temper/crafting-addon/craft-defined/craft-defined.module.code.ts"
+import { RawItemTypes } from "akasha/temper/crafting-addon/craft-item-types/craft-item-types.module.code.ts"
+import { LANG } from "akasha/temper/crafting-addon/craft-lang-index/craft-lang-index.module.code.ts"
+import { pruneEmptyStorage } from "akasha/temper/crafting-addon/craft-storage-prune/craft-storage-prune.module.code.ts"
+import * as DataValidation from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
 import {
   CB_ADD_RESEARCH_ITEM,
   CB_UPDATE_PANEL_ICON,
-} from "../crafting-constants/crafting-constants.module.code.ts"
-import { nilCheck, splitLink, stripLink } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
+import {
+  nilCheck,
+  splitLink,
+  stripLink,
+} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>

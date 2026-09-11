@@ -1,9 +1,12 @@
-import * as BlueprintFurnisher from "../craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
-import * as Knowledge from "../craft-knowledge/craft-knowledge.module.code.ts"
-import * as RecipeCooking from "../craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
-import type { StyleApi } from "../craft-styles-data/craft-styles-data.module.code.ts"
-import { CB_CONTROL_SHOW } from "../crafting-constants/crafting-constants.module.code.ts"
-import { STATE, type StyleNameRow } from "../crafting-state/crafting-state.module.code.ts"
+import * as BlueprintFurnisher from "akasha/temper/crafting-addon/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
+import * as Knowledge from "akasha/temper/crafting-addon/craft-knowledge/craft-knowledge.module.code.ts"
+import * as RecipeCooking from "akasha/temper/crafting-addon/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
+import type { StyleApi } from "akasha/temper/crafting-addon/craft-styles-data/craft-styles-data.module.code.ts"
+import { CB_CONTROL_SHOW } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
+import {
+  STATE,
+  type StyleNameRow,
+} from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

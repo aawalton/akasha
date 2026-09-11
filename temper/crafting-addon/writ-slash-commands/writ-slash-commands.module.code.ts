@@ -1,4 +1,4 @@
-import { libSlashCommander } from "../craft-libraries/craft-libraries.module.code.ts"
+import { libSlashCommander } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
 
 function wwStr(key: string): string {
   const str = TemperWrit.Str

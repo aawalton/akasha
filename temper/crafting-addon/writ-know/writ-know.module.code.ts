@@ -1,7 +1,16 @@
-import { add as logAdd } from "../writ-log/writ-log.module.code.ts"
-import type { ColorString, Know, KnowArgs, KnowKind } from "../writ-types/writ-types.module.code.ts"
-import { KNOW } from "../writ-types/writ-types.module.code.ts"
-import { COLOR_ORANGE, COLOR_RED, color } from "../writ-util/writ-util.module.code.ts"
+import { add as logAdd } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import type {
+  ColorString,
+  Know,
+  KnowArgs,
+  KnowKind,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { KNOW } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import {
+  COLOR_ORANGE,
+  COLOR_RED,
+  color,
+} from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
 
 export function newKnow(args: KnowArgs): Know {
   const o: Know = {

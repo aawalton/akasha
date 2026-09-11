@@ -1,13 +1,23 @@
-import type { AccountPlayerEntry } from "../craft-account-init/craft-account-init.module.code.ts"
-import * as CharMeta from "../craft-char-meta/craft-char-meta.module.code.ts"
-import { getCharacters } from "../craft-characters/craft-characters.module.code.ts"
-import { CLASSES, CRAFT_ICON, FLAGS, MOUNT, RACES } from "../craft-icons/craft-icons.module.code.ts"
-import * as Inventory from "../craft-inventory/craft-inventory.module.code.ts"
-import type { CraftSkillEntry } from "../craft-player-state/craft-player-state.module.code.ts"
-import * as UiUpdates from "../craft-ui-updates/craft-ui-updates.module.code.ts"
-import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
-import { CHAT, mustControl, texture } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import type { AccountPlayerEntry } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
+import * as CharMeta from "akasha/temper/crafting-addon/craft-char-meta/craft-char-meta.module.code.ts"
+import { getCharacters } from "akasha/temper/crafting-addon/craft-characters/craft-characters.module.code.ts"
+import {
+  CLASSES,
+  CRAFT_ICON,
+  FLAGS,
+  MOUNT,
+  RACES,
+} from "akasha/temper/crafting-addon/craft-icons/craft-icons.module.code.ts"
+import * as Inventory from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
+import type { CraftSkillEntry } from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
+import * as UiUpdates from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
+import {
+  CHAT,
+  mustControl,
+  texture,
+} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const defined = <T>(value: T | undefined): T =>
   value ?? error("TemperCrafting: unexpected nil in saved variables")

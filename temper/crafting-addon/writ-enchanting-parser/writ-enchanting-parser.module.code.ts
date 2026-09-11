@@ -1,9 +1,14 @@
-import { startNewEvent as logStartNewEvent } from "../writ-log/writ-log.module.code.ts"
-import { matRowFromName } from "../writ-mat-row/writ-mat-row.module.code.ts"
-import { EN_ASPECT_GOLD } from "../writ-required-skill/writ-required-skill.module.code.ts"
-import type { KnowList, MatList, MatRow, Parser } from "../writ-types/writ-types.module.code.ts"
-import { fail } from "../writ-util/writ-util.module.code.ts"
-import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
+import { startNewEvent as logStartNewEvent } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import { matRowFromName } from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
+import { EN_ASPECT_GOLD } from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
+import type {
+  KnowList,
+  MatList,
+  MatRow,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { fail } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 interface RUNE {
   name: string

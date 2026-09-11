@@ -1,5 +1,8 @@
+import {
+  ADDON_NAME,
+  ADDON_VERSION,
+} from "akasha/temper/crafting-addon/writ-constants/writ-constants.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import { ADDON_NAME, ADDON_VERSION } from "../writ-constants/writ-constants.module.code.ts"
 
 function savedVars(): TemperWritSavedVariables {
   const sv = TemperWrit.savedVariables

@@ -1,9 +1,9 @@
-import { foodDrink } from "../writ-i18n/writ-i18n.module.code.ts"
-import { add as logAdd } from "../writ-log/writ-log.module.code.ts"
-import { matRowFromLink } from "../writ-mat-row/writ-mat-row.module.code.ts"
-import { FOODDRINK_TO_RECIPE_ITEM_ID } from "../writ-prov-recipe-map/writ-prov-recipe-map.module.code.ts"
-import type { MatList } from "../writ-types/writ-types.module.code.ts"
-import { fail } from "../writ-util/writ-util.module.code.ts"
+import { foodDrink } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import { add as logAdd } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import { matRowFromLink } from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
+import { FOODDRINK_TO_RECIPE_ITEM_ID } from "akasha/temper/crafting-addon/writ-prov-recipe-map/writ-prov-recipe-map.module.code.ts"
+import type { MatList } from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { fail } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
 
 export interface Recipe {
   class: string

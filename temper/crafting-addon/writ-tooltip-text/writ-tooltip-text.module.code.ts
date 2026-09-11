@@ -1,12 +1,12 @@
-import { str } from "../writ-i18n/writ-i18n.module.code.ts"
-import { listTotal } from "../writ-mat-row/writ-mat-row.module.code.ts"
+import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import { listTotal } from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
 import type {
   GoldAmount,
   KnowList,
   MatList,
   MatRow,
   Parser,
-} from "../writ-types/writ-types.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
 import {
   COLOR_GREEN,
   COLOR_ORANGE,
@@ -14,7 +14,7 @@ import {
   COLOR_WHITE,
   decaret,
   toMoney,
-} from "../writ-util/writ-util.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
 
 export interface TooltipTarget<S = unknown> {
   AddLine: (this: TooltipTarget<S>, text: string, style?: S) => undefined

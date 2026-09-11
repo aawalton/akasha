@@ -1,10 +1,16 @@
-import { defined } from "../craft-defined/craft-defined.module.code.ts"
-import { isLocked, updateStored } from "../craft-inventory/craft-inventory.module.code.ts"
-import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
-import { applyStorageCounts } from "../craft-storage-counts/craft-storage-counts.module.code.ts"
-import { isValidEquip } from "../craft-validation/craft-validation.module.code.ts"
-import { stripLink, updateMatsInfo } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import { defined } from "akasha/temper/crafting-addon/craft-defined/craft-defined.module.code.ts"
+import {
+  isLocked,
+  updateStored,
+} from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
+import { LANG } from "akasha/temper/crafting-addon/craft-lang-index/craft-lang-index.module.code.ts"
+import { applyStorageCounts } from "akasha/temper/crafting-addon/craft-storage-counts/craft-storage-counts.module.code.ts"
+import { isValidEquip } from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
+import {
+  stripLink,
+  updateMatsInfo,
+} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const asSharedInventorySlotData = (value: { bagId: number }): SharedInventorySlotData =>
   value as SharedInventorySlotData

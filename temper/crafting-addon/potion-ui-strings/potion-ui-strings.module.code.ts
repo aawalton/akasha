@@ -1,4 +1,4 @@
-import type { Language } from "../potion-types/potion-types.module.code.ts"
+import type { Language } from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 export const EN_LANGUAGE: Language = {
   name: "en",

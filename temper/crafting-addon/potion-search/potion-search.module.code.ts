@@ -1,13 +1,17 @@
-import { libAsync } from "../craft-libraries/craft-libraries.module.code.ts"
-import { asString } from "../potion-casts/potion-casts.module.code.ts"
-import type { TraitEffect } from "../potion-constants/potion-constants.module.code.ts"
-import { PAGE_SIZE } from "../potion-constants/potion-constants.module.code.ts"
+import { libAsync } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
+import { asString } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { PAGE_SIZE } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   getAccountSettings,
   getSavedFavorites,
-} from "../potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
-import type { Ingredient, Potion, Quest } from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import type {
+  Ingredient,
+  Potion,
+  Quest,
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 interface TraitControlView {
   trait: { name: string }

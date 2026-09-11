@@ -1,5 +1,5 @@
-import "../writ-smith-request-items/writ-smith-request-items.module.code.ts"
-import type { Improvement } from "../writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+import "akasha/temper/crafting-addon/writ-smith-request-items/writ-smith-request-items.module.code.ts"
+import type { Improvement } from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 
 export const PURPLE: Improvement = {
   index: 4,

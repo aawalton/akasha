@@ -1,4 +1,4 @@
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 
 type KeybindDescriptorArray = KeybindButtonGroupDescriptor[]
 function asKeybindDescriptorArray(value: unknown): KeybindDescriptorArray {

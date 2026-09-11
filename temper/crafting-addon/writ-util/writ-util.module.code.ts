@@ -1,7 +1,14 @@
-import { add as logAdd, endEvent as logEndEvent } from "../writ-log/writ-log.module.code.ts"
-import { fallbackPrice } from "../writ-price/writ-price.module.code.ts"
-import type { ColorString, MoneyString, WritFields } from "../writ-types/writ-types.module.code.ts"
-import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
+import {
+  add as logAdd,
+  endEvent as logEndEvent,
+} from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import { fallbackPrice } from "akasha/temper/crafting-addon/writ-price/writ-price.module.code.ts"
+import type {
+  ColorString,
+  MoneyString,
+  WritFields,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 TemperWrit.GOLD_UNKNOWN = undefined
 

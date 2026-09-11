@@ -1,16 +1,19 @@
-import * as Characters from "../craft-characters/craft-characters.module.code.ts"
-import { CRAFT_ICON } from "../craft-icons/craft-icons.module.code.ts"
-import * as Inventory from "../craft-inventory/craft-inventory.module.code.ts"
-import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
+import * as Characters from "akasha/temper/crafting-addon/craft-characters/craft-characters.module.code.ts"
+import { CRAFT_ICON } from "akasha/temper/crafting-addon/craft-icons/craft-icons.module.code.ts"
+import * as Inventory from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
+import { LANG } from "akasha/temper/crafting-addon/craft-lang-index/craft-lang-index.module.code.ts"
 import {
   needAppend,
   updateTrackingStatus,
-} from "../craft-research-tracking/craft-research-tracking.module.code.ts"
-import type { CsTooltipOwner } from "../craft-tooltips/craft-tooltips.module.code.ts"
-import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
-import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
-import { CHAT, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-research-tracking/craft-research-tracking.module.code.ts"
+import type { CsTooltipOwner } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
+import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
+import {
+  CHAT,
+  toChat,
+} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

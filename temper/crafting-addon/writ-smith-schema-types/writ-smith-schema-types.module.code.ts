@@ -1,4 +1,4 @@
-import type { RequiredSkill } from "../writ-required-skill/writ-required-skill.module.code.ts"
+import type { RequiredSkill } from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
 
 export interface School {
   trade_skill_type: number

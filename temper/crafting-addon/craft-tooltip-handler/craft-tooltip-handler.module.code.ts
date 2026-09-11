@@ -1,4 +1,4 @@
-import { tooltipShow } from "../craft-tooltips/craft-tooltips.module.code.ts"
+import { tooltipShow } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 
 export function tooltipHandler(): undefined {
   const origSetBagItem = ItemTooltip.SetBagItem

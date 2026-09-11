@@ -1,9 +1,9 @@
-import type { TraitEffect } from "../potion-constants/potion-constants.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   FAVORITE_COLOR,
   TRAIT_CONTROL_NAMES,
   TRAIT_EFFECT,
-} from "../potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import type {
   AccountSettings,
   Ingredient,
@@ -15,7 +15,7 @@ import type {
   PotionFactory,
   Quest,
   Reagent,
-} from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 type LibAlchemyStationSurface = LibAlchemyStationLib
 type LibMainMenu2Surface = typeof LibMainMenu2

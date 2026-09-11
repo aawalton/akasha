@@ -1,12 +1,16 @@
-import { newAlchemyParser } from "../writ-alchemy-parser/writ-alchemy-parser.module.code.ts"
-import { newEnchantingParser } from "../writ-enchanting-parser/writ-enchanting-parser.module.code.ts"
-import { str } from "../writ-i18n/writ-i18n.module.code.ts"
-import { listTotal } from "../writ-mat-row/writ-mat-row.module.code.ts"
-import { newProvisioningParser } from "../writ-prov-parser/writ-prov-parser.module.code.ts"
-import { newSmithingParser } from "../writ-smith-parser/writ-smith-parser.module.code.ts"
-import type { KnowList, MatList, Parser } from "../writ-types/writ-types.module.code.ts"
-import { fail, round } from "../writ-util/writ-util.module.code.ts"
-import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
+import { newAlchemyParser } from "akasha/temper/crafting-addon/writ-alchemy-parser/writ-alchemy-parser.module.code.ts"
+import { newEnchantingParser } from "akasha/temper/crafting-addon/writ-enchanting-parser/writ-enchanting-parser.module.code.ts"
+import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import { listTotal } from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
+import { newProvisioningParser } from "akasha/temper/crafting-addon/writ-prov-parser/writ-prov-parser.module.code.ts"
+import { newSmithingParser } from "akasha/temper/crafting-addon/writ-smith-parser/writ-smith-parser.module.code.ts"
+import type {
+  KnowList,
+  MatList,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { fail, round } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 type ParserFactory = (this: void) => Parser
 

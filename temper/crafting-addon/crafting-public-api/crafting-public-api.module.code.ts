@@ -1,24 +1,24 @@
-import type { AccountData } from "../craft-account-init/craft-account-init.module.code.ts"
+import type { AccountData } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
 import {
   blueprintSearch,
   blueprintShowCategory,
   closeBlueprintWindow,
-} from "../craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
-import type { CharacterData } from "../craft-char-init/craft-char-init.module.code.ts"
-import { drawCharacters } from "../craft-character-panel/craft-character-panel.module.code.ts"
-import { cookShowVanilla } from "../craft-cooking/craft-cooking.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
+import type { CharacterData } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
+import { drawCharacters } from "akasha/temper/crafting-addon/craft-character-panel/craft-character-panel.module.code.ts"
+import { cookShowVanilla } from "akasha/temper/crafting-addon/craft-cooking/craft-cooking.module.code.ts"
 import {
   cookSearchRecipe,
   cookShowCategory,
-} from "../craft-cooking-lists/craft-cooking-lists.module.code.ts"
-import { isItemStoredForTemperCrafting } from "../craft-inventory/craft-inventory.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-cooking-lists/craft-cooking-lists.module.code.ts"
+import { isItemStoredForTemperCrafting } from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
 import {
   closeRecipeWindow,
   recipeSearch,
   recipeShowCategory,
-} from "../craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
-import { runeSetValue } from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
-import { refineAll } from "../craft-rune-refining/craft-rune-refining.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
+import { runeSetValue } from "akasha/temper/crafting-addon/craft-rune-crafting/craft-rune-crafting.module.code.ts"
+import { refineAll } from "akasha/temper/crafting-addon/craft-rune-refining/craft-rune-refining.module.code.ts"
 import {
   closeStyle,
   hideCrownStyles,
@@ -30,19 +30,25 @@ import {
   hideUnknownRecipes,
   hideUnknownStyles,
   setAllStyles,
-} from "../craft-style-tracking/craft-style-tracking.module.code.ts"
-import { setTimer, tooltip } from "../craft-tooltips/craft-tooltips.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-style-tracking/craft-style-tracking.module.code.ts"
+import {
+  setTimer,
+  tooltip,
+} from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import {
   controlCloseAll,
   controlShow,
   showMain,
-} from "../craft-ui-updates/craft-ui-updates.module.code.ts"
-import { queue, travelToNode } from "../craft-utilities/craft-utilities.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
+import {
+  queue,
+  travelToNode,
+} from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
 import {
   getItemQuantity,
   isLearnable,
   isResearchable,
-} from "../craft-validation/craft-validation.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
 import {
   openBlueprintWindow,
   openCharacterPanel,
@@ -54,11 +60,11 @@ import {
   saveAnchor,
   saveCoords,
   setTitleText,
-} from "../craft-xml-handlers/craft-xml-handlers.module.code.ts"
-import { toSet } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import { runeShowMode } from "../rune-mode/rune-mode.module.code.ts"
-import { runeView } from "../rune-panel/rune-panel.module.code.ts"
+} from "akasha/temper/crafting-addon/craft-xml-handlers/craft-xml-handlers.module.code.ts"
+import { toSet } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
+import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 
 interface TemperCraftingApi {
   Title: string

@@ -1,17 +1,17 @@
-import { asNumber } from "../potion-casts/potion-casts.module.code.ts"
-import type { TraitEffect } from "../potion-constants/potion-constants.module.code.ts"
+import { asNumber } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import {
   COLOR_SELECT,
   TEXTURE_HIGHLIGHT,
   TEXTURE_REAGENTUNKNOWN,
   TRAIT_EFFECT,
-} from "../potion-constants/potion-constants.module.code.ts"
-import { PotMaker } from "../potion-state/potion-state.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 import type {
   Ingredient,
   IngredientFactory,
   MatchResult,
-} from "../potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
 
 function asIngredient(value: unknown): Ingredient {
   return value as Ingredient

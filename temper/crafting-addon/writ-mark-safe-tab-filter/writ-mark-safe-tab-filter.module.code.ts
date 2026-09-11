@@ -1,4 +1,4 @@
-import { SHOW_TRAIT_HIDDEN_COLUMNS } from "../writ-mark-constants/writ-mark-constants.module.code.ts"
+import { SHOW_TRAIT_HIDDEN_COLUMNS } from "akasha/temper/crafting-addon/writ-mark-constants/writ-mark-constants.module.code.ts"
 
 export function safeGetTabFilterInfo(
   this: void,

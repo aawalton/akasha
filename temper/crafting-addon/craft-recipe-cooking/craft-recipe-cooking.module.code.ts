@@ -1,9 +1,15 @@
-import { defined } from "../craft-defined/craft-defined.module.code.ts"
-import * as PlayerState from "../craft-player-state/craft-player-state.module.code.ts"
-import { type CsQualityColor, QUALITY } from "../craft-quality/craft-quality.module.code.ts"
-import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
-import { hideControl, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import { defined } from "akasha/temper/crafting-addon/craft-defined/craft-defined.module.code.ts"
+import * as PlayerState from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
+import {
+  type CsQualityColor,
+  QUALITY,
+} from "akasha/temper/crafting-addon/craft-quality/craft-quality.module.code.ts"
+import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
+import {
+  hideControl,
+  toChat,
+} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

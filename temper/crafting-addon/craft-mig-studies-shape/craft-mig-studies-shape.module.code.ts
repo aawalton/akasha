@@ -1,4 +1,4 @@
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 export function migrateStudiesShape(): undefined {
   const studies = STATE.Account.crafting.studies

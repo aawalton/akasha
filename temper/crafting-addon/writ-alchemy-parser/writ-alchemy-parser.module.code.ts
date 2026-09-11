@@ -3,20 +3,28 @@ import {
   effectById,
   type ReagentThree,
   toReagentThreeList,
-} from "../writ-alchemy-data/writ-alchemy-data.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-alchemy-data/writ-alchemy-data.module.code.ts"
 import {
   add as logAdd,
   flatten as logFlatten,
   startNewEvent as logStartNewEvent,
-} from "../writ-log/writ-log.module.code.ts"
-import { listTotal, matRowFromName } from "../writ-mat-row/writ-mat-row.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import {
+  listTotal,
+  matRowFromName,
+} from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
 import {
   AL_LABORATORY_USE,
   AL_POTION_4X,
-} from "../writ-required-skill/writ-required-skill.module.code.ts"
-import type { GoldAmount, KnowList, MatList, Parser } from "../writ-types/writ-types.module.code.ts"
-import { fail } from "../writ-util/writ-util.module.code.ts"
-import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
+} from "akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts"
+import type {
+  GoldAmount,
+  KnowList,
+  MatList,
+  Parser,
+} from "akasha/temper/crafting-addon/writ-types/writ-types.module.code.ts"
+import { fail } from "akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts"
+import { toWritFields } from "akasha/temper/crafting-addon/writ-writ-fields/writ-writ-fields.module.code.ts"
 
 interface AlchemyParser extends Parser {
   is_poison: boolean | undefined

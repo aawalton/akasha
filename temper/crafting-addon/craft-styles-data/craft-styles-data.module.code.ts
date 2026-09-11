@@ -1,11 +1,11 @@
-import * as Knowledge from "../craft-knowledge/craft-knowledge.module.code.ts"
-import { STYLES } from "../craft-styles/craft-styles.module.code.ts"
-import { createStyleTables } from "../craft-styles-data-tables/craft-styles-data-tables.module.code.ts"
+import * as Knowledge from "akasha/temper/crafting-addon/craft-knowledge/craft-knowledge.module.code.ts"
+import { STYLES } from "akasha/temper/crafting-addon/craft-styles/craft-styles.module.code.ts"
+import { createStyleTables } from "akasha/temper/crafting-addon/craft-styles-data-tables/craft-styles-data-tables.module.code.ts"
 import {
   isPublishedAchievement,
   isPublishedItem,
-} from "../crafting-helpers/crafting-helpers.module.code.ts"
-import { STATE } from "../crafting-state/crafting-state.module.code.ts"
+} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 
 function parseLuaCapture(captured: string | undefined): string | undefined {
   return captured
