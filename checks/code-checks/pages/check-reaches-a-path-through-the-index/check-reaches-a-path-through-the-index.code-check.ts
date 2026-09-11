@@ -111,7 +111,8 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a page's code and a page's test are judged.",
+      statement:
+        "A page file written in TypeScript is judged where that file is the page's code or test.",
     },
     {
       invariantKind: "departure",
@@ -124,6 +125,48 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement: "A test's fixtures are no reach.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page file written in another language is judged whatever section names that file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file the index names for no page is judged by nothing here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file held uncommitted is judged by nothing here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file a page property says a machine writes is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body whose language is not parsed is read as the runs of path characters that body holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run is read again from each separator in that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming a path the index has a page at is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One run is refused once, at the line that run sits on.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body outside TypeScript holds no listing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is no text is read as the text a decoder gives.",
     },
     {
       invariantKind: "departure",
@@ -145,7 +188,12 @@ export const checkReachesAPathThroughTheIndex = {
       invariantKind: "gap",
       statement: "A path no page of the index sits at is seen by nothing here.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A run that only looks like a path is read as one, and refuses where the index answers for that run.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
+  audit: { maxCpuSeconds: 25 },
 } as const satisfies CodeCheck
