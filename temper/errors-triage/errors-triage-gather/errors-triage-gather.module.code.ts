@@ -1,14 +1,14 @@
 import { readFile } from "node:fs/promises"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
-import { addonsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { z } from "zod"
-import { inferCulpritAddon } from "../errors-crash-signatures/errors-crash-signatures.module.code.ts"
+import { inferCulpritAddon } from "akasha/temper/errors-triage/errors-crash-signatures/errors-crash-signatures.module.code.ts"
 import {
   classifyTriage,
   type InferredCulprit,
   type Triage,
   type TriageReason,
-} from "../errors-triage/errors-triage.module.code.ts"
+} from "akasha/temper/errors-triage/errors-triage/errors-triage.module.code.ts"
+import { addonsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { z } from "zod"
 
 const DEPLOYED_BUILD_ID_RE = /TemperBuildIds\[\s*"[^"]*"\s*\]\s*=\s*"([0-9a-f]{8}|unknown)"/
 const DeployedBuildIdMatchSchema = z
