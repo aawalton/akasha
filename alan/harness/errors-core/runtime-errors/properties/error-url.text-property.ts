@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorUrl = string
-
 export const errorUrl = {
   id: "01a05f3f-e3e0-7ea0-a46e-cdf0d9e4d008",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const errorUrl = {
       statement: "A url could have a token a query string has.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PlayerId = string
-
 export const playerId = {
   id: "01a06596-f0d5-7007-a70d-0e2e56b9aacd",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const playerId = {
       statement: "This property is a relation to a player.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

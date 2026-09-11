@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EarnedKey = string
-
 export const earnedKey = {
   id: "01a06230-b155-73b6-8478-2a373c60f343",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const earnedKey = {
       statement: "The fact the key names is true or false rather than a number.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

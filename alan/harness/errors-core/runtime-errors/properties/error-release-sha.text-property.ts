@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorReleaseSha = string
-
 export const errorReleaseSha = {
   id: "01a05f3f-e3e0-7d68-b1de-729068552c64",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const errorReleaseSha = {
       statement: "The build named is the build the first report had.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

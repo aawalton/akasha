@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type GalleryName = string
-
 export const galleryName = {
   id: "01a05480-1c8b-7606-be31-29c7790bdc14",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const galleryName = {
   definition: "the name a widget answers to in the widget gallery",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

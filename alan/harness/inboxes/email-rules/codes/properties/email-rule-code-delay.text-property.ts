@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EmailRuleCodeDelay = string
-
 export const emailRuleCodeDelay = {
   id: "01a06860-54a0-7230-bcc6-36683850bf02",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const emailRuleCodeDelay = {
       statement: "A rule stating no delay acts as soon as the mail is read.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

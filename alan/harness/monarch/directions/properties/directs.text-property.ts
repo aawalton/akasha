@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Directs = string
-
 export const directs = {
   id: "01a0680a-1a00-7018-9b56-4f7a3d8c1118",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const directs = {
       statement: "A direction never says the decision to make.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

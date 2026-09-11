@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ReminderText = string
-
 export const reminderText = {
   id: "01a05f42-d941-7004-bf1f-acc8c93bb270",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const reminderText = {
       statement: "The words are sent as written rather than filled in as the reminder sends.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NotificationSource = string
-
 export const notificationSource = {
   id: "01a06861-e7cd-7e4f-abcb-e800a07e4427",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const notificationSource = {
   definition: "what pushed a notification",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

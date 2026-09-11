@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorUserAgent = string
-
 export const errorUserAgent = {
   id: "01a05f3f-e3e0-7e41-90e7-af904c25308e",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const errorUserAgent = {
       statement: "A report raised by a server names the server rather than a browser.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

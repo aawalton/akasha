@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WireKey = string
-
 export const wireKey = {
   id: "01a05446-e768-7d56-aeef-7ab30139e500",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const wireKey = {
       statement: "No readout falls back to its slug on the wire.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

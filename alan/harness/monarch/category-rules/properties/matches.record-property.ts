@@ -2,12 +2,12 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { MatchComparison } from "./match-comparison.select-property.types.ts"
 import type { MatchKey } from "./match-key.select-property.types.ts"
-import type { MatchValues } from "./match-values.text-property.ts"
+import type { MatchValues } from "./match-values.text-property.types.ts"
 
 export type Match = {
   key: MatchKey
   comparison: MatchComparison
-  values: readonly MatchValues[]
+  values: MatchValues
 }
 
 export type Matches = List<Match>

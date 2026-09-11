@@ -1,0 +1,1 @@
+export type CategoryGroup = string

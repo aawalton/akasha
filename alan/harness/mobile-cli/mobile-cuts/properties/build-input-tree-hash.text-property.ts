@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type BuildInputTreeHash = string
-
 export const buildInputTreeHash = {
   id: "01a0685d-b81f-7f70-8ae2-8933a7780ba3",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const buildInputTreeHash = {
       statement: "A cut with no hash predates the basis cuts are judged by and reads as owed.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

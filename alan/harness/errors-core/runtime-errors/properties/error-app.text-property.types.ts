@@ -1,0 +1,1 @@
+export type ErrorApp = string

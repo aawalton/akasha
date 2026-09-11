@@ -1,11 +1,11 @@
 import type { Page } from "../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { App } from "../../readouts/widgets/properties/app.relation-property.types.ts"
-import type { BuildInputTreeHash } from "./properties/build-input-tree-hash.text-property.ts"
+import type { BuildInputTreeHash } from "./properties/build-input-tree-hash.text-property.types.ts"
 import type { BuildNumber } from "./properties/build-number.number-property.types.ts"
 import type { CutAt } from "./properties/cut-at.instant-property.types.ts"
-import type { MainSha } from "./properties/main-sha.text-property.ts"
-import type { ShellSha } from "./properties/shell-sha.text-property.ts"
+import type { MainSha } from "./properties/main-sha.text-property.types.ts"
+import type { ShellSha } from "./properties/shell-sha.text-property.types.ts"
 
 export type MobileCut = Page & {
   title: Title

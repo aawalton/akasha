@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorKind = string
-
 export const errorKind = {
   id: "01a05f3f-e3e0-70ed-a9ac-229acd8e154c",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const errorKind = {
       statement: "The kinds are restated nowhere here.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Kind = string
-
 export const kind = {
   id: "01a05480-1c88-782b-99a4-ae4cc4ac019e",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const kind = {
   definition: "the name a placed tile is bound to on the device",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

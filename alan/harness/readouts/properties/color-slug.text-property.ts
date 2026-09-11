@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ColorSlug = string
-
 export const colorSlug = {
   id: "01a063bd-a526-78ae-ab87-fd2bf86d9fad",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const colorSlug = {
       statement: "The color a readout names is a page rather than a name held as text.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

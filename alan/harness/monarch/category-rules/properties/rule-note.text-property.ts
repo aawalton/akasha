@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RuleNote = string
-
 export const ruleNote = {
   id: "01a0680c-3c00-7005-8d17-4a9c6e3b3106",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const ruleNote = {
   definition: "what a rule is about, where its clauses do not say",
   maxLength: 300,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

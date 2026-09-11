@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AccountDisplayName = string
-
 export const accountDisplayName = {
   id: "01a0680a-1a00-7002-9c37-8a1d4e6f1103",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const accountDisplayName = {
         "Two accounts share a display name where the bank reopened an account under a new id.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

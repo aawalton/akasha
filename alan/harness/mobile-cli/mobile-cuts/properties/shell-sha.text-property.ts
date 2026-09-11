@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ShellSha = string
-
 export const shellSha = {
   id: "01a0685d-b81f-7896-a766-17b1183ecd8e",
   pageTypeSlug: "text-property",
@@ -18,4 +16,5 @@ export const shellSha = {
         "A cut built from no separate shell leaves this property off rather than repeating its main sha.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

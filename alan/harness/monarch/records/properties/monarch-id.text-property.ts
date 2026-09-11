@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type MonarchId = string
-
 export const monarchId = {
   id: "01a0680a-1a00-7000-9d21-4f0b6a3d1101",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const monarchId = {
       statement: "A sync matches an existing page by that page's Monarch identity.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

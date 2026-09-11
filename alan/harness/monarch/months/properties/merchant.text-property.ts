@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Merchant = string
-
 export const merchant = {
   id: "01a0680b-2b00-7004-a836-4c9d2b7e2105",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const merchant = {
       statement: "How the money moved is a merchant where the row's words name no vendor.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

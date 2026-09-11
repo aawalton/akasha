@@ -3,7 +3,7 @@ import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { TransactionCategory } from "../months/properties/transaction-category.relation-property.types.ts"
 import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.types.ts"
 import type { Matches } from "./properties/matches.record-property.ts"
-import type { RuleNote } from "./properties/rule-note.text-property.ts"
+import type { RuleNote } from "./properties/rule-note.text-property.types.ts"
 
 export type CategoryRule = Page & {
   title: Title

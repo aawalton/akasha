@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type StatementLine = string
-
 export const statementLine = {
   id: "01a0680b-2b00-7006-b917-5d4a8e2f2107",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const statementLine = {
       statement: "A merchant's patterns are taken from here rather than from a title.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

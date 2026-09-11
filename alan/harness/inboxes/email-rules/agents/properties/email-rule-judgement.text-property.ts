@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EmailRuleJudgement = string
-
 export const emailRuleJudgement = {
   id: "01a06863-4147-764f-8400-158d7917527a",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const emailRuleJudgement = {
       statement: "The words after the act are why that act is worth an agent.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

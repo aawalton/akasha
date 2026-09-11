@@ -2,12 +2,12 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { EmailRuleMatchComparison } from "./email-rule-match-comparison.select-property.types.ts"
 import type { EmailRuleMatchField } from "./email-rule-match-field.select-property.types.ts"
-import type { EmailRuleMatchValues } from "./email-rule-match-values.text-property.ts"
+import type { EmailRuleMatchValues } from "./email-rule-match-values.text-property.types.ts"
 
 export type EmailRuleMatch = {
   field: EmailRuleMatchField
   comparison: EmailRuleMatchComparison
-  values: readonly EmailRuleMatchValues[]
+  values: EmailRuleMatchValues
 }
 
 export type EmailRuleMatches = List<EmailRuleMatch>

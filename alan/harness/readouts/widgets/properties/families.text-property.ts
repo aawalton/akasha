@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type Family = string
-export type Families = List<Family>
 
 export const families = {
   id: "01a05480-1c89-7261-a8c7-0538e7ae019b",
@@ -13,4 +11,5 @@ export const families = {
   definition: "the tile sizes a widget can be placed at",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

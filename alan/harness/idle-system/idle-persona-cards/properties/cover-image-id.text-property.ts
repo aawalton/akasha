@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CoverImageId = string
-
 export const coverImageId = {
   id: "01a06596-f0d5-7009-9355-444abe7abd10",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const coverImageId = {
   definition: "the picture a card is shown by",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SecurityName = string
-
 export const securityName = {
   id: "01a0680a-1a00-7011-8b27-4e6c9d2f1111",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const securityName = {
   definition: "what the fund or share a holding is of is called",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

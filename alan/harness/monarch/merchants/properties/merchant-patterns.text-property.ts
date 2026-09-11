@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type MerchantPatterns = List<string>
 
 export const merchantPatterns = {
   id: "01a0680c-3c00-700a-8e26-5b3d7f4a310b",
@@ -22,4 +19,5 @@ export const merchantPatterns = {
       statement: "A pattern matches where the bank's line has that pattern anywhere.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorMessage = string
-
 export const errorMessage = {
   id: "01a05f3f-e3e0-7450-8ae9-c82bf3ef1359",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const errorMessage = {
       statement: "Nothing here takes a secret out of a message before the message is committed.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

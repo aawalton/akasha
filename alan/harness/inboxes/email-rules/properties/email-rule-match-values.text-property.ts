@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EmailRuleMatchValues = string
-
 export const emailRuleMatchValues = {
   id: "01a06860-549f-7515-8899-efaf83c51fbe",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const emailRuleMatchValues = {
       statement: "A value is written as the mail has that value rather than as a title.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

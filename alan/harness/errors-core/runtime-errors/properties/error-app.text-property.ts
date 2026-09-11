@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorApp = string
-
 export const errorApp = {
   id: "01a05f3f-e3e0-7cda-81e5-e5f7cddf3e43",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const errorApp = {
       statement: "One app opens every slug an error of that app is filed under.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

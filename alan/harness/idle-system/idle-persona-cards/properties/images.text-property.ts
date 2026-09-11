@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Images = List<string>
 
 export const images = {
   id: "01a06596-f0d5-700a-afd0-623e8cd3d142",
@@ -18,4 +15,5 @@ export const images = {
       statement: "The picture a card is shown by is drawn from these pictures.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

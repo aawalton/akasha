@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NotificationLink = string
-
 export const notificationLink = {
   id: "01a06861-e7cd-706b-ac2c-b69a84e99e4f",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const notificationLink = {
   definition: "where a tap on a notification takes the person",
   maxLength: 500,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

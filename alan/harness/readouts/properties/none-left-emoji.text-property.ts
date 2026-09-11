@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NoneLeftEmoji = string
-
 export const noneLeftEmoji = {
   id: "01a05446-e767-7443-a158-11de7bac9240",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const noneLeftEmoji = {
   definition: "the emoji drawn in place of a reading of nothing",
   maxLength: 8,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

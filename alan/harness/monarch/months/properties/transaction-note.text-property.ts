@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TransactionNote = string
-
 export const transactionNote = {
   id: "01a0680b-2b00-7007-9e41-3f7b6c5a2108",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const transactionNote = {
       statement: "A note replaced and a note nobody wrote read the same.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

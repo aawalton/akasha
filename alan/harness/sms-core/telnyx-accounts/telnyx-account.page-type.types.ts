@@ -1,5 +1,5 @@
 import type { Page } from "../../../../pages/page.page-type.types.ts"
-import type { TelnyxAccountApiKey } from "./properties/telnyx-account-api-key.text-property.ts"
+import type { TelnyxAccountApiKey } from "./properties/telnyx-account-api-key.text-property.types.ts"
 import type { TelnyxAccountFromNumber } from "./properties/telnyx-account-from-number.phone-number-property.types.ts"
 
 export type TelnyxAccount = Page & {

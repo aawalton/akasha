@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ErrorFingerprint = string
-
 export const errorFingerprint = {
   id: "01a05f3f-e3e0-7721-9fec-e8292e22a4da",
   pageTypeSlug: "text-property",
@@ -29,4 +27,5 @@ export const errorFingerprint = {
       statement: "A fingerprint is never a page's whole slug.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty
