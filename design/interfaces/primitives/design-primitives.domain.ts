@@ -67,6 +67,7 @@ export const designPrimitives = {
     "module/use-debounced-value",
     "module/use-keyboard-registry",
     "module/use-mobile",
+    "module/use-number-draft",
     "module/use-single-flight",
   ],
   invariants: [

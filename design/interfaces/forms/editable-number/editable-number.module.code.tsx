@@ -1,6 +1,7 @@
 "use client"
 
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { useNumberDraft } from "akasha/design/interfaces/primitives/use-number-draft/use-number-draft.module.code.ts"
 import * as React from "react"
 
 interface EditableNumberProps {
@@ -26,14 +27,8 @@ function EditableNumber({
   stopPropagation = false,
   className,
 }: EditableNumberProps) {
-  const [editing, setEditing] = React.useState(false)
-  const [draft, setDraft] = React.useState("")
+  const { editing, draft, setEditing, setDraft, edit } = useNumberDraft(value)
   const inputRef = React.useRef<HTMLInputElement>(null)
-
-  function handleEdit() {
-    setDraft(String(value))
-    setEditing(true)
-  }
 
   function handleCommit() {
     setEditing(false)
@@ -103,14 +98,14 @@ function EditableNumber({
       className={cn("cursor-pointer text-inherit tabular-nums", className)}
       onClick={(e) => {
         if (stopPropagation) e.stopPropagation()
-        handleEdit()
+        edit()
       }}
       onPointerDown={stopPropagation ? (e) => e.stopPropagation() : undefined}
       onKeyDown={(e) => {
         if (e.key === "Enter" || e.key === " ") {
           if (stopPropagation) e.stopPropagation()
           e.preventDefault()
-          handleEdit()
+          edit()
         }
       }}
     >

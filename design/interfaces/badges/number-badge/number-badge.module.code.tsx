@@ -6,6 +6,7 @@ import {
 } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { useNumberDraft } from "akasha/design/interfaces/primitives/use-number-draft/use-number-draft.module.code.ts"
 import * as React from "react"
 
 interface NumberBadgeProps {
@@ -88,14 +89,8 @@ function NumberBadgeEditable({
   ariaLabel?: string
   ariaLabelledBy?: string
 }) {
-  const [editing, setEditing] = React.useState(false)
-  const [draft, setDraft] = React.useState("")
+  const { editing, draft, setEditing, setDraft, edit } = useNumberDraft(value)
   const inputRef = React.useRef<HTMLInputElement>(null)
-
-  function handleEdit() {
-    setDraft(String(value))
-    setEditing(true)
-  }
 
   function handleCommit() {
     setEditing(false)
@@ -127,7 +122,7 @@ function NumberBadgeEditable({
   return (
     <ButtonBadge
       variant={variant}
-      onClick={!editing ? handleEdit : undefined}
+      onClick={!editing ? edit : undefined}
       aria-label={ariaLabel}
       aria-labelledby={ariaLabelledBy}
       className={cn(
