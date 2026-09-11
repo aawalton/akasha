@@ -1,4 +1,4 @@
-import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
+import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const alanWebApiSpotifyCallback = {
   id: "01a0882f-c3a9-73b3-a052-6e77f57ed79b",

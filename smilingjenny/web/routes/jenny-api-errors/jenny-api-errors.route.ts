@@ -1,4 +1,4 @@
-import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
+import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const jennyApiErrors = {
   id: "01a08821-1176-79ea-9464-19a361d48e09",

@@ -1,4 +1,4 @@
-import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
+import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const alanWebApiSmsVerificationStatus = {
   id: "01a090d4-4959-7068-b799-d973b6d7993e",

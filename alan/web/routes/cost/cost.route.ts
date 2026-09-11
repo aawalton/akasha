@@ -1,4 +1,4 @@
-import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
+import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const cost = {
   id: "01a08bb0-a0b2-7106-bb11-1c88c9883978",

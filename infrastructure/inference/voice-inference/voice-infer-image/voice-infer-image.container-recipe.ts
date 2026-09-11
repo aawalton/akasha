@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "akasha/code-system/container-recipes/container-recipe.page-type.types.ts"
+import type { ContainerRecipe } from "akasha/code/container-recipes/container-recipe.page-type.types.ts"
 
 export const voiceInferImage = {
   id: "01a06815-9efd-701b-b692-88c2eabada02",

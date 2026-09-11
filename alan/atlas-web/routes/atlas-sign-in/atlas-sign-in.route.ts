@@ -1,4 +1,4 @@
-import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
+import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const atlasSignIn = {
   id: "01a08839-e4a2-7fb1-bc8d-19574cec390b",
