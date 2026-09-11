@@ -51,6 +51,9 @@ export const aelwynStrengthTraining = {
       statement:
         "Whether the next movement is new or familiar is decided by what Alan has already done today.",
     },
+    {
+      statement: "The most valuable movement available is always the one offered next.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
