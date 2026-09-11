@@ -2,13 +2,7 @@ import { afterEach, describe, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
-import { LEASE_ENV } from "akasha/code-system/editor/extension/harness-wire/harness-wire.module.code.ts"
-import {
-  colorIn,
-  WORKING_PAGE,
-} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
-import { z } from "zod"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { askIn } from "akasha/code-system/editor/extension/command-server/command-server.module.code.ts"
 import {
   askServed,
   CommandServerRefusal,
@@ -16,8 +10,14 @@ import {
   REFUSAL_LEASE,
   type Serving,
   servingFrom,
-} from "../command-server-client/command-server-client.module.code.ts"
-import { askIn } from "./command-server.module.code.ts"
+} from "akasha/code-system/editor/extension/command-server-client/command-server-client.module.code.ts"
+import { LEASE_ENV } from "akasha/code-system/editor/extension/harness-wire/harness-wire.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
+  colorIn,
+  WORKING_PAGE,
+} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
+import { z } from "zod"
 
 const BUN = join(homedir(), ".bun", "bin", "bun")
 
