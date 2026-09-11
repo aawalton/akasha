@@ -1,6 +1,6 @@
 import { dirname, join, relative } from "node:path"
+import { skimmedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import { skimmedAs } from "../code-source/code-source.module.code.ts"
 
 const RELATIVE = /^\.\.?\//
 

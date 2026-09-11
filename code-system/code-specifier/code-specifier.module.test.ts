@@ -5,7 +5,7 @@ import {
   specifierFor,
   specifiersIn,
   spelledIn,
-} from "./code-specifier.module.code.ts"
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 
 const AT = "akasha/held.ts"
 
