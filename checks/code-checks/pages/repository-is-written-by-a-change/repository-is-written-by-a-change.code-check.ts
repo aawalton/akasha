@@ -167,10 +167,6 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "No check looks for files.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A write through a wrapper of another module is not seen.",
     },
     {
