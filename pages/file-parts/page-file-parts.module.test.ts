@@ -3,6 +3,7 @@ import { heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   partAt,
   partsOf,
+  partsReading,
   uncommittedPartAt,
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 
@@ -69,6 +70,36 @@ test("naming stops where none is there, so a gap leaves what follows unnamed", (
   expect(partsOf(MINE, "items", "jsonl", (at) => there.has(at))).toEqual([
     "akasha/one/eso.temper-mine.items.jsonl",
   ])
+})
+
+test("a property's files are read once each rather than looked for and then read", () => {
+  const reads = new Map<string, number>()
+  const held = new Map([
+    ["akasha/one/eso.temper-mine.items.jsonl", "one"],
+    ["akasha/one/eso.temper-mine.items.part2.jsonl", "two"],
+  ])
+  const reading = (at: string): string | null => {
+    reads.set(at, (reads.get(at) ?? 0) + 1)
+    return held.get(at) ?? null
+  }
+  expect([...partsReading(MINE, "items", "jsonl", reading)]).toEqual([
+    ["akasha/one/eso.temper-mine.items.jsonl", "one"],
+    ["akasha/one/eso.temper-mine.items.part2.jsonl", "two"],
+  ])
+  expect([...reads.values()]).toEqual([1, 1, 1])
+})
+
+test("a first file holding nothing is passed over, and one past the first stops the reading", () => {
+  const second = new Map([["akasha/one/eso.temper-mine.items.part2.jsonl", "two"]])
+  expect([...partsReading(MINE, "items", "jsonl", (at) => second.get(at) ?? null)]).toEqual([
+    ["akasha/one/eso.temper-mine.items.part2.jsonl", "two"],
+  ])
+  const gapped = new Map([["akasha/one/eso.temper-mine.items.part4.jsonl", "four"]])
+  expect([...partsReading(MINE, "items", "jsonl", (at) => gapped.get(at) ?? null)]).toEqual([])
+})
+
+test("a path that is no TypeScript file has no body read beside it", () => {
+  expect([...partsReading("akasha/one/notes.txt", "items", "jsonl", () => "one")]).toEqual([])
 })
 
 test("a reserved section carries no part, so a part of one is a stray", () => {

@@ -4,7 +4,7 @@ import {
   entriesIn,
   type Rows,
 } from "akasha/pages/entries/page-entries.module.code.ts"
-import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { partsReading } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
@@ -218,9 +218,7 @@ export function entriesOver(
   beside: (at: string) => string | null
 ): Rows {
   const found: Value[] = []
-  for (const at of partsOf(path, propertySlug, held, (one) => beside(one) !== null)) {
-    const text = beside(at)
-    if (text === null) continue
+  for (const [at, text] of partsReading(path, propertySlug, held, beside)) {
     const read = entriesIn(at, text)
     if ("refused" in read) return read
     found.push(...read.entries)

@@ -9,6 +9,7 @@ import {
   oneOfShapingFor,
   openedFor,
   partsJudged,
+  secondPartReads,
   shapingFor,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts"
 
@@ -93,4 +94,8 @@ test("the cases beside the restatement test are read and judged", () => {
   expect(entriesJudged("no json here\n")[0]).toContain("unknown rather than nothing")
   expect(entriesJudged(ID_LESS)).toEqual([NO_ID])
   expect(partsJudged("", ID_LESS)).toEqual([NO_ID])
+})
+
+test("a numbered entry file is read once rather than looked for and then read", () => {
+  expect(secondPartReads("", ID_LESS)).toBe(1)
 })

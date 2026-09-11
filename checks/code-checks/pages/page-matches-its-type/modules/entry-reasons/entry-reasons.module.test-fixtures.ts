@@ -149,10 +149,24 @@ export function entriesJudged(text: string | null): readonly string[] {
   })
 }
 
-export function partsJudged(one: string, two: string): readonly string[] {
-  const held = new Map([
+function partsHeld(one: string, two: string): ReadonlyMap<string, string> {
+  return new Map([
     [`${CASES}.jsonl`, one],
     [`${CASES}.part2.jsonl`, two],
   ])
+}
+
+export function partsJudged(one: string, two: string): readonly string[] {
+  const held = partsHeld(one, two)
   return judged((at) => held.get(at) ?? null)
+}
+
+export function secondPartReads(one: string, two: string): number {
+  const held = partsHeld(one, two)
+  let reads = 0
+  judged((at) => {
+    if (at === `${CASES}.part2.jsonl`) reads += 1
+    return held.get(at) ?? null
+  })
+  return reads
 }

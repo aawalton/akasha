@@ -49,6 +49,24 @@ export function partsOf(
   return walking((part) => partAt(path, propertySlug, held, part), existing)
 }
 
+export function* partsReading(
+  path: string,
+  propertySlug: string,
+  held: string,
+  reading: (at: string) => string | null
+): Generator<readonly [string, string]> {
+  for (let part = FIRST_PART; ; part += 1) {
+    const at = partAt(path, propertySlug, held, part)
+    if (at === null) return
+    const text = reading(at)
+    if (text === null) {
+      if (part > FIRST_PART) return
+      continue
+    }
+    yield [at, text]
+  }
+}
+
 export function uncommittedPartsOf(
   path: string,
   propertySlug: string,

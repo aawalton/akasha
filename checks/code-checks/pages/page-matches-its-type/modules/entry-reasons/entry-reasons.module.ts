@@ -69,6 +69,10 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
+      statement: "An entry file is read once rather than looked for and then read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A field the shape requires and the row leaves out gives a reason.",
     },
     {

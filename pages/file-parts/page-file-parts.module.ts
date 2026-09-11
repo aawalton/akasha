@@ -47,6 +47,26 @@ export const pageFileParts = {
       statement: "Whether a file is there is answered by the caller rather than here.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller reading a property's files is handed each file's body once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That caller answers what a file holds rather than whether that file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is handed over as the file it was read from and that body together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file past the first that holds nothing stops the reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first file holding nothing is passed over rather than stopping the reading.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index or the disk.",
     },
