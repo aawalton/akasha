@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "../skyshards-constants/skyshards-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
 
 type LogType = "Debug" | "Info" | "Verbose" | "Warn"
 

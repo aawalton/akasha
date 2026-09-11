@@ -1,8 +1,8 @@
 import {
   shouldDisplaySkyshards,
   updateSkyshardsData,
-} from "../skyshards-console-should-display/skyshards-console-should-display.module.code.ts"
-import { CONSOLE_STATE } from "../skyshards-console-state/skyshards-console-state.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-console-should-display/skyshards-console-should-display.module.code.ts"
+import { CONSOLE_STATE } from "akasha/temper/skyshards/skyshards-console-state/skyshards-console-state.module.code.ts"
 import {
   PINS_COLLECTED,
   PINS_UNKNOWN,
@@ -13,8 +13,8 @@ import {
   SKYSHARDS_PINDATA_ON_CITY_MAP,
   SKYSHARDS_PINDATA_UNDER_GROUND,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
-} from "../skyshards-constants/skyshards-constants.module.code.ts"
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 type MaybeSkyshardPin = SkyshardPin | undefined
 

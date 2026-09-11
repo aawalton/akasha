@@ -2,8 +2,8 @@ import {
   SKYSHARDS_PINDATA_ACHIEVEMENTID,
   SKYSHARDS_PINDATA_MOREINFO,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
-} from "../skyshards-constants/skyshards-constants.module.code.ts"
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 function creator(this: void, pin: MapPin): undefined {
   const [, rawTag] = pin.GetPinTypeAndTag()

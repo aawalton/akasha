@@ -1,4 +1,4 @@
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_PART_17 = {
   westweald__u42_base_nonungalo: [[0.4379, 0.3005, 3949, 15, 2]],

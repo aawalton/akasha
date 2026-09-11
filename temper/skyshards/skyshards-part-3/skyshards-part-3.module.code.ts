@@ -1,4 +1,4 @@
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_PART_3 = {
   blackwood__u30_xanmeeroverlook_ext_base: [[0.6831104159, 0.514709711, 2982, 13, 2]],

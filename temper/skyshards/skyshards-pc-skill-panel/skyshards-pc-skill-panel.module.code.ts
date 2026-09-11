@@ -1,4 +1,4 @@
-import { getAchievementIDs } from "../skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
+import { getAchievementIDs } from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
 
 const GAMEPAD_SKYSHARD_SKILLSPANEL_FORMAT_DETAILED = "|cffffff<<1>>/<<2>>|r"
 

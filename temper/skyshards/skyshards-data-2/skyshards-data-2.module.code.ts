@@ -1,10 +1,10 @@
-import { SKYSHARDS_PART_8 } from "../skyshards-part-8/skyshards-part-8.module.code.ts"
-import { SKYSHARDS_PART_9 } from "../skyshards-part-9/skyshards-part-9.module.code.ts"
-import { SKYSHARDS_PART_10 } from "../skyshards-part-10/skyshards-part-10.module.code.ts"
-import { SKYSHARDS_PART_11 } from "../skyshards-part-11/skyshards-part-11.module.code.ts"
-import { SKYSHARDS_PART_12 } from "../skyshards-part-12/skyshards-part-12.module.code.ts"
-import { SKYSHARDS_PART_13 } from "../skyshards-part-13/skyshards-part-13.module.code.ts"
-import type { SkyshardsData } from "../skyshards-types/skyshards-types.module.code.ts"
+import { SKYSHARDS_PART_8 } from "akasha/temper/skyshards/skyshards-part-8/skyshards-part-8.module.code.ts"
+import { SKYSHARDS_PART_9 } from "akasha/temper/skyshards/skyshards-part-9/skyshards-part-9.module.code.ts"
+import { SKYSHARDS_PART_10 } from "akasha/temper/skyshards/skyshards-part-10/skyshards-part-10.module.code.ts"
+import { SKYSHARDS_PART_11 } from "akasha/temper/skyshards/skyshards-part-11/skyshards-part-11.module.code.ts"
+import { SKYSHARDS_PART_12 } from "akasha/temper/skyshards/skyshards-part-12/skyshards-part-12.module.code.ts"
+import { SKYSHARDS_PART_13 } from "akasha/temper/skyshards/skyshards-part-13/skyshards-part-13.module.code.ts"
+import type { SkyshardsData } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_DATA_2: SkyshardsData = {
   elsweyr: {

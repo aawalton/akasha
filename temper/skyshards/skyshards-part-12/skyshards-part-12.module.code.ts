@@ -1,4 +1,4 @@
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_PART_12 = {
   shadowfen__altencorimont_base: [[0.3629, 0.5262, 687, 4]],

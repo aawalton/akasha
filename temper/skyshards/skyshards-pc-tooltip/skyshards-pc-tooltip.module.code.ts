@@ -4,13 +4,13 @@ import {
   SKYSHARDS_PINDATA_LOCY,
   SKYSHARDS_PINDATA_MOREINFO,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
-} from "../skyshards-constants/skyshards-constants.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
 import {
   field,
   getSkyshardIdByCriteria,
   optionalField,
-} from "../skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 function keyboardTooltip(this: void): TooltipControl {
   return InformationTooltip

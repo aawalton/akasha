@@ -1,5 +1,5 @@
-import { SKYSHARDS_DATA } from "../skyshards-data/skyshards-data.module.code.ts"
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import { SKYSHARDS_DATA } from "akasha/temper/skyshards/skyshards-data/skyshards-data.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 type MutableSkyshardsData = Record<string, Record<string, SkyshardPin[]>>
 

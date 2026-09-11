@@ -7,16 +7,19 @@ import {
   SKYSHARDS_PINDATA_MOREINFO,
   SKYSHARDS_PINDATA_ON_CITY_MAP,
   SKYSHARDS_PINDATA_UNDER_GROUND,
-} from "../skyshards-constants/skyshards-constants.module.code.ts"
-import { shouldDisplaySkyshards } from "../skyshards-pc-immersive/skyshards-pc-immersive.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+import { shouldDisplaySkyshards } from "akasha/temper/skyshards/skyshards-pc-immersive/skyshards-pc-immersive.module.code.ts"
 import {
   field,
   getCurrentSkyshards,
   optionalField,
   resolveShardId,
-} from "../skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"
-import { getDb, getMainworldColor } from "../skyshards-pc-state/skyshards-pc-state.module.code.ts"
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"
+import {
+  getDb,
+  getMainworldColor,
+} from "akasha/temper/skyshards/skyshards-pc-state/skyshards-pc-state.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 function compassCallback(this: void): undefined {
   if (GetMapType() > MAPTYPE_ZONE) return

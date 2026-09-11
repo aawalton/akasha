@@ -1,4 +1,4 @@
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_PART_6 = {
   cyrodiil__imperialsewer_daggerfall3_base: [

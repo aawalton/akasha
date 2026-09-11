@@ -1,4 +1,4 @@
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_PART_11 = {
   reach__gloomreach3_base: [[0.6464774012, 0.4073275923, 2857, 6]],

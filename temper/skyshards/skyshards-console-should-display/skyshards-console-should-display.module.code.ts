@@ -1,12 +1,12 @@
 import {
   CONSOLE_STATE,
   getDb,
-} from "../skyshards-console-state/skyshards-console-state.module.code.ts"
-import { PINS_COMPASS } from "../skyshards-constants/skyshards-constants.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-console-state/skyshards-console-state.module.code.ts"
+import { PINS_COMPASS } from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
 import {
   getImmersiveModeCondition,
   getLocalData,
-} from "../skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
 
 type ReadonlyNumberArray = readonly number[]
 

@@ -8,8 +8,11 @@ import {
   PINS_COLLECTED,
   PINS_COMPASS,
   PINS_UNKNOWN,
-} from "../skyshards-constants/skyshards-constants.module.code.ts"
-import { getDb, getMainworldColor } from "../skyshards-pc-state/skyshards-pc-state.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+import {
+  getDb,
+  getMainworldColor,
+} from "akasha/temper/skyshards/skyshards-pc-state/skyshards-pc-state.module.code.ts"
 
 const LAM = LibAddonMenu2
 

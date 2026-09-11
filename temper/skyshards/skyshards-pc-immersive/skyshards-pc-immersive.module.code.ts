@@ -1,5 +1,5 @@
-import { getImmersiveModeCondition } from "../skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
-import { getDb } from "../skyshards-pc-state/skyshards-pc-state.module.code.ts"
+import { getImmersiveModeCondition } from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
+import { getDb } from "akasha/temper/skyshards/skyshards-pc-state/skyshards-pc-state.module.code.ts"
 
 type ReadonlyNumberArray = readonly number[]
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const skyshardsPcImmersive = {
   id: "01a061a8-9c6a-7b65-9891-fb097c9776bd",

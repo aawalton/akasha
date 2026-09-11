@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const skyshardsPart3 = {
   id: "01a061a8-9c68-7aa1-9275-7c9b519b7356",

@@ -1,5 +1,5 @@
-import type { SkyShardsDefaults } from "../skyshards-constants/skyshards-constants.module.code.ts"
-import type { SkyshardPin } from "../skyshards-types/skyshards-types.module.code.ts"
+import type { SkyShardsDefaults } from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export interface ConsoleState {
   db: SkyShardsDefaults | undefined

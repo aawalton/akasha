@@ -1,4 +1,4 @@
-import type { SkyShardsDefaults } from "../skyshards-constants/skyshards-constants.module.code.ts"
+import type { SkyShardsDefaults } from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
 
 let db: SkyShardsDefaults | undefined
 let mainworldColor: ZoColorDef | undefined

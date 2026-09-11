@@ -5,18 +5,21 @@ import {
   PINS_COMPASS,
   PINS_UNKNOWN,
   SAVED_VARIABLES_NAME,
-} from "../skyshards-constants/skyshards-constants.module.code.ts"
-import { registerCompassPins } from "../skyshards-pc-compass/skyshards-pc-compass.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-constants/skyshards-constants.module.code.ts"
+import { registerCompassPins } from "akasha/temper/skyshards/skyshards-pc-compass/skyshards-pc-compass.module.code.ts"
 import {
   buildMapPinLayouts,
   registerMapPins,
-} from "../skyshards-pc-pins/skyshards-pc-pins.module.code.ts"
-import { createSettingsMenu } from "../skyshards-pc-settings/skyshards-pc-settings.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-pc-pins/skyshards-pc-pins.module.code.ts"
+import { createSettingsMenu } from "akasha/temper/skyshards/skyshards-pc-settings/skyshards-pc-settings.module.code.ts"
 import {
   alterSkyShardsIndicator,
   setSSP,
-} from "../skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts"
-import { setDb, setMainworldColor } from "../skyshards-pc-state/skyshards-pc-state.module.code.ts"
+} from "akasha/temper/skyshards/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts"
+import {
+  setDb,
+  setMainworldColor,
+} from "akasha/temper/skyshards/skyshards-pc-state/skyshards-pc-state.module.code.ts"
 
 function onSkyshardsUpdated(this: void, _eventCode: number): undefined {
   LibMapPins.RefreshPins(PINS_UNKNOWN)

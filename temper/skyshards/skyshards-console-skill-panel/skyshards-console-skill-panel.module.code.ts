@@ -1,5 +1,5 @@
-import { CONSOLE_STATE } from "../skyshards-console-state/skyshards-console-state.module.code.ts"
-import { getAchievementIDs } from "../skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
+import { CONSOLE_STATE } from "akasha/temper/skyshards/skyshards-console-state/skyshards-console-state.module.code.ts"
+import { getAchievementIDs } from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
 
 const GAMEPAD_SKYSHARD_SKILLPOINTS_TO_SPEND = "|cffffff<<1>>|r"
 const GAMEPAD_SKYSHARD_SKILLPOINTS_TO_SPEND_SSP = "|cffffff<<1>>/<<2>>|r"

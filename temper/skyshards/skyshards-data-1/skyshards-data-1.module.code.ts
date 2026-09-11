@@ -1,12 +1,12 @@
-import { SKYSHARDS_PART_1 } from "../skyshards-part-1/skyshards-part-1.module.code.ts"
-import { SKYSHARDS_PART_2 } from "../skyshards-part-2/skyshards-part-2.module.code.ts"
-import { SKYSHARDS_PART_3 } from "../skyshards-part-3/skyshards-part-3.module.code.ts"
-import { SKYSHARDS_PART_4 } from "../skyshards-part-4/skyshards-part-4.module.code.ts"
-import { SKYSHARDS_PART_5 } from "../skyshards-part-5/skyshards-part-5.module.code.ts"
-import { SKYSHARDS_PART_6 } from "../skyshards-part-6/skyshards-part-6.module.code.ts"
-import { SKYSHARDS_PART_7 } from "../skyshards-part-7/skyshards-part-7.module.code.ts"
-import { SKYSHARDS_PART_8 } from "../skyshards-part-8/skyshards-part-8.module.code.ts"
-import type { SkyshardsData } from "../skyshards-types/skyshards-types.module.code.ts"
+import { SKYSHARDS_PART_1 } from "akasha/temper/skyshards/skyshards-part-1/skyshards-part-1.module.code.ts"
+import { SKYSHARDS_PART_2 } from "akasha/temper/skyshards/skyshards-part-2/skyshards-part-2.module.code.ts"
+import { SKYSHARDS_PART_3 } from "akasha/temper/skyshards/skyshards-part-3/skyshards-part-3.module.code.ts"
+import { SKYSHARDS_PART_4 } from "akasha/temper/skyshards/skyshards-part-4/skyshards-part-4.module.code.ts"
+import { SKYSHARDS_PART_5 } from "akasha/temper/skyshards/skyshards-part-5/skyshards-part-5.module.code.ts"
+import { SKYSHARDS_PART_6 } from "akasha/temper/skyshards/skyshards-part-6/skyshards-part-6.module.code.ts"
+import { SKYSHARDS_PART_7 } from "akasha/temper/skyshards/skyshards-part-7/skyshards-part-7.module.code.ts"
+import { SKYSHARDS_PART_8 } from "akasha/temper/skyshards/skyshards-part-8/skyshards-part-8.module.code.ts"
+import type { SkyshardsData } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_DATA_1: SkyshardsData = {
   alikr: {
