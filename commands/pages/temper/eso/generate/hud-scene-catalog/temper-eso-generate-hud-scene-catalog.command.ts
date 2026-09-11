@@ -55,6 +55,10 @@ export const temperEsoGenerateHudSceneCatalog = {
       statement: "A module the checkout already has is left out of that change.",
     },
     {
+      invariantKind: "departure",
+      statement: "The three modules are written into the folder the hud components already sit in.",
+    },
+    {
       invariantKind: "absence",
       statement: "A component the game creates at runtime is outside this catalog.",
     },

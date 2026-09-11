@@ -27,7 +27,7 @@ const CODE_ROOT_FLAG = "--code-root"
 
 const DOC_REL = "ESOUIDocumentation.txt"
 
-const CATALOG_DIR = "temper/temper-hud-components"
+const CATALOG_DIR = "temper/hud-components"
 
 const AKASHA_FILE_CEILING = 15000
 
