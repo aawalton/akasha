@@ -3,7 +3,7 @@ import {
   asNumberOpt,
   asPresent,
   asStringOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asCheckNoSetIdSetFn,
   asCheckSetFn,
@@ -13,8 +13,8 @@ import {
   asSafeReturnApiTableFn,
   asStrRecordEntryOpt,
   asVoidFn,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
-import { asEquipTypeBoolMap } from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+import { asEquipTypeBoolMap } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 
 const lib = LibSets
 

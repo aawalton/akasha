@@ -1,9 +1,9 @@
-import { asGlobalTable } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asGlobalTable } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSetsSearchUIKeyboardObjectOpt,
   asVoidThunk,
   type VoidThunk,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const KEYBOARD_GLOBAL_KEY = "LIBSETS_SEARCH_UI_KEYBOARD"
 const GAMEPAD_GLOBAL_KEY = "LIBSETS_SEARCH_UI_GAMEPAD"

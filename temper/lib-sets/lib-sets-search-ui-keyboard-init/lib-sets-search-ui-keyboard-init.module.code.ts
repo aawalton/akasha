@@ -1,14 +1,18 @@
-import { asBoolean, asNumber, asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asBoolean,
+  asNumber,
+  asTyped,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asSearchUIEditBox,
   asVoidVarargsHandler,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
-} from "../lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
-import { getSharedSuper } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
-import { searchUIName } from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
+import { getSharedSuper } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import { searchUIName } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const lib = LibSets
 

@@ -2,13 +2,13 @@ import {
   asLangRecord,
   asNumRecordOpt,
   asPresent,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asDungeonFinderKeyboard,
   asNewSetIdsSV,
   asSetNamesTable,
   asSetNamesTableOpt,
-} from "../lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
 import {
   apiVersion,
   clientLang,
@@ -20,7 +20,7 @@ import {
   SCAN_STATE,
   UNKNOWN_NAME,
   worldName,
-} from "../lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 
 const lib = LibSets
 

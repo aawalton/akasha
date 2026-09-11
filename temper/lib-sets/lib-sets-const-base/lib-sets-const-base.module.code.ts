@@ -1,5 +1,8 @@
-import { boolPair } from "../lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts"
-import { asGlobalTable, asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { boolPair } from "akasha/temper/lib-sets/lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts"
+import {
+  asGlobalTable,
+  asTyped,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const MAJOR = "LibSets"
 const MINOR = 0.92

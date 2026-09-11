@@ -1,4 +1,4 @@
-import { asNumberArray } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asNumberArray } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSlots,
   asNumKeyTable,
@@ -6,15 +6,15 @@ import {
   asSetIdNumberMap,
   asSetIdToStrRecord,
   asTypeToSetIdBoolMap,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import {
   asSetItemCollectionZoneMapping,
   asTypeToSetIdNumberMap,
-} from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import {
   checkSetTypeAndUpdateLibTablesAndCounters,
   type LoadSetsState,
-} from "../lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"
 
 const lib = LibSets
 

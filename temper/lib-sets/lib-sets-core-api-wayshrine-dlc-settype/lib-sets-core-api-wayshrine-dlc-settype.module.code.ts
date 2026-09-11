@@ -1,4 +1,8 @@
-import { asNumber, asNumberOpt, asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asNumber,
+  asNumberOpt,
+  asPresent,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asIndexNumberMap,
   asIndexStringMapOpt,
@@ -6,8 +10,8 @@ import {
   asLibSlots,
   asSafeReturnApiTableFn,
   asStrRecordEntryOpt,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
-import { asWayshrine2ZoneOpt } from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+import { asWayshrine2ZoneOpt } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 
 const lib = LibSets
 

@@ -3,14 +3,14 @@ import {
   asPresent,
   asString,
   asStrRecord,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asSearchHistoryStringMap,
   asSearchHistoryUnknownMap,
   asSearchHistoryUnknownMapPresent,
   asSetInfoMap,
   asStringOptArray,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const lib = LibSets
 
@@ -22,7 +22,7 @@ const zoite = ZO_IsTableEmpty
 
 const libSets_GetSetInfo = lib.GetSetInfo
 
-import { searchHistoryEventUpdaterName } from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import { searchHistoryEventUpdaterName } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 let wasSetsDataScannedAndAdded = false
 

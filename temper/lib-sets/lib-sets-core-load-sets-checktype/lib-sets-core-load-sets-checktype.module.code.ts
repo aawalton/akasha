@@ -5,7 +5,7 @@ import {
   asNumberArrayOpt,
   asNumberOpt,
   asPresent,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asIndexNumberMapOpt,
   asItemIdNumberMap,
@@ -14,13 +14,13 @@ import {
   asSetIdTable,
   asSetIdToStrRecord,
   asStrRecordEntryOpt,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import {
   asLangIndexStringMapOpt,
   asLangNameBoolMap,
   asSetIdPerfectedLinkMap,
-} from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
-import { checkIfSetExists } from "../lib-sets-core-set-checking/lib-sets-core-set-checking.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { checkIfSetExists } from "akasha/temper/lib-sets/lib-sets-core-set-checking/lib-sets-core-set-checking.module.code.ts"
 
 const lib = LibSets
 

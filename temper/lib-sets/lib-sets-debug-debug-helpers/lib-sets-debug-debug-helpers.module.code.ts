@@ -4,11 +4,11 @@ import {
   asNumRecord,
   asNumRecordOpt,
   asPresent,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asNewSetIdsByWorldOpt,
   asSetItemIdsTableOpt,
-} from "../lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
 import {
   apiVersion,
   DEBUG_HOLDER,
@@ -18,7 +18,7 @@ import {
   PLEASE_RELOAD_UI,
   SCAN_STATE,
   worldName,
-} from "../lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 
 const lib = LibSets
 

@@ -1,4 +1,7 @@
-import { asGlobalTable, asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asGlobalTable,
+  asPresent,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 const G = asGlobalTable(globalThis)

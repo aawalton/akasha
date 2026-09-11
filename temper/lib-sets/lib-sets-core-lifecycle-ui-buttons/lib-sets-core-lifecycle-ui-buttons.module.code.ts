@@ -2,12 +2,12 @@ import {
   asBoolean,
   asPresent,
   asStrRecordOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asLibSlots } from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asLibSlots } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import {
   asMoreOptionsButton,
   asSearchUiControl,
-} from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 
 const lib = LibSets
 

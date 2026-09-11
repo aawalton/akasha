@@ -1,18 +1,22 @@
-import { asNumber, asNumRecord, asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asNumber,
+  asNumRecord,
+  asTyped,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asNoSetIdSetsElement,
   asNumKeyedNumRecord,
   asNumToNumRecord,
   asSetInfoElement,
   asUnknown,
-} from "../lib-sets-data-casts/lib-sets-data-casts.module.code.ts"
-import { BLACKLISTED_SET_IDS } from "../lib-sets-gen-blacklisted-set-ids/lib-sets-gen-blacklisted-set-ids.module.code.ts"
-import { NO_SET_ID_SETS } from "../lib-sets-gen-no-set-id-sets/lib-sets-gen-no-set-id-sets.module.code.ts"
-import { SET_DATA_PRELOADED } from "../lib-sets-gen-set-data-preloaded/lib-sets-gen-set-data-preloaded.module.code.ts"
-import { SET_INFO } from "../lib-sets-gen-set-info/lib-sets-gen-set-info.module.code.ts"
-import { SETS_OF_NEWER_API_VERSION } from "../lib-sets-gen-sets-of-newer-api-version/lib-sets-gen-sets-of-newer-api-version.module.code.ts"
-import { SPECIAL_BONUS_SETS } from "../lib-sets-gen-special-bonus-sets/lib-sets-gen-special-bonus-sets.module.code.ts"
-import { ZONE_IDS_OF_NEWER_API_VERSION } from "../lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-data-casts/lib-sets-data-casts.module.code.ts"
+import { BLACKLISTED_SET_IDS } from "akasha/temper/lib-sets/lib-sets-gen-blacklisted-set-ids/lib-sets-gen-blacklisted-set-ids.module.code.ts"
+import { NO_SET_ID_SETS } from "akasha/temper/lib-sets/lib-sets-gen-no-set-id-sets/lib-sets-gen-no-set-id-sets.module.code.ts"
+import { SET_DATA_PRELOADED } from "akasha/temper/lib-sets/lib-sets-gen-set-data-preloaded/lib-sets-gen-set-data-preloaded.module.code.ts"
+import { SET_INFO } from "akasha/temper/lib-sets/lib-sets-gen-set-info/lib-sets-gen-set-info.module.code.ts"
+import { SETS_OF_NEWER_API_VERSION } from "akasha/temper/lib-sets/lib-sets-gen-sets-of-newer-api-version/lib-sets-gen-sets-of-newer-api-version.module.code.ts"
+import { SPECIAL_BONUS_SETS } from "akasha/temper/lib-sets/lib-sets-gen-special-bonus-sets/lib-sets-gen-special-bonus-sets.module.code.ts"
+import { ZONE_IDS_OF_NEWER_API_VERSION } from "akasha/temper/lib-sets/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.code.ts"
 
 const lib = LibSets
 

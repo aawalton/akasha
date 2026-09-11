@@ -4,15 +4,15 @@ import {
   asStrRecordOpt,
   asTyped,
   type StrRecordOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   getGamepadSearchUI,
   getKeyboardSearchUI,
-} from "../lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
 import {
   brandSharedSearchUIClassGlobal,
   getSharedSearchUIClass,
-} from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 
 const lib = LibSets
 

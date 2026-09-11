@@ -6,17 +6,17 @@ import {
   asStringOpt,
   asStrRecordOpt,
   asTyped,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSetsSearchRowData,
   asLibSetsSearchRowDataOpt,
   asSearchUIControl,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const lib = LibSets
 
-import { getSearchUIListClass } from "../lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
-import { searchUI } from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import { getSearchUIListClass } from "akasha/temper/lib-sets/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
+import { searchUI } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const listClass = getSearchUIListClass()
 

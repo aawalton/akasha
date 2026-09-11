@@ -1,10 +1,10 @@
-import { asNumber } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asNumber } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asCategoryBoolMap,
   asItemIdNumberMap,
   asLibSlots,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
-import { validateValueAgainstCheckTable } from "../lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+import { validateValueAgainstCheckTable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 

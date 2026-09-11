@@ -1,10 +1,13 @@
-import { asNumber, asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asNumber,
+  asPresent,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asNewSetIdsSV,
   asSetNamesTable,
   asSetNamesTableOpt,
-} from "../lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
-import { getAllSetItemIds } from "../lib-sets-debug-debug-helpers/lib-sets-debug-debug-helpers.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
+import { getAllSetItemIds } from "akasha/temper/lib-sets/lib-sets-debug-debug-helpers/lib-sets-debug-debug-helpers.module.code.ts"
 import {
   apiVersion,
   clientLang,
@@ -18,7 +21,7 @@ import {
   storedInSVFileLibSetsInTable,
   UNKNOWN_NAME,
   worldName,
-} from "../lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 
 const lib = LibSets
 

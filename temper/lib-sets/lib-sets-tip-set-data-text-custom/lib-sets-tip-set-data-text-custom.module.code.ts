@@ -1,9 +1,12 @@
-import { asPresent, asString } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asPresent,
+  asString,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   addLineBreakIfNotEmpty,
   checkNonNeededLineBreak,
-} from "../lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

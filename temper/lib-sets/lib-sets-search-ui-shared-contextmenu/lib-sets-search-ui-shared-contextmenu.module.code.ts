@@ -2,12 +2,12 @@ import {
   asBooleanOpt,
   asPresent,
   asStrRecordOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asAnyObjectOpt,
   asCategoryRecordOpt,
   asSearchHistoryStringMapOpt,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const lib = LibSets
 
@@ -22,8 +22,8 @@ const libSets_getsetIdsOfCurrentZone = lib.GetSetIdsOfCurrentZone
 const libSets_getCurrentZoneName = lib.GetCurrentZoneName
 const checkLSM = lib.CheckLSM
 
-import { getSharedSearchUIClass } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
-import { clearSearchHistory } from "../lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
+import { getSharedSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import { clearSearchHistory } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
 import {
   autoStr,
   bottomStr,
@@ -46,7 +46,7 @@ import {
   showLibSetsSettingsStr,
   tooltipsStr,
   topStr,
-} from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const sharedClass = getSharedSearchUIClass()
 

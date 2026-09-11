@@ -1,9 +1,12 @@
-import { asPresent, asString } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asPresent,
+  asString,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSetsSearchUIDescriptorExt,
   asSearchUIComboBox,
   asSearchUIComboBoxOpt,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const lib = LibSets
 

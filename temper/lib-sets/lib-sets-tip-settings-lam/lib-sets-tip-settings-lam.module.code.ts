@@ -1,13 +1,13 @@
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   asBoolean,
   asPresent,
   asString,
   asStrRecord,
   asTyped,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { MENU_STATE } from "../lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { MENU_STATE } from "akasha/temper/lib-sets/lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const lib = LibSets
 

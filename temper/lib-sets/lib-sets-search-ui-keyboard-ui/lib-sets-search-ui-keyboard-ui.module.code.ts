@@ -3,18 +3,18 @@ import {
   asNumberOpt,
   asString,
   asTyped,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asSearchUIControlOpt } from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asSearchUIControlOpt } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
-} from "../lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
-import { getKeyboardTopLevelOnResize } from "../lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
-import { getSharedSuper } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
+import { getKeyboardTopLevelOnResize } from "akasha/temper/lib-sets/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
+import { getSharedSuper } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 import {
   searchUI,
   searchUIName,
-} from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const lib = LibSets
 const libPrefix = lib.prefix

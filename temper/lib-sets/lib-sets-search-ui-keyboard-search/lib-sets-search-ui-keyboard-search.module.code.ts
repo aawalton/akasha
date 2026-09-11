@@ -4,20 +4,20 @@ import {
   asString,
   asStringOpt,
   asTyped,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { sortFilterComboBox } from "../lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { sortFilterComboBox } from "akasha/temper/lib-sets/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
 import {
   asComboBoxSortKey,
   asComboBoxSortKeyOpt,
   asLibSetsSearchRowDataOpt,
   asNumberOrString,
   asSearchUIComboBox,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
-} from "../lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
-import { getSharedSuper } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
+import { getSharedSuper } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 
 const lib = LibSets
 

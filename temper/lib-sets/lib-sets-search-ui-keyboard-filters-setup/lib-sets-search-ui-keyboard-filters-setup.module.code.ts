@@ -1,4 +1,4 @@
-import { asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asTyped } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const getLocalizedText = LibSets.GetLocalizedText
 

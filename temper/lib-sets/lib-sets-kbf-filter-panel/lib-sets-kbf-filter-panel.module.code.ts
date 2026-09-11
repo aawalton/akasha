@@ -1,26 +1,26 @@
-import { buildDlcFilter } from "../lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.code.ts"
+import { buildDlcFilter } from "akasha/temper/lib-sets/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.code.ts"
 import {
   buildDropLocationFilter,
   buildDropMechanicFilter,
   buildDropZoneFilter,
-} from "../lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"
-import { buildFavoritesFilter } from "../lib-sets-kbf-favorites-filter/lib-sets-kbf-favorites-filter.module.code.ts"
-import type { FilterBuildContext } from "../lib-sets-kbf-filter-context/lib-sets-kbf-filter-context.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"
+import { buildFavoritesFilter } from "akasha/temper/lib-sets/lib-sets-kbf-favorites-filter/lib-sets-kbf-favorites-filter.module.code.ts"
+import type { FilterBuildContext } from "akasha/temper/lib-sets/lib-sets-kbf-filter-context/lib-sets-kbf-filter-context.module.code.ts"
 import {
   buildArmorTypeFilter,
   buildEquipmentTypeFilter,
   buildSetTypeFilter,
   buildWeaponTypeFilter,
-} from "../lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"
 import {
   buildEnchantmentSearchCategoryFilter,
   buildNumBonusFilter,
-} from "../lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.code.ts"
-import { getKeyboardSearchUIClass } from "../lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.code.ts"
+import { getKeyboardSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
 import {
   onFilterDropdownEntryMouseEnterCallback,
   onFilterDropdownEntryMouseExitCallback,
-} from "../lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"
 
 const lib = LibSets
 const checkLSM = lib.CheckLSM

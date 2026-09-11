@@ -1,5 +1,8 @@
-import { asGlobalTable, asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { getSharedSearchUIClass } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import {
+  asGlobalTable,
+  asTyped,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { getSharedSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 
 const sharedClass = asTyped<ZoInitializingObjectClass>(getSharedSearchUIClass())
 

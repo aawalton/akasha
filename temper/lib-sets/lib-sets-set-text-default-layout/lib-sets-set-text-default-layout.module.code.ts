@@ -1,14 +1,14 @@
-import { asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import type { SetTextFields } from "../lib-sets-set-text-set-text-fields/lib-sets-set-text-set-text-fields.module.code.ts"
+import { asPresent } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import type { SetTextFields } from "akasha/temper/lib-sets/lib-sets-set-text-set-text-fields/lib-sets-set-text-set-text-fields.module.code.ts"
 import {
   dropLocationZonesStr,
   dropMechanicStr,
   droppedByStr,
   neededTraitsStr,
   reconstructionCostsStr,
-} from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
-import { buildTextLinesFromTable } from "../lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+import { buildTextLinesFromTable } from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 export function applyDefaultLayout(this: void, fields: SetTextFields): undefined {
   const {

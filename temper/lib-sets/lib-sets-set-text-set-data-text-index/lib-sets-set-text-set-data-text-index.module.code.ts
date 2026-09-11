@@ -1,10 +1,10 @@
-import { asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { applyDefaultLayout } from "../lib-sets-set-text-default-layout/lib-sets-set-text-default-layout.module.code.ts"
-import { fillSetInfoParts } from "../lib-sets-set-text-set-info-parts/lib-sets-set-text-set-info-parts.module.code.ts"
-import { collectSetTextFields } from "../lib-sets-set-text-set-text-fields/lib-sets-set-text-set-text-fields.module.code.ts"
-import { asSetInfoPartMap } from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
-import { applyCustomTooltipPattern } from "../lib-sets-tip-set-data-text-custom/lib-sets-tip-set-data-text-custom.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import { asPresent } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { applyDefaultLayout } from "akasha/temper/lib-sets/lib-sets-set-text-default-layout/lib-sets-set-text-default-layout.module.code.ts"
+import { fillSetInfoParts } from "akasha/temper/lib-sets/lib-sets-set-text-set-info-parts/lib-sets-set-text-set-info-parts.module.code.ts"
+import { collectSetTextFields } from "akasha/temper/lib-sets/lib-sets-set-text-set-text-fields/lib-sets-set-text-set-text-fields.module.code.ts"
+import { asSetInfoPartMap } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+import { applyCustomTooltipPattern } from "akasha/temper/lib-sets/lib-sets-tip-set-data-text-custom/lib-sets-tip-set-data-text-custom.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

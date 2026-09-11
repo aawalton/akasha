@@ -1,4 +1,7 @@
-import { asStringOpt, asUnknownArray } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asStringOpt,
+  asUnknownArray,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 export interface ZoneRow {
   zoneName: string | undefined

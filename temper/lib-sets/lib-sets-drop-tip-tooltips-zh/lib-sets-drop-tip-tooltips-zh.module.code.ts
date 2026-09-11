@@ -1,4 +1,4 @@
-import { cyrodiilAndBattlegroundText } from "../lib-sets-drop-tip-shared-text/lib-sets-drop-tip-shared-text.module.code.ts"
+import { cyrodiilAndBattlegroundText } from "akasha/temper/lib-sets/lib-sets-drop-tip-shared-text/lib-sets-drop-tip-shared-text.module.code.ts"
 
 export const ZH = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]:

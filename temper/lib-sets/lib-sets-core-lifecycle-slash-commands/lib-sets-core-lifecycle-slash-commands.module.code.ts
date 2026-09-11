@@ -1,15 +1,18 @@
-import { asPresent, asString } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asPresent,
+  asString,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibCmdFns,
   asLibDispatchFns,
   asLibSlots,
   asToBooleanFn,
   asVoidFn,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import {
   asDebugParamMap,
   asParamBoolMap,
-} from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 
 const lib = LibSets
 

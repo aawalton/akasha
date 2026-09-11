@@ -1,4 +1,4 @@
-import { boolPair } from "../lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts"
+import { boolPair } from "akasha/temper/lib-sets/lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts"
 
 export const LIB_SETS_PRELOADED_DUNGEON_ZONE_MAPPING_01: Record<number, Record<string, unknown>> = {
   [11]: {

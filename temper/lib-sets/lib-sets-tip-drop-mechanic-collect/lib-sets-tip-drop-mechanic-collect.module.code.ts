@@ -5,20 +5,20 @@ import {
   asString,
   asStringOpt,
   asUnknownArray,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLangNameIndexTableOpt,
   asNumIndexTableOpt,
   asUnknownRecordArray,
   asZoneIdGroupsOpt,
   asZoneMechanicGroupsOpt,
-} from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   BLACKLISTED_SET_IDS_FOR_ZONE_TOOLTIPS,
   langToUse,
-} from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
-import { tableContentsAreAllTheSame } from "../lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+import { tableContentsAreAllTheSame } from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

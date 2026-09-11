@@ -7,18 +7,21 @@ const tcon = table.concat
 const tos = tostring
 const zoite = ZO_IsTableEmpty
 
-import { asBooleanOpt, asStringArray } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asBooleanOpt,
+  asStringArray,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asIdBoolMap,
   asLineNumberMapOpt,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
-import { getSharedSearchUIClass } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
-import { updateSearchHistoryDelayed } from "../lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+import { getSharedSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import { updateSearchHistoryDelayed } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
 import {
   SEARCH_TYPE_BONUS,
   SEARCH_TYPE_NAME,
   searchUIName,
-} from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const sharedClass = getSharedSearchUIClass()
 

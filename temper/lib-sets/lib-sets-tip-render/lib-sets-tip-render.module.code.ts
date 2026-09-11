@@ -1,10 +1,10 @@
-import { asStringOpt } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { buildSetDataText } from "../lib-sets-set-text-set-data-text-index/lib-sets-set-text-set-data-text-index.module.code.ts"
-import { asNever } from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+import { asStringOpt } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { buildSetDataText } from "akasha/temper/lib-sets/lib-sets-set-text-set-data-text-index/lib-sets-set-text-set-data-text-index.module.code.ts"
+import { asNever } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   getLastItemLink,
   isTooltipOfSetItem,
-} from "../lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"
 
 interface AnyTooltipControl {
   AddVerticalPadding?: (this: AnyTooltipControl, paddingY: number) => void

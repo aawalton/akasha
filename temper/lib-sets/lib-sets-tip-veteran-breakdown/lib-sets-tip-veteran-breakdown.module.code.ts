@@ -3,18 +3,18 @@ import {
   asNumberOpt,
   asPresent,
   asStringOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asEquipBoolTable } from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asEquipBoolTable } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   MONSTER_SET_TYPE_TO_NO_VETERAN_STR,
   MONSTER_SET_TYPE_TO_VETERAN_STR,
   SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR,
-} from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import {
   addNonVeteranUndauntedChestName,
   getDungeonDifficultyStr,
-} from "../lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

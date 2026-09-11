@@ -1,5 +1,5 @@
-import { asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asLibSlotVoidFns } from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+import { asPresent } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asLibSlotVoidFns } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 
 const lib = LibSets
 

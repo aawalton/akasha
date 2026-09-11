@@ -1,4 +1,4 @@
-import { zogcn } from "../lib-sets-drop-name-shared-text/lib-sets-drop-name-shared-text.module.code.ts"
+import { zogcn } from "akasha/temper/lib-sets/lib-sets-drop-name-shared-text/lib-sets-drop-name-shared-text.module.code.ts"
 
 export const EN = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]: "Rewards for the worthy",

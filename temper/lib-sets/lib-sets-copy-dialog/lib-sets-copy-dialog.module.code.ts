@@ -1,5 +1,9 @@
-import { asGlobalTable, asPresent, asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { strLensplit } from "../lib-sets-copy-text-split/lib-sets-copy-text-split.module.code.ts"
+import {
+  asGlobalTable,
+  asPresent,
+  asTyped,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { strLensplit } from "akasha/temper/lib-sets/lib-sets-copy-text-split/lib-sets-copy-text-split.module.code.ts"
 
 const lib = LibSets
 

@@ -2,8 +2,8 @@ import {
   dungeonStr,
   setTypeArenaName,
   undauntedStr,
-} from "../lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.code.ts"
-import { LANG_EN } from "../lib-sets-loc-language-codes/lib-sets-loc-language-codes.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.code.ts"
+import { LANG_EN } from "akasha/temper/lib-sets/lib-sets-loc-language-codes/lib-sets-loc-language-codes.module.code.ts"
 
 export const EN = {
   de: "German",

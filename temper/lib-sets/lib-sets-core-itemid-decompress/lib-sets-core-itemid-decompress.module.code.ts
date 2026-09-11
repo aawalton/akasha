@@ -3,8 +3,8 @@ import {
   asPresent,
   asString,
   asUnknownArray,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asSetIdCompressedItemIds } from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asSetIdCompressedItemIds } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 
 const lib = LibSets
 

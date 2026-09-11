@@ -4,15 +4,15 @@ import {
   asLibSetsSearchRowData,
   asNumberOrString,
   asSearchUIComboBox,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
-import { getSharedSearchUIClass } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
-import { updateSetsInfoWithDataAndNames } from "../lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+import { getSharedSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import { updateSetsInfoWithDataAndNames } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
 import {
   getComboBoxFromDropdownControl,
   isItemFilterTypeMatching,
   searchUI,
   searchUIName,
-} from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const sharedClass = getSharedSearchUIClass()
 

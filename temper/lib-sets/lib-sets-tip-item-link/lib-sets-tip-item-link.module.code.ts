@@ -4,7 +4,7 @@ import {
   asPresent,
   asString,
   asStringOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asBagValue,
   asFcoisProbe,
@@ -13,15 +13,15 @@ import {
   asMasterMerchantProbe,
   asNever,
   asSetIdNodeProbe,
-} from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   IIFA_CTRL_NAMES,
   infoTooltip,
   itemTooltip,
   MASTER_MERCHANT_CTRL_NAMES,
   popupTooltip,
-} from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

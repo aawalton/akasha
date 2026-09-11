@@ -8,20 +8,20 @@ import {
   asStringOpt,
   asStrRecordOpt,
   asUnknownArray,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asAnyNotNilTable,
   asEquipBoolTable,
   asFavoritesAccessor,
-} from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   MONSTER_SET_TYPE_TO_NO_VETERAN_STR,
   MONSTER_SET_TYPE_TO_VETERAN_STR,
   SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR,
   undauntedChestIdNames,
-} from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
-import { getSetReconstructionCost } from "../lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+import { getSetReconstructionCost } from "akasha/temper/lib-sets/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

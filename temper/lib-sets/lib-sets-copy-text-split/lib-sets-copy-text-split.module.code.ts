@@ -1,4 +1,4 @@
-import { asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asPresent } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const strlen = string.len
 const strsub = string.sub

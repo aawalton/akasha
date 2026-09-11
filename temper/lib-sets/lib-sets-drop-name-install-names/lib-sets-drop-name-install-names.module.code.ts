@@ -7,19 +7,19 @@ import {
   LANG_PL,
   LANG_RU,
   LANG_ZH,
-} from "../lib-sets-drop-name-language-codes/lib-sets-drop-name-language-codes.module.code.ts"
-import { DE } from "../lib-sets-drop-name-names-de/lib-sets-drop-name-names-de.module.code.ts"
-import { EN } from "../lib-sets-drop-name-names-en/lib-sets-drop-name-names-en.module.code.ts"
-import { ES } from "../lib-sets-drop-name-names-es/lib-sets-drop-name-names-es.module.code.ts"
-import { FR } from "../lib-sets-drop-name-names-fr/lib-sets-drop-name-names-fr.module.code.ts"
-import { JP } from "../lib-sets-drop-name-names-jp/lib-sets-drop-name-names-jp.module.code.ts"
-import { PL } from "../lib-sets-drop-name-names-pl/lib-sets-drop-name-names-pl.module.code.ts"
-import { RU } from "../lib-sets-drop-name-names-ru/lib-sets-drop-name-names-ru.module.code.ts"
-import { ZH } from "../lib-sets-drop-name-names-zh/lib-sets-drop-name-names-zh.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-drop-name-language-codes/lib-sets-drop-name-language-codes.module.code.ts"
+import { DE } from "akasha/temper/lib-sets/lib-sets-drop-name-names-de/lib-sets-drop-name-names-de.module.code.ts"
+import { EN } from "akasha/temper/lib-sets/lib-sets-drop-name-names-en/lib-sets-drop-name-names-en.module.code.ts"
+import { ES } from "akasha/temper/lib-sets/lib-sets-drop-name-names-es/lib-sets-drop-name-names-es.module.code.ts"
+import { FR } from "akasha/temper/lib-sets/lib-sets-drop-name-names-fr/lib-sets-drop-name-names-fr.module.code.ts"
+import { JP } from "akasha/temper/lib-sets/lib-sets-drop-name-names-jp/lib-sets-drop-name-names-jp.module.code.ts"
+import { PL } from "akasha/temper/lib-sets/lib-sets-drop-name-names-pl/lib-sets-drop-name-names-pl.module.code.ts"
+import { RU } from "akasha/temper/lib-sets/lib-sets-drop-name-names-ru/lib-sets-drop-name-names-ru.module.code.ts"
+import { ZH } from "akasha/temper/lib-sets/lib-sets-drop-name-names-zh/lib-sets-drop-name-names-zh.module.code.ts"
 import {
   checkIfPTSAPIVersionIsLive,
   lib,
-} from "../lib-sets-drop-name-shared-text/lib-sets-drop-name-shared-text.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-drop-name-shared-text/lib-sets-drop-name-shared-text.module.code.ts"
 
 lib.dropMechanicIdToName = {
   [LANG_DE]: DE,

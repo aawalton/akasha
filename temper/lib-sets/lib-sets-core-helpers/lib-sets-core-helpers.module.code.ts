@@ -3,12 +3,12 @@ import {
   asNumberArray,
   asPresent,
   asStringOpt,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSlots,
   asStringOrNumber,
   asStrRecord,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 
 const lib = LibSets
 

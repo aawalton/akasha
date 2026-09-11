@@ -1,4 +1,7 @@
-import { asNumberOpt, asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asNumberOpt,
+  asPresent,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

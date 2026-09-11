@@ -2,13 +2,13 @@ import {
   asNumberArray,
   asNumberArrayOpt,
   asPresent,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asIdNumRecordOpt,
   asLibSetsCopyDialogData,
   asLibSetsSearchRowDataOpt,
   asParamStringMap,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const lib = LibSets
 
@@ -26,18 +26,18 @@ const libSets_ShowWayshrineNodeIdOnMap = lib.showWayshrineNodeIdOnMap
 const libSets_OpenSetItemCollectionBookForItemLink = lib.OpenSetItemCollectionBookForItemLink
 const checkLSM = lib.CheckLSM
 
-import { getSharedSearchUIClass } from "../lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import { getSharedSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 import {
   addOtherAddonsContextMenuEntries,
   checkAndGetWayshrineName,
-} from "../lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
 import {
   dropZoneAndWayshrinesStr,
   dropZonesStr,
   favoriteIconWithNameTexts,
   searchUI,
   wayshrinesStr,
-} from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const sharedClass = getSharedSearchUIClass()
 

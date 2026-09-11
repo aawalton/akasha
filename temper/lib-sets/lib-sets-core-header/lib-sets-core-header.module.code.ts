@@ -1,5 +1,8 @@
-import { asGlobalTable, asTyped } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asScrollableMenuHandleOpt } from "../lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import {
+  asGlobalTable,
+  asTyped,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asScrollableMenuHandleOpt } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 
 const lib = LibSets
 

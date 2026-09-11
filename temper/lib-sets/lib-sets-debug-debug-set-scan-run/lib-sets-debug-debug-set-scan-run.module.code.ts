@@ -3,15 +3,15 @@ import {
   asNumRecord,
   asNumRecordOpt,
   asPresent,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
-import { getFirstEntryOfTable } from "../lib-sets-debug-debug-helpers/lib-sets-debug-debug-helpers.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { getFirstEntryOfTable } from "akasha/temper/lib-sets/lib-sets-debug-debug-helpers/lib-sets-debug-debug-helpers.module.code.ts"
 import {
   DEBUG_HOLDER,
   DEBUG_OUTPUT_START_LINE,
   libPrefix,
   SCAN_STATE,
   UNKNOWN_NAME,
-} from "../lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 
 const lib = LibSets
 

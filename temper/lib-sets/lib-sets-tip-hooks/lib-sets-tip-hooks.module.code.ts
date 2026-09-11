@@ -4,7 +4,7 @@ import {
   asString,
   asStrRecordOpt,
   asUnknownArray,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asActivatedFlagView,
   asBoolThunkOpt,
@@ -17,19 +17,19 @@ import {
   asSvFetchThunk,
   asTooltipCtrlProbe,
   asVoidThunk,
-} from "../lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   itemTooltip,
   langToUse,
   popupTooltip,
   tooltipGameDataEntryToAddAfter,
-} from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import {
   addTooltipLine,
   tooltipItemCheck,
-} from "../lib-sets-tip-render/lib-sets-tip-render.module.code.ts"
-import { MENU_STATE } from "../lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-render/lib-sets-tip-render.module.code.ts"
+import { MENU_STATE } from "akasha/temper/lib-sets/lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 const lib = LibSets
 

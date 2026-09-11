@@ -1,10 +1,13 @@
-import { asPresent, asStringOpt } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asPresent,
+  asStringOpt,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   selectZoneGroupEntries,
   type ZoneGroupMember,
-} from "../lib-sets-tip-drop-mechanic-group-select/lib-sets-tip-drop-mechanic-group-select.module.code.ts"
-import { addZoneColor } from "../lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
-import { STATE } from "../lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-tip-drop-mechanic-group-select/lib-sets-tip-drop-mechanic-group-select.module.code.ts"
+import { addZoneColor } from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
+import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 
 type StrTab = { [idx: number]: unknown }
 

@@ -2,8 +2,8 @@ import {
   dungeonStr,
   setTypeArenaName,
   undauntedStr,
-} from "../lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"
-import { LANG_ZH } from "../lib-sets-loc-rest-language-codes/lib-sets-loc-rest-language-codes.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"
+import { LANG_ZH } from "akasha/temper/lib-sets/lib-sets-loc-rest-language-codes/lib-sets-loc-rest-language-codes.module.code.ts"
 
 export const ZH = {
   de: "德文",

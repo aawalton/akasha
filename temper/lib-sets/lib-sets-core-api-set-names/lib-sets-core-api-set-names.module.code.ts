@@ -1,10 +1,10 @@
-import { asBoolean } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asBoolean } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSlots,
   asSafeReturnApiTableFn,
   asSetIdBoolMap,
   asSetIdLangStringMap,
-} from "../lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 
 const lib = LibSets
 

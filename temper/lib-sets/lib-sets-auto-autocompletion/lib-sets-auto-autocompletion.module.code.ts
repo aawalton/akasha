@@ -2,7 +2,7 @@ import {
   asLabelRecord,
   asLibSlashCommanderLibHandle,
   asSetNamesByLangRecord,
-} from "../lib-sets-auto-casts/lib-sets-auto-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-auto-casts/lib-sets-auto-casts.module.code.ts"
 import {
   asString,
   asStringArray,
@@ -10,7 +10,7 @@ import {
   asStrRecordOpt,
   asTyped,
   asUnknownArray,
-} from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

@@ -1,9 +1,13 @@
-import { asBooleanOpt, asNumber, asPresent } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asBooleanOpt,
+  asNumber,
+  asPresent,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asDebugGetAllDataSV,
   asSetNamesTable,
   type DebugGetAllDataRun,
-} from "../lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
 import {
   apiVersion,
   clientLang,
@@ -15,7 +19,7 @@ import {
   SCAN_STATE,
   SUPPORTED_LANGUAGES,
   storedInSVFileLibSetsInTable,
-} from "../lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 
 const lib = LibSets
 

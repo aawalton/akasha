@@ -1,11 +1,15 @@
 const lib = LibSets
 
-import { asNumber, asNumberOpt, asString } from "../lib-sets-casts/lib-sets-casts.module.code.ts"
+import {
+  asNumber,
+  asNumberOpt,
+  asString,
+} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asControlWidthFunc,
   asNumberOrStringOpt,
-} from "../lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
-import { searchUI } from "../lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+} from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+import { searchUI } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 
 const searchUIKeyboardVars = searchUI.KeyboardVars
 const TLC_SEARCH_UI_MIN_WIDTH = searchUIKeyboardVars.minWidth
