@@ -1,5 +1,5 @@
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
-import { takeOpenTasks } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+import { takeOpenShells } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import {
   isClaudeChildCmdline,
   type ProcLivenessEntry,
@@ -25,7 +25,7 @@ export interface ChildSpawnSeams {
   readonly adoptProc: typeof adoptInheritedProc
   readonly spawnChild: typeof spawnClaudeChild
   readonly admitSpawn: typeof enforceMemoryGuard
-  readonly takeTasks: typeof takeOpenTasks
+  readonly takeShells: typeof takeOpenShells
   readonly sweepSubagents: typeof sweepSubagentPagesOf
 }
 
@@ -35,7 +35,7 @@ function seamsOf(given: Partial<ChildSpawnSeams> = {}): ChildSpawnSeams {
     adoptProc: given.adoptProc ?? adoptInheritedProc,
     spawnChild: given.spawnChild ?? spawnClaudeChild,
     admitSpawn: given.admitSpawn ?? enforceMemoryGuard,
-    takeTasks: given.takeTasks ?? takeOpenTasks,
+    takeShells: given.takeShells ?? takeOpenShells,
     sweepSubagents: given.sweepSubagents ?? sweepSubagentPagesOf,
   }
 }
@@ -75,7 +75,7 @@ function adoptLiveChildOrSpawn(args: {
       console.error(`${LOG} adopt: live Claude pid=${livePid} could not be adopted:`, err)
     }
   }
-  seams.takeTasks(spawnOpts.agentId)
+  seams.takeShells(spawnOpts.agentId)
   seams.sweepSubagents(spawnOpts.agentId, SPAWNED_FRESH)
   seams.admitSpawn("claude session")
   return { proc: seams.spawnChild(spawnOpts), adoptedThisIter: false }

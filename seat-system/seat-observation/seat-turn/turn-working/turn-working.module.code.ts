@@ -19,17 +19,12 @@ const TASK_ID_FROM = "<task-id>"
 
 const TASK_ID_TO = "</task-id>"
 
-const SHELL_TASK = "shell"
-
-const AGENT_TASK = "agent"
-
 const LINE_END = 10
 
 export interface TurnWorking {
   readonly activeTurn?: boolean
   readonly scannedTo?: number
   readonly openShells?: readonly string[]
-  readonly openAgents?: readonly string[]
 }
 
 export interface Answer {
@@ -38,15 +33,9 @@ export interface Answer {
   readonly interrupted?: boolean
 }
 
-export interface TaskStart {
-  readonly id: string
-  readonly kind: string
-}
-
 export interface TurnScan {
   readonly answer: Answer | null
   readonly openShells: readonly string[]
-  readonly openAgents: readonly string[]
 }
 
 export function turnEnded(answer: Answer): boolean {
@@ -66,19 +55,15 @@ export function anyLiveShell(working: TurnWorking): boolean {
   return (working.openShells ?? []).length > 0
 }
 
-export function anyLiveSubagent(working: TurnWorking): boolean {
-  return (working.openAgents ?? []).length > 0
-}
-
 export function withNothingOpen(working: TurnWorking): TurnWorking {
-  return { ...working, openShells: [], openAgents: [] }
+  return { ...working, openShells: [] }
 }
 
-export function takeOpenTasks(agent: string): boolean {
+export function takeOpenShells(agent: string): boolean {
   const observed = akashaObservedOf(agent)
   if (observed === null) return false
   const held = keptWorkingIn(observed[WORKING_KEY])
-  if (!anyLiveShell(held) && !anyLiveSubagent(held)) return false
+  if (!anyLiveShell(held)) return false
   return keepWorking(agent, withNothingOpen(held))
 }
 
@@ -93,13 +78,11 @@ export function keptWorkingIn(said: unknown): TurnWorking {
     activeTurn?: unknown
     scannedTo?: unknown
     openShells?: unknown
-    openAgents?: unknown
   }
   const found: {
     activeTurn?: boolean
     scannedTo?: number
     openShells?: readonly string[]
-    openAgents?: readonly string[]
   } = {}
   if (typeof record.activeTurn === "boolean") found.activeTurn = record.activeTurn
   if (typeof record.scannedTo === "number" && Number.isFinite(record.scannedTo)) {
@@ -107,21 +90,14 @@ export function keptWorkingIn(said: unknown): TurnWorking {
   }
   const shells = idsIn(record.openShells)
   if (shells !== null) found.openShells = shells
-  const agents = idsIn(record.openAgents)
-  if (agents !== null) found.openAgents = agents
   return found
 }
 
-export function taskStartedIn(said: unknown): TaskStart | null {
+export function shellStartedIn(said: unknown): string | null {
   if (said === null || typeof said !== "object") return null
-  const record = said as { backgroundTaskId?: unknown; agentId?: unknown; isAsync?: unknown }
-  if (typeof record.backgroundTaskId === "string" && record.backgroundTaskId !== "") {
-    return { id: record.backgroundTaskId, kind: SHELL_TASK }
-  }
-  if (typeof record.agentId === "string" && record.agentId !== "" && record.isAsync === true) {
-    return { id: record.agentId, kind: AGENT_TASK }
-  }
-  return null
+  const record = said as { backgroundTaskId?: unknown }
+  if (typeof record.backgroundTaskId !== "string" || record.backgroundTaskId === "") return null
+  return record.backgroundTaskId
 }
 
 export function taskEndedIn(body: string): string | null {
@@ -198,7 +174,6 @@ function parseTranscriptRecord(held: unknown): TranscriptRecord | null {
 
 export function scanRecords(text: string, was: TurnWorking): TurnScan {
   const shells = new Set(was.openShells ?? [])
-  const agents = new Set(was.openAgents ?? [])
   let answer: Answer | null = null
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
@@ -210,20 +185,14 @@ export function scanRecords(text: string, was: TurnWorking): TurnScan {
       continue
     }
     if (record === null) continue
-    const began = taskStartedIn(record.toolUseResult)
-    if (began !== null) {
-      if (began.kind === SHELL_TASK) shells.add(began.id)
-      else agents.add(began.id)
-    }
+    const began = shellStartedIn(record.toolUseResult)
+    if (began !== null) shells.add(began)
     const done = taskEndedIn(bodyOf(record)) ?? taskStoppedIn(record.toolUseResult)
-    if (done !== null) {
-      shells.delete(done)
-      agents.delete(done)
-    }
+    if (done !== null) shells.delete(done)
     const heard = answerOf(record)
     if (heard !== null) answer = heard
   }
-  return { answer, openShells: [...shells], openAgents: [...agents] }
+  return { answer, openShells: [...shells] }
 }
 
 function bytesOf(path: string, from: number, upTo: number): Buffer | null {
@@ -284,7 +253,6 @@ export function workingOf(agent: string): TurnWorking {
     ...(activeTurn === undefined ? {} : { activeTurn }),
     scannedTo: from + whole.length,
     openShells: found.openShells,
-    openAgents: found.openAgents,
   }
   keepWorking(agent, read)
   return read

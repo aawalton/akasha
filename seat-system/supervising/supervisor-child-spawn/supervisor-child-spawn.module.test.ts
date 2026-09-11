@@ -107,7 +107,7 @@ test("a child spawned afresh has the subagent pages under its seat taken away", 
     scanProcs: NO_CHILD,
     spawnChild: () => childAt(LIVE),
     admitSpawn: () => undefined,
-    takeTasks: () => false,
+    takeShells: () => false,
     sweepSubagents: sweepingInto(swept),
   })
 
@@ -123,7 +123,7 @@ test("an adopted child is the same client, so the subagent pages under it stay",
     adoptProc: (pid) => childAt(pid),
     spawnChild: spawningNothing,
     admitSpawn: () => undefined,
-    takeTasks: () => false,
+    takeShells: () => false,
     sweepSubagents: sweepingInto(swept),
   })
 
@@ -141,7 +141,7 @@ test("a live child that could not be adopted is spawned over, and its pages go",
     },
     spawnChild: () => childAt(LIVE),
     admitSpawn: () => undefined,
-    takeTasks: () => false,
+    takeShells: () => false,
     sweepSubagents: sweepingInto(swept),
   })
 

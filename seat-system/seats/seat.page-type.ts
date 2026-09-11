@@ -36,7 +36,6 @@ export const seat = {
     "text-property/interrupt-message",
     "text-property/mode",
     "text-property/model",
-    "text-property/open-agents",
     "text-property/open-shells",
     "text-property/proxy-version",
     "text-property/re-exec-ask",

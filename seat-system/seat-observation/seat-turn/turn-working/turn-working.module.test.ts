@@ -1,14 +1,13 @@
 import { expect, test } from "bun:test"
 import {
   anyLiveShell,
-  anyLiveSubagent,
   anyWorking,
   anyWorkingRead,
   interruptedIn,
   keptWorkingIn,
   scanRecords,
+  shellStartedIn,
   taskEndedIn,
-  taskStartedIn,
   taskStoppedIn,
   turnEnded,
   withNothingOpen,
@@ -110,18 +109,14 @@ test("a line that will not parse is stepped over", () => {
   expect(scanRecords(`${ENDED}\nba`, {}).answer?.stopReason).toBe("end_turn")
 })
 
-test("a background command and a subagent are told apart by what starts them", () => {
-  expect(taskStartedIn({ backgroundTaskId: "b4mfbpvps" })).toEqual({
-    id: "b4mfbpvps",
-    kind: "shell",
-  })
-  expect(taskStartedIn({ agentId: "a072", isAsync: true })).toEqual({ id: "a072", kind: "agent" })
+test("a background command starts the task the transcript names", () => {
+  expect(shellStartedIn({ backgroundTaskId: "b4mfbpvps" })).toBe("b4mfbpvps")
+  expect(shellStartedIn({ backgroundTaskId: "" })).toBeNull()
+  expect(shellStartedIn(null)).toBeNull()
 })
 
-test("a subagent that was awaited in the turn starts no task", () => {
-  expect(taskStartedIn({ agentId: "a072" })).toBeNull()
-  expect(taskStartedIn(null)).toBeNull()
-  expect(taskStartedIn({ backgroundTaskId: "" })).toBeNull()
+test("a subagent starts no task here, because a subagent's page is where it is declared", () => {
+  expect(shellStartedIn({ agentId: "a0720858045309f22", isAsync: true })).toBeNull()
 })
 
 test("a notification names the task the notification ends", () => {
@@ -131,33 +126,33 @@ test("a notification names the task the notification ends", () => {
 })
 
 test("a task started and never notified is still live", () => {
-  const found = scanRecords(`${SHELL_BEGAN}\n${AGENT_BEGAN}\n${ENDED}`, {})
+  const found = scanRecords(`${SHELL_BEGAN}\n${ENDED}`, {})
 
   expect(found.openShells).toEqual(["b4mfbpvps"])
-  expect(found.openAgents).toEqual(["a0720858045309f22"])
   expect(anyLiveShell(found)).toBe(true)
-  expect(anyLiveSubagent(found)).toBe(true)
 })
 
 test("a task the notification named is live no longer", () => {
-  const found = scanRecords(`${SHELL_BEGAN}\n${AGENT_BEGAN}\n${SHELL_DONE}\n${AGENT_DONE}`, {})
+  const found = scanRecords(`${SHELL_BEGAN}\n${SHELL_DONE}`, {})
 
   expect(found.openShells).toEqual([])
-  expect(found.openAgents).toEqual([])
 })
 
 test("a task carries over from the stretch read before it", () => {
-  const found = scanRecords(ENDED, { openAgents: ["a0720858045309f22"] })
+  const found = scanRecords(ENDED, { openShells: ["b4mfbpvps"] })
 
-  expect(found.openAgents).toEqual(["a0720858045309f22"])
-  expect(scanRecords(AGENT_DONE, { openAgents: ["a0720858045309f22"] }).openAgents).toEqual([])
+  expect(found.openShells).toEqual(["b4mfbpvps"])
+  expect(scanRecords(SHELL_DONE, { openShells: ["b4mfbpvps"] }).openShells).toEqual([])
 })
 
 test("a task started again after its notification is live again", () => {
-  const found = scanRecords(`${AGENT_BEGAN}\n${AGENT_DONE}\n${AGENT_BEGAN}`, {})
+  const found = scanRecords(`${SHELL_BEGAN}\n${SHELL_DONE}\n${SHELL_BEGAN}`, {})
 
-  expect(found.openAgents).toEqual(["a0720858045309f22"])
+  expect(found.openShells).toEqual(["b4mfbpvps"])
 })
+
+const SHELL_STOPPED =
+  '{"type":"user","toolUseResult":{"message":"Successfully stopped task: b4mfbpvps (Census)","task_id":"b4mfbpvps","task_type":"local_bash","command":"c"}}'
 
 const AGENT_STOPPED =
   '{"type":"user","toolUseResult":{"message":"Successfully stopped task: a0720858045309f22 (Census)","task_id":"a0720858045309f22","task_type":"local_agent","command":"c"}}'
@@ -169,10 +164,16 @@ test("a stop names the task the stop ends", () => {
 })
 
 test("a task the seat stopped is live no longer", () => {
-  const found = scanRecords(`${AGENT_BEGAN}\n${AGENT_STOPPED}`, {})
+  const found = scanRecords(`${SHELL_BEGAN}\n${SHELL_STOPPED}`, {})
 
-  expect(found.openAgents).toEqual([])
-  expect(anyLiveSubagent(found)).toBe(false)
+  expect(found.openShells).toEqual([])
+  expect(anyLiveShell(found)).toBe(false)
+})
+
+test("what a subagent writes into the transcript leaves the background commands alone", () => {
+  const found = scanRecords(`${SHELL_BEGAN}\n${AGENT_BEGAN}\n${AGENT_DONE}\n${AGENT_STOPPED}`, {})
+
+  expect(found.openShells).toEqual(["b4mfbpvps"])
 })
 
 test("a reading kept in a shape this does not know is unread", () => {
@@ -185,7 +186,11 @@ test("a reading kept in a shape this does not know is unread", () => {
     scannedTo: 12,
     openShells: ["b4"],
   })
-  expect(keptWorkingIn({ openAgents: ["a0", 7, ""] })).toEqual({ openAgents: ["a0"] })
+  expect(keptWorkingIn({ openShells: ["b4", 7, ""] })).toEqual({ openShells: ["b4"] })
+})
+
+test("a list of subagents a reading kept before this is passed over", () => {
+  expect(keptWorkingIn({ scannedTo: 12, openAgents: ["a0"] })).toEqual({ scannedTo: 12 })
 })
 
 test("a seat akasha holds nothing for is unread", () => {
@@ -193,22 +198,22 @@ test("a seat akasha holds nothing for is unread", () => {
 })
 
 test("a client spawned afresh runs no task the client before it started", () => {
-  expect(
-    withNothingOpen({ activeTurn: false, scannedTo: 90, openShells: ["b4"], openAgents: ["a0"] })
-  ).toEqual({ activeTurn: false, scannedTo: 90, openShells: [], openAgents: [] })
+  expect(withNothingOpen({ activeTurn: false, scannedTo: 90, openShells: ["b4"] })).toEqual({
+    activeTurn: false,
+    scannedTo: 90,
+    openShells: [],
+  })
 })
 
 test("the byte the transcript was read to survives the tasks going", () => {
-  expect(withNothingOpen({ scannedTo: 90, openAgents: ["a0"] }).scannedTo).toBe(90)
+  expect(withNothingOpen({ scannedTo: 90, openShells: ["b4"] }).scannedTo).toBe(90)
 })
 
 test("a reading with nothing open is left as the reading is", () => {
-  const was = { activeTurn: true, scannedTo: 4, openShells: [], openAgents: [] }
+  const was = { activeTurn: true, scannedTo: 4, openShells: [] }
   expect(withNothingOpen(was)).toEqual(was)
 })
 
 test("no task is live once the tasks have gone", () => {
-  const gone = withNothingOpen({ openShells: ["b4"], openAgents: ["a0"] })
-  expect(anyLiveShell(gone)).toBe(false)
-  expect(anyLiveSubagent(gone)).toBe(false)
+  expect(anyLiveShell(withNothingOpen({ openShells: ["b4"] }))).toBe(false)
 })

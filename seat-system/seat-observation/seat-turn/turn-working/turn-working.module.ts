@@ -6,7 +6,7 @@ export const turnWorking = {
   type: "module",
   slug: "turn-working",
   definition:
-    "what one read of a seat's transcript says about the turn and the tasks still running",
+    "what one read of a seat's transcript says about the turn and the commands still running",
   code: "ts",
   test: "ts",
   invariants: [
@@ -74,11 +74,15 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent starts a task the transcript names.",
+      statement: "A background command is the only task read here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No subagent is read out of a transcript here.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent awaited within the turn starting the subagent is no task.",
+      statement: "A subagent is read from the page put up for that subagent instead.",
     },
     {
       invariantKind: "departure",
