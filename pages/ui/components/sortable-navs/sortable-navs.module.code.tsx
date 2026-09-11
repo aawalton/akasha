@@ -15,6 +15,7 @@ import { navLinkClass } from "akasha/design/interfaces/layout/app-shell-sidebar/
 import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { tookHold } from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Popover,
@@ -159,9 +160,7 @@ export function SortableNavs({
   }, [activeId, updateDropZone])
 
   function handleDragStart(event: DragStartEvent) {
-    const id = String(event.active.id)
-    activeIdRef.current = id
-    setActiveId(id)
+    tookHold(event, activeIdRef, setActiveId)
   }
 
   function handleDragEnd(event: DragEndEvent) {

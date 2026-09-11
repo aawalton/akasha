@@ -3,6 +3,10 @@
 import type { DragStartEvent } from "@dnd-kit/core"
 import { KeyboardSensor, PointerSensor, useSensor, useSensors } from "@dnd-kit/core"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import {
+  letGo,
+  tookHold,
+} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { pageDayKey } from "akasha/pages/core/view/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import {
@@ -80,9 +84,7 @@ export function usePageCalendarState({
   }, [activeId, updateDropTarget])
 
   function handleDragStart(event: DragStartEvent) {
-    const id = String(event.active.id)
-    activeIdRef.current = id
-    setActiveId(id)
+    tookHold(event, activeIdRef, setActiveId)
   }
 
   function handleDragEnd() {
@@ -97,9 +99,7 @@ export function usePageCalendarState({
   }
 
   function handleDragCancel() {
-    activeIdRef.current = null
-    setActiveId(null)
-    setDropTargetDay(null)
+    letGo(activeIdRef, setActiveId, setDropTargetDay)
   }
 
   return {

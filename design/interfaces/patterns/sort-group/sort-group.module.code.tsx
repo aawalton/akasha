@@ -13,6 +13,10 @@ import type { SyntheticListenerMap } from "@dnd-kit/core/dist/hooks/utilities"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import {
+  letGo,
+  tookHold,
+} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
+import {
   applySortDrop,
   computeSortDropZone,
   type SortDropZone,
@@ -191,9 +195,7 @@ export function SortableSortList({ rows, onReorder }: SortableSortListProps) {
   }, [activeId, updateDropZone])
 
   function handleDragStart(event: DragStartEvent) {
-    const id = String(event.active.id)
-    activeIdRef.current = id
-    setActiveId(id)
+    tookHold(event, activeIdRef, setActiveId)
   }
 
   function handleDragEnd(event: DragEndEvent) {
@@ -207,9 +209,7 @@ export function SortableSortList({ rows, onReorder }: SortableSortListProps) {
   }
 
   function handleDragCancel() {
-    activeIdRef.current = null
-    setActiveId(null)
-    setDropZone(null)
+    letGo(activeIdRef, setActiveId, setDropZone)
   }
 
   const activeRow = activeId !== null ? rows.find((r) => r.id === activeId) : undefined

@@ -11,6 +11,10 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext } from "@dnd-kit/sortable"
+import {
+  letGo,
+  tookHold,
+} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
 import { FilterTextField } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
@@ -209,9 +213,7 @@ export function PropertyVisibilityPicker({
   }, [activeId, updateDropZone])
 
   function handleDragStart(event: DragStartEvent) {
-    const id = String(event.active.id)
-    activeIdRef.current = id
-    setActiveId(id)
+    tookHold(event, activeIdRef, setActiveId)
   }
 
   function handleDragEnd(event: DragEndEvent) {
@@ -228,9 +230,7 @@ export function PropertyVisibilityPicker({
   }
 
   function handleDragCancel() {
-    activeIdRef.current = null
-    setActiveId(null)
-    setDropZone(null)
+    letGo(activeIdRef, setActiveId, setDropZone)
   }
 
   const activeOption =

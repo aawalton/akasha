@@ -13,6 +13,10 @@ import {
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button/load-more-button.module.code.tsx"
+import {
+  letGo,
+  tookHold,
+} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
@@ -106,9 +110,7 @@ export function PageBoard({
   }, [activeId, updateDropTarget])
 
   function handleDragStart(event: DragStartEvent) {
-    const id = String(event.active.id)
-    activeIdRef.current = id
-    setActiveId(id)
+    tookHold(event, activeIdRef, setActiveId)
   }
 
   function handleDragEnd() {
@@ -123,9 +125,7 @@ export function PageBoard({
   }
 
   function handleDragCancel() {
-    activeIdRef.current = null
-    setActiveId(null)
-    setDropTargetKey(null)
+    letGo(activeIdRef, setActiveId, setDropTargetKey)
   }
 
   const activeItem =

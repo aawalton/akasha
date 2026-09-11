@@ -18,6 +18,7 @@ export const designPatterns = {
     "module/chip",
     "module/chip-list",
     "module/collapsible-group-section",
+    "module/drag-hold",
     "module/empty",
     "module/filter-button",
     "module/filter-group",
