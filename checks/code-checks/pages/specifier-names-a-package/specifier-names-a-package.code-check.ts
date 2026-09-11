@@ -92,7 +92,7 @@ export const specifierNamesAPackage = {
     },
     {
       invariantKind: "gap",
-      statement: "A specifier spelled with an escape is not found by the scan deciding to parse.",
+      statement: "A specifier spelled with an escape is found by the scan deciding to parse.",
     },
   ],
   check: { maxCpuSeconds: 10 },
