@@ -34,7 +34,7 @@ export const theaChecksSystem = {
       statement:
         "The index reconcile runs as an audit, so a skew between index and pages is found.",
       workingMemory:
-        "`akasha index refresh --dry-run` already reconciles and reports drift: 49.4s of processor time over 70,344 pages and 660,612 entries. Read in place it is no check. Every drift today is a live subagent page or seat edits file arriving while it runs, and the two aggregate listings move with them, so it would refuse hourly on churn that heals in seconds. refreshedFrom takes the index root, so the audit builds a scratch index and diffs the two, dropping whatever names an uncommitted file.",
+        "`akasha index refresh --dry-run` already reconciles and reports drift over 70,344 pages and 660,612 entries in 49.4s of processor time. index-is-level-with-the-pages runs that reconcile with nothing written and judges what it would have written. A scratch index to diff against would write those entries twice, so the drift is read in place and every entry naming an uncommitted file is judged by nothing, which is where all the churn measured lives. Left: a round proving it runs clean.",
     },
   ],
   constraints: [
