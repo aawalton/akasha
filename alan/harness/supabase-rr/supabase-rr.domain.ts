@@ -10,6 +10,7 @@ export const supabaseRr = {
   parts: [
     "module/auth-mode",
     "module/cookie-options",
+    "module/request-context",
     "module/request-memo",
     "module/session-cookie",
     "module/effective-auth",
