@@ -11,6 +11,7 @@ import {
   type Sleeper,
   sleep,
 } from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export async function askComposed(
   query: ComposedQuery,
@@ -99,11 +100,6 @@ export type Given = Readonly<Record<string, string | readonly string[]>>
 const PAGE_TYPE = "page-type"
 
 const PROPERTY_TAIL = "-property"
-
-function textAt(values: Flat, key: string): string | null {
-  const held = values[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
 
 async function rowsOf(
   query: ComposedQuery,
