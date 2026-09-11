@@ -154,4 +154,5 @@ export const alanWeb = {
     "module/widget-tap-answering",
     "app-routes/alan-web-routes",
   ],
+  toolReached: ["react-dom"],
 } as const satisfies RouterApp
