@@ -17,7 +17,8 @@ export const supervisorConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The repository root is read from the checkout rather than from the environment.",
+      statement:
+        "The repository root is the one the environment names, and the checkout only where none is named.",
     },
   ],
 } as const satisfies Module
