@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { SEAT_MODE_INTERACTIVE } from "../../seat-launching/seat-launching.module.code.ts"
+import { SEAT_MODE_INTERACTIVE } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
   INTERACTIVE_PRINCIPAL,
   payloadEscapeLines,
@@ -7,7 +7,7 @@ import {
   SEAT_COMMAND_REL,
   spelledSeatNameLines,
   stateSeatFromRowLines,
-} from "./terminal-seat-stating.module.code.ts"
+} from "akasha/seat-system/terminal-shell/terminal-seat-stating/terminal-seat-stating.module.code.ts"
 
 async function parses(text: string): Promise<number> {
   const ran = Bun.spawn({

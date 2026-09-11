@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decidePreCliffRestart,
   type PreCliffObservation,
-} from "./supervisor-precliff-restart-decide.module.code.ts"
+} from "akasha/seat-system/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 
 const OLD: PreCliffObservation = {
   childAgeMs: 10_000,

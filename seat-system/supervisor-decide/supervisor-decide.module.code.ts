@@ -1,3 +1,6 @@
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
+import { notices } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
+import { decideClaimedRedelivery } from "akasha/seat-system/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import {
   readPayload,
   record,
@@ -29,9 +32,6 @@ import {
   decideWaitResume,
   type WaitResumeDecision,
 } from "akasha/seat-system/supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
-import { fail } from "../command-failing/command-failing.module.code.ts"
-import { notices } from "../compose-notices/compose-notices.module.code.ts"
-import { decideClaimedRedelivery } from "../messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"

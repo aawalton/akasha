@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { withTimeout } from "./supervisor-iteration-outcome-db.module.code.ts"
+import { withTimeout } from "akasha/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.code.ts"
 
 test("a call that answers inside the wait answers with its own value", async () => {
   expect(await withTimeout(Promise.resolve(7), "counting")).toBe(7)

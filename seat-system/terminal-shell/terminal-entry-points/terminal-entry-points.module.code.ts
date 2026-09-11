@@ -5,7 +5,7 @@ import {
   ptyProxyRel,
   seatResumeRel,
   supervisorRel,
-} from "../../seat-entry-paths/seat-entry-paths.module.code.ts"
+} from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
 
 export const ROOT = "${AKASHA_ROOT:-$HOME/repos/akasha}"
 

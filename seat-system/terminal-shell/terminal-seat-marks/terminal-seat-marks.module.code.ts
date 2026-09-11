@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { TERMINAL_PAGES_DIR } from "../terminal-ended/terminal-ended.module.code.ts"
+import { TERMINAL_PAGES_DIR } from "akasha/seat-system/terminal-shell/terminal-ended/terminal-ended.module.code.ts"
 
 export const SEAT_ATTACH_FN = "__editor_terminal_seat_attach"
 

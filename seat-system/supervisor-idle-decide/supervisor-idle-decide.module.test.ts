@@ -6,7 +6,7 @@ import {
   isIdleForPreservingRestartPastCliff,
   isIgnoredMcpChildCmdline,
   preservingRestartBusyReason,
-} from "./supervisor-idle-decide.module.code.ts"
+} from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 
 const QUIET: IdleObservation = {
   inFlight: 0,

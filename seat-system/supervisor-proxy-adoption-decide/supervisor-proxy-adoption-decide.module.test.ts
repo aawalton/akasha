@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decideProxyAdoption,
   type ProxyAdoptionInput,
-} from "./supervisor-proxy-adoption-decide.module.code.ts"
+} from "akasha/seat-system/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
 
 const MATCHED: ProxyAdoptionInput = { hasLiveProxy: true, versionMatches: true, healthy: true }
 

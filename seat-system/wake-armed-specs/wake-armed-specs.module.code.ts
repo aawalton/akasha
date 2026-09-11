@@ -1,11 +1,11 @@
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import type { Shape } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
-import { handlerSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import { handlerSeatName } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import type {
   CommsRule,
   OnDemandAgentSpec,
   StateAuthorityKind,
-} from "../recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
+} from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import type { Shape } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
 export const AGENT_SENDER_PREFIX = "agent:"
 

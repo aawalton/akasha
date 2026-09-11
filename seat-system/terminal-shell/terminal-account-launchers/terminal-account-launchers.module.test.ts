@@ -1,6 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { parses } from "../terminal-bash/terminal-bash.module.test-fixtures.ts"
-import { claudeNewAccountFn, supervisorFn } from "./terminal-account-launchers.module.code.ts"
+import {
+  claudeNewAccountFn,
+  supervisorFn,
+} from "akasha/seat-system/terminal-shell/terminal-account-launchers/terminal-account-launchers.module.code.ts"
+import { parses } from "akasha/seat-system/terminal-shell/terminal-bash/terminal-bash.module.test-fixtures.ts"
 
 describe("a client opened on one account", () => {
   const said = supervisorFn("c1", " -a aawalton")

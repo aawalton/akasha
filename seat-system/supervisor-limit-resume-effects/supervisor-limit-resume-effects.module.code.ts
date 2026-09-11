@@ -1,5 +1,5 @@
+import { answer } from "akasha/seat-system/supervisor-decide/supervisor-decide.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { answer } from "../supervisor-decide/supervisor-decide.module.code.ts"
 
 export function classifyRateLimitDeath(text: string): boolean {
   let lastAssistant: Record<string, unknown> | null = null

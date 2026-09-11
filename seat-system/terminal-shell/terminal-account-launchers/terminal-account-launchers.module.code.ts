@@ -3,8 +3,8 @@ import {
   proxy,
   ROOT_LOCAL,
   supervisor,
-} from "../terminal-entry-points/terminal-entry-points.module.code.ts"
-import { implName } from "../terminal-reload/terminal-reload.module.code.ts"
+} from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
+import { implName } from "akasha/seat-system/terminal-shell/terminal-reload/terminal-reload.module.code.ts"
 
 export function supervisorFn(name: string, flags: string): string {
   const cmd = `bun run ${proxy()} -- bun run ${supervisor()}${flags}`

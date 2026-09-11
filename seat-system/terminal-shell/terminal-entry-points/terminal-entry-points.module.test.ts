@@ -3,7 +3,7 @@ import {
   ptyProxyRel,
   seatResumeRel,
   supervisorRel,
-} from "../../seat-entry-paths/seat-entry-paths.module.code.ts"
+} from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   akashaCommand,
   proxy,
@@ -12,7 +12,7 @@ import {
   SEAT_START_DIR,
   seatResume,
   supervisor,
-} from "./terminal-entry-points.module.code.ts"
+} from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
 
 describe("the checkout", () => {
   test("is whatever the environment names, falling back to the one at home", () => {

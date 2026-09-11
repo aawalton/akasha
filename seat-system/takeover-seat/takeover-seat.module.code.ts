@@ -2,15 +2,15 @@ import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { decideKillTarget } from "akasha/seat-system/kill-target-plan/kill-target-plan.module.code.ts"
+import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
+import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code.ts"
+import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { liveAgentPidsFromProc } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import { resolveSessionIdByAgentId } from "akasha/seat-system/seat-session-resolve/seat-session-resolve.module.code.ts"
+import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { materializeLocalTranscript } from "akasha/seat-system/transcript-materialize/transcript-materialize.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
-import { decideKillTarget } from "../kill-target-plan/kill-target-plan.module.code.ts"
-import { scanProcEntries } from "../proc-scan/proc-scan.module.code.ts"
-import { seatRecord } from "../seat-facts/seat-facts.module.code.ts"
-import { resolveSeatTarget } from "../seat-handle/seat-handle.module.code.ts"
-import { liveAgentPidsFromProc } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
-import { resolveSessionIdByAgentId } from "../seat-session-resolve/seat-session-resolve.module.code.ts"
-import { SEAT_START_DIR } from "../supervising/supervisor-config/supervisor-config.module.code.ts"
-import { materializeLocalTranscript } from "../transcript-materialize/transcript-materialize.module.code.ts"
 
 export interface TakenSeat {
   readonly agentId: string

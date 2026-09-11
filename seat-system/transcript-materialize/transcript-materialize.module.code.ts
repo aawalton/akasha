@@ -1,14 +1,14 @@
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/seaweedfs-config/seaweedfs-config.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { sanitizeTranscriptForResume } from "../session-jsonl/session-jsonl.module.code.ts"
+import { sanitizeTranscriptForResume } from "akasha/seat-system/session-jsonl/session-jsonl.module.code.ts"
 import {
   getDefaultObjectStore,
   readSessionObject,
   sessionObjectKeyFor,
-} from "../session-stream/session-stream.module.code.ts"
-import { sessionProjectDir } from "../supervising/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+} from "akasha/seat-system/session-stream/session-stream.module.code.ts"
+import { sessionProjectDir } from "akasha/seat-system/supervising/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const SessionIdLine = shape.looseObject({ sessionId: shape.string().optional() })
 
