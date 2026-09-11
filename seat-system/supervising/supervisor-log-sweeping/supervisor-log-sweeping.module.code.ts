@@ -58,7 +58,7 @@ function gigabytes(bytes: number): string {
   return `${(bytes / 1024 ** 3).toFixed(2)} GB`
 }
 
-function main(argv: readonly string[]): number {
+export function sweepSupervisorLogs(argv: readonly string[]): number {
   const keepDays = keepDaysFrom(argv)
   if (keepDays === null) {
     process.stderr.write("--keep-days takes a count of days, zero or more\n")
@@ -139,4 +139,4 @@ function main(argv: readonly string[]): number {
   return held.length === 0 && unread.length === 0 ? 0 : 1
 }
 
-if (import.meta.main) process.exit(main(process.argv.slice(2)))
+if (import.meta.main) process.exit(sweepSupervisorLogs(process.argv.slice(2)))
