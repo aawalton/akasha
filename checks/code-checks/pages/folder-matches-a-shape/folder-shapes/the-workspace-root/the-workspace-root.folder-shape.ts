@@ -32,12 +32,8 @@ export const theWorkspaceRoot = {
       statement: "No file sitting in the root is allowed yet.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "departure",
       statement: "The folders the root may have are named one at a time rather than by a rule.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A rule says which folders the root may hold.",
     },
   ],
 } as const satisfies FolderShape
