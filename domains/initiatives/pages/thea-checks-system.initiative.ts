@@ -31,7 +31,7 @@ export const theaChecksSystem = {
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
       workingMemory:
-        "Verified 2026-09-10. The four NEXT_PUBLIC inlines in supabaseClientEnvDefine are dead in first-party code and in node_modules, against a control finding 23 live import.meta.env.VITE_* reads; every supplier sets both spellings. The throw is not dead: it is the only build-time check that five of six builds have their Supabase settings, and catches that only because both spellings travel together. web-capacitor guards the VITE names at stage-app 25-30. Re-point the throw rather than drop it.",
+        "Met. No client bundle reads any NEXT_PUBLIC_* key. Every literal process.env.NEXT_PUBLIC_* read left is server-side: both pmtiles reads sit inside loaders, and the build sha is read by five api-live-version routes. node_modules holds none, and no import.meta.env.NEXT_PUBLIC or bracketed spelling exists anywhere. Control: 23 live import.meta.env.VITE_* reads. a67d239f234 re-pointed the guard onto the VITE names, 4f084ddedb dropped the four dead defines. No vite build was run by anyone.",
     },
     {
       statement: "A check looks for unused code and passes.",
