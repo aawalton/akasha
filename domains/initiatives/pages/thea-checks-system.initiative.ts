@@ -11,12 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "An audit over 53 checks and 124571 files reads 395 refusals, and no-rule-in-two-files accounts for all but about five. Seven further checks judge nothing at all, so they are unmeasured rather than green. It groups by body, and 565c1908676 has ruleOf canonicalise destructured names too, but never bare shorthand, which names the property read, nor the return type. Two thirds are lone pairs. An absence leaves both files refused, so narrowing it to honour one is Alan's.",
-    },
-    {
-      statement: "Every runtime helper the Lua compiler has is a page.",
-      workingMemory:
-        "lualib/src is gone: 135 pages, 135 features, all 51 files moved in 13 commits on 09-10. Those broke the Lua 5.0 bundle, which 0dbb243e460 mends: a 5.0 build resolves an import of a twin page's code to that page's lua50-code, derived from the pages. Nine targets build where eight did, the eight byte-identical, 5.0 proved by `local function __TS__Unpack(list, i, j)` rather than by no error. No test anywhere calls buildLuaLib, so 13 commits landed green over a broken build.",
+        "An audit over 53 checks and 124573 files read 379 refusals; 2742650427a then closed the last import cycle, so no-rule-in-two-files is the only check refusing, and it answers 375 over 309 files in 158 families, 129 of them lone pairs. The seven checks judging nothing are deliberate parks with page sanction: five experimental, one silent till its migration lands, one a model check at zero runs. Narrowing it to honour an absence is Alan's.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
@@ -31,7 +26,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "16 findings sit in the checks subtree, not 31, out of 262; all 19 parts of check.domain.ts were walked, so that is the whole set. Three were parked behind a bar that is not there: Alan Approves Checks says widening an approved check needs none. Five have had their mechanism carried onto a page already, and the shortfall left on each may not be moved without breaching intent 8. an-install-that-never-prunes is live: 41 files, 8 dead names, 9 broken now.",
+        "16 findings sit in the checks subtree, not 31; all 19 parts of check.domain.ts were walked, so that is the whole set. Three were parked behind a bar that is not there: Alan Approves Checks says widening an approved check needs none. Five have had their mechanism carried onto a page, and each shortfall left may not move without breaching intent 8. an-install-that-never-prunes claims 41 importing files; a parse-position scan over 123907 tracked files finds none, so that half of it is false.",
     },
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
