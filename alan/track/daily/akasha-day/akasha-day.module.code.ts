@@ -114,7 +114,7 @@ export async function landAkashaDayPage(
   const whole = {
     ...(standing?.value ?? {}),
     ...camelised(values),
-    pageTypeSlug: AKASHA_DAY_PAGE_TYPE,
+    type: AKASHA_DAY_PAGE_TYPE,
     slug,
   }
   const composed = composedFor(root, { pageTypeSlug: AKASHA_DAY_PAGE_TYPE, slug, values: whole })
@@ -166,7 +166,7 @@ export async function landAkashaRow(
       values: {
         ...standing.value,
         [key]: ENTRY_EXTENSION,
-        pageTypeSlug: AKASHA_DAY_PAGE_TYPE,
+        type: AKASHA_DAY_PAGE_TYPE,
         slug,
       },
     })

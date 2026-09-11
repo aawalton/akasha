@@ -26,7 +26,7 @@ const carried = (key: string, name: string, onEveryDay = false): DayField => ({
 
 export const DAY_FIELDS: readonly DayField[] = [
   { key: "id", name: "id", turn: "identity", onEveryDay: true },
-  { key: "page-type-slug", name: "pageTypeSlug", turn: "page-type", onEveryDay: true },
+  { key: "page-type-slug", name: "type", turn: "page-type", onEveryDay: true },
   { key: "slug", name: "slug", turn: "day-slug", onEveryDay: false },
   carried("title", "title", true),
   carried("date", "date", true),

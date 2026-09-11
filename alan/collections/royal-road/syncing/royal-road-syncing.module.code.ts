@@ -190,7 +190,7 @@ export function filedChapter(
     : stem
   taken.add(slug)
   const values: Value = {
-    pageTypeSlug: CHAPTER_PAGE_TYPE,
+    type: CHAPTER_PAGE_TYPE,
     slug,
     title: chapter.title,
     [STORY]: `${OPENS_WITH}${story.slug}`,
