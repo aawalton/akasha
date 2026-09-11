@@ -145,5 +145,30 @@ export const propertyCarrying = {
       invariantKind: "departure",
       statement: "Only a property naming a file says a tool resolves the paths in that file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A file a module property group writes is generated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The property names the group rather than the group naming the property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carries a group where that group's code sits beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether that code sits beside a page is read from the index rather than from the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page without that code holds a file that is not generated.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing judges that a group's code writes the file the property names.",
+    },
   ],
 } as const satisfies Module
