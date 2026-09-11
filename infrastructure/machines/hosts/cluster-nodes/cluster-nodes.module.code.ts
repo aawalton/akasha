@@ -1,11 +1,11 @@
 #!/usr/bin/env bun
 
-import { node01 } from "akasha/machines/hosts/pages/node-01.host.ts"
-import { node02 } from "akasha/machines/hosts/pages/node-02.host.ts"
-import { node03 } from "akasha/machines/hosts/pages/node-03.host.ts"
-import { node04 } from "akasha/machines/hosts/pages/node-04.host.ts"
-import { node05 } from "akasha/machines/hosts/pages/node-05.host.ts"
-import { node06 } from "akasha/machines/hosts/pages/node-06.host.ts"
+import { node01 } from "akasha/infrastructure/machines/hosts/pages/node-01.host.ts"
+import { node02 } from "akasha/infrastructure/machines/hosts/pages/node-02.host.ts"
+import { node03 } from "akasha/infrastructure/machines/hosts/pages/node-03.host.ts"
+import { node04 } from "akasha/infrastructure/machines/hosts/pages/node-04.host.ts"
+import { node05 } from "akasha/infrastructure/machines/hosts/pages/node-05.host.ts"
+import { node06 } from "akasha/infrastructure/machines/hosts/pages/node-06.host.ts"
 
 export type ClusterNode = {
   slug: string

@@ -1,4 +1,4 @@
-import type { Host } from "akasha/machines/hosts/host.page-type.types.ts"
+import type { Host } from "akasha/infrastructure/machines/hosts/host.page-type.types.ts"
 
 export const node01 = {
   id: "01a06590-e94f-7936-a87c-f8d006e7f8a8",
