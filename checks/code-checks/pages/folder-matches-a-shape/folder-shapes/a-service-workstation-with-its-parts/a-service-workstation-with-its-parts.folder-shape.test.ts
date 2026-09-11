@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import { aWorkstationServiceWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts"
+import { aServiceWorkstationWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-service-workstation-with-its-parts/a-service-workstation-with-its-parts.folder-shape.code.ts"
 
-const FOLDER = "akasha/pages/service/workstation-services"
+const FOLDER = "akasha/pages/service/service-workstations"
 
 const PAGE_TYPES = new Set<string>(["service-workstation", "module"])
 
@@ -10,10 +10,10 @@ const ONE = ["pages-service.service-workstation.ts"]
 
 function judged(names: readonly string[], deep: readonly string[] = []): readonly string[] {
   const made = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES, deep })
-  return aWorkstationServiceWithItsParts(made(names))
+  return aServiceWorkstationWithItsParts(made(names))
 }
 
-test("a folder named workstation-services holding one service takes the shape", () => {
+test("a folder named service-workstations holding one service takes the shape", () => {
   expect(judged(ONE)).toEqual([])
 })
 

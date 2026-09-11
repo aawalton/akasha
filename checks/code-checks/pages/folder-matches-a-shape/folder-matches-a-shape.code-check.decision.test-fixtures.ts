@@ -1,4 +1,4 @@
-import { HOLDS as HELD_BY_A_WORKSTATION_SERVICE } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts"
+import { HOLDS as HELD_BY_A_WORKSTATION_SERVICE } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-service-workstation-with-its-parts/a-service-workstation-with-its-parts.folder-shape.code.ts"
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 import { HOLDS as HELD_BY_MODULES_ONLY } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/modules-only/modules-only.folder-shape.code.ts"
 import { HOLDS as HELD_BY_PAGES_OF_THE_TYPE_ABOVE } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-the-type-above/pages-of-the-type-above.folder-shape.code.ts"

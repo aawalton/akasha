@@ -1,11 +1,11 @@
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
 
-export const HOLDS = ["workstation-services"]
+export const HOLDS = ["service-workstations"]
 
 const SERVICE = "service-workstation"
 
-export function aWorkstationServiceWithItsParts(standing: Standing): readonly string[] {
+export function aServiceWorkstationWithItsParts(standing: Standing): readonly string[] {
   const page = standing.pages[0]
   if (page === undefined) return ["it holds no page of its own"]
   if (standing.pages.length > 1) {
