@@ -35,9 +35,32 @@ function naming(seed: string, slug: string, named: readonly string[]): string {
   })
 }
 
+function idless(slug: string, named: readonly string[]): string {
+  return pageOf({
+    pageTypeSlug: "module",
+    slug,
+    definition: "a page naming other pages",
+    code: "ts",
+    partSlugs: named,
+  })
+}
+
 function judged(root: string, said: Answer): Answer {
   return guardedBy(worldAt(root, textIn(root)), said, GUARDS)
 }
+
+test("a page stating no id is judged here, where the relation filing refuses nothing for it", () => {
+  const root = indexedRepo()
+
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: AT, content: idless("fresh", ["module/gone"]) }])
+  )
+
+  expect(said.refused).toBe(
+    `\`${AT}\` states \`part-slugs\`, and no \`module\` carries the slug \`gone\``
+  )
+})
 
 test("a page naming a page that reaches nothing is refused", () => {
   const root = indexedRepo()

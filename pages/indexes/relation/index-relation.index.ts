@@ -33,6 +33,14 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
+      statement: "A name held as a page's identity refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no `id` refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The identity index files a page's identity.",
     },
     {
