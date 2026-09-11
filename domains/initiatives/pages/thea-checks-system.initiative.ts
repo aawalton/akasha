@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files is 815 over 403 distinct names, a long tail rather than one fault: 618 code, 161 test, 36 fixtures, and temper alone 251. loader is 25, six web apps copying route handlers. check-reaches-a-path-through-the-index is 97, recorded as zero before and never measured, and the two files read want fictional fixture paths rather than index reads. The addon typecheck fixture is mended, so the 63-file saidBy collapse can run.",
+        "no-rule-in-two-files is 852, not 815: 624 pairs share a name and 228 have drifted apart, since the check pairs rule bodies rather than names, so escapeRe and escapeRegex are one rule and real. temper 251, alan 111, checks 92, changes 55, pages 54, seat-system 46, commands 45, agents 33, tail 127. Six agents hold disjoint slices. check-reaches-a-path-through-the-index is Nimue's work and now experimental.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",

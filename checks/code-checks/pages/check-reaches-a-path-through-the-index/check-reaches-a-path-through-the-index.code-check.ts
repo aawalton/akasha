@@ -10,6 +10,7 @@ export const checkReachesAPathThroughTheIndex = {
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,
+  experimental: true,
   invariants: [
     {
       invariantKind: "departure",
