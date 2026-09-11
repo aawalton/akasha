@@ -1,17 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, realpathSync } from "node:fs"
 import { join } from "node:path"
-import type { Ran } from "akasha/code-system/code-tests/code-tests.module.code.ts"
-import { repoAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { typingUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
-import {
-  change,
-  gone,
-  landing,
-  proposing,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   failedIn,
   linksIn,
@@ -21,7 +10,7 @@ import {
   refusedOf,
   saidOf,
   spentlyOf,
-} from "./tests-pass.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.code.ts"
 import {
   AUTHORED_CHATTY_CLEAN,
   AUTHORED_CHATTY_PASSED,
@@ -46,7 +35,18 @@ import {
   TYPE_WAS,
   withGuard,
   withoutGuard,
-} from "./tests-pass.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
+import {
+  change,
+  gone,
+  landing,
+  proposing,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Ran } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import { repoAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { typingUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 
 afterAll(scratch.sweep)
 

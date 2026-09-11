@@ -1,4 +1,6 @@
 import { basename, dirname, join, relative } from "node:path"
+import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Ran, Spent } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 import {
   alreadyRunning,
@@ -20,8 +22,6 @@ import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { bodiesFrom } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/running/running.module.code.ts"
-import { textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 export function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {

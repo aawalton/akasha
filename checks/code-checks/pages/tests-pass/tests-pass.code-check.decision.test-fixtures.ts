@@ -1,11 +1,11 @@
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { RUNNING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   noPathsFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

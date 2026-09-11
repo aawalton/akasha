@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { testsPass } from "./tests-pass.code-check.audit.code.ts"
+import { testsPass } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.audit.code.ts"
 import {
   CODE_AT,
   FAILS,
@@ -9,7 +8,8 @@ import {
   scratch,
   TEST_AT,
   withoutGuard,
-} from "./tests-pass.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

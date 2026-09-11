@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { testsPass } from "./tests-pass.code-check.check.code.ts"
+import { testsPass } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.check.code.ts"
 import {
   FAILS,
   PASSES,
   repo,
   scratch,
   withoutGuard,
-} from "./tests-pass.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
