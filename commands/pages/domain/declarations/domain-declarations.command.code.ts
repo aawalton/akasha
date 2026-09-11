@@ -5,6 +5,7 @@ import {
   declarationLines,
   SUBJECTS,
 } from "akasha/commands/pages/domain/dag/domain-drawing/domain-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const SUBJECT = "--subject"
 
@@ -15,7 +16,7 @@ export type Read =
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
   const subjects: string[] = []
-  const named = SUBJECTS.map((each) => `\`${each}\``).join(", ")
+  const named = namesDrawn(SUBJECTS)
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
     if (one === undefined) continue
