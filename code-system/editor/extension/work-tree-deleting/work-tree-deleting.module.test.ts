@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
-import { PUT_BACK } from "../../../../commands/modules/change-freshness/change-freshness.module.code.ts"
-import { LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
+import { LANDING_TIMEOUT_MS } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,
@@ -12,7 +11,8 @@ import {
   intentFailureSaid,
   intentGoneOf,
   type WorkDeleteWatch,
-} from "./work-tree-deleting.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-deleting/work-tree-deleting.module.code.ts"
+import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 
 function rowOf(kind: WorkTreeRow["kind"], key: string, label: string): WorkTreeRow {
   return { kind, key, label, at: null, color: null, detail: null, note: null, children: [] }

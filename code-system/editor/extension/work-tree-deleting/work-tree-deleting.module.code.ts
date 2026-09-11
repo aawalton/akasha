@@ -1,5 +1,11 @@
-import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
-import { keyedAs, movedUnderfoot } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
+import {
+  callHarness,
+  LANDING_TIMEOUT_MS,
+} from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import {
+  keyedAs,
+  movedUnderfoot,
+} from "akasha/code-system/editor/extension/work-tree-dragging/work-tree-dragging.module.code.ts"
 
 const INTENT_MODULE = "initiative-delete-intent"
 
