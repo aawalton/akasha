@@ -2,7 +2,6 @@ import type { IdlePersonaCard } from "akasha/alan/harness/idle-system/idle-perso
 
 export const ruby5a895ca7 = {
   id: "01a0659f-c5ba-7011-9caf-8e5094fef0dd",
-  pageTypeSlug: "idle-persona-card",
   type: "idle-persona-card",
   slug: "ruby-5a895ca7",
   title: "Ruby",
