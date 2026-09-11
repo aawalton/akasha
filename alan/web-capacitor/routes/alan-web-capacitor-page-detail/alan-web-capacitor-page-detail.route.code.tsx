@@ -9,6 +9,7 @@ import { ReaderNarrationDetail } from "@akasha/alanwalton-web/reader-narration-d
 import { useIsOnline } from "@akasha/alanwalton-web/use-is-online"
 import { useMediaVariants } from "@akasha/alanwalton-web/use-media-variants"
 import { useNextUnreadHref } from "@akasha/alanwalton-web/use-next-unread"
+import { NotFoundNotice } from "akasha/alan/web-capacitor/not-found-notice/not-found-notice.module.code.tsx"
 import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { getPageDisplay } from "akasha/pages/ui/capabilities/page-display-registry/page-display-registry.module.code.ts"
@@ -20,7 +21,6 @@ import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.m
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
-import { NotFoundNotice } from "../../not-found-notice/not-found-notice.module.code.tsx"
 
 const NAV_SLUG = "nav"
 

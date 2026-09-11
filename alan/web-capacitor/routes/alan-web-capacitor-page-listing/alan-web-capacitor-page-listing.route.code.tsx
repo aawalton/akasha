@@ -1,11 +1,11 @@
 "use client"
 
+import { NotFoundNotice } from "akasha/alan/web-capacitor/not-found-notice/not-found-notice.module.code.tsx"
 import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 import { useParams, useSearchParams } from "react-router"
-import { NotFoundNotice } from "../../not-found-notice/not-found-notice.module.code.tsx"
 
 const PAGE_TYPE_SLUG = "page-type"
 
