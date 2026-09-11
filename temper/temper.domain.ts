@@ -161,6 +161,7 @@ export const temper = {
     "eso-addon/temper-catalog-addon",
     "domain/temper-addon-color",
     "domain/temper-ui-reload",
+    "domain/temper-chat-entry",
     "router-app/temper-web",
   ],
   invariants: [

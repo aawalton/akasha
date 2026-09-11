@@ -1,3 +1,4 @@
+import { insertChatText } from "akasha/temper/chat-entry/chat-entry-text/chat-entry-text.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -15,14 +16,6 @@ import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks
 
 function asObject(value: unknown): object {
   return value as object
-}
-
-function myPrint(text: string): undefined {
-  const chatEditControl = CHAT_SYSTEM.textEntry.editControl
-  if (!chatEditControl.HasFocus()) {
-    StartChatInput()
-  }
-  chatEditControl.InsertText(text)
 }
 
 export function createEideticLorebookLocation(): undefined {
@@ -178,7 +171,7 @@ export function createEideticLorebookLocation(): undefined {
       )
     }
   }
-  myPrint(outText)
+  insertChatText(outText)
 }
 
 export function createFakeEideticLorebookLocation(): undefined {
@@ -220,7 +213,7 @@ export function createFakeEideticLorebookLocation(): undefined {
     bookName,
     zone
   )
-  myPrint(outText)
+  insertChatText(outText)
 }
 
 export function createFakeLorebookPin(): undefined {
@@ -239,7 +232,7 @@ export function createFakeLorebookPin(): undefined {
     bookName,
     zone
   )
-  myPrint(outText)
+  insertChatText(outText)
 }
 
 function isEmptyOrNil(t: unknown): boolean {

@@ -1,3 +1,4 @@
+import { insertChatText } from "akasha/temper/chat-entry/chat-entry-text/chat-entry-text.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { dm } from "akasha/temper/navigation-addon/destinations-logger/destinations-logger.module.code.ts"
 import {
@@ -16,14 +17,6 @@ function asPoiCaptureTable(value: unknown): PoiCaptureTable {
   return value as PoiCaptureTable
 }
 
-function chatPrint(text: string): undefined {
-  const chatEditControl = CHAT_SYSTEM.textEntry.editControl
-  if (!chatEditControl.HasFocus()) {
-    StartChatInput()
-  }
-  chatEditControl.InsertText(text)
-}
-
 function showMyPosition(this: void): undefined {
   const [x, y] = GetMapPlayerPosition("player")
   const xs = '"X"'
@@ -34,7 +27,7 @@ function showMyPosition(this: void): undefined {
     xs,
     LibMapData.mapTexture
   )
-  chatPrint(locationString)
+  insertChatText(locationString)
 }
 SLASH_COMMANDS["/fishloc"] = showMyPosition
 
