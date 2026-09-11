@@ -1,6 +1,7 @@
 import { afterAll, afterEach, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   getPkceFilePath,
   type PkceHandoff,
@@ -11,23 +12,16 @@ import {
 
 const HANDOFF: PkceHandoff = { verifier: "a-verifier", state: "a-state" }
 
-const ROOT = mkdtempSync("/var/tmp/spotify-pkce-store-")
+const SCRATCH = scratchWorld()
 
-let next = 0
-
-afterAll(() => {
-  rmSync(ROOT, { recursive: true, force: true })
-})
+afterAll(SCRATCH.sweep)
 
 afterEach(() => {
   delete process.env.SPOTIFY_PKCE_FILE
 })
 
 function scratch(): string {
-  next += 1
-  const at = join(ROOT, `at-${next}`)
-  mkdirSync(at, { recursive: true })
-  return at
+  return SCRATCH.rootFor("spotify-pkce-store-")
 }
 
 test("the handoff file sits beside the token file", () => {
