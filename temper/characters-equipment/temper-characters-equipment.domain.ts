@@ -164,6 +164,8 @@ export const temperCharactersEquipment = {
     "module/set-class-restrictions",
     "module/set-source",
     "module/set-select-helpers",
+    "module/sets-rows-first",
+    "module/sets-rows-second",
   ],
   invariants: [
     {
