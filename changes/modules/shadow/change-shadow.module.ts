@@ -20,6 +20,14 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A reach gathering what it was asked is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach refusing at one address gathers what it was asked before refusing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A world answering one page and one body is built here rather than by each test.",
     },
     {

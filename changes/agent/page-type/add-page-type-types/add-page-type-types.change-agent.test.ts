@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  catching,
+  refusingAt,
+  worldOf,
+} from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { addPageTypeTypes, runChange } from "./add-page-type-types.change-agent.code.ts"
 
 const AT = "held/ones/one.page-type.ts"
@@ -13,21 +16,6 @@ const STATED = "change-mechanical-file-content/add-page-property"
 const MOVED = "change-mechanical/move-code-export"
 
 type Reached = { readonly at: string; readonly given: Record<string, unknown> }
-
-function catching(seen: Reached[]): Reaching {
-  return (_world, at, given) => {
-    seen.push({ at, given: given as Record<string, unknown> })
-    return Promise.resolve(stating([]))
-  }
-}
-
-function refusingAt(seen: Reached[], address: string): Reaching {
-  return (_world, at, given) => {
-    seen.push({ at, given: given as Record<string, unknown> })
-    if (at === address) return Promise.resolve(refusing(`\`${at}\` would not`))
-    return Promise.resolve(stating([]))
-  }
-}
 
 const BODY = `export type One = {
   name: Name

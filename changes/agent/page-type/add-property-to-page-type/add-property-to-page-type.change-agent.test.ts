@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
-import { stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
+import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { catching, worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   addPropertyToPageType,
   recordFor,
@@ -29,13 +28,6 @@ type Holding = {
   readonly listed?: boolean
   readonly owner?: boolean
   readonly typed?: boolean
-}
-
-function catching(seen: Reached[]): Reaching {
-  return (_world, at, given) => {
-    seen.push({ at, given: given as Record<string, unknown> })
-    return Promise.resolve(stating([]))
-  }
 }
 
 function worldFor(seen: Reached[], holding: Holding = {}): World {

@@ -237,6 +237,23 @@ export function worldFor(
   }
 }
 
+export type Caught = { readonly at: string; readonly given: Record<string, unknown> }
+
+export function catching(seen: Caught[]): Reaching {
+  return (_world, at, given) => {
+    seen.push({ at, given: given as Record<string, unknown> })
+    return Promise.resolve(stating([]))
+  }
+}
+
+export function refusingAt(seen: Caught[], address: string): Reaching {
+  return (_world, at, given) => {
+    seen.push({ at, given: given as Record<string, unknown> })
+    if (at === address) return Promise.resolve(refusing(`\`${at}\` would not`))
+    return Promise.resolve(stating([]))
+  }
+}
+
 export function running(address: string): Reaching {
   return (_world, at, given) => {
     if (at === address) {
