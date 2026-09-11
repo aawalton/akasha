@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   id: "01a063d8-61f2-79ca-be32-366d8eb3e335",
-  pageTypeSlug: "world",
   type: "world",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   title: "Amelia the Level Zero Hero",

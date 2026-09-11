@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const hallsOfFabrication = {
   id: "01a06165-cbbe-7000-8911-a7e1e2b06b60",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "halls-of-fabrication",
   title: "Halls of Fabrication",

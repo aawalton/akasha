@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const theRift = {
   id: "01a06165-cbc0-7004-b257-a8ba4ad8f236",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "the-rift",
   title: "The Rift",

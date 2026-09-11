@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const stirk = {
   id: "01a06165-cbbf-7007-bfe3-76d542d81c83",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "stirk",
   title: "Stirk",

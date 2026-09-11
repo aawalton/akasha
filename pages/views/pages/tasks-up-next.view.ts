@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const tasksUpNext = {
   id: "01a06577-2615-700d-ba5e-bde16eef17ea",
-  pageTypeSlug: "view",
   type: "view",
   slug: "tasks-up-next",
   title: "Up Next",

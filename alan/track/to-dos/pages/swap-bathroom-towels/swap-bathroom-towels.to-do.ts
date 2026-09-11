@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const swapBathroomTowels = {
   id: "019db533-f381-7bd0-9260-24933db819eb",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "swap-bathroom-towels",
   title: "Swap bathroom towels",

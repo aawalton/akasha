@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const platoApologyCrito = {
   id: "01a06586-d429-7d76-a213-da3bf07344ee",
-  pageTypeSlug: "world",
   type: "world",
   slug: "plato-apology-crito",
   title: "Plato: Apology, Crito",

@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const metricsServer = {
   id: "01a068e5-527c-769a-932a-0da336ed9815",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "metrics-server",
   title: "Metrics server",

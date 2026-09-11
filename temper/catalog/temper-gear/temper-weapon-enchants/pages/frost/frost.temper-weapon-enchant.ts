@@ -2,7 +2,6 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const frost = {
   id: "019e5c0d-dcf7-789c-8855-e681d8ae7b76",
-  pageTypeSlug: "temper-weapon-enchant",
   type: "temper-weapon-enchant",
   slug: "frost",
   title: "Frost",

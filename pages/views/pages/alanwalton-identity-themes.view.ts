@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const alanwaltonIdentityThemes = {
   id: "01a06577-2614-7001-8a82-cc9a877c059d",
-  pageTypeSlug: "view",
   type: "view",
   slug: "alanwalton-identity-themes",
   title: "Themes",

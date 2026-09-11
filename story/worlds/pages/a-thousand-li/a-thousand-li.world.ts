@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const aThousandLi = {
   id: "01a063d8-61f2-7644-b103-d2d7e1347581",
-  pageTypeSlug: "world",
   type: "world",
   slug: "a-thousand-li",
   title: "A Thousand Li",

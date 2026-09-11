@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const metallbSpeaker = {
   id: "01a068e5-527c-704c-8fe5-f706dfe94839",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "metallb-speaker",
   title: "MetalLB speaker",

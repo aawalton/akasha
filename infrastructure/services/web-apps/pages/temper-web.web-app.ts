@@ -2,7 +2,6 @@ import type { WebApp } from "akasha/infrastructure/services/web-apps/web-app.pag
 
 export const temperWeb = {
   id: "01a05b26-f8b6-7a52-a21e-599a20af3732",
-  pageTypeSlug: "web-app",
   type: "web-app",
   slug: "temper-web",
   definition: "the parts of Temper that run in a browser",

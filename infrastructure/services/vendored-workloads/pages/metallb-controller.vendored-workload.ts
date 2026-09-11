@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const metallbController = {
   id: "01a068e5-527c-718d-96eb-f449ce869cd1",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "metallb-controller",
   title: "MetalLB controller",

@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const breakfast = {
   id: "019db533-f381-7721-93e3-a824e4ba6b9c",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "breakfast",
   title: "Breakfast",

@@ -2,7 +2,6 @@ import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-
 
 export const mace = {
   id: "019e46b6-4089-7fbb-8e33-bdbbe8a10106",
-  pageTypeSlug: "temper-weapon-type",
   type: "temper-weapon-type",
   slug: "mace",
   title: "Mace",

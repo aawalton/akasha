@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const hyrule = {
   id: "01a063d8-61f2-75fc-a2b4-274931f3ceed",
-  pageTypeSlug: "world",
   type: "world",
   slug: "hyrule",
   title: "Hyrule",

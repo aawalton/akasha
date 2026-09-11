@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const stonefalls = {
   id: "01a06165-cbbf-7008-a0df-a246f5ecc354",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "stonefalls",
   title: "Stonefalls",

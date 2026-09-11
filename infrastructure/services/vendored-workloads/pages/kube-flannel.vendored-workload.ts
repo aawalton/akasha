@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const kubeFlannel = {
   id: "01a068e5-527c-7e51-81d4-b0a4ffe3365e",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "kube-flannel",
   title: "Kube flannel",

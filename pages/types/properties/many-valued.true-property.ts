@@ -2,7 +2,6 @@ import type { TrueProperty } from "akasha/pages/true-properties/true-property.pa
 
 export const manyValued = {
   id: "01a090a6-374a-7ad9-bcc8-98276274994f",
-  pageTypeSlug: "true-property",
   type: "true-property",
   slug: "many-valued",
   propertySlug: "many",

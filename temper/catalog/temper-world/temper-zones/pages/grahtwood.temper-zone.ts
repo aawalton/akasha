@@ -2,7 +2,6 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zones
 
 export const grahtwood = {
   id: "019e17d9-3dd1-7c1c-b121-d149da80cb09",
-  pageTypeSlug: "temper-zone",
   type: "temper-zone",
   slug: "grahtwood",
   title: "Grahtwood",

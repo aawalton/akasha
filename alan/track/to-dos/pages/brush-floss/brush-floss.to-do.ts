@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const brushFloss = {
   id: "019db533-f381-76ec-81cf-35ca7e59aec8",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "brush-floss",
   title: "Brush + Floss",

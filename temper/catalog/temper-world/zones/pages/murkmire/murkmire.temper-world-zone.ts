@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const murkmire = {
   id: "01a06165-cbbe-700a-8ee5-87c48e13b373",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "murkmire",
   title: "Murkmire",

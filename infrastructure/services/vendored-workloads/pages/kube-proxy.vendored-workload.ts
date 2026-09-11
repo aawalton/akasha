@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const kubeProxy = {
   id: "01a068e5-527c-7672-8027-1e5b535dab2d",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "kube-proxy",
   title: "Kube proxy",

@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const shadowfen = {
   id: "01a06165-cbbf-7004-847c-e4acf1aa1714",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "shadowfen",
   title: "Shadowfen",

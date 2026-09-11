@@ -2,7 +2,6 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zones
 
 export const deshaan = {
   id: "019e17d9-3b5b-7e21-8430-095c746b1a25",
-  pageTypeSlug: "temper-zone",
   type: "temper-zone",
   slug: "deshaan",
   title: "Deshaan",

@@ -2,7 +2,6 @@ import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-
 
 export const greatsword = {
   id: "019e46b6-408f-7101-8c11-f30ff5b7d117",
-  pageTypeSlug: "temper-weapon-type",
   type: "temper-weapon-type",
   slug: "greatsword",
   title: "Greatsword",

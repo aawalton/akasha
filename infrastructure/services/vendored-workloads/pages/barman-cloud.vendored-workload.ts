@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const barmanCloud = {
   id: "01a068e5-527c-7342-9656-a0172825938d",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "barman-cloud",
   title: "Barman cloud",

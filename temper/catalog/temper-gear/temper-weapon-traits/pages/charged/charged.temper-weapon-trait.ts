@@ -2,7 +2,6 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const charged = {
   id: "019e5b8b-e53c-79f0-81dc-92d792e3fb6f",
-  pageTypeSlug: "temper-weapon-trait",
   type: "temper-weapon-trait",
   slug: "charged",
   title: "Charged",

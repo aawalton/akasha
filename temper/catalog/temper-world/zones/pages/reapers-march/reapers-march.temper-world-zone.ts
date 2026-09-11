@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const reapersMarch = {
   id: "01a06165-cbbe-700d-ae97-52a0db124606",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "reapers-march",
   title: "Reaper's March",

@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   id: "01a063d8-61f2-7996-a521-d7708392e397",
-  pageTypeSlug: "world",
   type: "world",
   slug: "demonic-city-builder-litrpg-city-kingdom-building",
   title: "Demonic City Builder [LitRPG, City & Kingdom Building]",

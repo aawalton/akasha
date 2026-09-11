@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const theSystemApocalypse = {
   id: "01a063d8-61f2-74df-9af5-71843cde0c7c",
-  pageTypeSlug: "world",
   type: "world",
   slug: "the-system-apocalypse",
   title: "The System Apocalypse",

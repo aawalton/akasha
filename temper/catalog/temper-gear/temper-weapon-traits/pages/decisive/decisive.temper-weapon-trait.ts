@@ -2,7 +2,6 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const decisive = {
   id: "019e5b8b-e540-7c05-bac0-3b47430a460f",
-  pageTypeSlug: "temper-weapon-trait",
   type: "temper-weapon-trait",
   slug: "decisive",
   title: "Decisive",

@@ -2,7 +2,6 @@ import type { TravelCollection } from "akasha/alan/collections/places/travel-col
 
 export const countries = {
   id: "01a06808-caa4-7001-9399-2dfd25f2f4af",
-  pageTypeSlug: "travel-collection",
   type: "travel-collection",
   slug: "countries",
   title: "Countries",

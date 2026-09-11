@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const hewsBane = {
   id: "01a06165-cbbe-7001-91d4-9a6f726c3fbb",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "hews-bane",
   title: "Hew's Bane",

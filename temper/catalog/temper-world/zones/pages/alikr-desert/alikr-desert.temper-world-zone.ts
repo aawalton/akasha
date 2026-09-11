@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const alikrDesert = {
   id: "01a06165-cbbb-7000-982d-789bbc2a1980",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "alikr-desert",
   title: "Alik'r Desert",

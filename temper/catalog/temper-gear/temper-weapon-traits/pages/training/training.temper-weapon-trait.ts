@@ -2,7 +2,6 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper
 
 export const training = {
   id: "019e5b8b-e54d-7f3a-ba3f-f3821e48039e",
-  pageTypeSlug: "temper-weapon-trait",
   type: "temper-weapon-trait",
   slug: "training",
   title: "Training",

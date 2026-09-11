@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const cloudrest = {
   id: "01a06165-cbbc-7008-a21f-951c4c3b391d",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "cloudrest",
   title: "Cloudrest",

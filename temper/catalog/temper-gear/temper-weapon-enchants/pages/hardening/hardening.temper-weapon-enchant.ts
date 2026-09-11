@@ -2,7 +2,6 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const hardening = {
   id: "019e5c0d-dcfc-7566-a423-42926a1dd643",
-  pageTypeSlug: "temper-weapon-enchant",
   type: "temper-weapon-enchant",
   slug: "hardening",
   title: "Hardening",

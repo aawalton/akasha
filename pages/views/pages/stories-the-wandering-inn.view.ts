@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const storiesTheWanderingInn = {
   id: "01a06577-2615-700a-8633-ceb65cac729a",
-  pageTypeSlug: "view",
   type: "view",
   slug: "stories-the-wandering-inn",
   title: "The Wandering Inn",

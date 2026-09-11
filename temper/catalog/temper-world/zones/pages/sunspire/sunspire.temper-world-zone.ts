@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const sunspire = {
   id: "01a06165-cbbf-700c-9d88-05969c56c92f",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "sunspire",
   title: "Sunspire",

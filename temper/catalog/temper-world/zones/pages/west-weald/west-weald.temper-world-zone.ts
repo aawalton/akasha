@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const westWeald = {
   id: "01a06165-cbc0-700a-b8bc-5be4244b5f3f",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "west-weald",
   title: "West Weald",

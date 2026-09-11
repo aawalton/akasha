@@ -2,7 +2,6 @@ import type { WorkspacePackage } from "akasha/code/workspace-packages/workspace-
 
 export const opsExtension = {
   id: "01a0680b-7175-7002-8feb-84b86f70fc2f",
-  pageTypeSlug: "workspace-package",
   type: "workspace-package",
   slug: "ops-extension",
   definition: "the extension this repository gives the editor",

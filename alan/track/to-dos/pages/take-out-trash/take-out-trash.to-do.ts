@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const takeOutTrash = {
   id: "019db533-f381-777a-a057-ad3fc897730f",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "take-out-trash",
   title: "Take out Trash",

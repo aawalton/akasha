@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const temperCharactersList = {
   id: "01a06577-2615-700e-880d-7fc36e8b213b",
-  pageTypeSlug: "view",
   type: "view",
   slug: "temper-characters-list",
   title: "List",

@@ -2,7 +2,6 @@ import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-
 
 export const maul = {
   id: "019e46b6-4092-7487-901f-b23ac746b0b1",
-  pageTypeSlug: "temper-weapon-type",
   type: "temper-weapon-type",
   slug: "maul",
   title: "Maul",

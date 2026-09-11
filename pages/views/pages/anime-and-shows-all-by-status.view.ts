@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const animeAndShowsAllByStatus = {
   id: "01a06577-2614-7004-a141-2dc21b740922",
-  pageTypeSlug: "view",
   type: "view",
   slug: "anime-and-shows-all-by-status",
   title: "All by Status",

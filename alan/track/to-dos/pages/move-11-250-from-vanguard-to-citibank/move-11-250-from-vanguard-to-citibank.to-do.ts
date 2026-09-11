@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const move11250FromVanguardToCitibank = {
   id: "019db533-f381-76db-896e-96a8c0a1d4e9",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "move-11-250-from-vanguard-to-citibank",
   title: "Move $11,250 from Vanguard to Citibank",

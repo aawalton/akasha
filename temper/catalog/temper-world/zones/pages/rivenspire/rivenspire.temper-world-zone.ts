@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const rivenspire = {
   id: "01a06165-cbbe-700e-82b9-fb00e539477a",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "rivenspire",
   title: "Rivenspire",

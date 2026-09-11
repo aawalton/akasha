@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const laundryRotate = {
   id: "019db533-f381-7ac2-93d3-45cbf41b34dd",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "laundry-rotate",
   title: "Laundry - Rotate",

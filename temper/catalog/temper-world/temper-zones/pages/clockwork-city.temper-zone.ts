@@ -2,7 +2,6 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zones
 
 export const clockworkCity = {
   id: "019e17d9-5406-772c-a151-5f3be8f22316",
-  pageTypeSlug: "temper-zone",
   type: "temper-zone",
   slug: "clockwork-city",
   title: "Clockwork City",

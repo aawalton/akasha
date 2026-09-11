@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const planPresentForJenForHerBirthday = {
   id: "019db533-f381-7d5a-b7d0-a6fb1956d3c2",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "plan-present-for-jen-for-her-birthday",
   title: "Plan present for Jen for her birthday",

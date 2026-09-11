@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const attributesReadings = {
   id: "01a07cd7-2bb6-7d40-acb4-895746f0208f",
-  pageTypeSlug: "view",
   type: "view",
   slug: "attributes-readings",
   title: "Readings",

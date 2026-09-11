@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const storiesGreatBooks = {
   id: "01a06577-2615-7008-95fb-bbabc3669aac",
-  pageTypeSlug: "view",
   type: "view",
   slug: "stories-great-books",
   title: "Great Books",

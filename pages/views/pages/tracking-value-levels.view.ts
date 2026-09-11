@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const trackingValueLevels = {
   id: "01a06577-2615-7016-9363-9c7e96dbb24c",
-  pageTypeSlug: "view",
   type: "view",
   slug: "tracking-value-levels",
   title: "Value Levels",

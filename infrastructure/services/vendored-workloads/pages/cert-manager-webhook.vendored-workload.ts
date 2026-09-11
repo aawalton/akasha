@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const certManagerWebhook = {
   id: "01a068e5-527c-7030-88b5-ece6202b1900",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "cert-manager-webhook",
   title: "Cert manager webhook",

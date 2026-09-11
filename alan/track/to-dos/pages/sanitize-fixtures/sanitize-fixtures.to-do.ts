@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const sanitizeFixtures = {
   id: "019db533-f381-7ba6-9fae-8668eb50d691",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "sanitize-fixtures",
   title: "Sanitize fixtures",

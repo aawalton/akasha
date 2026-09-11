@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const strosMkai = {
   id: "01a06165-cbbf-700a-be7c-a6d08981902e",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "stros-mkai",
   title: "Stros M'Kai",

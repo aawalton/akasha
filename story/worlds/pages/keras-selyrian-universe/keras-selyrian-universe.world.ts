@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const kerasSelyrianUniverse = {
   id: "01a063d8-61f2-792e-8d04-167d9c9bed8b",
-  pageTypeSlug: "world",
   type: "world",
   slug: "keras-selyrian-universe",
   title: "Keras Selyrian Universe",

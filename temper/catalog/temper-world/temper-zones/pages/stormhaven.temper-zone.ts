@@ -2,7 +2,6 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zones
 
 export const stormhaven = {
   id: "019e17d9-3c91-759a-8795-b4cbd9d14248",
-  pageTypeSlug: "temper-zone",
   type: "temper-zone",
   slug: "stormhaven",
   title: "Stormhaven",

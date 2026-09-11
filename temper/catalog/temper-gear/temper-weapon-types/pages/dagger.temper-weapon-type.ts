@@ -2,7 +2,6 @@ import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-
 
 export const dagger = {
   id: "019e46b6-408c-774e-b328-97c62f8e9d12",
-  pageTypeSlug: "temper-weapon-type",
   type: "temper-weapon-type",
   slug: "dagger",
   title: "Dagger",

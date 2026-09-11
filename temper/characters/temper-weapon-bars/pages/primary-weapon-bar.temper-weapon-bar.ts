@@ -2,7 +2,6 @@ import type { TemperWeaponBar } from "akasha/temper/characters/temper-weapon-bar
 
 export const primaryWeaponBar = {
   id: "019e4cb2-3aba-748f-9e13-2583ba1d0f3b",
-  pageTypeSlug: "temper-weapon-bar",
   type: "temper-weapon-bar",
   slug: "primary-weapon-bar",
   title: "Primary Bar",

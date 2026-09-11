@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const blackreachGreymoorCaverns = {
   id: "01a06165-cbbc-7003-a53d-e84ee7199be5",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "blackreach-greymoor-caverns",
   title: "Blackreach: Greymoor Caverns",

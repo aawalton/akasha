@@ -2,7 +2,6 @@ import type { VendoredWorkload } from "akasha/infrastructure/services/vendored-w
 
 export const coredns = {
   id: "01a068e5-527c-7655-8461-4f81d6b6c236",
-  pageTypeSlug: "vendored-workload",
   type: "vendored-workload",
   slug: "coredns",
   title: "CoreDNS",

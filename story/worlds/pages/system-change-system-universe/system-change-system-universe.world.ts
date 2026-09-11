@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const systemChangeSystemUniverse = {
   id: "01a063d8-61f2-710e-9d42-2b43321db67b",
-  pageTypeSlug: "world",
   type: "world",
   slug: "system-change-system-universe",
   title: "System Change (System Universe)",

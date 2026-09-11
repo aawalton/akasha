@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const manaDevourerLitrpgmanaCultivation = {
   id: "01a063d8-61f2-7929-94f6-ed5111e390f3",
-  pageTypeSlug: "world",
   type: "world",
   slug: "mana-devourer-litrpgmana-cultivation",
   title: "Mana Devourer",

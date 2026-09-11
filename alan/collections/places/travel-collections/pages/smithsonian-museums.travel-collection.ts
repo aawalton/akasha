@@ -2,7 +2,6 @@ import type { TravelCollection } from "akasha/alan/collections/places/travel-col
 
 export const smithsonianMuseums = {
   id: "01a06808-caa5-7002-a11e-f306380e4ad5",
-  pageTypeSlug: "travel-collection",
   type: "travel-collection",
   slug: "smithsonian-museums",
   title: "Smithsonian Museums",

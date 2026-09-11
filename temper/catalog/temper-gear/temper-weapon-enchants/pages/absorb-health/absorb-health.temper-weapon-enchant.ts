@@ -2,7 +2,6 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const absorbHealth = {
   id: "019e5c0d-dceb-74ca-8a7f-64f3f44ddae1",
-  pageTypeSlug: "temper-weapon-enchant",
   type: "temper-weapon-enchant",
   slug: "absorb-health",
   title: "Absorb Health",

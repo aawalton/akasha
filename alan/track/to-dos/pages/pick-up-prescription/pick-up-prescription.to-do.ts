@@ -2,7 +2,6 @@ import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const pickUpPrescription = {
   id: "019db533-f381-778c-b8c9-c15af992e8f2",
-  pageTypeSlug: "to-do",
   type: "to-do",
   slug: "pick-up-prescription",
   title: "Pick up prescription",

@@ -2,7 +2,6 @@ import type { View } from "akasha/pages/views/view.page-type.types.ts"
 
 export const personasNotEmpty = {
   id: "01a06577-2614-7021-b31b-8c4518e69fa3",
-  pageTypeSlug: "view",
   type: "view",
   slug: "personas-not-empty",
   title: "Not Empty",

@@ -2,7 +2,6 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/t
 
 export const highIsle = {
   id: "01a06165-cbbe-7002-9039-fc7227fdc98e",
-  pageTypeSlug: "temper-world-zone",
   type: "temper-world-zone",
   slug: "high-isle",
   title: "High Isle",
