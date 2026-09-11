@@ -220,10 +220,6 @@ export type Reached = {
   readonly baseUrl: string
 }
 
-export function wordsOf(runs: string): readonly string[] {
-  return runs.split(/\s+/).filter((one) => one !== "")
-}
-
 export function serviceNamed(name: string): Reached {
   const read = readFor(codeRoot(), name)
   if ("refused" in read) throw new OperationalError(read.refused)

@@ -1,4 +1,5 @@
 import { writeFile } from "node:fs/promises"
+import { wordsOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 import {
   answering,
   refusedBy,
@@ -27,7 +28,6 @@ import {
   serviceNamed,
   wasRefused,
   wordsIn,
-  wordsOf,
   wroteTo,
 } from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"

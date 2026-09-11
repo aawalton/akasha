@@ -1,3 +1,4 @@
+import { wordsOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 import {
   answering,
   refusedBy,
@@ -10,7 +11,6 @@ import {
   targetOf,
   wasRefused,
   wordsIn,
-  wordsOf,
 } from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
