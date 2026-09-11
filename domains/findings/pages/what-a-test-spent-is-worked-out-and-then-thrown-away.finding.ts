@@ -1,0 +1,12 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const whatATestSpentIsWorkedOutAndThenThrownAway = {
+  id: "01a09210-da07-7280-bc35-2d4b24d3a2af",
+  type: "finding",
+  slug: "what-a-test-spent-is-worked-out-and-then-thrown-away",
+  domain: "domain/cpu-limit",
+  claim:
+    "code-tests already measures the processor seconds a test run spends, and writes none of it down. Test files a change names are run in batches of up to a hundred, one runner per batch, and what the batches spent is added into one number. A per-file number is worked out only where that total goes past five seconds times the files in the batch, or where a batch died on a signal, and then every file the run named is run again on its own to find which went over. Neither number is appended beside any page. The only line a test run leaves is the one check-cost writes beside the tests-pass check page, and that one line covers every test file the change touched together with the check that gathered them.",
+  evidence:
+    "code/code-tests/code-tests.module.code.ts states BATCH = 100 at line 68 and batchedOf at lines 254 to 259. ranUnder spawns one runner per batch at lines 351 to 353 and adds what each spent at line 355, so cpuSeconds in its answer is a batch total.\n\nLine 70 reads CEILING off the test property's own page. code-system/modules/properties/test.code-file-property.ts states maxCpuSeconds: 5 at line 11, and that is the one value stated for the test of every module in the repository.\n\nLine 367 is where the second judging is decided: a signal, or a clean verdict whose total went past the ceiling times the count of files. Line 368 calls slowIn only then. spentIn at lines 283 to 304 is the per-file road, one spawn per file.\n\nThe module page states that a batch is held to no ceiling and runs to its own end, and that a run's answer has the processor seconds every batch of that run spent.\n\nNothing in code-tests imports check-cost. A search over the repository for recordCost and costRecorded finds checking, calling, change-running and apply-running and nothing else.\n\nThe only page whose code runs code-tests inside a change is checks/code-checks/pages/tests-pass. That check is run by checking, which opens a cost before the check and records one line beside the check's page under check.logs.\n\nSo the ceiling a test is held to is stated per file, and the number it is judged against is per batch unless the batch as a whole already looks slow.",
+} as const satisfies Finding
