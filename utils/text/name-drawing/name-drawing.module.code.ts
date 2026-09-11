@@ -1,3 +1,3 @@
-export function namesDrawn(names: Iterable<string>): string {
-  return [...names].map((one) => `\`${one}\``).join(", ")
+export function namesDrawn(names: Iterable<string>, between = ", "): string {
+  return [...names].map((one) => `\`${one}\``).join(between)
 }

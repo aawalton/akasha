@@ -21,4 +21,8 @@ describe("names drawn for a line a caller reads", () => {
   test("a set is drawn in the order that set holds", () => {
     expect(namesDrawn(new Set(["--all", "--dry-run"]))).toBe("`--all`, `--dry-run`")
   })
+
+  test("the names are parted by what the caller hands over", () => {
+    expect(namesDrawn(["module", "domain"], " or ")).toBe("`module` or `domain`")
+  })
 })

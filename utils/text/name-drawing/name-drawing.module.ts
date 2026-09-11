@@ -5,7 +5,7 @@ export const nameDrawing = {
   pageTypeSlug: "module",
   type: "module",
   slug: "name-drawing",
-  definition: "names drawn each in backticks and parted by a comma, for a line a caller reads",
+  definition: "names drawn each in backticks and parted, for a line a caller reads",
   code: "ts",
   test: "ts",
   invariants: [
@@ -15,7 +15,11 @@ export const nameDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "The names are parted by a comma and a space.",
+      statement: "The names are parted by what the caller hands over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing nothing over parts the names by a comma and a space.",
     },
     {
       invariantKind: "departure",
