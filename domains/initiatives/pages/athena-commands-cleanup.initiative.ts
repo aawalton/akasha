@@ -71,11 +71,6 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`checks/code-checks/pages/command-is-in-the-right-folder/` is the only check over the tree, and every invariant on it is a folder rule. Nothing judges that a slug is its path hyphenated, that a name carries no ancestor's name, or that a namespace holds more than one part. `commands/namespaces/namespace.page-type.ts:18,23` state the slug-opens-with-the-parent rule and only the folder check reads it. Alan approved one check absorbing these and the tree checks there are.\n",
     },
-    {
-      statement: "No call refreshes the index on its own; only Alan or an agent asks for one.",
-      workingMemory:
-        "`repairedIn` at `commands/modules/calling/calling.module.code.ts:242-248` calls `indexRefresh` with no dry run, from `unreadIn` at `:250-268`, whenever the index is absent, names no command page-type id, or carries no command. The three invariants blessing that are gone from `calling.module.ts` as of `e0e419d3`. What is left is to delete the call and have the refusal name `akasha index refresh` rather than run it.\n",
-    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
