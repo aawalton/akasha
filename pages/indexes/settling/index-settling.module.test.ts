@@ -216,6 +216,44 @@ test("a change adding a file beside a page it leaves alone files that file under
   expect(listedByPath(settled.reading, BESIDE_AT).map((one) => one.path)).toEqual([HELD_PAGE])
 })
 
+const MODULE_AT = "akasha/module.page-type.ts"
+
+const MODULE_DEFAULTING = bodyOf({
+  id: idOf("6"),
+  pageTypeSlug: "page-type",
+  slug: "module",
+  extends: ["page-type/domain"],
+  properties: [
+    { pagePropertySlug: "code", required: false, many: false },
+    { pageProperty: "file-property/test", required: false, many: false, default: "ts" },
+    { pagePropertySlug: "note", required: false, many: false },
+    { pagePropertySlug: "part-slugs", required: false, many: false },
+  ],
+})
+
+const HELD_TEST = "akasha/one/held.module.test.ts"
+
+test("a file the page's type declares beside every such page is filed under that page too", () => {
+  const root = indexedRepo({ [MODULE_AT]: MODULE_DEFAULTING })
+  const textOf = textIn(root)
+  const reading = readingIn(root)
+
+  expect(listedByPath(reading, HELD_TEST)).toEqual([])
+
+  const settled = settlingOver(
+    reading,
+    root,
+    [{ path: HELD_TEST, before: null, after: "export const proved = 1\n" }],
+    (path) => {
+      const body = textOf(path)
+      return body === null ? null : valueIn(body)
+    },
+    textOf
+  )
+
+  expect(listedByPath(settled.reading, HELD_TEST).map((one) => one.path)).toEqual([HELD_PAGE])
+})
+
 test("a rebuild agrees with the index a page taken from under a name left", () => {
   const tree = heldAt()
   const root = heldAt()
