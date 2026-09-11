@@ -1,5 +1,5 @@
-import type { Runs } from "../properties/runs.text-property.types.ts"
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
+import type { Runs } from "akasha/services/workstation-services/properties/runs.text-property.types.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"

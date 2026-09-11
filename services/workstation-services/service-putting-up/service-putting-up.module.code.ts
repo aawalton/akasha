@@ -4,8 +4,8 @@ import {
   ourInstalled,
   ownedByService,
   planFor,
-} from "../service-installing/service-installing.module.code.ts"
-import { readFor } from "../service-reading/service-reading.module.code.ts"
+} from "akasha/services/workstation-services/service-installing/service-installing.module.code.ts"
+import { readFor } from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
 
 const DATA = 2
 const OPERATIONAL = 3

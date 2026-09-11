@@ -5,7 +5,7 @@ import {
   runsIn,
   serviceIn,
   systemdIn,
-} from "./service-reading.module.code.ts"
+} from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
 
 const ROOT = process.cwd()
 

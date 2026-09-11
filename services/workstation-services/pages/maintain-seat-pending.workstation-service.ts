@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 export const maintainSeatPending = {
   id: "01a026aa-c443-7000-8636-7a36d8bbf564",

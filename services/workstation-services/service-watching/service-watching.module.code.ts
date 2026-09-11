@@ -2,17 +2,20 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   championing,
   deciding,
   type Ledger,
   type Telling,
   told,
-} from "../service-alerting/service-alerting.module.code.ts"
-import { checkoutAt } from "../service-checkout/service-checkout.module.code.ts"
-import { type Health, healthFor } from "../service-health/service-health.module.code.ts"
-import { looked } from "../service-wellness/service-wellness.module.code.ts"
+} from "akasha/services/workstation-services/service-alerting/service-alerting.module.code.ts"
+import { checkoutAt } from "akasha/services/workstation-services/service-checkout/service-checkout.module.code.ts"
+import {
+  type Health,
+  healthFor,
+} from "akasha/services/workstation-services/service-health/service-health.module.code.ts"
+import { looked } from "akasha/services/workstation-services/service-wellness/service-wellness.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const LEDGER = ".local/state/workstation-services/service-outages.json"
 const FALLBACK = "alan"

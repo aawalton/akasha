@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
-import { commandIn, entryIn, namedIn, unparsedIn } from "./service-wrapping.module.code.ts"
+import {
+  commandIn,
+  entryIn,
+  namedIn,
+  unparsedIn,
+} from "akasha/services/workstation-services/service-wrapping/service-wrapping.module.code.ts"
 
 const ROOT = "/home/one/repos/akasha"
 

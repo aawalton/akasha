@@ -10,14 +10,14 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   installedUnitName,
   type Service,
   serviceUnitText,
   timerUnitText,
-} from "../unit-writing/unit-writing.module.code.ts"
+} from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const STAGING = ".local/state/workstation-services"
 const SYSTEMD = ".config/systemd/user"

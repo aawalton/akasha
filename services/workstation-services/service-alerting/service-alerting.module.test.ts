@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import type { DomainRow } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
-import type { Health } from "../service-health/service-health.module.code.ts"
 import {
   COOLING_MS,
   championing,
@@ -8,7 +7,8 @@ import {
   type Ledger,
   owing,
   told,
-} from "./service-alerting.module.code.ts"
+} from "akasha/services/workstation-services/service-alerting/service-alerting.module.code.ts"
+import type { Health } from "akasha/services/workstation-services/service-health/service-health.module.code.ts"
 
 const BROKE: Health = {
   slug: "held-service",

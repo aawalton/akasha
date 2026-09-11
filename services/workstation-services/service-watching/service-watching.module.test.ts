@@ -8,7 +8,7 @@ import {
   ledgerWrite,
   passedOn,
   ticking,
-} from "./service-watching.module.code.ts"
+} from "akasha/services/workstation-services/service-watching/service-watching.module.code.ts"
 
 const HOME = mkdtempSync("/var/tmp/service-watching-")
 

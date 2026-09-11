@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 export const nodeExporter = {
   id: "01a06829-0194-7b8c-b075-9bab1fe4e693",

@@ -1,8 +1,15 @@
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Systemd } from "../properties/systemd.record-property.types.ts"
-import { commandsOf, type Refused, startsIn } from "../run-composing/run-composing.module.code.ts"
-import type { Service, Started } from "../unit-writing/unit-writing.module.code.ts"
+import type { Systemd } from "akasha/services/workstation-services/properties/systemd.record-property.types.ts"
+import {
+  commandsOf,
+  type Refused,
+  startsIn,
+} from "akasha/services/workstation-services/run-composing/run-composing.module.code.ts"
+import type {
+  Service,
+  Started,
+} from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
 
 export const SERVICE_PAGE_TYPE = "workstation-service"
 

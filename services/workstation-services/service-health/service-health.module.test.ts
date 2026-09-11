@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 import {
   brokenIn,
   healthFor,
@@ -9,7 +8,8 @@ import {
   statesIn,
   type Watched,
   watchedIn,
-} from "./service-health.module.code.ts"
+} from "akasha/services/workstation-services/service-health/service-health.module.code.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000d",

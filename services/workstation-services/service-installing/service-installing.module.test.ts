@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, lstatSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 import {
   installing,
   linkUnit,
@@ -15,7 +14,8 @@ import {
   unitChanged,
   unlinkUnit,
   writeUnit,
-} from "./service-installing.module.code.ts"
+} from "akasha/services/workstation-services/service-installing/service-installing.module.code.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 const HOME = mkdtempSync("/var/tmp/service-installing-")
 

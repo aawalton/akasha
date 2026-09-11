@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 import {
   installedUnitName,
   isScheduled,
@@ -8,7 +7,8 @@ import {
   serviceUnitText,
   timerUnitText,
   unitFileNames,
-} from "./unit-writing.module.code.ts"
+} from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 const PAGE_PATH =
   "akasha/service-system/workstation-service/workstation-services/held-service.workstation-service.ts"

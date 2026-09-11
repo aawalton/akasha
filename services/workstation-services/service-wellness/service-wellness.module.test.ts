@@ -3,8 +3,13 @@ import { mkdirSync, mkdtempSync, rmSync, statSync, writeFileSync } from "node:fs
 import { join } from "node:path"
 import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import type { Health } from "../service-health/service-health.module.code.ts"
-import { keepVerdicts, LOOKED_AT, looked, WELL } from "./service-wellness.module.code.ts"
+import type { Health } from "akasha/services/workstation-services/service-health/service-health.module.code.ts"
+import {
+  keepVerdicts,
+  LOOKED_AT,
+  looked,
+  WELL,
+} from "akasha/services/workstation-services/service-wellness/service-wellness.module.code.ts"
 
 const PAGE = "pages/held-service.workstation-service.ts"
 

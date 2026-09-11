@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 export const sweepSupervisorLogs = {
   id: "01a033a4-98c1-7167-9e3e-387829512ba6",

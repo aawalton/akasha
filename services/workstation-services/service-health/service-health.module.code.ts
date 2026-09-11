@@ -1,8 +1,15 @@
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import {
+  beating,
+  beatOn,
+  windowMsIn,
+} from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
+import { everyService } from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
+import {
+  isScheduled,
+  type Service,
+} from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { beating, beatOn, windowMsIn } from "../service-beating/service-beating.module.code.ts"
-import { everyService } from "../service-reading/service-reading.module.code.ts"
-import { isScheduled, type Service } from "../unit-writing/unit-writing.module.code.ts"
 
 const SERVICE_SUFFIX = ".service"
 const ID = "Id"

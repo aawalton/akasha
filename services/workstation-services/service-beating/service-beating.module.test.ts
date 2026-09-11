@@ -9,7 +9,7 @@ import {
   keepBeat,
   WORKED_AT,
   windowMsIn,
-} from "./service-beating.module.code.ts"
+} from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
 
 const PAGE = "pages/held-service.workstation-service.ts"
 

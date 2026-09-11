@@ -7,7 +7,7 @@ import {
   localClosure,
   realPathOf,
   withoutShebang,
-} from "./service-reaching.module.code.ts"
+} from "akasha/services/workstation-services/service-reaching/service-reaching.module.code.ts"
 
 const ROOT = mkdtempSync("/var/tmp/service-reaching-")
 

@@ -1,9 +1,17 @@
 import { expect, test } from "bun:test"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value/page-value.module.code.ts"
-import { SERVICE_PAGE_TYPE } from "../service-reading/service-reading.module.code.ts"
-import { commandOf, type Start, startsIn, wordsIn } from "./run-composing.module.code.ts"
-import { NOWHERE, OUTSIDE } from "./run-composing.module.test-fixtures.ts"
+import {
+  commandOf,
+  type Start,
+  startsIn,
+  wordsIn,
+} from "akasha/services/workstation-services/run-composing/run-composing.module.code.ts"
+import {
+  NOWHERE,
+  OUTSIDE,
+} from "akasha/services/workstation-services/run-composing/run-composing.module.test-fixtures.ts"
+import { SERVICE_PAGE_TYPE } from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
 
 const ROOT = process.cwd()
 

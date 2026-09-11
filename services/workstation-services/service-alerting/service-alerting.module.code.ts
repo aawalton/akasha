@@ -1,5 +1,5 @@
 import type { DomainRow } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
-import type { Health } from "../service-health/service-health.module.code.ts"
+import type { Health } from "akasha/services/workstation-services/service-health/service-health.module.code.ts"
 
 const ADDRESS = "workstation-service/"
 export const COOLING_MS = 24 * 60 * 60 * 1000

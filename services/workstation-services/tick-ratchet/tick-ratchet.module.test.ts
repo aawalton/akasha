@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { TICKS_BEFORE_ENDING, tickRatchet } from "./tick-ratchet.module.code.ts"
+import {
+  TICKS_BEFORE_ENDING,
+  tickRatchet,
+} from "akasha/services/workstation-services/tick-ratchet/tick-ratchet.module.code.ts"
 
 test("a fresh ratchet is not spent", () => {
   const ratchet = tickRatchet("here")

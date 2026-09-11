@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { pathsIn, straysIn } from "./run-path-reading.module.code.ts"
+import {
+  pathsIn,
+  straysIn,
+} from "akasha/services/workstation-services/run-path-reading/run-path-reading.module.code.ts"
 
 const WATCHER_AT = "temper/watcher/a-watcher/a-watcher.module.code.ts"
 

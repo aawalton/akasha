@@ -1,8 +1,14 @@
 import { basename, resolve } from "node:path"
-import { digestOf, followFiles } from "../file-following/file-following.module.code.ts"
-import { checkoutAt } from "../service-checkout/service-checkout.module.code.ts"
-import { localClosure, REACHED_CEILING } from "../service-reaching/service-reaching.module.code.ts"
-import { RESTART_EXIT } from "../unit-writing/unit-writing.module.code.ts"
+import {
+  digestOf,
+  followFiles,
+} from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+import { checkoutAt } from "akasha/services/workstation-services/service-checkout/service-checkout.module.code.ts"
+import {
+  localClosure,
+  REACHED_CEILING,
+} from "akasha/services/workstation-services/service-reaching/service-reaching.module.code.ts"
+import { RESTART_EXIT } from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
 
 const KILL_CEILING_MS = 10_000
 const REFUSED_EXIT = 2
