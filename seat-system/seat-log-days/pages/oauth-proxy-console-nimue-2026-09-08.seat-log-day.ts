@@ -2,7 +2,6 @@ import type { SeatLogDay } from "akasha/seat-system/seat-log-days/seat-log-day.p
 
 export const oauthProxyConsoleNimue20260908 = {
   id: "01a081d1-6cdc-7000-a1ff-65a2bcdf1fcd",
-  pageTypeSlug: "seat-log-day",
   type: "seat-log-day",
   slug: "oauth-proxy-console-nimue-2026-09-08",
   source: "oauth-proxy-console",

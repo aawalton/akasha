@@ -2,7 +2,6 @@ import type { SeatLogDay } from "akasha/seat-system/seat-log-days/seat-log-day.p
 
 export const supervisorConsoleAmy20260911 = {
   id: "01a08dc5-5752-7461-9541-331f2de2319a",
-  pageTypeSlug: "seat-log-day",
   type: "seat-log-day",
   slug: "supervisor-console-amy-2026-09-11",
   source: "supervisor-console",
