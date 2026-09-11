@@ -8,11 +8,5 @@ export const aranyaOnePackage = {
   domain: "domain/akasha",
   persona: "aranya",
   parent: "initiative/akasha-folder-shape",
-  intents: [
-    {
-      statement: "A check refuses a relative path.",
-      workingMemory:
-        "The check runs at change and refuses a relative specifier there, proved by a deliberate violation that was refused and dropped. runsOnWorktree, runsOnDeploy and runsOnAudit are still false: each reads the whole tree, which holds 22 refusals, all subagent pages draining as they are reaped. The page type calls for running at change before the count reaches zero, which this check own invariant had contradicted; that invariant is restated.",
-    },
-  ],
+  intents: [],
 } as const satisfies Initiative
