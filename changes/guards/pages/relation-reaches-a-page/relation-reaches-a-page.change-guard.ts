@@ -51,10 +51,7 @@ export const relationReachesAPage = {
       invariantKind: "departure",
       statement: "A name a page holds as its identity is judged here.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A mortal page naming a page that is not there is not refused here.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An index a guard cannot read refuses the answer.",

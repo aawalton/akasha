@@ -5,6 +5,7 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  aType,
   bodyOf,
   idOf,
   indexedRepo,
@@ -96,6 +97,27 @@ test("a page naming a page the same answer writes is not refused", () => {
       { kind: "add", path: MADE, content: naming("m", "made", []) },
       { kind: "add", path: AT, content: naming("f", "fresh", ["module/made"]) },
     ])
+  )
+
+  expect(said.refused).toBe(null)
+})
+
+function mortalModule(): Readonly<Record<string, string>> {
+  const [at, value] = aType(
+    idOf("6"),
+    "module",
+    ["page-type/domain"],
+    ["code", "test", "note", "part-slugs"]
+  )
+  return { [`akasha/${at}`]: bodyOf({ ...value, mortal: true }) }
+}
+
+test("a mortal page naming a page that is not there is not refused", () => {
+  const root = indexedRepo(mortalModule())
+
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: AT, content: naming("f", "fresh", ["module/gone"]) }])
   )
 
   expect(said.refused).toBe(null)
