@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "144 refusals over 132 files in 74 families, from 197. Only 6 have a leg in checks/: shortened is a real duplicate, passingFor is a false pair, noNode and gone are bare literals. Alan removed the bar on opening a module, so a genuine duplicate now takes a home in a domain whose definition already names the thing. What cannot fold is framework exports a router finds by name, bare literals, and false pairs: a free name prints as written, and so does the type a name declares.",
+        "48 refusals over 43 files in 27 families, from 197. Only 2 have a leg in checks/, both passingFor, a false pair. A bare literal no longer refuses: the check's page already said a body with nothing to change cannot drift. What cannot fold is framework exports a router finds by name and false pairs: a free name prints as written, and so does the type a name declares. Nothing stops a new one landing — a command and its module arrived holding 14 duplicate families at once.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
