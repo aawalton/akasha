@@ -4,6 +4,7 @@ import { dirname, join } from "node:path"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import {
   accountIn,
+  bodyIn,
   brewfileIn,
   dispatcherIn,
   filedIn,
@@ -16,7 +17,13 @@ const ROOT = codeRoot()
 
 const HERE = dirname(import.meta.path)
 
+const SCRIPT = "provision-workstation.shell-script.shell.sh"
+
 const OWN = "provision-workstation.shell-script.scripting.code.ts"
+
+test("the script written here is the script committed beside this test, byte for byte", () => {
+  expect(bodyIn(ROOT)).toBe(readFileSync(join(HERE, SCRIPT), "utf8"))
+})
 
 test("every page file the script names is a file that is there", () => {
   const each = [brewfileIn(ROOT), dispatcherIn(ROOT), accountIn(ROOT)]
