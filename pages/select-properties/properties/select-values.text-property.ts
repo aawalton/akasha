@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const selectValues = {
   id: "01a063de-2c60-7002-b5a6-6a0c7363e4f6",
