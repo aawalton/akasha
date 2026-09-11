@@ -28,9 +28,9 @@ import {
   writingFor,
 } from "./watcher-page-landing.module.code.ts"
 
-const HOURS = "temper/holdings-sets/temper-net-worth-hours/pages"
+const HOURS = "temper/holdings-sets/probe-hours/pages"
 
-const TASKS = "temper/progressions/temper-tasks/pages"
+const TASKS = "temper/progressions/probe-tasks/pages"
 
 test("the writer is the name and address every landing was already committing under", () => {
   expect(PAGE_LANDING_WRITER).toBe("temper watcher <watcher@alanwalton.com>")
@@ -66,16 +66,16 @@ test("a page type import reaches two folders up for the page type file", () => {
 
 test("a page path and the jsonl path beside it are the paths the landings already wrote", () => {
   expect(pagePathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour")).toBe(
-    "temper/holdings-sets/temper-net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
+    "temper/holdings-sets/probe-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
   )
   expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "snapshots")).toBe(
-    "temper/holdings-sets/temper-net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
+    "temper/holdings-sets/probe-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
   )
   expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(
-    "temper/progressions/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
+    "temper/progressions/probe-tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
   )
   expect(rowsPathIn(TASKS, "hireling-mails", "temper-task", "progress")).toBe(
-    "temper/progressions/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
+    "temper/progressions/probe-tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
   )
 })
 
@@ -277,13 +277,13 @@ test("a beside path is the page path with the page ending swapped for the proper
   expect(besidePathOf(HOUR_PAGE, "completion", "json")).toBe(
     `${HOURS}/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.completion.json`
   )
-  expect(besidePathOf("pages/azandar.temper-companion-progress.ts", "completion", "json")).toBe(
-    "pages/azandar.temper-companion-progress.completion.json"
+  expect(besidePathOf("pages/probe.temper-companion-progress.ts", "completion", "json")).toBe(
+    "pages/probe.temper-companion-progress.completion.json"
   )
 })
 
 test("a path that is no page file has no beside path", () => {
-  expect(besidePathOf("pages/azandar.temper-companion-progress.json", "completion", "json")).toBe(
+  expect(besidePathOf("pages/probe.temper-companion-progress.json", "completion", "json")).toBe(
     null
   )
   expect(besidePathOf("", "completion", "json")).toBe(null)
