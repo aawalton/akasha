@@ -1,8 +1,8 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { PageTitle } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
-import { Link, redirect } from "react-router"
+import { Link } from "react-router"
+import { redirectSignedInHome } from "../../signed-in-redirect/signed-in-redirect.module.code.ts"
 
 export function meta() {
   return [
@@ -16,9 +16,7 @@ export function meta() {
 }
 
 export async function loader({ request }: { request: Request }) {
-  const { user, headers } = await getUser(request)
-  if (user) throw redirect("/home", { headers })
-  return null
+  return redirectSignedInHome(request)
 }
 
 const PAGES = [

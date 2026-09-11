@@ -139,6 +139,7 @@ export const alanWeb = {
     "module/serve-image-object",
     "module/shell-ensure-rendition",
     "module/shell-media-src",
+    "module/signed-in-redirect",
     "module/signed-out-notice",
     "module/star-row",
     "module/status-bar-chrome",
