@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { MARKED, rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { CLI_UNDER } from "akasha/commands/modules/rooting/rooting.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const REFUSED = "is under no akasha folder"
@@ -20,7 +21,7 @@ test("the folder holding the akasha domain page is itself the root, however deep
   const root = checkoutMade()
   mkdirSync(join(root, "command-system/cli"), { recursive: true })
   expect(rootOf(join(root, "command-system/cli.module.code.ts"))).toBe(root)
-  expect(rootOf(join(root, "command-system/cli/cli.module.code.ts"))).toBe(root)
+  expect(rootOf(join(root, CLI_UNDER))).toBe(root)
   expect(rootOf(root)).toBe(root)
 })
 

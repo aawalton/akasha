@@ -8,6 +8,7 @@ export const rooting = {
   definition: "the akasha checkout a file is in, found by walking up to its domain page",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
