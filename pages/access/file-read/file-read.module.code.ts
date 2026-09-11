@@ -1,3 +1,4 @@
+import { RosterUnreachable } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   asPage,
   type Page,
@@ -66,17 +67,6 @@ export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
     if (isJson(value)) alsoRead[key] = value
   }
   return Object.keys(alsoRead).length === 0 ? page : asPage({ ...page, ...alsoRead })
-}
-
-export class RosterUnreachable extends Error {
-  readonly why: string
-  constructor(why: string) {
-    super(
-      `what is file-backed went unread, so nothing can be said to be file-backed or not: ${why}`
-    )
-    this.name = "RosterUnreachable"
-    this.why = why
-  }
 }
 
 let known: ReadonlySet<string> | null = null

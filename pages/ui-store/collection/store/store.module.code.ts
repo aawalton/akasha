@@ -1,5 +1,5 @@
 import type { Collection } from "@tanstack/db"
-import { RosterUnreachable } from "akasha/pages/access/file-read/file-read.module.code.ts"
+import { RosterUnreachable } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   type AcquireRegistry,
   acquireShape as acquireShapeIn,

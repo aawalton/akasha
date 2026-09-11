@@ -7,7 +7,7 @@ import {
   type PageTypesDeps,
   withDefinitions,
 } from "akasha/pages/access/answer/answer.module.code.ts"
-import { RosterUnreachable } from "akasha/pages/access/file-read/file-read.module.code.ts"
+import { RosterUnreachable } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 
 const AT = "https://alanwalton.com/api/pages/readout"

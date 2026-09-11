@@ -15,6 +15,7 @@ export const pagesAccess = {
     "module/cursor",
     "module/deleting",
     "module/domain-title-prefix",
+    "module/file-backed-roster",
     "module/file-name",
     "module/file-narrow",
     "module/file-page-name",
