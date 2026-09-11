@@ -20,6 +20,7 @@ export const git = {
     "module/git-pushing",
     "module/served-tip",
     "module/git-store-sweeping",
+    "module/git-dir",
   ],
   invariants: [
     {

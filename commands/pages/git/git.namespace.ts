@@ -6,5 +6,5 @@ export const git = {
   type: "namespace",
   slug: "git",
   definition: "this checkout, reached where git's own command is refused an agent",
-  parts: ["command/git-push", "command/git-restore"],
+  parts: ["command/git-push", "command/git-restore", "command/git-sweep"],
 } as const satisfies Namespace
