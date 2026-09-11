@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0313ChapterThreeHundredAndFiveAleaIactaQuest = {
   id: "01a0672c-eb19-7008-9a5e-a272fe4df648",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0313-chapter-three-hundred-and-five-alea-iacta-quest",
   title: "Chapter Three Hundred and Five - Alea Iacta Quest",

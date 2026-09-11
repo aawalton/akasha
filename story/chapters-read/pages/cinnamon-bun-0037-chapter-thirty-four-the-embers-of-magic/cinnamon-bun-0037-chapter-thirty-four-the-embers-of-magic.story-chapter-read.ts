@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0037ChapterThirtyFourTheEmbersOfMagic = {
   id: "01a0672c-eb03-700d-8429-10060bb4ec8a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0037-chapter-thirty-four-the-embers-of-magic",
   title: "Chapter Thirty-Four - The Embers of Magic",

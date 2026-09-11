@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0026Chapter1379SlugStrife = {
   id: "01a0672c-eb5b-7000-b90f-6252beca5ed3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0026-chapter-1379-slug-strife",
   title: "Chapter 1379 - Slug Strife",

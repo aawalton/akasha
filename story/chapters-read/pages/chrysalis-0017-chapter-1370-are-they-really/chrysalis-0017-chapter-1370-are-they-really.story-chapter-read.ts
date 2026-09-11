@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0017Chapter1370AreTheyReally = {
   id: "01a0672c-eb5a-700f-8f5f-0279a4d49b9f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0017-chapter-1370-are-they-really",
   title: "Chapter 1370 - Are They Really?",

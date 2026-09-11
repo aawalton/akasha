@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0296ChapterTwoHundredAndEightyEightYouveGotta = {
   id: "01a0672c-eb18-7006-99b5-d93036842666",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0296-chapter-two-hundred-and-eighty-eight-youve-gotta",
   title: "Chapter Two Hundred and Eighty-Eight - You've Gotta Right to Your Fights",

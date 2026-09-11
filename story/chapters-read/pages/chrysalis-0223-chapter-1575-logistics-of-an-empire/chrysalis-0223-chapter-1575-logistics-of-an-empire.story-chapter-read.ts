@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0223Chapter1575LogisticsOfAnEmpire = {
   id: "01a0672c-eb62-701a-9e02-e4e1828233fe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0223-chapter-1575-logistics-of-an-empire",
   title: "Chapter 1575 - Logistics of an Empire",

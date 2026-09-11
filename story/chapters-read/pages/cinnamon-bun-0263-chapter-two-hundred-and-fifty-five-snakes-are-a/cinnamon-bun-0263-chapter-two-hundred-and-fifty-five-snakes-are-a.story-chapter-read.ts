@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0263ChapterTwoHundredAndFiftyFiveSnakesAreA = {
   id: "01a0672c-eb16-7002-bd2b-858c8e47087a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0263-chapter-two-hundred-and-fifty-five-snakes-are-a",
   title: "Chapter Two Hundred and Fifty-Five - Snakes Are a Pain",

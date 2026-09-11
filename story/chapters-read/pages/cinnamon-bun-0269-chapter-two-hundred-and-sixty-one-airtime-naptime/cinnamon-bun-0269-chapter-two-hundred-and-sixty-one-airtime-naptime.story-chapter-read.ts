@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0269ChapterTwoHundredAndSixtyOneAirtimeNaptime = {
   id: "01a0672c-eb16-7008-b2f5-9625ec76b9d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0269-chapter-two-hundred-and-sixty-one-airtime-naptime",
   title: "Chapter Two Hundred and Sixty-One - Airtime Naptime",

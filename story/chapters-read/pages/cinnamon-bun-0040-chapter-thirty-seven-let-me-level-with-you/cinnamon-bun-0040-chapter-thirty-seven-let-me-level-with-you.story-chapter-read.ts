@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0040ChapterThirtySevenLetMeLevelWithYou = {
   id: "01a0672c-eb04-7002-b15a-c3170953a418",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0040-chapter-thirty-seven-let-me-level-with-you",
   title: "Chapter Thirty-Seven - Let me Level With You",

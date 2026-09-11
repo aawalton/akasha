@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0249ChapterTwoHundredAndFortyOneIslanding = {
   id: "01a0672c-eb15-7003-b7b5-e49248d75dc9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0249-chapter-two-hundred-and-forty-one-islanding",
   title: "Chapter Two Hundred and Forty-One - Islanding",

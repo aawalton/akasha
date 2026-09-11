@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0312ChapterThreeHundredAndFourRoyalExpositioner = {
   id: "01a0672c-eb19-7007-906a-33faf4de48af",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0312-chapter-three-hundred-and-four-royal-expositioner",
   title: "Chapter Three Hundred and Four - Royal Expositioner",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0012ChapterTenMushroomHop = {
   id: "01a0672c-eb02-7002-b455-3a754a9ca847",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0012-chapter-ten-mushroom-hop",
   title: "Chapter Ten - Mushroom Hop",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0165ChapterOneHundredAndFiftyNineGeomagnetic = {
   id: "01a0672c-eb0d-7003-b5b6-c1cbd725ecea",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0165-chapter-one-hundred-and-fifty-nine-geomagnetic",
   title: "Chapter One Hundred and Fifty-Nine - Geomagnetic Wandering",

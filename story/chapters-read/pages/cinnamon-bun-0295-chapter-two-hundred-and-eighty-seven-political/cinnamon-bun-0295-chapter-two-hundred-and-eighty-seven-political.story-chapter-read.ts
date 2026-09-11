@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0295ChapterTwoHundredAndEightySevenPolitical = {
   id: "01a0672c-eb18-7005-acba-ec555ec5a7f0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0295-chapter-two-hundred-and-eighty-seven-political",
   title: "Chapter Two Hundred and Eighty-Seven - Political Ramblings and Rumblings",

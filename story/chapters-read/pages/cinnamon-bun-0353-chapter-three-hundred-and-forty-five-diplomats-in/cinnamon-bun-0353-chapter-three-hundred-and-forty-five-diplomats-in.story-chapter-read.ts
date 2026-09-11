@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0353ChapterThreeHundredAndFortyFiveDiplomatsIn = {
   id: "01a0672c-eb1c-700e-ad71-7763b73e074e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0353-chapter-three-hundred-and-forty-five-diplomats-in",
   title: "Chapter Three Hundred and Forty-Five - Diplomats in Distress",

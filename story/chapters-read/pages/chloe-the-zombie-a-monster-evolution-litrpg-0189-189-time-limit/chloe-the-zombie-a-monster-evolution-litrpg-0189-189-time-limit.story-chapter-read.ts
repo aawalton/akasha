@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0189189TimeLimit = {
   id: "01a06731-ad7f-7011-86fd-e2a036bdd206",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0189-189-time-limit",
   title: "189: Time Limit",

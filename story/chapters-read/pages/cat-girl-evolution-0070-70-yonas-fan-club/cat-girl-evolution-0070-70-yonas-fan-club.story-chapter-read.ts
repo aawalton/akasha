@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution007070YonasFanClub = {
   id: "01a06731-b001-7001-84f9-00fef6222e09",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0070-70-yonas-fan-club",
   title: "70 - Yona's Fan Club",

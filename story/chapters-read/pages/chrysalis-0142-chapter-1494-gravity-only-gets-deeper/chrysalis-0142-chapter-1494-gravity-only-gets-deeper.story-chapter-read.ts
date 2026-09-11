@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0142Chapter1494GravityOnlyGetsDeeper = {
   id: "01a0672c-eb60-7003-9bb7-0e5c790d8d4c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0142-chapter-1494-gravity-only-gets-deeper",
   title: "Chapter 1494 - Gravity Only Gets Deeper",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0202ChapterOneHundredAndNinetyFiveBuddySystem = {
   id: "01a0672c-eb12-7003-a15d-9e6b4d06c606",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0202-chapter-one-hundred-and-ninety-five-buddy-system",
   title: "Chapter One Hundred and Ninety-Five - Buddy System",

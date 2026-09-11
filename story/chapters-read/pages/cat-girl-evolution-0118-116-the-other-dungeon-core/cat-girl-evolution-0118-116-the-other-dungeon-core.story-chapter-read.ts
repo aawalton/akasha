@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0118116TheOtherDungeonCore = {
   id: "01a06731-b016-7003-8758-66ec93bdcd0a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0118-116-the-other-dungeon-core",
   title: "116 - The Other Dungeon Core",

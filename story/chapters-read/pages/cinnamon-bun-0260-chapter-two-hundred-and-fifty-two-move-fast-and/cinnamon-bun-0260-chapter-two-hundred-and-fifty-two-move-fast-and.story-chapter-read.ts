@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0260ChapterTwoHundredAndFiftyTwoMoveFastAnd = {
   id: "01a0672c-eb15-700e-a3a8-ffe9e7020c26",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0260-chapter-two-hundred-and-fifty-two-move-fast-and",
   title: "Chapter Two Hundred and Fifty-Two - Move Fast and Break Things",

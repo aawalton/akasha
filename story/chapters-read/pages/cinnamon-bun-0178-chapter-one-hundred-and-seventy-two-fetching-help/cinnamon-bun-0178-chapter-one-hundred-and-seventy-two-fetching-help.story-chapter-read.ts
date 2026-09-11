@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0178ChapterOneHundredAndSeventyTwoFetchingHelp = {
   id: "01a0672c-eb10-700a-976b-cbce021b48fa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0178-chapter-one-hundred-and-seventy-two-fetching-help",
   title: "Chapter One Hundred and Seventy-Two - Fetching Help II: Re-Re-Kidnapping",

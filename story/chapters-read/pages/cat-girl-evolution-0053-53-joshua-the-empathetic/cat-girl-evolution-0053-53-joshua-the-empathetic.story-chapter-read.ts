@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution005353JoshuaTheEmpathetic = {
   id: "01a06731-affc-7001-9bb6-6c4d4a516e56",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0053-53-joshua-the-empathetic",
   title: "53 - Joshua, the Empathetic",

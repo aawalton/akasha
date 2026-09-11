@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0188Chapter1540EndlessPunchingBag = {
   id: "01a0672c-eb61-7015-a790-8c45565696d6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0188-chapter-1540-endless-punching-bag",
   title: "Chapter 1540 - Endless Punching Bag\t",

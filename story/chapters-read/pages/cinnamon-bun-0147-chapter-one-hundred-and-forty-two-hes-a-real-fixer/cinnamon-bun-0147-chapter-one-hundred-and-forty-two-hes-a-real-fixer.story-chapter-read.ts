@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0147ChapterOneHundredAndFortyTwoHesARealFixer = {
   id: "01a0672c-eb0b-700b-a577-2d1598815903",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0147-chapter-one-hundred-and-forty-two-hes-a-real-fixer",
   title: "Chapter One Hundred and Forty-Two - He’s a Real Fixer-Upper",

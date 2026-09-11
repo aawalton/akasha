@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0419Chapter1767TheDeepTunnels = {
   id: "01a0672c-eb69-701a-a0e7-ed61a26fa453",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0419-chapter-1767-the-deep-tunnels",
   title: "Chapter 1767 - The Deep Tunnels",

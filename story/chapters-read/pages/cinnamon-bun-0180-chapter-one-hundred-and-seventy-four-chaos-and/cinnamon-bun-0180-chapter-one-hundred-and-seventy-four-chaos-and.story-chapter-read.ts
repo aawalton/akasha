@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0180ChapterOneHundredAndSeventyFourChaosAnd = {
   id: "01a0672c-eb10-700c-83f4-d2fe3b46479f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0180-chapter-one-hundred-and-seventy-four-chaos-and",
   title: "Chapter One Hundred and Seventy-Four - Chaos and Anarchy and Other Sorts of Fun",

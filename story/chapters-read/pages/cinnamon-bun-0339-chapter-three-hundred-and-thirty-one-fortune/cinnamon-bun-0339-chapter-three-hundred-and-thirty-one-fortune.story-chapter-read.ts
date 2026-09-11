@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0339ChapterThreeHundredAndThirtyOneFortune = {
   id: "01a0672c-eb1c-7000-bb4e-302fca48249e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0339-chapter-three-hundred-and-thirty-one-fortune",
   title: "Chapter Three Hundred and Thirty-One - Fortune Seeker",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0045ChapterFortyTwoSorryForHarpyRocking = {
   id: "01a0672c-eb04-7007-b2ff-a8648fa89f2a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0045-chapter-forty-two-sorry-for-harpy-rocking",
   title: "Chapter Forty-Two - Sorry for Harpy Rocking",

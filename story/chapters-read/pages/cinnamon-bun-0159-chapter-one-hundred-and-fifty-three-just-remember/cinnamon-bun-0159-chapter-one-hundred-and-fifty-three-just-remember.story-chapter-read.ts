@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0159ChapterOneHundredAndFiftyThreeJustRemember = {
   id: "01a0672c-eb0c-700b-b6d6-11d10125ea15",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0159-chapter-one-hundred-and-fifty-three-just-remember",
   title: "Chapter One Hundred and Fifty-Three - Just Remember: Everything is Illegal",

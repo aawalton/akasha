@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0175175ManInTheWall = {
   id: "01a06731-ad7f-7003-a618-42d57e8f057d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0175-175-man-in-the-wall",
   title: "175: Man in the Wall",

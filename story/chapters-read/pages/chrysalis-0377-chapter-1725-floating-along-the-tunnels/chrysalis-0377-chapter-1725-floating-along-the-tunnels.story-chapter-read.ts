@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0377Chapter1725FloatingAlongTheTunnels = {
   id: "01a0672c-eb68-7009-9ee8-bf34ec33f7ca",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0377-chapter-1725-floating-along-the-tunnels",
   title: "Chapter 1725 - Floating Along the Tunnels",

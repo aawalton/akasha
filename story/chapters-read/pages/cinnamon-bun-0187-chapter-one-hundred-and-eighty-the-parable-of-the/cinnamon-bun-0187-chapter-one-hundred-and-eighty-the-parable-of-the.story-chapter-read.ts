@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0187ChapterOneHundredAndEightyTheParableOfThe = {
   id: "01a0672c-eb11-7004-8bc8-5cb567d9ade4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0187-chapter-one-hundred-and-eighty-the-parable-of-the",
   title: "Chapter One Hundred and Eighty - The Parable of the Baker Knight",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0142139SkarnTacos = {
   id: "01a06731-b01c-7000-b82c-d44b44c46be4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0142-139-skarn-tacos",
   title: "139 - Skarn Tacos",

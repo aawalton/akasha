@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0124122TheFirstEventBegins = {
   id: "01a06731-b018-7001-bff2-1e47aed02316",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0124-122-the-first-event-begins",
   title: "122 - The First Event Begins",

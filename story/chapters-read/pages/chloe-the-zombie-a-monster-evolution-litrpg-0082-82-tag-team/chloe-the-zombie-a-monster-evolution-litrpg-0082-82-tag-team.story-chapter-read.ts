@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg008282TagTeam = {
   id: "01a06731-ad7a-700d-9e61-bdf2f1efc271",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0082-82-tag-team",
   title: "82: Tag Team",

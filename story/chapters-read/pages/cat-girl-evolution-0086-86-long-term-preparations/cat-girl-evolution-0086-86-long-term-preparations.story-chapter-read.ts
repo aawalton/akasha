@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution008686LongTermPreparations = {
   id: "01a06731-b009-7001-a4cc-3640930c804c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0086-86-long-term-preparations",
   title: "86 - Long Term Preparations",

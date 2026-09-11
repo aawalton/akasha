@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0262ChapterTwoHundredAndFiftyFourJointStrike = {
   id: "01a0672c-eb16-7001-8e2b-844881442008",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0262-chapter-two-hundred-and-fifty-four-joint-strike",
   title: "Chapter Two Hundred and Fifty-Four - Joint Strike Fighters",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0240ChapterTwoHundredAndThirtyTwoBefriendThem = {
   id: "01a0672c-eb14-7008-98ec-c84057d6c24f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0240-chapter-two-hundred-and-thirty-two-befriend-them",
   title: "Chapter Two Hundred and Thirty-Two - Befriend Them with Lasers",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0200ChapterOneHundredAndNinetyThreeCleanThe = {
   id: "01a0672c-eb12-7001-a843-336f4ca6ad86",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0200-chapter-one-hundred-and-ninety-three-clean-the",
   title: "Chapter One Hundred and Ninety-Three - Clean the Walking Dead",

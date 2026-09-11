@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0505Chapter1850PunchingTheOcean = {
   id: "01a0672c-eb6c-701a-b314-9b8ff9d563ce",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0505-chapter-1850-punching-the-ocean",
   title: "Chapter 1850 - Punching the Ocean",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0273Chapter1624SludgeArtillery = {
   id: "01a0672c-eb64-7012-9a2c-5512df2a5b11",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0273-chapter-1624-sludge-artillery",
   title: "Chapter 1624 - Sludge Artillery",

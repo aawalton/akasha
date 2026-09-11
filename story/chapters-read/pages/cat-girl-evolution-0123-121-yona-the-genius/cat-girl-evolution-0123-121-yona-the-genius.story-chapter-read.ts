@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0123121YonaTheGenius = {
   id: "01a06731-b018-7000-a203-7bcce974dcb1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0123-121-yona-the-genius",
   title: "121 - Yona, the Genius",

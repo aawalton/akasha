@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0152ChapterOneHundredAndFortySixForewarnedIs = {
   id: "01a0672c-eb0c-7004-92e4-71bd8cd60802",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0152-chapter-one-hundred-and-forty-six-forewarned-is",
   title: "Chapter One Hundred and Forty-Six - Forewarned is Foreworn",

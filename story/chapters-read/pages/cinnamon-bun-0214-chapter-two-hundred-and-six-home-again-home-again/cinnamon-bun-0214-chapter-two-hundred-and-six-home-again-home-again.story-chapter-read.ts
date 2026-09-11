@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0214ChapterTwoHundredAndSixHomeAgainHomeAgain = {
   id: "01a0672c-eb12-700f-b27f-519f4fb1e000",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0214-chapter-two-hundred-and-six-home-again-home-again",
   title: "Chapter Two Hundred and Six - Home Again, Home Again",

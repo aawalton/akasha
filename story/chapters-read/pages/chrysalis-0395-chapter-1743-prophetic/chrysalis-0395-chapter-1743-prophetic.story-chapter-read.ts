@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0395Chapter1743Prophetic = {
   id: "01a0672c-eb69-7002-a2fa-f336d7cf792e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0395-chapter-1743-prophetic",
   title: "Chapter 1743 - Prophetic",

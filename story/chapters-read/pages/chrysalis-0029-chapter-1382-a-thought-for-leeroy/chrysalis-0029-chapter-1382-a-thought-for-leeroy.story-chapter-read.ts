@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0029Chapter1382AThoughtForLeeroy = {
   id: "01a0672c-eb5b-7003-82d1-b9e0acb640ed",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0029-chapter-1382-a-thought-for-leeroy",
   title: "Chapter 1382 - A Thought For Leeroy?",

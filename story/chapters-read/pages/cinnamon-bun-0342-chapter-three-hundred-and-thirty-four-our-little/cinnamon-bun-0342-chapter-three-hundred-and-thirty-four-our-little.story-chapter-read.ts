@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0342ChapterThreeHundredAndThirtyFourOurLittle = {
   id: "01a0672c-eb1c-7003-af2d-ff080e8c4f7e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0342-chapter-three-hundred-and-thirty-four-our-little",
   title: "Chapter Three Hundred and Thirty-Four - Our Little Ponies",

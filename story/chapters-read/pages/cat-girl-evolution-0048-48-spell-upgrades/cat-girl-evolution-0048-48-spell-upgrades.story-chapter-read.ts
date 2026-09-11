@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution004848SpellUpgrades = {
   id: "01a06731-affb-7002-9af8-37b4c545885a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0048-48-spell-upgrades",
   title: "48 - Spell Upgrades",

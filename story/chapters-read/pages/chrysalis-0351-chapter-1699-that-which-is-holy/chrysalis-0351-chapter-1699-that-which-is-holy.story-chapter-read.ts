@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0351Chapter1699ThatWhichIsHoly = {
   id: "01a0672c-eb67-700d-8f8a-c2abb7373931",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0351-chapter-1699-that-which-is-holy",
   title: "Chapter 1699 - That Which is Holy",

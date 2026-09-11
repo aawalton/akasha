@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0320ChapterThreeHundredAndTwelveLayThemToRest = {
   id: "01a0672c-eb1a-7000-8138-4ee167234867",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0320-chapter-three-hundred-and-twelve-lay-them-to-rest",
   title: "Chapter Three Hundred and Twelve - Lay Them to Rest",

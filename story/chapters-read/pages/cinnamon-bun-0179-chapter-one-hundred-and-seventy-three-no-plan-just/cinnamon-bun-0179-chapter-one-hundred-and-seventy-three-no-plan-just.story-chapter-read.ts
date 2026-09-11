@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0179ChapterOneHundredAndSeventyThreeNoPlanJust = {
   id: "01a0672c-eb10-700b-a4b8-8b55cc309ae3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0179-chapter-one-hundred-and-seventy-three-no-plan-just",
   title: "Chapter One Hundred and Seventy-Three - No Plan, Just Survive Contact With the Enemy",

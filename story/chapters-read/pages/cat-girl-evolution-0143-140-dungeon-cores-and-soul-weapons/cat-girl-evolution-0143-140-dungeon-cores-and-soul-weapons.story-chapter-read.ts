@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0143140DungeonCoresAndSoulWeapons = {
   id: "01a06731-b01c-7001-b6fd-fbe863010b53",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0143-140-dungeon-cores-and-soul-weapons",
   title: "140 - Dungeon Cores and Soul Weapons",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0194Chapter1546EyesOfTheEnder = {
   id: "01a0672c-eb61-701b-acce-b171e6481599",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0194-chapter-1546-eyes-of-the-ender",
   title: "Chapter 1546 - Eyes of the Ender",

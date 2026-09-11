@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0311ChapterThreeHundredAndThreeOutOfTheDark = {
   id: "01a0672c-eb19-7006-a007-b87fa2b852d6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0311-chapter-three-hundred-and-three-out-of-the-dark",
   title: "Chapter Three Hundred and Three - Out of the Dark",

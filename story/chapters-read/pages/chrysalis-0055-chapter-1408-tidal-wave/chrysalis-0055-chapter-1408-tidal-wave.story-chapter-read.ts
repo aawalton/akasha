@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0055Chapter1408TidalWave = {
   id: "01a0672c-eb5c-7000-9c64-5d5257184899",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0055-chapter-1408-tidal-wave",
   title: "Chapter 1408 - Tidal Wave",

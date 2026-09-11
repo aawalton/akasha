@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0439Chapter1787ThatSJustPoorPlanning = {
   id: "01a0672c-eb6a-7012-9409-d132258865f9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0439-chapter-1787-that-s-just-poor-planning",
   title: "Chapter 1787 - That’s Just Poor Planning",

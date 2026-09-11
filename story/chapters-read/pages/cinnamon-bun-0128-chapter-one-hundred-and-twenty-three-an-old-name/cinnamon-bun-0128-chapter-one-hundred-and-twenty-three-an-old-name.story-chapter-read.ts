@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0128ChapterOneHundredAndTwentyThreeAnOldName = {
   id: "01a0672c-eb0a-7007-bff0-a20bfd0c6498",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0128-chapter-one-hundred-and-twenty-three-an-old-name",
   title: "Chapter One Hundred and Twenty-Three - An Old Name",

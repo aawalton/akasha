@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0438Chapter1786ItJustDoesnTStop = {
   id: "01a0672c-eb6a-7011-926f-8ab147be3c11",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0438-chapter-1786-it-just-doesn-t-stop",
   title: "Chapter 1786 - It Just Doesn’t Stop",

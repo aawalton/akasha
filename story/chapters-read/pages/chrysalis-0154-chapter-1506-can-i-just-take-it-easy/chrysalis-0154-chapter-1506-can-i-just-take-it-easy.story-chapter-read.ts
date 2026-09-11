@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0154Chapter1506CanIJustTakeItEasy = {
   id: "01a0672c-eb60-700f-ad5a-2c5cebca190d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0154-chapter-1506-can-i-just-take-it-easy",
   title: "Chapter 1506 - Can I… Just Take It Easy?",

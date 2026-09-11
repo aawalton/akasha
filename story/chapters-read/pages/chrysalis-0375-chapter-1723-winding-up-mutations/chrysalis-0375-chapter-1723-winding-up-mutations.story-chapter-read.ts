@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0375Chapter1723WindingUpMutations = {
   id: "01a0672c-eb68-7007-a960-bd5ce1b61a5e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0375-chapter-1723-winding-up-mutations",
   title: "Chapter 1723 - Winding Up Mutations",

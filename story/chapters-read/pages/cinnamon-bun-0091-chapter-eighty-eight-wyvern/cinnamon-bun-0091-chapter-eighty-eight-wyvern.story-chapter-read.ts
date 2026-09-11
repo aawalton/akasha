@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0091ChapterEightyEightWyvern = {
   id: "01a0672c-eb07-700d-bdaa-8025254c8c41",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0091-chapter-eighty-eight-wyvern",
   title: "Chapter Eighty-Eight - Wyvern",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0064Chapter1416AFriendYouCanRelyOn = {
   id: "01a0672c-eb5c-7009-903c-2127e39015c1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0064-chapter-1416-a-friend-you-can-rely-on",
   title: "Chapter 1416 - A Friend You Can Rely On",

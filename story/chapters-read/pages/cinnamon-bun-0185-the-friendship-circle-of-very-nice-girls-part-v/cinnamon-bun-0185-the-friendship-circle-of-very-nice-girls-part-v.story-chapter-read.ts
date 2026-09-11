@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0185TheFriendshipCircleOfVeryNiceGirlsPartV = {
   id: "01a0672c-eb11-7002-b168-98cbf7d16016",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0185-the-friendship-circle-of-very-nice-girls-part-v",
   title: "The Friendship Circle of Very Nice Girls - Part V",

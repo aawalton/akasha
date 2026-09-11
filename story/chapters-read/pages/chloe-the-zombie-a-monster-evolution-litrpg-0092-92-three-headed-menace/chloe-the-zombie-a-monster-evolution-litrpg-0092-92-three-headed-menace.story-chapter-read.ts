@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg009292ThreeHeadedMenace = {
   id: "01a06731-ad7b-7003-bbde-d2efdaaf47b4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0092-92-three-headed-menace",
   title: "92: Three Headed Menace",

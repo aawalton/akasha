@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0357ChapterThreeHundredAndFortyNineFoodFor = {
   id: "01a0672c-eb1d-7001-a63d-3a753177539b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0357-chapter-three-hundred-and-forty-nine-food-for",
   title: "Chapter Three Hundred and Forty-Nine - Food for Thought",

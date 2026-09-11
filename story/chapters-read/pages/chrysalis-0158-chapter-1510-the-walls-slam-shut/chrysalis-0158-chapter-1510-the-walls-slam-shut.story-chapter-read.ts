@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0158Chapter1510TheWallsSlamShut = {
   id: "01a0672c-eb60-7013-b7c6-bc2c46f6cc9e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0158-chapter-1510-the-walls-slam-shut",
   title: "Chapter 1510 - The Walls Slam Shut",

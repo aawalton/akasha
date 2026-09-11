@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0293ChapterTwoHundredAndEightyFiveIntoThinAir = {
   id: "01a0672c-eb18-7003-9b66-87cb97be1edb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0293-chapter-two-hundred-and-eighty-five-into-thin-air",
   title: "Chapter Two Hundred and Eighty-Five - Into Thin Air",

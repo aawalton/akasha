@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0323ChapterThreeHundredAndFifteenChildishFears = {
   id: "01a0672c-eb1a-7003-9d05-981a226cfd4e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0323-chapter-three-hundred-and-fifteen-childish-fears",
   title: "Chapter Three Hundred and Fifteen - Childish Fears Grow Up to become Adult Fears",

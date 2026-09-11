@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0158ChapterOneHundredAndFiftyTwoPeaceThrough = {
   id: "01a0672c-eb0c-700a-a0cb-a40565367d4e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0158-chapter-one-hundred-and-fifty-two-peace-through",
   title: "Chapter One Hundred and Fifty-Two - Peace Through Overwhelming Friendpower",

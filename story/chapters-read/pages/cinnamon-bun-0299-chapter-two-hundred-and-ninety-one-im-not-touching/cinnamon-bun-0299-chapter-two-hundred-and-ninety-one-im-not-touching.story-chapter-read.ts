@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0299ChapterTwoHundredAndNinetyOneImNotTouching = {
   id: "01a0672c-eb18-7009-ac4a-a1bc4113cbae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0299-chapter-two-hundred-and-ninety-one-im-not-touching",
   title: "Chapter Two Hundred and Ninety-One - I'm Not Touching You!",

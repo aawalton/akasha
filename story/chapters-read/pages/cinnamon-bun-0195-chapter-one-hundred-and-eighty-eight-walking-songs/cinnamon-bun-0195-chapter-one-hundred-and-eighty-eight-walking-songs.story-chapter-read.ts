@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0195ChapterOneHundredAndEightyEightWalkingSongs = {
   id: "01a0672c-eb11-700c-8a9a-d29e5cfd4b52",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0195-chapter-one-hundred-and-eighty-eight-walking-songs",
   title: "Chapter One Hundred and Eighty-Eight - Walking Songs",

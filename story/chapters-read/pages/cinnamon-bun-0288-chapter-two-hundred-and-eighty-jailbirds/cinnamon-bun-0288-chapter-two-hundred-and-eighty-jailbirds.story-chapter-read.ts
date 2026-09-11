@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0288ChapterTwoHundredAndEightyJailbirds = {
   id: "01a0672c-eb17-700d-bd54-569fa2e0cbc4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0288-chapter-two-hundred-and-eighty-jailbirds",
   title: "Chapter Two Hundred and Eighty - Jailbirds",

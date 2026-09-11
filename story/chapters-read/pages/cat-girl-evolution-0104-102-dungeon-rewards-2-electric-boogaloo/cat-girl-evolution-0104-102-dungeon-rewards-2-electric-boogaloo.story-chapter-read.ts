@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0104102DungeonRewards2ElectricBoogaloo = {
   id: "01a06731-b011-7001-9d5a-552846d3bbf0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0104-102-dungeon-rewards-2-electric-boogaloo",
   title: "102 - Dungeon Rewards 2: Electric Boogaloo",

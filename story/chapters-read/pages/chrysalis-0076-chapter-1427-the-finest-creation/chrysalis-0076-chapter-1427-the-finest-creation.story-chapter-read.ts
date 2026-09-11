@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0076Chapter1427TheFinestCreation = {
   id: "01a0672c-eb5c-7015-aaf2-1ada5dc1bb1a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0076-chapter-1427-the-finest-creation",
   title: "Chapter 1427 - The Finest Creation",

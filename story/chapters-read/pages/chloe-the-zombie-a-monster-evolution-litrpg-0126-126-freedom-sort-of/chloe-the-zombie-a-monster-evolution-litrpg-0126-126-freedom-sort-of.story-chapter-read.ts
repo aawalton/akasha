@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0126126FreedomSortOf = {
   id: "01a06731-ad7c-700f-9cfb-a0ca83d42418",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0126-126-freedom-sort-of",
   title: "126: Freedom, Sort of",

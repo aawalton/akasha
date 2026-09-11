@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0211ChapterTwoHundredAndThreeDoScienceToIt = {
   id: "01a0672c-eb12-700c-8c6b-7e6983584018",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0211-chapter-two-hundred-and-three-do-science-to-it",
   title: "Chapter Two Hundred and Three - Do Science To It",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0132132HardHeaded = {
   id: "01a06731-ad7c-7015-a0ef-4935512c87f6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0132-132-hard-headed",
   title: "132: Hard Headed",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0130Chapter1482BearInThere = {
   id: "01a0672c-eb5f-7010-9b70-04cbcba69125",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0130-chapter-1482-bear-in-there",
   title: "Chapter 1482 - Bear in There",

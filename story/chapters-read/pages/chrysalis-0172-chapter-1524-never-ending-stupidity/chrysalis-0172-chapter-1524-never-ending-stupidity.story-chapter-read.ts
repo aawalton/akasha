@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0172Chapter1524NeverEndingStupidity = {
   id: "01a0672c-eb61-7005-bfee-5cceb769e964",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0172-chapter-1524-never-ending-stupidity",
   title: "Chapter 1524 - Never Ending Stupidity",

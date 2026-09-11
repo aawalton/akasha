@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0191ChapterOneHundredAndEightyFourTheVillage = {
   id: "01a0672c-eb11-7008-9b70-070574a12833",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0191-chapter-one-hundred-and-eighty-four-the-village",
   title: "Chapter One Hundred and Eighty-Four - The Village Hidden in the Leaves",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0004ChapterTwoWhoYouGonnaCall = {
   id: "01a0672c-eb01-7003-9ec1-c4895e773766",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0004-chapter-two-who-you-gonna-call",
   title: "Chapter Two - Who You Gonna Call?",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0405Chapter1753OutIntoTheSlimeOnceMore = {
   id: "01a0672c-eb69-700c-8248-65d215208eb8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0405-chapter-1753-out-into-the-slime-once-more",
   title: "Chapter 1753 - Out Into the Slime Once More",

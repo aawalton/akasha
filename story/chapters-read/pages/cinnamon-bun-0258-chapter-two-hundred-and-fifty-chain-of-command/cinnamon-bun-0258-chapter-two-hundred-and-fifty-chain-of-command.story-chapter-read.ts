@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0258ChapterTwoHundredAndFiftyChainOfCommand = {
   id: "01a0672c-eb15-700c-ba82-52dd51177fb4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0258-chapter-two-hundred-and-fifty-chain-of-command",
   title: "Chapter Two Hundred and Fifty - Chain of Command",

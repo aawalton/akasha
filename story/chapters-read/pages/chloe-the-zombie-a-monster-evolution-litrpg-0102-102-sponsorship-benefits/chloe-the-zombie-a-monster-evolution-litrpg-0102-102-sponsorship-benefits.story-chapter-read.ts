@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg0102102SponsorshipBenefits = {
   id: "01a06731-ad7b-700d-9a6a-214e1e9d4397",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0102-102-sponsorship-benefits",
   title: "102: Sponsorship Benefits",

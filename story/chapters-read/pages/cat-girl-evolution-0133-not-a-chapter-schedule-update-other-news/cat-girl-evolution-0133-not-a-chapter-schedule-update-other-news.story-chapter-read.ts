@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution0133NotAChapterScheduleUpdateOtherNews = {
   id: "01a06731-b019-7000-a143-baf42745f932",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0133-not-a-chapter-schedule-update-other-news",
   title: "(NOT A CHAPTER) Schedule update + other news",

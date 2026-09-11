@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0193ChapterOneHundredAndEightySixReadyToDo = {
   id: "01a0672c-eb11-700a-b890-c3484a72f983",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0193-chapter-one-hundred-and-eighty-six-ready-to-do",
   title: "Chapter One Hundred and Eighty-Six - Ready to do Violence on Their Behalf",

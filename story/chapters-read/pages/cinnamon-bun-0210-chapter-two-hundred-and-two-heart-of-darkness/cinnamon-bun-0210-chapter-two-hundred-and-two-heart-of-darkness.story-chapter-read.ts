@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0210ChapterTwoHundredAndTwoHeartOfDarkness = {
   id: "01a0672c-eb12-700b-8908-1eb1e92c225e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0210-chapter-two-hundred-and-two-heart-of-darkness",
   title: "Chapter Two Hundred and Two - Heart of Darkness",

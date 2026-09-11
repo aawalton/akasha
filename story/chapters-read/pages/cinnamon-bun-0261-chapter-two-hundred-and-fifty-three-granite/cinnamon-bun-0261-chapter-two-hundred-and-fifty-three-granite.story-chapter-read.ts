@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0261ChapterTwoHundredAndFiftyThreeGranite = {
   id: "01a0672c-eb16-7000-b997-9aa2308706de",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0261-chapter-two-hundred-and-fifty-three-granite",
   title: "Chapter Two Hundred and Fifty-Three - Granite Springs Calls For Aid",

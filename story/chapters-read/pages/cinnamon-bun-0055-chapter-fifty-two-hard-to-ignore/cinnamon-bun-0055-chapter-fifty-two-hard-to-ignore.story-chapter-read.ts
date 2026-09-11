@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0055ChapterFiftyTwoHardToIgnore = {
   id: "01a0672c-eb05-7005-afaf-be9c9a9486c4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0055-chapter-fifty-two-hard-to-ignore",
   title: "Chapter Fifty-Two - Hard to Ignore",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0072Chapter1424GatherTheTribes = {
   id: "01a0672c-eb5c-7011-bbc7-4b8b29cf79ed",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0072-chapter-1424-gather-the-tribes",
   title: "Chapter 1424 - Gather the Tribes",

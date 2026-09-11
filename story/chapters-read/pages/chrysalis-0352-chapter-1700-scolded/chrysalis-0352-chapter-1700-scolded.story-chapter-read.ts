@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0352Chapter1700Scolded = {
   id: "01a0672c-eb67-700e-9166-e47ad663ed49",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0352-chapter-1700-scolded",
   title: "Chapter 1700 - Scolded",

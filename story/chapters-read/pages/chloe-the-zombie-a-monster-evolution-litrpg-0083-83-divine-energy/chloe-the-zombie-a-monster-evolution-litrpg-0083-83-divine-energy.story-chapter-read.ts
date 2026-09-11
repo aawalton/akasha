@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chloeTheZombieAMonsterEvolutionLitrpg008383DivineEnergy = {
   id: "01a06731-ad7a-700e-8695-1e88b41b4b79",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0083-83-divine-energy",
   title: "83: Divine Energy",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution003737SensitiveMatters = {
   id: "01a06731-aff3-7002-8181-b7f1beb2646e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0037-37-sensitive-matters",
   title: "37 - Sensitive Matters",

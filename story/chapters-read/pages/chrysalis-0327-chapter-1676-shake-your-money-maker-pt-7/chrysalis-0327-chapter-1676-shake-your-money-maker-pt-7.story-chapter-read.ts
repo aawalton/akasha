@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0327Chapter1676ShakeYourMoneyMakerPt7 = {
   id: "01a0672c-eb66-7014-a5f9-baf13a104f54",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0327-chapter-1676-shake-your-money-maker-pt-7",
   title: "Chapter 1676 - Shake Your Money Maker pt 7",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0192ChapterOneHundredAndEightyFiveGrandmommas = {
   id: "01a0672c-eb11-7009-9e91-3cd8465ae276",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0192-chapter-one-hundred-and-eighty-five-grandmommas",
   title: "Chapter One Hundred and Eighty-Five - Grandmomma's Hug",

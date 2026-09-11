@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0179Chapter1531UnbreakableAbyssalSteel = {
   id: "01a0672c-eb61-700c-9c10-48fc14902330",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0179-chapter-1531-unbreakable-abyssal-steel",
   title: "Chapter 1531 - Unbreakable Abyssal Steel",

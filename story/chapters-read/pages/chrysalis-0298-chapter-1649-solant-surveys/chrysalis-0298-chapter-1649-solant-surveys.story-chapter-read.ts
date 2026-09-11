@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0298Chapter1649SolantSurveys = {
   id: "01a0672c-eb65-7010-8231-4e144fe2139e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0298-chapter-1649-solant-surveys",
   title: "Chapter 1649 - Solant Surveys",

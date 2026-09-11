@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0108ChapterOneHundredAndFourTheBunInTheArena = {
   id: "01a0672c-eb09-7002-91f0-8ec63f89cd33",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0108-chapter-one-hundred-and-four-the-bun-in-the-arena",
   title: "Chapter One Hundred and Four - The Bun in the Arena",

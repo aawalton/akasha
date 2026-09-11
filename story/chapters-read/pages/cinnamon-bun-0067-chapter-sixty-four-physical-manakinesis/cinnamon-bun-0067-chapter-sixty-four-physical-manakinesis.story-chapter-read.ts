@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0067ChapterSixtyFourPhysicalManakinesis = {
   id: "01a0672c-eb06-7002-aa00-da59651cef86",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0067-chapter-sixty-four-physical-manakinesis",
   title: "Chapter Sixty-Four - Physical Manakinesis",

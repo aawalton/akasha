@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0424Chapter1772BellyOfTheBeast = {
   id: "01a0672c-eb6a-7003-ae19-652e278236d7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0424-chapter-1772-belly-of-the-beast",
   title: "Chapter 1772 - Belly of the Beast",

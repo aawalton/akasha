@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const cinnamonBun0291ChapterTwoHundredAndEightyThreeAreYou = {
   id: "01a0672c-eb18-7001-b7c4-9deb29cfdcf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cinnamon-bun-0291-chapter-two-hundred-and-eighty-three-are-you",
   title: "Chapter Two Hundred and Eighty-Three - Are You Trying to Get Arrested",

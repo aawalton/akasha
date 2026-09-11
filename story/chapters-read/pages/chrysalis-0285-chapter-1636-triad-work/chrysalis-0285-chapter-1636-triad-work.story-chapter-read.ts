@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0285Chapter1636TriadWork = {
   id: "01a0672c-eb65-7003-900b-8e635a5ecf95",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0285-chapter-1636-triad-work",
   title: "Chapter 1636 - Triad Work",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0070Chapter1422ZluthAscendant = {
   id: "01a0672c-eb5c-700f-b1f9-5e816a65ca34",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0070-chapter-1422-zluth-ascendant",
   title: "Chapter 1422 - Zluth Ascendant",

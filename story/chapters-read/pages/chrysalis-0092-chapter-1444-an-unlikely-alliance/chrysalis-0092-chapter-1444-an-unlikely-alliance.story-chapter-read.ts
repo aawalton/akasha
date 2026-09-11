@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const chrysalis0092Chapter1444AnUnlikelyAlliance = {
   id: "01a0672c-eb5d-700a-bfcf-65e9ee92a884",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "chrysalis-0092-chapter-1444-an-unlikely-alliance",
   title: "Chapter 1444 - An Unlikely Alliance",

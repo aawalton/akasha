@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const catGirlEvolution006161TheCrimeScene = {
   id: "01a06731-affe-7004-b6b9-e71be40ecf1d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0061-61-the-crime-scene",
   title: "61 - The Crime Scene",
