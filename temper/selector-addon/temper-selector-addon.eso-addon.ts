@@ -46,4 +46,5 @@ export const temperSelectorAddon = {
       statement: "The game acts on a switched add-on only once the interface reloads.",
     },
   ],
+  deployedCommit: "5d4ae145ca8a972d91116b197193c25e6e335e3a",
 } as const satisfies EsoAddon
