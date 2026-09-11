@@ -92,6 +92,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`page-type.page-type.ts:88` states a type generator, and `types.file-property.ts:16-24` has a page type's type written beside it rather than by hand. A command gets the same: the keys its reader answers are the arguments its pages declare, so naming one no page declares will not compile. This is what makes a check comparing page against code unnecessary — the disagreement cannot be written, rather than being caught after it is.\n",
     },
+    {
+      statement: "A key piped into a command is one of that command's arguments.",
+      workingMemory:
+        "`taking.record-property.ts:34` says a command taking its arguments piped in states nothing here, so the keys `akasha change draft` reads are written on no page. A caller learns them from a refusal: drafting `rename-page` with `slug` was answered by `to` names what this change is handed. Each act carries its own — `at`, `old`, `new`, `key`, `record`, `where`, `is`, `of`, `to`. Only the way the words arrive differs.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
