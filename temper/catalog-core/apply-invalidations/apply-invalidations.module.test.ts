@@ -3,7 +3,7 @@ import {
   type ApplyInvalidationsView,
   applyPendingInvalidations,
   type PendingInvalidation,
-} from "./apply-invalidations.module.code.ts"
+} from "akasha/temper/catalog-core/apply-invalidations/apply-invalidations.module.code.ts"
 
 const ALL_KEYS = ["achievementCatalog", "recipeCatalog", "loreLibraryCatalog"] as const
 

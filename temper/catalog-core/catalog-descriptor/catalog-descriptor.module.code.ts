@@ -1,5 +1,5 @@
 import type { CaptureDescriptor } from "akasha/temper/capture-descriptor/descriptor/descriptor.module.code.ts"
-import type { CatalogPayload } from "../catalog-payload/catalog-payload.module.code.ts"
+import type { CatalogPayload } from "akasha/temper/catalog-core/catalog-payload/catalog-payload.module.code.ts"
 
 const DEFAULTS: CatalogPayload = {
   achievementCatalog: undefined,

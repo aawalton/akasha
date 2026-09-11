@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const catalogDescriptor = {
   id: "01a06071-0c77-71fa-866d-8ddbd099aa5c",

@@ -1,4 +1,4 @@
-import type { DomainKey } from "../domain-keys/domain-keys.module.code.ts"
+import type { DomainKey } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
 
 export interface CatalogDomainEntry {
   readonly key: DomainKey

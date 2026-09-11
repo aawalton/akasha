@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { CATALOG_DOMAIN_KEYS } from "../domain-keys/domain-keys.module.code.ts"
-import { decideClearTarget } from "./clear-target.module.code.ts"
+import { decideClearTarget } from "akasha/temper/catalog-core/clear-target/clear-target.module.code.ts"
+import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
 
 const KEYS = CATALOG_DOMAIN_KEYS
 

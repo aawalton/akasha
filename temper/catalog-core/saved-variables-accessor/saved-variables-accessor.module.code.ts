@@ -1,4 +1,4 @@
-import type { CatalogPayload } from "../catalog-payload/catalog-payload.module.code.ts"
+import type { CatalogPayload } from "akasha/temper/catalog-core/catalog-payload/catalog-payload.module.code.ts"
 
 let savedVariablesAccessor: ((this: void) => CatalogPayload) | undefined
 
