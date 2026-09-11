@@ -46,7 +46,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "absence",
-      statement: "Only a function is read and only a renaming is defeated.",
+      statement: "Only a function is read.",
     },
     {
       invariantKind: "departure",
@@ -87,6 +87,22 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "absence",
       statement: "A rule in a file no page claims is left unread.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A rule spelled by an arrow held as an object property is left unread.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A rule spelled by a class method is left unread.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A rule spelled by a function handed straight to a call is left unread.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A rule spelled inside a template literal is left unread.",
     },
     {
       invariantKind: "departure",
