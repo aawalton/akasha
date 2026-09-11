@@ -1,23 +1,20 @@
 import { expect, test } from "bun:test"
-import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
-import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
-  NOTHING_OVER,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-
-const FROM = "akasha/one/one.held.ts"
-
-const TO = "akasha/one/two.held.ts"
-
-const USES = "akasha/one/uses.held.ts"
-
-const FAR = "akasha/one/deeper/far.held.ts"
-
-const ELSEWHERE = "akasha/two/two.held.ts"
+  addedAt,
+  ELSEWHERE,
+  FAR,
+  FROM,
+  NAMED,
+  NAMED_AT,
+  puttingAt,
+  ROOT,
+  ROOT_AT,
+  TO,
+  takenAt,
+  USES,
+  worldOf,
+} from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test-fixtures.ts"
 
 const DEEP = `import type { Deep } from "./deep.held.ts"`
 
@@ -69,75 +66,6 @@ const TAKEN = `
 export type Kept = {
   readonly deep: Deep
 }`
-
-type Passage = { at: string; old: string; new: string }
-
-type Adding = { at: string; body: string }
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(changeFileContent(world, given as Passage))
-  }
-  if (at === "change-mechanical/add-file-code") {
-    const asked = given as Adding
-    return Promise.resolve(stating([{ kind: "add", path: asked.at, content: asked.body }]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
-const NAMED_AT = "akasha/one/package.json"
-
-const NAMED = `{
-  "name": "@held/one",
-  "exports": { "./one": "./one.held.ts" }
-}
-`
-
-const ROOT_AT = "package.json"
-
-const ROOT = `{
-  "name": "tree",
-  "exports": { "./*": "./*" }
-}
-`
-
-function indexOf(importers: readonly string[]): World["index"] {
-  return {
-    importersOf: () => importers,
-    fileKeysAt: () => new Map(),
-    manifestsBeside: () => [NAMED_AT, ROOT_AT],
-  } as never
-}
-
-function worldOf(held: Readonly<Record<string, string>>, importers: readonly string[] = []): World {
-  return {
-    root: "/nowhere",
-    index: indexOf(importers),
-    textOf: (path) => held[path] ?? null,
-    bodyOf: (path) => held[path] ?? null,
-    under: () => [],
-    base: (path) => held[path] ?? null,
-    over: NOTHING_OVER,
-    reaching: RUNS,
-  }
-}
-
-function addedAt(said: Answer, path: string): string {
-  const found = said.edits.flatMap((one) => (one.kind === "add" && one.path === path ? [one] : []))
-  return found[0]?.content ?? ""
-}
-
-function puttingAt(said: Answer, path: string): readonly string[] {
-  return said.edits.flatMap((one) =>
-    one.kind === "replace" && one.path === path ? [one.contentTo] : []
-  )
-}
-
-function takenAt(said: Answer, path: string): readonly string[] {
-  return said.edits.flatMap((one) =>
-    one.kind === "replace" && one.path === path ? [one.contentFrom] : []
-  )
-}
 
 test("the type lands in the sibling body with the import that type names", async () => {
   const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])

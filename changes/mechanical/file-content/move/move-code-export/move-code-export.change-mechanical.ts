@@ -10,6 +10,7 @@ export const moveCodeExport = {
   definition: "one export moved from one code body to another, with every importer repointed",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   guards: ["change-guard/import-not-left-hanging"],
   invariants: [
     {
