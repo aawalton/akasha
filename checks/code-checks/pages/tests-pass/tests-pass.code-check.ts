@@ -117,7 +117,15 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A run already inside a run refuses rather than answering that the tests passed.",
+      statement: "A run already inside a run refuses rather than saying the tests passed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says no test ran and what says a run is already going.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run already inside a run refuses nothing where the change names no test.",
     },
     {
       invariantKind: "constraint",
