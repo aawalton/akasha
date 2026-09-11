@@ -8,4 +8,5 @@ export const upscaleSrpo = {
   definition: "the skin of an upscaled image refined by SRPO",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
