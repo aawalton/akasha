@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const setsData123 = {
   id: "01a061a4-18b0-7f37-89cc-e3646ca45a3c",

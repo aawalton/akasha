@@ -1,7 +1,13 @@
-import type { WeaponBar } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import type { ShieldItem, WeaponItem } from "../item-composites/item-composites.module.code.ts"
-import type { WeaponBars, WeaponSlotItem } from "../loadout-types/loadout-types.module.code.ts"
-import { weaponTypes } from "../weapon-types-data/weapon-types-data.module.code.ts"
+import type {
+  ShieldItem,
+  WeaponItem,
+} from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type {
+  WeaponBars,
+  WeaponSlotItem,
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import type { WeaponBar } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 
 export function isWeaponSlot(
   slot: WeaponSlotItem

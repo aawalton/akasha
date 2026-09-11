@@ -1,11 +1,11 @@
+import type { ItemLevel } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import { getWeaponPowerForLevel } from "akasha/temper/characters-equipment/level-scaling/level-scaling.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
+import type { EquipmentQualityId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   createDataFile,
   type DataFile,
 } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { ItemLevel } from "../item-composites/item-composites.module.code.ts"
-import { getWeaponPowerForLevel } from "../level-scaling/level-scaling.module.code.ts"
 export const TEMPER_WEAPON_TYPES_BY_ID = {
   "axe": {
     id: "axe" as const,

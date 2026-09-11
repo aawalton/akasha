@@ -1,10 +1,10 @@
+import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { EquipmentQualityId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { isMetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
-import { isMetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import { setsAll } from "../sets-all/sets-all.module.code.ts"
 
 interface SetSourceTemplate extends EffectSourceInterface<"sets", Effect> {
   categoryId: "sets"

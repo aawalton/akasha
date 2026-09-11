@@ -1,17 +1,23 @@
+import type {
+  PoisonId,
+  WeaponItem,
+} from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import { getWeaponEnchantmentEffects } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import { getWeaponTraitEffects } from "akasha/temper/characters-equipment/weapon-trait-effects/weapon-trait-effects.module.code.ts"
+import { getWeaponPower } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import type { WeaponTraitId } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import { getNirnhonedWeaponBonus } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { Effect, MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { PoisonId, WeaponItem } from "../item-composites/item-composites.module.code.ts"
-import type { WeaponEnchantmentId } from "../weapon-enchants/weapon-enchants.module.code.ts"
-import { getWeaponEnchantmentEffects } from "../weapon-enchants/weapon-enchants.module.code.ts"
-import { getWeaponTraitEffects } from "../weapon-trait-effects/weapon-trait-effects.module.code.ts"
-import { getWeaponPower } from "../weapon-types-data/weapon-types-data.module.code.ts"
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type {
+  Effect,
+  MetricEffect,
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 
 function calculateNirnhonedValue(
   basePower: number,

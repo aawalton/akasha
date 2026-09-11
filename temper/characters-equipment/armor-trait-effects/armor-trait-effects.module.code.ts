@@ -1,14 +1,14 @@
+import type { ArmorItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
 import {
   ARMOR_TRAIT_QUALITY_VALUES,
   armorTraits,
 } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export function calculateDivinesValue(baseValue: number, armorItems: readonly ArmorItem[]): number {
   let totalDivinesBonus = 0

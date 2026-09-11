@@ -1,15 +1,15 @@
+import type { ArmorItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
 import { getInfusedArmorBonus } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-import { isLargeArmorEnchantSlot } from "../../equipment-kinds/armor-types/armor-types.module.code.ts"
+import { isLargeArmorEnchantSlot } from "akasha/temper/equipment-kinds/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,
   minQuality,
   resolveQuality,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import { updateEffectValue } from "../../formula-framework/effect-value-update/effect-value-update.module.code.ts"
-import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { updateEffectValue } from "akasha/temper/formula-framework/effect-value-update/effect-value-update.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 export const TEMPER_ARMOR_ENCHANTS_BY_ID = {
   "no-enchant": {
     id: "no-enchant" as const,

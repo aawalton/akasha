@@ -1,7 +1,10 @@
+import { filterAndOrganizeSets } from "akasha/temper/characters-equipment/set-categories/set-categories.module.code.ts"
+import type { FilterableSelectDialogConfig } from "akasha/temper/characters-equipment/set-select-types/set-select-types.module.code.ts"
+import {
+  createSetSource,
+  type SetSource,
+} from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
-import { filterAndOrganizeSets } from "../set-categories/set-categories.module.code.ts"
-import type { FilterableSelectDialogConfig } from "../set-select-types/set-select-types.module.code.ts"
-import { createSetSource, type SetSource } from "../set-source/set-source.module.code.ts"
 
 export function getMaxBonusPieceCount(set: SetTemplate): number {
   if (set.bonuses.length === 0) {

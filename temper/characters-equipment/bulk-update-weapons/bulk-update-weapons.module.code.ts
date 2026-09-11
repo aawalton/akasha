@@ -1,18 +1,21 @@
-import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
-import type { WeaponTraitId } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
-import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponBars } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import { weaponSlots } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import type { Loadout, WeaponBars } from "../loadout-types/loadout-types.module.code.ts"
-import { isSetValidForSlot } from "../set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import type { WeaponEnchantmentId } from "../weapon-enchants/weapon-enchants.module.code.ts"
+import type {
+  Loadout,
+  WeaponBars,
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import { isSetValidForSlot } from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import {
   getWeaponItem,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "../weapon-slot-access/weapon-slot-access.module.code.ts"
-import { updateWeaponItem } from "../weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+} from "akasha/temper/characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { updateWeaponItem } from "akasha/temper/characters-equipment/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { WeaponTraitId } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
 
 export function bulkUpdateWeaponTrait(
   equipment: Loadout,

@@ -1,12 +1,18 @@
-import type { WeaponBar } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import type { ShieldItem, WeaponItem } from "../item-composites/item-composites.module.code.ts"
+import type {
+  ShieldItem,
+  WeaponItem,
+} from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
 import type {
   WeaponBars,
   WeaponSlotItem,
   WeaponSlotUpdateParams,
-} from "../loadout-types/loadout-types.module.code.ts"
-import { mergeItemData } from "../merge-item-data/merge-item-data.module.code.ts"
-import { isShieldSlot, isWeaponSlot } from "../weapon-slot-access/weapon-slot-access.module.code.ts"
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import { mergeItemData } from "akasha/temper/characters-equipment/merge-item-data/merge-item-data.module.code.ts"
+import {
+  isShieldSlot,
+  isWeaponSlot,
+} from "akasha/temper/characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
+import type { WeaponBar } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 
 function isWeaponUpdate(
   updates: Partial<WeaponItem> | Partial<ShieldItem>

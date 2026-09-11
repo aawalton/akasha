@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const armorEnchants = {
   id: "01a0616f-8e17-7a0c-8406-2388ce2938e6",

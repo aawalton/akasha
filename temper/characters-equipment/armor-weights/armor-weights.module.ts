@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const armorWeights = {
   id: "01a0616f-8e17-7f39-850b-c2da8d153a31",

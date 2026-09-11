@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const setPatternMatcher = {
   id: "01a0616f-8e18-7b7c-b219-f4bd903707ab",

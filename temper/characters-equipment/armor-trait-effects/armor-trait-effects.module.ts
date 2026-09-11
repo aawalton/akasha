@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const armorTraitEffects = {
   id: "01a0616f-8e16-76df-997d-3945e96d8d4b",

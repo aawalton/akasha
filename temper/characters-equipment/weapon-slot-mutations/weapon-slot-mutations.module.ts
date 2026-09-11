@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const weaponSlotMutations = {
   id: "01a0616f-8e19-7645-a34c-34df4501e35d",

@@ -1,14 +1,14 @@
+import type { JewelryItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
 import {
   JEWELRY_TRAIT_QUALITY_VALUES,
   jewelryTraits,
 } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 function calculateBloodthirstyValue(maxValue: number, targetHealth: number): number {
   const clampedHealth = Math.max(0, Math.min(1, targetHealth))

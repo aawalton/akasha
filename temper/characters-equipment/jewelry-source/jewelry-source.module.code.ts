@@ -1,13 +1,16 @@
-import type { JewelryTraitId } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
-import type { JewelryTypeId } from "../../equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
-import type { Effect, MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
+import type { JewelryItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
 import {
   getJewelryEnchantmentEffects,
   type JewelryEnchantId,
-} from "../jewelry-enchants/jewelry-enchants.module.code.ts"
-import { getJewelryTraitEffects } from "../jewelry-trait-effects/jewelry-trait-effects.module.code.ts"
+} from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { getJewelryTraitEffects } from "akasha/temper/characters-equipment/jewelry-trait-effects/jewelry-trait-effects.module.code.ts"
+import type { JewelryTraitId } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import type { JewelryTypeId } from "akasha/temper/equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
+import type {
+  Effect,
+  MetricEffect,
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 
 interface JewelryItemSource extends EffectSourceInterface<"jewelry", Effect> {
   categoryId: "jewelry"

@@ -1,11 +1,11 @@
-import type { ArmorSlotId } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
-import type { JewelrySlotId } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import type {
   JewelryItem,
   ShieldItem,
   StandardArmorItem,
   WeaponItem,
-} from "../item-composites/item-composites.module.code.ts"
+} from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type { ArmorSlotId } from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { JewelrySlotId } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 
 export type WeaponUpdateParams = Partial<WeaponItem>
 export type ShieldUpdateParams = Partial<ShieldItem>

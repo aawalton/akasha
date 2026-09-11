@@ -1,15 +1,18 @@
-import type { ArmorTraitId } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
-import type { ArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { ArmorTypeId } from "../../equipment-kinds/armor-types/armor-types.module.code.ts"
-import type { Effect, MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import {
   type ArmorEnchantId,
   getArmorEnchantmentEffects,
-} from "../armor-enchants/armor-enchants.module.code.ts"
-import { getArmorTraitEffects } from "../armor-trait-effects/armor-trait-effects.module.code.ts"
-import { getArmorEffects } from "../armor-weights/armor-weights.module.code.ts"
-import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
+} from "akasha/temper/characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import { getArmorTraitEffects } from "akasha/temper/characters-equipment/armor-trait-effects/armor-trait-effects.module.code.ts"
+import { getArmorEffects } from "akasha/temper/characters-equipment/armor-weights/armor-weights.module.code.ts"
+import type { ArmorItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type { ArmorTraitId } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import type { ArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { ArmorTypeId } from "akasha/temper/equipment-kinds/armor-types/armor-types.module.code.ts"
+import type {
+  Effect,
+  MetricEffect,
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 
 interface ArmorItemSource extends EffectSourceInterface<"armor", Effect> {
   categoryId: "armor"

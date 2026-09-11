@@ -1,7 +1,7 @@
 import type {
   JewelryEnchantQualityComponents,
   JewelryEnchantTemplate,
-} from "../jewelry-enchants/jewelry-enchants.module.code.ts"
+} from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
 
 export const TEMPER_JEWELRY_ENCHANTS_BY_ID = {
   "no-enchant": {

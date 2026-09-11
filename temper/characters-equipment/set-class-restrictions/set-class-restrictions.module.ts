@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const setClassRestrictions = {
   id: "01a061a4-18b1-74a0-9cde-db2a989a0e4a",

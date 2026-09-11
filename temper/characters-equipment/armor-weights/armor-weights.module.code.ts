@@ -1,27 +1,30 @@
+import {
+  calculateNirnhonedValue,
+  calculateReinforcedValue,
+} from "akasha/temper/characters-equipment/armor-trait-effects/armor-trait-effects.module.code.ts"
+import type {
+  ArmorItem,
+  ItemLevel,
+} from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import { getArmorBaseValueForLevel } from "akasha/temper/characters-equipment/level-scaling/level-scaling.module.code.ts"
 import type {
   ArmorWeightId,
   StandardArmorWeightId,
 } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import {
+  type ArmorTypeId,
+  getArmorMultiplier,
+} from "akasha/temper/equipment-kinds/armor-types/armor-types.module.code.ts"
+import {
+  type EquipmentQualityId,
+  resolveQuality,
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   createDataFile,
   type DataFile,
 } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-import {
-  type ArmorTypeId,
-  getArmorMultiplier,
-} from "../../equipment-kinds/armor-types/armor-types.module.code.ts"
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import {
-  calculateNirnhonedValue,
-  calculateReinforcedValue,
-} from "../armor-trait-effects/armor-trait-effects.module.code.ts"
-import type { ArmorItem, ItemLevel } from "../item-composites/item-composites.module.code.ts"
-import { getArmorBaseValueForLevel } from "../level-scaling/level-scaling.module.code.ts"
 export const TEMPER_ARMOR_WEIGHTS_BY_ID = {
   "heavy": {
     id: "heavy" as const,
