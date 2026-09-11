@@ -1,4 +1,4 @@
-import type { TemperSkillBar } from "../temper-skill-bar.page-type.types.ts"
+import type { TemperSkillBar } from "akasha/temper/characters/temper-skill-bars/temper-skill-bar.page-type.types.ts"
 
 export const backupSkillBar = {
   id: "019e2fc4-3e97-73ab-9816-94ffaec4b8ae",

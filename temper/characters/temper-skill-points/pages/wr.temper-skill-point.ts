@@ -1,4 +1,4 @@
-import type { TemperSkillPoint } from "../temper-skill-point.page-type.types.ts"
+import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-points/temper-skill-point.page-type.types.ts"
 
 export const wr = {
   id: "019e6471-153a-710c-a27d-bc085d9d7aaf",

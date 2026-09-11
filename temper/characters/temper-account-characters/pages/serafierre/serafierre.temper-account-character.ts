@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
 
 export const serafierre = {
   id: "019dda20-753c-7497-91c9-be4d37200409",

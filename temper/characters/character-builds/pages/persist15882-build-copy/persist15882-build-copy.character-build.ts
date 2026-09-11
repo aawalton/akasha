@@ -1,4 +1,4 @@
-import type { CharacterBuild } from "../../character-build.page-type.types.ts"
+import type { CharacterBuild } from "akasha/temper/characters/character-builds/character-build.page-type.types.ts"
 
 export const persist15882BuildCopy = {
   id: "01a06862-a02e-714e-a48d-9228f7194ab1",

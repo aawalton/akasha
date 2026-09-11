@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
 
 export const auriel = {
   id: "019f97f0-f5cf-7d4c-b725-44d252daebf5",

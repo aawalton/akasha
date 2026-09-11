@@ -1,4 +1,4 @@
-import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.types.ts"
+import type { TemperCharacterSkillActivation } from "akasha/temper/characters/skill-activations/temper-character-skill-activation.page-type.types.ts"
 
 export const powerOfTheLight = {
   id: "019e646c-c4e7-70ab-a496-c082da9ab7f7",

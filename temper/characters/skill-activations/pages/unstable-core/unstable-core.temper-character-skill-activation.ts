@@ -1,4 +1,4 @@
-import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.types.ts"
+import type { TemperCharacterSkillActivation } from "akasha/temper/characters/skill-activations/temper-character-skill-activation.page-type.types.ts"
 
 export const unstableCore = {
   id: "019e646c-c4e8-763f-9f7b-5e61f8c7b754",

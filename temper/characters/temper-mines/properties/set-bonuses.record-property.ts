@@ -1,8 +1,8 @@
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { Description } from "../../../../pages/properties/description.text-property.types.ts"
-import type { IsPerfected } from "./is-perfected.boolean-property.types.ts"
-import type { NumRequired } from "./num-required.number-property.types.ts"
+import type { IsPerfected } from "akasha/temper/characters/temper-mines/properties/is-perfected.boolean-property.types.ts"
+import type { NumRequired } from "akasha/temper/characters/temper-mines/properties/num-required.number-property.types.ts"
 
 export type SetBonus = {
   description: Description

@@ -1,4 +1,4 @@
-import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.types.ts"
+import type { TemperCharacterSkillActivation } from "akasha/temper/characters/skill-activations/temper-character-skill-activation.page-type.types.ts"
 
 export const solarPrison = {
   id: "019e646c-c4df-7b45-9afc-9ba7522a425d",

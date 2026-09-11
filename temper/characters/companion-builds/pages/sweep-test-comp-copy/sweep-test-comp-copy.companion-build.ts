@@ -1,4 +1,4 @@
-import type { CompanionBuild } from "../../companion-build.page-type.types.ts"
+import type { CompanionBuild } from "akasha/temper/characters/companion-builds/companion-build.page-type.types.ts"
 
 export const sweepTestCompCopy = {
   id: "01a06862-a02e-78d4-97dc-8e9ef8d04a59",

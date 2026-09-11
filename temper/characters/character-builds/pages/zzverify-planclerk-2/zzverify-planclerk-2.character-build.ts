@@ -1,4 +1,4 @@
-import type { CharacterBuild } from "../../character-build.page-type.types.ts"
+import type { CharacterBuild } from "akasha/temper/characters/character-builds/character-build.page-type.types.ts"
 
 export const zzverifyPlanclerk2 = {
   id: "019f99ae-d884-78ad-8c46-4d4b52db28d0",

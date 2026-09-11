@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
 
 export const kheltaTheEternal = {
   id: "019dda20-8f62-7a6f-a9de-662e594f3485",

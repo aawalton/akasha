@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
 
 export const ceriaSpringwater = {
   id: "019dda20-9adf-7228-b05e-34eadfba7800",
