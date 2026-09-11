@@ -9,6 +9,7 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { bodyAt } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   bodyOf,
   indexedRepo,
@@ -178,13 +179,8 @@ const PACKAGES: Readonly<Record<string, string>> = {
   [ROOT_MANIFEST]: ROOT_BODY,
 }
 
-const saying =
-  (body: string) =>
-  (path: string): string | null =>
-    path === INNER_MANIFEST ? body : null
-
 function bare(body: string): World {
-  return worldAt(scratch.rootFor("package-"), saying(body))
+  return worldAt(scratch.rootFor("package-"), bodyAt(INNER_MANIFEST, body))
 }
 
 function packaged(): World {

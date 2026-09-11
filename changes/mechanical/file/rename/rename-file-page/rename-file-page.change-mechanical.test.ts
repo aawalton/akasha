@@ -41,7 +41,10 @@ import {
   ledgerAt,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { knownOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyAt,
+  knownOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   bodyOf,
   HELD_CODE,
@@ -101,11 +104,6 @@ const typedAt: string = indexedRepo({
   [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
 })
 
-const saying =
-  (body: string) =>
-  (path: string): string | null =>
-    path === HELD_PAGE ? body : null
-
 const statedAs = (value: Record<string, unknown>, named: string): string =>
   bodyOf(value).replace("export const it", `export const ${named}`)
 
@@ -139,7 +137,7 @@ test("a body that could not be read is refused", async () => {
 
 test("a body stating no slug is refused", async () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
-  const world = worldIn(scratch.rootFor("slug-"), saying(body))
+  const world = worldIn(scratch.rootFor("slug-"), bodyAt(HELD_PAGE, body))
   const said = await runChange(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `slug`")
@@ -147,7 +145,7 @@ test("a body stating no slug is refused", async () => {
 
 test("a body stating no page type is refused", async () => {
   const body = bodyOf({ id: idOf("8"), slug: HELD_SLUG })
-  const world = worldIn(scratch.rootFor("slug-"), saying(body))
+  const world = worldIn(scratch.rootFor("slug-"), bodyAt(HELD_PAGE, body))
   const said = await runChange(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
