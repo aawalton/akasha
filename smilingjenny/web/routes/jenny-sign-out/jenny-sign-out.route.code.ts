@@ -1,4 +1,5 @@
 import { refreshSession } from "akasha/alan/harness/supabase-rr/session-refresh/session-refresh.module.code.ts"
+import { signOutLoader } from "akasha/alan/harness/supabase-rr/sign-out-route/sign-out-route.module.code.ts"
 import { SIGN_IN_PATH } from "akasha/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"
 import { redirect } from "react-router"
 
@@ -8,6 +9,4 @@ export async function action({ request }: { request: Request }) {
   return redirect(SIGN_IN_PATH, { headers })
 }
 
-export function loader() {
-  return redirect("/")
-}
+export const loader = signOutLoader
