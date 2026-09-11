@@ -33,9 +33,5 @@ export const spotifySearch = {
       invariantKind: "absence",
       statement: "Nothing here ranks the results.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Paging gives back no more results than the most it was asked for.",
-    },
   ],
 } as const satisfies Module

@@ -78,5 +78,13 @@ export const spotifyClient = {
       invariantKind: "departure",
       statement: "A refresh leaves the 429 retry already spent spent.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Paging gives back no more items than the most it was asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every read that pages follows `next` through this one module.",
+    },
   ],
 } as const satisfies Module
