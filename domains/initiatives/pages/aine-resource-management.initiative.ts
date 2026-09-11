@@ -54,6 +54,12 @@ export const aineResourceManagement = {
       workingMemory:
         "Cannot absorb has no honest definition without this. MemAvailable and SwapFree describe what could be had rather than whether anything is hurting, and the reaper reads both. The kernel publishes stall time per cgroup at /proc/pressure/memory, and systemd-oomd is built on it. Without it the last resort is a byte threshold again, which is what let the machine become unusable while 54 GiB of swap was still free.\n",
     },
+    {
+      statement:
+        "Every agent and every service on the workstation runs under a stated share of the processor.",
+      workingMemory:
+        "A share costs nothing while the machine is quiet and decides who goes first while it is busy, which is what makes interactive work win against a build. seat-launching states CPUWeight=100 and CPUQuota=800%, and both reach only the scope that begins the tmux server. The other sixteen seats run in pane scopes tmux made, with CPUQuotaPerSecUSec=infinity. The host has 24 processors and nothing on it has ever been throttled.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
