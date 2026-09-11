@@ -24,6 +24,10 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
+      statement: "A page claims that sops file only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page whose type declares an uncommitted value claims the uncommitted file beside the page.",
     },

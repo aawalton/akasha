@@ -279,7 +279,7 @@ export function claimsOf(
   if (held === undefined) return found
   if (held.secret) {
     const secret = secretAt(own)
-    if (secret !== null) found.push(secret)
+    if (secret !== null && there(secret)) found.push(secret)
   }
   if (held.uncommitted) {
     const beside = uncommittedAt(own)

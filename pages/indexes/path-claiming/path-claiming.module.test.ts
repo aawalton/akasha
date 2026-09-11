@@ -157,6 +157,19 @@ test("naming an uncommitted property's files stops at the first that is not ther
   expect(claimingBeside(LINES, LINED, (at) => at === PART3)).toEqual([HELD_PAGE, VALUES, FIRST])
 })
 
+const SOPS = "deep/a.held-type.sops.yaml"
+
+test("a page whose type declares a secret claims no sops file where that file is not there", () => {
+  expect(claimingBeside({ secret: true }, filedAs("held-type", {}))).toEqual([HELD_PAGE])
+})
+
+test("that same page claims the sops file beside it as soon as that file is there", () => {
+  expect(claimingBeside({ secret: true }, filedAs("held-type", {}), (at) => at === SOPS)).toEqual([
+    HELD_PAGE,
+    SOPS,
+  ])
+})
+
 test("a page whose type declares an uncommitted value claims the values file beside the page", () => {
   expect(claimingBeside({ uncommitted: true }, filedAs("held-type", {}))).toEqual([
     HELD_PAGE,

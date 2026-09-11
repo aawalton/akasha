@@ -4,6 +4,7 @@ import { A } from "akasha/pages/indexes/entries/index-entries.module.test-fixtur
 import { pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type {
   Beside,
+  IsThere,
   SidecarsBy,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 
@@ -30,11 +31,26 @@ test("a path is filed under the path alone, with no scope or property above it",
   ])
 })
 
-test("a page whose type declares a secret claims the sops file beside it", () => {
+const SOPS = "a.domain.sops.yaml"
+
+const SOPS_THERE: IsThere = (at) => at === SOPS
+
+test("a page whose type declares a secret files no sops file while that file is not there", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, SECRET)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
+  ])
+})
+
+test("that same page files the sops file beside it as soon as that file is there", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+
+  expect(
+    pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, SECRET, undefined, SOPS_THERE)
+  ).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.sops.yaml.jsonl", line },
   ])

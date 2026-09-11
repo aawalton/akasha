@@ -68,7 +68,7 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sops file is filed here whether or not that file is there.",
+      statement: "A page's sops file is filed here only where that file is there.",
     },
     {
       invariantKind: "departure",
