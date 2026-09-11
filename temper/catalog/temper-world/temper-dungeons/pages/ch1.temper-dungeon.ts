@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ch1 = {
   id: "01a05fc5-7423-7365-bfbd-5bab113034cf",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "ch1",
   title: "Crypt of Hearts I",

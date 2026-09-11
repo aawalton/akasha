@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ws1 = {
   id: "01a05fc5-742e-7de6-b585-1a8dab580554",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "ws1",
   title: "Wayrest Sewers I",

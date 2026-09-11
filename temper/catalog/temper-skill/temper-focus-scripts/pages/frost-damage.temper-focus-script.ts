@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const frostDamage = {
   id: "01a05fce-2951-7c52-bd98-7180c06370f0",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "frost-damage",
   title: "Frost Damage",

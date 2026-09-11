@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const potionEffectsMode = {
   id: "01a07209-6b52-7535-a7df-730149f628d5",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "potion-effects-mode",
   title: "Potion Effects Mode",

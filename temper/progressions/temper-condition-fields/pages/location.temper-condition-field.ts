@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const location = {
   id: "01a07209-6b51-7e18-bdfa-5b44a01a5e32",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "location",
   title: "Location",

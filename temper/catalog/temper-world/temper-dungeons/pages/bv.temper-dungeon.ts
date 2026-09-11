@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const bv = {
   id: "01a05fc5-7422-7bab-b47a-ac9ce6e7d7be",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "bv",
   title: "Bedlam Veil",

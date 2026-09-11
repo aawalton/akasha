@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const bopTradeable = {
   id: "01a07209-6b4f-7d66-92c5-c4baca31c3f7",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "bop-tradeable",
   title: "Bind-on-Pickup Tradeable",

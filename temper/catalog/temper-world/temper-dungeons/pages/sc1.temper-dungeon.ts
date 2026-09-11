@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const sc1 = {
   id: "01a05fc5-742b-7a1f-a14e-f60b55b5f789",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "sc1",
   title: "Spindleclutch I",

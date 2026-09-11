@@ -2,7 +2,6 @@ import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-com
 
 export const lightningStaff = {
   id: "01a05fcd-ea71-7b74-8741-eebe625f216e",
-  pageTypeSlug: "temper-companion-weapon-role",
   type: "temper-companion-weapon-role",
   slug: "lightning-staff",
   key: "lightning-staff",

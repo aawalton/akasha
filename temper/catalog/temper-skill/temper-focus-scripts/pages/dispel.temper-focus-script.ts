@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const dispel = {
   id: "01a05fce-2951-7081-a3fa-0882b13ba0ac",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "dispel",
   title: "Dispel",

@@ -2,7 +2,6 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effects/tem
 
 export const diseased = {
   id: "01a05fc6-42c7-7c2f-8806-54ed3e556738",
-  pageTypeSlug: "temper-debuff-other",
   type: "temper-debuff-other",
   slug: "diseased",
   title: "Diseased",

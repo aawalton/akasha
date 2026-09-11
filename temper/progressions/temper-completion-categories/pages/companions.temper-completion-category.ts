@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const companions = {
   id: "01a05fcb-e4c6-7910-8670-0099a59f61ba",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "companions",
   title: "Companions",

@@ -2,7 +2,6 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const jewelryInfused = {
   id: "01a05fd7-41cb-762d-b8c8-04e8ad43e698",
-  pageTypeSlug: "temper-eso-trait-map",
   type: "temper-eso-trait-map",
   slug: "jewelry-infused",
   title: "Jewelry Infused",

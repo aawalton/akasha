@@ -2,7 +2,6 @@ import type { TemperCompanionSkillSlot } from "akasha/temper/catalog/temper-comp
 
 export const active5 = {
   id: "01a05fcd-7101-77c5-9899-0f4d13773d15",
-  pageTypeSlug: "temper-companion-skill-slot",
   type: "temper-companion-skill-slot",
   slug: "active-5",
   key: "active-5",

@@ -2,7 +2,6 @@ import type { TemperComparisonOp } from "akasha/temper/progressions/temper-compa
 
 export const atLeast = {
   id: "01a05fc9-c60d-774f-a3d2-7eca3fb34835",
-  pageTypeSlug: "temper-comparison-op",
   type: "temper-comparison-op",
   slug: "at-least",
   title: "≥",

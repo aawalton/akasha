@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersSkillPointsZonequests = {
   id: "01a05fcb-e4c5-775e-ade3-50db435e9170",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-skill-points-zonequests",
   title: "Zone Quests",

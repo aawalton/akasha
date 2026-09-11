@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const mhk = {
   id: "01a05fc5-7429-7be6-b964-b1f353f26f86",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "mhk",
   title: "Moon Hunter Keep",

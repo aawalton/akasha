@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const accountAccountScribingKnowledgeScripts = {
   id: "01a05fcb-e4b9-7572-b65e-de8eeea84eaa",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "account-account-scribing-knowledge-scripts",
   title: "Scripts",

@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const mf = {
   id: "01a05fc5-7429-737e-9309-96447ebb1db5",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "mf",
   title: "Moongrave Fane",

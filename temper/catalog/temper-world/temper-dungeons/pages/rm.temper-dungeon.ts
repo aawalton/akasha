@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const rm = {
   id: "01a05fc5-742a-763e-9712-593b8e5f602a",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "rm",
   title: "Ruins of Mazzatun",

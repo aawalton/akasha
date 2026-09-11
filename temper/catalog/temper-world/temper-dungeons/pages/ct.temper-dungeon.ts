@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ct = {
   id: "01a05fc5-7424-72e7-bcab-6277698cdfff",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "ct",
   title: "Castle Thorn",

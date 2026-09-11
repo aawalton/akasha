@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const bdv = {
   id: "01a05fc5-7420-702c-846a-c29e89574d9d",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "bdv",
   title: "Black Drake Villa",

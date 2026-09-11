@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersPointsOfInterest = {
   id: "01a05fcb-e4c1-7f57-ac6a-656acff6408c",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-points-of-interest",
   title: "Points of Interest",

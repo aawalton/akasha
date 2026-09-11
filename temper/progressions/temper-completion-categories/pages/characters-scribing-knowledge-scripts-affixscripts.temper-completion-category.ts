@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersScribingKnowledgeScriptsAffixscripts = {
   id: "01a05fcb-e4c2-7d66-9f73-04f6c7ba1a83",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-scribing-knowledge-scripts-affixscripts",
   title: "Affix Scripts",

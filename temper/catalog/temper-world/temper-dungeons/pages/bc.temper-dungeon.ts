@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const bc = {
   id: "01a05fc5-7420-73ef-8f6e-a4550c4a2fb4",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "bc",
   title: "Blessed Crucible",

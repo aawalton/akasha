@@ -2,7 +2,6 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const shieldThrow = {
   id: "01a05fce-2956-7f43-a29a-78ffd8016e8d",
-  pageTypeSlug: "temper-grimoire",
   type: "temper-grimoire",
   slug: "shield-throw",
   title: "Shield Throw",

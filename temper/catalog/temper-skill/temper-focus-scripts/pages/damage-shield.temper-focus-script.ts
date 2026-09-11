@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const damageShield = {
   id: "01a05fce-2950-7294-a929-69490108f2d0",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "damage-shield",
   title: "Damage Shield",

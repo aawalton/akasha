@@ -2,7 +2,6 @@ import type { TemperCompanionWeaponType } from "akasha/temper/catalog/temper-com
 
 export const maul = {
   id: "01a05fcd-ea6f-76c5-88c3-b2e0bf8adde2",
-  pageTypeSlug: "temper-companion-weapon-type",
   type: "temper-companion-weapon-type",
   slug: "maul",
   key: "maul",

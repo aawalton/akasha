@@ -2,7 +2,6 @@ import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companio
 
 export const noTrait = {
   id: "01a05fce-c4af-7e0f-a759-fb9703c69017",
-  pageTypeSlug: "temper-companion-trait",
   type: "temper-companion-trait",
   slug: "no-trait",
   key: "no-trait",

@@ -2,7 +2,6 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const guildFighters = {
   id: "01a05fce-c4aa-7211-9adc-931ef01ea52d",
-  pageTypeSlug: "temper-companion-skill-line",
   type: "temper-companion-skill-line",
   slug: "guild-fighters",
   key: "guild-fighters",

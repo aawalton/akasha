@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const mitigation = {
   id: "01a05fce-2953-7f6e-ad5f-316fa41f01f1",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "mitigation",
   title: "Mitigation",

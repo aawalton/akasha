@@ -2,7 +2,6 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const equipTypeEquipTypeOneHand = {
   id: "01a05fcf-5923-7f8f-8162-c9a8273e9252",
-  pageTypeSlug: "temper-eso-companion-equipment-constant",
   type: "temper-eso-companion-equipment-constant",
   slug: "equip-type-equip-type-one-hand",
   key: "equip-type:EQUIP_TYPE_ONE_HAND",

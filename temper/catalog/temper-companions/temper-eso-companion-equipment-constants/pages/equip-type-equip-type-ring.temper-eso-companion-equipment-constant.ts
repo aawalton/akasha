@@ -2,7 +2,6 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const equipTypeEquipTypeRing = {
   id: "01a05fcf-5923-74fc-bede-8c1bba046017",
-  pageTypeSlug: "temper-eso-companion-equipment-constant",
   type: "temper-eso-companion-equipment-constant",
   slug: "equip-type-equip-type-ring",
   key: "equip-type:EQUIP_TYPE_RING",

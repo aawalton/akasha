@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ac = {
   id: "01a05fc5-741f-7b2b-ba68-d745456473e0",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "ac",
   title: "Arx Corinium",

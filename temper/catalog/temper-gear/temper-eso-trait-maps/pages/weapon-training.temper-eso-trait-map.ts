@@ -2,7 +2,6 @@ import type { TemperEsoTraitMap } from "akasha/temper/catalog/temper-gear/temper
 
 export const weaponTraining = {
   id: "01a05fd7-41d0-70f2-ab14-077aceb05f15",
-  pageTypeSlug: "temper-eso-trait-map",
   type: "temper-eso-trait-map",
   slug: "weapon-training",
   title: "Weapon Training",

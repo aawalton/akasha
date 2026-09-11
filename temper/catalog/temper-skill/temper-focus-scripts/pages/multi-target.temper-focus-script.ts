@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const multiTarget = {
   id: "01a05fce-2953-7638-909f-a08a1f297d0d",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "multi-target",
   title: "Multi-Target",

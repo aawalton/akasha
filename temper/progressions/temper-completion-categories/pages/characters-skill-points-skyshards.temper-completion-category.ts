@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersSkillPointsSkyshards = {
   id: "01a05fcb-e4c4-764f-8b1e-70f6483bd208",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-skill-points-skyshards",
   title: "Skyshards",

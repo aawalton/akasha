@@ -2,7 +2,6 @@ import type { TemperCurse } from "akasha/temper/catalog/temper-effects/temper-cu
 
 export const vampire = {
   id: "01a05fc5-c92c-747c-bab9-a6dd8874bb5e",
-  pageTypeSlug: "temper-curse",
   type: "temper-curse",
   slug: "vampire",
   title: "Vampire",

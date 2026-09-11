@@ -2,7 +2,6 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const companionZerithVarWarriorsBanishment = {
   id: "01a05fce-c4a9-767d-8585-b11f1736475d",
-  pageTypeSlug: "temper-companion-skill-line",
   type: "temper-companion-skill-line",
   slug: "companion-zerith-var-warriors-banishment",
   key: "companion-zerith-var-warriors-banishment",

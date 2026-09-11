@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const maxLevel = {
   id: "01a07209-6b52-747e-9f9e-06ca8c60eb3a",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "max-level",
   title: "Max Level",

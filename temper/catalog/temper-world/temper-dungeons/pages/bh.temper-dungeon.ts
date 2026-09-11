@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const bh = {
   id: "01a05fc5-7422-7c35-9d5c-731480284ac8",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "bh",
   title: "Blackheart Haven",

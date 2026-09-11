@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const traits = {
   id: "01a07209-6b53-7da4-a5c6-20b6d00133c6",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "traits",
   title: "Traits",

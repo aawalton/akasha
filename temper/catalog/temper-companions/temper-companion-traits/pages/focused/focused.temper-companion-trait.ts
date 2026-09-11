@@ -2,7 +2,6 @@ import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companio
 
 export const focused = {
   id: "01a05fce-c4af-7d13-ad7c-a7e9b1934c38",
-  pageTypeSlug: "temper-companion-trait",
   type: "temper-companion-trait",
   slug: "focused",
   key: "focused",

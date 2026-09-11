@@ -2,7 +2,6 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effects/tem
 
 export const immobilize = {
   id: "01a05fc6-42c8-7d77-86a2-a7b6d89bc039",
-  pageTypeSlug: "temper-debuff-other",
   type: "temper-debuff-other",
   slug: "immobilize",
   title: "Immobilize",

@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const ca1 = {
   id: "01a05fc5-7422-7d41-bc7d-24acd5c3f5c8",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "ca1",
   title: "City of Ash I",

@@ -2,7 +2,6 @@ import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/tem
 
 export const weaponTypeRestorationStaff = {
   id: "01a05fd7-41c5-726b-94b8-babb36e2c21f",
-  pageTypeSlug: "temper-eso-player-equipment-constant",
   type: "temper-eso-player-equipment-constant",
   slug: "weapon-type-restoration-staff",
   title: "Weapon Type Restoration Staff",

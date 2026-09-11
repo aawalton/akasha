@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const targetQuantity = {
   id: "01a07209-6b53-7bed-b627-6f26254a2793",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "target-quantity",
   title: "Target Quantity",

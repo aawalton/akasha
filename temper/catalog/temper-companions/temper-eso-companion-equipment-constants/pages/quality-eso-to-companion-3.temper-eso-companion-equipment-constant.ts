@@ -2,7 +2,6 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const qualityEsoToCompanion3 = {
   id: "01a05fcf-5927-713d-a3b4-6ad47eec0a44",
-  pageTypeSlug: "temper-eso-companion-equipment-constant",
   type: "temper-eso-companion-equipment-constant",
   slug: "quality-eso-to-companion-3",
   key: "quality-eso-to-companion:3",

@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersSkillPointsGroupdungeons = {
   id: "01a05fcb-e4c4-7ef7-8fbf-aeeb7f4b69d1",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-skill-points-groupdungeons",
   title: "Group Dungeons",

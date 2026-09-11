@@ -2,7 +2,6 @@ import type { TemperCraftType } from "akasha/temper/catalog/temper-pursuits/temp
 
 export const jewelryCrafting = {
   id: "01a0616b-2ce1-700f-9211-904b7e12c668",
-  pageTypeSlug: "temper-craft-type",
   type: "temper-craft-type",
   slug: "jewelry-crafting",
   title: "Jewelry Crafting",

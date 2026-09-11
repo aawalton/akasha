@@ -2,7 +2,6 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effects/tem
 
 export const silence = {
   id: "01a05fc6-42c9-7d72-84ab-9d0e215c3b7b",
-  pageTypeSlug: "temper-debuff-other",
   type: "temper-debuff-other",
   slug: "silence",
   title: "Silence",

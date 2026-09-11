@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const dom = {
   id: "01a05fc5-7425-7272-a001-9dd5f5e8dcc7",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "dom",
   title: "Depths of Malatar",

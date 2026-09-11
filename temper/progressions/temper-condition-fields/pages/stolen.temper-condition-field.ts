@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const stolen = {
   id: "01a07209-6b53-79c6-bc43-1fb7b950c67c",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "stolen",
   title: "Stolen",

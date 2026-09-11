@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const allStocked = {
   id: "01a07209-6b4e-7e7e-ab26-44d84361ab3e",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "all-stocked",
   title: "All Stocked",

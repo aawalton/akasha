@@ -2,7 +2,6 @@ import type { TemperComparisonOp } from "akasha/temper/progressions/temper-compa
 
 export const notEqualTo = {
   id: "01a05fc9-c60f-74a4-91b1-daeb6a521943",
-  pageTypeSlug: "temper-comparison-op",
   type: "temper-comparison-op",
   slug: "not-equal-to",
   title: "≠",

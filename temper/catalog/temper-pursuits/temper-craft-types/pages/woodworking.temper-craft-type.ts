@@ -2,7 +2,6 @@ import type { TemperCraftType } from "akasha/temper/catalog/temper-pursuits/temp
 
 export const woodworking = {
   id: "01a0616b-2ce1-7008-86fd-faf617c1c789",
-  pageTypeSlug: "temper-craft-type",
   type: "temper-craft-type",
   slug: "woodworking",
   title: "Woodworking",

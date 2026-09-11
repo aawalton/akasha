@@ -2,7 +2,6 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effects/tem
 
 export const minorBreach = {
   id: "01a05fc6-42c3-7812-aaf2-932690fda4df",
-  pageTypeSlug: "temper-debuff-minor",
   type: "temper-debuff-minor",
   slug: "minor-breach",
   title: "Minor Breach",

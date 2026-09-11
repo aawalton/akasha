@@ -2,7 +2,6 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const elementalExplosion = {
   id: "01a05fce-2956-7d68-a22a-9f1a48952793",
-  pageTypeSlug: "temper-grimoire",
   type: "temper-grimoire",
   slug: "elemental-explosion",
   title: "Elemental Explosion",

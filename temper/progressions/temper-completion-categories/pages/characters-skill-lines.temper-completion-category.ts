@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersSkillLines = {
   id: "01a05fcb-e4c3-725d-93ac-c1e740ea3173",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-skill-lines",
   title: "Skill Lines",

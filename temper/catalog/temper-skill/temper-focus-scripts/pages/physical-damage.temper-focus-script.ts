@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const physicalDamage = {
   id: "01a05fce-2953-7f19-92f5-30af7de8a49f",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "physical-damage",
   title: "Physical Damage",

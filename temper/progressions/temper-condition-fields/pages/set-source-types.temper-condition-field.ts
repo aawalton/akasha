@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const setSourceTypes = {
   id: "01a07209-6b53-796a-b671-0a4f92c2dd86",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "set-source-types",
   title: "Set Source Types",

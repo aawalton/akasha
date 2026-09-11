@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const accountAntiquityLore = {
   id: "01a05fcb-e4bb-74ce-88f2-146b59cb8dcf",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "account-antiquity-lore",
   title: "Antiquity Lore",

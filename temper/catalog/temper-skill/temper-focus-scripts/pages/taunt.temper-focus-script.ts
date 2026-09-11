@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const taunt = {
   id: "01a05fce-2955-77f5-9883-c0788a9af087",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "taunt",
   title: "Taunt",

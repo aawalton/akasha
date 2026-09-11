@@ -2,7 +2,6 @@ import type { TemperConditionField } from "akasha/temper/progressions/temper-con
 
 export const valueOp = {
   id: "01a07209-6b53-7d35-9a37-3f29156126d1",
-  pageTypeSlug: "temper-condition-field",
   type: "temper-condition-field",
   slug: "value-op",
   title: "Value Comparison",

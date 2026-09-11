@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const bgf = {
   id: "01a05fc5-7421-7408-9d99-6a704c314838",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "bgf",
   title: "Black Gem Foundry",

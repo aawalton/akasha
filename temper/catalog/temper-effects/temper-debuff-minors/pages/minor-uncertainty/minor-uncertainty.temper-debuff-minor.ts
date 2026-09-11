@@ -2,7 +2,6 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effects/tem
 
 export const minorUncertainty = {
   id: "01a05fc6-42c5-7c98-ae4c-e7753e521c32",
-  pageTypeSlug: "temper-debuff-minor",
   type: "temper-debuff-minor",
   slug: "minor-uncertainty",
   title: "Minor Uncertainty",

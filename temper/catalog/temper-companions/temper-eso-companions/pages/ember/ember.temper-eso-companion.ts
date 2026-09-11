@@ -2,7 +2,6 @@ import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companions
 
 export const ember = {
   id: "01a05fcf-591f-76e5-bd82-41943a9f2a7a",
-  pageTypeSlug: "temper-eso-companion",
   type: "temper-eso-companion",
   slug: "ember",
   key: "ember",

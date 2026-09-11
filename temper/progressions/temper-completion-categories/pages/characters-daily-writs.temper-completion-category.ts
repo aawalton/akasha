@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersDailyWrits = {
   id: "01a05fcb-e4c0-707d-9f76-1170d58abd71",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-daily-writs",
   title: "Daily Crafting Writs",

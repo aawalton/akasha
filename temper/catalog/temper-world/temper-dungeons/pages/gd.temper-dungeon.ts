@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const gd = {
   id: "01a05fc5-7428-74d0-8c81-c70eb165f8f9",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "gd",
   title: "Graven Deep",

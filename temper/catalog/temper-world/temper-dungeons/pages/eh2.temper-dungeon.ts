@@ -2,7 +2,6 @@ import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-du
 
 export const eh2 = {
   id: "01a05fc5-7426-7a88-a912-f74beadfdfa7",
-  pageTypeSlug: "temper-dungeon",
   type: "temper-dungeon",
   slug: "eh2",
   title: "Elden Hollow II",

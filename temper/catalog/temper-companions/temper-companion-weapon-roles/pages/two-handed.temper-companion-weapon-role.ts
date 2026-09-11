@@ -2,7 +2,6 @@ import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-com
 
 export const twoHanded = {
   id: "01a05fcd-ea72-7afa-bd37-52049414a82e",
-  pageTypeSlug: "temper-companion-weapon-role",
   type: "temper-companion-weapon-role",
   slug: "two-handed",
   key: "two-handed",

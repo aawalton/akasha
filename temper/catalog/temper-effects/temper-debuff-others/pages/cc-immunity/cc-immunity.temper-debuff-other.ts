@@ -2,7 +2,6 @@ import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effects/tem
 
 export const ccImmunity = {
   id: "01a05fc6-42c6-7c8c-be55-fb5269e86d88",
-  pageTypeSlug: "temper-debuff-other",
   type: "temper-debuff-other",
   slug: "cc-immunity",
   title: "CC Immunity",

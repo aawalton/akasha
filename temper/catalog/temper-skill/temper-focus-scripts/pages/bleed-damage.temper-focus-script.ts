@@ -2,7 +2,6 @@ import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const bleedDamage = {
   id: "01a05fce-2950-7e3d-9043-e3769bffcb04",
-  pageTypeSlug: "temper-focus-script",
   type: "temper-focus-script",
   slug: "bleed-damage",
   title: "Bleed Damage",

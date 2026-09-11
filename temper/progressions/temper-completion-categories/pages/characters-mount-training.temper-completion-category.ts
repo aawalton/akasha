@@ -2,7 +2,6 @@ import type { TemperCompletionCategory } from "akasha/temper/progressions/temper
 
 export const charactersMountTraining = {
   id: "01a05fcb-e4c0-7057-a561-6fcf12241b12",
-  pageTypeSlug: "temper-completion-category",
   type: "temper-completion-category",
   slug: "characters-mount-training",
   title: "Mount Training",

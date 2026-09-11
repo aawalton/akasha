@@ -2,7 +2,6 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const companionSharpAsNightVerdantGrowth = {
   id: "01a05fce-c4a5-7b45-aae9-775a8570a772",
-  pageTypeSlug: "temper-companion-skill-line",
   type: "temper-companion-skill-line",
   slug: "companion-sharp-as-night-verdant-growth",
   key: "companion-sharp-as-night-verdant-growth",
