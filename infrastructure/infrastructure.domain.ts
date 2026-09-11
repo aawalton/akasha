@@ -26,6 +26,7 @@ export const infrastructure = {
     "domain/infrastructure-commands",
     "domain/loki-service",
     "domain/seaweedfs",
+    "domain/memory",
   ],
   invariants: [
     {
