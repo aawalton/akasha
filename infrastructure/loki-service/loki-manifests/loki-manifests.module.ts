@@ -13,5 +13,9 @@ export const lokiManifests = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the loki-s3-creds secret.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the loki-config configmap.",
+    },
   ],
 } as const satisfies Module
