@@ -1,11 +1,11 @@
-import { asApiComboBoxObjectLike } from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastIsDropdownVisibleThisUnknownBooleanUndefined } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
-import { asLsmCastRecordStringUnknown } from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asApiComboBoxObjectLike } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asLsmCastIsDropdownVisibleThisUnknownBooleanUndefined } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastRecordStringUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidArgUnknownArgsUnknownUnknown,
   asLsmCastThisVoidComboBoxRecordStringUnknownGroupIndexU,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
-import { asLsmCastUnknown } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+import { asLsmCastUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalContextMenuLikeUndefined = ContextMenuLike | undefined
 function asLsmCastLocalContextMenuLikeUndefined(
@@ -14,13 +14,13 @@ function asLsmCastLocalContextMenuLikeUndefined(
   return value as LsmCastLocalContextMenuLikeUndefined
 }
 
-import { updateContextMenuRef } from "../scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"
+import { updateContextMenuRef } from "akasha/temper/lib-scrollable-menu/scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"
 import {
   LSM_UPDATE_MODE_BOTH,
   LSM_UPDATE_MODE_MAINMENU,
   LSM_UPDATE_MODE_SUBMENU,
-} from "../scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const LSM_UPDATE_MODE_SUBMENU_local = LSM_UPDATE_MODE_SUBMENU
 const LSM_UPDATE_MODE_MAINMENU_local = LSM_UPDATE_MODE_MAINMENU

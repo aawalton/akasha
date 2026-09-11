@@ -1,19 +1,19 @@
-import { asBoolean } from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { hiddenForContextMenuReasons } from "../scrollable-menu-util-hidden-context/scrollable-menu-util-hidden-context.module.code.ts"
-import "../scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+import { asBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { hiddenForContextMenuReasons } from "akasha/temper/lib-scrollable-menu/scrollable-menu-util-hidden-context/scrollable-menu-util-hidden-context.module.code.ts"
+import "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
 import {
   asLsmCastIsDropdownVisibleThisUnknownBooleanMDropdownO,
   asLsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownBoo,
-} from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
-import { asLsmCastRecordStringUnknown } from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastThisVoidContextMenuObjectUndefined } from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
-import "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { asObject } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastRecordStringUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastThisVoidContextMenuObjectUndefined } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+import "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asObject } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import {
   lib,
   setContextMenu,
-} from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libUtil = lib.Util
 

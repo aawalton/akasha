@@ -1,5 +1,5 @@
-import { asLsmCastRecordStringUnknown } from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asString } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+import { asLsmCastRecordStringUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asString } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import {
   COLORS,
@@ -12,7 +12,7 @@ import {
   LSM_ENTRY_TYPE_RADIOBUTTON,
   LSM_ENTRY_TYPE_SLIDER,
   LSM_ENTRY_TYPE_SUBMENU,
-} from "../scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 
 const SUBMENU_CLASS_EXPOSED_VARIABLES: Record<string, boolean> = {
   m_customEntryTemplateInfos: false,

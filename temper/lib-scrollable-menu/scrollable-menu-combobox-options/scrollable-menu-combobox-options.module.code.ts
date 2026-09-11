@@ -5,23 +5,23 @@ import {
   asLsmCastRecordStringString,
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastSetHiddenThisUnknownHiddenBooleanUndefined } from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastSetHiddenThisUnknownHiddenBooleanUndefined } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
   asLsmCastThisVoidObjectUnknownMixinsUnknownUndefined,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asLsmCastThisVoidSelfComboBoxObjectNewValueUnknownUndef,
   asLsmCastThisVoidSelfComboBoxObjectUndefined,
   asLsmComboBoxOptions,
   asLsmEventContainer,
   asObject,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
-import { comboBoxClass } from "../scrollable-menu-combobox-class/scrollable-menu-combobox-class.module.code.ts"
-import { getValueOrCallback } from "../scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { comboBoxClass } from "akasha/temper/lib-scrollable-menu/scrollable-menu-combobox-class/scrollable-menu-combobox-class.module.code.ts"
+import { getValueOrCallback } from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

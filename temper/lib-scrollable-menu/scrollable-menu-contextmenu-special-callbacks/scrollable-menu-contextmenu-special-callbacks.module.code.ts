@@ -1,18 +1,18 @@
 import {
   asContextMenuClass,
   asLsmCastContextMenuCallbackEntryUndefined,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastRecordNumberUnknown,
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknown2,
   asLsmCastRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastUnknown,
   asObject,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const classes = asLsmCastRecordStringUnknown(lib.classes)
 const contextMenuClass = asContextMenuClass(classes.contextMenuClass)

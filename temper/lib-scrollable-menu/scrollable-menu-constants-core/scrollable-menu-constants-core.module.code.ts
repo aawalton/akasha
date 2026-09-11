@@ -1,7 +1,7 @@
-import { asLsmCastThisVoidAUnknownUnknown } from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
-import { asLsmConstants } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+import { asLsmCastThisVoidAUnknownUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+import { asLsmConstants } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const tos = tostring
 

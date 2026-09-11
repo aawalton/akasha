@@ -1,27 +1,27 @@
 import {
   asComboBoxBaseClass,
   asLsmCastBooleanUndefined,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastIsMouseOverControlThisVoidBoolean } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asLsmCastIsMouseOverControlThisVoidBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidArgsUnknownLuaMultiReturnUnknownUnknow,
   asLsmCastThisVoidControlUnknownAlternativeControlUnknow,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
   asLsmCastThisVoidLuaMultiReturnUnknown,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { asString } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asString } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import {
   isAccessibilityUIReaderEnabled,
   NARRATION_EVENT_TO_LIBRARY_NARRATE_FUNCTION,
-} from "../scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

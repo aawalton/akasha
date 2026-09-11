@@ -5,28 +5,28 @@ import {
   asDropdownClassPrivate,
   asDropdownRowControl,
   asDropdownScrollControl,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastGetHighlightTemplateThisUnknownControlUnknownU,
   asLsmCastGetMenuPrefixThisUnknownString,
-} from "../scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
 import {
   asLsmCastMComboBoxComboBoxBase,
   asLsmCastMParentMenuDropdownObject,
-} from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastNarrateThisUnknownAUnknownUndefined,
   asLsmCastRecordStringUnknown,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastSetupEntryThisUnknownAUnknownUnknown,
   asLsmCastThisVoidArgsUnknownUndefined,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidControlUnknownAltUnknownString,
   asLsmCastThisVoidListControlTypeIdNumberTemplateStringH,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { asNumber } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asNumber } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalTypeofGetDefaultXMLTemplates = typeof getDefaultXMLTemplates
 function asLsmCastLocalTypeofGetDefaultXMLTemplates(
@@ -44,7 +44,7 @@ function asLsmCastLocalNonNullableTypeofGetDefaultXMLTemplates(
   return value as LsmCastLocalNonNullableTypeofGetDefaultXMLTemplates
 }
 
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const debugPrefix = libDebug.prefix

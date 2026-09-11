@@ -4,36 +4,36 @@ import {
   asControl,
   asLsmCastApiComboBoxObjectLikeUndefined,
   asLsmEntryCallback,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknown2,
   asLsmCastRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidArgUnknownArgsUnknownUnknown,
   asLsmCastThisVoidAUnknownUnknown,
   asLsmCastThisVoidComboBoxRecordStringUnknownUndefinedFr,
   asLsmCastThisVoidControlUnknownAlternativeControlUnknow,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidEntriesUnknownOptionsRecordStringUnkno,
   asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asLsmCastThisVoidUndefined,
   asLsmCastUnknown,
   asObject,
   asString,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalContextMenuLike = ContextMenuLike
 function asLsmCastLocalContextMenuLike(value: unknown): LsmCastLocalContextMenuLike {
   return value as LsmCastLocalContextMenuLike
 }
 
-import { updateContextMenuRef } from "../scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { updateContextMenuRef } from "akasha/temper/lib-scrollable-menu/scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const MAJOR = lib.name
 

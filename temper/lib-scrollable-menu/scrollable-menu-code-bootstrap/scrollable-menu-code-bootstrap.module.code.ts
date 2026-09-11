@@ -1,16 +1,16 @@
 import {
   asEventManagerLike,
   asLsmCastArgsUnknownUnknown,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastIsDropdownVisibleThisUnknownBooleanHideDropdow,
   asLsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownOw,
-} from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordStringNumber,
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownSubmenuOrCurrentListRefresh,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidArgsNeverUndefined,
   asLsmCastThisVoidArgsUnknownUndefined,
@@ -18,26 +18,26 @@ import {
   asLsmCastThisVoidBoolean,
   asLsmCastThisVoidContextMenuObjectUndefined,
   asLsmCastThisVoidControlRecordStringUnknownRecordString,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidControlUnknownComboBoxUnknownButtonIdU,
   asLsmCastThisVoidDropdownRecordStringUnknownEntryTypeUn,
   asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
   asLsmCastThisVoidModeStringUndefined,
   asLsmCastThisVoidOwnerUnknownParentUnknownDataUnknownUn,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asLsmCastThisVoidSelfUnknownAUnknownUndefined,
   asLsmCastThisVoidUndefined,
   asObject,
   asString,
   asUnknown,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import {
   lib,
   setContextMenu,
-} from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const MAJOR = lib.name
 

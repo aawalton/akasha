@@ -1,26 +1,26 @@
-import { asComboBoxBaseClass } from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastIsOwnedByComboBoxThisVoidComboBoxUnknownBoolea } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asComboBoxBaseClass } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asLsmCastIsOwnedByComboBoxThisVoidComboBoxUnknownBoolea } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordNumberLsmEntryUndefined,
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidComboBoxComboBoxBaseNameUnknownItemUnk2,
   asLsmCastThisVoidComboBoxComboBoxBaseNameUnknownItemUnk3,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidControlUnknownRecordStringUnknown,
   asLsmCastThisVoidDropdownObjectUnknownEntryTypeUnknownU,
   asLsmCastThisVoidItemUnknownUnknown,
   asLsmCastThisVoidLsmRowControlUndefined,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asNumber,
   asString,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const moc = asLsmCastThisVoidLsmRowControlUndefined(asLsmCastRecordStringUnknown(_G).moc)
 

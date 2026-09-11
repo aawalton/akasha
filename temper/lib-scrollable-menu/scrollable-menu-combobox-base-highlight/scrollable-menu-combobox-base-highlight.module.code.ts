@@ -1,5 +1,5 @@
-import { asComboBoxBaseClass } from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asComboBoxBaseClass } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asLsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastNumberUndefined,
   asLsmCastRecordNumberRecordStringUnknown,
@@ -7,16 +7,16 @@ import {
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
   asLsmCastRecordStringUnknownUndefined2,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastThisVoidContextMenuObject } from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
-import { asLsmCastThisVoidControlUnknownRecordStringUnknown } from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { asString } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastThisVoidContextMenuObject } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+import { asLsmCastThisVoidControlUnknownRecordStringUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asString } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import {
   getContextMenu,
   lib,
   setContextMenu,
-} from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const constants = lib.constants
 const entryTypeConstants = asLsmCastRecordStringUnknown(constants.entryTypes)

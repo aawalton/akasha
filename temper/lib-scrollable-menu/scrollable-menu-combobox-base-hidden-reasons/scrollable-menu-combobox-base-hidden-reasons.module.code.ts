@@ -1,33 +1,33 @@
-import { asComboBoxBaseClass } from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asComboBoxBaseClass } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastGetOwningWindowThisVoidUnknown,
   asLsmCastGetParentThisUnknownRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
-import { asLsmCastIsMouseEnabledThisVoidBoolean } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+import { asLsmCastIsMouseEnabledThisVoidBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordNumberBoolean,
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidArgsUnknownUnknownUndefined,
   asLsmCastThisVoidContextMenuObject,
   asLsmCastThisVoidControlUnknownAlternativeControlUnknow,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidControlUnknownRecordStringUnknown,
   asLsmCastThisVoidControlUnknownRecordStringUnknownUndef,
   asLsmCastThisVoidCtrlUnknownBoolean,
   asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asLsmCastThisVoidRecordStringUnknownUndefined,
   asLsmCastThisVoidScrollUnknownMocCtrlUnknownBoolean,
   asNumber,
   asString,
   asUnknown,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
-import { contextMenuClickFlags } from "../scrollable-menu-combobox-base-hidden-clicks/scrollable-menu-combobox-base-hidden-clicks.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+import { contextMenuClickFlags } from "akasha/temper/lib-scrollable-menu/scrollable-menu-combobox-base-hidden-clicks/scrollable-menu-combobox-base-hidden-clicks.module.code.ts"
 
 type LsmCastLocalContextMenuLike3 = ContextMenuLike
 function asLsmCastLocalContextMenuLike3(value: unknown): LsmCastLocalContextMenuLike3 {
@@ -43,7 +43,7 @@ import {
   getContextMenu,
   lib,
   setContextMenu,
-} from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

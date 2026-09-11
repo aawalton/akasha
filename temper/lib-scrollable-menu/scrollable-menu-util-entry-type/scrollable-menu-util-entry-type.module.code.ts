@@ -1,20 +1,20 @@
-import { asLsmCastLsmDataSubtableStringLsmDataSubtableOrigi } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastLsmDataSubtableStringLsmDataSubtableOrigi } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordStringNumber,
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined2,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastThisVoidArgsUnknownUndefinedUndefined2 } from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastThisVoidArgsUnknownUndefinedUndefined2 } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidDataOrControlUnknownRecordStringUnknow,
   asLsmCastThisVoidDataUnknownUndefined,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 
 import {
   constants,
   getValueOrCallback,
-} from "../scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libUtil = lib.Util
 

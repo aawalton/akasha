@@ -1,20 +1,20 @@
 import {
   asComboBoxBaseClass,
   asDropdownClass,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastIsDropdownVisibleThisVoidBoolean } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
-import { asLsmCastRecordStringUnknown } from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asLsmCastIsDropdownVisibleThisVoidBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastRecordStringUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidComboBoxComboBoxBaseNameUnknownItemUnk,
   asLsmCastThisVoidComboBoxUnknownStayHighlightedUnknownC,
   asLsmCastThisVoidContextMenuObject,
   asLsmCastThisVoidControlUnknownAlternativeControlUnknow,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidItem1UnknownItem2UnknownSelfVarUnknown,
   asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
   asLsmCastThisVoidNumber,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asLsmCastThisVoidUndefined,
   asLsmCastUnknown,
@@ -22,7 +22,7 @@ import {
   asLsmComboBoxOptions,
   asNumber,
   asObject,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalHeaderHeaderSizeLike = { header?: HeaderSizeLike }
 function asLsmCastLocalHeaderHeaderSizeLike(value: unknown): LsmCastLocalHeaderHeaderSizeLike {
@@ -45,7 +45,7 @@ import {
   getContextMenu,
   lib,
   setContextMenu,
-} from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

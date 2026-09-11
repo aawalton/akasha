@@ -1,33 +1,33 @@
 import {
   asControl,
   asLsmCastComboBoxLikeUndefined,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastGetDataSourceThisUnknownUnknown,
   asLsmCastGetNumSelectedEntriesThisUnknownNumber,
   asLsmCastGetOptionsThisUnknownRecordStringUnknown,
-} from "../scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
 import {
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
   asLsmCastRecordStringZoColorDef,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe,
   asLsmCastThisVoidArgsUnknownUndefinedUndefined2,
   asLsmCastThisVoidAUnknownUnknown,
-} from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidDataOrControlUnknownRecordStringUnknow,
   asLsmCastThisVoidListControlDataToRefreshUnknownUndefin,
-} from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import {
   asLsmCastUnknown,
   asLsmCastUnknownUndefined,
   asObject,
   asString,
   asZoColorDef,
-} from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalTypeofRecursiveOverEntries = typeof recursiveOverEntries
 function asLsmCastLocalTypeofRecursiveOverEntries(
@@ -55,8 +55,8 @@ function asLsmCastLocalTypeofRecursiveMultiSelectSubmenuOpeningContro(
 import {
   constants,
   getValueOrCallback,
-} from "../scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libUtil = lib.Util
 

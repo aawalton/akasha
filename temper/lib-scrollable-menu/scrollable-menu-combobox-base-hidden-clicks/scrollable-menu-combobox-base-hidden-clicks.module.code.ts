@@ -1,6 +1,6 @@
-import { asLsmCastGetOwningWindowThisVoidRecordStringUnknownUnde } from "../scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
-import { asLsmCastThisVoidCtrlUnknownBoolean } from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { asLsmCastGetOwningWindowThisVoidRecordStringUnknownUnde } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+import { asLsmCastThisVoidCtrlUnknownBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libUtil = lib.Util
 

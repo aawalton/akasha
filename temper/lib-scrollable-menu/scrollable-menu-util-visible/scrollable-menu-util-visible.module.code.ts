@@ -1,14 +1,14 @@
-import { asLsmCastIsDropdownVisibleThisUnknownBoolean } from "../scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
-import { asLsmCastRecordStringUnknown } from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastThisVoidPreventerVarNameStringLuaMultiReturnBo } from "../scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { asLsmCastUnknown } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+import { asLsmCastIsDropdownVisibleThisUnknownBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastRecordStringUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastThisVoidPreventerVarNameStringLuaMultiReturnBo } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asLsmCastUnknown } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalTypeofGetControlName2 = typeof getControlName
 function asLsmCastLocalTypeofGetControlName2(value: unknown): LsmCastLocalTypeofGetControlName2 {
   return value as LsmCastLocalTypeofGetControlName2
 }
 
-import { lib } from "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libUtil = lib.Util
 

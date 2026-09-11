@@ -1,13 +1,13 @@
 import {
   asBoolean,
   asLsmCastBooleanUndefined,
-} from "../scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastNumberUndefined,
   asLsmCastRecordStringUnknown,
-} from "../scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastStringUndefined } from "../scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
-import { asString } from "../scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastStringUndefined } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+import { asString } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalComboBoxOptionTarget = ComboBoxOptionTarget
 function asLsmCastLocalComboBoxOptionTarget(value: unknown): LsmCastLocalComboBoxOptionTarget {
@@ -23,8 +23,8 @@ import {
   getValueOrCallback,
   HIGHLIGHTS,
   LSM_ROW_HIGHLIGHT_DEFAULT,
-} from "../scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import "../scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 constants.data = {
   subtables: {
