@@ -57,6 +57,10 @@ export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
 
+export function untaken(key: string): string {
+  return `\`${key}\` is no argument this change takes`
+}
+
 export function stating(edits: readonly FileChange[]): Said {
   return { edits, refused: null }
 }

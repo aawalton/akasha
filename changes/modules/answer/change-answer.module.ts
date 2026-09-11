@@ -17,6 +17,10 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "An argument a change does not take is refused by the key naming it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An edit states whether the readers of its path owe the reading again.",
     },
     {
