@@ -116,9 +116,14 @@ function partAt(pagePath: string, part: number): string | null {
   return uncommittedPartAt(pagePath, LINES_KEY, HELD, part)
 }
 
-function lastPartOf(root: string, pagePath: string): { path: string; part: number; bytes: number } {
+function lastPartOf(
+  root: string,
+  pagePath: string
+): { path: string; part: number; bytes: number } | null {
+  const first = partAt(pagePath, FIRST_PART)
+  if (first === null) return null
   let part = FIRST_PART
-  let found = partAt(pagePath, part) as string
+  let found = first
   for (;;) {
     const next = partAt(pagePath, part + 1)
     if (next === null || !existsSync(join(root, next))) break
@@ -128,10 +133,22 @@ function lastPartOf(root: string, pagePath: string): { path: string; part: numbe
   return { path: join(root, found), part, bytes: sizeOnDisk(join(root, found)) }
 }
 
+function refusingAppender(pagePath: string, say: string): Appender {
+  return {
+    append: (): undefined => undefined,
+    refused: () => say,
+    at: () => pagePath,
+    flushed: () => Promise.resolve(),
+  }
+}
+
 function appenderFor(root: string, source: string, seatName: string, date: string): Appender {
   const slug = dayNameOf(source, seatName, date)
   const pagePath = dayPathIn(root, slug)
   const held = lastPartOf(root, pagePath)
+  if (held === null) {
+    return refusingAppender(pagePath, `no part could be named beside ${pagePath}`)
+  }
   mkdirSync(dirname(held.path), { recursive: true })
   let path = held.path
   let part = held.part

@@ -135,5 +135,10 @@ export const logDayWriting = {
       invariantKind: "absence",
       statement: "Nothing here has the calling thread while a line is written.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A day whose first part could not be named leaves every line for that day unwritten.",
+    },
   ],
 } as const satisfies Module
