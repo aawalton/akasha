@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "design/layout": {
+    "design/interfaces/layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
