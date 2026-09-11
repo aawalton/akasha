@@ -1,4 +1,7 @@
-import { resolve } from "node:path"
+import { join } from "node:path"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   DONE_SENTINEL,
   normalizeValue,
@@ -7,7 +10,22 @@ import {
   responseSchema,
 } from "akasha/temper/lua-runner/lua-protocol/lua-protocol.module.code.ts"
 
-const DRIVER_PATH = resolve(import.meta.dir, "../lua-driver/lua-driver.lua-module.lua.lua")
+const LUA_MODULE = "lua-module"
+
+const LUA = "lua"
+
+const DRIVER_SLUG = "lua-driver"
+
+function driverPathIn(root: string): string {
+  const page = listedAt(root, LUA_MODULE, DRIVER_SLUG)[0]
+  const at = page === undefined ? null : besideAt(page.path, LUA, LUA)
+  if (at === null) {
+    throw new Error(
+      `no \`${LUA_MODULE}\` is slugged \`${DRIVER_SLUG}\`, so no Lua subprocess would come up`
+    )
+  }
+  return join(root, at)
+}
 
 const DEFAULT_BIN_PATH = "lua5.1"
 
@@ -226,7 +244,7 @@ export async function spawnPersistentVm(
   options: SpawnPersistentVmOptions = {}
 ): Promise<PersistentVm> {
   const binPath = options.binPath ?? DEFAULT_BIN_PATH
-  const driverPath = options.driverPath ?? DRIVER_PATH
+  const driverPath = options.driverPath ?? driverPathIn(akashaRoot())
   const maxRetries = options.handshakeRetries ?? DEFAULT_HANDSHAKE_RETRIES
   const timeoutMs = options.handshakeTimeoutMs ?? DEFAULT_HANDSHAKE_TIMEOUT_MS
 
