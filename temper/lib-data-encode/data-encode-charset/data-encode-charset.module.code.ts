@@ -1,4 +1,4 @@
-import type { ControlCharSpec } from "../data-encode-types/data-encode-types.module.code.ts"
+import type { ControlCharSpec } from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
 
 export const LIB_NAME = "LibDataEncode"
 export const SHORT_NAME = "LDE"

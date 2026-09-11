@@ -2,25 +2,25 @@ import {
   asDecoderMethod,
   asLdeValue,
   asLdeValueArray,
-} from "../data-encode-casts/data-encode-casts.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-casts/data-encode-casts.module.code.ts"
 import {
   CHAR_TO_VALUE,
   CHARSET_LENGTH,
   CONTROL_CHAR_CONFIG,
   CONTROL_CHARS,
   DECODER_FUNCTION_NAMES,
-} from "../data-encode-charset/data-encode-charset.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-charset/data-encode-charset.module.code.ts"
 import {
   LOG_LEVELS,
   printLog,
   RUNTIME,
-} from "../data-encode-runtime/data-encode-runtime.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-runtime/data-encode-runtime.module.code.ts"
 import type {
   DecodeClass,
   DecodeInstance,
   LdeValue,
   LuaTable,
-} from "../data-encode-types/data-encode-types.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
 
 const DECODE_DATA_HANDLER = ZO_InitializingObject.Subclass<DecodeClass>()
 

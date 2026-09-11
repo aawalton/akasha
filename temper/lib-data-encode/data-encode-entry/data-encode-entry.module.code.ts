@@ -1,6 +1,6 @@
-import { LIB_NAME } from "../data-encode-charset/data-encode-charset.module.code.ts"
-import { performSelfTest } from "../data-encode-self-test/data-encode-self-test.module.code.ts"
-import { DATA_ENCODE } from "../data-encode-surface/data-encode-surface.module.code.ts"
+import { LIB_NAME } from "akasha/temper/lib-data-encode/data-encode-charset/data-encode-charset.module.code.ts"
+import { performSelfTest } from "akasha/temper/lib-data-encode/data-encode-self-test/data-encode-self-test.module.code.ts"
+import { DATA_ENCODE } from "akasha/temper/lib-data-encode/data-encode-surface/data-encode-surface.module.code.ts"
 
 globalThis.LibDataEncode = DATA_ENCODE
 

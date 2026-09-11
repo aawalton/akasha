@@ -1,5 +1,5 @@
-import { SHORT_NAME } from "../data-encode-charset/data-encode-charset.module.code.ts"
-import type { TestResult } from "../data-encode-types/data-encode-types.module.code.ts"
+import { SHORT_NAME } from "akasha/temper/lib-data-encode/data-encode-charset/data-encode-charset.module.code.ts"
+import type { TestResult } from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
 
 function resolveLogLevels(): {
   verbose: unknown

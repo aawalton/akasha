@@ -1,21 +1,24 @@
-import { asLdeValue, asLuaArray } from "../data-encode-casts/data-encode-casts.module.code.ts"
+import {
+  asLdeValue,
+  asLuaArray,
+} from "akasha/temper/lib-data-encode/data-encode-casts/data-encode-casts.module.code.ts"
 import {
   CHARSET_LENGTH,
   CONTROL_CHARS,
   VALUE_TO_CHAR,
-} from "../data-encode-charset/data-encode-charset.module.code.ts"
-import { makeDictionary } from "../data-encode-dictionary/data-encode-dictionary.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-charset/data-encode-charset.module.code.ts"
+import { makeDictionary } from "akasha/temper/lib-data-encode/data-encode-dictionary/data-encode-dictionary.module.code.ts"
 import {
   LOG_LEVELS,
   printLog,
   RUNTIME,
-} from "../data-encode-runtime/data-encode-runtime.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-runtime/data-encode-runtime.module.code.ts"
 import type {
   EncodeClass,
   EncodeInstance,
   LdeValue,
   LuaTable,
-} from "../data-encode-types/data-encode-types.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
 
 const ENCODE_DATA_HANDLER = ZO_InitializingObject.Subclass<EncodeClass>()
 

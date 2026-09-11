@@ -4,7 +4,7 @@ import type {
   LdeValueArray,
   LuaArray,
   OptionalNumber,
-} from "../data-encode-types/data-encode-types.module.code.ts"
+} from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
 
 export type DecoderMethod = (this: void, self: DecodeInstance, controlChar: string) => unknown
 
