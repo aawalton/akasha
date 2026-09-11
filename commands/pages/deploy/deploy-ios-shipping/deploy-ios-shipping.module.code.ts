@@ -15,21 +15,14 @@ import {
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
-import { said } from "akasha/git/running/git-running.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const INPUT = 1
 
 const DATA = 2
 
 const OPERATIONAL = 3
 
 export const CONFIGURATION = "Release"
-
-export const WHERE_HEAD_IS = "HEAD"
-
-export const SHOWN_PATHS = 3
 
 export const NO_UPLOAD_SAID =
   "upload\tskipped, so Apple validates the build and no tester is sent it"
@@ -57,26 +50,8 @@ export function linesFor(
   ]
 }
 
-export function changedPaths(status: string): readonly string[] {
-  return status
-    .split("\n")
-    .map((one) => one.slice(3).trim())
-    .filter((one) => one !== "")
-}
-
-export function saidOfChanged(slug: string, changed: readonly string[]): string {
-  const first = changed.slice(0, SHOWN_PATHS).join(", ")
-  const rest = changed.length > SHOWN_PATHS ? `, and ${changed.length - SHOWN_PATHS} more` : ""
-  const many = changed.length === 1 ? "file" : "files"
-  return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
-}
-
 export function saidOfUnpushed(root: string, ref: string): string {
   return `the branch ${root} is on could not be pushed, and the macbook builds by fetching origin into its own clone, so ${ref} cannot be compiled until that push lands`
-}
-
-function trackedChanges(root: string): readonly string[] {
-  return changedPaths(said(root, ["status", "--porcelain", "--untracked-files=no"]))
 }
 
 function rootsOf(app: MobileApp): readonly string[] {
@@ -89,9 +64,8 @@ export async function shipIosApp(
   slug: string,
   pagePath: string,
   noUpload: boolean,
-  named: string | null
+  ref: string
 ): Promise<Answer> {
-  const ref = named ?? WHERE_HEAD_IS
   const report = [...linesFor(slug, pagePath, noUpload, ref)]
   let app: MobileApp
   try {
@@ -109,17 +83,6 @@ export async function shipIosApp(
     roots = rootsOf(app)
   } catch (err) {
     return { report, refusals: [saidBy(err)], code: OPERATIONAL }
-  }
-  if (named === null) {
-    let changed: readonly string[]
-    try {
-      changed = roots.flatMap((root) => trackedChanges(root))
-    } catch (err) {
-      return { report, refusals: [saidBy(err)], code: OPERATIONAL }
-    }
-    if (changed.length > 0) {
-      return { report, refusals: [saidOfChanged(slug, changed)], code: INPUT }
-    }
   }
   for (const root of roots) {
     const pushed = pushBranch(root)

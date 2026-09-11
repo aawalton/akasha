@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { deploy, refNamed } from "akasha/commands/pages/deploy/deploy.command.code.ts"
-import { given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
+import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
 import { seededWorld } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
@@ -9,7 +9,7 @@ afterAll(() => {
   WORLD.sweep()
 })
 
-const HERE = given(WORLD.root)
+const HERE = given(committed(WORLD.root))
 
 test("a call naming no app is refused as the caller's fault", async () => {
   const answer = await deploy([], HERE)
@@ -75,11 +75,15 @@ test("a web app is refused the flag belonging to an ios app", async () => {
   expect(answer.refusals[0]).toContain("--dry-run")
 })
 
-test("a web app is refused a commit, since it is built at what HEAD is at", async () => {
+test("a web app takes a commit rather than being refused one", async () => {
+  const answer = await deploy(["one-web", "--ref", "4f2a91c"], HERE)
+  expect(answer.refusals[0]).not.toContain("says nothing about it")
+})
+
+test("a commit no checkout holds is refused by the name the call gave", async () => {
   const answer = await deploy(["one-web", "--ref", "4f2a91c"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("names a web app")
-  expect(answer.refusals[0]).toContain("--ref")
+  expect(answer.refusals[0]).toContain("4f2a91c")
 })
 
 test("every ios app the mobile commands carry is reached by this command", async () => {

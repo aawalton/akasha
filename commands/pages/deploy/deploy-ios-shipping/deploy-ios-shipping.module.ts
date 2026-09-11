@@ -19,19 +19,11 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
-      statement: "A build is made at the commit the call names.",
+      statement: "A build is made at the commit it is handed.",
     },
     {
-      invariantKind: "departure",
-      statement: "A call naming no commit builds what HEAD is at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call naming no commit is refused where a tracked file differs from HEAD.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A commit named is built however the worktree differs from that commit.",
+      invariantKind: "absence",
+      statement: "Nothing here reads the worktree.",
     },
     {
       invariantKind: "departure",

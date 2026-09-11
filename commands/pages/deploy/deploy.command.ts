@@ -30,7 +30,7 @@ export const deploy = {
     },
     { said: "--dry-run", takes: "say what would have been applied and change nothing" },
     { said: "--no-upload", takes: "build and validate an ios app without uploading it" },
-    { said: "--ref <rev>", takes: "the commit an ios app is built at" },
+    { said: "--ref <rev>", takes: "the commit to put up" },
     {
       said: "--measured",
       takes: "run the whole deploy under no ceiling, so what it cost is recorded",
@@ -53,15 +53,16 @@ export const deploy = {
     "a workstation service is put up here as its systemd units, written where akasha owns them and linked where systemd reads them.",
     "one call reaches one workstation service's own units, and the units of a service the pages no longer account for are swept by `akasha infrastructure service sweep`.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
-    "an ios app is built on the MacBook at Release at the commit `--ref` names, and the build takes its own number.",
-    "`--ref` takes whatever git resolves — a branch, a tag or a sha — and a call naming none builds the commit HEAD is at.",
-    "a call naming no `--ref` is refused where a tracked file differs from HEAD, because the build would leave that change out of the app without saying so.",
-    "a `--ref` named is built however the worktree differs from it, since the commit was told rather than worked out.",
+    "an ios app is built on the MacBook at Release at the commit named, and the build takes its own number.",
+    "`--ref` takes whatever git resolves — a branch, a tag or a sha — and every deploy reports the hash it resolved to.",
+    "a call naming no `--ref` is made at the commit HEAD is at, and the report names that commit rather than HEAD.",
+    "a deploy is refused where a tracked file differs from the commit named, because what is put up would not be that commit.",
+    "an ios app is built from origin on the MacBook, so a `--ref` named on one is built however the worktree differs from it.",
     "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",
-    "`--dry-run` belongs to a web app and to a cluster service, `--no-upload` and `--ref` to an ios app, and one named on another kind is refused rather than ignored.",
+    "`--dry-run` belongs to a web app and to a cluster service, `--no-upload` to an ios app, and one named on another kind is refused rather than ignored.",
     "`--measured` lifts the ceiling the call runs under, so a deploy longer than that ceiling finishes rather than being stopped part way.",
     "`--measured` belongs to a deploy of either kind, since either kind can run past the ceiling.",
     "an ios deploy that archived, exported and uploaded measured 228 seconds on 2026-09-09, which is what the seconds this page states leave room over.",
@@ -130,7 +131,28 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit named on the call settles the commit an ios app is built at.",
+      statement: "A deploy is made at one commit rather than at whatever HEAD is at the time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit named on the call settles the commit a deploy is made at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming none is made at the commit HEAD is at, resolved to its hash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names that hash before anything the kind itself says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A worktree differing from that commit refuses every kind built from a checkout.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "An ios app is built from origin, so the worktree is read for it only where no commit is named.",
     },
     {
       invariantKind: "departure",

@@ -3,6 +3,13 @@ import { answering, refused } from "akasha/commands/modules/calling/calling.modu
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { putUpAddon } from "akasha/commands/pages/deploy/deploy-addon-installing/deploy-addon-installing.module.code.ts"
 import { publishedBundleFor } from "akasha/commands/pages/deploy/deploy-bundle-publishing/deploy-bundle-publishing.module.code.ts"
+import {
+  AT_HEAD,
+  commitAt,
+  driftedFrom,
+  saidOfDrift,
+  saidOfNoCommit,
+} from "akasha/commands/pages/deploy/deploy-commit-naming/deploy-commit-naming.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/deploy-image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/deploy-inference-installing/deploy-inference-installing.module.code.ts"
@@ -14,6 +21,7 @@ import {
   INFERENCE_SERVICE,
   IOS_APP,
   kindNamed,
+  type Named as Read,
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/deploy-kind-reading/deploy-kind-reading.module.code.ts"
@@ -81,6 +89,35 @@ export function refNamed(argv: readonly string[]): RefNamed | { readonly refused
   return { ref, rest }
 }
 
+export async function putUp(
+  read: Read,
+  slug: string,
+  commit: string,
+  rest: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const dryRun = rest.includes(DRY_RUN)
+  if (read.kind === IOS_APP) {
+    return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit)
+  }
+  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun)
+  if (read.kind === WORKSTATION_SERVICE) return putUpService(given.root, slug, dryRun)
+  if (read.kind === INFERENCE_SERVICE) return await putUpInferenceService(given.root, slug, dryRun)
+  if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)
+  if (read.kind === CLUSTER_SERVICE) {
+    const servable = servableNamed(given.root, slug)
+    if ("refused" in servable) return refused(servable.refused, DATA)
+    return appliedWorkload(given.root, slug, servable.servable, dryRun)
+  }
+  const bundle = await publishedBundleFor(given.root, slug, dryRun)
+  if (bundle !== null && bundle.refusals.length > 0) {
+    return answering(bundle.lines, bundle.refusals, OPERATIONAL)
+  }
+  const up = await putUpWebApp(slug, given, dryRun)
+  if (bundle === null) return up
+  return answering([...bundle.lines, ...up.report], up.refusals, up.code)
+}
+
 export async function deploy(argv: readonly string[], given: Given): Promise<Answer> {
   const taken = refNamed(argv)
   if ("refused" in taken) return refused(taken.refused, INPUT)
@@ -129,52 +166,28 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
         INPUT
       )
     }
-    return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), ref)
+  } else {
+    const what = NAMED[read.kind] as string
+    const elsewhere = rest.find((one) => one === SIMULATOR || one === DEVICE)
+    if (elsewhere !== undefined) {
+      return refused(
+        `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${elsewhere}\` says nothing about it`,
+        INPUT
+      )
+    }
+    if (rest.includes(NO_UPLOAD)) {
+      return refused(
+        `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,
+        INPUT
+      )
+    }
   }
-  const what = NAMED[read.kind] as string
-  const elsewhere = rest.find((one) => one === SIMULATOR || one === DEVICE)
-  if (elsewhere !== undefined) {
-    return refused(
-      `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${elsewhere}\` says nothing about it`,
-      INPUT
-    )
+  const commit = commitAt(given.root, ref)
+  if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
+  if (read.kind !== IOS_APP || ref === null) {
+    const drifted = driftedFrom(given.root, commit)
+    if (drifted.length > 0) return refused(saidOfDrift(slug, commit, drifted), INPUT)
   }
-  if (rest.includes(NO_UPLOAD)) {
-    return refused(
-      `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,
-      INPUT
-    )
-  }
-  if (ref !== null) {
-    return refused(
-      read.kind === WEB_APP
-        ? `\`${slug}\` names a web app, which is built from the commit this workstation's HEAD is at rather than from one told, so \`${REF}\` says nothing about it`
-        : `\`${slug}\` names ${what}, which runs what its page describes rather than a commit built here, so \`${REF}\` says nothing about it`,
-      INPUT
-    )
-  }
-  if (read.kind === CONTAINER_RECIPE) {
-    return await pushedImage(slug, rest.includes(DRY_RUN))
-  }
-  if (read.kind === WORKSTATION_SERVICE) {
-    return putUpService(given.root, slug, rest.includes(DRY_RUN))
-  }
-  if (read.kind === INFERENCE_SERVICE) {
-    return await putUpInferenceService(given.root, slug, rest.includes(DRY_RUN))
-  }
-  if (read.kind === ESO_ADDON) {
-    return await putUpAddon(given.root, slug, read.pagePath, rest.includes(DRY_RUN))
-  }
-  if (read.kind === CLUSTER_SERVICE) {
-    const servable = servableNamed(given.root, slug)
-    if ("refused" in servable) return refused(servable.refused, DATA)
-    return appliedWorkload(given.root, slug, servable.servable, rest.includes(DRY_RUN))
-  }
-  const bundle = await publishedBundleFor(given.root, slug, rest.includes(DRY_RUN))
-  if (bundle !== null && bundle.refusals.length > 0) {
-    return answering(bundle.lines, bundle.refusals, OPERATIONAL)
-  }
-  const up = await putUpWebApp(slug, given, rest.includes(DRY_RUN))
-  if (bundle === null) return up
-  return answering([...bundle.lines, ...up.report], up.refusals, up.code)
+  const answer = await putUp(read, slug, commit, rest, given)
+  return answering([`commit\t${commit}`, ...answer.report], answer.refusals, answer.code)
 }
