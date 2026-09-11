@@ -31,7 +31,7 @@ export const noVoidSelfInConstructor = {
       statement: "A member declaring no this parameter is left.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "The two constructor names are written here rather than read from the game's own types.",
     },
