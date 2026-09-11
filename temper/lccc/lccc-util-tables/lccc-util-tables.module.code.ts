@@ -1,4 +1,8 @@
-import { asNumber, asRecord, asTable } from "../lccc-casts/lccc-casts.module.code.ts"
+import {
+  asNumber,
+  asRecord,
+  asTable,
+} from "akasha/temper/lccc/lccc-casts/lccc-casts.module.code.ts"
 
 export function getSortedKeys(
   this: void,

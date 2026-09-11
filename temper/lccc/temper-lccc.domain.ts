@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperLccc = {
   id: "01a08d72-671a-7ba4-875c-f5296652fc14",

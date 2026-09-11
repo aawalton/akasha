@@ -1,4 +1,4 @@
-import { asGlobalTable, asNumber } from "../lccc-casts/lccc-casts.module.code.ts"
+import { asGlobalTable, asNumber } from "akasha/temper/lccc/lccc-casts/lccc-casts.module.code.ts"
 import {
   chunk,
   decode,
@@ -8,7 +8,7 @@ import {
   readAndDecode,
   readBitFromEncodedData,
   unchunk,
-} from "../lccc-codec/lccc-codec.module.code.ts"
+} from "akasha/temper/lccc/lccc-codec/lccc-codec.module.code.ts"
 import {
   hslToRgb,
   int24ToHsl,
@@ -20,7 +20,7 @@ import {
   int32ToRgba,
   rgbaToInt32,
   rgbToInt24,
-} from "../lccc-color/lccc-color.module.code.ts"
+} from "akasha/temper/lccc/lccc-color/lccc-color.module.code.ts"
 import {
   clamp,
   compareCharIds,
@@ -41,7 +41,7 @@ import {
   registerString,
   runAfterInitialLoadscreen,
   tokenizeSlashCommandParameters,
-} from "../lccc-util/lccc-util.module.code.ts"
+} from "akasha/temper/lccc/lccc-util/lccc-util.module.code.ts"
 import {
   concatTables,
   countTable,
@@ -49,7 +49,7 @@ import {
   mergeTables,
   processNumericTable,
   setupOnDemandDataTable,
-} from "../lccc-util-tables/lccc-util-tables.module.code.ts"
+} from "akasha/temper/lccc/lccc-util-tables/lccc-util-tables.module.code.ts"
 
 const NAME = "LibCodesCommonCode"
 const VERSION = 36

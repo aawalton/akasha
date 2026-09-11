@@ -3,7 +3,7 @@ import {
   asNumber,
   asString,
   asStringArray,
-} from "../lccc-casts/lccc-casts.module.code.ts"
+} from "akasha/temper/lccc/lccc-casts/lccc-casts.module.code.ts"
 
 const DICT = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz#%"
 
