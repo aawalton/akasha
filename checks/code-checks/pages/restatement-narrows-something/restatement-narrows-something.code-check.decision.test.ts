@@ -1,9 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { edging, landing, pathFor } from "../../../modules/scratch/check-scratch.module.code.ts"
+import {
+  edging,
+  judgingBy,
+  landing,
+  pathFor,
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   ONE,
   PAGE_TYPE,
@@ -24,11 +26,7 @@ import {
 
 afterAll(scratch.sweep)
 
-function judged(change: Change): readonly Judged[] {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return refusalsOver(change, cast.shadow)
-}
+const judged = judgingBy(refusalsOver)
 
 test("a restatement saying again what the type above it says is refused", () => {
   const root = rooted()

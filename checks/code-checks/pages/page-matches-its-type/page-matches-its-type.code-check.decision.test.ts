@@ -1,9 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { judgingBy } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   refusalsOver,
@@ -40,11 +39,7 @@ function bytesFor(bodies: Readonly<Record<string, string>>, root?: string) {
   }
 }
 
-function judged(change: Change): readonly Judged[] {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return refusalsOver(change, cast.shadow)
-}
+const judged = judgingBy(refusalsOver)
 
 function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[] {
   const root = scratch.rootFor("akasha-matches-")

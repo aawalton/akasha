@@ -1,13 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   claiming,
   edging,
   filing,
+  judgingBy,
   landing,
   NO_BYTES,
   pathFor,
@@ -31,11 +30,7 @@ function kindsIn(root: string): ReadonlySet<string> {
   return shadowAt(root).index.kindsUnder("page-property")
 }
 
-function judged(change: Change): readonly Judged[] {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return refusalsOver(change, cast.shadow)
-}
+const judged = judgingBy(refusalsOver)
 
 test("a property the index says some page type declares is let through", () => {
   const root = rooted()

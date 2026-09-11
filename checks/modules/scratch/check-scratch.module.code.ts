@@ -8,8 +8,10 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
+import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -178,4 +180,12 @@ export function proposing(
 ): (at: string) => Uint8Array | null {
   const disk = onDisk(root)
   return (at: string): Uint8Array | null => (at === path ? bytesOf(body) : disk(at))
+}
+
+export function judgingBy(running: Running): (over: Change) => readonly Judged[] {
+  return (over: Change): readonly Judged[] => {
+    const cast = shadowFor(over)
+    if ("refused" in cast) throw new Error(cast.refused)
+    return running(over, cast.shadow)
+  }
 }

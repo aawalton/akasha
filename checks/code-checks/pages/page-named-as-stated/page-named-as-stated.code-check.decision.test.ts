@@ -1,9 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change, landing } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { change, judgingBy, landing } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   pageIn,
   pagesIn,
@@ -244,11 +242,7 @@ test("a page bound by a pattern rather than a name is refused", () => {
   expect(said[0]).toContain("bound to no name")
 })
 
-function judged(over: Change): readonly Judged[] {
-  const cast = shadowFor(over)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return refusalsOver(over, cast.shadow)
-}
+const judged = judgingBy(refusalsOver)
 
 test("a file property the change introduces holds its file back from being judged a page", () => {
   const root = rooted(["code"])
