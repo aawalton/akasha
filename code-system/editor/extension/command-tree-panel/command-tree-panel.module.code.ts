@@ -1,17 +1,20 @@
-import * as vscode from "vscode"
 import {
   followState,
   readState,
   stateAt,
-} from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { REFRESH_COMMAND, VIEW_ID } from "../command-tree-ids/command-tree-ids.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import {
+  REFRESH_COMMAND,
+  VIEW_ID,
+} from "akasha/code-system/editor/extension/command-tree-ids/command-tree-ids.module.code.ts"
 import {
   countCommands,
   countRows,
-} from "../command-tree-reading/command-tree-reading.module.code.ts"
-import { createCommandTree } from "../command-tree-view/command-tree-view.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
-import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+} from "akasha/code-system/editor/extension/command-tree-reading/command-tree-reading.module.code.ts"
+import { createCommandTree } from "akasha/code-system/editor/extension/command-tree-view/command-tree-view.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { recordObservation } from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "command-tree"
 const SLUG = "command-tree"
