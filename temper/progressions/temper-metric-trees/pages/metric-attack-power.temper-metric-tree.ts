@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricAttackPower = {
   id: "019e2fcd-5968-718b-872f-252cc0039db4",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-attack-power",
   title: "Attack Power",

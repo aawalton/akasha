@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricPenetration = {
   id: "019e2fcd-597e-7f39-a4a2-088e6389dfdb",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-penetration",
   title: "Penetration",

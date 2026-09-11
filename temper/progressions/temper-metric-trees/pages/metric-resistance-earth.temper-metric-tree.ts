@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistanceEarth = {
   id: "019e2fcd-5a28-7d4f-9c43-18c610fad28c",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-earth",
   title: "Resistance Earth",

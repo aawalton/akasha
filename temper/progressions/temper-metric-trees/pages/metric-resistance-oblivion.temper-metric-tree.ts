@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistanceOblivion = {
   id: "019e2fcd-5a2d-79e1-a2b1-73db34330163",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-oblivion",
   title: "Resistance Oblivion",

@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResurrectTime = {
   id: "019e2fcd-5a6d-7dbc-8202-877cce03268d",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resurrect-time",
   title: "Resurrect Time",

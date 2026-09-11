@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricTargetDefenseBonus = {
   id: "019e2fcd-5aa1-77ad-a4e5-c175bb079cc2",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-target-defense-bonus",
   title: "Target Defense Bonus",

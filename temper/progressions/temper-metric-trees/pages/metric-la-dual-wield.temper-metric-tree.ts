@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricLaDualWield = {
   id: "019e2fcd-599c-769b-ab2b-af2fdbb8aaa8",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-la-dual-wield",
   title: "La Dual Wield",

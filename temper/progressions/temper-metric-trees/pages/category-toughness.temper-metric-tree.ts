@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const categoryToughness = {
   id: "019e2fcd-5a19-789d-bab2-161e9ad7bcfe",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "category-toughness",
   title: "Toughness",

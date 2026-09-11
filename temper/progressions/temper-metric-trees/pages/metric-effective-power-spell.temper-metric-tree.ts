@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricEffectivePowerSpell = {
   id: "019e2fcd-595e-7aeb-bb30-eba69d201501",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-effective-power-spell",
   title: "Effective Power Spell",

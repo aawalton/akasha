@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricPenetrationSpell = {
   id: "019e2fcd-5980-7fed-8900-a1a6813d6e9f",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-penetration-spell",
   title: "Penetration Spell",

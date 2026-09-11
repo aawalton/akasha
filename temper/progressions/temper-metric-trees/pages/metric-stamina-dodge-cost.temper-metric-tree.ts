@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricStaminaDodgeCost = {
   id: "019e2fcd-59fb-7af1-9e1a-e10d6f61924a",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-stamina-dodge-cost",
   title: "Stamina Dodge Cost",

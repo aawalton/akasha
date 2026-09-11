@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricBashDamage = {
   id: "019e2fcd-5981-7fad-84e8-76469b469f89",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-bash-damage",
   title: "Bash Damage",

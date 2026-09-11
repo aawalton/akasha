@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricPotionDuration = {
   id: "019e2fcd-5ab7-75d8-a534-b47a61842f01",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-potion-duration",
   title: "Potion Duration",

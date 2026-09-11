@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHaUnarmed = {
   id: "019e2fcd-59c8-77a2-97a8-77795532d6dc",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-ha-unarmed",
   title: "Ha Unarmed",

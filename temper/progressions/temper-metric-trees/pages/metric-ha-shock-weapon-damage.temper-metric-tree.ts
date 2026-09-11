@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHaShockWeaponDamage = {
   id: "019e2fcd-59b7-728a-99b2-a3090b4d74b2",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-ha-shock-weapon-damage",
   title: "Ha Shock Weapon Damage",

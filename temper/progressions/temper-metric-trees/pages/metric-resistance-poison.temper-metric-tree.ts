@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistancePoison = {
   id: "019e2fcd-5a26-78bc-b4fd-845eb09f7e43",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-poison",
   title: "Resistance Poison",

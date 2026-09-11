@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistanceFrost = {
   id: "019e2fcd-5a2b-735c-8b08-782fdcab955d",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-frost",
   title: "Resistance Frost",

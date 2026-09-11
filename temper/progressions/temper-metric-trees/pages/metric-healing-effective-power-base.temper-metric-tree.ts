@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHealingEffectivePowerBase = {
   id: "019e2fcd-5a5f-7e61-84a3-36c7c6787025",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-healing-effective-power-base",
   title: "Healing Effective Power Base",

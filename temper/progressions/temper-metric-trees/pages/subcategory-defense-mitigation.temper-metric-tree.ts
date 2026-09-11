@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const subcategoryDefenseMitigation = {
   id: "019e2fcd-5a41-77bb-843e-8761aab74b95",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "subcategory-defense-mitigation",
   title: "Defense Mitigation",

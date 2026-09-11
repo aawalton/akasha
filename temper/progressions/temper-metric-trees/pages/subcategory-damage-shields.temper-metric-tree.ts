@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const subcategoryDamageShields = {
   id: "019e2fcd-5a4b-73bf-aea4-f77ca55ed868",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "subcategory-damage-shields",
   title: "Damage Shields",

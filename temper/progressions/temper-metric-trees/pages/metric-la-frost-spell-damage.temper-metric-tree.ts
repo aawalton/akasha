@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricLaFrostSpellDamage = {
   id: "019e2fcd-5992-743b-b3ea-384183458641",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-la-frost-spell-damage",
   title: "La Frost Spell Damage",

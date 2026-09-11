@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHealingCriticalBonus = {
   id: "019e2fcd-5a63-7b2f-b643-8461eeb4f00b",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-healing-critical-bonus",
   title: "Healing Critical Bonus",

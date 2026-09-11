@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const subcategoryMagicalStatusChance = {
   id: "019e2fcd-59d9-7c4a-b73a-b785578da5e5",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "subcategory-magical-status-chance",
   title: "Magical Status Chance",

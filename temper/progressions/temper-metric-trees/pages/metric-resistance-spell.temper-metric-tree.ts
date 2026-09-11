@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistanceSpell = {
   id: "019e2fcd-5a27-7b25-bbf6-b8fbcbde819e",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-spell",
   title: "Resistance Spell",

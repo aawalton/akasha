@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricStaminaMaximum = {
   id: "019e2fcd-59fc-7ccb-b7e2-7af6686276a7",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-stamina-maximum",
   title: "Stamina Maximum",

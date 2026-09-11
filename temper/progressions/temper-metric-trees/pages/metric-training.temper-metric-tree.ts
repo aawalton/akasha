@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricTraining = {
   id: "019e2fcd-5abe-7f40-b136-2cfa2157aaff",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-training",
   title: "Training",

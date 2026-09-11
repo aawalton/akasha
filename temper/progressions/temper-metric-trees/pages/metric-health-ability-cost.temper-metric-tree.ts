@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHealthAbilityCost = {
   id: "019e2fcd-5a17-71dc-a75c-109eaa831cc2",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-health-ability-cost",
   title: "Health Ability Cost",

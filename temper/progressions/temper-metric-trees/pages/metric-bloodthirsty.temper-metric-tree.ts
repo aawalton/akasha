@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricBloodthirsty = {
   id: "019e2fcd-59eb-7ce7-91e4-bb6f057f3d3f",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-bloodthirsty",
   title: "Bloodthirsty",

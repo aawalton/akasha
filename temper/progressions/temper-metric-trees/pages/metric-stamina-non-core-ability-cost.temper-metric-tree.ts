@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricStaminaNonCoreAbilityCost = {
   id: "019e2fcd-59f9-7640-aafd-9184dccf39ea",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-stamina-non-core-ability-cost",
   title: "Stamina Non Core Ability Cost",

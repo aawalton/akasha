@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricMagickaRestore = {
   id: "019e2fcd-59f4-7c00-846f-6c235b841e36",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-magicka-restore",
   title: "Magicka Restore",

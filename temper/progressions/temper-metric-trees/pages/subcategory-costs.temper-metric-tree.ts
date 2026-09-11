@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const subcategoryCosts = {
   id: "019e2fcd-5a14-7c9b-b465-911d82426687",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "subcategory-costs",
   title: "Costs",

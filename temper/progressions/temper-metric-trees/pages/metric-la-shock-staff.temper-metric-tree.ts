@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricLaShockStaff = {
   id: "019e2fcd-59a2-7a63-a0d3-9a7b7f4a89ae",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-la-shock-staff",
   title: "La Shock Staff",

@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricLaUnarmed = {
   id: "019e2fcd-59a4-7b1f-b509-ffd4d099410b",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-la-unarmed",
   title: "La Unarmed",

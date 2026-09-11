@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricMagicalEnchantStatusChance = {
   id: "019e2fcd-59df-77e4-8d1c-3be85cf6cf97",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-magical-enchant-status-chance",
   title: "Magical Enchant Status Chance",

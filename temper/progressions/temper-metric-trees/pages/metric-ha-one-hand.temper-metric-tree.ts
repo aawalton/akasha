@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHaOneHand = {
   id: "019e2fcd-59c1-782f-8e7f-ce22d007edd3",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-ha-one-hand",
   title: "Ha One Hand",

@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricLaSpeed = {
   id: "019e2fcd-59a6-7be9-9649-ac6c1ef4b88a",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-la-speed",
   title: "La Speed",

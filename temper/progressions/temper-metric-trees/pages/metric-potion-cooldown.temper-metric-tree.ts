@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricPotionCooldown = {
   id: "019e2fcd-5ab6-71c3-ae77-70a452f219df",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-potion-cooldown",
   title: "Potion Cooldown",

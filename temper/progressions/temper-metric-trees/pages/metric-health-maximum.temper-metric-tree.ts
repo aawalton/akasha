@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHealthMaximum = {
   id: "019e2fcd-5a1e-7251-83bc-63ce4d7eded0",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-health-maximum",
   title: "Health Maximum",

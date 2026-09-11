@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricDamageTakenTrial = {
   id: "019e2fcd-5a3a-766e-be35-e33bbb10b9af",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-damage-taken-trial",
   title: "Damage Taken Trial",

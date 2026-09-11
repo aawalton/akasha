@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHealingDoneBase = {
   id: "019e2fcd-5a54-7f9e-98cf-02b56dd1efcc",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-healing-done-base",
   title: "Healing Done Base",

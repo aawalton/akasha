@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistanceMagic = {
   id: "019e2fcd-5a2c-75d8-8f96-e73db7741182",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-magic",
   title: "Resistance Magic",

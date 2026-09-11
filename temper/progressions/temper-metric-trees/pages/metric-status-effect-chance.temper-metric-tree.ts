@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricStatusEffectChance = {
   id: "019e2fcd-59cc-7dc4-abc0-1532ba29268d",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-status-effect-chance",
   title: "Status Effect Chance",

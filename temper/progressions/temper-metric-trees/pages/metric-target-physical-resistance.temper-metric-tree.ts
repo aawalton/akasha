@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricTargetPhysicalResistance = {
   id: "019e2fcd-5aa5-755f-bc1d-ba37edbc8e70",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-target-physical-resistance",
   title: "Target Physical Resistance",

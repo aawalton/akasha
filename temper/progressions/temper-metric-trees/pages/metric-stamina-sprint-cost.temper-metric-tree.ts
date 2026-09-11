@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricStaminaSprintCost = {
   id: "019e2fcd-5a00-7aca-a831-d8160616dbb9",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-stamina-sprint-cost",
   title: "Stamina Sprint Cost",

@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const subcategoryHaPower = {
   id: "019e2fcd-59aa-7e6c-b083-7907f66050cf",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "subcategory-ha-power",
   title: "HA Power",

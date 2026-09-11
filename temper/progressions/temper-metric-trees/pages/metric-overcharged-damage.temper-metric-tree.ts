@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricOverchargedDamage = {
   id: "019e2fcd-59d6-7849-b439-b65ed0480415",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-overcharged-damage",
   title: "Overcharged Damage",

@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricDamageDoneBow = {
   id: "019e2fcd-5985-709e-9fa9-52e70b6ac8a8",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-damage-done-bow",
   title: "Damage Done Bow",

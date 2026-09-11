@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricStaminaRestore = {
   id: "019e2fcd-59ff-748e-bfe5-f8f68e1180d8",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-stamina-restore",
   title: "Stamina Restore",

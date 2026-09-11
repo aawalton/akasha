@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricBlockSpeed = {
   id: "019e2fcd-5a85-7fba-8df2-9efec9dd92e6",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-block-speed",
   title: "Block Speed",

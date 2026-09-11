@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricTargetEffectiveLevel = {
   id: "019e2fcd-5ab0-7dc0-bd8f-1775d207459d",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-target-effective-level",
   title: "Target Effective Level",

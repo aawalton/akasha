@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricResistanceBleed = {
   id: "019e2fcd-5a24-71d5-b658-29d4b2ed8031",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-resistance-bleed",
   title: "Resistance Bleed",

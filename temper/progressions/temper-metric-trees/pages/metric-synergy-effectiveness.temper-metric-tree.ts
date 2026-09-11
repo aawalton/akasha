@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricSynergyEffectiveness = {
   id: "019e2fcd-5ab8-79eb-aed9-82bb2ef5a050",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-synergy-effectiveness",
   title: "Synergy Effectiveness",

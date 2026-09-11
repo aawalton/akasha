@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const subcategoryResurrection = {
   id: "019e2fcd-5a6c-793e-a73d-2c0d62f2796c",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "subcategory-resurrection",
   title: "Resurrection",

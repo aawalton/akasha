@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const categoryHealing = {
   id: "019e2fcd-5a4e-7f1c-85fc-ed75cbf9d5e6",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "category-healing",
   title: "Healing",

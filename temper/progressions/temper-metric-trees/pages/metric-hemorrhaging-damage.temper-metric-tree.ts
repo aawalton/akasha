@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricHemorrhagingDamage = {
   id: "019e2fcd-59d5-7752-a7fc-909d65b8db7c",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-hemorrhaging-damage",
   title: "Hemorrhaging Damage",

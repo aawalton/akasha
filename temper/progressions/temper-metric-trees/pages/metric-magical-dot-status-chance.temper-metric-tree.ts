@@ -2,7 +2,6 @@ import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-
 
 export const metricMagicalDotStatusChance = {
   id: "019e2fcd-59de-7647-ba27-3df72168f47a",
-  pageTypeSlug: "temper-metric-tree",
   type: "temper-metric-tree",
   slug: "metric-magical-dot-status-chance",
   title: "Magical Dot Status Chance",
