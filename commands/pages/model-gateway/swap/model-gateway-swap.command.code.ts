@@ -13,6 +13,7 @@ import {
 } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const FLEET = "--fleet"
 
@@ -40,7 +41,7 @@ export function readIn(argv: readonly string[]): Read {
   for (const one of argv) {
     if (one.startsWith("-")) {
       if (!(TAKES as readonly string[]).includes(one)) {
-        const said = TAKES.map((each) => `\`${each}\``).join(", ")
+        const said = namesDrawn(TAKES)
         refusals.push(`\`${one}\` is no flag a swap takes — it takes ${said}`)
         continue
       }
