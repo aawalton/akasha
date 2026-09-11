@@ -89,8 +89,8 @@ const EVENING_ROWS = [
   {
     id: "f",
     title: "sleep",
-    startTime: "2026-07-03T20:00:00.000Z",
-    endTime: "2026-07-03T23:30:00.000Z",
+    startTime: "2026-07-03T23:00:00.000Z",
+    endTime: "2026-07-04T01:30:00.000Z",
   },
 ]
 
@@ -98,7 +98,7 @@ const LATE_ROWS = [
   {
     id: "g",
     title: "sleep",
-    startTime: "2026-07-04T23:00:00.000Z",
+    startTime: "2026-07-05T01:00:00.000Z",
     endTime: "2026-07-05T07:00:00.000Z",
   },
 ]
@@ -126,7 +126,7 @@ test("a sleep ending before six in the morning still opens the day", () => {
 
 test("a sleep starting before six in the evening and running past it opens the day", () => {
   expect(openingInstantFromBlocks(EVENING_ROWS, SLEPT)?.toISOString()).toBe(
-    "2026-07-03T20:00:00.000Z"
+    "2026-07-03T23:00:00.000Z"
   )
 })
 
@@ -142,7 +142,7 @@ test("a stretch titled rest is no sleep", () => {
 
 test("a sleep starting after six in the evening opens the day after rather than that day", () => {
   expect(openingInstantFromBlocks(LATE_ROWS, SLEPT)).toBe(null)
-  expect(openingInstantFromBlocks(LATE_ROWS, NEXT)?.toISOString()).toBe("2026-07-04T23:00:00.000Z")
+  expect(openingInstantFromBlocks(LATE_ROWS, NEXT)?.toISOString()).toBe("2026-07-05T01:00:00.000Z")
 })
 
 test("the stretches of time a day held are read off the file beside its page", () => {
@@ -172,21 +172,30 @@ test("a day holding stretches of time and no sleep refuses", () => {
   expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("when the day opened is not recorded")
 })
 
-test("a day with no sleep at all is spanned from six the previous evening in New York", () => {
+test("a day with no sleep at all is spanned from six the previous evening in Utah", () => {
   const root = worldFiled("akasha-wake-fallback-")
   dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
   expect(spannedWindowIn(root, SLEPT)).toEqual({
-    from: "2026-07-03T22:00:00.000Z",
+    from: "2026-07-04T00:00:00.000Z",
     to: "2026-07-05T04:00:00.000Z",
   })
 })
 
-test("a day whose next day records no sleep closes at six that evening in New York", () => {
+test("a day long past whose next day records no sleep closes at six that evening in Utah", () => {
   const root = worldFiled("akasha-wake-fallback-end-")
   dayFiled(root, NEXT, [SLEPT_ROWS[1]])
-  expect(spannedWindowIn(root, SLEPT)).toEqual({
+  expect(spannedWindowIn(root, SLEPT, new Date("2026-09-01T00:00:00.000Z"))).toEqual({
     from: "2026-07-04T04:00:00.000Z",
-    to: "2026-07-04T22:00:00.000Z",
+    to: "2026-07-05T00:00:00.000Z",
+  })
+})
+
+test("the day being lived closes at the moment it is read rather than at six that evening", () => {
+  const root = worldFiled("akasha-opened-lived-")
+  dayFiled(root, NEXT, [SLEPT_ROWS[1]])
+  expect(spannedWindowIn(root, SLEPT, new Date("2026-07-05T02:00:00.000Z"))).toEqual({
+    from: "2026-07-04T04:00:00.000Z",
+    to: "2026-07-05T02:00:00.000Z",
   })
 })
 

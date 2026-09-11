@@ -16,7 +16,7 @@ export const openingWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "Six in the evening is read on a New York clock.",
+      statement: "Six in the evening is read on a Utah clock.",
     },
     {
       invariantKind: "departure",
@@ -70,11 +70,11 @@ export const openingWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A day whose next opening is not recorded closes at six that evening in New York.",
+      statement: "A day whose next opening is not recorded closes at six that evening in Utah.",
     },
     {
       invariantKind: "departure",
-      statement: "The day being lived closes at six that evening in New York.",
+      statement: "The day being lived closes at the moment it is read rather than at a fixed hour.",
     },
     {
       invariantKind: "departure",

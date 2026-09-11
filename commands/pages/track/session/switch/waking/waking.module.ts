@@ -15,7 +15,7 @@ export const waking = {
     },
     {
       invariantKind: "departure",
-      statement: "A sleep beginning at or after six the evening in New York opens the day after.",
+      statement: "A sleep beginning at or after six the evening in Utah opens the day after.",
     },
     {
       invariantKind: "departure",

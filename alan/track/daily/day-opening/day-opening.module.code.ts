@@ -7,6 +7,7 @@ import {
   dayAfter,
   dayBefore,
   type Refused,
+  openingInstantOn as recordedOpeningOn,
   spannedWindowIn,
 } from "akasha/alan/harness/health-samples-day/opening-window/opening-window.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
@@ -31,12 +32,19 @@ export function openingInstantAt(roots: Roots, at: number): string {
   return openingInstantOn(roots, getEsoDayStr(new Date(at)))
 }
 
+export function recordedOpeningAt(roots: Roots, dayStr: string): number | null {
+  const opening = recordedOpeningOn(rootFor(roots, AKASHA), dayStr)
+  return "refused" in opening ? null : opening.getTime()
+}
+
 export function openedDayOf(roots: Roots, instant: Date): string {
   const day = getEsoDayStr(instant)
   const at = instant.getTime()
-  if (at < Date.parse(openingInstantOn(roots, day))) return dayBefore(day)
+  const opened = recordedOpeningAt(roots, day)
+  if (opened !== null && at < opened) return dayBefore(day)
   const next = dayAfter(day)
-  return at >= Date.parse(openingInstantOn(roots, next)) ? next : day
+  const opensNext = recordedOpeningAt(roots, next)
+  return opensNext !== null && at >= opensNext ? next : day
 }
 
 export interface DayOpening {

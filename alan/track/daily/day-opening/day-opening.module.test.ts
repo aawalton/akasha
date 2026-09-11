@@ -104,18 +104,23 @@ test("an instant answers the day it fell in and the moment that day opened", () 
   })
 })
 
-test("a day holding no sleep opens at six the previous evening in New York", () => {
+test("a day holding no sleep opens at six the previous evening in Utah", () => {
   const root = scratch.rootFor("akasha-opened-nosleep-")
   dayFiled(root, SLEPT, [WORK])
   expect(openingInstantOn(rootsNamed({ [AKASHA]: root }, AKASHA), SLEPT)).toBe(
-    "2026-07-03T22:00:00.000Z"
+    "2026-07-04T00:00:00.000Z"
   )
 })
 
-test("a day no page is filed for opens at six the previous evening in New York", () => {
+test("a day no page is filed for opens at six the previous evening in Utah", () => {
   expect(openingInstantOn(sleptWorld("akasha-opened-unfiled-"), "2026-01-01")).toBe(
-    "2025-12-31T23:00:00.000Z"
+    "2026-01-01T01:00:00.000Z"
   )
+})
+
+test("an instant past six the evening stays on its day while no sleep opens the next", () => {
+  const roots = sleptWorld("akasha-opened-evening-")
+  expect(openedDayOf(roots, new Date("2026-07-07T03:00:00.000Z"))).toBe(LATE)
 })
 
 test("what is no day at all answers a window at the epoch", () => {

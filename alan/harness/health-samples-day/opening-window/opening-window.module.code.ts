@@ -4,7 +4,7 @@ import {
   getEsoDayStr,
   getEsoDayWindow,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import { nyWallToInstant } from "akasha/alan/harness/day/new-york-wall/new-york-wall.module.code.ts"
+import { instantsForMountainWall } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -57,7 +57,18 @@ export function dayBefore(dayStr: string): string {
 }
 
 export function eveningOf(dayStr: string): Date {
-  return nyWallToInstant(dayStr, EVENING_HOUR, 0)
+  const [year, month, at] = dayStr.split("-").map(Number)
+  if (year === undefined || month === undefined || at === undefined) return new Date(Number.NaN)
+  const found = instantsForMountainWall({
+    year,
+    month,
+    day: at,
+    hour: EVENING_HOUR,
+    minute: 0,
+    second: 0,
+  })
+  const struck = found[0]
+  return struck === undefined ? new Date(Number.NaN) : new Date(struck)
 }
 
 function spanOf(block: SleepBlockInput): Span | null {
@@ -149,7 +160,18 @@ export function openingWindowIn(root: string, dayStr: string): DayWindow | Refus
   return { from: from.toISOString(), to: to.toISOString() }
 }
 
-export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
+export function closingWithoutNext(dayStr: string, now: Date): Date {
+  const closed = eveningOf(dayStr)
+  const latest = eveningOf(dayAfter(dayStr))
+  const at = now.getTime()
+  return at > closed.getTime() && at < latest.getTime() ? now : closed
+}
+
+export function spannedWindowIn(
+  root: string,
+  dayStr: string,
+  now: Date = new Date()
+): DayWindow | Refused {
   const eso = getEsoDayWindow(dayStr)
   if (eso.start.getTime() === 0 || eso.end.getTime() === 0) {
     return { refused: `'${dayStr}' is no day, so no span can be counted over it` }
@@ -158,7 +180,7 @@ export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refus
   const next = openingInstantOn(root, dayAfter(dayStr))
   return {
     from: ("refused" in opening ? eveningOf(dayBefore(dayStr)) : opening).toISOString(),
-    to: ("refused" in next ? eveningOf(dayStr) : next).toISOString(),
+    to: ("refused" in next ? closingWithoutNext(dayStr, now) : next).toISOString(),
   }
 }
 

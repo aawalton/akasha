@@ -15,11 +15,19 @@ export const dayOpening = {
     },
     {
       invariantKind: "departure",
-      statement: "An instant before its ESO day opened counts to the day before.",
+      statement: "An instant before its ESO day's recorded opening counts to the day before.",
     },
     {
       invariantKind: "departure",
-      statement: "An instant at or after the next day's opening counts to the day after.",
+      statement: "An instant at or after the next day's recorded opening counts to the day after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only an opening read from a sleep block moves an instant off its ESO day.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No hour on a clock moves an instant off its ESO day.",
     },
     {
       invariantKind: "absence",

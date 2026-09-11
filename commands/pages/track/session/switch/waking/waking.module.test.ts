@@ -24,13 +24,17 @@ test("a stretch titled anything else is no sleep", () => {
 })
 
 test("a sleep beginning at six the evening opens the day after it", () => {
-  expect(opensInto("2026-09-04T22:00:00.000Z")).toBe("2026-09-05")
+  expect(opensInto("2026-09-05T00:00:00.000Z")).toBe("2026-09-05")
   expect(opensInto("2026-09-05T03:30:00.000Z")).toBe("2026-09-05")
 })
 
 test("a sleep beginning before six the evening opens the day it began in", () => {
-  expect(opensInto("2026-09-04T21:59:00.000Z")).toBe("2026-09-04")
+  expect(opensInto("2026-09-04T23:59:00.000Z")).toBe("2026-09-04")
   expect(opensInto("2026-09-04T09:00:00.000Z")).toBe("2026-09-04")
+})
+
+test("six the evening is read in Utah rather than in New York", () => {
+  expect(opensInto("2026-09-04T22:00:00.000Z")).toBe("2026-09-04")
 })
 
 test("a time that will not parse answers itself", () => {
