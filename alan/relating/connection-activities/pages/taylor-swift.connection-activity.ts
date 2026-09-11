@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
+import type { ConnectionActivity } from "akasha/alan/relating/connection-activities/connection-activity.page-type.types.ts"
 
 export const taylorSwift = {
   id: "019e931f-6388-78d2-b93f-f722013503c3",

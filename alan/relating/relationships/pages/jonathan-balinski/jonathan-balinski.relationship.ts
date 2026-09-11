@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.types.ts"
+import type { Relationship } from "akasha/alan/relating/relationships/relationship.page-type.types.ts"
 
 export const jonathanBalinski = {
   id: "019db533-f384-78ea-a0a9-9a2485008e26",

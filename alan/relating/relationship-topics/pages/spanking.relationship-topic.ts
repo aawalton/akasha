@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
+import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics/relationship-topic.page-type.types.ts"
 
 export const spanking = {
   id: "019db533-f382-72cd-899f-4dc75f553865",

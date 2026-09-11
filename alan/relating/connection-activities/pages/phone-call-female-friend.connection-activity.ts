@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
+import type { ConnectionActivity } from "akasha/alan/relating/connection-activities/connection-activity.page-type.types.ts"
 
 export const phoneCallFemaleFriend = {
   id: "019e931f-5b41-798c-9f65-e341c3f6d89f",

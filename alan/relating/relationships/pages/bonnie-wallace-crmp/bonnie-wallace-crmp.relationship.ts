@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.types.ts"
+import type { Relationship } from "akasha/alan/relating/relationships/relationship.page-type.types.ts"
 
 export const bonnieWallaceCrmp = {
   id: "019db533-f383-7ed4-a09d-2bb1bcbcc580",

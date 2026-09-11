@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
+import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics/relationship-topic.page-type.types.ts"
 
 export const longTermVisionForOurHome = {
   id: "019db533-f382-739b-afed-8b4bddf1245f",

@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
+import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics/relationship-topic.page-type.types.ts"
 
 export const coordinateOnFamilyProjects = {
   id: "019db533-f382-7188-bf19-38d0d4c2688f",

@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
+import type { ConnectionActivity } from "akasha/alan/relating/connection-activities/connection-activity.page-type.types.ts"
 
 export const esoSolo = {
   id: "019e931f-67a6-7b5d-b46d-9edc5725a1f3",

@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
+import type { RelationshipTopic } from "akasha/alan/relating/relationship-topics/relationship-topic.page-type.types.ts"
 
 export const shiftingWindowsOfTolerance = {
   id: "019db533-f382-730c-901b-a124260370cb",

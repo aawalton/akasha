@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
+import type { ConnectionActivity } from "akasha/alan/relating/connection-activities/connection-activity.page-type.types.ts"
 
 export const dndGroup = {
   id: "019e931f-59f4-7292-baeb-251dd6b4fc85",
