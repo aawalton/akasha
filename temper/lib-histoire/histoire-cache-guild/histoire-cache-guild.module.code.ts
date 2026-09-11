@@ -1,10 +1,10 @@
 import type {
   GuildHistoryCacheCategoryClass,
   GuildHistoryCacheCategoryInstance,
-} from "../histoire-category-class-shape/histoire-category-class-shape.module.code.ts"
-import type { GuildDataRef } from "../histoire-category-types/histoire-category-types.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import type { GradientPair } from "../histoire-types/histoire-types.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-category-class-shape/histoire-category-class-shape.module.code.ts"
+import type { GuildDataRef } from "akasha/temper/lib-histoire/histoire-category-types/histoire-category-types.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import type { GradientPair } from "akasha/temper/lib-histoire/histoire-types/histoire-types.module.code.ts"
 
 const logger = internal.logger
 

@@ -1,4 +1,4 @@
-import { asGlobalTable } from "../histoire-casts/histoire-casts.module.code.ts"
+import { asGlobalTable } from "akasha/temper/lib-histoire/histoire-casts/histoire-casts.module.code.ts"
 
 const g = asGlobalTable(globalThis)
 

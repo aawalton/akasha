@@ -1,10 +1,10 @@
-import { GuildHistoryCacheCategory } from "../histoire-category-class/histoire-category-class.module.code.ts"
+import { GuildHistoryCacheCategory } from "akasha/temper/lib-histoire/histoire-category-class/histoire-category-class.module.code.ts"
 import {
   INITIAL_REQUEST_RESEND_THRESHOLD,
   MISSING_EVENT_COUNT_THRESHOLD,
-} from "../histoire-category-thresholds/histoire-category-thresholds.module.code.ts"
-import type { ServerRequestClassRef } from "../histoire-category-types/histoire-category-types.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-category-thresholds/histoire-category-thresholds.module.code.ts"
+import type { ServerRequestClassRef } from "akasha/temper/lib-histoire/histoire-category-types/histoire-category-types.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 const logger = internal.logger
 

@@ -1,5 +1,5 @@
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import type { GuildHistoryStatusTooltipInstance } from "../histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import type { GuildHistoryStatusTooltipInstance } from "akasha/temper/lib-histoire/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
 import {
   destroyRow,
   initializeHighlight,
@@ -8,7 +8,7 @@ import {
   setLabel,
   setProgress,
   setSelected,
-} from "../histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"
 import {
   asControl,
   asStatusTooltipCacheRef,
@@ -22,7 +22,7 @@ import {
   type SelectionWidgetRef,
   type WindowHistoryAdapterRef,
   type WindowSaveData,
-} from "../histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
 
 const logger = internal.logger
 void logger

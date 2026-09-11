@@ -1,6 +1,6 @@
-import type { CacheStatusBarClass } from "../histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import type { GuildHistoryStatusTooltipInstance } from "../histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
+import type { CacheStatusBarClass } from "akasha/temper/lib-histoire/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import type { GuildHistoryStatusTooltipInstance } from "akasha/temper/lib-histoire/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
 import {
   asBoolean,
   asNumber,
@@ -13,7 +13,7 @@ import {
   type RowEntry,
   requireChild,
   SELECTED_COLOR,
-} from "../histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
 
 type ResetControlFn = (this: void, control: Control) => void
 interface StatusWindowZoomRef {

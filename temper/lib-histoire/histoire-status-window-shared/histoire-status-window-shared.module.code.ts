@@ -1,7 +1,7 @@
 import type {
   GuildHistoryStatusTooltipInstance,
   StatusTooltipCacheRef,
-} from "../histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
 
 export const BUTTON_NORMAL_TEXTURE = "LibHistoire/image/histy_up.dds"
 export const BUTTON_PRESSED_TEXTURE = "LibHistoire/image/histy_down.dds"

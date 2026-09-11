@@ -1,5 +1,5 @@
-import { GuildHistoryAdapter } from "../histoire-adapter/histoire-adapter.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+import { GuildHistoryAdapter } from "akasha/temper/lib-histoire/histoire-adapter/histoire-adapter.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 const logger = internal.logger
 

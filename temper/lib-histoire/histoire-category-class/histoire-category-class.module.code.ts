@@ -1,9 +1,9 @@
-import type { GuildHistoryCacheCategoryClass } from "../histoire-category-class-shape/histoire-category-class-shape.module.code.ts"
+import type { GuildHistoryCacheCategoryClass } from "akasha/temper/lib-histoire/histoire-category-class-shape/histoire-category-class-shape.module.code.ts"
 import type {
   PerformanceTrackerClassRef,
   ProcessorRef,
-} from "../histoire-category-types/histoire-category-types.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-category-types/histoire-category-types.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 function asPerformanceTrackerClassRef(value: unknown): PerformanceTrackerClassRef {
   return value as PerformanceTrackerClassRef

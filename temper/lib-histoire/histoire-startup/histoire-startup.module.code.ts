@@ -1,7 +1,7 @@
-import { asGlobalTable } from "../histoire-casts/histoire-casts.module.code.ts"
-import { LIB_IDENTIFIER } from "../histoire-constants/histoire-constants.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireInternal } from "../histoire-types/histoire-types.module.code.ts"
+import { asGlobalTable } from "akasha/temper/lib-histoire/histoire-casts/histoire-casts.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-histoire/histoire-constants/histoire-constants.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import type { LibHistoireInternal } from "akasha/temper/lib-histoire/histoire-types/histoire-types.module.code.ts"
 
 const g = asGlobalTable(globalThis)
 

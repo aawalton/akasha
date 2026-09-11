@@ -1,8 +1,8 @@
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 import type {
   GuildHistoryStatusTooltipInstance,
   StatusTooltipCacheRef,
-} from "../histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
 
 const logger = internal.logger
 void logger

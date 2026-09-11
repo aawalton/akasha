@@ -1,5 +1,5 @@
-import type { GuildHistoryServerRequestInstance } from "../histoire-server-request/histoire-server-request.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+import type { GuildHistoryServerRequestInstance } from "akasha/temper/lib-histoire/histoire-server-request/histoire-server-request.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 const logger = internal.logger
 

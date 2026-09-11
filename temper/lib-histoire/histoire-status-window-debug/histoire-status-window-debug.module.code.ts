@@ -1,6 +1,6 @@
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import { GuildHistoryStatusWindow } from "../histoire-status-window/histoire-status-window.module.code.ts"
-import { asWindowHistoryCacheRef } from "../histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import { GuildHistoryStatusWindow } from "akasha/temper/lib-histoire/histoire-status-window/histoire-status-window.module.code.ts"
+import { asWindowHistoryCacheRef } from "akasha/temper/lib-histoire/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
 
 const logger = internal.logger
 

@@ -3,7 +3,7 @@ import type {
   LibHistoireGlobal,
   LibHistoireInternal,
   Logger,
-} from "../histoire-types/histoire-types.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-types/histoire-types.module.code.ts"
 
 export function asLibHistoireInternal(value: unknown): LibHistoireInternal {
   return value as LibHistoireInternal

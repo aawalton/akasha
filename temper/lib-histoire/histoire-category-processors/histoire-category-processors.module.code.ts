@@ -1,4 +1,4 @@
-import { GuildHistoryCacheCategory } from "../histoire-category-class/histoire-category-class.module.code.ts"
+import { GuildHistoryCacheCategory } from "akasha/temper/lib-histoire/histoire-category-class/histoire-category-class.module.code.ts"
 
 GuildHistoryCacheCategory.RegisterProcessor = function (this, processor) {
   this.saveData.lastProcessorRegisteredTime = GetTimeStamp()

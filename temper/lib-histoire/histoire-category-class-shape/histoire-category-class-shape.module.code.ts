@@ -10,7 +10,7 @@ import type {
   RangeTuple,
   RequestManagerRef,
   ServerRequestRef,
-} from "../histoire-category-types/histoire-category-types.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-category-types/histoire-category-types.module.code.ts"
 
 export interface GuildHistoryCacheCategoryInstance {
   adapter: HistoryAdapterRef

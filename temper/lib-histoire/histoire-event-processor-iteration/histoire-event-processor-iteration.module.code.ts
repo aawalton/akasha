@@ -3,8 +3,8 @@ import {
   handleEvent,
   type ProcessingRequestClassRef,
   type ProcessingRequestRef,
-} from "../histoire-event-processor/histoire-event-processor.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-event-processor/histoire-event-processor.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 const logger = internal.logger
 

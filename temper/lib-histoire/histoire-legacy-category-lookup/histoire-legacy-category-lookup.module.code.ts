@@ -1,4 +1,4 @@
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 function getCategoriesForLegacyCategory(this: void, category: number): number[] {
   if (category === GUILD_HISTORY_BANK) {

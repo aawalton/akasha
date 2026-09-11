@@ -4,7 +4,7 @@ import {
   asLibHistoireGlobal,
   asLibHistoireInternal,
   asLogger,
-} from "../histoire-casts/histoire-casts.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-casts/histoire-casts.module.code.ts"
 import {
   CALLBACK,
   LIB_IDENTIFIER,
@@ -18,7 +18,7 @@ import {
   ZOOM_MODE_AUTO,
   ZOOM_MODE_FULL_RANGE,
   ZOOM_MODE_MISSING_RANGE,
-} from "../histoire-constants/histoire-constants.module.code.ts"
+} from "akasha/temper/lib-histoire/histoire-constants/histoire-constants.module.code.ts"
 
 const g = asGlobalTable(globalThis)
 

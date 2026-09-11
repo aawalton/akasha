@@ -1,4 +1,4 @@
-import { GuildHistoryCacheCategory } from "../histoire-category-class/histoire-category-class.module.code.ts"
+import { GuildHistoryCacheCategory } from "akasha/temper/lib-histoire/histoire-category-class/histoire-category-class.module.code.ts"
 
 GuildHistoryCacheCategory.GetKey = function (this) {
   return this.key

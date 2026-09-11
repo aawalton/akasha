@@ -1,5 +1,5 @@
-import { GuildHistoryLegacyEventListener } from "../histoire-legacy-event-listener/histoire-legacy-event-listener.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+import { GuildHistoryLegacyEventListener } from "akasha/temper/lib-histoire/histoire-legacy-event-listener/histoire-legacy-event-listener.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 const logger = internal.logger
 

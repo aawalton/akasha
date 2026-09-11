@@ -1,5 +1,5 @@
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import { requireChild } from "../histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import { requireChild } from "akasha/temper/lib-histoire/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
 
 const DEFAULT_COLOR = ZO_DISABLED_TEXT
 const DEFAULT_LINE_THICKNESS = 3

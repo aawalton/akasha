@@ -1,5 +1,5 @@
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireInternal } from "../histoire-types/histoire-types.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
+import type { LibHistoireInternal } from "akasha/temper/lib-histoire/histoire-types/histoire-types.module.code.ts"
 
 const ENTRIES_PER_PAGE = 100
 

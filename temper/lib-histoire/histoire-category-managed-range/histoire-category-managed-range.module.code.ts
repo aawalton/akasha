@@ -1,5 +1,5 @@
-import { GuildHistoryCacheCategory } from "../histoire-category-class/histoire-category-class.module.code.ts"
-import { internal } from "../histoire-state/histoire-state.module.code.ts"
+import { GuildHistoryCacheCategory } from "akasha/temper/lib-histoire/histoire-category-class/histoire-category-class.module.code.ts"
+import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 
 const logger = internal.logger
 
