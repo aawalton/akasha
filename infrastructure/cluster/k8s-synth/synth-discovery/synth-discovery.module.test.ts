@@ -2,29 +2,19 @@ import { afterAll, beforeAll, expect, test } from "bun:test"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
-  appliedManifestPaths,
   discoverSynthFiles,
   isSynthPath,
+  manifestCodePaths,
 } from "akasha/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const MANIFEST = "manifest"
-
-const CLUSTER_SERVICE = "cluster-service"
 
 const MANIFESTS: readonly (readonly [string, string])[] = [
   ["alpha/gamma/gamma.manifest.ts", "gamma"],
   ["beta/delta/delta.manifest.ts", "delta"],
   ["alpha/src/hidden/hidden.manifest.ts", "hidden"],
   ["alpha/lone/lone.manifest.ts", "lone"],
-]
-
-const SERVICES: readonly (readonly [string, string | null])[] = [
-  ["alpha/one/one.cluster-service.ts", "gamma"],
-  ["beta/two/two.cluster-service.ts", "delta"],
-  ["alpha/three/three.cluster-service.ts", "hidden"],
-  ["alpha/four/four.cluster-service.ts", null],
-  ["alpha/five/five.cluster-service.ts", "no-such-manifest"],
 ]
 
 const GLOBBED: readonly string[] = [
@@ -51,24 +41,13 @@ beforeAll(() => {
     MANIFEST,
     MANIFESTS.map(([path, slug]) => ({ path, value: { pageTypeSlug: MANIFEST, slug } }))
   )
-  valueAlsoFiled(
-    root,
-    CLUSTER_SERVICE,
-    SERVICES.map(([path, named]) => ({
-      path,
-      value:
-        named === null
-          ? { pageTypeSlug: CLUSTER_SERVICE }
-          : { pageTypeSlug: CLUSTER_SERVICE, manifest: named },
-    }))
-  )
 })
 
 afterAll(() => {
   scratch.sweep()
 })
 
-test("the code file of the manifest a cluster service is applied as is found", () => {
+test("the code file of a manifest page is found", () => {
   expect(found()).toContain("alpha/gamma/gamma.manifest.code.ts")
   expect(found()).toContain("beta/delta/delta.manifest.code.ts")
 })
@@ -85,19 +64,18 @@ test("a path reached through a `src` folder is left out", () => {
 })
 
 test("a package filter narrows the answer", () => {
-  expect(found("alpha")).toEqual(["alpha/gamma/gamma.manifest.code.ts"])
+  expect(found("alpha")).toEqual([
+    "alpha/gamma/gamma.manifest.code.ts",
+    "alpha/lone/lone.manifest.code.ts",
+  ])
 })
 
-test("a manifest no cluster service is applied as is left out", () => {
-  expect(found()).not.toContain("alpha/lone/lone.manifest.code.ts")
+test("a manifest no cluster service names is a synth file still", () => {
+  expect(found()).toContain("alpha/lone/lone.manifest.code.ts")
 })
 
-test("a cluster service naming no manifest adds nothing", () => {
-  expect(appliedManifestPaths(root)).toHaveLength(3)
-})
-
-test("a manifest slug naming no manifest page is left out", () => {
-  expect(appliedManifestPaths(root).join(" ")).not.toContain("no-such-manifest")
+test("every manifest page the index holds carries a synth file", () => {
+  expect(manifestCodePaths(root)).toHaveLength(MANIFESTS.length)
 })
 
 test("the answer is sorted and holds each path once", () => {

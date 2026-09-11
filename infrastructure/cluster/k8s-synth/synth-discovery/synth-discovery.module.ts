@@ -19,20 +19,7 @@ export const synthDiscovery = {
     },
     {
       invariantKind: "departure",
-      statement: "The code file of the manifest a cluster service is applied as is a synth file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Which pages are cluster services is read from the index rather than from a glob.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A cluster service naming no manifest adds no synth file.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A manifest slug naming no manifest page is left out rather than refusing the answer.",
+      statement: "The code file of every `manifest` page the index holds is a synth file.",
     },
   ],
 } as const satisfies Module

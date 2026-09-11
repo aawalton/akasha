@@ -6,13 +6,7 @@ export const DISCOVERY_GLOBS: readonly string[] = [
   "infrastructure/inference/generations/upscale/*-synth/*-synth.module.code.ts",
 ]
 
-const CLUSTER_SERVICE = "cluster-service"
-
 const MANIFEST = "manifest"
-
-const MANIFEST_KEY = "manifest"
-
-const SLUG = "slug"
 
 const PAGE_ENDING = ".ts"
 
@@ -45,32 +39,17 @@ export function pathHasComponent(relPath: string, target: string): boolean {
   return false
 }
 
-function textIn(value: unknown, key: string): string | null {
-  if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const held = (value as Record<string, unknown>)[key]
-  return typeof held === "string" ? held : null
-}
-
 function codeBeside(repoRoot: string, pagePath: string): string | null {
   if (!pagePath.endsWith(PAGE_ENDING)) return null
   const beside = `${pagePath.slice(0, -PAGE_ENDING.length)}${CODE_ENDING}`
   return isAbsolute(beside) ? relative(repoRoot, beside) : beside
 }
 
-export function appliedManifestPaths(repoRoot: string): readonly string[] {
-  const codeOfSlug = new Map<string, string>()
-  for (const one of valuesOfType(repoRoot, MANIFEST)) {
-    const slug = textIn(one.value, SLUG)
-    if (slug === null || codeOfSlug.has(slug)) continue
-    const at = codeBeside(repoRoot, one.path)
-    if (at !== null) codeOfSlug.set(slug, at)
-  }
+export function manifestCodePaths(repoRoot: string): readonly string[] {
   const found: string[] = []
-  for (const one of valuesOfType(repoRoot, CLUSTER_SERVICE)) {
-    const named = textIn(one.value, MANIFEST_KEY)
-    if (named === null) continue
-    const at = codeOfSlug.get(named)
-    if (at !== undefined) found.push(at)
+  for (const one of valuesOfType(repoRoot, MANIFEST)) {
+    const at = codeBeside(repoRoot, one.path)
+    if (at !== null) found.push(at)
   }
   return found
 }
@@ -89,6 +68,6 @@ export function discoverSynthFiles(
     const glob = new Bun.Glob(pattern)
     for (const rel of glob.scanSync({ cwd: repoRoot, onlyFiles: true })) taking(rel)
   }
-  for (const rel of appliedManifestPaths(repoRoot)) taking(rel)
+  for (const rel of manifestCodePaths(repoRoot)) taking(rel)
   return [...matches].sort()
 }
