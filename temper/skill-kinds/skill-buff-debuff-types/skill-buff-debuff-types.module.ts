@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const skillBuffDebuffTypes = {
   id: "01a060db-b2bc-77b3-a76e-2df74a3b29b8",

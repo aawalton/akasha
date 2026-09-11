@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const scribingFocusScripts = {
   id: "01a060db-b2bb-7166-ba4a-b183afce5394",

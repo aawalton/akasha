@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const statusEffectTypes = {
   id: "01a060db-b2be-7c53-bc5c-ef2d9e30a4ae",
