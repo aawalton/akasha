@@ -202,18 +202,17 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
   const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
   const dry = rest.includes(DRY_RUN)
-  const noting = async () =>
-    dry ? [] : await recordedRefusal(given.root, slug, read.pagePath, commit)
+  const noting = () => (dry ? [] : recordedRefusal(given.root, slug, read.pagePath, commit))
   if (unjudged.length > 0) {
-    return answering([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
+    return answering([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
   const answer = await putUp(read, slug, commit, rest, given)
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== 0 || answer.refusals.length > 0) {
-    return answering(lines, [...answer.refusals, ...(await noting())], answer.code)
+    return answering(lines, [...answer.refusals, ...noting()], answer.code)
   }
   if (dry) return answering(lines, answer.refusals, answer.code)
-  const wrong = await recordedCommit(given.root, slug, read.pagePath, commit)
+  const wrong = recordedCommit(given.root, slug, read.pagePath, commit)
   if (wrong.length > 0) return answering(lines, wrong, OPERATIONAL)
   return answering([...lines, `recorded\t${slug}\t${commit}`], [], 0)
 }
