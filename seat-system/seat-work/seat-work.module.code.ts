@@ -1,11 +1,11 @@
-import { initiativeOf } from "../seat-initiative/seat-initiative.module.code.ts"
-import { seatPageAgents } from "../seat-presence-read/seat-presence-read.module.code.ts"
-import { colorOfState } from "../seat-turn-color/seat-turn-color.module.code.ts"
+import { initiativeOf } from "akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
+import { seatPageAgents } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnState,
   seatTurnStateOf,
-} from "../seat-turn-state/seat-turn-state.module.code.ts"
+} from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 
 export interface SeatHolding {
   readonly initiative: string | null

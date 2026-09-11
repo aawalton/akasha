@@ -1,11 +1,14 @@
-import type { Args } from "../seat-args/seat-args.module.code.ts"
-import { modeRefusal, principalRefusal } from "../seat-args/seat-args.module.code.ts"
+import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
+import {
+  modeRefusal,
+  principalRefusal,
+} from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import {
   ATTRIBUTES,
   type Declaration,
   type Mode,
-} from "../seat-attributes/seat-attributes.module.code.ts"
-import { run } from "../seat-running/seat-running.module.code.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { run } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
 
 export interface SeatStatement {
   readonly agentId: string

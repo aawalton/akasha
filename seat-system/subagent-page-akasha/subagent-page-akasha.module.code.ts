@@ -9,7 +9,7 @@ import {
   pathsUnder,
   SUBAGENTS_AT,
   tookUnder,
-} from "../subagents/presence/subagent-presence.module.code.ts"
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 
 export function akashaSubagentsDirIn(root: string): string {
   return `${root}/${SUBAGENTS_AT}`

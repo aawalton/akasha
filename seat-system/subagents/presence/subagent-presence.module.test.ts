@@ -3,6 +3,14 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
+  blobIdOf,
+  readingIn,
+  recordRead,
+} from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import {
   listedFiled,
   pageFiled,
   valueAlsoFiled,
@@ -11,14 +19,6 @@ import {
   keepUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import {
-  blobIdOf,
-  readingIn,
-  recordRead,
-} from "../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 import {
   agentIdOf,
   asking,
@@ -40,7 +40,7 @@ import {
   WAIT_MS,
   WRITING,
   wrote,
-} from "./subagent-presence.module.code.ts"
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import {
   AGENT,
   ANOTHER,
@@ -71,7 +71,7 @@ import {
   underSeat,
   WENT,
   whyIn,
-} from "./subagent-presence.module.test-fixtures.ts"
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
 
 const LANDS: Landing = landingNaming([])
 

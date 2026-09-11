@@ -1,12 +1,6 @@
 import { expect, test } from "bun:test"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import {
-  agentIdOf,
-  bodyOf,
-  pathOf,
-  slugOf,
-} from "../subagents/presence/subagent-presence.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   committed,
   filedNow,
@@ -18,7 +12,13 @@ import {
   seated,
   seeing,
   tookAway,
-} from "./subagent-page.module.test-fixtures.ts"
+} from "akasha/seat-system/subagent-page/subagent-page.module.test-fixtures.ts"
+import {
+  agentIdOf,
+  bodyOf,
+  pathOf,
+  slugOf,
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 
 function heldInHistory(root: string, kind: string): undefined {
   const slug = slugOf("akasha", OWN)

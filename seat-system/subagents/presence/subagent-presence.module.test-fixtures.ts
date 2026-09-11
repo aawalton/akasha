@@ -1,19 +1,22 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   listedFiled,
   rebuiltIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  bodyOf,
+  type Landing,
+  pathOf,
+  slugOf,
+  type Went,
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
-import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
-import {
-  keptAt,
-  scratchWorld,
-} from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { bodyOf, type Landing, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }
 

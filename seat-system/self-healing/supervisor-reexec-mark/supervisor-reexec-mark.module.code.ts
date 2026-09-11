@@ -1,4 +1,7 @@
-import { keepSeatRecord, seatRecordOf } from "../../seat-record/seat-record.module.code.ts"
+import {
+  keepSeatRecord,
+  seatRecordOf,
+} from "akasha/seat-system/seat-record/seat-record.module.code.ts"
 
 const KEY = "reexec-asked"
 

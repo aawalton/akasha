@@ -4,6 +4,8 @@ import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping
 import { handedOver } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { dropReadings, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
@@ -16,18 +18,13 @@ import {
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
+import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
+import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
-import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
-import {
-  dropReadings,
-  SUBAGENT_MARK,
-} from "../../../commands/modules/reading/reading.module.code.ts"
-import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
-import { movedOnto } from "../../subagent-recovering/subagent-recovering.module.code.ts"
-import { subagentReturned } from "../properties/subagent-returned.boolean-property.ts"
-import { subagentStarted } from "../properties/subagent-started.number-property.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
 

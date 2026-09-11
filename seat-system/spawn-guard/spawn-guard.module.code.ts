@@ -1,4 +1,4 @@
-import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
+import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 
 export const DECLARING_MODULE = "spawn-guard"
 

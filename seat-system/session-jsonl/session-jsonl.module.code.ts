@@ -1,11 +1,11 @@
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import type { AssistantMessage } from "../session-jsonl-schema/session-jsonl-schema.module.code.ts"
+import type { AssistantMessage } from "akasha/seat-system/session-jsonl-schema/session-jsonl-schema.module.code.ts"
 import {
   MODELED_CONTENT_BLOCK_TYPES,
   MODELED_TYPES,
   RawSessionLine,
   SessionMessage,
-} from "../session-jsonl-schema/session-jsonl-schema.module.code.ts"
+} from "akasha/seat-system/session-jsonl-schema/session-jsonl-schema.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const ResultSubtypePresence = shape.looseObject({ subtype: shape.string() })
 

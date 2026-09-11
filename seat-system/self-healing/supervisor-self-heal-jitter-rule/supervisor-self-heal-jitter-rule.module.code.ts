@@ -1,9 +1,9 @@
-import type { AskDecide } from "akasha/seat-system/supervising/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {
   askRule,
   type RuleAnswer,
-} from "../../supervising/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
+import type { AskDecide } from "akasha/seat-system/supervising/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const RULE = "selfHealJitterRule"
 

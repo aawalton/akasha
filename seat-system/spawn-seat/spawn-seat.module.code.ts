@@ -9,25 +9,31 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { enforceSpawnAdmission } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
-import { FLEET, personaDefaultsOf } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  FLEET,
+  personaDefaultsOf,
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type LaunchSeatResult,
   launchSeatUnderTmux,
-} from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { principalIsPerson, refuseAnswering } from "../seat-answering/seat-answering.module.code.ts"
-import { seatByName } from "../seat-by-name/seat-by-name.module.code.ts"
-import { isValidSeatName } from "../seat-handle/seat-handle.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "../seat-modes/seat-modes.module.code.ts"
-import { mintNamedAgent } from "../seat-name-bind/seat-name-bind.module.code.ts"
-import { refuseHeldName } from "../seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
-import { refuseParentless } from "../seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
-import { composedNameOf } from "../seat-rename/seat-rename.module.code.ts"
+} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import {
+  principalIsPerson,
+  refuseAnswering,
+} from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
+import { seatByName } from "akasha/seat-system/seat-by-name/seat-by-name.module.code.ts"
+import { isValidSeatName } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
+import { refuseHeldName } from "akasha/seat-system/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
 import {
   decideSkillTokenGuard,
   DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
-} from "../skill-token-guard/skill-token-guard.module.code.ts"
-import { stateSpawnedSeat } from "../state-spawned-seat/state-spawned-seat.module.code.ts"
+} from "akasha/seat-system/skill-token-guard/skill-token-guard.module.code.ts"
+import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
+import { enforceSpawnAdmission } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string

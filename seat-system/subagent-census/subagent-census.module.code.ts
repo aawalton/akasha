@@ -1,16 +1,16 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
-import { SUBAGENT_MARK } from "../../commands/modules/reading/reading.module.code.ts"
 import {
   actingAgentPidsFromProc,
   type ProcLivenessEntry,
-} from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
-import { LOG_AT } from "../subagents/presence/subagent-presence.module.code.ts"
+} from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import { LOG_AT } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
+import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 
 const SEAT = "principalSeatName"
 

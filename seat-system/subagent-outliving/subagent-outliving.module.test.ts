@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { outlived, outlivedAmong, subagentsDirOf } from "./subagent-outliving.module.code.ts"
+import {
+  outlived,
+  outlivedAmong,
+  subagentsDirOf,
+} from "akasha/seat-system/subagent-outliving/subagent-outliving.module.code.ts"
 
 test("a last record written before the client started is outlived by that client", () => {
   expect(outlived(200, 100)).toBe(true)

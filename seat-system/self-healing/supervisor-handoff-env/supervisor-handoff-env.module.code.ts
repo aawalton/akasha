@@ -1,4 +1,7 @@
-import { asPid, type Pid } from "../../supervising/supervisor-exec/supervisor-exec.module.code.ts"
+import {
+  asPid,
+  type Pid,
+} from "akasha/seat-system/supervising/supervisor-exec/supervisor-exec.module.code.ts"
 
 export type SupervisorHandoff = {
   claude: {

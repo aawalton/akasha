@@ -1,20 +1,23 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import {
   attributesOf,
   bareSlug,
   recordedModeOf,
-} from "../seat-attributes/seat-attributes.module.code.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,
-} from "../seat-page-history/seat-page-history.module.code.ts"
-import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
+} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import {
   seatIdForName,
   seatNameForAgent,
-} from "../seat-presence-read/seat-presence-read.module.code.ts"
-import { principalOf, principalSeatIdOf } from "../seat-principal/seat-principal.module.code.ts"
+} from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  principalOf,
+  principalSeatIdOf,
+} from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export interface SeatWhoami {
   readonly id: string

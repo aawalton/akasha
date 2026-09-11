@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   CEILING_MS,
   DEBOUNCE_MS,
@@ -13,7 +13,7 @@ import {
   repoRootOf,
   type VersionWatch,
   workspaceNaming,
-} from "./supervisor-file-version.module.code.ts"
+} from "akasha/seat-system/self-healing/supervisor-file-version/supervisor-file-version.module.code.ts"
 
 const scratch = scratchWorld()
 

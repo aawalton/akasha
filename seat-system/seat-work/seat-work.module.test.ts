@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { foldSeatWork, louder, type SeatHolding } from "./seat-work.module.code.ts"
+import {
+  foldSeatWork,
+  louder,
+  type SeatHolding,
+} from "akasha/seat-system/seat-work/seat-work.module.code.ts"
 
 const WORK = "a-thing-to-do"
 

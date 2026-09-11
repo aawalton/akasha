@@ -1,4 +1,8 @@
-import { keepSeatUsage, type UsageReading, usageIn } from "../seat-usage/seat-usage.module.code.ts"
+import {
+  keepSeatUsage,
+  type UsageReading,
+  usageIn,
+} from "akasha/seat-system/seat-usage/seat-usage.module.code.ts"
 
 function parseUsageReading(held: unknown): UsageReading {
   return usageIn(held)

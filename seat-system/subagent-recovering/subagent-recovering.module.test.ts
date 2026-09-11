@@ -17,7 +17,7 @@ import {
   refusalsSaid,
   seatEditsAt,
   seatRefusalsAt,
-} from "./subagent-recovering.module.code.ts"
+} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 
 afterAll(scratch.sweep)
 
