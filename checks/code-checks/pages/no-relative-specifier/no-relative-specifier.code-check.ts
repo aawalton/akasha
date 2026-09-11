@@ -7,8 +7,8 @@ export const noRelativeSpecifier = {
   slug: "no-relative-specifier",
   definition: "the check refusing a specifier naming a file by a relative path",
   runsOnChange: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
   runsOnAudit: true,
   invariants: [
     {
