@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const requireNumericKey = {
   id: "01a060b6-99a2-762f-9fd9-585495c025f4",
