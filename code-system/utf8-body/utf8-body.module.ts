@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const utf8Body = {
   id: "01a06553-a9b5-76cc-b4e6-e4e42b4a0f0d",
