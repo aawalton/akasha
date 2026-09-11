@@ -16,6 +16,7 @@ import {
   askingFor,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { messageNamed } from "akasha/seat-system/messaging/message-naming/message-naming.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 
@@ -37,8 +38,6 @@ const RECEIVED = "message.received"
 
 const BODY_HOLDS = 20000
 
-const NAMED_HOLDS = 12
-
 const CARRIER_ANSWERS: readonly string[] = ["help", "info", "start"]
 
 const RELATIONSHIP_KEYS: readonly string[] = [
@@ -54,10 +53,6 @@ const DISCARD_OPENS_WITH =
   "A text reached the toll-free number from a number nobody enrolled, and nothing was delivered."
 
 type Row = Readonly<Record<string, unknown>>
-
-export function messageNamed(id: string): string {
-  return `${MESSAGE_PAGE_TYPE_SLUG}-${id.replace(/-/g, "").slice(-NAMED_HOLDS)}`
-}
 
 function saidIn(held: unknown): string | undefined {
   return typeof held === "string" && held !== "" ? held : undefined

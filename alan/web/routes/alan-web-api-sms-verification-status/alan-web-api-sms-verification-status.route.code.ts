@@ -1,5 +1,6 @@
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.code.ts"
 import { writingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { messageNamed } from "akasha/seat-system/messaging/message-naming/message-naming.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 
@@ -15,14 +16,8 @@ const SAID_FROM = "telnyx-verification"
 
 const BODY_HOLDS = 20000
 
-const NAMED_HOLDS = 12
-
 const OPENS_WITH =
   "Telnyx posted a toll-free verification status. The payload it sent follows whole."
-
-export function messageNamed(id: string): string {
-  return `${MESSAGE_PAGE_TYPE_SLUG}-${id.replace(/-/g, "").slice(-NAMED_HOLDS)}`
-}
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {

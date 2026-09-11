@@ -13,6 +13,7 @@ import {
   landRemovals,
 } from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
 import { whyRefused } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
+import { messageNamed } from "akasha/seat-system/messaging/message-naming/message-naming.module.code.ts"
 import { akashaSeatIdForName } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
@@ -63,12 +64,8 @@ export function messageDirRelPath(_to: string): string {
   return PAGES_AT
 }
 
-export function slugForId(id: string): string {
-  return `${PAGE_TYPE}-${id.slice(-12)}`
-}
-
 export function messageRelPath(_to: string, id: string): string {
-  const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : slugForId(id)
+  const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : messageNamed(id)
   return `${PAGES_AT}/${stem}${PAGE_EXT}`
 }
 
@@ -98,7 +95,7 @@ export async function writeMessage(stated: {
   const unknown = unknownRecipient(stated.to)
   if (unknown !== null) return { kind: "refused", detail: unknown }
   const id = Bun.randomUUIDv7()
-  const slug = slugForId(id)
+  const slug = messageNamed(id)
   const root = akashaRoot()
   const body = stated.body.endsWith("\n") ? stated.body : `${stated.body}\n`
   const composed = composedFor(root, {

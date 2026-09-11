@@ -14,10 +14,6 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A message page is named for the last twelve hex of the message's id.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A message page's name opens with no digit.",
     },
     {
