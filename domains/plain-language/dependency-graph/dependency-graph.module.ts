@@ -7,7 +7,12 @@ export const dependencyGraph = {
   slug: "dependency-graph",
   definition: "the tree a sentence's words make",
   code: "ts",
+  testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A sentence built from rows for a test is built here rather than by each test.",
+    },
     {
       invariantKind: "departure",
       statement: "A token is numbered by its place in its sentence.",

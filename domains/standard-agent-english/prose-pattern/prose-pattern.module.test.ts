@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { sentenceOf } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
 import { foundIn } from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.code.ts"
 import {
   A_BODY_IS_HOLDING_A_CONFLICT,
@@ -41,7 +42,6 @@ import {
   PROSE_HELD_IN_FILE,
   ROW_HELD_DROPS_THE_ID,
   RULE_HOLDS_REFUSES,
-  sentenceOf,
   THE_ASK_HOLDS_ITSELF,
   THE_BOOK_HOLDS_THROUGH_A_STRING,
   THE_CALLER_HOLDS_TO_A_CEILING,

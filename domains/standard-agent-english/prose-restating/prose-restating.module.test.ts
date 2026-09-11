@@ -1,23 +1,11 @@
 import { expect, test } from "bun:test"
 import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import { sentenceOf } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
 import {
   type Passage,
   restatedIn,
 } from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
 import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
-
-type Row = readonly [string, string, number, string]
-
-function sentenceOf(rows: readonly Row[]): DepSentence {
-  let at = 0
-  const tokens = rows.map(([form, upos, head, deprel], index) => {
-    const start = at
-    at += form.length + 1
-    return { id: index + 1, form, upos, head, deprel, start, end: start + form.length }
-  })
-  return makeSentence({ text: rows.map((row) => row[0]).join(" "), start: 0, end: at, tokens })
-}
 
 const HELD = sentenceOf([
   ["A", "DET", 2, "det"],
