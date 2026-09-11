@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Every refusal outside no-rule-in-two-files is cleared, the pages/value barrel gone at 8d8b1387a80. tests-pass judged 124539 files and refused none. no-rule-in-two-files is at 429, from 559 an hour before. Only the check's own count counts: my scan of every tracked file read 455 and was no upper bound on it. A count taken inside one domain is blind to its own outward pairs, 41 of temper's 161 pairing outside temper.",
+        "Every refusal outside no-rule-in-two-files is cleared. tests-pass judged 124539 files and refused none. no-rule-in-two-files reads 426 in 177 families, grouped by body: ruleOf canonicalises every bound name, so a family is never a coincidence of naming, and it omits the return type, which is the one way a family is two rules. 284 of the 426 are lone pairs, so sharing cannot reach zero and most want an absence. 111 are test scaffolding.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
