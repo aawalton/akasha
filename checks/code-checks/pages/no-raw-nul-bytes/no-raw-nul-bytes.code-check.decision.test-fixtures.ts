@@ -66,7 +66,6 @@ function alsoSeeded(root: string): undefined {
   })
   for (const value of CARRIED) {
     const slug = String(value["slug"])
-    const id = filing(FILE_PROPERTY, slug, `akasha/${slug}.${FILE_PROPERTY}.ts`, value)
     shapeAdded(root, FILE_PROPERTY, slug, [
       {
         pageTypeSlug: FILE_PROPERTY,
@@ -76,6 +75,7 @@ function alsoSeeded(root: string): undefined {
         propertySlug: slug,
       },
     ])
+    const id = filing(FILE_PROPERTY, slug, `akasha/${slug}.${FILE_PROPERTY}.ts`, value)
     relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   }
 }
