@@ -2,13 +2,13 @@
 
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { useEffect, useRef } from "react"
-import { toast } from "sonner"
 import {
   buildVersionedReloadUrl,
   liveVersionIn,
   shouldPromptVersionUpdate,
-} from "../app-version-check/app-version-check.module.code.ts"
+} from "akasha/pages/ui/app-version/app-version-check/app-version-check.module.code.ts"
+import { useEffect, useRef } from "react"
+import { toast } from "sonner"
 
 export const LIVE_VERSION_PATH = "/api/live-version"
 

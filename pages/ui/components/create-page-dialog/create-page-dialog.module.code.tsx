@@ -13,9 +13,9 @@ import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.mod
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
+import { QuickAddForm } from "akasha/pages/ui/components/quick-add-form/quick-add-form.module.code.tsx"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useState } from "react"
-import { QuickAddForm } from "../quick-add-form/quick-add-form.module.code.tsx"
 
 const FORM_ID = "quick-add-form"
 

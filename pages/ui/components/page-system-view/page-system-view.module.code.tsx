@@ -9,17 +9,17 @@ import {
   isCardEligibleProperty,
 } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
 import type { PageSystemTabContentProps } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import { PageSystemViewBody } from "akasha/pages/ui/components/page-system-view-body/page-system-view-body.module.code.tsx"
+import { PageSystemViewHeader } from "akasha/pages/ui/components/page-system-view-header/page-system-view-header.module.code.tsx"
 import { sortServerGrouped } from "akasha/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import { useBoardViewWiring } from "akasha/pages/ui/components/use-board-view-wiring/use-board-view-wiring.module.code.ts"
+import { useCalendarViewWiring } from "akasha/pages/ui/components/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
+import { useTimelineConfig } from "akasha/pages/ui/components/use-timeline-config/use-timeline-config.module.code.ts"
+import { useViewLocalConfig } from "akasha/pages/ui/components/use-view-local-config/use-view-local-config.module.code.ts"
 import { usePageView } from "akasha/pages/ui/components/view-engine/use-page-view/use-page-view.module.code.ts"
 import { usePageResolverOptional } from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useEffect, useMemo, useState } from "react"
-import { PageSystemViewBody } from "../page-system-view-body/page-system-view-body.module.code.tsx"
-import { PageSystemViewHeader } from "../page-system-view-header/page-system-view-header.module.code.tsx"
-import { useBoardViewWiring } from "../use-board-view-wiring/use-board-view-wiring.module.code.ts"
-import { useCalendarViewWiring } from "../use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
-import { useTimelineConfig } from "../use-timeline-config/use-timeline-config.module.code.ts"
-import { useViewLocalConfig } from "../use-view-local-config/use-view-local-config.module.code.ts"
 
 export function PageSystemTabContent({
   items,

@@ -5,6 +5,9 @@ import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/interfaces/patterns/collapsible-group-section/collapsible-group-section.module.code.tsx"
 import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
+import { PageBoard } from "akasha/pages/ui/components/page-board/page-board.module.code.tsx"
+import { PageCalendar } from "akasha/pages/ui/components/page-calendar/page-calendar.module.code.tsx"
+import { PageListSection } from "akasha/pages/ui/components/page-list-section/page-list-section.module.code.tsx"
 import type {
   PageSystemTabContentProps,
   ServerGroupedSection,
@@ -14,13 +17,10 @@ import {
   TimelineLayoutBody,
 } from "akasha/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import type { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import type { useBoardViewWiring } from "akasha/pages/ui/components/use-board-view-wiring/use-board-view-wiring.module.code.ts"
+import type { useCalendarViewWiring } from "akasha/pages/ui/components/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
-import { PageBoard } from "../page-board/page-board.module.code.tsx"
-import { PageCalendar } from "../page-calendar/page-calendar.module.code.tsx"
-import { PageListSection } from "../page-list-section/page-list-section.module.code.tsx"
-import type { useBoardViewWiring } from "../use-board-view-wiring/use-board-view-wiring.module.code.ts"
-import type { useCalendarViewWiring } from "../use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"
 
 export interface PageSystemViewBodyProps
   extends Pick<

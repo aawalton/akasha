@@ -22,13 +22,13 @@ import { readsAsDone } from "akasha/pages/core/task-lifecycle/task-lifecycle.mod
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { PageActionsMenu } from "akasha/pages/ui/components/page-actions-menu/page-actions-menu.module.code.tsx"
+import { PageCardCover } from "akasha/pages/ui/components/page-card-cover/page-card-cover.module.code.tsx"
+import { PageCardProperties } from "akasha/pages/ui/components/page-card-properties/page-card-properties.module.code.tsx"
+import { useOverflowFade } from "akasha/pages/ui/components/use-overflow-fade/use-overflow-fade.module.code.ts"
 import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"
 import { type ReactNode, useMemo } from "react"
-import { PageCardCover } from "../page-card-cover/page-card-cover.module.code.tsx"
-import { PageCardProperties } from "../page-card-properties/page-card-properties.module.code.tsx"
-import { useOverflowFade } from "../use-overflow-fade/use-overflow-fade.module.code.ts"
 
 interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"> {
   id: string

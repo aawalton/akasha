@@ -18,6 +18,7 @@ import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/
 import { DegradingImage } from "akasha/pages/ui/components/degrading-image/degrading-image.module.code.tsx"
 import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
+import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
@@ -27,7 +28,6 @@ import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { PagesFilteredContent } from "../pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 
 const PAGE_TYPE_SLUG = "page-type"
 

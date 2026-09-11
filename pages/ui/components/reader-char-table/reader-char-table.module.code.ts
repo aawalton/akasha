@@ -1,4 +1,4 @@
-import { clampFraction } from "../position-fraction/position-fraction.module.code.ts"
+import { clampFraction } from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
 
 export interface ProseCharTable {
   readonly charStarts: readonly number[]

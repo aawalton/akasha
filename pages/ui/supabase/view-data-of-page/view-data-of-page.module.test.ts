@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { isFileSpelledView, viewDataOfPage } from "./view-data-of-page.module.code.ts"
+import {
+  isFileSpelledView,
+  viewDataOfPage,
+} from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
 
 const TASKS_TODAY = {
   title: "Today",

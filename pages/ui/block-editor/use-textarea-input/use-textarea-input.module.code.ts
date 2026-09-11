@@ -6,9 +6,9 @@ import {
   matchDocumentExtreme,
 } from "akasha/pages/core/property-types/block-shortcuts/block-shortcuts.module.code.ts"
 import { detectMarkdownShorthand } from "akasha/pages/core/property-types/markdown-shorthand/markdown-shorthand.module.code.ts"
+import type { BlockRowProps } from "akasha/pages/ui/block-editor/block-row/block-row.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { type Ref, useCallback, useRef } from "react"
-import type { BlockRowProps } from "../block-row/block-row.module.code.tsx"
 
 export interface TextareaInputApi {
   readonly ref: Ref<HTMLTextAreaElement>

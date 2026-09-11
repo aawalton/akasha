@@ -8,8 +8,17 @@ import {
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { PageCardRenderer } from "akasha/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import { PageSystemTabContent } from "akasha/pages/ui/components/page-system-view/page-system-view.module.code.tsx"
+import { PageTableRowCells } from "akasha/pages/ui/components/page-table/page-table.module.code.tsx"
+import { useGalleryViewProps } from "akasha/pages/ui/components/use-gallery-view-props/use-gallery-view-props.module.code.ts"
+import { useNotesViewProps } from "akasha/pages/ui/components/use-notes-view-props/use-notes-view-props.module.code.ts"
+import { usePropertyChangePerfHandler } from "akasha/pages/ui/components/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"
 import { useReorderViewWiring } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import { useViewConfigHandlers } from "akasha/pages/ui/components/use-view-config-handlers/use-view-config-handlers.module.code.ts"
+import { useViewRowHandlers } from "akasha/pages/ui/components/use-view-row-handlers/use-view-row-handlers.module.code.ts"
+import { useViewTabContentData } from "akasha/pages/ui/components/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { PageTypeOption } from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
 import {
@@ -23,15 +32,6 @@ import { useCompletePageOptimistic } from "akasha/pages/ui/supabase/use-complete
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { PageCardRenderer } from "../page-card-renderer/page-card-renderer.module.code.tsx"
-import { PageSystemTabContent } from "../page-system-view/page-system-view.module.code.tsx"
-import { PageTableRowCells } from "../page-table/page-table.module.code.tsx"
-import { useGalleryViewProps } from "../use-gallery-view-props/use-gallery-view-props.module.code.ts"
-import { useNotesViewProps } from "../use-notes-view-props/use-notes-view-props.module.code.ts"
-import { usePropertyChangePerfHandler } from "../use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"
-import { useViewConfigHandlers } from "../use-view-config-handlers/use-view-config-handlers.module.code.ts"
-import { useViewRowHandlers } from "../use-view-row-handlers/use-view-row-handlers.module.code.ts"
-import { useViewTabContentData } from "../use-view-tab-content-data/use-view-tab-content-data.module.code.ts"
 
 export function ViewTabContent({
   parentPageTypeId,

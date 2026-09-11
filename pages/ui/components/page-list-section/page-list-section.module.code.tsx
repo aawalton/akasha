@@ -7,15 +7,15 @@ import {
   type GalleryCardSize,
 } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { buildTableColumns } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import { PageCardGrid } from "akasha/pages/ui/components/page-card-grid/page-card-grid.module.code.tsx"
+import { PageGallery } from "akasha/pages/ui/components/page-gallery/page-gallery.module.code.tsx"
+import { PageTable } from "akasha/pages/ui/components/page-table/page-table.module.code.tsx"
 import type { PageTableColumn } from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
 import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import { SortableCardCollection } from "akasha/pages/ui/components/sortable-card-collection/sortable-card-collection.module.code.tsx"
 import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
-import { PageCardGrid } from "../page-card-grid/page-card-grid.module.code.tsx"
-import { PageGallery } from "../page-gallery/page-gallery.module.code.tsx"
-import { PageTable } from "../page-table/page-table.module.code.tsx"
-import { SortableCardCollection } from "../sortable-card-collection/sortable-card-collection.module.code.tsx"
 
 interface PageListSectionProps {
   layout?: ViewLayout

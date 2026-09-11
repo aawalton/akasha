@@ -8,6 +8,10 @@ import {
   toPageDataRecord,
 } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import { ToggleSection } from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
+import {
+  PageTable,
+  PageTableRowCells,
+} from "akasha/pages/ui/components/page-table/page-table.module.code.tsx"
 import { TITLE_COLUMN_ID } from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
 import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
@@ -23,7 +27,6 @@ import {
   toPageTypeSlug,
 } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
-import { PageTable, PageTableRowCells } from "../page-table/page-table.module.code.tsx"
 
 const SUBPAGE_VISIBLE_PROPERTIES: readonly string[] = [TITLE_COLUMN_ID]
 

@@ -11,6 +11,7 @@ import {
   normalizeRichDocument,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 import { BlockAccessoryBar } from "akasha/pages/ui/block-editor/block-accessory-bar/block-accessory-bar.module.code.tsx"
+import { BlockRow } from "akasha/pages/ui/block-editor/block-row/block-row.module.code.tsx"
 import { BlockTree } from "akasha/pages/ui/block-editor/block-tree/block-tree.module.code.tsx"
 import { collectToggleIds } from "akasha/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.code.ts"
 import { SlashMenu } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
@@ -23,7 +24,6 @@ import { useBlockSelection } from "akasha/pages/ui/block-editor/use-block-select
 import { useCoarsePointer } from "akasha/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useKeyboardInset } from "akasha/pages/ui/block-editor/use-keyboard-inset/use-keyboard-inset.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import { BlockRow } from "../block-row/block-row.module.code.tsx"
 
 interface BlockEditorProps {
   pageTypeSlug: string

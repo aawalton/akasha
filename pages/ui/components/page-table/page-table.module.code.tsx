@@ -24,6 +24,7 @@ import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/
 import { orderTableColumns } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
 import { PageActionsMenu } from "akasha/pages/ui/components/page-actions-menu/page-actions-menu.module.code.tsx"
 import { PageTableColGroup } from "akasha/pages/ui/components/page-table-colgroup/page-table-colgroup.module.code.tsx"
+import { ReorderableColumnTable } from "akasha/pages/ui/components/page-table-header/page-table-header.module.code.tsx"
 import {
   ACTIONS_COLUMN_PX,
   type PageTableColumn,
@@ -33,7 +34,6 @@ import { PropertyBadge } from "akasha/pages/ui/components/property-badge/propert
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
-import { ReorderableColumnTable } from "../page-table-header/page-table-header.module.code.tsx"
 
 interface PageTableProps {
   items: readonly PageRow[]

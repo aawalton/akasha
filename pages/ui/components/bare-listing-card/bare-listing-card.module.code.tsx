@@ -3,12 +3,12 @@
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { PageCard } from "akasha/pages/ui/components/page-card/page-card.module.code.tsx"
+import { PageCardNotes } from "akasha/pages/ui/components/page-card-notes/page-card-notes.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactElement } from "react"
-import { PageCard } from "../page-card/page-card.module.code.tsx"
-import { PageCardNotes } from "../page-card-notes/page-card-notes.module.code.tsx"
 
 export interface BareListingCardContext {
   readonly properties: readonly PropertyDefinition[]

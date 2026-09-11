@@ -15,12 +15,17 @@ import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-p
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/pages/ui/block-editor/block-editor/block-editor.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
+import { PageCover } from "akasha/pages/ui/components/page-cover/page-cover.module.code.tsx"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
+import { PageDetailProperties } from "akasha/pages/ui/components/page-detail-properties/page-detail-properties.module.code.tsx"
+import { PageDetailReferrers } from "akasha/pages/ui/components/page-detail-referrers/page-detail-referrers.module.code.tsx"
 import {
   hasValue,
   JsonSectionRenderer,
   ToggleSection,
 } from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
+import { PageDetailSubpages } from "akasha/pages/ui/components/page-detail-subpages/page-detail-subpages.module.code.tsx"
+import { usePageDefaultContent } from "akasha/pages/ui/components/use-page-default-content/use-page-default-content.module.code.ts"
 import { MarkdownRenderer } from "akasha/pages/ui/markdown/markdown-renderer/markdown-renderer.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import {
@@ -28,11 +33,6 @@ import {
   toPageTypeSlug,
 } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { PageCover } from "../page-cover/page-cover.module.code.tsx"
-import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
-import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"
-import { PageDetailSubpages } from "../page-detail-subpages/page-detail-subpages.module.code.tsx"
-import { usePageDefaultContent } from "../use-page-default-content/use-page-default-content.module.code.ts"
 
 export function PageDefaultContent({
   pageTypeSlug,

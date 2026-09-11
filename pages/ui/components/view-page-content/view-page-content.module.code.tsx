@@ -9,8 +9,12 @@ import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.c
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
+import { EditableTitle } from "akasha/pages/ui/components/editable-title/editable-title.module.code.tsx"
 import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import { PageSystemShell } from "akasha/pages/ui/components/page-system-shell/page-system-shell.module.code.tsx"
+import { PageTitleProperties } from "akasha/pages/ui/components/page-title-properties/page-title-properties.module.code.tsx"
 import type { PageTypeOption } from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
+import { ViewTabContent } from "akasha/pages/ui/components/view-tab-content/view-tab-content.module.code.tsx"
 import type { ViewTabItem } from "akasha/pages/ui/components/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import {
@@ -28,10 +32,6 @@ import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { ArrowLeft } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
-import { EditableTitle } from "../editable-title/editable-title.module.code.tsx"
-import { PageSystemShell } from "../page-system-shell/page-system-shell.module.code.tsx"
-import { PageTitleProperties } from "../page-title-properties/page-title-properties.module.code.tsx"
-import { ViewTabContent } from "../view-tab-content/view-tab-content.module.code.tsx"
 
 const SYSTEM_PAGE_TYPE_NAMES = new Set(["View", "Page Type", "Nav"])
 
