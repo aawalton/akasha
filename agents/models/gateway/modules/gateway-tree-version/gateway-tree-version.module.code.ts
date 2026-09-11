@@ -1,9 +1,18 @@
 import { createHash } from "node:crypto"
 import { readFileSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { canonicalize } from "akasha/pages/repo-path/repo-path.module.code.ts"
 
-const ENTRYPOINT_REL = "../proxy-entry/proxy-entry.module.code.ts"
+const MODULE = "module"
+
+const ENTRYPOINT = "proxy-entry"
+
+const CODE = "code"
+
+const TS = "ts"
 
 const SPECIFIER = /^[^\S\n]*(?:import|export)\b[^;'"`]*?["']([^"']+)["']/gm
 
@@ -16,7 +25,13 @@ function instructionsRoot(): string {
 }
 
 export function modelGatewayEntrypoint(): string {
-  return join(libDir(), ENTRYPOINT_REL)
+  const root = ownRepoRoot()
+  const page = listedAt(root, MODULE, ENTRYPOINT)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${ENTRYPOINT}\`, so the gateway has no entry`)
+  }
+  return join(root, at)
 }
 
 function isRelative(specifier: string): boolean {
