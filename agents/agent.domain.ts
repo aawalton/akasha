@@ -15,5 +15,6 @@ export const agent = {
     "module/io-probe",
     "module/last-said",
     "module/tool-access",
+    "module/launch-flags",
   ],
 } as const satisfies Domain

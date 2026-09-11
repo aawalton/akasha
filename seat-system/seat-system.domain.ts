@@ -161,7 +161,6 @@ export const seatSystem = {
     "module/seat-usage",
     "page-type/subagent-kind",
     "module/tick-deadline",
-    "module/launch-flags",
     "module/run-supervisor",
     "module/argument-narrowing",
     "module/command-failing",

@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
-import { alwaysAllowedTools } from "akasha/agents/tool-access/tool-access.module.code.ts"
 import {
   flagsAlwaysPassed,
   flagsPassedWithMcpConfig,
-} from "akasha/seat-system/launch-flags/launch-flags.module.code.ts"
+} from "akasha/agents/launch-flags/launch-flags.module.code.ts"
+import { alwaysAllowedTools } from "akasha/agents/tool-access/tool-access.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
 
 export type McpServerConfig =
