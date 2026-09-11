@@ -1,6 +1,6 @@
+import { output } from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
 import * as vscode from "vscode"
 import { z } from "zod"
-import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
 
 const OPEN_COMMAND = "vscode.open"
 
