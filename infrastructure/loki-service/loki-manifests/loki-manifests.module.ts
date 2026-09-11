@@ -8,4 +8,10 @@ export const lokiManifests = {
   definition: "the namespace, configuration, deployment and service manifests Loki runs as",
   code: "ts",
   allowsTmpPaths: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the loki-s3-creds secret.",
+    },
+  ],
 } as const satisfies Module
