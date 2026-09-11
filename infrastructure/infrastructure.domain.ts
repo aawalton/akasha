@@ -29,6 +29,7 @@ export const infrastructure = {
     "domain/seaweedfs",
     "domain/memory",
     "domain/inference",
+    "domain/cpu",
   ],
   invariants: [
     {
