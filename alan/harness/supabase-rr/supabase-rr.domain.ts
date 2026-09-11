@@ -20,6 +20,7 @@ export const supabaseRr = {
     "module/request-session-cache",
     "module/session-refresh",
     "module/sign-out-route",
+    "module/sign-up-route",
     "module/auth-client",
     "module/auth-server",
     "module/auth-guard",

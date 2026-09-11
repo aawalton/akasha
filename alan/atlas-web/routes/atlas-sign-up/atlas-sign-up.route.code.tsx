@@ -1,7 +1,7 @@
-import { redirect } from "react-router"
+import { signUpLoader } from "akasha/alan/harness/supabase-rr/sign-up-route/sign-up-route.module.code.ts"
 
 export function loader() {
-  return redirect("/sign-in")
+  return signUpLoader()
 }
 
 export default function SignUpRoute() {
