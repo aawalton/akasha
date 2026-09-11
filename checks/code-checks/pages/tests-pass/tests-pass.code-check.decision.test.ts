@@ -31,6 +31,7 @@ import {
   PASSES,
   RAN_CHATTY_CLEAN,
   RAN_CHATTY_PASSED,
+  RAN_ERRORED,
   RAN_FOREIGN_HEADER,
   RAN_LOGGED_ERROR,
   RAN_ONE_FAILED,
@@ -324,6 +325,22 @@ test("an error a passing file's test logged blames that file with nothing", () =
 
 test("a failure under a file the run did not name blames no file", () => {
   expect(failedIn(RAN_FOREIGN_HEADER, [SORTED_AT, COUNTED_AT])).toEqual([])
+})
+
+test("a run that only errored is not said to have failed a count of tests", () => {
+  const ran = ranAs("fail", { files: 1, failed: 0, passed: 5 }, RAN_ERRORED)
+  const said = refusedOf(ran, [SORTED_AT], SORTED_AT)
+  expect(said.path).toBe(SORTED_AT)
+  expect(said.reason).toContain("1 test file errored")
+  expect(said.reason).toContain("1 error was raised outside any test, and no test failed")
+  expect(said.reason).not.toContain("0 of 5 tests failed")
+})
+
+test("a run that failed and errored counts both", () => {
+  const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, RAN_TWO_FAILED)
+  expect(refusedOf(ran, [SORTED_AT, COUNTED_AT], SORTED_AT).reason).toContain(
+    "3 of 6 tests failed, and 1 error was raised outside any test"
+  )
 })
 
 test("what the runner said after a batch ended blames no file in that batch", () => {

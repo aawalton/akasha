@@ -188,6 +188,24 @@ Received: ""
 Ran 10 tests across 1 file. [242.00ms]
 `
 
+export const RAN_ERRORED = `bun test v1.3.14 (0d9b296a)
+utils/narrow/sorted-once/sorted-once.module.test.ts:
+# Unhandled error between tests
+-------------------------------
+5 |   queueMicrotask(() => {
+6 |     throw new Error("after the test ended")
+                  ^
+error: after the test ended
+      at <anonymous> (utils/narrow/sorted-once/sorted-once.module.test.ts:6:11)
+-------------------------------
+.....
+5 pass
+0 fail
+1 error
+5 expect() calls
+Ran 5 tests across 1 file. [12.00ms]
+`
+
 export function withoutGuard<T>(run: () => T): T {
   const held = process.env[RUNNING]
   delete process.env[RUNNING]

@@ -3,6 +3,7 @@ import type { Ran, Spent } from "akasha/code-system/code-tests/code-tests.module
 import {
   alreadyRunning,
   CEILING,
+  errorsIn,
   measuring,
   plain,
   ranOver,
@@ -120,11 +121,25 @@ export function failedIn(output: string, named: readonly string[]): readonly str
 const UNNAMED =
   "The output prints no failure under any file the run named, so this refusal is filed against the first test file named rather than against a file that failed. Which file failed is in the output below, in a shape nothing here reads."
 
+function erroring(many: number): string {
+  return many === 1 ? "1 error was" : `${many} errors were`
+}
+
+function countingOf(ran: Ran): string {
+  const raised = errorsIn(ran.output) ?? 0
+  const failed = ran.summary.failed
+  const many = (ran.summary.passed ?? 0) + (failed ?? 0)
+  const said = `${failed} of ${many} tests failed`
+  if (raised === 0) return said
+  const outside = `${erroring(raised)} raised outside any test`
+  return failed === 0 ? `${outside}, and no test failed` : `${said}, and ${outside}`
+}
+
 export function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
-  const many = (ran.summary.passed ?? 0) + (ran.summary.failed ?? 0)
-  const said = `${ran.summary.failed} of ${many} tests failed, over ${over}:\n${saidOf(ran.output)}`
+  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(ran.output)}`
   if (failing.length === 0) return `${UNNAMED}\n\n${said}`
-  return `${counted(failing.length)} failed:\n${failing.join("\n")}\n\n${said}`
+  const blamed = ran.summary.failed === 0 ? "errored" : "failed"
+  return `${counted(failing.length)} ${blamed}:\n${failing.join("\n")}\n\n${said}`
 }
 
 export function reasonOf(ran: Ran, named: readonly string[], failing: readonly string[]): string {

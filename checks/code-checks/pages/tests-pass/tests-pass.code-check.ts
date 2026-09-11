@@ -228,6 +228,14 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal says how many errors the run raised outside any test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names a file that errored as errored rather than as failed.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "That refusal says deleting a test nothing needs is the best way to make a file cheaper.",
     },
