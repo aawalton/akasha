@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { buildingFrom } from "akasha/infrastructure/inference/generations/comfy-up-building/comfy-up-building.module.code.ts"
-
-const RECIPE = "image/Containerfile"
+import { RECIPE } from "akasha/infrastructure/inference/generations/comfy-up-building/comfy-up-building.module.test-fixtures.ts"
 
 test("the folders a run reads and writes are made before anything is built", () => {
   expect(buildingFrom(RECIPE)[0]).toBe(
@@ -15,7 +14,7 @@ test("the image is built only where podman holds no image under that name", () =
 
 test("the recipe handed in is named under the package folder the script found", () => {
   expect(buildingFrom(RECIPE)).toContain(
-    '  podman build -t "$IMAGE" -f "$PKG_DIR/image/Containerfile" "$PKG_DIR"'
+    `  podman build -t "$IMAGE" -f "$PKG_DIR/${RECIPE}" "$PKG_DIR"`
   )
 })
 

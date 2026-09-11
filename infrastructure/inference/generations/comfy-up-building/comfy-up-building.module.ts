@@ -7,6 +7,7 @@ export const comfyUpBuilding = {
   definition: "what a ComfyUI script runs before its container starts",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
