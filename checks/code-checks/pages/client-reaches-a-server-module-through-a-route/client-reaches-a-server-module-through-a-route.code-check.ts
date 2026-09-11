@@ -112,7 +112,7 @@ export const clientReachesAServerModuleThroughARoute = {
         "An app whose route table reads as nothing refuses rather than judging its routes leaks.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement:
         "A module outside a router app's package reaching a server module is seen by nothing here.",
     },
