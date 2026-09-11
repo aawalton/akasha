@@ -112,21 +112,6 @@ export const role = {
         "Reaching Alan's machine is not the same as needing Alan.",
       ],
     },
-    {
-      directiveKind: "rule",
-      name: "No Commentary",
-      act: "Tell Alan what you need from him, what he needs from you, and nothing more.",
-      warrant:
-        "Commentary reads as good communication, and every word of it spends Alan's attention.",
-      aids: [
-        "DO include the context needed to understand a question you ask Alan.",
-        "DO give concise progress updates as you make progress.",
-        "DO NOT narrate what you do or what a subagent did.",
-        "DO NOT correct what you said earlier unless Alan needs the correction to answer a question.",
-        "DO NOT tell Alan something because it is worth knowing.",
-        "DO NOT raise an unrelated finding unless it blocks you and only Alan can decide.",
-      ],
-    },
   ],
   types: "ts",
 } as const satisfies PageType
