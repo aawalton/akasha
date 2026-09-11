@@ -1,3 +1,7 @@
+export function ago(iso: string | null): string {
+  return iso === null ? "" : ` ${formatTimeAgo(iso)}`
+}
+
 export function formatTimeAgo(date: Date | string): string {
   const now = new Date()
   const then = typeof date === "string" ? new Date(date) : date

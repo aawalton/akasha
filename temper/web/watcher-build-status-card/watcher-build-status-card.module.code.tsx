@@ -5,7 +5,7 @@ import { Heading } from "akasha/design/interfaces/primitives/heading/heading.mod
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, HelpCircle, Wrench } from "lucide-react"
-import { formatTimeAgo } from "../format-time-ago/format-time-ago.module.code.ts"
+import { ago } from "../format-time-ago/format-time-ago.module.code.ts"
 import type { WatcherBuildSummary } from "../watcher-build-status/watcher-build-status.module.code.ts"
 
 type Presentation = {
@@ -13,10 +13,6 @@ type Presentation = {
   tone: string
   title: string
   body: string
-}
-
-function ago(iso: string | null): string {
-  return iso === null ? "" : ` ${formatTimeAgo(iso)}`
 }
 
 function present(build: WatcherBuildSummary): Presentation {
