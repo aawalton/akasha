@@ -9,7 +9,6 @@ export const index = {
   parts: [
     "index/index-identity",
     "index/index-relation",
-    "index/index-schema",
     "index/index-import",
     "index/index-path",
     "index/index-rule",

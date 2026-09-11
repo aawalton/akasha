@@ -11,7 +11,7 @@ import {
   relationsTurned,
   typesDeclaring,
 } from "akasha/pages/indexes/beside-turning/beside-turning.module.code.ts"
-import { declaredOf } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
+import { declaredIn } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -45,7 +45,6 @@ import {
   relationIn,
 } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
-import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { overlaidOn, readingNone } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
@@ -186,13 +185,13 @@ export function settlingOver(
     held.flatMap((one) => (one.after === null ? [] : ruleIn(one.after, one.path, repo)))
   )
 
-  const wasSchema = held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was)))
-  const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
-  const schema = filingOf(wasSchema, nowSchema)
-  const declaring = filingOf(declaredOf(wasSchema), declaredOf(nowSchema))
-  const overSchema = overlaidOn(reading, [...schema, ...declaring])
+  const declaring = filingOf(
+    held.flatMap((one) => (one.was === null ? [] : declaredIn(one.was))),
+    held.flatMap((one) => (one.now === null ? [] : declaredIn(one.now)))
+  )
+  const overDeclaring = overlaidOn(reading, declaring)
   const wasUnique = uniquePropertiesAt(reading)
-  const unique = uniquePropertiesAt(overSchema)
+  const unique = uniquePropertiesAt(overDeclaring)
   if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
   const turned = turningIn(wasUnique, unique)
   const carried = new Map(held.map((one) => [under(repo, one.path), one]))
@@ -206,7 +205,7 @@ export function settlingOver(
   }
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
   const wasSource = sourceAmong(before, sourceIn(reading, wasPageOf))
-  const nowSource = sourceAmong(left, sourceIn(overSchema, pageOf))
+  const nowSource = sourceAmong(left, sourceIn(overDeclaring, pageOf))
   const wasIdentifying = identifyingFrom(wasSource)
   const nowIdentifying = identifyingFrom(nowSource)
   const carriedAt = new Set(carried.keys())
@@ -269,14 +268,7 @@ export function settlingOver(
     held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
   )
 
-  const stepped = overlaidOn(reading, [
-    ...imported,
-    ...identity,
-    ...paths,
-    ...schema,
-    ...declaring,
-    ...valued,
-  ])
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...declaring, ...valued])
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -289,7 +281,7 @@ export function settlingOver(
     rowsOver(under(repo, path), value, shaped.entriedIn(value), body)
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
-  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overSchema))
+  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overDeclaring))
   const relating = pagesOfTypes(
     reading,
     typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
@@ -340,7 +332,6 @@ export function settlingOver(
     ...ruled,
     ...identity,
     ...paths,
-    ...schema,
     ...relation,
     ...valued,
     ...listing,

@@ -258,12 +258,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
     ["cases", "page-property-entry", null],
     ["logs", "page-property-entry", null],
   ]
-  const lines: string[] = []
-  for (const [slug, pageTypeSlug, target] of every) {
-    const line = declared(slug, pageTypeSlug, target)
-    filed(`schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`, line)
-    lines.push(line)
-  }
+  const lines = every.map(([slug, pageTypeSlug, target]) => declared(slug, pageTypeSlug, target))
   filed(DECLARING_AT, lines.join("\n"))
   for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
   return { root, repo }
@@ -323,12 +318,7 @@ function oneOfRecords(): { readonly root: string; readonly repo: string } {
     ["many-held", "record-property", null],
     ["holds", "one-of-property", null],
   ]
-  const lines: string[] = []
-  for (const [slug, pageTypeSlug, target] of every) {
-    const line = declared(slug, pageTypeSlug, target)
-    filed(`schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`, line)
-    lines.push(line)
-  }
+  const lines = every.map(([slug, pageTypeSlug, target]) => declared(slug, pageTypeSlug, target))
   filed(DECLARING_AT, lines.join("\n"))
   for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
   return { root, repo }

@@ -40,7 +40,7 @@ export const indexSettling = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties have a `unique` is read from the schema as the change leaves the schema.",
+        "Which properties have a `unique` is read from the shapes as the change leaves the shapes.",
     },
     {
       invariantKind: "departure",

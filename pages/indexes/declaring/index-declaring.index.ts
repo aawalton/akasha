@@ -19,17 +19,28 @@ export const indexDeclaring = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape is filed here where the schema index files that shape.",
+      statement:
+        "A page stating a property slug is a page property whatever page type that page is.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The shapes filed here are read off what the schema index files rather than worked out again.",
+      statement: "A value the property does not have is held as null rather than left out.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What every property declares is one file read rather than a walk of the schema tree.",
+      statement: "A qualified name is held as its slug alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry is read from the property's own page alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No other page's change can leave an entry stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What every property declares is one file read rather than a tree of files.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +48,7 @@ export const indexDeclaring = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing filed here says where the schema index files a shape.",
+      statement: "Nothing filed here says where a shape's own page sits.",
     },
   ],
 } as const satisfies Index

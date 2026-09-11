@@ -109,19 +109,16 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     "identity/page-type/one-of-property/slug/either.jsonl",
     '{"path":"either.one-of-property.ts","id":"4"}'
   )
-  const declared: readonly (readonly [string, string, string])[] = [
-    ["file-property", "code", SCHEMA.code],
-    ["relation-property", "page-domain", SCHEMA.pageDomain],
-    ["relation-property", "part-slugs", SCHEMA.partSlugs],
-    ["relation-property", "note-slug", SCHEMA.noteSlug],
-    ["one-of-property", "either", SCHEMA.either],
-    [idPage.type, "id", SCHEMA.id],
-    [slugPage.type, "slug", SCHEMA.slug],
+  const declared: readonly string[] = [
+    SCHEMA.code,
+    SCHEMA.pageDomain,
+    SCHEMA.partSlugs,
+    SCHEMA.noteSlug,
+    SCHEMA.either,
+    SCHEMA.id,
+    SCHEMA.slug,
   ]
-  for (const [type, slug, line] of declared) {
-    filed(`schema/page-property/${type}/slug/${slug}.jsonl`, line)
-  }
-  filed(DECLARING_AT, declared.map((one) => one[2]).join("\n"))
+  filed(DECLARING_AT, declared.join("\n"))
   for (const [type, lines] of kept) filed(`value/${type}.jsonl`, lines.join("\n"))
   return { root, repo }
 }
@@ -203,13 +200,9 @@ export function declaring(
   slug: string,
   said: Record<string, unknown>
 ): undefined {
-  const line = `${JSON.stringify(said)}\n`
-  const at = join(index, "schema", "page-property", pageTypeSlug, "slug", `${slug}.jsonl`)
+  const at = join(index, DECLARING_AT)
   mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, line, "utf8")
-  const flat = join(index, DECLARING_AT)
-  mkdirSync(dirname(flat), { recursive: true })
-  appendFileSync(flat, line, "utf8")
+  appendFileSync(at, `${JSON.stringify({ pageTypeSlug, slug, ...said })}\n`, "utf8")
 }
 
 export function manifest(slug: string, fileName: string): Value {

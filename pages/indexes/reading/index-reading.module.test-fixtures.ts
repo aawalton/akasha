@@ -23,7 +23,6 @@ import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.t
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   beneath,
@@ -204,11 +203,15 @@ function declaringAdded(root: string, lines: readonly unknown[]): undefined {
 export function schemaFiled(
   root: string,
   pageTypeSlug: string,
-  propertySlug: string,
+  slug: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexSchema.name, PAGE_PROPERTY, pageTypeSlug, SLUG, propertySlug), lines)
-  declaringAdded(root, lines)
+  declaringAdded(
+    root,
+    lines.map((one) =>
+      one === null || typeof one !== "object" ? one : { pageTypeSlug, slug, ...one }
+    )
+  )
 }
 
 export function relationFiled(

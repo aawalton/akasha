@@ -1,6 +1,7 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   aProperty,
   aType,
@@ -110,9 +111,6 @@ export const pathFile = (root: string, path: string): string => join(root, `path
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
   join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
 
-export const schemaFile = (root: string, pageTypeSlug: string, slug: string): string =>
-  join(root, `schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`)
-
 export const importFile = (root: string, path: string): string =>
   join(root, `import/path/${path}.jsonl`)
 
@@ -122,6 +120,11 @@ export const linesIn = (at: string): readonly string[] =>
     .filter((one) => one !== "")
 
 export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
+
+export const shapeFiled = (root: string, pageTypeSlug: string, slug: string): unknown =>
+  linesIn(join(root, DECLARING_AT))
+    .map((one) => JSON.parse(one) as Record<string, unknown>)
+    .find((one) => one["pageTypeSlug"] === pageTypeSlug && one["slug"] === slug) ?? null
 
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageType: "domain" })
 

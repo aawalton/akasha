@@ -4,7 +4,7 @@ import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts
 import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import {
   DECLARING_UNDER,
-  declaredOf,
+  declaredIn,
 } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   fileKeysIn,
@@ -36,8 +36,6 @@ import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.c
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { indexRule } from "akasha/pages/indexes/rule/index-rule.index.ts"
-import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
-import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
 import {
   refusingEmpty,
   settlingOver,
@@ -66,8 +64,6 @@ const PATH = indexPath.name
 const RELATION = indexRelation.name
 
 const RULE = indexRule.name
-
-const SCHEMA = indexSchema.name
 
 const VALUE = indexValue.name
 
@@ -109,7 +105,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   const fileProperties = fileKeysIn(values)
   const filedBy = filePropertiesIn(values)
   const unique = uniquePropertiesIn(values)
-  const schema = held.flatMap((one) => schemaIn(one.value))
+  const declared = held.flatMap((one) => declaredIn(one.value))
   refusingEmpty(unique, held.length)
   const identifying = identifyingFrom(sourceOver(values))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
@@ -126,8 +122,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   drift.push(reconcile(join(root, PATH), paths, root, put))
   const listed = listedOf(paths)
   drift.push(reconcile(join(root, LISTED_UNDER), listed, root, put))
-  drift.push(reconcile(join(root, SCHEMA), schema, root, put))
-  drift.push(reconcile(join(root, DECLARING_UNDER), declaredOf(schema), root, put))
+  drift.push(reconcile(join(root, DECLARING_UNDER), declared, root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(join(root, VALUE), valued, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
@@ -161,7 +156,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
     entries:
       identity.length +
       paths.length +
-      schema.length +
+      declared.length +
       relation.length +
       imported.length +
       ruled.length +
