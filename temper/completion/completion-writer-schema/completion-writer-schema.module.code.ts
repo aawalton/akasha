@@ -1,10 +1,10 @@
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
-import { z } from "zod"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "../completion-record/completion-record.module.code.ts"
+} from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
+import { z } from "zod"
 
 const achievementCriteriaProgressSchema = z
   .object({

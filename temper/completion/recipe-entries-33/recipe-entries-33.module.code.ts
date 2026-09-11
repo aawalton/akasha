@@ -1,4 +1,4 @@
-import type { RecipeEntry } from "../recipe-types/recipe-types.module.code.ts"
+import type { RecipeEntry } from "akasha/temper/completion/recipe-types/recipe-types.module.code.ts"
 
 export const RECIPE_ENTRIES_33: readonly RecipeEntry[] = [
   { itemId: 165613, name: "Vampiric Bed, Full" },

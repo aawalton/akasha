@@ -1,4 +1,4 @@
-import type { RecipeEntry } from "../recipe-types/recipe-types.module.code.ts"
+import type { RecipeEntry } from "akasha/temper/completion/recipe-types/recipe-types.module.code.ts"
 
 export const RECIPE_ENTRIES_07: readonly RecipeEntry[] = [
   { itemId: 28401, name: "Nut Brown Ale" },

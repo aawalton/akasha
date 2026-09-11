@@ -13,7 +13,7 @@ import type {
   SparseRecipes,
   SparseZoneCompletion,
   TraitResearchCraftType,
-} from "../completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
 export interface ItemSetProgress {
   name: string

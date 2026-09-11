@@ -1,4 +1,4 @@
-import type { RecipeEntry } from "../recipe-types/recipe-types.module.code.ts"
+import type { RecipeEntry } from "akasha/temper/completion/recipe-types/recipe-types.module.code.ts"
 
 export const RECIPE_ENTRIES_12: readonly RecipeEntry[] = [
   { itemId: 28492, name: "Lillandril Tonic Tea" },
