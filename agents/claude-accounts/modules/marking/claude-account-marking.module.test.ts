@@ -7,7 +7,6 @@ import {
 } from "../reading/claude-account-reading.module.code.ts"
 import {
   atLimitMarks,
-  type Given,
   heldBesideIn,
   instantOf,
   markedIn,
@@ -18,19 +17,20 @@ import {
   usageFrom,
 } from "./claude-account-marking.module.code.ts"
 import {
-  ACCOUNT_DECLARED,
-  accountWritten,
   BESIDE_KEYS,
   bareTypeIn,
-  besideAt,
+  besideBroken,
   besideHeld,
   besideOf,
   besideText,
   bodiesIn,
-  carriedOf,
+  CARRIED_BOTH,
+  CARRIED_THREE,
+  countedWorld,
   counting,
+  DECLARED_WITH_WEATHER,
+  DECLARED_WITHOUT_PACING,
   FAKE_TOKEN,
-  filed,
   heldIn,
   keysOf,
   MS_A_WEEK,
@@ -44,6 +44,7 @@ import {
   NOW,
   PACING_KEYS,
   PAIR,
+  PROTO_MARKS,
   pageAt,
   RAW_USAGE,
   RESETS_AT,
@@ -52,8 +53,10 @@ import {
   rootFor,
   routed,
   routedFor,
-  shut,
+  routedWorld,
+  shutWorld,
   sweep,
+  typelessWorld,
   USAGE,
   USAGE_UNKNOWN,
   whyOf,
@@ -63,18 +66,14 @@ import {
 afterAll(sweep)
 
 test("a declaration routes by whether that declaration says uncommitted or secret", () => {
-  const said = routingFrom([
-    carriedOf("terminalAt", { uncommitted: true }),
-    carriedOf("accessToken", { secret: true }),
-    carriedOf("email"),
-  ])
+  const said = routingFrom(CARRIED_THREE)
   expect([...said.beside]).toEqual(["terminalAt"])
   expect([...said.secret]).toEqual(["accessToken"])
   expect([...said.stated]).toEqual(["email"])
 })
 
 test("a declaration marked both secret and uncommitted routes as a secret", () => {
-  const said = routingFrom([carriedOf("accessToken", { secret: true, uncommitted: true })])
+  const said = routingFrom(CARRIED_BOTH)
   expect([...said.secret]).toEqual(["accessToken"])
   expect([...said.beside]).toEqual([])
 })
@@ -94,17 +93,13 @@ test("a page type declaring nothing refuses to say where a mark is written", () 
 })
 
 test("a key the declaration stops calling uncommitted is no longer written beside", () => {
-  const root = worldMade(
-    ACCOUNT_DECLARED.map((one) =>
-      one.slug === "five-hour-percent-used" ? { slug: one.slug } : one
-    )
-  )
+  const root = worldMade(DECLARED_WITHOUT_PACING)
   expect(routedFor(root).beside.has("fiveHourPercentUsed")).toBe(false)
   expect(markedWhy(root, "aine", { fiveHourPercentUsed: 5 })).toContain("what the account states")
 })
 
 test("a key the declaration newly calls uncommitted is written beside", () => {
-  const root = worldMade([...ACCOUNT_DECLARED, { slug: "weather-noted-at", uncommitted: true }])
+  const root = worldMade(DECLARED_WITH_WEATHER)
   expect(routedFor(root).beside.has("weatherNotedAt")).toBe(true)
   expect(heldIn(root, "aine", { weatherNotedAt: RESETS_AT })["weatherNotedAt"]).toBe(RESETS_AT)
 })
@@ -123,9 +118,8 @@ test("a mark is refused by where its key routes", () => {
 })
 
 test("a mark naming a prototype key is refused", () => {
-  const marks: Given = JSON.parse('{"__proto__":"x"}')
-  expect(Object.getOwnPropertyNames(marks)).toEqual(["__proto__"])
-  expect(refusalOf(routed(), marks)).toContain("`__proto__` names nothing")
+  expect(Object.getOwnPropertyNames(PROTO_MARKS)).toEqual(["__proto__"])
+  expect(refusalOf(routed(), PROTO_MARKS)).toContain("`__proto__` names nothing")
 })
 
 test("a key is refused for where it routes before that key's value is weighed", () => {
@@ -226,16 +220,14 @@ test("a mark the routing refuses is refused rather than written", () => {
 })
 
 test("a page type that cannot be read refuses the mark", () => {
-  const root = bareTypeIn("marking-typeless-")
-  accountWritten(root, "aine", null)
-  const why = markedWhy(root, "aine", { terminalAt: RESETS_AT })
+  const why = markedWhy(typelessWorld(), "aine", { terminalAt: RESETS_AT })
   expect(why).toContain("the mark threw, which it is written never to do")
   expect(why).toContain("where to write one is unknown")
 })
 
 test("a file beside a page that will not load refuses the mark rather than throwing", () => {
   const root = worldMade()
-  filed(root, besideAt("aine"), "this is not a page body\n")
+  besideBroken(root)
   expect(markedWhy(root, "aine", { retryAllowedAt: RESETS_AT })).toContain(
     "was not written beside its page"
   )
@@ -262,8 +254,7 @@ test("writing beside a page answers with why rather than throwing", () => {
 })
 
 test("marking one account opens no other account's page", () => {
-  const root = worldMade()
-  for (const one of ["aine", "aow"]) shut(root, one)
+  const root = shutWorld()
   expect([...everyAccountStateIn(root).keys()]).toEqual(["ctw"])
   expect(heldIn(root, "ctw", { retryAllowedAt: RESETS_AT })["retryAllowedAt"]).toBe(RESETS_AT)
 })
@@ -281,10 +272,7 @@ test("marking one account reads no index the whole fleet is filed in", () => {
 })
 
 test("marking one account with the routing handed in lists nothing at all", () => {
-  const root = worldMade()
-  const routing = routedFor(root)
-  const one = counting(root)
-  const held = bodiesIn(root)
+  const { root, routing, one, held } = countedWorld()
   expect(markedIn(root, "aine", { terminalAt: null }, one.reading, held, routing).kind).toBe("held")
   expect(one.seen.filter((at) => at.startsWith("listing "))).toEqual([])
 })
@@ -366,8 +354,7 @@ test("a pacing mark whose reset is unknown carries a removal", () => {
 })
 
 test("a pacing mark reaches the page under every key the page type declares", () => {
-  const root = worldMade()
-  const routing = routedFor(root)
+  const { root, routing } = routedWorld()
   const said = markedFor(root, "aine", pacingMarks(NOW, USAGE), routing)
   expect(keysOf(said)).toEqual(PACING_KEYS)
   for (const key of keysOf(said)) expect(routing.beside.has(key)).toBe(true)

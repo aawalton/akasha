@@ -366,3 +366,54 @@ export function heldIn(
 export function markedWhy(root: string, slug: string, marks: Given): string {
   return whyOf(markedFor(root, slug, marks))
 }
+
+export const CARRIED_THREE: readonly Carried[] = [
+  carriedOf("terminalAt", { uncommitted: true }),
+  carriedOf("accessToken", { secret: true }),
+  carriedOf("email"),
+]
+
+export const CARRIED_BOTH: readonly Carried[] = [
+  carriedOf("accessToken", { secret: true, uncommitted: true }),
+]
+
+export const DECLARED_WITHOUT_PACING: readonly Declared[] = ACCOUNT_DECLARED.map((one) =>
+  one.slug === "five-hour-percent-used" ? { slug: one.slug } : one
+)
+
+export const DECLARED_WITH_WEATHER: readonly Declared[] = [
+  ...ACCOUNT_DECLARED,
+  { slug: "weather-noted-at", uncommitted: true },
+]
+
+export const PROTO_MARKS: Given = JSON.parse('{"__proto__":"x"}')
+
+export function typelessWorld(): string {
+  const root = bareTypeIn("marking-typeless-")
+  accountWritten(root, "aine", null)
+  return root
+}
+
+export function besideBroken(root: string): undefined {
+  filed(root, besideAt("aine"), "this is not a page body\n")
+}
+
+export function shutWorld(): string {
+  const root = worldMade()
+  for (const one of ["aine", "aow"]) shut(root, one)
+  return root
+}
+
+export type RoutedWorld = { readonly root: string; readonly routing: Routing }
+
+export function routedWorld(): RoutedWorld {
+  const root = worldMade()
+  return { root, routing: routedFor(root) }
+}
+
+export type CountedWorld = RoutedWorld & { readonly one: Counted; readonly held: PageOf }
+
+export function countedWorld(): CountedWorld {
+  const world = routedWorld()
+  return { ...world, one: counting(world.root), held: bodiesIn(world.root) }
+}
