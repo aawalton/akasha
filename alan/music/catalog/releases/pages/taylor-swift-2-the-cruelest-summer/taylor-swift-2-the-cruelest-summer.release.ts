@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2TheCruelestSummer = {
   id: "01a0676a-d72c-7045-9ba4-28a6f6927898",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-the-cruelest-summer",
   title: "The Cruelest Summer",

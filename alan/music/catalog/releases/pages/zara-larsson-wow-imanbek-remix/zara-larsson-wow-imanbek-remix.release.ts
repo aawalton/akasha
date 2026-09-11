@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonWowImanbekRemix = {
   id: "01a0676a-d731-703b-87fe-4f191d1d09fe",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-wow-imanbek-remix",
   title: "WOW (Imanbek Remix)",

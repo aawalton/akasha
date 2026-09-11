@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeEPiuTiPensoFromOnceUponATimeInAmerica = {
   id: "019ea4e2-6c19-741f-8953-7871a7eaef89",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-e-piu-ti-penso-from-once-upon-a-time-in-america",
   title: "E più ti penso (From “Once Upon a Time in America”)",

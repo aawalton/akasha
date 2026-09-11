@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const weirdAlYankovic2EvenWorse = {
   id: "01a0676a-d71d-702d-95e8-77bfe9598a5e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "weird-al-yankovic-2-even-worse",
   title: "Even Worse",

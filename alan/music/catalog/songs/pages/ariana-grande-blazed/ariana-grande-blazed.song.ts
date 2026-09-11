@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeBlazed = {
   id: "019ea4e3-04d6-76cc-87e7-89fba0351fb4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-blazed",
   title: "blazed",

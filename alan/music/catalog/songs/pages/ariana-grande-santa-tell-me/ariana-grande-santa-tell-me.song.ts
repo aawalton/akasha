@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeSantaTellMe = {
   id: "019ea4e5-23df-749a-a318-fd4f8d8f4bc9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-santa-tell-me",
   title: "Santa Tell Me",

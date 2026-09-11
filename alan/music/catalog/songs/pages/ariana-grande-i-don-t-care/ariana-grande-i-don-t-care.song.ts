@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeIDonTCare = {
   id: "019ea4e0-d56c-7782-b3fc-a3d4970e13a0",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-i-don-t-care",
   title: "I Don't Care",

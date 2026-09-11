@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeYouDonTOwnMe = {
   id: "019ea4e4-6722-7fc5-84df-dc0fe60e7305",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-you-don-t-own-me",
   title: "You Don’t Own Me",

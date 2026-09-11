@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareMakeAJoyfulNoiseBelovedChoruses = {
   id: "01a0676a-d724-702c-8604-9ade14033414",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-make-a-joyful-noise-beloved-choruses",
   title: "Make a Joyful Noise - Beloved Choruses",

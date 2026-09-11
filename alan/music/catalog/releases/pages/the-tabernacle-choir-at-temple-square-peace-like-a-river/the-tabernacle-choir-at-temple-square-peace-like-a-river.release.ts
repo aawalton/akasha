@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquarePeaceLikeARiver = {
   id: "01a0676a-d726-7067-b8df-0b04274c439a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-peace-like-a-river",
   title: "Peace Like a River",

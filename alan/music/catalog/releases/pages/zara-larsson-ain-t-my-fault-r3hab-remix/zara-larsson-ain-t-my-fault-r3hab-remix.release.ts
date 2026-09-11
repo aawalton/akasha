@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonAinTMyFaultR3habRemix = {
   id: "01a0676a-d716-7004-b799-a5f28b26c00e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-ain-t-my-fault-r3hab-remix",
   title: "Ain't My Fault (R3hab Remix)",

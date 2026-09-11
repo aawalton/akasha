@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeGoodAsHell = {
   id: "019ea4e3-d28d-767e-a3fc-fa255feda4d6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-good-as-hell",
   title: "Good as Hell",

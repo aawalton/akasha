@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const vinnyMarchiTheBastardInTheKitchen = {
   id: "01a0676a-d72c-7029-a83c-5ee82fd8bb7b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "vinny-marchi-the-bastard-in-the-kitchen",
   title: "The Bastard in the Kitchen",

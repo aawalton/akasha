@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonSymphonyFeatZaraLarsson = {
   id: "01a0676a-d72b-700a-82e6-010288c930b8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-symphony-feat-zara-larsson",
   title: "Symphony (feat. Zara Larsson)",

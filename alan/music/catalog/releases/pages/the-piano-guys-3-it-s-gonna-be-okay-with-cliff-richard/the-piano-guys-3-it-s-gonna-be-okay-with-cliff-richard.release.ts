@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3ItSGonnaBeOkayWithCliffRichard = {
   id: "01a0676a-d722-7010-833b-3216d59a4dfb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-it-s-gonna-be-okay-with-cliff-richard",
   title: "(It's Gonna Be) Okay (with Cliff Richard)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonDonTLetMeBeYoursRemixes = {
   id: "01a0676a-d71c-7022-abd4-e777db65de35",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-don-t-let-me-be-yours-remixes",
   title: "Don't Let Me Be Yours (Remixes)",

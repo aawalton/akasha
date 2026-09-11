@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2WildestDreamsR3habRemix = {
   id: "01a0676a-d731-701e-b4cd-2e0417a5dce0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-wildest-dreams-r3hab-remix",
   title: "Wildest Dreams (R3hab Remix)",

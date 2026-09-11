@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonMorningBillenTedRemix = {
   id: "01a0676a-d725-7006-af47-63e275f881c4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-morning-billen-ted-remix",
   title: "Morning (Billen Ted Remix)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2ThisLoveTaylorSVersion = {
   id: "01a0676a-d72e-7032-8255-ad6121ffe4bc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-this-love-taylor-s-version",
   title: "This Love (Taylor’s Version)",

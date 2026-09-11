@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersion = {
   id: "01a0676a-d72d-7034-9ed8-51a530fecfe0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-the-life-of-a-showgirl-track-by-track-version",
   title: "The Life of a Showgirl (Track by Track Version)",

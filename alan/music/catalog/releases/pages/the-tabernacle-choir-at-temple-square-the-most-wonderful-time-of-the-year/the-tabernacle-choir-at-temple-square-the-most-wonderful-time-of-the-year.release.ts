@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareTheMostWonderfulTimeOfTheYear = {
   id: "01a0676a-d72d-7048-9e7d-b1ab946a6324",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-most-wonderful-time-of-the-year",
   title: "The Most Wonderful Time of the Year",

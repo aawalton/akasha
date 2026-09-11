@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeIDonTKnowWhy = {
   id: "019ea4e2-05ba-79e9-b74e-f858c515b526",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-i-don-t-know-why",
   title: "I Don’t Know Why",

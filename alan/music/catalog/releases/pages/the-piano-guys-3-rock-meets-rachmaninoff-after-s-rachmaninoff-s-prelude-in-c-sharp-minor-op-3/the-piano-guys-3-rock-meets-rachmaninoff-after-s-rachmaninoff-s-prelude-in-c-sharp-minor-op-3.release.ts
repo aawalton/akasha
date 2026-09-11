@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCSharpMinorOp3 = {
   id: "01a0676a-d728-7018-8e1c-3f2ed219bbfc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-rock-meets-rachmaninoff-after-s-rachmaninoff-s-prelude-in-c-sharp-minor-op-3",
   title: "Rock Meets Rachmaninoff (After S. Rachmaninoff's Prelude in C-Sharp Minor, Op. 3)",

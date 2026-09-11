@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2Red = {
   id: "01a0676a-d727-705c-bc19-dd32d0923bbf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-red",
   title: "Red",

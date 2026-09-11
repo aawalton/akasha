@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const vinnyMarchiPoser = {
   id: "01a0676a-d727-7009-baaa-c4c054c32e29",
-  pageTypeSlug: "release",
   type: "release",
   slug: "vinny-marchi-poser",
   title: "POSER",

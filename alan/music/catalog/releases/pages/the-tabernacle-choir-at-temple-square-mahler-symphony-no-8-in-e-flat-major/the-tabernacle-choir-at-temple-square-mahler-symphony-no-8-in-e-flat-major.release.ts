@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareMahlerSymphonyNo8InEFlatMajor = {
   id: "01a0676a-d724-7029-bd11-f287af220386",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-mahler-symphony-no-8-in-e-flat-major",
   title: 'Mahler: Symphony No. 8 in E-Flat Major "Symphony of a Thousand" (Live)',

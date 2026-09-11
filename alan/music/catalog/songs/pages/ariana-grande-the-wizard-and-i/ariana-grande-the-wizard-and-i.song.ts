@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeTheWizardAndI = {
   id: "019ea4e5-bb10-7003-9800-30be01c7e881",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-the-wizard-and-i",
   title: "The Wizard and I",

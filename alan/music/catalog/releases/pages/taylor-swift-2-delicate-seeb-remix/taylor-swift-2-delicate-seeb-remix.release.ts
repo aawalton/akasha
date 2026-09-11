@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2DelicateSeebRemix = {
   id: "01a0676a-d71c-7005-b019-fb80d5410e70",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-delicate-seeb-remix",
   title: "Delicate (Seeb Remix)",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraSideBySide = {
   id: "019ea4a5-156c-7f71-bd4c-9d5f7743509b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-side-by-side",
   title: "SIDE BY SIDE",

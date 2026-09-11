@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareBrynTerfelHomewardBound = {
   id: "01a0676a-d719-7040-95e0-e0e84772395f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-bryn-terfel-homeward-bound",
   title: "Bryn Terfel: Homeward Bound",

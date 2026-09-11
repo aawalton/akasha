@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraASoulWithNoKing = {
   id: "019ea4a4-af2f-7b44-a6a4-4f1cd3375d0c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-a-soul-with-no-king",
   title: "A Soul With No King",

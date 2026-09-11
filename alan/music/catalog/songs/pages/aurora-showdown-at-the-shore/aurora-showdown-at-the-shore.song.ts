@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraShowdownAtTheShore = {
   id: "019ea4a4-1687-7e18-85b9-a6fd5a7128a3",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-showdown-at-the-shore",
   title: "Showdown at the Shore",

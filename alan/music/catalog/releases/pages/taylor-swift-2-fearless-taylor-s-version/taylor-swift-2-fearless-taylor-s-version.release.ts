@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2FearlessTaylorSVersion = {
   id: "01a0676a-d71d-706c-b5f2-5cdc19d23870",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-fearless-taylor-s-version",
   title: "Fearless (Taylor's Version)",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraDaydreamer = {
   id: "019ea4a7-5486-7a6c-946a-aee8371287f4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-daydreamer",
   title: "Daydreamer",

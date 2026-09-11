@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareHymnsOfFaithLegacySeries = {
   id: "01a0676a-d720-7082-9fd2-44924f175aa4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-hymns-of-faith-legacy-series",
   title: "Hymns of Faith (Legacy Series)",

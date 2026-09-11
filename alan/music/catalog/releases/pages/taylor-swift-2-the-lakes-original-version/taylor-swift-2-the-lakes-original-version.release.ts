@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2TheLakesOriginalVersion = {
   id: "01a0676a-d72d-702f-9e11-0e430970a98b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-the-lakes-original-version",
   title: "the lakes (original version)",

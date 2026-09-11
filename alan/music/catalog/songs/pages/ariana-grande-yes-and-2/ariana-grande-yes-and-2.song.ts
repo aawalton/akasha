@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeYesAnd2 = {
   id: "019ea4e8-7e24-7a0d-af09-90554ff15b90",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-yes-and-2",
   title: "yes, and?",

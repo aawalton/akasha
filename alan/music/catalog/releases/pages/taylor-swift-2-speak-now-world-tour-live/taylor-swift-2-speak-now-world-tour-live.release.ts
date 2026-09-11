@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2SpeakNowWorldTourLive = {
   id: "01a0676a-d729-7076-8a5a-7d01ead609d2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-speak-now-world-tour-live",
   title: "Speak Now World Tour Live",

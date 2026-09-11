@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraScarsOfTheEarth = {
   id: "019ea4a6-ad63-74ea-ac9d-3b5353e59bd3",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-scars-of-the-earth",
   title: "Scars of the Earth",

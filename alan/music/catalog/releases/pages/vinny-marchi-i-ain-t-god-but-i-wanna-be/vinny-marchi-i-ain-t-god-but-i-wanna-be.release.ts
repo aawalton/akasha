@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const vinnyMarchiIAinTGodButIWannaBe = {
   id: "01a0676a-d721-7000-8ad5-cf946b8b5305",
-  pageTypeSlug: "release",
   type: "release",
   slug: "vinny-marchi-i-ain-t-god-but-i-wanna-be",
   title: "I Ain't God But I Wanna Be",

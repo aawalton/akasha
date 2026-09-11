@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonWow = {
   id: "01a0676a-d731-7039-96bf-a12d91c194ff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-wow",
   title: "WOW",

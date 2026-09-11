@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const yaelokreToDouseAScaldedTongue = {
   id: "01a0676a-d72f-7004-9e6a-404efef60eff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "yaelokre-to-douse-a-scalded-tongue",
   title: "To douse a scalded tongue",

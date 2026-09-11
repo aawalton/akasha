@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theLordOfTheRingsMusicTheHobbitTheDesolationOfSmaug = {
   id: "01a0676a-d72d-7026-b3dc-a2f90acc7121",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-lord-of-the-rings-music-the-hobbit-the-desolation-of-smaug",
   title:

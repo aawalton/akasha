@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollens = {
   id: "01a0676a-d730-703f-9598-ee3dd9ded23f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens",
   title: "What Are Words (feat. Peter Hollens & Evynne Hollens)",

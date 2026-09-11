@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeSnowInCalifornia = {
   id: "019ea4e5-0ca2-7ee5-8243-eae22684c932",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-snow-in-california",
   title: "Snow in California",

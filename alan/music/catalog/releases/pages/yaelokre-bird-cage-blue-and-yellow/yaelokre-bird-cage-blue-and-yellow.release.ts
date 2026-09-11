@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const yaelokreBirdCageBlueAndYellow = {
   id: "01a0676a-d719-7008-a982-361dd3fa133f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "yaelokre-bird-cage-blue-and-yellow",
   title: "Bird cage blue and yellow",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theLordOfTheRingsMusicTheHobbitAnUnexpectedJourney = {
   id: "01a0676a-d72d-7024-9c25-7b7750159b87",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-lord-of-the-rings-music-the-hobbit-an-unexpected-journey",
   title: "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",

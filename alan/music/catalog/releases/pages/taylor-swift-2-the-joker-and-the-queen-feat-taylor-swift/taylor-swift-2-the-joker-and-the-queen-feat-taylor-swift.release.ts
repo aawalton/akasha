@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwift = {
   id: "01a0676a-d72d-702b-86f1-65ee735fcd88",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-the-joker-and-the-queen-feat-taylor-swift",
   title: "The Joker And The Queen (feat. Taylor Swift)",

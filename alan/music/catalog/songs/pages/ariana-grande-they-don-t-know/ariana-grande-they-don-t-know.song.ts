@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeTheyDonTKnow = {
   id: "019ea4e4-ad4f-769f-a70e-cc827e4f513f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-they-don-t-know",
   title: "They Don’t Know",

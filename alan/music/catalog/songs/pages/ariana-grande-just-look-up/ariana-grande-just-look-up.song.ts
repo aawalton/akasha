@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeJustLookUp = {
   id: "019ea4e1-7e84-75a6-b77f-2bacc6bc113b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-just-look-up",
   title: "Just Look Up",

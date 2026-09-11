@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeJustALittleBitOfYourHeart = {
   id: "019ea4e0-56aa-7619-9062-3b0860df4683",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-just-a-little-bit-of-your-heart",
   title: "Just a Little Bit of Your Heart",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareOnceUponAChristmas = {
   id: "01a0676a-d726-7029-89fb-78eaff763288",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-once-upon-a-christmas",
   title: "Once Upon a Christmas",

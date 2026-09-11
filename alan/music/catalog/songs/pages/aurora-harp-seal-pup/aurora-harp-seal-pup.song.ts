@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraHarpSealPup = {
   id: "019ea4a5-b53f-752a-a1d8-f5727f2b3fde",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-harp-seal-pup",
   title: "Harp Seal Pup",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeDieForYou = {
   id: "019ea4e2-7deb-745e-b864-bbf75c4ef90a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-die-for-you",
   title: "Die for You",

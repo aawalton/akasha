@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2Willow90STrendRemix = {
   id: "01a0676a-d731-7020-b053-bc6cfa3d48ad",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-willow-90-s-trend-remix",
   title: "willow (90's trend remix)",

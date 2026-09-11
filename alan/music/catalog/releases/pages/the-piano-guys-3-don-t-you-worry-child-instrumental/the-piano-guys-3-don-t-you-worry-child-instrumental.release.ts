@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3DonTYouWorryChildInstrumental = {
   id: "01a0676a-d71c-7028-b0f6-54fb4ce57e79",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-don-t-you-worry-child-instrumental",
   title: "Don't You Worry Child (Instrumental)",

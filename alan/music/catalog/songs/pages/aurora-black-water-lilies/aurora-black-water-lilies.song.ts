@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraBlackWaterLilies = {
   id: "019ea4a6-7e48-736e-80fe-0d2712fae000",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-black-water-lilies",
   title: "Black Water Lilies",

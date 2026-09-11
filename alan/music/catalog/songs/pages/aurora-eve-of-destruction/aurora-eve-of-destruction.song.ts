@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraEveOfDestruction = {
   id: "019ea4a4-d97d-7fcd-aa06-34e3a10f9a6d",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-eve-of-destruction",
   title: "Eve of Destruction",

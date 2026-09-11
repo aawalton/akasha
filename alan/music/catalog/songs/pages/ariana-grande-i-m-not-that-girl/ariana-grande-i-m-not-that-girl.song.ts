@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeIMNotThatGirl = {
   id: "019ea4e0-c684-7c37-a182-c180959a3b6e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-i-m-not-that-girl",
   title: "I'm Not That Girl",

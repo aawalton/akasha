@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3ClassicalMovieSoundtracks = {
   id: "01a0676a-d71b-7000-9fcb-ea4bdf1b54eb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-classical-movie-soundtracks",
   title: "Classical Movie Soundtracks",

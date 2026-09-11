@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3LoveMeLikeIAm = {
   id: "01a0676a-d723-7072-94ba-dab69040bfde",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-love-me-like-i-am",
   title: "Love Me Like I Am",

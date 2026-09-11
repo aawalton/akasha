@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2OnlyTheYoungFeaturedInMissAmericana = {
   id: "01a0676a-d726-7039-9b1d-1cc7a391486b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-only-the-young-featured-in-miss-americana",
   title: "Only The Young (Featured in Miss Americana)",

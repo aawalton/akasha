@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theLordOfTheRingsMusicTheHobbitTheBattleOfTheFiveArmies = {
   id: "01a0676a-d72d-7025-98af-9285ee3fb8e3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-lord-of-the-rings-music-the-hobbit-the-battle-of-the-five-armies",
   title:

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const weirdAlYankovic2WeirdTheAlYankovicStoryOriginalSoundtrack = {
   id: "01a0676a-d730-703c-8e25-55433d527dc6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "weird-al-yankovic-2-weird-the-al-yankovic-story-original-soundtrack",
   title: "Weird: The Al Yankovic Story - Original Soundtrack",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2TheMoreRedTaylorSVersionChapter = {
   id: "01a0676a-d72d-7046-a01b-03d323e4d326",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-the-more-red-taylor-s-version-chapter",
   title: "The More Red (Taylor’s Version) Chapter",

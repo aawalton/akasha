@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3AvengersPortals = {
   id: "01a0676a-d717-7043-aac8-4096ac20bcba",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-avengers-portals",
   title: "Avengers/Portals",

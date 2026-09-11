@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonRightHereAlokRemix = {
   id: "01a0676a-d728-7008-9715-1f2a3200f475",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-right-here-alok-remix",
   title: "Right Here (Alok Remix)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const vinnyMarchiCouldICallYouMineCraft = {
   id: "01a0676a-d71b-702d-b8a6-e91187e2b1dd",
-  pageTypeSlug: "release",
   type: "release",
   slug: "vinny-marchi-could-i-call-you-mine-craft",
   title: "Could I Call You Mine (Craft)",

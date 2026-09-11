@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareAChristmasGloriaWithTheCanadianBrassLegacySeries = {
   id: "01a0676a-d715-701e-9793-d30f51eb089c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-a-christmas-gloria-with-the-canadian-brass-legacy-series",
   title: "A Christmas Gloria with the Canadian Brass (Legacy Series)",

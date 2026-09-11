@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2SpeakNowDeluxeEdition = {
   id: "01a0676a-d729-7074-883d-cb06193024b5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-speak-now-deluxe-edition",
   title: "Speak Now (Deluxe Edition)",

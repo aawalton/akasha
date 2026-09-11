@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2LoverLiveFromParis = {
   id: "01a0676a-d724-700b-a96e-7f7f9571e978",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-lover-live-from-paris",
   title: "Lover (Live From Paris)",

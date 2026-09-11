@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2YouNeedToCalmDownCleanBanditRemix = {
   id: "01a0676a-d732-7010-a1c7-f1891b0021aa",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-you-need-to-calm-down-clean-bandit-remix",
   title: "You Need To Calm Down (Clean Bandit Remix)",

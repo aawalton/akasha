@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonInvisibleFromTheNetflixFilmKlaus = {
   id: "01a0676a-d722-7000-b711-69080d2ba84f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-invisible-from-the-netflix-film-klaus",
   title: "Invisible (from the Netflix Film Klaus)",

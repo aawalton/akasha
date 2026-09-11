@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2TheFateOfOpheliaTheChainsmokersRemix = {
   id: "01a0676a-d72d-7010-89f0-0083c8bb0db6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-the-fate-of-ophelia-the-chainsmokers-remix",
   title: "The Fate of Ophelia (The Chainsmokers Remix)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3OComeOComeEmmanuel = {
   id: "01a0676a-d726-700c-b6d9-de75944bb5c7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-o-come-o-come-emmanuel",
   title: "O Come, O Come, Emmanuel",

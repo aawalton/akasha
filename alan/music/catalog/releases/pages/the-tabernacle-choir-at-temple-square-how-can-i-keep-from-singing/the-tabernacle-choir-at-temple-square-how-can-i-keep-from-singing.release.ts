@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareHowCanIKeepFromSinging = {
   id: "01a0676a-d720-706d-a3df-964515156ea8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-how-can-i-keep-from-singing",
   title: "How Can I Keep from Singing?",

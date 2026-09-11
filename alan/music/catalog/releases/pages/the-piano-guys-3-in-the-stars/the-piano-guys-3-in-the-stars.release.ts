@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3InTheStars = {
   id: "01a0676a-d721-706c-a3c3-6ff50aa72a8c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-in-the-stars",
   title: "In The Stars",

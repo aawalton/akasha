@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2LavenderHazeFelixJaehnRemix = {
   id: "01a0676a-d722-7063-909e-6a3bdaf22549",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-lavender-haze-felix-jaehn-remix",
   title: "Lavender Haze (Felix Jaehn Remix)",

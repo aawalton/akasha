@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const vinnyMarchiMyMotherToldMe = {
   id: "01a0676a-d725-7033-a6f2-bc73b979b80c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "vinny-marchi-my-mother-told-me",
   title: "My Mother Told Me",

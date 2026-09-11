@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const tomLehrerThatSMathematicsIGotItFromAgnes = {
   id: "01a0676a-d72c-7018-a521-7dceecee8413",
-  pageTypeSlug: "release",
   type: "release",
   slug: "tom-lehrer-that-s-mathematics-i-got-it-from-agnes",
   title: "That's Mathematics / I Got It from Agnes",

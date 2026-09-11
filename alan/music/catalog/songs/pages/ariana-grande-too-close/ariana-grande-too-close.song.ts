@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeTooClose = {
   id: "019ea4e5-7d28-78ed-a70a-49f559b15c54",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-too-close",
   title: "Too Close",

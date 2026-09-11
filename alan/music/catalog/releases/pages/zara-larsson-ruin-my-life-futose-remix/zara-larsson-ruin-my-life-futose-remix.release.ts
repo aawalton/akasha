@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonRuinMyLifeFutoseRemix = {
   id: "01a0676a-d728-7029-bed3-837e6125dc70",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-ruin-my-life-futose-remix",
   title: "Ruin My Life (Futosé Remix)",

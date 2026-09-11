@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2OpaliteChrisLakeRemix = {
   id: "01a0676a-d726-703f-8b58-51588cc69fd0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-opalite-chris-lake-remix",
   title: "Opalite (Chris Lake Remix)",

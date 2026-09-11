@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theLordOfTheRingsMusicTheReturnOfTheKingTheCompleteRecordings = {
   id: "01a0676a-d72d-7037-a411-de5fb2945ac6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-lord-of-the-rings-music-the-return-of-the-king-the-complete-recordings",
   title:

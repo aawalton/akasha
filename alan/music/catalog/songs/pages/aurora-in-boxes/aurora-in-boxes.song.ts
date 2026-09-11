@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraInBoxes = {
   id: "019ea4a7-5cc3-7432-8e4f-46ec181ad690",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-in-boxes",
   title: "In Boxes",

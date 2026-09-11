@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theBeatles2MagicalMysteryTourRemastered = {
   id: "01a0676a-d724-7028-a4f4-36affbe98ab6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-beatles-2-magical-mystery-tour-remastered",
   title: "Magical Mystery Tour (Remastered)",

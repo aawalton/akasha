@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3GoldenFromKpopDemonHunters = {
   id: "01a0676a-d71f-7013-82ac-1ac303c3ea0f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-golden-from-kpop-demon-hunters",
   title: 'Golden (From "KPop Demon Hunters")',

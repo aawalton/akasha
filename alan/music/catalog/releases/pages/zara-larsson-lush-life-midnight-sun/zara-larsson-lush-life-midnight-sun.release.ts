@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonLushLifeMidnightSun = {
   id: "01a0676a-d724-701b-887c-d96b94fe14c3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-lush-life-midnight-sun",
   title: "Lush Life + Midnight Sun",

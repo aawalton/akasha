@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonDonTWorryBoutMeRemixes = {
   id: "01a0676a-d71c-7027-bb24-b8f0716e7da2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-don-t-worry-bout-me-remixes",
   title: "Don't Worry Bout Me (Remixes)",

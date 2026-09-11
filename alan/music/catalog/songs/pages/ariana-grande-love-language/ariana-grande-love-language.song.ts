@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeLoveLanguage = {
   id: "019ea4e3-3b4c-7aea-83f1-de39c3dce1ff",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-love-language",
   title: "Love Language",

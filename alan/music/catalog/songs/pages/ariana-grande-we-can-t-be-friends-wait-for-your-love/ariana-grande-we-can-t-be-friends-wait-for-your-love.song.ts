@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   id: "019ea4e4-d144-77f6-b81b-86f82549ec16",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love",
   title: "we can’t be friends (wait for your love)",

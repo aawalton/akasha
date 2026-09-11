@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theBeatles2RevolverSuperDeluxe = {
   id: "01a0676a-d728-7000-a9ae-2cb270d32ff7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-beatles-2-revolver-super-deluxe",
   title: "Revolver (Super Deluxe)",

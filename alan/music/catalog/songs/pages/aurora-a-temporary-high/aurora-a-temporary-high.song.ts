@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraATemporaryHigh = {
   id: "019ea4a2-f762-7497-a290-0679408dd66d",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-a-temporary-high",
   title: "A Temporary High",

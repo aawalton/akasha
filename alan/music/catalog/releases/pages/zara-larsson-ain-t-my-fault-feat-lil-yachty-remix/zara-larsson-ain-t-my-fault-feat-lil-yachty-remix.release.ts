@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonAinTMyFaultFeatLilYachtyRemix = {
   id: "01a0676a-d716-7003-85e6-2400b6971b14",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-ain-t-my-fault-feat-lil-yachty-remix",
   title: "Ain't My Fault (feat. Lil Yachty) [Remix]",

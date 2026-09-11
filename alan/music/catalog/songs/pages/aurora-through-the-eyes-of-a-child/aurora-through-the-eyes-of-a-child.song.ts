@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraThroughTheEyesOfAChild = {
   id: "019ea4a5-7f5b-770e-bc11-62d866a1fde3",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-through-the-eyes-of-a-child",
   title: "Through the Eyes of a Child",

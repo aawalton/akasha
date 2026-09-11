@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theLordOfTheRingsMusicTheLordOfTheRingsTheTwoTowersTheCompleteRecordings = {
   id: "01a0676a-d72d-7038-9abc-adb08d7b6577",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-lord-of-the-rings-music-the-lord-of-the-rings-the-two-towers-the-complete-recordings",
   title: "The Lord of the Rings: The Two Towers - the Complete Recordings",

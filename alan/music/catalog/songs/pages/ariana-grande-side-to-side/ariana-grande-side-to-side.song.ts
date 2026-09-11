@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeSideToSide = {
   id: "019ea4e4-f029-7eb2-b61b-809371c45e35",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-side-to-side",
   title: "Side to Side",

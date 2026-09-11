@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const vinnyMarchiHeroInYourStory = {
   id: "01a0676a-d720-7032-b8bc-5a1f93fdb981",
-  pageTypeSlug: "release",
   type: "release",
   slug: "vinny-marchi-hero-in-your-story",
   title: "Hero In Your Story",

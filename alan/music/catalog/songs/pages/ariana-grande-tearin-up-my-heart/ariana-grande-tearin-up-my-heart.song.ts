@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeTearinUpMyHeart = {
   id: "019ea4e7-018e-7aa1-b5e2-95256daecad5",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-tearin-up-my-heart",
   title: "Tearin’ Up My Heart",

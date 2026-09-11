@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2Folklore = {
   id: "01a0676a-d71e-701b-b7a7-47adc86bd4f1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-folklore",
   title: "folklore",

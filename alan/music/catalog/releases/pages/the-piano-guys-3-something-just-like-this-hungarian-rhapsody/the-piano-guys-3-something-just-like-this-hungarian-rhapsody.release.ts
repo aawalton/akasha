@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3SomethingJustLikeThisHungarianRhapsody = {
   id: "01a0676a-d729-705c-9651-796c9f685e28",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-something-just-like-this-hungarian-rhapsody",
   title: "Something Just Like This / Hungarian Rhapsody",

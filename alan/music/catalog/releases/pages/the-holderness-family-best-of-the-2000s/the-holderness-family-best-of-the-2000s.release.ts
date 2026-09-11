@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theHoldernessFamilyBestOfThe2000s = {
   id: "01a0676a-d718-7047-abea-631063e348e6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-holderness-family-best-of-the-2000s",
   title: "Best of the 2000s",

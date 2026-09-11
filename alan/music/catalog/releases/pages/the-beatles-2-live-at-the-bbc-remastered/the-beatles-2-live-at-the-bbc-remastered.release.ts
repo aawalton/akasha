@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theBeatles2LiveAtTheBbcRemastered = {
   id: "01a0676a-d723-7045-a1b7-8f2be6853051",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-beatles-2-live-at-the-bbc-remastered",
   title: "Live At The BBC (Remastered)",

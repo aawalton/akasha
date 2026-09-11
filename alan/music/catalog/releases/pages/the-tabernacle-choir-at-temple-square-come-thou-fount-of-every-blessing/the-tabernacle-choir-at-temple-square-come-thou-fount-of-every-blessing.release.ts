@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareComeThouFountOfEveryBlessing = {
   id: "01a0676a-d71b-701b-b293-2652cff0082e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-come-thou-fount-of-every-blessing",
   title: "Come, Thou Fount of Every Blessing: American Folk Hymns & Spirituals",

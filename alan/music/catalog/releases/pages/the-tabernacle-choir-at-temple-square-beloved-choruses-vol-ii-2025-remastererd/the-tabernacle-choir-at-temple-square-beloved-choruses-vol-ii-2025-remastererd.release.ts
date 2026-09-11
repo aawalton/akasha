@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareBelovedChorusesVolIi2025Remastererd = {
   id: "01a0676a-d718-703e-95cd-0c92241180c5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-beloved-choruses-vol-ii-2025-remastererd",
   title: "Beloved Choruses, Vol II (2025 Remastererd)",

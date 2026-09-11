@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2WillowDancingWitchVersionElviraRemix = {
   id: "01a0676a-d731-7021-a82f-d8e0f8862c67",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-willow-dancing-witch-version-elvira-remix",
   title: "willow [dancing witch version (Elvira remix)]",

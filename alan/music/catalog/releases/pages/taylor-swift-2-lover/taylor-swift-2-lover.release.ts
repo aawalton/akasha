@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2Lover = {
   id: "01a0676a-d724-7009-8407-b0b45d1317f6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-lover",
   title: "Lover",

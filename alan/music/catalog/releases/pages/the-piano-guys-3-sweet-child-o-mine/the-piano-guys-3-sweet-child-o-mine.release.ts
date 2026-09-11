@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3SweetChildOMine = {
   id: "01a0676a-d72b-7001-a242-6eba569b2d72",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-sweet-child-o-mine",
   title: "Sweet Child o' Mine",

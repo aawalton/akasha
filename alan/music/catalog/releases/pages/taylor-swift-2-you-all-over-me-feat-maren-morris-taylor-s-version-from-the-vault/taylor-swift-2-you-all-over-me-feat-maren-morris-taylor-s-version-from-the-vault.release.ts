@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2YouAllOverMeFeatMarenMorrisTaylorSVersionFromTheVault = {
   id: "01a0676a-d732-7001-8e79-e2024f7f5ca4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-you-all-over-me-feat-maren-morris-taylor-s-version-from-the-vault",
   title: "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",

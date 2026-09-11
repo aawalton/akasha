@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraOriginsOfLife = {
   id: "019ea4a5-fbee-7e2b-a85b-84813597a656",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-origins-of-life",
   title: "Origins of Life",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const yaelokreHarpyHare = {
   id: "01a0676a-d71f-7054-8acf-f29dba0b5757",
-  pageTypeSlug: "release",
   type: "release",
   slug: "yaelokre-harpy-hare",
   title: "Harpy Hare",

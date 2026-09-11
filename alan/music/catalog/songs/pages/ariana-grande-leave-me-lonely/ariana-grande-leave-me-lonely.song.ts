@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeLeaveMeLonely = {
   id: "019ea4e3-6824-7ad6-b139-af3111cc3aae",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-leave-me-lonely",
   title: "Leave Me Lonely",

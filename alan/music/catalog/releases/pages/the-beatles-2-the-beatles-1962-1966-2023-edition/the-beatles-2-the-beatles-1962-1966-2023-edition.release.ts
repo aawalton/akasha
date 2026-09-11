@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theBeatles2TheBeatles196219662023Edition = {
   id: "01a0676a-d72c-702b-b44c-760551b18bcd",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-beatles-2-the-beatles-1962-1966-2023-edition",
   title: "The Beatles 1962 – 1966 (2023 Edition)",

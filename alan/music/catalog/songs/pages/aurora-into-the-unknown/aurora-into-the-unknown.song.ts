@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraIntoTheUnknown = {
   id: "019ea4a4-c7de-739b-b03a-7c57a9a35bcd",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-into-the-unknown",
   title: "Into the Unknown",

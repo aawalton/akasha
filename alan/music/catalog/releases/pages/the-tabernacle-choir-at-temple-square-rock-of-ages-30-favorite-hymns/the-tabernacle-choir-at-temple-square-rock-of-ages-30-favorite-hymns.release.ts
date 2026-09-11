@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareRockOfAges30FavoriteHymns = {
   id: "01a0676a-d728-7019-9aba-f7fc2dc5384a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-rock-of-ages-30-favorite-hymns",
   title:

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeALittleMoreHomework = {
   id: "019ea4e1-599c-7dba-ac97-7cbb36c19f21",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-a-little-more-homework",
   title: "A Little More Homework",

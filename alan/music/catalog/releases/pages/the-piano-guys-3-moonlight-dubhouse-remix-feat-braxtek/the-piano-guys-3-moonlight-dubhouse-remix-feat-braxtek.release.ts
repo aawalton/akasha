@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
   id: "01a0676a-d724-7085-ac9c-8275c351fd6b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-moonlight-dubhouse-remix-feat-braxtek",
   title: "Moonlight (Dubhouse Remix) (feat. Braxtek)",

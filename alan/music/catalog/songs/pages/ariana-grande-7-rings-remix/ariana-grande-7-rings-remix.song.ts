@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrande7RingsRemix = {
   id: "019ea4e2-fd9b-72bf-8090-9c8dbf1b2f46",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-7-rings-remix",
   title: "7 rings (remix)",

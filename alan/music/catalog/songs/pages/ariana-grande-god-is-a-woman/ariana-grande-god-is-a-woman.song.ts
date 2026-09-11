@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeGodIsAWoman = {
   id: "019ea4e2-ce02-730a-bc9e-196c9202b522",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-god-is-a-woman",
   title: "God is a woman",

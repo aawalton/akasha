@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeEverytime = {
   id: "019ea4e1-640e-7c19-ad50-12cedc034101",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-everytime",
   title: "everytime",

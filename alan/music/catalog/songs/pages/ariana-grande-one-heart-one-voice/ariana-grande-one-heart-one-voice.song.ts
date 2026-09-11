@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeOneHeartOneVoice = {
   id: "019ea4e6-1fb9-72fc-b84c-3fc3c7f8a45f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-one-heart-one-voice",
   title: "One Heart, One Voice",

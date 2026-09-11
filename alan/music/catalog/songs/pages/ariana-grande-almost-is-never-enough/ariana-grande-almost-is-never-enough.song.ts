@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeAlmostIsNeverEnough = {
   id: "019ea4e2-4dce-7dce-b709-f5756573ebaf",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-almost-is-never-enough",
   title: "Almost Is Never Enough",

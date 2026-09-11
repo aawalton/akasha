@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareBestLovedAmericanFolkSongs = {
   id: "01a0676a-d718-7043-8775-61ef08154f16",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-best-loved-american-folk-songs",
   title: "Best Loved American Folk Songs: This Land is your Land (2024 Remastered)",

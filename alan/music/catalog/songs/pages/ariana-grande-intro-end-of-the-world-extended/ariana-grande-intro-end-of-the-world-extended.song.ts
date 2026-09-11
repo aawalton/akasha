@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeIntroEndOfTheWorldExtended = {
   id: "019ea4e1-9c38-7728-962a-6b361cd09e4d",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-intro-end-of-the-world-extended",
   title: "intro (end of the world) (extended)",

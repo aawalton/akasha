@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeWorstBehavior = {
   id: "019ea4e7-b7c8-7a3a-9ffe-d0e19328ae82",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-worst-behavior",
   title: "worst behavior",

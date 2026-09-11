@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareShowtimeMusicOfBroadwayAndHollywood = {
   id: "01a0676a-d728-707c-b744-4f52195ee1f9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-showtime-music-of-broadway-and-hollywood",
   title: "Showtime! Music of Broadway and Hollywood",

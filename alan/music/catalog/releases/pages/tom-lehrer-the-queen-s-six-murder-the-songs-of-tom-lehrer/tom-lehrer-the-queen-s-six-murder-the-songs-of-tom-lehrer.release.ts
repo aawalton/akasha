@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
   id: "01a0676a-d72e-7000-9ff1-4e23e0ad5c5e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "tom-lehrer-the-queen-s-six-murder-the-songs-of-tom-lehrer",
   title: "The Queen's Six Murder the Songs of Tom Lehrer",

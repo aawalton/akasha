@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandePolkamania = {
   id: "019ea416-367c-7e03-a235-7c2ce16a350f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-polkamania",
   title: "Polkamania!",

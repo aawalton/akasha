@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareWhenYouBelieveANightAtTheMovies = {
   id: "01a0676a-d731-7000-9bd2-026a6c536f03",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-when-you-believe-a-night-at-the-movies",
   title: "When You Believe: A Night at the Movies",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const zaraLarssonAmmunitionDennisRemix = {
   id: "01a0676a-d717-700d-a4e1-3094aacc255e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "zara-larsson-ammunition-dennis-remix",
   title: "Ammunition (DENNIS Remix)",

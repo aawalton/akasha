@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theTabernacleChoirAtTempleSquareOHolyNight = {
   id: "01a0676a-d726-7010-8419-fe7e48516f8c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-o-holy-night",
   title: "O Holy Night: Christmas with The Tabernacle Choir & Orchestra at Temple Square",

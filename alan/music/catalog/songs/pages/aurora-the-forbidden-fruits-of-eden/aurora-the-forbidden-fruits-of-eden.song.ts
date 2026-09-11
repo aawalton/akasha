@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraTheForbiddenFruitsOfEden = {
   id: "019ea4a6-bff8-7fda-98ac-33f9e581a096",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-the-forbidden-fruits-of-eden",
   title: "The Forbidden Fruits of Eden",

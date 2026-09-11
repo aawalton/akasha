@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const arianaGrandeLoveMeHarder = {
   id: "019ea4e6-08cc-7e2d-8f94-467174ec733e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "ariana-grande-love-me-harder",
   title: "Love Me Harder",

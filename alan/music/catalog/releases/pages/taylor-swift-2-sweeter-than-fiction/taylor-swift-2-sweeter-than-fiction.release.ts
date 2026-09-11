@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2SweeterThanFiction = {
   id: "01a0676a-d72b-7004-9054-14df53084c5a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-sweeter-than-fiction",
   title: "Sweeter Than Fiction",

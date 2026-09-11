@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const theBeatles2TheBeatles = {
   id: "01a0676a-d72c-702a-86b8-3dadf95b1959",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-beatles-2-the-beatles",
   title: "The Beatles",

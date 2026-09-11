@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2EverythingHasChangedRemix = {
   id: "01a0676a-d71d-703c-ad3d-eeb74e84d392",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-everything-has-changed-remix",
   title: "Everything Has Changed (Remix)",

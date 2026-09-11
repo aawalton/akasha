@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const auroraUntitled = {
   id: "019ea4a7-c095-7a93-a8db-1ab9d98f6f79",
-  pageTypeSlug: "song",
   type: "song",
   slug: "aurora-untitled",
   title: "イントゥ・ジ・アンノウン〜心のままに",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const thePianoGuys3WhatWasIMadeFor = {
   id: "01a0676a-d730-704b-b10d-864c54f7a3af",
-  pageTypeSlug: "release",
   type: "release",
   slug: "the-piano-guys-3-what-was-i-made-for",
   title: "What Was I Made For?",
