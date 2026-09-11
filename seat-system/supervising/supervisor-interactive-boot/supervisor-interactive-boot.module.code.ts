@@ -1,4 +1,5 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { toolRestrictions } from "akasha/agents/tool-access/tool-access.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {
@@ -38,7 +39,6 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
-import { toolRestrictions } from "akasha/seat-system/tool-access/tool-access.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const ENV_OPTIONAL = shape.string().optional()
