@@ -11,9 +11,8 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "Both holes are closed. `askingOver` resolves a literal opening with a dot from the folder the spelling file sits in, and `namingIn` reads a literal again from each separator, as `ranIn` has always read a body outside TypeScript. Driven over the whole index the way the audit wires it, the check answers 189 refusals over 97 files where it answered 7 over 4: 32 new in a page's own code and 150 new in a test, none in a generator or a fixture. What is left is the remediation, not the reach.",
+        "The reach is right and what is left is remediation that is owned. Two refusals stay on purpose for the ratchet to catch: `unit-writing` prescribes a stable entrypoint rather than an index reach, and `addon-dist-bundles` wants a `folderOf` beside `fileOf` that one caller does not earn. Alan has approved taking `experimental` off once the false positives land. That is the moment the check binds every writer, and the ratchet drains the rest.",
     },
-
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
