@@ -18,7 +18,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textsAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const DECLARES = "page-property"
 
@@ -31,6 +31,8 @@ const RECORD_PROPERTY = "record-property"
 const FILE_NAME = "fileName"
 
 const FOLDER_NAME = "folderName"
+
+const EXTENSIONS = "extensions"
 
 const NAMED_FOLDER_PROPERTY = "named-folder-property"
 
@@ -171,6 +173,13 @@ export function heldBeside(
   return false
 }
 
+export function speaksFor(path: string, value: Value): boolean {
+  if (value[EXTENSIONS] === undefined) return true
+  const endings = textsAt(value, EXTENSIONS)
+  if (endings === null) return false
+  return endings.some((one) => path.endsWith(`.${one}`))
+}
+
 export function heldUnder(
   path: string,
   naming: Iterable<Naming>,
@@ -181,7 +190,7 @@ export function heldUnder(
     const value = one.value
     if (value === null || !wanted(value)) continue
     const folder = value[FOLDER_NAME]
-    if (typeof folder !== "string") continue
+    if (typeof folder !== "string" || !speaksFor(path, value)) continue
     const said = partedIn(one.path)
     if (said === null || said.sections.length > 0) continue
     const held = carriedBy(`${said.pageType}/${said.slug}`)

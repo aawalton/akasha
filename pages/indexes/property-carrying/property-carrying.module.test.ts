@@ -8,16 +8,41 @@ import {
 import {
   type Carried,
   carryingOf,
-  type Facing,
   facingOn,
   generatedAt,
   generatedIn,
   generates,
   heldBeside,
+  heldUnder,
   type Naming,
+  speaksFor,
   toolResolvesPaths,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import {
+  carryingAt,
+  counting,
+  DEEPER,
+  ENTRIES,
+  facingSaying,
+  folderedAt,
+  HELD,
+  ICONS,
+  idOf,
+  NAMING,
+  ONE,
+  OTHER,
+  OWN,
+  OWNER,
+  RECORDS,
+  refusing,
+  SAYS,
+  SECTIONED,
+  saidNever,
+  saidTrue,
+  THING,
+  TWO,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.test-fixtures.ts"
 import {
   listedAndValued,
   relationFiled,
@@ -28,22 +53,6 @@ import type { Value } from "akasha/pages/value-reading/page-value-reading.module
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-const idOf = (one: string): string => `01a058c0-0000-7000-8000-00000000000${one}`
-
-const HELD = idOf("1")
-
-const THING = idOf("2")
-
-const DEEPER = idOf("3")
-
-const RECORDS = idOf("4")
-
-const ONE = idOf("5")
-
-const TWO = idOf("6")
-
-const OTHER = idOf("8")
 
 function pageAt(slug: string, kind: string): string {
   return `akasha/${slug}.${kind}.ts`
@@ -189,32 +198,6 @@ test("the answer is read with no page body standing anywhere", () => {
   expect("carrying" in said ? said.carrying.length : 0).toBe(1)
 })
 
-const NAMING: Naming = {
-  path: "akasha/lockfile.file-property.ts",
-  value: { fileName: "bun.lock", said: true },
-}
-
-const OWNER = "akasha-workspace.workspace.ts"
-
-function saidTrue(value: Value): boolean {
-  return value.said === true
-}
-
-function saidNever(): boolean {
-  return false
-}
-
-function carryingAt(at: string): (named: string) => Carried {
-  return (named) =>
-    named === "file-property/lockfile"
-      ? { carrying: [{ pageTypeSlug: "workspace", path: at, id: ONE, within: null }] }
-      : { refused: "no page property carries that slug" }
-}
-
-function refusing(): Carried {
-  return { refused: "no page property carries that slug" }
-}
-
 test("a property saying a machine writes its file says so of its value", () => {
   expect(generates({ generated: true })).toBe(true)
 })
@@ -235,16 +218,6 @@ test("a property saying nothing of a tool says nothing of its value", () => {
   expect(toolResolvesPaths({ fileName: "package.json" })).toBe(false)
 })
 
-function facingSaying(value: Value | null): Facing {
-  return {
-    kindsUnder: () => ["file-property"],
-    everyOfType: () => [{ path: NAMING.path }],
-    valueAt: () => value,
-    carryingOf: carryingAt(OWNER),
-    filesIn: () => [],
-  }
-}
-
 test("a file beside a property saying a tool resolves its paths is answered so", () => {
   const said = { fileName: "bun.lock", toolResolvesPaths: true }
   expect(toolResolvesPathsIn(facingSaying(said), "bun.lock")).toBe(true)
@@ -253,10 +226,6 @@ test("a file beside a property saying a tool resolves its paths is answered so",
 test("a file beside a property saying nothing of a tool is answered no", () => {
   expect(toolResolvesPathsIn(facingSaying({ fileName: "bun.lock" }), "bun.lock")).toBe(false)
 })
-
-const ENTRIES = idOf("9")
-
-const SECTIONED = "akasha/one.thing.entries.jsonl"
 
 function entriesFiled(root: string, said: Value): undefined {
   const path = pageAt("entries", "file-property")
@@ -274,13 +243,6 @@ function entriesFiled(root: string, said: Value): undefined {
   valueAlsoFiled(root, "file-property", [{ path, value: said }])
   idFiled(root, ENTRIES, [{ path, id: ENTRIES }])
   declares(root, ENTRIES, THING, pageAt("thing", "page-type"))
-}
-
-const SAYS: Value = {
-  id: ENTRIES,
-  pageTypeSlug: "file-property",
-  slug: "entries",
-  propertySlug: "entries",
 }
 
 test("a property naming no file says each file its section names is generated", () => {
@@ -360,19 +322,6 @@ test("a name the carrying refuses holds nothing beside it", () => {
   expect(heldBeside("bun.lock", [NAMING], saidTrue, refusing)).toBe(false)
 })
 
-function counting(seen: { reads: number }): Facing {
-  return {
-    kindsUnder: () => ["file-property"],
-    everyOfType: () => {
-      seen.reads += 1
-      return []
-    },
-    valueAt: () => null,
-    carryingOf: refusing,
-    filesIn: () => [],
-  }
-}
-
 test("what a face says about every file property is worked out once for that face", () => {
   const seen = { reads: 0 }
   const facing = counting(seen)
@@ -396,6 +345,38 @@ test("a face built again works out what it says about every file property again"
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(seen.reads).toBe(6)
+})
+
+function under(path: string, said: Naming): boolean {
+  return heldUnder(path, [said], saidTrue, folderedAt)
+}
+
+test("a file under the folder a property names is held under that property", () => {
+  expect(under("one/Icons/chest.dds", ICONS)).toBe(true)
+})
+
+test("a property naming no endings holds every file under its folder", () => {
+  expect(under("one/Icons/two.module.code.ts", ICONS)).toBe(true)
+})
+
+test("a folder named as a lone dot is the folder the carrying page sits in", () => {
+  expect(under("one/chest.dds", OWN)).toBe(true)
+})
+
+test("a property naming endings holds no file under it carrying another ending", () => {
+  expect(under("one/two.module.code.ts", OWN)).toBe(false)
+})
+
+test("a file outside the folder a property names is held under nothing", () => {
+  expect(under("three/chest.dds", OWN)).toBe(false)
+})
+
+test("a property naming an ending speaks for a file carrying that ending", () => {
+  expect(speaksFor("one/chest.dds", { extensions: ["dds"] })).toBe(true)
+})
+
+test("a property naming no endings speaks for every file", () => {
+  expect(speaksFor("one/two.module.code.ts", {})).toBe(true)
 })
 
 test("the folder a file is beside is the one the index says the carrying page sits in", () => {

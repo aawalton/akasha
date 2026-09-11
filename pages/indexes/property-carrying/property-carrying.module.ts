@@ -8,6 +8,7 @@ export const propertyCarrying = {
   definition: "the pages a page property reaches, and the record each is reached through",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -90,6 +91,14 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement: "A folder claims every file beneath it rather than its own files alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder property naming endings is under only the files carrying one of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder property naming no endings is under every file beneath its folder.",
     },
     {
       invariantKind: "departure",
