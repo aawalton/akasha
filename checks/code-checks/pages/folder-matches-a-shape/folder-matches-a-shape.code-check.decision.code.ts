@@ -171,7 +171,7 @@ export function declaringOver(
 const NOTHING: Holding = { names: [], holds: [], declared: new Set<string>() }
 
 function pairs(page: Held, said: Held): boolean {
-  return page.pageTypeSlug === PAGE_TYPE && page.slug !== null && said.slug === page.slug
+  return page.slug !== null && said.slug === page.slug
 }
 
 const BESIDE = new Set<string>([PACKAGE, DOMAIN])
