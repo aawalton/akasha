@@ -1,14 +1,9 @@
-import { basename, dirname, join } from "node:path"
+import { basename, dirname } from "node:path"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { fileOf, type Held } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import {
-  slugsIn,
-  textAt,
-  type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { slugsIn, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const MODULE = "module"
 
@@ -44,11 +39,6 @@ const CARRIED_AT = "./carried-file.ts"
 
 const CARRIER_AT = "carrier.json"
 
-type Held = {
-  readonly path: string
-  readonly value: Value
-}
-
 export type Copied = {
   readonly from: string
   readonly to: string
@@ -66,26 +56,6 @@ function pageOf(given: string | Reading, pageTypeSlug: string, slug: string): He
     throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
   }
   return { path: listed.path, value }
-}
-
-function fileOf(
-  given: string | Reading,
-  page: Held,
-  pageTypeSlug: string,
-  propertySlug: string
-): string {
-  const fileName = filePropertiesAt(given).get(pageTypeSlug)?.get(propertySlug)
-  if (fileName === undefined) {
-    throw new Error(`a \`${pageTypeSlug}\` page holds no \`${propertySlug}\` in a file of its own`)
-  }
-  if (fileName !== null) return join(dirname(page.path), fileName)
-  const held = textAt(page.value, exportedAs(propertySlug))
-  if (held === null) {
-    throw new Error(`\`${page.path}\` states no \`${propertySlug}\`, so nothing sits beside it`)
-  }
-  const at = besideAt(page.path, propertySlug, held)
-  if (at === null) throw new Error(`\`${page.path}\` is no TypeScript file, and a page is one`)
-  return at
 }
 
 function moduleCopiesIn(given: string | Reading, crate: Held): readonly Copied[] {
