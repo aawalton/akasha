@@ -1,5 +1,5 @@
 import { statSync } from "node:fs"
-import { join } from "node:path"
+import { basename, join } from "node:path"
 import { onceInCall } from "akasha/commands/modules/during-call/during-call.module.code.ts"
 import {
   AKASHA,
@@ -79,21 +79,17 @@ export function akashaSeatPathForCaller(agentId: string): string | null {
 
 const SEAT_SUFFIX = ".seat.ts"
 
-function fileNameOf(page: string): string {
-  return page.slice(page.lastIndexOf("/") + 1)
-}
-
 export function akashaSeatSlugOf(agentId: string): string | null {
   const page = akashaSeatPathForAgent(agentId)
   if (page === null) return null
-  const name = fileNameOf(page)
+  const name = basename(page)
   return name.endsWith(SEAT_SUFFIX) ? name.slice(0, -SEAT_SUFFIX.length) : null
 }
 
 export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const [id, path] of seatsThatExistInAkasha()) {
-    const name = fileNameOf(path)
+    const name = basename(path)
     if (name.endsWith(SEAT_SUFFIX)) found.set(id, name.slice(0, -SEAT_SUFFIX.length))
   }
   return found
