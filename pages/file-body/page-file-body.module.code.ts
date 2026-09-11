@@ -25,7 +25,7 @@ export function filedAmong<T extends Filed>(declared: Iterable<T>): readonly T[]
   return found
 }
 
-function filed(root: string, at: string): boolean {
+export function filed(root: string, at: string): boolean {
   const found = statSync(join(root, at), { throwIfNoEntry: false })
   return found?.isFile() === true
 }
