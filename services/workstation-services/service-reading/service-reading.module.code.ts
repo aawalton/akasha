@@ -1,6 +1,7 @@
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Systemd } from "../properties/systemd.record-property.types.ts"
+import { commandsOf, type Refused, startsIn } from "../run-composing/run-composing.module.code.ts"
 import type { Service } from "../unit-writing/unit-writing.module.code.ts"
 import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
@@ -49,13 +50,23 @@ export function systemdIn(value: Value): Systemd | undefined {
   return took as Systemd
 }
 
-export function serviceIn(value: Value): WorkstationService | null {
+export function runsFrom(root: string, value: Value): readonly string[] | Refused | null {
+  const starts = startsIn(value.starts)
+  return starts === null ? runsIn(value) : commandsOf(root, starts)
+}
+
+export function refusedIn(held: readonly string[] | Refused | null): held is Refused {
+  return held !== null && !Array.isArray(held)
+}
+
+export function serviceIn(root: string, value: Value): WorkstationService | null {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const definition = textAt(value, "definition")
-  const runs = runsIn(value)
+  const runs = runsFrom(root, value)
   const enabled = value.enabled
   if (id === null || slug === null || definition === null || runs === null) return null
+  if (refusedIn(runs)) return null
   if (typeof enabled !== "boolean") return null
   const systemd = systemdIn(value)
   const needsSecrets = value.needsSecrets
@@ -78,7 +89,9 @@ export function serviceIn(value: Value): WorkstationService | null {
 function serviceAt(root: string, path: string): Service | string {
   const value = valueAt(path, root)
   if (value === null) return `${path} did not load, so the service it states is not read`
-  const service = serviceIn(value)
+  const runs = runsFrom(root, value)
+  if (refusedIn(runs)) return `${path} states a start that will not compose — ${runs.refused}`
+  const service = serviceIn(root, value)
   if (service === null) {
     return `${path} states no slug, definition, runs and enabled, so it is no workstation service`
   }

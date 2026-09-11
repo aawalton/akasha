@@ -37,6 +37,19 @@ export const serviceReading = {
       statement: "An option this system does not have is dropped rather than carried through.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A service's command lines are composed from the starts that service's page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no start is read with the command lines that page spells.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start naming a page that is not there refuses the reading by name.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a unit.",
     },

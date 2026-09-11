@@ -19,7 +19,7 @@ const WHOLE = {
 }
 
 test("a value stating everything a service needs is read as one", () => {
-  const service = serviceIn({ ...WHOLE })
+  const service = serviceIn(ROOT, { ...WHOLE })
   expect(service?.slug).toBe("a-service")
   expect(service?.runs).toEqual(["bun a.ts"])
   expect(service?.enabled).toBe(true)
@@ -29,12 +29,29 @@ test("a value missing what a service needs is read as none", () => {
   for (const key of ["id", "slug", "definition", "runs", "enabled"]) {
     const held: Record<string, unknown> = { ...WHOLE }
     delete held[key]
-    expect(serviceIn(held)).toBe(null)
+    expect(serviceIn(ROOT, held)).toBe(null)
   }
 })
 
 test("a value stating enabled as anything but a boolean is read as none", () => {
-  expect(serviceIn({ ...WHOLE, enabled: "yes" })).toBe(null)
+  expect(serviceIn(ROOT, { ...WHOLE, enabled: "yes" })).toBe(null)
+})
+
+test("a value stating a start is read with the command line that start composes", () => {
+  const service = serviceIn(ROOT, {
+    ...WHOLE,
+    runs: ["bun a.ts"],
+    starts: [{ code: "module/service-reading" }],
+  })
+  expect(service?.runs).toEqual([
+    "bun services/workstation-services/service-reading/service-reading.module.code.ts",
+  ])
+})
+
+test("a value stating a start that names no page is read as none", () => {
+  expect(
+    serviceIn(ROOT, { ...WHOLE, starts: [{ code: "module/no-module-is-filed-under-this" }] })
+  ).toBe(null)
 })
 
 test("runs must be a list of commands that are not empty", () => {
