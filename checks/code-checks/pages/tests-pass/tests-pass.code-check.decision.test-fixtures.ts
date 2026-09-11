@@ -148,6 +148,46 @@ utils/text/counted/counted.module.test.ts:
 Ran 13 tests across 2 files. [31.00ms]
 `
 
+export const RAN_LOGGED_ERROR = `bun test v1.3.14 (0d9b296a)
+utils/narrow/sorted-once/sorted-once.module.test.ts:
+16 |   } catch (held) {
+17 |     console.error(held)
+                   ^
+error: refused
+      at <anonymous> (utils/narrow/sorted-once/sorted-once.module.test.ts:17:5)
+.....
+utils/text/counted/counted.module.test.ts:
+4 | test("a count of one is said with the singular", () => {
+5 |   expect(counted(1, "file")).toBe("1 fileish")
+                                 ^
+error: expect(received).toBe(expected)
+Expected: "1 fileish"
+Received: "1 file"
+      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+(fail) a count of one is said with the singular [0.12ms]
+...
+12 pass
+1 fail
+13 expect() calls
+Ran 13 tests across 2 files. [31.00ms]
+`
+
+export const RAN_FOREIGN_HEADER = `bun test v1.3.14 (0d9b296a)
+utils/narrow/sorted-once/sorted-once.module.test.ts:
+..
+../../akasha-serving-fxYI8e/0.test.ts:
+error: expect(received).toBe(expected)
+Expected: "-1.5"
+Received: ""
+      at <anonymous> (utils/narrow/sorted-once/sorted-once.module.test.ts:91:28)
+(fail) a level below zero and between whole numbers crosses the relay whole [1.81ms]
+.
+9 pass
+1 fail
+62 expect() calls
+Ran 10 tests across 1 file. [242.00ms]
+`
+
 export function withoutGuard<T>(run: () => T): T {
   const held = process.env[RUNNING]
   delete process.env[RUNNING]

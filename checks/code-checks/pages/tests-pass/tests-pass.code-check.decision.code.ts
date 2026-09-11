@@ -87,7 +87,9 @@ export function slowlyOf(ran: Ran): string {
 
 const NAMES = ":"
 
-const BLAMES: readonly RegExp[] = [/^\(fail\)/, /^error:/, /^# Unhandled error/]
+const HEADED = /^\S+\.tsx?:$/
+
+const BLAMES: readonly RegExp[] = [/^\(fail\)/, /^# Unhandled error/]
 
 const BOUNDS = /^bun test v|^Ran \d+ tests? across \d+ files?/
 
@@ -102,8 +104,9 @@ export function failedIn(output: string, named: readonly string[]): readonly str
       under = null
       continue
     }
-    if (one.endsWith(NAMES) && held.has(one.slice(0, -NAMES.length))) {
-      under = one.slice(0, -NAMES.length)
+    if (HEADED.test(one)) {
+      const at = one.slice(0, -NAMES.length)
+      under = held.has(at) ? at : null
       continue
     }
     if (under === null || seen.has(under)) continue

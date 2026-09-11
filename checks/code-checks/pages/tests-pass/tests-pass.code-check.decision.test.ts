@@ -31,6 +31,8 @@ import {
   PASSES,
   RAN_CHATTY_CLEAN,
   RAN_CHATTY_PASSED,
+  RAN_FOREIGN_HEADER,
+  RAN_LOGGED_ERROR,
   RAN_ONE_FAILED,
   RAN_TWO_FAILED,
   READS,
@@ -314,6 +316,14 @@ test("a file that printed and passed is left out while the one that failed is na
 
 test("a run whose files only printed blames no file at all", () => {
   expect(failedIn(RAN_CHATTY_CLEAN, [SORTED_AT, COUNTED_AT])).toEqual([])
+})
+
+test("an error a passing file's test logged blames that file with nothing", () => {
+  expect(failedIn(RAN_LOGGED_ERROR, [SORTED_AT, COUNTED_AT])).toEqual([COUNTED_AT])
+})
+
+test("a failure under a file the run did not name blames no file", () => {
+  expect(failedIn(RAN_FOREIGN_HEADER, [SORTED_AT, COUNTED_AT])).toEqual([])
 })
 
 test("what the runner said after a batch ended blames no file in that batch", () => {
