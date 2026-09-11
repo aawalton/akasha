@@ -1,7 +1,7 @@
 import {
   ESO_BAG_BACKPACK,
   ESO_BAG_WORN,
-} from "../eso-bag-constants/eso-bag-constants.module.code.ts"
+} from "akasha/temper/items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
 
 export function isCharacterLocationRow(bagIds: readonly number[]): boolean {
   let sawPersonalBag = false

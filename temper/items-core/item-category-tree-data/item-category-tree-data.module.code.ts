@@ -1,10 +1,10 @@
-import { ITEM_CATEGORY_TREE_ENTRIES_00 } from "../item-category-tree-entries-00/item-category-tree-entries-00.module.code.ts"
-import { ITEM_CATEGORY_TREE_ENTRIES_01 } from "../item-category-tree-entries-01/item-category-tree-entries-01.module.code.ts"
-import { ITEM_CATEGORY_TREE_ENTRIES_02 } from "../item-category-tree-entries-02/item-category-tree-entries-02.module.code.ts"
-import { ITEM_CATEGORY_TREE_ENTRIES_03 } from "../item-category-tree-entries-03/item-category-tree-entries-03.module.code.ts"
-import { ITEM_CATEGORY_TREE_FURNISHINGS_00 } from "../item-category-tree-furnishings-00/item-category-tree-furnishings-00.module.code.ts"
-import { ITEM_CATEGORY_TREE_FURNISHINGS_01 } from "../item-category-tree-furnishings-01/item-category-tree-furnishings-01.module.code.ts"
-import type { ItemCategoryTree } from "../item-category-tree-types/item-category-tree-types.module.code.ts"
+import { ITEM_CATEGORY_TREE_ENTRIES_00 } from "akasha/temper/items-core/item-category-tree-entries-00/item-category-tree-entries-00.module.code.ts"
+import { ITEM_CATEGORY_TREE_ENTRIES_01 } from "akasha/temper/items-core/item-category-tree-entries-01/item-category-tree-entries-01.module.code.ts"
+import { ITEM_CATEGORY_TREE_ENTRIES_02 } from "akasha/temper/items-core/item-category-tree-entries-02/item-category-tree-entries-02.module.code.ts"
+import { ITEM_CATEGORY_TREE_ENTRIES_03 } from "akasha/temper/items-core/item-category-tree-entries-03/item-category-tree-entries-03.module.code.ts"
+import { ITEM_CATEGORY_TREE_FURNISHINGS_00 } from "akasha/temper/items-core/item-category-tree-furnishings-00/item-category-tree-furnishings-00.module.code.ts"
+import { ITEM_CATEGORY_TREE_FURNISHINGS_01 } from "akasha/temper/items-core/item-category-tree-furnishings-01/item-category-tree-furnishings-01.module.code.ts"
+import type { ItemCategoryTree } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 
 export const ITEM_CATEGORY_PRIORITY = [
   "currency",

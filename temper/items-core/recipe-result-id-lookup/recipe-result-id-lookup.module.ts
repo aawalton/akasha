@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const recipeResultIdLookup = {
   id: "01a060c5-3c26-7678-904e-bbb160325597",

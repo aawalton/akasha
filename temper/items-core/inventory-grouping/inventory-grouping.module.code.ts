@@ -1,6 +1,6 @@
-import { classifyItem } from "../classify-item/classify-item.module.code.ts"
-import { esoTraitToTemperId } from "../eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
-import { computeValue } from "../inventory-display-value/inventory-display-value.module.code.ts"
+import { classifyItem } from "akasha/temper/items-core/classify-item/classify-item.module.code.ts"
+import { esoTraitToTemperId } from "akasha/temper/items-core/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
+import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
   type InventoryItemRow,
@@ -9,20 +9,20 @@ import {
   type InventoryTypeGroup,
   type InventoryTypeSummary,
   isInventoryTypeCategory,
-} from "../inventory-grouping-types/inventory-grouping-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryLocationData,
-} from "../inventory-types/inventory-types.module.code.ts"
-import type { CategoryPath } from "../item-category-tree-types/item-category-tree-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import type { CategoryPath } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   classifyLocation,
   getLocationDisplayName,
-} from "../location-classify/location-classify.module.code.ts"
+} from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import {
   type LocationTypeId,
   locationTypes,
-} from "../location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 
 interface FilterableGroup {
   items: readonly InventoryItemRow[]

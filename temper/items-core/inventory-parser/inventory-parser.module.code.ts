@@ -1,18 +1,14 @@
 import { stripEsoNameSuffix } from "akasha/temper/build-support/eso-name/eso-name.module.code.ts"
-import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
-import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import {
   parseCraftingLevels,
   parseOpenCooldowns,
   parseTransmuteCrystalAmount,
   parseTransmuteCrystalCap,
-} from "../inventory-parser-account-state/inventory-parser-account-state.module.code.ts"
+} from "akasha/temper/items-core/inventory-parser-account-state/inventory-parser-account-state.module.code.ts"
 import {
   inferCompanionProperties,
   inferPlayerArmorProperties,
-} from "../inventory-parser-inference/inventory-parser-inference.module.code.ts"
+} from "akasha/temper/items-core/inventory-parser-inference/inventory-parser-inference.module.code.ts"
 import type {
   CharacterCurrencies,
   CurrencyBalances,
@@ -22,7 +18,11 @@ import type {
   InventoryLocationData,
   PlacedFurnishingData,
   PriceSource,
-} from "../inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0

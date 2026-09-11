@@ -2,9 +2,9 @@ import type {
   NetWorthBreakdown,
   NetWorthBreakdownEntry,
   NetWorthResult,
-} from "../inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
-import type { InventoryDatabase } from "../inventory-types/inventory-types.module.code.ts"
-import { computeInventoryTotalValue } from "../inventory-value/inventory-value.module.code.ts"
+} from "akasha/temper/items-core/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
 
 const CURRENCY_LABELS: Record<string, string> = {
   gold: "Gold",

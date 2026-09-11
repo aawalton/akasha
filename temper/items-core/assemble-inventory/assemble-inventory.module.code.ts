@@ -1,5 +1,5 @@
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
-import type { InventoryDatabase } from "../inventory-types/inventory-types.module.code.ts"
 
 function readString(value: unknown): string | undefined {
   return typeof value === "string" ? value : undefined

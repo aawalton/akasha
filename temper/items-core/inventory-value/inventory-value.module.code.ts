@@ -1,5 +1,5 @@
-import { computeValue } from "../inventory-display-value/inventory-display-value.module.code.ts"
-import type { InventoryDatabase } from "../inventory-types/inventory-types.module.code.ts"
+import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 
 export function computeInventoryTotalValue(inventory: InventoryDatabase): number {
   let total = 0

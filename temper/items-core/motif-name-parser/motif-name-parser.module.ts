@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const motifNameParser = {
   id: "01a060c5-3c25-7155-a3ae-66701313f4b7",

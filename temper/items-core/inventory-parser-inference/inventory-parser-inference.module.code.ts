@@ -1,5 +1,5 @@
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
-import type { InventoryItemData } from "../inventory-types/inventory-types.module.code.ts"
 
 const FILTERTYPE_COMPANION = 27
 

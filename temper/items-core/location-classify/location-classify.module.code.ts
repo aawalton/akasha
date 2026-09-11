@@ -1,4 +1,4 @@
-import type { LocationTypeId } from "../location-type-data/location-type-data.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 
 function isAllDigits(s: string): boolean {
   if (s.length === 0) return false

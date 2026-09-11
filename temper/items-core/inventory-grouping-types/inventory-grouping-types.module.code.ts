@@ -1,4 +1,4 @@
-import type { CategoryPath } from "../item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { CategoryPath } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 
 export interface InventoryItemRow {
   key: string

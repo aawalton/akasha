@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shardInventory = {
   id: "01a060c5-3c26-79fe-b04c-459d6e56880b",

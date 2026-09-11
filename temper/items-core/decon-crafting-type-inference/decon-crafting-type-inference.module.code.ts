@@ -1,4 +1,4 @@
-import type { InventoryItemData } from "../inventory-types/inventory-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 
 const CRAFTING_TYPE_INVALID = 0
 const CRAFTING_TYPE_BLACKSMITHING = 1

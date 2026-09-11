@@ -1,18 +1,21 @@
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import { hasSignals, matchesSignals } from "../classify-item/classify-item.module.code.ts"
-import { getCompanionTraitName } from "../companion-trait-labels/companion-trait-labels.module.code.ts"
+import {
+  hasSignals,
+  matchesSignals,
+} from "akasha/temper/items-core/classify-item/classify-item.module.code.ts"
+import { getCompanionTraitName } from "akasha/temper/items-core/companion-trait-labels/companion-trait-labels.module.code.ts"
 import type {
   InventoryItemRow,
   InventoryTypeCategory,
   InventoryTypeEntry,
-} from "../inventory-grouping-types/inventory-grouping-types.module.code.ts"
-import type { InventoryNode } from "../inventory-node-types/inventory-node-types.module.code.ts"
-import { ITEM_CATEGORY_TREE } from "../item-category-tree-data/item-category-tree-data.module.code.ts"
+} from "akasha/temper/items-core/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import type { InventoryNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type {
   ItemCategoryNode,
   ItemCategoryTree,
-} from "../item-category-tree-types/item-category-tree-types.module.code.ts"
-import type { ItemTooltipInstance } from "../item-tooltip-types/item-tooltip-types.module.code.ts"
+} from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { ItemTooltipInstance } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 function buildLeaf(entry: InventoryTypeEntry, useCompanionTraits: boolean): InventoryNode {
   const { row } = entry

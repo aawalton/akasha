@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const locationCharacterRow = {
   id: "01a060c5-3c25-7c08-9ebb-c10e8c2b912f",

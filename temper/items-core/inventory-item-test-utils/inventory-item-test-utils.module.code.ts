@@ -1,4 +1,4 @@
-import type { InventoryItemData } from "../inventory-types/inventory-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 
 export function makeInventoryItem(
   itemId: number,

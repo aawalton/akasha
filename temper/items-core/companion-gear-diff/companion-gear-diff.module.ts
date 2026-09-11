@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionGearDiff = {
   id: "01a0626e-3e05-7e6d-98ef-c71fb6d1a1cb",

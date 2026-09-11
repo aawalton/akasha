@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftingPassiveRanks = {
   id: "01a060c5-3c1e-7453-949f-4ac65d4e7221",

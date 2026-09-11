@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const itemCategoryTreeEntries00 = {
   id: "01a060e4-b741-7f58-bbaa-d5ca7b9e685e",
