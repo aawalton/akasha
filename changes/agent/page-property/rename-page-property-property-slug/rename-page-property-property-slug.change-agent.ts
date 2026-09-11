@@ -9,6 +9,7 @@ export const renamePagePropertyPropertySlug = {
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property-property-slug",
   definition: "one property's key spelled anew on that property's page and on every page with it",
+  takesAtMost: true,
   code: "ts",
   test: "ts",
   invariants: [

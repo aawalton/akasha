@@ -35,11 +35,18 @@ export const change = {
     "module/key-requiring",
     "module/value-carrying",
     "boolean-property/temporary",
+    "boolean-property/takes-at-most",
     "number-property/change-max-cpu-seconds",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
     { pageProperty: "boolean-property/temporary", required: false, many: false, default: "false" },
+    {
+      pageProperty: "boolean-property/takes-at-most",
+      required: false,
+      many: false,
+      default: "false",
+    },
     { pageProperty: "relation-property/change-mode", required: true, many: false },
     {
       pageProperty: "relation-property/change-target-type",

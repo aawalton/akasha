@@ -10,6 +10,7 @@ export const copyPropertyOnEveryPage = {
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:
     "one key's value written under another key on every page of one page type, the first key staying",
+  takesAtMost: true,
   code: "ts",
   test: "ts",
   invariants: [

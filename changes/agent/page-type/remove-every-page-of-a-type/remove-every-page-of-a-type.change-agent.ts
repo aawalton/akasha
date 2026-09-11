@@ -9,6 +9,7 @@ export const removeEveryPageOfAType = {
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every page of one page type taken away, each with the files beside it",
+  takesAtMost: true,
   code: "ts",
   test: "ts",
   invariants: [
