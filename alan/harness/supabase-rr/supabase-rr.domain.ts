@@ -26,6 +26,7 @@ export const supabaseRr = {
     "module/supabase-provider",
     "module/client-env-define",
     "module/page-listing-loader",
+    "module/sign-in-form",
   ],
   invariants: [
     {
