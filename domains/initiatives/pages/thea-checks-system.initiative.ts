@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "One check refuses, at 215. 43 cannot be mended by any work and have not moved while 185 became 172: 34 answer a constant, and 9 more are exports the router finds by name in the file, which cannot leave it. The check's own departure that a body with nothing to change cannot drift already covers the first, and the same page says widening an exemption narrows the check, so both are Alan's. Print the rule and blank every free name before believing a family; it pairs declarations only.",
+        "One check refuses, at 197. 43 cannot be mended by any work: 34 answer a constant, 9 are exports a router finds by name, and the check's own departures cover both, so both are Alan's. It pairs declarations only, so a rule written inline is invisible and folding one clears nothing. Look for the home before opening one: three times it was already there under one caller's folder, unpaired because a free name or a spread made its rule text differ. A new home can pair with a copy private to a file.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
