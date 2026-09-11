@@ -1,5 +1,5 @@
+import { controlOf, setControl } from "akasha/seat-system/seat-control/seat-control.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
-import { controlOf, setControl } from "../seat-control/seat-control.module.code.ts"
 
 const DEFAULT_TIMEOUT_MS = 30_000
 

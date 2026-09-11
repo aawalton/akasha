@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { type Answerable, refusedAnswering } from "./seat-answering.module.code.ts"
+import {
+  type Answerable,
+  refusedAnswering,
+} from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 
 const AMONG: Answerable = {
   personIsPrincipal: (principal) => principal === "alan",

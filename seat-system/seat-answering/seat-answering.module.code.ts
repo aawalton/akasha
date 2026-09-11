@@ -2,8 +2,8 @@ import {
   HANDLER,
   identityHeardFrom,
   personPrincipals,
-} from "../compose-seat-name/compose-seat-name.module.code.ts"
-import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { personaIsDefault } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 
 export type Answering = {
   readonly persona: string | null

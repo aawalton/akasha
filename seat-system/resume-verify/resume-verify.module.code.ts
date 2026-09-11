@@ -2,12 +2,12 @@ import {
   type ResumeSeatInput,
   resumeSeat,
   type SeatHandle,
-} from "../resume-seat/resume-seat.module.code.ts"
+} from "akasha/seat-system/resume-seat/resume-seat.module.code.ts"
 import {
   decideReviveIoVerify,
   lastAdvancementMs,
   type ReviveIoVerdict,
-} from "../seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
+} from "akasha/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 
 export interface ResumeVerifyInput extends ResumeSeatInput {
   readonly graceMs: number

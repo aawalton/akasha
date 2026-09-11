@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bare } from "./seat-beside.module.code.ts"
+import { bare } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
 
 test("a record carrying a value and a stamp is written as the value", () => {
   expect(bare({ value: true, at: 1 })).toBe(true)

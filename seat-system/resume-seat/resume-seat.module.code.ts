@@ -7,23 +7,23 @@ import {
   type LaunchSeatResult,
   launchSeatUnderTmux,
   liveSessionHolds,
-} from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
-import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
-import { terminatePriorAgentTree } from "../seat-recovery/seat-recovery.module.code.ts"
-import { resolveRelaunchTarget } from "../seat-relaunch-target/seat-relaunch-target.module.code.ts"
-import { decideReviveLaunch } from "../seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
+} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+import { terminatePriorAgentTree } from "akasha/seat-system/seat-recovery/seat-recovery.module.code.ts"
+import { resolveRelaunchTarget } from "akasha/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts"
+import { decideReviveLaunch } from "akasha/seat-system/seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
 import {
   decideSpawnGuard,
   type SpawnGuardDecision,
   type SpawnGuardInput,
-} from "../spawn-guard/spawn-guard.module.code.ts"
-import { clearRequestedAction } from "../supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import { SEAT_START_DIR } from "../supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/spawn-guard/spawn-guard.module.code.ts"
+import { clearRequestedAction } from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import {
   type MaterializeTranscriptResult,
   materializeLocalTranscript,
-} from "../transcript-materialize/transcript-materialize.module.code.ts"
+} from "akasha/seat-system/transcript-materialize/transcript-materialize.module.code.ts"
 
 export interface ResumeTarget {
   readonly name: string | null

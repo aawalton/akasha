@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { dropAttachedSessions, seatIsAttached, sessionsIn } from "./seat-attached.module.code.ts"
+import {
+  dropAttachedSessions,
+  seatIsAttached,
+  sessionsIn,
+} from "akasha/seat-system/seat-attached/seat-attached.module.code.ts"
 
 test("every session tmux names is one somebody is attached to", () => {
   expect([...sessionsIn("akasha\nalan\nastra")].sort()).toEqual(["akasha", "alan", "astra"])

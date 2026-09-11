@@ -1,14 +1,14 @@
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import {
   readPayload,
   record,
   rejectUnknownFlags,
 } from "akasha/seat-system/payload/payload.module.code.ts"
+import { stateSeatFromArgv } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
 import {
   type SeatWhoami,
   seatWhoami,
 } from "akasha/seat-system/seat-whoami/seat-whoami.module.code.ts"
-import { fail } from "../command-failing/command-failing.module.code.ts"
-import { stateSeatFromArgv } from "../seat-running/seat-running.module.code.ts"
 
 const VALUES: readonly (readonly [string, string])[] = [
   ["agent", "--agent"],

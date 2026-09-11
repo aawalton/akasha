@@ -8,8 +8,8 @@ import {
   besideWrittenAtMs,
   CARRIED,
   RECORDS,
-} from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import type { SeatRecord } from "../seat-record/seat-record.module.code.ts"
+} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import type { SeatRecord } from "akasha/seat-system/seat-record/seat-record.module.code.ts"
 
 function heldAt(values: Record<string, unknown>, at: readonly string[]): unknown {
   const [one, two] = at

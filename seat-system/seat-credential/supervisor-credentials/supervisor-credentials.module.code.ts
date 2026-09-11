@@ -15,25 +15,25 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "../../oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
-} from "../../oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
-import {
-  configDirForAccount,
-  LOG,
-} from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
-import { guardTick } from "../../supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import { writePacingSnapshot } from "../../supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
+} from "akasha/seat-system/oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import {
   isAccountTerminal,
   markAccountTerminal,
-} from "../account-terminal/account-terminal.module.code.ts"
+} from "akasha/seat-system/seat-credential/account-terminal/account-terminal.module.code.ts"
 import {
   reportOAuthRecovered,
   reportTerminalOAuthError,
-} from "../oauth-health-lines/oauth-health-lines.module.code.ts"
+} from "akasha/seat-system/seat-credential/oauth-health-lines/oauth-health-lines.module.code.ts"
+import {
+  configDirForAccount,
+  LOG,
+} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { guardTick } from "akasha/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { writePacingSnapshot } from "akasha/seat-system/supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 export async function runCredentialPullTick(args: {
   account: string

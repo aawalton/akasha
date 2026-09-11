@@ -19,8 +19,8 @@ import {
   CARRIED,
   type Kind,
   RECORDS,
-} from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaSeatRelPath } from "../seat-page-akasha/seat-page-akasha.module.code.ts"
+} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatRelPath } from "akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
 
 export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
