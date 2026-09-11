@@ -8,4 +8,5 @@ export const alanwaltonKokoroTts = {
   definition: "the three parts declaring the kokoro plugin, sourced in order",
   shell: "sh",
   sourced: true,
+  scripting: {},
 } as const satisfies ShellScript
