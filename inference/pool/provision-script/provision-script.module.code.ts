@@ -5,7 +5,11 @@ import {
   plistPath,
   serviceDir,
 } from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
-import type { InferenceHost } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import {
+  type ActualResource,
+  ActualResourceSchema,
+  type InferenceHost,
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 
 export interface Provisioned {
@@ -223,4 +227,54 @@ export function buildPruneScript(args: { host: InferenceHost; name: string }): s
     `conda env remove -n ${quoted(condaEnvName(name))} -y 2>/dev/null || true`,
     "",
   ].join("\n")
+}
+
+export function parseActualState(raw: string): readonly ActualResource[] {
+  const acc = new Map<
+    string,
+    {
+      dirPresent: boolean
+      inputsHash: string | null
+      launchdLoaded: boolean
+      condaEnvPresent: boolean
+      condaEnvHealthy: boolean
+    }
+  >()
+  const ensure = (
+    name: string
+  ): {
+    dirPresent: boolean
+    inputsHash: string | null
+    launchdLoaded: boolean
+    condaEnvPresent: boolean
+    condaEnvHealthy: boolean
+  } => {
+    let e = acc.get(name)
+    if (e === undefined) {
+      e = {
+        dirPresent: false,
+        inputsHash: null,
+        launchdLoaded: false,
+        condaEnvPresent: false,
+        condaEnvHealthy: true,
+      }
+      acc.set(name, e)
+    }
+    return e
+  }
+  for (const line of raw.split("\n")) {
+    const parts = line.trim().split(/\s+/)
+    if (parts[0] === "DIR" && parts[1] !== undefined) {
+      const e = ensure(parts[1])
+      e.dirPresent = true
+      e.inputsHash = parts[2] === undefined || parts[2] === "NONE" ? null : parts[2]
+    } else if (parts[0] === "LAUNCHD" && parts[1] !== undefined) {
+      ensure(parts[1]).launchdLoaded = true
+    } else if (parts[0] === "CONDA" && parts[1] !== undefined) {
+      ensure(parts[1]).condaEnvPresent = true
+    } else if (parts[0] === "CONDABAD" && parts[1] !== undefined) {
+      ensure(parts[1]).condaEnvHealthy = false
+    }
+  }
+  return [...acc.entries()].map(([name, e]) => ActualResourceSchema.parse({ name, ...e }))
 }

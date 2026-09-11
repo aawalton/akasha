@@ -10,12 +10,10 @@ import {
   serviceDir,
   TRAFFIC_COP_SERVICE_NAME,
 } from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
-import {
-  type ActualResource,
-  ActualResourceSchema,
-  type InferenceHost,
-  type InferenceService,
-  type ReconcilePlan,
+import type {
+  InferenceHost,
+  InferenceService,
+  ReconcilePlan,
 } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 import {
   MANAGED_ENVS,
@@ -38,6 +36,7 @@ import {
   buildPruneScript,
   buildQueryScript,
   type Provisioned,
+  parseActualState,
 } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
 import { computePlan } from "akasha/inference/pool/reconcile-plan/reconcile-plan.module.code.ts"
 import { foldServiceManifest } from "akasha/inference/pool/service-hash/service-hash.module.code.ts"
@@ -77,56 +76,6 @@ function sourceFileSet(workspace: string, sourceDir: string): readonly string[] 
     .filter((e) => e.isFile())
     .map((e) => relative(workspace, join(e.parentPath, e.name)))
     .sort()
-}
-
-export function parseActualState(raw: string): readonly ActualResource[] {
-  const acc = new Map<
-    string,
-    {
-      dirPresent: boolean
-      inputsHash: string | null
-      launchdLoaded: boolean
-      condaEnvPresent: boolean
-      condaEnvHealthy: boolean
-    }
-  >()
-  const ensure = (
-    name: string
-  ): {
-    dirPresent: boolean
-    inputsHash: string | null
-    launchdLoaded: boolean
-    condaEnvPresent: boolean
-    condaEnvHealthy: boolean
-  } => {
-    let e = acc.get(name)
-    if (e === undefined) {
-      e = {
-        dirPresent: false,
-        inputsHash: null,
-        launchdLoaded: false,
-        condaEnvPresent: false,
-        condaEnvHealthy: true,
-      }
-      acc.set(name, e)
-    }
-    return e
-  }
-  for (const line of raw.split("\n")) {
-    const parts = line.trim().split(/\s+/)
-    if (parts[0] === "DIR" && parts[1] !== undefined) {
-      const e = ensure(parts[1])
-      e.dirPresent = true
-      e.inputsHash = parts[2] === undefined || parts[2] === "NONE" ? null : parts[2]
-    } else if (parts[0] === "LAUNCHD" && parts[1] !== undefined) {
-      ensure(parts[1]).launchdLoaded = true
-    } else if (parts[0] === "CONDA" && parts[1] !== undefined) {
-      ensure(parts[1]).condaEnvPresent = true
-    } else if (parts[0] === "CONDABAD" && parts[1] !== undefined) {
-      ensure(parts[1]).condaEnvHealthy = false
-    }
-  }
-  return [...acc.entries()].map(([name, e]) => ActualResourceSchema.parse({ name, ...e }))
 }
 
 export function parseMfluxTools(raw: string): readonly string[] {
