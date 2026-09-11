@@ -9,6 +9,7 @@ import type {
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -51,10 +52,6 @@ function parseTimestamp(value: unknown): number {
     if (!Number.isNaN(parsed)) return parsed
   }
   return 0
-}
-
-function parseString(value: unknown, fallback = ""): string {
-  return typeof value === "string" ? value : fallback
 }
 
 function parseStringOrNull(value: unknown): string | null {

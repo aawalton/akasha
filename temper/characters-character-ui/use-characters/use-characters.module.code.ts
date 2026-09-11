@@ -16,6 +16,7 @@ import {
   characterRoles as roles,
 } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
@@ -39,10 +40,6 @@ function parseTimestamp(value: unknown): number {
     if (!Number.isNaN(parsed)) return parsed
   }
   return 0
-}
-
-function parseString(value: unknown, fallback = ""): string {
-  return typeof value === "string" ? value : fallback
 }
 
 function parseStringOrNull(value: unknown): string | null {

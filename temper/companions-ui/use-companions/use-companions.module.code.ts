@@ -20,6 +20,7 @@ import {
 } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
 import type { CompanionVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
@@ -42,10 +43,6 @@ function parseTimestamp(value: unknown): number {
     if (!Number.isNaN(parsed)) return parsed
   }
   return 0
-}
-
-function parseString(value: unknown, fallback = ""): string {
-  return typeof value === "string" ? value : fallback
 }
 
 function parseStringOrNull(value: unknown): string | null {
