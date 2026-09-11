@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts"
+import { COMMAND_AT } from "akasha/changes/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test-fixtures.ts"
 import {
   NOTHING_OVER,
   type World,
@@ -24,7 +25,7 @@ const HELD = "imessage/imessage.workspace-package.ts"
 const UNDER = "command-system/namespaces/pages/imessage.namespace.ts"
 
 const PATHS: Readonly<Record<string, string>> = {
-  [COMMAND]: "imessage/commands/contacts/imessage-contacts.command.ts",
+  [COMMAND]: COMMAND_AT,
   [NAMESPACE]: UNDER,
   [PACKAGE]: HELD,
 }

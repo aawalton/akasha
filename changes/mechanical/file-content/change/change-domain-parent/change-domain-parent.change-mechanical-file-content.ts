@@ -11,6 +11,7 @@ export const changeDomainParent = {
   definition: "one page made a part of another page rather than of the page naming it now",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
