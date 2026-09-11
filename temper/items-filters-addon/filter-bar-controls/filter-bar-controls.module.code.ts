@@ -8,12 +8,12 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import type { FilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
 import type {
   AnyTemperFilter,
   FilterEditorOption,
   FilterRangeValue,
 } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
-import type { FilterController } from "../panel-filter-binding/panel-filter-binding.module.code.ts"
 
 export const COLOR_PRIMARY = [0.8442, 0.8442, 0.8442] as const
 export const COLOR_SECONDARY = [0.6447, 0.6447, 0.6447] as const
