@@ -122,7 +122,7 @@ export const check = {
         "No check but the compiler check exists only to test the claims the compiler tests.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "upkeep",
       statement: "A check that only repeats the compiler does not land.",
     },
   ],
