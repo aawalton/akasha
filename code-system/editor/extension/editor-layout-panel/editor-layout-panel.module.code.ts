@@ -1,16 +1,19 @@
-import * as vscode from "vscode"
 import type {
   LayoutGroup,
   LayoutTab,
   TabKind,
-} from "../editor-layout-columns/editor-layout-columns.module.code.ts"
+} from "akasha/code-system/editor/extension/editor-layout-columns/editor-layout-columns.module.code.ts"
 import {
   recordObservation,
   recordSweep,
-} from "../observation-store/observation-store.module.code.ts"
-import { readSeatLookup, readSeatTerminals } from "../seat-terminals/seat-terminals.module.code.ts"
-import { PROCESS_ID_TIMEOUT_MS } from "../terminal-pids/terminal-pids.module.code.ts"
-import { readProcess } from "../window-identity/window-identity.module.code.ts"
+} from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import {
+  readSeatLookup,
+  readSeatTerminals,
+} from "akasha/code-system/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+import { PROCESS_ID_TIMEOUT_MS } from "akasha/code-system/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import { readProcess } from "akasha/code-system/editor/extension/window-identity/window-identity.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "editor-layout"
 
