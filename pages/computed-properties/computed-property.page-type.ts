@@ -104,13 +104,12 @@ export const computedProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A calculation's `Held` type argument restates the kind of value its computed property states.",
+      statement: "A calculation's `Held` type argument is the type written beside its property.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "No check reads a computed property's stated kind against its calculation's `Held`.",
+        "The compiler reads a computed property's stated kind against what its calculation answers.",
     },
   ],
   types: "ts",
