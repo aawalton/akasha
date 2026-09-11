@@ -13,7 +13,7 @@ import {
   STORY_ADDRESS,
   STORY_PAGE_TYPE,
   STORY_SLUG,
-} from "../chapter/chapter.module.code.ts"
+} from "akasha/story/wandering-inn/chapter/chapter.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 const PROSE = "prose"

@@ -2,17 +2,21 @@ import {
   chapterTitleOf,
   isPatronTitle,
   strippedOfTrailingNav,
-} from "../chapter/chapter.module.code.ts"
+} from "akasha/story/wandering-inn/chapter/chapter.module.code.ts"
 import {
   assertStoryExists,
   fileChapter,
   filedChapterLinks,
-} from "../chapter-filing/chapter-filing.module.code.ts"
-import { type ListedChapter, openSite, type Site } from "../site/site.module.code.ts"
+} from "akasha/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts"
+import {
+  type ListedChapter,
+  openSite,
+  type Site,
+} from "akasha/story/wandering-inn/site/site.module.code.ts"
 import {
   type RunCounts,
   recordingRun,
-} from "../sync-run-recording/sync-run-recording.module.code.ts"
+} from "akasha/story/wandering-inn/sync-run-recording/sync-run-recording.module.code.ts"
 
 const SOURCE = "wandering-inn"
 const BETWEEN_CHAPTERS_MS = 1000
