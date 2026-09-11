@@ -224,7 +224,7 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
 
 export type Carried = { at: string; given: unknown }
 
-export function worldRecording(carried: Carried): World {
+export function worldRecording(carried: Carried, answers: Answer = NOTHING_OVER): World {
   return {
     root: "/nowhere",
     index: {} as World["index"],
@@ -236,7 +236,7 @@ export function worldRecording(carried: Carried): World {
     reaching: (_world, at, given) => {
       carried.at = at
       carried.given = given
-      return Promise.resolve(NOTHING_OVER)
+      return Promise.resolve(answers)
     },
   }
 }

@@ -42,6 +42,14 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "That world answers the answer the test states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test stating no answer is answered an answer with no edit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index face is built here from the answers a test states.",
     },
     {
