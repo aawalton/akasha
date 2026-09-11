@@ -174,6 +174,12 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     if (slug !== null) members.set(slug, membersIn(value))
   }
 
+  for (const [slug, named] of members) {
+    if (fields.has(slug)) continue
+    const found = named.flatMap((one) => fields.get(one) ?? [])
+    if (found.length > 0) fields.set(slug, [...new Set(found)])
+  }
+
   const targetOf = (propertySlug: string): Wanted => {
     const held = target.get(propertySlug)
     if (held !== undefined) return held

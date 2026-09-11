@@ -278,6 +278,79 @@ test("an entry shape declaring a relation is answered, and one declaring none is
   ])
 })
 
+function oneOfRecords(): { readonly root: string; readonly repo: string } {
+  const repo = scratch.rootFor("akasha-reaching-oneof-repo-")
+  const root = scratch.rootFor("akasha-reaching-oneof-root-")
+  const kept = new Map<string, string[]>()
+  const filed = (at: string, line: string): undefined => {
+    lineFiled(root, at, line)
+  }
+  const page = (at: string, value: Record<string, unknown>): undefined => {
+    writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
+    const type = String(value["pageTypeSlug"])
+    kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
+    filed(
+      `identity/page-type/${type}/slug/${String(value["slug"])}.jsonl`,
+      JSON.stringify({ path: at, id: value["id"] })
+    )
+  }
+  page("holder.page-type.ts", { id: "1", pageTypeSlug: "page-type", slug: "holder" })
+  page("one-held.record-property.ts", {
+    id: "2",
+    pageTypeSlug: "record-property",
+    slug: "one-held",
+    propertySlug: "one-held",
+    properties: [{ pageProperty: "relation-property/part-slugs" }],
+  })
+  page("many-held.record-property.ts", {
+    id: "3",
+    pageTypeSlug: "record-property",
+    slug: "many-held",
+    propertySlug: "many-held",
+    properties: [{ pageProperty: "relation-property/note-slug" }],
+  })
+  page("holds.one-of-property.ts", {
+    id: "4",
+    pageTypeSlug: "one-of-property",
+    slug: "holds",
+    propertySlug: "holds",
+    members: ["record-property/one-held", "record-property/many-held"],
+  })
+  const every: readonly (readonly [string, string, string | null])[] = [
+    ["part-slugs", "relation-property", "domain"],
+    ["note-slug", "relation-property", "note"],
+    ["one-held", "record-property", null],
+    ["many-held", "record-property", null],
+    ["holds", "one-of-property", null],
+  ]
+  const lines: string[] = []
+  for (const [slug, pageTypeSlug, target] of every) {
+    const line = declared(slug, pageTypeSlug, target)
+    filed(`schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`, line)
+    lines.push(line)
+  }
+  filed(DECLARING_AT, lines.join("\n"))
+  for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
+  return { root, repo }
+}
+
+test("a property naming record members has every field those records declare", () => {
+  const { root, repo } = oneOfRecords()
+  const known = knownAt(root, repo)
+
+  expect(known.fieldsOf("holds")).toEqual(["part-slugs", "note-slug"])
+  expect(known.fieldOfKey("holds", "partSlugs")).toBe("part-slugs")
+  expect(known.fieldOfKey("holds", "noteSlug")).toBe("note-slug")
+  expect(known.fieldOfKey("holds", "design")).toBe(null)
+})
+
+test("a property naming members that declare no fields has none of its own", () => {
+  const { root, repo } = grounded()
+  const known = knownAt(root, repo)
+
+  expect(known.fieldsOf("either")).toEqual([])
+})
+
 test("a name carrying a scope under a page type the target does not admit is refused", () => {
   const reached = reaches("page-property/held/b", "domain", shaped({ "page-property/held/b": B }))
 

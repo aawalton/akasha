@@ -68,6 +68,14 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "A property naming members has every field those members declare.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property declaring fields of its own takes none from its members.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value the index cannot resolve is reported rather than thrown.",
     },
     {
