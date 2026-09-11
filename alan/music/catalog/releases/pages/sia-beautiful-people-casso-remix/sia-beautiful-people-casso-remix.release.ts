@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaBeautifulPeopleCassoRemix = {
   id: "01a0676a-d718-7029-9ddb-12ad08c6bf7b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-beautiful-people-casso-remix",
   title: "Beautiful People (Cassö Remix)",

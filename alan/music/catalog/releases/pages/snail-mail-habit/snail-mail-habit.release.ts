@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const snailMailHabit = {
   id: "01a0676a-d71f-7036-9440-ed095e74e42a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "snail-mail-habit",
   title: "Habit",

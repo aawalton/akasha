@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidCruiseControl = {
   id: "01a0676a-d71b-7040-bf8b-d3bddfcd17b2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-cruise-control",
   title: "Cruise Control",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaManchildTokimonstaRemix = {
   id: "01a0676a-d724-7036-bd71-3eb13ad06fe6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-manchild-tokimonsta-remix",
   title: "Manchild (TOKiMONSTA Remix)",

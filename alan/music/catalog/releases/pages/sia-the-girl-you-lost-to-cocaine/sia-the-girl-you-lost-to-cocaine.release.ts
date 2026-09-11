@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaTheGirlYouLostToCocaine = {
   id: "01a0676a-d72d-7014-80d4-8749656393e1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-the-girl-you-lost-to-cocaine",
   title: "The Girl You Lost To Cocaine",

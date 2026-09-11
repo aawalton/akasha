@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidMySunnyDay = {
   id: "01a0676a-d725-7035-b586-c5d2fc42b647",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-my-sunny-day",
   title: "My Sunny Day",

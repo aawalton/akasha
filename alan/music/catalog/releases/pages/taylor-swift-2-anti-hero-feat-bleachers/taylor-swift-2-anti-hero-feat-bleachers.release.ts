@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2AntiHeroFeatBleachers = {
   id: "01a0676a-d717-7027-a775-e3ab67f130c9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-anti-hero-feat-bleachers",
   title: "Anti-Hero (feat. Bleachers)",

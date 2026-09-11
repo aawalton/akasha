@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
   id: "01a0676a-d715-702c-961c-19892aeb1e63",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-a-little-space-feat-yunho-san-jongho-of-ateez",
   title: "A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)",

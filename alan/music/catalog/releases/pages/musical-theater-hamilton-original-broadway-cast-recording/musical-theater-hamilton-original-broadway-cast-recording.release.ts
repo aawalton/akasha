@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const musicalTheaterHamiltonOriginalBroadwayCastRecording = {
   id: "01a0676a-d71f-7041-ba9e-31f1366423a2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "musical-theater-hamilton-original-broadway-cast-recording",
   title: "Hamilton (Original Broadway Cast Recording)",

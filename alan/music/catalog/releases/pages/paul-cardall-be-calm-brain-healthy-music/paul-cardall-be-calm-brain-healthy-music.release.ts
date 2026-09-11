@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallBeCalmBrainHealthyMusic = {
   id: "01a0676a-d718-701b-a127-d7532ebee44c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-be-calm-brain-healthy-music",
   title: "Be Calm: Brain Healthy Music",

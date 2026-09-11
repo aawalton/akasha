@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const reneeRappSnowAngelDeluxe = {
   id: "01a0676a-d729-703a-a4cb-fd4a093ec941",
-  pageTypeSlug: "release",
   type: "release",
   slug: "renee-rapp-snow-angel-deluxe",
   title: "Snow Angel (Deluxe)",

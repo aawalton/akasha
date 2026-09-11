@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixIJustCalledToSayILoveYou = {
   id: "01a0676a-d721-7022-bd57-a74ab957bd3c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-i-just-called-to-say-i-love-you",
   title: "I Just Called To Say I Love You",

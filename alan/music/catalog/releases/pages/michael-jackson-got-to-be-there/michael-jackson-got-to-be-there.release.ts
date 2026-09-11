@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonGotToBeThere = {
   id: "01a0676a-d71f-7022-8152-00b68fa5f2ea",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-got-to-be-there",
   title: "Got To Be There",

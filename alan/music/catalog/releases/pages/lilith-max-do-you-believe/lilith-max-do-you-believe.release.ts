@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxDoYouBelieve = {
   id: "01a0676a-d71c-701a-a8f0-85ff29e4a0ae",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",

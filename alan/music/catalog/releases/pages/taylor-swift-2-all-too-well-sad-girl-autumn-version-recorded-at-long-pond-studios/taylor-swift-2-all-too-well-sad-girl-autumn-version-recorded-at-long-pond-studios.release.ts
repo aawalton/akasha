@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios = {
   id: "01a0676a-d716-702a-adf2-e6231de1fa96",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-all-too-well-sad-girl-autumn-version-recorded-at-long-pond-studios",
   title: "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",

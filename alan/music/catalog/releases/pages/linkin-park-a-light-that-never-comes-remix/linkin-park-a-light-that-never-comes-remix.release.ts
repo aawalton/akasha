@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkALightThatNeverComesRemix = {
   id: "01a0676a-d715-702b-ad0d-b69117e8b0af",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-a-light-that-never-comes-remix",
   title: "A LIGHT THAT NEVER COMES REMIX",

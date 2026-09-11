@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaUnstoppableSpedUp = {
   id: "01a0676a-d72f-7050-9f0b-00eb38447202",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-unstoppable-sped-up",
   title: "Unstoppable (Sped Up)",

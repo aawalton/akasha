@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const rockapellaDonTTellMeYouDo = {
   id: "01a0676a-d71c-7025-9542-822474e74b2b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "rockapella-don-t-tell-me-you-do",
   title: "Don't Tell Me You Do",

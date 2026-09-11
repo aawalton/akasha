@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixWhenYouBelieveJohnJCCarrRemix = {
   id: "01a0676a-d731-7003-ba72-bd470cbaa614",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-when-you-believe-john-j-c-carr-remix",
   title: 'When You Believe (John "J-C" Carr Remix)',

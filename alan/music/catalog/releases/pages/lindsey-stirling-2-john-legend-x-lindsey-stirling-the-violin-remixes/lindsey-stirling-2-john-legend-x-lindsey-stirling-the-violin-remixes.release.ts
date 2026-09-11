@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixes = {
   id: "01a0676a-d722-7025-88c8-9f96919a1662",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-john-legend-x-lindsey-stirling-the-violin-remixes",
   title: "John Legend x Lindsey Stirling: The Violin Remixes",

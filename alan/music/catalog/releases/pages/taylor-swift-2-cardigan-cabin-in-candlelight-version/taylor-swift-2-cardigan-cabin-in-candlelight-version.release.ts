@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2CardiganCabinInCandlelightVersion = {
   id: "01a0676a-d719-7063-9ce3-7b69e3f07943",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-cardigan-cabin-in-candlelight-version",
   title: "cardigan (cabin in candlelight version)",

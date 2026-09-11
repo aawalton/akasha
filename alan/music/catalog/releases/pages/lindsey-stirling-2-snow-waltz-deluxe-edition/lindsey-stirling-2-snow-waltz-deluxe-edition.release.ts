@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2SnowWaltzDeluxeEdition = {
   id: "01a0676a-d729-703d-b26f-1a7c8d365b3b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-snow-waltz-deluxe-edition",
   title: "Snow Waltz (Deluxe Edition)",

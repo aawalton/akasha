@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxSeraph = {
   id: "01a0676a-d728-7062-91d1-20cc16856160",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-seraph",
   title: "Seraph",

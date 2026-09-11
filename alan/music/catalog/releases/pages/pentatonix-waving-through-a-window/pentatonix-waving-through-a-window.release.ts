@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixWavingThroughAWindow = {
   id: "01a0676a-d730-7024-946e-fa2efa2ffa96",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-waving-through-a-window",
   title: "Waving Through a Window",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonSlaveToTheRhythmAudienRemixRadioEdit = {
   id: "01a0676a-d729-701f-b04a-f75cfb5a42c2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-slave-to-the-rhythm-audien-remix-radio-edit",
   title: "Slave to the Rhythm (Audien Remix Radio Edit)",

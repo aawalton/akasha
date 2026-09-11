@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonNumberOnes = {
   id: "01a0676a-d726-700a-ab6d-ccf1e4103867",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-number-ones",
   title: "Number Ones",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaYouReNeverFullyDressedWithoutASmile2014FilmVersion = {
   id: "01a0676a-d732-7015-8c0a-03e27c012ef1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-you-re-never-fully-dressed-without-a-smile-2014-film-version",
   title: "You're Never Fully Dressed Without a Smile (2014 Film Version)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaSolsburyHillHumaneWorldForAnimalsCover = {
   id: "01a0676a-d729-704e-a0c2-665868c23d4f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-solsbury-hill-humane-world-for-animals-cover",
   title: "Solsbury Hill (Humane World for Animals Cover)",

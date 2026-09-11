@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkFromZeroACappellas = {
   id: "01a0676a-d71e-703f-a1e7-9c722457fee2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-from-zero-a-cappellas",
   title: "From Zero: A Cappellas",

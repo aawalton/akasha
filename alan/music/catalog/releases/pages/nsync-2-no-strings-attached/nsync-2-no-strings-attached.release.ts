@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const nsync2NoStringsAttached = {
   id: "01a0676a-d725-706b-a55e-d653bd37ee1c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "nsync-2-no-strings-attached",
   title: "No Strings Attached",

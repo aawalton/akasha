@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaIDisappear = {
   id: "01a0676a-d721-7011-9fce-eeb4293cf18b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-i-disappear",
   title: "I Disappear",

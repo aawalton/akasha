@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaExhaleFeatSiaPinkPandaRemix = {
   id: "01a0676a-d71d-704c-af4f-0036300882aa",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-exhale-feat-sia-pink-panda-remix",
   title: "EXHALE (feat. Sia) [Pink Panda Remix]",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sabrinaCarpenterSkinQuarterheadRemix = {
   id: "01a0676a-d729-7018-a9a9-796a995cc58b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sabrina-carpenter-skin-quarterhead-remix",
   title: "Skin (Quarterhead Remix)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrack = {
   id: "01a0676a-d71f-7020-b1e6-4d800b438fce",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-goodbye-to-love-from-minions-the-rise-of-gru-soundtrack",
   title: "Goodbye To Love (From 'Minions: The Rise of Gru' Soundtrack)",

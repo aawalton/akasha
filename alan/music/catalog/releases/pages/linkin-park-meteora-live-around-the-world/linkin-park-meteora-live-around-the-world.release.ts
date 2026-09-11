@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkMeteoraLiveAroundTheWorld = {
   id: "01a0676a-d724-7058-94f4-90e6216e725b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-meteora-live-around-the-world",
   title: "Meteora Live Around the World",

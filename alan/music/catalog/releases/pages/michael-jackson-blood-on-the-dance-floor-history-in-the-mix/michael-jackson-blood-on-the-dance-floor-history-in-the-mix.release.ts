@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonBloodOnTheDanceFloorHistoryInTheMix = {
   id: "01a0676a-d719-7018-955b-10678abdbfab",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-blood-on-the-dance-floor-history-in-the-mix",
   title: "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",

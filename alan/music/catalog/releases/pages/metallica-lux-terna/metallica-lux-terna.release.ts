@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaLuxTerna = {
   id: "01a0676a-d724-701e-a48d-ee5acd41b3a1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-lux-terna",
   title: "Lux Æterna",

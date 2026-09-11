@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaHeliumSiaVsDavidGuettaAfrojack = {
   id: "01a0676a-d720-7027-b1aa-7332cf3f87e7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-helium-sia-vs-david-guetta-afrojack",
   title: "Helium (Sia vs. David Guetta & Afrojack)",

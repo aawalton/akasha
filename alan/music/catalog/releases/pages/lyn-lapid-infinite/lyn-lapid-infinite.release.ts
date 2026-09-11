@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidInfinite = {
   id: "01a0676a-d721-7071-962d-eb377e8e65ef",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-infinite",
   title: "Infinite",

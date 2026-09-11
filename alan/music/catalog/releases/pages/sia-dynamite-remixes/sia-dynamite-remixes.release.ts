@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaDynamiteRemixes = {
   id: "01a0676a-d71c-7047-a7fa-dadc6655813f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-dynamite-remixes",
   title: "Dynamite (Remixes)",

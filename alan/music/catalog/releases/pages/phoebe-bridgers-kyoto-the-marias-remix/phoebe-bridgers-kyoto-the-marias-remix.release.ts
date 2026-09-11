@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersKyotoTheMariasRemix = {
   id: "01a0676a-d722-7053-882d-83b147c3c7bd",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-kyoto-the-marias-remix",
   title: "Kyoto (The Marías Remix)",

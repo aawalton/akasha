@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaStreetXStreetLafc = {
   id: "01a0676a-d72a-702f-9053-2b3b85e9226d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-street-x-street-lafc",
   title: "STREET X STREET (LAFC)",

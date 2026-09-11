@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaThrowItAllAway2 = {
   id: "01a0676a-d72e-703a-9213-5ecd8edbb6d4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-throw-it-all-away-2",
   title: "Throw It All Away",

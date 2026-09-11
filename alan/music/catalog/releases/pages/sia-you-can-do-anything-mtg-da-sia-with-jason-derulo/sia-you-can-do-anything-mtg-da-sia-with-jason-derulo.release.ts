@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaYouCanDoAnythingMtgDaSiaWithJasonDerulo = {
   id: "01a0676a-d732-7005-b2bf-1faf4f30b422",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-you-can-do-anything-mtg-da-sia-with-jason-derulo",
   title: "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",

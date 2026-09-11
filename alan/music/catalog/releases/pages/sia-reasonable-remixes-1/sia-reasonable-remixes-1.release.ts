@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaReasonableRemixes1 = {
   id: "01a0676a-d727-7055-b71c-feb7687e23ed",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-reasonable-remixes-1",
   title: "Reasonable Remixes 1",

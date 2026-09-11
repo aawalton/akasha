@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ledZeppelinPresenceRemaster = {
   id: "01a0676a-d727-7016-9213-ed533de41b47",
-  pageTypeSlug: "release",
   type: "release",
   slug: "led-zeppelin-presence-remaster",
   title: "Presence (Remaster)",

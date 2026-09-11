@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const leonardCohenCanTForgetASouvenirOfTheGrandTour = {
   id: "01a0676a-d719-7057-b52f-79cedd498a45",
-  pageTypeSlug: "release",
   type: "release",
   slug: "leonard-cohen-can-t-forget-a-souvenir-of-the-grand-tour",
   title: "Can't Forget: A Souvenir of the Grand Tour",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkOneMoreLightSteveAokiChesterForeverRemix = {
   id: "01a0676a-d726-7033-b1a5-13316257467d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-one-more-light-steve-aoki-chester-forever-remix",
   title: "One More Light (Steve Aoki Chester Forever Remix)",

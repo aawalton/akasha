@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonForeverMichael = {
   id: "01a0676a-d71e-702a-a223-23c38bb5b8db",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-forever-michael",
   title: "Forever, Michael",

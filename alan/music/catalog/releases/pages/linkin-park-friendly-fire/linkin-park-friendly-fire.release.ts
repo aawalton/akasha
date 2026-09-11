@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkFriendlyFire = {
   id: "01a0676a-d71e-7036-8c68-a096b06963a0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-friendly-fire",
   title: "Friendly Fire",

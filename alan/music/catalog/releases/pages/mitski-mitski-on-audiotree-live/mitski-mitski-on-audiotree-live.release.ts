@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const mitskiMitskiOnAudiotreeLive = {
   id: "01a0676a-d724-707c-92f0-29a017f12c59",
-  pageTypeSlug: "release",
   type: "release",
   slug: "mitski-mitski-on-audiotree-live",
   title: "Mitski on Audiotree Live",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxLeaveTheArmor = {
   id: "01a0676a-d722-7068-80a4-c1cfe7857f60",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-leave-the-armor",
   title: "Leave the Armor",

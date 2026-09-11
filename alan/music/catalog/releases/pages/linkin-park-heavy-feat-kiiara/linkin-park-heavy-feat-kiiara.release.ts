@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkHeavyFeatKiiara = {
   id: "01a0676a-d720-7024-95b8-e5859b7a1949",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-heavy-feat-kiiara",
   title: "Heavy (feat. Kiiara)",

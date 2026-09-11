@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
   id: "01a0676a-d723-703b-b0fd-ef529e4f4ee5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-little-trouble-b-w-sleepwalkin-daydreamin-version",
   title: "Little Trouble b/w Sleepwalkin' (Daydreamin' Version)",

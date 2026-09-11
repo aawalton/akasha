@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaLiveSTBingePurge = {
   id: "01a0676a-d723-7054-bfaf-8ebc831bcfd4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-live-s-t-binge-purge",
   title: "Live S**t: Binge & Purge",

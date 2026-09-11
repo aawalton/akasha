@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaButtonsCssFilterheadzRemixes = {
   id: "01a0676a-d719-704b-9c7d-7f3e4842a53d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-buttons-css-filterheadz-remixes",
   title: "Buttons (CSS & Filterheadz Remixes)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonThriller25SuperDeluxeEdition = {
   id: "01a0676a-d72e-7035-8901-b21abdc79ba3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-thriller-25-super-deluxe-edition",
   title: "Thriller 25 Super Deluxe Edition",

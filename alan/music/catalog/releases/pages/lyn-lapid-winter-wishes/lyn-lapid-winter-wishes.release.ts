@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidWinterWishes = {
   id: "01a0676a-d731-7027-b31e-55f0d558f74c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-winter-wishes",
   title: "winter wishes",

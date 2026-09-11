@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const mitskiGlideCover = {
   id: "01a0676a-d71f-7003-8b7e-6399dd1ad383",
-  pageTypeSlug: "release",
   type: "release",
   slug: "mitski-glide-cover",
   title: "Glide (cover)",

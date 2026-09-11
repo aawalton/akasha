@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaBlackened2020 = {
   id: "01a0676a-d719-7013-9b3f-e03e04df9f42",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-blackened-2020",
   title: "Blackened 2020",

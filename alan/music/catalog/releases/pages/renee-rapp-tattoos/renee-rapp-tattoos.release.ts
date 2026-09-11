@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const reneeRappTattoos = {
   id: "01a0676a-d72c-7003-ad48-45abbb8f4dc1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "renee-rapp-tattoos",
   title: "Tattoos",

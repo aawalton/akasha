@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaClapYourHands = {
   id: "01a0676a-d71a-7056-97ec-cf55825e6c06",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-clap-your-hands",
   title: "Clap Your Hands",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const leonardCohenNewSkinForTheOldCeremony = {
   id: "01a0676a-d725-7056-bb0f-2ca4edca8886",
-  pageTypeSlug: "release",
   type: "release",
   slug: "leonard-cohen-new-skin-for-the-old-ceremony",
   title: "New Skin For The Old Ceremony",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaOneMillionBullets = {
   id: "01a0676a-d726-702e-84d8-5416751961f2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-one-million-bullets",
   title: "One Million Bullets",

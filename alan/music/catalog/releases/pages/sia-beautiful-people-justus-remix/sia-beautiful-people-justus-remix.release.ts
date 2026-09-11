@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaBeautifulPeopleJustusRemix = {
   id: "01a0676a-d718-702b-bf40-5409f8b9d483",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-beautiful-people-justus-remix",
   title: "Beautiful People (Justus Remix)",

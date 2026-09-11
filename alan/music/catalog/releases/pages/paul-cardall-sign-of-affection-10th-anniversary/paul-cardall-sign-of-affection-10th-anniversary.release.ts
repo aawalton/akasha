@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallSignOfAffection10thAnniversary = {
   id: "01a0676a-d729-7005-b0fd-2e1d8e70acb1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-sign-of-affection-10th-anniversary",
   title: "Sign of Affection (10th Anniversary)",

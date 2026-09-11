@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sabrinaCarpenterAlienM22Remix = {
   id: "01a0676a-d716-7014-8fb4-f07597a7b43f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sabrina-carpenter-alien-m-22-remix",
   title: "Alien (M-22 Remix)",

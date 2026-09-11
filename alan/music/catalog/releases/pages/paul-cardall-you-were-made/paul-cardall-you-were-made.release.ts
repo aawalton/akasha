@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallYouWereMade = {
   id: "01a0676a-d732-7020-badb-ec14cde076c6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-you-were-made",
   title: "You Were Made",

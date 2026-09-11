@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallWhereCanITurnForPeace = {
   id: "01a0676a-d731-7007-92af-518692603e16",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-where-can-i-turn-for-peace",
   title: "Where Can I Turn for Peace?",

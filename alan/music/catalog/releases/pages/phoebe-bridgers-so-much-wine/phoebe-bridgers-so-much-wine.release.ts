@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersSoMuchWine = {
   id: "01a0676a-d729-7046-8470-53e3a5327b13",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-so-much-wine",
   title: "So Much Wine",

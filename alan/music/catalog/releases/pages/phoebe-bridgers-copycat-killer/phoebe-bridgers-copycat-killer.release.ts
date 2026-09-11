@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersCopycatKiller = {
   id: "01a0676a-d71b-7027-97c7-d0b7ceb10ba9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-copycat-killer",
   title: "Copycat Killer",

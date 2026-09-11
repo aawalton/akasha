@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const leonardCohenYouWantItDarkerPaulKalkbrennerRemix = {
   id: "01a0676a-d732-701e-a3b1-0c31546d5f86",
-  pageTypeSlug: "release",
   type: "release",
   slug: "leonard-cohen-you-want-it-darker-paul-kalkbrenner-remix",
   title: "You Want It Darker (Paul Kalkbrenner Remix)",

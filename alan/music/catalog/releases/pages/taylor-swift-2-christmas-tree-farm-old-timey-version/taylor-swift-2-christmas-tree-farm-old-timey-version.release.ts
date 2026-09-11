@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2ChristmasTreeFarmOldTimeyVersion = {
   id: "01a0676a-d71a-7045-afe9-348b26749239",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-christmas-tree-farm-old-timey-version",
   title: "Christmas Tree Farm (Old Timey Version)",

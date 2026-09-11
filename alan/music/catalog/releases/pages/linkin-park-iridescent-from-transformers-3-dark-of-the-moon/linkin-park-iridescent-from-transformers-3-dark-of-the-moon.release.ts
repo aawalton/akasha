@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkIridescentFromTransformers3DarkOfTheMoon = {
   id: "01a0676a-d722-7001-90c8-2cad35b27594",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-iridescent-from-transformers-3-dark-of-the-moon",
   title: "Iridescent (from Transformers 3: Dark of the Moon)",

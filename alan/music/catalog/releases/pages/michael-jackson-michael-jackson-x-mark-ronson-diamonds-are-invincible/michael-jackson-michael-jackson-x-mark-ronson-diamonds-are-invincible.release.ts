@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonMichaelJacksonXMarkRonsonDiamondsAreInvincible = {
   id: "01a0676a-d724-705c-8f76-35b17b42e35c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-michael-jackson-x-mark-ronson-diamonds-are-invincible",
   title: "Michael Jackson x Mark Ronson: Diamonds are Invincible",

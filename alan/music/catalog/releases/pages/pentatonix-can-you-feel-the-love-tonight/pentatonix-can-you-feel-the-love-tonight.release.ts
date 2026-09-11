@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixCanYouFeelTheLoveTonight = {
   id: "01a0676a-d719-705f-acae-b192afa93c21",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-can-you-feel-the-love-tonight",
   title: "Can You Feel the Love Tonight",

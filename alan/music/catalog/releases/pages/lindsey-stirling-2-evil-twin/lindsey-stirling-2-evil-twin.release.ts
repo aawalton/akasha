@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2EvilTwin = {
   id: "01a0676a-d71d-7045-bf5e-35ebf9ea39ec",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-evil-twin",
   title: "Evil Twin",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sabrinaCarpenterSingularActIi = {
   id: "01a0676a-d729-7010-b962-585d181191af",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sabrina-carpenter-singular-act-ii",
   title: "Singular Act II",

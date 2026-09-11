@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   id: "01a0676a-d71b-7059-a0c5-4099da267ee0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-dance-of-the-sugar-plum-fairy-arr-for-piano-by-paul-cardall",
   title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",

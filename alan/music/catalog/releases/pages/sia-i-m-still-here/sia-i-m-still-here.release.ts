@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaIMStillHere = {
   id: "01a0676a-d721-7035-b1c8-1b98a2447522",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-i-m-still-here",
   title: "I'm Still Here",

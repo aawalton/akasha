@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkUnshatter = {
   id: "01a0676a-d72f-7047-9da7-cbbce7b85e27",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-unshatter",
   title: "Unshatter",

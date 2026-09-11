@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const musicalTheaterTheGreatestShowmanOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d72d-701d-a85e-63c76b15b5dc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "musical-theater-the-greatest-showman-original-motion-picture-soundtrack",
   title: "The Greatest Showman (Original Motion Picture Soundtrack)",

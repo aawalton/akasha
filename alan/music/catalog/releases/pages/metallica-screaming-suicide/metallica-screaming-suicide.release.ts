@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaScreamingSuicide = {
   id: "01a0676a-d728-7059-b2c9-9340d84c2855",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-screaming-suicide",
   title: "Screaming Suicide",

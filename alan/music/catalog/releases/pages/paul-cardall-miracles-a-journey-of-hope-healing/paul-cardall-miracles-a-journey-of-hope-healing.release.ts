@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallMiraclesAJourneyOfHopeHealing = {
   id: "01a0676a-d724-7071-9960-e14c2a477ae2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing",
   title: "Miracles - A Journey Of Hope & Healing",

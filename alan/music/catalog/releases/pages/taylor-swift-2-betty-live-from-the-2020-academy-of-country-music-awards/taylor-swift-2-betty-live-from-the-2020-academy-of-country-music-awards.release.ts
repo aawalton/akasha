@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwards = {
   id: "01a0676a-d718-7051-80f7-1b892c534e92",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-betty-live-from-the-2020-academy-of-country-music-awards",
   title: "betty (Live from the 2020 Academy of Country Music Awards)",

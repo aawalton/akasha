@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidBackFromTheDead = {
   id: "01a0676a-d717-7048-bbb2-968848565b37",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-back-from-the-dead",
   title: "back from the dead",

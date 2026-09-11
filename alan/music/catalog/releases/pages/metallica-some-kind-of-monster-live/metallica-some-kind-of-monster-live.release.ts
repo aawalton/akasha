@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaSomeKindOfMonsterLive = {
   id: "01a0676a-d729-7050-b96d-1f86fb053fbe",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-some-kind-of-monster-live",
   title: "Some Kind Of Monster (Live)",

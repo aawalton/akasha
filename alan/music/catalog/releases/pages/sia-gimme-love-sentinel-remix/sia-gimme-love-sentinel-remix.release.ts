@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaGimmeLoveSentinelRemix = {
   id: "01a0676a-d71e-7061-85e0-dcf9354b0997",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-gimme-love-sentinel-remix",
   title: "Gimme Love (Sentinel Remix)",

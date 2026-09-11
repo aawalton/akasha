@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaForWhomTheBellTollsLive = {
   id: "01a0676a-d71e-7029-987e-09568b59a3a4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-for-whom-the-bell-tolls-live",
   title: "For Whom the Bell Tolls (Live)",

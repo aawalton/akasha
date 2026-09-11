@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrack = {
   id: "01a0676a-d728-703b-9191-d089fbd1ff24",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-salted-wound-from-the-fifty-shades-of-grey-soundtrack",
   title: 'Salted Wound (From The" Fifty Shades Of Grey" Soundtrack)',

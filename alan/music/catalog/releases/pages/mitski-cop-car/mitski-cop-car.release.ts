@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const mitskiCopCar = {
   id: "01a0676a-d71b-7026-8b3d-ef48b039aa0d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "mitski-cop-car",
   title: "Cop Car",

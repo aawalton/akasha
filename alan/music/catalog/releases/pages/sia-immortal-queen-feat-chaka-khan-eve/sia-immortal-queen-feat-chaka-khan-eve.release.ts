@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaImmortalQueenFeatChakaKhanEve = {
   id: "01a0676a-d721-705f-8f76-11f822424431",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-eve",
   title: "Immortal Queen (feat. Chaka Khan & Eve)",

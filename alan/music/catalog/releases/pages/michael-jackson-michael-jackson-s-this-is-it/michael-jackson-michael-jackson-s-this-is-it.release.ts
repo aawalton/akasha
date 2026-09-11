@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonMichaelJacksonSThisIsIt = {
   id: "01a0676a-d724-705a-ba82-1d8d38691017",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-michael-jackson-s-this-is-it",
   title: "Michael Jackson's This Is It",

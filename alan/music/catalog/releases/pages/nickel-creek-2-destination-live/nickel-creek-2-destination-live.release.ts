@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const nickelCreek2DestinationLive = {
   id: "01a0676a-d71c-700c-ace0-858b850e1401",
-  pageTypeSlug: "release",
   type: "release",
   slug: "nickel-creek-2-destination-live",
   title: "Destination (Live)",

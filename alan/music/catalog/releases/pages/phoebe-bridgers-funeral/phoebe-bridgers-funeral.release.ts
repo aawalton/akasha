@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersFuneral = {
   id: "01a0676a-d71e-7047-a57f-49462952c2d0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-funeral",
   title: "Funeral",

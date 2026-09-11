@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersion = {
   id: "01a0676a-d724-7044-974c-ec8aa14bf3c7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
   title: "Mean Girls (Music From The Motion Picture – Bonus Track Version)",

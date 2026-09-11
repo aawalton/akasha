@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaTogetherInitialTalkRemix = {
   id: "01a0676a-d72f-700e-a99a-4b2ff94fb5a5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-together-initial-talk-remix",
   title: "Together (Initial Talk Remix)",

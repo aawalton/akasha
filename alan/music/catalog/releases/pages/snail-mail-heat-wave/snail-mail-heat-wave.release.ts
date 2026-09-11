@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const snailMailHeatWave = {
   id: "01a0676a-d720-701a-9927-be79a67ac08f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "snail-mail-heat-wave",
   title: "Heat Wave",

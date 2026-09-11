@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixLittleDrummerBoyLemaXSaviRemix = {
   id: "01a0676a-d723-7039-a9ee-bb3661b5b473",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-little-drummer-boy-lema-x-savi-remix",
   title: "Little Drummer Boy (Lema x Savi Remix)",

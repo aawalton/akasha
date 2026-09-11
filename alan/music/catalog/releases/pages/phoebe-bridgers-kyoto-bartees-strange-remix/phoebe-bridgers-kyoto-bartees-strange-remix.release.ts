@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersKyotoBarteesStrangeRemix = {
   id: "01a0676a-d722-7050-a3d3-60414a35b863",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-kyoto-bartees-strange-remix",
   title: "Kyoto (Bartees Strange Remix)",

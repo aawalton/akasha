@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2GratefulStringSessions = {
   id: "01a0676a-d71f-7026-a4bc-14f201af50d8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-grateful-string-sessions",
   title: "Grateful (String Sessions)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxPeasantSThrone = {
   id: "01a0676a-d726-7069-9249-d79450d26356",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-peasant-s-throne",
   title: "Peasant's Throne",

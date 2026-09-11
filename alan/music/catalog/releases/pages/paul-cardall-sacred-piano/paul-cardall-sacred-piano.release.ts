@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallSacredPiano = {
   id: "01a0676a-d728-7038-8857-9fd530baa02d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-sacred-piano",
   title: "Sacred Piano",

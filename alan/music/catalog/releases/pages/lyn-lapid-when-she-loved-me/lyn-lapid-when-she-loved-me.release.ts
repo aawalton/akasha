@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidWhenSheLovedMe = {
   id: "01a0676a-d730-7058-9441-f78a1666f390",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-when-she-loved-me",
   title: "When She Loved Me",

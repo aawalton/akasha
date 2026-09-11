@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallTheCelebrateLifeConcertLive = {
   id: "01a0676a-d72c-703b-a5ed-5ab521a92bc7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-the-celebrate-life-concert-live",
   title: "The Celebrate Life Concert (Live)",

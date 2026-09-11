@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxOrion = {
   id: "01a0676a-d726-704c-af77-d3d4a92a54c2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-orion",
   title: "Orion",

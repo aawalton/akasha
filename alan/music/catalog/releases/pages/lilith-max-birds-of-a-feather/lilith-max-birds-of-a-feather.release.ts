@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxBirdsOfAFeather = {
   id: "01a0676a-d719-700b-bc42-b312f47c5073",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",

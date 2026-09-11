@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaFameWonTLoveYouFeatParisHilton = {
   id: "01a0676a-d71d-705f-8399-c3f5075b9d38",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-fame-won-t-love-you-feat-paris-hilton",
   title: "Fame Won’t Love You (feat. Paris Hilton)",

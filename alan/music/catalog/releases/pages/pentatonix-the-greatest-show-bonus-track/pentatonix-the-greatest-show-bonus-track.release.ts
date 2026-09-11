@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixTheGreatestShowBonusTrack = {
   id: "01a0676a-d72d-701b-9bb1-929b2d9350f8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-the-greatest-show-bonus-track",
   title: "The Greatest Show (Bonus Track)",

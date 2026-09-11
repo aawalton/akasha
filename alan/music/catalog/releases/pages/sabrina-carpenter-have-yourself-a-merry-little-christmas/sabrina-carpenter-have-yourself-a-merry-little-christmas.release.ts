@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sabrinaCarpenterHaveYourselfAMerryLittleChristmas = {
   id: "01a0676a-d71f-705d-8d6c-bcfe230affff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sabrina-carpenter-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",

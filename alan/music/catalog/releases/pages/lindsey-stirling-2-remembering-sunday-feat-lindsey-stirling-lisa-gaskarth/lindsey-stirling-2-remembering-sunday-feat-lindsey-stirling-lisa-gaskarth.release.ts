@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = {
   id: "01a0676a-d727-7065-aae1-8f358f8e8dd6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-remembering-sunday-feat-lindsey-stirling-lisa-gaskarth",
   title: "Remembering Sunday (feat. Lindsey Stirling & Lisa Gaskarth)",

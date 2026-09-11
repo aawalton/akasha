@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const leonardCohenTheFuture = {
   id: "01a0676a-d72d-7013-a850-2059cdf9ea8e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "leonard-cohen-the-future",
   title: "The Future",

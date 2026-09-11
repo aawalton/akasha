@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ledZeppelinInThroughTheOutDoorRemaster = {
   id: "01a0676a-d721-706e-9854-52c4aba1f7fd",
-  pageTypeSlug: "release",
   type: "release",
   slug: "led-zeppelin-in-through-the-out-door-remaster",
   title: "In Through the out Door (Remaster)",

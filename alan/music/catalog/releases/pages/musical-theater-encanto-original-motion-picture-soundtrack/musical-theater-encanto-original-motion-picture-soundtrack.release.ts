@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const musicalTheaterEncantoOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d71d-700d-ac34-24b89ba4ef43",
-  pageTypeSlug: "release",
   type: "release",
   slug: "musical-theater-encanto-original-motion-picture-soundtrack",
   title: "Encanto (Original Motion Picture Soundtrack)",

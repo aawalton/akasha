@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const rockapellaSirGotalot = {
   id: "01a0676a-d729-7011-8266-7e1e4b74f0bf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "rockapella-sir-gotalot",
   title: "Sir GotALot",

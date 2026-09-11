@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaBigGirlsCryRemixes = {
   id: "01a0676a-d719-7001-a3d7-8b9b7ff99d28",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-big-girls-cry-remixes",
   title: "Big Girls Cry (Remixes)",

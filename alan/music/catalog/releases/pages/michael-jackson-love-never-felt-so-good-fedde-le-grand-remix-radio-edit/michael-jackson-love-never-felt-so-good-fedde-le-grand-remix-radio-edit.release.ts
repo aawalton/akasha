@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonLoveNeverFeltSoGoodFeddeLeGrandRemixRadioEdit = {
   id: "01a0676a-d723-7077-8559-299702c96ce3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-love-never-felt-so-good-fedde-le-grand-remix-radio-edit",
   title: "Love Never Felt So Good (Fedde Le Grand Remix Radio Edit)",

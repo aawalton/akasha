@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   id: "01a0676a-d719-7055-a0de-43870288bd0c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
   title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",

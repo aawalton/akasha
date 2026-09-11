@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2EyeOfTheUntoldHer = {
   id: "01a0676a-d71d-7053-918c-121d97940181",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-eye-of-the-untold-her",
   title: "Eye Of The Untold Her",

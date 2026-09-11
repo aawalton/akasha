@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkHeavyIsTheCrown = {
   id: "01a0676a-d720-7025-ae91-57d257d0a50e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-heavy-is-the-crown",
   title: "Heavy Is the Crown",

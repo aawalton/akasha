@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const snailMailAdoreYouValentineDemo = {
   id: "01a0676a-d715-704e-83c5-061abb1d9f32",
-  pageTypeSlug: "release",
   type: "release",
   slug: "snail-mail-adore-you-valentine-demo",
   title: "Adore You (Valentine Demo)",

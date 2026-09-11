@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2TheUpsideTheUpsideUndergroundFeatElleKing = {
   id: "01a0676a-d72e-7019-b801-24d8593ff4bc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-the-upside-the-upside-underground-feat-elle-king",
   title: "The Upside / The Upside / Underground (feat. Elle King)",

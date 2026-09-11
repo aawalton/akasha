@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2HoldMyHeartFeatZzWard = {
   id: "01a0676a-d720-7048-ac96-59f2cd86f56e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-hold-my-heart-feat-zz-ward",
   title: "Hold My Heart (feat. ZZ Ward)",

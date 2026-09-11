@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixCheerleaderOmiCover = {
   id: "01a0676a-d71a-7026-8e89-19659200bd9d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-cheerleader-omi-cover",
   title: "Cheerleader (OMI Cover)",

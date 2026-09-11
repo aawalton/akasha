@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaDiamondEyesFeatSia = {
   id: "01a0676a-d71c-700f-aa45-d7feb2313fbb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-diamond-eyes-feat-sia",
   title: "Diamond Eyes (feat. Sia)",

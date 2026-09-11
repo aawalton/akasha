@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const leonardCohenLiveInDublin = {
   id: "01a0676a-d723-7050-8e60-69bf091a9c92",
-  pageTypeSlug: "release",
   type: "release",
   slug: "leonard-cohen-live-in-dublin",
   title: "Live In Dublin",

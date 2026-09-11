@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaUnstoppableR3habRemix = {
   id: "01a0676a-d72f-704e-a798-b41f4d22f5bc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-unstoppable-r3hab-remix",
   title: "Unstoppable (R3HAB Remix)",

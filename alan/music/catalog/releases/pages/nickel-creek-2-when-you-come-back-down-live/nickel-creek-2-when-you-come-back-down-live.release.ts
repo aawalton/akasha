@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const nickelCreek2WhenYouComeBackDownLive = {
   id: "01a0676a-d731-7004-8826-80eed9796384",
-  pageTypeSlug: "release",
   type: "release",
   slug: "nickel-creek-2-when-you-come-back-down-live",
   title: "When You Come Back Down (Live)",

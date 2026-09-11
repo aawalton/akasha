@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const nsync2TheMeaningOfChristmas = {
   id: "01a0676a-d72d-7040-9ade-47b3c5e4bb5e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "nsync-2-the-meaning-of-christmas",
   title: "The Meaning Of Christmas",

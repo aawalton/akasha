@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2InnerGoldFeatRoyalTheSerpent = {
   id: "01a0676a-d721-7074-94b4-bc7c97f9ff2c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
   title: "Inner Gold [Feat. Royal & the Serpent]",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallLoveOneAnother = {
   id: "01a0676a-d723-7079-b0a4-47e52cd3d35f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-love-one-another",
   title: "Love One Another",

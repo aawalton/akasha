@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaDanceAloneOfenbachRemix = {
   id: "01a0676a-d71b-7052-9e22-466dd16a27b6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-dance-alone-ofenbach-remix",
   title: "Dance Alone (Ofenbach Remix)",

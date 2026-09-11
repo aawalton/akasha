@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixCanTSleepLoveDannyLHarleRemix = {
   id: "01a0676a-d719-7058-ba9b-7d7a66df794b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-can-t-sleep-love-danny-l-harle-remix",
   title: "Can't Sleep Love (Danny L Harle Remix)",

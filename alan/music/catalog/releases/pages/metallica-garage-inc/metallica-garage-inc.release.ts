@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaGarageInc = {
   id: "01a0676a-d71e-704e-a4c6-b17be32b288f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-garage-inc",
   title: "Garage, Inc.",

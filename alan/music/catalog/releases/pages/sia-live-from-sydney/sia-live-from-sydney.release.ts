@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaLiveFromSydney = {
   id: "01a0676a-d723-704d-836b-86b1ccdc56da",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-live-from-sydney",
   title: "Live from Sydney",

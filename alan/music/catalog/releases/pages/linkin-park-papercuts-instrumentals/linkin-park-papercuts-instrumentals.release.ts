@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkPapercutsInstrumentals = {
   id: "01a0676a-d726-705a-aa62-70d2fc038c89",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-papercuts-instrumentals",
   title: "Papercuts: Instrumentals",

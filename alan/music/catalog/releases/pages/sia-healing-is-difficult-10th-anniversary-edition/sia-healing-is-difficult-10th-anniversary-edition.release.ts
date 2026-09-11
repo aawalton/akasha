@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaHealingIsDifficult10thAnniversaryEdition = {
   id: "01a0676a-d720-700a-96f5-f8995c7eaa98",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-healing-is-difficult-10th-anniversary-edition",
   title: "Healing Is Difficult (10th Anniversary Edition)",

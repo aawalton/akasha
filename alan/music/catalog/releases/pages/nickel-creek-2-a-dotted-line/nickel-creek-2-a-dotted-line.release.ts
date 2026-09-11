@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const nickelCreek2ADottedLine = {
   id: "01a0676a-d715-7023-bbe4-e4ed7fe17948",
-  pageTypeSlug: "release",
   type: "release",
   slug: "nickel-creek-2-a-dotted-line",
   title: "A Dotted Line",

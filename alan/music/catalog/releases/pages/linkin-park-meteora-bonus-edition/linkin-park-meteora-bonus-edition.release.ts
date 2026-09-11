@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const linkinParkMeteoraBonusEdition = {
   id: "01a0676a-d724-7057-b07c-4d5350f16697",
-  pageTypeSlug: "release",
   type: "release",
   slug: "linkin-park-meteora-bonus-edition",
   title: "Meteora (Bonus Edition)",

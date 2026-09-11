@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixInvincibleFeatShreyaGhoshal = {
   id: "01a0676a-d721-707f-a8cd-3ea64b0cefa4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-invincible-feat-shreya-ghoshal",
   title: "Invincible (feat. Shreya Ghoshal)",

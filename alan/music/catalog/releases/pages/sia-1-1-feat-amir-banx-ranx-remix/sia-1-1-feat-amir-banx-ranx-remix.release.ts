@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sia11FeatAmirBanxRanxRemix = {
   id: "01a0676a-d714-700a-8c79-9b760e1c2f01",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-1-1-feat-amir-banx-ranx-remix",
   title: "1+1 (feat. Amir) [Banx & Ranx Remix]",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonOffTheWall = {
   id: "01a0676a-d726-7019-ae8d-bd11f2e9212a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-off-the-wall",
   title: "Off the Wall",

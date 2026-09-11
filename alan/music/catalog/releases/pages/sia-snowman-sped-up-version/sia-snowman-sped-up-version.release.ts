@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaSnowmanSpedUpVersion = {
   id: "01a0676a-d729-7040-810d-24b8b8f342e3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-snowman-sped-up-version",
   title: "Snowman (Sped Up Version)",

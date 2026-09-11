@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidTheSimlishSong = {
   id: "01a0676a-d72e-700a-a80b-de9d37c817d2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-the-simlish-song",
   title: "the simlish song",

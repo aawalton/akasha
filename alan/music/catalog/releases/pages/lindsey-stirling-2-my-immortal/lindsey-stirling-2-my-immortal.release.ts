@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2MyImmortal = {
   id: "01a0676a-d725-702b-9452-87400063ca2c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-my-immortal",
   title: "My Immortal",

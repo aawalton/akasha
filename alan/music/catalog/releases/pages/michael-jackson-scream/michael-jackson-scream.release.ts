@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const michaelJacksonScream = {
   id: "01a0676a-d728-7058-9135-ad4e47fa09ab",
-  pageTypeSlug: "release",
   type: "release",
   slug: "michael-jackson-scream",
   title: "Scream",

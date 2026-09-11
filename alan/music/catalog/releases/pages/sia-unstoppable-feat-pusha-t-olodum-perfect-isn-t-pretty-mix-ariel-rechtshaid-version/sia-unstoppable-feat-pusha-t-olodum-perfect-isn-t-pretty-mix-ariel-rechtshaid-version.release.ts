@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVersion = {
   id: "01a0676a-d72f-704d-beec-601ce044b9bd",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-unstoppable-feat-pusha-t-olodum-perfect-isn-t-pretty-mix-ariel-rechtshaid-version",
   title:

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sabrinaCarpenterFastTimes = {
   id: "01a0676a-d71d-7065-9e0c-386fc3425857",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sabrina-carpenter-fast-times",
   title: "Fast Times",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaThe598EpGarageDaysReRevisitedRemastered = {
   id: "01a0676a-d72c-7024-9b42-26d91cb795b2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-the-5-98-ep-garage-days-re-revisited-remastered",
   title: "The $5.98 EP - Garage Days Re-Revisited (Remastered)",

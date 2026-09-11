@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaElasticHeartFromTheHungerGamesCatchingFireSoundtrack = {
   id: "01a0676a-d71c-7061-862b-0ce1d38d6ea6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-elastic-heart-from-the-hunger-games-catching-fire-soundtrack",
   title: "Elastic Heart (From “The Hunger Games: Catching Fire” Soundtrack)",

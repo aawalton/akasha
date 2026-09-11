@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallBeThouMyVision = {
   id: "01a0676a-d718-7023-aa28-3c597cb4d04e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-be-thou-my-vision",
   title: "Be Thou My Vision",

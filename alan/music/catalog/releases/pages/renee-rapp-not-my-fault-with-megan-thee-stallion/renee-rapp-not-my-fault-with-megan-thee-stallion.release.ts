@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const reneeRappNotMyFaultWithMeganTheeStallion = {
   id: "01a0676a-d725-707a-84f3-e5be3bf5d7b8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "renee-rapp-not-my-fault-with-megan-thee-stallion",
   title: "Not My Fault (with Megan Thee Stallion)",

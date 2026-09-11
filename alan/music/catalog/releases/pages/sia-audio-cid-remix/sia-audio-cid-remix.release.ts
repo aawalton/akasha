@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaAudioCidRemix = {
   id: "01a0676a-d717-703f-958d-5ee705b90b2c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-audio-cid-remix",
   title: "Audio (CID Remix)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ledZeppelinLedZeppelinIvRemaster = {
   id: "01a0676a-d722-7070-b9a9-f7e2db72a712",
-  pageTypeSlug: "release",
   type: "release",
   slug: "led-zeppelin-led-zeppelin-iv-remaster",
   title: "Led Zeppelin IV (Remaster)",

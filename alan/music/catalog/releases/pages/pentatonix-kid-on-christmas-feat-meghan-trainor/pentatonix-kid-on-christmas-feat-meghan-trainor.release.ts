@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixKidOnChristmasFeatMeghanTrainor = {
   id: "01a0676a-d722-703e-8f7d-1c77dc7fa743",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-kid-on-christmas-feat-meghan-trainor",
   title: "Kid On Christmas (feat. Meghan Trainor)",

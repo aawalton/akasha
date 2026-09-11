@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaFloatingThroughSpaceFeatDavidGuettaJimOumaRemix = {
   id: "01a0676a-d71e-7016-820c-5c9d32541cc9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-floating-through-space-feat-david-guetta-jim-ouma-remix",
   title: "Floating Through Space (feat. David Guetta) [JIM OUMA Remix]",

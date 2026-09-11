@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidDoUReally = {
   id: "01a0676a-d71c-7019-96b7-a9646151303b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-do-u-really",
   title: "do u really?",

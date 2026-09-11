@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixPleaseSantaPlease = {
   id: "01a0676a-d726-7086-94ea-acb08134e3a5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-please-santa-please",
   title: "Please Santa Please",

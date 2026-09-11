@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const metallicaMasterOfPuppetsRemastered = {
   id: "01a0676a-d724-703a-ba60-651feca4ab36",
-  pageTypeSlug: "release",
   type: "release",
   slug: "metallica-master-of-puppets-remastered",
   title: "Master of Puppets (Remastered)",

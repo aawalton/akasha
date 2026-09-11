@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaHeyBoyFeatBurnaBoy = {
   id: "01a0676a-d720-7035-935d-6ffd04658a89",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-hey-boy-feat-burna-boy",
   title: "Hey Boy (feat. Burna Boy)",

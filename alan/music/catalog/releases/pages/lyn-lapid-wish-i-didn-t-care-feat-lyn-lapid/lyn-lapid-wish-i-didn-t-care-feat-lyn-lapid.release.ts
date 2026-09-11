@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lynLapidWishIDidnTCareFeatLynLapid = {
   id: "01a0676a-d731-7028-b7e4-0b76829308a8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lyn-lapid-wish-i-didn-t-care-feat-lyn-lapid",
   title: "Wish I Didn't Care (feat. Lyn Lapid)",

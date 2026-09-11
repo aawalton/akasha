@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallElizaSTheme = {
   id: "01a0676a-d71c-7064-9468-ae248ae79548",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-eliza-s-theme",
   title: "Eliza's Theme",

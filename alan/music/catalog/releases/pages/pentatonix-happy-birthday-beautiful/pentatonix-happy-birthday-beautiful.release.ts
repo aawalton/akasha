@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixHappyBirthdayBeautiful = {
   id: "01a0676a-d71f-704a-a617-24bbd8cf7563",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-happy-birthday-beautiful",
   title: "Happy Birthday Beautiful",

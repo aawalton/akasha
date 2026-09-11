@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const leonardCohenLeonardCohenLiveAtTheIsleOfWight1970 = {
   id: "01a0676a-d722-7075-b58d-ec8a5e212645",
-  pageTypeSlug: "release",
   type: "release",
   slug: "leonard-cohen-leonard-cohen-live-at-the-isle-of-wight-1970",
   title: "Leonard Cohen Live at the Isle of Wight 1970",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
   id: "01a0676a-d722-700e-a41d-6b67da6c94a1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-it-s-beginning-to-look-a-lot-like-christmas-cutmore-remix",
   title: "It's Beginning To Look A Lot Like Christmas (Cutmore Remix)",

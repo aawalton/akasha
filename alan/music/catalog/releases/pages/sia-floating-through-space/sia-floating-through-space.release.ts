@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaFloatingThroughSpace = {
   id: "01a0676a-d71e-7013-a28e-ebee2dbe61ac",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-floating-through-space",
   title: "Floating Through Space",

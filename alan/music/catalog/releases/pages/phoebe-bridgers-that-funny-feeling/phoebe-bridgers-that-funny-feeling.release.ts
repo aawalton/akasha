@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersThatFunnyFeeling = {
   id: "01a0676a-d72c-7014-a00f-c6d567e4c48e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-that-funny-feeling",
   title: "That Funny Feeling",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaDuskTillDawnTheRemixesFeatSia = {
   id: "01a0676a-d71c-7043-9622-fe3b01428f8e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-dusk-till-dawn-the-remixes-feat-sia",
   title: "Dusk Till Dawn (The Remixes) (feat. Sia)",

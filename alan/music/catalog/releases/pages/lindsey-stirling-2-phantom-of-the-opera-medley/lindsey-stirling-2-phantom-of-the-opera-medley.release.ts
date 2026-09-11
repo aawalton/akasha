@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2PhantomOfTheOperaMedley = {
   id: "01a0676a-d726-7074-b4c3-469f40015239",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-phantom-of-the-opera-medley",
   title: "Phantom of the Opera Medley",

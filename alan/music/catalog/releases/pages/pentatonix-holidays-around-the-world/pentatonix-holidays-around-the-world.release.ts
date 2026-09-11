@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixHolidaysAroundTheWorld = {
   id: "01a0676a-d720-704e-aba0-d9acd6962f92",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-holidays-around-the-world",
   title: "Holidays Around the World",

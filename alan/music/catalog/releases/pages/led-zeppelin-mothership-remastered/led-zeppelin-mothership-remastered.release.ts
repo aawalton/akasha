@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ledZeppelinMothershipRemastered = {
   id: "01a0676a-d725-7009-a8a9-90b9c017c34a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "led-zeppelin-mothership-remastered",
   title: "Mothership (Remastered)",

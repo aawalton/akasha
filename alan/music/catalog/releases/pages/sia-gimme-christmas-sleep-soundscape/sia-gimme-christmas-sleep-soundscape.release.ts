@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaGimmeChristmasSleepSoundscape = {
   id: "01a0676a-d71e-705e-8a01-6f4e7a918856",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-gimme-christmas-sleep-soundscape",
   title: "Gimme Christmas (Sleep Soundscape)",

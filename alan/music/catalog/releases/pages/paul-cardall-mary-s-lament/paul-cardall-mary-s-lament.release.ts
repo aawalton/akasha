@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardallMarySLament = {
   id: "01a0676a-d724-7039-9148-e6b502f1eaec",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-mary-s-lament",
   title: "Mary's Lament",

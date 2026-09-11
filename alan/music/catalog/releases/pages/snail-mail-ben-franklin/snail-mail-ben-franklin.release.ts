@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const snailMailBenFranklin = {
   id: "01a0676a-d718-7040-a825-3ec7fbcbb099",
-  pageTypeSlug: "release",
   type: "release",
   slug: "snail-mail-ben-franklin",
   title: "Ben Franklin",

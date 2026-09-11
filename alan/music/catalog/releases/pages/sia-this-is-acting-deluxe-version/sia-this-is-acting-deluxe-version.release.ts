@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const siaThisIsActingDeluxeVersion = {
   id: "01a0676a-d72e-702a-a752-c067cbb6ec2e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sia-this-is-acting-deluxe-version",
   title: "This Is Acting (Deluxe Version)",

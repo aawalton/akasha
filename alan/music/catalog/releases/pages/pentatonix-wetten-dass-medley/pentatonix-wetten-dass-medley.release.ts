@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const pentatonixWettenDassMedley = {
   id: "01a0676a-d730-703e-8b79-67ba79b6f7e1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "pentatonix-wetten-dass-medley",
   title: '"Wetten, dass..?" Medley',

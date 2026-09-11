@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ledZeppelinTrampledUnderFootLiveFromEarlSCourt1975 = {
   id: "01a0676a-d72f-7017-a45f-8bc72af447f4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "led-zeppelin-trampled-under-foot-live-from-earl-s-court-1975",
   title: "Trampled Under Foot (Live from Earl's Court, 1975)",

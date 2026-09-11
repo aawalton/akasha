@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const reneeRappEverythingToEveryone = {
   id: "01a0676a-d71d-7042-b541-ad671fc15402",
-  pageTypeSlug: "release",
   type: "release",
   slug: "renee-rapp-everything-to-everyone",
   title: "Everything To Everyone",

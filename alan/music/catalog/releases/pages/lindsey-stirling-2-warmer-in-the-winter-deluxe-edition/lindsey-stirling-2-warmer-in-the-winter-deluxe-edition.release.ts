@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2WarmerInTheWinterDeluxeEdition = {
   id: "01a0676a-d730-7018-8e44-446603c68f1f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-warmer-in-the-winter-deluxe-edition",
   title: "Warmer In The Winter (Deluxe Edition)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const rockapellaJamsVol2 = {
   id: "01a0676a-d722-701f-8fbb-0cb57f51a2da",
-  pageTypeSlug: "release",
   type: "release",
   slug: "rockapella-jams-vol-2",
   title: "Jams, Vol. 2",

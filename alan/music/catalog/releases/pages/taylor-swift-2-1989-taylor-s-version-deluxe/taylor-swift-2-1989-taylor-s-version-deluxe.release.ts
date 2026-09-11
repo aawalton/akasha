@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const taylorSwift21989TaylorSVersionDeluxe = {
   id: "01a0676a-d714-7019-87dc-9659e52e3818",
-  pageTypeSlug: "release",
   type: "release",
   slug: "taylor-swift-2-1989-taylor-s-version-deluxe",
   title: "1989 (Taylor's Version) [Deluxe]",

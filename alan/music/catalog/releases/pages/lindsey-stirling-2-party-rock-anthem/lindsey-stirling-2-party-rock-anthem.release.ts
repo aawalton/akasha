@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const lindseyStirling2PartyRockAnthem = {
   id: "01a0676a-d726-7062-aa73-2f532dc18c3f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "lindsey-stirling-2-party-rock-anthem",
   title: "Party Rock Anthem",

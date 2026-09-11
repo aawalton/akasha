@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const sabrinaCarpenterFruitcake = {
   id: "01a0676a-d71e-7044-b3ef-71ee16c9300d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "sabrina-carpenter-fruitcake",
   title: "fruitcake",

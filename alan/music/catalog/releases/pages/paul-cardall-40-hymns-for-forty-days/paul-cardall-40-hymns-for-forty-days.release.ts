@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const paulCardall40HymnsForFortyDays = {
   id: "01a0676a-d715-700b-8a94-991029e7934e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "paul-cardall-40-hymns-for-forty-days",
   title: "40 Hymns for Forty Days",

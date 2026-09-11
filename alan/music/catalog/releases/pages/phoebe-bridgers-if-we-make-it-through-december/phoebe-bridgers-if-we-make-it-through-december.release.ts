@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const phoebeBridgersIfWeMakeItThroughDecember = {
   id: "01a0676a-d721-7056-9fbe-ee70637cae46",
-  pageTypeSlug: "release",
   type: "release",
   slug: "phoebe-bridgers-if-we-make-it-through-december",
   title: "If We Make It Through December",
