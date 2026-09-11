@@ -92,7 +92,7 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "absence",
       statement:
-        "A page's absence saying two bodies are not one rule leaves both files refused here.",
+        "A page's invariant saying two bodies are not one rule leaves both files refused here.",
     },
     {
       invariantKind: "departure",
@@ -197,6 +197,11 @@ export const noRuleInTwoFiles = {
       invariantKind: "absence",
       statement:
         "A body reading `import.meta` is one rule text naming a different file wherever that body sits.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Two bound names joined by one operator pair as one rule wherever both bodies spell that operator.",
     },
   ],
   check: { maxCpuSeconds: 10 },
