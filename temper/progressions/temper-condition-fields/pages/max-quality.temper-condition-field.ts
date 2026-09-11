@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
+import type { TemperConditionField } from "akasha/temper/progressions/temper-condition-fields/temper-condition-field.page-type.types.ts"
 
 export const maxQuality = {
   id: "01a07209-6b52-7d21-881a-8dfea4e1e1ac",

@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
+import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-trees/temper-metric-tree.page-type.types.ts"
 
 export const metricMartialDotStatusChance = {
   id: "019e2fcd-59e5-707d-85c7-32f36dcf9e32",

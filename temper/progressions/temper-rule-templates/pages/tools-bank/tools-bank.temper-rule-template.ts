@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
+import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-templates/temper-rule-template.page-type.types.ts"
 
 export const toolsBank = {
   id: "019e3104-2620-7327-ad6d-ed207296369c",

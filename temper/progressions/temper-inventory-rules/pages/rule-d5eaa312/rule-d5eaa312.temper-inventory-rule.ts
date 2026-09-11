@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
+import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inventory-rules/temper-inventory-rule.page-type.types.ts"
 
 export const ruleD5eaa312 = {
   id: "01a0728b-2e7c-76da-9bb6-376fb646b10a",

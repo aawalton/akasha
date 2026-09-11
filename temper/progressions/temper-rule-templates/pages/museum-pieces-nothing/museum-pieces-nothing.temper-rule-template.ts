@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
+import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-templates/temper-rule-template.page-type.types.ts"
 
 export const museumPiecesNothing = {
   id: "019e3104-261a-78c9-ad6d-5f414754c1c5",

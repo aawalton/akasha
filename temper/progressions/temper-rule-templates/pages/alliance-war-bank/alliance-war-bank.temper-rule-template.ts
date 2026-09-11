@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
+import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-templates/temper-rule-template.page-type.types.ts"
 
 export const allianceWarBank = {
   id: "019e3104-2622-7aa4-88e8-9c5513f4f6e8",

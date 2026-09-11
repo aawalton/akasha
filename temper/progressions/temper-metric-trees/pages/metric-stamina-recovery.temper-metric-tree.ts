@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
+import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-trees/temper-metric-tree.page-type.types.ts"
 
 export const metricStaminaRecovery = {
   id: "019e2fcd-59fd-7ecb-8a3d-903974b95b65",

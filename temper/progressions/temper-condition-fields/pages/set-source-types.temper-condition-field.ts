@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
+import type { TemperConditionField } from "akasha/temper/progressions/temper-condition-fields/temper-condition-field.page-type.types.ts"
 
 export const setSourceTypes = {
   id: "01a07209-6b53-796a-b671-0a4f92c2dd86",

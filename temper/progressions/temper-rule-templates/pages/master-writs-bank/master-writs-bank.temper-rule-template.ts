@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
+import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-templates/temper-rule-template.page-type.types.ts"
 
 export const masterWritsBank = {
   id: "019e3104-2617-7629-b790-576e7d97a15b",

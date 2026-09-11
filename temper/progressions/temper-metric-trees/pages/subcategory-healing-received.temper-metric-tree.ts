@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
+import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-trees/temper-metric-tree.page-type.types.ts"
 
 export const subcategoryHealingReceived = {
   id: "019e2fcd-5a67-7725-9769-87c2f25acd33",

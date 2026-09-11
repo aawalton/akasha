@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
+import type { TemperCompletionCategory } from "akasha/temper/progressions/temper-completion-categories/temper-completion-category.page-type.types.ts"
 
 export const accountAccountScribingKnowledgeScriptsAffixscripts = {
   id: "01a05fcb-e4b8-79f7-a706-ba81f261ba66",

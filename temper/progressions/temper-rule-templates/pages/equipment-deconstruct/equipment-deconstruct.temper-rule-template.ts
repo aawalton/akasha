@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
+import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-templates/temper-rule-template.page-type.types.ts"
 
 export const equipmentDeconstruct = {
   id: "019e3104-261c-7239-bced-7a7c2ac03bce",

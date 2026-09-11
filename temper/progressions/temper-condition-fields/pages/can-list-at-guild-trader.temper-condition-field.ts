@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
+import type { TemperConditionField } from "akasha/temper/progressions/temper-condition-fields/temper-condition-field.page-type.types.ts"
 
 export const canListAtGuildTrader = {
   id: "01a07209-6b50-741e-bf48-d5097bae1d03",

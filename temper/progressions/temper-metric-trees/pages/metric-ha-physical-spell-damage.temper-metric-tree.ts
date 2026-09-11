@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
+import type { TemperMetricTree } from "akasha/temper/progressions/temper-metric-trees/temper-metric-tree.page-type.types.ts"
 
 export const metricHaPhysicalSpellDamage = {
   id: "019e2fcd-59b2-77d7-acd3-827ebc3c78df",

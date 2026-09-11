@@ -1,4 +1,4 @@
-import type { TemperRuleGoal } from "../temper-rule-goal.page-type.types.ts"
+import type { TemperRuleGoal } from "akasha/temper/progressions/temper-rule-goals/temper-rule-goal.page-type.types.ts"
 
 export const unlock = {
   id: "01a071f5-ae75-7e5f-8fb9-75c8e06177a1",

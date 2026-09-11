@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
+import type { TemperCompletionCategory } from "akasha/temper/progressions/temper-completion-categories/temper-completion-category.page-type.types.ts"
 
 export const charactersLoreLibraryCharacter = {
   id: "01a05fcb-e4c0-7c77-944e-59263f51529d",

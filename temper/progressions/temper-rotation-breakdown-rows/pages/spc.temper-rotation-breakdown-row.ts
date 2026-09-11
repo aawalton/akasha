@@ -1,4 +1,4 @@
-import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.types.ts"
+import type { TemperRotationBreakdownRow } from "akasha/temper/progressions/temper-rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.types.ts"
 
 export const spc = {
   id: "019e5d79-3e57-7096-8ad9-c35397f47c51",

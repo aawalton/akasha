@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
+import type { TemperCompletionCategory } from "akasha/temper/progressions/temper-completion-categories/temper-completion-category.page-type.types.ts"
 
 export const companionsCompanionQuestsUnion = {
   id: "01a05fcb-e4c6-74e5-9d6e-e38038ef521f",

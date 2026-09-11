@@ -3,7 +3,11 @@ import {
   answering,
   refusing,
 } from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
-import { fetchTemperTasks, tasksIn, trackingOn } from "./inboxes-temper-tasks.readout.code.ts"
+import {
+  fetchTemperTasks,
+  tasksIn,
+  trackingOn,
+} from "akasha/temper/progressions/inboxes-temper-tasks/inboxes-temper-tasks.readout.code.ts"
 
 test("the day asked for is the tracking day named", () => {
   const asked = trackingOn("2026-08-30")

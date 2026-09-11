@@ -1,17 +1,16 @@
-import * as vscode from "vscode"
 import {
   followState,
   readState,
   stateAt,
-} from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { countRows } from "../agent-forest/agent-forest.module.code.ts"
-import { openAgentPage } from "../agent-page-opening/agent-page-opening.module.code.ts"
-import type { AgentNode } from "../agent-row/agent-row.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import { countRows } from "akasha/code-system/editor/extension/agent-forest/agent-forest.module.code.ts"
+import { openAgentPage } from "akasha/code-system/editor/extension/agent-page-opening/agent-page-opening.module.code.ts"
+import type { AgentNode } from "akasha/code-system/editor/extension/agent-row/agent-row.module.code.ts"
 import {
   createAgentDecorationProvider,
   createAgentTree,
   REVEAL_TERMINAL_COMMAND,
-} from "../agent-tree-drawing/agent-tree-drawing.module.code.ts"
+} from "akasha/code-system/editor/extension/agent-tree-drawing/agent-tree-drawing.module.code.ts"
 import {
   COPY_SEAT_NAME_COMMAND,
   OPEN_PAGE_COMMAND,
@@ -20,8 +19,8 @@ import {
   RUN_RESUME_COMMAND,
   RUN_STOP_COMMAND,
   VIEW_ID,
-} from "../agent-tree-ids/agent-tree-ids.module.code.ts"
-import { seatsByName } from "../agent-tree-lookup/agent-tree-lookup.module.code.ts"
+} from "akasha/code-system/editor/extension/agent-tree-ids/agent-tree-ids.module.code.ts"
+import { seatsByName } from "akasha/code-system/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import {
   forest,
   output,
@@ -31,27 +30,28 @@ import {
   setOutput,
   setSeatTabs,
   setSeatTerminals,
-} from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { createColumnMemory } from "../column-memory/column-memory.module.code.ts"
-import { sampleColumns } from "../column-sampling/column-sampling.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
-import { invokedSeat } from "../invoked-seat/invoked-seat.module.code.ts"
-import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
-import { recordObservation } from "../observation-store/observation-store.module.code.ts"
-import type { SeatAct } from "../seat-act-confirm/seat-act-confirm.module.code.ts"
-import { runPlan as runPlanWith } from "../seat-plan-running/seat-plan-running.module.code.ts"
-import { showSeat } from "../seat-showing/seat-showing.module.code.ts"
+} from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
+import { createColumnMemory } from "akasha/code-system/editor/extension/column-memory/column-memory.module.code.ts"
+import { sampleColumns } from "akasha/code-system/editor/extension/column-sampling/column-sampling.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { invokedSeat } from "akasha/code-system/editor/extension/invoked-seat/invoked-seat.module.code.ts"
+import { newestWins } from "akasha/code-system/editor/extension/newest-wins/newest-wins.module.code.ts"
+import { recordObservation } from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import type { SeatAct } from "akasha/code-system/editor/extension/seat-act-confirm/seat-act-confirm.module.code.ts"
+import { runPlan as runPlanWith } from "akasha/code-system/editor/extension/seat-plan-running/seat-plan-running.module.code.ts"
+import { showSeat } from "akasha/code-system/editor/extension/seat-showing/seat-showing.module.code.ts"
 import {
   type SeatTabState,
   seatTabContext,
-} from "../seat-tab-context/seat-tab-context.module.code.ts"
-import { tabInstanceIds } from "../seat-terminals/seat-terminals.module.code.ts"
+} from "akasha/code-system/editor/extension/seat-tab-context/seat-tab-context.module.code.ts"
+import { tabInstanceIds } from "akasha/code-system/editor/extension/seat-terminals/seat-terminals.module.code.ts"
 import {
   planReset,
   planRunToggle,
   type SeatStep,
   type SeatToggleState,
-} from "../seat-toggles/seat-toggles.module.code.ts"
+} from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "agent-tree"
 const SLUG = "agent-tree"
