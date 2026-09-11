@@ -7,6 +7,7 @@ export const spotifyCredentials = {
   slug: "spotify-credentials",
   definition: "the three secrets a Spotify call is made under",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
