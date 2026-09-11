@@ -43,6 +43,7 @@ export const iosApp = {
     "text-property/widget-bundle-id",
     "text-property/widget-profile-name",
     "build-folder-property/web-directory",
+    "shell-script/write-install-manifest",
   ],
   extends: ["page-type/workspace-package"],
   properties: [
