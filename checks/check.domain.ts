@@ -109,7 +109,7 @@ export const check = {
     },
     {
       invariantKind: "departure",
-      statement: "A check no change woke is unmeasured rather than sound.",
+      statement: "A check no change ran is unmeasured rather than sound.",
     },
     {
       invariantKind: "absence",
