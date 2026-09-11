@@ -5,21 +5,17 @@ function hex(text: string): string {
   return Buffer.from(text, "utf8").toString("hex")
 }
 
-function byteLength(text: string): number {
-  return Buffer.byteLength(text, "utf8")
-}
-
 function pad(byteCount: number): string {
   return "00".repeat(byteCount)
 }
 
 export function shortBody(text: string, lead = ""): string {
-  const size = byteLength(text)
+  const size = Buffer.byteLength(text, "utf8")
   return `${lead}${NSSTRING}${PAYLOAD}${size.toString(16).padStart(2, "0")}${hex(text)}`
 }
 
 export function mediumBody(text: string): string {
-  const size = byteLength(text)
+  const size = Buffer.byteLength(text, "utf8")
   const lo = size & 0xff
   const hi = (size >> 8) & 0xff
   const le = `${lo.toString(16).padStart(2, "0")}${hi.toString(16).padStart(2, "0")}`
@@ -27,7 +23,7 @@ export function mediumBody(text: string): string {
 }
 
 export function longBody(text: string): string {
-  const size = byteLength(text)
+  const size = Buffer.byteLength(text, "utf8")
   const le = Array.from({ length: 4 }, (_, i) =>
     ((size >> (i * 8)) & 0xff).toString(16).padStart(2, "0")
   ).join("")
