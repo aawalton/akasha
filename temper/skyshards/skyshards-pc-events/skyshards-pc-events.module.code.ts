@@ -12,14 +12,12 @@ import {
   registerMapPins,
 } from "akasha/temper/skyshards/skyshards-pc-pins/skyshards-pc-pins.module.code.ts"
 import { createSettingsMenu } from "akasha/temper/skyshards/skyshards-pc-settings/skyshards-pc-settings.module.code.ts"
-import {
-  alterSkyShardsIndicator,
-  setSSP,
-} from "akasha/temper/skyshards/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts"
+import { alterSkyShardsIndicator } from "akasha/temper/skyshards/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts"
 import {
   setDb,
   setMainworldColor,
 } from "akasha/temper/skyshards/skyshards-pc-state/skyshards-pc-state.module.code.ts"
+import { SKILL_POINT_TOTAL } from "akasha/temper/skyshards/skyshards-skill-point-total/skyshards-skill-point-total.module.code.ts"
 
 function onSkyshardsUpdated(this: void, _eventCode: number): undefined {
   LibMapPins.RefreshPins(PINS_UNKNOWN)
@@ -45,7 +43,7 @@ export function onLoad(this: void, _eventCode: number, addOnName: string): undef
     SKILL_POINT_ALLOCATION_MANAGER != null &&
     SKILL_POINT_ALLOCATION_MANAGER.GetTotalNumSkillPoints != null
   ) {
-    setSSP(true)
+    SKILL_POINT_TOTAL.known = true
   }
 
   const layouts = buildMapPinLayouts()

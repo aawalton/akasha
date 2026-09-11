@@ -51,6 +51,7 @@ export const temperSkyshards = {
     "module/skyshards-pc-slash",
     "module/skyshards-pc-state",
     "module/skyshards-pc-tooltip",
+    "module/skyshards-skill-point-total",
     "module/skyshards-start",
     "type-declaration/skyshards-string-ids",
     "module/skyshards-types",
