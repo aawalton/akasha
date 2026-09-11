@@ -1,4 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
+import { renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodiesIn } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   bodyOf,
@@ -10,10 +14,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodiesIn } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
 

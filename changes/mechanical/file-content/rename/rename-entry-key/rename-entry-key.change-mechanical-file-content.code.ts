@@ -1,6 +1,10 @@
-import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import {
+  refusing,
+  spliced,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const OPENS = "{"
 

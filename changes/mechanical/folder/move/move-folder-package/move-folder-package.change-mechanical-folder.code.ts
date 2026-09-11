@@ -1,9 +1,9 @@
 import { basename, dirname, join, relative } from "node:path"
+import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/value/page-value.module.code.ts"
-import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
-import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const PACKAGE = "workspace-package"
 

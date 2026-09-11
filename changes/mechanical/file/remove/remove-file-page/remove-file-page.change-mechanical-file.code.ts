@@ -1,19 +1,19 @@
 import { extname } from "node:path"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   gathered,
   refusing,
   stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
-import { namersIn, pageIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
+import { namersIn, pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   type Reached,
   reach,
   type World,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const PARTS = "parts"
 

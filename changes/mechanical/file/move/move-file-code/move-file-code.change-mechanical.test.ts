@@ -1,4 +1,20 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import {
+  type BodyOf,
+  gathered,
+  leftAt,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer, Moving } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+  worldOver,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   indexedRepo,
@@ -6,22 +22,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import {
-  type BodyOf,
-  gathered,
-  leftAt,
-  refusing,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer, Moving } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  bodiesIn,
-  type World,
-  worldAt,
-  worldOver,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as moveFile } from "../move-file/move-file.change-mechanical-file.code.ts"
-import { runChange } from "./move-file-code.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
 

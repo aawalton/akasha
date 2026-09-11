@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import ts from "typescript"
-import { worldAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import {
   literalsIn,
   renamePropertySignature,
-} from "./rename-property-signature.change-mechanical-file-content.code.ts"
+} from "akasha/changes/mechanical/file-content/rename/rename-property-signature/rename-property-signature.change-mechanical-file-content.code.ts"
+import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import ts from "typescript"
 
 function aliasIn(said: string): ts.TypeNode {
   const source = ts.createSourceFile("held.ts", said, ts.ScriptTarget.Latest, true)

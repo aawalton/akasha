@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { dirname, join } from "node:path"
+import { REACHING } from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
+import { runChange } from "akasha/changes/mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts"
+import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   indexedRepo,
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { type World, worldAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { REACHING } from "../add-file/add-file.change-mechanical-file.test-fixtures.ts"
-import { runChange } from "./add-file-code.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
 

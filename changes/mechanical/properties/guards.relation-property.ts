@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../../../pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
 export const guards = {
   id: "01a07744-1311-7388-8533-715d6c538707",

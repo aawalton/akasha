@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange } from "akasha/changes/mechanical/file/add/add-file-page/add-file-page.change-mechanical.code.ts"
+import { worldIn } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   indexedRepo,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { worldIn } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./add-file-page.change-mechanical.code.ts"
 
 const REACHES = "change-mechanical/add-file-code"
 

@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
+import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
 
 export const renamePagePropertyKey = {
   id: "01a08199-2188-7b83-8ede-a4feb5dd9765",

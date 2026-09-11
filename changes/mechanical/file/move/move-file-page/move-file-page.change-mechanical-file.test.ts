@@ -1,4 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import {
+  landingFor,
+  runChange,
+} from "akasha/changes/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -9,17 +23,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  bodiesIn,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as moveFile } from "../move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../move-file-code/move-file-code.change-mechanical.code.ts"
-import { landingFor, runChange } from "./move-file-page.change-mechanical-file.code.ts"
 
 afterAll(scratch.sweep)
 

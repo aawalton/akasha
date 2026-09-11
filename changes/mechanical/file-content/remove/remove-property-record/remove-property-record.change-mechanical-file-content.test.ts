@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import {
+  recordGone,
+  runChange,
+} from "akasha/changes/mechanical/file-content/remove/remove-property-record/remove-property-record.change-mechanical-file-content.code.ts"
+import {
   bodyOf,
   refusalOf,
   worldOf,
-} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import {
-  recordGone,
-  runChange,
-} from "./remove-property-record.change-mechanical-file-content.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "held/one.page-type.ts"
 

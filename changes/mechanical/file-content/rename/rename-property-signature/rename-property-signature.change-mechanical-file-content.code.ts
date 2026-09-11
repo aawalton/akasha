@@ -1,4 +1,16 @@
 import {
+  pathsIn,
+  refusing,
+  splicing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  FileChange,
+  Said,
+  Splice,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   declaredNamed,
   namingOf,
   spelledAs,
@@ -10,20 +22,8 @@ import {
   typed,
   typingOver,
 } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
-import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import {
-  pathsIn,
-  refusing,
-  splicing,
-  stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ANY = "*"
 

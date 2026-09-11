@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { worldOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./append-lines.change-mechanical-file-content.code.ts"
+import { runChange } from "akasha/changes/mechanical/file-content/append/append-lines/append-lines.change-mechanical-file-content.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/one/held.jsonl"
 

@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
+import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
 
 export const removeTypeMember = {
   id: "01a08285-9707-78cc-8925-892dca08a7a2",

@@ -1,3 +1,9 @@
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  FileChange,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   type Part,
@@ -5,9 +11,6 @@ import {
   partsOverLines,
 } from "akasha/pages/entry-writing/page-entry-writing.module.code.ts"
 import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const NEWLINE = "\n"
 

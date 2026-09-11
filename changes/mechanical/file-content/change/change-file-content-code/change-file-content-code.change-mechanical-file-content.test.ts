@@ -1,18 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as changeFile } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { runChange } from "akasha/changes/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  type Reaching,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   indexedRepo,
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import {
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange as changeFile } from "../change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange } from "./change-file-content-code.change-mechanical-file-content.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-file-content") {

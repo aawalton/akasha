@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { NOTHING_OVER, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { addressFor, runChange } from "./move-file-of-any-kind.change-mechanical.code.ts"
+import {
+  addressFor,
+  runChange,
+} from "akasha/changes/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const PAGE = "akasha/one.held.ts"
 

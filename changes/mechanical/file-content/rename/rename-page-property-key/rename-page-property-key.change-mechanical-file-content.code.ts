@@ -1,17 +1,17 @@
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import ts from "typescript"
 import {
   refusing,
   splicedIn,
   stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   keyOf,
   literalIn,
   valuesIn,
-} from "../../../../modules/page-literal/page-literal.module.code.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 function spelledAs(name: ts.PropertyName, now: string): string {
   return ts.isStringLiteral(name) ? JSON.stringify(now) : now

@@ -1,10 +1,13 @@
 import { dirname, extname } from "node:path"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  FileChange,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 

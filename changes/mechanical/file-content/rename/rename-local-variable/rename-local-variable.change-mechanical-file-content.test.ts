@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { renameLocalVariable } from "./rename-local-variable.change-mechanical-file-content.code.ts"
+import { renameLocalVariable } from "akasha/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "/repo/one.ts"
 

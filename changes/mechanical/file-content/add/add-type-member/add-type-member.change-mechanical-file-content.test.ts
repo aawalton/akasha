@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
 import {
+  addTypeMember,
+  runChange,
+} from "akasha/changes/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"
+import {
   bodyOf,
   refusalOf,
   worldOf,
-} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { addTypeMember, runChange } from "./add-type-member.change-mechanical-file-content.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "held/one.page-type.ts"
 

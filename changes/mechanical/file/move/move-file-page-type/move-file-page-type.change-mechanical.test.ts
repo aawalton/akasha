@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
+import { runChange } from "akasha/changes/mechanical/file/move/move-file-page-type/move-file-page-type.change-mechanical.code.ts"
 import {
   type Carried,
   worldRecording,
-} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./move-file-page-type.change-mechanical.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const TYPE = "akasha/kept.page-type.ts"
 

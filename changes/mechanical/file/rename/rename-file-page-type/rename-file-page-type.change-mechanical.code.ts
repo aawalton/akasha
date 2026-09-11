@@ -1,16 +1,16 @@
 import { dirname, extname } from "node:path"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
-import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
+import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import {
   type Reaches,
   reach,
   type World,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 

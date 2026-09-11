@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
-import { bodyOf, worldOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { addPageProperty } from "./add-page-property.change-mechanical-file-content.code.ts"
+import { addPageProperty } from "akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodyOf,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/held/kept.book-section.ts"
 

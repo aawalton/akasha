@@ -1,14 +1,17 @@
 import { expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
+import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import { changePagePropertyRelation } from "akasha/changes/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { bodyOf, knownOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange as changePageProperty } from "../change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { changePagePropertyRelation } from "./change-page-page-property-relation.change-mechanical-file-content.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  bodyOf,
+  knownOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-page-property") {

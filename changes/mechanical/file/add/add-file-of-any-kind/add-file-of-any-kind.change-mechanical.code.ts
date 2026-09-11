@@ -1,10 +1,13 @@
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  type Kind,
+  kindOf,
+} from "akasha/changes/modules/target-kinding/target-kinding.module.code.ts"
 import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
-import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { type Kind, kindOf } from "../../../../modules/target-kinding/target-kinding.module.code.ts"
 
 const AUTO = "auto"
 

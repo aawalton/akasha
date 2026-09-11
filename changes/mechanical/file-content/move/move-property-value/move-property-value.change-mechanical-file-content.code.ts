@@ -1,13 +1,17 @@
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import ts from "typescript"
-import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"
+import {
+  refusing,
+  spliced,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   keyOf,
   literalIn,
   matchingIn,
-} from "../../../../modules/page-literal/page-literal.module.code.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 export type Given = { readonly at: string; readonly key: string } & (
   | { readonly from: number; readonly to: number }

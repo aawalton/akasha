@@ -1,34 +1,34 @@
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
-import ts from "typescript"
-import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   gathered,
   refusing,
   splicedIn,
   stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   Answer,
   FileChange,
   Said,
   Splice,
-} from "../../../../modules/answer/change-answer.module.types.ts"
-import { readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { readFor } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   boundIn,
   keyOf,
   statedIn,
-} from "../../../../modules/page-literal/page-literal.module.code.ts"
+} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import {
   addedTo,
   isLedger,
   reach,
   type World,
   worldOver,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
+import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
+import ts from "typescript"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 

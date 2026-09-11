@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.types.ts"
+import type { ChangeMechanicalFile } from "akasha/changes/mechanical/file/change-mechanical-file.page-type.types.ts"
 
 export const addIfNotPresentFile = {
   id: "01a08188-1037-7ddd-b5cb-c727ac6ef590",

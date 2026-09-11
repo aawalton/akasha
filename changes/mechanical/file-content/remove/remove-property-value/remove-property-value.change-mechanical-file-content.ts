@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
+import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
 
 export const removePropertyValue = {
   id: "01a07758-01be-7649-a91a-f8952f0b468e",

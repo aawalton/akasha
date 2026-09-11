@@ -1,24 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  bodyOf,
-  HELD_CODE,
-  HELD_PAGE,
-  HELD_SLUG,
-  idOf,
-  indexedRepo,
-  NAMER_CODE,
-  NAMER_PAGE,
-  pageOf,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import {
-  bodiesIn,
-  ledgerAt,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { addressOf, runChange } from "./rename-file-page.change-mechanical.code.ts"
+  addressOf,
+  runChange,
+} from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
   KEPT_ENTRIES,
   KEPT_LANDS,
@@ -51,7 +35,26 @@ import {
   wayAt,
   wideAt,
   worldIn,
-} from "./rename-file-page.change-mechanical.test-fixtures.ts"
+} from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
+import {
+  bodiesIn,
+  ledgerAt,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { knownOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyOf,
+  HELD_CODE,
+  HELD_PAGE,
+  HELD_SLUG,
+  idOf,
+  indexedRepo,
+  NAMER_CODE,
+  NAMER_PAGE,
+  pageOf,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

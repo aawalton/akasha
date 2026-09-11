@@ -1,4 +1,4 @@
-import type { ChangeMechanical } from "../../../change-mechanical.page-type.types.ts"
+import type { ChangeMechanical } from "akasha/changes/mechanical/change-mechanical.page-type.types.ts"
 
 export const addFileOfAnyKind = {
   id: "01a081bf-3f33-77ca-96cc-29ff7017f563",

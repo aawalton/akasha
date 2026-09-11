@@ -1,4 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { renameSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -11,16 +21,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  bodiesIn,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange as changePageProperty } from "../../change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { renameSlug } from "./rename-page-slug.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)
 

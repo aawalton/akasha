@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
+import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"
 
 export const changePropertyRecordField = {
   id: "01a081da-03ff-76a3-b753-0344b352daa3",

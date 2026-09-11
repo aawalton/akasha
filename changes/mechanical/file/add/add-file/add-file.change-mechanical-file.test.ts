@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { worldOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { type Asked, runChange } from "./add-file.change-mechanical-file.code.ts"
+import {
+  type Asked,
+  runChange,
+} from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/one.held.ts"
 

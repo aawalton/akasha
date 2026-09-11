@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { gathered, pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   landingFor,
   renameManifestWays,
-} from "./change-manifest-ways.change-mechanical-file-content.code.ts"
+} from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
+import { gathered, pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "seat-system/package.json"
 

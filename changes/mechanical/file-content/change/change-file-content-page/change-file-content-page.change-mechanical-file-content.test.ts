@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { NOTHING_OVER, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange } from "./change-file-content-page.change-mechanical-file-content.code.ts"
+import { runChange } from "akasha/changes/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "akasha/one/kept.module.ts"
 

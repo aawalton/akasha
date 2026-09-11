@@ -1,4 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange } from "akasha/changes/mechanical/folder/remove/remove-folder-package/remove-folder-package.change-mechanical-folder.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   indexedRepo,
@@ -6,12 +12,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange } from "./remove-folder-package.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)
 

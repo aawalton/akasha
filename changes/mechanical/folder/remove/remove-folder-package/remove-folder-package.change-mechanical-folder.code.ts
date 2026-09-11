@@ -1,13 +1,13 @@
 import { dirname } from "node:path"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   calledIn,
   dependsIn,
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
-import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const PACKAGE = "workspace-package"
 

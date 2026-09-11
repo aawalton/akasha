@@ -1,16 +1,16 @@
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import ts from "typescript"
 import {
   refusing,
   splicing,
   stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,
   Said,
   Splice,
-} from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 const TYPED = /\.tsx?$/
 

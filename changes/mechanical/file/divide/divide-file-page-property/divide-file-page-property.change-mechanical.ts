@@ -1,4 +1,4 @@
-import type { ChangeMechanical } from "../../../change-mechanical.page-type.types.ts"
+import type { ChangeMechanical } from "akasha/changes/mechanical/change-mechanical.page-type.types.ts"
 
 export const divideFilePageProperty = {
   id: "01a08df0-6686-74e8-9c80-9ef236f19844",

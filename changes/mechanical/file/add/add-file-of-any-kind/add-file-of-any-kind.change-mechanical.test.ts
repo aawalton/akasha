@@ -1,7 +1,14 @@
 import { expect, test } from "bun:test"
-import { NOTHING_OVER, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { REACHING } from "../add-file/add-file.change-mechanical-file.test-fixtures.ts"
-import { addressFor, idFilled, runChange } from "./add-file-of-any-kind.change-mechanical.code.ts"
+import { REACHING } from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
+import {
+  addressFor,
+  idFilled,
+  runChange,
+} from "akasha/changes/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "akasha/one.held.ts"
 

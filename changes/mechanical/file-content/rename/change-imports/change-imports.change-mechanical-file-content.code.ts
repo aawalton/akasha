@@ -1,18 +1,18 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import {
+  notText,
+  refusing,
+  splicing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   landingOf,
   placedIn,
   specifierFor,
   spelledIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import {
-  notText,
-  refusing,
-  splicing,
-  stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const GENERATED = "+types"
 

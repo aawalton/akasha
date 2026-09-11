@@ -1,9 +1,9 @@
 import { basename, dirname, extname, join } from "node:path"
-import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
-import { pageIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
+import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 

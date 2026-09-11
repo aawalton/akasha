@@ -1,3 +1,11 @@
+import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  afterIn,
+  heldIn,
+  readFor,
+} from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   filedById,
   namesIn,
@@ -5,14 +13,6 @@ import {
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  afterIn,
-  heldIn,
-  readFor,
-} from "../../../../modules/page-knowing/page-knowing.module.code.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 

@@ -1,4 +1,31 @@
 import { afterAll, expect, test } from "bun:test"
+import { claimedFileNotLeftBehind } from "akasha/changes/guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
+import { importNotLeftHanging } from "akasha/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
+import { relationNotLeftHanging } from "akasha/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
+import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeCodeFile } from "akasha/changes/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts"
+import {
+  importersFirst,
+  parentsOf,
+  runChange,
+} from "akasha/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
+import { removeFilePage } from "akasha/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
+import { removePropertyValue } from "akasha/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
+import {
+  pathsIn,
+  refusing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import {
+  bodiesIn,
+  type Reaching,
+  type World,
+  worldAt,
+  worldOver,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   aProperty,
   aType,
@@ -13,29 +40,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { claimedFileNotLeftBehind } from "../../../../guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
-import { importNotLeftHanging } from "../../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { relationNotLeftHanging } from "../../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
-import { pathsIn, refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard } from "../../../../modules/guarding/change-guarding.module.types.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-  worldAt,
-  worldOver,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import { runChange as removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
-import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical.code.ts"
-import {
-  importersFirst,
-  parentsOf,
-  runChange,
-} from "./remove-file-page.change-mechanical-file.code.ts"
-import { removeFilePage } from "./remove-file-page.change-mechanical-file.ts"
 
 type Unnaming = { at: string; key: string; value: string }
 
@@ -366,7 +370,7 @@ test("a page and the file beside that page leave no file behind", async () => {
   expect([...pathsIn(said)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
-import { ledgerAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 test("a page taken away over a ledger is answered rather than answered twice", async () => {
   const root = indexedRepo()

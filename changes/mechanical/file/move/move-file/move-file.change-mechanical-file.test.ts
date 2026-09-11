@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
 import {
+  type Asked,
+  runChange,
+} from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import {
   refusalOf,
   worldOf,
-} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { type Asked, runChange } from "./move-file.change-mechanical-file.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const FROM = "akasha/one.held.ts"
 

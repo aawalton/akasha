@@ -1,13 +1,9 @@
 import { dirname } from "node:path"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import {
-  landingOf,
-  specifierFor,
-} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import ts from "typescript"
-import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  FileChange,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   anchorIn,
   type Carried,
@@ -18,8 +14,15 @@ import {
   namingOf,
   openedIn,
   withoutOne,
-} from "../../../../modules/import-lines/import-lines.module.code.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import {
+  landingOf,
+  specifierFor,
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import ts from "typescript"
 
 const ADD_FILE_CODE = "change-mechanical/add-file-code"
 

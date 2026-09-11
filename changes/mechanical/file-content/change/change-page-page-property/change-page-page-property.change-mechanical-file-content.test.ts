@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { restated } from "./change-page-page-property.change-mechanical-file-content.code.ts"
+import { restated } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 function ranOn(path: string, text: string, key: string, to: string): Answer {
   return restated(path, text, key, to)

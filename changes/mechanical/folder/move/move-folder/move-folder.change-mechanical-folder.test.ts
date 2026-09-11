@@ -1,4 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { runChange } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { treeUnentered } from "akasha/changes/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import {
   indexedRepo,
   pageOf,
@@ -6,17 +17,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { treeUnentered } from "../../../../modules/shadow-tree/change-shadow-tree.module.code.ts"
-import { runChange as moveFile } from "../../../file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as changeManifestWays } from "../../../file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange } from "./move-folder.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)
 

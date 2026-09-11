@@ -1,4 +1,24 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
+import { runChange as renamePageSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
+import { runChange as moveFolderChange } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
+import {
+  landingFor,
+  runChange,
+  slugNaming,
+} from "akasha/changes/mechanical/folder/move/move-folder-package/move-folder-package.change-mechanical-folder.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type Reaching,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -7,26 +27,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsIn, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange as moveFile } from "../../../file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../../../file/move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as renameFilePage } from "../../../file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
-import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "../../../file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "../../../file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "../../../file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { runChange as moveFolderChange } from "../move-folder/move-folder.change-mechanical-folder.code.ts"
-import {
-  landingFor,
-  runChange,
-  slugNaming,
-} from "./move-folder-package.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)
 

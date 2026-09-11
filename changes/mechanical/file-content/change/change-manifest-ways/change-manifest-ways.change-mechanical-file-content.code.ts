@@ -1,13 +1,13 @@
 import { dirname, join } from "node:path"
-import ts from "typescript"
 import {
   refusing,
   splicing,
   stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import { goneSpan, objectOf } from "../../../../modules/json-entries/json-entries.module.code.ts"
-import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { goneSpan, objectOf } from "akasha/changes/modules/json-entries/json-entries.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import ts from "typescript"
 
 const EXPORTS = "exports"
 

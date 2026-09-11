@@ -1,5 +1,5 @@
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 

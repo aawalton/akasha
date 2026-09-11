@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf, worldOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   respelled,
   runChange,
-} from "./rename-page-property-key.change-mechanical-file-content.code.ts"
+} from "akasha/changes/mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodyOf,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 

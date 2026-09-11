@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const changeMechanicalFileContentAppend = {
   id: "01a08c37-3a63-732e-8729-c8a65910b807",

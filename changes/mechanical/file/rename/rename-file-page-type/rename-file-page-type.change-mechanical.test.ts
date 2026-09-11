@@ -1,4 +1,24 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
+import { runChange } from "akasha/changes/mechanical/file/rename/rename-file-page-type/rename-file-page-type.change-mechanical.code.ts"
+import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
+import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddresses } from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
+import { runChange as renamePageSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  type Reaching,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   idOf,
   indexedRepo,
@@ -6,26 +26,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsIn, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange as changeFileContent } from "../../../file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange as changeManifestWays } from "../../../file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
-import { runChange as changePageProperty } from "../../../file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "../../../file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "../../../file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddresses } from "../../../file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
-import { runChange as renamePageSlug } from "../../../file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { runChange as moveFile } from "../../move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../../move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as renameFilePage } from "../rename-file-page/rename-file-page.change-mechanical.code.ts"
-import { runChange } from "./rename-file-page-type.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
 

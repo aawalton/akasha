@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
 import {
-  bodyOf,
-  refusalOf,
-  worldOf,
-} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import {
   addPropertyRecord,
   recordIn,
   runChange,
-} from "./add-property-record.change-mechanical-file-content.code.ts"
+} from "akasha/changes/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"
+import {
+  bodyOf,
+  refusalOf,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "held/one.page-type.ts"
 

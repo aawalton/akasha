@@ -1,16 +1,16 @@
 import { expect, test } from "bun:test"
-import { pathsOf } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  bodiesIn,
-  NOTHING_OVER,
-  type World,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import {
   openingsIn,
   pathsOver,
   renamePageAddresses,
-} from "./rename-page-addresses.change-mechanical-file-content.code.ts"
+} from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const ONE_WAS = ["held-kind", "held-one"].join("/")
 

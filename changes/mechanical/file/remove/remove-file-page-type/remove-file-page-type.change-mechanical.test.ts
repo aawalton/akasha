@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange } from "akasha/changes/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.code.ts"
+import { worldTaking } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   bodyOf,
   idOf,
   indexedRepo,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { worldTaking } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./remove-file-page-type.change-mechanical.code.ts"
 
 const REACHES = "change-mechanical-file/remove-file-page"
 

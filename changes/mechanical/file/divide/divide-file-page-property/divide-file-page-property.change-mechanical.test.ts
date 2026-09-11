@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { editsOver, linesIn, partsFor } from "./divide-file-page-property.change-mechanical.code.ts"
+import {
+  editsOver,
+  linesIn,
+  partsFor,
+} from "akasha/changes/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.code.ts"
 
 const PAGE = "made-up/logs/one/one.made-up-log.ts"
 

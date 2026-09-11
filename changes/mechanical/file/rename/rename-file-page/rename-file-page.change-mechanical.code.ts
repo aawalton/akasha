@@ -1,7 +1,23 @@
 import { basename, dirname, extname, join, relative } from "node:path"
+import {
+  gathered,
+  refusing,
+  splicedIn,
+  splicing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  FileChange,
+  Splice,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { spelledAnew } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
+import { statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   besideAt,
   secretAt,
@@ -13,33 +29,14 @@ import {
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import type { Beside as Sidecar } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
-import ts from "typescript"
-import {
-  exportedAs,
-  typedAs,
-} from "../../../../../pages/export-name/page-export-name.module.code.ts"
-import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   folderFor,
   namedForThePlural,
-} from "../../../../../pages/service/page-composing/page-composing.module.code.ts"
-import {
-  gathered,
-  refusing,
-  splicedIn,
-  splicing,
-  stating,
-} from "../../../../modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Splice,
-} from "../../../../modules/answer/change-answer.module.types.ts"
-import { spelledAnew } from "../../../../modules/package-naming/package-naming.module.code.ts"
-import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
+import ts from "typescript"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
