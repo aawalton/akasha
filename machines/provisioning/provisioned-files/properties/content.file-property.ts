@@ -8,5 +8,6 @@ export const content = {
   propertySlug: "content",
   definition: "the body a provisioned file is put in place with",
   extensions: ["sh", "conf", "json"],
+  writtenBy: "module-property-group/filling",
   types: "ts",
 } as const satisfies FileProperty

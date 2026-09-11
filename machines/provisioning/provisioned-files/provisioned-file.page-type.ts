@@ -29,6 +29,7 @@ export const provisionedFile = {
     "select-property/placed-by",
     "text-property/install-path",
     "text-property/reload-with",
+    "module-property-group/filling",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -37,6 +38,7 @@ export const provisionedFile = {
     { pageProperty: "select-property/only-on", required: true, many: false },
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "text-property/reload-with", required: false, many: false },
+    { pageProperty: "module-property-group/filling", required: false, many: false },
   ],
   invariants: [
     {
