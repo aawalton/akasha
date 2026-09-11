@@ -1,5 +1,6 @@
 import { suggestClosest } from "akasha/temper/build-deploy-checks/suggest-closest/suggest-closest.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 
 export type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }
@@ -45,12 +46,8 @@ export type ParseOptions = {
   readonly passthrough?: boolean
 }
 
-function camelToKebab(s: string): string {
-  return s.replace(/[A-Z]/g, (c) => `-${c.toLowerCase()}`)
-}
-
 function kebabFor(name: string): string {
-  return `--${camelToKebab(name)}`
+  return `--${dashEachCapital(name)}`
 }
 
 function isFlagToken(s: string): boolean {
@@ -75,13 +72,13 @@ function coerceValue(
 ): boolean | string | number | readonly string[] {
   switch (spec.kind) {
     case "boolean":
-      throw new Error(`Flag --${camelToKebab(flagName)} is boolean and takes no value`)
+      throw new Error(`Flag --${dashEachCapital(flagName)} is boolean and takes no value`)
     case "string":
       return raw
     case "number": {
       const n = Number(raw)
       if (Number.isNaN(n)) {
-        throw new Error(`Flag --${camelToKebab(flagName)} expects a number, got: ${raw}`)
+        throw new Error(`Flag --${dashEachCapital(flagName)} expects a number, got: ${raw}`)
       }
       return n
     }

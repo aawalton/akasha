@@ -22,5 +22,9 @@ export const pagePropertyKey = {
       invariantKind: "absence",
       statement: "Nothing here reads a page or the disk.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing is imported here, so dash-each-capital spells this rule a second time.",
+    },
   ],
 } as const satisfies Module

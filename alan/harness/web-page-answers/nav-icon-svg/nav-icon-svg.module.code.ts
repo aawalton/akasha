@@ -1,5 +1,6 @@
 import { yellow } from "akasha/design/interfaces/colors/pages/yellow.color.ts"
 import { resolveIconName } from "akasha/pages/core/icon/icon.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 import dynamicIconImports from "lucide-react/dynamicIconImports"
 
 export const NAV_ICON_ACCENT = yellow.hex
@@ -22,10 +23,6 @@ function escapeAttr(value: string): string {
     .replace(/>/g, "&gt;")
 }
 
-function camelToKebab(input: string): string {
-  return input.replace(/[A-Z]/g, (m) => `-${m.toLowerCase()}`)
-}
-
 type IconNode = ReadonlyArray<readonly [string, Readonly<Record<string, string>>]>
 
 function serializeIconNode(node: IconNode): string {
@@ -33,7 +30,7 @@ function serializeIconNode(node: IconNode): string {
     .map(([tag, attrs]) => {
       const serialized = Object.entries(attrs)
         .filter(([key]) => key !== "key")
-        .map(([key, value]) => `${camelToKebab(key)}="${escapeAttr(value)}"`)
+        .map(([key, value]) => `${dashEachCapital(key)}="${escapeAttr(value)}"`)
         .join(" ")
       return `<${tag} ${serialized} />`
     })
