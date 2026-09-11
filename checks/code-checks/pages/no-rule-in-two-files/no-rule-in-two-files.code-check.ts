@@ -61,6 +61,15 @@ export const noRuleInTwoFiles = {
       statement: "Two namings of one shape in two domains keep step with nothing and do not drift.",
     },
     {
+      invariantKind: "absence",
+      statement: "A body naming by a literal rather than by a template is not read as a naming.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Widening the naming exemption to take it in would narrow this check, which no one has approved.",
+    },
+    {
       invariantKind: "departure",
       statement: "A body with nothing to change cannot drift.",
     },
