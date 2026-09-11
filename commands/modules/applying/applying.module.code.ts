@@ -35,7 +35,8 @@ import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { textAt as textIn, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt as textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 

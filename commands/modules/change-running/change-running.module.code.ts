@@ -47,7 +47,7 @@ import {
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const PAGE_LANDING =
   "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +

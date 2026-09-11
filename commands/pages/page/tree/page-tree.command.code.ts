@@ -11,7 +11,12 @@ import {
   type Valued,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  slugAt,
+  slugsIn,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PROPERTY_ROOT = "page-property"

@@ -45,8 +45,8 @@ import {
   type Put,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
 

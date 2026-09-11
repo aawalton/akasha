@@ -7,7 +7,8 @@ import {
   quoted,
 } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
-import { textAt, type Value, valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   type Stopped,

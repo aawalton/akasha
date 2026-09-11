@@ -3,7 +3,8 @@ import { dirname, join } from "node:path"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { textAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const LINKED_AT = "linkedAt"
 

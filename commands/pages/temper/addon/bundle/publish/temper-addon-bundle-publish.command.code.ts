@@ -8,7 +8,7 @@ import { temperAddonBuild } from "akasha/commands/pages/temper/addon/build/tempe
 import { temperAddonBundleBuild } from "akasha/commands/pages/temper/addon/bundle/build/temper-addon-bundle-build.command.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

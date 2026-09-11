@@ -41,7 +41,7 @@ import {
   TOLD_NOTHING,
   type Told,
 } from "akasha/commands/pages/music/capture/music-capture.command.test-fixtures.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const refusalOf = refusingWith(taken)
 
