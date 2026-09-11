@@ -1,11 +1,11 @@
-import type { Computer } from "akasha/machines/computers/computer.page-type.types.ts"
+import type { Computer } from "akasha/infrastructure/machines/computers/computer.page-type.types.ts"
 
-export const lizzysPc = {
-  id: "019e8b92-3a88-7be9-a309-2dca645b81f4",
+export const guestPc1 = {
+  id: "019e8b92-39c3-7177-8c29-25205a430d9a",
   pageTypeSlug: "computer",
   type: "computer",
-  slug: "lizzys-pc",
-  title: "Lizzy’s PC",
+  slug: "guest-pc-1",
+  title: "Guest PC 1",
   brand: "msi",
   cost: 544.74,
   cpuScore: 49752,
