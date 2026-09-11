@@ -18,10 +18,6 @@ export const proportional = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree is weighed in proportional memory rather than in resident memory.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A process's proportional memory rises when a process sharing with it ends.",
     },
   ],

@@ -13,23 +13,23 @@ export const memoryReaping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every agent supervisor tree running as uid 1000 is watched.",
+      statement: "Every process running as uid 1000 is weighed, and a supervisor roots a tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A tree is killed only under host memory pressure.",
+      statement: "A tree over its ceiling is taken whether or not the host is short of memory.",
     },
     {
       invariantKind: "departure",
-      statement: "The tree killed is the single largest by subtree total.",
+      statement: "The tree the headroom leg takes is the single largest by subtree total.",
     },
     {
       invariantKind: "departure",
-      statement: "One tree goes per kill.",
+      statement: "The headroom leg takes one tree at a time.",
     },
     {
       invariantKind: "departure",
-      statement: "A kill is followed by a recovery window in which nothing else is killed.",
+      statement: "A headroom kill is followed by a window in which that leg takes nothing else.",
     },
   ],
   parts: [

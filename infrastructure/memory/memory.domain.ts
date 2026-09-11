@@ -22,10 +22,6 @@ export const memory = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of memory names the kind that reading is in.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A host out of memory ends a program rather than refusing the ask.",
     },
   ],
