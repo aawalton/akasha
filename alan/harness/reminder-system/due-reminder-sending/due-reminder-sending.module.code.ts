@@ -23,7 +23,7 @@ async function sendOne(one: Found): Promise<string | null> {
   return null
 }
 
-async function main(): Promise<number> {
+export async function sendDueReminders(): Promise<number> {
   const root = akashaRoot()
   const now = Date.now()
   const held: string[] = []
@@ -72,4 +72,4 @@ async function main(): Promise<number> {
   return held.length === 0 ? 0 : 1
 }
 
-if (import.meta.main) process.exit(await main())
+if (import.meta.main) process.exit(await sendDueReminders())
