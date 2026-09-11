@@ -16,4 +16,11 @@ export const terminalShell = {
     "module/terminal-seat-marks",
     "module/terminal-seat-stating",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A restart of the editor puts every interactive seat back in the terminal tab that seat held.",
+    },
+  ],
 } as const satisfies Domain
