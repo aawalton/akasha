@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatReplacingClockTimeCosts = {
   id: "01a077e4-25dc-789c-812a-64452f0a88c3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-replacing-clock-time-costs",
   topic: "how-i-keep-urgency-out",

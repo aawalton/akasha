@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheWeightOfTheFindingLands = {
   id: "01a077f0-1414-7fcd-b166-9b7de84247e2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-weight-of-the-finding-lands",
   topic: "testing-the-thing-at-my-centre",

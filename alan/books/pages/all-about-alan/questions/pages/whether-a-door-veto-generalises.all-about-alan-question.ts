@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherADoorVetoGeneralises = {
   id: "01a077ea-fd54-7928-a1a4-96fbed8ff813",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-door-veto-generalises",
   topic: "what-it-takes-to-break-me",

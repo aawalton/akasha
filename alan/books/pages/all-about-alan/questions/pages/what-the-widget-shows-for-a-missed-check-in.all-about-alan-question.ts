@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheWidgetShowsForAMissedCheckIn = {
   id: "01a077ea-b510-7c00-8803-eda863206a6d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-widget-shows-for-a-missed-check-in",
   topic: "showing-jen-where-i-am",

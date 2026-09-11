@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnyMeaningSkipsTheClick = {
   id: "01a077e5-cc57-7ff8-9308-9e83310d4668",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-any-meaning-skips-the-click",
   topic: "when-something-starts-to-mean-something",

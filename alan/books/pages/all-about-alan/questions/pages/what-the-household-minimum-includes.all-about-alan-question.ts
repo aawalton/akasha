@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheHouseholdMinimumIncludes = {
   id: "01a077ef-88a0-706c-8821-f95cb8364c7a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-household-minimum-includes",
   topic: "the-year-i-cut-everyone-out",

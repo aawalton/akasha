@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherIThinkInMathsShapedFrames = {
   id: "01a077ec-b16b-724e-abfa-7ce19e6d3ffb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-i-think-in-maths-shaped-frames",
   topic: "how-i-decide",

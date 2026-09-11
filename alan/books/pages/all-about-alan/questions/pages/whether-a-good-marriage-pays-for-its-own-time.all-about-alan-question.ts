@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAGoodMarriagePaysForItsOwnTime = {
   id: "01a0785f-df04-762a-aab1-4a2781984a13",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-good-marriage-pays-for-its-own-time",
   topic: "why-i-overspend-on-the-marriage",

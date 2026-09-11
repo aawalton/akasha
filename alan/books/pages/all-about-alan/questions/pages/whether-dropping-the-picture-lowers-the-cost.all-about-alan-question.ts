@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherDroppingThePictureLowersTheCost = {
   id: "01a077e4-3d41-779b-bf4d-a5246f8a4d6c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-dropping-the-picture-lowers-the-cost",
   topic: "being-known",

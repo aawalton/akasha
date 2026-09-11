@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherEffortPerUpdateStaysConstant = {
   id: "01a077e9-010a-72a4-bfe4-c5e7082f704b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-effort-per-update-stays-constant",
   topic: "what-it-costs-someone-to-know-me",

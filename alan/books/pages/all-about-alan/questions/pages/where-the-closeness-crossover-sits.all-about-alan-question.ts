@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheClosenessCrossoverSits = {
   id: "01a077eb-dc04-7523-aa1d-478559e45938",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-closeness-crossover-sits",
   topic: "whether-any-closeness-escapes-it",

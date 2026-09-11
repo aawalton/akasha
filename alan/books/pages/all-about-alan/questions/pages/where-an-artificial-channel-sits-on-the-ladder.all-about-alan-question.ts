@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereAnArtificialChannelSitsOnTheLadder = {
   id: "01a077ea-d370-71ae-98f7-0dfb612201d6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-an-artificial-channel-sits-on-the-ladder",
   topic: "what-the-channel-has-to-carry",

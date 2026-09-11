@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherBorrowedSentimentWeakens = {
   id: "01a077ed-59a3-70e1-acd4-6a96f1a625d5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-borrowed-sentiment-weakens",
   topic: "feeling-affection",

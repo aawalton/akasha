@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSendsMeIntoMachineMode = {
   id: "01a077ec-8a98-7fca-a628-4ba500dcfac5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-sends-me-into-machine-mode",
   topic: "driving-myself-like-a-machine",

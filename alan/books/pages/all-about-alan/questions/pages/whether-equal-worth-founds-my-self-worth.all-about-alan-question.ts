@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherEqualWorthFoundsMySelfWorth = {
   id: "01a077e9-f5a6-770d-a1bc-6ea99e0e304c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-equal-worth-founds-my-self-worth",
   topic: "where-my-ethics-meets-my-rules",

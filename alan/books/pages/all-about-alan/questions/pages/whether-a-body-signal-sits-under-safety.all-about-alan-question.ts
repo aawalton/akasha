@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherABodySignalSitsUnderSafety = {
   id: "01a077ed-fcff-7ec6-b3a2-7db820e38179",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-body-signal-sits-under-safety",
   topic: "not-wanting-to-is-the-gauge",

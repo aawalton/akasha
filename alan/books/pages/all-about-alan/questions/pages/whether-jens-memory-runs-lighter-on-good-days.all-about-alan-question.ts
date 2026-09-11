@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherJensMemoryRunsLighterOnGoodDays = {
   id: "01a077ea-b02d-793c-b6e1-b7356e199847",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-jens-memory-runs-lighter-on-good-days",
   topic: "the-twenty-years-we-remember-differently",

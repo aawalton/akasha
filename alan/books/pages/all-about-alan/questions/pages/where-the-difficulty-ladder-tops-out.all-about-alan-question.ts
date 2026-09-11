@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheDifficultyLadderTopsOut = {
   id: "01a077e9-c885-7076-ba2d-a4fabc4bee30",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-difficulty-ladder-tops-out",
   topic: "how-hard-a-thing-is",

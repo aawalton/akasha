@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSeparatesAFrameworkThatInstalls = {
   id: "01a077ee-41d3-7e5f-a9ea-21cd219dc721",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-separates-a-framework-that-installs",
   topic: "which-frameworks-take-in-me",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAStoryDrainsTheBacklog = {
   id: "01a077e9-608e-7c39-9576-f49757dab049",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-story-drains-the-backlog",
   topic: "letting-a-feeling-in-through-a-story",

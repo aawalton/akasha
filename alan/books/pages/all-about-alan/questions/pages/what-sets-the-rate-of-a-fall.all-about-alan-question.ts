@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSetsTheRateOfAFall = {
   id: "01a077e8-2836-76a1-b59b-dde1951435b5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-sets-the-rate-of-a-fall",
   topic: "what-a-level-of-recovery-costs",

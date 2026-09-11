@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheTrusteeshipAndTheEstrangementHold = {
   id: "01a077f0-3314-75e4-97c2-6f74b52b703b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-trusteeship-and-the-estrangement-hold",
   topic: "the-years-with-my-parents",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherABathResetsMyHeat = {
   id: "01a077e5-3da4-7654-94c6-1fca7052712e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-bath-resets-my-heat",
   topic: "how-warm-i-run",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTouchAndTasteToolsSit = {
   id: "01a077e7-14ba-747a-99d1-37b6e0f6dfdc",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-touch-and-taste-tools-sit",
   topic: "how-i-pick-a-sensory-tool",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereAConcentrationFitsInMyRanking = {
   id: "01a077e1-ff90-7280-9fa3-a4bf635796dd",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-a-concentration-fits-in-my-ranking",
   topic: "getting-out-from-under-a-dependency",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLooseEqualsTightEverywhere = {
   id: "01a077e8-2e11-72bc-9d91-d71991835199",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-loose-equals-tight-everywhere",
   topic: "keeping-my-skin-off-my-skin",

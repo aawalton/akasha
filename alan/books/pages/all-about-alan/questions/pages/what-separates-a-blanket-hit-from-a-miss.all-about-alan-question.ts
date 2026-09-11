@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSeparatesABlanketHitFromAMiss = {
   id: "01a077ed-8068-7d64-8521-ceaee605111b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-separates-a-blanket-hit-from-a-miss",
   topic: "the-weighted-blanket",

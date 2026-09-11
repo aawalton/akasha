@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMyLaterSelvesAreOwed = {
   id: "01a077ee-7a23-7087-a94b-376f0e705f6c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-my-later-selves-are-owed",
   topic: "why-the-going-has-to-be-the-point",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherKeepingMyMarriageIsScriptOrChoice = {
   id: "01a077ef-ab2c-7034-90cb-cec0013625ac",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-keeping-my-marriage-is-script-or-choice",
   topic: "what-holds-my-marriage",

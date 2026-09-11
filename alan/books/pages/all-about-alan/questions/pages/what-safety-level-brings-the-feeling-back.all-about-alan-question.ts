@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSafetyLevelBringsTheFeelingBack = {
   id: "01a077ed-f029-7790-a195-544230df97a9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-safety-level-brings-the-feeling-back",
   topic: "feeling-my-faith",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherInterestOverridesMySafetyLine = {
   id: "01a077e6-544a-7eec-857a-673e3b90a0bb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-interest-overrides-my-safety-line",
   topic: "what-i-let-myself-take-on",

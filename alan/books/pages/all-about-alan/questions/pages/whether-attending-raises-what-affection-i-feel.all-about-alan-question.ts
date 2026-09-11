@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAttendingRaisesWhatAffectionIFeel = {
   id: "01a077ed-59a1-7496-b61e-e7d44e14d1cf",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-attending-raises-what-affection-i-feel",
   topic: "feeling-affection",

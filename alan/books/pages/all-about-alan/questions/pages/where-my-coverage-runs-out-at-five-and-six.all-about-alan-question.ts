@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereMyCoverageRunsOutAtFiveAndSix = {
   id: "01a077e4-c6d0-7ad9-903e-d32aedd7f20a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-my-coverage-runs-out-at-five-and-six",
   topic: "why-climbing-sets-off-the-fall",

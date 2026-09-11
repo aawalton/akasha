@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMyBodyCarriesWhenMyHeadIsKnown = {
   id: "01a077ec-a010-7bcc-90fa-d8f24b5c8e25",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-my-body-carries-when-my-head-is-known",
   topic: "how-much-being-known-i-need",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAPainlessDriftGoesUnrecognised = {
   id: "01a077e9-5ccd-7bb8-89da-747c0481c79c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-painless-drift-goes-unrecognised",
   topic: "how-god-reaches-me",

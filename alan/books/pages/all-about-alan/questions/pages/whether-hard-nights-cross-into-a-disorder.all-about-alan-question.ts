@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherHardNightsCrossIntoADisorder = {
   id: "01a077ec-856f-7e76-9e88-546fcdea98db",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-hard-nights-cross-into-a-disorder",
   topic: "sleep",

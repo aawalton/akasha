@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAProtectiveBeliefNeedsAReplacementFirst = {
   id: "01a077eb-ffdd-7313-9f2e-f5dbd6ee1aee",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-protective-belief-needs-a-replacement-first",
   topic: "digging-up-an-old-belief",

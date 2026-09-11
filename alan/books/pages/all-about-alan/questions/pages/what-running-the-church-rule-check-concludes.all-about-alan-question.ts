@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatRunningTheChurchRuleCheckConcludes = {
   id: "01a077ed-8933-75e6-911e-149d85610d98",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-running-the-church-rule-check-concludes",
   topic: "whether-the-rule-survives",

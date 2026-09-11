@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatOverBuildingAPlanCostsMe = {
   id: "01a077ee-e455-7ff7-af60-38de67bed80b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-over-building-a-plan-costs-me",
   topic: "the-plans-i-over-build",

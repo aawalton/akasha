@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnOutsideSensorCatchesTheInvisibleHalf = {
   id: "01a077e9-14ae-7e48-aad4-bb6af3630812",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-an-outside-sensor-catches-the-invisible-half",
   topic: "why-i-keep-hard-truths-back",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAttentionRecoversEverySignal = {
   id: "01a077f1-13b8-7089-88eb-17ad78931e06",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-attention-recovers-every-signal",
   topic: "the-body-signals-i-can-barely-hear",

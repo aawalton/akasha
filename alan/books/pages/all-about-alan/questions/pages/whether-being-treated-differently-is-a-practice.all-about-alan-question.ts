@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherBeingTreatedDifferentlyIsAPractice = {
   id: "01a077e6-d639-758c-a986-296234721c58",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-being-treated-differently-is-a-practice",
   topic: "where-connection-could-come-from",

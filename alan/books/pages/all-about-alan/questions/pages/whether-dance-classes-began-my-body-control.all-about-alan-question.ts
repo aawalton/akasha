@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherDanceClassesBeganMyBodyControl = {
   id: "01a077f0-9abd-770b-a199-7f87a63b712b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-dance-classes-began-my-body-control",
   topic: "the-best-three-years",

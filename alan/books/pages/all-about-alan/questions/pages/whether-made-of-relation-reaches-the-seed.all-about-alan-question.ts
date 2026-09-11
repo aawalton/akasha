@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMadeOfRelationReachesTheSeed = {
   id: "01a077eb-ea0f-70bd-b12a-21fa5ede049a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-made-of-relation-reaches-the-seed",
   topic: "what-kind-of-thing-a-self-is",

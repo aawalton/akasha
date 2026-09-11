@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheMooreMethodGaveMe = {
   id: "01a077e2-fc04-7a4d-aae6-6e11dc6dc04f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-moore-method-gave-me",
   topic: "being-an-inventor-not-a-coder",

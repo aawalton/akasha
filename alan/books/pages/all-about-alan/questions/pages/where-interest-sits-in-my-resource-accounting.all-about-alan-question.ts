@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereInterestSitsInMyResourceAccounting = {
   id: "01a077e6-d93e-7cc1-9275-060c05e7a276",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-interest-sits-in-my-resource-accounting",
   topic: "what-pulls-me-into-doing-something",

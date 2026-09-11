@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLosingAutonomyCausedTheNerveDamage = {
   id: "01a077eb-39eb-7a81-8950-3aa7c52d1268",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-losing-autonomy-caused-the-nerve-damage",
   topic: "the-two-decades-i-came-through",

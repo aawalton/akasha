@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAbbysFourStepShapeHolds = {
   id: "01a077e6-d795-738c-8de9-63e53777e434",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-abbys-four-step-shape-holds",
   topic: "the-shape-behind-the-two-lines",

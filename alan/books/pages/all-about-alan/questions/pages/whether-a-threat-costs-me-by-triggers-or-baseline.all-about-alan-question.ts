@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAThreatCostsMeByTriggersOrBaseline = {
   id: "01a077f1-b1c2-79a5-b049-6a02cf251bf0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-threat-costs-me-by-triggers-or-baseline",
   topic: "why-a-threat-stays-fresh",

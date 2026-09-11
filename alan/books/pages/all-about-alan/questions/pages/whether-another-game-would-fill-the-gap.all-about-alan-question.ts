@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnotherGameWouldFillTheGap = {
   id: "01a077ea-3131-7a31-bec7-b0bc4d1a325b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-another-game-would-fill-the-gap",
   topic: "how-i-watch-my-agents",

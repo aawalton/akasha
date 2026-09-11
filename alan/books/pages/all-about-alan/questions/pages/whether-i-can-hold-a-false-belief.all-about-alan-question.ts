@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherICanHoldAFalseBelief = {
   id: "01a077e4-6131-72b2-9ad6-ad1dcb13e784",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-i-can-hold-a-false-belief",
   topic: "re-opening-what-i-took-in-whole",

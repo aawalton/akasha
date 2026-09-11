@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherBehaviourAndUncertaintyLearn = {
   id: "01a077e9-7d74-71ed-b60c-f720e3a8f666",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-behaviour-and-uncertainty-learn",
   topic: "how-i-read-whether-someone-is-safe",

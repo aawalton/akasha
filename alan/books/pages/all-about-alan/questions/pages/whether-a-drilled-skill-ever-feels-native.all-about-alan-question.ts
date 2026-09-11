@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherADrilledSkillEverFeelsNative = {
   id: "01a077e7-d87b-7682-907f-2bd4cf212eef",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-drilled-skill-ever-feels-native",
   topic: "building-a-people-skill-by-hand",

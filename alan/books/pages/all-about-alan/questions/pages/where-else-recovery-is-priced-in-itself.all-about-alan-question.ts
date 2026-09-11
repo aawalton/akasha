@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereElseRecoveryIsPricedInItself = {
   id: "01a077e3-ad50-72a8-9b2a-fd60c648b116",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-else-recovery-is-priced-in-itself",
   topic: "recovery-costs-what-it-restores",

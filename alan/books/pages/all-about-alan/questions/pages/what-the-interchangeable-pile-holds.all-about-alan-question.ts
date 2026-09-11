@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheInterchangeablePileHolds = {
   id: "01a077e5-4d70-7ce7-9b33-cd18311e7871",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-interchangeable-pile-holds",
   topic: "the-scaffolding-i-built",

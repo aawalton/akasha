@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereMusicSitsWhileIWatchAgents = {
   id: "01a077ea-3131-7085-a345-ddfdf464fe2d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-music-sits-while-i-watch-agents",
   topic: "how-i-watch-my-agents",

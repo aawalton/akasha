@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnythingButUnderstandingReachesMe = {
   id: "01a077ed-9aad-7da9-a61c-f3a30c7b2cf1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-anything-but-understanding-reaches-me",
   topic: "what-understanding-cannot-reach",

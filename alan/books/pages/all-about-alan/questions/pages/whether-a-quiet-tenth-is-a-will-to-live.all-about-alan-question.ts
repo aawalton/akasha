@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAQuietTenthIsAWillToLive = {
   id: "01a077ef-20e7-771b-ba07-c274c25c6de1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-quiet-tenth-is-a-will-to-live",
   topic: "what-has-kept-me-here",

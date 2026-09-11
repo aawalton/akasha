@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAFirstPersonChannelOnLoveExists = {
   id: "01a077f0-df9c-774b-b06d-dce7f8ed533a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-first-person-channel-on-love-exists",
   topic: "working-out-what-love-is",

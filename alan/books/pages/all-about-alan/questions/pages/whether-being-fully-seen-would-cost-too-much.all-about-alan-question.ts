@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherBeingFullySeenWouldCostTooMuch = {
   id: "01a077e9-14b0-7ca5-86d1-cd34df318903",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-being-fully-seen-would-cost-too-much",
   topic: "why-i-keep-hard-truths-back",

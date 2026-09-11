@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnUntendedRelationshipErodes = {
   id: "01a077e2-2608-70d2-be21-7c6c06f44eff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-an-untended-relationship-erodes",
   topic: "how-stale-my-read-on-a-relationship-gets",

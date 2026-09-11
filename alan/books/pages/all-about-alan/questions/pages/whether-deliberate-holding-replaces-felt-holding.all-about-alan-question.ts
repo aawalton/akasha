@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherDeliberateHoldingReplacesFeltHolding = {
   id: "01a077f0-64af-711f-a188-975b298e5850",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-deliberate-holding-replaces-felt-holding",
   topic: "who-is-holding-the-rope",

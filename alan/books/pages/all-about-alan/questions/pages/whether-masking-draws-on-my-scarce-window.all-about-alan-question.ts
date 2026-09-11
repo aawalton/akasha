@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMaskingDrawsOnMyScarceWindow = {
   id: "01a077e6-4df6-7eda-b5f8-6b3f1f4a20b9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-masking-draws-on-my-scarce-window",
   topic: "being-the-one-who-knows",

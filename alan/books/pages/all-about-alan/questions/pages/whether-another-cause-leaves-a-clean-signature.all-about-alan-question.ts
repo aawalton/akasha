@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnotherCauseLeavesACleanSignature = {
   id: "01a077e8-716e-72f9-b333-ca5315c14318",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-another-cause-leaves-a-clean-signature",
   topic: "what-shortens-my-nights",

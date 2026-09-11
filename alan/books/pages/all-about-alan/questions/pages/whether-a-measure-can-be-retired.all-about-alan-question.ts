@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAMeasureCanBeRetired = {
   id: "01a077f1-7f7e-7fba-a049-f886bb21c7d3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-measure-can-be-retired",
   topic: "writing-a-new-want-into-myself",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherEmptyingIsWorkOrAState = {
   id: "01a077e6-4efb-767e-9da0-bcb3cac40568",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-emptying-is-work-or-a-state",
   topic: "what-praying-does-for-me",

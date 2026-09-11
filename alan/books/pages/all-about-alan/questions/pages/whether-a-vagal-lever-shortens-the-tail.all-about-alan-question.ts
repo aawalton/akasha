@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAVagalLeverShortensTheTail = {
   id: "01a077de-7e78-7675-abd4-630fb5cc4067",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-vagal-lever-shortens-the-tail",
   topic: "after-something-alarms-me",

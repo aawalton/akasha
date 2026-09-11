@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherGrievingAnUnreachableSelfIsPresent = {
   id: "01a077ee-7a24-7c38-bb48-ec14da39c329",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-grieving-an-unreachable-self-is-present",
   topic: "why-the-going-has-to-be-the-point",

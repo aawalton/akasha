@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAHeldValueAddsToTheResponse = {
   id: "01a077ec-b255-7e3b-bb43-882d594c7fd1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-held-value-adds-to-the-response",
   topic: "what-draws-me-to-someone",

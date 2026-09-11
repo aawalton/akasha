@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAttractionIsASumOrAProduct = {
   id: "01a077e0-ff5c-7de4-a896-8f4d66a4dba1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-attraction-is-a-sum-or-a-product",
   topic: "arousal-times-safety",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheFiveThousandFigureCameFrom = {
   id: "01a077ef-1286-7a97-82e4-5e2e6d492b49",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-five-thousand-figure-came-from",
   topic: "playing-the-long-game",

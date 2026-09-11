@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAPositivePullEverStartsMe = {
   id: "01a077e2-5c0d-7850-9aea-719b5b456473",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-positive-pull-ever-starts-me",
   topic: "how-i-hold-a-goal",

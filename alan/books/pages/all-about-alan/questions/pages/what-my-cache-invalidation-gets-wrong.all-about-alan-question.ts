@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMyCacheInvalidationGetsWrong = {
   id: "01a077ea-5748-7faa-bfe1-f81a6761ff6b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-my-cache-invalidation-gets-wrong",
   topic: "what-changes-when-i-change-a-doc",

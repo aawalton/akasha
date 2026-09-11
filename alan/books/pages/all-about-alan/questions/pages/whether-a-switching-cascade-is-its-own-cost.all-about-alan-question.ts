@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherASwitchingCascadeIsItsOwnCost = {
   id: "01a077e1-ff90-732d-88c1-65eb43284c33",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-switching-cascade-is-its-own-cost",
   topic: "getting-out-from-under-a-dependency",

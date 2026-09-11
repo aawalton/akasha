@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheBeliefLayerOfSexHolds = {
   id: "01a077e9-2b3c-79f4-aa29-33eff50ba766",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-belief-layer-of-sex-holds",
   topic: "sex",

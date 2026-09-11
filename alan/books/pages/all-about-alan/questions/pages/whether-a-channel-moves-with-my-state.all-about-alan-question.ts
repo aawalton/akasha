@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAChannelMovesWithMyState = {
   id: "01a077ed-ff3c-76a3-89fa-90e275c42a0c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-channel-moves-with-my-state",
   topic: "which-channel-each-one-cuts-through",

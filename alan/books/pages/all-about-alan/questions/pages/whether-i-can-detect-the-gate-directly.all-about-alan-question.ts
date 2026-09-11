@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherICanDetectTheGateDirectly = {
   id: "01a077f0-2484-7e7e-a9a9-c2a5d1597879",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-i-can-detect-the-gate-directly",
   topic: "what-i-cannot-play-forward",

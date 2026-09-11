@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatWindowMySafetyLevelAveragesOver = {
   id: "01a077e8-1a54-73d1-b822-652044c71db9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-window-my-safety-level-averages-over",
   topic: "safety-level",

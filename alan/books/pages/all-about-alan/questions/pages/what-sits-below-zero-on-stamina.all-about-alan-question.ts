@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSitsBelowZeroOnStamina = {
   id: "01a077ee-6668-7204-bab6-656e1fa75295",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-sits-below-zero-on-stamina",
   topic: "stamina-bar",

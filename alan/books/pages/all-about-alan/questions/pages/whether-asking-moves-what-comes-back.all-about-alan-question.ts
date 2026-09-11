@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAskingMovesWhatComesBack = {
   id: "01a077e6-4efa-74e2-a79e-43773fb4821d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-asking-moves-what-comes-back",
   topic: "what-praying-does-for-me",

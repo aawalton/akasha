@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAStarvedGoodChannelFedTheScar = {
   id: "01a077e4-8397-7061-b25c-caa89089aa41",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-starved-good-channel-fed-the-scar",
   topic: "when-someone-says-something-good",

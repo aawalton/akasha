@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherKindnessRidesAffectionsCurve = {
   id: "01a077e5-cbbf-7603-a05d-767c0b59f879",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-kindness-rides-affections-curve",
   topic: "what-other-peoples-kindness-does",

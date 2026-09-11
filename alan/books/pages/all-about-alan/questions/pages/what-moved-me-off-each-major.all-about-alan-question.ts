@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMovedMeOffEachMajor = {
   id: "01a077ea-c192-7a3b-9ef1-6102f420160d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-moved-me-off-each-major",
   topic: "how-i-came-out-of-computer-science",

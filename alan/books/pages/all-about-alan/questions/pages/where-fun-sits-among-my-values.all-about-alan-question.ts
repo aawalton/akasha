@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereFunSitsAmongMyValues = {
   id: "01a077ec-4d9a-705c-bbe6-a5aee6896c7d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-fun-sits-among-my-values",
   topic: "the-values-i-have-not-placed",

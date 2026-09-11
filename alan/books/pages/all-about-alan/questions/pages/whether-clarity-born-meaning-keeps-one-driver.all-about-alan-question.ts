@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherClarityBornMeaningKeepsOneDriver = {
   id: "01a077e5-cc57-7bc7-a195-36e399737bf2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-clarity-born-meaning-keeps-one-driver",
   topic: "when-something-starts-to-mean-something",

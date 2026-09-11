@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAHardNightWorksFromALowBase = {
   id: "01a077eb-b42e-7806-af48-e484d82eb03a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-hard-night-works-from-a-low-base",
   topic: "the-two-nights-we-keep",

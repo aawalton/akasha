@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAPhysicalProxyReadsMyReserve = {
   id: "01a077e5-50a0-7e16-aeec-77fef23a5c69",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-physical-proxy-reads-my-reserve",
   topic: "how-a-hard-talk-with-jen-gets-safer",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAReflexBecomesBeliefReachable = {
   id: "01a077ef-73b9-73a2-8444-b08756cdb6cf",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-reflex-becomes-belief-reachable",
   topic: "which-lever-reaches-a-response",

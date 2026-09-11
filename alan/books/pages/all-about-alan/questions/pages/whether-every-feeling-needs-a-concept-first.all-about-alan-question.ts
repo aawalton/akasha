@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherEveryFeelingNeedsAConceptFirst = {
   id: "01a077e2-4d4e-7265-84b0-10d20c8d5648",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-every-feeling-needs-a-concept-first",
   topic: "getting-to-a-feeling-through-an-idea",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheAffordableDoseCurveIs = {
   id: "01a077ed-3180-783c-ba13-6fd0f8161a81",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-affordable-dose-curve-is",
   topic: "how-much-company-i-can-take",

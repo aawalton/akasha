@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatNoFeelForTimeCostsMeDaily = {
   id: "01a077e4-3330-7ca5-aaf6-56118df79dea",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-no-feel-for-time-costs-me-daily",
   topic: "how-time-passes-for-me",

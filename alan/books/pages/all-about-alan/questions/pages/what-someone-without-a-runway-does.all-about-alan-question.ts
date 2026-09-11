@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSomeoneWithoutARunwayDoes = {
   id: "01a077ea-6a08-7719-bc20-51d7ab4a400e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-someone-without-a-runway-does",
   topic: "why-i-stopped-working",

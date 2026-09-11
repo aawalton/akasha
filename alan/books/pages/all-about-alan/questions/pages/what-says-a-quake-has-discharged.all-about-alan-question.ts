@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSaysAQuakeHasDischarged = {
   id: "01a077e4-ba26-7f57-a966-ba37076e0030",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-says-a-quake-has-discharged",
   topic: "how-understanding-arrives",

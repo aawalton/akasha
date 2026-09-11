@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatPromptsMeToLookAtTheCircles = {
   id: "01a077f3-1085-7557-aa90-2d12885dce25",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-prompts-me-to-look-at-the-circles",
   topic: "the-coloured-circles-i-run-on",

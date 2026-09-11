@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherCharismaMissesTheCostlyTime = {
   id: "01a0782e-0fd0-7d13-9c40-f6d6b1c7b805",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-charisma-misses-the-costly-time",
   topic: "the-marriage-lever-i-cannot-read",

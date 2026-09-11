@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTestsSuitACompilationOfGenres = {
   id: "01a077e7-c40e-7a3e-9707-d548f2cb91de",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-tests-suit-a-compilation-of-genres",
   topic: "why-i-hold-the-book-true",

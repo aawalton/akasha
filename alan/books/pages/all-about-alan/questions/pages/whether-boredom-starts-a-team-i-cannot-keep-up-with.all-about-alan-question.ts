@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherBoredomStartsATeamICannotKeepUpWith = {
   id: "01a077ea-312f-7a1e-947e-65b5432d2f1b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-boredom-starts-a-team-i-cannot-keep-up-with",
   topic: "how-i-watch-my-agents",

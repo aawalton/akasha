@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherADefinitionalMatchEverFeelsDifferent = {
   id: "01a077ef-c2ce-7b14-a6d9-fec44c3afb4f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-definitional-match-ever-feels-different",
   topic: "when-i-agree-a-feeling-word-fits",

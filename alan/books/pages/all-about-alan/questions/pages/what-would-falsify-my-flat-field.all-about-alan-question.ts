@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatWouldFalsifyMyFlatField = {
   id: "01a077ec-3d86-7657-8a89-4ee6803c55ff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-would-falsify-my-flat-field",
   topic: "what-criticism-does-to-me",

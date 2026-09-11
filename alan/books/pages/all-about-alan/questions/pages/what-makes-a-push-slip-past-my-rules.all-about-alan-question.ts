@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMakesAPushSlipPastMyRules = {
   id: "01a077e5-8833-78e5-9efa-4a10061964ca",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-makes-a-push-slip-past-my-rules",
   topic: "rules-instead-of-a-brake",

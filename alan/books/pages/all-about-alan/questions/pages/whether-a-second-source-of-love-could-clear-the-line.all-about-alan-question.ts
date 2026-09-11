@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherASecondSourceOfLoveCouldClearTheLine = {
   id: "01a077ea-0a90-791f-a472-88b3e6611479",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-second-source-of-love-could-clear-the-line",
   topic: "living-with-jen",

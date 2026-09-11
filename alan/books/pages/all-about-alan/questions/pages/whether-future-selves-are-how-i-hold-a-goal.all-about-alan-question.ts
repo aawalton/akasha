@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherFutureSelvesAreHowIHoldAGoal = {
   id: "01a077e5-8834-71c7-95b8-2fbbe28dc483",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-future-selves-are-how-i-hold-a-goal",
   topic: "rules-instead-of-a-brake",

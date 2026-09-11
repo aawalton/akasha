@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whenTheOverloadBehindMySecondOrganHit = {
   id: "01a077e5-4d71-72b2-bfbb-fc20dd7484ef",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "when-the-overload-behind-my-second-organ-hit",
   topic: "the-scaffolding-i-built",

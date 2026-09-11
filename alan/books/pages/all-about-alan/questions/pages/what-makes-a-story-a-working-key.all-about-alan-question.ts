@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMakesAStoryAWorkingKey = {
   id: "01a077e6-a8ea-7129-b0ca-95d8ca2f25ff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-makes-a-story-a-working-key",
   topic: "how-a-story-gets-my-own-feeling-back",

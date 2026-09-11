@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherIEncodedAnAversionToUnfamiliarContent = {
   id: "01a077e7-6eb2-7441-8eb1-7d664f008e78",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-i-encoded-an-aversion-to-unfamiliar-content",
   topic: "what-repetition-encodes",

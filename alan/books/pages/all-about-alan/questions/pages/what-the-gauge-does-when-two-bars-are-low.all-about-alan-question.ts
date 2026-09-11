@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheGaugeDoesWhenTwoBarsAreLow = {
   id: "01a077ed-fd02-7d7c-9bb7-8d989e2b2eec",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-gauge-does-when-two-bars-are-low",
   topic: "not-wanting-to-is-the-gauge",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherBuildingOneClosenessSkillSpeedsTheNext = {
   id: "01a077e7-d87b-71a2-94eb-7d34a42717d1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-building-one-closeness-skill-speeds-the-next",
   topic: "building-a-people-skill-by-hand",

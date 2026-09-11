@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherConnectionDebtIsABar = {
   id: "01a077e4-d814-744a-a471-7e6fb2287d8b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-connection-debt-is-a-bar",
   topic: "resource-bars",

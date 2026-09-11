@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherCompressionIsTheOneMechanism = {
   id: "01a077e9-9e08-7a61-8fd6-417b967148db",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-compression-is-the-one-mechanism",
   topic: "what-i-think-truth-is",

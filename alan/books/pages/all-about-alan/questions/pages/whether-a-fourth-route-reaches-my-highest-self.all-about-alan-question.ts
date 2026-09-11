@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAFourthRouteReachesMyHighestSelf = {
   id: "01a077ed-083c-70d3-8796-18f426091c1e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-fourth-route-reaches-my-highest-self",
   topic: "the-version-of-me-i-have-never-met",

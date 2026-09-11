@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherFadingRunsOnFourDialsOrOne = {
   id: "01a077e5-95f0-7efc-9e3f-1c09b0006ccb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-fading-runs-on-four-dials-or-one",
   topic: "how-an-alarm-wears-off",

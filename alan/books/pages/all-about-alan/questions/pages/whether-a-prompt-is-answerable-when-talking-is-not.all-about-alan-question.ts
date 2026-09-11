@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAPromptIsAnswerableWhenTalkingIsNot = {
   id: "01a077ea-b4fc-7008-bf76-cb406d388b17",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-prompt-is-answerable-when-talking-is-not",
   topic: "showing-jen-where-i-am",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAttachmentIsAbsentOrUnreadable = {
   id: "01a077ef-ab2b-7a84-89cb-bd1795bd3c31",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-attachment-is-absent-or-unreadable",
   topic: "what-holds-my-marriage",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherGraceRunsInward = {
   id: "01a077e5-0103-7abb-b919-4a6288483172",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-grace-runs-inward",
   topic: "turning-punishment-into-self-hatred",

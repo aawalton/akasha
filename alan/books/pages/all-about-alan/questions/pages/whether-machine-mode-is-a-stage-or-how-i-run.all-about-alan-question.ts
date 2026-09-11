@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMachineModeIsAStageOrHowIRun = {
   id: "01a077ec-8a97-7508-bc33-33ab2433be0e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-machine-mode-is-a-stage-or-how-i-run",
   topic: "driving-myself-like-a-machine",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherANewChannelIsDescribableInAdvance = {
   id: "01a077ed-ff3c-755b-b782-6e4d62cf8a40",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-new-channel-is-describable-in-advance",
   topic: "which-channel-each-one-cuts-through",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatPauseJenAndICanBothHold = {
   id: "01a077e5-50a0-777c-90f9-8dc248efdfb8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-pause-jen-and-i-can-both-hold",
   topic: "how-a-hard-talk-with-jen-gets-safer",

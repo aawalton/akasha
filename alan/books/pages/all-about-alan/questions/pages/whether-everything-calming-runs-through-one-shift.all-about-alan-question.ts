@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherEverythingCalmingRunsThroughOneShift = {
   id: "01a077e9-eb88-73d5-8243-47a08caa49a0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-everything-calming-runs-through-one-shift",
   topic: "what-calms-me-down",

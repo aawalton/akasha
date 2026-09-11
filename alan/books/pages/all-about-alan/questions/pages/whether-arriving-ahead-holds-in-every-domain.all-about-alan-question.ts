@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherArrivingAheadHoldsInEveryDomain = {
   id: "01a077e1-758a-777b-b885-c2c2de9f252d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-arriving-ahead-holds-in-every-domain",
   topic: "arriving-ahead-of-whoever-teaches-me",

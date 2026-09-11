@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatWritesANewMeasureIntoTheMap = {
   id: "01a077f1-7f7d-7515-bec9-810bbd0b6a80",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-writes-a-new-measure-into-the-map",
   topic: "writing-a-new-want-into-myself",

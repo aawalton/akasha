@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLoveLinesUpWithFeeling = {
   id: "01a077e8-81d4-7813-a42d-82796fb3efe5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-love-lines-up-with-feeling",
   topic: "the-three-parts-of-me",

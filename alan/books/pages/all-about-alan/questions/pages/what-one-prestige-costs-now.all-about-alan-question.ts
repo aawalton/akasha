@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatOnePrestigeCostsNow = {
   id: "01a077ee-fbc5-72f5-b721-0b9e541c6022",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-one-prestige-costs-now",
   topic: "how-often-i-start-over",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTierSixAndAboveWouldBe = {
   id: "01a077ee-c893-7d44-88b7-3f044c9ff4cb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-tier-six-and-above-would-be",
   topic: "stress-capacity",

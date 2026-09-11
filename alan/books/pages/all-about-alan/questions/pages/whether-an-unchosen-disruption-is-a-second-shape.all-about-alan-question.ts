@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnUnchosenDisruptionIsASecondShape = {
   id: "01a077e7-263b-7a4f-937e-afec23b204d9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-an-unchosen-disruption-is-a-second-shape",
   topic: "keeping-my-hands-lotioned",

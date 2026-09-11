@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherGameProgressFeedsMySafety = {
   id: "01a077e2-906e-71d5-bae8-31d1bb968bff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-game-progress-feeds-my-safety",
   topic: "the-progress-i-get-to-keep",

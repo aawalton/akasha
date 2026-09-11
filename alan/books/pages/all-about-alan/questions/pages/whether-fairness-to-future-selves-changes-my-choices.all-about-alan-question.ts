@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherFairnessToFutureSelvesChangesMyChoices = {
   id: "01a077ec-34d9-7a0f-9056-05fae5966be9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-fairness-to-future-selves-changes-my-choices",
   topic: "the-ones-i-have-not-been-yet",

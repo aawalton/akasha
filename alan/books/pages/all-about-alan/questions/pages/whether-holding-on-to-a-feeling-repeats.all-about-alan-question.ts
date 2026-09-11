@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherHoldingOnToAFeelingRepeats = {
   id: "01a077eb-39eb-7fbe-bc40-93cbb7dfa136",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-holding-on-to-a-feeling-repeats",
   topic: "the-two-decades-i-came-through",

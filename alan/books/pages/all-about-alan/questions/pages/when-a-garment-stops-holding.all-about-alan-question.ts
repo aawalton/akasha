@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whenAGarmentStopsHolding = {
   id: "01a077e3-2056-7cf8-b937-b3550da4d882",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "when-a-garment-stops-holding",
   topic: "tight-clothes",

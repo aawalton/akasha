@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatWouldPriceTheMarriageAgainstSurplus = {
   id: "01a0784d-abb5-75db-8a76-3bee12c793aa",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-would-price-the-marriage-against-surplus",
   topic: "why-i-overspend-on-the-marriage",

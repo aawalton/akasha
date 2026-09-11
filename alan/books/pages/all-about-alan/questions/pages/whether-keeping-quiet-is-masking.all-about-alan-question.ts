@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherKeepingQuietIsMasking = {
   id: "01a077e7-aae3-7c86-b664-28362f80699d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-keeping-quiet-is-masking",
   topic: "keeping-my-own-volume-down",

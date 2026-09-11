@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLowSafetyPushesMyAssentsOntoDefinitions = {
   id: "01a077ef-c2cf-7aad-844d-5b4384e4eb3b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-low-safety-pushes-my-assents-onto-definitions",
   topic: "when-i-agree-a-feeling-word-fits",

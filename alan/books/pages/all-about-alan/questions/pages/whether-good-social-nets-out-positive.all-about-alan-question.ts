@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherGoodSocialNetsOutPositive = {
   id: "01a07810-45ba-78ee-bfab-97dbe0445520",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-good-social-nets-out-positive",
   topic: "the-budget-i-run-my-days-on",

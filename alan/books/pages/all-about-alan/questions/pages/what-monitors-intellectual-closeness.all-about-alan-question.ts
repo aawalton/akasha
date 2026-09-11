@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMonitorsIntellectualCloseness = {
   id: "01a077eb-4f45-7f13-9192-16f258fcdf44",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-monitors-intellectual-closeness",
   topic: "my-rules-about-other-women",

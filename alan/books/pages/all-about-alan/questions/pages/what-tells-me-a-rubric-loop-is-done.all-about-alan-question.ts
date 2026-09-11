@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTellsMeARubricLoopIsDone = {
   id: "01a077ec-b16a-7692-9353-a94c863081d0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-tells-me-a-rubric-loop-is-done",
   topic: "how-i-decide",

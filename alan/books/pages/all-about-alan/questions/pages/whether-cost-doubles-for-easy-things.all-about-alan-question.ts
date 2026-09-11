@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherCostDoublesForEasyThings = {
   id: "01a077e8-f609-7e1c-88f3-929cd1bd63e0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-cost-doubles-for-easy-things",
   topic: "what-an-activity-costs-me",

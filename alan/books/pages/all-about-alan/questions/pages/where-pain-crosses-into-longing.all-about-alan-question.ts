@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const wherePainCrossesIntoLonging = {
   id: "01a077e4-89fa-7786-a873-79a598c5c4b1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-pain-crosses-into-longing",
   topic: "what-i-do-when-i-am-past-bearing",

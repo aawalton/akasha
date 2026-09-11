@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherDeliberateCareSatisfiesANeedForAttachment = {
   id: "01a077e1-e4ef-7a27-84f9-79ae1998c364",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-deliberate-care-satisfies-a-need-for-attachment",
   topic: "being-alone-at-the-centre",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherFamiliarOrNewLeadsEverywhere = {
   id: "01a077e6-d93e-76e0-b5e7-aa68dc28b3a3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-familiar-or-new-leads-everywhere",
   topic: "what-pulls-me-into-doing-something",

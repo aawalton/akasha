@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAProbabilityIStateIsGraded = {
   id: "01a077e4-c71d-72b9-9101-e6caffc69aca",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-probability-i-state-is-graded",
   topic: "how-i-know-things",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLettingAnImpulsePassGoesWider = {
   id: "01a077e3-c2bd-7910-8e42-fa5f68bd29b5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-letting-an-impulse-pass-goes-wider",
   topic: "what-i-do-not-have-to-fight",

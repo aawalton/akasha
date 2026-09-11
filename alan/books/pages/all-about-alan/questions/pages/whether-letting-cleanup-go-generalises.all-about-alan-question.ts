@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLettingCleanupGoGeneralises = {
   id: "01a077e7-b528-704e-a089-9a7a25ceb7fc",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-letting-cleanup-go-generalises",
   topic: "the-foods-i-can-still-manage",

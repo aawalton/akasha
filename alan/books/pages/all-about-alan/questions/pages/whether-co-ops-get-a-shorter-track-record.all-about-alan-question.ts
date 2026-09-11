@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherCoOpsGetAShorterTrackRecord = {
   id: "01a077ef-db06-7895-b83a-18b9f578abcb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-co-ops-get-a-shorter-track-record",
   topic: "which-organisations-i-trust",

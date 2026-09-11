@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whenAMemoryCueMisses = {
   id: "01a077da-697a-763a-a873-6bbf2f2b5d48",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "when-a-memory-cue-misses",
   topic: "how-i-remember-anything",

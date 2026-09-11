@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherInsightIntoMyselfIsItsOwnYield = {
   id: "01a077ef-473a-77ef-bba9-1459b5d94227",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-insight-into-myself-is-its-own-yield",
   topic: "what-meeting-one-of-them-gives-me",

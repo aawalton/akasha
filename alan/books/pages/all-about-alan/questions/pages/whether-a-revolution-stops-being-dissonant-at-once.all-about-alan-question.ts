@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherARevolutionStopsBeingDissonantAtOnce = {
   id: "01a077f0-12fb-76d6-ac02-6f3f702dbc0c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-revolution-stops-being-dissonant-at-once",
   topic: "what-my-record-gives-me-back",

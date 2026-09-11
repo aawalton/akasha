@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheFloorOnABiteIs = {
   id: "01a077ed-fdc9-77d7-baf6-372eb2e9ee3b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-floor-on-a-bite-is",
   topic: "small-bites-of-many-things",

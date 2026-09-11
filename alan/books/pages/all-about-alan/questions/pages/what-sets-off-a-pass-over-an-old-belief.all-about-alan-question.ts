@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSetsOffAPassOverAnOldBelief = {
   id: "01a077e4-612f-749f-88f0-bb0efd8ff402",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-sets-off-a-pass-over-an-old-belief",
   topic: "re-opening-what-i-took-in-whole",

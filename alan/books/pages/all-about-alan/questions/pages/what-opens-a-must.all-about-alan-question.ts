@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatOpensAMust = {
   id: "01a077e7-a79f-74f6-a7be-3c2744437cb7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-opens-a-must",
   topic: "the-things-i-never-weigh",

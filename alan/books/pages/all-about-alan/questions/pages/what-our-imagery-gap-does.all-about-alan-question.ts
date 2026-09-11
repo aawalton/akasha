@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatOurImageryGapDoes = {
   id: "01a077f0-5406-7b69-86d1-9223fda7de3b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-our-imagery-gap-does",
   topic: "working-out-how-she-thinks",

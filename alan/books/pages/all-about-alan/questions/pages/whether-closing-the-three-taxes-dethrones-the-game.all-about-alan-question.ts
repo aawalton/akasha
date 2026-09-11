@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherClosingTheThreeTaxesDethronesTheGame = {
   id: "01a077ed-083c-7fa2-93a3-5645ecf33b67",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-closing-the-three-taxes-dethrones-the-game",
   topic: "the-version-of-me-i-have-never-met",

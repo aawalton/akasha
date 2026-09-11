@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMeetingJensNeedsIsTheSameMove = {
   id: "01a077ec-8a99-7716-9a88-125dd0141888",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-meeting-jens-needs-is-the-same-move",
   topic: "driving-myself-like-a-machine",

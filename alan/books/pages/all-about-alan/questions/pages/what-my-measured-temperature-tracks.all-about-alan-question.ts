@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatMyMeasuredTemperatureTracks = {
   id: "01a077e5-3da5-7e75-bd64-e5bc94dfbac4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-my-measured-temperature-tracks",
   topic: "how-warm-i-run",

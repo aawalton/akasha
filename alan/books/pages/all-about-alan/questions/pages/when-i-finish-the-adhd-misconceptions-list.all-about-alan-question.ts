@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whenIFinishTheAdhdMisconceptionsList = {
   id: "01a077e5-990d-7cf5-8bab-156b1b863dee",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "when-i-finish-the-adhd-misconceptions-list",
   topic: "two-conditions-or-one",

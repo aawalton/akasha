@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatThePlanForSelfHostingMyAnchorIs = {
   id: "01a077eb-b111-7bd0-8d84-53a33df9b204",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-plan-for-self-hosting-my-anchor-is",
   topic: "the-one-account-everything-falls-back-on",

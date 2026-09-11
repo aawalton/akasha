@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const wherePhysicalLoadStartsToSwampMyThinking = {
   id: "01a077e5-a848-737d-8136-628430d835c2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-physical-load-starts-to-swamp-my-thinking",
   topic: "why-feeling-cannot-take-my-thinking",

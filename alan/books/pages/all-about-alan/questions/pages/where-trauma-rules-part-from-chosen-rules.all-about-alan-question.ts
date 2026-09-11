@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTraumaRulesPartFromChosenRules = {
   id: "01a077e9-f5a7-70e8-b3eb-c1ccd1b249c1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-trauma-rules-part-from-chosen-rules",
   topic: "where-my-ethics-meets-my-rules",

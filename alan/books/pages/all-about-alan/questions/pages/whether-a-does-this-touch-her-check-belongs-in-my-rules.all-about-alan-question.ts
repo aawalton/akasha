@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherADoesThisTouchHerCheckBelongsInMyRules = {
   id: "01a077ed-363f-7168-bc7c-8f253552b871",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-does-this-touch-her-check-belongs-in-my-rules",
   topic: "noticing-what-she-needs",

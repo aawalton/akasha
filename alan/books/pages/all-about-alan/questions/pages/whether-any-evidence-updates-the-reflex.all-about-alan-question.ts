@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnyEvidenceUpdatesTheReflex = {
   id: "01a077ed-f62a-7212-a09e-32ac977c84ef",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-any-evidence-updates-the-reflex",
   topic: "why-someone-elses-distress-alarms-me",

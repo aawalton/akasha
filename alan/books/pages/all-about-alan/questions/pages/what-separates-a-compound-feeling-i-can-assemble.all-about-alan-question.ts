@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatSeparatesACompoundFeelingICanAssemble = {
   id: "01a077e6-4f24-7e41-8565-6233c724422c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-separates-a-compound-feeling-i-can-assemble",
   topic: "the-feelings-i-can-name",

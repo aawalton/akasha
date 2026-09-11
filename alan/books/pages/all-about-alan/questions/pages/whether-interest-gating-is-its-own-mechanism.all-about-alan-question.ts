@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherInterestGatingIsItsOwnMechanism = {
   id: "01a077ee-0b8c-73e8-909e-98999ed7a584",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-interest-gating-is-its-own-mechanism",
   topic: "how-my-attention-works",

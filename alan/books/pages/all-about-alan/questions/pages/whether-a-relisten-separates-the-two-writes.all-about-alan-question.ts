@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherARelistenSeparatesTheTwoWrites = {
   id: "01a077e7-ad58-7f95-8c75-3413548f6ddf",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-relisten-separates-the-two-writes",
   topic: "warming-up-what-i-will-need",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheAutismConferenceDidNotReach = {
   id: "01a077eb-39ea-7238-ac55-4711db9b16d6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-autism-conference-did-not-reach",
   topic: "the-two-decades-i-came-through",

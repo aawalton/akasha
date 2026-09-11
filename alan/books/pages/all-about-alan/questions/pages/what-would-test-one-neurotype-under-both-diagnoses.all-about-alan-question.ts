@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatWouldTestOneNeurotypeUnderBothDiagnoses = {
   id: "01a077ef-d2bf-7b4c-98bf-e3a0292c1806",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-would-test-one-neurotype-under-both-diagnoses",
   topic: "why-too-much-and-too-little-swap-over",

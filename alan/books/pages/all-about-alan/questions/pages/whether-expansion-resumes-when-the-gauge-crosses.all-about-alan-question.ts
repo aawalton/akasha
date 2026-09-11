@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherExpansionResumesWhenTheGaugeCrosses = {
   id: "01a077e6-06ef-7aa2-8f82-85a13d24bd82",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-expansion-resumes-when-the-gauge-crosses",
   topic: "waiting-until-i-can-afford-people",

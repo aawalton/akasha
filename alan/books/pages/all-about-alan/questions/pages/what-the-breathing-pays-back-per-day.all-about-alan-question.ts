@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheBreathingPaysBackPerDay = {
   id: "01a077e3-ad52-7ab7-9c94-e7e812a06893",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-breathing-pays-back-per-day",
   topic: "recovery-costs-what-it-restores",

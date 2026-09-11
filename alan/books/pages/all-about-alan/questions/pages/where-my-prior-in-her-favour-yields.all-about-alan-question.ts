@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereMyPriorInHerFavourYields = {
   id: "01a077e2-88c0-7672-a9a2-187befac9b53",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-my-prior-in-her-favour-yields",
   topic: "giving-her-the-benefit-of-the-doubt",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherCareEverFeelsUnlikeDuty = {
   id: "01a077e3-3643-779b-8fa5-a066fda5a9ed",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-care-ever-feels-unlike-duty",
   topic: "reading-myself-before-the-words",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whenMyBreathingWentContinuous = {
   id: "01a077ea-34fb-7465-a621-e4da970208cd",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "when-my-breathing-went-continuous",
   topic: "how-i-actually-breathe",

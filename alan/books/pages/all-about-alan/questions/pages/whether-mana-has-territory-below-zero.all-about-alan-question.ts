@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherManaHasTerritoryBelowZero = {
   id: "01a077ea-8987-7e52-b3e1-9e73274d256c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-mana-has-territory-below-zero",
   topic: "mana-bar",

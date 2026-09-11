@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTellsImpossibleToExitFromExpensiveToExit = {
   id: "01a077e1-ff90-7a8e-9aa8-9cada87bba13",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-tells-impossible-to-exit-from-expensive-to-exit",
   topic: "getting-out-from-under-a-dependency",

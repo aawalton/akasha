@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereArousalComesBackAboveTheFloor = {
   id: "01a077e0-ff5d-79b5-be4d-683595b672a9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-arousal-comes-back-above-the-floor",
   topic: "arousal-times-safety",

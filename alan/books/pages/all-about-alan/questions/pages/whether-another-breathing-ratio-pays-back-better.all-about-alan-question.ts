@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnotherBreathingRatioPaysBackBetter = {
   id: "01a077ea-34f9-76e0-a6a1-5dcbcad6950a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-another-breathing-ratio-pays-back-better",
   topic: "how-i-actually-breathe",

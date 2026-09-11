@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatWouldMoveMySecondAxis = {
   id: "01a077f0-e7bd-7a0d-8d99-2f703a5064ad",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-would-move-my-second-axis",
   topic: "when-it-actually-lands",

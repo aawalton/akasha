@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whenInterestCrossesIntoStarting = {
   id: "01a077e6-d93c-7f76-9cbf-6d95e74c633b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "when-interest-crosses-into-starting",
   topic: "what-pulls-me-into-doing-something",

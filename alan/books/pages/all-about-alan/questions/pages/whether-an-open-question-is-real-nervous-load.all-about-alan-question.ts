@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAnOpenQuestionIsRealNervousLoad = {
   id: "01a077ed-80dd-7a26-996f-d9d37366a91f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-an-open-question-is-real-nervous-load",
   topic: "why-settling-a-question-steadies-me",

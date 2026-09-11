@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherLivingInThePresentMakesMeAgeless = {
   id: "01a077e4-3332-74f9-8769-1eff7749f17e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-living-in-the-present-makes-me-ageless",
   topic: "how-time-passes-for-me",

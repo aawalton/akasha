@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherJenFitsAsMyIntellectualPartner = {
   id: "01a077e6-d638-7e4b-8f66-bd712a31b5b4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-jen-fits-as-my-intellectual-partner",
   topic: "where-connection-could-come-from",

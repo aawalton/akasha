@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheMinimalDoseBreakfastCost = {
   id: "01a077f0-49e9-703f-b596-e260f12d4b29",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-minimal-dose-breakfast-cost",
   topic: "when-i-lost-who-i-was",

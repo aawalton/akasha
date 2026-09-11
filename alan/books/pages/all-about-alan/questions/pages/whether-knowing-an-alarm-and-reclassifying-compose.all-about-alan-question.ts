@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherKnowingAnAlarmAndReclassifyingCompose = {
   id: "01a077e5-862b-7551-af77-7432d8c7bd66",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-knowing-an-alarm-and-reclassifying-compose",
   topic: "what-i-have-stopped-treating-as-compulsory",

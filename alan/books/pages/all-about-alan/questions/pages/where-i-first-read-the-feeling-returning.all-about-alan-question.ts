@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereIFirstReadTheFeelingReturning = {
   id: "01a077e6-4efb-7b35-a208-0d9fdd9d967e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-i-first-read-the-feeling-returning",
   topic: "what-praying-does-for-me",

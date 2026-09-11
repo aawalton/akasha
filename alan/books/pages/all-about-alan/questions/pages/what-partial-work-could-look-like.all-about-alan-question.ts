@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatPartialWorkCouldLookLike = {
   id: "01a077ea-6a08-7924-9d34-f3f4203c8a7d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-partial-work-could-look-like",
   topic: "why-i-stopped-working",

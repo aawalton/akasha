@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTheRungsAfterTheFirstHardTalkAre = {
   id: "01a077e5-509f-7183-bcf3-09cbbe243651",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-the-rungs-after-the-first-hard-talk-are",
   topic: "how-a-hard-talk-with-jen-gets-safer",

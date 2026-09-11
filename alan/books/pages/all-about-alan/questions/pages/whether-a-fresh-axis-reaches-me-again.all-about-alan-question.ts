@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherAFreshAxisReachesMeAgain = {
   id: "01a077e5-103e-74dc-bb40-af88692f1e31",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-fresh-axis-reaches-me-again",
   topic: "being-met",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheOtherTwentyDiverges = {
   id: "01a077ed-b13a-75d8-aca3-5b66aabaceea",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-other-twenty-diverges",
   topic: "how-much-of-me-is-machine",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherKnowingTheMechanismHelpsPastFlop = {
   id: "01a077e4-89f7-79c5-a4ec-3a557318a59a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-knowing-the-mechanism-helps-past-flop",
   topic: "what-i-do-when-i-am-past-bearing",

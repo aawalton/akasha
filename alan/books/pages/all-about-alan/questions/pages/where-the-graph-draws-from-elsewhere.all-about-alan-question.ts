@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheGraphDrawsFromElsewhere = {
   id: "01a077ec-26d2-7d13-bbba-3b2c5d629fd7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-graph-draws-from-elsewhere",
   topic: "what-the-graph-is-made-of",

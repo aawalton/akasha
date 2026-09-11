@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatPicksBetweenAcknowledgingAndValidating = {
   id: "01a077f1-e30a-747c-8aa0-e8f1f9d23a21",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-picks-between-acknowledging-and-validating",
   topic: "when-she-is-in-pain",

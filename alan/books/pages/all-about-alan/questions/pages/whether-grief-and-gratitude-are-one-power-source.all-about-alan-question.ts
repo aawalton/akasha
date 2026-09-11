@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherGriefAndGratitudeAreOnePowerSource = {
   id: "01a077e3-c60a-706b-bcc7-a9d732074fd9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-grief-and-gratitude-are-one-power-source",
   topic: "the-crowd-that-has-been-me",

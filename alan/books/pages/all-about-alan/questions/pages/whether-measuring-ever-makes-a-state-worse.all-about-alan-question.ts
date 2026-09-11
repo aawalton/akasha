@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMeasuringEverMakesAStateWorse = {
   id: "01a077e9-0815-7c11-8947-f66816eceb72",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-measuring-ever-makes-a-state-worse",
   topic: "how-i-read-myself",

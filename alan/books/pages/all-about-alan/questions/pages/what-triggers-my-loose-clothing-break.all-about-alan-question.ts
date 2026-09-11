@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTriggersMyLooseClothingBreak = {
   id: "01a077e3-a51a-7053-b9e4-f4606b7cbc56",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-triggers-my-loose-clothing-break",
   topic: "how-the-bars-pull-on-each-other",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereMyRecoveryEnvelopeBreaks = {
   id: "01a077e8-d486-784c-89ac-e5248e57ca85",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-my-recovery-envelope-breaks",
   topic: "how-far-back-i-expect-to-come",

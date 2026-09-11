@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherComprehensionStillDoesMyRegulation = {
   id: "01a077ed-80dc-74e0-969f-6b5a20682d48",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-comprehension-still-does-my-regulation",
   topic: "why-settling-a-question-steadies-me",

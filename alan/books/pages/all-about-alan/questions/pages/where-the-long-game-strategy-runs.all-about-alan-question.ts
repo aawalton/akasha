@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whereTheLongGameStrategyRuns = {
   id: "01a077ef-1288-7530-8c70-e137bafda9e4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "where-the-long-game-strategy-runs",
   topic: "playing-the-long-game",

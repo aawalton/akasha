@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatTaughtTheDistressReflex = {
   id: "01a077ed-f629-7511-83dd-98a1359c2948",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-taught-the-distress-reflex",
   topic: "why-someone-elses-distress-alarms-me",

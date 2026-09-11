@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherABodySignalUnderliesMySafetyRead = {
   id: "01a077e8-7dda-7dd6-a367-7068b3235e6d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-a-body-signal-underlies-my-safety-read",
   topic: "how-i-read-my-safety-level",

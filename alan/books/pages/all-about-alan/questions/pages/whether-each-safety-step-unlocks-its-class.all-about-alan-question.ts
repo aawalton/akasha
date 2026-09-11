@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherEachSafetyStepUnlocksItsClass = {
   id: "01a077ea-3d29-7b84-941f-018d41659e19",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-each-safety-step-unlocks-its-class",
   topic: "where-safety-has-got-to",

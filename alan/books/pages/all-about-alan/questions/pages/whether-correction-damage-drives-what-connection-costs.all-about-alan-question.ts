@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherCorrectionDamageDrivesWhatConnectionCosts = {
   id: "01a077e6-2be9-7915-acb1-d71351b68b0d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-correction-damage-drives-what-connection-costs",
   topic: "why-getting-close-hurts",

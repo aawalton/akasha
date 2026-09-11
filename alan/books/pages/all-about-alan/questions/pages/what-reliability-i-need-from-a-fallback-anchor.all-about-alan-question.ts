@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatReliabilityINeedFromAFallbackAnchor = {
   id: "01a077eb-b111-7264-9bb6-e9977d4d690b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-reliability-i-need-from-a-fallback-anchor",
   topic: "the-one-account-everything-falls-back-on",
