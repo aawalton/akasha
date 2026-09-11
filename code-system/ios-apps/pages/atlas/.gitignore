@@ -1,9 +1,5 @@
-# Generated / installed — regenerated on the macbook via `npm install && npm run ios:add`.
-node_modules/
-bun.lock
-bun.lockb
-
-# Capacitor-generated native project (regenerated from package.json + capacitor.config.json).
+# Capacitor-generated native sources, made again by every build from the config
+# written at the root of the tree this shell sits in.
 ios/
 android/
 

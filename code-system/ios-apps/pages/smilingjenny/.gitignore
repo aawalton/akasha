@@ -1,13 +1,5 @@
-# Generated / installed — the workspace installs this package from the repo root.
-node_modules/
-bun.lock
-bun.lockb
-
-# Capacitor-generated. The config is written from the one beside the page by
-# write-capacitor-config, which puts the two names the page states into it.
-capacitor.config.json
-
-# Capacitor-generated native project.
+# Capacitor-generated native sources, made again by every build from the config
+# written at the root of the tree this shell sits in.
 ios/
 android/
 

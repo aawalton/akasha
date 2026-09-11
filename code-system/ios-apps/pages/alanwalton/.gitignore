@@ -1,15 +1,6 @@
-# Generated / installed — regenerated on the macbook via `npm install && npm run ios:add`.
-node_modules/
-bun.lock
-bun.lockb
-
-# Capacitor-generated. The config is written from the one beside the page by
-# write-capacitor-config, which puts the two names the page states into it.
-capacitor.config.json
-
-# Capacitor-generated native project.
-# The hand-authored native seam is the alanwalton-ios-seam shell script and the
-# thirty-five it sources, re-applied by ios:sync.
+# Capacitor-generated native sources, made again by every build. The hand-authored
+# seam is the alanwalton-ios-seam shell script and the thirty-five it sources,
+# applied again after that call.
 ios/
 android/
 
