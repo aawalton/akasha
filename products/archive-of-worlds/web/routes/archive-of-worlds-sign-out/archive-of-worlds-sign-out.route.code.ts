@@ -1,12 +1,12 @@
-import { refreshSession } from "akasha/alan/harness/supabase-rr/session-refresh/session-refresh.module.code.ts"
-import { redirect } from "react-router"
+import {
+  signOutAction,
+  signOutLoader,
+} from "akasha/alan/harness/supabase-rr/sign-out-route/sign-out-route.module.code.ts"
 
 export async function action({ request }: { request: Request }) {
-  const { supabase, headers } = await refreshSession(request)
-  await supabase.auth.signOut()
-  return redirect("/sign-in", { headers })
+  return signOutAction(request)
 }
 
 export function loader() {
-  return redirect("/")
+  return signOutLoader()
 }
