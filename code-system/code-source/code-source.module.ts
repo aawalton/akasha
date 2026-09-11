@@ -38,6 +38,10 @@ export const codeSource = {
       statement: "An import naming nothing at all carries more than types.",
     },
     {
+      invariantKind: "departure",
+      statement: "An import of an empty list of names reads as types alone and as not erased.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a body or knows why the body is read.",
     },

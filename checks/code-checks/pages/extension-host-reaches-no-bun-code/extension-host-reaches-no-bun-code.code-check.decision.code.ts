@@ -1,5 +1,9 @@
 import { dirname, join, normalize } from "node:path"
-import { skimmedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import {
+  erasedExport,
+  erasedImport,
+  skimmedAs,
+} from "akasha/code-system/code-source/code-source.module.code.ts"
 import {
   landingOf,
   type Naming,
@@ -53,22 +57,6 @@ const STATED = "port"
 const SHOWN = 5
 
 const HOST = "the editor loads this graph into node, which holds no bun"
-
-function erasedImport(clause: ts.ImportClause | undefined): boolean {
-  if (clause === undefined) return false
-  if (clause.isTypeOnly) return true
-  if (clause.name !== undefined) return false
-  const bound = clause.namedBindings
-  if (bound === undefined || !ts.isNamedImports(bound)) return false
-  return bound.elements.length > 0 && bound.elements.every((one) => one.isTypeOnly)
-}
-
-function erasedExport(one: ts.ExportDeclaration): boolean {
-  if (one.isTypeOnly) return true
-  const clause = one.exportClause
-  if (clause === undefined || !ts.isNamedExports(clause)) return false
-  return clause.elements.length > 0 && clause.elements.every((each) => each.isTypeOnly)
-}
 
 function statedIn(node: ts.Statement): string | null {
   if (ts.isImportDeclaration(node)) {

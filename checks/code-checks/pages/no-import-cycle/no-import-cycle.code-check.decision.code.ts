@@ -1,4 +1,8 @@
-import { skimmedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import {
+  erasedExport,
+  erasedImport,
+  skimmedAs,
+} from "akasha/code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import ts from "typescript"
@@ -8,22 +12,6 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 const SHOWN = 3
 
 const ITSELF = "no module under akasha imports its way back around to itself"
-
-function erasedImport(clause: ts.ImportClause | undefined): boolean {
-  if (clause === undefined) return false
-  if (clause.isTypeOnly) return true
-  if (clause.name !== undefined) return false
-  const bound = clause.namedBindings
-  if (bound === undefined || !ts.isNamedImports(bound)) return false
-  return bound.elements.length > 0 && bound.elements.every((one) => one.isTypeOnly)
-}
-
-function erasedExport(one: ts.ExportDeclaration): boolean {
-  if (one.isTypeOnly) return true
-  const clause = one.exportClause
-  if (clause === undefined || !ts.isNamedExports(clause)) return false
-  return clause.elements.length > 0 && clause.elements.every((each) => each.isTypeOnly)
-}
 
 export function reachedIn(at: string, text: string): readonly string[] {
   const source = skimmedAs(at, text)

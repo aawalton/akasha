@@ -43,3 +43,19 @@ export function typedImport(clause: ts.ImportClause): boolean {
   if (bound === undefined || ts.isNamespaceImport(bound)) return false
   return bound.elements.every((one) => one.isTypeOnly)
 }
+
+export function erasedImport(clause: ts.ImportClause | undefined): boolean {
+  if (clause === undefined) return false
+  if (clause.isTypeOnly) return true
+  if (clause.name !== undefined) return false
+  const bound = clause.namedBindings
+  if (bound === undefined || !ts.isNamedImports(bound)) return false
+  return bound.elements.length > 0 && bound.elements.every((one) => one.isTypeOnly)
+}
+
+export function erasedExport(one: ts.ExportDeclaration): boolean {
+  if (one.isTypeOnly) return true
+  const clause = one.exportClause
+  if (clause === undefined || !ts.isNamedExports(clause)) return false
+  return clause.elements.length > 0 && clause.elements.every((each) => each.isTypeOnly)
+}
