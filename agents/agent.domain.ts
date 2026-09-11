@@ -19,5 +19,6 @@ export const agent = {
     "module/read-record",
     "module/agent-page-reading",
     "module/agent-proc-liveness",
+    "module/agent-proc-tree",
   ],
 } as const satisfies Domain

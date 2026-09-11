@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
-import { rejectSelfProc } from "akasha/seat-system/agent-proc-tree/agent-proc-tree.module.code.ts"
+import { rejectSelfProc } from "akasha/agents/proc-tree/agent-proc-tree.module.code.ts"
 
 export function extractEnvironVar(environ: string, key: string): string | undefined {
   const prefix = `${key}=`
