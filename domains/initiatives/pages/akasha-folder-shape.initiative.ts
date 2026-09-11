@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation property's name ends in `slug`.",
       workingMemory:
-        "`page-page-type` carries key `type` beside `page-type-slug`; step four removes the old page, so no rename act runs. `carriedIn` walks `kindsUnder(pageType)` then `valuesByPath`, so `most` crosses folders: split parallel work by page type, never by path, never name `page`. Batch 500 takes ~78 s; 700 dies, and a killed apply may already have committed — read git log before re-applying or every page draws TS1117. Code composing a page body compared to one on disk goes red as a batch reaches it.\n",
+        "No page body carries `pageTypeSlug`; `type` alone names a page type. Step four is left: take `relation-property/page-type-slug` off `pages/page.page-type.ts`, remove `pages/properties/page-type-slug.relation-property.ts` in that landing, and drop the `pageTypeSlug` fallback in index-identity, index-path, index-relation, index-value, reaching, page-knowing, relation-resolves and change-shadow. Sweep the test fixtures spelling the old key first, or typecheck refuses them all at once.",
     },
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
