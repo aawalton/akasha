@@ -6,29 +6,29 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { isConsolidateDest } from "../inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
+import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import {
   computePlanItemValue,
   extractTargetCharId,
   getFirstCharacterId,
   resolveStorageDetail,
   resolveStorageKey,
-} from "../inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
 import {
   buildCrossCharSteps,
   buildSharedStorageSteps,
-} from "../inventory-management-plan-route-steps/inventory-management-plan-route-steps.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-steps/inventory-management-plan-route-steps.module.code.ts"
 import {
   DETAILED_VENUES,
   getActionVenue,
   LOCATION_ACCESS_VENUE,
   withDepositNote,
-} from "../inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,
   RouteStep,
   VenueType,
-} from "../inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function resolveItemRoute(
   entry: AffectedItem,

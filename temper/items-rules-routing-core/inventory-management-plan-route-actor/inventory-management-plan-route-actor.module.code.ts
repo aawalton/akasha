@@ -1,7 +1,7 @@
 import type {
   RouteStep,
   VenueType,
-} from "../inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function stepsForActor(
   steps: readonly RouteStep[],

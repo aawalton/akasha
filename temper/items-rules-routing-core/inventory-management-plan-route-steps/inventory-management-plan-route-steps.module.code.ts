@@ -2,12 +2,12 @@ import type {
   ItemAction,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { withDepositNote } from "../inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
+import { withDepositNote } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,
   RouteStep,
   VenueType,
-} from "../inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function buildCrossCharSteps(
   sourceCharId: string,

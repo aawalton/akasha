@@ -8,8 +8,8 @@ import type {
   ItemAction,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { VenueType } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { VenueType } from "../inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function computePlanItemValue(
   action: ItemAction,
