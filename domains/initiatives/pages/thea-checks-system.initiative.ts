@@ -9,11 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every check has come back green at audit once.",
-      workingMemory:
-        "Each is seen green once rather than all at one moment, because the tree took 140 commits in half an hour and moves under a run over every file. Every check has come back green but two. page-matches-its-type refuses 57 record entries carrying no id, over two pages a music recorder writes. check-reaches-a-path-through-the-index left experimental an hour ago and binds for the first time: two modules spell a path the index answers for.",
-    },
-    {
       statement: "Every check spends less processor time than the ceiling its page states.",
       workingMemory:
         "file-length spends 25s at audit against the 15 its page allows, measured three times running and 1s this morning, so it refuses itself. The spend is a scan of every naming for every one of 124,961 paths inside exemptIn, which no-raw-nul-bytes and file-has-its-page share. 45 of the 53 other check pages carry an identical 10 and 15, copied rather than measured, so no ceiling here is evidence of what its check ought to cost. Each one over is reviewed rather than raised.",
