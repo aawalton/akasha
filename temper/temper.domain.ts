@@ -160,6 +160,7 @@ export const temper = {
     "eso-addon/temper-keybinder-addon",
     "eso-addon/temper-catalog-addon",
     "domain/temper-addon-color",
+    "domain/temper-ui-reload",
     "router-app/temper-web",
   ],
   invariants: [

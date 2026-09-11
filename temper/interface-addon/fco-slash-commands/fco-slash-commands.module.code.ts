@@ -1,3 +1,5 @@
+import { reloadUI } from "akasha/temper/ui-reload/reload-ui/reload-ui.module.code.ts"
+
 export function parseSlashCommands(this: void, args: string, lowerString?: boolean): string[] {
   const doLower = lowerString ?? false
   const options: string[] = []
@@ -23,12 +25,9 @@ export function slashCommands(this: void): undefined {
   SLASH_COMMANDS["/groupleave"] = leaveGroup
   SLASH_COMMANDS["/ungroup"] = leaveGroup
 
-  const reloadTheUI = (): undefined => {
-    ReloadUI("ingame")
-  }
-  SLASH_COMMANDS["/rl"] = reloadTheUI
-  SLASH_COMMANDS["/rlui"] = reloadTheUI
-  SLASH_COMMANDS["/reload"] = reloadTheUI
+  SLASH_COMMANDS["/rl"] = reloadUI
+  SLASH_COMMANDS["/rlui"] = reloadUI
+  SLASH_COMMANDS["/reload"] = reloadUI
 
   const logoutNow = (): undefined => {
     Logout()

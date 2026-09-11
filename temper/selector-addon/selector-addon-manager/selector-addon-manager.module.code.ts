@@ -31,7 +31,3 @@ export function areAddOnsEnabled(): boolean {
 export function requestPrioritySave(): undefined {
   manager().RequestAddOnSavedVariablesPrioritySave(ADDON_NAME)
 }
-
-export function reloadUI(): undefined {
-  ReloadUI("ingame")
-}

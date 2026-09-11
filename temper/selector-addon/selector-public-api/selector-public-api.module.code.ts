@@ -1,7 +1,6 @@
 import "akasha/temper/addon-library-types/temper-addons-global/temper-addons-global.type-declaration.d.ts"
 import "akasha/temper/selector-addon/selector-ui-settings-menu/selector-ui-settings-menu.module.code.ts"
 
-import { reloadUI } from "akasha/temper/selector-addon/selector-addon-manager/selector-addon-manager.module.code.ts"
 import {
   assignPackToKeybind,
   loadPackByKeybind,
@@ -15,6 +14,7 @@ import {
   showActivePackInChat,
   startAddonSearch,
 } from "akasha/temper/selector-addon/selector-search/selector-search.module.code.ts"
+import { reloadUI } from "akasha/temper/ui-reload/reload-ui/reload-ui.module.code.ts"
 
 globalThis.TemperAddons = {
   ReloadTheUI: reloadUI,
