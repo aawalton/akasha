@@ -3,7 +3,10 @@ import { isCraftingRankBelowCap } from "akasha/temper/items-core/crafting-passiv
 import { signatureMatchesItem } from "akasha/temper/items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import {
+  lookupKnownMotifChapters,
+  type RuleMatcherContext,
+} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import type {
   EvalEnv,
@@ -228,16 +231,6 @@ function factsToMatchable(facts: WantedEquipmentFacts): {
     armorType: facts.armorType,
     weaponType: facts.weaponType,
   }
-}
-
-function lookupKnownMotifChapters(
-  ctx: RuleMatcherContext,
-  charId: string,
-  styleId: number
-): ReadonlySet<number> | undefined {
-  const byStyleId = ctx.knownMotifsByStyleIdByCharacter.get(charId)?.get(styleId)
-  if (byStyleId !== undefined) return byStyleId
-  return ctx.knownMotifsByCharacter.get(charId)?.get(styleId)
 }
 
 function collectAllCharacterIds(ctx: RuleMatcherContext): readonly string[] {

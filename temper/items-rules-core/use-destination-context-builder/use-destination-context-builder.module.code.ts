@@ -8,7 +8,10 @@ import {
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import {
+  lookupKnownMotifChapters,
+  type RuleMatcherContext,
+} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   type CharacterId,
   characterId,
@@ -103,14 +106,4 @@ export function buildUseDestinationContext(context: RuleMatcherContext): UseDest
       return chapters?.size ?? 0
     },
   }
-}
-
-function lookupKnownMotifChapters(
-  context: RuleMatcherContext,
-  charId: string,
-  styleId: number
-): ReadonlySet<number> | undefined {
-  const byStyleId = context.knownMotifsByStyleIdByCharacter.get(charId)?.get(styleId)
-  if (byStyleId !== undefined) return byStyleId
-  return context.knownMotifsByCharacter.get(charId)?.get(styleId)
 }

@@ -29,6 +29,16 @@ export interface RuleMatcherContext {
   getCharacterCanLevelMorphs?: (this: void, charId: string) => boolean
 }
 
+export function lookupKnownMotifChapters(
+  context: RuleMatcherContext,
+  charId: string,
+  styleId: number
+): ReadonlySet<number> | undefined {
+  const byStyleId = context.knownMotifsByStyleIdByCharacter.get(charId)?.get(styleId)
+  if (byStyleId !== undefined) return byStyleId
+  return context.knownMotifsByCharacter.get(charId)?.get(styleId)
+}
+
 export interface CompletionCharacterInput {
   esoCharacterId: string
   targetBuildId: string | null | undefined
