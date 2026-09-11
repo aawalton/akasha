@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const boundSpellCleanse = {
   id: "01a06572-95b7-7178-867a-f97e2a7391d7",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const waterGeyser = {
   id: "01a06572-95e9-73f6-924c-1a5352fa0df8",

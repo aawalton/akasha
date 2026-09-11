@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const doubleCastSteelthornSpray = {
   id: "01a06572-95be-7375-82ea-242a3f63bc03",

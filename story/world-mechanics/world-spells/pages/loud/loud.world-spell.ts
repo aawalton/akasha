@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const loud = {
   id: "01a06572-95d0-763e-b498-b82a8ed65de0",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const solarRayWideDiffusion = {
   id: "01a06572-95e1-7639-b2d7-7455f2d5c9f8",

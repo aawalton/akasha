@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const recastRaysOfDisintegration = {
   id: "01a06572-95dc-76f9-ae1f-c78d9f84d398",

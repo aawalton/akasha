@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const meteorSwarm = {
   id: "01a06572-95d8-7419-9d50-1f9e298fe1ce",

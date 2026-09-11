@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const tserreSPoliteInquiry = {
   id: "01a06572-95e7-7e0b-884b-d1b25921f778",

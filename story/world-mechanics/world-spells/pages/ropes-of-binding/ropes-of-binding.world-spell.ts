@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const ropesOfBinding = {
   id: "01a06572-95de-74bf-9c94-23a988bd6f6c",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const appraisalOfTheWorldSEye = {
   id: "01a06572-95b4-7d0a-935f-c153237bd26a",

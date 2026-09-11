@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const umbrellaOfShade = {
   id: "01a06572-95e7-7bd1-bd1c-6e9b065d2c35",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const domeOfTheTwistedVine = {
   id: "01a06572-95be-7323-a6e8-9249cc6122c3",

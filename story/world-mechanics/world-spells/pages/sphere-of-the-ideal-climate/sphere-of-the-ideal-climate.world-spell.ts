@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const sphereOfTheIdealClimate = {
   id: "01a06572-95e2-788e-a2a5-dce459229c7f",

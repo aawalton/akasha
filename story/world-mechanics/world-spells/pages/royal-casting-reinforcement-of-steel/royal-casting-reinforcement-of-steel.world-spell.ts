@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const royalCastingReinforcementOfSteel = {
   id: "01a06572-95de-78eb-8e18-61375a207aaf",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const detectMinuteLife = {
   id: "01a06572-95bd-7ce0-96c1-b70b59bdba94",

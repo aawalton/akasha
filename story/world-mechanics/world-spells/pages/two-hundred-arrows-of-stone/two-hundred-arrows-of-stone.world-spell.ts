@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const twoHundredArrowsOfStone = {
   id: "01a06572-95e7-7047-8e4a-d48a69b762f8",

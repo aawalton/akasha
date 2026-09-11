@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const theBaneOfBelavierr = {
   id: "01a06572-95e6-73ab-95eb-f907eb135349",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const wallsOfTheElementalPalace = {
   id: "01a06572-95e9-7b0c-90e8-c37f1ef853fa",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const stomachOfTheCow = {
   id: "01a06572-95e3-7bce-95ad-192cd11e2c29",

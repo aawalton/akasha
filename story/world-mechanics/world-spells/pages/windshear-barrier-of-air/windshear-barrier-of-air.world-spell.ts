@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const windshearBarrierOfAir = {
   id: "01a06572-95ea-7472-a883-aff9fb4e8838",

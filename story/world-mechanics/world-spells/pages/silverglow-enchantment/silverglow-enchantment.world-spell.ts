@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const silverglowEnchantment = {
   id: "01a06572-95e1-7bae-b7f8-40f8be890cc7",

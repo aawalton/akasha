@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const fortressOfTheIceQueen = {
   id: "01a06572-95c5-7b81-baa9-932e8afe5106",

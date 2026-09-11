@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const mentalClarity = {
   id: "01a06572-95d2-7f3d-8905-3bf7ec9a6086",

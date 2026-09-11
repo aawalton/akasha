@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const empoweredSpellDragonlingSparkDance = {
   id: "01a06572-95bf-7d59-ad6f-21bfc202a571",

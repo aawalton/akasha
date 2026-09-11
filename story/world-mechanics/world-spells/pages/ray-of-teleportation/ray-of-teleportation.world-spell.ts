@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const rayOfTeleportation = {
   id: "01a06572-95dc-70e9-8730-bf296e7cc454",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const floodsOfGaarhMarsh = {
   id: "01a06572-95c4-7828-b9d7-33f36d1a8f33",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const pentagramOfTheFiveAlchemiesAnnihilation = {
   id: "01a06572-95da-7441-95dd-b6f9a53d5f0f",

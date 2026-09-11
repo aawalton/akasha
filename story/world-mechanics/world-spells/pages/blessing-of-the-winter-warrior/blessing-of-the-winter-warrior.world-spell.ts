@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const blessingOfTheWinterWarrior = {
   id: "01a06572-95b6-7a24-b78c-b38b8895930c",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const theWindingLairOfSolceSJellyfish = {
   id: "01a06572-95e6-77e2-a9ac-c982b371773d",

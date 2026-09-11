@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const bloomingFireball = {
   id: "01a06572-95b6-7a72-a32b-d5b8454b4bb6",

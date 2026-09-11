@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const wallOfMetalIron = {
   id: "01a06572-95e9-77e9-b605-b84a4b4de846",

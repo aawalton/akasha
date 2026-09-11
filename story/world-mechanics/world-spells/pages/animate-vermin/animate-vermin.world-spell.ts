@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const animateVermin = {
   id: "01a06572-95b4-7d25-8fa4-accb0a0ee5c2",

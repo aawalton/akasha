@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const oedmanSOstentatiousGastronomicAnalysis = {
   id: "01a06572-95da-7f87-817d-5fe23f620c72",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const summonAvatarOfTheWyrmQueen = {
   id: "01a06572-95e4-7bea-acfa-1afa9ee40f55",

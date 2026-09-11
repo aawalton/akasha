@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const infernoLanceOfTheSolarGiant = {
   id: "01a06572-95cb-7b7e-9e8b-e5011cde925e",

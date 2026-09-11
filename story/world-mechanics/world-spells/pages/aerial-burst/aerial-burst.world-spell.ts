@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const aerialBurst = {
   id: "01a06572-95b3-7eb0-8657-1dadb2a2b5d4",

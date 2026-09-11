@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const valeterisaSExtremelyComplexSeekerProjectiles = {
   id: "01a06572-95e8-7523-811a-7d928a3a1d40",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const pealinaSVeilOfHush = {
   id: "01a06572-95da-7423-8660-e1953a03ad2e",

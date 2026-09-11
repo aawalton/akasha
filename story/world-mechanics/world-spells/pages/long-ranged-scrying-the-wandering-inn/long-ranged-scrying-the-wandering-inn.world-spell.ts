@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const longRangedScryingTheWanderingInn = {
   id: "01a06572-95d0-7862-8b6f-58f18798a768",

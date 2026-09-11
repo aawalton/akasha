@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const massArmorOfThorns = {
   id: "01a06572-95d1-7ff8-acd7-edeeb7ee1e98",

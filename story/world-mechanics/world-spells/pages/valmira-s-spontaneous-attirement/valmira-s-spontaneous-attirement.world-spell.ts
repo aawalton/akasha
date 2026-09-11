@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const valmiraSSpontaneousAttirement = {
   id: "01a06572-95e8-7733-9503-576386a51cbf",

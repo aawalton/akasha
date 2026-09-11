@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const shieldSpiderSNestingGround = {
   id: "01a06572-95e0-7225-a3a8-d9abe73e7787",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const boundSpellImpactShockwave = {
   id: "01a06572-95b7-768b-b1ed-5305cb65728b",

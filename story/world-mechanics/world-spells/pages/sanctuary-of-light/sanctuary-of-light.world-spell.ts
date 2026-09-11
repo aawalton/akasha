@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const sanctuaryOfLight = {
   id: "01a06572-95de-7588-9007-5d0f7659aec5",

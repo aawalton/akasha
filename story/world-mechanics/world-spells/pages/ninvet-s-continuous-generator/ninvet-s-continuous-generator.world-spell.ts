@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const ninvetSContinuousGenerator = {
   id: "01a06572-95d9-7cb8-ac4f-122fa3163c21",

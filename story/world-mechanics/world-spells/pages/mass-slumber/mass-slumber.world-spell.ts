@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const massSlumber = {
   id: "01a06572-95d2-7cc3-a2d2-ca8bbea8ec12",

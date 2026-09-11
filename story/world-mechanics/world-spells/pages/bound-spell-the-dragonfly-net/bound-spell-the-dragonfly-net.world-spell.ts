@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const boundSpellTheDragonflyNet = {
   id: "01a06572-95b7-754d-b91a-28a7468bf0b8",

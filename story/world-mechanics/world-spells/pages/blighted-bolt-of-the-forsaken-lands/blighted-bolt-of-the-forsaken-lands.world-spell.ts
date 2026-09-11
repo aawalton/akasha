@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const blightedBoltOfTheForsakenLands = {
   id: "01a06572-95b6-77b4-9a99-a1ca8c641f69",

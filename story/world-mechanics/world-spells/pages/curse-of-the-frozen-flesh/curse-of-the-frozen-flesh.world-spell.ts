@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const curseOfTheFrozenFlesh = {
   id: "01a06572-95bb-7c77-91c5-d0beb315a940",

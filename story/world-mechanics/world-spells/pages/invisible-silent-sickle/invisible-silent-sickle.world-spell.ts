@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const invisibleSilentSickle = {
   id: "01a06572-95cc-7d8b-8c3d-87658f54b830",

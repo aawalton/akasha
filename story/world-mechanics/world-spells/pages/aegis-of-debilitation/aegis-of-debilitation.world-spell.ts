@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const aegisOfDebilitation = {
   id: "01a06572-95b3-77a6-b91b-8c39cf620648",

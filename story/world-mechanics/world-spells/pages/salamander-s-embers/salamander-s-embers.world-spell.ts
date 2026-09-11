@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const salamanderSEmbers = {
   id: "01a06572-95de-7e9f-88f3-7da69e66671c",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const lanceOfTheBoneGiant = {
   id: "01a06572-95cc-78ad-8838-5a77f1c6b9f7",

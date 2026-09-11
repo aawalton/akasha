@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const piercingShatterbolt = {
   id: "01a06572-95da-7b44-a444-c2c7d1ce8afb",

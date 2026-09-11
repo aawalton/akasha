@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.types.ts"
+import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world-spell.page-type.types.ts"
 
 export const boltOfRadianceExplosiveCharge = {
   id: "01a06572-95b6-7115-bfb6-d0cc097d4c6e",
