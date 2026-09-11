@@ -45,5 +45,10 @@ export const checkoutRoots = {
       invariantKind: "departure",
       statement: "Where node is absent an answer is refused rather than guessed.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A root taken from the environment is kept, and answered even after the environment names none.",
+    },
   ],
 } as const satisfies Module
