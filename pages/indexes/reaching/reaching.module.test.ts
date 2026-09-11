@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
+import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   B,
   C,
@@ -196,6 +197,85 @@ test("a name carrying a scope is not read as the slug it ends with", () => {
 
   expect("refused" in reached).toBe(true)
   if ("refused" in reached) expect(reached.refused).toContain("within `whatever`")
+})
+
+function declared(slug: string, pageTypeSlug: string, target: string | null): string {
+  return JSON.stringify({
+    pageTypeSlug,
+    targetPageTypeSlug: target,
+    unique: null,
+    uniquePropertySlug: null,
+    slug,
+    propertySlug: slug,
+    fileName: null,
+    folderName: null,
+  })
+}
+
+function entryShapes(): { readonly root: string; readonly repo: string } {
+  const repo = scratch.rootFor("akasha-reaching-entry-repo-")
+  const root = scratch.rootFor("akasha-reaching-entry-root-")
+  const kept = new Map<string, string[]>()
+  const filed = (at: string, line: string): undefined => {
+    mkdirSync(dirname(join(root, at)), { recursive: true })
+    writeFileSync(join(root, at), `${line}\n`)
+  }
+  const page = (at: string, value: Record<string, unknown>): undefined => {
+    writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
+    const type = String(value["pageTypeSlug"])
+    kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
+    filed(
+      `identity/page-type/${type}/slug/${String(value["slug"])}.jsonl`,
+      JSON.stringify({ path: at, id: value["id"] })
+    )
+  }
+  page("cases.page-property-entry.ts", {
+    id: "1",
+    pageTypeSlug: "page-property-entry",
+    slug: "cases",
+    propertySlug: "cases",
+    properties: [{ pagePropertySlug: "relation-property/case-page" }],
+  })
+  page("logs.page-property-entry.ts", {
+    id: "2",
+    pageTypeSlug: "page-property-entry",
+    slug: "logs",
+    propertySlug: "logs",
+    properties: [{ pagePropertySlug: "text-property/log-text" }],
+  })
+  page("cased.page-type.ts", {
+    id: "3",
+    pageTypeSlug: "page-type",
+    slug: "cased",
+    properties: [
+      { pagePropertySlug: "page-property-entry/cases" },
+      { pagePropertySlug: "page-property-entry/logs" },
+    ],
+  })
+  const every: readonly (readonly [string, string, string | null])[] = [
+    ["case-page", "relation-property", "domain"],
+    ["log-text", "text-property", null],
+    ["cases", "page-property-entry", null],
+    ["logs", "page-property-entry", null],
+  ]
+  const lines: string[] = []
+  for (const [slug, pageTypeSlug, target] of every) {
+    const line = declared(slug, pageTypeSlug, target)
+    filed(`schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`, line)
+    lines.push(line)
+  }
+  filed(DECLARING_AT, lines.join("\n"))
+  for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
+  return { root, repo }
+}
+
+test("an entry shape declaring a relation is answered, and one declaring none is left out", () => {
+  const { root, repo } = entryShapes()
+  const known = knownAt(root, repo)
+
+  expect(known.entriedIn({ pageTypeSlug: "cased" }).map((one) => one.pagePropertySlug)).toEqual([
+    "cases",
+  ])
 })
 
 test("a name carrying a scope under a page type the target does not admit is refused", () => {

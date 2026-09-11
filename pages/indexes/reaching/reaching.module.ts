@@ -116,5 +116,10 @@ export const reaching = {
       invariantKind: "departure",
       statement: "The module saying a page's entries names nothing here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An entry shape declaring no relation is answered as carrying no rows, so its rows are never read.",
+    },
   ],
 } as const satisfies Module

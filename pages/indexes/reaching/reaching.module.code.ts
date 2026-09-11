@@ -155,17 +155,6 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     if (slug !== null) rowFields.set(slug, fieldsIn(value))
   }
 
-  const entried = new Map<string, readonly Rowed[]>()
-  const entriedOf = (pageTypeSlug: string): readonly Rowed[] => {
-    const found = entried.get(pageTypeSlug)
-    if (found !== undefined) return found
-    const made = (propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []).filter(
-      (one) => one.pageTypeSlug === ENTRY
-    )
-    entried.set(pageTypeSlug, made)
-    return made
-  }
-
   const keyedAmong = (
     held: ReadonlyMap<string, readonly string[]>,
     slug: string,
@@ -194,6 +183,19 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
       if (said !== undefined && !found.includes(said)) found.push(said)
     }
     return found.length === 0 ? null : found
+  }
+
+  const entried = new Map<string, readonly Rowed[]>()
+  const entriedOf = (pageTypeSlug: string): readonly Rowed[] => {
+    const found = entried.get(pageTypeSlug)
+    if (found !== undefined) return found
+    const made = (propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []).filter(
+      (one) =>
+        one.pageTypeSlug === ENTRY &&
+        (rowFields.get(one.pagePropertySlug) ?? []).some((field) => targetOf(field) !== null)
+    )
+    entried.set(pageTypeSlug, made)
+    return made
   }
 
   const admits = new Map<string, readonly string[]>()

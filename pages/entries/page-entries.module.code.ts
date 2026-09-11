@@ -106,7 +106,7 @@ export function rowsOver(
       if (body === null) continue
       const read = entriesIn(at, body)
       if ("refused" in read) continue
-      rows.push(...read.entries)
+      for (const row of read.entries) rows.push(row)
     }
     if (rows.length > 0) found.push({ slug: one.pagePropertySlug, rows })
   }
