@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorInteractiveSpawn = {
   id: "01a06871-3115-7008-8fbf-3dbf3b640571",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-interactive-spawn",
   definition: "the arguments a Claude child is spawned with, and the teardown after the last one",
   code: "ts",

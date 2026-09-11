@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDataWritesAlchemy = {
   id: "01a06837-d6c9-78da-823e-e34e8aa19133",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-data-writes-alchemy",
   definition: "the alchemy section of a run's output, as the writes the section represents",
   code: "ts",

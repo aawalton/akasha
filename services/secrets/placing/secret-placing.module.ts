@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const secretPlacing = {
   id: "01a06977-65e5-74e7-9c45-ae62673340e9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "secret-placing",
   definition:
     "the secret values a plan's manifests ask for, put into the cluster from secret pages",

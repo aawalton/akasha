@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorHeartbeat = {
   id: "01a06871-3115-7001-910f-b7d9676eca90",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-heartbeat",
   definition: "the beat on which a supervisor records itself and runs its polls",
   code: "ts",

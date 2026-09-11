@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorAdopt = {
   id: "01a0683e-3dbe-7001-8d52-13b4652ba83e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-adopt",
   definition: "a Claude child taken over from a prior supervisor or spawned fresh",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDataOutputDirs = {
   id: "01a06837-d6c8-7575-95dd-44fa2e3c7d3e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-data-output-dirs",
   definition: "the directory each rendered table is written under while targets are still folders",
   code: "ts",

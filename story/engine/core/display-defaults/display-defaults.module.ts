@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const displayDefaults = {
   id: "01a05b71-e543-7b2a-a5d5-2d33b290b697",
   pageTypeSlug: "module",
+  type: "module",
   slug: "display-defaults",
   definition: "the chapter-prose dials a game falls back to where it declares none of its own",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const subagentPageHistory = {
   id: "01a072a4-24cb-708c-b671-ae3473e926d0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "subagent-page-history",
   definition:
     "what a subagent's page said before that page went, read out of the commit that wrote it",

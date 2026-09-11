@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorClaudeConfig = {
   id: "01a0683e-3dbe-7012-8f94-55170087009a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-claude-config",
   definition: "the declared Claude configuration reconciled into an account's config file",
   code: "ts",

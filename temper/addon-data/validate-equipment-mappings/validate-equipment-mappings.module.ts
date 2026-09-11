@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const validateEquipmentMappings = {
   id: "01a06837-d6c9-764c-9c11-c54009827e36",
   pageTypeSlug: "module",
+  type: "module",
   slug: "validate-equipment-mappings",
   definition: "whether each committed index table still has one slot per id temper holds",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorInteractiveBootContract = {
   id: "01a06871-3115-7004-85f9-3b541e6a385e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-interactive-boot-contract",
   definition: "what a seat's interactive boot is asked for and what it hands back",
   code: "ts",

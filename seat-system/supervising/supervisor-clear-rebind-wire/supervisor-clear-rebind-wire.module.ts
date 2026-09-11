@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorClearRebindWire = {
   id: "01a0683e-3dbe-7013-ac46-7d54c415b88f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-clear-rebind-wire",
   definition: "a rotated session watched for, and the supervisor rebound onto it",
   code: "ts",

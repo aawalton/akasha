@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const classMappings = {
   id: "01a06340-4913-74f3-a491-8b1a1a81de29",
   pageTypeSlug: "module",
+  type: "module",
   slug: "class-mappings",
   definition: "the character class index and id tables the capture addon reads",
   code: "ts",

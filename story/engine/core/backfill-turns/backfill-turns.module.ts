@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const backfillTurns = {
   id: "01a05b71-e543-755f-8fd1-ab8e2e5074d5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "backfill-turns",
   definition:
     "turns rebuilt out of a game's raw beat log, one per turn number, each under the chapter it fell in",

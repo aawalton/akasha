@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mappingRenders = {
   id: "01a0634a-8c28-7cbe-8c05-edd53469099f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mapping-renders",
   definition: "each mapping table there is, beside what renders it",
   code: "ts",

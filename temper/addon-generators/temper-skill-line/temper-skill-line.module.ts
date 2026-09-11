@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperSkillLine = {
   id: "01a0607b-e921-7935-a2be-633fcb72068e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-skill-line",
   definition: "the skill lines data file, rendered from pages",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const changeBranchWorktree = {
   id: "01a069c1-1f43-7000-bf9c-42ecd1235cba",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-branch-worktree",
   definition: "where a numbered change branch's worktree is on disk",
   code: "ts",

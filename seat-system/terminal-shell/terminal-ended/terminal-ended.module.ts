@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const terminalEnded = {
   id: "01a0680a-fa30-7c8e-b940-a8c983ec63d0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "terminal-ended",
   definition: "how an editor terminal's shell ended, left beside that terminal's own page",
   code: "ts",

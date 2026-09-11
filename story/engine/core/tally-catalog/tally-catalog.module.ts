@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const tallyCatalog = {
   id: "01a05b71-e544-7ef9-9d6d-553471113234",
   pageTypeSlug: "module",
+  type: "module",
   slug: "tally-catalog",
   definition:
     "the patterns a game's prose is measured against and the lens its turn boundaries are read through",

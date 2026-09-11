@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const rulebookSchema = {
   id: "01a05b71-e544-70e3-9bbf-39b05dfb3b6d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rulebook-schema",
   definition: "a game's mechanics, from its attributes through its dice to how a strike resolves",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const stateSchema = {
   id: "01a05b71-e544-7bab-8507-5a3ede4ec9a0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "state-schema",
   definition: "the whole live state of a game at one turn",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperCompanionBaseRole = {
   id: "01a0607b-1542-7c0f-924c-d85c72714e39",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-companion-base-role",
   definition: "the companion base roles data file, rendered from pages",
   code: "ts",

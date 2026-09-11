@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const gameConfigSchema = {
   id: "01a05b71-e543-7e5f-b316-0eae8b14a849",
   pageTypeSlug: "module",
+  type: "module",
   slug: "game-config-schema",
   definition:
     "everything a game declares about itself, weighed together before it is allowed to run",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const syncRunRecording = {
   id: "01a0686c-fd2c-7002-a269-4f47fac2fd46",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sync-run-recording",
   definition: "a sync run opened, settled and recorded against the sync it ran for",
   code: "ts",

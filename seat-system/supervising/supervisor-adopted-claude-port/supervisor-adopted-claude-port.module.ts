@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorAdoptedClaudePort = {
   id: "01a0683e-3dbe-7002-909e-1e947514559c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-adopted-claude-port",
   definition: "the proxy port an adopted Claude child was launched against",
   code: "ts",

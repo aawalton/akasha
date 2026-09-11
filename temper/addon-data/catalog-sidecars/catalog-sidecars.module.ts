@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const catalogSidecars = {
   id: "01a06369-1e85-7d20-90a9-a624c0c3695e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalog-sidecars",
   definition: "the rows a catalog page has, turned into the shape a generator reads",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorInteractiveBoot = {
   id: "01a06871-3115-7005-8779-160298d3aa4e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-interactive-boot",
   definition: "the once-per-run setup of a seat's account, agent id, proxy and monitors",
   code: "ts",

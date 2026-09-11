@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const seatSupervisorClaim = {
   id: "01a0687e-533c-7000-b149-004c8b1c0b5f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-supervisor-claim",
   definition: "a supervisor taking a seat, refused where another supervisor is still in it",
   code: "ts",

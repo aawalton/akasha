@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorTickSaying = {
   id: "01a08e28-7d11-7673-83b4-5b56092efa4c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-tick-saying",
   definition: "a monitor's line, said where the kind it reports turns rather than on every tick",
   code: "ts",

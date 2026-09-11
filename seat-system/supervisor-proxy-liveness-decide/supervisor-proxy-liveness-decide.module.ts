@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorProxyLivenessDecide = {
   id: "01a06838-5a84-7005-8c03-97e98844c99e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-proxy-liveness-decide",
   definition: "what a supervisor does as the OAuth proxy fails its health checks",
   code: "ts",

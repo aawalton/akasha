@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDataProof = {
   id: "01a0694d-0713-7912-ae1c-585ecc7d5c1f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-data-proof",
   definition: "whether every file the addon data run emits comes back byte-identical",
   code: "ts",

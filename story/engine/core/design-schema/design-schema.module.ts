@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const designSchema = {
   id: "01a05b71-e543-7d6a-b9e2-7241ddf845a9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "design-schema",
   definition:
     "what a game master designs ahead of play for a companion, a dungeon floor, or a rule of the world",

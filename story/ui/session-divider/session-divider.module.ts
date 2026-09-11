@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const sessionDivider = {
   id: "01a0629b-6848-79c6-8fb4-791eafeb5842",
   pageTypeSlug: "module",
+  type: "module",
   slug: "session-divider",
   definition: "the ruled line naming the session a turn belongs to",
   code: "tsx",

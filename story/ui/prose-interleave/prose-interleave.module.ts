@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const proseInterleave = {
   id: "01a0628e-a5db-76a3-a903-872df67354e9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "prose-interleave",
   definition: "a turn's prose broken at its markers with that turn's system beats set in between",
   code: "ts",

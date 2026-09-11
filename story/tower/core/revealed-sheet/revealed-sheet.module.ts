@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const revealedSheet = {
   id: "01a05bc6-fa4a-7003-aa68-8eca1b65046d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "revealed-sheet",
   definition: "the shape of a character sheet as a player is shown it",
   code: "ts",

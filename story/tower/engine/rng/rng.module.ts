@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const rng = {
   id: "01a05bc6-fa4a-7008-b5ab-2cc69317c300",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rng",
   definition: "the dice a seed gives, and which dice a combatant is rolled with",
   code: "ts",

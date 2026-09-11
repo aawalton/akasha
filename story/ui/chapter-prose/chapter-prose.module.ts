@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const chapterProse = {
   id: "01a06327-e488-7a03-bb37-e36a0d56a4ec",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chapter-prose",
   definition: "a chapter's prose segments laid out as a titled reading section",
   code: "tsx",

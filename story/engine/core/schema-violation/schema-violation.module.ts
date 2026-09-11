@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const schemaViolation = {
   id: "01a05bc8-6883-7d97-b265-b768554225f6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "schema-violation",
   definition: "what a body shape refused, said as the field it was at and the message",
   code: "ts",

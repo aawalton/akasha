@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mappingTotals = {
   id: "01a06837-d6c9-7395-b513-0aa2bf21e2a4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mapping-totals",
   definition: "how many rows each rendered mapping carries, said for a run to print",
   code: "ts",

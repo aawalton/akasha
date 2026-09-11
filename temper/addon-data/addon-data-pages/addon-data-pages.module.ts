@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDataPages = {
   id: "01a06369-1e85-7bbd-9679-9ca88a924caa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-data-pages",
   definition: "every population the addon data generators read, asked for at once",
   code: "ts",

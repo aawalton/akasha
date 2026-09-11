@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const sessionStream = {
   id: "01a06983-278f-7a83-9918-2c291cd81291",
   pageTypeSlug: "module",
+  type: "module",
   slug: "session-stream",
   definition: "a session's object key, and the byte ranges synced to the object store",
   code: "ts",

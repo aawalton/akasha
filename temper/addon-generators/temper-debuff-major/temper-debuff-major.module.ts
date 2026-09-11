@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperDebuffMajor = {
   id: "01a0607b-e916-75e2-a41c-bbd4d6a06b93",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-debuff-major",
   definition: "the major debuffs data file, rendered from pages",
   code: "ts",

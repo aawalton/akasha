@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const runPathReading = {
   id: "01a088a6-acf3-740a-9bbc-9f25e543ec53",
   pageTypeSlug: "module",
+  type: "module",
   slug: "run-path-reading",
   definition: "the files of this repository a workstation service's run command names",
   code: "ts",

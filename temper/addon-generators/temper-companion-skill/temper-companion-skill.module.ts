@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperCompanionSkill = {
   id: "01a0607b-1544-785c-8b5c-3cc18b12e5fc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-companion-skill",
   definition: "the companion skills data file, rendered from pages",
   code: "ts",

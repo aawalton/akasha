@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const playerSkillMappings = {
   id: "01a06340-4915-782c-be8b-02e632022ea8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "player-skill-mappings",
   definition: "the player skill index and id tables the capture addon reads",
   code: "ts",

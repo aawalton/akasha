@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryOutputSummary = {
   id: "01a06837-d6c9-7e57-9fef-5ee1cdee6b41",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-output-summary",
   definition: "the line a run prints for what the inventory section landed and where",
   code: "ts",

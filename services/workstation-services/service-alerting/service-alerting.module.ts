@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const serviceAlerting = {
   id: "01a0821e-fce5-7c36-a9bf-49d374faeb31",
   pageTypeSlug: "module",
+  type: "module",
   slug: "service-alerting",
   definition: "which persona is told a service is broken, and how seldom she is told it again",
   code: "ts",

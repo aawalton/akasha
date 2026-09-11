@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperInventoryCurrency = {
   id: "01a0607b-e91a-7d04-bb08-f4146cc00979",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-inventory-currency",
   definition: "the inventory currencies data file, rendered from pages",
   code: "ts",

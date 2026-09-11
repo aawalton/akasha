@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const serviceWrapping = {
   id: "01a05a5e-4f47-7632-b967-31167f361530",
   pageTypeSlug: "module",
+  type: "module",
   slug: "service-wrapping",
   definition: "a service run under a watch that ends it when what it reaches changes",
   code: "ts",

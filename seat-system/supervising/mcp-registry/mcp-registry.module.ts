@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mcpRegistry = {
   id: "01a0686c-f06b-7009-b6fa-ed9426be09a5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mcp-registry",
   definition: "the tool servers a seat is launched with, read off the agent settings page",
   code: "ts",

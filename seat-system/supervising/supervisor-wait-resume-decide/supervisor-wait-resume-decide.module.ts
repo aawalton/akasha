@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorWaitResumeDecide = {
   id: "01a0686d-9d5e-7004-9169-e4d983fea9db",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-wait-resume-decide",
   definition: "whether a seat whose turn keeps dying is nudged now, and how long the next wait is",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorExec = {
   id: "01a0683e-3dbe-7020-aab5-a279b45af99d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-exec",
   definition: "the libc calls a supervisor replaces and reaps processes with",
   code: "ts",

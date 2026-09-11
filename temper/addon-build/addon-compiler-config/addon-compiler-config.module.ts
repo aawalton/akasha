@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonCompilerConfig = {
   id: "01a060ed-2e23-72af-af9e-fc35df5b70c3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-compiler-config",
   definition: "the transpiler settings a build reads for an addon whose folder has no tsconfig",
   code: "ts",

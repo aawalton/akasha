@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDataWritesCompanionMappings = {
   id: "01a06837-d6c9-7650-a4df-e2a75b0339c5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-data-writes-companion-mappings",
   definition:
     "the companion mapping section of a run's output, as the writes the section represents",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minedRestorePotions = {
   id: "01a06369-1e85-7a7e-8572-17d2ceab1b11",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mined-restore-potions",
   definition: "the potions restoring a resource at once, among the item sweep's rows",
   code: "ts",

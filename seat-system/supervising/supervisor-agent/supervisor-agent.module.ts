@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorAgent = {
   id: "01a0683e-3dbe-7003-8c74-a74611900fdd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-agent",
   definition: "the account a seat runs under and the credential written for it",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const derive = {
   id: "01a05bc6-fa4a-7007-ba96-3032550c71d3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "derive",
   definition: "the pools and the attack and defence scores a combatant's attributes come to",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorProxyAdoptionDecide = {
   id: "01a06838-5a84-7004-bfa3-4f11134ef503",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-proxy-adoption-decide",
   definition: "whether a supervisor takes over the OAuth proxy standing or starts its own",
   code: "ts",

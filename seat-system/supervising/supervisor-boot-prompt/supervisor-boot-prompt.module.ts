@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorBootPrompt = {
   id: "01a0683e-3dbe-700c-846f-2de44a594e21",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-boot-prompt",
   definition: "the authored prompt a spawning seat is handed",
   code: "ts",

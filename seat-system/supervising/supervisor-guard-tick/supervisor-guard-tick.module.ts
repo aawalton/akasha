@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorGuardTick = {
   id: "01a0683e-3dbe-7022-adf7-a141c00ada4a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-guard-tick",
   definition: "a timer tick whose fault is handed to a handler rather than thrown",
   code: "ts",

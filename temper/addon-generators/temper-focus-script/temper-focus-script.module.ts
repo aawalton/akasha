@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperFocusScript = {
   id: "01a0607b-e919-7a9e-aae6-9a5f354cfa94",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-focus-script",
   definition: "the focus scripts data file, rendered from pages",
   code: "ts",

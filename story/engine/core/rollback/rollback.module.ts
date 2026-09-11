@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const rollback = {
   id: "01a05b71-e544-7ea7-9ac5-f593e5311a0b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rollback",
   definition: "the decision to carry a game back to a chosen turn and what it would touch",
   code: "ts",

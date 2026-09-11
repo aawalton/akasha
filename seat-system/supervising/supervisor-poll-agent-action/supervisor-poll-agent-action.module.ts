@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorPollAgentAction = {
   id: "01a0687b-aa81-7000-ada8-b1a18075e043",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-poll-agent-action",
   definition: "reading the action a seat has been asked to take",
   code: "ts",

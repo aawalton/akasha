@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supervisorIdleRule = {
   id: "01a06871-3115-7003-9d59-97c04e3f8140",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-idle-rule",
   definition: "the questions about a seat's idleness that are put to the deciding rule",
   code: "ts",

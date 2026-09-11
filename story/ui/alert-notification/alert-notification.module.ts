@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const alertNotification = {
   id: "01a0628e-a5da-7ee0-a6fa-62cfbb59efac",
   pageTypeSlug: "module",
+  type: "module",
   slug: "alert-notification",
   definition: "browser notification permission, and the notice raised when a turn is ready",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const agentHookRegistration = {
   id: "01a069ca-e863-7000-a1ae-b2d92e543dd0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-hook-registration",
   definition: "what the agent hook pages register with a client at spawn",
   code: "ts",

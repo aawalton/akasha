@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonDataWritesStats = {
   id: "01a06837-d6c9-7ffe-a9b2-19686e944a5d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-data-writes-stats",
   definition: "the stats section of a run's output, as the writes the section represents",
   code: "ts",
