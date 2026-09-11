@@ -2,7 +2,6 @@ import type { TemperNetWorthHour } from "akasha/temper/holdings-sets/temper-net-
 
 export const hour2026091017 = {
   id: "01a08c48-56f1-7000-941c-4bc8304f4138",
-  pageTypeSlug: "temper-net-worth-hour",
   type: "temper-net-worth-hour",
   slug: "hour-2026-09-10-17",
   title: "2026-09-10 17:00 UTC",
