@@ -109,6 +109,15 @@ export const noRuleInTwoFiles = {
       statement:
         "A rule in two files during a move from the first file to the second is a landing partway.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Widening a parameter's type takes a rule out from under this check.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A module-private name two files share reads as one rule, so never repeating one hides a duplicate.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

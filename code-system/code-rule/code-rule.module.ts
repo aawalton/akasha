@@ -90,5 +90,10 @@ export const codeRule = {
       invariantKind: "absence",
       statement: "The use a rule is put to is answered elsewhere.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A parameter's type annotation is a name the function does not bind and is read as written.",
+    },
   ],
 } as const satisfies Module
