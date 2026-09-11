@@ -102,6 +102,12 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "172 of 227 command pages open `the command `, so 55 depart: `google-calendar-events-get.command.ts:8` opens `the act answering`, `change-list.command.ts:8` is a bare noun phrase. `page-tree.command.ts:8` describes what the command is given rather than what it does, and its help says it prints `types`, `properties` and `propertyTypes`, which is no tree. That one line is the whole right column of every listing, drawn by `toldOf` at `calling.module.code.ts:207-219`.\n",
     },
+    {
+      statement:
+        "Every name in the command tree is singular; how many a command answers is no part of its name.",
+      workingMemory:
+        "`page-type.page-type.ts:92` already holds a page type's slug to the singular, and `plural-slug.text-property.ts:18-19` gives the plural to a folder alone. The tree is inverted: `email-messages.namespace.ts:8` defines one message under a plural slug and `email-drafts.namespace.ts:8` does the same, while `temper-inventory-rule.namespace.ts:8` defines many rules under a singular one. `temper-inventory-rules` is named by its noun's number rather than by what it does.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
