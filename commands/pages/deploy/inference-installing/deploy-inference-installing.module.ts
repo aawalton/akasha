@@ -36,5 +36,13 @@ export const deployInferenceInstalling = {
       invariantKind: "absence",
       statement: "Nothing here tears down a service the pages no longer name.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The folder shipped to the host is read from the tree pinned at the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages a service is read from sit in the checkout rather than that tree.",
+    },
   ],
 } as const satisfies Module

@@ -69,7 +69,7 @@ const NAMED: Readonly<Record<string, string>> = {
   [ESO_ADDON]: "an ESO addon",
 }
 
-export const PINNED: ReadonlySet<string> = new Set([WORKSTATION_SERVICE])
+export const PINNED: ReadonlySet<string> = new Set([WORKSTATION_SERVICE, INFERENCE_SERVICE])
 
 export interface RefNamed {
   readonly ref: string | null
@@ -130,7 +130,9 @@ export async function putUp(
   if (read.kind === WORKSTATION_SERVICE) {
     return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at)
   }
-  if (read.kind === INFERENCE_SERVICE) return await putUpInferenceService(given.root, slug, dryRun)
+  if (read.kind === INFERENCE_SERVICE) {
+    return await putUpInferenceService(given.root, slug, dryRun, at)
+  }
   if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)

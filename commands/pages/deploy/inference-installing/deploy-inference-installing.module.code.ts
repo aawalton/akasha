@@ -71,11 +71,15 @@ function probedFor(name: string): readonly string[] {
   return name === HEALTH_PROBED || name.startsWith(`${HEALTH_PROBED}-`) ? [name] : []
 }
 
-async function hashFor(root: string, service: Inference, poolJson: string | null): Promise<string> {
+async function hashFor(
+  codeAt: string,
+  service: Inference,
+  poolJson: string | null
+): Promise<string> {
   const manifest = foldServiceManifest(
     await computeInputsHash({
-      workspace: root,
-      graphFileSet: sourceFileSet(root, service.sourceDir),
+      workspace: codeAt,
+      graphFileSet: sourceFileSet(codeAt, service.sourceDir),
     }),
     { command: [service.runs], port: service.port, workdir: service.workdir }
   )
@@ -87,7 +91,8 @@ async function hashFor(root: string, service: Inference, poolJson: string | null
 export function putUpInferenceService(
   root: string,
   slug: string,
-  dryRun: boolean
+  dryRun: boolean,
+  codeAt: string
 ): Promise<Answer> {
   return answering(async () => {
     const one = readFor(root, slug)
@@ -112,7 +117,7 @@ export function putUpInferenceService(
     const cop = running.find((each) => each.name === TRAFFIC_COP_SERVICE_NAME)
     const poolJson =
       cop === undefined ? null : serializePoolConfig(buildPoolConfig(running, cop.port))
-    const inputsHash = await hashFor(root, service, poolJson)
+    const inputsHash = await hashFor(codeAt, service, poolJson)
     report.push(`is asked for at hash ${inputsHash}`)
 
     const actual = parseActualState(
@@ -146,7 +151,7 @@ export function putUpInferenceService(
     }
     await syncDir({
       target,
-      localDir: join(root, service.sourceDir),
+      localDir: join(codeAt, service.sourceDir),
       remoteDir: `${serviceDir(host.home, service.name)}/src`,
     })
     await runSsh(
