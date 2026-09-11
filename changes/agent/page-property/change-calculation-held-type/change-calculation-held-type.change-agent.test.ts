@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
+import {
+  changeCalculationHeldType,
+  runChange,
+} from "akasha/changes/agent/page-property/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"
 import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   catching,
   refusingAt,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import {
-  changeCalculationHeldType,
-  runChange,
-} from "./change-calculation-held-type.change-agent.code.ts"
 
 const KIND = "computed-property"
 
