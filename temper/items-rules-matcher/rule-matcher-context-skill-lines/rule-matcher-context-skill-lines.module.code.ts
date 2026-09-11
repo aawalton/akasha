@@ -1,18 +1,14 @@
 import type { CompletionCharacterInput } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-
-function getCompletionField(completion: unknown, field: string): unknown {
-  if (!isObjectRecord(completion)) return undefined
-  return completion[field]
-}
+import { recordField } from "akasha/utils/narrow/record-field/record-field.module.code.ts"
 
 export function compileSkillLineCurrentRanks(
   characters: readonly CompletionCharacterInput[]
 ): Map<string, Map<number, number>> {
   const result = new Map<string, Map<number, number>>()
   for (const char of characters) {
-    const skillLineProgress = getCompletionField(char.completion, "skillLineProgress")
+    const skillLineProgress = recordField(char.completion, "skillLineProgress")
     if (!isObjectRecord(skillLineProgress)) continue
     const inner = new Map<number, number>()
     for (const [esoIdStr, slProgress] of Object.entries(skillLineProgress)) {

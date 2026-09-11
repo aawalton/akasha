@@ -11,11 +11,7 @@ import type {
   CompletionCharacterInput,
 } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-
-function getCompletionField(completion: unknown, field: string): unknown {
-  if (!isObjectRecord(completion)) return undefined
-  return completion[field]
-}
+import { recordField } from "akasha/utils/narrow/record-field/record-field.module.code.ts"
 
 function isExhaustiveRecipeList(
   value: unknown
@@ -28,7 +24,7 @@ export function compileKnownRecipes(
 ): Map<string, Set<number>> {
   const result = new Map<string, Set<number>>()
   for (const char of characters) {
-    const recipes = getCompletionField(char.completion, "recipes")
+    const recipes = recordField(char.completion, "recipes")
     if (!isObjectRecord(recipes)) continue
     const known = new Set<number>()
     for (const listValue of Object.values(recipes)) {
@@ -56,7 +52,7 @@ export function compileKnownMotifs(
 ): Map<string, Map<number, Set<number>>> {
   const result = new Map<string, Map<number, Set<number>>>()
   for (const char of characters) {
-    const loreLibrary = getCompletionField(char.completion, "loreLibrary")
+    const loreLibrary = recordField(char.completion, "loreLibrary")
     if (!isObjectRecord(loreLibrary)) continue
     const motifCategory = loreLibrary[CRAFTING_MOTIFS_CATEGORY_INDEX]
     if (!isObjectRecord(motifCategory)) continue
@@ -84,7 +80,7 @@ export function compileKnownMotifsByStyleId(
   const result = new Map<string, Map<number, Set<number>>>()
   for (const char of characters) {
     const charMap = new Map<number, Set<number>>()
-    const motifKnowledge = getCompletionField(char.completion, "motifKnowledge")
+    const motifKnowledge = recordField(char.completion, "motifKnowledge")
     if (isObjectRecord(motifKnowledge)) {
       for (const [styleIdStr, chapters] of Object.entries(motifKnowledge)) {
         const styleId = Number(styleIdStr)
@@ -112,7 +108,7 @@ export function compileResearchableTraits(
   const result = new Map<string, Map<number, Map<string, boolean>>>()
 
   for (const char of characters) {
-    const traitResearch = getCompletionField(char.completion, "traitResearch")
+    const traitResearch = recordField(char.completion, "traitResearch")
     if (!isObjectRecord(traitResearch)) continue
 
     const charMap = new Map<number, Map<string, boolean>>()
@@ -158,7 +154,7 @@ export function compileKnownScripts(
 ): Map<string, Set<number>> {
   const result = new Map<string, Set<number>>()
   for (const char of characters) {
-    const scribing = getCompletionField(char.completion, "scribing")
+    const scribing = recordField(char.completion, "scribing")
     if (!isObjectRecord(scribing)) continue
     const scripts = scribing.scripts
     if (!isObjectRecord(scripts)) continue
