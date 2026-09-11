@@ -10,7 +10,7 @@ export const mechanicReadings = {
   properties: [
     { pageProperty: "text-property/reading-slug", required: true, many: false },
     { pageProperty: "text-property/reading-name", required: true, many: false },
-    { pageProperty: "text-property/reading-kind", required: true, many: false },
+    { pageProperty: "select-property/reading-kind", required: true, many: false },
     { pageProperty: "text-property/mechanic-slug", required: false, many: false },
   ],
   invariants: [

@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { SelectProperty } from "../../../pages/select-properties/select-property.page-type.types.ts"
 
 export type ReadingKind =
   | "aspect"
@@ -26,25 +26,39 @@ export type ReadingKind =
 
 export const readingKind = {
   id: "01a063ce-6216-7005-95f1-cc6876e8a107",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "reading-kind",
   propertySlug: "reading-kind",
   definition: "what sort of thing a name in a world's text names",
-  maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  values: [
+    "aspect",
+    "boon",
+    "carried-memory",
+    "character",
+    "class",
+    "condition",
+    "curse",
+    "enchantment",
+    "item",
+    "legacy",
+    "miracle",
+    "none",
+    "quest",
+    "recipe",
+    "religion",
+    "reputation",
+    "skill",
+    "song",
+    "species",
+    "spell",
+    "title",
+    "unsure",
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A reading whose kind is `unsure` is a reading nobody has ruled on yet.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "The kinds a reading can be have no pages of their own.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "This property is a relation to a reading kind.",
-    },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty

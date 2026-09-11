@@ -14,7 +14,7 @@ export const world = {
     "page-property-entry/mechanic-readings",
     "text-property/character-slug",
     "text-property/mechanic-slug",
-    "text-property/reading-kind",
+    "select-property/reading-kind",
     "text-property/reading-name",
     "text-property/reading-slug",
   ],
