@@ -160,6 +160,15 @@ export const seat = {
       statement:
         "A seat keeps what a subagent under it left unlanded once that subagent's page goes.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a seat keeps that way is beside the seat rather than in the seat's own edits.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A command reaches what a seat keeps that way.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
