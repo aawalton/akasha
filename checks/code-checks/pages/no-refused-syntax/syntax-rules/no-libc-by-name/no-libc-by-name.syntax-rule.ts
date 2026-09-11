@@ -36,11 +36,11 @@ export const noLibcByName = {
       statement: "Opening a library in general is an ordinary thing to do.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A name built as the code runs is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A name written where the library is opened is seen.",
     },
   ],
