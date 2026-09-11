@@ -1,9 +1,9 @@
 import type { InventoryLocationConditionId } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   FilterOption,
   InventoryRuleFilter,
-} from "../rule-filter-types/rule-filter-types.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
 
 export const LOCATION_OPTIONS: readonly FilterOption[] = [
   { value: "worn", label: "Worn (Equipped)" },

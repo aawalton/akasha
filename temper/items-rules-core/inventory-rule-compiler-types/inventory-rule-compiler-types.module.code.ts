@@ -1,7 +1,7 @@
 import type { InventoryLocationConditionId } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
-import type { BuySource } from "../buy-rule-types/buy-rule-types.module.code.ts"
-import type { CanLevelMorphsCondition } from "../can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
-import type { ComparisonOpId } from "../comparison-op-data/comparison-op-data.module.code.ts"
+import type { BuySource } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
+import type { ComparisonOpId } from "akasha/temper/items-rules-core/comparison-op-data/comparison-op-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CompanionScope,
@@ -9,10 +9,10 @@ import {
   IMPLICIT_TERMINAL_RULE_ID,
   type ItemAction,
   type StockScope,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RequiredCurseStateCondition } from "../required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
-import type { RequiredSkillLinesCondition } from "../required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import type { RuleConstantKey } from "../rule-constants/rule-constants.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import type { RuleConstantKey } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
 
 export type CharacterScope = "current-character" | "any-character" | `character:${string}`
 

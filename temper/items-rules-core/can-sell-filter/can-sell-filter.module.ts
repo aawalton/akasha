@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const canSellFilter = {
   id: "01a06100-3be8-7f83-ba88-c5db0a0a8a2f",

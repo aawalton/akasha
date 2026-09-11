@@ -1,10 +1,10 @@
 import { setCategories } from "akasha/temper/characters-equipment/set-categories/set-categories.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   FilterOption,
   InventoryRuleFilter,
-} from "../rule-filter-types/rule-filter-types.module.code.ts"
-import { checkAncestorRoots } from "../rule-filter-utils/rule-filter-utils.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import { checkAncestorRoots } from "akasha/temper/items-rules-core/rule-filter-utils/rule-filter-utils.module.code.ts"
 
 const SET_SOURCE_TYPE_ELIGIBLE_ROOTS = new Set(["equipment", "weapons", "armor", "jewelry"])
 

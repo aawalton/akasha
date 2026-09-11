@@ -1,5 +1,5 @@
-import { isControlledRuleId } from "../inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import { isControlledRuleId } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 type RuleCardType = "character" | "companion" | "category"
 

@@ -8,14 +8,14 @@ import {
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { RuleMatcherContext } from "../rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   type CharacterId,
   characterId,
   type ItemKey,
   type UseDestinationContext,
-} from "../use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export function inventoryItemUseKey(
   item: InventoryItemData,

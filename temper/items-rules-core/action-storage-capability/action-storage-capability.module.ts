@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const actionStorageCapability = {
   id: "01a06100-3bdf-73c8-af37-4cb6f942667f",

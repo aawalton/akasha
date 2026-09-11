@@ -1,4 +1,4 @@
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export const TEMPER_RULE_TEMPLATES_01: readonly CategoryRule[] = [
   {

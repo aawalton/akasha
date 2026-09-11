@@ -1,7 +1,7 @@
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "../inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 export interface RuleMatcherContext {
   wantedEquipment: readonly WantedEquipmentSignature[]

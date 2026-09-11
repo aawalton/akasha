@@ -1,12 +1,12 @@
 import {
   claimItemForCharacter,
   resolveUseDestination,
-} from "../use-destination-resolver/use-destination-resolver.module.code.ts"
+} from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
 import type {
   CharacterId,
   ItemKey,
   UseDestinationContext,
-} from "../use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 
 export interface UseDestinationCandidate {
   readonly slotKey: string

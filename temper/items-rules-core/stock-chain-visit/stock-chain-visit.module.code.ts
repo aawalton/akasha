@@ -2,7 +2,7 @@ import type {
   CharEligibility,
   DestinationChain,
   MoveToDestination,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export const BY_PRIORITY_DESTINATION = "character:by-priority"
 

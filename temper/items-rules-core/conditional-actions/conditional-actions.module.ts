@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const conditionalActions = {
   id: "01a06100-3be9-7bf7-90df-7f2075a39e68",

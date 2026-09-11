@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const questRelevantFilter = {
   id: "01a06100-3bf7-7a6c-b39b-787d502ef6cf",

@@ -1,7 +1,7 @@
 import {
   deriveCharacterScope,
   deriveCompanionScope,
-} from "../inventory-rule-compiler-sparse/inventory-rule-compiler-sparse.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-sparse/inventory-rule-compiler-sparse.module.code.ts"
 import type {
   CompiledBuyRule,
   CompiledCurrencyRule,
@@ -10,7 +10,7 @@ import type {
   ResolvedEntry,
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "../inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
@@ -18,7 +18,7 @@ import {
   CURRENCY_CATEGORY_TO_KEY,
   CURRENCY_CHILD_IDS,
   type InventoryRuleSettings,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const IMPLICIT_TERMINAL_COMPILED_RULE: CompiledOrderedRule = {
   categoryId: ALL_CATEGORIES_ID,

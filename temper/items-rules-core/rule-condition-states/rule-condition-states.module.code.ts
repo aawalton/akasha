@@ -1,9 +1,9 @@
 import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
-import { resolveAllRuleStates } from "../inventory-rule-engine/inventory-rule-engine.module.code.ts"
+import { resolveAllRuleStates } from "akasha/temper/items-rules-core/inventory-rule-engine/inventory-rule-engine.module.code.ts"
 import type {
   CategoryRule,
   ItemAction,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export type RuleStates = Record<string, ItemAction | null>
 

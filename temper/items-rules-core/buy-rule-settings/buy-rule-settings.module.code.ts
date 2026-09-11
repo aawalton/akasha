@@ -1,5 +1,8 @@
-import type { BuyRule, BuySource } from "../buy-rule-types/buy-rule-types.module.code.ts"
-import type { InventoryRuleSettings } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type {
+  BuyRule,
+  BuySource,
+} from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function addBuyRule(
   settings: InventoryRuleSettings,

@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
-import type { HeldRule } from "../inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import { alreadySo, sameRows, valuesFor, writesFor } from "./inventory-rule-writes.module.code.ts"
+import type { HeldRule } from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  alreadySo,
+  sameRows,
+  valuesFor,
+  writesFor,
+} from "akasha/temper/items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

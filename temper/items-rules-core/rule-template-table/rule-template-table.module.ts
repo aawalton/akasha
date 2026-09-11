@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const ruleTemplateTable = {
   id: "01a06100-3bfd-7c3a-a467-2c2131163905",

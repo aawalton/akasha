@@ -4,7 +4,7 @@ import type {
   ItemAction,
   MoveToDestination,
   StockScope,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export interface RulePage {
   readonly slug: string

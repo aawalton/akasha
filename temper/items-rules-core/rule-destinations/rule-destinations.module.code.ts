@@ -1,7 +1,7 @@
 import {
   type CategoryRule,
   isMoveLikeAction,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function collectDestinations(rules: readonly CategoryRule[]): Record<string, string> {
   const destinations: Record<string, string> = {}

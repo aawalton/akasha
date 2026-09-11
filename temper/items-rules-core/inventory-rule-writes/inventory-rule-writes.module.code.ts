@@ -2,9 +2,9 @@ import type {
   ChainEntry,
   ConditionEntry,
   HeldRule,
-} from "../inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import { pagesFromRules } from "../inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { pagesFromRules } from "akasha/temper/items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CONDITIONS = "conditions"
 

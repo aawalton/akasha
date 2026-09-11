@@ -3,8 +3,8 @@ import type {
   ConditionEntry,
   HeldRule,
   RulePage,
-} from "../inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const SLUG_PREFIX = "rule-"
 

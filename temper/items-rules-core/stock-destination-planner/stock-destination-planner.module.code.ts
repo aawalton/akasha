@@ -1,11 +1,11 @@
-import type { TierAllocation } from "../destination-chain-types/destination-chain-types.module.code.ts"
+import type { TierAllocation } from "akasha/temper/items-rules-core/destination-chain-types/destination-chain-types.module.code.ts"
 import {
   composeCharEligibilityPredicate,
   type EligibilityResolvers,
-} from "../eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
-import type { DestinationChain } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { StockDestinationContext } from "../stock-destination-types/stock-destination-types.module.code.ts"
-import type { CharacterId } from "../use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import type { DestinationChain } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { StockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-types/stock-destination-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 
 function readGroupStock(
   ctx: StockDestinationContext,

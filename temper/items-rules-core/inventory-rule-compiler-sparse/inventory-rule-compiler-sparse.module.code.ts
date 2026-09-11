@@ -1,5 +1,5 @@
-import type { CharacterScope } from "../inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { CompanionScope } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CharacterScope } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CompanionScope } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function deriveCharacterScope(destination: string | undefined): CharacterScope {
   if (destination == null) return "current-character"

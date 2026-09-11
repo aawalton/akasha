@@ -1,9 +1,9 @@
 import type {
   CategoryRule,
   ItemAction,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { InventoryEquipmentConfig } from "../inventory-settings-types/inventory-settings-types.module.code.ts"
-import { INVENTORY_CONFIG_DEFAULTS } from "../inventory-settings-types/inventory-settings-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryEquipmentConfig } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
+import { INVENTORY_CONFIG_DEFAULTS } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
 
 const EQUIPMENT_NODE_IDS = new Set(["equipment", "weapons", "armor", "jewelry"])
 

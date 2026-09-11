@@ -1,6 +1,6 @@
-import type { ItemAction } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { InventoryConfig } from "../inventory-settings-types/inventory-settings-types.module.code.ts"
-import { INVENTORY_CONFIG_DEFAULTS } from "../inventory-settings-types/inventory-settings-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryConfig } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
+import { INVENTORY_CONFIG_DEFAULTS } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
 
 export type CraftingMaterialActions = Pick<
   InventoryConfig,

@@ -1,10 +1,10 @@
-import type { CanLevelMorphsCondition } from "../can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type {
   CategoryRule,
   ItemAction,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { InventoryRuleFilter } from "../rule-filter-types/rule-filter-types.module.code.ts"
-import type { RuleMatcherContext } from "../rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 const read = (c: CategoryRule["conditions"]): CanLevelMorphsCondition | undefined =>
   c?.canLevelMorphs ?? undefined

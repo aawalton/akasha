@@ -1,4 +1,4 @@
-import type { ItemAction } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const ITEM_DISPLAY_QUALITY_NORMAL = 1
 const ITEM_DISPLAY_QUALITY_MAGIC = 2

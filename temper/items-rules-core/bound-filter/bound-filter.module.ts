@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const boundFilter = {
   id: "01a06100-3be2-7f00-99b6-1c954caa2761",

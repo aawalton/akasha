@@ -1,5 +1,5 @@
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { ItemAction } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function getActionVerbLabel(action: ItemAction): string {
   switch (action) {

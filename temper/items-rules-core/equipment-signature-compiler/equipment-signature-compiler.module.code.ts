@@ -15,6 +15,9 @@ import {
   PLAYER_JEWELRY_TRAIT_TO_ESO,
   PLAYER_WEAPON_TRAIT_TO_ESO,
 } from "akasha/temper/equipment/eso-trait-map/eso-trait-map.module.code.ts"
+import { armorSlots } from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import { resolveQuality } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import {
   COMPANION_QUALITY_TO_ESO,
   ESO_EQUIP_TYPES,
@@ -24,13 +27,10 @@ import {
   PLAYER_QUALITY_TO_ESO,
   PLAYER_WEAPON_TYPE_TO_ESO,
 } from "akasha/temper/items-core/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
-import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
-import { resolveQuality } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "../inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 const PLAYER_ARMOR_SLOT_TO_EQUIP_TYPE: Record<string, number> = {
   head: ESO_EQUIP_TYPES.EQUIP_TYPE_HEAD,

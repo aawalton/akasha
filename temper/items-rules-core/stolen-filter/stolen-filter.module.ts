@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const stolenFilter = {
   id: "01a06100-3bff-7782-8d27-8df8dd457040",

@@ -2,7 +2,7 @@ import type { AutomationSettings } from "akasha/temper/build-support/automation-
 import type {
   CategoryRule,
   InventoryRuleSettings,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CONTROLLED_CHARACTER_LOCK_WORN = "controlled:character:lock-worn"
 const CONTROLLED_CHARACTER_EQUIPMENT = "controlled:character:equipment"

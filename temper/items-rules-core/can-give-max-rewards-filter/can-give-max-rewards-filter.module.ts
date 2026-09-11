@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const canGiveMaxRewardsFilter = {
   id: "01a06100-3be5-777a-bd80-406d92d501f0",

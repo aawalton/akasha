@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import type { HeldRule, RulePage } from "./inventory-rule-from-pages.module.code.ts"
+import type {
+  HeldRule,
+  RulePage,
+} from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   heldFromRow,
   heldFromRows,
   ruleFromPage,
   rulesFromPages,
-} from "./inventory-rule-from-pages.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 
 const PAGE: RulePage = {
   slug: "rule-gold-stock",

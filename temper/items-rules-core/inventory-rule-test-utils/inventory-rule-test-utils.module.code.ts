@@ -1,5 +1,5 @@
 import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { RuleMatcherContext } from "../rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 export function makeItem(overrides: Partial<InventoryItemData> = {}): InventoryItemData {
   return {

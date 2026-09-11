@@ -3,7 +3,7 @@ import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
   type ItemAction,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 function buildAncestorMap(categories: Record<string, ItemCategoryNode>): Map<string, Set<string>> {
   const map = new Map<string, Set<string>>()

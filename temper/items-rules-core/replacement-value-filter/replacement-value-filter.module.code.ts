@@ -1,7 +1,7 @@
-import type { ComparisonOpId } from "../comparison-op-data/comparison-op-data.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { InventoryRuleFilter } from "../rule-filter-types/rule-filter-types.module.code.ts"
-import { renderThresholdLabel } from "../rule-filter-utils/rule-filter-utils.module.code.ts"
+import type { ComparisonOpId } from "akasha/temper/items-rules-core/comparison-op-data/comparison-op-data.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import { renderThresholdLabel } from "akasha/temper/items-rules-core/rule-filter-utils/rule-filter-utils.module.code.ts"
 
 const read = (c: CategoryRule["conditions"]) => c?.replacementValue
 const readOp = (c: CategoryRule["conditions"]): ComparisonOpId | undefined => c?.replacementValueOp

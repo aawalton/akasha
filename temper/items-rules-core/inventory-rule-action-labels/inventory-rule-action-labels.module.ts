@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryRuleActionLabels = {
   id: "01a06100-3bec-73b4-afa8-f71d8f0a648e",

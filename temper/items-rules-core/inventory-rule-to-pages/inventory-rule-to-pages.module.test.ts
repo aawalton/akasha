@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { rulesFromPages } from "../inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import { rulesFromPages } from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   instantOf,
   pageFromRule,
   pagesFromRules,
   spelling,
-} from "./inventory-rule-to-pages.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

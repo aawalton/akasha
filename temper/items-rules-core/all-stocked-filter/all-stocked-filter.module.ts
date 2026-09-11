@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const allStockedFilter = {
   id: "01a06100-3be0-7ea8-a8de-32cfd5204303",

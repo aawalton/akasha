@@ -1,7 +1,7 @@
 import type {
   CategoryRule,
   ItemAction,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function collectTraitActions(
   rules: readonly CategoryRule[]

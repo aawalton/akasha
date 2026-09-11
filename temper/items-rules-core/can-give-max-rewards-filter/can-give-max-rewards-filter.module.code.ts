@@ -1,8 +1,8 @@
-import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   FilterOption,
   InventoryRuleFilter,
-} from "../rule-filter-types/rule-filter-types.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
 
 export const CAN_GIVE_MAX_REWARDS_OPTIONS: FilterOption[] = [
   { value: "can-give-max-rewards", label: "Can Give Max Rewards" },

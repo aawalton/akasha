@@ -2,7 +2,7 @@ import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tr
 import {
   type RuleConstantKey,
   resolveThreshold,
-} from "../rule-constants/rule-constants.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
 
 export function renderThresholdLabel(v: number | RuleConstantKey): string {
   return typeof v === "number" ? `${v}` : `${v}(${resolveThreshold(v)})`

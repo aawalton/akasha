@@ -2,7 +2,7 @@ import {
   ITEM_ACTION_VALUES,
   type ItemAction,
   type MoveToDestination,
-} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const ITEM_ACTIONS: ReadonlySet<ItemAction> = new Set<ItemAction>(ITEM_ACTION_VALUES)
 
