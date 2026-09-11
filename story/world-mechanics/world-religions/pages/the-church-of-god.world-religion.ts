@@ -1,4 +1,4 @@
-import type { WorldReligion } from "../world-religion.page-type.types.ts"
+import type { WorldReligion } from "akasha/story/world-mechanics/world-religions/world-religion.page-type.types.ts"
 
 export const theChurchOfGod = {
   id: "01a0655a-0688-74d9-9354-6b46fac56eb5",

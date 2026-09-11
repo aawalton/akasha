@@ -1,4 +1,4 @@
-import type { WorldReligion } from "../world-religion.page-type.types.ts"
+import type { WorldReligion } from "akasha/story/world-mechanics/world-religions/world-religion.page-type.types.ts"
 
 export const thePaintedFolk = {
   id: "01a0655a-0688-72a6-abbf-c328ed10706b",
