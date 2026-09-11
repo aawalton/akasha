@@ -4,13 +4,11 @@ import {
   renamePageAddresses,
 } from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  bodiesIn,
-  pathsThere,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+  bodyAnswered,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ONE_WAS = ["held-kind", "held-one"].join("/")
 
@@ -41,17 +39,12 @@ const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
 
 const TAKEN = "akasha/held/one/held-one.held-checked.gone.ts"
 
-function bodyOf(said: Answer, world: World, path: string): string {
-  expect(said.refused).toBe(null)
-  return bodiesIn(said, world.base).get(path) ?? ""
-}
-
 test("every address handed in is restated over one reading of the bodies", () => {
   const world = worldOf({ [PAGE_AT]: PAGE_BODY, [CONST_AT]: CONST_BODY })
   const said = renamePageAddresses(world, { moved: MOVED })
 
-  expect(bodyOf(said, world, PAGE_AT)).toContain(`["${ONE_NOW}", "${TWO_NOW}"]`)
-  expect(bodyOf(said, world, CONST_AT)).toContain(`"${ONE_NOW}"`)
+  expect(bodyAnswered(said, world, PAGE_AT)).toContain(`["${ONE_NOW}", "${TWO_NOW}"]`)
+  expect(bodyAnswered(said, world, CONST_AT)).toContain(`"${ONE_NOW}"`)
   expect(said.edits.flatMap(pathsOf).sort()).toEqual([CONST_AT, PAGE_AT].sort())
 })
 

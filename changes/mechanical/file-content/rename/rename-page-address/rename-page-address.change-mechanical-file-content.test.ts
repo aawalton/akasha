@@ -1,13 +1,11 @@
 import { expect, test } from "bun:test"
 import { renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  bodiesIn,
-  pathsThere,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+  bodyAnswered,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
 
@@ -70,30 +68,25 @@ const MADE_AT = "akasha/held/one/held-one.held-checked.addressed.ts"
 
 const MADE_BODY = `export type Held = { "${WAS}": string }\n`
 
-function bodyOf(said: Answer, world: World, path: string): string {
-  expect(said.refused).toBe(null)
-  return bodiesIn(said, world.base).get(path) ?? ""
-}
-
 test("an address a top-level const holds is restated", () => {
   const world = worldOf({ [CONST_AT]: CONST_BODY })
   const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, world, CONST_AT)).toContain(`const HELD_ONE = "${NOW}"`)
+  expect(bodyAnswered(said, world, CONST_AT)).toContain(`const HELD_ONE = "${NOW}"`)
 })
 
 test("an address stated among a page's parts is restated", () => {
   const world = worldOf({ [PAGE_AT]: PAGE_BODY })
   const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, world, PAGE_AT)).toContain(`["${BESIDE}", "${NOW}"]`)
+  expect(bodyAnswered(said, world, PAGE_AT)).toContain(`["${BESIDE}", "${NOW}"]`)
 })
 
 test("an address handed to a call is restated", () => {
   const world = worldOf({ [CALL_AT]: CALL_BODY })
   const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, world, CALL_AT)).toBe(`held(world, "${NOW}", {})\n`)
+  expect(bodyAnswered(said, world, CALL_AT)).toBe(`held(world, "${NOW}", {})\n`)
 })
 
 test("every body spelling the address is answered at once", () => {
@@ -109,7 +102,7 @@ test("a body a machine writes is restated too", () => {
   const world = worldOf({ [MADE_AT]: MADE_BODY })
   const said = renamePageAddress(world, { was: WAS, now: NOW })
 
-  expect(bodyOf(said, world, MADE_AT)).toBe(`export type Held = { "${NOW}": string }\n`)
+  expect(bodyAnswered(said, world, MADE_AT)).toBe(`export type Held = { "${NOW}": string }\n`)
 })
 
 test("a body spelling the slug without its page type is left as that body is", () => {
@@ -156,7 +149,7 @@ test("an address naming a scope between the page type and the slug is restated",
   const world = worldOf({ [SCOPED_AT]: SCOPED_BODY })
   const said = renamePageAddress(world, { was: SCOPED_WAS, now: SCOPED_NOW })
 
-  expect(bodyOf(said, world, SCOPED_AT)).toContain(`["${SCOPED_NOW}"]`)
+  expect(bodyAnswered(said, world, SCOPED_AT)).toContain(`["${SCOPED_NOW}"]`)
 })
 
 test("an address naming no scope leaves a body spelling a scoped address alone", () => {

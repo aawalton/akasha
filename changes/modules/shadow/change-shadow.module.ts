@@ -70,6 +70,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer that refused is caught here before the body it left is read.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A refusal is read here whether the change said the refusal or the replay found the refusal.",
     },

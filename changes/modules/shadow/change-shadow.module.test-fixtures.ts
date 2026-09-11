@@ -189,6 +189,11 @@ export function bodyAfter(said: Answer, world: World, at: string): string {
   return bodiesIn(said, world.base).get(at) ?? ""
 }
 
+export function bodyAnswered(said: Answer, world: World, at: string): string {
+  expect(said.refused).toBe(null)
+  return bodyAfter(said, world, at)
+}
+
 export function refusalOf(said: Answer, textOf: BodyOf = () => null): string {
   if (said.refused !== null) return said.refused
   const held = replayed(said, textOf)
