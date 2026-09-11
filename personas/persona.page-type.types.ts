@@ -17,7 +17,7 @@ import type { Purpose } from "akasha/personas/properties/purpose.text-property.t
 import type { ValueSlug } from "akasha/personas/properties/value-slug.text-property.types.ts"
 import type { VoiceInstruction } from "akasha/personas/properties/voice-instruction.text-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/personas/properties/voice-reference-sha256.text-property.types.ts"
-import type { Phone } from "akasha/persons/people/properties/phone.phone-number-property.types.ts"
+import type { Phone } from "akasha/persons/properties/phone.phone-number-property.types.ts"
 import type { Role } from "akasha/seat-system/seats/properties/role.relation-property.types.ts"
 
 export type Persona = Domain & {

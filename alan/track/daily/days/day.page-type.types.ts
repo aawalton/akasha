@@ -57,7 +57,7 @@ import type { WordsReadPoints } from "akasha/alan/track/daily/days/properties/wo
 import type { WordsReadSnapshot } from "akasha/alan/track/daily/days/properties/words-read-snapshot.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
-import type { Bodyweight } from "akasha/persons/people/properties/bodyweight.number-property.types.ts"
+import type { Bodyweight } from "akasha/persons/properties/bodyweight.number-property.types.ts"
 
 export type Day = Page & {
   title: Title

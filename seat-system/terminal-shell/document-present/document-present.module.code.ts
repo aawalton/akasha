@@ -6,7 +6,7 @@ export const SLUG_MARK = "<slug>"
 
 export const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
-export const PERSON_FALLBACK = `persons/people/pages/${SLUG_MARK}.person.ts`
+export const PERSON_FALLBACK = `persons/pages/${SLUG_MARK}/${SLUG_MARK}.person.ts`
 
 export interface Named {
   readonly slug: string
