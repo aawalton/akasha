@@ -9,7 +9,6 @@ import {
 import {
   pageFiled,
   relationFiled,
-  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   carriedFor,
@@ -50,24 +49,23 @@ function typed(
   })
 }
 
+const KINDED = new Set<string>()
+
+function kinded(root: string, sort: string): undefined {
+  const named = `${root} ${sort}`
+  if (KINDED.has(named)) return
+  KINDED.add(named)
+  filed(root, "page-type", sort, { extends: ["page-property"] })
+}
+
 function propertied(
   root: string,
   sort: string,
   slug: string,
   value: Readonly<Record<string, unknown>>
 ): string {
-  const path = filed(root, sort, slug, { propertySlug: slug, ...value })
-  shapeAdded(root, sort, slug, [
-    {
-      pageTypeSlug: sort,
-      targetPageTypeSlug: null,
-      unique: null,
-      slug,
-      propertySlug: slug,
-      fileName: null,
-    },
-  ])
-  return path
+  kinded(root, sort)
+  return filed(root, sort, slug, { propertySlug: slug, ...value })
 }
 
 function calculated(root: string, slug: string, holds: string, body: string): undefined {
