@@ -20,7 +20,6 @@ export const seatSystem = {
     "module/seat-whoami",
     "module/pty-terminal-death",
     "module/session-jsonl",
-    "module/session-jsonl-schema",
     "module/session-stream",
     "module/session-watch",
     "module/skill-token-guard",
