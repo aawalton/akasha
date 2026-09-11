@@ -29,7 +29,5 @@ export const astraIndexCleanup = {
     { statement: "`.git/answers` is gone." },
     { statement: "`.git/deploy` is gone." },
     { statement: "`.git/harness-push` is gone." },
-    { statement: "`.git/pages` is gone." },
-    { statement: "`.git/pages-answers` is gone." },
   ],
 } as const satisfies Initiative
