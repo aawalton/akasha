@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { restated } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import { BODY } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.test-fixtures.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
@@ -12,17 +13,6 @@ function textOn(path: string, text: string, key: string, to: string): string {
 }
 
 const AT = "akasha/held/kept.page-type.ts"
-
-const BODY = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
-
-export const kept = {
-  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "page-type",
-  slug: "kept",
-  pluralSlug: "kepts",
-  partSlugs: ["kept/one"],
-} as const satisfies PageType
-`
 
 test("a key's text is stated anew", () => {
   const said = textOn(AT, BODY, "pluralSlug", "change-atomic")

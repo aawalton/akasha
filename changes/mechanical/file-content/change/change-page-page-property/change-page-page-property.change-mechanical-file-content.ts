@@ -11,6 +11,7 @@ export const changePagePageProperty = {
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   guards: ["change-guard/identity-not-already-held", "change-guard/slug-names-one-property"],
   invariants: [
     {
