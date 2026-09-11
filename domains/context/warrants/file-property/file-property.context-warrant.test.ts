@@ -24,7 +24,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 
 const scratch = scratchWorld()
@@ -53,7 +53,7 @@ function propertyPage(root: string, slug: string, pageTypeSlug: string): string 
     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
   )
   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
-  schemaFiled(root, pageTypeSlug, slug, [
+  shapeAdded(root, pageTypeSlug, slug, [
     { pageTypeSlug, targetPageTypeSlug: null, slug, propertySlug: slug },
   ])
   return path
@@ -138,7 +138,7 @@ test("a property the index defines nowhere warrants nothing", () => {
 test("a property the schema names and the identity index does not warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   pageType(root, "module", [{ pageTypeSlug: "text-property", slug: "loose" }])
-  schemaFiled(root, "text-property", "loose", [
+  shapeAdded(root, "text-property", "loose", [
     {
       pageTypeSlug: "text-property",
       targetPageTypeSlug: null,
@@ -208,7 +208,7 @@ test("a page defining a property does not warrant itself for it", () => {
   const id = mintedId("slug")
   writing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
   listedFiled(root, "text-property", "slug", [{ path, id }])
-  schemaFiled(root, "text-property", "slug", [
+  shapeAdded(root, "text-property", "slug", [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug", propertySlug: "slug" },
   ])
   expect(pathsOf(warrantsAt(root, path))).toEqual([])

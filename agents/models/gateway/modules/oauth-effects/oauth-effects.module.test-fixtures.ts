@@ -14,7 +14,7 @@ import {
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   pageFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
@@ -108,7 +108,7 @@ function typeWritten(
   pageFiled(root, id, at)
   listedFiled(root, "page-type", slug, [{ path: at, id }])
   for (const one of declared) {
-    schemaFiled(root, PROPERTY_TYPE, one.slug, [
+    shapeAdded(root, PROPERTY_TYPE, one.slug, [
       {
         pageTypeSlug: PROPERTY_TYPE,
         slug: one.slug,

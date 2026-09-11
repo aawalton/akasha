@@ -200,7 +200,7 @@ function declaringAdded(root: string, lines: readonly unknown[]): undefined {
   appendFileSync(at, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
 }
 
-export function schemaFiled(
+export function shapeAdded(
   root: string,
   pageTypeSlug: string,
   slug: string,

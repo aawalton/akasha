@@ -15,7 +15,7 @@ import {
 import { generatedAt } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import {
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -51,7 +51,7 @@ function seeded(value: Value): string {
   const root = scratch.rootFor("akasha-file-itself-")
   listedFiled(root, FILE_PROPERTY, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
   idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
-  schemaFiled(root, FILE_PROPERTY, "lockfile", [
+  shapeAdded(root, FILE_PROPERTY, "lockfile", [
     {
       pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,

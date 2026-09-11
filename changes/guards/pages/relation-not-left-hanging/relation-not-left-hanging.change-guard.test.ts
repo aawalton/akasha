@@ -18,7 +18,7 @@ import {
   pageOf,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -45,7 +45,7 @@ const MORTAL_TYPE = bodyOf({
 
 function brokenRoot(): string {
   const root = scratch.rootFor("relation-broken-")
-  schemaFiled(root, "text-property", "held", [
+  shapeAdded(root, "text-property", "held", [
     {
       pageTypeSlug: "text-property",
       targetPageTypeSlug: null,

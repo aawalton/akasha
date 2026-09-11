@@ -12,7 +12,7 @@ import {
 import {
   pathFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
@@ -85,7 +85,7 @@ export type Shape = {
 }
 
 export function declaring(root: string, slug: string, shape: Shape): undefined {
-  schemaFiled(root, shape.pageTypeSlug, slug, [
+  shapeAdded(root, shape.pageTypeSlug, slug, [
     {
       pageTypeSlug: shape.pageTypeSlug,
       targetPageTypeSlug: shape.targetPageTypeSlug ?? null,

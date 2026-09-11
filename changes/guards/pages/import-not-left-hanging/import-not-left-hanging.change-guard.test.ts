@@ -20,7 +20,7 @@ import {
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
 
@@ -40,7 +40,7 @@ const CARRIED_CODE = "akasha/one/carried.module.code.ts"
 
 function brokenRoot(): string {
   const root = scratch.rootFor("import-broken-")
-  schemaFiled(root, "text-property", "held", [
+  shapeAdded(root, "text-property", "held", [
     {
       pageTypeSlug: "text-property",
       targetPageTypeSlug: null,

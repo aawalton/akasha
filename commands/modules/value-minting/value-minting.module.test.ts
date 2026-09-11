@@ -13,7 +13,7 @@ import {
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()
@@ -59,7 +59,7 @@ function property(
     `export const held = { id: "${HELD_ID}", pageTypeSlug: "text-property",` +
       ` slug: "${slug}"${said} }\n`
   )
-  schemaFiled(root, "text-property", slug, [
+  shapeAdded(root, "text-property", slug, [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique, slug, propertySlug: slug },
   ])
   listedFiled(root, "text-property", slug, [

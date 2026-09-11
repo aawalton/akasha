@@ -23,7 +23,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 
 const scratch = scratchWorld()
@@ -60,7 +60,7 @@ function pageType(root: string, slug: string, said: readonly Declared[] = []): s
 }
 
 function schemaed(root: string, slug: string, pageTypeSlug: string): undefined {
-  schemaFiled(root, pageTypeSlug, slug, [
+  shapeAdded(root, pageTypeSlug, slug, [
     { pageTypeSlug, targetPageTypeSlug: null, slug, propertySlug: slug },
   ])
 }

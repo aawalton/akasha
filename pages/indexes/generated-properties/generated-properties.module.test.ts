@@ -8,7 +8,7 @@ import {
   waitingKeys,
   waitingProperties,
 } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
@@ -67,7 +67,7 @@ function named(
   unique: string | null = null,
   propertySlug: string = slug
 ): undefined {
-  schemaFiled(root, SHAPE, slug, [
+  shapeAdded(root, SHAPE, slug, [
     { pageTypeSlug: SHAPE, targetPageTypeSlug: null, unique, slug, propertySlug },
   ])
 }

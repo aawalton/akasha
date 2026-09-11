@@ -7,7 +7,7 @@ import {
 import {
   pageFilingFrom,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -66,7 +66,7 @@ function alsoSeeded(root: string): undefined {
     const kind = String(value["pageTypeSlug"])
     const slug = String(value["slug"])
     const id = filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
-    schemaFiled(root, kind, slug, [
+    shapeAdded(root, kind, slug, [
       { pageTypeSlug: kind, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
     ])
     relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
@@ -82,7 +82,7 @@ function besideFiled(root: string, kind: string, slug: string, at: string, id: s
 export function seeded(value: Value): string {
   const root = scratch.rootFor("akasha-file-length-")
   besideFiled(root, FILE_PROPERTY, "lockfile", PROPERTY_AT, PROPERTY_ID)
-  schemaFiled(root, FILE_PROPERTY, "lockfile", [
+  shapeAdded(root, FILE_PROPERTY, "lockfile", [
     {
       pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,
@@ -99,7 +99,7 @@ export function seeded(value: Value): string {
     },
   ])
   besideFiled(root, DRAFTED, "sketchbook", SKETCH_AT, SKETCH_ID)
-  schemaFiled(root, DRAFTED, "sketchbook", [
+  shapeAdded(root, DRAFTED, "sketchbook", [
     {
       pageTypeSlug: DRAFTED,
       targetPageTypeSlug: null,

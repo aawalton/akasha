@@ -36,7 +36,7 @@ import {
   listedAndValued,
   nothingFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Carried as Declared } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -96,7 +96,7 @@ const PAGE_AT = "akasha/one.thing.ts"
 const FILE_PROPERTY = "file-property"
 
 function propertyFiled(root: string): undefined {
-  schemaFiled(root, FILE_PROPERTY, "types", [
+  shapeAdded(root, FILE_PROPERTY, "types", [
     {
       pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,

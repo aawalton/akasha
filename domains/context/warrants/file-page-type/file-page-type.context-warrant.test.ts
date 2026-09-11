@@ -18,7 +18,7 @@ import {
   filePageType,
   TYPE,
 } from "akasha/domains/context/warrants/file-page-type/file-page-type.context-warrant.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
@@ -68,7 +68,7 @@ test("a type warrants the body at the type's page", () => {
 test("a file sitting beside a page warrants no type of its own", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
-  schemaFiled(root, "file-property", "code", [
+  shapeAdded(root, "file-property", "code", [
     { pageTypeSlug: "file-property", targetPageTypeSlug: null, slug: "code" },
   ])
   const beside = "akasha/thing/thing.module.code.ts"

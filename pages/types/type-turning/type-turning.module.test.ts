@@ -9,7 +9,7 @@ import {
 import {
   importFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 import {
@@ -80,7 +80,7 @@ function rootWhereTypesAreGenerated(importer: string): string {
   valueAlsoFiled(root, "thing", [
     { path: A_THING_AT, value: { id: A_THING, pageTypeSlug: "thing", slug: "one" } },
   ])
-  schemaFiled(root, "file-property", "types", [
+  shapeAdded(root, "file-property", "types", [
     {
       pageTypeSlug: "file-property",
       targetPageTypeSlug: null,

@@ -8,7 +8,7 @@ import {
 import {
   pageFilingFrom,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
@@ -67,7 +67,7 @@ function alsoSeeded(root: string): undefined {
   for (const value of CARRIED) {
     const slug = String(value["slug"])
     const id = filing(FILE_PROPERTY, slug, `akasha/${slug}.${FILE_PROPERTY}.ts`, value)
-    schemaFiled(root, FILE_PROPERTY, slug, [
+    shapeAdded(root, FILE_PROPERTY, slug, [
       {
         pageTypeSlug: FILE_PROPERTY,
         targetPageTypeSlug: null,
@@ -85,7 +85,7 @@ export function seeded(value: Value): string {
   listedFiled(root, FILE_PROPERTY, SLUG, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
   idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
   relationFiled(root, PROPERTY_ID, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
-  schemaFiled(root, FILE_PROPERTY, SLUG, [
+  shapeAdded(root, FILE_PROPERTY, SLUG, [
     {
       pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,

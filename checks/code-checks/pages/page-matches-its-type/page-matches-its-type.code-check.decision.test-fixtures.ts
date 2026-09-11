@@ -10,7 +10,7 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   rebuiltIn,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -309,7 +309,7 @@ const UNIQUE_SLUG = {
 }
 
 function schemaFiledFor(root: string, pageTypeSlug: string, slug: string): undefined {
-  schemaFiled(root, pageTypeSlug, slug, [
+  shapeAdded(root, pageTypeSlug, slug, [
     { pageTypeSlug, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
   ])
 }
@@ -352,7 +352,7 @@ export function generating(root: string, generator: string): string {
         ' { pagePropertySlug: "slug", required: true, many: false }'
     )
   )
-  schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
+  shapeAdded(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "text-property", "held")
   schemaFiledFor(root, "relation-property", "page-type-slug")
   listedFiled(root, "text-property", "held", [
@@ -402,7 +402,7 @@ function grounding(root: string): undefined {
 export function extending(root: string): string {
   grounding(root)
   put(root, ALPHA_AT, WAS_ALPHA)
-  schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
+  shapeAdded(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "relation-property", "page-type-slug")
   schemaFiledFor(root, "text-property", "note")
   listedFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])

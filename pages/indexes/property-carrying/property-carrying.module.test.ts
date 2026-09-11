@@ -45,7 +45,7 @@ import {
 import {
   listedAndValued,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -64,7 +64,7 @@ function filed(root: string, slug: string, kind: string, id: string): undefined 
 }
 
 function property(root: string, slug: string, shape: string, id: string): undefined {
-  schemaFiled(root, shape, slug, [
+  shapeAdded(root, shape, slug, [
     {
       pageTypeSlug: shape,
       targetPageTypeSlug: null,
@@ -228,7 +228,7 @@ test("a file beside a property saying nothing of a tool is answered no", () => {
 
 function entriesFiled(root: string, said: Value): undefined {
   const path = pageAt("entries", "file-property")
-  schemaFiled(root, "file-property", "entries", [
+  shapeAdded(root, "file-property", "entries", [
     {
       pageTypeSlug: "file-property",
       targetPageTypeSlug: null,

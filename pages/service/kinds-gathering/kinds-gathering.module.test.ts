@@ -9,7 +9,7 @@ import {
 import {
   pageFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   carriedFor,
@@ -57,7 +57,7 @@ function propertied(
   value: Readonly<Record<string, unknown>>
 ): string {
   const path = filed(root, sort, slug, { propertySlug: slug, ...value })
-  schemaFiled(root, sort, slug, [
+  shapeAdded(root, sort, slug, [
     {
       pageTypeSlug: sort,
       targetPageTypeSlug: null,

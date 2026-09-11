@@ -32,7 +32,7 @@ import {
   pathFiled,
   readingLaidOver,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
@@ -121,7 +121,7 @@ function seeded(): string {
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   pathFiled(root, HELD_AT, [{ path: HELD_AT, id: HELD_ID }])
   pathFiled(root, TYPE_AT, [{ path: TYPE_AT, id: TYPE_ID }])
-  schemaFiled(root, "text-property", SLUG, [SCHEMA])
+  shapeAdded(root, "text-property", SLUG, [SCHEMA])
   relationFiled(root, TYPE_ID, "extends-slug", HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
   relationFiled(root, SLUG_ID, DECLARES, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   return root

@@ -15,7 +15,7 @@ import {
   nothingFiled,
   pageFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
@@ -63,7 +63,7 @@ const PACKAGE_JSON = "package.json"
 export const scratch = scratchWorld()
 
 function linkedFiled(root: string): undefined {
-  schemaFiled(root, TEXT_PROPERTY, LINKED, [
+  shapeAdded(root, TEXT_PROPERTY, LINKED, [
     {
       pageTypeSlug: TEXT_PROPERTY,
       targetPageTypeSlug: null,
@@ -89,7 +89,7 @@ function linkedFiled(root: string): undefined {
 function packageFiled(root: string): string {
   nothingFiled(root)
   listedFiled(root, PACKAGE, EXTENSION, [{ path: LINKED_PAGE, id: PACKAGE_ID }])
-  schemaFiled(root, FILE_PROPERTY, MANIFEST_PROPERTY, [
+  shapeAdded(root, FILE_PROPERTY, MANIFEST_PROPERTY, [
     {
       pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,

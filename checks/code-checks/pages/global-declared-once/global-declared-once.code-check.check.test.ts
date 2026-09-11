@@ -20,7 +20,7 @@ import {
   pageFiled,
   pathFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -73,7 +73,7 @@ function staging(shared: string, held: string): string {
 }
 
 function ambient(root: string): undefined {
-  schemaFiled(root, FILE_PROPERTY, AMBIENT, [
+  shapeAdded(root, FILE_PROPERTY, AMBIENT, [
     {
       pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,

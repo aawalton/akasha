@@ -16,7 +16,7 @@ import {
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   pathFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
@@ -166,7 +166,7 @@ export function generating(files: Readonly<Record<string, string>>, generator = 
   })
   named(root, KIND_AT, GENERATOR_KIND, WAITS, GENERATED_ID)
   named(root, EARLY_AT, GENERATOR_KIND, EARLY, GENERATED_ID)
-  schemaFiled(root, TEXT_PROPERTY, "slug", [
+  shapeAdded(root, TEXT_PROPERTY, "slug", [
     {
       pageTypeSlug: TEXT_PROPERTY,
       targetPageTypeSlug: null,
@@ -175,7 +175,7 @@ export function generating(files: Readonly<Record<string, string>>, generator = 
       propertySlug: "slug",
     },
   ])
-  schemaFiled(root, TEXT_PROPERTY, "held", [
+  shapeAdded(root, TEXT_PROPERTY, "held", [
     {
       pageTypeSlug: TEXT_PROPERTY,
       targetPageTypeSlug: null,

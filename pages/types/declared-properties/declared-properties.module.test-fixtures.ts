@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   type Carried,
   declarationsOf,
@@ -44,7 +44,7 @@ export function propertied(
   propertySlug: string,
   unique: string | null = null
 ): undefined {
-  schemaFiled(root, pageTypeSlug, slug, [
+  shapeAdded(root, pageTypeSlug, slug, [
     { pageTypeSlug, targetPageTypeSlug: null, unique, slug, propertySlug },
   ])
 }

@@ -10,7 +10,7 @@ import {
 import { everyValue, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everythingRead,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { NOT_WORKED_OUT, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
@@ -163,7 +163,7 @@ test("an audit leaves everything as it is, so nothing is worked out and no body 
 
 test("a shadow that could not be worked out is refused rather than answered from the committed index", () => {
   const repo = scratch.rootFor("akasha-broken-")
-  schemaFiled(repo, "text-property", "held", [
+  shapeAdded(repo, "text-property", "held", [
     {
       pageTypeSlug: "text-property",
       targetPageTypeSlug: null,

@@ -14,7 +14,7 @@ import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.cod
 import {
   importFiled,
   pathFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
 
@@ -40,7 +40,7 @@ const BODIES = reading({ "akasha/one/package.json": ONE, "akasha/two/package.jso
 
 function worldAt(): string {
   const root = scratch.rootFor(PREFIX)
-  schemaFiled(root, "file-property", "manifest", [
+  shapeAdded(root, "file-property", "manifest", [
     {
       pageTypeSlug: "file-property",
       targetPageTypeSlug: null,

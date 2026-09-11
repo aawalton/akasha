@@ -8,7 +8,7 @@ import {
   listedAlsoFiled,
   pathFiled,
   relationFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 export const A = "akasha/t/a.note.ts"
@@ -157,7 +157,7 @@ export function rooted(carrying: boolean = true): string {
     filing(root, path, id, "page-type", slug, { extends: said, ...dies, ...holds })
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
-    schemaFiled(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
+    shapeAdded(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
   }
   filing(root, M, M_ID, "record-property", "marks", {
     properties: [{ pagePropertySlug: "domain-slug" }],

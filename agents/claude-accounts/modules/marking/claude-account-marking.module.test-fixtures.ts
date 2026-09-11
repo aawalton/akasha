@@ -21,7 +21,7 @@ import {
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   pageFiled,
-  schemaFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
@@ -207,7 +207,7 @@ export function typeWritten(
   pageFiled(root, id, at)
   listedFiled(root, "page-type", slug, [{ path: at, id }])
   for (const one of declared) {
-    schemaFiled(root, PROPERTY_TYPE, one.slug, [
+    shapeAdded(root, PROPERTY_TYPE, one.slug, [
       {
         pageTypeSlug: PROPERTY_TYPE,
         slug: one.slug,
