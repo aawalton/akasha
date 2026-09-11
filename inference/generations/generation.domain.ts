@@ -14,6 +14,7 @@ export const generation = {
     "domain/upscale",
     "domain/wan",
     "domain/zimage",
+    "module/comfy-up-building",
   ],
   invariants: [
     {
