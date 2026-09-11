@@ -7,4 +7,10 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
+  intents: [
+    {
+      statement:
+        "A code editor restart puts every interactive seat back in the terminal tab that seat held.",
+    },
+  ],
 } as const satisfies Initiative
