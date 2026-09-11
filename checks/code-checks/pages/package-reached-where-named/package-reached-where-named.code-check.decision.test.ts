@@ -8,6 +8,10 @@ import {
   reasonsIn,
   refusalOf,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
+import {
+  OUTSIDE,
+  SHADOW_TARGET,
+} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
@@ -22,8 +26,6 @@ const SHAPE = `${FOLDER}/index-shape/index-shape.module.code.ts`
 const SURFACE = `${FOLDER}/index-surface/index-surface.module.code.ts`
 
 const PAGE = `${FOLDER}/index/index-import/index-import.index.ts`
-
-const OUTSIDE = "akasha/pages-system/shadow/shadow.module.test.ts"
 
 const INSIDE = `${FOLDER}/indexing/indexing.module.code.ts`
 
@@ -125,7 +127,7 @@ const OUTER = "akasha/pages-system"
 
 const OUTER_MANIFEST = JSON.stringify({
   name: "@akasha/pages",
-  exports: { "./shadow": "./shadow/shadow.module.code.ts" },
+  exports: { "./shadow": SHADOW_TARGET },
 })
 
 const NESTED: readonly Package[] = [

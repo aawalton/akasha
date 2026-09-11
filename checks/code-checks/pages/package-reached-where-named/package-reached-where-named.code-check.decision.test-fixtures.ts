@@ -33,6 +33,10 @@ export const HIDDEN_REACH = 'import { two } from "../held/two/two.module.code.ts
 
 export const NAMED_REACH = 'import { one } from "../held/one/one.module.code.ts"\n'
 
+export const OUTSIDE = "akasha/pages-system/shadow/shadow.module.test.ts"
+
+export const SHADOW_TARGET = "./shadow/shadow.module.code.ts"
+
 export const scratch = scratchWorld()
 
 const HELD_ID = "01a058be-804e-72e0-934d-000000000001"
