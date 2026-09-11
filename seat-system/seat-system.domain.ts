@@ -141,7 +141,7 @@ export const seatSystem = {
     "module/seat-parentless-refusal",
     "module/seat-page-beat",
     "module/seat-proc-key",
-    "module/seat-proc-liveness",
+    "module/agent-proc-liveness",
     "module/seat-proc-tree",
     "module/seat-recovery",
     "module/seat-relaunch-name-decide",

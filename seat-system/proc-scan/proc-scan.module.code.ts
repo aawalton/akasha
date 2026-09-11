@@ -1,5 +1,5 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
-import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
 import { rejectSelfProc } from "akasha/seat-system/seat-proc-tree/seat-proc-tree.module.code.ts"
 
 export function extractEnvironVar(environ: string, key: string): string | undefined {

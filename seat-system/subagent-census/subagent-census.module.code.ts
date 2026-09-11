@@ -8,7 +8,7 @@ import { textAt } from "akasha/pages/value-reading/page-value-reading.module.cod
 import {
   actingAgentPidsFromProc,
   type ProcLivenessEntry,
-} from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+} from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
 import { LOG_AT } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 

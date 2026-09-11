@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
 import {
   claudeChildProcsByAgent,
   newestProcStartMsByAgent,
