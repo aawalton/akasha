@@ -59,9 +59,13 @@ export function saidOf(rolled: readonly Rolled[], day: string): string {
   return `${each.join(", ")} now come due on ${day}`
 }
 
-if (import.meta.main) {
+export async function runOverdueRolling(): Promise<void> {
   process.env.PAGE_WRITER = WRITER
   const day = getEsoDayStr(new Date())
   const rolled = await rollingOnto(day)
   process.stdout.write(`${saidOf(rolled, day)}\n`)
+}
+
+if (import.meta.main) {
+  await runOverdueRolling()
 }
