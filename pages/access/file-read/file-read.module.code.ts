@@ -1,4 +1,26 @@
+import {
+  type CursorPayload,
+  decodeCursor,
+  encodeCursor,
+} from "akasha/pages/access/cursor/cursor.module.code.ts"
 import { fileBackedPageTypes } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
+import {
+  askableNarrows,
+  declaredAs,
+  declares,
+  fieldFor,
+  matches,
+  narrowing,
+  ranked,
+} from "akasha/pages/access/file-narrow/file-narrow.module.code.ts"
+import { buildRawPageRows } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import type {
+  PageCursor,
+  PageOrder,
+  PageSelect,
+} from "akasha/pages/access/types/types.module.code.ts"
 import {
   asPage,
   type Page,
@@ -8,20 +30,6 @@ import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { type CursorPayload, decodeCursor, encodeCursor } from "../cursor/cursor.module.code.ts"
-import {
-  askableNarrows,
-  declaredAs,
-  declares,
-  fieldFor,
-  matches,
-  narrowing,
-  ranked,
-} from "../file-narrow/file-narrow.module.code.ts"
-import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
-import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
-import { flattenRow } from "../routing-core/routing-core.module.code.ts"
-import type { PageCursor, PageOrder, PageSelect } from "../types/types.module.code.ts"
 
 export type FileReadShape = {
   readonly pageTypeId: string
