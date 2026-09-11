@@ -19,6 +19,7 @@ import {
   tagPages,
 } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { AKASHA as AKASHA_REPO } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -27,8 +28,6 @@ import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 const PUT = "change-mechanical-file/add-if-not-present-file"
 
 const MONARCH_MONTH_TYPE = "01a0680b-2b00-7012-a659-4d8f2c7e2113"
-
-const ROOT = "akasha/"
 
 const MONTH_NAMES = [
   "January",
@@ -142,7 +141,7 @@ function monthPage(slug: string): string {
   const year = Number.parseInt(covered.slice(0, 4), 10)
   const name = `${MONTH_NAMES[Number.parseInt(covered.slice(5, 7), 10) - 1]} ${year}`
   const typeSlug = typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)
-  const typesAt = `${ROOT}${dirname(MONTHS_FOLDER)}/${typeSlug}.page-type.types.ts`
+  const typesAt = importedFrom(`${dirname(MONTHS_FOLDER)}/${typeSlug}.page-type.types.ts`)
   return [
     `import type { MonarchMonth } from "${typesAt}"`,
     "",

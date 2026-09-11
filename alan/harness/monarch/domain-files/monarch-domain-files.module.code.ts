@@ -19,6 +19,7 @@ import {
 } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import type { WriteItem } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
 import { through } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 export type Value = string | number | boolean
@@ -61,8 +62,6 @@ function stated(key: string, value: unknown): readonly string[] {
   const one = `  ${key}: ${said},`
   return one.length <= WIDTH ? [one] : [`  ${key}:`, `    ${said},`]
 }
-
-const ROOT = "akasha/"
 
 export function pageText(
   typesAt: string,
@@ -126,7 +125,7 @@ export async function landing(
   wanted: readonly Wanted[],
   defined: boolean = true
 ): Promise<Landing> {
-  const typesAt = `${ROOT}${dirname(folder)}/${pageTypeSlug}.page-type.types.ts`
+  const typesAt = importedFrom(`${dirname(folder)}/${pageTypeSlug}.page-type.types.ts`)
   const byMonarchId = new Map<string, PageFile>()
   const taken = new Set<string>()
   for (const page of already) {
