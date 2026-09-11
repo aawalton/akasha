@@ -14,6 +14,7 @@ import {
   namedIn,
   namesIn,
   namingOf,
+  namingsIn,
   openedIn,
   withName,
   withoutName,
@@ -95,17 +96,6 @@ function typed(declared: Held): boolean {
 
 function textOfNode(text: string, one: ts.Node): string {
   return text.slice(one.getStart(one.getSourceFile()), one.getEnd())
-}
-
-function namingsIn(source: ts.SourceFile): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  for (const one of source.statements) {
-    if (!ts.isImportDeclaration(one)) continue
-    const bound = namedIn(one)
-    if (bound === null) continue
-    for (const each of bound.elements) found.set(each.name.text, namingOf(each))
-  }
-  return found
 }
 
 function carriedIn(declared: Held, of: string, beside: string): ReadonlyMap<string, Carrying> {

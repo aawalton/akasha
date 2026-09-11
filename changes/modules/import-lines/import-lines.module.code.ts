@@ -57,6 +57,17 @@ export function importsIn(source: ts.SourceFile): ReadonlyMap<string, Carried> {
   return found
 }
 
+export function namingsIn(source: ts.SourceFile): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const bound = namedIn(one)
+    if (bound === null) continue
+    for (const each of bound.elements) found.set(each.name.text, namingOf(each))
+  }
+  return found
+}
+
 function everyOf(one: ts.ImportDeclaration): string | null {
   const bound = one.importClause?.namedBindings
   return bound !== undefined && ts.isNamespaceImport(bound) ? bound.name.text : null

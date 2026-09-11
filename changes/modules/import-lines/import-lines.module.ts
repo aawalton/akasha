@@ -83,5 +83,10 @@ export const importLines = {
       statement:
         "A body holding no line from that path, or a line already naming it, takes no name.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every name a body's import lines bind is answered together with the name at its source.",
+    },
   ],
 } as const satisfies Module

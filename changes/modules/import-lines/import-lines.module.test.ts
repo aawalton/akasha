@@ -8,6 +8,7 @@ import {
   namedIn,
   namesIn,
   namingOf,
+  namingsIn,
   openedIn,
   withName,
   withoutName,
@@ -149,6 +150,14 @@ test("a type joining a type-only line needs no mark of its own", () => {
   expect(withName(text, parsedAs(AT, text), AT_HELD, "Other", true)?.new).toBe(
     `import type { Held, Kept, Other } from "${AT_HELD}"`
   )
+})
+
+test("every name a body's import lines bind is answered by the name at its source", () => {
+  const text = `import { one as held, two } from "${AT_HELD}"\n`
+  const found = namingsIn(parsedAs(AT, text))
+
+  expect(found.get("held")).toBe("one")
+  expect(found.get("two")).toBe("two")
 })
 
 test("a body taking nothing from that path, or already naming it, is left whole", () => {
