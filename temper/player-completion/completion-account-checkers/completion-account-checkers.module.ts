@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionAccountCheckers = {
   id: "01a0640c-1e9b-77aa-9215-d1a1abde163f",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionCardRegistry = {
   id: "01a06103-0619-70b6-a023-3ddab1c8dcb3",

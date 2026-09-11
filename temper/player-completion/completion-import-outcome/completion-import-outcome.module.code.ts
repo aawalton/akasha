@@ -1,5 +1,5 @@
+import { deepForward } from "akasha/temper/player-completion/completion-merge-forward/completion-merge-forward.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
-import { deepForward } from "../completion-merge-forward/completion-merge-forward.module.code.ts"
 
 export type CompletionImportOutcome = "created" | "updated" | "unchanged" | "preserved"
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionCardTaskProgress = {
   id: "01a0641c-83b4-7fba-b338-0d13a366420a",

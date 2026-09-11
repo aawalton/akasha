@@ -6,14 +6,14 @@ import {
   type CharacterSummaryData,
   COMPANION_CARDS,
   type CompanionSummaryData,
-} from "../completion-card-registry/completion-card-registry.module.code.ts"
-import { isCumulativeCard } from "../completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
+} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import { isCumulativeCard } from "akasha/temper/player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import {
   computeOverallCompletionScore,
   sumAccountScope,
   sumCharacterScope,
   sumCompanionScope,
-} from "./completion-scope-rollup.module.code.ts"
+} from "akasha/temper/player-completion/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 
 function zeroedAccount(): AccountSummaryData {
   return Object.fromEntries(

@@ -7,7 +7,7 @@ import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lo
 import {
   extractLoreKnownSet,
   isLoreLibraryItemComplete,
-} from "./completion-lore-library-progress.module.code.ts"
+} from "akasha/temper/player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 
 const CATEGORY = 1
 

@@ -1,26 +1,26 @@
 import { MAX_CHAMPION_POINTS } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import type {
   AccountRecipeUnionProgress,
   AccountScribingUnionProgress,
-} from "../completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
-import type { AccountTraitResearchUnionProgress } from "../completion-account-trait-union/completion-account-trait-union.module.code.ts"
-import type { AccountQuestUnionProgress } from "../completion-account-union-progress/completion-account-union-progress.module.code.ts"
+} from "akasha/temper/player-completion/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type {
   AccountPoiUnionProgress,
   AccountZoneCompletionUnionProgress,
-} from "../completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
-import type { AccountAchievementOverallProgress } from "../completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import type { AccountSummaryData } from "../completion-card-registry/completion-card-registry.module.code.ts"
-import type { ItemSetOverallProgress } from "../completion-item-set-progress/completion-item-set-progress.module.code.ts"
-import type { SubclassingSkillLineProgressResult } from "../completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+} from "akasha/temper/player-completion/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { ItemSetOverallProgress } from "akasha/temper/player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import type { SubclassingSkillLineProgressResult } from "akasha/temper/player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import type {
   AccountAntiquityLoreProgress,
   AccountCollectiblesProgress,
   AccountLoreProgress,
   AccountTributeProgress,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export function buildAccountSummary(
   achievementProgress: AccountAchievementOverallProgress,

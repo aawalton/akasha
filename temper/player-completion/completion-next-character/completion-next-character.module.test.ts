@@ -4,7 +4,7 @@ import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lo
 import {
   type NextCharacterInput,
   resolveNextCharacter,
-} from "./completion-next-character.module.code.ts"
+} from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
 
 const CARD = "lore-library-character"
 const CATEGORY = 1

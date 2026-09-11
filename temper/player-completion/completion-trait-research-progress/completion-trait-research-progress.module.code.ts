@@ -1,12 +1,12 @@
 import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterTraitResearchProgress,
   TraitResearchCraftTypeProgress,
   TraitResearchLineEntry,
   TraitResearchTraitEntry,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 
 export interface TraitResearchCatalogTrait {
   traitIndex: number

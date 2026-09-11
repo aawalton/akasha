@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const applyCompletionOverrides = {
   id: "01a06108-2fe9-7e94-a80a-0620a87e49b2",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const skillPointZoneSources = {
   id: "01a06108-2ffa-7ddc-a07c-2ee34cb56f5c",

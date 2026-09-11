@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { isCumulativeCard, isResettingCard } from "./completion-card-reset-behavior.module.code.ts"
+import {
+  isCumulativeCard,
+  isResettingCard,
+} from "akasha/temper/player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 
 const RESETTING_CARD_IDS = [
   "daily-writs",

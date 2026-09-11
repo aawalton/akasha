@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { COMPANION_QUEST_DATA } from "../companion-quest-data/companion-quest-data.module.code.ts"
+import { COMPANION_QUEST_DATA } from "akasha/temper/player-completion/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   isCompanionQuestActionable,
   isCompanionQuestPathComplete,
   pickFirstActionableCompanionQuest,
   sortedCompanionQuestGroups,
-} from "./completion-companion-quest-actionability.module.code.ts"
+} from "akasha/temper/player-completion/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"
 
 const DEFID_BASTIAN = 1
 const DEFID_MIRRI = 2

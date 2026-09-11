@@ -1,4 +1,4 @@
-import type { SkillPointZoneSource } from "../skill-point-source-types/skill-point-source-types.module.code.ts"
+import type { SkillPointZoneSource } from "akasha/temper/player-completion/skill-point-source-types/skill-point-source-types.module.code.ts"
 
 export const SKILL_POINT_ZONE_SOURCES: readonly SkillPointZoneSource[] = [
   { key: "WP", label: "Wailing Prison", maxQuests: 0, maxSkyshards: 1 },

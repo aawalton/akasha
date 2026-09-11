@@ -1,15 +1,15 @@
 import { describe, expect, test } from "bun:test"
-import { COMPLETION_CATEGORY_TREE_STATIC } from "../completion-category-tree/completion-category-tree.module.code.ts"
+import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   ACCOUNT_ACHIEVEMENTS_CARD_ID,
   type AchievementHeading,
   composeCompletionCategoryTree,
-} from "../completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
-import type { CompletionCategoryTree } from "../completion-category-tree-types/completion-category-tree-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
+import type { CompletionCategoryTree } from "akasha/temper/player-completion/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 import {
   getCompletionNodeChildren,
   getCompletionNodePath,
-} from "./completion-category-tree-utils.module.code.ts"
+} from "akasha/temper/player-completion/completion-category-tree-utils/completion-category-tree-utils.module.code.ts"
 
 const ACCOUNT_HEADINGS: readonly AchievementHeading[] = [
   { name: "Crafting", subCategories: [{ name: "Enchanting" }, { name: "Provisioning" }] },

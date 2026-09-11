@@ -4,22 +4,22 @@ import type {
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
+  clampRapportProgress,
+  MAX_COMPANION_RAPPORT,
+} from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
+import type { ItemProgress } from "akasha/temper/player-completion/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import type { AnyCompletionCardId } from "akasha/temper/player-completion/completion-card-id/completion-card-id.module.code.ts"
+import { resolveGenericCheckerProgress } from "akasha/temper/player-completion/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
+import type { ItemPath } from "akasha/temper/player-completion/completion-item-picker/completion-item-picker.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   getApplicableSkillLineIds,
 } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
-import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import {
-  clampRapportProgress,
-  MAX_COMPANION_RAPPORT,
-} from "../companion-rapport/companion-rapport.module.code.ts"
-import type { ItemProgress } from "../completion-card-checker-types/completion-card-checker-types.module.code.ts"
-import type { AnyCompletionCardId } from "../completion-card-id/completion-card-id.module.code.ts"
-import { resolveGenericCheckerProgress } from "../completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
-import type { ItemPath } from "../completion-item-picker/completion-item-picker.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
 
 const RAPPORT_COMPANION_IDS: readonly number[] = companions.list
   .filter((companion) => companion.esoCompanionId !== 0)

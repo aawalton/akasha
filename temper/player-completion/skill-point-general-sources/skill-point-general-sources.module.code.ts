@@ -1,4 +1,4 @@
-import type { SkillPointGeneralSource } from "../skill-point-source-types/skill-point-source-types.module.code.ts"
+import type { SkillPointGeneralSource } from "akasha/temper/player-completion/skill-point-source-types/skill-point-source-types.module.code.ts"
 
 export const SKILL_POINT_GENERAL_SOURCES: readonly SkillPointGeneralSource[] = [
   { key: "level", label: "Level", maxValue: 64 },

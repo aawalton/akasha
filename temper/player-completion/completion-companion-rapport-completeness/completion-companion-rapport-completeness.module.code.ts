@@ -1,5 +1,5 @@
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { MAX_COMPANION_RAPPORT } from "../companion-rapport/companion-rapport.module.code.ts"
+import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
 
 const RAPPORT_COMPANION_DEF_IDS: readonly number[] = companions.list
   .filter((c) => c.esoCompanionId !== 0)

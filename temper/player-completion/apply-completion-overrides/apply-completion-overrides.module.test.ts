@@ -3,8 +3,8 @@ import type {
   CharacterCompletion,
   SkillPointProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionOverride } from "../completion-override/completion-override.module.code.ts"
-import { applyCompletionOverrides } from "./apply-completion-overrides.module.code.ts"
+import { applyCompletionOverrides } from "akasha/temper/player-completion/apply-completion-overrides/apply-completion-overrides.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
 
 function emptySkillPoints(): SkillPointProgress {
   return {

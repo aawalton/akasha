@@ -7,7 +7,7 @@ import {
   isTraitResearchCardComplete,
   isTraitResearchItemComplete,
   transformTraitResearchProgress,
-} from "./completion-trait-research-progress.module.code.ts"
+} from "akasha/temper/player-completion/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import {
   AXE,
   BLACKSMITHING,
@@ -19,7 +19,7 @@ import {
   POWERED,
   ROSTER_ONLY,
   TOTAL_CATALOG_TRAITS,
-} from "./completion-trait-research-progress.module.test-fixtures.ts"
+} from "akasha/temper/player-completion/completion-trait-research-progress/completion-trait-research-progress.module.test-fixtures.ts"
 
 const CRAFTS = CATALOG_CRAFT_TYPES
 const LINES = CATALOG_RESEARCH_LINES

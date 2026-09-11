@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionImportOutcome = {
   id: "01a06108-2fef-7f5e-8bcb-0e8fbd99a8ff",

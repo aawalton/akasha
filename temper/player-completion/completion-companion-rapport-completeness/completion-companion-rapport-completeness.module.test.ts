@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { MAX_COMPANION_RAPPORT } from "../companion-rapport/companion-rapport.module.code.ts"
-import { isCompanionRapportPathComplete } from "./completion-companion-rapport-completeness.module.code.ts"
+import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
+import { isCompanionRapportPathComplete } from "akasha/temper/player-completion/completion-companion-rapport-completeness/completion-companion-rapport-completeness.module.code.ts"
 
 const DEFID_BASTIAN = 1
 const DEFID_MIRRI = 2

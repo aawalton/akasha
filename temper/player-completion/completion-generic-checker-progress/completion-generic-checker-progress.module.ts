@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionGenericCheckerProgress = {
   id: "01a0640c-1e9b-7ffc-918b-ac7e203ae58d",

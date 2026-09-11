@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionCompanionRow = {
   id: "01a06332-d9df-7ff9-a491-b8f04b2e9e67",

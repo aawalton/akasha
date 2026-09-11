@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionScopeRollup = {
   id: "01a06326-436a-75d2-8ece-d1941d997a46",

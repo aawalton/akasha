@@ -1,13 +1,13 @@
 import { grimoires } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
-import { affixScripts } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import { focusScripts } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterScribingProgress,
   ScribingKnowledgeItem,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import { affixScripts } from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import { focusScripts } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export function transformScribingProgress(
   rows: readonly CompletionCharacterRow[]

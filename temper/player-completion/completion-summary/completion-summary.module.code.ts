@@ -1,21 +1,6 @@
 import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
-import {
-  buildMorphRankMap,
-  getSkillLineMorphContribution,
-} from "akasha/temper/skill-morphs/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
-import {
-  EXCLUDED_CATEGORIES,
-  EXCLUDED_SKILL_LINES,
-} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
-import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
-import {
-  getSkillLineIdsForClass,
-  type SkillLineId,
-  skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { CharacterAchievementProgressResult } from "../completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import type { CharacterSummaryData } from "../completion-card-registry/completion-card-registry.module.code.ts"
+import type { CharacterAchievementProgressResult } from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import type { CharacterSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type {
   CharacterCadwellProgress,
   CharacterCompanionRapportProgress,
@@ -32,7 +17,22 @@ import type {
   CharacterTraitResearchProgress,
   CharacterZoneCompletionProgress,
   CompletionCharacter,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  type SkillLineId,
+  skillLines,
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import {
+  buildMorphRankMap,
+  getSkillLineMorphContribution,
+} from "akasha/temper/skill-morphs/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
+import {
+  EXCLUDED_CATEGORIES,
+  EXCLUDED_SKILL_LINES,
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 interface CharacterTotals {
   name: string

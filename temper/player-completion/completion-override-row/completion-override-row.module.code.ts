@@ -1,5 +1,5 @@
-import { isAnyCompletionCardId } from "../completion-card-id/completion-card-id.module.code.ts"
-import type { CompletionOverride } from "../completion-override/completion-override.module.code.ts"
+import { isAnyCompletionCardId } from "akasha/temper/player-completion/completion-card-id/completion-card-id.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
 
 export interface ParsedCompletionOverrideRow {
   readonly characterId: string

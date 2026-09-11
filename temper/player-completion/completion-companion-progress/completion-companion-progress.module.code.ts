@@ -8,20 +8,20 @@ import type {
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
-  type SkillLineId,
-  skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
-} from "../companion-rapport/companion-rapport.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
+} from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterCompanionRapportProgress,
   CompanionProgressEntry,
   CompanionSkillLineProgress,
   CompanionSkillLineProgressEntry,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import {
+  type SkillLineId,
+  skillLines,
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 
 const MAX_COMPANION_LEVEL = 20
 

@@ -4,7 +4,7 @@ import {
   isAccountMeasured,
   isCharacterMeasured,
   isCompanionMeasured,
-} from "./completion-measured.module.code.ts"
+} from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 
 const ROSTER_ONLY: CharacterCompletion = {
   gender: 1,

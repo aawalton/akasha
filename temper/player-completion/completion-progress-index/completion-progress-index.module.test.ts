@@ -4,7 +4,7 @@ import {
   buildCharacterCompletionIndex,
   buildCrossCharacterCompletionIndex,
   materializeCrossCharacterProgress,
-} from "./completion-progress-index.module.code.ts"
+} from "akasha/temper/player-completion/completion-progress-index/completion-progress-index.module.code.ts"
 import {
   CHAR_EMPTY,
   CHAR_FULL,
@@ -13,7 +13,7 @@ import {
   CHAR_SKILL_POINTS,
   EMPTY_ACCOUNT,
   mkRosterEntry,
-} from "./completion-progress-index.module.test-fixtures.ts"
+} from "akasha/temper/player-completion/completion-progress-index/completion-progress-index.module.test-fixtures.ts"
 
 describe("buildCharacterCompletionIndex", () => {
   test("emits the cardId-only key for a flat card with no picker (daily-writs)", () => {

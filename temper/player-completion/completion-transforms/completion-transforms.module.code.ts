@@ -1,19 +1,14 @@
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
-import {
-  ESO_CLASS_ID_TO_CLASS_ID,
-  ESO_RACE_ID_TO_RACE_ID,
-} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
-import { transformAccountLoreUnion } from "../completion-account-lore-union/completion-account-lore-union.module.code.ts"
-import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
-import { transformRecipeProgress } from "../completion-recipe-progress/completion-recipe-progress.module.code.ts"
-import { transformScribingProgress } from "../completion-scribing-progress/completion-scribing-progress.module.code.ts"
-import { transformSkillLineProgress } from "../completion-skill-line-progress/completion-skill-line-progress.module.code.ts"
+import { transformAccountLoreUnion } from "akasha/temper/player-completion/completion-account-lore-union/completion-account-lore-union.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
+import { transformRecipeProgress } from "akasha/temper/player-completion/completion-recipe-progress/completion-recipe-progress.module.code.ts"
+import { transformScribingProgress } from "akasha/temper/player-completion/completion-scribing-progress/completion-scribing-progress.module.code.ts"
+import { transformSkillLineProgress } from "akasha/temper/player-completion/completion-skill-line-progress/completion-skill-line-progress.module.code.ts"
 import {
   type TraitResearchCatalogCraftType,
   type TraitResearchCatalogLine,
   transformTraitResearchProgress,
-} from "../completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
+} from "akasha/temper/player-completion/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import type {
   AccountLoreProgress,
   CharacterMountTrainingProgress,
@@ -23,7 +18,12 @@ import type {
   CharacterSkillLineProgress,
   CharacterTraitResearchProgress,
   CompletionCharacter,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import {
+  ESO_CLASS_ID_TO_CLASS_ID,
+  ESO_RACE_ID_TO_RACE_ID,
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 const MAX_CHARACTER_LEVEL = 50
 const MAX_ALLIANCE_RANK = 50

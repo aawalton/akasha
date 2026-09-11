@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { parseCompletionOverrideRow } from "./completion-override-row.module.code.ts"
+import { parseCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
 
 const CHARACTER_ID = "01970000-0000-7000-8000-aaaaaaaaaaaa"
 

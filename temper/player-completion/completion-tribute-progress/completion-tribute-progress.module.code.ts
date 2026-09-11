@@ -3,7 +3,7 @@ import type {
   AccountTributeProgress,
   TributeCardUpgradeProgress,
   TributePatronProgress,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 
 export interface TributePatronCatalogCard {
   cardIndex: number

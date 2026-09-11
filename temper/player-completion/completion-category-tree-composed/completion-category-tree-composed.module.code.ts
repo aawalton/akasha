@@ -1,8 +1,8 @@
-import { COMPLETION_CATEGORY_TREE_STATIC } from "../completion-category-tree/completion-category-tree.module.code.ts"
+import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CompletionCategoryNode,
   CompletionCategoryTree,
-} from "../completion-category-tree-types/completion-category-tree-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
 export const ACCOUNT_ACHIEVEMENTS_CARD_ID = "account-achievements"
 export const CHARACTER_ACHIEVEMENTS_CARD_ID = "character-achievements"

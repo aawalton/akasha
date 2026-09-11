@@ -4,8 +4,8 @@ import {
   type CardDescriptor,
   CHARACTER_CARDS,
   type CharacterCardId,
-} from "../completion-card-registry/completion-card-registry.module.code.ts"
-import { isCumulativeCard } from "../completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
+} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import { isCumulativeCard } from "akasha/temper/player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 
 export const CUMULATIVE_ACCOUNT_CARDS: CardDescriptor<AccountCardId>[] = ACCOUNT_CARDS.filter((c) =>
   isCumulativeCard(c.id)

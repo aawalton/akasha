@@ -2,7 +2,7 @@ import type {
   CompletionCategoryNode,
   CompletionCategoryTree,
   CompletionTab,
-} from "../completion-category-tree-types/completion-category-tree-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
 const TABS: readonly CompletionTab[] = ["account", "characters", "companions"]
 

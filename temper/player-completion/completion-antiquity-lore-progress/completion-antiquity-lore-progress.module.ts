@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionAntiquityLoreProgress = {
   id: "01a06358-4f7c-77e7-a32e-20a4046028cd",

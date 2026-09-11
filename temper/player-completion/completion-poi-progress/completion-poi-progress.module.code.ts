@@ -1,12 +1,12 @@
-import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterPoiProgress,
   PoiActivityProgress,
   PoiTypeProgress,
   PoiZoneProgress,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
-import { isCyrodiilWayshrine } from "../cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import { isCyrodiilWayshrine } from "akasha/temper/player-completion/cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts"
 
 export interface PoiZoneCatalogPoi {
   poiType: number

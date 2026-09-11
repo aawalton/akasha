@@ -5,7 +5,7 @@ import {
   sortCadwellLevels,
   sortCadwellPois,
   sortCadwellZones,
-} from "./completion-cadwell-sort.module.code.ts"
+} from "akasha/temper/player-completion/completion-cadwell-sort/completion-cadwell-sort.module.code.ts"
 
 const AURIDON_POIS = {
   1: { name: "Tanzelwil", order: 2, completed: true },

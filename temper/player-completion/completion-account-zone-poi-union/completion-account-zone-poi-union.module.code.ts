@@ -1,8 +1,7 @@
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import {
   type PoiZoneCatalogEntry,
   tallyPoiZones,
-} from "../completion-poi-progress/completion-poi-progress.module.code.ts"
+} from "akasha/temper/player-completion/completion-poi-progress/completion-poi-progress.module.code.ts"
 import type {
   CharacterPoiProgress,
   CharacterZoneCompletionProgress,
@@ -10,7 +9,8 @@ import type {
   ZoneActivityProgress,
   ZoneCompletionTypeProgress,
   ZoneCompletionZoneProgress,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 export interface AccountZoneCompletionUnionProgress {
   zones: readonly ZoneCompletionZoneProgress[]

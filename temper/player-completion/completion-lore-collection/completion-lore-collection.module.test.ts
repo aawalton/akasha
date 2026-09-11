@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   findFirstIncompleteLoreCollection,
   type LoreCollectionInput,
-} from "./completion-lore-collection.module.code.ts"
+} from "akasha/temper/player-completion/completion-lore-collection/completion-lore-collection.module.code.ts"
 
 const COLLECTIONS: readonly LoreCollectionInput[] = [
   {

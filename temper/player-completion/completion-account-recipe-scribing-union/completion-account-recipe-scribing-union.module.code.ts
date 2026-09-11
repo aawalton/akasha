@@ -1,11 +1,11 @@
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import type {
   CharacterRecipeProgress,
   CharacterScribingProgress,
   RecipeDetail,
   RecipeListProgressEntry,
   ScribingKnowledgeItem,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 export interface AccountRecipeUnionProgress {
   entries: readonly RecipeListProgressEntry[]

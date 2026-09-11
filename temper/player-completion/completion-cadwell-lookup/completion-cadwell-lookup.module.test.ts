@@ -11,7 +11,7 @@ import {
   cadwellCoordinatesUnder,
   cadwellTotalCount,
   isCadwellCoordinateComplete,
-} from "./completion-cadwell-lookup.module.code.ts"
+} from "akasha/temper/player-completion/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
 
 const LEVEL_CATALOG: readonly CadwellLevelCatalogEntry[] = [
   {

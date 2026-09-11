@@ -1,7 +1,7 @@
 import type {
   CompletionCategoryNode,
   CompletionTab,
-} from "../completion-category-tree-types/completion-category-tree-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
 export const COMPLETION_CATEGORY_TREE_STATIC = {
   account: [

@@ -2,14 +2,14 @@ import {
   type CadwellLevelCatalogEntry,
   cadwellTotalCount,
   isCadwellCoordinateComplete,
-} from "../completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
-import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
-import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
+} from "akasha/temper/player-completion/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CadwellLevelEntry,
   CadwellZoneEntry,
   CharacterCadwellProgress,
-} from "../completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 
 interface GatheredCadwellPoi {
   poiIndex: number
