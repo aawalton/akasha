@@ -1,0 +1,18 @@
+import type { StrengthLog } from "akasha/alan/values/health/fitness/strength-logs/strength-log.page-type.types.ts"
+
+export const wednesdayLegs20260624789253e9GobletBulgarianSplitSquatSet1 = {
+  id: "019efa8e-36c5-7463-9e70-94c252cb4a47",
+  pageTypeSlug: "strength-log",
+  type: "strength-log",
+  slug: "wednesday-legs-2026-06-24-789253e9-goblet-bulgarian-split-squat-set-1",
+  title: "Goblet Bulgarian Split Squat set 1",
+  exercise: "goblet-bulgarian-split-squat",
+  isWarmup: false,
+  reps: 16,
+  rpe: 8,
+  sessionSlug: "wednesday-legs-2026-06-24-789253e9",
+  setLogDate: "2026-06-24",
+  day: "day-2026-06-24",
+  setNumber: 1,
+  weight: 20,
+} as const satisfies StrengthLog

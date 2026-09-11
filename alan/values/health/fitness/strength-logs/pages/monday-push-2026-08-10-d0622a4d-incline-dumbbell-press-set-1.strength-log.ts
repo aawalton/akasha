@@ -1,0 +1,18 @@
+import type { StrengthLog } from "akasha/alan/values/health/fitness/strength-logs/strength-log.page-type.types.ts"
+
+export const mondayPush20260810D0622a4dInclineDumbbellPressSet1 = {
+  id: "019fed3c-3adb-772c-ad6d-509a94ffa522",
+  pageTypeSlug: "strength-log",
+  type: "strength-log",
+  slug: "monday-push-2026-08-10-d0622a4d-incline-dumbbell-press-set-1",
+  title: "Incline Dumbbell Press set 1",
+  exercise: "incline-dumbbell-press",
+  isWarmup: false,
+  reps: 8,
+  rpe: 9,
+  sessionSlug: "monday-push-2026-08-10-d0622a4d",
+  setLogDate: "2026-08-10",
+  day: "day-2026-08-10",
+  setNumber: 1,
+  weight: 30,
+} as const satisfies StrengthLog

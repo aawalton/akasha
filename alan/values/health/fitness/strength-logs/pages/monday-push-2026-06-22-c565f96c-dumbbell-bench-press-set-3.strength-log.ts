@@ -1,0 +1,19 @@
+import type { StrengthLog } from "akasha/alan/values/health/fitness/strength-logs/strength-log.page-type.types.ts"
+
+export const mondayPush20260622C565f96cDumbbellBenchPressSet3 = {
+  id: "019ef121-e666-753d-a1de-ab957279e222",
+  pageTypeSlug: "strength-log",
+  type: "strength-log",
+  slug: "monday-push-2026-06-22-c565f96c-dumbbell-bench-press-set-3",
+  title: "Dumbbell Bench Press set 3",
+  exercise: "dumbbell-bench-press",
+  isWarmup: false,
+  note: "had to work, controlled the movement; right elbow totally fine, never noticed it",
+  reps: 10,
+  rpe: 5,
+  sessionSlug: "monday-push-2026-06-22-c565f96c",
+  setLogDate: "2026-06-22",
+  day: "day-2026-06-22",
+  setNumber: 3,
+  weight: 25,
+} as const satisfies StrengthLog
