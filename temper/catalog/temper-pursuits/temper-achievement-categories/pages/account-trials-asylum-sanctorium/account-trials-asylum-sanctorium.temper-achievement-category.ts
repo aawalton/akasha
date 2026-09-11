@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsAsylumSanctorium = {
   id: "01a06168-724a-7013-97a1-401febac7a4d",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-trials-asylum-sanctorium",
   title: "Asylum Sanctorium",

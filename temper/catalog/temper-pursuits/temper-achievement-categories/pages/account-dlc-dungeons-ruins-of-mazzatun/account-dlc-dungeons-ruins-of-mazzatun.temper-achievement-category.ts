@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsRuinsOfMazzatun = {
   id: "01a06168-724a-7008-8ed1-7af1c4ce01c5",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-ruins-of-mazzatun",
   title: "Ruins of Mazzatun",

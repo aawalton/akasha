@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDeadlandsQuests = {
   id: "01a06168-7250-7004-822a-1961a0363e77",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-deadlands-quests",
   title: "Quests",

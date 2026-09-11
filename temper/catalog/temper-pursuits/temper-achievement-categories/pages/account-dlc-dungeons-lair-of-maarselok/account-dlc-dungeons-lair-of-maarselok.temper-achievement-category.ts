@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsLairOfMaarselok = {
   id: "01a06168-724a-7000-9772-cab6397eb9f8",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-lair-of-maarselok",
   title: "Lair of Maarselok",

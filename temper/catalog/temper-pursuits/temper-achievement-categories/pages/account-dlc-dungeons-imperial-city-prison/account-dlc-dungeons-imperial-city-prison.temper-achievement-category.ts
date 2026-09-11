@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsImperialCityPrison = {
   id: "01a06168-7249-7016-bb1d-c8638c124de4",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-imperial-city-prison",
   title: "Imperial City Prison",

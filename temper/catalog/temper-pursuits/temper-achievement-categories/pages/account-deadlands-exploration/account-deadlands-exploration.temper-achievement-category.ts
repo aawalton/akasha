@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDeadlandsExploration = {
   id: "01a06168-7250-7002-9a6c-df8f2a3623e4",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-deadlands-exploration",
   title: "Exploration",

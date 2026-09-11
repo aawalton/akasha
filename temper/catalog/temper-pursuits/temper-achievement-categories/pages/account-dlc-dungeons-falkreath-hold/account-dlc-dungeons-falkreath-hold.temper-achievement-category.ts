@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsFalkreathHold = {
   id: "01a06168-7249-7011-95fe-30760c2260eb",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-falkreath-hold",
   title: "Falkreath Hold",

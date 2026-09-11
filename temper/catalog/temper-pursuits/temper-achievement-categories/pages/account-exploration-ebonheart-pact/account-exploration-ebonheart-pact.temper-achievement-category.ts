@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountExplorationEbonheartPact = {
   id: "01a06168-724b-7012-ad35-2736034b06cc",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-exploration-ebonheart-pact",
   title: "Ebonheart Pact",

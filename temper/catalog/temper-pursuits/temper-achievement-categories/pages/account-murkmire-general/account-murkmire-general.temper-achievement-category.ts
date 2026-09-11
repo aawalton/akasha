@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountMurkmireGeneral = {
   id: "01a06168-7250-7012-b736-81a6a6df094e",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-murkmire-general",
   title: "General",

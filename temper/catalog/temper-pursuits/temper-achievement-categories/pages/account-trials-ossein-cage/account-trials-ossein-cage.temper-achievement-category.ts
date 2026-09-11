@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsOsseinCage = {
   id: "01a06168-724b-7004-9bdd-b58b320d63b1",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-trials-ossein-cage",
   title: "Ossein Cage",

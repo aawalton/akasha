@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountCraftingProvisioning = {
   id: "01a06168-7247-700f-b79c-8aa8e6fb7a03",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-crafting-provisioning",
   title: "Provisioning",

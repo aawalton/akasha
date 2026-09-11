@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountCharacterSkyshards = {
   id: "01a06168-7246-700a-939b-9b598b83460e",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-character-skyshards",
   title: "Skyshards",

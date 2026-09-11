@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsCryptOfHeartsIi = {
   id: "01a06168-7248-700a-83f4-fcb0279c7c5f",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-crypt-of-hearts-ii",
   title: "Crypt of Hearts II",

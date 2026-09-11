@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsFungalGrottoI = {
   id: "01a06168-7248-7010-a29f-e6248795ccfa",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-fungal-grotto-i",
   title: "Fungal Grotto I",

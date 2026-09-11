@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsVaultsOfMadness = {
   id: "01a06168-7249-7000-ad80-ababd067538a",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-vaults-of-madness",
   title: "Vaults of Madness",

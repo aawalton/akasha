@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsDirefrostKeep = {
   id: "01a06168-7248-700d-8398-79689877703e",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-direfrost-keep",
   title: "Direfrost Keep",

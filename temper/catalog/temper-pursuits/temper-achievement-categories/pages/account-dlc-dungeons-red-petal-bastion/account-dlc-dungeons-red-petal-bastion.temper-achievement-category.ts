@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsRedPetalBastion = {
   id: "01a06168-724a-7007-b363-da8a34de2555",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-red-petal-bastion",
   title: "Red Petal Bastion",

@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDragonholdGeneral = {
   id: "01a06168-7250-700d-9cb6-44746d1959f1",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dragonhold-general",
   title: "General",

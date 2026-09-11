@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsCoralAerie = {
   id: "01a06168-7249-700b-b40b-b66dce15253d",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-coral-aerie",
   title: "Coral Aerie",

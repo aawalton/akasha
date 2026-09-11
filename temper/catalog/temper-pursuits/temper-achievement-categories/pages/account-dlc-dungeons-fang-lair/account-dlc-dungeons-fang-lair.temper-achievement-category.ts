@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsFangLair = {
   id: "01a06168-7249-7012-af7f-4bbf638f8942",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-fang-lair",
   title: "Fang Lair",

@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsRockgrove = {
   id: "01a06168-724b-7005-864e-b3f25d4cd0f5",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-trials-rockgrove",
   title: "Rockgrove",

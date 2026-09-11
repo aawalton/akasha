@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsNajCaldeesh = {
   id: "01a06168-724a-7005-b7d5-7f46264d2bb7",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-naj-caldeesh",
   title: "Naj-Caldeesh",

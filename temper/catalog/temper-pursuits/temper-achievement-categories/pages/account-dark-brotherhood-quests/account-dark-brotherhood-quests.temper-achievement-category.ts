@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDarkBrotherhoodQuests = {
   id: "01a06168-7251-7000-8800-b2f3f41ab23f",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dark-brotherhood-quests",
   title: "Quests",

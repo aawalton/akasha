@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterSummersetExploration = {
   id: "01a06168-7252-7006-92d4-1791f84d6c70",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "character-summerset-exploration",
   title: "Exploration",

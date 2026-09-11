@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsEldenHollowIi = {
   id: "01a06168-7248-700f-b0f2-40ce3da39294",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-elden-hollow-ii",
   title: "Elden Hollow II",

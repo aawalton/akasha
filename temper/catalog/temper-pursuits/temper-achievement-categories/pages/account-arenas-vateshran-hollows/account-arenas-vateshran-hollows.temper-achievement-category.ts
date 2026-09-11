@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountArenasVateshranHollows = {
   id: "01a06168-724b-700d-aa3b-29a1d78b879c",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-arenas-vateshran-hollows",
   title: "Vateshran Hollows",

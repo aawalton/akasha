@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsAetherianArchive = {
   id: "01a06168-724a-7012-b7b7-33f6ab1c5445",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-trials-aetherian-archive",
   title: "Aetherian Archive",

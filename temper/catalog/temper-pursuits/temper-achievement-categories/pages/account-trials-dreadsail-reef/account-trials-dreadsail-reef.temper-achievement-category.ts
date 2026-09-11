@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountTrialsDreadsailReef = {
   id: "01a06168-724a-7015-a8df-dff169d2486c",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-trials-dreadsail-reef",
   title: "Dreadsail Reef",

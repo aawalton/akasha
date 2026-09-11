@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountRecentSeasons = {
   id: "01a06168-7245-7005-b888-0e3f66e62bf2",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-recent-seasons",
   title: "Recent Seasons",

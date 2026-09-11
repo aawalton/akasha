@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsTheCauldron = {
   id: "01a06168-724a-700d-a6a0-82d1a8756ca4",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-the-cauldron",
   title: "The Cauldron",

@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterHighIsle = {
   id: "01a06168-7251-7019-b474-e843dd31d36b",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "character-high-isle",
   title: "High Isle",

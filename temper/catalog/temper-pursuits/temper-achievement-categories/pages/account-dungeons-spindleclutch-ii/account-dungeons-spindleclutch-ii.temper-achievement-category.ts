@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsSpindleclutchIi = {
   id: "01a06168-7248-7014-a333-7b6afb6e6dc2",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-spindleclutch-ii",
   title: "Spindleclutch II",

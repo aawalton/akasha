@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsWayrestSewersI = {
   id: "01a06168-7249-7001-95ca-c3ea2937e519",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-wayrest-sewers-i",
   title: "Wayrest Sewers I",

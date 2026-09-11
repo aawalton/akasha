@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsBloodrootForge = {
   id: "01a06168-7249-7009-b4dc-e9c384ab670f",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-bloodroot-forge",
   title: "Bloodroot Forge",

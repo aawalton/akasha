@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountQuestsColdharbour = {
   id: "01a06168-724c-7008-9356-695edfd578de",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-quests-coldharbour",
   title: "Coldharbour",

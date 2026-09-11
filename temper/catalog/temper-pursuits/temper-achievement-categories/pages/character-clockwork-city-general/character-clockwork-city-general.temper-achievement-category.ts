@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const characterClockworkCityGeneral = {
   id: "01a06168-7252-7010-a5b8-158eecc215f7",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "character-clockwork-city-general",
   title: "General",

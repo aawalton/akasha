@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDungeonsSelenesWeb = {
   id: "01a06168-7248-7012-86bc-4fd49a71d5f0",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dungeons-selenes-web",
   title: "Selene's Web",

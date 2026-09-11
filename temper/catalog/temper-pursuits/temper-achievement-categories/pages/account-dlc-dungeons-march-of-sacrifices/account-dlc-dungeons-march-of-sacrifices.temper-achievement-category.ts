@@ -2,7 +2,6 @@ import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pur
 
 export const accountDlcDungeonsMarchOfSacrifices = {
   id: "01a06168-724a-7002-89fb-3c2cd2cd0992",
-  pageTypeSlug: "temper-achievement-category",
   type: "temper-achievement-category",
   slug: "account-dlc-dungeons-march-of-sacrifices",
   title: "March of Sacrifices",
