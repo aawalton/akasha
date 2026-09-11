@@ -12,6 +12,7 @@ export const fileProperty = {
     "boolean-property/tool-resolves-paths",
     "relation-property/file-written-by",
     "text-property/extensions",
+    "boolean-property/append-only",
   ],
   extends: ["page-type/page-property"],
   properties: [
@@ -22,6 +23,7 @@ export const fileProperty = {
     { pageProperty: "boolean-property/tool-resolves-paths", required: false, many: false },
     { pageProperty: "relation-property/file-written-by", required: false, many: false },
     { pageProperty: "text-property/extensions", required: true, many: true, maxCount: null },
+    { pageProperty: "boolean-property/append-only", required: false, many: false },
   ],
   invariants: [
     {
