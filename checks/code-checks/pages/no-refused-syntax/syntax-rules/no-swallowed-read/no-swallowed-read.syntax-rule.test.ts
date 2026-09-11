@@ -7,7 +7,7 @@ import {
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noSwallowedRead } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 
 const WALKING = `import type { Change } from "${CHANGE_FROM}"\n`
 

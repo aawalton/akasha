@@ -1,6 +1,6 @@
 import { dirname } from "node:path"
 import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
 

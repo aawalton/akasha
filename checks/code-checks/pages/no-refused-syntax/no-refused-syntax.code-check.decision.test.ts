@@ -24,7 +24,7 @@ import {
   UNPARSED,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import type { Given } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { SourceFile } from "typescript"

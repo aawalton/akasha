@@ -7,7 +7,7 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import { readFor, targetsIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import { manyIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 

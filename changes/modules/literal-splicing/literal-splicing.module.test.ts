@@ -6,7 +6,7 @@ import {
   withValue,
 } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import { listIn, literalIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 
 const AT = "one/held.module.ts"
 

@@ -3,7 +3,7 @@ import {
   type Body,
   overEachText,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { lineOf, parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"

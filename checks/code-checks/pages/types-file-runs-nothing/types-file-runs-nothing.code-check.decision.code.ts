@@ -1,6 +1,6 @@
 import { valueImportsIn } from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.decision.code.ts"
 import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { lineOf, parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const DECLARING = ".types.ts"

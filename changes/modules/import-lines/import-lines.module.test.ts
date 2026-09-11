@@ -16,7 +16,7 @@ import {
   withoutNames,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const AT = "akasha/one.module.code.ts"

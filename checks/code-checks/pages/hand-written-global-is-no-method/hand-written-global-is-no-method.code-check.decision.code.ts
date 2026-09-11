@@ -1,5 +1,5 @@
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { lineOf, parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

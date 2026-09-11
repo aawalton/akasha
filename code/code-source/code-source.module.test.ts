@@ -4,7 +4,7 @@ import {
   lineOf,
   parsedAs,
   skimmedAs,
-} from "akasha/code-system/code-source/code-source.module.code.ts"
+} from "akasha/code/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const AT = "held.ts"

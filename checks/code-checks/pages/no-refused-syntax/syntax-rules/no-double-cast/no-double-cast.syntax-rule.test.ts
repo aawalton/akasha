@@ -7,7 +7,7 @@ import {
   noDoubleCast,
   withoutParens,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 test("a file asserting nothing is refused nothing", () => {

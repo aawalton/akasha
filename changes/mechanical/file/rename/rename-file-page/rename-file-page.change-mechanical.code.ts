@@ -18,8 +18,8 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
 import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
