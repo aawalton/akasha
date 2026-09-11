@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { titleCase } from "./title-case.name-format.code.ts"
+import { titleCase } from "akasha/pages/name-formats/pages/title-case/title-case.name-format.code.ts"
 
 test("words parted by spaces with every one starting capital are written in it", () => {
   expect(titleCase("Name")).toBe(true)
