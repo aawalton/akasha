@@ -16,7 +16,7 @@ export const theaChecksSystem = {
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
-        "All 16 sites surveyed. 11 derive from a secret across 10 workloads; every value agrees with the live Secret, the generated yaml and the running pod, and all 10 pages now name the secret and its keys. 5 hash config rather than a secret, so this statement may be wider than the work. The committed yaml is a picture of a thing that moves: authority is secretChecksum at synth, and a diff against a fresh synth is the design working. 3 workloads mount a second Secret unhashed; 17 annotate none.",
+        "All 16 sites surveyed; every page now names what it hashes. 11 derive from a secret across 10 workloads; every value agrees with the live Secret, the generated yaml and the running pod. 5 hash config through a pure function of its argument, emitted from one value in one synth, so they cannot disagree. 3 mount a second Secret unhashed; 17 annotate none. The committed yaml pictures a thing that moves: authority is the reading at synth, and a diff against a fresh synth is the design working.",
     },
     {
       statement: "A check looks for unused code and passes.",
