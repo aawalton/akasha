@@ -80,11 +80,6 @@ export const restatementNarrowsSomething = {
       invariantKind: "absence",
       statement: "A page type saying one property twice over is not judged here.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "A restatement raising a length while that restatement narrows something else is refused.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
