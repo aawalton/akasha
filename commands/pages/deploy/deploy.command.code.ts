@@ -3,10 +3,12 @@ import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/deploy-image-pushing/deploy-image-pushing.module.code.ts"
+import { putUpInferenceService } from "akasha/commands/pages/deploy/deploy-inference-installing/deploy-inference-installing.module.code.ts"
 import { shipIosApp } from "akasha/commands/pages/deploy/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
+  INFERENCE_SERVICE,
   IOS_APP,
   kindNamed,
   WEB_APP,
@@ -34,6 +36,7 @@ const NAMED: Readonly<Record<string, string>> = {
   [WORKSTATION_SERVICE]: "a workstation service",
   [WEB_APP]: "a web app",
   [CONTAINER_RECIPE]: "a container recipe",
+  [INFERENCE_SERVICE]: "an inference service",
 }
 
 export interface RefNamed {
@@ -150,6 +153,9 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
   if (read.kind === WORKSTATION_SERVICE) {
     return putUpService(given.root, slug, rest.includes(DRY_RUN))
+  }
+  if (read.kind === INFERENCE_SERVICE) {
+    return await putUpInferenceService(given.root, slug, rest.includes(DRY_RUN))
   }
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)

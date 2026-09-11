@@ -18,6 +18,7 @@ export const deploy = {
     "module/deploy-image-pushing",
     "module/deploy-simulator-installing",
     "module/deploy-device-installing",
+    "module/deploy-inference-installing",
   ],
   taking: [
     {
@@ -74,6 +75,12 @@ export const deploy = {
     "`--simulator` belongs to an ios app, and a call naming it on another kind is refused rather than ignored.",
     "`--device` builds an ios app on the mac from `origin/main` and installs it to the phone the app's page names, and an app naming no phone is refused rather than guessed at.",
     "`--device` is the path onto the phone plugged into the mac, and TestFlight is the path onto every other phone.",
+    "an inference service is put up here as a conda environment and a launchd agent on the machine its page names, reached over ssh.",
+    "the folder the host is handed is the folder the provision script that service names sits in, so no page spells a path.",
+    "a host already holding that service at the hash of that folder and what it runs is applied to by nothing, so a second call does nothing.",
+    "the pool file the traffic cop reads is written from every inference service before the one named is applied.",
+    "an inference service whose page says it is not to be running is torn off the host rather than left there.",
+    "`--dry-run` belongs to an inference service too, and it reaches the host to read the host and changes nothing.",
   ],
   invariants: [
     {
@@ -155,6 +162,19 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A call naming both places to install to is refused rather than chosen between.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An inference service is put up as an environment and an agent on the machine its page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host already holding an inference service unchanged is applied to by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An inference service its page says is not to be running is torn off its host.",
     },
   ],
 } as const satisfies Command

@@ -74,7 +74,7 @@ export function inferenceIn(root: string, value: Value): Inference | string {
     port,
     lifecycle,
     enabled,
-    warm: enabled && value.warm === true,
+    warm: value.warm === true,
     ...(typeof internalPort === "number" ? { internalPort } : {}),
   }
 }

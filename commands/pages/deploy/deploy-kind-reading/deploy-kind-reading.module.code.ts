@@ -12,12 +12,15 @@ export const WORKSTATION_SERVICE = "workstation-service"
 
 export const CONTAINER_RECIPE = "container-recipe"
 
+export const INFERENCE_SERVICE = "inference-service"
+
 export type Kind =
   | typeof WEB_APP
   | typeof IOS_APP
   | typeof CLUSTER_SERVICE
   | typeof WORKSTATION_SERVICE
   | typeof CONTAINER_RECIPE
+  | typeof INFERENCE_SERVICE
 
 export type Named = {
   readonly kind: Kind
@@ -60,6 +63,9 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
   for (const one of pathsNamed(root, CONTAINER_RECIPE, slug)) {
     found.push({ kind: CONTAINER_RECIPE, pagePath: one })
   }
+  for (const one of pathsNamed(root, INFERENCE_SERVICE, slug)) {
+    found.push({ kind: INFERENCE_SERVICE, pagePath: one })
+  }
 
   const web = found.some((one) => one.kind === WEB_APP)
   const left = web ? found.filter((one) => one.kind !== CLUSTER_SERVICE) : found
@@ -70,8 +76,9 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
     const servers = having("cluster service", slugsOfType(root, CLUSTER_SERVICE))
     const runners = having("workstation service", slugsOfType(root, WORKSTATION_SERVICE))
     const recipes = having("container recipe", slugsOfType(root, CONTAINER_RECIPE))
+    const models = having("inference service", slugsOfType(root, INFERENCE_SERVICE))
     return {
-      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, and ${recipes}`,
+      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, and ${models}`,
     }
   }
   if (left.length > 1) {
