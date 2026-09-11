@@ -28,10 +28,6 @@ export const tailFold = {
     },
     {
       invariantKind: "departure",
-      statement: "The anchor is the 64 bytes ending the offset.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A reset reaches the caller before any line of a refold.",
     },
     {

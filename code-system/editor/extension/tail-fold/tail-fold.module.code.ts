@@ -1,8 +1,7 @@
-import { type FileHandle, open, stat } from "node:fs/promises"
+import { open, stat } from "node:fs/promises"
+import { anchorEnding } from "akasha/code-system/editor/extension/subagent-checkpoints/subagent-checkpoints.module.code.ts"
 
 const NEWLINE = 0x0a
-
-const ANCHOR_BYTES = 64
 
 const CHUNK_BYTES = 4 * 1024 * 1024
 
@@ -21,32 +20,6 @@ export interface TailFold {
 
 export function emptyTail(): Tail {
   return { offset: 0, anchor: null }
-}
-
-async function anchorEnding(filePath: string, offset: number): Promise<string | null> {
-  if (offset <= 0) {
-    return null
-  }
-  const from = Math.max(0, offset - ANCHOR_BYTES)
-  const wanted = offset - from
-  const buffer = Buffer.allocUnsafe(wanted)
-  let handle: FileHandle
-  try {
-    handle = await open(filePath, "r")
-  } catch {
-    return null
-  }
-  try {
-    const { bytesRead } = await handle.read(buffer, 0, wanted, from)
-    if (bytesRead !== wanted) {
-      return null
-    }
-  } catch {
-    return null
-  } finally {
-    await handle.close()
-  }
-  return buffer.toString("base64")
 }
 
 export interface TailSink {
