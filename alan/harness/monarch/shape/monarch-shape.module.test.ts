@@ -1,5 +1,12 @@
 import { expect, test } from "bun:test"
-import { array, bool, num, object, optional, str } from "./monarch-shape.module.code.ts"
+import {
+  array,
+  bool,
+  num,
+  object,
+  optional,
+  str,
+} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
 
 test("an object is told apart from null and from an array", () => {
   expect(object({ a: 1 }, "at")).toEqual({ a: 1 })

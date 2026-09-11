@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
+import type { ReadoutGroup } from "akasha/alan/harness/readouts/groups/readout-group.page-type.types.ts"
 
 export const values = {
   id: "01a06553-f660-780a-9cc7-a675d664e202",

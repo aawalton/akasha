@@ -6,7 +6,7 @@ import {
   orderNumberIn,
   parseOrderEmail,
   summaryFromSubject,
-} from "./monarch-amazon-order.module.code.ts"
+} from "akasha/alan/harness/monarch/amazon-order/monarch-amazon-order.module.code.ts"
 
 test("money is read into cents", () => {
   expect(centsFromMoney("Grand Total: 1,234.56 USD")).toBe(123456)

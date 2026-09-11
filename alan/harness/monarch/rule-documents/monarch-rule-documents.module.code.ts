@@ -1,9 +1,16 @@
+import { AKASHA } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import {
+  ruleFromMatches,
+  statedMatches,
+} from "akasha/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.code.ts"
+import { categoryTitles } from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import type {
+  Match,
+  Outcome,
+  Rule,
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { AKASHA } from "../files/monarch-files.module.code.ts"
-import { ruleFromMatches, statedMatches } from "../rule-clauses/monarch-rule-clauses.module.code.ts"
-import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
-import type { Match, Outcome, Rule } from "../rules/monarch-rules.module.code.ts"
 
 const RULES = "alan/harness/monarch/category-rules"
 

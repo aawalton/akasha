@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const supabaseRr = {
   id: "01a05c97-8af3-7dbb-b6b0-4fd120a787a9",

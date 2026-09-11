@@ -4,7 +4,7 @@ import {
   type FieldType,
   type RuleSet,
   typeOf,
-} from "../rule-conditions/rule-conditions.module.code.ts"
+} from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 
 export const CEILING = 500_000
 

@@ -1,18 +1,18 @@
 import {
+  LOG,
+  runBoundedSurplusFallTick,
+  TICK_CEILING_MS,
+  TICK_MS,
+  WORKER_NAME,
+} from "akasha/alan/harness/surplus/fall-ticking/surplus-fall-ticking.module.code.ts"
+import {
   TICKS_BEFORE_ENDING,
   tickRatchet,
 } from "akasha/services/workstation-services/tick-ratchet/tick-ratchet.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
-import {
-  LOG,
-  runBoundedSurplusFallTick,
-  TICK_CEILING_MS,
-  TICK_MS,
-  WORKER_NAME,
-} from "../fall-ticking/surplus-fall-ticking.module.code.ts"
+} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

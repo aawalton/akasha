@@ -1,27 +1,30 @@
 #!/usr/bin/env bun
 
-import { reportAgreement } from "../agreement/monarch-agreement.module.code.ts"
-import { categorizeRecent } from "../categorize-recent/monarch-categorize-recent.module.code.ts"
+import { reportAgreement } from "akasha/alan/harness/monarch/agreement/monarch-agreement.module.code.ts"
+import { categorizeRecent } from "akasha/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.code.ts"
 import type {
   MonarchHolding,
   MonarchTag,
   MonarchTransaction,
-} from "../client/monarch-client.module.code.ts"
-import { monarchClient } from "../client/monarch-client.module.code.ts"
-import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
+} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { monarchClient } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
 import {
   landAccountFiles,
   landCategoryFiles,
   landHoldingFiles,
   landTagFiles,
-} from "../domain-files/monarch-domain-files.module.code.ts"
-import { landTransactionFiles, linesFor } from "../land-files/monarch-land-files.module.code.ts"
+} from "akasha/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts"
+import {
+  landTransactionFiles,
+  linesFor,
+} from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
 import {
   clearStalePending,
   clearVanishedAgainstFullFetch,
   clearVanishedInWindow,
-} from "../reconcile/monarch-reconcile.module.code.ts"
-import { trustedFrom } from "../transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/reconcile/monarch-reconcile.module.code.ts"
+import { trustedFrom } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export interface SyncTally {
   readonly landed: number

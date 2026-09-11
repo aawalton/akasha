@@ -1,9 +1,12 @@
 #!/usr/bin/env bun
 
-import { monarchQuery } from "../client/monarch-client.module.code.ts"
-import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
-import { categoryPages, readAllTransactions } from "../files/monarch-files.module.code.ts"
-import { UNCATEGORIZED } from "../transaction/monarch-transaction.module.code.ts"
+import { monarchQuery } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
+import {
+  categoryPages,
+  readAllTransactions,
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { UNCATEGORIZED } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export interface Reading {
   readonly what: string

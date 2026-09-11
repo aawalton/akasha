@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const emailWatch = {
   id: "01a06596-a92e-7000-b678-5d6232425a71",

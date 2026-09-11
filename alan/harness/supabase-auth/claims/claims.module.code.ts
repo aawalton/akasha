@@ -1,5 +1,5 @@
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
 import { z } from "zod"
-import type { SupabaseUser } from "../supabase-user/supabase-user.module.code.ts"
 
 const claimsUserSchema = z.object({
   sub: z.string(),

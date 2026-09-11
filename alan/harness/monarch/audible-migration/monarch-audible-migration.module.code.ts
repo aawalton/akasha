@@ -1,9 +1,13 @@
 #!/usr/bin/env bun
 
-import { setCategory } from "../categorize/monarch-categorize.module.code.ts"
-import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
-import { categoryPages, keyOf, readAllTransactions } from "../files/monarch-files.module.code.ts"
-import { transferBudget } from "../transaction-create/monarch-transaction-create.module.code.ts"
+import { setCategory } from "akasha/alan/harness/monarch/categorize/monarch-categorize.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
+import {
+  categoryPages,
+  keyOf,
+  readAllTransactions,
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { transferBudget } from "akasha/alan/harness/monarch/transaction-create/monarch-transaction-create.module.code.ts"
 
 const CASH_ACCOUNT_ID = "151732808422660966"
 const AUDIBLE_CATEGORY_ID = "251492769795545969"

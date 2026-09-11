@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/agents/email-rule-agent.page-type.types.ts"
 
 export const vanguardOther = {
   id: "01a06863-fbe9-7beb-b3e9-2216e374fd3b",

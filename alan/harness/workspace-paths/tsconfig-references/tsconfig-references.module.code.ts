@@ -1,9 +1,9 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, posix } from "node:path"
+import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 import { isWhitespace } from "akasha/utils/narrow/is-whitespace/is-whitespace.module.code.ts"
 import ts from "typescript"
 import { z } from "zod"
-import { listWorkspaceDirs } from "../workspace-dirs/workspace-dirs.module.code.ts"
 
 const REFERENCE_SCHEMA = z.object({ path: z.string() }).passthrough()
 

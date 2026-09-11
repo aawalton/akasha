@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../../../../../pages/select-properties/select-property.page-type.types.ts"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const sortOrder = {
   id: "01a063bd-a526-7474-a7c9-3980d10c48b3",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const surplusReading = {
   id: "01a069bb-b921-759e-92f7-2095b2099a24",

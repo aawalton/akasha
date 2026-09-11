@@ -1,6 +1,6 @@
-import "../look/readout-look.stylesheet.styles.css"
+import "akasha/alan/harness/readouts/look/readout-look.stylesheet.styles.css"
+import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-scale.page-type.types.ts"
 import type { ReactElement } from "react"
-import type { ReadoutScale } from "../scales/readout-scale.page-type.types.ts"
 
 export type Rung = "black" | "red" | "orange" | "yellow" | "green" | "blue"
 

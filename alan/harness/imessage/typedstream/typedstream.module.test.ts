@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { decodeAttributedBody } from "./typedstream.module.code.ts"
+import { decodeAttributedBody } from "akasha/alan/harness/imessage/typedstream/typedstream.module.code.ts"
 import {
   ASCII_TEXT,
   LONG_TEXT,
@@ -9,7 +9,7 @@ import {
   shortBody,
   UNICODE_TEXT,
   UNREADABLE,
-} from "./typedstream.module.test-fixtures.ts"
+} from "akasha/alan/harness/imessage/typedstream/typedstream.module.test-fixtures.ts"
 
 describe("a body the reader can read", () => {
   for (const [name, body, expected] of READABLE) {

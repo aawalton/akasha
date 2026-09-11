@@ -1,10 +1,10 @@
 #!/usr/bin/env bun
 
-import { readFlags } from "../../rule-pages/monarch-rule-pages.module.code.ts"
-import { array, object } from "../../shape/monarch-shape.module.code.ts"
-import type { Proposal } from "../agent/monarch-eval-agent.module.code.ts"
-import { STRATA } from "../population/monarch-eval-population.module.code.ts"
-import type { RunFile } from "../run/monarch-eval-run.module.code.ts"
+import type { Proposal } from "akasha/alan/harness/monarch/eval/agent/monarch-eval-agent.module.code.ts"
+import { STRATA } from "akasha/alan/harness/monarch/eval/population/monarch-eval-population.module.code.ts"
+import type { RunFile } from "akasha/alan/harness/monarch/eval/run/monarch-eval-run.module.code.ts"
+import { readFlags } from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import { array, object } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
 
 type Confidence = Proposal["confidence"]
 const LEVELS: readonly Confidence[] = ["high", "medium", "low"]

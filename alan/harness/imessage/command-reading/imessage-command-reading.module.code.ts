@@ -1,23 +1,23 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
+import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
+import type { Contact } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import {
-  asJson,
-  told,
-} from "../../../../commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "../../../../commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Filing } from "../../../../commands/modules/filling/command-filling.module.code.ts"
-import { inputIn, type Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
-import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
-import type { Contact } from "../contacts-db/contacts-db.module.code.ts"
-import { buildNameIndex, handleKey } from "../contacts-db/contacts-db.module.code.ts"
+  buildNameIndex,
+  handleKey,
+} from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import {
   formatLocalMinute,
   messageLabel,
   type NameFor,
   nameFor,
   singleLine,
-} from "../message-lines/message-lines.module.code.ts"
+} from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
+import { asJson, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { Filing } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 
 export const JSON_SAID = "--json"
 

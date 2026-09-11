@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { rowFor } from "./readout-asking.module.code.ts"
-import { answering, refusing } from "./readout-asking.module.test-fixtures.ts"
+import { rowFor } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import {
+  answering,
+  refusing,
+} from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
 
 const NOTHING_ASKED = {}
 

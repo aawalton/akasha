@@ -1,10 +1,10 @@
-import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import {
   messageDate,
   orderNumberIn,
   parseCentsIn,
-} from "../amazon-order/monarch-amazon-order.module.code.ts"
-import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
+} from "akasha/alan/harness/monarch/amazon-order/monarch-amazon-order.module.code.ts"
+import type { EmailMessage } from "akasha/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 
 const TOTAL_REFUND = /Total refund\*?\s*\$([\d,]+(?:\.\d+)?)/
 

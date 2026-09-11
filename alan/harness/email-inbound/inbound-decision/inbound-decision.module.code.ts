@@ -1,4 +1,7 @@
-import type { Decision, InboundMessage } from "../inbound-message/inbound-message.module.code.ts"
+import type {
+  Decision,
+  InboundMessage,
+} from "akasha/alan/harness/email-inbound/inbound-message/inbound-message.module.code.ts"
 
 export function decide(input: InboundMessage): Decision {
   if (input.addressedAgentHandle !== undefined) {

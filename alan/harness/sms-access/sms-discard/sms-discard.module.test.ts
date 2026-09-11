@@ -4,7 +4,7 @@ import {
   discardNamed,
   recordSmsDiscard,
   SMS_DISCARD_PAGE_TYPE_SLUG,
-} from "./sms-discard.module.code.ts"
+} from "akasha/alan/harness/sms-access/sms-discard/sms-discard.module.code.ts"
 
 const DISCARDED_INBOUND = { sender: "+15550101234", reason: "unknown sender" }
 

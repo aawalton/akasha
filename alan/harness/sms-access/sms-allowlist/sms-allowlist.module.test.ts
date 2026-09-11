@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   loadSmsExternalIdentities,
   RELATIONSHIP_PAGE_TYPE_SLUG,
-} from "./sms-allowlist.module.code.ts"
+} from "akasha/alan/harness/sms-access/sms-allowlist/sms-allowlist.module.code.ts"
 
 describe("loadSmsExternalIdentities", () => {
   test("raises rather than answering that nobody may send", async () => {

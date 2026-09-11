@@ -1,9 +1,9 @@
-import type { SentenceMark } from "../mark-schema/mark-schema.module.code.ts"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import {
   buildKokoroSpeechInput,
   buildKokoroSpeechSegments,
   splitSentences,
-} from "../speech/speech.module.code.ts"
+} from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 
 function clamp01(x: number): number {
   return x < 0 ? 0 : x > 1 ? 1 : x

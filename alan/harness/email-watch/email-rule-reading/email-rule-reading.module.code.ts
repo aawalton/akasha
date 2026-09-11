@@ -1,14 +1,14 @@
 import { createRequire } from "node:module"
-import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { z } from "zod"
 import {
   type EmailRuleKind,
   ruleFolderIn,
   ruleKinds,
   ruleLocation,
   ruleTypeSlug,
-} from "../email-rule-set/email-rule-set.module.code.ts"
+} from "akasha/alan/harness/email-watch/email-rule-set/email-rule-set.module.code.ts"
+import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { z } from "zod"
 
 export type Action = "notify" | "unsubscribe"
 

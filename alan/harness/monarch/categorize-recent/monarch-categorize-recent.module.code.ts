@@ -1,16 +1,25 @@
 #!/usr/bin/env bun
 
-import { applyDecision } from "../apply/monarch-apply.module.code.ts"
-import type { HistoryRow } from "../history/monarch-history.module.code.ts"
-import { readNeighbourhood, readSince } from "../history/monarch-history.module.code.ts"
-import { loadCategoryRules } from "../rule-documents/monarch-rule-documents.module.code.ts"
-import { categoryTitles, readFlags } from "../rule-pages/monarch-rule-pages.module.code.ts"
-import { clausesMatch, decide } from "../rules/monarch-rules.module.code.ts"
+import { applyDecision } from "akasha/alan/harness/monarch/apply/monarch-apply.module.code.ts"
+import type { HistoryRow } from "akasha/alan/harness/monarch/history/monarch-history.module.code.ts"
+import {
+  readNeighbourhood,
+  readSince,
+} from "akasha/alan/harness/monarch/history/monarch-history.module.code.ts"
+import { loadCategoryRules } from "akasha/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts"
+import {
+  categoryTitles,
+  readFlags,
+} from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import {
+  clausesMatch,
+  decide,
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 import {
   answered,
   UNATTENDED_DAYS,
   unattendedFrom,
-} from "../transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export interface CategorizeTally {
   readonly set: number

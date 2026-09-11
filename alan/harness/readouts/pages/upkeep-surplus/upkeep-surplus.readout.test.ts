@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { fallsPerHourIn, heldNothing, surplusIn } from "./upkeep-surplus.readout.code.ts"
+import {
+  fallsPerHourIn,
+  heldNothing,
+  surplusIn,
+} from "akasha/alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
 
 const stretch = (safety: string, difficulty: string, endTime?: string) => ({
   startTime: "2026-08-31T12:00:00.000Z",

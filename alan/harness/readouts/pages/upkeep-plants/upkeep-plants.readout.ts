@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.types.ts"
+import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.types.ts"
 
 export const upkeepPlants = {
   id: "01a06221-d65f-79f1-86c6-ac9568df5717",

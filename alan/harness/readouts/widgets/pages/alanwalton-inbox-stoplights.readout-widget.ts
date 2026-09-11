@@ -1,4 +1,4 @@
-import type { ReadoutWidget } from "../readout-widget.page-type.types.ts"
+import type { ReadoutWidget } from "akasha/alan/harness/readouts/widgets/readout-widget.page-type.types.ts"
 
 export const alanwaltonInboxStoplights = {
   id: "01a06420-b259-7991-800b-7019c1efb1c2",

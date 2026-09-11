@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const supabaseAuth = {
   id: "01a05c6d-3507-7082-9e71-8c024f532b00",

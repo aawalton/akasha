@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rules/codes/category-rule-code.page-type.types.ts"
 
 export const appleOther = {
   id: "01a0655b-fccf-7009-ad67-36ad2415b608",

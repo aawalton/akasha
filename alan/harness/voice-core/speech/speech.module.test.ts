@@ -8,13 +8,13 @@ import {
   packSegments,
   planSpeechSegments,
   splitSentences,
-} from "./speech.module.code.ts"
+} from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 import {
   giantSingleSentence,
   longMultiSegmentText,
   packedAlphaText,
   pathologicalWord,
-} from "./speech.module.test-fixtures.ts"
+} from "akasha/alan/harness/voice-core/speech/speech.module.test-fixtures.ts"
 
 describe("splitSentences", () => {
   test("cuts at a stop followed by space", () => {

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const monarchAmazonRefund = {
   id: "01a06863-ac0c-71ae-9a80-431ca793b133",

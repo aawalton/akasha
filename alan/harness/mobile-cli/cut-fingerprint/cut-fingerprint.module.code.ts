@@ -21,6 +21,10 @@ const PUT = "change-mechanical-file/add-file"
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 
+const MOBILE_CUTS_AT = "akasha/alan/harness/mobile-cli/mobile-cuts"
+
+const CUT_TYPES_AT = `${MOBILE_CUTS_AT}/${MOBILE_CUT_PAGE_TYPE_SLUG}.page-type.types.ts`
+
 export class CutsUnread extends Error {
   readonly at: string
   constructor(at: string, why: string) {
@@ -143,7 +147,7 @@ export function fingerprintOf(values: z.infer<typeof cutFingerprintValues>): Cut
 export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
   const slug = cutPageNameFor(appSlug, fp.buildNumber)
   return [
-    `import type { MobileCut } from "../../${MOBILE_CUT_PAGE_TYPE_SLUG}.page-type.types.ts"`,
+    `import type { MobileCut } from "${CUT_TYPES_AT}"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,

@@ -1,16 +1,22 @@
 #!/usr/bin/env bun
 
-import { candidateRule } from "../candidate/monarch-candidate.module.code.ts"
-import { readHistory } from "../history/monarch-history.module.code.ts"
-import type { Proposal } from "../report/monarch-report.module.code.ts"
-import { report } from "../report/monarch-report.module.code.ts"
+import { candidateRule } from "akasha/alan/harness/monarch/candidate/monarch-candidate.module.code.ts"
+import { readHistory } from "akasha/alan/harness/monarch/history/monarch-history.module.code.ts"
+import type { Proposal } from "akasha/alan/harness/monarch/report/monarch-report.module.code.ts"
+import { report } from "akasha/alan/harness/monarch/report/monarch-report.module.code.ts"
 import {
   loadCategoryRules,
   ruleFolder,
-} from "../rule-documents/monarch-rule-documents.module.code.ts"
-import { categoryTitles, readFlags } from "../rule-pages/monarch-rule-pages.module.code.ts"
-import type { Rule } from "../rules/monarch-rules.module.code.ts"
-import { decide, neighbourhoods } from "../rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts"
+import {
+  categoryTitles,
+  readFlags,
+} from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import {
+  decide,
+  neighbourhoods,
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 
 const DEFAULT_LIMIT = 30
 

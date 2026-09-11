@@ -1,4 +1,4 @@
-import type { MobileCut } from "../../mobile-cut.page-type.types.ts"
+import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cuts/mobile-cut.page-type.types.ts"
 
 export const alanwalton210 = {
   id: "01a08ccd-1bb6-7000-a996-6431edde8496",

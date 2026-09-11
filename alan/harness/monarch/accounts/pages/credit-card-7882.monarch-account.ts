@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
+import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarch-account.page-type.types.ts"
 
 export const creditCard7882 = {
   id: "01a06559-5ea8-700e-941a-6570456197df",

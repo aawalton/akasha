@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rules/codes/category-rule-code.page-type.types.ts"
 
 export const grandviewFamilyMedicine = {
   id: "01a0655b-fcd0-7018-b77b-b9feb9d69b89",

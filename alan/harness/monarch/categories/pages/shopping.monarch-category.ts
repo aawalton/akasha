@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
+import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/monarch-category.page-type.types.ts"
 
 export const shopping = {
   id: "01a06559-5ea9-7003-8658-3117b67f72f1",

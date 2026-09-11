@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 import { z } from "zod"
-import { listWorkspaceDirs } from "../workspace-dirs/workspace-dirs.module.code.ts"
 
 const WORKSPACE_MANIFEST_SCHEMA = z
   .object({

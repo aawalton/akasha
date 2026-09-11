@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { multiplierIn } from "./cost-multiplier.readout.code.ts"
+import { multiplierIn } from "akasha/alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.code.ts"
 
 test("the reading is the multiplier the block's safety and difficulty price it at", () => {
   expect(multiplierIn({ safetyLevel: "3", difficultyLevel: "2" })).toBe(0)

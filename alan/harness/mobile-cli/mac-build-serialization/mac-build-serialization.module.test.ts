@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { resolveApp } from "../mobile-app/mobile-app.module.code.ts"
 import {
   BUILD_NUMBER_MARKER_PREFIX,
   buildAcquireMacBuildLock,
@@ -7,7 +6,8 @@ import {
   buildReleaseMacBuildLock,
   buildReserveBuildNumber,
   parseAssignedBuildNumber,
-} from "./mac-build-serialization.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/mac-build-serialization/mac-build-serialization.module.code.ts"
+import { resolveApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 
 const APP = resolveApp()
 const MAC_BUILD_LOCK_DIR = APP.macBuildLockDir

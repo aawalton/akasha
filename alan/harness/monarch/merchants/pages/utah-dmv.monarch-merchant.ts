@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
+import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/monarch-merchant.page-type.types.ts"
 
 export const utahDmv = {
   id: "01a0655b-fcdc-702f-be69-02ed94bfb2c9",

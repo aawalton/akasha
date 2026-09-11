@@ -1,17 +1,20 @@
 import { randomUUID } from "node:crypto"
 import { getEsoDayStrAt } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { sampleIdentity } from "akasha/alan/harness/health-samples-access/sample-identity/sample-identity.module.code.ts"
+import {
+  numberAt,
+  textAt,
+} from "akasha/alan/harness/health-samples-access/sample-rows/sample-rows.module.code.ts"
+import { sampleRowsIn } from "akasha/alan/harness/health-samples-access/sample-selecting/sample-selecting.module.code.ts"
+import type {
+  HealthSample,
+  HealthSampleWriteReport,
+} from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import {
   readingFor,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
-import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
-import { numberAt, textAt } from "../sample-rows/sample-rows.module.code.ts"
-import { sampleRowsIn } from "../sample-selecting/sample-selecting.module.code.ts"
-import type {
-  HealthSample,
-  HealthSampleWriteReport,
-} from "../sample-shape/sample-shape.module.code.ts"
 
 const EMPTY_REPORT: HealthSampleWriteReport = {
   received: 0,

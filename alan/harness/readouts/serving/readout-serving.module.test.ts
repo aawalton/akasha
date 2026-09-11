@@ -1,14 +1,17 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { RING_CREDENTIAL_HEADER } from "../credential/readout-credential.module.code.ts"
-import { dropRelayed, holdRelayed } from "../relay/readout-relay.module.code.ts"
-import { relayedFor } from "../relay/readout-relay.module.test-fixtures.ts"
+import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
+import {
+  dropRelayed,
+  holdRelayed,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import {
   answerReadout,
   answerReadoutAdmittedBy,
   readingHeldOn,
   relayedFresh,
-} from "./readout-serving.module.code.ts"
+} from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const CREDENTIAL = "a-ring-credential-named-only-in-this-test"
 

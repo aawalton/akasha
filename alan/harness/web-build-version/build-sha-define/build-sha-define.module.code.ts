@@ -1,5 +1,8 @@
+import {
+  BUILD_SHA_ENV_NAME,
+  parseBuildSha,
+} from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
-import { BUILD_SHA_ENV_NAME, parseBuildSha } from "../build-sha/build-sha.module.code.ts"
 
 export type BuildShaDefine = Record<string, string>
 

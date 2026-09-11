@@ -4,12 +4,12 @@ import type {
   Mailbox,
   Message,
 } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+import { decide } from "akasha/alan/harness/email-watch/email-rule-deciding/email-rule-deciding.module.code.ts"
+import type { Rule } from "akasha/alan/harness/email-watch/email-rule-reading/email-rule-reading.module.code.ts"
+import { rulesOf } from "akasha/alan/harness/email-watch/email-rule-reading/email-rule-reading.module.code.ts"
 import { personOr } from "akasha/persons/person-reading/person-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
-import { decide } from "../email-rule-deciding/email-rule-deciding.module.code.ts"
-import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
-import { rulesOf } from "../email-rule-reading/email-rule-reading.module.code.ts"
 
 const STATE_DIR = `${optionalEnv("HOME") ?? "/nonexistent"}/.local/state/alan-email`
 const STATE_FILE = `${STATE_DIR}/state.json`

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { NO_SECRET_TO_CARRY_ON } from "../relay/readout-relay.module.code.ts"
+import { NO_SECRET_TO_CARRY_ON } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import {
   foldersOf,
   holdsAny,
@@ -8,7 +8,7 @@ import {
   valuesOf,
   type WatchedReadout,
   type WatchSetup,
-} from "./readout-watching.module.code.ts"
+} from "akasha/alan/harness/readouts/watching/readout-watching.module.code.ts"
 
 const ROOT = "/nowhere"
 

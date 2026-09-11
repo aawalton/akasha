@@ -1,5 +1,14 @@
 import { join } from "node:path"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import {
+  pollTaskCounts,
+  type TaskCounts,
+} from "akasha/alan/harness/inboxes/count-polling/inbox-count-polling.module.code.ts"
+import { persistInboxCounts } from "akasha/alan/harness/inboxes/count-writing/inbox-count-writing.module.code.ts"
+import {
+  tasksPage,
+  temperTasksPage,
+} from "akasha/alan/harness/inboxes/reading/inbox-reading.module.code.ts"
 import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,
@@ -16,13 +25,7 @@ import {
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import {
-  pollTaskCounts,
-  type TaskCounts,
-} from "../count-polling/inbox-count-polling.module.code.ts"
-import { persistInboxCounts } from "../count-writing/inbox-count-writing.module.code.ts"
-import { tasksPage, temperTasksPage } from "../reading/inbox-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
 

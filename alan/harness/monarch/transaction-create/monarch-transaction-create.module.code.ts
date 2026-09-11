@@ -1,6 +1,12 @@
-import { monarchQuery, refused } from "../client/monarch-client.module.code.ts"
-import { setTransactionTags, withAiTag } from "../notes-write/monarch-notes-write.module.code.ts"
-import { object, str } from "../shape/monarch-shape.module.code.ts"
+import {
+  monarchQuery,
+  refused,
+} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import {
+  setTransactionTags,
+  withAiTag,
+} from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
+import { object, str } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
 
 const CREATE_TRANSACTION = `mutation Common_CreateTransactionMutation($input: CreateTransactionMutationInput!) {
   createTransaction(input: $input) {

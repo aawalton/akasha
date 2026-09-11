@@ -2,21 +2,23 @@ import {
   InputError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { ALTOOL_MARKERS, testflightFailureError } from "../altool/altool.module.code.ts"
+import {
+  ALTOOL_MARKERS,
+  testflightFailureError,
+} from "akasha/alan/harness/mobile-cli/altool/altool.module.code.ts"
 import {
   createAscJwtSource,
   fetchInternalBuildState,
   fetchLatestBuild,
   fetchMaxBuildVersion,
   resolveAppId,
-} from "../asc-client/asc-client.module.code.ts"
-import { buildInputSources } from "../build-input-sources/build-input-sources.module.code.ts"
-import { STAMP_GATE_OK } from "../build-stamp-gate/build-stamp-gate.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
+import { buildInputSources } from "akasha/alan/harness/mobile-cli/build-input-sources/build-input-sources.module.code.ts"
+import { STAMP_GATE_OK } from "akasha/alan/harness/mobile-cli/build-stamp-gate/build-stamp-gate.module.code.ts"
 import {
   type CutFingerprint,
   recordCutFingerprint,
-} from "../cut-fingerprint/cut-fingerprint.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   KEYCHAIN_PASSWORD_SSH_ENV,
   readNativeShellApsEnv,
@@ -24,20 +26,26 @@ import {
   readNativeShellKokoroTtsEnv,
   readNativeShellWidgetEnv,
   readRingCredentialFor,
-} from "../foundation/foundation.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
 import {
   commitAt,
   computeBuildInputTreeHash,
   fetchOrigin,
   originReaches,
   resolveRepoRoot,
-} from "../git-tree-hash/git-tree-hash.module.code.ts"
-import { parseAssignedBuildNumber } from "../mac-build-serialization/mac-build-serialization.module.code.ts"
-import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
-import { type MobileApp, shellRepoRoot } from "../mobile-app/mobile-app.module.code.ts"
-import { rsyncToHost, runSshResult } from "../mobile-ssh/mobile-ssh.module.code.ts"
-import { simRunSharedRepoPaths } from "../sim-run-tree/sim-run-tree.module.code.ts"
-import { buildTestflightDeployScript } from "../testflight-deploy-script/testflight-deploy-script.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
+import { parseAssignedBuildNumber } from "akasha/alan/harness/mobile-cli/mac-build-serialization/mac-build-serialization.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
+import {
+  type MobileApp,
+  shellRepoRoot,
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  rsyncToHost,
+  runSshResult,
+} from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
+import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {
   describeProcessingFailure,
   POLL_INTERVAL_MS,
@@ -46,8 +54,12 @@ import {
   pollUntilTesterVisible,
   VISIBILITY_TIMEOUT_MS,
   visibilityFailureFor,
-} from "../testflight-poll/testflight-poll.module.code.ts"
-import { buildWwwAt, type WwwBuildResult } from "../www-build/www-build.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/testflight-poll/testflight-poll.module.code.ts"
+import {
+  buildWwwAt,
+  type WwwBuildResult,
+} from "akasha/alan/harness/mobile-cli/www-build/www-build.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 export type Say = (text: string) => void
 

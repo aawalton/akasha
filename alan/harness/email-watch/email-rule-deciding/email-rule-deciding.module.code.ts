@@ -1,11 +1,11 @@
 import type { Message } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+import type { Rule } from "akasha/alan/harness/email-watch/email-rule-reading/email-rule-reading.module.code.ts"
+import { EMAIL_RULE_SET } from "akasha/alan/harness/email-watch/email-rule-set/email-rule-set.module.code.ts"
 import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 import {
   type Case,
   matches as matchesIn,
 } from "akasha/alan/harness/rules-engine/rule-partition/rule-partition.module.code.ts"
-import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
-import { EMAIL_RULE_SET } from "../email-rule-set/email-rule-set.module.code.ts"
 
 export function caseOf(message: Message): Case {
   return {

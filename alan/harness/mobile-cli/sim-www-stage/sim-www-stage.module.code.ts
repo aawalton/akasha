@@ -4,14 +4,14 @@ import {
   InputError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { said, shown } from "akasha/utils/run/running/running.module.code.ts"
 import {
   type MobileApp,
   shellRepoPath,
   shellRepoRoot,
   splitRepoPath,
   stagedWwwRepoPath,
-} from "../mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { said, shown } from "akasha/utils/run/running/running.module.code.ts"
 
 export const SPA_SOURCE_VAR = "NATIVE_SHELL_SPA_SOURCE_DIR"
 

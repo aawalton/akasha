@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const recurrence = {
   id: "01a05c6f-c7c2-7806-b684-baa6549863dc",

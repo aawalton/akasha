@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rules/codes/category-rule-code.page-type.types.ts"
 
 export const unstatedOtherAccount = {
   id: "01a0655b-fcdb-7000-8f2f-924c8ed5c3c2",

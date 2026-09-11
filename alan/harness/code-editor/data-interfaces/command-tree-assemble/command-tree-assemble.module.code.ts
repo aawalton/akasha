@@ -1,12 +1,12 @@
-import { championTree } from "../../../../../code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
-import { domainRowsIn } from "../../../../../commands/pages/domain/tree/domain-tree.command.code.ts"
-import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
+import { championTree } from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+import { domainRowsIn } from "akasha/commands/pages/domain/tree/domain-tree.command.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   readingIn,
   typeSlugById,
   valuesOfType,
-} from "../../../../../pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "../../../../../pages/value/page-value.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"

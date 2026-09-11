@@ -3,7 +3,7 @@ import {
   estimateChapterSentenceMarks,
   estimateChapterSentenceMarksFromN,
   estimateSentenceMarks,
-} from "./estimate-marks.module.code.ts"
+} from "akasha/alan/harness/voice-core/estimate-marks/estimate-marks.module.code.ts"
 
 describe("estimateSentenceMarks", () => {
   test("answers nothing where the durations do not match the pieces", () => {

@@ -4,7 +4,7 @@ import {
   amountListFrom,
   checkedAmountClause,
   describeAmountClause,
-} from "./monarch-rule-amounts.module.code.ts"
+} from "akasha/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.code.ts"
 
 const clause = (is: number[], isNot: number[] = []) => ({ amountIs: is, amountIsNot: isNot })
 

@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../email-rule-code.page-type.types.ts"
+import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/codes/email-rule-code.page-type.types.ts"
 
 export const newDeviceNoticesInfo = {
   id: "01a06860-54a2-7487-9ecc-4b5837e657e0",

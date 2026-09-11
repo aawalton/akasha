@@ -1,5 +1,5 @@
+import type { EmailMessage } from "akasha/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
-import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
 
 const MONEY = /([\d,]+(?:\.\d+)?)\s*USD/
 

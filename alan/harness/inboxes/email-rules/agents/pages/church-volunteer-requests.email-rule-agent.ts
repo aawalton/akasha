@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/agents/email-rule-agent.page-type.types.ts"
 
 export const churchVolunteerRequests = {
   id: "01a06863-fbe8-7b79-8976-f751b06848ea",

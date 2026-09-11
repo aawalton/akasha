@@ -1,16 +1,16 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
+  daysCounted,
+  daysMessaged,
+  daysOn,
+  sentOver,
+} from "akasha/alan/track/daily/day-messages-totalling/day-messages-totalling.module.code.ts"
+import {
   keepPoints,
   pointsIn,
 } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import {
-  daysCounted,
-  daysMessaged,
-  daysOn,
-  sentOver,
-} from "../../track/daily/day-messages-totalling/day-messages-totalling.module.code.ts"
 
 const NO_PERSONA = "no persona is filed under this name, so her count is counted against nobody"
 

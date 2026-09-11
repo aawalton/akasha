@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { wisdomIn } from "../../../attributes/pages/wisdom/wisdom.attribute.code.ts"
+import { wisdomIn } from "akasha/alan/attributes/pages/wisdom/wisdom.attribute.code.ts"
 import {
   ATTRIBUTES_COUNTED_FROM,
   charismaOf,
   type Day,
   daysCounted,
   totalOver,
-} from "./attributes-totalling.module.code.ts"
+} from "akasha/alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
 
 const AT_EASE_WITH_SOMEONE = {
   safetyLevel: "3",

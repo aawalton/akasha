@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const newYorkWall = {
   id: "01a05c77-31e7-7e71-b8da-309299271cd1",

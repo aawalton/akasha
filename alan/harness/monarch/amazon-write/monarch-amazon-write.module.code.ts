@@ -1,14 +1,14 @@
-import type { Movement } from "../amazon-match/monarch-amazon-match.module.code.ts"
-import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
-import { findTransaction } from "../files/monarch-files.module.code.ts"
-import { patchTransactionLines } from "../land-files/monarch-land-files.module.code.ts"
-import type { FetchDay } from "../notes-write/monarch-notes-write.module.code.ts"
+import type { Movement } from "akasha/alan/harness/monarch/amazon-match/monarch-amazon-match.module.code.ts"
+import type { MonarchTransaction } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { findTransaction } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { patchTransactionLines } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
+import type { FetchDay } from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
 import {
   AI_TAG_ID,
   liveTransaction,
   mayWriteNotes,
   writeNoteIfEmpty,
-} from "../notes-write/monarch-notes-write.module.code.ts"
+} from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
 
 export const AMAZON_SINCE = "2025-01-01"
 

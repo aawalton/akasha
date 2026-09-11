@@ -1,9 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { isCoveredByWorkspaceGlob, listWorkspaceDirs } from "./workspace-dirs.module.code.ts"
-import { packageAt } from "./workspace-dirs.module.test-fixtures.ts"
+import {
+  isCoveredByWorkspaceGlob,
+  listWorkspaceDirs,
+} from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
+import { packageAt } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

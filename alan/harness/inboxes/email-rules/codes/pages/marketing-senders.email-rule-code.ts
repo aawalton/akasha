@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../email-rule-code.page-type.types.ts"
+import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/codes/email-rule-code.page-type.types.ts"
 
 export const marketingSenders = {
   id: "01a06860-54a2-7b07-8558-6dc9a9684e60",

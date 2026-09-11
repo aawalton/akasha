@@ -1,4 +1,4 @@
-import type { SshTarget } from "../mobile-ssh/mobile-ssh.module.code.ts"
+import type { SshTarget } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 
 export const MACBOOK: SshTarget = {
   user: "walton",

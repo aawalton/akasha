@@ -1,4 +1,4 @@
-import type { MonarchMonth } from "../../monarch-month.page-type.types.ts"
+import type { MonarchMonth } from "akasha/alan/harness/monarch/months/monarch-month.page-type.types.ts"
 
 export const month202310 = {
   id: "01a06559-5eb5-7000-adfa-4ba2e15fa699",

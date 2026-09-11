@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/agents/email-rule-agent.page-type.types.ts"
 
 export const bettermentOther = {
   id: "01a06863-fbe8-7cc6-a93a-02ba58f523b8",

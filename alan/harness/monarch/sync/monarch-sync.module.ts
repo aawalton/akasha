@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const monarchSync = {
   id: "01a06868-1536-78a0-ac3e-855101a65f64",

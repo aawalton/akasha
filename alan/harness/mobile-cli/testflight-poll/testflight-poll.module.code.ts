@@ -1,5 +1,5 @@
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { LatestBuild } from "../asc-client/asc-client.module.code.ts"
+import type { LatestBuild } from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const POLL_INTERVAL_MS = 30_000
 export const POLL_TIMEOUT_MS = 30 * 60_000

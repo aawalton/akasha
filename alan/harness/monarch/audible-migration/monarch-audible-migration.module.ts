@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const monarchAudibleMigration = {
   id: "01a06866-06f1-7168-a141-d8d56c28cd00",

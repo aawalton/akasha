@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import type { SmsRouteDecision } from "../sms-identity/sms-identity.module.code.ts"
-import type { TelnyxInboundSms } from "../telnyx-inbound/telnyx-inbound.module.code.ts"
 import {
   formatRefusalNotice,
   formatSmsSurface,
   inboundToCommsInput,
-} from "./normalize.module.code.ts"
+} from "akasha/alan/harness/sms-core/normalize/normalize.module.code.ts"
+import type { SmsRouteDecision } from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
+import type { TelnyxInboundSms } from "akasha/alan/harness/sms-core/telnyx-inbound/telnyx-inbound.module.code.ts"
 
 function sms(text: string): TelnyxInboundSms {
   return {

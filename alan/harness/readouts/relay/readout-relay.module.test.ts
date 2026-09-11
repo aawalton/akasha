@@ -1,8 +1,7 @@
 import { afterAll, beforeEach, expect, test } from "bun:test"
 import { realpathSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
+import { RELAY_SECRET_HEADER } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   dropRelayed,
   holdRelayed,
@@ -17,7 +16,8 @@ import {
   relayReading,
   type Sent,
   statedIn,
-} from "./readout-relay.module.code.ts"
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const READOUT = "monarch-unreviewed-transactions"
 

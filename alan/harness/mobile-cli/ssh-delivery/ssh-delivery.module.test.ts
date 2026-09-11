@@ -6,7 +6,7 @@ import {
   SSH_KEEPALIVE_COUNT_MAX,
   SSH_KEEPALIVE_INTERVAL_SECONDS,
   sshConnectionOptions,
-} from "./ssh-delivery.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/ssh-delivery/ssh-delivery.module.code.ts"
 
 describe("sshConnectionOptions", () => {
   const opts = sshConnectionOptions()

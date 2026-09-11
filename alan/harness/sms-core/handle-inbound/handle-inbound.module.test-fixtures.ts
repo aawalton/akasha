@@ -1,10 +1,10 @@
-import type { DiscardedInbound } from "../normalize/normalize.module.code.ts"
-import { bytesToBase64 } from "../verify-signature/verify-signature.module.test-fixtures.ts"
 import type {
   DeliverEffect,
   DeliveryKind,
   RecordDiscardEffect,
-} from "./handle-inbound.module.code.ts"
+} from "akasha/alan/harness/sms-core/handle-inbound/handle-inbound.module.code.ts"
+import type { DiscardedInbound } from "akasha/alan/harness/sms-core/normalize/normalize.module.code.ts"
+import { bytesToBase64 } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.test-fixtures.ts"
 
 function toKeyPair(key: CryptoKey | CryptoKeyPair): CryptoKeyPair {
   if ("privateKey" in key) return key

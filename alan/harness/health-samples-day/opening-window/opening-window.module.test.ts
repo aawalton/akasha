@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   dayAfter,
   openingInstantFromBlocks,
   openingWindowIn,
   sleepBlocksOn,
   spannedWindowIn,
-} from "./opening-window.module.code.ts"
+} from "akasha/alan/harness/health-samples-day/opening-window/opening-window.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

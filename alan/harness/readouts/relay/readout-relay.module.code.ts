@@ -1,10 +1,14 @@
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
+import { RELAY_SECRET_HEADER } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
+import {
+  NOT_FALLING,
+  type Reading,
+  readingKept,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { z } from "zod"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
-import { NOT_FALLING, type Reading, readingKept } from "../reading/readout-reading.module.code.ts"
 
 export const RELAY_PATH = "/api/readout-relay"
 

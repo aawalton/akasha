@@ -1,12 +1,10 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { AKASHA as AKASHA_REPO } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
-import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
-import type { PageFile, TransactionLine } from "../files/monarch-files.module.code.ts"
+import type { MonarchTransaction } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import type {
+  PageFile,
+  TransactionLine,
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import {
   AKASHA,
   accountPages,
@@ -18,7 +16,12 @@ import {
   parseTransactionLine,
   sidecarOf,
   tagPages,
-} from "../files/monarch-files.module.code.ts"
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { AKASHA as AKASHA_REPO } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 
 const PUT = "change-mechanical-file/add-if-not-present-file"
 

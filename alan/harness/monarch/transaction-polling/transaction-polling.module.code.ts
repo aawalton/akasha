@@ -1,4 +1,4 @@
-import { pollTransactions } from "../poll/monarch-poll.module.code.ts"
+import { pollTransactions } from "akasha/alan/harness/monarch/poll/monarch-poll.module.code.ts"
 
 async function main(argv: readonly string[]): Promise<number> {
   await pollTransactions({ verbose: argv.includes("--verbose") })

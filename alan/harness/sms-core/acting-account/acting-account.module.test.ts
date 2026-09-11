@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { extractActingAccountUserId } from "./acting-account.module.code.ts"
+import { extractActingAccountUserId } from "akasha/alan/harness/sms-core/acting-account/acting-account.module.code.ts"
 
 const ACCOUNT = "3f1c2b4a-5d6e-4f70-8192-a3b4c5d6e7f8"
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const treeDrawing = {
   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",

@@ -2,12 +2,15 @@ import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.cod
 import {
   type PollLogger,
   pollInboxCounts,
-} from "../count-polling/inbox-count-polling.module.code.ts"
+} from "akasha/alan/harness/inboxes/count-polling/inbox-count-polling.module.code.ts"
 import {
   type PersistOutcome,
   persistInboxCounts,
-} from "../count-writing/inbox-count-writing.module.code.ts"
-import { INBOX_KEYS, type InboxKey } from "../keys/inbox-keys.module.code.ts"
+} from "akasha/alan/harness/inboxes/count-writing/inbox-count-writing.module.code.ts"
+import {
+  INBOX_KEYS,
+  type InboxKey,
+} from "akasha/alan/harness/inboxes/keys/inbox-keys.module.code.ts"
 
 export interface PollAndPersistSummary {
   readonly day: string

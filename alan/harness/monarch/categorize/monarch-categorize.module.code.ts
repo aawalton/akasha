@@ -1,16 +1,23 @@
 #!/usr/bin/env bun
 
-import { monarchClient, monarchQuery } from "../client/monarch-client.module.code.ts"
-import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
-import type { TransactionLine } from "../files/monarch-files.module.code.ts"
-import { categoryPages, findTransaction, keyOf } from "../files/monarch-files.module.code.ts"
-import { patchTransactionLines } from "../land-files/monarch-land-files.module.code.ts"
+import {
+  monarchClient,
+  monarchQuery,
+} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
+import type { TransactionLine } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import {
+  categoryPages,
+  findTransaction,
+  keyOf,
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { patchTransactionLines } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
 import {
   liveTransaction,
   setTransactionTags,
   withAiTag,
-} from "../notes-write/monarch-notes-write.module.code.ts"
-import { object, str } from "../shape/monarch-shape.module.code.ts"
+} from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
+import { object, str } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
 
 const UPDATE_TRANSACTION = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {
@@ -50,8 +57,8 @@ async function postCategory(
 import type {
   CategoryDecision,
   DecidedSource,
-} from "../provenance/monarch-provenance.module.code.ts"
-import { recordDecision } from "../provenance/monarch-provenance.module.code.ts"
+} from "akasha/alan/harness/monarch/provenance/monarch-provenance.module.code.ts"
+import { recordDecision } from "akasha/alan/harness/monarch/provenance/monarch-provenance.module.code.ts"
 
 const SOURCES: readonly DecidedSource[] = [
   "programmatic-categorization",

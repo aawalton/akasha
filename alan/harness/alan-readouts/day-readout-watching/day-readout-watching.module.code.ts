@@ -1,8 +1,33 @@
 import { join } from "node:path"
 import {
+  CHARISMA_PAGE,
+  CONSTITUTION_PAGE,
+  ENDURANCE_PAGE,
+  INTELLIGENCE_PAGE,
+  STRENGTH_PAGE,
+  takeReadings as takeAttributes,
+  WISDOM_PAGE,
+} from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
+import {
+  READOUT_SLUG as CAPACITY_SLUG,
+  takeReading as takeCapacity,
+} from "akasha/alan/harness/capacity/reading/capacity-reading.module.code.ts"
+import {
+  READOUT_SLUG as COST_SLUG,
+  takeReading as takeCost,
+} from "akasha/alan/harness/cost/reading/cost-reading.module.code.ts"
+import {
   getEsoDayStr,
   getEsoDayWindow,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import {
+  takeReadings as takeInboxes,
+  tasksPage,
+} from "akasha/alan/harness/inboxes/reading/inbox-reading.module.code.ts"
+import {
+  READOUT_SLUG as PLANTS_SLUG,
+  takeReading as takePlants,
+} from "akasha/alan/harness/plants/reading/plants-reading.module.code.ts"
 import {
   keepSilence,
   readoutPage,
@@ -15,6 +40,19 @@ import {
   watchReadings,
 } from "akasha/alan/harness/readouts/watching/readout-watching.module.code.ts"
 import {
+  READOUT_SLUG as SAFETY_SLUG,
+  takeReading as takeSafety,
+} from "akasha/alan/harness/safety/reading/safety-reading.module.code.ts"
+import {
+  READOUT_SLUG as SLEEP_SLUG,
+  takeReading as takeSleep,
+} from "akasha/alan/harness/sleep/reading/sleep-reading.module.code.ts"
+import {
+  READOUT_SLUG as SURPLUS_SLUG,
+  takeReading as takeSurplus,
+} from "akasha/alan/harness/surplus/reading/surplus-reading.module.code.ts"
+import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
+import {
   AKASHA,
   resolveRoots,
   rootFor,
@@ -22,44 +60,6 @@ import {
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
-import { DAY_PAGE_TYPE } from "../../../track/daily/day-place/day-place.module.code.ts"
-import {
-  CHARISMA_PAGE,
-  CONSTITUTION_PAGE,
-  ENDURANCE_PAGE,
-  INTELLIGENCE_PAGE,
-  STRENGTH_PAGE,
-  takeReadings as takeAttributes,
-  WISDOM_PAGE,
-} from "../../attributes/reading/attributes-reading.module.code.ts"
-import {
-  READOUT_SLUG as CAPACITY_SLUG,
-  takeReading as takeCapacity,
-} from "../../capacity/reading/capacity-reading.module.code.ts"
-import {
-  READOUT_SLUG as COST_SLUG,
-  takeReading as takeCost,
-} from "../../cost/reading/cost-reading.module.code.ts"
-import {
-  takeReadings as takeInboxes,
-  tasksPage,
-} from "../../inboxes/reading/inbox-reading.module.code.ts"
-import {
-  READOUT_SLUG as PLANTS_SLUG,
-  takeReading as takePlants,
-} from "../../plants/reading/plants-reading.module.code.ts"
-import {
-  READOUT_SLUG as SAFETY_SLUG,
-  takeReading as takeSafety,
-} from "../../safety/reading/safety-reading.module.code.ts"
-import {
-  READOUT_SLUG as SLEEP_SLUG,
-  takeReading as takeSleep,
-} from "../../sleep/reading/sleep-reading.module.code.ts"
-import {
-  READOUT_SLUG as SURPLUS_SLUG,
-  takeReading as takeSurplus,
-} from "../../surplus/reading/surplus-reading.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/days/pages"
 

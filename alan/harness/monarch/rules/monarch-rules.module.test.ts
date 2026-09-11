@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
-import type { Subject } from "../transaction/monarch-transaction.module.code.ts"
-import type { Decision, Rule } from "./monarch-rules.module.code.ts"
+import type { Decision, Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 import {
   bearsOn,
   clausesMatch,
   decide,
   neighbourhoodIn,
   neighbourhoods,
-} from "./monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Subject } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 const CARD = "Costco Anywhere Visa Card by Citi (...1425)"
 const CARD_AGAIN = "Costco Anywhere Visa Card by Citi-1425 (...1425)"

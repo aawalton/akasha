@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const laptopHost = {
   id: "01a05c14-b119-7003-ac6e-29f5219a020b",

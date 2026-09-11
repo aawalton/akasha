@@ -4,16 +4,16 @@ import {
   formatSmsSurface,
   inboundToCommsInput,
   type RefusedInbound,
-} from "../normalize/normalize.module.code.ts"
+} from "akasha/alan/harness/sms-core/normalize/normalize.module.code.ts"
 import {
   decideSmsRoute,
   type SmsExternalIdentity,
-} from "../sms-identity/sms-identity.module.code.ts"
+} from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
 import {
   extractInboundSms,
   telnyxWebhookSchema,
-} from "../telnyx-inbound/telnyx-inbound.module.code.ts"
-import { verifyTelnyxSignature } from "../verify-signature/verify-signature.module.code.ts"
+} from "akasha/alan/harness/sms-core/telnyx-inbound/telnyx-inbound.module.code.ts"
+import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.code.ts"
 
 const ALAN_HANDLER_SEAT = "alan"
 

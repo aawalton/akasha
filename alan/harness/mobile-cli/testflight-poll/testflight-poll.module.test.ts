@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { z } from "zod"
-import type { LatestBuild } from "../asc-client/asc-client.module.code.ts"
+import type { LatestBuild } from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
 import {
   classifyInternalBuildState,
   classifyProcessingState,
@@ -16,7 +15,8 @@ import {
   processingFailureFor,
   type VisibilityPollDeps,
   visibilityFailureFor,
-} from "./testflight-poll.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/testflight-poll/testflight-poll.module.code.ts"
+import { z } from "zod"
 
 function build(overrides: Partial<LatestBuild> = {}): LatestBuild {
   return { id: "b-new", version: "5", processingState: "PROCESSING", ...overrides }

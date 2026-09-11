@@ -1,10 +1,10 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   expectedWorkspaceBinNames,
   findMissingBins,
-} from "../workspace-bins/workspace-bins.module.code.ts"
+} from "akasha/alan/harness/workspace-paths/workspace-bins/workspace-bins.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const PREFIX = "verify-workspace-bins"
 

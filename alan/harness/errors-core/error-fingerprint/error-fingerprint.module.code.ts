@@ -1,5 +1,5 @@
-import type { ErrorReport } from "../error-report/error-report.module.code.ts"
-import { normalizeStack } from "../stack-normalizing/stack-normalizing.module.code.ts"
+import type { ErrorReport } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
+import { normalizeStack } from "akasha/alan/harness/errors-core/stack-normalizing/stack-normalizing.module.code.ts"
 
 export function computeFingerprint(report: ErrorReport): string {
   const input = `${normalizeStack(report.stack)}\n${report.message}\n${report.app}`

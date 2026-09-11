@@ -1,25 +1,25 @@
 import { join } from "node:path"
-import type { SubagentPage } from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
-import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
+import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts"
+import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interfaces/page-tree-assemble/page-tree-assemble.module.code.ts"
 import {
   ALAN,
   assembleForest,
   countRunning,
   subagentKey,
-} from "../../../../../code-system/editor/extension/agent-forest/agent-forest.module.code.ts"
-import { readSeatPlaces } from "../../../../../code-system/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
-import { championTree } from "../../../../../code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
-import type { SubagentNode } from "../../../../../code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code-system/editor/extension/agent-forest/agent-forest.module.code.ts"
+import { readSeatPlaces } from "akasha/code-system/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
+import { championTree } from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import {
   type ForestSeat,
   forestOver,
   NOW,
-} from "../../../../../commands/pages/agent/forest/agent-forest.command.code.ts"
-import { domainRowsIn } from "../../../../../commands/pages/domain/tree/domain-tree.command.code.ts"
-import { treeIn } from "../../../../../commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
-import { pageAnswers } from "../../../../../commands/pages/page/tree/page-tree.command.code.ts"
-import { assembleCommandTree } from "../command-tree-assemble/command-tree-assemble.module.code.ts"
-import { assemblePageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
+} from "akasha/commands/pages/agent/forest/agent-forest.command.code.ts"
+import { domainRowsIn } from "akasha/commands/pages/domain/tree/domain-tree.command.code.ts"
+import { treeIn } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
+import { pageAnswers } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
+import type { SubagentPage } from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 
 function wholePath(root: string, at: string | null | undefined): string | null {
   if (at === undefined || at === null || at === "") return null

@@ -1,4 +1,4 @@
-import { MAX_SPEECH_CHARS } from "./speech.module.code.ts"
+import { MAX_SPEECH_CHARS } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 
 export const longMultiSegmentText = (): string => {
   const sentence = `${"word ".repeat(30).trim()}.`

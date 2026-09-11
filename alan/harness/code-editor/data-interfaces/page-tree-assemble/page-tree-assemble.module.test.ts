@@ -4,7 +4,7 @@ import {
   type PageAnswers,
   type PageNode,
   type QueryRow,
-} from "./page-tree-assemble.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/page-tree-assemble/page-tree-assemble.module.code.ts"
 
 const REPO = "/repo"
 

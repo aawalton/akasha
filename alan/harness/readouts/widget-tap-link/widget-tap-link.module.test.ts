@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { widgetTapped } from "./widget-tap-link.module.code.ts"
+import { widgetTapped } from "akasha/alan/harness/readouts/widget-tap-link/widget-tap-link.module.code.ts"
 
 test("a link names its widget in the fragment", () => {
   expect(widgetTapped("capacitor://monarch-relay#widget=alanwalton-categorize")).toBe(

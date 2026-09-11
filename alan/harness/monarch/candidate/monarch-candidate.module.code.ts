@@ -1,8 +1,14 @@
-import { amountListFrom } from "../rule-amounts/monarch-rule-amounts.module.code.ts"
-import { checkedRule } from "../rule-clauses/monarch-rule-clauses.module.code.ts"
-import { dateFloorFrom, monthListFrom } from "../rule-dates/monarch-rule-dates.module.code.ts"
-import { categoryIdByName, signFrom } from "../rule-pages/monarch-rule-pages.module.code.ts"
-import type { Rule } from "../rules/monarch-rules.module.code.ts"
+import { amountListFrom } from "akasha/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.code.ts"
+import { checkedRule } from "akasha/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.code.ts"
+import {
+  dateFloorFrom,
+  monthListFrom,
+} from "akasha/alan/harness/monarch/rule-dates/monarch-rule-dates.module.code.ts"
+import {
+  categoryIdByName,
+  signFrom,
+} from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 
 export async function candidateRule(
   flags: ReadonlyMap<string, readonly string[]>

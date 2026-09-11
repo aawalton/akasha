@@ -1,12 +1,16 @@
 import { mailbox } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+import {
+  markTold,
+  oneRun,
+  untoldClaims,
+} from "akasha/alan/harness/email-watch/inbox-run/inbox-run.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { recordToAgent } from "akasha/seat-system/agent-record/agent-record.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
-import { markTold, oneRun, untoldClaims } from "../inbox-run/inbox-run.module.code.ts"
+} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PERSON = optionalEnv("EMAIL_WORKER_PERSON") ?? "alan"
 const HANDLER = optionalEnv("EMAIL_WORKER_HANDLER") ?? PERSON

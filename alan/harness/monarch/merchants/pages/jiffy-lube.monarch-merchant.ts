@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
+import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/monarch-merchant.page-type.types.ts"
 
 export const jiffyLube = {
   id: "01a0655b-fcdc-701c-9376-44839b42e6c1",

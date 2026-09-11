@@ -1,14 +1,12 @@
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { READOUT_CACHE_CONTROL } from "../credential/readout-credential.module.code.ts"
-
-import { stated } from "../none-left/readout-none-left.module.code.ts"
+import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
+import { stated } from "akasha/alan/harness/readouts/none-left/readout-none-left.module.code.ts"
 import {
   type HeldReading,
   noReading,
   type RingAdmission,
   readingHeldFor,
   readingHeldOn,
-} from "../serving/readout-serving.module.code.ts"
+} from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
 import {
   BELOW_EVERY_RUNG,
   type Rung,
@@ -17,7 +15,8 @@ import {
   statedAt,
   type TierColor,
   tierAt,
-} from "../tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 

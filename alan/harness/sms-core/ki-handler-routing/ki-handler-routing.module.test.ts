@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { decideKiDispatch } from "./ki-handler-routing.module.code.ts"
+import { decideKiDispatch } from "akasha/alan/harness/sms-core/ki-handler-routing/ki-handler-routing.module.code.ts"
 
 describe("decideKiDispatch", () => {
   test("logs a book as the resolved user", () => {

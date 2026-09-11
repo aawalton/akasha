@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { answering } from "../answering/readout-answering.module.code.ts"
-import { noneLeftIn, readNoneLeft, stated } from "./readout-none-left.module.code.ts"
+import { answering } from "akasha/alan/harness/readouts/answering/readout-answering.module.code.ts"
+import {
+  noneLeftIn,
+  readNoneLeft,
+  stated,
+} from "akasha/alan/harness/readouts/none-left/readout-none-left.module.code.ts"
 
 test("a value that is not text says nothing", () => {
   expect(stated(11)).toBe(undefined)

@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto"
-import { said } from "../../../../git/running/git-running.module.code.ts"
+import { said } from "akasha/git/running/git-running.module.code.ts"
 
 export const CODE_BUILD_INPUT_PATHS: readonly string[] = [
   "packages",

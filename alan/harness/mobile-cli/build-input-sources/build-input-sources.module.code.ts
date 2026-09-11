@@ -1,9 +1,9 @@
 import {
   CODE_BUILD_INPUT_PATHS,
   type TreeSource,
-} from "../git-tree-hash/git-tree-hash.module.code.ts"
-import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
-import { simRunSourceRepoPaths } from "../sim-run-tree/sim-run-tree.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { simRunSourceRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 
 export interface RepoAt {
   readonly root: string

@@ -1,14 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  listedFiled,
-  nothingFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  mergeUncommitted,
-  uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import {
   keepReading,
   keepSilence,
   readingKept,
@@ -17,7 +8,16 @@ import {
   WENT_SILENT_AT,
   wentSilentAtKept,
   wentSilentAtOn,
-} from "./readout-reading.module.code.ts"
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
+  listedFiled,
+  nothingFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const PAGE = "alan/harness/readouts/pages/upkeep-probe/upkeep-probe.readout.ts"
 

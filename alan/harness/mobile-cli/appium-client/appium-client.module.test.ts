@@ -3,7 +3,7 @@ import {
   buildLongPressDragActions,
   extractElementId,
   pickWebviewContext,
-} from "./appium-client.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 
 const ELEMENT_KEY = "element-6066-11e4-a52e-4f735466cecf"
 

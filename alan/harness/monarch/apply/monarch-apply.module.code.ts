@@ -1,17 +1,23 @@
 #!/usr/bin/env bun
 
+import { candidateRule } from "akasha/alan/harness/monarch/candidate/monarch-candidate.module.code.ts"
+import { setCategory } from "akasha/alan/harness/monarch/categorize/monarch-categorize.module.code.ts"
+import { monarchClient } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
+import type { HistoryRow } from "akasha/alan/harness/monarch/history/monarch-history.module.code.ts"
+import {
+  readNeighbourhood,
+  readTransaction,
+} from "akasha/alan/harness/monarch/history/monarch-history.module.code.ts"
+import { writeNoteIfEmpty } from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
+import { loadCategoryRules } from "akasha/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts"
+import {
+  categoryMonarchId,
+  readFlags,
+} from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import type { Decision, Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import { decide } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { candidateRule } from "../candidate/monarch-candidate.module.code.ts"
-import { setCategory } from "../categorize/monarch-categorize.module.code.ts"
-import { monarchClient } from "../client/monarch-client.module.code.ts"
-import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
-import type { HistoryRow } from "../history/monarch-history.module.code.ts"
-import { readNeighbourhood, readTransaction } from "../history/monarch-history.module.code.ts"
-import { writeNoteIfEmpty } from "../notes-write/monarch-notes-write.module.code.ts"
-import { loadCategoryRules } from "../rule-documents/monarch-rule-documents.module.code.ts"
-import { categoryMonarchId, readFlags } from "../rule-pages/monarch-rule-pages.module.code.ts"
-import type { Decision, Rule } from "../rules/monarch-rules.module.code.ts"
-import { decide } from "../rules/monarch-rules.module.code.ts"
 
 async function chosenRule(flags: ReadonlyMap<string, readonly string[]>): Promise<Rule> {
   const candidate = await candidateRule(flags)

@@ -1,15 +1,15 @@
 import {
-  runSshCapture,
-  streamSshLines,
-} from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
-import {
   buildFetchScript,
   type HealthExport,
   type HealthMetric,
   NO_FILE,
   parseHealthExport,
-} from "../health-export/health-export.module.code.ts"
-import { MACBOOK } from "../laptop-host/laptop-host.module.code.ts"
+} from "akasha/alan/harness/health-samples-import/health-export/health-export.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/health-samples-import/laptop-host/laptop-host.module.code.ts"
+import {
+  runSshCapture,
+  streamSshLines,
+} from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 
 export interface FetchOptions {
   readonly path: string | undefined

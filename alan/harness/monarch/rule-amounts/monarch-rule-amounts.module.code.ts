@@ -1,5 +1,5 @@
-import { array, num } from "../shape/monarch-shape.module.code.ts"
-import { cents } from "../transaction/monarch-transaction.module.code.ts"
+import { array, num } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+import { cents } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export interface AmountClause {
   readonly amountIs: readonly number[]

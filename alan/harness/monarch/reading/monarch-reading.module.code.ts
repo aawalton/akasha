@@ -1,8 +1,11 @@
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { shape } from "../../../../utils/narrow/shape/shape.module.code.ts"
-import type { RingCounts } from "../../readouts/body/readout-body.module.code.ts"
-import { fetchRingCountsFromMonarch } from "../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
-import { keepReading, readoutPage } from "../../readouts/reading/readout-reading.module.code.ts"
+import type { RingCounts } from "akasha/alan/harness/readouts/body/readout-body.module.code.ts"
+import { fetchRingCountsFromMonarch } from "akasha/alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import {
+  keepReading,
+  readoutPage,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 export const READOUT_SLUG = "monarch-unreviewed-transactions"
 

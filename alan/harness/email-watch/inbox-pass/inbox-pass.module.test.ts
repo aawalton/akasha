@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
-import type { RunReport } from "../inbox-run/inbox-run.module.code.ts"
-import { dryRunIn, personIn, saidOf, tallyOf } from "./inbox-pass.module.code.ts"
+import {
+  dryRunIn,
+  personIn,
+  saidOf,
+  tallyOf,
+} from "akasha/alan/harness/email-watch/inbox-pass/inbox-pass.module.code.ts"
+import type { RunReport } from "akasha/alan/harness/email-watch/inbox-run/inbox-run.module.code.ts"
 
 function reportOf(over: Partial<RunReport> = {}): RunReport {
   return { examined: 0, decisions: [], acted: 0, waiting: 0, unclaimed: 0, ...over }

@@ -1,29 +1,35 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { resolveRepoRoot } from "../git-tree-hash/git-tree-hash.module.code.ts"
-import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
+import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,
   macWwwStagingDir,
   shellRepoRoot,
   splitRepoPath,
   stagedWwwRepoPath,
-} from "../mobile-app/mobile-app.module.code.ts"
-import { rsyncToHost, runSshCapture } from "../mobile-ssh/mobile-ssh.module.code.ts"
-import { buildInstallScript, parseInstalledUdid } from "../sim-macbook/sim-macbook.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  rsyncToHost,
+  runSshCapture,
+} from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import {
+  buildInstallScript,
+  parseInstalledUdid,
+} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
 import {
   deliverSimRunTree,
   simRunNativeShellDir,
   simRunSharedRepoPaths,
   simRunSourceRepoPaths,
   stampCommitOf,
-} from "../sim-run-tree/sim-run-tree.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 import {
   assertStagedWwwFresh,
   stageWwwFromWorkingTree,
-} from "../sim-www-stage/sim-www-stage.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 export interface InstallSimShellOptions {
   readonly app: MobileApp

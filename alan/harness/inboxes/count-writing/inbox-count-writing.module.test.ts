@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { alreadyThere, keptLow } from "./inbox-count-writing.module.code.ts"
+import {
+  alreadyThere,
+  keptLow,
+} from "akasha/alan/harness/inboxes/count-writing/inbox-count-writing.module.code.ts"
 
 const TASKS = "inbox-tasks"
 

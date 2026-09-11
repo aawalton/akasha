@@ -1,5 +1,8 @@
-import type { CommsInput, SmsRouteDecision } from "../sms-identity/sms-identity.module.code.ts"
-import type { TelnyxInboundSms } from "../telnyx-inbound/telnyx-inbound.module.code.ts"
+import type {
+  CommsInput,
+  SmsRouteDecision,
+} from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
+import type { TelnyxInboundSms } from "akasha/alan/harness/sms-core/telnyx-inbound/telnyx-inbound.module.code.ts"
 
 export function inboundToCommsInput(sms: TelnyxInboundSms): CommsInput {
   return {

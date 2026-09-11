@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const albumPulling = {
   id: "01a06585-5f39-70a6-bafc-9a2c3771bb19",

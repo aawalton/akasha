@@ -7,7 +7,7 @@ import {
   rungsIn,
   statedAt,
   tierAt,
-} from "./readout-tier.module.code.ts"
+} from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 
 const CLIMBING = rungsIn({ redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 })
 

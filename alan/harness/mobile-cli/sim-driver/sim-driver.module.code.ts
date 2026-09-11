@@ -1,5 +1,4 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   createSession,
   dismissAlert,
@@ -7,14 +6,14 @@ import {
   getContexts,
   pickWebviewContext,
   setContext,
-} from "../appium-client/appium-client.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   mintRealUserSession,
   mintThrowawaySession,
   readRealUserSimAuthEnv,
   readSimAuthEnv,
   SUPABASE_STORAGE_KEY,
-} from "../sim-auth/sim-auth.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-auth/sim-auth.module.code.ts"
 import {
   buildSimCapabilities,
   loadSessionState,
@@ -23,7 +22,8 @@ import {
   type SimSessionState,
   saveSessionState,
   WDA_LOCAL_PORT_ENV,
-} from "../sim-session/sim-session.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 export const APP_ORIGIN = "capacitor://localhost"
 

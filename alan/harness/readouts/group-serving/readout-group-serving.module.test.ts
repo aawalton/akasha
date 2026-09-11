@@ -1,12 +1,9 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { dropRelayed } from "../relay/readout-relay.module.code.ts"
-import { relayedFor } from "../relay/readout-relay.module.test-fixtures.ts"
-import { readingHeldOn } from "../serving/readout-serving.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
   inPlaceOrder,
   stoplightsInGroup,
-} from "./readout-group-serving.module.code.ts"
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
   ANSWERED,
   agedOut,
@@ -29,7 +26,10 @@ import {
   stoplights,
   storeGoes,
   WIRE_KEY_NAME,
-} from "./readout-group-serving.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
+import { dropRelayed } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import { readingHeldOn } from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
 
 let store: ReturnType<typeof Bun.serve>
 

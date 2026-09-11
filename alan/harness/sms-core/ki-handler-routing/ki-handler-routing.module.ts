@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const kiHandlerRouting = {
   id: "01a05b6f-999d-7d2b-b85c-510e49ca5cd2",

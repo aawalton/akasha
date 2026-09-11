@@ -1,11 +1,14 @@
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
-import { z } from "zod"
 import {
   componentSwiftFor,
   widgetTargetNameFor,
-} from "../ios-program-components/ios-program-components.module.code.ts"
-import { type MobileApp, ringCredentialScriptFor } from "../mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/ios-program-components/ios-program-components.module.code.ts"
+import {
+  type MobileApp,
+  ringCredentialScriptFor,
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+import { z } from "zod"
 
 export const ASC_KEY_ID = "Q5485KN54Y"
 export const ASC_ISSUER_ID = "69a6de75-758d-47e3-e053-5b8c7c11a4d1"

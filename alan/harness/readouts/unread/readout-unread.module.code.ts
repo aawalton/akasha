@@ -1,5 +1,5 @@
-import { stoplightsInGroup } from "../group-serving/readout-group-serving.module.code.ts"
-import { readingHeldOn } from "../serving/readout-serving.module.code.ts"
+import { stoplightsInGroup } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import { readingHeldOn } from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
 
 export interface UnreadLight {
   readonly label: string

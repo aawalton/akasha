@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { extractInboundSms, telnyxWebhookSchema } from "./telnyx-inbound.module.code.ts"
+import {
+  extractInboundSms,
+  telnyxWebhookSchema,
+} from "akasha/alan/harness/sms-core/telnyx-inbound/telnyx-inbound.module.code.ts"
 
 function payload(extra: Record<string, unknown> = {}): unknown {
   return {

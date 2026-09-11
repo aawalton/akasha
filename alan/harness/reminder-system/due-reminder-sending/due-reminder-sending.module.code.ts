@@ -1,5 +1,3 @@
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import {
   armedAt,
   armFor,
@@ -7,7 +5,9 @@ import {
   type Found,
   nextElapse,
   tookReminder,
-} from "../reminders/modules/sending/reminder-sending.module.code.ts"
+} from "akasha/alan/harness/reminder-system/reminders/modules/sending/reminder-sending.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 
 async function sendOne(one: Found): Promise<string | null> {
   const written = await writeMessage({

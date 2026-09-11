@@ -1,11 +1,10 @@
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type {
   MonarchAccount,
   MonarchCategory,
   MonarchHolding,
   MonarchTag,
-} from "../client/monarch-client.module.code.ts"
-import type { PageFile } from "../files/monarch-files.module.code.ts"
+} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import type { PageFile } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import {
   ACCOUNT_FOLDER,
   accountPages,
@@ -16,9 +15,10 @@ import {
   keyOf,
   TAG_FOLDER,
   tagPages,
-} from "../files/monarch-files.module.code.ts"
-import type { WriteItem } from "../land-files/monarch-land-files.module.code.ts"
-import { through } from "../land-files/monarch-land-files.module.code.ts"
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import type { WriteItem } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
+import { through } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 export type Value = string | number | boolean
 

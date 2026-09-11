@@ -1,6 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import type { CutFingerprint } from "../cut-fingerprint/cut-fingerprint.module.code.ts"
-import { cutRecordCall, fileFingerprint } from "./testflight-cut.module.code.ts"
+import type { CutFingerprint } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import {
+  cutRecordCall,
+  fileFingerprint,
+} from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 
 const FP: CutFingerprint = {
   buildNumber: 199,

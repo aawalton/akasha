@@ -1,9 +1,9 @@
 "use client"
 
+import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
+import type { ErrorApp } from "akasha/alan/harness/errors-client/global-error-capture/global-error-capture.module.code.ts"
 import { normalizeThrowable } from "akasha/alan/harness/errors-core/throwable-normalizing/throwable-normalizing.module.code.ts"
 import { useEffect, useRef } from "react"
-import { reportError } from "../error-reporting/error-reporting.module.code.ts"
-import type { ErrorApp } from "../global-error-capture/global-error-capture.module.code.ts"
 
 export function useReportRenderError(error: unknown, app: ErrorApp): undefined {
   const reportedRef = useRef<WeakSet<object>>(new WeakSet())

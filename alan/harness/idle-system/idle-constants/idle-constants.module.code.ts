@@ -1,4 +1,4 @@
-import type { GameState } from "../idle-state/idle-state.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export const DEFAULT_SYNERGY = 0.1
 

@@ -1,29 +1,32 @@
 #!/usr/bin/env bun
 
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { amazonMovements } from "../amazon-lines/monarch-amazon-lines.module.code.ts"
-import type { Movement } from "../amazon-match/monarch-amazon-match.module.code.ts"
+import { amazonMovements } from "akasha/alan/harness/monarch/amazon-lines/monarch-amazon-lines.module.code.ts"
+import type { Movement } from "akasha/alan/harness/monarch/amazon-match/monarch-amazon-match.module.code.ts"
 import {
   accountsFor,
   noteFor,
   partition,
-} from "../amazon-match/monarch-amazon-match.module.code.ts"
-import type { AmazonOrder } from "../amazon-order/monarch-amazon-order.module.code.ts"
-import { parseOrderEmail } from "../amazon-order/monarch-amazon-order.module.code.ts"
+} from "akasha/alan/harness/monarch/amazon-match/monarch-amazon-match.module.code.ts"
+import type { AmazonOrder } from "akasha/alan/harness/monarch/amazon-order/monarch-amazon-order.module.code.ts"
+import { parseOrderEmail } from "akasha/alan/harness/monarch/amazon-order/monarch-amazon-order.module.code.ts"
 import {
   AMAZON_SINCE,
   applyNote,
   isAmazon,
-} from "../amazon-write/monarch-amazon-write.module.code.ts"
-import { monarchClient } from "../client/monarch-client.module.code.ts"
-import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
-import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
-import { cachedMessages } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
+} from "akasha/alan/harness/monarch/amazon-write/monarch-amazon-write.module.code.ts"
+import { monarchClient } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
+import type { EmailMessage } from "akasha/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.code.ts"
+import { cachedMessages } from "akasha/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.code.ts"
 import {
   revertFromSnapshot,
   takeSnapshot,
-} from "../notes-revert/monarch-notes-revert.module.code.ts"
-import { liveTransaction, mayWriteNotes } from "../notes-write/monarch-notes-write.module.code.ts"
+} from "akasha/alan/harness/monarch/notes-revert/monarch-notes-revert.module.code.ts"
+import {
+  liveTransaction,
+  mayWriteNotes,
+} from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const GMAIL_QUERY = "from:auto-confirm@amazon.com subject:Ordered after:2025/01/01"
 

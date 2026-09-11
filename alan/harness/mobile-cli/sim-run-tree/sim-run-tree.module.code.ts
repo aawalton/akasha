@@ -1,6 +1,16 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
+import {
+  type MobileApp,
+  shellRepoPath as shellRepoPathOf,
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  rsyncFilesToHost,
+  rsyncToHost,
+  runSshCapture,
+} from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import {
   AKASHA,
@@ -8,16 +18,6 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
-import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
-import {
-  type MobileApp,
-  shellRepoPath as shellRepoPathOf,
-} from "../mobile-app/mobile-app.module.code.ts"
-import {
-  rsyncFilesToHost,
-  rsyncToHost,
-  runSshCapture,
-} from "../mobile-ssh/mobile-ssh.module.code.ts"
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]
 

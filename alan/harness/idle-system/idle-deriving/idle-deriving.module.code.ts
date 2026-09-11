@@ -7,8 +7,11 @@ import {
   SYNERGY_NEG_SHARE,
   SYNERGY_POS_MAX,
   SYNERGY_POS_MIN,
-} from "../idle-constants/idle-constants.module.code.ts"
-import type { GameState, SynergyMatrix } from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import type {
+  GameState,
+  SynergyMatrix,
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export function hashContent(content: string): number {
   let h = 0x811c9dc5

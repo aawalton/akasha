@@ -1,5 +1,5 @@
-import type { Row } from "../../asking/readout-asking.module.code.ts"
-import { statedAt } from "../../tier/readout-tier.module.code.ts"
+import type { Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 

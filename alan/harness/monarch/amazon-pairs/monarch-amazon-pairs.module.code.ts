@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
-import { readAllTransactions } from "../files/monarch-files.module.code.ts"
-import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
+import { readAllTransactions } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { categoryTitles } from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
 
 export interface PairRow {
   readonly monarchId: string

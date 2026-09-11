@@ -4,14 +4,14 @@ import {
   listMessages,
 } from "akasha/alan/google/email/gmail-messages/gmail-messages.module.code.ts"
 import { dayAfter } from "akasha/alan/harness/day/string/day-string.module.code.ts"
+import type { InboxKey } from "akasha/alan/harness/inboxes/keys/inbox-keys.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { InboxKey } from "../keys/inbox-keys.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const EMAIL_MAX = 100
 const TO_DO_PAGE_TYPE_SLUG = "to-do"

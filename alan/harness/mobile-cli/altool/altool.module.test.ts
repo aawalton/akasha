@@ -8,7 +8,7 @@ import {
   EXIT_VALIDATION_INCOMPLETE,
   extractAppStoreVerdict,
   testflightFailureError,
-} from "./altool.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/altool/altool.module.code.ts"
 
 const REJECTION_STDOUT = "Failed to validate package."
 

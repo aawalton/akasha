@@ -1,4 +1,4 @@
-import { USER_ID } from "../user-id/user-id.module.code.ts"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 
 export interface CredentialPathDecision {
   readonly resolvedUserId: string

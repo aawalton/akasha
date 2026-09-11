@@ -1,6 +1,10 @@
 import { dirname, join } from "node:path"
 import { readFleetUsage } from "akasha/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts"
 import {
+  glyphsOf,
+  legendOf,
+} from "akasha/alan/harness/code-editor/data-interfaces/group-stoplights/group-stoplights.module.code.ts"
+import {
   HABIT,
   inPlaceOrder,
   type Stoplight,
@@ -10,13 +14,12 @@ import {
 } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import { readingHeldOn } from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
 import { type Rung, rungsIn } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
-import { typeSlugOf, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import {
   readingOf,
   type UsageReading,
-} from "../../../../../code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
-import { glyphsOf, legendOf } from "../group-stoplights/group-stoplights.module.code.ts"
+} from "akasha/code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
+import { typeSlugOf, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 

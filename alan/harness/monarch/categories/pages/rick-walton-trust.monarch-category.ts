@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
+import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/monarch-category.page-type.types.ts"
 
 export const rickWaltonTrust = {
   id: "01a06559-5ea9-7000-ad4c-bd87646ecf0d",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const geoapify = {
   id: "01a05c48-deeb-7002-a7d6-912bcaf143d2",

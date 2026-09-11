@@ -1,6 +1,13 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "../../asking/readout-asking.module.test-fixtures.ts"
-import { fetchLowestInbox, lowestIn, mailOn } from "./inboxes-email.readout.code.ts"
+import {
+  answering,
+  refusing,
+} from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
+import {
+  fetchLowestInbox,
+  lowestIn,
+  mailOn,
+} from "akasha/alan/harness/readouts/pages/inboxes-email/inboxes-email.readout.code.ts"
 
 const DAY = "2026-09-02"
 

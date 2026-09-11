@@ -1,7 +1,14 @@
 import { describe, expect, test } from "bun:test"
-import { buildNameIndex, handleKey } from "../contacts-db/contacts-db.module.code.ts"
-import { messageLabel, nameFor, singleLine } from "./message-lines.module.code.ts"
-import { message } from "./message-lines.module.test-fixtures.ts"
+import {
+  buildNameIndex,
+  handleKey,
+} from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
+import {
+  messageLabel,
+  nameFor,
+  singleLine,
+} from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
+import { message } from "akasha/alan/harness/imessage/message-lines/message-lines.module.test-fixtures.ts"
 
 const CONTACTS = [{ name: "Alan", phones: ["+1 555 010 2030"], emails: ["alan@example.com"] }]
 

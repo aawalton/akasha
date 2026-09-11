@@ -1,15 +1,15 @@
 import { expect, test } from "bun:test"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-import { z } from "zod"
-import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
-import type { HealthSample } from "../sample-shape/sample-shape.module.code.ts"
+import { sampleIdentity } from "akasha/alan/harness/health-samples-access/sample-identity/sample-identity.module.code.ts"
+import type { HealthSample } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import {
   landDay,
   mergedInto,
   type ReadingFor,
   TRIES,
   type WritingFor,
-} from "./sample-upsert.module.code.ts"
+} from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
+import { z } from "zod"
 
 const AT = "akasha/alan/track/daily/days/pages/2026-01-01/day-2026-01-01.day.health-samples.jsonl"
 

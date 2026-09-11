@@ -1,5 +1,5 @@
+import type { GeoCoord } from "akasha/alan/harness/geo-io/coord/coord.module.code.ts"
 import { z } from "zod"
-import type { GeoCoord } from "../coord/coord.module.code.ts"
 
 export type GeoFetch = (
   url: string,

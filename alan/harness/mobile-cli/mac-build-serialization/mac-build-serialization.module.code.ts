@@ -1,4 +1,4 @@
-import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 
 export const BUILD_NUMBER_MARKER_PREFIX = "MOBILE_DEPLOY_TESTFLIGHT_BUILD_NUMBER="
 

@@ -1,16 +1,19 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
-import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
-import { z } from "zod"
-import { APPIUM_BASE, appiumReady } from "../appium-client/appium-client.module.code.ts"
+import {
+  APPIUM_BASE,
+  appiumReady,
+} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   appValueExports,
   MAC_PATH_PREFIX,
   SCRIPT_HEADER,
-} from "../foundation/foundation.module.code.ts"
-import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
-import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
-import { runSshCapture } from "../mobile-ssh/mobile-ssh.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
+import { z } from "zod"
 
 const APPIUM_START_ATTEMPTS = 40
 const APPIUM_START_DELAY_MS = 1_500

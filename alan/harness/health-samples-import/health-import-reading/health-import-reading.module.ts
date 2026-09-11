@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const healthImportReading = {
   id: "01a05c14-b11a-7005-9108-0d098d5f3aa7",

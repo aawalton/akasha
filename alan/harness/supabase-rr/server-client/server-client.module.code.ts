@@ -1,8 +1,8 @@
 import { createServerClient as createSsrServerClient } from "@supabase/ssr"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
+import { parseSupabaseCookieOptions } from "akasha/alan/harness/supabase-rr/cookie-options/cookie-options.module.code.ts"
 import { parseCookie, stringifySetCookie } from "cookie"
 import { z } from "zod"
-import { parseSupabaseCookieOptions } from "../cookie-options/cookie-options.module.code.ts"
 
 export type SupabaseServerClient = SupabaseClient
 

@@ -1,3 +1,4 @@
+import { costColorAt } from "akasha/alan/harness/cost/color/cost-color.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   HABIT,
@@ -19,7 +20,6 @@ import {
   readingSaid,
 } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { costColorAt } from "../color/cost-color.module.code.ts"
 
 const READOUT = "readout"
 

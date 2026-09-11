@@ -3,7 +3,7 @@ import {
   parseRealUserSimAuthEnv,
   parseSimAuthEnv,
   SUPABASE_STORAGE_KEY,
-} from "./sim-auth.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-auth/sim-auth.module.code.ts"
 
 describe("parseSimAuthEnv", () => {
   test("parses a complete env into the throwaway creds", () => {

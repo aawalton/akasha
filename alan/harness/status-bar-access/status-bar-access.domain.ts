@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const statusBarAccess = {
   id: "01a05c9d-4096-7000-9ca0-5ff9f4e38802",

@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.types.ts"
+import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.types.ts"
 
 export const fiveHourBack = {
   id: "01a063bd-a526-7d2a-b1f5-8375b86d19ff",

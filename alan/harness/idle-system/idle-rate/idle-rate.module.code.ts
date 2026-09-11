@@ -7,7 +7,7 @@ import {
   STAR_VALUE,
   SUPPORT_AMP,
   WEATHER_BONUS,
-} from "../idle-constants/idle-constants.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
 import {
   activeBloomPair,
   activeWeatherSlug,
@@ -25,13 +25,17 @@ import {
   resonanceBonus,
   rolesUnlocked,
   seatTiers,
-} from "../idle-dormancy/idle-dormancy.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-dormancy/idle-dormancy.module.code.ts"
 import {
   collectionBonus,
   starMultMap,
   unlockedTeammates,
-} from "../idle-gacha-state/idle-gacha-state.module.code.ts"
-import type { GameState, SynergyMatrix, Teammate } from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import type {
+  GameState,
+  SynergyMatrix,
+  Teammate,
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export function effectiveRate(t: Teammate): number {
   return t.rate * t.rank

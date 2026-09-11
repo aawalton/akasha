@@ -1,4 +1,4 @@
-import type { MobileCut } from "../../mobile-cut.page-type.types.ts"
+import type { MobileCut } from "akasha/alan/harness/mobile-cli/mobile-cuts/mobile-cut.page-type.types.ts"
 
 export const smilingjenny24 = {
   id: "01a08d6f-76a4-7000-aa70-787766677c54",

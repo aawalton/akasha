@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { answering } from "../answering/readout-answering.module.code.ts"
-import { readScale, scaleIn } from "./readout-scale-reading.module.code.ts"
+import { answering } from "akasha/alan/harness/readouts/answering/readout-answering.module.code.ts"
+import {
+  readScale,
+  scaleIn,
+} from "akasha/alan/harness/readouts/scale-reading/readout-scale-reading.module.code.ts"
 
 test("a page stating every rung the ring needs is a scale", () => {
   expect(scaleIn({ orangeAt: 11, redAt: 21, blackAt: 31 })).toEqual({

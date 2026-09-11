@@ -1,4 +1,4 @@
-import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
+import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 
 export function message(over: Partial<ImessageMessage>): ImessageMessage {
   return {

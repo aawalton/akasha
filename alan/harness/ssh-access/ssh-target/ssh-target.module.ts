@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sshTarget = {
   id: "01a05c2f-0f03-7a96-92f5-8ad7d60942cc",

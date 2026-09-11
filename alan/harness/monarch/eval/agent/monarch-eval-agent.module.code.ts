@@ -1,6 +1,11 @@
-import { array, num, object, str } from "../../shape/monarch-shape.module.code.ts"
-import { money } from "../../transaction/monarch-transaction.module.code.ts"
-import type { Candidate } from "../population/monarch-eval-population.module.code.ts"
+import type { Candidate } from "akasha/alan/harness/monarch/eval/population/monarch-eval-population.module.code.ts"
+import {
+  array,
+  num,
+  object,
+  str,
+} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+import { money } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export const MODEL = "sonnet"
 export const BATCH = 10

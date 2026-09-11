@@ -1,4 +1,4 @@
-import type { MonarchTag } from "../monarch-tag.page-type.types.ts"
+import type { MonarchTag } from "akasha/alan/harness/monarch/tags/monarch-tag.page-type.types.ts"
 
 export const ai = {
   id: "01a06559-5ea9-7009-a171-4bd864a9a667",

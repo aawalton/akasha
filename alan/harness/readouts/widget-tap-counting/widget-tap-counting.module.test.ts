@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { tapsOn } from "./widget-tap-counting.module.code.ts"
+import { tapsOn } from "akasha/alan/harness/readouts/widget-tap-counting/widget-tap-counting.module.code.ts"
 
 test("a widget carrying no count has taken no tap", () => {
   expect(tapsOn({ slug: "alanwalton-surplus" })).toBe(0)

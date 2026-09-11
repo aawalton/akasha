@@ -3,11 +3,11 @@ import {
   getUser,
   getUserFromBearerToken,
   parseBearerToken,
-} from "../auth-server/auth-server.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import {
   createBearerScopedClient,
   createServerClient,
-} from "../server-client/server-client.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 
 export type AuthenticatedRequestContext = {
   authenticated: true

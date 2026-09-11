@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { decideJennyDispatch } from "./jenny-handler-routing.module.code.ts"
+import { decideJennyDispatch } from "akasha/alan/harness/sms-core/jenny-handler-routing/jenny-handler-routing.module.code.ts"
 
 describe("decideJennyDispatch", () => {
   test("manages content as the resolved user", () => {

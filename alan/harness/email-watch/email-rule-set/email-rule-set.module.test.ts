@@ -8,7 +8,7 @@ import {
   ruleFolderOf,
   ruleKinds,
   ruleLocation,
-} from "./email-rule-set.module.code.ts"
+} from "akasha/alan/harness/email-watch/email-rule-set/email-rule-set.module.code.ts"
 
 describe("the fields an email rule tests", () => {
   test("every field holds text", () => {

@@ -1,4 +1,4 @@
-import type { IdlePersonaCard } from "../idle-persona-card.page-type.types.ts"
+import type { IdlePersonaCard } from "akasha/alan/harness/idle-system/idle-persona-cards/idle-persona-card.page-type.types.ts"
 
 export const irisB4b7df76 = {
   id: "01a0659f-c598-7000-8b3e-d2411918661b",

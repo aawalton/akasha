@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
+import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchants/monarch-merchant.page-type.types.ts"
 
 export const notYetMedia = {
   id: "01a0655b-fcdc-7024-a731-ec851281aea5",

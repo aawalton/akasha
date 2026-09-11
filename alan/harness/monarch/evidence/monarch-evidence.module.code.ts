@@ -1,15 +1,15 @@
 #!/usr/bin/env bun
 
-import type { TransactionLine } from "../files/monarch-files.module.code.ts"
-import { readAllTransactions } from "../files/monarch-files.module.code.ts"
-import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
+import type { TransactionLine } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { readAllTransactions } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { categoryTitles } from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
 import {
   dayGap,
   money,
   TRUSTED_MONTHS,
   trustedFrom,
   UNCATEGORIZED,
-} from "../transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 const ROWS = 60
 

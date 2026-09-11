@@ -1,4 +1,4 @@
-import type { CodeEditorDataInterface } from "../../code-editor-data-interface.page-type.types.ts"
+import type { CodeEditorDataInterface } from "akasha/alan/harness/code-editor/data-interfaces/code-editor-data-interface.page-type.types.ts"
 
 export const workTree = {
   id: "01a07235-8d09-7b14-8466-1f484c7d3657",

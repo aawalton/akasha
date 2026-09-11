@@ -1,22 +1,22 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import { ALAN_PERSON } from "../../notification-feeds/notifying/notifying.module.code.ts"
+import { ALAN_PERSON } from "akasha/alan/harness/notification-feeds/notifying/notifying.module.code.ts"
 import {
   newestOfKind,
   writeNotification,
-} from "../../notification-feeds/rows/notification-feed-rows.module.code.ts"
+} from "akasha/alan/harness/notification-feeds/rows/notification-feed-rows.module.code.ts"
 import {
   type Readout,
   readReading,
   readSleepHours,
   resolveOneReadout,
-} from "../fall-readout/surplus-fall-readout.module.code.ts"
+} from "akasha/alan/harness/surplus/fall-readout/surplus-fall-readout.module.code.ts"
 import {
   decideFall,
   isTierColor,
   TIER_ORDER,
   type TierColor,
   tierAt,
-} from "../fall-tier/surplus-fall-tier.module.code.ts"
+} from "akasha/alan/harness/surplus/fall-tier/surplus-fall-tier.module.code.ts"
 
 export const WORKER_NAME = "surplus-fall-notifier"
 

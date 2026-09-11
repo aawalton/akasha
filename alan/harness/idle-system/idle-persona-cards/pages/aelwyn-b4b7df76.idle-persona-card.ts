@@ -1,4 +1,4 @@
-import type { IdlePersonaCard } from "../idle-persona-card.page-type.types.ts"
+import type { IdlePersonaCard } from "akasha/alan/harness/idle-system/idle-persona-cards/idle-persona-card.page-type.types.ts"
 
 export const aelwynB4b7df76 = {
   id: "01a0659f-c597-7000-861a-7216f922aa05",

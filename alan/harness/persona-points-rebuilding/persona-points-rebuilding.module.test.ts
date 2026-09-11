@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { rebuiltOver, saidOf } from "./persona-points-rebuilding.module.code.ts"
+import {
+  rebuiltOver,
+  saidOf,
+} from "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
 
 const BEFORE: ReadonlyMap<string, number> = new Map([
   ["aura", 250],

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const buildShaDefine = {
   id: "01a05c48-deeb-7010-a5ad-81104931a96d",

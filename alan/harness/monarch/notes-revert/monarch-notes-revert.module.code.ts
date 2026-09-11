@@ -1,12 +1,12 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
-import type { FetchDay } from "../notes-write/monarch-notes-write.module.code.ts"
+import type { MonarchTransaction } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import type { FetchDay } from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
 import {
   liveTransaction,
   overwriteTransactionNotes,
   setTransactionTags,
-} from "../notes-write/monarch-notes-write.module.code.ts"
+} from "akasha/alan/harness/monarch/notes-write/monarch-notes-write.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
 

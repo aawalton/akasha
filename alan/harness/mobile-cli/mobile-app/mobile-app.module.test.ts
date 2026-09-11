@@ -7,7 +7,7 @@ import {
   resolveApp,
   splitRepoPath,
   stagedWwwRepoPath,
-} from "./mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 
 const ALL = Object.values(mobileApps())
 

@@ -1,13 +1,13 @@
 import { expect } from "bun:test"
 import { join } from "node:path"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { Glob } from "bun"
-import { relayedFor } from "../relay/readout-relay.module.test-fixtures.ts"
 import {
   answerStoplightsAdmittedBy,
   type Stoplight,
   stoplightsInGroup,
-} from "./readout-group-serving.module.code.ts"
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { Glob } from "bun"
 
 export const GROUP = "a-group-named-only-in-this-test"
 

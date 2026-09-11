@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { sleepIn } from "./upkeep-sleep.readout.code.ts"
+import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts"
 
 const held = (sleep: unknown) => ({ "sleep-hours": sleep })
 

@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
+import type { ReadoutGroup } from "akasha/alan/harness/readouts/groups/readout-group.page-type.types.ts"
 
 export const cost = {
   id: "01a08b9b-fa99-70de-a5e9-aab7a5e793ae",

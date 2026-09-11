@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   buildInstallScript,
   buildResolveAndBootSimScript,
   buildStartAppiumScript,
   parseInstalledUdid,
   parseResolvedUdid,
-} from "./sim-macbook.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
 
 const RUN_TREE = "$HOME/.mobile-sim-run/alanwalton/native-shell/alanwalton"
 

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const emailInbound = {
   id: "01a05bcd-25e2-7b0c-aff6-314192c66a72",

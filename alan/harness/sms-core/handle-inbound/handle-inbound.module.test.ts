@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { SmsExternalIdentity } from "../sms-identity/sms-identity.module.code.ts"
-import { handleInboundSms } from "./handle-inbound.module.code.ts"
+import { handleInboundSms } from "akasha/alan/harness/sms-core/handle-inbound/handle-inbound.module.code.ts"
 import {
   genKeypair,
   messagesOnly,
@@ -11,7 +10,8 @@ import {
   SAMPLE_SENDER_DIGITS,
   sampleBody,
   sign,
-} from "./handle-inbound.module.test-fixtures.ts"
+} from "akasha/alan/harness/sms-core/handle-inbound/handle-inbound.module.test-fixtures.ts"
+import type { SmsExternalIdentity } from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
 
 const NOW_MS = 1_700_000_000_000
 const TIMESTAMP = String(NOW_MS / 1000)

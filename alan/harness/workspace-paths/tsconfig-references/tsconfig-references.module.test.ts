@@ -1,8 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { packageAt } from "../workspace-dirs/workspace-dirs.module.test-fixtures.ts"
 import {
   danglingOver,
   reaches,
@@ -10,7 +8,9 @@ import {
   targetOf,
   tsconfigsIn,
   withoutStated,
-} from "./tsconfig-references.module.code.ts"
+} from "akasha/alan/harness/workspace-paths/tsconfig-references/tsconfig-references.module.code.ts"
+import { packageAt } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

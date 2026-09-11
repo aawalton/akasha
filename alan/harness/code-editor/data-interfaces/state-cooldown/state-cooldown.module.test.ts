@@ -6,7 +6,7 @@ import {
   NOTHING_WRITTEN,
   released,
   releasedHeld,
-} from "./state-cooldown.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-cooldown/state-cooldown.module.code.ts"
 
 const COOLDOWN = 100
 

@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.types.ts"
+import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.types.ts"
 
 export const weeklyEnds = {
   id: "01a063bd-a526-7623-8e91-2865d3976acc",

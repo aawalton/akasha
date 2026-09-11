@@ -20,11 +20,15 @@ import {
   TRAIN_COST_GROWTH,
   WEATHER_PERIOD_MS,
   WEATHER_UNLOCK_STARS,
-} from "../idle-constants/idle-constants.module.code.ts"
-import { isUnlocked } from "../idle-gacha-state/idle-gacha-state.module.code.ts"
-import { totalRate } from "../idle-rate/idle-rate.module.code.ts"
-import type { IdleSave } from "../idle-save/idle-save.module.code.ts"
-import type { GachaGirl, GameState, Teammate } from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import { isUnlocked } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import { totalRate } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
+import type { IdleSave } from "akasha/alan/harness/idle-system/idle-save/idle-save.module.code.ts"
+import type {
+  GachaGirl,
+  GameState,
+  Teammate,
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export function trainCost(t: { readonly rate: number; readonly rank: number }): number {
   return Math.ceil(t.rate * TRAIN_COST_BASE * TRAIN_COST_GROWTH ** t.rank)

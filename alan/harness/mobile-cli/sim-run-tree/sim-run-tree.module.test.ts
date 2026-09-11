@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   shellRepoPath,
   simRunNativeShellDir,
   simRunRootRel,
   simRunSharedRepoPaths,
   simRunSourceRepoPaths,
-} from "./sim-run-tree.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 
 const APP: MobileApp = {
   slug: "example",

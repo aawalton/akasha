@@ -1,9 +1,9 @@
+import type { RingScale } from "akasha/alan/harness/readouts/body/readout-body.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 import {
   askingFor,
   type Fetcher,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import type { RingScale } from "../body/readout-body.module.code.ts"
-import { statedAt } from "../tier/readout-tier.module.code.ts"
 
 const READOUT_SCALE = "readout-scale"
 

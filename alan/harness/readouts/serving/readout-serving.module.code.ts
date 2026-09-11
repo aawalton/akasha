@@ -1,13 +1,19 @@
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   READOUT_CACHE_CONTROL,
   RING_CREDENTIAL_HEADER,
   refuseWithoutSecret,
-} from "../credential/readout-credential.module.code.ts"
-import { noneLeftIn, stated } from "../none-left/readout-none-left.module.code.ts"
-import { type Reading, readingOn } from "../reading/readout-reading.module.code.ts"
-import { relayedHeld } from "../relay/readout-relay.module.code.ts"
-import { readScale } from "../scale-reading/readout-scale-reading.module.code.ts"
+} from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
+import {
+  noneLeftIn,
+  stated,
+} from "akasha/alan/harness/readouts/none-left/readout-none-left.module.code.ts"
+import {
+  type Reading,
+  readingOn,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { relayedHeld } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { readScale } from "akasha/alan/harness/readouts/scale-reading/readout-scale-reading.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 

@@ -1,4 +1,7 @@
-import { BUILD_SHA_ENV_NAME, parseBuildSha } from "../build-sha/build-sha.module.code.ts"
+import {
+  BUILD_SHA_ENV_NAME,
+  parseBuildSha,
+} from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
 
 const NO_STORE = { "cache-control": "no-store" } as const
 

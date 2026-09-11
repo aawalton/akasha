@@ -1,10 +1,10 @@
 "use client"
 
-import { useEffect } from "react"
 import {
   type ErrorApp,
   setupGlobalErrorHandlers,
-} from "../global-error-capture/global-error-capture.module.code.ts"
+} from "akasha/alan/harness/errors-client/global-error-capture/global-error-capture.module.code.ts"
+import { useEffect } from "react"
 
 export type ErrorCaptureInstallerProps = {
   readonly app: ErrorApp

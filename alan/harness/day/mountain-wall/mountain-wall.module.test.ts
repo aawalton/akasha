@@ -6,7 +6,7 @@ import {
   mountainWallSaid,
   readMountainWallTime,
   windowAround,
-} from "./mountain-wall.module.code.ts"
+} from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import {
   AT_0200_MST_AUTUMN,
   AT_0330_MDT_SPRING,
@@ -22,7 +22,7 @@ import {
   JUNK_NO_TIME_READS,
   MS_PER_HOUR,
   refusalOf,
-} from "./mountain-wall.module.test-fixtures.ts"
+} from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.test-fixtures.ts"
 
 describe("the window a bare wall time is looked for in", () => {
   test("a twelve hour reading reaches eleven hours back and one hour on", () => {

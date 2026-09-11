@@ -1,6 +1,25 @@
 import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
+  decide,
+  type Held,
+  heldAfter,
+  NOTHING_WRITTEN,
+  released,
+  releasedHeld,
+} from "akasha/alan/harness/code-editor/data-interfaces/state-cooldown/state-cooldown.module.code.ts"
+import {
+  statusBarLine,
+  watchedFoldersIn,
+} from "akasha/alan/harness/code-editor/data-interfaces/status-bar-composing/status-bar-composing.module.code.ts"
+import {
+  agentTreeLine,
+  commandTreeLine,
+  domainTreeLine,
+  pageTreeLine,
+  workTreeLine,
+} from "akasha/alan/harness/code-editor/data-interfaces/tree-drawing/tree-drawing.module.code.ts"
+import {
   everyOfType,
   indexNamed,
   typeSlugOf,
@@ -13,35 +32,16 @@ import {
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import { seatTurnStateOf } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 import {
-  dirsOf,
-  followFolders,
-  followWithin,
-} from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
-import {
   MARK_TAIL,
   marksIn,
   seatByShellPid,
   seatMarksAt,
-} from "../../../../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+} from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import {
-  decide,
-  type Held,
-  heldAfter,
-  NOTHING_WRITTEN,
-  released,
-  releasedHeld,
-} from "../state-cooldown/state-cooldown.module.code.ts"
-import {
-  statusBarLine,
-  watchedFoldersIn,
-} from "../status-bar-composing/status-bar-composing.module.code.ts"
-import {
-  agentTreeLine,
-  commandTreeLine,
-  domainTreeLine,
-  pageTreeLine,
-  workTreeLine,
-} from "../tree-drawing/tree-drawing.module.code.ts"
+  dirsOf,
+  followFolders,
+  followWithin,
+} from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"

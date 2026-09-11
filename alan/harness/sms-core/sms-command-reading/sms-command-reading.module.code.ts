@@ -1,12 +1,9 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Given } from "../../../../commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
-import {
-  type Filing,
-  filing,
-} from "../../../../commands/modules/filling/command-filling.module.code.ts"
-import { inputIn, type Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { type Filing, filing } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 
 export const JSON_SAID = "--json"
 

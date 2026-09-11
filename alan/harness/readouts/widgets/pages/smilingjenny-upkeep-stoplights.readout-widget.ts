@@ -1,4 +1,4 @@
-import type { ReadoutWidget } from "../readout-widget.page-type.types.ts"
+import type { ReadoutWidget } from "akasha/alan/harness/readouts/widgets/readout-widget.page-type.types.ts"
 
 export const smilingjennyUpkeepStoplights = {
   id: "01a08bf3-8081-756b-b9b4-131b64992b41",

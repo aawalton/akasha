@@ -2,12 +2,6 @@ import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
-import {
   type CutFingerprint,
   compareCutStatus,
   cutFingerprintValues,
@@ -19,7 +13,13 @@ import {
   MOBILE_CUT_PAGE_TYPE_SLUG,
   readCutPages,
   readLatestCutFingerprint,
-} from "./cut-fingerprint.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 
 const BASIS: CutFingerprint = {
   buildNumber: 198,

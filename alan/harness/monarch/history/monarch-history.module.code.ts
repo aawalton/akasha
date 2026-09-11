@@ -1,9 +1,17 @@
-import type { TransactionLine } from "../files/monarch-files.module.code.ts"
-import { readAllTransactions, readTransactionsBetween } from "../files/monarch-files.module.code.ts"
-import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
-import type { Rule } from "../rules/monarch-rules.module.code.ts"
-import { bearsOn, clausesMatch, decide, fires } from "../rules/monarch-rules.module.code.ts"
-import type { Subject } from "../transaction/monarch-transaction.module.code.ts"
+import type { TransactionLine } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import {
+  readAllTransactions,
+  readTransactionsBetween,
+} from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { categoryTitles } from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import {
+  bearsOn,
+  clausesMatch,
+  decide,
+  fires,
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Subject } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export interface HistoryRow {
   readonly monarchId: string

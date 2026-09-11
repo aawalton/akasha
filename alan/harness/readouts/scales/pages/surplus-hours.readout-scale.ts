@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
+import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-scale.page-type.types.ts"
 
 export const surplusHours = {
   id: "01a05fc3-145a-7dca-83d9-5316786fa83c",

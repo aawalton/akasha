@@ -1,20 +1,20 @@
-import { checkedAmountClause } from "../rule-amounts/monarch-rule-amounts.module.code.ts"
+import { checkedAmountClause } from "akasha/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.code.ts"
 import {
   checkedDateClauses,
   monthNumberFrom,
-} from "../rule-dates/monarch-rule-dates.module.code.ts"
+} from "akasha/alan/harness/monarch/rule-dates/monarch-rule-dates.module.code.ts"
 import type {
   Match,
   MatchComparison,
   MatchKey,
   Outcome,
   Rule,
-} from "../rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 import {
   COMPARISONS_READ,
   MATCH_COMPARISONS,
   MATCH_KEYS,
-} from "../rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 
 function checkedNote(rule: Rule): undefined {
   if (rule.note === null) return

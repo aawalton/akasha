@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { APP_ORIGIN, buildAppUrl } from "./sim-driver.module.code.ts"
+import {
+  APP_ORIGIN,
+  buildAppUrl,
+} from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
 
 describe("buildAppUrl", () => {
   test("prefixes the app origin and adds a leading slash when missing", () => {

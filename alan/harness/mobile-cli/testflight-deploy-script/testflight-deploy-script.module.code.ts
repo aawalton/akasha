@@ -1,6 +1,10 @@
-import { ALTOOL_MARKERS, buildUploadApp, buildValidateApp } from "../altool/altool.module.code.ts"
-import { buildStampGate } from "../build-stamp-gate/build-stamp-gate.module.code.ts"
-import { buildExportOptionsPlist } from "../export-options-plist/export-options-plist.module.code.ts"
+import {
+  ALTOOL_MARKERS,
+  buildUploadApp,
+  buildValidateApp,
+} from "akasha/alan/harness/mobile-cli/altool/altool.module.code.ts"
+import { buildStampGate } from "akasha/alan/harness/mobile-cli/build-stamp-gate/build-stamp-gate.module.code.ts"
+import { buildExportOptionsPlist } from "akasha/alan/harness/mobile-cli/export-options-plist/export-options-plist.module.code.ts"
 import {
   ascAuthArgs,
   buildKeychainUnlock,
@@ -9,23 +13,23 @@ import {
   buildRunCheckout,
   CHECKOUT_ROOT,
   SCRIPT_HEADER,
-} from "../foundation/foundation.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
 import {
   buildEnsureAppStoreProfile,
   buildLoginOnlyKeychainScope,
-} from "../ios-signing/ios-signing.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/ios-signing/ios-signing.module.code.ts"
 import {
   buildAcquireMacBuildLock,
   buildChooseBuildNumber,
   buildReleaseMacBuildLock,
   buildReserveBuildNumber,
-} from "../mac-build-serialization/mac-build-serialization.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/mac-build-serialization/mac-build-serialization.module.code.ts"
 import {
   iosAppDir,
   type MobileApp,
   macWwwStagingDir,
   nativeShellDir,
-} from "../mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
   readonly app: MobileApp

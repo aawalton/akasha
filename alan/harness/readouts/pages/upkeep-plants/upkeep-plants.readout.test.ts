@@ -1,7 +1,14 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "../../asking/readout-asking.module.test-fixtures.ts"
-import { entriesBetween, fetchPlantGrams, gramsIn } from "./upkeep-plants.readout.code.ts"
-import { ate } from "./upkeep-plants.readout.test-fixtures.ts"
+import {
+  answering,
+  refusing,
+} from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
+import {
+  entriesBetween,
+  fetchPlantGrams,
+  gramsIn,
+} from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts"
+import { ate } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
 
 const FROM = "2026-09-01T13:00:00.000Z"
 

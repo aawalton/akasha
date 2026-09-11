@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const signInForm = {
   id: "01a08e25-b176-7b8a-a831-12be30fc3c71",

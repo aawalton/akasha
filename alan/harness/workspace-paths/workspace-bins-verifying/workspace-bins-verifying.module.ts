@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const workspaceBinsVerifying = {
   id: "01a0683d-3c17-736b-ae61-e1f0c1749067",

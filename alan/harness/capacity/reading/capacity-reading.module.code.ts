@@ -7,9 +7,9 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { dayValuesByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+import { sessionsOfDay } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { dayValuesByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
-import { sessionsOfDay } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-capacity"
 

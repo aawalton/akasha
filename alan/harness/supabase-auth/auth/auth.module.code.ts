@@ -1,10 +1,10 @@
 import type { SupabaseClient } from "@supabase/supabase-js"
-import { parseClaimsToUser } from "../claims/claims.module.code.ts"
+import { parseClaimsToUser } from "akasha/alan/harness/supabase-auth/claims/claims.module.code.ts"
 import {
   type AuthResult,
   type SupabaseUser,
   toSupabaseUser,
-} from "../supabase-user/supabase-user.module.code.ts"
+} from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
 
 export function isInvalidCredentialsError(error: unknown): boolean {
   if (typeof error === "string") return /invalid (login )?credentials/i.test(error)

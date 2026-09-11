@@ -1,4 +1,7 @@
-import { holdRelayed, relayReading } from "./readout-relay.module.code.ts"
+import {
+  holdRelayed,
+  relayReading,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 
 export function relayedFor(
   readout: string,

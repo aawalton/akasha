@@ -7,7 +7,7 @@ import {
   resolveWdaLocalPort,
   type SimSessionState,
   WEBVIEW_BUNDLE_ID,
-} from "./sim-session.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 
 const STATE: SimSessionState = {
   sessionId: "sess-1",

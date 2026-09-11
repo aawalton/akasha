@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { verifyTelnyxSignature } from "./verify-signature.module.code.ts"
-import { bytesToBase64 } from "./verify-signature.module.test-fixtures.ts"
+import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.code.ts"
+import { bytesToBase64 } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.test-fixtures.ts"
 
 async function keypair(): Promise<{ privateKey: CryptoKey; publicKeyBase64: string }> {
   const generated = await crypto.subtle.generateKey({ name: "Ed25519" }, true, ["sign", "verify"])

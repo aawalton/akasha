@@ -1,15 +1,9 @@
-import { kebabisedRow } from "akasha/pages/akasha-page-values/akasha-page-values.module.code.ts"
-import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { charismaIn } from "../../../attributes/pages/charisma/charisma.attribute.code.ts"
-import { fetchConstitutionPoints } from "../../../attributes/pages/constitution/constitution.attribute.code.ts"
-import { enduranceIn } from "../../../attributes/pages/endurance/endurance.attribute.code.ts"
-import { intelligenceIn } from "../../../attributes/pages/intelligence/intelligence.attribute.code.ts"
-import { strengthIn } from "../../../attributes/pages/strength/strength.attribute.code.ts"
-import { wisdomIn } from "../../../attributes/pages/wisdom/wisdom.attribute.code.ts"
-import { openedDayWindow } from "../../../track/daily/day-opening/day-opening.module.code.ts"
-import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
+import { charismaIn } from "akasha/alan/attributes/pages/charisma/charisma.attribute.code.ts"
+import { fetchConstitutionPoints } from "akasha/alan/attributes/pages/constitution/constitution.attribute.code.ts"
+import { enduranceIn } from "akasha/alan/attributes/pages/endurance/endurance.attribute.code.ts"
+import { intelligenceIn } from "akasha/alan/attributes/pages/intelligence/intelligence.attribute.code.ts"
+import { strengthIn } from "akasha/alan/attributes/pages/strength/strength.attribute.code.ts"
+import { wisdomIn } from "akasha/alan/attributes/pages/wisdom/wisdom.attribute.code.ts"
 import {
   CHARISMA_PAGE,
   CONSTITUTION_PAGE,
@@ -19,7 +13,13 @@ import {
   spelledBack,
   type Taken,
   WISDOM_PAGE,
-} from "../reading/attributes-reading.module.code.ts"
+} from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
+import { askingIn } from "akasha/alan/harness/plants/reading/plants-reading.module.code.ts"
+import { openedDayWindow } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import { kebabisedRow } from "akasha/pages/akasha-page-values/akasha-page-values.module.code.ts"
+import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const DAY_PAGE_TYPE = "day"
 

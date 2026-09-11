@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const errorsCore = {
   id: "01a05c48-deeb-7013-b082-9b135a70f3cc",

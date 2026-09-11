@@ -22,9 +22,13 @@ import {
   SEATLOCK_PER,
   TIER_PER,
   TIER_STEP,
-} from "../idle-constants/idle-constants.module.code.ts"
-import { isUnlocked } from "../idle-gacha-state/idle-gacha-state.module.code.ts"
-import type { GameState, SeatTiers, Teammate } from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import { isUnlocked } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import type {
+  GameState,
+  SeatTiers,
+  Teammate,
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export function rolesUnlocked(_s: GameState): boolean {
   return true

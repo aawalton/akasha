@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
+import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarch-account.page-type.types.ts"
 
 export const checkingProtection4299 = {
   id: "01a06559-5ea8-700a-9516-74472edabc6d",

@@ -4,8 +4,12 @@ import {
   DRAW_COST_GROWTH,
   STAR_PER,
   STAR_THRESHOLDS,
-} from "../idle-constants/idle-constants.module.code.ts"
-import type { GachaGirl, GameState, Teammate } from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import type {
+  GachaGirl,
+  GameState,
+  Teammate,
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export function isUnlocked(s: GameState, slug: string): boolean {
   return s.gacha.girls[slug] !== undefined

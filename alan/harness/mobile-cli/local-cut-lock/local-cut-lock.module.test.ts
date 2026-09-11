@@ -6,7 +6,7 @@ import {
   LOCAL_CUT_LOCK_PATH,
   type LockRecord,
   parseLockRecord,
-} from "./local-cut-lock.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/local-cut-lock/local-cut-lock.module.code.ts"
 
 const RECORD: LockRecord = { pid: 4242, startedAtMs: 1_000_000 }
 

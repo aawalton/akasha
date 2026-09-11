@@ -1,5 +1,5 @@
-import type { Asking, Row } from "../../asking/readout-asking.module.code.ts"
-import { statedAt } from "../../tier/readout-tier.module.code.ts"
+import type { Asking, Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 
 const FOOD_ENTRY = "food-entry"
 

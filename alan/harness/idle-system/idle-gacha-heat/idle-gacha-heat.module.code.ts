@@ -2,13 +2,13 @@ import {
   BLESS_MULT,
   BLOOM_MULT,
   WEATHER_BONUS,
-} from "../idle-constants/idle-constants.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
 import {
   activeBloomPair,
   activeWeatherSlug,
   blessedSlug,
-} from "../idle-dormancy/idle-dormancy.module.code.ts"
-import type { GameState } from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-dormancy/idle-dormancy.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export function hotFactor(slug: string, s: GameState): number {
   let f = 1

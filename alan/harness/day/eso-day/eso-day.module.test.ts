@@ -1,5 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { getEsoDayStr, getEsoDayWindow, getEsoResetTime } from "./eso-day.module.code.ts"
+import {
+  getEsoDayStr,
+  getEsoDayWindow,
+  getEsoResetTime,
+} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 
 describe("where the eso day turns", () => {
   test("the reset is 06:00 Eastern, so 05:59 still belongs to the day before", () => {

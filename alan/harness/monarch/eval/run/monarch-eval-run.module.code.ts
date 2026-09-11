@@ -1,16 +1,34 @@
 #!/usr/bin/env bun
 
+import type { Proposal } from "akasha/alan/harness/monarch/eval/agent/monarch-eval-agent.module.code.ts"
+import {
+  BATCH,
+  MODEL,
+  offerable,
+  runBatch,
+} from "akasha/alan/harness/monarch/eval/agent/monarch-eval-agent.module.code.ts"
+import type {
+  Candidate,
+  Pool,
+} from "akasha/alan/harness/monarch/eval/population/monarch-eval-population.module.code.ts"
+import {
+  draw,
+  population,
+  STRATA,
+} from "akasha/alan/harness/monarch/eval/population/monarch-eval-population.module.code.ts"
+import type { Digest } from "akasha/alan/harness/monarch/eval/snapshot/monarch-eval-snapshot.module.code.ts"
+import {
+  digest,
+  moved,
+} from "akasha/alan/harness/monarch/eval/snapshot/monarch-eval-snapshot.module.code.ts"
+import { readHistory } from "akasha/alan/harness/monarch/history/monarch-history.module.code.ts"
+import { loadCategoryRules } from "akasha/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts"
+import {
+  categoryTitles,
+  readFlags,
+} from "akasha/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts"
 import { chunk } from "akasha/utils/narrow/chunk/chunk.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { readHistory } from "../../history/monarch-history.module.code.ts"
-import { loadCategoryRules } from "../../rule-documents/monarch-rule-documents.module.code.ts"
-import { categoryTitles, readFlags } from "../../rule-pages/monarch-rule-pages.module.code.ts"
-import type { Proposal } from "../agent/monarch-eval-agent.module.code.ts"
-import { BATCH, MODEL, offerable, runBatch } from "../agent/monarch-eval-agent.module.code.ts"
-import type { Candidate, Pool } from "../population/monarch-eval-population.module.code.ts"
-import { draw, population, STRATA } from "../population/monarch-eval-population.module.code.ts"
-import type { Digest } from "../snapshot/monarch-eval-snapshot.module.code.ts"
-import { digest, moved } from "../snapshot/monarch-eval-snapshot.module.code.ts"
 
 const PARALLEL = 4
 

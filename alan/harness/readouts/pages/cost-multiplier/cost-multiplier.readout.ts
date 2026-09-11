@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.types.ts"
+import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.types.ts"
 
 export const costMultiplier = {
   id: "01a08b9c-6412-7e0f-8a4e-fc4a180594e6",

@@ -1,5 +1,5 @@
-import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
-import type { Contact } from "../contacts-db/contacts-db.module.code.ts"
+import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
+import type { Contact } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 
 export interface ContactNaming {
   readonly buildNameIndex: (contacts: readonly Contact[]) => ReadonlyMap<string, string>

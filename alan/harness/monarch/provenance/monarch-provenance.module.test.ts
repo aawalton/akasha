@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { recordDecision } from "./monarch-provenance.module.code.ts"
+import { recordDecision } from "akasha/alan/harness/monarch/provenance/monarch-provenance.module.code.ts"
 
 test("a decision records both the kind of thing that decided and the one thing that decided", () => {
   expect(

@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/agents/email-rule-agent.page-type.types.ts"
 
 export const noreplySteampoweredComOther = {
   id: "01a06863-fbe9-78cc-9e0a-4ff1d5dedb14",

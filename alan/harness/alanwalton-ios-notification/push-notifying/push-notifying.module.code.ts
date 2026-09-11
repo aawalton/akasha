@@ -1,8 +1,4 @@
-import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
-import { apnsSenderFromEnv } from "../apns-sending/apns-sending.module.code.ts"
+import { apnsSenderFromEnv } from "akasha/alan/harness/alanwalton-ios-notification/apns-sending/apns-sending.module.code.ts"
 import {
   LOG,
   openState,
@@ -10,7 +6,11 @@ import {
   TICK_CEILING_MS,
   TICK_MS,
   WORKER_NAME,
-} from "../push-notifier-tick/push-notifier-tick.module.code.ts"
+} from "akasha/alan/harness/alanwalton-ios-notification/push-notifier-tick/push-notifier-tick.module.code.ts"
+import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

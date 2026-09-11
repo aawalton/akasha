@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { TIER_ORDER } from "../fall-tier/surplus-fall-tier.module.code.ts"
 import {
   fallBody,
   isWorse,
   SOURCE_PREFIX,
   sourceFor,
   tierInSource,
-} from "./surplus-fall-ticking.module.code.ts"
+} from "akasha/alan/harness/surplus/fall-ticking/surplus-fall-ticking.module.code.ts"
+import { TIER_ORDER } from "akasha/alan/harness/surplus/fall-tier/surplus-fall-tier.module.code.ts"
 
 test("every tier round-trips through the source it is written into", () => {
   for (const tier of TIER_ORDER) {

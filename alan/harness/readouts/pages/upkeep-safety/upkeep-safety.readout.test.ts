@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { levelIn } from "./upkeep-safety.readout.code.ts"
+import { levelIn } from "akasha/alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.code.ts"
 
 test("a level stated as text is read as the number that level spells", () => {
   expect(levelIn({ "safety-level": "3" })).toBe(3)

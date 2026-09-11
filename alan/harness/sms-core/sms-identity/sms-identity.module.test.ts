@@ -4,7 +4,7 @@ import {
   normalizePhone,
   projectSmsIdentities,
   type SmsExternalIdentity,
-} from "./sms-identity.module.code.ts"
+} from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
 
 const ENROLLED: SmsExternalIdentity = {
   phoneDigits: "8015551234",

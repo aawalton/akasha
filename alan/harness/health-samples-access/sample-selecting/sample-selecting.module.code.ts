@@ -1,10 +1,17 @@
 import { existsSync, readFileSync } from "node:fs"
+import { instantMs } from "akasha/alan/harness/health-samples-access/sample-identity/sample-identity.module.code.ts"
+import {
+  ANCHOR_PAGE_TYPE,
+  ROW_CEILING,
+  recordOf,
+} from "akasha/alan/harness/health-samples-access/sample-rows/sample-rows.module.code.ts"
+import type {
+  HealthMetric,
+  HealthSampleRecord,
+} from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { z } from "zod"
-import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
-import { ANCHOR_PAGE_TYPE, ROW_CEILING, recordOf } from "../sample-rows/sample-rows.module.code.ts"
-import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
 
 export const SAMPLE_ROWS_KEY = "health-samples"
 

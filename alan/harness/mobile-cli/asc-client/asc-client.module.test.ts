@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { z } from "zod"
 import {
   appsResponseSchema,
   buildAscJwt,
@@ -10,7 +9,8 @@ import {
   pickInternalBuildState,
   pickLatestBuild,
   pickMaxBuildVersion,
-} from "./asc-client.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
+import { z } from "zod"
 
 async function generateEcPem(): Promise<{ pem: string; publicKey: CryptoKey }> {
   const pair = await crypto.subtle.generateKey({ name: "ECDSA", namedCurve: "P-256" }, true, [

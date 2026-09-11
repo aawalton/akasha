@@ -1,12 +1,15 @@
-import { CARD_PALETTE } from "../idle-constants/idle-constants.module.code.ts"
-import { hotFactor } from "../idle-gacha-heat/idle-gacha-heat.module.code.ts"
-import { applyDupeFuel, drawCost } from "../idle-gacha-state/idle-gacha-state.module.code.ts"
+import { CARD_PALETTE } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import { hotFactor } from "akasha/alan/harness/idle-system/idle-gacha-heat/idle-gacha-heat.module.code.ts"
+import {
+  applyDupeFuel,
+  drawCost,
+} from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
 import type {
   GachaGirl,
   GachaState,
   GameState,
   Teammate,
-} from "../idle-state/idle-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 export type DrawGirl = {
   readonly slug: string

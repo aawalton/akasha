@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
-import { backlogCount } from "../scales/pages/backlog-count.readout-scale.ts"
-import { ReadoutRing, rungOf, statedIn, sweptBy } from "./readout-ring.module.code.tsx"
+import {
+  ReadoutRing,
+  rungOf,
+  statedIn,
+  sweptBy,
+} from "akasha/alan/harness/readouts/ring/readout-ring.module.code.tsx"
+import { backlogCount } from "akasha/alan/harness/readouts/scales/pages/backlog-count.readout-scale.ts"
 
 const ASCENDING = {
   id: "01a05453-a4f1-7185-b176-4cc4ae7266f7",

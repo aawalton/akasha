@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { decideStaleness } from "./sim-www-stage.module.code.ts"
+import { decideStaleness } from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
 
 const WWW = "/repo/native-shell/alanwalton/www"
 const SRC = "/repo/packages/alanwalton/web"

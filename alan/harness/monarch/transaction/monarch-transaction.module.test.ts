@@ -11,7 +11,7 @@ import {
   UNATTENDED_DAYS,
   UNCATEGORIZED,
   unattendedFrom,
-} from "./monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 test("a description is the merchant and the statement line joined, in that order", () => {
   expect(descriptionOf({ merchant: "Costco", statement: "COSTCO WHSE #0392" })).toBe(

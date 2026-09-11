@@ -1,18 +1,18 @@
-import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
-import {
-  DAILY_TRACKING,
-  landDayPage,
-} from "../../../track/daily/day-place/day-place.module.code.ts"
-import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
-import { resolveOrCreateDaily } from "../../../track/daily/track-resolve/track-resolve.module.code.ts"
 import {
   CLEARED_ATTR,
   COUNT_ATTR,
   INBOX_KEYS,
   type InboxKey,
-} from "../keys/inbox-keys.module.code.ts"
+} from "akasha/alan/harness/inboxes/keys/inbox-keys.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import {
+  DAILY_TRACKING,
+  landDayPage,
+} from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
+import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+import { resolveOrCreateDaily } from "akasha/alan/track/daily/track-resolve/track-resolve.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export const INBOX_WRITER = "inbox-tracking"
 

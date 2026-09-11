@@ -1,8 +1,8 @@
-import type { Movement } from "../amazon-match/monarch-amazon-match.module.code.ts"
-import { movementOf } from "../amazon-match/monarch-amazon-match.module.code.ts"
-import { AMAZON_SINCE } from "../amazon-write/monarch-amazon-write.module.code.ts"
-import type { TransactionLine } from "../files/monarch-files.module.code.ts"
-import { readAllTransactions } from "../files/monarch-files.module.code.ts"
+import type { Movement } from "akasha/alan/harness/monarch/amazon-match/monarch-amazon-match.module.code.ts"
+import { movementOf } from "akasha/alan/harness/monarch/amazon-match/monarch-amazon-match.module.code.ts"
+import { AMAZON_SINCE } from "akasha/alan/harness/monarch/amazon-write/monarch-amazon-write.module.code.ts"
+import type { TransactionLine } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
+import { readAllTransactions } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 
 export function namesAmazon(line: TransactionLine): boolean {
   return (line.merchant ?? "").toLowerCase().includes("amazon")

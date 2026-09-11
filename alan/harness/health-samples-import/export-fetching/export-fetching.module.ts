@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const exportFetching = {
   id: "01a05c14-b11a-7000-a275-a3e0c5949f69",

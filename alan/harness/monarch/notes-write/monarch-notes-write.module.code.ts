@@ -1,6 +1,18 @@
-import type { MonarchTag, MonarchTransaction } from "../client/monarch-client.module.code.ts"
-import { monarchQuery, refused } from "../client/monarch-client.module.code.ts"
-import { array, num, object, optional, str } from "../shape/monarch-shape.module.code.ts"
+import type {
+  MonarchTag,
+  MonarchTransaction,
+} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import {
+  monarchQuery,
+  refused,
+} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
+import {
+  array,
+  num,
+  object,
+  optional,
+  str,
+} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
 
 const UPDATE_NOTES = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {

@@ -6,7 +6,7 @@ import {
   describeDateClauses,
   monthListFrom,
   monthNumberFrom,
-} from "./monarch-rule-dates.module.code.ts"
+} from "akasha/alan/harness/monarch/rule-dates/monarch-rule-dates.module.code.ts"
 
 const clauses = (over: Partial<Parameters<typeof dateClausesMatch>[0]> = {}) => ({
   onOrAfter: null,

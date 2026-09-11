@@ -1,15 +1,15 @@
-import { merchantOf } from "../merchant-naming/monarch-merchant-naming.module.code.ts"
-import type { AmountClause } from "../rule-amounts/monarch-rule-amounts.module.code.ts"
-import { amountClauseMatches } from "../rule-amounts/monarch-rule-amounts.module.code.ts"
-import type { DateClauses } from "../rule-dates/monarch-rule-dates.module.code.ts"
-import { dateClausesMatch } from "../rule-dates/monarch-rule-dates.module.code.ts"
-import type { Subject } from "../transaction/monarch-transaction.module.code.ts"
+import { merchantOf } from "akasha/alan/harness/monarch/merchant-naming/monarch-merchant-naming.module.code.ts"
+import type { AmountClause } from "akasha/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.code.ts"
+import { amountClauseMatches } from "akasha/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.code.ts"
+import type { DateClauses } from "akasha/alan/harness/monarch/rule-dates/monarch-rule-dates.module.code.ts"
+import { dateClausesMatch } from "akasha/alan/harness/monarch/rule-dates/monarch-rule-dates.module.code.ts"
+import type { Subject } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 import {
   accountKey,
   cents,
   dayGap,
   descriptionOf,
-} from "../transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export const MATCH_KEYS = ["merchant", "sign", "account", "amount", "month", "date"] as const
 

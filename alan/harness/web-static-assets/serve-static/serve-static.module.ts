@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const serveStatic = {
   id: "01a05c48-deeb-7006-8e9c-b8c5539dd296",

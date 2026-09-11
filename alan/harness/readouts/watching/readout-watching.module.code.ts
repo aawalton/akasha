@@ -1,17 +1,21 @@
 import { join } from "node:path"
-import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { fileFor } from "akasha/pages/indexes/value/index-value.index.code.ts"
-import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
-import { followWithin } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { keepReading, NOT_FALLING, readingKept } from "../reading/readout-reading.module.code.ts"
+import {
+  keepReading,
+  NOT_FALLING,
+  readingKept,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,
   RELAY_SECRET_NAME,
   readoutNamedBy,
   relayReading,
   statedIn,
-} from "../relay/readout-relay.module.code.ts"
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { fileFor } from "akasha/pages/indexes/value/index-value.index.code.ts"
+import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import { followWithin } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
 
