@@ -72,6 +72,7 @@ export type Landed = {
   readonly noted: readonly string[]
   readonly cleared: readonly string[]
   readonly linked: Linking
+  readonly untracked?: readonly string[]
 }
 
 export type Refused = {
@@ -296,6 +297,7 @@ export async function landing(
       noted: [],
       cleared: [],
       linked: NOTHING_LINKED,
+      untracked: [],
     }
   }
   const outside = changes
@@ -371,11 +373,12 @@ export async function landing(
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
         const commit = committed(root, bodies, took, message, writer)
-        wroteOnto(root, split.uncommitted)
+        const ignoredGone = wroteOnto(root, split.uncommitted)
         const gone = [...put.took, ...then.took, ...moves.map((one) => one.from)]
         const cleared = clearedOff(root, gone)
         const linked = linkedOver(root, moves, homedir())
-        return { base, commit, wrote, took, noted, cleared, linked }
+        const untracked = [...ignoredGone.took].sort()
+        return { base, commit, wrote, took, noted, cleared, linked, untracked }
       } catch (thrown) {
         back()
         throw thrown

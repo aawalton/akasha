@@ -36,6 +36,26 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "An apply that committed nothing says which of the two reasons it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree already holding what was asked for is one reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Paths the repository ignores being taken away is the other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that took such a path away names every path it took.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The message that apply composed is lost, because no commit holds it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The rows an apply lands are handed in.",
     },
     {

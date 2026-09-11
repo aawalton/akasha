@@ -70,6 +70,16 @@ const NO_MEASURE = "`measure` takes `true`, and this one says something else"
 const NOTHING_MEASURED =
   "this apply was to measure, and nothing it carries sits beside a test, so nothing landed"
 
+const NOTHING_COMMITTED = "nothing was committed — the tree already holds what the change asked for"
+
+const TOOK_OUTSIDE = "nothing was committed, because git ignores the path(s) this apply took away:"
+
+export function commitSaid(commit: string | null, untracked: readonly string[]): string {
+  if (commit !== null) return `committed as ${commit}`
+  if (untracked.length === 0) return NOTHING_COMMITTED
+  return `${TOOK_OUTSIDE} ${[...untracked].sort().join(", ")}`
+}
+
 function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
   if (said === null || said.pageType !== SUBAGENT) return null
@@ -177,9 +187,7 @@ export async function applying(
         ...formattedSaid(said.formatted),
         ...said.said,
         ...(broken === null ? [] : [glassSaid(broken)]),
-        said.commit === null
-          ? "nothing was committed — the tree already holds what the change asked for"
-          : `committed as ${said.commit}`,
+        commitSaid(said.commit, said.untracked ?? []),
       ],
       refusals: keeping(said.wrong),
       code: said.wrong.length === 0 ? 0 : 3,
@@ -211,6 +219,7 @@ export type Applied = {
   readonly said: readonly string[]
   readonly wrong: readonly string[]
   readonly commit: string | null
+  readonly untracked?: readonly string[]
 }
 
 export function warrantedAgain(
@@ -316,5 +325,6 @@ export async function applied(
     said: [...prepared.said, ...put.said, ...done.linked.said],
     wrong: [...put.wrong, ...done.linked.wrong],
     commit: done.commit,
+    untracked: done.untracked,
   }
 }

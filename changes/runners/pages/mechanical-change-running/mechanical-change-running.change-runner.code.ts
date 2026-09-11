@@ -68,6 +68,7 @@ export async function runMechanicalChange(
       said: [NOTHING_MOVED],
       wrong: [],
       commit: null,
+      untracked: [],
     }
   }
   const worked = landingFrom(root, baseOf(root), said)

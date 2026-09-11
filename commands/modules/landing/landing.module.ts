@@ -134,7 +134,16 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the repository ignores is answered as neither written nor taken.",
+      statement:
+        "A path the repository ignores that is written is answered as neither written nor taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the repository ignores that is taken away is answered on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer is what says a removal no commit holds happened at all.",
     },
     {
       invariantKind: "departure",
