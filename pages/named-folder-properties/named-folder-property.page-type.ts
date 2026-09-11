@@ -13,7 +13,6 @@ export const namedFolderProperty = {
     { pageProperty: "text-property/folder-name", required: true, many: false },
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
     { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
-    { pageProperty: "text-property/extensions", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
@@ -52,16 +51,6 @@ export const namedFolderProperty = {
       invariantKind: "departure",
       statement:
         "A property saying its folder is judged for no length says so of each of them too.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A property naming no endings speaks for the folder rather than for the files beneath it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A property naming endings speaks for a file beneath it only where that file carries one.",
     },
   ],
   types: "ts",

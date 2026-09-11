@@ -15,7 +15,6 @@ import {
   heldBeside,
   heldUnder,
   type Naming,
-  speaksFor,
   toolResolvesPaths,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
@@ -355,28 +354,12 @@ test("a file under the folder a property names is held under that property", () 
   expect(under("one/Icons/chest.dds", ICONS)).toBe(true)
 })
 
-test("a property naming no endings holds every file under its folder", () => {
-  expect(under("one/Icons/two.module.code.ts", ICONS)).toBe(true)
-})
-
 test("a folder named as a lone dot is the folder the carrying page sits in", () => {
   expect(under("one/chest.dds", OWN)).toBe(true)
 })
 
-test("a property naming endings holds no file under it carrying another ending", () => {
-  expect(under("one/two.module.code.ts", OWN)).toBe(false)
-})
-
 test("a file outside the folder a property names is held under nothing", () => {
   expect(under("three/chest.dds", OWN)).toBe(false)
-})
-
-test("a property naming an ending speaks for a file carrying that ending", () => {
-  expect(speaksFor("one/chest.dds", { extensions: ["dds"] })).toBe(true)
-})
-
-test("a property naming no endings speaks for every file", () => {
-  expect(speaksFor("one/two.module.code.ts", {})).toBe(true)
 })
 
 test("the folder a file is beside is the one the index says the carrying page sits in", () => {

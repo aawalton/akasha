@@ -18,7 +18,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import { textsAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const DECLARES = "page-property"
 
@@ -31,8 +31,6 @@ const RECORD_PROPERTY = "record-property"
 const FILE_NAME = "fileName"
 
 const FOLDER_NAME = "folderName"
-
-const EXTENSIONS = "extensions"
 
 const NAMED_FOLDER_PROPERTY = "named-folder-property"
 
@@ -173,19 +171,12 @@ export function heldBeside(
   return false
 }
 
-export function speaksFor(path: string, value: Value): boolean {
-  if (value[EXTENSIONS] === undefined) return true
-  const endings = textsAt(value, EXTENSIONS)
-  if (endings === null) return false
-  return endings.some((one) => path.endsWith(`.${one}`))
-}
-
 function foldersNamed(
   naming: Iterable<Naming>,
   wanted: (value: Value) => boolean,
   carriedBy: (named: string) => Carried
-): ReadonlyMap<string, readonly Value[]> {
-  const made = new Map<string, Value[]>()
+): ReadonlySet<string> {
+  const made = new Set<string>()
   for (const one of naming) {
     const value = one.value
     if (value === null || !wanted(value)) continue
@@ -195,26 +186,18 @@ function foldersNamed(
     if (said === null || said.sections.length > 0) continue
     const held = carriedBy(`${said.pageType}/${said.slug}`)
     if ("refused" in held) continue
-    for (const two of held.carrying) {
-      const at = join(dirname(two.path), folder)
-      const had = made.get(at) ?? []
-      had.push(value)
-      made.set(at, had)
-    }
+    for (const two of held.carrying) made.add(join(dirname(two.path), folder))
   }
   return made
 }
 
-const NAMED_FOLDERS = new WeakMap<
-  object,
-  Map<(value: Value) => boolean, ReadonlyMap<string, readonly Value[]>>
->()
+const NAMED_FOLDERS = new WeakMap<object, Map<(value: Value) => boolean, ReadonlySet<string>>>()
 
 function foldersNamedFor(
   naming: Iterable<Naming>,
   wanted: (value: Value) => boolean,
   carriedBy: (named: string) => Carried
-): ReadonlyMap<string, readonly Value[]> {
+): ReadonlySet<string> {
   let held = NAMED_FOLDERS.get(naming)
   if (held === undefined) {
     held = new Map()
@@ -238,7 +221,7 @@ export function heldUnder(
   let at = dirname(path)
   let up = dirname(at)
   while (at !== up) {
-    if (folders.get(at)?.some((one) => speaksFor(path, one)) === true) return true
+    if (folders.has(at)) return true
     at = up
     up = dirname(at)
   }

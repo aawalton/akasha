@@ -94,14 +94,6 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder property naming endings is under only the files carrying one of them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder property naming no endings is under every file beneath its folder.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file outside every such folder is under nothing.",
     },
     {

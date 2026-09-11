@@ -46,7 +46,7 @@ export const ICONS: Naming = {
 
 export const OWN: Naming = {
   path: "akasha/icons.named-folder-property.ts",
-  value: { folderName: ".", extensions: ["dds"], said: true },
+  value: { folderName: ".", said: true },
 }
 
 const ADDON = "one/two.eso-addon.ts"
