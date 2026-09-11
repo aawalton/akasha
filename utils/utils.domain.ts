@@ -17,6 +17,7 @@ export const utils = {
     "domain/utils-system",
     "domain/utils-sync",
     "domain/utils-text",
+    "domain/utils-timing",
     "domain/utils-waiting",
     "domain/digit-padding",
   ],

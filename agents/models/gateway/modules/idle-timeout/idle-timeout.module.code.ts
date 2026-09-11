@@ -1,3 +1,5 @@
+import { armedTimer } from "akasha/utils/timing/armed-timer/armed-timer.module.code.ts"
+
 export const UPSTREAM_IDLE_TIMEOUT_TOKEN = "oauth-proxy upstream idle timeout"
 
 export type IdleGuard = {
@@ -13,46 +15,26 @@ export type IdleTimers = {
   clear: (handle: ReturnType<typeof setTimeout>) => void
 }
 
-const DEFAULT_TIMERS: IdleTimers = {
-  set: (fn, ms) => setTimeout(fn, ms),
-  clear: (handle) => clearTimeout(handle),
-}
-
 export function buildIdleGuard(
   idleMs: number,
   logPrefix: string,
   label: string,
-  timers: IdleTimers = DEFAULT_TIMERS
+  timers?: IdleTimers
 ): IdleGuard {
   const controller = new AbortController()
-  let timer: ReturnType<typeof setTimeout> | null = null
-  let stopped = false
-
-  const clear = (): undefined => {
-    if (timer != null) {
-      timers.clear(timer)
-      timer = null
-    }
-  }
 
   const fire = (): undefined => {
-    timer = null
     const message = `${UPSTREAM_IDLE_TIMEOUT_TOKEN}: no upstream bytes for ${idleMs}ms (${label})`
     console.error(`${logPrefix} upstream-idle-timeout ${label} idleMs=${idleMs}`)
     controller.abort(new DOMException(message, "TimeoutError"))
   }
 
+  const armed = armedTimer(idleMs, fire, timers)
+
   return {
     signal: controller.signal,
-    reset: (): undefined => {
-      if (stopped) return
-      clear()
-      timer = timers.set(fire, idleMs)
-    },
-    stop: (): undefined => {
-      stopped = true
-      clear()
-    },
+    reset: armed.reset,
+    stop: armed.stop,
   }
 }
 
