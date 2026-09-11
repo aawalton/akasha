@@ -1,5 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, readlinkSync, symlinkSync, writeFileSync } from "node:fs"
+import {
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  readlinkSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { join } from "node:path"
 import {
   atHome,
@@ -55,6 +62,28 @@ test("a link already pointing elsewhere is taken away and made again", () => {
 
   expect(said.wrong).toEqual([])
   expect(readlinkSync(at)).toBe(join(root, "one"))
+})
+
+test("a link already pointing where it should is left alone", () => {
+  const at = join(outside(), "ops")
+  const root = repoOf(pageSaying(at))
+  symlinkSync(join(root, "one"), at)
+
+  const said = linkedOver(root, [{ from: WAS, to: PAGE }], HOME)
+
+  expect(said.wrong).toEqual([])
+  expect(said.said.join("")).toStartWith("left ")
+  expect(readlinkSync(at)).toBe(join(root, "one"))
+})
+
+test("no half-written link is left beside the link placed", () => {
+  const away = outside()
+  const at = join(away, "ops")
+  const root = repoOf(pageSaying(at))
+
+  linkedOver(root, [{ from: WAS, to: PAGE }], HOME)
+
+  expect(readdirSync(away)).toEqual(["ops"])
 })
 
 test("something there that is no link is left as it is and said as wrong", () => {

@@ -30,7 +30,15 @@ export const folderLinking = {
     },
     {
       invariantKind: "departure",
-      statement: "A link already there is taken away and made again.",
+      statement: "A link already pointing where it should is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link pointing anywhere else is taken away and made again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is put in place by a rename, so no call finds the path holding nothing.",
     },
     {
       invariantKind: "departure",

@@ -1,4 +1,12 @@
-import { lstatSync, mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
+import {
+  lstatSync,
+  mkdirSync,
+  readFileSync,
+  readlinkSync,
+  renameSync,
+  rmSync,
+  symlinkSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
@@ -11,6 +19,8 @@ const LINKED_AT = "linkedAt"
 const UNDER_HOME = "~/"
 
 const TS = "ts"
+
+const HALF_WRITTEN = ".tmp-"
 
 export type Linking = {
   readonly said: readonly string[]
@@ -45,13 +55,19 @@ export function askedAt(root: string, path: string, home: string): Asked | null 
 }
 
 export function placedAt(root: string, asked: Asked): string {
+  const target = join(root, asked.folder)
   const held = lstatSync(asked.at, { throwIfNoEntry: false })
   if (held !== undefined && !held.isSymbolicLink()) {
     throw new Error(`${asked.at} is no link, so what is there is left as it is`)
   }
-  if (held !== undefined) rmSync(asked.at)
+  if (held !== undefined && readlinkSync(asked.at) === target) {
+    return `left ${asked.at} linked to ${asked.folder}`
+  }
   mkdirSync(dirname(asked.at), { recursive: true })
-  symlinkSync(join(root, asked.folder), asked.at, "dir")
+  const tmp = `${asked.at}${HALF_WRITTEN}${process.pid}`
+  rmSync(tmp, { force: true })
+  symlinkSync(target, tmp, "dir")
+  renameSync(tmp, asked.at)
   return `linked ${asked.at} to ${asked.folder}`
 }
 
