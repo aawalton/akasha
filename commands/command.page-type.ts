@@ -143,6 +143,10 @@ export const command = {
       invariantKind: "departure",
       statement: "A command under no namespace is one Alan approved at the root by name.",
     },
+    {
+      invariantKind: "departure",
+      statement: "One command puts a thing up, and that command is `akasha deploy`.",
+    },
 
     {
       invariantKind: "departure",
