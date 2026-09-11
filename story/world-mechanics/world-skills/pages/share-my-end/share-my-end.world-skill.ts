@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shareMyEnd = {
   id: "01a0657d-02bf-70ff-a7b2-92313444c1d0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "share-my-end",
   title: "Share My End",

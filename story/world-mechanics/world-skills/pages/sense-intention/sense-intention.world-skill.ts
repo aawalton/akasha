@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const senseIntention = {
   id: "01a0657d-02be-700f-88f6-7786a0c14085",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sense-intention",
   title: "Sense Intention",

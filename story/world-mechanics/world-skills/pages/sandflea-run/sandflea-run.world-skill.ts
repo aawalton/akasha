@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sandfleaRun = {
   id: "01a0657d-02b7-7a14-b9c3-2eecf85d8a08",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sandflea-run",
   title: "Sandflea Run",

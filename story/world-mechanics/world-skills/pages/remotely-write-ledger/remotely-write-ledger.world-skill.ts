@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const remotelyWriteLedger = {
   id: "01a0657d-02b0-78d1-bcb0-76a783b668d2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "remotely-write-ledger",
   title: "Remotely Write Ledger",

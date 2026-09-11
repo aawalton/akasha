@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reviveGolemsAutonomous = {
   id: "01a0657d-02b2-7341-aac2-9da76ec2c250",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "revive-golems-autonomous",
   title: "Revive Golems (Autonomous)",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const massPrayer = {
   id: "01a0657d-024b-7fcf-8c78-a5f7b94a9f25",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mass-prayer",
   title: "Mass Prayer",

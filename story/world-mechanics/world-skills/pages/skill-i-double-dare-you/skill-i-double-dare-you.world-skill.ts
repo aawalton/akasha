@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const skillIDoubleDareYou = {
   id: "01a0657d-02c6-72fd-b6c8-4f1eec909ebf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "skill-i-double-dare-you",
   title: "Skill – I Double Dare You",

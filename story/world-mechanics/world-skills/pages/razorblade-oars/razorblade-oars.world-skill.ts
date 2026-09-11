@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const razorbladeOars = {
   id: "01a0657d-02a4-742d-881f-1bdd76548f30",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "razorblade-oars",
   title: "Razorblade Oars",

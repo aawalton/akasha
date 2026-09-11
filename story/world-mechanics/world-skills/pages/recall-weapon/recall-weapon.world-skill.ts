@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const recallWeapon = {
   id: "01a0657d-02a5-7e10-96b2-f1d3a62af9ce",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "recall-weapon",
   title: "Recall Weapon",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const serverSOrders = {
   id: "01a0657d-02bf-7305-bf0b-caa5bb651205",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "server-s-orders",
   title: "Server’s Orders",

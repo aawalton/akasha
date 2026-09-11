@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const notesOfDeflection = {
   id: "01a0657d-027b-7bfb-b05d-f4f144378f4a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "notes-of-deflection",
   title: "Notes of Deflection",

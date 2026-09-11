@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const retributionToTheHarmers = {
   id: "01a0657d-02b1-7cb4-aa41-4318d53874ff",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "retribution-to-the-harmers",
   title: "Retribution to the Harmers",

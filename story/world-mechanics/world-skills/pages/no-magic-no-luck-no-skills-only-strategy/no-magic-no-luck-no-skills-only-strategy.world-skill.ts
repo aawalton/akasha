@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const noMagicNoLuckNoSkillsOnlyStrategy = {
   id: "01a0657d-027b-7979-a152-5630d35ff217",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "no-magic-no-luck-no-skills-only-strategy",
   title: "No Magic, No Luck, No Skills, Only Strategy",

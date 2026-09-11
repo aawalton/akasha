@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const purityCheck = {
   id: "01a0657d-029a-7302-9659-28d4fae579ed",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "purity-check",
   title: "Purity Check",

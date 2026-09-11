@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pathToVictory = {
   id: "01a0657d-028d-75f7-b839-143b4a2213d0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "path-to-victory",
   title: "Path to Victory",

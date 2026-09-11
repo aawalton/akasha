@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mentorSSkillOnTheMarch = {
   id: "01a0657d-024c-7e38-9b94-2c4f453604a9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mentor-s-skill-on-the-march",
   title: "Mentor’s Skill: On The March",

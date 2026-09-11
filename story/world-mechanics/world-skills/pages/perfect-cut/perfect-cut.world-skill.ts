@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const perfectCut = {
   id: "01a0657d-028f-74f7-a6af-a3cf2fb351ee",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "perfect-cut",
   title: "Perfect Cut",

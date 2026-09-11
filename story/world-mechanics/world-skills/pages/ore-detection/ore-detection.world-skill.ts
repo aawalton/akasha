@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const oreDetection = {
   id: "01a0657d-027c-75c8-8885-582e850047ab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ore-detection",
   title: "Ore Detection",

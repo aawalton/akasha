@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reflectionStave = {
   id: "01a0657d-02a6-741d-9149-9942e0454894",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reflection-stave",
   title: "Reflection Stave",

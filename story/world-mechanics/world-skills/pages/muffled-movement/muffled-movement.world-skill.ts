@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const muffledMovement = {
   id: "01a0657d-0270-73d9-9554-003dc14ee371",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "muffled-movement",
   title: "Muffled Movement",

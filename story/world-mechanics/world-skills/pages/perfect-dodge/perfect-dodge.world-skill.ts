@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const perfectDodge = {
   id: "01a0657d-028f-7dc8-93e0-d23e6facd640",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "perfect-dodge",
   title: "Perfect Dodge",

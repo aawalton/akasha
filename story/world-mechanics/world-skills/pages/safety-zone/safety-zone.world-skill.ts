@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const safetyZone = {
   id: "01a0657d-02b7-7874-85f7-2a1bf07df6b4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "safety-zone",
   title: "Safety Zone",

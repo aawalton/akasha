@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const phantomGears10 = {
   id: "01a0657d-028f-7818-a46f-27aa0342b4c8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "phantom-gears-10",
   title: "Phantom Gears (-10)",

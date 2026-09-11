@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const remembered = {
   id: "01a0657d-02b0-7e0a-a2ef-aac8dc812f64",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "remembered",
   title: "Remembered",

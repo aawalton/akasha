@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const quickStrike = {
   id: "01a0657d-029b-768f-8bce-f2e7f6d7893b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quick-strike",
   title: "Quick Strike",

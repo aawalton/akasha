@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rampageRun = {
   id: "01a0657d-029c-746d-a81c-baee20d5daa1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rampage-run",
   title: "Rampage Run",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const meteorGuardbreakerShot = {
   id: "01a0657d-024d-7cf7-b2d7-47ed1781e519",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "meteor-guardbreaker-shot",
   title: "Meteor Guardbreaker Shot",

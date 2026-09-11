@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const seekingShots = {
   id: "01a0657d-02b8-7c2c-af27-943c5c6a58d5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "seeking-shots",
   title: "Seeking Shots",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const royalGriffinPeck = {
   id: "01a0657d-02b7-7afa-a00e-a6fcf85985cf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "royal-griffin-peck",
   title: "Royal Griffin Peck",

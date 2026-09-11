@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const omenOfDestruction = {
   id: "01a0657d-027c-7467-b257-f35876a4da54",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "omen-of-destruction",
   title: "Omen of Destruction",

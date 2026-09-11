@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const omnidirectionalBlow = {
   id: "01a0657d-027c-7a86-a15f-64c467199bd0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "omnidirectional-blow",
   title: "Omnidirectional Blow",

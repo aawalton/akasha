@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const silverstakeSpreadshot = {
   id: "01a0657d-02c1-7ea5-a986-b2af7939b339",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "silverstake-spreadshot",
   title: "Silverstake Spreadshot",

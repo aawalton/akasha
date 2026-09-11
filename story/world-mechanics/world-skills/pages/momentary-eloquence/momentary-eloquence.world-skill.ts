@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const momentaryEloquence = {
   id: "01a0657d-026f-7bd6-b57b-b2b8f4d2d712",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "momentary-eloquence",
   title: "Momentary Eloquence",

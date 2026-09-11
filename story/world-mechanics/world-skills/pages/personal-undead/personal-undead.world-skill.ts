@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const personalUndead = {
   id: "01a0657d-028f-7994-a2c1-2a50020efd62",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "personal-undead",
   title: "Personal Undead",

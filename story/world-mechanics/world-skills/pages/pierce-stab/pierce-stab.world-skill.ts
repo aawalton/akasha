@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pierceStab = {
   id: "01a0657d-0290-7249-bb70-d564c5c5e627",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pierce-stab",
   title: "Pierce Stab",

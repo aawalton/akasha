@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ritualOfLandSCataclysm = {
   id: "01a0657d-02b6-76ec-8038-72e2c9e0de02",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ritual-of-land-s-cataclysm",
   title: "Ritual of Land’s Cataclysm",

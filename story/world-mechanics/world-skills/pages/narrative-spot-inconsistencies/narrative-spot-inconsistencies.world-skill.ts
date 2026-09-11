@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const narrativeSpotInconsistencies = {
   id: "01a0657d-0271-76ba-a8eb-3e2a854de92c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "narrative-spot-inconsistencies",
   title: "Narrative: Spot Inconsistencies",

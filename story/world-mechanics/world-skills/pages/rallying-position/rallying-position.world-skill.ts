@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rallyingPosition = {
   id: "01a0657d-029c-7a86-b66c-52a7d7b7f60c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rallying-position",
   title: "Rallying Position",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const paralysisStab = {
   id: "01a0657d-0286-79de-b597-ba151cc48fe5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "paralysis-stab",
   title: "Paralysis Stab",

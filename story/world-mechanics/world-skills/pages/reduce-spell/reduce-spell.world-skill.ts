@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reduceSpell = {
   id: "01a0657d-02a6-749d-a9e1-cf63694339ea",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reduce-spell",
   title: "Reduce Spell",

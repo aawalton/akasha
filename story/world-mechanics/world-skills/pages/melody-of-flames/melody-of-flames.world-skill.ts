@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const melodyOfFlames = {
   id: "01a0657d-024c-7608-b1e8-a6fddb5015ac",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "melody-of-flames",
   title: "Melody of Flames",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const nemesisUndead = {
   id: "01a0657d-027a-71bc-9849-a904104a91b7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "nemesis-undead",
   title: "Nemesis: Undead",

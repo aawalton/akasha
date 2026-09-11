@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pitOfManyDeaths = {
   id: "01a0657d-0295-791a-abd7-2719fcf632f3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pit-of-many-deaths",
   title: "Pit of Many Deaths",

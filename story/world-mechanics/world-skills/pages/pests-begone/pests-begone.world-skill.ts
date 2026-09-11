@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pestsBegone = {
   id: "01a0657d-028f-736c-88ea-e4d65947ace4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pests-begone",
   title: "Pests Begone",

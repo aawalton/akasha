@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const nemesisCrustaceans = {
   id: "01a0657d-027a-7a1c-aa07-1ecfab7fb27e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "nemesis-crustaceans",
   title: "Nemesis: Crustaceans",

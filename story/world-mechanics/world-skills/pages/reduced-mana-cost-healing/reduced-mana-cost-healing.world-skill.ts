@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reducedManaCostHealing = {
   id: "01a0657d-02a6-7e69-b3c5-275da0d08901",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reduced-mana-cost-healing",
   title: "Reduced Mana Cost: Healing",

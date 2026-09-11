@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shipDragonfireWard = {
   id: "01a0657d-02c0-7bf4-86a5-d24994c273ef",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ship-dragonfire-ward",
   title: "Ship: Dragonfire Ward",

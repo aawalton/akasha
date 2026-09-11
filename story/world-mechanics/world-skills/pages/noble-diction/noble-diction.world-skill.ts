@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const nobleDiction = {
   id: "01a0657d-027b-7040-98db-1dac43e71c34",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "noble-diction",
   title: "Noble Diction",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const palmDeflection = {
   id: "01a0657d-0286-78da-b561-93eb2b2cf7bc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "palm-deflection",
   title: "Palm Deflection",

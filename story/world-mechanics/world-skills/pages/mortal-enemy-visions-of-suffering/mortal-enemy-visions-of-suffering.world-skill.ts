@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mortalEnemyVisionsOfSuffering = {
   id: "01a0657d-026f-7643-8bb0-ddb2e608b46b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mortal-enemy-visions-of-suffering",
   title: "Mortal Enemy: Visions of Suffering",

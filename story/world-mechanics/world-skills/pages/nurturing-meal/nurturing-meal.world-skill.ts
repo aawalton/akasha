@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const nurturingMeal = {
   id: "01a0657d-027b-750d-afbd-30440e536501",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "nurturing-meal",
   title: "Nurturing Meal",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const potOfConspiracies = {
   id: "01a0657d-0295-7aae-8c89-0f898bf2805c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pot-of-conspiracies",
   title: "Pot of Conspiracies",

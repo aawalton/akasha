@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const miracleHolySword = {
   id: "01a0657d-026d-783c-946f-189f62e03f45",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "miracle-holy-sword",
   title: "Miracle: Holy Sword",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const massedPrayerWithFlamingSwordInHand = {
   id: "01a0657d-024b-7637-b487-9bc33037e3a0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "massed-prayer-with-flaming-sword-in-hand",
   title: "Massed Prayer: With Flaming Sword In Hand",

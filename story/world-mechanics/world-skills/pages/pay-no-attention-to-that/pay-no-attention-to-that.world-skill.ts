@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const payNoAttentionToThat = {
   id: "01a0657d-028e-7bdc-b62d-04c57870a344",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pay-no-attention-to-that",
   title: "Pay No Attention to That",

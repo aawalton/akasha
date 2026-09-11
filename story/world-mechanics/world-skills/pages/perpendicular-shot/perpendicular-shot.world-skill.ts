@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const perpendicularShot = {
   id: "01a0657d-028f-7375-a5af-61ef7ca7feca",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "perpendicular-shot",
   title: "Perpendicular Shot",

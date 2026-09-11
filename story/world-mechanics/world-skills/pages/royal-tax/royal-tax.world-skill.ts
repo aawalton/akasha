@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const royalTax = {
   id: "01a0657d-02b7-7e99-89fb-5a9c1cc30735",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "royal-tax",
   title: "Royal Tax",

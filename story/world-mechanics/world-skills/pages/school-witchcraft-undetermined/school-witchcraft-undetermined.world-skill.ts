@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const schoolWitchcraftUndetermined = {
   id: "01a0657d-02b8-7e72-b84c-7f687628025b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "school-witchcraft-undetermined",
   title: "School: Witchcraft (Undetermined)",

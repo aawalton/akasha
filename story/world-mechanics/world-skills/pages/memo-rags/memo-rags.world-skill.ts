@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const memoRags = {
   id: "01a0657d-024c-7d01-8af9-84955b12ab88",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "memo-rags",
   title: "Memo: Rags",

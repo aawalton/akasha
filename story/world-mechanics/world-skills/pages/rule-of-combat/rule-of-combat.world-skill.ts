@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ruleOfCombat = {
   id: "01a0657d-02b7-71ac-9e95-2a2072f64813",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rule-of-combat",
   title: "Rule of Combat",

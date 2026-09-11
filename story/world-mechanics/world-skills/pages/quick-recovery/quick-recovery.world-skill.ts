@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const quickRecovery = {
   id: "01a0657d-029b-774c-b544-fb0c075a6049",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quick-recovery",
   title: "Quick Recovery",

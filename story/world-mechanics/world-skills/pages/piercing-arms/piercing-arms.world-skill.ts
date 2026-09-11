@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const piercingArms = {
   id: "01a0657d-0294-70b1-b424-df19a5d32077",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "piercing-arms",
   title: "Piercing Arms",

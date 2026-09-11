@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reinforcedArmorSteel = {
   id: "01a0657d-02a6-76be-aa02-398cbc0e9429",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reinforced-armor-steel",
   title: "Reinforced Armor (Steel)",

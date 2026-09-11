@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const posteriorDamage = {
   id: "01a0657d-0295-7e50-b313-2587ed790a09",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "posterior-damage",
   title: "Posterior Damage",

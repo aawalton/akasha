@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rumorsOnTheWind = {
   id: "01a0657d-02b7-74e3-9e35-2234f9748188",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rumors-on-the-wind",
   title: "Rumors on the Wind",

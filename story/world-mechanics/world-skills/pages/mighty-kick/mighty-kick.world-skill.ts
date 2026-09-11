@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mightyKick = {
   id: "01a0657d-024d-7a10-b2cc-ae136645fe8d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mighty-kick",
   title: "Mighty Kick",

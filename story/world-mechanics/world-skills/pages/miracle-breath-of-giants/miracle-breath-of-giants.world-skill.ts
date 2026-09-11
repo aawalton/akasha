@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const miracleBreathOfGiants = {
   id: "01a0657d-026d-78df-a36f-81564a203d1f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "miracle-breath-of-giants",
   title: "Miracle: Breath of Giants",

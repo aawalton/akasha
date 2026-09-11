@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const partnerSSatisfactionGuaranteed = {
   id: "01a0657d-0287-7408-ad3c-bae6b6524045",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "partner-s-satisfaction-guaranteed",
   title: "Partner’s Satisfaction Guaranteed",

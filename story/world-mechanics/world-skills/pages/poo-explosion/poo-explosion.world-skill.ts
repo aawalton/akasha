@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pooExplosion = {
   id: "01a0657d-0295-79ef-bccb-55e70437a83c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "poo-explosion",
   title: "Poo Explosion",

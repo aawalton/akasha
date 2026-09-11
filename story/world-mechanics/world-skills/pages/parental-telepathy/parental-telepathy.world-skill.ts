@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const parentalTelepathy = {
   id: "01a0657d-0286-74e8-bbb8-5a31d7eafc5e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "parental-telepathy",
   title: "Parental Telepathy",

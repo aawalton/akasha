@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const recapturedSublimity = {
   id: "01a0657d-02a5-77c6-bd0e-844897573557",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "recaptured-sublimity",
   title: "Recaptured Sublimity",

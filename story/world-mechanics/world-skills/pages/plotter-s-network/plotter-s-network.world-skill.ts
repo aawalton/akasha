@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const plotterSNetwork = {
   id: "01a0657d-0295-7513-9351-4c5075a9088a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "plotter-s-network",
   title: "Plotter’s Network",

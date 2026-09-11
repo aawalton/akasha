@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const oneStandsBeforeAll = {
   id: "01a0657d-027c-7ada-b9ab-cef20deb79f9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "one-stands-before-all",
   title: "One Stands Before All",

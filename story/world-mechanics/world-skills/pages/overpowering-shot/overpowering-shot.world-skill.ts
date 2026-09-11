@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const overpoweringShot = {
   id: "01a0657d-027f-7616-9956-7aef9c0f2280",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "overpowering-shot",
   title: "Overpowering Shot",

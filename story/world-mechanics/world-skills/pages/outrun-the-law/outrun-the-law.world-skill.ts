@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const outrunTheLaw = {
   id: "01a0657d-027f-73d8-af67-91d3e7660463",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "outrun-the-law",
   title: "Outrun the Law",

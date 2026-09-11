@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const noPullingOut = {
   id: "01a0657d-027b-7f2f-978f-5aed1298c604",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "no-pulling-out",
   title: "No Pulling Out",

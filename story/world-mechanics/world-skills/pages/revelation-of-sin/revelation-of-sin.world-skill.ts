@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const revelationOfSin = {
   id: "01a0657d-02b1-7a06-b9a3-16ec49b562e9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "revelation-of-sin",
   title: "Revelation of Sin",

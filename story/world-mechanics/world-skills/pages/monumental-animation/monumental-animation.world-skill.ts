@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const monumentalAnimation = {
   id: "01a0657d-026f-79d1-be78-260f7be84731",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "monumental-animation",
   title: "Monumental Animation",

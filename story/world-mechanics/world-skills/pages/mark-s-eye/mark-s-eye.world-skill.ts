@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const markSEye = {
   id: "01a0657d-024b-709c-877b-7774a7113771",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mark-s-eye",
   title: "Mark’s Eye",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const prisonOfHolding = {
   id: "01a0657d-0297-7cfd-84bc-cf67e97ef167",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "prison-of-holding",
   title: "Prison of Holding",

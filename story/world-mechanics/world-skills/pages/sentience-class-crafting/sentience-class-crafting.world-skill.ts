@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sentienceClassCrafting = {
   id: "01a0657d-02bf-7e90-9378-3253cc932aac",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sentience-class-crafting",
   title: "Sentience-class Crafting",

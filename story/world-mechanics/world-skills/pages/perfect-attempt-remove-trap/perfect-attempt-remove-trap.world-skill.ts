@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const perfectAttemptRemoveTrap = {
   id: "01a0657d-028e-7855-b693-30358cc7a008",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "perfect-attempt-remove-trap",
   title: "Perfect Attempt: Remove Trap",

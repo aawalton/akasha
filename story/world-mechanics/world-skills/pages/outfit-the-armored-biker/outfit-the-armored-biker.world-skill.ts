@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const outfitTheArmoredBiker = {
   id: "01a0657d-027f-7e65-bba7-df23d60bd922",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "outfit-the-armored-biker",
   title: "Outfit: The Armored Biker",

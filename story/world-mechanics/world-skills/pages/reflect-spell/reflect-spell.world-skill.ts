@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reflectSpell = {
   id: "01a0657d-02a6-742a-84a9-93a2a76be564",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reflect-spell",
   title: "Reflect Spell",

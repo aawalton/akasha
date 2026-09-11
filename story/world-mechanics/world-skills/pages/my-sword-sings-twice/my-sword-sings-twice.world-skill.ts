@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mySwordSingsTwice = {
   id: "01a0657d-0270-7605-b6f6-5ca3d7201e76",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "my-sword-sings-twice",
   title: "My Sword Sings Twice",

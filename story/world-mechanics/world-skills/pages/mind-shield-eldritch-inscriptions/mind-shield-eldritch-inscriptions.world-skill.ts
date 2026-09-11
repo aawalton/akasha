@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mindShieldEldritchInscriptions = {
   id: "01a0657d-024d-7a5c-9d88-e4eeda28b314",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mind-shield-eldritch-inscriptions",
   title: "Mind Shield: Eldritch Inscriptions",

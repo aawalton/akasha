@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const skillLesserDexteritySiphoned = {
   id: "01a0657d-02c6-7812-90d3-68a44116029e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "skill-lesser-dexterity-siphoned",
   title: "Skill – Lesser Dexterity siphoned.",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const overwatch = {
   id: "01a0657d-027f-7b51-827d-ba90010134a6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "overwatch",
   title: "Overwatch",

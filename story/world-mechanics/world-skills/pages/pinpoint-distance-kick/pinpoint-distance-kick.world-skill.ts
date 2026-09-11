@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pinpointDistanceKick = {
   id: "01a0657d-0294-7a73-b5e0-3c9765094cc9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pinpoint-distance-kick",
   title: "Pinpoint Distance Kick",

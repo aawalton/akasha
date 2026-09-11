@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mendCreation = {
   id: "01a0657d-024c-7608-9b49-bef1fe7c69ed",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mend-creation",
   title: "Mend Creation",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const massGreaterReanimation = {
   id: "01a0657d-024b-753a-a692-9f469cfacdf1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mass-greater-reanimation",
   title: "Mass Greater Reanimation",

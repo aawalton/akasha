@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pursueTheQuarry = {
   id: "01a0657d-029a-7239-9f66-486d941034c6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pursue-the-quarry",
   title: "Pursue the Quarry",

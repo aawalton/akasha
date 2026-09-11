@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const myStrengthRegainedTenMinutes = {
   id: "01a0657d-0270-70dd-af4e-9cd0eed2ade7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "my-strength-regained-ten-minutes",
   title: "My Strength, Regained (Ten Minutes)",

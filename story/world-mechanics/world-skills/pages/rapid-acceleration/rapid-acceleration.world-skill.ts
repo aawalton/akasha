@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rapidAcceleration = {
   id: "01a0657d-029c-7147-9fd3-e1f8e5119334",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rapid-acceleration",
   title: "Rapid Acceleration",

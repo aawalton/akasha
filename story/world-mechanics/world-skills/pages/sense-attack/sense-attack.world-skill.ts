@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const senseAttack = {
   id: "01a0657d-02b9-7d67-b246-bf038f383b5f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sense-attack",
   title: "Sense Attack",

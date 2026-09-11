@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const minuteOfIron = {
   id: "01a0657d-026c-789a-9511-d07a8b2bde70",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "minute-of-iron",
   title: "Minute of Iron",

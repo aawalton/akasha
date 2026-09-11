@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reassuringStatement = {
   id: "01a0657d-02a5-71e4-867f-26eb7820ab25",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reassuring-statement",
   title: "Reassuring Statement",

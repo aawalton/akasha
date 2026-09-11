@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shadowleapt = {
   id: "01a0657d-02bf-7178-867f-5c13ecc49c2e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shadowleapt",
   title: "Shadowleapt",

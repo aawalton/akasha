@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reformRanks = {
   id: "01a0657d-02a6-758d-b138-1148088e4712",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reform-ranks",
   title: "Reform Ranks",

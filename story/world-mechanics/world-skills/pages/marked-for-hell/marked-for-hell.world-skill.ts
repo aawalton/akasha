@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const markedForHell = {
   id: "01a0657d-024b-7742-b1cb-6fae2039f788",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "marked-for-hell",
   title: "Marked For Hell",

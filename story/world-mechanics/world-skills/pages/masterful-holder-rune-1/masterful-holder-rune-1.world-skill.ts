@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const masterfulHolderRune1 = {
   id: "01a0657d-024c-7668-a692-c2a642c6b28b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "masterful-holder-rune-1",
   title: "Masterful Holder Rune (1)",

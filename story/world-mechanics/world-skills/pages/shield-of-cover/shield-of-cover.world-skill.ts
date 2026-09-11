@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shieldOfCover = {
   id: "01a0657d-02c0-7b1c-80d9-a927b7a94046",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shield-of-cover",
   title: "Shield of Cover",

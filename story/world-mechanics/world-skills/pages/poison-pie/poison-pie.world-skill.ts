@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const poisonPie = {
   id: "01a0657d-0295-74fc-b2e2-79e06a7038cd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "poison-pie",
   title: "Poison Pie",

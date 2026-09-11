@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const resetLeap = {
   id: "01a0657d-02b1-70c8-aeb1-5041d38dd52e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reset-leap",
   title: "Reset Leap",

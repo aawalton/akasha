@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const panicDodge = {
   id: "01a0657d-0286-7f54-94bd-85359489f110",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "panic-dodge",
   title: "Panic Dodge",

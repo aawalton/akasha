@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const skillWinterGrowthLost = {
   id: "01a0657d-02c6-79f7-ab23-597267210614",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "skill-winter-growth-lost",
   title: "Skill – Winter Growth Lost.",

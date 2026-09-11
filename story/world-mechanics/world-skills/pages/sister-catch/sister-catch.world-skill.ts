@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sisterCatch = {
   id: "01a0657d-02c5-7b2e-b35c-53ccfdddecf8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sister-catch",
   title: "Sister, Catch",

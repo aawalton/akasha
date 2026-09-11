@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const naturalToughness = {
   id: "01a0657d-0271-7040-beda-d459c0ac3771",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "natural-toughness",
   title: "Natural Toughness",

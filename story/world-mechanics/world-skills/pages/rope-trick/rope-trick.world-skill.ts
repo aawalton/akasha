@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ropeTrick = {
   id: "01a0657d-02b6-7fdf-be5a-3f26182b46c5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rope-trick",
   title: "Rope Trick",

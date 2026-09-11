@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const quicksilverCut = {
   id: "01a0657d-029b-7e3a-bd36-f09a51889769",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quicksilver-cut",
   title: "Quicksilver Cut",

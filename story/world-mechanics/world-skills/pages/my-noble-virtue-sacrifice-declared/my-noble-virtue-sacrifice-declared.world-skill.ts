@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const myNobleVirtueSacrificeDeclared = {
   id: "01a0657d-0270-72a6-9822-91b2b2217bed",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "my-noble-virtue-sacrifice-declared",
   title: "My Noble Virtue: Sacrifice declared.",

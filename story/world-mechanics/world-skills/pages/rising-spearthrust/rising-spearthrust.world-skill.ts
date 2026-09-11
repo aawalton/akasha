@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const risingSpearthrust = {
   id: "01a0657d-02b2-7cd4-8e65-cc6362266432",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rising-spearthrust",
   title: "Rising Spearthrust",

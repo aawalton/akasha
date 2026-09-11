@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const scatterDash = {
   id: "01a0657d-02b8-7bc6-b2fa-9b23a98b3a9e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "scatter-dash",
   title: "Scatter Dash",

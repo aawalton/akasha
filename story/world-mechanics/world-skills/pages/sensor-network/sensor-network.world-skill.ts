@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sensorNetwork = {
   id: "01a0657d-02bf-753a-96be-c6c552cc927b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sensor-network",
   title: "Sensor Network",

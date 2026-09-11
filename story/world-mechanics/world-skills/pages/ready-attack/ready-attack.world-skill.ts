@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const readyAttack = {
   id: "01a0657d-02a5-7161-aa1f-f6d3f61af1ca",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ready-attack",
   title: "Ready Attack",

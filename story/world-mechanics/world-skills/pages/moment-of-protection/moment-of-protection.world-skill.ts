@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const momentOfProtection = {
   id: "01a0657d-026f-7dfa-829d-ff8921bd7530",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "moment-of-protection",
   title: "Moment of Protection",

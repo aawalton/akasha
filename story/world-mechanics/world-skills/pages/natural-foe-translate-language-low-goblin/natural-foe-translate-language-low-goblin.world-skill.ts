@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const naturalFoeTranslateLanguageLowGoblin = {
   id: "01a0657d-0271-75cc-ada0-ec76db53a899",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "natural-foe-translate-language-low-goblin",
   title: "Natural Foe: Translate Language (Low Goblin)",

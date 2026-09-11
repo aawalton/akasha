@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const poisontasterSTongue = {
   id: "01a0657d-0295-7fdf-a97e-bb44f75dfdac",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "poisontaster-s-tongue",
   title: "Poisontaster’s Tongue",

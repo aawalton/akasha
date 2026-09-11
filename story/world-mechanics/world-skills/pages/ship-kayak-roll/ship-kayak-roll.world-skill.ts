@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shipKayakRoll = {
   id: "01a0657d-02c0-721f-a16a-b83cfb562e4a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ship-kayak-roll",
   title: "Ship: Kayak Roll",

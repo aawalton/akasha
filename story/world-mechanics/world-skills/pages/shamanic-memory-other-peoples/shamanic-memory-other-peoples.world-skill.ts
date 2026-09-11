@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shamanicMemoryOtherPeoples = {
   id: "01a0657d-02bf-7649-9b84-465452677a2a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shamanic-memory-other-peoples",
   title: "Shamanic Memory: Other Peoples",

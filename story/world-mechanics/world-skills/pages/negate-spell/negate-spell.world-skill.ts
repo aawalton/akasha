@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const negateSpell = {
   id: "01a0657d-027a-7d1b-b7e0-1db8c2ef5238",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "negate-spell",
   title: "Negate Spell",

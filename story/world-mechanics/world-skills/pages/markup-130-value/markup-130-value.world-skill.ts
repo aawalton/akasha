@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const markup130Value = {
   id: "01a0657d-024b-73d0-b20e-9ec1d028a2e9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "markup-130-value",
   title: "Markup: 130% Value",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const personalSewageNetworkResidential = {
   id: "01a0657d-028f-759e-ade2-bcab31d35e23",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "personal-sewage-network-residential",
   title: "Personal Sewage Network (Residential)",

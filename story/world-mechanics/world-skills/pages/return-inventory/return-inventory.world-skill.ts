@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const returnInventory = {
   id: "01a0657d-02b1-7fa6-a442-374e78c2e211",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "return-inventory",
   title: "Return Inventory",

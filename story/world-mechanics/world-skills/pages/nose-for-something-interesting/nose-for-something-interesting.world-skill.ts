@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const noseForSomethingInteresting = {
   id: "01a0657d-027b-74ff-81b9-5cbe1d8eb230",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "nose-for-something-interesting",
   title: "Nose for Something Interesting",

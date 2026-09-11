@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const razorCut = {
   id: "01a0657d-02a4-7135-9517-ae7cfa8b1b4c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "razor-cut",
   title: "Razor Cut",

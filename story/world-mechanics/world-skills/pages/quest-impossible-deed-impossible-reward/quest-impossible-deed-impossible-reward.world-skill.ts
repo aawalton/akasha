@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const questImpossibleDeedImpossibleReward = {
   id: "01a0657d-029b-709c-8ff3-6af01565970d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quest-impossible-deed-impossible-reward",
   title: "Quest: Impossible Deed, Impossible Reward",

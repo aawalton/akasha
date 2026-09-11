@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shieldOfTheKing = {
   id: "01a0657d-02c0-7815-a52c-95a216d3fd50",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shield-of-the-king",
   title: "Shield of the King",

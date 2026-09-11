@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const memoryOfTheQuarass = {
   id: "01a0657d-024c-706a-970a-eaa5b3caf5c6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "memory-of-the-quarass",
   title: "Memory of the Quarass",

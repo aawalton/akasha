@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rupturePoint = {
   id: "01a0657d-02b7-70df-a9df-0c84e21db23d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rupture-point",
   title: "Rupture Point",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const pikewallFormation = {
   id: "01a0657d-0294-7e89-b99e-54e87a3027c4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pikewall-formation",
   title: "Pikewall Formation",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const officerUnderArms = {
   id: "01a0657d-027c-783d-859b-6e65dd673889",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "officer-under-arms",
   title: "Officer Under Arms",

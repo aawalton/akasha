@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const quillOfTheSeveredContract = {
   id: "01a0657d-029c-7753-913c-c33705711cda",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quill-of-the-severed-contract",
   title: "Quill of the Severed Contract",

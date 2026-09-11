@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const normativeHealing = {
   id: "01a0657d-027b-75fd-b343-81f9f223a650",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "normative-healing",
   title: "Normative Healing",

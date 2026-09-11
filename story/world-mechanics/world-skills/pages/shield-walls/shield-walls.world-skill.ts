@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shieldWalls = {
   id: "01a0657d-02c0-7cf5-ac6a-7de7a0e26726",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shield-walls",
   title: "Shield Walls",

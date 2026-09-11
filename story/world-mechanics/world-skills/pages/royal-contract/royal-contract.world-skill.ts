@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const royalContract = {
   id: "01a0657d-02b7-77f6-abfe-d21c10f0818f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "royal-contract",
   title: "Royal Contract",

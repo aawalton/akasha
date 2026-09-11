@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const marionetteSImitation = {
   id: "01a0657d-0243-7a9b-8ad3-24bdfc500788",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "marionette-s-imitation",
   title: "Marionette’s Imitation",

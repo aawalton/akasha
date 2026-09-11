@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const naturalSeasonings = {
   id: "01a0657d-0271-7ee4-a483-486550872edf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "natural-seasonings",
   title: "Natural Seasonings",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const purifyingBloodRe = {
   id: "01a0657d-029a-7e15-9514-0951ee485261",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "purifying-blood-re",
   title: "Purifying Blood Re",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const quickBoiling = {
   id: "01a0657d-029b-7e2f-9cee-ad239099f3fe",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quick-boiling",
   title: "Quick Boiling",

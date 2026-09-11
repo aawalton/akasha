@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const memorizePerformance = {
   id: "01a0657d-024c-79c8-a8df-420edf66dfbe",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "memorize-performance",
   title: "Memorize Performance",

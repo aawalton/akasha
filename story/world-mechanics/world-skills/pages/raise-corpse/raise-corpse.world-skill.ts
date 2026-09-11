@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const raiseCorpse = {
   id: "01a0657d-029c-79fe-9734-4eb03819df86",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "raise-corpse",
   title: "Raise Corpse",

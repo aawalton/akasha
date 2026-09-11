@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const royalRebuke = {
   id: "01a0657d-02b7-756a-8e23-9e44e6b63c18",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "royal-rebuke",
   title: "Royal Rebuke",

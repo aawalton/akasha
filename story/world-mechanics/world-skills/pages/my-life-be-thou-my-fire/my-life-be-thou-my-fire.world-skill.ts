@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const myLifeBeThouMyFire = {
   id: "01a0657d-0270-7851-986e-0906689ca548",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "my-life-be-thou-my-fire",
   title: "My Life, be Thou My Fire",

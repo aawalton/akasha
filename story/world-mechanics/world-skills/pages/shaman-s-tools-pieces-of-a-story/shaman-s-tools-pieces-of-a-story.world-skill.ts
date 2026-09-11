@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const shamanSToolsPiecesOfAStory = {
   id: "01a0657d-02bf-75d8-a040-bf141b516819",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shaman-s-tools-pieces-of-a-story",
   title: "Shaman’s Tools: Pieces of a Story",

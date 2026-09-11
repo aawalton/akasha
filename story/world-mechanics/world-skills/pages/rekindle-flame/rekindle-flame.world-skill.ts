@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rekindleFlame = {
   id: "01a0657d-02b0-78d2-838a-0336fb2bf384",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rekindle-flame",
   title: "Rekindle Flame",

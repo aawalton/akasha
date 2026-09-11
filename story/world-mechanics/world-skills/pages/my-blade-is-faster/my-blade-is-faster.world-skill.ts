@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const myBladeIsFaster = {
   id: "01a0657d-0270-7456-bbd0-b0f980351ea0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "my-blade-is-faster",
   title: "My Blade is Faster",

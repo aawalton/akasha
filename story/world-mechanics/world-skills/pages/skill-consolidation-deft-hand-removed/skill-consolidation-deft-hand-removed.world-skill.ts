@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const skillConsolidationDeftHandRemoved = {
   id: "01a0657d-02c6-716c-94f6-096d97dfee8d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "skill-consolidation-deft-hand-removed",
   title: "Skill Consolidation: Deft Hand removed!",

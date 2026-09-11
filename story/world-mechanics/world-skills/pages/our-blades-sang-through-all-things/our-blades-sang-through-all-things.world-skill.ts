@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ourBladesSangThroughAllThings = {
   id: "01a0657d-027d-7388-b92c-786e5a47edfb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "our-blades-sang-through-all-things",
   title: "Our Blades Sang Through All Things",

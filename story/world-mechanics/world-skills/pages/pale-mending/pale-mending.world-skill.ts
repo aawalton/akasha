@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const paleMending = {
   id: "01a0657d-0286-7e0f-a697-870ca7469855",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "pale-mending",
   title: "Pale Mending",

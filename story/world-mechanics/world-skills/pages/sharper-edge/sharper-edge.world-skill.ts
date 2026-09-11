@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sharperEdge = {
   id: "01a0657d-02bf-7fdb-8f8b-7159b42be6ba",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sharper-edge",
   title: "Sharper Edge",

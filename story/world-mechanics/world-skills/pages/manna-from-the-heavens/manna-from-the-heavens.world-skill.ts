@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const mannaFromTheHeavens = {
   id: "01a0657d-0242-7c4e-a791-6a8f41fbff9c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "manna-from-the-heavens",
   title: "Manna From the Heavens",

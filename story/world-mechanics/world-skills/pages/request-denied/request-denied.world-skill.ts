@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const requestDenied = {
   id: "01a0657d-02b1-7feb-b792-65a6c169c18f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "request-denied",
   title: "Request Denied",

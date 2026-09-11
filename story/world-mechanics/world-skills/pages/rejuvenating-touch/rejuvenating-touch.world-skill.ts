@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rejuvenatingTouch = {
   id: "01a0657d-02af-713b-92f8-4b27c53af1c3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "rejuvenating-touch",
   title: "Rejuvenating Touch",

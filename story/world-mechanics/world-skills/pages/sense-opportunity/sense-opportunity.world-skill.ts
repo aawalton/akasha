@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const senseOpportunity = {
   id: "01a0657d-02be-71d3-9c86-5673527c9531",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sense-opportunity",
   title: "Sense Opportunity",

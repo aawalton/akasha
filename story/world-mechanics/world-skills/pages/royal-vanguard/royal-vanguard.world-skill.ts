@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const royalVanguard = {
   id: "01a0657d-02b7-7021-b1ab-bf07948f752e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "royal-vanguard",
   title: "Royal Vanguard",

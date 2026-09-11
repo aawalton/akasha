@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const otherMeSSkillsBurstOfEnergy = {
   id: "01a0657d-027c-7a79-a713-1261ac515d0a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "other-me-s-skills-burst-of-energy",
   title: "Other Me’s Skills – Burst of Energy",

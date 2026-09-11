@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const miracleARayOfSunlight = {
   id: "01a0657d-026c-78ce-a648-a8cb4a04cffc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "miracle-a-ray-of-sunlight",
   title: "Miracle: A Ray of Sunlight",

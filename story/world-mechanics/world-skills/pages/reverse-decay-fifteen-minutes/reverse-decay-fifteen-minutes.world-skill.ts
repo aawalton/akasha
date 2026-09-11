@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reverseDecayFifteenMinutes = {
   id: "01a0657d-02b1-7041-aace-874decc03e2b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reverse-decay-fifteen-minutes",
   title: "Reverse Decay: Fifteen Minutes",

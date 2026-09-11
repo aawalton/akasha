@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sevenLeagueBolts = {
   id: "01a0657d-02bf-7308-9990-62f5543668f2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "seven-league-bolts",
   title: "Seven-League Bolts",

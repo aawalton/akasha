@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rejectToxins = {
   id: "01a0657d-02af-7c71-af66-af673e4e9328",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reject-toxins",
   title: "Reject Toxins",

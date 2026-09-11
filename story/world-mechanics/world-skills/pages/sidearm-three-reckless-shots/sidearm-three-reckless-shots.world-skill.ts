@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sidearmThreeRecklessShots = {
   id: "01a0657d-02c1-766c-b224-d1e961953bf4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sidearm-three-reckless-shots",
   title: "Sidearm: Three Reckless Shots",

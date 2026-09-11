@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const relentlessReloading = {
   id: "01a0657d-02b0-76c3-891c-368c9f6a6175",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "relentless-reloading",
   title: "Relentless Reloading",

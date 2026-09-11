@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const skillChangeRoyalSlapGhostSHand = {
   id: "01a0657d-02c6-7b2b-9d61-547b46c780f9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "skill-change-royal-slap-ghost-s-hand",
   title: "Skill Change – Royal Slap → Ghost’s Hand!",

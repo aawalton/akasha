@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const quickConcealment = {
   id: "01a0657d-029b-7545-a845-e715a70b66ca",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quick-concealment",
   title: "Quick Concealment",

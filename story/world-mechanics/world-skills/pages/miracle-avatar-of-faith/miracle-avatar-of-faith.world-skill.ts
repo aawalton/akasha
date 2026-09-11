@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const miracleAvatarOfFaith = {
   id: "01a0657d-026c-752d-be8f-30a353f07f96",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "miracle-avatar-of-faith",
   title: "Miracle: Avatar of Faith",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const qualityScent = {
   id: "01a0657d-029a-7449-97e2-a48aae609acc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "quality-scent",
   title: "Quality Scent",

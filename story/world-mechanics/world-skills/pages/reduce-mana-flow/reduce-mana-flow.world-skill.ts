@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const reduceManaFlow = {
   id: "01a0657d-02a6-7985-9b4a-34a773296003",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "reduce-mana-flow",
   title: "Reduce Mana Flow",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const scribeContract = {
   id: "01a0657d-02b8-7ae7-91be-90f8f489d90e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "scribe-contract",
   title: "Scribe Contract",

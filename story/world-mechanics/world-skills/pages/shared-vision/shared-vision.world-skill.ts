@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sharedVision = {
   id: "01a0657d-02bf-745b-a66a-c87a9c3977c6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "shared-vision",
   title: "Shared Vision",

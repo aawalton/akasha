@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const naturalEnemyVampires = {
   id: "01a0657d-0271-7083-b0ff-08ab70c2450d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "natural-enemy-vampires",
   title: "Natural Enemy: Vampires",

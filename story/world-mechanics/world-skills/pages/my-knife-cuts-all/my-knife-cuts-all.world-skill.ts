@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const myKnifeCutsAll = {
   id: "01a0657d-0270-7a20-baaf-e53a36ee2050",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "my-knife-cuts-all",
   title: "My Knife Cuts All",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const proofOfCrime = {
   id: "01a0657d-0297-7bbc-9c4d-d52b58b3516d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "proof-of-crime",
   title: "Proof of Crime",

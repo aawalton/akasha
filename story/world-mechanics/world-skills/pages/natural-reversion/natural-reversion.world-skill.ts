@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const naturalReversion = {
   id: "01a0657d-0271-7389-83fb-f95c45b8486e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "natural-reversion",
   title: "Natural Reversion",

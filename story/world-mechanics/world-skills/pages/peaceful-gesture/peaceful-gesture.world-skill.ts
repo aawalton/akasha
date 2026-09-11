@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const peacefulGesture = {
   id: "01a0657d-028e-78d4-bd7e-1df83827064f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "peaceful-gesture",
   title: "Peaceful Gesture",

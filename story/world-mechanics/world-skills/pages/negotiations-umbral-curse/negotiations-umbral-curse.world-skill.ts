@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const negotiationsUmbralCurse = {
   id: "01a0657d-027a-78f9-85c1-9cdd0e788212",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "negotiations-umbral-curse",
   title: "Negotiations: Umbral Curse",

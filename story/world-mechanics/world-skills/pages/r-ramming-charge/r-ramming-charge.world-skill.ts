@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const rRammingCharge = {
   id: "01a0657d-029c-7dac-9847-a42605e44810",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "r-ramming-charge",
   title: "R-Ramming Charge",

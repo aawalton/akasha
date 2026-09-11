@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sightCaptors = {
   id: "01a0657d-02c1-7527-82ac-89dfc00ac988",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sight-captors",
   title: "Sight Captors",

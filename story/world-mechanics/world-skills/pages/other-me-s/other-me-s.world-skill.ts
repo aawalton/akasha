@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const otherMeS = {
   id: "01a0657d-027d-7132-80da-fd59a7054972",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "other-me-s",
   title: "Other Me’s",

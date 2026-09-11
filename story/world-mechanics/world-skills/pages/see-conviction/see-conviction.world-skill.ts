@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const seeConviction = {
   id: "01a0657d-02b8-7ed9-9891-e5b5313341d7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "see-conviction",
   title: "See Conviction",

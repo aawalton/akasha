@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const scytheOfTheSlaughter = {
   id: "01a0657d-02b8-73bf-99d2-ff65755c7f15",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "scythe-of-the-slaughter",
   title: "Scythe of the Slaughter",

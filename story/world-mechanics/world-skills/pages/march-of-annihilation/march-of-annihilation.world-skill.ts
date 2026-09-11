@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const marchOfAnnihilation = {
   id: "01a0657d-0243-72ff-88a3-c262e666b59e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "march-of-annihilation",
   title: "March of Annihilation",
