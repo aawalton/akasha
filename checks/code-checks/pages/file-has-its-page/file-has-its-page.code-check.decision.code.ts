@@ -10,7 +10,7 @@ import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 const TS = ".ts"
 
 export const UNCLAIMED =
-  "no page claims this file — a move repoints nothing to it and its page's deletion leaves it behind"
+  "no page claims this file — name its property on the page beside it or on that page's type"
 
 export type Claiming = (path: string) => boolean
 
