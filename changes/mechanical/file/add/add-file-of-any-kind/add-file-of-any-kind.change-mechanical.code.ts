@@ -17,6 +17,8 @@ const HELD = "the body states an `id` of its own, so `id` is left out or said as
 
 const NO_LITERAL = "the body declares no literal, so no `id` goes into the body"
 
+const BLANK = "an `id` stating nothing is no id, so `id` is left out or said as `auto`"
+
 const ADDRESSES = {
   file: "change-mechanical-file/add-file",
   "file-code": "change-mechanical/add-file-code",
@@ -32,6 +34,7 @@ export function addressFor(world: World, at: string) {
 }
 
 export function idFilled(at: string, body: string, said: string): string | { refused: string } {
+  if (said.trim() === "") return { refused: BLANK }
   const held = loadedFrom(body).value
   if (held !== null && held[ID] !== undefined) {
     return said === AUTO ? body : { refused: HELD }

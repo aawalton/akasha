@@ -38,6 +38,14 @@ export const addFileOfAnyKind = {
     },
     {
       invariantKind: "departure",
+      statement: "An `id` stating nothing is refused rather than written into the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names leaving `id` out and saying `auto`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body already stating an `id` keeps that `id` under `auto`.",
     },
     {

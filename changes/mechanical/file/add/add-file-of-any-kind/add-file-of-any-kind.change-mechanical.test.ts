@@ -119,6 +119,13 @@ test("a body declaring no literal is refused rather than written without an id",
   })
 })
 
+test("an id stating nothing is refused rather than written into the page", () => {
+  const why = { refused: "an `id` stating nothing is no id, so `id` is left out or said as `auto`" }
+
+  expect(idFilled(AT, PAGE_BODY, "")).toEqual(why)
+  expect(idFilled(AT, PAGE_BODY, "   ")).toEqual(why)
+})
+
 test("a page reaches the change writing pages with the id already in the body", async () => {
   const carried = { at: "", body: "" }
   const said = await runChange(reachedBy(PAGED, carried), { at: AT, body: PAGE_BODY })
