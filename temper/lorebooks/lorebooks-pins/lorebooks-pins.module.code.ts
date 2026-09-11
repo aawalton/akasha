@@ -1,3 +1,4 @@
+import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
 import {
   ICON_LIST_ZONEID,
   LBOOKS_IMMERSIVE_DISABLED,
@@ -66,10 +67,6 @@ export function asEideticPinTag(pinTag: unknown): EideticPinTag {
   return pinTag as EideticPinTag
 }
 
-export function isTableValue(value: unknown): boolean {
-  return type(value) === "table"
-}
-
 type ReadonlyNumberArray = readonly number[]
 
 function asReadonlyNumberArray(value: unknown): ReadonlyNumberArray {
@@ -86,10 +83,10 @@ function asBoolean(value: unknown): boolean {
 
 export function getPinTextureBookshelf(this: void, mapPinObject: MapPin): string {
   const fallback = ICON_LIST_ZONEID[1261] ?? MISSING_TEXTURE
-  if (!isTableValue(mapPinObject)) return fallback
+  if (!isTable(mapPinObject)) return fallback
 
   const pinTag = mapPinObject.m_PinTag
-  if (!isTableValue(pinTag)) return fallback
+  if (!isTable(pinTag)) return fallback
 
   const tag = asBookshelfPinTag(pinTag)
   const zoneId = tag.z !== undefined ? GetParentZoneId(tag.z) : undefined

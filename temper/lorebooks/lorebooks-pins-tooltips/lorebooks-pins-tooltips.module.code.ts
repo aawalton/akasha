@@ -1,3 +1,4 @@
+import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -19,7 +20,6 @@ import {
   asEideticPinTag,
   asShalidorPinTag,
   getPinTextureBookshelf,
-  isTableValue,
 } from "../lorebooks-pins/lorebooks-pins.module.code.ts"
 import { getQuestLocation } from "../lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
 import { getSavedVariables } from "../lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
@@ -55,7 +55,7 @@ function gamepadColor2Style(): { fontSize: number; fontColorField: number } {
 export const PIN_TOOLTIP_CREATOR: MapPinTooltipCreator = {
   tooltip: ZO_MAP_TOOLTIP_MODE.INFORMATION,
   creator: function (this: void, mapPinObject: MapPin): undefined {
-    if (!isTableValue(mapPinObject) || !isTableValue(mapPinObject.m_PinTag)) {
+    if (!isTable(mapPinObject) || !isTable(mapPinObject.m_PinTag)) {
       dm("Warn", "Invalid Shalidor mapPinObject or missing m_PinTag in tooltip")
       return
     }
@@ -130,7 +130,7 @@ export const PIN_TOOLTIP_CREATOR: MapPinTooltipCreator = {
 export const PIN_TOOLTIP_CREATOR_BOOKSHELF: MapPinTooltipCreator = {
   tooltip: ZO_MAP_TOOLTIP_MODE.INFORMATION,
   creator: function (this: void, mapPinObject: MapPin): undefined {
-    if (!isTableValue(mapPinObject) || !isTableValue(mapPinObject.m_PinTag)) {
+    if (!isTable(mapPinObject) || !isTable(mapPinObject.m_PinTag)) {
       dm("Warn", "Invalid Bookshelf mapPinObject or missing m_PinTag in tooltip")
       return
     }
@@ -166,7 +166,7 @@ export const PIN_TOOLTIP_CREATOR_BOOKSHELF: MapPinTooltipCreator = {
 export const PIN_TOOLTIP_CREATOR_EIDETIC: MapPinTooltipCreator = {
   tooltip: 1,
   creator: function (this: void, mapPinObject: MapPin): undefined {
-    if (!isTableValue(mapPinObject) || !isTableValue(mapPinObject.m_PinTag)) {
+    if (!isTable(mapPinObject) || !isTable(mapPinObject.m_PinTag)) {
       dm("Warn", "Invalid Eidetic mapPinObject or missing m_PinTag in tooltip")
       return
     }

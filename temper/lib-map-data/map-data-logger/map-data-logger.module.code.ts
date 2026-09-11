@@ -1,3 +1,4 @@
+import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
 import { asMetatableView, asUserdataView } from "../map-data-casts/map-data-casts.module.code.ts"
 import { INTERNAL } from "../map-data-lib-state/map-data-lib-state.module.code.ts"
 
@@ -27,10 +28,6 @@ function createLog(logType: string, logContent: string): undefined {
 function emitMessage(logType: string, text: string): undefined {
   const safe = text === "" ? "[Empty String]" : text
   createLog(logType, safe)
-}
-
-function isTable(value: unknown): value is Record<string | number, unknown> {
-  return type(value) === "table"
 }
 
 function emitUserdata(logType: string, udata: unknown): undefined {

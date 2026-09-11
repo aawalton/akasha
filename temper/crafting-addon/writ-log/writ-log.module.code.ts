@@ -1,3 +1,5 @@
+import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
+
 interface LogState {
   log_event: string[] | undefined
   log_to_chat: boolean
@@ -49,17 +51,13 @@ export function add(arg1: unknown, arg2?: unknown): undefined {
   }
 }
 
-function isRecord(v: unknown): v is Record<string | number, unknown> {
-  return type(v) === "table"
-}
-
 export function flatten(name: unknown, value: unknown): string {
   let prefix = ""
   if (name != null && name !== "") {
     prefix = `${tostring(name)}: `
   }
 
-  if (!isRecord(value)) {
+  if (!isTable(value)) {
     return prefix + tostring(value)
   }
 

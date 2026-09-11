@@ -1,3 +1,4 @@
+import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
 import { ADDON_NAME } from "../destinations-names/destinations-names.module.code.ts"
 
 export let showLog = true
@@ -31,10 +32,6 @@ function emitMessage(logType: string, text: string): undefined {
     text = "[Empty String]"
   }
   createLog(logType, text)
-}
-
-function isTable(value: unknown): value is Record<string | number, unknown> {
-  return type(value) === "table"
 }
 
 function emitTable(
