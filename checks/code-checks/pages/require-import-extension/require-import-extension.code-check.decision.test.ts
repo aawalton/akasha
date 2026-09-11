@@ -3,6 +3,7 @@ import {
   reasonsIn,
   type Stands,
 } from "akasha/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.code.ts"
+import { NESTED_AT } from "akasha/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.test-fixtures.ts"
 import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 const ROOT = "/repo"
@@ -15,9 +16,7 @@ const nothing: Stands = () => false
 
 test("a relative import carrying its extension is let through", () => {
   const body = 'import { one } from "./ledger.module.code.ts"\n'
-  const said = reasonsIn(always)(
-    given("akasha/checks/modules/checking/checking.module.code.ts", body)
-  )
+  const said = reasonsIn(always)(given(NESTED_AT, body))
   expect(said).toEqual([])
 })
 

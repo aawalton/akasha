@@ -5,6 +5,8 @@ export const AT = "akasha/held.module.code.ts"
 
 export const NAMED_AT = "akasha/ledger.module.code.ts"
 
+export const NESTED_AT = "akasha/checks/modules/checking/checking.module.code.ts"
+
 export const NAMED = "export const one = 1\n"
 
 export const BARE = 'import { one } from "./ledger.module.code"\n'
