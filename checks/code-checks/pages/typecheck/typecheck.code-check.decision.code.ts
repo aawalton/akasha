@@ -1,5 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { specifiersIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
@@ -25,8 +27,6 @@ import { waitingKeys } from "akasha/pages/indexes/generated-properties/generated
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
 import { API } from "typescript-7/unstable/async"
-import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const IMPORT = importEdge.slug
 

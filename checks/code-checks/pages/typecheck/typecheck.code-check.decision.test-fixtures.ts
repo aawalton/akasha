@@ -1,16 +1,16 @@
 import { mkdirSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import {
-  pathFiled,
-  schemaFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   bodied,
   change,
   named,
   staged,
-} from "../../../modules/check-staging/check-staging.module.code.ts"
+} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import {
+  pathFiled,
+  schemaFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const GENERATED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299145"
 

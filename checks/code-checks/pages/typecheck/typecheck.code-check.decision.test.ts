@@ -1,11 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { change, scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   claimedIn,
   configOf,
@@ -17,7 +12,7 @@ import {
   rootsOf,
   servingOf,
   typesIn,
-} from "./typecheck.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"
 import {
   across,
   basing,
@@ -52,7 +47,12 @@ import {
   WHOLE,
   WITHOUT,
   WRONG,
-} from "./typecheck.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
+import { change, scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

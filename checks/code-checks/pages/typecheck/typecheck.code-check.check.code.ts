@@ -1,6 +1,15 @@
-import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { FILES, inputAsync } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { builtFrom, refusalsOver } from "./typecheck.code-check.decision.code.ts"
+import {
+  builtFrom,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"
+import type {
+  Body,
+  Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  FILES,
+  inputAsync,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 const BUILT: Selector<Body> = {
   named: "the bodies the program is built from",

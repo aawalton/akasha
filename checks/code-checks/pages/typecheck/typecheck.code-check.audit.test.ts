@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { typecheck } from "./typecheck.code-check.audit.code.ts"
-import { breaking, numbered } from "./typecheck.code-check.decision.test-fixtures.ts"
+import { typecheck } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.audit.code.ts"
+import {
+  breaking,
+  numbered,
+} from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
+import { scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 
