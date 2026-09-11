@@ -4,6 +4,7 @@ import type {
   DamageCategory,
 } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import { isDamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 const inf = math.huge
 
@@ -118,10 +119,6 @@ const HISTOGRAM_KEYS: Record<string, boolean> = {
   weaponCrit: true,
 }
 
-function asNumber(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
-}
-
 export function sumUnitTables(
   target: Record<string, unknown>,
   source: Record<string, unknown>,
@@ -160,8 +157,8 @@ export function sumUnitTables(
         sumUnitTables(targetHistogram, sourceHistogram, sourceHistogram)
       }
     } else if (type(object) === "number") {
-      const targetValue = asNumber(target[key])
-      const sourceValue = asNumber(source[key])
+      const targetValue = parseNumber(target[key])
+      const sourceValue = parseNumber(source[key])
 
       if (key === "max") {
         target[key] = zo_max(targetValue ?? 0, sourceValue ?? 0)
