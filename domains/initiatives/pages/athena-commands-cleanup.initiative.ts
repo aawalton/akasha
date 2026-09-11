@@ -27,7 +27,7 @@ export const athenaCommandsCleanup = {
     {
       statement: "A `taking` entry carries every spelling and shape a command's code reads.",
       workingMemory:
-        "`commands/properties/taking.record-property.ts:10-13` gives an entry `said` and `takes` alone, so five facts sit in prose or in code. The code names them by working around them: `commands/pages/inference/video-qa/inference-video-qa.command.code.ts:48-53` declares its own `const TAKING` with `aliases` and `prose`; `alan/google/email/email-command-help/email-command-help.module.code.ts:24-89` carries `required` and `repeat`. A value placeholder is the fifth. Gates the last intent.\n",
+        "`commands/properties/taking.record-property.ts:10-13` gives an entry `said` and `takes` alone, so five facts sit in prose or in code. The code names them by working around them: `commands/pages/inference/video-qa/inference-video-qa.command.code.ts:48-53` declares its own `const TAKING` with `aliases` and `prose`; `alan/google/email/email-command-reading/email-command-reading.module.code.ts:70-75` carries `repeats` and `needed`. A value placeholder is the fifth. Gates the last intent.\n",
     },
     {
       statement: "A command's help states the invariants that command's page states.",

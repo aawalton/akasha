@@ -24,7 +24,6 @@ export const googleEmail = {
     "module/email-message-fetching",
     "module/compose-input-from-arguments",
     "module/email-command-reading",
-    "module/email-command-help",
   ],
   invariants: [
     {

@@ -8,15 +8,24 @@ export const emailMessagesSend = {
   code: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "--to <addr,..>", takes: "who the mail goes to, said again or parted by commas" },
+    {
+      said: "--to <addr,..>",
+      takes: "who the mail goes to, said again or parted by commas, and every send names one",
+    },
     { said: "--cc <addr,..>", takes: "who is copied, said again or parted by commas" },
     { said: "--bcc <addr,..>", takes: "who is blind copied, said again or parted by commas" },
-    { said: "--subject <text>", takes: "the subject line" },
+    {
+      said: "--subject <text>",
+      takes: "the subject line, which every send names here or at `--subject-file`",
+    },
     {
       said: "--subject-file <path>",
       takes: "a file the subject is read from, or `-` for the input",
     },
-    { said: "--body <text>", takes: "the plain-text body" },
+    {
+      said: "--body <text>",
+      takes: "the plain-text body, which every send names here or at `--body-file`",
+    },
     { said: "--body-file <path>", takes: "a file the body is read from, or `-` for the input" },
     { said: "--attach <path>", takes: "a file to hang off the mail, said again for each" },
     { said: "--thread <id>", takes: "the thread the message joins" },
