@@ -27,13 +27,7 @@ export const theaChecksSystem = {
       statement:
         "The singleton service runs every audit hourly and messages thea the failures to remediate.",
       workingMemory:
-        "The first hourly round ran, and 49 of the 55 verdicts were in with two refusing. index-is-level-with-the-pages refused on 205 entries a folder move touched 48 seconds into the reconcile, which the span git names now drops. no-refused-syntax spent 20.7 processor seconds against the 15 its own page states, which is a check to make faster rather than a ceiling to raise. Left: watching one message reach thea, which nothing has yet shown end to end.",
-    },
-    {
-      statement:
-        "The index reconcile runs as an audit, so a skew between index and pages is found.",
-      workingMemory:
-        "index-is-level-with-the-pages runs the reconcile with nothing written and judges what it would have written, over 70,344 pages and 660,612 entries in about fifty processor seconds. Every drift it has found is churn rather than skew: an uncommitted file, or a commit landing while it ran. The first is dropped by name and the second by the span git says moved between the commit read before the reconcile and the one read after. Left: a round where it runs clean.",
+        "A round at 04ada7c1e5 answered all 56 checks and refused 6. The first message to thea landed at 355,802 bytes, past the 20,000 a message body carries, because it quoted a test run whole; the sender now shortens each refusal, holds the body to 19,000, and names the verdicts file. Left: tests-pass refuses on 23 test files, lint-clean could not run, and no message small enough to read has been watched through yet.",
     },
   ],
   constraints: [
