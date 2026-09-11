@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Prose = "txt"
-
 export const prose = {
   id: "01a06424-329c-73d2-a881-67d728085a28",
   pageTypeSlug: "file-property",
@@ -20,4 +18,5 @@ export const prose = {
       statement: "A page whose text would outrun a description has the text here.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

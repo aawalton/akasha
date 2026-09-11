@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Rulebook = "json"
-
 export const rulebook = {
   id: "01a0673c-8e0e-7012-9530-56ad5cd13631",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const rulebook = {
   propertySlug: "rulebook",
   definition: "the rules a game is played by",
   extensions: ["json"],
+  types: "ts",
 } as const satisfies FileProperty

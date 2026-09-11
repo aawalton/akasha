@@ -5,7 +5,7 @@ import type { Feeling } from "akasha/story/elements-played/properties/feeling.te
 import type { Knowing } from "akasha/story/elements-played/properties/knowing.text-property.types.ts"
 import type { Perceiving } from "akasha/story/elements-played/properties/perceiving.text-property.types.ts"
 import type { PlayedStory } from "akasha/story/elements-played/properties/played-story.relation-property.types.ts"
-import type { TurnStates } from "akasha/story/elements-played/properties/turn-states.file-property.ts"
+import type { TurnStates } from "akasha/story/elements-played/properties/turn-states.file-property.types.ts"
 import type { Wanting } from "akasha/story/elements-played/properties/wanting.text-property.types.ts"
 
 export type StoryElementPlayed = Page & {

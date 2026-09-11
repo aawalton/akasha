@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type ArcStructure = "md"
-
 export const arcStructure = {
   id: "01a06577-f385-7d82-9322-ca4e27181d96",
   pageTypeSlug: "file-property",
@@ -21,4 +19,5 @@ export const arcStructure = {
       statement: "An arc structure names every arc the story is planned to run through.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

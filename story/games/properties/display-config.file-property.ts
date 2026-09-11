@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type DisplayConfig = "json"
-
 export const displayConfig = {
   id: "01a0673c-8e0e-700f-813a-482c5cf6d89d",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const displayConfig = {
   propertySlug: "display-config",
   definition: "what a game shows the player and how often",
   extensions: ["json"],
+  types: "ts",
 } as const satisfies FileProperty

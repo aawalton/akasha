@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type StoryPremise = "md"
-
 export const storyPremise = {
   id: "01a06577-f385-7179-9713-a0ebc7944548",
   pageTypeSlug: "file-property",
@@ -20,4 +18,5 @@ export const storyPremise = {
       statement: "A premise is written in the shape the story that premise opens is told in.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

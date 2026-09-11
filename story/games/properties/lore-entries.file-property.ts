@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type LoreEntries = "jsonl"
-
 export const loreEntries = {
   id: "01a0673e-1000-7001-8f22-77c4a1e05522",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const loreEntries = {
   propertySlug: "lore-entries",
   definition: "what a game has settled as true in its world",
   extensions: ["jsonl"],
+  types: "ts",
 } as const satisfies FileProperty

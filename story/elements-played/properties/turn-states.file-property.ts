@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type TurnStates = "jsonl"
-
 export const turnStates = {
   id: "01a06828-cb99-70d4-bcad-c28091bb8c4c",
   pageTypeSlug: "file-property",
@@ -24,4 +22,5 @@ export const turnStates = {
       statement: "A row's position is the position of the turn the row is the state at.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

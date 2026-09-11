@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Policies = "json"
-
 export const policies = {
   id: "01a06590-c57a-759d-9dcc-73c83dba1a1a",
   pageTypeSlug: "file-property",
@@ -16,4 +14,5 @@ export const policies = {
       statement: "A policy the pack owns is known by an id opening with doctrine.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty
