@@ -1,4 +1,4 @@
-import type { TextProperty } from "../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const cover = {
   id: "01a0539d-94a2-71f8-83d3-2c8cd1f8db2e",
