@@ -9,6 +9,7 @@ export const questionContext = {
   slug: "question-context",
   propertySlug: "context",
   definition: "what the persona set out around a question so Alan could answer it",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,4 +9,5 @@ export const portrait = {
   slug: "portrait",
   propertySlug: "portrait",
   definition: "who a persona is, written in her own voice",
+  extensions: ["md"],
 } as const satisfies FileProperty

@@ -9,6 +9,7 @@ export const subagentEdits = {
   slug: "subagent-edits",
   propertySlug: "subagent-edits",
   definition: "the edits a subagent under a seat had not landed when its page went",
+  extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
   invariants: [

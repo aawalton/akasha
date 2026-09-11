@@ -9,6 +9,7 @@ export const appearance = {
   slug: "appearance",
   propertySlug: "appearance",
   definition: "what a persona looks like, written in her own voice",
+  extensions: ["md"],
   invariants: [
     {
       invariantKind: "departure",

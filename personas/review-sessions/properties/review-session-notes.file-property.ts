@@ -9,6 +9,7 @@ export const reviewSessionNotes = {
   slug: "review-session-notes",
   propertySlug: "notes",
   definition: "what a persona found when she looked, in her own words",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

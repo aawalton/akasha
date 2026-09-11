@@ -9,6 +9,7 @@ export const harnessSettings = {
   slug: "harness-settings",
   propertySlug: "harness-settings",
   definition: "what an agent harness is told before the harness starts",
+  extensions: ["json"],
   writtenBy: "module-property-group/telling",
   invariants: [
     {

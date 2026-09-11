@@ -9,6 +9,7 @@ export const subagentRefusals = {
   slug: "subagent-refusals",
   propertySlug: "subagent-refusals",
   definition: "why the last landing a subagent under a seat tried was refused",
+  extensions: ["txt"],
   runsFileLength: false,
   generated: true,
   invariants: [

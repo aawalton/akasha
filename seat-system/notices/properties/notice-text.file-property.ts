@@ -9,6 +9,7 @@ export const noticeText = {
   slug: "notice-text",
   propertySlug: "text",
   definition: "the words a notice hands to the seat the notice reaches",
+  extensions: ["md"],
   invariants: [
     {
       invariantKind: "departure",

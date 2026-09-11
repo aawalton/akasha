@@ -9,6 +9,7 @@ export const subagentPrompt = {
   slug: "subagent-prompt",
   propertySlug: "subagent-prompt",
   definition: "what a subagent of one kind is told before its work is handed to it",
+  extensions: ["md"],
   invariants: [
     {
       invariantKind: "departure",

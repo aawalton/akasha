@@ -9,6 +9,7 @@ export const desktopWallpaper = {
   slug: "desktop-wallpaper",
   propertySlug: "desktop-wallpaper",
   definition: "the picture a persona is shown as on Alan's monitor",
+  extensions: ["png"],
   generated: true,
   runsFileLength: false,
   holdsBytes: true,

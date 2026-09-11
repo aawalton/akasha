@@ -9,6 +9,7 @@ export const lines = {
   slug: "lines",
   propertySlug: "lines",
   definition: "the console lines a source wrote for one seat on one day",
+  extensions: ["jsonl"],
   invariants: [
     {
       invariantKind: "departure",
