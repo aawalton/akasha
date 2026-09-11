@@ -125,11 +125,6 @@ export const check = {
       statement: "Every phase a check states is reached by a caller that runs the check.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "Every check has its verdict where the tree contradicts the change the check judges.",
-    },
-    {
       invariantKind: "stopgap",
       statement:
         "No check but the compiler check exists only to test the claims the compiler tests.",
