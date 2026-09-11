@@ -12,11 +12,5 @@ export const astraGeneratedTypes = {
     "A mechanical change moves it, and that change is built before the types are moved.",
     "A many-valued property's own type carries its list, so a page states that type rather than an array of it.",
   ],
-  intents: [
-    {
-      statement: "Every generated type is written by the generator the page it belongs to states.",
-      workingMemory:
-        "A landing runs six writers through `change-preparing`. Four write no type: a lockfile, Swift spacing steps, source globs, a Containerfile. `type-generating` runs the generator a page type states, and `page-type` and `page-property` each state one. The sixth, `address-mapping`, writes the change runners' address maps, which are types, by hand. Porting it waits on the guard deciding whether a generator runs: `type-generating`'s reads path names and misses a change adding a change agent.",
-    },
-  ],
+  intents: [],
 } as const satisfies Initiative
