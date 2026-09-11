@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoDeclarationText = {
   id: "01a0673e-3ddf-7003-bbda-94a1b1824f32",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-declaration-text",
   definition: "the TypeScript declaration text a set of selected game tokens is written as",
   code: "ts",

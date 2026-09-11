@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingMyHouses = {
   id: "01a06128-d5d0-7837-b130-e565c12035cb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-my-houses",
   definition: "drawing a row for each house this account has bought",
   code: "ts",

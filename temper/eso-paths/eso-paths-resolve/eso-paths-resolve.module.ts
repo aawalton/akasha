@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoPathsResolve = {
   id: "01a06079-c3b5-7e9b-86a5-dfbfd908990c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-paths-resolve",
   definition: "the one live directory picked out of the candidates a workstation could have",
   code: "ts",

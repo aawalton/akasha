@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionsEntry = {
   id: "01a0611d-84d4-78d0-bf13-a155e200451a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companions-entry",
   definition: "what the companion add-on does as the game loads it",
   code: "ts",

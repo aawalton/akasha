@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const recipeCatalogCapture = {
   id: "01a060e2-3185-70bd-87e9-4d79d87182df",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recipe-catalog-capture",
   definition: "the provisioning recipe lists, read into the add-on's saved variables",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const equipTypeConstants = {
   id: "01a06127-6630-7b21-8870-15d879b8a41a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "equip-type-constants",
   definition:
     "the equipment slot numbers the game client has, each under the name the client spells it with",

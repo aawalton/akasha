@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const assistantEntry = {
   id: "01a060e7-1bec-7cd5-876c-cef3639abf2a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "assistant-entry",
   definition: "what the assistant keybinds do as the game loads them",
   code: "ts",

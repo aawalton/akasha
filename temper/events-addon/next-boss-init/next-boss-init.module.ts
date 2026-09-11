@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const nextBossInit = {
   id: "01a06157-835a-7077-b8f8-19565f5b9153",
   pageTypeSlug: "module",
+  type: "module",
   slug: "next-boss-init",
   definition: "the order this tracker's parts are wired up in once the add-on loads",
   code: "ts",

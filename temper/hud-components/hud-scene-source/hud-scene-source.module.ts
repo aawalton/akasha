@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const hudSceneSource = {
   id: "01a060a4-fa39-75fa-b8ed-cd9e167bd81c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hud-scene-source",
   definition: "the game file every catalogued HUD part is found in",
   code: "ts",

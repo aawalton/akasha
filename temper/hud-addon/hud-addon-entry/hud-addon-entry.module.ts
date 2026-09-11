@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const hudAddonEntry = {
   id: "01a061c5-18dd-7010-a74b-7e1a0ac8f751",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hud-addon-entry",
   definition: "what the HUD add-on does once the game has loaded that add-on",
   code: "ts",

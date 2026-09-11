@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const specializedItemTypeConstants = {
   id: "01a06127-664a-72e6-abad-75f1cbed0e4c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "specialized-item-type-constants",
   definition:
     "the specialized item type numbers the game client has, each under the client's own name",

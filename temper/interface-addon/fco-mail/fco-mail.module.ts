@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const fcoMail = {
   id: "01a06115-1ace-7984-a930-3d9ebdabf2d9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fco-mail",
   definition: "the mail window the interface tweaks change",
   code: "ts",

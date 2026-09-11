@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const writSmithParserOps = {
   id: "01a061c7-e8b2-7d92-a325-d743390cef3f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "writ-smith-parser-ops",
   definition: "works out the materials, the knowledge and the warnings a smithing writ has",
   code: "ts",

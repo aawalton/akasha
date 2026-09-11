@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingPublish = {
   id: "01a06113-b7d2-7a85-8cd4-cd7db66c98e5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-publish",
   definition: "the housing add-on's name and version, put where other add-ons read both",
   code: "ts",

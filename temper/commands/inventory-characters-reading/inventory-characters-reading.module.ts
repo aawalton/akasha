@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryCharactersReading = {
   id: "01a068e2-2267-7365-a8e9-f53b7be80f20",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-characters-reading",
   definition: "what each character knows, read out of the characters saved variables",
   code: "ts",

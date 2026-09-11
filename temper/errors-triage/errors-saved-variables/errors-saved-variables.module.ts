@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const errorsSavedVariables = {
   id: "01a060cd-564f-7386-bf3f-219a42b803ca",
   pageTypeSlug: "module",
+  type: "module",
   slug: "errors-saved-variables",
   definition: "the shape the errors addon saves, ruled on as it is read back",
   code: "ts",

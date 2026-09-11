@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const recipeCatalogSchema = {
   id: "01a06076-5ea9-7717-bd35-d68b08aa506f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recipe-catalog-schema",
   definition: "the zod schema reading the recipe catalog out of saved variables",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const armorWeightIds = {
   id: "01a060f0-3eac-71f4-ab24-ac7b5ad15139",
   pageTypeSlug: "module",
+  type: "module",
   slug: "armor-weight-ids",
   definition: "the weight classes a piece of body armor or a shield is made in",
   code: "ts",

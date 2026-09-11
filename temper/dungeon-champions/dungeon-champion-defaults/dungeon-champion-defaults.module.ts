@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dungeonChampionDefaults = {
   id: "01a060f9-babf-7752-94d6-6bcff526e895",
   pageTypeSlug: "module",
+  type: "module",
   slug: "dungeon-champion-defaults",
   definition: "what a player who has changed no setting sees",
   code: "ts",

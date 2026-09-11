@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const craftingState = {
   id: "01a061c7-e879-7dca-aa77-38bf5d0c6d80",
   pageTypeSlug: "module",
+  type: "module",
   slug: "crafting-state",
   definition: "the one table every crafting window reads and writes",
   code: "ts",

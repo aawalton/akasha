@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionQualityRules = {
   id: "01a06360-7480-7004-99b9-59ca52965b19",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-quality-rules",
   definition: "the variant and text class a companion equipment quality is drawn in",
   code: "ts",

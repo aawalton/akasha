@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatUiSettingsMenu = {
   id: "01a0617f-585b-724a-879e-67c57979348b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-ui-settings-menu",
   definition: "the right-click menu on the report's settings button",
   code: "ts",

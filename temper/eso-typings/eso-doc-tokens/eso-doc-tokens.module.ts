@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoDocTokens = {
   id: "01a0673e-3ddf-7001-acad-9b0751ef4567",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-doc-tokens",
   definition: "the functions, objects, events and enums a game documentation dump describes",
   code: "ts",

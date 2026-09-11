@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const equipmentQualities = {
   id: "01a060b8-08c6-7141-8b6e-044cf34927d5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "equipment-qualities",
   definition: "the quality tiers a piece of equipment is made at, from no quality up to mythic",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const installNamedAddon = {
   id: "01a06069-b790-7f2c-a237-0a215f888c46",
   pageTypeSlug: "module",
+  type: "module",
   slug: "install-named-addon",
   definition: "one addon named by hand, looked up on ESOUI and laid into the addons directory",
   code: "ts",

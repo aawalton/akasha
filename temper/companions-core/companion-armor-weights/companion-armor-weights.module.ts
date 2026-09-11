@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionArmorWeights = {
   id: "01a06108-0763-7147-bd41-21baa914acb5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-armor-weights",
   definition: "the weight classes a companion's body armor is made in",
   code: "ts",

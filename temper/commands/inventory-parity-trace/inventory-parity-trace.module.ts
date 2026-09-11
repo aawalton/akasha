@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryParityTrace = {
   id: "01a068e2-226f-7a3c-b3d4-e252ba74470d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-parity-trace",
   definition: "the walk the addon recorded for the last item it explained",
   code: "ts",

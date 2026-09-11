@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const recipeEntries11 = {
   id: "01a060c0-4136-723d-9060-facb24f4792c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recipe-entries-11",
   definition: "part 11 of the recipes the crafting table holds",
   code: "ts",

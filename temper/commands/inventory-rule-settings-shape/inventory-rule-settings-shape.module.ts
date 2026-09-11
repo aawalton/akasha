@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleSettingsShape = {
   id: "01a068e2-226a-7523-928d-85398937e67c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-settings-shape",
   definition: "what unknown JSON holds to be read as a player's inventory rule settings",
   code: "ts",

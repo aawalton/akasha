@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const fcoCollectibles = {
   id: "01a06115-1ac4-7e32-ab38-61878d69e4af",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fco-collectibles",
   definition: "the collections book rows the interface tweaks change",
   code: "ts",

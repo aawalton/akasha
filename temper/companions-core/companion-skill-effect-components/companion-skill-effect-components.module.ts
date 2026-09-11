@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSkillEffectComponents = {
   id: "01a06110-abe4-7a5f-8d52-de4e9f5696c3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-skill-effect-components",
   definition: "every component a companion skill effect is made of",
   code: "ts",

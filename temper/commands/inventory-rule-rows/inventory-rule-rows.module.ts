@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRuleRows = {
   id: "01a068f6-dedf-7995-b1bc-45a280695fe1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rule-rows",
   definition: "the columns a rule listing prints and the row one item rule prints as",
   code: "ts",

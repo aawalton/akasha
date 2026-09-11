@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryParityRouting = {
   id: "01a068e2-2270-76c1-aca3-9375d572748b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-parity-routing",
   definition: "where an item would go on each side, and whether the two sides agree",
   code: "ts",

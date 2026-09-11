@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const hudControls = {
   id: "01a060a4-fa3b-745a-a9a7-a90e32641060",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hud-controls",
   definition: "the HUD parts that are controls rather than fragments",
   code: "ts",

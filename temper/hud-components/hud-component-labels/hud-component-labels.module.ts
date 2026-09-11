@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const hudComponentLabels = {
   id: "01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hud-component-labels",
   definition: "the name and category a person reads for one part of the HUD",
   code: "ts",

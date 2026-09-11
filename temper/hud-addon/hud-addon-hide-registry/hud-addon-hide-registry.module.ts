@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const hudAddonHideRegistry = {
   id: "01a061c5-18dd-700c-9fd0-0e774e55b75b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hud-addon-hide-registry",
   definition:
     "the plan carried out against the game, each part through the mechanism the part names",

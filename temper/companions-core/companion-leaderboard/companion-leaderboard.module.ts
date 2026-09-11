@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionLeaderboard = {
   id: "01a06152-c2ca-7bf7-a6bf-86af486302c4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-leaderboard",
   definition: "ranking of companion builds by score across base role combinations",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSkillTooltip = {
   id: "01a06152-c2d4-7d27-895d-d2dfe67c393f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-skill-tooltip",
   definition: "a companion skill description with its durations and values filled in",
   code: "ts",

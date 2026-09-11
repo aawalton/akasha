@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingLibraryTab = {
   id: "01a06128-d5d0-76b8-ae19-d877e4ff3a33",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-library-tab",
   definition: "drawing the community library rows and their port buttons",
   code: "ts",

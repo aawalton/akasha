@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSkills01 = {
   id: "01a06119-5cab-7943-beb0-19e8173e0716",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-skills-01",
   definition: "one run of companion skills, in the order the whole table names them",
   code: "ts",

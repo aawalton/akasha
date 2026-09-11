@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionRotationSimulator = {
   id: "01a06152-c2d0-754e-9a10-1c25777b3df1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-rotation-simulator",
   definition: "the tick loop a companion rotation is played out on",
   code: "ts",

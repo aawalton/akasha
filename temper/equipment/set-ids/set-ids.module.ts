@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setIds = {
   id: "01a060d5-2f12-7886-bf98-e23a2afc639d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "set-ids",
   definition: "every Elder Scrolls Online gear set a character may wear, named as one type",
   code: "ts",

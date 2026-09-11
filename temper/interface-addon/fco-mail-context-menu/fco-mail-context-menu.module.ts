@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const fcoMailContextMenu = {
   id: "01a06115-1acb-7588-b272-dade87a6eff2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fco-mail-context-menu",
   definition: "the mail context menu the interface tweaks build",
   code: "ts",

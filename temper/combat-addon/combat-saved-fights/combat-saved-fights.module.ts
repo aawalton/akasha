@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatSavedFights = {
   id: "01a0617f-584f-7efd-9460-37a91df1f3ef",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-saved-fights",
   definition: "the fights kept on disk, and loading, saving and deleting one",
   code: "ts",

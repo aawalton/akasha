@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esouiCatalog = {
   id: "01a06069-b78e-7d2b-92aa-b3faa2d1f562",
   pageTypeSlug: "module",
+  type: "module",
   slug: "esoui-catalog",
   definition: "what ESOUI answers about the addons ESOUI has",
   code: "ts",

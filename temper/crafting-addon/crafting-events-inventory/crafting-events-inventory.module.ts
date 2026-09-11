@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const craftingEventsInventory = {
   id: "01a061c7-e877-7485-ab99-a082b1282463",
   pageTypeSlug: "module",
+  type: "module",
   slug: "crafting-events-inventory",
   definition: "what the add-on does when a bag slot or the player's gold changes",
   code: "ts",

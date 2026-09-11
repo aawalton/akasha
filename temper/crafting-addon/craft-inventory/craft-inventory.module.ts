@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const craftInventory = {
   id: "01a061c7-e851-7ab5-be91-a1e8f7b078ef",
   pageTypeSlug: "module",
+  type: "module",
   slug: "craft-inventory",
   definition: "reads the bags and banks and records what each character is holding",
   code: "ts",

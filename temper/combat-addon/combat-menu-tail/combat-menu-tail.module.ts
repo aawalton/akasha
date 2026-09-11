@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatMenuTail = {
   id: "01a0617f-584d-7716-b37c-f6c7c2ba573b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-menu-tail",
   definition: "the later half of the settings menu",
   code: "ts",

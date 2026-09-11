@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingState = {
   id: "01a06113-b7d2-735f-8277-3ecbda9af951",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-state",
   definition: "the one holder with the add-on's settings, running state and saved variables",
   code: "ts",

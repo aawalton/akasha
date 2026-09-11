@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setIdsAToO = {
   id: "01a060d5-2f13-7b67-ac60-358958a4c07b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "set-ids-a-to-o",
   definition: "the gear sets from the no-set sentinel through the ones keyed under the letter o",
   code: "ts",

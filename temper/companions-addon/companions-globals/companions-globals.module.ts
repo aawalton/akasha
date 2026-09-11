@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionsGlobals = {
   id: "01a0611d-84dc-7ccb-8d6e-224471379bbc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companions-globals",
   definition: "the two names the add-on hangs off the game's global table",
   code: "ts",

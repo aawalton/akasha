@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const combatLibUnitCache = {
   id: "01a0617f-584b-7186-a882-75edac0473c6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "combat-lib-unit-cache",
   definition: "the recent events per unit that a death recap is built from",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const zoneCompletionCatalogCapture = {
   id: "01a060e2-3186-7265-a0dc-af76d21939e4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zone-completion-catalog-capture",
   definition:
     "the zone completion activities of every zone, read into the add-on's saved variables",

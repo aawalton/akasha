@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionTraits = {
   id: "01a06108-076e-76c3-9e85-b58e3d430303",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-traits",
   definition:
     "every property a piece of companion equipment is worked with, and what each is worth",

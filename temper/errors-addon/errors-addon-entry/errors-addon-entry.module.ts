@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const errorsAddonEntry = {
   id: "01a060d8-091a-7ce1-8550-de2e11a20429",
   pageTypeSlug: "module",
+  type: "module",
   slug: "errors-addon-entry",
   definition: "what the error add-on does as the game loads it",
   code: "ts",

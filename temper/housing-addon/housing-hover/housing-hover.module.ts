@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingHover = {
   id: "01a06128-d5ce-79e1-bfae-231c44c3e43b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-hover",
   definition: "what a housing row shows while the pointer is over it",
   code: "ts",

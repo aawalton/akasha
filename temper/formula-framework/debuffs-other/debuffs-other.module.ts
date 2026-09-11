@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const debuffsOther = {
   id: "01a06070-82df-7a07-a3b0-d3dc1108475c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "debuffs-other",
   definition: "the debuffs the game applies under neither Major nor Minor",
   code: "ts",

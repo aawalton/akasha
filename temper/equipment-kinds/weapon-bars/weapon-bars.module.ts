@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const weaponBars = {
   id: "01a060b8-08c6-7381-8ac1-7788bdbe2c6c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "weapon-bars",
   definition: "the primary bar and the backup bar a character swaps between in combat",
   code: "ts",

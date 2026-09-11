@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonUpdatePlan = {
   id: "01a06069-b78f-7b28-b528-03c2f328ce0c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addon-update-plan",
   definition: "what each installed addon folder is, weighed against what ESOUI offers",
   code: "ts",

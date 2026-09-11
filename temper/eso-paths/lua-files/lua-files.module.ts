@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const luaFiles = {
   id: "01a06919-a938-7c99-866b-0f9382740997",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lua-files",
   definition: "every Lua file under a directory, however deep it sits",
   code: "ts",

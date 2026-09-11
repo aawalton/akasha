@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const craftingEventsHandlers = {
   id: "01a061c7-e877-7489-aacd-9037a40d8879",
   pageTypeSlug: "module",
+  type: "module",
   slug: "crafting-events-handlers",
   definition: "what the add-on does when the game reports a craft, a study or a station",
   code: "ts",

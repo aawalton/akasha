@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSkillExecutor = {
   id: "01a06152-c2d2-7cd9-b804-35603434ce8d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-skill-executor",
   definition: "what activating a companion skill does to the rotation state",
   code: "ts",

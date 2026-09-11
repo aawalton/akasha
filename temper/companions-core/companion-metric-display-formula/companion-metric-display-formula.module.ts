@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionMetricDisplayFormula = {
   id: "01a06152-c2cb-7230-b589-bd7b8d4013b9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-metric-display-formula",
   definition:
     "converter from a companion metric value to a display formula tree of labeled contributions",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const esoDate = {
   id: "01a06070-82e2-764c-be2a-e7c281e7063e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "eso-date",
   definition: "today's date on the game's own clock",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const displayFormulaLatex = {
   id: "01a06070-82e0-71ed-80fe-774ff339d889",
   pageTypeSlug: "module",
+  type: "module",
   slug: "display-formula-latex",
   definition: "a display formula written out as LaTeX",
   code: "ts",

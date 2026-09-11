@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const armorTraits = {
   id: "01a0610f-45b9-7cd1-b86c-956394916d9b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "armor-traits",
   definition: "every property a piece of player armor is worked with, and what each is worth",
   code: "ts",

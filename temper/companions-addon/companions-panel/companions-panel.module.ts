@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionsPanel = {
   id: "01a0611d-84de-7c65-8411-3dd9d941484a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companions-panel",
   definition: "the panel showing one companion's key and value rows",
   code: "ts",

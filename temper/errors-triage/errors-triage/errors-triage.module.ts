@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const errorsTriage = {
   id: "01a060cd-5652-7220-90d5-d163aee6caa2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "errors-triage",
   definition: "whether an error came from the build now deployed or from one left in memory",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSkillOptimizer = {
   id: "01a06152-c2d3-745f-a9ce-273ae6b1e966",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-skill-optimizer",
   definition: "candidate skill combination search producing the top ranked companion skill bars",
   code: "ts",

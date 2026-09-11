@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionEquipmentQualities = {
   id: "01a06108-0766-785a-9dd2-ef09e0ab69e2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-equipment-qualities",
   definition: "every grade a piece of companion equipment is made at",
   code: "ts",

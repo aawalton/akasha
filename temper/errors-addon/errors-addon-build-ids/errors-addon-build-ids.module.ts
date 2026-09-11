@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const errorsAddonBuildIds = {
   id: "01a060d8-0918-78cb-b1c7-2d2db0462ee2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "errors-addon-build-ids",
   definition: "which add-on a callstack blames and the build that add-on was made from",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const explainWalk = {
   id: "01a06036-188c-735e-bae8-be4f3d907a2f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "explain-walk",
   definition: "the rules one item was walked through, written out as lines to read",
   code: "ts",

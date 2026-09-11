@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionBulkUpdateEquipment = {
   id: "01a06152-c2c5-7e0c-8688-41d1ac8871ea",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-bulk-update-equipment",
   definition: "bulk replacement of one trait or quality value across companion equipment slots",
   code: "ts",

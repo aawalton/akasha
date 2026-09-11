@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const cadwellCatalogCapture = {
   id: "01a060e2-3182-756a-bf21-3babbef6d0b0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "cadwell-catalog-capture",
   definition:
     "the Cadwell's Almanac zones and points of interest, read into the add-on's saved variables",

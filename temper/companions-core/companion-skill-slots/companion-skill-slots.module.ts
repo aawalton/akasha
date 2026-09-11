@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSkillSlots = {
   id: "01a06119-5ca9-7ca6-b630-d90e7f111648",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-skill-slots",
   definition: "the six places a companion's skill bar has a skill in",
   code: "ts",

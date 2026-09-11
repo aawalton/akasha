@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionStatsCalculatorImpl = {
   id: "01a06152-c2d5-7baf-a9bc-c8933bec82ac",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-stats-calculator-impl",
   definition: "the full companion stat calculation pass over sources, formula metrics and rotation",
   code: "ts",

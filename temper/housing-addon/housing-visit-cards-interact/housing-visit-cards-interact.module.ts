@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingVisitCardsInteract = {
   id: "01a06128-d5d6-7897-939f-8aa6659a7dcf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-visit-cards-interact",
   definition: "what clicking a received visit card does",
   code: "ts",

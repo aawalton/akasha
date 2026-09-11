@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionsReverseMappings = {
   id: "01a0611d-84de-7793-b8b7-f25afebc6f2e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companions-reverse-mappings",
   definition: "turning a codec index back into the game constant and the words a player reads",
   code: "ts",

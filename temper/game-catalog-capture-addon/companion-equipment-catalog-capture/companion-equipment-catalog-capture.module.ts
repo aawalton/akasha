@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionEquipmentCatalogCapture = {
   id: "01a060e2-3183-79ae-8aa3-7b0eb85b2869",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-equipment-catalog-capture",
   definition:
     "the constants companion gear is described by, written to the add-on's saved variables",

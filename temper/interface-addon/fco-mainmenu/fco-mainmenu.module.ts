@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const fcoMainmenu = {
   id: "01a06115-1ace-7314-97ba-9bfe3573227e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fco-mainmenu",
   definition: "the main menu rows the interface tweaks change",
   code: "ts",

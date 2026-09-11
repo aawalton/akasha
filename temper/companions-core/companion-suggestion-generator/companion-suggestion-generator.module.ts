@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionSuggestionGenerator = {
   id: "01a06152-c2d6-7af6-bf3c-a6d3324e80f0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-suggestion-generator",
   definition: "ranked single-change suggestions that raise a companion build score",
   code: "ts",

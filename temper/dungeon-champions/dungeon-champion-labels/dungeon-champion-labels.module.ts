@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dungeonChampionLabels = {
   id: "01a060f9-bac3-7d62-84b5-57fdb312f3dc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "dungeon-champion-labels",
   definition: "every label this addon shows a player, reached by key",
   code: "ts",

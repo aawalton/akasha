@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dungeonChampionColors = {
   id: "01a060f9-babe-7d15-8b17-8c3ff34e4b9a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "dungeon-champion-colors",
   definition:
     "a four-number color turned into the shapes the game's color picker and textures take",

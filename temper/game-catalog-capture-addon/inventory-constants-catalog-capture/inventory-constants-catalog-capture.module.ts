@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryConstantsCatalogCapture = {
   id: "01a06127-6637-741d-b7cf-e75c80c39e3d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-constants-catalog-capture",
   definition:
     "the game's inventory enumerations, read out of the client into the add-on's saved variables",

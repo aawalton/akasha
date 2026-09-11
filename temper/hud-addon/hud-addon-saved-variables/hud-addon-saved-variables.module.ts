@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const hudAddonSavedVariables = {
   id: "01a061c5-18dd-7003-b272-f24014f3e43b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hud-addon-saved-variables",
   definition: "the account-wide store the add-on keeps its session and its visibility in",
   code: "ts",

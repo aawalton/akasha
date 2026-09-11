@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const eventsAddonGlobal = {
   id: "01a06157-8355-7167-94a2-afe46cd04bb8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "events-addon-global",
   definition: "the name another add-on reaches this one by",
   code: "ts",

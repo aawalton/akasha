@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionQolBindings = {
   id: "01a0611d-84c3-76da-bd79-5f0adf6ca49f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-qol-bindings",
   definition: "the keybind names the quality-of-life code adds to the game",
   code: "ts",

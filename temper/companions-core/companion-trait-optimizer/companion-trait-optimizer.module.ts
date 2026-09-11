@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionTraitOptimizer = {
   id: "01a06152-c2d8-7ee7-bc88-0ef2a11913d0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-trait-optimizer",
   definition: "trait assignment search over the empty trait slots of a companion build",
   code: "ts",

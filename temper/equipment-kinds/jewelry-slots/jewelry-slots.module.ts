@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const jewelrySlots = {
   id: "01a060b8-08c5-7b3b-a995-798d59d45760",
   pageTypeSlug: "module",
+  type: "module",
   slug: "jewelry-slots",
   definition: "the necklace and the two ring positions a character wears jewelry at",
   code: "ts",

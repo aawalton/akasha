@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const potionControlsIngredients = {
   id: "01a08e6b-e041-7bef-ba7a-afd8c380848d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "potion-controls-ingredients",
   definition: "builds the solvent and reagent buttons the potion window is filtered by",
   code: "ts",

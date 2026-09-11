@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingBuildCasts = {
   id: "01a06113-b7cd-713c-9e44-bec20c408d8d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-build-casts",
   definition: "the control shapes the housing window builders name",
   code: "ts",

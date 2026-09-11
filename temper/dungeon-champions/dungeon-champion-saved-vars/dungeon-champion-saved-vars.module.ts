@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const dungeonChampionSavedVars = {
   id: "01a060f9-bad8-7db9-82ae-dfa276bad382",
   pageTypeSlug: "module",
+  type: "module",
   slug: "dungeon-champion-saved-vars",
   definition: "the settings this addon keeps between sessions",
   code: "ts",

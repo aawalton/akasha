@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const masterCraftTraceReading = {
   id: "01a06864-aa2b-7003-afed-089f9baeaad7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "master-craft-trace-reading",
   definition: "the traces the inventory addon records for each master writ it tries to craft",
   code: "ts",

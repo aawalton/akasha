@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const achievementCatalogCapture = {
   id: "01a060e2-3182-7542-b21a-251c92e9d95d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "achievement-catalog-capture",
   definition: "the achievements by category, read in batches into the add-on's saved variables",
   code: "ts",

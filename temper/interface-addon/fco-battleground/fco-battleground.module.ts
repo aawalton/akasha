@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const fcoBattleground = {
   id: "01a06115-1ac3-7552-9b13-3b2892446246",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fco-battleground",
   definition: "the battleground heads-up panel the player may move",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionsDisplayNames = {
   id: "01a0611d-84d3-7cf4-b385-a77f80d02765",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companions-display-names",
   definition: "the words a player reads for each armor weight, trait, quality and gear slot",
   code: "ts",

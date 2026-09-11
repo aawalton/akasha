@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const housingContextMenu = {
   id: "01a06128-d5ca-706a-a06b-ee7f1746eb74",
   pageTypeSlug: "module",
+  type: "module",
   slug: "housing-context-menu",
   definition: "adding a send-visit-card entry to the chat and guild-roster right-click menus",
   code: "ts",

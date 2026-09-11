@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionBuildEdits = {
   id: "01a06152-c2c4-7605-8f02-6a19f8f10543",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-build-edits",
   definition: "the changes one makes to a companion build",
   code: "ts",
