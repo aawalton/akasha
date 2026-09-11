@@ -113,6 +113,52 @@ export type Holds = {
 }
 `
 
+export const VALUED = `import { join } from "node:path"
+
+export const AT = join("a", "b")
+
+export type Other = {
+  readonly name: string
+}
+`
+
+export const VALUE_USING = `import { AT } from "./one.held.ts"
+
+export const held = AT
+`
+
+export const VALUE_LANDED = `import { join } from "node:path"
+
+export const AT = join("a", "b")
+`
+
+export const FUNCTIONED = `import { join } from "node:path"
+
+export function at(one: string): string {
+  return join(one, "b")
+}
+`
+
+export const SIBLING = `export function childOf(one: number): number {
+  return one
+}
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+`
+
+export const SIBLING_LANDED = `import { childOf } from "./one.held.ts"
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+`
+
+export const SIBLING_BACK = `${SIBLING}
+export const FIRST = searchOf(1)
+`
+
 type Passage = { at: string; old: string; new: string }
 
 type Adding = { at: string; body: string }

@@ -8,6 +8,7 @@ import {
   FAR,
   FAR_USING,
   FROM,
+  FUNCTIONED,
   HELD,
   LANDED,
   LANDED_FAR,
@@ -17,12 +18,18 @@ import {
   ROOT,
   ROOT_AT,
   SHARED,
+  SIBLING,
+  SIBLING_BACK,
+  SIBLING_LANDED,
   STILL,
   TAKEN,
   TO,
   takenAt,
   USES,
   USING,
+  VALUE_LANDED,
+  VALUE_USING,
+  VALUED,
   worldOf,
 } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test-fixtures.ts"
 
@@ -225,25 +232,6 @@ test("a body declaring nothing of that name is refused", async () => {
   expect(said.refused).toBe(`\`${FROM}\` declares nothing named \`Missing\``)
 })
 
-const VALUED = `import { join } from "node:path"
-
-export const AT = join("a", "b")
-
-export type Other = {
-  readonly name: string
-}
-`
-
-const VALUE_USING = `import { AT } from "./one.held.ts"
-
-export const held = AT
-`
-
-const VALUE_LANDED = `import { join } from "node:path"
-
-export const AT = join("a", "b")
-`
-
 test("an exported value moves with the import its body names", async () => {
   const world = worldOf({ [FROM]: VALUED, [USES]: VALUE_USING }, [USES])
 
@@ -260,25 +248,11 @@ test("an import the body left behind no longer names goes with an exported value
   expect(takenAt(said, FROM)).toContain(`import { join } from "node:path"\n`)
 })
 
-const FUNCTIONED = `import { join } from "node:path"
-
-export function at(one: string): string {
-  return join(one, "b")
-}
-`
-
-const FUNCTION_LANDED = `import { join } from "node:path"
-
-export function at(one: string): string {
-  return join(one, "b")
-}
-`
-
 test("an exported function moves whole", async () => {
   const said = await runChange(worldOf({ [FROM]: FUNCTIONED }), { from: FROM, to: TO, of: "at" })
 
   expect(said.refused).toBeNull()
-  expect(addedAt(said, TO)).toBe(FUNCTION_LANDED)
+  expect(addedAt(said, TO)).toBe(FUNCTIONED)
 })
 
 const NAMED_USING = `import type { Kept } from "@held/one/one"
@@ -396,22 +370,6 @@ test("an export naming something its own body declares under no export is refuse
   )
 })
 
-const SIBLING = `export function childOf(one: number): number {
-  return one
-}
-
-export function searchOf(one: number): number {
-  return childOf(one)
-}
-`
-
-const SIBLING_LANDED = `import { childOf } from "./one.held.ts"
-
-export function searchOf(one: number): number {
-  return childOf(one)
-}
-`
-
 test("an export the moved body names from its own source file is imported from there", async () => {
   const world = worldOf({ [FROM]: SIBLING })
 
@@ -429,17 +387,6 @@ test("that import is spelled from the checkout root where the root names a way i
   expect(said.refused).toBeNull()
   expect(addedAt(said, TO)).toContain(`import { childOf } from "tree/${FROM}"`)
 })
-
-const SIBLING_BACK = `export function childOf(one: number): number {
-  return one
-}
-
-export function searchOf(one: number): number {
-  return childOf(one)
-}
-
-export const FIRST = searchOf(1)
-`
 
 test("carrying such an import where the two bodies would name each other is refused", async () => {
   const world = worldOf({ [FROM]: SIBLING_BACK })
