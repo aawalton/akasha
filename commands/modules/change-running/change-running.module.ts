@@ -36,11 +36,6 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A value with a quote or a newline reaches the change as the caller wrote that value.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The key `at` names a path.",
     },
     {
@@ -49,7 +44,20 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A path is read with the whitespace at either end taken off.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path running over more than one line is refused before the change is loaded.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path outside the repository is refused before the change is loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every other value with a quote or a newline reaches the change as the caller wrote it.",
     },
     {
       invariantKind: "departure",

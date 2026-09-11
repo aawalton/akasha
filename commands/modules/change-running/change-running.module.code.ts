@@ -151,9 +151,17 @@ export function argumentsIn(piping: Piping): Arguments | string {
   return "refused" in read ? read.refused : read.given
 }
 
+const LINE_BREAK = /[\n\r]/
+
+const MANY_LINES =
+  "`at` names one path, and this one runs over more than one line — a fence hands its whole" +
+  " body over, so name the path on the `at` line itself"
+
 export function rootedIn(root: string, given: Arguments): Arguments | string {
-  const said = given[AT]
-  if (said === undefined) return given
+  const held = given[AT]
+  if (held === undefined) return given
+  const said = held.trim()
+  if (LINE_BREAK.test(said)) return MANY_LINES
   const path = pathAt(root, said)
   return path === null ? offRepo(said) : { ...given, [AT]: path }
 }

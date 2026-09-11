@@ -156,6 +156,23 @@ test("a path outside the repository is refused", async () => {
   expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
 })
 
+test("a path handed through a fence loses the newline that fence ends it with", async () => {
+  const root = repo()
+
+  const said = await acting(root, ["remove-page"], piping(`at ~\n${NAMER_PAGE}\n~\n`))
+
+  expect(said.refusals).toEqual([])
+  expect(keptIn(root)).toEqual(BOTH)
+})
+
+test("a path running over more than one line is refused", async () => {
+  const said = `at ~\n${NAMER_PAGE}\n${SPARE_PAGE}\n~\n`
+
+  const answered = await acting(repo(), ["remove-page"], piping(said))
+
+  expect(answered.refusals[0] ?? "").toContain("`at` names one path")
+})
+
 test("a path that is no page keeps no edits", async () => {
   const said = await changing(
     repo(),
