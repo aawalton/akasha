@@ -8,6 +8,7 @@ export const noAkashaCommandFromCode = {
   definition: "the rule refusing a call that runs the akasha command from inside akasha",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

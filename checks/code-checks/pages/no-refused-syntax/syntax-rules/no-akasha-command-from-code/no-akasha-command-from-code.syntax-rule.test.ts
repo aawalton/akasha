@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noAkashaCommandFromCode } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"
+import { DISPATCHER } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test-fixtures.ts"
 
 test("a file launching nothing is refused nothing", () => {
   expect(noAkashaCommandFromCode(parsed("export const one = 1\n"))).toEqual([])
@@ -25,7 +26,7 @@ test("the command reached through a bound name and a join is refused", () => {
 })
 
 test("the dispatcher run as an argument is left to the rule refusing every run", () => {
-  const text = 'Bun.spawnSync([bun, "cli/cli.module.code.ts"])\n'
+  const text = `Bun.spawnSync([bun, "${DISPATCHER}"])\n`
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
