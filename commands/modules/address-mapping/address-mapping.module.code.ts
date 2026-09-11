@@ -1,4 +1,3 @@
-import { dirname, relative } from "node:path"
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
@@ -7,6 +6,8 @@ import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+
+const ROOT = "akasha/"
 
 const PAGE_TYPE = "page-type"
 
@@ -38,9 +39,8 @@ export type Mapped = {
 
 const NOTHING_MAPPED: Mapped = { edits: [], said: [] }
 
-function specifierFor(from: string, to: string): string {
-  const said = relative(dirname(from), to)
-  return said.startsWith(".") ? said : `./${said}`
+function specifierFor(to: string): string {
+  return `${ROOT}${to}`
 }
 
 function declaresRun(text: string): boolean {
@@ -54,7 +54,6 @@ export function textOver(change: Change): (path: string) => string | null {
 function addressedOf(
   shadow: Shadow,
   kind: string,
-  at: string,
   textAt: (path: string) => string | null
 ): readonly Address[] {
   const found: Address[] = []
@@ -67,7 +66,7 @@ function addressedOf(
     if (code === null) continue
     const text = textAt(code)
     if (text === null || !declaresRun(text)) continue
-    found.push({ address: `${kind}/${slug}`, spec: specifierFor(at, code) })
+    found.push({ address: `${kind}/${slug}`, spec: specifierFor(code) })
   }
   return found
 }
@@ -80,11 +79,10 @@ function kindIn(said: string): string {
 function addressesFor(
   shadow: Shadow,
   reached: string,
-  at: string,
   textAt: (path: string) => string | null
 ): readonly Address[] {
   const found = [...shadow.index.kindsUnder(reached)].flatMap((kind) =>
-    addressedOf(shadow, kind, at, textAt)
+    addressedOf(shadow, kind, textAt)
   )
   return [...found].sort((one, two) =>
     one.address < two.address ? -1 : one.address > two.address ? 1 : 0
@@ -126,7 +124,7 @@ export function mappedOver(
     if (at === null || answered.has(at)) continue
     const reached = value[REACHED]
     if (typeof reached !== "string") continue
-    const addresses = addressesFor(shadow, kindIn(reached), at, textAt)
+    const addresses = addressesFor(shadow, kindIn(reached), textAt)
     const raw = new TextEncoder().encode(bodyFor(addresses))
     const now = new TextDecoder().decode(formattedBody(root, at, raw).body)
     const was = textAt(at)
