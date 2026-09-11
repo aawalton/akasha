@@ -36,7 +36,7 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "An import naming the landing body itself is left out rather than written.",
+      statement: "An import naming the landing body is left out however that body is spelled.",
     },
     {
       invariantKind: "departure",
@@ -113,6 +113,10 @@ export const moveCodeExport = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes a body of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A class is no declaration moved here.",
     },
     {
       invariantKind: "departure",

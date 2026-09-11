@@ -140,13 +140,18 @@ function spelledFor(given: Asked, from: string): string {
   return held === null ? from : specifierFor(dirname(given.to), held)
 }
 
-function ownIn(given: Asked, from: string): boolean {
-  return from.startsWith(BESIDE) && landingOf(given.from, from) === given.to
+function ownIn(given: Asked, from: string, naming: Naming): boolean {
+  return landingOf(given.from, from, naming) === given.to
 }
 
-function bodyFor(carried: ReadonlyMap<string, Carrying>, passage: string, given: Asked): string {
+function bodyFor(
+  carried: ReadonlyMap<string, Carrying>,
+  passage: string,
+  given: Asked,
+  naming: Naming
+): string {
   const lines = [...carried]
-    .filter(([, named]) => !ownIn(given, named.from))
+    .filter(([, named]) => !ownIn(given, named.from, naming))
     .sort((one, two) => one[1].from.localeCompare(two[1].from))
     .map(([name, one]) => lineAs(name, spelledFor(given, one.from), one))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
@@ -273,7 +278,8 @@ function ontoFor(
   given: Asked,
   whole: string,
   carried: ReadonlyMap<string, Carrying>,
-  passage: string
+  passage: string,
+  naming: Naming
 ): Passage | Refused {
   const first = parsedAs(given.to, whole)
   const gone = withoutName(whole, first, given.of)
@@ -282,7 +288,7 @@ function ontoFor(
   const held = new Map([...importsIn(source), ...everyIn(source)])
   const lines: string[] = []
   for (const [name, one] of carried) {
-    if (ownIn(given, one.from)) continue
+    if (ownIn(given, one.from, naming)) continue
     const spelled = spelledFor(given, one.from)
     const there = held.get(name)
     if (there === undefined) {
@@ -332,11 +338,12 @@ function planFor(
     const said = `\`${first[0]}\` from \`${given.from}\`, which would name \`${given.to}\` back`
     return { refused: `\`${given.of}\` names ${said}` }
   }
-  const onto = landing.onto === null ? null : ontoFor(given, landing.onto, carried, passage)
+  const onto =
+    landing.onto === null ? null : ontoFor(given, landing.onto, carried, passage, landing.naming)
   if (onto !== null && "refused" in onto) return onto
   return {
     taken: { at: given.from, old: passage, new: "" },
-    body: bodyFor(carried, passage, given),
+    body: bodyFor(carried, passage, given, landing.naming),
     adding: landing.adding,
     onto,
     after: [...gone, ...(back === null ? [] : [back]), ...repointed],

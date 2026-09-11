@@ -158,6 +158,22 @@ test("an import naming the landing body itself is left out of what lands", async
   expect(addedAt(said, ELSEWHERE)).not.toContain("import")
 })
 
+const NAMES_LANDING = `import { childOf } from "tree/${TO}"
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+`
+
+test("an import naming the landing body by the root is left out of what lands", async () => {
+  const held = { [FROM]: NAMES_LANDING, [NAMED_AT]: NAMED, [ROOT_AT]: ROOT }
+
+  const said = await runChange(worldOf(held), { from: FROM, to: TO, of: "searchOf" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).not.toContain("import")
+})
+
 test("a landing body that imported what moved no longer imports it", async () => {
   const world = worldOf({ [FROM]: VALUED, [TO]: IMPORTS_IT }, [TO])
 
