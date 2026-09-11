@@ -1,13 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { judgingBy } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   refusalsOver,
   STATES_NO_PAGE_TYPE,
-} from "./page-matches-its-type.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.code.ts"
 import {
   ALPHA_AT,
   BETA_AT,
@@ -25,7 +21,11 @@ import {
   THING_BODY,
   typing,
   WAS_ALPHA,
-} from "./page-matches-its-type.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
+import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { judgingBy } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const popoverKeepsItsViewportCap = {
   id: "01a082e9-5908-74cf-8d6f-521d3e9c7a79",

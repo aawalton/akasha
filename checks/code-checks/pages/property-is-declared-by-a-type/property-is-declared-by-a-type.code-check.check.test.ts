@@ -1,15 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import {
-  edging,
-  filing,
-  landing,
-  pathFor,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { propertyIsDeclaredByAType } from "./property-is-declared-by-a-type.code-check.check.code.ts"
+import { propertyIsDeclaredByAType } from "akasha/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.check.code.ts"
 import {
   body,
   ONE,
@@ -17,7 +7,17 @@ import {
   scratch,
   TWO,
   UP_AT,
-} from "./property-is-declared-by-a-type.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  edging,
+  filing,
+  landing,
+  pathFor,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

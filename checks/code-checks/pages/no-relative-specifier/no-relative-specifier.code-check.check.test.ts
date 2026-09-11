@@ -1,9 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { landing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noRelativeSpecifier } from "./no-relative-specifier.code-check.check.code.ts"
+import { noRelativeSpecifier } from "akasha/checks/code-checks/pages/no-relative-specifier/no-relative-specifier.code-check.check.code.ts"
 import {
   AT,
   BESIDE,
@@ -12,7 +8,11 @@ import {
   ROOTED,
   rooted,
   scratch,
-} from "./no-relative-specifier.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-relative-specifier/no-relative-specifier.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

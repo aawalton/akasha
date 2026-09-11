@@ -1,8 +1,8 @@
-import { input, textsBy } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   refusalsOver,
   tsxNamed,
-} from "./popover-keeps-its-viewport-cap.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.decision.code.ts"
+import { input, textsBy } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 const TSX_BODIES = textsBy("tsx bodies", tsxNamed)
 

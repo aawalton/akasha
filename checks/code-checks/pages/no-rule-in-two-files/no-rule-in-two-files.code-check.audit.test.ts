@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { noRuleInTwoFiles } from "./no-rule-in-two-files.code-check.audit.code.ts"
+import { noRuleInTwoFiles } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.audit.code.ts"
 import {
   CAMEL,
   EXPORTED_AS,
@@ -7,7 +7,7 @@ import {
   scratch,
   TWO_CODE,
   tracked,
-} from "./no-rule-in-two-files.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -3,8 +3,11 @@ import {
   approvedParseRoutes,
   isExempt,
   reasonsFor,
-} from "./no-unparsed-boundary-read.code-check.decision.code.ts"
-import { AT, READ_AND_USED } from "./no-unparsed-boundary-read.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.code-check.decision.code.ts"
+import {
+  AT,
+  READ_AND_USED,
+} from "akasha/checks/code-checks/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.code-check.decision.test-fixtures.ts"
 
 test("a file reading across no boundary is let through", () => {
   expect(reasonsFor(AT, "export function one(): number {\n  return 1\n}\n")).toEqual([])

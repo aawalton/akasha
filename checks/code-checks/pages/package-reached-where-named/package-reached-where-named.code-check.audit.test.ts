@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { packageReachedWhereNamed } from "./package-reached-where-named.code-check.audit.code.ts"
+import { packageReachedWhereNamed } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.audit.code.ts"
 import {
   HIDDEN_REACH,
   NAMED_REACH,
   OUTSIDE_AT,
   scratch,
   tracked,
-} from "./package-reached-where-named.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,8 +1,4 @@
 import { expect, test } from "bun:test"
-import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
-import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   holdingIn,
   namingIn,
@@ -11,7 +7,11 @@ import {
   partsIn,
   reasonsIn,
   refusalOf,
-} from "./package-reached-where-named.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
+import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const FOLDER = "akasha/pages-system/indexes"
 

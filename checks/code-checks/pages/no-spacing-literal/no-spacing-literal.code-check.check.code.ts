@@ -1,5 +1,11 @@
-import { judgingEach, textsBy } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { foundIn, swiftNamed } from "./no-spacing-literal.code-check.decision.code.ts"
+import {
+  foundIn,
+  swiftNamed,
+} from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.code.ts"
+import {
+  judgingEach,
+  textsBy,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 const SWIFT_BODIES = textsBy("Swift bodies", swiftNamed)
 

@@ -4,12 +4,12 @@ import {
   tagsIn,
   tsxNamed,
   widthReason,
-} from "./popover-keeps-its-viewport-cap.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.decision.code.ts"
 import {
   USES_AT,
   WRAPPER,
   WRAPPER_AT,
-} from "./popover-keeps-its-viewport-cap.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.decision.test-fixtures.ts"
 
 const TAGS = tagsIn([{ path: WRAPPER_AT, text: WRAPPER }])
 

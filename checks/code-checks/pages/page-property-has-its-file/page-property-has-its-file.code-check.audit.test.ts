@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { pagePropertyHasItsFile } from "./page-property-has-its-file.code-check.audit.code.ts"
+import { pagePropertyHasItsFile } from "akasha/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.audit.code.ts"
 import {
   bodyText,
   CODE,
   PAGE,
   rooted,
   scratch,
-} from "./page-property-has-its-file.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

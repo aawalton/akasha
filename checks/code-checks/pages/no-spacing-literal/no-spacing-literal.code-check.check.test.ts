@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
+import { noSpacingLiteral } from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.check.code.ts"
+import {
+  HELD_AT,
+  rooted,
+  scratch,
+} from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.test-fixtures.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noSpacingLiteral } from "./no-spacing-literal.code-check.check.code.ts"
-import { HELD_AT, rooted, scratch } from "./no-spacing-literal.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

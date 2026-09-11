@@ -1,10 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   everySpeltIn,
   reasonsIn,
   refusalsOver,
-} from "./no-rule-in-two-files.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"
 import {
   bothArriving,
   byRule,
@@ -16,7 +15,8 @@ import {
   TWO_CODE,
   unindexed,
   WIDEN,
-} from "./no-rule-in-two-files.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"
+import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,14 +1,14 @@
-import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   bodyOf,
   everyFileOf,
   overEachFile,
   textIn,
   textNamed,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export type Said = {
   readonly path: string

@@ -1,10 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   everyShapeIn,
   reasonsIn,
   shapesIn,
-} from "./no-second-spelling-of-a-name-format.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.decision.code.ts"
 import {
   bothArriving,
   DASH_CODE,
@@ -16,7 +15,8 @@ import {
   STATED,
   STATING,
   scratch,
-} from "./no-second-spelling-of-a-name-format.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.decision.test-fixtures.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,11 +1,15 @@
 import {
+  declaring,
+  founded,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 
 const PACKAGE = "workspace-package"
 

@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noRelativeSpecifier = {
   id: "01a08dcb-ceb8-77ee-8fe5-5b6e6337e648",

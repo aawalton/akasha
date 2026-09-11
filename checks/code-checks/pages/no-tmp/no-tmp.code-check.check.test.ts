@@ -1,8 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
+import { noTmp } from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.check.code.ts"
+import {
+  CODE_AT,
+  rooted,
+  SPELLING,
+  scratch,
+} from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.decision.test-fixtures.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noTmp } from "./no-tmp.code-check.check.code.ts"
-import { CODE_AT, rooted, SPELLING, scratch } from "./no-tmp.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

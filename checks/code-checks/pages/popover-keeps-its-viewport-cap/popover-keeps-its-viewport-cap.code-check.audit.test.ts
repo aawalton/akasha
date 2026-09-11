@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { popoverKeepsItsViewportCap } from "./popover-keeps-its-viewport-cap.code-check.audit.code.ts"
+import { popoverKeepsItsViewportCap } from "akasha/checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.audit.code.ts"
 import {
   rooted,
   scratch,
   USES_AT,
   WRAPPER,
   WRAPPER_AT,
-} from "./popover-keeps-its-viewport-cap.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { pageMatchesItsType } from "./page-matches-its-type.code-check.audit.code.ts"
+import { pageMatchesItsType } from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.audit.code.ts"
 import {
   scratch,
   THING_AT,
   THING_BODY,
   THING_EXTRA,
   tracked,
-} from "./page-matches-its-type.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

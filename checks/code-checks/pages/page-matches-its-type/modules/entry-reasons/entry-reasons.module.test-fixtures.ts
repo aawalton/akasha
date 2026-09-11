@@ -1,11 +1,15 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  entryReasonsIn,
+  groupedFor,
+  type Shaping,
+} from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { rootOf } from "../../../../../../commands/modules/rooting/rooting.module.code.ts"
-import { entryReasonsIn, groupedFor, type Shaping } from "./entry-reasons.module.code.ts"
 
 const allows: Formatting = () => (): boolean => true
 

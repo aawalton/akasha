@@ -1,12 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { declaring, judgingBy } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   pagesTouchedBy,
   refusalsOver,
   statedBy,
-} from "./page-property-has-its-file.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.decision.code.ts"
 import {
   BESIDE,
   body,
@@ -19,7 +16,10 @@ import {
   rooted,
   scratch,
   TEST,
-} from "./page-property-has-its-file.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.decision.test-fixtures.ts"
+import { declaring, judgingBy } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

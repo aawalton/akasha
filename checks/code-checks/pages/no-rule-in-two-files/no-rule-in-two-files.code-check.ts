@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noRuleInTwoFiles = {
   id: "01a04ea7-b2ea-7085-ba99-952e24d4a8bb",

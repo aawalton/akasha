@@ -1,16 +1,16 @@
-import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import type { Said } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"
 import {
   carrying,
   claiming,
   declaring,
   filing,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import type { Said } from "./no-rule-in-two-files.code-check.decision.code.ts"
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const CAMEL = `function camel(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())

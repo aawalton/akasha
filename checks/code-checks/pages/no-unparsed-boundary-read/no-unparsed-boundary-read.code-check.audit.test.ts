@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noUnparsedBoundaryRead } from "./no-unparsed-boundary-read.code-check.audit.code.ts"
+import { noUnparsedBoundaryRead } from "akasha/checks/code-checks/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.code-check.audit.code.ts"
 import {
   AT,
   READ_AND_USED,
   scratch,
   tracked,
-} from "./no-unparsed-boundary-read.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

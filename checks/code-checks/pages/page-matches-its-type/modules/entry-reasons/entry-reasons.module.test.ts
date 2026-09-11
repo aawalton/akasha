@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { fieldsOf } from "./entry-reasons.module.code.ts"
+import { fieldsOf } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import {
   entriesJudged,
   groupFieldsFor,
@@ -7,7 +7,7 @@ import {
   NO_ID,
   partsJudged,
   shapingFor,
-} from "./entry-reasons.module.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts"
 
 const OWN = new Set(["id"])
 

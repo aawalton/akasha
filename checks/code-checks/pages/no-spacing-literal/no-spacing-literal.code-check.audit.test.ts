@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { noSpacingLiteral } from "./no-spacing-literal.code-check.audit.code.ts"
+import { noSpacingLiteral } from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.audit.code.ts"
 import {
   HELD_AT,
   scratch,
   tracked,
-} from "./no-spacing-literal.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

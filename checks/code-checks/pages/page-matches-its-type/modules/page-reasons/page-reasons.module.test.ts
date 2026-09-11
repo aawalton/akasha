@@ -1,19 +1,22 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  computedKey,
+  reasonsIn,
+} from "akasha/checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"
+import {
+  besideCarried,
+  FORMAT,
+  scratch,
+  seeded,
+} from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import {
   type Formatting,
   matchingIn,
 } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { rootOf } from "../../../../../../commands/modules/rooting/rooting.module.code.ts"
-import {
-  besideCarried,
-  FORMAT,
-  scratch,
-  seeded,
-} from "../../page-matches-its-type.code-check.decision.test-fixtures.ts"
-import { computedKey, reasonsIn } from "./page-reasons.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const pageNamedAsStated = {
   id: "01a04bcb-c705-720a-a6fb-4dbd5fee1594",

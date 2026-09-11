@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { found as finding } from "./no-spacing-literal.code-check.decision.code.ts"
+import { found as finding } from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.code.ts"
 import {
   HELD_AT,
   PASSING,
@@ -10,7 +10,7 @@ import {
   rooted,
   scratch,
   VIEW_AT,
-} from "./no-spacing-literal.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noRelativeSpecifier } from "./no-relative-specifier.code-check.audit.code.ts"
+import { noRelativeSpecifier } from "akasha/checks/code-checks/pages/no-relative-specifier/no-relative-specifier.code-check.audit.code.ts"
 import {
   AT,
   BESIDE,
@@ -9,7 +8,8 @@ import {
   ROOTED,
   rooted,
   scratch,
-} from "./no-relative-specifier.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-relative-specifier/no-relative-specifier.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

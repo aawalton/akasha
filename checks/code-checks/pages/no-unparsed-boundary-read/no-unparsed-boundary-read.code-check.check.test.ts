@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noUnparsedBoundaryRead } from "./no-unparsed-boundary-read.code-check.check.code.ts"
+import { noUnparsedBoundaryRead } from "akasha/checks/code-checks/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.code-check.check.code.ts"
 import {
   AT,
   READ_AND_USED,
   rooted,
   scratch,
-} from "./no-unparsed-boundary-read.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { allowedIn, reasonsIn } from "./no-tmp.code-check.decision.code.ts"
+import {
+  allowedIn,
+  reasonsIn,
+} from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.decision.code.ts"
 import {
   AT,
   CODE_AT,
@@ -11,7 +13,8 @@ import {
   rooted,
   SPELLING,
   scratch,
-} from "./no-tmp.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.decision.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const HERE = dirname(import.meta.path)
 

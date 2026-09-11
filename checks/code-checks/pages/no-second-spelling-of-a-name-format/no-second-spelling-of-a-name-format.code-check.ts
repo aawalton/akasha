@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noSecondSpellingOfANameFormat = {
   id: "01a05941-9823-7000-aff4-004b3f68b23c",

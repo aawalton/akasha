@@ -1,6 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noTmp } from "./no-tmp.code-check.audit.code.ts"
-import { CODE_AT, SPELLING, scratch, tracked } from "./no-tmp.code-check.decision.test-fixtures.ts"
+import { noTmp } from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.audit.code.ts"
+import {
+  CODE_AT,
+  SPELLING,
+  scratch,
+  tracked,
+} from "akasha/checks/code-checks/pages/no-tmp/no-tmp.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

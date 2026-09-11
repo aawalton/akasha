@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noUnparsedBoundaryRead = {
   id: "01a0827e-df53-7d03-80a4-b3305001f92e",

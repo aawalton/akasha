@@ -1,5 +1,3 @@
-import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   claiming,
   declaring,
@@ -8,7 +6,9 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 export const ONE = "01a04ef8-1a07-7001-8000-000000000001"
 

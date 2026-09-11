@@ -1,3 +1,5 @@
+import { bodyOf } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
@@ -12,8 +14,6 @@ import {
   textsAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { bodyOf } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 

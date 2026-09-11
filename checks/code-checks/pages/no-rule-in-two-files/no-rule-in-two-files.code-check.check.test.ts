@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { noRuleInTwoFiles } from "./no-rule-in-two-files.code-check.check.code.ts"
+import { noRuleInTwoFiles } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.check.code.ts"
 import {
   bothArriving,
   ONE_CODE,
   rooted,
   scratch,
   TWO_CODE,
-} from "./no-rule-in-two-files.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

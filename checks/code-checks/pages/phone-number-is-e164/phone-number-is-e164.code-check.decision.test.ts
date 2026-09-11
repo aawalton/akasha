@@ -1,13 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { landing, NO_BYTES, pathFor } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   reasonFor,
   reasonsIn,
   refusalsOver,
-} from "./phone-number-is-e164.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.decision.code.ts"
 import {
   AT,
   HELD,
@@ -17,7 +13,15 @@ import {
   person,
   rooted,
   scratch,
-} from "./phone-number-is-e164.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  landing,
+  NO_BYTES,
+  pathFor,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

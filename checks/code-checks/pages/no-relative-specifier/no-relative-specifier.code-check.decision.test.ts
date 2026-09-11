@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { reasonsIn } from "akasha/checks/code-checks/pages/no-relative-specifier/no-relative-specifier.code-check.decision.code.ts"
 import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { reasonsIn } from "./no-relative-specifier.code-check.decision.code.ts"
 
 const ROOT = "/repo"
 

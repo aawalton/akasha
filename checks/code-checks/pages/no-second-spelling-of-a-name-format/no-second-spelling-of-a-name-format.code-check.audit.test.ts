@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { noSecondSpellingOfANameFormat } from "./no-second-spelling-of-a-name-format.code-check.audit.code.ts"
+import { noSecondSpellingOfANameFormat } from "akasha/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.audit.code.ts"
 import {
   KEBAB_CODE,
   OTHER_CODE,
@@ -7,7 +7,7 @@ import {
   STATING,
   scratch,
   tracked,
-} from "./no-second-spelling-of-a-name-format.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

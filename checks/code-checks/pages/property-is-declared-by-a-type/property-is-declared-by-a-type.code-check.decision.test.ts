@@ -1,18 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import {
-  claiming,
-  edging,
-  filing,
-  judgingBy,
-  landing,
-  NO_BYTES,
-  pathFor,
-  put,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { refusalsOver } from "./property-is-declared-by-a-type.code-check.decision.code.ts"
+import { refusalsOver } from "akasha/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.decision.code.ts"
 import {
   body,
   NEW,
@@ -22,7 +9,20 @@ import {
   scratch,
   TWO,
   UP_AT,
-} from "./property-is-declared-by-a-type.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.decision.test-fixtures.ts"
+import {
+  claiming,
+  edging,
+  filing,
+  judgingBy,
+  landing,
+  NO_BYTES,
+  pathFor,
+  put,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

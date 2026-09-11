@@ -1,5 +1,11 @@
 import { dirname, join } from "node:path"
 import {
+  bodyOf,
+  overEachFile,
+  overEachText,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
   landingOf,
   specifiersIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
@@ -14,13 +20,7 @@ import type { Matching } from "akasha/pages/name-formats/modules/name-matching/n
 import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
 import { packageName } from "akasha/pages/name-places/pages/package-name.name-place.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { types } from "../../../../pages/types/properties/types.file-property.ts"
-import {
-  bodyOf,
-  overEachFile,
-  overEachText,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { types } from "akasha/pages/types/properties/types.file-property.ts"
 
 const PACKAGE = "workspace-package"
 

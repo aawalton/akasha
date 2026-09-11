@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { pageNamedAsStated } from "./page-named-as-stated.code-check.audit.code.ts"
+import { pageNamedAsStated } from "akasha/checks/code-checks/pages/page-named-as-stated/page-named-as-stated.code-check.audit.code.ts"
 import {
   LEDGER_AT,
   page,
   scratch,
   tracked,
-} from "./page-named-as-stated.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-named-as-stated/page-named-as-stated.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

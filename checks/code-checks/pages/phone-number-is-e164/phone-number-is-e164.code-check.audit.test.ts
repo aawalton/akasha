@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { phoneNumberIsE164 } from "./phone-number-is-e164.code-check.audit.code.ts"
+import { phoneNumberIsE164 } from "akasha/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.audit.code.ts"
 import {
   AT,
   personText,
   rooted,
   scratch,
-} from "./phone-number-is-e164.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

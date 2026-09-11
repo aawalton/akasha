@@ -1,13 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { change, judgingBy, landing } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   pageIn,
   pagesIn,
   reasonsIn,
   refusalsOver,
-} from "./page-named-as-stated.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/page-named-as-stated/page-named-as-stated.code-check.decision.code.ts"
 import {
   BESIDE,
   bodied,
@@ -18,7 +15,14 @@ import {
   ROOT,
   rooted,
   scratch,
-} from "./page-named-as-stated.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/page-named-as-stated/page-named-as-stated.code-check.decision.test-fixtures.ts"
+import {
+  change,
+  judgingBy,
+  landing,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

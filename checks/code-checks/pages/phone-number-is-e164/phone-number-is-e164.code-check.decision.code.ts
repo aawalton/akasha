@@ -1,8 +1,8 @@
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const PHONE_NUMBER = "phone-number-property"
 

@@ -1,3 +1,4 @@
+import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineOf,
   literalIn,
@@ -6,7 +7,6 @@ import {
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
-import { overEachText } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 const OS = new Set(["node:os", "os"])
 

@@ -1,5 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   listedFiled,
@@ -11,8 +13,6 @@ import type { Carried } from "akasha/pages/types/declared-properties/declared-pr
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 
 export const FORMAT = "all-lower"
 
