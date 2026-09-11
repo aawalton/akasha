@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const achievementCatalogCapture = {
   id: "01a060e2-3182-7542-b21a-251c92e9d95d",

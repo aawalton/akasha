@@ -4,8 +4,8 @@ import "akasha/temper/eso-types/eso-functions-10/eso-functions-10.type-declarati
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture-shapes/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
-import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function collectAntiquityLoreCatalog(
   this: void,

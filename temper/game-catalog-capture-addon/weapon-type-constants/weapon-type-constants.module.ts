@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const weaponTypeConstants = {
   id: "01a06127-664b-74e0-9590-d80f5209e436",

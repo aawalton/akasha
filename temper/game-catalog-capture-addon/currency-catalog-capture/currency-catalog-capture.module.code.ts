@@ -3,8 +3,8 @@ import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declarati
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { CurrencyCatalogEntry } from "akasha/temper/capture-shapes/currency-catalog/currency-catalog.module.code.ts"
-import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export const CURRENCY_TYPES = [
   CURT_MONEY,

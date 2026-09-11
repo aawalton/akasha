@@ -12,9 +12,9 @@ import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched
 import {
   BATCH_DELAY,
   BATCH_SIZE,
-} from "../../catalog-core/batch-config/batch-config.module.code.ts"
-import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+} from "akasha/temper/catalog-core/batch-config/batch-config.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string
   subcategoryName?: string

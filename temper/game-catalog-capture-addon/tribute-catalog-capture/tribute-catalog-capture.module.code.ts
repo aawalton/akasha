@@ -8,8 +8,8 @@ import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
 } from "akasha/temper/capture-shapes/tribute-catalog/tribute-catalog.module.code.ts"
-import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function collectTributeCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

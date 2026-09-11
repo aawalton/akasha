@@ -5,14 +5,14 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { AchievementCatalogData } from "akasha/temper/capture-shapes/achievement-catalog/achievement-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
-import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
-import { requireDefined } from "akasha/utils/narrow/require-defined/require-defined.module.code.ts"
 import {
   BATCH_DELAY,
   BATCH_SIZE,
-} from "../../catalog-core/batch-config/batch-config.module.code.ts"
-import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+} from "akasha/temper/catalog-core/batch-config/batch-config.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
+import { requireDefined } from "akasha/utils/narrow/require-defined/require-defined.module.code.ts"
 
 export interface AchievementWorkItem {
   categoryIndex: number

@@ -2,8 +2,8 @@ import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declarati
 import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import type { ClassCatalogEntry } from "akasha/temper/capture-shapes/class-catalog/class-catalog.module.code.ts"
-import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function collectClassCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const equipTypeConstants = {
   id: "01a06127-6630-7b21-8870-15d879b8a41a",
