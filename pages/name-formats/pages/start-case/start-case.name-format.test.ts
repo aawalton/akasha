@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { startCase } from "./start-case.name-format.code.ts"
+import { startCase } from "akasha/pages/name-formats/pages/start-case/start-case.name-format.code.ts"
 
 test("words parted by spaces with every one starting capital are written in it", () => {
   expect(startCase("Name")).toBe(true)
