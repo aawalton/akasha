@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const extensions = {
   id: "01a08e1f-408a-7ae7-a4d9-21cdd5a19500",
