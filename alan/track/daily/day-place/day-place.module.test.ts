@@ -1,6 +1,7 @@
 import { describe, expect, mock, test } from "bun:test"
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 
 const HERE = import.meta.dir
 
@@ -51,16 +52,11 @@ const {
   sessionRowAt,
 } = await import("./day-place.module.code.ts")
 
-function parseDayName(found: RegExpExecArray | null): string | null {
-  const said = found?.[1]
-  return typeof said === "string" ? said : null
-}
-
 function daysOnDisk(): readonly string[] {
   if (!existsSync(CORPUS)) return []
   const found: string[] = []
   for (const name of readdirSync(CORPUS)) {
-    const day = parseDayName(DAY_PAGE.exec(name))
+    const day = firstCapture(DAY_PAGE.exec(name))
     if (day !== null) found.push(day)
   }
   return found.sort()

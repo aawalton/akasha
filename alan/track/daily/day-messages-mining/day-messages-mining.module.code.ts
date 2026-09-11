@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { getEsoDayStrAt } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import { type Counted, dayPageAt } from "../day-messages/day-messages.module.code.ts"
 
 const PROJECTS = "projects"
@@ -45,11 +46,6 @@ export type Kept = {
   readonly unfiled: readonly string[]
 }
 
-function parseCapture(found: RegExpExecArray | null): string | null {
-  const said = found?.[1]
-  return typeof said === "string" ? said : null
-}
-
 function parseRow(held: unknown): Readonly<Record<string, unknown>> | null {
   if (typeof held !== "object" || held === null) return null
   return held as Readonly<Record<string, unknown>>
@@ -60,15 +56,15 @@ function parseConfigDir(said: unknown): string | null {
 }
 
 export function namedIn(line: string): string | null {
-  return line.includes(TOLD) ? parseCapture(NAMED.exec(line)) : null
+  return line.includes(TOLD) ? firstCapture(NAMED.exec(line)) : null
 }
 
 export function seatPageIn(line: string): string | null {
-  return line.includes(ANSWERED) ? parseCapture(SEAT_PAGE.exec(line)) : null
+  return line.includes(ANSWERED) ? firstCapture(SEAT_PAGE.exec(line)) : null
 }
 
 export function greetedIn(text: string): string | null {
-  return parseCapture(GREETED.exec(text))?.toLowerCase() ?? null
+  return firstCapture(GREETED.exec(text))?.toLowerCase() ?? null
 }
 
 export function wroteIn(line: string): Wrote | null {
