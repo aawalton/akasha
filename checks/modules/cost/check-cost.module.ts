@@ -34,6 +34,30 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement: "A child still running when a run closes is reaped nowhere yet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kernel counts nothing of such a child there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds such a child burned are read from that child's own `/proc` entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every descendant is read rather than the children alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A child's own entry states that child's seconds rather than its children's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A live child's reaped seconds are read nowhere here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run relayed to a server is no child.",
     },
     {
@@ -46,7 +70,15 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The two are added.",
+      statement: "The server a run is relayed to is itself a live child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds counted of that server are its own rather than the runs it relayed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The three are added.",
     },
     {
       invariantKind: "departure",
@@ -55,6 +87,18 @@ export const checkCost = {
     {
       invariantKind: "departure",
       statement: "The relaying module's seconds count only the runs the kernel cannot see.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kernel's count is read before and after the live children are read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading the kernel's count changed across is made again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is made three times at most.",
     },
     {
       invariantKind: "departure",

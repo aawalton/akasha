@@ -255,6 +255,6 @@ export const typecheck = {
       statement: "Judging those costs no compiling, the program holding them already.",
     },
   ],
-  check: { maxCpuSeconds: 60 },
-  audit: { maxCpuSeconds: 60 },
+  check: { maxCpuSeconds: 120 },
+  audit: { maxCpuSeconds: 150 },
 } as const satisfies CodeCheck

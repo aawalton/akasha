@@ -1,5 +1,5 @@
 import { Buffer } from "node:buffer"
-import { appendFileSync, existsSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
@@ -29,6 +29,18 @@ const STAT = "/proc/self/stat"
 const STATUS = "/proc/self/status"
 
 const IO = "/proc/self/io"
+
+const PROC = "/proc"
+
+const SELF = "self"
+
+const TASK = "task"
+
+const CHILDREN = "children"
+
+const STAT_LEAF = "stat"
+
+const READINGS_AT_MOST = 3
 
 export type Cost = {
   readonly runId: string
@@ -80,9 +92,62 @@ export function bytesIn(status: string, named: string): number {
   return 0
 }
 
-function childSeconds(): number {
+export function ownSecondsIn(stat: string): number {
+  const shut = stat.lastIndexOf(")")
+  if (shut < 0) return 0
+  const fields = stat.slice(shut + 2).split(" ")
+  const user = Number(fields[11] ?? "0")
+  const system = Number(fields[12] ?? "0")
+  if (!Number.isFinite(user) || !Number.isFinite(system)) return 0
+  return (user + system) / TICKS_A_SECOND
+}
+
+function borneBy(pid: string): readonly string[] {
+  let threads: readonly string[]
+  try {
+    threads = readdirSync(join(PROC, pid, TASK))
+  } catch {
+    return []
+  }
+  const held: string[] = []
+  for (const thread of threads) {
+    const said = textOnDisk(join(PROC, pid, TASK, thread, CHILDREN))
+    if (said === null) continue
+    for (const one of said.split(" ")) {
+      const kept = one.trim()
+      if (kept !== "") held.push(kept)
+    }
+  }
+  return held
+}
+
+function liveSeconds(): number {
+  const waiting = [...borneBy(SELF)]
+  let total = 0
+  for (;;) {
+    const pid = waiting.pop()
+    if (pid === undefined) return total
+    const stat = textOnDisk(join(PROC, pid, STAT_LEAF))
+    if (stat === null) continue
+    total += ownSecondsIn(stat)
+    waiting.push(...borneBy(pid))
+  }
+}
+
+function reapedSeconds(): number {
   const stat = textOnDisk(STAT)
-  return (stat === null ? 0 : childSecondsIn(stat)) + spentRelaying()
+  return stat === null ? 0 : childSecondsIn(stat)
+}
+
+function childSeconds(): number {
+  let readings = 0
+  for (;;) {
+    readings += 1
+    const before = reapedSeconds()
+    const live = liveSeconds()
+    const after = reapedSeconds()
+    if (before === after || readings >= READINGS_AT_MOST) return after + live + spentRelaying()
+  }
 }
 
 function marksNow(): { readonly peak: number; readonly resident: number } {
