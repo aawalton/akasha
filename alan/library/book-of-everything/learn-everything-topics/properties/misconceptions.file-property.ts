@@ -9,4 +9,5 @@ export const misconceptions = {
   slug: "misconceptions",
   propertySlug: "misconceptions",
   definition: "the wrong models of a topic surfaced and corrected",
+  extensions: ["md"],
 } as const satisfies FileProperty

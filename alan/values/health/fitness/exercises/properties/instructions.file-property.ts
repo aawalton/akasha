@@ -9,4 +9,5 @@ export const instructions = {
   slug: "instructions",
   propertySlug: "instructions",
   definition: "how a movement is performed, step by step",
+  extensions: ["txt"],
 } as const satisfies FileProperty

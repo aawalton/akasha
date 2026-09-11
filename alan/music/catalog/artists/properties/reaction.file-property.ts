@@ -9,4 +9,5 @@ export const reaction = {
   slug: "reaction",
   propertySlug: "reaction",
   definition: "what Alan said about an artist when he read them",
+  extensions: ["txt"],
 } as const satisfies FileProperty

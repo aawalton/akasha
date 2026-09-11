@@ -9,6 +9,7 @@ export const chessReviewSessionNotes = {
   slug: "chess-review-session-notes",
   propertySlug: "notes",
   definition: "what the coach said as a game was stepped through",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

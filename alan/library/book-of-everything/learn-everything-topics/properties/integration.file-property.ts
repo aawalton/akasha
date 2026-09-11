@@ -9,4 +9,5 @@ export const integration = {
   slug: "integration",
   propertySlug: "integration",
   definition: "the topics Alan connects a topic to, and how strongly",
+  extensions: ["md"],
 } as const satisfies FileProperty

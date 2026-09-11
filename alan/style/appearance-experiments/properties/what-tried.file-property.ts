@@ -9,6 +9,7 @@ export const whatTried = {
   slug: "what-tried",
   propertySlug: "what-tried",
   definition: "the thing put on and what it was put on with",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

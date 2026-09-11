@@ -9,4 +9,5 @@ export const says = {
   slug: "says",
   propertySlug: "says",
   definition: "what a note says",
+  extensions: ["txt"],
 } as const satisfies FileProperty

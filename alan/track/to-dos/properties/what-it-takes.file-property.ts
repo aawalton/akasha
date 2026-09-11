@@ -9,4 +9,5 @@ export const whatItTakes = {
   slug: "what-it-takes",
   propertySlug: "what-it-takes",
   definition: "what doing a to-do takes",
+  extensions: ["txt"],
 } as const satisfies FileProperty

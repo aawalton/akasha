@@ -9,4 +9,5 @@ export const lyrics = {
   slug: "lyrics",
   propertySlug: "lyrics",
   definition: "the words of a song",
+  extensions: ["txt"],
 } as const satisfies FileProperty

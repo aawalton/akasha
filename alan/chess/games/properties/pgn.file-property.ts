@@ -9,4 +9,5 @@ export const pgn = {
   slug: "pgn",
   propertySlug: "pgn",
   definition: "a game's moves in portable game notation",
+  extensions: ["pgn"],
 } as const satisfies FileProperty

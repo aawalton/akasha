@@ -9,6 +9,7 @@ export const writing = {
   slug: "writing",
   propertySlug: "writing",
   definition: "the markdown a page carries, however long the markdown runs",
+  extensions: ["md"],
   invariants: [
     {
       invariantKind: "departure",

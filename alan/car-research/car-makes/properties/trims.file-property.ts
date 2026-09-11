@@ -9,4 +9,5 @@ export const trims = {
   slug: "trims",
   propertySlug: "trims",
   definition: "every trim of every model year the make sells",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

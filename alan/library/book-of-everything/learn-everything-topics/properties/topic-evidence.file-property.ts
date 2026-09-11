@@ -9,4 +9,5 @@ export const topicEvidence = {
   slug: "topic-evidence",
   propertySlug: "topic-evidence",
   definition: "the probes of a topic Alan cleared and the ones he did not",
+  extensions: ["md"],
 } as const satisfies FileProperty

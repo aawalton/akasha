@@ -9,6 +9,7 @@ export const simulation = {
   slug: "simulation",
   propertySlug: "simulation",
   definition: "the computation a model is, written in Python",
+  extensions: ["py"],
   invariants: [
     {
       invariantKind: "departure",

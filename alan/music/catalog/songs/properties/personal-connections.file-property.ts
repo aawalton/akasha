@@ -9,4 +9,5 @@ export const personalConnections = {
   slug: "personal-connections",
   propertySlug: "personal-connections",
   definition: "what a song is tied to in Alan's own life",
+  extensions: ["txt"],
 } as const satisfies FileProperty

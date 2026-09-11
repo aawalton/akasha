@@ -9,4 +9,5 @@ export const passageText = {
   slug: "passage-text",
   propertySlug: "passage-text",
   definition: "the verses a passage is made of",
+  extensions: ["txt"],
 } as const satisfies FileProperty

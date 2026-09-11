@@ -9,6 +9,7 @@ export const lineSet = {
   slug: "line-set",
   propertySlug: "line-set",
   definition: "the lines an experiment plays, each with an id and a predicted register",
+  extensions: ["json"],
   invariants: [
     {
       invariantKind: "departure",

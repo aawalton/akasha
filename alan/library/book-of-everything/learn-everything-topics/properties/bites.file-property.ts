@@ -9,4 +9,5 @@ export const bites = {
   slug: "bites",
   propertySlug: "bites",
   definition: "the small things to study next in a topic, in rotation order",
+  extensions: ["md"],
 } as const satisfies FileProperty

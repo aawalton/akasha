@@ -9,6 +9,7 @@ export const eyeRead = {
   slug: "eye-read",
   propertySlug: "eye-read",
   definition: "how the try read to the persona watching it",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

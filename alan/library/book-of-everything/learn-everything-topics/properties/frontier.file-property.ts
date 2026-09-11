@@ -9,4 +9,5 @@ export const frontier = {
   slug: "frontier",
   propertySlug: "frontier",
   definition: "where Alan's model of a topic thins",
+  extensions: ["md"],
 } as const satisfies FileProperty

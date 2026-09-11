@@ -9,4 +9,5 @@ export const chapterText = {
   slug: "chapter-text",
   propertySlug: "chapter-text",
   definition: "the prose a chapter is made of",
+  extensions: ["md"],
 } as const satisfies FileProperty

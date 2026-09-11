@@ -9,6 +9,7 @@ export const feltRead = {
   slug: "felt-read",
   propertySlug: "felt-read",
   definition: "how the try landed on Alan wearing it",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

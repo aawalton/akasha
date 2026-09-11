@@ -9,4 +9,5 @@ export const foodEntryNote = {
   slug: "food-entry-note",
   propertySlug: "note",
   definition: "what was eaten and how a food entry's figures were worked out",
+  extensions: ["txt"],
 } as const satisfies FileProperty

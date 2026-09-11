@@ -9,4 +9,5 @@ export const syncedLyrics = {
   slug: "synced-lyrics",
   propertySlug: "synced-lyrics",
   definition: "the words of a song, each line stamped with the moment it is sung",
+  extensions: ["txt"],
 } as const satisfies FileProperty
