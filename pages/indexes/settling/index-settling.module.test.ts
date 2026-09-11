@@ -146,6 +146,7 @@ test("a relation an entry row states files an edge from the row's page", () => {
   const rebuilt = heldAt()
   rebuiltFrom(tree, rebuilt, tree)
 
+  expect(existsSync(edgeAt(rebuilt, "case-page"))).toBe(true)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
