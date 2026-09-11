@@ -1,4 +1,4 @@
-import type { WorldSong } from "../world-song.page-type.types.ts"
+import type { WorldSong } from "akasha/story/world-mechanics/world-songs/world-song.page-type.types.ts"
 
 export const theBraveFallFirst = {
   id: "01a0655a-0688-7a7c-bab7-ae474cd230aa",

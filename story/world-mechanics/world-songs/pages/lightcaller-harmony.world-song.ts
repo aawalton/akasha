@@ -1,4 +1,4 @@
-import type { WorldSong } from "../world-song.page-type.types.ts"
+import type { WorldSong } from "akasha/story/world-mechanics/world-songs/world-song.page-type.types.ts"
 
 export const lightcallerHarmony = {
   id: "01a0655a-0688-7eaa-9950-ef1777cafdcd",
