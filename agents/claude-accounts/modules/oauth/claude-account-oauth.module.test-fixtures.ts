@@ -7,7 +7,7 @@ import {
   type RefreshOutcome,
   type RepollDecision,
   type RepollGateState,
-} from "./claude-account-oauth.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 
 export type Same<A, B> =
   (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false

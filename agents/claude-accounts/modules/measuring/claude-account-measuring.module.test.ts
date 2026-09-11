@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   aheadOf,
   clockOf,
@@ -11,7 +10,8 @@ import {
   readingsIn,
   sevenDaySpent,
   takenOf,
-} from "./claude-account-measuring.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/measuring/claude-account-measuring.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

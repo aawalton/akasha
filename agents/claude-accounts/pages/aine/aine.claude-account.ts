@@ -1,4 +1,4 @@
-import type { ClaudeAccount } from "../../claude-account.page-type.types.ts"
+import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
 
 export const aine = {
   id: "019fa944-c37d-7631-be0b-d2ff83b74635",

@@ -1,12 +1,15 @@
 import {
+  accountPathIn,
+  everyAccountIn,
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
-import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
-import { accountPathIn, everyAccountIn } from "../reading/claude-account-reading.module.code.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"
 

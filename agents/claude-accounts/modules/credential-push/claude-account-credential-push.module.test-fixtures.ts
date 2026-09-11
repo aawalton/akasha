@@ -1,23 +1,23 @@
 import { statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { z } from "zod"
-import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import {
-  ACCOUNT_DECLARED,
-  bodiesIn,
-  type Declared,
-  worldIn,
-} from "../marking/claude-account-marking.module.test-fixtures.ts"
 import {
   type Credential,
   type Doors,
   type Push,
   pushedIn,
-} from "./claude-account-credential-push.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
+import {
+  ACCOUNT_DECLARED,
+  bodiesIn,
+  type Declared,
+  worldIn,
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { z } from "zod"
 
 export const ACCESS_KEY = "access-token"
 

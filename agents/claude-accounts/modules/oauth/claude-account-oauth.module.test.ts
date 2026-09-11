@@ -20,7 +20,7 @@ import {
   UPKEEP_RENEWAL_MARGIN_MS,
   USAGE_RESPONSE_SCHEMA,
   USAGE_URL,
-} from "./claude-account-oauth.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import {
   ALLOW,
   AT_EPOCH,
@@ -53,7 +53,7 @@ import {
   USAGE_ONE_WINDOW,
   USAGE_REALISTIC,
   WORKED,
-} from "./claude-account-oauth.module.test-fixtures.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.test-fixtures.ts"
 
 test("the wire endpoints are the constants this module names", () => {
   expect(OAUTH_TOKEN_URL).toBe("https://platform.claude.com/v1/oauth/token")

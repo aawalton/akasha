@@ -1,5 +1,17 @@
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  type Fields,
+  type Given,
+  type Marked,
+  type Marks,
+  markedIn,
+  type Routing,
+  routingIn,
+  sortedFrom,
+  type Usage,
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
@@ -12,18 +24,6 @@ import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.modu
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import {
-  type Fields,
-  type Given,
-  type Marked,
-  type Marks,
-  markedIn,
-  type Routing,
-  routingIn,
-  sortedFrom,
-  type Usage,
-} from "./claude-account-marking.module.code.ts"
 
 export const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

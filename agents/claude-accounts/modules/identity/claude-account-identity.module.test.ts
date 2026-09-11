@@ -5,7 +5,7 @@ import {
   IDENTITY_SCOPED_KEYS,
   identityClearMarks,
   sayFailedPin,
-} from "./claude-account-identity.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts"
 
 const ONE_UUID = "11111111-1111-7111-8111-111111111111"
 

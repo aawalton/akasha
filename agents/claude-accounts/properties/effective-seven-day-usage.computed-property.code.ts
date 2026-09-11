@@ -1,5 +1,5 @@
+import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { ClaudeAccount } from "../claude-account.page-type.types.ts"
 
 const CEILING = 100
 

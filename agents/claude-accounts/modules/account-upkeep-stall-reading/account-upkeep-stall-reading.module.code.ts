@@ -1,21 +1,21 @@
 import { readFileSync, writeFileSync } from "node:fs"
 import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { emitReading } from "akasha/verdict/reading-channel/reading-channel.module.code.ts"
-import {
-  ALAN_PERSON,
-  notify,
-} from "../../../../alan/harness/notification-feeds/notifying/notifying.module.code.ts"
-import {
   type AccountReading,
   readingsIn,
   stallAcross,
   stallLines,
   type UpkeepStall,
-} from "../upkeep-stall/claude-account-upkeep-stall.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts"
+import {
+  ALAN_PERSON,
+  notify,
+} from "akasha/alan/harness/notification-feeds/notifying/notifying.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { emitReading } from "akasha/verdict/reading-channel/reading-channel.module.code.ts"
 
 const LATCH_AT = "/var/tmp/claude-account-upkeep-stall.latch"
 

@@ -1,10 +1,13 @@
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   UPKEEP_PERIOD_MS,
   UPKEEP_RENEWAL_MARGIN_MS,
-} from "../oauth/claude-account-oauth.module.code.ts"
-import { accountBesideIn, everyAccountIn } from "../reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import {
+  accountBesideIn,
+  everyAccountIn,
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
 

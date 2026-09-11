@@ -1,17 +1,10 @@
 import { mkdirSync, readFileSync, type Stats, unwatchFile, watchFile, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { z } from "zod"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   DOORS as PUSH_DOORS,
   type Doors as PushDoors,
   pushedIn,
-} from "../credential-push/claude-account-credential-push.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
 import {
   type CredentialIdentity,
   decideIdentityPush,
@@ -19,13 +12,20 @@ import {
   identityProbed,
   pinnedIn,
   sayFailedPin,
-} from "../identity/claude-account-identity.module.code.ts"
-import { REFRESH_BUFFER_MS } from "../oauth/claude-account-oauth.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts"
+import { REFRESH_BUFFER_MS } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import {
   accountUuidsIn,
   credentialIn,
   type SecretsRead,
-} from "../reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { credentialOf } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { z } from "zod"
 
 export const CREDENTIAL_FILE_NAME = ".credentials.json"
 

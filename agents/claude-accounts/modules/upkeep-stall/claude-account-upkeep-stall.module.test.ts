@@ -1,9 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   UPKEEP_PERIOD_MS,
   UPKEEP_RENEWAL_MARGIN_MS,
-} from "../oauth/claude-account-oauth.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import {
   type AccountReading,
   EXPIRY_FLOOR_MS,
@@ -11,7 +10,8 @@ import {
   stallAcross,
   stallLines,
   USAGE_CEILING_MS,
-} from "./claude-account-upkeep-stall.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const NOW = Date.parse("2026-01-01T00:00:00.000Z")
 

@@ -1,6 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import type { RefreshOutcome } from "../oauth/claude-account-oauth.module.code.ts"
-import type { AccountState } from "../reading/claude-account-reading.module.code.ts"
 import {
   AT_LIMIT_HEAL_THRESHOLD_MS,
   decideTokenTerminalAlert,
@@ -11,7 +9,9 @@ import {
   terminalAlertMarks,
   terminalHealthMarks,
   windowTriggerMarks,
-} from "./claude-account-health.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/health/claude-account-health.module.code.ts"
+import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import type { AccountState } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 
 const NOW = 1_700_000_000_000
 

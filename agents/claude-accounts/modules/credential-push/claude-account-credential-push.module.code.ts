@@ -1,9 +1,17 @@
 import { chmodSync, existsSync } from "node:fs"
 import { join } from "node:path"
 import {
+  instantOf,
+  markedIn,
+  type Routing,
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+import { accountPathIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { secretAt, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
@@ -18,11 +26,7 @@ import {
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
-import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { instantOf, markedIn, type Routing } from "../marking/claude-account-marking.module.code.ts"
-import { accountPathIn } from "../reading/claude-account-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const PUT = "change-mechanical-file/add-file"
 

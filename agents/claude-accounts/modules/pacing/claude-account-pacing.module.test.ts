@@ -3,7 +3,7 @@ import {
   computePacingDerivations,
   formatPaceHours,
   hoursUntilReset,
-} from "./claude-account-pacing.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
 
 const RESET = "2026-09-04T12:00:00.000Z"
 

@@ -1,9 +1,12 @@
-import { instantOf, type Marks } from "../marking/claude-account-marking.module.code.ts"
+import {
+  instantOf,
+  type Marks,
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import {
   MAX_AT_LIMIT_BACKOFF_MS,
   type RefreshOutcome,
-} from "../oauth/claude-account-oauth.module.code.ts"
-import type { AccountState } from "../reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import type { AccountState } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 
 const TERMINAL_AT = "terminalAt"
 

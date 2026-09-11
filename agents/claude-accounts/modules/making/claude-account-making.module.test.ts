@@ -1,6 +1,10 @@
 import { describe, expect, test } from "bun:test"
+import {
+  accountPageText,
+  type Landing,
+  madeIn,
+} from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { accountPageText, type Landing, madeIn } from "./claude-account-making.module.code.ts"
 
 const ROOT = "/nowhere"
 

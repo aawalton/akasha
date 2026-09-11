@@ -1,15 +1,15 @@
 import { afterAll, describe, expect, test } from "bun:test"
 import { readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   CREDENTIAL_FILE_NAME,
   CREDENTIAL_FILE_SHAPE,
   credentialFileIn,
   credentialFileWritten,
   fileChanged,
-} from "./claude-account-credential-file.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

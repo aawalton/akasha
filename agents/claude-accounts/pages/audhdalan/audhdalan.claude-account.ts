@@ -1,4 +1,4 @@
-import type { ClaudeAccount } from "../../claude-account.page-type.types.ts"
+import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
 
 export const audhdalan = {
   id: "019db533-f3b2-7814-a3f7-99f52601a37c",

@@ -4,7 +4,7 @@ import {
   noteOf,
   notesOf,
   type Refreshing,
-} from "./claude-account-refreshing.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/refreshing/claude-account-refreshing.module.code.ts"
 
 const NOW = 1_000_000
 

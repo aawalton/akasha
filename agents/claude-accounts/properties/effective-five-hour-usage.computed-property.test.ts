@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
+import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
+import { work } from "akasha/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.code.ts"
+import { work as sevenDay } from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.code.ts"
 import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { Computed } from "akasha/pages/computing/page-computing.module.code.ts"
 import { computingOver } from "akasha/pages/computing/page-computing.module.code.ts"
-import type { ClaudeAccount } from "../claude-account.page-type.types.ts"
-import { work } from "./effective-five-hour-usage.computed-property.code.ts"
-import { work as sevenDay } from "./effective-seven-day-usage.computed-property.code.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }
 

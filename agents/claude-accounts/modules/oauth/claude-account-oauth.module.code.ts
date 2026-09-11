@@ -1,5 +1,5 @@
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { z } from "zod"
-import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 export const OAUTH_TOKEN_URL = "https://platform.claude.com/v1/oauth/token"
 

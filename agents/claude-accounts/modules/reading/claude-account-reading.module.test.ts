@@ -1,14 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import {
-  listedFiled,
-  pageFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   accountBesideIn,
   accountPathIn,
@@ -26,7 +18,15 @@ import {
   rescuedIn,
   type SecretsRead,
   stateFrom,
-} from "./claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedFiled,
+  pageFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 const scratch = scratchWorld()
 

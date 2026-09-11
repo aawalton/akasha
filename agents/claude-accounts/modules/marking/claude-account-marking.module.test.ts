@@ -2,10 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  everyAccountSlugIn,
-  everyAccountStateIn,
-} from "../reading/claude-account-reading.module.code.ts"
-import {
   atLimitMarks,
   heldBesideIn,
   instantOf,
@@ -15,7 +11,7 @@ import {
   subscriptionMarks,
   unfitFor,
   usageFrom,
-} from "./claude-account-marking.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import {
   BESIDE_KEYS,
   bareTypeIn,
@@ -61,7 +57,11 @@ import {
   USAGE_UNKNOWN,
   whyOf,
   worldMade,
-} from "./claude-account-marking.module.test-fixtures.ts"
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import {
+  everyAccountSlugIn,
+  everyAccountStateIn,
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 
 afterAll(sweep)
 

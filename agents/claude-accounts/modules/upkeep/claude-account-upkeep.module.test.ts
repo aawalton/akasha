@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import type { Usage } from "../marking/claude-account-marking.module.code.ts"
+import type { Usage } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import {
   inAccountOrder,
   RateLimited,
   RETRY_BACKOFF_MS,
   retriedOn429,
   shouldTriggerWindow,
-} from "./claude-account-upkeep.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts"
 
 const NOW = Date.parse("2026-01-01T00:00:00.000Z")
 

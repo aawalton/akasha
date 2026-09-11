@@ -1,24 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { routingIn } from "../marking/claude-account-marking.module.code.ts"
-import {
-  ACCOUNT_DECLARED,
-  besideAt,
-  besideHeld,
-  besideText,
-  bodiesIn,
-  counting,
-  pageAt,
-  shut,
-} from "../marking/claude-account-marking.module.test-fixtures.ts"
-import { everyAccountStateIn, rescuedIn } from "../reading/claude-account-reading.module.code.ts"
 import {
   DOORS,
   expiryHeldIn,
   narrowedFor,
   PUSHED_KEYS,
   pushedIn,
-} from "./claude-account-credential-push.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
 import {
   ACCESS_KEY,
   AN_HOUR,
@@ -43,7 +30,23 @@ import {
   sweep,
   whyOf,
   worldMade,
-} from "./claude-account-credential-push.module.test-fixtures.ts"
+} from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test-fixtures.ts"
+import { routingIn } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+import {
+  ACCOUNT_DECLARED,
+  besideAt,
+  besideHeld,
+  besideText,
+  bodiesIn,
+  counting,
+  pageAt,
+  shut,
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import {
+  everyAccountStateIn,
+  rescuedIn,
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 afterAll(sweep)
 

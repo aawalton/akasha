@@ -1,3 +1,12 @@
+import { UPKEEP_PERIOD_MS } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import {
+  everyAccountStateIn,
+  lastWindowTriggerAcross,
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import {
+  DOORS,
+  upkeepPassIn,
+} from "akasha/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -6,13 +15,7 @@ import {
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
-import { UPKEEP_PERIOD_MS } from "../oauth/claude-account-oauth.module.code.ts"
-import {
-  everyAccountStateIn,
-  lastWindowTriggerAcross,
-} from "../reading/claude-account-reading.module.code.ts"
-import { DOORS, upkeepPassIn } from "../upkeep/claude-account-upkeep.module.code.ts"
+} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 
 const LOG = "[claude-account-upkeep]"
 const TICK_INTERVAL_MS = UPKEEP_PERIOD_MS

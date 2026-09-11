@@ -1,41 +1,41 @@
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import {
-  markedOn,
-  type UsageRead,
-  usageFetched,
-} from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   DOORS as PUSH_DOORS,
   type Doors as PushDoors,
-} from "../credential-push/claude-account-credential-push.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
 import {
   decideTokenTerminalAlert,
   refreshHealthMarks,
   terminalAlertMarks,
   windowTriggerMarks,
-} from "../health/claude-account-health.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/health/claude-account-health.module.code.ts"
 import {
   instantOf,
   pacingMarks,
   type Usage,
   usageFrom,
-} from "../marking/claude-account-marking.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import {
   type RefreshOutcome,
   UPKEEP_RENEWAL_MARGIN_MS,
   USAGE_URL,
-} from "../oauth/claude-account-oauth.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import {
   credentialIn,
   everyAccountSlugIn,
   type SecretsRead,
-} from "../reading/claude-account-reading.module.code.ts"
-import { renewedIn } from "../renewing/claude-account-renewing.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { renewedIn } from "akasha/agents/claude-accounts/modules/renewing/claude-account-renewing.module.code.ts"
+import {
+  markedOn,
+  type UsageRead,
+  usageFetched,
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const MESSAGES_URL = "https://api.anthropic.com/v1/messages"
 

@@ -1,13 +1,8 @@
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   DOORS as PUSH_DOORS,
   type Doors as PushDoors,
   pushedIn,
-} from "../credential-push/claude-account-credential-push.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
 import {
   classifyOAuthError,
   OAUTH_CLIENT_ID,
@@ -15,8 +10,16 @@ import {
   OAUTH_TOKEN_URL,
   REFRESH_BUFFER_MS,
   type RefreshOutcome,
-} from "../oauth/claude-account-oauth.module.code.ts"
-import { credentialIn, type SecretsRead } from "../reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import {
+  credentialIn,
+  type SecretsRead,
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { credentialOf } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const DEFAULT_LOG_PREFIX = "[oauth]"
 
