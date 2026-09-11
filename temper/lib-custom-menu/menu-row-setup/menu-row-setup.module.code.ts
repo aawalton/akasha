@@ -6,14 +6,11 @@ import type {
   TooltipValue,
   Valued,
 } from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
+import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
 
 const wm = WINDOW_MANAGER
 
 export function noop(this: void, ..._args: unknown[]): undefined {}
-
-function isCallback<T>(value: Valued<T>): value is (this: void, ...args: unknown[]) => T {
-  return type(value) === "function"
-}
 
 export function getValueOrCallback<T>(this: void, arg: Valued<T>, ...rest: unknown[]): T {
   if (isCallback(arg)) {

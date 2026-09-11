@@ -1,3 +1,4 @@
+import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
 import { asString } from "../shifter-casts/shifter-casts.module.code.ts"
 import { LIB_IDENTIFIER } from "../shifter-constants/shifter-constants.module.code.ts"
 import { CM, lib } from "../shifter-state/shifter-state.module.code.ts"
@@ -16,10 +17,6 @@ export function getDeepClonedTable<T>(sourceTable: T | undefined): T | undefined
 export function getShallowClonedTable<T>(sourceTable: T | undefined): T | undefined {
   if (sourceTable === undefined) return undefined
   return ZO_ShallowTableCopy(sourceTable)
-}
-
-function isCallback<T>(value: Valued<T>): value is (this: void, ...args: unknown[]) => T {
-  return type(value) === "function"
 }
 
 export function getValueOrCallback<T>(arg: Valued<T>, ...args: unknown[]): T {
