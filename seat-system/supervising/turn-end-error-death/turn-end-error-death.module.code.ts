@@ -1,3 +1,5 @@
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+
 export const OVERLOAD_STATUS = 529
 
 export const CONNECTION_STATUS = 502
@@ -10,24 +12,18 @@ export interface DeathReading {
   readonly statuses: readonly number[]
 }
 
-function parseTranscriptLine(held: unknown): Record<string, unknown> | null {
-  if (typeof held !== "object" || held === null || Array.isArray(held)) return null
-  return held as Record<string, unknown>
-}
-
 function assistantRecords(text: string): Record<string, unknown>[] {
   const held: Record<string, unknown>[] = []
   for (const raw of text.split("\n")) {
     if (raw.trim() === "") continue
-    let record: Record<string, unknown> | null = null
+    let line: unknown = null
     try {
-      const line: unknown = JSON.parse(raw)
-      record = parseTranscriptLine(line)
+      line = JSON.parse(raw)
     } catch {
       continue
     }
-    if (record === null) continue
-    if (record.type === "assistant") held.push(record)
+    if (!isRecord(line)) continue
+    if (line.type === "assistant") held.push(line)
   }
   return held
 }
