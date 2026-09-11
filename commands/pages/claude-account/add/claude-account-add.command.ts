@@ -55,5 +55,10 @@ export const claudeAccountAdd = {
       invariantKind: "absence",
       statement: "Nothing here signs in or reads a token or writes a secret.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The folder a page is filed into is read off the account pages rather than spelled here.",
+    },
   ],
 } as const satisfies Command

@@ -120,5 +120,10 @@ export const claudeAccountMaking = {
       statement:
         "Neither the address nor the alias slot is weighed against the accounts there are.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A new account's page is written into a folder of its own beside the other accounts' folders.",
+    },
   ],
 } as const satisfies Module

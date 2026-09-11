@@ -1,3 +1,4 @@
+import { accountsAtIn } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -16,8 +17,6 @@ const ALIAS = "--alias"
 const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/
 
 const EMAIL_SHAPE = /^\S+@\S+$/
-
-export const PAGES_AT = "agents/claude-accounts/pages"
 
 export type Read =
   | { readonly account: string; readonly email: string; readonly alias: number | null }
@@ -117,7 +116,7 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
     const slot = slotFrom(held, read.alias)
     if (typeof slot === "string") return { report: [], refusals: [slot], code: 1 }
     const pageType = typeSlugOf(given.root, ACCOUNT_TYPE)
-    const at = `${PAGES_AT}/${read.account}/${read.account}.${pageType}.ts`
+    const at = `${accountsAtIn(given.root)}/${read.account}/${read.account}.${pageType}.ts`
     const body = pageTextFor(read.account, read.email, slot, Bun.randomUUIDv7(), pageType)
     const landed = await runMechanicalChange(
       given.root,

@@ -1,6 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import {
+  accountPageAt,
   accountPageText,
+  accountsAtFor,
   type Landing,
   madeIn,
 } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
@@ -35,6 +37,33 @@ async function refusedFor(given: {
   expect(made.kind).toBe("refused")
   return made.kind === "refused" ? made.why : ""
 }
+
+const ACCOUNTS_AT = "agents/claude-accounts/pages"
+
+const AAWALTON = `${ACCOUNTS_AT}/aawalton/aawalton.claude-account.ts`
+
+describe("accountsAtFor", () => {
+  test("the folder a new account is written into holds each account's own folder", () => {
+    expect(accountsAtFor(AAWALTON, "aawalton")).toBe(ACCOUNTS_AT)
+  })
+
+  test("a page filed straight into the accounts folder names that folder", () => {
+    const at = `${ACCOUNTS_AT}/aawalton.claude-account.ts`
+    expect(accountsAtFor(at, "aawalton")).toBe(ACCOUNTS_AT)
+  })
+
+  test("a page naming no folder throws", () => {
+    expect(() => accountsAtFor("aawalton.claude-account.ts", "aawalton")).toThrow()
+  })
+})
+
+describe("accountPageAt", () => {
+  test("a new account's page sits in a folder of its own beside the others", () => {
+    const at = accountPageAt(accountsAtFor(AAWALTON, "aawalton"), "c9")
+    expect(at).toBe(`${ACCOUNTS_AT}/c9/c9.claude-account.ts`)
+    expect(at).not.toContain("/aawalton/")
+  })
+})
 
 describe("accountPageText", () => {
   test("an account states its id, its page type, its slug, its address and its alias slot", () => {

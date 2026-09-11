@@ -34,6 +34,20 @@ export type Landing = (
 
 export const LANDING: Landing = runMechanicalChange
 
+export function accountsAtFor(page: string, slug: string): string {
+  const named = page.lastIndexOf("/")
+  if (named <= 0) {
+    throw new Error(
+      `\`${page}\` is the page the folder is read off and names no folder, so where a new ` +
+        `account is written is unknown`
+    )
+  }
+  const holding = page.slice(0, named)
+  const own = holding.lastIndexOf("/")
+  if (own <= 0 || holding.slice(own + 1) !== slug) return holding
+  return holding.slice(0, own)
+}
+
 export function accountsAtIn(given: string | Reading): string {
   const first = everyAccountIn(given)[0]
   if (first === undefined) {
@@ -42,18 +56,15 @@ export function accountsAtIn(given: string | Reading): string {
         `the pages already there, so this root says nothing about where to write one`
     )
   }
-  const cut = first.path.lastIndexOf("/")
-  if (cut <= 0) {
-    throw new Error(
-      `\`${first.path}\` is the page the folder is read off and names no folder, so where a new ` +
-        `account is written is unknown`
-    )
-  }
-  return first.path.slice(0, cut)
+  return accountsAtFor(first.path, first.slug)
+}
+
+export function accountPageAt(accountsAt: string, slug: string): string {
+  return `${accountsAt}/${slug}/${slug}.${PAGE_TYPE_SLUG}.ts`
 }
 
 export function accountPagePathIn(given: string | Reading, slug: string): string {
-  return `${accountsAtIn(given)}/${slug}.${PAGE_TYPE_SLUG}.ts`
+  return accountPageAt(accountsAtIn(given), slug)
 }
 
 export function accountPageText(given: {
