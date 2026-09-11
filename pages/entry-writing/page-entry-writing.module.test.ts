@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
-import { entriesIn } from "../entries/page-entries.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import {
   lineFor,
   type Part,
@@ -9,7 +8,8 @@ import {
   textOver,
   textsOver,
   textsOverLines,
-} from "./page-entry-writing.module.code.ts"
+} from "akasha/pages/entry-writing/page-entry-writing.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "akasha/one/held.model-test.ts"
 

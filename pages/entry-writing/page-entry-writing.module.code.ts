@@ -1,6 +1,6 @@
-import { FIRST_PART } from "../file-name/page-file-name.module.code.ts"
-import { partAt, uncommittedPartAt } from "../file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+import { FIRST_PART } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partAt, uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const NEWLINE = "\n"
 
