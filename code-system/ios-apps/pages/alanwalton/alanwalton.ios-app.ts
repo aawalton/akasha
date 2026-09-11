@@ -81,5 +81,4 @@ export const alanwalton = {
     "shell-script/alanwalton-widget-target",
     "shell-script/alanwalton-health-foreground-sync",
   ],
-  deployedCommit: "aa9b72694ae39f9f288a9afbed7a7c0e74f2db55",
 } as const satisfies IosApp
