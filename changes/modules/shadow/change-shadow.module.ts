@@ -16,6 +16,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "That world lists the paths its bodies are held under.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reader answering one page's body and its type's body is built here rather than by each test.",
     },

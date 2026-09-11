@@ -7,10 +7,10 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
-  NOTHING_OVER,
   pathsThere,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ONE_WAS = ["held-kind", "held-one"].join("/")
 
@@ -40,18 +40,6 @@ const ANCHOR_BODY = `export const TIMES = ["now", "held-kind", "held-one"] as co
 const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
 
 const TAKEN = "akasha/held/one/held-one.held-checked.gone.ts"
-
-function worldOf(bodies: Readonly<Record<string, string>>): World {
-  return {
-    root: "/nowhere",
-    index: { everyPath: () => Object.keys(bodies) } as never,
-    textOf: (path) => bodies[path] ?? null,
-    bodyOf: (path) => bodies[path] ?? null,
-    under: () => [],
-    base: (path) => bodies[path] ?? null,
-    over: NOTHING_OVER,
-  }
-}
 
 function bodyOf(said: Answer, world: World, path: string): string {
   expect(said.refused).toBe(null)

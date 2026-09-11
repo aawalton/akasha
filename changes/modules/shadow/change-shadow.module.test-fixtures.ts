@@ -213,7 +213,7 @@ export function holdingOver(
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",
-    index: {} as World["index"],
+    index: { everyPath: () => Object.keys(held) } as never,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
