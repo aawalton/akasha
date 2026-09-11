@@ -141,15 +141,7 @@ export const noRuleInTwoFiles = {
       invariantKind: "absence",
       statement: "Nothing works a rule string out a second time to file it.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A path named before these rules were filed is in them only once it is landed.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "Until every such path is landed the filed rules go unread and every file is parsed.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A change with no code file is refused nothing without the index being read.",
