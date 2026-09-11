@@ -57,7 +57,7 @@ export const checkReachesAPathThroughTheIndex = {
       statement: "A name refused already as a path spelled is not refused a second time.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A page's test listing a folder is judged by no name that test spells.",
     },
     {
@@ -322,13 +322,12 @@ export const checkReachesAPathThroughTheIndex = {
       statement: "A value a helper returns is not carried to the caller that lists that value.",
     },
     {
-      invariantKind: "gap",
-      statement: "A path no page of the index sits at is seen by nothing here.",
+      invariantKind: "absence",
+      statement: "A path the index knows no page for is seen by nothing here.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A run that only looks like a path is read as one, and refuses where the index answers for that run.",
+      invariantKind: "departure",
+      statement: "A run in prose that spells a page's path is refused like a run meant as a path.",
     },
   ],
   check: { maxCpuSeconds: 10 },
