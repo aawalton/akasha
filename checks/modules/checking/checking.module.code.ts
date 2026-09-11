@@ -267,11 +267,11 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
-function takesFrom(one: Gathered, change: Change, shadow: Shadow): boolean {
+export function takesAny(one: Gathered, paths: readonly string[], shadow: Shadow): boolean {
   const takes = one.isInput
   if (takes === null) return true
   try {
-    return change.changed.some((path) => takes(path, shadow))
+    return paths.some((path) => takes(path, shadow))
   } catch {
     return true
   }
@@ -294,7 +294,7 @@ export function checksFor(
   change: Change,
   shadow: Shadow
 ): readonly Gathered[] {
-  return checksLeftBy(every, change).filter((one) => takesFrom(one, change, shadow))
+  return checksLeftBy(every, change).filter((one) => takesAny(one, change.changed, shadow))
 }
 
 function fileIn(frame: string): string {

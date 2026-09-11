@@ -4,8 +4,10 @@ import { join } from "node:path"
 import {
   auditOne,
   bodyFor,
+  carriedOn,
   commitOf,
   keyFor,
+  movedIn,
   type Over,
   turnAt,
   turnedRed,
@@ -21,6 +23,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -46,6 +49,10 @@ function gathered(slug: string, root: string): Gathered {
     isInput: null,
     run: () => [],
   }
+}
+
+function taking(slug: string, root: string, ending: string): Gathered {
+  return { ...gathered(slug, root), isInput: (path) => path.endsWith(ending) }
 }
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
@@ -196,4 +203,102 @@ test("many askers at one commit are answered by one run", async () => {
   expect(runs).toBe(1)
   expect(one.verdict).toEqual(two.verdict)
   expect(two.verdict).toEqual(three.verdict)
+})
+
+test("a span of commits is answered by the files git says moved", async () => {
+  const { root, made } = await repoOf(2)
+  const moved = movedIn(root, made[1] ?? "")
+  expect(await moved(made[0] ?? "")).toEqual(["one.txt"])
+  expect(await moved(made[1] ?? "")).toEqual([])
+})
+
+test("a span git cannot answer is no span", async () => {
+  const { root, made } = await repoOf(1)
+  const moved = movedIn(root, made[0] ?? "")
+  expect(await moved("0000000000000000000000000000000000000000")).toBeNull()
+})
+
+test("a check whose input never moved is carried to the newer commit", async () => {
+  const { root, made } = await repoOf(2)
+  const carried = await carriedOn(
+    {
+      root,
+      home: "/h",
+      check: taking("shell-clean", root, ".sh"),
+      over: { change: NOTHING, commit: made[1] ?? "" },
+      asked: made[1] ?? "",
+      moved: movedIn(root, made[1] ?? ""),
+      shadow: shadowAsked(NOTHING),
+    },
+    { ...CLEAN, commit: made[0] ?? "" }
+  )
+  expect(carried?.commit).toBe(made[1] ?? "")
+  expect(carried?.ranAt).toBe(NOW)
+})
+
+test("a check whose input moved is run rather than carried", async () => {
+  const { root, made } = await repoOf(2)
+  const carried = await carriedOn(
+    {
+      root,
+      home: "/h",
+      check: taking("no-tmp", root, ".txt"),
+      over: { change: NOTHING, commit: made[1] ?? "" },
+      asked: made[1] ?? "",
+      moved: movedIn(root, made[1] ?? ""),
+      shadow: shadowAsked(NOTHING),
+    },
+    { ...CLEAN, commit: made[0] ?? "" }
+  )
+  expect(carried).toBeNull()
+})
+
+test("a check naming no input is run rather than carried", async () => {
+  const { root, made } = await repoOf(2)
+  const carried = await carriedOn(
+    {
+      root,
+      home: "/h",
+      check: gathered("typecheck", root),
+      over: { change: NOTHING, commit: made[1] ?? "" },
+      asked: made[1] ?? "",
+      moved: movedIn(root, made[1] ?? ""),
+      shadow: shadowAsked(NOTHING),
+    },
+    { ...CLEAN, commit: made[0] ?? "" }
+  )
+  expect(carried).toBeNull()
+})
+
+test("an asker handing over no span carries nothing forward", async () => {
+  const { root, made } = await repoOf(2)
+  const carried = await carriedOn(
+    {
+      root,
+      home: "/h",
+      check: taking("shell-clean", root, ".sh"),
+      over: { change: NOTHING, commit: made[1] ?? "" },
+      asked: made[1] ?? "",
+    },
+    { ...CLEAN, commit: made[0] ?? "" }
+  )
+  expect(carried).toBeNull()
+})
+
+test("a verdict that refused is carried forward as a verdict that refuses", async () => {
+  const { root, made } = await repoOf(2)
+  const carried = await carriedOn(
+    {
+      root,
+      home: "/h",
+      check: taking("shell-clean", root, ".sh"),
+      over: { change: NOTHING, commit: made[1] ?? "" },
+      asked: made[1] ?? "",
+      moved: movedIn(root, made[1] ?? ""),
+      shadow: shadowAsked(NOTHING),
+    },
+    { ...CLEAN, commit: made[0] ?? "", refusals: ["one.sh — no"] }
+  )
+  expect(carried?.refusals).toEqual(["one.sh — no"])
+  expect(carried?.commit).toBe(made[1] ?? "")
 })

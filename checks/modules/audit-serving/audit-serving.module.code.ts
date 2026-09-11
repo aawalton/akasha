@@ -14,12 +14,14 @@ import {
   checksIn,
   type Gathered,
   judgingBy,
+  takesAny,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
@@ -95,6 +97,20 @@ export function turnAt(home: string, check: string): string {
   return join(home, TURNS, check)
 }
 
+export type Moved = (since: string) => Promise<readonly string[] | null>
+
+export function movedIn(root: string, commit: string): Moved {
+  const held = new Map<string, readonly string[] | null>()
+  return async (since) => {
+    const found = held.get(since)
+    if (found !== undefined) return found
+    const ran = await runGit(["diff", "--name-only", since, commit], root)
+    const said = ran.ok ? ran.stdout.split("\n").filter((one) => one !== "") : null
+    held.set(since, said)
+    return said
+  }
+}
+
 export type Asking = {
   readonly root: string
   readonly home: string
@@ -102,6 +118,18 @@ export type Asking = {
   readonly over: Over
   readonly asked: string
   readonly run?: Running
+  readonly moved?: Moved
+  readonly shadow?: Shadow
+}
+
+export async function carriedOn(given: Asking, before: Verdict): Promise<Verdict | null> {
+  const moved = given.moved
+  const shadow = given.shadow
+  if (moved === undefined || shadow === undefined) return null
+  if (before.commit === given.over.commit) return before
+  const since = await moved(before.commit)
+  if (since === null || takesAny(given.check, since, shadow)) return null
+  return { ...before, commit: given.over.commit }
 }
 
 export function keyFor(given: Asking): string {
@@ -125,6 +153,12 @@ async function ranFor(given: Asking): Promise<Ran> {
     async (): Promise<Ran> => {
       const taken = await answered()
       if (taken !== null) return { check: slug, verdict: taken, ran: false }
+      const last = verdictsRead(given.home)[slug]
+      const carried = last === undefined ? null : await carriedOn(given, last)
+      if (carried !== null) {
+        verdictsWrite(given.home, verdictKept(verdictsRead(given.home), slug, carried))
+        return { check: slug, verdict: carried, ran: false }
+      }
       const found = await run(given.check, given.over.change)
       const verdict = verdictOf(found, given.over, new Date().toISOString())
       verdictsWrite(given.home, verdictKept(verdictsRead(given.home), slug, verdict))
@@ -174,11 +208,20 @@ export type Serving = {
 export async function serving(given: Serving): Promise<Told> {
   const send = given.send ?? sending
   const over = await overNow(given.root)
+  const shadow = shadowAsked(over.change)
+  const moved = movedIn(given.root, over.commit)
   const ran: Ran[] = []
   const turned: string[] = []
   for (const one of checksAt(checksIn(given.root), AUDIT)) {
     const before = verdictsRead(given.home)[one.slug]
-    const said = await auditOne({ ...given, check: one, over, asked: over.commit })
+    const said = await auditOne({
+      ...given,
+      check: one,
+      over,
+      asked: over.commit,
+      moved,
+      shadow,
+    })
     ran.push(said)
     if (turnedRed(before, said.verdict)) turned.push(one.slug)
   }

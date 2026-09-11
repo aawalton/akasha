@@ -97,8 +97,36 @@ export const auditServing = {
       statement: "An agent asks for an audit at a commit rather than running one.",
     },
     {
-      invariantKind: "gap",
-      statement: "A check whose input never moved is carried forward rather than run again.",
+      invariantKind: "departure",
+      statement: "A check whose input never moved since its verdict is carried rather than run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carried verdict keeps the moment it ran and takes the newer commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files moved between two commits are asked of git.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A span is asked of git once however many checks ask for that span.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check naming no input is run rather than carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A span git could not answer is run rather than carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An asker handing over no span carries nothing forward.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verdict that refused is carried forward as a verdict that refuses.",
     },
   ],
 } as const satisfies Module
