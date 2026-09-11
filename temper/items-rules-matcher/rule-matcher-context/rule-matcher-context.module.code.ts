@@ -10,15 +10,15 @@ import type {
 import {
   buildGetCharacterCanLevelMorphs,
   compileCharacterCanLevelMorphs,
-} from "../rule-matcher-context-can-level-morphs/rule-matcher-context-can-level-morphs.module.code.ts"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-can-level-morphs/rule-matcher-context-can-level-morphs.module.code.ts"
 import {
   buildGetCharacterCurseState,
   compileCurseStates,
-} from "../rule-matcher-context-curse-state/rule-matcher-context-curse-state.module.code.ts"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-curse-state/rule-matcher-context-curse-state.module.code.ts"
 import {
   compileWantedCompanionEquipment,
   compileWantedEquipment,
-} from "../rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import {
   compileBankStock,
   compileConsumableStock,
@@ -28,11 +28,11 @@ import {
   compileKnownScripts,
   compileResearchableTraits,
   compileWantedConsumables,
-} from "../rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"
 import {
   buildGetCharacterSkillLineRanks,
   compileSkillLineCurrentRanks,
-} from "../rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.code.ts"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.code.ts"
 
 interface BuildDerivedContext {
   wantedEquipment: RuleMatcherContext["wantedEquipment"]

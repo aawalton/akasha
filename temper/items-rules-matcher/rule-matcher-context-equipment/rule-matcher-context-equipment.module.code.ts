@@ -5,6 +5,7 @@ import {
   resolveCompanionToggles,
 } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
@@ -19,7 +20,6 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
 } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function compileWantedEquipment(
   characters: readonly CompletionCharacterInput[],

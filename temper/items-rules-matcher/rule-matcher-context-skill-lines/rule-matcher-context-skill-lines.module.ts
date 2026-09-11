@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const ruleMatcherContextSkillLines = {
   id: "01a06151-370e-7c6e-8369-9aab90a53fd0",

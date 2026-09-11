@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryRuleMatcherPropertyFixtures = {
   id: "01a06281-4830-72b8-a8a5-7323d4ed93c2",

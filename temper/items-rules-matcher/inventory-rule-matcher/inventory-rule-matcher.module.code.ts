@@ -19,7 +19,7 @@ import {
   computeQuantity,
   createAllocationEnv,
   type MatchedCI,
-} from "../inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"
+} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"
 import {
   type AllRuleAffectedItemsCache,
   categoryRuleFingerprint,
@@ -28,22 +28,22 @@ import {
   residuesFromPrevSnapshot,
   residuesToEntries,
   restoreResiduesFromEntries,
-} from "../inventory-rule-matcher-cache/inventory-rule-matcher-cache.module.code.ts"
+} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-cache/inventory-rule-matcher-cache.module.code.ts"
 import {
   buildAffectedItem,
   getExcludeLocation,
   isAlreadyAtDestination,
   isContainerBlockedByAction,
-} from "../inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"
+} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"
 import {
   applyFillOnceCI,
   applyFillOnceCompanionCI,
-} from "../inventory-rule-matcher-fill-once/inventory-rule-matcher-fill-once.module.code.ts"
+} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-fill-once/inventory-rule-matcher-fill-once.module.code.ts"
 import {
   buildItemIdToCooldownGroup,
   buildWebEvalEnv,
-} from "../web-eval-env/web-eval-env.module.code.ts"
-import { webItemFactsFromClassified } from "../web-item-facts/web-item-facts.module.code.ts"
+} from "akasha/temper/items-rules-matcher/web-eval-env/web-eval-env.module.code.ts"
+import { webItemFactsFromClassified } from "akasha/temper/items-rules-matcher/web-item-facts/web-item-facts.module.code.ts"
 
 function ruleResultKey(rule: CompiledOrderedRule, idx: number): string {
   return rule.id ?? `rule#${idx}`
