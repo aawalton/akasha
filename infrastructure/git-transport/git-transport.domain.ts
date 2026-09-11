@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const gitTransport = {
   id: "01a06816-2f11-7be3-9bd7-706fac3996ff",

@@ -1,9 +1,9 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
+import { readJson } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-deps/dockerfile-deps.module.code.ts"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { Glob } from "bun"
-import { readJson } from "../dockerfile-deps/dockerfile-deps.module.code.ts"
-import { ROOT } from "../dockerfile-services/dockerfile-services.module.code.ts"
 
 const SOURCE_GLOB = new Glob("**/*.{ts,tsx,mts,js,jsx,mjs}")
 const SOURCE_EXTENSIONS = [".ts", ".tsx", ".mts", ".js", ".jsx", ".mjs"] as const

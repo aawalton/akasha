@@ -5,9 +5,9 @@ import {
 } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
-import { cnpgClusterYaml } from "./modules/cnpg-cluster/cnpg-cluster.module.code.ts"
-import { objectStoreYaml } from "./modules/cnpg-object-store/cnpg-object-store.module.code.ts"
-import { scheduledBackupYaml } from "./modules/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts"
+import { cnpgClusterYaml } from "akasha/infrastructure/storage/databases/postgres-cnpg/modules/cnpg-cluster/cnpg-cluster.module.code.ts"
+import { objectStoreYaml } from "akasha/infrastructure/storage/databases/postgres-cnpg/modules/cnpg-object-store/cnpg-object-store.module.code.ts"
+import { scheduledBackupYaml } from "akasha/infrastructure/storage/databases/postgres-cnpg/modules/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts"
 
 const NAMESPACE = "postgres"
 const APP_NAME = "postgres"

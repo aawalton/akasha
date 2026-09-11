@@ -7,8 +7,8 @@ import {
   selectorLabels,
   VOLUME_GRPC_PORT,
   VOLUME_HTTP_PORT,
-} from "../constants/seaweedfs-constants.module.code.ts"
-import { volumeDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
+import { volumeDeploymentYaml } from "akasha/infrastructure/seaweedfs/deployments/seaweedfs-deployments.module.code.ts"
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service-volume", {

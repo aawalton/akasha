@@ -4,7 +4,7 @@ import {
   SUBNET_ROUTER_LABELS,
   SUBNET_ROUTER_SELECTOR_LABELS,
   TAILSCALE_IMAGE,
-} from "../headscale-constants/headscale-constants.module.code.ts"
+} from "akasha/infrastructure/networks/headscale-constants/headscale-constants.module.code.ts"
 
 function subnetRouterDeploymentYaml(): string {
   return synthOne(NAMESPACE, "subnet-router-deployment", {

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const backupRetention = {
   id: "01a06863-74df-7622-85ad-e931851aec9d",

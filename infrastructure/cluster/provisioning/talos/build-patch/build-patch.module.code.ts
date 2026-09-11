@@ -1,4 +1,8 @@
-import type { ClusterIntent, MachineConfigPatch, NodeIntent } from "../schema/schema.module.code.ts"
+import type {
+  ClusterIntent,
+  MachineConfigPatch,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 
 export const PLACEHOLDER_SCHEMATIC_ID = "PLACEHOLDER_SCHEMATIC_ID"
 

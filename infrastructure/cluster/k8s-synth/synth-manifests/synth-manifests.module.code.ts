@@ -1,9 +1,12 @@
 import { existsSync, realpathSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { generatedPathFor, writeIfChanged } from "../generated-file/generated-file.module.code.ts"
-import { discoverSynthFiles } from "../synth-discovery/synth-discovery.module.code.ts"
-import { describeDrift } from "../synth-drift/synth-drift.module.code.ts"
-import { loadSynthOutputs } from "../synth-loading/synth-loading.module.code.ts"
+import {
+  generatedPathFor,
+  writeIfChanged,
+} from "akasha/infrastructure/cluster/k8s-synth/generated-file/generated-file.module.code.ts"
+import { discoverSynthFiles } from "akasha/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.code.ts"
+import { describeDrift } from "akasha/infrastructure/cluster/k8s-synth/synth-drift/synth-drift.module.code.ts"
+import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/synth-loading/synth-loading.module.code.ts"
 
 const CHECKOUT_MARKER = "bun.lock"
 

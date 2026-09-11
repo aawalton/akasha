@@ -1,6 +1,9 @@
-import { MAIN_NODES } from "../nodes-main/nodes-main.module.code.ts"
-import { REHEARSAL_NODES } from "../nodes-rehearsal/nodes-rehearsal.module.code.ts"
-import type { ClusterIntent, NodeIntent } from "../schema/schema.module.code.ts"
+import { MAIN_NODES } from "akasha/infrastructure/cluster/provisioning/talos/nodes-main/nodes-main.module.code.ts"
+import { REHEARSAL_NODES } from "akasha/infrastructure/cluster/provisioning/talos/nodes-rehearsal/nodes-rehearsal.module.code.ts"
+import type {
+  ClusterIntent,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 
 const REGISTRY_HOST = "registry.registry.svc.cluster.local:5000"
 

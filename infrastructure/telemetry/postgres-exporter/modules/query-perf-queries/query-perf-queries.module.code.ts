@@ -4,7 +4,7 @@ import {
   QUERY_KEY_CEILING,
   QUERY_KEY_HEARTBEAT,
   SERIES_LIMIT,
-} from "../query-perf-constants/query-perf-constants.module.code.ts"
+} from "akasha/infrastructure/telemetry/postgres-exporter/modules/query-perf-constants/query-perf-constants.module.code.ts"
 
 function ceilingRoleExclusion(): string {
   return CEILING_EXCLUDED_ROLES.map((r) => `'${r}'`).join(", ")

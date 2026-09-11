@@ -4,7 +4,7 @@ import {
   componentLabels,
   IMAGE,
   MASTER_ADDRESS,
-} from "../constants/seaweedfs-constants.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
 
 export const MAINTENANCE_NAMESPACE = "seaweedfs-maintenance"
 

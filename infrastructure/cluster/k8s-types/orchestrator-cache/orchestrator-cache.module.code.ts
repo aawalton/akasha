@@ -1,11 +1,11 @@
-import { orchestratorCacheVolumeMounts } from "../orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
+import { orchestratorCacheVolumeMounts } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   BUN_RUNTIME_IMAGE,
   type CacheLocation,
   CONTAINER_TMP_PATH,
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
-} from "../orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 interface GitAccessTokenRef {
   secretName: string

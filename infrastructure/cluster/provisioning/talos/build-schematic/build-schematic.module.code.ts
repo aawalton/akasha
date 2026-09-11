@@ -1,6 +1,9 @@
 import { createHash } from "node:crypto"
+import type {
+  ImageFactorySchematic,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import { stringify } from "yaml"
-import type { ImageFactorySchematic, NodeIntent } from "../schema/schema.module.code.ts"
 
 export function buildSchematic(node: NodeIntent): ImageFactorySchematic {
   return {

@@ -1,16 +1,22 @@
 import { join } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { generateBunServiceDockerfile } from "../dockerfile-bun-service/dockerfile-bun-service.module.code.ts"
-import { buildPackageNameMap, readJson } from "../dockerfile-deps/dockerfile-deps.module.code.ts"
+import { generateBunServiceDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-bun-service/dockerfile-bun-service.module.code.ts"
+import {
+  buildPackageNameMap,
+  readJson,
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-deps/dockerfile-deps.module.code.ts"
 import {
   type DockerfileExtensions,
   parseDockerfileExtensions,
   type ServiceConfig,
-} from "../dockerfile-extensions/dockerfile-extensions.module.code.ts"
-import { generateNextjsDockerfile } from "../dockerfile-nextjs/dockerfile-nextjs.module.code.ts"
-import { ROOT, SERVICES } from "../dockerfile-services/dockerfile-services.module.code.ts"
-import { generateToolImageDockerfile } from "../dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import { generateNextjsDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-nextjs/dockerfile-nextjs.module.code.ts"
+import {
+  ROOT,
+  SERVICES,
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export function extensionsOf(config: ServiceConfig): DockerfileExtensions {
   if (config.extensionFile === undefined) return {}

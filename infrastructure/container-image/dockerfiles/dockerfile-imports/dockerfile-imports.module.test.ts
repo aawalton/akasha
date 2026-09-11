@@ -1,6 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { buildPackageNameMap } from "../dockerfile-deps/dockerfile-deps.module.code.ts"
-import { collectExecutedDeps, listEntryRoots } from "./dockerfile-imports.module.code.ts"
+import { buildPackageNameMap } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-deps/dockerfile-deps.module.code.ts"
+import {
+  collectExecutedDeps,
+  listEntryRoots,
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-imports/dockerfile-imports.module.code.ts"
 
 const AUTH_PROXY = "infrastructure/networks/auth-proxy"
 const REACHED = "utils/narrow/require-env"

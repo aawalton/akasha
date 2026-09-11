@@ -20,7 +20,7 @@ import {
   selectorLabels,
   VOLUME_GRPC_PORT,
   VOLUME_HTTP_PORT,
-} from "../constants/seaweedfs-constants.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
 
 const CREDS_NAME = "seaweedfs-creds"
 const S3_CONFIG_KEY = "s3-config.json"

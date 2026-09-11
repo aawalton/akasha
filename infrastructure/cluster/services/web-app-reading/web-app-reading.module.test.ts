@@ -6,13 +6,13 @@ import {
   WEB_APP_TYPE,
   wantingIn,
   workloadIn,
-} from "./web-app-reading.module.code.ts"
+} from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 import {
   MANIFEST_AT,
   SYNTH_AT,
   seededWorld,
   WEB_APPS_AT,
-} from "./web-app-reading.module.test-fixtures.ts"
+} from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 

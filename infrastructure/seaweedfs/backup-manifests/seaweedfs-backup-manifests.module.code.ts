@@ -7,7 +7,7 @@ import { secretEnv } from "akasha/infrastructure/cluster/k8s-types/k8s-secret-en
 import {
   componentLabels,
   S3_GATEWAY_ENDPOINT,
-} from "../constants/seaweedfs-constants.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
 

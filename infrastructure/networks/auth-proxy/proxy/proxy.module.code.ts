@@ -1,4 +1,4 @@
-import type { Identity } from "../session-identity/session-identity.module.code.ts"
+import type { Identity } from "akasha/infrastructure/networks/auth-proxy/session-identity/session-identity.module.code.ts"
 
 export async function proxyRequest(
   req: Request,

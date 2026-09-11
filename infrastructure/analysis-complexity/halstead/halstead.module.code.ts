@@ -1,9 +1,9 @@
-import ts from "typescript"
-import { classifyToken } from "../operator-classification/operator-classification.module.code.ts"
+import { classifyToken } from "akasha/infrastructure/analysis-complexity/operator-classification/operator-classification.module.code.ts"
 import {
   type FunctionNode,
   isFunctionBearing,
-} from "../walk-functions/walk-functions.module.code.ts"
+} from "akasha/infrastructure/analysis-complexity/walk-functions/walk-functions.module.code.ts"
+import ts from "typescript"
 
 export interface HalsteadMetrics {
   readonly distinctOperators: number

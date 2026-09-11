@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
-import { authProxy } from "../dockerfiles/built-images/auth-proxy/auth-proxy.built-image.ts"
-import { buildkit } from "../dockerfiles/built-images/buildkit/buildkit.built-image.ts"
-import { REGISTRY, refFor, refOf, repositoryOf } from "./image-ref.module.code.ts"
+import { authProxy } from "akasha/infrastructure/container-image/dockerfiles/built-images/auth-proxy/auth-proxy.built-image.ts"
+import { buildkit } from "akasha/infrastructure/container-image/dockerfiles/built-images/buildkit/buildkit.built-image.ts"
+import {
+  REGISTRY,
+  refFor,
+  refOf,
+  repositoryOf,
+} from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
 test("a ref is the registry, the repository and the tag", () => {
   expect(refFor("infra/auth-proxy", "abc")).toBe(`${REGISTRY}/infra/auth-proxy:abc`)

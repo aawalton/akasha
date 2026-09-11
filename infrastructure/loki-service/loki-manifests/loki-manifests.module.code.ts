@@ -2,14 +2,14 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cd
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
-import { LOKI_CONFIG } from "../loki-configs/loki-configs.module.code.ts"
+import { LOKI_CONFIG } from "akasha/infrastructure/loki-service/loki-configs/loki-configs.module.code.ts"
 import {
   LOKI_LABELS,
   LOKI_SELECTOR_LABELS,
   NAMESPACE,
   NAMESPACE_LABELS,
   S3_SECRET_NAME,
-} from "../loki-constants/loki-constants.module.code.ts"
+} from "akasha/infrastructure/loki-service/loki-constants/loki-constants.module.code.ts"
 
 const CONFIG_DATA = {
   "loki.yaml": LOKI_CONFIG,

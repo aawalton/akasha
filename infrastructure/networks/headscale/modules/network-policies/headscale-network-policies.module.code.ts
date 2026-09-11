@@ -3,7 +3,7 @@ import {
   NAMESPACE,
   NETPOL_HEADSCALE_LABELS,
   NETPOL_SUBNET_ROUTER_LABELS,
-} from "../../../headscale-constants/headscale-constants.module.code.ts"
+} from "akasha/infrastructure/networks/headscale-constants/headscale-constants.module.code.ts"
 
 const APP_NAME = "headscale"
 const SUBNET_ROUTER_APP_NAME = "tailscale-subnet-router"

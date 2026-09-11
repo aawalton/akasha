@@ -4,7 +4,7 @@ import {
   DCGM_EXPORTER_LABELS,
   DCGM_EXPORTER_SELECTOR_LABELS,
   KUBE_SYSTEM_NAMESPACE,
-} from "../prometheus-constants/prometheus-constants.module.code.ts"
+} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
 
 function dcgmExporterDaemonsetYaml(): string {
   return synthOne(KUBE_SYSTEM_NAMESPACE, "dcgm-exporter-daemonset", {

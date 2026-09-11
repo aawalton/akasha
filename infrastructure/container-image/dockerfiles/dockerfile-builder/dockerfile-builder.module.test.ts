@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { emitPackageJsonCopies, emitWorkspaceInstall } from "./dockerfile-builder.module.code.ts"
+import {
+  emitPackageJsonCopies,
+  emitWorkspaceInstall,
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-builder/dockerfile-builder.module.code.ts"
 
 const APP = "alan/web"
 const MEMBERS = ["alan/web", "temper/web"]

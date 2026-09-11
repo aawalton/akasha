@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { readdir } from "node:fs/promises"
 import { dirname, join, relative } from "node:path"
-import type { TunnelRoute } from "../tunnel-route/tunnel-route.module.code.ts"
+import type { TunnelRoute } from "akasha/infrastructure/cluster/manifests/tunnel-route/tunnel-route.module.code.ts"
 
 const REPO_ROOT = checkoutRootAbove(import.meta.dirname)
 

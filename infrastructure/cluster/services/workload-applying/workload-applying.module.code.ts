@@ -1,8 +1,5 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
-import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   CLUSTER_SERVICE_TYPE,
   codeBeside,
@@ -11,7 +8,7 @@ import {
   type Workload,
   wantingIn,
   workloadIn,
-} from "../web-app-reading/web-app-reading.module.code.ts"
+} from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 import {
   appliedOf,
   planFor,
@@ -19,7 +16,10 @@ import {
   unfilledOf,
   upAlready,
   writeManifests,
-} from "../workload-deploying/workload-deploying.module.code.ts"
+} from "akasha/infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
+import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
+import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const DATA = 2
 const OPERATIONAL = 3

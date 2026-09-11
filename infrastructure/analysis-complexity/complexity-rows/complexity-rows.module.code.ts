@@ -1,15 +1,15 @@
 import { readFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import ts from "typescript"
-import { computeCyclomaticComplexity } from "../cyclomatic/cyclomatic.module.code.ts"
+import { computeCyclomaticComplexity } from "akasha/infrastructure/analysis-complexity/cyclomatic/cyclomatic.module.code.ts"
 import {
   listWorkspaceTypeScriptFiles,
   resolveRepoRoot,
-} from "../file-discovery/file-discovery.module.code.ts"
-import { computeHalstead } from "../halstead/halstead.module.code.ts"
-import { computeMaintainabilityIndex } from "../maintainability/maintainability.module.code.ts"
-import { walkFunctions } from "../walk-functions/walk-functions.module.code.ts"
+} from "akasha/infrastructure/analysis-complexity/file-discovery/file-discovery.module.code.ts"
+import { computeHalstead } from "akasha/infrastructure/analysis-complexity/halstead/halstead.module.code.ts"
+import { computeMaintainabilityIndex } from "akasha/infrastructure/analysis-complexity/maintainability/maintainability.module.code.ts"
+import { walkFunctions } from "akasha/infrastructure/analysis-complexity/walk-functions/walk-functions.module.code.ts"
+import ts from "typescript"
 
 export interface AnalysisInputs {
   readonly repoRoot: string

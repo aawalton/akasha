@@ -1,14 +1,17 @@
-import { HOSTNAME_KEY, WORKLOAD_CLASS_KEY } from "../hostnames/hostnames.module.code.ts"
+import {
+  HOSTNAME_KEY,
+  WORKLOAD_CLASS_KEY,
+} from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import {
   type ContainerResources,
   readContainerProbes,
-} from "../k8s-container-probes/k8s-container-probes.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/k8s-container-probes/k8s-container-probes.module.code.ts"
 import {
   readNodeName,
   readNodeSelector,
   readPodAffinity,
   readPodNodeAffinityKeys,
-} from "../k8s-manifest-node-targeting/k8s-manifest-node-targeting.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/k8s-manifest-node-targeting/k8s-manifest-node-targeting.module.code.ts"
 import {
   childBlock,
   type DocSpan,
@@ -18,8 +21,8 @@ import {
   type ScanError,
   splitDocs,
   unquote,
-} from "../k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
-import { ORCHESTRATOR_CACHE_REPO_PATH } from "../orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 export interface ImageLine {
   readonly value: string

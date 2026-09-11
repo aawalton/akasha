@@ -1,12 +1,12 @@
-import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
-import { sweepOrphanedResources } from "../orphan-resource-audit/orphan-resource-audit.module.code.ts"
+import { sweepOrphanedResources } from "akasha/infrastructure/cluster/manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts"
 import {
   decideSweepSignal,
   HANDLER,
   named,
   SENDER,
   type SweepReading,
-} from "../orphan-sweep-notice/orphan-sweep-notice.module.code.ts"
+} from "akasha/infrastructure/cluster/manifests/orphan-sweep-notice/orphan-sweep-notice.module.code.ts"
+import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 
 const SWEEP_CEILING_MS = 300_000
 

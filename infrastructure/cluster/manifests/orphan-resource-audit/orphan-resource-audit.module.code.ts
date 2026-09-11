@@ -1,15 +1,15 @@
 import { relative } from "node:path"
 import { discoverSynthFiles } from "akasha/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.code.ts"
 import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/synth-loading/synth-loading.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { parseAllDocuments } from "yaml"
-import { NAMESPACE_NAMES } from "../app-namespaces-synth/app-namespaces-synth.module.code.ts"
+import { NAMESPACE_NAMES } from "akasha/infrastructure/cluster/manifests/app-namespaces-synth/app-namespaces-synth.module.code.ts"
 import {
   AUDITED_KINDS,
   type LiveResource,
   listLive,
-} from "../orphan-resource-listing/orphan-resource-listing.module.code.ts"
+} from "akasha/infrastructure/cluster/manifests/orphan-resource-listing/orphan-resource-listing.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { parseAllDocuments } from "yaml"
 
 export const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])
 

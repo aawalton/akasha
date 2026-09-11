@@ -1,4 +1,4 @@
-import type { GitHook } from "../git-hook.page-type.types.ts"
+import type { GitHook } from "akasha/infrastructure/git-transport/git-hooks/git-hook.page-type.types.ts"
 
 export const preReceiveChangeBranches = {
   id: "01a06816-2f11-7f55-8c92-79bf5163f688",

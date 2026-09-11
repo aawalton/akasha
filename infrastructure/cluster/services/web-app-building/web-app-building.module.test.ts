@@ -1,10 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
-import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
-import { SYNTH_AT, seededWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
-import type { Manifest, Plan } from "../workload-deploying/workload-deploying.module.code.ts"
 import {
   alreadyBuilt,
   type BuildEnv,
@@ -20,7 +16,17 @@ import {
   syncScript,
   unfoundIn,
   whyUninstallable,
-} from "./web-app-building.module.code.ts"
+} from "akasha/infrastructure/cluster/services/web-app-building/web-app-building.module.code.ts"
+import type { Workload } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
+import {
+  SYNTH_AT,
+  seededWorld,
+} from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import type {
+  Manifest,
+  Plan,
+} from "akasha/infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
+import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
 
 const WORLD = seededWorld()
 

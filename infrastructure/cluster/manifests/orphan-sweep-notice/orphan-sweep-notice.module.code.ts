@@ -1,4 +1,4 @@
-import type { LiveResource } from "../orphan-resource-listing/orphan-resource-listing.module.code.ts"
+import type { LiveResource } from "akasha/infrastructure/cluster/manifests/orphan-resource-listing/orphan-resource-listing.module.code.ts"
 
 export const HANDLER = "dalla"
 

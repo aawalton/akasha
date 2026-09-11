@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { seededWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
-import { servableNamed } from "./workload-applying.module.code.ts"
+import { seededWorld } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { servableNamed } from "akasha/infrastructure/cluster/services/workload-applying/workload-applying.module.code.ts"
 
 const WORLD = seededWorld()
 

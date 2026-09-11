@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.types.ts"
+import type { ClusterService } from "akasha/infrastructure/cluster/services/cluster-service.page-type.types.ts"
 
 export const podJanitor = {
   id: "01a06812-2380-7b30-8877-d7c4a1d5411c",

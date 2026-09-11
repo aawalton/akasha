@@ -1,6 +1,6 @@
-import type { ClusterService } from "../cluster-service.page-type.types.ts"
-import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
-import { runKubectl } from "../workload-deploying/workload-deploying.module.code.ts"
+import type { ClusterService } from "akasha/infrastructure/cluster/services/cluster-service.page-type.types.ts"
+import type { Workload } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
+import { runKubectl } from "akasha/infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
 
 export type Running = Workload
 

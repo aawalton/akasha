@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { REGISTRY } from "../image-ref/image-ref.module.code.ts"
-import { buildArgv, claimedIn, pushedImages } from "./image-publishing.module.code.ts"
+import {
+  buildArgv,
+  claimedIn,
+  pushedImages,
+} from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
+import { REGISTRY } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
 const ARGV = buildArgv("/where/it/was/written", "infra/auth-proxy", "reg/infra/auth-proxy:abc")
 

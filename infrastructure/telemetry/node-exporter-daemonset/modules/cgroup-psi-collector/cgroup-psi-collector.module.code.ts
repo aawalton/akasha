@@ -11,8 +11,8 @@ import {
   PSI_MIN_CGROUP_AGE_SECONDS,
   PSI_PROM_FILE_PATH,
   PSI_PROM_FILENAME,
-} from "../cgroup-psi-constants/cgroup-psi-constants.module.code.ts"
-import { TEXTFILE_DIR } from "../kubepods-oom-constants/kubepods-oom-constants.module.code.ts"
+} from "akasha/infrastructure/telemetry/node-exporter-daemonset/modules/cgroup-psi-constants/cgroup-psi-constants.module.code.ts"
+import { TEXTFILE_DIR } from "akasha/infrastructure/telemetry/node-exporter-daemonset/modules/kubepods-oom-constants/kubepods-oom-constants.module.code.ts"
 
 const AWK_EMIT_PRESSURE = `$1 == "some" || $1 == "full" {
       kind = $1; avg = ""; tot = ""

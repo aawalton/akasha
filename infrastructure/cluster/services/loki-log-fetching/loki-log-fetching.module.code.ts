@@ -2,9 +2,9 @@ import {
   InputError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { proxyFetch } from "akasha/infrastructure/cluster/services/cluster-api-reaching/cluster-api-reaching.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
-import { proxyFetch } from "../cluster-api-reaching/cluster-api-reaching.module.code.ts"
 
 export interface FetchLokiLogsArgs {
   pod: string

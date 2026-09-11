@@ -1,5 +1,5 @@
-import type { BuiltImage } from "../dockerfiles/built-images/built-image.page-type.types.ts"
-import { inputsFor } from "../image-inputs/image-inputs.module.code.ts"
+import type { BuiltImage } from "akasha/infrastructure/container-image/dockerfiles/built-images/built-image.page-type.types.ts"
+import { inputsFor } from "akasha/infrastructure/container-image/image-inputs/image-inputs.module.code.ts"
 
 export const REGISTRY = "registry.registry.svc.cluster.local:5000"
 

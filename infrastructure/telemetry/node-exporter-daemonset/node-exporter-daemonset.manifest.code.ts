@@ -1,11 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
-import {
-  KUBE_SYSTEM_NAMESPACE,
-  NODE_EXPORTER_IMAGE,
-  NODE_EXPORTER_LABELS,
-  NODE_EXPORTER_SELECTOR_LABELS,
-} from "../prometheus-constants/prometheus-constants.module.code.ts"
-import { cgroupPsiCollectorContainer } from "./modules/cgroup-psi-collector/cgroup-psi-collector.module.code.ts"
+import { cgroupPsiCollectorContainer } from "akasha/infrastructure/telemetry/node-exporter-daemonset/modules/cgroup-psi-collector/cgroup-psi-collector.module.code.ts"
 import {
   CGROUP_HIER_PATH,
   CGROUP_LOCAL_PATH,
@@ -15,7 +9,13 @@ import {
   PROM_FILE_PATH,
   PROM_FILENAME,
   TEXTFILE_DIR,
-} from "./modules/kubepods-oom-constants/kubepods-oom-constants.module.code.ts"
+} from "akasha/infrastructure/telemetry/node-exporter-daemonset/modules/kubepods-oom-constants/kubepods-oom-constants.module.code.ts"
+import {
+  KUBE_SYSTEM_NAMESPACE,
+  NODE_EXPORTER_IMAGE,
+  NODE_EXPORTER_LABELS,
+  NODE_EXPORTER_SELECTOR_LABELS,
+} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
 
 const COLLECTOR_LOOP = `while true; do
   local_kills=$(awk '/^oom_kill /{print $2}' ${CGROUP_LOCAL_PATH} 2>/dev/null)

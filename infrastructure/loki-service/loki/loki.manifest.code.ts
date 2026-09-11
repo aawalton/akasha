@@ -3,7 +3,7 @@ import {
   deploymentYaml,
   namespaceYaml,
   serviceYaml,
-} from "../loki-manifests/loki-manifests.module.code.ts"
+} from "akasha/infrastructure/loki-service/loki-manifests/loki-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

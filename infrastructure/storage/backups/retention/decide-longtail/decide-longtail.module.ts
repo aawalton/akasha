@@ -1,4 +1,4 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const decideLongtail = {
   id: "01a06863-74e4-72ed-9169-700d492e6ad5",

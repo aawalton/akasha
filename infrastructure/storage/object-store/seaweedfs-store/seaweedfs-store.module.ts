@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seaweedfsStore = {
   id: "01a05cbb-13a1-7601-bdbb-667f7ac1bcfb",

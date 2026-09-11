@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../../../../../pages/select-properties/select-property.page-type.types.ts"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export type ImageKind = "nextjs" | "bun-service" | "tool-image"
 

@@ -2,7 +2,11 @@ import { expect, test } from "bun:test"
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { keptAt } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { bodyWith, SECRETS_FILE, saveWorkstationSecret } from "./workstation-secrets.module.code.ts"
+import {
+  bodyWith,
+  SECRETS_FILE,
+  saveWorkstationSecret,
+} from "akasha/infrastructure/secrets/workstation-secrets/workstation-secrets.module.code.ts"
 
 const NAME = "GOOGLE_OAUTH_REFRESH_TOKEN"
 

@@ -1,5 +1,8 @@
-import { monthKeyOf, periodAnchorsOf } from "../decide-keeps/decide-keeps.module.code.ts"
-import type { BackupCandidate } from "../keep-decision/keep-decision.module.code.ts"
+import {
+  monthKeyOf,
+  periodAnchorsOf,
+} from "akasha/infrastructure/storage/backups/retention/decide-keeps/decide-keeps.module.code.ts"
+import type { BackupCandidate } from "akasha/infrastructure/storage/backups/retention/keep-decision/keep-decision.module.code.ts"
 
 export interface LongtailBackup extends BackupCandidate {
   readonly beginWal: string

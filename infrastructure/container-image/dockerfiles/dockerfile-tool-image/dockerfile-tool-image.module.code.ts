@@ -2,8 +2,8 @@ import { join } from "node:path"
 import type {
   DockerfileExtensions,
   ServiceConfig,
-} from "../dockerfile-extensions/dockerfile-extensions.module.code.ts"
-import { HEADER } from "../dockerfile-services/dockerfile-services.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import { HEADER } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 
 export function generateToolImageDockerfile(
   _appName: string,

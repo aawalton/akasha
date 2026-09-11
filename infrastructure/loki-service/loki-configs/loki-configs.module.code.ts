@@ -1,4 +1,7 @@
-import { S3_BUCKET, S3_ENDPOINT } from "../loki-constants/loki-constants.module.code.ts"
+import {
+  S3_BUCKET,
+  S3_ENDPOINT,
+} from "akasha/infrastructure/loki-service/loki-constants/loki-constants.module.code.ts"
 
 export const LOKI_CONFIG = `auth_enabled: false
 

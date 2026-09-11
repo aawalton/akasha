@@ -1,5 +1,11 @@
-import { backupListingSchema, parseKeepStatus } from "../barman-output/barman-output.module.code.ts"
-import type { BackupCandidate, KeepState } from "../keep-decision/keep-decision.module.code.ts"
+import {
+  backupListingSchema,
+  parseKeepStatus,
+} from "akasha/infrastructure/storage/backups/retention/barman-output/barman-output.module.code.ts"
+import type {
+  BackupCandidate,
+  KeepState,
+} from "akasha/infrastructure/storage/backups/retention/keep-decision/keep-decision.module.code.ts"
 
 export interface BarmanTarget {
   readonly endpointUrl: string

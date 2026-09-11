@@ -1,5 +1,8 @@
+import {
+  type RawLine,
+  unquote,
+} from "akasha/infrastructure/cluster/k8s-types/k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
 import { z } from "zod"
-import { type RawLine, unquote } from "../k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
 
 export interface MemoryProbe {
   readonly value: string

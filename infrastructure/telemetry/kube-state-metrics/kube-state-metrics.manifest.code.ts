@@ -2,7 +2,7 @@ import {
   kubeStateMetricsDeploymentYaml,
   kubeStateMetricsRbacYaml,
   kubeStateMetricsServiceYaml,
-} from "./modules/manifests/kube-state-metrics-manifests.module.code.ts"
+} from "akasha/infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

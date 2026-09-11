@@ -1,4 +1,4 @@
-import type { TunnelRoute } from "./tunnel-route/tunnel-route.module.code.ts"
+import type { TunnelRoute } from "akasha/infrastructure/cluster/manifests/tunnel-route/tunnel-route.module.code.ts"
 
 export const routes: TunnelRoute[] = [
   {

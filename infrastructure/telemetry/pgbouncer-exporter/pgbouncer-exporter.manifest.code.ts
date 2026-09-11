@@ -1,7 +1,7 @@
 import {
   pgbouncerExporterDeploymentYaml,
   pgbouncerExporterServiceYaml,
-} from "./modules/manifests/pgbouncer-exporter-manifests.module.code.ts"
+} from "akasha/infrastructure/telemetry/pgbouncer-exporter/modules/manifests/pgbouncer-exporter-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

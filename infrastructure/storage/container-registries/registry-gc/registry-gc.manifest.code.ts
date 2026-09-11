@@ -6,7 +6,7 @@ import {
   MANAGED_BY,
   NAMESPACE,
   PART_OF,
-} from "../registry-constants/registry-constants.module.code.ts"
+} from "akasha/infrastructure/storage/container-registries/registry-constants/registry-constants.module.code.ts"
 
 const GC_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"
 

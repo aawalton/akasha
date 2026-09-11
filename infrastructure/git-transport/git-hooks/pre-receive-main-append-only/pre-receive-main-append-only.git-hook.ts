@@ -1,4 +1,4 @@
-import type { GitHook } from "../git-hook.page-type.types.ts"
+import type { GitHook } from "akasha/infrastructure/git-transport/git-hooks/git-hook.page-type.types.ts"
 
 export const preReceiveMainAppendOnly = {
   id: "01a06816-2f11-729c-b258-50cbded51bb9",

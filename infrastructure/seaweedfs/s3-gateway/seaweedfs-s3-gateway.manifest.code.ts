@@ -5,8 +5,8 @@ import {
   NAMESPACE,
   S3_GATEWAY_HTTP_PORT,
   selectorLabels,
-} from "../constants/seaweedfs-constants.module.code.ts"
-import { s3GatewayDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
+import { s3GatewayDeploymentYaml } from "akasha/infrastructure/seaweedfs/deployments/seaweedfs-deployments.module.code.ts"
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service-s3-gateway", {

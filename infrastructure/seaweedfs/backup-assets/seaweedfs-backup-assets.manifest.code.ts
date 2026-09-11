@@ -2,12 +2,12 @@ import {
   backupPvcYaml,
   backupPvYaml,
   COMPONENT_BACKUP,
-} from "../backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/backup-manifests/seaweedfs-backup-manifests.module.code.ts"
 import {
   ASSETS_NAMESPACE,
   backupAssetsCronJobYaml,
-} from "../longtail-assets/seaweedfs-longtail-assets.module.code.ts"
-import { namespaceYaml } from "../namespace/seaweedfs-namespace.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/longtail-assets/seaweedfs-longtail-assets.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/seaweedfs/namespace/seaweedfs-namespace.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

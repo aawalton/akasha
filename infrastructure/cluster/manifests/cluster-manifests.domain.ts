@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const clusterManifests = {
   id: "01a06810-1263-7296-86ac-72d2a283e164",

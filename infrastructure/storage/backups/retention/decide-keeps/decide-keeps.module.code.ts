@@ -4,7 +4,7 @@ import type {
   DecideKeepResult,
   KeepAction,
   KeepDisagreement,
-} from "../keep-decision/keep-decision.module.code.ts"
+} from "akasha/infrastructure/storage/backups/retention/keep-decision/keep-decision.module.code.ts"
 
 const MS_PER_DAY = 86_400_000
 

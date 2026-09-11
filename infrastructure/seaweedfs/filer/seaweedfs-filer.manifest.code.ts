@@ -7,8 +7,8 @@ import {
   METRICS_PORT,
   NAMESPACE,
   selectorLabels,
-} from "../constants/seaweedfs-constants.module.code.ts"
-import { filerDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
+import { filerDeploymentYaml } from "akasha/infrastructure/seaweedfs/deployments/seaweedfs-deployments.module.code.ts"
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service-filer", {

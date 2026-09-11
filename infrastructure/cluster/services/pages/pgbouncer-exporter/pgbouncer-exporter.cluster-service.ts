@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.types.ts"
+import type { ClusterService } from "akasha/infrastructure/cluster/services/cluster-service.page-type.types.ts"
 
 export const pgbouncerExporter = {
   id: "01a06812-2380-7c17-9f68-cd789c803dea",

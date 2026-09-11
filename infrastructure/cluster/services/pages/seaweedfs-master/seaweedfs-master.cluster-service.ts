@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.types.ts"
+import type { ClusterService } from "akasha/infrastructure/cluster/services/cluster-service.page-type.types.ts"
 
 export const seaweedfsMaster = {
   id: "01a06816-68b1-7782-ae24-3afcb9a52746",

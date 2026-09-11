@@ -4,7 +4,7 @@ import {
   PGBOUNCER_EXPORTER_IMAGE,
   PGBOUNCER_EXPORTER_LABELS,
   PGBOUNCER_EXPORTER_SELECTOR_LABELS,
-} from "../../../prometheus-constants/prometheus-constants.module.code.ts"
+} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
 
 export function pgbouncerExporterDeploymentYaml(): string {
   return synthOne(NAMESPACE, "pgbouncer-exporter-deployment", {

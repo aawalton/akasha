@@ -1,6 +1,10 @@
+import {
+  getConfig,
+  k8sFetch,
+  refuse,
+} from "akasha/infrastructure/cluster/api/cluster-fetch/cluster-fetch.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { z } from "zod"
-import { getConfig, k8sFetch, refuse } from "../cluster-fetch/cluster-fetch.module.code.ts"
 
 const NamedItemListSchema = z
   .object({

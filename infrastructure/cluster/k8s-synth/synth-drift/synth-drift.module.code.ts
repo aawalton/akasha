@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import { tryRead } from "../generated-file/generated-file.module.code.ts"
+import { tryRead } from "akasha/infrastructure/cluster/k8s-synth/generated-file/generated-file.module.code.ts"
 
 export function firstDiffLine(actual: string, expected: string): string {
   const actualLines = actual.split("\n")

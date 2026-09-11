@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { ROOT } from "../dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
-import { dockerfileFor } from "../dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
 
 const COPY_AT = "COPY "
 const FROM_FLAG = "--from="

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { copiedIn, inputsFor } from "./image-inputs.module.code.ts"
+import {
+  copiedIn,
+  inputsFor,
+} from "akasha/infrastructure/container-image/image-inputs/image-inputs.module.code.ts"
 
 const SAMPLE = [
   "FROM oven/bun AS build",

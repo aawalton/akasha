@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { dockerfileFor } from "./dockerfile-writing.module.code.ts"
+import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
 
 test("the Dockerfile written for the authenticating proxy runs what its extensions name", () => {
   const written = dockerfileFor("auth-proxy")

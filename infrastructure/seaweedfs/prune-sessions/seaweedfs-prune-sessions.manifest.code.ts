@@ -1,9 +1,9 @@
-import { namespaceYaml } from "../namespace/seaweedfs-namespace.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/seaweedfs/namespace/seaweedfs-namespace.module.code.ts"
 import {
   COMPONENT_PRUNE,
   PRUNE_NAMESPACE,
   pruneSessionsCronJobYaml,
-} from "../prune-manifests/seaweedfs-prune-manifests.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/prune-manifests/seaweedfs-prune-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

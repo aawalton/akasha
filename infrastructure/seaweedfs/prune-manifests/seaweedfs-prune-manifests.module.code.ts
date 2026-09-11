@@ -4,7 +4,7 @@ import {
   ASSETS_BUCKET,
   componentLabels,
   EXPIRING_PREFIXES,
-} from "../constants/seaweedfs-constants.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
 import { rcloneEnv } from "../rclone-env/seaweedfs-rclone-env.module.code.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"

@@ -3,13 +3,13 @@ import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { QUERY_PERF_QUERIES_YAML } from "akasha/infrastructure/telemetry/postgres-exporter/modules/query-perf-queries/query-perf-queries.module.code.ts"
 import {
   NAMESPACE,
   POSTGRES_EXPORTER_IMAGE,
   POSTGRES_EXPORTER_LABELS,
   POSTGRES_EXPORTER_SELECTOR_LABELS,
-} from "../../../prometheus-constants/prometheus-constants.module.code.ts"
-import { QUERY_PERF_QUERIES_YAML } from "../query-perf-queries/query-perf-queries.module.code.ts"
+} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
 
 const POSTGRES_EXPORTER_QUERIES_YAML = `pg_schema_size:
   query: |

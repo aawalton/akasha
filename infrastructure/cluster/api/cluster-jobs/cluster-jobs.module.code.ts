@@ -1,6 +1,10 @@
+import {
+  getConfig,
+  k8sFetch,
+  refuse,
+} from "akasha/infrastructure/cluster/api/cluster-fetch/cluster-fetch.module.code.ts"
+import { listPods } from "akasha/infrastructure/cluster/api/cluster-workloads/cluster-workloads.module.code.ts"
 import { z } from "zod"
-import { getConfig, k8sFetch, refuse } from "../cluster-fetch/cluster-fetch.module.code.ts"
-import { listPods } from "../cluster-workloads/cluster-workloads.module.code.ts"
 
 const JobCreateResponseSchema = z
   .object({

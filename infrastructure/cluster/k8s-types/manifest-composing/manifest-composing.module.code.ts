@@ -1,4 +1,4 @@
-import { namespaceYaml } from "../k8s-namespace/k8s-namespace.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
 
 export function synthNamespaceDeploymentService(
   namespace: string,

@@ -2,7 +2,10 @@ import { describe, expect, test } from "bun:test"
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
-import { ROOT, SERVICES } from "./dockerfile-services.module.code.ts"
+import {
+  ROOT,
+  SERVICES,
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 
 function isDirectory(path: string): boolean {
   return statSync(path, { throwIfNoEntry: false })?.isDirectory() === true

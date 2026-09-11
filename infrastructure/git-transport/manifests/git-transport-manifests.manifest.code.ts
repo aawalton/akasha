@@ -1,13 +1,13 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
-import { deploymentYaml } from "../transport-deployment/transport-deployment.module.code.ts"
+import { deploymentYaml } from "akasha/infrastructure/git-transport/transport-deployment/transport-deployment.module.code.ts"
 import {
   APP_NAME,
   NAMESPACE,
   RESOURCE_LABELS,
   SELECTOR_LABELS,
-} from "../transport-naming/transport-naming.module.code.ts"
+} from "akasha/infrastructure/git-transport/transport-naming/transport-naming.module.code.ts"
 
 function pvYaml(): string {
   return synthOne(NAMESPACE, "data-pv", {

@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
-import { SYNTH_AT, seededWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
+import type { Workload } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
+import {
+  SYNTH_AT,
+  seededWorld,
+} from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   applyOf,
   carries,
@@ -13,7 +16,7 @@ import {
   planFor,
   rolloutOf,
   unfilledIn,
-} from "./workload-deploying.module.code.ts"
+} from "akasha/infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
 
 const WORLD = seededWorld()
 

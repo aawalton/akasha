@@ -14,16 +14,16 @@ import {
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { INIT_BARE_REPO_SCRIPT } from "../bare-repo-init/bare-repo-init.module.code.ts"
+import { INIT_BARE_REPO_SCRIPT } from "akasha/infrastructure/git-transport/bare-repo-init/bare-repo-init.module.code.ts"
 import {
   APP_NAME,
   NAMESPACE,
   RESOURCE_LABELS,
   SELECTOR_LABELS,
-} from "../transport-naming/transport-naming.module.code.ts"
+} from "akasha/infrastructure/git-transport/transport-naming/transport-naming.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const GIT_ACCESS_TOKEN_REF = {
   secretName: "git-transport-secrets",

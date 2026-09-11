@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import type { DockerfileExtensions } from "../dockerfile-extensions/dockerfile-extensions.module.code.ts"
-import { ROOT } from "../dockerfile-services/dockerfile-services.module.code.ts"
+import type { DockerfileExtensions } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 
 export function emitBuilderPreamble(ext: DockerfileExtensions): readonly string[] {
   const lines: string[] = []

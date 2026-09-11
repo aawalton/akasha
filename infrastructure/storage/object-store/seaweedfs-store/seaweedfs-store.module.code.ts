@@ -1,13 +1,13 @@
-import { encodeObjectStoreKey } from "../key/object-store-key.module.code.ts"
+import { encodeObjectStoreKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   MULTIPART_THRESHOLD_BYTES,
   s3PutObjectMultipart,
-} from "../s3-multipart/s3-multipart.module.code.ts"
-import { signS3Request } from "../s3-signing/s3-signing.module.code.ts"
+} from "akasha/infrastructure/storage/object-store/s3-multipart/s3-multipart.module.code.ts"
+import { signS3Request } from "akasha/infrastructure/storage/object-store/s3-signing/s3-signing.module.code.ts"
 import {
   type SeaweedFSConfig,
   seaweedFsConfigFromEnv,
-} from "../seaweedfs-config/seaweedfs-config.module.code.ts"
+} from "akasha/infrastructure/storage/object-store/seaweedfs-config/seaweedfs-config.module.code.ts"
 
 const OBJECT_STORE_TIMEOUT_MS = 120_000
 

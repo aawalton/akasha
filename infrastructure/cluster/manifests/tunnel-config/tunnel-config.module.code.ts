@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { discoverTunnelRoutes } from "../tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
+import { discoverTunnelRoutes } from "akasha/infrastructure/cluster/manifests/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
 
 const HEADER_PATH = join(
   import.meta.dirname,

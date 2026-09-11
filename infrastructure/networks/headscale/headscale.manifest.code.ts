@@ -2,7 +2,12 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cd
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
-import { ApiObject, App, Chart } from "cdk8s"
+import {
+  configmapYaml,
+  litestreamConfigmapYaml,
+  policyConfigmapYaml,
+} from "akasha/infrastructure/networks/headscale/modules/configmaps/headscale-configmaps.module.code.ts"
+import { networkPolicyYaml } from "akasha/infrastructure/networks/headscale/modules/network-policies/headscale-network-policies.module.code.ts"
 import {
   CONTROL_PLANE_LABELS,
   CONTROL_PLANE_SELECTOR_LABELS,
@@ -11,13 +16,8 @@ import {
   NAMESPACE,
   NAMESPACE_LABELS,
   TLS_LABELS,
-} from "../headscale-constants/headscale-constants.module.code.ts"
-import {
-  configmapYaml,
-  litestreamConfigmapYaml,
-  policyConfigmapYaml,
-} from "./modules/configmaps/headscale-configmaps.module.code.ts"
-import { networkPolicyYaml } from "./modules/network-policies/headscale-network-policies.module.code.ts"
+} from "akasha/infrastructure/networks/headscale-constants/headscale-constants.module.code.ts"
+import { ApiObject, App, Chart } from "cdk8s"
 
 const TLS_SECRET_NAME = "headscale-tls"
 const S3_CREDS_SECRET_NAME = "headscale-s3-creds"

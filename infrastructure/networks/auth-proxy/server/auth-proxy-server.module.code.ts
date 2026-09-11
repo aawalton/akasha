@@ -1,17 +1,25 @@
-import type { Server } from "bun"
-
-import { CONFIG } from "../config/auth-proxy-config.module.code.ts"
-import { applyCorsHeaders, buildPreflightResponse } from "../cors/cors.module.code.ts"
-import { passthroughRequest, proxyRequest } from "../proxy/proxy.module.code.ts"
-import { buildStubResponse, fetchOrBadGateway } from "../proxy-core/proxy-core.module.code.ts"
-import { validateSession } from "../session-identity/session-identity.module.code.ts"
+import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/config/auth-proxy-config.module.code.ts"
+import {
+  applyCorsHeaders,
+  buildPreflightResponse,
+} from "akasha/infrastructure/networks/auth-proxy/cors/cors.module.code.ts"
+import {
+  passthroughRequest,
+  proxyRequest,
+} from "akasha/infrastructure/networks/auth-proxy/proxy/proxy.module.code.ts"
+import {
+  buildStubResponse,
+  fetchOrBadGateway,
+} from "akasha/infrastructure/networks/auth-proxy/proxy-core/proxy-core.module.code.ts"
+import { validateSession } from "akasha/infrastructure/networks/auth-proxy/session-identity/session-identity.module.code.ts"
 import {
   buildTargetUrl,
   closeOutbound,
   forwardToOutbound,
   openOutbound,
   type WsBridgeData,
-} from "../ws-bridge/ws-bridge.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/ws-bridge/ws-bridge.module.code.ts"
+import type { Server } from "bun"
 
 async function handler(req: Request, server: Server<WsBridgeData>): Promise<Response | undefined> {
   const url = new URL(req.url)

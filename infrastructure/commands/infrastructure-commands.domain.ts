@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const infrastructureCommands = {
   id: "01a06809-a024-78cb-a37f-ff53624d76bd",

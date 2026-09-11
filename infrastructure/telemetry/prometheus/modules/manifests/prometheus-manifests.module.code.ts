@@ -6,6 +6,7 @@ import {
   capabilitySelector,
   HOSTNAME_KEY,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { PROMETHEUS_YML } from "akasha/infrastructure/telemetry/prometheus/modules/config/prometheus-config.module.code.ts"
 import {
   ALERTMANAGER_IMAGE,
   BUSYBOX_IMAGE,
@@ -13,8 +14,7 @@ import {
   PROMETHEUS_IMAGE,
   PROMETHEUS_LABELS,
   PROMETHEUS_SELECTOR_LABELS,
-} from "../../../prometheus-constants/prometheus-constants.module.code.ts"
-import { PROMETHEUS_YML } from "../config/prometheus-config.module.code.ts"
+} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
 
 const NO_ALERT_RULES = "groups: []\n"
 
