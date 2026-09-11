@@ -29,7 +29,7 @@ export const noRefusedSyntax = {
       statement: "No rule is judged by the body that rule had before the change.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A rule body the change carries is run before anyone has read that body.",
     },
     {
