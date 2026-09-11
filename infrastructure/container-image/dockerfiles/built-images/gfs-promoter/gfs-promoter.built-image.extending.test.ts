@@ -15,12 +15,8 @@ const WRITTEN = "gfs-promoter.built-image.extensions.json"
 
 const OWN = "gfs-promoter.built-image.extending.code.ts"
 
-function committed(): string {
-  return readFileSync(join(HERE, WRITTEN), "utf8")
-}
-
 test("what is written here is what is committed beside this test, byte for byte", () => {
-  expect(extensionsIn(ROOT)).toBe(committed())
+  expect(extensionsIn(ROOT)).toBe(readFileSync(join(HERE, WRITTEN), "utf8"))
 })
 
 test("the module the image runs is a file that is there", () => {

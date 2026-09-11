@@ -15,12 +15,8 @@ const WRITTEN = "mcp-servers.agent-settings.harness-settings.json"
 
 const OWN = "mcp-servers.agent-settings.telling.code.ts"
 
-function committed(): string {
-  return readFileSync(join(HERE, WRITTEN), "utf8")
-}
-
 test("what is written here is what is committed beside this test, byte for byte", () => {
-  expect(settingsIn(ROOT)).toBe(committed())
+  expect(settingsIn(ROOT)).toBe(readFileSync(join(HERE, WRITTEN), "utf8"))
 })
 
 test("the module the harness is told to run is a file that is there", () => {

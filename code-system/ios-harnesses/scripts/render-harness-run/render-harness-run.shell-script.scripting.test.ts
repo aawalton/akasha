@@ -22,12 +22,8 @@ const MOVED = "code-system"
 
 const WIDGET = "-widget"
 
-function committed(): string {
-  return readFileSync(join(HERE, SCRIPT), "utf8")
-}
-
 test("the script written here is the script committed beside this test, byte for byte", () => {
-  expect(scriptIn(ROOT)).toBe(committed())
+  expect(scriptIn(ROOT)).toBe(readFileSync(join(HERE, SCRIPT), "utf8"))
 })
 
 test("the code writing the script spells the folder being moved nowhere", () => {
