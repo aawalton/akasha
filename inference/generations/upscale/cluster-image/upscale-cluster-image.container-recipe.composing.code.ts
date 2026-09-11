@@ -21,7 +21,7 @@ function copying(given: string | Reading, slug: string, into: string): string {
   return `COPY ${from} ${into}`
 }
 
-export function recipeIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     "# cu121 / Ampere (sm_86) sibling of the workstation Containerfile — for the",
     "# self-hosted cluster's idle RTX 3080 Ti (node-06, 12 GB, Ampere sm_86, driver",

@@ -3,8 +3,8 @@ import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
+  bodyIn,
   crateCopiesIn,
-  recipeIn,
 } from "akasha/temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts"
 
 const ROOT = codeRoot()
@@ -39,7 +39,7 @@ function copiedFrom(recipe: string): readonly string[] {
 }
 
 test("the recipe composed here is the recipe committed beside this test, byte for byte", () => {
-  expect(recipeIn(ROOT)).toBe(committed())
+  expect(bodyIn(ROOT)).toBe(committed())
 })
 
 test("the code composing the recipe spells the folder being moved nowhere", () => {
@@ -47,12 +47,12 @@ test("the code composing the recipe spells the folder being moved nowhere", () =
 })
 
 test("every path the recipe copies out of this repository is a file that is there", () => {
-  const gone = copiedFrom(recipeIn(ROOT)).filter((one) => !existsSync(join(ROOT, one)))
+  const gone = copiedFrom(bodyIn(ROOT)).filter((one) => !existsSync(join(ROOT, one)))
   expect(gone).toEqual([])
 })
 
 test("the recipe copies ten paths out of this repository", () => {
-  expect(copiedFrom(recipeIn(ROOT))).toHaveLength(10)
+  expect(copiedFrom(bodyIn(ROOT))).toHaveLength(10)
 })
 
 test("the crate's manifest and build script are copied before any module of that crate", () => {

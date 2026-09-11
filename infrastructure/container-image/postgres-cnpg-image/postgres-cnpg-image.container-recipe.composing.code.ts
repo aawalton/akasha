@@ -1,4 +1,4 @@
-export function recipeIn(): string {
+export function bodyIn(): string {
   const lines = [
     "FROM postgres:18-trixie AS pg-net-builder",
     "ARG PG_NET_VERSION=0.20.2",

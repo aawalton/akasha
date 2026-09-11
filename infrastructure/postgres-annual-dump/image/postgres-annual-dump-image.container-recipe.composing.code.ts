@@ -25,7 +25,7 @@ function copiedIn(
   return relative(context, besideOf(pageOf(given, pageTypeSlug, slug), propertySlug))
 }
 
-export function recipeIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     "FROM postgres:18-alpine",
     "",

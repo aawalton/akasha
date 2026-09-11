@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { dirname } from "node:path"
-import { recipeIn } from "akasha/infrastructure/container-image/postgres-cnpg-image/postgres-cnpg-image.container-recipe.composing.code.ts"
+import { bodyIn } from "akasha/infrastructure/container-image/postgres-cnpg-image/postgres-cnpg-image.container-recipe.composing.code.ts"
 import { committedRecipe } from "akasha/infrastructure/container-image/recipe-proving/recipe-proving.module.code.ts"
 
 const HERE = dirname(import.meta.path)
@@ -21,9 +21,9 @@ function copiedFrom(recipe: string): readonly string[] {
 }
 
 test("the recipe composed here is the recipe committed beside this test, byte for byte", () => {
-  expect(recipeIn()).toBe(committedRecipe(HERE))
+  expect(bodyIn()).toBe(committedRecipe(HERE))
 })
 
 test("the recipe copies no path out of this repository at all", () => {
-  expect(copiedFrom(recipeIn())).toEqual([])
+  expect(copiedFrom(bodyIn())).toEqual([])
 })

@@ -29,7 +29,7 @@ function copying(given: string | Reading, slug: string, into: string): string {
   return `COPY ${from} ${into}`
 }
 
-export function recipeIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     "# cu121 / Pascal (sm_61) voice-inference SERVING image — for the self-hosted",
     "# cluster's idle GTX 1080 Ti (node-02, 11 GB, Pascal sm_61, driver 535 = CUDA",

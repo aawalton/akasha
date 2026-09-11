@@ -279,7 +279,7 @@ function closing(): readonly string[] {
   ]
 }
 
-export function scriptIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [...opening(), ...staging(given, appsIn(given)), ...closing()]
   return `${lines.join("\n")}\n`
 }

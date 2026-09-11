@@ -1,4 +1,4 @@
-export function recipeIn(): string {
+export function bodyIn(): string {
   const lines = [
     "# Reproducible ComfyUI image for CUDA Z-Image serving on the workstation",
     "# RTX 5080 (Blackwell, sm_120, 16 GB). Serves the Tongyi-MAI/Z-Image-Turbo",

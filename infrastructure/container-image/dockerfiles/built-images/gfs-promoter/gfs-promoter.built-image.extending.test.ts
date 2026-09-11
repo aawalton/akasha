@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
-  extensionsIn,
+  bodyIn,
   ranBy,
 } from "akasha/infrastructure/container-image/dockerfiles/built-images/gfs-promoter/gfs-promoter.built-image.extending.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -16,7 +16,7 @@ const WRITTEN = "gfs-promoter.built-image.extensions.json"
 const OWN = "gfs-promoter.built-image.extending.code.ts"
 
 test("what is written here is what is committed beside this test, byte for byte", () => {
-  expect(extensionsIn(ROOT)).toBe(readFileSync(join(HERE, WRITTEN), "utf8"))
+  expect(bodyIn(ROOT)).toBe(readFileSync(join(HERE, WRITTEN), "utf8"))
 })
 
 test("the module the image runs is a file that is there", () => {

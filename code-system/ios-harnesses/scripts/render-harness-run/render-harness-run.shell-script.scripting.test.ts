@@ -3,9 +3,9 @@ import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   appsIn,
+  bodyIn,
   componentSwiftIn,
   harnessSwiftIn,
-  scriptIn,
 } from "akasha/code-system/ios-harnesses/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts"
 import { namedIn } from "akasha/code-system/script-paths/script-paths.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -23,7 +23,7 @@ const MOVED = "code-system"
 const WIDGET = "-widget"
 
 test("the script written here is the script committed beside this test, byte for byte", () => {
-  expect(scriptIn(ROOT)).toBe(readFileSync(join(HERE, SCRIPT), "utf8"))
+  expect(bodyIn(ROOT)).toBe(readFileSync(join(HERE, SCRIPT), "utf8"))
 })
 
 test("the code writing the script spells the folder being moved nowhere", () => {
@@ -31,14 +31,14 @@ test("the code writing the script spells the folder being moved nowhere", () => 
 })
 
 test("every path the script names in this repository is a file that is there", () => {
-  const gone = namedIn(scriptIn(ROOT)).filter((one) => !existsSync(join(ROOT, one)))
+  const gone = namedIn(bodyIn(ROOT)).filter((one) => !existsSync(join(ROOT, one)))
   expect(gone).toEqual([])
 })
 
 test("the script names each app's components, each harness page's Swift and the entry", () => {
   const each = appsIn(ROOT).map((one) => componentSwiftIn(ROOT, `${one}${WIDGET}`).length)
   const said = each.reduce((one, two) => one + two, 0)
-  expect(namedIn(scriptIn(ROOT))).toHaveLength(said + harnessSwiftIn(ROOT).length + 1)
+  expect(namedIn(bodyIn(ROOT))).toHaveLength(said + harnessSwiftIn(ROOT).length + 1)
 })
 
 test("the apps the script draws for are those akasha holds a widget program for", () => {

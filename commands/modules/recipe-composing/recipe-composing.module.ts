@@ -31,7 +31,7 @@ export const recipeComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A group answering to no `recipeIn` function is said rather than refusing.",
+      statement: "A group answering to no `bodyIn` function is said rather than refusing.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ const GROUP = "composing.code"
 
 const HOLDS = "ts"
 
-const COMPOSES = "recipeIn"
+const COMPOSES = "bodyIn"
 
 const WRITTEN = "Containerfile"
 

@@ -14,7 +14,7 @@ export function ranBy(given: string | Reading): string {
   return besideOf(pageOf(given, MODULE, SERVER), CODE)
 }
 
-export function extensionsIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     "{",
     '  "expose_port": 3080,',

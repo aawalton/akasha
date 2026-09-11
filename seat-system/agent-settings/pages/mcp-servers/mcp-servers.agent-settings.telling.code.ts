@@ -22,7 +22,7 @@ export function ranBy(given: string | Reading): string {
   return at
 }
 
-export function settingsIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     "{",
     '  "messages": {',

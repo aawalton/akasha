@@ -21,7 +21,7 @@ function copying(given: string | Reading, slug: string, into: string): string {
   return `COPY ${from} ${into}`
 }
 
-export function recipeIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     "# Reproducible ComfyUI image for Wan 2.2 I2V on the workstation RTX 5080",
     "# (Blackwell, sm_120). Clones at build time at pinned commits, so the build",

@@ -33,7 +33,7 @@ function copying(
   return `COPY ${from} ${into}`
 }
 
-export function recipeIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const lines = [
     '# Headless GPU "ESO rig" SUBSTRATE image — a real X server, a virtual input',
     "# device, and Wine, so a Windows GUI client can run and be DRIVEN on a cluster",

@@ -34,7 +34,7 @@ export function mainSwiftIn(given: string | Reading): string {
   return fileOf(given, valuedAt(given, PROGRAM, DECODING), PROGRAM, MAIN)
 }
 
-export function scriptIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const own = valuedAt(given, SCRIPT, OWN)
   const lines = [
     "#!/usr/bin/env bash",

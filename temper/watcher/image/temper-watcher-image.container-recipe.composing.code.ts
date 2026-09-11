@@ -152,7 +152,7 @@ function finalStage(): readonly string[] {
   ]
 }
 
-export function recipeIn(given: string | Reading): string {
+export function bodyIn(given: string | Reading): string {
   const carrier = fileOf(given, pageOf(given, MODULE, CARRIER), MODULE, CODE)
   const crate = pageOf(given, CRATE, TRAY)
   const icon = fileOf(given, crate, CRATE, ICON)
