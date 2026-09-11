@@ -172,7 +172,7 @@ export function carriedOf(key: string, said: Partial<Carried> = {}): Carried {
   }
 }
 
-function bodied(name: string, held: unknown): string {
+export function bodied(name: string, held: unknown): string {
   return `export const ${name} = ${JSON.stringify(held, null, 2)} as const\n`
 }
 

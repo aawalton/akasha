@@ -1,5 +1,6 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { bodied } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
 import type {
   Doors,
   UsageRead,
@@ -76,10 +77,6 @@ const ACCOUNT_DECLARED: readonly Declared[] = [
 export type Stated = Record<string, unknown>
 
 export type Beside = Record<string, unknown>
-
-function bodied(name: string, held: unknown): string {
-  return `export const ${name} = ${JSON.stringify(held, null, 2)} as const\n`
-}
 
 export function filed(root: string, at: string, text: string): undefined {
   mkdirSync(dirname(join(root, at)), { recursive: true })
