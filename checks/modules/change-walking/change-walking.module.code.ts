@@ -5,6 +5,7 @@ import type {
   Running,
   RunningAsync,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { typeScripted } from "akasha/code-system/file-kind/file-kind.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   pageNamed,
@@ -54,14 +55,6 @@ export type Bounded = Running & Stated
 
 export type BoundedAsync = RunningAsync & Stated
 
-const TS = "ts"
-
-const TSX = "tsx"
-
-const TS_ENDING = `.${TS}`
-
-const TSX_ENDING = `.${TSX}`
-
 const CSS = "css"
 
 const CSS_ENDING = `.${CSS}`
@@ -93,7 +86,7 @@ export const FILES: Selector<Body> = {
 }
 
 export function textNamed(path: string): boolean {
-  return path.endsWith(TS_ENDING) || path.endsWith(TSX_ENDING)
+  return typeScripted(path)
 }
 
 export function styleNamed(path: string): boolean {

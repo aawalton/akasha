@@ -18,6 +18,14 @@ export const fileKind = {
     },
     {
       invariantKind: "departure",
+      statement: "A path ending `.ts` or `.tsx` is TypeScript.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a path is TypeScript is answered from the ending alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name ending `.template` is read as the same name without that ending.",
     },
     {

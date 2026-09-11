@@ -63,6 +63,10 @@ const SOPS_YAML_ENDING = ".sops.yaml"
 
 const TEMPLATE_SUFFIX = ".template"
 
+export function typeScripted(path: string): boolean {
+  return path.endsWith(".ts") || path.endsWith(".tsx")
+}
+
 export const classifyExtension = (relPath: string): FileKind | null => {
   const base = posix.basename(relPath)
   if (isContainerRecipeBasename(base)) return "dockerfile"

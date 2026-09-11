@@ -2,6 +2,7 @@ import type { Replacing } from "akasha/changes/modules/answer/change-answer.modu
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { typeScripted } from "akasha/code-system/file-kind/file-kind.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -16,8 +17,6 @@ const MANIFEST = "package.json"
 const STYLESHEET = "stylesheet"
 
 const STYLES = "styles"
-
-const TS_ENDING = ".ts"
 
 const TSX_ENDING = ".tsx"
 
@@ -53,10 +52,6 @@ function everyIn(change: Change): readonly string[] {
   return [...held].sort()
 }
 
-function typedName(path: string): boolean {
-  return path.endsWith(TS_ENDING) || path.endsWith(TSX_ENDING)
-}
-
 function styledName(path: string): boolean {
   const said = partedIn(path)
   if (said === null || said.pageType !== STYLESHEET) return false
@@ -90,7 +85,7 @@ export function reachedFrom(
     for (const there of edgesIn(body, one, naming)) {
       if (found.has(there) || !known.has(there)) continue
       found.add(there)
-      if (typedName(there)) waiting.push(there)
+      if (typeScripted(there)) waiting.push(there)
     }
   }
   return found
@@ -170,7 +165,7 @@ export function globbedOver(change: Change): Globbed {
     if (css === null || !isEntry(css)) continue
     const app = appFor(at, roots)
     if (app === null) continue
-    const seeds = every.filter((one) => typedName(one) && one.startsWith(`${app}/`))
+    const seeds = every.filter((one) => typeScripted(one) && one.startsWith(`${app}/`))
     const block = blockFor(at, app, reachedFrom(seeds, bodyAt, naming, known))
     const body = bodyWith(css, block)
     if (body === css) continue
@@ -185,7 +180,7 @@ function couldTurn(change: Change): boolean {
   for (const path of change.changed) {
     if (path === MANIFEST || path.endsWith(`/${MANIFEST}`)) return true
     if (styledName(path)) return true
-    if (typedName(path)) return true
+    if (typeScripted(path)) return true
   }
   return false
 }

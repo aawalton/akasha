@@ -1,5 +1,6 @@
 import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { typeScripted } from "akasha/code-system/file-kind/file-kind.module.code.ts"
 import { calledIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import {
   stamped,
@@ -7,10 +8,6 @@ import {
   writtenTo,
 } from "akasha/code-system/typing-keeping/typing-keeping.module.code.ts"
 import ts from "typescript"
-
-const TS = ".ts"
-
-const TSX = ".tsx"
 
 const PACKAGES = "node_modules"
 
@@ -37,7 +34,7 @@ export type Typing = {
 }
 
 export function typed(path: string): boolean {
-  return path.endsWith(TS) || path.endsWith(TSX)
+  return typeScripted(path)
 }
 
 function packaged(rel: string): boolean {
