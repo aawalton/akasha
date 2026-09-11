@@ -50,11 +50,11 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's scope is capped at eight of the machine's cores.",
+      statement: "The scope a launch makes is capped at eight of the machine's cores.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat's scope bounds how many tasks the seat may make.",
+      statement: "That scope bounds how many tasks the seats under it may make.",
     },
     {
       invariantKind: "departure",
@@ -124,6 +124,11 @@ export const seatLaunching = {
     {
       invariantKind: "gap",
       statement: "Nothing here revives a seat whose pane is dead.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A launch onto a tmux server already up makes no scope, so no cap of its own reaches it.",
     },
   ],
 } as const satisfies Module
