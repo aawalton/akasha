@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const bodyScalesOfOpulence = {
   id: "01a0655a-7b7a-7e24-9feb-fb9d5e8db19a",

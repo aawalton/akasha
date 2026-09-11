@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const thickboneBody = {
   id: "01a0655a-7b7b-7964-b265-399593dfbe7d",

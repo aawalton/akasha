@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const theEmptyMind = {
   id: "01a0655a-7b7b-7310-938c-6ecd866de82c",

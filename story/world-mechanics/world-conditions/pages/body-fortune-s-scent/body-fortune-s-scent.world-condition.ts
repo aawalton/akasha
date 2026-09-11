@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const bodyFortuneSScent = {
   id: "01a0655a-7b7a-78ae-8c8a-7377a684be4b",

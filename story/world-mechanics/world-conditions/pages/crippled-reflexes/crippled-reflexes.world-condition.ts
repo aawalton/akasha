@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const crippledReflexes = {
   id: "01a0655a-7b7a-7217-b26c-d67f9d13d4c8",

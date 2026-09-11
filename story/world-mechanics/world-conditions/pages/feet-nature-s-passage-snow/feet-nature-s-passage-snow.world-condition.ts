@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const feetNatureSPassageSnow = {
   id: "01a0655a-7b7b-7ef0-bd6e-b26f07060b51",

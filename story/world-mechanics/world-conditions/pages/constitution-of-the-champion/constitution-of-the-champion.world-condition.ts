@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const constitutionOfTheChampion = {
   id: "01a0655a-7b7a-7dd5-be7b-b8a2d69cd58d",

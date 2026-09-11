@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.types.ts"
+import type { WorldCondition } from "akasha/story/world-mechanics/world-conditions/world-condition.page-type.types.ts"
 
 export const battlefieldOfTheSilent = {
   id: "01a0655a-7b7a-7cb5-8d04-ffd16c662bb4",
