@@ -1,5 +1,5 @@
-import { createSourceFile } from "../../formula-framework/source-file/source-file.module.code.ts"
-import type { FoodOrDrinkTemplate } from "../food-or-drink-source/food-or-drink-source.module.code.ts"
+import type { FoodOrDrinkTemplate } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 
 const DRINK = {
   "markarth-mead": {

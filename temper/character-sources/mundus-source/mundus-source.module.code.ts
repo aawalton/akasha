@@ -1,9 +1,9 @@
 import { calculateDivinesValue } from "akasha/temper/characters-equipment/armor-trait-effects/armor-trait-effects.module.code.ts"
 import type { ArmorItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
-import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import { mapOf } from "../../formula-framework/map-of/map-of.module.code.ts"
-import { createSourceFile } from "../../formula-framework/source-file/source-file.module.code.ts"
+import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import { mapOf } from "akasha/temper/formula-framework/map-of/map-of.module.code.ts"
+import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 
 type MundusMetricEffect = MetricEffect & {
   effectType: "integer" | "fractional-change"

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const foodOrDrinkSource = {
   id: "01a060ea-ac63-7f87-bbe2-20c3ae760481",

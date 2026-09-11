@@ -1,7 +1,7 @@
-import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import { createSourceFile } from "../../formula-framework/source-file/source-file.module.code.ts"
-import { drinks } from "../drink-source/drink-source.module.code.ts"
-import { foods } from "../food-source/food-source.module.code.ts"
+import { drinks } from "akasha/temper/character-sources/drink-source/drink-source.module.code.ts"
+import { foods } from "akasha/temper/character-sources/food-source/food-source.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 
 export interface FoodOrDrinkTemplate extends EffectSourceInterface {
   categoryId: "food-or-drink"
