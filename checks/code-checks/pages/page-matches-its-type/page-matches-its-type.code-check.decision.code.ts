@@ -1,7 +1,6 @@
 import { entryReasonsIn } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import { reasonsIn } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"
-import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { bodyOf, textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -61,10 +60,9 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!pageNamed(path, pageTypes)) continue
-    const bytes = change.after(path)
-    if (bytes === null) continue
-    const given: Body = { root: change.root, path, bytes }
-    const loaded = loadedFrom(bodyOf(given))
+    const text = textIn(change, path)
+    if (text === null) continue
+    const loaded = loadedFrom(text)
     const value = loaded.value
     if (value === null) {
       judged.push({ path, reason: unloadable(loaded.failed) })
