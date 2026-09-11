@@ -26,6 +26,7 @@ export const check = {
     "module/router-app-code",
     "module/check-staging",
     "module/mortal-sparing",
+    "module/audit-verdict",
   ],
   invariants: [
     {
