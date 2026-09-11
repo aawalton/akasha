@@ -1,6 +1,8 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
+  servingStore,
+  storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
@@ -13,7 +15,6 @@ import {
   relayingTo,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
-import { z } from "zod"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
@@ -47,25 +48,15 @@ const SCALE_ROW = {
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [READOUT_ROW] }
 
-const heldEnv = z.string().optional()
-
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
-let heldOrigin: string | undefined
 let tile: Tile
 let carried: Relaying
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as { pageTypeSlug: string }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
-      return Response.json({ rows: [SCALE_ROW] })
-    },
-  })
-  heldOrigin = heldEnv.parse(process.env.PAGES_SERVICE_ORIGIN)
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  store = servingStore((asked) =>
+    asked.pageTypeSlug === "readout" ? ANSWERED.readouts : [SCALE_ROW]
+  )
   server = Bun.serve({
     port: 0,
     fetch(request) {
@@ -84,9 +75,7 @@ beforeAll(() => {
 
 afterAll(() => {
   server.stop()
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 beforeEach(() => {
