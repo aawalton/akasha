@@ -14,6 +14,7 @@ export const temperAddonBuild = {
     "module/addon-metadata-files",
     "module/global-name-dependents",
     "module/consolidation-migrations",
+    "module/addon-compiling",
   ],
   invariants: [
     {
