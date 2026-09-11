@@ -7,7 +7,7 @@ export const clusterServices = {
   slug: "cluster-services",
   propertySlug: "cluster-services",
   definition: "the cluster services running a web app",
-  targetPageType: "page-type/cluster-service",
+  targetPageType: "page-type/service-cluster",
   invariants: [
     {
       invariantKind: "departure",

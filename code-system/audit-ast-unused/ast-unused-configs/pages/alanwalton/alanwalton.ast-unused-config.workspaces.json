@@ -10,7 +10,7 @@
         "react-router.config.ts",
         "vite.config.ts",
         "server.ts",
-        "*.cluster-service.code.attachment.ts"
+        "*.service-cluster.code.attachment.ts"
       ],
       "project": [
         "**/*.{ts,tsx}"
@@ -50,7 +50,7 @@
         "react-router.config.ts",
         "vite.config.ts",
         "server.ts",
-        "*.cluster-service.code.attachment.ts"
+        "*.service-cluster.code.attachment.ts"
       ],
       "project": [
         "**/*.{ts,tsx}"

@@ -9,7 +9,7 @@ export const cluster = {
   parts: [
     "domain/cluster-operations",
     "domain/cluster-manifests",
-    "page-type/cluster-service",
+    "page-type/service-cluster",
     "domain/cluster-provisioning",
     "domain/cluster-api",
     "domain/k8s-synth",

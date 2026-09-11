@@ -1,0 +1,16 @@
+import type { ServiceCluster } from "akasha/services/clusters/service-cluster.page-type.types.ts"
+
+export const gitTransport = {
+  id: "01a06816-2f11-7fe0-b5a2-6c9518d6f0c3",
+  pageTypeSlug: "service-cluster",
+  type: "service-cluster",
+  slug: "git-transport",
+  definition: "what serves the repositories over the network",
+  resourceKind: "Deployment",
+  namespace: "git",
+  resourceName: "git-transport",
+  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  replicas: 1,
+  containerPort: 3000,
+  manifest: "git-transport-manifests",
+} as const satisfies ServiceCluster

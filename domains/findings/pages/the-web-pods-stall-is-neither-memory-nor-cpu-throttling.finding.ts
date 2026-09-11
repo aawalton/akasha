@@ -5,7 +5,7 @@ export const theWebPodsStallIsNeitherMemoryNorCpuThrottling = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-web-pods-stall-is-neither-memory-nor-cpu-throttling",
-  domain: "cluster-service/alanwalton-web",
+  domain: "service-cluster/alanwalton-web",
   claim:
     "The web container is killed for failing liveness every twenty-two to thirty-four minutes, and the two obvious causes are both ruled out by measurement: it is far below its memory ceiling when killed, and it loses two tenths of a percent of its CPU periods to throttling in steady state. Something makes it unresponsive for a full minute, and what that is remains unmeasured.",
   evidence:

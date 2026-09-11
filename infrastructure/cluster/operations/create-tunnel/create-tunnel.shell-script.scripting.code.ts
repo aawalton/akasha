@@ -16,7 +16,7 @@ const SECRET = "secret"
 
 const CREDS = "cloudflared-creds-credentials-json"
 
-const SERVICE = "cluster-service"
+const SERVICE = "service-cluster"
 
 const TUNNEL = "cloudflared"
 

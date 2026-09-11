@@ -1,12 +1,12 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { pathsNamed } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { pathsNamed } from "akasha/services/clusters/web-app-reading/web-app-reading.module.code.ts"
 
 export const WEB_APP = "web-app"
 
 export const IOS_APP = "ios-app"
 
-export const CLUSTER_SERVICE = "cluster-service"
+export const CLUSTER_SERVICE = "service-cluster"
 
 export const WORKSTATION_SERVICE = "service-workstation"
 

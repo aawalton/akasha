@@ -9,11 +9,11 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/deploy-kind-reading/deploy-kind-reading.module.code.ts"
-import { writingUnder } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { writingUnder } from "akasha/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const HOLD = "/var/tmp"
 
@@ -23,7 +23,7 @@ const WEB_APPS_AT = "akasha/service-system/web-apps/pages"
 
 const IOS_PAGES_AT = "akasha:pages/ios-app"
 
-const SERVICES_AT = "akasha/infrastructure/cluster/services/pages"
+const SERVICES_AT = "akasha/services/clusters/pages"
 
 const UNITS_AT = "akasha/services/workstations/pages"
 
@@ -56,9 +56,9 @@ function seededWorld(): World {
   }
   filed(WEB_APPS_AT, "oneWeb", "one-web", "web-app")
   filed(WEB_APPS_AT, "bothApp", "both-app", "web-app")
-  filed(SERVICES_AT, "oneService", "one-service", "cluster-service")
-  filed(SERVICES_AT, "oneWebService", "one-web", "cluster-service")
-  filed(SERVICES_AT, "bothWays", "both-ways", "cluster-service")
+  filed(SERVICES_AT, "oneService", "one-service", "service-cluster")
+  filed(SERVICES_AT, "oneWebService", "one-web", "service-cluster")
+  filed(SERVICES_AT, "bothWays", "both-ways", "service-cluster")
   filed(UNITS_AT, "oneUnit", "one-unit", "service-workstation")
   return {
     root,
@@ -126,7 +126,7 @@ test("a slug only a cluster service page carries is answered as a cluster servic
   const read = kindNamed(WORLD.root, "one-service", ios)
   expect(read).toEqual({
     kind: CLUSTER_SERVICE,
-    pagePath: `${SERVICES_AT}/one-service.cluster-service.ts`,
+    pagePath: `${SERVICES_AT}/one-service.service-cluster.ts`,
   })
 })
 
@@ -149,7 +149,7 @@ test("a slug an ios app and a cluster service both carry is refused rather than 
   const why = (read as { refused: string }).refused
   expect(why).toContain("unsettled")
   expect(why).toContain(`${IOS_PAGES_AT}/both-ways-ios.ios-app.md`)
-  expect(why).toContain(`${SERVICES_AT}/both-ways.cluster-service.ts`)
+  expect(why).toContain(`${SERVICES_AT}/both-ways.service-cluster.ts`)
 })
 
 test("ios app pages that will not read refuse the call rather than answering that there are none", () => {

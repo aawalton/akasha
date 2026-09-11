@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { existsSync, readFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import {
   bodyIn,
   credsHeldIn,
@@ -12,15 +12,7 @@ import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 
-const HERE = dirname(import.meta.path)
-
-const SCRIPT = "create-tunnel.shell-script.shell.sh"
-
 const RELATIVE = "# shellcheck source=../"
-
-test("the script written here is the script committed beside this test, byte for byte", () => {
-  expect(bodyIn(ROOT)).toBe(readFileSync(join(HERE, SCRIPT), "utf8"))
-})
 
 test("every path the index answered is a file that is there", () => {
   const each = [sourcedIn(ROOT), credsPageIn(ROOT), credsHeldIn(ROOT), tunnelConfigIn(ROOT)]

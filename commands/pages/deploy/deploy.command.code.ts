@@ -22,7 +22,7 @@ import { putUpWebApp } from "akasha/commands/pages/deploy/deploy-web-putting-up/
 import {
   appliedWorkload,
   servableNamed,
-} from "akasha/infrastructure/cluster/services/workload-applying/workload-applying.module.code.ts"
+} from "akasha/services/clusters/workload-applying/workload-applying.module.code.ts"
 import { putUpService } from "akasha/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
 const INPUT = 1

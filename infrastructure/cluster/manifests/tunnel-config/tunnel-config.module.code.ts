@@ -4,7 +4,7 @@ import { discoverTunnelRoutes } from "akasha/infrastructure/cluster/manifests/tu
 
 const HEADER_PATH = join(
   import.meta.dirname,
-  "../../services/pages/cloudflared/cloudflared.cluster-service.config.yaml"
+  "../../../../services/clusters/pages/cloudflared/cloudflared.service-cluster.config.yaml"
 )
 
 const CONFIG_KEY = "config.yaml"

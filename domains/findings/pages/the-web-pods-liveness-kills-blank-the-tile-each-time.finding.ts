@@ -5,7 +5,7 @@ export const theWebPodsLivenessKillsBlankTheTileEachTime = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-web-pods-liveness-kills-blank-the-tile-each-time",
-  domain: "cluster-service/alanwalton-web",
+  domain: "service-cluster/alanwalton-web",
   claim:
     "Alan's web container goes unresponsive every so often, fails its liveness probe, and is killed and restarted — five times in three hours. Because a relayed reading is held only in that process's memory, every kill throws the reading away and the tile draws nothing until the next relay tick, up to five and a half minutes later. The restarts and the memory-only hold are each defensible alone; together they are a tile that goes dark on a schedule nobody chose.",
   evidence:

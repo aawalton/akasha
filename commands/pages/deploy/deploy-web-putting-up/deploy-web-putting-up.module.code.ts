@@ -14,8 +14,8 @@ import {
   livePod,
   type Resolved,
   resolveBuildEnv,
-} from "akasha/infrastructure/cluster/services/web-app-building/web-app-building.module.code.ts"
-import { deployableNamed } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
+} from "akasha/services/clusters/web-app-building/web-app-building.module.code.ts"
+import { deployableNamed } from "akasha/services/clusters/web-app-reading/web-app-reading.module.code.ts"
 import {
   appliedOf,
   planFor,
@@ -23,7 +23,7 @@ import {
   unfilledOf,
   upAlready,
   writeManifests,
-} from "akasha/infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
+} from "akasha/services/clusters/workload-deploying/workload-deploying.module.code.ts"
 
 const DATA = 2
 const OPERATIONAL = 3
