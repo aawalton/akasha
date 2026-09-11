@@ -10,15 +10,13 @@ export const containerRecipe = {
   parts: [
     "file-property/recipe",
     "module-property-group/composing",
-    "text-property/recipe-context",
-    "text-property/image-repository",
+    "text-property/recipe-repository",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/recipe", required: true, many: false },
     { pageProperty: "module-property-group/composing", required: false, many: false },
-    { pageProperty: "text-property/recipe-context", required: false, many: false },
-    { pageProperty: "text-property/image-repository", required: false, many: false },
+    { pageProperty: "text-property/recipe-repository", required: false, many: false },
   ],
   invariants: [
     {
@@ -42,9 +40,10 @@ export const containerRecipe = {
       statement: "The folder a build is handed is the package the recipe sits in.",
     },
     {
-      invariantKind: "absence",
-      statement: "A recipe says nothing about where its image is pushed.",
+      invariantKind: "departure",
+      statement: "A recipe whose image is pushed names the repository it is pushed to.",
     },
+    { invariantKind: "absence", statement: "A recipe nothing pushes names no repository." },
   ],
   types: "ts",
 } as const satisfies PageType

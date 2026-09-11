@@ -41,4 +41,5 @@ export const esoRigImage = {
       statement: "The builder has no card and no injected driver.",
     },
   ],
+  repository: "cluster/eso-rig",
 } as const satisfies ContainerRecipe

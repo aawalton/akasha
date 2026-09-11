@@ -7,4 +7,5 @@ export const upscaleClusterImage = {
   slug: "upscale-cluster-image",
   definition: "the image an upscale benchmark runs from on a Pascal card",
   recipe: "dockerfile",
+  repository: "cluster/upscale-cu121",
 } as const satisfies ContainerRecipe

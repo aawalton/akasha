@@ -7,4 +7,5 @@ export const voiceInferImage = {
   slug: "voice-infer-image",
   definition: "the image a voice service runs from on a Pascal card",
   recipe: "dockerfile",
+  repository: "cluster/voice-infer-cu121",
 } as const satisfies ContainerRecipe
