@@ -10,13 +10,7 @@ export const clientEnvDefine = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The guard a config names as a plugin refuses a build rather than the loading of that config.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "Every config reaches this guard as a plugin rather than spreading it into its defines.",
+      statement: "The guard refuses a build rather than the loading of a config.",
     },
   ],
 } as const satisfies Module

@@ -5,8 +5,6 @@ const REQUIRED_KEYS = ["VITE_SUPABASE_URL", "VITE_SUPABASE_ANON_KEY"] as const
 
 const REQUIRED_SCHEMA = z.string().min(1)
 
-export type SupabaseClientEnvDefine = Record<string, string>
-
 function refuseUnsetClientEnv(): undefined {
   for (const key of REQUIRED_KEYS) {
     if (!REQUIRED_SCHEMA.safeParse(process.env[key]).success) {
@@ -15,11 +13,6 @@ function refuseUnsetClientEnv(): undefined {
       )
     }
   }
-}
-
-export function supabaseClientEnvDefine(): SupabaseClientEnvDefine {
-  refuseUnsetClientEnv()
-  return {}
 }
 
 export function supabaseClientEnvGuard(): Plugin {
