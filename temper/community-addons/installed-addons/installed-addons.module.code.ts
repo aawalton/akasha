@@ -1,8 +1,8 @@
 import { readdir, readFile, stat } from "node:fs/promises"
 import { join } from "node:path"
+import type { InstalledAddon } from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
-import type { InstalledAddon } from "../addon-update-plan/addon-update-plan.module.code.ts"
 
 const VERSION_LINE = /^##\s*Version:\s*(.+)$/im
 

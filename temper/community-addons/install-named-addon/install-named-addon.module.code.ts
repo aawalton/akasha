@@ -3,10 +3,13 @@ import {
   InputError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { downloadAndInstall } from "../addon-download/addon-download.module.code.ts"
-import { findCatalogEntryByName } from "../addon-update-plan/addon-update-plan.module.code.ts"
-import { fetchCatalog, fetchFileDetails } from "../esoui-catalog/esoui-catalog.module.code.ts"
-import { readInstalledAddons } from "../installed-addons/installed-addons.module.code.ts"
+import { downloadAndInstall } from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
+import { findCatalogEntryByName } from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
+import {
+  fetchCatalog,
+  fetchFileDetails,
+} from "akasha/temper/community-addons/esoui-catalog/esoui-catalog.module.code.ts"
+import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 
 export type InstallByNameOpts = {
   readonly addonsPath: string

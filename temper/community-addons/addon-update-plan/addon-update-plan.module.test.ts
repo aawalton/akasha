@@ -8,7 +8,7 @@ import {
   selectTargets,
   unknownOnlyDirs,
   versionsMatch,
-} from "./addon-update-plan.module.code.ts"
+} from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
 
 const CATALOG: readonly CatalogEntry[] = [
   { uid: "1", name: "LibGPS", version: "7.0", dirs: ["LibGPS"] },
