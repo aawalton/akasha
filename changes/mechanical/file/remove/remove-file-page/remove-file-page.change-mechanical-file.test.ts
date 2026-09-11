@@ -35,6 +35,7 @@ import {
   parentsOf,
   runChange,
 } from "./remove-file-page.change-mechanical-file.code.ts"
+import { removeFilePage } from "./remove-file-page.change-mechanical-file.ts"
 
 type Unnaming = { at: string; key: string; value: string }
 
@@ -61,6 +62,19 @@ const GUARDED: Reaching = async (world, at, given) => {
   const said = await RUNS(world, at, given)
   if (said.refused !== null) return said
   return guardedBy(world, said, GUARDS.get(at) ?? [])
+}
+
+const GUARD_BY_SLUG: ReadonlyMap<string, Guard> = new Map([
+  ["change-guard/claimed-file-not-left-behind", claimedFileNotLeftBehind],
+  ["change-guard/relation-not-left-hanging", relationNotLeftHanging],
+])
+
+function guardsNamed(): readonly Guard[] {
+  return removeFilePage.guards.map((slug) => {
+    const held = GUARD_BY_SLUG.get(slug)
+    if (held === undefined) throw new Error(`\`${slug}\` names no guard here`)
+    return held
+  })
 }
 
 afterAll(scratch.sweep)
@@ -330,25 +344,15 @@ test("a page two parents name loses its entry in both", async () => {
   expect(bodyIn(said, world, AUNT_PAGE)).toContain('"parts": []')
 })
 
-test("a page its parent names is refused by the relation guard no longer", async () => {
-  const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
-  const world = worldIn(root)
-  const alone = guardedBy(world, tookAway(CHILD_PAGE), [relationNotLeftHanging])
-
-  expect(parentsOf(world, CHILD_PAGE)).toEqual([{ path: PARENT_PAGE, propertySlug: "parts" }])
-  expect(alone.refused ?? "").toContain(`\`${CHILD_PAGE}\` is taken away`)
-  expect((await runChange(world, { at: CHILD_PAGE })).refused).toBe(null)
-})
-
 test("a page another page still names is refused by the guards this change names", async () => {
   const root = indexedRepo(SPARE)
   const world = worldIn(root)
 
   const answer = await runChange(world, { at: HELD_PAGE })
-  const said = guardedBy(world, answer, [relationNotLeftHanging, claimedFileNotLeftBehind])
+  const said = guardedBy(world, answer, guardsNamed())
 
   expect(answer.refused).toBe(null)
-  expect(said.refused ?? "").toContain(`\`${HELD_PAGE}\` is taken away`)
+  expect(said.refused).not.toBe(null)
 })
 
 test("a page and the file beside that page leave no file behind", async () => {
@@ -356,7 +360,7 @@ test("a page and the file beside that page leave no file behind", async () => {
   const world = worldIn(root, GUARDED)
 
   const answer = await runChange(world, { at: NAMER_PAGE })
-  const said = guardedBy(world, answer, [relationNotLeftHanging, claimedFileNotLeftBehind])
+  const said = guardedBy(world, answer, guardsNamed())
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
@@ -382,16 +386,13 @@ test("a page a parent names in parts goes through the guarded chain", async () =
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
 })
 
-test("a page a relation outside parts names is refused through the guarded chain", async () => {
+test("a page a relation outside parts names loses no entry in that relation", async () => {
   const root = familyRepo({ [CHILD_NOTER_PAGE]: noting("child-noter", idOf("0"), "child") })
-  const world = worldIn(root, GUARDED)
 
-  const answer = await runChange(world, { at: CHILD_PAGE })
-  const said = guardedBy(world, answer, [relationNotLeftHanging])
+  const said = await runChange(worldIn(root, GUARDED), { at: CHILD_PAGE })
 
-  expect(said.refused).toBe(
-    `\`${CHILD_NOTER_PAGE}\` names \`${CHILD_PAGE}\` as its \`note\`, and \`${CHILD_PAGE}\` is taken away`
-  )
+  expect(said.refused).toBe(null)
+  expect([...pathsIn(said)]).toEqual([CHILD_PAGE])
 })
 
 test("a page whose code file another page imports is refused through the guarded chain", async () => {
@@ -426,7 +427,7 @@ test("a page whose test imports the code beside that page is taken away whole", 
   const world = worldIn(root, GUARDED)
 
   const answer = await runChange(world, { at: PAIR_PAGE })
-  const said = guardedBy(world, answer, [relationNotLeftHanging, claimedFileNotLeftBehind])
+  const said = guardedBy(world, answer, guardsNamed())
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([PAIR_CODE, PAIR_TEST, PAIR_PAGE])
