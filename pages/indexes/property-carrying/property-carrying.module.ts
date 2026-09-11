@@ -209,5 +209,14 @@ export const propertyCarrying = {
       invariantKind: "gap",
       statement: "Nothing judges that a group's code writes the file the property names.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a group writes the file at a path is answered from that path's name alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer holds for a path no folder the index knows sits above.",
+    },
   ],
 } as const satisfies Module

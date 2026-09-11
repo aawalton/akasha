@@ -416,6 +416,18 @@ export function writerAt(given: Facing, path: string): string | null {
   }
 }
 
+export function groupWrites(given: Facing, path: string): boolean {
+  try {
+    const said = partedIn(path)
+    if (said === null) return false
+    const sectioned = sectionedIn(said)
+    if (sectioned === null) return false
+    return derivedFor(given).writers.has(sectionKey(said.pageType, sectioned.propertySlug))
+  } catch {
+    return false
+  }
+}
+
 export function namingUnder(given: Kinded): readonly Naming[] {
   const found: Naming[] = []
   for (const kind of given.kindsUnder(FILE_PROPERTY)) {
