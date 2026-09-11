@@ -16,6 +16,10 @@ export const cloudflared = {
     },
     {
       invariantKind: "departure",
+      statement: "The key hashed from the cloudflared-creds secret is credentials.json.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The pod template carries the hash of the cloudflared-config configmap.",
     },
   ],
