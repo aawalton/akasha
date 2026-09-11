@@ -43,4 +43,5 @@ export const lines = {
     },
   ],
   types: "ts",
+  appendOnly: true,
 } as const satisfies FileProperty
