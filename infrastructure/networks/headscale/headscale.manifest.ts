@@ -28,5 +28,9 @@ export const headscale = {
       invariantKind: "departure",
       statement: "A renewal rolls the pod.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the headscale-s3-creds secret.",
+    },
   ],
 } as const satisfies Manifest
