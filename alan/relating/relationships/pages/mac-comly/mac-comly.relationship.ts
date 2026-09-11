@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const macComly = {
   id: "019db533-f382-7f1e-b2bc-c614428a2f97",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "mac-comly",
   title: "Mac Comly",

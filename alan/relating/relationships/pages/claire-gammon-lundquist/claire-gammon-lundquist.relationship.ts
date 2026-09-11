@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const claireGammonLundquist = {
   id: "019db533-f384-7adf-9138-9f9d67bfca9d",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "claire-gammon-lundquist",
   title: "Claire Gammon Lundquist",

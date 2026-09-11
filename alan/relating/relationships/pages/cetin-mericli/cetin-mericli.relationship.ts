@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const cetinMericli = {
   id: "019db533-f383-741d-b948-9dcc9bbd1a39",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "cetin-mericli",
   title: "Çetin Meriçli",

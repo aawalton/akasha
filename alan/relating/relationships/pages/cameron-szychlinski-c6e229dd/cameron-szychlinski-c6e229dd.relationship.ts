@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const cameronSzychlinskiC6e229dd = {
   id: "019db533-f383-7d3f-ac8e-71edc6e229dd",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "cameron-szychlinski-c6e229dd",
   title: "Cameron Szychlinski",

@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const bodieCurrier = {
   id: "019db533-f383-7652-8ed5-9f6971f681b7",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "bodie-currier",
   title: "Bodie Currier",

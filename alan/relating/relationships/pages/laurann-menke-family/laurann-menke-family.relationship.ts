@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const laurannMenkeFamily = {
   id: "019db533-f382-7701-8716-4877671274d9",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "laurann-menke-family",
   title: "Laurann Menke + Family",

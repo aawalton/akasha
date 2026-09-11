@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const wilburWalton = {
   id: "019db533-f382-784e-b6a5-e46e91bf7522",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "wilbur-walton",
   title: "Wilbur Walton",

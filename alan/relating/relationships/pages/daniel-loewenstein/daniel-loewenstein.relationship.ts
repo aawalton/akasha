@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const danielLoewenstein = {
   id: "019db533-f383-72f9-b478-e435932ef799",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "daniel-loewenstein",
   title: "Daniel Loewenstein",

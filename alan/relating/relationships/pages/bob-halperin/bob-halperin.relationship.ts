@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const bobHalperin = {
   id: "019db533-f384-7a0e-a2ff-e6f9c4cba52d",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "bob-halperin",
   title: "Bob Halperin",

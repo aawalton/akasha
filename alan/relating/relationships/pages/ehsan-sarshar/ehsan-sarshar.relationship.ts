@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const ehsanSarshar = {
   id: "019db533-f383-73ee-900f-90b3cf9bf7b9",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "ehsan-sarshar",
   title: "Ehsan Sarshar",

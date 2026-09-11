@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const wouterDeBres = {
   id: "019db533-f384-71a8-a943-902a6ccd157e",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "wouter-de-bres",
   title: "Wouter De Bres",

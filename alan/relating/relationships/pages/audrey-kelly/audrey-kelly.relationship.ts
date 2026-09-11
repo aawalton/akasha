@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const audreyKelly = {
   id: "019db533-f383-7197-83e7-54648608476d",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "audrey-kelly",
   title: "Audrey Kelly",

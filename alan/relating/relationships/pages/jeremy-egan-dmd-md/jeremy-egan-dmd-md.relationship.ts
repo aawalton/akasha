@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const jeremyEganDmdMd = {
   id: "019db533-f382-7da2-8820-a94fef2d717b",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "jeremy-egan-dmd-md",
   title: "Jeremy Egan, Dmd, Md",

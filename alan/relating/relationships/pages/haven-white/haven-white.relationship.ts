@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const havenWhite = {
   id: "019db533-f383-78ad-ab62-70961d388af1",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "haven-white",
   title: "Haven White",

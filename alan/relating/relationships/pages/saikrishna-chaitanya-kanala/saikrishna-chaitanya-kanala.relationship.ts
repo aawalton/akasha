@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const saikrishnaChaitanyaKanala = {
   id: "019db533-f382-7e41-a83c-8a7e4f393fe8",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "saikrishna-chaitanya-kanala",
   title: "Saikrishna Chaitanya Kanala",

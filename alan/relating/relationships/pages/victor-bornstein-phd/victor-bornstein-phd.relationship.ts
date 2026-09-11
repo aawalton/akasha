@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const victorBornsteinPhd = {
   id: "019db533-f383-72cb-95aa-b86f271e860a",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "victor-bornstein-phd",
   title: "Victor Bornstein, Phd",

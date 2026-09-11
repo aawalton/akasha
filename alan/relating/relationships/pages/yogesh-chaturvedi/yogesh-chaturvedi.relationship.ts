@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const yogeshChaturvedi = {
   id: "019db533-f383-70d7-8d5d-1136a748507c",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "yogesh-chaturvedi",
   title: "Yogesh Chaturvedi",

@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const denisEvangelista = {
   id: "019db533-f383-7363-a351-809de4a4eae4",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "denis-evangelista",
   title: "Denis Evangelista",

@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const laytonShumway = {
   id: "019db533-f384-71ed-8b62-19f8fe074228",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "layton-shumway",
   title: "Layton Shumway",

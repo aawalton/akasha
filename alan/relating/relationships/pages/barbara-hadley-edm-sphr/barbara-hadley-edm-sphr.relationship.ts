@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const barbaraHadleyEdmSphr = {
   id: "019db533-f384-788c-b5f7-5d0c3a734b0c",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "barbara-hadley-edm-sphr",
   title: "Barbara Hadley, Edm, Sphr",

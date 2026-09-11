@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const diogoMyrrha = {
   id: "019db533-f382-7686-8553-9b887d47b1f6",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "diogo-myrrha",
   title: "Diogo Myrrha",

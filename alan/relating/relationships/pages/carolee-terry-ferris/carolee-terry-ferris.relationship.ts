@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const caroleeTerryFerris = {
   id: "019db533-f385-703b-bdde-f338a8ec5b63",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "carolee-terry-ferris",
   title: "Carolee + Terry Ferris",

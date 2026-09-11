@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const brianSchermerhorn = {
   id: "019db533-f384-780b-acb4-e840f1d33e65",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "brian-schermerhorn",
   title: "Brian Schermerhorn",

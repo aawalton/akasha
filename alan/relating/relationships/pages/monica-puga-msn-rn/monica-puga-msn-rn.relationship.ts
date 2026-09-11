@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const monicaPugaMsnRn = {
   id: "019db533-f382-7fff-9d59-0aecd83608d2",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "monica-puga-msn-rn",
   title: "Monica Puga, Msn, Rn",

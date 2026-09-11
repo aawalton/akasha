@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const claireFauquier = {
   id: "019db533-f384-708f-91d4-bb7bbc8ecc89",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "claire-fauquier",
   title: "Claire Fauquier",

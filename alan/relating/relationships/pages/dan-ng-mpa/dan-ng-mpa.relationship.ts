@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const danNgMpa = {
   id: "019db533-f383-7a9b-971a-4991fd712e12",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "dan-ng-mpa",
   title: "Dan Ng, Mpa",

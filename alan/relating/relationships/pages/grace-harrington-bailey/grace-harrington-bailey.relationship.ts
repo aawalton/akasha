@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const graceHarringtonBailey = {
   id: "019db533-f383-70c0-a06f-b94f552bcb7b",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "grace-harrington-bailey",
   title: "Grace Harrington-bailey",

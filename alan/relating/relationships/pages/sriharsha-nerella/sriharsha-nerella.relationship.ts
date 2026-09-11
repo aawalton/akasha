@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const sriharshaNerella = {
   id: "019db533-f384-75d6-8846-d4a5daa2882d",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "sriharsha-nerella",
   title: "Sriharsha Nerella",

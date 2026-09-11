@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const rickLiebling = {
   id: "019db533-f382-7ae7-be3d-9832266e38ef",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "rick-liebling",
   title: "Rick Liebling",

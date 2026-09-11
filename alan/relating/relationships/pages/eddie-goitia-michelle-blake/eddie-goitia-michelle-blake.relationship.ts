@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const eddieGoitiaMichelleBlake = {
   id: "019db533-f382-7978-b0cc-a77d337c9faf",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "eddie-goitia-michelle-blake",
   title: "Eddie Goitia + Michelle Blake",

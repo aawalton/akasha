@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const kristinKikiDemidovich = {
   id: "019db533-f383-706c-bf95-112c16410824",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "kristin-kiki-demidovich",
   title: "Kristin Kiki Demidovich",

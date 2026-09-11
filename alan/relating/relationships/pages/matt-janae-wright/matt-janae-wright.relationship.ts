@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const mattJanaeWright = {
   id: "019db533-f382-7920-97d9-50f63ff10d4a",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "matt-janae-wright",
   title: "Matt + Janae Wright",

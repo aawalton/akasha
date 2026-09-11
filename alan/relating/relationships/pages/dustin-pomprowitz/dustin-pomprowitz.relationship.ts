@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const dustinPomprowitz = {
   id: "019db533-f383-7172-ab89-26d7a36a3170",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "dustin-pomprowitz",
   title: "Dustin Pomprowitz",

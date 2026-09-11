@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const karlaAngelMft = {
   id: "019db533-f384-714a-a345-f99ae98437bf",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "karla-angel-mft",
   title: "Karla Angel, Mft",

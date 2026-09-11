@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const brandyGottbeard = {
   id: "019db533-f382-778d-915d-fb4d42091138",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "brandy-gottbeard",
   title: "Brandy + Gottbeard",

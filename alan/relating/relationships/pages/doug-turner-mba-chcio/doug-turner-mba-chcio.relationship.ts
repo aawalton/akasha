@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const dougTurnerMbaChcio = {
   id: "019db533-f384-783c-ac7f-c5ea02b968a9",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "doug-turner-mba-chcio",
   title: "Doug Turner Mba, Chcio",

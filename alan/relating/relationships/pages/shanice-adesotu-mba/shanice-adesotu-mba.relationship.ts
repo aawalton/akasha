@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const shaniceAdesotuMba = {
   id: "019db533-f383-7047-a899-3f3f1ab6d8c0",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "shanice-adesotu-mba",
   title: "Shanice Adesotu, Mba",

@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const joeMcguire = {
   id: "019db533-f383-71d0-a43d-a26dd00dc389",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "joe-mcguire",
   title: "Joe Mcguire",

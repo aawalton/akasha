@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const kevinThornbergMba = {
   id: "019db533-f384-729b-bb84-c5e71ca686c7",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "kevin-thornberg-mba",
   title: "Kevin Thornberg, Mba",

@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const monteMarshall = {
   id: "019db533-f383-7ef6-9358-bdadb5070201",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "monte-marshall",
   title: "Monte Marshall",

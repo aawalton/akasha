@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const peterHedengren = {
   id: "019db533-f384-7ba0-bfc9-dbd9fb1fd434",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "peter-hedengren",
   title: "Peter Hedengren",

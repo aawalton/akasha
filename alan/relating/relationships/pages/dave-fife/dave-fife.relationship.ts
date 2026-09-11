@@ -2,7 +2,6 @@ import type { Relationship } from "akasha/alan/relating/relationships/relationsh
 
 export const daveFife = {
   id: "019db533-f384-7925-b5d6-269ae8706619",
-  pageTypeSlug: "relationship",
   type: "relationship",
   slug: "dave-fife",
   title: "Dave Fife",
