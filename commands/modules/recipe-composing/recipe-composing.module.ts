@@ -65,5 +65,13 @@ export const recipeComposing = {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A group the change itself writes is said rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group runs off the checkout rather than off the change.",
+    },
   ],
 } as const satisfies Module

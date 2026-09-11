@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
-        "`infrastructure-workload-apply` is deleted and `infrastructure service install` with it, both folded into the deploy. Left for a phone: `akasha ios-app build`, which installs on a simulator, and `akasha mobile deploy device`, which installs to a phone plugged into the mac off `origin/main` rather than off what this checkout is at. Two engines sharing no code with the deploy's. Left for an image: three shell scripts running buildctl by hand, and 7 built-image pages a dead generator writes.\n",
+        "`infrastructure-workload-apply`, `infrastructure service install` and the three shell scripts running buildctl by hand are all deleted. A container recipe now names the repository its image is pushed to, `akasha deploy <recipe-slug>` builds and pushes it, and eso-rig, voice-infer and upscale-cu121 each went up that way. Left for a phone: `akasha ios-app build`, onto a simulator, and `akasha mobile deploy device`, onto a plugged-in phone off `origin/main` rather than off this checkout.",
     },
   ],
   constraints: [

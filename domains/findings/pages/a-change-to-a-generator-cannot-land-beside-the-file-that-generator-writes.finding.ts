@@ -1,0 +1,13 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const aChangeToAGeneratorCannotLandBesideTheFileThatGeneratorWrites = {
+  id: "01a08dfd-2a4d-798e-a026-98515dd78249",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "a-change-to-a-generator-cannot-land-beside-the-file-that-generator-writes",
+  domain: "domain/change",
+  claim:
+    "A landing runs a generator off the checkout, so a change writing the generator's own code composes from the code as committed rather than from the code the change leaves. `codeAt` in `pages/shadow/shadow.module.code.ts` answers the committed path holding the same bytes, and answers null where the bytes are new, which is every change to a generator. The runner in `commands/modules/recipe-composing/recipe-composing.module.code.ts` passes that recipe over, and `typesFor` in `commands/modules/type-generating/type-generating.module.code.ts` does the same for a type generator. The generated file therefore lands one commit behind its generator, and a check proving the two match byte for byte refuses the landing that would mend them, so the pair can never land at all.",
+  evidence:
+    "Nine container recipes carry a `composing` module-property-group and a `.composing.test.ts` asserting `recipeIn(ROOT)` equals the Containerfile committed beside it. Changing two words of a comment in `infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.code.ts` and in `inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.code.ts` refused the landing on 2026-09-10: both tests failed under the overlay, each diff showing the composed line against the committed one. A probe calling `recipesFor` over a change carrying only the new group body answered no edits and nothing said, because `shadow.codeAt(beside)` answered null. The Containerfile cannot be edited by hand either: `recipe.file-property.ts` states `generated: true`, and `withheld` in `changes/modules/shadow/change-shadow.module.code.ts` drops a replace on such a path from the answer while carrying it onto the world, so a hand edit is kept as nothing. The two comments were put back and the rest of the change landed as c72cc158cb3a. The runner now says the recipe is composed on the next landing rather than passing it over, which names the gap and does not close it. Closing it wants the generator run off the change's bodies, and the mount in `code-system/test-overlay/test-overlay.module.code.ts` already makes such a tree, at the cost of a user namespace and a subprocess on every landing.",
+} as const satisfies Finding

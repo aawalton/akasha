@@ -85,7 +85,16 @@ export function composedOver(
     if (beside === null) continue
     if (change.after(beside) === null) continue
     const at = shadow.codeAt(beside)
-    if (at === null) continue
+    if (at === null) {
+      said.push(
+        "`" +
+          slug +
+          "` keeps a composing group this change writes, and a group is run off the checkout, so `" +
+          recipeAt(listed.path) +
+          "` is composed again on the next landing rather than this one"
+      )
+      continue
+    }
     const reached = reaching(change.root, at)
     if ("missing" in reached) {
       said.push(
@@ -130,7 +139,8 @@ export function recipesFor(change: Change): Composed {
   try {
     if (!couldCompose(change)) return NOTHING_COMPOSED
     const cast = shadowFor(change)
-    if ("refused" in cast) return NOTHING_COMPOSED
+    if ("refused" in cast)
+      return { edits: [], said: ["no recipe was composed again — " + cast.refused] }
     return composedOver(change, cast.shadow, cast.reading)
   } catch (thrown) {
     return {
