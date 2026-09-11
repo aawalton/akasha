@@ -198,11 +198,14 @@ export function refusedOf(ran: Ran, named: readonly string[], first: string): Ju
   }
 }
 
+const NESTED =
+  "no test ran: this landing was made from inside a test run, which `AKASHA_TESTS_RUNNING` says is going, so the tests beside the files this change carries were not run and nothing says whether they pass."
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  if (alreadyRunning()) return []
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
+  if (alreadyRunning()) return [{ path: first, reason: NESTED }]
   const bodies = bodiesOf(change, shadow)
   if (measuring())
     return [{ path: first, reason: spentlyOf(spentOver(change.root, named, bodies)) }]

@@ -203,7 +203,7 @@ test("a change is judged by the body it proposes, not the one standing on disk",
   ).toEqual([])
 })
 
-test("a run already inside a run judges nothing and lets the outer one answer", () => {
+test("a landing made from inside a run is refused for having run no test", () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": FAILS,
@@ -211,7 +211,10 @@ test("a run already inside a run judges nothing and lets the outer one answer", 
   const held = process.env[RUNNING]
   process.env[RUNNING] = "1"
   try {
-    expect(refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))).toEqual([])
+    const said = refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+    expect(said.length).toBe(1)
+    expect(said[0]?.path).toBe("akasha/one.module.test.ts")
+    expect(said[0]?.reason).toContain("no test ran")
   } finally {
     if (held === undefined) delete process.env[RUNNING]
     else process.env[RUNNING] = held
