@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
+import { scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
 import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { typecheck } from "./typecheck.code-check.audit.code.ts"
-import { breaking, numbered, scratch } from "./typecheck.code-check.decision.test-fixtures.ts"
+import { breaking, numbered } from "./typecheck.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

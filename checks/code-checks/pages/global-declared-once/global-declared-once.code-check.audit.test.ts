@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { said as git } from "../../../../git/running/git-running.module.code.ts"
-import { scratch, staged } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
+import { scratch, staged } from "../../../modules/check-staging/check-staging.module.code.ts"
 import { globalDeclaredOnce } from "./global-declared-once.code-check.audit.code.ts"
 
 afterAll(scratch.sweep)

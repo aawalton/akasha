@@ -8,13 +8,13 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   change,
   scratch,
   staged,
-} from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
+} from "../../../modules/check-staging/check-staging.module.code.ts"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { globalDeclaredOnce, readingIn } from "./global-declared-once.code-check.check.code.ts"
 
 afterAll(scratch.sweep)

@@ -1,13 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
+import { change, scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
 import { typecheck } from "./typecheck.code-check.check.code.ts"
-import {
-  change,
-  numbered,
-  ONE_NUMBER,
-  scratch,
-  TWO_BREAKS,
-} from "./typecheck.code-check.decision.test-fixtures.ts"
+import { numbered, ONE_NUMBER, TWO_BREAKS } from "./typecheck.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

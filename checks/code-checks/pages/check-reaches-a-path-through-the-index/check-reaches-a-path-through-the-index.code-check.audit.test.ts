@@ -7,8 +7,8 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { scratch, staged } from "../../../modules/check-staging/check-staging.module.code.ts"
 import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { scratch, staged } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import { checkReachesAPathThroughTheIndex } from "./check-reaches-a-path-through-the-index.code-check.audit.code.ts"
 
 afterAll(scratch.sweep)

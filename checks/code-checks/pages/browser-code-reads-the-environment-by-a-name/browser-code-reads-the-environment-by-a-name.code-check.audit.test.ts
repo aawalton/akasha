@@ -4,7 +4,7 @@ import {
   pathFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratch, staged } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
+import { scratch, staged } from "../../../modules/check-staging/check-staging.module.code.ts"
 import {
   askingAt,
   browserCodeReadsTheEnvironmentByAName,

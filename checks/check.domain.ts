@@ -26,6 +26,7 @@ export const check = {
     "module/audit-reading",
     "module/check-measuring",
     "module/router-app-code",
+    "module/check-staging",
   ],
   invariants: [
     {

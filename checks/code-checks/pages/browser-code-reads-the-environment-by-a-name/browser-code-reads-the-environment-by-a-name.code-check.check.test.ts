@@ -9,7 +9,7 @@ import {
   change,
   scratch,
   staged,
-} from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
+} from "../../../modules/check-staging/check-staging.module.code.ts"
 import {
   askingIn,
   browserCodeReadsTheEnvironmentByAName,
