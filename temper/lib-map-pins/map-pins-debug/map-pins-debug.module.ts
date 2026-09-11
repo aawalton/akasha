@@ -6,18 +6,4 @@ export const mapPinsDebug = {
   slug: "map-pins-debug",
   definition: "the log lines the map pin library writes",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A table already printed is named rather than printed again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An info line goes to the chat window where no log viewer is loaded.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line other than info is written only while logging is on.",
-    },
-  ],
 } as const satisfies Module

@@ -1,3 +1,5 @@
+import type { LogType } from "akasha/temper/addon-log/addon-log/addon-log.module.code.ts"
+
 export interface LmpPinData {
   pinTypeString?: string
   filterTooltipCreator?: ((this: void) => string) | undefined
@@ -198,7 +200,7 @@ export interface Lib {
   MyPosition: (
     this: Lib
   ) => LuaMultiReturn<[x: number, y: number, zone: string, subzone: string, mapName: string]>
-  dm: (this: Lib, logType: string, ...args: unknown[]) => void
+  dm: (this: Lib, logType: LogType, ...args: unknown[]) => void
 
   OnMapChanged: (this: void) => void
 }

@@ -10,7 +10,6 @@ export type PinTypeId = number | undefined
 export type LmpMapPin = LmpMapPinClass
 export type HookPin = LmpHookPin
 export type ColorTuple = [number, number, number, number]
-export type TableKey = AnyNotNil
 export type FilterPanel = ResolvedFilterPanel
 export type GrayscaleFn = (this: void, pin: unknown) => unknown
 export type FilterTooltipFn = (this: void) => string
