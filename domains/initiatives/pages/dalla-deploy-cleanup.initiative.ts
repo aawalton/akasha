@@ -38,7 +38,12 @@ export const dallaDeployCleanup = {
       statement:
         "A deploy is built from a tree pinned at the commit rather than from the working checkout.",
       workingMemory:
-        "A git worktree pinned at the commit shares the object store, so this costs a checkout of the tree rather than a clone. The tree is the commit, so the gate refusing a worktree that differs never fires. The worktree is taken away once the deploy is done.",
+        "A git worktree pinned at the commit shares the object store, so this costs a checkout of the tree rather than a clone. The tree is the commit, so the gate refusing a worktree that differs never fires. A tree an artifact is built from is taken away once the deploy is done, and the one a workstation service runs from is kept.",
+    },
+    {
+      statement: "A workstation service runs from a checkout that only its own deploy moves.",
+      workingMemory:
+        "The wrapper stops following files and restarting on a change, so nothing unjudged reaches a running service. The deploy moves that checkout to the commit and restarts the unit, the way a web app's pod is moved by the sync container in it.",
     },
   ],
   constraints: [
