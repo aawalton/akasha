@@ -1,8 +1,6 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   alreadyRunning,
   BATCH,
@@ -19,8 +17,17 @@ import {
   testsBesideOf,
   testsUnder,
   verdictOf,
-} from "./code-tests.module.code.ts"
-import { BURNS, FAILS, MARKED, NEEDS, PASSES, SETS } from "./code-tests.module.test-fixtures.ts"
+} from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import {
+  BURNS,
+  FAILS,
+  MARKED,
+  NEEDS,
+  PASSES,
+  SETS,
+} from "akasha/code-system/code-tests/code-tests.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const scratch = scratchWorld()
 

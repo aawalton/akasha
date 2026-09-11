@@ -1,5 +1,11 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { test as testFile } from "akasha/code-system/modules/properties/test.code-file-property.ts"
+import {
+  type Bodies,
+  mountedOver,
+  type Overlay,
+} from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
 import {
   AKASHA,
   repos,
@@ -10,8 +16,6 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Said } from "akasha/utils/run/running/running.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { test as testFile } from "../modules/properties/test.code-file-property.ts"
-import { type Bodies, mountedOver, type Overlay } from "../test-overlay/test-overlay.module.code.ts"
 
 const TS = ".ts"
 

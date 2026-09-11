@@ -1,4 +1,4 @@
-import { RUNNING } from "./code-tests.module.code.ts"
+import { RUNNING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
