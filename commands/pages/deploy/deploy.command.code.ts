@@ -73,6 +73,7 @@ export const PINNED: ReadonlySet<string> = new Set([
   WORKSTATION_SERVICE,
   INFERENCE_SERVICE,
   CONTAINER_RECIPE,
+  CLUSTER_SERVICE,
 ])
 
 export interface RefNamed {
@@ -141,7 +142,7 @@ export async function putUp(
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
-    return appliedWorkload(given.root, slug, servable.servable, dryRun)
+    return appliedWorkload(given.root, slug, servable.servable, dryRun, at)
   }
   const bundle = await publishedBundleFor(given.root, slug, dryRun)
   if (bundle !== null && bundle.refusals.length > 0) {

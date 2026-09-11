@@ -67,5 +67,10 @@ export const workloadApplying = {
       invariantKind: "departure",
       statement: "A dry run says which image would be built and builds none.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The manifests are emitted from the tree pinned at the commit and written to the checkout.",
+    },
   ],
 } as const satisfies Module

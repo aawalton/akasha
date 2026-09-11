@@ -98,7 +98,8 @@ export async function appliedWorkload(
   root: string,
   slug: string,
   servable: Servable,
-  dryRun: boolean
+  dryRun: boolean,
+  codeAt: string
 ): Promise<Applied> {
   const { servicePath, manifestPath, synthPath, workload } = servable
   const report: string[] = [
@@ -108,7 +109,7 @@ export async function appliedWorkload(
     `code\t${synthPath}`,
   ]
 
-  const plan = await planFor(root, workload, synthPath)
+  const plan = await planFor(codeAt, workload, synthPath)
   if (typeof plan === "string") return { report, refusals: [plan], code: DATA }
 
   const left = unfilledOf(plan)
@@ -125,7 +126,8 @@ export async function appliedWorkload(
   try {
     for (const one of await publishedFor(
       plan.manifests.map((manifest) => manifest.yaml),
-      dryRun
+      dryRun,
+      codeAt
     )) {
       const how = one.held ? "in the registry" : one.built ? "built and pushed" : "would be built"
       report.push(`image\t${one.ref}\t${how}`)
