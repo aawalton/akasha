@@ -25,6 +25,16 @@ interface AppShellSidebarProps {
   config: AppNavConfig
 }
 
+function navLinkClass(active: boolean, collapsed: boolean): string {
+  return cn(
+    "group flex w-full cursor-pointer select-none items-center gap-3 rounded-md px-3 py-2 text-left text-sm transition-colors",
+    active
+      ? `font-semibold text-accent ${surfaceClass(2)}`
+      : "text-secondary hover:bg-surface-2 hover:text-primary",
+    collapsed && "justify-center px-0"
+  )
+}
+
 function AppShellSidebar({ config }: AppShellSidebarProps) {
   const pathname = useLayoutPathname()
   const { effectiveIsCollapsed, isForcedCollapsed, isCollapsed, toggleCollapsed } =
@@ -32,14 +42,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
 
   const { primaryItems, bottomSections, brandLabel, footerSlot } = config
 
-  const navLinkClassName = (active: boolean) =>
-    cn(
-      "group flex w-full cursor-pointer select-none items-center gap-3 rounded-md px-3 py-2 text-left text-sm transition-colors",
-      active
-        ? `font-semibold text-accent ${surfaceClass(2)}`
-        : "text-secondary hover:bg-surface-2 hover:text-primary",
-      effectiveIsCollapsed && "justify-center px-0"
-    )
+  const navLinkClassName = (active: boolean) => navLinkClass(active, effectiveIsCollapsed)
 
   function RenderNavItem(item: AppNavItem) {
     const isActive = isNavItemActive(pathname, item)
@@ -319,4 +322,4 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
   )
 }
 
-export { AppShellSidebar }
+export { AppShellSidebar, navLinkClass }
