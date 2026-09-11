@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0272Chapter281AssaultOnCastleBlack = {
   id: "01a0672c-ec14-7001-8453-c6c041a6e9de",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0272-chapter-281-assault-on-castle-black",
   title: "Chapter 281 - Assault on Castle Black",

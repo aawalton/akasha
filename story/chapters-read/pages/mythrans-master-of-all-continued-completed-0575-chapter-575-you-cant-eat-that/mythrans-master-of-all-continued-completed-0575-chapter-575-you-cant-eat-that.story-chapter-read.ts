@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0575Chapter575YouCantEatThat = {
   id: "01a0672c-ed0f-7003-925c-ebdecc1e6f42",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0575-chapter-575-you-cant-eat-that",
   title: "Chapter 575 - You Can't Eat That",

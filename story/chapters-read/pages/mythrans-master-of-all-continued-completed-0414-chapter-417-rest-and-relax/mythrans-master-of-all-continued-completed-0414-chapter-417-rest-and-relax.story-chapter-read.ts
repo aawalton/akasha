@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0414Chapter417RestAndRelax = {
   id: "01a0672c-ec9c-7000-a0b5-b313168bcda9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0414-chapter-417-rest-and-relax",
   title: "Chapter 417 - Rest And Relax",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0713Chapter712LoveAndUnderstanding = {
   id: "01a0672c-ed6f-7000-9f51-61318e5f3989",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0713-chapter-712-love-and-understanding",
   title: "Chapter 712 - Love And Understanding",

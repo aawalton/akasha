@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0255Chapter265GrindingAway = {
   id: "01a0672c-ec04-7001-a701-920933d15760",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0255-chapter-265-grinding-away",
   title: "Chapter 265 - Grinding Away",

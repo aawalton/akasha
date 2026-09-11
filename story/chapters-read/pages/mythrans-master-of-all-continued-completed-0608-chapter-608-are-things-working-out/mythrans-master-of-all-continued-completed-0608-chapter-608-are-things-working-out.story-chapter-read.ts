@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0608Chapter608AreThingsWorkingOut = {
   id: "01a0672c-ed23-7000-b1ca-d8dee9b2e14d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0608-chapter-608-are-things-working-out",
   title: "Chapter 608 - Are Things Working Out?",

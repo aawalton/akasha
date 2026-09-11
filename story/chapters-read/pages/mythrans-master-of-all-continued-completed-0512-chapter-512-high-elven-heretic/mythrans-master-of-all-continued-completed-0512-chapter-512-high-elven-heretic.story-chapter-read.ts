@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0512Chapter512HighElvenHeretic = {
   id: "01a0672c-ecee-7000-b9c9-ccfa204a6a48",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0512-chapter-512-high-elven-heretic",
   title: "Chapter 512 - High Elven Heretic",

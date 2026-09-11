@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const newGam3Plus0013ToRecap = {
   id: "01a06730-4dd4-70ea-9cb1-d7cf3e1aa052",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "new-gam3-plus-0013-to-recap",
   title: "To Recap...",

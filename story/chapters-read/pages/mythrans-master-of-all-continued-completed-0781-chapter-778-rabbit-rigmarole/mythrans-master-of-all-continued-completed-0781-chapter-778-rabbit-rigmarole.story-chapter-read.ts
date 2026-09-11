@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0781Chapter778RabbitRigmarole = {
   id: "01a0672c-eda3-7000-9046-4b2f8f2d2fe4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0781-chapter-778-rabbit-rigmarole",
   title: "Chapter 778 - Rabbit Rigmarole",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0312Chapter320RoyalTreatment = {
   id: "01a0672c-ec3c-7000-841a-bf48ca964cd2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0312-chapter-320-royal-treatment",
   title: "Chapter 320 - Royal Treatment",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0484Chapter484DifferentViews = {
   id: "01a0672c-ecd6-7000-ad62-ff14cece2a56",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0484-chapter-484-different-views",
   title: "Chapter 484 - Different Views",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0716Chapter715ThatsWhatICallADate = {
   id: "01a0672c-ed70-7002-9e0f-580b4d774c04",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0716-chapter-715-thats-what-i-call-a-date",
   title: "Chapter 715 - That's What I Call A Date",

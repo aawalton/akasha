@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0696Chapter695AfterPartyPoolTime = {
   id: "01a0672c-ed60-7000-a139-cd0f206ad7ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0696-chapter-695-after-party-pool-time",
   title: "Chapter 695 - After Party Pool Time",

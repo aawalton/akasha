@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0286Chapter295AHastyRetreat = {
   id: "01a0672c-ec24-7000-9d6a-cb7d22da20ec",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0286-chapter-295-a-hasty-retreat",
   title: "Chapter 295 - A Hasty Retreat",

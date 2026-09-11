@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const passiveAggressiveReversePortalInvasionLitrpg0023ThankYouAllKeepItComing = {
   id: "01a06730-4dcf-7f79-a835-ef4030228e6c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0023-thank-you-all-keep-it-coming",
   title: "Thank you all - keep it coming!!!",

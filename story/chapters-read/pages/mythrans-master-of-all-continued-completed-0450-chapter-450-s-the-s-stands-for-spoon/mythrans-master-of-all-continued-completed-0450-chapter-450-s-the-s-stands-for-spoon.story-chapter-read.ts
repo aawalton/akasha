@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0450Chapter450STheSStandsForSpoon = {
   id: "01a0672c-ecba-7000-90a7-9571ed7f53c2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0450-chapter-450-s-the-s-stands-for-spoon",
   title: "Chapter 450 S - The 'S' Stands For Spoon!",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0681Chapter680GoingForAStroll = {
   id: "01a0672c-ed54-7001-b193-bbe07a9b9fa7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0681-chapter-680-going-for-a-stroll",
   title: "Chapter 680 - Going For A Stroll",

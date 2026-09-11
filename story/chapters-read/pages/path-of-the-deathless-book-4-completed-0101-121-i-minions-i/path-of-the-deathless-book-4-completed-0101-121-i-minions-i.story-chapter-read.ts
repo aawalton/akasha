@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0101121IMinionsI = {
   id: "01a06730-4dfb-7fca-bdad-8b4506bd386f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0101-121-i-minions-i",
   title: "121 (I) Minions [I] ",

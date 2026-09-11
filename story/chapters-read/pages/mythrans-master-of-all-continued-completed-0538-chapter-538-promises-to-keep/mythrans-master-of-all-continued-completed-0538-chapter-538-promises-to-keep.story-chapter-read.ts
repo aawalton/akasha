@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0538Chapter538PromisesToKeep = {
   id: "01a0672c-ecfa-7000-a515-84f9cd1dfbe1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0538-chapter-538-promises-to-keep",
   title: "Chapter 538 - Promises To Keep",

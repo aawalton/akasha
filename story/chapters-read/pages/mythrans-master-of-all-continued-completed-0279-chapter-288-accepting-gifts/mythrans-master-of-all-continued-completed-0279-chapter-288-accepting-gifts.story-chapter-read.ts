@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0279Chapter288AcceptingGifts = {
   id: "01a0672c-ec1d-7000-94a0-82b736d71160",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0279-chapter-288-accepting-gifts",
   title: "Chapter 288 - Accepting Gifts",

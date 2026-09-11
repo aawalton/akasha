@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0392Chapter396DontMakeMeMad = {
   id: "01a0672c-ec86-7001-8e6e-f9245fe31c89",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0392-chapter-396-dont-make-me-mad",
   title: "Chapter 396 - Don't Make Me Mad",

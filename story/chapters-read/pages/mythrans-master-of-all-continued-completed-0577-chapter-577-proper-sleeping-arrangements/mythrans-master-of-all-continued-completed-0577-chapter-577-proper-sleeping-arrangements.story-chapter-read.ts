@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0577Chapter577ProperSleepingArrangements = {
   id: "01a0672c-ed10-7001-b2e4-d63e88625699",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0577-chapter-577-proper-sleeping-arrangements",
   title: "Chapter 577 - Proper Sleeping Arrangements",

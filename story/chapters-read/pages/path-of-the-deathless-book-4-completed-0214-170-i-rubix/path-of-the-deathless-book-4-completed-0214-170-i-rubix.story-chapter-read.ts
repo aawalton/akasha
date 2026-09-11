@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0214170IRubix = {
   id: "01a06730-4e2a-7de7-86e7-d91bff0fa2e9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0214-170-i-rubix",
   title: "170 (I) Rubix",

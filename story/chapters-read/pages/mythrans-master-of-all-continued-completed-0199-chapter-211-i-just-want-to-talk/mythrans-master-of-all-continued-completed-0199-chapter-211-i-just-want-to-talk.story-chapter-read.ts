@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0199Chapter211IJustWantToTalk = {
   id: "01a0672c-ebca-7001-ac09-71f19e955794",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0199-chapter-211-i-just-want-to-talk",
   title: "Chapter 211 - I Just Want To Talk",

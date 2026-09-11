@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed003188IiCompanionsIi = {
   id: "01a06730-4ddf-78d4-9779-1f34e477dbc1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0031-88-ii-companions-ii",
   title: "88 (II) Companions [II] ",

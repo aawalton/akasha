@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0356Chapter363HealingHands = {
   id: "01a0672c-ec63-7001-b14f-1fb566b25b59",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0356-chapter-363-healing-hands",
   title: "Chapter 363 - Healing Hands",

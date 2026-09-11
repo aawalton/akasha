@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0332Chapter339CanWeBuildIt = {
   id: "01a0672c-ec4c-7000-b966-a37b8a121e7e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0332-chapter-339-can-we-build-it",
   title: "Chapter 339 - Can We Build It?",

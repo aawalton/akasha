@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0581Chapter581IllTakeCareOfIt = {
   id: "01a0672c-ed13-7000-83e3-a112e3cf51ab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0581-chapter-581-ill-take-care-of-it",
   title: "Chapter 581 - I'll Take Care Of It",

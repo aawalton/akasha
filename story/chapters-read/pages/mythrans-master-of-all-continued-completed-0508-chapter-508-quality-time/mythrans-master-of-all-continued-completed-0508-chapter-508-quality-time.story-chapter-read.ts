@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0508Chapter508QualityTime = {
   id: "01a0672c-eceb-7000-913d-e011217beacd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0508-chapter-508-quality-time",
   title: "Chapter 508 - Quality Time",

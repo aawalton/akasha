@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0569Chapter569WantsAndNeeds = {
   id: "01a0672c-ed0d-7001-a4b3-a6b148c10811",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0569-chapter-569-wants-and-needs",
   title: "Chapter 569 - Wants And Needs",

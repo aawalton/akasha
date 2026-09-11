@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0537Chapter537HardTruths = {
   id: "01a0672c-ecf9-7001-b119-4c8d4ff7287e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0537-chapter-537-hard-truths",
   title: "Chapter 537 - Hard Truths",

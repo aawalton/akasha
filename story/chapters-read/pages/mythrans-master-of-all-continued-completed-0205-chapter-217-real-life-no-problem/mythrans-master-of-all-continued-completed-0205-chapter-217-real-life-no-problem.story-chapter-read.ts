@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0205Chapter217RealLifeNoProblem = {
   id: "01a0672c-ebd1-7000-b0fa-4d5cff9628b3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0205-chapter-217-real-life-no-problem",
   title: "Chapter 217 - Real Life? No Problem",

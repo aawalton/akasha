@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0423Chapter426SweetNectar = {
   id: "01a0672c-eca2-7000-a4fb-004a0e03ca29",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0423-chapter-426-sweet-nectar",
   title: "Chapter 426 - Sweet Nectar",

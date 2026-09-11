@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0667Chapter666IsThisTheSecretCowLevel = {
   id: "01a0672c-ed4a-7000-80c4-2f4b97ecceda",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0667-chapter-666-is-this-the-secret-cow-level",
   title: "Chapter 666 - Is This The Secret Cow Level?",

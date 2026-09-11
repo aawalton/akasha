@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const passiveAggressiveReversePortalInvasionLitrpg0051Chapter44 = {
   id: "01a06730-4dd8-76eb-9381-a0de94cfeaf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0051-chapter-44",
   title: "Chapter 44",

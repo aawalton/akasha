@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0091159IiGrievanceIi2676793 = {
   id: "01a06730-4df8-74c7-9fb9-3c1fef6f36b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0091-159-ii-grievance-ii-2676793",
   title: "159 (II) Grievance [II]",

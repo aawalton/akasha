@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0571Chapter571AReverseHeist = {
   id: "01a0672c-ed0e-7000-80f6-8168070415e5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0571-chapter-571-a-reverse-heist",
   title: "Chapter 571 - A Reverse Heist",

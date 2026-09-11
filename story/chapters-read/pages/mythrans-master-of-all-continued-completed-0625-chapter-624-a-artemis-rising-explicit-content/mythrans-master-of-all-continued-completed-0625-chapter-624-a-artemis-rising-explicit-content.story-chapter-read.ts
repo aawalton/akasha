@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0625Chapter624AArtemisRisingExplicitContent = {
   id: "01a0672c-ed2c-7001-9667-b422557946c0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0625-chapter-624-a-artemis-rising-explicit-content",
   title: "Chapter 624 A - Artemis Rising (Explicit Content)",

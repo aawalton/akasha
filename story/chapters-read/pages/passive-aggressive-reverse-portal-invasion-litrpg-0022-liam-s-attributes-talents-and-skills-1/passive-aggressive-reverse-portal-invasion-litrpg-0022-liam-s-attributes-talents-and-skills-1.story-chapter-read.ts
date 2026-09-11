@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const passiveAggressiveReversePortalInvasionLitrpg0022LiamSAttributesTalentsAndSkills1 = {
   id: "01a06730-4dcf-7091-971a-953072c1d0fd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0022-liam-s-attributes-talents-and-skills-1",
   title: "Liam’s Attributes, talents and skills 1",

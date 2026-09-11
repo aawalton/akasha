@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0580Chapter580TheFinalEvent = {
   id: "01a0672c-ed12-7000-9721-9886a1702ecb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0580-chapter-580-the-final-event",
   title: "Chapter 580 - The Final Event",

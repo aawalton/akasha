@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0593Chapter593ItGetsMurky = {
   id: "01a0672c-ed19-7001-a3a6-479338299d89",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0593-chapter-593-it-gets-murky",
   title: "Chapter 593 - It Gets Murky",

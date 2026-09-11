@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0363Chapter370GutterBall = {
   id: "01a0672c-ec6e-7000-9aa7-9ecf72f395f1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0363-chapter-370-gutter-ball",
   title: "Chapter 370 - Gutter Ball",

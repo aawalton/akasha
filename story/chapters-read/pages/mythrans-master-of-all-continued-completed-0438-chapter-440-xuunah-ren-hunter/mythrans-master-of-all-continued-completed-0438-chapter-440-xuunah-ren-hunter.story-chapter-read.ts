@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0438Chapter440XuunahRenHunter = {
   id: "01a0672c-ecb0-7000-b344-1e9ae9e8d6cc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0438-chapter-440-xuunah-ren-hunter",
   title: "Chapter 440 - Xuunah, Ren Hunter",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0572Chapter572RuleOfPower = {
   id: "01a0672c-ed0f-7000-a520-ba5025da00db",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0572-chapter-572-rule-of-power",
   title: "Chapter 572 - Rule Of Power",

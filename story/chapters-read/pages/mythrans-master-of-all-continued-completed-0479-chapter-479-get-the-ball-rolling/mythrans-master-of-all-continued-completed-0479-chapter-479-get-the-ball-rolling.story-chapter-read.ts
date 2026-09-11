@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0479Chapter479GetTheBallRolling = {
   id: "01a0672c-ecd2-7001-9084-0deaf335225f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0479-chapter-479-get-the-ball-rolling",
   title: "Chapter 479 - Get The Ball Rolling",

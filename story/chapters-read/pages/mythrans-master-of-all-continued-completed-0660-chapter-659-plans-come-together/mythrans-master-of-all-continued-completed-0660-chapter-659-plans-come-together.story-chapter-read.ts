@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0660Chapter659PlansComeTogether = {
   id: "01a0672c-ed46-7000-b492-a0da0f9475eb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0660-chapter-659-plans-come-together",
   title: "Chapter 659 - Plans Come Together",

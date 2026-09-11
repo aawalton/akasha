@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0343Chapter350FightOrFlight = {
   id: "01a0672c-ec58-7000-88c0-fd344508862d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0343-chapter-350-fight-or-flight",
   title: "Chapter 350 - Fight Or Flight",

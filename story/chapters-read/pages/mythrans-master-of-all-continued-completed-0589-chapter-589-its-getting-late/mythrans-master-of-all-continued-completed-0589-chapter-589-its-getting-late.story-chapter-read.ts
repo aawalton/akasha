@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0589Chapter589ItsGettingLate = {
   id: "01a0672c-ed17-7000-82de-3c12f213563f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0589-chapter-589-its-getting-late",
   title: "Chapter 589 - It's Getting Late",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0081156IOrichalcum2669012 = {
   id: "01a06730-4df3-7b41-b582-75b7d9b8d068",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0081-156-i-orichalcum-2669012",
   title: "156 (I)  Orichalcum",

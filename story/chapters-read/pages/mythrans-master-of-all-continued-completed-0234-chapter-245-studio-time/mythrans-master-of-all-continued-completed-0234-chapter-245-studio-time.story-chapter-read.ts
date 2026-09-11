@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0234Chapter245StudioTime = {
   id: "01a0672c-ebee-7000-ac50-7006714e824d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0234-chapter-245-studio-time",
   title: "Chapter 245 - Studio Time",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0307Chapter315aRedheadFever = {
   id: "01a0672c-ec38-7000-9a87-a2ddde509637",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0307-chapter-315a-redhead-fever",
   title: "Chapter 315A - Redhead Fever",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0738Chapter737PervarianInterests = {
   id: "01a0672c-ed7e-7000-872c-758cca316224",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0738-chapter-737-pervarian-interests",
   title: "Chapter 737 - Pervarian Interests",

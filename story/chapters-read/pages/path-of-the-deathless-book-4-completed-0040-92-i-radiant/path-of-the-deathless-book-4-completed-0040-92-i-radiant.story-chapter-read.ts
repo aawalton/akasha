@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed004092IRadiant = {
   id: "01a06730-4de4-7d6d-b6e8-86be89d272f2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0040-92-i-radiant",
   title: "92 (I) Radiant",

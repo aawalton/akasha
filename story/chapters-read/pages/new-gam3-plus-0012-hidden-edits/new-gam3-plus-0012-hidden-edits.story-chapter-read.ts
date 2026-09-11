@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const newGam3Plus0012HiddenEdits = {
   id: "01a06730-4dd0-799a-b723-9842f4d2e69d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "new-gam3-plus-0012-hidden-edits",
   title: "HIdden Edits",

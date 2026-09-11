@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const mythransMasterOfAllContinuedCompleted0674Chapter673DeepRealizations = {
   id: "01a0672c-ed50-7001-8d46-550fe4eb053a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0674-chapter-673-deep-realizations",
   title: "Chapter 673 - Deep Realizations",
