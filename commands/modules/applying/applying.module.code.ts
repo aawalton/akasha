@@ -1,7 +1,7 @@
 import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { MEASURING } from "akasha/code/code-tests/code-tests.module.code.ts"
+import { MEASURING } from "akasha/code/tests/code-tests.module.code.ts"
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { preparing } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"

@@ -6,8 +6,11 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code/body-text/body-text.module.code.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
-import { specifiersIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
+import { lua50Config } from "akasha/code/lua-runtime-libraries/properties/lua50-config.file-property.ts"
+import { universalConfig } from "akasha/code/lua-runtime-libraries/properties/universal-config.file-property.ts"
+import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { specifiersIn } from "akasha/code/specifier/code-specifier.module.code.ts"
 import {
   compiled,
   directoriesIn,
@@ -17,10 +20,7 @@ import {
   placingOver,
   readingOf,
   servedOf,
-} from "akasha/code/code-typing/code-typing.module.code.ts"
-import { lua50Config } from "akasha/code/lua-runtime-libraries/properties/lua50-config.file-property.ts"
-import { universalConfig } from "akasha/code/lua-runtime-libraries/properties/universal-config.file-property.ts"
-import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
+} from "akasha/code/typing/code-typing.module.code.ts"
 import { reachingInto } from "akasha/graph/asking/graph-asking.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"

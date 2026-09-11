@@ -7,7 +7,7 @@ import {
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { compiled } from "akasha/code/code-typing/code-typing.module.code.ts"
+import { compiled } from "akasha/code/typing/code-typing.module.code.ts"
 
 export function globalDeclaredOnce(root: string): readonly Judged[] {
   const change = everythingIn(root)

@@ -7,7 +7,7 @@ import {
   noScrubBashEnvUndoes,
   saidIn,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-scrub-bash-env-undoes/no-scrub-bash-env-undoes.syntax-rule.code.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 test("a file calling nothing is refused nothing", () => {

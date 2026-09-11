@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { landingOf } from "akasha/code/code-specifier/code-specifier.module.code.ts"
+import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
 import {
   accountIn,
   bodyIn,

@@ -1,7 +1,7 @@
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Ran, Spent } from "akasha/code/code-tests/code-tests.module.code.ts"
-import { RUNNING } from "akasha/code/code-tests/code-tests.module.code.ts"
+import type { Ran, Spent } from "akasha/code/tests/code-tests.module.code.ts"
+import { RUNNING } from "akasha/code/tests/code-tests.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   noPathsFiled,

@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { folderOf } from "akasha/code/code-path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/path-between/code-path-between.module.code.ts"
 import {
   pageOf,
   partedIn,

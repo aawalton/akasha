@@ -7,7 +7,7 @@ import {
   noSopsOnDevStdin,
   spelledIn,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.code.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 test("a file calling nothing is refused nothing", () => {

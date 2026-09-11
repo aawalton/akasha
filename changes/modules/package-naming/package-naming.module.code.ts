@@ -1,5 +1,5 @@
 import type { Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { placedIn } from "akasha/code/code-specifier/code-specifier.module.code.ts"
+import { placedIn } from "akasha/code/specifier/code-specifier.module.code.ts"
 
 const UNDER = "/"
 

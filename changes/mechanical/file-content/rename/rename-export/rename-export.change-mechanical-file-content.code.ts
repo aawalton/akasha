@@ -16,13 +16,13 @@ import {
   exportsNamed,
   reachedFrom,
   referencesOf,
-} from "akasha/code/code-naming/code-naming.module.code.ts"
+} from "akasha/code/naming/code-naming.module.code.ts"
 import {
   type Placing,
   placingOver,
   readingOf,
   typingOver,
-} from "akasha/code/code-typing/code-typing.module.code.ts"
+} from "akasha/code/typing/code-typing.module.code.ts"
 
 export function renameExport(
   root: string,

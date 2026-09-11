@@ -1,4 +1,4 @@
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 export type Spelt = {

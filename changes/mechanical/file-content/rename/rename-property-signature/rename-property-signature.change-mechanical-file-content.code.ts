@@ -10,18 +10,14 @@ import type {
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  declaredNamed,
-  namingOf,
-  spelledAs,
-} from "akasha/code/code-naming/code-naming.module.code.ts"
+import { declaredNamed, namingOf, spelledAs } from "akasha/code/naming/code-naming.module.code.ts"
 import {
   placingOver,
   readingOf,
   type Typing,
   typed,
   typingOver,
-} from "akasha/code/code-typing/code-typing.module.code.ts"
+} from "akasha/code/typing/code-typing.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
 

@@ -1,5 +1,5 @@
 import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { lineOf, literalIn, parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { lineOf, literalIn, parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"

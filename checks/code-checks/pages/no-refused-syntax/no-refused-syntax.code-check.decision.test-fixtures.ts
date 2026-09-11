@@ -3,7 +3,7 @@ import type {
   Given,
   Readers,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"

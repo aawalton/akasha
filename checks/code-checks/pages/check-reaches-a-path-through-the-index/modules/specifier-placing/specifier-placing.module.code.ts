@@ -1,4 +1,4 @@
-import { mocking } from "akasha/code/code-specifier/code-specifier.module.code.ts"
+import { mocking } from "akasha/code/specifier/code-specifier.module.code.ts"
 import ts from "typescript"
 
 const REQUIRING = "createRequire"

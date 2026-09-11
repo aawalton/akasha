@@ -1,7 +1,7 @@
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { linterEnv } from "akasha/code/code-lint/code-lint.module.code.ts"
 import { classifyExtension, type FileKind } from "akasha/code/file-kind/file-kind.module.code.ts"
+import { linterEnv } from "akasha/code/lint/code-lint.module.code.ts"
 import { insideOf } from "akasha/code/test-overlay/test-overlay.module.code.ts"
 import { bytes } from "akasha/utils/run/running/running.module.code.ts"
 

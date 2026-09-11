@@ -5,7 +5,7 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 export type AddTypeMemberAsked = {

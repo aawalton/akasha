@@ -10,7 +10,7 @@ import {
   textsOf,
   valuesIn,
 } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const AT = "one/held.module.ts"

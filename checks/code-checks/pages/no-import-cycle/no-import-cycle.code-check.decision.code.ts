@@ -8,8 +8,8 @@ import {
   erasedExport,
   erasedImport,
   skimmedAs,
-} from "akasha/code/code-source/code-source.module.code.ts"
-import { landingOf } from "akasha/code/code-specifier/code-specifier.module.code.ts"
+} from "akasha/code/source/code-source.module.code.ts"
+import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"

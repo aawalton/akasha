@@ -2,15 +2,15 @@ import { dirname, join, normalize } from "node:path"
 import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
-  erasedExport,
-  erasedImport,
-  skimmedAs,
-} from "akasha/code/code-source/code-source.module.code.ts"
-import { landingOf, type Naming } from "akasha/code/code-specifier/code-specifier.module.code.ts"
-import {
   reachesIn,
   reachingOver,
 } from "akasha/code/package-manifest/package-manifest.module.code.ts"
+import {
+  erasedExport,
+  erasedImport,
+  skimmedAs,
+} from "akasha/code/source/code-source.module.code.ts"
+import { landingOf, type Naming } from "akasha/code/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Carried } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"

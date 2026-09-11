@@ -6,7 +6,7 @@ import type {
   Replacing,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textIn } from "akasha/code/body-text/body-text.module.code.ts"
-import { formattedBody } from "akasha/code/code-format/code-format.module.code.ts"
+import { formattedBody } from "akasha/code/format/code-format.module.code.ts"
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
 import { bodiesFor } from "akasha/commands/modules/group-writing/group-writing.module.code.ts"

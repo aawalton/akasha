@@ -1,6 +1,6 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { typed as typedCode } from "akasha/code/code-typing/code-typing.module.code.ts"
+import { typed as typedCode } from "akasha/code/typing/code-typing.module.code.ts"
 import {
   aProperty,
   aType,

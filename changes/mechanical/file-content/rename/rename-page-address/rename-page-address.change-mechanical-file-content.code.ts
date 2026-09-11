@@ -9,7 +9,7 @@ import type {
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/code-source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const TYPED = /\.tsx?$/

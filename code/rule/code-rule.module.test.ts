@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { speltIn } from "akasha/code/code-rule/code-rule.module.code.ts"
+import { speltIn } from "akasha/code/rule/code-rule.module.code.ts"
 
 const EXPORTED_AS = `export function exportedAs(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
