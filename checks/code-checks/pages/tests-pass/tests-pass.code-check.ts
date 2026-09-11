@@ -202,7 +202,21 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "The output blames a file only where a failure is printed under that file's name.",
+      statement:
+        "The output blames a file only where the runner reported a failure under that file's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The runner reports a failure by a failed test line or an unhandled error line.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An error a test logs is printed just as the runner prints an error.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A header for a file the run did not name takes the blame off the file named before it.",
     },
     {
       invariantKind: "departure",
