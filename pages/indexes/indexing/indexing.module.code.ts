@@ -43,7 +43,7 @@ import {
   settlingOver,
 } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { indexRootsIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import {
   pagesUnder,
   walkedUnder,
@@ -173,16 +173,9 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
 }
 
 export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
-  const [leading, ...also] = indexRootsIn(repo)
-  const swept = sweptBeside(leading, put)
-  const said = rebuiltFrom(tree, leading, repo, put)
-  if (put) {
-    for (const root of also) {
-      sweptBeside(root, put)
-      rebuiltFrom(tree, root, repo, put)
-    }
-  }
-  return { ...said, swept }
+  const root = indexIn(repo)
+  const swept = sweptBeside(root, put)
+  return { ...rebuiltFrom(tree, root, repo, put), swept }
 }
 
 export function filedInto(root: string, filings: readonly Filing[]): undefined {
@@ -190,24 +183,7 @@ export function filedInto(root: string, filings: readonly Filing[]): undefined {
 }
 
 export function keepingIn(repo: string): Indexing {
-  const [first, ...rest] = indexRootsIn(repo)
-  const leading = indexingAt(first, repo)
-  const also = rest.map((root) => indexingAt(root, repo))
-  return {
-    wrote: (path, body, before) => {
-      leading.wrote(path, body, before)
-      for (const one of also) one.wrote(path, body, before)
-    },
-    took: (path, before) => {
-      leading.took(path, before)
-      for (const one of also) one.took(path, before)
-    },
-    settle: () => {
-      const said = leading.settle()
-      for (const one of also) one.settle()
-      return said
-    },
-  }
+  return indexingAt(indexIn(repo), repo)
 }
 
 export function indexingAt(root: string, repo: string): Indexing {

@@ -48,11 +48,7 @@ export const index = {
       invariantKind: "departure",
       statement: "Git does not track `.git/indexes`.",
     },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "Every answer is filed under `.git/data/index` as well, and read from there by nothing.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The index can be written again from the pages alone.",

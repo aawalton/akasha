@@ -8,14 +8,8 @@ const SLASH = "/"
 
 export const INDEX_AT = ".git/indexes"
 
-export const INDEX_WAS_AT = ".git/data/index"
-
 export function indexIn(root: string): string {
   return join(root, INDEX_AT)
-}
-
-export function indexRootsIn(root: string): readonly [string, ...string[]] {
-  return [join(root, INDEX_AT), join(root, INDEX_WAS_AT)]
 }
 
 export function indexAt(indexName: string, ...parts: readonly string[]): string {
