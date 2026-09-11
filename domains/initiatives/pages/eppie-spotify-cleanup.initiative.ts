@@ -18,11 +18,5 @@ export const eppieSpotifyCleanup = {
       workingMemory:
         "`spotify-cache-file` states the folder is `~/.cache/collections-music-spotify`, and it holds the live `token.json`, refreshed 2026-09-11T08:59, beside a `pkce.json` orphaned since 27 August though the handoff is meant to go once the code is exchanged. `collections/` is gone from the checkout and music departed from it. A rename carries the token across or Alan gives consent again, so the move is what makes this cost anything.",
     },
-    {
-      statement:
-        "Every export in the spotify domain is reached by something other than its own test.",
-      workingMemory:
-        "Four are not. `paginateCursor` in `spotify-client` has no caller at all. `RequestOptions.rawContentType` in `spotify-client` is read where a body is built and set by nobody. `removeToken` in `spotify-token-store` is called only by its own test. The three `collections-secrets-spotify-*` secret pages are mounted by no cluster service.",
-    },
   ],
 } as const satisfies Initiative
