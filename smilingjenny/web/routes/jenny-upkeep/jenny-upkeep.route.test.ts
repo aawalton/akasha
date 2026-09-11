@@ -1,9 +1,19 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
+  type AskedOf,
+  colorIn,
+  rowsAsked,
+  type Tile,
+  tileAt,
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
+import {
   dropRelayed,
   RELAY_PATH,
-  relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import {
+  type Relaying,
+  relayingTo,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -70,33 +80,22 @@ const IN_THE_GROUP = [SAFETY_ROW, SURPLUS_ROW, CAPACITY_ROW, SLEEP_ROW]
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: IN_THE_GROUP }
 
-type Asked = {
-  pageTypeSlug: string
-  where?: { slug?: { is?: string }; groups?: { has?: string } }
-}
-
-function readoutsAsked(where: Asked["where"]): readonly Record<string, unknown>[] {
-  const named = where?.slug?.is
-  if (named !== undefined) return ANSWERED.readouts.filter((row) => row.slug === named)
-  const grouped = where?.groups?.has
-  if (grouped === undefined) return ANSWERED.readouts
-  return ANSWERED.readouts.filter(
-    (row) => Array.isArray(row.groups) && (row.groups as readonly string[]).includes(grouped)
-  )
-}
-
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
 let heldOrigin: string | undefined
+let tile: Tile
+let carried: Relaying
+let askedWith: Tile["askedWith"]
+let drawn: Tile["drawn"]
 
 beforeAll(() => {
   store = Bun.serve({
     port: 0,
     fetch: async (request) => {
-      const asked = (await request.json()) as Asked
+      const asked = (await request.json()) as AskedOf
       if (asked.pageTypeSlug === "readout") {
-        return Response.json({ rows: readoutsAsked(asked.where) })
+        return Response.json({ rows: rowsAsked(ANSWERED.readouts, asked.where) })
       }
       if (asked.pageTypeSlug === "readout-group") {
         return Response.json({ rows: [{ slug: GROUP }] })
@@ -117,6 +116,10 @@ beforeAll(() => {
     },
   })
   origin = `http://localhost:${server.port}`
+  tile = tileAt(origin, PATH, GROUP, RING_CREDENTIAL)
+  carried = relayingTo(origin, RELAY_SECRET)
+  askedWith = tile.askedWith
+  drawn = tile.drawn
 })
 
 afterAll(() => {
@@ -131,24 +134,6 @@ beforeEach(() => {
   ANSWERED.readouts = IN_THE_GROUP
 })
 
-type Stoplight = {
-  habit?: string
-  label?: string
-  tier: string
-  reading?: string
-  readingHeld?: string
-  nextTier?: string
-  progress?: number
-}
-
-const tile = (credential: string | null = RING_CREDENTIAL) =>
-  fetch(`${origin}${PATH}`, {
-    headers: credential === null ? {} : { "X-Ring-Credential": credential },
-  })
-
-const carried = (readout: string, value: number, at: Date = new Date()) =>
-  relayReading(origin, RELAY_SECRET, { readout, value, at: at.toISOString() })
-
 const carryNow = async (at: Date = new Date()): Promise<undefined> => {
   await carried(SAFETY, 3, at)
   await carried(SURPLUS, 5, at)
@@ -157,17 +142,10 @@ const carryNow = async (at: Date = new Date()): Promise<undefined> => {
   return undefined
 }
 
-async function drawn(): Promise<readonly Stoplight[]> {
-  const answered = await tile()
-  expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
-  return body.stoplights
-}
-
 test("a caller holding no ring credential is refused", async () => {
   await carryNow()
-  expect((await tile(null)).status).toBe(401)
-  expect((await tile(crypto.randomUUID())).status).toBe(401)
+  expect((await askedWith(null)).status).toBe(401)
+  expect((await askedWith(crypto.randomUUID())).status).toBe(401)
 })
 
 test("the widget's body is a non-empty list under `stoplights`", async () => {
@@ -209,8 +187,8 @@ test("nothing carried in keeps four rings rather than dropping them", async () =
 test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   await carryNow()
   for (const one of await drawn()) {
-    expect(TIERS).toContain(one.tier)
-    if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+    expect(TIERS).toContain(colorIn(one, "tier"))
+    if (one.nextTier !== undefined) expect(TIERS).toContain(colorIn(one, "nextTier"))
   }
 })
 
@@ -281,14 +259,14 @@ test("a machine that starts again holds no reading, and says so rather than losi
 
 test("only a group no readout is left in answers 503", async () => {
   await carryNow()
-  expect((await tile()).status).toBe(200)
+  expect((await tile.answer()).status).toBe(200)
   ANSWERED.readouts = []
-  expect((await tile()).status).toBe(503)
+  expect((await tile.answer()).status).toBe(503)
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow()
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
   dropRelayed()
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })
