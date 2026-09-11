@@ -53,12 +53,12 @@ export const manifestLandsOnAFile = {
       statement: "Whether the file a way in lands on can be parsed is not judged here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A target nested under a condition is judged as a plain target is.",
+      invariantKind: "absence",
+      statement: "A target nested under a condition is no way in this check judges.",
     },
     {
-      invariantKind: "gap",
-      statement: "A file named by `main` or `bin` is judged as a file named by `exports` is.",
+      invariantKind: "absence",
+      statement: "A file named by `main` or `bin` is no way in this check judges.",
     },
   ],
   check: { maxCpuSeconds: 10 },
