@@ -8,6 +8,7 @@ export const monarchDomainFiles = {
   definition: "the account, category, tag and holding pages, composed from Monarch's own rows",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

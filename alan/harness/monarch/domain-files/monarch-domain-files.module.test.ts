@@ -3,8 +3,7 @@ import {
   pageText,
   slugify,
 } from "akasha/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts"
-
-const TYPES_AT = "akasha/alan/harness/monarch/accounts/monarch-account.page-type.types.ts"
+import { TYPES_AT } from "akasha/alan/harness/monarch/domain-files/monarch-domain-files.module.test-fixtures.ts"
 
 const ACCOUNT: Readonly<Record<string, unknown>> = {
   id: "01a06559-5ea7-7001-9e34-1d903a67d968",
