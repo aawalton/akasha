@@ -25,6 +25,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0
@@ -66,10 +67,6 @@ function asOptionalNumber(value: unknown): number | undefined {
   return parseNumber(value)
 }
 
-function asOptionalString(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
-
 export function parseItem(raw: unknown): InventoryItemData | undefined {
   const item = asRecord(raw)
   if (!item) return undefined
@@ -102,8 +99,8 @@ export function parseItem(raw: unknown): InventoryItemData | undefined {
   const setId = asOptionalNumber(item.setId)
   if (setId !== undefined && setId !== 0) parsed.setId = setId
 
-  const furnitureCategory = asOptionalString(item.furnitureCategory)
-  if (furnitureCategory !== undefined) parsed.furnitureCategory = furnitureCategory
+  const furnitureCategory = stringIn(item.furnitureCategory)
+  if (furnitureCategory !== null) parsed.furnitureCategory = furnitureCategory
 
   const furnitureCategoryId = asOptionalNumber(item.furnitureCategoryId)
   if (furnitureCategoryId !== undefined) parsed.furnitureCategoryId = furnitureCategoryId
