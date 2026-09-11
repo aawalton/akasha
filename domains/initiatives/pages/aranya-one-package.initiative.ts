@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "A check refuses a relative path.",
       workingMemory:
-        "The check is built and judges at no phase, which its own invariant calls for until the tree is clean. `akasha audit --check no-relative-specifier` is the meter. Meeting this intent is setting runsOnChange, runsOnWorktree, runsOnDeploy and runsOnAudit true. That waits on one exemption: a `./+types/` specifier is resolved by tsconfig rootDirs and cannot be spelled from the root. The check reads import specifiers alone, so a relative path in a `mock.module` argument goes unjudged.",
+        "The check judges at no phase, which its own invariant holds until the tree is clean. That is a deadlock: thirteen composers rewrite folded files back, so the count cannot reach zero while they run, and the gate that would stop them waits on zero. Mending every composer is the way out. runsOnChange judges what a change carries rather than the tree, so it need not wait on a clean tree. `akasha audit --check no-relative-specifier` is the meter, and a subagent cannot run it.",
     },
     {
       statement: "No file names another file by a relative path.",
