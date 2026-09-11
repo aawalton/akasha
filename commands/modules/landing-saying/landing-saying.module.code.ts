@@ -11,6 +11,7 @@ import {
 import type { Drafted, Landed } from "akasha/commands/modules/landing/landing.module.code.ts"
 import type { Filled } from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export type Saying = (said: Landed) => readonly string[]
 
@@ -32,9 +33,7 @@ export function formattedSaid(paths: readonly string[]): readonly string[] {
 
 export function filledSaid(filled: readonly Filled[]): readonly string[] {
   return filled.map(
-    (one) =>
-      `worked out ${one.keys.map((key) => `\`${key}\``).join(", ")} for ${one.path} as it landed` +
-      ` — ${one.why}`
+    (one) => `worked out ${namesDrawn(one.keys)} for ${one.path} as it landed` + ` — ${one.why}`
   )
 }
 
