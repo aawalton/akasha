@@ -18,4 +18,20 @@ export const mobileSim = {
     "command/mobile-sim-teardown",
     "command/mobile-sim-type",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "One simulator session is open at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command driving the simulator attaches to the session already open rather than opening its own.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "The build a command here installs to a simulator is taken by `akasha deploy --simulator`.",
+    },
+  ],
 } as const satisfies Namespace

@@ -12,4 +12,14 @@ export const mobile = {
     "command/mobile-testflight-status",
     "module/mobile-answering",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A command under this namespace reports the work and mobile-cli does the work.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing under this namespace reaches the mac except through mobile-cli.",
+    },
+  ],
 } as const satisfies Namespace
