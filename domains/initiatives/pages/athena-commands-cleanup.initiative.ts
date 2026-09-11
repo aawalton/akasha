@@ -108,6 +108,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`page-type.page-type.ts:92` already holds a page type's slug to the singular, and `plural-slug.text-property.ts:18-19` gives the plural to a folder alone. The tree is inverted: `email-messages.namespace.ts:8` defines one message under a plural slug and `email-drafts.namespace.ts:8` does the same, while `temper-inventory-rule.namespace.ts:8` defines many rules under a singular one. `temper-inventory-rules` is named by its noun's number rather than by what it does.\n",
     },
+    {
+      statement: "One spelling names one argument, and one argument has one spelling.",
+      workingMemory:
+        "`slug.text-property.ts:11` makes a slug unique within its page type, which does not bind an argument's spelling. Both halves are broken: `--last` is a count at `measure-changes.command.ts:14,16` and true-or-false at `track-session-drop.command.ts:16`; `at` is a wall-clock time in six `track session` commands and a file destination at `browser-test-storage-state.command.ts:19`. The file to act on is `--file-path`, `--file` and `--path`; the checkout is `--code-root` and `--repo-root`.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
