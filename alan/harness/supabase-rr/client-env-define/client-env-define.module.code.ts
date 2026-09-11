@@ -1,3 +1,4 @@
+import type { Plugin } from "vite"
 import { z } from "zod"
 
 const REQUIRED_KEYS = ["VITE_SUPABASE_URL", "VITE_SUPABASE_ANON_KEY"] as const
@@ -6,7 +7,7 @@ const REQUIRED_SCHEMA = z.string().min(1)
 
 export type SupabaseClientEnvDefine = Record<string, string>
 
-export function supabaseClientEnvDefine(): SupabaseClientEnvDefine {
+function refuseUnsetClientEnv(): undefined {
   for (const key of REQUIRED_KEYS) {
     if (!REQUIRED_SCHEMA.safeParse(process.env[key]).success) {
       throw new Error(
@@ -14,5 +15,19 @@ export function supabaseClientEnvDefine(): SupabaseClientEnvDefine {
       )
     }
   }
+}
+
+export function supabaseClientEnvDefine(): SupabaseClientEnvDefine {
+  refuseUnsetClientEnv()
   return {}
+}
+
+export function supabaseClientEnvGuard(): Plugin {
+  return {
+    name: "supabase-client-env-guard",
+    apply: "build",
+    buildStart() {
+      refuseUnsetClientEnv()
+    },
+  }
 }

@@ -7,4 +7,16 @@ export const clientEnvDefine = {
   slug: "client-env-define",
   definition: "the Supabase settings a client bundle reads, guarded rather than inlined",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The guard a config names as a plugin refuses a build rather than the loading of that config.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Every config reaches this guard as a plugin rather than spreading it into its defines.",
+    },
+  ],
 } as const satisfies Module
