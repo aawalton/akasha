@@ -24,7 +24,7 @@ export const TASK = "rg --json needle ."
 
 export const REFUSED =
   "nothing was committed and what was written was put back — another landing has held" +
-  " `.git/akasha-landing.lock` for longer than 120s, so this change was not judged"
+  " `.git/akasha-landing.lock` for longer than 300s, so this change was not judged"
 
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`

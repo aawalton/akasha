@@ -178,7 +178,7 @@ export function heldInHistory(root: string, own: string, agentId: string, kind: 
 export const GOING: Went = { went: true }
 
 export const LOCKED: Went = {
-  why: "another landing has held `.git/akasha-landing.lock` for longer than 120s",
+  why: "another landing has held `.git/akasha-landing.lock` for longer than 300s",
 }
 
 export const MOVED: Went = {

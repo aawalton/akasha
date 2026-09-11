@@ -9,7 +9,7 @@ import {
 
 export const LOCK_AT = ".git/akasha-landing.lock"
 
-export const WAITED_AT_MOST = 120000
+export const WAITED_AT_MOST = 300000
 
 const WAITED = 5
 
