@@ -1,8 +1,8 @@
-import type { PotionsTemplate } from "../potion-source/potion-source.module.code.ts"
-import { POTIONS_CRAFTED_HEALTH } from "../potions-crafted-health/potions-crafted-health.module.code.ts"
-import { POTIONS_CRAFTED_MAGICKA } from "../potions-crafted-magicka/potions-crafted-magicka.module.code.ts"
-import { POTIONS_CRAFTED_OTHER } from "../potions-crafted-other/potions-crafted-other.module.code.ts"
-import { POTIONS_CRAFTED_STAMINA } from "../potions-crafted-stamina/potions-crafted-stamina.module.code.ts"
+import type { PotionsTemplate } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
+import { POTIONS_CRAFTED_HEALTH } from "akasha/temper/alchemy/potions-crafted-health/potions-crafted-health.module.code.ts"
+import { POTIONS_CRAFTED_MAGICKA } from "akasha/temper/alchemy/potions-crafted-magicka/potions-crafted-magicka.module.code.ts"
+import { POTIONS_CRAFTED_OTHER } from "akasha/temper/alchemy/potions-crafted-other/potions-crafted-other.module.code.ts"
+import { POTIONS_CRAFTED_STAMINA } from "akasha/temper/alchemy/potions-crafted-stamina/potions-crafted-stamina.module.code.ts"
 
 const BY_ID = {
   ...POTIONS_CRAFTED_HEALTH,

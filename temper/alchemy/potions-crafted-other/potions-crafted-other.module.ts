@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const potionsCraftedOther = {
   id: "01a06076-1b6b-7580-9989-d061e20a354e",

@@ -1,4 +1,4 @@
-import type { PotionsTemplate } from "../potion-source/potion-source.module.code.ts"
+import type { PotionsTemplate } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 
 export const POTIONS_DROPPED = {
   "essence-of-health": {
