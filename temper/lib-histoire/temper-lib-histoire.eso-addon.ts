@@ -9,6 +9,7 @@ export const temperLibHistoire = {
 
   addonManifest: "json",
   addonImageFolder: true,
+  addonDdsFile: true,
   bundleEntry: "histoire-main",
   parts: [
     "module/histoire-types",

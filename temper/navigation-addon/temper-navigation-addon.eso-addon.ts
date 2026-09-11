@@ -9,6 +9,7 @@ export const temperNavigationAddon = {
     "the add-on that pins the world map and the compass and keeps a minimap on the screen",
 
   addonManifest: "json",
+  addonDdsFile: true,
   bindings: "xml",
   bundleEntry: "navigation-entry",
   parts: [
