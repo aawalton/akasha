@@ -19,7 +19,7 @@ const REASONS_BY = new WeakMap<Shadow, Reasons>()
 function reasonsFor(shadow: Shadow, root: string): Reasons {
   const found = REASONS_BY.get(shadow)
   if (found !== undefined) return found
-  const made = reasonsOf(root)
+  const made = reasonsOf(root, shadow)
   REASONS_BY.set(shadow, made)
   return made
 }

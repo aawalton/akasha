@@ -7,5 +7,6 @@ import {
 } from "./repository-is-written-by-a-change.code-check.decision.code.ts"
 
 export function repositoryIsWrittenByAChange(root: string): readonly Judged[] {
-  return overEveryNamed(root, outsideBy(shadowAt(root)), reasonsOf(root))
+  const shadow = shadowAt(root)
+  return overEveryNamed(root, outsideBy(shadow), reasonsOf(root, shadow))
 }

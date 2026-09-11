@@ -12,7 +12,9 @@ const CHANGE = "change"
 
 const COMMAND = "command"
 
-const ROOT_MODULES = new Set(["checkout-roots", "code-root"])
+const MODULE = "module"
+
+const ANSWERS_ROOT = "answersACheckoutRoot"
 
 const ROOT = "root"
 
@@ -117,7 +119,7 @@ function namedOf(clause: ts.ImportClause): readonly string[] {
   return found
 }
 
-function takenIn(source: ts.SourceFile): Taken {
+function takenIn(source: ts.SourceFile, roots: ReadonlySet<string>): Taken {
   const writes = new Map<string, readonly number[]>()
   const spaces = new Set<string>()
   const rooted = new Set<string>()
@@ -127,7 +129,7 @@ function takenIn(source: ts.SourceFile): Taken {
     const clause = one.importClause
     if (clause === undefined || !ts.isStringLiteral(one.moduleSpecifier)) continue
     const specifier = one.moduleSpecifier.text
-    if (ROOT_MODULES.has(slugOf(specifier))) {
+    if (roots.has(slugOf(specifier))) {
       for (const named of namedOf(clause)) rooted.add(named)
     }
     if (AWAY.has(specifier)) {
@@ -289,9 +291,14 @@ function pointsRoot(node: ts.Node): boolean {
   return ts.isPropertyAccessExpression(node) && node.name.text === ROOT
 }
 
-export function reasonsOver(at: string, text: string, aside: readonly string[]): readonly string[] {
+export function reasonsOver(
+  at: string,
+  text: string,
+  aside: readonly string[],
+  roots: ReadonlySet<string>
+): readonly string[] {
   const source = parsedAs(at, text)
-  const taken = takenIn(source)
+  const taken = takenIn(source, roots)
   const bun = text.includes(BUN_WRITE)
   if (taken.writes.size === 0 && taken.spaces.size === 0 && !bun) return []
   const stated = statedIn(source)
@@ -324,9 +331,23 @@ export function reasonsOver(at: string, text: string, aside: readonly string[]):
   return said
 }
 
-export function reasonsOf(root: string): (at: string, text: string) => readonly string[] {
+export function rootModulesOf(shadow: Shadow): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const value of shadow.index.valuesByPath(MODULE).values()) {
+    if (value[ANSWERS_ROOT] !== true) continue
+    const slug = value.slug
+    if (typeof slug === "string") found.add(slug)
+  }
+  return found
+}
+
+export function reasonsOf(
+  root: string,
+  shadow: Shadow
+): (at: string, text: string) => readonly string[] {
   const aside = asideAt(root)
-  return (at, text) => reasonsOver(at, text, aside)
+  const roots = rootModulesOf(shadow)
+  return (at, text) => reasonsOver(at, text, aside, roots)
 }
 
 function folderOf(shadow: Shadow, slug: string): string {

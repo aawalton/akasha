@@ -163,10 +163,6 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "A root reached through a function of another module is seen.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A descriptor opened for writing is seen.",
     },
     {

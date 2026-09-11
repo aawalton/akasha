@@ -12,8 +12,10 @@ const IGNORED =
 
 const ASIDE = asideIn(IGNORED)
 
+const ROOTED = new Set(["code-root"])
+
 function only(text: string): readonly string[] {
-  return reasonsOver(AT, text, ASIDE)
+  return reasonsOver(AT, text, ASIDE, ROOTED)
 }
 
 test("the names the repository ignores are read with `.git` and without an un-ignoring rule", () => {
@@ -284,4 +286,17 @@ test("each write is named on its own", () => {
         "}\n"
     )
   ).toHaveLength(2)
+})
+
+test("a root taken from any module the index names as answering one is the checkout root", () => {
+  const body =
+    'import { writeFileSync } from "node:fs"\n' +
+    'import { join } from "node:path"\n' +
+    'import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"\n' +
+    "export function one(): void {\n" +
+    '  writeFileSync(join(getRepoRoot(), "a.ts"), "")\n' +
+    "}\n"
+
+  expect(reasonsOver(AT, body, ASIDE, new Set(["repo-root"]))).toHaveLength(1)
+  expect(reasonsOver(AT, body, ASIDE, ROOTED)).toEqual([])
 })
