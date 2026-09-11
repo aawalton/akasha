@@ -7,6 +7,6 @@ export const alanA2884fd453f1ca23f = {
   slug: "alan-a2884fd453f1ca23f",
   principalSeatName: "alan",
   assignmentSlug: "domain/alan",
-  dispatchedAs: "Explore",
   agentId: "01a08dcf-3137-7000-9144-7005efade59e--a2884fd453f1ca23f",
+  dispatchedAs: "Explore",
 } as const satisfies Subagent
