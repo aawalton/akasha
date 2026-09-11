@@ -16,10 +16,12 @@ import {
   PROBE_SLUG,
   QUIET,
   RULE,
+  ruled,
   ruleFiled,
   ruling,
   scratch,
   TEXT,
+  UNPARSED,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import type { Given } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
@@ -122,8 +124,33 @@ test("the readers of page bodies are the names the module pages declare and no o
   expect(found.has("quiet")).toBe(false)
 })
 
-test("a rule whose code no change carries and no disk holds is refused", () => {
+test("a rule whose code no change answers a body for is refused", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
-  expect(() => rulesIn(root, nowhereOnDisk(root))).toThrow(/body no path on disk holds/)
+  expect(() => rulesIn(root, nowhereOnDisk(root))).toThrow(/holding no body/)
+})
+
+test("a rule the tree no longer holds is judged by the body the change answers for", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  ruleFiled(root)
+  const rules = rulesIn(root, shadowAt(root), changing(root, CARRIED, CARRIED))
+  expect(rules).toHaveLength(1)
+  expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
+    "line 1: the body the change carries — `probe`",
+  ])
+})
+
+test("a rule the tree holds another body at is judged by the body the change answers for", () => {
+  const root = ruled("akasha-syntax-rule-")
+  const rules = rulesIn(root, shadowAt(root), changing(root, CARRIED, CARRIED))
+  expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
+    "line 1: the body the change carries — `probe`",
+  ])
+})
+
+test("a rule whose code does not parse refuses the run rather than being run as recovered", () => {
+  const root = ruled("akasha-syntax-rule-")
+  expect(() => rulesIn(root, shadowAt(root), changing(root, CARRIED, UNPARSED))).toThrow(
+    /does not parse/
+  )
 })

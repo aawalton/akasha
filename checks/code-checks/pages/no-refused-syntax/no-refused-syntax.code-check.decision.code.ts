@@ -31,8 +31,6 @@ const MODULE = "module"
 
 const DECLARES = "pageBodyReaders"
 
-const loadFrom = createRequire(import.meta.url)
-
 export type Rule = {
   readonly slug: string
   readonly judge: Judging
@@ -75,14 +73,22 @@ export function compiledFrom(
   const full = join(root, at)
   const held = seen.get(full)
   if (held !== undefined) return held
-  const built = ts.transpileModule(text, {
+  const made = ts.transpileModule(text, {
     fileName: full,
+    reportDiagnostics: true,
     compilerOptions: {
       module: ts.ModuleKind.CommonJS,
       target: ts.ScriptTarget.ESNext,
       esModuleInterop: true,
     },
-  }).outputText
+  })
+  const broke = made.diagnostics?.[0]
+  if (broke !== undefined) {
+    throw new Error(
+      `${at} does not parse — ${ts.flattenDiagnosticMessageText(broke.messageText, " ")}`
+    )
+  }
+  const built = made.outputText
   const holder: { exports: Record<string, unknown> } = { exports: {} }
   seen.set(full, holder.exports)
   const run = new Function(
@@ -103,6 +109,7 @@ export function rulesIn(
   change: Change | null = null
 ): readonly Rule[] {
   const found: Rule[] = []
+  const seen = new Map<string, Record<string, unknown>>()
   for (const one of shadow.index.everyOfType(RULE)) {
     const said = partedIn(one.path)
     if (said === null) {
@@ -115,30 +122,19 @@ export function rulesIn(
         `${one.path} is a syntax rule, and no code file can sit beside a name like it`
       )
     }
-    const codePath = shadow.codeAt(beside)
+    const carried = carriedIn(change, beside)
+    if (carried === null) {
+      throw new Error(
+        `${one.path} is a syntax rule, and this change leaves ${beside} holding no body, so it cannot be loaded to judge by`
+      )
+    }
     let mod: Record<string, unknown>
-    if (codePath === null) {
-      const carried = carriedIn(change, beside)
-      if (carried === null) {
-        throw new Error(
-          `${one.path} is a syntax rule, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
-        )
-      }
-      try {
-        mod = compiledFrom(root, beside, carried, change)
-      } catch (thrown) {
-        throw new Error(
-          `${one.path} is a syntax rule, and the body this change carries at ${beside} could not be loaded — ${saidBy(thrown)}`
-        )
-      }
-    } else {
-      try {
-        mod = loadFrom(join(root, codePath)) as Record<string, unknown>
-      } catch (thrown) {
-        throw new Error(
-          `${one.path} is a syntax rule, and ${codePath} could not be loaded — ${saidBy(thrown)}`
-        )
-      }
+    try {
+      mod = compiledFrom(root, shadow.codeAt(beside) ?? beside, carried, change, seen)
+    } catch (thrown) {
+      throw new Error(
+        `${one.path} is a syntax rule, and the body this change leaves at ${beside} could not be loaded — ${saidBy(thrown)}`
+      )
     }
     const named = mod[exportedAs(slug)]
     if (typeof named !== "function") {

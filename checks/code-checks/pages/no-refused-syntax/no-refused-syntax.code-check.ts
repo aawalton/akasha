@@ -17,7 +17,27 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule that already landed has its code loaded from where its body sits on disk.",
+      statement: "A rule's code is read from the change the check is handed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rule's code is read from the working tree while a change is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the tree no longer holds is judged by the body the change answers for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every rule a run loads is compiled once and held for the rest of that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule's code that does not parse refuses the run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rule is judged by what a recovering parse made of a body.",
     },
     {
       invariantKind: "departure",

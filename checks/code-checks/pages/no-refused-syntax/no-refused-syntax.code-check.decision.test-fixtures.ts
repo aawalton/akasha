@@ -42,6 +42,8 @@ export const CARRIED =
 export const BEFORE =
   'export function probe() {\n  return [{ line: 9, reason: "the body that was there" }]\n}\n'
 
+export const UNPARSED = 'export function probe() {\n  return [{ line: 1, reason: "recovered"\n}\n'
+
 export const QUIET: Rule = { slug: "quiet", judge: () => [] }
 
 export const scratch = scratchWorld()
