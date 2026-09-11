@@ -1,5 +1,4 @@
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"
@@ -7,7 +6,11 @@ import {
   withProperty,
   withValue,
 } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
-import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import {
+  keyFaultIn,
+  keyOf,
+  literalIn,
+} from "../../../../modules/page-literal/page-literal.module.code.ts"
 import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 export type AddPropertyValueAsked = {
@@ -18,8 +21,6 @@ export type AddPropertyValueAsked = {
   readonly single?: boolean
   readonly holds?: string
 }
-
-const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
 const BOOLEAN = "boolean"
 
@@ -35,13 +36,6 @@ export function spelledAs(value: string, holds: string | undefined): string | nu
   if (holds === BOOLEAN) return value === TRUE || value === FALSE ? value : null
   if (holds === NUMBER) return NUMERAL.test(value) ? value : null
   return JSON.stringify(value)
-}
-
-function keyFaultIn(key: string): string | null {
-  if (BARE.test(key)) return null
-  const spelled = exportedAs(key)
-  if (!BARE.test(spelled)) return `\`${key}\` is no key a page spells`
-  return `\`${key}\` is no key a page spells, and \`${spelled}\` is the key that spelling names`
 }
 
 export function addPropertyValue(world: World, given: AddPropertyValueAsked): Said {

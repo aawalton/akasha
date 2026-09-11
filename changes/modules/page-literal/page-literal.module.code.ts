@@ -1,5 +1,19 @@
 import { exported, literalOf } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
+
+const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+export function spelledBare(text: string): boolean {
+  return BARE.test(text)
+}
+
+export function keyFaultIn(key: string): string | null {
+  if (spelledBare(key)) return null
+  const spelled = exportedAs(key)
+  if (!spelledBare(spelled)) return `\`${key}\` is no key a page spells`
+  return `\`${key}\` is no key a page spells, and \`${spelled}\` is the key that spelling names`
+}
 
 export function keyOf(held: ts.PropertyAssignment): string | null {
   const name = held.name

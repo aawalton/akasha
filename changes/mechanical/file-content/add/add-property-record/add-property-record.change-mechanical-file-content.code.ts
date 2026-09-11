@@ -1,10 +1,14 @@
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
 import { withProperty } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
-import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import {
+  keyFaultIn,
+  keyOf,
+  literalIn,
+  spelledBare,
+} from "../../../../modules/page-literal/page-literal.module.code.ts"
 import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const READING = "record.ts"
@@ -25,20 +29,11 @@ export function recordIn(record: string): ts.ObjectLiteralExpression | null {
   return one.getEnd() === source.text.length ? one : null
 }
 
-const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
-
-function keyFaultIn(key: string): string | null {
-  if (BARE.test(key)) return null
-  const spelled = exportedAs(key)
-  if (!BARE.test(spelled)) return `\`${key}\` is no key a page spells`
-  return `\`${key}\` is no key a page spells, and \`${spelled}\` is the key that spelling names`
-}
-
 export function quotedKeyIn(one: ts.ObjectLiteralExpression): string | null {
   for (const each of one.properties) {
     if (!ts.isPropertyAssignment(each)) continue
     const name = each.name
-    if (ts.isStringLiteral(name) && BARE.test(name.text)) {
+    if (ts.isStringLiteral(name) && spelledBare(name.text)) {
       return name.text
     }
     const under = ts.isObjectLiteralExpression(each.initializer)

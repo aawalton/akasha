@@ -23,6 +23,23 @@ export const pageLiteral = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a word is spelled bare is read here rather than by each caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The fault in a key a page cannot spell is worded here rather than by each caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key spelled bare has no fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fault names the key that spelling makes where that spelling is bare.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key stating anything but text is left out of the text answered.",
     },
     {

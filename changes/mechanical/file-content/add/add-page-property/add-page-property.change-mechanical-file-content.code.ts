@@ -1,10 +1,13 @@
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"
 import { withProperty } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
-import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import {
+  keyFaultIn,
+  keyOf,
+  literalIn,
+} from "../../../../modules/page-literal/page-literal.module.code.ts"
 import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 export type AddPagePropertyAsked = {
@@ -39,15 +42,6 @@ export function valueIn(value: string): ts.Expression | null {
   const one = held.declarationList.declarations[0]?.initializer
   if (one === undefined || one.getEnd() !== source.text.length) return null
   return isData(one) ? one : null
-}
-
-const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
-
-function keyFaultIn(key: string): string | null {
-  if (BARE.test(key)) return null
-  const spelled = exportedAs(key)
-  if (!BARE.test(spelled)) return `\`${key}\` is no key a page spells`
-  return `\`${key}\` is no key a page spells, and \`${spelled}\` is the key that spelling names`
 }
 
 export function addPageProperty(world: World, given: AddPagePropertyAsked): Said {
