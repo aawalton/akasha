@@ -6,6 +6,7 @@ export const temperAddonBuild = {
   type: "domain",
   slug: "temper-addon-build",
   definition: "what building temper's ESO addons out of TypeScript needs to know",
+  outputDirectory: true,
   parts: [
     "module/lua-build-command",
     "module/addon-load-order",
