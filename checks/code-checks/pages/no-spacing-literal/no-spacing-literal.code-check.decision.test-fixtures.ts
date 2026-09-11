@@ -14,7 +14,7 @@ export const ROOT = "/repo"
 
 const COMPONENT = "ios-component"
 
-const PAGES_AT = "code-system/ios-components/pages"
+const PAGES_AT = "code/ios-components/pages"
 
 const RING = "ring"
 

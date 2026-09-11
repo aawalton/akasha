@@ -14,7 +14,7 @@ APPDELEGATE="ios/App/App/AppDelegate.swift"
 CONFIG="ios/App/App/capacitor.config.json"
 PB="/usr/libexec/PlistBuddy"
 
-SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-components/pages"
+SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/../code/ios-components/pages"
 # Each thing this package builds is an akasha ios-program page, and the files Xcode
 # reads by a fixed name stand beside that page under names the grammar builds.
 PROGRAMS_DIR="$CODE_SYSTEM/../code/ios-programs/pages"
