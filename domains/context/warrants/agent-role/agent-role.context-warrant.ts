@@ -2,7 +2,6 @@ import type { ContextWarrant } from "akasha/domains/context/warrants/context-war
 
 export const agentRole = {
   id: "01a0734f-8b0b-7000-b77c-72cd290f2287",
-  pageTypeSlug: "context-warrant",
   type: "context-warrant",
   slug: "agent-role",
   definition: "what an agent must read for the type every role is held to",

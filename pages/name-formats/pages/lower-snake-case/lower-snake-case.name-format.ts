@@ -2,7 +2,6 @@ import type { NameFormat } from "akasha/pages/name-formats/name-format.page-type
 
 export const lowerSnakeCase = {
   id: "01a04eba-7459-7895-902e-b043a8723120",
-  pageTypeSlug: "name-format",
   type: "name-format",
   slug: "lower-snake-case",
   definition: "a name format joining words with underscores, all letters lower",

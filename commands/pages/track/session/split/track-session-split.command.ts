@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const trackSessionSplit = {
   id: "01a07979-7fe5-72fa-8982-e069a28c90c2",
-  pageTypeSlug: "command",
   type: "command",
   slug: "track-session-split",
   definition: "the command parting one stretch into two at a time said",

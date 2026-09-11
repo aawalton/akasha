@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const nestCommands = {
   id: "01a081b3-c5cb-70ec-b343-6e3500108eae",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "nest-commands",
   changeMode: "change-mode-move",

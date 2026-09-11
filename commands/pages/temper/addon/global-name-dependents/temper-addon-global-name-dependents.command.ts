@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperAddonGlobalNameDependents = {
   id: "01a0603c-c1ca-77a6-9408-76d7485c7dcf",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-addon-global-name-dependents",
   definition:

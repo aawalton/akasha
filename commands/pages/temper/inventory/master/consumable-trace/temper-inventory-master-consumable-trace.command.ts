@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryMasterConsumableTrace = {
   id: "01a0603c-c1d5-7627-a06a-0889a2e23e44",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-master-consumable-trace",
   definition: "the command giving back the addon's ring of consumable master-writ traces",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperAddonResolve = {
   id: "01a0603c-c1cb-701c-8c07-d388419d9fed",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-addon-resolve",
   definition: "the command answering which addon a name reaches",

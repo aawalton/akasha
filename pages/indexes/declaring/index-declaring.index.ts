@@ -2,7 +2,6 @@ import type { Index } from "akasha/pages/indexes/index.page-type.types.ts"
 
 export const indexDeclaring = {
   id: "01a0820f-87fc-7587-bb42-6dccc5070a5e",
-  pageTypeSlug: "index",
   type: "index",
   slug: "index-declaring",
   definition: "an index from the repository to every property shape its pages declare",

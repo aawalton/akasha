@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const refreshPersonas = {
   id: "01a082e7-c8d0-7100-993a-5d7b2a70490d",
-  pageTypeSlug: "command",
   type: "command",
   slug: "refresh-personas",
   definition: "the command working out again what each persona has earned",

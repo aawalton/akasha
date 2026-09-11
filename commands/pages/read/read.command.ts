@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const read = {
   id: "01a04bec-10b4-7e86-aeae-ed252396f186",
-  pageTypeSlug: "command",
   type: "command",
   slug: "read",
   definition:

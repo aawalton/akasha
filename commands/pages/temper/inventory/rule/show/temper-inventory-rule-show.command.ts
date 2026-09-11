@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryRuleShow = {
   id: "01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-rule-show",
   definition: "the command giving back one category rule named by its id",

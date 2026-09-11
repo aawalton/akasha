@@ -2,7 +2,6 @@ import type { Index } from "akasha/pages/indexes/index.page-type.types.ts"
 
 export const indexRule = {
   id: "01a08eb9-6a3c-7837-a76a-dae78826bdc2",
-  pageTypeSlug: "index",
   type: "index",
   slug: "index-rule",
   definition: "an index from what a function says to the files spelling it",

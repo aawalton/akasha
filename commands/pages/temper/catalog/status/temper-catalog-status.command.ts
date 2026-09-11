@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperCatalogStatus = {
   id: "01a0603c-c1cc-7a60-8387-08c112165535",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-catalog-status",
   definition:

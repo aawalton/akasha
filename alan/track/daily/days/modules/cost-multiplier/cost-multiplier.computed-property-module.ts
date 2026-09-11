@@ -2,7 +2,6 @@ import type { ComputedPropertyModule } from "akasha/pages/computed-property-modu
 
 export const costMultiplier = {
   id: "01a08b93-dab4-777c-bdd0-03ab2b96ccb2",
-  pageTypeSlug: "computed-property-module",
   type: "computed-property-module",
   slug: "cost-multiplier",
   definition: "what an hour of a stretch costs, read off safety against difficulty",

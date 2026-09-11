@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const trackWeight = {
   id: "01a07bfe-36da-7166-8f06-6fa75c6f8c29",
-  pageTypeSlug: "command",
   type: "command",
   slug: "track-weight",
   definition: "the command recording what Alan's body weighed on a day",

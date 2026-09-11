@@ -2,7 +2,6 @@ import type { ComputedPropertyModule } from "akasha/pages/computed-property-modu
 
 export const fiveHourReset = {
   id: "01a0916a-a294-7b0a-83ad-fbfc47ae5bb7",
-  pageTypeSlug: "computed-property-module",
   type: "computed-property-module",
   slug: "five-hour-reset",
   definition: "when a five-hour allowance comes back, a spent seven-day window holding it back",

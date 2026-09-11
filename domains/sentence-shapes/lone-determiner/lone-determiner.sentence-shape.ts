@@ -2,7 +2,6 @@ import type { SentenceShape } from "akasha/domains/sentence-shapes/sentence-shap
 
 export const loneDeterminer = {
   id: "01a05def-c4fe-72b3-95b3-cfd7e5157ced",
-  pageTypeSlug: "sentence-shape",
   type: "sentence-shape",
   slug: "lone-determiner",
   definition: "a demonstrative used where a noun would be",

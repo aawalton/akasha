@@ -2,7 +2,6 @@ import type { SentenceShape } from "akasha/domains/sentence-shapes/sentence-shap
 
 export const lonePronoun = {
   id: "01a05da1-d93d-795d-bf61-a2b20da998b7",
-  pageTypeSlug: "sentence-shape",
   type: "sentence-shape",
   slug: "lone-pronoun",
   definition: "a pronoun used where a noun would be",

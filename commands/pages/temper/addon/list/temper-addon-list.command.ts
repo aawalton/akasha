@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperAddonList = {
   id: "01a0603c-c1ca-7749-a8e8-ffbbcbf15e84",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-addon-list",
   definition: "the command naming every addon source folder the checkout has",

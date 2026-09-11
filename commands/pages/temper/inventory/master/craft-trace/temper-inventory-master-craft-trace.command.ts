@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryMasterCraftTrace = {
   id: "01a0603c-c1d5-708e-bb42-aa873ff7864f",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-master-craft-trace",
   definition: "the command giving back the addon's ring of equipment master-writ craft traces",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const pageSecretSet = {
   id: "01a06812-3ce8-74c7-be81-2023948a44d9",
-  pageTypeSlug: "command",
   type: "command",
   slug: "page-secret-set",
   definition: "the command enciphering one value into the sops file beside a page",

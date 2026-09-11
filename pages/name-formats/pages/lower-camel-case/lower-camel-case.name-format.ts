@@ -2,7 +2,6 @@ import type { NameFormat } from "akasha/pages/name-formats/name-format.page-type
 
 export const lowerCamelCase = {
   id: "01a04eba-7459-7514-a7a9-88538edfa887",
-  pageTypeSlug: "name-format",
   type: "name-format",
   slug: "lower-camel-case",
   definition:

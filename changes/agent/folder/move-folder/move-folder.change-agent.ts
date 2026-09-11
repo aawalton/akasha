@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const moveFolder = {
   id: "01a07c54-a9b0-797b-add8-8e9d734c5213",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "move-folder",
   changeMode: "change-mode-move",

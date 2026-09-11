@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryPlan = {
   id: "01a0603c-c1d6-7f83-b8aa-93c9e3917440",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-plan",
   definition: "the command working out the management plan the addon would carry out",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryItemRuleCreate = {
   id: "01a0603c-c1d2-7d8e-8802-6f8e11eb0f2f",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-item-rule-create",
   definition: "the command adding a per-item rule",

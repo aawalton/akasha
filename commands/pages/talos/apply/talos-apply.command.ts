@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const talosApply = {
   id: "01a06809-a024-7ec0-9d74-4fc9c49d1ac0",
-  pageTypeSlug: "command",
   type: "command",
   slug: "talos-apply",
   definition: "the command taking one Talos node from maintenance mode into its cluster",

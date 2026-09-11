@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryRuleReorder = {
   id: "01a0603c-c1d8-70b7-a1e7-d602bcd411b0",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-rule-reorder",
   definition: "the command moving a category rule to another place in the priority order",

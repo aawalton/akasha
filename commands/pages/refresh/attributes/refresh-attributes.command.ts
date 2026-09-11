@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const refreshAttributes = {
   id: "01a08209-d5d9-7d6a-8ba8-e42a8b51316b",
-  pageTypeSlug: "command",
   type: "command",
   slug: "refresh-attributes",
   definition: "the command working out again what each attribute earned before today",

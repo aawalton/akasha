@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const addFilePropertyExtensions = {
   id: "01a08e26-f9a5-707a-9db0-7a5b52d73384",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "add-file-property-extensions",
   changeMode: "change-mode-add",

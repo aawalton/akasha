@@ -2,7 +2,6 @@ import type { ContextWarrant } from "akasha/domains/context/warrants/context-war
 
 export const filePageType = {
   id: "01a04f58-a7f0-7001-8b6e-2d51f0a9c344",
-  pageTypeSlug: "context-warrant",
   type: "context-warrant",
   slug: "file-page-type",
   definition: "what a seat must read for the type of the page it changes",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const seatComposeNotices = {
   id: "01a0693b-42f9-7c87-95fd-2c7147ecd1f2",
-  pageTypeSlug: "command",
   type: "command",
   slug: "seat-compose-notices",
   definition: "what a seat is told when it is put back to work, as one JSON object",

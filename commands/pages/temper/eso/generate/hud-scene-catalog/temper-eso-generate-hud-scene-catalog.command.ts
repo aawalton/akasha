@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperEsoGenerateHudSceneCatalog = {
   id: "01a0685d-f8fa-75a7-b5b7-54361655f76a",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-eso-generate-hud-scene-catalog",
   definition: "the command writing the catalog of HUD parts out of the game's own scene source",

@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const dividePageProperty = {
   id: "01a08df3-43fc-70b7-b21c-a996acd3d268",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "divide-page-property",
   changeMode: "change-mode-divide",

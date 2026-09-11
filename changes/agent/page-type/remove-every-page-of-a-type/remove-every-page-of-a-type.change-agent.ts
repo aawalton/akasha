@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const removeEveryPageOfAType = {
   id: "01a081bd-2930-7f0d-9324-5412a477c845",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "remove-every-page-of-a-type",
   changeMode: "change-mode-remove",

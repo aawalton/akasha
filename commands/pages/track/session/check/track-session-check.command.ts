@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const trackSessionCheck = {
   id: "01a07979-80d5-721b-946b-81f11c2413ab",
-  pageTypeSlug: "command",
   type: "command",
   slug: "track-session-check",
   definition: "the command judging the rows a day carries",

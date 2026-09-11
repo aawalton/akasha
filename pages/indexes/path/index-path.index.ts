@@ -2,7 +2,6 @@ import type { Index } from "akasha/pages/indexes/index.page-type.types.ts"
 
 export const indexPath = {
   id: "01a04ede-d0fc-7000-bfe5-c9f320b833c7",
-  pageTypeSlug: "index",
   type: "index",
   slug: "index-path",
   definition: "an index from a path to the page whose file it is",

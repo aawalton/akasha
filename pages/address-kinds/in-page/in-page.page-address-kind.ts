@@ -2,7 +2,6 @@ import type { PageAddressKind } from "akasha/pages/address-kinds/page-address-ki
 
 export const inPage = {
   id: "01a0731d-f93e-7ca8-8fdd-a8a5e083664d",
-  pageTypeSlug: "page-address-kind",
   type: "page-address-kind",
   slug: "in-page",
   definition: "an address naming a page by a value unique across every page",

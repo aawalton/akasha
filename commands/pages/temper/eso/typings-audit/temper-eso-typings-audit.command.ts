@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperEsoTypingsAudit = {
   id: "01a0685d-f8fa-7053-bb0f-5165c5bbb41a",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-eso-typings-audit",
   definition:

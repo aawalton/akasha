@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const seatReset = {
   id: "01a0797a-9aa4-7473-88de-e9a24a94bb70",
-  pageTypeSlug: "command",
   type: "command",
   slug: "seat-reset",
   definition: "the command sitting a new agent down under everything a seat already states",

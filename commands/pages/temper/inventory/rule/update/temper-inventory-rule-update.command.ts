@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryRuleUpdate = {
   id: "01a0603c-c1d9-7f77-bcad-d46ad5150baa",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-rule-update",
   definition: "the command changing the fields of a category rule named by its id",

@@ -2,7 +2,6 @@ import type { NameFormat } from "akasha/pages/name-formats/name-format.page-type
 
 export const lowerKebabCase = {
   id: "01a04eba-7459-71b8-9356-78cfec88c104",
-  pageTypeSlug: "name-format",
   type: "name-format",
   slug: "lower-kebab-case",
   definition: "a name format joining words with hyphens, all letters lower",

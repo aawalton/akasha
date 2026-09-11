@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const talosSecretsGen = {
   id: "01a06810-1f0b-7a91-8242-2addd716919f",
-  pageTypeSlug: "command",
   type: "command",
   slug: "talos-secrets-gen",
   definition: "the command writing a Talos cluster's PKI bundle SOPS-encrypted",

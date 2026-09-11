@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const removePackageAlias = {
   id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "remove-package-alias",
   changeMode: "change-mode-remove",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperEsoGenerateChatterNames = {
   id: "01a0685d-f8fa-7c84-afa7-42c2af785557",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-eso-generate-chatter-names",
   definition:

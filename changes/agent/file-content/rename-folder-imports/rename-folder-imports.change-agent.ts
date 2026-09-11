@@ -2,7 +2,6 @@ import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.ty
 
 export const renameFolderImports = {
   id: "01a08dc4-e449-7081-b339-7a0d9b4ca947",
-  pageTypeSlug: "change-agent",
   type: "change-agent",
   slug: "rename-folder-imports",
   changeMode: "change-mode-rename",

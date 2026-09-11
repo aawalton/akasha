@@ -2,7 +2,6 @@ import type { ContextWarrant } from "akasha/domains/context/warrants/context-war
 
 export const changeTabooTerms = {
   id: "01a05968-4c31-7a5e-9f02-6b1d38c4e770",
-  pageTypeSlug: "context-warrant",
   type: "context-warrant",
   slug: "change-taboo-terms",
   definition: "what a seat must read for the taboo terms its change writes",

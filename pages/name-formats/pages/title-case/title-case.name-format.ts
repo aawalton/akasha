@@ -2,7 +2,6 @@ import type { NameFormat } from "akasha/pages/name-formats/name-format.page-type
 
 export const titleCase = {
   id: "01a04eba-7459-7314-a8c6-dc565526fb11",
-  pageTypeSlug: "name-format",
   type: "name-format",
   slug: "title-case",
   definition: "a name format separating words with spaces, every important word starting capital",

@@ -2,7 +2,6 @@ import type { ContextWarrant } from "akasha/domains/context/warrants/context-war
 
 export const filePropertyFile = {
   id: "01a04f58-a7ef-7001-9186-8aa35b0da656",
-  pageTypeSlug: "context-warrant",
   type: "context-warrant",
   slug: "file-property-file",
   definition: "what a seat must read for a file that is one property's own",

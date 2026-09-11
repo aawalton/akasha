@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperInventoryRuleDuplicate = {
   id: "01a0603c-c1d7-79c4-89bc-1293587ca4fc",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-inventory-rule-duplicate",
   definition: "the command copying a category rule named by its id",

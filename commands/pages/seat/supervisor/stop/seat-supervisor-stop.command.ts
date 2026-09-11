@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const seatSupervisorStop = {
   id: "01a0797a-9a6f-7d91-bfd8-0ac01ac70fcd",
-  pageTypeSlug: "command",
   type: "command",
   slug: "seat-supervisor-stop",
   definition: "the command ending a seat's supervisor and taking the page that seat held",

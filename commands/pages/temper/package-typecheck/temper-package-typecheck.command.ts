@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const temperPackageTypecheck = {
   id: "01a061f6-390b-72a7-97b3-528d057fbbf4",
-  pageTypeSlug: "command",
   type: "command",
   slug: "temper-package-typecheck",
   definition:
