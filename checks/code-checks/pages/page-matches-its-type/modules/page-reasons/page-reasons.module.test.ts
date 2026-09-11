@@ -4,6 +4,7 @@ import {
   reasonsIn,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"
 import {
+  allows,
   besideCarried,
   FORMAT,
   scratch,
@@ -44,8 +45,6 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
     new Set<string>()
   )
 }
-
-const allows: Formatting = () => (): boolean => true
 
 const HERE = shadowAt(rootOf(import.meta.path))
 

@@ -8,6 +8,7 @@ import {
   rebuiltIn,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -15,6 +16,8 @@ import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const FORMAT = "all-lower"
+
+export const allows: Formatting = () => (): boolean => true
 
 const AKASHA = "akasha"
 
