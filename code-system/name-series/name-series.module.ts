@@ -57,5 +57,9 @@ export const nameSeries = {
       invariantKind: "absence",
       statement: "Nothing under akasha is written here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The runs already there are asked of the index rather than read off the folder.",
+    },
   ],
 } as const satisfies Module

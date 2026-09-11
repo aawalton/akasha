@@ -1,10 +1,15 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
 import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { listedById, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  everyOfType,
+  listedById,
+  typeSlugOf,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const AKASHA_FILE_CEILING_BYTES = 15_000
 
@@ -225,14 +230,15 @@ export function renderSeries(root: string, spec: SeriesSpec): readonly SeriesPag
 }
 
 export function runSlugsThere(root: string, spec: SeriesSpec): readonly string[] {
-  const at = resolve(root, spec.generatedDirRel)
-  if (!existsSync(at)) return []
   const pattern = new RegExp(`^${spec.stem}-\\d+$`)
-  return readdirSync(at, { withFileTypes: true })
-    .filter((one) => one.isDirectory())
-    .map((one) => one.name)
-    .filter((name) => pattern.test(name))
-    .sort()
+  const found: string[] = []
+  for (const one of everyOfType(root, typeSlugOf(root, MODULE_PAGE_TYPE))) {
+    const said = partedIn(one.path)
+    if (said === null || !pattern.test(said.slug)) continue
+    if (one.path !== pageRelOf(spec, said.slug)) continue
+    found.push(said.slug)
+  }
+  return found.sort()
 }
 
 export interface StagedFile {
