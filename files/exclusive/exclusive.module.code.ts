@@ -1,6 +1,11 @@
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs"
+import {
+  alive,
+  holderOf,
+  markIn,
+  startedAt,
+} from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
-import { alive, holderOf, markIn, startedAt } from "../lock-holder/lock-holder.module.code.ts"
 
 const SPIN_MS = 5
 

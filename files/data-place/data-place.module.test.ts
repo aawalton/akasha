@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { dataAt, dataIn } from "./data-place.module.code.ts"
+import { dataAt, dataIn } from "akasha/files/data-place/data-place.module.code.ts"
 
 test("the place sits under the folder git does not track", () => {
   expect(dataAt()).toBe(".git/data")
