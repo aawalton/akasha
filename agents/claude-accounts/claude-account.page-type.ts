@@ -57,6 +57,8 @@ export const claudeAccount = {
     "text-property/subscription-type",
     "service-workstation/claude-account-upkeep-service",
     "service-workstation/claude-account-upkeep-stall",
+    "computed-property/effective-five-hour-resets-at",
+    "computed-property-module/five-hour-reset",
   ],
   properties: [
     { pageProperty: "text-property/account-uuid", required: false, many: false },
@@ -159,6 +161,11 @@ export const claudeAccount = {
     },
     {
       pageProperty: "computed-property/effective-seven-day-usage",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "computed-property/effective-five-hour-resets-at",
       required: false,
       many: false,
     },

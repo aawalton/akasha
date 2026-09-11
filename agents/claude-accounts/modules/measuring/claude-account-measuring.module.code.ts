@@ -1,3 +1,4 @@
+import { fiveHourResetIn } from "akasha/agents/claude-accounts/modules/five-hour-reset/five-hour-reset.computed-property-module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
@@ -72,6 +73,10 @@ export function fiveHourSpent(one: Reading): number | null {
   const seven = one.sevenDayPercentUsed
   if (seven !== null && seven >= CEILING) return CEILING
   return one.fiveHourPercentUsed
+}
+
+export function fiveHourResets(one: Reading): string | null {
+  return fiveHourResetIn(sevenDaySpent(one), one.fiveHourResetsAt)
 }
 
 function hoursUntil(iso: string | null, now: number): number {
@@ -151,7 +156,7 @@ export function linesOf(readings: readonly Reading[], now: number): readonly str
     const marks = marksOf(one)
     const tail = marks.length === 0 ? "" : `  ${marks.join(" ")}`
     return (
-      `${held}${one.account.padEnd(width)} ${five}% ${clockOf(one.fiveHourResetsAt).padEnd(CLOCK_WIDTH)}` +
+      `${held}${one.account.padEnd(width)} ${five}% ${clockOf(fiveHourResets(one)).padEnd(CLOCK_WIDTH)}` +
       `  ${seven}% ${clockOf(one.sevenDayResetsAt).padEnd(CLOCK_WIDTH)}${tail}`
     ).trimEnd()
   })

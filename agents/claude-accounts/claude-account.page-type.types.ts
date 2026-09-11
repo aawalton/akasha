@@ -2,6 +2,7 @@ import type { AccessToken } from "akasha/agents/claude-accounts/properties/acces
 import type { AccessTokenExpiresAt } from "akasha/agents/claude-accounts/properties/access-token-expires-at.instant-property.types.ts"
 import type { AccountUuid } from "akasha/agents/claude-accounts/properties/account-uuid.text-property.types.ts"
 import type { AliasIndex } from "akasha/agents/claude-accounts/properties/alias-index.number-property.types.ts"
+import type { EffectiveFiveHourResetsAt } from "akasha/agents/claude-accounts/properties/effective-five-hour-resets-at.computed-property.types.ts"
 import type { EffectiveFiveHourUsage } from "akasha/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.types.ts"
 import type { EffectiveSevenDayUsage } from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.types.ts"
 import type { Email } from "akasha/agents/claude-accounts/properties/email.email-address-property.types.ts"
@@ -51,4 +52,5 @@ export type ClaudeAccount = Page & {
   rescuedCredential?: RescuedCredential
   effectiveFiveHourUsage?: EffectiveFiveHourUsage
   effectiveSevenDayUsage?: EffectiveSevenDayUsage
+  effectiveFiveHourResetsAt?: EffectiveFiveHourResetsAt
 }

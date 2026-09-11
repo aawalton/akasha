@@ -33,6 +33,10 @@ export const claudeAccountMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "An account that has spent its seven-day window has no five-hour reset.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The account the picker would take next is marked.",
     },
     {

@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   aheadOf,
   clockOf,
+  fiveHourResets,
   fiveHourSpent,
   inOrder,
   linesOf,
@@ -51,6 +52,28 @@ test("an account that has spent its seven-day window has spent its five-hour one
 
   expect(fiveHourSpent(one)).toBe(100)
   expect(sevenDaySpent(one)).toBe(100)
+})
+
+test("an account that has spent its seven-day window has no five-hour reset", () => {
+  const one = reading({
+    account: "a",
+    fiveHourPercentUsed: 0,
+    sevenDayPercentUsed: 100,
+    fiveHourResetsAt: "2026-08-31T17:00:00.000Z",
+  })
+
+  expect(fiveHourResets(one)).toBeNull()
+})
+
+test("an account whose week is still open shows the reset its five-hour window comes back at", () => {
+  const one = reading({
+    account: "a",
+    fiveHourPercentUsed: 100,
+    sevenDayPercentUsed: 40,
+    fiveHourResetsAt: "2026-08-31T17:00:00.000Z",
+  })
+
+  expect(fiveHourResets(one)).toBe("2026-08-31T17:00:00.000Z")
 })
 
 test("a window nothing has been read of is spent by no amount rather than by none", () => {
