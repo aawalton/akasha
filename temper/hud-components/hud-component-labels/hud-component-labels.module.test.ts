@@ -3,7 +3,7 @@ import {
   COMPONENT_LABELS,
   humanizeGlobal,
   UNCATEGORIZED,
-} from "./hud-component-labels.module.code.ts"
+} from "akasha/temper/hud-components/hud-component-labels/hud-component-labels.module.code.ts"
 
 describe("hud-component-labels", () => {
   test("a labelled global carries a name and a category", () => {

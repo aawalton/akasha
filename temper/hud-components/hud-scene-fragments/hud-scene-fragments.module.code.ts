@@ -1,5 +1,5 @@
-import type { HudComponentRecord } from "../hud-component-record/hud-component-record.module.code.ts"
-import { HUD_SCENE_SOURCE } from "../hud-scene-source/hud-scene-source.module.code.ts"
+import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
+import { HUD_SCENE_SOURCE } from "akasha/temper/hud-components/hud-scene-source/hud-scene-source.module.code.ts"
 
 export const HUD_SCENE_FRAGMENTS = [
   {

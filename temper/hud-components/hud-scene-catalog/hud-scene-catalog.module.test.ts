@@ -1,9 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { HUD_SCENE_CATALOG_SCHEMA } from "../hud-component-record/hud-component-record.module.code.ts"
-import { HUD_CONTROLS } from "../hud-controls/hud-controls.module.code.ts"
-import { HUD_FRAGMENT_GROUP } from "../hud-fragment-group/hud-fragment-group.module.code.ts"
-import { HUD_SCENE_FRAGMENTS } from "../hud-scene-fragments/hud-scene-fragments.module.code.ts"
-import { HUD_SCENE_CATALOG } from "./hud-scene-catalog.module.code.ts"
+import { HUD_SCENE_CATALOG_SCHEMA } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
+import { HUD_CONTROLS } from "akasha/temper/hud-components/hud-controls/hud-controls.module.code.ts"
+import { HUD_FRAGMENT_GROUP } from "akasha/temper/hud-components/hud-fragment-group/hud-fragment-group.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import { HUD_SCENE_FRAGMENTS } from "akasha/temper/hud-components/hud-scene-fragments/hud-scene-fragments.module.code.ts"
 
 describe("hud-scene-catalog", () => {
   test("every record fits the record shape", () => {

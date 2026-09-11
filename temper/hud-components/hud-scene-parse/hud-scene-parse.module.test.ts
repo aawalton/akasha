@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { buildCatalog } from "./hud-scene-parse.module.code.ts"
+import { buildCatalog } from "akasha/temper/hud-components/hud-scene-parse/hud-scene-parse.module.code.ts"
 
 const SOURCE = `function ZO_HUDFragment:UpdateVisibility()
     COMPASS_FRAME:SetCompassHidden(true)

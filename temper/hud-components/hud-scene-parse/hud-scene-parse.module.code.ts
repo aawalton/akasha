@@ -1,16 +1,16 @@
-import { z } from "zod"
 import {
   COMPONENT_LABELS,
   humanizeGlobal,
   UNCATEGORIZED,
-} from "../hud-component-labels/hud-component-labels.module.code.ts"
+} from "akasha/temper/hud-components/hud-component-labels/hud-component-labels.module.code.ts"
 import {
   type ComponentKind,
   type HideMechanism,
   HUD_SCENES,
   type HudComponentRecord,
   type HudScene,
-} from "../hud-component-record/hud-component-record.module.code.ts"
+} from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
+import { z } from "zod"
 
 const CONTROL_METHODS = [
   "SetCompassHidden",
