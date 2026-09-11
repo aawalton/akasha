@@ -8,6 +8,7 @@ export const pageBody = {
   definition: "the TypeScript a page is, written from the values it has",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

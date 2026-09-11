@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { bodyOf, importedFrom, saidAs, unnamedIn } from "akasha/pages/body/page-body.module.code.ts"
-
-const TYPE_AT = "person-system/device-tokens/device-token.page-type.ts"
+import { TYPE_AT } from "akasha/pages/body/page-body.module.test-fixtures.ts"
 
 test("a page names its type from the root rather than by a relative path", () => {
   expect(importedFrom(TYPE_AT)).toBe(`akasha/${TYPE_AT}`)
