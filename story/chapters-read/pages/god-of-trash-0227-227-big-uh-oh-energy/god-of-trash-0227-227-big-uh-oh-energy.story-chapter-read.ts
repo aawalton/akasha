@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0227227BigUhOhEnergy = {
   id: "01a06731-adf5-7000-9321-f05751bbc0b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0227-227-big-uh-oh-energy",
   title: "227. Big Uh Oh Energy",

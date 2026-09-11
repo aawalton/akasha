@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0075Chapter1007ThatWillKeepThemDead = {
   id: "01a06731-adf2-7001-87bc-6e4a925d6110",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0075-chapter-1007-that-will-keep-them-dead",
   title: "Chapter 1007: That Will Keep Them Dead",

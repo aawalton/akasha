@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0108108PitifulHeavens = {
   id: "01a0672c-edc7-7007-8b66-9eb4f5b31c0e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0108-108-pitiful-heavens",
   title: "108. Pitiful Heavens",

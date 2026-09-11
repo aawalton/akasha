@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution002525TheMistMilitaryOutpost2 = {
   id: "01a06731-b0dd-700a-adcf-c8dbb290931f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0025-25-the-mist-military-outpost-2",
   title: "25 - The Mist Military Outpost (2)",

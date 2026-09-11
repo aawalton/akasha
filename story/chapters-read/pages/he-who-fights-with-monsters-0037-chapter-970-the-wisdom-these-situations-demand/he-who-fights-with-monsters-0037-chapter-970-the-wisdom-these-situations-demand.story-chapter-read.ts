@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0037Chapter970TheWisdomTheseSituationsDemand = {
   id: "01a06731-add0-7001-ae1b-a8531f7600ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0037-chapter-970-the-wisdom-these-situations-demand",
   title: "Chapter 970: The Wisdom These Situations Demand",

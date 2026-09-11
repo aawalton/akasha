@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0353353AFantasticIdea = {
   id: "01a06731-ae06-700a-b203-b49b1181ca1e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0353-353-a-fantastic-idea",
   title: "353. A Fantastic Idea",

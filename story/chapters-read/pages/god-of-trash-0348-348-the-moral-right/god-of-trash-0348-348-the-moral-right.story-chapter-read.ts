@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0348348TheMoralRight = {
   id: "01a06731-ae06-7005-bbc2-9b34f038279c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0348-348-the-moral-right",
   title: "348. The Moral Right",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const forgeOfDestiny0054BonusCharactersOfDestiny = {
   id: "01a0672c-eb1d-7003-b917-8a7b22db8733",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "forge-of-destiny-0054-bonus-characters-of-destiny",
   title: "Bonus: Characters of Destiny",

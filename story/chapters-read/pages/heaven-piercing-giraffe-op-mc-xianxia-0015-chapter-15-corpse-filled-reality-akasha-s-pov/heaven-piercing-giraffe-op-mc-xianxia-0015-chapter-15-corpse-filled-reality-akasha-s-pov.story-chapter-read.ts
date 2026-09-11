@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heavenPiercingGiraffeOpMcXianxia0015Chapter15CorpseFilledRealityAkashaSPov = {
   id: "01a06731-b11d-700b-9fb7-6e7641ef8fe1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0015-chapter-15-corpse-filled-reality-akasha-s-pov",
   title: "Chapter 15: Corpse Filled Reality (Akasha's POV)",

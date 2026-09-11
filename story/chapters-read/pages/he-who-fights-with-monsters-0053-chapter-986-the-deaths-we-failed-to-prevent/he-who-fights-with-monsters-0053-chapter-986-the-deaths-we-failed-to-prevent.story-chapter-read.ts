@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0053Chapter986TheDeathsWeFailedToPrevent = {
   id: "01a06731-addf-7000-9465-6644a7b1f5ad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0053-chapter-986-the-deaths-we-failed-to-prevent",
   title: "Chapter 986: The Deaths We Failed to Prevent",

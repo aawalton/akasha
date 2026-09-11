@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const forgeOfDestiny0264InTheShadowOfXiangmenIii = {
   id: "01a06591-3dfe-748a-85dc-5671961b004f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "forge-of-destiny-0264-in-the-shadow-of-xiangmen-iii",
   title: "In the Shadow of Xiangmen III",

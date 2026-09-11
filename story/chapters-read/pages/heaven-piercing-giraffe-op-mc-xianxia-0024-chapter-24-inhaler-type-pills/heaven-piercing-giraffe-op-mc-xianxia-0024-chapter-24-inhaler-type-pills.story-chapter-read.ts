@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heavenPiercingGiraffeOpMcXianxia0024Chapter24InhalerTypePills = {
   id: "01a06731-b11e-7001-a3bf-b8c5825aa0f2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0024-chapter-24-inhaler-type-pills",
   title: "Chapter 24: Inhaler Type Pills",

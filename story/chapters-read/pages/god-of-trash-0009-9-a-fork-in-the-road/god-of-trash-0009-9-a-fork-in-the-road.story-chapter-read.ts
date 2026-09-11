@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash00099AForkInTheRoad = {
   id: "01a0672c-edb0-7001-b2b6-59bb8f130dcf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0009-9-a-fork-in-the-road",
   title: "9. A Fork in the Road",

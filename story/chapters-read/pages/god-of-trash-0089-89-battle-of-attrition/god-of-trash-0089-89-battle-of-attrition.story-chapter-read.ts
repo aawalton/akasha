@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash008989BattleOfAttrition = {
   id: "01a0672c-edc5-7000-b6c8-1831caf1ef53",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0089-89-battle-of-attrition",
   title: "89. Battle of Attrition",

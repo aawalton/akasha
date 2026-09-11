@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0240240LockIn = {
   id: "01a06731-adf8-7003-a518-18e71fbe4669",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0240-240-lock-in",
   title: "240. Lock In",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0071Chapter1003StareDownTheDevil = {
   id: "01a06731-adef-7000-93cf-d24e1d25a0b2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0071-chapter-1003-stare-down-the-devil",
   title: "Chapter 1003: Stare Down the Devil",

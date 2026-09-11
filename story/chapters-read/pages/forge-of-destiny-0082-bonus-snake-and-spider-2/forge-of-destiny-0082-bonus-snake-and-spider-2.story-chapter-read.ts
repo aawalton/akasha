@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const forgeOfDestiny0082BonusSnakeAndSpider2 = {
   id: "01a0672c-eb26-7001-ba54-8cbf8dc3e867",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "forge-of-destiny-0082-bonus-snake-and-spider-2",
   title: "Bonus: Snake and Spider 2",

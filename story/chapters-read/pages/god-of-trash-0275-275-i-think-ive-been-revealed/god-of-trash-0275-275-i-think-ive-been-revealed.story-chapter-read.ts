@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0275275IThinkIveBeenRevealed = {
   id: "01a06731-adfb-7002-af70-bdaba2340851",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0275-275-i-think-ive-been-revealed",
   title: "275. I Think I've Been Revealed?",

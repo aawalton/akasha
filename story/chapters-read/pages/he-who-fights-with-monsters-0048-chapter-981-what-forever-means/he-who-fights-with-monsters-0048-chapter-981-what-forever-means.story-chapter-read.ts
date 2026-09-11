@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0048Chapter981WhatForeverMeans = {
   id: "01a06731-add9-7000-a90c-715c4815d9d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0048-chapter-981-what-forever-means",
   title: "Chapter 981: What Forever Means",

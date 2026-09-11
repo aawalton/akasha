@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0205205LastMinutePrep = {
   id: "01a06731-adf2-7005-ab71-ac84cacbe103",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0205-205-last-minute-prep",
   title: "205. Last Minute Prep",

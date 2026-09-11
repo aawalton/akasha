@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0317317ThingsAtTheBackOfTheRefrigeratorAre = {
   id: "01a06731-ae02-7001-a4dc-4fe46e26cfc5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0317-317-things-at-the-back-of-the-refrigerator-are",
   title: "317. Things at the Back of the Refrigerator are Already Bad",

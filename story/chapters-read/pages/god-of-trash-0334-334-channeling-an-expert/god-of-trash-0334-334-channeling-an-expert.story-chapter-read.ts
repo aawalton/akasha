@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0334334ChannelingAnExpert = {
   id: "01a06731-ae05-7001-b7f7-b31dd3bc58a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0334-334-channeling-an-expert",
   title: "334. Channeling an Expert",

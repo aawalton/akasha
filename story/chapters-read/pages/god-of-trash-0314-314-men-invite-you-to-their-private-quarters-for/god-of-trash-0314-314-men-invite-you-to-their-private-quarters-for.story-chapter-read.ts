@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0314314MenInviteYouToTheirPrivateQuartersFor = {
   id: "01a06731-ae01-7003-8f1e-1b0ce1dd8211",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0314-314-men-invite-you-to-their-private-quarters-for",
   title: "314. Men Invite You to their Private Quarters for One Reason",

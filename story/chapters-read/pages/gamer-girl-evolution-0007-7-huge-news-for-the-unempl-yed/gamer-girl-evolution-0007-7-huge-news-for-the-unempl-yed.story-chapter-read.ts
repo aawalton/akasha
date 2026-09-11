@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution00077HugeNewsForTheUnemplYed = {
   id: "01a06731-b0db-7018-96fc-c4a07a872141",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0007-7-huge-news-for-the-unempl-yed",
   title: "7 – Huge News for the Unempl*yed",

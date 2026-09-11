@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution003535TheGraveDigger = {
   id: "01a06731-b0dd-7014-ba6b-1abb112cb990",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0035-35-the-grave-digger",
   title: "35 - The Grave Digger",

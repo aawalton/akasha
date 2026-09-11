@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0208208SheMeansMe = {
   id: "01a06731-adf2-7008-ad36-2af896dd2e9d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0208-208-she-means-me",
   title: "208. She Means Me?",

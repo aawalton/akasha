@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0070Chapter1002TheOneWhoGetsToDecide = {
   id: "01a06731-aded-7000-b130-240bbff4c486",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0070-chapter-1002-the-one-who-gets-to-decide",
   title: "Chapter 1002: The One Who Gets to Decide",

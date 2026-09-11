@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0253253FilthGolem = {
   id: "01a06731-adf9-7005-a5f1-57ca1cccb4e3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0253-253-filth-golem",
   title: "253. Filth Golem",

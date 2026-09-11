@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution004949TheAncientDragonSovereignOfCurses2 = {
   id: "01a06731-b0de-7005-8b94-73b1cb8f3d48",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0049-49-the-ancient-dragon-sovereign-of-curses-2",
   title: "49 - The Ancient Dragon Sovereign of Curses (2)",

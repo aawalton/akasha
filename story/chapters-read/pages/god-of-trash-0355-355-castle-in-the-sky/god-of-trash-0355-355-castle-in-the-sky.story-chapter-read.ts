@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0355355CastleInTheSky = {
   id: "01a06731-ae06-700c-98a0-d3d0812eb84e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0355-355-castle-in-the-sky",
   title: "355. Castle in the Sky",

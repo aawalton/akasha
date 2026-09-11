@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0021Chapter696BeginningOfTheBeyondEvent = {
   id: "01a06731-ad6c-7013-8ad6-d10ec2c1646b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0021-chapter-696-beginning-of-the-beyond-event",
   title: "Chapter 696 - Beginning of the Beyond Event",

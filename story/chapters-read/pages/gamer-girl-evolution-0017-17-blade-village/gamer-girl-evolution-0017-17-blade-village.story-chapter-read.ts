@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution001717BladeVillage = {
   id: "01a06731-b0dd-7002-a663-3ad384e79b78",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0017-17-blade-village",
   title: "17 - Blade Village ",

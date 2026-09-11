@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution001414WelcomeBackPlayers = {
   id: "01a06731-b0dc-7005-aa98-ead0289af1d1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0014-14-welcome-back-players",
   title: "14 - Welcome Back Players",

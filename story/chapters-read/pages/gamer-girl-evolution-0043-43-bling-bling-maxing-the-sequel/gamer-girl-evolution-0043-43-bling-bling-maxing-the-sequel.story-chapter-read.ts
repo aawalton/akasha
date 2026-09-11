@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution004343BlingBlingMaxingTheSequel = {
   id: "01a06731-b0dd-701c-8c3a-a6b8a8460f21",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0043-43-bling-bling-maxing-the-sequel",
   title: "43 - Bling Bling Maxing: The Sequel ",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heavenPiercingGiraffeOpMcXianxia0007Chapter7HumanDad = {
   id: "01a06731-b11d-7003-b35a-b0c991f5514b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0007-chapter-7-human-dad",
   title: "Chapter 7: Human Dad",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0211211WipeOut = {
   id: "01a06731-adf3-7002-8ad5-fc9277bbcb55",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0211-211-wipe-out",
   title: "211. Wipe Out",

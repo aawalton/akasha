@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0204204BoysWillBeBoys = {
   id: "01a06731-adf2-7004-b493-374def0aa732",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0204-204-boys-will-be-boys",
   title: "204. Boys Will Be Boys",

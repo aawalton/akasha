@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0003Chapter3LocalCuisine = {
   id: "01a06731-adbb-7002-9657-33026fa677b4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0003-chapter-3-local-cuisine",
   title: "Chapter 3: Local Cuisine",

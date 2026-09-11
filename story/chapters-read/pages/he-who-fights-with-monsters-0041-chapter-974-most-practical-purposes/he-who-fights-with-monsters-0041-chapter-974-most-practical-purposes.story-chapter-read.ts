@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0041Chapter974MostPracticalPurposes = {
   id: "01a06731-add2-7000-ac63-57ff7a4b610d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0041-chapter-974-most-practical-purposes",
   title: "Chapter 974: Most Practical Purposes",

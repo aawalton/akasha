@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0073Chapter748HowDoYouBecomeAnAbsolute = {
   id: "01a06731-ad7a-7001-be9c-edcb81dc36ba",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0073-chapter-748-how-do-you-become-an-absolute",
   title: "Chapter 748 - How do you become an Absolute?",

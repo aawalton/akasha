@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash003535UpperPeak = {
   id: "01a0672c-edb8-7002-abf6-c16eaa48b053",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0035-35-upper-peak",
   title: "35. Upper Peak",

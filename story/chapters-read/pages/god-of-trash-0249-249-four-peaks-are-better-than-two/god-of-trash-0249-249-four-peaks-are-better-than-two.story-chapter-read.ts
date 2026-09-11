@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0249249FourPeaksAreBetterThanTwo = {
   id: "01a06731-adf9-7001-a6ac-8c9cc6a93f18",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0249-249-four-peaks-are-better-than-two",
   title: "249. Four Peaks are Better than Two",

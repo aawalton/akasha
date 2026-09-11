@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0029Chapter962IKnowWhatYouAre = {
   id: "01a06731-adc6-7002-8db9-1e9908846b6d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0029-chapter-962-i-know-what-you-are",
   title: "Chapter 962: I Know What You Are",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0093Chapter1023BrokenWhatMattersMost = {
   id: "01a06731-ae04-7000-829f-824a420a4909",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0093-chapter-1023-broken-what-matters-most",
   title: "Chapter 1023: Broken What Matters Most",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0194194OffToSeeTheTrashHeap = {
   id: "01a0672c-edcd-7006-899d-fecddf2d7e1d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0194-194-off-to-see-the-trash-heap",
   title: "194. Off to See the Trash Heap",

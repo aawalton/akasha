@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0257257HomeSweetPalace = {
   id: "01a06731-adf9-7009-bedf-2af1b6764169",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0257-257-home-sweet-palace",
   title: "257. Home Sweet Palace",

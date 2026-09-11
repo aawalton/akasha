@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0060Chapter735Instrument = {
   id: "01a06731-ad73-7000-8501-408bfe772860",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0060-chapter-735-instrument",
   title: "Chapter 735 - Instrument",

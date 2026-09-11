@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash007474BoilItDown = {
   id: "01a0672c-edc2-7000-bed8-be2bdd1355a9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0074-74-boil-it-down",
   title: "74. Boil it Down",

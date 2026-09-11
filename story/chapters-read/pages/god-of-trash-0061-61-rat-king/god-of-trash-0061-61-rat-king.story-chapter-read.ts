@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash006161RatKing = {
   id: "01a0672c-edbd-7001-82fb-32308079c1ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0061-61-rat-king",
   title: "61. Rat King",

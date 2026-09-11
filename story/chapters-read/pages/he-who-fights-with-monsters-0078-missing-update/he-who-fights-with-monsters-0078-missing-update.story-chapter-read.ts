@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0078MissingUpdate = {
   id: "01a06731-adf4-7001-966f-9fe5184e0245",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0078-missing-update",
   title: "Missing Update",

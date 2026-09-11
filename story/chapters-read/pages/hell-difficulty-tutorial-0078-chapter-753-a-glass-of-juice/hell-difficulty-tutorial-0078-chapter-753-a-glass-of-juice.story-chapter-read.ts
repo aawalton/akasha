@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0078Chapter753AGlassOfJuice = {
   id: "01a06731-ad7c-7001-883e-90fed084e751",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0078-chapter-753-a-glass-of-juice",
   title: "Chapter 753 - A glass of juice",

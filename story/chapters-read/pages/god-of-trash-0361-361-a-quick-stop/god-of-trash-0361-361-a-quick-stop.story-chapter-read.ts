@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0361361AQuickStop = {
   id: "01a087c7-12ee-7014-b16e-5070346f691b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0361-361-a-quick-stop",
   position: 361,

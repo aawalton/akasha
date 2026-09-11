@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash004949TheFinalDuel = {
   id: "01a0672c-edbb-7001-a82a-c05c82fe9fd8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0049-49-the-final-duel",
   title: "49. The Final Duel",

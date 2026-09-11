@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0356356HaltPayForYourCrimes = {
   id: "01a06731-ae06-700d-83af-8109f4856b14",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0356-356-halt-pay-for-your-crimes",
   title: "356. Halt! Pay for Your Crimes!",

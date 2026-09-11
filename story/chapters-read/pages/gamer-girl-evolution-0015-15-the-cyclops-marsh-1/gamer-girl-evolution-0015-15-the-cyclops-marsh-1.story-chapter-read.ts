@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution001515TheCyclopsMarsh1 = {
   id: "01a06731-b0dd-7000-a3fc-3119d13b1433",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0015-15-the-cyclops-marsh-1",
   title: "15 - The Cyclops' Marsh (1)",

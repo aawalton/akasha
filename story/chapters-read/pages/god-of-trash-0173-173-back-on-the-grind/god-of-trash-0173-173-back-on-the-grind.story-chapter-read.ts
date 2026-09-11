@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0173173BackOnTheGrind = {
   id: "01a0672c-edcc-7002-8b14-80630f7b2a4f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0173-173-back-on-the-grind",
   title: "173. Back on the Grind",

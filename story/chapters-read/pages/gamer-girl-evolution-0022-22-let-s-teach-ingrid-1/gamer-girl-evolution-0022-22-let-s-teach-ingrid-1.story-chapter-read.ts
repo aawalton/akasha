@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution002222LetSTeachIngrid1 = {
   id: "01a06731-b0dd-7007-8ed1-16ec3febb0fe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0022-22-let-s-teach-ingrid-1",
   title: "22 - Let's Teach Ingrid (1)",

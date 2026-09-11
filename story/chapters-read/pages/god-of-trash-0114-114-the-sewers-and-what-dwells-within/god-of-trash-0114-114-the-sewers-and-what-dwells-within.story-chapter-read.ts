@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0114114TheSewersAndWhatDwellsWithin = {
   id: "01a0672c-edc8-7001-8ca2-efd714183d89",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0114-114-the-sewers-and-what-dwells-within",
   title: "114. The Sewers and What Dwells Within",

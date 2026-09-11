@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution00066IDonTBelieveInGhosts = {
   id: "01a06731-b0db-7017-8e80-65dfa45c88bc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0006-6-i-don-t-believe-in-ghosts",
   title: "6 – I Don’t Believe In Ghosts",

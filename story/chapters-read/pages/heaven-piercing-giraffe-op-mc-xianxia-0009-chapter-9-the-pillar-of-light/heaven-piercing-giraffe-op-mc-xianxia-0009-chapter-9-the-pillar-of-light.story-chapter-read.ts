@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heavenPiercingGiraffeOpMcXianxia0009Chapter9ThePillarOfLight = {
   id: "01a06731-b11d-7005-8c30-e86673f4d028",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0009-chapter-9-the-pillar-of-light",
   title: "Chapter 9: The Pillar of Light",

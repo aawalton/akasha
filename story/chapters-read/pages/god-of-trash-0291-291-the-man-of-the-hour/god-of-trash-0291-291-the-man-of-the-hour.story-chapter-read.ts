@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0291291TheManOfTheHour = {
   id: "01a06731-adfc-7008-9c14-ee6e650989e5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0291-291-the-man-of-the-hour",
   title: "291. The Man of the Hour",

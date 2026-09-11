@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution005252AppointmentCeremony = {
   id: "01a06731-b0df-7001-95ab-01371a5e06b9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0052-52-appointment-ceremony",
   title: "52 - Appointment Ceremony",

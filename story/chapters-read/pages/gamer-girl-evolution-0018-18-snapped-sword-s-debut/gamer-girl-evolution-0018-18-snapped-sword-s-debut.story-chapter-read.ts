@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution001818SnappedSwordSDebut = {
   id: "01a06731-b0dd-7003-8740-ca98f882c44e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0018-18-snapped-sword-s-debut",
   title: "18 - Snapped Sword's Debut",

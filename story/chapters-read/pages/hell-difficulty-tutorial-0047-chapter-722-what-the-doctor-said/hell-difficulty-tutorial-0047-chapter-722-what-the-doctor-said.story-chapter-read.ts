@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0047Chapter722WhatTheDoctorSaid = {
   id: "01a06731-ad72-7005-8bb8-0cd23e8df3eb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0047-chapter-722-what-the-doctor-said",
   title: "Chapter 722 - What the doctor said",

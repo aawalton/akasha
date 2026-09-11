@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0160160TossingTension = {
   id: "01a0672c-edcb-7005-b6dd-e77a5836f38c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0160-160-tossing-tension",
   title: "160. Tossing Tension",

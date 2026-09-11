@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0187187NewSwordWhoDis = {
   id: "01a0672c-edcc-7010-adf6-44416b9528e1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0187-187-new-sword-who-dis",
   title: "187. New Sword, Who Dis?",

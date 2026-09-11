@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heavenPiercingGiraffeOpMcXianxia0004Chapter4MockBattle = {
   id: "01a06731-b11d-7000-b425-553828717d17",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0004-chapter-4-mock-battle",
   title: "Chapter 4: Mock Battle",

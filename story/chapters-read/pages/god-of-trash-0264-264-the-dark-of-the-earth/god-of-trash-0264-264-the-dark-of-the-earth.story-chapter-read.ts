@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0264264TheDarkOfTheEarth = {
   id: "01a06731-adfa-7005-a896-94512d06237d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0264-264-the-dark-of-the-earth",
   title: "264. The Dark of the Earth",

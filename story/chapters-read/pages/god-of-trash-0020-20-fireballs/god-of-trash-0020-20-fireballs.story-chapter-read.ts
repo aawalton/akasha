@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash002020Fireballs = {
   id: "01a0672c-edb3-7004-b652-1fa200f4bf91",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0020-20-fireballs",
   title: "20. Fireballs",

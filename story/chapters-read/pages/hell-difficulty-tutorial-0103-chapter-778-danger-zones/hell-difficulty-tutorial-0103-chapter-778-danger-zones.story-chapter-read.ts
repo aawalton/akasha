@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0103Chapter778DangerZones = {
   id: "01a06731-ad82-700e-8118-ed30ae96149e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0103-chapter-778-danger-zones",
   title: "Chapter 778 - Danger zones",

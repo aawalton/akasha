@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const forgeOfDestiny0431ThreadsChapter388MakingGood1 = {
   id: "01a0672c-eb50-7002-a13f-0fd35cfcc3a7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "forge-of-destiny-0431-threads-chapter-388-making-good-1",
   title: "Threads Chapter 388-Making Good 1",

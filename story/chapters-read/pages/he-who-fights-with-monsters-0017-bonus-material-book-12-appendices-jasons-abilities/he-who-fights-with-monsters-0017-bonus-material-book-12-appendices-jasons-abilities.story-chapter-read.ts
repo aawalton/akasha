@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0017BonusMaterialBook12AppendicesJasonsAbilities = {
   id: "01a06731-adbf-7000-ba8b-7b54ba02b9ad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0017-bonus-material-book-12-appendices-jasons-abilities",
   title: "Bonus Material: Book 12 Appendices, Jasons Abilities",

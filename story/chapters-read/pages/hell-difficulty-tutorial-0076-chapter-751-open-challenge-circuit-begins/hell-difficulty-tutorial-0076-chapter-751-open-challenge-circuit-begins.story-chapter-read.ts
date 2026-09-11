@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0076Chapter751OpenChallengeCircuitBegins = {
   id: "01a06731-ad7a-7004-9e63-c4df38de1124",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0076-chapter-751-open-challenge-circuit-begins",
   title: "Chapter 751 - Open Challenge Circuit begins",

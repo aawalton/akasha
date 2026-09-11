@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0033Chapter966ACulturalExperience = {
   id: "01a06731-adca-7000-9f96-ff006e01e2a9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0033-chapter-966-a-cultural-experience",
   title: "Chapter 966: A Cultural Experience",

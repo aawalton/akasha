@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash002828BurningImpurities = {
   id: "01a0672c-edb6-7001-aeee-5501373e6aff",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0028-28-burning-impurities",
   title: "28. Burning Impurities",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0063Chapter996TheMoreIListenTheMoreIHear = {
   id: "01a06731-ade6-7000-a6c6-741d352cf1a6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0063-chapter-996-the-more-i-listen-the-more-i-hear",
   title: "Chapter 996: The More I Listen, The More I Hear",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0190190RushingIntoDanger = {
   id: "01a0672c-edcd-7002-8274-dc1f7a30817b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0190-190-rushing-into-danger",
   title: "190. Rushing Into Danger",

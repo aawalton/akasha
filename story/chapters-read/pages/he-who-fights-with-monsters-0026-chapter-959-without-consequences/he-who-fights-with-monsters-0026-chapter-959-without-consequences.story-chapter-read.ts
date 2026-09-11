@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const heWhoFightsWithMonsters0026Chapter959WithoutConsequences = {
   id: "01a06731-adc5-7000-b361-baff7a8c362c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0026-chapter-959-without-consequences",
   title: "Chapter 959: Without Consequences",

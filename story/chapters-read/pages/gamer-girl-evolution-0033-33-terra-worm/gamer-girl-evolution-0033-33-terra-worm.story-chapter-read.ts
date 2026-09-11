@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const gamerGirlEvolution003333TerraWorm = {
   id: "01a06731-b0dd-7012-bc78-af4b3fcd0982",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0033-33-terra-worm",
   title: "33 - Terra Worm",

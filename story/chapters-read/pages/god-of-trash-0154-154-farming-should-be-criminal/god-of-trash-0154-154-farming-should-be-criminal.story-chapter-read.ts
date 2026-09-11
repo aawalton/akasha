@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0154154FarmingShouldBeCriminal = {
   id: "01a0672c-edca-7014-be64-39655730855f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0154-154-farming-should-be-criminal",
   title: "154. Farming Should Be Criminal",

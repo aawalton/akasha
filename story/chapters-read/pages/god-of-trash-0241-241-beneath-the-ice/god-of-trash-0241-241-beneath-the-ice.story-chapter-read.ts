@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0241241BeneathTheIce = {
   id: "01a06731-adf8-7004-8a90-3844b3ddb757",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0241-241-beneath-the-ice",
   title: "241. Beneath the Ice",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0201201TouchingMeTouchingYou = {
   id: "01a06731-adf2-7001-9f6b-97ed77e20aa7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0201-201-touching-me-touching-you",
   title: "201. Touching Me (Touching You)",

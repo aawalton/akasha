@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0151151TheresMoreThanOne = {
   id: "01a0672c-edca-7011-8975-bf6d22392823",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0151-151-theres-more-than-one",
   title: "151. There's More Than One",

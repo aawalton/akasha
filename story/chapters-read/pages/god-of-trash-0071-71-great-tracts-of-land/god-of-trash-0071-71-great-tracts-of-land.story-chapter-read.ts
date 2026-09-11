@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash007171GreatTractsOfLand = {
   id: "01a0672c-edc0-7002-9900-87a22d08eb16",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0071-71-great-tracts-of-land",
   title: "71. Great Tracts of Land",

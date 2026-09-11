@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash005959PurpleDawnAcademy = {
   id: "01a0672c-edbc-7008-839f-a7d04d9a900b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0059-59-purple-dawn-academy",
   title: "59. Purple Dawn Academy",
