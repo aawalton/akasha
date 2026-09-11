@@ -36,6 +36,22 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
+      statement: "A compaction ending ends the turn the compaction interrupted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The summary a compaction wrote starts no turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The harness's own echo of a local command starts no turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prompt or an answer after a compaction starts the turn again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Unread is not off.",
     },
     {

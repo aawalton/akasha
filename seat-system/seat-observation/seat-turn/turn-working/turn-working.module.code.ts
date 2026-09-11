@@ -15,6 +15,12 @@ const ASKED_RECORD = "user"
 
 const INTERRUPTED_BY_USER = "[Request interrupted by user]"
 
+const HARNESS_RECORD = "system"
+
+const COMPACTION_ENDED = "compact_boundary"
+
+const HARNESS_WROTE = ["<local-command-caveat>", "<local-command-stdout>", "<command-name>"]
+
 const TASK_ID_FROM = "<task-id>"
 
 const TASK_ID_TO = "</task-id>"
@@ -40,6 +46,7 @@ export interface TurnScan {
 
 export function turnEnded(answer: Answer): boolean {
   if (answer.interrupted === true) return true
+  if (answer.kind === COMPACTION_ENDED) return true
   return answer.kind === ANSWER_RECORD && answer.stopReason === ANSWER_ENDED
 }
 
@@ -145,9 +152,19 @@ export function interruptedIn(record: { message?: unknown; content?: unknown }):
   return textIn(held).includes(INTERRUPTED_BY_USER)
 }
 
-function answerOf(record: { type?: unknown; message?: unknown; content?: unknown }): Answer | null {
+function harnessWroteIt(record: TranscriptRecord): boolean {
+  if (record.isCompactSummary === true) return true
+  const body = bodyOf(record)
+  return HARNESS_WROTE.some((one) => body.startsWith(one))
+}
+
+function answerOf(record: TranscriptRecord): Answer | null {
   const kind = record.type
+  if (kind === HARNESS_RECORD && record.subtype === COMPACTION_ENDED) {
+    return { kind: COMPACTION_ENDED, stopReason: null }
+  }
   if (kind !== ANSWER_RECORD && kind !== ASKED_RECORD) return null
+  if (kind === ASKED_RECORD && harnessWroteIt(record)) return null
   const message = record.message
   const reason =
     message !== null && typeof message === "object"
@@ -162,6 +179,8 @@ function answerOf(record: { type?: unknown; message?: unknown; content?: unknown
 
 interface TranscriptRecord {
   readonly type?: unknown
+  readonly subtype?: unknown
+  readonly isCompactSummary?: unknown
   readonly message?: unknown
   readonly content?: unknown
   readonly toolUseResult?: unknown

@@ -217,3 +217,57 @@ test("a reading with nothing open is left as the reading is", () => {
 test("no task is live once the tasks have gone", () => {
   expect(anyLiveShell(withNothingOpen({ openShells: ["b4"] }))).toBe(false)
 })
+
+const COMPACTED =
+  '{"type":"system","subtype":"compact_boundary","content":"Conversation compacted"}'
+
+const SUMMARY =
+  '{"type":"user","isCompactSummary":true,"message":{"role":"user","content":"This session is being continued from a previous conversation."}}'
+
+const CAVEAT =
+  '{"type":"user","isMeta":true,"message":{"role":"user","content":"<local-command-caveat>Caveat: the messages below were generated while running local commands.</local-command-caveat>"}}'
+
+const ECHOED =
+  '{"type":"user","message":{"role":"user","content":"<command-name>/compact</command-name>"}}'
+
+const SAID =
+  '{"type":"user","message":{"role":"user","content":"<local-command-stdout>Compacted</local-command-stdout>"}}'
+
+const AFTER_COMPACTING = `${COMPACTED}\n${SUMMARY}\n${CAVEAT}\n${ECHOED}\n${SAID}`
+
+test("a compaction ending ends the turn whatever the answer before it said", () => {
+  expect(turnEnded({ kind: "compact_boundary", stopReason: null })).toBe(true)
+  const said = scanRecords(`${ASKED}\n${COMPACTED}`, {}).answer
+
+  expect(said?.kind).toBe("compact_boundary")
+  expect(said === null ? null : turnEnded(said)).toBe(true)
+})
+
+test("what a compaction writes after itself starts no turn", () => {
+  const said = scanRecords(`${ASKED}\n${AFTER_COMPACTING}`, {}).answer
+
+  expect(said?.kind).toBe("compact_boundary")
+  expect(said === null ? null : turnEnded(said)).toBe(true)
+})
+
+test("a prompt after a compaction starts the turn again", () => {
+  const said = scanRecords(`${AFTER_COMPACTING}\n${ASKED}`, {}).answer
+
+  expect(said?.kind).toBe("user")
+  expect(said === null ? null : turnEnded(said)).toBe(false)
+})
+
+test("an answer after a compaction is a turn still running", () => {
+  const said = scanRecords(`${AFTER_COMPACTING}\n${MIDWAY}`, {}).answer
+
+  expect(said?.kind).toBe("assistant")
+  expect(said === null ? null : turnEnded(said)).toBe(false)
+})
+
+test("the prompt that asked for the compaction starts a turn of its own", () => {
+  const asked = '{"type":"user","message":{"role":"user","content":"/compact"}}'
+  const said = scanRecords(`${ENDED}\n${asked}`, {}).answer
+
+  expect(said?.kind).toBe("user")
+  expect(said === null ? null : turnEnded(said)).toBe(false)
+})
