@@ -13,23 +13,23 @@ import {
 
 const AT = "one/held.module.code.ts"
 
-const WAS = "@akasha/code"
+const WAS = "@held/one"
 
-const TO = "@akasha/kode"
+const TO = "@held/two"
 
 const BODY = [
-  'import { one } from "@akasha/code"',
-  'import { two } from "@akasha/code/code-source"',
-  'import { three } from "@akasha/codex"',
-  'const said = "@akasha/code"',
+  'import { one } from "@held/one"',
+  'import { two } from "@held/one/deep"',
+  'import { three } from "@held/oner"',
+  'const said = "@held/one"',
   "",
 ].join("\n")
 
 const RESPELLED = [
-  'import { one } from "@akasha/kode"',
-  'import { two } from "@akasha/kode/code-source"',
-  'import { three } from "@akasha/codex"',
-  'const said = "@akasha/code"',
+  'import { one } from "@held/two"',
+  'import { two } from "@held/two/deep"',
+  'import { three } from "@held/oner"',
+  'const said = "@held/one"',
   "",
 ].join("\n")
 
@@ -46,15 +46,15 @@ test("a name equal to the old name becomes the new name", () => {
 })
 
 test("a name opening with the old name and a slash keeps the tail past that name", () => {
-  expect(nameFor(`${WAS}/code-source`, WAS, TO)).toBe(`${TO}/code-source`)
+  expect(nameFor(`${WAS}/deep`, WAS, TO)).toBe(`${TO}/deep`)
 })
 
 test("a name opening with the old name and no slash names no package renamed", () => {
-  expect(nameFor("@akasha/codex", WAS, TO)).toBeNull()
+  expect(nameFor("@held/oner", WAS, TO)).toBeNull()
 })
 
 test("a name carrying the old name further in names no package renamed", () => {
-  expect(nameFor("held/@akasha/code", WAS, TO)).toBeNull()
+  expect(nameFor("deep/@held/one", WAS, TO)).toBeNull()
 })
 
 test("an alias is parted into what opens it, the package it names and the range", () => {
@@ -86,7 +86,7 @@ test("a string naming no module is left as that string is", () => {
 })
 
 test("a body naming the package nowhere is respelled nowhere", () => {
-  expect(spelledAnew(AT, 'import { one } from "@akasha/pages"\n', WAS, TO)).toEqual([])
+  expect(spelledAnew(AT, 'import { one } from "@held/other"\n', WAS, TO)).toEqual([])
 })
 
 test("a naming handed in spells each specifier anew on its own rather than by prefix", () => {
@@ -94,5 +94,5 @@ test("a naming handed in spells each specifier anew on its own rather than by pr
 })
 
 test("a specifier the naming handed in does not name is left as that specifier is", () => {
-  expect(spelledByNaming(AT, 'import { one } from "@akasha/codex"\n', NAMING)).toEqual([])
+  expect(spelledByNaming(AT, 'import { one } from "@held/oner"\n', NAMING)).toEqual([])
 })

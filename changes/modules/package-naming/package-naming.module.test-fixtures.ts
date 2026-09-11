@@ -1,12 +1,12 @@
 export const NAMING: ReadonlyMap<string, string> = new Map([
-  ["@akasha/code", "akasha/code-system/code-system.workspace-package.ts"],
-  ["@akasha/code/code-source", "akasha/code/code-source/code-source.module.code.ts"],
+  ["@held/one", "held/one/one.workspace-package.ts"],
+  ["@held/one/deep", "held/one/deep/deep.module.code.ts"],
 ])
 
 export const BY_NAMING = [
-  'import { one } from "akasha/code-system/code-system.workspace-package.ts"',
-  'import { two } from "akasha/code/code-source/code-source.module.code.ts"',
-  'import { three } from "@akasha/codex"',
-  'const said = "@akasha/code"',
+  'import { one } from "held/one/one.workspace-package.ts"',
+  'import { two } from "held/one/deep/deep.module.code.ts"',
+  'import { three } from "@held/oner"',
+  'const said = "@held/one"',
   "",
 ].join("\n")

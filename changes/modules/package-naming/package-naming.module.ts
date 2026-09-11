@@ -71,5 +71,9 @@ export const packageNaming = {
       invariantKind: "absence",
       statement: "Nothing here judges whether a name may be renamed.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No package or path this module's test names is one this repository has.",
+    },
   ],
 } as const satisfies Module
