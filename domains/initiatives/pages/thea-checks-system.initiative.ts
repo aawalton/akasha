@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has come back green at audit once.",
       workingMemory:
-        "Each is seen green once rather than all at one moment, because the tree moves faster than a whole audit takes. 49 came back green in one census today, and no-rule-in-two-files reached 0 from 197. Three are left, refusing the same 16 shipped .dds textures at an add-on's own folder level: file-has-its-page, no-raw-nul-bytes and file-length. A folder property may now state the endings it speaks for, so claiming those 16 closes all three.",
+        "Each is seen green once rather than all at one moment, because the tree took 140 commits in half an hour and moves under a run over every file. Every check has come back green but two. page-matches-its-type refuses 57 record entries carrying no id, over two pages a music recorder writes. check-reaches-a-path-through-the-index left experimental an hour ago and binds for the first time: two modules spell a path the index answers for.",
     },
     {
       statement: "Every check spends less processor time than the ceiling its page states.",
