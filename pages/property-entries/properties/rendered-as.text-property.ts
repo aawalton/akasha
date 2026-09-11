@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const renderedAs = {
   id: "01a07cf4-b901-765b-8af0-c41424d855b9",
