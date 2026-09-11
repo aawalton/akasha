@@ -1,9 +1,9 @@
-import type { MobilityReading } from "akasha/alan/values/health/fitness/mobility-readings/mobility-reading.page-type.types.ts"
+import type { FlexibilityLog } from "akasha/alan/values/health/fitness/flexibility/logs/flexibility-log.page-type.types.ts"
 
 export const wallSlideOverhead20260622 = {
   id: "019f01e1-c1ee-7409-a4e1-38b095c7fd9a",
-  pageTypeSlug: "mobility-reading",
-  type: "mobility-reading",
+  pageTypeSlug: "flexibility-log",
+  type: "flexibility-log",
   slug: "wall-slide-overhead-2026-06-22",
   title: "wall-slide-overhead 2026-06-22",
   context: "standalone",
@@ -13,4 +13,4 @@ export const wallSlideOverhead20260622 = {
   mobilityReadingValueNum: 50,
   mobilityReadingValueText:
     "~50% to full overhead with strict contact (cheats via lumbar arch when not enforced)",
-} as const satisfies MobilityReading
+} as const satisfies FlexibilityLog

@@ -1,9 +1,9 @@
-import type { MobilityReading } from "akasha/alan/values/health/fitness/mobility-readings/mobility-reading.page-type.types.ts"
+import type { FlexibilityLog } from "akasha/alan/values/health/fitness/flexibility/logs/flexibility-log.page-type.types.ts"
 
 export const supineSlr20260619Right = {
   id: "019f01e1-c123-7cf4-bb30-b96b4d3bf88b",
-  pageTypeSlug: "mobility-reading",
-  type: "mobility-reading",
+  pageTypeSlug: "flexibility-log",
+  type: "flexibility-log",
   slug: "supine-slr-2026-06-19-right",
   title: "supine-slr 2026-06-19 (right)",
   context: "standalone",
@@ -12,4 +12,4 @@ export const supineSlr20260619Right = {
   side: "right",
   mobilityReadingValueNum: 45,
   mobilityReadingValueText: "~45°, tighter than left (~5/10 stretch vs left at the same angle)",
-} as const satisfies MobilityReading
+} as const satisfies FlexibilityLog

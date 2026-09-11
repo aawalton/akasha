@@ -1,9 +1,9 @@
-import type { MobilityReading } from "akasha/alan/values/health/fitness/mobility-readings/mobility-reading.page-type.types.ts"
+import type { FlexibilityLog } from "akasha/alan/values/health/fitness/flexibility/logs/flexibility-log.page-type.types.ts"
 
 export const forwardFold20260620 = {
   id: "019f01e1-be09-7e2c-b14d-bb134eaa9662",
-  pageTypeSlug: "mobility-reading",
-  type: "mobility-reading",
+  pageTypeSlug: "flexibility-log",
+  type: "flexibility-log",
   slug: "forward-fold-2026-06-20",
   title: "forward-fold 2026-06-20",
   context: "warmup",
@@ -12,4 +12,4 @@ export const forwardFold20260620 = {
   side: "n-a",
   mobilityReadingValueText:
     "fingertips mid-shin → 3/4 down shin (20-30s hold, good intra-hold release)",
-} as const satisfies MobilityReading
+} as const satisfies FlexibilityLog

@@ -9,10 +9,10 @@ export const fitness = {
   parts: [
     "page-type/fitness-equipment",
     "page-type/exercise",
-    "page-type/mobility-reading",
     "page-type/schedule-day",
     "page-type/set-log",
     "page-type/selection-policy",
     "domain/fitness-coaching",
+    "domain/flexibility",
   ],
 } as const satisfies Domain
