@@ -1,5 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { carriedIn, carrierAt, carrierFor, digestOf } from "./carried-file.module.code.ts"
+import {
+  carriedIn,
+  carrierAt,
+  carrierFor,
+  digestOf,
+} from "akasha/code-system/carried-file/carried-file.module.code.ts"
 
 const BYTES = new Uint8Array([0, 1, 2, 255, 0, 65, 66, 0])
 
