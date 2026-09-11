@@ -8,4 +8,5 @@ export const mirrorBaseImages = {
   definition: "every base image the cluster builds on copied into the local registry",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
