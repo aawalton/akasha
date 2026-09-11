@@ -3,6 +3,25 @@ import {
   changeImports,
   changeRuns,
 } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import {
+  CONFIG,
+  IMAGES,
+  LOOK,
+  RECIPES,
+  ROOTS,
+  ROOTS_AT,
+  ROOTS_MOVED,
+  SERVICE,
+  SHELL,
+  TOKENS,
+  TOKENS_AT,
+  TOKENS_IMPORT,
+  TOKENS_IMPORT_AT,
+  WATCHER,
+  WATCHER_AT,
+  WRAPPED,
+  WRAPPED_AT,
+} from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.test-fixtures.ts"
 import { gathered } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
@@ -152,44 +171,6 @@ test("a root-spelled name landing on nothing that moved is left alone", () => {
   expect(ranOn(TABLE, TABLE, text, new Map()).edits).toEqual([])
 })
 
-const SHELL = "machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh"
-
-const ROOTS = "machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
-
-const ROOTS_AT = "machines/provisioning/roots/repo-roots/repo-roots.shell-script.shell.sh"
-
-const ROOTS_MOVED = new Map([[ROOTS, ROOTS_AT]])
-
-const LOOK = "design/interfaces/system/design-look/design-look.stylesheet.styles.css"
-
-const TOKENS = "design/interfaces/system/token-values/token-values.stylesheet.styles.css"
-
-const TOKENS_AT = "design/interfaces/tokens/token-values/token-values.stylesheet.styles.css"
-
-const WRAPPED = "services/workstations/service-wrapping/service-wrapping.module.code.ts"
-
-const WRAPPED_AT =
-  "infrastructure/services/workstations/service-wrapping/service-wrapping.module.code.ts"
-
-const SERVICE = "infrastructure/services/pages/pages-service.service.ts"
-
-const RECIPES = "inference/generations/upscale/up/upscale-up.shell-script.shell.sh"
-
-const IMAGES = new Map([
-  [
-    "inference/generations/upscale/image/Containerfile",
-    "inference/generations/upscale/recipe/Containerfile",
-  ],
-  [
-    "inference/generations/wan/image/Containerfile",
-    "inference/generations/wan/recipe/Containerfile",
-  ],
-  [
-    "inference/generations/zimage/image/Containerfile",
-    "inference/generations/zimage/recipe/Containerfile",
-  ],
-])
-
 function ranOverRuns(
   was: string,
   now: string,
@@ -233,20 +214,19 @@ test("a manifest's way in follows the file that moved", () => {
 })
 
 test("a stylesheet naming a file beside it is respelled from where the body sits", () => {
-  const text = `@import "../token-values/token-values.stylesheet.styles.css";\n`
-
-  expect(runBodyIn(LOOK, LOOK, text, new Map([[TOKENS, TOKENS_AT]]))).toBe(
-    `@import "../../tokens/token-values/token-values.stylesheet.styles.css";\n`
+  expect(runBodyIn(LOOK, LOOK, TOKENS_IMPORT, new Map([[TOKENS, TOKENS_AT]]))).toBe(
+    TOKENS_IMPORT_AT
   )
 })
 
 test("a config naming a file by climbing follows that file", () => {
-  const at = "code-system/editor/extension/tsconfig.json"
   const was = "alan/harness/code-editor/data-interfaces/pages/work-tree/work-tree.d.ts"
   const now = "alan/harness/code-editor/interfaces/work-tree/work-tree.d.ts"
   const text = `{ "files": ["../../../${was}"] }\n`
 
-  expect(runBodyIn(at, at, text, new Map([[was, now]]))).toBe(`{ "files": ["../../../${now}"] }\n`)
+  expect(runBodyIn(CONFIG, CONFIG, text, new Map([[was, now]]))).toBe(
+    `{ "files": ["../../../${now}"] }\n`
+  )
 })
 
 test("a run naming as many files that moved as it shares an ending with is left alone", () => {
@@ -263,11 +243,13 @@ test("a run naming a folder rather than a whole path is left alone", () => {
 })
 
 test("a relative run landing on nothing that moved is left alone though the body moved", () => {
-  const was = "temper/watcher/image/Containerfile"
-  const now = "temper/watcher/recipe/Containerfile"
-
   expect(
-    ranOverRuns(was, now, `COPY ./src/main.rs ./src/main.rs\n`, new Map([[was, now]])).edits
+    ranOverRuns(
+      WATCHER,
+      WATCHER_AT,
+      `COPY ./src/main.rs ./src/main.rs\n`,
+      new Map([[WATCHER, WATCHER_AT]])
+    ).edits
   ).toEqual([])
 })
 
