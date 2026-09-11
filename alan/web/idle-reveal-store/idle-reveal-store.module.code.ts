@@ -1,28 +1,22 @@
 import type { DrawReveal } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
+import { listenerSet } from "akasha/design/interfaces/primitives/listener-set/listener-set.module.code.ts"
 
 let current: DrawReveal | null = null
-const listeners = new Set<() => void>()
-
-function notify(): undefined {
-  for (const listener of listeners) listener()
-}
+const listeners = listenerSet()
 
 export function pushReveal(reveal: DrawReveal): undefined {
   current = reveal
-  notify()
+  listeners.tell()
 }
 
 export function clearReveal(): undefined {
   if (current === null) return
   current = null
-  notify()
+  listeners.tell()
 }
 
 export function subscribeReveal(listener: () => void): () => void {
-  listeners.add(listener)
-  return () => {
-    listeners.delete(listener)
-  }
+  return listeners.subscribe(listener)
 }
 
 export function getRevealSnapshot(): DrawReveal | null {

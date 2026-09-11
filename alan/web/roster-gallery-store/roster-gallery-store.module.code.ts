@@ -1,27 +1,22 @@
-let currentSlug: string | null = null
-const listeners = new Set<() => void>()
+import { listenerSet } from "akasha/design/interfaces/primitives/listener-set/listener-set.module.code.ts"
 
-function notify(): undefined {
-  for (const listener of listeners) listener()
-}
+let currentSlug: string | null = null
+const listeners = listenerSet()
 
 export function openRosterGallery(slug: string): undefined {
   if (currentSlug === slug) return
   currentSlug = slug
-  notify()
+  listeners.tell()
 }
 
 export function closeRosterGallery(): undefined {
   if (currentSlug === null) return
   currentSlug = null
-  notify()
+  listeners.tell()
 }
 
 export function subscribeRosterGallery(listener: () => void): () => void {
-  listeners.add(listener)
-  return () => {
-    listeners.delete(listener)
-  }
+  return listeners.subscribe(listener)
 }
 
 export function getRosterGallerySnapshot(): string | null {

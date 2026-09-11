@@ -1,3 +1,4 @@
+import { listenerSet } from "akasha/design/interfaces/primitives/listener-set/listener-set.module.code.ts"
 import { z } from "zod"
 import type { Catalog } from "../idle-catalog/idle-catalog.module.code.ts"
 
@@ -16,17 +17,10 @@ const catalogSchema = z.looseObject({
 
 let catalog: Catalog | null = null
 let loadStarted = false
-const listeners = new Set<() => void>()
-
-function notify(): undefined {
-  for (const listener of listeners) listener()
-}
+const listeners = listenerSet()
 
 export function subscribeCatalog(listener: () => void): () => void {
-  listeners.add(listener)
-  return () => {
-    listeners.delete(listener)
-  }
+  return listeners.subscribe(listener)
 }
 
 export function getCatalogSnapshot(): Catalog | null {
@@ -46,7 +40,7 @@ export function ensureCatalogLoaded(fetchImpl: CatalogFetch = fetch): undefined 
         return
       }
       catalog = catalogSchema.parse(await res.json())
-      notify()
+      listeners.tell()
     } catch {
       loadStarted = false
     }
