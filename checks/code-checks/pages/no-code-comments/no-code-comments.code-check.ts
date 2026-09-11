@@ -33,10 +33,6 @@ export const noCodeComments = {
         "A comment in a stylesheet is found by scanning past the strings the stylesheet has.",
     },
     {
-      invariantKind: "gap",
-      statement: "A stylesheet is read by a parser rather than by a scan.",
-    },
-    {
       invariantKind: "departure",
       statement: "The forms are held in the check's own code.",
     },
