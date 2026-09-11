@@ -1,6 +1,9 @@
 import { parseRestoreMetricIdsFromAbilityText } from "akasha/temper/addon-generators/parse-restore-metrics-from-ability-text/parse-restore-metrics-from-ability-text.module.code.ts"
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import { ALCHEMY_EFFECT_IDS } from "akasha/temper/alchemy/potion-traits/potion-traits.module.code.ts"
+import {
+  ALCHEMY_EFFECT_IDS,
+  encodedTraitsOf,
+} from "akasha/temper/alchemy/potion-traits/potion-traits.module.code.ts"
 import { isMetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 
 export interface MinedRestorePotion {
@@ -64,15 +67,6 @@ function alchemyTraitsForEffects(effects: readonly EffectLike[]): readonly numbe
   return [...new Set(traits)].sort((a, b) => a - b)
 }
 
-function computeEncodedTraits(traits: readonly number[], isThreeReagent: boolean): number {
-  if (traits.length === 0) return 0
-  const effect1 = traits[0] ?? 0
-  const effect2 = traits[1] ?? 0
-  const effect3 = traits[2] ?? 0
-  const reagent3Flag = isThreeReagent ? 0x80 : 0
-  return ((effect1 | reagent3Flag) << 16) | (effect2 << 8) | effect3
-}
-
 function restoreMetricsForPotion(effects: readonly EffectLike[]): readonly string[] {
   const restore = effects
     .filter(isMetricEffect)
@@ -107,7 +101,7 @@ export function generatePotionRestoreMetrics(
         potion.reagents !== undefined &&
         potion.reagents.length > 0 &&
         (potion.reagents[0]?.length ?? 0) >= 3
-      const encodedTraits = computeEncodedTraits(traits, isThreeReagent)
+      const encodedTraits = encodedTraitsOf(traits, isThreeReagent)
       if (encodedTraits === 0) continue
       encodedTraitsEntries.push(`  [${encodedTraits}]: ${metricsLiteral}, // ${potion.name}`)
     }

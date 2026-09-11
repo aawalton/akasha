@@ -1,5 +1,8 @@
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import { ALCHEMY_EFFECT_IDS } from "akasha/temper/alchemy/potion-traits/potion-traits.module.code.ts"
+import {
+  ALCHEMY_EFFECT_IDS,
+  encodedTraitsOf,
+} from "akasha/temper/alchemy/potion-traits/potion-traits.module.code.ts"
 
 const METRIC_TO_ALCHEMY_TRAIT: Record<string, number> = {
   "resistance-physical": ALCHEMY_EFFECT_IDS["increase-armor"],
@@ -51,18 +54,6 @@ function getAlchemyTraitsForPotion(
   return unique
 }
 
-function computeEncodedTraitsFromAlchemyTraits(
-  traits: readonly number[],
-  isThreeReagent: boolean
-): number {
-  if (traits.length === 0) return 0
-  const effect1 = traits[0] ?? 0
-  const effect2 = traits[1] ?? 0
-  const effect3 = traits[2] ?? 0
-  const reagent3Flag = isThreeReagent ? 0x80 : 0
-  return ((effect1 | reagent3Flag) << 16) | (effect2 << 8) | effect3
-}
-
 export function generatePotionMappings(): string {
   const itemIdIndexEntries: string[] = []
   const itemIdTemperIdEntries: string[] = []
@@ -90,7 +81,7 @@ export function generatePotionMappings(): string {
         potion.reagents !== undefined &&
         potion.reagents.length > 0 &&
         (potion.reagents[0]?.length ?? 0) >= 3
-      const encodedTraits = computeEncodedTraitsFromAlchemyTraits(traits, isThreeReagent)
+      const encodedTraits = encodedTraitsOf(traits, isThreeReagent)
       if (encodedTraits === 0) continue
       encodedTraitsIndexEntries.push(
         `  [${encodedTraits}]: ${i}, // ${potion.name} (traits: ${traits.join(",")})`

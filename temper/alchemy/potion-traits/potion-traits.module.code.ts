@@ -1,3 +1,12 @@
+export function encodedTraitsOf(traits: readonly number[], isThreeReagent: boolean): number {
+  if (traits.length === 0) return 0
+  const effect1 = traits[0] ?? 0
+  const effect2 = traits[1] ?? 0
+  const effect3 = traits[2] ?? 0
+  const reagent3Flag = isThreeReagent ? 0x80 : 0
+  return ((effect1 | reagent3Flag) << 16) | (effect2 << 8) | effect3
+}
+
 export const ALCHEMY_EFFECT_IDS = {
   "restore-health": 1,
   "ravage-health": 2,

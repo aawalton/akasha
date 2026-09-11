@@ -6,4 +6,19 @@ export const potionTraits = {
   slug: "potion-traits",
   definition: "the number the game encodes each alchemy effect as",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A potion's three effects pack into one number, a byte each, first effect highest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A third reagent is the high bit of the first effect's byte.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A potion with no effect encodes as zero.",
+    },
+  ],
 } as const satisfies Module
