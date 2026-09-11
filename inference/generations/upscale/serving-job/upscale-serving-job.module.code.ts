@@ -1,7 +1,6 @@
+import { upscaleClusterImage } from "akasha/inference/generations/upscale/cluster-image/upscale-cluster-image.container-recipe.ts"
 import { gpuVramUsableMinSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
-
-export const UPSCALE_SERVING_IMAGE =
-  "registry.registry.svc.cluster.local:5000/cluster/upscale-cu121:serving"
+import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
 export const UPSCALE_SERVING_NAMESPACE = "seaweedfs"
 
@@ -42,7 +41,7 @@ export interface UpscaleServingJobParams {
 
 export function buildUpscaleServingJob(params: UpscaleServingJobParams) {
   const bucket = params.bucket ?? UPSCALE_SERVING_BUCKET
-  const image = params.image ?? UPSCALE_SERVING_IMAGE
+  const image = params.image ?? refOf(upscaleClusterImage)
   const blocksToSwap = params.blocksToSwap ?? DEFAULT_BLOCKS_TO_SWAP
 
   const env: readonly EnvVar[] = [

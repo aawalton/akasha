@@ -9,7 +9,7 @@ export const voiceInfer = {
   resourceKind: "Deployment",
   namespace: "voice",
   resourceName: "voice-infer",
-  image: "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121:serving",
+  image: "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121",
   replicas: 1,
   containerPort: 8080,
   manifest: "voice-infer",

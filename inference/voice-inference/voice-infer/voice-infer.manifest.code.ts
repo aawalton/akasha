@@ -1,6 +1,8 @@
+import { voiceInferImage } from "akasha/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
+import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
 export const NAMESPACE = "voice"
 const APP_NAME = "voice-infer"
@@ -8,8 +10,6 @@ const INSTANCE_NAME = "voice-infer"
 const COMPONENT = "inference"
 const PART_OF = "voice"
 const MANAGED_BY = "bootstrap"
-
-export const IMAGE = "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121:serving"
 
 export const NODE = "node-02"
 
@@ -63,7 +63,7 @@ function deploymentYaml(): string {
           containers: [
             {
               name: "voice-infer",
-              image: IMAGE,
+              image: refOf(voiceInferImage),
               imagePullPolicy: "Always",
               ports: [{ containerPort: PORT, protocol: "TCP" }],
               env: [
