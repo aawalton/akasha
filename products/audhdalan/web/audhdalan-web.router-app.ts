@@ -28,4 +28,5 @@ export const audhdalanWeb = {
     "module/subscribe-form",
     "app-routes/audhdalan-web-routes",
   ],
+  toolReached: ["react-dom"],
 } as const satisfies RouterApp
