@@ -26,7 +26,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "16 findings sit in the checks subtree, not 31; all 19 parts of check.domain.ts were walked, so that is the whole set. Three were parked behind a bar that is not there: Alan Approves Checks says widening an approved check needs none. Five have had their mechanism carried onto a page, and each shortfall left may not move without breaching intent 8. an-install-that-never-prunes claims 41 importing files; a parse-position scan over 123907 tracked files finds none, so that half of it is false.",
+        "14 findings sit in the checks subtree; 4 went tonight, 2 are out of scope on experimental checks, 9 are true and uncarried. Nothing is parked behind a bar that is not there: the four naming Alan park on narrowing, a new check, scheduling and shims, all sound, since widening an approved check is free and narrowing is not. Disposal cannot reach this. The tree filed 6, 2, 16, 24 and 28 over five days and 11 in four hours, and one was filed at 21:41 and dead at 21:45.",
     },
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
