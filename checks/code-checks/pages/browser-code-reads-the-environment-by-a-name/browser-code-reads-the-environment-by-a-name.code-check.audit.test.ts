@@ -3,13 +3,13 @@ import {
   askingAt,
   browserCodeReadsTheEnvironmentByAName,
 } from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.audit.code.ts"
-import { scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import {
   APP_HELD,
   APP_PAGE,
   APP_PLAIN,
   appRooted,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
+import { scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 
 afterAll(scratch.sweep)
 

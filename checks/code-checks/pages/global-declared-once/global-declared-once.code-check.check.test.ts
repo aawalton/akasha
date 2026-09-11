@@ -8,13 +8,9 @@ import {
   indented,
   reasoned,
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.test-fixtures.ts"
-import {
-  change,
-  scratch,
-  staged,
-} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,

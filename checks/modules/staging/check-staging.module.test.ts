@@ -7,7 +7,7 @@ import {
   named,
   scratch,
   staged,
-} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+} from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"

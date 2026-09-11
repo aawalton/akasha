@@ -4,8 +4,8 @@ import {
   breaking,
   numbered,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
-import { scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 
 afterAll(scratch.sweep)
 

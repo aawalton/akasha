@@ -3,12 +3,12 @@ import {
   askingIn,
   clientReachesAServerModuleThroughARoute,
 } from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.check.code.ts"
-import { change, scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import {
   APP_PAGE,
   APP_PLAIN,
   appRooted,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
+import { change, scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

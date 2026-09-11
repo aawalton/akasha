@@ -1,5 +1,5 @@
-import { staged } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import { APP } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
+import { staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

@@ -3,11 +3,7 @@ import {
   askingIn,
   clientReachesPagesThroughItsHooks,
 } from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.check.code.ts"
-import {
-  change,
-  scratch,
-  staged,
-} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"

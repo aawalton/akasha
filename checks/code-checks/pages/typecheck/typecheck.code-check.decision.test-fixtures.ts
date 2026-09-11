@@ -6,13 +6,13 @@ import {
   refusalsOver,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   bodied,
   change,
   named,
   staged,
-} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
-import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+} from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   pathFiled,
