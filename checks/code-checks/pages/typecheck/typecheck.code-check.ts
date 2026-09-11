@@ -266,6 +266,10 @@ export const typecheck = {
       invariantKind: "departure",
       statement: "Judging those costs no compiling, the program holding them already.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A lua runtime library the change moves is found where that change leaves it.",
+    },
   ],
   check: { maxCpuSeconds: 120 },
   audit: { maxCpuSeconds: 150 },

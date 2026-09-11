@@ -24,7 +24,7 @@ import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.
 import { reachingInto } from "akasha/graph/asking/graph-asking.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { waitingKeys } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -251,10 +251,17 @@ export function matching(one: string): RegExp {
   return new RegExp(`^${said}$`)
 }
 
+export function librariesIn(change: Change, index: Answering): readonly string[] {
+  const held = new Set(index.everyOfType(LIBRARY).map((one) => one.path))
+  const under = new Set([LIBRARY])
+  for (const one of change.changed) if (namedUnder(one, under) !== null) held.add(one)
+  return [...held].filter((one) => change.after(one) !== null)
+}
+
 export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
   const held: RegExp[] = []
-  for (const listed of index.everyOfType(LIBRARY)) {
-    const folder = dirname(listed.path)
+  for (const listed of librariesIn(change, index)) {
+    const folder = dirname(listed)
     for (const name of CONFIGS) {
       const bytes = change.after(join(folder, name))
       if (bytes === null) continue
