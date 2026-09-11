@@ -8,4 +8,5 @@ export const promote = {
   definition: "a namespace's Next.js deployment moved to an image tag, rolled back if it fails",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
