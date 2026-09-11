@@ -8,4 +8,5 @@ export const rotateCfToken = {
   definition: "the Cloudflare API token stored, verified and replaced",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
