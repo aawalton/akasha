@@ -119,7 +119,7 @@ export const noBodyReadBesideAnIndex = {
       statement: "A root reaching a function under a name with no root word is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A function reading twice is refused at its first read alone.",
     },
   ],
