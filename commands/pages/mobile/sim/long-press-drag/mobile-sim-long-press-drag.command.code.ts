@@ -12,7 +12,7 @@ import {
   type Reading,
   type Said,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 
 const X = "--x"
 

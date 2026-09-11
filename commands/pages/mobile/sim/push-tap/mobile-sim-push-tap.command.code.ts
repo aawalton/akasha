@@ -37,7 +37,7 @@ import {
   type Reading,
   UDID_SAID,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
 

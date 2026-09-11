@@ -19,7 +19,7 @@ import {
   type Reading,
   UDID_SAID,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 
 const ROUTE = "--route"
 

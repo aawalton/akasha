@@ -16,7 +16,7 @@ import {
   countOf,
   type Reading,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 
 const BUILD_NUMBER = "--build-number"
 

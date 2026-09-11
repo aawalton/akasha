@@ -15,7 +15,7 @@ import {
   driving,
   type Reading,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 
 const SELECTOR = "--selector"
 

@@ -29,7 +29,7 @@ import {
   keyedLines,
   type Reading,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const MAIN = "origin/main"

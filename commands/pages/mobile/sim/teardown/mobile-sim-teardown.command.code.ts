@@ -14,7 +14,7 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import {
   type Reading,
   wordsIn,
-} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 
 const STOP_APPIUM = "--stop-appium"
 
