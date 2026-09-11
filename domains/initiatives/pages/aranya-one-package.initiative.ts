@@ -28,7 +28,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "Each fold is `change-file` off `manifest` then `remove-package-manifest`, and `change-page-page-type` to `domain` only where the page was a bare workspace-package. 12 manifests are left beside the root, each read by a tool that walks up to it: 7 web apps by react-router, 3 ios-apps by Capacitor, 2 editor extensions by vscode. The deploy intents above no longer wait on this one; this one now comes first, since what is left of them empties when these manifests go.",
+        "No tool walks up: react-router and Capacitor both take process.cwd(), measured in node_modules. So the 7 web apps need no tool change; 5 go now, and alan/web pairs with web-capacitor once 21 specifiers come off its exports map. The 3 ios-apps wait on the mac build installing at the root. 2 can never go: ops-extension is vscode own descriptor, and vscode-typings is named workspace:* by the root. A removal leaving a dangling workspace:* fails the deploy frozen-lockfile gate.",
     },
     {
       statement: "A check refuses a relative path.",
