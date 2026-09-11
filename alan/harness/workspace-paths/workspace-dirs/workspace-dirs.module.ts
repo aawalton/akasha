@@ -8,6 +8,7 @@ export const workspaceDirs = {
   definition: "the folders a root manifest's workspaces entries represent, with globs expanded",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

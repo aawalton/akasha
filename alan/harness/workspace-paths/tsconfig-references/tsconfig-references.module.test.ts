@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { packageAt } from "../workspace-dirs/workspace-dirs.module.test-fixtures.ts"
 import {
   danglingOver,
   reaches,
@@ -19,12 +20,6 @@ function rootWith(workspaces: readonly string[]): string {
   const root = SCRATCH.rootFor("tsconfig-references-")
   writeFileSync(join(root, "package.json"), JSON.stringify({ workspaces }))
   return root
-}
-
-function packageAt(root: string, rel: string): undefined {
-  mkdirSync(join(root, rel), { recursive: true })
-  writeFileSync(join(root, rel, "package.json"), "{}")
-  return undefined
 }
 
 function tsconfigAt(root: string, rel: string, body: unknown): undefined {
