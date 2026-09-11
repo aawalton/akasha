@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0028BonusChapter01PreludeForm111C = {
   id: "01a06731-ae80-7005-853a-f53e5601eca5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0028-bonus-chapter-0-1-prelude-form-111-c",
   title: "Bonus Chapter 0.1 - Prelude - Form 111-C",

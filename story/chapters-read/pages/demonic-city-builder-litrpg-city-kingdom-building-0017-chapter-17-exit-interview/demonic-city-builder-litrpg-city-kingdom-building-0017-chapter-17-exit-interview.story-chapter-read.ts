@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter17ExitInterview = {
   id: "01a06731-ae77-7000-bfb7-f47fb759cf92",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0017-chapter-17-exit-interview",
   title: "Chapter 17 - Exit Interview",

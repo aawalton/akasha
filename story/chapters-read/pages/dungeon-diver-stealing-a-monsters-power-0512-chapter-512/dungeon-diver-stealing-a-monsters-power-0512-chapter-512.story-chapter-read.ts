@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDiverStealingAMonstersPower0512Chapter512 = {
   id: "01a0672b-4501-7001-be5d-98e2a978b3bd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-diver-stealing-a-monsters-power-0512-chapter-512",
   title: "Chapter 512",

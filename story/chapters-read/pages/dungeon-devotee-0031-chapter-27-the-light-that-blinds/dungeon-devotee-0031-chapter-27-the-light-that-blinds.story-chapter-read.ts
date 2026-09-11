@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0031Chapter27TheLightThatBlinds = {
   id: "01a06731-b114-7000-aad2-53ef949acb1d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0031-chapter-27-the-light-that-blinds",
   title: "Chapter 27: The Light That Blinds",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0008AprilFoolsTheWishPartFive = {
   id: "01a06731-b0e8-7000-932a-5d676570f1df",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0008-april-fools-the-wish-part-five",
   title: "April Fools - The Wish: Part Five",

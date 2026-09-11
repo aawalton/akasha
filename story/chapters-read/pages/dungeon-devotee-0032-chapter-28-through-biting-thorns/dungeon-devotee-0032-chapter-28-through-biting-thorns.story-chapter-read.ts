@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0032Chapter28ThroughBitingThorns = {
   id: "01a06731-b11a-7000-80ff-05910c3bef4e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0032-chapter-28-through-biting-thorns",
   title: "Chapter 28: Through Biting Thorns",

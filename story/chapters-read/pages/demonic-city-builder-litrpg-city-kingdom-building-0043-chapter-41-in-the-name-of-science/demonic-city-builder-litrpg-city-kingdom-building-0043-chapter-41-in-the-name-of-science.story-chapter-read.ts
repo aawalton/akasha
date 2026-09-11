@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0043Chapter41InTheNameOfScience = {
   id: "01a06731-ae8c-7000-8665-da67ef82670f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0043-chapter-41-in-the-name-of-science",
   title: "Chapter 41 - In The Name of Science",

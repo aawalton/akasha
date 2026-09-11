@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0029Chapter25AnIntroductionAReunionAndADeal = {
   id: "01a06731-b10f-7000-882e-982398ad9f3d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0029-chapter-25-an-introduction-a-reunion-and-a-deal",
   title: "Chapter 25: An Introduction, a Reunion, and a Deal",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0014Chapter12AmongTheCharcoalTrees = {
   id: "01a06731-b0f3-7000-9253-d03cd5c4f99b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0014-chapter-12-among-the-charcoal-trees",
   title: "Chapter 12: Among the Charcoal Trees",

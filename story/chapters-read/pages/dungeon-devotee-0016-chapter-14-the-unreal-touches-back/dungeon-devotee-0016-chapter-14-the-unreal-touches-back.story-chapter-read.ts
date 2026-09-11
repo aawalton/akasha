@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0016Chapter14TheUnrealTouchesBack = {
   id: "01a06731-b0fc-7000-a9fc-33191cb2321e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0016-chapter-14-the-unreal-touches-back",
   title: "Chapter 14: The Unreal Touches Back",

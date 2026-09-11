@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0007Chapter6NoLostLittleGirl = {
   id: "01a06731-b0e6-7000-8131-c0be9a37c1ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0007-chapter-6-no-lost-little-girl",
   title: "Chapter 6: No Lost Little Girl",

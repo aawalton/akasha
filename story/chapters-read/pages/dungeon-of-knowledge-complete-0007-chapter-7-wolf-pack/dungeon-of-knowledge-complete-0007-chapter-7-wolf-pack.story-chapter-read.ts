@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonOfKnowledgeComplete0007Chapter7WolfPack = {
   id: "01a0672c-eb13-7000-97eb-8a4941391198",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0007-chapter-7-wolf-pack",
   title: "Chapter 7: Wolf Pack",

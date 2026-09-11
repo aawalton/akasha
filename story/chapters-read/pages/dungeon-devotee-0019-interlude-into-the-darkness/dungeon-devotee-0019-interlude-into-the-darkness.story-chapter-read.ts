@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0019InterludeIntoTheDarkness = {
   id: "01a06731-b100-7000-b873-5ead6a448729",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0019-interlude-into-the-darkness",
   title: "Interlude: Into the Darkness",

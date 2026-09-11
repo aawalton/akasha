@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter57FireIcePart1 = {
   id: "01a06731-ae79-7000-b369-8d8e506e88ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0018-chapter-57-fire-ice-part-1",
   title: "Chapter 57 - Fire & Ice - Part 1",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter56ExtrinsicMotivation = {
   id: "01a06731-ae77-7001-98b7-7841e0c9dde6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0017-chapter-56-extrinsic-motivation",
   title: "Chapter 56 - Extrinsic Motivation",

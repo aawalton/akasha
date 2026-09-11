@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const dungeonDevotee0018Chapter15TheTrueValueOfACupOfAle = {
   id: "01a06731-b0fe-7001-86dc-8ae6c80a28e6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "dungeon-devotee-0018-chapter-15-the-true-value-of-a-cup-of-ale",
   title: "Chapter 15: The True Value of a Cup of Ale",
