@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const resistWater = {
   id: "01a06572-95dd-7d39-9526-2f5a041b2cd7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "resist-water",
   title: "Resist Water",

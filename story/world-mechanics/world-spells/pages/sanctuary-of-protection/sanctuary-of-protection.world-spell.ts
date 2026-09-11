@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const sanctuaryOfProtection = {
   id: "01a06572-95de-7b6b-8f41-32eb9a28d36a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "sanctuary-of-protection",
   title: "Sanctuary of Protection",

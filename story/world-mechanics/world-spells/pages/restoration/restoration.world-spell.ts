@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const restoration = {
   id: "01a06572-95dd-7bd9-85c2-2795fb8efe58",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "restoration",
   title: "Restoration",

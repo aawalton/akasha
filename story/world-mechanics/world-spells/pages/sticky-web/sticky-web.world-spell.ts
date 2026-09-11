@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stickyWeb = {
   id: "01a06572-95e3-7a18-bb6c-f6cfed77a1c9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "sticky-web",
   title: "Sticky Web",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const tserreSPoliteInquiry = {
   id: "01a06572-95e7-7e0b-884b-d1b25921f778",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "tserre-s-polite-inquiry",
   title: "Tserre’s Polite Inquiry",

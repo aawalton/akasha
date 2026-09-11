@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const unlockObject = {
   id: "01a06572-95e8-75a7-a4b5-36c54f611f2d",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "unlock-object",
   title: "Unlock Object",

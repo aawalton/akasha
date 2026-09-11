@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const threefoldBarrier = {
   id: "01a06572-95e6-7c19-b833-c8d4cd84ac8d",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "threefold-barrier",
   title: "Threefold Barrier",

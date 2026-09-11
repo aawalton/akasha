@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const pinpointSpellNeedleSFocus = {
   id: "01a06572-95db-7790-a83c-8bbc4ce3bd38",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "pinpoint-spell-needle-s-focus",
   title: "Pinpoint Spell: Needle’s Focus",

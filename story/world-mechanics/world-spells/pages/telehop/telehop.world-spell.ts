@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const telehop = {
   id: "01a06572-95e5-7706-8962-a7642df7450f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "telehop",
   title: "Telehop",

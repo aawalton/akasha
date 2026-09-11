@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const shatteringStoneLance = {
   id: "01a06572-95e0-7306-af2b-83b6f67ecc7f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "shattering-stone-lance",
   title: "Shattering Stone Lance",

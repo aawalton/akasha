@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const refinedAppraisal = {
   id: "01a06572-95dc-76c6-a7b8-4f10ff65d60f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "refined-appraisal",
   title: "Refined Appraisal",

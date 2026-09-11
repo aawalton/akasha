@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const prisonOfWordAndThought = {
   id: "01a06572-95db-7c5c-9856-abe32af46e88",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "prison-of-word-and-thought",
   title: "Prison of Word and Thought",

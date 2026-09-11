@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const theGoldenRaysOfRhir = {
   id: "01a06572-95e6-7725-8b27-e13a26339e5a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "the-golden-rays-of-rhir",
   title: "The Golden Rays of Rhir",

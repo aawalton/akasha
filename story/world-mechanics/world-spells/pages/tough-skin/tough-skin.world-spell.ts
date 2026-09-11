@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const toughSkin = {
   id: "01a06572-95e7-76c6-8064-1a8c2a54a91d",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "tough-skin",
   title: "Tough Skin",

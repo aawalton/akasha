@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stepOfLight = {
   id: "01a06572-95e3-7643-b0ac-ff8b7283fd19",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "step-of-light",
   title: "Step of Light",

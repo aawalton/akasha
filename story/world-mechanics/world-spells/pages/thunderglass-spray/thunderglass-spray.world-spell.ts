@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const thunderglassSpray = {
   id: "01a06572-95e7-7174-ad7e-903ee43eb2d8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "thunderglass-spray",
   title: "Thunderglass Spray",

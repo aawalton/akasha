@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const soothe = {
   id: "01a06572-95e1-70a7-83a3-a6f977988a81",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "soothe",
   title: "Soothe",

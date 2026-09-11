@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const seeHeat = {
   id: "01a06572-95df-7219-87b8-e1ac26ca9c0a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "see-heat",
   title: "See Heat",

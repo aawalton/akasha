@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const sightlessWinds = {
   id: "01a06572-95e0-7d43-a8c0-584d0cdbf331",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "sightless-winds",
   title: "Sightless Winds",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stunBolt = {
   id: "01a06572-95e4-7fd3-b51f-479df0a21593",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "stun-bolt",
   title: "Stun Bolt",

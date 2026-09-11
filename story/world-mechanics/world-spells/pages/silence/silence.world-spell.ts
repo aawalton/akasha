@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const silence = {
   id: "01a06572-95e0-7ca6-8b6f-4152fbb5d799",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "silence",
   title: "Silence",

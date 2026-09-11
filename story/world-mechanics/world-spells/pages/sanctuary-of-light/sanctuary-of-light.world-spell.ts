@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const sanctuaryOfLight = {
   id: "01a06572-95de-7588-9007-5d0f7659aec5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "sanctuary-of-light",
   title: "Sanctuary of Light",

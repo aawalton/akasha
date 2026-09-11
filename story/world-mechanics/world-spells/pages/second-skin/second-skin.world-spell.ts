@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const secondSkin = {
   id: "01a06572-95df-7922-918e-f5dd2fe224e1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "second-skin",
   title: "Second Skin",

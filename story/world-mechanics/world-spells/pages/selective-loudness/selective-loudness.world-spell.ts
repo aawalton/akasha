@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const selectiveLoudness = {
   id: "01a06572-95df-7217-b1fd-e4d6fcb70d96",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "selective-loudness",
   title: "Selective Loudness",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const vortexOfAnnihilation = {
   id: "01a06572-95e8-7701-9c87-313fcbad4273",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "vortex-of-annihilation",
   title: "Vortex…of…Annihilation",

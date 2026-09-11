@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const waterWall = {
   id: "01a06572-95e9-7db0-a03a-ac855823f6a1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "water-wall",
   title: "Water Wall",

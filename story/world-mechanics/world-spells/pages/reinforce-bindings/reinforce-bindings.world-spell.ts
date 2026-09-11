@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const reinforceBindings = {
   id: "01a06572-95dc-74f8-9207-ed827fcfbdac",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "reinforce-bindings",
   title: "Reinforce Bindings",

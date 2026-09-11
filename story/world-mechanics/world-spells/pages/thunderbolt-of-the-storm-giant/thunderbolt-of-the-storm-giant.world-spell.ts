@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const thunderboltOfTheStormGiant = {
   id: "01a06572-95e7-7073-b1db-86d9a0f702d5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "thunderbolt-of-the-storm-giant",
   title: "Thunderbolt of the Storm Giant",

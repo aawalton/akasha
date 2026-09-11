@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ravenEyes = {
   id: "01a06572-95dc-7b2e-b3b6-e89baa43f60c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "raven-eyes",
   title: "Raven Eyes",

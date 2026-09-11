@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const protectionFromArrows = {
   id: "01a06572-95db-78f1-be53-ea80eda12c73",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "protection-from-arrows",
   title: "Protection from Arrows",

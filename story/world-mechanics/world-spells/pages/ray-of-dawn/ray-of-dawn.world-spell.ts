@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const rayOfDawn = {
   id: "01a06572-95dc-7d1c-80d8-2074372371af",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ray-of-dawn",
   title: "Ray of Dawn",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const thornHand = {
   id: "01a06572-95e6-79a0-8529-b037cce8a292",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "thorn-hand",
   title: "Thorn Hand",

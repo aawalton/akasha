@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const shieldOfAir = {
   id: "01a06572-95e0-71a6-9ba0-6506478faf7f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "shield-of-air",
   title: "Shield of Air",

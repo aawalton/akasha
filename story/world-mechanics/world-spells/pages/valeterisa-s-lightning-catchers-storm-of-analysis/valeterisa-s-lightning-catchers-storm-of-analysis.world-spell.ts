@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const valeterisaSLightningCatchersStormOfAnalysis = {
   id: "01a06572-95e8-7e24-9e3d-b3c43942c6f5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "valeterisa-s-lightning-catchers-storm-of-analysis",
   title: "Valeterisa’s Lightning-Catchers: Storm of Analysis",

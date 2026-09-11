@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const silveniaSScaryIceSpike = {
   id: "01a06572-95e1-7c22-9ae7-20b4d0e3e9e4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "silvenia-s-scary-ice-spike",
   title: "Silvenia’s Scary Ice Spike",

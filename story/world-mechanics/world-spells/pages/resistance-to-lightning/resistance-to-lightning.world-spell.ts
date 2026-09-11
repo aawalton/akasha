@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const resistanceToLightning = {
   id: "01a06572-95dd-7e54-a9cc-33b99397126e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "resistance-to-lightning",
   title: "Resistance to Lightning",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const slipperyShadow = {
   id: "01a06572-95e1-7007-b0a2-8aa011572e0b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "slippery-shadow",
   title: "Slippery Shadow",

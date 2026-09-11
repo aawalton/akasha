@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const shattersprayIceSpike = {
   id: "01a06572-95e0-71ee-bb28-e2b0d33d04c3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "shatterspray-ice-spike",
   title: "Shatterspray Ice Spike",

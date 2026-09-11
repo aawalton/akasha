@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const steelform = {
   id: "01a06572-95e2-7508-896b-68bd3c1e88b2",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "steelform",
   title: "Steelform",

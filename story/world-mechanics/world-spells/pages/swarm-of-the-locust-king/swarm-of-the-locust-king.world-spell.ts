@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const swarmOfTheLocustKing = {
   id: "01a06572-95e4-7d0e-b221-9be71265d801",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "swarm-of-the-locust-king",
   title: "Swarm of the Locust King",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const waveOfRadiance = {
   id: "01a06572-95e9-7603-890a-f1481dcf473b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "wave-of-radiance",
   title: "Wave of Radiance",

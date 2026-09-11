@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const waterColossusGrasp = {
   id: "01a06572-95e9-72bd-8bbf-366ca93d3f69",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "water-colossus-grasp",
   title: "Water Colossus’ Grasp",

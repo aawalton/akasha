@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const shockWheel = {
   id: "01a06572-95e0-7dc9-bece-352f27f972db",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "shock-wheel",
   title: "Shock Wheel",

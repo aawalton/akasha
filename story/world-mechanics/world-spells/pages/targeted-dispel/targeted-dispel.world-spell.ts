@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const targetedDispel = {
   id: "01a06572-95e5-7520-a44a-ee91ae54941a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "targeted-dispel",
   title: "Targeted Dispel",

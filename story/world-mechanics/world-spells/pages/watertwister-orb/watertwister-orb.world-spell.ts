@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const watertwisterOrb = {
   id: "01a06572-95e9-7589-a022-4cf1ed8e1317",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "watertwister-orb",
   title: "Watertwister Orb",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const shatterboltStorms = {
   id: "01a06572-95df-7dca-bddf-f1b0c3f1f31e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "shatterbolt-storms",
   title: "Shatterbolt Storms",

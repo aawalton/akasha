@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const reducedLightningBolt = {
   id: "01a06572-95dc-7f0b-9330-7c31774e3083",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "reduced-lightning-bolt",
   title: "Reduced Lightning Bolt",

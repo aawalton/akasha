@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const rayOfElectrocution = {
   id: "01a06572-95dc-770a-88fe-80ccf5f8ed13",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ray-of-electrocution",
   title: "Ray of Electrocution",

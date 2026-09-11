@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const theFlowerOfAnapulis = {
   id: "01a06572-95e6-7d36-8dd8-2a9b4b46a617",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "the-flower-of-anapulis",
   title: "The Flower of Anapulis",

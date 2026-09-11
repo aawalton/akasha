@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const tenThousandSprigganStakes = {
   id: "01a06572-95e6-7688-b2c4-87e17cd07eb7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ten-thousand-spriggan-stakes",
   title: "Ten Thousand Spriggan Stakes",

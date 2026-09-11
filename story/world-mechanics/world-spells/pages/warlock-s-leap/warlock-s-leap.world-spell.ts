@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const warlockSLeap = {
   id: "01a06572-95e9-7efa-a352-ba73aeb03be5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "warlock-s-leap",
   title: "Warlock’s Leap",

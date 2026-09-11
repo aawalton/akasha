@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const summonLesserFamiliar = {
   id: "01a06572-95e4-7538-b89f-cecd24568fed",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "summon-lesser-familiar",
   title: "Summon Lesser Familiar",

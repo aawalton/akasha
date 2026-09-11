@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const scintillatingArrows = {
   id: "01a06572-95de-7e3e-8619-330f52f88a2e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "scintillating-arrows",
   title: "Scintillating Arrows",

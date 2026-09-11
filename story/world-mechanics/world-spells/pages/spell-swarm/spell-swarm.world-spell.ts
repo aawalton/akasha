@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const spellSwarm = {
   id: "01a06572-95e2-7a64-ba5d-d75dc59e29af",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "spell-swarm",
   title: "Spell Swarm",

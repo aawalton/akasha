@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const waterArrows = {
   id: "01a06572-95e9-7c7c-8d51-011727de012f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "water-arrows",
   title: "Water Arrows",

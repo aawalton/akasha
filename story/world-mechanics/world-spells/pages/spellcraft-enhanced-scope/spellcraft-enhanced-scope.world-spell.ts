@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const spellcraftEnhancedScope = {
   id: "01a06572-95e2-7de2-82f1-c284459b1103",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "spellcraft-enhanced-scope",
   title: "Spellcraft: Enhanced Scope",

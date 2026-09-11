@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const raiseDead = {
   id: "01a06572-95dc-7099-91f2-4fce10a77db7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "raise-dead",
   title: "Raise Dead",

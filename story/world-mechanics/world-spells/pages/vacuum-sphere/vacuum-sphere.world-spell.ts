@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const vacuumSphere = {
   id: "01a06572-95e8-7bb1-ab68-75d3db1d57f7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "vacuum-sphere",
   title: "Vacuum Sphere",

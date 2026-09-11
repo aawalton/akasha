@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const wallOfSteel = {
   id: "01a06572-95e9-7f4d-b263-448bdc304034",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "wall-of-steel",
   title: "Wall of Steel",

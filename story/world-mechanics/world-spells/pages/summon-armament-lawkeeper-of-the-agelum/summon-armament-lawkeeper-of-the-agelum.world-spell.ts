@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const summonArmamentLawkeeperOfTheAgelum = {
   id: "01a06572-95e4-75e1-a439-a5b93795f36a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "summon-armament-lawkeeper-of-the-agelum",
   title: "Summon Armament: Lawkeeper of the Agelum",

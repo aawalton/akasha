@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const purifyWater = {
   id: "01a06572-95db-703b-854e-cb211089fcb4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "purify-water",
   title: "Purify Water",

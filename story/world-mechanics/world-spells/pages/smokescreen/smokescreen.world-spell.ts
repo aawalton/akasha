@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const smokescreen = {
   id: "01a06572-95e1-7849-a41d-141f64d629bf",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "smokescreen",
   title: "Smokescreen",

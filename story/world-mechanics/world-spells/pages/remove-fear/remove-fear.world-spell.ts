@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const removeFear = {
   id: "01a06572-95dc-7bc4-bf38-bd283efbe3ec",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "remove-fear",
   title: "Remove Fear",

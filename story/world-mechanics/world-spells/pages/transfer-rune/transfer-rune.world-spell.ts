@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const transferRune = {
   id: "01a06572-95e7-7ba1-93e1-20ff369a56a5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "transfer-rune",
   title: "Transfer Rune",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const poisonCloud = {
   id: "01a06572-95db-7c3e-86c8-ca486864bca0",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "poison-cloud",
   title: "Poison Cloud",

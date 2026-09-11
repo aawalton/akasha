@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const thornyFist = {
   id: "01a06572-95e6-7223-87a2-4e5ed51f8de4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "thorny-fist",
   title: "Thorny Fist",

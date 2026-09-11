@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const theCarrionHawkOfAmegediaVair = {
   id: "01a06572-95e6-77db-8d03-e70fa3dcb90b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "the-carrion-hawk-of-amegedia-vair",
   title: "The Carrion-Hawk of Amegedia Vair",

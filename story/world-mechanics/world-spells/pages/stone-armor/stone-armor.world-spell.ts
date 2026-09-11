@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stoneArmor = {
   id: "01a06572-95e3-7fb5-aeeb-726a171c39a9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "stone-armor",
   title: "Stone Armor",

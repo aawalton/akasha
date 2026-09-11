@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const royalCastingReinforcementOfSteel = {
   id: "01a06572-95de-78eb-8e18-61375a207aaf",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "royal-casting-reinforcement-of-steel",
   title: "Royal Casting: Reinforcement of Steel",

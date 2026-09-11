@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const verminPurge = {
   id: "01a06572-95e8-7260-9715-75686754da02",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "vermin-purge",
   title: "Vermin Purge",

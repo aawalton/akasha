@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const steelScales = {
   id: "01a06572-95e2-7e2c-89f3-46c7286905fe",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "steel-scales",
   title: "Steel Scales",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const removeMinorStains = {
   id: "01a06572-95dd-7505-a4e4-cd8f719b9762",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "remove-minor-stains",
   title: "Remove Minor Stains",

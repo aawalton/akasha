@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const wallOfBloodThorns = {
   id: "01a06572-95e8-723a-a246-881178f6af37",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "wall-of-blood-thorns",
   title: "Wall of Blood Thorns",

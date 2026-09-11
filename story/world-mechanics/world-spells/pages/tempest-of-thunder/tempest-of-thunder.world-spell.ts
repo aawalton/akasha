@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const tempestOfThunder = {
   id: "01a06572-95e6-793a-88cd-b57f48151f89",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "tempest-of-thunder",
   title: "Tempest of Thunder",

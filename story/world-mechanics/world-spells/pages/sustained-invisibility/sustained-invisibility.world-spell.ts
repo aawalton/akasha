@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const sustainedInvisibility = {
   id: "01a06572-95e4-766f-80c8-75d3bfeff521",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "sustained-invisibility",
   title: "Sustained Invisibility",

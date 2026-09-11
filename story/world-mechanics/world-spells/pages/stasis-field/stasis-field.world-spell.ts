@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stasisField = {
   id: "01a06572-95e2-731c-9a9c-dd668f0c4a7b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "stasis-field",
   title: "Stasis Field",

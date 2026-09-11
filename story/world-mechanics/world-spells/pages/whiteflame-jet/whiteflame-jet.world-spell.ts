@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const whiteflameJet = {
   id: "01a06572-95ea-71ba-8e5a-f9fcba41abdc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "whiteflame-jet",
   title: "Whiteflame Jet",

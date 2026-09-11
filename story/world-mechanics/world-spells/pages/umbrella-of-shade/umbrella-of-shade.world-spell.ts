@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const umbrellaOfShade = {
   id: "01a06572-95e7-7bd1-bd1c-6e9b065d2c35",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "umbrella-of-shade",
   title: "Umbrella of Shade",

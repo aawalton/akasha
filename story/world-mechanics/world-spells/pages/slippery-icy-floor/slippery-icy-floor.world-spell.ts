@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const slipperyIcyFloor = {
   id: "01a06572-95e1-7d98-b9a6-80b2235311c3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "slippery-icy-floor",
   title: "Slippery Icy Floor",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stoneFloor = {
   id: "01a06572-95e3-78f3-ae9d-3cb94d5b1657",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "stone-floor",
   title: "Stone Floor",

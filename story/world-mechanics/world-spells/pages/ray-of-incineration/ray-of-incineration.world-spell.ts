@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const rayOfIncineration = {
   id: "01a06572-95dc-7e3b-9c6b-3110048b8745",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ray-of-incineration",
   title: "Ray of Incineration",

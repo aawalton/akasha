@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ritualOfTheVerdantBloom = {
   id: "01a06572-95de-7798-aa6f-d3e98fd05fd2",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ritual-of-the-verdant-bloom",
   title: "Ritual of the Verdant Bloom",

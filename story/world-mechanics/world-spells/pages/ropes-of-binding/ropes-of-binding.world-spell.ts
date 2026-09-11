@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ropesOfBinding = {
   id: "01a06572-95de-74bf-9c94-23a988bd6f6c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ropes-of-binding",
   title: "Ropes of Binding",

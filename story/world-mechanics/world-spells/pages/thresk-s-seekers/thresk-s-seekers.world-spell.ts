@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const threskSSeekers = {
   id: "01a06572-95e6-783e-a28b-ef6055bc284f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "thresk-s-seekers",
   title: "Thresk’s Seekers",

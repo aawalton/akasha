@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const windJet = {
   id: "01a06572-95ea-7982-9fcb-8b65dfd6308c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "wind-jet",
   title: "Wind Jet",

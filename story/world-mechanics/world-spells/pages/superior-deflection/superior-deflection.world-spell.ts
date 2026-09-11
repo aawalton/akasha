@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const superiorDeflection = {
   id: "01a06572-95e4-731a-8e2f-323d700e0f85",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "superior-deflection",
   title: "Superior Deflection",

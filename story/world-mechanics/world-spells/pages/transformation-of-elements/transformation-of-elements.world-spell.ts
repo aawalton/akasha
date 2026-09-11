@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const transformationOfElements = {
   id: "01a06572-95e7-774a-bc6e-ec58a5216219",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "transformation-of-elements",
   title: "Transformation of Elements",

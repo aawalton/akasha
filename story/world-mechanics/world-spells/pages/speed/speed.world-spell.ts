@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const speed = {
   id: "01a06572-95e2-788a-b356-4d9b7812f586",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "speed",
   title: "Speed",

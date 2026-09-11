@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const pinpointScrying = {
   id: "01a06572-95db-76ca-86be-e891e50f8925",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "pinpoint-scrying",
   title: "Pinpoint Scrying",

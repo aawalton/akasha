@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const steelBarbDart = {
   id: "01a06572-95e2-70db-8af3-27a8a26acaba",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "steel-barb-dart",
   title: "Steel-Barb Dart",

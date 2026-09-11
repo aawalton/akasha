@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const wildGrowth = {
   id: "01a06572-95ea-746c-99af-40ced9a11119",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "wild-growth",
   title: "Wild Growth",

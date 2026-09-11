@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const stabilizedGround = {
   id: "01a06572-95e2-749c-bede-aa8b63694ce1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "stabilized-ground",
   title: "Stabilized Ground",

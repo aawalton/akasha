@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const trueSlowTime = {
   id: "01a06572-95e7-7241-bcd3-d93aac5df5c8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "true-slow-time",
   title: "True Slow Time",

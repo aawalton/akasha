@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const tongueOfTheSphinxClarity = {
   id: "01a06572-95e7-7109-b202-eacf27db2940",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "tongue-of-the-sphinx-clarity",
   title: "Tongue of the Sphinx: Clarity",

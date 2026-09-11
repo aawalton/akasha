@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const removeDeafness = {
   id: "01a06572-95dc-79a3-8351-bcbcda5863f9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "remove-deafness",
   title: "Remove Deafness",

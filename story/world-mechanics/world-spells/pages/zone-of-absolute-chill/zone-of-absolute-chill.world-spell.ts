@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const zoneOfAbsoluteChill = {
   id: "01a06572-95ea-7e1c-ae0b-c960126d66de",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "zone-of-absolute-chill",
   title: "Zone of Absolute Chill",

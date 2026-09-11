@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const wallsOfTheElementalPalace = {
   id: "01a06572-95e9-7b0c-90e8-c37f1ef853fa",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "walls-of-the-elemental-palace",
   title: "Walls of the Elemental Palace",
