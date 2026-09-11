@@ -2,16 +2,18 @@ import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
@@ -29,6 +31,12 @@ const LINES_KEY = "lines"
 const HELD = "jsonl"
 
 const FIRST_PART = 1
+
+const PAGE_TYPE = "page-type"
+
+const TYPES = "types"
+
+const TS = "ts"
 
 export type LogLine = {
   readonly "written-at": string
@@ -72,14 +80,24 @@ function dayPathIn(root: string, slug: string): string {
   return existsSync(join(root, flat)) ? flat : dayPathOf(slug)
 }
 
+function typedFrom(root: string, typeSlug: string): string {
+  const page = listedAt(root, PAGE_TYPE, typeSlug)[0]
+  const at = page === undefined ? null : besideAt(page.path, TYPES, TS)
+  if (at === null) {
+    throw new Error(`no \`${PAGE_TYPE}\` is slugged \`${typeSlug}\`, so a body names no type`)
+  }
+  return importedFrom(at)
+}
+
 export function sourceBodyOf(root: string, source: string): string {
+  const typeSlug = typeSlugOf(root, LOG_SOURCE_TYPE)
   return [
-    'import type { LogSource } from "akasha/seat-system/log-sources/log-source.page-type.types.ts"',
+    `import type { ${typedAs(typeSlug)} } from "${typedFrom(root, typeSlug)}"`,
     "",
     `export const ${exportedAs(source)} = {`,
-    `  type: ${said(typeSlugOf(root, LOG_SOURCE_TYPE))},`,
+    `  type: ${said(typeSlug)},`,
     `  slug: ${said(source)},`,
-    "} as const satisfies LogSource",
+    `} as const satisfies ${typedAs(typeSlug)}`,
     "",
   ].join("\n")
 }
@@ -91,16 +109,17 @@ export function dayBodyOf(
   seatName: string,
   date: string
 ): string {
+  const typeSlug = typeSlugOf(root, SEAT_LOG_DAY_TYPE)
   return [
-    'import type { SeatLogDay } from "akasha/seat-system/seat-log-days/seat-log-day.page-type.types.ts"',
+    `import type { ${typedAs(typeSlug)} } from "${typedFrom(root, typeSlug)}"`,
     "",
     `export const ${exportedAs(slug)} = {`,
-    `  type: ${said(typeSlugOf(root, SEAT_LOG_DAY_TYPE))},`,
+    `  type: ${said(typeSlug)},`,
     `  slug: ${said(slug)},`,
     `  source: ${said(source)},`,
     `  seatName: ${said(seatName)},`,
     `  date: ${said(date)},`,
-    "} as const satisfies SeatLogDay",
+    `} as const satisfies ${typedAs(typeSlug)}`,
     "",
   ].join("\n")
 }
