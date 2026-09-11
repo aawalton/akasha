@@ -1,16 +1,9 @@
 import { expect, test } from "bun:test"
 import {
-  base64urlToBytes,
-  bytesToBase64url,
-} from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type {
-  ArmorSlotItem,
-  JewelrySlotItem,
-  WeaponSlotItem,
-} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
-import type { StandardArmorType } from "../../equipment-kinds/armor-types/armor-types.module.code.ts"
-import { buildHash, buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+  decodeBuild,
+  ESO_VERSION_48,
+  encodeBuild,
+} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
   getAffixScriptId,
   getAllianceId,
@@ -41,9 +34,26 @@ import {
   getWeaponEnchantId,
   getWeaponTraitId,
   getWeaponTypeId,
-} from "../build-codec-indices/build-codec-indices.module.code.ts"
-import { ESO_VERSION_52, encodeV52 } from "../build-codec-v52/build-codec-v52.module.code.ts"
-import { decodeBuild, ESO_VERSION_48, encodeBuild } from "./build-codec.module.code.ts"
+} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+import {
+  ESO_VERSION_52,
+  encodeV52,
+} from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
+import {
+  base64urlToBytes,
+  bytesToBase64url,
+} from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type {
+  ArmorSlotItem,
+  JewelrySlotItem,
+  WeaponSlotItem,
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import type { StandardArmorType } from "akasha/temper/equipment-kinds/armor-types/armor-types.module.code.ts"
+import {
+  buildHash,
+  buildId,
+} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 
 const CHARACTER_BUILD_TYPE = 1
 

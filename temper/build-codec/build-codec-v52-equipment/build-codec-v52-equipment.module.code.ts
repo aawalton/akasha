@@ -1,21 +1,3 @@
-import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import type { BitWriterState } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { writeBits } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type {
-  ArmorSlotItem,
-  JewelrySlotItem,
-  WeaponSlot,
-  WeaponSlotItem,
-} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
-import type { ArmorSlotId } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
-import type {
-  EquipmentQualityId,
-  EquipmentQualityOptionId,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { JewelrySlotId } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import {
   ARMOR_ENCHANT_BITS,
   ARMOR_TRAIT_BITS,
@@ -52,7 +34,25 @@ import {
   WEAPON_ENCHANT_BITS,
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
-} from "../build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import type { BitWriterState } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { writeBits } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type {
+  ArmorSlotItem,
+  JewelrySlotItem,
+  WeaponSlot,
+  WeaponSlotItem,
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import type { ArmorSlotId } from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type {
+  EquipmentQualityId,
+  EquipmentQualityOptionId,
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { JewelrySlotId } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment

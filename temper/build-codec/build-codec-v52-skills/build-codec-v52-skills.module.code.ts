@@ -1,10 +1,3 @@
-import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import type { BitWriterState } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { writeBits } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { SkillId } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import {
   getPassiveSkillId,
   getSkillId,
@@ -13,7 +6,14 @@ import {
   passiveSkillIds,
   SKILL_BITS,
   skillSlotIds,
-} from "../build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import type { BitWriterState } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { writeBits } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { SkillId } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 
 export function encodeSkills(writer: BitWriterState, build: CharacterState): undefined {
   for (const slotId of skillSlotIds) {
