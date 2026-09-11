@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const fridayPull20260626105c11ffDumbbellShrugSet1 = {
   id: "019f0554-beb6-7591-adc4-d9a0918b4741",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "friday-pull-2026-06-26-105c11ff-dumbbell-shrug-set-1",
   title: "Dumbbell Shrug set 1",

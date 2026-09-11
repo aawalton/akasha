@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const maevisThornwake = {
   id: "019f9801-afe3-7754-a03a-17a1b9b734fb",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "maevis-thornwake",
   title: "Maevis Thornwake",

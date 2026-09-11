@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const archmageAmerys = {
   id: "019dda20-785c-725c-9755-e858993eda07",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "archmage-amerys",
   title: "Archmage Amerys",

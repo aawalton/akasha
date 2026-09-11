@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const uncertainty = {
   id: "01a05fce-294c-7336-bb81-f490307d7fdd",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "uncertainty",
   title: "Uncertainty",

@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const corvainAshmere = {
   id: "019f9801-b03e-7141-9041-ec88249b4a66",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "corvain-ashmere",
   title: "Corvain Ashmere",

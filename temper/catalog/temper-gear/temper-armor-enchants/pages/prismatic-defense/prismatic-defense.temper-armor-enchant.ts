@@ -2,7 +2,6 @@ import type { TemperArmorEnchant } from "akasha/temper/catalog/temper-gear/tempe
 
 export const prismaticDefense = {
   id: "01a05fd4-d96c-761c-984c-cf81a1aac8c6",
-  pageTypeSlug: "temper-armor-enchant",
   type: "temper-armor-enchant",
   slug: "prismatic-defense",
   title: "Prismatic Defense",

@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const colour = {
   id: "01a0593e-da22-7d97-b8b0-c56d8dd46dfb",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "colour",
   pattern: "\\bcolour\\b",

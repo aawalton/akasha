@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const fridayPull2026070350a5aaeaHamstringStretchSet1 = {
   id: "019f2942-4e70-7d6a-91ce-5699cefedd33",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "friday-pull-2026-07-03-50a5aaea-hamstring-stretch-set-1",
   title: "Hamstring Stretch mobility 1",

@@ -2,7 +2,6 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const stonefalls = {
   id: "01a06166-503c-7008-b7f9-91f727c23e26",
-  pageTypeSlug: "temper-antiquity-category",
   type: "temper-antiquity-category",
   slug: "stonefalls",
   title: "Stonefalls",

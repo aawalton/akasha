@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const achievement = {
   id: "01a05fc5-742e-7187-a89f-e39a11d5559f",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "achievement",
   title: "Achievement",

@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const cadwell = {
   id: "01a05fc5-742e-769c-8da2-55e39d84295a",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "cadwell",
   title: "Cadwell",

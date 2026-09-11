@@ -2,7 +2,6 @@ import type { TemperArmorSlot } from "akasha/temper/catalog/temper-gear/temper-a
 
 export const chest = {
   id: "01a05fd4-d96c-7a66-b933-92bd5b7622c8",
-  pageTypeSlug: "temper-armor-slot",
   type: "temper-armor-slot",
   slug: "chest",
   title: "Chest",

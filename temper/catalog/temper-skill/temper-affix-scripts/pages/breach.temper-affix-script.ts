@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const breach = {
   id: "01a05fce-2945-7798-b410-bceef76f93e2",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "breach",
   title: "Breach",

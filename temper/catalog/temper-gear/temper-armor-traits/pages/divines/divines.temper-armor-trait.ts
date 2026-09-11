@@ -2,7 +2,6 @@ import type { TemperArmorTrait } from "akasha/temper/catalog/temper-gear/temper-
 
 export const divines = {
   id: "01a05fb2-1bcd-7a96-a41e-bbf2b55ec3ec",
-  pageTypeSlug: "temper-armor-trait",
   type: "temper-armor-trait",
   slug: "divines",
   title: "Divines",

@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const quarantined = {
   id: "01a0593e-da37-7791-aeca-8c7edc8efebe",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "quarantined",
   pattern: "\\bquarantined\\b",

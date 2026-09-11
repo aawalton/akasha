@@ -2,7 +2,6 @@ import type { SupervisorAction } from "akasha/seat-system/supervisor-actions/sup
 
 export const restartNow = {
   id: "01a05edb-0c02-70e7-95e4-6172d7896a80",
-  pageTypeSlug: "supervisor-action",
   type: "supervisor-action",
   slug: "restart-now",
   definition:

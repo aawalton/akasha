@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const wake = {
   id: "01a0593e-da43-7af8-992a-9a0a58be265f",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "wake",
   pattern: "\\bwak(e|es|ed|ing)\\b|\\bwoken?\\b",

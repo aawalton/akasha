@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const lyonetteDuMarquin = {
   id: "019dda20-810c-74b1-9fa4-350eb88bc5c5",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "lyonette-du-marquin",
   title: "Lyonette du Marquín",

@@ -2,7 +2,6 @@ import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effects/tempe
 
 export const minorForce = {
   id: "01a05fc5-f6be-70f8-aec6-a8330fe4c092",
-  pageTypeSlug: "temper-buff-minor",
   type: "temper-buff-minor",
   slug: "minor-force",
   title: "Minor Force",

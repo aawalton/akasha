@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const courage = {
   id: "01a05fce-2946-77b9-a527-96c82a31e1b7",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "courage",
   title: "Courage",

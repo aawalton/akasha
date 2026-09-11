@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const defile = {
   id: "01a05fce-2947-73bb-b69c-5303a41d4f51",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "defile",
   title: "Defile",

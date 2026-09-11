@@ -2,7 +2,6 @@ import type { Stylesheet } from "akasha/code/stylesheets/stylesheet.page-type.ty
 
 export const temperWebLook = {
   id: "01a0640f-850f-7bfd-8070-ae903b54ddb0",
-  pageTypeSlug: "stylesheet",
   type: "stylesheet",
   slug: "temper-web-look",
   definition: "the look Temper's browser app wears, and the trees its utilities are read from",

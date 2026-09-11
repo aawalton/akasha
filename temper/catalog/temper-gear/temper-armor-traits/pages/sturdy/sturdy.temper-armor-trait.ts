@@ -2,7 +2,6 @@ import type { TemperArmorTrait } from "akasha/temper/catalog/temper-gear/temper-
 
 export const sturdy = {
   id: "01a05fb2-1bd1-7a1a-a411-c520da348cc8",
-  pageTypeSlug: "temper-armor-trait",
   type: "temper-armor-trait",
   slug: "sturdy",
   title: "Sturdy",

@@ -2,7 +2,6 @@ import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effects/tempe
 
 export const minorProphecy = {
   id: "01a05fc5-f6c0-7d96-bd0c-e9137eda44b3",
-  pageTypeSlug: "temper-buff-minor",
   type: "temper-buff-minor",
   slug: "minor-prophecy",
   title: "Minor Prophecy",

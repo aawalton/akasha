@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const brutalityAndSorcery = {
   id: "01a05fce-2946-7a6e-8edc-b2900cebae87",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "brutality-and-sorcery",
   title: "Brutality and Sorcery",

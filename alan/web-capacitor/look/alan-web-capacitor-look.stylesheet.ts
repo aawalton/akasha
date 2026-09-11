@@ -2,7 +2,6 @@ import type { Stylesheet } from "akasha/code/stylesheets/stylesheet.page-type.ty
 
 export const alanWebCapacitorLook = {
   id: "01a06582-324d-77e6-8d8c-23f3ec4ceb47",
-  pageTypeSlug: "stylesheet",
   type: "stylesheet",
   slug: "alan-web-capacitor-look",
   definition: "the look Alan's in-shell app wears, and the trees its utilities are read from",

@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const perimeter = {
   id: "01a0593e-da34-70f8-8e53-400e096ee007",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "perimeter",
   pattern: "\\bperimeter\\b",

@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const wednesdayLegs2026062485078a04ButtLiftBridgeSet1 = {
   id: "019efbfc-debf-773c-b958-9f15c7cde4b2",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-85078a04-butt-lift-bridge-set-1",
   title: "Butt Lift (Bridge) set 1",

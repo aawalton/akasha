@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const tuesdayPull2026062327175e57BentOverTwoDumbbellRowSet2 = {
   id: "019ef5b5-2960-7cb4-b192-dd5a26ed50fc",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "tuesday-pull-2026-06-23-27175e57-bent-over-two-dumbbell-row-set-2",
   title: "Bent Over Two-Dumbbell Row set 2",

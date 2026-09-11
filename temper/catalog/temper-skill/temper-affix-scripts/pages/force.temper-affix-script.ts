@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const force = {
   id: "01a05fce-2948-75af-8d9a-ece39e0524b1",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "force",
   title: "Force",

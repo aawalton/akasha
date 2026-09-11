@@ -2,7 +2,6 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/tempe
 
 export const majorCourage = {
   id: "01a05fc5-f6b7-7291-83b4-ba4d122d59f4",
-  pageTypeSlug: "temper-buff-major",
   type: "temper-buff-major",
   slug: "major-courage",
   title: "Major Courage",

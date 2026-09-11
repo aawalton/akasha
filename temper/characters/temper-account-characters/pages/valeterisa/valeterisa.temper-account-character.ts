@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const valeterisa = {
   id: "019dda20-83ff-7e21-bcc6-a0b3bed56960",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "valeterisa",
   title: "Valeterisa",

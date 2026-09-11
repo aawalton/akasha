@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const thursdayPush20260625C82b391fDumbbellBenchPressSet1 = {
   id: "019f01ac-ad65-7aff-865d-4b42e4b4f516",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "thursday-push-2026-06-25-c82b391f-dumbbell-bench-press-set-1",
   title: "Dumbbell Bench Press set 1",

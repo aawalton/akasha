@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const axis = {
   id: "01a0593e-da1e-715f-8dc8-14c2e569cebc",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "axis",
   pattern: "\\baxis\\b",

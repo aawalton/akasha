@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const door = {
   id: "01a0593e-da26-7979-800e-80ad31ba2c64",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "door",
   pattern: "\\bdoor\\b",

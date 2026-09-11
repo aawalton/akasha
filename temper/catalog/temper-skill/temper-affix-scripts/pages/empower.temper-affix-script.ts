@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const empower = {
   id: "01a05fce-2947-7ed4-9877-765dddb7e1ff",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "empower",
   title: "Empower",

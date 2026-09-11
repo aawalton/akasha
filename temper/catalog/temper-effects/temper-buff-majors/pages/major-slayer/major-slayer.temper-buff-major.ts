@@ -2,7 +2,6 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/tempe
 
 export const majorSlayer = {
   id: "01a05fc5-f6bc-739d-89da-33800d2d9daf",
-  pageTypeSlug: "temper-buff-major",
   type: "temper-buff-major",
   slug: "major-slayer",
   title: "Major Slayer",

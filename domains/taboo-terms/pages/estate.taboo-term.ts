@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const estate = {
   id: "01a0593e-da29-70a5-9d07-2f90e977c9e2",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "estate",
   pattern: "\\bestate\\b",

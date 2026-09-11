@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const enervation = {
   id: "01a05fce-2948-76bc-b6a6-14405f1cae01",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "enervation",
   title: "Enervation",

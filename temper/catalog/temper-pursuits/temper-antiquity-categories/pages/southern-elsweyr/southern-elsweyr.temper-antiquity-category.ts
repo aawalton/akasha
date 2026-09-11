@@ -2,7 +2,6 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const southernElsweyr = {
   id: "01a06166-503d-7010-aa92-ff507c9b50d6",
-  pageTypeSlug: "temper-antiquity-category",
   type: "temper-antiquity-category",
   slug: "southern-elsweyr",
   title: "Southern Elsweyr",

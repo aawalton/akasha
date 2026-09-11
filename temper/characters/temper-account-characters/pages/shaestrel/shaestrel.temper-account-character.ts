@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const shaestrel = {
   id: "019dda20-86ca-7452-8c74-73699a1fae95",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "shaestrel",
   title: "Shaestrel",

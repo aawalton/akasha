@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const antiquityLore = {
   id: "01a05fc5-742e-751c-b5fa-d7ca98d60198",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "antiquity-lore",
   title: "Antiquity Lore",

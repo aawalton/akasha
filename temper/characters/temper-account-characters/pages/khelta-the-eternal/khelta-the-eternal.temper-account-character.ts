@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const kheltaTheEternal = {
   id: "019dda20-8f62-7a6f-a9de-662e594f3485",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "khelta-the-eternal",
   title: "Khelta the Eternal",

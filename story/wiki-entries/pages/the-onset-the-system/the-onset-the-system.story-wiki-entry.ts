@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theOnsetTheSystem = {
   id: "01a0657d-bb96-7a5c-8174-6a0801fa0b0b",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-onset-the-system",
   title: "The Onset & the System",

@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const wednesdayLegs202607294f7e63ccBodyweightReverseLungeSet2 = {
   id: "019fae37-362c-71e5-9338-3609058cb2de",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "wednesday-legs-2026-07-29-4f7e63cc-bodyweight-reverse-lunge-set-2",
   title: "Bodyweight Reverse Lunge set 2",

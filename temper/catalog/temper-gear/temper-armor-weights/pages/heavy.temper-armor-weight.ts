@@ -2,7 +2,6 @@ import type { TemperArmorWeight } from "akasha/temper/catalog/temper-gear/temper
 
 export const heavy = {
   id: "01a05fd5-4dd0-77cc-94de-936278c33019",
-  pageTypeSlug: "temper-armor-weight",
   type: "temper-armor-weight",
   slug: "heavy",
   title: "Heavy",

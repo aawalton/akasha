@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const dureneFaerise = {
   id: "019dda20-723a-792a-99cc-c642ede18861",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "durene-faerise",
   title: "Durene Faerise",

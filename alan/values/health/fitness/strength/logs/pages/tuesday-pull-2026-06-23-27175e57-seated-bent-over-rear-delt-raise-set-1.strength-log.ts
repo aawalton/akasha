@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const tuesdayPull2026062327175e57SeatedBentOverRearDeltRaiseSet1 = {
   id: "019ef5bf-db52-7637-bc9b-6699d03383c2",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "tuesday-pull-2026-06-23-27175e57-seated-bent-over-rear-delt-raise-set-1",
   title: "Seated Bent-Over Rear Delt Raise set 1",

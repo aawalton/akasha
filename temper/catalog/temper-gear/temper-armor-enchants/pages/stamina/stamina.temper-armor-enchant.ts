@@ -2,7 +2,6 @@ import type { TemperArmorEnchant } from "akasha/temper/catalog/temper-gear/tempe
 
 export const stamina = {
   id: "01a05fd4-d96c-7e66-8940-ca31af8c2c46",
-  pageTypeSlug: "temper-armor-enchant",
   type: "temper-armor-enchant",
   slug: "stamina",
   title: "Stamina",

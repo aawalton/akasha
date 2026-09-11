@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const propertyId = {
   id: "01a05993-0ad2-7801-9a50-a9da7c695415",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "property-id",
   pattern: "\\bpropertyId\\b",

@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const dormant = {
   id: "01a0593e-da27-7ae9-8964-6de3e8fa78e8",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "dormant",
   pattern: "\\bdormant\\b",

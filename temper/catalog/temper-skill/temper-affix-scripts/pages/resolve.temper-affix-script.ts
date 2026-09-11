@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const resolve = {
   id: "01a05fce-294c-7895-8bca-c6e7928f56e7",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "resolve",
   title: "Resolve",

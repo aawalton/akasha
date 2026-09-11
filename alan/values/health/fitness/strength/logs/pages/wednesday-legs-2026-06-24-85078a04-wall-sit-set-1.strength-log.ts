@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const wednesdayLegs2026062485078a04WallSitSet1 = {
   id: "019efbfe-ec81-7d14-86ea-087c66a676d7",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-85078a04-wall-sit-set-1",
   title: "Wall Sit mobility 1",

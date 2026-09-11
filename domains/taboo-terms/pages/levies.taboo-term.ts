@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const levies = {
   id: "01a0593e-da30-762a-a04b-ec0f3e98bc4f",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "levies",
   pattern: "\\blevies\\b",

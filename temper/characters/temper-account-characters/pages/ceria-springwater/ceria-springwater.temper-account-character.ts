@@ -2,7 +2,6 @@ import type { TemperAccountCharacter } from "akasha/temper/characters/temper-acc
 
 export const ceriaSpringwater = {
   id: "019dda20-9adf-7228-b05e-34eadfba7800",
-  pageTypeSlug: "temper-account-character",
   type: "temper-account-character",
   slug: "ceria-springwater",
   title: "Ceria Springwater",

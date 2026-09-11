@@ -2,7 +2,6 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const malabalTor = {
   id: "01a06166-503d-7003-89f2-c2bb4a485656",
-  pageTypeSlug: "temper-antiquity-category",
   type: "temper-antiquity-category",
   slug: "malabal-tor",
   title: "Malabal Tor",

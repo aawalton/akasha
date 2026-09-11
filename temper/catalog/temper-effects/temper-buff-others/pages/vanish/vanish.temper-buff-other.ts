@@ -2,7 +2,6 @@ import type { TemperBuffOther } from "akasha/temper/catalog/temper-effects/tempe
 
 export const vanish = {
   id: "01a05fc5-f6c2-7e8b-aa6f-d38f0be174f1",
-  pageTypeSlug: "temper-buff-other",
   type: "temper-buff-other",
   slug: "vanish",
   title: "Vanish",

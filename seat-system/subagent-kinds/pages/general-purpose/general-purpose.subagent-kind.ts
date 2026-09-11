@@ -2,7 +2,6 @@ import type { SubagentKind } from "akasha/seat-system/subagent-kinds/subagent-ki
 
 export const generalPurpose = {
   id: "01a06861-f664-72f6-990b-9e3e67ca9b90",
-  pageTypeSlug: "subagent-kind",
   type: "subagent-kind",
   slug: "general-purpose",
   definition: "a subagent for work of no particular shape",

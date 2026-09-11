@@ -2,7 +2,6 @@ import type { TemperArmorEnchant } from "akasha/temper/catalog/temper-gear/tempe
 
 export const magicka = {
   id: "01a05fd4-d96b-7fb6-8535-b1728715ed14",
-  pageTypeSlug: "temper-armor-enchant",
   type: "temper-armor-enchant",
   slug: "magicka",
   title: "Magicka",

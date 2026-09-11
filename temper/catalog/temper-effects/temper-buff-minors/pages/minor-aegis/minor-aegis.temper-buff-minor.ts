@@ -2,7 +2,6 @@ import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effects/tempe
 
 export const minorAegis = {
   id: "01a05fc5-f6bd-7da3-bf01-cc47ad1d2497",
-  pageTypeSlug: "temper-buff-minor",
   type: "temper-buff-minor",
   slug: "minor-aegis",
   title: "Minor Aegis",

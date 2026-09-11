@@ -2,7 +2,6 @@ import type { TemperActivityCategory } from "akasha/temper/progressions/temper-a
 
 export const exploration = {
   id: "01a05fc9-c60c-7ccd-87ec-7d5f6b88d258",
-  pageTypeSlug: "temper-activity-category",
   type: "temper-activity-category",
   slug: "exploration",
   title: "Exploration",

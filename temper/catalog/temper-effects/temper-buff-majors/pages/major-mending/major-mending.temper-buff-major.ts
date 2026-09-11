@@ -2,7 +2,6 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/tempe
 
 export const majorMending = {
   id: "01a05fc5-f6ba-7eab-aa2e-27f726d0edfd",
-  pageTypeSlug: "temper-buff-major",
   type: "temper-buff-major",
   slug: "major-mending",
   title: "Major Mending",

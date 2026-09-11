@@ -2,7 +2,6 @@ import type { TemperActivityCategory } from "akasha/temper/progressions/temper-a
 
 export const events = {
   id: "01a05fc9-c60b-7346-a605-a89e4ec16e45",
-  pageTypeSlug: "temper-activity-category",
   type: "temper-activity-category",
   slug: "events",
   title: "Events",

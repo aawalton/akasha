@@ -2,7 +2,6 @@ import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursu
 
 export const westernSkyrim = {
   id: "01a06166-503d-7011-b3e6-c8acc3a4e64a",
-  pageTypeSlug: "temper-antiquity-category",
   type: "temper-antiquity-category",
   slug: "western-skyrim",
   title: "Western Skyrim",

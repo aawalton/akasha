@@ -2,7 +2,6 @@ import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/log
 
 export const wednesdayLegs20260624789253e9RomanianDeadliftSet1 = {
   id: "019efa84-8513-7369-875a-55fbee1d1a01",
-  pageTypeSlug: "strength-log",
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-789253e9-romanian-deadlift-set-1",
   title: "Romanian Deadlift set 1",

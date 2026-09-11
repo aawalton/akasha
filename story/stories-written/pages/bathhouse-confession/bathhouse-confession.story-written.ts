@@ -2,7 +2,6 @@ import type { StoryWritten } from "akasha/story/stories-written/story-written.pa
 
 export const bathhouseConfession = {
   id: "01a06585-da9a-7074-91cd-66e18bfebb1a",
-  pageTypeSlug: "story-written",
   type: "story-written",
   slug: "bathhouse-confession",
   title: "Bathhouse Confession",

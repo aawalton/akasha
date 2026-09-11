@@ -2,7 +2,6 @@ import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/tempe
 
 export const intellectAndEndurance = {
   id: "01a05fce-2949-72ab-aa5f-f1124d51dc9a",
-  pageTypeSlug: "temper-affix-script",
   type: "temper-affix-script",
   slug: "intellect-and-endurance",
   title: "Intellect and Endurance",

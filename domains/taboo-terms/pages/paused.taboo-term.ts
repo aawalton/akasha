@@ -2,7 +2,6 @@ import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.
 
 export const paused = {
   id: "01a0593e-da33-7681-ba72-7cb86f8c8827",
-  pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "paused",
   pattern: "\\bpaused\\b",

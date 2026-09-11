@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theWakingStoneTheCore = {
   id: "01a0657d-bb96-7f95-b06e-d416be62f365",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-waking-stone-the-core",
   title: "The Waking Stone (the Core)",
