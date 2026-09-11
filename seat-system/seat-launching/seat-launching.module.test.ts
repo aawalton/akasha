@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
 import {
+  ptyProxyRel,
+  supervisorRel,
+} from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
+import {
   type Answer,
   accountFor,
   envScrubArgv,
@@ -30,6 +34,10 @@ import {
 const ROOT = "/repos/akasha"
 
 const START_DIR = "/repos"
+
+const PROXY_AT = `${ROOT}/${ptyProxyRel()}`
+
+const SUPERVISOR_AT = `${ROOT}/${supervisorRel()}`
 
 const SECRETS_LINE =
   'set -a; [ -f "$HOME/.secrets.env" ] && . "$HOME/.secrets.env"; set +a; exec "$@"'
@@ -145,11 +153,11 @@ test("the supervisor is reached through the pty proxy", () => {
     "seat-supervisor",
     "bun",
     "run",
-    "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
+    PROXY_AT,
     "--",
     "bun",
     "run",
-    "/repos/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
+    SUPERVISOR_AT,
   ])
 })
 
@@ -209,11 +217,11 @@ test("a supervisor command line carries the agent id and the account", () => {
     "seat-supervisor",
     "bun",
     "run",
-    "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
+    PROXY_AT,
     "--",
     "bun",
     "run",
-    "/repos/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
+    SUPERVISOR_AT,
     "--agent-id",
     "athena-a2de5a24130090204",
     "-a",
@@ -342,11 +350,11 @@ test("the whole launch is composed from the seat alone", () => {
     "seat-supervisor",
     "bun",
     "run",
-    "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
+    PROXY_AT,
     "--",
     "bun",
     "run",
-    "/repos/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
+    SUPERVISOR_AT,
     "--headless",
     "--agent-id",
     "athena-a2de5a24130090204",
