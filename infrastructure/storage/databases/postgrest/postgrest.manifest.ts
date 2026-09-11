@@ -8,4 +8,10 @@ export const postgrest = {
   definition: "the namespace, deployment and service serving the database's tables over HTTP",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the postgrest-secrets secret.",
+    },
+  ],
 } as const satisfies Manifest
