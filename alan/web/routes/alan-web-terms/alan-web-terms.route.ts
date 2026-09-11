@@ -8,4 +8,10 @@ export const alanWebTerms = {
   definition: "the terms the Amy messaging service is offered under",
   code: "tsx",
   urlPath: "terms",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
+    },
+  ],
 } as const satisfies Route

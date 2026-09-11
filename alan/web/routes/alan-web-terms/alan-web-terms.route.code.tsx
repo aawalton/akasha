@@ -80,7 +80,8 @@ export default function TermsRoute() {
         <PanelCard id="privacy" title="Privacy">
           <p className="text-secondary text-sm">
             Phone numbers and message content are used only to provide the service and are not sold
-            or shared with third parties. See the full{" "}
+            or shared with third parties. No mobile information will be sold or shared with third
+            parties for promotional or marketing purposes. See the full{" "}
             <a href="/privacy" className="text-accent underline">
               Privacy Policy
             </a>

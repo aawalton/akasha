@@ -27,7 +27,8 @@ export default function PrivacyRoute() {
           <p className="text-secondary text-sm">
             The data collected is the phone numbers and message content exchanged with the service.
             This data is used only to provide the personal-assistant messaging service. It is not
-            sold and not shared with third parties.
+            sold and not shared with third parties. No mobile information will be sold or shared
+            with third parties for promotional or marketing purposes.
           </p>
         </PanelCard>
 

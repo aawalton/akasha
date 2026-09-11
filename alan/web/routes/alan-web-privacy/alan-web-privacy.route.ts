@@ -8,4 +8,10 @@ export const alanWebPrivacy = {
   definition: "what the Amy messaging service does with a message",
   code: "tsx",
   urlPath: "privacy",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
+    },
+  ],
 } as const satisfies Route
