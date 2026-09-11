@@ -174,12 +174,12 @@ export const repositoryIsWrittenByAChange = {
       statement: "A descriptor opened for writing is not seen.",
     },
     {
-      invariantKind: "gap",
-      statement: "A root a caller hands in under a name other than `root` is not seen.",
+      invariantKind: "absence",
+      statement: "A root a caller hands in under a name other than `root` is no checkout root.",
     },
     {
-      invariantKind: "gap",
-      statement: "A write from a language other than TypeScript is not seen.",
+      invariantKind: "absence",
+      statement: "A write from a language other than TypeScript is not judged.",
     },
   ],
   check: { maxCpuSeconds: 10 },
