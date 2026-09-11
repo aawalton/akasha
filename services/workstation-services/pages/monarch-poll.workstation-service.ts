@@ -7,6 +7,7 @@ export const monarchPoll = {
   slug: "monarch-poll",
   definition: "the service landing the Monarch rows whose update time has moved",
   runs: ["bun alan/harness/monarch/transaction-polling/transaction-polling.module.code.ts"],
+  starts: [{ code: "module/transaction-polling" }],
   enabled: true,
   needsSecrets: true,
   systemd: {

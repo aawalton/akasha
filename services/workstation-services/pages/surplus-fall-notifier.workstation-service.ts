@@ -7,6 +7,7 @@ export const surplusFallNotifier = {
   slug: "surplus-fall-notifier",
   definition: "the service saying when the day has spent Alan's night down a rung",
   runs: ["bun alan/harness/surplus/fall-notifying/surplus-fall-notifying.module.code.ts"],
+  starts: [{ code: "module/surplus-fall-notifying" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 30,

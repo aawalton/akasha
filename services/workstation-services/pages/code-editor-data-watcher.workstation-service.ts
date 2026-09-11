@@ -7,6 +7,7 @@ export const codeEditorDataWatcher = {
   slug: "code-editor-data-watcher",
   definition: "the service keeping true what each part of the code editor draws",
   runs: ["bun alan/harness/code-editor/data-interfaces/data-watching/data-watching.module.code.ts"],
+  starts: [{ code: "module/data-watching" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,
