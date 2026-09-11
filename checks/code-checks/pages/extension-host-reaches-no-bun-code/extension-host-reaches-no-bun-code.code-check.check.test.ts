@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { extensionHostReachesNoBunCode } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.check.code.ts"
 import {
   ENTRY,
+  MANIFEST,
   NEXT,
   rooted,
   scratch,
@@ -31,7 +32,7 @@ test("the check runs on the manifest as well as on a text", () => {
   const held = bodiesOver(rooted(), {})
   const shadow = shadowAsked(held)
   const takes = (path: string): boolean => extensionHostReachesNoBunCode.isInput(path, shadow)
-  expect(takes("editor-extension/ops-extension/package.json")).toBe(true)
+  expect(takes(MANIFEST)).toBe(true)
   expect(takes(NEXT)).toBe(true)
   expect(takes("design/colors/pages/blue.color.md")).toBe(false)
 })
