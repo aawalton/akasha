@@ -15,7 +15,6 @@ export const upscale = {
     "module/upscale-workstation",
     "python-module/upscale-srpo-graph",
     "shell-script/upscale-bench-runner",
-    "shell-script/upscale-cluster-publish",
     "shell-script/upscale-down",
     "shell-script/upscale-provision",
     "shell-script/upscale-run",

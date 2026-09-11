@@ -10,7 +10,6 @@ export const esoRig = {
     "container-recipe/eso-rig-image",
     "manifest/eso-rig-manifests",
     "python-module/eso-rig-probe",
-    "shell-script/eso-rig-cluster-publish",
     "shell-script/eso-rig-entrypoint",
   ],
   invariants: [
