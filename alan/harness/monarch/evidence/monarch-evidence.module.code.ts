@@ -10,8 +10,27 @@ import {
   trustedFrom,
   UNCATEGORIZED,
 } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ROWS = 60
+
+const MODULE = "module"
+
+const EVIDENCE = "monarch-evidence"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function evidenceFileAt(): string {
+  const page = listedAt(ownRepoRoot(), MODULE, EVIDENCE)[0]
+  if (page === undefined) throw new Error(`no \`${MODULE}\` is slugged \`${EVIDENCE}\``)
+  const at = besideAt(page.path, CODE, TS)
+  if (at === null) throw new Error(`\`${EVIDENCE}\` carries no \`${CODE}\` beside its page`)
+  return at
+}
 
 export interface Row {
   readonly monarchId: string
@@ -192,27 +211,29 @@ async function account(text: string, from: string, to: string, limit: number): P
   )
 }
 
-export const USAGE = [
-  "bun alan/harness/monarch/evidence/monarch-evidence.module.code.ts <lookup> — read-only evidence about transactions",
-  "",
-  "  transaction <id>",
-  "      the row itself",
-  "  neighbours <id> [--days N] [--same-amount] [--limit N]",
-  "      what else happened within N days, in EVERY account rather than only its own.",
-  "      --same-amount keeps only rows of the same magnitude, either sign, which is how",
-  "      the other leg of a movement between two accounts is found. --days defaults to 7.",
-  "  merchant <text> [--limit N]",
-  "      every row whose merchant name OR raw statement contains the text: what this",
-  "      household has settled that merchant as before, tallied, then the recent rows",
-  "  account <text> [--from YYYY-MM-DD] [--to YYYY-MM-DD] [--limit N]",
-  "      rows on an account whose title contains the text, over a span",
-  "",
-  `A category prints as trusted where the row falls inside the last ${TRUSTED_MONTHS} months and`,
-  "untrusted where it does not. An untrusted category is a fact about the row and is not",
-  "an answer about what the row should be called.",
-  "",
-  `--limit defaults to ${ROWS} rows.`,
-].join("\n")
+export function usage(): string {
+  return [
+    `bun ${evidenceFileAt()} <lookup> — read-only evidence about transactions`,
+    "",
+    "  transaction <id>",
+    "      the row itself",
+    "  neighbours <id> [--days N] [--same-amount] [--limit N]",
+    "      what else happened within N days, in EVERY account rather than only its own.",
+    "      --same-amount keeps only rows of the same magnitude, either sign, which is how",
+    "      the other leg of a movement between two accounts is found. --days defaults to 7.",
+    "  merchant <text> [--limit N]",
+    "      every row whose merchant name OR raw statement contains the text: what this",
+    "      household has settled that merchant as before, tallied, then the recent rows",
+    "  account <text> [--from YYYY-MM-DD] [--to YYYY-MM-DD] [--limit N]",
+    "      rows on an account whose title contains the text, over a span",
+    "",
+    `A category prints as trusted where the row falls inside the last ${TRUSTED_MONTHS} months and`,
+    "untrusted where it does not. An untrusted category is a fact about the row and is not",
+    "an answer about what the row should be called.",
+    "",
+    `--limit defaults to ${ROWS} rows.`,
+  ].join("\n")
+}
 
 function flag(argv: readonly string[], name: string): string | null {
   const at = argv.indexOf(`--${name}`)
@@ -236,7 +257,7 @@ if (import.meta.main) {
   const subject = argv[1]
   const limit = numberFlag(argv, "limit", ROWS)
   if (lookup === undefined || subject === undefined || subject.startsWith("--")) {
-    console.log(USAGE)
+    console.log(usage())
     process.exit(lookup === undefined ? 0 : 1)
   } else if (lookup === "transaction") {
     await transaction(subject)
@@ -252,7 +273,7 @@ if (import.meta.main) {
       limit
     )
   } else {
-    console.log(USAGE)
+    console.log(usage())
     console.error(`\nno lookup called "${lookup}"`)
     process.exit(1)
   }
