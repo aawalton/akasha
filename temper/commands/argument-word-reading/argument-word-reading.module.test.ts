@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { namesIn, valuesOf } from "./argument-word-reading.module.code.ts"
+import {
+  namesIn,
+  valuesOf,
+} from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const ROOT_FLAG = "--repo-root"
 

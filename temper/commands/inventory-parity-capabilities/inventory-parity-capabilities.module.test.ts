@@ -3,7 +3,7 @@ import {
   parityAddonTrace,
   parityNarrow,
   parityRouting,
-} from "./inventory-parity-capabilities.module.code.ts"
+} from "akasha/temper/commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
 
 describe("parityAddonTrace", () => {
   test("hands over reading a trace off addon content", async () => {

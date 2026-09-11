@@ -1,5 +1,13 @@
 import { readFile } from "node:fs/promises"
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  type CharacterKnowledge,
+  loadTemperCharactersFromPath,
+} from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  type CompiledInventoryConfig,
+  parseTemperInventoryConfig,
+} from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
@@ -8,14 +16,6 @@ import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/invento
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import {
-  type CharacterKnowledge,
-  loadTemperCharactersFromPath,
-} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  type CompiledInventoryConfig,
-  parseTemperInventoryConfig,
-} from "../inventory-config-reading/inventory-config-reading.module.code.ts"
 
 export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperInventory.lua")
 export const DEFAULT_CHARACTERS_PATH = savedVarsFile("TemperCharacters.lua")

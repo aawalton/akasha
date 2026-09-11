@@ -1,6 +1,6 @@
 import { mkdirSync, mkdtempSync, realpathSync } from "node:fs"
 import { join } from "node:path"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SCRATCH_PARENT = "/var/tmp"
 

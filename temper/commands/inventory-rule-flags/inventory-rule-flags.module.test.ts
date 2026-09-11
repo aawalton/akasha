@@ -9,7 +9,7 @@ import {
   parseBooleanFlag,
   parseConditionsJson,
   parseDestinationChainJson,
-} from "./inventory-rule-flags.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 test("a buy source the rules package declares is taken", () => {
   expect(BUY_SOURCE_VALUES).toEqual(["merchant"])

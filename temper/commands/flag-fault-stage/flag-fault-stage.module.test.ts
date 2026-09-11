@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdtempSync, realpathSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { saidFor, saidShort, stagingAt } from "./flag-fault-stage.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+  stagingAt,
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const SCRATCH_PARENT = "/var/tmp"
 

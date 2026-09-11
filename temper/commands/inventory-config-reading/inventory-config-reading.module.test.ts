@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,
   parseTemperInventoryConfig,
-} from "./inventory-config-reading.module.code.ts"
+} from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

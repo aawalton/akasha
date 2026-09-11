@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { inventorySettings } from "./inventory-settings-handle.module.code.ts"
+import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 
 describe("inventorySettings", () => {
   test("hands over reading and writing together", async () => {

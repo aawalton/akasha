@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { inNameOrder } from "./name-ordering.module.code.ts"
+import { inNameOrder } from "akasha/temper/commands/name-ordering/name-ordering.module.code.ts"
 
 test("names are answered in the order the locale sorts them by", () => {
   expect(inNameOrder(["B", "a", "c"])).toEqual(["a", "B", "c"])

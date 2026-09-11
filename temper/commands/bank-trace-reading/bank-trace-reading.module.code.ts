@@ -1,5 +1,5 @@
+import { readInventoryDiagnostic } from "akasha/temper/commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 import { z } from "zod"
-import { readInventoryDiagnostic } from "../inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 
 const NET_WORTH_SCHEMA = z
   .object({

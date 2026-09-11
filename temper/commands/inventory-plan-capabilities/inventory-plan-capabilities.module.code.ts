@@ -1,3 +1,14 @@
+import { loadTemperCharactersFromPath } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  loadTemperInventoryConfigFromPath,
+  parseTemperInventoryConfig,
+} from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
+import {
+  buildMatcherContext,
+  DEFAULT_CHARACTERS_PATH,
+  DEFAULT_INVENTORY_PATH,
+  loadInventoryPlanInputs,
+} from "akasha/temper/commands/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
@@ -8,17 +19,6 @@ import {
 } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import { formatPlanChecklist } from "akasha/temper/items-rules-routing/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  loadTemperInventoryConfigFromPath,
-  parseTemperInventoryConfig,
-} from "../inventory-config-reading/inventory-config-reading.module.code.ts"
-import {
-  buildMatcherContext,
-  DEFAULT_CHARACTERS_PATH,
-  DEFAULT_INVENTORY_PATH,
-  loadInventoryPlanInputs,
-} from "../inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 
 interface PlanInputsModule {
   readonly DEFAULT_INVENTORY_PATH: typeof DEFAULT_INVENTORY_PATH

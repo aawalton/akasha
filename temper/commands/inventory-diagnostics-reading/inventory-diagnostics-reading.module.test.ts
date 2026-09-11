@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { readInventoryDiagnostic } from "akasha/temper/commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 import { z } from "zod"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { readInventoryDiagnostic } from "./inventory-diagnostics-reading.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

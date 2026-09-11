@@ -1,4 +1,17 @@
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  emitJson,
+  emitTsv,
+} from "akasha/temper/commands/format-output/format-output.module.code.ts"
+import {
+  BUY_RULE_COLUMNS,
+  ITEM_RULE_COLUMNS,
+  itemRuleRow,
+  RULE_SHOW_COLUMNS,
+} from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import {
   duplicateBuyRule,
   lockBuyRule,
@@ -19,16 +32,6 @@ import type {
   InventoryRuleSettings,
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { Answer } from "../../../commands/modules/calling/calling.module.code.ts"
-import { refused } from "../../../commands/modules/calling/calling.module.code.ts"
-import { emitJson, emitTsv } from "../format-output/format-output.module.code.ts"
-import {
-  BUY_RULE_COLUMNS,
-  ITEM_RULE_COLUMNS,
-  itemRuleRow,
-  RULE_SHOW_COLUMNS,
-} from "../inventory-rule-rows/inventory-rule-rows.module.code.ts"
-import { inventorySettings } from "../inventory-settings-handle/inventory-settings-handle.module.code.ts"
 
 export const INPUT = 1
 

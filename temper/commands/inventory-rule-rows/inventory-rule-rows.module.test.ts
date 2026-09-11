@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
-} from "./inventory-rule-rows.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const RULE: ItemRule = {
   id: "rule-1",

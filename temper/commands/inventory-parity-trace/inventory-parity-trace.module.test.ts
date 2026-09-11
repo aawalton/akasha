@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { loadParityAddonTraceFromContent } from "./inventory-parity-trace.module.code.ts"
+import { loadParityAddonTraceFromContent } from "akasha/temper/commands/inventory-parity-trace/inventory-parity-trace.module.code.ts"
 
 function savedVariables(accounts: string): string {
   return `TemperInventory_SavedVariables =\n{\n  ["Default"] =\n  {\n${accounts}\n  },\n}\n`

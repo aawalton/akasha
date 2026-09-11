@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { addonManifestOf } from "./addon-fixture-manifest.module.code.ts"
+import { addonManifestOf } from "akasha/temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.code.ts"
 
 const PROBE = "TemperProbe"
 
