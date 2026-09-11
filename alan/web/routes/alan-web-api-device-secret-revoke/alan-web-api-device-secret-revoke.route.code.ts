@@ -1,17 +1,15 @@
 import { revokeDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
 import { revokeDeviceSecret } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
 import { resolveDeviceTokenContext } from "../../.server/device-token-context/device-token-context.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import {
+  actionOnlyLoader,
+  capacitorCorsHeaders,
+  withCors,
+} from "../../capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 
-export async function loader({ request }: { request: Request }): Promise<Response> {
-  const cors = capacitorCorsHeaders(request, CORS_METHODS)
-  if (request.method === "OPTIONS") {
-    return new Response(null, { status: 204, headers: cors })
-  }
-  return Response.json({ ok: false, error: "Method not allowed" }, { status: 405, headers: cors })
-}
+export const loader = actionOnlyLoader(CORS_METHODS)
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)

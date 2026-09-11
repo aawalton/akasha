@@ -44,5 +44,14 @@ export const capacitorCors = {
       statement:
         "A header picked up part way through a request is carried by every answer after it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A route doing its work in its action still answers a preflight through its loader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A method a route does not serve is refused 405 with the cross-origin headers.",
+    },
   ],
 } as const satisfies Module

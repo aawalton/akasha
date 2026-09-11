@@ -31,6 +31,16 @@ export function corsPreflight(cors: Record<string, string>): Response {
   return new Response(null, { status: 204, headers: withCors(new Headers(), cors) })
 }
 
+export function actionOnlyLoader(
+  methods: string
+): (args: { request: Request }) => Promise<Response> {
+  return async ({ request }) => {
+    const cors = capacitorCorsHeaders(request, methods)
+    if (request.method === "OPTIONS") return corsPreflight(cors)
+    return Response.json({ ok: false, error: "Method not allowed" }, { status: 405, headers: cors })
+  }
+}
+
 export type CorsResponder = {
   readonly carry: (headers: Headers) => void
   readonly respond: (body: BodyInit | null, status: number, extra?: HeadersInit) => Response
