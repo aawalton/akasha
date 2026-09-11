@@ -3,8 +3,7 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { said as git } from "../../../../git/running/git-running.module.code.ts"
-import { founded, put, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { founded, put, treed, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { instantPropertySlugClosesWithAt } from "./instant-property-slug-closes-with-at.code-check.audit.code.ts"
 
 const INSTANT = "instant-property"
@@ -33,12 +32,6 @@ function rooted(): string {
   typed(root, INSTANT, "page")
   typed(root, STAMPED, INSTANT)
   mkdirSync(join(root, "akasha"), { recursive: true })
-  return root
-}
-
-function treed(root: string): string {
-  git(root, ["init", "--quiet"])
-  git(root, ["add", "-A"])
   return root
 }
 

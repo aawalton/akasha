@@ -7,8 +7,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { said as git } from "../../../../git/running/git-running.module.code.ts"
-import { founded, put, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { founded, put, treed, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.code-check.audit.code.ts"
 
 const CHECK = "check"
@@ -40,12 +39,6 @@ function rooted(): string {
   mkdirSync(join(root, "akasha"), { recursive: true })
   pageFiled(root, ONE, ONE_AT)
   pageFiled(root, TWO, TWO_AT)
-  return root
-}
-
-function treed(root: string): string {
-  git(root, ["init", "--quiet"])
-  git(root, ["add", "-A"])
   return root
 }
 

@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
@@ -180,6 +181,12 @@ export function proposing(
 ): (at: string) => Uint8Array | null {
   const disk = onDisk(root)
   return (at: string): Uint8Array | null => (at === path ? bytesOf(body) : disk(at))
+}
+
+export function treed(root: string): string {
+  git(root, ["init", "--quiet"])
+  git(root, ["add", "-A"])
+  return root
 }
 
 export function judgingBy(running: Running): (over: Change) => readonly Judged[] {

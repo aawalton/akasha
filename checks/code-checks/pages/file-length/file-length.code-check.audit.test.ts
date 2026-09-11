@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as git } from "../../../../git/running/git-running.module.code.ts"
+import { treed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { fileLength } from "./file-length.code-check.audit.code.ts"
 import { CEILING } from "./file-length.code-check.decision.code.ts"
 import {
@@ -17,12 +17,6 @@ const OVER = "a".repeat(CEILING + 1)
 const AT = "a".repeat(CEILING)
 
 afterAll(scratch.sweep)
-
-function treed(root: string): string {
-  git(root, ["init", "--quiet"])
-  git(root, ["add", "-A"])
-  return root
-}
 
 test("an audit judges every file git tracks by the size that file is on disk", () => {
   const root = letOff()

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as git } from "../../../../git/running/git-running.module.code.ts"
+import { treed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { identifierMatchesItsPlace } from "./identifier-matches-its-place.code-check.audit.code.ts"
 import {
   placed,
@@ -16,12 +16,6 @@ const NOTES = "akasha/held.md"
 const BAD_FUNCTION = "export function BadName() {}\n"
 
 afterAll(scratch.sweep)
-
-function treed(root: string): string {
-  git(root, ["init", "--quiet"])
-  git(root, ["add", "-A"])
-  return root
-}
 
 test("an audit judges every TypeScript body git tracks, reading each from disk", () => {
   const root = placed()
