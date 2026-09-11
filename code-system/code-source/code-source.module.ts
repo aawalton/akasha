@@ -46,6 +46,18 @@ export const codeSource = {
       statement: "An import of an empty list of names reads as types alone and as not erased.",
     },
     {
+      invariantKind: "departure",
+      statement: "A fault the parse recovered from is answered rather than dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the parser had no fault with is answered as having none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fault answered is the first one, read as one line of text.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a body or knows why the body is read.",
     },

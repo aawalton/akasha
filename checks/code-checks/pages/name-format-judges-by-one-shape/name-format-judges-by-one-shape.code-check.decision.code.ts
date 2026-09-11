@@ -1,6 +1,6 @@
 import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { faultSaid, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -47,8 +47,7 @@ function flagsOf(shape: ts.RegularExpressionLiteral): string {
   return shape.text.slice(shape.text.lastIndexOf("/") + 1)
 }
 
-export function handedIn(path: string, text: string, at: string): readonly Handed[] {
-  const source = parsedAs(path, text)
+function handedFrom(source: ts.SourceFile, path: string, at: string): readonly Handed[] {
   const called = matchingCalledAs(source, path, at)
   if (called === null) return []
   const found: Handed[] = []
@@ -68,8 +67,20 @@ export function handedIn(path: string, text: string, at: string): readonly Hande
   return found
 }
 
+export function handedIn(path: string, text: string, at: string): readonly Handed[] {
+  return handedFrom(parsedAs(path, text), path, at)
+}
+
 export function reasonsIn(slug: string, path: string, text: string, at: string): readonly string[] {
-  const handed = handedIn(path, text, at)
+  const source = parsedAs(path, text)
+  const fault = faultSaid(source)
+  if (fault !== null) {
+    return [
+      "this is a name format's code, and it does not parse — " +
+        `${fault} — a format whose code does not parse hands over no judgement`,
+    ]
+  }
+  const handed = handedFrom(source, path, at)
   const only = handed[0]
   if (only === undefined || handed.length > 1) {
     return [

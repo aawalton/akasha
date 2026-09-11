@@ -12,6 +12,14 @@ export function skimmedAs(path: string, text: string): ts.SourceFile {
   return ts.createSourceFile(path, text, ts.ScriptTarget.Latest, false, kindOf(path))
 }
 
+type Recovered = { readonly parseDiagnostics?: readonly ts.Diagnostic[] }
+
+export function faultSaid(source: ts.SourceFile): string | null {
+  const one = (source as ts.SourceFile & Recovered).parseDiagnostics?.[0]
+  if (one === undefined) return null
+  return ts.flattenDiagnosticMessageText(one.messageText, " ")
+}
+
 export function lineAt(source: ts.SourceFile, at: number): number {
   return source.getLineAndCharacterOfPosition(at).line + 1
 }

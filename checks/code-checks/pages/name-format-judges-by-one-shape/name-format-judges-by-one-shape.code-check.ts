@@ -39,6 +39,22 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A format whose code does not parse is refused for not parsing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is read from the body the change leaves rather than from a load.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fault the parser recovered from is named in that refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A format whose code does not parse is judged for nothing else.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A format exports one name bound to `matching` of a shape written out.",
     },
     {

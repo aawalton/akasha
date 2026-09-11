@@ -92,15 +92,26 @@ test("a name format answering to nothing its slug names is refused", () => {
 
 test("a format's code that will not load is refused as written where the change names it", () => {
   const said = judgedBy(rooted(WILL_NOT_LOAD), [AT])
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("could not be loaded")
-  expect(said[0]?.reason).not.toContain("names no edit")
+  const load = said.find((one) => one.reason.includes("could not be loaded"))
+  expect(load).toBeDefined()
+  expect(load?.reason).not.toContain("names no edit")
 })
 
 test("a format's code that will not load says so where the change names no edit there", () => {
   const said = judgedBy(rooted(WILL_NOT_LOAD))
+  const load = said.find((one) => one.reason.includes("could not be loaded"))
+  expect(load?.reason).toContain(`this change names no edit at ${AT}`)
+  expect(load?.reason).toContain("not what this change wrote")
+})
+
+test("a format's code that does not parse is refused from the body rather than from a load", () => {
+  const said = reasoning(SLUG, AT, WILL_NOT_LOAD)
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("could not be loaded")
-  expect(said[0]?.reason).toContain(`this change names no edit at ${AT}`)
-  expect(said[0]?.reason).toContain("not what this change wrote")
+  expect(said[0]).toContain("does not parse")
+  expect(said[0]).toContain("')' expected.")
+})
+
+test("a format's code that parses clean is refused nothing for parsing", () => {
+  const body = `${IMPORTING}\nexport const lowerKebabCase = matching(/^[a-z]+$/)\n`
+  expect(reasoning(SLUG, AT, body)).toEqual([])
 })
