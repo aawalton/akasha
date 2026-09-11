@@ -6,6 +6,7 @@ import {
 } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const APP_SAID = "--app"
 
@@ -48,7 +49,7 @@ export function wordsIn(
       continue
     }
     if (one.startsWith("-")) {
-      const takes = [...valued, ...switches].map((said) => `\`${said}\``).join(", ")
+      const takes = namesDrawn([...valued, ...switches])
       refusals.push(`\`${one}\` is no flag this takes — it takes ${takes}`)
       continue
     }
@@ -61,10 +62,7 @@ export function wordsIn(
 export function bareWordAs(said: Said, flag: string): Reading<Said> {
   if (said.loose.length === 0) return said
   if (said.loose.length > 1) {
-    const extra = said.loose
-      .slice(1)
-      .map((one) => `\`${one}\``)
-      .join(", ")
+    const extra = namesDrawn(said.loose.slice(1))
     return {
       refused: [`this takes one bare word representing \`${flag}\`, and ${extra} followed it`],
     }
