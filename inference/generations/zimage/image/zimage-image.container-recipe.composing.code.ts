@@ -16,7 +16,6 @@ export function bodyIn(): string {
     "# support (comfy/supported_models.py: class ZImage(Lumina2) + the z_image text",
     "# encoder), proven working with torch 2.9.1 cu128 on this card by @infra/wan.",
     "#",
-    "# Build:  podman build -t zimage:local -f zimage-image/Containerfile .",
     "# Run:    see shell-script/zimage-up",
     "FROM nvidia/cuda:12.8.1-devel-ubuntu24.04",
     "",
