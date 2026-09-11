@@ -19,11 +19,6 @@ export const theaChecksSystem = {
         "lualib/src is gone: 135 pages, 135 features, all 51 files moved in 13 commits on 09-10. Those broke the Lua 5.0 bundle, which 0dbb243e460 mends: a 5.0 build resolves an import of a twin page's code to that page's lua50-code, derived from the pages. Nine targets build where eight did, the eight byte-identical, 5.0 proved by `local function __TS__Unpack(list, i, j)` rather than by no error. No test anywhere calls buildLuaLib, so 13 commits landed green over a broken build.",
     },
     {
-      statement: "Every property file has the page whose property that file is.",
-      workingMemory:
-        "file-has-its-page refuses 0 of 124582, and the nine were two mechanisms rather than one. Seven were subagent edits files left by seat-restart sweeps before 3643bc5da5c had a take-down take a page's claimed files; the four sweeps since left nothing. No page remained to reach them through and the paths they named are gone. Two were seat sidecars stranded by the move into per-seat folders at 7fc1be118b8, each beside a live copy in its folder. A gitignored file's removal leaves no commit to say why.",
-    },
-    {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
         "16 annotations on 12 workloads, 11 secret-derived: 10 agree with the page, 0 derive. Every manifest hardcodes the secret name and keys and reads no page, so agreement is hand-kept and headscale's checksum/tls already mismatches, over a Secret cert-manager issues. The filling is done: secretChecksum shells to kubectl inside planFor and throws without a cluster. Deriving sits with workload-applying, not web-app-reading, which reaches no cluster. 10 of 26 named secret resources are annotated.",
