@@ -89,6 +89,36 @@ test("a page's key reaches the property stating it rather than the slug the key 
   })
 })
 
+test("a relation an entry row states files an edge from the row's page", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", cases: "jsonl" }
+  const rowing = [{ slug: "cases", rows: [{ casePage: "domain/b" }, { casePage: "domain/b" }] }]
+
+  expect(
+    relationIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", rowing)
+  ).toEqual({
+    entries: [{ at: `relation/page/id/${B}/case-page/${A}.jsonl`, line: '{"path":"a.domain.ts"}' }],
+    refused: [],
+  })
+})
+
+test("a relation nested in a record inside an entry row files no edge", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", cases: "jsonl" }
+  const rowing = [{ slug: "cases", rows: [{ inner: { casePage: "domain/b" } }] }]
+
+  expect(
+    relationIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", rowing)
+  ).toEqual({ entries: [], refused: [] })
+})
+
+test("a row naming no page is reported against the entry shape and the field it states", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", cases: "jsonl" }
+  const rowing = [{ slug: "cases", rows: [{ casePage: "nowhere" }] }]
+  const filed = relationIn(value, "/repo/a.domain.ts", shaped({}), "/repo", rowing)
+
+  expect(filed.entries).toEqual([])
+  expect(filed.refused[0] ?? "").toMatch(/`cases case-page`/)
+})
+
 test("a record entry naming no page is reported against the record and the field it states", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", parts: [{ partSlugs: ["nowhere"] }] }
   const filed = relationIn(value, "/repo/a.domain.ts", shaped({}), "/repo", [])
