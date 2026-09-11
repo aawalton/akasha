@@ -5,7 +5,7 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { dataAt } from "akasha/files/data-place/data-place.module.code.ts"
+import { dataAt } from "akasha/files/git-place/git-place.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   idFiled,
