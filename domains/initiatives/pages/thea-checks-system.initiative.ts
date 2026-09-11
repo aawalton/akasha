@@ -21,7 +21,7 @@ export const theaChecksSystem = {
       statement:
         "Audits run in a dedicated singleton service and are requested by agents, never run directly.",
       workingMemory:
-        "audit-verdict keys a finding to a commit, audit-serving runs one check's audit under a turn of its own, and `akasha audit` named nothing asks the service and answers from the verdicts, costing no round where a verdict already answers for that commit. block-subagent-audit is turned around: a subagent's bare call reaches the service, and `--check` and `--file-path`, which judge in the caller's process, are refused. Left: those two flags, a seat's bench for a check that runs at no phase.",
+        "audit-verdict keys a finding to a commit, audit-serving runs one check's audit under a turn of its own, and every `akasha audit` run asks the service and answers from the verdicts, costing no round where a verdict already answers for that commit. `--file-path` is gone and `--check <slug>` names the checks a round runs, so a seat's bench for a check that runs at no phase is that flag through the service. Left: block-subagent-audit refuses a narrowing that now costs no more than a bare call.",
     },
     {
       statement:
