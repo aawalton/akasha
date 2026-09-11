@@ -29,6 +29,11 @@ export const aineMemoryManagement = {
       workingMemory:
         "app.slice peaked at 55.5 GiB of 62.2, leaving 6.7 GiB for the kernel, the compositor and everything outside it, and nothing reserves that. A ceiling on each seat does not give it either, since sixteen seats each under a fair ceiling still add to more than the host has. MemoryMin on the system's own units protects a reserve from reclaim, and a MemoryMax on app.slice caps what agents can collectively reach.\n",
     },
+    {
+      statement: "Every runtime on the workstation has a heap ceiling below its work's ceiling.",
+      workingMemory:
+        "A runtime allowed to grow past its cgroup dies mid-collection rather than being refused, so the runtime's own ceiling is the one that really bounds the work. NODE_OPTIONS is --max-old-space-size=61440 in the Claude settings file, a 60 GiB heap on a 62.2 GiB host, which bounds nothing. Python has no heap ceiling of its own at all, which is why the 16 GiB script Alan killed by hand had nothing above it but the reaper.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
