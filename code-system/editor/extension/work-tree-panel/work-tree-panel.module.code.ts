@@ -1,22 +1,21 @@
-import * as vscode from "vscode"
 import {
   followState,
   readState,
   stateAt,
-} from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
-import { recordObservation } from "../observation-store/observation-store.module.code.ts"
-import { describedAs } from "../tree-description/tree-description.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { recordObservation } from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import { describedAs } from "akasha/code-system/editor/extension/tree-description/tree-description.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,
   type IntentGone,
   type WorkDeleteWatch,
-} from "../work-tree-deleting/work-tree-deleting.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-deleting/work-tree-deleting.module.code.ts"
 import {
   createWorkDragging,
   type Ordering,
-} from "../work-tree-dragging/work-tree-dragging.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-dragging/work-tree-dragging.module.code.ts"
 import {
   type Holding,
   heldAnswered,
@@ -25,22 +24,23 @@ import {
   heldWithout,
   intentLabelsIn,
   settledOver,
-} from "../work-tree-holding/work-tree-holding.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-holding/work-tree-holding.module.code.ts"
 import {
   DELETE_INITIATIVE_COMMAND,
   DELETE_INTENT_COMMAND,
   REFRESH_COMMAND,
   VIEW_ID,
-} from "../work-tree-ids/work-tree-ids.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-ids/work-tree-ids.module.code.ts"
 import {
   countOfKind,
   countRows,
   workKeys,
-} from "../work-tree-reading/work-tree-reading.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-reading/work-tree-reading.module.code.ts"
 import {
   createWorkDecorationProvider,
   createWorkTree,
-} from "../work-tree-view/work-tree-view.module.code.ts"
+} from "akasha/code-system/editor/extension/work-tree-view/work-tree-view.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "work-tree"
 const SLUG = "work-tree"
