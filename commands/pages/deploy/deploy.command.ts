@@ -13,6 +13,7 @@ export const deploy = {
   timeout: 300,
   parts: [
     "module/deploy-commit-naming",
+    "module/deploy-commit-recording",
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",
     "module/deploy-web-putting-up",
@@ -144,6 +145,14 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "The report names that hash before anything the kind itself says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy that finished writes the commit onto the page it was read from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy that refused and a dry run write no commit onto any page.",
     },
     {
       invariantKind: "departure",

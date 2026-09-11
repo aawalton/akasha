@@ -10,6 +10,7 @@ import {
   saidOfDrift,
   saidOfNoCommit,
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
+import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
@@ -189,5 +190,11 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     if (drifted.length > 0) return refused(saidOfDrift(slug, commit, drifted), INPUT)
   }
   const answer = await putUp(read, slug, commit, rest, given)
-  return answering([`commit\t${commit}`, ...answer.report], answer.refusals, answer.code)
+  const lines = [`commit\t${commit}`, ...answer.report]
+  if (answer.code !== 0 || answer.refusals.length > 0 || rest.includes(DRY_RUN)) {
+    return answering(lines, answer.refusals, answer.code)
+  }
+  const wrong = await recordedCommit(given.root, slug, read.pagePath, commit)
+  if (wrong.length > 0) return answering(lines, wrong, OPERATIONAL)
+  return answering([...lines, `recorded\t${slug}\t${commit}`], [], 0)
 }
