@@ -93,6 +93,7 @@ export const temper = {
     "domain/temper-capture-perf",
     "domain/temper-trading-post",
     "domain/temper-addon-init",
+    "domain/temper-addon-log",
     "domain/temper-bit-codec",
     "domain/temper-capture-writer",
     "domain/temper-narrow",
