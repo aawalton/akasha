@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const conjurePreparedDish = {
   id: "01a06572-95ba-7d1b-bc56-163b5ab2ad70",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "conjure-prepared-dish",
   title: "Conjure Prepared Dish",

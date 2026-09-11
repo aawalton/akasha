@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const containedSound = {
   id: "01a06572-95ba-73f5-84ca-a0def0909c2c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "contained-sound",
   title: "Contained Sound",

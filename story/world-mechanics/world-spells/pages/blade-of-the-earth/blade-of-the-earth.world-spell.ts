@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bladeOfTheEarth = {
   id: "01a06572-95b6-7337-ac36-31a1fb628f12",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "blade-of-the-earth",
   title: "Blade of the Earth",

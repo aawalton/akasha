@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const noise = {
   id: "01a06572-95d9-76f6-b3f9-58e454039c53",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "noise",
   title: "Noise",

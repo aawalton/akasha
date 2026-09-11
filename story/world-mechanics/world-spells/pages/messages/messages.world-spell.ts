@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const messages = {
   id: "01a06572-95d8-78f3-ab29-8ae0370763f6",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "messages",
   title: "Messages",

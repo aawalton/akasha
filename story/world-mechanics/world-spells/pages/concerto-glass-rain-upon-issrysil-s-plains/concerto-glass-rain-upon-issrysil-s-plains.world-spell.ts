@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const concertoGlassRainUponIssrysilSPlains = {
   id: "01a06572-95b9-78e4-b272-5e1d69e384b7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "concerto-glass-rain-upon-issrysil-s-plains",
   title: "Concerto: Glass Rain Upon Issrysil’s Plains",

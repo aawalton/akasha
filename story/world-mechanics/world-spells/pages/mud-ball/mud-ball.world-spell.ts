@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const mudBall = {
   id: "01a06572-95d9-7eeb-998d-4ad0dfa6aae9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mud-ball",
   title: "Mud Ball",

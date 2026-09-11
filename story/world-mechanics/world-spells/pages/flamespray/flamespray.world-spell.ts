@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const flamespray = {
   id: "01a06572-95c3-7a3d-92b6-cc9691b3572f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "flamespray",
   title: "Flamespray",

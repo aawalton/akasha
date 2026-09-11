@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lightningShroud = {
   id: "01a06572-95d0-72b8-94a3-6fb96dabf478",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "lightning-shroud",
   title: "Lightning Shroud",

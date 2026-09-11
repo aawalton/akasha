@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const cornucopia = {
   id: "01a06572-95bb-7c0f-a2ce-4e51a4559f29",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "cornucopia",
   title: "Cornucopia",

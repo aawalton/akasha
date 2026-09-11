@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const expeditedTeleport = {
   id: "01a06572-95bf-7c5f-91fd-9e99598496a6",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "expedited-teleport",
   title: "Expedited Teleport",

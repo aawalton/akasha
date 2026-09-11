@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lightArrowCascade = {
   id: "01a06572-95cd-7819-9640-4be80577c076",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "light-arrow-cascade",
   title: "Light Arrow Cascade",

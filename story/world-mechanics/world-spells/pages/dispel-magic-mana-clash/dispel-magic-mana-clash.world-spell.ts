@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const dispelMagicManaClash = {
   id: "01a06572-95be-7c14-ab91-03c3efd6c919",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "dispel-magic-mana-clash",
   title: "Dispel Magic: Mana Clash",

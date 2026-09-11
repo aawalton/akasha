@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const animateDraugr = {
   id: "01a06572-95b4-7cf5-8797-ccc5b6c88467",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "animate-draugr",
   title: "Animate Draugr",

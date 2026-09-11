@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const petrification = {
   id: "01a06572-95da-7c34-a170-cce58c15c014",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "petrification",
   title: "Petrification",

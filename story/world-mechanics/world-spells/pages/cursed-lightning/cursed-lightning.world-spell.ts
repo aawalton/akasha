@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const cursedLightning = {
   id: "01a06572-95bb-74c3-b045-da5cd36d4231",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "cursed-lightning",
   title: "Cursed Lightning",

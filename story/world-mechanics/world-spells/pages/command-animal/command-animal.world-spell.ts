@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const commandAnimal = {
   id: "01a06572-95b9-7b59-9536-de976c186144",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "command-animal",
   title: "Command Animal",

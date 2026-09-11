@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const multipliedStoneFists = {
   id: "01a06572-95d9-7f40-8711-1e5d44f595d7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "multiplied-stone-fists",
   title: "Multiplied Stone Fists",

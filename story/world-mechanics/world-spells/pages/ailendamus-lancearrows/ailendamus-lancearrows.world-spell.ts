@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ailendamusLancearrows = {
   id: "01a06572-95b3-7e50-acd3-85cf5ae7f999",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ailendamus-lancearrows",
   title: "Ailendamus’ Lancearrows",

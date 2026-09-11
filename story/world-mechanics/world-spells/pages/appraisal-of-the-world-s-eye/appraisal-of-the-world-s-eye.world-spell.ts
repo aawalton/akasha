@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const appraisalOfTheWorldSEye = {
   id: "01a06572-95b4-7d0a-935f-c153237bd26a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "appraisal-of-the-world-s-eye",
   title: "Appraisal of the World’s Eye",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const beamOfFire = {
   id: "01a06572-95b5-7bb2-b33d-06353c958c8e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "beam-of-fire",
   title: "Beam of Fire",

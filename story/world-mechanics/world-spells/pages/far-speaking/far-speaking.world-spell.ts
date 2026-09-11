@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const farSpeaking = {
   id: "01a06572-95c0-719f-96a5-963406256cb9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "far-speaking",
   title: "Far Speaking",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const massCleanse = {
   id: "01a06572-95d1-7c32-91ca-01fe0d181cf1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mass-cleanse",
   title: "Mass Cleanse",

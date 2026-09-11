@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const causticAcid = {
   id: "01a06572-95b8-7614-b06b-52642bb17725",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "caustic-acid",
   title: "Caustic Acid",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const pain = {
   id: "01a06572-95da-7185-bfa4-6c8ae124afdd",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "pain",
   title: "Pain",

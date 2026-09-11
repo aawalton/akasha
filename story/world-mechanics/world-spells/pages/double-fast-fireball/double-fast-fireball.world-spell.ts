@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const doubleFastFireball = {
   id: "01a06572-95be-7dee-9b43-682f1c4163b4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "double-fast-fireball",
   title: "Double Fast Fireball",

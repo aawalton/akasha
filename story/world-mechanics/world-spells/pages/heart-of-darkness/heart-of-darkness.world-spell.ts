@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const heartOfDarkness = {
   id: "01a06572-95c8-741f-b1d8-1892e527a7a3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "heart-of-darkness",
   title: "Heart of Darkness",

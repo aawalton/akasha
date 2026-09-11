@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const annieSContemplationOfTheMindUnicorn = {
   id: "01a06572-95b4-7033-8cf5-59dc8d0fd93e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "annie-s-contemplation-of-the-mind-unicorn",
   title: "Annie’s Contemplation of the Mind: Unicorn",

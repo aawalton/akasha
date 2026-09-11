@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const completeGrief = {
   id: "01a06572-95b9-727d-b2e6-47280c5dd320",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "complete-grief",
   title: "Complete Grief",

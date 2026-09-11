@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const igniteLamp = {
   id: "01a06572-95cb-7d1f-b4cb-f15c6d29e11b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ignite-lamp",
   title: "Ignite Lamp",

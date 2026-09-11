@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const clawOfVolke = {
   id: "01a06572-95b9-78e7-a32f-d094202429b1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "claw-of-volke",
   title: "Claw of Volke",

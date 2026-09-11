@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const covertAngle = {
   id: "01a06572-95bb-7ba1-acb6-17dbc3cfebb3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "covert-angle",
   title: "Covert Angle",

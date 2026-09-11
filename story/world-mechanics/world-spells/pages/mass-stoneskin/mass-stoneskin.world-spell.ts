@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const massStoneskin = {
   id: "01a06572-95d2-7191-be84-244ff3cd8bc5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mass-stoneskin",
   title: "Mass Stoneskin",

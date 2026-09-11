@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const drainMomentum = {
   id: "01a06572-95be-7930-8786-f4c6366f7ccc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "drain-momentum",
   title: "Drain Momentum",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const barrierOfThorns = {
   id: "01a06572-95b5-7254-9141-79799566369e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "barrier-of-thorns",
   title: "Barrier of Thorns",

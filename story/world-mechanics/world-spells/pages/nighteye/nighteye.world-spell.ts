@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const nighteye = {
   id: "01a06572-95d9-7a6f-828c-27a81c171812",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "nighteye",
   title: "Nighteye",

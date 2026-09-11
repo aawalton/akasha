@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const flashOfInsight = {
   id: "01a06572-95c3-714d-9d1b-1796a4d4f654",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "flash-of-insight",
   title: "Flash of Insight",

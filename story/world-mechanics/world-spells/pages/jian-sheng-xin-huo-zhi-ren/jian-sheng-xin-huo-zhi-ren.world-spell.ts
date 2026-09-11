@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const jianShengXinHuoZhiRen = {
   id: "01a06572-95cc-75c2-b3b2-3839d1c79c1f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "jian-sheng-xin-huo-zhi-ren",
   title: "剑圣 – 心火之刃",

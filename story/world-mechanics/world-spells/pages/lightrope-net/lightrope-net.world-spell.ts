@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lightropeNet = {
   id: "01a06572-95d0-7941-875a-92828a77be27",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "lightrope-net",
   title: "Lightrope Net",

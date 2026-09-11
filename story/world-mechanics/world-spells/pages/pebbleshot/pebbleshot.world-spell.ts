@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const pebbleshot = {
   id: "01a06572-95da-73da-b17a-ab129e481eaf",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "pebbleshot",
   title: "Pebbleshot",

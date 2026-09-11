@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const gustOfAir = {
   id: "01a06572-95c7-705e-b6d1-77572b05f8f7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "gust-of-air",
   title: "Gust of Air",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const moltenRay = {
   id: "01a06572-95d9-7fd2-8553-01662d1551cd",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "molten-ray",
   title: "Molten Ray",

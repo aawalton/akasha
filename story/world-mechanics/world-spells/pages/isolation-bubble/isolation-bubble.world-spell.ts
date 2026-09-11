@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const isolationBubble = {
   id: "01a06572-95cc-7a24-875c-030c7f2d5ec0",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "isolation-bubble",
   title: "Isolation Bubble",

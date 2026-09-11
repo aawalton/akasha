@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const infernoRay = {
   id: "01a06572-95cb-7c05-a842-622ae90ec707",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "inferno-ray",
   title: "Inferno Ray",

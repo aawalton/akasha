@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const manaPurge = {
   id: "01a06572-95d1-756b-b69a-54c4c96ada90",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mana-purge",
   title: "Mana Purge",

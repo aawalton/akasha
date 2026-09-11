@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const earthenWall = {
   id: "01a06572-95bf-71b2-96eb-0047c04dc4a6",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "earthen-wall",
   title: "Earthen Wall",

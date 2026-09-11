@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const flying = {
   id: "01a06572-95c4-77e8-9319-3d7d3e81b604",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "flying",
   title: "Flying",

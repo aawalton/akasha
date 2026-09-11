@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const autocastDiffuseTrajectory = {
   id: "01a06572-95b5-7070-999d-25bbcfb81671",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "autocast-diffuse-trajectory",
   title: "Autocast: Diffuse Trajectory",

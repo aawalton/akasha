@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const hiddenSpotOfDeepFreeze = {
   id: "01a06572-95c8-7028-8cf5-d69eb6c881d4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "hidden-spot-of-deep-freeze",
   title: "Hidden Spot of Deep Freeze",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const massLevitation = {
   id: "01a06572-95d2-7013-a596-27a28a5ce626",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mass-levitation",
   title: "Mass Levitation",

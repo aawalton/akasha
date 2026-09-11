@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const greaterTranslation = {
   id: "01a06572-95c7-7d60-a520-0fc92ae315c0",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "greater-translation",
   title: "Greater Translation",

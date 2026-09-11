@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const nightclouds = {
   id: "01a06572-95d9-74c9-9d3c-9ad81d851909",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "nightclouds",
   title: "Nightclouds",

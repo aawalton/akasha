@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const createGlassBottle = {
   id: "01a06572-95bb-7333-83a0-afda29173882",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "create-glass-bottle",
   title: "Create Glass Bottle",

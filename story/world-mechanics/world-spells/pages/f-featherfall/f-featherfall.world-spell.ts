@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const fFeatherfall = {
   id: "01a06572-95bf-712f-a727-300a95c5be43",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "f-featherfall",
   title: "F-Featherfall",

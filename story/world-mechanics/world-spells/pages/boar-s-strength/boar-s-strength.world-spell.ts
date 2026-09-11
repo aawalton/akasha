@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const boarSStrength = {
   id: "01a06572-95b6-7d46-9953-ca891a8e7cac",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "boar-s-strength",
   title: "Boar’s Strength",

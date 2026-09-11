@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const frostbite = {
   id: "01a06572-95c5-7927-aeb0-068c6ebae8ba",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "frostbite",
   title: "Frostbite",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const executionOfFoes = {
   id: "01a06572-95bf-7adb-bbd3-fbcf0c3282a6",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "execution-of-foes",
   title: "Execution of Foes",

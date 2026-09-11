@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const identifyHighMagic = {
   id: "01a06572-95cb-78eb-a126-4b040e40d1bc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "identify-high-magic",
   title: "Identify High Magic",

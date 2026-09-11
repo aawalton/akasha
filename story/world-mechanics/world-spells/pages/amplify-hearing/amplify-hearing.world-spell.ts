@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const amplifyHearing = {
   id: "01a06572-95b4-7ff8-a419-f562251820c2",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "amplify-hearing",
   title: "Amplify Hearing",

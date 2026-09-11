@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const batSEars = {
   id: "01a06572-95b5-7fcf-a679-0613de9b2ffc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bat-s-ears",
   title: "Bat’s Ears",

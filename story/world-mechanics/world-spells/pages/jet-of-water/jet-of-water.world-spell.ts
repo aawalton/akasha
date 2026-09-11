@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const jetOfWater = {
   id: "01a06572-95cc-722f-af35-340d81af0685",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "jet-of-water",
   title: "Jet of Water",

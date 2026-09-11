@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const massTeleportation = {
   id: "01a06572-95d2-7c31-92ac-2f29447678a9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mass-teleportation",
   title: "Mass Teleportation",

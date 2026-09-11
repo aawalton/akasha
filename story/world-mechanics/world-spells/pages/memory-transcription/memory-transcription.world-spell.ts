@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const memoryTranscription = {
   id: "01a06572-95d2-7611-8d7a-d29d1ab87866",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "memory-transcription",
   title: "Memory Transcription",

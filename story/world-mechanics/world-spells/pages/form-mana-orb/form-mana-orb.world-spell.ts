@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const formManaOrb = {
   id: "01a06572-95c5-75c0-b1f5-c5c9460a5f3e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "form-mana-orb",
   title: "Form Mana Orb",

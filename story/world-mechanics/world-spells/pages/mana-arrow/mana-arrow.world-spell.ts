@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const manaArrow = {
   id: "01a06572-95d1-7e49-8c49-305f704d1923",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mana-arrow",
   title: "Mana Arrow",

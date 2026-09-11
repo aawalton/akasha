@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const avalancheOfTheStoneGiant = {
   id: "01a06572-95b5-75ef-a2d2-7e59b653e413",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "avalanche-of-the-stone-giant",
   title: "Avalanche of the Stone Giant",

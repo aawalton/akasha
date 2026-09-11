@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const gnawingHunger = {
   id: "01a06572-95c6-7107-aba1-6802d98a1893",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "gnawing-hunger",
   title: "Gnawing Hunger",

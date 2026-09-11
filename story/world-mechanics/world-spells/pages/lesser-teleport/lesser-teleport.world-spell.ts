@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lesserTeleport = {
   id: "01a06572-95cd-7e97-92bf-3f0b3736c7c3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "lesser-teleport",
   title: "Lesser Teleport",

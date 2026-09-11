@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ghostlyPresence = {
   id: "01a06572-95c6-79fe-be78-332289fcab72",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ghostly-presence",
   title: "Ghostly Presence",

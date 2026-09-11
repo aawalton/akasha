@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const directedFireball = {
   id: "01a06572-95bd-7ae6-867b-99e8934172a3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "directed-fireball",
   title: "Directed Fireball",

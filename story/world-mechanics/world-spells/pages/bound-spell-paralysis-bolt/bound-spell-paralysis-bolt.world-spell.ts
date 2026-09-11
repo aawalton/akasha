@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const boundSpellParalysisBolt = {
   id: "01a06572-95b7-705c-8802-d07873845234",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bound-spell-paralysis-bolt",
   title: "Bound Spell – Paralysis Bolt",

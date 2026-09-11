@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const impactShockwave = {
   id: "01a06572-95cb-78c9-9e33-55482ecb9d7e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "impact-shockwave",
   title: "Impact Shockwave",

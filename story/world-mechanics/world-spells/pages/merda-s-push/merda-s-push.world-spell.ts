@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const merdaSPush = {
   id: "01a06572-95d2-7776-b782-cb2f14ce0add",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "merda-s-push",
   title: "Merda’s Push",

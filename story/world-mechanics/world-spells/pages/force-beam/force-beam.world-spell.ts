@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const forceBeam = {
   id: "01a06572-95c4-7352-8acc-732e445c30f5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "force-beam",
   title: "Force Beam",

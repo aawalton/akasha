@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const detectDeath = {
   id: "01a06572-95bc-749f-9b8c-378c2d597e86",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "detect-death",
   title: "Detect Death",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const echo = {
   id: "01a06572-95bf-7b4f-b714-37959d520cac",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "echo",
   title: "Echo",

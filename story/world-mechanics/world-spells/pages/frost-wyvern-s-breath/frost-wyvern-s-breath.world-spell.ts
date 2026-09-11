@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const frostWyvernSBreath = {
   id: "01a06572-95c5-7248-ae2e-ebbbe81ccbb7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "frost-wyvern-s-breath",
   title: "Frost Wyvern’s Breath",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const charmOfThoughts = {
   id: "01a06572-95b8-7a65-8379-ebe926d9e3a1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "charm-of-thoughts",
   title: "Charm of Thoughts",

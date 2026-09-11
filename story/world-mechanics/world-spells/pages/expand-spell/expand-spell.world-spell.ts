@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const expandSpell = {
   id: "01a06572-95bf-7e4d-92ff-95332d5945fd",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "expand-spell",
   title: "Expand Spell",

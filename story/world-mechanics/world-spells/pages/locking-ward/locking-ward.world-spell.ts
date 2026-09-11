@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lockingWard = {
   id: "01a06572-95d0-7463-aa0c-88ca91e7ab05",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "locking-ward",
   title: "Locking Ward",

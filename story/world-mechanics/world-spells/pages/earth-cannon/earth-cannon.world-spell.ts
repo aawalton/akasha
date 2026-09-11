@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const earthCannon = {
   id: "01a06572-95be-74cd-a4e3-9c354699a543",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "earth-cannon",
   title: "Earth Cannon",

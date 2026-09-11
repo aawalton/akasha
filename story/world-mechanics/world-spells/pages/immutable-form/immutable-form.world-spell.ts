@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const immutableForm = {
   id: "01a06572-95cb-7ec3-9b34-300e1aa3b615",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "immutable-form",
   title: "Immutable Form",

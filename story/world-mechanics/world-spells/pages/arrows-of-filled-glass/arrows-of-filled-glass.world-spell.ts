@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const arrowsOfFilledGlass = {
   id: "01a06572-95b4-70fa-8eb6-6f6517426a60",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "arrows-of-filled-glass",
   title: "Arrows of Filled Glass",

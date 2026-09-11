@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const earthenSpire = {
   id: "01a06572-95bf-7c69-85c3-1e57fcfc2a69",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "earthen-spire",
   title: "Earthen Spire",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lightformArmaments = {
   id: "01a06572-95cf-7ec6-8157-30f71971872a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "lightform-armaments",
   title: "Lightform Armaments",

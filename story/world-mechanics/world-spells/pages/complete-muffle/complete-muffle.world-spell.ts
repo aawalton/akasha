@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const completeMuffle = {
   id: "01a06572-95b9-7abf-b918-4da25c2cdb2a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "complete-muffle",
   title: "Complete Muffle",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const beamOfZillac = {
   id: "01a06572-95b5-797c-8c8b-281ee331abbe",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "beam-of-zillac",
   title: "Beam of Zillac",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const obsidianSkin = {
   id: "01a06572-95da-7e6a-8022-9198a0953080",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "obsidian-skin",
   title: "Obsidian Skin",

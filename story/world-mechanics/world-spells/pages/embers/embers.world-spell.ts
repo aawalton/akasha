@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const embers = {
   id: "01a06572-95bf-74a3-a39d-9c8582f0e2e5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "embers",
   title: "Embers",

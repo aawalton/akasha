@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const floodsOfGaarhMarsh = {
   id: "01a06572-95c4-7828-b9d7-33f36d1a8f33",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "floods-of-gaarh-marsh",
   title: "Floods of Gaarh Marsh",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const innateSpellDetectMagic = {
   id: "01a06572-95cb-77ea-96d3-74bc3158cfa7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "innate-spell-detect-magic",
   title: "Innate Spell: Detect Magic",

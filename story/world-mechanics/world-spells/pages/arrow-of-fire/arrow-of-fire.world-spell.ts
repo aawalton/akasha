@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const arrowOfFire = {
   id: "01a06572-95b4-731a-955b-46d4de5aa2c3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "arrow-of-fire",
   title: "Arrow of Fire",

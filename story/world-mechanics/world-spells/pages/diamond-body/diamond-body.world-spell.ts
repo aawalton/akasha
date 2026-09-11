@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const diamondBody = {
   id: "01a06572-95bd-7e68-bf77-ad5337bb4c6e",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "diamond-body",
   title: "Diamond Body",

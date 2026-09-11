@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lawOfTheLucifenCeaseBreathing = {
   id: "01a06572-95cc-7fca-bcc0-dc4e33f1a82a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "law-of-the-lucifen-cease-breathing",
   title: "Law of the Lucifen: Cease Breathing",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const netOfNired = {
   id: "01a06572-95d9-7e6a-a8eb-a93104dbf463",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "net-of-nired",
   title: "Net of Nired",

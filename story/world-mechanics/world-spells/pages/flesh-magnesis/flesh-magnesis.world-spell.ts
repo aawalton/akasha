@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const fleshMagnesis = {
   id: "01a06572-95c4-7ac1-8b5c-eaee22382c8a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "flesh-magnesis",
   title: "Flesh Magnesis",

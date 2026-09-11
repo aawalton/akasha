@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lesserPolymorph = {
   id: "01a06572-95cd-7c9c-b63b-8cb89e31234c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "lesser-polymorph",
   title: "Lesser Polymorph",

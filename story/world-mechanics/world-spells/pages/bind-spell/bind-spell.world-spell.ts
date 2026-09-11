@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bindSpell = {
   id: "01a06572-95b6-7007-a50c-5f070eb8fcd3",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bind-spell",
   title: "Bind Spell",

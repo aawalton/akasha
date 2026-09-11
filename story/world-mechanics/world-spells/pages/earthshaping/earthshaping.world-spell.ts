@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const earthshaping = {
   id: "01a06572-95bf-7e6c-916d-e9fe8e7622fc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "earthshaping",
   title: "Earthshaping",

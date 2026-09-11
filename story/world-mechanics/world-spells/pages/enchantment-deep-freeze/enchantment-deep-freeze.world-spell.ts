@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const enchantmentDeepFreeze = {
   id: "01a06572-95bf-7f6d-9bd0-3c2d453d2118",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "enchantment-deep-freeze",
   title: "Enchantment: Deep Freeze",

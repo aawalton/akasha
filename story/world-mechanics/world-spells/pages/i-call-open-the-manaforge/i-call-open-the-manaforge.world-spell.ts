@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const iCallOpenTheManaforge = {
   id: "01a06572-95c9-70c3-889e-35b8c396ca92",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "i-call-open-the-manaforge",
   title: "I Call Open the Manaforge",

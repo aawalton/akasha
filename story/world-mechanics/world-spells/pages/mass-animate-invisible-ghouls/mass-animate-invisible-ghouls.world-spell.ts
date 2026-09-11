@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const massAnimateInvisibleGhouls = {
   id: "01a06572-95d1-735c-a08b-c54496e891b8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mass-animate-invisible-ghouls",
   title: "Mass Animate Invisible Ghouls",

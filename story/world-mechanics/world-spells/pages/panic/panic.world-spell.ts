@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const panic = {
   id: "01a06572-95da-7587-9448-cc47f952573a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "panic",
   title: "Panic",

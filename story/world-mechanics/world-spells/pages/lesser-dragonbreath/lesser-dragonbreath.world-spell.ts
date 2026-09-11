@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lesserDragonbreath = {
   id: "01a06572-95cc-7683-abd7-5eb9a9a74a7a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "lesser-dragonbreath",
   title: "Lesser Dragonbreath",

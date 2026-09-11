@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bloodLightning = {
   id: "01a06572-95b6-755d-9ba7-d97e7d6f0810",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "blood-lightning",
   title: "Blood Lightning",

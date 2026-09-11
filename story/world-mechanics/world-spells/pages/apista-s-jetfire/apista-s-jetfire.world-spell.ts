@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const apistaSJetfire = {
   id: "01a06572-95b4-7d9b-bce8-4d26ae12288b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "apista-s-jetfire",
   title: "Apista’s Jetfire",

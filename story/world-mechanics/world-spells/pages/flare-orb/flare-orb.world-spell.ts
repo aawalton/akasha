@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const flareOrb = {
   id: "01a06572-95c3-7bb7-a12c-4f2dbaaca3f6",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "flare-orb",
   title: "Flare Orb",

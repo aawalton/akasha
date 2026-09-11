@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const dryClothing = {
   id: "01a06572-95be-7b22-9a71-d9e47c3cc24b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "dry-clothing",
   title: "Dry Clothing",

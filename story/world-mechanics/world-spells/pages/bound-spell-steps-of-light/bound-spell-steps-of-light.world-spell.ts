@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const boundSpellStepsOfLight = {
   id: "01a06572-95b7-71ed-804c-2bf99c3f0b02",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bound-spell-steps-of-light",
   title: "Bound Spell: Steps of Light",

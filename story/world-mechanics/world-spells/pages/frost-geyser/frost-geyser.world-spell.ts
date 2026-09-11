@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const frostGeyser = {
   id: "01a06572-95c5-7988-acbc-d55716cad6e4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "frost-geyser",
   title: "Frost Geyser",

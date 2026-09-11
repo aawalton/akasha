@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const pestilenceSTouch = {
   id: "01a06572-95da-7c8f-8ad6-c9733506d759",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "pestilence-s-touch",
   title: "Pestilence’s Touch",

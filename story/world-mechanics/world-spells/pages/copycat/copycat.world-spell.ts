@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const copycat = {
   id: "01a06572-95bb-7db3-a216-ee11af26a9ef",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "copycat",
   title: "Copycat",

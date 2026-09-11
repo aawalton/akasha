@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const aegisOfTrueInvincibility = {
   id: "01a06572-95b3-7d22-90b4-3bec305e5e89",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "aegis-of-true-invincibility",
   title: "Aegis of True Invincibility",

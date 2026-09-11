@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const distantMirror = {
   id: "01a06572-95be-76a0-a80d-ee5d5971bcf1",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "distant-mirror",
   title: "Distant Mirror",

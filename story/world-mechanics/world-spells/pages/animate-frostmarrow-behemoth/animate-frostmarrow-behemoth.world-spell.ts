@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const animateFrostmarrowBehemoth = {
   id: "01a06572-95b4-723a-befd-eb5789782921",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "animate-frostmarrow-behemoth",
   title: "Animate Frostmarrow Behemoth",

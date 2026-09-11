@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const mend = {
   id: "01a06572-95d2-7f8f-beaf-a2698b48a26f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mend",
   title: "Mend",

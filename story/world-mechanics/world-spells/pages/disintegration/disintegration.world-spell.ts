@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const disintegration = {
   id: "01a06572-95bd-7bf7-9cfd-dfbf227087cd",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "disintegration",
   title: "Disintegration",

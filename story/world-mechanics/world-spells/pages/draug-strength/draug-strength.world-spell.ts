@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const draugStrength = {
   id: "01a06572-95be-731c-ab30-09d480c5547f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "draug-strength",
   title: "Draug Strength",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const fortificationOfMithril = {
   id: "01a06572-95c5-7901-aafc-40c11a07f666",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "fortification-of-mithril",
   title: "Fortification of Mithril",

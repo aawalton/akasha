@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const grassyMeadow = {
   id: "01a06572-95c6-7554-b32c-68dc79d65ff8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "grassy-meadow",
   title: "Grassy Meadow",

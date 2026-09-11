@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const paralysisRay = {
   id: "01a06572-95da-72f4-9c31-43eb95673fe4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "paralysis-ray",
   title: "Paralysis Ray",

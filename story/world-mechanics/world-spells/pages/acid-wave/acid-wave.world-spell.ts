@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const acidWave = {
   id: "01a06572-95b3-7abe-8e04-8196001411c7",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "acid-wave",
   title: "Acid Wave",

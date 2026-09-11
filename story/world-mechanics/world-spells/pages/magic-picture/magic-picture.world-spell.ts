@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const magicPicture = {
   id: "01a06572-95d1-7d20-9ec7-eff884f165c8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "magic-picture",
   title: "Magic Picture",

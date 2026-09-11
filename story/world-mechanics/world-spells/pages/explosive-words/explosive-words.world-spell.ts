@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const explosiveWords = {
   id: "01a06572-95bf-7cee-af06-ea9052fbca82",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "explosive-words",
   title: "Explosive Words",

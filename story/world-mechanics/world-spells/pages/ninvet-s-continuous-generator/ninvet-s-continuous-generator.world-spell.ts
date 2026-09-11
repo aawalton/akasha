@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ninvetSContinuousGenerator = {
   id: "01a06572-95d9-7cb8-ac4f-122fa3163c21",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ninvet-s-continuous-generator",
   title: "Ninvet’s Continuous Generator",

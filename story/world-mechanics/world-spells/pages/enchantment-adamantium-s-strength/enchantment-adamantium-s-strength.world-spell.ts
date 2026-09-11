@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const enchantmentAdamantiumSStrength = {
   id: "01a06572-95bf-7bf4-a28e-f701316d8717",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "enchantment-adamantium-s-strength",
   title: "Enchantment: Adamantium’s Strength",

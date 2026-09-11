@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bloodbatSwarm = {
   id: "01a06572-95b6-7013-8db0-8ccddedf9496",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bloodbat-swarm",
   title: "Bloodbat Swarm",

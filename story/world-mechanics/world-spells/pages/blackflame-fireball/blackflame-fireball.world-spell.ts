@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const blackflameFireball = {
   id: "01a06572-95b6-76db-a96d-98683e518148",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "blackflame-fireball",
   title: "Blackflame Fireball",

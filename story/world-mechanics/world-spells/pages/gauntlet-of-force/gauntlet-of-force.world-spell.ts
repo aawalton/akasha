@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const gauntletOfForce = {
   id: "01a06572-95c6-721c-b35a-b3f63fc0585c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "gauntlet-of-force",
   title: "Gauntlet of Force",

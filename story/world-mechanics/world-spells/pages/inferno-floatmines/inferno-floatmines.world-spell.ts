@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const infernoFloatmines = {
   id: "01a06572-95cb-758a-90ba-25531e2b391b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "inferno-floatmines",
   title: "Inferno Floatmines",

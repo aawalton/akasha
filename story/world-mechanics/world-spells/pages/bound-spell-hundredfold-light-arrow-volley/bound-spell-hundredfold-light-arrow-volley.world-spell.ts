@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const boundSpellHundredfoldLightArrowVolley = {
   id: "01a06572-95b7-704b-a103-4821cfffbb1a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bound-spell-hundredfold-light-arrow-volley",
   title: "Bound Spell: Hundredfold Light Arrow Volley",

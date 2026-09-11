@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const magicalAnchoring = {
   id: "01a06572-95d1-7464-b57a-afa824d83ed0",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "magical-anchoring",
   title: "Magical Anchoring",

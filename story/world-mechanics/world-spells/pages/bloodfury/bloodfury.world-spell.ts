@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bloodfury = {
   id: "01a06572-95b6-7d06-8d4e-c42327ef2c86",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bloodfury",
   title: "Bloodfury",

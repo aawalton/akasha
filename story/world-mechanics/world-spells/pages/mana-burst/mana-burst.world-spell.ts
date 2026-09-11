@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const manaBurst = {
   id: "01a06572-95d1-764e-8173-ed174c4cd1dd",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mana-burst",
   title: "Mana Burst",

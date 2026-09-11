@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const landbridge = {
   id: "01a06572-95cc-76a4-915c-6e5b252bbc95",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "landbridge",
   title: "Landbridge",

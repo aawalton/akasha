@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const networkTeleport = {
   id: "01a06572-95d9-7f91-ae97-a6881d03b3a8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "network-teleport",
   title: "Network Teleport",

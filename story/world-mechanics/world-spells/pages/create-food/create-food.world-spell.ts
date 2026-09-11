@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const createFood = {
   id: "01a06572-95bb-7a3b-ac23-ca8aaaa0d337",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "create-food",
   title: "Create Food",

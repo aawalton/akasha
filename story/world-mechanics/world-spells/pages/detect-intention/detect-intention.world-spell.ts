@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const detectIntention = {
   id: "01a06572-95bc-7927-9553-cda66abc5259",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "detect-intention",
   title: "Detect Intention",

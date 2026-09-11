@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lightCaneExtendedMaterialization = {
   id: "01a06572-95ce-7b41-beac-e763bddcadda",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "light-cane-extended-materialization",
   title: "Light Cane: Extended Materialization",

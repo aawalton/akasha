@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const domeOfWarmth = {
   id: "01a06572-95be-7508-bd19-56ea827bd4dc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "dome-of-warmth",
   title: "Dome of Warmth",

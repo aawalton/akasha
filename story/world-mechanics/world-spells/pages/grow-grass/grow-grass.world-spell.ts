@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const growGrass = {
   id: "01a06572-95c7-777e-8656-6d313d46fd9d",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "grow-grass",
   title: "Grow Grass",

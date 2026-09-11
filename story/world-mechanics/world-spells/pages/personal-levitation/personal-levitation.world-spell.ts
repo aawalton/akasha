@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const personalLevitation = {
   id: "01a06572-95da-78d2-a1f4-5e8af47e4f53",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "personal-levitation",
   title: "Personal Levitation",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const geckoSPads = {
   id: "01a06572-95c6-7a28-b76c-db50c46139a4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "gecko-s-pads",
   title: "Gecko’s Pads",

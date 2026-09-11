@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const greaterHealWounds = {
   id: "01a06572-95c7-7870-9002-f4098aa7e303",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "greater-heal-wounds",
   title: "Greater Heal Wounds",

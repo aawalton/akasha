@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const ashCloud = {
   id: "01a06572-95b5-7c69-8a99-8e30c858857d",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "ash-cloud",
   title: "Ash Cloud",

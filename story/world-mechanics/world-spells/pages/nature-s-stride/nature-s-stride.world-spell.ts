@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const natureSStride = {
   id: "01a06572-95d9-7cff-9e5b-4952df83c9a5",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "nature-s-stride",
   title: "Nature’s Stride",

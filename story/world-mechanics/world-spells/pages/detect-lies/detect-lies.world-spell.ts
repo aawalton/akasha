@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const detectLies = {
   id: "01a06572-95bd-706f-a2fb-82b261cfdfda",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "detect-lies",
   title: "Detect Lies",

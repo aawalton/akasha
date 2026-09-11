@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const manaDisruption = {
   id: "01a06572-95d1-7e11-b02c-c9d5154c4275",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mana-disruption",
   title: "Mana Disruption",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const blindness = {
   id: "01a06572-95b6-7a10-93da-56cdcd8626a6",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "blindness",
   title: "Blindness",

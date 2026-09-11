@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const detoxin = {
   id: "01a06572-95bd-7920-aad9-b86922f5effc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "detoxin",
   title: "Detoxin",

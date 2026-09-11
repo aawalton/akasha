@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const gazelleSDexterity = {
   id: "01a06572-95c6-743d-a9da-0654cb05dfde",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "gazelle-s-dexterity",
   title: "Gazelle’s Dexterity",

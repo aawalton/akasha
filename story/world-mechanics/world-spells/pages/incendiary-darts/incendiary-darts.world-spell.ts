@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const incendiaryDarts = {
   id: "01a06572-95cb-72f2-ac23-21f4fba94b9f",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "incendiary-darts",
   title: "Incendiary Darts",

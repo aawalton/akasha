@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const noseOfTheDog = {
   id: "01a06572-95d9-7d84-b3ef-c5237b5d43a9",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "nose-of-the-dog",
   title: "Nose of the Dog",

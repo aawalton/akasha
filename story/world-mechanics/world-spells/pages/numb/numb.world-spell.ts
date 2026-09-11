@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const numb = {
   id: "01a06572-95da-70b2-a5d0-691eaeba9a4a",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "numb",
   title: "Numb",

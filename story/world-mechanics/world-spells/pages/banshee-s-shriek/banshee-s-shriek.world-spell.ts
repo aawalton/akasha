@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bansheeSShriek = {
   id: "01a06572-95b5-7675-9f97-f42281039700",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "banshee-s-shriek",
   title: "Banshee’s Shriek",

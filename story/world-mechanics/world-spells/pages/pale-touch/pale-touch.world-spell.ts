@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const paleTouch = {
   id: "01a06572-95da-74b6-a9b5-700c8319427b",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "pale-touch",
   title: "Pale Touch",

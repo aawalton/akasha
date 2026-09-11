@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const lightBubble = {
   id: "01a06572-95ce-76d1-9546-3cf37663e552",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "light-bubble",
   title: "Light Bubble",

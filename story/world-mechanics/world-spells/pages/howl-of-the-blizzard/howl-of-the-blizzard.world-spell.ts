@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const howlOfTheBlizzard = {
   id: "01a06572-95c8-7994-a74e-71dce2b89541",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "howl-of-the-blizzard",
   title: "Howl of the Blizzard",

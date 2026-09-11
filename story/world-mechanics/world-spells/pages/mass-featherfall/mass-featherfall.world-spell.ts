@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const massFeatherfall = {
   id: "01a06572-95d1-72f5-b48d-5489bf6cccf2",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "mass-featherfall",
   title: "Mass Featherfall",

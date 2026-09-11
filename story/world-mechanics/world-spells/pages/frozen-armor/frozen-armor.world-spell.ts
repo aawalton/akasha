@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const frozenArmor = {
   id: "01a06572-95c5-73f9-9dd5-48c5f3b18702",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "frozen-armor",
   title: "Frozen Armor",

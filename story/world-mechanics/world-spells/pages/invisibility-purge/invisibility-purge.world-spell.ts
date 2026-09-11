@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const invisibilityPurge = {
   id: "01a06572-95cb-759c-86ad-20acde1d3db4",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "invisibility-purge",
   title: "Invisibility Purge",

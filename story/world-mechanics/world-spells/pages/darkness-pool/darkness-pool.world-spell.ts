@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const darknessPool = {
   id: "01a06572-95bb-7bd6-a942-52cbd83ffbfc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "darkness-pool",
   title: "Darkness Pool",

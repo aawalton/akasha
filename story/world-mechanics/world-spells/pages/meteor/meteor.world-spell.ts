@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const meteor = {
   id: "01a06572-95d8-7c3a-b1da-9bda7a2953dc",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "meteor",
   title: "Meteor",

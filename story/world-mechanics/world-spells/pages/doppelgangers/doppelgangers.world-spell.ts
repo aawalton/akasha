@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const doppelgangers = {
   id: "01a06572-95be-7a86-b7f6-0a8724375a36",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "doppelgangers",
   title: "Doppelgangers",

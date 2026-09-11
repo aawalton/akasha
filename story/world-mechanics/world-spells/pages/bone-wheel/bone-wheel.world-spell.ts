@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const boneWheel = {
   id: "01a06572-95b7-7622-a440-8fe701ebe2aa",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bone-wheel",
   title: "Bone Wheel",

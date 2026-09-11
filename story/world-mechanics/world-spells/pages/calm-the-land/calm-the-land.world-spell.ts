@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const calmTheLand = {
   id: "01a06572-95b8-7a04-8917-69c8a3ad352c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "calm-the-land",
   title: "Calm the Land",

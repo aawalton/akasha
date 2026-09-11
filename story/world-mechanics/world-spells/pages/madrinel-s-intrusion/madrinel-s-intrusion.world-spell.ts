@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const madrinelSIntrusion = {
   id: "01a06572-95d0-737f-a57e-0b4bd309cee8",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "madrinel-s-intrusion",
   title: "Madrinel’s Intrusion",

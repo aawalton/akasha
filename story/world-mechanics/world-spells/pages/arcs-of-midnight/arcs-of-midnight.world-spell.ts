@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const arcsOfMidnight = {
   id: "01a06572-95b4-739e-8253-7a7e8cf22611",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "arcs-of-midnight",
   title: "Arcs of Midnight",

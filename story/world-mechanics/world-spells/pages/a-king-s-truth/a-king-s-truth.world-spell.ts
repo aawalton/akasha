@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const aKingSTruth = {
   id: "01a06572-95b2-7cb5-8596-d82b85b4626c",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "a-king-s-truth",
   title: "A King’s Truth",

@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const hammerOfTheObsidianGiant = {
   id: "01a06572-95c8-77f5-8540-05d09923cc73",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "hammer-of-the-obsidian-giant",
   title: "Hammer of the Obsidian Giant",

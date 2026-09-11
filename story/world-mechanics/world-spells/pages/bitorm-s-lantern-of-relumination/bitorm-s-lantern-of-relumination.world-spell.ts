@@ -2,7 +2,6 @@ import type { WorldSpell } from "akasha/story/world-mechanics/world-spells/world
 
 export const bitormSLanternOfRelumination = {
   id: "01a06572-95b6-7892-819c-689ceec7a192",
-  pageTypeSlug: "world-spell",
   type: "world-spell",
   slug: "bitorm-s-lantern-of-relumination",
   title: "Bitorm’s Lantern of Relumination",
