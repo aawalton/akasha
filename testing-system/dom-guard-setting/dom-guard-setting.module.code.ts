@@ -1,4 +1,4 @@
-import { componentTestMissingDom } from "../dom-guarding/dom-guarding.module.code.ts"
+import { componentTestMissingDom } from "akasha/testing-system/dom-guarding/dom-guarding.module.code.ts"
 
 if (componentTestMissingDom(process.argv, typeof globalThis.document !== "undefined")) {
   throw new Error(

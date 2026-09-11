@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { declaringUnder } from "./declaring.module.code.ts"
+import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 
 test("each page is named for the slug and the page type it states", () => {
   expect(Object.keys(declaringUnder("akasha")).toSorted()).toEqual([

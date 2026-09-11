@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { componentTestMissingDom } from "./dom-guarding.module.code.ts"
+import { componentTestMissingDom } from "akasha/testing-system/dom-guarding/dom-guarding.module.code.ts"
 
 describe("componentTestMissingDom", () => {
   test("lets a run holding a document through", () => {
