@@ -10,7 +10,7 @@ import {
 } from "akasha/temper/completion-import/completion-input-schema/completion-input-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord, asRecordOrEmpty } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export type AddonCharacterRecord = { name: string; priorityOrder?: number } & CharacterCompletion
@@ -48,10 +48,6 @@ function asAddonCharacterRecord(value: unknown): AddonCharacterRecord {
 }
 function asCompanionCompletion(value: unknown): CompanionCompletion {
   return cleanCompanionCompletionInput(value) as CompanionCompletion
-}
-
-function toLuaKeyedRecord(value: unknown): Record<string, unknown> {
-  return asRecord(value) ?? {}
 }
 
 export function parseSavedVariablesContent(
@@ -99,7 +95,7 @@ export function parseSavedVariablesContent(
   }
 
   const companionsRecord = asRecord(accountWide.companions)
-  const companionsTable = toLuaKeyedRecord(accountWide.companions)
+  const companionsTable = asRecordOrEmpty(accountWide.companions)
   const companions: Record<string, { companionId: string; data: CompanionCompletion }> = {}
 
   for (const [defIdKey, companionEntry] of Object.entries(companionsTable)) {

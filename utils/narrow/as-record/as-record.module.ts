@@ -16,5 +16,9 @@ export const asRecord = {
       invariantKind: "departure",
       statement: "Nothing at all is no record.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reader wanting a record either way reads an empty record here.",
+    },
   ],
 } as const satisfies Module

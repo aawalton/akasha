@@ -11,7 +11,7 @@ import {
   type SignedInReader,
   signedInUserId,
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord, asRecordOrEmpty } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { z } from "zod"
@@ -119,11 +119,7 @@ async function settingsBlobOf(userId: string): Promise<Record<string, unknown> |
         `beside the player page, so what is already set went unread`
     )
   }
-  return parseSettingsBlob(JSON.parse(held))
-}
-
-function parseSettingsBlob(held: unknown): Record<string, unknown> {
-  return asRecord(held) ?? {}
+  return asRecordOrEmpty(JSON.parse(held))
 }
 
 export function temperPlayerSettingsStore(): VerdictSettingsStore {
