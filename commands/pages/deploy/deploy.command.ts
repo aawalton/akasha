@@ -62,6 +62,7 @@ export const deploy = {
     "what a deploy is built from is the files beside its page, the source folder a web app names, the shared files an ios build takes, and every file the code in those imports, followed through.",
     "the checks stating `runs-on-deploy` judge what changed from the commit the last deploy recorded to the commit named, narrowed to the files the deploy is built from.",
     "a service whose page carries no deployed commit is judged over every file it is built from, since nothing was ever proved of it.",
+    "a deploy that refused writes the commit it refused at beside the commit it last put up, so what refused is known without running the deploy again.",
     "an ios app is built from origin on the MacBook, so a `--ref` named on one is built however the worktree differs from it.",
     "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
@@ -156,7 +157,11 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A deploy that refused and a dry run write no commit onto any page.",
+      statement: "A deploy that refused writes the commit it refused at under its own key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run writes no commit onto any page.",
     },
     {
       invariantKind: "departure",

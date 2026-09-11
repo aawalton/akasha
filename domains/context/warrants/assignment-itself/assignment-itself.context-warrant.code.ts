@@ -8,8 +8,7 @@ import {
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { addressedIn } from "akasha/pages/address/page-address.module.code.ts"
 import { listedAt, listedFor } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textUnder } from "akasha/pages/value/page-value.module.code.ts"
 
 export const ASSIGNMENT =
   "A seat answers for the assignment it states, and that assignment is read before the seat is changed."
@@ -30,13 +29,8 @@ function warrantAt(root: string, path: string, owed: string): readonly Warrant[]
   return oid === null ? [] : [{ path, oid, owed }]
 }
 
-function namedAt(root: string, path: string, key: string): string | null {
-  const value = valueAt(path, root)
-  return value === null ? null : textAt(value, key)
-}
-
 function domainOf(root: string, path: string): readonly Warrant[] {
-  const named = namedAt(root, path, DOMAIN_KEY)
+  const named = textUnder(root, path, DOMAIN_KEY)
   if (named === null) return []
   const address = addressedIn(named)
   if ("refused" in address) throw new Error(address.refused)

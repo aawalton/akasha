@@ -4,13 +4,17 @@ export const deployCommitRecording = {
   id: "01a0918e-3f40-7004-a4ca-adca97c45186",
   type: "module",
   slug: "deploy-commit-recording",
-  definition: "the commit a deploy put up, written onto the service's page",
+  definition: "the commit a deploy put up or refused at, written onto the service's page",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "The commit is written onto the page the deploy was read from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit that was put up and a commit that refused are written under two keys.",
     },
     {
       invariantKind: "departure",

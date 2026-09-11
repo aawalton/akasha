@@ -17,6 +17,7 @@ import {
 import {
   commitRecordedIn,
   recordedCommit,
+  recordedRefusal,
 } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
 import { closureFor } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
@@ -200,12 +201,18 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
   const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
   const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
-  if (unjudged.length > 0) return answering([`commit\t${commit}`], unjudged, DATA)
+  const dry = rest.includes(DRY_RUN)
+  const noting = async () =>
+    dry ? [] : await recordedRefusal(given.root, slug, read.pagePath, commit)
+  if (unjudged.length > 0) {
+    return answering([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
+  }
   const answer = await putUp(read, slug, commit, rest, given)
   const lines = [`commit\t${commit}`, ...answer.report]
-  if (answer.code !== 0 || answer.refusals.length > 0 || rest.includes(DRY_RUN)) {
-    return answering(lines, answer.refusals, answer.code)
+  if (answer.code !== 0 || answer.refusals.length > 0) {
+    return answering(lines, [...answer.refusals, ...(await noting())], answer.code)
   }
+  if (dry) return answering(lines, answer.refusals, answer.code)
   const wrong = await recordedCommit(given.root, slug, read.pagePath, commit)
   if (wrong.length > 0) return answering(lines, wrong, OPERATIONAL)
   return answering([...lines, `recorded\t${slug}\t${commit}`], [], 0)

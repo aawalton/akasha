@@ -8,7 +8,7 @@ export const pageValue = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  pageBodyReaders: ["valueAt"],
+  pageBodyReaders: ["valueAt", "textUnder"],
   invariants: [
     {
       invariantKind: "departure",
@@ -38,6 +38,10 @@ export const pageValue = {
     {
       invariantKind: "departure",
       statement: "A key is read as the type that key is asked for or as nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The text one key has at a path is read here rather than beside each reader.",
     },
     {
       invariantKind: "departure",

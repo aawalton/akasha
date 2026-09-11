@@ -1,6 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 function newTranspiler() {
   return new Bun.Transpiler({ loader: "ts" })
@@ -89,4 +89,9 @@ export function valueAt(path: string, repo: string): Value | null {
   const entry = statSync(at, { throwIfNoEntry: false })
   if (entry === undefined || !entry.isFile()) return null
   return loadedFrom(readFileSync(at, "utf8")).value
+}
+
+export function textUnder(root: string, path: string, key: string): string | null {
+  const value = valueAt(path, root)
+  return value === null ? null : textAt(value, key)
 }
