@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildTypes = {
   id: "01a061a7-9bb3-727e-9417-7f9f1826d61a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-types",
   definition: "everything a character build holds, from its class to its slotted skills",

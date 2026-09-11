@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const leadsZones = {
   id: "01a06274-b08a-7704-bb73-1995a9337535",
-  pageTypeSlug: "module",
   type: "module",
   slug: "leads-zones",
   definition: "the zones a lead is grouped under, the game's own and the invented ones",

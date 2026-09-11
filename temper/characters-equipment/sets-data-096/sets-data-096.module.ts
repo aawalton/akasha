@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData096 = {
   id: "01a061a3-621a-7e75-a05c-58115377cd87",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-096",
   definition: "part 096 of the gear set table, steadfasts-mettle through stonehulk-domination",

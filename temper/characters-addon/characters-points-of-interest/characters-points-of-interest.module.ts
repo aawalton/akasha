@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersPointsOfInterest = {
   id: "01a062e9-b6fe-7015-8174-42b3c3fcd035",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-points-of-interest",
   definition:

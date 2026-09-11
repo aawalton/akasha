@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorMcp = {
   id: "01a0687b-aa8a-7000-b99b-66144cf69680",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-mcp",
   definition: "the mcp servers an agent is launched with, and the disabled ones cleared away",

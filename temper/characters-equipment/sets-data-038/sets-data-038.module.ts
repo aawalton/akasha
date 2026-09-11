@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData038 = {
   id: "01a061a3-0132-7a3c-9e0b-6b8fc814c135",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-038",
   definition: "part 038 of the gear set table, grisly-gourmet through hagravens-garden",

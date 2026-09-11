@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatTypes = {
   id: "01a05bc6-fa4a-7006-a05a-999535e277bf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-types",
   definition: "the shapes a combatant, a die roll and an attack are written in here",

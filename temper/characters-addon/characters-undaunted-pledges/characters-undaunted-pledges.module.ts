@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersUndauntedPledges = {
   id: "01a062ed-398d-7009-a4a9-bb8458c10c02",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-undaunted-pledges",
   definition: "today's undaunted pledges, less those a character has already taken the point from",

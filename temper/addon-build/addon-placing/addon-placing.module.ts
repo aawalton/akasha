@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonPlacing = {
   id: "01a090b8-6baa-7001-902c-0a3fc6d7cf83",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-placing",
   definition: "an addon's folder in the game replaced with what the build output has",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const webRulePotionEffects = {
   id: "01a0607c-179a-7789-b4ca-bbd8ef4062ec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "web-rule-potion-effects",
   definition: "the potion effects fragment of the web rules engine source",

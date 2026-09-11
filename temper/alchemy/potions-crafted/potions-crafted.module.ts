@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionsCrafted = {
   id: "01a06076-1b6a-7cba-9441-c81e409dbcd4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potions-crafted",
   definition: "every crafted essence, gathered into one table",

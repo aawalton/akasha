@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorRcDegradedDecide = {
   id: "01a0686d-9d5e-7002-ae93-c2861807113f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-rc-degraded-decide",
   definition: "whether a seat whose remote control has gone quiet is alerted about on this tick",

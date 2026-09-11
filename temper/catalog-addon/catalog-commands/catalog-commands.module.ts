@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const catalogCommands = {
   id: "01a063ba-94e5-701e-9834-3d28bebc065c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "catalog-commands",
   definition: "what the player's slash command clears and what it prints about each catalog",

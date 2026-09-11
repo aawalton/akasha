@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorMonitorsWire = {
   id: "01a0687c-0431-7000-a70a-a045c6252226",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-monitors-wire",
   definition: "starting every per-agent monitor a seat runs under",

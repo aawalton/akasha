@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const salesCapture = {
   id: "01a060e2-3181-7087-9742-dc3d075f9c3c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sales-capture",
   definition: "the player's own guild store sales, read off the guild history event stream",

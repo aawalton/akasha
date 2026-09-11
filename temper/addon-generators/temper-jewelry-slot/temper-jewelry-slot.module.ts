@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperJewelrySlot = {
   id: "01a0607b-e91b-7123-86f2-85046dd5cdf6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-jewelry-slot",
   definition: "the jewelry slots data file, rendered from pages",

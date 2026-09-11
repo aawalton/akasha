@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMetadataCopy = {
   id: "01a062d1-4a71-7f08-a4d5-3b9e7c02a1df",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-metadata-copy",
   definition: "everything an addon ships that is not its Lua, put into the addon's build output",

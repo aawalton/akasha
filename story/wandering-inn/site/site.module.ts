@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const site = {
   id: "01a06578-5721-7002-bdf0-39ef7ab35f68",
-  pageTypeSlug: "module",
   type: "module",
   slug: "site",
   definition: "wanderinginn.com read through a headless browser",

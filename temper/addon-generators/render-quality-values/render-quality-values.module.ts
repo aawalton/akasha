@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const renderQualityValues = {
   id: "01a06102-20e9-7554-81d6-0034a9fe914b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "render-quality-values",
   definition: "how per-quality numbers are written into a generated data table",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonDataWritesSets = {
   id: "01a06837-d6c9-7314-9d59-027ee56c58e8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-data-writes-sets",
   definition: "the sets section of a run's output, as the writes the section represents",

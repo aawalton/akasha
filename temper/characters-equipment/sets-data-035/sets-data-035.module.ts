@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData035 = {
   id: "01a061a3-0131-708a-a170-4ee583927a5a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-035",
   definition: "part 035 of the gear set table, frozen-watcher through gaze-of-sithis",

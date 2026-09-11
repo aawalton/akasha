@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const antiquitiesAddonEntry = {
   id: "01a06274-b089-7140-959d-d67b4777dffa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "antiquities-addon-entry",
   definition: "where the transpiler starts this add-on's one Lua file",

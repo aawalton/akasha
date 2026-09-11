@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatLibCallbacks = {
   id: "01a0617f-5844-77ca-8e46-2d920d750abf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-lib-callbacks",
   definition: "the callbacks another add-on can ask the recorder for",

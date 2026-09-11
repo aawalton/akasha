@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersMountTraining = {
   id: "01a062e9-b6fe-7012-a825-356778993de1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-mount-training",
   definition: "the riding training of the character now played, read into the saved table",

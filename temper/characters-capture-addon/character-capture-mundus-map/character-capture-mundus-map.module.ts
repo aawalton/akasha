@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterCaptureMundusMap = {
   id: "01a0616b-0dc6-7330-8236-23addefa109d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-capture-mundus-map",
   definition: "each mundus stone's ability id against its place in a build hash",

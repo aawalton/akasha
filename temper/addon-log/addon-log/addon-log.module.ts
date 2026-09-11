@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonLog = {
   id: "01a08e26-c147-7c8e-baea-f2cad9ded7c8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-log",
   definition: "the log line written for each value an add-on hands over",

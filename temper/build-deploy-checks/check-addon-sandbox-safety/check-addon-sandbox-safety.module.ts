@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkAddonSandboxSafety = {
   id: "01a06365-e827-7007-b638-ed3fec2ee814",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-addon-sandbox-safety",
   definition: "the run judging whether an emitted bundle names a symbol the game strips",

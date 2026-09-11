@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const leadsGlobal = {
   id: "01a06274-b08a-7c2e-bec4-949ada692ff8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "leads-global",
   definition: "the table the lead window's markup and other add-ons call into",

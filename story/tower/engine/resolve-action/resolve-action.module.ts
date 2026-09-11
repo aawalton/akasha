@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const resolveAction = {
   id: "01a05bc6-fa4a-7009-9d91-eef4f7a1e89b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "resolve-action",
   definition: "the outcome of one attack, worked out from attacker, defender and seed",

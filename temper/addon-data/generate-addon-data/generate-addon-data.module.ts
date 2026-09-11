@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const generateAddonData = {
   id: "01a0685f-fd9b-7000-b2e8-a507f1d0986d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "generate-addon-data",
   definition: "one run writing every addon data file from the pages with their source",

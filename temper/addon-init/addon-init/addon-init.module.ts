@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonInit = {
   id: "01a060ae-335f-75cf-867a-8b88bb3db05e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-init",
   definition: "the callback the game runs once it has loaded the add-on that asked",

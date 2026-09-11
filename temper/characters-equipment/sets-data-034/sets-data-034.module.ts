@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData034 = {
   id: "01a061a3-0131-76a9-84e1-b32688953b94",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-034",
   definition: "part 034 of the gear set table, foolkillers-ward through frostbite",

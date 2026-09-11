@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData119 = {
   id: "01a061a3-982e-7102-bb0f-f5afc93c6dca",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-119",
   definition: "part 119 of the gear set table, wilderqueens-arch through wisdom-of-vanus",

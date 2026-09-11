@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const proseSegments = {
   id: "01a05b71-e544-7429-b3f8-5d2560f95738",
-  pageTypeSlug: "module",
   type: "module",
   slug: "prose-segments",
   definition: "prose cut into runs at the markers saying where a system card belongs",

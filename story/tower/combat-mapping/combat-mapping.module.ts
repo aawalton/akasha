@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatMapping = {
   id: "01a05bc6-fa4a-700b-af5e-5b1aaed5213a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-mapping",
   definition: "a stored combatant as the combat engine takes it",

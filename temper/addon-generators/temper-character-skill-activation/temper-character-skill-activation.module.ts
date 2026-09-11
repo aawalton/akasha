@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperCharacterSkillActivation = {
   id: "01a0607b-1542-7985-a3d5-0fbcda1a9622",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-character-skill-activation",
   definition: "the character skill activation data file, rendered from pages",

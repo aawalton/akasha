@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const questsPanel = {
   id: "01a0629b-683f-7f93-892f-b7a600d46d07",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quests-panel",
   definition: "the quests still in play, each one a titled row",

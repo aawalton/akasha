@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData064 = {
   id: "01a061a3-3083-70ea-81d9-527f65aa52ff",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-064",
   definition: "part 064 of the gear set table, noxious-boulder through oblivions-foe",

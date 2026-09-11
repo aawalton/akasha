@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const metricTemplate = {
   id: "01a0612f-aae9-7080-8113-07ece2efe06d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "metric-template",
   definition: "the shape every character stat answers to, narrowed by the kind of value it has",

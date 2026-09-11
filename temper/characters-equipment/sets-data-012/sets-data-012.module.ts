@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData012 = {
   id: "01a0619f-59e8-7142-ba08-72302a34dffc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-012",
   definition: "part 012 of the gear set table, berserking-warrior through black-rose",

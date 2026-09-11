@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gmVoiceLints = {
   id: "01a05b71-e543-74c0-abd2-ac3a061a4181",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gm-voice-lints",
   definition: "the marks in a turn's prose saying the game master stepped out of its voice",

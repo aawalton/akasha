@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const attributesSource = {
   id: "01a060ea-ac5d-72ee-938f-bff339b0ed37",
-  pageTypeSlug: "module",
   type: "module",
   slug: "attributes-source",
   definition: "the health, magicka or stamina one attribute point buys",

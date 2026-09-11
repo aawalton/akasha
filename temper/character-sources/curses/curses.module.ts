@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const curses = {
   id: "01a060ea-ac61-790f-9c2c-5f742647198c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "curses",
   definition: "the curse a character has, vampire or werewolf or neither",

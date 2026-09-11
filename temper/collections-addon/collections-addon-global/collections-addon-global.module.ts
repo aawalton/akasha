@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const collectionsAddonGlobal = {
   id: "01a0624c-a660-708c-9324-7aa221750530",
-  pageTypeSlug: "module",
   type: "module",
   slug: "collections-addon-global",
   definition: "the global another add-on reaches this one by",

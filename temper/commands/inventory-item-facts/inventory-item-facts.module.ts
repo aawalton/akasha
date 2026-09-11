@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryItemFacts = {
   id: "01a068e2-226e-7e6c-9675-79e0e369017b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-item-facts",
   definition: "the facts a rule walk reads off one item held in a place",

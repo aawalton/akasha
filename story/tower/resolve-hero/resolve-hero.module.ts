@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const resolveHero = {
   id: "01a05bc6-fa4a-700f-a4ff-93e249cec531",
-  pageTypeSlug: "module",
   type: "module",
   slug: "resolve-hero",
   definition: "the illustration a chapter opens with",

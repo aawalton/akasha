@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData019 = {
   id: "01a0619f-59ec-72b1-99b8-f0339805e2ec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-019",
   definition: "part 019 of the gear set table, coup-de-gr-ce through crimson-oaths-rive",

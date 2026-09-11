@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const importRedirect = {
   id: "01a09097-3491-7938-9cab-3a376e69de9f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "import-redirect",
   definition: "where a browser is sent after a shared build hash was imported for that browser",

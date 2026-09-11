@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorWaitResumeAnswer = {
   id: "01a06876-abda-701e-93fe-754909cd4d06",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-wait-resume-answer",
   definition: "the verdict on whether a waiting seat resumes",

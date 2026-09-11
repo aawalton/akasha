@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersTaskProgressResolverSkills = {
   id: "01a062ee-f099-706f-8191-446ff9807a6f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-task-progress-resolver-skills",
   definition:

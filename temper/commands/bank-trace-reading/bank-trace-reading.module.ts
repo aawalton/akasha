@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const bankTraceReading = {
   id: "01a06864-aa2b-7002-9f57-fb06fdfa105a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "bank-trace-reading",
   definition: "the timing trace the inventory addon records over a visit to a banker",

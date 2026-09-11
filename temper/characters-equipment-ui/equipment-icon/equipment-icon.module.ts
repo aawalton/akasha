@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const equipmentIcon = {
   id: "01a06333-1bba-7ed5-888a-b5a3ca70eacf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "equipment-icon",
   definition: "the picture that represents one piece of equipment",

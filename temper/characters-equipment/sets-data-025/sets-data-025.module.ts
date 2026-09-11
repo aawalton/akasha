@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData025 = {
   id: "01a061a3-012f-7939-b5ac-5bc5efbd21d4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-025",
   definition: "part 025 of the gear set table, diamonds-victory through dragonguard-elite",

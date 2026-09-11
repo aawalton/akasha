@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const renderChapter = {
   id: "01a05bc6-fa4a-700e-b0d2-d86d252a6ff5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "render-chapter",
   definition: "a chapter's beats written out as one text with its word count",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dataminingQuestMiner = {
   id: "01a06341-d9e8-7005-ac02-69345fb477d3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "datamining-quest-miner",
   definition: "what the game says about every quest, taken one quest id at a time",

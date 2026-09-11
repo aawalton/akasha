@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData040 = {
   id: "01a061a3-0133-7753-9ca9-3703c72d04a8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-040",
   definition: "part 040 of the gear set table, hawks-eye through heartland-conqueror",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData105 = {
   id: "01a061a3-982a-7f65-a30e-e01fc393c814",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-105",
   definition: "part 105 of the gear set table, tide-born-wildstalker through toothrow",

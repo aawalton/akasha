@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData037 = {
   id: "01a061a3-0132-73ba-aae8-ddc168efdb67",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-037",
   definition: "part 037 of the gear set table, grave-guardian through green-pact",

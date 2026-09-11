@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterSkillTemplate = {
   id: "01a0617a-2c70-7581-9900-cbdb1ccbe478",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-skill-template",
   definition: "the shape every Elder Scrolls Online skill row carries",

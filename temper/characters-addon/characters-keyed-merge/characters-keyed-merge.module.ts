@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersKeyedMerge = {
   id: "01a062ea-5f64-7fa1-aa0a-0b08766288df",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-keyed-merge",
   definition: "a stored map of numbered entries folded with a freshly read one, entry by entry",

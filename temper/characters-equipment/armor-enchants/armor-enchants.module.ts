@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const armorEnchants = {
   id: "01a0616f-8e17-7a0c-8406-2388ce2938e6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "armor-enchants",
   definition: "every glyph an armor piece takes, and what each is worth at a quality",

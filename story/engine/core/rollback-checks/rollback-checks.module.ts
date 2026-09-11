@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const rollbackChecks = {
   id: "01a05b71-e544-73b6-ac85-91cb6d84209e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rollback-checks",
   definition: "the tests a rollback request has to pass, and how far back one could reach",

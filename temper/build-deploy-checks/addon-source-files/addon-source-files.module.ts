@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonSourceFiles = {
   id: "01a062a8-e76a-7fda-a7db-9dcb0cf64d2f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-source-files",
   definition: "which files under a game add-on's own folder are that add-on's source and markup",

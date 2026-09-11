@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildStateAdapter = {
   id: "01a06271-abcf-7611-b89c-a1d283dbe141",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-state-adapter",
   definition: "a build state turned into every effect source its stats are calculated from",

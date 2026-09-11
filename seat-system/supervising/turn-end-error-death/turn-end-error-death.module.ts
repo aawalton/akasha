@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const turnEndErrorDeath = {
   id: "01a069bf-f8d9-7001-82c3-8f6d8aac0f8b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "turn-end-error-death",
   definition:

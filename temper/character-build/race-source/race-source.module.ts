@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const raceSource = {
   id: "01a061a7-9bb3-769a-973c-5b550c916d32",
-  pageTypeSlug: "module",
   type: "module",
   slug: "race-source",
   definition: "every playable race a character build offers, with the empty choice first",

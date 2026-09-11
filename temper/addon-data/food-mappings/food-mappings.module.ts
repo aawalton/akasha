@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const foodMappings = {
   id: "01a06340-4914-7ea9-9806-2153d168e3ba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "food-mappings",
   definition: "the food and drink index and id tables the capture addon reads",

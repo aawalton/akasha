@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperCompanionTrait = {
   id: "01a0607b-1544-75ff-9583-c242bdaed52d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-companion-trait",
   definition: "the companion traits data file, rendered from pages",

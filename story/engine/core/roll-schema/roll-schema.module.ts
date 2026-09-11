@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const rollSchema = {
   id: "01a05b71-e544-7a26-aad9-f2f5d9f86734",
-  pageTypeSlug: "module",
   type: "module",
   slug: "roll-schema",
   definition: "the dice a game rolls, what they came up, and the record kept of the throw",

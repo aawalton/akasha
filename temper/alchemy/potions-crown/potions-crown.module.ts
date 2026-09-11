@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionsCrown = {
   id: "01a06076-1b6b-7f40-8545-af346f6450f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potions-crown",
   definition: "the potions the crown store sells",

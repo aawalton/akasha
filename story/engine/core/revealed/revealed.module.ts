@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const revealed = {
   id: "01a05b71-e544-7b78-bd2c-73da9bb84dcc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "revealed",
   definition: "the part of an entity's sheet a player may see",

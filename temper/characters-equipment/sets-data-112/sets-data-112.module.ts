@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData112 = {
   id: "01a061a3-982c-7dbd-b907-8e61251e9b1e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-112",
   definition: "part 112 of the gear set table, valkyn-skoria through vandorallens-resonance",

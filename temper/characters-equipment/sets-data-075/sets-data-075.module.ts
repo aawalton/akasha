@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData075 = {
   id: "01a061a3-6215-7372-b428-213413f4b97d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-075",
   definition: "part 075 of the gear set table, perfected-void-bash through perfected-yandirs-might",

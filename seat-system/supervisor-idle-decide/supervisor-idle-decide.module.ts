@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorIdleDecide = {
   id: "01a06838-5a84-7000-a52b-bc6acad18e78",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-idle-decide",
   definition: "whether the agent in a seat is doing nothing at this moment",

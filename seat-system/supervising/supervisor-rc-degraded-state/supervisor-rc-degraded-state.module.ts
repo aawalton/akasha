@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorRcDegradedState = {
   id: "01a0686d-9d5e-7001-9ae5-1b049c3d76dc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-rc-degraded-state",
   definition:

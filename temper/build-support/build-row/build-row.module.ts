@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildRow = {
   id: "01a08e40-dcf5-7caf-be8f-9ac9935fa409",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-row",
   definition: "the stored row a saved build is, read into the shape a caller holds it in",

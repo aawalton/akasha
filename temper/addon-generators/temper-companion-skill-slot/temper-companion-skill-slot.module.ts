@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperCompanionSkillSlot = {
   id: "01a0607b-1544-7eae-b22f-cf07bb649bfe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-companion-skill-slot",
   definition: "the companion skill slots data file, rendered from pages",

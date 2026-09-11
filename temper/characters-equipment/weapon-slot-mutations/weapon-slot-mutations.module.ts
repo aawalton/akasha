@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const weaponSlotMutations = {
   id: "01a0616f-8e19-7645-a34c-34df4501e35d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "weapon-slot-mutations",
   definition: "a weapon slot filled emptied or changed",

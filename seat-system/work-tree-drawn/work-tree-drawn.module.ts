@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const workTreeDrawn = {
   id: "01a06966-501e-74ec-85ca-90de74b884d1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "work-tree-drawn",
   definition:

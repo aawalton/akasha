@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersTaskAutoComplete = {
   id: "01a06306-f94f-700b-8c39-f425d7ea4a81",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-task-auto-complete",
   definition: "a task marked complete from the progress already read into the saved table",

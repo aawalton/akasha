@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const siblingAddons = {
   id: "01a06060-ec40-72c6-b3e3-bb2631d6b18c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sibling-addons",
   definition: "the extra addon folders one addon ships alongside its own",

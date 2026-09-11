@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const alliances = {
   id: "01a060ea-ac5c-7ddc-8beb-424cc85a9621",
-  pageTypeSlug: "module",
   type: "module",
   slug: "alliances",
   definition: "the three alliances a character fights for, and no alliance at all",

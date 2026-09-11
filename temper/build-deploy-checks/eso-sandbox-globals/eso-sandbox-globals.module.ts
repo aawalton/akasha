@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const esoSandboxGlobals = {
   id: "01a06365-e827-7005-8d42-8950da32503e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eso-sandbox-globals",
   definition: "the substitute game globals a bundle finds when a sandbox loads the bundle",

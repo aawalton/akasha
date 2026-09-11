@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperRace = {
   id: "01a0607b-e91e-7d50-88d0-850a0416474d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-race",
   definition: "the races data file, rendered from pages",

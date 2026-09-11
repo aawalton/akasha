@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const argumentWordReading = {
   id: "01a07c95-1051-774e-bcef-6c84d8c106fb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "argument-word-reading",
   definition: "the values said after a flag and the words a call says as names",

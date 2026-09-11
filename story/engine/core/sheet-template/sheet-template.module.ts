@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sheetTemplate = {
   id: "01a05b71-e544-7bb0-8955-8353130f32de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sheet-template",
   definition:

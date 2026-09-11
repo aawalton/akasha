@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const systemChoiceCard = {
   id: "01a06327-e486-70a7-b942-6faf5a8598c1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "system-choice-card",
   definition: "a system choice as a card of selectable options under a confirm button",

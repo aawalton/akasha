@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonDataPageRows = {
   id: "01a06369-1e85-7152-9783-da4cf82f3bb7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-data-page-rows",
   definition: "every row of one page type, shaped as the generators read a page",

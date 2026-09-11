@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonManifestFile = {
   id: "01a060e2-4d62-7a26-8c08-d2b7be0f14ff",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-manifest-file",
   definition: "where in an addon's own folder the file the addon states itself in is found",

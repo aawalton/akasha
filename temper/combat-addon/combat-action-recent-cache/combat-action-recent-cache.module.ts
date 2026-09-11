@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatActionRecentCache = {
   id: "01a0617f-5834-7e2e-9de6-68cd342d5299",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-action-recent-cache",
   definition: "a small ring of recent entries that forgets the oldest",

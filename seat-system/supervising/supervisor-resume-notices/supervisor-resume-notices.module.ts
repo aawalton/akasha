@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorResumeNotices = {
   id: "01a06876-abda-700c-8461-69cbc0108d87",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-resume-notices",
   definition: "the notices a resumed seat is handed, read off its prefix lines",

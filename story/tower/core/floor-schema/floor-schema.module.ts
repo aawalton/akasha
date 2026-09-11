@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const floorSchema = {
   id: "01a05bc6-fa4a-7002-abb7-afbb286ff064",
-  pageTypeSlug: "module",
   type: "module",
   slug: "floor-schema",
   definition: "the shape a tower floor, its rooms and its encounters are stored in",

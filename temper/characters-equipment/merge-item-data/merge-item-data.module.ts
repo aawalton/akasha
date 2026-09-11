@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mergeItemData = {
   id: "01a0616f-8e13-7215-bb65-a46058a18854",
-  pageTypeSlug: "module",
   type: "module",
   slug: "merge-item-data",
   definition: "one piece of gear laid over another",

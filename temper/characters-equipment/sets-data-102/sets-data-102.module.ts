@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData102 = {
   id: "01a061a3-9829-7fdb-a123-0a23f5013d14",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-102",
   definition: "part 102 of the gear set table, test-of-resolve through the-ice-furnace",

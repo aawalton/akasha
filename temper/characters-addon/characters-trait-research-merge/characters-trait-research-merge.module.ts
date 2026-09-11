@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersTraitResearchMerge = {
   id: "01a062ea-5fc8-7fa6-8bc9-a25e8627b5b7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-trait-research-merge",
   definition:

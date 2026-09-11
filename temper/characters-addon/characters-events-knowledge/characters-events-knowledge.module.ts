@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersEventsKnowledge = {
   id: "01a0632d-cbf1-7021-bce5-f22d1d896a24",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-events-knowledge",
   definition: "what this add-on does when what the played character knows changes",

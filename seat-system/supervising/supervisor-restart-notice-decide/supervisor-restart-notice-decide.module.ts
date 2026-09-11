@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorRestartNoticeDecide = {
   id: "01a0686d-9d5e-7007-a87f-ae0387e800f7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-restart-notice-decide",
   definition:

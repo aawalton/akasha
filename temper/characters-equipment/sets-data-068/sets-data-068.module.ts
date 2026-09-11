@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData068 = {
   id: "01a061a3-3084-7041-afe6-abf5bd6d67b1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-068",
   definition:

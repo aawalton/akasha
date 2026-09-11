@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const jennyRingCredential = {
   id: "01a06558-c2cc-700e-a3eb-ad9e4f295d16",
-  pageTypeSlug: "module",
   type: "module",
   slug: "jenny-ring-credential",
   definition:

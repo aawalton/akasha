@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData097 = {
   id: "01a061a3-9827-76ba-9fcc-3059d13843d3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-097",
   definition: "part 097 of the gear set table, stonekeeper through stormfist",

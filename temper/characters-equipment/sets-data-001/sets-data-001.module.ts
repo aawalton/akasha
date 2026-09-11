@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData001 = {
   id: "01a0619d-2cab-7b93-87c5-42809f64fbbf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-001",
   definition: "part 001 of the gear set table, aegis-of-galenwe through aetherial-ascension",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonFixtureManifest = {
   id: "01a07c93-f240-7b33-9d06-f8459b129064",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-fixture-manifest",
   definition: "the addon manifest a test writes into a scratch world",

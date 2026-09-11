@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const clientSession = {
   id: "01a0628e-a5da-732b-938e-933b89640adc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "client-session",
   definition:

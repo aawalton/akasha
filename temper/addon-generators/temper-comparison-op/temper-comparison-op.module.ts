@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperComparisonOp = {
   id: "01a0607b-1546-79f6-8895-872da7a3e3ec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-comparison-op",
   definition: "the comparison ops data file, rendered from pages",

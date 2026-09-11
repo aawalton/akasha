@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const savedVariablesAccessor = {
   id: "01a06071-0c79-73ce-a434-c3b18ac668a1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "saved-variables-accessor",
   definition: "the one way code inside the catalog add-on reaches the saved catalog table",

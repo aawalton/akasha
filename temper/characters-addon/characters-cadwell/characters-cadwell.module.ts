@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersCadwell = {
   id: "01a062e9-b6fe-7014-9ccf-b4b5ae3076cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-cadwell",
   definition:

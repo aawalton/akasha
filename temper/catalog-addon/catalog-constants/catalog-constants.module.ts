@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const catalogConstants = {
   id: "01a063ba-94e5-7067-b212-ee1558bee77b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "catalog-constants",
   definition: "the add-on's name and the delays its collection run is paced by",

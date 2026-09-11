@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData003 = {
   id: "01a0619f-59e1-7a67-bb49-f21e1f7ceae0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-003",
   definition: "part 003 of the gear set table, alessias-bulwark through ancient-dragonguard",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorIterationOutcomeDb = {
   id: "01a06838-5a84-7001-a522-1f0b3c183f21",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-iteration-outcome-db",
   definition: "a call the supervisor gives up waiting on rather than waits out",

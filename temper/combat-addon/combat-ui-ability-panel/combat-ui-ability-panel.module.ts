@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatUiAbilityPanel = {
   id: "01a0617f-5852-79bc-af29-e3822c6a92f5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-ui-ability-panel",
   definition: "the list of abilities used in a fight, one row each",

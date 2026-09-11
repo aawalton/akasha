@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData092 = {
   id: "01a061a3-621a-704d-b477-9b3c0f707d17",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-092",
   definition: "part 092 of the gear set table, slimecraw through snake-in-the-stars",

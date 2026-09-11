@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersScribingSourceTable = {
   id: "01a062fa-70b2-700f-ab32-b8604595cfbe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-scribing-source-table",
   definition:

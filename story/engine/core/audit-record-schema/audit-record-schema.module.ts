@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const auditRecordSchema = {
   id: "01a05b71-e543-7988-b1b1-86b89ad98708",
-  pageTypeSlug: "module",
   type: "module",
   slug: "audit-record-schema",
   definition:

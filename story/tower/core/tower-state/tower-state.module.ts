@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const towerState = {
   id: "01a05bc6-fa4a-7004-9c22-02086b08836f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "tower-state",
   definition: "the shape a tower game's saved state, its log and its chapters are stored in",

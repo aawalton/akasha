@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterCaptureRaceMap = {
   id: "01a0616b-4cc4-79a8-bbd5-ed51f0322bc0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-capture-race-map",
   definition: "each race's game id against its place in a build hash",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData113 = {
   id: "01a061a3-982c-7378-8480-c780e5070af8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-113",
   definition: "part 113 of the gear set table, vanguards-challenge through vengeance-leech",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const quoting = {
   id: "01a05d9b-277a-7001-b13d-40f361ff8e5d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quoting",
   definition: "a value written into a shell command as one literal word",

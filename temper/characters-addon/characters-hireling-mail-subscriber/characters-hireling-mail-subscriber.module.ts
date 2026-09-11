@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersHirelingMailSubscriber = {
   id: "01a062ed-3979-7008-b38a-d2d8bc3af92b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-hireling-mail-subscriber",
   definition: "the answer always given to a hireling mail being looted",

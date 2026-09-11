@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const doctrine = {
   id: "01a05b71-e543-7081-b1c4-64539524e7f9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "doctrine",
   definition:

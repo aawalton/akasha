@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData085 = {
   id: "01a061a3-6217-7ae6-8862-eeaca8911b76",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-085",
   definition: "part 085 of the gear set table, saxhleel-champion through sea-serpents-coil",

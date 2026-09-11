@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData030 = {
   id: "01a061a3-0130-75c2-bb76-cc26990a8915",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-030",
   definition: "part 030 of the gear set table, enervating-aura through eternal-vigor",

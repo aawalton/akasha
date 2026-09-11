@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const potionSource = {
   id: "01a06076-1b6c-74d2-820b-7207017f2a40",
-  pageTypeSlug: "module",
   type: "module",
   slug: "potion-source",
   definition: "every potion a character drinks, gathered into one table",

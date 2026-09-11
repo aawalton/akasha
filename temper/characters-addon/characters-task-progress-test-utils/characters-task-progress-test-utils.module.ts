@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersTaskProgressTestUtils = {
   id: "01a08ed6-a208-7d96-96d8-75bf328401f1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-task-progress-test-utils",
   definition: "the saved character entry a progress resolver's test is written against",

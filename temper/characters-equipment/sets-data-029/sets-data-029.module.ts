@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData029 = {
   id: "01a061a3-0130-771e-bfb7-60e288eb600b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-029",
   definition: "part 029 of the gear set table, ebon-armory through endurance",

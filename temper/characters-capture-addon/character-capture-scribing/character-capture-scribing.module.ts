@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterCaptureScribing = {
   id: "01a0616b-dbb6-7b7c-ad32-37eaac9da5c5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-capture-scribing",
   definition: "the scribed abilities the character has, read into codec indices",

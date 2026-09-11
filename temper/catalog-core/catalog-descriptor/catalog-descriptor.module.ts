@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const catalogDescriptor = {
   id: "01a06071-0c77-71fa-866d-8ddbd099aa5c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "catalog-descriptor",
   definition:

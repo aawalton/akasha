@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const metricsData15 = {
   id: "01a06131-abb7-7d2a-add2-d2b2070af2f2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "metrics-data-15",
   definition: "character stats sundered-damage through training",

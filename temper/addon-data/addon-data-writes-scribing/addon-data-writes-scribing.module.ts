@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonDataWritesScribing = {
   id: "01a06837-d6c9-715c-b373-e4fc2572aa1c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-data-writes-scribing",
   definition: "the scribing section of a run's output, as the writes the section represents",

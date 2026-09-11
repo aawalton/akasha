@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorLifecycleDeathWrite = {
   id: "01a06838-5a84-7002-b23a-fa3c1a68a559",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-lifecycle-death-write",
   definition: "whether a supervisor on its way down writes that its seat stopped",

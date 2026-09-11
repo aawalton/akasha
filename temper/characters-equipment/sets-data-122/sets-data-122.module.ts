@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData122 = {
   id: "01a061a4-18af-79b2-96c9-47cdea46c632",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-122",
   definition: "part 122 of the gear set table, xanmeer-spellweaver through zaan",

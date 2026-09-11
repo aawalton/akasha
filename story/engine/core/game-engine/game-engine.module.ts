@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gameEngine = {
   id: "01a05b71-e543-7017-875a-4f041149fd46",
-  pageTypeSlug: "module",
   type: "module",
   slug: "game-engine",
   definition: "which engine a game runs on and which of the app's screens draws it",

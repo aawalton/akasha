@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const formatEffects = {
   id: "01a06133-c62f-78d5-b526-f913ee032493",
-  pageTypeSlug: "module",
   type: "module",
   slug: "format-effects",
   definition: "one readable line for each effect a character build has",

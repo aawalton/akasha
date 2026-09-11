@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorRemoteControlDecide = {
   id: "01a0686d-9d5e-7006-ba17-a047d0b1fdbc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-remote-control-decide",
   definition: "whether a seat spawns under remote control",

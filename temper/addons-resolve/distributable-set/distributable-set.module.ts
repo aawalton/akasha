@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const distributableSet = {
   id: "01a06060-ec3f-72a0-9eb4-c159dfd1784e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "distributable-set",
   definition: "which addons a release carries and which addons a release leaves to the player",

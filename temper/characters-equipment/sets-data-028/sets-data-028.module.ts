@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData028 = {
   id: "01a061a3-0130-7900-a376-f736c41ba316",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-028",
   definition: "part 028 of the gear set table, druids-braid through earthgore",

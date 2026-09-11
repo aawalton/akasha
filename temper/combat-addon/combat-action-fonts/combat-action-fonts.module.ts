@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatActionFonts = {
   id: "01a0617f-5831-72ff-bc69-ccfe46ca94c7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-action-fonts",
   definition: "the fonts the action widgets write their labels in",

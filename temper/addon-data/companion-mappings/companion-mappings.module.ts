@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionMappings = {
   id: "01a06340-4914-773c-94be-898d3f61e64f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-mappings",
   definition: "the companion index table the companions addon reads",

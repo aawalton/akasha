@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const catalogSideFile = {
   id: "01a060ce-b8cb-776b-b2b7-0589a741c9c4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "catalog-side-file",
   definition: "the request the catalog addon reads, taken out of Lua and written back as Lua",

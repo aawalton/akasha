@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const collectionsAddonLoaded = {
   id: "01a0624c-a660-7bb7-a785-531905b18e57",
-  pageTypeSlug: "module",
   type: "module",
   slug: "collections-addon-loaded",
   definition: "what starts each tracker once the game says this add-on has loaded",

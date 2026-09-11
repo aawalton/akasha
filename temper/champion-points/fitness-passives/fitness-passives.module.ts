@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const fitnessPassives = {
   id: "01a06076-1b66-7c61-8d20-7756dd77e763",
-  pageTypeSlug: "module",
   type: "module",
   slug: "fitness-passives",
   definition: "the always-on stars of the Fitness tree",

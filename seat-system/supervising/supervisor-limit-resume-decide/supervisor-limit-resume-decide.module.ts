@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorLimitResumeDecide = {
   id: "01a0686d-9d5e-7003-85f7-c26e7d26b125",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-limit-resume-decide",
   definition: "whether a seat whose turn died on a usage limit is nudged back into its work now",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData115 = {
   id: "01a061a3-982d-7d79-9821-de16c2494075",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-115",
   definition: "part 115 of the gear set table, vicious-death through voidcaller",

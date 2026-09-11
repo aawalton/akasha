@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData117 = {
   id: "01a061a3-982d-7c52-8244-4f020918009f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-117",
   definition: "part 117 of the gear set table, warrior-poet through way-of-martial-knowledge",

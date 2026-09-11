@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildCodecV52Skills = {
   id: "01a062e7-4dd3-79ae-be15-6dd7b2efcddd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-codec-v52-skills",
   definition: "the bit layout update fifty-two writes a character's skills in",

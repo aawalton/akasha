@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const retrofitSystemCards = {
   id: "01a05bc6-fa4a-7010-bbf2-e17c6943aef4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "retrofit-system-cards",
   definition: "the system cards in a chapter cut back to the progression each one announces",

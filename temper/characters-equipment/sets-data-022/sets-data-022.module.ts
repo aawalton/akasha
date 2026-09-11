@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData022 = {
   id: "01a061a3-012d-76d1-8121-4da9194f73cf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-022",
   definition: "part 022 of the gear set table, dauntless-combatant through deadlands-demolisher",

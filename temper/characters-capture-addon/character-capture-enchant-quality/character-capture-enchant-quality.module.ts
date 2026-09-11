@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterCaptureEnchantQuality = {
   id: "01a0616b-9b51-721f-941f-564f2f6934aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-capture-enchant-quality",
   definition: "the quality of the glyph an item link names",

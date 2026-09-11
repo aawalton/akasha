@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mappingGeneratorWrites = {
   id: "01a06837-d6c9-766c-840f-c3c60f7c9637",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mapping-generator-writes",
   definition: "the write each mapping render lands as, taken from the one table naming the renders",

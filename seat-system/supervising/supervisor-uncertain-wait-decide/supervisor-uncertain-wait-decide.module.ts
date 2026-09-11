@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorUncertainWaitDecide = {
   id: "01a0686d-9d5e-7005-9d03-50cd047c0404",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-uncertain-wait-decide",
   definition:

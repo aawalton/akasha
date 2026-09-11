@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData027 = {
   id: "01a061a3-012f-7f43-ab2e-a512a0d4f3ab",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-027",
   definition: "part 027 of the gear set table, draugrkins-grip through drozakars-claws",

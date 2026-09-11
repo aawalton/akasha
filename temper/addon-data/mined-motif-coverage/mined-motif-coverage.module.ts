@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const minedMotifCoverage = {
   id: "01a0674d-061c-7d8f-93d3-3e8ae2396834",
-  pageTypeSlug: "module",
   type: "module",
   slug: "mined-motif-coverage",
   definition: "whether the motifs the sweep read and the motifs the lore library names agree",

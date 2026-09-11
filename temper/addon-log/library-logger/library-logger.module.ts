@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libraryLogger = {
   id: "01a090e5-9062-788e-8317-a0e2f1dee9b7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "library-logger",
   definition: "the log a library writes to under the identifier that library goes by",

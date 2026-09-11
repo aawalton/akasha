@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const bundleFileScan = {
   id: "01a090a1-d412-774a-bbde-41fd710f05a3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "bundle-file-scan",
   definition: "an emitted bundle's text at a path, handed to a scanner along with that path",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData024 = {
   id: "01a061a3-012e-7b7d-8d7a-52fbfa3eacc8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-024",
   definition: "part 024 of the gear set table, defending-warrior through destructive-mage",

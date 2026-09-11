@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const luaBuildCommand = {
   id: "01a06038-2cc1-7c3a-8b5e-0c9e254e7632",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lua-build-command",
   definition: "the command line that runs the TypeScript to Lua transpiler over one project",

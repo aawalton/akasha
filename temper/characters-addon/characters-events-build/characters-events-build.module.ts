@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersEventsBuild = {
   id: "01a0632d-cba3-7016-85c9-1835035387d2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-events-build",
   definition: "what this add-on does when the played character's build changes",

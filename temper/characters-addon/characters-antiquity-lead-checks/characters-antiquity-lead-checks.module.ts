@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersAntiquityLeadChecks = {
   id: "01a062ed-39a0-700a-b328-1ae517d89942",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-antiquity-lead-checks",
   definition:

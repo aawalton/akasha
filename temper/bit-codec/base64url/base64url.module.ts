@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const base64url = {
   id: "01a060b3-77c9-7461-8481-e41383ba9583",
-  pageTypeSlug: "module",
   type: "module",
   slug: "base64url",
   definition: "the sixty-four characters a byte array is carried by, safe inside a URL",

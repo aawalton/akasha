@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatAddonState = {
   id: "01a0617f-5839-7d31-a637-4ab0dc45a230",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-addon-state",
   definition: "the player name, whether a fight is on, and whether starting has finished",

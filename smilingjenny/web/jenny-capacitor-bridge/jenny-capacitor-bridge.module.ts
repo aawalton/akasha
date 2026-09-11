@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const jennyCapacitorBridge = {
   id: "01a06558-c2cc-700b-8c63-64111f2259ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "jenny-capacitor-bridge",
   definition: "the push-notification plugin the native shell puts on the window",

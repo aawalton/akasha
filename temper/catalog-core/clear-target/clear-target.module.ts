@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const clearTarget = {
   id: "01a06071-0c78-7d17-86de-fe565133b1ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "clear-target",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const tallyBoundary = {
   id: "01a05b71-e544-7465-a8e6-f573101bde13",
-  pageTypeSlug: "module",
   type: "module",
   slug: "tally-boundary",
   definition:

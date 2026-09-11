@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData011 = {
   id: "01a0619f-59e7-723e-82ae-4decdc9c6fc4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-011",
   definition: "part 011 of the gear set table, battalion-defender through belharzas-band",

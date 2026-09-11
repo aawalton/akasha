@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setSelectHelpers = {
   id: "01a061a4-18b1-76bb-93ce-10eaed820121",
-  pageTypeSlug: "module",
   type: "module",
   slug: "set-select-helpers",
   definition:

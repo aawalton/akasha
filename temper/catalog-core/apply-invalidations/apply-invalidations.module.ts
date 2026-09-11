@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const applyInvalidations = {
   id: "01a06071-0c76-73c9-ae39-c266d45d6492",
-  pageTypeSlug: "module",
   type: "module",
   slug: "apply-invalidations",
   definition:

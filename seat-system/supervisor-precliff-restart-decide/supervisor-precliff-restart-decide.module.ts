@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const supervisorPrecliffRestartDecide = {
   id: "01a06838-5a84-7003-a0ce-e7e92276f897",
-  pageTypeSlug: "module",
   type: "module",
   slug: "supervisor-precliff-restart-decide",
   definition: "whether to arm a restart before the session reaches its context cliff",

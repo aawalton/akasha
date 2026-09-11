@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterSchema = {
   id: "01a05bc6-fa4a-7001-881a-b1da2aa18088",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-schema",
   definition: "the shape a character sheet is stored in",

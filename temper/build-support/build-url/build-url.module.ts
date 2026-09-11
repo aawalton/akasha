@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildUrl = {
   id: "01a0609f-53f9-74de-9c4c-1475434e5482",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-url",
   definition: "the link one character build or companion build is reached at",

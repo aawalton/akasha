@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonLoadOrder = {
   id: "01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-load-order",
   definition: "the manifest the game reads to decide what an addon loads and in what order",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonDataTarget = {
   id: "01a062a9-3f10-7de2-9a05-71c8bb3e4f27",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-data-target",
   definition: "where a rendered table lands, as a module's parts or as a page's entries",

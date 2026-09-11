@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const systemWindowSchema = {
   id: "01a05b71-e544-78bb-9313-d10464beea25",
-  pageTypeSlug: "module",
   type: "module",
   slug: "system-window-schema",
   definition: "the typed cards the System voice puts on screen",

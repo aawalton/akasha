@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setMappings = {
   id: "01a06340-4915-7e3a-82b6-13e8e6577167",
-  pageTypeSlug: "module",
   type: "module",
   slug: "set-mappings",
   definition: "the set index and id tables the capture addon reads",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const checkAddonOrphanXmlHandler = {
   id: "01a062a8-e76a-75a7-946b-4bf70079cd3d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "check-addon-orphan-xml-handler",
   definition: "the run judging every inline markup handler an add-on on the roster holds",

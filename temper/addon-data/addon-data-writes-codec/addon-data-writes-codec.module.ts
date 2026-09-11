@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonDataWritesCodec = {
   id: "01a06837-d6c9-7fd4-9904-6563858424cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-data-writes-codec",
   definition: "the codec section of a run's output, as the writes the section represents",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageRowTotals = {
   id: "01a06837-d6c9-77dc-8a16-d5a80b2b38cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-row-totals",
   definition: "how many rows each page type fed a run, and the lines a run prints for them",

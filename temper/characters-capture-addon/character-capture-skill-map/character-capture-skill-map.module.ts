@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterCaptureSkillMap = {
   id: "01a0616b-8ea3-7699-aef6-4c54ee5ce7ec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-capture-skill-map",
   definition: "each skill's game id against its place in a build hash",

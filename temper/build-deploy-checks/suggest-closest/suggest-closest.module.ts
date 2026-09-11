@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const suggestClosest = {
   id: "01a06287-7841-7b53-968b-a40343c7aebe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "suggest-closest",
   definition: "the candidate nearest a mistyped word by edit distance",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersTributeCardUpgrades = {
   id: "01a062e9-b6ff-7019-8046-c6f2d1d56c6f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-tribute-card-upgrades",
   definition:

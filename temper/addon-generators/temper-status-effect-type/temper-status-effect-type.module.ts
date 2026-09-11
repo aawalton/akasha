@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperStatusEffectType = {
   id: "01a0607c-1794-7a9b-923c-7b9b5e1f91f5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-status-effect-type",
   definition: "the status effect types data file, rendered from pages",

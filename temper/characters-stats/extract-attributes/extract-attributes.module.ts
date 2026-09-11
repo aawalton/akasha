@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const extractAttributes = {
   id: "01a06271-abcf-733d-97d7-0720363ba8d2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "extract-attributes",
   definition: "the attribute points a build has spent, read out as effect sources",

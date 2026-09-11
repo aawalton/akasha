@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const renderEquipmentMappings = {
   id: "01a06340-4914-70b0-b3cb-73786590fdb1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "render-equipment-mappings",
   definition: "the player equipment index and id tables the capture addon reads",

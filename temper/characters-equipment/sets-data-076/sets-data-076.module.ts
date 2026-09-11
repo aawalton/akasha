@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData076 = {
   id: "01a061a3-6215-7c9c-aa76-219fa16444a9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-076",
   definition: "part 076 of the gear set table, permafrost through pillagers-profit",

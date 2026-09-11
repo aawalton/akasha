@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const rollPayload = {
   id: "01a05bc6-fa4a-7011-8651-2145681e82b1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "roll-payload",
   definition: "the shape one line of a tower game's roll log is written in",

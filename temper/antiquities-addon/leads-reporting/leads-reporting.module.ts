@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const leadsReporting = {
   id: "01a06274-b08a-73da-8f48-24bcfd5a231a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "leads-reporting",
   definition: "the lead last found, and the report of a new location for it",

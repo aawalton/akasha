@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const buildOutput = {
   id: "01a09190-5f20-7946-9db3-368a18b17537",
-  pageTypeSlug: "module",
   type: "module",
   slug: "build-output",
   definition: "the folder the addon build writes into",

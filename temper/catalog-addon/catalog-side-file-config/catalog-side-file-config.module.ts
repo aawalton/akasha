@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const catalogSideFileConfig = {
   id: "01a063ba-94e5-762e-b100-0f913bbdb479",
-  pageTypeSlug: "module",
   type: "module",
   slug: "catalog-side-file-config",
   definition: "what the add-on reads out of the global a side file leaves for it",

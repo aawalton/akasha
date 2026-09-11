@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterSkillActivationTypes = {
   id: "01a0617a-2c72-70de-be50-92db6d1d5ec0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-skill-activation-types",
   definition: "the shape a skill's tooltip template and its formula effects carry",

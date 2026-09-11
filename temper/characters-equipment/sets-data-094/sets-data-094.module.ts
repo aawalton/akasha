@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const setsData094 = {
   id: "01a061a3-621a-7f43-bdb5-3dee6c2303dd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sets-data-094",
   definition: "part 094 of the gear set table, spectres-eye through spelunker",

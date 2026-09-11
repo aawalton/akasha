@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const combatActionKeywordFilter = {
   id: "01a0617f-5832-7960-ba89-840d9da07f47",
-  pageTypeSlug: "module",
   type: "module",
   slug: "combat-action-keyword-filter",
   definition: "the ability keywords that decide whether an effect is worth tracking",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperEsoCompanionEquipmentConstant = {
   id: "01a0607b-e918-7eb7-9e88-d3ac4a969040",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-eso-companion-equipment-constant",
   definition: "the eso companion equipment constants data file, rendered from pages",

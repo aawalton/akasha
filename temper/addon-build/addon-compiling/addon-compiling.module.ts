@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonCompiling = {
   id: "01a090b7-a5e7-7ce6-a88c-6379f90dab43",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-compiling",
   definition: "an addon transpiled to Lua, with what it ships written back beside that Lua",

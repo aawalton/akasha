@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersConfig = {
   id: "01a062ed-3943-7005-848b-bc9123920f2f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-config",
   definition: "the character order, the tasks and the completion floors that are in force",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryEvalEnv = {
   id: "01a068e2-226d-7781-8c70-c328fa164cff",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-eval-env",
   definition: "what a rule walk off the game can answer about a character and what it cannot",

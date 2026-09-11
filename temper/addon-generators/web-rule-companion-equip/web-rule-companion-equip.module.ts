@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const webRuleCompanionEquip = {
   id: "01a0607c-1797-7b3c-bbcf-1bb47080d718",
-  pageTypeSlug: "module",
   type: "module",
   slug: "web-rule-companion-equip",
   definition: "the companion equip fragment of the web rules engine source",

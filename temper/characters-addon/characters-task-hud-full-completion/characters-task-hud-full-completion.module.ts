@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const charactersTaskHudFullCompletion = {
   id: "01a062ee-f016-7068-9131-b41bedd44674",
-  pageTypeSlug: "module",
   type: "module",
   slug: "characters-task-hud-full-completion",
   definition:

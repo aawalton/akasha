@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const windowDuration = {
   id: "01a069e8-c315-7c16-b624-a471a8e9cdec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "window-duration",
   definition: "a span of time a caller writes as a count and a unit",

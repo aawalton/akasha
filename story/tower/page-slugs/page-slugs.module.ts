@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pageSlugs = {
   id: "01a05bc6-fa4a-700c-928f-9eea89b4ecad",
-  pageTypeSlug: "module",
   type: "module",
   slug: "page-slugs",
   definition: "the slugs the tower's own pages sit under",

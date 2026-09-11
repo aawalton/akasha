@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const terminalBash = {
   id: "01a0680a-fa30-73ea-803a-5ff0bd947f73",
-  pageTypeSlug: "module",
   type: "module",
   slug: "terminal-bash",
   definition: "the whole of the bash a terminal sources, composed as one text",

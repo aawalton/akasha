@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const runBatched = {
   id: "01a060b5-5ba9-7ee1-a925-9a6bbfd758f4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "run-batched",
   definition: "a long list of work done a few items at a time so the game keeps its frame rate",

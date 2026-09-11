@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const esoQualityTextClasses = {
   id: "01a06333-1bcc-7c92-9074-8986a87d036f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eso-quality-text-classes",
   definition: "the text class an in-game item quality is shown in",

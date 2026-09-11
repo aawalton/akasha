@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const terminalAccountLaunchers = {
   id: "01a0680a-fa30-7d9b-a049-f3d2011c5f5f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "terminal-account-launchers",
   definition: "the shell opening a client on one claude account in the terminal it was typed in",

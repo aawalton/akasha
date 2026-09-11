@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const gateVerdictSchema = {
   id: "01a05b71-e543-77c1-a225-884ceec89257",
-  pageTypeSlug: "module",
   type: "module",
   slug: "gate-verdict-schema",
   definition: "the judgement passed on a turn at the gate, dimension by dimension",
