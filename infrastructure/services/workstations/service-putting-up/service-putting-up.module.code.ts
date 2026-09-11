@@ -2,10 +2,9 @@ import {
   homeAt,
   installing,
   ourInstalled,
-  ownedByService,
   planFor,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
-import { readFor } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
+import { everyService } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 
 const DATA = 2
 const OPERATIONAL = 3
@@ -17,8 +16,8 @@ export interface PutUp {
   readonly code: number
 }
 
-export function putUpService(root: string, slug: string, dryRun: boolean): PutUp {
-  const read = readFor(root, slug)
+export function putUpEvery(root: string, dryRun: boolean): PutUp {
+  const read = everyService(root)
   if ("refused" in read) return { report: [], refusals: [read.refused], code: DATA }
 
   const home = homeAt()
@@ -30,8 +29,8 @@ export function putUpService(root: string, slug: string, dryRun: boolean): PutUp
     }
   }
 
-  const plan = planFor(read.services, ownedByService(ourInstalled(home), slug))
-  const report: string[] = [`service-workstation\t${slug}`]
+  const plan = planFor(read.services, ourInstalled(home))
+  const report: string[] = [`service-workstation\t${read.services.length} service(s)`]
   for (const name of plan.write.keys()) report.push(`write\t${name}`)
   for (const name of plan.enable) report.push(`enable\t${name}`)
   for (const name of plan.stop) report.push(`stop\t${name}`)

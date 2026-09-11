@@ -27,6 +27,8 @@ const SERVICES_AT = "akasha/services/clusters/pages"
 
 const UNITS_AT = "akasha/services/workstations/pages"
 
+const TYPES_AT = "akasha/services/workstations"
+
 type World = {
   readonly root: string
   readonly sweep: () => undefined
@@ -60,6 +62,7 @@ function seededWorld(): World {
   filed(SERVICES_AT, "oneWebService", "one-web", "service-cluster")
   filed(SERVICES_AT, "bothWays", "both-ways", "service-cluster")
   filed(UNITS_AT, "oneUnit", "one-unit", "service-workstation")
+  filed(TYPES_AT, "serviceWorkstation", "service-workstation", "page-type")
   return {
     root,
     sweep: (): undefined => {
@@ -135,11 +138,18 @@ test("a slug a web app and a cluster service both carry is answered as the web a
   expect(read).toEqual({ kind: WEB_APP, pagePath: `${WEB_APPS_AT}/one-web.web-app.ts` })
 })
 
-test("a slug only a workstation service page carries is answered as a workstation service", () => {
+test("a slug only a workstation service page carries is sent to the kind instead", () => {
   const read = kindNamed(WORLD.root, "one-unit", ios)
+  expect(read).toHaveProperty("refused")
+  expect((read as { refused: string }).refused).toContain(WORKSTATION_SERVICE)
+})
+
+test("the workstation kind's own name is answered as every service of that kind", () => {
+  const read = kindNamed(WORLD.root, WORKSTATION_SERVICE, ios)
   expect(read).toEqual({
     kind: WORKSTATION_SERVICE,
-    pagePath: `${UNITS_AT}/one-unit.service-workstation.ts`,
+    pagePath: `${TYPES_AT}/service-workstation.page-type.ts`,
+    every: true,
   })
 })
 

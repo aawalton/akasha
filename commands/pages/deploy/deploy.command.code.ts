@@ -40,7 +40,7 @@ import {
   appliedWorkload,
   servableNamed,
 } from "akasha/infrastructure/services/clusters/workload-applying/workload-applying.module.code.ts"
-import { putUpService } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
+import { putUpEvery } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
@@ -111,7 +111,7 @@ export async function putUp(
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit)
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun)
-  if (read.kind === WORKSTATION_SERVICE) return putUpService(given.root, slug, dryRun)
+  if (read.kind === WORKSTATION_SERVICE) return putUpEvery(given.root, dryRun)
   if (read.kind === INFERENCE_SERVICE) return await putUpInferenceService(given.root, slug, dryRun)
   if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)
   if (read.kind === CLUSTER_SERVICE) {

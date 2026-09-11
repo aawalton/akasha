@@ -1,23 +1,24 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { putUpService } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
+import { putUpEvery } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
-test("a slug no workstation service page carries is refused as the data's fault", () => {
-  const put = putUpService(ROOT, "no-such-service-here", true)
+test("a dry run reaches every workstation service rather than one", () => {
+  const put = putUpEvery(ROOT, true)
 
-  expect(put.code).toBe(2)
+  expect(put.code).toBe(0)
+  expect(put.report[0]).toContain("service(s)")
 })
 
-test("a slug no workstation service page carries is refused by naming that slug", () => {
-  const put = putUpService(ROOT, "no-such-service-here", true)
+test("a dry run writes nothing and says so", () => {
+  const put = putUpEvery(ROOT, true)
 
-  expect(put.refusals[0]).toContain("no-such-service-here")
+  expect(put.report.at(-1)).toContain("nothing was written")
 })
 
-test("a refusal reaching no systemd reports nothing about a unit", () => {
-  const put = putUpService(ROOT, "no-such-service-here", true)
+test("a dry run plans a unit for more than one service", () => {
+  const put = putUpEvery(ROOT, true)
 
-  expect(put.report).toEqual([])
+  expect(put.report.filter((one) => one.startsWith("write\t")).length).toBeGreaterThan(1)
 })

@@ -1,6 +1,8 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { pathsNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
-import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+
+export const PAGE_TYPE = "page-type"
 
 export const WEB_APP = "web-app"
 
@@ -28,6 +30,7 @@ export type Kind =
 export type Named = {
   readonly kind: Kind
   readonly pagePath: string
+  readonly every?: true
 }
 
 export type Read = Named | { readonly refused: string }
@@ -41,7 +44,21 @@ function having(label: string, slugs: readonly string[]): string {
   return `${slugs.length} ${label}s have one: ${slugs.join(", ")}`
 }
 
+export function wholeKind(root: string, slug: string): Named | null {
+  if (slug !== WORKSTATION_SERVICE) return null
+  const found = listedAt(root, PAGE_TYPE, slug)[0]
+  return found === undefined
+    ? null
+    : { kind: WORKSTATION_SERVICE, pagePath: found.path, every: true }
+}
+
+export function saidOfWholeKind(slug: string): string {
+  return `\`${slug}\` names a workstation service, and the kind is put up whole rather than one service at a time, so name \`${WORKSTATION_SERVICE}\` instead`
+}
+
 export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileApps): Read {
+  const whole = wholeKind(root, slug)
+  if (whole !== null) return whole
   let ios: Apps
   try {
     ios = iosApps()
@@ -88,5 +105,6 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
       refused: `${left.length} pages are named \`${slug}\`, so what is meant is unsettled: ${left.map((one) => `${one.kind} ${one.pagePath}`).join(", ")}`,
     }
   }
+  if (only.kind === WORKSTATION_SERVICE) return { refused: saidOfWholeKind(slug) }
   return only
 }

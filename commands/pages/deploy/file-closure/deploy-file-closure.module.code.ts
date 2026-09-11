@@ -15,6 +15,7 @@ import {
   manifestsAmong,
   reachingOf,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -67,12 +68,23 @@ export function iosSeeds(root: string): readonly string[] {
   return "why" in shared ? [] : shared.files
 }
 
+export function everySeed(
+  root: string,
+  kind: string,
+  tracked: readonly string[]
+): readonly string[] {
+  const found: string[] = []
+  for (const one of everyOfType(root, kind)) found.push(...besideThe(tracked, one.path))
+  return found
+}
+
 export function seedsFor(
   root: string,
   slug: string,
   read: Named,
   tracked: readonly string[]
 ): readonly string[] {
+  if (read.every === true) return everySeed(root, read.kind, tracked)
   const beside = besideThe(tracked, read.pagePath)
   if (read.kind === WEB_APP) return [...beside, ...webSeeds(root, slug, tracked)]
   if (read.kind === IOS_APP) return [...beside, ...iosSeeds(root)]
