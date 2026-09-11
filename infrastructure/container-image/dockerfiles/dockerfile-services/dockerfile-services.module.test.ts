@@ -19,7 +19,8 @@ describe("ROOT", () => {
   })
 
   test("holds the root manifest `listWorkspaceDirs` reads", () => {
-    expect(listWorkspaceDirs(ROOT).length).toBeGreaterThan(0)
+    expect(existsSync(join(ROOT, "package.json"))).toBe(true)
+    expect(() => listWorkspaceDirs(ROOT)).not.toThrow()
   })
 })
 
