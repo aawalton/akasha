@@ -50,6 +50,14 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "gap",
+      statement: "Every file an addon's manifest names is in akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A file of bytes reaches akasha through a change.",
+    },
+    {
+      invariantKind: "gap",
       statement:
         "Every Temper addon is exercised against a real ESO client with nobody at a keyboard.",
     },

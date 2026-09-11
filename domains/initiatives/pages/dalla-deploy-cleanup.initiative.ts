@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
-        "Deleted: `infrastructure-workload-apply`, `infrastructure service install`, three buildctl scripts, `akasha ios-app build`, `akasha mobile deploy device`, `akasha inference-apply` and `akasha inference-plan`. The thirteen inference services are pages now, each naming the script that provisions it, and every one has deployed through `akasha deploy`. Left: a temper addon deploys rather than building then installing, and the addon bundle build and publish join the tempereso.com web app deploy.",
+        "Deleted: `infrastructure-workload-apply`, `infrastructure service install`, three buildctl scripts, `akasha ios-app build`, `akasha mobile deploy device`, `akasha inference-apply`, `akasha inference-plan`, `temper-addon-build`, `temper-addon-install`, `temper-addon-bundle-build` and `temper-addon-bundle-publish`. Left: `akasha deploy temper-web` refuses at LibHistoire, whose manifest names ten `.dds` files akasha does not hold, and no change lands bytes.",
     },
   ],
   constraints: [
