@@ -24,7 +24,7 @@ const LANDED = { ok: true as const, at: "reached-nothing" }
 
 const realAkashaDay = await import("akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts")
 
-mock.module("../akasha-day/akasha-day.module.code.ts", () => ({
+mock.module("akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts", () => ({
   ...realAkashaDay,
   landAkashaDayPage: (act: string, name: string) => {
     REACHED.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
