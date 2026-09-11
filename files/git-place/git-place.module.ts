@@ -4,13 +4,13 @@ export const gitPlace = {
   id: "01a05361-09df-7452-a3cc-9443498c1d89",
   type: "module",
   slug: "git-place",
-  definition: "every store akasha keeps under the folder git does not track",
+  definition: "every name akasha keeps under the folder git does not track",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every store is named here and nowhere else.",
+      statement: "Every name akasha keeps is named here and nowhere else.",
     },
     {
       invariantKind: "departure",
@@ -18,11 +18,19 @@ export const gitPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A store is one name directly under that folder.",
+      statement: "A name akasha keeps sits directly under that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "The stores are answered as one list, which is what a sweep reads.",
+      statement: "A store is a name akasha keeps that holds a tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The hold a landing takes is a name akasha keeps that is no store.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The names are answered as one list, which is what a sweep reads.",
     },
     {
       invariantKind: "departure",

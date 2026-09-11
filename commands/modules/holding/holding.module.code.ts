@@ -1,5 +1,6 @@
 import { closeSync, mkdirSync, openSync, rmSync, statSync, unlinkSync, writeSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { keptAt, LANDING_LOCK } from "akasha/files/git-place/git-place.module.code.ts"
 import {
   alive,
   holderOf,
@@ -7,7 +8,7 @@ import {
   startedAt,
 } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 
-export const LOCK_AT = ".git/akasha-landing.lock"
+export const LOCK_AT = keptAt(LANDING_LOCK)
 
 export const WAITED_AT_MOST = 300000
 

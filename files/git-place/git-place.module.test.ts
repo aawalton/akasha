@@ -6,6 +6,9 @@ import {
   dataIn,
   HANDOFF,
   INDEXES,
+  KEPT,
+  keptAt,
+  LANDING_LOCK,
   STORES,
   storeAt,
   storeIn,
@@ -36,4 +39,13 @@ test("a store is answered both under a root and on its own", () => {
 
 test("the data store is one of the stores, answered by a name of its own", () => {
   expect(dataAt("sops")).toBe(storeAt(DATA, "sops"))
+})
+
+test("what akasha keeps is every store and the hold a landing takes", () => {
+  expect([...KEPT].sort()).toEqual([...STORES, LANDING_LOCK].sort())
+})
+
+test("a name akasha keeps sits directly under the folder git does not track", () => {
+  expect(keptAt(LANDING_LOCK)).toBe(".git/akasha-landing.lock")
+  expect(keptAt(CACHE)).toBe(storeAt(CACHE))
 })

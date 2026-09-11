@@ -10,7 +10,15 @@ export const HANDOFF = "harness-push"
 
 export const INDEXES = "indexes"
 
+export const LANDING_LOCK = "akasha-landing.lock"
+
 export const STORES: readonly string[] = [CACHE, DATA, HANDOFF, INDEXES]
+
+export const KEPT: readonly string[] = [...STORES, LANDING_LOCK]
+
+export function keptAt(name: string): string {
+  return join(GIT_AT, name)
+}
 
 export function storeAt(store: string, ...parts: readonly string[]): string {
   return join(GIT_AT, store, ...parts)
