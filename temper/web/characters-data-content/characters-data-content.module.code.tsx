@@ -13,6 +13,10 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import {
+  searchChanging,
+  sortChanging,
+} from "akasha/design/interfaces/patterns/filter-changing/filter-changing.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { useScrollRestoration } from "akasha/design/interfaces/patterns/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
@@ -111,11 +115,10 @@ export function CharactersDataContent({
     [tab, search, selectedRole, selectedClass, sortBy, sortDirection]
   )
 
-  const handleSearchChange = (value: string) => update({ search: value })
+  const handleSearchChange = searchChanging(update)
   const handleRoleChange = (value: string | null) => update({ role: value })
   const handleClassChange = (value: string | null) => update({ class: value })
-  const handleSortChange = (newSort: SortField, newDirection: SortDirection) =>
-    update({ sortBy: newSort, sortDirection: newDirection })
+  const handleSortChange = sortChanging<SortField>(update)
 
   const hasActiveFilters =
     search.length > 0 ||

@@ -21,6 +21,7 @@ export const designPatterns = {
     "module/drag-hold",
     "module/empty",
     "module/filter-button",
+    "module/filter-changing",
     "module/filter-group",
     "module/group-button",
     "module/group-utils",

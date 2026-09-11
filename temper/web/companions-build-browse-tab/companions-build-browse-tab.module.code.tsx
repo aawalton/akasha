@@ -15,6 +15,10 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import {
+  searchChanging,
+  sortChanging,
+} from "akasha/design/interfaces/patterns/filter-changing/filter-changing.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
@@ -66,7 +70,7 @@ export function CompanionsBuildBrowseTab({
     sortDirection,
   } = values
 
-  const handleSearchChange = (value: string) => update({ search: value })
+  const handleSearchChange = searchChanging(update)
 
   const handleRolesChange = (newRoles: readonly string[]) => {
     const roleSort: SortField | null = newRoles.length > 0 ? "score" : null
@@ -100,8 +104,7 @@ export function CompanionsBuildBrowseTab({
   const handleTargetCountChange = (value: string | null) => update({ targetCount: value })
   const handleTargetHealthChange = (value: string | null) => update({ targetHealth: value })
 
-  const handleSortChange = (newSort: SortField, newDirection: SortDirection) =>
-    update({ sortBy: newSort, sortDirection: newDirection })
+  const handleSortChange = sortChanging<SortField>(update)
 
   const hasActiveFilters =
     search.length > 0 ||
