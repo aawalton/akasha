@@ -9,6 +9,7 @@ export const shellScript = {
   parts: [
     "boolean-property/sourced",
     "code-file-property/shell",
+    "shell-script/bash-call-weighing",
     "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
