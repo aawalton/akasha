@@ -4,6 +4,7 @@ import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
@@ -16,8 +17,6 @@ export const AKASHA_FILE_CEILING_BYTES = 15_000
 export const RUN_LINE_BUDGET_BYTES = 13_501
 
 const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
-
-const ROOT = "akasha/"
 
 const TYPES = "types"
 
@@ -36,7 +35,7 @@ function typesAt(root: string): string {
       `\`${listed.path}\` is under no TypeScript name, so a rendered page could import no type`
     )
   }
-  return `${ROOT}${beside}`
+  return importedFrom(beside)
 }
 
 const encoder = new TextEncoder()
@@ -177,7 +176,7 @@ function renderAggregate(root: string, spec: SeriesSpec, runs: number, width: nu
   const body = [
     ...each((i) => {
       const slug = runSlug(spec.stem, i, width)
-      const at = `${ROOT}${codeRelOf(spec, slug)}`
+      const at = importedFrom(codeRelOf(spec, slug))
       return `import { ${runBinding(spec.binding, i, width)} } from "${at}"`
     }),
     "",
