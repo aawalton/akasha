@@ -23,10 +23,7 @@ import {
   setSavedVariablesAccessor,
 } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture-writer/capture-writer/capture-writer.module.code.ts"
-
-function parseStringMatchAsString(matched: unknown): string | null {
-  return typeof matched === "string" ? matched : null
-}
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function onPlayerActivated(): undefined {
   EVENT_MANAGER.UnregisterForEvent(ADDON_NAME, EVENT_PLAYER_ACTIVATED)
@@ -70,7 +67,7 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
 
   SLASH_COMMANDS["/temperdatamine"] = function (this: void, args: string): undefined {
     const [matched] = string.match(args, "^%s*(%a+)")
-    const cmd = parseStringMatchAsString(matched)
+    const cmd = stringIn(matched)
     if (cmd === "start") {
       startMining()
     } else if (cmd === "stop") {
