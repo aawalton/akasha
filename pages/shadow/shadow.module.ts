@@ -130,6 +130,11 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A shadow settles a path some page claims and leaves every other path as the commit had it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that must be loaded is reached at the path on disk with the body.",
     },
     {
