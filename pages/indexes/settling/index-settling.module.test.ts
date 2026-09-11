@@ -303,3 +303,19 @@ test("a rebuild agrees with the index a page taken from under a name left", () =
   expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
+
+test("a settle into an index that is nowhere yet answers rather than refusing an empty world", () => {
+  const tree = heldAt()
+  const nowhere = join(heldAt(), "nowhere")
+  const [at, value] = aProperty("8", "note", "text-property")
+  const body = bodyOf(value)
+
+  const settled = settlingOver(
+    readingIn(nowhere),
+    tree,
+    [{ path: put(tree, at, body), before: null, after: body }],
+    () => null
+  )
+
+  expect(settled.filings.length).toBeGreaterThan(0)
+})

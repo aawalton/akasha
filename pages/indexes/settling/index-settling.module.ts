@@ -141,5 +141,10 @@ export const indexSettling = {
       invariantKind: "departure",
       statement: "A file whose lines a filing leaves as they were is not filed.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A settle into an index that is nowhere yet refuses no world for declaring no property unique.",
+    },
   ],
 } as const satisfies Module

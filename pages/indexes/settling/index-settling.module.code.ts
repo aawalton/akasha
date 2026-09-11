@@ -228,7 +228,7 @@ export function settlingOver(
   const overSchema = overlaidOn(reading, [...schema, ...declaring])
   const wasUnique = uniquePropertiesAt(reading)
   const unique = uniquePropertiesAt(overSchema)
-  refusingEmpty(unique, held.filter((one) => one.now !== null).length)
+  if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
   const turned = turningIn(wasUnique, unique)
   const carried = new Map(held.map((one) => [under(repo, one.path), one]))
   const wasPageOf = (path: string): Value | null => {
