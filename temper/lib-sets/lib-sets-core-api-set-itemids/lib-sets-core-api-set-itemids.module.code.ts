@@ -3,9 +3,9 @@ import {
   asCategoryBoolMap,
   asItemIdNumberMapOpt,
   asLibSlots,
-  asSafeReturnApiTableFn,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asCategoryBoolMapOpt } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 
@@ -168,7 +168,6 @@ function getSetEnchantSearchCategories(
   const isNonEsoSetId = isNoESOSet(setId)
   const noSetIdSets = lib.noSetIdSets
   const setInfo = lib.setInfo
-  const safeReturnAPItable = asSafeReturnApiTableFn(libSlots["_safeReturnAPItable"])
 
   if (isNonEsoSetId === true) {
     enchantSearchCategoriesOfSetId = asCategoryBoolMapOpt(
