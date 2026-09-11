@@ -1,5 +1,5 @@
+import { ADDON_NAME } from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
-import { ADDON_NAME } from "../lorebooks-constants/lorebooks-constants.module.code.ts"
 
 type MetatableView = { __index?: Record<string | number, unknown> } | undefined
 

@@ -1,10 +1,10 @@
-import { LORE_LIBRARY_SHALIDOR } from "../lorebooks-constants/lorebooks-constants.module.code.ts"
-import { loreBooksGetNewLoreCollectionInfo } from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
-import { REPORT_STATE } from "../lorebooks-report-state/lorebooks-report-state.module.code.ts"
+import { LORE_LIBRARY_SHALIDOR } from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { loreBooksGetNewLoreCollectionInfo } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import { REPORT_STATE } from "akasha/temper/lorebooks/lorebooks-report-state/lorebooks-report-state.module.code.ts"
 import {
   buildEideticReportPerCollection,
   buildEideticReportPerMap,
-} from "../lorebooks-reports-eidetic/lorebooks-reports-eidetic.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-reports-eidetic/lorebooks-reports-eidetic.module.code.ts"
 
 export function showLoreLibraryReport(forceHide?: boolean): undefined {
   LoreBooksCopyReport.SetHidden(true)

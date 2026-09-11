@@ -1,8 +1,8 @@
-import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
 import {
   DEFAULTS,
   getSavedVariables,
-} from "../lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
 
 export function addImmersiveModeOptions(this: void, optionsTable: unknown[]): undefined {
   const immersiveChoices: readonly string[] = [

@@ -1,7 +1,7 @@
 import {
   SHALIDOR_BOOKINDEX,
   SHALIDOR_COLLECTIONINDEX,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
 
 export interface EideticRuntimeEntry {
   c?: number

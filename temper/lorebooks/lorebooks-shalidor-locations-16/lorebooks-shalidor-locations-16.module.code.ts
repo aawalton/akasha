@@ -1,4 +1,4 @@
-import type { ShalidorDataTable } from "../lorebooks-types/lorebooks-types.module.code.ts"
+import type { ShalidorDataTable } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export const SHALIDOR_LOCATIONS_16: ShalidorDataTable = {
   [445]: [

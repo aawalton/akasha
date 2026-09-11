@@ -1,24 +1,24 @@
-import "../lorebooks-public-api/lorebooks-public-api.module.code.ts"
+import "akasha/temper/lorebooks/lorebooks-public-api/lorebooks-public-api.module.code.ts"
 
-import { ADDON_NAME } from "../lorebooks-constants/lorebooks-constants.module.code.ts"
-import { loreBooksGetMissingEideticBooks } from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { loreBooksGetMissingEideticBooks } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import {
   onBookLearned,
   onHideBook,
   onShowBook,
-} from "../lorebooks-events/lorebooks-events.module.code.ts"
-import { rebuildLoreLibrary } from "../lorebooks-library/lorebooks-library.module.code.ts"
-import { initializeLocales } from "../lorebooks-locales/lorebooks-locales.module.code.ts"
-import { onGamepadPreferredModeChanged } from "../lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.code.ts"
-import { initializePins } from "../lorebooks-pins-init/lorebooks-pins-init.module.code.ts"
-import { initializeSavedVariables } from "../lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
-import { createLamPanel } from "../lorebooks-settings-panel/lorebooks-settings-panel.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-events/lorebooks-events.module.code.ts"
+import { rebuildLoreLibrary } from "akasha/temper/lorebooks/lorebooks-library/lorebooks-library.module.code.ts"
+import { initializeLocales } from "akasha/temper/lorebooks/lorebooks-locales/lorebooks-locales.module.code.ts"
+import { onGamepadPreferredModeChanged } from "akasha/temper/lorebooks/lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.code.ts"
+import { initializePins } from "akasha/temper/lorebooks/lorebooks-pins-init/lorebooks-pins-init.module.code.ts"
+import { initializeSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import { createLamPanel } from "akasha/temper/lorebooks/lorebooks-settings-panel/lorebooks-settings-panel.module.code.ts"
 import {
   createEideticLorebookLocation,
   createFakeEideticLorebookLocation,
   createFakeLorebookPin,
-} from "../lorebooks-slash-commands/lorebooks-slash-commands.module.code.ts"
-import { registerUiStrings } from "../lorebooks-ui-strings/lorebooks-ui-strings.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-slash-commands/lorebooks-slash-commands.module.code.ts"
+import { registerUiStrings } from "akasha/temper/lorebooks/lorebooks-ui-strings/lorebooks-ui-strings.module.code.ts"
 
 registerUiStrings()
 

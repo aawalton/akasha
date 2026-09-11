@@ -1,4 +1,4 @@
-import type { BookshelfTable } from "../lorebooks-types/lorebooks-types.module.code.ts"
+import type { BookshelfTable } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export const BOOKSHELF_DATA: BookshelfTable = {
   [8]: [

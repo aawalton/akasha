@@ -1,4 +1,4 @@
-import type { AchievementIdTable } from "../lorebooks-types/lorebooks-types.module.code.ts"
+import type { AchievementIdTable } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export const EXPLORATION_ACHIEVEMENT_IDS: AchievementIdTable = {
   [2]: 964,

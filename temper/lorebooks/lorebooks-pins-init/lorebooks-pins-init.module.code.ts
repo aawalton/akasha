@@ -15,15 +15,15 @@ import {
   PINS_UNKNOWN,
   SHALIDOR_BOOKINDEX,
   SHALIDOR_COLLECTIONINDEX,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
-import { loreBooksGetNewLoreBookInfo } from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { loreBooksGetNewLoreBookInfo } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import {
   getPinTexture,
   getPinTextureBookshelf,
   getPinTextureEidetic,
   isEideticPinGrayscale,
   isShaliPinGrayscale,
-} from "../lorebooks-pins/lorebooks-pins.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-pins/lorebooks-pins.module.code.ts"
 import {
   bookshelfCompassCallback,
   eideticMemoryCompassCallback,
@@ -31,7 +31,7 @@ import {
   mapCallbackCreateEideticPins,
   mapCallbackCreateShalidorPins,
   shalidorCompassCallback,
-} from "../lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.code.ts"
 import {
   asBookshelfCompassPinTag,
   asEideticCompassPinTag,
@@ -42,13 +42,13 @@ import {
   type LoreBooksCompassPinLayout,
   type ShalidorClickPin,
   type ShalidorMapPinLayout,
-} from "../lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"
 import {
   PIN_TOOLTIP_CREATOR,
   PIN_TOOLTIP_CREATOR_BOOKSHELF,
   PIN_TOOLTIP_CREATOR_EIDETIC,
-} from "../lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"
-import { getSavedVariables } from "../lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"
+import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 
 function asCompassPinControl(value: unknown): CompassPinControl {
   return value as CompassPinControl

@@ -1,7 +1,7 @@
 import {
   DEFAULTS,
   getSavedVariables,
-} from "../lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 
 export function addPinMenuOptions(this: void, optionsTable: unknown[]): undefined {
   optionsTable[optionsTable.length] = {

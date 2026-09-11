@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const lorebooksPinsCallbacks = {
   id: "01a06194-be44-75d7-8666-1a3284c30c41",

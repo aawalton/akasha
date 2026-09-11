@@ -1,4 +1,4 @@
-import type { EideticBookTable } from "../lorebooks-types/lorebooks-types.module.code.ts"
+import type { EideticBookTable } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export const BOOK_DATA_39: EideticBookTable = {
   [2771]: {

@@ -4,12 +4,12 @@ import {
   PINS_EIDETIC,
   PINS_EIDETIC_COLLECTED,
   PINS_UNKNOWN,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   filterDefault,
   filterValue,
-} from "../lorebooks-filter-flags/lorebooks-filter-flags.module.code.ts"
-import { getSavedVariables } from "../lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-filter-flags/lorebooks-filter-flags.module.code.ts"
+import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 
 const LMP = LibMapPins
 

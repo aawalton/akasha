@@ -1,30 +1,30 @@
-import { fireCallbacks } from "../lorebooks-callbacks/lorebooks-callbacks.module.code.ts"
+import { fireCallbacks } from "akasha/temper/lorebooks/lorebooks-callbacks/lorebooks-callbacks.module.code.ts"
 import {
   CALLBACK_MOTIF_CHECKBOX_CHANGED,
   LORE_LIBRARY_CRAFTING,
   LORE_LIBRARY_EIDETIC,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   loreBooksGetNewLoreBookInfo,
   loreBooksGetNewLoreCollectionInfo,
-} from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import {
   filterScrollList,
   getHirelingMessageCollection,
   type HirelingCollectionData,
-} from "../lorebooks-library-filter/lorebooks-library-filter.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"
 import {
   onMouseEnter,
   onMouseExit,
   onRowMouseUp,
-} from "../lorebooks-library-rows/lorebooks-library-rows.module.code.ts"
-import { REPORT_STATE } from "../lorebooks-report-state/lorebooks-report-state.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"
+import { REPORT_STATE } from "akasha/temper/lorebooks/lorebooks-report-state/lorebooks-report-state.module.code.ts"
 import {
   isReportShown,
   showLoreLibraryCopyReport,
   showLoreLibraryReport,
   switchLoreLibraryReportMode,
-} from "../lorebooks-reports/lorebooks-reports.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-reports/lorebooks-reports.module.code.ts"
 
 interface CollectionNodeData {
   categoryIndex: number

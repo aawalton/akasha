@@ -2,7 +2,7 @@ import type {
   BookshelfEntry,
   EideticBookZoneEntry,
   ShalidorMapData,
-} from "../lorebooks-types/lorebooks-types.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export interface LoreBooksRuntimeState {
   lorebooks: ShalidorMapData | undefined

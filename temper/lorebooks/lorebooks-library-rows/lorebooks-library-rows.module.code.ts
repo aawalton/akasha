@@ -1,13 +1,13 @@
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   loreBooksGetDataOfBook,
   loreBooksGetNewEideticData,
   loreBooksGetNewLoreBookInfo,
-} from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
-import { getQuestLocation } from "../lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import { getQuestLocation } from "akasha/temper/lorebooks/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
 
 function requireGps(): LibGps3 {
   if (LibGPS3 === undefined) {

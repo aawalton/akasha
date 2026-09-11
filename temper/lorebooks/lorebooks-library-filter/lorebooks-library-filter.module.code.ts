@@ -1,7 +1,7 @@
 import {
   loreBooksGetNewLoreBookInfo,
   loreBooksGetNewLoreCollectionInfo,
-} from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 
 const BOOK_DATA_TYPE = 1
 const HIRELING_MESSAGE_DATA_TYPE = 2

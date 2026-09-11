@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const lorebooksLibraryFilter = {
   id: "01a06194-be41-7ddd-a505-ed8f613fa702",

@@ -1,4 +1,4 @@
-import { STATE } from "../lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 
 const SUPPORTED_BOOKSHELF_LOCALES: Record<string, boolean> = {
   en: true,

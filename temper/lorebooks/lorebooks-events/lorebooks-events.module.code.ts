@@ -10,8 +10,8 @@ import {
   PINS_EIDETIC,
   PINS_EIDETIC_COLLECTED,
   PINS_UNKNOWN,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
-import { STATE } from "../lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 
 export function onShowBook(
   this: void,

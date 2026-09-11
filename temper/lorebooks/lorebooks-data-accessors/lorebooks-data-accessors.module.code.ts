@@ -1,5 +1,5 @@
-import { BOOK_DATA } from "../lorebooks-book-data/lorebooks-book-data.module.code.ts"
-import { BOOKSHELF_DATA } from "../lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
+import { BOOK_DATA } from "akasha/temper/lorebooks/lorebooks-book-data/lorebooks-book-data.module.code.ts"
+import { BOOKSHELF_DATA } from "akasha/temper/lorebooks/lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
 import {
   LBOOKS_IMMERSIVE_EXPLORATION,
   LBOOKS_IMMERSIVE_WAYSHRINES,
@@ -13,15 +13,15 @@ import {
   SHALIDOR_COLLECTIONINDEX,
   SHALIDOR_LOCATION_X,
   SHALIDOR_LOCATION_Y,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
-import { LIBRARY_DATA } from "../lorebooks-library-data/lorebooks-library-data.module.code.ts"
-import { STATE } from "../lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { LIBRARY_DATA } from "akasha/temper/lorebooks/lorebooks-library-data/lorebooks-library-data.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import {
   EXPLORATION_ACHIEVEMENT_IDS,
   MAIN_QUEST_ACHIEVEMENT_IDS,
   ZONE_QUEST_ACHIEVEMENT_IDS,
-} from "../lorebooks-shalidor-achievements/lorebooks-shalidor-achievements.module.code.ts"
-import { SHALIDOR_LOCATIONS } from "../lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-shalidor-achievements/lorebooks-shalidor-achievements.module.code.ts"
+import { SHALIDOR_LOCATIONS } from "akasha/temper/lorebooks/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.code.ts"
 import type {
   BookshelfEntry,
   EideticBook,
@@ -30,7 +30,7 @@ import type {
   ShalidorDataTable,
   ShalidorMapData,
   ShalidorPinEntry,
-} from "../lorebooks-types/lorebooks-types.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export function loreBooksGetBookData(): EideticBookTable {
   return BOOK_DATA

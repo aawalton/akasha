@@ -1,4 +1,4 @@
-import type { EideticLibraryCategory } from "../lorebooks-types/lorebooks-types.module.code.ts"
+import type { EideticLibraryCategory } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export const LIBRARY_DATA_00: EideticLibraryCategory = {
   [1]: {

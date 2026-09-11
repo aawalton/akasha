@@ -1,13 +1,13 @@
-import { LORE_LIBRARY_EIDETIC } from "../lorebooks-constants/lorebooks-constants.module.code.ts"
+import { LORE_LIBRARY_EIDETIC } from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   loreBooksGetEideticData,
   loreBooksGetNewEideticData,
   loreBooksGetNewLoreBookInfo,
   loreBooksGetNewLoreCollectionInfo,
-} from "../lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
-import { REPORT_STATE } from "../lorebooks-report-state/lorebooks-report-state.module.code.ts"
-import { STATE } from "../lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
-import type { EideticBookZoneEntry } from "../lorebooks-types/lorebooks-types.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import { REPORT_STATE } from "akasha/temper/lorebooks/lorebooks-report-state/lorebooks-report-state.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+import type { EideticBookZoneEntry } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
 export function allowEideticReport(): boolean {
   return (

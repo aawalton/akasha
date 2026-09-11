@@ -1,15 +1,15 @@
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import { addCompassPinOptions } from "../lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
+import { addCompassPinOptions } from "akasha/temper/lorebooks/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
 import {
   ADDON_PANEL,
   ADDON_VERSION,
   ADDON_WEBSITE,
-} from "../lorebooks-constants/lorebooks-constants.module.code.ts"
-import { addImmersiveModeOptions } from "../lorebooks-immersive-mode/lorebooks-immersive-mode.module.code.ts"
-import { addMapPinFilterOptions } from "../lorebooks-map-pin-filters/lorebooks-map-pin-filters.module.code.ts"
-import { addPinAppearanceOptions } from "../lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts"
-import { addPinMenuOptions } from "../lorebooks-pin-menus/lorebooks-pin-menus.module.code.ts"
-import { asLamControlDataArray } from "../lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
+} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { addImmersiveModeOptions } from "akasha/temper/lorebooks/lorebooks-immersive-mode/lorebooks-immersive-mode.module.code.ts"
+import { addMapPinFilterOptions } from "akasha/temper/lorebooks/lorebooks-map-pin-filters/lorebooks-map-pin-filters.module.code.ts"
+import { addPinAppearanceOptions } from "akasha/temper/lorebooks/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts"
+import { addPinMenuOptions } from "akasha/temper/lorebooks/lorebooks-pin-menus/lorebooks-pin-menus.module.code.ts"
+import { asLamControlDataArray } from "akasha/temper/lorebooks/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2
 
