@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const recallingShot = {
   id: "01a0657d-02a5-7e5f-9e28-dda021b7f13e",

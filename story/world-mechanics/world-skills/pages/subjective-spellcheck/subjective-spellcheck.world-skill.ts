@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const subjectiveSpellcheck = {
   id: "01a0657d-02fe-78b8-96af-d91032c80b06",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const shipBurstOfSpeed = {
   id: "01a0657d-02c0-7423-a3d3-19d758996f9c",

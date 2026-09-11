@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const calculableInsightCopySkillIntellect = {
   id: "01a06575-97f9-73ae-844a-ed01311c88ba",

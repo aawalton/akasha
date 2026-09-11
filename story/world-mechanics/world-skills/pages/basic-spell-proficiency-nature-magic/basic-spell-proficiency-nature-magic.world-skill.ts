@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const basicSpellProficiencyNatureMagic = {
   id: "01a06575-97f4-7695-8dd9-a817203d19bb",

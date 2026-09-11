@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const negateSpell = {
   id: "01a0657d-027a-7d1b-b7e0-1db8c2ef5238",

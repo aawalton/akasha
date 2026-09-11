@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const preparedStrategyThreeFireballVolley = {
   id: "01a0657d-0296-71d6-a3e4-f7c46dcd1e5b",

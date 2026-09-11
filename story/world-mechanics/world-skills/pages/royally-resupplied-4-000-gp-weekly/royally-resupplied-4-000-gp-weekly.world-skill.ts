@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const royallyResupplied4000GpWeekly = {
   id: "01a0657d-02b7-7e86-a435-c5b170d2efcb",

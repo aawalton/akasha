@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const daggerArtGrinOfTheVortex = {
   id: "01a06575-9800-7f93-9cdf-2e29c1e0468d",

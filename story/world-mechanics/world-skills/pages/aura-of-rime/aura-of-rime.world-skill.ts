@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const auraOfRime = {
   id: "01a06575-97ef-7aeb-9651-e40c0e1cfee7",

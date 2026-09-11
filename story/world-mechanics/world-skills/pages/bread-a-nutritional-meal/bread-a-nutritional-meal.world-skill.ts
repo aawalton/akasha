@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const breadANutritionalMeal = {
   id: "01a06575-97f8-7ed9-9c10-f11298588406",

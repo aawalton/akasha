@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const swordArtTheKrakenBleeds = {
   id: "01a0657d-0307-74b9-8cd4-41db97161762",

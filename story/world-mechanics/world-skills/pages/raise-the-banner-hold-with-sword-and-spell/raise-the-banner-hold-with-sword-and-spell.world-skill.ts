@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const raiseTheBannerHoldWithSwordAndSpell = {
   id: "01a0657d-029c-7b09-b6f8-1dd4f22051b8",

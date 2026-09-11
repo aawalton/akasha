@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const bodyRejectToxins = {
   id: "01a06575-97f7-7836-b5fd-417587cf6d75",

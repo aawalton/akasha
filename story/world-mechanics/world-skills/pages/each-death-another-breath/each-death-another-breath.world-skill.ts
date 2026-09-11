@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const eachDeathAnotherBreath = {
   id: "01a06575-9806-7f95-bfaa-80e97cac8901",

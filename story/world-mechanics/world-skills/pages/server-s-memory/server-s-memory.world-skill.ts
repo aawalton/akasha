@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const serverSMemory = {
   id: "01a0657d-02bf-720a-8ba0-9b4e41ef5da6",

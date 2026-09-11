@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const swordArtCurveOfTheMoon = {
   id: "01a0657d-0307-7e62-aec1-095d59f7a17d",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const redirectBalance = {
   id: "01a0657d-02a6-7b2c-a010-658b33d5ce2f",

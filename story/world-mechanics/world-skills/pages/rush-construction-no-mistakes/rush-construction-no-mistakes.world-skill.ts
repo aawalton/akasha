@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const rushConstructionNoMistakes = {
   id: "01a0657d-02b7-7593-a9fc-945a83609ce5",

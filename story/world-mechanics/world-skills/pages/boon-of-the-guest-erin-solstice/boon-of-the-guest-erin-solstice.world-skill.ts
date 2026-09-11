@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const boonOfTheGuestErinSolstice = {
   id: "01a06575-97f7-7665-bf3f-05e6e1f595a7",

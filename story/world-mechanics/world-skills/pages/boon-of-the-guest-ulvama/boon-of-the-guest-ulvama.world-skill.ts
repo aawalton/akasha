@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const boonOfTheGuestUlvama = {
   id: "01a06575-97f7-74e9-be3d-c0b869c45823",

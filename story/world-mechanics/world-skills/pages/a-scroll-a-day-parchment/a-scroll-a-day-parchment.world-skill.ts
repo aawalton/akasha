@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const aScrollADayParchment = {
   id: "01a06575-97e7-73a5-a737-3f54c738f0bc",

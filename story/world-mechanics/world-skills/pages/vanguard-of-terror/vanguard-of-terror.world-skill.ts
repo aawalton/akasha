@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const vanguardOfTerror = {
   id: "01a0657d-0320-7fe0-90e8-5abf1dc9abbf",

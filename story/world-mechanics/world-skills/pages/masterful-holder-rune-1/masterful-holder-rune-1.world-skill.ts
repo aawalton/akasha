@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const masterfulHolderRune1 = {
   id: "01a0657d-024c-7668-a692-c2a642c6b28b",

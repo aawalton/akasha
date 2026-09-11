@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const manaPoolPure = {
   id: "01a0657d-0242-76e5-9a77-2bdfa3416c30",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const serpentineManeuver = {
   id: "01a0657d-02bf-7ab2-b9d2-1a4bd255f8b9",

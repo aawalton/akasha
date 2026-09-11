@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const spearOfTheLightningGiant = {
   id: "01a0657d-02ed-7971-b865-fb6bd5204830",

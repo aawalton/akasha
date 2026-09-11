@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const apistaAgileFlier = {
   id: "01a06575-97eb-7d5a-b820-bcb73368c4c9",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const realmOfTheEternalTempest = {
   id: "01a0657d-02a5-747a-ae93-1eb2e6d88b6e",

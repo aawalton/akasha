@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const crossbowIrregularAmmunitionStones = {
   id: "01a06575-97ff-777f-8076-c83b96842249",

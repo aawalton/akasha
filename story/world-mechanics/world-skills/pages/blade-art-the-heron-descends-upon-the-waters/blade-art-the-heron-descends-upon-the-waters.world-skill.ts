@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const bladeArtTheHeronDescendsUponTheWaters = {
   id: "01a06575-97f5-7d02-9759-760eef3fa422",

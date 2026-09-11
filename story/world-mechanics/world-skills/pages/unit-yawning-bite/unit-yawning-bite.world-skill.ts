@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const unitYawningBite = {
   id: "01a0657d-031f-7e65-a1bc-459bbfbea6a7",

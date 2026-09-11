@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const skillNameOfDragonsYderigrisel = {
   id: "01a0657d-02c6-7991-95a8-a5e5d6aa7a15",

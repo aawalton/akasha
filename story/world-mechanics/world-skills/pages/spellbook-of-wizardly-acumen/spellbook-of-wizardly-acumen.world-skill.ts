@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const spellbookOfWizardlyAcumen = {
   id: "01a0657d-02ed-74bb-ab10-ee1464d2cb78",

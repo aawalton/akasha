@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const likeALionHeLeapt = {
   id: "01a0657d-023f-788f-b1a8-cc73ffd28a18",

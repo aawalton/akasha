@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const recoveringBedrest = {
   id: "01a0657d-02a6-7b77-a5dd-acb68a2169a1",

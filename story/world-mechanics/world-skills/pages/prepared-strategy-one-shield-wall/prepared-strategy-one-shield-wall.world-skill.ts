@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const preparedStrategyOneShieldWall = {
   id: "01a0657d-0296-75cc-9b1e-15330c8cafd8",

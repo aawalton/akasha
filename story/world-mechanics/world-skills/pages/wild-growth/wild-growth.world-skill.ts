@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const wildGrowth = {
   id: "01a0657d-032e-7d2a-8c4f-81dc2a6610d3",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const iKeepMyPromisesNerulGemscale = {
   id: "01a06575-981b-7736-980b-d9af28c366b8",

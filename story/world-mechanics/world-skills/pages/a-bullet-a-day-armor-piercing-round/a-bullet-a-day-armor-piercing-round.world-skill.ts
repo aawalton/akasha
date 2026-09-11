@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const aBulletADayArmorPiercingRound = {
   id: "01a06575-97e6-701a-ade5-3bc74e2e7260",

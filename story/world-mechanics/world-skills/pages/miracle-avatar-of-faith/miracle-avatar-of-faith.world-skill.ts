@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const miracleAvatarOfFaith = {
   id: "01a0657d-026c-752d-be8f-30a353f07f96",

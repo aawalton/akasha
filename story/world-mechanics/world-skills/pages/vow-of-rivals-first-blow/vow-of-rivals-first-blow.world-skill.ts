@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const vowOfRivalsFirstBlow = {
   id: "01a0657d-032c-7889-b412-e0d7001676a6",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const perfectionIsOverrated = {
   id: "01a0657d-028f-7c0d-8226-46e6283b22f3",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const streetLockdown = {
   id: "01a0657d-02fe-7f24-b62f-1ac96ab097d8",

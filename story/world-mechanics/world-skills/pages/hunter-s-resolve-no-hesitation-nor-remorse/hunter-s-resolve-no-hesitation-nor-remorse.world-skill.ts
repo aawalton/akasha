@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const hunterSResolveNoHesitationNorRemorse = {
   id: "01a06575-981b-7088-b8b2-517fdb8d890a",

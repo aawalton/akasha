@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const massHealMinorWounds = {
   id: "01a0657d-024b-769a-bbbc-c807dba34bd3",

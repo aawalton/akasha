@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const gardensOfSanctuary = {
   id: "01a06575-9814-7a9e-a629-f75c90def6dc",

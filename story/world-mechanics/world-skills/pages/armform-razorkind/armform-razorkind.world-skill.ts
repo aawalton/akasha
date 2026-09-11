@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const armformRazorkind = {
   id: "01a06575-97ec-7d9e-a710-5a0fb310c0ca",

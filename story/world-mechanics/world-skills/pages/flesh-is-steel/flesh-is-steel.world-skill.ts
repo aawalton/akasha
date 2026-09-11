@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const fleshIsSteel = {
   id: "01a06575-980e-7f5d-8ed2-d920a00723b8",

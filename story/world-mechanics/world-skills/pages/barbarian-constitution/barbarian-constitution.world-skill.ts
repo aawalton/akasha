@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const barbarianConstitution = {
   id: "01a06575-97f3-7094-92cc-eef0fdb12f4c",

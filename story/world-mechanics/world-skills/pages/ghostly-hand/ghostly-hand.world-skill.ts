@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const ghostlyHand = {
   id: "01a06575-9814-75b7-8fe7-fcba6213e2a2",

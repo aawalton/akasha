@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const squadMinorSwarmblades = {
   id: "01a0657d-02ee-761b-ba89-98dc913c70ce",

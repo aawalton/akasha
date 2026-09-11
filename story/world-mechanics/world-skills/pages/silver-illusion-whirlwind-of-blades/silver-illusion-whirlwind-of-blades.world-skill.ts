@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const silverIllusionWhirlwindOfBlades = {
   id: "01a0657d-02c1-702a-832c-eeb39c46f18f",

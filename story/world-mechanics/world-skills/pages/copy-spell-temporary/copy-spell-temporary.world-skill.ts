@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const copySpellTemporary = {
   id: "01a06575-97fe-7cb8-b9c5-3cb3ddf0880a",

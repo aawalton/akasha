@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const supremeSpellcraft = {
   id: "01a0657d-0303-78df-a6f9-b628a811c0d2",

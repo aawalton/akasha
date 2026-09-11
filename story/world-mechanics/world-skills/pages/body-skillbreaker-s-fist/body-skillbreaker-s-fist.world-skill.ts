@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const bodySkillbreakerSFist = {
   id: "01a06575-97f7-7657-8605-7d2512b21dcc",

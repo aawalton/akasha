@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const naturalAllySariantLambs = {
   id: "01a0657d-0271-7109-9b5a-cdc89f1bd1f9",

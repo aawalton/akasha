@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const championsAriseToBattleInArmorAndHealth = {
   id: "01a06575-97fa-7448-9c93-4d3860a4f011",

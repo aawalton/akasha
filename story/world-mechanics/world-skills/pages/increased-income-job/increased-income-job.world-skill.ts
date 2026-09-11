@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const increasedIncomeJob = {
   id: "01a06575-981e-7f04-ac5f-ca91fcc7325a",

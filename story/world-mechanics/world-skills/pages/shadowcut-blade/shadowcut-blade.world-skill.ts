@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const shadowcutBlade = {
   id: "01a0657d-02bf-73ad-947d-a6ecf1b57070",

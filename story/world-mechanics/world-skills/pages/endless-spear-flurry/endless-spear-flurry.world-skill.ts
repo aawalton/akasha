@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const endlessSpearFlurry = {
   id: "01a06575-9808-7e15-8a8f-94fc7655810a",

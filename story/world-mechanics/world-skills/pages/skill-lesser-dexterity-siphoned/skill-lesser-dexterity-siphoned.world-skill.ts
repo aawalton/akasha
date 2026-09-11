@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const skillLesserDexteritySiphoned = {
   id: "01a0657d-02c6-7812-90d3-68a44116029e",

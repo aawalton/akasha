@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const towerGuardSBulwark = {
   id: "01a0657d-0316-7560-8b39-7c9c45329acc",

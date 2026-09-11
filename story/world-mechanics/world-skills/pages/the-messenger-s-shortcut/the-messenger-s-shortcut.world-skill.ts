@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const theMessengerSShortcut = {
   id: "01a0657d-0312-7e13-8b91-b651810d1d62",

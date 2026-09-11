@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const travellerSGiftFromHome = {
   id: "01a0657d-0316-744b-a3a3-f5fb3b50cd00",

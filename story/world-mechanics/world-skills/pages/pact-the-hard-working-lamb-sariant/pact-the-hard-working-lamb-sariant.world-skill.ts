@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const pactTheHardWorkingLambSariant = {
   id: "01a0657d-027f-7518-b4f7-a7d1cda59790",

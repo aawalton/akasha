@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const cleaveTheEarth = {
   id: "01a06575-97fb-7f89-8f90-1dca0e352fb1",

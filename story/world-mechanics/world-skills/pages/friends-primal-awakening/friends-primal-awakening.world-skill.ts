@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const friendsPrimalAwakening = {
   id: "01a06575-9811-7a54-aa69-f6e306c3f1ff",

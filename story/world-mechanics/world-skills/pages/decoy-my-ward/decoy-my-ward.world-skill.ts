@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const decoyMyWard = {
   id: "01a06575-9802-7c8c-9cce-8af1f3d8d190",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const onlyMyChallengersShallAdvance = {
   id: "01a0657d-027c-70d2-9792-249f478396bd",

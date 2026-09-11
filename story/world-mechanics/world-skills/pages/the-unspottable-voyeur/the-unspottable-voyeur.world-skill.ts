@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const theUnspottableVoyeur = {
   id: "01a0657d-0312-7537-877c-5f40e4dadd11",

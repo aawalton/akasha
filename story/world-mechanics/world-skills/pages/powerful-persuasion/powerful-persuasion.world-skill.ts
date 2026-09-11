@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const powerfulPersuasion = {
   id: "01a0657d-0296-7345-bbc6-9bb7da001e15",

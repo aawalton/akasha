@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const dangerZoneMultipliedVelocity = {
   id: "01a06575-9800-758b-b2d7-7f815d88393a",

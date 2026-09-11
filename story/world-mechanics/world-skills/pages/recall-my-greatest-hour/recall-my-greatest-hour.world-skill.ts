@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const recallMyGreatestHour = {
   id: "01a0657d-02a5-7fff-9c3c-d45a025cdf03",

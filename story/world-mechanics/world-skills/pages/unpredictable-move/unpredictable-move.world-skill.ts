@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const unpredictableMove = {
   id: "01a0657d-031f-7668-a2cc-0b6f1eb22912",

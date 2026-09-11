@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const dataSearchMoass = {
   id: "01a06575-9801-7d27-b2f0-f2834c40c8c4",

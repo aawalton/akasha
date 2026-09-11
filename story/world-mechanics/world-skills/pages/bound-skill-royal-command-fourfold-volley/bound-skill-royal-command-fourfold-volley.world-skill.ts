@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const boundSkillRoyalCommandFourfoldVolley = {
   id: "01a06575-97f8-75c6-b358-36d535b6d66c",

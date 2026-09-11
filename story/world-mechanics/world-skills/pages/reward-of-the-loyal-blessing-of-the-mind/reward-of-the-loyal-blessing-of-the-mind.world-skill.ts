@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const rewardOfTheLoyalBlessingOfTheMind = {
   id: "01a0657d-02b2-7bc2-acfd-c5dc3343aa94",

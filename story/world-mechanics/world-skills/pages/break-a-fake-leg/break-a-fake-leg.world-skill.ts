@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const breakAFakeLeg = {
   id: "01a06575-97f8-72f3-ae04-5b731a967d7d",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const perfectTemperatureControl = {
   id: "01a0657d-028f-7824-9a55-37b2a9365aa1",

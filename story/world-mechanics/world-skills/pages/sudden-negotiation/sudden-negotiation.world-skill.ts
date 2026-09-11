@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const suddenNegotiation = {
   id: "01a0657d-02fe-70b8-bfd8-7518c316bf9c",

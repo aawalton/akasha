@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const stonewallFormation = {
   id: "01a0657d-02fa-72f0-ab9b-28551540bf8e",

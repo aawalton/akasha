@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const aleietaSMeldedPerspective = {
   id: "01a06575-97ea-71e8-9464-2b80b8d88907",

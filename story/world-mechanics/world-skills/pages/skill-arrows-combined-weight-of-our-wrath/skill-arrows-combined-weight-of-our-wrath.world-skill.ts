@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const skillArrowsCombinedWeightOfOurWrath = {
   id: "01a0657d-02c5-7ded-b4b3-21f12539e904",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const controlledReleaseHorizontalSpray = {
   id: "01a06575-97fd-720f-9829-b2e533c916e8",

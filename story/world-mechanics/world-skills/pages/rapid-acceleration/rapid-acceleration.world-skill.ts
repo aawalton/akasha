@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const rapidAcceleration = {
   id: "01a0657d-029c-7147-9fd3-e1f8e5119334",

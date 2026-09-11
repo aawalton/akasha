@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const naturalGiftAshfireBeesFireflightFur = {
   id: "01a0657d-0271-73f1-9b09-a14eb431653b",

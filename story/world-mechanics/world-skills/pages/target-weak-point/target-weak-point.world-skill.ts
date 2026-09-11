@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const targetWeakPoint = {
   id: "01a0657d-0310-7a4b-af08-3d23085e64c6",

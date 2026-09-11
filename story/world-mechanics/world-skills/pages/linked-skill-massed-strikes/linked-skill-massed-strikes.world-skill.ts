@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const linkedSkillMassedStrikes = {
   id: "01a0657d-0240-7860-a781-5e58ff96950a",

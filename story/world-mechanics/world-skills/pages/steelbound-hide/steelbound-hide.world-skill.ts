@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const steelboundHide = {
   id: "01a0657d-02fa-7426-9573-b6c4cdeed5bb",

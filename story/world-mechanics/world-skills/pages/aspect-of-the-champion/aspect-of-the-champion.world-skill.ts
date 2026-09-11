@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const aspectOfTheChampion = {
   id: "01a06575-97ee-7cf2-a464-b45d6a5cbe6f",

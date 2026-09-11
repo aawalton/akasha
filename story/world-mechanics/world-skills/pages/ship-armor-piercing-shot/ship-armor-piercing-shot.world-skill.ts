@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const shipArmorPiercingShot = {
   id: "01a0657d-02c0-749c-bd5f-5b90a77c5ba2",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const swordArtJovelnSParry = {
   id: "01a0657d-0307-7b8c-9d5d-d9ac95b2d2d8",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const instantaneousBarragePhantomArrows = {
   id: "01a06575-981f-773b-a33b-c9497115ba1f",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const minorSafetyTalisman = {
   id: "01a0657d-024d-7f7d-8c21-e9e1841365f0",

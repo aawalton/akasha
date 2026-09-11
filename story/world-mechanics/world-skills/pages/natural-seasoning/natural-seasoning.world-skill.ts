@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const naturalSeasoning = {
   id: "01a0657d-0271-7c48-b14e-a2c63eb40b57",

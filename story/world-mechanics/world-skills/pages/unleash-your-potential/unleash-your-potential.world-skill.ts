@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const unleashYourPotential = {
   id: "01a0657d-031f-7f79-b0d0-677b5415da9f",

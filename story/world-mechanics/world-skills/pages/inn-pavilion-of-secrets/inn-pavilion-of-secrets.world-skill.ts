@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const innPavilionOfSecrets = {
   id: "01a06575-981f-790a-8b6f-7066448df7a7",

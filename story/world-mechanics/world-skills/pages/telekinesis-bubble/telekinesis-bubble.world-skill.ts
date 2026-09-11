@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const telekinesisBubble = {
   id: "01a0657d-0311-7f8c-a0fc-e374e6c28302",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const shipDragonfireWard = {
   id: "01a0657d-02c0-7bf4-86a5-d24994c273ef",

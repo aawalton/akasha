@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const createAutomagicSpell = {
   id: "01a06575-97fe-7f3b-aea6-c0f528065222",

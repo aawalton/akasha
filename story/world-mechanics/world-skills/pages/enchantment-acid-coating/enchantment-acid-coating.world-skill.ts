@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const enchantmentAcidCoating = {
   id: "01a06575-9808-7917-82ab-95cc4055a248",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const skillChangeQuickStepFlashStep = {
   id: "01a0657d-02c6-718e-9c71-7b7488828e75",

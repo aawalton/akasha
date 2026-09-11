@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const cargoOfVastHolding = {
   id: "01a06575-97fa-7627-99aa-fd4718a3b47a",

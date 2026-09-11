@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const theWorldIsMyCanvas = {
   id: "01a0657d-0312-7975-9762-4caf39c4cf28",

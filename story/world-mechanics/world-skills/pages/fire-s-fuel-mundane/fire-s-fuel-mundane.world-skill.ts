@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const fireSFuelMundane = {
   id: "01a06575-980c-75c3-b7d9-02e3584f524d",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const boundSkillMyArrowShallNotStop = {
   id: "01a06575-97f8-77ef-839f-c1bf600f1abc",

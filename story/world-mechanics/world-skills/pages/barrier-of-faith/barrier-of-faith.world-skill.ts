@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const barrierOfFaith = {
   id: "01a06575-97f3-75af-a8f0-820d61ecfac0",

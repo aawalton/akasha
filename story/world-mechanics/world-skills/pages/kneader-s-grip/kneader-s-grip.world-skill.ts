@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const kneaderSGrip = {
   id: "01a06575-9821-76b0-bc0b-03b09ec158f8",

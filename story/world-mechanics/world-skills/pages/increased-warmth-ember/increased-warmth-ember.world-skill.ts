@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const increasedWarmthEmber = {
   id: "01a06575-981e-74ee-a37b-64c498a4a9de",

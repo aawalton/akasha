@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const basicPerfectActionStealthRun = {
   id: "01a06575-97f4-789f-8d0d-98d900163046",

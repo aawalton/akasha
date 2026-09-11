@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const charismaConvictionOfTheHunter = {
   id: "01a06575-97fa-70dc-a7e2-bddabe62ca3e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const walkOfTheSwordmaster = {
   id: "01a0657d-032c-762c-afef-044e628f29eb",

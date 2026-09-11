@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const theCourierSLastRoad = {
   id: "01a0657d-0311-7e1b-90d5-afc81f6be237",

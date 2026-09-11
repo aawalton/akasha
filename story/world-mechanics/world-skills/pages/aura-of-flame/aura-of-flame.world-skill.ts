@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const auraOfFlame = {
   id: "01a06575-97ee-747a-a6d7-a58ebf1efc41",

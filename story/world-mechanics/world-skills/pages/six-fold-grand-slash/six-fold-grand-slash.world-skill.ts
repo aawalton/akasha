@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const sixFoldGrandSlash = {
   id: "01a0657d-02c5-704e-943e-a47ed64f832e",

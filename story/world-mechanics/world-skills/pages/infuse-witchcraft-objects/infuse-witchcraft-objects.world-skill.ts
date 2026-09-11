@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const infuseWitchcraftObjects = {
   id: "01a06575-981e-7311-9da5-4a8b6b77d735",

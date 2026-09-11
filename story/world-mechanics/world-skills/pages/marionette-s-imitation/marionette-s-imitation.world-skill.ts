@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const marionetteSImitation = {
   id: "01a0657d-0243-7a9b-8ad3-24bdfc500788",

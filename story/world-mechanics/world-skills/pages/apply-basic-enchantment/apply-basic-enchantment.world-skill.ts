@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const applyBasicEnchantment = {
   id: "01a06575-97eb-71e3-9afe-a5530624c744",

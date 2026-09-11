@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const circleOfProtection = {
   id: "01a06575-97fb-7f52-81fa-7ff50c6256b4",

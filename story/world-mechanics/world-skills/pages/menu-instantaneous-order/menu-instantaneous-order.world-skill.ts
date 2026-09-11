@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const menuInstantaneousOrder = {
   id: "01a0657d-024c-743e-9d28-1f6c50dd8608",

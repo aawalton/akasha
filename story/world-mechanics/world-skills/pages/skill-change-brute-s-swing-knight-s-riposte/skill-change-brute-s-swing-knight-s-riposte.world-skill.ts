@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const skillChangeBruteSSwingKnightSRiposte = {
   id: "01a0657d-02c5-72fc-be0a-f1375e3201b8",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const weaponExtendedRange5Feet = {
   id: "01a0657d-032d-7a0c-9ffe-2a148b3b2c62",

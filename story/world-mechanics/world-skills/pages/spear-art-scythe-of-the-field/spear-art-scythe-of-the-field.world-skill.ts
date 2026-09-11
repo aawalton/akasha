@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const spearArtScytheOfTheField = {
   id: "01a0657d-02c7-7ecf-8cce-ff44dff315a9",

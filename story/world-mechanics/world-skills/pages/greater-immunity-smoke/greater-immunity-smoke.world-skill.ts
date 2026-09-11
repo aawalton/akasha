@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const greaterImmunitySmoke = {
   id: "01a06575-9817-7722-8c15-3a109c4409f9",

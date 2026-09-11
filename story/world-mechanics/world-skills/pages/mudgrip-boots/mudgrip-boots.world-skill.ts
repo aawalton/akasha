@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const mudgripBoots = {
   id: "01a0657d-0270-7dbb-bf4c-238b7452ea7a",

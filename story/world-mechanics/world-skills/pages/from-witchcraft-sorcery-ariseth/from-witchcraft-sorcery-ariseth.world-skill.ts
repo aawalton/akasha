@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const fromWitchcraftSorceryAriseth = {
   id: "01a06575-9811-7fe5-8225-9f61b9813353",

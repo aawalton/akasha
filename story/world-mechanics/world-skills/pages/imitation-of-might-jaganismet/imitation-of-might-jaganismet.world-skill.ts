@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const imitationOfMightJaganismet = {
   id: "01a06575-981c-7c04-a323-fb9312882d27",

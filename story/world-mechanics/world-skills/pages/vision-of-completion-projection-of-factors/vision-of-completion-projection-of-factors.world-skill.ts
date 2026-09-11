@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const visionOfCompletionProjectionOfFactors = {
   id: "01a0657d-0320-7161-b619-d76f9dace135",

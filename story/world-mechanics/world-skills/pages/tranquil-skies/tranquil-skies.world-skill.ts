@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const tranquilSkies = {
   id: "01a0657d-0316-780c-aa2c-5ebc1f4d5d87",

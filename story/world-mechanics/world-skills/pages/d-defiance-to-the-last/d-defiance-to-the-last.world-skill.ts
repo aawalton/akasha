@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const dDefianceToTheLast = {
   id: "01a06575-9800-7047-b9c4-5c8aa4b21df6",

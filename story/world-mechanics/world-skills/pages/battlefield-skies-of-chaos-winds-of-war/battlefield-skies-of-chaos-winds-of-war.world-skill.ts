@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const battlefieldSkiesOfChaosWindsOfWar = {
   id: "01a06575-97f4-7892-a0cd-5bbfca0f8ea7",

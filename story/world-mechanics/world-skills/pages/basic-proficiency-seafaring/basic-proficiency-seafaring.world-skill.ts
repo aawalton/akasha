@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const basicProficiencySeafaring = {
   id: "01a06575-97f4-7249-83b6-c440714774d2",

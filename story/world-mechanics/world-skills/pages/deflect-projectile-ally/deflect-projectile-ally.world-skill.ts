@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.types.ts"
+import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world-skill.page-type.types.ts"
 
 export const deflectProjectileAlly = {
   id: "01a06575-9802-70f6-9ec5-0fa447f839fe",
