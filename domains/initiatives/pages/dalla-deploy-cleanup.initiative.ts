@@ -9,11 +9,6 @@ export const dallaDeployCleanup = {
   persona: "dalla",
   intents: [
     {
-      statement: "Everything that is deployed has a service page.",
-      workingMemory:
-        "`deploy-kind-reading` reads seven kinds: web-app, ios-app, service-cluster, service-workstation, service-inference, container-recipe and eso-addon. Three of those are service pages already. A web app, an ios app, a container recipe and an eso addon are not.\n",
-    },
-    {
       statement: "A deploy happens at a specific commit, not at HEAD.",
       workingMemory:
         "`--ref` belongs to an ios app alone, and an ios deploy naming none is refused where a tracked file differs from HEAD. The deploy help says a pod builds from the commit HEAD is at, and a workstation service, an inference service and an eso addon are put up from the checkout.\n",

@@ -99,6 +99,10 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement: "Every kind a deploy puts up is a service.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which kind of thing a slug names settles how that thing is put up.",
     },
     {
