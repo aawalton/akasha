@@ -1,4 +1,4 @@
-import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
+import type { SeatMode } from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
 
 export type AgentKind = "seat" | "subagent"
 
