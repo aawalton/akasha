@@ -40,6 +40,14 @@ const LOOSE = `${WORK_AT}
 export const held = 1
 `
 
+const REACHING_AT =
+  'import type { Reach, Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"'
+
+const REACHING = `${REACHING_AT}
+
+export const work: Work<Collection, number> = () => 1
+`
+
 type Caught = { at: string; given: Record<string, unknown> }
 
 function worldFor(
@@ -84,6 +92,19 @@ test("the type named is imported from beside the property", async () => {
   expect(String(seen[1]?.given ? (seen[1]?.given as { new: string }).new : "")).toContain(
     'import type { TotalRemaining } from "akasha/held/ones/properties/total-remaining.computed-property.types.ts"'
   )
+})
+
+test("a calculation taking a reach as well is named beside the shape it takes", async () => {
+  const seen: Caught[] = []
+
+  const said = await changeCalculationHeldType(worldFor(catching(seen), { [CODE]: REACHING }), {})
+
+  expect(said.refused).toBeNull()
+  expect(seen[1]?.given).toEqual({
+    at: CODE,
+    new: `import type { TotalRemaining } from "akasha/held/ones/properties/total-remaining.computed-property.types.ts"\n${REACHING_AT}`,
+    old: REACHING_AT,
+  })
 })
 
 test("a calculation already naming that type is passed over", async () => {

@@ -33,6 +33,10 @@ export const changeCalculationHeldType = {
     },
     {
       invariantKind: "departure",
+      statement: "The type is named beside whatever else the calculation takes that shape from.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A code file exporting no such calculation is refused rather than passed over.",
     },
     {

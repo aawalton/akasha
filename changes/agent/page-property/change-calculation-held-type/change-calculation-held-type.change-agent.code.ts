@@ -27,22 +27,25 @@ const UNDER = "under"
 
 const PACKAGE = "akasha/"
 
-const WORK_AT =
-  'import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"'
+const WORK_FROM =
+  /import type \{[^}]*\} from "akasha\/pages\/computed-properties\/computed-property\.page-type\.ts"/
 
-const WORKED = /export const work: Work<\s*([\w]+)\s*,\s*([^<>]+?)\s*>/
+const WORKED = /export const work: Work<\s*([\w]+)\s*,\s*([^<>]+?)\s*>/d
 
 type Worked = {
-  readonly page: string
+  readonly said: string
   readonly held: string
+  readonly from: number
+  readonly upto: number
 }
 
 function workedIn(text: string): Worked | null {
   const found = WORKED.exec(text)
-  const page = found?.[1]
-  const held = found?.[2]
-  if (page === undefined || held === undefined) return null
-  return { page, held }
+  if (found === null) return null
+  const held = found[2]
+  const span = found.indices?.[2]
+  if (held === undefined || span === undefined) return null
+  return { from: span[0] - found.index, held, said: found[0], upto: span[1] - found.index }
 }
 
 function calculationsIn(world: World, under: string | undefined): readonly string[] {
@@ -88,17 +91,19 @@ export async function changeCalculationHeldType(
     left += 1
     const told = await reach(over, CHANGE_CODE, {
       at: code,
-      new: `export const work: Work<${worked.page}, ${named}>`,
-      old: `export const work: Work<${worked.page}, ${worked.held}>`,
+      new: `${worked.said.slice(0, worked.from)}${named}${worked.said.slice(worked.upto)}`,
+      old: worked.said,
     })
     if (told.said.refused !== null)
       return refusing(`\`${code}\` is refused, and ${told.said.refused}`)
     over = told.world
     answers.push(told.said)
+    const drawn = WORK_FROM.exec(text)
+    if (drawn === null) return refusing(`\`${code}\` takes the calculation shape from nowhere`)
     const shown = await reach(over, CHANGE_CODE, {
       at: code,
-      new: `import type { ${named} } from "${PACKAGE}${typesAt}"\n${WORK_AT}`,
-      old: WORK_AT,
+      new: `import type { ${named} } from "${PACKAGE}${typesAt}"\n${drawn[0]}`,
+      old: drawn[0],
     })
     if (shown.said.refused !== null)
       return refusing(`\`${code}\` is refused, and ${shown.said.refused}`)
