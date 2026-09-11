@@ -2,17 +2,12 @@
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
-import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { textConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
 import { useEffect, useState } from "react"
-
-function asText(value: PropertyValue): string {
-  if (value == null || typeof value === "object") return ""
-  return String(value)
-}
 
 function CommitOnlyInputBadge({
   value,
@@ -51,7 +46,7 @@ export function TextPropertyBadge({
   editable,
   onPropertyChange,
 }: PropertyBadgeProps) {
-  const str = asText(value)
+  const str = scalarText(value) ?? ""
   const config = parseConfig(textConfigSchema, property.config, {})
   const variant =
     resolveBadgeVariant(property, str) ??

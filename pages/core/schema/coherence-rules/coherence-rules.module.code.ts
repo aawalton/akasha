@@ -1,3 +1,4 @@
+import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
 import { z } from "zod"
 
 const ValueInRuleSchema = z
@@ -62,12 +63,6 @@ function isMeaningfullyPresent(value: unknown): boolean {
   if (typeof value === "string") return value.length > 0
   if (Array.isArray(value)) return value.some((e) => typeof e === "string" && e.length > 0)
   return true
-}
-
-function scalarText(value: unknown): string | null {
-  if (typeof value === "string") return value
-  if (typeof value === "number" || typeof value === "boolean") return String(value)
-  return null
 }
 
 const NUMERIC_TEXT = /^-?[0-9]+(\.[0-9]+)?$/

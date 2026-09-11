@@ -3,17 +3,12 @@ import type {
   PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-
-function textOf(value: unknown): string | null {
-  if (typeof value === "string") return value
-  if (typeof value === "number" || typeof value === "boolean") return String(value)
-  return null
-}
+import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
 
 function textsOf(values: readonly unknown[]): readonly string[] | null {
   const out: string[] = []
   for (const one of values) {
-    const said = textOf(one)
+    const said = scalarText(one)
     if (said === null) return null
     out.push(said)
   }
@@ -34,7 +29,7 @@ export function loweredFrom(condition: PageCondition): Lowered {
   const noList = { refused: `\`${key}\` is tested against a list holding what is no string` }
   if ("eq" in condition) {
     if (condition.eq === null) return { key, test: { empty: true } }
-    const one = textOf(condition.eq)
+    const one = scalarText(condition.eq)
     return one === null ? noScalar : { key, test: { is: one } }
   }
   if ("isNull" in condition) return { key, test: { empty: true } }
@@ -49,28 +44,28 @@ export function loweredFrom(condition: PageCondition): Lowered {
     return many === null ? noList : { key, test: { "not-in": many } }
   }
   if ("neq" in condition) {
-    const one = textOf(condition.neq)
+    const one = scalarText(condition.neq)
     return one === null ? noScalar : { key, test: { "not-in": [one] } }
   }
   if ("contains" in condition) return { key, test: { contains: condition.contains } }
   if ("includes" in condition) {
-    const one = textOf(condition.includes)
+    const one = scalarText(condition.includes)
     return one === null ? noScalar : { key, test: { has: one } }
   }
   if ("lt" in condition) {
-    const one = textOf(condition.lt)
+    const one = scalarText(condition.lt)
     return one === null ? noScalar : { key, test: { before: one } }
   }
   if ("lte" in condition) {
-    const one = textOf(condition.lte)
+    const one = scalarText(condition.lte)
     return one === null ? noScalar : { key, test: { "at-or-before": one } }
   }
   if ("gt" in condition) {
-    const one = textOf(condition.gt)
+    const one = scalarText(condition.gt)
     return one === null ? noScalar : { key, test: { after: one } }
   }
   if ("gte" in condition) {
-    const one = textOf(condition.gte)
+    const one = scalarText(condition.gte)
     return one === null ? noScalar : { key, test: { "at-or-after": one } }
   }
   return {

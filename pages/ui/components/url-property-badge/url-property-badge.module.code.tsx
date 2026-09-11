@@ -3,15 +3,10 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
 import { hostIn } from "akasha/design/interfaces/badges/url-badge/url-badge.module.code.tsx"
-import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
 import { ExternalLink } from "lucide-react"
 import { useEffect, useState } from "react"
-
-function asUrl(value: PropertyValue): string {
-  if (value == null || typeof value === "object") return ""
-  return String(value)
-}
 
 function CommitOnlyUrlBadge({
   value,
@@ -49,7 +44,7 @@ export function UrlPropertyBadge({
   editable,
   onPropertyChange,
 }: PropertyBadgeProps) {
-  const str = asUrl(value)
+  const str = scalarText(value) ?? ""
   const variant = property.accent ? "accent" : "elevation-muted"
 
   if (editable && onPropertyChange && context !== "card") {
