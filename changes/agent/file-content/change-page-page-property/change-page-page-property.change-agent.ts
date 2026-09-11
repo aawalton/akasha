@@ -7,7 +7,7 @@ export const changePagePageProperty = {
   slug: "change-page-page-property",
   changeMode: "change-mode-change",
   definition:
-    "one property of one page stated anew, by the mechanical change fitting that property",
+    "the whole value of one property of one page stated anew, by the mechanical change fitting it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,6 +26,18 @@ export const changePagePageProperty = {
     {
       invariantKind: "departure",
       statement: "A path the world names no page at is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The value under the key is stated anew whole rather than a passage of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument this change does not take is refused by the key naming it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the whole value under the key is stated anew.",
     },
     {
       invariantKind: "absence",

@@ -16,6 +16,12 @@ const KEY = "key"
 
 const TO = "to"
 
+const TAKEN: ReadonlySet<string> = new Set([AT, KEY, TO])
+
+function untaken(said: string): string {
+  return `\`${said}\` is no argument this change takes, and \`to\` states the whole value anew`
+}
+
 export type ChangePagePropertyAsked = {
   readonly at: string
   readonly key: string
@@ -43,6 +49,9 @@ export async function changePageProperty(
 export type Asked = Readonly<Record<string, string>>
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
+  for (const said of Object.keys(given)) {
+    if (!TAKEN.has(said)) return refusing(untaken(said))
+  }
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const key = given[KEY]

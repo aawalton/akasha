@@ -83,6 +83,19 @@ test("a key naming no relation is stated anew with no page reached", async () =>
   expect(bodyOf(said, () => BODY)).toContain(`slug: "other"`)
 })
 
+test("an argument this change does not take is refused by the key naming it", async () => {
+  const said = await runChange(worldTold("slug", null), {
+    at: AT,
+    key: "slug",
+    is: "words this page states nowhere",
+    to: "other",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/`is` is no argument this change takes/)
+  expect(said.refused ?? "").toMatch(/`to` states the whole value anew/)
+})
+
 test("an argument this change was handed no value for is refused by the key", async () => {
   const said = await runChange(worldTold("slug", null), { key: "slug" })
 
