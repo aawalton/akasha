@@ -19,7 +19,7 @@ const INTENT_MARK = "#"
 
 const PUT_BACK = "so writing it would put back what moved in between"
 
-const MOVED_UNDERFOOT = "that moved while you were dragging — nothing was changed"
+export const MOVED_UNDERFOOT = "that moved while you were dragging — nothing was changed"
 
 export type Keyed = {
   readonly slug: string
@@ -111,8 +111,8 @@ export function movedUnderfoot(thrown: string): boolean {
   return thrown.includes(PUT_BACK)
 }
 
-export function shownSaid(why: string, thrown: string): string {
-  return movedUnderfoot(thrown) ? MOVED_UNDERFOOT : why
+export function shownSaid(why: string, thrown: string, moved: string): string {
+  return movedUnderfoot(thrown) ? moved : why
 }
 
 export interface WorkDropWatch {
@@ -153,7 +153,8 @@ export function createWorkDragging(
       watch.refused(order.slug)
       const why = failureSaid(order, String(thrown))
       say(`[drop] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
+      const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
+      void editor.window.showErrorMessage(`Work: ${shown}`)
     }
     return undefined
   }
@@ -172,7 +173,8 @@ export function createWorkDragging(
       watch.refused(handing.from)
       const why = handFailureSaid(handing, String(thrown))
       say(`[drop] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
+      const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
+      void editor.window.showErrorMessage(`Work: ${shown}`)
     }
     return undefined
   }

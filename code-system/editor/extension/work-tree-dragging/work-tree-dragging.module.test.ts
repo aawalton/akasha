@@ -8,6 +8,7 @@ import {
   handingOf,
   initiativeOf,
   keyedAs,
+  MOVED_UNDERFOOT,
   movedUnderfoot,
   orderingOf,
   shownSaid,
@@ -230,12 +231,12 @@ test("a refusal is read as a body that moved by the words the freshness rules cl
 })
 
 test("a drop refused because the body moved is said to Alan as one sentence", () => {
-  expect(shownSaid(failureSaid(ORDER, REFUSED), REFUSED)).toBe(
+  expect(shownSaid(failureSaid(ORDER, REFUSED), REFUSED, MOVED_UNDERFOOT)).toBe(
     "that moved while you were dragging — nothing was changed"
   )
 })
 
 test("every other refusal reaches Alan in the words that refusal was made in", () => {
   const why = failureSaid(ORDER, "Error: it broke")
-  expect(shownSaid(why, "Error: it broke")).toBe(why)
+  expect(shownSaid(why, "Error: it broke", MOVED_UNDERFOOT)).toBe(why)
 })

@@ -4,7 +4,7 @@ import {
 } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
 import {
   keyedAs,
-  movedUnderfoot,
+  shownSaid,
 } from "akasha/code-system/editor/extension/work-tree-dragging/work-tree-dragging.module.code.ts"
 
 const INTENT_MODULE = "initiative-delete-intent"
@@ -18,10 +18,6 @@ const INITIATIVE_EXPORT = "initiativeDelete"
 const CONFIRM = "Delete"
 
 const MOVED_UNDERFOOT = "that moved while you were deleting it — nothing was deleted"
-
-export function shownSaid(why: string, thrown: string): string {
-  return movedUnderfoot(thrown) ? MOVED_UNDERFOOT : why
-}
 
 export type Calling = (
   module: string,
@@ -106,7 +102,8 @@ export function deletingInitiative(
       watch.stayed(slug)
       const why = initiativeFailureSaid(slug, String(thrown))
       say(`[delete initiative] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
+      const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
+      void editor.window.showErrorMessage(`Work: ${shown}`)
     }
     return undefined
   }
@@ -132,7 +129,8 @@ export function deletingIntent(
       watch.stayed(one.slug)
       const why = intentFailureSaid(one, String(thrown))
       say(`[delete intent] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
+      const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
+      void editor.window.showErrorMessage(`Work: ${shown}`)
     }
     return undefined
   }

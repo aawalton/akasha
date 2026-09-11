@@ -145,6 +145,10 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
+      statement: "The sentence said in place of that refusal is handed over rather than held here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every other refusal reaches Alan in the words that refusal was made in.",
     },
     {
