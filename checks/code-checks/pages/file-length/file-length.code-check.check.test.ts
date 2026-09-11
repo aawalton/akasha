@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { symlinkSync } from "node:fs"
+import { join } from "node:path"
 import { fileLength } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.check.code.ts"
 import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import {
@@ -13,6 +15,12 @@ import { writing } from "akasha/commands/modules/scratching/scratching.module.te
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const HELD = "akasha/held.ts"
+
+const TARGET_NAME = "target.md"
+
+const TARGET = `akasha/${TARGET_NAME}`
+
+const LINK = "akasha/linked.module.code.ts"
 
 const UNDER = "seat/pages/one-a1.workspace"
 
@@ -56,4 +64,22 @@ test("the check lets off the draft and refuses the file no property lets off", (
   const both = onDisk(root)
   const change = { root, changed: [DRAFT, NOTED], before: both, after: both }
   expect(fileLength(change, shadowAt(root)).map((one) => one.path)).toEqual([NOTED])
+})
+
+test("the check measures a link by the body that link opens", () => {
+  const root = seeded({ fileName: LOCKFILE })
+  writing(root, TARGET, "a".repeat(CEILING + 1))
+  symlinkSync(TARGET_NAME, join(root, LINK))
+  const both = onDisk(root)
+  const change = { root, changed: [LINK], before: both, after: both }
+  expect(fileLength(change, shadowAt(root)).map((one) => one.path)).toEqual([LINK])
+})
+
+test("the check has no length to judge for a link opening onto nothing", () => {
+  const root = seeded({ fileName: LOCKFILE })
+  writing(root, TARGET, "a".repeat(CEILING + 1))
+  symlinkSync("gone.md", join(root, LINK))
+  const both = onDisk(root)
+  const change = { root, changed: [LINK], before: both, after: both }
+  expect(fileLength(change, shadowAt(root))).toEqual([])
 })

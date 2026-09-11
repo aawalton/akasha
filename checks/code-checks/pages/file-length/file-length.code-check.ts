@@ -16,11 +16,31 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the audit listed and cannot measure refuses the run.",
+      statement: "A path the audit listed and no longer in the tree refuses the run.",
     },
     {
       invariantKind: "absence",
       statement: "No length is answered for a file the check could not measure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file's length is the length of the body its path opens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is measured by what that link opens rather than by the link.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every phase answers one length for one path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path opening no body has no length to judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path that will not open refuses the run.",
     },
     {
       invariantKind: "departure",

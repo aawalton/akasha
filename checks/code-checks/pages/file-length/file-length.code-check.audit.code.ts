@@ -1,4 +1,4 @@
-import { lstatSync } from "node:fs"
+import { lstatSync, statSync } from "node:fs"
 import { join } from "node:path"
 import {
   exemptIn,
@@ -8,10 +8,14 @@ import { everythingIn } from "akasha/checks/modules/change-walking/change-walkin
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
-function sizeAt(root: string, path: string): number {
-  const held = lstatSync(join(root, path), { throwIfNoEntry: false })
-  if (held === undefined) throw new Error(`${path} was listed in this tree and is not there`)
-  return held.size
+function sizeAt(root: string, path: string): number | null {
+  const at = join(root, path)
+  const held = statSync(at, { throwIfNoEntry: false })
+  if (held !== undefined) return held.isDirectory() ? null : held.size
+  if (lstatSync(at, { throwIfNoEntry: false }) === undefined) {
+    throw new Error(`${path} was listed in this tree and is not there`)
+  }
+  return null
 }
 
 export function fileLength(root: string): readonly Judged[] {
@@ -19,7 +23,9 @@ export function fileLength(root: string): readonly Judged[] {
   const said: Judged[] = []
   for (const path of everythingIn(root).changed) {
     if (exemptIn(path, shadow)) continue
-    for (const reason of reasonsIn(path, sizeAt(root, path))) said.push({ path, reason })
+    const held = sizeAt(root, path)
+    if (held === null) continue
+    for (const reason of reasonsIn(path, held)) said.push({ path, reason })
   }
   return said
 }
