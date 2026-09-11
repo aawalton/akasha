@@ -9,6 +9,7 @@ const ALLOWED = new Set<string>([
   "alan",
   "changes",
   "checks",
+  "code-system",
   "commands",
   "design",
   "domains",
