@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   bodyOf,
   idOf,
@@ -11,10 +12,7 @@ import {
   everythingRead,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import type { Change } from "../change/change.module.code.ts"
-import { valueAt } from "../value/page-value.module.code.ts"
-import { NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
+import { NOT_WORKED_OUT, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   aChange,
   basedAside,
@@ -39,7 +37,9 @@ import {
   TEXT,
   UNFILED_AT,
   unfiled,
-} from "./shadow.module.test-fixtures.ts"
+} from "akasha/pages/shadow/shadow.module.test-fixtures.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 afterAll(scratch.sweep)
 

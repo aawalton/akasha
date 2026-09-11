@@ -1,5 +1,7 @@
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code-system/carried-file/carried-file.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Answering,
   answeringOver,
@@ -7,10 +9,8 @@ import {
 import { readingIn, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import type { Change } from "../change/change.module.code.ts"
-import { partedIn } from "../file-name/page-file-name.module.code.ts"
-import { valueAt, valueIn } from "../value/page-value.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Shadow = {
   readonly index: Answering
