@@ -20,7 +20,7 @@ function UrlBadge({ value, variant = "elevation-muted", className }: UrlBadgePro
       </Badge>
     )
   }
-  const hostname = tryHostname(value)
+  const hostname = hostIn(value)
   return (
     <Badge variant={variant} className={className}>
       {hostname != null ? (
@@ -41,7 +41,7 @@ function UrlBadge({ value, variant = "elevation-muted", className }: UrlBadgePro
   )
 }
 
-function tryHostname(value: string): string | null {
+function hostIn(value: string): string | null {
   try {
     return new URL(value).hostname
   } catch {
@@ -50,4 +50,4 @@ function tryHostname(value: string): string | null {
 }
 
 export type { UrlBadgeProps }
-export { UrlBadge }
+export { hostIn, UrlBadge }

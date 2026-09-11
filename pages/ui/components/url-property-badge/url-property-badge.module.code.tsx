@@ -2,6 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
+import { hostIn } from "akasha/design/interfaces/badges/url-badge/url-badge.module.code.tsx"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { ExternalLink } from "lucide-react"
@@ -10,14 +11,6 @@ import { useEffect, useState } from "react"
 function asUrl(value: PropertyValue): string {
   if (value == null || typeof value === "object") return ""
   return String(value)
-}
-
-function tryHostname(value: string): string | null {
-  try {
-    return new URL(value).hostname
-  } catch {
-    return null
-  }
 }
 
 function CommitOnlyUrlBadge({
@@ -90,7 +83,7 @@ export function UrlPropertyBadge({
       </Badge>
     )
   }
-  const hostname = tryHostname(str)
+  const hostname = hostIn(str)
   return (
     <Badge variant={variant}>
       <span className="inline-flex items-center gap-1">
