@@ -1,5 +1,5 @@
 import type { Filed } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
-import type { Slug } from "../../properties/slug.text-property.types.ts"
+import type { Slug } from "akasha/pages/properties/slug.text-property.types.ts"
 
 const PAGE_TYPE = "page-type"
 

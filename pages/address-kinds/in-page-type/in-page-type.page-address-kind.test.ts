@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { filedInPageType, isInPageType } from "./in-page-type.page-address-kind.code.ts"
+import {
+  filedInPageType,
+  isInPageType,
+} from "akasha/pages/address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
 
 test("an address naming a page type and a property is of this kind", () => {
   expect(isInPageType({ pageTypeSlug: "role", propertySlug: "slug", value: "definer" })).toBe(true)

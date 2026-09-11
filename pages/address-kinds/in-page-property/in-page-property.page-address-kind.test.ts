@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { filedInPageProperty, isInPageProperty } from "./in-page-property.page-address-kind.code.ts"
+import {
+  filedInPageProperty,
+  isInPageProperty,
+} from "akasha/pages/address-kinds/in-page-property/in-page-property.page-address-kind.code.ts"
 
 test("an address naming a scope property and its value is of this kind", () => {
   expect(
