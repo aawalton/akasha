@@ -143,7 +143,8 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a property naming a file says a tool resolves the paths in that file.",
+      statement:
+        "A property naming no file says a tool resolves the paths in each file its section names.",
     },
     {
       invariantKind: "departure",

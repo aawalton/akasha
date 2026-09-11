@@ -214,6 +214,7 @@ export type Facing = Kinded & {
 
 export type Derived = {
   readonly slugs: ReadonlySet<string>
+  readonly resolving: ReadonlySet<string>
   readonly naming: readonly Naming[]
   readonly writers: ReadonlyMap<string, string>
   readonly sections: ReadonlyMap<string, string>
@@ -228,6 +229,7 @@ export function derivedFor(given: Facing): Derived {
   const writers = writersIn(naming, given.carryingOf)
   const made: Derived = {
     slugs: slugsWhere(given, generates, given.carryingOf),
+    resolving: slugsWhere(given, toolResolvesPaths, given.carryingOf),
     naming,
     writers,
     sections: writers.size === 0 ? NO_SECTIONS : sectionsOfGroups(given),
@@ -249,7 +251,9 @@ export function generatedIn(given: Facing, path: string): boolean {
 
 export function toolResolvesPathsIn(given: Facing, path: string): boolean {
   try {
-    return heldBeside(path, derivedFor(given).naming, toolResolvesPaths, given.carryingOf)
+    const held = derivedFor(given)
+    if (sectionHeld(path, held.resolving)) return true
+    return heldBeside(path, held.naming, toolResolvesPaths, given.carryingOf)
   } catch {
     return false
   }

@@ -9,6 +9,7 @@ import {
   type Carried,
   carryingOf,
   type Facing,
+  facingOn,
   generatedAt,
   generatedIn,
   generates,
@@ -308,6 +309,26 @@ test("that section under a page type not carrying the property names no generate
   expect(generatedAt(root, "akasha/two.other.entries.jsonl")).toBe(false)
 })
 
+test("a property naming no file says a tool resolves the paths in each file its section names", () => {
+  const root = rooted()
+  entriesFiled(root, { ...SAYS, toolResolvesPaths: true })
+  expect(toolResolvesPathsIn(facingOn(root), SECTIONED)).toBe(true)
+})
+
+test("a property saying nothing of a tool says nothing of the files its section names", () => {
+  const root = rooted()
+  entriesFiled(root, SAYS)
+  expect(toolResolvesPathsIn(facingOn(root), SECTIONED)).toBe(false)
+})
+
+test("that section under a page type not carrying the property names no file a tool resolves", () => {
+  const root = rooted()
+  entriesFiled(root, { ...SAYS, toolResolvesPaths: true })
+  filed(root, "other", "page-type", OTHER)
+  listedAndValued(root, "other", "two", "akasha/two.other.ts", TWO)
+  expect(toolResolvesPathsIn(facingOn(root), "akasha/two.other.entries.jsonl")).toBe(false)
+})
+
 test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
   expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(true)
 })
@@ -356,16 +377,25 @@ test("what a face says about every file property is worked out once for that fac
   const seen = { reads: 0 }
   const facing = counting(seen)
   expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(2)
+  expect(seen.reads).toBe(3)
   expect(generatedIn(facing, "akasha/two.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(2)
+  expect(seen.reads).toBe(3)
+})
+
+test("a second question asked of one face reads what the first question worked out", () => {
+  const seen = { reads: 0 }
+  const facing = counting(seen)
+  expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
+  expect(seen.reads).toBe(3)
+  expect(toolResolvesPathsIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
+  expect(seen.reads).toBe(3)
 })
 
 test("a face built again works out what it says about every file property again", () => {
   const seen = { reads: 0 }
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(4)
+  expect(seen.reads).toBe(6)
 })
 
 test("the folder a file is beside is the one the index says the carrying page sits in", () => {
