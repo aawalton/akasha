@@ -1,4 +1,5 @@
 import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { parseRetryAfterMs } from "akasha/agents/models/gateway/modules/server-error/server-error.module.code.ts"
 import { z } from "zod"
 
 export const OAUTH_TOKEN_URL = "https://platform.claude.com/v1/oauth/token"
@@ -105,13 +106,6 @@ export const MAX_AT_LIMIT_BACKOFF_MS = 5 * 3_600_000
 type AtLimitExpiryArgs = {
   now: number
   retryAfterHeader: string | null
-}
-
-function parseRetryAfterMs(header: string | null): number | null {
-  if (header == null || header.trim() === "") return null
-  const seconds = Number(header)
-  if (!Number.isFinite(seconds) || seconds <= 0) return null
-  return seconds * 1000
 }
 
 export function backoffExpiryMs(

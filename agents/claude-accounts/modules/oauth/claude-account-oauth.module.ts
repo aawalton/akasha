@@ -256,10 +256,6 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "gap",
-      statement: "The `Retry-After` parser here is spelled a second time in `server-error`.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A `Retry-After` holding an HTTP date backs off the default instead.",
     },
     {

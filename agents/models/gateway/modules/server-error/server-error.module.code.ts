@@ -43,7 +43,7 @@ export function isServerError(status: number, body: string): boolean {
   return classifyServerError(status, body).matched
 }
 
-function parseRetryAfterMs(header: string | null): number | null {
+export function parseRetryAfterMs(header: string | null): number | null {
   if (header == null || header.trim() === "") return null
   const seconds = Number(header)
   if (!Number.isFinite(seconds) || seconds <= 0) return null
