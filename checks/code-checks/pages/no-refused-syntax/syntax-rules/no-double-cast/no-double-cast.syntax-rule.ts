@@ -38,15 +38,11 @@ export const noDoubleCast = {
       statement: "The angle-bracket spelling is read as `as` is.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A widening held in a variable and asserted in a later statement is not seen.",
     },
     {
-      invariantKind: "gap",
-      statement: "The two sit apart.",
-    },
-    {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement:
         "A helper taking `unknown` and asserting a type is a double cast this rule leaves.",
     },
