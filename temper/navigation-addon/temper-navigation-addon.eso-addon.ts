@@ -359,4 +359,5 @@ export const temperNavigationAddon = {
       statement: "The XML document loads before the Lua bundle.",
     },
   ],
+  deployedCommit: "aacaddc637b99871528a2005e9a2e26a9c67edb9",
 } as const satisfies EsoAddon
