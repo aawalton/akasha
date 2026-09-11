@@ -1,9 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { writing } from "../scratching/scratching.module.test-fixtures.ts"
-import type { Opening } from "./reading.module.code.ts"
+import type { Opening } from "akasha/commands/modules/reading/reading.module.code.ts"
 import {
   ACTING_NAMED,
   agentIdsIn,
@@ -23,7 +21,9 @@ import {
   sameBody,
   seatIn,
   writerIn,
-} from "./reading.module.code.ts"
+} from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

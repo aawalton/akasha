@@ -1,16 +1,26 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  answering,
+  INPUT,
+  OK,
+  outsideOf,
+  saidOf,
+  UNCLASSIFIED,
+} from "akasha/commands/modules/cli/cli.module.code.ts"
+import {
+  CLAUDE_AUTHOR,
+  forgetCommitAuthor,
+} from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
+import { MARKED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { CLAUDE_AUTHOR, forgetCommitAuthor } from "../commit-author/commit-author.module.code.ts"
-import { MARKED } from "../rooting/rooting.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { answering, INPUT, OK, outsideOf, saidOf, UNCLASSIFIED } from "./cli.module.code.ts"
 
 const COMMAND = "command"
 

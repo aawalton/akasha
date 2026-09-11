@@ -1,16 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { repoWith, scratch } from "../landing/landing.module.test-fixtures.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
 import {
   CHECKING_AT,
   gateBuilt,
   INDEXING_AT,
   indexingLoaded,
   NO_GATE,
-} from "./gate-building.module.code.ts"
+} from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { repoWith, scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 afterAll(scratch.sweep)
 

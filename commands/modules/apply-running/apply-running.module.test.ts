@@ -1,20 +1,28 @@
 import { afterAll, expect, test } from "bun:test"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
+  type Folded,
+  folding,
+  runningOver,
+  undone,
+} from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
+import {
+  type Landing,
+  landingFrom,
+} from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing as putting } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
+import {
   nothingFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import { type Landing, landingFrom } from "../edits-landing/edits-landing.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { writing as putting } from "../scratching/scratching.module.test-fixtures.ts"
-import { type Folded, folding, runningOver, undone } from "./apply-running.module.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 

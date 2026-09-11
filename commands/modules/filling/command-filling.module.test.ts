@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { filing, wordFilling } from "./command-filling.module.code.ts"
+import { filing, wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 
 const WANTS = "what to send"
 

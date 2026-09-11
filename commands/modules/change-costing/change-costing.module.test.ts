@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  listedFiled,
-  nothingFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import {
   CHANGE_APPLY_SLUG,
   CHANGE_DRAFT_SLUG,
   commandPageAt,
-} from "./change-costing.module.code.ts"
+} from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
+  listedFiled,
+  nothingFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const COMMAND = "command"
 

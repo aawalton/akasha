@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { subagentIn } from "./change-arguing.module.code.ts"
+import { subagentIn } from "akasha/commands/modules/change-arguing/change-arguing.module.code.ts"
 
 test("a call naming no word names no subagent", () => {
   expect(subagentIn([], "list")).toEqual({ named: null })

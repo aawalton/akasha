@@ -1,7 +1,11 @@
 import { describe, expect, test } from "bun:test"
+import {
+  composingAt,
+  composingIn,
+  recipeAt,
+} from "akasha/commands/modules/recipe-composing/recipe-composing.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { composingAt, composingIn, recipeAt } from "./recipe-composing.module.code.ts"
 
 const ROOT = codeRoot()
 

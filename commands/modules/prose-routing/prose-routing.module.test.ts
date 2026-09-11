@@ -4,7 +4,7 @@ import {
   normalizeRouteValue,
   PROSE_ROUTE_SUFFIX,
   planProseRouteReads,
-} from "./prose-routing.module.code.ts"
+} from "akasha/commands/modules/prose-routing/prose-routing.module.code.ts"
 
 test("a flag carrying prose gains a route named for it, and one taking no value gains none", () => {
   const { flags, synthesized } = expandProseRoutes([

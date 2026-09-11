@@ -1,17 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, renameSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { anythingThere as linkThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import type {
   Adding,
   Moving,
   Removing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as git } from "../../../git/running/git-running.module.code.ts"
-import { bodyIn as bodyOf } from "../change-preparing/change-preparing.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   carriesLock,
   installedIn,
@@ -23,7 +19,11 @@ import {
   NOTHING_INSTALLED,
   NOTHING_LOCKED,
   sameBytes,
-} from "./manifest-locking.module.code.ts"
+} from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { anythingThere as linkThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const scratch = scratchWorld()
 

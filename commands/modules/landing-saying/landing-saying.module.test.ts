@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
-import { counted } from "../../../utils/text/counted/counted.module.code.ts"
-import { UNNAMED } from "../committing/committing.module.code.ts"
-import type { Drafted, Landed } from "../landing/landing.module.code.ts"
+import { UNNAMED } from "akasha/commands/modules/committing/committing.module.code.ts"
+import type { Drafted, Landed } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   committedLine,
   defaultMessage,
@@ -12,7 +11,8 @@ import {
   type Reported,
   reported,
   type Saying,
-} from "./landing-saying.module.code.ts"
+} from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 const LANDED: Landed = {
   base: "held",

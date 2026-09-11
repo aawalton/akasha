@@ -1,9 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  bytesAt,
+  textAt,
+  textOf,
+} from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { bytesAt, textAt, textOf } from "./body-reaching.module.code.ts"
 
 const scratch = scratchWorld()
 

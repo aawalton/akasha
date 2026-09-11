@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import type { Given } from "../calling/calling.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
-import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { builtIn } from "./file-arguing.module.code.ts"
 
 const scratch = scratchWorld()
 

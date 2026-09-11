@@ -1,5 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -13,10 +14,6 @@ import { importersIn, readingIn } from "akasha/pages/indexes/reading/index-readi
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type {
-  Adding,
-  Replacing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
 

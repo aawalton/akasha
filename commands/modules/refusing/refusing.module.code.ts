@@ -1,4 +1,4 @@
-import type { Answer } from "../calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING = "nothing was judged and nothing was written"
 

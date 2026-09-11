@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { flooredTo, linesOf } from "./measure-tabling.module.code.ts"
+import {
+  flooredTo,
+  linesOf,
+} from "akasha/commands/modules/measure-tabling/measure-tabling.module.code.ts"
 
 test("a figure is floored to two places rather than rounded", () => {
   expect(flooredTo(2.703413740236413, 2)).toBe(2.7)

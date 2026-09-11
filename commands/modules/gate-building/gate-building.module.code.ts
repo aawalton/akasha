@@ -2,9 +2,9 @@ import { createRequire } from "node:module"
 import { dirname, join, relative } from "node:path"
 import { fileURLToPath } from "node:url"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Indexing } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
 
 const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 

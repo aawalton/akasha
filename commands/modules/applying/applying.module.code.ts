@@ -1,25 +1,40 @@
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { MEASURING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { preparing } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import {
+  bypassedIn,
+  glassSaid,
+  unloadableIn,
+} from "akasha/commands/modules/committing/committing.module.code.ts"
+import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import {
+  gateBuilt,
+  NO_GATE,
+} from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { landing, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
+import {
+  defaultMessage,
+  formattedSaid,
+} from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
+import { installingIn } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
+import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import {
+  blobIdOf,
+  type Reading,
+  readingIn,
+  recordRead,
+} from "akasha/commands/modules/reading/reading.module.code.ts"
+import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt as textIn, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import type { Given as Arguments } from "../argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { preparing } from "../change-preparing/change-preparing.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import { bypassedIn, glassSaid, unloadableIn } from "../committing/committing.module.code.ts"
-import type { Running } from "../drafting/drafting.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { landing, type Refused } from "../landing/landing.module.code.ts"
-import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
-import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
-import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
-import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
-import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
-import { mistaking } from "../refusing/refusing.module.code.ts"
 
 const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 

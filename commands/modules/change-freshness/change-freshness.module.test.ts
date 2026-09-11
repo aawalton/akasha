@@ -2,9 +2,14 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
-import { said as git } from "../../../git/running/git-running.module.code.ts"
-import { landing } from "../landing/landing.module.code.ts"
+import {
+  commitNamed,
+  movedOnDisk,
+  PUT_BACK,
+  reachedSince,
+  unfresh,
+} from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -12,16 +17,11 @@ import {
   MODULE_AT,
   rowsIn,
   TYPE,
-} from "../landing/landing.module.test-fixtures.ts"
-import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import {
-  commitNamed,
-  movedOnDisk,
-  PUT_BACK,
-  reachedSince,
-  unfresh,
-} from "./change-freshness.module.code.ts"
+} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { blobIdOf, type Reading } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 
 const scratch = scratchWorld()
 

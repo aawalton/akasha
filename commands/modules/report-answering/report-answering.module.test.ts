@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { answeredBy } from "./report-answering.module.code.ts"
+import { answeredBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
 
 test("the lines gathered are the report, with nothing refused", () => {
   const said = answeredBy(() => ["one", "two"])

@@ -1,4 +1,4 @@
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SAID_AT_MOST = 240
 

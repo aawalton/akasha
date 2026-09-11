@@ -1,9 +1,13 @@
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { type Answer, answering, type Given } from "../calling/calling.module.code.ts"
-import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
+import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

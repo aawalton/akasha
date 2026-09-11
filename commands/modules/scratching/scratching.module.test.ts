@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { dirname } from "node:path"
-import { keptAt, SCRATCH_AT, scratchWorld } from "./scratching.module.code.ts"
+import {
+  keptAt,
+  SCRATCH_AT,
+  scratchWorld,
+} from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

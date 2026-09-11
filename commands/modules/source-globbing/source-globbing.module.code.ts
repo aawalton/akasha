@@ -1,5 +1,7 @@
+import type { Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
@@ -7,8 +9,6 @@ import {
   manifestsAmong,
   reachingOf,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 
 const MANIFEST = "package.json"
 

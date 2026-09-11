@@ -6,7 +6,7 @@ import {
   slugOfPart,
   spaced,
   underOf,
-} from "./namespace-listing.module.code.ts"
+} from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 
 const HELP = "--help"
 

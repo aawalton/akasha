@@ -10,7 +10,7 @@ import {
   REMOVE,
   unknownIn,
   valuesOf,
-} from "./command-flags.module.code.ts"
+} from "akasha/commands/modules/flags/command-flags.module.code.ts"
 
 const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 

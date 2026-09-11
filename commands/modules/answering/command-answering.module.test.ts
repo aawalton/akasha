@@ -16,7 +16,7 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "./command-answering.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 
 test("a refusal is the caller's mistake unless the caller names another code", () => {
   expect(refusedBy(["--app names a value"])).toEqual({

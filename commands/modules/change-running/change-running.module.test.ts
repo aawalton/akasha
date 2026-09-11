@@ -3,18 +3,13 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
-  NAMER_CODE,
-  NAMER_PAGE,
-  scratch,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import {
   appending,
   changing,
   owedBy,
   owingBy,
   stamped,
   textIn,
-} from "./change-running.module.code.ts"
+} from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import {
   APPLIED,
   acting,
@@ -49,7 +44,12 @@ import {
   SUB,
   saysApply,
   taking,
-} from "./change-running.module.test-fixtures.ts"
+} from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
+import {
+  NAMER_CODE,
+  NAMER_PAGE,
+  scratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

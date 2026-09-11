@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { quoted } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import {
   type AnalysisInputs,
   type CyclomaticRow,
@@ -10,7 +11,6 @@ import {
   percentile,
   resolveAnalysisInputs,
 } from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
-import { quoted } from "../seat-act-calling/seat-act-calling.module.code.ts"
 
 export const FILE = "--file"
 

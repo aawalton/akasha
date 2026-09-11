@@ -1,9 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { ANSWER_CEILING } from "../../pages/read/long-body/long-body.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { writing } from "../scratching/scratching.module.test-fixtures.ts"
 import {
   bodyOf,
   fits,
@@ -11,7 +8,10 @@ import {
   pointerFor,
   refusalsAt,
   refusalsPut,
-} from "./refusals-keeping.module.code.ts"
+} from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { ANSWER_CEILING } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
 
 const scratch = scratchWorld()
 

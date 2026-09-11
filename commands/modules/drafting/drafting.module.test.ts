@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { headOf, runningOf } from "./drafting.module.code.ts"
+import { headOf, runningOf } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import {
   BOTH_RUN,
   CHECKS_RUN,
@@ -7,7 +7,7 @@ import {
   NOTHING_RUNS,
   repoAt,
   scratch,
-} from "./drafting.module.test-fixtures.ts"
+} from "akasha/commands/modules/drafting/drafting.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

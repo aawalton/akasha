@@ -1,23 +1,23 @@
-import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
-import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type {
   Adding,
   FileChange,
   Moving,
   Replacing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
-import type { Refused } from "../landing/landing.module.code.ts"
-import { changeOf } from "../landing/landing.module.code.ts"
-import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
-import { recipesFor } from "../recipe-composing/recipe-composing.module.code.ts"
-import { globbedFor } from "../source-globbing/source-globbing.module.code.ts"
-import { steppedFor } from "../spacing-stepping/spacing-stepping.module.code.ts"
-import { typesFor } from "../type-generating/type-generating.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
+import { mappedFor } from "akasha/commands/modules/address-mapping/address-mapping.module.code.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { changeOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { lockingFor } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
+import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import { recipesFor } from "akasha/commands/modules/recipe-composing/recipe-composing.module.code.ts"
+import { globbedFor } from "akasha/commands/modules/source-globbing/source-globbing.module.code.ts"
+import { steppedFor } from "akasha/commands/modules/spacing-stepping/spacing-stepping.module.code.ts"
+import { typesFor } from "akasha/commands/modules/type-generating/type-generating.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]

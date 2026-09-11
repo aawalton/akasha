@@ -6,7 +6,7 @@ import {
   judgedOver,
   passedOver,
   reachedIn,
-} from "./judged-saying.module.code.ts"
+} from "akasha/commands/modules/judged-saying/judged-saying.module.code.ts"
 
 const count = (many: number, one: string): string => `${many} ${one}${many === 1 ? "" : "s"}`
 

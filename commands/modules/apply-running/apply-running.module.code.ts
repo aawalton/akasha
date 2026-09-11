@@ -1,3 +1,5 @@
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   droppedFirst,
   editsAt,
@@ -5,29 +7,35 @@ import {
   keptEdits,
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
-import { writtenPathsIn } from "../address-mapping/address-mapping.module.code.ts"
-import { applying, askedIn, type Carried, pathsIn } from "../applying/applying.module.code.ts"
+import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { writtenPathsIn } from "akasha/commands/modules/address-mapping/address-mapping.module.code.ts"
+import {
+  applying,
+  askedIn,
+  type Carried,
+  pathsIn,
+} from "akasha/commands/modules/applying/applying.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
-} from "../argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { waitingSaid } from "../change-acting/change-acting.module.code.ts"
+} from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { waitingSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   APPLY,
   CHANGE_APPLY_SLUG,
   commandPageAt,
-} from "../change-costing/change-costing.module.code.ts"
-import { noPageSaid } from "../change-running/change-running.module.code.ts"
-import { headOf, type Running } from "../drafting/drafting.module.code.ts"
-import { landingFrom } from "../edits-landing/edits-landing.module.code.ts"
-import { inputIn, type Piping } from "../piping/piping.module.code.ts"
-import { mistaking } from "../refusing/refusing.module.code.ts"
-import { allowedAgain, MEASURED_ALLOWED } from "../stopping/command-stopping.module.code.ts"
+} from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
+import { noPageSaid } from "akasha/commands/modules/change-running/change-running.module.code.ts"
+import { headOf, type Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
+import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import {
+  allowedAgain,
+  MEASURED_ALLOWED,
+} from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 

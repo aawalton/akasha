@@ -1,4 +1,5 @@
 import { dirname, relative } from "node:path"
+import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -6,10 +7,6 @@ import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type {
-  Adding,
-  Replacing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
 
 const PAGE_TYPE = "page-type"
 

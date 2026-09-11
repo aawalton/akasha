@@ -1,13 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   forgetting,
   listing,
   listingHanded,
   listingKept,
   taking,
-} from "./change-acting.module.code.ts"
+} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   ALL,
   ANOTHER,
@@ -35,7 +34,8 @@ import {
   repo,
   SUB,
   TOOK,
-} from "./change-acting.module.test-fixtures.ts"
+} from "akasha/commands/modules/change-acting/change-acting.module.test-fixtures.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

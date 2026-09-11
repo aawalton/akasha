@@ -1,8 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { idTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
+import {
+  calling,
+  commandsIn,
+  HELP,
+  HELP_SHORT,
+  type Surface,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
   ANSWERS_LATER,
@@ -16,7 +21,8 @@ import {
   sweep,
   THROWS_NO_ERROR,
   WILL_NOT_LOAD,
-} from "./calling.module.test-fixtures.ts"
+} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import { idTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(sweep)
 

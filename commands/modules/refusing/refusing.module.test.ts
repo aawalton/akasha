@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { mistaking, troubling } from "./refusing.module.code.ts"
+import { mistaking, troubling } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 
 const NOTHING = "nothing was judged and nothing was written"
 

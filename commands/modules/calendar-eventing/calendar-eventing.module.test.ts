@@ -15,7 +15,7 @@ import {
   SUMMARY,
   TO,
   type Wanted,
-} from "./calendar-eventing.module.code.ts"
+} from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
 
 const LISTING: Wanted = {
   takes: [CALENDAR, FROM, TO, QUERY, MAX],

@@ -1,5 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Kind, Surface } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   idFiled,
@@ -7,8 +9,6 @@ import {
   noneOfTypeFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Kind, Surface } from "./calling.module.code.ts"
 
 export const MECHANICAL: Kind = {
   slug: "change-mechanical",

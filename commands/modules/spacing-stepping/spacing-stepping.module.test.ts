@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { bodyFor, stepsIn } from "./spacing-stepping.module.code.ts"
+import {
+  bodyFor,
+  stepsIn,
+} from "akasha/commands/modules/spacing-stepping/spacing-stepping.module.code.ts"
 
 const STATED = [
   ":root {",

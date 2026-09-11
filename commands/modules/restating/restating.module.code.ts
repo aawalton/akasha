@@ -1,6 +1,6 @@
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import { tokensOf } from "akasha/code-system/code-tokens/code-tokens.module.code.ts"
-import { textOf } from "../body-reaching/body-reaching.module.code.ts"
+import { textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 
 export type Interior = {
   readonly start: number

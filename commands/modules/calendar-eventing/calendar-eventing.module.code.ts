@@ -8,9 +8,9 @@ import {
   SEND_UPDATES,
 } from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { Answer } from "../calling/calling.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import { quoted } from "../seat-act-calling/seat-act-calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { quoted } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 export const CALENDAR = "--calendar"
 

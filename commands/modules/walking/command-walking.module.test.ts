@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { saidIn, wordsIn } from "./command-walking.module.code.ts"
+import { saidIn, wordsIn } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 
 test("the words taken down end at the first word that could be no slug", () => {
   expect(wordsIn(["music", "now", "playing"])).toEqual(["music", "now", "playing"])

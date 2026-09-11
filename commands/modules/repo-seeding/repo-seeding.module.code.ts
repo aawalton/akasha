@@ -3,8 +3,22 @@ import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
+import { applyWith } from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { CHANGE_APPLY_SLUG } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
+import {
+  appending,
+  textIn,
+} from "akasha/commands/modules/change-running/change-running.module.code.ts"
+import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   identitiesTakenFrom,
   listedFiled,
@@ -20,17 +34,6 @@ import {
   minting,
 } from "akasha/testing-system/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { applyWith } from "../apply-running/apply-running.module.code.ts"
-import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { CHANGE_APPLY_SLUG } from "../change-costing/change-costing.module.code.ts"
-import { appending, textIn } from "../change-running/change-running.module.code.ts"
-import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
-import { inputIn } from "../piping/piping.module.code.ts"
-import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
-import { mistaking } from "../refusing/refusing.module.code.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"
 

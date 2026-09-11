@@ -1,7 +1,7 @@
 import { lstatSync } from "node:fs"
 import { join } from "node:path"
+import { said as gitIn, told as gitTold } from "akasha/git/running/git-running.module.code.ts"
 import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
-import { said as gitIn, told as gitTold } from "../../../git/running/git-running.module.code.ts"
 
 export function unloadableIn(message: string, broken: string): string {
   return `${message}\nChecks-unloadable: ${broken}`

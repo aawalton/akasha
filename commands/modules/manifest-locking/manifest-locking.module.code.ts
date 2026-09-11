@@ -10,17 +10,17 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
   FileChange,
   Moving,
   Removing,
   Replacing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { argvFor } from "../../../git/running/git-running.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { argvFor } from "akasha/git/running/git-running.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const MANIFEST = "package.json"
 

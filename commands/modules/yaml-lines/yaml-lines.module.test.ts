@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { lines } from "./yaml-lines.module.code.ts"
+import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
 
 test("a body is parted at each newline", () => {
   expect(lines("one\ntwo\n")).toEqual(["one", "two"])

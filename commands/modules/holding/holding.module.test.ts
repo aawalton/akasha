@@ -1,18 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { holding, LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
+import { baseOf, landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import {
+  CARRIED,
+  CARRIED_IN,
+} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import {
   idFiledIn,
   listedFiledIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as git } from "../../../git/running/git-running.module.code.ts"
-import { baseOf, landing } from "../landing/landing.module.code.ts"
-import { CARRIED, CARRIED_IN } from "../landing/landing.module.test-fixtures.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { holding, LOCK_AT } from "./holding.module.code.ts"
 
 const HOLDING_AT = join(import.meta.dir, "holding.module.code.ts")
 

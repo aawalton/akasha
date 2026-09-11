@@ -1,8 +1,13 @@
 import { expect, test } from "bun:test"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import {
+  markedLine,
+  markingIn,
+  passagesIn,
+  pipedIn,
+} from "akasha/commands/modules/piping/piping.module.code.ts"
+import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import type { Piping } from "./piping.module.code.ts"
-import { markedLine, markingIn, passagesIn, pipedIn } from "./piping.module.code.ts"
-import { TERMINAL } from "./piping.module.test-fixtures.ts"
 
 const INSTEAD = "`--old-file` and `--new-file`"
 

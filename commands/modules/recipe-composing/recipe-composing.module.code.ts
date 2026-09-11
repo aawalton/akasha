@@ -1,15 +1,12 @@
 import { createRequire } from "node:module"
 import { basename, dirname, join } from "node:path"
+import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type {
-  Adding,
-  Replacing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
 
 const RECIPE = "container-recipe"
 

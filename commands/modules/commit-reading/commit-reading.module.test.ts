@@ -1,10 +1,17 @@
 import { expect, test } from "bun:test"
 import { spawn } from "node:child_process"
+import {
+  bodyAt,
+  readingEnded,
+} from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import {
+  git,
+  gitOver,
+  repoWith,
+} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
-import { git, gitOver, repoWith } from "../landing/landing.module.test-fixtures.ts"
-import { bodyAt, readingEnded } from "./commit-reading.module.code.ts"
 
 const MODULE_AT = new URL("./commit-reading.module.code.ts", import.meta.url).pathname
 

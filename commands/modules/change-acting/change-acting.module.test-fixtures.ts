@@ -1,3 +1,5 @@
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsIn,
@@ -6,19 +8,17 @@ import {
   handedFrom,
   pageOf,
 } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
-import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import type { Answer } from "../calling/calling.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
-import { mistaking } from "../refusing/refusing.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   DROP_WORDS,
   dropping,
   forgetting,
   pipedPathsIn,
   taking,
-} from "./change-acting.module.code.ts"
+} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 

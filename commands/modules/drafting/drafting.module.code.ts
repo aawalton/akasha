@@ -1,5 +1,5 @@
-import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import type { Kind } from "../calling/calling.module.code.ts"
+import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 
 export type Running = {
   readonly checks: boolean

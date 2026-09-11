@@ -7,7 +7,7 @@ import {
   reachedFrom,
   rolledTo,
   spelledFrom,
-} from "./source-globbing.module.code.ts"
+} from "akasha/commands/modules/source-globbing/source-globbing.module.code.ts"
 
 const ENTRY = "one/app/app-look/app-look.stylesheet.styles.css"
 

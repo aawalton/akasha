@@ -1,8 +1,8 @@
-import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import type { Kind } from "../calling/calling.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { writing } from "../scratching/scratching.module.test-fixtures.ts"
-import type { Running } from "./drafting.module.code.ts"
+import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 
 export const ONE = "akasha/one.page.ts"
 export const TWO = "akasha/two.page.ts"

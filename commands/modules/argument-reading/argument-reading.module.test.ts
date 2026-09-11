@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readingIn } from "./argument-reading.module.code.ts"
+import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 
 function given(text: string): Readonly<Record<string, string>> {
   const said = readingIn(text)

@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { MARKED, rootOf } from "./rooting.module.code.ts"
+import { MARKED, rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const REFUSED = "is under no akasha folder"
 

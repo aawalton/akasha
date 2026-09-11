@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 
 export type Reached =
   | { readonly bytes: Uint8Array }

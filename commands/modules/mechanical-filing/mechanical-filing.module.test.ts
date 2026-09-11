@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../calling/calling.module.code.ts"
-import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
-import { askedFor, filing } from "./mechanical-filing.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  askedFor,
+  filing,
+} from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
+import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 
 const GIVEN: Given = {
   root: "/repo",

@@ -1,12 +1,12 @@
 import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
 import { resolve } from "node:path"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer, Outside } from "../calling/calling.module.code.ts"
-import { calling } from "../calling/calling.module.code.ts"
-import { commitAuthor } from "../commit-author/commit-author.module.code.ts"
-import { writerIn } from "../reading/reading.module.code.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
+import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { commitAuthor } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
+import { writerIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const OK = 0
 

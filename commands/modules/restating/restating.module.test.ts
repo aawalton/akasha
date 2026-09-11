@@ -5,7 +5,7 @@ import {
   movedMoreThanWords,
   spliced,
   unrestatedIn,
-} from "./restating.module.code.ts"
+} from "akasha/commands/modules/restating/restating.module.code.ts"
 
 const NO_BIOME = "/nowhere/no-such-root-for-restating"
 

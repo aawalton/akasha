@@ -1,12 +1,23 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { removePage } from "akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { handedFrom } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
 import {
   type Loaded,
   loadedAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Applying,
+  type Chosen,
+  changing,
+  type Over,
+} from "akasha/commands/modules/change-running/change-running.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import {
   idOf,
   indexedRepo,
@@ -14,12 +25,6 @@ import {
   NAMER_PAGE,
   pageOf,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../changes/modules/shadow/change-shadow.module.code.ts"
-import type { Answer } from "../calling/calling.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
-import { type Applying, type Chosen, changing, type Over } from "./change-running.module.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 

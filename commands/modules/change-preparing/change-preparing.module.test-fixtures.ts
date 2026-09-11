@@ -1,7 +1,11 @@
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  ADMITS_AT,
+  REPO_AT,
+  repoWith,
+} from "akasha/commands/modules/repo-seeding/repo-seeding.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { ADMITS_AT, REPO_AT, repoWith } from "../repo-seeding/repo-seeding.module.code.ts"
 
 const MODULES = "node_modules"
 

@@ -1,8 +1,12 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitIn, told } from "../../../git/running/git-running.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import {
+  blobIdOf,
+  type Reading,
+  sameBody,
+} from "akasha/commands/modules/reading/reading.module.code.ts"
+import { said as gitIn, told } from "akasha/git/running/git-running.module.code.ts"
 
 const HERE = "."
 

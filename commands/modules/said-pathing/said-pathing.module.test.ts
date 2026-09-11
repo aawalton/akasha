@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   barredIn,
   GIT_DIR,
@@ -8,7 +6,9 @@ import {
   outsideRoot,
   pathAt,
   writesOutside,
-} from "./said-pathing.module.code.ts"
+} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,11 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { noImportersFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import type { Running } from "../drafting/drafting.module.code.ts"
-import { landing } from "../landing/landing.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  applied,
+  askedIn,
+  type Carried,
+  messageFor,
+} from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -17,9 +21,10 @@ import {
   repoWith,
   rowsIn,
   scratch,
-} from "../landing/landing.module.test-fixtures.ts"
-import { readingIn } from "../reading/reading.module.code.ts"
-import { applied, askedIn, type Carried, messageFor } from "./applying.module.code.ts"
+} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { readingIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
+import { noImportersFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 

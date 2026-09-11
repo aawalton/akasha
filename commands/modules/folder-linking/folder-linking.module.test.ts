@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, readlinkSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { atHome, linkedOver } from "./folder-linking.module.code.ts"
+import {
+  atHome,
+  linkedOver,
+} from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

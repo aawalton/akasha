@@ -1,20 +1,20 @@
-import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
-import { formattedBodies } from "akasha/code-system/code-format/code-format.module.code.ts"
 import {
   type BodyOf,
   NOT_TEXT,
   notText,
   pathsOf,
   replayed,
-} from "../../../changes/modules/answer/change-answer.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,
   Answer as Said,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { formattedBodies } from "akasha/code-system/code-format/code-format.module.code.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 
 const BYTES = new TextEncoder()
 

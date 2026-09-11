@@ -1,11 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bodyRead, differenceOf } from "akasha/commands/modules/differing/differing.module.code.ts"
+import { blobIdOf } from "akasha/commands/modules/reading/reading.module.code.ts"
+import {
+  SCRATCH_AT,
+  scratchWorld,
+} from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { bytesOf as bodyOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
-import { blobIdOf } from "../reading/reading.module.code.ts"
-import { SCRATCH_AT, scratchWorld } from "../scratching/scratching.module.code.ts"
-import { bodyRead, differenceOf } from "./differing.module.code.ts"
 
 const scratch = scratchWorld()
 

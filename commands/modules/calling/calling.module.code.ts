@@ -1,5 +1,27 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
+import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import {
+  type Held,
+  listingOf,
+  partsOf,
+  slugOfPart,
+  spaced,
+  underOf,
+  widest,
+} from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+import {
+  secondsIn,
+  watching,
+} from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+import {
+  type Reached,
+  saidIn,
+  walkingIn,
+} from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
+import type { HelpNotes } from "akasha/commands/properties/help-notes.text-property.types.ts"
+import type { Taking } from "akasha/commands/properties/taking.record-property.types.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
@@ -9,22 +31,7 @@ import {
   slugsOfType,
   typeSlugById,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import { indexRefresh } from "../../pages/index/refresh/index-refresh.command.code.ts"
-import type { HelpNotes } from "../../properties/help-notes.text-property.types.ts"
-import type { Taking } from "../../properties/taking.record-property.types.ts"
-import {
-  type Held,
-  listingOf,
-  partsOf,
-  slugOfPart,
-  spaced,
-  underOf,
-  widest,
-} from "../namespace-listing/namespace-listing.module.code.ts"
-import { secondsIn, watching } from "../stopping/command-stopping.module.code.ts"
-import { type Reached, saidIn, walkingIn } from "../walking/command-walking.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export type Kind = {
   readonly slug: string
