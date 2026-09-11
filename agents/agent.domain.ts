@@ -13,5 +13,6 @@ export const agent = {
     "domain/hook",
     "page-type/role",
     "module/io-probe",
+    "module/last-said",
   ],
 } as const satisfies Domain
