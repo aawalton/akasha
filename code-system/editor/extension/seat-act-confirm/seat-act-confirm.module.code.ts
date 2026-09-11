@@ -1,4 +1,7 @@
-import type { SeatStep, SeatToggleState } from "../seat-toggles/seat-toggles.module.code.ts"
+import type {
+  SeatStep,
+  SeatToggleState,
+} from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
 
 export type SeatAct = "run-stop" | "run-resume" | "run-reset"
 

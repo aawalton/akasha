@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seatActConfirm = {
   id: "01a0686b-bfe9-7d14-9f46-c9701b005af8",
