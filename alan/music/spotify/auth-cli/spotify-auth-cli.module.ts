@@ -45,5 +45,10 @@ export const spotifyAuthCli = {
       invariantKind: "departure",
       statement: "The call each step names is the file running rather than a path spelled here.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "Nothing compares the state the callback gives back, because Alan copies the code by hand.",
+    },
   ],
 } as const satisfies Module

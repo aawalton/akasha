@@ -87,7 +87,7 @@ test("the second step run with no first step throws", async () => {
 })
 
 test("the second step saves the token and takes the handoff away", async () => {
-  writePkce({ verifier: "a-verifier", state: "a-state" })
+  writePkce({ verifier: "a-verifier" })
   let sent: unknown
   fetchingIs(async (_url, init) => {
     sent = init.body

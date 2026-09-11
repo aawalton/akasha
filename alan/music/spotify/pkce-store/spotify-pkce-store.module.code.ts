@@ -14,7 +14,6 @@ const NAMED = "PKCE handoff"
 export const PkceHandoffSchema = z
   .object({
     verifier: z.string().min(1),
-    state: z.string().min(1),
   })
   .strict()
 

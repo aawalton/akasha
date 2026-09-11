@@ -5,7 +5,7 @@ export const spotifyPkceStore = {
   pageTypeSlug: "module",
   type: "module",
   slug: "spotify-pkce-store",
-  definition: "the verifier and state carried between the consent step and the exchange step",
+  definition: "the verifier carried between the consent step and the exchange step",
   code: "ts",
   test: "ts",
   invariants: [
@@ -23,7 +23,7 @@ export const spotifyPkceStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A handoff has a verifier and a state.",
+      statement: "A handoff has a verifier.",
     },
     {
       invariantKind: "departure",
@@ -36,6 +36,10 @@ export const spotifyPkceStore = {
     {
       invariantKind: "absence",
       statement: "Nothing here creates a verifier.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here keeps the state the authorize URL carries.",
     },
   ],
 } as const satisfies Module

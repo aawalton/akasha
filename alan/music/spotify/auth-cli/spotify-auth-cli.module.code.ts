@@ -66,7 +66,7 @@ function generate(): undefined {
   const { clientId, redirectUri } = getCredentials()
   const { verifier, challenge } = makePkcePair()
   const state = crypto.randomBytes(16).toString("hex")
-  writePkce({ verifier, state })
+  writePkce({ verifier })
   console.log("Step 1 — open this URL in a browser and approve Spotify access:\n")
   console.log(authorizeUrlFor(clientId, redirectUri, state, challenge))
   console.log(
