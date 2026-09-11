@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeForGoodFromWickedForGoodTheSoundtrack = {
   id: "01a0676a-d71e-7024-83ff-965125a2d3e3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-for-good-from-wicked-for-good-the-soundtrack",
   title: "For Good (from Wicked: For Good - The Soundtrack)",

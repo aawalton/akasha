@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraCureForMeAcoustic = {
   id: "01a0676a-d71b-7045-be35-df9a6397005e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-cure-for-me-acoustic",
   title: "Cure for Me (Acoustic)",

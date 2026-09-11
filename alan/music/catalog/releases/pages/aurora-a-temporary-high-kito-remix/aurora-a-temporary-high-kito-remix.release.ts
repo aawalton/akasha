@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraATemporaryHighKitoRemix = {
   id: "01a0676a-d715-7045-8835-4f17e47bca3d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-a-temporary-high-kito-remix",
   title: "A Temporary High (Kito Remix)",

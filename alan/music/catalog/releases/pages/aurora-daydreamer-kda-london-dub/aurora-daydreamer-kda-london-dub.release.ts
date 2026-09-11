@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraDaydreamerKdaLondonDub = {
   id: "01a0676a-d71b-706d-8486-480a48d3ddae",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-daydreamer-kda-london-dub",
   title: "Daydreamer (KDA London Dub)",

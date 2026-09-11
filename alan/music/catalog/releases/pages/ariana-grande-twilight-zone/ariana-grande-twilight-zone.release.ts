@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeTwilightZone = {
   id: "01a0676a-d72f-7026-8f71-bd8fc4a216a7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-twilight-zone",
   title: "twilight zone",

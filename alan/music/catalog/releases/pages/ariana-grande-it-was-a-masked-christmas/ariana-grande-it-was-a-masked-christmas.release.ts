@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeItWasAMaskedChristmas = {
   id: "01a0676a-d722-7018-b274-7eb31efdcf4b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-it-was-a-masked-christmas",
   title: "It Was A… (Masked Christmas)",

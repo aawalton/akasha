@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrande7RingsRemix = {
   id: "01a0676a-d715-7015-b00c-9dbae9c8f092",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-7-rings-remix",
   title: "7 rings (Remix)",

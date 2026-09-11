@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeChristmasChill = {
   id: "01a0676a-d71a-7033-8bfc-5a63842f4d36",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-christmas-chill",
   title: "Christmas & Chill",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeFocus = {
   id: "01a0676a-d71e-7019-baa0-12ddc03d9b26",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-focus",
   title: "Focus",

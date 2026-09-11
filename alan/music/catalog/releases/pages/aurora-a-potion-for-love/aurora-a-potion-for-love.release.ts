@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraAPotionForLove = {
   id: "01a0676a-d715-703a-924b-79f07841e0fa",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-a-potion-for-love",
   title: "A Potion For Love",

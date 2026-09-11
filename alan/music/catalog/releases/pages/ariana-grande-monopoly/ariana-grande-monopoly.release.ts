@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeMonopoly = {
   id: "01a0676a-d724-7080-824a-5ec9aa99ca52",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-monopoly",
   title: "MONOPOLY",

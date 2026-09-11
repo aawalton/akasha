@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrande = {
   id: "01a0676a-d72b-7008-a826-df4cf82f1c7a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
   title: "Sympathy is a knife featuring ariana grande",

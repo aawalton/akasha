@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const alexandriaFireAndIce = {
   id: "01a0676a-d71d-707b-b98c-50993da83f36",
-  pageTypeSlug: "release",
   type: "release",
   slug: "alexandria-fire-and-ice",
   title: "Fire and Ice",

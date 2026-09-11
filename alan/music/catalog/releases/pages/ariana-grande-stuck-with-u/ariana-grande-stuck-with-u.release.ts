@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeStuckWithU = {
   id: "01a0676a-d72a-7035-8319-f8a61923fdcb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-stuck-with-u",
   title: "Stuck with U",

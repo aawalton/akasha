@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeMyEverythingDeluxe = {
   id: "01a0676a-d725-7026-a2ae-d9b9018fb558",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-my-everything-deluxe",
   title: "My Everything (Deluxe)",

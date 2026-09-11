@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeSantaCanTYouHearMeLive = {
   id: "01a0676a-d728-703d-a072-dd8c603e6718",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-santa-can-t-you-hear-me-live",
   title: "Santa, Can’t You Hear Me (Live)",

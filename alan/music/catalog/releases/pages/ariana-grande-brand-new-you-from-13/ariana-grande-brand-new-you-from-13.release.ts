@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const arianaGrandeBrandNewYouFrom13 = {
   id: "01a0676a-d719-702d-a6cb-50a5f5521895",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ariana-grande-brand-new-you-from-13",
   title: 'Brand New You (From "13")',
