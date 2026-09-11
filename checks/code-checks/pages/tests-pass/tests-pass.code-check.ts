@@ -256,6 +256,34 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "What one test file's run cost is recorded beside the page that test file is of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file of one run is recorded under the one run id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that came back unclean is recorded with one refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring run records what each file cost as a judging run does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost is recorded whether the run passed or was refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A cost that could not be recorded leaves the check's answer as that answer was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test file the change brings whose page has not landed is recorded nowhere.",
+    },
+    {
+      invariantKind: "departure",
       statement: "No total holds a run.",
     },
     {

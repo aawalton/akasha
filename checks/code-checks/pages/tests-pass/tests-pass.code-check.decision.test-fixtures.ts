@@ -1,5 +1,6 @@
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import type { Ran, Spent } from "akasha/code/code-tests/code-tests.module.code.ts"
 import { RUNNING } from "akasha/code/code-tests/code-tests.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
@@ -226,6 +227,29 @@ error: after the test ended
 5 expect() calls
 Ran 5 tests across 1 file. [12.00ms]
 `
+
+export function ranAs(
+  verdict: Ran["verdict"],
+  summary: Ran["summary"],
+  output = "",
+  slow: Ran["slow"] = [],
+  cpuSeconds = 0
+): Ran {
+  return { code: 1, signal: null, output, summary, verdict, cpuSeconds, slow, spent: [] }
+}
+
+export function spentAs(path: string, cpuSeconds: number, code: number): Spent {
+  return {
+    path,
+    ranAt: "2026-09-11T00:00:00.000Z",
+    wallMs: 0,
+    cpuSeconds,
+    peakBytes: 0,
+    signal: null,
+    code,
+    out: "",
+  }
+}
 
 export function withGuard<T>(run: () => T): T {
   const held = process.env[RUNNING]

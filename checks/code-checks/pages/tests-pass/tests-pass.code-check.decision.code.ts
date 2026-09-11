@@ -3,6 +3,7 @@ import {
   holdingOver,
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { costSpawned, recordCost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Ran, Spent } from "akasha/code/code-tests/code-tests.module.code.ts"
 import {
@@ -10,6 +11,7 @@ import {
   CEILING,
   errorsIn,
   measuring,
+  pageOf,
   plain,
   ranOver,
   spentOver,
@@ -196,6 +198,33 @@ export function refusedOf(ran: Ran, named: readonly string[], first: string): Ju
   }
 }
 
+const PHASE = "test"
+
+function costsKept(root: string, each: readonly Spent[]): undefined {
+  const runId = Bun.randomUUIDv7()
+  for (const one of each) {
+    const page = pageOf(one.path)
+    if (page === null) continue
+    const clean = one.code === 0 && one.signal === null
+    try {
+      recordCost(
+        root,
+        page,
+        costSpawned({
+          runId,
+          ranAt: one.ranAt,
+          phase: PHASE,
+          ran: one.path,
+          wallMs: one.wallMs,
+          cpuSeconds: one.cpuSeconds,
+          peakBytes: one.peakBytes,
+          refusals: clean ? 0 : 1,
+        })
+      )
+    } catch {}
+  }
+}
+
 const NESTED =
   "no test ran: this landing was made from inside a test run, which `AKASHA_TESTS_RUNNING` says is going, so the tests beside the files this change carries were not run and nothing says whether they pass."
 
@@ -206,9 +235,13 @@ export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
   if (first === undefined) return []
   if (alreadyRunning()) return [{ path: first, reason: NESTED }]
   const bodies = bodiesOf(change, shadow)
-  if (measuring())
-    return [{ path: first, reason: spentlyOf(spentOver(change.root, named, bodies)) }]
+  if (measuring()) {
+    const each = spentOver(change.root, named, bodies)
+    costsKept(change.root, each)
+    return [{ path: first, reason: spentlyOf(each) }]
+  }
   const found = ranOver(change.root, named, named.length, null, bodies)
+  costsKept(change.root, found.spent)
   if (found.verdict === "pass") return []
   const said = { ...found, output: spelledIn(found.output, change.root) }
   return [refusedOf(said, named, first)]

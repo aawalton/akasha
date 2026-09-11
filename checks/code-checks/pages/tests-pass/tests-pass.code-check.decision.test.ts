@@ -26,9 +26,11 @@ import {
   PASSES,
   READS,
   RESOLVES,
+  ranAs,
   repo,
   SORTED_AT,
   scratch,
+  spentAs,
   THROWS,
   TREE,
   TYPE_NOW,
@@ -42,23 +44,13 @@ import {
   landing,
   proposing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Ran } from "akasha/code/code-tests/code-tests.module.code.ts"
+
 import { repoAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { typingUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 
 afterAll(scratch.sweep)
-
-function ranAs(
-  verdict: Ran["verdict"],
-  summary: Ran["summary"],
-  output = "",
-  slow: Ran["slow"] = [],
-  cpuSeconds = 0
-): Ran {
-  return { code: 1, signal: null, output, summary, verdict, cpuSeconds, slow }
-}
 
 test("a run over the ceiling is refused by naming each file over it", () => {
   const said = reasonOf(
@@ -75,8 +67,8 @@ test("a run over the ceiling is refused by naming each file over it", () => {
 
 test("a measuring run names each file beside the seconds that file spent", () => {
   const said = spentlyOf([
-    { path: "akasha/one.module.test.ts", cpuSeconds: 9.53, signal: null, code: 0, out: "" },
-    { path: "akasha/two.module.test.ts", cpuSeconds: 0.42, signal: null, code: 0, out: "" },
+    spentAs("akasha/one.module.test.ts", 9.53, 0),
+    spentAs("akasha/two.module.test.ts", 0.42, 0),
   ])
   expect(said).toContain("akasha/one.module.test.ts spent 9.5 processor seconds")
   expect(said).toContain("akasha/two.module.test.ts spent 0.4 processor seconds")
@@ -87,10 +79,23 @@ test("a measuring run names each file beside the seconds that file spent", () =>
 })
 
 test("a measured file whose run failed is not read as a cost", () => {
-  const said = spentlyOf([
-    { path: "akasha/one.module.test.ts", cpuSeconds: 0.3, signal: null, code: 1, out: "" },
-  ])
+  const said = spentlyOf([spentAs("akasha/one.module.test.ts", 0.3, 1)])
   expect(said).toContain("did not come back clean")
+})
+
+test("what a test file's run cost is recorded beside the page that file is of", () => {
+  const root = repo({
+    "akasha/one.module.ts": "",
+    "akasha/one.module.code.ts": "",
+    "akasha/one.module.test.ts": PASSES,
+  })
+  withoutGuard(() => refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root)))
+  const line = readFileSync(join(root, "akasha/one.module.entries.uncommitted.jsonl"), "utf8")
+  expect(line.trim().split("\n").length).toBe(1)
+  expect(line).toContain('"phase":"test"')
+  expect(line).toContain('"ran":"akasha/one.module.test.ts"')
+  expect(line).toContain('"refusals":0')
+  expect(line).not.toContain('"peakBytes":0')
 })
 
 test("a file over the ceiling is named beside the seconds that file spent", () => {

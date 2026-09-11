@@ -39,6 +39,27 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A run's answer has what every file of that run spent, file by file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What one file spent is the clock and the processor and the peak memory that file reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The clock is read around the run of that one file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test file is answered with the page that test file sits beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path that is no test file sits beside no page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run's answer has nothing more.",
     },
     {

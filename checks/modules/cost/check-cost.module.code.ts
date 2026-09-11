@@ -246,6 +246,38 @@ export function costOf(
   }
 }
 
+export type Spawned = {
+  readonly runId: string
+  readonly ranAt: string
+  readonly phase: string
+  readonly ran: string
+  readonly wallMs: number
+  readonly cpuSeconds: number
+  readonly peakBytes: number
+  readonly refusals: number
+}
+
+export function costSpawned(given: Spawned): Cost {
+  return {
+    runId: given.runId,
+    ranAt: given.ranAt,
+    phase: given.phase,
+    ran: given.ran,
+    wallMs: given.wallMs,
+    cpuSeconds: 0,
+    childCpuSeconds: Number(given.cpuSeconds.toFixed(3)),
+    peakBytes: given.peakBytes,
+    residentBeforeBytes: 0,
+    peakAddedBytes: given.peakBytes,
+    peakMeasured: true,
+    readCalls: 0,
+    writeCalls: 0,
+    readBytes: 0,
+    pathsChanged: 0,
+    refusals: given.refusals,
+  }
+}
+
 export function lineFor(cost: Cost): string {
   return `${JSON.stringify(cost)}\n`
 }

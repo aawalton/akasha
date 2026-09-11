@@ -76,7 +76,10 @@ export type Slowed = {
 
 export type Spent = {
   readonly path: string
+  readonly ranAt: string
+  readonly wallMs: number
   readonly cpuSeconds: number
+  readonly peakBytes: number
   readonly signal: string | null
   readonly code: number
   readonly out: string
@@ -96,6 +99,7 @@ export type Ran = {
   readonly verdict: Verdict
   readonly cpuSeconds: number
   readonly slow: readonly Slowed[]
+  readonly spent: readonly Spent[]
 }
 
 export type Grouping = {
@@ -142,6 +146,11 @@ export function testsBesideOf(path: string): readonly string[] {
     if (beside !== null) found.push(beside)
   }
   return found
+}
+
+export function pageOf(path: string): string | null {
+  const part = SUFFIXES.find((one) => path.endsWith(one))
+  return part === undefined ? null : `${path.slice(0, -part.length)}${TS}`
 }
 
 export function plain(output: string): string {
@@ -283,10 +292,14 @@ export function spentIn(
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
       const argv = [RUNNER, RUNS, ...preloading, ...naming, pathed(one)]
+      const began = Date.now()
       const done = runsIn(root, argv, over)
       found.push({
         path: one,
+        ranAt: new Date(began).toISOString(),
+        wallMs: Date.now() - began,
         cpuSeconds: done.cpuSeconds,
+        peakBytes: done.peakBytes,
         signal: done.signal,
         code: done.code,
         out: `${done.out}${done.err}`,
@@ -353,6 +366,7 @@ function ranUnder(
     verdict: judgedAs(said, slow.length),
     cpuSeconds: spent,
     slow,
+    spent: each,
   }
 }
 

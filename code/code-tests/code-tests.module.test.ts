@@ -7,6 +7,7 @@ import {
   errorsIn,
   groupedBy,
   judgedAs,
+  pageOf,
   plain,
   preloadsIn,
   RUNNING,
@@ -97,6 +98,17 @@ check("a test answers itself alone, whichever of the two it is written in", () =
 check("a file that is no TypeScript file sits beside no test", () => {
   expect(testsBesideOf("akasha/one/notes.md")).toEqual([])
   expect(testsBesideOf("akasha/one/held")).toEqual([])
+})
+
+check("a test file names the page that test file sits beside", () => {
+  expect(pageOf("akasha/one/held.module.test.ts")).toBe("akasha/one/held.module.ts")
+  expect(pageOf("akasha/one/held.component.test.tsx")).toBe("akasha/one/held.component.ts")
+})
+
+check("a path that is no test file names no page", () => {
+  expect(pageOf("akasha/one/held.module.code.ts")).toBeNull()
+  expect(pageOf("akasha/one/held.module.ts")).toBeNull()
+  expect(pageOf("akasha/one/notes.md")).toBeNull()
 })
 
 check("color is taken out before the summary is read", () => {
@@ -268,6 +280,9 @@ check("a file under the ceiling is still answered with what that file spent", ()
   expect(found.map((one) => one.path)).toEqual(["akasha/one.test.ts"])
   expect(found[0]?.signal).toBeNull()
   expect(found[0]?.cpuSeconds).toBeGreaterThan(0)
+  expect(found[0]?.wallMs).toBeGreaterThan(0)
+  expect(found[0]?.peakBytes).toBeGreaterThan(0)
+  expect(Date.parse(found[0]?.ranAt ?? "")).toBeGreaterThan(0)
 })
 
 check("a run whose files are each under the ceiling is clean and carries what it spent", () => {

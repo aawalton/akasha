@@ -141,6 +141,29 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A run made wholly in a child is recorded from what the kernel said of that child.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every second such a run spent is a child's, so the recorder's own seconds are none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A child starts holding nothing, so the memory such a run added is that run's peak.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run's peak is measured rather than a proxy.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The reads and writes such a run made are counted nowhere.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The property a line is kept under is named by the caller recording that line.",
     },
     {
