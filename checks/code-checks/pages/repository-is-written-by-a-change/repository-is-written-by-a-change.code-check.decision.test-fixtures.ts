@@ -51,6 +51,14 @@ export const WRITES_HELD = writesInto("held/a.ts")
 
 export const WRITES_VENDORED = writesInto("node_modules/a.ts")
 
+export const ROOT_MODULE_WRITE =
+  'import { writeFileSync } from "node:fs"\n' +
+  'import { join } from "node:path"\n' +
+  'import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"\n' +
+  "export function one(): void {\n" +
+  '  writeFileSync(join(getRepoRoot(), "a.ts"), "")\n' +
+  "}\n"
+
 const MODULE_VALUES: readonly {
   readonly path: string
   readonly value: Record<string, unknown>

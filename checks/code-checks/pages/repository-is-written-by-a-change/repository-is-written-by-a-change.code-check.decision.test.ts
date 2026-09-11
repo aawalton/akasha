@@ -6,6 +6,7 @@ import {
   rootModulesOf,
 } from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.code.ts"
 import {
+  ROOT_MODULE_WRITE,
   ROOT_MODULES_FILED,
   rooted,
   scratch,
@@ -298,16 +299,8 @@ test("each write is named on its own", () => {
 })
 
 test("a root taken from any module the index names as answering one is the checkout root", () => {
-  const body =
-    'import { writeFileSync } from "node:fs"\n' +
-    'import { join } from "node:path"\n' +
-    'import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"\n' +
-    "export function one(): void {\n" +
-    '  writeFileSync(join(getRepoRoot(), "a.ts"), "")\n' +
-    "}\n"
-
-  expect(reasonsOver(AT, body, ASIDE, new Set(["repo-root"]))).toHaveLength(1)
-  expect(reasonsOver(AT, body, ASIDE, ROOTED)).toEqual([])
+  expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, new Set(["repo-root"]))).toHaveLength(1)
+  expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, ROOTED)).toEqual([])
 })
 
 test("the modules answering a checkout root are the ones whose pages say so and no others", () => {
