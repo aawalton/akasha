@@ -6,6 +6,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const INPUT = "-"
 
@@ -73,10 +74,6 @@ export const COMPOSING: Taking = {
   filing: [SUBJECT_FILING, BODY_FILING],
 }
 
-export function spelled(said: readonly string[]): string {
-  return said.map((one) => `\`${one}\``).join(", ")
-}
-
 function filingFor(taking: Taking, flag: string): Filing | undefined {
   return (taking.filing ?? []).find((one) => one.said === flag)
 }
@@ -108,7 +105,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
       continue
     }
     if (!valued.has(token)) {
-      refusals.push(`\`${token}\` is no flag this takes — it takes ${spelled([...valued])}`)
+      refusals.push(`\`${token}\` is no flag this takes — it takes ${namesDrawn(valued)}`)
       continue
     }
     const value = argv[at + 1]
@@ -157,7 +154,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
   }
   const either = taking.either
   if (either?.every((flag) => one[flag] === undefined && (many[flag] ?? []).length === 0)) {
-    refusals.push(`this names ${spelled(either)} or both, and nothing said either`)
+    refusals.push(`this names ${namesDrawn(either)} or both, and nothing said either`)
   }
   for (const flag of taking.numbered ?? []) {
     const value = one[flag]
@@ -169,7 +166,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
     .filter((filing) => one[filing.file] === INPUT)
     .map((filing) => filing.file)
   if (piped.length > 1) {
-    refusals.push(`${spelled(piped)} each name the input, and one call reads the input once`)
+    refusals.push(`${namesDrawn(piped)} each name the input, and one call reads the input once`)
   }
   if (refusals.length > 0) return { refused: refusals }
   return { one, many }
