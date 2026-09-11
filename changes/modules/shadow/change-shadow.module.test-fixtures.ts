@@ -24,7 +24,11 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { scratch, textIn } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import {
+  indexedRepo,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   listedAndValued,
@@ -319,6 +323,11 @@ export function relaying<Given>(
     if (at === address) return Promise.resolve(run(world, given as Given))
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   }
+}
+
+export function repoWorld(bodies: Readonly<Record<string, string>> = {}): World {
+  const root = indexedRepo(bodies)
+  return worldAt(root, textIn(root))
 }
 
 export function worldIn(root: string, address: string): World {

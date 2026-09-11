@@ -7,20 +7,16 @@ import {
   nestCommands,
   runChange,
 } from "akasha/changes/agent/folder/nest-commands/nest-commands.change-agent.code.ts"
-import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  indexedRepo,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 
 const SLUGS = ["temper", "temper-inventory", "temper-inventory-rule", "change"]
 
 function worldIn(): World {
-  const root = indexedRepo({})
-  return worldAt(root, textIn(root))
+  return repoWorld()
 }
 
 test("the namespace holding a command is the longest slug that command opens with", () => {

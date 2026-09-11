@@ -16,6 +16,11 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A world over bodies written into an indexed repo is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That world lists the paths its bodies are held under.",
     },
     {

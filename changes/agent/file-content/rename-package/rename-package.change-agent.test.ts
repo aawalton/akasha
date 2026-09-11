@@ -9,13 +9,14 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyAt } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyAt,
+  repoWorld,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   bodyOf,
-  indexedRepo,
   pageOf,
   scratch,
-  textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -184,13 +185,11 @@ function bare(body: string): World {
 }
 
 function packaged(): World {
-  const root = indexedRepo({ ...VOCABULARY, ...PACKAGES })
-  return worldAt(root, textIn(root))
+  return repoWorld({ ...VOCABULARY, ...PACKAGES })
 }
 
 function carried(): World {
-  const root = indexedRepo({ ...VOCABULARY, ...PACKAGES, [INNER_MANIFEST]: INNER_CARRIED })
-  return worldAt(root, textIn(root))
+  return repoWorld({ ...VOCABULARY, ...PACKAGES, [INNER_MANIFEST]: INNER_CARRIED })
 }
 
 function renamed(): ReadonlyMap<string, string | null> {

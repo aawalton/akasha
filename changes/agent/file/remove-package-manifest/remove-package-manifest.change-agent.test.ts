@@ -11,12 +11,11 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   bodyOf,
-  indexedRepo,
   pageOf,
   scratch,
-  textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -192,8 +191,7 @@ const PACKAGED: Readonly<Record<string, string>> = {
 }
 
 function world(): World {
-  const root = indexedRepo({ ...SPEAKING, ...PACKAGED })
-  return worldAt(root, textIn(root))
+  return repoWorld({ ...SPEAKING, ...PACKAGED })
 }
 
 function folded(): ReadonlyMap<string, string | null> {
@@ -454,8 +452,7 @@ const ROOTED: Readonly<Record<string, string>> = {
 }
 
 function rootWorld(): World {
-  const root = indexedRepo({ ...SPEAKING, ...ROOTED })
-  return worldAt(root, textIn(root))
+  return repoWorld({ ...SPEAKING, ...ROOTED })
 }
 
 function rootFolded(): ReadonlyMap<string, string | null> {
