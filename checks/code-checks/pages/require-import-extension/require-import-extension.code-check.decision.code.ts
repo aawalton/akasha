@@ -9,10 +9,11 @@ import {
   specifiersIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const ENDINGS: readonly string[] = [".ts", ".tsx", ".css"]
 
-const CARRIED = ENDINGS.map((one) => `\`${one}\``).join(" or ")
+const CARRIED = namesDrawn(ENDINGS, " or ")
 
 export type Stands = (path: string) => boolean
 
