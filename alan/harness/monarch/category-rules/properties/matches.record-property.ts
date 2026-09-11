@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { MatchComparison } from "./match-comparison.select-property.types.ts"
 import type { MatchKey } from "./match-key.select-property.types.ts"
 import type { MatchValues } from "./match-values.text-property.types.ts"
@@ -9,8 +8,6 @@ export type Match = {
   comparison: MatchComparison
   values: MatchValues
 }
-
-export type Matches = List<Match>
 
 export const matches = {
   id: "01a0680c-3c00-7003-b571-6f4c9a2d3104",
@@ -46,4 +43,5 @@ export const matches = {
       statement: "Two clauses on one key are two entries.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

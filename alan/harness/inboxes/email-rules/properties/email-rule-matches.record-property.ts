@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { EmailRuleMatchComparison } from "./email-rule-match-comparison.select-property.types.ts"
 import type { EmailRuleMatchField } from "./email-rule-match-field.select-property.types.ts"
 import type { EmailRuleMatchValues } from "./email-rule-match-values.text-property.types.ts"
@@ -9,8 +8,6 @@ export type EmailRuleMatch = {
   comparison: EmailRuleMatchComparison
   values: EmailRuleMatchValues
 }
-
-export type EmailRuleMatches = List<EmailRuleMatch>
 
 export const emailRuleMatches = {
   id: "01a06860-549f-7699-a464-5922a5455508",
@@ -41,4 +38,5 @@ export const emailRuleMatches = {
     { invariantKind: "departure", statement: "A rule with no clause catches nothing." },
     { invariantKind: "departure", statement: "Two clauses on one field are two entries." },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

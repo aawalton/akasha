@@ -34,7 +34,7 @@ import type { LoveStoplight } from "akasha/alan/track/daily/days/properties/love
 import type { LowestEmailInboxCount } from "akasha/alan/track/daily/days/properties/lowest-email-inbox-count.number-property.types.ts"
 import type { Meals } from "akasha/alan/track/daily/days/properties/meals.text-property.types.ts"
 import type { NutritionPoints } from "akasha/alan/track/daily/days/properties/nutrition-points.number-property.types.ts"
-import type { PersonaMessages } from "akasha/alan/track/daily/days/properties/persona-messages.record-property.ts"
+import type { PersonaMessages } from "akasha/alan/track/daily/days/properties/persona-messages.record-property.types.ts"
 import type { ProjectHours } from "akasha/alan/track/daily/days/properties/project-hours.computed-property.types.ts"
 import type { SafetyLevel } from "akasha/alan/track/daily/days/properties/safety-level.text-property.types.ts"
 import type { Sessions } from "akasha/alan/track/daily/days/properties/sessions.page-property-entry.types.ts"

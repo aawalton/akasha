@@ -1,13 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { CaptureSource } from "./capture-source.text-property.types.ts"
-import type { CaptureThroughAt } from "./capture-through-at.instant-property.types.ts"
-import type { CaptureThroughLine } from "./capture-through-line.number-property.types.ts"
-
-export type TopicCapture = {
-  captureSource: CaptureSource
-  captureThroughLine: CaptureThroughLine
-  captureThroughAt: CaptureThroughAt
-}
 
 export const topicCapture = {
   id: "01a0659f-93da-7010-a67c-81b8b0e31d4b",
@@ -27,4 +18,5 @@ export const topicCapture = {
       statement: "A topic scored from Alan's own words in the room states no capture.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

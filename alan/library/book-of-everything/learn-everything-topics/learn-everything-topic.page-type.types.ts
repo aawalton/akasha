@@ -4,7 +4,7 @@ import type { Integration } from "akasha/alan/library/book-of-everything/learn-e
 import type { Misconceptions } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/misconceptions.file-property.ts"
 import type { TopicCalibration } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration.number-property.types.ts"
 import type { TopicCalibrationRead } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.types.ts"
-import type { TopicCapture } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts"
+import type { TopicCapture } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.types.ts"
 import type { TopicCoverage } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.types.ts"
 import type { TopicEvidence } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-evidence.file-property.ts"
 import type { TopicMasteryLevel } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-mastery-level.relation-property.types.ts"
