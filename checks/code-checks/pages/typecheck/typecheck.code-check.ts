@@ -194,6 +194,10 @@ export const typecheck = {
       statement: "An install adds a link and takes none away.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A folder under a whole-scope link resolves with no manifest of its own.",
+    },
+    {
       invariantKind: "departure",
       statement: "A manifest the change has reaches the files its ways in name.",
     },
