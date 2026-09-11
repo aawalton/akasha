@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const siegeLancer = {
   id: "01a05fcf-f83d-75ff-a6a1-a5ad0101e10f",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "siege-lancer",
   title: "Lancer",

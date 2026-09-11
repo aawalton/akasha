@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const motifBooks = {
   id: "01a05fcf-f82e-7fc7-b7b5-59b8d47eaed9",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "motif-books",
   title: "Motif Books",

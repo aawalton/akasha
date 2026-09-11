@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const holidayWrits = {
   id: "01a05fcf-f821-755b-b8e2-09e355b349bb",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "holiday-writs",
   title: "Holiday Writs",

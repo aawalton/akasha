@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const rareIngredients = {
   id: "01a05fcf-f833-71c8-8faa-8635fe523267",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "rare-ingredients",
   title: "Rare Ingredients",

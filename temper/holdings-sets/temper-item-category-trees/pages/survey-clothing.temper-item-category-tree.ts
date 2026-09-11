@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const surveyClothing = {
   id: "01a05fcf-f841-72d2-8e2f-b6d486822684",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "survey-clothing",
   title: "Clothing",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const containers = {
   id: "01a05fcf-f7d5-7809-a50b-d0df7e3ea1c1",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "containers",
   title: "Containers",

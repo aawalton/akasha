@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionBreeches = {
   id: "01a05fcf-f7c5-7742-b463-dbbff7bdf2ed",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-breeches",
   title: "Breeches",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnRemains = {
   id: "01a05fcf-f80b-7c43-a4d4-25e5eda9d964",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-remains",
   title: "Remains",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const containerEvent = {
   id: "01a05fcf-f7d3-7c4c-861d-2f88985f91eb",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "container-event",
   title: "Event",

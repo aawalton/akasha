@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnSoulGems = {
   id: "01a05fcf-f80e-7171-bea6-cf146ad16796",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-soul-gems",
   title: "Soul Gems",

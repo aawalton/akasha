@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const wwResins = {
   id: "01a05fcf-f84a-7b62-bbd9-f7527c97d9c6",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "ww-resins",
   title: "Resins",

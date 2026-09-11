@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnSencheRaht = {
   id: "01a05fcf-f80c-7ab9-b570-f777837bbb1b",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-senche-raht",
   title: "Senche-Raht",

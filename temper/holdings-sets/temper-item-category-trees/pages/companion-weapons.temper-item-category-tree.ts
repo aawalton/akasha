@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionWeapons = {
   id: "01a05fcf-f7d1-7709-8027-add43b0b6546",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-weapons",
   title: "Weapons",

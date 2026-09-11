@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const appearance = {
   id: "01a05fcf-f7bb-7d3a-ba77-fdc8c64ae0a8",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "appearance",
   title: "Appearance",

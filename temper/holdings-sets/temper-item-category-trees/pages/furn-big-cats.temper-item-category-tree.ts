@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnBigCats = {
   id: "01a05fcf-f7e9-7e92-990a-a1536f34f62f",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-big-cats",
   title: "Big Cats",

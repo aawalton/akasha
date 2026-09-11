@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const lightHat = {
   id: "01a05fcf-f827-72d4-9673-8785e7a83556",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "light-hat",
   title: "Hat",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const containerUnopened = {
   id: "01a05fcf-f7d4-7adb-ad8b-5598fd0f7528",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "container-unopened",
   title: "Unopened",

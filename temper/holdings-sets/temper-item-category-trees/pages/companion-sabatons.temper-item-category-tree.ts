@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionSabatons = {
   id: "01a05fcf-f7cf-732c-a359-861c739a0faf",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-sabatons",
   title: "Sabatons",

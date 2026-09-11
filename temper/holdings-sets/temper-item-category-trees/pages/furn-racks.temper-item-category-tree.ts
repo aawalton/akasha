@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnRacks = {
   id: "01a05fcf-f80a-7ab0-90a4-5380fe5560d7",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-racks",
   title: "Racks",

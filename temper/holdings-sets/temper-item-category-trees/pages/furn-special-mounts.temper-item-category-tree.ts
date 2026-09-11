@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnSpecialMounts = {
   id: "01a05fcf-f80e-7127-a657-d41705fc91c1",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-special-mounts",
   title: "Special",

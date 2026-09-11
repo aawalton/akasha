@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnMeatsCheeses = {
   id: "01a05fcf-f801-70ea-ac18-3329b3569db4",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-meats-cheeses",
   title: "Meats and Cheeses",

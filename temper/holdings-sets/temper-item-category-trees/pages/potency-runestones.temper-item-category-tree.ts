@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const potencyRunestones = {
   id: "01a05fcf-f831-709f-93b8-f0dbdee3f85c",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "potency-runestones",
   title: "Potency Runestones",

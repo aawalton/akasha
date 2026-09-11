@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const upgradeFragments = {
   id: "01a05fcf-f848-7e80-af66-e7f3a4d2e6a4",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "upgrade-fragments",
   title: "Upgrade Fragments",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const additives = {
   id: "01a05fcf-f7b9-796f-b25c-b843ce6fc1ee",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "additives",
   title: "Additives",

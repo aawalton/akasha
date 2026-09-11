@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnBasketsBags = {
   id: "01a05fcf-f7e7-7c90-b1e1-1fec386d0e0a",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-baskets-bags",
   title: "Baskets and Bags",

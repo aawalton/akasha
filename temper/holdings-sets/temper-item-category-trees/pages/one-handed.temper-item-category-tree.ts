@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const oneHanded = {
   id: "01a05fcf-f82f-71a1-b0cb-ea1fce60aa17",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "one-handed",
   title: "One-Handed",

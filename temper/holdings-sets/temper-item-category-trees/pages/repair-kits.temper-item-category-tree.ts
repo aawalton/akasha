@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const repairKits = {
   id: "01a05fcf-f838-74c3-b43c-0bffddb1bf25",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "repair-kits",
   title: "Repair Kits",

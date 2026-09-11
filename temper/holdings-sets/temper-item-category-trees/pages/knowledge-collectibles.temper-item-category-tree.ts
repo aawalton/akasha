@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const knowledgeCollectibles = {
   id: "01a05fcf-f825-7843-884b-77d601f4b815",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "knowledge-collectibles",
   title: "Collectibles",

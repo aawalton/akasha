@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnArmoryAssistants = {
   id: "01a05fcf-f7e5-744a-90d6-5b7934d21dfc",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-armory-assistants",
   title: "Armory Assistants",

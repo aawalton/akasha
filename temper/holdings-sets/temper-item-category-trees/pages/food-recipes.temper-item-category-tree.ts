@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const foodRecipes = {
   id: "01a05fcf-f7e3-7e1d-a1a3-0e130fba9209",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "food-recipes",
   title: "Food Recipes",

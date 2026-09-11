@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const recipeDiagram = {
   id: "01a05fcf-f836-7198-a088-fea16cadbd3f",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "recipe-diagram",
   title: "Diagrams (Blacksmithing)",

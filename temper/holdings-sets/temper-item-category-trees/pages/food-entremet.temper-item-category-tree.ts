@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const foodEntremet = {
   id: "01a05fcf-f7e1-7719-9970-1bf603e2ced7",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "food-entremet",
   title: "Entremet",

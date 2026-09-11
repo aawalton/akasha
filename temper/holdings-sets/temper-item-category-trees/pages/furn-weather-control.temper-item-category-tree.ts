@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnWeatherControl = {
   id: "01a05fcf-f81b-7d9a-b703-70e664d2cc9b",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-weather-control",
   title: "Weather Control",

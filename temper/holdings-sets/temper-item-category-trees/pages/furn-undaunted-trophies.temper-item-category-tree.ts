@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnUndauntedTrophies = {
   id: "01a05fcf-f817-711e-acbf-3d84bcae6d01",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-undaunted-trophies",
   title: "Undaunted Trophies",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnParlor = {
   id: "01a05fcf-f806-707e-a9db-431d8b7b42e7",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-parlor",
   title: "Parlor",

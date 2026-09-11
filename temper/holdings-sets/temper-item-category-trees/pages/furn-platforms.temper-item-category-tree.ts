@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnPlatforms = {
   id: "01a05fcf-f808-7096-9ce4-44c3fd771373",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-platforms",
   title: "Platforms",

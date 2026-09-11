@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const recipeFormula = {
   id: "01a05fcf-f836-7114-a3a3-4d1b5a41681d",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "recipe-formula",
   title: "Formulas (Alchemy)",

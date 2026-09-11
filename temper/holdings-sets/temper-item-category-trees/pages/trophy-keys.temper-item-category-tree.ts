@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const trophyKeys = {
   id: "01a05fcf-f847-74a7-8f47-afa52b06bc3d",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "trophy-keys",
   title: "Keys",

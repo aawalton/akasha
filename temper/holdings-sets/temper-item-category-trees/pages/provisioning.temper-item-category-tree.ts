@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const provisioning = {
   id: "01a05fcf-f832-79c5-947a-6f41873bf4b5",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "provisioning",
   title: "Provisioning",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionDestructionStaff = {
   id: "01a05fcf-f7c6-744b-a7d5-7cd76987c768",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-destruction-staff",
   title: "Destruction Staff",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnBasins = {
   id: "01a05fcf-f7e7-7d3f-95c7-53c21395542e",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-basins",
   title: "Basins",

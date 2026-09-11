@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const siegeRam = {
   id: "01a05fcf-f83e-7cdc-a218-17e48f2940f0",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "siege-ram",
   title: "Battering Ram",

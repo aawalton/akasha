@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const reagentFungi = {
   id: "01a05fcf-f834-7be1-8aa4-a223d564bf53",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "reagent-fungi",
   title: "Fungi",

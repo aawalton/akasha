@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnPlaced = {
   id: "01a05fcf-f807-78a4-92ba-59dc4e483593",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-placed",
   title: "Placed",

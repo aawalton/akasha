@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const foodRagout = {
   id: "01a05fcf-f7e3-7a9f-a8bf-3abda843f704",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "food-ragout",
   title: "Ragout",

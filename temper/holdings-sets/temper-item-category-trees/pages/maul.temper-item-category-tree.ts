@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const maul = {
   id: "01a05fcf-f82a-73c1-a481-6157d0531377",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "maul",
   title: "Maul",

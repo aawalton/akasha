@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const clTannins = {
   id: "01a05fcf-f7c1-7551-b036-d59c9631928e",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "cl-tannins",
   title: "Tannins",

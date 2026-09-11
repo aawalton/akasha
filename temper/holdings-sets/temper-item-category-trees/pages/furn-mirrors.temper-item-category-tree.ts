@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnMirrors = {
   id: "01a05fcf-f802-7ebf-8098-36021adb60bc",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-mirrors",
   title: "Mirrors",

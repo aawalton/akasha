@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const trash = {
   id: "01a05fcf-f844-7560-aa44-caf65bb248e3",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "trash",
   title: "Trash",

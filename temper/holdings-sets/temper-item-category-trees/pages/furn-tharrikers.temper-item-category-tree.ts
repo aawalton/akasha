@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnTharrikers = {
   id: "01a05fcf-f813-7cf1-b4c3-c24939269728",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-tharrikers",
   title: "Tharrikers",

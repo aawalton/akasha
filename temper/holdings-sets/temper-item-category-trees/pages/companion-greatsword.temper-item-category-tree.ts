@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionGreatsword = {
   id: "01a05fcf-f7c8-7ddf-b5e4-6891d30e7f49",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-greatsword",
   title: "Greatsword",

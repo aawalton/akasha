@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const heavyArmor = {
   id: "01a05fcf-f81f-7606-9925-a09f16dbe15e",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "heavy-armor",
   title: "Heavy Armor",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const treasure = {
   id: "01a05fcf-f845-73f5-8c6c-07272ff8481c",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "treasure",
   title: "Treasure",

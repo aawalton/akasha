@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnVampireUtility = {
   id: "01a05fcf-f818-7a6f-a974-caf0744032e6",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-vampire-utility",
   title: "Vampire Utility",

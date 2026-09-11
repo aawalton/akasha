@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const trophyMaterialUpgraders = {
   id: "01a05fcf-f847-70fc-b569-553fb15d3ef8",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "trophy-material-upgraders",
   title: "Material Upgraders",

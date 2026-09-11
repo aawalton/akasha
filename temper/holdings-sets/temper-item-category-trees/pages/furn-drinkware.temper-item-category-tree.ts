@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnDrinkware = {
   id: "01a05fcf-f7f4-7e04-88ca-db59db7cdee9",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-drinkware",
   title: "Drinkware",

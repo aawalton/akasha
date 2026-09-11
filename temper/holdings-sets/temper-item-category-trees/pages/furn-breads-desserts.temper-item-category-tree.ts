@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnBreadsDesserts = {
   id: "01a05fcf-f7ea-7bd4-aead-c3cc01ff85c9",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-breads-desserts",
   title: "Breads and Desserts",

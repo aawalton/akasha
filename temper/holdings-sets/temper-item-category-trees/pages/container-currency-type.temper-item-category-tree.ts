@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const containerCurrencyType = {
   id: "01a05fcf-f7d2-783b-9ff4-ee42c4901641",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "container-currency-type",
   title: "Currency Container",

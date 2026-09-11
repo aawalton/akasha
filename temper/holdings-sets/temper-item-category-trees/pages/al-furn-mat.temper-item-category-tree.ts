@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const alFurnMat = {
   id: "01a05fcf-f7ba-762d-825a-b32fdeabe612",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "al-furn-mat",
   title: "Furnishing Materials",

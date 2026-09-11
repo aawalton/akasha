@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnOrnaugs = {
   id: "01a05fcf-f805-7525-bc95-62bc78a6e4df",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-ornaugs",
   title: "Ornaugs",

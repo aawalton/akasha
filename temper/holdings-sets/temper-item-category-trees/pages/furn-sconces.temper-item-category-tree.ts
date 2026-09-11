@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnSconces = {
   id: "01a05fcf-f80c-7d8d-bcfb-f52d44330910",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-sconces",
   title: "Sconces",

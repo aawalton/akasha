@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionGauntlets = {
   id: "01a05fcf-f7c7-7629-9a01-a5393ea89663",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-gauntlets",
   title: "Gauntlets",

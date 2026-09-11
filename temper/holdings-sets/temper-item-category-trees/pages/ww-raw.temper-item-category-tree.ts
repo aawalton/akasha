@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const wwRaw = {
   id: "01a05fcf-f84a-776e-b907-6753be8e5100",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "ww-raw",
   title: "Raw Materials",

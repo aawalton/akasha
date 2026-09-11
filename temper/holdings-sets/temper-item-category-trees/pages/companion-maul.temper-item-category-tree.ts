@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionMaul = {
   id: "01a05fcf-f7cd-7673-9012-d33fdb37b7ea",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-maul",
   title: "Maul",

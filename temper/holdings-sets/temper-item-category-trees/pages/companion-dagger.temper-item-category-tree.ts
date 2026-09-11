@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionDagger = {
   id: "01a05fcf-f7c6-744d-aaa9-3e9d1b16e72c",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-dagger",
   title: "Dagger",

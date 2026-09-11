@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const recipeSketch = {
   id: "01a05fcf-f837-7188-aea5-e0e022b63d28",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "recipe-sketch",
   title: "Sketches (Jewelry Crafting)",

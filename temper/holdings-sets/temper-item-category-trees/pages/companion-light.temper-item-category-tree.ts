@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionLight = {
   id: "01a05fcf-f7cc-7d50-bac5-fe0f88a94b0d",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-light",
   title: "Light Armor",

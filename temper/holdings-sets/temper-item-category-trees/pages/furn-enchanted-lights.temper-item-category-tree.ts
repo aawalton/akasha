@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnEnchantedLights = {
   id: "01a05fcf-f7f5-7f53-b6a9-51c9b64e414a",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-enchanted-lights",
   title: "Enchanted Lights",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const dyeStamps = {
   id: "01a05fcf-f7de-712f-aca4-dedbe5f1a871",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "dye-stamps",
   title: "Dye Stamps",

@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const scriptAffix = {
   id: "01a05fcf-f83a-7f9c-be37-dc470ef45ed6",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "script-affix",
   title: "Affix",

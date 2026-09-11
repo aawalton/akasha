@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const bsRefined = {
   id: "01a05fcf-f7bf-7086-8fef-0a87dd846477",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "bs-refined",
   title: "Refined Materials",

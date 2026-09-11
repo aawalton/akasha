@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnLunarChampion = {
   id: "01a05fcf-f800-780d-b45b-88c9eb4e3069",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-lunar-champion",
   title: "Lunar Champion Tablets",

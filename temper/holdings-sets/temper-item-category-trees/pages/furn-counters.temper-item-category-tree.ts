@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnCounters = {
   id: "01a05fcf-f7ee-72f3-a29e-c7b76302c765",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-counters",
   title: "Counters",

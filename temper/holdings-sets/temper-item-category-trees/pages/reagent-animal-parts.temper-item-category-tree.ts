@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const reagentAnimalParts = {
   id: "01a05fcf-f833-729c-9b95-854e84d2a49f",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "reagent-animal-parts",
   title: "Animal Parts",

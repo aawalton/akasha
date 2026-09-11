@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const companionTwoHanded = {
   id: "01a05fcf-f7d1-7e21-bf80-afb1ee3f62e2",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "companion-two-handed",
   title: "Two-Handed",

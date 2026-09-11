@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const scribingInk = {
   id: "01a05fcf-f839-73dd-90bd-1fe7a4f9bef8",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "scribing-ink",
   title: "Scribing Ink",

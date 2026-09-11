@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnBenches = {
   id: "01a05fcf-f7e8-7cd2-bccb-16ad1c19b29e",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-benches",
   title: "Benches",

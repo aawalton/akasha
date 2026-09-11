@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnTapestries = {
   id: "01a05fcf-f812-7034-ac25-9eb3f6a5d399",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-tapestries",
   title: "Tapestries",

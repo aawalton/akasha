@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnBrekkas = {
   id: "01a05fcf-f7ea-7fa1-a2f5-9436c8d7f9ae",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-brekkas",
   title: "Brekkas",

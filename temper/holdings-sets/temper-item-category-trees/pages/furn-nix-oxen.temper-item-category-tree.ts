@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnNixOxen = {
   id: "01a05fcf-f805-7771-bfe4-fb972b93cd82",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-nix-oxen",
   title: "Nix-Oxen",

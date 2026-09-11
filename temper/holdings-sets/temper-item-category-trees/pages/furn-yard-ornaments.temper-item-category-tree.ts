@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const furnYardOrnaments = {
   id: "01a05fcf-f81c-7af0-b09f-6983bb02f5c5",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "furn-yard-ornaments",
   title: "Yard Ornaments",

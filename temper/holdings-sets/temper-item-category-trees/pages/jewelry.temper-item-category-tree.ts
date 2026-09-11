@@ -2,7 +2,6 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings-sets/temper-
 
 export const jewelry = {
   id: "01a05fcf-f825-768a-9481-01fd68c6aea4",
-  pageTypeSlug: "temper-item-category-tree",
   type: "temper-item-category-tree",
   slug: "jewelry",
   title: "Jewelry",
