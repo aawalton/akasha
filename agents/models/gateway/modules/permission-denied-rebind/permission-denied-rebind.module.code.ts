@@ -4,10 +4,10 @@ import {
   classifyPermissionDenied,
   PERMISSION_DENIED_STATUS,
 } from "akasha/agents/models/gateway/modules/permission-denied/permission-denied.module.code.ts"
-
-export type PermissionDeniedRebindOutcome =
-  | { kind: "response"; response: Response }
-  | { kind: "rebind"; account: string; cred: OAuthCredential }
+import {
+  answeredFrom,
+  type RebindOutcome,
+} from "akasha/agents/models/gateway/modules/rebind-outcome/rebind-outcome.module.code.ts"
 
 export type MarkDisabled = (
   account: string,
@@ -31,13 +31,10 @@ export type PermissionDeniedRebindArgs = {
 
 export async function attemptPermissionDeniedRebind(
   args: PermissionDeniedRebindArgs
-): Promise<PermissionDeniedRebindOutcome> {
+): Promise<RebindOutcome> {
   const { currentAccount, trail, tried, method, pathname, logPrefix } = args
   const peeked = await peekResponse(args.res)
-  const answered = (): PermissionDeniedRebindOutcome => ({
-    kind: "response",
-    response: peeked.rebuild(),
-  })
+  const answered = (): RebindOutcome => answeredFrom(peeked)
 
   const classification = classifyPermissionDenied(PERMISSION_DENIED_STATUS, peeked.bodyText)
   if (!classification.matched) {

@@ -5,10 +5,10 @@ import {
 } from "akasha/agents/models/gateway/modules/model-unavailable/model-unavailable.module.code.ts"
 import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { peekResponse } from "akasha/agents/models/gateway/modules/peek-response/peek-response.module.code.ts"
-
-export type ModelUnavailableRebindOutcome =
-  | { kind: "response"; response: Response }
-  | { kind: "rebind"; account: string; cred: OAuthCredential }
+import {
+  answeredFrom,
+  type RebindOutcome,
+} from "akasha/agents/models/gateway/modules/rebind-outcome/rebind-outcome.module.code.ts"
 
 export type ModelUnavailableRebindArgs = {
   res: Response
@@ -27,13 +27,10 @@ export type ModelUnavailableRebindArgs = {
 
 export async function attemptModelUnavailableRebind(
   args: ModelUnavailableRebindArgs
-): Promise<ModelUnavailableRebindOutcome> {
+): Promise<RebindOutcome> {
   const { currentAccount, trail, tried, method, pathname, logPrefix } = args
   const peeked = await peekResponse(args.res)
-  const answered = (): ModelUnavailableRebindOutcome => ({
-    kind: "response",
-    response: peeked.rebuild(),
-  })
+  const answered = (): RebindOutcome => answeredFrom(peeked)
   const trailSaid = trail.join("→")
 
   const classification = classifyModelUnavailable(MODEL_UNAVAILABLE_STATUS, peeked.bodyText)

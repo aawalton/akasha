@@ -47,6 +47,7 @@ export const modelGateway = {
     "module/proxy-start",
     "module/queue-step",
     "module/rate-limit-refusal",
+    "module/rebind-outcome",
     "module/retry",
     "module/server-error",
     "module/server-error-retry",
