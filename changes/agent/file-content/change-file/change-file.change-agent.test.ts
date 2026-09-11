@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { dirname } from "node:path"
 import { changeFileCommand } from "akasha/changes/agent/file-content/change-file/change-file.change-agent.code.ts"
 import { runChange as changeFile } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { refusing, replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
@@ -7,7 +8,18 @@ import {
   NOTHING_OVER,
   type Reaching,
   type World,
+  worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  groupAt,
+  groupsIn,
+} from "akasha/commands/modules/group-writing/group-writing.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+
+const ROOT = codeRoot()
 
 const AT = "akasha/one.held.ts"
 
@@ -115,4 +127,70 @@ test("a passage whose fence closed with no-newline loses no second character", a
 
   expect(said.refused).toBeNull()
   expect(landedIn(held, said)).toBe("export const one = { a: 9, b: 2 }\n")
+})
+
+type Pair = { readonly written: string; readonly beside: string }
+
+function besideThere(folder: Iterable<string>, beside: string): boolean {
+  for (const one of folder) {
+    if (one === beside) return true
+  }
+  return false
+}
+
+function pairsOf(): readonly Pair[] {
+  const index = shadowAt(ROOT).index
+  const reading = readingIn(ROOT)
+  const found: Pair[] = []
+  for (const group of groupsIn(index)) {
+    for (const pageTypeSlug of group.pageTypeSlugs) {
+      for (const listed of index.everyOfType(pageTypeSlug)) {
+        const value = index.pageByPath(listed.path)
+        if (value === null) continue
+        const beside = groupAt(listed.path, group.slug)
+        if (beside === null) continue
+        if (!besideThere(index.filesIn(dirname(listed.path)), beside)) continue
+        const page = { path: listed.path, value }
+        try {
+          found.push({
+            written: fileOf(reading, page, pageTypeSlug, group.propertySlug),
+            beside,
+          })
+        } catch {}
+      }
+    }
+  }
+  return [...found].sort((one, two) => (one.written < two.written ? -1 : 1))
+}
+
+const PAIR = pairsOf()[0] as Pair
+
+function repoWorld(held: Readonly<Record<string, string>>): World {
+  return { ...worldAt(ROOT, (path) => held[path] ?? null), reaching: RUNS }
+}
+
+test("a passage on a file a group writes is refused rather than dropped", async () => {
+  const said = await changeFileCommand(repoWorld({}), {
+    at: PAIR.written,
+    old: "two",
+    new: "four",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(PAIR.beside)
+  expect(said.refused ?? "").toContain("bodyIn")
+})
+
+test("a passage on the code a group writes from is edited as any other body is", async () => {
+  const held = { [PAIR.beside]: "one two\n" }
+  const said = await changeFileCommand(repoWorld(held), {
+    at: PAIR.beside,
+    old: "two",
+    new: "four",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([
+    { kind: "replace", path: PAIR.beside, contentFrom: "two", contentTo: "four" },
+  ])
 })

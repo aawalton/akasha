@@ -42,6 +42,22 @@ export const changeFile = {
       invariantKind: "departure",
       statement: "The checks judge the tree the edits leave.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path naming a file a machine writes is refused rather than edited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the code to change where a group writes the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the path the caller names here is judged that way.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No change a mechanism reaches passes through this refusal.",
+    },
   ],
   changeKind: "change-authored",
 } as const satisfies ChangeAgent

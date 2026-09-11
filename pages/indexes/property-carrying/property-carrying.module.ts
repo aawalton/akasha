@@ -189,6 +189,14 @@ export const propertyCarrying = {
       statement: "A page without that code holds a file that is not generated.",
     },
     {
+      invariantKind: "departure",
+      statement: "The code a group writes a file from is answered here beside whether it does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file no group writes is answered with no such code rather than refusing.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing judges that a group's code writes the file the property names.",
     },

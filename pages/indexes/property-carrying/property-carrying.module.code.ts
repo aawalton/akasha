@@ -268,7 +268,7 @@ export function generatedIn(given: Facing, path: string): boolean {
   try {
     const held = derivedFor(given)
     if (sectionHeld(path, held.slugs)) return true
-    if (writtenIn(given, path, held)) return true
+    if (writerIn(given, path, held) !== null) return true
     return heldBeside(path, held.naming, generates, given.carryingOf)
   } catch {
     return false
@@ -351,26 +351,34 @@ export function sectionsOfGroups(given: Kinded): ReadonlyMap<string, string> {
   return made
 }
 
-export function writtenIn(given: Facing, path: string, held: Derived): boolean {
+export function writerIn(given: Facing, path: string, held: Derived): string | null {
   const said = partedIn(path)
-  if (said === null) return false
+  if (said === null) return null
   const sectioned = sectionedIn(said)
-  if (sectioned === null) return false
+  if (sectioned === null) return null
   const group = held.writers.get(sectionKey(said.pageType, sectioned.propertySlug))
-  if (group === undefined) return false
+  if (group === undefined) return null
   const section = held.sections.get(group)
-  if (section === undefined) return false
+  if (section === undefined) return null
   const folder = dirname(path)
   const beside = besideAt(
     join(folder, `${pageOf(said)}.${HELD_TS}`),
     `${section}.${GROUP_CODE}`,
     HELD_TS
   )
-  if (beside === null) return false
+  if (beside === null) return null
   for (const one of given.filesIn(folder)) {
-    if (one === beside) return true
+    if (one === beside) return beside
   }
-  return false
+  return null
+}
+
+export function writerAt(given: Facing, path: string): string | null {
+  try {
+    return writerIn(given, path, derivedFor(given))
+  } catch {
+    return null
+  }
 }
 
 export function namingUnder(given: Kinded): readonly Naming[] {

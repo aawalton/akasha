@@ -101,7 +101,7 @@ export function typedIn(world: World, path: string): string | null {
   return text === null ? null : typeIn(text)
 }
 
-function facingHeld(world: World): Facing {
+export function facingHeld(world: World): Facing {
   const found = FACING.get(world)
   if (found !== undefined) return found
   const made = facingIn(world)
