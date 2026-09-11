@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
+import { akashaHere } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
+  NET_WORTH_HOUR_PAGE_TYPE_SLUG,
   netWorthCommitMessage,
   netWorthHourBody,
   netWorthHourLinesPath,
@@ -23,8 +27,18 @@ const PAGE_PATH = `temper/holdings-sets/temper-net-worth-hours/pages/${HOUR_SLUG
 
 const LINES_PATH = `temper/holdings-sets/temper-net-worth-hours/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.snapshots.jsonl`
 
-const TYPES_AT =
-  "temper/holdings-sets/temper-net-worth-hours/temper-net-worth-hour.page-type.types.ts"
+const ROOT = akashaHere()
+
+const PAGE_TYPE = "page-type"
+
+const TYPES = "types"
+
+const TYPES_AT = fileOf(
+  ROOT,
+  valuedAt(ROOT, PAGE_TYPE, NET_WORTH_HOUR_PAGE_TYPE_SLUG),
+  PAGE_TYPE,
+  TYPES
+)
 
 const FIRST = {
   id: "01a06009-45d7-758a-9196-9597c258a996",
