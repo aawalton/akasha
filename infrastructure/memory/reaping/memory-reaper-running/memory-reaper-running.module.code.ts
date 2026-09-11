@@ -11,7 +11,7 @@ import {
   stopsOnSignal,
 } from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 
-async function main(): Promise<void> {
+export async function runMemoryReaper(): Promise<void> {
   const ac = stopsOnSignal()
 
   console.log(reaperConfigBanner())
@@ -33,7 +33,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  runMemoryReaper().catch((err) => {
     console.error("memory-reaper fatal:", err)
     process.exit(1)
   })
