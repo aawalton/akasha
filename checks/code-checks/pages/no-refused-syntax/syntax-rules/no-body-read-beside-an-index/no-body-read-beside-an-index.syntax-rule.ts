@@ -115,7 +115,7 @@ export const noBodyReadBesideAnIndex = {
       statement: "A page body read by `readFileSync` off a root is not judged here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A root reaching a function under a name with no root word is not seen.",
     },
     {
