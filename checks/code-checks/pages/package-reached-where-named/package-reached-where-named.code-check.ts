@@ -98,6 +98,15 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A way in is judged by the file a specifier lands on rather than by the name it spells.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No refusal is said for a relative path landing on a file the manifest names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A specifier naming no path is the way in the manifest names.",
     },
     {
