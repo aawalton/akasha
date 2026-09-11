@@ -40,7 +40,8 @@ export const hookLinks = {
     },
     {
       invariantKind: "departure",
-      statement: "A link pointing at a file that is gone is written again from here.",
+      statement:
+        "A link pointing at a file that is gone is written again by a run in the checkout the links serve.",
     },
     {
       invariantKind: "departure",
@@ -57,6 +58,19 @@ export const hookLinks = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a hook or judges a call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a run in the checkout the links serve claims a link.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The checkout the links serve is the one the environment names rather than the tree a run reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root that cannot be matched against that checkout claims no link.",
     },
   ],
 } as const satisfies Module

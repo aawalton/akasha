@@ -1,5 +1,6 @@
-import { existsSync, mkdirSync, readlinkSync, renameSync, symlinkSync } from "node:fs"
+import { existsSync, mkdirSync, readlinkSync, realpathSync, renameSync, symlinkSync } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
@@ -49,6 +50,28 @@ export function dispatchAt(root: string): string {
   return at
 }
 
+function realOf(at: string): string | null {
+  try {
+    return realpathSync(at)
+  } catch {
+    return null
+  }
+}
+
+function servedAt(): string | null {
+  try {
+    return realOf(akashaRoot())
+  } catch {
+    return null
+  }
+}
+
+export function servedFrom(root: string): boolean {
+  const served = servedAt()
+  if (served === null) return false
+  return realOf(root) === served
+}
+
 export function anothersIn(held: string | null, root: string): boolean {
   if (held === null) return false
   const under = relative(root, held)
@@ -74,6 +97,7 @@ export function linkedTo(at: string, event: string, root: string): undefined {
 }
 
 export function linksMade(root: string, events: readonly string[]): undefined {
+  if (!servedFrom(root)) return undefined
   const at = dispatchAt(root)
   for (const event of events) linkedTo(at, event, root)
   return undefined

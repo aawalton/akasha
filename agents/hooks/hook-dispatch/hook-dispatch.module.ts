@@ -57,7 +57,7 @@ export const hookDispatch = {
     {
       invariantKind: "departure",
       statement:
-        "Each run puts the links back where they belong, so a moved dispatch mends itself.",
+        "A run in the checkout the links serve puts the links back, so a moved dispatch mends itself.",
     },
     {
       invariantKind: "departure",
