@@ -47,12 +47,11 @@ function movedInto(world: World, at: string, to: string, under: readonly string[
   return { moved: said }
 }
 
-function searchable(world: World, unread: string[]): (path: string) => string | null {
+function searchable(world: World): (path: string) => string | null {
   return (path) => {
     try {
       return world.textOf(path)
     } catch {
-      unread.push(path)
       return null
     }
   }
@@ -114,14 +113,9 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     edits.push(...answer.said.edits)
     seen = answer.world
   }
-  const unread: string[] = []
   const folder = new Map([[given.from, given.to]])
   const known = new Set(moved.keys())
-  const naming = spellersIn(seen.index.everyPath(), searchable(seen, unread), folder, known)
-  if (unread.length > 0) {
-    return refusing(`${namesDrawn(unread)} could not be read, so what it names is unjudged`)
-  }
-  for (const path of naming) {
+  for (const path of spellersIn(seen.index.everyPath(), searchable(seen), folder, known)) {
     const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)

@@ -56,7 +56,11 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that would not read refuses the move and is named.",
+      statement: "A body that would not read names no folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach such a body is left holding is judged by the guards rather than here.",
     },
     {
       invariantKind: "absence",
