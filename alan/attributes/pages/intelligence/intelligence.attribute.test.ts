@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { intelligenceIn, TOPICS_TO_THE_POINT } from "./intelligence.attribute.code.ts"
+import {
+  intelligenceIn,
+  TOPICS_TO_THE_POINT,
+} from "akasha/alan/attributes/pages/intelligence/intelligence.attribute.code.ts"
 
 const held = (figure: unknown) => ({ "intelligence-topics": figure })
 

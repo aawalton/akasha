@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   keepPointsBeforeToday,
   keepPointsToday,
   pointsTodayKept,
   pointsTotalKept,
-} from "./attribute-points.module.code.ts"
+} from "akasha/alan/attributes/points/attribute-points.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const HOLD = "/var/tmp"
 

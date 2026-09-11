@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { WORDS_TO_THE_POINT, wisdomIn } from "./wisdom.attribute.code.ts"
+import {
+  WORDS_TO_THE_POINT,
+  wisdomIn,
+} from "akasha/alan/attributes/pages/wisdom/wisdom.attribute.code.ts"
 
 const held = (figure: unknown) => ({ "wisdom-words": figure })
 

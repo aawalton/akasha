@@ -1,5 +1,11 @@
 import { expect, test } from "bun:test"
-import { AT_EASE, charismaIn, easeIn, hoursIn, namesAnyone } from "./charisma.attribute.code.ts"
+import {
+  AT_EASE,
+  charismaIn,
+  easeIn,
+  hoursIn,
+  namesAnyone,
+} from "akasha/alan/attributes/pages/charisma/charisma.attribute.code.ts"
 
 const AN_HOUR = 3600000
 

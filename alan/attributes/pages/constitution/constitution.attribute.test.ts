@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
 import {
+  constitutionIn,
+  fetchConstitutionPoints,
+  GRAMS_TO_THE_POINT,
+} from "akasha/alan/attributes/pages/constitution/constitution.attribute.code.ts"
+import {
   answering,
   refusing,
 } from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
 import { ate } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
-import {
-  constitutionIn,
-  fetchConstitutionPoints,
-  GRAMS_TO_THE_POINT,
-} from "./constitution.attribute.code.ts"
 
 const FROM = "2026-09-01T13:00:00.000Z"
 

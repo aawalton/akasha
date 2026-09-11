@@ -1,4 +1,4 @@
-import type { Readout } from "../../../harness/readouts/readout.page-type.types.ts"
+import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.types.ts"
 
 export const attributeIntelligence = {
   id: "01a06838-94d9-7c36-b921-4351c8db6033",

@@ -1,4 +1,4 @@
-import type { ComputedProperty } from "../../../pages/computed-properties/computed-property.page-type.types.ts"
+import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
 export const attributeLevel = {
   id: "01a081cc-5b79-71ea-9492-1757bb05214d",

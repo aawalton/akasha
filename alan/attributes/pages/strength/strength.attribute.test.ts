@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { POUNDS_TO_THE_POINT, strengthIn } from "./strength.attribute.code.ts"
+import {
+  POUNDS_TO_THE_POINT,
+  strengthIn,
+} from "akasha/alan/attributes/pages/strength/strength.attribute.code.ts"
 
 const held = (figure: unknown) => ({ "strength-volume": figure })
 

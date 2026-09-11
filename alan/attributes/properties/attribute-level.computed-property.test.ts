@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { levelOf, rungs, work } from "./attribute-level.computed-property.code.ts"
+import {
+  levelOf,
+  rungs,
+  work,
+} from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
 
 function firstRungs(count: number): readonly number[] {
   const held: number[] = []

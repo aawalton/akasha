@@ -1,5 +1,5 @@
-import { pointsTodayKept } from "../../points/attribute-points.module.code.ts"
-import { attributeConstitution } from "./attribute-constitution.readout.ts"
+import { pointsTodayKept } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
+import { attributeConstitution } from "akasha/alan/attributes/readouts/attribute-constitution/attribute-constitution.readout.ts"
 
 export function constitutionShown(root: string): number | null {
   return pointsTodayKept(root, attributeConstitution.attribute)

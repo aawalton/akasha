@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { CALORIES_TO_THE_POINT, enduranceIn } from "./endurance.attribute.code.ts"
+import {
+  CALORIES_TO_THE_POINT,
+  enduranceIn,
+} from "akasha/alan/attributes/pages/endurance/endurance.attribute.code.ts"
 
 const held = (figure: unknown) => ({ "active-calories": figure })
 

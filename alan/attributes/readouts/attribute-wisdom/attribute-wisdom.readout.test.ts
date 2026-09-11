@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync } from "node:fs"
 import { join } from "node:path"
+import { keepPointsToday } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
+import { wisdomShown } from "akasha/alan/attributes/readouts/attribute-wisdom/attribute-wisdom.readout.code.ts"
+import { attributeWisdom } from "akasha/alan/attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
 import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
-import { wisdomShown } from "./attribute-wisdom.readout.code.ts"
-import { attributeWisdom } from "./attribute-wisdom.readout.ts"
 
 const HOLD = "/var/tmp"
 
