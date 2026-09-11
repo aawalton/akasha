@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { lowerKebabCase } from "./lower-kebab-case.name-format.code.ts"
+import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
 test("words joined with hyphens and all letters lower are written in it", () => {
   expect(lowerKebabCase("page")).toBe(true)
