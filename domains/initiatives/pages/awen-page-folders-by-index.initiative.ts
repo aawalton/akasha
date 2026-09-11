@@ -13,13 +13,13 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        "The population is counted rather than guessed: 71 page code files call a listing, and 6 of those also spell a page file name the index answers a file for. web-app-reading, deploy-kind-reading and workload-applying landed as 3c66705f — verified before at 152 of 152 slugs identical, after at 6 of 6 web apps and 51 of 51 services read whole over 101 slugs. Left: synth-discovery, source-globbing, sibling-addons, addon-manifest-file, mobile-app.",
+        "The population was counted rather than guessed: 71 page code files call a listing, and 6 of those also spell a page file name the index answers a file for. Landed are the deploy readers, the mobile scripts through `listedAt`, the source globber through the naming grammar, and the addon manifests as the file an `eso-addon` page carries. Each was measured before and after: 152 of 152 slugs, 105 of 105 scripts, 16 of 16 stylesheets, 48 of 48 addons. Only synth-discovery is left.\n",
     },
     {
       statement:
         "No page's code lists a folder off disk where the index answers the pages in that folder.",
       workingMemory:
-        "The widening landed as 265b39c3 and was measured over the tree rather than read: a page's code that both lists and holds a plain literal naming a page-type file-name tail the index answers a file for. The audit gives 331 refusals, of which exactly 6 are this rule, over 5 files — the set predicted, less web-app-reading which 3c66705f converted. No exemption property was needed. It stays off a page's test, where it wrongly catches invented scratch pages.",
+        "The widening is landed and was measured over the tree rather than read: a page's code that both lists and holds a plain literal naming a page-type file-name tail the index answers a file for. The audit now gives 276 refusals over 44 files, of which exactly 2 are this rule, both in synth-discovery. It stays off a page's test, where it wrongly catches invented scratch pages. A page type reached through a template rather than a plain string is still unseen.\n",
     },
   ],
 } as const satisfies Initiative
