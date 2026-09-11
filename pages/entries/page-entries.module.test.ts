@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   type Entried,
   entriedAmong,
   entriedValue,
   entriesAt,
   entriesIn,
-} from "./page-entries.module.code.ts"
+} from "akasha/pages/entries/page-entries.module.code.ts"
 
 const scratch = scratchWorld()
 

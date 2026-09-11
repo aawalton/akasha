@@ -1,9 +1,9 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
+import { besideAt, uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partsOf, uncommittedPartsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { besideAt, uncommittedBesideAt } from "../file-name/page-file-name.module.code.ts"
-import { partsOf, uncommittedPartsOf } from "../file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const UNKNOWN = "so what the page carries there is unknown rather than nothing"
 
