@@ -281,19 +281,27 @@ function ontoFor(
   const source = parsedAs(given.to, landed)
   const held = new Map([...importsIn(source), ...everyIn(source)])
   const lines: string[] = []
+  let text = landed
+  let read = source
   for (const [name, one] of carried) {
     if (ownIn(given, one.from, naming)) continue
     const spelled = spelledFor(given, one.from)
     const there = held.get(name)
-    if (there === undefined) {
+    if (there !== undefined) {
+      if (there.from !== spelled) {
+        return { refused: `\`${given.to}\` already names \`${name}\` from \`${there.from}\`` }
+      }
+      continue
+    }
+    const joined = one.every ? null : withName(text, read, spelled, namedAs(name, one), one.type)
+    if (joined === null) {
       lines.push(lineAs(name, spelled, one))
       continue
     }
-    if (there.from !== spelled) {
-      return { refused: `\`${given.to}\` already names \`${name}\` from \`${there.from}\`` }
-    }
+    text = text.replace(joined.old, joined.new)
+    read = parsedAs(given.to, text)
   }
-  const opened = openedIn(landed, source, lines)
+  const opened = openedIn(text, read, lines)
   const trimmed = passage.replace(/^\n+/, "").trimEnd()
   return { at: given.to, old: whole, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
 }

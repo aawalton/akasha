@@ -122,6 +122,11 @@ export type Other = {
 }
 `
 
+export const OTHER_PATH = `import { dirname } from "node:path"
+
+export const OTHER = dirname("x")
+`
+
 export const VALUE_USING = `import { AT } from "./one.held.ts"
 
 export const held = AT

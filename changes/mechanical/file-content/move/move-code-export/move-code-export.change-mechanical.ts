@@ -128,6 +128,15 @@ export const moveCodeExport = {
       statement:
         "The import back joins the line the body left behind already takes from that landing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A carried import joins the line the landing body already takes from that path.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Two carried names from one path the landing body does not take are written as two lines.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

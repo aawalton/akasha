@@ -14,6 +14,7 @@ import {
   LANDED_FAR,
   NAMED,
   NAMED_AT,
+  OTHER_PATH,
   puttingAt,
   ROOT,
   ROOT_AT,
@@ -203,6 +204,18 @@ test("a landing body that imported what moved no longer imports it", async () =>
   const put = puttingAt(said, TO).join("")
   expect(put).not.toContain(`from "./one.held.ts"`)
   expect(put).toContain(`export const AT = join("a", "b")`)
+})
+
+test("a carried import joins the line the landing body already takes from that path", async () => {
+  const said = await runChange(worldOf({ [FROM]: VALUED, [TO]: OTHER_PATH }), {
+    from: FROM,
+    to: TO,
+    of: "AT",
+  })
+
+  const put = puttingAt(said, TO).join("")
+  expect(put).toContain(`import { dirname, join } from "node:path"`)
+  expect(put.split(`from "node:path"`).length - 1).toBe(1)
 })
 
 test("a landing body naming that import from another path is refused", async () => {
