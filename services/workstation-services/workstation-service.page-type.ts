@@ -49,6 +49,7 @@ export const workstationService = {
     "text-property/wanted-by",
     "text-property/wants",
     "module/tick-ratchet",
+    "module/run-composing",
     "module/run-path-reading",
     "module/service-putting-up",
   ],
