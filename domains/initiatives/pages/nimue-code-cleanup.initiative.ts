@@ -9,11 +9,6 @@ export const nimueCodeCleanup = {
   persona: "nimue",
   intents: [
     {
-      statement: "No code spells a path as a string literal.",
-      workingMemory:
-        "The reach is right and what is left is remediation that is owned. The check binds every writer at change and at audit. `unit-writing` is handed the wrapper's run rather than spelling it, and `service-reading` composes that run from `module/service-wrapping` once a reading. `addon-dist-bundles` no longer wants a `folderOf`: a second caller arrived, and both reach the addon build's output folder through `build-output`, which asks the index where the domain page sits.",
-    },
-    {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
         "`move-folder` at `code-system` to `code` refuses at `app-building.module.test.ts`, which spells `code-system/ios-apps/pages/alanwalton`. The guard reads non-TypeScript through `path-runs`, so the older note that it reads TypeScript alone is wrong. Its real blockers are `writtenIn` at `folder-not-left-named.change-guard.code.ts:85`, reading only the bodies the move writes, and the `startsWith` in `namedBy` at 49-55, matching a root-spelled path alone.",
