@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shellClean } from "./shell-clean.code-check.audit.code.ts"
+import { shellClean } from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.audit.code.ts"
 import {
   CLEAN,
   FAULT,
@@ -7,7 +7,7 @@ import {
   rooted,
   scratch,
   tracked,
-} from "./shell-clean.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

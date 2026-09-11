@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { typesFileRunsNothing } from "./types-file-runs-nothing.code-check.check.code.ts"
+import { typesFileRunsNothing } from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.check.code.ts"
 import {
   AT,
   RUNS,
   rooted,
   scratch,
-} from "./types-file-runs-nothing.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

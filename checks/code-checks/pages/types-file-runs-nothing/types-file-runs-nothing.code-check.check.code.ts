@@ -1,5 +1,11 @@
-import { judgingEach, textsBy } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { declaring, refusedIn } from "./types-file-runs-nothing.code-check.decision.code.ts"
+import {
+  declaring,
+  refusedIn,
+} from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.decision.code.ts"
+import {
+  judgingEach,
+  textsBy,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 const TYPES_FILES = textsBy("types files", declaring)
 

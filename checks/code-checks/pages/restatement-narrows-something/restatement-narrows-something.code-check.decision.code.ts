@@ -1,18 +1,18 @@
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import {
-  type Carried as Declared,
-  identityOf,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Held,
   judgedIn,
   looseningIn,
   underEach,
   widthOf,
-} from "../key-names-one-property/key-names-one-property.code-check.decision.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.code.ts"
+import { carriedBy } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import {
+  type Carried as Declared,
+  identityOf,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 function fallen(was: number | null, now: number | null): boolean {
   return now !== null && (was === null || now < was)

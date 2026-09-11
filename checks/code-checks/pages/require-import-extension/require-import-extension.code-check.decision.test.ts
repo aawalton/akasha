@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
+import {
+  reasonsIn,
+  type Stands,
+} from "akasha/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.code.ts"
 import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { reasonsIn, type Stands } from "./require-import-extension.code-check.decision.code.ts"
 
 const ROOT = "/repo"
 

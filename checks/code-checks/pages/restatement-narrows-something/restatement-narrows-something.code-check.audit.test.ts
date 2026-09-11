@@ -1,16 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { pathFor, tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   ONE,
   PAGE_TYPE,
   TWO,
   typing,
-} from "../key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
-import { restatementNarrowsSomething } from "./restatement-narrows-something.code-check.audit.code.ts"
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
+import { restatementNarrowsSomething } from "akasha/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.audit.code.ts"
 import {
   rooted,
   scratch,
-} from "./restatement-narrows-something.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.test-fixtures.ts"
+import { pathFor, tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

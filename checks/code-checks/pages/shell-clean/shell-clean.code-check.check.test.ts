@@ -1,9 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { landing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { shellClean } from "./shell-clean.code-check.check.code.ts"
+import { shellClean } from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.check.code.ts"
 import {
   CLEAN,
   FAULT,
@@ -11,7 +7,11 @@ import {
   rooted,
   scratch,
   UNQUOTED,
-} from "./shell-clean.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -4,7 +4,7 @@ import {
   scopesOf,
   strandedIn,
   suspectedIn,
-} from "./specifier-names-a-package.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/specifier-names-a-package/specifier-names-a-package.code-check.decision.code.ts"
 
 const AT = "akasha/held/one/one.module.code.ts"
 

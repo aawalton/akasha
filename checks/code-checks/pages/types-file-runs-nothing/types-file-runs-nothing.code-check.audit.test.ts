@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { typesFileRunsNothing } from "./types-file-runs-nothing.code-check.audit.code.ts"
+import { typesFileRunsNothing } from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.audit.code.ts"
 import {
   AT,
   DECLARES,
   RUNS,
   scratch,
   tracked,
-} from "./types-file-runs-nothing.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

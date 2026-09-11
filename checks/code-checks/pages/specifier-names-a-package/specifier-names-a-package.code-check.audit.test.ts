@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { specifierNamesAPackage } from "./specifier-names-a-package.code-check.audit.code.ts"
+import { specifierNamesAPackage } from "akasha/checks/code-checks/pages/specifier-names-a-package/specifier-names-a-package.code-check.audit.code.ts"
 import {
   AT,
   GONE,
   rooted,
   STATED,
   scratch,
-} from "./specifier-names-a-package.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/specifier-names-a-package/specifier-names-a-package.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

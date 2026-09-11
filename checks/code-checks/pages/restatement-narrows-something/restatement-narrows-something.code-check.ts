@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const restatementNarrowsSomething = {
   id: "01a058ff-fbf9-76dc-8437-ad9a61e75657",

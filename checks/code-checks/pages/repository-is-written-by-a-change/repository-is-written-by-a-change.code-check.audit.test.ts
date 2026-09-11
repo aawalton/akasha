@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { repositoryIsWrittenByAChange } from "./repository-is-written-by-a-change.code-check.audit.code.ts"
+import { repositoryIsWrittenByAChange } from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.audit.code.ts"
 import {
   AT,
   READS,
   rooted,
   scratch,
   WRITES,
-} from "./repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

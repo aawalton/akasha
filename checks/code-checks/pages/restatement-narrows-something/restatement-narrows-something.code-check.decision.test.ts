@@ -1,11 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  edging,
-  judgingBy,
-  landing,
-  pathFor,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   ONE,
   PAGE_TYPE,
@@ -17,12 +10,19 @@ import {
   THREE,
   TWO,
   typing,
-} from "../key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
-import { refusalsOver } from "./restatement-narrows-something.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
+import { refusalsOver } from "akasha/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.code.ts"
 import {
   rooted,
   scratch,
-} from "./restatement-narrows-something.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.test-fixtures.ts"
+import {
+  edging,
+  judgingBy,
+  landing,
+  pathFor,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

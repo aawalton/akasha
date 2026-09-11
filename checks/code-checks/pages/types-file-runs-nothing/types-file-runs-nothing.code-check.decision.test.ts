@@ -1,11 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { reasonsIn, whatRunsIn } from "./types-file-runs-nothing.code-check.decision.code.ts"
+import {
+  reasonsIn,
+  whatRunsIn,
+} from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.decision.code.ts"
 import {
   AT,
   given,
   ROOT,
   scratch,
-} from "./types-file-runs-nothing.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

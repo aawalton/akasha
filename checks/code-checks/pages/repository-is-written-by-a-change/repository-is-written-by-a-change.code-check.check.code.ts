@@ -1,14 +1,14 @@
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import {
+  outsideBy,
+  reasonsOf,
+} from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.code.ts"
 import {
   judgingEach,
   type Selector,
   TEXTS,
   type Text,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import {
-  outsideBy,
-  reasonsOf,
-} from "./repository-is-written-by-a-change.code-check.decision.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 type Reasons = (at: string, text: string) => readonly string[]
 

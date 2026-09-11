@@ -1,16 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import {
-  change,
-  gone,
-  landing,
-  proposing,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import type { Found } from "./shell-clean.code-check.decision.code.ts"
+import type { Found } from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.code.ts"
 import {
   besideIn,
   carriedIn,
@@ -19,7 +10,7 @@ import {
   lookedOver,
   reasonOf,
   refusalsOver,
-} from "./shell-clean.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.code.ts"
 import {
   CLEAN,
   FAULT,
@@ -27,7 +18,16 @@ import {
   rooted,
   scratch,
   UNQUOTED,
-} from "./shell-clean.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.test-fixtures.ts"
+import {
+  change,
+  gone,
+  landing,
+  proposing,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 const HELD_ID = "01a05991-d998-7000-b3f5-2a1c0d7e4b91"
 

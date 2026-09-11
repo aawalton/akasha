@@ -1,16 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   asideIn,
   namesAside,
   reasonsOver,
   rootModulesOf,
-} from "./repository-is-written-by-a-change.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.code.ts"
 import {
   ROOT_MODULES_FILED,
   rooted,
   scratch,
-} from "./repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

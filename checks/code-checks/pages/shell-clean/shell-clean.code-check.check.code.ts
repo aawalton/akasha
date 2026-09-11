@@ -1,6 +1,12 @@
-import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { refusalsOver, shellNamed } from "./shell-clean.code-check.decision.code.ts"
+import {
+  refusalsOver,
+  shellNamed,
+} from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.code.ts"
+import type {
+  Body,
+  Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { FILES, input } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 const SHELLS: Selector<Body> = {
   named: "shell scripts",
