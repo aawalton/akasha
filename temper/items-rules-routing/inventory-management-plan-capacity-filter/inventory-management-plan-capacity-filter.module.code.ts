@@ -4,13 +4,13 @@ import { narrowDestination } from "akasha/temper/items-rules-core/inventory-dest
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { resolveStorageKey } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
-import { getActionVenue } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import {
   buildExistingStorageItems,
   buildStorageFreeSlots,
   isItemStackable,
-} from "../inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"
+import { resolveStorageKey } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
+import { getActionVenue } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 
 export interface CapacityAuditDroppedItem {
   readonly itemName: string

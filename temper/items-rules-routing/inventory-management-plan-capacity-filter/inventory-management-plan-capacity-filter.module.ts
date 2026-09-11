@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryManagementPlanCapacityFilter = {
   id: "01a0615a-a1d8-791c-8a78-ea5520c12370",

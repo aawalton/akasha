@@ -5,15 +5,15 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import fc from "fast-check"
-import { makeStackableItem } from "../inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
+import { makeStackableItem } from "akasha/temper/items-rules-routing/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
 import {
   ESO_BAG_BACKPACK,
   makeAffected,
   makeInventory,
   makeLocation,
-} from "../inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts"
+import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import fc from "fast-check"
 
 export type CanLevelMorphsCondition = { readonly mode: "can-level" }
 

@@ -2,11 +2,11 @@ import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/co
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { evaluateBuyRules } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
-import type { PlanItem } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import type {
   CharSimState,
   SimStep,
-} from "../inventory-management-plan-simulation/inventory-management-plan-simulation.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-simulation/inventory-management-plan-simulation.module.code.ts"
+import type { PlanItem } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export const BUY_CHARACTER_ID = "__buy__"
 

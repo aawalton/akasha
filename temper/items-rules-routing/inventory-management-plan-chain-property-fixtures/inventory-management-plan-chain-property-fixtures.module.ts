@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryManagementPlanChainPropertyFixtures = {
   id: "01a06289-2676-7bb0-bf20-a5161d4bbd69",

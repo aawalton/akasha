@@ -6,8 +6,6 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import fc from "fast-check"
 import {
   ESO_BAG_BACKPACK,
   makeAffected,
@@ -15,7 +13,9 @@ import {
   makeItem,
   makeLocation,
   makeRule,
-} from "../inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts"
+import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import fc from "fast-check"
 
 export const STACK_COUNT_ARB = fc.integer({ min: 1, max: 50 })
 export const QUALITY_ARB = fc.integer({ min: 1, max: 5 })

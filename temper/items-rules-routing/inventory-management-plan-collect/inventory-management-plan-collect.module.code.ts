@@ -10,22 +10,22 @@ import type {
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import { resolveItemRoute } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
-import type { RouteStep } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   buildExistingStorageItems,
   isItemStackable,
   mergeStackableEntries,
-} from "../inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"
 import {
   processChainRule,
   threadResidueToNextRule,
-} from "../inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts"
 import type {
   CharSimState,
   SimStep,
-} from "../inventory-management-plan-simulation/inventory-management-plan-simulation.module.code.ts"
-import { fillUseAllocationsInPlace } from "../inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-simulation/inventory-management-plan-simulation.module.code.ts"
+import { fillUseAllocationsInPlace } from "akasha/temper/items-rules-routing/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts"
+import { resolveItemRoute } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
+import type { RouteStep } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function collectSimSteps(
   rules: readonly CompiledOrderedRule[],
