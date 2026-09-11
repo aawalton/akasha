@@ -3,6 +3,10 @@ import {
   addPagePropertyTypes,
   runChange,
 } from "akasha/changes/agent/page-property/add-page-property-types/add-page-property-types.change-agent.code.ts"
+import {
+  AT,
+  TO,
+} from "akasha/changes/agent/page-property/add-page-property-types/add-page-property-types.change-agent.test-fixtures.ts"
 import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   catching,
@@ -11,10 +15,6 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const KIND = "boolean-property"
-
-const AT = "held/ones/properties/mortal.boolean-property.ts"
-
-const TO = "held/ones/properties/mortal.boolean-property.types.ts"
 
 const STATED = "change-mechanical-file-content/add-page-property"
 
