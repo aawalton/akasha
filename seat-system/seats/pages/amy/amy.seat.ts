@@ -6,7 +6,7 @@ export const amy = {
   type: "seat",
   slug: "amy",
   persona: "amy",
-  assignmentSlug: "initiative/amy-harness-improvements",
+  assignmentSlug: "initiative/amy-telnyx-approval",
   role: "definer",
   person: "alan",
   startMode: "interactive",

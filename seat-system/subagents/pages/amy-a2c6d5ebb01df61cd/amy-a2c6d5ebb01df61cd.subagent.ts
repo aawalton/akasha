@@ -6,7 +6,7 @@ export const amyA2c6d5ebb01df61cd = {
   type: "subagent",
   slug: "amy-a2c6d5ebb01df61cd",
   principalSeatName: "amy",
-  assignmentSlug: "initiative/amy-harness-improvements",
+  assignmentSlug: "initiative/amy-telnyx-approval",
   dispatchedAs: "general-purpose",
   agentId: "01a087b5-1ca3-7000-bf5c-16aae1620c39--a2c6d5ebb01df61cd",
 } as const satisfies Subagent
