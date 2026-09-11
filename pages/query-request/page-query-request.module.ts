@@ -26,14 +26,6 @@ export const pageQueryRequest = {
       statement: "A list is a value only where every entry in that list is text.",
     },
     {
-      invariantKind: "departure",
-      statement: "A list is no record.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body that is a list reads as no record.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here reads a file or reaches the network.",
     },

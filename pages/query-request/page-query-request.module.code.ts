@@ -24,9 +24,3 @@ export function isValue(one: unknown): one is Value {
   if (typeof one === "string" || typeof one === "number" || typeof one === "boolean") return true
   return Array.isArray(one) && one.every((each) => typeof each === "string")
 }
-
-export function asRecord(body: unknown): Record<string, unknown> | null {
-  return typeof body === "object" && body !== null && !Array.isArray(body)
-    ? (body as Record<string, unknown>)
-    : null
-}
