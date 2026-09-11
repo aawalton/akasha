@@ -35,5 +35,9 @@ export const indexListing = {
       invariantKind: "absence",
       statement: "Nothing filed here says which page a path belongs to.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here depends on why the path index files a path.",
+    },
   ],
 } as const satisfies Index
