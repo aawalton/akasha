@@ -11,9 +11,9 @@ import {
   type TerminalVerdict,
   type Winner,
   winnerToResult,
-} from "../game/chess-game.module.code.ts"
-import type { PositionStatus } from "../position/chess-position.module.code.ts"
-import { fenSideToMove } from "../uci/chess-uci.module.code.ts"
+} from "akasha/alan/chess/game/chess-game.module.code.ts"
+import type { PositionStatus } from "akasha/alan/chess/position/chess-position.module.code.ts"
+import { fenSideToMove } from "akasha/alan/chess/uci/chess-uci.module.code.ts"
 
 export interface AppliedMove {
   readonly fen: string

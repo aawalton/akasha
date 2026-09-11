@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.types.ts"
+import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.types.ts"
 
 export const masterGamesTaimanovNajdorfZurich1953 = {
   id: "019f248f-e85f-7b5d-86bc-e24efca32c90",

@@ -1,4 +1,4 @@
-import type { ChessProgress } from "../chess-progress.page-type.types.ts"
+import type { ChessProgress } from "akasha/alan/chess/progresses/chess-progress.page-type.types.ts"
 
 export const endgameTechnique = {
   id: "019f06ba-f9d3-773f-8028-f6a85e738f09",

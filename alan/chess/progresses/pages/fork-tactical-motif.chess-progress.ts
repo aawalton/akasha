@@ -1,4 +1,4 @@
-import type { ChessProgress } from "../chess-progress.page-type.types.ts"
+import type { ChessProgress } from "akasha/alan/chess/progresses/chess-progress.page-type.types.ts"
 
 export const forkTacticalMotif = {
   id: "019f06ba-f709-79ab-95a1-03c0499dbe31",

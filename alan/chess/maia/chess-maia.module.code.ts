@@ -1,10 +1,14 @@
 import { existsSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
+import {
+  lc0Available,
+  resolveLc0Path,
+  runEngine,
+} from "akasha/alan/chess/engine/chess-engine.module.code.ts"
+import { isBestMoveLine, parseSearch } from "akasha/alan/chess/uci/chess-uci.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
-import { lc0Available, resolveLc0Path, runEngine } from "../engine/chess-engine.module.code.ts"
-import { isBestMoveLine, parseSearch } from "../uci/chess-uci.module.code.ts"
 
 export const MAIA_MIN_BAND = 1100
 export const MAIA_MAX_BAND = 1900

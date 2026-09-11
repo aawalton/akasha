@@ -1,5 +1,16 @@
 "use client"
-import "../board-look/chess-board-look.stylesheet.styles.css"
+import "akasha/alan/chess/board-look/chess-board-look.stylesheet.styles.css"
+import { evalToWhiteFraction, formatScore } from "akasha/alan/chess/eval/chess-eval.module.code.ts"
+import ChessEvalBar from "akasha/alan/chess/eval-bar/chess-eval-bar.module.code.tsx"
+import ChessMoveList from "akasha/alan/chess/move-list/chess-move-list.module.code.tsx"
+import type { ChessState, ChessStatus } from "akasha/alan/chess/state/chess-state.module.code.ts"
+import {
+  applyMove,
+  createChessState,
+  deriveMoveList,
+  deriveSnapshot,
+  stepToPly,
+} from "akasha/alan/chess/state/chess-state.module.code.ts"
 import { useChromeToggle } from "akasha/pages/ui/components/use-chrome-toggle/use-chrome-toggle.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { Chessground } from "chessground"
@@ -15,17 +26,6 @@ import {
   useState,
 } from "react"
 import { z } from "zod"
-import { evalToWhiteFraction, formatScore } from "../eval/chess-eval.module.code.ts"
-import ChessEvalBar from "../eval-bar/chess-eval-bar.module.code.tsx"
-import ChessMoveList from "../move-list/chess-move-list.module.code.tsx"
-import type { ChessState, ChessStatus } from "../state/chess-state.module.code.ts"
-import {
-  applyMove,
-  createChessState,
-  deriveMoveList,
-  deriveSnapshot,
-  stepToPly,
-} from "../state/chess-state.module.code.ts"
 
 function asKey(square: string): Key {
   return square as Key

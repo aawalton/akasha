@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.types.ts"
+import type { ChessGame } from "akasha/alan/chess/games/chess-game.page-type.types.ts"
 
 export const masterGamesStudyPhilidorPosition1749 = {
   id: "019f248f-e857-7ba2-907a-94b62bab69d8",
