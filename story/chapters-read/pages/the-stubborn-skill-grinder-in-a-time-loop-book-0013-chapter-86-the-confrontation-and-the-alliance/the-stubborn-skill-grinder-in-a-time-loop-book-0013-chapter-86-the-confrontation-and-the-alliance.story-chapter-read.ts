@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0013Chapter86TheConfrontationAndTheAlliance = {
   id: "01a06730-4f02-76d2-9e35-09f7bef1c2d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0013-chapter-86-the-confrontation-and-the-alliance",
   title: "Chapter 86 - The Confrontation & The Alliance",

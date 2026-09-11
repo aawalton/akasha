@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0719GoblinDaysPt4OrderOddity = {
   id: "01a0659c-7eb1-7214-8448-c35ae9b1c8be",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0719-goblin-days-pt-4-order-oddity",
   title: "Goblin Days (Pt. 4) - Order, Oddity",

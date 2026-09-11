@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0003Chapter3WarehouseMassacre = {
   id: "01a06730-4eda-781e-af80-6f6dea56f9e7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0003-chapter-3-warehouse-massacre",
   title: "Chapter 3 - Warehouse Massacre",

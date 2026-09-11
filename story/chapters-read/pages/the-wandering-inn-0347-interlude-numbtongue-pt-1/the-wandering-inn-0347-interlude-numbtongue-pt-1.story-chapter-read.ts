@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0347InterludeNumbtonguePt1 = {
   id: "01a0659b-0fe5-7754-b235-69eaddff653f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0347-interlude-numbtongue-pt-1",
   title: "Interlude - Numbtongue (Pt.1)",

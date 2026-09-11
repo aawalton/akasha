@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0193Chapter1319ReflectingOnQuestionableDiplomacy = {
   id: "01a06730-4e2b-7589-bf2b-8efe4ed58bdc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0193-chapter-1319-reflecting-on-questionable-diplomacy",
   title: "Chapter 1319 - Reflecting On Questionable Diplomacy",

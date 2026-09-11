@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0045Chapter113TheBattleOfGlyphwardFortress = {
   id: "01a06730-4f4b-7426-b1d4-1a30304e7257",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0045-chapter-113-the-battle-of-glyphward-fortress",
   title: "Chapter 113 - The Battle of Glyphward Fortress",

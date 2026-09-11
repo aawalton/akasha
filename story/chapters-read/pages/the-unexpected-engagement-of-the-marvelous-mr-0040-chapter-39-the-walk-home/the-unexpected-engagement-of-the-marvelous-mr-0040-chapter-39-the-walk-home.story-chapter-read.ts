@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0040Chapter39TheWalkHome = {
   id: "01a06730-4e46-71b5-bd6a-374b545c3599",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0040-chapter-39-the-walk-home",
   title: "Chapter 39 - The Walk Home",

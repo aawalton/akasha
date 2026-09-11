@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0001IntroductionLettersToTheEditorOfThe = {
   id: "01a06730-4e34-734e-b7a4-8927edeaa2cb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0001-introduction-letters-to-the-editor-of-the",
   title: "Introduction - Letters to the Editor of the Quotidian",

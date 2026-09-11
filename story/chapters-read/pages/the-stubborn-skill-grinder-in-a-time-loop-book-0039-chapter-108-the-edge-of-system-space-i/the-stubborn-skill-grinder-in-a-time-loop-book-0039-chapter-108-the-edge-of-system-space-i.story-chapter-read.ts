@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0039Chapter108TheEdgeOfSystemSpaceI = {
   id: "01a06730-4f3e-7f5b-8fde-e92520834e04",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0039-chapter-108-the-edge-of-system-space-i",
   title: "Chapter 108 - The Edge of System Space I",

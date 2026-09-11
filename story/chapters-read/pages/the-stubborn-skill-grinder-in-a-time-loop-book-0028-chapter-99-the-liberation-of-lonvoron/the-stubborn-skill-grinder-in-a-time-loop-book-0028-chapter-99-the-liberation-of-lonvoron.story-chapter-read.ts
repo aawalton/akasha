@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0028Chapter99TheLiberationOfLonvoron = {
   id: "01a06730-4f21-76ff-ae95-9a7fde2163a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0028-chapter-99-the-liberation-of-lonvoron",
   title: "Chapter 99 - The Liberation of Lonvoron",

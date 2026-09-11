@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theRunesmith0013Ch13 = {
   id: "01a06730-4e4b-7dea-84ad-26713a33b592",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-runesmith-0013-ch-13",
   title: "Ch: 13",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0046Chapter45TheArrest = {
   id: "01a06730-4e47-73aa-9b13-6d169ad3f82f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0046-chapter-45-the-arrest",
   title: "Chapter 45 - The Arrest",

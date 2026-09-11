@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0190Chapter1316ComingUpBlank = {
   id: "01a06730-4e2a-70ea-8b6d-c1547eea2dbf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0190-chapter-1316-coming-up-blank",
   title: "Chapter 1316 - Coming Up Blank",

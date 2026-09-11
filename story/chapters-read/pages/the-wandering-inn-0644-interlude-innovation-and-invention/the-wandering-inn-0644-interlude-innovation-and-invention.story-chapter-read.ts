@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0644InterludeInnovationAndInvention = {
   id: "01a06599-78d0-734a-ac1a-e36d8a853f08",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0644-interlude-innovation-and-invention",
   title: "Interlude - Innovation and Invention",

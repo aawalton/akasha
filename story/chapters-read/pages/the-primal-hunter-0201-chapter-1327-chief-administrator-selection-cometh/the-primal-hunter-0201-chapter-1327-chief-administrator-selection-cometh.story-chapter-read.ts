@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0201Chapter1327ChiefAdministratorSelectionCometh = {
   id: "01a06730-4e31-7710-9958-e2da525115ab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0201-chapter-1327-chief-administrator-selection-cometh",
   title: "Chapter 1327 - Chief Administrator Selection Cometh",

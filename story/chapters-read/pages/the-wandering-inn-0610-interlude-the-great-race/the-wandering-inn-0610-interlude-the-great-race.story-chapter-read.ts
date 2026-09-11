@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0610InterludeTheGreatRace = {
   id: "01a0659e-da8c-73d1-9769-fac99433f58a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0610-interlude-the-great-race",
   title: "Interlude - The Great Race",

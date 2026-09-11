@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0004Chapter3LadySerrsComtess = {
   id: "01a06730-4e34-7bf0-ad18-8284083cd7f6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0004-chapter-3-lady-serrs-comtess",
   title: "Chapter 3 - Lady Serrs-Comtess",

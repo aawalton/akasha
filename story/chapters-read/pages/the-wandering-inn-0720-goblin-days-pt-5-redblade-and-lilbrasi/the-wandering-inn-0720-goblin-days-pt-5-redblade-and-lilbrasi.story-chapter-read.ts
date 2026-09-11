@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0720GoblinDaysPt5RedbladeAndLilbrasi = {
   id: "01a0659c-7eb2-78a8-8e0e-3edcc6c7707f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0720-goblin-days-pt-5-redblade-and-lilbrasi",
   title: "Goblin Days (Pt. 5) - Redblade and Lilbrasi",

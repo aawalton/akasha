@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0357InterludeRufelt = {
   id: "01a0659c-65b0-7a32-ad1c-c5e6b1e2774f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0357-interlude-rufelt",
   title: "Interlude - Rufelt",

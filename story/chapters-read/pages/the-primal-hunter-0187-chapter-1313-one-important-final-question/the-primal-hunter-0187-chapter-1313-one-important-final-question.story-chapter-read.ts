@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0187Chapter1313OneImportantFinalQuestion = {
   id: "01a06730-4e29-78f6-9e73-6bb489a99ac8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0187-chapter-1313-one-important-final-question",
   title: "Chapter 1313 - One Important Final Question",

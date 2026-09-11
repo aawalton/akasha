@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0023Chapter22JonesComesWithAMessage = {
   id: "01a06730-4e3a-73ad-846b-3c4f1df9e579",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0023-chapter-22-jones-comes-with-a-message",
   title: "Chapter 22 - Jones Comes with a Message",

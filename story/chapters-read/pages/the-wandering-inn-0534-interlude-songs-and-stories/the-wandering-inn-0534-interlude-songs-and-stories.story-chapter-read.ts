@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0534InterludeSongsAndStories = {
   id: "01a0659c-4a0b-7eb1-9228-07e9e9556b4c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0534-interlude-songs-and-stories",
   title: "Interlude - Songs and Stories",

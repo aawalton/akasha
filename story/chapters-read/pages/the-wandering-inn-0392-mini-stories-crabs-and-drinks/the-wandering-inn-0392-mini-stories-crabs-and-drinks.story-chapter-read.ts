@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0392MiniStoriesCrabsAndDrinks = {
   id: "01a0659d-4c74-719f-be7a-27657b51dc71",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0392-mini-stories-crabs-and-drinks",
   title: "Mini Stories - Crabs and Drinks",

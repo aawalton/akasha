@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0594InterludeTheIslesOfGoblinAndMinos = {
   id: "01a0659d-e71e-76ab-a515-ff5aa0482eac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0594-interlude-the-isles-of-goblin-and-minos",
   title: "Interlude - The Isles of Goblin and Minos",

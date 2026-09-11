@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0406InterludeLiftingAnts = {
   id: "01a0659d-4cd7-7eee-95dc-64dab4e06fbb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0406-interlude-lifting-ants",
   title: "Interlude - Lifting Ants",

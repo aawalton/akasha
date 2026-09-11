@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   id: "01a06730-4e34-7173-a4e6-cd78254d8c26",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0207-chapter-1333-territory-beacon",
   title: "Chapter 1333 - Territory Beacon",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0220Chapter1346StormyWithAChanceOfFlamesAndArrows = {
   id: "01a06730-4e38-7696-a1d0-0b91bff09be3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0220-chapter-1346-stormy-with-a-chance-of-flames-and-arrows",
   title: "Chapter 1346 - Stormy With A Chance of Flames & Arrows",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0019Chapter91AConceptualResponsibility = {
   id: "01a06730-4f0d-7416-993a-4096f932f576",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0019-chapter-91-a-conceptual-responsibility",
   title: "Chapter 91 - A Conceptual Responsibility",

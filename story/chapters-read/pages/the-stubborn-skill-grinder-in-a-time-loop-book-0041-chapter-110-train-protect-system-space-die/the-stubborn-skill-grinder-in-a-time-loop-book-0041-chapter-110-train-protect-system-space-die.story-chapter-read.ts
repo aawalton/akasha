@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0041Chapter110TrainProtectSystemSpaceDie = {
   id: "01a06730-4f41-7c54-9d0e-617061efb2b6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0041-chapter-110-train-protect-system-space-die",
   title: "Chapter 110 - Train. Protect System Space. Die. Repeat. I",

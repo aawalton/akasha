@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0411MatingRitualsPt2 = {
   id: "01a0659d-4d06-737d-8bfe-3356399757e4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0411-mating-rituals-pt-2",
   title: "Mating Rituals Pt.2",

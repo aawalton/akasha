@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0007Chapter80AChaoticStartToANewLongLoop = {
   id: "01a06730-4eeb-7a0f-860d-526441fcd369",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0007-chapter-80-a-chaotic-start-to-a-new-long-loop",
   title: "Chapter 80 - A Chaotic Start To A New Long Loop",

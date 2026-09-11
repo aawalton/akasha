@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0039Chapter38RaphaelSStory = {
   id: "01a06730-4e44-7978-8a2b-fddbbdb2c2d0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0039-chapter-38-raphael-s-story",
   title: "Chapter 38 - Raphael's Story",

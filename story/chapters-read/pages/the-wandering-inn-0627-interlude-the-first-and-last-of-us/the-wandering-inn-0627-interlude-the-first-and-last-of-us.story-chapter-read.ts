@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0627InterludeTheFirstAndLastOfUs = {
   id: "01a06599-78a5-70ba-a6bc-4069817edb63",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0627-interlude-the-first-and-last-of-us",
   title: "Interlude - The First and Last of Us",

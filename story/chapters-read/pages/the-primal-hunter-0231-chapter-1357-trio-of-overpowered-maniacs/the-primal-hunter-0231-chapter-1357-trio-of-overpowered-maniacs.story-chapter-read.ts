@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0231Chapter1357TrioOfOverpoweredManiacs = {
   id: "01a06730-4e41-7abe-ae86-5e4de9d8a6c9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0231-chapter-1357-trio-of-overpowered-maniacs",
   title: "Chapter 1357 - Trio of Overpowered Maniacs",

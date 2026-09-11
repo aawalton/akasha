@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theStubbornSkillGrinderInATimeLoopBook0033Chapter102TestingLimitsI = {
   id: "01a06730-4f2e-7eaf-afef-71fb19d5c5be",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0033-chapter-102-testing-limits-i",
   title: "Chapter 102 - Testing Limits I",

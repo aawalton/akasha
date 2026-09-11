@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theWanderingInn0381InterludeFoliana = {
   id: "01a0659c-6661-775e-b5e3-fb0061f47724",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-wandering-inn-0381-interlude-foliana",
   title: "Interlude - Foliana",

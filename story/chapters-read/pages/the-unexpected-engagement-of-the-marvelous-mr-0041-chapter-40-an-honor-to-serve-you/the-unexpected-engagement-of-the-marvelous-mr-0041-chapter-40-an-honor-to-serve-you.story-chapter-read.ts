@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0041Chapter40AnHonorToServeYou = {
   id: "01a06730-4e46-7cdb-99d5-0e2316eeb14e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0041-chapter-40-an-honor-to-serve-you",
   title: "Chapter 40 - An Honor to Serve You",

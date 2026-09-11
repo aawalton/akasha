@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theUnexpectedEngagementOfTheMarvelousMr0047Chapter46AnotherLetter = {
   id: "01a06730-4e47-78db-b3f7-a458b7ed4b1d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0047-chapter-46-another-letter",
   title: "Chapter 46 - Another Letter",
