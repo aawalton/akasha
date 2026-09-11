@@ -1,12 +1,15 @@
 import {
+  placesIn,
+  refusedIn,
+} from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.code.ts"
+import {
   bodyOf,
   input,
   overEachFile,
   TEXTS,
   textNamed,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Running } from "../../../modules/judging/judging.module.code.ts"
-import { placesIn, refusedIn } from "./identifier-matches-its-place.code-check.decision.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Running } from "akasha/checks/modules/judging/judging.module.code.ts"
 
 const refusalsIn: Running = (change, shadow) => {
   const wanted = change.changed.some((one) => textNamed(one))

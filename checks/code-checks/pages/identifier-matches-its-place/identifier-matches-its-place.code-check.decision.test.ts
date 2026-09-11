@@ -1,10 +1,5 @@
 import { expect, test } from "bun:test"
-import { componentIdentifier } from "akasha/pages/name-places/pages/component-identifier.name-place.ts"
-import { constantIdentifier } from "akasha/pages/name-places/pages/constant-identifier.name-place.ts"
-import { derivedIdentifier } from "akasha/pages/name-places/pages/derived-identifier.name-place.ts"
-import { functionIdentifier } from "akasha/pages/name-places/pages/function-identifier.name-place.ts"
-import { typeIdentifier } from "akasha/pages/name-places/pages/type-identifier.name-place.ts"
-import { refusedIn } from "./identifier-matches-its-place.code-check.decision.code.ts"
+import { refusedIn } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.code.ts"
 import {
   AT,
   BESIDE_AT,
@@ -12,7 +7,12 @@ import {
   HELD_AT,
   PAGE_AT,
   PLACES,
-} from "./identifier-matches-its-place.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.test-fixtures.ts"
+import { componentIdentifier } from "akasha/pages/name-places/pages/component-identifier.name-place.ts"
+import { constantIdentifier } from "akasha/pages/name-places/pages/constant-identifier.name-place.ts"
+import { derivedIdentifier } from "akasha/pages/name-places/pages/derived-identifier.name-place.ts"
+import { functionIdentifier } from "akasha/pages/name-places/pages/function-identifier.name-place.ts"
+import { typeIdentifier } from "akasha/pages/name-places/pages/type-identifier.name-place.ts"
 
 test("a type in upper camel case and a function in lower camel case are let through", () => {
   const body = "export type PageEdge = { one: string }\nexport function pageEdgeIn() {}\n"

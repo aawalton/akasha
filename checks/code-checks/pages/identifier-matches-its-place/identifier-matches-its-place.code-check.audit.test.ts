@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { treed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { identifierMatchesItsPlace } from "./identifier-matches-its-place.code-check.audit.code.ts"
+import { identifierMatchesItsPlace } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.audit.code.ts"
 import {
   placed,
   scratch,
-} from "./identifier-matches-its-place.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.test-fixtures.ts"
+import { treed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 
 const HELD = "akasha/held.ts"
 

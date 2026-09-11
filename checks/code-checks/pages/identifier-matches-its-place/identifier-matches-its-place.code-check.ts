@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const identifierMatchesItsPlace = {
   id: "01a0500d-f968-74e7-b9a7-8394faa7a890",

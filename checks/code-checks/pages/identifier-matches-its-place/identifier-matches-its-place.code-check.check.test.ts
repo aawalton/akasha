@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { change, proposing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { identifierMatchesItsPlace } from "./identifier-matches-its-place.code-check.check.code.ts"
+import { identifierMatchesItsPlace } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.check.code.ts"
 import {
   placed,
   scratch,
-} from "./identifier-matches-its-place.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.test-fixtures.ts"
+import { change, proposing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const HELD = "akasha/held.ts"
 
