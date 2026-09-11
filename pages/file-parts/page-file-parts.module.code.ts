@@ -2,7 +2,7 @@ import {
   besideAt,
   FIRST_PART,
   uncommittedBesideAt,
-} from "../file-name/page-file-name.module.code.ts"
+} from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 function sectionFor(propertySlug: string, part: number): string {
   return part <= FIRST_PART ? propertySlug : `${propertySlug}.part${part}`

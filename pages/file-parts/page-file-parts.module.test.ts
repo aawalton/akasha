@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { heldIn } from "../file-name/page-file-name.module.code.ts"
-import { partAt, partsOf, uncommittedPartAt } from "./page-file-parts.module.code.ts"
+import { heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  partAt,
+  partsOf,
+  uncommittedPartAt,
+} from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 
 const PAGE_TYPES = new Set<string>(["temper-mine", "seat"])
 
