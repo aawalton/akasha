@@ -367,3 +367,14 @@ export async function answering(run: () => Promise<Answer>): Promise<Answer> {
     return refused(whySaid(thrown), codeOf(thrown))
   }
 }
+
+export async function answeredCall(
+  argv: readonly string[],
+  calledAs: string,
+  shape: Shape,
+  act: (held: ReadonlyMap<string, string>, id: string) => Promise<Answer>
+): Promise<Answer> {
+  const read = readIn(argv, calledAs, shape)
+  if ("refused" in read) return refusedAll(read.refused)
+  return await answering(() => act(read.said, read.id ?? ""))
+}

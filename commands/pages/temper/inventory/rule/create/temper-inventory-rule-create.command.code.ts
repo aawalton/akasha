@@ -2,12 +2,10 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
-  answering,
+  answeredCall,
   DATA,
   GOAL,
   NOTES,
-  readIn,
-  refusedAll,
   settingsOf,
   shapeOf,
   TITLE,
@@ -70,7 +68,5 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
 }
 
 export async function temperInventoryRuleCreate(argv: readonly string[] = []): Promise<Answer> {
-  const read = readIn(argv, CALLED_AS, SHAPE)
-  if ("refused" in read) return refusedAll(read.refused)
-  return await answering(() => made(read.said))
+  return await answeredCall(argv, CALLED_AS, SHAPE, made)
 }

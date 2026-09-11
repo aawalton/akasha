@@ -1,10 +1,8 @@
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  answering,
+  answeredCall,
   categoryRow,
   JSON_FLAG,
-  readIn,
-  refusedAll,
   settingsOf,
   shapeOf,
   toldOf,
@@ -55,7 +53,5 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
 }
 
 export async function temperInventoryRuleList(argv: readonly string[] = []): Promise<Answer> {
-  const read = readIn(argv, CALLED_AS, SHAPE)
-  if ("refused" in read) return refusedAll(read.refused)
-  return await answering(() => listed(read.said))
+  return await answeredCall(argv, CALLED_AS, SHAPE, listed)
 }

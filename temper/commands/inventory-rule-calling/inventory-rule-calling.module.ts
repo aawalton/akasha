@@ -17,6 +17,14 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A call is read, refused or run through one act here rather than by each command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command names the act to run and states nothing of how a call is read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The flags a command takes are read against the list its own page states.",
     },
     {
