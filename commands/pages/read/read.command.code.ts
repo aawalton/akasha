@@ -1,5 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { leadingBytes } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "akasha/commands/modules/differing/differing.module.code.ts"
@@ -35,8 +36,6 @@ const FILE_PATH = "--file-path"
 const FULL = "--full"
 
 const SEAT = "--seat"
-
-const LEADING = 8
 
 const MOVED = "it changed since you read it"
 
@@ -177,10 +176,6 @@ export function spreading(targets: readonly Target[], given: Given): readonly Ta
   return held
 }
 
-function leadingOf(bytes: Uint8Array): string {
-  return [...bytes.subarray(0, LEADING)].map((one) => one.toString(16).padStart(2, "0")).join("")
-}
-
 function alreadyOf(named: string, bytes: Uint8Array): string {
   const text = textOf(bytes)
   const held = text === null ? 0 : countLines(text)
@@ -191,7 +186,7 @@ export function linesFor(named: string, bytes: Uint8Array): readonly string[] {
   const text = textOf(bytes)
   if (text === null) {
     return [
-      `${named} — ${bytes.length} bytes that are not UTF-8 text, beginning \`${leadingOf(bytes)}\`, ` +
+      `${named} — ${bytes.length} bytes that are not UTF-8 text, beginning \`${leadingBytes(bytes)}\`, ` +
         "so a body here would be U+FFFD wherever this file is not text rather than the file itself; " +
         "nothing follows",
     ]
