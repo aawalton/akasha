@@ -1,10 +1,10 @@
-import type { ActiveFilterValues } from "../search-filter-set/search-filter-set.module.code.ts"
+import type { ActiveFilterValues } from "akasha/temper/items-filters-core/search-filter-set/search-filter-set.module.code.ts"
 import type {
   AnyTemperFilter,
   FilterId,
   FilterValue,
   SavedFilterValue,
-} from "../search-filter-types/search-filter-types.module.code.ts"
+} from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 
 export interface SavedSearch {
   readonly version: 1

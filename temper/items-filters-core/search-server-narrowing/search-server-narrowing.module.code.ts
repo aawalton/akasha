@@ -1,4 +1,4 @@
-import type { FilterRangeValue } from "../search-filter-types/search-filter-types.module.code.ts"
+import type { FilterRangeValue } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 
 export function selectedIdsToServerTerms(selected: readonly string[]): readonly number[] {
   const ids: number[] = []

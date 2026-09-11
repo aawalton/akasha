@@ -1,5 +1,5 @@
 import { itemNameMatchesPattern } from "akasha/temper/items-core/item-name-pattern/item-name-pattern.module.code.ts"
-import { defineFilter } from "../search-filter-types/search-filter-types.module.code.ts"
+import { defineFilter } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 
 export const ITEM_NAME_FILTER = defineFilter<string>({
   id: "item-name",

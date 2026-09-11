@@ -1,6 +1,6 @@
-import type { FilterToggleValue } from "../search-filter-types/search-filter-types.module.code.ts"
-import { defineFilter } from "../search-filter-types/search-filter-types.module.code.ts"
-import { parseToggle } from "../search-toggle-value-parse/search-toggle-value-parse.module.code.ts"
+import type { FilterToggleValue } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
+import { defineFilter } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
+import { parseToggle } from "akasha/temper/items-filters-core/search-toggle-value-parse/search-toggle-value-parse.module.code.ts"
 
 const SPECIALIZED_ITEMTYPE_TROPHY_TREASURE_MAP = 100
 

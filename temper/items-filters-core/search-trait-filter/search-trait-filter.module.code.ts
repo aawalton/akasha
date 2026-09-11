@@ -12,11 +12,11 @@ import {
 } from "akasha/temper/equipment/eso-trait-map/eso-trait-map.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import { runChecker } from "akasha/temper/items-filters-core/search-eval-adapter/search-eval-adapter.module.code.ts"
+import type { FilterEditorOption } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
+import { defineFilter } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
+import { parseStringArray } from "akasha/temper/items-filters-core/search-string-array-parse/search-string-array-parse.module.code.ts"
 import { checkClassification } from "akasha/temper/items-rules-eval/check-classification/check-classification.module.code.ts"
-import { runChecker } from "../search-eval-adapter/search-eval-adapter.module.code.ts"
-import type { FilterEditorOption } from "../search-filter-types/search-filter-types.module.code.ts"
-import { defineFilter } from "../search-filter-types/search-filter-types.module.code.ts"
-import { parseStringArray } from "../search-string-array-parse/search-string-array-parse.module.code.ts"
 
 function buildTraitOptions(): readonly FilterEditorOption[] {
   const all = [

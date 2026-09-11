@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const searchFilterTypes = {
   id: "01a0613a-e0a8-75a6-a3ee-c8d3942a94c3",

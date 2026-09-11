@@ -1,6 +1,6 @@
-import { defineFilter } from "../search-filter-types/search-filter-types.module.code.ts"
-import { selectedIdsToServerTerms } from "../search-server-narrowing/search-server-narrowing.module.code.ts"
-import { parseStringArray } from "../search-string-array-parse/search-string-array-parse.module.code.ts"
+import { defineFilter } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
+import { selectedIdsToServerTerms } from "akasha/temper/items-filters-core/search-server-narrowing/search-server-narrowing.module.code.ts"
+import { parseStringArray } from "akasha/temper/items-filters-core/search-string-array-parse/search-string-array-parse.module.code.ts"
 
 const EQUIP_SLOT_OPTIONS = [
   { value: "1", label: "Head" },
