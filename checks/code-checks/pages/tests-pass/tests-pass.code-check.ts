@@ -264,6 +264,15 @@ export const testsPass = {
       statement:
         "A total would fall only by having fewer tests rather than by any test being faster.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fixture shaped like the runner's output says in its name whether that shape was captured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A captured fixture keeps the shape a run printed, with the paths restated.",
+    },
   ],
   check: {},
   audit: {},

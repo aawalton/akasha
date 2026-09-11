@@ -23,18 +23,18 @@ import {
   spentlyOf,
 } from "./tests-pass.code-check.decision.code.ts"
 import {
+  AUTHORED_CHATTY_CLEAN,
+  AUTHORED_CHATTY_PASSED,
+  AUTHORED_ERRORED,
+  AUTHORED_LOGGED_ERROR,
+  AUTHORED_ONE_FAILED,
+  AUTHORED_TWO_FAILED,
   BREAKS,
+  CAPTURED_FOREIGN_HEADER,
   COUNTED_AT,
   FAILS,
   HOLDS,
   PASSES,
-  RAN_CHATTY_CLEAN,
-  RAN_CHATTY_PASSED,
-  RAN_ERRORED,
-  RAN_FOREIGN_HEADER,
-  RAN_LOGGED_ERROR,
-  RAN_ONE_FAILED,
-  RAN_TWO_FAILED,
   READS,
   repo,
   SORTED_AT,
@@ -293,13 +293,13 @@ test("a run under a change that moves a page type resolves that page type where 
 test("a failing run is reported against the file whose tests failed", () => {
   const named = [COUNTED_AT, SORTED_AT].sort()
   expect(named[0]).toBe(SORTED_AT)
-  const ran = ranAs("fail", { files: 2, failed: 1, passed: 7 }, RAN_ONE_FAILED)
+  const ran = ranAs("fail", { files: 2, failed: 1, passed: 7 }, AUTHORED_ONE_FAILED)
   expect(refusedOf(ran, named, SORTED_AT).path).toBe(COUNTED_AT)
 })
 
 test("that refusal names each file the output blames", () => {
   const named = [SORTED_AT, COUNTED_AT]
-  const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, RAN_TWO_FAILED)
+  const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, AUTHORED_TWO_FAILED)
   const said = refusedOf(ran, named, SORTED_AT)
   expect(said.path).toBe(SORTED_AT)
   expect(said.reason).toContain("2 test files failed")
@@ -313,27 +313,27 @@ test("a run whose output blames no file is reported against the first test file 
 })
 
 test("a file the output names that the run did not name is blamed by nothing", () => {
-  expect(failedIn(RAN_ONE_FAILED, [SORTED_AT])).toEqual([])
+  expect(failedIn(AUTHORED_ONE_FAILED, [SORTED_AT])).toEqual([])
 })
 
 test("a file that printed and passed is left out while the one that failed is named", () => {
-  expect(failedIn(RAN_CHATTY_PASSED, [SORTED_AT, COUNTED_AT])).toEqual([COUNTED_AT])
+  expect(failedIn(AUTHORED_CHATTY_PASSED, [SORTED_AT, COUNTED_AT])).toEqual([COUNTED_AT])
 })
 
 test("a run whose files only printed blames no file at all", () => {
-  expect(failedIn(RAN_CHATTY_CLEAN, [SORTED_AT, COUNTED_AT])).toEqual([])
+  expect(failedIn(AUTHORED_CHATTY_CLEAN, [SORTED_AT, COUNTED_AT])).toEqual([])
 })
 
 test("an error a passing file's test logged blames that file with nothing", () => {
-  expect(failedIn(RAN_LOGGED_ERROR, [SORTED_AT, COUNTED_AT])).toEqual([COUNTED_AT])
+  expect(failedIn(AUTHORED_LOGGED_ERROR, [SORTED_AT, COUNTED_AT])).toEqual([COUNTED_AT])
 })
 
 test("a failure under a file the run did not name blames no file", () => {
-  expect(failedIn(RAN_FOREIGN_HEADER, [SORTED_AT, COUNTED_AT])).toEqual([])
+  expect(failedIn(CAPTURED_FOREIGN_HEADER, [SORTED_AT, COUNTED_AT])).toEqual([])
 })
 
 test("a run that only errored is not said to have failed a count of tests", () => {
-  const ran = ranAs("fail", { files: 1, failed: 0, passed: 5 }, RAN_ERRORED)
+  const ran = ranAs("fail", { files: 1, failed: 0, passed: 5 }, AUTHORED_ERRORED)
   const said = refusedOf(ran, [SORTED_AT], SORTED_AT)
   expect(said.path).toBe(SORTED_AT)
   expect(said.reason).toContain("1 test file errored")
@@ -342,19 +342,19 @@ test("a run that only errored is not said to have failed a count of tests", () =
 })
 
 test("a run that failed and errored counts both", () => {
-  const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, RAN_TWO_FAILED)
+  const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, AUTHORED_TWO_FAILED)
   expect(refusedOf(ran, [SORTED_AT, COUNTED_AT], SORTED_AT).reason).toContain(
     "3 of 6 tests failed, and 1 error was raised outside any test"
   )
 })
 
 test("what the runner said after a batch ended blames no file in that batch", () => {
-  const said = `${RAN_CHATTY_CLEAN}error: regex "^held$" matched 0 tests. Searched 2 files\n`
+  const said = `${AUTHORED_CHATTY_CLEAN}error: regex "^held$" matched 0 tests. Searched 2 files\n`
   expect(failedIn(said, [SORTED_AT, COUNTED_AT])).toEqual([])
 })
 
 test("a refusal blaming no file says the file it names is not the one that failed", () => {
-  const ran = ranAs("fail", { files: 2, failed: 1, passed: 12 }, RAN_CHATTY_CLEAN)
+  const ran = ranAs("fail", { files: 2, failed: 1, passed: 12 }, AUTHORED_CHATTY_CLEAN)
   expect(reasonOf(ran, [SORTED_AT], [])).toContain("prints no failure under any file")
 })
 

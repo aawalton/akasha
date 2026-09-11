@@ -48,7 +48,7 @@ export const SORTED_AT = "utils/narrow/sorted-once/sorted-once.module.test.ts"
 
 export const COUNTED_AT = "utils/text/counted/counted.module.test.ts"
 
-export const RAN_ONE_FAILED = `bun test v1.3.14 (0d9b296a)
+export const AUTHORED_ONE_FAILED = `bun test v1.3.14 (0d9b296a)
 ...
 utils/text/counted/counted.module.test.ts:
 1 | import { expect, test } from "bun:test"
@@ -69,7 +69,7 @@ Received: "1 file"
 Ran 8 tests across 2 files. [27.00ms]
 `
 
-export const RAN_TWO_FAILED = `bun test v1.3.14 (0d9b296a)
+export const AUTHORED_TWO_FAILED = `bun test v1.3.14 (0d9b296a)
 utils/narrow/sorted-once/sorted-once.module.test.ts:
 # Unhandled error between tests
 -------------------------------
@@ -113,7 +113,7 @@ Received: "2 files"
 Ran 6 tests across 2 files. [26.00ms]
 `
 
-export const RAN_CHATTY_PASSED = `bun test v1.3.14 (0d9b296a)
+export const AUTHORED_CHATTY_PASSED = `bun test v1.3.14 (0d9b296a)
 utils/narrow/sorted-once/sorted-once.module.test.ts:
 [test] bind to port 4321 hit EADDRINUSE; retrying
 [test] bind to port 4321 failed after 100ms — giving up
@@ -137,7 +137,7 @@ Received: "1 file"
 Ran 13 tests across 2 files. [31.00ms]
 `
 
-export const RAN_CHATTY_CLEAN = `bun test v1.3.14 (0d9b296a)
+export const AUTHORED_CHATTY_CLEAN = `bun test v1.3.14 (0d9b296a)
 utils/narrow/sorted-once/sorted-once.module.test.ts:
 [test] bind to port 4321 hit EADDRINUSE; retrying
 .........
@@ -150,7 +150,7 @@ utils/text/counted/counted.module.test.ts:
 Ran 13 tests across 2 files. [31.00ms]
 `
 
-export const RAN_LOGGED_ERROR = `bun test v1.3.14 (0d9b296a)
+export const AUTHORED_LOGGED_ERROR = `bun test v1.3.14 (0d9b296a)
 utils/narrow/sorted-once/sorted-once.module.test.ts:
 16 |   } catch (held) {
 17 |     console.error(held)
@@ -174,7 +174,7 @@ Received: "1 file"
 Ran 13 tests across 2 files. [31.00ms]
 `
 
-export const RAN_FOREIGN_HEADER = `bun test v1.3.14 (0d9b296a)
+export const CAPTURED_FOREIGN_HEADER = `bun test v1.3.14 (0d9b296a)
 utils/narrow/sorted-once/sorted-once.module.test.ts:
 ..
 ../../akasha-serving-fxYI8e/0.test.ts:
@@ -190,7 +190,7 @@ Received: ""
 Ran 10 tests across 1 file. [242.00ms]
 `
 
-export const RAN_ERRORED = `bun test v1.3.14 (0d9b296a)
+export const AUTHORED_ERRORED = `bun test v1.3.14 (0d9b296a)
 utils/narrow/sorted-once/sorted-once.module.test.ts:
 # Unhandled error between tests
 -------------------------------
