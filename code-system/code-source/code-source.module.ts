@@ -34,6 +34,10 @@ export const codeSource = {
         "Whether a declaration is exported is read from the modifiers that declaration has.",
     },
     {
+      invariantKind: "departure",
+      statement: "An import naming nothing at all carries more than types.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a body or knows why the body is read.",
     },

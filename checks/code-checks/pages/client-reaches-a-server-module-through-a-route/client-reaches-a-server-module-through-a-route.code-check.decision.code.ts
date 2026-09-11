@@ -1,5 +1,9 @@
 import { dirname, join } from "node:path"
-import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import {
+  lineOf,
+  parsedAs,
+  typedImport,
+} from "akasha/code-system/code-source/code-source.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -116,14 +120,6 @@ function testNamed(path: string): boolean {
 export function passedOver(path: string, app: App, routes: ReadonlySet<string>): boolean {
   if (serverNamed(path) || testNamed(path)) return true
   return path === app.table || routes.has(path)
-}
-
-function typedImport(clause: ts.ImportClause): boolean {
-  if (clause.isTypeOnly) return true
-  if (clause.name !== undefined) return false
-  const bound = clause.namedBindings
-  if (bound === undefined || ts.isNamespaceImport(bound)) return false
-  return bound.elements.every((one) => one.isTypeOnly)
 }
 
 function typedExport(node: ts.ExportDeclaration): boolean {

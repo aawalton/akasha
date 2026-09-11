@@ -1,5 +1,9 @@
 import { dirname, join } from "node:path"
-import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import {
+  lineOf,
+  parsedAs,
+  typedImport,
+} from "akasha/code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
@@ -209,14 +213,6 @@ export function landedAt(
   if (at === -1) return null
   const tail = specifier.slice(at + 1)
   return known(tail) ? tail : null
-}
-
-function typedImport(clause: ts.ImportClause): boolean {
-  if (clause.isTypeOnly) return true
-  if (clause.name !== undefined) return false
-  const bound = clause.namedBindings
-  if (bound === undefined || ts.isNamespaceImport(bound)) return false
-  return bound.elements.every((one) => one.isTypeOnly)
 }
 
 function keyedSaid(line: number): string {

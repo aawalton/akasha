@@ -35,3 +35,11 @@ export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | nul
 export function exported(statement: ts.VariableStatement): boolean {
   return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
 }
+
+export function typedImport(clause: ts.ImportClause): boolean {
+  if (clause.isTypeOnly) return true
+  if (clause.name !== undefined) return false
+  const bound = clause.namedBindings
+  if (bound === undefined || ts.isNamespaceImport(bound)) return false
+  return bound.elements.every((one) => one.isTypeOnly)
+}
