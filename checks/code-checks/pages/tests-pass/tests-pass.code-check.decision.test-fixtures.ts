@@ -208,6 +208,17 @@ error: after the test ended
 Ran 5 tests across 1 file. [12.00ms]
 `
 
+export function withGuard<T>(run: () => T): T {
+  const held = process.env[RUNNING]
+  process.env[RUNNING] = "1"
+  try {
+    return run()
+  } finally {
+    if (held === undefined) delete process.env[RUNNING]
+    else process.env[RUNNING] = held
+  }
+}
+
 export function withoutGuard<T>(run: () => T): T {
   const held = process.env[RUNNING]
   delete process.env[RUNNING]

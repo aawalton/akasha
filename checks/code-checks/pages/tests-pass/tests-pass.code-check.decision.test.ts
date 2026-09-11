@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, realpathSync } from "node:fs"
 import { join } from "node:path"
 import type { Ran } from "akasha/code-system/code-tests/code-tests.module.code.ts"
-import { RUNNING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 import { repoAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
@@ -41,6 +40,7 @@ import {
   SORTED_AT,
   scratch,
   THROWS,
+  withGuard,
   withoutGuard,
 } from "./tests-pass.code-check.decision.test-fixtures.ts"
 
@@ -204,22 +204,23 @@ test("a change is judged by the body it proposes, not the one standing on disk",
   ).toEqual([])
 })
 
-test("a landing made from inside a run is refused for having run no test", () => {
+test("a run already inside a run refuses rather than saying the tests passed", () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": FAILS,
   })
-  const held = process.env[RUNNING]
-  process.env[RUNNING] = "1"
-  try {
-    const said = refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
-    expect(said.length).toBe(1)
-    expect(said[0]?.path).toBe("akasha/one.module.test.ts")
-    expect(said[0]?.reason).toContain("no test ran")
-  } finally {
-    if (held === undefined) delete process.env[RUNNING]
-    else process.env[RUNNING] = held
-  }
+  const said = withGuard(() =>
+    refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+  )
+  expect(said.length).toBe(1)
+  expect(said[0]?.path).toBe("akasha/one.module.test.ts")
+  expect(said[0]?.reason).toContain("no test ran")
+})
+
+test("a run already inside a run refuses nothing where the change names no test", () => {
+  const root = repo({ "akasha/held.md": "held" })
+  const said = withGuard(() => refusalsOver(change(root, ["akasha/held.md"]), shadowAt(root)))
+  expect(said).toEqual([])
 })
 
 test("a run reaching fewer files than it named is refused as saying nothing about the rest", () => {
