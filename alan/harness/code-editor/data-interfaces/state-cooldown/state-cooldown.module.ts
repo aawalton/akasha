@@ -27,6 +27,10 @@ export const stateCooldown = {
     },
     {
       invariantKind: "departure",
+      statement: "A change back to the line already written leaves nothing waiting.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cooldown is counted from the last write of one file alone.",
     },
     {

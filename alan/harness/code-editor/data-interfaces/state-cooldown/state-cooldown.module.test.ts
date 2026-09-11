@@ -57,6 +57,42 @@ describe("a line that did not change", () => {
   })
 })
 
+describe("a change back to the line already written", () => {
+  function afterGoingAndReturning(): Held {
+    let held = afterWriting("a", 1_000)
+    held = heldAfter(held, decide(held, "b", 1_050, COOLDOWN), "b", 1_050)
+    return heldAfter(held, decide(held, "a", 1_060, COOLDOWN), "a", 1_060)
+  }
+
+  it("rests rather than writing", () => {
+    let held = afterWriting("a", 1_000)
+    held = heldAfter(held, decide(held, "b", 1_050, COOLDOWN), "b", 1_050)
+    expect(held.waiting).toBe("b")
+    expect(decide(held, "a", 1_060, COOLDOWN)).toEqual({ act: "rest" })
+  })
+
+  it("leaves nothing waiting", () => {
+    expect(afterGoingAndReturning().waiting).toBeNull()
+  })
+
+  it("writes nothing when the cooldown ends", () => {
+    const held = afterGoingAndReturning()
+    const owed = released(held, 1_100)
+    expect(owed).toEqual({ act: "rest" })
+    const after = releasedHeld(held, owed, 1_100)
+    expect(after.written).toBe("a")
+    expect(after.writtenAt).toBe(1_000)
+  })
+
+  it("leaves a change arriving after it waiting all the same", () => {
+    let held = afterGoingAndReturning()
+    const decision = decide(held, "c", 1_070, COOLDOWN)
+    expect(decision).toEqual({ act: "hold", untilMs: 1_100 })
+    held = heldAfter(held, decision, "c", 1_070)
+    expect(released(held, 1_100)).toEqual({ act: "write", line: "c" })
+  })
+})
+
 describe("a cooldown that ends with nothing waiting", () => {
   it("writes nothing", () => {
     const held = afterWriting("a", 1_000)

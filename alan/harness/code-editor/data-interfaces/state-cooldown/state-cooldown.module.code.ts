@@ -22,7 +22,7 @@ export function decide(held: Held, line: string, now: number, cooldownMs: number
 export function heldAfter(held: Held, decision: Decision, line: string, now: number): Held {
   if (decision.act === "write") return { writtenAt: now, written: line, waiting: null }
   if (decision.act === "hold") return { ...held, waiting: line }
-  return held
+  return { ...held, waiting: null }
 }
 
 export function released(held: Held, _now: number): Decision {

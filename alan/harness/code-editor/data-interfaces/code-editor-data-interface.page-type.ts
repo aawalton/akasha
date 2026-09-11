@@ -65,6 +65,10 @@ export const codeEditorDataInterface = {
     },
     {
       invariantKind: "departure",
+      statement: "A change returning the file to the line already there lands nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cooldown is counted for one file rather than across files.",
     },
     {
