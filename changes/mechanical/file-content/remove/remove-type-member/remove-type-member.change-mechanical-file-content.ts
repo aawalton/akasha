@@ -10,6 +10,7 @@ export const removeTypeMember = {
   definition: "one member taken out of an exported object type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -4,16 +4,16 @@ import {
   runChange,
 } from "akasha/changes/mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.code.ts"
 import {
+  MANIFEST_FROM,
+  WEB_FROM,
+} from "akasha/changes/mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.test-fixtures.ts"
+import {
   bodyOf,
   refusalOf,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "held/one.page-type.ts"
-
-const MANIFEST_FROM = `import type { Manifest } from "./properties/manifest.file-property.ts"`
-
-const WEB_FROM = `import type { WebDirectory } from "./properties/web-directory.build-folder-property.ts"`
 
 const HOLDING = `${MANIFEST_FROM}
 ${WEB_FROM}
