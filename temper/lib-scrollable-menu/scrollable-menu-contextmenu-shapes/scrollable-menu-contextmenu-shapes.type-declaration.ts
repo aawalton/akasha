@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const scrollableMenuContextmenuShapes = {
   id: "01a06275-c447-79c0-8804-eacef29c2974",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "scrollable-menu-contextmenu-shapes",
   definition: "the shapes of the context menu class and its one live object",

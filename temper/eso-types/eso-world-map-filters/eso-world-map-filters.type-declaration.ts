@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoWorldMapFilters = {
   id: "01a0608f-b08c-771b-befb-dd62a871da91",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-world-map-filters",
   definition: "the filters the world map shows its pins under",

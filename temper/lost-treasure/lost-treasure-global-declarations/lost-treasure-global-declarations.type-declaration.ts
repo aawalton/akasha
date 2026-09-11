@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const lostTreasureGlobalDeclarations = {
   id: "01a06250-6e8b-7cc3-9fa5-3c57e8fed336",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lost-treasure-global-declarations",
   definition: "the name this add-on's own markup reaches its three calls by",

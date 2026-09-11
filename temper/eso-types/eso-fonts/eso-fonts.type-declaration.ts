@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoFonts = {
   id: "01a0608f-b084-723e-a747-30ad1611fcc9",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-fonts",
   definition: "the font objects the game draws text with",

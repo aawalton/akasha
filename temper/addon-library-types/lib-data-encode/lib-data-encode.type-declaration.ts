@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libDataEncode = {
   id: "01a06090-f5b1-7a30-9730-be36e7852f94",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-data-encode",
   definition: "what the lib-data-encode library leaves in another add-on's reach",

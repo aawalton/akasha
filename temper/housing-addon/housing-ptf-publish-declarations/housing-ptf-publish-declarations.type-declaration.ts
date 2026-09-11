@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const housingPtfPublishDeclarations = {
   id: "01a0625f-6d05-750b-a082-d4ace9f90cbb",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "housing-ptf-publish-declarations",
   definition: "the global name the older port-to-friend add-on was reached by",

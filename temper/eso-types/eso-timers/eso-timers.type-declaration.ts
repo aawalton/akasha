@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoTimers = {
   id: "01a0608f-b08b-75ca-b5af-29ab681b776f",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-timers",
   definition: "the calls an add-on schedules later work with",

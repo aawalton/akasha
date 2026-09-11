@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const combatMenuStringIds = {
   id: "01a061e1-9243-7ccd-a552-a2ddeec586b7",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "combat-menu-string-ids",
   definition: "the string ids the settings menu is worded from",

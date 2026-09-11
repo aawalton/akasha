@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const temperSavedVariablesGlobal = {
   id: "01a0910e-55e9-7f77-802b-9f4ef62dbcef",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "temper-saved-variables-global",
   definition: "the saved table the add-on before Temper left in the global table",

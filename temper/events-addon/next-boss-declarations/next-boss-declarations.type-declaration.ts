@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const nextBossDeclarations = {
   id: "01a0620a-a165-79b6-89ee-06d189040e29",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "next-boss-declarations",
   definition: "the string ids and layout controls this tracker makes for itself",

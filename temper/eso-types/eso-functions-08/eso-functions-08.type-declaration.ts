@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoFunctions08 = {
   id: "01a0608f-b086-7d5e-b0aa-ab57f4697fdf",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-functions-08",
   definition: "one part of the game calls an add-on makes",

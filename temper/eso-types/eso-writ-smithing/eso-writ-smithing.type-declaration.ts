@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoWritSmithing = {
   id: "01a0608f-b08e-72ab-88a8-5b263bf94872",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-writ-smithing",
   definition: "the smithing station a writ is crafted at",

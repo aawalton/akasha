@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoAddonList = {
   id: "01a0608f-b079-782a-9b8e-82b632138e45",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-addon-list",
   definition: "the scrolling list the add-on screen shows",

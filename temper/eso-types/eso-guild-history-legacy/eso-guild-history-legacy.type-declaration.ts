@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoGuildHistoryLegacy = {
   id: "01a0618f-7a3c-7deb-9a4a-303798212a72",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-guild-history-legacy",
   definition: "the numbers the game named guild history by before Update 38",

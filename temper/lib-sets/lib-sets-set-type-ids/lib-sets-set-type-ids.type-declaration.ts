@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libSetsSetTypeIds = {
   id: "01a061b8-4f5f-7f05-90b2-9f437ad61b97",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-sets-set-type-ids",
   definition: "the numbers lib-sets gives each kind of set",

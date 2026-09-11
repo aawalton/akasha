@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const interfaceGlobalDeclarations = {
   id: "01a06251-0d2a-7701-936b-cda8cd309c8f",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "interface-global-declarations",
   definition: "the shape of the global table this add-on publishes",

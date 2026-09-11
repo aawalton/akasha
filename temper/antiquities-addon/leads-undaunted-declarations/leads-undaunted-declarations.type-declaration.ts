@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const leadsUndauntedDeclarations = {
   id: "01a06274-b08b-7a37-899e-9e1d2cd5ae7f",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "leads-undaunted-declarations",
   definition: "the shape of the pledge tracker this add-on reads where it is installed",

@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const nextBossGlobalDeclarations = {
   id: "01a06255-76f0-7732-ac5a-f20e0ecea659",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "next-boss-global-declarations",
   definition: "the name a keybind's Lua reaches this tracker's table by",

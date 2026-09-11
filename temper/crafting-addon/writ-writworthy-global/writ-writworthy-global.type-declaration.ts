@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const writWritworthyGlobal = {
   id: "01a061c7-e8bf-758d-938a-7d15d93e3261",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "writ-writworthy-global",
   definition: "the global table the writ tracker hangs its namespaces and saved variables on",

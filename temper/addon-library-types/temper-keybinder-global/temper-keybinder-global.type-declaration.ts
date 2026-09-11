@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const temperKeybinderGlobal = {
   id: "01a06381-67c1-734b-8aa1-5eb836f30b94",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "temper-keybinder-global",
   definition: "the global the Temper keybinder add-on publishes",

@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoInventory = {
   id: "01a0608f-b087-727d-baf8-b7640af133f8",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-inventory",
   definition: "the calls an add-on reads a bag with",

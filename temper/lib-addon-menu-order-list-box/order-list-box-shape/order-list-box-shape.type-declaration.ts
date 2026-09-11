@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const orderListBoxShape = {
   id: "01a06207-bdf8-746c-ad6e-67efcc323489",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "order-list-box-shape",
   definition: "the data a caller hands in and the shapes the widget's controls carry",

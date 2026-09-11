@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libCustomMenu = {
   id: "01a06090-f5b1-70e8-91e9-171d71d507c1",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-custom-menu",
   definition: "what the lib-custom-menu library leaves in another add-on's reach",

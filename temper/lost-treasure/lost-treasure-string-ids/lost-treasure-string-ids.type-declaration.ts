@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const lostTreasureStringIds = {
   id: "01a06141-8004-73a2-8406-67a498074f41",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lost-treasure-string-ids",
   definition: "the string identifiers this add-on registers its own English text under",

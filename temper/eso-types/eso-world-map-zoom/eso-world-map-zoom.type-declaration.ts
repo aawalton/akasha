@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoWorldMapZoom = {
   id: "01a0614a-9fdf-71b3-8036-565e76ae9c00",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-world-map-zoom",
   definition: "the world map's zoom buttons and the call its mouse wheel makes",

@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoSortFilterList = {
   id: "01a0608f-b08a-790f-88ff-ec691b3a93bb",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-sort-filter-list",
   definition: "the list control the game sorts and filters",

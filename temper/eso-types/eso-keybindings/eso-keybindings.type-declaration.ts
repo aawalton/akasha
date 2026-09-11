@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoKeybindings = {
   id: "01a06381-67c1-7c64-b1db-c19ebd0acd9e",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-keybindings",
   definition: "the key-bind window the game opens and the calls that rebind a key",

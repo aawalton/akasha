@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const languageExtensions = {
   id: "01a06c82-21b6-738d-ad4f-7882e176e880",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "language-extensions",
   definition: "the extensions the Lua compiler adds to TypeScript",

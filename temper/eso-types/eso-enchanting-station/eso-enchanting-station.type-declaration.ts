@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoEnchantingStation = {
   id: "01a0616f-b191-75dc-af74-b31cc1972097",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-enchanting-station",
   definition: "the enchanting station, its modes and the strings it is labelled with",

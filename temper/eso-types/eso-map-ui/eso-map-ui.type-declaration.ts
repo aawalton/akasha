@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoMapUi = {
   id: "01a0608f-b089-7962-b6b0-6f38b8d3715a",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-map-ui",
   definition: "the map screen and the controls it has",

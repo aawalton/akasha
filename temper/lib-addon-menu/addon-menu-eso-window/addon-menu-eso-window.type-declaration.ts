@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const addonMenuEsoWindow = {
   id: "01a06100-0000-7000-8000-000000000031",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "addon-menu-eso-window",
   definition: "the game settings window, scene and dialog names the panel reaches",

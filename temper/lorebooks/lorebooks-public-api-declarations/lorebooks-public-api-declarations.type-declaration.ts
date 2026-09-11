@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const lorebooksPublicApiDeclarations = {
   id: "01a06258-f916-7f4a-bef0-bd40d6d56b3b",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lorebooks-public-api-declarations",
   definition: "the global names another add-on reads a lore book's record through",

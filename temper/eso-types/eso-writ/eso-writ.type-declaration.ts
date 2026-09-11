@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoWrit = {
   id: "01a0608f-b08d-7469-97e0-86bf305cd603",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-writ",
   definition: "the currency and item link calls a writ board reads",

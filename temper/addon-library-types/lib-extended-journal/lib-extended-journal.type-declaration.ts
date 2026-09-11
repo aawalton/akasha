@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libExtendedJournal = {
   id: "01a06090-f5b2-7792-a6f7-19a6555c5087",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-extended-journal",
   definition: "what the lib-extended-journal library leaves in another add-on's reach",

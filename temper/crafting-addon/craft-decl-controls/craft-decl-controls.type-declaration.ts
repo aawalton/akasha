@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const craftDeclControls = {
   id: "01a061c7-e84d-76e0-a71c-e97909fbfacd",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "craft-decl-controls",
   definition: "the control names this add-on's XML documents create",

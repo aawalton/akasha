@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libSetsMiscIds = {
   id: "01a061b8-4f5b-7a41-8226-5712e9fec69f",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-sets-misc-ids",
   definition: "the proc, zone and item-id markers lib-sets publishes beside its set numbers",

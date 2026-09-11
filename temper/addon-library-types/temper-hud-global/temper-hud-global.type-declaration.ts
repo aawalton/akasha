@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const temperHudGlobal = {
   id: "01a06115-1ac2-728e-b95a-f3cea4401164",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "temper-hud-global",
   definition: "the global the Temper heads-up add-on publishes",

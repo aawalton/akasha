@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const writMarkDeclWritWorthy = {
   id: "01a061c7-e8a1-71e5-ad98-d0186cb3b817",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "writ-mark-decl-writ-worthy",
   definition: "the writ list the marker reads from the writ tracker beside it",

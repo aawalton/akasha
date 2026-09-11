@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const destinationsPreviewControls = {
   id: "01a06269-2b13-7b9c-8e10-1f913f1e6553",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "destinations-preview-controls",
   definition:

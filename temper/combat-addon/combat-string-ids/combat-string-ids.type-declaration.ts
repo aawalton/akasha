@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const combatStringIds = {
   id: "01a06202-ba85-71b4-bb6b-0039d00e9f98",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "combat-string-ids",
   definition: "the two string ids the calculation progress is worded from",

@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoTtc = {
   id: "01a0608f-b08b-7dca-93e0-f95f647f187d",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-ttc",
   definition: "the prices Tamriel Trade Centre publishes",

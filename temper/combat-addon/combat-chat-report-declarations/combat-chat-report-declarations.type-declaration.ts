@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const combatChatReportDeclarations = {
   id: "01a06228-a428-762b-8b75-d9f0af91c0b7",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "combat-chat-report-declarations",
   definition: "the chat posting modes this add-on publishes as global numbers",

@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const addonMenuStringIds = {
   id: "01a06100-0000-7000-8000-000000000032",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "addon-menu-string-ids",
   definition: "the game string identifiers this library asks the client to translate",

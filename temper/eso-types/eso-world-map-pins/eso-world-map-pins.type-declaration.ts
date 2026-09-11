@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoWorldMapPins = {
   id: "01a0608f-b08d-7eb7-8df1-3ca657ae683c",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-world-map-pins",
   definition: "the pins the world map draws",

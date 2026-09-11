@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const combatPublicApiDeclarations = {
   id: "01a06228-a428-72d9-9889-e8e29105e54a",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "combat-public-api-declarations",
   definition: "the shape of the global table this add-on publishes",

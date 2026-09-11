@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libMainMenuShape = {
   id: "01a0616f-b192-79e0-917e-b6714dc206e6",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-main-menu-shape",
   definition: "the shape of the library behind the main menu entry",

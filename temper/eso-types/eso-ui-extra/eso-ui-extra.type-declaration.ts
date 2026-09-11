@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoUiExtra = {
   id: "01a0618f-7a3d-7d9a-a75a-be0082774c8a",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-ui-extra",
   definition: "the rest of what the game's interface leaves in an add-on's reach",

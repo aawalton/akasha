@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const viteClient = {
   id: "01a0691f-7e97-7738-b113-fb70b4cf4446",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "vite-client",
   definition: "what the bundler hands a router app's modules beyond the language",

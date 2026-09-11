@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const libScrollableMenu = {
   id: "01a06115-1ac1-7d7e-b5db-dc9ae4496a73",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "lib-scrollable-menu",
   definition: "the scrollable context menu another add-on publishes as globals",

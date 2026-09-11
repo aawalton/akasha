@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const catalogConfigGlobal = {
   id: "01a063c1-6c82-7533-9e59-d07cde6f2943",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "catalog-config-global",
   definition: "the global a side file leaves the catalog add-on its next request in",

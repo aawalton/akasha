@@ -2,7 +2,6 @@ import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-
 
 export const esoEventManager = {
   id: "01a0608f-b083-7aec-8969-b00fc59ad9ac",
-  pageTypeSlug: "type-declaration",
   type: "type-declaration",
   slug: "eso-event-manager",
   definition: "the event manager an add-on registers a listener with",
