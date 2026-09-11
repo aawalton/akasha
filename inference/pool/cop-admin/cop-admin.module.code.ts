@@ -1,11 +1,12 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { TRAFFIC_COP_SERVICE_NAME } from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
-import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
 import {
   runSshCapture,
   type SshTarget,
 } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { everyInference } from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
 import { z } from "zod"
 
 export interface CopHandle {
@@ -15,14 +16,17 @@ export interface CopHandle {
 }
 
 export function findCop(): CopHandle {
-  const cop = SERVICES.find((s) => s.name === TRAFFIC_COP_SERVICE_NAME)
+  const read = everyInference(codeRoot())
+  if ("refused" in read) throw new OperationalError(read.refused)
+  const running = read.services.filter((s) => s.enabled)
+  const cop = running.find((s) => s.name === TRAFFIC_COP_SERVICE_NAME)
   if (cop === undefined) {
-    throw new OperationalError(`no ${TRAFFIC_COP_SERVICE_NAME} service is declared in the registry`)
+    throw new OperationalError(`no ${TRAFFIC_COP_SERVICE_NAME} service has a page of its own`)
   }
   const host = getHost(cop.host)
-  const poolNames = SERVICES.filter((s) => s.host === cop.host && s.lifecycle === "pool").map(
-    (s) => s.name
-  )
+  const poolNames = running
+    .filter((s) => s.host === cop.host && s.lifecycle === "pool")
+    .map((s) => s.name)
   return {
     target: { user: host.user, host: host.address, keyPath: host.keyPath },
     adminPort: cop.port,

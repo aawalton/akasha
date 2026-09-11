@@ -1,11 +1,12 @@
 import { readFile } from "node:fs/promises"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
-import type {
-  InferenceHost,
-  InferenceService,
-} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
-import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
+import type { InferenceHost } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  type Inference,
+  readFor,
+} from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const PROSE_ROUTE = "-file"
@@ -214,16 +215,19 @@ export function boundTo(command: readonly string[], flag: string): string | unde
 }
 
 export type Reached = {
-  readonly service: InferenceService
+  readonly service: Inference
   readonly host: InferenceHost
   readonly baseUrl: string
 }
 
+export function wordsOf(runs: string): readonly string[] {
+  return runs.split(/\s+/).filter((one) => one !== "")
+}
+
 export function serviceNamed(name: string): Reached {
-  const service = SERVICES.find((one) => one.name === name)
-  if (service === undefined) {
-    throw new OperationalError(`no ${name} service is declared in the registry`)
-  }
+  const read = readFor(codeRoot(), name)
+  if ("refused" in read) throw new OperationalError(read.refused)
+  const service = read.services[0] as Inference
   const host = getHost(service.host)
   return { service, host, baseUrl: `http://${host.address}:${service.port}` }
 }

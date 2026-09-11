@@ -10,15 +10,19 @@ import {
   targetOf,
   wasRefused,
   wordsIn,
+  wordsOf,
 } from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
-import type { InferenceService } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
-import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
 import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import {
   buildMfluxQueryScript,
   parseMfluxTools,
 } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  everyInference,
+  type Inference,
+} from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 
@@ -34,8 +38,8 @@ export function routeOf(command: readonly string[]): string {
     : "POST /v1/images/generations"
 }
 
-export function isImagePool(service: InferenceService): boolean {
-  return service.lifecycle === "pool" && service.name.startsWith(IMAGE_PREFIX)
+export function isImagePool(service: Inference): boolean {
+  return service.enabled && service.lifecycle === "pool" && service.name.startsWith(IMAGE_PREFIX)
 }
 
 export async function inferenceCapabilities(argv: readonly string[]): Promise<Answer> {
@@ -45,16 +49,20 @@ export async function inferenceCapabilities(argv: readonly string[]): Promise<An
     return refusedBy([`\`${said.loose[0]}\` follows nothing this takes — it takes nothing`])
   }
 
+  const read = everyInference(codeRoot())
+  if ("refused" in read) return refusedBy([read.refused])
+
   return await answering(async () => {
-    const image = SERVICES.filter(isImagePool)
+    const image = read.services.filter(isImagePool)
     const first = image[0]
     if (first === undefined) return told([])
     const host = getHost(first.host)
 
     const report: string[] = [`${host.name}\t${host.address}`]
     for (const one of image) {
+      const words = wordsOf(one.runs)
       report.push(
-        `\t${one.name}\t${boundTo(one.command, MODEL_PATH) ?? ""}\t:${one.port}\t${routeOf(one.command)}`
+        `\t${one.name}\t${boundTo(words, MODEL_PATH) ?? ""}\t:${one.port}\t${routeOf(words)}`
       )
     }
 

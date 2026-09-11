@@ -27,6 +27,7 @@ import {
   serviceNamed,
   wasRefused,
   wordsIn,
+  wordsOf,
   wroteTo,
 } from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
@@ -136,12 +137,13 @@ export async function inferenceGenerate(argv: readonly string[]): Promise<Answer
   return await answering(async () => {
     const { width, height } = parseGenerationSize(size)
     const reached = serviceNamed(serviceName)
-    if (!generates(reached.service.command)) {
+    const words = wordsOf(reached.service.runs)
+    if (!generates(words)) {
       return refusedBy([
         `\`${SERVICE} ${serviceName}\` binds no \`${MODEL_TYPE} ${IMAGE_GENERATION}\`, so it renders nothing`,
       ])
     }
-    const model = boundTo(reached.service.command, MODEL_PATH) ?? FALLBACK_MODEL
+    const model = boundTo(words, MODEL_PATH) ?? FALLBACK_MODEL
     const drawn = resolveSeed(seed, drawSeed)
     const nowMs = Date.now()
     const outputPath = resolveOutputPath("generate", said.named[OUTPUT], nowMs)

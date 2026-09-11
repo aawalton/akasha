@@ -49,8 +49,11 @@ export const inferenceAnswering = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A service the registry does not declare is operational rather than the caller's mistake.",
+      statement: "A service no page declares is operational rather than the caller's mistake.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service is read from its page rather than from a registry beside that page.",
     },
     {
       invariantKind: "absence",
