@@ -10,7 +10,6 @@ export const subagent = {
   extends: ["page-type/agent"],
   mortal: true,
   parts: [
-    "boolean-property/subagent-returned",
     "module/subagent-presence",
     "number-property/subagent-started",
     "relation-property/subagent-kind",
@@ -21,12 +20,6 @@ export const subagent = {
     { pageProperty: "text-property/dispatched-as", required: false, many: false },
     { pageProperty: "relation-property/subagent-kind", required: false, many: false },
     { pageProperty: "text-property/agent-id", required: true, many: false },
-    {
-      pageProperty: "boolean-property/subagent-returned",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
     {
       pageProperty: "number-property/subagent-started",
       required: false,

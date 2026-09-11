@@ -26,7 +26,6 @@ export const change = {
     "module/json-entries",
     "module/change-answer",
     "module/edits-keeping",
-    "module/subagent-handed",
     "page-type/change-mode",
     "relation-property/change-mode",
     "relation-property/change-target-type",

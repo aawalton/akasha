@@ -29,11 +29,7 @@ import {
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  NO_PAGE,
-  saidOf,
-  waitingSaid,
-} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+import { NO_PAGE, saidOf } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import { commandPageAt } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
@@ -290,7 +286,7 @@ export async function appending(
       return had
     }
     answer = {
-      report: [...said.edits.map(saidOf).sort(), ...waitingSaid(root, page)],
+      report: said.edits.map(saidOf).sort(),
       refusals: [],
       code: 0,
     }

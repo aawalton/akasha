@@ -5,7 +5,6 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { handedFrom } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
 import {
   type Loaded,
   loadedAt,
@@ -207,16 +206,6 @@ export function pathsIn(root: string): readonly string[] {
   const said = editsIn(root, PAGE)
   return "why" in said ? [] : said.rows.flatMap(pathsOf)
 }
-
-export const SUB = "tester-one"
-
-export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {
-  handedFrom(root, under, rows)
-}
-
-export const HANDED_AT = "akasha/three/handed.md"
-
-export const HANDED_ONE: FileChange = { kind: "add", path: HANDED_AT, content: "handed" }
 
 export const EDIT: FileChange = { kind: "add", path: "a/b.ts", content: "held" }
 

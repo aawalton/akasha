@@ -3,7 +3,6 @@ import {
   editsIn,
   keptEdits,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { handedUnder } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -139,12 +138,6 @@ export function dropping(root: string, page: string, said: readonly string[]): A
   })
   if ("why" in dropped) return { report: [], refusals: [dropped.why], code: 3 }
   return answer
-}
-
-export function waitingSaid(root: string, page: string): readonly string[] {
-  const many = handedUnder(root, page).length
-  if (many === 0) return []
-  return [`${String(many)} subagent(s) handed edits over, which \`akasha change list\` names`]
 }
 
 export function listingKept(root: string, page: string): Answer {

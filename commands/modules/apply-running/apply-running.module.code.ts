@@ -19,7 +19,6 @@ import {
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { waitingSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   APPLY,
   CHANGE_APPLY_SLUG,
@@ -158,7 +157,6 @@ async function ending(taken: Arguments, given: Given): Promise<Ended> {
         ),
         ...said.folded.map((one) => `folded ${one} in`),
         ...answered.report,
-        ...waitingSaid(given.root, page),
       ],
       refusals: answered.refusals,
       code: answered.code,

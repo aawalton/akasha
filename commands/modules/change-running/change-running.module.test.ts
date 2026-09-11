@@ -24,9 +24,7 @@ import {
   draftingAndMeasuring,
   EDIT,
   givenIn,
-  HANDED_ONE,
   HELD,
-  handing,
   keptIn,
   loading,
   MEASURED,
@@ -44,7 +42,6 @@ import {
   repo,
   SPARE_CODE,
   SPARE_PAGE,
-  SUB,
   saysApply,
   taking,
 } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
@@ -210,15 +207,6 @@ test("a path that is no page keeps no edits", async () => {
   )
 
   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
-})
-
-test("a change answering says how many subagents handed edits over", async () => {
-  const root = repo()
-  handing(root, SUB, [HANDED_ONE])
-
-  const said = await removing(root, NAMER_PAGE)
-
-  expect(said.report).toContain("1 subagent(s) handed edits over, which `akasha change list` names")
 })
 
 test("a change kind saying its readers owe no reading is read as saying so", () => {

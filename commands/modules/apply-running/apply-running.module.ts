@@ -129,14 +129,6 @@ export const applyRunning = {
       statement: "An apply that landed puts no fold back.",
     },
     {
-      invariantKind: "absence",
-      statement: "An apply lands no edit a subagent handed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An apply says how many subagents handed edits over.",
-    },
-    {
       invariantKind: "departure",
       statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
     },

@@ -227,10 +227,6 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A change answering says how many subagents are holding edits for this agent.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No check runs over the change itself.",
     },
     {
