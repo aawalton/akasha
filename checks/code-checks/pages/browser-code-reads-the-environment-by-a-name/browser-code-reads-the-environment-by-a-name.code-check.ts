@@ -117,7 +117,7 @@ export const browserCodeReadsTheEnvironmentByAName = {
         "A loader-only route reading a name only a define supplies by a key is seen by nothing here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A file outside every router app's package is judged by nothing here.",
     },
     {
