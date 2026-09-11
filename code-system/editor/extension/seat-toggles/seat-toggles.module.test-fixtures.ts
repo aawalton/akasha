@@ -3,6 +3,7 @@ import * as path from "node:path"
 import { VIEW_ID } from "akasha/code-system/editor/extension/agent-tree-ids/agent-tree-ids.module.code.ts"
 import type { SeatMode } from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
 import { seatContextValue } from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { z } from "zod"
 
 const MENU_ITEM_SCHEMA = z.object({
@@ -23,7 +24,7 @@ const MANIFEST_SCHEMA = z.object({
   }),
 })
 
-const MANIFEST_PATH = path.join(import.meta.dir, "..", "ops-extension", "package.json")
+const MANIFEST_PATH = path.join(rootOf(import.meta.dir), "package.json")
 
 export const manifest = MANIFEST_SCHEMA.parse(JSON.parse(readFileSync(MANIFEST_PATH, "utf8")))
 
