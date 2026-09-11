@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Two duplicated rules left from 197, and the check runs at change now, so the count cannot rise while the rest are cleared. What is left is 62 shipped .dds textures three checks refuse together: a folder property already says its folder holds bytes, and letting that property state which endings it speaks for reaches all 62 without a second mechanism beside it. Then 11 test files fail. Every check but those answers nothing, and every one of them is measured at audit.",
+        "Duplicated rules are at 0 from 197, and that check runs at change now, so the count cannot rise. What is left is 16 shipped .dds textures three checks refuse together, all at an add-on's own folder level: a folder property already says its folder holds bytes, and letting that property state which endings it speaks for reaches all 16. The test check flips on the world rather than on the tree, because one module test asks the live workstation whether Alan's status bar is populated.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
