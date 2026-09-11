@@ -69,7 +69,7 @@ export function aProperty(id: string, slug: string, shape: string, rest: Held = 
 }
 
 export function thePage(value: Held): Named {
-  return [`${String(value.slug)}.${String(value.pageTypeSlug)}.ts`, value]
+  return [`${String(value.slug)}.${String(value.pageTypeSlug ?? value.type)}.ts`, value]
 }
 
 export const IDENTIFIERS: readonly Named[] = [

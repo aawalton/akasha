@@ -16,5 +16,9 @@ export const fixtureWorld = {
       invariantKind: "departure",
       statement: "Git packs nothing in that world on its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page's file is named for the page type that page states.",
+    },
   ],
 } as const satisfies Module
