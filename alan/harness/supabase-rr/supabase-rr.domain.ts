@@ -26,7 +26,7 @@ export const supabaseRr = {
     "module/auth-guard",
     "module/root-loader",
     "module/supabase-provider",
-    "module/client-env-define",
+    "module/client-env-guard",
     "module/page-listing-loader",
     "module/sign-in-form",
   ],
