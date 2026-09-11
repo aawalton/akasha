@@ -6,6 +6,7 @@ import {
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const REFUSAL = "refusal"
 
@@ -25,7 +26,7 @@ export function fill(body: string, values: Readonly<Record<string, string>>): st
   })
   const surplus = Object.keys(values).filter((name) => !used.has(name))
   if (surplus.length > 0) {
-    const named = surplus.map((name) => `\`${name}\``).join(", ")
+    const named = namesDrawn(surplus)
     throw new HoleMismatch(`${named} was handed over and the body marks no such hole`)
   }
   return text
