@@ -41,6 +41,16 @@ export function synthNamespaceConfigmapDeploymentService(
   ]
 }
 
+export function synthWebDeploymentService(
+  deployment: () => string,
+  service: () => string
+): readonly { readonly name: string; readonly yaml: string }[] {
+  return [
+    { name: "web-deployment", yaml: deployment() },
+    { name: "web-service", yaml: service() },
+  ]
+}
+
 export function synthCronjob(
   cronjob: () => string
 ): readonly { readonly name: string; readonly yaml: string }[] {
