@@ -2,17 +2,17 @@ import {
   getFormattedTime,
   getTimeStampForEvent,
   storeChatEvent,
-} from "../chat-history/chat-history.module.code.ts"
-import { customLinkFormatter } from "../chat-links/chat-links.module.code.ts"
-import type { GlobalTable } from "../chat-message-casts/chat-message-casts.module.code.ts"
+} from "akasha/temper/lib-chat-message/chat-history/chat-history.module.code.ts"
+import { customLinkFormatter } from "akasha/temper/lib-chat-message/chat-links/chat-links.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-chat-message/chat-message-casts/chat-message-casts.module.code.ts"
 
 import {
   LIB_IDENTIFIER,
   MESSAGE_TEMPLATE,
   SYSTEM_TAG,
   TAG_PREFIX_OFF,
-} from "../chat-message-constants/chat-message-constants.module.code.ts"
-import { LIB } from "../chat-message-lib/chat-message-lib.module.code.ts"
+} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
 
 type PostHook = (
   this: void,

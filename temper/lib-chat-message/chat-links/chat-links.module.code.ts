@@ -1,8 +1,8 @@
 import {
   LINK_GMATCH_PATTERN,
   UNKNOWN_LINK_TYPE,
-} from "../chat-message-constants/chat-message-constants.module.code.ts"
-import { LIB } from "../chat-message-lib/chat-message-lib.module.code.ts"
+} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
 
 function unknownTypeReformatter(
   this: void,

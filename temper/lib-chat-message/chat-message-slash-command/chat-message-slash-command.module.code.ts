@@ -4,9 +4,9 @@ import {
   TAG_PREFIX_OFF,
   TAG_PREFIX_SHORT,
   TIME_FORMAT_MAPPING,
-} from "../chat-message-constants/chat-message-constants.module.code.ts"
-import { LIB } from "../chat-message-lib/chat-message-lib.module.code.ts"
-import type { ChatProxy } from "../chat-message-types/chat-message-types.module.code.ts"
+} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
+import type { ChatProxy } from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 
 export function registerSlashCommand(this: void, chat: ChatProxy): undefined {
   SLASH_COMMANDS["/chatmessage"] = (params: string): undefined => {

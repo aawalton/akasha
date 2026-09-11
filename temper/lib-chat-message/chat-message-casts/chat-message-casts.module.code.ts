@@ -2,7 +2,7 @@ import type {
   ChatProxy,
   HistoryEntry,
   Settings,
-} from "../chat-message-types/chat-message-types.module.code.ts"
+} from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 
 export type GlobalTable = Record<string, unknown>
 

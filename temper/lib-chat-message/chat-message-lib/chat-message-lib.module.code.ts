@@ -5,8 +5,11 @@ import {
   TIME_FORMAT_AUTO,
   TIME_FORMATS,
   UNKNOWN_LINK_TYPE,
-} from "../chat-message-constants/chat-message-constants.module.code.ts"
-import type { Lib, Settings } from "../chat-message-types/chat-message-types.module.code.ts"
+} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
+import type {
+  Lib,
+  Settings,
+} from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 
 const DEFAULT_SETTINGS: Settings = {
   version: 1,
