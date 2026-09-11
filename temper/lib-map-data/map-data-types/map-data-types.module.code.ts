@@ -1,9 +1,5 @@
 export type GlobalObjectTable = Record<string, unknown>
 
-export type MetatableView = { __index?: Record<string | number, unknown> } | undefined
-
-export type UserdataView = Record<string, ((this: void, ...args: unknown[]) => unknown) | undefined>
-
 export interface MapIndexEntry {
   mapIndex: number
   mapTexture: string

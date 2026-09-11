@@ -2,8 +2,6 @@ import type {
   GlobalObjectTable,
   Internal,
   Lib,
-  MetatableView,
-  UserdataView,
 } from "akasha/temper/lib-map-data/map-data-types/map-data-types.module.code.ts"
 
 export function asLib(value: unknown): Lib {
@@ -16,12 +14,4 @@ export function asInternal(value: unknown): Internal {
 
 export function asGlobalObjectTable(value: unknown): GlobalObjectTable {
   return value as GlobalObjectTable
-}
-
-export function asMetatableView(value: unknown): MetatableView {
-  return value as MetatableView
-}
-
-export function asUserdataView(value: unknown): UserdataView {
-  return value as UserdataView
 }
