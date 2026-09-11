@@ -8,7 +8,14 @@ export const service = {
   pluralSlug: "services",
   extends: ["page-type/domain"],
   parts: ["text-property/deployed-commit"],
-  properties: [{ pageProperty: "text-property/deployed-commit", required: false, many: false }],
+  properties: [
+    {
+      pageProperty: "text-property/deployed-commit",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+  ],
   invariants: [
     {
       invariantKind: "departure",

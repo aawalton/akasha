@@ -29,6 +29,10 @@ export const deployedCommit = {
       invariantKind: "departure",
       statement: "What a deploy is judged against is the diff between this commit and the new one.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The commit is kept uncommitted, so no deploy's closure reaches it.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
