@@ -57,6 +57,11 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A lay merges what came into the lines already in order rather than sorting them again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading laid over a laid reading is laid over the reading beneath that one.",
     },
     {

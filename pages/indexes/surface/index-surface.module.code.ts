@@ -129,6 +129,25 @@ function editedBy(was: Edit | undefined, one: Filing): Edit {
   return { came, went }
 }
 
+export function mergedIn(sorted: readonly string[], coming: readonly string[]): readonly string[] {
+  if (coming.length === 0) return sorted
+  const said: string[] = []
+  let at = 0
+  for (const one of coming) {
+    for (; at < sorted.length; at += 1) {
+      const held = sorted[at]
+      if (held === undefined || held > one) break
+      said.push(held)
+    }
+    said.push(one)
+  }
+  for (; at < sorted.length; at += 1) {
+    const held = sorted[at]
+    if (held !== undefined) said.push(held)
+  }
+  return said
+}
+
 function owned(named: Named, owns: Set<string>, dir: string): Map<string, boolean> {
   const found = named.get(dir)
   if (found !== undefined && owns.has(dir)) return found
@@ -162,12 +181,11 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
     if (edit === undefined) return base.lines(at)
     const found = composed.get(at)
     if (found !== undefined) return found
-    const said: string[] = []
+    const held: string[] = []
     for (const line of base.lines(at)) {
-      if (!edit.went.has(line) && !edit.came.has(line)) said.push(line)
+      if (!edit.went.has(line) && !edit.came.has(line)) held.push(line)
     }
-    for (const line of edit.came) said.push(line)
-    const made = said.sort()
+    const made = mergedIn(held, [...edit.came].sort())
     composed.set(at, made)
     return made
   }

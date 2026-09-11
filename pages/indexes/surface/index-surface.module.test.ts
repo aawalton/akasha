@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   beneath,
+  mergedIn,
   overlaidOn,
   readingAt,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
@@ -33,6 +34,14 @@ function everythingUnder(reading: ReturnType<typeof readingAt>, at: string): rea
   }
   return found.sort()
 }
+
+test("a merge with nothing coming answers the lines it was handed", () => {
+  expect(mergedIn(["a", "c"], [])).toEqual(["a", "c"])
+})
+
+test("a merge lays each line coming into its place among the lines already in order", () => {
+  expect(mergedIn(["b", "d"], ["a", "c", "e"])).toEqual(["a", "b", "c", "d", "e"])
+})
 
 test("a reading off the disk answers the three reads of the index it is rooted at", () => {
   const reading = readingAt(seeded())
