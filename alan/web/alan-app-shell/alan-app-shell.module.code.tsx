@@ -1,11 +1,10 @@
 import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
+import {
+  LayoutRouterAdapter,
+  PagesUIRouterAdapter,
+} from "akasha/code-system/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
-import {
-  LayoutLinkProvider,
-  type LayoutRouter,
-  LayoutRouterProvider,
-} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
@@ -15,10 +14,6 @@ import { useActiveQuickAddPageType } from "akasha/pages/ui/components/quick-add/
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
-  PagesUILinkProvider,
-  PagesUIRouterProvider,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import {
   type CreateSelectOptionEffect,
   PagesUIOptionCreateProvider,
 } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
@@ -26,8 +21,8 @@ import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { LogIn, LogOut } from "lucide-react"
-import { type ReactNode, useCallback, useEffect, useMemo, useState } from "react"
-import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
+import { useCallback, useEffect, useMemo, useState } from "react"
+import { Link } from "react-router"
 import { z } from "zod"
 import { ALANWALTON_APP_ID, ALANWALTON_APP_SLUG } from "../alan-app-id/alan-app-id.module.code.ts"
 import {
@@ -107,93 +102,6 @@ const createSelectOption: CreateSelectOptionEffect = async ({ definitionId, labe
     throw new Error(parsed.success ? parsed.data.error : "Failed to add option.")
   }
   return optionCreateSuccessSchema.parse(await res.json()).option
-}
-
-function PagesUIRRAdapter({ children }: { children: ReactNode }) {
-  const { pathname } = useLocation()
-  const navigate = useNavigate()
-  const value = useMemo(
-    () => ({
-      pathname,
-      push: (href: string) => navigate(href),
-      replace: (href: string) => navigate(href, { replace: true }),
-    }),
-    [pathname, navigate]
-  )
-  return (
-    <PagesUIRouterProvider value={value}>
-      <PagesUILinkProvider component={PagesUILinkAdapter}>
-        <PagesUIOptionCreateProvider value={createSelectOption}>
-          {children}
-        </PagesUIOptionCreateProvider>
-      </PagesUILinkProvider>
-    </PagesUIRouterProvider>
-  )
-}
-
-function PagesUILinkAdapter({
-  href,
-  className,
-  children,
-  ...rest
-}: {
-  href: string
-  className?: string
-  children: ReactNode
-}) {
-  return (
-    <Link to={href} className={className} {...rest}>
-      {children}
-    </Link>
-  )
-}
-
-function LayoutRRAdapter({ children }: { children: ReactNode }) {
-  const { pathname } = useLocation()
-  const [searchParams] = useSearchParams()
-  const value = useMemo<LayoutRouter>(
-    () => ({
-      pathname,
-      searchParams: {
-        get: (name: string) => searchParams.get(name),
-        toString: () => searchParams.toString(),
-      },
-    }),
-    [pathname, searchParams]
-  )
-  return (
-    <LayoutRouterProvider value={value}>
-      <LayoutLinkProvider component={LayoutLinkAdapter}>{children}</LayoutLinkProvider>
-    </LayoutRouterProvider>
-  )
-}
-
-function LayoutLinkAdapter({
-  href,
-  className,
-  children,
-  title,
-  onClick,
-  "aria-current": ariaCurrent,
-}: {
-  href: string
-  className?: string
-  children: ReactNode
-  title?: string
-  onClick?: () => void
-  "aria-current"?: boolean | "false" | "true" | "page" | "step" | "location" | "date" | "time"
-}) {
-  return (
-    <Link
-      to={href}
-      className={className}
-      title={title}
-      onClick={onClick}
-      aria-current={ariaCurrent}
-    >
-      {children}
-    </Link>
-  )
 }
 
 function AdminDialogs() {
@@ -319,10 +227,12 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
 
 export function AppShell(props: AppShellProps) {
   return (
-    <LayoutRRAdapter>
-      <PagesUIRRAdapter>
-        <AppShellInner {...props} />
-      </PagesUIRRAdapter>
-    </LayoutRRAdapter>
+    <LayoutRouterAdapter>
+      <PagesUIRouterAdapter>
+        <PagesUIOptionCreateProvider value={createSelectOption}>
+          <AppShellInner {...props} />
+        </PagesUIOptionCreateProvider>
+      </PagesUIRouterAdapter>
+    </LayoutRouterAdapter>
   )
 }
