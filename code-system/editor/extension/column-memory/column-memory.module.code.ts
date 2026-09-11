@@ -1,7 +1,7 @@
+import type { ColumnNumber } from "akasha/code-system/editor/extension/editor-group/editor-group.module.code.ts"
+import type { SeatTerminal } from "akasha/code-system/editor/extension/seat-terminals/seat-terminals.module.code.ts"
 import type * as vscode from "vscode"
 import { z } from "zod"
-import type { ColumnNumber } from "../editor-group/editor-group.module.code.ts"
-import type { SeatTerminal } from "../seat-terminals/seat-terminals.module.code.ts"
 
 const MEMENTO_KEY = "opsAgentTree.lastSeenColumn"
 
