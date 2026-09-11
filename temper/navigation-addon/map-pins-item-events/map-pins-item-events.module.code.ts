@@ -1,7 +1,7 @@
 import { markAchievementItem } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { ANCESTRAL_TOMB_RUBBING } from "akasha/temper/navigation-addon/map-pins-ancestral-tomb-rubbing/map-pins-ancestral-tomb-rubbing.module.code.ts"
 import { CHRONOGLER_TABLET } from "akasha/temper/navigation-addon/map-pins-chronogler-tablet/map-pins-chronogler-tablet.module.code.ts"
-import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
+import { refreshCompass } from "akasha/temper/navigation-addon/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"
 import type { NumberMap } from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
 import { INSTRUMENTS } from "akasha/temper/navigation-addon/map-pins-instruments/map-pins-instruments.module.code.ts"
 import { MINING_SAMPLE_COLLECTOR } from "akasha/temper/navigation-addon/map-pins-mining-sample-collector/map-pins-mining-sample-collector.module.code.ts"
@@ -21,12 +21,6 @@ const muralMenderFragments: NumberMap = MURAL_MENDER_FRAGMENTS
 const piecesOfHistory: NumberMap = PIECES_OF_HISTORY
 const instruments: NumberMap = INSTRUMENTS
 const miningSampleCollector: NumberMap = MINING_SAMPLE_COLLECTOR
-
-function refreshCompass(this: void, n: number): undefined {
-  const pin = CUSTOM_PINS[n]
-  if (pin === undefined) return
-  if (COMPASS_PINS !== undefined) COMPASS_PINS.RefreshPins(pin.name)
-}
 
 export function onLootReceived(
   this: void,
