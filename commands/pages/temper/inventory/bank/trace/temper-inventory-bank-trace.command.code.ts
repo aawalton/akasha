@@ -5,6 +5,7 @@ import type { Answer, Given } from "../../../../../modules/calling/calling.modul
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 import { readInventoryFileArgs } from "../../../../../modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { numSaid } from "../../../../../modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 
 const INPUT = 1
 
@@ -59,10 +60,6 @@ function ms(value: number | undefined): string {
   return value === undefined ? "nil" : `${value}ms`
 }
 
-function num(value: number | undefined): string {
-  return value === undefined ? "nil" : `${value}`
-}
-
 function bracketSaid(one: Bracket): string {
   return `n=${one.count} total=${one.totalMs}ms max=${one.maxMs}ms`
 }
@@ -106,8 +103,8 @@ export function traceSaid(trace: BankTrace): readonly string[] {
       `open-handler=${ms(trace.openHandlerMs)} open→close=${ms(trace.openToCloseMs)}`,
     `phases: scanBankBags=${ms(trace.scanBankBagsMs)} refreshPanel=${ms(trace.refreshPanelMs)} ` +
       `withdraw=${ms(trace.withdrawMs)} deposit=${ms(trace.depositMs)}`,
-    `moves: ${num(trace.moveCount)} (withdraw ${num(trace.withdrawCount)}, ` +
-      `deposit ${num(trace.depositCount)})`,
+    `moves: ${numSaid(trace.moveCount)} (withdraw ${numSaid(trace.withdrawCount)}, ` +
+      `deposit ${numSaid(trace.depositCount)})`,
     pacedSaid(trace.pacedDispatch),
     `net-worth walks: ${trace.netWorth.walkCount}, total ${trace.netWorth.walkTotalMs}ms, ` +
       `max ${trace.netWorth.walkMaxMs}ms`,

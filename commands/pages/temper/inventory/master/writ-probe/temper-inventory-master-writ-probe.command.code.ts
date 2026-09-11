@@ -5,6 +5,7 @@ import type { Answer, Given } from "../../../../../modules/calling/calling.modul
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 import { readInventoryFileArgs } from "../../../../../modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { numSaid } from "../../../../../modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 
 const INPUT = 1
 
@@ -48,10 +49,6 @@ type ProbeQuest = {
 
 type MasterWritProbe = { readonly timestamp: number; readonly quests: readonly ProbeQuest[] }
 
-function num(value: number | undefined): string {
-  return value === undefined ? "nil" : `${value}`
-}
-
 export function probeSaid(probe: MasterWritProbe): readonly string[] {
   const lines: string[] = [
     `[master-writ probe @ ${probe.timestamp}] ${probe.quests.length} quest(s)`,
@@ -73,14 +70,14 @@ export function probeSaid(probe: MasterWritProbe): readonly string[] {
             `complete=${one.complete ? "y" : "n"}`
         )
         lines.push(
-          `      masterItemId=${num(one.masterItemId)} ` +
-            `materialItemId=${num(one.materialItemId)} ` +
-            `craftingType=${num(one.craftingType)} quality=${num(one.quality)}`
+          `      masterItemId=${numSaid(one.masterItemId)} ` +
+            `materialItemId=${numSaid(one.materialItemId)} ` +
+            `craftingType=${numSaid(one.craftingType)} quality=${numSaid(one.quality)}`
         )
         lines.push(
-          `      templateId=${num(one.templateId)} setId=${num(one.setId)} ` +
-            `traitType=${num(one.traitType)} styleId=${num(one.styleId)} ` +
-            `encodedAlchemyTraits=${num(one.encodedAlchemyTraits)}`
+          `      templateId=${numSaid(one.templateId)} setId=${numSaid(one.setId)} ` +
+            `traitType=${numSaid(one.traitType)} styleId=${numSaid(one.styleId)} ` +
+            `encodedAlchemyTraits=${numSaid(one.encodedAlchemyTraits)}`
         )
       }
     }

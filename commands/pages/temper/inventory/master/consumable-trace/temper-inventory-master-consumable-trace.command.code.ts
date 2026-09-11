@@ -8,6 +8,7 @@ import type { Answer, Given } from "../../../../../modules/calling/calling.modul
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 import { readInventoryFileArgs } from "../../../../../modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { numSaid } from "../../../../../modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 
 const INPUT = 1
 
@@ -45,10 +46,6 @@ type MasterConsumableTrace = {
   readonly diag?: string
 }
 
-function num(value: number | undefined): string {
-  return value === undefined ? "nil" : `${value}`
-}
-
 function bool(value: boolean | undefined): string {
   return value === undefined ? "nil" : value ? "y" : "n"
 }
@@ -67,14 +64,14 @@ export function consumableTraceSaid(traces: readonly MasterConsumableTrace[]): r
     )
     if (one.solventFound !== undefined || one.reagent1Id !== undefined) {
       lines.push(
-        `  alchemy: solventFound=${bool(one.solventFound)} reagents=[${num(one.reagent1Id)},` +
-          `${num(one.reagent2Id)},${num(one.reagent3Id)}]`
+        `  alchemy: solventFound=${bool(one.solventFound)} reagents=[${numSaid(one.reagent1Id)},` +
+          `${numSaid(one.reagent2Id)},${numSaid(one.reagent3Id)}]`
       )
     }
     if (one.recipeListIndex !== undefined || one.recipeIndex !== undefined) {
       lines.push(
-        `  provisioning: recipeListIndex=${num(one.recipeListIndex)} ` +
-          `recipeIndex=${num(one.recipeIndex)}`
+        `  provisioning: recipeListIndex=${numSaid(one.recipeListIndex)} ` +
+          `recipeIndex=${numSaid(one.recipeIndex)}`
       )
     }
     if (
@@ -83,8 +80,8 @@ export function consumableTraceSaid(traces: readonly MasterConsumableTrace[]): r
       one.aspectRuneId !== undefined
     ) {
       lines.push(
-        `  enchanting: potency=${num(one.potencyRuneId)} essence=${num(one.essenceRuneId)} ` +
-          `aspect=${num(one.aspectRuneId)}`
+        `  enchanting: potency=${numSaid(one.potencyRuneId)} essence=${numSaid(one.essenceRuneId)} ` +
+          `aspect=${numSaid(one.aspectRuneId)}`
       )
     }
     if (
@@ -94,8 +91,9 @@ export function consumableTraceSaid(traces: readonly MasterConsumableTrace[]): r
       one.yieldPerIter !== undefined
     ) {
       lines.push(
-        `  execute: interactionType=${num(one.interactionType)} maxIter=${num(one.maxIter)} ` +
-          `yieldPerIter=${num(one.yieldPerIter)} iterations=${num(one.iterations)}`
+        `  execute: interactionType=${numSaid(one.interactionType)} ` +
+          `maxIter=${numSaid(one.maxIter)} yieldPerIter=${numSaid(one.yieldPerIter)} ` +
+          `iterations=${numSaid(one.iterations)}`
       )
     }
     if (one.diag !== undefined) lines.push(`  diag: ${one.diag}`)

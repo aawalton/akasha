@@ -5,6 +5,7 @@ import type { Answer, Given } from "../../../../../modules/calling/calling.modul
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 import { readInventoryFileArgs } from "../../../../../modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { numSaid } from "../../../../../modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 
 const INPUT = 1
 
@@ -36,10 +37,6 @@ type MasterCraftTrace = {
   readonly outcome: string
 }
 
-function num(value: number | undefined): string {
-  return value === undefined ? "nil" : `${value}`
-}
-
 function str(value: string | undefined): string {
   return value === undefined ? "nil" : `"${value}"`
 }
@@ -61,12 +58,12 @@ export function craftTraceSaid(traces: readonly MasterCraftTrace[]): readonly st
         `traitIndex=${one.traitIndex}`
     )
     lines.push(
-      `  verify: resultLink=${str(one.resultLink)} resultSetId=${num(one.resultSetId)} ` +
-        `resultTrait=${num(one.resultTrait)} maxIter=${num(one.maxIter)}`
+      `  verify: resultLink=${str(one.resultLink)} resultSetId=${numSaid(one.resultSetId)} ` +
+        `resultTrait=${numSaid(one.resultTrait)} maxIter=${numSaid(one.maxIter)}`
     )
     if (one.existingMatchQuality !== undefined || one.existingMatchLink !== undefined) {
       lines.push(
-        `  idempotency: existingQuality=${num(one.existingMatchQuality)} ` +
+        `  idempotency: existingQuality=${numSaid(one.existingMatchQuality)} ` +
           `existingLink=${str(one.existingMatchLink)}`
       )
     }
