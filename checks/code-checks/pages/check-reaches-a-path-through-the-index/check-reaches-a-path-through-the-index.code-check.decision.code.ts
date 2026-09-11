@@ -1,3 +1,7 @@
+import {
+  type Specified,
+  specifyingIn,
+} from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
@@ -152,14 +156,6 @@ export function askingOver(paths: readonly string[]): Reaching {
   }
 }
 
-function specified(node: ts.Node): boolean {
-  const up = node.parent
-  if (up === undefined) return false
-  if (ts.isImportDeclaration(up) || ts.isExportDeclaration(up)) return up.moduleSpecifier === node
-  if (ts.isLiteralTypeNode(up)) return up.parent !== undefined && ts.isImportTypeNode(up.parent)
-  return ts.isCallExpression(up) && up.expression.kind === ts.SyntaxKind.ImportKeyword
-}
-
 function readingIn(said: string, asking: Asking): Reached | null {
   for (const run of runsIn(said)) {
     for (let at = 0; at < run.said.length; at += 1) {
@@ -172,7 +168,7 @@ function readingIn(said: string, asking: Asking): Reached | null {
   return null
 }
 
-function namingIn(node: ts.Node, asking: Asking): Reached | null {
+function namingIn(node: ts.Node, asking: Asking, specified: Specified): Reached | null {
   if (!ts.isStringLiteral(node) && !ts.isNoSubstitutionTemplateLiteral(node)) return null
   if (specified(node)) return null
   return readingIn(node.text, asking)
@@ -181,13 +177,18 @@ function namingIn(node: ts.Node, asking: Asking): Reached | null {
 function reachedIn(
   node: ts.Node,
   asking: Asking,
-  held: ReadonlyMap<string, Reached>
+  held: ReadonlyMap<string, Reached>,
+  specified: Specified
 ): Reached | null {
-  const own = namingIn(node, asking)
+  const own = namingIn(node, asking, specified)
   if (own !== null) return own
   if (ts.isIdentifier(node)) return held.get(node.text) ?? null
-  if (ts.isPropertyAccessExpression(node)) return reachedIn(node.expression, asking, held)
-  return ts.forEachChild(node, (one) => reachedIn(one, asking, held) ?? undefined) ?? null
+  if (ts.isPropertyAccessExpression(node)) {
+    return reachedIn(node.expression, asking, held, specified)
+  }
+  return (
+    ts.forEachChild(node, (one) => reachedIn(one, asking, held, specified) ?? undefined) ?? null
+  )
 }
 
 function writtenIn(source: ts.SourceFile): ReadonlyMap<string, readonly ts.Expression[]> {
@@ -212,7 +213,11 @@ function writtenIn(source: ts.SourceFile): ReadonlyMap<string, readonly ts.Expre
   return found
 }
 
-export function heldIn(source: ts.SourceFile, asking: Asking): ReadonlyMap<string, Reached> {
+export function heldIn(
+  source: ts.SourceFile,
+  asking: Asking,
+  specified: Specified
+): ReadonlyMap<string, Reached> {
   const written = writtenIn(source)
   const held = new Map<string, Reached>()
   let more = true
@@ -221,7 +226,7 @@ export function heldIn(source: ts.SourceFile, asking: Asking): ReadonlyMap<strin
     for (const [name, each] of written) {
       if (held.has(name)) continue
       for (const one of each) {
-        const found = reachedIn(one, asking, held)
+        const found = reachedIn(one, asking, held, specified)
         if (found === null) continue
         held.set(name, found)
         more = true
@@ -264,7 +269,8 @@ function codedIn(path: string): boolean {
 
 function typedIn(asking: Asking, naming: Naming, path: string, text: string): readonly string[] {
   const source = parsedAs(path, text)
-  const held = heldIn(source, asking)
+  const specified = specifyingIn(source)
+  const held = heldIn(source, asking, specified)
   const said: string[] = []
   const named: string[] = []
   const coded = codedIn(path)
@@ -274,7 +280,7 @@ function typedIn(asking: Asking, naming: Naming, path: string, text: string): re
     if (args !== null) {
       lists = true
       for (const one of args) {
-        const found = reachedIn(one, asking, held)
+        const found = reachedIn(one, asking, held, specified)
         if (found === null || found.page) continue
         said.push(
           `line ${lineOf(source, node)} lists \`${shortened(found.said)}\`, ` +
@@ -283,7 +289,7 @@ function typedIn(asking: Asking, naming: Naming, path: string, text: string): re
         break
       }
     }
-    const own = namingIn(node, asking)
+    const own = namingIn(node, asking, specified)
     if (own?.page === true) {
       said.push(
         `line ${lineOf(source, node)} spells \`${shortened(own.said)}\`, ` +

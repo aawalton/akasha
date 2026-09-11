@@ -6,6 +6,7 @@ export const checkReachesAPathThroughTheIndex = {
   type: "code-check",
   slug: "check-reaches-a-path-through-the-index",
   definition: "the check refusing a page file that spells or lists a path the index answers for",
+  parts: ["module/specifier-placing"],
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
@@ -212,6 +213,10 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement: "A specifier is left to the checks that judge a specifier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which literals name a module is answered by the module named here.",
     },
     {
       invariantKind: "departure",
