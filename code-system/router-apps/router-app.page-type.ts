@@ -13,6 +13,7 @@ export const routerApp = {
     "file-property/placeholder-image",
     "module/health-answer",
     "module/router-app-rendering",
+    "module/router-context-adapters",
     "code-file-property/root-route",
     "code-file-property/route-table",
     "file-property/router-app-git-ignore",
