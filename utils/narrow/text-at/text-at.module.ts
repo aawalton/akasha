@@ -6,4 +6,5 @@ export const textAt = {
   slug: "text-at",
   definition: "the non-empty text a record holds under a key, or nothing",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

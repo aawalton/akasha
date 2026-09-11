@@ -1,4 +1,5 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { FLEET } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   akashaHolderProcessOf,
@@ -34,11 +35,6 @@ export interface ForestRow {
   readonly launch: string | null
   readonly mode: string | null
   readonly live: boolean
-}
-
-function textAt(frontmatter: Record<string, unknown>, key: string): string | null {
-  const held = frontmatter[key]
-  return typeof held === "string" && held !== "" ? held : null
 }
 
 export interface SeatStanding {

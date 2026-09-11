@@ -1,6 +1,7 @@
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
@@ -27,15 +28,10 @@ export type Reading = {
   readonly subscriptionDisabledReason: string | null
 }
 
-function textIn(held: Record<string, unknown>, key: string): string | null {
-  const said = held[key]
-  return typeof said === "string" && said !== "" ? said : null
-}
-
 function numberIn(held: Record<string, unknown>, key: string): number | null {
   const said = held[key]
   if (typeof said === "number") return Number.isFinite(said) ? said : null
-  const text = textIn(held, key)
+  const text = textAt(held, key)
   if (text === null) return null
   const found = Number(text)
   return Number.isFinite(found) ? found : null
@@ -53,19 +49,19 @@ export function readingsIn(root: string): readonly Reading[] {
     const stated = valueAt(one.path, root)
     if (stated === null) continue
     const whole = wholeValue(root, one.path, stated)
-    const account = textIn(whole, "slug")
+    const account = textAt(whole, "slug")
     if (account === null) continue
     found.push({
       account,
       aliasIndex: numberIn(whole, "aliasIndex"),
       fiveHourPercentUsed: numberIn(whole, "fiveHourPercentUsed"),
       sevenDayPercentUsed: numberIn(whole, "sevenDayPercentUsed"),
-      fiveHourResetsAt: textIn(whole, "fiveHourResetsAt"),
-      sevenDayResetsAt: textIn(whole, "sevenDayResetsAt"),
-      accessTokenExpiresAt: textIn(whole, "accessTokenExpiresAt"),
-      usageReadAt: textIn(whole, "usageReadAt"),
-      terminalAt: textIn(whole, "terminalAt"),
-      subscriptionDisabledReason: textIn(whole, "subscriptionDisabledReason"),
+      fiveHourResetsAt: textAt(whole, "fiveHourResetsAt"),
+      sevenDayResetsAt: textAt(whole, "sevenDayResetsAt"),
+      accessTokenExpiresAt: textAt(whole, "accessTokenExpiresAt"),
+      usageReadAt: textAt(whole, "usageReadAt"),
+      terminalAt: textAt(whole, "terminalAt"),
+      subscriptionDisabledReason: textAt(whole, "subscriptionDisabledReason"),
     })
   }
   return found

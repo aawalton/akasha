@@ -4,6 +4,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { akashaSeatsInHistory } from "../seat-akasha-history/seat-akasha-history.module.code.ts"
 import { akashaSeatsStated } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
@@ -32,26 +33,21 @@ function bareSlug(value: string | null): string | null {
   return value === null ? null : (slugIn(value) ?? value)
 }
 
-function slugAt(frontmatter: Record<string, unknown>, key: string): string | null {
-  const held = frontmatter[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
-
 function seatedFrom(
   frontmatter: Record<string, unknown> | null,
   name: string,
   activeAtMs: number
 ): Seated | null {
   if (frontmatter === null) return null
-  const id = slugAt(frontmatter, "id")
+  const id = textAt(frontmatter, "id")
   if (id === null) return null
   return {
     id,
     name,
-    domain: bareSlug(slugAt(frontmatter, "domain-slug")),
-    role: slugAt(frontmatter, "role-slug"),
+    domain: bareSlug(textAt(frontmatter, "domain-slug")),
+    role: textAt(frontmatter, "role-slug"),
     activeAtMs,
-    session: slugAt(frontmatter, SESSION_KEY),
+    session: textAt(frontmatter, SESSION_KEY),
   }
 }
 

@@ -1,3 +1,4 @@
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { launchFrom } from "../../seat-flex/seat-flex.module.code.ts"
 import { pageValuesOf } from "../../seat-page-values/seat-page-values.module.code.ts"
@@ -53,11 +54,6 @@ export interface ClearRebindDeps {
   ) => Promise<void>
 }
 
-function slugAt(frontmatter: Record<string, unknown>, key: string): string | null {
-  const held = frontmatter[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
-
 async function readPredecessor(agentId: string): Promise<{
   name: string | null
   title: string | null
@@ -71,14 +67,14 @@ async function readPredecessor(agentId: string): Promise<{
   if (stated === null) return null
   const name = nameOf(agentId)
   if (name === null) return null
-  const above = slugAt(stated, PRINCIPAL_KEY)
+  const above = textAt(stated, PRINCIPAL_KEY)
   return {
     name,
-    title: slugAt(stated, "title") ?? name,
+    title: textAt(stated, "title") ?? name,
     launch: launchFrom(stated),
     parent: above === null ? null : akashaSeatIdForName(above),
-    role: slugAt(stated, "role-slug"),
-    persona: slugAt(stated, "persona-slug"),
+    role: textAt(stated, "role-slug"),
+    persona: textAt(stated, "persona-slug"),
     principal: principalOf(agentId)?.value ?? null,
   }
 }

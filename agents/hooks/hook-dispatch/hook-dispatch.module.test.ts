@@ -1,12 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import {
-  eventsIn,
-  heldFor,
-  inputAnew,
-  reasonIn,
-  textIn,
-  type Valued,
-} from "./hook-dispatch.module.code.ts"
+import { eventsIn, heldFor, inputAnew, reasonIn, type Valued } from "./hook-dispatch.module.code.ts"
 
 const OVER_BASH = "made-up/hooks/over-bash/over-bash.agent-hook.ts"
 
@@ -52,17 +45,6 @@ describe("heldFor", () => {
   test("refuses a page naming no slug", () => {
     const bad: readonly Valued[] = [{ path: OVER_BASH, value: { runsAt: ["Any"] } }]
     expect(() => heldFor(bad, "Any", null)).toThrow("naming no code a dispatch could run")
-  })
-})
-
-describe("textIn", () => {
-  test("answers the text a key holds", () => {
-    expect(textIn({ tool_name: "Bash" }, "tool_name")).toBe("Bash")
-  })
-
-  test("answers nothing for an empty or absent key", () => {
-    expect(textIn({ tool_name: "" }, "tool_name")).toBe(null)
-    expect(textIn({}, "tool_name")).toBe(null)
   })
 })
 

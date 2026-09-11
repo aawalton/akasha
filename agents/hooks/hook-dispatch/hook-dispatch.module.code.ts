@@ -2,6 +2,7 @@ import { existsSync, realpathSync } from "node:fs"
 import { join } from "node:path"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   type Answer,
@@ -48,11 +49,6 @@ function namesIn(given: unknown): readonly string[] | null {
   return given.every((one) => typeof one === "string" && one !== "")
     ? (given as readonly string[])
     : null
-}
-
-export function textIn(payload: Record<string, unknown>, key: string): string | null {
-  const given = payload[key]
-  return typeof given === "string" && given !== "" ? given : null
 }
 
 export function eventsIn(listed: readonly Valued[]): readonly string[] {
@@ -126,13 +122,13 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
     return refusing(`${HOOK}: the index names no \`${PAGE_TYPE}\`, so nothing judged this call`)
   }
   linksMade(root, eventsIn(listed))
-  const event = textIn(payload, EVENT)
+  const event = textAt(payload, EVENT)
   if (event === null) {
     return refusing(`${HOOK}: the payload names no \`${EVENT}\`, so nothing judged this call`)
   }
   let carried = payload
   let rewrote = false
-  for (const one of heldFor(listed, event, textIn(payload, TOOL))) {
+  for (const one of heldFor(listed, event, textAt(payload, TOOL))) {
     const at = join(root, one.at)
     if (!existsSync(at)) {
       return refusing(`${HOOK}: \`${one.slug}\` names \`${one.at}\`, and nothing is there to run`)
