@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lastSurvivor = {
   id: "01a0657e-021a-7097-b3fd-f4b8619c2891",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "last-survivor",
   title: "Last Survivor",

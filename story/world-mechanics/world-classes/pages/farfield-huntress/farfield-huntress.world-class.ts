@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const farfieldHuntress = {
   id: "01a0657e-1361-700c-84f1-4ccc6ec98010",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "farfield-huntress",
   title: "Farfield Huntress",

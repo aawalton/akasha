@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gearheadCyclist = {
   id: "01a0657e-1367-7dfe-b4a2-7176df87a843",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gearhead-cyclist",
   title: "Gearhead Cyclist",

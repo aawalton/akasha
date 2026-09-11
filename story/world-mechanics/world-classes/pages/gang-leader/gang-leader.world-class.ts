@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gangLeader = {
   id: "01a0657e-1366-7a3b-bf8b-08fbae3986ea",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gang-leader",
   title: "Gang Leader",

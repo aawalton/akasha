@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const javelineerCommander = {
   id: "01a0657e-020b-715c-b412-c24a10e163b7",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "javelineer-commander",
   title: "Javelineer Commander",

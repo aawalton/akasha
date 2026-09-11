@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const generalOfMercy = {
   id: "01a0657e-1367-757f-8761-5219f627ca50",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "general-of-mercy",
   title: "General of Mercy",

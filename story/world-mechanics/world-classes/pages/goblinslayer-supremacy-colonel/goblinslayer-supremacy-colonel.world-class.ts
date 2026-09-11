@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const goblinslayerSupremacyColonel = {
   id: "01a0657e-136c-7254-b921-a3d81a69ba0e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "goblinslayer-supremacy-colonel",
   title: "Goblinslayer Supremacy Colonel",

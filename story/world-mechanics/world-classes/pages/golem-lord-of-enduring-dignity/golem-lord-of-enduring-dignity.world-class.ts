@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const golemLordOfEnduringDignity = {
   id: "01a0657e-01e3-7f0c-b151-ec6935efd52b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "golem-lord-of-enduring-dignity",
   title: "Golem-Lord of Enduring Dignity",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gamblerStrategist = {
   id: "01a0657e-01df-7a53-ac97-e4ee56c249c2",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gambler-strategist",
   title: "Gambler Strategist",

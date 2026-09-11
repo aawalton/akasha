@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lowlife = {
   id: "01a0657e-1391-7c05-9326-9109de33b9b6",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lowlife",
   title: "Lowlife",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const mammalogist = {
   id: "01a0657e-139d-7b9e-ad61-248e5878e687",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mammalogist",
   title: "Mammalogist",

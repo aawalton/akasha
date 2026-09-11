@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lancerOfTheAges = {
   id: "01a0657e-138c-7352-a133-68dbc7cb42cd",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lancer-of-the-ages",
   title: "Lancer of the Ages",

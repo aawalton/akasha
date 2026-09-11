@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lineSmith = {
   id: "01a0657e-138e-7047-8431-3e2be0c080be",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "line-smith",
   title: "Line Smith",

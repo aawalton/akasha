@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const foodie = {
   id: "01a0657e-01dd-7484-83fc-008e9a120659",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "foodie",
   title: "Foodie",

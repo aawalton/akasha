@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const halberdmaster = {
   id: "01a0657e-1370-7c18-83f0-ae35300a277f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "halberdmaster",
   title: "Halberdmaster",

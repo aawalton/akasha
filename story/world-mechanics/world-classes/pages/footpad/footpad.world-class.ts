@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const footpad = {
   id: "01a0657e-1365-700c-a4f8-bad02f9529c3",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "footpad",
   title: "Footpad",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const knightOfTheGlitteringBlade = {
   id: "01a0657e-020d-7a79-9eef-0609537ed225",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "knight-of-the-glittering-blade",
   title: "Knight of the Glittering Blade",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const martialArtistOfTheFoirenStyle = {
   id: "01a0657e-139d-7d8e-befd-514cb590e9cf",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "martial-artist-of-the-foiren-style",
   title: "Martial Artist of the Foiren Style",

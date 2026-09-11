@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lightfoot = {
   id: "01a0657e-021a-7f1b-a4a7-d2fe9586d782",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lightfoot",
   title: "Lightfoot",

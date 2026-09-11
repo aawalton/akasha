@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const kickboxer = {
   id: "01a0657e-020c-790d-aded-a49e439f5556",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "kickboxer",
   title: "Kickboxer",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const heroOfTurn = {
   id: "01a0657e-1373-7fa7-8215-93c3f7f69600",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "hero-of-turn",
   title: "Hero of Turn",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const grandMagusOfTheEmpire = {
   id: "01a0657e-136d-7017-a38a-640d3ded0cf9",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "grand-magus-of-the-empire",
   title: "Grand Magus of the Empire",

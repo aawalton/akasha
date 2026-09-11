@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const maimedTwinblade = {
   id: "01a0657e-139c-7f6c-9db1-8a3308d769cf",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "maimed-twinblade",
   title: "Maimed Twinblade",

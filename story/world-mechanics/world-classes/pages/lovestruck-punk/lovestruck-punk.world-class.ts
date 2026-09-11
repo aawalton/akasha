@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lovestruckPunk = {
   id: "01a0657e-1391-7203-b2bf-33da47d0a50b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lovestruck-punk",
   title: "Lovestruck Punk",

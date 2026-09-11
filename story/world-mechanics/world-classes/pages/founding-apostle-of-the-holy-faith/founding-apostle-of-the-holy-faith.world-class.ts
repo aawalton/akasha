@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const foundingApostleOfTheHolyFaith = {
   id: "01a0657e-01de-703e-9317-07194a1f836a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "founding-apostle-of-the-holy-faith",
   title: "Founding Apostle of the Holy Faith",

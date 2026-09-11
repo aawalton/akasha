@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const firstHereticCaptainOfTheFaith = {
   id: "01a0657e-1364-7d84-b847-3a89aa10a8ea",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "first-heretic-captain-of-the-faith",
   title: "First Heretic-Captain of the Faith",

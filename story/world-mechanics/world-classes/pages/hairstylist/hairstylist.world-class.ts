@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const hairstylist = {
   id: "01a0657e-1370-7ebe-8fc2-87ccc317ed51",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "hairstylist",
   title: "Hairstylist",

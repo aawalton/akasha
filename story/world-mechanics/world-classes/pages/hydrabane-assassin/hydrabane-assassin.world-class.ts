@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const hydrabaneAssassin = {
   id: "01a0657e-1375-7120-95dc-72f956f1f40e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "hydrabane-assassin",
   title: "Hydrabane Assassin",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const floristLevel16FloristLevel12 = {
   id: "01a0657e-01dd-79cb-8143-346605bba0e3",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "florist-level-16-florist-level-12",
   title: "Florist Level 16 → Florist Level 12.",

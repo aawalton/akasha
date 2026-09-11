@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const maTreDHTel = {
   id: "01a0657e-1391-7625-ad7a-9602e5a4b682",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "ma-tre-d-h-tel",
   title: "Maître D’hôtel",

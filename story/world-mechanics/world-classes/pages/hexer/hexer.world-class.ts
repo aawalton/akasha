@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const hexer = {
   id: "01a0657e-01f8-7df5-b0e9-c0a9da58725b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "hexer",
   title: "Hexer",

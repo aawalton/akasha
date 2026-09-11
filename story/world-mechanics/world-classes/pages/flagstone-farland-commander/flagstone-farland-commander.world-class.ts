@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const flagstoneFarlandCommander = {
   id: "01a0657e-1365-7dc8-b8f8-fde11e377d15",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "flagstone-farland-commander",
   title: "Flagstone Farland Commander",

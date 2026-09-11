@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gamblerOfFates = {
   id: "01a0657e-1366-77d4-95dc-aa525869c875",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gambler-of-fates",
   title: "Gambler of Fates",

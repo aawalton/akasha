@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const famousGuitarist = {
   id: "01a0657e-01da-7125-ac67-fc77b83b5a03",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "famous-guitarist",
   title: "Famous Guitarist",

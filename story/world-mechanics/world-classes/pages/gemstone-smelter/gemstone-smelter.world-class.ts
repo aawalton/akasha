@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gemstoneSmelter = {
   id: "01a0657e-1367-710c-af8a-6f835c72cf23",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gemstone-smelter",
   title: "Gemstone Smelter",

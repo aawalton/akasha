@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const farthestTraveller = {
   id: "01a0657e-1363-750c-ae30-d443a73abf93",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "farthest-traveller",
   title: "Farthest Traveller",

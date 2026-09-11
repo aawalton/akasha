@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const longstriderScout = {
   id: "01a0657e-138f-7a1e-9a5a-350c68952273",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "longstrider-scout",
   title: "Longstrider Scout",

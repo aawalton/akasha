@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gourmet = {
   id: "01a0657e-136d-7441-936c-0e49c6bb9872",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gourmet",
   title: "Gourmet",

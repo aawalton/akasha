@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const indomitable = {
   id: "01a0657e-01fb-77ab-b1c6-3f130269eb14",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "indomitable",
   title: "Indomitable",

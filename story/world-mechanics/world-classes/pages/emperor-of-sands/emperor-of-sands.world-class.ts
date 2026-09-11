@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const emperorOfSands = {
   id: "01a0657e-01d6-7f7f-a571-01f533f15ab6",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "emperor-of-sands",
   title: "Emperor of Sands",

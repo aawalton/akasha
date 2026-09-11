@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const javelinThrower = {
   id: "01a0657e-1377-7e6b-b360-80d805206b9e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "javelin-thrower",
   title: "Javelin Thrower",

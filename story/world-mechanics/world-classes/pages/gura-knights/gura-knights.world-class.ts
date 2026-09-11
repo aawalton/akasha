@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const guraKnights = {
   id: "01a0657e-1370-78ee-a209-d0091fdfd1f0",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gura-knights",
   title: "Gura Knights",

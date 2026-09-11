@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const headGuard = {
   id: "01a0657e-1371-7fc5-9826-77051fd1a4ef",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "head-guard",
   title: "Head Guard",

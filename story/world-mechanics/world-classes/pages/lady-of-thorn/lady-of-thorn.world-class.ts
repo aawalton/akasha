@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const ladyOfThorn = {
   id: "01a0657e-1384-7463-b492-1b24d32fb6ca",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lady-of-thorn",
   title: "Lady of Thorn",

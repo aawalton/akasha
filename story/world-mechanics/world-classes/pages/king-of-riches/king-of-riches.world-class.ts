@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const kingOfRiches = {
   id: "01a0657e-020c-7a8e-b034-5aa38acf4a7c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "king-of-riches",
   title: "King of Riches",

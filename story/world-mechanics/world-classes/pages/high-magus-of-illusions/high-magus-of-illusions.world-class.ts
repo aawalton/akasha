@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const highMagusOfIllusions = {
   id: "01a0657e-01f8-779f-b1a6-9caec75d06ed",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "high-magus-of-illusions",
   title: "High Magus of Illusions",

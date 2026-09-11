@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const grapplingMaster = {
   id: "01a0657e-136d-78fe-90a5-c3564a4d0c51",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "grappling-master",
   title: "Grappling Master",

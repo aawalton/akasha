@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lineholderGeneral = {
   id: "01a0657e-138e-7178-bbc6-a9efd7665076",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lineholder-general",
   title: "Lineholder General",

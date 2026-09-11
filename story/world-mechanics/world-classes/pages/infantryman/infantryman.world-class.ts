@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const infantryman = {
   id: "01a0657e-01fb-7776-8951-802bd8086c61",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "infantryman",
   title: "Infantryman",

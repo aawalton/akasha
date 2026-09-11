@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const fleshReapers = {
   id: "01a0657e-1365-705e-8ec5-6fb694aaae1d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "flesh-reapers",
   title: "Flesh Reapers",

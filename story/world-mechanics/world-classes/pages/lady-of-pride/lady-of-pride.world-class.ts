@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const ladyOfPride = {
   id: "01a0657e-0219-7f43-80ad-466a3914f44f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lady-of-pride",
   title: "Lady of Pride",

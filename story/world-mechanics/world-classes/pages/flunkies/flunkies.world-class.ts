@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const flunkies = {
   id: "01a0657e-01dd-7b86-88e8-4ba792902b41",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "flunkies",
   title: "Flunkies",

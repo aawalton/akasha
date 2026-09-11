@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const leadDrummer = {
   id: "01a0657e-021a-7d37-ac9f-bbdd16e813e2",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lead-drummer",
   title: "Lead Drummer",

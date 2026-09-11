@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const immortalAvenger = {
   id: "01a0657e-1376-7ca8-afc8-54a4b0a1fc80",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "immortal-avenger",
   title: "Immortal Avenger",

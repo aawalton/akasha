@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const fistOfTheLivingWorld = {
   id: "01a0657e-01dc-7d77-a04f-093a96a3ecfb",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "fist-of-the-living-world",
   title: "Fist of the Living World",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const fulminousLord = {
   id: "01a0657e-1366-72e9-ade9-de647832efb7",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "fulminous-lord",
   title: "Fulminous Lord",

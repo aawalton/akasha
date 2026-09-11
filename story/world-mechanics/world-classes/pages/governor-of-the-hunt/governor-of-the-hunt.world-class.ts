@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const governorOfTheHunt = {
   id: "01a0657e-01e3-7fab-90e9-7575b1e39a45",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "governor-of-the-hunt",
   title: "Governor of the Hunt",

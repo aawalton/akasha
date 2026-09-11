@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const makeupArtist = {
   id: "01a0657e-139d-7316-97a7-a391f6c9667a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "makeup-artist",
   title: "Makeup Artist",

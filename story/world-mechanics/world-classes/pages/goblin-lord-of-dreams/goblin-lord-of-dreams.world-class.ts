@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const goblinLordOfDreams = {
   id: "01a0657e-01e2-7655-ac45-8760580253ea",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "goblin-lord-of-dreams",
   title: "Goblin Lord of Dreams",

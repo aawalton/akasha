@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const magestoneChieftain = {
   id: "01a0657e-022a-78b3-a992-fba57efe5b1e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "magestone-chieftain",
   title: "Magestone Chieftain",

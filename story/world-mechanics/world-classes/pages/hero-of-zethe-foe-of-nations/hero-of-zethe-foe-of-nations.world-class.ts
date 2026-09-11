@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const heroOfZetheFoeOfNations = {
   id: "01a0657e-1373-7991-b69c-6ecfd6be7159",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "hero-of-zethe-foe-of-nations",
   title: "Hero of Zethe, Foe of Nations",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const illegitimateHeir = {
   id: "01a0657e-01fb-7b89-ac83-154cd6faff2e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "illegitimate-heir",
   title: "Illegitimate Heir",

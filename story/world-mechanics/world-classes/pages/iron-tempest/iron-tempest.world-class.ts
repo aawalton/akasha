@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const ironTempest = {
   id: "01a0657e-1377-7a3c-a3a0-68d5f515285b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "iron-tempest",
   title: "Iron Tempest",

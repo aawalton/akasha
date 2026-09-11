@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const herbalists = {
   id: "01a0657e-01f6-7d88-8f3f-b3d3705ab6ff",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "herbalists",
   title: "Herbalists",

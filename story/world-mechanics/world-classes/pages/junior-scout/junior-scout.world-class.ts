@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const juniorScout = {
   id: "01a0657e-020b-7149-a909-8ec726ea97b2",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "junior-scout",
   title: "Junior Scout",

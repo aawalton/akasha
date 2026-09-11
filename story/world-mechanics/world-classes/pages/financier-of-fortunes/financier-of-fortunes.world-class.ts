@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const financierOfFortunes = {
   id: "01a0657e-1364-789c-bbb8-9539f0fb0b6f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "financier-of-fortunes",
   title: "Financier of Fortunes",

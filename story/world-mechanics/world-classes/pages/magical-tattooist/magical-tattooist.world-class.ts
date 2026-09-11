@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const magicalTattooist = {
   id: "01a0657e-139b-70a8-b0f4-f1cde3902b82",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "magical-tattooist",
   title: "Magical Tattooist",

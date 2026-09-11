@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const honorablePrisoner = {
   id: "01a0657e-1374-7b0a-bdd9-f3f06a28e492",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "honorable-prisoner",
   title: "Honorable Prisoner",

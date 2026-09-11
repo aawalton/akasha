@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const knightsOfSummer = {
   id: "01a0657e-137d-7426-ba7f-1ff208aeceb4",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "knights-of-summer",
   title: "Knights of Summer",

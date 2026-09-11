@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const firestarter = {
   id: "01a0657e-1364-7069-8cb1-5386b2e479ab",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "firestarter",
   title: "Firestarter",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const gynecolomancer = {
   id: "01a0657e-01ee-7212-b999-3804977bbaca",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "gynecolomancer",
   title: "Gynecolomancer",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const lifewoodArtifactAnalysisEnchanter = {
   id: "01a0657e-021a-7695-ab54-fee0a1148b2e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "lifewood-artifact-analysis-enchanter",
   title: "Lifewood Artifact Analysis Enchanter",

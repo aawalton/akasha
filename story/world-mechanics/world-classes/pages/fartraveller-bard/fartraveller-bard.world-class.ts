@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const fartravellerBard = {
   id: "01a0657e-01db-7c7e-b541-d0668d1f4db0",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "fartraveller-bard",
   title: "Fartraveller Bard",

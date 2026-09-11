@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const ghosttouchedRunaway = {
   id: "01a0657e-01e1-7b80-ba85-eaa552526b8c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "ghosttouched-runaway",
   title: "Ghosttouched Runaway",

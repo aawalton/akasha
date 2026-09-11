@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const greatGenerals = {
   id: "01a0657e-136e-7c5d-9868-e903117da416",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "great-generals",
   title: "Great Generals",

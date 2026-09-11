@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const juggernautOfSin = {
   id: "01a0657e-1378-7d98-8e9b-8ad710b788a9",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "juggernaut-of-sin",
   title: "Juggernaut of Sin",

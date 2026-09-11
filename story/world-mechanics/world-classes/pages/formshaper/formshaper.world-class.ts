@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const formshaper = {
   id: "01a0657e-1366-7b40-873d-2015d1ca4044",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "formshaper",
   title: "Formshaper",

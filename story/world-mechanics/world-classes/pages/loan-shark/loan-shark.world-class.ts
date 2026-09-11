@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const loanShark = {
   id: "01a0657e-138f-783d-b046-503b24ac38f2",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "loan-shark",
   title: "Loan Shark",

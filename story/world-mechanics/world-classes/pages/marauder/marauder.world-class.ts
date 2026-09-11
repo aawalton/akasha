@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const marauder = {
   id: "01a0657e-022c-7a2c-aadf-bd0054e6fdf3",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "marauder",
   title: "Marauder",

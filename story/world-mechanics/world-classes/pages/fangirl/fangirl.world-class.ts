@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const fangirl = {
   id: "01a0657e-1361-710e-bf7a-92528ddc05b5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "fangirl",
   title: "Fangirl",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const headMiner = {
   id: "01a0657e-1371-773d-949c-7faa3f5a868e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "head-miner",
   title: "Head Miner",

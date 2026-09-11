@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const marchioness = {
   id: "01a0657e-022c-70ef-ab74-8412ded71bd9",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "marchioness",
   title: "Marchioness",

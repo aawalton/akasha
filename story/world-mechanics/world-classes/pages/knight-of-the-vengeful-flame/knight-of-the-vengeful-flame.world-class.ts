@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const knightOfTheVengefulFlame = {
   id: "01a0657e-020d-7309-a828-84afc08085bd",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "knight-of-the-vengeful-flame",
   title: "Knight of the Vengeful Flame",

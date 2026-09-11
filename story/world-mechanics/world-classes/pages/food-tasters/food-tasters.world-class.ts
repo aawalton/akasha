@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const foodTasters = {
   id: "01a0657e-1365-74ba-b14e-10ea81e46e2c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "food-tasters",
   title: "Food Tasters",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const level27SteelflameTactician = {
   id: "01a0657e-021a-73e5-933f-c1e45e902367",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "level-27-steelflame-tactician",
   title: "Level 27 Steelflame Tactician!",
