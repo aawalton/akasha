@@ -155,6 +155,17 @@ test("a 401 forces one refresh and one retry", async () => {
   expect(asked.length).toBe(3)
 })
 
+test("a refresh leaves the 429 retry already spent spent", async () => {
+  answering(
+    { status: 429, body: {}, retryAfter: "0.01" },
+    { status: 401, body: {} },
+    { status: 200, body: { access_token: "a-fresh-one", token_type: "Bearer", expires_in: 3600 } },
+    { status: 429, body: {}, retryAfter: "0.01" }
+  )
+  await expect(spotifyGet("/one", anything)).rejects.toThrow("429 rate limited")
+  expect(asked.length).toBe(4)
+})
+
 test("a second 401 throws with the body the server sent", async () => {
   answering(
     { status: 401, body: { error: "no" } },

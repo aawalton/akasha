@@ -130,7 +130,7 @@ export async function spotifyRequest<T extends z.ZodTypeAny>(
 
   if (result.status === 401 && authRetries < MAX_AUTH_RETRIES) {
     await forceRefresh()
-    return spotifyRequest(endpointOrUrl, shape, options, authRetries + 1)
+    return spotifyRequest(endpointOrUrl, shape, options, authRetries + 1, rateLimitRetries)
   }
 
   if (result.json === undefined) {

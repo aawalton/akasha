@@ -74,5 +74,9 @@ export const spotifyClient = {
       invariantKind: "absence",
       statement: "No answer is kept between calls.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refresh leaves the 429 retry already spent spent.",
+    },
   ],
 } as const satisfies Module
