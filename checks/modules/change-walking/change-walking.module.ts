@@ -133,5 +133,17 @@ export const changeWalking = {
       invariantKind: "departure",
       statement: "A check reading a body leniently reaches `body-text` rather than this module.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A change held over a run reads each path once and answers from that read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away after that read is answered with the body that read got.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that will not open refuses the run rather than being held.",
+    },
   ],
 } as const satisfies Module

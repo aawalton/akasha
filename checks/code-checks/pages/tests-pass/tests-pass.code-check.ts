@@ -42,6 +42,10 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "A test file taken away after the check read it is run on the body that read got.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The run reads the index this change leaves rather than the index HEAD holds.",
     },
     {

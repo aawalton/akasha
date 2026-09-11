@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { existsSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { testsPass } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.check.code.ts"
 import {
   FAILS,
@@ -7,7 +9,9 @@ import {
   scratch,
   withoutGuard,
 } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
+import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -42,6 +46,28 @@ test("a change whose tests are green is not refused", () => {
   const said = withoutGuard(() =>
     testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
+  expect(said).toEqual([])
+})
+
+test("a test file taken away after the check read it is judged on the body that read got", () => {
+  const root = repo({
+    "akasha/one.module.code.ts": "",
+    "akasha/one.module.test.ts": PASSES,
+  })
+  const at = join(root, "akasha/one.module.test.ts")
+  const disk = onDisk(root)
+  const racing: Change = {
+    root,
+    changed: ["akasha/one.module.code.ts", "akasha/one.module.test.ts"],
+    before: disk,
+    after: (path) => {
+      const bytes = disk(path)
+      rmSync(at, { force: true })
+      return bytes
+    },
+  }
+  const said = withoutGuard(() => testsPass(racing, shadowAt(root)))
+  expect(existsSync(at)).toBe(false)
   expect(said).toEqual([])
 })
 

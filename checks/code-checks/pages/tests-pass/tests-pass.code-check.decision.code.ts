@@ -1,5 +1,8 @@
 import { basename, dirname, join, relative } from "node:path"
-import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  holdingOver,
+  textIn,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Ran, Spent } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 import {
@@ -201,7 +204,8 @@ export function refusedOf(ran: Ran, named: readonly string[], first: string): Ju
 const NESTED =
   "no test ran: this landing was made from inside a test run, which `AKASHA_TESTS_RUNNING` says is going, so the tests beside the files this change carries were not run and nothing says whether they pass."
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
+  const change = holdingOver(given)
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []

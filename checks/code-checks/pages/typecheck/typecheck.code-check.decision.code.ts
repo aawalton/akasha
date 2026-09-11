@@ -1,6 +1,9 @@
 import { existsSync, readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  holdingOver,
+  textNamed,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
@@ -260,20 +263,6 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
     }
   }
   return (path) => held.some((one) => one.test(path))
-}
-
-export function holdingOver(change: Change): Change {
-  const held = new Map<string, Uint8Array | null>()
-  return {
-    ...change,
-    after: (path) => {
-      const found = held.get(path)
-      if (found !== undefined) return found
-      const bytes = change.after(path)
-      held.set(path, bytes)
-      return bytes
-    },
-  }
 }
 
 export async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]> {

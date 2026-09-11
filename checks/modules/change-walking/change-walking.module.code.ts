@@ -378,6 +378,20 @@ export function onDisk(root: string): (path: string) => Uint8Array | null {
   }
 }
 
+export function holdingOver(change: Change): Change {
+  const held = new Map<string, Uint8Array | null>()
+  return {
+    ...change,
+    after: (path) => {
+      const found = held.get(path)
+      if (found !== undefined) return found
+      const bytes = change.after(path)
+      held.set(path, bytes)
+      return bytes
+    },
+  }
+}
+
 export function bodyOf(given: Body): string {
   try {
     return new TextDecoder("utf-8", { fatal: true }).decode(given.bytes)
