@@ -19,7 +19,6 @@ export const seatSystem = {
     "module/pty-proxy-detector",
     "module/seat-whoami",
     "module/pty-terminal-death",
-    "module/session-watch",
     "module/skill-token-guard",
     "module/spawn-seat",
     "module/state-spawned-seat",

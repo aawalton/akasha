@@ -11,6 +11,7 @@ export const claudeCodeSession = {
     "module/session-jsonl",
     "module/transcript-materialize",
     "module/session-stream",
+    "module/session-watch",
   ],
   invariants: [
     {
