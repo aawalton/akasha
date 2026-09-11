@@ -1,7 +1,5 @@
 import type { StandardAgentEnglishProperty } from "../../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
-export type IntentStatement = string
-
 export const intentStatement = {
   id: "01a05f19-7b27-7bb1-955d-9086b34c5c30",
   pageTypeSlug: "standard-agent-english-property",
@@ -11,4 +9,5 @@ export const intentStatement = {
   definition: "one sentence saying what an initiative is to make so",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies StandardAgentEnglishProperty

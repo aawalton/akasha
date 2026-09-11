@@ -1,6 +1,6 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { Definition } from "../../properties/definition.standard-agent-english-property.ts"
+import type { Definition } from "../../properties/definition.standard-agent-english-property.types.ts"
 import type { MemberName } from "./member-name.text-property.ts"
 
 export type Member = {

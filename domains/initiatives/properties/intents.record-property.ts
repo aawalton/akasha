@@ -1,6 +1,6 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { IntentStatement } from "./intent-statement.standard-agent-english-property.ts"
+import type { IntentStatement } from "./intent-statement.standard-agent-english-property.types.ts"
 import type { WorkingMemory } from "./working-memory.text-property.ts"
 
 export type Intent = {

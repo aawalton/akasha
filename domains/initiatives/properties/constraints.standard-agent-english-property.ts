@@ -1,7 +1,4 @@
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { StandardAgentEnglishProperty } from "../../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
-
-export type Constraints = List<string>
 
 export const constraints = {
   id: "01a058a3-b01f-7000-8216-401fe8124486",
@@ -22,4 +19,5 @@ export const constraints = {
       statement: "A constraint that no longer bounds the work is deleted.",
     },
   ],
+  types: "ts",
 } as const satisfies StandardAgentEnglishProperty

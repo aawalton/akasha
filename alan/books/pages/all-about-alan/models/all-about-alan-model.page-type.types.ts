@@ -1,4 +1,4 @@
-import type { Definition } from "../../../../../domains/properties/definition.standard-agent-english-property.ts"
+import type { Definition } from "../../../../../domains/properties/definition.standard-agent-english-property.types.ts"
 import type { Page } from "../../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { Simulation } from "./properties/simulation.code-file-property.ts"

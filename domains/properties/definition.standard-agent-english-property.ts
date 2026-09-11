@@ -1,7 +1,5 @@
 import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
-export type Definition = string
-
 export const definition = {
   id: "01a049b9-856c-70ca-bfd8-31cb76ead837",
   pageTypeSlug: "standard-agent-english-property",
@@ -43,4 +41,5 @@ export const definition = {
         "A domain's concern stays on its own line even where every sibling is about the same thing.",
     },
   ],
+  types: "ts",
 } as const satisfies StandardAgentEnglishProperty

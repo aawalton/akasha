@@ -1,8 +1,6 @@
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
 export type Aid = string
-export type Aids = List<Aid>
 
 export const aids = {
   id: "01a049c9-3a2c-7044-a7e7-234356b9df18",
@@ -19,4 +17,5 @@ export const aids = {
       statement: "An aid runs to the length an act or a warrant runs to.",
     },
   ],
+  types: "ts",
 } as const satisfies StandardAgentEnglishProperty
