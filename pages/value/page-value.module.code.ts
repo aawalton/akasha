@@ -2,22 +2,6 @@ import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 
-// WHAT READS A KEY OFF A VALUE IN HAND IS BESIDE THIS, WHERE NO MODULE NODE CARRIES IS IMPORTED.
-//
-// The phone's shell has no node, and the bundler making that shell refuses a build reaching one of
-// node's own modules; loading a body needs `Bun.Transpiler` too, which the phone has no more than
-// it has node. Reading a key off a value in hand needs neither, and a browser reaches only that.
-// Those readers are named again from here so a caller wanting both halves asks once.
-export {
-  numberAt,
-  slugAt,
-  slugOf,
-  slugsIn,
-  textAt,
-  textsAt,
-  type Value,
-} from "../value-reading/page-value-reading.module.code.ts"
-
 function newTranspiler() {
   return new Bun.Transpiler({ loader: "ts" })
 }
