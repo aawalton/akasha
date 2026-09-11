@@ -27,7 +27,7 @@ import type { TotalRemaining } from "akasha/alan/collections/properties/total-re
 import type { TotalRemainingInWords } from "akasha/alan/collections/properties/total-remaining-in-words.computed-property.types.ts"
 import type { UnitWords } from "akasha/alan/collections/properties/unit-words.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 
 export type Collection = Page & {
   author?: CollectionAuthor

@@ -1,0 +1,1 @@
+export type GmailDecision = string

@@ -1,5 +1,5 @@
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { Chosen } from "akasha/story/decisions/properties/chosen.text-property.types.ts"
 import type { DecisionEffect } from "akasha/story/decisions/properties/decision-effect.text-property.types.ts"
 import type { DecisionOptions } from "akasha/story/decisions/properties/decision-options.text-property.types.ts"

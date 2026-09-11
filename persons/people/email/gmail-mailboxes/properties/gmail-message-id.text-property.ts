@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type GmailMessageId = string
-
 export const gmailMessageId = {
   id: "01a06862-a0bc-705a-87c1-fbe2095fdae7",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const gmailMessageId = {
       statement: "The id is spelled as Gmail spells that id rather than as a slug is spelled.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

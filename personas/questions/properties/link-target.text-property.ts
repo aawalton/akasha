@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LinkTarget = string
-
 export const linkTarget = {
   id: "01a06823-89b2-700b-91db-fce33ac0739a",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const linkTarget = {
       statement: "A target reached over the web is a url property rather than text.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

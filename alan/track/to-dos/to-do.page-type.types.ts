@@ -12,7 +12,7 @@ import type { ToDoSortOrder } from "akasha/alan/track/to-dos/properties/to-do-so
 import type { ToDoValue } from "akasha/alan/track/to-dos/properties/to-do-value.relation-property.types.ts"
 import type { WhatItTakes } from "akasha/alan/track/to-dos/properties/what-it-takes.file-property.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type ToDo = Page & {
   title: Title

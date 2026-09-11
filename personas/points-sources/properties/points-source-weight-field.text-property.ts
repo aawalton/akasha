@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PointsSourceWeightField = string
-
 export const pointsSourceWeightField = {
   id: "01a060b8-bfaf-7005-af73-3c898c950a0a",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const pointsSourceWeightField = {
       statement: "A source added up by weight states the field its weight is read from.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

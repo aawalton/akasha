@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type PointsSourceReadingsReading = string
-export type PointsSourceReadings = List<PointsSourceReadingsReading>
 
 export const pointsSourceReadings = {
   id: "01a060b8-bfaf-7006-99ee-756f9ebe1b75",
@@ -14,4 +12,5 @@ export const pointsSourceReadings = {
     "which readings of Alan's day count towards a persona's points, and how many make one",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type RenderedAs = string
-
 export const renderedAs = {
   id: "01a07cf4-b901-765b-8af0-c41424d855b9",
   pageTypeSlug: "text-property",
@@ -34,4 +32,5 @@ export const renderedAs = {
       statement: "An entry shape drawn as progress orders its lines by display-order.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

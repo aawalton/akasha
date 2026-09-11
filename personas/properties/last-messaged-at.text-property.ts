@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LastMessagedAt = string
-
 export const lastMessagedAt = {
   id: "01a05398-caad-7428-b9a6-ec3a8f09470c",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const lastMessagedAt = {
       statement: "No name format exists for an instant.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

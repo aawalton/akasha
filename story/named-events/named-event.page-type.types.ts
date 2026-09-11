@@ -1,6 +1,6 @@
 import type { Seq } from "akasha/alan/track/daily/days/properties/seq.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { EventAliases } from "akasha/story/named-events/properties/event-aliases.text-property.types.ts"
 import type { EventFirstChapter } from "akasha/story/named-events/properties/event-first-chapter.number-property.types.ts"
 import type { EventLastChapter } from "akasha/story/named-events/properties/event-last-chapter.number-property.types.ts"

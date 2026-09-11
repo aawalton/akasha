@@ -6,7 +6,7 @@ import type { MobilityReadingValueText } from "akasha/alan/values/health/fitness
 import type { Side } from "akasha/alan/values/health/fitness/mobility-readings/properties/side.select-property.types.ts"
 import type { Note } from "akasha/alan/values/health/fitness/set-logs/properties/note.text-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type MobilityReading = Page & {
   title: Title

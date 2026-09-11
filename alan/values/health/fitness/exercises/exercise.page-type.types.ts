@@ -25,7 +25,7 @@ import type { SfrScore } from "akasha/alan/values/health/fitness/exercises/prope
 import type { SkillCost } from "akasha/alan/values/health/fitness/exercises/properties/skill-cost.select-property.types.ts"
 import type { TrainsLengthenedRange } from "akasha/alan/values/health/fitness/exercises/properties/trains-lengthened-range.boolean-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Exercise = Page & {
   title: Title

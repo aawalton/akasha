@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type SequenceDirection = string
-
 export const sequenceDirection = {
   id: "01a062de-2001-7003-a875-d6a5b29e480d",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const sequenceDirection = {
       statement: "The two directions a run can take do not stand as pages.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

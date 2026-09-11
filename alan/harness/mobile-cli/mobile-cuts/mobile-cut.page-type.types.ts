@@ -5,7 +5,7 @@ import type { MainSha } from "akasha/alan/harness/mobile-cli/mobile-cuts/propert
 import type { ShellSha } from "akasha/alan/harness/mobile-cli/mobile-cuts/properties/shell-sha.text-property.types.ts"
 import type { App } from "akasha/alan/harness/readouts/widgets/properties/app.relation-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type MobileCut = Page & {
   title: Title

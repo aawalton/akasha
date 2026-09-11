@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type QuestionAskedIn = string
-
 export const questionAskedIn = {
   id: "01a06823-89b2-7003-9361-9f665902bad0",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const questionAskedIn = {
       statement: "This property is a relation to the stretch of work a question came out of.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

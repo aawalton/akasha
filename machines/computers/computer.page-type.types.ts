@@ -18,7 +18,7 @@ import type { PurchaseDate } from "akasha/machines/computers/properties/purchase
 import type { Ram } from "akasha/machines/computers/properties/ram.select-property.types.ts"
 import type { Ssd } from "akasha/machines/computers/properties/ssd.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Computer = Page & {
   title: Title

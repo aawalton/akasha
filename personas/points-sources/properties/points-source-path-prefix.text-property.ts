@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PointsSourcePathPrefix = string
-
 export const pointsSourcePathPrefix = {
   id: "01a060b8-bfaf-7003-b190-9ac1c4d5df1e",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const pointsSourcePathPrefix = {
   definition: "which part of the tree a persona's counted work sits under",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

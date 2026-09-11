@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SupabaseAuthUserId = string
-
 export const supabaseAuthUserId = {
   id: "01a053fa-eba7-79fc-b15c-76eb7cbfe5b4",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const supabaseAuthUserId = {
       statement: "Most people have no account.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

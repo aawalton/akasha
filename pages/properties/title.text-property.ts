@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Title = string
-
 export const title = {
   id: "01a05fac-7582-7694-ae1f-480fe66ea27b",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const title = {
       statement: "A title is written as the name is written rather than as a slug is written.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

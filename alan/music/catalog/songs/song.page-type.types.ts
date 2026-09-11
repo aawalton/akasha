@@ -10,7 +10,7 @@ import type { Singability } from "akasha/alan/music/catalog/songs/properties/sin
 import type { SongType } from "akasha/alan/music/catalog/songs/properties/song-type.select-property.ts"
 import type { SyncedLyrics } from "akasha/alan/music/catalog/songs/properties/synced-lyrics.file-property.ts"
 import type { Written } from "akasha/alan/music/catalog/songs/properties/written.select-property.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Song = CollectionExternal & {
   externalId: ExternalId

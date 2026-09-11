@@ -1,4 +1,4 @@
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { Action } from "akasha/temper/progressions/temper-rules/properties/action.relation-property.types.ts"
 import type { Active } from "akasha/temper/progressions/temper-rules/properties/active.boolean-property.types.ts"
 import type { Goal } from "akasha/temper/progressions/temper-rules/properties/goal.relation-property.types.ts"

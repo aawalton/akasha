@@ -1,7 +1,4 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
-import type { List } from "../../types/page-properties/page-property.page-type.ts"
-
-export type SelectValues = List<string>
 
 export const selectValues = {
   id: "01a063de-2c60-7002-b5a6-6a0c7363e4f6",
@@ -22,4 +19,5 @@ export const selectValues = {
       statement: "The order the values are written in is the order the values are offered in.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

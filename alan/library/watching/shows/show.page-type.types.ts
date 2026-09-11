@@ -5,7 +5,7 @@ import type { PosterPath } from "akasha/alan/library/watching/properties/poster-
 import type { ProductionStatus } from "akasha/alan/library/watching/properties/production-status.select-property.types.ts"
 import type { VoteAverage } from "akasha/alan/library/watching/properties/vote-average.number-property.types.ts"
 import type { LastAirDate } from "akasha/alan/library/watching/shows/properties/last-air-date.calendar-date-property.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Show = CollectionExternal & {
   title: Title

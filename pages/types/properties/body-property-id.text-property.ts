@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type BodyPropertyId = string
-
 export const bodyPropertyId = {
   id: "01a0683a-620a-7bd1-9f9f-26882ff5531b",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const bodyPropertyId = {
       statement: "A key named here that the page type has no property for reads nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

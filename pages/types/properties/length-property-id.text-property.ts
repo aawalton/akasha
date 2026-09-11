@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type LengthPropertyId = string
-
 export const lengthPropertyId = {
   id: "01a0683a-620a-7c9f-8c62-ed7e2e10a9ca",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const lengthPropertyId = {
       statement: "A page whose length is not known is never recorded as read at its end.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

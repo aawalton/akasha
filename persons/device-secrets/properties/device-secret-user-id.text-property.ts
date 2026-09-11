@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DeviceSecretUserId = string
-
 export const deviceSecretUserId = {
   id: "01a05b39-f50c-7103-abe2-bf3c03f7aab4",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const deviceSecretUserId = {
       statement: "This user id is the account a person states rather than that person's slug.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

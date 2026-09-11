@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type ProgressPropertyId = string
-
 export const progressPropertyId = {
   id: "01a0683a-620a-7e65-a95a-efdc99a80eaa",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const progressPropertyId = {
       statement: "A key named here that the page type has no property for records nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

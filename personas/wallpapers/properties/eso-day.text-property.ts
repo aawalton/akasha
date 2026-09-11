@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EsoDay = string
-
 export const esoDay = {
   id: "01a060fb-040d-7f7f-bce8-a74c90df15bc",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const esoDay = {
       statement: "This property is a day rather than text.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,0 +1,1 @@
+export type ValueSlug = string

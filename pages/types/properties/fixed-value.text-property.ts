@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type FixedValue = string
-
 export const fixedValue = {
   id: "01a08834-233c-7012-b368-59193396cdb4",
   pageTypeSlug: "text-property",
@@ -45,4 +43,5 @@ export const fixedValue = {
       statement: "A fixed value is written as text whatever kind its property holds.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

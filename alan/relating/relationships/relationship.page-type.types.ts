@@ -16,7 +16,7 @@ import type { RelationshipSmsAllowed } from "akasha/alan/relating/relationships/
 import type { RelationshipSmsHandlerTarget } from "akasha/alan/relating/relationships/properties/relationship-sms-handler-target.relation-property.types.ts"
 import type { RelationshipTopics } from "akasha/alan/relating/relationships/properties/relationship-topics.relation-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Relationship = Page & {
   title: Title

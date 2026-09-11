@@ -1,5 +1,5 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { MediaRenderer } from "./media-renderer.text-property.ts"
+import type { MediaRenderer } from "./media-renderer.text-property.types.ts"
 
 export type ImageMedia = {
   renderer: MediaRenderer

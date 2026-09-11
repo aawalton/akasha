@@ -1,5 +1,5 @@
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { BuildLevel } from "akasha/story/builds/properties/build-level.number-property.types.ts"
 import type { ClassName } from "akasha/story/builds/properties/class-name.text-property.types.ts"
 import type { GameSystem } from "akasha/story/builds/properties/game-system.text-property.types.ts"

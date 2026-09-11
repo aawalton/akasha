@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type SequenceGroupBy = string
-
 export const sequenceGroupBy = {
   id: "01a062de-2001-7001-8470-331eaddff9ce",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const sequenceGroupBy = {
       statement: "A key named here that the page type has no property for gathers nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

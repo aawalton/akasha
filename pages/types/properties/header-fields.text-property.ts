@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type HeaderFields = string
-
 export const headerFields = {
   id: "01a0683a-620a-7905-b43d-ad803b4fae71",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const headerFields = {
       statement: "A header naming keys states those keys in the order those keys stand in.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

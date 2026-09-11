@@ -1,4 +1,4 @@
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { ItemLevel } from "akasha/temper/catalog/temper-gear/properties/item-level.text-property.types.ts"
 import type { PotionSeconds } from "akasha/temper/catalog/temper-gear/properties/potion-seconds.number-property.types.ts"
 import type { TemperGearThing } from "akasha/temper/catalog/temper-gear/things/temper-gear-thing.page-type.types.ts"

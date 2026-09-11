@@ -1,3 +1,3 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
+import type { Slug } from "akasha/pages/properties/slug.text-property.types.ts"
 
 export type MessageTo = Slug

@@ -7,7 +7,7 @@ import type { GbwwReadingNumber } from "akasha/alan/library/reading/gbww-reading
 import type { GbwwSection } from "akasha/alan/library/reading/gbww-readings/properties/gbww-section.text-property.types.ts"
 import type { GbwwStory } from "akasha/alan/library/reading/gbww-readings/properties/gbww-story.relation-property.types.ts"
 import type { GbwwWork } from "akasha/alan/library/reading/gbww-readings/properties/gbww-work.text-property.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type GbwwReading = Collection & {
   title: Title

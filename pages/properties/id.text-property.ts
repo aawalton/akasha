@@ -1,7 +1,5 @@
 import type { TextProperty } from "../text-properties/text-property.page-type.types.ts"
 
-export type Id = string
-
 export const id = {
   id: "01a049b9-856c-7ee7-b958-f63eead00582",
   pageTypeSlug: "text-property",
@@ -23,4 +21,5 @@ export const id = {
       statement: "An id stated by hand is judged by no check on a mechanical landing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -5,7 +5,7 @@ import type { OriginalPublicationYear } from "akasha/alan/library/reading/books/
 import type { PageCount } from "akasha/alan/library/reading/books/properties/page-count.number-property.types.ts"
 import type { Publisher } from "akasha/alan/library/reading/books/properties/publisher.text-property.types.ts"
 import type { Rating } from "akasha/alan/library/reading/books/properties/rating.number-property.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type Book = CollectionExternal & {
   title: Title

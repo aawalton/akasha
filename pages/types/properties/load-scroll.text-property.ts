@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type LoadScroll = string
-
 export const loadScroll = {
   id: "01a0683a-620a-720b-9442-1f4e5f29ea33",
   pageTypeSlug: "text-property",
@@ -26,4 +24,5 @@ export const loadScroll = {
       statement: "The places a page can open at do not stand as pages.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type VisibleProperties = List<string>
 
 export const visibleProperties = {
   id: "01a0680d-4d00-700a-b249-6c8e4a3f410b",
@@ -18,4 +15,5 @@ export const visibleProperties = {
       statement: "A property is named by the key its declaration states.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

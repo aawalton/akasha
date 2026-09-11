@@ -1,8 +1,6 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
-import type { List } from "../../types/page-properties/page-property.page-type.ts"
 
 export type NarrowValue = string
-export type NarrowValues = List<NarrowValue>
 
 export const narrowValues = {
   id: "01a063ee-2a3b-74ff-8037-ee9c7cf9f335",
@@ -23,4 +21,5 @@ export const narrowValues = {
       statement: "A value is written as text whatever kind the key the value narrows has.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

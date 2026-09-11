@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type ChildRelation = string
-
 export const childRelation = {
   id: "01a0683a-620a-74d3-99e4-844f9991c615",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const childRelation = {
       statement: "A key named here that the gathered page type does not have gathers nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Pose = string
-
 export const pose = {
   id: "01a0540e-5114-7d4b-aa95-09eb8964df65",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const pose = {
   definition: "how a persona is posed and framed at a rung",
   maxLength: 300,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

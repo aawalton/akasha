@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type QuestionOffered = List<string>
 
 export const questionOffered = {
   id: "01a06823-89b2-7005-bff8-2e42db05c1e6",
@@ -26,4 +23,5 @@ export const questionOffered = {
       statement: "No offered answer says which answer Alan took.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

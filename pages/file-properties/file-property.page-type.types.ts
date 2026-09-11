@@ -1,4 +1,4 @@
-import type { FileName } from "akasha/pages/file-properties/properties/file-name.text-property.ts"
+import type { FileName } from "akasha/pages/file-properties/properties/file-name.text-property.types.ts"
 import type { Generated } from "akasha/pages/file-properties/properties/generated.boolean-property.types.ts"
 import type { HoldsBytes } from "akasha/pages/file-properties/properties/holds-bytes.boolean-property.types.ts"
 import type { RunsFileLength } from "akasha/pages/file-properties/properties/runs-file-length.boolean-property.types.ts"

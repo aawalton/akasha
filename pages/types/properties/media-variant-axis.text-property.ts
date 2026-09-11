@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type MediaVariantAxis = string
-
 export const mediaVariantAxis = {
   id: "01a062b8-8775-7005-bf65-1446f2feb5d3",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const mediaVariantAxis = {
       statement: "A page type naming no axis has one rendition of each page.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type FileName = string
-
 export const fileName = {
   id: "01a0585d-233d-7e12-8214-d5f3f602412f",
   pageTypeSlug: "text-property",
@@ -33,4 +31,5 @@ export const fileName = {
       statement: "A name the naming grammar could build is refused.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

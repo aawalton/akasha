@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type DefaultValue = string
-
 export const defaultValue = {
   id: "01a05a49-22f2-722f-8e3e-acd6d81b5c28",
   pageTypeSlug: "text-property",
@@ -43,4 +41,5 @@ export const defaultValue = {
       statement: "A default has the kind its property has.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

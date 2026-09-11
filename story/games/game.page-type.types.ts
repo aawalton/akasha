@@ -1,6 +1,6 @@
 import type { Collection } from "akasha/alan/collections/collection.page-type.types.ts"
 import type { ExternalId } from "akasha/alan/collections/externals/properties/external-id.text-property.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { Config } from "akasha/story/games/properties/config.file-property.ts"
 import type { ControlledEntityKind } from "akasha/story/games/properties/controlled-entity-kind.select-property.types.ts"
 import type { CoordinatorAgent } from "akasha/story/games/properties/coordinator-agent.text-property.types.ts"

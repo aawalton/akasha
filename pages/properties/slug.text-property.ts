@@ -1,7 +1,5 @@
 import type { TextProperty } from "../text-properties/text-property.page-type.types.ts"
 
-export type Slug = string
-
 export const slug = {
   id: "01a049b9-856c-7187-96e0-518b0a8c72cb",
   pageTypeSlug: "text-property",
@@ -18,4 +16,5 @@ export const slug = {
       statement: "A slug that cannot become a page's export name is no slug.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

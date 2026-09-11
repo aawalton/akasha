@@ -1,4 +1,4 @@
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { Abbreviation } from "akasha/temper/catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.types.ts"
 import type { ValidArmorWeights } from "akasha/temper/catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.types.ts"
 import type { ValidTraitIds } from "akasha/temper/catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.types.ts"

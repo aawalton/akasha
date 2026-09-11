@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type NarrowKey = string
-
 export const narrowKey = {
   id: "01a063ee-2a3b-7005-88c7-33c0811a55ea",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const narrowKey = {
       statement: "A key is spelled as the page with the key spells the key.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

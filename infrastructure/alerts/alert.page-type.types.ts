@@ -5,7 +5,7 @@ import type { AlertRoleSlug } from "akasha/infrastructure/alerts/properties/aler
 import type { AlertRunbook } from "akasha/infrastructure/alerts/properties/alert-runbook.file-property.ts"
 import type { AlertSummary } from "akasha/infrastructure/alerts/properties/alert-summary.text-property.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { Person } from "akasha/seat-system/seats/properties/person.relation-property.types.ts"
 
 export type Alert = Page & {

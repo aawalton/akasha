@@ -1,5 +1,5 @@
 import type { Filed } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
-import type { Id } from "../../properties/id.text-property.ts"
+import type { Id } from "../../properties/id.text-property.types.ts"
 
 const PAGE = "page"
 

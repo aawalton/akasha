@@ -3,7 +3,7 @@ import type { EmailAddress } from "akasha/personas/properties/email-address.emai
 import type { AnsweredBy } from "akasha/persons/people/properties/answered-by.relation-property.types.ts"
 import type { Bodyweight } from "akasha/persons/people/properties/bodyweight.number-property.types.ts"
 import type { Phone } from "akasha/persons/people/properties/phone.phone-number-property.types.ts"
-import type { SupabaseAuthUserId } from "akasha/persons/people/properties/supabase-auth-user-id.text-property.ts"
+import type { SupabaseAuthUserId } from "akasha/persons/people/properties/supabase-auth-user-id.text-property.types.ts"
 
 export type Person = Domain & {
   answeredBy: AnsweredBy

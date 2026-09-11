@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type QuestionAnswer = string
-
 export const questionAnswer = {
   id: "01a06823-89b2-7006-b80a-c59c41029c23",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const questionAnswer = {
       statement: "A question closed with nothing said has no answer.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

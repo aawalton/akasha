@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type DetailDisplay = string
-
 export const detailDisplay = {
   id: "01a0683a-620a-7446-ae1d-032103346b3a",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const detailDisplay = {
       statement: "A layout named here that no screen knows draws the plain layout.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,8 +1,8 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { List } from "../../types/page-properties/page-property.page-type.ts"
 import type { NarrowComparison } from "./narrow-comparison.select-property.ts"
-import type { NarrowKey } from "./narrow-key.text-property.ts"
-import type { NarrowValues } from "./narrow-values.text-property.ts"
+import type { NarrowKey } from "./narrow-key.text-property.types.ts"
+import type { NarrowValues } from "./narrow-values.text-property.types.ts"
 
 export type Narrow = {
   key: NarrowKey

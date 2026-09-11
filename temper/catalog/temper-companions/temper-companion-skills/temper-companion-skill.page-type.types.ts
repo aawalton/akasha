@@ -1,4 +1,4 @@
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { CastConditions } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/cast-conditions.page-property-entry.types.ts"
 import type { SkillEffects } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/skill-effects.page-property-entry.types.ts"
 import type { AbilityId } from "akasha/temper/catalog/temper-companions/temper-companion-things/properties/ability-id.number-property.types.ts"

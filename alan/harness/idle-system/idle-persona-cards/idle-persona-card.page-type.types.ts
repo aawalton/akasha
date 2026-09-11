@@ -12,7 +12,7 @@ import type { SpecializeLocked } from "akasha/alan/harness/idle-system/idle-pers
 import type { Stars } from "akasha/alan/harness/idle-system/idle-persona-cards/properties/stars.number-property.types.ts"
 import type { TrainCost } from "akasha/alan/harness/idle-system/idle-persona-cards/properties/train-cost.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type IdlePersonaCard = Page & {
   title: Title

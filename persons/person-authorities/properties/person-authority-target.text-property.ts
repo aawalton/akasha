@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PersonAuthorityTarget = string
-
 export const personAuthorityTarget = {
   id: "01a05430-c0f0-78db-bb0e-ea07c84713f0",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const personAuthorityTarget = {
         "A target closing with `-*` is every area whose slug opens with the text before the `-*`.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

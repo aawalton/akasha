@@ -1,7 +1,7 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { SequenceDirection } from "./sequence-direction.text-property.ts"
-import type { SequenceGroupBy } from "./sequence-group-by.text-property.ts"
-import type { SequenceOrderBy } from "./sequence-order-by.text-property.ts"
+import type { SequenceDirection } from "./sequence-direction.text-property.types.ts"
+import type { SequenceGroupBy } from "./sequence-group-by.text-property.types.ts"
+import type { SequenceOrderBy } from "./sequence-order-by.text-property.types.ts"
 
 export type Sequence = {
   groupBy: SequenceGroupBy

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PersonAccessTarget = string
-
 export const personAccessTarget = {
   id: "01a05430-c0ee-7f62-a8b7-74d97d845e28",
   pageTypeSlug: "text-property",
@@ -18,4 +16,5 @@ export const personAccessTarget = {
         "A target of `all` is every target of that kind and is the only pattern an access takes.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

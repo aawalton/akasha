@@ -4,8 +4,8 @@ import type { LastReviewed } from "akasha/alan/chess/progresses/properties/last-
 import type { MasteryLevel } from "akasha/alan/chess/progresses/properties/mastery-level.select-property.types.ts"
 import type { MotifId } from "akasha/alan/chess/progresses/properties/motif-id.text-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { Category } from "akasha/temper/things/properties/category.text-property.types.ts"
 import type { Icon } from "akasha/temper/things/properties/icon.text-property.types.ts"
 

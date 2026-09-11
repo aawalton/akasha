@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
 
-export type SequenceOrderBy = string
-
 export const sequenceOrderBy = {
   id: "01a062de-2001-7002-8dd0-f44937908528",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const sequenceOrderBy = {
       statement: "A key named here that the page type has no property for sorts nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

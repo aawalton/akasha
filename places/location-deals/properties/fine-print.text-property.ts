@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type FinePrint = string
-
 export const finePrint = {
   id: "01a06585-5fc5-7feb-a38e-a2e80bb553df",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const finePrint = {
   definition: "what the offer does not cover",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

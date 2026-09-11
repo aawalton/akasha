@@ -1,4 +1,4 @@
-import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { BaseName } from "akasha/temper/catalog/temper-skill/properties/base-name.text-property.types.ts"
 import type { EsoSkillId } from "akasha/temper/catalog/temper-skill/properties/eso-skill-id.number-property.types.ts"
 import type { IsMorph } from "akasha/temper/catalog/temper-skill/properties/is-morph.boolean-property.types.ts"

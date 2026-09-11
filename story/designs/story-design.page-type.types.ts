@@ -1,5 +1,5 @@
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { ArcStructure } from "akasha/story/designs/properties/arc-structure.file-property.ts"
 import type { BookTitle } from "akasha/story/designs/properties/book-title.text-property.types.ts"
 import type { ChapterNumbering } from "akasha/story/designs/properties/chapter-numbering.text-property.types.ts"

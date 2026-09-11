@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../../text-properties/text-property.page-type.types.ts"
 
-export type PropertySlug = string
-
 export const propertySlug = {
   id: "01a0539b-2a0f-7187-ba5a-aa8bff23fe15",
   pageTypeSlug: "text-property",
@@ -42,4 +40,5 @@ export const propertySlug = {
       statement: "A qualifier only the slug's wider scope needed is not carried into the key.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

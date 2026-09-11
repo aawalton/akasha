@@ -21,7 +21,7 @@ import type { TimeControl } from "akasha/alan/chess/games/properties/time-contro
 import type { ExternalId } from "akasha/alan/collections/externals/properties/external-id.text-property.types.ts"
 import type { PlayedAt } from "akasha/alan/track/daily/days/properties/played-at.instant-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type ChessGame = Page & {
   title: Title

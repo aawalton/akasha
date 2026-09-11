@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SmsConsentTextVersion = string
-
 export const smsConsentTextVersion = {
   id: "01a06861-e7cd-7520-8e15-5ac92bd8de01",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const smsConsentTextVersion = {
   definition: "which wording of the agreement the person was shown",
   maxLength: 50,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

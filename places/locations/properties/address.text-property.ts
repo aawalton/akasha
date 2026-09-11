@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Address = string
-
 export const address = {
   id: "01a06583-acfb-7d78-a310-d5ad4ebf8a43",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const address = {
   definition: "the street address of the place",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

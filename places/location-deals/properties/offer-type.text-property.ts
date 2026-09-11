@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type OfferType = string
-
 export const offerType = {
   id: "01a06585-5fc5-7b2f-b891-ef345969b90c",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const offerType = {
   definition: "the shape of what the offer gives",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

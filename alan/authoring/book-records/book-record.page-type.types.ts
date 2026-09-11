@@ -4,7 +4,7 @@ import type { RecordBrief } from "akasha/alan/authoring/book-records/properties/
 import type { Writing } from "akasha/alan/authoring/book-records/properties/writing.file-property.ts"
 import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type BookRecord = Page & {
   title: Title

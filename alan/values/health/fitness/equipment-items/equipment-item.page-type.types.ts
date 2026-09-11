@@ -5,7 +5,7 @@ import type { EquipmentLoads } from "akasha/alan/values/health/fitness/equipment
 import type { EquipmentNotes } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-notes.text-property.types.ts"
 import type { EquipmentSortOrder } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-sort-order.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type EquipmentItem = Page & {
   title: Title

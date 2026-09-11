@@ -5,7 +5,7 @@ import type { EyeRead } from "akasha/alan/style/appearance-experiments/propertie
 import type { FeltRead } from "akasha/alan/style/appearance-experiments/properties/felt-read.file-property.ts"
 import type { WhatTried } from "akasha/alan/style/appearance-experiments/properties/what-tried.file-property.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type AppearanceExperiment = Page & {
   title: Title

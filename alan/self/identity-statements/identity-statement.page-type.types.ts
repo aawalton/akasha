@@ -10,7 +10,7 @@ import type { ReplacedByStatements } from "akasha/alan/self/identity-statements/
 import type { ReplacesStatements } from "akasha/alan/self/identity-statements/properties/replaces-statements.relation-property.types.ts"
 import type { SubStatements } from "akasha/alan/self/identity-statements/properties/sub-statements.relation-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { Icon } from "akasha/temper/things/properties/icon.text-property.types.ts"
 
 export type IdentityStatement = Page & {

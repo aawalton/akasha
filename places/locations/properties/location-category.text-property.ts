@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LocationCategory = string
-
 export const locationCategory = {
   id: "01a06583-acfb-7a3d-91c8-953aeac38361",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const locationCategory = {
   definition: "what kind of place it is",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

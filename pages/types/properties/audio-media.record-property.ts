@@ -1,7 +1,7 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { MediaRenderer } from "./media-renderer.text-property.ts"
-import type { MediaSourcePropertyId } from "./media-source-property-id.text-property.ts"
-import type { MediaVariantAxis } from "./media-variant-axis.text-property.ts"
+import type { MediaRenderer } from "./media-renderer.text-property.types.ts"
+import type { MediaSourcePropertyId } from "./media-source-property-id.text-property.types.ts"
+import type { MediaVariantAxis } from "./media-variant-axis.text-property.types.ts"
 
 export type AudioMedia = {
   sourcePropertyId: MediaSourcePropertyId
