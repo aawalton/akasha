@@ -8,11 +8,6 @@ export const aineResourceManagement = {
   persona: "aine",
   intents: [
     {
-      statement: "What each kind of work spent is recorded beside the page of what ran.",
-      workingMemory:
-        "Processor time and memory both. check-cost already does this for four of the eight: a check and an audit through checking, a command through calling, a change through change-running and apply-running. Each writes one jsonl line beside the page of what ran, uncommitted and rolling at 8 MiB, carrying cpuSeconds, childCpuSeconds, wallMs, peakBytes, peakAddedBytes and peakMeasured. A guard, a test, a deploy and a bash call record nothing, so half the ceilings would be guesses.",
-    },
-    {
       statement:
         "Every agent and every service on the workstation runs under a stated share of the processor.",
       workingMemory:
@@ -31,7 +26,7 @@ export const aineResourceManagement = {
     {
       statement: "Every kind of work an agent starts runs under a ceiling of its own.",
       workingMemory:
-        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Commands, checks, changes and the testing system are already domains a ceiling can be stated on. No page holds an audit, a deploy or a guard, and a bash call an agent writes has no page at all, which makes it the hard one.",
+        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Every kind now records what it spent beside a page, so every kind has a page a ceiling could be stated on. A bash call already runs in a control group of its own, which is where a ceiling on one would be enforced.",
     },
     {
       statement:
