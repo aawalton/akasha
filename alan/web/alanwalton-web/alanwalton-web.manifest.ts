@@ -8,4 +8,10 @@ export const alanwaltonWeb = {
   definition: "the deployment and service running Alan's command center",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the alanwalton-s3-creds secret.",
+    },
+  ],
 } as const satisfies Manifest
