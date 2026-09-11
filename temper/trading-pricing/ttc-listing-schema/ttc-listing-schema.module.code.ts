@@ -1,5 +1,5 @@
+import type { TTCListingEntry } from "akasha/temper/trading-pricing/ttc-listing-types/ttc-listing-types.module.code.ts"
 import { z } from "zod"
-import type { TTCListingEntry } from "../ttc-listing-types/ttc-listing-types.module.code.ts"
 
 type ValidatedListingEntry = Pick<
   TTCListingEntry,

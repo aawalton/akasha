@@ -1,4 +1,4 @@
-import type { TTCPriceEntry } from "../pricing-types/pricing-types.module.code.ts"
+import type { TTCPriceEntry } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 
 export function isPriceEntry(value: unknown): value is TTCPriceEntry {
   return (

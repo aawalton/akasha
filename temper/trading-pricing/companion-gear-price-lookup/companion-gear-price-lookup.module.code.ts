@@ -1,10 +1,13 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type {
   CompanionEquipmentQualityId,
   CompanionTraitId,
-} from "../companion-gear-ids/companion-gear-ids.module.code.ts"
-import { isPriceEntry } from "../is-price-entry/is-price-entry.module.code.ts"
-import type { PricingData, TTCPriceEntry } from "../pricing-types/pricing-types.module.code.ts"
+} from "akasha/temper/trading-pricing/companion-gear-ids/companion-gear-ids.module.code.ts"
+import { isPriceEntry } from "akasha/temper/trading-pricing/is-price-entry/is-price-entry.module.code.ts"
+import type {
+  PricingData,
+  TTCPriceEntry,
+} from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 const ARMOR_TTC_ITEMS: Record<string, string> = {
   "head:light": "23761",

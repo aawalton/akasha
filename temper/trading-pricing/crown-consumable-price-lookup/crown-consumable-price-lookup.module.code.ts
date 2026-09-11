@@ -1,5 +1,5 @@
-import { isPriceEntry } from "../is-price-entry/is-price-entry.module.code.ts"
-import type { PricingData } from "../pricing-types/pricing-types.module.code.ts"
+import { isPriceEntry } from "akasha/temper/trading-pricing/is-price-entry/is-price-entry.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 
 interface CrownEquivalentItem {
   ttcItemId: string
