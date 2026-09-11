@@ -28,6 +28,10 @@ const REDIRECTED = "a redirect"
 
 const ONTO_THE_LAST = new Set(["cp", "mv", "install", "ln"])
 
+const LINKING = "ln"
+
+const TARGET_AND_LINK = 2
+
 const ONTO_EVERY_ONE = new Set(["tee", "truncate", "touch"])
 
 const TAKING_AWAY = new Set(["rm", "rmdir"])
@@ -54,6 +58,12 @@ const READING_A_PROGRAM = new Set([
 ])
 
 const INTO = new Set(["-t", "--target-directory"])
+
+const NOT_FOLLOWING = "--no-dereference"
+
+const NOT_FOLLOWING_FLAG = "n"
+
+const CARRYING_A_VALUE = new Set(["S", "t"])
 
 const IN_PLACE = new Set(["sed", "perl", "ruby", "awk", "gawk", "mawk"])
 
@@ -93,6 +103,7 @@ function parseHeredocEnd(one: string): string | null {
 export type Landing = {
   readonly at: string
   readonly how: string
+  readonly keepingTheLink?: true
 }
 
 function intoOf(words: readonly string[]): string | null {
@@ -135,6 +146,22 @@ export function editsInPlace(words: readonly string[]): boolean {
   return false
 }
 
+function keepsTheLink(words: readonly string[]): boolean {
+  for (let at = 1; at < words.length; at += 1) {
+    const word = words[at]
+    if (word === undefined || !word.startsWith("-")) continue
+    if (word.startsWith("--")) {
+      if (word === NOT_FOLLOWING) return true
+      continue
+    }
+    for (const one of word.slice(1)) {
+      if (CARRYING_A_VALUE.has(one)) break
+      if (one === NOT_FOLLOWING_FLAG) return true
+    }
+  }
+  return false
+}
+
 export function redirectsIn(words: readonly string[]): readonly string[] {
   const found: string[] = []
   for (let at = 0; at < words.length; at += 1) {
@@ -149,6 +176,11 @@ export function redirectsIn(words: readonly string[]): readonly string[] {
   return found
 }
 
+function landingOn(at: string, how: string, kept: boolean): Landing {
+  if (kept) return { at, how, keepingTheLink: true }
+  return { at, how }
+}
+
 export function landingsIn(command: string): readonly Landing[] {
   const found: Landing[] = []
   for (const segment of segmentsOf(dequoted(pastHeredocs(command)))) {
@@ -160,7 +192,14 @@ export function landingsIn(command: string): readonly Landing[] {
         const into = intoOf(words)
         const operands = operandsOf(words)
         const last = into ?? (operands.length > 1 ? operands[operands.length - 1] : undefined)
-        if (last !== undefined && last !== "") found.push({ at: last, how: tool })
+        if (last !== undefined && last !== "") {
+          const kept =
+            tool === LINKING &&
+            into === null &&
+            operands.length === TARGET_AND_LINK &&
+            keepsTheLink(words)
+          found.push(landingOn(last, tool, kept))
+        }
       }
       if (
         ONTO_EVERY_ONE.has(tool) ||
@@ -327,9 +366,13 @@ function aLink(at: string): boolean {
   return lstatSync(at, { throwIfNoEntry: false })?.isSymbolicLink() ?? false
 }
 
+function judgedAtTheLink(landing: Landing): boolean {
+  return TAKING_AWAY.has(landing.how) || landing.keepingTheLink === true
+}
+
 function landedAt(from: string, landing: Landing): string {
   const spelled = resolve(from, landing.at)
-  if (TAKING_AWAY.has(landing.how) && namesTheLink(landing.at)) {
+  if (judgedAtTheLink(landing) && namesTheLink(landing.at)) {
     const atTheLink = join(settled(dirname(spelled)), basename(spelled))
     if (aLink(atTheLink)) return atTheLink
   }

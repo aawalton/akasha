@@ -76,6 +76,15 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A link made over a symlink itself and told not to follow it is judged where the link is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link made over a symlink without that flag is judged where the link points.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path naming a symlink itself ends in the symlink's own name.",
     },
     {

@@ -368,3 +368,12 @@ test("the index is guarded where the repository ignores nothing", () => {
 test("a removal naming a link into the index is judged where the link points", () => {
   expect(saidThere("rm index-link")).toContain(REBUILD)
 })
+
+test("a link over a link is judged where the link is only where it says so", () => {
+  expect(saidThere("ln -sfn .. node_modules/akasha")).toBeNull()
+  expect(saidThere("ln --no-dereference -sf /var/tmp/x node_modules/akasha")).toBeNull()
+  expect(saidThere("ln -sf /var/tmp/x node_modules/akasha")).toContain(INSIDE)
+  expect(saidThere("cp -n /var/tmp/x node_modules/akasha")).toContain(INSIDE)
+  expect(saidThere("ln -sfn /var/tmp/x graph-link")).toContain(INSIDE)
+  expect(saidThere("ln -sfn /var/tmp/x graph/held-link")).toContain(INSIDE)
+})

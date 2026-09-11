@@ -13,6 +13,7 @@ function worldAt(): string {
   mkdirSync(join(root, "node_modules", "@akasha"), { recursive: true })
   writeFileSync(join(root, ".gitignore"), "node_modules/\n")
   symlinkSync("../../graph", join(root, "node_modules", "@akasha", "graph-system"))
+  symlinkSync("..", join(root, "node_modules", "akasha"))
   symlinkSync("graph", join(root, "graph-link"))
   symlinkSync(indexNamed(), join(root, "index-link"))
   ran(["git", "init", "-q", root])
