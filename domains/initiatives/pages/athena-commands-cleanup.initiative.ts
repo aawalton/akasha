@@ -97,6 +97,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`taking` is a display list and nothing else: `helpOf` at `calling.module.code.ts:237-239` is its one reader. Once an argument is a page, help is drawn from the arguments a command names, and this goes with the two text properties it holds — `record-property/taking`, `text-property/said`, `text-property/takes`, all named at `command.page-type.ts:14,17,18`.\n",
     },
+    {
+      statement: "A command's definition says what that command does.",
+      workingMemory:
+        "172 of 227 command pages open `the command `, so 55 depart: `google-calendar-events-get.command.ts:8` opens `the act answering`, `change-list.command.ts:8` is a bare noun phrase. `page-tree.command.ts:8` describes what the command is given rather than what it does, and its help says it prints `types`, `properties` and `propertyTypes`, which is no tree. That one line is the whole right column of every listing, drawn by `toldOf` at `calling.module.code.ts:207-219`.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
