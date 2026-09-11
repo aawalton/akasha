@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { extractMemberGlobalBlocks } from "akasha/temper/saved-vars-migration/saved-vars-blocks/saved-vars-blocks.module.code.ts"
 import { z } from "zod"
-import { extractMemberGlobalBlocks } from "../saved-vars-blocks/saved-vars-blocks.module.code.ts"
 
 const MARKER_DIRNAME = ".temper-sv-migration"
 
