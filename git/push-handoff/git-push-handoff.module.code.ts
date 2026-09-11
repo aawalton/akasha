@@ -13,6 +13,7 @@ import { dirname, join } from "node:path"
 import { HANDOFF } from "akasha/files/git-place/git-place.module.code.ts"
 import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
+import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 import { remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -27,20 +28,13 @@ export interface PushState {
   readonly remote: string | null
 }
 
-function commonDir(root: string): string | null {
-  const found = git(root, ["rev-parse", "--git-common-dir"])
-  if (found.code !== 0) return null
-  const dir = found.stdout
-  return dir.startsWith("/") ? dir : join(root, dir)
-}
-
 function branchOf(root: string): string {
   const head = git(root, ["symbolic-ref", "--short", "HEAD"])
   return head.code === 0 && head.stdout !== "" ? head.stdout : "HEAD"
 }
 
 function pathFor(root: string, suffix: string): string | null {
-  const dir = commonDir(root)
+  const dir = gitDirIn(root)
   if (dir === null) return null
   return join(dir, STATE_DIR, `${branchOf(root)}.${suffix}`)
 }
