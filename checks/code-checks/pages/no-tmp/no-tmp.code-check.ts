@@ -49,11 +49,11 @@ export const noTmp = {
       statement: "A page type's claim about its pages holds for the files beside those pages.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A reach for /tmp through a variable is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A reach for /tmp through an environment read is not seen.",
     },
     {
@@ -61,7 +61,7 @@ export const noTmp = {
       statement: "A reach for /tmp through a re-export is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A reach for /tmp outside TypeScript is not seen.",
     },
   ],
