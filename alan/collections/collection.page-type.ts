@@ -47,6 +47,7 @@ export const collection = {
     "domain/royal-road",
     "page-type/recipe",
     "page-type/recipe-collection",
+    "domain/places",
   ],
   extends: ["page-type/page"],
   properties: [
