@@ -8,6 +8,7 @@ export const fileProperty = {
   definition: "what a seat must read for the properties the page states",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnRead: true,
   runsOnWrite: true,
   transitive: false,

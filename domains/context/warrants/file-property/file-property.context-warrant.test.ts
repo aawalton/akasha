@@ -19,6 +19,7 @@ import {
   fileProperty,
   PROPERTY,
 } from "akasha/domains/context/warrants/file-property/file-property.context-warrant.code.ts"
+import { SLUG_PAGE } from "akasha/domains/context/warrants/file-property/file-property.context-warrant.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -203,7 +204,7 @@ test("a page that will not load warrants nothing", () => {
 test("a page defining a property does not warrant itself for it", () => {
   const root = scratch.rootFor("akasha-file-property-")
   pageType(root, "text-property", [{ pageTypeSlug: "text-property", slug: "slug" }])
-  const path = "akasha/thing/properties/slug.text-property.ts"
+  const path = SLUG_PAGE
   const id = mintedId("slug")
   writing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
   listedFiled(root, "text-property", "slug", [{ path, id }])
