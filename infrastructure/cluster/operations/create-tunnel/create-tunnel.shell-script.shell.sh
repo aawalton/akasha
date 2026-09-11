@@ -30,8 +30,8 @@ if [[ "${2:-}" == "--force" ]]; then
 fi
 
 CLOUDFLARED_DIR="${CLOUDFLARED_DIR:-${HOME}/.cloudflared}"
-CREDS_PAGE="service-system/secrets/pages/cloudflared-creds-credentials-json.secret.ts"
-CREDS_HELD="${AKASHA_ROOT}/service-system/secrets/pages/cloudflared-creds-credentials-json.secret.sops.yaml"
+CREDS_PAGE="services/secrets/pages/cloudflared-creds-credentials-json.secret.ts"
+CREDS_HELD="${AKASHA_ROOT}/services/secrets/pages/cloudflared-creds-credentials-json.secret.sops.yaml"
 TUNNEL_CONFIG="${AKASHA_ROOT}/infrastructure/cluster/services/pages/cloudflared/cloudflared.cluster-service.config.yaml"
 
 if ! command -v cloudflared &>/dev/null; then
