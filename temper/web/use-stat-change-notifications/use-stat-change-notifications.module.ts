@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useStatChangeNotifications = {
   id: "01a0642c-5b9a-7dbf-bf1c-84897c7792ec",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-stat-change-notifications",
   definition: "the hook telling of a stat change",
   code: "tsx",

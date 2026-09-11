@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherUnit = {
   id: "01a06039-9c8a-7a1f-b8b9-82b0ca81bb70",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-unit",
   definition: "the systemd unit the temper watcher runs under, reached by name",
   code: "ts",

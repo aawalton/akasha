@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherNetWorthLanding = {
   id: "01a06381-35cf-710a-92b2-a77b0e15983e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-net-worth-landing",
   definition: "a net worth reading landed as one jsonl line on the UTC hour it was taken in",
   code: "ts",

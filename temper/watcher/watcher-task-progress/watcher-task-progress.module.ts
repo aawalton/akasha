@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherTaskProgress = {
   id: "01a08255-32ee-74c3-ad48-3a0fad80e432",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-task-progress",
   definition: "what each character has done of a task, recomputed from completion",
   code: "ts",

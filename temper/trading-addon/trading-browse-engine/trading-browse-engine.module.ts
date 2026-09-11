@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const tradingBrowseEngine = {
   id: "01a06160-2a59-7c89-b1b4-4a07fc4e70d1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "trading-browse-engine",
   definition: "running a guild store search and holding the results a player is browsing",
   code: "ts",

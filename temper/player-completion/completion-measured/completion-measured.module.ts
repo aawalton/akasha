@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionMeasured = {
   id: "01a06108-2ff2-74de-bd0e-f2cc1d348cce",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-measured",
   definition: "whether a character, an account or a companion has been read at all",
   code: "ts",

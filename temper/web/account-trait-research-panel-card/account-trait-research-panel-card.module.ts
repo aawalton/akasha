@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const accountTraitResearchPanelCard = {
   id: "01a06421-f74b-7a90-9c03-de25b3a2000b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "account-trait-research-panel-card",
   definition: "the crafting traits any character on the account has researched",
   code: "tsx",

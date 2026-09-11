@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const questsEntry = {
   id: "01a0635f-391c-75b0-b95a-d199d158f50a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "quests-entry",
   definition: "the order the addon's parts are set going in once the game has loaded it",
   code: "ts",

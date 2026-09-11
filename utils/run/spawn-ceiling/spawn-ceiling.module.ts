@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const spawnCeiling = {
   id: "01a068d4-d2aa-7e7a-b2d7-205870b2e2b4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spawn-ceiling",
   definition: "waiting on a child process no longer than a ceiling",
   code: "ts",

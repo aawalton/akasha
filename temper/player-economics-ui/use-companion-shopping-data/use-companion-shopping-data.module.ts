@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useCompanionShoppingData = {
   id: "01a063a1-8cc1-7010-8b74-d5f6fa0b08d5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-companion-shopping-data",
   definition: "the companion gear needs and prices one player's shopping reads",
   code: "ts",

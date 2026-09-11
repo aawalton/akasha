@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libcMapping = {
   id: "01a0829f-d499-7794-b738-28a44c010e2e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "libc-mapping",
   definition: "the C library this process has mapped, named by the path it was mapped from",
   code: "ts",

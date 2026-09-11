@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionGearIds = {
   id: "01a060bf-747d-7dee-bf58-1559bc114b90",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-gear-ids",
   definition: "the trait and the quality a piece of companion equipment is named by",
   code: "ts",

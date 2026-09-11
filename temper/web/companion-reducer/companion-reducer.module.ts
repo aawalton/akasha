@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionReducer = {
   id: "01a06421-2528-75c2-a9a0-f611559663f2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-reducer",
   definition: "how a companion's state answers each action",
   code: "ts",

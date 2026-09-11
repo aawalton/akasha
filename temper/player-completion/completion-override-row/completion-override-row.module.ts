@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionOverrideRow = {
   id: "01a06108-2ff4-791d-9194-955da44a9b86",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-override-row",
   definition: "reading one stored override off an untyped row",
   code: "ts",

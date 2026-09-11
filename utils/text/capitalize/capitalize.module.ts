@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const capitalize = {
   id: "01a05c94-2bfd-7d83-be6a-3d30500f9278",
   pageTypeSlug: "module",
+  type: "module",
   slug: "capitalize",
   definition: "text with its first character in upper case",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const versionActions = {
   id: "01a06589-8dc5-7000-8767-4f9e56617cf9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "version-actions",
   definition: "the saved versions of one character build, fetched from a browser",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherLogLine = {
   id: "01a06039-9c89-7ba8-aee4-a339fadf4824",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-log-line",
   definition: "one line of a temper watcher log read as its time, its level and its message",
   code: "ts",

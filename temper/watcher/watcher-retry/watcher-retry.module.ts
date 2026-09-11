@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherRetry = {
   id: "01a0635b-79f7-7535-a528-c30b24b36eed",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-retry",
   definition: "how a saved-variables file the game still holds open is read or written anyway",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skyshardsData = {
   id: "01a061a8-9c65-7706-be69-f1c06fb7d9c0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skyshards-data",
   definition: "every zone the add-on knows a skyshard in, gathered from three runs in order",
   code: "ts",

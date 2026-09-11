@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skyshardsPcState = {
   id: "01a061a8-9c6c-7297-acb8-d2ffd0ff311a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skyshards-pc-state",
   definition:
     "what the computer half keeps for the session: the player's choices and the outdoor shade",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const parseTimestamp = {
   id: "01a08dff-e11b-7ae5-995b-d7137e386294",
   pageTypeSlug: "module",
+  type: "module",
   slug: "parse-timestamp",
   definition: "the moment in milliseconds a value holds, however that value spells one",
   code: "ts",

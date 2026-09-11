@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minedItemRows = {
   id: "01a0640f-8510-7325-9208-0be4870d37e6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mined-item-rows",
   definition: "a mined item read out of a stored row and written back into one",
   code: "ts",

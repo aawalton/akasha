@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const worktreePaths = {
   id: "01a05c67-00ae-7c2a-ab17-097fed36ffd6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "worktree-paths",
   definition: "the path a project's numbered worktree is at, and the number read back off it",
   code: "ts",

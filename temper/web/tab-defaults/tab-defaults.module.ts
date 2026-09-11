@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const tabDefaults = {
   id: "01a0640f-850f-70cf-af93-e19e03bde002",
   pageTypeSlug: "module",
+  type: "module",
   slug: "tab-defaults",
   definition: "the tab a path opens on where the path names none",
   code: "ts",

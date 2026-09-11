@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionItemPicker = {
   id: "01a0640c-1e9b-7076-81b6-4ed139595064",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-item-picker",
   definition: "the levels a completion card offers to pick through, and the paths they enumerate",
   code: "ts",

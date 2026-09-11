@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const isPriceEntry = {
   id: "01a0609b-e59d-7da9-bc7e-7689f71e4f0f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "is-price-entry",
   definition: "whether a branch of a price dump is a price rather than a further branch",
   code: "ts",

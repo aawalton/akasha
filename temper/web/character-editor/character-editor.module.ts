@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterEditor = {
   id: "01a06589-8d58-7000-a46b-4c6434b14ef9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-editor",
   definition: "the editor a character build is changed in",
   code: "tsx",

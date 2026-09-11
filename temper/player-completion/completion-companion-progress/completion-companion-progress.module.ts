@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCompanionProgress = {
   id: "01a06121-f0d1-7103-ba96-adbf20efcb3e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-companion-progress",
   definition: "each companion of a player counted for level, rapport, quests and skill lines",
   code: "ts",

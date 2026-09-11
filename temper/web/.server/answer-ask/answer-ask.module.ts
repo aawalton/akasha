@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const answerAsk = {
   id: "01a0640f-8510-7705-b1ef-543766ffde5e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "answer-ask",
   definition: "a question asked in a browser carried to the page store and answered back",
   code: "ts",

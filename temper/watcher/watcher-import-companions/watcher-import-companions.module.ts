@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherImportCompanions = {
   id: "01a06381-35cf-7e59-9fb8-159808653255",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-import-companions",
   definition: "the companion build hashes an addon saved, read back out and named, one page each",
   code: "ts",

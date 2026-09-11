@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryTypePanelCard = {
   id: "01a0636c-5d9b-7777-87e1-6841b082002f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-type-panel-card",
   definition: "the card drawing one kind of item's holdings",
   code: "tsx",

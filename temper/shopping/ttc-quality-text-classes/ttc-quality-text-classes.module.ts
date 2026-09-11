@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ttcQualityTextClasses = {
   id: "01a060cf-b0b1-726e-9c87-8a0d3121e120",
   pageTypeSlug: "module",
+  type: "module",
   slug: "ttc-quality-text-classes",
   definition: "the text class a Tamriel Trade Centre item quality is shown in",
   code: "ts",

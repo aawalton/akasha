@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionGearShoppingBridge = {
   id: "01a060cf-b0b2-743e-9d82-ea94a110b9cb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-gear-shopping-bridge",
   definition: "a piece of companion gear a build wants turned into something to shop for",
   code: "ts",

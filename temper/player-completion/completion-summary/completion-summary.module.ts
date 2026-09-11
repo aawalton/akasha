@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionSummary = {
   id: "01a063a1-6ec2-7027-8d27-e1641844f7dc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-summary",
   definition:
     "the numbers one character's summary card shows, folded from that character's progress",

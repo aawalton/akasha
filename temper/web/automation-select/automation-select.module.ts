@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const automationSelect = {
   id: "01a06432-b190-774c-ab52-27309a7ca3fa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "automation-select",
   definition: "a control choosing on, off or whatever the global setting says",
   code: "tsx",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const buildLookup = {
   id: "01a06053-3636-7bdb-8f78-5302cab5662b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "build-lookup",
   definition: "the place each choice sits in a list of choices, keyed by the choice",
   code: "ts",

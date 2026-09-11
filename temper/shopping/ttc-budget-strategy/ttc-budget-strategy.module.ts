@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ttcBudgetStrategy = {
   id: "01a060cf-b0af-7945-b272-f1393abf11ca",
   pageTypeSlug: "module",
+  type: "module",
   slug: "ttc-budget-strategy",
   definition: "how far above the cheapest listing a buyer should be willing to go",
   code: "ts",

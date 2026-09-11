@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherRunning = {
   id: "01a06039-9c8a-7d50-ae3b-e4e658fa6344",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-running",
   definition: "the watcher worker started and held in the foreground until it ends",
   code: "ts",

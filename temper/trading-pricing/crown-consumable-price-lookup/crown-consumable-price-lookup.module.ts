@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const crownConsumablePriceLookup = {
   id: "01a0609b-e59f-7038-8111-df7fe90b47d8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "crown-consumable-price-lookup",
   definition: "what a crown store consumable would cost bought from a guild store instead",
   code: "ts",

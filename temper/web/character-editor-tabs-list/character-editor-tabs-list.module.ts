@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterEditorTabsList = {
   id: "01a0642c-5b87-7905-916b-30572f40b7dd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-editor-tabs-list",
   definition: "the tabs the character editor lists",
   code: "tsx",

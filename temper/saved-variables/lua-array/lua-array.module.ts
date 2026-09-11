@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const luaArray = {
   id: "01a06053-3636-7157-ade2-a72c0d19b41c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lua-array",
   definition: "a schema reading a Lua list the file may have written keyed or unkeyed",
   code: "ts",

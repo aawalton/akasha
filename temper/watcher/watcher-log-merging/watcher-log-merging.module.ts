@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherLogMerging = {
   id: "01a06039-9c89-7e8b-b406-28150d37543f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-log-merging",
   definition: "the worker's log lines and the tray's read together, newest first",
   code: "ts",

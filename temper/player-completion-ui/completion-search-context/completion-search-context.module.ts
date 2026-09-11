@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionSearchContext = {
   id: "01a06267-372c-7001-93ec-cce8347cab91",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-search-context",
   definition: "the words a reader is narrowing a completion panel down to",
   code: "tsx",

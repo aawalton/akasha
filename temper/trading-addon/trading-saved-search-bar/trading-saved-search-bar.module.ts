@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const tradingSavedSearchBar = {
   id: "01a06160-2a5c-7023-b9e8-db3415a32e0a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "trading-saved-search-bar",
   definition: "the bar a player picks a named search from",
   code: "ts",

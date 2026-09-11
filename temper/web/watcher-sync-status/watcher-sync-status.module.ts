@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherSyncStatus = {
   id: "01a0640f-8510-7f94-b946-33ea0f305e1f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-sync-status",
   definition: "how a player's watcher link compares with the data that link has carried",
   code: "ts",

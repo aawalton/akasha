@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const questsChatterNames = {
   id: "01a0635f-391c-7d96-b9fc-59c4612f34d7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "quests-chatter-names",
   definition: "the name behind a dialogue option code, looked up for whoever reads a trace",
   code: "ts",

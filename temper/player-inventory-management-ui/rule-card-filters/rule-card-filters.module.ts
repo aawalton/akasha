@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ruleCardFilters = {
   id: "01a0636c-5da1-7476-ac70-ef362f630058",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-card-filters",
   definition: "every filter a rule narrows its items by",
   code: "tsx",

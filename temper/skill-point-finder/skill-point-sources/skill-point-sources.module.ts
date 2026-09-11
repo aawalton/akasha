@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillPointSources = {
   id: "01a060ec-5851-77ac-a8f1-6163b058a0b4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-point-sources",
   definition: "every place in The Elder Scrolls Online hands a character a skill point",
   code: "ts",

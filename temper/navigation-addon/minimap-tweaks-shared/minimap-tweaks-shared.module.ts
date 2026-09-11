@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minimapTweaksShared = {
   id: "01a06269-2998-7791-be3e-e610bd75cacc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "minimap-tweaks-shared",
   definition: "what the world-map tweaks share",
   code: "ts",

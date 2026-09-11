@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const pidSignal = {
   id: "01a05c4f-6f2e-7d2e-bf84-237cf8284bd3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "pid-signal",
   definition: "whether a process id still answers, read by signalling it with nothing",
   code: "ts",

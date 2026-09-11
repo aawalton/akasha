@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillPointFinderHelpers = {
   id: "01a060ec-583e-7c3f-9e53-e2aa35187b78",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-point-finder-helpers",
   definition: "whether the game reports a quest as completed",
   code: "ts",

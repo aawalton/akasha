@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionMergeForward = {
   id: "01a06108-2ff2-712b-8e7f-f0ad0e33cc0d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-merge-forward",
   definition: "folding a fresh reading of a player's progress into what was already counted",
   code: "ts",

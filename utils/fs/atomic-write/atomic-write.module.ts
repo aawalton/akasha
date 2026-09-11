@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const atomicWrite = {
   id: "01a05c4c-9441-7a1c-a7fc-dc1ab3914181",
   pageTypeSlug: "module",
+  type: "module",
   slug: "atomic-write",
   definition: "a body put at a path with no reader ever seeing the path half written",
   code: "ts",

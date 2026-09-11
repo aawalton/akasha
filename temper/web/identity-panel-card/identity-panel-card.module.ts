@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const identityPanelCard = {
   id: "01a0642c-5b7d-7a4d-9299-ce0bc5a675d3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "identity-panel-card",
   definition: "a panel card with a character's identity",
   code: "tsx",

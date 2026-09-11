@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const companionManagementPanelCard = {
   id: "01a06589-8d9b-7000-b064-ee892502da91",
   pageTypeSlug: "module",
+  type: "module",
   slug: "companion-management-panel-card",
   definition: "the card for keeping and removing a companion",
   code: "tsx",

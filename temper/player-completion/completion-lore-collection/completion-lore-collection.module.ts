@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionLoreCollection = {
   id: "01a06108-2ff0-7e1d-a87a-92a78e75108a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-lore-collection",
   definition: "the first lore collection a character has yet to read out",
   code: "ts",

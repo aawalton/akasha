@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const setSelectDialog = {
   id: "01a0642d-9a17-737e-aba1-6edefa44c29f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "set-select-dialog",
   definition: "the dialog a gear set is chosen in, searched and filtered by where it drops",
   code: "tsx",

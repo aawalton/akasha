@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const usePlayer = {
   id: "01a06354-4b4b-79cd-a3ce-5867c52ff199",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-player",
   definition: "the signed-in player's row, read and written",
   code: "ts",

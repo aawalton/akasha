@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionImportOutcome = {
   id: "01a06108-2fef-7f5e-8bcb-0e8fbd99a8ff",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-import-outcome",
   definition: "what a merge did to a stored completion, and which fields the merge held back",
   code: "ts",

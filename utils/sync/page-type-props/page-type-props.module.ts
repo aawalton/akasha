@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const pageTypeProps = {
   id: "01a05c6a-2bb4-735e-bfca-90ad75728a5e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-type-props",
   definition: "the shape one property of a page type is declared in for the store",
   code: "ts",

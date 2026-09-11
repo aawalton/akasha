@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const shalidorLibraryCollections00 = {
   id: "01a06358-4f7c-78fe-ac83-d39241be379b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "shalidor-library-collections-00",
   definition:
     "one run of Shalidor's Library collections, in the order the whole catalog names them",

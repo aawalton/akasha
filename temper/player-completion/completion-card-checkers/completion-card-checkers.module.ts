@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCardCheckers = {
   id: "01a0640c-1e9a-73f9-8755-c19243c58c9d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-card-checkers",
   definition: "what answers whether a character has finished each completion card",
   code: "ts",

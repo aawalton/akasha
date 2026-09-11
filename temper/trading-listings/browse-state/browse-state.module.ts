@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const browseState = {
   id: "01a060a7-02f3-7e84-9e98-799da64c05e4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "browse-state",
   definition: "what to search next as each page of guild store listings arrives",
   code: "ts",

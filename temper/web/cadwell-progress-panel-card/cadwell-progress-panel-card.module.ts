@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const cadwellProgressPanelCard = {
   id: "01a06421-f74b-7cbd-b36d-266f303f0011",
   pageTypeSlug: "module",
+  type: "module",
   slug: "cadwell-progress-panel-card",
   definition: "Cadwell's Almanac, by alliance and by zone",
   code: "tsx",

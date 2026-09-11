@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skyshardsPcPinData = {
   id: "01a061a8-9c6b-7a98-ba02-90707c066f2e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skyshards-pc-pin-data",
   definition: "reading one skyshard placement, and which of a zone's shards a criterion means",
   code: "ts",

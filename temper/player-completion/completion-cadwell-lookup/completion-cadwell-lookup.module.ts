@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCadwellLookup = {
   id: "01a06358-4f7c-7d6d-8881-1e898924e3ff",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-cadwell-lookup",
   definition: "which stop of Cadwell's Almanac a character has finished",
   code: "ts",

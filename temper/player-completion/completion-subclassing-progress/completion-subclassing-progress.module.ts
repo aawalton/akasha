@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionSubclassingProgress = {
   id: "01a0627d-aa45-7000-aa9b-9c58efaea8f2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-subclassing-progress",
   definition: "how far an account has taken the class skill lines subclassing lends out",
   code: "ts",

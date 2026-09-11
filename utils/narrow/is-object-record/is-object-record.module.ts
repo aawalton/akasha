@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const isObjectRecord = {
   id: "01a05c94-2bff-7b7c-ab0f-ffa64b188533",
   pageTypeSlug: "module",
+  type: "module",
   slug: "is-object-record",
   definition: "whether a value is an object that is not null",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterMorphProgress = {
   id: "01a061c7-0738-743c-af2f-8e5f2a129273",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-morph-progress",
   definition: "how far a character has morphed the skills of the lines that character can use",
   code: "ts",

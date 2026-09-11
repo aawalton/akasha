@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const allianceRankPanelCard = {
   id: "01a06421-f74b-7225-aa23-74e9044c000e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "alliance-rank-panel-card",
   definition: "each selected character's alliance rank against the highest there is",
   code: "tsx",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCadwellSort = {
   id: "01a06108-2feb-7a2d-9ef6-57df269ec508",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-cadwell-sort",
   definition: "Cadwell's Almanac sorted into the order the game shows it in",
   code: "ts",

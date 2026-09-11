@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const resourceLoaderArgsTestUtils = {
   id: "01a08ee4-41a2-7873-81b7-b181807acb88",
   pageTypeSlug: "module",
+  type: "module",
   slug: "resource-loader-args-test-utils",
   definition: "the arguments a test hands a resource route's loader for one path",
   code: "ts",

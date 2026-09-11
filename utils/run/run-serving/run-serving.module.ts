@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const runServing = {
   id: "01a082e2-e993-788b-956d-19267f41c187",
   pageTypeSlug: "module",
+  type: "module",
   slug: "run-serving",
   definition: "a server reading run after run off its input and answering each on its output",
   code: "ts",

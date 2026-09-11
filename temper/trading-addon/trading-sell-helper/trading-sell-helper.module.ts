@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const tradingSellHelper = {
   id: "01a06160-2a5d-73e5-9fde-29726e0ec8fb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "trading-sell-helper",
   definition: "offering a price when a player lists an item for sale",
   code: "ts",

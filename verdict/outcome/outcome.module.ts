@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const outcome = {
   id: "01a05cb3-7cca-7b0c-8c00-19c93b299d81",
   pageTypeSlug: "module",
+  type: "module",
   slug: "outcome",
   definition: "what one check judged and what it found, drawn as a line and a body",
   code: "ts",

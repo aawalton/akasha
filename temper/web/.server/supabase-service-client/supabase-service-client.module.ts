@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const supabaseServiceClient = {
   id: "01a0640f-8510-7fb7-b3bd-04ccc6376a67",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supabase-service-client",
   definition: "the Supabase client with the service role, made once and held",
   code: "ts",

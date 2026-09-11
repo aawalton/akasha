@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillPointFinderApi = {
   id: "01a060ec-5830-7970-9982-411f52b14cd8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-point-finder-api",
   definition: "the skill point window reachable by another add-on",
   code: "ts",

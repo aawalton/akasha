@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherPricingTables = {
   id: "01a06381-35cf-7f9a-8a86-81d472cd7c24",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-pricing-tables",
   definition: "the currency rates and crown replacement costs handed to the inventory addon",
   code: "ts",

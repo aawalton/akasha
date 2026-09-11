@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useImportErrorToast = {
   id: "01a0640f-8510-7768-9aee-350974e45eea",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-import-error-toast",
   definition: "an import failure named in the query raised as a notice and then cleared",
   code: "ts",

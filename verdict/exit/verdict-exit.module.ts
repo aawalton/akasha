@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const verdictExit = {
   id: "01a05c87-a161-7870-a94a-5b4c8861bdc2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "verdict-exit",
   definition: "the exit code a judgement's kind represents",
   code: "ts",

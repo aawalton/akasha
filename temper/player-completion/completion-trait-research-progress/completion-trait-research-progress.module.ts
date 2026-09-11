@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionTraitResearchProgress = {
   id: "01a06358-4f7c-72b2-9eaf-52313ad702f9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-trait-research-progress",
   definition:
     "the item traits each character has researched, counted by research line and by craft",

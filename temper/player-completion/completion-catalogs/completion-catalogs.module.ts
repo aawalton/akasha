@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCatalogs = {
   id: "01a0640a-3feb-7271-b1ef-b87cc58a603c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-catalogs",
   definition: "the game's reference tables a completion reckoning reads, gathered as one",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libsetsUpstreamVerify = {
   id: "01a060d0-ca2a-7b19-860d-b24372089328",
   pageTypeSlug: "module",
+  type: "module",
   slug: "libsets-upstream-verify",
   definition: "the ruling on whether a checkout really holds the pinned upstream LibSets",
   code: "ts",

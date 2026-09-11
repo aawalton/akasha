@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherSignedInUser = {
   id: "01a063aa-63c2-7558-845f-9e351ae7ba3f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-signed-in-user",
   definition: "which user the watcher writes under, taken from the caller or from the session",
   code: "ts",

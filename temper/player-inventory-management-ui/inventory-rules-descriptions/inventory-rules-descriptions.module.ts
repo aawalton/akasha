@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const inventoryRulesDescriptions = {
   id: "01a0636c-5d9b-7e6e-8126-0ea817bf001f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inventory-rules-descriptions",
   definition: "the sentence a reader is given for one rule",
   code: "ts",

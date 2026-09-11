@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const tradingBrowseWindowRows = {
   id: "01a06160-2a59-7146-848b-f736c7465e2d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "trading-browse-window-rows",
   definition: "the controls one row of the browse window is drawn from",
   code: "ts",

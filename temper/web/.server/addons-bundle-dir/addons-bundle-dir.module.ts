@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const addonsBundleDir = {
   id: "01a0640f-850f-76fa-aa1c-8817cc184e55",
   pageTypeSlug: "module",
+  type: "module",
   slug: "addons-bundle-dir",
   definition: "the folder the built addon bundles are served out of",
   code: "ts",

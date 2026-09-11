@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useCompanionPlanEntities = {
   id: "01a06421-2529-7d18-8a05-2abe0111a88a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-companion-plan-entities",
   definition: "the companions one plan holds",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const shoppingSettings = {
   id: "01a060cf-b0b1-75a2-8041-f9ae780018d3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "shopping-settings",
   definition: "what a shopper has settled about a shopping run before the run",
   code: "ts",

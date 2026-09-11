@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const putting = {
   id: "01a04efb-4361-7984-87ce-b338a39e98b3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "putting",
   definition: "a file put where a test wants it in a tree it set up, and whether one is there",
   code: "ts",

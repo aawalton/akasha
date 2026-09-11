@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherImportInventory = {
   id: "01a06381-35cf-784c-a7fd-ba657830b922",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-import-inventory",
   definition: "one inventory scan read, valued, and filed as a net worth reading on its hour page",
   code: "ts",

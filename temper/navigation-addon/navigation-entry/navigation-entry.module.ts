@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const navigationEntry = {
   id: "01a06269-2895-73f7-87ec-a25d1ab915ec",
   pageTypeSlug: "module",
+  type: "module",
   slug: "navigation-entry",
   definition: "where the transpiler starts this add-on's one Lua file",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherSettingsLuaBlock = {
   id: "01a06367-c4f5-7b19-af43-529bb67df9da",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-settings-lua-block",
   definition: "how one keyed block is replaced inside a saved-variables file the game wrote",
   code: "ts",

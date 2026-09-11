@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCompanionRapportCompleteness = {
   id: "01a06121-f0d2-72a1-a388-f307955fb724",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-companion-rapport-completeness",
   definition: "whether a character has every companion at full rapport",
   code: "ts",

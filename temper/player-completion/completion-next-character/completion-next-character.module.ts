@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionNextCharacter = {
   id: "01a0640c-1e9b-7780-ad52-95221a0c40d6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-next-character",
   definition: "which character a card of next-character scope falls to for its current turn",
   code: "ts",

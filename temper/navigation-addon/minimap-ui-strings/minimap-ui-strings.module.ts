@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minimapUiStrings = {
   id: "01a06269-2975-7fb4-b000-c446f30904cb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "minimap-ui-strings",
   definition: "the strings the minimap settings show, by language",
   code: "ts",

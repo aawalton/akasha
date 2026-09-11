@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const useFilteredBuilds = {
   id: "01a06421-252a-7587-ab25-20eababed352",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-filtered-builds",
   definition: "the companion builds a filter leaves",
   code: "ts",

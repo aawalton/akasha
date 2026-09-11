@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCardTaskProgress = {
   id: "01a0641c-83b4-7fba-b338-0d13a366420a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-card-task-progress",
   definition: "how far along one completion card is for one character, card by card",
   code: "ts",

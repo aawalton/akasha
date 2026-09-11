@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionAchievementProgress = {
   id: "01a06358-4f7c-710b-83bf-54c15075a3ce",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-achievement-progress",
   definition:
     "the achievement points an account and each character have earned, counted by heading",

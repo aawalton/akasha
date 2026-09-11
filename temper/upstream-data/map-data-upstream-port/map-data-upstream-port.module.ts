@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapDataUpstreamPort = {
   id: "01a0683b-e6a4-7275-8265-3fa1d955b928",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-data-upstream-port",
   definition: "the map tables upstream LibMapData carries, copied out as TypeScript",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const itemRuleCard = {
   id: "01a0636c-5d9b-7cbf-bead-3c2c118c0030",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-rule-card",
   definition: "the card a reader edits one item rule in",
   code: "tsx",

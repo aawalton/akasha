@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const readingChannel = {
   id: "01a0657e-795b-7000-9fd2-c341fb16005c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "reading-channel",
   definition: "a reading written out as one anchored line, with its findings beside it",
   code: "ts",

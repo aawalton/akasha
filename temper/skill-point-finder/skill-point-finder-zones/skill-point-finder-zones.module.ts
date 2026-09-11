@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillPointFinderZones = {
   id: "01a060ec-584f-7d00-b389-352657585745",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-point-finder-zones",
   definition: "a zone of the world the window counts quests and skyshards across",
   code: "ts",

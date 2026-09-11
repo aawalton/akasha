@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const pageHolding = {
   id: "01a07bd7-36a3-7a1c-92e1-95945d838fd0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-holding",
   definition: "the paths a test's page and its code sit at, and the body of that code",
   code: "ts",

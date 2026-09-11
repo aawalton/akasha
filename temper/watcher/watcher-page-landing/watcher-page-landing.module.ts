@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherPageLanding = {
   id: "01a06381-35cf-745a-9478-62105eeced57",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-page-landing",
   definition: "the shared half of landing a page and the jsonl rows beside it from the watcher",
   code: "ts",

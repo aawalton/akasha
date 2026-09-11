@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherUploadRetry = {
   id: "01a0633f-8d1e-708b-a8d1-f73b5552b672",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-upload-retry",
   definition: "how an upload the server broke off is tried again",
   code: "ts",

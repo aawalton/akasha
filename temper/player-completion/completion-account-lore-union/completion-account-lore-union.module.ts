@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionAccountLoreUnion = {
   id: "01a06121-f0cf-76af-8eef-3e43cfd843c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-account-lore-union",
   definition: "the shalidor books any one character of an account has read",
   code: "ts",

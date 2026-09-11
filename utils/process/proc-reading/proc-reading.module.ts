@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const procReading = {
   id: "01a05d02-889b-74a3-996f-1c5943d09b84",
   pageTypeSlug: "module",
+  type: "module",
   slug: "proc-reading",
   definition: "the processes running now, read off `/proc` with the environment they carry",
   code: "ts",

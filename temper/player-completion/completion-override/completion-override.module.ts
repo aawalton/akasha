@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionOverride = {
   id: "01a06103-061b-7457-afea-60b18bad59f0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-override",
   definition: "a floor a player sets by hand under one item of one completion card",
   code: "ts",

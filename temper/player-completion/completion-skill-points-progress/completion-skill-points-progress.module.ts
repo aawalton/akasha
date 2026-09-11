@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionSkillPointsProgress = {
   id: "01a06121-f0d5-7142-b383-42a7e23ca0c3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-skill-points-progress",
   definition: "every skill point each character has earned, counted against every source",
   code: "ts",

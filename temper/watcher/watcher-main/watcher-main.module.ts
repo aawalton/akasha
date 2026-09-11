@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherMain = {
   id: "01a063c7-b077-7e6b-abbc-744232614c20",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-main",
   definition:
     "the startup of a watcher worker, from signing in to watching every saved-variables file",

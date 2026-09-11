@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const questsPublicApi = {
   id: "01a0635f-391c-7877-ac21-ad273512b197",
   pageTypeSlug: "module",
+  type: "module",
   slug: "quests-public-api",
   definition: "the global another addon turns answering dialogue on and off through",
   code: "ts",

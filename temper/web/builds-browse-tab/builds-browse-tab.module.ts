@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const buildsBrowseTab = {
   id: "01a0642c-5b8f-74e0-93ce-35ce478bf46e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "builds-browse-tab",
   definition: "the tab browsing character builds",
   code: "tsx",

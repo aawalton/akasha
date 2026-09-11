@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterImport = {
   id: "01a0640f-8510-7c04-b799-f12ba75125ab",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-import",
   definition: "a character build decoded from a hash and filed against the reader's account",
   code: "ts",

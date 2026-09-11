@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minimapTweaksRefreshPins = {
   id: "01a06269-2997-781e-a33a-db5d2d258898",
   pageTypeSlug: "module",
+  type: "module",
   slug: "minimap-tweaks-refresh-pins",
   definition:
     "the world map's point-of-interest, wayshrine and location refreshes done a little at a time",

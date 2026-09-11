@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const waiting = {
   id: "01a04ef8-da76-7b5c-a410-29aa2cf260ff",
   pageTypeSlug: "module",
+  type: "module",
   slug: "waiting",
   definition: "a test holding on until something running elsewhere has become true",
   code: "ts",

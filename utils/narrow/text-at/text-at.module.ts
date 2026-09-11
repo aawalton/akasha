@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const textAt = {
   id: "01a05c94-2c02-7dc2-a598-544061815ac8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "text-at",
   definition: "the non-empty text a record holds under a key, or nothing",
   code: "ts",

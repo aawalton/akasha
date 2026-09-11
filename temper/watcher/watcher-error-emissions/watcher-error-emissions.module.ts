@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherErrorEmissions = {
   id: "01a06365-5d76-75c1-a0a0-106da27f95b1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-error-emissions",
   definition: "which of the game's Lua errors the watcher carries up and which it holds back",
   code: "ts",

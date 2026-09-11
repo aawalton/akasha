@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const newCharacterButton = {
   id: "01a0642c-5b9c-748d-9111-0b2a062c4a0c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "new-character-button",
   definition: "the button making a new character",
   code: "tsx",

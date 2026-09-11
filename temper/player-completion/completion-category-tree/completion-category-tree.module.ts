@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCategoryTree = {
   id: "01a06103-0617-766d-bdde-4267ab606f55",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-category-tree",
   definition: "every card the completion window shows, under the tab and the parent that has it",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionGenericCheckerProgress = {
   id: "01a0640c-1e9b-7ffc-918b-ac7e203ae58d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-generic-checker-progress",
   definition: "how far along a completion card is, added up over the leaves its picker enumerates",
   code: "ts",

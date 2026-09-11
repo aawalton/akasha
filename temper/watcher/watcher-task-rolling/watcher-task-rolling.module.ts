@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherTaskRolling = {
   id: "01a076f1-163b-7fda-ab45-6cd8d0a5e4a1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-task-rolling",
   definition: "whether a task comes round again, judged from what each character did at it",
   code: "ts",

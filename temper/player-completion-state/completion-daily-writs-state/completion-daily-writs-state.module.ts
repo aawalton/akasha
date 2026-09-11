@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionDailyWritsState = {
   id: "01a06253-d28f-7002-a708-b891c6a40ecd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-daily-writs-state",
   definition: "how far a character has got through a day's crafting writs",
   code: "ts",

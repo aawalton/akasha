@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const playerSettings = {
   id: "01a0640f-8510-7ec4-bf91-bd8c41002f73",
   pageTypeSlug: "module",
+  type: "module",
   slug: "player-settings",
   definition: "the logging, safety and shopping settings a player keeps, read and written",
   code: "ts",

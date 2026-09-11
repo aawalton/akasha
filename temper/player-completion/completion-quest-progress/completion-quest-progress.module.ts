@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionQuestProgress = {
   id: "01a06358-4f7c-7da0-b597-157cb4358528",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-quest-progress",
   definition: "how many quests a character has finished, zone by zone and companion by companion",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const zoneUpstreamVerify = {
   id: "01a06288-c640-74b3-b566-c847f9efc2c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zone-upstream-verify",
   definition: "the ruling on whether the ported LibZone data still matches upstream",
   code: "ts",

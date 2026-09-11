@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherImportSales = {
   id: "01a06381-35cf-78ce-991d-bad7964dc536",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-import-sales",
   definition: "a sales capture read into one plan of sale page writes under an account page",
   code: "ts",

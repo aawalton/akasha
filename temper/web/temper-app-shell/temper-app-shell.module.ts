@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const temperAppShell = {
   id: "01a06429-76ff-706c-b325-038f0e4a4fb7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "temper-app-shell",
   definition:
     "the frame Temper draws every page inside, with its nav, its version check and its sign-out",

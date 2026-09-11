@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillsPanel = {
   id: "01a0642c-5baf-76da-97a7-2f5fa510dec7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skills-panel",
   definition: "the panel with a character's skills",
   code: "tsx",

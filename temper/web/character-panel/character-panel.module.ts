@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterPanel = {
   id: "01a06589-8d74-7000-93d4-198dec645ba7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-panel",
   definition: "the panel showing one character",
   code: "tsx",

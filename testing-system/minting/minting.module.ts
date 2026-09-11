@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minting = {
   id: "01a04e33-9351-7e79-8041-89abfa036830",
   pageTypeSlug: "module",
+  type: "module",
   slug: "minting",
   definition: "the pages a test sets up in a root of its own, and the ids it mints them under",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scribingSignatureScripts = {
   id: "01a060db-b2bb-78c2-a678-b0ddc7114f93",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scribing-signature-scripts",
   definition: "the secondary scribing scripts, each shaping how a grimoire is cast",
   code: "ts",

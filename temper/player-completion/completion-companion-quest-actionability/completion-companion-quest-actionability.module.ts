@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCompanionQuestActionability = {
   id: "01a06121-f0d1-7a40-bb2f-7378186e50e0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-companion-quest-actionability",
   definition: "the next companion quest a player can take right now",
   code: "ts",

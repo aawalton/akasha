@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const classSkillLines = {
   id: "01a0608a-c134-7c50-b351-4346bb0b63f1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "class-skill-lines",
   definition: "the twenty-one class skill lines, each naming the class that has it",
   code: "ts",

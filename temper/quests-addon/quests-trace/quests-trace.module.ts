@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const questsTrace = {
   id: "01a0635f-391c-7cbf-b863-31301fafd0d9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "quests-trace",
   definition: "what the addon saw and what it decided, written down where it can be read back",
   code: "ts",

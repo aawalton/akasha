@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minimapNames = {
   id: "01a06269-296d-783d-b75d-770ea87fa67f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "minimap-names",
   definition: "what the minimap calls itself, where it saves and which map mode it owns",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const pathTracker = {
   id: "01a06432-b190-71fc-9819-f71d76c95c14",
   pageTypeSlug: "module",
+  type: "module",
   slug: "path-tracker",
   definition: "the last page a reader was on, kept so signing in returns them to it",
   code: "ts",

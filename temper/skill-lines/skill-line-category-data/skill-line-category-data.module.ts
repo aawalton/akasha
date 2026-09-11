@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillLineCategoryData = {
   id: "01a0608a-c135-7b53-b635-1e9c4d4ba002",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-line-category-data",
   definition: "the ten groupings a skill line falls into, each with its display order",
   code: "ts",

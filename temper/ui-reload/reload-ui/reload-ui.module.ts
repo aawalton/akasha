@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const reloadUi = {
   id: "01a090b2-4c81-73e4-85d7-24204ef52dcd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "reload-ui",
   definition: "the game asked to load its interface again with the player left where they are",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const ttcListingClient = {
   id: "01a0609f-a419-7ed6-80f9-4695f2d6e695",
   pageTypeSlug: "module",
+  type: "module",
   slug: "ttc-listing-client",
   definition: "a paced reader of guild store listings from the Tamriel Trade Centre api",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const characterListCardWithHandle = {
   id: "01a0642c-5b8a-7d3f-85e1-2033756a74ca",
   pageTypeSlug: "module",
+  type: "module",
   slug: "character-list-card-with-handle",
   definition: "a character list card with a drag handle",
   code: "tsx",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const watcherSettingsConsumables = {
   id: "01a06381-35cf-73a4-9d73-0f0667286acb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "watcher-settings-consumables",
   definition:
     "the consumables a build asks for, the stock held of them, and the inventory snapshot behind both",

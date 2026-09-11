@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const completionCardResetBehavior = {
   id: "01a06108-2fed-70ac-9ab5-6923a6b5d6c1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "completion-card-reset-behavior",
   definition: "whether a completion card counts for all time or starts over each day",
   code: "ts",

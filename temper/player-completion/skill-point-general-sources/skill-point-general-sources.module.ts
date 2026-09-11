@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const skillPointGeneralSources = {
   id: "01a06108-2ff7-74c2-9e75-d57f7bb7c8a8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "skill-point-general-sources",
   definition: "the skill points a character earns outside any one zone, and how many each gives",
   code: "ts",
