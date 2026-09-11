@@ -19,36 +19,6 @@ export const aineMemoryManagement = {
       workingMemory:
         "A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Each kind states its own: a command, a check, a test run, a change, an audit, a deploy, and a tool call that is none of these. Commands, checks, changes and the testing system are already domains a ceiling can be stated on. No page yet holds an audit or a deploy.\n",
     },
-    {
-      statement: "The most memory each kind of work has taken is recorded.",
-      workingMemory:
-        "No ceiling number is defensible without this. Nothing today records what a build, a test run or a check actually reaches, so every number would be a guess. A soft ceiling gathers it without risk: MemoryHigh throttles and reclaims rather than killing, and every breach lands in the cgroup's memory.events. A measured peak times a safety factor is how a hard ceiling is set afterwards.\n",
-    },
-    {
-      statement: "Every runtime on the workstation has a heap ceiling below its work's ceiling.",
-      workingMemory:
-        "A runtime allowed to grow past its cgroup dies mid-collection, and the ceiling it holds is the one that actually bounds it. The node heap is set to 61440 MiB on a 62 GiB host, which bounds nothing. Python has no heap ceiling of its own at all, which is why the 16 GiB script Alan killed by hand had nothing above it.\n",
-    },
-    {
-      statement: "How many agents run at once is bounded against what each of them may take.",
-      workingMemory:
-        "Per-worker peak times worker count is the number that reaches the host, so a ceiling on one bounds nothing without a ceiling on how many. Subagent fan-out is capped at 65 today, chosen against nothing.\n",
-    },
-    {
-      statement: "Every limit the workstation holds is listed in one place.",
-      workingMemory:
-        "The live ones are scattered: the reaper's two ceilings in its own modules, the oomd thresholds in a unit drop-in, the node heap in the Claude settings file, the admission guard's free-memory minimum in a module of its own, and whatever cgroup files the units leave at max. Nothing reads them together, so no one of them can be set against the rest.\n",
-    },
-    {
-      statement: "Which tree is ended first is settled before the host runs short.",
-      workingMemory:
-        "The reaper picks the single largest subtree at the moment it looks, so what dies is decided by size rather than by worth. Kubernetes settles this in advance by class. Here the browser, a game and an agent's build are all uid 1000 and all weigh the same to the tick.\n",
-    },
-    {
-      statement: "A host short of memory is known from how long its programs stall.",
-      workingMemory:
-        "The reaper reads MemAvailable and SwapFree, both of which are estimates of what could be had rather than measures of anything hurting. The kernel publishes stall time per cgroup at /proc/pressure/memory, and systemd-oomd is built on it. Alan's 16 GiB script never reached the headroom leg because swap was 54 GiB free.\n",
-    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative

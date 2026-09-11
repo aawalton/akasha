@@ -61,5 +61,10 @@ export const memoryLimit = {
       invariantKind: "departure",
       statement: "The memory a host keeps for itself is taken out before anything else is limited.",
     },
+    { invariantKind: "gap", statement: "Every limit a host holds is stated in one place." },
+    {
+      invariantKind: "gap",
+      statement: "Every limit is set from a measured peak rather than chosen.",
+    },
   ],
 } as const satisfies Domain
