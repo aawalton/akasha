@@ -32,6 +32,8 @@ export const WRITING = "write"
 
 export const TAKING = "take"
 
+export const SWEEPING = "sweep"
+
 export const LOG_AT = "subagent-presence.log"
 
 const CALLED_AS = "subagent-presence"
@@ -295,6 +297,16 @@ export function takingDown(
   asking(root, seatId, [TAKING, seatName, own, String(Date.now())], baseDir)
 }
 
+export function sweeping(
+  root: string,
+  seatName: string,
+  seatId: string,
+  why: string,
+  baseDir?: string
+): undefined {
+  asking(root, seatId, [SWEEPING, seatName, why], baseDir)
+}
+
 function padded(held: number, wide = 2): string {
   return String(held).padStart(wide, "0")
 }
@@ -355,6 +367,12 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (root === undefined || root === "") return saying("no root was named")
   if (act === undefined || act === "") return saying("no act was named")
   if (seatName === undefined || seatName === "") return saying(`${act}: no seat was named`)
+  if (act === SWEEPING) {
+    const why = own
+    if (why === undefined || why === "") return saying(`${act} ${seatName}: no reason was named`)
+    const swept = await landingAgain(() => tookUnder(root, seatName, why))
+    return answering(swept, `${act} ${seatName}`)
+  }
   if (own === undefined || own === "") return saying(`${act} ${seatName}: no subagent id was named`)
   const at = `${act} ${seatName} ${own}`
   const moment = asNumber(act === WRITING ? argv[8] : argv[6])

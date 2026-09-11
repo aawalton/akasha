@@ -12,6 +12,7 @@ import type { StandingSubagent } from "akasha/seat-system/subagent-guard/subagen
 import {
   akashaSubagentPathsOf,
   removeAkashaSubagentPagesOf,
+  sweepingAkashaSubagentPagesOf,
 } from "akasha/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts"
 
 const KIND = "dispatchedAs"
@@ -22,6 +23,12 @@ export async function removeSubagentPagesOf(seat: string, why: string): Promise<
   const seatName = seatNameForAgent(seat)
   if (seatName === null) return { kind: "unchanged" }
   return await removeAkashaSubagentPagesOf(seatName, why)
+}
+
+export function sweepSubagentPagesOf(seat: string, why: string): undefined {
+  const seatName = seatNameForAgent(seat)
+  if (seatName === null) return
+  sweepingAkashaSubagentPagesOf(seatName, seat, why)
 }
 
 function namedAt(absolute: string): string {

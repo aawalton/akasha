@@ -7,6 +7,7 @@ export const supervisorChildSpawn = {
   slug: "supervisor-child-spawn",
   definition: "a live Claude child adopted where one is there and spawned where none is",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -36,6 +37,26 @@ export const supervisorChildSpawn = {
     {
       invariantKind: "departure",
       statement: "The open tasks of an adopted child are left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A child spawned afresh runs no subagent the child before it started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The subagent pages under such a child's seat are taken away before the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The subagent pages of an adopted child are left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That take-down is asked for and left to finish rather than waited on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What this reaches for to adopt, to spawn and to take is handed in.",
     },
   ],
 } as const satisfies Module

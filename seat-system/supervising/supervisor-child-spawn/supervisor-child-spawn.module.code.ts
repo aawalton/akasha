@@ -4,6 +4,7 @@ import {
   isClaudeChildCmdline,
   type ProcLivenessEntry,
 } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import { sweepSubagentPagesOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,
@@ -16,6 +17,28 @@ import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-ty
 import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 
 export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }
+
+export const SPAWNED_FRESH = "has a client spawned in place of the one that ran them"
+
+export interface ChildSpawnSeams {
+  readonly scanProcs: ProcScan
+  readonly adoptProc: typeof adoptInheritedProc
+  readonly spawnChild: typeof spawnClaudeChild
+  readonly admitSpawn: typeof enforceMemoryGuard
+  readonly takeTasks: typeof takeOpenTasks
+  readonly sweepSubagents: typeof sweepSubagentPagesOf
+}
+
+function seamsOf(given: Partial<ChildSpawnSeams> = {}): ChildSpawnSeams {
+  return {
+    scanProcs: given.scanProcs ?? scanProcEntries,
+    adoptProc: given.adoptProc ?? adoptInheritedProc,
+    spawnChild: given.spawnChild ?? spawnClaudeChild,
+    admitSpawn: given.admitSpawn ?? enforceMemoryGuard,
+    takeTasks: given.takeTasks ?? takeOpenTasks,
+    sweepSubagents: given.sweepSubagents ?? sweepSubagentPagesOf,
+  }
+}
 
 export function findLiveClaudeChild(
   agentId: string,
@@ -34,16 +57,16 @@ export function findLiveClaudeChild(
 function adoptLiveChildOrSpawn(args: {
   spawnOpts: Parameters<typeof spawnClaudeChild>[0]
   childExitRule: ChildExitRuleSource
-  scanProcs: ProcScan
+  seams: ChildSpawnSeams
 }): { proc: InheritedProc; adoptedThisIter: boolean } {
-  const { spawnOpts, childExitRule, scanProcs } = args
-  const scanned = scanProcs()
+  const { spawnOpts, childExitRule, seams } = args
+  const scanned = seams.scanProcs()
   const livePid = scanned.ok
     ? findLiveClaudeChild(spawnOpts.agentId, scanned.entries, process.pid)
     : null
   if (livePid !== null) {
     try {
-      const proc = adoptInheritedProc(livePid, childExitRule)
+      const proc = seams.adoptProc(livePid, childExitRule)
       console.log(
         `${LOG} adopt: Claude pid=${livePid} is already this supervisor's child for agent ${spawnOpts.agentId} — adopting it rather than spawning a second onto the same terminal`
       )
@@ -52,22 +75,23 @@ function adoptLiveChildOrSpawn(args: {
       console.error(`${LOG} adopt: live Claude pid=${livePid} could not be adopted:`, err)
     }
   }
-  takeOpenTasks(spawnOpts.agentId)
-  enforceMemoryGuard("claude session")
-  return { proc: spawnClaudeChild(spawnOpts), adoptedThisIter: false }
+  seams.takeTasks(spawnOpts.agentId)
+  seams.sweepSubagents(spawnOpts.agentId, SPAWNED_FRESH)
+  seams.admitSpawn("claude session")
+  return { proc: seams.spawnChild(spawnOpts), adoptedThisIter: false }
 }
 
 export function spawnOrAdoptChild(args: {
   adoptOnce: ReturnType<typeof resolveClaudeHandoff>
   spawnOpts: Parameters<typeof spawnClaudeChild>[0]
   childExitRule: ChildExitRuleSource
-  scanProcs?: ProcScan
+  seams?: Partial<ChildSpawnSeams>
 }): { proc: InheritedProc | null; adoptedThisIter: boolean } {
   const { adoptOnce, spawnOpts, childExitRule } = args
-  const scanProcs = args.scanProcs ?? scanProcEntries
+  const seams = seamsOf(args.seams)
   if (adoptOnce) {
     try {
-      const proc = adoptInheritedProc(adoptOnce.pid, childExitRule)
+      const proc = seams.adoptProc(adoptOnce.pid, childExitRule)
       console.log(
         `${LOG} adopt: skipped Bun.spawn — adopted Claude pid=${adoptOnce.pid} (agent ${spawnOpts.agentId})`
       )
@@ -88,9 +112,9 @@ export function spawnOrAdoptChild(args: {
       console.warn(
         `${LOG} adopt: liveness of inherited PID ${adoptOnce.pid} unknown — recovering with a fresh --resume spawn (agent ${spawnOpts.agentId})`
       )
-      return adoptLiveChildOrSpawn({ spawnOpts, childExitRule, scanProcs })
+      return adoptLiveChildOrSpawn({ spawnOpts, childExitRule, seams })
     }
   }
   console.log(`${LOG} Running interactively in ${spawnOpts.cwd} (agent ${spawnOpts.agentId})`)
-  return adoptLiveChildOrSpawn({ spawnOpts, childExitRule, scanProcs })
+  return adoptLiveChildOrSpawn({ spawnOpts, childExitRule, seams })
 }

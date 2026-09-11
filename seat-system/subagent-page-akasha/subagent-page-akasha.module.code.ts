@@ -8,6 +8,7 @@ import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.
 import {
   pathsUnder,
   SUBAGENTS_AT,
+  sweeping,
   tookUnder,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 
@@ -21,6 +22,15 @@ export function akashaSubagentPathsOf(
 ): readonly string[] {
   const root = rootFor(roots, AKASHA)
   return pathsUnder(root, seatName).map((one) => `${root}/${one}`)
+}
+
+export function sweepingAkashaSubagentPagesOf(
+  seatName: string,
+  seatId: string,
+  why: string,
+  roots: Roots = resolveRoots()
+): undefined {
+  sweeping(rootFor(roots, AKASHA), seatName, seatId, why)
 }
 
 export async function removeAkashaSubagentPagesOf(
