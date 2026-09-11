@@ -1,8 +1,7 @@
 import { readdirSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { addonBuildOutputRel } from "akasha/temper/addon-build/build-output/build-output.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
-
-export const ADDON_DIST_REL = "temper/addon-build/dist"
 
 export const ADDON_BUNDLE_UNIT = "addon bundles"
 
@@ -36,7 +35,7 @@ export type AddonDistBundles = {
 }
 
 export function collectAddonDistBundles(cwd: string = process.cwd()): AddonDistBundles {
-  const distRoot = resolve(cwd, ADDON_DIST_REL)
+  const distRoot = resolve(cwd, addonBuildOutputRel(cwd))
   let holdsBundles = false
   try {
     holdsBundles = statSync(distRoot).isDirectory()

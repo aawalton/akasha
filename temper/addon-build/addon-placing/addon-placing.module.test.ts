@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { placedAddon } from "akasha/temper/addon-build/addon-placing/addon-placing.module.code.ts"
+import { addonBuildOutputRel } from "akasha/temper/addon-build/build-output/build-output.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const scratch = scratchWorld()
@@ -14,21 +14,8 @@ afterAll(scratch.sweep)
 const MARKER = "build-id.lua"
 const PROBE = "TemperProbe"
 const OTHER = "TemperOther"
-const DOMAIN = "domain"
-const ADDON_BUILD = "temper-addon-build"
-const DIST = "dist"
 
-function distAt(): string {
-  const page = listedAt(process.cwd(), DOMAIN, ADDON_BUILD)[0]
-  if (page === undefined) {
-    throw new Error(
-      `no \`${DOMAIN}\` is slugged \`${ADDON_BUILD}\`, so nothing says where its build sits`
-    )
-  }
-  return join(dirname(page.path), DIST)
-}
-
-const DIST_AT = distAt()
+const DIST_AT = addonBuildOutputRel(process.cwd())
 
 type Fixture = { readonly root: string; readonly live: string; readonly addons: string }
 

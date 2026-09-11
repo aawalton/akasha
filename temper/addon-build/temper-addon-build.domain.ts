@@ -17,6 +17,7 @@ export const temperAddonBuild = {
     "module/addon-compiling",
     "module/addon-placing",
     "module/addon-bundling",
+    "module/build-output",
   ],
   invariants: [
     {
