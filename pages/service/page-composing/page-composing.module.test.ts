@@ -11,9 +11,11 @@ import {
   slugRefused,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
+  DEVICE_TOKENS_AT,
   HELD_CRATE_ID,
   HELD_THING_BODY,
   HELD_THING_ID,
+  pageTypeAt,
   ROOT,
 } from "akasha/pages/service/page-composing/page-composing.module.test-fixtures.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
@@ -54,19 +56,13 @@ test("one type's keys keep the order that type declares them in", () => {
 })
 
 test("a folder already named by the plural takes a new page under pages", () => {
-  const said = pathFor(
-    "akasha/person-system/device-tokens/device-token.page-type.ts",
-    "device-tokens",
-    "device-token",
-    "one",
-    false
-  )
+  const said = pathFor(DEVICE_TOKENS_AT, "device-tokens", "device-token", "one", false)
   expect(said).toBe("akasha/person-system/device-tokens/pages/one.device-token.ts")
 })
 
 test("a folder named by the plural with the opening taken off takes its pages under pages", () => {
   const said = pathFor(
-    "akasha/story/chapters-read/story-chapter-read.page-type.ts",
+    pageTypeAt("story-chapter-read"),
     "story-chapters-read",
     "story-chapter-read",
     "one",

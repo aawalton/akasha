@@ -1,7 +1,9 @@
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   indexedRepo,
   pageOf,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 type Held = Record<string, unknown>
 
@@ -10,6 +12,14 @@ const seed = (one: string): string => `01a08800-0000-7000-8000-0000000000${one}`
 export const HELD_THING_ID = seed("20")
 
 export const HELD_CRATE_ID = seed("22")
+
+export const DEVICE_TOKENS_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
+
+const REPO_AT = rootOf(import.meta.dir)
+
+export function pageTypeAt(slug: string): string {
+  return `akasha/${listedAt(REPO_AT, "page-type", slug)[0]?.path ?? ""}`
+}
 
 function declares(pageProperty: string, rest: Held = {}): Held {
   return { pageProperty, required: false, many: false, ...rest }
