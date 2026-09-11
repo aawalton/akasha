@@ -39,6 +39,7 @@ export const change = {
     "boolean-property/temporary",
     "boolean-property/takes-at-most",
     "number-property/change-max-cpu-seconds",
+    "module/edits-dropping",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },

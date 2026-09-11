@@ -143,5 +143,13 @@ export const changeLoading = {
       statement:
         "A change whose code throws while loading refuses the run rather than the landing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every answer a change gives is dropped from before that answer is guarded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer a change reached inside gives is dropped from at that rung too.",
+    },
   ],
 } as const satisfies Module

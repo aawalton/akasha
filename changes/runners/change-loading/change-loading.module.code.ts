@@ -1,9 +1,14 @@
 import { join } from "node:path"
 import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer, Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { dropped } from "akasha/changes/modules/edits-dropping/edits-dropping.module.code.ts"
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
 import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
-import { type World, worldBefore } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  facingHeld,
+  type World,
+  worldBefore,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "akasha/changes/modules/target-kinding/target-kinding.module.code.ts"
 import {
   narrows,
@@ -123,11 +128,12 @@ export async function ranBy(
 ): Promise<Answer> {
   if (nested) {
     reachedBy(world, loaded.guards)
-    return await loaded.run(world, given)
+    return dropped(facingHeld(world), await loaded.run(world, given))
   }
   const before = worldBefore(world)
-  const said = await loaded.run(world, given)
-  if (said.refused !== null) return said
+  const ran = await loaded.run(world, given)
+  if (ran.refused !== null) return ran
+  const said = dropped(facingHeld(world), ran)
   return guardedBy(world, said, guardsOver(world, loaded.guards), before)
 }
 
