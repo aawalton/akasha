@@ -1,13 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { RescuedAccessToken } from "./rescued-access-token.text-property.types.ts"
-import type { RescuedExpiresAtMs } from "./rescued-expires-at-ms.number-property.types.ts"
-import type { RescuedRefreshToken } from "./rescued-refresh-token.text-property.types.ts"
-
-export type RescuedCredential = {
-  accessToken: RescuedAccessToken
-  refreshToken: RescuedRefreshToken
-  expiresAtMs: RescuedExpiresAtMs
-}
 
 export const rescuedCredential = {
   id: "01a0637b-78bb-77e3-8457-23dd0863e27e",
@@ -39,4 +30,5 @@ export const rescuedCredential = {
       statement: "The file a rescued credential is written into is narrowed before that write.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

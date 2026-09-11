@@ -12,7 +12,7 @@ import type { LastWindowTriggerAt } from "akasha/agents/claude-accounts/properti
 import type { RateLimitTier } from "akasha/agents/claude-accounts/properties/rate-limit-tier.text-property.types.ts"
 import type { RefreshToken } from "akasha/agents/claude-accounts/properties/refresh-token.text-property.types.ts"
 import type { RenewalDay } from "akasha/agents/claude-accounts/properties/renewal-day.number-property.types.ts"
-import type { RescuedCredential } from "akasha/agents/claude-accounts/properties/rescued-credential.record-property.ts"
+import type { RescuedCredential } from "akasha/agents/claude-accounts/properties/rescued-credential.record-property.types.ts"
 import type { RetryAllowedAt } from "akasha/agents/claude-accounts/properties/retry-allowed-at.instant-property.types.ts"
 import type { Scopes } from "akasha/agents/claude-accounts/properties/scopes.text-property.types.ts"
 import type { SevenDayPercentUsed } from "akasha/agents/claude-accounts/properties/seven-day-percent-used.number-property.types.ts"
