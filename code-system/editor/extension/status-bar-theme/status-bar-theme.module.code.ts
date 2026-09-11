@@ -1,6 +1,6 @@
-import { blue } from "../../../../design/interfaces/colors/pages/blue.color.ts"
-import { grey } from "../../../../design/interfaces/colors/pages/grey.color.ts"
-import { purple } from "../../../../design/interfaces/colors/pages/purple.color.ts"
+import { blue } from "akasha/design/interfaces/colors/pages/blue.color.ts"
+import { grey } from "akasha/design/interfaces/colors/pages/grey.color.ts"
+import { purple } from "akasha/design/interfaces/colors/pages/purple.color.ts"
 
 export const SEPARATOR_HEX = grey.hex
 export const SEPARATOR_GLYPH = "|"
