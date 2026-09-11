@@ -3,10 +3,18 @@ import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/cl
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
+
+const PAGE_TYPE = "page-type"
+
+const TYPES = "types"
+
+const HOLDS = "ts"
 
 const PUT = "change-mechanical-file/add-file"
 
@@ -72,10 +80,11 @@ export function pageTextFor(
   email: string,
   aliasIndex: number,
   id: string,
-  pageTypeSlug: string
+  pageTypeSlug: string,
+  importFrom: string
 ): string {
   return [
-    `import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"`,
+    `import type { ClaudeAccount } from "${importFrom}"`,
     ``,
     `export const ${exportedAs(account)} = {`,
     `  id: "${id}",`,
@@ -115,8 +124,21 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
     const slot = slotFrom(held, read.alias)
     if (typeof slot === "string") return { report: [], refusals: [slot], code: 1 }
     const pageType = typeSlugOf(given.root, ACCOUNT_TYPE)
+    const typeAt = listedAt(given.root, PAGE_TYPE, pageType)[0]?.path
+    const typesAt = typeAt === undefined ? null : besideAt(typeAt, TYPES, HOLDS)
+    if (typesAt === null) {
+      const why = `no page type page is filed under \`${pageType}\`, so a page names no type`
+      return { report: [], refusals: [why], code: 1 }
+    }
     const at = `${accountsAtIn(given.root)}/${read.account}/${read.account}.${pageType}.ts`
-    const body = pageTextFor(read.account, read.email, slot, Bun.randomUUIDv7(), pageType)
+    const body = pageTextFor(
+      read.account,
+      read.email,
+      slot,
+      Bun.randomUUIDv7(),
+      pageType,
+      importedFrom(typesAt)
+    )
     const landed = await runMechanicalChange(
       given.root,
       [{ at: PUT, given: { at, body } }],
