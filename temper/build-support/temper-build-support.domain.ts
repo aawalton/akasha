@@ -8,6 +8,7 @@ export const temperBuildSupport = {
   definition: "what a character build and a companion build are both handled with",
   parts: [
     "module/automation-settings",
+    "module/build-row",
     "module/build-url",
     "module/eso-name",
     "module/row-grouping",
