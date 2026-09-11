@@ -1,5 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
-import { identityOf } from "akasha/temper/addon-generators/identity-of-key/identity-of-key.module.code.ts"
+import { identityOf } from "akasha/temper/addon-generators/slug-of/slug-of.module.code.ts"
 import {
   nodeUnder,
   type TreeNode,

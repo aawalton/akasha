@@ -12,6 +12,7 @@ export const utils = {
     "domain/utils-narrow",
     "domain/utils-process",
     "domain/utils-run",
+    "domain/utils-slug",
     "domain/utils-system",
     "domain/utils-sync",
     "domain/utils-text",

@@ -1,5 +1,5 @@
 import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
-import { identityOf } from "akasha/temper/addon-generators/identity-of-key/identity-of-key.module.code.ts"
+import { identityOf } from "akasha/temper/addon-generators/slug-of/slug-of.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture-sales/sales-payload/sales-payload.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"

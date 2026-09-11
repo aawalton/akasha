@@ -9,7 +9,7 @@ export const temperAddonGenerators = {
   parts: [
     "module/addon-data-page",
     "module/classes",
-    "module/identity-of-key",
+    "module/slug-of",
     "module/item-category-tree",
     "module/metric-tree",
     "module/parse-restore-metrics-from-ability-text",
