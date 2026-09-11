@@ -60,5 +60,7 @@ export const temperAddonLibraryTypes = {
     "type-declaration/temper-quests-global",
     "type-declaration/temper-keybinder-global",
     "type-declaration/temper-catalog-global",
+    "type-declaration/temper-companions-global",
+    "type-declaration/temper-saved-variables-global",
   ],
 } as const satisfies Domain

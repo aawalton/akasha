@@ -59,7 +59,6 @@ export const temperCompanionsAddon = {
     "module/companions-entry",
     "type-declaration/companions-declarations",
     "type-declaration/companions-saved-variables-declarations",
-    "type-declaration/companions-globals-declarations",
     "type-declaration/companion-qol-globals-declarations",
     "lua-module/companions-config",
   ],

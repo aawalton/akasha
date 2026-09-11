@@ -5,5 +5,3 @@ interface CompanionsConfigGlobal {
 }
 
 declare var TemperCompanionsConfig: CompanionsConfigGlobal | undefined
-
-declare var Temper_SavedVariables: unknown
