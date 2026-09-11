@@ -12,7 +12,7 @@ import {
 
 const COMMAND = "command"
 
-const DRAFT_AT = "commands/pages/change/draft/change-draft.command.ts"
+const DRAFT_AT = "commands/pages/thrumming/draft/thrum-draft.command.ts"
 
 const DRAFT_ID = "01a08179-3176-7aa0-8d0b-d07d8da49eb2"
 
