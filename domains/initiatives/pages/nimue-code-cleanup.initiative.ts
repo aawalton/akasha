@@ -8,14 +8,9 @@ export const nimueCodeCleanup = {
   persona: "nimue",
   intents: [
     {
-      statement: "All code-system files are in the code/ folder.",
-      workingMemory:
-        "`move-folder` at `code-system` to `code` refuses at `app-building.module.test.ts`, which spells `code-system/ios-apps/pages/alanwalton`. The guard reads non-TypeScript through `path-runs`, so the older note that it reads TypeScript alone is wrong. Its real blockers are `writtenIn` at `folder-not-left-named.change-guard.code.ts:85`, reading only the bodies the move writes, and the `startsWith` in `namedBy` at 49-55, matching a root-spelled path alone.",
-    },
-    {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape --file-path code-system` judges 561 files and answers 1 refusal, at the repository root, where `akasha.domain.ts` and `akasha-workspace.workspace.ts` sit as two pages in one folder. That refusal is the workspace's rather than this initiative's. What is left is the move itself, and there is no `code` folder yet.\n",
+        "There is no `code-system` folder. `code/` holds 59 subfolders, `code/modules`, and the domain page at `code/code.domain.ts`, slugged `code` because the shape reads the name a page gives its folder. The last audit of this tree is older than the move and named one refusal, at the repository root, where `akasha.domain.ts` and `akasha-workspace.workspace.ts` are two pages in one folder; that one is the workspace's rather than this initiative's. What is left is to have the tree judged as it is now.\n",
     },
   ],
   constraints: [
