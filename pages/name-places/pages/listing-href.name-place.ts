@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.types.ts"
+import type { NamePlace } from "akasha/pages/name-places/name-place.page-type.types.ts"
 
 export const listingHref = {
   id: "01a04fd4-3d76-728a-afd7-6ab3cfaa8e57",

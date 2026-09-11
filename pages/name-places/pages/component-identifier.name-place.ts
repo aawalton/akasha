@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.types.ts"
+import type { NamePlace } from "akasha/pages/name-places/name-place.page-type.types.ts"
 
 export const componentIdentifier = {
   id: "01a04fc9-2ada-7231-b57f-de98579a51d4",
