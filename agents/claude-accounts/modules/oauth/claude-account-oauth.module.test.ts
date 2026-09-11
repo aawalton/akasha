@@ -14,7 +14,6 @@ import {
   REPOLL_BREAKER_MS,
   REPOLL_MIN_INTERVAL_MS,
   type RefreshOutcome,
-  type RepollGateState,
   recordRepollAttempt,
   recordUsageRateLimited,
   UPKEEP_PERIOD_MS,
@@ -24,6 +23,7 @@ import {
 } from "./claude-account-oauth.module.code.ts"
 import {
   ALLOW,
+  AT_EPOCH,
   BARE,
   backoffAt,
   breakerSkip,
@@ -36,10 +36,22 @@ import {
   NO_CREDENTIAL_ON_A_FAILING_OUTCOME,
   NO_TERMINAL_ON_A_WORKING_OUTCOME,
   NOW,
+  PROFILE_EXTRA_KEYS,
+  PROFILE_REALISTIC,
+  PROFILE_WITH_PROTO,
+  RECENT_ATTEMPT,
   RETRYABLE,
+  STALE_ATTEMPT,
   STATUS_IS_OPTIONAL,
   TOKEN_BODY,
+  TOKEN_OK,
+  TOKEN_WITH_EXTRA_KEYS,
   UNCLASSIFIED,
+  USAGE_EXTRA_KEYS,
+  USAGE_NO_RESET_KEY,
+  USAGE_NULL_RESETS,
+  USAGE_ONE_WINDOW,
+  USAGE_REALISTIC,
   WORKED,
 } from "./claude-account-oauth.module.test-fixtures.ts"
 
@@ -52,19 +64,14 @@ test("the wire endpoints are the constants this module names", () => {
 })
 
 test("a realistic token response parses", () => {
-  const parsed = OAUTH_TOKEN_RESPONSE_SCHEMA.safeParse({ ...TOKEN_BODY, expires_in: 28_800 })
+  const parsed = OAUTH_TOKEN_RESPONSE_SCHEMA.safeParse(TOKEN_OK)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.access_token).toBe(FAKE_ACCESS_TOKEN)
   expect(parsed.data?.expires_in).toBe(28_800)
 })
 
 test("a token response carrying keys the shape does not name keeps them", () => {
-  const parsed = OAUTH_TOKEN_RESPONSE_SCHEMA.safeParse({
-    ...TOKEN_BODY,
-    expires_in: 28_800,
-    token_type: "Bearer",
-    scope: "user:inference user:profile",
-  })
+  const parsed = OAUTH_TOKEN_RESPONSE_SCHEMA.safeParse(TOKEN_WITH_EXTRA_KEYS)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.token_type).toBe("Bearer")
   expect(parsed.data?.scope).toBe("user:inference user:profile")
@@ -79,7 +86,7 @@ test("a token response naming an empty token is refused", () => {
 
 test("a token response missing a required field is refused", () => {
   for (const missing of ["access_token", "refresh_token", "expires_in"]) {
-    const payload: Record<string, unknown> = { ...TOKEN_BODY, expires_in: 28_800 }
+    const payload: Record<string, unknown> = { ...TOKEN_OK }
     delete payload[missing]
     expect(OAUTH_TOKEN_RESPONSE_SCHEMA.safeParse(payload).success).toBe(false)
   }
@@ -94,54 +101,35 @@ test("a token response naming an unusable number is refused", () => {
 })
 
 test("a realistic usage response parses", () => {
-  const parsed = USAGE_RESPONSE_SCHEMA.safeParse({
-    five_hour: { utilization: 12.5, resets_at: "2026-09-02T18:00:00Z" },
-    seven_day: { utilization: 63, resets_at: "2026-09-06T00:00:00Z" },
-  })
+  const parsed = USAGE_RESPONSE_SCHEMA.safeParse(USAGE_REALISTIC)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.five_hour.utilization).toBe(12.5)
   expect(parsed.data?.seven_day.resets_at).toBe("2026-09-06T00:00:00Z")
 })
 
 test("a usage window naming a null reset parses", () => {
-  const parsed = USAGE_RESPONSE_SCHEMA.safeParse({
-    five_hour: { utilization: 0, resets_at: null },
-    seven_day: { utilization: 0, resets_at: null },
-  })
+  const parsed = USAGE_RESPONSE_SCHEMA.safeParse(USAGE_NULL_RESETS)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.five_hour.resets_at).toBeNull()
 })
 
 test("a usage response carrying keys the shape does not name keeps them", () => {
-  const parsed = USAGE_RESPONSE_SCHEMA.safeParse({
-    five_hour: { utilization: 12.5, resets_at: null, remaining: 4 },
-    seven_day: { utilization: 63, resets_at: null },
-    seven_day_opus: { utilization: 1, resets_at: null },
-  })
+  const parsed = USAGE_RESPONSE_SCHEMA.safeParse(USAGE_EXTRA_KEYS)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.five_hour.remaining).toBe(4)
   expect(parsed.data?.seven_day_opus).toEqual({ utilization: 1, resets_at: null })
 })
 
 test("a usage window missing its reset key is refused", () => {
-  const parsed = USAGE_RESPONSE_SCHEMA.safeParse({
-    five_hour: { utilization: 12.5 },
-    seven_day: { utilization: 63, resets_at: null },
-  })
-  expect(parsed.success).toBe(false)
+  expect(USAGE_RESPONSE_SCHEMA.safeParse(USAGE_NO_RESET_KEY).success).toBe(false)
 })
 
 test("a usage response missing a window is refused", () => {
-  const parsed = USAGE_RESPONSE_SCHEMA.safeParse({
-    five_hour: { utilization: 12.5, resets_at: null },
-  })
-  expect(parsed.success).toBe(false)
+  expect(USAGE_RESPONSE_SCHEMA.safeParse(USAGE_ONE_WINDOW).success).toBe(false)
 })
 
 test("a realistic profile response parses", () => {
-  const parsed = PROFILE_RESPONSE_SCHEMA.safeParse({
-    account: { uuid: FAKE_ACCOUNT_UUID, email: "fleet-07@example.invalid" },
-  })
+  const parsed = PROFILE_RESPONSE_SCHEMA.safeParse(PROFILE_REALISTIC)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.account.uuid).toBe(FAKE_ACCOUNT_UUID)
   expect(parsed.data?.account.email).toBe("fleet-07@example.invalid")
@@ -155,10 +143,7 @@ test("a profile response missing its optional email parses", () => {
 })
 
 test("a profile response carrying keys the shape does not name keeps them", () => {
-  const parsed = PROFILE_RESPONSE_SCHEMA.safeParse({
-    account: { uuid: FAKE_ACCOUNT_UUID, has_claude_max: true },
-    organization: { uuid: FAKE_ORG_UUID, name: "Fleet" },
-  })
+  const parsed = PROFILE_RESPONSE_SCHEMA.safeParse(PROFILE_EXTRA_KEYS)
   expect(parsed.success).toBe(true)
   expect(parsed.data?.account.has_claude_max).toBe(true)
   expect(parsed.data?.organization).toEqual({ uuid: FAKE_ORG_UUID, name: "Fleet" })
@@ -170,10 +155,7 @@ test("a profile response naming an empty account uuid is refused", () => {
 })
 
 test("a `__proto__` key in a parsed body reaches no prototype", () => {
-  const hostile: unknown = JSON.parse(
-    `{"account":{"uuid":"${FAKE_ACCOUNT_UUID}"},"__proto__":{"polluted":1}}`
-  )
-  const parsed = PROFILE_RESPONSE_SCHEMA.safeParse(hostile)
+  const parsed = PROFILE_RESPONSE_SCHEMA.safeParse(PROFILE_WITH_PROTO)
   expect(parsed.success).toBe(true)
   expect(Object.hasOwn({}, "polluted")).toBe(false)
 })
@@ -312,11 +294,7 @@ test("an open breaker skips a re-poll", () => {
 })
 
 test("a breaker skip is decided before the minimum interval is read", () => {
-  const staleAttempt: RepollGateState = {
-    lastAttemptMs: NOW - 10 * REPOLL_MIN_INTERVAL_MS,
-    breakerUntilMs: NOW + REPOLL_BREAKER_MS,
-  }
-  expect(decideUsageRepoll(staleAttempt, NOW)).toEqual(breakerSkip(300))
+  expect(decideUsageRepoll(STALE_ATTEMPT, NOW)).toEqual(breakerSkip(300))
 })
 
 test("a breaker whose instant has arrived skips nothing", () => {
@@ -325,8 +303,7 @@ test("a breaker whose instant has arrived skips nothing", () => {
 })
 
 test("a closed breaker inside the minimum interval falls to the interval skip", () => {
-  const recent: RepollGateState = { lastAttemptMs: NOW - 30_000, breakerUntilMs: NOW - 1 }
-  expect(decideUsageRepoll(recent, NOW)).toEqual(intervalSkip(30))
+  expect(decideUsageRepoll(RECENT_ATTEMPT, NOW)).toEqual(intervalSkip(30))
 })
 
 test("a recorded attempt leaves an open breaker open", () => {
@@ -344,8 +321,7 @@ test("a second rate limit pushes the breaker instant out", () => {
 })
 
 test("nothing here reads a clock", () => {
-  const state: RepollGateState = { lastAttemptMs: 0, breakerUntilMs: null }
-  expect(decideUsageRepoll(state, 10_000)).toEqual(decideUsageRepoll(state, 10_000))
+  expect(decideUsageRepoll(AT_EPOCH, 10_000)).toEqual(decideUsageRepoll(AT_EPOCH, 10_000))
   expect(backoffExpiryMs({ now: 0, retryAfterHeader: null })).toBe(5_000)
 })
 
