@@ -20,7 +20,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   seatEditsAt,
   seatRefusalsAt,
@@ -114,7 +114,7 @@ function seeding(root: string): string {
   writing(root, SEAT_AT, SEAT_BODY)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
-  rebuiltIn(root, TREE)
+  refreshedIn(root, TREE)
   listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
   return root
 }

@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
-export const rebuilding = {
+export const indexKeeping = {
   id: "01a0584f-30ed-7000-bd17-95f4f41ac634",
   type: "module",
-  slug: "rebuilding",
+  slug: "index-keeping",
   definition: "the index reconciled against what the pages say, file by file",
   code: "ts",
   test: "ts",

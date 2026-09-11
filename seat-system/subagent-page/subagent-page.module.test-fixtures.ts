@@ -7,7 +7,7 @@ import {
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   listedTakenFrom,
-  rebuiltIn,
+  refreshedIn,
   valueTakenFrom,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
@@ -54,7 +54,7 @@ export function seated(root: string): string {
   writing(root, REPO_AT, REPO_BODY)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
-  rebuiltIn(root, TREE)
+  refreshedIn(root, TREE)
   listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
   valueAlsoFiled(root, "seat", [
     {

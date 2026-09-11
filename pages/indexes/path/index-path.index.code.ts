@@ -6,6 +6,7 @@ import type {
   FoldersBy,
   UncommittedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { keepWhole } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import {
   claimsOf,
@@ -13,7 +14,6 @@ import {
   type SidecarsBy,
   under,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import { keepWhole } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

@@ -9,7 +9,7 @@ import {
   reconcile,
   takenAway,
   wholeOf,
-} from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
+} from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
 
 const scratch = scratchWorld()
 

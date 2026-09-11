@@ -9,7 +9,7 @@ import { scratchWorld } from "akasha/commands/modules/scratching/scratching.modu
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
-  rebuiltIn,
+  refreshedIn,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
@@ -282,7 +282,7 @@ export function seeded(root: string): Shadow {
     put(root, at, `export const ${exportedAs(slug)} = ${JSON.stringify(one)}\n`)
   }
   put(root, `${AKASHA}/${FORMAT}.name-format.code.ts`, JUDGING)
-  rebuiltIn(root, AKASHA)
+  refreshedIn(root, AKASHA)
   return shadowAt(root)
 }
 

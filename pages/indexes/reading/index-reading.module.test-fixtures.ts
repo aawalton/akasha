@@ -303,14 +303,14 @@ export function indexTakenFrom(root: string): undefined {
   rmSync(indexIn(root), { recursive: true, force: true })
 }
 
-export function rebuiltIn(
+export function refreshedIn(
   root: string,
   tree: string
 ): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
   return refreshedFrom(join(root, tree), indexIn(root), root)
 }
 
-export function rebuiltApart(root: string, tree: string, aside: string): readonly string[] {
+export function refreshedApart(root: string, tree: string, aside: string): readonly string[] {
   refreshedFrom(join(root, tree), aside, root)
   return everyFileUnder(aside)
 }
@@ -396,7 +396,7 @@ export function moduleTyped(root: string): undefined {
 }
 
 export function pagesRebuilt(root: string): string {
-  rebuiltIn(root, TREE)
+  refreshedIn(root, TREE)
   moduleTyped(root)
   importFiled(root, IMPORTS_NONE, [])
   admitting(root)

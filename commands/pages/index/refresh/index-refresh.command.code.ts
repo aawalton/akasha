@@ -4,9 +4,9 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { holding } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
+import type { Drift } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Drift } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 export const DRY_RUN = "--dry-run"

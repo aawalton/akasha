@@ -12,6 +12,13 @@ import {
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
+import {
+  type Drift,
+  keepDelta,
+  type Laid,
+  reconcile,
+  takenAway,
+} from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
 import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   bodiesAt,
@@ -20,13 +27,6 @@ import {
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { sidecarsIn, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import {
-  type Drift,
-  keepDelta,
-  type Laid,
-  reconcile,
-  takenAway,
-} from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {

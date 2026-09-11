@@ -22,7 +22,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import {
   seatEditsAt,
@@ -95,7 +95,7 @@ export function seated(root: string): string {
   writing(root, IMPORTING_AT, 'import { held } from "./held.ts"\n\nexport const holding = held\n')
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
-  rebuiltIn(root, TREE)
+  refreshedIn(root, TREE)
   return root
 }
 

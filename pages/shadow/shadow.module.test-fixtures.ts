@@ -11,7 +11,7 @@ import {
   VOCABULARY,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { keepingIn } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
-import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { type Cast, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
@@ -50,7 +50,7 @@ export function seeded(): string {
   const repo = scratch.rootFor("akasha-shadow-")
   for (const [at, value] of PAGES) put(repo, join(AKASHA, at), bodyOf(value))
   for (const [at, body] of BODIES) put(repo, join(AKASHA, at), body)
-  rebuiltIn(repo, AKASHA)
+  refreshedIn(repo, AKASHA)
   return repo
 }
 
@@ -161,7 +161,7 @@ export function seededNaming(): string {
   put(repo, join(AKASHA, namingAt), bodyOf(named))
   put(repo, join(AKASHA, NAME_AT), bodyOf(naming("page")))
   put(repo, join(AKASHA, SHARED_AT), bodyOf(SHARED))
-  rebuiltIn(repo, AKASHA)
+  refreshedIn(repo, AKASHA)
   return repo
 }
 

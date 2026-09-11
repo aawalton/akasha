@@ -18,8 +18,8 @@ import {
   listedFiledIn,
   listedTakenFrom,
   listedUnreadableFiled,
-  rebuiltApart,
-  rebuiltIn,
+  refreshedApart,
+  refreshedIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
@@ -109,11 +109,11 @@ function repoAt(): string {
 }
 
 function wantedFor(root: string): readonly string[] {
-  return rebuiltApart(root, TREE, scratch.rootFor("akasha-wanted-"))
+  return refreshedApart(root, TREE, scratch.rootFor("akasha-wanted-"))
 }
 
 function seeded(root: string): undefined {
-  rebuiltIn(root, TREE)
+  refreshedIn(root, TREE)
 }
 
 function givenAt(root: string): Given {
@@ -151,7 +151,7 @@ test("the flags are read, and a call naming none is read too", () => {
   expect(readIn([])).toEqual({ dryRun: false })
 })
 
-test("an index that is not there is built, and it is the index a clean rebuild builds", () => {
+test("an index that is not there is written, and it is the index a fresh refresh writes", () => {
   const root = repoAt()
   const wanted = wantedFor(root)
   const answer = indexRefresh([], givenAt(root))
@@ -166,7 +166,7 @@ test("the commit the index was built over is named in the report", () => {
   expect(said(answer)).toContain(git(root, ["rev-parse", "HEAD"]).trim())
 })
 
-test("a damaged index is put back to what a clean rebuild builds", () => {
+test("a damaged index is put back to what a fresh refresh writes", () => {
   const root = repoAt()
   seeded(root)
   const wanted = wantedFor(root)

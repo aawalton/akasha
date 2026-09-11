@@ -28,7 +28,7 @@ export const index = {
     "module/generated-properties",
     "module/beside-turning",
     "module/reaching",
-    "module/rebuilding",
+    "module/index-keeping",
     "module/index-shape",
     "module/package-reaching",
     "module/property-carrying",
