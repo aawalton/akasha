@@ -118,7 +118,7 @@ async function carriedOver(held: Carried, moved: ReadonlyMap<string, string>): P
 function keysAt(world: World, at: string, was: string): readonly string[] {
   const text = world.textOf(at) ?? ""
   const held = [PAGE_TYPE_KEY, PAGE_TYPE_SLUG].filter((key) => text.includes(`${key}: "${was}"`))
-  return held.length === 0 ? [PAGE_TYPE_SLUG] : held
+  return held.length === 0 ? [PAGE_TYPE_KEY] : held
 }
 
 async function pageAnew(

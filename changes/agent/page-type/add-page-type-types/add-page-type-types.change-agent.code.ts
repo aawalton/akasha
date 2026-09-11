@@ -4,7 +4,7 @@ import {
   refusing,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import { pageIn, typeIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   isLedger,
   ledgerAt,
@@ -28,8 +28,6 @@ const TYPES = "types"
 const HOLDS = "ts"
 
 const PAGE_TYPE = "page-type"
-
-const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const SLUG = "slug"
 
@@ -111,7 +109,7 @@ export async function addPageTypeTypes(
 ): Promise<Answer> {
   const owner = pageIn(world, given.at)
   if (owner === null) return refusing(`\`${given.at}\` names no page`)
-  if (textAt(owner, PAGE_TYPE_SLUG) !== PAGE_TYPE) {
+  if (typeIn(owner) !== PAGE_TYPE) {
     return refusing(`\`${given.at}\` is no page type, so no type of a page type is written for it`)
   }
   const slug = textAt(owner, SLUG)

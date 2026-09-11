@@ -8,7 +8,7 @@ const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
 const ROOT = "akasha/"
 
-const TYPE_KEY = "pageTypeSlug"
+const TYPE_KEY = "type"
 
 const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/gm
 

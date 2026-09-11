@@ -112,7 +112,7 @@ test("the import reaches the type file beside the page type where that page type
 test("a body stating no page type is refused", async () => {
   const said = await runChange(worldOf("export const kept = {}\n", []), { at: AT, to: TO })
 
-  expect(said.refused).toBe(`\`${AT}\` states no \`pageTypeSlug\`, so no page type is restated`)
+  expect(said.refused).toBe(`\`${AT}\` states no \`type\`, so no page type is restated`)
 })
 
 test("a body stating the page type named already is refused", async () => {
