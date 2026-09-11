@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const tailFold = {
   id: "01a064f0-734e-7895-96ab-58a7eeeeee3b",
