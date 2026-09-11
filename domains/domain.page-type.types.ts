@@ -4,6 +4,7 @@ import type { Definition } from "akasha/domains/properties/definition.standard-a
 import type { Directives } from "akasha/domains/properties/directives.record-property.types.ts"
 import type { Expands } from "akasha/domains/properties/expands.boolean-property.types.ts"
 import type { Invariants } from "akasha/domains/properties/invariants.record-property.types.ts"
+import type { OutputDirectory } from "akasha/domains/properties/output-directory.build-folder-property.types.ts"
 import type { Parts } from "akasha/domains/properties/parts.relation-property.types.ts"
 import type { PluralSlug } from "akasha/domains/properties/plural-slug.text-property.types.ts"
 import type { TypescriptConfig } from "akasha/domains/properties/typescript-config.file-property.types.ts"
@@ -19,4 +20,5 @@ export type Domain = Page & {
   tunnelRoutes?: TunnelRoutes
   typescriptConfig?: TypescriptConfig
   linkedAt?: LinkedAt
+  outputDirectory?: OutputDirectory
 }
