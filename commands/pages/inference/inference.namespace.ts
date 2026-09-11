@@ -9,12 +9,10 @@ export const inference = {
   parts: [
     "command/inference-activate",
     "command/inference-active",
-    "command/inference-apply",
     "command/inference-capabilities",
     "command/inference-edit",
     "command/inference-generate",
     "command/inference-music",
-    "command/inference-plan",
     "command/inference-segment",
     "command/inference-status",
     "command/inference-upscale",
