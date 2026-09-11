@@ -2,13 +2,14 @@ import {
   chmodSync,
   existsSync,
   mkdirSync,
+  readdirSync,
   readFileSync,
   renameSync,
   rmSync,
   statSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import {
   alive,
   holderOf,
@@ -147,8 +148,20 @@ function besideOr(page: string): string {
   return at
 }
 
+function sweptBeside(full: string): undefined {
+  const here = dirname(full)
+  const opens = `${basename(full)}.`
+  const closes = `.${PART}`
+  for (const one of readdirSync(here)) {
+    if (!one.startsWith(opens) || !one.endsWith(closes)) continue
+    if (one.length <= opens.length + closes.length) continue
+    rmSync(join(here, one), { force: true })
+  }
+}
+
 function writtenAt(full: string, page: string, values: Value): undefined {
   const scratch = `${full}.${process.pid}.${PART}`
+  sweptBeside(full)
   const found = statSync(full, { throwIfNoEntry: false })
   writeFileSync(scratch, bodyFor(page, values), "utf8")
   if (found !== undefined) chmodSync(scratch, found.mode & MODE_BITS)

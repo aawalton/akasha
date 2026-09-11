@@ -1,5 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { chmodSync, existsSync, mkdirSync, statSync, utimesSync, writeFileSync } from "node:fs"
+import {
+  chmodSync,
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  statSync,
+  utimesSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
@@ -19,6 +27,12 @@ const PAGE = "akasha/one/amy.seat.ts"
 const BESIDE = "akasha/one/amy.seat.uncommitted.ts"
 
 const LOCK = `${BESIDE}.lock`
+
+const PART = "part"
+
+const HERE = dirname(BESIDE)
+
+const OTHER = `dalla.seat.uncommitted.ts.4242.${PART}`
 
 const CODE_AT = join(dirname(import.meta.path), "page-uncommitted.module.code.ts")
 
@@ -79,6 +93,27 @@ async function gonePid(): Promise<number> {
   kid.kill("SIGKILL")
   await kid.exited
   return kid.pid
+}
+
+function partsIn(root: string): readonly string[] {
+  return readdirSync(join(root, HERE))
+    .filter((one) => one.endsWith(`.${PART}`))
+    .sort()
+}
+
+function strayBeside(root: string, said: string, body: string): undefined {
+  writeFileSync(`${join(root, BESIDE)}.${said}.${PART}`, body, "utf8")
+}
+
+async function struck(root: string): Promise<boolean> {
+  const kid = bunning(keeping(root, 40, 2000000))
+  const end = Date.now() + 10000
+  while (kid.exitCode === null && Date.now() < end && partsIn(root).length === 0) {
+    await Bun.sleep(1)
+  }
+  kid.kill("SIGKILL")
+  await kid.exited
+  return partsIn(root).length > 0
 }
 
 function locked(root: string, mark: string): string {
@@ -331,6 +366,38 @@ test("keeping again keeps the mode the file already had", () => {
   chmodSync(join(root, BESIDE), 0o640)
   keepUncommitted(root, PAGE, { beats: 2 })
   expect(modeOf(join(root, BESIDE))).toBe(0o640)
+})
+
+test("a scratch file another writer left beside the file goes with the next write", () => {
+  const root = rooted()
+  strayBeside(root, "4242", "")
+  strayBeside(root, `${process.pid}`, "export const amySeatUnc")
+  keepUncommitted(root, PAGE, { held: "one" })
+  expect(partsIn(root)).toEqual([])
+  strayBeside(root, "4243", "export const amySeatUnc")
+  mergeUncommitted(root, PAGE, { beats: 1 })
+  expect(partsIn(root)).toEqual([])
+  expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 1 })
+})
+
+test("a scratch file of another page in that folder is left where it is", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1, gateway: "up" })
+  writeFileSync(join(root, HERE, OTHER), "", "utf8")
+  strayBeside(root, "4242", "")
+  dropUncommitted(root, PAGE, ["beats"])
+  expect(partsIn(root)).toEqual([OTHER])
+  expect(uncommittedIn(root, PAGE)).toEqual({ gateway: "up" })
+})
+
+test("a scratch file a killed writer left behind goes with the next write", async () => {
+  const root = rooted()
+  let left = false
+  for (let n = 0; n < 6 && !left; n += 1) left = await struck(root)
+  expect(left).toBe(true)
+  keepUncommitted(root, PAGE, { held: "one" })
+  expect(partsIn(root)).toEqual([])
+  expect(uncommittedIn(root, PAGE)).toEqual({ held: "one" })
 })
 
 test("dropping a key keeps the mode the file already had", () => {

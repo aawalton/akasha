@@ -92,6 +92,21 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A write takes away every scratch file beside the file before writing its own scratch file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A scratch file there while the lock is held is dead, whatever process left that scratch file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A write that dies before its rename leaves a scratch file the next write takes away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Values merge key by key into the values already there.",
     },
     {
@@ -118,6 +133,10 @@ export const pageUncommitted = {
     {
       invariantKind: "absence",
       statement: "A reader takes no lock.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing asks whether the process that left a scratch file is alive.",
     },
   ],
 } as const satisfies Module
