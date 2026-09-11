@@ -70,6 +70,12 @@ export const aineResourceManagement = {
       workingMemory:
         "seat-launching states CPUQuota=800%, it reaches one seat of seventeen, and nothing on the host has ever been throttled. A ceiling holds even where every other core is idle, so on a 24 processor machine that is usually not full it can only make Alan wait longer for a seat he is waiting on. A share is free while the machine is quiet and divides fairly while it is busy, which is the whole job.\n",
     },
+    {
+      statement:
+        "Every kind of work an agent starts is stopped at an elapsed time as well as at a processor time.",
+      workingMemory:
+        "The same eight kinds. maxCpuSeconds is judged by ranOver and refuses with check-over-its-ceiling. maxWallSeconds and maxMemoryMb are declared beside it on module-property-group and on code-file-property, read by no code, and no page states either. A run blocked on a network call or on a lock spends no processor seconds, so the one ceiling enforced never ends it however long Alan waits on it.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
