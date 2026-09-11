@@ -16,10 +16,6 @@ export const id = {
       invariantKind: "departure",
       statement: "A page being created states no id of its own.",
     },
-    {
-      invariantKind: "gap",
-      statement: "An id stated by hand is judged by no check on a mechanical landing.",
-    },
   ],
   types: "ts",
 } as const satisfies TextProperty
