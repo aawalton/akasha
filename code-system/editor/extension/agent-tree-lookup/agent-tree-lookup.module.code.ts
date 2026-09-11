@@ -1,6 +1,9 @@
-import type { HarnessRow } from "../agent-forest-answer/agent-forest-answer.module.code.ts"
-import type { AgentNode } from "../agent-row/agent-row.module.code.ts"
-import { SEAT_MODE_SCHEMA, type SeatMode } from "../seat-mode/seat-mode.module.code.ts"
+import type { HarnessRow } from "akasha/code-system/editor/extension/agent-forest-answer/agent-forest-answer.module.code.ts"
+import type { AgentNode } from "akasha/code-system/editor/extension/agent-row/agent-row.module.code.ts"
+import {
+  SEAT_MODE_SCHEMA,
+  type SeatMode,
+} from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
 
 export function readSeatPlaces(rows: readonly HarnessRow[]): ReadonlyMap<string, SeatMode> {
   const places = new Map<string, SeatMode>()
