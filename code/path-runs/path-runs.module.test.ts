@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
+import { runsIn } from "akasha/code/path-runs/path-runs.module.code.ts"
 
 test("a run of path characters is answered with the line that run sits on", () => {
   expect(runsIn("one\nsay a/b here\n")).toEqual([{ line: 2, said: ["a/b", "b"], rooted: false }])
