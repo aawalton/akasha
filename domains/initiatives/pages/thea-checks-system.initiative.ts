@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "5 in play, from 31. The three on check-reaches-a-path-through-the-index closed at 1384333f09, each restating what a probe measured rather than naming a state to reach. 5 wait behind the experimental flag on identifier-matches-its-place and no-unparsed-boundary-read. Two on repository-is-written-by-a-change want a `.gitignore` below the root read, which loosens the check, and a write followed through a wrapper. Three serve the model checks, at zero runs.",
+        "3 in play, from 31, all on the model checks, and 5 more wait behind the experimental flag on identifier-matches-its-place and no-unparsed-boundary-read. The three on check-reaches-a-path-through-the-index closed at 1384333f09 and the two on repository-is-written-by-a-change at 37e471c7dd and 2e9bc728d6, each having named a state the check's own model cannot reach, so each is an absence now. The last three wait on one call: whether the model checks, at zero runs, are built out or taken away.",
     },
 
     {
