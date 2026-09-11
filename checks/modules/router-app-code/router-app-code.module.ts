@@ -30,5 +30,19 @@ export const routerAppCode = {
       invariantKind: "departure",
       statement: "A module under a `.server` folder is server-only too.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The paths judged under a router app are the changed paths that app's folder holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change to a router app's page or route table widens those to every path under that app.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path named for no TypeScript file is left out of them.",
+    },
   ],
 } as const satisfies Module

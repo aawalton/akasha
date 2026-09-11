@@ -1,10 +1,10 @@
 import { join } from "node:path"
-import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   APP,
   folderOf,
   modulesIn,
+  pathsFor,
   serverNamed,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
@@ -145,20 +145,10 @@ function reasonFor(one: Reached): string {
   return `line ${one.line} reaches \`${one.said}\`, a server-only module — ${ONLY}`
 }
 
-function underOf(app: App, paths: readonly string[]): readonly string[] {
-  return paths.filter((one) => one.startsWith(app.at) && textNamed(one))
-}
-
-export function pathsFor(app: App, changed: readonly string[], asking: Asking): readonly string[] {
-  const carried = underOf(app, changed)
-  if (!carried.includes(app.table) && !carried.includes(app.page)) return carried
-  return [...new Set([...carried, ...underOf(app, asking.everyPath())])].sort()
-}
-
 export function refusalsOver(changed: readonly string[], asking: Asking): readonly Judged[] {
   const said: Judged[] = []
   for (const app of appsIn(asking)) {
-    const paths = pathsFor(app, changed, asking)
+    const paths = pathsFor(app, changed, () => asking.everyPath())
     if (paths.length === 0) continue
     const routes = routesOf(app, asking)
     for (const path of paths) {

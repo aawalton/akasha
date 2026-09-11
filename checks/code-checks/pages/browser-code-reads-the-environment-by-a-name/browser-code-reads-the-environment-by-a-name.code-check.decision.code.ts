@@ -4,6 +4,7 @@ import {
   APP,
   folderOf,
   modulesIn,
+  pathsFor,
   serverNamed,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
@@ -271,16 +272,6 @@ export function reasonsIn(
   return said
 }
 
-function underOf(app: App, paths: readonly string[]): readonly string[] {
-  return paths.filter((one) => one.startsWith(app.at))
-}
-
-export function pathsFor(app: App, changed: readonly string[], asking: Asking): readonly string[] {
-  const carried = underOf(app, changed)
-  if (!carried.includes(app.table) && !carried.includes(app.page)) return carried
-  return [...new Set([...carried, ...underOf(app, asking.everyPath())])].sort()
-}
-
 export function refusalsOver(paths: readonly string[], asking: Asking): readonly Judged[] {
   const every = new Set(asking.everyPath())
   const known = (at: string): boolean => every.has(at)
@@ -295,7 +286,9 @@ export function refusalsOver(paths: readonly string[], asking: Asking): readonly
   }
   const said: Judged[] = []
   for (const app of appsIn(asking)) {
-    const under = pathsFor(app, paths, asking).filter((one) => !passedOver(one, app))
+    const under = pathsFor(app, paths, () => asking.everyPath()).filter(
+      (one) => !passedOver(one, app)
+    )
     if (under.length === 0) continue
     const routes = routesOf(app, asking)
     for (const path of under) {

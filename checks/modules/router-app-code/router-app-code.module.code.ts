@@ -47,3 +47,23 @@ export function foldersFor(shadow: Shadow): readonly string[] {
 export function insideAnApp(path: string, shadow: Shadow): boolean {
   return textNamed(path) && foldersFor(shadow).some((one) => path.startsWith(one))
 }
+
+export type Packaged = {
+  readonly at: string
+  readonly page: string
+  readonly table: string
+}
+
+function underOf(app: Packaged, paths: readonly string[]): readonly string[] {
+  return paths.filter((one) => one.startsWith(app.at) && textNamed(one))
+}
+
+export function pathsFor(
+  app: Packaged,
+  changed: readonly string[],
+  everyPath: () => readonly string[]
+): readonly string[] {
+  const carried = underOf(app, changed)
+  if (!carried.includes(app.table) && !carried.includes(app.page)) return carried
+  return [...new Set([...carried, ...underOf(app, everyPath())])].sort()
+}
