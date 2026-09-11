@@ -38,16 +38,29 @@ const DECLARED = "function"
 
 const ARROW = "=>"
 
+function naming(name: ts.BindingName, take: (one: string) => undefined): undefined {
+  if (ts.isIdentifier(name)) {
+    take(name.text)
+    return
+  }
+  const object = ts.isObjectBindingPattern(name)
+  for (const one of name.elements) {
+    if (!ts.isBindingElement(one)) continue
+    if (object && one.propertyName === undefined && one.dotDotDotToken === undefined) continue
+    naming(one.name, take)
+  }
+}
+
 function bound(fn: ts.FunctionLikeDeclaration): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   const take = (name: string): undefined => {
     if (!found.has(name)) found.set(name, `$${found.size}`)
   }
-  for (const one of fn.parameters) if (ts.isIdentifier(one.name)) take(one.name.text)
+  for (const one of fn.parameters) naming(one.name, take)
   const walk = (node: ts.Node): undefined => {
-    if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name)) take(node.name.text)
+    if (ts.isVariableDeclaration(node)) naming(node.name, take)
     if (ts.isFunctionExpression(node) || ts.isArrowFunction(node)) {
-      for (const one of node.parameters) if (ts.isIdentifier(one.name)) take(one.name.text)
+      for (const one of node.parameters) naming(one.name, take)
     }
     ts.forEachChild(node, walk)
   }

@@ -43,6 +43,74 @@ test("a local bound in the body is read as the order it is bound, not as its nam
   expect(ruleFor(one, "held")).toBe(ruleFor(two, "held"))
 })
 
+test("a name an array pattern binds is read as its order, not as its name", () => {
+  const one = `function held(said: readonly string[]): string {
+  const [first = ""] = said
+  return first.trim()
+}
+`
+  const two = `function held(said: readonly string[]): string {
+  const [only = ""] = said
+  return only.trim()
+}
+`
+  expect(ruleFor(one, "held")).toBe(ruleFor(two, "held"))
+})
+
+test("a renamed object property is read as its order, the property staying as written", () => {
+  const one = `function held(said: { key: string }): string {
+  const { key: first } = said
+  return first.trim()
+}
+`
+  const two = `function held(said: { key: string }): string {
+  const { key: only } = said
+  return only.trim()
+}
+`
+  expect(ruleFor(one, "held")).toBe(ruleFor(two, "held"))
+})
+
+test("a name a pattern takes the rest into is read as its order", () => {
+  const one = `function held(said: { key: string; more: string }): number {
+  const { key, ...first } = said
+  return Object.keys(first).length + key.length
+}
+`
+  const two = `function held(said: { key: string; more: string }): number {
+  const { key, ...only } = said
+  return Object.keys(only).length + key.length
+}
+`
+  expect(ruleFor(one, "held")).toBe(ruleFor(two, "held"))
+})
+
+test("a name a parameter's own pattern binds is read as its order", () => {
+  const one = `function held({ key: first }: { key: string }): string {
+  return first.trim()
+}
+`
+  const two = `function held({ key: only }: { key: string }): string {
+  return only.trim()
+}
+`
+  expect(ruleFor(one, "held")).toBe(ruleFor(two, "held"))
+})
+
+test("a shorthand name in an object pattern stays as written, naming the property read", () => {
+  const one = `function held(said: { first: string; only: string }): string {
+  const { first } = said
+  return first.trim()
+}
+`
+  const two = `function held(said: { first: string; only: string }): string {
+  const { only } = said
+  return only.trim()
+}
+`
+  expect(ruleFor(one, "held")).not.toBe(ruleFor(two, "held"))
+})
+
 test("a name the function does not bind stays as it is written", () => {
   const one = `function held(said: string): string {
   return upper(said)

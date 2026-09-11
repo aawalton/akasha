@@ -21,6 +21,18 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A name a destructuring pattern binds is read as its order.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shorthand name in an object pattern is read as written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shorthand name names the property that pattern reads.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether the file exports a function is answered beside its rule.",
     },
     {
