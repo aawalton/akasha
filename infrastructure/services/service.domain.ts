@@ -19,11 +19,7 @@ export const service = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A kind of service is named `service` and then the thing running it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The three kinds of service sit in folders beside each other under this domain.",
+      statement: "The three services a runner keeps up sit in folders beside each other here.",
     },
   ],
 } as const satisfies Domain

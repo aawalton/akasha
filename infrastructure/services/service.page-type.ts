@@ -5,25 +5,29 @@ export const service = {
   pageTypeSlug: "page-type",
   type: "page-type",
   slug: "service",
-  definition: "a program the system runs on its own",
+  definition: "a thing a deploy puts up",
   pluralSlug: "services",
   extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service is started by its runner rather than by hand.",
+      statement: "A service is put up by a deploy rather than by hand.",
     },
     {
       invariantKind: "departure",
-      statement: "A service's runner settles which kind of service that service is.",
+      statement: "A service a runner keeps up is named `service` and then that runner.",
     },
     {
       invariantKind: "departure",
-      statement: "A service states the program the service runs.",
+      statement: "A service a runner keeps up is started by that runner rather than by hand.",
     },
     {
       invariantKind: "departure",
-      statement: "A service states whether that service is to be running.",
+      statement: "A service a runner keeps up states the program that service runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service a runner keeps up states whether that service is to be running.",
     },
     {
       invariantKind: "absence",
