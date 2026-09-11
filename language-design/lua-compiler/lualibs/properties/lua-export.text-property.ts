@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LuaExport = string
-
 export const luaExport = {
   id: "01a08168-a789-7c4b-8c96-68f15749213a",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const luaExport = {
       statement: "The name is stated rather than worked out from the page's slug.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type HostAddress = string
-
 export const hostAddress = {
   id: "01a07c91-58b9-7703-9263-891c8377ebae",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const hostAddress = {
   definition: "where on the house network the host answers",
   maxLength: 45,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

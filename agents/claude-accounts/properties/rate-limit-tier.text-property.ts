@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RateLimitTier = string
-
 export const rateLimitTier = {
   id: "01a054d8-1d39-7f41-9807-f31d695573c1",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const rateLimitTier = {
       statement: "A tier is written as Anthropic spells that tier.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

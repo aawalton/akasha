@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Pattern = string
-
 export const pattern = {
   id: "01a05950-57fe-7e42-81cf-987da9b05f9e",
   pageTypeSlug: "text-property",
@@ -34,4 +32,5 @@ export const pattern = {
       statement: "A pattern that does not compile is no pattern.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

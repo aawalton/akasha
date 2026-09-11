@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type InstallPath = string
-
 export const installPath = {
   id: "01a06861-49aa-732d-b17a-0d0fb92dccad",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const installPath = {
   definition: "where outside akasha the body is put so the thing reading it finds it",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

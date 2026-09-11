@@ -1,5 +1,5 @@
-import type { Instead } from "akasha/domains/taboo-terms/properties/instead.text-property.ts"
-import type { Sense } from "akasha/domains/taboo-terms/properties/sense.text-property.ts"
+import type { Instead } from "akasha/domains/taboo-terms/properties/instead.text-property.types.ts"
+import type { Sense } from "akasha/domains/taboo-terms/properties/sense.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 

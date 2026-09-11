@@ -1,5 +1,5 @@
-import type { OctalysisDefinition } from "akasha/design/games/drives/properties/octalysis-definition.text-property.ts"
-import type { OctalysisName } from "akasha/design/games/drives/properties/octalysis-name.text-property.ts"
+import type { OctalysisDefinition } from "akasha/design/games/drives/properties/octalysis-definition.text-property.types.ts"
+import type { OctalysisName } from "akasha/design/games/drives/properties/octalysis-name.text-property.types.ts"
 import type { OctalysisNumber } from "akasha/design/games/drives/properties/octalysis-number.number-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 

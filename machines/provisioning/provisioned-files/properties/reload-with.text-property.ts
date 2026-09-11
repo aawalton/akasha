@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ReloadWith = string
-
 export const reloadWith = {
   id: "01a06861-49aa-76f2-affd-b68bc4f6045a",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const reloadWith = {
   definition: "what is run after the body is placed so the placing takes effect",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

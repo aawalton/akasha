@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SubscriptionDisabledReason = string
-
 export const subscriptionDisabledReason = {
   id: "01a054d8-1d39-7c38-bbf0-00a17589572e",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const subscriptionDisabledReason = {
       statement: "The account is usable again once this reason is taken away.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

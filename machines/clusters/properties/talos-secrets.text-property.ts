@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TalosSecrets = string
-
 export const talosSecrets = {
   id: "01a081cf-aa06-78f6-a57a-b9ebe5e7c333",
   pageTypeSlug: "text-property",
@@ -26,4 +24,5 @@ export const talosSecrets = {
       statement: "The keys inside the bundle are Talos's own rather than this property's.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

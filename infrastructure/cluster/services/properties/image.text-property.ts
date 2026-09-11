@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Image = string
-
 export const image = {
   id: "01a05b26-f8b6-73e6-aedb-75b88fac6b4b",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const image = {
         "A workload running more than one container states the image of the container the workload is for.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

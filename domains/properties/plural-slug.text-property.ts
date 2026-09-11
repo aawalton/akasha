@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PluralSlug = string
-
 export const pluralSlug = {
   id: "01a04fd9-50dd-74e4-86cd-6f72698418e2",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const pluralSlug = {
         "A folder with a page that states a plural slug takes its name from that plural slug.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

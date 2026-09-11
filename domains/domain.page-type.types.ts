@@ -4,7 +4,7 @@ import type { Directives } from "akasha/domains/properties/directives.record-pro
 import type { Expands } from "akasha/domains/properties/expands.boolean-property.types.ts"
 import type { Invariants } from "akasha/domains/properties/invariants.record-property.ts"
 import type { Parts } from "akasha/domains/properties/parts.relation-property.types.ts"
-import type { PluralSlug } from "akasha/domains/properties/plural-slug.text-property.ts"
+import type { PluralSlug } from "akasha/domains/properties/plural-slug.text-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 
 export type Domain = Page & {

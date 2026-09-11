@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RescuedAccessToken = string
-
 export const rescuedAccessToken = {
   id: "01a0637b-78ba-7119-9765-d08c368d42c0",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const rescuedAccessToken = {
       statement: "The rescued access token is the token the sops file did not take.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

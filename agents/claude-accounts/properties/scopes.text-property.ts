@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type Scope = string
-export type Scopes = List<Scope>
 
 export const scopes = {
   id: "01a054d8-1d39-7232-855e-3f83e6fed615",
@@ -23,4 +21,5 @@ export const scopes = {
       statement: "The scopes sit in the order the grant returned.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

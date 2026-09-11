@@ -1,9 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type ToolName = string
-
-export type OverTools = List<ToolName>
 
 export const overTools = {
   id: "01a04e0a-f8fd-794e-bc2d-4463964ebf9f",
@@ -37,4 +34,5 @@ export const overTools = {
       statement: "A tool name is no pattern.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

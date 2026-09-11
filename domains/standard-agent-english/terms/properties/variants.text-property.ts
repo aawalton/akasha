@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Variants = List<string>
 
 export const variants = {
   id: "01a08249-f82c-7f1b-8203-9dcefa386e51",
@@ -30,4 +27,5 @@ export const variants = {
       statement: "A spelling no variant states is a spelling nothing finds.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

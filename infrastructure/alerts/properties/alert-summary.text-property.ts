@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AlertSummary = string
-
 export const alertSummary = {
   id: "01a06755-0778-707f-9e4a-5ccb7cd1e5a0",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const alertSummary = {
       statement: "An unraised alert reads as a template left unfilled.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ResourceKind = string
-
 export const resourceKind = {
   id: "01a05a41-58c4-774b-900e-126b3c832eb0",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const resourceKind = {
       statement: "The kind named here has a pod template.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

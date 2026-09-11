@@ -1,6 +1,6 @@
 import type { Brand } from "akasha/machines/computers/properties/brand.select-property.types.ts"
 import type { ComputerLink } from "akasha/machines/computers/properties/computer-link.url-property.types.ts"
-import type { ComputerModel } from "akasha/machines/computers/properties/computer-model.text-property.ts"
+import type { ComputerModel } from "akasha/machines/computers/properties/computer-model.text-property.types.ts"
 import type { ComputerStatus } from "akasha/machines/computers/properties/computer-status.select-property.types.ts"
 import type { Cost } from "akasha/machines/computers/properties/cost.number-property.types.ts"
 import type { Cpu } from "akasha/machines/computers/properties/cpu.select-property.types.ts"

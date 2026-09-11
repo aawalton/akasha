@@ -1,5 +1,5 @@
-import type { Claim } from "akasha/domains/findings/properties/claim.text-property.ts"
-import type { Evidence } from "akasha/domains/findings/properties/evidence.text-property.ts"
+import type { Claim } from "akasha/domains/findings/properties/claim.text-property.types.ts"
+import type { Evidence } from "akasha/domains/findings/properties/evidence.text-property.types.ts"
 import type { PageDomain } from "akasha/domains/properties/page-domain.relation-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 

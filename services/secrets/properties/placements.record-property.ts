@@ -1,6 +1,6 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { ResourceName } from "../../../infrastructure/cluster/services/properties/resource-name.text-property.ts"
+import type { ResourceName } from "../../../infrastructure/cluster/services/properties/resource-name.text-property.types.ts"
 import type { ResourceKey } from "./resource-key.text-property.types.ts"
 
 export type Placement = {

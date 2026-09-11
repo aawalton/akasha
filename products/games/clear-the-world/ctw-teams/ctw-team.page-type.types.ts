@@ -1,4 +1,4 @@
-import type { Hex } from "akasha/design/interfaces/colors/properties/hex.text-property.ts"
+import type { Hex } from "akasha/design/interfaces/colors/properties/hex.text-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 import type { CellsCleared } from "akasha/products/games/clear-the-world/ctw-teams/properties/cells-cleared.number-property.types.ts"

@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type KeptSense = string
-export type KeptSenses = List<KeptSense>
 
 export const keptSenses = {
   id: "01a05d78-f343-7862-8bea-66d8b696dedb",
@@ -31,4 +29,5 @@ export const keptSenses = {
       statement: "A kept sense names nothing to write in its place.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,8 +1,8 @@
 import type { Code } from "akasha/code-system/modules/properties/code.code-file-property.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { CompiledLua } from "akasha/language-design/lua-compiler/lualibs/properties/compiled-lua.code-file-property.ts"
-import type { LuaExport } from "akasha/language-design/lua-compiler/lualibs/properties/lua-export.text-property.ts"
-import type { LuaFeature } from "akasha/language-design/lua-compiler/lualibs/properties/lua-feature.text-property.ts"
+import type { LuaExport } from "akasha/language-design/lua-compiler/lualibs/properties/lua-export.text-property.types.ts"
+import type { LuaFeature } from "akasha/language-design/lua-compiler/lualibs/properties/lua-feature.text-property.types.ts"
 import type { Lua50Code } from "akasha/language-design/lua-compiler/lualibs/properties/lua50-code.code-file-property.ts"
 
 export type Lualib = Domain & {

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type OctalysisDefinition = string
-
 export const octalysisDefinition = {
   id: "01a06756-f65a-72fb-a0c1-4ae3bcfb2665",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const octalysisDefinition = {
   definition: "how Chou defines a drive",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

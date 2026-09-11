@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AlertDomain = string
-
 export const alertDomain = {
   id: "01a06755-0778-78ee-bf36-f7fd5ffa5619",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const alertDomain = {
       statement: "An alert naming a person is owed to that person rather than to an area.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty
