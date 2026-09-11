@@ -34,6 +34,14 @@ export const addonMetadataCopy = {
     },
     {
       invariantKind: "departure",
+      statement: "A line the game fills in while running loads every name that line reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What such a line fills in stops at the folder separator.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every directory under the addon's metadata folder is copied whole.",
     },
     {

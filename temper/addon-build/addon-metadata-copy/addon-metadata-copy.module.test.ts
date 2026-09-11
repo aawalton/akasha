@@ -47,4 +47,16 @@ describe("unlistedIn", () => {
   it("names a document under a folder by the path the manifest would load it at", () => {
     expect(unlistedIn(["parts/one.xml"], MANIFEST)).toEqual(["parts/one.xml"])
   })
+
+  it("leaves markup a line the game fills in while running reaches", () => {
+    const manifest = "## Title: One\n\nPC/backupfont_$(language).xml\n"
+    expect(unlistedIn(["PC/backupfont_en.xml", "PC/backupfont_zh.xml"], manifest)).toEqual([])
+  })
+
+  it("names markup a line the game fills in while running does not reach", () => {
+    const manifest = "## Title: One\n\nPC/backupfont_$(language).xml\n"
+    expect(unlistedIn(["Console/backupfont_en.xml"], manifest)).toEqual([
+      "Console/backupfont_en.xml",
+    ])
+  })
 })

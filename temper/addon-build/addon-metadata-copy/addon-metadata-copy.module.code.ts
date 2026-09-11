@@ -24,6 +24,8 @@ import {
 
 const RUNTIME_TOKEN = /\$\([^)]*\)/
 
+const MEANS_MORE = /[.*+?^${}()|[\]\\]/g
+
 const SHIPPED_BY_MANIFEST = addonManifestSchema
   .pick({ additionalLuaFiles: true, assets: true, xmlFiles: true })
   .passthrough()
@@ -39,9 +41,22 @@ export function listedIn(manifest: string): readonly string[] {
     .map((one) => one.trim())
 }
 
+export function matcherFor(one: string): RegExp | null {
+  if (!RUNTIME_TOKEN.test(one)) return null
+  const parts = one.split(RUNTIME_TOKEN).map((part) => part.replace(MEANS_MORE, "\\$&"))
+  return new RegExp(`^${parts.join("[^/]+")}$`)
+}
+
 export function unlistedIn(held: readonly string[], manifest: string): readonly string[] {
-  const named = new Set(listedIn(manifest))
-  return held.filter((one) => LOADED_BY_MANIFEST.test(one) && !named.has(one)).sort()
+  const listed = listedIn(manifest)
+  const named = new Set(listed)
+  const filled = listed.flatMap((one) => {
+    const matcher = matcherFor(one)
+    return matcher === null ? [] : [matcher]
+  })
+  const loaded = (one: string): boolean =>
+    named.has(one) || filled.some((matcher) => matcher.test(one))
+  return held.filter((one) => LOADED_BY_MANIFEST.test(one) && !loaded(one)).sort()
 }
 
 function heldUnder(dir: string, under: string): readonly string[] {
