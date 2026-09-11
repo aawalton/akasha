@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const towerAndTheStar0021SixOfSixWhatSheKnows = {
   id: "01a064b4-9ec8-7dc8-9529-d9e41b40bc56",

@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const theDungeonOfOneThousandDeaths0003LiraFirstCompelled = {
   id: "01a064b4-9ec8-785c-9aef-db0c7e35fe6b",

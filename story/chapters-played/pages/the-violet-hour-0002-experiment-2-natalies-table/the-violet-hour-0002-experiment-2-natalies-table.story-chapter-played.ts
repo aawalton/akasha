@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const theVioletHour0002Experiment2NataliesTable = {
   id: "01a064b4-9ec8-7fad-9af8-bc1bf26cb130",

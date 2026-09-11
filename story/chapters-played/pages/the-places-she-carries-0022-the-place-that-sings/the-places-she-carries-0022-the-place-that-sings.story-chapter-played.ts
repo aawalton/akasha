@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const thePlacesSheCarries0022ThePlaceThatSings = {
   id: "01a064b4-9ec8-7ccf-8d4a-fb285f7b8d21",

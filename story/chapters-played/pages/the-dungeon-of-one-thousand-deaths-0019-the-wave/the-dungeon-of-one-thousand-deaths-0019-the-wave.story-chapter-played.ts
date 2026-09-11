@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const theDungeonOfOneThousandDeaths0019TheWave = {
   id: "01a064b4-9ec8-7cea-8ee8-861221075333",

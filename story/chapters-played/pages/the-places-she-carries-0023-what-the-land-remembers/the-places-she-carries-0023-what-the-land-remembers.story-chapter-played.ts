@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const thePlacesSheCarries0023WhatTheLandRemembers = {
   id: "01a064b4-9ec8-7ff5-b991-1fdc9b5b81eb",

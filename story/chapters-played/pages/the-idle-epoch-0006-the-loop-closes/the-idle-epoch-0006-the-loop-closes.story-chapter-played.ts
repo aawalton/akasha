@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const theIdleEpoch0006TheLoopCloses = {
   id: "01a064b4-9ec8-77aa-b185-4cb161861366",

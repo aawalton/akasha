@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
+import type { StoryChapterPlayed } from "akasha/story/chapters-played/story-chapter-played.page-type.types.ts"
 
 export const towerAndTheStar0017TheBondTrial = {
   id: "01a064b4-9ec8-7f56-b42b-690b5e0aef19",
