@@ -9,11 +9,6 @@ export const astraIndexCleanup = {
   persona: "astra",
   intents: [
     {
-      statement: "One page says every place akasha keeps a store under the git directory.",
-      workingMemory:
-        "Said today by a constant apiece and by nothing together: `INDEX_AT` in `pages/indexes/surface/index-surface.module.code.ts`, `DATA_AT` in `files/data-place/data-place.module.code.ts`, `STATE_DIR` in `git/push-handoff/git-push-handoff.module.code.ts`, and the parse cache's own. Nothing can read a page to find a store's place, the index being what a page is read through.",
-    },
-    {
       statement: "A change refuses a path that is no page's.",
       workingMemory:
         "`remove-folder.change-mechanical-folder.code.ts` calls `remove-file` on every file under the folder, under the `relation-not-left-hanging` and `import-not-left-hanging` guards. Over `.git/data/index` that asked 409k times whether an index answer going left a page's relation hanging, and spent 1333 processor seconds against the 300 it is allowed.",
