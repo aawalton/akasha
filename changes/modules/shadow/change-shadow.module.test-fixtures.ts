@@ -1,6 +1,23 @@
 import { expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  type BodyOf,
+  refusing,
+  replayed,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  ledgerAt,
+  NOTHING_OVER,
+  type Reached,
+  type Reaching,
+  reach,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratch, textIn } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
@@ -13,18 +30,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
-import { type BodyOf, refusing, replayed, stating } from "../answer/change-answer.module.code.ts"
-import type { Answer } from "../answer/change-answer.module.types.ts"
-import {
-  ledgerAt,
-  NOTHING_OVER,
-  type Reached,
-  type Reaching,
-  reach,
-  type World,
-  worldAt,
-} from "./change-shadow.module.code.ts"
 
 const MODULES = "node_modules"
 

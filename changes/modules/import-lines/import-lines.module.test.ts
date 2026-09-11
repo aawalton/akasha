@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import ts from "typescript"
 import {
   anchorIn,
   importsIn,
@@ -10,7 +8,9 @@ import {
   namingOf,
   openedIn,
   withoutOne,
-} from "./import-lines.module.code.ts"
+} from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 const AT = "akasha/one.module.code.ts"
 

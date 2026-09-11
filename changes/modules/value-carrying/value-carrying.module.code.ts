@@ -1,12 +1,12 @@
-import { gathered, missing } from "../answer/change-answer.module.code.ts"
-import type { Answer } from "../answer/change-answer.module.types.ts"
+import { gathered, missing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   isLedger,
   ledgerAt,
   type Reaches,
   reach,
   type World,
-} from "../shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

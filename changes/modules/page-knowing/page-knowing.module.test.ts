@@ -1,5 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  afterIn,
+  namersIn,
+  pageIn,
+  readFor,
+  singleIn,
+  spelledIn,
+  targetsIn,
+} from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   HELD_CODE,
   HELD_PAGE,
   indexedRepo,
@@ -8,16 +22,6 @@ import {
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { NOTHING_OVER, type World, worldAt } from "../shadow/change-shadow.module.code.ts"
-import {
-  afterIn,
-  namersIn,
-  pageIn,
-  readFor,
-  singleIn,
-  spelledIn,
-  targetsIn,
-} from "./page-knowing.module.code.ts"
 
 afterAll(scratch.sweep)
 

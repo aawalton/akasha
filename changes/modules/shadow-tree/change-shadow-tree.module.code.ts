@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { trackedUnder } from "akasha/git/pathspec/git-pathspec.module.code.ts"
-import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
-import { walkedUnder } from "../../../pages/indexes/tree-reading/tree-reading.module.code.ts"
-import type { Answer } from "../answer/change-answer.module.types.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 
 const OUTSIDE = ".."
 

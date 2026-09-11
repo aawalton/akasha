@@ -1,11 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
-import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { pathsOf } from "../answer/change-answer.module.code.ts"
-import type { FileChange } from "../answer/change-answer.module.types.ts"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsAt,
@@ -13,7 +10,10 @@ import {
   foldedIn,
   keptAt,
   keptEdits,
-} from "./edits-keeping.module.code.ts"
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

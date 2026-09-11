@@ -1,20 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  HELD_CODE,
-  indexedRepo,
-  NAMER_CODE,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { runChange as addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
-import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as addFile } from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
+import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   beyond,
   gathered,
   pathsIn,
   refusing,
   stating,
-} from "../answer/change-answer.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   addedTo,
   changeOver,
@@ -27,7 +20,7 @@ import {
   type World,
   worldAt,
   worldOver,
-} from "./change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   AUTHORED_AT,
   answeredOf,
@@ -38,7 +31,14 @@ import {
   LOOSE,
   REORDERED,
   withheldExactly,
-} from "./change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  HELD_CODE,
+  indexedRepo,
+  NAMER_CODE,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

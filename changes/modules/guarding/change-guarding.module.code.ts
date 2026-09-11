@@ -1,8 +1,11 @@
-import { NOT_WORKED_OUT } from "../../../pages/shadow/shadow.module.code.ts"
-import { refusing, replayed } from "../answer/change-answer.module.code.ts"
-import type { Answer, Replayed } from "../answer/change-answer.module.types.ts"
-import { castingOn, type World } from "../shadow/change-shadow.module.code.ts"
-import type { Guard, Guarding } from "./change-guarding.module.types.ts"
+import { refusing, replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer, Replayed } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type {
+  Guard,
+  Guarding,
+} from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { castingOn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export const NOT_READ = "the index this guard reads could not be read"
 

@@ -1,9 +1,9 @@
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { eachTarget, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugOf, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import type { World } from "../shadow/change-shadow.module.code.ts"
 
 export type Read = { readonly known: Shaped; readonly value: Value } | { readonly refused: string }
 

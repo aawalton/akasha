@@ -11,7 +11,7 @@ import type {
   Replayed,
   Said,
   Splice,
-} from "./change-answer.module.types.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
 

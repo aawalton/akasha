@@ -1,6 +1,17 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  type BodyOf,
+  gathered,
+  NOT_TEXT,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  FileChange,
+  Held,
+  Reading,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
@@ -10,8 +21,6 @@ import {
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
-import { type BodyOf, gathered, NOT_TEXT } from "../answer/change-answer.module.code.ts"
-import type { Answer, FileChange, Held, Reading } from "../answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
 

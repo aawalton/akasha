@@ -1,8 +1,8 @@
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
-import type { FileChange } from "../answer/change-answer.module.types.ts"
-import { appendEdits } from "../edits-keeping/edits-keeping.module.code.ts"
 
 const SUBAGENT = "subagent"
 

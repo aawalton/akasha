@@ -1,8 +1,12 @@
 import { expect, test } from "bun:test"
+import type { Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  without,
+  withProperty,
+  withValue,
+} from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
+import { listIn, literalIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import type { Splice } from "../answer/change-answer.module.types.ts"
-import { listIn, literalIn } from "../page-literal/page-literal.module.code.ts"
-import { without, withProperty, withValue } from "./literal-splicing.module.code.ts"
 
 const AT = "one/held.module.ts"
 

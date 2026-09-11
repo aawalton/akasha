@@ -1,12 +1,12 @@
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { literalIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   placingOver,
   readingOf,
   typingOver,
 } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import ts from "typescript"
-import { pathsIn } from "../answer/change-answer.module.code.ts"
-import { literalIn } from "../page-literal/page-literal.module.code.ts"
-import type { World } from "../shadow/change-shadow.module.code.ts"
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
 

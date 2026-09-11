@@ -1,6 +1,6 @@
+import type { Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { keyOf } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import ts from "typescript"
-import type { Splice } from "../answer/change-answer.module.types.ts"
-import { keyOf } from "../page-literal/page-literal.module.code.ts"
 
 function commaAfter(text: string, from: number, limit: number): number {
   for (let at = from; at < limit; at += 1) {

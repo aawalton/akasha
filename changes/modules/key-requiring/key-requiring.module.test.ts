@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { worldAt } from "../shadow/change-shadow.module.code.ts"
-import { requiredIn } from "./key-requiring.module.code.ts"
+import { requiredIn } from "akasha/changes/modules/key-requiring/key-requiring.module.code.ts"
+import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const ROOT = "/var/tmp/key-requiring"
 

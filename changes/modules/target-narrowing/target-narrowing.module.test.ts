@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { NOTHING_OVER, type World } from "../shadow/change-shadow.module.code.ts"
-import { narrows, slugIn } from "./target-narrowing.module.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  narrows,
+  slugIn,
+} from "akasha/changes/modules/target-narrowing/target-narrowing.module.code.ts"
 
 const PARENTS: Readonly<Record<string, string>> = {
   "file-code": "change-target-subtype/file",

@@ -1,12 +1,36 @@
+import {
+  type BodyOf,
+  beyond,
+  gathered,
+  notText,
+  pathsIn,
+  refusing,
+  replayed,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  Bodies,
+  FileChange,
+  Held,
+  Replayed,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  treeTracked,
+  treeUnder,
+  treeUnentered,
+  underOver,
+} from "akasha/changes/modules/shadow-tree/change-shadow-tree.module.code.ts"
+import type { Changes as AgentChanges } from "akasha/changes/runners/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
+import type { Changes as MechanicalChanges } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import {
   type Facing,
   generatedIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import type { Change } from "../../../pages/change/change.module.code.ts"
-import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
-import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   type Cast,
   forgotten,
@@ -18,31 +42,7 @@ import {
   shadowAt,
   shadowFor,
   shadowOnto,
-} from "../../../pages/shadow/shadow.module.code.ts"
-import type { Changes as AgentChanges } from "../../runners/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
-import type { Changes as MechanicalChanges } from "../../runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
-import {
-  type BodyOf,
-  beyond,
-  gathered,
-  notText,
-  pathsIn,
-  refusing,
-  replayed,
-} from "../answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  Bodies,
-  FileChange,
-  Held,
-  Replayed,
-} from "../answer/change-answer.module.types.ts"
-import {
-  treeTracked,
-  treeUnder,
-  treeUnentered,
-  underOver,
-} from "../shadow-tree/change-shadow-tree.module.code.ts"
+} from "akasha/pages/shadow/shadow.module.code.ts"
 
 const BYTES = new TextEncoder()
 

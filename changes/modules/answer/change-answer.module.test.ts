@@ -8,8 +8,8 @@ import {
   spliced,
   splicedIn,
   splicing,
-} from "./change-answer.module.code.ts"
-import type { FileChange } from "./change-answer.module.types.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
 

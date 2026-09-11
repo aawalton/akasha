@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import ts from "typescript"
 import {
   entriesGoingIn,
   keysGoingIn,
   objectAt,
   objectOf,
   textAt,
-} from "./json-entries.module.code.ts"
+} from "akasha/changes/modules/json-entries/json-entries.module.code.ts"
+import ts from "typescript"
 
 const AT = "held/package.json"
 

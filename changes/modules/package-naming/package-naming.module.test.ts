@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
-import type { Splice } from "../answer/change-answer.module.types.ts"
-import { aliasIn, nameFor, spelledAnew, spelledByNaming } from "./package-naming.module.code.ts"
+import type { Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  aliasIn,
+  nameFor,
+  spelledAnew,
+  spelledByNaming,
+} from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 
 const NAMING = new Map([
   ["@akasha/code", "akasha/code-system/code-system.workspace-package.ts"],

@@ -1,4 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
+import { importNotLeftHanging } from "akasha/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  guardedBy,
+  holdsAfter,
+  takingIn,
+  textAfter,
+  writtenIn,
+} from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import {
+  type World,
+  worldAt,
+  worldOver,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   indexedRepo,
@@ -6,17 +21,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { refusing, stating } from "../answer/change-answer.module.code.ts"
-import { type World, worldAt, worldOver } from "../shadow/change-shadow.module.code.ts"
-import {
-  guardedBy,
-  holdsAfter,
-  takingIn,
-  textAfter,
-  writtenIn,
-} from "./change-guarding.module.code.ts"
-import type { Guard } from "./change-guarding.module.types.ts"
 
 afterAll(scratch.sweep)
 
@@ -83,7 +87,7 @@ test("two answers adding to one path refuse rather than being judged apart", () 
   expect(said.refused ?? "").toContain("holds a body already")
 })
 
-import { addedTo, ledgerAt } from "../shadow/change-shadow.module.code.ts"
+import { addedTo, ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 test("an answer the world already holds is judged rather than refused", () => {
   const root = indexedRepo()

@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import ts from "typescript"
 import {
   boundIn,
   keyOf,
@@ -11,7 +9,9 @@ import {
   statedIn,
   textsOf,
   valuesIn,
-} from "./page-literal.module.code.ts"
+} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 const AT = "one/held.module.ts"
 

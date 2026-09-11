@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
+import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -7,8 +9,6 @@ import {
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { type World, worldAt } from "../shadow/change-shadow.module.code.ts"
-import { claimedIn } from "./page-claiming.module.code.ts"
 
 afterAll(scratch.sweep)
 

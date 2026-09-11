@@ -1,5 +1,5 @@
+import type { Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import ts from "typescript"
-import type { Splice } from "../answer/change-answer.module.types.ts"
 
 export function objectOf(source: ts.JsonSourceFile): ts.ObjectLiteralExpression | null {
   const first = source.statements[0]

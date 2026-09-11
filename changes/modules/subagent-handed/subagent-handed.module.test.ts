@@ -1,14 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import type { FileChange } from "../answer/change-answer.module.types.ts"
-import { appendEdits } from "../edits-keeping/edits-keeping.module.code.ts"
-import { handedPageOf, handedUnder } from "./subagent-handed.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  handedPageOf,
+  handedUnder,
+} from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import {
   handedFrom,
   noSubagentFiled,
   returnedFrom,
   subagentFiled,
-} from "./subagent-handed.module.test-fixtures.ts"
+} from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 
