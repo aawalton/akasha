@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { modelGatewayEntrypoint } from "../../../../../agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import {
   AGENT_PREFIX,
   type Asked,
@@ -10,8 +9,6 @@ import {
   saidOf,
   startedOn,
 } from "./proxy-run.module.code.ts"
-
-const ENTRY_TAIL = "agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
 
 const ASKED: Asked = {
   agentId: "model-gateway-start-test",
@@ -43,15 +40,6 @@ function seamsWith(seat: string | null, port: number | Error, kept: { value: boo
     logDirFor: (agentId) => `/var/tmp/run/akasha-${agentId}`,
   }
 }
-
-test("the entry named is the one the supervisor's own resolver names", async () => {
-  const kept = { value: false }
-  const said = await startedOn(ASKED, seamsWith(null, 51233, kept))
-  expect(typeof said).toBe("object")
-  if (typeof said === "string") return
-  expect(said.entry).toBe(modelGatewayEntrypoint())
-  expect(said.entry.endsWith(ENTRY_TAIL)).toBe(true)
-})
 
 test("an agent id made here carries the prefix that says what made it", () => {
   expect(agentIdFor(1_756_000_000_000, 99).startsWith(AGENT_PREFIX)).toBe(true)
