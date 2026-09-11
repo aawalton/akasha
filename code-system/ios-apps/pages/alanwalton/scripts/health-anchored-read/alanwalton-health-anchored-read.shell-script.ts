@@ -26,5 +26,9 @@ export const alanwaltonHealthAnchoredRead = {
       invariantKind: "departure",
       statement: "A read that errored hands back the error that ended it.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "HealthKit's store is shut while the phone is locked.",
+    },
   ],
 } as const satisfies ShellScript
