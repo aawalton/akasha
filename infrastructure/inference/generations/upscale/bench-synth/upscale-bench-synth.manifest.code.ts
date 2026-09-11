@@ -1,7 +1,11 @@
 import { readFileSync } from "node:fs"
+import { join } from "node:path"
 
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { gpuVramUsableMinSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const NAMESPACE = "seaweedfs"
 
@@ -18,10 +22,25 @@ const LABELS = {
   project: "14565",
 } as const
 
-const RUNNER = readFileSync(
-  new URL("../bench-runner/upscale-bench-runner.shell-script.shell.sh", import.meta.url),
-  "utf8"
-)
+const SCRIPT = "shell-script"
+
+const BENCH_RUNNER = "upscale-bench-runner"
+
+const SHELL = "shell"
+
+const SH = "sh"
+
+function runnerAt(): string {
+  const root = ownRepoRoot()
+  const page = listedAt(root, SCRIPT, BENCH_RUNNER)[0]
+  const at = page === undefined ? null : besideAt(page.path, SHELL, SH)
+  if (at === null) {
+    throw new Error(`no \`${SCRIPT}\` is slugged \`${BENCH_RUNNER}\`, so the job has no runner`)
+  }
+  return join(root, at)
+}
+
+const RUNNER = readFileSync(runnerAt(), "utf8")
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
