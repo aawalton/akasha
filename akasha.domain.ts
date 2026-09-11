@@ -33,7 +33,6 @@ export const akasha = {
     "domain/infrastructure",
     "domain/technology",
     "domain/smilingjenny",
-    "domain/mobile-commands",
     "workspace/akasha-workspace",
     "domain/products",
     "domain/utils",
