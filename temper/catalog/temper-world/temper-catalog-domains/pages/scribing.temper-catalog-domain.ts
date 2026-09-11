@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/temper-catalog-domains/temper-catalog-domain.page-type.types.ts"
+import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
 
 export const scribing = {
   id: "01a05fc5-7431-7624-84cd-ae7a31a81cb3",
@@ -9,7 +9,7 @@ export const scribing = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-11T00:29:51.873Z",
+  capturedAt: "2026-09-11T01:31:14.558Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
