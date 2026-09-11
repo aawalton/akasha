@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraHalfTheWorldAway = {
   id: "01a0676a-d71f-7037-8051-36a97a55e022",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-half-the-world-away",
   title: "Half the World Away",

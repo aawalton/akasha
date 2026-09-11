@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineMyFavoriteGhosts = {
   id: "01a0676a-d725-7029-a7e6-1c9a5a824faf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-my-favorite-ghosts",
   title: "My Favorite Ghosts",

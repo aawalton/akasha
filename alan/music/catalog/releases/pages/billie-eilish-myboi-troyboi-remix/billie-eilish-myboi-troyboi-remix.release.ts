@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishMyboiTroyboiRemix = {
   id: "01a0676a-d725-703c-a65e-57d6c2aad7a8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-myboi-troyboi-remix",
   title: "MyBoi (TroyBoi Remix)",

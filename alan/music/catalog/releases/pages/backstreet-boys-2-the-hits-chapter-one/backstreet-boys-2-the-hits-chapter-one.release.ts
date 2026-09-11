@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2TheHitsChapterOne = {
   id: "01a0676a-d72d-7023-9348-39175e6a8228",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-the-hits-chapter-one",
   title: "The Hits--Chapter One",

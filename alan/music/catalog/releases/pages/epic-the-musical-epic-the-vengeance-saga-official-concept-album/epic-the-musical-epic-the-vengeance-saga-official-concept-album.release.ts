@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const epicTheMusicalEpicTheVengeanceSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-701f-b409-0e54f82a3de6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "epic-the-musical-epic-the-vengeance-saga-official-concept-album",
   title: "EPIC: The Vengeance Saga (Official Concept Album)",

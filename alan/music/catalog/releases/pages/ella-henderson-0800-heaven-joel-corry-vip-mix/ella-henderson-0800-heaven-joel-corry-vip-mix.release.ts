@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHenderson0800HeavenJoelCorryVipMix = {
   id: "01a0676a-d714-7002-8105-04047749f06d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-0800-heaven-joel-corry-vip-mix",
   title: "0800 HEAVEN (Joel Corry VIP Mix)",

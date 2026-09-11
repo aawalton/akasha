@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayMaMeilleureEnnemieFtColdplay = {
   id: "01a0676a-d724-7020-84d0-7fefd6d1d8a5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-ma-meilleure-ennemie-ft-coldplay",
   title: "Ma Meilleure Ennemie ft. Coldplay",

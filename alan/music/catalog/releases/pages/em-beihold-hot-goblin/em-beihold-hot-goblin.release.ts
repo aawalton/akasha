@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdHotGoblin = {
   id: "01a0676a-d720-7060-9007-602f2dc69cd5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-hot-goblin",
   title: "Hot Goblin",

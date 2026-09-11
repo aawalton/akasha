@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishSixFeetUnder = {
   id: "01a0676a-d729-7013-9a12-da54992f94ef",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",

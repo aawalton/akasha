@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2HowGreatThouArt = {
   id: "01a0676a-d720-706f-8ffa-02a4b6a03082",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-how-great-thou-art",
   title: "How Great Thou Art",

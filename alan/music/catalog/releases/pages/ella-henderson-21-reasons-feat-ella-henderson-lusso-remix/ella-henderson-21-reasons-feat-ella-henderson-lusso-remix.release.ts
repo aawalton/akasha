@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHenderson21ReasonsFeatEllaHendersonLussoRemix = {
   id: "01a0676a-d715-7000-986b-a6dff025db3c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-lusso-remix",
   title: "21 Reasons (feat. Ella Henderson) [LUSSO Remix]",

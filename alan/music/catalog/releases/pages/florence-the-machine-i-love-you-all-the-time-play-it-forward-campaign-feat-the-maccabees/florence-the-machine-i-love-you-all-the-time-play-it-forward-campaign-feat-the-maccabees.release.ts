@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineILoveYouAllTheTimePlayItForwardCampaignFeatTheMaccabees = {
   id: "01a0676a-d721-702d-ad50-574ef6ce72e6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-i-love-you-all-the-time-play-it-forward-campaign-feat-the-maccabees",
   title: "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",

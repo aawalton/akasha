@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const celticWoman2RedIsTheRose = {
   id: "01a0676a-d727-705e-8fb6-d58f40b282f8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "celtic-woman-2-red-is-the-rose",
   title: "Red is the Rose",

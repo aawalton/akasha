@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emeiIrresponsible = {
   id: "01a0676a-d722-7003-b8e7-5e5e125ac4d3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "emei-irresponsible",
   title: "Irresponsible",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelPianoMan = {
   id: "01a0676a-d726-7079-a321-b376e02dc02d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-piano-man",
   title: "Piano Man",

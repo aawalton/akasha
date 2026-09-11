@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2InAWorldLikeThisRemixes = {
   id: "01a0676a-d721-7065-9503-51c639b6e9f8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-in-a-world-like-this-remixes",
   title: "In a World Like This (Remixes)",

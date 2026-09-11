@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineHunger = {
   id: "01a0676a-d720-7073-bcd1-7aa29fcac86f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-hunger",
   title: "Hunger",

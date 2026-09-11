@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2BossaNovaBabyTheUltimateElvisPresleyPartyAlbum = {
   id: "01a0676a-d719-7026-b583-08a74eaf5564",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-bossa-nova-baby-the-ultimate-elvis-presley-party-album",
   title: "Bossa Nova Baby: The Ultimate Elvis Presley Party Album",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const celticWoman2AncientLandDeluxe = {
   id: "01a0676a-d717-7014-ae5f-9c3a0bda83ca",
-  pageTypeSlug: "release",
   type: "release",
   slug: "celtic-woman-2-ancient-land-deluxe",
   title: "Ancient Land (Deluxe)",

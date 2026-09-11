@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const chaislynAlreadyHadIt = {
   id: "01a0676a-d716-7034-96ae-ed83d4959d81",
-  pageTypeSlug: "release",
   type: "release",
   slug: "chaislyn-already-had-it",
   title: "Already Had It",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2LetItBeMeSteveAokiRemix = {
   id: "01a0676a-d723-7006-b102-15e5aa20d7c6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-let-it-be-me-steve-aoki-remix",
   title: "Let It Be Me (Steve Aoki Remix)",

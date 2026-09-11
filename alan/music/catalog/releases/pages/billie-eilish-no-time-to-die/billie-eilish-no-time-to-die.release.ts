@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishNoTimeToDie = {
   id: "01a0676a-d725-706c-aebd-6e5edbc85996",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-no-time-to-die",
   title: "No Time To Die",

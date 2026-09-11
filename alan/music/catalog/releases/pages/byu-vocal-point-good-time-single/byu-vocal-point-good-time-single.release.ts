@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointGoodTimeSingle = {
   id: "01a0676a-d71f-701e-a02d-0489761d9f8f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-good-time-single",
   title: "Good Time - Single",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayOrphansArabesque = {
   id: "01a0676a-d726-704d-8d82-9deea1d89de8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-orphans-arabesque",
   title: "Orphans / Arabesque",

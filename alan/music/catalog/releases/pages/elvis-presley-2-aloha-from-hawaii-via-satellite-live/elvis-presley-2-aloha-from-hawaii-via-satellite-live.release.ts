@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2AlohaFromHawaiiViaSatelliteLive = {
   id: "01a0676a-d716-7032-944f-4458fc5a61a2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-aloha-from-hawaii-via-satellite-live",
   title: "Aloha from Hawaii Via Satellite (Live)",

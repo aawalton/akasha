@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonAlibiFeatRudimental = {
   id: "01a0676a-d716-7006-a396-b90e207cf872",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-alibi-feat-rudimental",
   title: "Alibi (feat. Rudimental)",

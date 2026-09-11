@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emeiHoldOnMeRemixes = {
   id: "01a0676a-d720-704a-bb46-466f32b49463",
-  pageTypeSlug: "release",
   type: "release",
   slug: "emei-hold-on-me-remixes",
   title: "Hold On Me (Remixes)",

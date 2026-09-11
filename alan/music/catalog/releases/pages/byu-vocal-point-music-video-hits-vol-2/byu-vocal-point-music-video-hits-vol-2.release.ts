@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointMusicVideoHitsVol2 = {
   id: "01a0676a-d725-7020-9793-d1e33c13237a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-music-video-hits-vol-2",
   title: "Music Video Hits, Vol. 2",

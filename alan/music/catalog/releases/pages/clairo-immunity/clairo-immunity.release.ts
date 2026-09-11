@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const clairoImmunity = {
   id: "01a0676a-d721-7061-80ab-00e116bbcbdf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "clairo-immunity",
   title: "Immunity",

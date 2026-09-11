@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2LetItBeMeSondrRemix = {
   id: "01a0676a-d723-7005-8c45-26d3bb8e7d9c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-let-it-be-me-sondr-remix",
   title: "Let It Be Me (Sondr Remix)",

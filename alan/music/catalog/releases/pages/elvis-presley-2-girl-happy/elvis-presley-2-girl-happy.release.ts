@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2GirlHappy = {
   id: "01a0676a-d71e-7066-aed1-00e465bf2c33",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-girl-happy",
   title: "Girl Happy",

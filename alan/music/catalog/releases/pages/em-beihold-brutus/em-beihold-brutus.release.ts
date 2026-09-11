@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdBrutus = {
   id: "01a0676a-d719-703f-9f3c-56382bf0982a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-brutus",
   title: "Brutus",

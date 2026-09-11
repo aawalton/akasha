@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointEdmACappellaMashup = {
   id: "01a0676a-d71c-7050-a621-856d62d18859",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-edm-a-cappella-mashup",
   title: "EDM A Cappella Mashup",

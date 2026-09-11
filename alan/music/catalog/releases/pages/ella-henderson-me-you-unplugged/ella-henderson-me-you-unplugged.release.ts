@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonMeYouUnplugged = {
   id: "01a0676a-d724-7041-90f6-e230c5ecae61",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-me-you-unplugged",
   title: "Me & You (Unplugged)",

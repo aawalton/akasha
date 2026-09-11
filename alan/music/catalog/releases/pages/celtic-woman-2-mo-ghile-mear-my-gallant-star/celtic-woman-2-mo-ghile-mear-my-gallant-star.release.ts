@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const celticWoman2MoGhileMearMyGallantStar = {
   id: "01a0676a-d724-707d-a0ba-6b26dc48eb66",
-  pageTypeSlug: "release",
   type: "release",
   slug: "celtic-woman-2-mo-ghile-mear-my-gallant-star",
   title: "Mo Ghile Mear (My Gallant Star)",

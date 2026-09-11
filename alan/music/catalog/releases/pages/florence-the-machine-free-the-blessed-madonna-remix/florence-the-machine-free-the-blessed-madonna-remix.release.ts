@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineFreeTheBlessedMadonnaRemix = {
   id: "01a0676a-d71e-7035-88e0-2a7545eb3d9d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-free-the-blessed-madonna-remix",
   title: "Free (The Blessed Madonna Remix)",

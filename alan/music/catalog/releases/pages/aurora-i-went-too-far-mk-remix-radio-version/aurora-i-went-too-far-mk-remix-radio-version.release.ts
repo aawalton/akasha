@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraIWentTooFarMkRemixRadioVersion = {
   id: "01a0676a-d721-7047-a22b-008108998aff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-i-went-too-far-mk-remix-radio-version",
   title: "I Went Too Far (MK Remix) (Radio Version)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillGrafixRemix = {
   id: "01a0676a-d71b-7039-90b8-e61939cf2b3a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-crazy-what-love-can-do-with-becky-hill-grafix-remix",
   title: "Crazy What Love Can Do (with Becky Hill) [Grafix Remix]",

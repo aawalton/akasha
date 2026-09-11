@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointCircleOfLife = {
   id: "01a0676a-d71a-7050-aac3-7ed50927f62b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-circle-of-life",
   title: "Circle Of Life",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayTalk = {
   id: "01a0676a-d72b-701e-a1ca-c29888b92500",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-talk",
   title: "Talk",

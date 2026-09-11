@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineEverybodyScreamChamberVersion = {
   id: "01a0676a-d71d-7037-a1fe-cd5dcaa36578",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-everybody-scream-chamber-version",
   title: "Everybody Scream (Chamber Version)",

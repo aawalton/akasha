@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const clairoHeaven = {
   id: "01a0676a-d720-701d-b6ad-f2f2dd97a9cc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "clairo-heaven",
   title: "Heaven",

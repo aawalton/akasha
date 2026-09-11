@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const enyaTrainsAndWinterRains = {
   id: "01a0676a-d72f-7016-bfcd-743e521f133f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "enya-trains-and-winter-rains",
   title: "Trains and Winter Rains",

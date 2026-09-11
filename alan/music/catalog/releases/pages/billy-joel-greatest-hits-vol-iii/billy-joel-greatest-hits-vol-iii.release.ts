@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelGreatestHitsVolIii = {
   id: "01a0676a-d71f-702f-97a1-131d60d1b948",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-greatest-hits-vol-iii",
   title: "Greatest Hits Vol. III",

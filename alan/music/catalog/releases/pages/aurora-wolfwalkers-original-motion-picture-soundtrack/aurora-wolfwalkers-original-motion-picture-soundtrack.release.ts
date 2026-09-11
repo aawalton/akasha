@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraWolfwalkersOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d731-7031-86c8-d9e48039a2ce",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-wolfwalkers-original-motion-picture-soundtrack",
   title: "WolfWalkers (Original Motion Picture Soundtrack)",

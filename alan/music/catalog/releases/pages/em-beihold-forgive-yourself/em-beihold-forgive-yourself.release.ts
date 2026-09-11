@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdForgiveYourself = {
   id: "01a0676a-d71e-702d-b3cd-76f0838a9bdf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-forgive-yourself",
   title: "Forgive Yourself",

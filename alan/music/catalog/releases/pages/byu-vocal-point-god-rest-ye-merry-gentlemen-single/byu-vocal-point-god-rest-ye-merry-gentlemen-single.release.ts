@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointGodRestYeMerryGentlemenSingle = {
   id: "01a0676a-d71f-700e-a09f-f4cde05a4e3a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-god-rest-ye-merry-gentlemen-single",
   title: "God Rest Ye Merry, Gentlemen - Single",

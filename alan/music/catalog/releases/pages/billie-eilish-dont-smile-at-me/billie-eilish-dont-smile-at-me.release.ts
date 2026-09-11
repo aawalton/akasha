@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishDontSmileAtMe = {
   id: "01a0676a-d71c-702a-b990-601bf6f681a5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-dont-smile-at-me",
   title: "dont smile at me",

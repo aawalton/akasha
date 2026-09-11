@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1Session = {
   id: "01a0676a-d720-7001-896d-180bfc471da0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-have-yourself-a-merry-little-christmas-jo-whiley-bbc-radio-1-session",
   title: "Have Yourself a Merry Little Christmas (Jo Whiley, BBC Radio 1 Session)",

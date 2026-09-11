@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2LoveLettersFromElvis = {
   id: "01a0676a-d723-706d-92a5-b2d9c49413e2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-love-letters-from-elvis",
   title: "Love Letters from Elvis",

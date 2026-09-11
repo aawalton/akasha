@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishBitchesBrokenHearts = {
   id: "01a0676a-d719-700d-a544-70b983d614f5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-bitches-broken-hearts",
   title: "bitches broken hearts",

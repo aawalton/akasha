@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishHitMeHardAndSoft = {
   id: "01a0676a-d720-7044-a61a-bfa9a4b9867d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-hit-me-hard-and-soft",
   title: "HIT ME HARD AND SOFT",

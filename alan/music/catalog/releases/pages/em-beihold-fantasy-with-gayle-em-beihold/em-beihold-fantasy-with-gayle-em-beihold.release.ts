@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdFantasyWithGayleEmBeihold = {
   id: "01a0676a-d71d-7062-bd86-a0df8d6eae37",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-fantasy-with-gayle-em-beihold",
   title: "Fantasy (with GAYLE & Em Beihold)",

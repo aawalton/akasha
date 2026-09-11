@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emeiDonTKnowAboutTheWorld = {
   id: "01a0676a-d71c-7021-8c2a-1de193d8efa0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "emei-don-t-know-about-the-world",
   title: "Don't Know About The World",

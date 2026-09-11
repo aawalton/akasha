@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonFilthyRich = {
   id: "01a0676a-d71d-7075-8560-9b4ed5ef1c5d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-filthy-rich",
   title: "Filthy Rich",

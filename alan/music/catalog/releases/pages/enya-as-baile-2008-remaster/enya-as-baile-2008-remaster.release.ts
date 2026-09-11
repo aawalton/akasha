@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const enyaAsBaile2008Remaster = {
   id: "01a0676a-d717-7033-b4ac-031ae8c1d92a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "enya-as-baile-2008-remaster",
   title: "As Baile (2008 Remaster)",

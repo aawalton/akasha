@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraRunawayOrchestral = {
   id: "01a0676a-d728-702e-82fe-d6d0abfc3cdb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-runaway-orchestral",
   title: "Runaway (Orchestral)",

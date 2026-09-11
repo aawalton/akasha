@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2FromNashvilleToMemphisTheEssential60sMastersI = {
   id: "01a0676a-d71e-703a-9cf4-1fa127e045b0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-from-nashville-to-memphis-the-essential-60s-masters-i",
   title: "From Nashville To Memphis - The Essential 60s Masters I",

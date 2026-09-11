@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayMoonMusicFullMoonEdition = {
   id: "01a0676a-d724-7084-a614-141103c61ffb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-moon-music-full-moon-edition",
   title: "Moon Music (Full Moon Edition)",

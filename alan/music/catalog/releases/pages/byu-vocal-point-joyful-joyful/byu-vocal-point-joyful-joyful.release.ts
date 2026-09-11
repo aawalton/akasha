@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointJoyfulJoyful = {
   id: "01a0676a-d722-702a-92d5-b1e5b4b3fb11",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-joyful-joyful",
   title: "Joyful Joyful",

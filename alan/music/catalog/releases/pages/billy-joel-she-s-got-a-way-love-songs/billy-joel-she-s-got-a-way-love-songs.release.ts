@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelSheSGotAWayLoveSongs = {
   id: "01a0676a-d728-7070-8f77-dd268d703536",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-she-s-got-a-way-love-songs",
   title: "She's Got A Way: Love Songs",

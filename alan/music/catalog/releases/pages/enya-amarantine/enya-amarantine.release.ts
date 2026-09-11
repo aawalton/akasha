@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const enyaAmarantine = {
   id: "01a0676a-d716-7038-9347-59388ece1bfc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "enya-amarantine",
   title: "Amarantine",

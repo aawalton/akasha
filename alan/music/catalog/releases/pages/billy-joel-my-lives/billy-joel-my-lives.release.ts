@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelMyLives = {
   id: "01a0676a-d725-702d-b9a8-2d4f95537323",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-my-lives",
   title: "My Lives",

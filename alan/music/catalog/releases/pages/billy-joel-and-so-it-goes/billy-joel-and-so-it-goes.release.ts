@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelAndSoItGoes = {
   id: "01a0676a-d717-7018-9d62-27ea79259216",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-and-so-it-goes",
   title: "And So It Goes",

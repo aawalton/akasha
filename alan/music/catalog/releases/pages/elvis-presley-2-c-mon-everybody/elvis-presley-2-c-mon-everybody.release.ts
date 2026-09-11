@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2CMonEverybody = {
   id: "01a0676a-d719-7050-8e9e-5ec9880e2cae",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-c-mon-everybody",
   title: "C'mon Everybody",

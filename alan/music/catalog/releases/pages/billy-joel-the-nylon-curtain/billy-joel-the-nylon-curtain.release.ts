@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelTheNylonCurtain = {
   id: "01a0676a-d72d-7049-80fa-91270dc29721",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-the-nylon-curtain",
   title: "The Nylon Curtain",

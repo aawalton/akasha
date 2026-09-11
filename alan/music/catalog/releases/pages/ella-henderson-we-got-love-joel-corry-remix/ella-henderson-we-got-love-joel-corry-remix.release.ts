@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonWeGotLoveJoelCorryRemix = {
   id: "01a0676a-d730-7033-bcbc-d94d3e84adbc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-we-got-love-joel-corry-remix",
   title: "We Got Love (Joel Corry Remix)",

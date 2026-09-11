@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const enyaChristmasSecrets = {
   id: "01a0676a-d71a-7040-aba7-b1a9a97f514b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "enya-christmas-secrets",
   title: "Christmas Secrets",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayTheHardestPart = {
   id: "01a0676a-d72d-701f-9844-1c30514b04fa",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-the-hardest-part",
   title: "The Hardest Part",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelTheStrangerLegacyEdition = {
   id: "01a0676a-d72e-7011-ada6-e0c20a77e144",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-the-stranger-legacy-edition",
   title: "The Stranger (Legacy Edition)",

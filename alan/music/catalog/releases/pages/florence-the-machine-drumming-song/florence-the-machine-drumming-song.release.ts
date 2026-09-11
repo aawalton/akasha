@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineDrummingSong = {
   id: "01a0676a-d71c-703e-b908-33a41e4f1bcc",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-drumming-song",
   title: "Drumming Song",

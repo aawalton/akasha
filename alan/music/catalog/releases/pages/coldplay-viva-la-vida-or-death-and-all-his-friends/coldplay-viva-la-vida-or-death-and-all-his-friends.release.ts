@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayVivaLaVidaOrDeathAndAllHisFriends = {
   id: "01a0676a-d730-7008-a8b5-d4debeb827f7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends",
   title: "Viva La Vida or Death and All His Friends",

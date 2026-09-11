@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonMammaYouWereRight = {
   id: "01a0676a-d724-7031-90e0-313378fb60c8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-mamma-you-were-right",
   title: "Mamma You Were Right",

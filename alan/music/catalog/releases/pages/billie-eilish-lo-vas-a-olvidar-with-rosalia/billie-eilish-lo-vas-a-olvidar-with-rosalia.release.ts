@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishLoVasAOlvidarWithRosalia = {
   id: "01a0676a-d723-705c-9cbb-9a637893cdc1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-lo-vas-a-olvidar-with-rosalia",
   title: "Lo Vas A Olvidar (with ROSALÍA)",

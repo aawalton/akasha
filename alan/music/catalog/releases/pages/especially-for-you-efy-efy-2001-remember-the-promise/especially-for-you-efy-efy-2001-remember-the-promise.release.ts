@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const especiallyForYouEfyEfy2001RememberThePromise = {
   id: "01a0676a-d71c-7055-8dac-c62c1b9a738a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "especially-for-you-efy-efy-2001-remember-the-promise",
   title: "Efy 2001 - Remember the Promise",

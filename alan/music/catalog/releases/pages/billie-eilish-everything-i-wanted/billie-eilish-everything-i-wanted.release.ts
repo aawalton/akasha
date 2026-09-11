@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishEverythingIWanted = {
   id: "01a0676a-d71d-7041-ac83-71ce8e8f674f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-everything-i-wanted",
   title: "everything i wanted",

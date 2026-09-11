@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const enyaWatermark = {
   id: "01a0676a-d730-7021-b4df-40b283769c84",
-  pageTypeSlug: "release",
   type: "release",
   slug: "enya-watermark",
   title: "Watermark",

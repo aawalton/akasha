@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2FromElvisPresleyBoulevardMemphisTennessee = {
   id: "01a0676a-d71e-7039-b173-3d9d5b00e252",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-from-elvis-presley-boulevard-memphis-tennessee",
   title: "From Elvis Presley Boulevard, Memphis, Tennessee",

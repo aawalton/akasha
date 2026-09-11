@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   id: "01a0676a-d72f-7053-acf1-cf18eea9501b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-until-i-found-you-em-beihold-version",
   title: "Until I Found You (Em Beihold Version)",

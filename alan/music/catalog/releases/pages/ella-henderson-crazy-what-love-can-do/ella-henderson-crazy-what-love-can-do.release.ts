@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonCrazyWhatLoveCanDo = {
   id: "01a0676a-d71b-7033-ae87-34b0b7c000f8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-crazy-what-love-can-do",
   title: "Crazy What Love Can Do",

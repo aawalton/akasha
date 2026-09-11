@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdBlinkOfAnEye = {
   id: "01a0676a-d719-7016-bc4b-1965e8df7c00",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-blink-of-an-eye",
   title: "Blink of an Eye",

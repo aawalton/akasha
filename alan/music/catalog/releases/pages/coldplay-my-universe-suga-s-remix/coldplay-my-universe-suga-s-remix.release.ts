@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayMyUniverseSugaSRemix = {
   id: "01a0676a-d725-703b-a3f8-22041c5c5bf2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-my-universe-suga-s-remix",
   title: "My Universe (SUGA's Remix)",

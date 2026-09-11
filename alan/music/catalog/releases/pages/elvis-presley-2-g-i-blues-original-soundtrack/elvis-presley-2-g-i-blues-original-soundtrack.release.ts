@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2GIBluesOriginalSoundtrack = {
   id: "01a0676a-d71e-704c-9993-5fd27d617250",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-g-i-blues-original-soundtrack",
   title: "G.I. Blues (Original Soundtrack)",

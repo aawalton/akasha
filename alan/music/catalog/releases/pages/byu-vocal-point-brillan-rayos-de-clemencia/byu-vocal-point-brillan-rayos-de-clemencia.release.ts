@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointBrillanRayosDeClemencia = {
   id: "01a0676a-d719-7038-bdb3-537c669fce7f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-brillan-rayos-de-clemencia",
   title: "Brillan rayos de clemencia",

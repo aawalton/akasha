@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineLungs10thAnniversaryEdition = {
   id: "01a0676a-d724-7017-b5ed-348ff6a172c8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-lungs-10th-anniversary-edition",
   title: "Lungs (10th Anniversary Edition)",

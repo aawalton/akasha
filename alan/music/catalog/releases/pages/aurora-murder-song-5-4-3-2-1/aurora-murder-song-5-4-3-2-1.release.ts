@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraMurderSong54321 = {
   id: "01a0676a-d725-7018-81b8-8fdf2a7c7150",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-murder-song-5-4-3-2-1",
   title: "Murder Song (5, 4, 3, 2, 1)",

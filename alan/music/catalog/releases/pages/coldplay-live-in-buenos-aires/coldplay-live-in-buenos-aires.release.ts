@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayLiveInBuenosAires = {
   id: "01a0676a-d723-704f-86dc-ef508619b6bd",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-live-in-buenos-aires",
   title: "Live in Buenos Aires",

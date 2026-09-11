@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonUnderTheSunWithAlokSwitchDiscoKcLightsRemix = {
   id: "01a0676a-d72f-7038-b005-fcbd2086afcf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-under-the-sun-with-alok-switch-disco-kc-lights-remix",
   title: "Under The Sun (with Alok & Switch Disco) [KC Lights Remix]",

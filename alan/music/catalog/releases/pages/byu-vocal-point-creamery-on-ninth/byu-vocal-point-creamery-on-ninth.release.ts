@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointCreameryOnNinth = {
   id: "01a0676a-d71b-703b-ab14-2bbda99bab44",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-creamery-on-ninth",
   title: "Creamery on Ninth",

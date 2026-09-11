@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2ElvisRecordedLiveOnStageInMemphisLegacyEdition = {
   id: "01a0676a-d71d-7005-bce2-4a49448130a2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-elvis-recorded-live-on-stage-in-memphis-legacy-edition",
   title: "Elvis Recorded Live on Stage in Memphis (Legacy Edition)",

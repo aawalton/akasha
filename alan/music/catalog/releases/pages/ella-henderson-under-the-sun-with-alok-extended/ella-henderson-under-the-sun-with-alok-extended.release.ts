@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonUnderTheSunWithAlokExtended = {
   id: "01a0676a-d72f-703a-a576-c362ac25c9a2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-under-the-sun-with-alok-extended",
   title: "Under The Sun (with Alok) [Extended]",

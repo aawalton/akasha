@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonTakeCareOfYouAcoustic = {
   id: "01a0676a-d72b-700e-b312-554974de0356",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-take-care-of-you-acoustic",
   title: "Take Care of You (Acoustic)",

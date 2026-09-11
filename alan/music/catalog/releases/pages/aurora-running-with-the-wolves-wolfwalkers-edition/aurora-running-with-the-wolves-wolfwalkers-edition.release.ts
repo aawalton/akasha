@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraRunningWithTheWolvesWolfwalkersEdition = {
   id: "01a0676a-d728-7033-816d-2a8c47c11e6d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-running-with-the-wolves-wolfwalkers-edition",
   title: "Running with the Wolves (Wolfwalkers Edition)",

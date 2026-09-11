@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const celticWoman22020thAnniversary = {
   id: "01a0676a-d714-701c-869b-87ab384cfed8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "celtic-woman-2-20-20th-anniversary",
   title: "20 (20th Anniversary)",

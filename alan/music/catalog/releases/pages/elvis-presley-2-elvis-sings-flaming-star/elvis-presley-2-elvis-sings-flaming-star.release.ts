@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2ElvisSingsFlamingStar = {
   id: "01a0676a-d71d-7006-a7b5-2731ec771c6d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-elvis-sings-flaming-star",
   title: "Elvis Sings Flaming Star",

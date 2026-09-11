@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const epicTheMusicalEpicTheUnderworldSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-701e-a2ff-c4cfa514952a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "epic-the-musical-epic-the-underworld-saga-official-concept-album",
   title: "EPIC: The Underworld Saga (Official Concept Album)",

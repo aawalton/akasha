@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const clairoFlamingHotCheetos = {
   id: "01a0676a-d71e-7010-a389-0e7c14740a43",
-  pageTypeSlug: "release",
   type: "release",
   slug: "clairo-flaming-hot-cheetos",
   title: "Flaming Hot Cheetos",

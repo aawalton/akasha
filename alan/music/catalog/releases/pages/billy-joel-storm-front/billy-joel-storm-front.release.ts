@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelStormFront = {
   id: "01a0676a-d72a-7025-a79a-6a59496bfc6d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-storm-front",
   title: "Storm Front",

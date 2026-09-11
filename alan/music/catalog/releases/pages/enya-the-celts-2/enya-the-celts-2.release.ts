@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const enyaTheCelts2 = {
   id: "01a0676a-d72c-703d-8f20-6a326f27cf10",
-  pageTypeSlug: "release",
   type: "release",
   slug: "enya-the-celts-2",
   title: "The Celts",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2BlueHawaii = {
   id: "01a0676a-d719-701b-a423-846423498140",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-blue-hawaii",
   title: "Blue Hawaii",

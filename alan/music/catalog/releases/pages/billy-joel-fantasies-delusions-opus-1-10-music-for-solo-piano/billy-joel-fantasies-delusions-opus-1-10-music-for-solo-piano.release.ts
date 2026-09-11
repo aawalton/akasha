@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelFantasiesDelusionsOpus110MusicForSoloPiano = {
   id: "01a0676a-d71d-7060-b3b8-a64972f76028",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-fantasies-delusions-opus-1-10-music-for-solo-piano",
   title: "Fantasies & Delusions (Opus 1-10 Music for Solo Piano)",

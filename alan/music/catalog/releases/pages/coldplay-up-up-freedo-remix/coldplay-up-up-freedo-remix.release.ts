@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayUpUpFreedoRemix = {
   id: "01a0676a-d72f-7056-9e81-190e97c77ef8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-up-up-freedo-remix",
   title: "Up&Up (Freedo Remix)",

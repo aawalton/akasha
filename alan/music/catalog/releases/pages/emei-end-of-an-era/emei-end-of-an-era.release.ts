@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emeiEndOfAnEra = {
   id: "01a0676a-d71d-700e-8b54-9d934886ebdf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "emei-end-of-an-era",
   title: "End of an Era",

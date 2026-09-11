@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointWhenSheLovedMe = {
   id: "01a0676a-d730-7057-a71b-288bf82f4bb8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-when-she-loved-me",
   title: "When She Loved Me",

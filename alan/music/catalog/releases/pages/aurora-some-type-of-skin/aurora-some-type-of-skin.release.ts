@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraSomeTypeOfSkin = {
   id: "01a0676a-d729-7052-8b24-4edaddf10eeb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-some-type-of-skin",
   title: "Some Type Of Skin",

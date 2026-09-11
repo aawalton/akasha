@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplaySpeedOfSound2 = {
   id: "01a0676a-d729-707a-94c6-e607029fcb24",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-speed-of-sound-2",
   title: "Speed of Sound",

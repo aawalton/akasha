@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2ThePerfectFanDemo = {
   id: "01a0676a-d72d-7053-b170-13a30175ee75",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-the-perfect-fan-demo",
   title: "The Perfect Fan (Demo)",

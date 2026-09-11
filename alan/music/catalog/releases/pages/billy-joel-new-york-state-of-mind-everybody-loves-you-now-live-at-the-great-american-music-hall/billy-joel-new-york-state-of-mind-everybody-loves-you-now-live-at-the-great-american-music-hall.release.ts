@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelNewYorkStateOfMindEverybodyLovesYouNowLiveAtTheGreatAmericanMusicHall = {
   id: "01a0676a-d725-7058-9465-9103fec26788",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-new-york-state-of-mind-everybody-loves-you-now-live-at-the-great-american-music-hall",
   title: "New York State of Mind / Everybody Loves You Now (Live at The Great American Music Hall)",

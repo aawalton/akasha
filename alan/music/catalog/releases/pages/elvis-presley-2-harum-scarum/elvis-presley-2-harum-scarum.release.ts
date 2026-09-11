@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2HarumScarum = {
   id: "01a0676a-d71f-7058-a839-bbf973ee1acf",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-harum-scarum",
   title: "Harum Scarum",

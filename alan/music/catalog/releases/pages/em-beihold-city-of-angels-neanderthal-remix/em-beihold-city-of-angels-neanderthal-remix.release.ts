@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdCityOfAngelsNeanderthalRemix = {
   id: "01a0676a-d71a-7053-a4b2-2a84f28ebf0b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-city-of-angels-neanderthal-remix",
   title: "City of Angels (Neanderthal Remix)",

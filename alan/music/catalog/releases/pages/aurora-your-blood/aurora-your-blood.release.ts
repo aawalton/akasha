@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraYourBlood = {
   id: "01a0676a-d732-7023-a019-ca55a8591d4f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-your-blood",
   title: "Your Blood",

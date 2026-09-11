@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishCopycatSofiTukkerRemix = {
   id: "01a0676a-d71b-7028-b84c-385f85adfb21",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-copycat-sofi-tukker-remix",
   title: "COPYCAT (Sofi Tukker Remix)",

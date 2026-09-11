@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emeiWatermelonSugarSpotifySingles = {
   id: "01a0676a-d730-7023-849e-f99e80c4a7da",
-  pageTypeSlug: "release",
   type: "release",
   slug: "emei-watermelon-sugar-spotify-singles",
   title: "Watermelon Sugar (Spotify Singles)",

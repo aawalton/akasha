@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2TodayLegacyEdition = {
   id: "01a0676a-d72f-7008-b538-71e27db25113",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-today-legacy-edition",
   title: "Today (Legacy Edition)",

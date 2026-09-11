@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2ChancesMarkRalphRemix = {
   id: "01a0676a-d71a-7012-a072-917e0ec3fd13",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-chances-mark-ralph-remix",
   title: "Chances (Mark Ralph Remix)",

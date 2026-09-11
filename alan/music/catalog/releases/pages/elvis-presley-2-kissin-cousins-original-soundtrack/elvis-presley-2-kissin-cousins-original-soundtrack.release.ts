@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2KissinCousinsOriginalSoundtrack = {
   id: "01a0676a-d722-704a-80a7-79bf2127a7d2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-kissin-cousins-original-soundtrack",
   title: "Kissin' Cousins (Original Soundtrack)",

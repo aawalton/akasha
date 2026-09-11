@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointDynamiteACappella = {
   id: "01a0676a-d71c-7046-85db-fb1f8cde414c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-dynamite-a-cappella",
   title: "Dynamite (A Cappella)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emeiBetterPeopleToLeaveOnRead = {
   id: "01a0676a-d718-704e-af7a-1b120aed71f6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "emei-better-people-to-leave-on-read",
   title: "Better People To Leave On Read",

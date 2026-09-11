@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHendersonReactAcoustic = {
   id: "01a0676a-d727-704b-9858-598072d27342",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-react-acoustic",
   title: "REACT (Acoustic)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const auroraMechuleDogruKarlarUlkesi2 = {
   id: "01a0676a-d724-7047-b0aa-e62221fea608",
-  pageTypeSlug: "release",
   type: "release",
   slug: "aurora-mechule-dogru-karlar-ulkesi-2",
   title: "Meçhule Doğru (Karlar Ülkesi 2)",

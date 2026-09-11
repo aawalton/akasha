@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayHymnForTheWeekendSeebRemix = {
   id: "01a0676a-d720-707f-949c-b50a44ebc95b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-hymn-for-the-weekend-seeb-remix",
   title: "Hymn for the Weekend (Seeb Remix)",

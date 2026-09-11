@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
   id: "01a0676a-d722-7022-a6e2-179e5f43f04e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-jenny-of-oldstones-game-of-thrones",
   title: "Jenny of Oldstones (Game of Thrones)",

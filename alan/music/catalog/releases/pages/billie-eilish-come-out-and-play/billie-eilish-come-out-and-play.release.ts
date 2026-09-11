@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishComeOutAndPlay = {
   id: "01a0676a-d71b-701a-acdf-832a2a252f4f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-come-out-and-play",
   title: "come out and play",

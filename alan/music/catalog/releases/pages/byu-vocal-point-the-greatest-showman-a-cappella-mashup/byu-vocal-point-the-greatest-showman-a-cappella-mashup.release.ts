@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointTheGreatestShowmanACappellaMashup = {
   id: "01a0676a-d72d-701c-9f53-0bd84101866f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-the-greatest-showman-a-cappella-mashup",
   title: "The Greatest Showman A Cappella Mashup",

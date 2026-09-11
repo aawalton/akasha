@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdInfrared = {
   id: "01a0676a-d721-7073-b502-a4598616b640",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-infrared",
   title: "Infrared",

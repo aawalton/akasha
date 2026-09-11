@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const emBeiholdMaybeLifeIsGood = {
   id: "01a0676a-d724-703e-82e8-e5e7e58289b2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "em-beihold-maybe-life-is-good",
   title: "Maybe Life Is Good",

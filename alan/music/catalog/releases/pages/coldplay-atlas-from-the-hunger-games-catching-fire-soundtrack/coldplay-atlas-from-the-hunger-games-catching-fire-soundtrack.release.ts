@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrack = {
   id: "01a0676a-d717-703b-950a-936b0738f6f2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack",
   title: "Atlas (From “The Hunger Games: Catching Fire” Soundtrack)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineDanceFeverPoemVersions = {
   id: "01a0676a-d71b-7058-9842-b9436e8e7e16",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-dance-fever-poem-versions",
   title: "Dance Fever (Poem Versions)",

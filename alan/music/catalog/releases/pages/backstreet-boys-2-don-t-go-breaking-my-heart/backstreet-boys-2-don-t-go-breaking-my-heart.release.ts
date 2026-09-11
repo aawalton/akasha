@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const backstreetBoys2DonTGoBreakingMyHeart = {
   id: "01a0676a-d71c-701f-89e0-2c8f703b5c87",
-  pageTypeSlug: "release",
   type: "release",
   slug: "backstreet-boys-2-don-t-go-breaking-my-heart",
   title: "Don't Go Breaking My Heart",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billieEilishBadGuyWithJustinBieber = {
   id: "01a0676a-d718-7008-9c69-ff3e94f91518",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billie-eilish-bad-guy-with-justin-bieber",
   title: "bad guy (with Justin Bieber)",

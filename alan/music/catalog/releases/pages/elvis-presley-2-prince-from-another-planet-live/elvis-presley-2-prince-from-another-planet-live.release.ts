@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2PrinceFromAnotherPlanetLive = {
   id: "01a0676a-d727-701d-932c-854946200e94",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-prince-from-another-planet-live",
   title: "Prince From Another Planet (Live)",

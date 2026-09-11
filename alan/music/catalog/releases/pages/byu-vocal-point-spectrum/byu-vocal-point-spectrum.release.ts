@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointSpectrum = {
   id: "01a0676a-d729-7077-978d-75f49afafbe9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-spectrum",
   title: "Spectrum",

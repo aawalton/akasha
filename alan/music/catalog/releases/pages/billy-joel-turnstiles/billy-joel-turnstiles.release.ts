@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const billyJoelTurnstiles = {
   id: "01a0676a-d72f-7024-943b-b570ce31fa44",
-  pageTypeSlug: "release",
   type: "release",
   slug: "billy-joel-turnstiles",
   title: "Turnstiles",

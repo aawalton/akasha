@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const ellaHenderson21ReasonsFeatEllaHendersonToyboyRobinRemixExtended = {
   id: "01a0676a-d715-7003-b46d-b381d3b7a7d1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-toyboy-robin-remix-extended",
   title: "21 Reasons (feat. Ella Henderson) [Toyboy & Robin Remix] [Extended]",

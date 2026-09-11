@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const coldplayFixYou2 = {
   id: "01a0676a-d71e-7006-875c-9a56dc0c73ae",
-  pageTypeSlug: "release",
   type: "release",
   slug: "coldplay-fix-you-2",
   title: "Fix You",

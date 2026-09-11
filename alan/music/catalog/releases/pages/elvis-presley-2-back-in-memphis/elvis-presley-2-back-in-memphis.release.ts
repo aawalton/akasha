@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2BackInMemphis = {
   id: "01a0676a-d717-704a-b559-ae773b6e8089",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-back-in-memphis",
   title: "Back In Memphis",

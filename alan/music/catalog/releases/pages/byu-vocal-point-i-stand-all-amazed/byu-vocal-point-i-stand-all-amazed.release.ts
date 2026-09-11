@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const byuVocalPointIStandAllAmazed = {
   id: "01a0676a-d721-703f-bcb1-abca01ba2235",
-  pageTypeSlug: "release",
   type: "release",
   slug: "byu-vocal-point-i-stand-all-amazed",
   title: "I Stand All Amazed",

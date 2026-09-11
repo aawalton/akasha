@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const epicTheMusicalEpicTheCyclopsSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-7019-8478-8e3dba381a07",
-  pageTypeSlug: "release",
   type: "release",
   slug: "epic-the-musical-epic-the-cyclops-saga-official-concept-album",
   title: "EPIC: The Cyclops Saga (Official Concept Album)",

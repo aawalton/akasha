@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const elvisPresley2TodayTomorrowAndForever = {
   id: "01a0676a-d72f-700a-8b0e-ce183c680ff5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "elvis-presley-2-today-tomorrow-and-forever",
   title: "Today, Tomorrow and Forever",
