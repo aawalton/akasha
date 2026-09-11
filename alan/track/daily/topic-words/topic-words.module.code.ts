@@ -204,7 +204,7 @@ export function countIntelligenceTopicsForDay(roots: Roots, dayStr: string): Pro
 
 type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
 
-if (import.meta.main) {
+export async function runTopicWords(): Promise<readonly string[]> {
   const day = openedDayOf(resolveRoots(), new Date())
   const landings: readonly Landing[] = [
     ["wisdom words", () => rollupWisdomWordsForDay(day)],
@@ -220,6 +220,11 @@ if (import.meta.main) {
       process.stderr.write(`the ${field} for ${day} did not land: ${why}\n`)
     }
   }
+  if (landed.length > 0) process.stdout.write(`${day} carries ${landed.join(" and ")}\n`)
+  return landed
+}
+
+if (import.meta.main) {
+  const landed = await runTopicWords()
   if (landed.length === 0) process.exit(1)
-  process.stdout.write(`${day} carries ${landed.join(" and ")}\n`)
 }
