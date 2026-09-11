@@ -8,6 +8,7 @@ export const alanTracking = {
   definition: "the pages and row files of Alan's tracking, composed by a program and landed",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   changeKind: "change-mechanical",
   taking: [
     { said: "--file-path <path>", takes: "a path under the tracked trees to write" },

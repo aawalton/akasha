@@ -17,6 +17,10 @@ import {
   NO_GLASS,
   strayIn,
 } from "akasha/commands/pages/alan/tracking/alan-tracking.command.code.ts"
+import {
+  BESIDE_FOOD_ENTRIES,
+  OUTSIDE_AKASHA,
+} from "akasha/commands/pages/alan/tracking/alan-tracking.command.test-fixtures.ts"
 
 const ROOT = "/nowhere"
 
@@ -65,16 +69,11 @@ test("a path elsewhere under akasha is a stray", () => {
 })
 
 test("a path beside the food entries rather than under them is a stray", () => {
-  expect(
-    strayIn(ROOT, ["--file-path", "akasha/alan/track/food-entries/food-entry.page-type.ts"]).length
-  ).toBe(1)
+  expect(strayIn(ROOT, ["--file-path", BESIDE_FOOD_ENTRIES]).length).toBe(1)
 })
 
 test("a path outside akasha altogether is a stray", () => {
-  expect(
-    strayIn(ROOT, ["--remove", "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"])
-      .length
-  ).toBe(1)
+  expect(strayIn(ROOT, ["--remove", OUTSIDE_AKASHA]).length).toBe(1)
 })
 
 test("a value belonging to another flag is not read as a path", () => {
