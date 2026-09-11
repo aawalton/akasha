@@ -17,7 +17,21 @@ export const blockAkashaEdits = {
     },
     {
       invariantKind: "departure",
-      statement: "The guarded roots are the akasha folder and `.git/indexes`.",
+      statement:
+        "The guarded roots are the akasha folder, the folder git does not track, and the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing inside the index is answered with the rebuild.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing elsewhere under the folder git does not track is answered with the sweep.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No refusal over that folder names a change.",
     },
     {
       invariantKind: "departure",

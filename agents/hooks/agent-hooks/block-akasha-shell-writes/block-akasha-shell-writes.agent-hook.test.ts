@@ -8,24 +8,16 @@ import {
   programsIn,
   rawCallsIn,
   redirectsIn,
-  refusalFor,
 } from "akasha/agents/hooks/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import {
+  INSIDE,
+  REBUILD,
+  SWEEP,
+  said,
+  saidThere,
   scratch,
-  WORLD,
 } from "akasha/agents/hooks/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-
-const ROOT = rootOf(import.meta.path)
-
-const INSIDE = "inside the akasha folder"
-
-const REBUILD = "akasha index refresh"
-
-function said(command: string): string | null {
-  return refusalFor(command, ROOT, ROOT)
-}
 
 test("a copy landing inside akasha is refused", () => {
   expect(said("cp /var/tmp/x akasha/held.domain.ts")).toContain(INSIDE)
@@ -322,10 +314,6 @@ test("a call past a heredoc delimiter is another call", () => {
 
 afterAll(scratch.sweep)
 
-function saidThere(command: string): string | null {
-  return refusalFor(command, WORLD, WORLD)
-}
-
 test("a trailing separator names no link", () => {
   expect(namesTheLink("node_modules/@akasha/graph-system")).toBe(true)
   expect(namesTheLink("node_modules/@akasha/graph-system/")).toBe(false)
@@ -367,6 +355,14 @@ test("the index is guarded where the repository ignores nothing", () => {
 
 test("a removal naming a link into the index is judged where the link points", () => {
   expect(saidThere("rm index-link")).toContain(REBUILD)
+})
+
+test("a landing under the folder git does not track is answered with the sweep", () => {
+  const there = saidThere("rm -rf .git/data/reads/agent") ?? ""
+  expect(there).toContain("inside the folder git does not track")
+  expect(there).toContain(SWEEP)
+  expect(there).not.toContain("akasha change")
+  expect(saidThere("python3 -c \"open('.git/data/held','w')\"")).toContain(SWEEP)
 })
 
 test("a link over a link is judged where the link is only where it says so", () => {

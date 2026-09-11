@@ -1,6 +1,9 @@
 import { lstatSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import { guardedIn } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
+import {
+  guardedIn,
+  SWEPT,
+} from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
 import { parseHookPayload } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
@@ -341,11 +344,18 @@ function road(shown: string): readonly string[] {
   ]
 }
 
+function landingSaid(how: string, shown: string): string {
+  return how === REDIRECTED
+    ? `${HOOK_NAME}: a redirect lands on \`${shown}\``
+    : `${HOOK_NAME}: \`${how}\` lands on \`${shown}\``
+}
+
+function refusingGit(how: string, shown: string): string {
+  return [`${landingSaid(how, shown)}, inside the folder git does not track.`, ...SWEPT].join("\n")
+}
+
 function refusing(how: string, shown: string, index: boolean): string {
-  const said =
-    how === REDIRECTED
-      ? `${HOOK_NAME}: a redirect lands on \`${shown}\``
-      : `${HOOK_NAME}: \`${how}\` lands on \`${shown}\``
+  const said = landingSaid(how, shown)
   if (index) {
     return [
       `${said}, inside the akasha index.`,
@@ -425,6 +435,10 @@ export function refusalFor(command: string, from: string, root: string): string 
   for (const landing of programs) {
     const at = settled(resolve(from, landing.at))
     if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
+  }
+  for (const landing of [...landings, ...programs]) {
+    const at = settled(resolve(from, landing.at))
+    if (insideOf(guarded.git, at)) return refusingGit(landing.how, landing.at)
   }
   const judged: Judged[] = []
   for (const landing of landings) {

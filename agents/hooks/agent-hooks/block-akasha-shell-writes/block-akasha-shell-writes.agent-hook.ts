@@ -107,6 +107,19 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
+        "A landing elsewhere under the folder git does not track is answered with the sweep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That landing is guarded even where the repository ignores it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No refusal over that folder names a change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A landing inside the index is guarded even where the repository ignores that landing.",
     },
     {

@@ -3,6 +3,7 @@ import { parseHookPayload } from "akasha/agents/hooks/answer/hook-answer.module.
 import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { gitIn } from "akasha/files/git-place/git-place.module.code.ts"
 import { INDEX_AT, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
@@ -62,11 +63,20 @@ export type Asked = {
 export type Guarded = {
   readonly pages: string
   readonly index: string
+  readonly git: string
 }
 
 export function guardedIn(root: string): Guarded {
-  return { pages: settled(root), index: settled(indexIn(root)) }
+  return { pages: settled(root), index: settled(indexIn(root)), git: settled(gitIn(root)) }
 }
+
+export const SWEPT: readonly string[] = [
+  "That folder holds the repository itself rather than any page, so no change reaches it —",
+  "a change refuses a path under it. What akasha keeps there is written by akasha's own",
+  "commands, and what akasha left there goes by one call:",
+  "",
+  "  akasha git sweep",
+]
 
 export function askedIn(raw: string): Asked | null {
   let held: Record<string, unknown> | null
@@ -146,6 +156,13 @@ function refusingIndex(toolName: string, shown: string): string {
   ].join("\n")
 }
 
+function refusingGit(toolName: string, shown: string): string {
+  return [
+    `${HOOK_NAME}: ${toolName} lands on \`${shown}\`, inside the folder git does not track.`,
+    ...SWEPT,
+  ].join("\n")
+}
+
 export function refusalFor(asked: Asked, root: string, fallback: string): string | null {
   if (!JUDGED.includes(asked.toolName)) return null
   if (asked.filePath.trim() === "") return null
@@ -154,6 +171,7 @@ export function refusalFor(asked: Asked, root: string, fallback: string): string
   const here = settled(root)
   const guarded = guardedIn(here)
   if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
+  if (insideOf(guarded.git, at)) return refusingGit(asked.toolName, shownIn(here, at))
   if (insideOf(guarded.pages, at)) return refusingPages(asked.toolName, shownIn(here, at))
   return null
 }

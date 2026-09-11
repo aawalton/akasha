@@ -105,11 +105,13 @@ test("a path under the index is refused, and names the one repair", () => {
   expect(said).toContain(`\`${INDEX_AT}\` holds the index`)
 })
 
-test("`.git` outside the index is refused as the checkout rather than as the index", () => {
+test("`.git` outside the index is refused as the folder git does not track", () => {
   const root = repo()
   const said = judged(root, join(".git", "config"))
-  expect(said).toContain("inside this checkout")
+  expect(said).toContain("inside the folder git does not track")
+  expect(said).toContain("akasha git sweep")
   expect(said).not.toContain("inside the akasha index")
+  expect(said).not.toContain("akasha change")
 })
 
 test("a relative path is resolved against the working directory the call was made in", () => {
