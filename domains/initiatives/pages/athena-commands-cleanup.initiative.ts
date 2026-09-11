@@ -40,10 +40,9 @@ export const athenaCommandsCleanup = {
         "`helpOf` at `commands/modules/calling/calling.module.code.ts:226-236` renders no directive. Alan settled the reach: a directive stated on the command page or on a namespace above it, and none a page type states. `Repeating Problem` at `commands/command.page-type.ts:180` stays out, telling whoever writes a command what to do and a caller nothing. The page has two readers, and required reading already serves the author, so help is the caller's view alone.\n",
     },
     {
-      statement:
-        "A command's help states whether the call writes and the seconds the call is allowed.",
+      statement: "A command does not have a change kind.",
       workingMemory:
-        "`helpOf` at `commands/modules/calling/calling.module.code.ts:226-236` renders neither, though both sit on the page and both change what a caller does. `changeKind` says whether the call writes, whether checks run and whether readers owe a re-read, and `kindNamed` at line 178 already reads those three off the kind's page. `timeout` says the seconds, defaulting to 120 at `commands/modules/stopping/command-stopping.module.code.ts:5`.\n",
+        "`commands/command.page-type.ts:127` requires it and 225 command pages state it. `calling.module.code.ts:306,316` seeds `given.changeKind` off the page; only `warrant-owing.module.code.ts:10` and `file-arguing.module.code.ts:78` read it, and `restatedIn` at `:56` overwrites it from `--restated`, so the kind is the change's. `change-running.module.code.ts:377` already reads it off the change agent. `commands/properties/change-kind.relation-property.ts` belongs under `changes/`.\n",
     },
     {
       statement: "No command page states help notes.",
