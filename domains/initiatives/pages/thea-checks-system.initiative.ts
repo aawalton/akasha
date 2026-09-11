@@ -31,7 +31,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "66 gaps on 39 pages, not 87 on 49; a 67th is a fixture string. 8 sit on three experimental checks, out of scope, so 58 are in play. 26 landed: 21 re-kinded, 5 deleted; 67 gaps to 41 by grep. A limit wearing gap is mis-kinded, proven twice: repository-is-written-by-a-change and check-cost each set honest absences beside shortfall gaps in one hand. no-code-comments cannot read its forms from the list: a member holds a name and a gloss, no pattern.",
+        "Most were mis-kinded rather than shortfalls: a chosen limit wearing gap, proven page by page by reading the code rather than the statement. What is left is honest and closed only by doing the work; re-kinding it would be a form of words. The nested-gitignore one cannot be closed at all, since the check judges a string fragment rather than a path, so a folder-scoped rule matches nothing and a bare-name union would let build through everywhere.",
     },
   ],
   constraints: [
