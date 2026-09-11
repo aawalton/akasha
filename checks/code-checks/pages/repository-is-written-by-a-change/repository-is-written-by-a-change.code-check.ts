@@ -162,8 +162,8 @@ export const repositoryIsWrittenByAChange = {
       statement: "A `.gitignore` below the root is read by nothing here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A write through a wrapper of another module is seen.",
+      invariantKind: "absence",
+      statement: "A write another module makes for this one is seen by nothing here.",
     },
     {
       invariantKind: "absence",
