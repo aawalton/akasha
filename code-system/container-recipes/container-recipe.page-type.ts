@@ -18,6 +18,7 @@ export const containerRecipe = {
     { pageProperty: "module-property-group/composing", required: false, many: false },
     { pageProperty: "text-property/recipe-repository", required: false, many: false },
   ],
+  loadedBy: "module/recipe-composing",
   invariants: [
     {
       invariantKind: "departure",
