@@ -6,8 +6,10 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import { LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { dropReadings, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedAt,
@@ -48,6 +50,12 @@ const KIND = "dispatchedAs"
 const ID = "id"
 
 const SUFFIX = ".subagent.ts"
+
+const PAGE_TYPE = "page-type"
+
+const TYPES = "types"
+
+const TS = "ts"
 
 const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 
@@ -100,16 +108,24 @@ function said(value: string): string {
   return JSON.stringify(value)
 }
 
+function typeLineFor(root: string): string {
+  const page = listedAt(root, PAGE_TYPE, SUBAGENT)[0]
+  const at = page === undefined ? null : besideAt(page.path, TYPES, TS)
+  if (at === null) throw new Error(`no \`${PAGE_TYPE}\` is slugged \`${SUBAGENT}\``)
+  return `import type { ${typedAs(SUBAGENT)} } from "${importedFrom(at)}"`
+}
+
 export function bodyOf(
   slug: string,
   seatName: string,
   assignmentSlug: string,
   dispatchedAs: string,
   agentId: string,
-  id: string | null = null
+  id: string | null = null,
+  root: string = ownRepoRoot()
 ): string {
   return [
-    'import type { Subagent } from "akasha/seat-system/subagents/subagent.page-type.types.ts"',
+    typeLineFor(root),
     "",
     `export const ${exportedAs(slug)} = {`,
     ...(id === null ? [] : [`  id: ${said(id)},`]),
