@@ -1,15 +1,20 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { item as itemArgument } from "akasha/commands/arguments/pages/item.argument.ts"
+import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   asJson,
   DATA,
   INPUT,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventoryLookupItem as page } from "akasha/commands/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
@@ -23,9 +28,7 @@ import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-loo
 import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
-const INVENTORY_PATH = "--inventory-path"
-
-const JSON_FLAG = "--json"
+const NAMED = [jsonArgument, inventoryPathArgument, itemArgument]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -36,51 +39,6 @@ type Classification =
   | { readonly kind: "script"; readonly scriptId: number }
   | { readonly kind: "motif"; readonly styleId: number; readonly chapterId: number | null }
   | { readonly kind: "unknown" }
-
-export type Read =
-  | { readonly named: string; readonly inventoryPath: string | null; readonly json: boolean }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let named: string | null = null
-  let inventoryPath: string | null = null
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    if (one === INVENTORY_PATH) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined || value.startsWith("--")) {
-        refusals.push(`\`${INVENTORY_PATH}\` names the file to read, and no file followed it`)
-        continue
-      }
-      inventoryPath = value
-      continue
-    }
-    if (one.startsWith("--")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${INVENTORY_PATH}\` and \`${JSON_FLAG}\``
-      )
-      continue
-    }
-    if (named !== null) {
-      refusals.push(`\`${one}\` follows the item already named, and one call names one item`)
-      continue
-    }
-    named = one
-  }
-  if (named === null) {
-    refusals.push("this names no item — it takes an item id or a whole ESO item link")
-  }
-  if (refusals.length > 0 || named === null) return { refused: refusals }
-  return { named, inventoryPath, json }
-}
 
 function itemInDatabase(db: InventoryDatabase, itemId: number): InventoryItemData | null {
   for (const location of Object.values(db.locations)) {
@@ -159,18 +117,21 @@ export function rowsOf(
 }
 
 export async function temperInventoryLookupItem(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
-  const itemId = wholeNumberIn(read.named) ?? parseItemLink(read.named)?.itemId ?? null
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const itemId = wholeNumberIn(taken.item) ?? parseItemLink(taken.item)?.itemId ?? null
   if (itemId === null) {
-    return refused(`\`${read.named}\` reads as neither an item id nor an item link`, INPUT)
+    return refused(`\`${taken.item}\` reads as neither an item id nor an item link`, INPUT)
   }
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const root = resolve(given.root)
   const at =
-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+    taken.inventoryPath === undefined
+      ? savedVarsFile(INVENTORY_LUA)
+      : resolve(root, taken.inventoryPath)
   let content: string
   try {
     content = await readFile(at, "utf8")
@@ -186,6 +147,6 @@ export async function temperInventoryLookupItem(
   }
   const classification: Classification = classificationOf(match.itemName)
   const categoryNodeIds = classifyItemToNodeIds(match)
-  if (read.json) return asJson(jsonOf(itemId, match, classification, categoryNodeIds))
+  if (taken.json) return asJson(jsonOf(itemId, match, classification, categoryNodeIds))
   return told([...rowsOf(itemId, match, classification, categoryNodeIds)])
 }
