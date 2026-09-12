@@ -25,7 +25,6 @@ export const inferenceWanExtend = {
       said: "--negative-prompt-file <path>",
       takes: "that steering read from a path, or `-` for stdin",
     },
-    { said: "--steps <n>", takes: "denoise steps across both experts" },
     { said: "--lightning", takes: "the four-step Lightning pair, which drops guidance to one" },
     { said: "--size <WxH>", takes: "the dimensions the clip is rendered at" },
   ],
@@ -60,5 +59,6 @@ export const inferenceWanExtend = {
     { argument: "argument/output" },
     { argument: "argument/timeout" },
     { argument: "argument/seed" },
+    { argument: "argument/steps" },
   ],
 } as const satisfies Command

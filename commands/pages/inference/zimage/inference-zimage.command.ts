@@ -19,7 +19,6 @@ export const inferenceZimage = {
     { said: "--base-model <name>", takes: "the selector mflux takes here, which is passed over" },
     { said: "--width <n>", takes: "how wide the image is rendered" },
     { said: "--height <n>", takes: "how tall the image is rendered" },
-    { said: "--steps <n>", takes: "denoise steps" },
     { said: "--guidance <f>", takes: "how far the sampler is pushed toward the prompt" },
     { said: "--lora-paths <path>", takes: "the one checkpoint the render is measured against" },
     { said: "--lora-scales <f>", takes: "how strongly that checkpoint is mixed in" },
@@ -89,5 +88,6 @@ export const inferenceZimage = {
     { argument: "argument/output" },
     { argument: "argument/timeout" },
     { argument: "argument/seed" },
+    { argument: "argument/steps" },
   ],
 } as const satisfies Command

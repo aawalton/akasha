@@ -14,7 +14,6 @@ export const inferenceGenerate = {
     },
     { said: "--size <WxH>", takes: "how wide and how tall the image is rendered" },
     { said: "--guidance <n>", takes: "how far the sampler is pushed toward the prompt" },
-    { said: "--steps <n>", takes: "denoise steps" },
     { said: "--service <name>", takes: "the image pool service the render goes through" },
   ],
   invariants: [
@@ -58,5 +57,6 @@ export const inferenceGenerate = {
     { argument: "argument/timeout" },
     { argument: "argument/seed" },
     { argument: "argument/no-persist" },
+    { argument: "argument/steps" },
   ],
 } as const satisfies Command
