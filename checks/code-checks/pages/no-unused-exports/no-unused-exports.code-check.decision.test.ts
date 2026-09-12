@@ -9,6 +9,8 @@ import {
   EVERY_TEXT,
   HELD_TEXT,
   importedBy,
+  PAGE_AT,
+  PAGE_TEXT,
   READER,
   readerText,
   reading,
@@ -63,6 +65,15 @@ test("an import taking every name a file exports leaves that file unrefused", ()
   importedBy(root, [READER])
 
   expect(judging(landing(root, { [AT]: bytesOf(HELD_TEXT) }))).toEqual([])
+})
+
+test("the export a page file is named for is spared and another beside it is judged", () => {
+  const said = judging(landing(rooted(), { [PAGE_AT]: bytesOf(PAGE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
 })
 
 test("a file the change takes away is passed over", () => {

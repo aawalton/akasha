@@ -1,4 +1,9 @@
-import { founded, put } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  founded,
+  pathFor,
+  put,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import {
   importFiled,
   noImportersFiled,
@@ -12,11 +17,18 @@ export const READER = "akasha/reader.module.code.ts"
 
 export const HELD_TEXT = "export const held = 1\nexport const spare = 2\n"
 
+export const PAGE_AT = pathFor("domain", "held")
+
+export const PAGE_TEXT =
+  'export const held = { id: "01a0927a-1000-7001-8000-000000000001",' +
+  ' pageTypeSlug: "domain", slug: "held" }\nexport const spare = 2\n'
+
 export const scratch = scratchWorld()
 
 export function rooted(): string {
   const root = scratch.rootFor("akasha-unused-exports-")
   founded(root)
+  typed(root, "domain", "page")
   noImportersFiled(root)
   return root
 }

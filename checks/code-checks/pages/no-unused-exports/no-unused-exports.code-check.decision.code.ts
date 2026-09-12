@@ -8,7 +8,8 @@ import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
@@ -47,14 +48,23 @@ export function reasonFor(name: string): string {
   return `exports \`${name}\`, which no other file names — ${REACHED}`
 }
 
+export function sparedIn(path: string, pageTypes: ReadonlySet<string>): string | null {
+  if (!pageNamed(path, pageTypes)) return null
+  const said = partedIn(path)
+  return said === null ? null : exportedAs(said.slug)
+}
+
 export function reasonsFor(
   path: string,
   text: string,
   change: Change,
-  shadow: Shadow
+  shadow: Shadow,
+  spared: string | null
 ): readonly string[] {
   const told = namesToldIn(path, text)
-  if (told === null || told.length === 0) return []
+  if (told === null) return []
+  const wanted = told.filter((one) => one !== spared)
+  if (wanted.length === 0) return []
   const taken = new Set<string>()
   for (const importer of shadow.index.importersOf(path)) {
     if (importer === path) continue
@@ -65,17 +75,20 @@ export function reasonsFor(
       taken.add(name)
     }
   }
-  return told.filter((one) => !taken.has(one)).map(reasonFor)
+  return wanted.filter((one) => !taken.has(one)).map(reasonFor)
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesFor(shadow)
   const judged: Judged[] = []
   for (const path of change.changed) {
-    if (!typeScripted(path) || pageNamed(path, pageTypes)) continue
+    if (!typeScripted(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
-    for (const reason of reasonsFor(path, text, change, shadow)) judged.push({ path, reason })
+    const spared = sparedIn(path, pageTypes)
+    for (const reason of reasonsFor(path, text, change, shadow, spared)) {
+      judged.push({ path, reason })
+    }
   }
   return judged
 }

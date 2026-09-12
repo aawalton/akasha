@@ -36,7 +36,11 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's own export is passed over, a page being loaded rather than imported.",
+      statement: "The export a page file is named for is reached by that page being loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page file is judged for every export beside the one that file is named for.",
     },
     {
       invariantKind: "departure",
