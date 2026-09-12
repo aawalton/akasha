@@ -1,8 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type { EffectInstance } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import { getFormattedAbilityIcon } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
@@ -28,6 +23,11 @@ import {
   getSelections,
   UNCOLLAPSED_BUFFS,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type { EffectInstance } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 interface BuffRowData {
   buffName?: string

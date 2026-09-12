@@ -1,13 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type {
-  DamageCategory,
-  ResourceData,
-  ResourceTable,
-  StatData,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import { LIBCOMBAT_CPTYPE_SLOTTED } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
@@ -30,6 +20,16 @@ import {
   STAT_KEYS_LEGACY,
   type StatFormatEntry,
 } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type {
+  DamageCategory,
+  ResourceData,
+  ResourceTable,
+  StatData,
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 export function updateFightStatsPanelRight(this: void, panel: Control): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating FightStatsPanelRight")

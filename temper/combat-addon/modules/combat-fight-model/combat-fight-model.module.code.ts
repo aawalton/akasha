@@ -1,3 +1,8 @@
+import { getFormattedAbilityName } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  createBaseAbility,
+  createBasicValues,
+} from "akasha/temper/combat-addon/modules/combat-categories/combat-categories.module.code.ts"
 import type {
   AbilityData,
   BarStats,
@@ -12,13 +17,8 @@ import type {
   StatData,
   UnitCalc,
   UnitStatData,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import { ABILITY_DELAY } from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
-import { getFormattedAbilityName } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
-  createBaseAbility,
-  createBasicValues,
-} from "akasha/temper/combat-addon/modules/combat-categories/combat-categories.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import { ABILITY_DELAY } from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
 
 const inf = math.huge
 

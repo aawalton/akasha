@@ -1,13 +1,4 @@
 import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type {
-  CmxFight,
-  CoreLogLine,
-  CurrentData,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import {
   registerForCombatEvent,
   unregisterForCombatEvent,
 } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
@@ -47,6 +38,15 @@ import {
   ADDON_NAME,
   REPORT_SCENE_NAME,
 } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type {
+  CmxFight,
+  CoreLogLine,
+  CurrentData,
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

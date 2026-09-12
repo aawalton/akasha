@@ -2,8 +2,8 @@ import type {
   BaseAbilityValues,
   BasicValues,
   DamageCategory,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import { isDamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import { isDamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 const inf = math.huge

@@ -1,4 +1,3 @@
-import type { DamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   LayoutControl,
@@ -35,6 +34,7 @@ import {
   PLOT_FUNCTIONS,
 } from "akasha/temper/combat-addon/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"
 import { editLabelStart } from "akasha/temper/combat-addon/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts"
+import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 const PLOT_DEFAULT_FUNCTION: Record<
   number,

@@ -1,9 +1,18 @@
+import {
+  LIBCOMBAT_EVENT_DAMAGE_OUT,
+  LIBCOMBAT_EVENT_HEAL_IN,
+  LIBCOMBAT_EVENT_HEAL_OUT,
+} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  isDamageLogLine,
+  isHealLogLine,
+} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 import type {
   AbilityData,
   CmxFight,
   CoreLogLine,
   UnitCalc,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import {
   DAMAGE_RESULT_CATEGORY,
   HEAL_RESULT_CATEGORY,
@@ -15,7 +24,7 @@ import {
   STATTYPE_INCSPELL,
   STATTYPE_INCWEAPON,
   STATTYPE_PENETRATION,
-} from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
 import {
   acquireAbilityData,
   acquireBarStats,
@@ -23,16 +32,7 @@ import {
   acquireUnitData,
   getCalculated,
   getCurrentBar,
-} from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
-import {
-  LIBCOMBAT_EVENT_DAMAGE_OUT,
-  LIBCOMBAT_EVENT_HEAL_IN,
-  LIBCOMBAT_EVENT_HEAL_OUT,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
-  isDamageLogLine,
-  isHealLogLine,
-} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
 
 function incrementStatSum(
   fight: CmxFight,

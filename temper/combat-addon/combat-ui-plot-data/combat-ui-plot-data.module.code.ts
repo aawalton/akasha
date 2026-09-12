@@ -1,7 +1,3 @@
-import type {
-  CoreLogLine,
-  DamageCategory,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   LIBCOMBAT_EVENT_BOSSHP,
   LIBCOMBAT_EVENT_PERFORMANCE,
@@ -22,6 +18,10 @@ import {
   YAXIS_RIGHT,
 } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import type {
+  CoreLogLine,
+  DamageCategory,
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 type GraphData = Record<number, number | undefined>
 

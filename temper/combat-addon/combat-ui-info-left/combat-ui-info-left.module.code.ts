@@ -1,8 +1,4 @@
 import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import {
   getFormattedAbilityIcon,
   getFormattedAbilityName,
 } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
@@ -17,6 +13,10 @@ import { numberValue } from "akasha/temper/combat-addon/combat-ui-main-panel/com
 import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import type { SkillRowControl } from "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 import { ADDON_VERSION } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const LIB_COMBAT_VERSION = 88

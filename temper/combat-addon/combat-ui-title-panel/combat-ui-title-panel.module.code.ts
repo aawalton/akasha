@@ -1,8 +1,4 @@
 import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import {
   GetNumFights,
   getFights,
 } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
@@ -15,6 +11,10 @@ import {
   getCurrentFight,
   getFightData,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 
 interface TitleCharData {
   name?: string

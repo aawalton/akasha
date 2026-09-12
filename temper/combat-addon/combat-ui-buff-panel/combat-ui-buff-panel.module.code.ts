@@ -1,12 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type {
-  CalculatedData,
-  SelectedBuff,
-  SelectionData,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import { getFormattedAbilityIcon } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { generateSelectionStats } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
@@ -27,6 +18,15 @@ import {
   getUiSelectionData,
   type UISelections,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type {
+  CalculatedData,
+  SelectedBuff,
+  SelectionData,
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 export interface BuffRowControl extends SelectionRowControl {
   parentrow?: BuffRowControl

@@ -1,9 +1,4 @@
 import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type { DamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import {
   LIBCOMBAT_STAT_CRITICALRESISTANCE,
   LIBCOMBAT_STAT_MAXHEALTH,
   LIBCOMBAT_STAT_MAXMAGICKA,
@@ -32,6 +27,11 @@ import {
   getUiSelectionData,
   type UpdatableControl,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {

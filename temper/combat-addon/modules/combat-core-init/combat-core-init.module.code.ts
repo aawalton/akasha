@@ -1,14 +1,3 @@
-import {
-  initCurrentData,
-  initializeChat,
-  updateEvents,
-} from "akasha/temper/combat-addon/combat-core-events/combat-core-events.module.code.ts"
-import { log } from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import {
-  setPenetrationDebuffValue,
-  VARIABLE_PENETRATION_DEBUFF_ABILITY_IDS,
-} from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
-import { setFightDataLog } from "akasha/temper/combat-addon/combat-fight-data-log/combat-fight-data-log.module.code.ts"
 import { initializeLibCombat } from "akasha/temper/combat-addon/combat-lib-init/combat-lib-init.module.code.ts"
 import { setLibCombatLog } from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import { makeMenu } from "akasha/temper/combat-addon/combat-menu/combat-menu.module.code.ts"
@@ -26,6 +15,17 @@ import {
   setPlayername,
 } from "akasha/temper/combat-addon/modules/combat-addon-state/combat-addon-state.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
+import {
+  initCurrentData,
+  initializeChat,
+  updateEvents,
+} from "akasha/temper/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"
+import { log } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import {
+  setPenetrationDebuffValue,
+  VARIABLE_PENETRATION_DEBUFF_ABILITY_IDS,
+} from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
+import { setFightDataLog } from "akasha/temper/combat-addon/modules/combat-fight-data-log/combat-fight-data-log.module.code.ts"
 
 export function initializeCore(): undefined {
   const db = initializeSavedVariables()

@@ -1,9 +1,4 @@
 import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type { AbilityData } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import {
   getFormattedAbilityIcon,
   getFormattedAbilityName,
 } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
@@ -34,6 +29,11 @@ import {
   DPS_STRINGS,
   optionalNumberValue,
 } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type { AbilityData } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 type HitCritLayout = [string, string, string, string]
 

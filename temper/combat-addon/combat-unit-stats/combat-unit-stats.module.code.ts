@@ -1,19 +1,19 @@
 import {
   LOG_LEVEL_WARNING,
   log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import type {
   CmxFight,
   EffectData,
   EffectSlotData,
   UnitCalc,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import {
   getStatDebuffs,
   OVERRIDE_VALUES,
   STATUS_EFFECT_IDS,
-} from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
-import { acquireUnitStatData } from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
+import { acquireUnitStatData } from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
 
 export function countSlots(
   slots: Record<number, EffectSlotData>

@@ -1,9 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type { CmxFight } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import type { SavedFight } from "akasha/temper/combat-addon/combat-fight-data-types/combat-fight-data-types.module.code.ts"
 import { getFights } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
@@ -33,6 +27,12 @@ import {
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import { DPS_STRINGS } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 import { calculateFight } from "akasha/temper/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import type { SavedFight } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
 
 function updateReportDeferred(this: void): undefined {
   const report = TemperCombat_Report

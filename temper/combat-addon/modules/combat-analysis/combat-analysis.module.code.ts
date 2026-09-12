@@ -1,19 +1,4 @@
 import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
-import type {
-  CmxFight,
-  CoreLogLine,
-} from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
-import { TRIAL_DUMMY_BUFFS } from "akasha/temper/combat-addon/combat-data-tables/combat-data-tables.module.code.ts"
-import {
-  acquireBarStats,
-  getCalculated,
-  getEmptyFightStats,
-  setCurrentBar,
-} from "akasha/temper/combat-addon/combat-fight-model/combat-fight-model.module.code.ts"
-import {
   finalizeBarData,
   finalizePerformanceData,
   finalizeResourceStats,
@@ -64,6 +49,21 @@ import {
   type CategoryKey,
   sumUnitTables,
 } from "akasha/temper/combat-addon/modules/combat-categories/combat-categories.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import type {
+  CmxFight,
+  CoreLogLine,
+} from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import { TRIAL_DUMMY_BUFFS } from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
+import {
+  acquireBarStats,
+  getCalculated,
+  getEmptyFightStats,
+  setCurrentBar,
+} from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

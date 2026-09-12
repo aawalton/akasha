@@ -1,4 +1,3 @@
-import type { DamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   LIBCOMBAT_STAT_CRITICALRESISTANCE,
   LIBCOMBAT_STAT_MAXHEALTH,
@@ -33,6 +32,7 @@ import type {
   PlotData,
   PlotWindowControl,
 } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 export const PLOT_FUNCTIONS: ((this: void) => undefined)[] = []
 

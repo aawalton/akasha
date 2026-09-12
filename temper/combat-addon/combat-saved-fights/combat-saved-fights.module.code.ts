@@ -1,8 +1,14 @@
+import { GLOBAL_DICT } from "akasha/temper/combat-addon/combat-global-dictionary/combat-global-dictionary.module.code.ts"
+import {
+  convertCombatLog,
+  recoverCombatLog,
+  reduceUnitIds,
+} from "akasha/temper/combat-addon/combat-log-conversion/combat-log-conversion.module.code.ts"
 import {
   LOG_LEVEL_INFO,
   LOG_LEVEL_WARNING,
   log,
-} from "akasha/temper/combat-addon/combat-fight-data-log/combat-fight-data-log.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-fight-data-log/combat-fight-data-log.module.code.ts"
 import type {
   Fight,
   FightDataSV,
@@ -10,13 +16,7 @@ import type {
   LogFilters,
   SavedFight,
   SavedFightMeta,
-} from "akasha/temper/combat-addon/combat-fight-data-types/combat-fight-data-types.module.code.ts"
-import { GLOBAL_DICT } from "akasha/temper/combat-addon/combat-global-dictionary/combat-global-dictionary.module.code.ts"
-import {
-  convertCombatLog,
-  recoverCombatLog,
-  reduceUnitIds,
-} from "akasha/temper/combat-addon/combat-log-conversion/combat-log-conversion.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
 
 export const FIGHT_DATA_VERSION = 22
 

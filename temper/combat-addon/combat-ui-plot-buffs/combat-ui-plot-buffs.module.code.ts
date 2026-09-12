@@ -1,4 +1,3 @@
-import type { CoreLogLine } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import {
   getFormattedAbilityName,
   LIBCOMBAT_EVENT_EFFECTS_IN,
@@ -12,6 +11,7 @@ import {
   getFightData,
   getSelections,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import type { CoreLogLine } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 
 type EffectLogLine = [
   event: number,
