@@ -11,7 +11,7 @@ export const athenaCommandTree = {
     {
       statement: "One check judges the whole command tree.",
       workingMemory:
-        "`command-is-named-by-its-place-in-the-tree` is the one check. It now judges the parts of every changed page under commands (`a9a6e9e1bbe`), owns the test its group owes (`46cece2f178`), and says what it reaches and leaves unjudged (`e54f512edde`). Two questions are Alan's: should akasha refuse a module under `commands/pages/**` not under the lowest command importing it, refusing 12 modules there today; and its gap says a namespace holds more than one part, where six hold one.",
+        "`command-is-named-by-its-place-in-the-tree` is the one check. It judges the parts of every changed page under commands (`a9a6e9e1bbe`), owns the test its group owes (`46cece2f178`), and says what it reaches (`e54f512edde`). The twelve misplaced modules are not Alan's — widening what an approved check reaches needs no approval — so they move under their lowest importing command and the check widens behind them. Alan's: six namespaces hold one part where the gap says more.",
     },
     {
       statement:
