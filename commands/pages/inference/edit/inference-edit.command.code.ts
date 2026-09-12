@@ -54,7 +54,7 @@ const TAKING = [
   { said: PROMPT, prose: true },
   { said: OUTPUT },
   { said: ENGINE },
-  { said: ASPECT_RATIO, aliases: ["--aspect"] },
+  { said: ASPECT_RATIO },
   { said: SIZE },
   { said: TIMEOUT },
 ]
