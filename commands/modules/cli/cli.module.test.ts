@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  DATA,
   INPUT,
   OK,
   UNCLASSIFIED,
@@ -121,7 +122,7 @@ test("a name no command carries is a caller's mistake too", async () => {
 
 test("a name looked for where there is no index says nothing was read, not that none is carried", async () => {
   const said = await answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
-  expect(said.code).toBe(INPUT)
+  expect(said.code).toBe(DATA)
   expect(said.err[0]).toContain("was looked for and not read")
   expect(said.err[0]).toContain(`No index is at \`${indexNamed()}\``)
   expect(said.err[0]).not.toContain("is no command akasha carries")
