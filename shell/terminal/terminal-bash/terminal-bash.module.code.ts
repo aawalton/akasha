@@ -3,6 +3,10 @@ import {
   supervisorFn,
 } from "akasha/shell/terminal/terminal-account-launchers/terminal-account-launchers.module.code.ts"
 import {
+  CLAUDE_USAGE,
+  GIT_PUSH,
+} from "akasha/shell/terminal/terminal-calls/terminal-calls.module.code.ts"
+import {
   terminalEndedFnLines,
   terminalEndedTrapLines,
 } from "akasha/shell/terminal/terminal-ended/terminal-ended.module.code.ts"
@@ -33,11 +37,7 @@ export type AliasEntry = {
 }
 
 function claudeUsageFn(): string {
-  return [
-    `${implName("cu")}() {`,
-    `  ${akashaCommand()} measure claude-account usage "$@"`,
-    "}",
-  ].join("\n")
+  return [`${implName("cu")}() {`, `  ${akashaCommand()} ${CLAUDE_USAGE} "$@"`, "}"].join("\n")
 }
 
 function aliases(): string {
@@ -50,7 +50,7 @@ function aliases(): string {
     "alias gc='git commit -m'",
     `alias gca='git add . && git commit -m'`,
     `alias gcc='git add . && git commit -m "checkpoint"'`,
-    "alias gp='akasha git push'",
+    `alias gp='akasha ${GIT_PUSH}'`,
     "alias gl='git pull'",
     "alias gg='git log'",
     "alias gcb='git checkout -b'",

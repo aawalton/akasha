@@ -14,6 +14,10 @@ import {
   personDocumentStandsShell,
 } from "akasha/shell/terminal/document-present/document-present.module.code.ts"
 import {
+  SEAT_START,
+  SEAT_SUPERVISOR_STOP,
+} from "akasha/shell/terminal/terminal-calls/terminal-calls.module.code.ts"
+import {
   akashaCommand,
   proxy,
   ROOT_LOCAL,
@@ -179,7 +183,7 @@ export function seatNewFn(name: string): string {
     `  local _${name}_stop_flags=() _${name}_stop_err _${name}_stop_rc=0`,
     `  [ "$_${name}_force" = 1 ] && _${name}_stop_flags+=(--force)`,
     `  _${name}_stop_err="/var/tmp/akasha-${name}-stop-$$.err"`,
-    `  ${akashaCommand()} seat supervisor stop "$_${name}_seat" "\${_${name}_stop_flags[@]}" ` +
+    `  ${akashaCommand()} ${SEAT_SUPERVISOR_STOP} "$_${name}_seat" "\${_${name}_stop_flags[@]}" ` +
       `>/dev/null 2>"$_${name}_stop_err"`,
     `  _${name}_stop_rc=$?`,
     `  if [ "$_${name}_stop_rc" != 0 ] && [ "$_${name}_stop_rc" != 2 ]; then`,
@@ -204,7 +208,7 @@ export function seatNewFn(name: string): string {
     `  [ -n "$_${name}_typed_role" ] && _${name}_stated+=(--role "$_${name}_typed_role")`,
     `  [ -n "$_${name}_typed_domain" ] && ` +
       `_${name}_stated+=(--domain "$_${name}_typed_domain")`,
-    `  full_aid=$(${akashaCommand()} seat start "\${_${name}_stated[@]}") || {`,
+    `  full_aid=$(${akashaCommand()} ${SEAT_START} "\${_${name}_stated[@]}") || {`,
     `    echo "${name}: '$_${name}_seat' was not bound, so nothing was launched." >&2`,
     "    return 1",
     "  }",

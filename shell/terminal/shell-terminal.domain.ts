@@ -9,6 +9,7 @@ export const shellTerminal = {
     "module/document-present",
     "module/terminal-account-launchers",
     "module/terminal-bash",
+    "module/terminal-calls",
     "module/terminal-ended",
     "module/terminal-entry-points",
     "module/terminal-reload",

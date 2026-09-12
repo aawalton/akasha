@@ -1,8 +1,9 @@
+import { SHELL_INIT } from "akasha/shell/terminal/terminal-calls/terminal-calls.module.code.ts"
 import { akashaCommand } from "akasha/shell/terminal/terminal-entry-points/terminal-entry-points.module.code.ts"
 
 export const RELOAD_FN = "_akasha_reload"
 
-export const COMPOSING = "infrastructure shell-init-bash"
+export const COMPOSING = SHELL_INIT
 
 export function implName(name: string): string {
   return `_akasha_fn_${name}`
