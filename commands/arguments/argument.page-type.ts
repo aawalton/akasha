@@ -46,6 +46,11 @@ export const argument = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An argument said as a word is typed as a bare value, and its spelling is shown only as a flag.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What an argument carries where no call and no entry says it belongs here.",
     },
     {
