@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { createNewCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
+import { createNewCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import {
   CHARACTER_ACTION_CREATORS,
   characterReducer,

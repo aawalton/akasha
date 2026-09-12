@@ -1,7 +1,7 @@
 import {
   base64urlToBytes,
   bytesToBase64url,
-} from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+} from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
 import {
   COMPANION_BUILD_TYPE,
   decodeV49,

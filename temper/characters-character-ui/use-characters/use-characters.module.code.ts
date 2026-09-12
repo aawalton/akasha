@@ -21,7 +21,7 @@ import {
 } from "akasha/temper/build-support/build-row/build-row.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { SettableBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
-import { createNewCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
+import { createNewCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,

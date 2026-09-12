@@ -2,13 +2,13 @@ import {
   type BitReaderState,
   makeBitReader,
   readBits,
-} from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+} from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import {
   type BitWriterState,
   bitWriterToBytes,
   makeBitWriter,
   writeBits,
-} from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+} from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,

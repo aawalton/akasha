@@ -1,13 +1,13 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { buildInputSources } from "akasha/alan/harness/mobile-cli/build-input-sources/build-input-sources.module.code.ts"
 import {
   ABSENT_OBJECT,
   computeBuildInputTreeHash,
   objectIdAt,
 } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { buildInputSources } from "akasha/alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.code.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
 
 const SCRATCH = "/var/tmp"

@@ -1,10 +1,4 @@
 import {
-  decodePassives,
-  decodeSkills,
-  encodePassives,
-  encodeSkills,
-} from "akasha/temper/build-codec/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"
-import {
   AFFIX_SCRIPT_BITS,
   ALLIANCE_BITS,
   ATTRIBUTE_BITS,
@@ -61,16 +55,22 @@ import {
   encodeEquipment,
 } from "akasha/temper/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"
 import {
+  decodePassives,
+  decodeSkills,
+  encodePassives,
+  encodeSkills,
+} from "akasha/temper/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"
+import {
   type BitReaderState,
   makeBitReader,
   readBits,
-} from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+} from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import {
   type BitWriterState,
   bitWriterToBytes,
   makeBitWriter,
   writeBits,
-} from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+} from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { RoleId } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"

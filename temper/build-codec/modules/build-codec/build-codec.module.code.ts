@@ -7,7 +7,7 @@ import {
 import {
   base64urlToBytes,
   bytesToBase64url,
-} from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+} from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { BuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"

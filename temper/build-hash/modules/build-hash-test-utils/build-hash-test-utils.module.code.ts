@@ -1,4 +1,4 @@
-import { bytesToBase64url } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import { bytesToBase64url } from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
 
 export function stampedWith(bytes: Uint8Array, version: number): string {
   const held = new Uint8Array(bytes)
