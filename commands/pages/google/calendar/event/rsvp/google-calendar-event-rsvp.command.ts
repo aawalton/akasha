@@ -6,6 +6,7 @@ export const googleCalendarEventRsvp = {
   slug: "google-calendar-event-rsvp",
   definition: "the command setting Alan's own response on one event",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
