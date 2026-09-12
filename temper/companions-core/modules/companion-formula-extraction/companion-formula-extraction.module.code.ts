@@ -1,4 +1,3 @@
-import { companionBase } from "akasha/temper/companions-core/companions-base-source/companions-base-source.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type {
   CompanionEffect,
@@ -9,6 +8,7 @@ import {
   type CompanionValueFormula,
   getFormulaCoefficientType,
 } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
+import { companionBase } from "akasha/temper/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"
 import type {
   DamageType,
   EffectCondition,

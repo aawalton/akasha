@@ -18,10 +18,10 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { ComboRankingsMap } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
+import { getCompanionName } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import {
   CompanionEntityPanelCard,
   type CompanionPlanEntity,

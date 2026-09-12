@@ -1,7 +1,3 @@
-import {
-  type CompanionId,
-  companions,
-} from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import type { CompanionArmorSlotId } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "akasha/temper/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
@@ -41,6 +37,10 @@ import {
   setWeaponTypesForRole,
 } from "akasha/temper/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import {
+  type CompanionId,
+  companions,
+} from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }

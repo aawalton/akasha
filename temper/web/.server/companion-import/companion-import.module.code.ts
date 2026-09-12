@@ -5,8 +5,8 @@ import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   BuildHash,
   BuildId,

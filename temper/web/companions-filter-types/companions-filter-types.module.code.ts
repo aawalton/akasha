@@ -4,11 +4,11 @@ import {
   type TargetArmorId,
   targetArmor,
 } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
+import { companionBaseRoles } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionId,
   companions,
-} from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { companionBaseRoles } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+} from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type { SortField } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 

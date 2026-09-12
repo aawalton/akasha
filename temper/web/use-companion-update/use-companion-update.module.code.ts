@@ -1,4 +1,3 @@
-import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import {
   createEquipmentForBaseRoles,
   equipmentMatchesBaseRoleDefaults,
@@ -8,6 +7,7 @@ import {
   isSkillValidForCompanion,
 } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { useCallback } from "react"
 
 export function useCompanionUpdate(

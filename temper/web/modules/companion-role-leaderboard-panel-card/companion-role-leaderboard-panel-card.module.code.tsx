@@ -17,11 +17,11 @@ import {
 } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
-import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import {
   displayRolesToLabel,
   type RankedEntry,
 } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "akasha/temper/web/leaderboard-columns/leaderboard-columns.module.code.ts"
 

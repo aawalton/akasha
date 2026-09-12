@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 
 export function generateCompanionMappings(): string {
   const entries: string[] = []

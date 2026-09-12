@@ -26,7 +26,7 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { getCompanionName } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import {
   CompanionsFilterBar,
   type SortField,

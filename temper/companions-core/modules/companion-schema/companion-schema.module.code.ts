@@ -1,5 +1,3 @@
-import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { companionEquipmentQualities } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
@@ -8,6 +6,8 @@ import { companionSkillSlots } from "akasha/temper/companions-core/modules/compa
 import { companionSkills } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import * as z from "zod"
 
 const companionArmorWeightSchema = z.enum(["no-weight", "light", "medium", "heavy"])

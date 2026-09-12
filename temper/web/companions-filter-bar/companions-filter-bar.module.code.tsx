@@ -16,7 +16,7 @@ import type {
   SortOption,
 } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { useEffect, useState } from "react"
 

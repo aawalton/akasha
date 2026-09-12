@@ -1,8 +1,8 @@
-import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import {
   companions,
   getCompanionIdByDefId,
-} from "akasha/temper/companions-core/companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   CharacterCompletion,
   CompanionCompletion,

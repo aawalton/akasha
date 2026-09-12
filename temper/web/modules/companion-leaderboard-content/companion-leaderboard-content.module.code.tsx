@@ -5,14 +5,14 @@ import {
   collapseCard,
   scrollToCard,
 } from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
-import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import {
   type Build,
   type ComboRankingsMap,
   compareDisplayRoleCombos,
   displayRoleComboKey,
 } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { CompanionIdentityLeaderboardPanelCard } from "akasha/temper/web/modules/companion-identity-leaderboard-panel-card/companion-identity-leaderboard-panel-card.module.code.tsx"
 import { CompanionOverallLeaderboardPanelCard } from "akasha/temper/web/modules/companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.code.tsx"
 import { CompanionRoleLeaderboardPanelCard } from "akasha/temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx"

@@ -20,10 +20,6 @@ import {
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import {
-  applyBuild,
-  equipUpgrades,
-} from "akasha/temper/companions-addon/companions-apply-build/companions-apply-build.module.code.ts"
-import {
   ARMOR_SLOTS,
   type CompanionBuildData,
   captureCompanionBuild,
@@ -49,6 +45,10 @@ import {
   summaryState,
 } from "akasha/temper/companions-addon/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
+import {
+  applyBuild,
+  equipUpgrades,
+} from "akasha/temper/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN
