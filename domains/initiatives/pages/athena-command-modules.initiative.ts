@@ -75,6 +75,11 @@ export const athenaCommandModules = {
       workingMemory:
         "`cli.module.ts:48` and `answering/command-answering.module.ts:13` already state it, with `INPUT = 1`, `DATA = 2`, `OPERATIONAL = 3` at `command-answering.module.code.ts:6-10`. `mistaking` at `refusing.module.code.ts:10-12` and `refusing` at `calling.module.code.ts:244-246` hand out 1 flat, and a `catch` answering 1 says the caller was mistaken where the machine broke. `git restore` was mended that way. A check has to hold it, because nothing derives a code from a refusal's words.\n",
     },
+    {
+      statement: "A refusal that is the caller's mistake names the call that would succeed.",
+      workingMemory:
+        "`unknownIn` at `flags/command-flags.module.code.ts:35-52` refuses with `is no flag this takes` alone, though it is handed `valued` and `bare`, which `command-flags.module.ts:34` says is deliberate. Its callers are `change-running.module.code.ts:364` and `file-arguing.module.code.ts:218`, so one bare line covers every change command. `callOf` at `domains/context/modules/warranting/warranting.module.code.ts:114-117` is the proven shape. A refusal over the data or the machine names no such call.\n",
+    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
