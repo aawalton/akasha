@@ -6,6 +6,7 @@ export const emailDraftCreate = {
   slug: "email-draft-create",
   definition: "the command writing one Gmail draft from the flags a send takes, unsent",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

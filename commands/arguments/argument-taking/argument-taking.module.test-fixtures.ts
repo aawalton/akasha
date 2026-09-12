@@ -209,3 +209,13 @@ export const NAMING_NOT_WITH = {
     { argument: "argument/limit" },
   ],
 } as const
+
+export const NAMED_PART = "argument/"
+
+export function saidForPart(pages: readonly Argument[], part: string): string {
+  const held = pages.find((one) => one.slug === part.slice(NAMED_PART.length))
+  if (held === undefined) {
+    throw new Error(`\`${part}\` is declared and no argument page was handed in for it`)
+  }
+  return held.said
+}

@@ -15,10 +15,10 @@ import { toAddress } from "akasha/commands/arguments/pages/to-address.argument.t
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { emailMessageSend } from "akasha/commands/pages/email/message/send/email-message-send.command.code.ts"
-import { emailMessageSend as page } from "akasha/commands/pages/email/message/send/email-message-send.command.ts"
+import { emailDraftCreate } from "akasha/commands/pages/email/draft/create/email-draft-create.command.code.ts"
+import { emailDraftCreate as page } from "akasha/commands/pages/email/draft/create/email-draft-create.command.ts"
 
-const CALLED_AS = "akasha email message send"
+const CALLED_AS = "akasha email draft create"
 
 const REPO = rootOf(import.meta.dir)
 
@@ -65,7 +65,7 @@ const BODY = [body.said, "a body"]
 const TO = [toAddress.said, "someone@example.test"]
 
 async function refusalsOf(argv: readonly string[]): Promise<readonly string[]> {
-  const answer = await emailMessageSend(argv, GIVEN)
+  const answer = await emailDraftCreate(argv, GIVEN)
   if (answer.refusals.length === 0) {
     throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
   }
@@ -137,7 +137,7 @@ test("an argument carrying a value is refused where no value follows it", async 
   expect(said[0]).toBe(`\`${toAddress.said}\` takes a value, and none follows it`)
 })
 
-test("no refusal here reaches a mailbox, so the arguments are weighed before any send", async () => {
+test("no refusal here reaches a mailbox, so the arguments are weighed before any draft", async () => {
   const said = await refusalsOf(["--nope", ...TO, ...SUBJECT, ...BODY])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("--nope")
