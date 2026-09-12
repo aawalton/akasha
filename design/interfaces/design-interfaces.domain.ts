@@ -12,7 +12,7 @@ export const designInterfaces = {
     "domain/design-interfaces-forms",
     "domain/design-interfaces-layout",
     "domain/design-interfaces-patterns",
-    "domain/design-primitives",
+    "domain/design-interfaces-primitives",
     "domain/design-system",
   ],
   invariants: [

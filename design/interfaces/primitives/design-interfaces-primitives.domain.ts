@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const designPrimitives = {
+export const designInterfacesPrimitives = {
   id: "01a05bde-9a73-7b0d-9c03-ebd55459b775",
   type: "domain",
-  slug: "design-primitives",
+  slug: "design-interfaces-primitives",
   definition: "the plain controls and surfaces every other design package is built from",
 
   parts: [
