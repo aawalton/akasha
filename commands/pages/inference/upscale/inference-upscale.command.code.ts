@@ -6,16 +6,16 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
   aloneIn,
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   oneOf,
   wasRefused,
   wordsIn,
@@ -76,7 +76,7 @@ export function upscaleHomeOf(said: string | undefined): string {
   return raw
 }
 
-export async function inferenceUpscale(argv: readonly string[]): Promise<Answer> {
+export async function inferenceUpscale(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -115,7 +115,7 @@ export async function inferenceUpscale(argv: readonly string[]): Promise<Answer>
       operation: "upscale",
       model: MODEL,
       host: LABELS[where] ?? where,
-      commandLine: calledAs("inference-upscale", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       resolution: String(resolution),
       seed,
