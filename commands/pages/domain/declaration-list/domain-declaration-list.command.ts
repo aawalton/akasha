@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const domainDeclarations = {
+export const domainDeclarationList = {
   id: "01a07c03-ab2b-79aa-bfa7-3e62543a4164",
   type: "command",
-  slug: "domain-declarations",
+  slug: "domain-declaration-list",
   definition: "the command handing over every domain and persona page whole, as JSON",
   code: "ts",
   test: "ts",
@@ -30,7 +30,7 @@ export const domainDeclarations = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag `domain declarations` does not take is refused by name.",
+      statement: "A flag `domain declaration list` does not take is refused by name.",
     },
     {
       invariantKind: "departure",

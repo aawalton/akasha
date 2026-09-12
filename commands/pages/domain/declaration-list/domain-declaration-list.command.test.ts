@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import {
   readIn,
   SUBJECT,
-} from "akasha/commands/pages/domain/declarations/domain-declarations.command.code.ts"
-import { domainDeclarations } from "akasha/commands/pages/domain/declarations/domain-declarations.command.ts"
+} from "akasha/commands/pages/domain/declaration-list/domain-declaration-list.command.code.ts"
+import { domainDeclarationList } from "akasha/commands/pages/domain/declaration-list/domain-declaration-list.command.ts"
 
 function refusedIn(argv: readonly string[]): string {
   const read = readIn(argv)
@@ -33,6 +33,6 @@ test("a flag wanting a word and given none is refused", () => {
 })
 
 test("the page says it writes nothing and takes one flag", () => {
-  expect(domainDeclarations.changeKind).toBe("change-none")
-  expect(domainDeclarations.taking.map((one) => one.said)).toEqual([`${SUBJECT} <subject>`])
+  expect(domainDeclarationList.changeKind).toBe("change-none")
+  expect(domainDeclarationList.taking.map((one) => one.said)).toEqual([`${SUBJECT} <subject>`])
 })
