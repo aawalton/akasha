@@ -16,5 +16,10 @@ export const inventoryRuleActionLabels = {
       invariantKind: "departure",
       statement: "An action with a destination is shown with the destination named.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stocked item's destination takes the surplus rather than the stock, and is shown that way.",
+    },
   ],
 } as const satisfies Module

@@ -77,9 +77,9 @@ export function formatActionLabel(args: FormatActionLabelArgs): string {
     case "companion-equip":
       return destinationLabel != null ? `Equip on ${destinationLabel}` : "Equip Companion"
     case "stock": {
-      const quantity = targetQuantity !== undefined ? ` (×${targetQuantity})` : ""
-      const target = destinationLabel != null ? ` on ${destinationLabel}` : ""
-      return `Stock${target}${quantity}`
+      const quantity = targetQuantity !== undefined ? ` ×${targetQuantity}` : ""
+      const target = destinationLabel != null ? `, rest to ${destinationLabel}` : ""
+      return `Stock${quantity}${target}`
     }
     case "mail":
       return destinationLabel != null ? `Mail to ${destinationLabel}` : "Mail"
