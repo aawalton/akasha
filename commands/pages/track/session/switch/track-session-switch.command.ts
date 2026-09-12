@@ -6,6 +6,7 @@ export const trackSessionSwitch = {
   slug: "track-session-switch",
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",
+  test: "ts",
   parts: [],
 
   invariants: [
