@@ -21,6 +21,8 @@ const ANYTHING = "*"
 
 const DEFAULT = "default"
 
+const INTRINSIC = /^[a-z]/
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -46,10 +48,20 @@ export function takenFrom(path: string, text: string, target: string): readonly 
   return found
 }
 
+function tagged(up: ts.Node, node: ts.Identifier): boolean | null {
+  if (ts.isJsxSelfClosingElement(up) || ts.isJsxOpeningElement(up) || ts.isJsxClosingElement(up)) {
+    return up.tagName !== node || !INTRINSIC.test(node.text)
+  }
+  return null
+}
+
 function namesIt(node: ts.Identifier): boolean {
   const up = node.parent
   if (ts.isImportSpecifier(up) || ts.isExportSpecifier(up)) return false
   if (ts.isQualifiedName(up)) return up.right !== node
+  if (ts.isJsxAttribute(up)) return up.name !== node
+  const tag = tagged(up, node)
+  if (tag !== null) return tag
   if (ts.isShorthandPropertyAssignment(up)) return true
   return !("name" in up) || up.name !== node
 }

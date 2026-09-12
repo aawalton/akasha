@@ -93,6 +93,10 @@ export const noUnusedExports = {
       statement:
         "A value no file names at all, the file exporting it included, is refused for the value.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A tag a browser draws itself names no value the file exports.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

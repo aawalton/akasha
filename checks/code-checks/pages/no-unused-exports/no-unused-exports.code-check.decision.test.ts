@@ -50,6 +50,15 @@ test("a value its own file names is refused for the export and one nothing names
   ])
 })
 
+test("a tag a browser draws itself names no value the file exports", () => {
+  const at = "akasha/held.route.code.tsx"
+  const text =
+    "export function meta(): null {\n  return null\n}\n\n" +
+    "export function Held(): unknown {\n  return <meta />\n}\n"
+
+  expect(namedWithin(at, text).has("meta")).toBe(false)
+})
+
 test("the names an importer takes from one file are read off its import", () => {
   expect(takenFrom(READER, readerText("held"), AT)).toEqual(["held"])
 })
