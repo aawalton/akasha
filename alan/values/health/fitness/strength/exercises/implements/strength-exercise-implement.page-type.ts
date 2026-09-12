@@ -7,6 +7,20 @@ export const strengthExerciseImplement = {
   definition: "a class of kit a movement is loaded with",
   pluralSlug: "strength-exercise-implements",
   extends: ["page-type/domain"],
+  parts: [
+    "strength-exercise-implement/bands",
+    "strength-exercise-implement/barbell",
+    "strength-exercise-implement/body-only",
+    "strength-exercise-implement/cable",
+    "strength-exercise-implement/dumbbell",
+    "strength-exercise-implement/e-z-curl-bar",
+    "strength-exercise-implement/exercise-ball",
+    "strength-exercise-implement/foam-roll",
+    "strength-exercise-implement/kettlebells",
+    "strength-exercise-implement/machine",
+    "strength-exercise-implement/medicine-ball",
+    "strength-exercise-implement/other",
+  ],
   invariants: [
     {
       invariantKind: "departure",
