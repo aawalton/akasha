@@ -78,6 +78,7 @@ export type Standing = {
 export type Weighing = {
   readonly drifts: readonly Drift[]
   readonly standings: readonly Standing[]
+  readonly under: string
   readonly wrong: readonly string[]
 }
 
@@ -93,7 +94,7 @@ export type Starting = {
 
 export type Running = (args: readonly string[]) => Ran
 
-const NOTHING_WEIGHED: Weighing = { drifts: [], standings: [], wrong: [] }
+const NOTHING_WEIGHED: Weighing = { drifts: [], standings: [], under: "", wrong: [] }
 
 const NOTHING_REACHED: Reaching = { starts: new Map(), wrong: [] }
 
@@ -194,7 +195,11 @@ export function weighedIn(root: string, home: string): Weighing {
       })
     }
   }
-  return { drifts, standings, wrong: [] }
+  return { drifts, standings, under, wrong: [] }
+}
+
+export function stilled(weighed: Weighing): Weighing {
+  return { ...weighed, drifts: weighed.drifts.map((one) => ({ ...one, startsFor: [] })) }
 }
 
 export function reachedFor(
@@ -304,11 +309,16 @@ export function unitsLanded(
   const tree = treeLanded(root, commit)
   try {
     const weighed = weighedIn(root, home)
-    const reached = commit === null ? NOTHING_REACHED : reachedFor(root, weighed.standings, changed)
-    const done = landedOver(weighed, home, run, reached.starts)
+    const stale = tree.wrong.length > 0 && weighed.under !== ""
+    const held = stale
+      ? `no service was started again, because the services run out of ${weighed.under} and that tree is not at the commit`
+      : null
+    const reached =
+      commit === null || stale ? NOTHING_REACHED : reachedFor(root, weighed.standings, changed)
+    const done = landedOver(stale ? stilled(weighed) : weighed, home, run, reached.starts)
     return {
       said: [...tree.said, ...done.said],
-      wrong: [...tree.wrong, ...reached.wrong, ...done.wrong],
+      wrong: [...tree.wrong, ...(held === null ? [] : [held]), ...reached.wrong, ...done.wrong],
     }
   } catch (thrown) {
     return {

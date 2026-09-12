@@ -112,6 +112,15 @@ export const unitLanding = {
     {
       invariantKind: "departure",
       statement:
+        "A service running out of a tree that would not move is started again by nothing at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit is still written, and read again, where that tree would not move.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The tree a unit's run is spelled under is the tree the installed units already name.",
     },
     {

@@ -14,6 +14,7 @@ import {
   type Standing,
   startingIn,
   startsAgainFor,
+  stilled,
   treeInstalled,
   treeLanded,
   unitsLanded,
@@ -84,7 +85,7 @@ function homeWith(units: Readonly<Record<string, string>>): string {
 }
 
 function nothingWeighed(): Weighing {
-  return { drifts: [], standings: [], wrong: [] }
+  return { drifts: [], standings: [], under: "", wrong: [] }
 }
 
 function oneDrift(unit: string, text: string, startsFor: readonly string[] = []): Weighing {
@@ -328,6 +329,14 @@ test("the tree the installed units name is the tree the runs are spelled under",
   expect(treeInstalled(plain, [UNIT], at)).toBe("")
   expect(treeInstalled(plain, [UNIT], null)).toBe("")
   expect(treeInstalled(pinned, [UNIT], at)).toBe(at)
+})
+
+test("a weighing stilled keeps its units and starts nothing again", () => {
+  const held = stilled(oneDrift(UNIT, WAS, ["ExecStart"]))
+
+  expect(held.drifts[0]?.startsFor).toEqual([])
+  expect(startingIn(held.drifts, new Map())).toEqual([])
+  expect(installedHere().under).toBe(treeInstalled(homedir(), [], null))
 })
 
 test("a landing that committed nothing moves no tree", () => {
