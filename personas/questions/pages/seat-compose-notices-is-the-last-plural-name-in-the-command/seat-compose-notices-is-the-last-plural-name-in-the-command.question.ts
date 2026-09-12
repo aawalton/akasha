@@ -1,0 +1,17 @@
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
+
+export const seatComposeNoticesIsTheLastPluralNameInTheCommand = {
+  id: "01a095c0-657e-7e9a-a746-24260f4938f5",
+  type: "question",
+  slug: "seat-compose-notices-is-the-last-plural-name-in-the-command",
+  ask: "`seat compose-notices` is the last plural name in the command tree. What is it called? Over 237 command pages and 58 namespaces, four names end in `s` besides `status`: `compose-notices` at `commands/pages/seat/compose-notices/seat-compose-notices.command.ts:65`, `refresh-settings` at `seat-refresh-settings.command.ts:76`, `takes` at `temper-inventory-rule-takes.command.ts:37`, and `testflight-status`. Two of those are not plural nouns — `takes` is a verb, and `status` is singular. No namespace name is plural at all. This was two names until tonight: `infrastructure dev-server logs` was renamed to `log` at `1dbaf939a1f`, on the ground that it answers the tail of one log file, which its definition at `:7` says and its `name` at `:10` now matches. That rename needed no ruling, because the command answers one thing. This one is different, because it answers many. Its definition at `:7` says it answers what a seat is told as one JSON object, but its invariant at `:57` says every notice page the index files is answered, keyed by that page's slug, and the code builds a record of many notices and hands the whole record back. So the plural is accurate, and the two names proposed for it pull opposite ways: `seat notices` drops the act word and is still plural, and `seat notice list` applies the list-or-show rule, which is itself unsettled and asked separately. `refresh-settings` is worth deciding in the same breath or explicitly leaving alone: it has been glossed as naming one settings file, and that gloss is wrong — its definition at `:7` says it rewrites each running seat's settings file, and its `:27` says every settings file a running process names is read. It writes many. Nothing anywhere writes down a rule about number. `commands/properties/level-name.text-property.ts` defines a level name and states two invariants, that a name carries no part of the name above it and that a name is matched whole against one word; neither mentions singular or plural, and nor does the command page type. On cost: the shell aliases at `shell/terminal/terminal-calls/terminal-calls.module.code.ts` and the editor extension at `code/editor/extension/seat-calls/seat-calls.module.code.ts` both take the name off the imported page object rather than spelling it, so a rename touches the command's own folder, its namespace parts list, and whatever prose or provenance records happen to carry the rendered call path.",
+  askedBy: "athena",
+  askedIn: "01a09264-510d-791b-bed6-6bfd0815b604",
+  status: "open",
+  offered: [
+    "`seat notices` — the act word goes and the plural is kept, because the command answers many notices and the name should say so",
+    "`seat notice list` — the list-or-show rule binds and this name follows it, which makes this answer wait on that question",
+    "`compose-notices` is kept, and the rule is written down as: a name is singular unless the command answers many, which `dev-server log` already obeys and this already obeys too",
+    "`refresh-settings` is settled the same way in the same landing, since it also writes many and has been carved out for a reason that is not true",
+  ],
+} as const satisfies Question
