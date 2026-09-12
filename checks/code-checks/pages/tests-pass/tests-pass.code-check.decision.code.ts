@@ -142,19 +142,29 @@ export function failinglyOf(ran: Ran, over: string, failing: readonly string[]):
   return `${counted(failing.length)} ${blamed}:\n${failing.join("\n")}\n\n${said}`
 }
 
+function measuredOf(ran: Ran): string {
+  const each = ran.spent.map((one) => one.ranAt).sort()
+  const first = each[0]
+  const last = each[each.length - 1]
+  if (first === undefined || last === undefined) return ""
+  if (first === last) return `Measured at ${first}. `
+  return `Measured between ${first} and ${last}. `
+}
+
 export function reasonOf(ran: Ran, named: readonly string[], failing: readonly string[]): string {
   const over = `${counted(named.length)} standing beside what this change carries`
-  if (ran.verdict === "slow") return slowlyOf(ran)
-  if (ran.verdict === "fail") return failinglyOf(ran, over, failing)
+  const when = measuredOf(ran)
+  if (ran.verdict === "slow") return `${when}${slowlyOf(ran)}`
+  if (ran.verdict === "fail") return `${when}${failinglyOf(ran, over, failing)}`
   if (ran.verdict === "short") {
     return (
-      `${ran.summary.files} of the ${named.length} test files named ran, so the ones that did ` +
-      `pass say nothing about the rest:\n${saidOf(ran.output)}`
+      `${when}${ran.summary.files} of the ${named.length} test files named ran, so the ones ` +
+      `that did pass say nothing about the rest:\n${saidOf(ran.output)}`
     )
   }
   const ended = endingOf(ran.code, ran.signal)
   return (
-    `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
+    `${when}the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
     `This is the runner failing, not a test:\n${saidOf(ran.output)}`
   )
 }

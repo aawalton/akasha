@@ -357,6 +357,7 @@ test("the reason names a file where it stands in the change, not in the world it
     refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
+  expect(said[0]?.reason).toContain("Measured at 20")
   expect(said[0]?.reason).toContain("akasha/one.module.test.ts")
 })
 
@@ -375,5 +376,6 @@ test("a file that throws as it loads is the file the refusal names", () => {
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/two.module.test.ts")
+  expect(said[0]?.reason).toContain("Measured between 20")
   expect(said[0]?.reason).toContain("1 error was raised outside any test")
 })
