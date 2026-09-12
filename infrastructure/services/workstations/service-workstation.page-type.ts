@@ -48,8 +48,6 @@ export const serviceWorkstation = {
     "text-property/wants",
     "module/tick-ratchet",
     "module/run-composing",
-    "module/run-path-reading",
-    "module/service-reaching",
     "module/service-putting-up",
     "module-property-group/running",
     "module/binary-running",
