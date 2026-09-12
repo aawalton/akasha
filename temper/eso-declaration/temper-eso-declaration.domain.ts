@@ -20,7 +20,11 @@ export const temperEsoDeclaration = {
     },
     {
       invariantKind: "departure",
-      statement: "A token the dump describes is carried through unjudged.",
+      statement: "A name the dump describes is carried through unjudged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type the dump describes is judged before a declaration carries that type.",
     },
     {
       invariantKind: "departure",

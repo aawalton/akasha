@@ -7,7 +7,62 @@ import {
   declaring,
   heldAlready,
   temperEsoGenerateDeclaration,
+  typeFaultsIn,
 } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
+import type { SelectedTokens } from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
+
+const NOTHING: SelectedTokens = { functions: [], objects: [], events: [], enums: [] }
+
+const OWNS = "number; declare const OWNED: number"
+
+test("a type the documentation states that no declaration may carry is named as a fault", () => {
+  const said = typeFaultsIn({
+    ...NOTHING,
+    functions: [
+      {
+        name: "GetThing",
+        params: [{ name: "one", type: OWNS, isOptional: false }],
+        returns: [],
+        hasVariableReturns: false,
+      },
+    ],
+  })
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(OWNS)
+})
+
+test("such a type is named wherever the documentation states it", () => {
+  const said = typeFaultsIn({
+    ...NOTHING,
+    events: [{ name: "EVENT_ONE", params: [{ name: "one", type: OWNS }] }],
+    objects: [
+      {
+        name: "Control",
+        inheritsFrom: [],
+        methods: [
+          {
+            name: "GetOne",
+            params: [],
+            returns: [{ name: "one", type: OWNS }],
+            hasVariableReturns: false,
+          },
+        ],
+      },
+    ],
+  })
+
+  expect(said).toHaveLength(1)
+})
+
+test("a documentation stating only types a declaration may carry names no fault", () => {
+  expect(
+    typeFaultsIn({
+      ...NOTHING,
+      events: [{ name: "EVENT_ONE", params: [{ name: "one", type: "number" }] }],
+    })
+  ).toEqual([])
+})
 
 const HELD = "somewhere/held-already.type-declaration.d.ts"
 

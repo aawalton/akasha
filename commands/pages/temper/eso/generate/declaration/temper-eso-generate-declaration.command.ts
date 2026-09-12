@@ -48,6 +48,18 @@ export const temperEsoGenerateDeclaration = {
       statement: "A file the checkout already has is left out of that change.",
     },
     {
+      invariantKind: "departure",
+      statement: "A type the documentation states that no declaration may carry refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run refusing over such a type writes nothing and names each such type.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No type reaches a declaration unjudged.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A name the checkout declares already is declared no second time here.",
     },

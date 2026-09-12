@@ -26,6 +26,18 @@ export const esoDocTokens = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a type may be written into a declaration is answered here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type the map names, a name, and a name or nothing may be written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Any other type is answered as a fault naming that type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An enum with no values is no enum.",
     },
     {

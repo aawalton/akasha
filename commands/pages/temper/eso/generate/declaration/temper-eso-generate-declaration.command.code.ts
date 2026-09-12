@@ -42,9 +42,13 @@ import {
   parseEvents,
   parseFunctions,
   parseObjects,
+  typeFaultIn,
 } from "akasha/temper/eso-declaration/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 import { ESO_OPT_IN } from "akasha/temper/eso-declaration/eso-opt-in/eso-opt-in.module.code.ts"
-import { selectOptIn } from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
+import {
+  type SelectedTokens,
+  selectOptIn,
+} from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
@@ -101,6 +105,27 @@ export function heldAlready(
     }
   }
   return [...found].map(([name, at]) => `\`${name}\` at ${at}`).sort()
+}
+
+export function typeFaultsIn(selected: SelectedTokens): readonly string[] {
+  const found = new Set<string>()
+  const judged = (held: string): undefined => {
+    const why = typeFaultIn(held)
+    if (why !== null) found.add(why)
+    return undefined
+  }
+  for (const one of selected.functions) {
+    for (const said of one.params) judged(said.type)
+    for (const said of one.returns) judged(said.type)
+  }
+  for (const one of selected.events) for (const said of one.params) judged(said.type)
+  for (const one of selected.objects) {
+    for (const method of one.methods) {
+      for (const said of method.params) judged(said.type)
+      for (const said of method.returns) judged(said.type)
+    }
+  }
+  return [...found].sort()
 }
 
 function ambientIn(root: string): readonly string[] {
@@ -178,6 +203,17 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
   const stamped = (body: string): string => `${stamp}\n${body}`
 
   const outDir = resolve(root, OUT_REL)
+
+  const faults = typeFaultsIn(selected)
+  if (faults.length > 0) {
+    return refused(
+      `${docPath} states ${String(faults.length)} type(s) no declaration may carry, ` +
+        `among them ${faults.slice(0, NAMED_FIRST).join(", ")}. A type is written into a ` +
+        `declaration whole, so nothing was written to ${outDir}.`,
+      DATA
+    )
+  }
+
   const bodies: readonly (readonly [string, string])[] = [
     ["enums.d.ts", stamped(generateEnumsFile(selected.enums))],
     ["functions.d.ts", stamped(generateFunctionsFile(selected.functions))],

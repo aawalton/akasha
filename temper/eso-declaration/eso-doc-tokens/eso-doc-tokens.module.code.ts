@@ -142,6 +142,19 @@ function parseType(typeStr: string): string {
   return typeStr
 }
 
+const NAMED_TYPE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+const OR_NOTHING = " | undefined"
+
+const VOUCHED = new Set(Object.values(TYPE_MAP))
+
+export function typeFaultIn(held: string): string | null {
+  if (VOUCHED.has(held) || NAMED_TYPE.test(held)) return null
+  const bare = held.endsWith(OR_NOTHING) ? held.slice(0, -OR_NOTHING.length) : held
+  if (NAMED_TYPE.test(bare)) return null
+  return `\`${held}\` is no type name, so a declaration carrying it would carry whatever it spells`
+}
+
 export function parseEnums(content: string): ParsedEnum[] {
   const enums: ParsedEnum[] = []
   const lines = content.split("\n")

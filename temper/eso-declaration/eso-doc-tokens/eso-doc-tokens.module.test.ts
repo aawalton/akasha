@@ -4,7 +4,35 @@ import {
   parseEvents,
   parseFunctions,
   parseObjects,
+  typeFaultIn,
 } from "akasha/temper/eso-declaration/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+
+test("a type the map names may be written into a declaration", () => {
+  expect(typeFaultIn("string")).toBeNull()
+  expect(typeFaultIn("Record<string, unknown>")).toBeNull()
+  expect(typeFaultIn("(...args: unknown[]) => unknown")).toBeNull()
+})
+
+test("a type that is a name, or a name or nothing, may be written too", () => {
+  expect(typeFaultIn("Widget")).toBeNull()
+  expect(typeFaultIn("Widget | undefined")).toBeNull()
+})
+
+test("a type spelling more than a name is answered as a fault naming that type", () => {
+  const said = typeFaultIn("number; declare const OWNED: number")
+  expect(said).toContain("is no type name")
+  expect(said).toContain("number; declare const OWNED: number")
+})
+
+test("a type carrying a quote or a brace is answered as a fault", () => {
+  expect(typeFaultIn('string"')).toContain("is no type name")
+  expect(typeFaultIn("{ owned: 1 }")).toContain("is no type name")
+})
+
+test("a type the documentation states as nothing at all is answered as a fault", () => {
+  expect(typeFaultIn("")).toContain("is no type name")
+  expect(typeFaultIn(" | undefined")).toContain("is no type name")
+})
 
 const ENUM_DUMP = [
   "h5. AbilityType",
