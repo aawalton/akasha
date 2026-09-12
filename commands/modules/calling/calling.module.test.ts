@@ -58,6 +58,26 @@ test("a name no command carries is refused, and the commands are listed", async 
   const said = await calling(["nowhere"], { ...OUTSIDE, root })
   expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("`nowhere` is no command akasha carries")
+  expect(said.refusals[0]).not.toContain("Did you mean")
+})
+
+test("a name near a command's is refused with that command pointed at", async () => {
+  const root = rootWith([{ slug: "audit", body: ANSWERS }])
+  const said = await calling(["audt"], { ...OUTSIDE, root })
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals[0]).toContain("`audt` is no command akasha carries.")
+  expect(said.refusals[0]).toContain("Did you mean `audit`?")
+})
+
+test("a name near a namespace's is refused with that namespace pointed at", async () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  namespacesIn(root, [
+    { slug: "change", definition: "what a landing carries", parts: ["command/held"] },
+  ])
+  const said = await calling(["chnge", "draft"], { ...OUTSIDE, root })
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals[0]).toContain("`chnge` is no command akasha carries.")
+  expect(said.refusals[0]).toContain("Did you mean `change`?")
 })
 
 test("a name carried by more than one command is refused rather than chosen between", async () => {
