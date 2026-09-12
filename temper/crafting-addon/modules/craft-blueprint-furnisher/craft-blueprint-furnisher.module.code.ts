@@ -1,4 +1,3 @@
-import { defined } from "akasha/temper/crafting-addon/craft-defined/craft-defined.module.code.ts"
 import * as PlayerState from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
 import {
   type CsQualityColor,
@@ -11,6 +10,7 @@ import {
   toChat,
 } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

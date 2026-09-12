@@ -1,4 +1,3 @@
-import { CRAFTING } from "akasha/temper/crafting-addon/craft-crafting/craft-crafting.module.code.ts"
 import {
   storagePurge,
   updateBag,
@@ -77,6 +76,7 @@ import {
   drawCharacters,
   removeCharacter,
 } from "akasha/temper/crafting-addon/modules/craft-character-panel/craft-character-panel.module.code.ts"
+import { CRAFTING } from "akasha/temper/crafting-addon/modules/craft-crafting/craft-crafting.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"
