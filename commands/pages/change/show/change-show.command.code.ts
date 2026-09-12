@@ -4,6 +4,7 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -74,7 +75,7 @@ export function showing(given: Given, taken: Arguments): Answer {
   const kept = editsIn(given.root, page)
   if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
   const before = foldedIn(kept.rows)
-  if (before.refused !== null) return { report: [], refusals: [before.refused], code: 3 }
+  if (before.refused !== null) return { report: [], refusals: [before.refused], code: DATA }
   let text: string | null
   try {
     text = worldFor(given.root, kept.rows, before).textOf(path)
