@@ -58,11 +58,6 @@ function buildFlagMap(flags: readonly HelpFlag[]): FlagLookup {
     bySurfaceName.set(f.name, def)
     canonical.set(f.name, def)
     allSurfaceNames.push(f.name)
-    for (const alias of f.aliases ?? []) {
-      if (bySurfaceName.has(alias)) throw new Error(`duplicate flag declaration: ${alias}`)
-      bySurfaceName.set(alias, def)
-      allSurfaceNames.push(alias)
-    }
   }
   return { bySurfaceName, canonical, allSurfaceNames }
 }
