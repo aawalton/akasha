@@ -48,7 +48,7 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   }
 }
 
-export function imessageRecent(argv: readonly string[]): Promise<Answer> {
+export function imessageRecentList(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
   return answering(async () => {

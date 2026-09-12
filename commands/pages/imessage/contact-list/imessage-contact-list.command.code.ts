@@ -36,7 +36,7 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { query, json: said.flags.has(JSON_SAID) }
 }
 
-export function imessageContacts(argv: readonly string[]): Promise<Answer> {
+export function imessageContactList(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
   return answering(async () => {
