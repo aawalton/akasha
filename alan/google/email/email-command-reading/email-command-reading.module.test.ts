@@ -32,7 +32,7 @@ function rootAt(): string {
 }
 
 function givenAt(root: string): Given {
-  return { root, calledAs: "akasha email-messages-send", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha email messages send", from: root, writer: null, agentId: null }
 }
 
 const TTY = () => ({ tty: true }) as const

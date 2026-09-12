@@ -29,7 +29,7 @@ function parseColorsAnswered(said: string): { readonly colors: Record<string, st
 function givenIn(): Given {
   return {
     root: ROOT,
-    calledAs: "akasha agent-turn-colors",
+    calledAs: "akasha agent turn-colors",
     from: ROOT,
     writer: null,
     agentId: null,
