@@ -14,16 +14,7 @@ export const initiativeMoveIntent = {
     { said: "<statement>", takes: "the statement the intent being moved states" },
     { said: "<onto>", takes: "the statement the intent it is moved onto states" },
   ],
-  helpNotes: [
-    "an intent is named by its statement, which is the label the work tree draws it under.",
-    "both intents are found in the page as the change lands, so no place is named here.",
-    "the intent moved takes the place the intent moved onto holds.",
-    "moving onto an intent above it puts it before that intent, and below it, after.",
-    "the last place is reached by moving onto the last intent from above it.",
-    "the order the page states is the order the panel draws, so this run orders the panel.",
-    "a run lands one commit and runs no check.",
-    "an initiative is named by the slug it declares rather than by the name of its file.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
