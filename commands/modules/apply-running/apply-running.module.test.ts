@@ -19,7 +19,10 @@ import { baseOf } from "akasha/commands/modules/landing-change-composing/landing
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
@@ -30,11 +33,13 @@ const TWO = "akasha/two.page.ts"
 
 const RUNNER = "change-runner"
 
-const MAPPED_PAGE = `akasha/mapped.${RUNNER}.ts`
+const MAPPED_SLUG = "mapped"
+
+const MAPPED_PAGE = `akasha/${MAPPED_SLUG}.${RUNNER}.ts`
 
 const MAPPED_ID = "01a081cd-0cb7-7579-9073-ed4e5aa98bf0"
 
-const MAPPED = `akasha/mapped.${RUNNER}.addressed.ts`
+const MAPPED = `akasha/${MAPPED_SLUG}.${RUNNER}.addressed.ts`
 
 const ORPHAN = `akasha/orphan.${RUNNER}.addressed.ts`
 
@@ -133,8 +138,9 @@ async function repo(): Promise<string> {
   gitSaid(root, ["add", "--", ONE])
   gitSaid(root, [...WHO, "commit", "-q", "-m", "base", "--", ONE])
   nothingFiled(root)
+  listedFiled(root, RUNNER, MAPPED_SLUG, [{ path: MAPPED_PAGE, id: MAPPED_ID }])
   valueAlsoFiled(root, RUNNER, [
-    { path: MAPPED_PAGE, value: { id: MAPPED_ID, pageTypeSlug: RUNNER, slug: "mapped" } },
+    { path: MAPPED_PAGE, value: { id: MAPPED_ID, pageTypeSlug: RUNNER, slug: MAPPED_SLUG } },
   ])
   return root
 }
