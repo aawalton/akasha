@@ -2,6 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  auditRefusalsAt,
+  auditRefusalsPut,
   bodyOf,
   fits,
   pointedAt,
@@ -20,6 +22,8 @@ afterAll(scratch.sweep)
 const PAGE = "one/amy.seat.ts"
 
 const AT = "one/amy.seat.refusals.uncommitted.txt"
+
+const AUDITED_AT = "one/amy.seat.audit-refusals.uncommitted.txt"
 
 test("a seat's refusals are named beside that seat's page, outside the commit", () => {
   expect(refusalsAt("seat-system/seats/pages/amy.seat.ts")).toBe(
@@ -92,4 +96,40 @@ test("a path under no TypeScript name is written nowhere and names nothing", () 
 
 test("a file the machine could not write hands back no path", () => {
   expect(refusalsPut("/elsewhere-nothing-reaches", PAGE, ["one"])).toBeNull()
+})
+
+test("an audit's refusals are named beside the agent's page under a name of their own", () => {
+  expect(auditRefusalsAt(PAGE)).toBe(AUDITED_AT)
+  expect(auditRefusalsAt(PAGE)).not.toBe(refusalsAt(PAGE))
+})
+
+test("an audit's refusals are written whole and hand back the path they went to", () => {
+  const root = scratch.rootFor("akasha-refusals-keeping-")
+  writing(root, PAGE, "the page\n")
+  expect(auditRefusalsPut(root, PAGE, ["one refused", "two refused"])).toBe(AUDITED_AT)
+  expect(readFileSync(join(root, AUDITED_AT), "utf8")).toBe("one refused\n\ntwo refused\n")
+})
+
+test("a landing that refused nothing leaves what the audit wrote as it was", () => {
+  const root = scratch.rootFor("akasha-refusals-keeping-")
+  writing(root, PAGE, "the page\n")
+  auditRefusalsPut(root, PAGE, ["what the audit found"])
+  expect(refusalsPut(root, PAGE, [])).toBeNull()
+  expect(readFileSync(join(root, AUDITED_AT), "utf8")).toBe("what the audit found\n")
+})
+
+test("an audit refusing nothing takes its own file away", () => {
+  const root = scratch.rootFor("akasha-refusals-keeping-")
+  writing(root, PAGE, "the page\n")
+  auditRefusalsPut(root, PAGE, ["what the audit found"])
+  expect(auditRefusalsPut(root, PAGE, [])).toBeNull()
+  expect(() => readFileSync(join(root, AUDITED_AT), "utf8")).toThrow()
+})
+
+test("an audit refusing nothing leaves what a landing wrote as it was", () => {
+  const root = scratch.rootFor("akasha-refusals-keeping-")
+  writing(root, PAGE, "the page\n")
+  refusalsPut(root, PAGE, ["what the landing refused"])
+  expect(auditRefusalsPut(root, PAGE, [])).toBeNull()
+  expect(readFileSync(join(root, AT), "utf8")).toBe("what the landing refused\n")
 })

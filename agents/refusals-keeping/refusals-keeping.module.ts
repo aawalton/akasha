@@ -4,7 +4,7 @@ export const refusalsKeeping = {
   id: "01a08165-a236-719a-95cf-da4ade5acc9f",
   type: "module",
   slug: "refusals-keeping",
-  definition: "the refusals an agent's last landing answered with",
+  definition: "the refusals an agent's last landing or last audit answered with",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,7 +14,16 @@ export const refusalsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The file is named for the `refusals` property the agent page type declares.",
+      statement:
+        "The file is named for the property the agent page type declares for that kind of refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing's refusals and an audit's refusals are kept under two properties.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run keeping one of them leaves the other as it was.",
     },
     {
       invariantKind: "departure",

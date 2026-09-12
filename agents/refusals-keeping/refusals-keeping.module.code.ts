@@ -6,6 +6,8 @@ import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.ind
 
 const SLUG = "refusals"
 
+const AUDITED = "audit-refusals"
+
 const HELD = "txt"
 
 const PARTED = "\n\n"
@@ -16,6 +18,10 @@ const PAST = `what refused this landing runs past the ${ANSWER_CEILING} bytes on
 
 export function refusalsAt(page: string): string | null {
   return uncommittedBesideAt(page, SLUG, HELD)
+}
+
+export function auditRefusalsAt(page: string): string | null {
+  return uncommittedBesideAt(page, AUDITED, HELD)
 }
 
 export function bodyOf(refusals: readonly string[]): string {
@@ -50,16 +56,32 @@ function put(root: string, page: string, at: string, body: string | null): boole
   }
 }
 
+function keptAt(
+  root: string,
+  page: string,
+  at: string | null,
+  refusals: readonly string[]
+): string | null {
+  if (at === null) return null
+  const held = refusals.length === 0 ? null : bodyOf(refusals)
+  if (!put(root, page, at, held)) return null
+  return held === null ? null : at
+}
+
 export function refusalsPut(
   root: string,
   page: string,
   refusals: readonly string[]
 ): string | null {
-  const at = refusalsAt(page)
-  if (at === null) return null
-  const held = refusals.length === 0 ? null : bodyOf(refusals)
-  if (!put(root, page, at, held)) return null
-  return held === null ? null : at
+  return keptAt(root, page, refusalsAt(page), refusals)
+}
+
+export function auditRefusalsPut(
+  root: string,
+  page: string,
+  refusals: readonly string[]
+): string | null {
+  return keptAt(root, page, auditRefusalsAt(page), refusals)
 }
 
 export function refusalsKept(

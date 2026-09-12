@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { refusalsPut } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
+import { auditRefusalsPut } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
 import { asked } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import { commitOf } from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
@@ -114,7 +114,8 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
   if (meant.refusal !== null) return refusedBy([meant.refusal])
   const root = resolve(given.root)
   const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
-  const keeping: Keeping | null = page === null ? null : (whole) => refusalsPut(root, page, whole)
+  const keeping: Keeping | null =
+    page === null ? null : (whole) => auditRefusalsPut(root, page, whole)
   try {
     return await askedOver(root, checksIn(root), meant.only, keeping)
   } catch (thrown) {

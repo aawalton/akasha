@@ -83,6 +83,14 @@ export const audit = {
     },
     {
       invariantKind: "departure",
+      statement: "That file is the agent's audit refusals rather than the file a landing writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing after the audit leaves that file where the answer said it was.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An audit finding nothing writes nothing and names no file.",
     },
     {
