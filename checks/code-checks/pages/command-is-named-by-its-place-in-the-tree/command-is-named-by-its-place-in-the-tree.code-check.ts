@@ -67,9 +67,9 @@ export const commandIsNamedByItsPlaceInTheTree = {
         "A command or a namespace is named among the parts of a namespace or of the `command` page type.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement:
-        "A namespace names an area a person narrows by rather than restating a command under it.",
+        "Whether a namespace names an area worth narrowing by is judged by its writer rather than here.",
     },
     {
       invariantKind: "departure",

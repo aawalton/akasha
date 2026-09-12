@@ -12,6 +12,11 @@ export const namespace = {
     {
       invariantKind: "departure",
       statement:
+        "A namespace names an area a person narrows by rather than restating a command under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A namespace's parts are the commands, namespaces and modules spelled under the namespace.\n",
     },
     {
