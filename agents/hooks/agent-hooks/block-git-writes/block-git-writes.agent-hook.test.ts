@@ -13,7 +13,7 @@ const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 
 const COMMANDS = "  akasha change draft keeps the edits, and akasha change apply lands them"
 
-const HELP = "Say `akasha change draft --help` for the changes it runs."
+const HELP = "that refusal names every change a draft runs."
 
 test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
   expect(refusalIn('git commit -m "one"')).not.toBeNull()

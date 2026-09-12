@@ -13,7 +13,8 @@ const HOOK = "block-git-writes"
 const COMMANDS = [
   "Land akasha content with the akasha commands, which write no body onto the tree by hand:",
   "  akasha change draft keeps the edits, and akasha change apply lands them as one commit",
-  "Say `akasha change draft --help` for the changes it runs.",
+  "Say `akasha change draft --help` for what a draft takes. A draft naming no change is refused,",
+  "and that refusal names every change a draft runs.",
 ]
 
 const EVERY_PATH =
