@@ -11,13 +11,11 @@ export const talosSecretsGen = {
     { said: "--cluster <name>", takes: "the cluster to write for, `main` where none is said" },
     { said: "--force", takes: "write over a bundle already there, which is a deliberate rotation" },
   ],
-  helpNotes: [
-    "the bundle is written to `machines/clusters/pages/<cluster>.cluster.sops.yaml`, beside that cluster's page.",
-    "this runs once per cluster, before the first apply, and every apply for that cluster reads what it wrote.",
-    "a rotation invalidates every node's PKI, so each node must be applied and bootstrapped again and etcd state is lost.",
-    "talosctl and sops must be on PATH, and the bundle is written encrypted rather than ever being in the clear here.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "`talosctl` or `sops` missing from PATH is the machine's fault.",
+    },
     {
       invariantKind: "departure",
       statement: "A cluster nothing names is `main`.",
