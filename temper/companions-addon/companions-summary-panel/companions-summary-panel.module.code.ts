@@ -18,8 +18,8 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { getCleanCompanionName } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/modules/companions-id-map/companions-id-map.module.code.ts"
+import { getCleanCompanionName } from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 
 const SUMMARY_ROW_HEIGHT = 28
 const SUMMARY_ROW_SPACING = 4

@@ -19,11 +19,6 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { scanForUpgrades } from "akasha/temper/companions-addon/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
-import {
-  captureAndSaveActiveCompanionBuild,
-  getSavedCompanionBuild,
-} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import {
   type SummaryRow,
   summaryState,
@@ -49,6 +44,11 @@ import {
   evaluateEquipmentMatch,
   type SlotMismatch,
 } from "akasha/temper/companions-addon/modules/companions-equipment-match/companions-equipment-match.module.code.ts"
+import { scanForUpgrades } from "akasha/temper/companions-addon/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
+import {
+  captureAndSaveActiveCompanionBuild,
+  getSavedCompanionBuild,
+} from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN

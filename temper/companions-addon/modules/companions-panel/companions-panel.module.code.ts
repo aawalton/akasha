@@ -24,7 +24,7 @@ import {
   getSavedCompanionBuild,
   getSelectedCompanionId,
   isSelectedCompanionActive,
-} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
+} from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 
 const ROW_HEIGHT = 28
 const ROW_SPACING = 4

@@ -16,15 +16,6 @@ import {
   TEXT_SECONDARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import {
-  createCompanionDropdown,
-  DROPDOWN_BOTTOM_MARGIN,
-  DROPDOWN_HEIGHT,
-  getCleanCompanionName,
-  getSavedCompanionBuild,
-  getSelectedCompanionId,
-  isSelectedCompanionActive,
-} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
 import {
   type CompanionBuildData,
@@ -33,6 +24,15 @@ import {
 import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
 import { getAbilityIdFromSkillIndex } from "akasha/temper/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
 import type { SavedCompanionBuild } from "akasha/temper/companions-addon/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
+import {
+  createCompanionDropdown,
+  DROPDOWN_BOTTOM_MARGIN,
+  DROPDOWN_HEIGHT,
+  getCleanCompanionName,
+  getSavedCompanionBuild,
+  getSelectedCompanionId,
+  isSelectedCompanionActive,
+} from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const MINI_ICON_SIZE = 24
