@@ -1,6 +1,12 @@
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -11,10 +17,6 @@ import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
 
 export const ARTIST = "artist"
 
@@ -49,8 +51,6 @@ const FLAGGED = PROSE.map((one) => `--${one}`)
 const VALUED = [TARGET, SLUG, RATING, ...FLAGGED, ...FLAGGED.map((one) => `${one}${FROM_FILE}`)]
 
 const BARE = [JSON_SAID]
-
-const WRONG = 3
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
@@ -208,7 +208,7 @@ export async function musicRate(
   }
   const landed = await landing(given.root, changes, `record ${held.target} ${held.slug}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answering([], wrong, WRONG)
+  if (wrong.length > 0) return answering([], wrong, OPERATIONAL)
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
-  return answering(held.json ? [saidOf(held)] : [saidOf(held), ...wrote], [], 0)
+  return answering(held.json ? [saidOf(held)] : [saidOf(held), ...wrote], [], OK)
 }
