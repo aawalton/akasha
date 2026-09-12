@@ -1,5 +1,9 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
+import { onto } from "akasha/commands/arguments/pages/onto.argument.ts"
+import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
 import {
   answering,
   DATA,
@@ -9,6 +13,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { initiativeMoveIntent as page } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 
 const CARRIES = "change-mechanical-file-content/move-property-value"
@@ -16,9 +21,6 @@ const CARRIES = "change-mechanical-file-content/move-property-value"
 const INTENTS = "intents"
 
 const STATEMENT = "statement"
-
-const TAKES =
-  "this takes three words: an initiative, the statement the intent states and the statement the intent it is moved onto states"
 
 const NO_STATEMENT =
   "the statement said is empty, and an intent is named by the statement it states"
@@ -34,22 +36,13 @@ export type Asked = {
   readonly onto: string
 }
 
-export type Read = Asked | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const slug = argv[0]
-  const statement = argv[1]
-  const onto = argv[2]
-  if (slug === undefined || statement === undefined || onto === undefined || argv.length !== 3) {
-    return { refused: [`${TAKES}, and ${argv.length} arrived`] }
-  }
-  const refusals = [
-    ...(statement.trim() === "" ? [NO_STATEMENT] : []),
-    ...(onto.trim() === "" ? [NO_ONTO] : []),
+export function wrongIn(asked: Asked): readonly string[] {
+  const wrong = [
+    ...(asked.statement.trim() === "" ? [NO_STATEMENT] : []),
+    ...(asked.onto.trim() === "" ? [NO_ONTO] : []),
   ]
-  if (refusals.length > 0) return { refused: refusals }
-  if (statement === onto) return { refused: [SAME] }
-  return { slug, statement, onto }
+  if (wrong.length > 0) return wrong
+  return asked.statement === asked.onto ? [SAME] : []
 }
 
 export function noInitiative(slug: string): string {
@@ -106,7 +99,14 @@ export async function carriedBy(
 }
 
 export async function initiativeMoveIntent(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [initiative, statement, onto])
   if ("refused" in read) return mistaking([...read.refused])
-  return await carriedBy(read, given)
+  const asked: Asked = {
+    slug: read.taken.initiative,
+    statement: read.taken.statement,
+    onto: read.taken.onto,
+  }
+  const wrong = wrongIn(asked)
+  if (wrong.length > 0) return mistaking(wrong)
+  return await carriedBy(asked, given)
 }

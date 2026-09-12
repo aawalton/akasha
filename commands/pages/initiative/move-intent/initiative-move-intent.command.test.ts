@@ -3,67 +3,45 @@ import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  type Asked,
   carriedBy,
+  initiativeMoveIntent,
   messageFor,
   noInitiative,
-  readIn,
   saidFor,
+  wrongIn,
 } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.code.ts"
 
-const ASKED = { slug: "held", statement: "A thing is so.", onto: "Another thing is so." }
+const ASKED: Asked = { slug: "held", statement: "A thing is so.", onto: "Another thing is so." }
 
-test("three words are read as an initiative and two statements", () => {
-  expect(readIn(["amy-work-panel-editing", "A thing is so.", "Another thing is so."])).toEqual({
-    slug: "amy-work-panel-editing",
-    statement: "A thing is so.",
-    onto: "Another thing is so.",
-  })
-})
+test("a call naming more than three words is refused", async () => {
+  const said = await initiativeMoveIntent(["one", "two", "three", "four"], GIVEN)
 
-test("a call naming fewer than three words is refused", () => {
-  const said = readIn(["amy-work-panel-editing", "A thing is so."])
-
-  expect(said).toEqual({
-    refused: [
-      "this takes three words: an initiative, the statement the intent states and the statement the intent it is moved onto states, and 2 arrived",
-    ],
-  })
-})
-
-test("a call naming more than three words is refused", () => {
-  const said = readIn(["one", "A thing is so.", "Another thing is so.", "3"])
-
-  expect("refused" in said).toBe(true)
+  expect(said.refusals).toEqual([
+    "`akasha initiative move-intent` takes 3 words and this call says 4 words",
+  ])
 })
 
 test("a statement of no text is refused", () => {
-  const said = readIn(["one", "  ", "Another thing is so."])
-
-  expect(said).toEqual({
-    refused: ["the statement said is empty, and an intent is named by the statement it states"],
-  })
+  expect(wrongIn({ ...ASKED, statement: "  " })).toEqual([
+    "the statement said is empty, and an intent is named by the statement it states",
+  ])
 })
 
 test("an intent moved onto nothing is refused", () => {
-  const said = readIn(["one", "A thing is so.", " "])
-
-  expect(said).toEqual({
-    refused: [
-      "the intent moved onto is said as nothing, and an intent is named by the statement it states",
-    ],
-  })
+  expect(wrongIn({ ...ASKED, onto: " " })).toEqual([
+    "the intent moved onto is said as nothing, and an intent is named by the statement it states",
+  ])
 })
 
 test("an intent moved onto itself is refused", () => {
-  const said = readIn(["one", "A thing is so.", "A thing is so."])
-
-  expect(said).toEqual({ refused: ["an intent moved onto itself moves nowhere"] })
+  expect(wrongIn({ ...ASKED, onto: ASKED.statement })).toEqual([
+    "an intent moved onto itself moves nowhere",
+  ])
 })
 
 test("both words are judged, so one call says both refusals", () => {
-  const said = readIn(["one", " ", "  "])
-
-  expect("refused" in said && said.refused).toHaveLength(2)
+  expect(wrongIn({ ...ASKED, statement: " ", onto: "  " })).toHaveLength(2)
 })
 
 test("a name that is no initiative is refused in words naming it", () => {
