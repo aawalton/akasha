@@ -27,6 +27,10 @@ export const relationProperty = {
       invariantKind: "absence",
       statement: "No relation property's name ends in `slug`.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No relation value lands that akasha cannot key to one page.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
