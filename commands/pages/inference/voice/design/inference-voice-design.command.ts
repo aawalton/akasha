@@ -7,7 +7,6 @@ export const inferenceVoiceDesign = {
   definition: "the command speaking text in a voice made up from a description of it",
   code: "ts",
   taking: [
-    { said: "--instruct <description>", takes: "the voice described in words" },
     {
       said: "--text <transcript>",
       takes: "what the voice says, which becomes the clip's transcript",
@@ -52,5 +51,6 @@ export const inferenceVoiceDesign = {
     { argument: "argument/lang" },
     { argument: "argument/text-file" },
     { argument: "argument/instruct-file" },
+    { argument: "argument/instruct", notWith: ["argument/instruct-file"] },
   ],
 } as const satisfies Command
