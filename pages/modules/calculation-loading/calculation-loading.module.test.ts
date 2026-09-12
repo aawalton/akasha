@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { workIn } from "akasha/pages/calculation-loading/calculation-loading.module.code.ts"
-import { AT } from "akasha/pages/calculation-loading/calculation-loading.module.test-fixtures.ts"
 import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { Held } from "akasha/pages/computing/page-computing.module.code.ts"
+import { workIn } from "akasha/pages/modules/calculation-loading/calculation-loading.module.code.ts"
+import { AT } from "akasha/pages/modules/calculation-loading/calculation-loading.module.test-fixtures.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }
 

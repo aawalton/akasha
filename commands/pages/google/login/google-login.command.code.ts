@@ -1,4 +1,4 @@
-import { CALENDAR_OAUTH_SCOPE } from "akasha/alan/google/calendar/calendar-credentials/calendar-credentials.module.code.ts"
+import { CALENDAR_OAUTH_SCOPE } from "akasha/alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"
 import { DRIVE_SCOPES } from "akasha/alan/google/drive/drive-credentials/drive-credentials.module.code.ts"
 import { GMAIL_SCOPES } from "akasha/alan/google/email/gmail-credentials/gmail-credentials.module.code.ts"
 import { readGoogleOauthAppCredentials } from "akasha/alan/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"

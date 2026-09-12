@@ -1,10 +1,6 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import {
-  type TextOf,
-  workIn,
-} from "akasha/pages/calculation-loading/calculation-loading.module.code.ts"
-import {
   type Computed,
   computingOver,
   type Named as Reached,
@@ -24,6 +20,10 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { carriedOf, carriedOfType } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
+import {
+  type TextOf,
+  workIn,
+} from "akasha/pages/modules/calculation-loading/calculation-loading.module.code.ts"
 import {
   type Carried,
   propertiesFrom,

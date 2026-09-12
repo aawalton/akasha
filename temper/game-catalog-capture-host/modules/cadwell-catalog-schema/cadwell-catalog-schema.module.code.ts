@@ -1,5 +1,5 @@
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
-import type { CadwellCatalogLevel } from "akasha/temper/capture-shapes/cadwell-catalog/cadwell-catalog.module.code.ts"
+import type { CadwellCatalogLevel } from "akasha/temper/capture-shapes/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
 import { z } from "zod"
 
 const cadwellCatalogPOISchema = z

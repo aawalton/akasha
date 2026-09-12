@@ -1,11 +1,11 @@
 "use client"
 
-import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { BuyRulesPanel } from "akasha/temper/player-inventory-management-ui/inventory-buy-rules-panel/inventory-buy-rules-panel.module.code.tsx"
 import { CategoryRulesPanel } from "akasha/temper/player-inventory-management-ui/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx"
 import type {

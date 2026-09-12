@@ -94,13 +94,17 @@ export function sendingRefused(said: string | undefined): readonly string[] {
 
 export async function asAlan() {
   return await (
-    await import("akasha/alan/google/calendar/calendar-client/calendar-client.module.code.ts")
+    await import(
+      "akasha/alan/google/calendar/modules/calendar-client/calendar-client.module.code.ts"
+    )
   ).makeOAuthCalendarClient()
 }
 
 export async function asAkasha() {
   return await (
-    await import("akasha/alan/google/calendar/calendar-client/calendar-client.module.code.ts")
+    await import(
+      "akasha/alan/google/calendar/modules/calendar-client/calendar-client.module.code.ts"
+    )
   ).makeCalendarClient()
 }
 

@@ -1,4 +1,3 @@
-import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   addCategoryRule,
   addItemRule,
@@ -32,6 +31,7 @@ import {
   removeBuyRule,
   updateBuyRule,
 } from "akasha/temper/items-rules-core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
+import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   preserveLocked,
   useStableSettingsHandler,

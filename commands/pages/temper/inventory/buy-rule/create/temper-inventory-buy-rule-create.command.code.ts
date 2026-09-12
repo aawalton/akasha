@@ -23,14 +23,14 @@ import {
   webOf,
   wroteSaid,
 } from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import type {
-  BuyRule,
-  BuySource,
-} from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   addBuyRule,
   bulkUpdateBuyRules,
 } from "akasha/temper/items-rules-core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
+import type {
+  BuyRule,
+  BuySource,
+} from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 
 const MERCHANT = "merchant"
 

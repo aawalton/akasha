@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "233 refusals sit in page code a runner loads by path, so the import index sees no importer: lualib shims 123, commands 34, computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3. `pages/calculation-loading` reaches a computed property's `work` by name. Routes were settled first: a route's code is judged by nothing, since an `app-routes` page names the route and a url reaches it.",
+        "233 refusals sit in page code a runner loads by path, so the import index sees no importer: lualib shims 123, commands 34, computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3. `pages/modules/calculation-loading` reaches a computed property's `work` by name. Routes were settled first: a route's code is judged by nothing, since an `app-routes` page names the route and a url reaches it.",
     },
     {
       statement: "No module exports a value nothing names.",

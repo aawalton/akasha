@@ -1,7 +1,6 @@
 "use client"
 
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import { compileCategoryRuleToOrdered } from "akasha/temper/items-rules-core/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import type {
   AffectedItem,
@@ -12,6 +11,7 @@ import {
   IMPLICIT_TERMINAL_RULE_ID,
   type ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import {

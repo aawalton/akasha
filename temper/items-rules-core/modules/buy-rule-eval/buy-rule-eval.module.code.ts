@@ -1,4 +1,4 @@
-import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 
 export interface BuyRuleEvaluation {
   rule: BuyRule

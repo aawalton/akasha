@@ -1,6 +1,5 @@
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
-import type { BuySource } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   destinationFormsSaid,
   narrowDestination,
@@ -16,6 +15,7 @@ import {
   type StockScope,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getCategoryDescendantIds } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import type { BuySource } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { z } from "zod"
 
 const CATEGORY_IDS: ReadonlySet<string> = getCategoryDescendantIds(

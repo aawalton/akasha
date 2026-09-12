@@ -6,7 +6,7 @@ import {
 } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
-import { Calendar } from "akasha/design/interfaces/forms/calendar/calendar.module.code.tsx"
+import { Calendar } from "akasha/design/interfaces/forms/modules/calendar/calendar.module.code.tsx"
 import {
   Popover,
   PopoverContent,
