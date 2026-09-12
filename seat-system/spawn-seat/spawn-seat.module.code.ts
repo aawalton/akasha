@@ -18,6 +18,10 @@ import { refuseHeldName } from "akasha/agents/seats/modules/name-held-refusal/se
 import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 import {
+  decideSkillTokenGuard,
+  DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
+} from "akasha/agents/seats/modules/skill-token-guard/skill-token-guard.module.code.ts"
+import {
   dataError,
   inputError,
   operationalError,
@@ -28,10 +32,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  decideSkillTokenGuard,
-  DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
-} from "akasha/seat-system/skill-token-guard/skill-token-guard.module.code.ts"
 import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { enforceSpawnAdmission } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 
