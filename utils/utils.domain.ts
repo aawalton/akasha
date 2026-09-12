@@ -19,6 +19,7 @@ export const utils = {
     "domain/utils-timing",
     "domain/utils-waiting",
     "domain/digit-padding",
+    "module/during-call",
   ],
   invariants: [
     {

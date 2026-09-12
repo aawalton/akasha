@@ -71,7 +71,6 @@ export const command = {
     "module/applying",
     "module/landing",
     "module/landing-change-composing",
-    "module/during-call",
     "module/command-declaring",
     "module/command-answering",
     "module/calling",

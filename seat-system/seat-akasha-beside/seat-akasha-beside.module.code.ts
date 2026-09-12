@@ -1,6 +1,5 @@
 import { statSync } from "node:fs"
 import { basename, join } from "node:path"
-import { onceInCall } from "akasha/commands/modules/during-call/during-call.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -10,6 +9,7 @@ import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { seatAbove } from "akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
+import { onceInCall } from "akasha/utils/during-call/during-call.module.code.ts"
 
 export type Beside = Record<string, unknown>
 
