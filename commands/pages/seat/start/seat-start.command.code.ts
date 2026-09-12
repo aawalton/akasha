@@ -1,4 +1,5 @@
 import { refuseStatedName } from "akasha/agents/seats/modules/stated-name-refusal/seat-stated-name-refusal.module.code.ts"
+import { refuseStatedParent } from "akasha/agents/seats/modules/stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { account } from "akasha/commands/arguments/pages/account.argument.ts"
 import { anthropicAuthToken } from "akasha/commands/arguments/pages/anthropic-auth-token.argument.ts"
@@ -18,7 +19,6 @@ import { refusedBy } from "akasha/commands/modules/answering/command-answering.m
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { seatStart as page } from "akasha/commands/pages/seat/start/seat-start.command.ts"
-import { refuseStatedParent } from "akasha/seat-system/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 
 const TAKES = [
   account,

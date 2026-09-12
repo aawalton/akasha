@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { STATED_PARENT } from "akasha/agents/seats/modules/stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import { account } from "akasha/commands/arguments/pages/account.argument.ts"
 import { anthropicAuthToken } from "akasha/commands/arguments/pages/anthropic-auth-token.argument.ts"
@@ -18,7 +19,6 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { seatStart } from "akasha/commands/pages/seat/start/seat-start.command.code.ts"
 import { seatStart as page } from "akasha/commands/pages/seat/start/seat-start.command.ts"
-import { STATED_PARENT } from "akasha/seat-system/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 
 const REPO = rootOf(import.meta.dir)
 
