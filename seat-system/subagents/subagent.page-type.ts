@@ -153,6 +153,11 @@ export const subagent = {
       invariantKind: "departure",
       statement: "A message to a subagent dies with the session that had the message.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent keeps edits only while the index files its seat by id and its own page by slug.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
