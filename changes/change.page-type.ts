@@ -28,6 +28,7 @@ export const change = {
     "module/change-answer",
     "module/edits-keeping",
     "page-type/change-mode",
+    "relation-property/change-kind",
     "relation-property/change-mode",
     "relation-property/change-target-type",
     "relation-property/change-target-subtype",
