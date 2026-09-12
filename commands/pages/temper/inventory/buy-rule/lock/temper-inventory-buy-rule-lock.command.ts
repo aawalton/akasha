@@ -35,7 +35,7 @@ export const temperInventoryBuyRuleLock = {
     },
     {
       invariantKind: "departure",
-      statement: "An id no buy rule has refuses the call.",
+      statement: "An id no buy rule carries refuses the call.",
     },
   ],
   name: "lock",
