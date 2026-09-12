@@ -1,3 +1,7 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import {
   answering,
   INPUT,
@@ -9,6 +13,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { liveSeats } from "akasha/commands/pages/model/gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
+import { modelGatewaySwap as page } from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.ts"
 import {
   describeAckTimeout,
   setRequestedAction,
@@ -18,11 +23,6 @@ import type { SeatMatch } from "akasha/seat-system/seat-handle/seat-handle.modul
 import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-export const FLEET = "--fleet"
-
-export const JSON_OUT = "--json"
 
 const ACTION = "swap-proxy"
 
@@ -30,43 +30,15 @@ const STAGGER_MS = 1_000
 
 const ACK_TIMEOUT_MS = 30_000
 
-const TAKES = [FLEET, JSON_OUT] as const
-
 export type Taken = {
-  readonly target: string | null
-  readonly on: ReadonlySet<string>
+  readonly seat?: string
+  readonly fleet: boolean
+  readonly json: boolean
 }
 
-export type Read = Taken | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const on = new Set<string>()
-  let target: string | null = null
-  for (const one of argv) {
-    if (one.startsWith("-")) {
-      if (!(TAKES as readonly string[]).includes(one)) {
-        const said = namesDrawn(TAKES)
-        refusals.push(`\`${one}\` is no flag a swap takes — it takes ${said}`)
-        continue
-      }
-      on.add(one)
-      continue
-    }
-    if (target !== null) {
-      refusals.push(`\`${one}\` follows the seat \`${target}\`, and one swap names one seat`)
-      continue
-    }
-    target = one
-  }
-  if (target !== null && on.has(FLEET)) {
-    refusals.push(`a swap naming the seat \`${target}\` and \`${FLEET}\` together names one`)
-  }
-  if (target === null && !on.has(FLEET)) {
-    refusals.push(`a swap names a seat or says \`${FLEET}\`, and no seat was named`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { target, on }
+export function wrongIn(read: Taken): readonly string[] {
+  if (read.seat !== undefined || read.fleet) return []
+  return [`a swap names a seat or says \`${fleet.said}\`, and no seat was named`]
 }
 
 export type Outcome = "swapped" | "no-live-proxy" | "timeout"
@@ -97,7 +69,7 @@ export type Seams = {
 export const SWAP_SEAMS: Seams = {
   asking: swapped,
   found: (target) => resolveSeatTarget(target),
-  liveIds: () => liveSeats().map((seat) => seat.agentId),
+  liveIds: () => liveSeats().map((one) => one.agentId),
 }
 
 function waiting(ms: number): Promise<void> {
@@ -122,11 +94,11 @@ export async function askedEach(
   return held
 }
 
-async function fleeting(on: ReadonlySet<string>, done: string[], seams: Seams): Promise<Answer> {
+async function fleeting(asJson: boolean, done: string[], seams: Seams): Promise<Answer> {
   const report: string[] = []
   const held = await askedEach(seams.liveIds(), seams.asking, report, done)
   const timedOut = held.filter((one) => one.status === "timeout")
-  if (on.has(JSON_OUT)) {
+  if (asJson) {
     report.push(JSON.stringify({ ok: timedOut.length === 0, seats: held }))
   } else {
     for (const one of held) report.push(`${one.status}\t${one.agentId}`)
@@ -141,10 +113,9 @@ async function fleeting(on: ReadonlySet<string>, done: string[], seams: Seams): 
 }
 
 async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answer> {
-  if (read.on.has(FLEET)) return await fleeting(read.on, done, seams)
+  if (read.fleet) return await fleeting(read.json, done, seams)
   const report: string[] = []
-  const target = read.target ?? ""
-  const found = seams.found(target)
+  const found = seams.found(read.seat ?? "")
   if ("error" in found) return refused(found.error, INPUT)
   const status = await seams.asking(found.id, done)
   if (status === "timeout") {
@@ -160,7 +131,7 @@ async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answ
       code: OPERATIONAL,
     }
   }
-  if (read.on.has(JSON_OUT)) {
+  if (read.json) {
     report.push(JSON.stringify({ ok: true, agentId: found.id, status }))
   } else {
     report.push(`${status}\t${found.id}`)
@@ -177,8 +148,9 @@ export async function modelGatewaySwap(
   given: Given,
   seams: Seams = SWAP_SEAMS
 ): Promise<Answer> {
-  void given
-  const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
-  return await swappedBy(read, seams)
+  const read = takenFor(argv, given.calledAs, page, [json, seat, fleet])
+  if ("refused" in read) return { report: [], refusals: [...read.refused], code: INPUT }
+  const wrong = wrongIn(read.taken)
+  if (wrong.length > 0) return { report: [], refusals: wrong, code: INPUT }
+  return await swappedBy(read.taken, seams)
 }
