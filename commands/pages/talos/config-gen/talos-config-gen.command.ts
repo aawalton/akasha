@@ -7,8 +7,6 @@ export const talosConfigGen = {
   definition: "the command writing one Talos node's machine-config overlay documents",
   code: "ts",
   taking: [
-    { said: "<node>", takes: "the node to write for, said as a word rather than after `--node`" },
-    { said: "--node <id>", takes: "the node to write for, as the node table names it" },
     {
       said: "--output <path>",
       takes: "the file to write to, where the documents are not reported",
