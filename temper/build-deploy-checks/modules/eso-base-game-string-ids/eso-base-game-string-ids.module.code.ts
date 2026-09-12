@@ -1,11 +1,3 @@
-import { ESO_BASE_GAME_STRING_IDS_30 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-30/eso-base-game-string-ids-30.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_31 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-31/eso-base-game-string-ids-31.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_32 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-32/eso-base-game-string-ids-32.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_33 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-33/eso-base-game-string-ids-33.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_34 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-34/eso-base-game-string-ids-34.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_35 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-35/eso-base-game-string-ids-35.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_36 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-36/eso-base-game-string-ids-36.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS_37 } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids-37/eso-base-game-string-ids-37.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS_00 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-00/eso-base-game-string-ids-00.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS_01 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-01/eso-base-game-string-ids-01.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS_02 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-02/eso-base-game-string-ids-02.module.code.ts"
@@ -36,6 +28,14 @@ import { ESO_BASE_GAME_STRING_IDS_26 } from "akasha/temper/build-deploy-checks/m
 import { ESO_BASE_GAME_STRING_IDS_27 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-27/eso-base-game-string-ids-27.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS_28 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-28/eso-base-game-string-ids-28.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS_29 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-29/eso-base-game-string-ids-29.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_30 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-30/eso-base-game-string-ids-30.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_31 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-31/eso-base-game-string-ids-31.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_32 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-32/eso-base-game-string-ids-32.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_33 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-33/eso-base-game-string-ids-33.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_34 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-34/eso-base-game-string-ids-34.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_35 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-35/eso-base-game-string-ids-35.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_36 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-36/eso-base-game-string-ids-36.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS_37 } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids-37/eso-base-game-string-ids-37.module.code.ts"
 
 export const ESO_BASE_GAME_STRING_IDS_PROVENANCE: readonly string[] = [
   "Generated from the ~/esoui clone by ops eso generate-base-game-globals",
