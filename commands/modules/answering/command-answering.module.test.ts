@@ -5,6 +5,7 @@ import {
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  answeredWith,
   answering,
   asIndentedJson,
   asJson,
@@ -17,6 +18,7 @@ import {
   OK,
   OPERATIONAL,
   partWay,
+  refused,
   refusedBy,
   told,
   UNCLASSIFIED,
@@ -41,6 +43,30 @@ test("a refusal is the caller's mistake unless the caller names another code", (
 
 test("a report answered with no refusal is the answer of a command that worked", () => {
   expect(told(["one", "two"])).toEqual({ report: ["one", "two"], refusals: [], code: OK })
+})
+
+test("a refusal naming one reason is the refusal of a list holding that reason alone", () => {
+  expect(refused("no row answers", DATA)).toEqual(refusedBy(["no row answers"], DATA))
+})
+
+test("a refusal built from reasons alone reports nothing", () => {
+  expect(refusedBy(["--app names a value"], INPUT).report).toEqual([])
+  expect(refused("no row answers", DATA).report).toEqual([])
+})
+
+test("a report is answered beside its refusals where a write came before the refusal", () => {
+  expect(answeredWith(["wrote /one.png"], ["the pool dropped the call"], OPERATIONAL)).toEqual({
+    report: ["wrote /one.png"],
+    refusals: ["the pool dropped the call"],
+    code: OPERATIONAL,
+  })
+})
+
+test("only that answer carries a report and refusals at once", () => {
+  const both = answeredWith(["wrote /one.png"], ["the pool dropped the call"], OPERATIONAL)
+  expect(both.report.length > 0 && both.refusals.length > 0).toBe(true)
+  const one = [told(["wrote /one.png"]), refusedBy(["the pool dropped the call"])]
+  for (const said of one) expect(said.report.length > 0 && said.refusals.length > 0).toBe(false)
 })
 
 test("a value answered as JSON is one line of JSON", () => {

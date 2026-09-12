@@ -15,6 +15,26 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal naming one reason is the refusal of a list holding that reason alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal built from reasons alone reports nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A report answered with no refusal is the answer of a command that worked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A report is answered beside its refusals where a write came before the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only that answer carries a report and refusals at once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value answered as JSON is one line of JSON.",
     },
     {
