@@ -21,6 +21,7 @@ export const changeAgentFileContent = {
     "change-agent/remove-package-alias",
     "change-agent/remove-property-record",
     "change-agent/remove-property-value",
+    "change-agent/remove-unused-export-keywords",
     "change-agent/rename-code-token",
     "change-agent/rename-folder-imports",
     "change-agent/rename-package",

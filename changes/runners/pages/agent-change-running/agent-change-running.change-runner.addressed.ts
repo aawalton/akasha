@@ -125,6 +125,9 @@ export type Changes = {
   "change-agent/remove-property-value": Parameters<
     typeof import("akasha/changes/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-unused-export-keywords": Parameters<
+    typeof import("akasha/changes/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/rename-code-token": Parameters<
     typeof import("akasha/changes/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts")["runChange"]
   >[1]
