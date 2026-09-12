@@ -6,6 +6,7 @@ import {
   joinedContinuations,
   pastHeredocs,
   RUNS_ANOTHER,
+  ranBy,
   segmentsOf,
   wordsOf,
 } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
@@ -185,4 +186,31 @@ test("a word this names no prefix is the call, whatever follows it", () => {
   expect(calledWords("xargs tsc")).toEqual(["xargs", "tsc"])
   expect(calledWords("sh -c tsc")).toEqual(["sh", "-c", "tsc"])
   expect(calledWords("make typecheck")).toEqual(["make", "typecheck"])
+})
+
+test("one call is seen plainly and the same call inside a substitution is not", () => {
+  expect(ranBy(calledWords("git commit -m x"))).toBe("git")
+  expect(ranBy(calledWords("H=$(git commit -m x)"))).toBe("commit")
+})
+
+test("a substitution in command position is read as part of the command word", () => {
+  expect(ranBy(calledWords("$(git commit -m x)"))).toBe("$(git")
+  expect(ranBy(calledWords("`git commit -m x`"))).toBe("`git")
+})
+
+test("a call inside a substitution behind another word is read as that other word", () => {
+  expect(ranBy(calledWords("echo $(git commit -m x)"))).toBe("echo")
+})
+
+test("a subshell's opening parenthesis is read as part of the command word", () => {
+  expect(ranBy(calledWords("(git commit -m x)"))).toBe("(git")
+})
+
+test("a variable in command position is read as that variable rather than its value", () => {
+  expect(ranBy(calledWords("${G} commit -m x"))).toBe("${G}")
+  expect(ranBy(calledWords("$GIT commit -m x"))).toBe("$GIT")
+})
+
+test("a double-quoted substitution is taken out whole, leaving the line no segment", () => {
+  expect(segmentsOf('"$(git commit -m x)"')).toEqual([])
 })
