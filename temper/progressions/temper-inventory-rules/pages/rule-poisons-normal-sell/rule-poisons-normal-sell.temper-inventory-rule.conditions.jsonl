@@ -1,3 +1,3 @@
-{"id":"01a072fc-9ea2-7cf0-98c3-dc19aed049b7","conditionField":"can-sell","conditionValue":"can-sell"}
-{"id":"01a072fc-9ea2-7821-9698-ccea32a83a62","conditionField":"crafted","conditionValue":"not-crafted"}
-{"id":"01a072fc-9ea2-754b-a809-8f381d3d6e67","conditionField":"max-quality","conditionValue":"1"}
+{"id":"01a0963e-3ae9-7bb0-b7d6-81c09efc0fa9","conditionField":"max-quality","conditionValue":"1"}
+{"id":"01a0963e-3aea-711f-a3e0-316408f07e12","conditionField":"crafted","conditionValue":"not-crafted"}
+{"id":"01a0963e-3aea-78af-a767-c9f43829d37f","conditionField":"can-sell","conditionValue":"can-sell"}
