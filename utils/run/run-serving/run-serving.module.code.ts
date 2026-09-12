@@ -17,7 +17,7 @@ const SAID_ON = 1
 
 const NO_CODE = -1
 
-function answering(frame: Frame): Uint8Array {
+function framedFor(frame: Frame): Uint8Array {
   const head = frame.head as Request
   try {
     const done = spawnedHere(head.argv, askedOf(head, frame.first))
@@ -44,6 +44,6 @@ export function serving(): undefined {
     } catch {
       return
     }
-    written(SAID_ON, answering(frame))
+    written(SAID_ON, framedFor(frame))
   }
 }

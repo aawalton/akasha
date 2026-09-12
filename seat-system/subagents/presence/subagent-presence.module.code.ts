@@ -386,7 +386,7 @@ function saying(why: string): number {
   return 1
 }
 
-function answering(went: Went, at: string): number {
+function exitFor(went: Went, at: string): number {
   return "why" in went ? saying(`${at} — ${went.why}`) : 0
 }
 
@@ -404,7 +404,7 @@ export async function ran(argv: readonly string[]): Promise<number> {
     const why = own
     if (why === undefined || why === "") return saying(`${act} ${seatName}: no reason was named`)
     const swept = await landingAgain(() => tookUnder(root, seatName, why))
-    return answering(swept, `${act} ${seatName}`)
+    return exitFor(swept, `${act} ${seatName}`)
   }
   if (own === undefined || own === "") return saying(`${act} ${seatName}: no subagent id was named`)
   const at = `${act} ${seatName} ${own}`
@@ -414,11 +414,11 @@ export async function ran(argv: readonly string[]): Promise<number> {
     const kind = dispatchedAs === undefined || dispatchedAs === "" ? null : dispatchedAs
     const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind))
     if (!("why" in put)) startedIn(root, pathIn(root, slugOf(seatName, own)), moment)
-    return answering(put, at)
+    return exitFor(put, at)
   }
   if (act === TAKING) {
     const gone = await landingAgain(() => took(root, seatName, own, runMechanicalChange, moment))
-    return answering(gone, at)
+    return exitFor(gone, at)
   }
   return saying(`\`${act}\` is no act this takes`)
 }
