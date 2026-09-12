@@ -8,7 +8,7 @@ import {
 
 const DAYS = 30
 
-export function measureClaudeAccountsCost(): Answer {
+export function measureClaudeAccountCost(): Answer {
   const until = Date.now()
   const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
   return { report: [...linesOf(counted, DAYS)], refusals: [], code: 0 }
