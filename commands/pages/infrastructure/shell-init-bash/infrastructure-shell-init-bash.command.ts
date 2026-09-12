@@ -60,4 +60,5 @@ export const infrastructureShellInitBash = {
     },
   ],
   name: "shell-init-bash",
+  arguments: [],
 } as const satisfies Command

@@ -76,4 +76,5 @@ export const seatTranscriptList = {
     },
   ],
   name: "transcript-list",
+  arguments: [],
 } as const satisfies Command

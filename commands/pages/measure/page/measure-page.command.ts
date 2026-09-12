@@ -34,4 +34,5 @@ export const measurePage = {
     },
   ],
   name: "page",
+  arguments: [],
 } as const satisfies Command

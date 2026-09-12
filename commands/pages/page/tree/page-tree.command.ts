@@ -81,4 +81,5 @@ export const pageTree = {
     },
   ],
   name: "tree",
+  arguments: [],
 } as const satisfies Command

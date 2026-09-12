@@ -70,4 +70,5 @@ export const changeDrop = {
     },
   ],
   name: "drop",
+  arguments: [],
 } as const satisfies Command

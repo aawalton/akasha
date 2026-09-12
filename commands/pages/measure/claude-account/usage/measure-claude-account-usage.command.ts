@@ -42,4 +42,5 @@ export const measureClaudeAccountUsage = {
     },
   ],
   name: "usage",
+  arguments: [],
 } as const satisfies Command

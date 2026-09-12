@@ -34,4 +34,5 @@ export const inferenceStatus = {
     },
   ],
   name: "status",
+  arguments: [],
 } as const satisfies Command

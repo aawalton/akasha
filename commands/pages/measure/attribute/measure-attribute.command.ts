@@ -75,4 +75,5 @@ export const measureAttribute = {
     },
   ],
   name: "attribute",
+  arguments: [],
 } as const satisfies Command

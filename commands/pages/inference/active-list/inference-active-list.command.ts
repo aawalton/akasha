@@ -21,4 +21,5 @@ export const inferenceActiveList = {
     },
   ],
   name: "active-list",
+  arguments: [],
 } as const satisfies Command

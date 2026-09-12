@@ -45,4 +45,5 @@ export const inferenceCapabilityList = {
     },
   ],
   name: "capability-list",
+  arguments: [],
 } as const satisfies Command

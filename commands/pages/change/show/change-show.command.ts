@@ -135,4 +135,5 @@ export const changeShow = {
     },
   ],
   name: "show",
+  arguments: [],
 } as const satisfies Command

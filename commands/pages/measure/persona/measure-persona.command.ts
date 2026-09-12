@@ -59,4 +59,5 @@ export const measurePersona = {
     },
   ],
   name: "persona",
+  arguments: [],
 } as const satisfies Command

@@ -44,4 +44,5 @@ export const measureRepo = {
     },
   ],
   name: "repo",
+  arguments: [],
 } as const satisfies Command

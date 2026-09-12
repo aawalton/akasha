@@ -56,4 +56,5 @@ export const changeList = {
     },
   ],
   name: "list",
+  arguments: [],
 } as const satisfies Command

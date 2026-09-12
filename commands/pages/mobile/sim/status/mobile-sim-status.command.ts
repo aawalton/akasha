@@ -34,4 +34,5 @@ export const mobileSimStatus = {
     },
   ],
   name: "status",
+  arguments: [],
 } as const satisfies Command

@@ -35,4 +35,5 @@ export const measureClaudeAccountCost = {
     },
   ],
   name: "cost",
+  arguments: [],
 } as const satisfies Command
