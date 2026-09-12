@@ -75,10 +75,6 @@ export const gitRestore = {
     },
     {
       invariantKind: "departure",
-      statement: "A call with a refusal writes nothing at all.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The body written is the body HEAD has byte for byte.",
     },
     {

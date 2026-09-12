@@ -144,11 +144,6 @@ export const command = {
       invariantKind: "departure",
       statement: "One command puts a thing up, and that command is `akasha deploy`.",
     },
-
-    {
-      invariantKind: "departure",
-      statement: "A command that refuses or throws changes nothing.",
-    },
     {
       invariantKind: "departure",
       statement:
