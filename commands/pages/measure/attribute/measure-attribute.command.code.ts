@@ -1,11 +1,14 @@
 import { pointsTotalKept } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
 import { levelOf } from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { measureAttribute as page } from "akasha/commands/pages/measure/attribute/measure-attribute.command.ts"
 import {
   flooredTo,
   linesOf,
@@ -73,7 +76,9 @@ export function measuredIn(
   return { measured, unread }
 }
 
-export function measureAttribute(_argv: readonly string[], given: Given): Answer {
+export function measureAttribute(argv: readonly string[], given: Given): Answer {
+  const taken = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in taken) return mistaking(taken.refused)
   const read = measuredIn(drawnIn(given.root), (slug) => pointsTotalKept(given.root, slug))
   if (read.measured.length === 0) {
     return refusedBy([NOTHING_KEPT, ...read.unread], DATA)

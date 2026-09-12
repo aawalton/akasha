@@ -1,15 +1,18 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   flooredTo,
   linesOf,
   type Measured,
   PLACES,
 } from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
+import { measurePersona as page } from "akasha/commands/pages/measure/persona/measure-persona.command.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
@@ -73,7 +76,9 @@ export function untotalledOf(named: number, measured: number): readonly string[]
   return ["", `${String(left)} ${left === 1 ? "persona carries" : "personas carry"} no total yet`]
 }
 
-export function measurePersona(_argv: readonly string[], given: Given): Answer {
+export function measurePersona(argv: readonly string[], given: Given): Answer {
+  const taken = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in taken) return mistaking(taken.refused)
   const named = personasStanding(given.root).map((one) => ({
     slug: one.slug,
     label: displayNameOf(one.slug),

@@ -1,11 +1,36 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { linesOf } from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
 import {
   measuredIn,
+  measurePersona,
   type Named,
   untotalledOf,
 } from "akasha/commands/pages/measure/persona/measure-persona.command.code.ts"
 import { rungAt } from "akasha/personas/properties/persona-relationship-level.computed-property.test-fixtures.ts"
+
+const NOWHERE = "/nowhere"
+
+const GIVEN: Given = {
+  root: NOWHERE,
+  calledAs: "akasha measure persona",
+  from: NOWHERE,
+  writer: null,
+  agentId: null,
+}
+
+test("a flag is refused, and the refusal says this takes no argument at all", () => {
+  const said = measurePersona(["--json"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`--json` is no argument")
+  expect(said.refusals[0]).toContain("it takes none")
+})
+
+test("a word naming a persona is refused, since this answers every persona", () => {
+  const said = measurePersona(["wren"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("it takes none")
+})
 
 const NAMED: readonly Named[] = [
   { slug: "wren", label: "Wren", path: "lumen/pages/wren/wren.persona.ts" },

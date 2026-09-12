@@ -6,17 +6,22 @@ import {
   notesOf,
   refreshAll,
 } from "akasha/agents/claude-accounts/modules/refreshing/claude-account-refreshing.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { measureClaudeAccountUsage as page } from "akasha/commands/pages/measure/claude-account/usage/measure-claude-account-usage.command.ts"
 
 export async function measureClaudeAccountUsage(
-  _argv: readonly string[],
+  argv: readonly string[],
   given: Given
 ): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in read) return mistaking(read.refused)
   const notes = notesOf(await refreshAll(given.root, Date.now()))
   const readings = readingsIn(given.root)
   if (readings.length === 0) {

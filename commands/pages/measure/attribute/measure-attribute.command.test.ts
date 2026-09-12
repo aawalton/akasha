@@ -1,8 +1,33 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Drawn,
+  measureAttribute,
   measuredIn,
 } from "akasha/commands/pages/measure/attribute/measure-attribute.command.code.ts"
+
+const NOWHERE = "/nowhere"
+
+const GIVEN: Given = {
+  root: NOWHERE,
+  calledAs: "akasha measure attribute",
+  from: NOWHERE,
+  writer: null,
+  agentId: null,
+}
+
+test("a flag is refused, and the refusal says this takes no argument at all", () => {
+  const said = measureAttribute(["--json"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`--json` is no argument")
+  expect(said.refusals[0]).toContain("it takes none")
+})
+
+test("a word naming an attribute is refused, since this answers every attribute", () => {
+  const said = measureAttribute(["strength"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("it takes none")
+})
 
 const DRAWN: readonly Drawn[] = [
   { label: "Strength", place: 1, attributeSlug: "strength" },
