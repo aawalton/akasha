@@ -10,17 +10,17 @@ import {
   usePanelToggleIsLocal,
 } from "akasha/design/interfaces/layout/panel-toggle-context/panel-toggle-context.module.code.tsx"
 import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from "akasha/design/interfaces/primitives/collapsible/collapsible.module.code.tsx"
-import {
   Card,
   CardContent,
   CardHeader,
   CardTitle,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useLayoutEffect, useRef, useState } from "react"

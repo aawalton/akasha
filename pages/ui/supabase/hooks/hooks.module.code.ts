@@ -12,7 +12,7 @@ import {
   collectRelatedIds,
   RELATED_IDS_PER_PROPERTY_CAP,
   type RelationSpec,
-} from "akasha/pages/ui/supabase/collect-related-ids/collect-related-ids.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,

@@ -10,7 +10,7 @@ import {
   readingOf,
   servedOf,
   typingOver,
-} from "akasha/code/typing/code-typing.module.code.ts"
+} from "akasha/code/modules/typing/code-typing.module.code.ts"
 import {
   linked,
   MANIFEST,
@@ -22,7 +22,7 @@ import {
   scratch,
   TWO,
   TWO_AT,
-} from "akasha/code/typing/code-typing.module.test-fixtures.ts"
+} from "akasha/code/modules/typing/code-typing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

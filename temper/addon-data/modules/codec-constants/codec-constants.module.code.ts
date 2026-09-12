@@ -4,7 +4,7 @@ import {
   ROLE_BITS,
   TARGET_ARMOR_BITS,
   TARGET_HEALTH_BITS,
-} from "akasha/temper/addon-data/codec-widths/codec-widths.module.code.ts"
+} from "akasha/temper/addon-data/modules/codec-widths/codec-widths.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   AFFIX_SCRIPT_BITS,

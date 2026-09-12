@@ -5,7 +5,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import { CollapsibleSkillCard } from "akasha/temper/web/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
+import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import type { ReactNode } from "react"
 
 interface SkillCollapsibleCardProps {

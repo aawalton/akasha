@@ -1,7 +1,7 @@
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Placing, Reading } from "akasha/code/typing/code-typing.module.code.ts"
-import { placingOver, readingOf } from "akasha/code/typing/code-typing.module.code.ts"
+import type { Placing, Reading } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import { placingOver, readingOf } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const PACKAGED = "node_modules/@akasha"

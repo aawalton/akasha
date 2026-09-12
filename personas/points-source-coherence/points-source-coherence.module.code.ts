@@ -1,4 +1,4 @@
-import type { CoherenceRule } from "akasha/pages/core/schema/coherence-rules/coherence-rules.module.code.ts"
+import type { CoherenceRule } from "akasha/pages/core/schema/modules/coherence-rules/coherence-rules.module.code.ts"
 
 export const PERSONA_POINTS_SOURCE_COHERENCE_RULES: readonly CoherenceRule[] = [
   {

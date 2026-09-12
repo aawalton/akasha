@@ -12,7 +12,7 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { placedIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
-import { typed } from "akasha/code/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 
 const AT = "at"
 

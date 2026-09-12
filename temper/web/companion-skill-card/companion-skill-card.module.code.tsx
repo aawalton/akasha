@@ -15,11 +15,11 @@ import {
 } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
-import { CollapsibleSkillCard } from "akasha/temper/web/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import { ConstraintBadges } from "akasha/temper/web/constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "akasha/temper/web/effect-badge/effect-badge.module.code.tsx"
 import type { ArmorPieceCounts } from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
 import { EffectCard } from "akasha/temper/web/effect-card/effect-card.module.code.tsx"
+import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import {
   RadiusBadge,
   RangeBadge,

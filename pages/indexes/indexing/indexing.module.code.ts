@@ -1,6 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { typed } from "akasha/code/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import {
   fileKeysIn,

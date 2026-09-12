@@ -1,8 +1,8 @@
-import { generateCodecConstants } from "akasha/temper/addon-data/codec-constants/codec-constants.module.code.ts"
 import {
   COMPANIONS_OUTPUT_DIR,
   TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR,
 } from "akasha/temper/addon-data/modules/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
+import { generateCodecConstants } from "akasha/temper/addon-data/modules/codec-constants/codec-constants.module.code.ts"
 
 export function buildAddonDataWritesCodec(
   w: (dir: string, name: string, source: string) => Promise<number>

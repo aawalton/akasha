@@ -3,8 +3,8 @@ import {
   specifyingIn,
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import { runsIn } from "akasha/code/path-runs/path-runs.module.code.ts"
-import { typed } from "akasha/code/typing/code-typing.module.code.ts"
 import { partedIn, uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { shortened } from "akasha/utils/text/shortened/shortened.module.code.ts"
 import ts from "typescript"

@@ -5,7 +5,7 @@ import {
   refuses,
   type Sealed,
   seal,
-} from "akasha/utils/narrow/collapse/collapse.module.code.ts"
+} from "akasha/utils/narrow/modules/collapse/collapse.module.code.ts"
 
 export type PidReading = "signalable" | "no-such-process" | "exists-not-permitted" | "unknown"
 

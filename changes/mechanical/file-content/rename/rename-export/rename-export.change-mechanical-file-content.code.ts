@@ -22,7 +22,7 @@ import {
   placingOver,
   readingOf,
   typingOver,
-} from "akasha/code/typing/code-typing.module.code.ts"
+} from "akasha/code/modules/typing/code-typing.module.code.ts"
 
 export function renameExport(
   root: string,

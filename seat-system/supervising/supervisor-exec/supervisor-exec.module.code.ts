@@ -1,7 +1,11 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
 import type { ChildExitStatus } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { collapse, folds, refuses } from "akasha/utils/narrow/collapse/collapse.module.code.ts"
+import {
+  collapse,
+  folds,
+  refuses,
+} from "akasha/utils/narrow/modules/collapse/collapse.module.code.ts"
 import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
 import {
   errnoCodeOf,

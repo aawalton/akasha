@@ -1,5 +1,5 @@
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
-import type { CollectiblesCatalogData } from "akasha/temper/capture-shapes/collectibles-catalog/collectibles-catalog.module.code.ts"
+import type { CollectiblesCatalogData } from "akasha/temper/capture-shapes/modules/collectibles-catalog/collectibles-catalog.module.code.ts"
 import { z } from "zod"
 
 const collectiblesCatalogEntrySchema = z

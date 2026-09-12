@@ -5,7 +5,7 @@ import {
   type Naming,
   specifiersIn,
 } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
-import { typed } from "akasha/code/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"

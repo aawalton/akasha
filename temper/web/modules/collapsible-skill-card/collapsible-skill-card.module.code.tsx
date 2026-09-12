@@ -1,12 +1,12 @@
 "use client"
 
+import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "akasha/design/interfaces/primitives/collapsible/collapsible.module.code.tsx"
-import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
 import {
   clampSurfaceLevel,
   surfaceClass,

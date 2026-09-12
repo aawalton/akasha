@@ -1,9 +1,4 @@
 import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from "akasha/design/interfaces/primitives/collapsible/collapsible.module.code.tsx"
-import {
   Command,
   CommandGroup,
   CommandInput,
@@ -17,6 +12,11 @@ import {
 } from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
 import {
   type SkillId,
   skills,
