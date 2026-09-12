@@ -90,9 +90,9 @@ export const trackSessionAmend = {
   arguments: [
     { argument: "argument/dry-run" },
     { argument: "argument/day" },
-    { argument: "argument/at", notWith: ["argument/id", "argument/open", "argument/last"] },
-    { argument: "argument/id", notWith: ["argument/open", "argument/last"] },
-    { argument: "argument/open", notWith: ["argument/last"] },
+    { argument: "argument/at", oneOf: ["argument/id", "argument/open", "argument/last"] },
+    { argument: "argument/id" },
+    { argument: "argument/open" },
     { argument: "argument/last" },
     { argument: "argument/title" },
     { argument: "argument/safety" },
