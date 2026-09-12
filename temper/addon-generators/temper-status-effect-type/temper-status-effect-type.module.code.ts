@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { statusEffectTypes } from "akasha/temper/skill-kinds/status-effect-types/status-effect-types.module.code.ts"
 import { z } from "zod"
@@ -57,7 +58,7 @@ export function generateTemperStatusEffectType(rows: readonly Page[]): string {
  * \`TEMPER_STATUS_EFFECT_TYPES["stun"]\` is well-typed and feeds the
  * \`statusEffectTypes\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { StatusEffectTypeTemplate } from "../status-effect-type-data"
