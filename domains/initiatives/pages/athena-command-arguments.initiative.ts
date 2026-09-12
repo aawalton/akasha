@@ -11,18 +11,18 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "338 argument pages, and 765 entries name exactly those 338 — no dangling reference, no page no command names. 216 of 235 command pages name arguments; 3 state `arguments: []` and 16 state no key at all, which are two different claims. Two commands read a flag no page names: `--break-the-glass` at `index-refresh.command.code.ts:35` and `--settings` at `seat-refresh-settings.command.code.ts:22`. The five Alan held all split by meaning.\n",
+        "338 argument pages, and 765 entries name exactly those 338 — no dangling reference, no page no command names. Every one of 235 command pages now names its arguments or states `arguments: []`, `07e31081ea85`. Neither flag a survey named wants a page: `--settings` is read off another process's cmdline, and `--break-the-glass` is read only to be refused. Six `measure` commands state nothing taken and enforce nothing.\n",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "The vocabulary is five keys on `command-arguments.record-property.ts`: `argument`, `required`, `saidAs`, `notWith`, `repeats`. `default` sits on the argument page instead. Of 216 pages naming arguments, 141 narrow and 75 do not, some where the code narrows — `track-weight.command.ts:58` names two bare while its invariants refuse a weight that is no number. The route question is answered: a route argument is a page ending `-file`, `c194ea764b8`, and 21 exist.\n",
+        "Five keys on `command-arguments.record-property.ts`: `argument`, `required`, `saidAs`, `notWith`, `repeats`; `default` sits on the argument page. Of 216 pages naming arguments, 141 narrow and 75 do not, some where the code narrows instead — `track-weight.command.ts:58`. A route argument is a page ending `-file`, `c194ea764b8`, and 21 exist. Alan's: `command-taking-two-words-is-tested-from-words` landed inert — should it bind?\n",
     },
     {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` is the one reader. The check `command-takes-its-arguments-through-one-reader` landed at `43dbf523a33e` with `experimental: true`, so it binds nobody; Alan approves a check before it binds. It refused 47 of 235 command files at `b365d4a17ab`, 22 of them temper. The number it cannot see is 87 more handing argv to a per-domain reader — `temper/commands/argument-word-reading` holds 15, `inference/wan/wan-arguing` 8. Those fold before the check means what it says.\n",
+        "`takenFor` is the one reader. The check `command-takes-its-arguments-through-one-reader` landed at `43dbf523a33e` with `experimental: true`, so it binds nobody; Alan approves a check before it binds. It refused 47 of 235 command files at `b365d4a17ab`. It is blind twice: `slugOf` matches only `*.command.code.ts`, so the shared modules where argv reading lives go unjudged, and `followed` resolves a callee only within the same file.\n",
     },
     {
       statement:
