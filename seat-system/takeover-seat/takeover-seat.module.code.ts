@@ -1,11 +1,11 @@
 import { materializeLocalTranscript } from "akasha/agents/claude-code/session/transcript-materialize/transcript-materialize.module.code.ts"
 import { liveAgentPidsFromProc } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
+import { scanProcEntries } from "akasha/agents/proc-scan/proc-scan.module.code.ts"
 import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { decideKillTarget } from "akasha/seat-system/kill-target-plan/kill-target-plan.module.code.ts"
-import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code.ts"
 import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { resolveSessionIdByAgentId } from "akasha/seat-system/seat-session-resolve/seat-session-resolve.module.code.ts"

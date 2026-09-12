@@ -32,7 +32,6 @@ export const seatSystem = {
     "module/subagent-recovering",
     "module/takeover-seat",
     "module/agent-name-bind",
-    "module/proc-scan",
     "module/resume-seat",
     "module/resume-verify",
     "module/seat-attribute",
