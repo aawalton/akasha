@@ -1,4 +1,9 @@
 import { existsSync } from "node:fs"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
@@ -10,10 +15,6 @@ export const IP = "--ip"
 export const CLUSTER = "--cluster"
 
 const VALUED: readonly string[] = [IP, CLUSTER]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 export type Named = { readonly ip: string; readonly cluster: string }
 
@@ -71,7 +72,7 @@ async function bootstrapping(read: Named, given: Given): Promise<Answer> {
   return {
     report: [`etcd was bootstrapped on ${read.ip} for ${read.cluster}`],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
 
