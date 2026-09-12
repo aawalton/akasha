@@ -5,5 +5,5 @@ export const pty = {
   type: "domain",
   slug: "pty",
   definition: "a pseudo-terminal a process runs under",
-  parts: ["module/bun-pty"],
+  parts: ["module/bun-pty", "module/pty-proxy-detector"],
 } as const satisfies Domain

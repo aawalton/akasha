@@ -15,7 +15,6 @@ export const seatSystem = {
     "module/seat-page-writing",
     "module/pty-proxy",
     "module/seat-roster",
-    "module/pty-proxy-detector",
     "module/seat-whoami",
     "module/pty-terminal-death",
     "module/skill-token-guard",

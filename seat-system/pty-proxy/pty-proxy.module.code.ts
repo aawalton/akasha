@@ -9,7 +9,7 @@ import {
   createRisingEdgeDetector,
   DEV_CHANNEL_MARKER,
   INJECT_DELAY_MS,
-} from "akasha/seat-system/pty-proxy-detector/pty-proxy-detector.module.code.ts"
+} from "akasha/agents/seats/pty/proxy-detector/pty-proxy-detector.module.code.ts"
 import { createTerminalDeathController } from "akasha/seat-system/pty-terminal-death/pty-terminal-death.module.code.ts"
 import {
   applySttySane,
