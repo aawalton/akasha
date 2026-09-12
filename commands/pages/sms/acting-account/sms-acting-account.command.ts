@@ -6,12 +6,7 @@ export const smsActingAccount = {
   slug: "sms-acting-account",
   definition: "the command reading the write-as account out of a delivered SMS surface's footer",
   code: "ts",
-  taking: [
-    {
-      said: "--surface-file <path|->",
-      takes: "the delivered surface to read, or `-` for the input",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -39,4 +34,5 @@ export const smsActingAccount = {
     },
   ],
   name: "acting-account",
+  arguments: [{ argument: "argument/surface-file", required: true }],
 } as const satisfies Command
