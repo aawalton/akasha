@@ -12,15 +12,10 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
-  FILE_PATH,
-  KEEP_LAST_NEWLINE,
-  KEY,
   type Landing,
   landedWith,
-  MESSAGE,
   PUT,
-  readIn,
-  type Said,
+  type Saying,
   TAKE,
   type Target,
   undeclared,
@@ -31,70 +26,6 @@ import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.
 const AT = "akasha/agents/claude-accounts/pages/one.claude-account.ts"
 
 const HOLDING = { path: AT, sidecar: "one.claude-account.sops.yaml", declared: ["accessToken"] }
-
-test("a call naming nothing is refused, naming what it takes", () => {
-  const read = readIn([], [FILE_PATH])
-  expect("refused" in read).toBe(true)
-  expect(JSON.stringify(read)).toContain(FILE_PATH)
-})
-
-test("a flag it does not take is refused", () => {
-  const read = readIn([FILE_PATH, AT, "--wat"], [FILE_PATH])
-  expect(JSON.stringify(read)).toContain("--wat")
-})
-
-test("a flag standing where a value goes is refused rather than read as the value", () => {
-  const read = readIn([FILE_PATH, KEY], [FILE_PATH, KEY])
-  expect("refused" in read).toBe(true)
-})
-
-test("a flag said twice is refused", () => {
-  const read = readIn([FILE_PATH, AT, FILE_PATH, AT], [FILE_PATH])
-  expect("refused" in read).toBe(true)
-})
-
-test("a word said as no flag is refused", () => {
-  const read = readIn(["show", FILE_PATH, AT], [FILE_PATH])
-  expect("refused" in read).toBe(true)
-})
-
-test("a message is what this does not require", () => {
-  expect(readIn([FILE_PATH, AT], [FILE_PATH, MESSAGE])).toEqual({
-    path: AT,
-    key: null,
-    message: null,
-    keepLastNewline: false,
-  })
-})
-
-test("what is read carries the path, the key and the message apart", () => {
-  expect(
-    readIn([FILE_PATH, AT, KEY, "accessToken", MESSAGE, "m"], [FILE_PATH, KEY, MESSAGE])
-  ).toEqual({ path: AT, key: "accessToken", message: "m", keepLastNewline: false })
-})
-
-test("a flag carrying no value is read as said rather than eating the word after it", () => {
-  expect(readIn([KEEP_LAST_NEWLINE, FILE_PATH, AT], [FILE_PATH], [KEEP_LAST_NEWLINE])).toEqual({
-    path: AT,
-    key: null,
-    message: null,
-    keepLastNewline: true,
-  })
-})
-
-test("a flag carrying no value is refused where the call does not offer it", () => {
-  const read = readIn([FILE_PATH, AT, KEEP_LAST_NEWLINE], [FILE_PATH])
-  expect("refused" in read).toBe(true)
-})
-
-test("a flag carrying no value said twice is refused", () => {
-  const read = readIn(
-    [FILE_PATH, AT, KEEP_LAST_NEWLINE, KEEP_LAST_NEWLINE],
-    [FILE_PATH],
-    [KEEP_LAST_NEWLINE]
-  )
-  expect("refused" in read).toBe(true)
-})
 
 test("a key the page type does not declare is named against the ones it does", () => {
   const wrong = undeclared("wat", HOLDING)
@@ -152,7 +83,7 @@ const SIDECAR = "akasha/one/aine.claude-account.sops.yaml"
 
 const TARGET: Target = { path: PAGE, sidecar: SIDECAR, declared: ["access-token"] }
 
-const SAID: Said = { path: PAGE, key: null, message: null, keepLastNewline: false }
+const SAID: Saying = {}
 
 const SET = `page secret set ${SIDECAR}`
 
@@ -243,7 +174,7 @@ test("a landing answering something wrong is answered by what went wrong", async
 
 test("a message the caller spells reaches the landing rather than the one composed", async () => {
   const fake = reaching()
-  const spelled = { ...SAID, message: "  a reason of my own  " }
+  const spelled = { ...SAID, commitMessage: "  a reason of my own  " }
   await landedWith(givenIn(NOWHERE), spelled, TARGET, "clear", new Map(), fake.landing)
   expect(fake.handed()?.message).toBe("a reason of my own")
 })
