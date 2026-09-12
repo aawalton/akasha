@@ -3,7 +3,7 @@
 import {
   BalancedColumns,
   getChildId,
-} from "akasha/design/interfaces/layout/balanced-columns/balanced-columns.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/balanced-columns/balanced-columns.module.code.tsx"
 import {
   PanelDefaultOpenProvider,
   PanelSummaryProvider,

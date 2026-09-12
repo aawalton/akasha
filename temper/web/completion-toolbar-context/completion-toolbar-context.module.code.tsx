@@ -1,6 +1,6 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type {
   SortDirection,
   SortOption,

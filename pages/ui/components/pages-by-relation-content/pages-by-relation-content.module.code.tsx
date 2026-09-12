@@ -2,7 +2,7 @@
 
 import type { ViewConfig } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
-import { RenderBareListingCard } from "akasha/pages/ui/components/bare-listing-card/bare-listing-card.module.code.tsx"
+import { RenderBareListingCard } from "akasha/pages/ui/components/modules/bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "akasha/pages/ui/components/page-system-shell/page-system-shell.module.code.tsx"
 import { PageSystemTabContent } from "akasha/pages/ui/components/page-system-view/page-system-view.module.code.tsx"
 import { viewConfigToListingParams } from "akasha/pages/ui/components/synthetic-config/synthetic-config.module.code.ts"

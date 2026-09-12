@@ -6,7 +6,7 @@ import {
   GAP_PX,
   layoutEqual,
   type Measurement,
-} from "akasha/design/interfaces/layout/balanced-columns-layout/balanced-columns-layout.module.code.ts"
+} from "akasha/design/interfaces/layout/modules/balanced-columns-layout/balanced-columns-layout.module.code.ts"
 import {
   PanelDefaultOpenProvider,
   PanelSummaryProvider,

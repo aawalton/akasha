@@ -14,7 +14,7 @@ import {
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { INIT_BARE_REPO_SCRIPT } from "akasha/infrastructure/git-transport/bare-repo-init/bare-repo-init.module.code.ts"
+import { INIT_BARE_REPO_SCRIPT } from "akasha/infrastructure/git-transport/modules/bare-repo-init/bare-repo-init.module.code.ts"
 import {
   APP_NAME,
   NAMESPACE,

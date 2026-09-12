@@ -1,4 +1,4 @@
-import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { SortOption } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { ACTIVITY_CATEGORIES } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CompletionSortMode } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
