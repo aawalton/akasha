@@ -1,5 +1,4 @@
 import * as path from "node:path"
-import type { ForestAnswer } from "akasha/code/editor/extension/agent-forest-answer/agent-forest-answer.module.code.ts"
 import type { AgentNode } from "akasha/code/editor/extension/agent-row/agent-row.module.code.ts"
 import type { SeatMode } from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
@@ -27,17 +26,6 @@ const APART = "\u0000"
 
 export function subagentKey(seatName: string, own: string): string {
   return `${seatName}${APART}${own}`
-}
-
-export function agentPagesIn(answer: ForestAnswer): AgentPages {
-  const bySubagent = new Map<string, string>()
-  const repo = answer.repo
-  if (repo !== null) {
-    for (const page of answer.subagentPages) {
-      bySubagent.set(subagentKey(page.seat, page.own), path.join(repo, page.at))
-    }
-  }
-  return { bySubagent }
 }
 
 export function countRunning(nodes: readonly AgentNode[]): number {

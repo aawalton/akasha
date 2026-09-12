@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import {
-  agentPagesIn,
   assembleForest,
   countRows,
   countRunning,
@@ -155,22 +154,6 @@ describe("what a joined answer and a drawn forest are counted as", () => {
       null
     )
     expect(roots[0]?.at).toBeUndefined()
-  })
-
-  test("no subagent page is carried out of an answer naming no repository", () => {
-    expect(
-      agentPagesIn({ repo: null, rows: [], subagentPages: [{ seat: "a", own: "b", at: "c" }] })
-        .bySubagent.size
-    ).toBe(0)
-  })
-
-  test("a subagent page is joined against the repository the answer named", () => {
-    const pages = agentPagesIn({
-      repo: "/repo",
-      rows: [],
-      subagentPages: [{ seat: "ember", own: "ag1", at: "pages/x.ts" }],
-    })
-    expect(pages.bySubagent.get(subagentKey("ember", "ag1"))).toBe("/repo/pages/x.ts")
   })
 
   test("the rows and the running ones are counted apart", () => {
