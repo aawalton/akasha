@@ -7,6 +7,7 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   answering,
@@ -43,8 +44,6 @@ import {
 const REMOVE = "--remove"
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
-
-const WRONG = 3
 
 export type Read = { readonly removing: boolean } | { readonly refused: string }
 
@@ -218,14 +217,14 @@ function moving(root: string, stale: readonly Judged[]): Moving {
 
 async function taking(root: string, stale: readonly Judged[], landing: Landing): Promise<Answer> {
   const { moved, why } = moving(root, stale)
-  if (why !== null) return answering(moved, [why], WRONG)
+  if (why !== null) return answering(moved, [why], OPERATIONAL)
   const changes: readonly Asking[] = stale.map((one) => ({
     at: TAKE,
     given: { at: one.page.path },
   }))
   const landed = await landing(root, changes, messageOf(stale))
-  if ("refusals" in landed) return answering(moved, landed.refusals, WRONG)
-  if (landed.wrong.length > 0) return answering(moved, landed.wrong, WRONG)
+  if ("refusals" in landed) return answering(moved, landed.refusals, OPERATIONAL)
+  if (landed.wrong.length > 0) return answering(moved, landed.wrong, OPERATIONAL)
   dropReadings(
     root,
     stale.map((one) => one.page.path)
