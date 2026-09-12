@@ -150,7 +150,7 @@ test("a caller is answered whether the peak answered was measured", () => {
   expect(spawnedHere(["true"]).peakMeasured).toBe(true)
 })
 
-test("a program on no path raises rather than being answered", () => {
+test("a program no path names raises rather than being answered", () => {
   expect(() => spawnedHere(["no-such-program-on-any-path"])).toThrow(/no-such-program/)
 })
 
