@@ -10,7 +10,7 @@ export const temperInventoryAutomationSet = {
   taking: [
     {
       said: "--scope <scope>",
-      takes: "the scope set: everything, one character, or one companion",
+      takes: "the scope set, as `global`, `character:<id>` or `companion:<id>`",
     },
     { said: "--toggle <name>", takes: "the toggle set" },
     {
@@ -22,11 +22,7 @@ export const temperInventoryAutomationSet = {
       takes: "which interface a toggle carried by both is set on",
     },
   ],
-  helpNotes: [
-    "a scope is `global`, `character:<id>` or `companion:<id>`.",
-    "`--target` is needed only where the scope is global and the toggle is carried by both interfaces.",
-    "saying `null` takes the entry away rather than setting it false.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
