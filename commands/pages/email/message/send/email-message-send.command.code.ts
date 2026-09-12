@@ -17,11 +17,11 @@ export function readIn(argv: readonly string[]): Read {
 export function emailMessageSend(argv: readonly string[], given: Given): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
-  return answeredBy(async () => {
+  return answeredBy(async (done) => {
     const composed = await composedIn(given, said)
     if ("why" in composed) return refusing([composed.why], 1)
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(await google.sendMessage(client, composed.input))
+    return answering(await google.sendMessage(client, composed.input, done))
   })
 }

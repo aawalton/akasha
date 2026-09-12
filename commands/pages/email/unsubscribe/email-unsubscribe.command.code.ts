@@ -22,7 +22,7 @@ export function readIn(argv: readonly string[]): Read {
 export function emailUnsubscribe(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
-  return answeredBy(async () => {
+  return answeredBy(async (done) => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
     const raw = await google.getRawMessage(client, said.one[MESSAGE] ?? "")
@@ -30,6 +30,6 @@ export function emailUnsubscribe(argv: readonly string[]): Promise<Answer> {
       google.getHeader(raw, HEADER),
       google.getHeader(raw, POST_HEADER)
     )
-    return answering(await google.executeUnsubscribe(client, intent))
+    return answering(await google.executeUnsubscribe(client, intent, done))
   })
 }

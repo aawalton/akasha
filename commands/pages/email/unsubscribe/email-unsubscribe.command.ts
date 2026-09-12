@@ -25,6 +25,10 @@ export const emailUnsubscribe = {
       statement: "A mailto is fallen back to where one-click is not offered.",
     },
     {
+      invariantKind: "departure",
+      statement: "An unsubscribe that threw after Gmail took the mailto says the mailto went.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here follows a link found in a message body.",
     },

@@ -18,9 +18,9 @@ export function readIn(argv: readonly string[]): Read {
 export function emailMessageTrash(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
-  return answeredBy(async () => {
+  return answeredBy(async (done) => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(await google.trashMessage(client, said.one[MESSAGE] ?? ""))
+    return answering(await google.trashMessage(client, said.one[MESSAGE] ?? "", done))
   })
 }

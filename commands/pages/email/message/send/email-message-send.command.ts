@@ -59,6 +59,10 @@ export const emailMessageSend = {
       invariantKind: "departure",
       statement: "A message once sent is not taken back.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A send that threw after Gmail took the message says the message went.",
+    },
 
     {
       invariantKind: "departure",

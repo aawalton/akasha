@@ -21,6 +21,10 @@ export const emailMessageArchive = {
       statement: "The message's id and its thread come back beside those labels.",
     },
     {
+      invariantKind: "departure",
+      statement: "An archive that threw after Gmail took the change says the labels changed.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the message's body.",
     },

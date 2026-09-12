@@ -27,6 +27,10 @@ export const emailMessageModifyLabel = {
       invariantKind: "departure",
       statement: "The labels the message has after the change come back.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A relabelling that threw after Gmail took the change says the labels changed.",
+    },
   ],
   name: "modify-label",
   arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],

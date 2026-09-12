@@ -87,6 +87,19 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A command is handed a list to name each write on as Gmail takes that write.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fault is answered with what that list holds, reported and named in the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault with nothing on that list is answered as the fault alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every answer here is built by the one function building a command's answer.",
     },
     {

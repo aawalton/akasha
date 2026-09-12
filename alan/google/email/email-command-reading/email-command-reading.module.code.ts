@@ -4,6 +4,7 @@ import { buildComposeInput } from "akasha/alan/google/email/compose-input-from-a
 import type { ComposeInput } from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
 import {
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -194,11 +195,12 @@ export function refusing(said: readonly string[], code: number): Answer {
   return refusedBy(said, code)
 }
 
-export async function answeredBy(run: () => Promise<Answer>): Promise<Answer> {
+export async function answeredBy(run: (done: string[]) => Promise<Answer>): Promise<Answer> {
+  const done: string[] = []
   try {
-    return await run()
+    return await run(done)
   } catch (thrown) {
-    return refusing([whyOf(thrown)], OPERATIONAL)
+    return { report: done, refusals: [whyOf(thrown), ...partWay(done)], code: OPERATIONAL }
   }
 }
 

@@ -21,6 +21,10 @@ export const emailMessageTrash = {
       statement: "The message's id and its thread come back beside those labels.",
     },
     {
+      invariantKind: "departure",
+      statement: "A trash that threw after Gmail took the change says the message was trashed.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here deletes a message for good.",
     },

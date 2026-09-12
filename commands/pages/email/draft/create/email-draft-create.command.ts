@@ -52,6 +52,10 @@ export const emailDraftCreate = {
       statement: "A draft comes back as its own id, its message's id and that message's thread.",
     },
     {
+      invariantKind: "departure",
+      statement: "A create that threw after Gmail took the draft says Gmail holds it.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here sends the draft.",
     },

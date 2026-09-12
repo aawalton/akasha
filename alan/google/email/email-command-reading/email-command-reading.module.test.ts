@@ -2,6 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  answeredBy,
+  answering,
   BODY_FILING,
   COMPOSING,
   MAX,
@@ -11,8 +13,42 @@ import {
   SUBJECT_FILING,
   type Taking,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+
+const WENT = "gmail sent the message to one@example.com, and sending cannot be undone"
+
+test("a call gmail took is answered as the value gmail gave", async () => {
+  const held = await answeredBy(async () => answering({ id: "abc123" }))
+
+  expect(held.code).toBe(0)
+  expect(held.report.join("")).toContain("abc123")
+})
+
+test("a call that threw after gmail took the write names that write in its refusal", async () => {
+  const held = await answeredBy(async (done) => {
+    done.push(WENT)
+    throw new OperationalError("the reply would not read")
+  })
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.report).toEqual([WENT])
+  expect(held.refusals[0]).toBe("the reply would not read")
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("stopped part way")
+  expect(last).toContain(WENT)
+})
+
+test("a call that threw before gmail took anything names no write", async () => {
+  const held = await answeredBy(async () => {
+    throw new OperationalError("gmail would not answer")
+  })
+
+  expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
 
 const NAMING: Taking = { valued: [MESSAGE], needed: [MESSAGE], named: MESSAGE }
 
