@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   PASSIVE_SKILL_COUNT,
   passiveSkillIds,
@@ -18,7 +19,7 @@ export function generatePassiveSkillMappings(): string {
  * Maps ESO passive skill base ability IDs to bitmask indices for the character codec.
  * Source: engine/character/codec/build-codec-indices.ts (passiveSkillIds)
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const CHARACTER_PASSIVE_SKILL_COUNT = ${PASSIVE_SKILL_COUNT}

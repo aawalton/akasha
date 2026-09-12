@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { armorTraits } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
@@ -35,7 +36,7 @@ export function generateInventoryTraitMappings(): string {
  * Used by checkTraitOverride() to match items against trait-conditioned rules.
  * Source: engine/equipment/ trait data files
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 ${sections.join("\n\n")}

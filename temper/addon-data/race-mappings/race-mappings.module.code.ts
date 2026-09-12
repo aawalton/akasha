@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { races } from "akasha/temper/races/races/races.module.code.ts"
 export function generateRaceMappings(): string {
   const indexEntries: string[] = []
@@ -17,7 +18,7 @@ export function generateRaceMappings(): string {
  * Maps ESO race IDs to temper indices and string IDs.
  * Source: engine/character/races-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const RACE_ESO_ID_TO_INDEX: Record<number, number> = {

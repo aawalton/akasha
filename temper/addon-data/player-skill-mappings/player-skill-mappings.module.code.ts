@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 export function generatePlayerSkillMappings(): string {
   const indexEntries: string[] = []
@@ -20,7 +21,7 @@ export function generatePlayerSkillMappings(): string {
  * Maps ESO skill IDs to temper indices and string IDs.
  * Source: engine/skills/skills-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const SKILL_ESO_ID_TO_INDEX: Record<number, number> = {
