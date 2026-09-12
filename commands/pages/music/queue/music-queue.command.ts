@@ -7,7 +7,6 @@ export const musicQueue = {
   definition: "the command playing the first of a set of tracks and queueing the rest behind it",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

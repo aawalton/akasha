@@ -7,7 +7,6 @@ export const musicPlay = {
   definition: "the command playing one track, named by a query or by a track uri",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

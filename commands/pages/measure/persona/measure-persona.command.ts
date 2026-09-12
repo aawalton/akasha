@@ -7,7 +7,6 @@ export const measurePersona = {
   definition: "the command saying each persona's relationship level and the total behind it",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

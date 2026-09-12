@@ -6,7 +6,6 @@ export const emailUnsubscribe = {
   slug: "email-unsubscribe",
   definition: "the command getting off the list one message came from, by the headers it has",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

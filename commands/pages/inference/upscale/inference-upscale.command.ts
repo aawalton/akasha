@@ -6,7 +6,6 @@ export const inferenceUpscale = {
   slug: "inference-upscale",
   definition: "the command remaking one image at a higher resolution on a GPU",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const browserTestStorageState = {
   definition:
     "the command signing the browser-test user in and writing the storage state a browser is seeded from",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

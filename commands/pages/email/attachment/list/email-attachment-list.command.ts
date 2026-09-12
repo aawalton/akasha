@@ -6,7 +6,6 @@ export const emailAttachmentList = {
   slug: "email-attachment-list",
   definition: "the command naming the filename, type, size and id of a message's attachments",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

@@ -7,7 +7,6 @@ export const musicListening = {
   definition: "the command reading what Alan listens to on Spotify",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

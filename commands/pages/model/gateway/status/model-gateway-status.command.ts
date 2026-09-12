@@ -8,7 +8,6 @@ export const modelGatewayStatus = {
   code: "ts",
   test: "ts",
   parts: [],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

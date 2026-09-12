@@ -7,7 +7,6 @@ export const initiativeWorkTree = {
   definition: "the command drawing each initiative under the one above it, and the intents it has",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

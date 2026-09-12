@@ -7,7 +7,6 @@ export const trackSessionLog = {
   definition: "the command writing a stretch that already began and ended",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

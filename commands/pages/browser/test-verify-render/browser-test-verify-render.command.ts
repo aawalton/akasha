@@ -7,7 +7,6 @@ export const browserTestVerifyRender = {
   definition:
     "the command telling a rendered page on a deployed site from a failure and from an empty shell",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

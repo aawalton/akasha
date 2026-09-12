@@ -7,7 +7,6 @@ export const refreshAttribute = {
   definition: "the command working out again what each attribute earned before today",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

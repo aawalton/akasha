@@ -9,7 +9,6 @@ export const agentSubagentSweep = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

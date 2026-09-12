@@ -7,7 +7,6 @@ export const seatTranscriptList = {
   definition: "the command saying where each seat's transcript file is",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

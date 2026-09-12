@@ -7,7 +7,6 @@ export const googleLogin = {
   definition:
     "the command granting the consent Google is reached as Alan on, for calendar, drive and mail",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

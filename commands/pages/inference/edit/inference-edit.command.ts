@@ -6,7 +6,6 @@ export const inferenceEdit = {
   slug: "inference-edit",
   definition: "the command remaking one image under an instruction, keeping what it is of",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

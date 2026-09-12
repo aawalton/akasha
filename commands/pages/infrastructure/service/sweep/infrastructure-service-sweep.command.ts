@@ -8,7 +8,6 @@ export const infrastructureServiceSweep = {
   code: "ts",
   test: "ts",
   name: "sweep",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

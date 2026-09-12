@@ -7,7 +7,6 @@ export const trackHealthImport = {
   definition: "the command bringing an Apple Health export into the sample store",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

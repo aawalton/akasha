@@ -7,7 +7,6 @@ export const seatMessaged = {
   definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

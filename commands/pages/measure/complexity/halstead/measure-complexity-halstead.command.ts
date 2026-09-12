@@ -7,7 +7,6 @@ export const measureComplexityHalstead = {
   definition:
     "the command saying each function's token counts, and the volume, difficulty, effort, time and bugs",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

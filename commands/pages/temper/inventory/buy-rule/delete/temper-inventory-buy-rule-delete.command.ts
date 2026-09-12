@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleDelete = {
   slug: "temper-inventory-buy-rule-delete",
   definition: "the command taking away a buy rule named by its id",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

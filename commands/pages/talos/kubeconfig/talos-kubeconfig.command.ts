@@ -7,7 +7,6 @@ export const talosKubeconfig = {
   definition: "the command fetching a Talos cluster's kubeconfig onto the workstation",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

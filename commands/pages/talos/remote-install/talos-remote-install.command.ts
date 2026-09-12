@@ -7,7 +7,6 @@ export const talosRemoteInstall = {
   definition: "the command replacing the Linux running on a remote node with Talos, over SSH",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

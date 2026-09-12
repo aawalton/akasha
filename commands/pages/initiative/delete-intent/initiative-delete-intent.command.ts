@@ -7,7 +7,6 @@ export const initiativeDeleteIntent = {
   definition: "the command taking one intent out of the initiative stating that intent",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

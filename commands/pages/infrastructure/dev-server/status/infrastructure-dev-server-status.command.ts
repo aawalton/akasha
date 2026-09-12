@@ -7,7 +7,6 @@ export const infrastructureDevServerStatus = {
   definition: "the command reading whether an app's dev server is running or stopped",
   code: "ts",
   name: "status",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const infrastructureDevServerStart = {
   definition: "the command spawning one app's dev server and recording where it is",
   code: "ts",
   name: "start",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

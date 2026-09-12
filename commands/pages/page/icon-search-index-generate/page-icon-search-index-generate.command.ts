@@ -7,7 +7,6 @@ export const pageIconSearchIndexGenerate = {
   definition: "the command building the icon search index from a lucide release, staged as bodies",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

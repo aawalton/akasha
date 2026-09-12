@@ -6,7 +6,6 @@ export const emailMessageArchive = {
   slug: "email-message-archive",
   definition: "the command taking the INBOX label off one Gmail message",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

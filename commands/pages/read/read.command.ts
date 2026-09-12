@@ -10,7 +10,6 @@ export const read = {
   test: "ts",
   testFixtures: "ts",
   parts: ["module/differing", "module/output-reaching", "module/body-owing"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

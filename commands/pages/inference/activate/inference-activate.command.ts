@@ -6,7 +6,6 @@ export const inferenceActivate = {
   slug: "inference-activate",
   definition: "the command making one pool service the resident the traffic cop serves",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

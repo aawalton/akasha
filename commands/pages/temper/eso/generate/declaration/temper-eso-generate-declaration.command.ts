@@ -6,7 +6,6 @@ export const temperEsoGenerateDeclaration = {
   slug: "temper-eso-generate-declaration",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

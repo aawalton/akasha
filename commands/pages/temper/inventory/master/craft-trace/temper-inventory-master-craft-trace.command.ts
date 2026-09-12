@@ -6,7 +6,6 @@ export const temperInventoryMasterCraftTrace = {
   slug: "temper-inventory-master-craft-trace",
   definition: "the command giving back the addon's ring of equipment master-writ craft traces",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

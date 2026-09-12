@@ -8,7 +8,6 @@ export const domainDag = {
   code: "ts",
   test: "ts",
   parts: [],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const talosImageBuild = {
   definition: "the command registering one node's schematic with the Talos Image Factory",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "absence",

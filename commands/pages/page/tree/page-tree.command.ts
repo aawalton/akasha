@@ -7,7 +7,6 @@ export const pageTree = {
   definition: "the command answering the page type and property rows a page tree is assembled from",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

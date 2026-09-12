@@ -7,7 +7,6 @@ export const measurePerformance = {
   definition: "the command running one performance and saying what that performance measured",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

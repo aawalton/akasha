@@ -6,7 +6,6 @@ export const refreshMessage = {
   slug: "refresh-message",
   definition: "the command counting again what Alan wrote each persona on each day",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

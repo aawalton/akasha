@@ -7,7 +7,6 @@ export const musicNowPlaying = {
   definition: "the command naming the track Spotify is playing and the playback state around it",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

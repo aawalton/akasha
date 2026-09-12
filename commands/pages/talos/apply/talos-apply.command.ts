@@ -7,7 +7,6 @@ export const talosApply = {
   definition: "the command taking one Talos node from maintenance mode into its cluster",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

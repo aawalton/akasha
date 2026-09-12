@@ -6,7 +6,6 @@ export const temperUpstreamDataVerify = {
   slug: "temper-upstream-data-verify",
   definition: "the command ruling whether a ported upstream library's data still matches upstream",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

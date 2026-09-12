@@ -8,7 +8,6 @@ export const temperAddonTypecheck = {
     "the command typechecking each addon against its own compiler settings with nothing emitted",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

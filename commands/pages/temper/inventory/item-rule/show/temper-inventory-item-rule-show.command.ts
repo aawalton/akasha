@@ -6,7 +6,6 @@ export const temperInventoryItemRuleShow = {
   slug: "temper-inventory-item-rule-show",
   definition: "the command giving back one per-item rule named by its id",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

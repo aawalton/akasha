@@ -6,7 +6,6 @@ export const temperInventoryMasterWritProbe = {
   slug: "temper-inventory-master-writ-probe",
   definition: "the command giving back the addon's last master-writ journal capture",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

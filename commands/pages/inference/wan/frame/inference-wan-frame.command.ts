@@ -7,7 +7,6 @@ export const inferenceWanFrame = {
   definition: "the command writing a clip's frames out as numbered PNGs",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -8,7 +8,6 @@ export const seatRefreshSettings = {
     "the command rewriting each running seat's settings file from the document as it now is",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

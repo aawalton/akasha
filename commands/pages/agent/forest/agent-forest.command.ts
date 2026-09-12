@@ -8,7 +8,6 @@ export const agentForest = {
   code: "ts",
   test: "ts",
   parts: ["module/no-word-reading"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

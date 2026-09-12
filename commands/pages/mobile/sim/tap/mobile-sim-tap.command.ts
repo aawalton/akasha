@@ -6,7 +6,6 @@ export const mobileSimTap = {
   slug: "mobile-sim-tap",
   definition: "the command tapping the simulator screen the way a finger would",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

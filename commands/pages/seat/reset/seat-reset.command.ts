@@ -7,7 +7,6 @@ export const seatReset = {
   definition: "the command sitting a new agent down under everything a seat already states",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

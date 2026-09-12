@@ -8,7 +8,6 @@ export const googleDriveFetch = {
     "the command writing one file out of Alan's Google Drive to disk under its Drive name",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

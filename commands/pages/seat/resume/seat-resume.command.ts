@@ -7,7 +7,6 @@ export const seatResume = {
   definition: "the command putting a seat back on the session that seat was bound to",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

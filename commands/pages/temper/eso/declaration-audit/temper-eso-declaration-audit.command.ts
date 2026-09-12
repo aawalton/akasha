@@ -7,7 +7,6 @@ export const temperEsoDeclarationAudit = {
   definition:
     "the command reading which committed game artifacts are stamped behind the clone they came from",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

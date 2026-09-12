@@ -7,7 +7,6 @@ export const musicSearch = {
   definition: "the command naming the Spotify tracks a query matches, each with its artists",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

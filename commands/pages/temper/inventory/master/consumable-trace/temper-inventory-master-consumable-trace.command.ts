@@ -6,7 +6,6 @@ export const temperInventoryMasterConsumableTrace = {
   slug: "temper-inventory-master-consumable-trace",
   definition: "the command giving back the addon's ring of consumable master-writ traces",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

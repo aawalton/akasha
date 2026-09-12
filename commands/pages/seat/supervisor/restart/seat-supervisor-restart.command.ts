@@ -7,7 +7,6 @@ export const seatSupervisorRestart = {
   definition: "the command restarting every seat's supervisor onto the code standing now",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

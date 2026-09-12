@@ -7,7 +7,6 @@ export const trackSessionOpen = {
   definition: "the command beginning a stretch on a day with none open",
   code: "ts",
   parts: [],
-  taking: [],
 
   invariants: [
     {

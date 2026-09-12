@@ -7,7 +7,6 @@ export const musicRate = {
   definition: "the command recording Alan's grade and what he said onto a song or an artist",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

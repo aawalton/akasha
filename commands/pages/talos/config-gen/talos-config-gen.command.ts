@@ -6,7 +6,6 @@ export const talosConfigGen = {
   slug: "talos-config-gen",
   definition: "the command writing one Talos node's machine-config overlay documents",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

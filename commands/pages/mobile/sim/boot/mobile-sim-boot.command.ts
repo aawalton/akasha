@@ -7,7 +7,6 @@ export const mobileSimBoot = {
   definition: "the command booting a simulator and starting the Appium server it is driven through",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

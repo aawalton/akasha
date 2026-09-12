@@ -6,7 +6,6 @@ export const temperEsoGenerateColonMethod = {
   slug: "temper-eso-generate-colon-method",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

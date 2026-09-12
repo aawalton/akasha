@@ -7,7 +7,6 @@ export const musicNext = {
   definition: "the command choosing what Alan hears next out of the songs and artists he keeps",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -6,7 +6,6 @@ export const temperWatcherLogList = {
   slug: "temper-watcher-log-list",
   definition: "the command reading the workstation watcher's log lines newest first",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

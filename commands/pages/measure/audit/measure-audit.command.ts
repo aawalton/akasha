@@ -6,7 +6,6 @@ export const measureAudit = {
   slug: "measure-audit",
   definition: "the command saying what a check's audit run cost in processor time and memory",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

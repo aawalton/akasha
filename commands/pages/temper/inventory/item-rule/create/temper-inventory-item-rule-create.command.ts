@@ -6,7 +6,6 @@ export const temperInventoryItemRuleCreate = {
   slug: "temper-inventory-item-rule-create",
   definition: "the command adding a per-item rule",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

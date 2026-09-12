@@ -7,7 +7,6 @@ export const infrastructureLoki = {
   definition: "the command answering the log lines Loki has for a pod, newest first",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

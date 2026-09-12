@@ -7,7 +7,6 @@ export const icloudFetch = {
   definition: "the command writing every photo an iCloud shared album holds to disk",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

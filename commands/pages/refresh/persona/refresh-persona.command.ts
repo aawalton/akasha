@@ -6,7 +6,6 @@ export const refreshPersona = {
   slug: "refresh-persona",
   definition: "the command working out again what each persona has earned",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const infrastructureDevServerBootstrap = {
   definition: "the command writing an app's `.env.local` from the app's secret pages",
   code: "ts",
   name: "bootstrap",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

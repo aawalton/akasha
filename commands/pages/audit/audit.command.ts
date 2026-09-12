@@ -8,7 +8,6 @@ export const audit = {
     "the command answering every check that runs at audit, over every file this repository has",
   code: "ts",
   test: "ts",
-  taking: [],
 
   timeout: null,
   invariants: [

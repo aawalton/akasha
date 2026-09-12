@@ -6,7 +6,6 @@ export const emailMessageShow = {
   slug: "email-message-show",
   definition: "the command fetching one Gmail message whole, its plain-text body decoded",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

@@ -7,7 +7,6 @@ export const infrastructureDevServerStop = {
   definition: "the command ending one app's dev server and taking the state file it held",
   code: "ts",
   name: "stop",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

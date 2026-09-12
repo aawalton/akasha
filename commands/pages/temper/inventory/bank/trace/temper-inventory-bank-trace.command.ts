@@ -6,7 +6,6 @@ export const temperInventoryBankTrace = {
   slug: "temper-inventory-bank-trace",
   definition: "the command giving back the timing trace from the addon's last banking session",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

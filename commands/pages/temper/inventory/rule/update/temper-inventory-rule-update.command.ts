@@ -6,7 +6,6 @@ export const temperInventoryRuleUpdate = {
   slug: "temper-inventory-rule-update",
   definition: "the command changing the fields of a category rule named by its id",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

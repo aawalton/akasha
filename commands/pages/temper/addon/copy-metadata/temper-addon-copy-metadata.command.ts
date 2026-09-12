@@ -7,7 +7,6 @@ export const temperAddonCopyMetadata = {
   definition:
     "the command copying an addon's manifest, markup, assets and siblings into its build output",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

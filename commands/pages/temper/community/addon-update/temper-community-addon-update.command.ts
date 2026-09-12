@@ -8,7 +8,6 @@ export const temperCommunityAddonUpdate = {
     "the command installing the published updates for the third-party game addons already here",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -8,7 +8,6 @@ export const infrastructureServiceRun = {
   code: "ts",
   test: "ts",
   name: "run",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

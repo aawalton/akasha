@@ -7,7 +7,6 @@ export const gitPush = {
   definition: "the command carrying this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

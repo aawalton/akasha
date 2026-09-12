@@ -6,7 +6,6 @@ export const trackSessionList = {
   slug: "track-session-list",
   definition: "the command saying the stretches a day has",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

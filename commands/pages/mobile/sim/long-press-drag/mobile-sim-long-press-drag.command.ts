@@ -6,7 +6,6 @@ export const mobileSimLongPressDrag = {
   slug: "mobile-sim-long-press-drag",
   definition: "the command holding a finger down on the simulator and dragging it somewhere",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

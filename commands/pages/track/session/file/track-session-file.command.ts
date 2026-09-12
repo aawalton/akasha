@@ -7,7 +7,6 @@ export const trackSessionFile = {
   definition: "the command taking a whole day in as written lines",
   code: "ts",
   parts: [],
-  taking: [],
 
   invariants: [
     {

@@ -7,7 +7,6 @@ export const infrastructureServiceRestart = {
   definition: "the command asking systemd to run one service's unit afresh",
   code: "ts",
   name: "restart",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

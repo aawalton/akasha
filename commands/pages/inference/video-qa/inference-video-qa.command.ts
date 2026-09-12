@@ -6,7 +6,6 @@ export const inferenceVideoQa = {
   slug: "inference-video-qa",
   definition: "the command answering a question about a clip from the frames taken out of it",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

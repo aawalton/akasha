@@ -9,7 +9,6 @@ export const infrastructureDevServerLogs = {
   test: "ts",
   name: "logs",
   parts: ["module/last-lines"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

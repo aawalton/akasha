@@ -8,7 +8,6 @@ export const mobileSimPushTap = {
     "the command sending a push to the simulator, tapping its banner and reading what the tap did",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

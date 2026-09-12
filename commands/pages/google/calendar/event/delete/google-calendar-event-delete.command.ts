@@ -6,7 +6,6 @@ export const googleCalendarEventDelete = {
   slug: "google-calendar-event-delete",
   definition: "the command taking one event off its calendar",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

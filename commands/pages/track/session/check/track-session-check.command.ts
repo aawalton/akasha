@@ -7,7 +7,6 @@ export const trackSessionCheck = {
   definition: "the command judging the rows a day carries",
   code: "ts",
   parts: [],
-  taking: [],
 
   invariants: [
     {

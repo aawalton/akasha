@@ -7,7 +7,6 @@ export const gitSweep = {
   definition: "the command taking away what akasha left under the folder git does not track",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

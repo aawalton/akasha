@@ -7,7 +7,6 @@ export const temperCatalogStatus = {
   definition:
     "the command saying which catalog domains are collected and which are owed a collection",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -6,7 +6,6 @@ export const measureClaudeAccountUsage = {
   slug: "measure-claude-account-usage",
   definition: "the command saying what each account has spent of its two windows",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

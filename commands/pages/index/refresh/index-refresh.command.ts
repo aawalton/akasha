@@ -8,7 +8,6 @@ export const indexRefresh = {
   code: "ts",
   test: "ts",
   timeout: 600,
-  taking: [],
   invariants: [
     {
       invariantKind: "absence",

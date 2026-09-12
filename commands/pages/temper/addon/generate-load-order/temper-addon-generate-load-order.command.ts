@@ -7,7 +7,6 @@ export const temperAddonGenerateLoadOrder = {
   definition:
     "the command writing an addon's load-order manifest and build stamp into its build output",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

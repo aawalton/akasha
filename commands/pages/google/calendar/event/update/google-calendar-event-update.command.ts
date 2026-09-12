@@ -6,7 +6,6 @@ export const googleCalendarEventUpdate = {
   slug: "google-calendar-event-update",
   definition: "the command changing the fields a call names on one event",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

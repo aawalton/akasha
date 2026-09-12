@@ -7,7 +7,6 @@ export const temperAddonResolve = {
   definition: "the command answering which addon a name reaches",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

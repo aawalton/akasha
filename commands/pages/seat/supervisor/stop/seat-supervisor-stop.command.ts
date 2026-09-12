@@ -7,7 +7,6 @@ export const seatSupervisorStop = {
   definition: "the command ending a seat's supervisor and taking the page that seat held",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -6,7 +6,6 @@ export const pageSecretShow = {
   slug: "page-secret-show",
   definition: "the command answering with one of a page's secrets, decrypted",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

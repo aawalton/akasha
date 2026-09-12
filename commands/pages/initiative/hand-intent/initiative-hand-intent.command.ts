@@ -7,7 +7,6 @@ export const initiativeHandIntent = {
   definition: "the command handing one intent from the initiative stating it to another initiative",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

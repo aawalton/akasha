@@ -7,7 +7,6 @@ export const inferenceWanGenerate = {
   definition: "the command rendering one clip conditioned on a first frame, a last frame, or both",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

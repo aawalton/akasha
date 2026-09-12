@@ -7,7 +7,6 @@ export const talosSecretGen = {
   definition: "the command writing a Talos cluster's PKI bundle SOPS-encrypted",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

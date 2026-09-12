@@ -6,7 +6,6 @@ export const temperInventorySnapshot = {
   slug: "temper-inventory-snapshot",
   definition: "the command giving back a stored holdings snapshot as one whole record",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

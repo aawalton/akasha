@@ -7,7 +7,6 @@ export const trackWeight = {
   definition: "the command recording what Alan's body weighed on a day",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

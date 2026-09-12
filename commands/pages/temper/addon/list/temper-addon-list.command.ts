@@ -7,7 +7,6 @@ export const temperAddonList = {
   definition: "the command naming every addon source folder the checkout has",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

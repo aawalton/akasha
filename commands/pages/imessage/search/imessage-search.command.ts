@@ -6,7 +6,6 @@ export const imessageSearch = {
   slug: "imessage-search",
   definition: "the command giving back the messages whose text has a run of characters",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

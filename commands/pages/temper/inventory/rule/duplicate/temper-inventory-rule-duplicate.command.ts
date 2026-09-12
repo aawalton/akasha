@@ -6,7 +6,6 @@ export const temperInventoryRuleDuplicate = {
   slug: "temper-inventory-rule-duplicate",
   definition: "the command copying a category rule named by its id",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

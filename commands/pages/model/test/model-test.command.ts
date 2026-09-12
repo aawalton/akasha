@@ -7,7 +7,6 @@ export const modelTest = {
   definition: "the command putting a model test's labelled cases to its model and scoring them",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const mobileSimTeardown = {
   definition: "the command ending the simulator session that is there",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

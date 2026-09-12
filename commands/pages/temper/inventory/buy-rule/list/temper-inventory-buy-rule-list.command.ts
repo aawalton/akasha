@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleList = {
   slug: "temper-inventory-buy-rule-list",
   definition: "the command naming every buy rule beside how far short of its target it falls",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const measureCommand = {
   definition: "the command saying what a command's own run cost in processor time and memory",
   code: "ts",
   parts: ["module/command-measuring"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

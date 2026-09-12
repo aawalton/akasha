@@ -7,7 +7,6 @@ export const alanFood = {
   definition: "the command filing one food Alan ate onto the day that food counts to",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

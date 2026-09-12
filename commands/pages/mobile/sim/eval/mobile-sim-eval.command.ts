@@ -7,7 +7,6 @@ export const mobileSimEval = {
   definition:
     "the command running JavaScript inside the simulator's webview and giving back what it returned",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

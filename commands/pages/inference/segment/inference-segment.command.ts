@@ -7,7 +7,6 @@ export const inferenceSegment = {
   definition: "the command parting an image's foreground from its background as an alpha matte",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

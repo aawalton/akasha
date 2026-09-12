@@ -25,7 +25,6 @@ export const deploy = {
     "module/deploy-bundle-publishing",
     "module/deploy-tree-pinning",
   ],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

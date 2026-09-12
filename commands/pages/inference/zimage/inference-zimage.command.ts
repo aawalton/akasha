@@ -7,7 +7,6 @@ export const inferenceZimage = {
   definition: "the command rendering one image off a registered checkpoint",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

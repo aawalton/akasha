@@ -6,7 +6,6 @@ export const mobileCutStatus = {
   slug: "mobile-cut-status",
   definition: "the command saying whether a TestFlight cut is owed or the phones are current",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

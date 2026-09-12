@@ -6,7 +6,6 @@ export const temperInventoryItemRuleDelete = {
   slug: "temper-inventory-item-rule-delete",
   definition: "the command taking away a per-item rule named by its id",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const modelGatewaySwap = {
   definition: "the command respawning a live seat's gateway on the bytecode here",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@ export const temperCommunityAddonList = {
   definition:
     "the command naming each installed third-party game addon beside its newest published version",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

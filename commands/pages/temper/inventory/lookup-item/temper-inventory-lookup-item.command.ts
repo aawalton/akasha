@@ -6,7 +6,6 @@ export const temperInventoryLookupItem = {
   slug: "temper-inventory-lookup-item",
   definition: "the command finding an item in the captured holdings and saying what it is",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

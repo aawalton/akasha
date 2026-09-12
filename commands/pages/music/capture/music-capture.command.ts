@@ -9,7 +9,6 @@ export const musicCapture = {
   test: "ts",
   testFixtures: "ts",
   parts: ["module/play-row"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

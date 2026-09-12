@@ -6,7 +6,6 @@ export const temperInventoryRuleCreate = {
   slug: "temper-inventory-rule-create",
   definition: "the command adding a category rule",
   code: "ts",
-  taking: [],
 
   invariants: [
     {

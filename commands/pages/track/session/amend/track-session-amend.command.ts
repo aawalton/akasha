@@ -7,7 +7,6 @@ export const trackSessionAmend = {
   definition: "the command changing a stretch already written",
   code: "ts",
   parts: [],
-  taking: [],
 
   invariants: [
     {

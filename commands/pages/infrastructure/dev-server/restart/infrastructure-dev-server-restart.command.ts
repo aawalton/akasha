@@ -7,7 +7,6 @@ export const infrastructureDevServerRestart = {
   definition: "the command stopping one app's dev server and starting it again",
   code: "ts",
   name: "restart",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

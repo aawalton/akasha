@@ -7,7 +7,6 @@ export const trackSessionSwitch = {
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",
   parts: [],
-  taking: [],
 
   invariants: [
     {

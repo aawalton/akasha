@@ -7,7 +7,6 @@ export const mobileSimType = {
   definition: "the command typing text into the simulator's webview",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

@@ -7,7 +7,6 @@ export const measurePage = {
   definition: "the command counting the checkout's files by page type rather than by file type",
   code: "ts",
   parts: ["module/page-measuring"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

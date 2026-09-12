@@ -7,7 +7,6 @@ export const measureClaudeAccountCost = {
   definition: "the command pricing the calls the transcripts on this machine have",
   code: "ts",
   parts: ["module/claude-account-costing"],
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

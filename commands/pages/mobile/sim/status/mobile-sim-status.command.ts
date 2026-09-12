@@ -6,7 +6,6 @@ export const mobileSimStatus = {
   slug: "mobile-sim-status",
   definition: "the command saying what simulator session is there",
   code: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

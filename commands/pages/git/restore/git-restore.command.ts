@@ -8,7 +8,6 @@ export const gitRestore = {
     "the command putting named paths back to what HEAD says, in the working tree and the git index",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

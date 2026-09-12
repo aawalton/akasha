@@ -7,7 +7,6 @@ export const measureAttribute = {
   definition: "the command saying each attribute's level and the total behind that level",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

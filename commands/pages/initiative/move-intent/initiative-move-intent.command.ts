@@ -8,7 +8,6 @@ export const initiativeMoveIntent = {
     "the command carrying one intent onto the place another intent of its initiative holds",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {

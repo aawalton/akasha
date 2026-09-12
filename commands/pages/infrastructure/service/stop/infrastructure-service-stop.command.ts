@@ -7,7 +7,6 @@ export const infrastructureServiceStop = {
   definition: "the command asking systemd to end one service's unit",
   code: "ts",
   name: "stop",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

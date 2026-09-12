@@ -7,7 +7,6 @@ export const inferenceWanExtend = {
   definition: "the command rendering fresh frames before or after a clip",
   code: "ts",
   test: "ts",
-  taking: [],
   invariants: [
     {
       invariantKind: "departure",

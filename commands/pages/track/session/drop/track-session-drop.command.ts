@@ -7,7 +7,6 @@ export const trackSessionDrop = {
   definition: "the command taking a stretch away from a day",
   code: "ts",
   test: "ts",
-  taking: [],
 
   invariants: [
     {
