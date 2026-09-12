@@ -8,7 +8,6 @@ export const temperInventoryItemRuleUpdate = {
   code: "ts",
   taking: [
     { said: "<id>", takes: "the id of the per-item rule changed" },
-    { said: "--action <name>", takes: "what is done with the item when the rule fires" },
     { said: "--destination <d>", takes: "where the item goes, for the actions that move it" },
     { said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" },
   ],
@@ -33,5 +32,6 @@ export const temperInventoryItemRuleUpdate = {
     { argument: "argument/notes" },
     { argument: "argument/goal" },
     { argument: "argument/active" },
+    { argument: "argument/action" },
   ],
 } as const satisfies Command
