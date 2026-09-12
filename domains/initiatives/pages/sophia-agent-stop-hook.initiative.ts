@@ -15,13 +15,13 @@ export const sophiaAgentStopHook = {
     {
       statement: "A refusal takes more than one prompt agreeing that the turn breaks the rule.",
       workingMemory:
-        "Eppie's last finding, and her question to Alan went unanswered. No single prompt reaches zero misfires, because the misfire set shuffles with every rewording: 0 of 8 single prompts, 5 of 28 pairs and 23 of 56 triples reach zero. `nc9` and `nc16` together caught 8 with no misfire over 380 clean turns. `model-test-running` joins prompts with `anyYes`, an or, so two prompts that disagree fire today. Making that an and changes what the hook refuses, so it is Alan's.",
+        "Eppie found this on No Commentary and asked Alan, who never answered. It holds on One At A Time too: over 14 prompts, no single one misfires on nothing, and the misfire set shuffles with every rewording. The best single leaves 1 misfire over 226 clean turns at 11 of 33 caught. `oaat3` and `oaat11` together, firing only where both say yes, leave none at 15 of 33. Both were picked on the set they were tuned against, so the zero is the robust part and the 15 is not.",
     },
     {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "One has a judge: Neither Clock Nor Meter, hardcoded at `directive-kept.model-test.code.ts:31`. No Commentary was worked and set down at 0.75 precision and 0.13 recall. Don't Stop! has 63 labelled breaches waiting, Act By Default 38, One At A Time 34, and no prompt has been put to any of them. Alan takes one directive at a time, holds precision far above recall, and reads recall over the union of the judges rather than over any one.",
+        "One has a judge: Neither Clock Nor Meter, hardcoded at `directive-kept.model-test.code.ts:31`, catching 15 of 34 and refusing none of 214 clean turns. One At A Time is worked and waiting on whether a test may carry two prompts: the pair reaches no misfires at 15 of 33, no single prompt does. No Commentary was worked and set down at 0.857 precision. Don't Stop! has 55 labelled breaches waiting and Act By Default 36, and no prompt has been put to either.",
     },
     {
       statement:
