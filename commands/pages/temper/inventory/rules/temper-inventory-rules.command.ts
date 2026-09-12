@@ -18,9 +18,7 @@ export const temperInventoryRules = {
     },
     { said: "--json", takes: "give the section as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "the configuration read is what the addon compiled rather than what the rules were written as.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
