@@ -7,6 +7,7 @@ export const inventoryRuleCalling = {
   definition: "what the commands over a temper player's inventory rules read and do alike",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

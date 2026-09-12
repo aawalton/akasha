@@ -267,10 +267,10 @@ export async function answeredByPage<Page extends Commanding, Pages extends read
   calledAs: string,
   page: Page,
   pages: Pages,
-  act: (taken: TakenFor<Page, Pages[number]>) => Promise<Answer>
+  act: (taken: TakenFor<Page, Pages[number]>, done: string[]) => Promise<Answer>
 ): Promise<Answer> {
   const read = takenFor(argv, calledAs, page, pages)
   if ("refused" in read) return refusedBy(read.refused)
   const taken = read.taken
-  return await answering(() => act(taken))
+  return await answering((done) => act(taken, done))
 }

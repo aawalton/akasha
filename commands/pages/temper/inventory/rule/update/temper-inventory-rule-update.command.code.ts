@@ -25,7 +25,9 @@ import {
   named,
   settingsOf,
   unfound,
+  type Writing,
   webOf,
+  wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowCategoryId,
@@ -52,9 +54,14 @@ const CHANGED = [
 
 const PAGES = [...CHANGED, force, categoryRuleId]
 
-type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-async function changed(taken: Taken, calledAs: string): Promise<Answer> {
+export async function changing(
+  taken: Taken,
+  calledAs: string,
+  writing: Writing,
+  done: string[]
+): Promise<Answer> {
   const chain = parseDestinationChainJson(taken.destinationChain)
   const narrowed = parseConditionsJson(taken.conditions)
   const clears = chain !== undefined && taken.destination === undefined
@@ -80,21 +87,25 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
     return refused(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
   }
   const id = taken.categoryRuleId
-  const settingsAccess = await settingsOf()
-  const settings = await settingsAccess.read()
+  const settings = await writing.read()
   const rule = settings.rules.find((one) => one.id === id)
   if (rule === undefined) return unfound("category", id)
   if (rule.locked === true && !taken.force) return lockedOff("category", id)
   const next = bulkUpdateCategoryRules(settings, [id], patch, { force: taken.force })
-  await settingsAccess.write(next)
+  await writing.write(next)
+  done.push(wroteSaid("category", id, "changed"))
   return told(emitJson(next.rules.find((one) => one.id === id) ?? rule).split("\n"))
+}
+
+async function changed(taken: Taken, calledAs: string, done: string[]): Promise<Answer> {
+  return await changing(taken, calledAs, await settingsOf(), done)
 }
 
 export async function temperInventoryRuleUpdate(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredByPage(argv, given.calledAs, page, PAGES, (taken) =>
-    changed(taken, given.calledAs)
+  return await answeredByPage(argv, given.calledAs, page, PAGES, (taken, done) =>
+    changed(taken, given.calledAs, done)
   )
 }

@@ -5,28 +5,14 @@ import {
   copiedRule,
   droppedRule,
   lockedRule,
-  type Writing,
   wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-
-const HELD = "a-rule-the-settings-hold"
-
-const LOCKED_ID = "a-rule-the-settings-lock"
-
-const SETTINGS: InventoryRuleSettings = {
-  version: 2,
-  rules: [
-    { id: HELD, categoryId: "all", action: "nothing", active: true, locked: false },
-    { id: LOCKED_ID, categoryId: "all", action: "nothing", active: true, locked: true },
-  ],
-}
-
-function writingThat(write: (settings: InventoryRuleSettings) => Promise<unknown>): Writing {
-  return { read: () => Promise.resolve(SETTINGS), write }
-}
-
-const WROTE = writingThat(() => Promise.resolve())
+import {
+  HELD,
+  LOCKED_ID,
+  WROTE,
+  writingThat,
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 
 const THREW_AFTER_WRITING = writingThat(() => Promise.resolve("written"))
 
