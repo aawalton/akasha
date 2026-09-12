@@ -10,18 +10,13 @@ export const sophiaAgentStopHook = {
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",
       workingMemory:
-        "Met for Neither Clock Nor Meter, the one directive judged. On the 413 cases: no refusal on any of the 214 turns labelled as breaking nothing, and 15 of 34 breaches caught. The 6 that read as misfires all land on turns labelled as breaking some other rule, and at least three of them break this rule as well — `my web-search budget for this session is spent` among them. So the apparent loss is the answer key rather than the judge.",
-    },
-    {
-      statement: "A refusal takes more than one prompt agreeing that the turn breaks the rule.",
-      workingMemory:
-        "Eppie found this on No Commentary and asked Alan, who never answered. It holds on One At A Time too: over 14 prompts, no single one misfires on nothing, and the misfire set shuffles with every rewording. The best single leaves 1 misfire over 226 clean turns at 11 of 33 caught. `oaat3` and `oaat11` together, firing only where both say yes, leave none at 15 of 33. Both were picked on the set they were tuned against, so the zero is the robust part and the 15 is not.",
+        "Met for Neither Clock Nor Meter, the one directive the live hook judges: no refusal on any of the 214 turns the 413 cases label as breaking nothing, and 15 of 34 breaches caught. The 6 that read as misfires all sit on turns labelled against some other rule, and at least three break this rule as well, so the loss is the answer key rather than the judge. The second judge is measured and landed but not turned on, and turning it on makes the hook refuse more.",
     },
     {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "One has a judge: Neither Clock Nor Meter, hardcoded at `directive-kept.model-test.code.ts:31`, catching 15 of 34 and refusing none of 214 clean turns. One At A Time is worked and waiting on whether a test may carry two prompts: the pair reaches no misfires at 15 of 33, no single prompt does. No Commentary was worked and set down at 0.857 precision. Don't Stop! has 55 labelled breaches waiting and Act By Default 36, and no prompt has been put to either.",
+        "Two of five have judges, each one prompt. Neither Clock Nor Meter, at `directive-kept`, catches 15 of 34 and refuses none of 214 clean turns. One At A Time, at `one-at-a-time-kept`, catches 11 of 24 and refuses none of 214; over Eppie's whole pool, 19 of 33 and none of 227. What got it past its misfires was turns already judged put in to calibrate, and a terminal clause after the ordered steps. No Commentary was set down at 0.857. Don't Stop! has 55 breaches waiting and Act By Default 36.",
     },
     {
       statement:
@@ -42,7 +37,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "Every turn Eppie mined and labelled is a case.",
       workingMemory:
-        "292 of her 449 trusted rows landed at `c628cb77f3d`, joining the 121 already there. 112 are held back because their text spells a path the index answers for, and `page-path-is-asked-for` refuses them; a case's text is a verbatim quotation of an agent's turn, so rewording it falsifies the case. Those 112 sit at `held-cases.uncommitted.jsonl` beside the test and in her scratchpad under /tmp, which a restart takes. `append-lines-from` is back to carry them and goes once they land.",
+        "292 of her 449 trusted rows landed at `c628cb77f3d`, joining the 121 already there. The other 112 cannot land as things are: `check-reaches-a-path-through-the-index` judges the file the lines land in rather than the change carrying them, so `append-lines-from` gets the draft through and the apply still draws about 130 refusals. The check lets off a file held uncommitted, one a machine writes, and one a tool resolves the paths in, and a case file is none of the three. This waits on Alan's word.",
     },
   ],
   constraints: ["A refusal reminds an agent of a directive Alan's own page states."],
