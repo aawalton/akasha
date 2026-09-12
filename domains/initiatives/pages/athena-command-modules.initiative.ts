@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "The 43 was an undercount. Five more are silent at HEAD — `temper addon copy-metadata`, `addon data-generate`, `upstream data-port`, `browser test-storage-state`, `inference wan frame` — and two families are judged by shape rather than traced: eleven `runMechanicalChange` callers handing in no `done`, and the seven inference persist commands, answered instead by two invariants on `domain/inference-run`. Roughly 23 open. Seven trees rest on one sweep, not an import-chain trace.\n",
+        "Judging by shape undercounts. An import-chain trace over seven trees found 17 more silent at HEAD, about as many as the sweep had found. The eleven `runMechanicalChange` callers are closed, `857f539d1a4` through `6c6670918c1`, and `landedMechanically` now lives once in `mechanical-change-running`. The seven inference persist commands get no `done` thread: `landRow` throws on every path, so nothing past `inference-run-store.module.code.ts:57` has ever run, and two invariants answer instead.\n",
     },
   ],
   constraints: [
