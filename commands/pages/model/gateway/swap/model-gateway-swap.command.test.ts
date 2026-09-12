@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { SeatMatch } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
@@ -14,7 +15,6 @@ import {
   askedSaid,
   modelGatewaySwap,
 } from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
-import type { SeatMatch } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 
 const SEATS = ["awen", "athena"]
 

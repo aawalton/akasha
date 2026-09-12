@@ -1,3 +1,5 @@
+import type { SeatMatch } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { resolveSeatTarget } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
@@ -19,8 +21,6 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
-import type { SeatMatch } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
-import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
