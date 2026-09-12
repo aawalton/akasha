@@ -7,10 +7,10 @@ export const emailMessage = {
   definition: "a message in Alan's mailbox",
   parts: [
     "command/email-message-archive",
-    "command/email-message-show",
     "command/email-message-list",
     "command/email-message-modify-label",
     "command/email-message-send",
+    "command/email-message-show",
     "command/email-message-trash",
   ],
   name: "message",

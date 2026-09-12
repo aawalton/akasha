@@ -8,9 +8,9 @@ export const googleCalendarEvent = {
   parts: [
     "command/google-calendar-event-create",
     "command/google-calendar-event-delete",
-    "command/google-calendar-event-show",
     "command/google-calendar-event-list",
     "command/google-calendar-event-rsvp",
+    "command/google-calendar-event-show",
     "command/google-calendar-event-update",
   ],
   name: "event",

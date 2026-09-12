@@ -5,6 +5,6 @@ export const google = {
   type: "namespace",
   slug: "google",
   definition: "what Alan keeps with Google, reached under one consent",
-  parts: ["namespace/google-calendar", "namespace/google-drive", "command/google-login"],
+  parts: ["command/google-login", "namespace/google-calendar", "namespace/google-drive"],
   name: "google",
 } as const satisfies Namespace

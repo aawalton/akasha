@@ -6,10 +6,10 @@ export const email = {
   slug: "email",
   definition: "the mail Alan sends and receives",
   parts: [
+    "command/email-unsubscribe",
     "namespace/email-attachment",
     "namespace/email-draft",
     "namespace/email-message",
-    "command/email-unsubscribe",
   ],
   name: "email",
 } as const satisfies Namespace

@@ -6,12 +6,12 @@ export const change = {
   slug: "change",
   definition: "the edits an agent keeps, and what becomes of them",
   parts: [
-    "command/change-show",
-    "command/change-list",
-    "command/change-drop",
-    "command/change-draft",
     "command/change-apply",
+    "command/change-draft",
+    "command/change-drop",
+    "command/change-list",
     "command/change-repeat",
+    "command/change-show",
   ],
   name: "change",
   directives: [
