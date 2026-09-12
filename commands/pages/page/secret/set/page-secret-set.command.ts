@@ -22,15 +22,19 @@ export const pageSecretSet = {
       takes: "what the commit is for, where the one naming the sops file will not do",
     },
   ],
-  helpNotes: [
-    "the value is enciphered before it reaches disk and is never written anywhere in the clear.",
-    "the value is piped in rather than said as an argument, since an argument stands in the process table and in whatever recorded the call.",
-    "one trailing newline is dropped, since that is what a shell adds, and `--keep-last-newline` keeps it instead.",
-    "a value holding newlines of its own is taken whole, so a certificate or a config file is set as it is.",
-    "which keys a page may hold is its page type's call, and a key it does not declare secret is refused naming the ones it does.",
-    "what a set replaces stands in the commit before it.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A key the page's page type does not declare secret is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the keys that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The value a set replaces remains in the commit before that set.",
+    },
     {
       invariantKind: "departure",
       statement: "A value arrives piped in rather than as an argument.",
