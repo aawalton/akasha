@@ -11,7 +11,6 @@ export const musicSearch = {
     { said: "query", takes: "the track query the search is made with" },
     { said: "--artist <name>", takes: "keep only candidates whose artist contains this name" },
     { said: "--limit <n>", takes: "the most candidates given back, five where nothing is said" },
-    { said: "--json", takes: "give one JSON envelope rather than human lines" },
   ],
   invariants: [
     {

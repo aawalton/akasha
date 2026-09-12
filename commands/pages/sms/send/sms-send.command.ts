@@ -19,7 +19,6 @@ export const smsSend = {
       said: "--base-url <url>",
       takes: "the carrier API to reach, the live one where none is said",
     },
-    { said: "--json", takes: "give what was sent as JSON rather than as the sent line" },
   ],
   invariants: [
     {

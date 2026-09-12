@@ -12,7 +12,6 @@ export const musicImportArtist = {
     { said: "--name <name>", takes: "the artist to look for by name" },
     { said: "--mbid <mbid>", takes: "the artist's MusicBrainz id, which is looked for by nothing" },
     { said: "--limit <n>", takes: "how many songs at most are brought in" },
-    { said: "--json", takes: "give what was brought in as JSON rather than as rows" },
   ],
 
   invariants: [

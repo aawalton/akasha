@@ -7,12 +7,7 @@ export const measureLearning = {
   definition:
     "the command saying how far through the Book of Everything Alan has got, part by part",
   code: "ts",
-  taking: [
-    {
-      said: "--json",
-      takes: "give the reading as one line of JSON rather than as a table",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {

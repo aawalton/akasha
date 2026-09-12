@@ -23,7 +23,6 @@ export const musicRate = {
     },
     { said: "--insights <md>", takes: "what Alan found in a song, for `--target song`" },
     { said: "--insights-file <file>", takes: "a file the insights are read from" },
-    { said: "--json", takes: "give what was recorded as JSON rather than as a line" },
   ],
   invariants: [
     {

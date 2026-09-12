@@ -8,7 +8,7 @@ export const modelGatewayStatus = {
   code: "ts",
   test: "ts",
   parts: ["module/live-gateway-seats"],
-  taking: [{ said: "--json", takes: "the answer as one JSON object rather than as rows" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",

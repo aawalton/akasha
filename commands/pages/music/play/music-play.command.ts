@@ -18,7 +18,6 @@ export const musicPlay = {
       takes: "hold the query to this artist, read without regard to case",
     },
     { said: "--device-id <id>", takes: "the Spotify device played on, rather than the active one" },
-    { said: "--json", takes: "give the answer as JSON rather than as a line of text" },
   ],
   invariants: [
     {

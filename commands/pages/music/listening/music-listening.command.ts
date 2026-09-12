@@ -13,7 +13,6 @@ export const musicListening = {
       takes: "the window the top lists are counted over, medium where none is said",
     },
     { said: "--limit <n>", takes: "the most rows given back for one list, ten where none is said" },
-    { said: "--json", takes: "give one object holding every list rather than human text" },
   ],
   invariants: [
     {

@@ -11,7 +11,6 @@ export const modelTest = {
     { said: "<test>", takes: "the model test whose prompt is put to the model" },
     { said: "--cases <test>", takes: "the model test whose cases are used, its own by default" },
     { said: "--broken", takes: "the cases the model got wrong and no others" },
-    { said: "--json", takes: "the answer as one JSON object rather than as rows" },
     { said: "--show", takes: "the whole prompt put for each case shown and the whole answer back" },
   ],
   invariants: [

@@ -9,10 +9,7 @@ export const musicCapture = {
   test: "ts",
   testFixtures: "ts",
   parts: ["module/play-row"],
-  taking: [
-    { said: "--dry-run", takes: "say what would land and write nothing" },
-    { said: "--json", takes: "give what was filed as JSON rather than as rows" },
-  ],
+  taking: [{ said: "--dry-run", takes: "say what would land and write nothing" }],
   invariants: [
     {
       invariantKind: "departure",

@@ -41,7 +41,6 @@ export const seatStart = {
       said: "--anthropic-auth-token <token>",
       takes: "the token the seat launched here signs in with",
     },
-    { said: "--json", takes: "answer a json record rather than the one line" },
   ],
   invariants: [
     {

@@ -10,7 +10,6 @@ export const modelGatewaySwap = {
   taking: [
     { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
     { said: "--fleet", takes: "every live seat in turn rather than one named" },
-    { said: "--json", takes: "the answer as one JSON object rather than as rows" },
   ],
   invariants: [
     {
