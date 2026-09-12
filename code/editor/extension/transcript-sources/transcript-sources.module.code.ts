@@ -1,6 +1,8 @@
 import { readdir, readFile, stat } from "node:fs/promises"
 import * as path from "node:path"
 import { callHarness } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+import { seatTranscriptList } from "akasha/commands/pages/seat/transcript-list/seat-transcript-list.command.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { z } from "zod"
 
 export interface SeatTranscript {
@@ -18,13 +20,9 @@ export interface SubagentTranscript {
 
 const CALL_TIMEOUT_MS = 30_000
 
-const TRANSCRIPTS_SLUG = "seat-transcript-list"
-
-const TRANSCRIPTS_EXPORT = "seatTranscriptList"
-
 export const TRANSCRIPTS_CALL = {
-  slug: TRANSCRIPTS_SLUG,
-  exported: TRANSCRIPTS_EXPORT,
+  slug: seatTranscriptList.slug,
+  exported: exportedAs(seatTranscriptList.slug),
   args: [] as readonly string[],
 }
 

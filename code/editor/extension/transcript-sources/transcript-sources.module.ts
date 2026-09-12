@@ -14,6 +14,10 @@ export const transcriptSources = {
     },
     {
       invariantKind: "departure",
+      statement: "The command asked is named by reading the slug off that command's own page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every seat's transcript is answered in one call.",
     },
     {
