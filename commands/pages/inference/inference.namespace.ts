@@ -7,7 +7,7 @@ export const inference = {
   definition: "a model asked for something and what came back",
   parts: [
     "command/inference-activate",
-    "command/inference-active",
+    "command/inference-active-list",
     "command/inference-capability-list",
     "command/inference-edit",
     "command/inference-generate",
