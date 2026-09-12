@@ -14,10 +14,9 @@ import {
 } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/tracks/spotify-tracks.module.code.ts"
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const INPUT = 1
 
 export const URI = "--uri"
 
@@ -195,7 +194,7 @@ export async function playing(argv: readonly string[], ports: Playing): Promise<
     const said = read.bare.has(JSON_FLAG)
       ? JSON.stringify(playEnvelopeFor(wanted.query, wanted.track, deviceId))
       : playLineFor(wanted.track)
-    return { report: [said], refusals: [], code: 0 }
+    return { report: [said], refusals: [], code: OK }
   } catch (thrown) {
     if (isCliError(thrown)) return refused(thrown.message, thrown.code)
     throw thrown
