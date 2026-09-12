@@ -95,3 +95,7 @@ export function answeredWith(
 ): Answer {
   return { report, refusals, code }
 }
+
+export function refused(said: string, code: number): Answer {
+  return refusedBy([said], code)
+}

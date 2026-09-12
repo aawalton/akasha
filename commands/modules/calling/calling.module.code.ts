@@ -116,10 +116,6 @@ export function refreshNamed(argv: readonly string[]): boolean {
 
 const loadFrom = createRequire(import.meta.url)
 
-export function refused(said: string, code: number): Answer {
-  return refusedBy([said], code)
-}
-
 export function commandSlugIn(root: string): string | null {
   return indexThere(root) ? typeSlugById(root, COMMAND_TYPE) : null
 }

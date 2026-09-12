@@ -8,9 +8,8 @@ import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
 import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, refused } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryRuleCreate as page } from "akasha/commands/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts"
 import {
   answeredByPage,

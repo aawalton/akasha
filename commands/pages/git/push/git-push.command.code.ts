@@ -3,14 +3,11 @@ import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
+  refused,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import {
-  type Answer,
-  type Given,
-  refused,
-} from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { gitPush as page } from "akasha/commands/pages/git/push/git-push.command.ts"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { pushBranch, remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"

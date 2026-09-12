@@ -13,10 +13,10 @@ import { query as queryArgument } from "akasha/commands/arguments/pages/query.ar
 import {
   INPUT,
   OK,
+  refused,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicSearch as page } from "akasha/commands/pages/music/search/music-search.command.ts"
 
 const DEFAULT_LIMIT = 5
