@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, rmSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code/typing/code-typing.module.code.ts"
 import {
@@ -203,6 +203,23 @@ export function aWorldWithOnePage(): Pair {
   put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
   return { tree, root }
 }
+
+export function aWorldWithAFileGone(): Pair {
+  const held = aWorldWithOnePage()
+  symlinkSync(join(held.tree, "nowhere.ts"), join(held.tree, "gone.module.code.ts"))
+  return held
+}
+
+export const A_WITH_CODE: Held = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+
+export const NAMES_C_BY_SLUG: Held = {
+  id: A,
+  pageTypeSlug: "domain",
+  slug: "a",
+  partSlugs: ["c"],
+}
+
+export const NAMES_C_BY_ID: Held = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }
 
 export function pathBlocked(root: string, at: string): undefined {
   const blocked = pathFile(root, at)

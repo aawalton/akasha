@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync } from "node:fs"
+import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/typing/code-typing.module.code.ts"
 import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
@@ -45,6 +45,7 @@ import {
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
 
 type Pending = {
   readonly before: string | null
@@ -70,6 +71,20 @@ function drifting(said: readonly Laid[], went: readonly string[]): Drift {
     changed: said.flatMap((one) => one.changed),
     went,
   }
+}
+
+export type Bodied = {
+  readonly path: string
+  readonly body: string
+}
+
+export function bodiesUnder(tree: string): readonly Bodied[] {
+  const found: Bodied[] = []
+  for (const path of walkedUnder(tree, typed)) {
+    const body = textOnDisk(path)
+    if (body !== null) found.push({ path, body })
+  }
+  return found
 }
 
 export function refreshedFrom(
@@ -121,14 +136,12 @@ export function refreshedFrom(
   const relation = filed.flatMap((one) => one.entries)
   drift.push(reconcile(relation, root, put, done))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
-  const imported = walkedUnder(tree, typed).flatMap((path) =>
-    importIn(readFileSync(path, "utf8"), path, repo, naming)
-  )
+  const walked = bodiesUnder(tree)
+  const imported = walked.flatMap((one) => importIn(one.body, one.path, repo, naming))
   drift.push(reconcile(imported, root, put, done))
-  const walked = walkedUnder(tree, typed)
-  const bodied = new Set(walked.map((one) => under(repo, one)))
+  const bodied = new Set(walked.map((one) => under(repo, one.path)))
   const ruled = [
-    ...walked.flatMap((path) => ruleIn(readFileSync(path, "utf8"), path, repo)),
+    ...walked.flatMap((one) => ruleIn(one.body, one.path, repo)),
     ...listed.flatMap((one) => (bodied.has(one.line) ? [] : readAt(join(repo, one.line), repo))),
     readerIn(),
   ]

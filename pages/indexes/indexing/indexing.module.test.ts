@@ -13,10 +13,12 @@ import {
 import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   A,
+  A_WITH_CODE,
   aSource,
   aTarget,
   aWorldDeclaringNothing,
   aWorldDeclaringNoUnique,
+  aWorldWithAFileGone,
   aWorldWithOnePage,
   B,
   BLAND,
@@ -33,6 +35,8 @@ import {
   idFile,
   importFile,
   linesIn,
+  NAMES_C_BY_ID,
+  NAMES_C_BY_SLUG,
   NOTE,
   namingAType,
   pathBlocked,
@@ -193,13 +197,7 @@ test("a name reaching a page type the settle adds is filed, then and later", () 
 
 test("a bare value reaches a page type extending the one its property names", () => {
   const { tree, root } = grounded()
-  settled(
-    root,
-    tree,
-    "a.domain.ts",
-    { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["c"] },
-    null
-  )
+  settled(root, tree, "a.domain.ts", NAMES_C_BY_SLUG, null)
 
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
 })
@@ -208,13 +206,7 @@ test("a retargeted value withdraws the edge it left", () => {
   const { tree, root } = grounded()
   const was = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
   settled(root, tree, "a.domain.ts", was, null)
-  settled(
-    root,
-    tree,
-    "a.domain.ts",
-    { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] },
-    was
-  )
+  settled(root, tree, "a.domain.ts", NAMES_C_BY_ID, was)
 
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
@@ -334,6 +326,14 @@ test("a refresh that threw names the stages it finished and the file it had in h
   expect(done[done.length - 1] ?? "").toMatch(/^path — \d+ files? written, `\S+` in hand$/)
 })
 
+test("a refresh passes over a file gone before its body is read", () => {
+  const { tree, root } = aWorldWithAFileGone()
+
+  refreshedFrom(tree, root, tree)
+
+  expect(existsSync(idFile(root, A))).toBe(true)
+})
+
 test("a refresh takes away an entry no page carries", () => {
   const { tree, root } = aWorldWithOnePage()
   refreshedFrom(tree, root, tree)
@@ -391,13 +391,7 @@ test("a page whose body will not load is reported rather than passed over", () =
 
 test("a path the index stores is relative to the repository root", () => {
   const { tree, root } = grounded()
-  settled(
-    root,
-    tree,
-    "deep/a.module.ts",
-    { id: A, pageTypeSlug: "module", slug: "a", code: "ts" },
-    null
-  )
+  settled(root, tree, "deep/a.module.ts", A_WITH_CODE, null)
 
   const held = pathsFiledIn(root)
   expect(held.length).toBeGreaterThan(0)
