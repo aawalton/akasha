@@ -4,6 +4,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Named,
   temperAddonGenerateLoadOrder,
@@ -14,6 +15,14 @@ const NAMED: Named = {
   root: "/nowhere",
   dir: "/nowhere/temper/addons/one",
   canonicalName: "TemperOne",
+}
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha temper addon generate-load-order",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
 }
 
 const UNDER = "/nowhere/temper/addon-build/dist/TemperOne"
@@ -52,19 +61,25 @@ test("a run that wrote the stamp and the manifest names each of them in turn", a
 })
 
 test("a call naming no addon is refused rather than answered with a default", async () => {
-  const said = await temperAddonGenerateLoadOrder([])
+  const said = await temperAddonGenerateLoadOrder([], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain(
-    "name the addon a load order is written for with --addon"
-  )
+  expect(said.refusals.join("\n")).toContain("takes `--addon`, and nothing said it")
 })
 
 test("two addons named in one call are refused rather than the first one written", async () => {
-  const said = await temperAddonGenerateLoadOrder(["--addon", "TemperOne", "--addon", "TemperTwo"])
+  const said = await temperAddonGenerateLoadOrder(
+    ["--addon", "TemperOne", "--addon", "TemperTwo"],
+    GIVEN
+  )
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain(
-    "one load order is written at a time, and TemperOne, TemperTwo names several"
-  )
+  expect(said.refusals.join("\n")).toContain("`--addon` is said twice, and one call says it once")
+})
+
+test("a flag this takes no argument for is refused rather than passed over", async () => {
+  const said = await temperAddonGenerateLoadOrder(["--addon", "TemperOne", "--json"], GIVEN)
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("`--json` is no argument")
 })
