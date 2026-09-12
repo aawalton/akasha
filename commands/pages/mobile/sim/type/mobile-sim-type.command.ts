@@ -15,13 +15,7 @@ export const mobileSimType = {
       takes: "the element to put the cursor in first, the one already focused where none is said",
     },
   ],
-  helpNotes: [
-    "the element is tapped before the text goes in, since typing into an element nothing focused reaches nothing.",
-    "a call naming no element types into whatever the session already has focused.",
-    "the session already there is what is typed into, so `mobile sim open-url` comes first.",
-    "text too long to sit on a call is piped in and named `-`.",
-    "how many characters went in is the answer, rather than the text itself.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
