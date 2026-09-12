@@ -81,7 +81,9 @@ test("an argument that is not the dry run is refused, and nothing is taken", () 
   const folder = filled(root, LEFT_AT)
   const said = gitSweep(["--all"], givenIn(root))
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("is not an argument this takes")
+  expect(said.refusals[0]).toBe(
+    "`--all` is no argument `akasha git sweep` takes — it takes `--dry-run`"
+  )
   expect(existsSync(folder)).toBe(true)
 })
 
@@ -89,7 +91,9 @@ test("a path on the command line is refused rather than swept", () => {
   const root = repo()
   const said = gitSweep([KEPT_AT], givenIn(root))
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("is not an argument this takes")
+  expect(said.refusals[0]).toBe(
+    `\`${KEPT_AT}\` is no argument \`akasha git sweep\` takes — it takes \`--dry-run\``
+  )
 })
 
 test("nothing is committed", () => {
