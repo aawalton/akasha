@@ -70,6 +70,26 @@ export const indexRefresh = {
       invariantKind: "departure",
       statement: "A refresh that stopped part way says the index may hold part of what it wrote.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root holding no domain page is a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry that would not file is a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit that would not be read is an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refresh that stopped part way is an operational fault.",
+    },
   ],
   name: "refresh",
   arguments: [{ argument: "argument/dry-run" }],

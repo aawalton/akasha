@@ -4,7 +4,12 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
@@ -73,20 +78,20 @@ export function showing(given: Given, taken: Arguments): Answer {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
   const kept = editsIn(given.root, page)
-  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
+  if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)
   const before = foldedIn(kept.rows)
-  if (before.refused !== null) return { report: [], refusals: [before.refused], code: DATA }
+  if (before.refused !== null) return refusedBy([before.refused], DATA)
   let text: string | null
   try {
     text = worldFor(given.root, kept.rows, before).textOf(path)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
   if (text === null) return mistaking([`\`${path}\` ${NOTHING}`])
   const bytes = BYTES.encode(text)
   if (bytes.byteLength > ANSWER_CEILING) return mistaking([`\`${path}\` ${TOO_MUCH}`])
   if (given.agentId !== null) recorded(given.root, given.agentId, path, bytes)
-  return { report: shownOf(path, text), refusals: [], code: 0 }
+  return told(shownOf(path, text))
 }
 
 export function changeShow(argv: readonly string[], given: Given): Answer {

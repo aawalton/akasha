@@ -113,6 +113,18 @@ export const changeShow = {
       invariantKind: "departure",
       statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold the edits kept refuse is a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that would not open is an operational fault.",
+    },
   ],
   name: "show",
 } as const satisfies Command

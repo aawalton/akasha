@@ -10,6 +10,10 @@ import {
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import {
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
   applying,
   askedIn,
   type Carried,
@@ -20,7 +24,11 @@ import {
   type Given as Arguments,
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   APPLY,
@@ -144,27 +152,27 @@ async function ending(asked: Taken, given: Given): Promise<Ended> {
   }
   if ("refusals" in asked) return bare(await applying(given, page, asked, null))
   const held = keptEdits(given.root, page, (had) => had)
-  if ("why" in held) return bare({ report: [], refusals: [held.why], code: 3 })
+  if ("why" in held) return bare(refusedBy([held.why], OPERATIONAL))
   const said = folding(given.root, page)
-  if ("refusals" in said) return bare({ report: [], refusals: said.refusals, code: 3 })
+  if ("refusals" in said) return bare(refusedBy(said.refusals, OPERATIONAL))
   const paths = said.folded.length
   const answered = await applying(given, page, asked, said.carried)
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)
   if (put !== null) {
-    return { answer: { report: [put], refusals: answered.refusals, code: answered.code }, paths }
+    return { answer: answering([put], answered.refusals, answered.code), paths }
   }
   return {
-    answer: {
-      report: [
+    answer: answering(
+      [
         ...said.dropped.map(
           (one) => `${one} is dropped — that body is written again on every apply`
         ),
         ...said.folded.map((one) => `folded ${one} in`),
         ...answered.report,
       ],
-      refusals: answered.refusals,
-      code: answered.code,
-    },
+      answered.refusals,
+      answered.code
+    ),
     paths,
   }
 }

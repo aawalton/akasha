@@ -1,7 +1,14 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
 import type { Drift } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
@@ -95,17 +102,20 @@ export function driftSaid(drift: Drift): readonly string[] {
 }
 
 function refusing(said: readonly string[], code: number): Answer {
-  return { report: [], refusals: [...said, UNCHANGED], code }
+  return refusedBy([...said, UNCHANGED], code)
 }
 
 function refreshing(root: string, read: { dryRun: boolean }): Answer {
   const tree = root
   if (!existsSync(join(tree, DOMAIN_AT))) {
-    return refusing([`${root} holds no \`${DOMAIN_AT}\`, so there is no index to build`], 2)
+    return refusing([`${root} holds no \`${DOMAIN_AT}\`, so there is no index to build`], DATA)
   }
   const head = gitTold(root, ["rev-parse", "HEAD"])?.trim() ?? null
   if (head === null) {
-    return refusing([`no commit could be read from ${root}, so there is nothing to build over`], 3)
+    return refusing(
+      [`no commit could be read from ${root}, so there is nothing to build over`],
+      OPERATIONAL
+    )
   }
   const said = refreshedWhole(root, tree, !read.dryRun)
   const report = [
@@ -121,18 +131,18 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
   return {
     report,
     refusals: said.refused.map((one) => `the index took less than the whole of it — ${one}`),
-    code: said.refused.length > 0 ? 2 : 0,
+    code: said.refused.length > 0 ? DATA : OK,
   }
 }
 
 export function indexRefresh(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   const root = resolve(given.root)
   try {
     return holding(root, () => refreshing(root, read))
   } catch (thrown) {
-    if (read.dryRun) return refusing([whyOf(thrown)], 3)
-    return { report: [], refusals: [whyOf(thrown), PART_WAY], code: 3 }
+    if (read.dryRun) return refusing([whyOf(thrown)], OPERATIONAL)
+    return refusedBy([whyOf(thrown), PART_WAY], OPERATIONAL)
   }
 }

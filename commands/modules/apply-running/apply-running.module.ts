@@ -177,5 +177,17 @@ export const applyRunning = {
       statement:
         "The mend follows the landing, so the run that moved the file is the run that mends.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply answers with the code the applying it ran refused with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold that would not open is an operational fault.",
+    },
   ],
 } as const satisfies Module
