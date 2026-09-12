@@ -8,10 +8,12 @@ export const temperInventoryBuyRuleLock = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the buy rule locked" }],
-  helpNotes: [
-    "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A locked buy rule is refused an update or a deletion unless that call says `--force`.",
+    },
     {
       invariantKind: "departure",
       statement: "Locking a buy rule already locked changes nothing.",
