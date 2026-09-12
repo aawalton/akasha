@@ -18,12 +18,12 @@ import {
   useCompletionCompanions,
   useCompletionCompanionsByUser,
 } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import type { CompanionProgressData } from "akasha/temper/web/companion-progress/companion-progress.module.code.ts"
-import { useCompanionProgress } from "akasha/temper/web/companion-progress/companion-progress.module.code.ts"
 import type { AccountProgressData } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import { useAccountProgress } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import type { CharacterProgressData } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"
 import { useCharacterProgress } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"
+import type { CompanionProgressData } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
+import { useCompanionProgress } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
 import { useCompletionBodies } from "akasha/temper/web/use-completion-bodies/use-completion-bodies.module.code.ts"
 import { useCompletionCatalogs } from "akasha/temper/web/use-completion-catalogs/use-completion-catalogs.module.code.ts"
 import { useMemo } from "react"

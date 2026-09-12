@@ -10,8 +10,8 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { asNumber } from "akasha/temper/companions-addon/companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "akasha/temper/companions-addon/companion-qol-state/companion-qol-state.module.code.ts"
+import { asNumber } from "akasha/temper/companions-addon/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
 
 export const INTERACTIONS: {
   companionWasSummonedBefore: boolean

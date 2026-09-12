@@ -3,9 +3,9 @@
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { CompanionPassiveSkillsPanelCard } from "akasha/temper/web/companion-passive-skills-panel-card/companion-passive-skills-panel-card.module.code.tsx"
 import { CompanionSkillBarPanelCard } from "akasha/temper/web/companion-skill-bar-panel-card/companion-skill-bar-panel-card.module.code.tsx"
 import { CompanionSkillSelectDialog } from "akasha/temper/web/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx"
+import { CompanionPassiveSkillsPanelCard } from "akasha/temper/web/modules/companion-passive-skills-panel-card/companion-passive-skills-panel-card.module.code.tsx"
 import { useCompanionSkillBars } from "akasha/temper/web/use-companion-skill-bars/use-companion-skill-bars.module.code.ts"
 import { useCompanionFormulaStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
 

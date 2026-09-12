@@ -26,17 +26,17 @@ import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import "akasha/temper/companions-addon/companion-qol-globals/companion-qol-globals.module.code.ts"
 
-import "akasha/temper/companions-addon/companion-qol-constants/companion-qol-constants.module.code.ts"
+import "akasha/temper/companions-addon/modules/companion-qol-constants/companion-qol-constants.module.code.ts"
 import "akasha/temper/companions-addon/companion-qol-core/companion-qol-core.module.code.ts"
 import "akasha/temper/companions-addon/companion-qol-rapport/companion-qol-rapport.module.code.ts"
-import "akasha/temper/companions-addon/companion-qol-compass/companion-qol-compass.module.code.ts"
+import "akasha/temper/companions-addon/modules/companion-qol-compass/companion-qol-compass.module.code.ts"
 import "akasha/temper/companions-addon/companion-qol-saved-variables/companion-qol-saved-variables.module.code.ts"
 import "akasha/temper/companions-addon/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"
 import "akasha/temper/companions-addon/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"
 
-import { registerBindingStringIds } from "akasha/temper/companions-addon/companion-qol-bindings/companion-qol-bindings.module.code.ts"
 import { FCOCO } from "akasha/temper/companions-addon/companion-qol-state/companion-qol-state.module.code.ts"
 import { registerUiStrings } from "akasha/temper/companions-addon/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"
+import { registerBindingStringIds } from "akasha/temper/companions-addon/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"
 
 registerUiStrings()
 registerBindingStringIds()

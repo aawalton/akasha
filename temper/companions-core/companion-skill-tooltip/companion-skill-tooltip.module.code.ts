@@ -1,4 +1,3 @@
-import { calculatePeriodicTooltipValue } from "akasha/temper/companions-core/companion-periodic-formula/companion-periodic-formula.module.code.ts"
 import type {
   CompanionDamageComponent,
   CompanionDelayedEffectComponent,
@@ -22,6 +21,7 @@ import {
   formatDuration,
   substituteDescriptionPlaceholders,
 } from "akasha/temper/companions-core/modules/companion-description-utils/companion-description-utils.module.code.ts"
+import { calculatePeriodicTooltipValue } from "akasha/temper/companions-core/modules/companion-periodic-formula/companion-periodic-formula.module.code.ts"
 import type { Targeting } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 type FormulaEffect =
