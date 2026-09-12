@@ -1,4 +1,3 @@
-import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 import {
   synthMulti,
   synthOne,
@@ -7,6 +6,7 @@ import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-types/modules/labels/labels.module.code.ts"
+import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "page-store"
 const APP_NAME = "page-store"

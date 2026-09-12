@@ -1,5 +1,3 @@
-import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import type {
   AllAccessorDeclarations,
   TransformationContext,
@@ -8,6 +6,8 @@ import { createSelfIdentifier } from "akasha/design/language/lua-compiler/module
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { createPrototypeName } from "akasha/design/language/lua-compiler/visit-constructor/visit-constructor.module.code.ts"
 import { createClassAccessorDecoratingExpression } from "akasha/design/language/lua-compiler/visit-decorators/visit-decorators.module.code.ts"
 import {

@@ -1,4 +1,3 @@
-import type { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import type {
   CompilerOptions,
   LuaTarget,
@@ -11,6 +10,7 @@ import type { OneToManyVisitorResult } from "akasha/design/language/lua-compiler
 import type * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import type {
   Scope,
   ScopeType,

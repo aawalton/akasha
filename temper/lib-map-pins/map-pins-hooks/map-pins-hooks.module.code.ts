@@ -1,11 +1,11 @@
+import { initDebug } from "akasha/temper/lib-map-pins/map-pins-debug/map-pins-debug.module.code.ts"
+import { LIB } from "akasha/temper/lib-map-pins/map-pins-lib/map-pins-lib.module.code.ts"
 import {
   asGamepadFilterInfo,
   asGrayscaleFn,
   asHookPin,
   asLmpMapPin,
-} from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
-import { initDebug } from "akasha/temper/lib-map-pins/map-pins-debug/map-pins-debug.module.code.ts"
-import { LIB } from "akasha/temper/lib-map-pins/map-pins-lib/map-pins-lib.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/map-pins-casts/map-pins-casts.module.code.ts"
 import {
   isEnabled,
   setEnabled,

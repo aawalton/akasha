@@ -1,7 +1,3 @@
-import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
-import { ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-achievements/map-pins-achievements.module.code.ts"
-import { BOSSES } from "akasha/temper/navigation-addon/map-pins-bosses/map-pins-bosses.module.code.ts"
-import { MAP_PIN_CALLBACK } from "akasha/temper/navigation-addon/map-pins-callbacks/map-pins-callbacks.module.code.ts"
 import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
 import type { SubzonePinTable } from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/map-pins-names/map-pins-names.module.code.ts"
@@ -19,6 +15,10 @@ import {
   STATE,
 } from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 import { getSubzone } from "akasha/temper/navigation-addon/map-pins-subzone/map-pins-subzone.module.code.ts"
+import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
+import { ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-achievements/map-pins-achievements.module.code.ts"
+import { BOSSES } from "akasha/temper/navigation-addon/modules/map-pins-bosses/map-pins-bosses.module.code.ts"
+import { MAP_PIN_CALLBACK } from "akasha/temper/navigation-addon/modules/map-pins-callbacks/map-pins-callbacks.module.code.ts"
 
 const bosses = asSubzonePinTable(BOSSES)
 const skyShards = asSubzonePinTable(SKY_SHARDS)

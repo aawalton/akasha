@@ -1,4 +1,3 @@
-import type { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import {
   type Node,
   NodeFlags,
@@ -10,6 +9,7 @@ import type {
   Expression,
   Identifier,
 } from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { castArray } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import type * as ts from "typescript"
 

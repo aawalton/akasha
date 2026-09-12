@@ -1,4 +1,3 @@
-import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { addCompassCustomPin } from "akasha/temper/navigation-addon/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"
 import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
 import { registerEvents } from "akasha/temper/navigation-addon/map-pins-events/map-pins-events.module.code.ts"
@@ -20,6 +19,7 @@ import {
   getPinTypeId,
 } from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 import { loc } from "akasha/temper/navigation-addon/map-pins-ui-strings/map-pins-ui-strings.module.code.ts"
+import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 
 type TooltipText = string | ((this: void) => string)
 

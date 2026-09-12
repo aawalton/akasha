@@ -1,5 +1,5 @@
-import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
+import { serializeLuaBlock } from "akasha/temper/saved-variables/modules/lua-serializer/lua-serializer.module.code.ts"
 import { z } from "zod"
 
 const TOP_LEVEL_NAME = "TemperCatalogConfig"

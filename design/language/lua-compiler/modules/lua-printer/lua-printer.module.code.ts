@@ -1,9 +1,4 @@
 import * as path from "node:path"
-import { lualibPrinterHolder } from "akasha/design/language/lua-compiler/lualib-builder-deps/lualib-builder-deps.module.code.ts"
-import {
-  loadImportedLualibFeatures,
-  loadInlineLualibFeatures,
-} from "akasha/design/language/lua-compiler/lualib-runtime/lualib-runtime.module.code.ts"
 import {
   LuaLibImportKind,
   LuaTarget,
@@ -23,6 +18,11 @@ import type {
   SourceChunk,
 } from "akasha/design/language/lua-compiler/modules/lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import * as stmt from "akasha/design/language/lua-compiler/modules/lua-printer-statements/lua-printer-statements.module.code.ts"
+import { lualibPrinterHolder } from "akasha/design/language/lua-compiler/modules/lualib-builder-deps/lualib-builder-deps.module.code.ts"
+import {
+  loadImportedLualibFeatures,
+  loadInlineLualibFeatures,
+} from "akasha/design/language/lua-compiler/modules/lualib-runtime/lualib-runtime.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
 import type * as ts from "typescript"

@@ -1,10 +1,5 @@
 import * as path from "node:path"
 import {
-  createStaticPromiseFunctionAccessor,
-  importLuaLibFeature,
-} from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
-import {
   AnnotationKind,
   getSymbolAnnotations,
 } from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
@@ -14,6 +9,11 @@ import { createDefaultExportStringLiteral } from "akasha/design/language/lua-com
 import { createHoistableVariableDeclarationStatement } from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
+import {
+  createStaticPromiseFunctionAccessor,
+  importLuaLibFeature,
+} from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { createSafeName } from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"
 import { peekScope } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
 import {

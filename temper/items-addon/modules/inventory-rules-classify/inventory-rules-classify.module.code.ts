@@ -4,7 +4,7 @@ import {
   type CategoryNode,
 } from "akasha/temper/items-addon/modules/inventory-category-tree/inventory-category-tree.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { luaStringContains } from "akasha/temper/narrow/lua-string-contains/lua-string-contains.module.code.ts"
+import { luaStringContains } from "akasha/temper/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 
 function resolveCategoryNode(signals: ItemSignals, nodeId: string): string | undefined {
   const node = CATEGORY_TREE[nodeId]

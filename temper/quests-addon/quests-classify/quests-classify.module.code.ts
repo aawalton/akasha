@@ -1,4 +1,4 @@
-import { luaStringContains } from "akasha/temper/narrow/lua-string-contains/lua-string-contains.module.code.ts"
+import { luaStringContains } from "akasha/temper/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/quests-addon/quests-constants/quests-constants.module.code.ts"
 import type { ChatterOptionKind } from "akasha/temper/quests-addon/quests-decide/quests-decide.module.code.ts"
 

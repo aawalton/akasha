@@ -2,7 +2,7 @@
 
 import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
 import { useLoadMore } from "akasha/design/interfaces/layout/use-load-more/use-load-more.module.code.ts"
-import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Table,

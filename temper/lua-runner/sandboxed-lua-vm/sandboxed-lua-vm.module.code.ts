@@ -3,12 +3,12 @@ import { join } from "node:path"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import {
   luaLongStringLiteral,
   luaStringLiteral,
   marshalLuaValue,
 } from "akasha/temper/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
+import { makeLuaVm } from "akasha/temper/lua-runner/modules/lua-vm/lua-vm.module.code.ts"
 
 const LUA_MODULE = "lua-module"
 

@@ -8,7 +8,7 @@ import {
   type Response,
   RUN_SENTINEL,
   responseSchema,
-} from "akasha/temper/lua-runner/lua-protocol/lua-protocol.module.code.ts"
+} from "akasha/temper/lua-runner/modules/lua-protocol/lua-protocol.module.code.ts"
 
 const LUA_MODULE = "lua-module"
 

@@ -1,10 +1,4 @@
 import * as path from "node:path"
-import { lualibTranspilerHolder } from "akasha/design/language/lua-compiler/lualib-builder-deps/lualib-builder-deps.module.code.ts"
-import {
-  buildMinimalLualibBundle,
-  findUsedLualibFeatures,
-  getLuaLibBundle,
-} from "akasha/design/language/lua-compiler/lualib-runtime/lualib-runtime.module.code.ts"
 import * as performance from "akasha/design/language/lua-compiler/measure-performance/measure-performance.module.code.ts"
 import {
   type CompilerOptions,
@@ -12,6 +6,12 @@ import {
   LuaLibImportKind,
   LuaTarget,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
+import { lualibTranspilerHolder } from "akasha/design/language/lua-compiler/modules/lualib-builder-deps/lualib-builder-deps.module.code.ts"
+import {
+  buildMinimalLualibBundle,
+  findUsedLualibFeatures,
+  getLuaLibBundle,
+} from "akasha/design/language/lua-compiler/modules/lualib-runtime/lualib-runtime.module.code.ts"
 import { getBundleResult } from "akasha/design/language/lua-compiler/transpile-bundle/transpile-bundle.module.code.ts"
 import type {
   EmitFile,

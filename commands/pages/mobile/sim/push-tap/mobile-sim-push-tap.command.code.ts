@@ -1,4 +1,3 @@
-import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
@@ -10,6 +9,7 @@ import {
   setContext,
   tapCoordinates,
 } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
 import {
   buildApnsPayload,
   buildPushTapScript,

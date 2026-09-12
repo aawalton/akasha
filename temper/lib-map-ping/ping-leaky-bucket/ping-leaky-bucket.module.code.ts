@@ -6,11 +6,11 @@ import {
   RESOLUTION,
   SAFETY_THRESHOLD,
   TIME_FRAME,
-} from "akasha/temper/lib-map-ping/map-ping-constants/map-ping-constants.module.code.ts"
+} from "akasha/temper/lib-map-ping/modules/map-ping-constants/map-ping-constants.module.code.ts"
 import type {
   LeakyBucketClass,
   LeakyBucketInstance,
-} from "akasha/temper/lib-map-ping/map-ping-types/map-ping-types.module.code.ts"
+} from "akasha/temper/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
 import { RollingAverage } from "akasha/temper/lib-map-ping/ping-rolling-average/ping-rolling-average.module.code.ts"
 
 const LeakyBucket = ZO_Object.Subclass<LeakyBucketClass>()

@@ -1,5 +1,3 @@
-import type { GlobalTable } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
-import { asPinTypeId } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
 import {
   LIBMAPPINS_AVA_IMPERIAL_MAPGROUP,
   LIBMAPPINS_AVA_MAPGROUP,
@@ -8,6 +6,8 @@ import {
   LIBMAPPINS_PVE_MAPGROUP,
 } from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
 import type { Lib } from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-map-pins/modules/map-pins-casts/map-pins-casts.module.code.ts"
+import { asPinTypeId } from "akasha/temper/lib-map-pins/modules/map-pins-casts/map-pins-casts.module.code.ts"
 
 export function getPinTypeId(pinType: number | string): number | undefined {
   if (type(pinType) === "string") {

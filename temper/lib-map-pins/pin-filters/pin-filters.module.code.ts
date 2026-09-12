@@ -1,4 +1,3 @@
-import { asFilterPanel } from "akasha/temper/lib-map-pins/map-pins-casts/map-pins-casts.module.code.ts"
 import { LIBMAPPINS_GLOBAL_MAPGROUP } from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getCurrentGamepadMapFilterPanel,
@@ -10,6 +9,7 @@ import type {
   GamepadFilterInfo,
   Lib,
 } from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
+import { asFilterPanel } from "akasha/temper/lib-map-pins/modules/map-pins-casts/map-pins-casts.module.code.ts"
 import {
   isEnabled,
   setEnabled,

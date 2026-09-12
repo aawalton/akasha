@@ -1,10 +1,4 @@
 import {
-  buildAcquireMacBuildLock,
-  buildChooseBuildNumber,
-  buildReleaseMacBuildLock,
-  buildReserveBuildNumber,
-} from "akasha/alan/harness/mobile-cli/mac-build-serialization/mac-build-serialization.module.code.ts"
-import {
   iosAppDir,
   type MobileApp,
   macWwwStagingDir,
@@ -29,6 +23,12 @@ import {
   buildEnsureAppStoreProfile,
   buildLoginOnlyKeychainScope,
 } from "akasha/alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.code.ts"
+import {
+  buildAcquireMacBuildLock,
+  buildChooseBuildNumber,
+  buildReleaseMacBuildLock,
+  buildReserveBuildNumber,
+} from "akasha/alan/harness/mobile-cli/modules/mac-build-serialization/mac-build-serialization.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
   readonly app: MobileApp

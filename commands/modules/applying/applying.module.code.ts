@@ -10,7 +10,7 @@ import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { MEASURING } from "akasha/code/modules/tests/code-tests.module.code.ts"
-import { installingIn } from "akasha/code/workspaces/manifest-locking/manifest-locking.module.code.ts"
+import { installingIn } from "akasha/code/workspaces/modules/manifest-locking/manifest-locking.module.code.ts"
 import {
   answeredWith,
   INPUT,

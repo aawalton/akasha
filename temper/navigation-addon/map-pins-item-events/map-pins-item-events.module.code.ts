@@ -1,5 +1,3 @@
-import { markAchievementItem } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
-import { ANCESTRAL_TOMB_RUBBING } from "akasha/temper/navigation-addon/map-pins-ancestral-tomb-rubbing/map-pins-ancestral-tomb-rubbing.module.code.ts"
 import { CHRONOGLER_TABLET } from "akasha/temper/navigation-addon/map-pins-chronogler-tablet/map-pins-chronogler-tablet.module.code.ts"
 import { refreshCompass } from "akasha/temper/navigation-addon/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"
 import type { NumberMap } from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
@@ -11,6 +9,8 @@ import { PRECURSOR_ITEMS } from "akasha/temper/navigation-addon/map-pins-precurs
 import { RELICS_OF_SUMMERSET } from "akasha/temper/navigation-addon/map-pins-relics-of-summerset/map-pins-relics-of-summerset.module.code.ts"
 import { getPinTypeId } from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 import { WROTHGAR_RELICS } from "akasha/temper/navigation-addon/map-pins-wrothgar-relics/map-pins-wrothgar-relics.module.code.ts"
+import { markAchievementItem } from "akasha/temper/navigation-addon/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
+import { ANCESTRAL_TOMB_RUBBING } from "akasha/temper/navigation-addon/modules/map-pins-ancestral-tomb-rubbing/map-pins-ancestral-tomb-rubbing.module.code.ts"
 
 const ancestralTombRubbing: NumberMap = ANCESTRAL_TOMB_RUBBING
 const wrothgarRelics: NumberMap = WROTHGAR_RELICS

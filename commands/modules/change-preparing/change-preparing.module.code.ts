@@ -10,7 +10,7 @@ import { bodiesFor } from "akasha/code/module-property-groups/modules/group-writ
 import { textIn } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
 import { globbedFor } from "akasha/code/stylesheets/source-globbing/source-globbing.module.code.ts"
-import { lockingFor } from "akasha/code/workspaces/manifest-locking/manifest-locking.module.code.ts"
+import { lockingFor } from "akasha/code/workspaces/modules/manifest-locking/manifest-locking.module.code.ts"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"

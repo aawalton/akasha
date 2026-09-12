@@ -1,7 +1,3 @@
-import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
-import { ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-achievements/map-pins-achievements.module.code.ts"
-import { BOSSES } from "akasha/temper/navigation-addon/map-pins-bosses/map-pins-bosses.module.code.ts"
-import { CHEST_DATA } from "akasha/temper/navigation-addon/map-pins-chests/map-pins-chests.module.code.ts"
 import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
 import { LOREBOOKS } from "akasha/temper/navigation-addon/map-pins-lorebooks/map-pins-lorebooks.module.code.ts"
 import {
@@ -29,6 +25,10 @@ import {
 import { getSubzone } from "akasha/temper/navigation-addon/map-pins-subzone/map-pins-subzone.module.code.ts"
 import { TIME_BREACH } from "akasha/temper/navigation-addon/map-pins-time-breach/map-pins-time-breach.module.code.ts"
 import { ZONE_ACHIEVEMENT } from "akasha/temper/navigation-addon/map-pins-zone-achievement/map-pins-zone-achievement.module.code.ts"
+import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
+import { ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-achievements/map-pins-achievements.module.code.ts"
+import { BOSSES } from "akasha/temper/navigation-addon/modules/map-pins-bosses/map-pins-bosses.module.code.ts"
+import { CHEST_DATA } from "akasha/temper/navigation-addon/modules/map-pins-chests/map-pins-chests.module.code.ts"
 
 const bossesTable = asSubzonePinTable(BOSSES)
 const skyShardsTable = asSubzonePinTable(SKY_SHARDS)

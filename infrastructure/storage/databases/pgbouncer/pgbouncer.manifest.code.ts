@@ -1,4 +1,3 @@
-import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   CNPG_POSTGRES_PRIMARY_LABELS,
@@ -8,6 +7,7 @@ import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-types/modules/labels/labels.module.code.ts"
+import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "pgbouncer"
 const APP_NAME = "pgbouncer"

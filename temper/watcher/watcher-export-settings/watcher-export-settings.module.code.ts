@@ -13,7 +13,7 @@ import {
 import { rulesToInventoryConfig } from "akasha/temper/items-rules-core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"
 import type { InventoryTimestamps } from "akasha/temper/items-rules-core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items-rules-core/rule-fingerprint/rule-fingerprint.module.code.ts"
-import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
+import { serializeLuaBlock } from "akasha/temper/saved-variables/modules/lua-serializer/lua-serializer.module.code.ts"
 import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import type {
   ReadFiles,

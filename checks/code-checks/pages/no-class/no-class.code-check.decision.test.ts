@@ -143,7 +143,7 @@ test("a class the lua runtime library holds is let through, and the same body el
   const body = "export class Held {}\n"
   const src = `${LIBRARY}src/Held.ts`
   const page = "design/language/lua-compiler/lualibs/held/held.lualib.code.ts"
-  const builder = "design/language/lua-compiler/lualib-builder/held.ts"
+  const builder = "design/language/lua-compiler/modules/lualib-builder/held.ts"
   expect(reasonsIn(given(src, body))).toEqual([])
   expect(reasonsIn(given(page, body))).toEqual([])
   expect(reasonsIn(given(builder, body))).toHaveLength(1)

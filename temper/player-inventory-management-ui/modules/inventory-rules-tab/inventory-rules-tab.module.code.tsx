@@ -12,7 +12,6 @@ import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.t
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"
-import { ManagementPlanPanelCard } from "akasha/temper/player-inventory-management-ui/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import {
   useAutomationSettings,
@@ -30,6 +29,7 @@ import { ItemRulesPanels } from "akasha/temper/player-inventory-management-ui/mo
 import { inventoryRulePanelVisibility } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab-panel-visibility/inventory-rules-tab-panel-visibility.module.code.ts"
 import { useAssembledInventoryRules } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { ManagementPlanPanelCard } from "akasha/temper/player-inventory-management-ui/modules/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
 import { UnmappedItemsPanelCard } from "akasha/temper/player-inventory-management-ui/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
 import { useDestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import {

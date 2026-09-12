@@ -1,10 +1,4 @@
 import {
-  createStaticPromiseFunctionAccessor,
-  importLuaLibFeature,
-  transformLuaLibFunction,
-} from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
-import {
   transformArrayConstructorCall,
   transformArrayProperty,
   transformArrayPrototypeCall,
@@ -40,6 +34,12 @@ import type { TransformationContext } from "akasha/design/language/lua-compiler/
 import { createNaN } from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import {
+  createStaticPromiseFunctionAccessor,
+  importLuaLibFeature,
+  transformLuaLibFunction,
+} from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {
