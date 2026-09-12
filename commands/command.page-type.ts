@@ -105,6 +105,7 @@ export const command = {
     "record-property/command-arguments",
     "select-property/said-as",
     "relation-property/not-with",
+    "module/beside-sweeping",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

@@ -12,6 +12,7 @@ import {
   INPUT,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { sweptOff } from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
 import {
   commitNamed,
   unfresh,
@@ -336,8 +337,13 @@ export async function landing(
     return draftedBy(root, drafting.page, changes, named, asRead)
   }
   const judgedAt = baseOf(root)
-  const { edits, moves } = splitIn(root, changes)
-  const change = over !== null && moves.length === 0 ? over : changeOf(root, judgedAt, changes)
+  const swept = sweptOff(root, changes)
+  const carried = swept.length === 0 ? changes : [...changes, ...swept]
+  const { edits, moves } = splitIn(root, carried)
+  const change =
+    over !== null && moves.length === 0 && swept.length === 0
+      ? over
+      : changeOf(root, judgedAt, carried)
   const said = await judged(judging, change)
   const orphaned = orphaningIn(change, absentAfter(edits, moves))
   if (orphaned.length > 0) {
