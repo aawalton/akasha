@@ -33,6 +33,10 @@ export const deployLooping = {
       statement: "The scope outlives the loop, so a loop restarted mid-deploy leaves it running.",
     },
     {
+      invariantKind: "gap",
+      statement: "A deploy whose scope outlived its hold is read as a deploy still running.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A tick ends once the deploy it started ends, and the next tick is skipped meanwhile.",
