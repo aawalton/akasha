@@ -54,6 +54,7 @@ export const command = {
     "module/prose-routing",
     "module/landing-reading",
     "module/command-walking",
+    "module/command-leveling",
     "module/warrant-owing",
     "module/namespace-listing",
     "module/value-minting",

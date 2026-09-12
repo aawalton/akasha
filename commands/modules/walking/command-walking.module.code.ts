@@ -1,15 +1,22 @@
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-
 const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 const UNDER = "-"
 
 const SPACE = " "
 
-export type Reached = {
+export type Level = {
   readonly named: string
+  readonly slug: string
+  readonly type: string
+  readonly path: string
+  readonly parts: readonly string[]
+}
+
+export type Parting = (part: string) => readonly Level[]
+
+export type Reached = {
   readonly held: number
-  readonly found: readonly { readonly path: string }[]
+  readonly found: readonly Level[]
 }
 
 export type Naming = (slug: string) => string | null
@@ -42,27 +49,31 @@ export function pathOf(slug: string, namedAt: Naming): string {
   return words.join(SPACE)
 }
 
-function below(named: string, word: string): string {
-  return named === "" ? word : `${named}${UNDER}${word}`
+function levelsNamed(parts: readonly string[], word: string, levelOf: Parting): readonly Level[] {
+  const found: Level[] = []
+  for (const part of parts) {
+    for (const one of levelOf(part)) {
+      if (one.named === word) found.push(one)
+    }
+  }
+  return found
 }
 
 export function walkingIn(
-  root: string,
-  type: string | null,
+  parts: readonly string[],
   argv: readonly string[],
-  namedAt: Naming
+  levelOf: Parting
 ): Reached | null {
-  if (type === null) return null
-  let named = ""
+  let under = parts
   let held = 0
   let reached: Reached | null = null
   for (const word of wordsIn(argv)) {
-    named = below(named, word)
+    const found = levelsNamed(under, word, levelOf)
+    const one = found[0]
+    if (one === undefined) return reached
     held = held + 1
-    const said = namedAt(named)
-    if (said !== null && said !== word) return reached
-    const found = listedAt(root, type, named)
-    if (found.length > 0) reached = { named, held, found }
+    reached = { held, found }
+    under = one.parts
   }
   return reached
 }

@@ -13,17 +13,23 @@ import {
   surfaceOf,
 } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
 import {
+  definitionOf,
+  levelNamed,
+  levelOfPart,
+  levelsIn,
+  levelsOf,
+  valuedUnder,
+} from "akasha/commands/modules/leveling/command-leveling.module.code.ts"
+import {
   type Held,
   listingOf,
   partsOf,
-  slugOfPart,
 } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 import {
   secondsIn,
   watching,
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import {
-  type Naming,
   pathOf,
   type Reached,
   saidIn,
@@ -73,10 +79,6 @@ export const HELP = "--help"
 
 export const HELP_SHORT = "-h"
 
-const DEFINITION = "definition"
-
-const NAME = "name"
-
 const RUNS_CHECKS = "runsChecks"
 
 const WRITER_OWES_READING = "writerOwesReading"
@@ -98,6 +100,8 @@ const CODE = "code"
 const TS = "ts"
 
 const COMMAND = "command"
+
+const SLASH = "/"
 
 const UNDER = "-"
 
@@ -135,7 +139,8 @@ export function slugsIn(root: string): readonly string[] {
 }
 
 export function commandsIn(root: string): readonly string[] {
-  const named = levelNamed(root)
+  const types = levelTypesIn(root)
+  const named = levelNamed(levelsIn(root, types), types)
   return slugsIn(root).map((one) => pathOf(one, named))
 }
 
@@ -182,11 +187,6 @@ function pageIn(root: string, path: string, slug: string): Record<string, unknow
   const page = reached.mod[exportedAs(slug)]
   if (typeof page !== "object" || page === null) return null
   return page as Record<string, unknown>
-}
-
-function definitionOf(page: Record<string, unknown> | null): string | null {
-  const said = page === null ? null : page[DEFINITION]
-  return typeof said === "string" ? said : null
 }
 
 function kindPageAt(root: string, slug: string): string | null {
@@ -329,12 +329,11 @@ function helping(root: string, outside: Outside): Answer {
   return { report, refusals: [], code: OK }
 }
 
-function levelNamed(root: string): Naming {
-  return (slug) => levelAt(root, slug)?.name ?? null
-}
-
 function walkedIn(root: string, argv: readonly string[]): Reached | null {
-  return walkingIn(root, commandSlugIn(root), argv, levelNamed(root))
+  const parts = partsOf(rootPageIn(root))
+  if (parts.length === 0) return null
+  const levels = levelsIn(root, levelTypesIn(root))
+  return walkingIn(parts, argv, (part) => levelsOf(levels, part))
 }
 
 export function namespaceSlugIn(root: string): string | null {
@@ -344,32 +343,17 @@ export function namespaceSlugIn(root: string): string | null {
 function namedIn(root: string, every: readonly string[]): readonly string[] {
   const type = namespaceSlugIn(root)
   if (type === null) return every
-  const named = levelNamed(root)
+  const types = levelTypesIn(root)
+  const named = levelNamed(levelsIn(root, types), types)
   return [...every, ...slugsOfType(root, type).map((one) => pathOf(one, named))]
 }
 
-type Level = {
-  readonly name: string | null
-  readonly said: string | null
-}
-
-function levelAt(root: string, slug: string): Level | null {
-  for (const type of [commandSlugIn(root), namespaceSlugIn(root)]) {
-    if (type === null) continue
-    const found = listedAt(root, type, slug)
-    const one = found[0]
-    if (found.length !== 1 || one === undefined) continue
-    const page = pageIn(root, one.path, slug)
-    const named = page === null ? null : page[NAME]
-    return { name: typeof named === "string" ? named : null, said: definitionOf(page) }
+function levelTypesIn(root: string): readonly string[] {
+  const held: string[] = []
+  for (const one of [commandSlugIn(root), namespaceSlugIn(root)]) {
+    if (one !== null) held.push(one)
   }
-  return null
-}
-
-function levelOfPart(root: string, part: string): Held | null {
-  const slug = slugOfPart(part)
-  const one = levelAt(root, slug)
-  return one === null ? null : { named: one.name ?? slug, said: one.said }
+  return held
 }
 
 function listedUnder(
@@ -378,9 +362,10 @@ function listedUnder(
   under: string,
   definition: string | null
 ): readonly string[] | null {
+  const levels = levelsIn(root, levelTypesIn(root))
   const held: Held[] = []
   for (const part of partsOf(page)) {
-    const one = levelOfPart(root, part)
+    const one = levelOfPart(levels, part)
     if (one === null) continue
     held.push({ named: `${under} ${one.named}`, said: one.said })
   }
@@ -395,7 +380,8 @@ function namespaceSaid(
 ): readonly string[] | null {
   const first = reached.found[0]
   if (reached.found.length !== 1 || first === undefined) return null
-  const page = pageIn(root, first.path, reached.named)
+  const levels = levelsIn(root, levelTypesIn(root))
+  const page = valuedUnder(levels, `${first.type}${SLASH}${first.slug}`)?.value ?? null
   return listedUnder(root, page, `${calledAs} ${said}`, definitionOf(page))
 }
 
@@ -425,10 +411,11 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   }
   const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
-  if (reached === null || first === undefined) {
-    const under = walkingIn(root, namespaceSlugIn(root), argv, levelNamed(root))
+  if (reached === null || first === undefined || first.type !== commandSlugIn(root)) {
     const listing =
-      under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
+      reached === null || first === undefined || first.type !== namespaceSlugIn(root)
+        ? null
+        : namespaceSaid(root, reached, saidIn(argv, reached.held), outside.calledAs)
     if (listing !== null) return { report: listing, refusals: [], code: OK }
     return unread === null
       ? carried(
@@ -442,20 +429,20 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     const among = reached.found.map((one) => `  ${one.path}`).join("\n")
     return refusedBy(
       [
-        `\`${reached.named}\` is carried by ${reached.found.length} commands, ` +
+        `\`${first.slug}\` is carried by ${reached.found.length} commands, ` +
           `so this names more than one:\n${among}`,
       ],
       DATA
     )
   }
   const answer = await answeredBy(
-    reached.named,
+    first.slug,
     saidIn(argv, reached.held),
     first.path,
     root,
     argv.slice(reached.held),
     outside
   )
-  costRecorded(root, first.path, before, COMMAND, reached.named, 0, answer.refusals.length)
+  costRecorded(root, first.path, before, COMMAND, first.slug, 0, answer.refusals.length)
   return answer
 }

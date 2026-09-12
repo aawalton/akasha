@@ -61,17 +61,22 @@ export type Named = {
   readonly also?: string
   readonly name?: string
   readonly definition?: string
+  readonly parts?: readonly string[]
   readonly surface?: Surface
   readonly taking?: Surface["taking"]
 }
 
-export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): string {
+export function rootWith(
+  named: readonly Named[],
+  typeSlug: string = COMMAND,
+  under: readonly string[] | null = null
+): string {
   const root = scratch.rootFor("akasha-calling-")
   noneOfTypeFiled(root, typeSlug)
   const typeAt = `akasha/command-system/command/${typeSlug}.page-type.ts`
   idFiled(root, COMMAND_TYPE, [{ path: typeAt, id: COMMAND_TYPE }])
   mkdirSync(join(root, typeAt.slice(0, typeAt.lastIndexOf("/"))), { recursive: true })
-  const rooted = named.map((one) => `${COMMAND}/${one.slug}`)
+  const rooted = under ?? named.map((one) => `${typeSlug}/${one.slug}`)
   writeFileSync(
     join(root, typeAt),
     `export const ${exportedAs(typeSlug)} = ` +
@@ -87,9 +92,11 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
     const taken = one.taking === undefined ? "" : `, taking: ${JSON.stringify(one.taking)}`
     const shown =
       one.surface === undefined ? taken : `, taking: ${JSON.stringify(one.surface.taking)}`
+    const parted = one.parts === undefined ? "" : `, parts: ${JSON.stringify(one.parts)}`
     writeFileSync(
       join(root, at),
-      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${called}${stated}${shown} }\n`
+      `export const ${exportedAs(one.slug)} = ` +
+        `{ slug: "${one.slug}"${called}${stated}${shown}${parted} }\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
@@ -103,7 +110,14 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
       typeSlug,
       lines.map((line) => ({
         path: line.path,
-        value: { id: line.id, pageTypeSlug: typeSlug, slug: one.slug },
+        value: {
+          id: line.id,
+          pageTypeSlug: typeSlug,
+          slug: one.slug,
+          name: one.name,
+          definition: one.definition,
+          parts: one.parts,
+        },
       }))
     )
   }
@@ -142,7 +156,17 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
     const id = `01a06c7c-0000-7000-8000-00000000000${minted}`
     listedFiled(root, NAMESPACE, one.slug, [{ path: at, id }])
     valueAlsoFiled(root, NAMESPACE, [
-      { path: at, value: { id, pageTypeSlug: NAMESPACE, slug: one.slug } },
+      {
+        path: at,
+        value: {
+          id,
+          pageTypeSlug: NAMESPACE,
+          slug: one.slug,
+          name: one.name,
+          definition: one.definition,
+          parts: one.parts,
+        },
+      },
     ])
   }
 }

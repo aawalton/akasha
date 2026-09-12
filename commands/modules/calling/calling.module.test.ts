@@ -8,6 +8,7 @@ import {
   ANSWERS_LATER,
   ANSWERS_NOTHING,
   bootstrapped,
+  COMMAND,
   COMMAND_TYPE,
   namespacesIn,
   OUTSIDE,
@@ -88,22 +89,27 @@ test("a name carried by more than one command is refused rather than chosen betw
 })
 
 test("the walk goes as deep as the words offer, through levels carrying no command", async () => {
-  const root = rootWith([
-    { slug: "a", body: ANSWERS },
-    { slug: "a-b-c-d-e", body: ANSWERS },
+  const root = rootWith([{ slug: "a-b-c", body: ANSWERS, name: "c" }], COMMAND, ["namespace/a"])
+  namespacesIn(root, [
+    { slug: "a", name: "a", parts: ["namespace/a-b"] },
+    { slug: "a-b", name: "b", parts: ["command/a-b-c"] },
   ])
-  const said = await calling(["a", "b", "c", "d", "e", "f"], { ...OUTSIDE, root })
+  const said = await calling(["a", "b", "c", "d"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("f")
-  expect(said.report[1]).toBe("akasha a b c d e")
+  expect(said.report[0]).toBe("d")
+  expect(said.report[1]).toBe("akasha a b c")
 })
 
 test("the deepest level a command is at is read, not a shallower one", async () => {
-  const root = rootWith([
-    { slug: "a", body: ANSWERS },
-    { slug: "a-b", body: ANSWERS },
-    { slug: "a-b-c", body: ANSWERS },
-  ])
+  const root = rootWith(
+    [
+      { slug: "a", body: ANSWERS, parts: ["command/a-b"] },
+      { slug: "a-b", body: ANSWERS, name: "b", parts: ["command/a-b-c"] },
+      { slug: "a-b-c", body: ANSWERS, name: "c" },
+    ],
+    COMMAND,
+    ["command/a"]
+  )
   const said = await calling(["a", "b", "c", "d"], { ...OUTSIDE, root })
   expect(said.report[0]).toBe("d")
   expect(said.report[1]).toBe("akasha a b c")
@@ -118,21 +124,49 @@ test("a shorter name is read where the longer one is carried by no command", asy
 })
 
 test("a level above the deepest is read where nothing deeper is reached", async () => {
-  const root = rootWith([
-    { slug: "track", body: ANSWERS },
-    { slug: "track-session", body: ANSWERS },
-  ])
+  const root = rootWith(
+    [
+      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
+      { slug: "track-session", body: ANSWERS, name: "session" },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
   const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("open")
   expect(said.report[1]).toBe("akasha track session")
 })
 
+test("a command no level above states as a part is reached by no word", async () => {
+  const root = rootWith(
+    [
+      { slug: "track", body: ANSWERS },
+      { slug: "track-session", body: ANSWERS, name: "session" },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
+  const said = await calling(["track", "session"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("session")
+  expect(said.report[1]).toBe("akasha track")
+})
+
 test("a joined name carried by more than one command is refused rather than shortened", async () => {
-  const root = rootWith([
-    { slug: "track", body: ANSWERS },
-    { slug: "track-session", body: ANSWERS, also: "akasha/elsewhere/track-session.command.ts" },
-  ])
+  const root = rootWith(
+    [
+      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
+      {
+        slug: "track-session",
+        body: ANSWERS,
+        name: "session",
+        also: "akasha/elsewhere/track-session.command.ts",
+      },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
   const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
   expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("`track-session` is carried by 2 commands")
@@ -147,10 +181,14 @@ test("no run of leading words naming a command is refused under the first word",
 })
 
 test("a word steps a whole level, so a longer word reaches no command below", async () => {
-  const root = rootWith([
-    { slug: "track", body: ANSWERS },
-    { slug: "track-session", body: ANSWERS },
-  ])
+  const root = rootWith(
+    [
+      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
+      { slug: "track-session", body: ANSWERS, name: "session" },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
   const said = await calling(["track", "sessions"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("sessions")
@@ -158,10 +196,14 @@ test("a word steps a whole level, so a longer word reaches no command below", as
 })
 
 test("a command reached under a namespace is answered rather than the namespace", async () => {
-  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS, name: "open" }], COMMAND, [
+    "namespace/track",
+  ])
   namespacesIn(root, [
+    { slug: "track", name: "track", parts: ["namespace/track-session"] },
     {
       slug: "track-session",
+      name: "session",
       definition: "the stretches",
       parts: ["command/track-session-open"],
     },

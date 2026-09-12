@@ -1,13 +1,78 @@
 import { expect, test } from "bun:test"
 import {
+  type Level,
   type Naming,
+  type Parting,
   pathOf,
   saidIn,
+  walkingIn,
   wordsIn,
 } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 
 const NAMED: Naming = (slug) =>
   ({ "track-session-open": "open", "track-session": "session", track: "track" })[slug] ?? null
+
+function level(type: string, slug: string, named: string, parts: readonly string[] = []): Level {
+  return { named, slug, type, path: `${slug}.${type}.ts`, parts }
+}
+
+const TREE: Readonly<Record<string, Level>> = {
+  "namespace/track": level("namespace", "track", "track", ["namespace/track-session"]),
+  "namespace/track-session": level("namespace", "track-session", "session", [
+    "command/track-session-open",
+  ]),
+  "command/track-session-open": level("command", "track-session-open", "open"),
+  "command/work-tree": level("command", "work-tree", "work-tree"),
+}
+
+const ROOT = ["namespace/track", "command/work-tree", "module/held"]
+
+const UNDER: Parting = (part) => {
+  const one = TREE[part]
+  return one === undefined ? [] : [one]
+}
+
+test("each leading word steps one level down from the parts of the level above", () => {
+  const said = walkingIn(ROOT, ["track", "session", "open", "one"], UNDER)
+  expect(said?.held).toBe(3)
+  expect(said?.found[0]?.slug).toBe("track-session-open")
+})
+
+test("the page type a level is under is carried with the level reached", () => {
+  expect(walkingIn(ROOT, ["track"], UNDER)?.found[0]?.type).toBe("namespace")
+  expect(walkingIn(ROOT, ["work-tree"], UNDER)?.found[0]?.type).toBe("command")
+})
+
+test("a word other than the name of a level under it ends the descent", () => {
+  const said = walkingIn(ROOT, ["track", "sessions", "open"], UNDER)
+  expect(said?.held).toBe(1)
+  expect(said?.found[0]?.slug).toBe("track")
+})
+
+test("a level no level above states as a part is reached by no word", () => {
+  expect(walkingIn(ROOT, ["session"], UNDER)).toBe(null)
+  expect(walkingIn(ROOT, ["track", "open"], UNDER)?.found[0]?.slug).toBe("track")
+})
+
+test("a part that is no level ends no descent", () => {
+  expect(walkingIn(ROOT, ["work-tree", "one"], UNDER)?.found[0]?.slug).toBe("work-tree")
+})
+
+test("a word that could be no part of a slug ends the descent before that word", () => {
+  expect(walkingIn(ROOT, ["track", "--help"], UNDER)?.held).toBe(1)
+})
+
+test("a descent starting from no part reaches nothing", () => {
+  expect(walkingIn([], ["track"], UNDER)).toBe(null)
+})
+
+test("a name more than one level under one level states is carried out whole", () => {
+  const twice: Parting = (part) =>
+    part === "command/held"
+      ? [level("command", "held", "held"), level("command", "held", "held")]
+      : []
+  expect(walkingIn(["command/held"], ["held"], twice)?.found.length).toBe(2)
+})
 
 test("the words taken down end at the first word that could be no slug", () => {
   expect(wordsIn(["music", "now", "playing"])).toEqual(["music", "now", "playing"])

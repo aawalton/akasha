@@ -22,15 +22,19 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A level under another page type than the one looked under ends the walk too.",
+      statement: "A level is reached only among the parts the level above it states.",
     },
     {
       invariantKind: "departure",
-      statement: "What a level states as its name is handed in rather than read here.",
+      statement: "The parts the topmost level states are handed in.",
     },
     {
       invariantKind: "departure",
-      statement: "A level stating no name is reached by the words taken joined with a hyphen.",
+      statement: "A part is handed back as the levels that part names, or as none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A level's name, its slug, its page type, its path and its parts come together.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +42,11 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "The deepest level with a page is the level reached.",
+      statement: "The deepest level the words reach is the level reached.",
     },
     {
       invariantKind: "departure",
-      statement: "A level with nothing is stepped through rather than ending the walk.",
+      statement: "A part naming no level is stepped over rather than ending the descent.",
     },
     {
       invariantKind: "departure",
@@ -59,11 +63,15 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "The page type the levels are looked for under is handed in.",
+      statement: "The page type a level is under is carried with that level.",
     },
     {
       invariantKind: "departure",
-      statement: "A walk under no page type reaches nothing.",
+      statement: "A descent starting from no part reaches nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name more than one level under one level states is carried out whole.",
     },
     {
       invariantKind: "departure",
@@ -89,6 +97,14 @@ export const commandWalking = {
     {
       invariantKind: "absence",
       statement: "Nothing here loads a page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here joins words into a slug.",
     },
     {
       invariantKind: "absence",

@@ -61,7 +61,16 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A level's name is the words walked down to that level joined with a hyphen.",
+      statement:
+        "A word reaches a level only where that level's own page states that word as its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The descent starts at the parts the page type saying what a command is states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each level after that is looked for among the parts the level above it states.",
     },
     {
       invariantKind: "departure",
@@ -69,11 +78,11 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "The deepest level the walk reaches a command at is the command called.",
+      statement: "The level the words reach is the command called where that level is a command.",
     },
     {
       invariantKind: "departure",
-      statement: "A level with no command is walked through rather than ending the walk.",
+      statement: "A level that is a namespace is stepped through where a word reaches below it.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +96,8 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "Naming a command costs one read of the index for each level walked.",
+      statement:
+        "Naming a command costs one read of what the index carries for every command and namespace.",
     },
     {
       invariantKind: "departure",
@@ -163,7 +173,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A namespace is looked for only where the words reached no command.",
+      statement: "One descent reaches both, so a namespace is looked for in no second descent.",
     },
     {
       invariantKind: "departure",

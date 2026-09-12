@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
+  COMMAND,
   namespacesIn,
   OUTSIDE,
   rootWith,
@@ -54,10 +55,13 @@ test("a namespace holding no part is written down as nothing", () => {
 })
 
 test("a namespace naming no command is answered with what sits under it", async () => {
-  const root = rootWith([
-    { slug: "track-session-open", name: "open", body: ANSWERS, definition: "open one" },
-  ])
+  const root = rootWith(
+    [{ slug: "track-session-open", name: "open", body: ANSWERS, definition: "open one" }],
+    COMMAND,
+    ["namespace/track"]
+  )
   namespacesIn(root, [
+    { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
     {
       slug: "track-session",
       name: "session",
@@ -73,7 +77,9 @@ test("a namespace naming no command is answered with what sits under it", async 
 })
 
 test("a namespace under a namespace is listed as one word more", async () => {
-  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }], COMMAND, [
+    "namespace/track",
+  ])
   namespacesIn(root, [
     { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
     {
