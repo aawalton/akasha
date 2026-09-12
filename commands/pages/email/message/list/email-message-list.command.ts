@@ -30,7 +30,7 @@ export const emailMessageList = {
   ],
   name: "list",
   arguments: [
-    { argument: "argument/query-file" },
+    { argument: "argument/query-file", notWith: ["argument/mail-query"] },
     { argument: "argument/mail-query" },
     { argument: "argument/max" },
     { argument: "argument/label", repeats: true },
