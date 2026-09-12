@@ -95,6 +95,14 @@ export const changeRepeat = {
       statement: "The report names the commit each batch landed.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each batch is named as soon as that batch has committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw part way names those batches in its refusal.",
+    },
+    {
       invariantKind: "absence",
       statement: "No line a batch printed of what it wrote is carried into the report.",
     },

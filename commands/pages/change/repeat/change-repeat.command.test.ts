@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   NOTHING,
@@ -79,36 +81,69 @@ function landing(commits: readonly string[], reached: string[][] = []): Running 
   }
 }
 
-test("a call naming no change is refused", () => {
-  const said = changeRepeat([], givenAt("/nowhere"), piping(ASKED))
+function throwingAfter(commits: readonly string[]): Running {
+  let at = 0
+  return (argv) => {
+    if (argv[1] === "drop") return { code: 0, out: [], err: [] }
+    const one = commits[at]
+    at += 1
+    if (one === undefined) throw new OperationalError("the child would not start")
+    return { code: 0, out: [`committed as ${one}`], err: [] }
+  }
+}
+
+test("a call naming no change is refused", async () => {
+  const said = await changeRepeat([], givenAt("/nowhere"), piping(ASKED))
 
   expect(said.refusals[0] ?? "").toContain("no change is named")
 })
 
-test("the help flag is answered before anything is piped in", () => {
-  const said = changeRepeat(["--help"], givenAt("/nowhere"), NOTHING)
+test("the help flag is answered before anything is piped in", async () => {
+  const said = await changeRepeat(["--help"], givenAt("/nowhere"), NOTHING)
 
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe("akasha change repeat")
 })
 
-test("a call piping nothing in is refused", () => {
-  const said = changeRepeat(["wide"], givenAt("/nowhere"), NOTHING)
+test("a call piping nothing in is refused", async () => {
+  const said = await changeRepeat(["wide"], givenAt("/nowhere"), NOTHING)
 
   expect(said.refusals[0] ?? "").toContain("piped nothing in")
 })
 
-test("a call handed no ceiling is refused", () => {
-  const said = changeRepeat(["wide"], givenAt("/nowhere"), piping("page-type: module\n"))
+test("a call handed no ceiling is refused", async () => {
+  const said = await changeRepeat(["wide"], givenAt("/nowhere"), piping("page-type: module\n"))
 
   expect(said.refusals[0] ?? "").toContain("`at-most` says how many pages one batch acts on")
 })
 
-test("a ceiling that is no whole number above nothing is refused", () => {
-  const said = changeRepeat(["wide"], givenAt("/nowhere"), piping("at-most: none\n"))
+test("a ceiling that is no whole number above nothing is refused", async () => {
+  const said = await changeRepeat(["wide"], givenAt("/nowhere"), piping("at-most: none\n"))
 
   expect(said.refusals[0] ?? "").toContain("is no count of pages")
+})
+
+test("each batch is named as soon as that batch has committed", () => {
+  const done: string[] = []
+
+  expect(() => repeating(throwingAfter(["aaa", "bbb"]), "wide", ASKED, done)).toThrow()
+  expect(done).toEqual(["batch 1 committed as aaa", "batch 2 committed as bbb"])
+})
+
+test("a repeat that threw part way names in its refusal each batch it had landed", async () => {
+  const held = await answering((done) => repeating(throwingAfter(["aaa"]), "wide", ASKED, done))
+
+  expect(held.report).toEqual(["batch 1 committed as aaa"])
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("batch 1 committed as aaa")
+})
+
+test("a repeat that threw before a batch landed names no batch", async () => {
+  const held = await answering((done) => repeating(throwingAfter([]), "wide", ASKED, done))
+
+  expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
 
 test("whether a change takes a ceiling is read off that change's page", () => {
@@ -119,8 +154,8 @@ test("whether a change takes a ceiling is read off that change's page", () => {
   expect(takesAtMost(root, "nowhere")).toBeNull()
 })
 
-test("a change whose page states no ceiling is refused", () => {
-  const said = changeRepeat(["narrow"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
+test("a change whose page states no ceiling is refused", async () => {
+  const said = await changeRepeat(["narrow"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
     landing([])
   )
 
@@ -131,10 +166,10 @@ test("the file a child runs is read from the index", () => {
   expect(cliAt(indexedRepo(HELD))).toBe(CLI_CODE)
 })
 
-test("every batch is handed the arguments the call was piped, unchanged", () => {
+test("every batch is handed the arguments the call was piped, unchanged", async () => {
   const reached: string[][] = []
 
-  const said = changeRepeat(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
+  const said = await changeRepeat(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
     landing(["aaa"], reached)
   )
 

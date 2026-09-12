@@ -1,7 +1,11 @@
 import { join } from "node:path"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  OK,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { type Input, inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
@@ -123,8 +127,12 @@ export function droppedBy(running: Running): readonly string[] {
   return done.code === 0 ? [] : [DROP_FAILED, ...saidBy(done)]
 }
 
-export function repeating(running: Running, slug: string, given: string): Answer {
-  const landed: string[] = []
+export function repeating(
+  running: Running,
+  slug: string,
+  given: string,
+  landed: string[] = []
+): Answer {
   for (;;) {
     const batch = running([...APPLIES, slug], given)
     const commit = batch.code === 0 ? committedIn(batch.out) : null
@@ -132,7 +140,7 @@ export function repeating(running: Running, slug: string, given: string): Answer
       const why = [...saidBy(batch), ...droppedBy(running)]
       if (landed.length === 0) return { report: [], refusals: why, code: batch.code || 1 }
       const closing = `${String(landed.length)} ${AND_THEN}`
-      return { report: [...landed, closing, ...why], refusals: [], code: 0 }
+      return { report: [...landed, closing, ...why], refusals: [], code: OK }
     }
     landed.push(`batch ${String(landed.length + 1)} committed as ${commit}`)
   }
@@ -155,12 +163,12 @@ export function noBatching(slug: string): string {
   )
 }
 
-export function changeRepeat(
+export async function changeRepeat(
   argv: readonly string[],
   given: Given,
   piping: Piping = inputIn,
   making: Making = runningIn
-): Answer {
+): Promise<Answer> {
   const help = helpIn(argv, given.calledAs, HELP)
   if (help !== null) return told(help)
   const slug = argv[0]
@@ -179,5 +187,5 @@ export function changeRepeat(
   if (at === null) return mistaking([NO_CLI])
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page !== null && editsWaiting(given.root, page)) return mistaking([KEPT_ALREADY])
-  return repeating(making(given.root, at), slug, piped.text)
+  return await answering((done) => repeating(making(given.root, at), slug, piped.text, done))
 }
