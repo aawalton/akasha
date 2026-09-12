@@ -5,15 +5,8 @@ export const auditRunning = {
   type: "service-workstation",
   slug: "audit-running",
   definition: "the service running each check's audit and telling thea what turned red",
-  runs: [
-    "flock -n /var/tmp/audit-running.lock bun checks/modules/audit-serving/audit-serving.module.code.ts",
-  ],
-  starts: [
-    {
-      before: ["flock", "-n", "/var/tmp/audit-running.lock"],
-      code: "module/audit-serving",
-    },
-  ],
+  runs: ["bun checks/modules/audit-serving/audit-serving.module.code.ts"],
+  starts: [{ code: "module/audit-serving" }],
   enabled: true,
   needsSecrets: false,
   systemd: {

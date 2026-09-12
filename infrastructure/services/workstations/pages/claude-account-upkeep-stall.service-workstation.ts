@@ -6,19 +6,13 @@ export const claudeAccountUpkeepStall = {
   slug: "claude-account-upkeep-stall",
   definition: "the service ruling on whether Claude account upkeep has stalled and telling Alan",
   runs: [
-    "timeout 120 bun agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts --notify",
+    "bun agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts --notify",
   ],
-  starts: [
-    {
-      before: ["timeout", "120"],
-      code: "module/account-upkeep-stall-reading",
-      arguments: ["--notify"],
-    },
-  ],
+  starts: [{ code: "module/account-upkeep-stall-reading", arguments: ["--notify"] }],
   enabled: true,
   systemd: {
     schedule: "*:0/30",
     catchUp: true,
-    startTimeoutSeconds: 300,
+    startTimeoutSeconds: 120,
   },
 } as const satisfies ServiceWorkstation
