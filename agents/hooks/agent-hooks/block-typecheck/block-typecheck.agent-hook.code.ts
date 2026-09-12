@@ -4,12 +4,12 @@ import {
   SCOPE_FLAG,
   toldOf,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
-import { refusalOver } from "akasha/agents/hooks/chain-refusal/chain-refusal.module.code.ts"
 import type { BunCall } from "akasha/agents/hooks/modules/bun-calls/bun-calls.module.code.ts"
 import {
   bunCallsIn,
   scriptOf,
 } from "akasha/agents/hooks/modules/bun-calls/bun-calls.module.code.ts"
+import { refusalOver } from "akasha/agents/hooks/modules/chain-refusal/chain-refusal.module.code.ts"
 import {
   basenameOf,
   calledWords,

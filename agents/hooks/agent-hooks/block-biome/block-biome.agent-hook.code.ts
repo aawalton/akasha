@@ -4,7 +4,7 @@ import {
   SCOPE_FLAG,
   toldOf,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
-import { refusalOver } from "akasha/agents/hooks/chain-refusal/chain-refusal.module.code.ts"
+import { refusalOver } from "akasha/agents/hooks/modules/chain-refusal/chain-refusal.module.code.ts"
 import {
   basenameOf,
   calledWords,

@@ -19,7 +19,7 @@ import {
   spentOver,
   testsBesideOf,
 } from "akasha/code/tests/code-tests.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/running/running.module.code.ts"
 

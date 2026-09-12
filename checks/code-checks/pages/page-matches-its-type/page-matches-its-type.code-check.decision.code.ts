@@ -5,9 +5,9 @@ import {
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { waitingProperties } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"

@@ -4,7 +4,6 @@ import {
 } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { bodiesOver } from "akasha/checks/modules/staging/check-staging.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -15,6 +14,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

@@ -14,7 +14,7 @@ import type {
 import { FILES, input } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { lintedOver } from "akasha/code/lint/code-lint.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const IGNORE = ".gitignore"
 

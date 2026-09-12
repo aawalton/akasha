@@ -20,7 +20,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { audit as page } from "akasha/commands/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 

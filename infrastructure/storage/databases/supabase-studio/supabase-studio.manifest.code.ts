@@ -1,9 +1,9 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { synthNamespaceServiceDeployment } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { retryTransientDdl } from "akasha/infrastructure/storage/databases/retry-transient-ddl/retry-transient-ddl.module.code.ts"
 
 const NAMESPACE = "supabase-studio"

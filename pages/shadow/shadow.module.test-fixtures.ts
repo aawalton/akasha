@@ -1,7 +1,6 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "akasha/git/running/git-running.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -13,6 +12,7 @@ import {
 import { keepingIn } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Cast, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"

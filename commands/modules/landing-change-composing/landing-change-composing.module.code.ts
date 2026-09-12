@@ -12,7 +12,7 @@ import type {
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 export type Bodied = {
   readonly path: string

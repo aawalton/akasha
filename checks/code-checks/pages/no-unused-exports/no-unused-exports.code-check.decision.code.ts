@@ -7,7 +7,6 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   pageNamed,
@@ -15,6 +14,7 @@ import {
   partedIn,
   uncommittedNamed,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { nameFor } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import ts from "typescript"

@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { championPoints } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
+import { championPoints } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 export function generateChampionPointMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

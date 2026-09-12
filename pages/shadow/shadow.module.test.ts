@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   bodyOf,
   idOf,
@@ -12,6 +11,7 @@ import {
   everythingRead,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { NOT_WORKED_OUT, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   aChange,

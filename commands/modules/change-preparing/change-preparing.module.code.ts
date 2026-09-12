@@ -16,8 +16,8 @@ import type { Refused } from "akasha/commands/modules/landing/landing.module.cod
 import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { unexportableIn } from "akasha/pages/export-name/export-naming/export-naming.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { typesFor } from "akasha/pages/types/type-generating/type-generating.module.code.ts"
 
 export type Formatting = {

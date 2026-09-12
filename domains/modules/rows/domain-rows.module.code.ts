@@ -1,4 +1,4 @@
-import type { DomainRow as PanelRow } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
+import type { DomainRow as PanelRow } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   idsNaming,

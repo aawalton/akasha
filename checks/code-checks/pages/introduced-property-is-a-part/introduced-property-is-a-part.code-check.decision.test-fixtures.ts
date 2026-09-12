@@ -8,11 +8,11 @@ import {
 import { carriedBy } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { declaring, shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const TEXT = "text-property"

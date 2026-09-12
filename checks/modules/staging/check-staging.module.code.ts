@@ -1,7 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
@@ -10,6 +9,7 @@ import {
   noImportersFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

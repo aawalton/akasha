@@ -1,4 +1,4 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 
 export function namespaceYaml(namespace: string, labels: Readonly<Record<string, string>>): string {
   return synthOne(namespace, "namespace", {

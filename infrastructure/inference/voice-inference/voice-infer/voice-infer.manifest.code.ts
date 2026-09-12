@@ -1,5 +1,5 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 import { voiceInferImage } from "akasha/infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"

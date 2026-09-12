@@ -2,7 +2,6 @@ import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/modules/carried-file/carried-file.module.code.ts"
 import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   type Answering,
   answeringOver,
@@ -12,6 +11,7 @@ import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.cod
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

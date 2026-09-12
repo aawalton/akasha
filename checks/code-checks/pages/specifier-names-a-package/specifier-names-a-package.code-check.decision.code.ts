@@ -8,7 +8,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { specifiersIn } from "akasha/code/specifier/code-specifier.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const PARTED_BY = "/"

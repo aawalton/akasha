@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const LOADER = "ts"
 

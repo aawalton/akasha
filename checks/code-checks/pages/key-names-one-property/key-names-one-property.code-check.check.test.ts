@@ -16,7 +16,7 @@ import {
   landing,
   pathFor,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

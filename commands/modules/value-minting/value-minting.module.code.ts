@@ -8,12 +8,12 @@ import {
   baseOf,
   changeOf,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { heldIn, pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Generated } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
 import { generatedProperties } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 

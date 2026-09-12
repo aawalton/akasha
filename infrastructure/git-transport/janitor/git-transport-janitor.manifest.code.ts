@@ -1,5 +1,5 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { BUN_RUNTIME_IMAGE } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import {
   NAMESPACE,

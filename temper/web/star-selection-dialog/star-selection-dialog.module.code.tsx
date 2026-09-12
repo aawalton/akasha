@@ -4,7 +4,7 @@ import {
   type ChampionPointId,
   type ChampionPointSource,
   championPoints,
-} from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
+} from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { FilterableSelectDialogConfig } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { FilterableSelectDialog } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { getSubcategory } from "akasha/utils/narrow/get-subcategory/get-subcategory.module.code.ts"

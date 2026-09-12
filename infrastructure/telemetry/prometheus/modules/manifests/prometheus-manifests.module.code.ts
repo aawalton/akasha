@@ -1,11 +1,11 @@
 import {
-  synthMulti,
-  synthOne,
-} from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
-import {
   capabilitySelector,
   HOSTNAME_KEY,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import {
+  synthMulti,
+  synthOne,
+} from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { PROMETHEUS_YML } from "akasha/infrastructure/telemetry/prometheus/modules/config/prometheus-config.module.code.ts"
 import {
   ALERTMANAGER_IMAGE,

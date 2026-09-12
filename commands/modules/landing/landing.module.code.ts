@@ -66,8 +66,8 @@ import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.m
 import { committed, whileIndexFrees } from "akasha/git/committing/committing.module.code.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export type Landed = Finished & {

@@ -10,7 +10,7 @@ import {
 } from "akasha/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { change, wrote } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const REACHES = 'import held from "zod"\n'

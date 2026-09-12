@@ -1,7 +1,7 @@
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

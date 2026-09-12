@@ -1,4 +1,4 @@
-import { championPoints } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
+import { championPoints } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { getSubcategory } from "akasha/utils/narrow/get-subcategory/get-subcategory.module.code.ts"

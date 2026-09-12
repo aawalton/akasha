@@ -18,9 +18,9 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { NAMING_NONE, type Naming } from "akasha/code/specifier/code-specifier.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const ROOT = ""

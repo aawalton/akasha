@@ -3,7 +3,6 @@ import { join } from "node:path"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -13,6 +12,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

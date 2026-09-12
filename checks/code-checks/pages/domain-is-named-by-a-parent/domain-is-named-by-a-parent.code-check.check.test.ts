@@ -13,9 +13,9 @@ import {
   put,
   typed,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

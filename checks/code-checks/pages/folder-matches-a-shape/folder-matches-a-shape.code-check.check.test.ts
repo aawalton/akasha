@@ -15,7 +15,7 @@ import {
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { folderOf } from "akasha/code/path-between/code-path-between.module.code.ts"
 import { NAMING_NONE } from "akasha/code/specifier/code-specifier.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const ROOT = "/repo"
 

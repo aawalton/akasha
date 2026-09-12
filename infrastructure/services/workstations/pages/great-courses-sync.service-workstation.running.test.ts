@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const syncing = await import(
-  "akasha/alan/collections/great-courses/catalogue-syncing/catalogue-syncing.module.code.ts"
+  "akasha/alan/collections/great-courses/modules/catalogue-syncing/catalogue-syncing.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/collections/great-courses/catalogue-syncing/catalogue-syncing.module.code.ts",
+  "akasha/alan/collections/great-courses/modules/catalogue-syncing/catalogue-syncing.module.code.ts",
   () => ({
     ...syncing,
     runCatalogueSyncing: () => {
@@ -40,7 +40,7 @@ test("a sync that could not run is carried out rather than swallowed, so a faile
   RAN.length = 0
   const why = new Error("the catalogue could not be read")
   mock.module(
-    "akasha/alan/collections/great-courses/catalogue-syncing/catalogue-syncing.module.code.ts",
+    "akasha/alan/collections/great-courses/modules/catalogue-syncing/catalogue-syncing.module.code.ts",
     () => ({
       ...syncing,
       runCatalogueSyncing: () => Promise.reject(why),

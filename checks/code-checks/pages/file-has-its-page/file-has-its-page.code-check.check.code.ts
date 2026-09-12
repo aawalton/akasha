@@ -6,7 +6,7 @@ import {
   FILES,
   judgingEach,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export function unclaimedIn(change: Change, shadow: Shadow): readonly string[] {

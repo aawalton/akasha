@@ -27,7 +27,7 @@ import {
   STYLE_AT,
   thereOf,
 } from "akasha/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.decision.test-fixtures.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const ROOT_MANIFEST = "package.json"
 

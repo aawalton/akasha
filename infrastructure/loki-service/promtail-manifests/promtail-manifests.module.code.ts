@@ -1,8 +1,8 @@
+import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
 import {
   synthMulti,
   synthOne,
-} from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { PROMTAIL_CONFIG } from "akasha/infrastructure/loki-service/loki-configs/loki-configs.module.code.ts"
 import {
   NAMESPACE,

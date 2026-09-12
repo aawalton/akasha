@@ -1,7 +1,7 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-web-service/k8s-web-service.module.code.ts"
 import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,

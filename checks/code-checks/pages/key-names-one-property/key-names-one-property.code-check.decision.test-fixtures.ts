@@ -14,8 +14,8 @@ import {
   put,
   typed,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"

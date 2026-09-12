@@ -1,8 +1,8 @@
-import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { QUERY_PERF_QUERIES_YAML } from "akasha/infrastructure/telemetry/postgres-exporter/modules/query-perf-queries/query-perf-queries.module.code.ts"
 import {
   NAMESPACE,

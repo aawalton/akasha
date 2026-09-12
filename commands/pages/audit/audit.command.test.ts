@@ -12,7 +12,7 @@ import {
   waitingOn,
   wrongIn,
 } from "akasha/commands/pages/audit/audit.command.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 function gathered(
   slugs: readonly string[],

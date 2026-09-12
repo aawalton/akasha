@@ -11,7 +11,7 @@ import {
 } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -10,6 +9,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 import {
   AT,

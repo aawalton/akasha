@@ -3,7 +3,7 @@ import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
+import type { ChampionPointId } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"

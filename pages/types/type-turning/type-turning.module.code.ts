@@ -1,4 +1,3 @@
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Facing,
@@ -7,6 +6,7 @@ import {
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import { importersIn, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const HOLDS = "ts"
 
