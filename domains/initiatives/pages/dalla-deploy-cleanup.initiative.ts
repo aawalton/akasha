@@ -26,13 +26,13 @@ export const dallaDeployCleanup = {
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
       workingMemory:
-        "`workstation-deploying`, `eso-addon-deploying` and `cluster-deploying` each tick their own kind every minute through `ticked`, which needs only the kind named beside the page. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits that deploy out. Four kinds have no loop: 13 inference services, 9 container recipes, 6 web apps, and the 3 ios apps, which a deploy hands to Apple.",
+        "`workstation-deploying`, `eso-addon-deploying`, `cluster-deploying` and `web-app-deploying` each tick their own kind every minute through `ticked`, which needs only the kind named beside the page. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits that deploy out. Three kinds have no loop: 13 inference services, 9 container recipes, and the 3 ios apps, which a deploy hands to Apple.",
     },
     {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
       workingMemory:
-        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, read out of the commit being put up, so no run mixes two commits. All 48 ESO addons are up to date, the workstation kind was put up at `eec1a045`, and the 51 cluster services are worked through one a tick.",
+        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, read out of the commit being put up, so no run mixes two commits. All 48 ESO addons are up to date, the workstation kind is put up every few minutes, and the 46 cluster services are worked through one a tick.",
     },
   ],
   constraints: [
