@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   amongDone,
   carriedNothingSaid,
   outcomesFor,
+  temperCommunityAddonUpdate,
   wentSaid,
 } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"
 import {
@@ -93,4 +95,26 @@ test("a folder that was never cleared is refused as the fault alone", () => {
   )
 
   expect(said[1]?.error).toBe(WHY)
+})
+
+const GIVEN: Given = {
+  root: ".",
+  calledAs: "akasha temper community addon-update",
+  from: ".",
+  writer: null,
+  agentId: null,
+}
+
+test("a flag this takes no argument for is refused before the community site is reached", async () => {
+  const said = await temperCommunityAddonUpdate(["--outdated"], GIVEN)
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--outdated` is no argument")
+})
+
+test("a word this takes no argument for is refused before the community site is reached", async () => {
+  const said = await temperCommunityAddonUpdate(["Votans"], GIVEN)
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`Votans` is no argument")
 })

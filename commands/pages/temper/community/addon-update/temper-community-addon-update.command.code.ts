@@ -1,12 +1,19 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { addonsDir as addonsDirArgument } from "akasha/commands/arguments/pages/addons-dir.argument.ts"
+import { codeRoot } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { force } from "akasha/commands/arguments/pages/force.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { only as onlyArgument } from "akasha/commands/arguments/pages/only.argument.ts"
 import {
   INPUT,
   OK,
   OPERATIONAL,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperCommunityAddonUpdate as page } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import {
   clearedSaid,
   downloadAndInstall,
@@ -27,15 +34,7 @@ import { readInstalledAddons } from "akasha/temper/community-addons/installed-ad
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const ONLY_FLAG = "--only"
-
-const FORCE_FLAG = "--force"
-
-const ADDONS_DIR_FLAG = "--addons-dir"
-
-const CODE_ROOT_FLAG = "--code-root"
-
-const JSON_FLAG = "--json"
+const NAMED = [json, codeRoot, addonsDirArgument, force, onlyArgument]
 
 const SPACES = 2
 
@@ -124,10 +123,17 @@ function lineOf(one: Outcome): string {
   return `${one.dir}\tupdated\t${one.from ?? "-"}\t${one.to ?? "-"}`
 }
 
-export async function temperCommunityAddonUpdate(argv: readonly string[] = []): Promise<Answer> {
-  const addonsPath = valuesOf(argv, ADDONS_DIR_FLAG)[0] ?? addonsDir()
-  const repoRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
-  const only = valuesOf(argv, ONLY_FLAG)
+export async function temperCommunityAddonUpdate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+
+  const addonsPath = taken.addonsDir ?? addonsDir()
+  const repoRoot = taken.codeRoot
+  const only = taken.only
 
   let plan: ReturnType<typeof planUpdates>
   try {
@@ -148,10 +154,10 @@ export async function temperCommunityAddonUpdate(argv: readonly string[] = []): 
 
   const unknown = unknownOnlyDirs(plan, only)
   if (unknown.length > 0) {
-    return refused(`${ONLY_FLAG} names no installable addon: ${unknown.join(", ")}`, INPUT)
+    return refused(`${onlyArgument.said} names no installable addon: ${unknown.join(", ")}`, INPUT)
   }
 
-  const selected = selectTargets(plan, { force: argv.includes(FORCE_FLAG), only })
+  const selected = selectTargets(plan, { force: taken.force, only })
   const grouped = dirsByUid(selected)
 
   const outcomes: Outcome[] = []
@@ -163,7 +169,7 @@ export async function temperCommunityAddonUpdate(argv: readonly string[] = []): 
   const failed = outcomes.filter((one) => one.action === "failed")
   const updated = outcomes.length - failed.length
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     return {
       report: JSON.stringify({ addonsDir: addonsPath, outcomes }, null, SPACES).split("\n"),
       refusals: failed.map((one) => `${one.dir} was not updated: ${one.error ?? ""}`),
