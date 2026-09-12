@@ -4,7 +4,7 @@ import {
   SENT_PICTURE,
   SENT_TEXT,
   sentSaid,
-} from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
+} from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
 import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
 import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"
 import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"

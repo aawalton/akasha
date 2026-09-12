@@ -2,19 +2,19 @@ import {
   bankAccrual,
   normalizeGameState,
   withLatches,
-} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
-import { applyDerivedMechanics } from "akasha/alan/harness/idle-system/idle-deriving/idle-deriving.module.code.ts"
-import { applyDraw } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
-import { parseIdleSave } from "akasha/alan/harness/idle-system/idle-save/idle-save.module.code.ts"
+} from "akasha/alan/harness/idle-system/modules/idle-accrual/idle-accrual.module.code.ts"
+import { applyDerivedMechanics } from "akasha/alan/harness/idle-system/modules/idle-deriving/idle-deriving.module.code.ts"
+import { applyDraw } from "akasha/alan/harness/idle-system/modules/idle-draw/idle-draw.module.code.ts"
+import { parseIdleSave } from "akasha/alan/harness/idle-system/modules/idle-save/idle-save.module.code.ts"
 import { resolveDrawContext } from "akasha/alan/web/.server/gacha-draw-context/gacha-draw-context.module.code.ts"
 import { reprojectUserCardsSafely } from "akasha/alan/web/.server/idle-card-projecting/idle-card-projecting.module.code.ts"
 import { resolveIdleSaveContext } from "akasha/alan/web/.server/idle-save-context/idle-save-context.module.code.ts"
 import { loadSave, upsertSave } from "akasha/alan/web/.server/idle-saves/idle-saves.module.code.ts"
-import { drawIntentSchema } from "akasha/alan/web/idle-actions/idle-actions.module.code.ts"
 import {
   capacitorCorsHeaders,
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
+import { drawIntentSchema } from "akasha/alan/web/modules/idle-actions/idle-actions.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

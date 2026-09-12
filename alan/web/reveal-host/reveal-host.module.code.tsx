@@ -1,11 +1,11 @@
 "use client"
 
-import type { DrawReveal } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
+import type { DrawReveal } from "akasha/alan/harness/idle-system/modules/idle-draw/idle-draw.module.code.ts"
 import {
   clearReveal,
   getRevealSnapshot,
   subscribeReveal,
-} from "akasha/alan/web/idle-reveal-store/idle-reveal-store.module.code.ts"
+} from "akasha/alan/web/modules/idle-reveal-store/idle-reveal-store.module.code.ts"
 import { StarRow } from "akasha/alan/web/star-row/star-row.module.code.tsx"
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"

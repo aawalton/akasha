@@ -3,16 +3,16 @@
 import {
   gainedStars,
   sumOwnedRanks,
-} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
-import { ASCEND_MIN } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
-import { drawCost } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+} from "akasha/alan/harness/idle-system/modules/idle-accrual/idle-accrual.module.code.ts"
+import { ASCEND_MIN } from "akasha/alan/harness/idle-system/modules/idle-constants/idle-constants.module.code.ts"
+import { drawCost } from "akasha/alan/harness/idle-system/modules/idle-gacha-state/idle-gacha-state.module.code.ts"
 import {
   displayedResource,
   totalRate,
-} from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
-import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import { deriveAscensionView } from "akasha/alan/web/idle-display/idle-display.module.code.ts"
-import { runDraw } from "akasha/alan/web/idle-draw-verb/idle-draw-verb.module.code.ts"
+} from "akasha/alan/harness/idle-system/modules/idle-rate/idle-rate.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/modules/idle-state/idle-state.module.code.ts"
+import { deriveAscensionView } from "akasha/alan/web/modules/idle-display/idle-display.module.code.ts"
+import { runDraw } from "akasha/alan/web/modules/idle-draw-verb/idle-draw-verb.module.code.ts"
 import type { IdleActions } from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"

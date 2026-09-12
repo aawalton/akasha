@@ -1,10 +1,6 @@
 import type { Collection } from "@tanstack/db"
 import { RosterUnreachable } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import {
-  applyIdentityChange,
-  decideIdentityChange,
-} from "akasha/pages/ui-store/collection/identity-change/identity-change.module.code.ts"
-import {
   type AcquireRegistry,
   acquireShape as acquireShapeIn,
   acquireSlug as acquireSlugIn,
@@ -30,6 +26,10 @@ import {
   type RosterReader,
   rosterOverFetch,
 } from "akasha/pages/ui-store/collection/modules/file-backing/file-backing.module.code.ts"
+import {
+  applyIdentityChange,
+  decideIdentityChange,
+} from "akasha/pages/ui-store/collection/modules/identity-change/identity-change.module.code.ts"
 import {
   asPageRowList,
   type PageRow,

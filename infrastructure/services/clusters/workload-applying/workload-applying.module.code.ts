@@ -7,7 +7,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
+import { publishedFor } from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
 import {
   CLUSTER_SERVICE_TYPE,
   codeBeside,

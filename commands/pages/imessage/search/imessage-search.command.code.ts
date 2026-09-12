@@ -1,14 +1,14 @@
+import { buildSearchSql } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import {
   countRefused,
   messagesAnswered,
   namingIn,
-} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
-import { buildSearchSql } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
+} from "akasha/alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
-} from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
+} from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { contact } from "akasha/commands/arguments/pages/contact.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

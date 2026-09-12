@@ -1,5 +1,5 @@
 import type { PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { pad2 } from "akasha/personas/image-name/image-name.module.code.ts"
+import { pad2 } from "akasha/personas/modules/image-name/image-name.module.code.ts"
 import {
   personaCondition,
   relationshipLevelMatchCondition,

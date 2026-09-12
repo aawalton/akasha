@@ -1,4 +1,4 @@
-import { parseImageName } from "akasha/personas/image-name/image-name.module.code.ts"
+import { parseImageName } from "akasha/personas/modules/image-name/image-name.module.code.ts"
 
 export interface WallpaperInstallPlan {
   readonly writePath: string

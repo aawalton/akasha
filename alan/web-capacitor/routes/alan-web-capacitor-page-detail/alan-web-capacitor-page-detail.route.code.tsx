@@ -31,7 +31,7 @@ const READING_STORY_SLUG = "reading-story"
 
 const ChessBoard = lazy(() => import("akasha/alan/chess/modules/board/chess-board.module.code.tsx"))
 
-const IdleGame = lazy(() => import("akasha/alan/web/idle-game/idle-game.module.code.tsx"))
+const IdleGame = lazy(() => import("akasha/alan/web/modules/idle-game/idle-game.module.code.tsx"))
 
 export default function CapacitorPageDetail() {
   const params = useParams()

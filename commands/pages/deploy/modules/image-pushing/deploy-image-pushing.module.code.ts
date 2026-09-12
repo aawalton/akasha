@@ -1,7 +1,7 @@
 import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { buildOf } from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
-import { publish } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
+import { buildOf } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
+import { publish } from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
 
 const IMAGE = "image"
 const HELD = "the registry holds it"

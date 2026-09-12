@@ -5,7 +5,7 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
 import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfiles/built-images/auth-proxy/auth-proxy.built-image.ts"
-import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
+import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 
 const NAMESPACE = "auth-proxy"
 const APP_NAME = "auth-proxy"

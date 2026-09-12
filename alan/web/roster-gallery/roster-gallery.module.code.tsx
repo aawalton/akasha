@@ -1,19 +1,19 @@
-import { BASE_IMAGE_ID } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import { BASE_IMAGE_ID } from "akasha/alan/harness/idle-system/modules/idle-constants/idle-constants.module.code.ts"
 import {
   ensureCatalogLoaded,
   getCatalogSnapshot,
   subscribeCatalog,
-} from "akasha/alan/web/idle-catalog-store/idle-catalog-store.module.code.ts"
-import { ErrorMessage } from "akasha/alan/web/idle-error-message/idle-error-message.module.code.tsx"
-import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
-import { portraitSrc } from "akasha/alan/web/idle-portrait/idle-portrait.module.code.ts"
+} from "akasha/alan/web/modules/idle-catalog-store/idle-catalog-store.module.code.ts"
+import { ErrorMessage } from "akasha/alan/web/modules/idle-error-message/idle-error-message.module.code.tsx"
+import { idleGameStore } from "akasha/alan/web/modules/idle-game-store/idle-game-store.module.code.ts"
+import { portraitSrc } from "akasha/alan/web/modules/idle-portrait/idle-portrait.module.code.ts"
 import {
   deriveCollectionCounts,
   deriveRosterView,
   deriveVariantIds,
   type GirlCardVM,
   hasBaseCover,
-} from "akasha/alan/web/idle-roster-view/idle-roster-view.module.code.ts"
+} from "akasha/alan/web/modules/idle-roster-view/idle-roster-view.module.code.ts"
 import {
   closeRosterGallery,
   getRosterGallerySnapshot,

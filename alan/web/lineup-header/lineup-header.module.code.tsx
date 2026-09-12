@@ -1,6 +1,6 @@
-import { maxTeam } from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
-import { isUnlocked } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
-import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { maxTeam } from "akasha/alan/harness/idle-system/modules/idle-accrual/idle-accrual.module.code.ts"
+import { isUnlocked } from "akasha/alan/harness/idle-system/modules/idle-gacha-state/idle-gacha-state.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/modules/idle-state/idle-state.module.code.ts"
 import {
   applyDrop,
   pickerCandidates,

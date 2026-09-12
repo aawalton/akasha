@@ -1,4 +1,4 @@
-import type { IdleSave } from "akasha/alan/harness/idle-system/idle-save/idle-save.module.code.ts"
+import type { IdleSave } from "akasha/alan/harness/idle-system/modules/idle-save/idle-save.module.code.ts"
 import { unheld, unwritten } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
 
 const PAGE_TYPE = "idle-save"

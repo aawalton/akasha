@@ -1,18 +1,18 @@
 import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { MACBOOK } from "akasha/alan/harness/imessage/host/imessage-host.module.code.ts"
 import {
   isEmailLike,
   isPhoneLike,
   searchContacts,
 } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
-import { fetchContacts } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/imessage/modules/host/imessage-host.module.code.ts"
+import { fetchContacts } from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
 import {
   buildSendScript,
   type SendAttachment,
   sentSaid,
-} from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
+} from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
 import { streamSshLines } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import type { SshTarget } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
