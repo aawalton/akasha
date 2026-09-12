@@ -52,6 +52,10 @@ export const monarchReading = {
     },
     {
       invariantKind: "departure",
+      statement: "An empty value in the environment states no root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Where the readout's page sits is asked of the index rather than spelled.",
     },
     {

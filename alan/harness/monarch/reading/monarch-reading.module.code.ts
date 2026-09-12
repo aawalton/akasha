@@ -4,8 +4,8 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 export const READOUT_SLUG = "monarch-unreviewed-transactions"
 
@@ -40,7 +40,7 @@ const TAKING_REFUSED_STATUS = 1
 export async function runMonarchReading(): Promise<void> {
   const cookie = cookieIn(process.env)
   if (cookie === null) throw new Error(COOKIE_ABSENT)
-  const root = shape.string().default(process.cwd()).parse(process.env.AKASHA_ROOT)
+  const root = rootStated(process.env) ?? process.cwd()
   const unreviewed = await takeReading(root, cookie)
   process.stdout.write(`${unreviewed} unreviewed, kept beside ${readoutPage(root, READOUT_SLUG)}\n`)
 }
