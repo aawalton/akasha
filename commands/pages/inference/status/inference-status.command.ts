@@ -35,4 +35,5 @@ export const inferenceStatus = {
       statement: "Nothing here changes a host.",
     },
   ],
+  name: "status",
 } as const satisfies Command

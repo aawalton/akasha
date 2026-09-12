@@ -59,4 +59,5 @@ export const inferenceMusic = {
       statement: "Nothing here makes the music service resident.",
     },
   ],
+  name: "music",
 } as const satisfies Command

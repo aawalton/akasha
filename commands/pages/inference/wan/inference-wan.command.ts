@@ -120,4 +120,5 @@ export const inferenceWan = {
       statement: "Nothing here starts the container or provisions the weights.",
     },
   ],
+  name: "wan",
 } as const satisfies Command

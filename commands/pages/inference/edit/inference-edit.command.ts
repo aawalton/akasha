@@ -55,4 +55,5 @@ export const inferenceEdit = {
       statement: "No key set refuses the call rather than reaching the engine.",
     },
   ],
+  name: "edit",
 } as const satisfies Command

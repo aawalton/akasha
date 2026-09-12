@@ -54,4 +54,5 @@ export const inferenceSegment = {
       statement: "Nothing here makes the segment service resident.",
     },
   ],
+  name: "segment",
 } as const satisfies Command

@@ -56,4 +56,5 @@ export const inferenceVoiceDesign = {
       statement: "Nothing here cuts the text into pieces.",
     },
   ],
+  name: "design",
 } as const satisfies Command

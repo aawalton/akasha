@@ -86,4 +86,5 @@ export const infrastructureLoki = {
       statement: "Nothing here writes.",
     },
   ],
+  name: "loki",
 } as const satisfies Command

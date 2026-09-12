@@ -30,4 +30,5 @@ export const inferenceActivate = {
       statement: "Nothing here provisions the service or starts the cop.",
     },
   ],
+  name: "activate",
 } as const satisfies Command

@@ -65,4 +65,5 @@ export const initiativeDeleteIntent = {
       statement: "No check runs over the change a run lands.",
     },
   ],
+  name: "delete-intent",
 } as const satisfies Command

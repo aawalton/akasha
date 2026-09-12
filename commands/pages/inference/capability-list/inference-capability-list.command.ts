@@ -42,4 +42,5 @@ export const inferenceCapabilityList = {
       statement: "Nothing here changes the resident.",
     },
   ],
+  name: "capability-list",
 } as const satisfies Command

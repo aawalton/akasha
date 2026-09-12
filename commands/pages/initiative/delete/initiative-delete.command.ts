@@ -74,4 +74,5 @@ export const initiativeDelete = {
       statement: "No check runs over what a run lands.",
     },
   ],
+  name: "delete",
 } as const satisfies Command

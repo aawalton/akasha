@@ -57,4 +57,5 @@ export const infrastructureShellInitBash = {
       statement: "A terminal reaches its own functions only where this command can be read.",
     },
   ],
+  name: "shell-init-bash",
 } as const satisfies Command

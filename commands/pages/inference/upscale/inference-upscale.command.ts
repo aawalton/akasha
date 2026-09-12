@@ -53,4 +53,5 @@ export const inferenceUpscale = {
       statement: "Nothing here provisions the weights or starts the container.",
     },
   ],
+  name: "upscale",
 } as const satisfies Command

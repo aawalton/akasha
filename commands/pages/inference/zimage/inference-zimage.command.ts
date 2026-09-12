@@ -89,4 +89,5 @@ export const inferenceZimage = {
       statement: "Nothing here starts the container or provisions the weights.",
     },
   ],
+  name: "zimage",
 } as const satisfies Command

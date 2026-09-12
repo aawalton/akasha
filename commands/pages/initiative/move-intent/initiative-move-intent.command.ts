@@ -88,4 +88,5 @@ export const initiativeMoveIntent = {
       statement: "No check runs over the change a run lands.",
     },
   ],
+  name: "move-intent",
 } as const satisfies Command

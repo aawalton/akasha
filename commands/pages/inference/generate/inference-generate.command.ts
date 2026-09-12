@@ -61,4 +61,5 @@ export const inferenceGenerate = {
       statement: "Nothing here makes the service resident.",
     },
   ],
+  name: "generate",
 } as const satisfies Command

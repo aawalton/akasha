@@ -22,4 +22,5 @@ export const inferenceActiveList = {
       statement: "Nothing here changes which services are resident.",
     },
   ],
+  name: "active-list",
 } as const satisfies Command

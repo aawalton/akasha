@@ -129,4 +129,5 @@ export const infrastructureDevServer = {
         "Nothing here writes over an `.env.local` already there unless the command is told to.",
     },
   ],
+  name: "dev-server",
 } as const satisfies Command

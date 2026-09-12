@@ -125,4 +125,5 @@ export const infrastructureService = {
       statement: "An act other than a run is stopped at the seconds this page allows.",
     },
   ],
+  name: "service",
 } as const satisfies Command

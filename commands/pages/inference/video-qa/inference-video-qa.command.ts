@@ -56,4 +56,5 @@ export const inferenceVideoQa = {
       statement: "Nothing here writes a clip or a frame the caller keeps.",
     },
   ],
+  name: "video-qa",
 } as const satisfies Command

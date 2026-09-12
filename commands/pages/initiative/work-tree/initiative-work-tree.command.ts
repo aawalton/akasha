@@ -116,4 +116,5 @@ export const initiativeWorkTree = {
       statement: "A run writes nothing.",
     },
   ],
+  name: "work-tree",
 } as const satisfies Command
