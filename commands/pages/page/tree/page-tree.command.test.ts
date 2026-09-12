@@ -6,7 +6,6 @@ import {
   pageAnswers,
   pageTree,
   propertyKindsIn,
-  refusalsIn,
 } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
 import type { Valued } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
@@ -182,11 +181,11 @@ test("a word this does not take refuses as a fault in the call", () => {
 })
 
 test("every word said is named in the refusal, not only the first", () => {
-  expect(refusalsIn(["one", "two"]).length).toBe(2)
-})
+  const said = pageTree(["one", "two"], givenIn())
 
-test("a call naming nothing is not refused for its words", () => {
-  expect(refusalsIn([])).toEqual([])
+  expect(said.refusals.length).toBe(2)
+  expect(said.refusals.join("\n")).toContain("`one`")
+  expect(said.refusals.join("\n")).toContain("`two`")
 })
 
 test("an index that is not there refuses as a fault of the data", () => {

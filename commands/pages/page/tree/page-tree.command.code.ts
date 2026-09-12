@@ -1,5 +1,6 @@
 import { resolve } from "node:path"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import {
   asJson,
@@ -263,13 +264,9 @@ export function pageAnswers(root: string): Answers {
   return answersFrom(pageTypes, properties)
 }
 
-export function refusalsIn(argv: readonly string[]): readonly string[] {
-  return argv.map((one) => `\`${one}\` is no word this takes — it takes no word at all`)
-}
-
 export function pageTree(argv: readonly string[], given: Given): Answer {
-  const refusals = refusalsIn(argv)
-  if (refusals.length > 0) return refusedBy(refusals)
+  const read = takenFor(argv, given.calledAs, treePage, [])
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return asJson(pageAnswers(resolve(given.root)))
   } catch (thrown) {
