@@ -5,6 +5,7 @@ import { charactersPath as charactersPathArgument } from "akasha/commands/argume
 import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
 import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
 import { loginChecklist as loginChecklistArgument } from "akasha/commands/arguments/pages/login-checklist.argument.ts"
+import { unmapped as unmappedArgument } from "akasha/commands/arguments/pages/unmapped.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -15,6 +16,11 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperInventoryPlan as page } from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.ts"
+import {
+  gatheredByItem,
+  ordered,
+  type TakenStack,
+} from "akasha/commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
 import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
@@ -31,6 +37,7 @@ import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types
 import type { ClassifiableItem } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { IMPLICIT_TERMINAL_RULE_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   CharacterSession,
   ManagementPlan,
@@ -39,13 +46,21 @@ import type {
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
-const NAMED = [jsonArgument, inventoryPathArgument, charactersPathArgument, loginChecklistArgument]
+const NAMED = [
+  jsonArgument,
+  inventoryPathArgument,
+  charactersPathArgument,
+  loginChecklistArgument,
+  unmappedArgument,
+]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
 const SPACES = 2
 
 const PLAN_HEADER = "[TemperInventory] Plan:"
+
+const UNMAPPED_HEADER = "[TemperInventory] Unmapped:"
 
 function verbOf(action: string, destination: string | undefined): string {
   switch (action) {
@@ -122,6 +137,19 @@ export function planSaid(plan: ManagementPlan): readonly string[] {
   return lines
 }
 
+export function unmappedSaid(stacks: readonly TakenStack[]): readonly string[] {
+  if (stacks.length === 0) {
+    return [UNMAPPED_HEADER, "  every item the holdings hold is reached by a rule."]
+  }
+  const units = stacks.reduce((sum, one) => sum + one.units, 0)
+  const lines: string[] = [
+    UNMAPPED_HEADER,
+    `  no rule reaches ${units} item(s) of ${stacks.length} kind(s):`,
+  ]
+  for (const one of stacks) lines.push(`    ${one.itemName} ×${one.units}`)
+  return lines
+}
+
 function classifiedFor(
   db: InventoryDatabase,
   toNodeIds: (item: ClassifiableItem) => readonly string[]
@@ -194,6 +222,11 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       context,
       itemRules
     )
+    if (taken.unmapped) {
+      const stacks = ordered(gatheredByItem(matched.ruleMap.get(IMPLICIT_TERMINAL_RULE_ID) ?? []))
+      if (taken.json) return told(JSON.stringify(stacks, null, SPACES).split("\n"))
+      return told(unmappedSaid(stacks))
+    }
     const filtered = filter.applyDestinationCapacityFilter(
       orderedRules,
       itemRules,

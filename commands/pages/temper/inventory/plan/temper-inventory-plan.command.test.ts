@@ -4,6 +4,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   planSaid,
   temperInventoryPlan,
+  unmappedSaid,
 } from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
@@ -64,4 +65,32 @@ test("a plan with no venue stop says so rather than saying nothing", () => {
   }
 
   expect(planSaid(empty)).toEqual(["[TemperInventory] Plan:", "  (no actions pending)"])
+})
+
+test("holdings every rule reaches are said as such rather than as an empty list", () => {
+  expect(unmappedSaid([])).toEqual([
+    "[TemperInventory] Unmapped:",
+    "  every item the holdings hold is reached by a rule.",
+  ])
+})
+
+test("the items no rule reaches are counted by unit and by kind", () => {
+  expect(
+    unmappedSaid([
+      { itemId: 1, itemName: "Dwarven Oil", units: 14 },
+      { itemId: 2, itemName: "Grand Repair Kit", units: 9 },
+    ])
+  ).toEqual([
+    "[TemperInventory] Unmapped:",
+    "  no rule reaches 23 item(s) of 2 kind(s):",
+    "    Dwarven Oil ×14",
+    "    Grand Repair Kit ×9",
+  ])
+})
+
+test("the switch naming the items no rule reaches carries no value", async () => {
+  const said = await temperInventoryPlan(["--unmapped=yes"], GIVEN)
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("`--unmapped` carries no value")
 })

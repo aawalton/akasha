@@ -29,6 +29,27 @@ export const temperInventoryPlan = {
       statement: "The checklist names no single item.",
     },
     {
+      invariantKind: "departure",
+      statement: "The unmapped report names the items no rule reaches rather than the plan.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The unmapped report gathers items by the item they are rather than by the stack.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The unmapped report is what JSON answers where JSON is asked for beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run finding no unmapped item says every item the holdings hold is reached by a rule.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An item a rule could not decide is told apart from an item no rule reaches.",
+    },
+    {
       invariantKind: "gap",
       statement: "The holdings are read from a stored snapshot rather than from the workstation.",
     },
@@ -39,5 +60,6 @@ export const temperInventoryPlan = {
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
     { argument: "argument/login-checklist" },
+    { argument: "argument/unmapped" },
   ],
 } as const satisfies Command
