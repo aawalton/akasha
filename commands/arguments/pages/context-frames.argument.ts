@@ -8,4 +8,5 @@ export const contextFrames = {
   takes: "how many of the clip's own frames the window holds",
   value: "whole-number",
   placeholder: "n",
+  default: "24",
 } as const satisfies Argument

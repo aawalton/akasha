@@ -8,4 +8,5 @@ export const newFrames = {
   takes: "how many frames this asks to generate",
   value: "whole-number",
   placeholder: "n",
+  default: "16",
 } as const satisfies Argument
