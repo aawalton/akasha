@@ -12,10 +12,6 @@ export const trackSessionFile = {
       said: "--from-file <path|->",
       takes: "the day's lines, read from a file or from standard input",
     },
-    {
-      said: "--relationship <id|title>",
-      takes: "who the stretches were with, said again or parted by commas for several",
-    },
   ],
 
   invariants: [
@@ -109,5 +105,9 @@ export const trackSessionFile = {
     },
   ],
   name: "file",
-  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/day" },
+    { argument: "argument/relationship" },
+  ],
 } as const satisfies Command

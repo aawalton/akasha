@@ -10,10 +10,6 @@ export const trackSessionOpen = {
   taking: [
     { said: "--title <text>", takes: "what the stretch is called" },
     { said: "--at <time>", takes: "the wall time the stretch begins" },
-    {
-      said: "--relationship <id|title>",
-      takes: "who the stretch was with, said again or parted by commas for several",
-    },
   ],
 
   invariants: [
@@ -76,5 +72,6 @@ export const trackSessionOpen = {
     { argument: "argument/day" },
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
+    { argument: "argument/relationship" },
   ],
 } as const satisfies Command
