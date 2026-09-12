@@ -13,14 +13,11 @@ export const smsActingAccount = {
       takes: "the delivered surface to read, or `-` for the input",
     },
   ],
-  helpNotes: [
-    "this is the one sanctioned source of a handler's write-as identity, so nothing else works it out.",
-    "the id is read off the footer the server stamped, anchored on the last inbound marker in the surface.",
-    "an id forged anywhere in the body of the message is therefore never answered.",
-    "a surface carrying no trusted footer refuses and answers nothing, so the handler writes as nobody.",
-    "the answer is the identity alone, on a line of its own.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A handler's write-as account is read here rather than worked out anywhere else.",
+    },
     {
       invariantKind: "departure",
       statement: "The identity is read off the last server-stamped footer rather than the body.",
