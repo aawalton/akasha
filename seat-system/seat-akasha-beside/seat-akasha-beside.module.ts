@@ -13,7 +13,16 @@ export const seatAkashaBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A page found by id is a seat only where its path is under the seats folder.",
+      statement:
+        "A page is a seat by the page type filing it rather than by the folder it sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat named is reached by asking the index for that name under the seat type.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder a seat's page sits in is written in this code.",
     },
     {
       invariantKind: "departure",

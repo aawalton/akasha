@@ -7,7 +7,7 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { everyOfType, listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { seatAbove } from "akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 
@@ -44,18 +44,14 @@ export const RECORDS: Readonly<Record<string, string>> = {
 
 const PAGE_TYPE = "seat"
 
-const SEAT_DIR = "seat-system/seats/pages/"
-
 export function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
 }
 
 function seatsThatExistInAkasha(): ReadonlyMap<string, string> {
   return onceInCall("akasha-seat-path-by-id", () => {
-    const root = akashaRoot()
     const found = new Map<string, string>()
-    for (const one of everyOfType(root, PAGE_TYPE)) {
-      if (!one.path.startsWith(SEAT_DIR)) continue
+    for (const one of everyOfType(akashaRoot(), PAGE_TYPE)) {
       if (!found.has(one.id)) found.set(one.id, one.path)
     }
     return found
@@ -64,10 +60,7 @@ function seatsThatExistInAkasha(): ReadonlyMap<string, string> {
 
 export function akashaSeatPathForAgent(agentId: string): string | null {
   if (agentId === "") return null
-  const held = seatsThatExistInAkasha().get(agentId)
-  if (held !== undefined) return held
-  const one = listedById(akashaRoot(), agentId)
-  return one?.path.startsWith(SEAT_DIR) === true ? one.path : null
+  return seatsThatExistInAkasha().get(agentId) ?? null
 }
 
 export function akashaSeatPathForCaller(agentId: string): string | null {
@@ -96,9 +89,7 @@ export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
 }
 
 export function akashaSeatIdForName(name: string): string | null {
-  const at = `${SEAT_DIR}${name}/${name}${SEAT_SUFFIX}`
-  for (const [id, path] of seatsThatExistInAkasha()) if (path === at) return id
-  return null
+  return listedAt(akashaRoot(), PAGE_TYPE, name)[0]?.id ?? null
 }
 
 export function akashaBesideOf(agentId: string): Record<string, unknown> | null {
