@@ -42,7 +42,7 @@ export function isImagePool(service: Inference): boolean {
   return service.enabled && service.lifecycle === "pool" && service.name.startsWith(IMAGE_PREFIX)
 }
 
-export async function inferenceCapabilities(argv: readonly string[]): Promise<Answer> {
+export async function inferenceCapabilityList(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])
   if (wasRefused(said)) return refusedBy(said.refused)
   if (said.loose.length > 0) {

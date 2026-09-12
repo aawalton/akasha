@@ -13,7 +13,7 @@ import {
   findCop,
 } from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
 
-export async function inferenceActive(argv: readonly string[]): Promise<Answer> {
+export async function inferenceActiveList(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])
   if (wasRefused(said)) return refusedBy(said.refused)
   if (said.loose.length > 0) {
