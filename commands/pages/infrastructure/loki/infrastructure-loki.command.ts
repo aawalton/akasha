@@ -30,14 +30,6 @@ export const infrastructureLoki = {
       takes: "every line inside the window, page after page, rather than the first `--limit`",
     },
   ],
-  helpNotes: [
-    "every line answered is one JSON object, and the last of them states what bounded the answer rather than stating a log line.",
-    "a log line states the timestamp and the line; the bounding line states the count, the cursor, whether it is done, and what clipped it.",
-    "the bounding line rides the lines it bounds, because an answer here has one channel and no second one to move a diagnostic onto.",
-    "a pod name and a namespace are read as literal strings, so a caller escapes nothing and can inject no matcher syntax through them.",
-    "`--all` is bounded by the window and never by a line count, so a window that clipped is reached by widening `--since`.",
-    "a pod prefix matching nothing answers no log line, and the bounding line says whether that absence means anything.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -46,6 +38,11 @@ export const infrastructureLoki = {
     {
       invariantKind: "departure",
       statement: "The last line answered states the bound on the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The bounding line states the count, the cursor, whether it is done and what clipped it.",
     },
     {
       invariantKind: "departure",
