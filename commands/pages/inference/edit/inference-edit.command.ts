@@ -16,7 +16,6 @@ export const inferenceEdit = {
     },
     { said: "--engine <name>", takes: "the engine the edit goes through" },
     { said: "--aspect-ratio <ratio>", takes: "the shape the output is fixed to" },
-    { said: "--size <1K|2K|4K>", takes: "the size the output is fixed to" },
   ],
   invariants: [
     {
@@ -57,5 +56,6 @@ export const inferenceEdit = {
     { argument: "argument/output" },
     { argument: "argument/timeout" },
     { argument: "argument/no-persist" },
+    { argument: "argument/size" },
   ],
 } as const satisfies Command

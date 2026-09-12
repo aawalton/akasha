@@ -12,7 +12,6 @@ export const inferenceGenerate = {
       said: "--prompt-file <path>",
       takes: "that prompt read from a path, or `-` for standard input",
     },
-    { said: "--size <WxH>", takes: "how wide and how tall the image is rendered" },
     { said: "--guidance <n>", takes: "how far the sampler is pushed toward the prompt" },
     { said: "--service <name>", takes: "the image pool service the render goes through" },
   ],
@@ -58,5 +57,6 @@ export const inferenceGenerate = {
     { argument: "argument/seed" },
     { argument: "argument/no-persist" },
     { argument: "argument/steps" },
+    { argument: "argument/size" },
   ],
 } as const satisfies Command
