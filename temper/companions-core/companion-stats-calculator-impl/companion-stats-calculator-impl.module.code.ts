@@ -1,10 +1,4 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import {
-  computeDpsMetrics,
-  computeTpsMetrics,
-  mergeRotationMetrics,
-} from "akasha/temper/companions-core/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"
-import { simulateCompanionRotation } from "akasha/temper/companions-core/companion-rotation-simulator/companion-rotation-simulator.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/companions-core/companion-stats-result/companion-stats-result.module.code.ts"
 import { computeSupportMetrics } from "akasha/temper/companions-core/companion-support-evaluator/companion-support-evaluator.module.code.ts"
 import type { ReferenceBaseline } from "akasha/temper/companions-core/companion-support-types/companion-support-types.module.code.ts"
@@ -29,6 +23,12 @@ import {
   type CompanionMetricValue,
   companionMetrics,
 } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import {
+  computeDpsMetrics,
+  computeTpsMetrics,
+  mergeRotationMetrics,
+} from "akasha/temper/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"
+import { simulateCompanionRotation } from "akasha/temper/companions-core/modules/companion-rotation-simulator/companion-rotation-simulator.module.code.ts"
 import { calculateRatingSurplus } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
 

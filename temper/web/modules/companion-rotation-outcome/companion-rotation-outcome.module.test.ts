@@ -3,7 +3,7 @@ import type {
   RotationResult,
   SkillUsageSummary,
 } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
-import { deriveCompanionRotationOutcome } from "akasha/temper/web/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
+import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
 
 const SILENT_SKILL: SkillUsageSummary = {
   skillId: "light-attack",
