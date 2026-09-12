@@ -7,8 +7,8 @@ import "akasha/temper/combat-addon/combat-string-ids-menus/combat-string-ids-men
 import "akasha/temper/combat-addon/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
 import "akasha/temper/combat-addon/modules/combat-public-api/combat-public-api.module.code.ts"
 import "akasha/temper/combat-addon/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"
-import "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
-import "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"

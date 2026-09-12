@@ -1,8 +1,3 @@
-import {
-  getCurrentFight,
-  getFightData,
-  getSelections,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import type { Fight as SavedFightShape } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
 import {
@@ -19,6 +14,11 @@ import {
   searchtable,
   toggleFightList,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  getCurrentFight,
+  getFightData,
+  getSelections,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 function editTitleStart(this: void, control: Control): undefined {
   const label = control.GetNamedChild<LabelControl>("Name")

@@ -1,4 +1,3 @@
-import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import type {
   CoreLogLine,
   DamageCategory,
@@ -22,6 +21,7 @@ import {
   YAXIS_LEFT,
   YAXIS_RIGHT,
 } from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { getFightData } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 type GraphData = Record<number, number | undefined>
 

@@ -1,4 +1,3 @@
-import { getDx } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   PlotControl,
@@ -10,6 +9,7 @@ import {
   PLOT_DIMENSION_X,
   YAXIS_RIGHT,
 } from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { getDx } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 export const PLOT_TYPE_XY = 1
 export const PLOT_TYPE_BAR = 2

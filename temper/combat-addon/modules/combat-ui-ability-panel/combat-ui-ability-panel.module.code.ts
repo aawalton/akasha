@@ -1,18 +1,3 @@
-import type {
-  BarsPanelControl,
-  SelectionRowControl,
-} from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
-import {
-  getDx,
-  getFightData,
-  getSelections,
-  getUiSelectionData,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import {
-  COUNT_STRINGS,
-  DPS_STRINGS,
-  optionalNumberValue,
-} from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -34,6 +19,21 @@ import {
   resetBars,
   setChildText,
 } from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import type {
+  BarsPanelControl,
+  SelectionRowControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
+import {
+  getDx,
+  getFightData,
+  getSelections,
+  getUiSelectionData,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  COUNT_STRINGS,
+  DPS_STRINGS,
+  optionalNumberValue,
+} from "akasha/temper/combat-addon/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 
 type HitCritLayout = [string, string, string, string]
 

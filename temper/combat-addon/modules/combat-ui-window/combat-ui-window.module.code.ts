@@ -1,4 +1,12 @@
-import type { SelectionRowControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
+import { isInCombat } from "akasha/temper/combat-addon/modules/combat-addon-state/combat-addon-state.module.code.ts"
+import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
+import { setUpdateReportHook } from "akasha/temper/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
+import type { LayoutControl } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { initLiveReport } from "akasha/temper/combat-addon/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
+import { initFightReport } from "akasha/temper/combat-addon/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"
+import type { SelectionRowControl } from "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getFightData,
   getUiSelectionData,
@@ -8,15 +16,7 @@ import {
   setCurrentFight,
   UNCOLLAPSED_BUFFS,
   type UpdatableControl,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import { isInCombat } from "akasha/temper/combat-addon/modules/combat-addon-state/combat-addon-state.module.code.ts"
-import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
-import { setUpdateReportHook } from "akasha/temper/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"
-import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
-import type { LayoutControl } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import { initLiveReport } from "akasha/temper/combat-addon/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
-import { initFightReport } from "akasha/temper/combat-addon/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 function toggleFightReport(this: void): undefined {
   const db = getDb()

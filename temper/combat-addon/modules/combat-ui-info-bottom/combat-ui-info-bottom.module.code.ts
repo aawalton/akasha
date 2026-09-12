@@ -1,5 +1,3 @@
-import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import type { GearItemControl } from "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 import {
   getFoodDrinkItemLinkFromAbilityId,
   getFormattedAbilityIcon,
@@ -10,6 +8,8 @@ import {
   ARMOR_COLORS,
   getEnchantQuality,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { getFightData } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import type { GearItemControl } from "akasha/temper/combat-addon/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 
 const EQUIP_SLOTS: Array<[number, string]> = [
   [EQUIP_SLOT_MAIN_HAND, "EsoUI/Art/CharacterWindow/gearslot_mainhand.dds"],

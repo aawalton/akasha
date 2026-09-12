@@ -1,10 +1,4 @@
 import {
-  getFightData,
-  getSelections,
-  getUiSelectionData,
-  type UpdatableControl,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
@@ -32,6 +26,12 @@ import {
   numberValue,
   setChildText,
 } from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import {
+  getFightData,
+  getSelections,
+  getUiSelectionData,
+  type UpdatableControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {

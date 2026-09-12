@@ -1,8 +1,4 @@
 import {
-  getCurrentFight,
-  getFightData,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
@@ -15,6 +11,10 @@ import {
   searchtable,
   type TooltipCarrier,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  getCurrentFight,
+  getFightData,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 interface TitleCharData {
   name?: string

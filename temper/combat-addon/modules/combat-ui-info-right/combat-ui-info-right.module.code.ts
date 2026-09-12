@@ -1,8 +1,3 @@
-import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import type {
-  CPStarControl,
-  ScribedSkillControl,
-} from "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 import {
   getFormattedAbilityIcon,
   getFormattedAbilityName,
@@ -12,6 +7,11 @@ import {
 import type { CPStarEntry } from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 import { isNonNullObject } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { getFightData } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import type {
+  CPStarControl,
+  ScribedSkillControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 
 const PASSIVE_REQUIREMENTS = [10, 30, 75, 120]
 

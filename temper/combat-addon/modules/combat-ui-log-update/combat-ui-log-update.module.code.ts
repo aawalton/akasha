@@ -1,9 +1,3 @@
-import {
-  getCurrentCLPage,
-  getFightData,
-  getFontsize,
-  getSelections,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import { getCombatLogString } from "akasha/temper/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
@@ -36,6 +30,12 @@ import type {
   CLButtonControl,
   CombatLogWindowControl,
 } from "akasha/temper/combat-addon/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts"
+import {
+  getCurrentCLPage,
+  getFightData,
+  getFontsize,
+  getSelections,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 export interface CLPageButtonRowControl extends Control {
   Update?: (this: void, buttonrow: Control, page: number, maxpage: number) => undefined

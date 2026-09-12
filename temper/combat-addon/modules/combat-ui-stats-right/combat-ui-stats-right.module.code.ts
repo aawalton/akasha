@@ -1,17 +1,4 @@
 import {
-  getFightData,
-  getSelections,
-  getUiSelectionData,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import {
-  COUNT_STRINGS,
-  optionalNumberValue,
-  POWER_TYPE_LABELS,
-  STAT_FORMAT,
-  STAT_KEYS_LEGACY,
-  type StatFormatEntry,
-} from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
-import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
@@ -30,6 +17,19 @@ import {
   numberValue,
   setChildText,
 } from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import {
+  getFightData,
+  getSelections,
+  getUiSelectionData,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  COUNT_STRINGS,
+  optionalNumberValue,
+  POWER_TYPE_LABELS,
+  STAT_FORMAT,
+  STAT_KEYS_LEGACY,
+  type StatFormatEntry,
+} from "akasha/temper/combat-addon/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 
 export function updateFightStatsPanelRight(this: void, panel: Control): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating FightStatsPanelRight")

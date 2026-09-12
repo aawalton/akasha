@@ -1,14 +1,5 @@
-import "akasha/temper/combat-addon/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"
 
-import type { SelectionRowControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
-import {
-  getCurrentFight,
-  getFightData,
-  getSelections,
-  UNCOLLAPSED_BUFFS,
-  type UpdatableControl,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import { updateReport } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type { BuffRowControl } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import {
@@ -19,6 +10,15 @@ import {
   postBuffUptime as postBuffUptimeToChat,
   postToChat,
 } from "akasha/temper/combat-addon/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
+import type { SelectionRowControl } from "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
+import {
+  getCurrentFight,
+  getFightData,
+  getSelections,
+  UNCOLLAPSED_BUFFS,
+  type UpdatableControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import { updateReport } from "akasha/temper/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
 
 let FAVS: Record<string, boolean | undefined> = {}
 let buffname: string | undefined

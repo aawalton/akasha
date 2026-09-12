@@ -1,11 +1,11 @@
-import type { BarsPanelControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
-import type { UpdatableControl } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { isLabelControl } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import type { BarsPanelControl } from "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
+import type { UpdatableControl } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 export interface ActivePanelControl extends UpdatableControl {
   active?: UpdatableControl

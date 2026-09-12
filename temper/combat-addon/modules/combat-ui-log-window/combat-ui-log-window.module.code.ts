@@ -1,13 +1,13 @@
-import {
-  getCurrentCLPage,
-  setCurrentCLPage,
-  type UpdatableControl,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   addColoredText,
   type TooltipCarrier,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  getCurrentCLPage,
+  setCurrentCLPage,
+  type UpdatableControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 export interface CombatLogWindowControl extends Control {
   AddColoredText?: typeof addColoredText

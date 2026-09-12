@@ -1,4 +1,3 @@
-import { initializeUI } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
 import { initializeActions } from "akasha/temper/combat-addon/modules/combat-actions-init/combat-actions-init.module.code.ts"
 import {
   setInCombat,
@@ -26,6 +25,7 @@ import {
   initializeSavedVariables,
 } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { registerSlashCommands } from "akasha/temper/combat-addon/modules/combat-slash-commands/combat-slash-commands.module.code.ts"
+import { initializeUI } from "akasha/temper/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
 
 export function initializeCore(): undefined {
   const db = initializeSavedVariables()

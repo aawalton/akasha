@@ -1,10 +1,10 @@
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   getCurrentFight,
   getLastSelections,
   getSelections,
   type SelectionTable,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 export type SelectType = "ability" | "unit" | "buff" | "resource"
 

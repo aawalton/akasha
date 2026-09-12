@@ -1,14 +1,5 @@
 import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
 import "akasha/temper/combat-addon/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
-import { updateResourcePanel } from "akasha/temper/combat-addon/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"
-import type { UpdatableControl } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import {
-  updateFightStatsPanel,
-  updateFightStatsPanelLeft,
-} from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
-import { updateFightStatsPanelRight } from "akasha/temper/combat-addon/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"
-import { updateTitlePanel } from "akasha/temper/combat-addon/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"
-import { updateUnitPanel } from "akasha/temper/combat-addon/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { updateAbilityPanel } from "akasha/temper/combat-addon/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"
 import { updateBuffPanel } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel-update/combat-ui-buff-panel-update.module.code.ts"
@@ -48,6 +39,15 @@ import {
   initPlotWindow,
 } from "akasha/temper/combat-addon/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"
 import type { PlotWindowControl } from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { updateResourcePanel } from "akasha/temper/combat-addon/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"
+import type { UpdatableControl } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  updateFightStatsPanel,
+  updateFightStatsPanelLeft,
+} from "akasha/temper/combat-addon/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import { updateFightStatsPanelRight } from "akasha/temper/combat-addon/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"
+import { updateTitlePanel } from "akasha/temper/combat-addon/modules/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"
+import { updateUnitPanel } from "akasha/temper/combat-addon/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"
 
 function maxStatName(this: void): string {
   const [, magicka] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_MAGICKA)

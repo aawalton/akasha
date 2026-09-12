@@ -1,10 +1,3 @@
-import type { BarsPanelControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
-import {
-  getDx,
-  getFightData,
-  getSelections,
-  UNCOLLAPSED_BUFFS,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -28,6 +21,13 @@ import {
   adjustRowSize,
   resetBars,
 } from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import type { BarsPanelControl } from "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
+import {
+  getDx,
+  getFightData,
+  getSelections,
+  UNCOLLAPSED_BUFFS,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 interface BuffRowData {
   buffName?: string

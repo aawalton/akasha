@@ -1,12 +1,3 @@
-import type {
-  BarsPanelControl,
-  SelectionRowControl,
-} from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
-import {
-  getDx,
-  getFightData,
-  getSelections,
-} from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -21,6 +12,15 @@ import {
   resetBars,
   setChildText,
 } from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import type {
+  BarsPanelControl,
+  SelectionRowControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
+import {
+  getDx,
+  getFightData,
+  getSelections,
+} from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 
 export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating UnitPanel")
