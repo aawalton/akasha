@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { MARKED, rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import {
+  MARKED,
+  ROOT_NAMED,
+  rootIn,
+  rootOf,
+} from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { CLI_UNDER } from "akasha/commands/modules/rooting/rooting.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
@@ -49,4 +54,15 @@ test("a folder named akasha holding no domain page is no root", () => {
 
 test("a path outside every akasha folder is refused rather than answered", () => {
   expect(() => rootOf("/")).toThrow(REFUSED)
+})
+
+test("a root the environment states is the root over the one walked up to", () => {
+  const root = checkoutMade()
+  expect(rootIn({ [ROOT_NAMED]: "/elsewhere" }, join(root, CLI_UNDER))).toBe("/elsewhere")
+})
+
+test("a root stated as nothing is no root stated", () => {
+  const root = checkoutMade()
+  expect(rootIn({ [ROOT_NAMED]: "" }, join(root, CLI_UNDER))).toBe(root)
+  expect(rootIn({}, join(root, CLI_UNDER))).toBe(root)
 })

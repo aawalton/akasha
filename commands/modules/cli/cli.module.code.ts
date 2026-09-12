@@ -1,13 +1,12 @@
 import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
-import { resolve } from "node:path"
 import { mendedFor } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { UNCLASSIFIED } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { commitAuthor } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export type Said = {
@@ -21,10 +20,9 @@ export function outsideOf(
   at: string,
   from: string
 ): Outside {
-  const stated = env["AKASHA_ROOT"]
   const said = env["AKASHA_WRITER"]
   return {
-    root: stated === undefined || stated === "" ? rootOf(at) : resolve(stated),
+    root: rootIn(env, at),
     calledAs: "akasha",
     from,
     writer: said === undefined || said === "" ? commitAuthor(env) : said,

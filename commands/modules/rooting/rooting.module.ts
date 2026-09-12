@@ -30,5 +30,17 @@ export const rooting = {
       invariantKind: "departure",
       statement: "The name of the file marking a root is said here alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A root the environment states is the root over the one walked up to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root stated as nothing is no root stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name the environment states a root under is said here alone.",
+    },
   ],
 } as const satisfies Module

@@ -38,14 +38,8 @@ writeFileSync(join(ROOT_AT, MARKED), "")
 
 const AT = join(ROOT_AT, "thrumming/cli/thrum-cli.module.code.ts")
 
-test("a stated root wins over where the dispatcher is", () => {
-  const said = outsideOf({ AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
-  expect(said.root).toBe("/elsewhere")
-})
-
-test("an empty stated root is treated as none stated", () => {
-  const said = outsideOf({ AKASHA_ROOT: "" }, AT, "/nowhere")
-  expect(said.root).toBe(ROOT_AT)
+test("the root a call is answered against is the one rooting reads", () => {
+  expect(outsideOf({}, AT, "/nowhere").root).toBe(ROOT_AT)
 })
 
 test("a commit is authored as Claude when no agent and no writer are stated", () => {
