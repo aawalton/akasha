@@ -47,7 +47,7 @@ export const athenaCommandModules = {
       statement:
         "`cli` prints an answer and gives that answer an exit code, and does nothing else.",
       workingMemory:
-        "`cli.module.ts:7` says that already. Around the one `calling` at `:68` sit root resolution at `outsideOf:28-41`, git authorship through `commitAuthor` at `:38`, hook links mended at `mendedFor:47-57`, fault catching at `:59-74`, and a byte write retrying EAGAIN at `spilled:77-89`. Each belongs to a domain that owns it.\n",
+        "Root resolution, git authorship, fault shaping and the retrying byte write are gone from `cli`: `rootIn` in `rooting`, `authorIn` in `commit-author`, `unclassified` in `answering`, `writtenWhole` in `utils/fs/whole-writing`. Mending the hook links is the one job left, and it is neither printing an answer nor giving that answer an exit code — but `cli` is the only place every run reaches, and `hook-links` cannot trigger itself. Does that chore stay?\n",
     },
     {
       statement:
