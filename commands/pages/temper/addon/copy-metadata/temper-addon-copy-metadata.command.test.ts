@@ -4,6 +4,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   copiedBy,
   type Named,
@@ -14,6 +15,14 @@ const NAMED: Named = {
   root: "/nowhere",
   dir: "/nowhere/temper/addons/one",
   canonicalName: "TemperOne",
+}
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha temper addon copy-metadata",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
 }
 
 const UNDER = "/nowhere/temper/addon-build/dist/TemperOne"
@@ -52,17 +61,25 @@ test("a run that wrote more than one file names each of them in turn", async () 
 })
 
 test("a call naming no addon is refused rather than answered with a default", async () => {
-  const said = await temperAddonCopyMetadata([])
+  const said = await temperAddonCopyMetadata([], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain("name the addon whose metadata is copied with --addon")
+  expect(said.refusals.join("\n")).toContain("takes `--addon`, and nothing said it")
 })
 
 test("two addons named in one call are refused rather than the first one copied", async () => {
-  const said = await temperAddonCopyMetadata(["--addon", "TemperOne", "--addon", "TemperTwo"])
+  const said = await temperAddonCopyMetadata(
+    ["--addon", "TemperOne", "--addon", "TemperTwo"],
+    GIVEN
+  )
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain(
-    "one addon's metadata is copied at a time, and TemperOne, TemperTwo names several"
-  )
+  expect(said.refusals.join("\n")).toContain("`--addon` is said twice, and one call says it once")
+})
+
+test("a flag this takes no argument for is refused rather than passed over", async () => {
+  const said = await temperAddonCopyMetadata(["--addon", "TemperOne", "--json"], GIVEN)
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("`--json` is no argument")
 })
