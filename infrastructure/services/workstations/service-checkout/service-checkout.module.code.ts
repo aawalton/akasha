@@ -1,5 +1,5 @@
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 export function checkoutAt(): string {
-  return optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  return rootStated(process.env) ?? process.cwd()
 }
