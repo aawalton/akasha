@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  OPERATIONAL,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Read } from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
 import { mobileSimTap } from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
 
 const AT_A_POINT = ["--x", "10", "--y", "20"]
@@ -31,4 +35,80 @@ test("the context switch and the tap are named apart rather than as one thing", 
 
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toContain(`${SWITCHED}; the element was tapped`)
+})
+
+test("a call naming neither an element nor a point is refused", async () => {
+  const said = await mobileSimTap([])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--selector")
+  expect(said.refusals[0]).toContain("--x")
+})
+
+test("an across with no down is refused rather than tapped at half a point", async () => {
+  const said = await mobileSimTap(["--x", "10"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--y")
+})
+
+test("a down with no across is refused rather than tapped at half a point", async () => {
+  const said = await mobileSimTap(["--y", "20"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--x")
+})
+
+test("an element and a point named together are refused rather than chosen between", async () => {
+  const said = await mobileSimTap(["--selector", "#go", "--x", "10"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--selector")
+  expect(said.refusals[0]).toContain("--x")
+})
+
+test("an across that is no whole number is refused", async () => {
+  const said = await mobileSimTap(["--x", "over", "--y", "20"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--x")
+  expect(said.refusals[0]).toContain("over")
+})
+
+test("a down that is no whole number is refused", async () => {
+  const said = await mobileSimTap(["--x", "10", "--y", "down"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--y")
+  expect(said.refusals[0]).toContain("down")
+})
+
+test("a bare word is refused, since this names every argument at a flag", async () => {
+  const said = await mobileSimTap(["#go"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("#go")
+})
+
+test("a point is handed over as numbers rather than as the words said", async () => {
+  const seen: Read[] = []
+  const tapping = (_done: string[], read: Read) => {
+    seen.push(read)
+    return Promise.resolve(told([]))
+  }
+
+  await mobileSimTap(["--x", "10", "--y", "20"], tapping)
+  expect(seen).toEqual([{ x: 10, y: 20 }])
+})
+
+test("an element is handed over as the selector said", async () => {
+  const seen: Read[] = []
+  const tapping = (_done: string[], read: Read) => {
+    seen.push(read)
+    return Promise.resolve(told([]))
+  }
+
+  await mobileSimTap(["--selector", "#go"], tapping)
+  expect(seen).toEqual([{ selector: "#go" }])
 })
