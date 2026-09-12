@@ -72,6 +72,10 @@ export const weighBashCall = {
     },
     {
       invariantKind: "departure",
+      statement: "A group named for a process still running is left where it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A call this could not weigh is handed back unchanged rather than refused.",
     },
     {

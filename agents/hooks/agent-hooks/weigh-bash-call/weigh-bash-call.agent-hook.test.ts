@@ -7,6 +7,7 @@ import {
   headFor,
   quoted,
   scriptAt,
+  weighingPid,
   wrappedFor,
 } from "akasha/agents/hooks/agent-hooks/weigh-bash-call/weigh-bash-call.agent-hook.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
@@ -78,6 +79,17 @@ test("a call running subshells is weighed once", () => {
   const at = join(scratch.rootFor("weigh-"), "out.jsonl")
   expect(weighed("( echo one ); x=$(echo two); echo $x", at).code).toBe(0)
   expect(readFileSync(at, "utf8").trim().split("\n").length).toBe(1)
+})
+
+test("the process a group is named for is read off that group's name", () => {
+  expect(weighingPid("akasha-call-1234")).toBe(1234)
+  expect(weighingPid(`akasha-call-${process.pid}`)).toBe(process.pid)
+})
+
+test("a group whose name carries no process is read as naming none", () => {
+  expect(weighingPid("akasha-call-")).toBe(null)
+  expect(weighingPid("akasha-call-abc")).toBe(null)
+  expect(weighingPid("akasha-call-12x")).toBe(null)
 })
 
 test("a payload naming no command is left alone", () => {

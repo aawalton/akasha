@@ -15,6 +15,7 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { pidAliveOrAssumeAlive } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 const SCRIPT_TYPE = "shell-script"
 
@@ -37,6 +38,8 @@ const MOUNT = "/sys/fs/cgroup"
 const OWN = "/proc/self/cgroup"
 
 const LEFT = "akasha-call-"
+
+const DIGITS = /^\d+$/
 
 const QUOTE = "'"
 
@@ -72,6 +75,11 @@ export function scriptAt(root: string): string | null {
   return existsSync(at) ? at : null
 }
 
+export function weighingPid(named: string): number | null {
+  const tail = named.slice(LEFT.length)
+  return DIGITS.test(tail) ? Number(tail) : null
+}
+
 export function leftSwept(): undefined {
   let own = ""
   try {
@@ -89,6 +97,8 @@ export function leftSwept(): undefined {
   }
   for (const one of held) {
     if (!one.startsWith(LEFT)) continue
+    const pid = weighingPid(one)
+    if (pid !== null && pidAliveOrAssumeAlive(pid)) continue
     try {
       rmdirSync(join(parent, one))
     } catch {}
