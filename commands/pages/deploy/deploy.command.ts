@@ -25,16 +25,7 @@ export const deploy = {
     "module/deploy-bundle-publishing",
     "module/deploy-tree-pinning",
   ],
-  taking: [
-    {
-      said: "--simulator",
-      takes: "install an ios app on a simulator rather than hand it to Apple",
-    },
-    {
-      said: "--device",
-      takes: "install an ios app on the phone its page names rather than hand it to Apple",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -254,5 +245,7 @@ export const deploy = {
     { argument: "argument/no-upload" },
     { argument: "argument/ref" },
     { argument: "argument/measured" },
+    { argument: "argument/simulator", notWith: ["argument/device"] },
+    { argument: "argument/device", notWith: ["argument/simulator"] },
   ],
 } as const satisfies Command
