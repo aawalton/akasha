@@ -38,10 +38,13 @@ import {
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import { type Answer, answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { NO_PAGE, saidOf } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+import {
+  NO_PAGE,
+  saidOf,
+  stalling,
+} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import { underIts } from "akasha/commands/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -292,7 +295,7 @@ export async function appending(
     try {
       said = await over(worldFor(root, had, before))
     } catch (thrown) {
-      answer = refusedBy([whyOf(thrown)], OPERATIONAL)
+      answer = stalling(root, had, thrown)
       return had
     }
     if (said.refused !== null) {

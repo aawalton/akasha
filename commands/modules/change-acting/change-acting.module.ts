@@ -170,5 +170,35 @@ export const changeActing = {
       invariantKind: "absence",
       statement: "Nothing here lands.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An edit kept that no longer fits its body refuses by that edit rather than by the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names which edit of how many kept went stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the path it names is the stale edit's rather than the call's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the edits kept beside it are held back rather than at fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the drop over that one path rather than over every edit kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An edit kept that went stale is a fault of the data rather than an operational one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A throw that no edit kept accounts for is said as it was thrown.",
+    },
   ],
 } as const satisfies Module

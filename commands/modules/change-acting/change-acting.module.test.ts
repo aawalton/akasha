@@ -1,10 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  dropping,
   listingKept,
   noPageSaid,
+  staleIn,
+  stalling,
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   DROPS,
+  droppedPathIn,
   droppingPiped,
   KEPT_LANDS,
   KEPT_ONE,
@@ -15,10 +24,48 @@ import {
   PAGE,
   presenceIn,
   repo,
+  rowsKept,
+  STALE_AT,
+  staleKept,
+  thrownBy,
 } from "akasha/commands/modules/change-acting/change-acting.module.test-fixtures.ts"
 import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
+
+test("an edit kept that no longer fits its body is named by that edit rather than by the page", () => {
+  const root = staleKept(repo())
+  const rows = rowsKept(root)
+
+  const said = stalling(root, rows, thrownBy(root, rows))
+
+  const why = said.refusals.join("\n")
+  expect(said.code).toBe(DATA)
+  expect(why).toContain("edit 2 of the 3 edits kept")
+  expect(why).toContain(`that edit changes ${STALE_AT}`)
+  expect(why).toContain("holds no such passage")
+  expect(why).toContain("the 2 edits kept beside it are held back rather than at fault")
+})
+
+test("the drop that refusal names leaves the edits kept beside the stale one replaying", () => {
+  const root = staleKept(repo())
+  const rows = rowsKept(root)
+  const said = stalling(root, rows, thrownBy(root, rows))
+
+  expect(dropping(root, PAGE, [droppedPathIn(said)]).code).toBe(OK)
+
+  const left = rowsKept(root)
+  expect(left.length).toBe(2)
+  expect(staleIn(root, left)).toBe(null)
+  expect(thrownBy(root, left)).toBe(null)
+})
+
+test("a throw that no edit kept accounts for is said as it was thrown", () => {
+  const said = stalling(repo(), [], new Error("the body would not open"))
+
+  expect(said.code).toBe(OPERATIONAL)
+  expect(said.refusals).toEqual(["the body would not open"])
+})
 
 for (const one of DROPS) {
   test(one.name, () => {

@@ -2,8 +2,11 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
+  bodyIn,
   editsIn,
+  foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { addedTo, ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -14,7 +17,10 @@ import {
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import {
+  indexedRepo,
+  NAMER_CODE,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 const PRESENCE_AT = "akasha/subagent-presence.module.ts"
 
@@ -89,6 +95,42 @@ export function keeping(root: string): string {
     { kind: "remove", path: KEPT_TWO },
   ])
   return root
+}
+
+export const STALE_AT = NAMER_CODE
+
+const BEFORE_IT = "akasha/three/before.md"
+
+const AFTER_IT = "akasha/three/after.md"
+
+const NEVER_HELD = "a passage this body has never held"
+
+export function staleKept(root: string): string {
+  appendEdits(root, PAGE, [
+    { kind: "add", path: BEFORE_IT, content: "one\n" },
+    { kind: "replace", path: STALE_AT, contentFrom: NEVER_HELD, contentTo: "mended" },
+    { kind: "add", path: AFTER_IT, content: "two\n" },
+  ])
+  return root
+}
+
+export function rowsKept(root: string): readonly FileChange[] {
+  return rowsIn(root, PAGE)
+}
+
+export function thrownBy(root: string, rows: readonly FileChange[]): unknown {
+  try {
+    addedTo(ledgerAt(root, bodyIn(root)), foldedIn(rows))
+    return null
+  } catch (thrown) {
+    return thrown
+  }
+}
+
+const DROP_AT = /^ {2}at: (.+)$/m
+
+export function droppedPathIn(said: Answer): string {
+  return DROP_AT.exec(said.refusals.join("\n"))?.[1] ?? ""
 }
 
 export function droppingPiped(root: string, said: Piping): Answer {

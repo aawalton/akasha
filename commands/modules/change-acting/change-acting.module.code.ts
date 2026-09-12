@@ -1,19 +1,24 @@
+import { leftAt, replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
+  bodyIn,
   editsIn,
   keptEdits,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
+  DATA,
   OPERATIONAL,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
@@ -71,6 +76,62 @@ export function saidOf(one: FileChange): string {
   if (one.kind === "add") return `adds ${one.path}`
   if (one.kind === "append") return `puts lines at the end of ${one.path}`
   return `changes ${one.path}`
+}
+
+export type Stale = {
+  readonly at: number
+  readonly one: FileChange
+  readonly why: string
+}
+
+export function staleIn(root: string, had: readonly FileChange[]): Stale | null {
+  const bodyOf = bodyIn(root)
+  for (let at = 0; at < had.length; at += 1) {
+    const one = had[at]
+    if (one === undefined) continue
+    const held = replayed({ edits: had.slice(0, at + 1), refused: null }, bodyOf)
+    if ("refused" in held) return { at, one, why: held.refused }
+  }
+  return null
+}
+
+const STOPS_THERE =
+  "no longer fits the body it was drafted against, so the replay of the edits kept stops" +
+  " there and this call keeps nothing"
+
+const ITS_OWN_PATH =
+  "the path in the line under this one is that edit's own, rather than the path this call was handed"
+
+const HELD_BACK =
+  "kept beside it are held back rather than at fault — a replay refusing anywhere lands nothing"
+
+const DROP_NAMED =
+  "a drop naming that one path takes the stale edit away and leaves every other edit kept:"
+
+const DROP_OPENS = "  akasha change drop <<'HEREDOC'"
+
+const DROP_SHUTS = "  HEREDOC"
+
+const DRAFT_AGAIN =
+  "then draft again against the body as it now reads. `all: true` would take every edit kept" +
+  " away rather than the one that went stale."
+
+export function stalling(root: string, had: readonly FileChange[], thrown: unknown): Answer {
+  const stale = staleIn(root, had)
+  if (stale === null) return refusedBy([whyOf(thrown)], OPERATIONAL)
+  const rest = had.length - 1
+  return refusedBy(
+    [
+      `edit ${String(stale.at + 1)} of the ${counted(had.length, "edit")} kept beside this` +
+        ` agent's page ${STOPS_THERE}`,
+      `that edit ${saidOf(stale.one)} — ${ITS_OWN_PATH}:\n  ${stale.why}`,
+      ...(rest === 0 ? [] : [`the ${counted(rest, "edit")} ${HELD_BACK}`]),
+      [DROP_NAMED, "", DROP_OPENS, `  at: ${leftAt(stale.one)}`, DROP_SHUTS, "", DRAFT_AGAIN].join(
+        "\n"
+      ),
+    ],
+    DATA
+  )
 }
 
 function namedIn(one: FileChange, at: readonly string[]): boolean {
