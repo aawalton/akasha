@@ -2,13 +2,8 @@ import {
   raiseMessages,
   sentIn,
 } from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
-import {
-  OPERATIONAL,
-  partWay,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
@@ -101,14 +96,10 @@ export function marking(
 export async function seatMessaged(argv: readonly string[], given: Given): Promise<Answer> {
   const name = argv[0]
   if (name === undefined || name === "") return mistaking([NO_NAME])
-  const slug = personaIn(seatedIn(given.root), name)
-  if (slug === null) return mistaking([noSeat(name)])
-  const at = new Date()
-  const persona = personaOr(given.root, slug)
-  const done: string[] = []
-  try {
-    return marking(given.root, slug, persona, at, done)
-  } catch (thrown) {
-    return { report: done, refusals: [whyOf(thrown), ...partWay(done)], code: OPERATIONAL }
-  }
+  return await answering((done) => {
+    const slug = personaIn(seatedIn(given.root), name)
+    if (slug === null) return mistaking([noSeat(name)])
+    const persona = personaOr(given.root, slug)
+    return marking(given.root, slug, persona, new Date(), done)
+  })
 }

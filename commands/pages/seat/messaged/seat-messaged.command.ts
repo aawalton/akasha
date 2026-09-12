@@ -67,6 +67,14 @@ export const seatMessaged = {
       invariantKind: "departure",
       statement: "A run that stopped before it kept a mark is refused as the fault alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat index that would not read is refused here rather than left unanswered.",
+    },
   ],
   name: "messaged",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
