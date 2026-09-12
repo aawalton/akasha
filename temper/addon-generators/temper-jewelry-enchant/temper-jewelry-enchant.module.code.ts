@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   renderConstEffect,
   renderEffects,
@@ -119,7 +120,7 @@ export function generateTemperJewelryEnchant(rows: readonly Page[]): string {
  * \`potion-speed\`. \`no-enchant\` is omitted because it has no quality
  * scaling.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type {

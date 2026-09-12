@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   renderEffects,
   renderPlainEffect,
@@ -137,7 +138,7 @@ export function generateTemperJewelryTrait(rows: readonly Page[]): string {
  * synthetic \`"triune-health"\` / \`"triune-resource"\` keys the legacy
  * consumer expects.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { JewelryTraitQualityValues, JewelryTraitTemplate } from "../jewelry-traits-data"
