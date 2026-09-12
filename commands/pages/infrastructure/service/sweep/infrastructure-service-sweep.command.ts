@@ -51,6 +51,18 @@ export const infrastructureServiceSweep = {
       statement: "A dry run reports the same plan the run would carry out.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each unit is named as soon as systemd has taken that unit away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep that threw part way names those units in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The sweeping this runs is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here is installed for the whole machine.",
     },
