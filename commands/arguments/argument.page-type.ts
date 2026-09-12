@@ -14,6 +14,7 @@ export const argument = {
     "text-property/said",
     "text-property/takes",
     "relation-property/argument",
+    "module/argument-taking",
   ],
   properties: [
     { pageProperty: "text-property/said", required: true, many: false },
