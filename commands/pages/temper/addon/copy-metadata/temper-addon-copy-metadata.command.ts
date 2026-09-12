@@ -16,6 +16,11 @@ export const temperAddonCopyMetadata = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Copying for an addon nobody named would overwrite build output nobody asked about.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The load order is written before anything is copied.",
     },
     {

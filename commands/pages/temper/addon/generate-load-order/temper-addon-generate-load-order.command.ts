@@ -16,6 +16,11 @@ export const temperAddonGenerateLoadOrder = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Writing a load order for an addon nobody named would overwrite build output nobody asked about.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The manifest is written from the addon's own declaration.",
     },
     {
