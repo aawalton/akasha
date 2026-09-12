@@ -1,6 +1,7 @@
 import * as fs from "node:fs"
 import * as os from "node:os"
 import * as path from "node:path"
+import { commandServer } from "akasha/code/editor/extension/command-server/command-server.module.ts"
 import {
   askServed,
   type Serving,
@@ -13,12 +14,15 @@ export function akashaRoot(): string {
   return rootStated(process.env) ?? path.join(os.homedir(), "repos", "akasha")
 }
 
-const SERVER_IN = "code/editor/extension/command-server"
-
-const SERVER_FILE = "command-server.module.code.ts"
+const SERVER_IN = "code/editor/extension"
 
 export function serverPath(): string {
-  return path.join(akashaRoot(), SERVER_IN, SERVER_FILE)
+  return path.join(
+    akashaRoot(),
+    SERVER_IN,
+    commandServer.slug,
+    `${commandServer.slug}.module.code.ts`
+  )
 }
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), ".bun", "bin")]

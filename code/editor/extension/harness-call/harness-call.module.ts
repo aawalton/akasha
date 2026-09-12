@@ -102,6 +102,10 @@ export const harnessCall = {
       statement: "Nothing the editor loads reads the index, because reading one needs bun.",
     },
     {
+      invariantKind: "departure",
+      statement: "The command server's file is named from that server's own page.",
+    },
+    {
       invariantKind: "stopgap",
       statement: "The folder the command server sits in is spelled here.",
     },
