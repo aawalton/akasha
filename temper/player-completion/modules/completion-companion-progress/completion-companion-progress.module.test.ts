@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import {
   transformCharacterCompanionRapport,
   transformCompanionProgress,
-} from "akasha/temper/player-completion/completion-companion-progress/completion-companion-progress.module.code.ts"
-import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts"
 
 const DEFID_BASTIAN = 1
 const DEFID_MIRRI = 2

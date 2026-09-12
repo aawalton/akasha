@@ -1,7 +1,3 @@
-import {
-  transformCharacterCompanionRapport,
-  transformCompanionProgress,
-} from "akasha/temper/player-completion/completion-companion-progress/completion-companion-progress.module.code.ts"
 import { transformCompanionQuestProgress } from "akasha/temper/player-completion/completion-quest-progress/completion-quest-progress.module.code.ts"
 import { buildCompanionSummary } from "akasha/temper/player-completion/completion-summary-companion/completion-summary-companion.module.code.ts"
 import type {
@@ -13,6 +9,10 @@ import type {
 import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import { transformCompanionQuestUnion } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type { CompanionSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import {
+  transformCharacterCompanionRapport,
+  transformCompanionProgress,
+} from "akasha/temper/player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts"
 import type {
   useCompletionCharacters,
   useCompletionCompanions,
