@@ -7,8 +7,8 @@ import { openRosterGallery } from "akasha/alan/web/roster-gallery-store/roster-g
 import {
   type CoverClickContext,
   registerCoverClickHandler,
-} from "akasha/pages/ui/cover-click/cover-click-registry/cover-click-registry.module.code.ts"
-import { registerCoverMask } from "akasha/pages/ui/cover-click/cover-mask-registry/cover-mask-registry.module.code.ts"
+} from "akasha/pages/ui/cover-click/modules/cover-click-registry/cover-click-registry.module.code.ts"
+import { registerCoverMask } from "akasha/pages/ui/cover-click/modules/cover-mask-registry/cover-mask-registry.module.code.ts"
 import { z } from "zod"
 
 const coverCardSchema = z.object({ cardSlug: z.string().min(1), lockState: z.string() }).partial()
