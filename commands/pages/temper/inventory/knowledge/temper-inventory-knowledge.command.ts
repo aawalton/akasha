@@ -6,12 +6,7 @@ export const temperInventoryKnowledge = {
   slug: "temper-inventory-knowledge",
   definition: "the command giving back what each character knows of recipes, motifs and scripts",
   code: "ts",
-  taking: [
-    {
-      said: "--item-key <kind>:<args>",
-      takes: "ask instead whether each character knows one recipe, motif or script",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -40,5 +35,6 @@ export const temperInventoryKnowledge = {
     { argument: "argument/json" },
     { argument: "argument/characters-path" },
     { argument: "argument/char" },
+    { argument: "argument/item-key" },
   ],
 } as const satisfies Command
