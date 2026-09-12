@@ -9,8 +9,6 @@ export const musicRate = {
   test: "ts",
   taking: [
     { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
-
-    { said: "--insights <md>", takes: "what Alan found in a song, for `--target song`" },
   ],
   invariants: [
     {
@@ -68,5 +66,6 @@ export const musicRate = {
     { argument: "argument/insights-file" },
     { argument: "argument/reaction", notWith: ["argument/reaction-file"] },
     { argument: "argument/personal-connections", notWith: ["argument/personal-connections-file"] },
+    { argument: "argument/insights", notWith: ["argument/insights-file"] },
   ],
 } as const satisfies Command
