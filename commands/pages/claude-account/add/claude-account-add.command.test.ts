@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Asked,
-  type Filing,
   filedBy,
   readIn,
   slotFrom,
@@ -24,13 +24,6 @@ const LANDED = "committed as 346ea7067fc"
 
 const SWEPT = "moved the tree it landed onto"
 
-function filing(wrote: readonly string[], thrown: Error): Filing {
-  return async (_read, _given, done) => {
-    for (const one of wrote) done.push(one)
-    throw thrown
-  }
-}
-
 test("an account named twice over is refused", () => {
   const read = readIn(["one", "two", "--email", "a@b.c"])
   if (!("refused" in read)) throw new Error("this was taken")
@@ -42,7 +35,9 @@ test("a slot another account holds is refused rather than shared", () => {
 })
 
 test("a run that threw after the commit landed names that commit", async () => {
-  const said = await filedBy(ASKED, HERE, filing([LANDED], new Error("the tree would not move")))
+  const held = throwingAfter([LANDED], new Error("the tree would not move"))
+
+  const said = await filedBy(ASKED, HERE, held)
 
   const refused = said.refusals.join(" ")
   expect(said.report).toEqual([LANDED])
@@ -51,18 +46,18 @@ test("a run that threw after the commit landed names that commit", async () => {
 })
 
 test("a run that threw before the commit landed says nothing of a commit", async () => {
-  const said = await filedBy(ASKED, HERE, filing([], new Error("the index would not open")))
+  const held = throwingAfter([], new Error("the index would not open"))
+
+  const said = await filedBy(ASKED, HERE, held)
 
   expect(said.report).toEqual([])
   expect(said.refusals.join(" ")).not.toContain("stopped part way")
 })
 
 test("a run that threw names each thing it did in the order it did them", async () => {
-  const said = await filedBy(
-    ASKED,
-    HERE,
-    filing([LANDED, SWEPT], new Error("the answer would not compose"))
-  )
+  const held = throwingAfter([LANDED, SWEPT], new Error("the answer would not compose"))
+
+  const said = await filedBy(ASKED, HERE, held)
 
   const refused = said.refusals.join(" ")
   expect(refused.indexOf(LANDED)).toBeLessThan(refused.indexOf(SWEPT))
@@ -72,7 +67,7 @@ test("a run that threw names each thing it did in the order it did them", async 
 test("a run that threw carries the kind that throw names rather than one spelled here", async () => {
   const thrown = new InputError("the address is no address")
 
-  const said = await filedBy(ASKED, HERE, filing([LANDED], thrown))
+  const said = await filedBy(ASKED, HERE, throwingAfter([LANDED], thrown))
 
   expect(said.code).toBe(1)
   expect(said.code).not.toBe(OPERATIONAL)

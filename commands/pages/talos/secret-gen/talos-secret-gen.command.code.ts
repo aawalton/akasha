@@ -65,9 +65,9 @@ export function readIn(argv: readonly string[]): Read {
   return { cluster: flags.get(CLUSTER) ?? DEFAULT_CLUSTER_NAME, force }
 }
 
-export type Generating = (read: Named, done: string[]) => Promise<Answer>
+export type Generating = (done: string[], read: Named) => Promise<Answer>
 
-async function generated(read: Named, done: string[]): Promise<Answer> {
+async function generated(done: string[], read: Named): Promise<Answer> {
   const destPath = clusterSecretsSopsPath(read.cluster)
   if (existsSync(destPath) && !read.force) {
     return mistaking([
@@ -93,7 +93,7 @@ export async function generatedBy(
   read: Named,
   generating: Generating = generated
 ): Promise<Answer> {
-  return await answering(async (done) => await generating(read, done))
+  return await answering(async (done) => await generating(done, read))
 }
 
 export async function talosSecretGen(argv: readonly string[]): Promise<Answer> {

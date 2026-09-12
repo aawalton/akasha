@@ -7,6 +7,7 @@ export const commandAnswering = {
   definition: "the answer a command hands back, and the code that answer has",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -44,6 +45,11 @@ export const commandAnswering = {
     {
       invariantKind: "departure",
       statement: "A fault with nothing on that list is answered as the fault alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The work a test hands in to name some writes and then throw is built here for every test to reach.",
     },
     {
       invariantKind: "departure",

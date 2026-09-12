@@ -120,9 +120,9 @@ export function slotFrom(held: ReadonlyMap<string, number>, asked: number | null
   return asked
 }
 
-export type Filing = (read: Asked, given: Given, done: string[]) => Promise<Answer>
+export type Filing = (done: string[], read: Asked, given: Given) => Promise<Answer>
 
-async function filedPage(read: Asked, given: Given, done: string[]): Promise<Answer> {
+async function filedPage(done: string[], read: Asked, given: Given): Promise<Answer> {
   const held = aliasIndexesIn(given.root)
   if (held.has(read.account)) {
     return mistaking([`a page already exists for \`${read.account}\`, and this writes over none`])
@@ -165,7 +165,7 @@ export async function filedBy(
   given: Given,
   filing: Filing = filedPage
 ): Promise<Answer> {
-  return await answering(async (done) => await filing(read, given, done))
+  return await answering(async (done) => await filing(done, read, given))
 }
 
 export async function claudeAccountAdd(argv: readonly string[], given: Given): Promise<Answer> {

@@ -6,6 +6,7 @@ export const talosKubeconfig = {
   slug: "talos-kubeconfig",
   definition: "the command fetching a Talos cluster's kubeconfig onto the workstation",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -28,6 +29,18 @@ export const talosKubeconfig = {
     {
       invariantKind: "departure",
       statement: "The folder above the destination is made before the fetch runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fetch that threw after making that folder names the folder it made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder that was already there is named nowhere, because nothing made it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fetch that threw carries the kind of fault the throw names.",
     },
     {
       invariantKind: "departure",
