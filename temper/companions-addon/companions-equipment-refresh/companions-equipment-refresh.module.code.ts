@@ -13,12 +13,6 @@ import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { TEXT_TERTIARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import {
-  ARMOR_SLOTS,
-  type CompanionBuildData,
-  JEWELRY_SLOTS,
-  WEAPON_SLOTS,
-} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
 import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
 import { SLOT_NAMES } from "akasha/temper/companions-addon/companions-display-names/companions-display-names.module.code.ts"
 import {
@@ -49,6 +43,12 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
+import {
+  ARMOR_SLOTS,
+  type CompanionBuildData,
+  JEWELRY_SLOTS,
+  WEAPON_SLOTS,
+} from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {

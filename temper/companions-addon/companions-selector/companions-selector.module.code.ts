@@ -9,14 +9,6 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import {
-  ARMOR_SLOTS,
-  captureCompanionBuild,
-  encodeCompanionBuild,
-  JEWELRY_SLOTS,
-  SKILL_SLOT_INDICES,
-  WEAPON_SLOTS,
-} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/companions-addon/companions-constants/companions-constants.module.code.ts"
 import {
   formatArmorSlot,
@@ -31,6 +23,14 @@ import {
   type SavedCompanionBuild,
   type SavedCompanionEquipmentSlot,
 } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
+import {
+  ARMOR_SLOTS,
+  captureCompanionBuild,
+  encodeCompanionBuild,
+  JEWELRY_SLOTS,
+  SKILL_SLOT_INDICES,
+  WEAPON_SLOTS,
+} from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 export const DROPDOWN_HEIGHT = 30
 const DROPDOWN_WIDTH = 200
 export const DROPDOWN_BOTTOM_MARGIN = 12

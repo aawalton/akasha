@@ -14,7 +14,7 @@ import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import {
   refreshAllCompanionData,
   resetAllCompanionData,
-} from "akasha/temper/companions-addon/companions-commands/companions-commands.module.code.ts"
+} from "akasha/temper/companions-addon/modules/companions-commands/companions-commands.module.code.ts"
 
 globalThis.TemperCompanions_RefreshAllData = refreshAllCompanionData
 globalThis.TemperCompanions_ResetAllData = resetAllCompanionData

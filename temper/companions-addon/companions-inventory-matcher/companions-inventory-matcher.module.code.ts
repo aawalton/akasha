@@ -4,7 +4,7 @@ import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declarati
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import type { CompanionBuildData } from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import type { CompanionBuildData } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 
 export interface InventoryItem {
   bagSlot: number

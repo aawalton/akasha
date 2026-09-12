@@ -19,13 +19,6 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import {
-  ARMOR_SLOTS,
-  type CompanionBuildData,
-  captureCompanionBuild,
-  JEWELRY_SLOTS,
-  WEAPON_SLOTS,
-} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
 import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
 import { SLOT_NAMES } from "akasha/temper/companions-addon/companions-display-names/companions-display-names.module.code.ts"
 import {
@@ -49,6 +42,13 @@ import {
   applyBuild,
   equipUpgrades,
 } from "akasha/temper/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"
+import {
+  ARMOR_SLOTS,
+  type CompanionBuildData,
+  captureCompanionBuild,
+  JEWELRY_SLOTS,
+  WEAPON_SLOTS,
+} from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN

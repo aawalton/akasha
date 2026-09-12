@@ -8,7 +8,7 @@ import {
   makeBitReader,
   readBits,
 } from "akasha/temper/bit-codec/modules/bit-reader/bit-reader.module.code.ts"
-import type { CompanionBuildData } from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import type { CompanionBuildData } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 import {
   ARMOR_WEIGHT_BITS,
   COMPANION_BITS,
@@ -20,7 +20,7 @@ import {
   TARGET_HEALTH_BITS,
   TRAIT_BITS,
   WEAPON_TYPE_BITS,
-} from "akasha/temper/companions-addon/companions-codec-constants/companions-codec-constants.module.code.ts"
+} from "akasha/temper/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.code.ts"
 
 export function decodeCompanionBuild(hash: string): CompanionBuildData | undefined {
   const bytes = base64urlToBytes(hash)
