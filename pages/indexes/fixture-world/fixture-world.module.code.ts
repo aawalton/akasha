@@ -116,7 +116,7 @@ export const named = ${HELD_EXPORT} + 1
 
 const CHANGE_TYPE = "change-mechanical"
 
-const CHANGE_CODE_AT = "../../../changes"
+const CHANGE_CODE_AT = "akasha/changes"
 
 type Reached = { readonly slug: string; readonly type: string; readonly at: string }
 
@@ -164,8 +164,8 @@ const changePage = (reached: Reached, one: number): Held => ({
 
 const changeCode = (reached: Reached): string => {
   const named = `${reached.slug}.${reached.type}.code.ts`
-  const at = join(import.meta.dir, CHANGE_CODE_AT, reached.at, reached.slug, named)
-  return `export { runChange } from "${at}"\n`
+  const said = `${CHANGE_CODE_AT}/${reached.at}/${reached.slug}/${named}`
+  return `export { runChange } from "${Bun.resolveSync(said, import.meta.dir)}"\n`
 }
 
 function changesHeld(): Readonly<Record<string, string>> {

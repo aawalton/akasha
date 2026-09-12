@@ -19,5 +19,15 @@ export const fixtureWorld = {
       invariantKind: "departure",
       statement: "A page's file is named for the page type that page states.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change's code is reached by its package name rather than by folders counted up.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Moving this module changes how many folders up that code sits, and the name none.",
+    },
   ],
 } as const satisfies Module
