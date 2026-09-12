@@ -8,13 +8,7 @@ export const googleDriveFetch = {
     "the command writing one file out of Alan's Google Drive to disk under its Drive name",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<url-or-id>", takes: "the file to fetch, said in place as a share URL or a bare id" },
-    {
-      said: "--source <url-or-id>",
-      takes: "the file to fetch, said as a flag rather than in place",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -59,5 +53,8 @@ export const googleDriveFetch = {
     },
   ],
   name: "fetch",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [
+    { argument: "argument/output" },
+    { argument: "argument/drive-file", required: true, saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
