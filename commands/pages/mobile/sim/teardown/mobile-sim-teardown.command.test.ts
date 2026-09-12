@@ -5,6 +5,7 @@ import {
   answering,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Tearing } from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
 import {
   CLEARED,
@@ -20,6 +21,14 @@ const ENDED = `ended session ${SESSION}`
 const STATE = { appiumBase: "http://mac:4723", sessionId: SESSION } as SimSessionState
 
 const STOPPING = { stopAppium: true }
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha mobile sim teardown",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
 
 function tearing(over: Partial<Tearing> = {}): Tearing {
   return {
@@ -67,7 +76,7 @@ test("a teardown that threw before anything was torn down names nothing", async 
 })
 
 test("a flag this takes no argument at is refused before the session is read", async () => {
-  const said = await mobileSimTeardown(["--bogus"])
+  const said = await mobileSimTeardown(["--bogus"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -76,15 +85,17 @@ test("a flag this takes no argument at is refused before the session is read", a
 })
 
 test("a bare word is refused, since this names every argument at a flag", async () => {
-  const said = await mobileSimTeardown(["appium"])
+  const said = await mobileSimTeardown(["now"], GIVEN)
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("appium")
+  expect(said.refusals[0]).toContain("`now`")
 })
 
 test("a switch named a value is refused rather than read as the switch alone", async () => {
-  const said = await mobileSimTeardown(["--stop-appium=yes"])
+  const said = await mobileSimTeardown(["--stop-appium=yes"], GIVEN)
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--stop-appium")
+  expect(said.refusals[0]).toBe(
+    "`--stop-appium` carries no value, and `--stop-appium=yes` names one"
+  )
 })

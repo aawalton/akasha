@@ -5,32 +5,18 @@ import {
   clearSessionState,
   loadSessionState,
 } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { stopAppium as stopAppiumArgument } from "akasha/commands/arguments/pages/stop-appium.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
-
-const STOP_APPIUM = "--stop-appium"
-
-const SWITCHES = [STOP_APPIUM]
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mobileSimTeardown as page } from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.ts"
 
 export type Read = {
   readonly stopAppium: boolean
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, [], SWITCHES)
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-  return { stopAppium: said.flags.has(STOP_APPIUM) }
 }
 
 export type Tearing = {
@@ -76,8 +62,9 @@ export async function tornDown(
   return told(done)
 }
 
-export async function mobileSimTeardown(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv)
+export async function mobileSimTeardown(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [stopAppiumArgument])
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => await tornDown(read, done))
+  const taken = read.taken
+  return await answering(async (done) => await tornDown({ stopAppium: taken.stopAppium }, done))
 }
