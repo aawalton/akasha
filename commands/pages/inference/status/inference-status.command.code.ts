@@ -18,22 +18,21 @@ export async function inferenceStatus(argv: readonly string[], given: Given): Pr
   const read = takenFor(argv, given.calledAs, page, [])
   if ("refused" in read) return refusedBy(read.refused)
 
-  return await answering(async () => {
-    const report: string[] = []
+  return await answering(async (done) => {
     for (const host of Object.values(HOSTS)) {
-      report.push(`${host.name}\t${host.address}`)
+      done.push(`${host.name}\t${host.address}`)
       const actual = parseActualState(await runSshCapture(targetOf(host), buildQueryScript(host)))
       if (actual.length === 0) {
-        report.push("\t(no managed services)")
+        done.push("\t(no managed services)")
         continue
       }
       for (const one of actual) {
-        report.push(
+        done.push(
           `\t${one.name}\tdir=${one.dirPresent}\tenv=${one.condaEnvPresent}` +
             `\tlaunchd=${one.launchdLoaded}\thash=${one.inputsHash ?? "none"}`
         )
       }
     }
-    return told(report)
+    return told(done)
   })
 }
