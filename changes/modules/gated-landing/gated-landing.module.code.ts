@@ -2,7 +2,10 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { resolveRoots, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export type GatedRepo = "akasha"
 

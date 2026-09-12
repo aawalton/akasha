@@ -1,5 +1,5 @@
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { onceInCall } from "akasha/utils/during-call/during-call.module.code.ts"
 
 const ROLE = "role"

@@ -8,10 +8,10 @@ import {
   SESSIONS_SLUG,
 } from "akasha/alan/track/daily/track-shape/track-shape.module.code.ts"
 import { landTracking } from "akasha/alan/track/landing/track-landing.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   composedFor,
   type Put,

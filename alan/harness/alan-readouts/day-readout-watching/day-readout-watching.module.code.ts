@@ -52,12 +52,12 @@ import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.mod
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
 import { followFolders } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/infrastructure/services/workstations/service-beating/service-beating.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/days/pages"
 

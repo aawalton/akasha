@@ -1,9 +1,9 @@
 import { dlopen, FFIType } from "bun:ffi"
 import { closeSync, readSync, writeSync } from "node:fs"
 import { join } from "node:path"
-import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
 import type { Asked, Held } from "akasha/utils/run/running/running.module.code.ts"
 

@@ -20,9 +20,9 @@ import {
 } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
-import { AKASHA as AKASHA_REPO } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { AKASHA as AKASHA_REPO } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 
 const PUT = "change-mechanical-file/add-if-not-present-file"

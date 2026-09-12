@@ -9,7 +9,10 @@ import {
   openedDayWindow,
 } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-plants"

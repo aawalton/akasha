@@ -14,12 +14,12 @@ import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.m
 import { keepSession } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 import { keepTranscript } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   ownRepoRoot,
   resolveRoots,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { clearRotated } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,

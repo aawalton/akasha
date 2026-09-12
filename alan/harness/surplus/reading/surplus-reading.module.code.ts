@@ -9,7 +9,7 @@ import {
 import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-surplus"
 

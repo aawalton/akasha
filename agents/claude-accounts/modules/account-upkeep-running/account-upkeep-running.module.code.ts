@@ -15,7 +15,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const LOG = "[claude-account-upkeep]"
 const TICK_INTERVAL_MS = UPKEEP_PERIOD_MS

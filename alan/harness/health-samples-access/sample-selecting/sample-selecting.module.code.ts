@@ -9,8 +9,8 @@ import type {
   HealthMetric,
   HealthSampleRecord,
 } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { z } from "zod"
 
 const SAMPLE_ROWS_KEY = "health-samples"

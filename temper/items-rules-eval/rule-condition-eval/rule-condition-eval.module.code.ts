@@ -1,6 +1,4 @@
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import { checkStackFullness } from "akasha/temper/items-rules-eval/check-stack-fullness/check-stack-fullness.module.code.ts"
-import { checkStock } from "akasha/temper/items-rules-eval/check-stock/check-stock.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { checkClassification } from "akasha/temper/items-rules-eval/modules/check-classification/check-classification.module.code.ts"
@@ -13,6 +11,8 @@ import { checkLocation } from "akasha/temper/items-rules-eval/modules/check-loca
 import { checkNumeric } from "akasha/temper/items-rules-eval/modules/check-numeric/check-numeric.module.code.ts"
 import { checkPotionEffects } from "akasha/temper/items-rules-eval/modules/check-potion-effects/check-potion-effects.module.code.ts"
 import type { ConditionCheckResult } from "akasha/temper/items-rules-eval/modules/check-result/check-result.module.code.ts"
+import { checkStackFullness } from "akasha/temper/items-rules-eval/modules/check-stack-fullness/check-stack-fullness.module.code.ts"
+import { checkStock } from "akasha/temper/items-rules-eval/modules/check-stock/check-stock.module.code.ts"
 
 export type ConditionResult =
   | { readonly kind: "pass" }

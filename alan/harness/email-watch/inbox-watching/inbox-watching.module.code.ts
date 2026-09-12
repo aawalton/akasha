@@ -9,7 +9,7 @@ import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PERSON = optionalEnv("EMAIL_WORKER_PERSON") ?? "alan"

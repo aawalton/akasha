@@ -7,7 +7,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { akashaSeatsStated } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 

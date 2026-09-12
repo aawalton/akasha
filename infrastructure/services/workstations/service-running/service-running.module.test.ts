@@ -6,7 +6,7 @@ import {
   reachedFor,
   runNamedService,
 } from "akasha/infrastructure/services/workstations/service-running/service-running.module.code.ts"
-import { checkoutHere } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { checkoutHere } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = process.cwd()
 

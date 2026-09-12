@@ -64,7 +64,7 @@ type Filed = {
 
 const MODULE_VALUES: readonly Filed[] = [
   {
-    path: "pages/checkout-roots/checkout-roots.module.ts",
+    path: "pages/modules/checkout-roots/checkout-roots.module.ts",
     value: {
       id: "01a08299-65c2-7004-8000-000000000004",
       pageTypeSlug: "module",

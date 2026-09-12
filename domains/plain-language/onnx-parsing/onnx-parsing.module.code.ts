@@ -13,9 +13,9 @@ import {
   splitSentences,
   tokenizeWords,
 } from "akasha/domains/plain-language/word-tokenizing/word-tokenizing.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import * as ort from "onnxruntime-node"
 
 export type ParserDescriptor = {

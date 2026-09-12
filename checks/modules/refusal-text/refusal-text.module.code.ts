@@ -1,9 +1,9 @@
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   rootFor,
   rootsHere,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"

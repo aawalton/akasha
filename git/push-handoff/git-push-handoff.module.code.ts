@@ -15,7 +15,7 @@ import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-run
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 import { remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const STATE_DIR = HANDOFF

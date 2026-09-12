@@ -3,7 +3,10 @@ import { movesWithTheAttributes } from "akasha/agents/seats/modules/compose-seat
 import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { refuseSeatName } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
-import { resolveRoots, targetRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  resolveRoots,
+  targetRoot,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export type SeatPresence = "present" | "absent" | "unknown"
 

@@ -5,7 +5,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const TO_DO_PAGE_TYPE_SLUG = "to-do"

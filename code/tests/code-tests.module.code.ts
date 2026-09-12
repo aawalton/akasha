@@ -6,13 +6,13 @@ import {
   mountedOver,
   type Overlay,
 } from "akasha/code/test-overlay/test-overlay.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   AKASHA,
   repos,
   rootEnvName,
   rootsHere,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Said } from "akasha/utils/run/running/running.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"

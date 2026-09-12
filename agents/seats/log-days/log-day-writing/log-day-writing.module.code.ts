@@ -3,11 +3,6 @@ import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
-import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   exportedAs,
@@ -18,6 +13,11 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { listedAt, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 

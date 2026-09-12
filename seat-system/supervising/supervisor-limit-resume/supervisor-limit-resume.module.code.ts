@@ -11,7 +11,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   type AskDecide,
   askLimitResume,

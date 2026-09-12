@@ -3,7 +3,7 @@ import {
   linesAt,
   madeBy,
   pathsIn,
-} from "akasha/commands/pages/measure/checkout-counting/checkout-counting.module.code.ts"
+} from "akasha/commands/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
 
 const TOTAL = "total"
 

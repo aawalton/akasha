@@ -14,12 +14,12 @@ import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { pathOf } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import { page } from "akasha/commands/pages/page/page.namespace.ts"
 import { pageTree as treePage } from "akasha/commands/pages/page/tree/page-tree.command.ts"
-import { AKASHA } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   readingIn,
   type Valued,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { AKASHA } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   slugAt,
   slugsIn,

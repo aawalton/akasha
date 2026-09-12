@@ -1,14 +1,14 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import {
-  AKASHA as AKASHA_REPO,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
   slugsOfType,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  AKASHA as AKASHA_REPO,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 

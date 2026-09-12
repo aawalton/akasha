@@ -3,15 +3,15 @@ import { basename, join } from "node:path"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
 import { landRemovals } from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
 import { besideOf } from "akasha/pages/beside/page-beside.module.code.ts"
-import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { fileStemOf } from "akasha/pages/identity/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7

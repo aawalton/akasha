@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { join } from "node:path"
 import { harnessSettingsAt } from "akasha/agents/settings/harness-settings-reading/harness-settings-reading.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { agentSettings } from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 
 const AGENTS = "agents"

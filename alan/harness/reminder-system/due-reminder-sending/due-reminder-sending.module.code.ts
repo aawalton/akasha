@@ -7,7 +7,7 @@ import {
   nextElapse,
   tookReminder,
 } from "akasha/alan/harness/reminder-system/reminders/modules/sending/reminder-sending.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export function sentSaid(to: string, relPath: string): string {
   return `the message to ${to}, written at ${relPath}, which nothing here takes back`

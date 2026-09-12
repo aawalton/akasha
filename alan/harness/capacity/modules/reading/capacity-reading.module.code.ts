@@ -10,7 +10,7 @@ import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.mod
 import { dayValuesByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-capacity"
 

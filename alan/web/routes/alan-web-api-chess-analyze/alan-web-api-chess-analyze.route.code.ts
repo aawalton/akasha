@@ -1,4 +1,4 @@
-import { stockfishAvailable } from "akasha/alan/chess/engine/chess-engine.module.code.ts"
+import { stockfishAvailable } from "akasha/alan/chess/modules/engine/chess-engine.module.code.ts"
 import { evaluate } from "akasha/alan/chess/position/chess-position.module.code.ts"
 import { parseFen } from "akasha/alan/chess/uci/chess-uci.module.code.ts"
 import { z } from "zod"

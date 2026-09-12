@@ -8,7 +8,7 @@ import {
 } from "akasha/agents/seats/modules/pending/pending-from-files/pending-from-files.module.code.ts"
 import { setPending } from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 

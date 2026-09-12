@@ -13,8 +13,8 @@ import {
   tookSeat,
 } from "akasha/agents/seats/modules/stating/seat-stating.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
-import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
+import { AKASHA, rootFor } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export function akashaSeatRelPath(seatName: string): string {
   return seatPathForName(seatName)

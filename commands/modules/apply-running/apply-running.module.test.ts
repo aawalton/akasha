@@ -22,12 +22,15 @@ import {
 } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
-import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  AKASHA,
+  rootEnvName,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 

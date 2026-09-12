@@ -3,7 +3,7 @@ import {
   linesAt,
   madeBy,
   pathsIn,
-} from "akasha/commands/pages/measure/checkout-counting/checkout-counting.module.code.ts"
+} from "akasha/commands/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
 import { heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { fileKeysAt, pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 

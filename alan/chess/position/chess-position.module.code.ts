@@ -1,4 +1,4 @@
-import { runEngine } from "akasha/alan/chess/engine/chess-engine.module.code.ts"
+import { runEngine } from "akasha/alan/chess/modules/engine/chess-engine.module.code.ts"
 import {
   fenSideToMove,
   isBestMoveLine,

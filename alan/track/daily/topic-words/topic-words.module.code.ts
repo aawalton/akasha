@@ -8,12 +8,12 @@ import {
   writeWisdomWords,
 } from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const WORDS_COUNTED_FROM = "2026-09-06"
 

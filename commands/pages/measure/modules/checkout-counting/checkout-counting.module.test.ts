@@ -7,7 +7,7 @@ import {
   linesIn,
   madeBy,
   pathsIn,
-} from "akasha/commands/pages/measure/checkout-counting/checkout-counting.module.code.ts"
+} from "akasha/commands/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"

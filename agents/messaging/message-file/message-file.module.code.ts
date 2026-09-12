@@ -6,8 +6,11 @@ import {
 } from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
 import { whyRefused } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
-import { AKASHA, akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  AKASHA,
+  akashaRoot,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   composedFor,
   pagesAtFor,

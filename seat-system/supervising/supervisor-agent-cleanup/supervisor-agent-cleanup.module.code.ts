@@ -3,12 +3,12 @@ import {
   DOORS,
   filePushedTo,
 } from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   configDirForAccount,

@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export function codeRoot(): string {
   const stated = process.env.CODE_ROOT

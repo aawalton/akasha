@@ -24,7 +24,7 @@ import {
 import { rotatedTranscriptFor } from "akasha/agents/seats/modules/transcript-rotation/seat-transcript-rotation.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { rotatedOf } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
 
 export interface BeatReport {

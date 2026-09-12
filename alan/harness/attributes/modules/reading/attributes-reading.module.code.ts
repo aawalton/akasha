@@ -22,7 +22,10 @@ import {
 import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const READOUTS = "alan/attributes/readouts"

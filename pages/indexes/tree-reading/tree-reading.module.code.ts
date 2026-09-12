@@ -1,10 +1,10 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   QUARANTINE_ROOT,
   VENDOR_ROOT,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

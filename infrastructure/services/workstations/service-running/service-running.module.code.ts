@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
-import { checkoutHere } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { checkoutHere } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const SERVICE_PAGE_TYPE = "service-workstation"
 

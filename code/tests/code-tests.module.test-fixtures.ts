@@ -1,5 +1,8 @@
 import { RUNNING } from "akasha/code/tests/code-tests.module.code.ts"
-import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  AKASHA,
+  rootEnvName,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

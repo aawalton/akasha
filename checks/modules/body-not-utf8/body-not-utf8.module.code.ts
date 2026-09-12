@@ -4,7 +4,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export function notUtf8(source: string, bytes: Uint8Array): string {
   return refusalText(

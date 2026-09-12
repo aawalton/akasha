@@ -6,7 +6,7 @@ import { pageValuesOf } from "akasha/agents/seats/modules/page-values/seat-page-
 import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { sessionOf } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const TITLE = "title"

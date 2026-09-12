@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import { AKASHA } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { AKASHA } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const KEY = "initiative"
 

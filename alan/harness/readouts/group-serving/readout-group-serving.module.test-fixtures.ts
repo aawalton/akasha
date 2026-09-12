@@ -6,7 +6,7 @@ import {
   stoplightsInGroup,
 } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textIn, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"

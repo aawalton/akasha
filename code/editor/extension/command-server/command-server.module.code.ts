@@ -199,7 +199,9 @@ async function serve(ask: Ask): Promise<undefined> {
       `this server's lease of ${LEASE}ms is up, so it answers nothing more`
     )
   }
-  const { akashaRoot } = await import("akasha/pages/checkout-roots/checkout-roots.module.code.ts")
+  const { akashaRoot } = await import(
+    "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+  )
   const root = akashaRoot()
   let found: Loaded | string
   try {

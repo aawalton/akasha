@@ -7,7 +7,7 @@ import {
   type LiveResource,
   listLive,
 } from "akasha/infrastructure/cluster/manifests/orphan-resource-listing/orphan-resource-listing.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { parseAllDocuments } from "yaml"
 

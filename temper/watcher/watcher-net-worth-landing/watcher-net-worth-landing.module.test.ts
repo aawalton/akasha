@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { akashaHere } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { akashaHere } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   capturedAtOf,
   landNetWorthReading,

@@ -26,7 +26,7 @@ const NAV_SLUG = "nav"
 
 const READING_STORY_SLUG = "reading-story"
 
-const ChessBoard = lazy(() => import("akasha/alan/chess/board/chess-board.module.code.tsx"))
+const ChessBoard = lazy(() => import("akasha/alan/chess/modules/board/chess-board.module.code.tsx"))
 
 const IdleGame = lazy(() => import("akasha/alan/web/idle-game/idle-game.module.code.tsx"))
 

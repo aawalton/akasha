@@ -1,7 +1,10 @@
 "use client"
 import "akasha/alan/chess/board-look/chess-board-look.stylesheet.styles.css"
-import { evalToWhiteFraction, formatScore } from "akasha/alan/chess/eval/chess-eval.module.code.ts"
-import ChessEvalBar from "akasha/alan/chess/eval-bar/chess-eval-bar.module.code.tsx"
+import {
+  evalToWhiteFraction,
+  formatScore,
+} from "akasha/alan/chess/modules/eval/chess-eval.module.code.ts"
+import ChessEvalBar from "akasha/alan/chess/modules/eval-bar/chess-eval-bar.module.code.tsx"
 import ChessMoveList from "akasha/alan/chess/move-list/chess-move-list.module.code.tsx"
 import type { ChessState, ChessStatus } from "akasha/alan/chess/state/chess-state.module.code.ts"
 import {
