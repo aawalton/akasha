@@ -8,14 +8,6 @@ export const inferenceCapabilityList = {
   code: "ts",
   changeKind: "change-none",
   taking: [],
-  helpNotes: [
-    "an image pool service is one a page declares as a pool member whose name opens with `image-`.",
-    "each is reported with the model path its command binds, the port it answers on, and the route it takes.",
-    "a service binding `--model-type image-edit` answers on the edits route and every other on the generations route.",
-    "the pool holds one resident at a time, so the cop sits in front of every service named here.",
-    "the mflux tools are read off the host's env for the first image service, and a host that will not answer is said so rather than refused.",
-    "an mflux tool runs against the env rather than the pool, so the resident is evicted before one is called.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -23,7 +15,19 @@ export const inferenceCapabilityList = {
     },
     {
       invariantKind: "departure",
+      statement: "Each service is reported with its model path, its port and its route.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The route a service takes is read from the model type its command binds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service whose command binds `--model-type image-edit` takes the edits route.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other service takes the generations route.",
     },
     {
       invariantKind: "departure",
