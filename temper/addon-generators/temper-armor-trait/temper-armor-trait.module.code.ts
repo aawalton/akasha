@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   renderEffects,
   renderPlainEffect,
@@ -113,7 +114,7 @@ export function generateTemperArmorTrait(rows: readonly Page[]): string {
  * the character codec uses as an append-only index map. Reordering rows
  * would invalidate every existing shared build URL.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { ArmorTraitTemplate, ArmorTraitQualityValues } from "../armor-traits-data"
