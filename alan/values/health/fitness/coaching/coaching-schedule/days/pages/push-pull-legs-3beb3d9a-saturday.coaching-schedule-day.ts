@@ -1,4 +1,4 @@
-import type { CoachingScheduleDay } from "akasha/alan/values/health/fitness/coaching/schedule/days/coaching-schedule-day.page-type.types.ts"
+import type { CoachingScheduleDay } from "akasha/alan/values/health/fitness/coaching/coaching-schedule/days/coaching-schedule-day.page-type.types.ts"
 
 export const pushPullLegs3beb3d9aSaturday = {
   id: "019ee083-1be4-7058-8e6c-ceef411a68b6",
