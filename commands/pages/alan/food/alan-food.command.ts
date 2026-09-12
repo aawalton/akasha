@@ -18,21 +18,14 @@ export const alanFood = {
     { said: "--time <HH:MM>", takes: "the Mountain wall clock it was eaten at, read on that date" },
     { said: "--json", takes: "the entry as one JSON object rather than as a row for each field" },
   ],
-  helpNotes: [
-    "one call names one food.",
-    "plant grams are the one source of the nutrition points health pillar, at a point a gram, rolled up for the day after each entry.",
-    "the entry records the instant it happened at, and which day it counts to is worked out from that instant against when Alan woke.",
-    "a date said without a time is read as noon, and a time said without a date is read on today.",
-    "every time said here is a US Mountain wall time, as akasha track reads one.",
-    "a wall time the Mountain clock skipped or struck twice is refused rather than settled on.",
-    "an entry with no photo is a weigh-and-enter row rather than a lesser entry.",
-    "publishing the cover and re-rolling the day both happen after the entry, and either one missing leaves the run as it is.",
-    "a step that did not land is named, because running the act again would write a second entry rather than mend the first.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The food's name is the first word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One call names one food.",
     },
     {
       invariantKind: "departure",
@@ -62,6 +55,10 @@ export const alanFood = {
     {
       invariantKind: "departure",
       statement: "A date said with no time is read as noon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A time said with no date is read on today.",
     },
     {
       invariantKind: "departure",
