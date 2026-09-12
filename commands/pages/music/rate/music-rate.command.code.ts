@@ -22,10 +22,10 @@ import {
   DATA,
   INPUT,
   keeping,
-  OK,
   OPERATIONAL,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -208,7 +208,7 @@ async function recorded(
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
-  return answeredWith(held.json ? [saidOf(held)] : [saidOf(held), ...wrote], [], OK)
+  return told(held.json ? [saidOf(held)] : [saidOf(held), ...wrote])
 }
 
 export async function musicRate(
