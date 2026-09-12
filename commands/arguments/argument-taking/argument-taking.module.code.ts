@@ -154,7 +154,7 @@ export function takingIn(
       continue
     }
     const next = argv[at + 1]
-    if (next === undefined || spelledAsAFlag(next)) {
+    if (next === undefined || bySaid.has(next) || spelledAsAFlag(next)) {
       state.refusals.push(`\`${word}\` takes a value, and none follows it`)
       continue
     }

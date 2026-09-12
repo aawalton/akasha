@@ -112,6 +112,13 @@ test("a value that is one dash is a value, which is how a call names what is pip
   expect(taken(["--node", "-"], [NODE])).toEqual({ node: "-" })
 })
 
+test("an argument the command names where a value goes is refused whatever it is spelled", () => {
+  const dash: Naming = { argument: { ...argumentOf("short", "text"), said: "-s" } as Argument }
+  expect(refusals(["--limit", "-s"], [LIMIT, dash])[0]).toBe(
+    "`--limit` takes a value, and none follows it"
+  )
+})
+
 test("an argument that does not repeat is refused where one call says it twice", () => {
   expect(refusals(["--limit", "1", "--limit", "2"], [LIMIT])[0]).toBe(
     "`--limit` is said twice, and one call says it once"

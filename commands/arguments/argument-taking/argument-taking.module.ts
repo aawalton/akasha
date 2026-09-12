@@ -125,7 +125,11 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
-      statement: "A word opening with one dash is a value rather than a flag.",
+      statement: "A word opening with one dash alone is a value rather than a flag.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bare dash is the value naming what is piped in rather than a flag.",
     },
   ],
 } as const satisfies Module
