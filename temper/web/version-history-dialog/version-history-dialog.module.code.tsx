@@ -16,7 +16,7 @@ import { ScrollArea } from "akasha/design/interfaces/primitives/scroll-area/scro
 import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"

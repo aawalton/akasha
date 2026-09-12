@@ -20,7 +20,7 @@ import {
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
-import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { CreatePageDialog } from "akasha/pages/ui/components/create-page-dialog/create-page-dialog.module.code.tsx"

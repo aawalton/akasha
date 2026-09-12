@@ -1,7 +1,7 @@
 "use client"
 
-import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"

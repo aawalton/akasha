@@ -1,14 +1,14 @@
 import {
-  type CreatePageIfAbsentResult,
-  createPage,
-  createPageIfAbsent,
-} from "akasha/pages/access/create/create.module.code.ts"
-import {
   deletePage,
   deletePageById,
   deletePageByIds,
   deletePages,
 } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import {
+  type CreatePageIfAbsentResult,
+  createPage,
+  createPageIfAbsent,
+} from "akasha/pages/access/modules/create/create.module.code.ts"
 import {
   isWriteOverServerOp,
   type WriteOverServerOp,

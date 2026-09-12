@@ -1,10 +1,13 @@
 "use client"
 
-import { type CreatePageArgs, createPage } from "akasha/pages/access/create/create.module.code.ts"
 import {
   type DeletePageArgs,
   deletePage,
 } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import {
+  type CreatePageArgs,
+  createPage,
+} from "akasha/pages/access/modules/create/create.module.code.ts"
 import { type PatchPageArgs, patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"

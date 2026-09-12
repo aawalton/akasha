@@ -1,7 +1,7 @@
 "use client"
 
-import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import type { PagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"

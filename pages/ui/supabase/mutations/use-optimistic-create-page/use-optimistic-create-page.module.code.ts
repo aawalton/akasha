@@ -1,4 +1,4 @@
-import type { CreatePageArgs } from "akasha/pages/access/create/create.module.code.ts"
+import type { CreatePageArgs } from "akasha/pages/access/modules/create/create.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { runOptimisticMutation } from "akasha/pages/ui/supabase/mutations/modules/apply-prediction/apply-prediction.module.code.ts"
 import { buildPredictedRow } from "akasha/pages/ui/supabase/mutations/modules/build-predicted-row/build-predicted-row.module.code.ts"

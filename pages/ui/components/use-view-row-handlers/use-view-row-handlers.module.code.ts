@@ -1,5 +1,5 @@
-import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import type {
