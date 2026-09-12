@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
+import { onto } from "akasha/commands/arguments/pages/onto.argument.ts"
+import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -11,6 +15,7 @@ import {
   saidFor,
   wrongIn,
 } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.code.ts"
+import { initiativeMoveIntent as page } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.ts"
 
 const ASKED: Asked = { slug: "held", statement: "A thing is so.", onto: "Another thing is so." }
 
@@ -78,6 +83,18 @@ const GIVEN: Given = {
 }
 
 const WOULD_NOT = new Error("the value would not be carried onto the place named")
+
+test("each word lands on the argument sitting at its place in `arguments`", () => {
+  const read = takenFor([ASKED.slug, ASKED.statement, ASKED.onto], GIVEN.calledAs, page, [
+    initiative,
+    statement,
+    onto,
+  ])
+
+  expect(read).toEqual({
+    taken: { initiative: ASKED.slug, statement: ASKED.statement, onto: ASKED.onto },
+  })
+})
 
 test("a run that landed the move and then threw says that commit", async () => {
   const said = await carriedBy(ASKED, GIVEN, throwingAfter(["abc123"], WOULD_NOT))
