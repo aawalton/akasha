@@ -1,9 +1,10 @@
 import { resolve } from "node:path"
 import {
-  INPUT,
-  OK,
+  asJson,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -174,16 +175,14 @@ export async function temperInventoryConfiguration(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
   const at =
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
   try {
     const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
-    if (read.json) {
-      return { report: [JSON.stringify(jsonShape(config, read.section))], refusals: [], code: OK }
-    }
-    return { report: [...textOf(config, read.section)], refusals: [], code: OK }
+    if (read.json) return asJson(jsonShape(config, read.section))
+    return told([...textOf(config, read.section)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
