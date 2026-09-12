@@ -8,8 +8,6 @@ export const infrastructureLoki = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<pod>", takes: "the pod name to match as a prefix, said here where no flag names it" },
-    { said: "--pod <name>", takes: "the pod name to match as a prefix, read as a literal string" },
     {
       said: "--namespace <ns>",
       takes: "the namespace to look in, read as a literal string, `ci` where none is said",
@@ -82,5 +80,5 @@ export const infrastructureLoki = {
     { invariantKind: "departure", statement: "A call saying no limit answers five hundred lines." },
   ],
   name: "loki",
-  arguments: [{ argument: "argument/limit" }],
+  arguments: [{ argument: "argument/limit" }, { argument: "argument/pod", saidAs: "flag-or-word" }],
 } as const satisfies Command
