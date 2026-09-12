@@ -1,3 +1,4 @@
+import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   addContentPageIds,
   addPinnedIds,
@@ -12,8 +13,7 @@ import {
   serializeContentPage,
   serializeContentPageIndex,
   touchRecency,
-} from "akasha/alan/web/content-pages-cache-core/content-pages-cache-core.module.code.ts"
-import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
+} from "akasha/alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.code.ts"
 import {
   deleteDocumentsFile,
   listDocumentsFiles,
@@ -22,7 +22,7 @@ import {
 } from "akasha/alan/web/offline-cache-fs/offline-cache-fs.module.code.ts"
 import { namespacedPath } from "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/content-persistence/content-persistence.module.code.ts"
+import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/modules/content-persistence/content-persistence.module.code.ts"
 
 const INDEX_BASENAME = "content-pages-index.json"
 

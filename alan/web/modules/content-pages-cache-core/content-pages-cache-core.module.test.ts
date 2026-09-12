@@ -6,7 +6,7 @@ import {
 import {
   parsePersistedContentPage,
   serializeContentPage,
-} from "akasha/alan/web/content-pages-cache-core/content-pages-cache-core.module.code.ts"
+} from "akasha/alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.code.ts"
 
 const CHAPTER_ID = "01a0655d-daa6-7fdf-b1e7-000000000001"
 
