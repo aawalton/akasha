@@ -34,7 +34,8 @@ export const deployLooping = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick starts the deploy and ends rather than waiting for that deploy.",
+      statement:
+        "A tick ends once the deploy it started ends, and the next tick is skipped meanwhile.",
     },
     {
       invariantKind: "departure",
@@ -64,6 +65,10 @@ export const deployLooping = {
     {
       invariantKind: "departure",
       statement: "Which services have a deploy running is read off the holds a deploy takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy a tick did not start holds that thing, so the tick passes over it.",
     },
   ],
 } as const satisfies Module
