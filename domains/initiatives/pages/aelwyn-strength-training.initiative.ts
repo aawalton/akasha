@@ -95,6 +95,9 @@ export const aelwynStrengthTraining = {
       statement:
         "The goal weights shape how the selector is built rather than scoring each movement.",
     },
+    {
+      statement: "Every constraint the selector obeys is a predicate over an exercise page.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
