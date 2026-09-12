@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -8,8 +9,6 @@ import {
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-
-const DATA = 2
 
 const FILE_PATH_FLAG = "--file-path"
 
@@ -112,8 +111,8 @@ export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
   if (entries.length === 0) return refused(`${tracePath} ${NOTHING_CAPTURED}`, DATA)
 
   if (argv.includes(JSON_FLAG)) {
-    return { report: [JSON.stringify(entries)], refusals: [], code: 0 }
+    return { report: [JSON.stringify(entries)], refusals: [], code: OK }
   }
 
-  return { report: entries.flatMap(linesOf), refusals: [], code: 0 }
+  return { report: entries.flatMap(linesOf), refusals: [], code: OK }
 }
