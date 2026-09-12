@@ -6,6 +6,7 @@ export const trackSessionOpen = {
   slug: "track-session-open",
   definition: "the command beginning a stretch on a day with none open",
   code: "ts",
+  test: "ts",
   parts: [],
 
   invariants: [
