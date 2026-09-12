@@ -6,13 +6,7 @@ export const measureCheck = {
   slug: "measure-check",
   definition: "the command saying what a check's run cost in processor time and memory",
   code: "ts",
-  taking: [
-    { said: "--last <count>", takes: "how many of the most recent runs the numbers cover" },
-    {
-      said: "--last <count>{m|h|d}",
-      takes: "the period the numbers cover ending at the moment of asking",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -166,4 +160,5 @@ export const measureCheck = {
     },
   ],
   name: "check",
+  arguments: [{ argument: "argument/run-window" }],
 } as const satisfies Command

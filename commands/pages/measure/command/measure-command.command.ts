@@ -7,13 +7,7 @@ export const measureCommand = {
   definition: "the command saying what a command's own run cost in processor time and memory",
   code: "ts",
   parts: ["module/command-measuring"],
-  taking: [
-    { said: "--last <count>", takes: "how many of the most recent runs the numbers cover" },
-    {
-      said: "--last <count>{m|h|d}",
-      takes: "the period the numbers cover ending at the moment of asking",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -93,4 +87,5 @@ export const measureCommand = {
     },
   ],
   name: "command",
+  arguments: [{ argument: "argument/run-window" }],
 } as const satisfies Command
