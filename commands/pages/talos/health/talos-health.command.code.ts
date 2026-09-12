@@ -1,4 +1,9 @@
 import { existsSync } from "node:fs"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
@@ -14,10 +19,6 @@ export const WORKER_IPS = "--worker-ips"
 export const CLUSTER = "--cluster"
 
 const VALUED: readonly string[] = [IP, CONTROL_PLANE_IPS, WORKER_IPS, CLUSTER]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 export type Named = {
   readonly ip: string
@@ -106,7 +107,7 @@ async function checking(read: Named, given: Given): Promise<Answer> {
   return {
     report: [`${read.ip} answered the health check for ${read.cluster}`],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
 
