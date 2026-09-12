@@ -36,6 +36,6 @@ export const athenaCommandsCleanup = {
     "A taboo term refused beside an unread page is not recorded as read, so the same call refuses on that term again once the reading is done.\n",
     "An intent met is taken off its initiative as soon as the meeting is found, rather than left standing with working memory saying it is done.",
     "A name carrying meaning the builder's name does not is no alias, however exactly its body reduces to that builder.",
-    "A census of a symbol greps the bare identifier or runs multiline, because an import spelled over four lines is invisible to a single-line pattern.",
+    "A census of a symbol greps the bare identifier or runs multiline, and an import with no call to justify it is the cheaper census, because a call spelled over four lines is invisible to one line.",
   ],
 } as const satisfies Initiative
