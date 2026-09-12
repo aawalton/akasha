@@ -35,6 +35,15 @@ export const infrastructureDevServerStart = {
       invariantKind: "absence",
       statement: "Nothing here writes over an `.env.local` already there.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A start that stopped after it spawned the server names the pid and port it left running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start that stopped before it wrote anything is refused as the fault alone.",
+    },
   ],
   arguments: [
     { argument: "argument/json" },

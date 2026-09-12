@@ -1,8 +1,10 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
 import {
   asJson,
+  codeOf,
   INPUT,
   OPERATIONAL,
+  partWay,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -49,13 +51,29 @@ const NO_COOKIE_DOMAIN = "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN"
 
 const REPLACED_BY = "akasha infrastructure dev-server restart"
 
-export async function starting(read: {
-  root: string
-  seq: number
-  app: string
-  port: number | null
-  json: boolean
-}): Promise<Answer> {
+export function stoppedBy(done: readonly string[], thrown: unknown): Answer {
+  return { report: [...done], refusals: [whyOf(thrown), ...partWay(done)], code: codeOf(thrown) }
+}
+
+export function keeping(done: readonly string[], said: Answer): Answer {
+  if (said.refusals.length === 0 || done.length === 0) return said
+  return {
+    report: [...done, ...said.report],
+    refusals: [...said.refusals, ...partWay(done)],
+    code: said.code,
+  }
+}
+
+export async function starting(
+  read: {
+    root: string
+    seq: number
+    app: string
+    port: number | null
+    json: boolean
+  },
+  done: string[] = []
+): Promise<Answer> {
   const report: string[] = []
   const app = lookupApp(read.root, read.app)
   const port = read.port ?? computePort({ basePort: app.basePort, seq: read.seq })
@@ -77,6 +95,7 @@ export async function starting(read: {
       appName: read.app,
     })
     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)
+    done.push(`wrote ${written.path}`)
   }
   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
 
@@ -128,6 +147,7 @@ export async function starting(read: {
       code: OPERATIONAL,
     }
   }
+  done.push(`left a dev server running at pid ${String(proc.pid)} on port ${portSaid}`)
 
   const state: DevServerState = {
     pid: proc.pid,
@@ -139,6 +159,7 @@ export async function starting(read: {
     log_path: logPath,
   }
   writeStateFile(state)
+  done.push(`wrote the state file for seq=${String(read.seq)} app=${read.app}`)
 
   report.push(
     read.json

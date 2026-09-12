@@ -6,6 +6,7 @@ export const devServerRunning = {
   slug: "dev-server-running",
   definition: "one app's dev server spawned in a worktree, and ended again",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -40,6 +41,18 @@ export const devServerRunning = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a log.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start names the server it left running and the state file it wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer refusing after a write names what was written beside that refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer refusing with nothing written is left as that answer was.",
     },
   ],
 } as const satisfies Module
