@@ -9,6 +9,7 @@ import {
   ADMITS,
   BROKEN,
   besides,
+  besideTook,
   bytes,
   CARRIED,
   committedAgain,
@@ -370,4 +371,10 @@ test("a commit that throws leaves no trace of the path the repository ignores", 
   const said = await splitThrew()
   expect(said.why).toContain("Unable to add")
   expect(said.left).toEqual([])
+})
+
+test("a path the repository ignores that is taken away is unfiled from the path index", async () => {
+  const said = await besideTook()
+  expect(said.before.length).toBe(1)
+  expect(said.after).toEqual([])
 })

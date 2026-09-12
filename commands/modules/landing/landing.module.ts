@@ -138,6 +138,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A path the repository ignores that is taken away is unfiled from the path index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That answer is what says a removal no commit holds happened at all.",
     },
     {
