@@ -8,4 +8,5 @@ export const clipFrames = {
   takes: "the clip's length in frames",
   value: "whole-number",
   placeholder: "n",
+  default: "81",
 } as const satisfies Argument
