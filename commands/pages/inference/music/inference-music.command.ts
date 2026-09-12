@@ -6,9 +6,7 @@ export const inferenceMusic = {
   slug: "inference-music",
   definition: "the command rendering one song off a style and, where there is one, its lyrics",
   code: "ts",
-  taking: [
-    { said: "--prompt <text>", takes: "the style, the mood and the instruments the song carries" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -39,6 +37,10 @@ export const inferenceMusic = {
       invariantKind: "absence",
       statement: "Nothing here makes the music service resident.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A prompt names the style, the mood and the instruments the song carries.",
+    },
   ],
   name: "music",
   arguments: [
@@ -52,5 +54,6 @@ export const inferenceMusic = {
     { argument: "argument/prompt-file" },
     { argument: "argument/lyrics-file" },
     { argument: "argument/lyrics", notWith: ["argument/lyrics-file"] },
+    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
   ],
 } as const satisfies Command

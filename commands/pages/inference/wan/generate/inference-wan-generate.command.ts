@@ -7,7 +7,7 @@ export const inferenceWanGenerate = {
   definition: "the command rendering one clip conditioned on a first frame, a last frame, or both",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--prompt <text>", takes: "the motion prompt" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -52,5 +52,6 @@ export const inferenceWanGenerate = {
     { argument: "argument/prompt-file" },
     { argument: "argument/negative-prompt-file" },
     { argument: "argument/negative-prompt", notWith: ["argument/negative-prompt-file"] },
+    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
   ],
 } as const satisfies Command

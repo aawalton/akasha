@@ -7,7 +7,7 @@ export const inferenceWanExtend = {
   definition: "the command rendering fresh frames before or after a clip",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--prompt <text>", takes: "the motion prompt" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -49,5 +49,6 @@ export const inferenceWanExtend = {
     { argument: "argument/prompt-file" },
     { argument: "argument/negative-prompt-file" },
     { argument: "argument/negative-prompt", notWith: ["argument/negative-prompt-file"] },
+    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
   ],
 } as const satisfies Command

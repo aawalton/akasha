@@ -6,7 +6,7 @@ export const inferenceGenerate = {
   slug: "inference-generate",
   definition: "the command rendering one image off a prompt through an image pool service",
   code: "ts",
-  taking: [{ said: "--prompt <text>", takes: "what the image is of" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -53,5 +53,6 @@ export const inferenceGenerate = {
     { argument: "argument/service" },
     { argument: "argument/guidance" },
     { argument: "argument/prompt-file" },
+    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
   ],
 } as const satisfies Command

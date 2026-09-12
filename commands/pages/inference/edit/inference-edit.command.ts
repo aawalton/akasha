@@ -6,7 +6,7 @@ export const inferenceEdit = {
   slug: "inference-edit",
   definition: "the command remaking one image under an instruction, keeping what it is of",
   code: "ts",
-  taking: [{ said: "--prompt <text>", takes: "the instruction the edit follows" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -52,5 +52,6 @@ export const inferenceEdit = {
     { argument: "argument/aspect-ratio" },
     { argument: "argument/prompt-file" },
     { argument: "argument/image", required: true, repeats: true },
+    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
   ],
 } as const satisfies Command
