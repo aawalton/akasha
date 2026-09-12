@@ -1,4 +1,5 @@
 import { readInventoryDiagnostic } from "akasha/temper/commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
 const NET_WORTH_SCHEMA = z
@@ -72,6 +73,7 @@ type BankTrace = z.infer<typeof TRACE_SCHEMA>
 
 const DIAGNOSTICS_SCHEMA = z
   .object({
+    bankTraces: luaArrayOrEmpty(TRACE_SCHEMA).optional(),
     lastBankTrace: TRACE_SCHEMA.optional(),
   })
   .passthrough()
@@ -82,11 +84,18 @@ const ACCOUNT_WIDE_SCHEMA = z
   })
   .passthrough()
 
-export async function readBankTrace(inventoryPath: string): Promise<BankTrace> {
+function visitsIn(wide: z.infer<typeof ACCOUNT_WIDE_SCHEMA>): BankTrace[] | undefined {
+  const kept = wide.diagnostics?.bankTraces
+  if (kept !== undefined && kept.length > 0) return [...kept].reverse()
+  const last = wide.diagnostics?.lastBankTrace
+  return last === undefined ? undefined : [last]
+}
+
+export async function readBankTraces(inventoryPath: string): Promise<BankTrace[]> {
   return await readInventoryDiagnostic(
     inventoryPath,
     ACCOUNT_WIDE_SCHEMA,
-    (wide) => wide.diagnostics?.lastBankTrace,
-    "no diagnostics.lastBankTrace (interact with a banker, then /reloadui, then re-run)"
+    visitsIn,
+    "no diagnostics.bankTraces (interact with a banker, then /reloadui, then re-run)"
   )
 }

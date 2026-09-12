@@ -15,6 +15,8 @@ import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-r
 
 const TRAILING_SCAN_WINDOW_MS = 5000
 
+const BANK_TRACE_RING_MAX = 10
+
 let activeTrace: BankTrace | undefined
 let openAnchorMs = 0
 let closedAtMs: number | undefined
@@ -37,6 +39,12 @@ export function beginBankTrace(bankingBag: number): undefined {
   const sv = getSavedVariables()
   if (sv.diagnostics === undefined) sv.diagnostics = {}
   sv.diagnostics.lastBankTrace = trace
+  const ring = sv.diagnostics.bankTraces ?? []
+  ring[ring.length] = trace
+  while (ring.length > BANK_TRACE_RING_MAX) {
+    ring.splice(0, 1)
+  }
+  sv.diagnostics.bankTraces = ring
 }
 
 export type BankTracePhase = "scanBankBags" | "refreshPanel" | "withdraw" | "deposit"
