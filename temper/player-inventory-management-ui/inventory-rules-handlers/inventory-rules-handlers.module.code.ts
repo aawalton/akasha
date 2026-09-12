@@ -38,7 +38,7 @@ import {
 } from "akasha/temper/player-inventory-management-ui/inventory-rules-state/inventory-rules-state.module.code.ts"
 import { type RefObject, useCallback } from "react"
 
-export const DEFAULT_BUY_TARGET_QUANTITY = 200
+const DEFAULT_BUY_TARGET_QUANTITY = 200
 
 export interface InventoryRulesHandlers {
   handleAddRule: (onAdded?: ((id: string) => void) | unknown) => void

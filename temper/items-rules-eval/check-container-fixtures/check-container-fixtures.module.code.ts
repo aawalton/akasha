@@ -5,7 +5,7 @@ import type {
 } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
-export const STUB_ENV: EvalEnv = {
+const STUB_ENV: EvalEnv = {
   isKnownByCharacter: () => "unknown",
   isKnownByAnyCharacter: () => "unknown",
   isTraitResearched: () => "unknown",
@@ -36,7 +36,7 @@ export function ctxWith(overrides: Partial<EvalEnv>): EvalContext {
   return { env: { ...STUB_ENV, ...overrides } }
 }
 
-export const BASE_FACTS: ItemFacts = {
+const BASE_FACTS: ItemFacts = {
   itemId: 100,
   itemName: "Sample Container",
   itemLink: "|H1:item:100:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h",

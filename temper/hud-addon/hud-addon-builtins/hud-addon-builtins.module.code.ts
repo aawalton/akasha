@@ -22,7 +22,7 @@ function sessionCell(): HudCell {
   return { text: formatDuration(elapsed) }
 }
 
-export function ensureSession(): undefined {
+function ensureSession(): undefined {
   const sv = getSavedVariables()
   if (sv.session.startTime === 0) resetSession()
 }

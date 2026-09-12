@@ -34,17 +34,18 @@ import {
 } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-export const MINI_ICON_SIZE = 24
-export const MINI_CARD_HEIGHT = 32
-export const MINI_CARD_PADDING = 4
-export const MINI_TEXT_LEFT = MINI_ICON_SIZE + MINI_CARD_PADDING * 2
-export const SKILL_ROW_HEIGHT = MINI_CARD_HEIGHT
-export const SKILL_ROW_SPACING = 4
-export const SKILL_SECTION_COL_WIDTH = 80
-export const SKILL_SLOT_COL_WIDTH = 90
-export const SKILL_VALUE_COL_LEFT = SKILL_SECTION_COL_WIDTH + SKILL_SLOT_COL_WIDTH
-export const SKILL_VALUE_COL_WIDTH = 220
-export const SKILL_OPTIMAL_COL_LEFT = SKILL_VALUE_COL_LEFT + SKILL_VALUE_COL_WIDTH + 10
+
+const MINI_ICON_SIZE = 24
+const MINI_CARD_HEIGHT = 32
+const MINI_CARD_PADDING = 4
+const MINI_TEXT_LEFT = MINI_ICON_SIZE + MINI_CARD_PADDING * 2
+const SKILL_ROW_HEIGHT = MINI_CARD_HEIGHT
+const SKILL_ROW_SPACING = 4
+const SKILL_SECTION_COL_WIDTH = 80
+const SKILL_SLOT_COL_WIDTH = 90
+const SKILL_VALUE_COL_LEFT = SKILL_SECTION_COL_WIDTH + SKILL_SLOT_COL_WIDTH
+const SKILL_VALUE_COL_WIDTH = 220
+const SKILL_OPTIMAL_COL_LEFT = SKILL_VALUE_COL_LEFT + SKILL_VALUE_COL_WIDTH + 10
 
 export interface SkillMiniCard {
   container: Control
@@ -66,13 +67,9 @@ export interface SkillsPanelState {
   rows: SkillRow[]
 }
 
-export let skillsState: SkillsPanelState | undefined
+let skillsState: SkillsPanelState | undefined
 
-export function createSkillMiniCard(
-  parent: Control,
-  offsetX: number,
-  offsetY: number
-): SkillMiniCard {
+function createSkillMiniCard(parent: Control, offsetX: number, offsetY: number): SkillMiniCard {
   const container = WINDOW_MANAGER.CreateControl(undefined, parent, CT_CONTROL)
   container.SetAnchor(TOPLEFT, parent, TOPLEFT, offsetX, offsetY)
   container.SetDimensions(SKILL_VALUE_COL_WIDTH, MINI_CARD_HEIGHT)
@@ -92,7 +89,7 @@ export function createSkillMiniCard(
   return { container, icon, nameLabel }
 }
 
-export function renderMiniCard(card: SkillMiniCard, abilityId: number): undefined {
+function renderMiniCard(card: SkillMiniCard, abilityId: number): undefined {
   if (abilityId !== 0) {
     card.icon.SetTexture(GetAbilityIcon(abilityId))
     card.icon.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
@@ -106,8 +103,8 @@ export function renderMiniCard(card: SkillMiniCard, abilityId: number): undefine
   }
 }
 
-export const SKILL_SLOT_LABELS = ["Slot 1", "Slot 2", "Slot 3", "Slot 4", "Slot 5", "Ultimate"]
-export const SKILL_SECTION_LABELS = ["Active", "", "", "", "", "Ultimate"]
+const SKILL_SLOT_LABELS = ["Slot 1", "Slot 2", "Slot 3", "Slot 4", "Slot 5", "Ultimate"]
+const SKILL_SECTION_LABELS = ["Active", "", "", "", "", "Ultimate"]
 
 export function createCompanionSkillsPanel(parent: Control): Control {
   const panel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_CONTROL)
@@ -175,14 +172,14 @@ export function createCompanionSkillsPanel(parent: Control): Control {
   return panel
 }
 
-export function hideOptimalSkillsColumn(): undefined {
+function hideOptimalSkillsColumn(): undefined {
   if (!skillsState) return
   for (const row of skillsState.rows) {
     row.optimalCard.container.SetHidden(true)
   }
 }
 
-export function refreshSkillsFromLive(): undefined {
+function refreshSkillsFromLive(): undefined {
   if (!skillsState) return
 
   for (let i = 0; i < SKILL_SLOT_INDICES.length; i++) {
@@ -193,7 +190,7 @@ export function refreshSkillsFromLive(): undefined {
   }
 }
 
-export function refreshSkillsFromSaved(saved: SavedCompanionBuild): undefined {
+function refreshSkillsFromSaved(saved: SavedCompanionBuild): undefined {
   if (!skillsState) return
 
   for (let i = 0; i < skillsState.rows.length; i++) {
@@ -203,7 +200,7 @@ export function refreshSkillsFromSaved(saved: SavedCompanionBuild): undefined {
   }
 }
 
-export function refreshOptimalSkillsColumn(decoded: CompanionBuildData): undefined {
+function refreshOptimalSkillsColumn(decoded: CompanionBuildData): undefined {
   if (!skillsState) return
 
   for (let i = 0; i < skillsState.rows.length; i++) {
@@ -215,7 +212,7 @@ export function refreshOptimalSkillsColumn(decoded: CompanionBuildData): undefin
   }
 }
 
-export function refreshOptimalSkills(companionId: number): undefined {
+function refreshOptimalSkills(companionId: number): undefined {
   const hash = getTargetBuildHash(companionId)
   if (hash === undefined) {
     hideOptimalSkillsColumn()

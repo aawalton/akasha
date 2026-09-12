@@ -1,4 +1,4 @@
-export const UI_STRINGS: Record<string, string> = {
+const UI_STRINGS: Record<string, string> = {
   Lake: "Lake",
   Foul: "Foul",
   River: "River",

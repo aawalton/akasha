@@ -5,7 +5,7 @@ export interface ComparisonOpTemplate {
   name: string
 }
 
-export const TEMPER_COMPARISON_OPS = {
+const TEMPER_COMPARISON_OPS = {
   "<=": { id: "<=", name: "≤" },
   "<": { id: "<", name: "<" },
   ">=": { id: ">=", name: "≥" },

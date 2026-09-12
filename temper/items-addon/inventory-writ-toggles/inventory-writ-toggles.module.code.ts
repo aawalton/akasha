@@ -32,7 +32,7 @@ export interface WritToggles {
   dailyWritAutoCraft: boolean
 }
 
-export function resolveWritToggle(
+function resolveWritToggle(
   this: void,
   automation: WritAutomation,
   charId: string,

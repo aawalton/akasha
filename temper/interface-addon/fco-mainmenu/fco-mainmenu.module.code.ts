@@ -138,35 +138,35 @@ export function addNotificationsButtons(this: void): undefined {
 
 let FCOC_SMAIN_MENU_BUTTON_WAS_ADDED = false
 
-export function hideCrownStoreButtonInMainMenu(this: void, value?: boolean): undefined {
+function hideCrownStoreButtonInMainMenu(this: void, value?: boolean): undefined {
   const hidden = value ?? false
   if (ZO_MainMenuCategoryBarButton1 !== undefined) {
     ZO_MainMenuCategoryBarButton1.SetHidden(hidden)
   }
 }
 
-export function hideCrownStoreReminingCrownsInMainMenu(this: void, value?: boolean): undefined {
+function hideCrownStoreReminingCrownsInMainMenu(this: void, value?: boolean): undefined {
   const hidden = value ?? false
   if (ZO_MainMenuCategoryBarButton1RemainingCrowns !== undefined) {
     ZO_MainMenuCategoryBarButton1RemainingCrowns.SetHidden(hidden)
   }
 }
 
-export function hideCrownCratesButtonInMainMenu(this: void, value?: boolean): undefined {
+function hideCrownCratesButtonInMainMenu(this: void, value?: boolean): undefined {
   const hidden = value ?? false
   if (ZO_MainMenuCategoryBarButton2 !== undefined) {
     ZO_MainMenuCategoryBarButton2.SetHidden(hidden)
   }
 }
 
-export function hideCrownStoreMembershipInMainMenu(this: void, value?: boolean): undefined {
+function hideCrownStoreMembershipInMainMenu(this: void, value?: boolean): undefined {
   const hidden = value ?? false
   if (ZO_MainMenuCategoryBarButton1Membership !== undefined) {
     ZO_MainMenuCategoryBarButton1Membership.SetHidden(hidden)
   }
 }
 
-export function hideDividerRightToCrownStuff(this: void): undefined {
+function hideDividerRightToCrownStuff(this: void): undefined {
   const settings = STATE.settingsVars.settings
   const value =
     settings.hideCrownStoreButtonInMainMenu === true &&
@@ -209,7 +209,7 @@ export function openLAMAddonSettings(this: void): undefined {
   }
 }
 
-export function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
+function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
   if (STATE.settingsVars.settings.showAddonSettingsMainMenuButton !== true) {
     return false
   }

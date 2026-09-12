@@ -125,7 +125,7 @@ function isAutomationSettings(value: unknown): value is AutomationSettings {
   return isRecord(held.characters) && isRecord(held.companions)
 }
 
-export async function settingsBodyOf(
+async function settingsBodyOf(
   slug: string,
   pages: ReadPages = readPages,
   files: ReadFiles = readFiles

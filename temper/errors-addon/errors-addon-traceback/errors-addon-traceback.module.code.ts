@@ -2,7 +2,7 @@ import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration
 import { CALLSTACK_MAX_LEN } from "akasha/temper/errors-addon/errors-addon-limits/errors-addon-limits.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
-export function sanitizeTraceback(traceback: string): string {
+function sanitizeTraceback(traceback: string): string {
   const [stripped] = string.gsub(traceback, "%s*<Locals>.-</Locals>", "")
   if (stripped.length <= CALLSTACK_MAX_LEN) {
     return stripped
@@ -10,7 +10,7 @@ export function sanitizeTraceback(traceback: string): string {
   return `${stripped.slice(0, CALLSTACK_MAX_LEN)}…`
 }
 
-export function splitTraceback(errorString: string): { message: string; traceback: string } {
+function splitTraceback(errorString: string): { message: string; traceback: string } {
   const [messagePart, tracebackBody] = string.match(errorString, "(.+)\nstack traceback:(.+)")
   const message = stringIn(messagePart)
   const traceback = stringIn(tracebackBody)

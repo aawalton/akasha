@@ -50,9 +50,7 @@ export const CROWN_CONSUMABLE_ITEM_IDS = new Set(
   Object.values(CROWN_CONSUMABLE_EQUIVALENTS).map((item) => item.ttcItemId)
 )
 
-export const CROWN_CONSUMABLE_ESO_IDS = new Set(
-  Object.keys(CROWN_CONSUMABLE_EQUIVALENTS).map(Number)
-)
+const CROWN_CONSUMABLE_ESO_IDS = new Set(Object.keys(CROWN_CONSUMABLE_EQUIVALENTS).map(Number))
 
 const CROWN_STORE_NAME_PATTERN = /^(Crown |Gold Coast )/
 

@@ -6,9 +6,10 @@ import {
 } from "akasha/temper/items-addon/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-export let cachedCurrentCharKnowsAll: boolean | undefined
-export let cachedAllCharsKnowAll: boolean | undefined
-export let cachedTotalScriptCount: number | undefined
+
+let cachedCurrentCharKnowsAll: boolean | undefined
+let cachedAllCharsKnowAll: boolean | undefined
+let cachedTotalScriptCount: number | undefined
 
 export function countScripts(): { total: number; unlocked: number } {
   const seen = new LuaMap<number, true>()
@@ -39,7 +40,7 @@ export function countScripts(): { total: number; unlocked: number } {
   return { total, unlocked }
 }
 
-export function currentCharacterKnowsAllScripts(): boolean {
+function currentCharacterKnowsAllScripts(): boolean {
   if (cachedCurrentCharKnowsAll !== undefined) return cachedCurrentCharKnowsAll
   const { total, unlocked } = countScripts()
   cachedTotalScriptCount = total
@@ -47,7 +48,7 @@ export function currentCharacterKnowsAllScripts(): boolean {
   return cachedCurrentCharKnowsAll
 }
 
-export function allCharactersKnowAllScripts(): boolean {
+function allCharactersKnowAllScripts(): boolean {
   if (cachedAllCharsKnowAll !== undefined) return cachedAllCharsKnowAll
 
   if (!currentCharacterKnowsAllScripts()) {

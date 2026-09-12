@@ -49,7 +49,7 @@ export function stripLink(link: string): string {
   return table.concat(parts, ":")
 }
 
-export function nakedLink(link: string): string {
+function nakedLink(link: string): string {
   const split: Record<number, string> = [...SplitString(":", link)]
   return "|H0:item:" + split[3] + ":0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h"
 }

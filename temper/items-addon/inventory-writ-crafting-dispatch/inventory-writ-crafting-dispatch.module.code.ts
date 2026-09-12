@@ -21,7 +21,8 @@ import {
   type MasterWritToggles,
   type WritToggles,
 } from "akasha/temper/items-addon/inventory-writ-toggles/inventory-writ-toggles.module.code.ts"
-export const SMITHING_CRAFT_TYPES = new LuaSet<number>()
+
+const SMITHING_CRAFT_TYPES = new LuaSet<number>()
 SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)
 SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_CLOTHIER)
 SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_WOODWORKING)
@@ -36,7 +37,7 @@ type WritToggleKey =
   | "dailyWritAlchemy"
   | "dailyWritProvisioning"
 
-export const CRAFT_TYPE_TOGGLE: Record<number, WritToggleKey> = {
+const CRAFT_TYPE_TOGGLE: Record<number, WritToggleKey> = {
   [CRAFTING_TYPE_BLACKSMITHING]: "dailyWritBlacksmithing",
   [CRAFTING_TYPE_CLOTHIER]: "dailyWritClothier",
   [CRAFTING_TYPE_WOODWORKING]: "dailyWritWoodworking",
@@ -55,7 +56,7 @@ type MasterWritToggleKey =
   | "masterWritAlchemy"
   | "masterWritProvisioning"
 
-export const MASTER_CRAFT_TYPE_TOGGLE: Record<number, MasterWritToggleKey> = {
+const MASTER_CRAFT_TYPE_TOGGLE: Record<number, MasterWritToggleKey> = {
   [CRAFTING_TYPE_BLACKSMITHING]: "masterWritBlacksmithing",
   [CRAFTING_TYPE_CLOTHIER]: "masterWritClothier",
   [CRAFTING_TYPE_WOODWORKING]: "masterWritWoodworking",
@@ -70,18 +71,18 @@ function writDiag(this: void, msg: string): undefined {
   d(`[${ADDON_NAME}] writ: ${msg}`)
 }
 
-export function getWritToggles(): WritToggles | undefined {
+function getWritToggles(): WritToggles | undefined {
   return computeWritToggles(getInventoryConfig().automation, tostring(GetCurrentCharacterId()))
 }
 
-export function getMasterWritEnabled(this: void): boolean {
+function getMasterWritEnabled(this: void): boolean {
   return computeMasterWritEnabled(
     getInventoryConfig().automation,
     tostring(GetCurrentCharacterId())
   )
 }
 
-export function getMasterWritToggles(this: void): MasterWritToggles {
+function getMasterWritToggles(this: void): MasterWritToggles {
   return computeMasterWritToggles(
     getInventoryConfig().automation,
     tostring(GetCurrentCharacterId())
@@ -171,7 +172,7 @@ function dispatchMasterWritAtStation(this: void, stationType: number): number {
   return enqueued
 }
 
-export function dispatchPerConditionWrit(
+function dispatchPerConditionWrit(
   questIndex: number,
   resolver: (questIndex: number, conditionIndex: number) => WritCraftRequest | undefined
 ): number {

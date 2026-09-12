@@ -35,7 +35,7 @@ export const REAGENT_TRAITS: Record<number, Record<number, number>> = {
   150789: { 31: 1, 25: -1, 21: -1, 29: 1 },
 }
 
-export function determinePotionResult(
+function determinePotionResult(
   r1: number,
   r2: number
 ): { effects: Record<number, number>; count: number } {
@@ -71,7 +71,7 @@ export function determinePotionResult(
   return { effects: final, count }
 }
 
-export function getReagentShortlist(effectId: number): Record<number, Record<number, number>> {
+function getReagentShortlist(effectId: number): Record<number, Record<number, number>> {
   const parity = effectId % 2 === 0 ? -1 : 1
   const baseEffect = effectId % 2 === 0 ? effectId - 1 : effectId
 

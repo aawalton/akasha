@@ -21,7 +21,7 @@ export interface AchievementWorkItem {
   achievementId: number
 }
 
-export function collectAchievementCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectAchievementCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: AchievementCatalogData = { categories: {} }
   const seen: Record<number, boolean> = {}

@@ -15,7 +15,7 @@ type ToggleKey =
   | "saveGroupedByCharacterName"
   | "autoReloadUI"
 
-export function showSettingsMenu(owner: object): undefined {
+function showSettingsMenu(owner: object): undefined {
   ClearMenu()
 
   addToggle(STRINGS.showGlobalPacks, "showGlobalPacks")

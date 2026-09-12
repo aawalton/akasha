@@ -51,29 +51,29 @@ import {
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
-export const COLOR_GREEN = GREEN
-export const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]
-export const COLOR_ORANGE_RED: [number, number, number] = [0.9, 0.35, 0.15]
+const COLOR_GREEN = GREEN
+const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]
+const COLOR_ORANGE_RED: [number, number, number] = [0.9, 0.35, 0.15]
 
-export function setGrayDash(label: LabelControl): undefined {
+function setGrayDash(label: LabelControl): undefined {
   label.SetText("-")
   label.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
 }
 
-export function clearApplyLabel(row: SummaryRow): undefined {
+function clearApplyLabel(row: SummaryRow): undefined {
   row.applyLabel.SetText("")
   row.applyLabel.SetHandler("OnMouseUp", undefined)
   row.applyLabel.SetHandler("OnMouseEnter", undefined)
   row.applyLabel.SetHandler("OnMouseExit", undefined)
 }
 
-export function getMatchColor(matched: number, total: number): readonly [number, number, number] {
+function getMatchColor(matched: number, total: number): readonly [number, number, number] {
   if (matched === total) return COLOR_GREEN
   if (matched >= total * 0.5) return COLOR_GOLD
   return COLOR_ORANGE_RED
 }
 
-export function getCurrentBuildData(companionId: number): CompanionBuildData | undefined {
+function getCurrentBuildData(companionId: number): CompanionBuildData | undefined {
   if (HasActiveCompanion() && GetActiveCompanionDefId() === companionId) {
     const build = captureCompanionBuild()
     if (build !== null) return build
@@ -93,21 +93,18 @@ const SLOT_GROUP_EQUIP_SLOTS: Record<EquipmentSlotGroup, number[]> = {
   weapons: WEAPON_SLOTS,
 }
 
-export function getMismatchSlotName(mismatch: SlotMismatch): string {
+function getMismatchSlotName(mismatch: SlotMismatch): string {
   const equipSlot = SLOT_GROUP_EQUIP_SLOTS[mismatch.group][mismatch.indexInGroup]
   if (equipSlot === undefined) return "Unknown"
   return SLOT_NAMES[equipSlot] ?? "Unknown"
 }
 
-export function clearEquipTooltip(row: SummaryRow): undefined {
+function clearEquipTooltip(row: SummaryRow): undefined {
   row.equipLabel.SetHandler("OnMouseEnter", undefined)
   row.equipLabel.SetHandler("OnMouseExit", undefined)
 }
 
-export function countMatchingSkills(
-  current: CompanionBuildData,
-  optimal: CompanionBuildData
-): number {
+function countMatchingSkills(current: CompanionBuildData, optimal: CompanionBuildData): number {
   let matches = 0
   for (let i = 0; i < 6; i++) {
     if (current.skills[i] === optimal.skills[i]) {

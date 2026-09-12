@@ -2,7 +2,7 @@ import { asTyped } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.mo
 
 const getLocalizedText = LibSets.GetLocalizedText
 
-export function comboBoxFromContainer(this: void, container: SearchUIControl): SearchUIComboBox {
+function comboBoxFromContainer(this: void, container: SearchUIControl): SearchUIComboBox {
   return asTyped<SearchUIComboBox>(ZO_ComboBox_ObjectFromContainer(asTyped<Control>(container)))
 }
 
@@ -15,11 +15,11 @@ export function defaultMultiSelectSelectedText(this: void, filterTypeText: strin
   )
 }
 
-export function comboBoxSupportsMouseOver(this: void): boolean {
+function comboBoxSupportsMouseOver(this: void): boolean {
   return ZO_ComboBox.SetEntryMouseOverCallbacks !== undefined
 }
 
-export function comboBoxSupportsMultiSelect(this: void): boolean {
+function comboBoxSupportsMultiSelect(this: void): boolean {
   return ZO_ComboBox.EnableMultiSelect !== undefined
 }
 

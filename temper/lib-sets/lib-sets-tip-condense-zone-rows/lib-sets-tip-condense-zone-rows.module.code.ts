@@ -21,7 +21,7 @@ export interface ZoneScratchTables {
 
 const KEY_FIELD_SEPARATOR = "\u0001"
 
-export function condenseZoneRows(this: void, rows: ZoneRow[]): ZoneRow[] {
+function condenseZoneRows(this: void, rows: ZoneRow[]): ZoneRow[] {
   const rowsAlreadyKept: { [rowKey: string]: boolean } = {}
   const keptRows: ZoneRow[] = []
   for (const row of rows) {

@@ -34,11 +34,7 @@ function isFiltersWithCurrentPanel(
   return type(value) === "table"
 }
 
-export function onMountStateChanged(
-  this: void,
-  _eventCode: unknown,
-  isMounted: unknown
-): undefined {
+function onMountStateChanged(this: void, _eventCode: unknown, isMounted: unknown): undefined {
   if (STATE.settingsVars.settings.reOpenMapOnMounting !== true) {
     return
   }
@@ -57,7 +53,7 @@ export function onMountStateChanged(
   }
 }
 
-export function setAllWorldMapFilters(this: void, filterState: number | undefined): undefined {
+function setAllWorldMapFilters(this: void, filterState: number | undefined): undefined {
   if (filterState === undefined) {
     return
   }
@@ -96,7 +92,7 @@ export function setAllWorldMapFilters(this: void, filterState: number | undefine
 }
 
 let MAP_FILTERS_FRAGMENT_REGISTERED = false
-export function worldMapFilterButtons(this: void): undefined {
+function worldMapFilterButtons(this: void): undefined {
   if (MAP_FILTERS_FRAGMENT_REGISTERED) {
     return
   }
@@ -268,7 +264,7 @@ export function playerPinPingPong(this: void, fromKeybind?: boolean): undefined 
 }
 
 let IS_MAP_LOCATION_VISIBLE_HOOKED = false
-export function hideCityPois(this: void): undefined {
+function hideCityPois(this: void): undefined {
   if (STATE.settingsVars.settings.hidePOIsInCities !== true) {
     return
   }
@@ -297,7 +293,7 @@ export function hideCityPois(this: void): undefined {
   IS_MAP_LOCATION_VISIBLE_HOOKED = true
 }
 
-export function mapZoneStoryHide(this: void, _doHide?: boolean): undefined {
+function mapZoneStoryHide(this: void, _doHide?: boolean): undefined {
   const settings = STATE.settingsVars.settings
   if (settings.hideMapZoneStory === true) {
     if (IsInGamepadPreferredMode()) {

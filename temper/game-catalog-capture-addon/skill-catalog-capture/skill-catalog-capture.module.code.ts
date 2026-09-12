@@ -15,7 +15,7 @@ import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-ac
 const BATCH_SIZE = 100
 const BATCH_DELAY = 100
 
-export const MORPH_SLOTS = [MORPH_SLOT_BASE, MORPH_SLOT_MORPH_1, MORPH_SLOT_MORPH_2]
+const MORPH_SLOTS = [MORPH_SLOT_BASE, MORPH_SLOT_MORPH_1, MORPH_SLOT_MORPH_2]
 
 const EXCLUDE_FROM_COMPLETION_LINE_IDS: ReadonlySet<number> = new Set<number>([71])
 
@@ -38,7 +38,7 @@ export interface SkillWorkItem {
   esoSkillLineId: number
 }
 
-export function collectSkillsCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectSkillsCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, SkillCatalogLine> = {}
 

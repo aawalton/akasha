@@ -19,7 +19,7 @@ import {
   STATE,
 } from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 
-export function resizePins(this: void, minimap: boolean): undefined {
+function resizePins(this: void, minimap: boolean): undefined {
   if (BUI === undefined) return
   const unknownPoi = ZO_MapPin.PIN_DATA[getPinTypeId(8)]
   if (unknownPoi !== undefined) {

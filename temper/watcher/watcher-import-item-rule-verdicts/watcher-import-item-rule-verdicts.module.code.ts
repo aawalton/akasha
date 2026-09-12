@@ -75,7 +75,7 @@ export type VerdictImportLog = {
   readonly logError: (message: string) => void
 }
 
-export const WATCHER_VERDICT_LOG: VerdictImportLog = { log, logError }
+const WATCHER_VERDICT_LOG: VerdictImportLog = { log, logError }
 
 export type VerdictUserSource = {
   readonly userId: () => Promise<string>
@@ -122,7 +122,7 @@ async function settingsBlobOf(userId: string): Promise<Record<string, unknown> |
   return asRecordOrEmpty(JSON.parse(held))
 }
 
-export function temperPlayerSettingsStore(): VerdictSettingsStore {
+function temperPlayerSettingsStore(): VerdictSettingsStore {
   return {
     read: async (userId) => {
       const blob = await settingsBlobOf(userId)

@@ -90,7 +90,7 @@ export function getSetReconstructionCost(
   return $multi(undefined, undefined)
 }
 
-export function getItemLinkFromControl(
+function getItemLinkFromControl(
   this: void,
   rowControl: RowControl
 ): LuaMultiReturn<[string | undefined, number | undefined]> {
@@ -266,9 +266,7 @@ export function getItemLinkFromControl(
   return $multi(itemLink, undefined)
 }
 
-export function getMouseOverLink(
-  this: void
-): LuaMultiReturn<[string | undefined, number | undefined]> {
+function getMouseOverLink(this: void): LuaMultiReturn<[string | undefined, number | undefined]> {
   const [itemLink, setId] = getItemLinkFromControl(asRowControl(moc()))
   return $multi(itemLink, setId)
 }

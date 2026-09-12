@@ -6,20 +6,20 @@ import type {
 } from "akasha/temper/capture-shapes/lore-library-catalog/lore-library-catalog.module.code.ts"
 import { z } from "zod"
 
-export const loreLibraryBookSchema = z
+const loreLibraryBookSchema = z
   .object({
     name: z.string(),
   })
   .strict()
 
-export const loreLibraryCollectionSchema = z
+const loreLibraryCollectionSchema = z
   .object({
     name: z.string(),
     books: z.record(z.coerce.number(), loreLibraryBookSchema),
   })
   .strict()
 
-export const loreLibraryCategorySchema = z
+const loreLibraryCategorySchema = z
   .object({
     name: z.string(),
     collections: z.record(z.coerce.number(), loreLibraryCollectionSchema),
@@ -30,6 +30,6 @@ assertSchemaMatchesPayload<typeof loreLibraryBookSchema, LoreLibraryCatalogBook>
 assertSchemaMatchesPayload<typeof loreLibraryCollectionSchema, LoreLibraryCatalogCollection>()
 assertSchemaMatchesPayload<typeof loreLibraryCategorySchema, LoreLibraryCatalogCategory>()
 
-export const loreLibraryCatalogSchema = z.record(z.coerce.number(), loreLibraryCategorySchema)
+const loreLibraryCatalogSchema = z.record(z.coerce.number(), loreLibraryCategorySchema)
 
 export type LoreLibraryCatalog = z.infer<typeof loreLibraryCatalogSchema>

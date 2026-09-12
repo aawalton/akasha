@@ -21,17 +21,17 @@ export interface OpenQueueEntry {
   isStackable: boolean
 }
 
-export const OPEN_TIMEOUT_MS = 5000
-export const OPEN_RETRY_MS = 1000
-export const OPEN_NS = ADDON_NAME + "_OpenLoot"
+const OPEN_TIMEOUT_MS = 5000
+const OPEN_RETRY_MS = 1000
+const OPEN_NS = ADDON_NAME + "_OpenLoot"
 
-export let openQueueGen = 0
-export let openQueue: OpenQueueEntry[] = []
-export let openQueueOpenedLinks: string[] = []
-export let savedUpdateLootWindow: EsoLootWindow["UpdateLootWindow"] | undefined
+let openQueueGen = 0
+let openQueue: OpenQueueEntry[] = []
+let openQueueOpenedLinks: string[] = []
+let savedUpdateLootWindow: EsoLootWindow["UpdateLootWindow"] | undefined
 
 export const ATTEMPTED_OPEN_LINKS_HOLDER: { set: LuaSet<string> } = { set: new LuaSet<string>() }
-export let inFinishOpenQueueRescan = false
+let inFinishOpenQueueRescan = false
 
 export function resetAttemptedOpenLinksForChain(): undefined {
   if (!inFinishOpenQueueRescan) {
@@ -39,14 +39,14 @@ export function resetAttemptedOpenLinksForChain(): undefined {
   }
 }
 
-export function hookLootWindow(): undefined {
+function hookLootWindow(): undefined {
   if (savedUpdateLootWindow !== undefined) return
   const lootWindow = SYSTEMS.GetObject("loot")
   savedUpdateLootWindow = lootWindow.UpdateLootWindow
   lootWindow.UpdateLootWindow = function (this: EsoLootWindow): undefined {}
 }
 
-export function unhookLootWindow(): undefined {
+function unhookLootWindow(): undefined {
   if (savedUpdateLootWindow === undefined) return
   const lootWindow = SYSTEMS.GetObject("loot")
   lootWindow.UpdateLootWindow = savedUpdateLootWindow
@@ -56,7 +56,7 @@ export function unhookLootWindow(): undefined {
   }
 }
 
-export function cleanupOpenLootEvents(): undefined {
+function cleanupOpenLootEvents(): undefined {
   EVENT_MANAGER.UnregisterForUpdate(OPEN_NS + "_Timeout")
   EVENT_MANAGER.UnregisterForEvent(OPEN_NS, EVENT_LOOT_RECEIVED)
   EVENT_MANAGER.UnregisterForEvent(OPEN_NS, EVENT_LOOT_UPDATED)
@@ -64,7 +64,7 @@ export function cleanupOpenLootEvents(): undefined {
   unhookLootWindow()
 }
 
-export function finishOpenQueue(): undefined {
+function finishOpenQueue(): undefined {
   const hadOpens = openQueueOpenedLinks.length > 0
   if (hadOpens) {
     reportAction("Opened", openQueueOpenedLinks)
@@ -95,7 +95,7 @@ function skipEntryAndAdvance(entry: OpenQueueEntry): undefined {
   dropHeadAndAdvance()
 }
 
-export function processNextOpen(): undefined {
+function processNextOpen(): undefined {
   const gen = openQueueGen
 
   if (openQueue.length === 0) {

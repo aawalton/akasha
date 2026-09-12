@@ -85,7 +85,7 @@ function nameSorter(this: void, left: { name: string }, right: { name: string })
   return left.name < right.name
 }
 
-export function isFoundInLoreLibrary(search: string, data: CollectionNodeData): boolean {
+function isFoundInLoreLibrary(search: string, data: CollectionNodeData): boolean {
   const [nameMatch] = string.find(string.lower(data.name), search)
   if (nameMatch !== undefined) {
     return true
@@ -100,7 +100,7 @@ export function isFoundInLoreLibrary(search: string, data: CollectionNodeData): 
   return false
 }
 
-export function buildCategoryList(this: void, self: LoreLibraryObject): boolean {
+function buildCategoryList(this: void, self: LoreLibraryObject): boolean {
   const control = asSelfWithControl(self).control
   if (control.IsHidden()) {
     self.dirty = true
@@ -215,7 +215,7 @@ export function buildCategoryList(this: void, self: LoreLibraryObject): boolean 
   return true
 }
 
-export function buildBookListPostHook(): undefined {
+function buildBookListPostHook(): undefined {
   const dataType = LORE_LIBRARY.list.list.dataTypes[1]
   if (dataType === undefined) return
   const orgCallback = dataType.setupCallback
@@ -238,7 +238,7 @@ export function buildBookListPostHook(): undefined {
   }
 }
 
-export function isMotifButtonChecked(control: Control): boolean {
+function isMotifButtonChecked(control: Control): boolean {
   return ZO_CheckButton_IsChecked(control)
 }
 

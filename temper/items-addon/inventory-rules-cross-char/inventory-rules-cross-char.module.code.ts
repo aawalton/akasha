@@ -1,4 +1,4 @@
-export const CHARACTER_DESTINATION_PREFIX = "character:"
+const CHARACTER_DESTINATION_PREFIX = "character:"
 
 export function isVendorCrossCharDestination(destination: string | undefined): boolean {
   if (destination === undefined) return false

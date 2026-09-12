@@ -26,7 +26,7 @@ const achievementCatalogCategorySchema = z
   })
   .strict()
 
-export const achievementCatalogSchema = z
+const achievementCatalogSchema = z
   .object({
     categories: z.record(z.number(), achievementCatalogCategorySchema),
   })

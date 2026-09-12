@@ -51,7 +51,7 @@ function lamToggle(
   }
 }
 
-export function loadLAMSettingsMenu(this: void): boolean | undefined {
+function loadLAMSettingsMenu(this: void): boolean | undefined {
   const lam = MENU_STATE.lam
   if (lam === undefined || MENU_STATE.settingsMenuCreated.get(false) === true) {
     return undefined

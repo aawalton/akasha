@@ -9,7 +9,7 @@ const GAMEPAD_SKYSHARD_SKILLSPANEL_FORMAT_DETAILED = "|cffffff<<1>>/<<2>>|r"
 
 const SOUL_SHRIVEN_QUEST_ID = 4296
 
-export function getNumFoundSkyShards(this: void): undefined {
+function getNumFoundSkyShards(this: void): undefined {
   CONSOLE_STATE.collectedSkyShards = 0
   CONSOLE_STATE.totalSkyShards = 1
 

@@ -73,7 +73,7 @@ export function tooltipScalingHack(this: void): undefined {
   ComparativeTooltip2.SetScale(comparativeScale)
 }
 
-export function tooltipSizeHacks(this: void): undefined {
+function tooltipSizeHacks(this: void): undefined {
   tooltipBorderSizeHack()
   tooltipScalingHack()
 }

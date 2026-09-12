@@ -15,7 +15,7 @@ export function foldNetWorthScan(stats: BankTraceNetWorth, scanMs: number): Bank
   }
 }
 
-export function emptyBracket(): BankTraceBracket {
+function emptyBracket(): BankTraceBracket {
   return { count: 0, totalMs: 0, maxMs: 0 }
 }
 

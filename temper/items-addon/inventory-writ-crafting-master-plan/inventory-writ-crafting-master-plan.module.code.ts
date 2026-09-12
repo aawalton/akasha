@@ -1,4 +1,4 @@
-export const MASTER_WRIT_BASE_QUALITY = 1
+const MASTER_WRIT_BASE_QUALITY = 1
 
 export type MasterWritStepKind = "craft" | "improve"
 

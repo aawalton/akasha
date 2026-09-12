@@ -13,27 +13,24 @@ import {
   findCooldownGroup as pureFindCooldownGroup,
   matchesCooldownGroup as pureMatchesCooldownGroup,
 } from "akasha/temper/items-core/cooldown-groups/cooldown-groups.module.code.ts"
-export const RFTW_GROUP = PURE_RFTW_GROUP
-export const COOLDOWN_GROUPS = PURE_COOLDOWN_GROUPS
-export const DLC_DAILY_PATTERNS = PURE_DLC_DAILY_PATTERNS
-export const DLC_DAILY_KEYS = PURE_DLC_DAILY_KEYS
-export const DLC_DAILY_DURATION = PURE_DLC_DAILY_DURATION
 
-export function matchesCooldownGroup(
-  bagId: number,
-  slotIndex: number,
-  group: CooldownGroup
-): boolean {
+const RFTW_GROUP = PURE_RFTW_GROUP
+const COOLDOWN_GROUPS = PURE_COOLDOWN_GROUPS
+export const DLC_DAILY_PATTERNS = PURE_DLC_DAILY_PATTERNS
+const DLC_DAILY_KEYS = PURE_DLC_DAILY_KEYS
+const DLC_DAILY_DURATION = PURE_DLC_DAILY_DURATION
+
+function matchesCooldownGroup(bagId: number, slotIndex: number, group: CooldownGroup): boolean {
   const itemName = GetItemName(bagId, slotIndex)
   return pureMatchesCooldownGroup({ itemName }, group)
 }
 
-export function isDlcDailyContainer(bagId: number, slotIndex: number): boolean {
+function isDlcDailyContainer(bagId: number, slotIndex: number): boolean {
   const itemName = GetItemName(bagId, slotIndex)
   return isDlcDailyContainerByName({ itemName })
 }
 
-export function resolveDlcDailyKeys(bagId: number, slotIndex: number): string[] | undefined {
+function resolveDlcDailyKeys(bagId: number, slotIndex: number): string[] | undefined {
   if (!isDlcDailyContainer(bagId, slotIndex)) return undefined
   const annotation = getQuestAnnotation(bagId, slotIndex)
   if (annotation !== undefined) {
@@ -42,7 +39,7 @@ export function resolveDlcDailyKeys(bagId: number, slotIndex: number): string[] 
   return [DLC_DAILY_KEYS["delve"], DLC_DAILY_KEYS["group-boss"], DLC_DAILY_KEYS["world-event"]]
 }
 
-export function isCooldownActiveForAnyKey(keys: string[]): boolean {
+function isCooldownActiveForAnyKey(keys: string[]): boolean {
   const sv = getSavedVariables()
   const now = GetTimeStamp()
   for (const key of keys) {
@@ -61,7 +58,7 @@ export function findCooldownGroup(bagId: number, slotIndex: number): CooldownGro
   return pureFindCooldownGroup({ itemName })
 }
 
-export function isCooldownActiveForGroup(group: CooldownGroup): boolean {
+function isCooldownActiveForGroup(group: CooldownGroup): boolean {
   const sv = getSavedVariables()
   const expiry = sv.openCooldowns?.[group.key]
   return expiry !== undefined && GetTimeStamp() < expiry
@@ -77,7 +74,7 @@ export function getActiveCooldownGroup(
   return undefined
 }
 
-export function shouldBlockOpen(bagId: number, slotIndex: number): boolean {
+function shouldBlockOpen(bagId: number, slotIndex: number): boolean {
   const group = findCooldownGroup(bagId, slotIndex)
   if (group) return isCooldownActiveForGroup(group)
 

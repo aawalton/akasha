@@ -21,15 +21,15 @@ import {
   userIdFor,
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
-export const COMPANION_PROGRESS_PAGE_TYPE = "temper-companion-progress"
+const COMPANION_PROGRESS_PAGE_TYPE = "temper-companion-progress"
 
-export const COMPANION_BUILD_PAGE_TYPE = "companion-build"
+const COMPANION_BUILD_PAGE_TYPE = "companion-build"
 
-export const TARGET_BUILDS_KEY = "companionTargetBuilds"
+const TARGET_BUILDS_KEY = "companionTargetBuilds"
 
-export const TARGET_TIMESTAMPS_KEY = "companionTargetTimestamps"
+const TARGET_TIMESTAMPS_KEY = "companionTargetTimestamps"
 
-export const COMPANION_SIBLING_KEYS = ["companions", "selectedCompanionId"] as const
+const COMPANION_SIBLING_KEYS = ["companions", "selectedCompanionId"] as const
 
 const PROGRESS_PAGE_SIZE = 1000
 
@@ -117,7 +117,7 @@ export interface CompanionBuildsSurroundings {
   readonly noteError: (message: string) => undefined
 }
 
-export const WATCHER_SURROUNDINGS: CompanionBuildsSurroundings = {
+const WATCHER_SURROUNDINGS: CompanionBuildsSurroundings = {
   progressPages: (userId) =>
     collectPages({
       pageTypeSlug: COMPANION_PROGRESS_PAGE_TYPE,
@@ -163,7 +163,7 @@ async function companionTargetOf(
   return { defId, buildHash, seconds: updatedAtSeconds(build.updatedAt, surroundings.now()) }
 }
 
-export async function collectCompanionTargets(
+async function collectCompanionTargets(
   userId: string,
   surroundings: CompanionBuildsSurroundings = WATCHER_SURROUNDINGS
 ): Promise<readonly CompanionTarget[]> {

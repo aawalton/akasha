@@ -143,7 +143,7 @@ function printGateEvalSummary(
   }
 }
 
-export function onTemperInventoryExplainCommand(this: void, args: string): undefined {
+function onTemperInventoryExplainCommand(this: void, args: string): undefined {
   const [captured] = string.match(args, "(|H.-|h.-|h)")
   const matched = captureOrNull(captured)
   if (matched === null) {

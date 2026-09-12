@@ -12,7 +12,7 @@ import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-ac
 
 const COLLECTION_BOOK_PROBE_CEILING = 100
 
-export function collectLoreLibraryCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectLoreLibraryCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, LoreLibraryCatalogCategory> = {}
 

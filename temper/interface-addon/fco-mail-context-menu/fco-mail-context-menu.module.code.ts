@@ -35,7 +35,7 @@ let MAIL_CONTEXT_MENUS_AT_EDIT_FIELDS_HOOKED = false
 
 let settingsForLSMContextMenu: LsmContextMenuOptions | undefined
 
-export function onMouseUpAtMailEditBox(
+function onMouseUpAtMailEditBox(
   this: void,
   fieldType: MailFieldType,
   isTriangleButton: boolean,

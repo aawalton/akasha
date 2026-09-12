@@ -5,11 +5,12 @@ import {
 } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { reportAction } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-export const MAX_OPS = 50
-export const FRAME_DELAY = 200
-export let equipGeneration = 0
 
-export function equipSlotPriority(slot: number): number {
+const MAX_OPS = 50
+const FRAME_DELAY = 200
+let equipGeneration = 0
+
+function equipSlotPriority(slot: number): number {
   if (slot === EQUIP_SLOT_BACKUP_MAIN) return 0
   if (slot === EQUIP_SLOT_BACKUP_OFF) return 1
   if (slot === EQUIP_SLOT_MAIN_HAND) return 2
@@ -27,7 +28,7 @@ export function equipSlotPriority(slot: number): number {
   return 99
 }
 
-export function resolveEquipSlot(itemLink: string): number | undefined {
+function resolveEquipSlot(itemLink: string): number | undefined {
   const equipType = GetItemLinkEquipType(itemLink)
   if (equipType === EQUIP_TYPE_HEAD) return EQUIP_SLOT_HEAD
   if (equipType === EQUIP_TYPE_CHEST) return EQUIP_SLOT_CHEST
@@ -175,7 +176,7 @@ export function dispatchEquipActions(): undefined {
   }, reportDelay)
 }
 
-export function equipItem(item: EquipEntry, currentCharId: string): boolean {
+function equipItem(item: EquipEntry, currentCharId: string): boolean {
   const [stackCount] = GetSlotStackSize(item.bagId, item.slotIndex)
   if (stackCount === 0) {
     d(`[${ADDON_NAME}] Equip skip: slot ${item.slotIndex} empty`)

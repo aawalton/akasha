@@ -17,7 +17,7 @@ export const lam: Lam = asLam({
   controlsForReload: [],
 })
 
-export const widgets = lam.widgets
+const widgets = lam.widgets
 export const controlsForReload = lam.controlsForReload
 
 export const LAMCC: Lamcc = { scrollCount: 0 }

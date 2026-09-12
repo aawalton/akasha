@@ -282,16 +282,16 @@ function fcocsLearnableItemIconChanges(this: void): undefined {
   }
 }
 
-export function noNewItemIcon(this: void): undefined {
+function noNewItemIcon(this: void): undefined {
   fcocsNoNewItemIcon()
   fcocsNoNewItemItemsList()
 }
 
-export function learnableItemIconChanges(this: void): undefined {
+function learnableItemIconChanges(this: void): undefined {
   fcocsLearnableItemIconChanges()
 }
 
-export function noNotSellableItemIcon(this: void): undefined {
+function noNotSellableItemIcon(this: void): undefined {
   fcocsNoNotSellableItemIcon()
 }
 

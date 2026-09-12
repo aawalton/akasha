@@ -7,24 +7,24 @@ import {
 } from "akasha/temper/items-addon/inventory-mail-source-category/inventory-mail-source-category.module.code.ts"
 export type MailHandlerState = "idle" | "waiting-response"
 
-export const MAX_TAKE_PASSES = 25
+const MAX_TAKE_PASSES = 25
 
-export const RESPONSE_TIMEOUT_MS = 3000
+const RESPONSE_TIMEOUT_MS = 3000
 
-export let state: MailHandlerState = "idle"
-export let pendingCount = 0
-export let matchCount = 0
-export let takePasses = 0
-export let activeCategory: MailSourceCategory | undefined = undefined
+let state: MailHandlerState = "idle"
+let pendingCount = 0
+let matchCount = 0
+let takePasses = 0
+let activeCategory: MailSourceCategory | undefined
 
-export const RESPONSE_EVENT = ADDON_NAME + "_MailTakeAllResponse"
-export const INBOX_UPDATE_EVENT = ADDON_NAME + "_MailInboxUpdate"
-export const CLOSE_EVENT = ADDON_NAME + "_MailboxClosed"
-export const RESPONSE_TIMEOUT_UPDATE = ADDON_NAME + "_MailTakeAllTimeout"
+const RESPONSE_EVENT = ADDON_NAME + "_MailTakeAllResponse"
+const INBOX_UPDATE_EVENT = ADDON_NAME + "_MailInboxUpdate"
+const CLOSE_EVENT = ADDON_NAME + "_MailboxClosed"
+const RESPONSE_TIMEOUT_UPDATE = ADDON_NAME + "_MailTakeAllTimeout"
 
 export type TakeAllDecision = "take" | "finish"
 
-export function decideAfterResponse(
+function decideAfterResponse(
   succeeded: boolean,
   canTakeMore: boolean,
   passes: number,
@@ -36,7 +36,7 @@ export function decideAfterResponse(
   return "take"
 }
 
-export function parseMailHeader(mailId: Id64): MailHeader {
+function parseMailHeader(mailId: Id64): MailHeader {
   const [
     senderDisplayName,
     ,
@@ -66,7 +66,7 @@ export function parseMailHeader(mailId: Id64): MailHeader {
   }
 }
 
-export function countCategoryMatches(category: MailSourceCategory): number {
+function countCategoryMatches(category: MailSourceCategory): number {
   let count = 0
   const total = GetNumMailItemsByCategory(category.scanCategory)
   for (let index = 1; index <= total; index++) {
@@ -78,7 +78,7 @@ export function countCategoryMatches(category: MailSourceCategory): number {
   return count
 }
 
-export function tryTakeAll(this: void): undefined {
+function tryTakeAll(this: void): undefined {
   if (state !== "idle") return
   const category = activeCategory
   if (category === undefined) return
@@ -111,7 +111,7 @@ export function tryTakeAll(this: void): undefined {
   )
 }
 
-export function onTakeAllResponse(
+function onTakeAllResponse(
   this: void,
   _event: number,
   result: MailTakeAttachmentResult,
@@ -137,13 +137,13 @@ export function onTakeAllResponse(
   finishSession()
 }
 
-export function onInboxUpdate(this: void): undefined {
+function onInboxUpdate(this: void): undefined {
   if (state !== "idle") return
   if (activeCategory === undefined) return
   tryTakeAll()
 }
 
-export function finishSession(reason?: string): undefined {
+function finishSession(reason?: string): undefined {
   EVENT_MANAGER.UnregisterForEvent(
     RESPONSE_EVENT,
     EVENT_MAIL_TAKE_ALL_ATTACHMENTS_IN_CATEGORY_RESPONSE
@@ -170,7 +170,7 @@ export function finishSession(reason?: string): undefined {
   }
 }
 
-export function beginMailSession(this: void, category: MailSourceCategory): undefined {
+function beginMailSession(this: void, category: MailSourceCategory): undefined {
   if (state !== "idle" || activeCategory !== undefined) return
 
   activeCategory = category
@@ -190,7 +190,7 @@ export function beginMailSession(this: void, category: MailSourceCategory): unde
   tryTakeAll()
 }
 
-export function onMailboxClosed(this: void): undefined {
+function onMailboxClosed(this: void): undefined {
   if (activeCategory === undefined) return
   finishSession()
 }

@@ -64,7 +64,7 @@ const ACTIVE_SLOT_IDS = companionSkillSlots.ids.filter(
   (id): id is Exclude<CompanionSkillSlotId, "ultimate"> => id !== "ultimate"
 )
 
-export function getFilteredSkillIds(state: CompanionState): readonly CompanionSkillId[] {
+function getFilteredSkillIds(state: CompanionState): readonly CompanionSkillId[] {
   const roles = state.companion.baseRoles
   const parallelUseful = isParallelUseful(state)
   return getValidSkillIds(state).filter((skillId) => {

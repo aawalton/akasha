@@ -2,7 +2,7 @@ import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-sc
 import type { ListingEntry } from "akasha/temper/trading-listings/listing-types/listing-types.module.code.ts"
 import { z } from "zod"
 
-export const listingEntrySchema = z
+const listingEntrySchema = z
   .object({
     itemLink: z.string(),
     itemName: z.string(),

@@ -3,7 +3,7 @@ import {
   WIDGET_PREFIX,
 } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
 
-export function errorOutput(
+function errorOutput(
   this: void,
   errorTextName: string,
   values?: (string | number)[],
@@ -24,7 +24,7 @@ export function errorOutput(
   return undefined
 }
 
-export function buildErrorOutput(
+function buildErrorOutput(
   this: void,
   errorTextName: string,
   values?: (string | number)[]

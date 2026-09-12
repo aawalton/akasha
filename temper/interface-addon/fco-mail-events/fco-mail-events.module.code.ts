@@ -73,7 +73,7 @@ export function checkAndSaveMailValuesOfEnabledFields(
   }
 }
 
-export function checkAndLoadMailValuesOfEnabledFields(this: void): undefined {
+function checkAndLoadMailValuesOfEnabledFields(this: void): undefined {
   const settings = getMailSettings()
   const autoLoadMailFields = settings.autoLoadMailFields
   const openMailFields = settings.autoLoadMailFieldsAt.mailOpen

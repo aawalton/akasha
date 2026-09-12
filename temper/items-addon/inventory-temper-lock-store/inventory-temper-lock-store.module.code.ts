@@ -3,7 +3,8 @@ import {
   isValidLockKey,
   selectStaleLockKeys,
 } from "akasha/temper/items-addon/inventory-temper-lock-core/inventory-temper-lock-core.module.code.ts"
-export function temperLockKeyForSlot(bagId: number, slotIndex: number): string | undefined {
+
+function temperLockKeyForSlot(bagId: number, slotIndex: number): string | undefined {
   const uniqueId = GetItemUniqueId(bagId, slotIndex)
   if (uniqueId === undefined) return undefined
   const key = Id64ToString(uniqueId)

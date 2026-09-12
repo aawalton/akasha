@@ -16,6 +16,6 @@ const poiCatalogZoneSchema = z
   })
   .strict()
 
-export const poiCatalogSchema = z.record(z.number(), poiCatalogZoneSchema)
+const poiCatalogSchema = z.record(z.number(), poiCatalogZoneSchema)
 
 assertSchemaMatchesPayload<typeof poiCatalogSchema, Record<number, PoiCatalogZone>>()

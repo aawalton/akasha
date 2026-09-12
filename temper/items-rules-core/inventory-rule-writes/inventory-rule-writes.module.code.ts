@@ -26,7 +26,7 @@ function fieldsOf(row: Row | HeldRule["page"]): ReadonlyMap<string, unknown> {
   return new Map(Object.entries(row))
 }
 
-export function sameRow(one: Row, two: Row | undefined): boolean {
+function sameRow(one: Row, two: Row | undefined): boolean {
   if (two === undefined) return false
   const held = fieldsOf(two)
   for (const [key, value] of fieldsOf(one)) {

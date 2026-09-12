@@ -4,7 +4,7 @@ import {
 } from "akasha/temper/interface-addon/fco-casts/fco-casts.module.code.ts"
 import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
-export const DISABLED_SOUND_BACKUPS: { current: Record<string, string> } = { current: {} }
+const DISABLED_SOUND_BACKUPS: { current: Record<string, string> } = { current: {} }
 
 export const DISABLE_SOUNDS_SHIFTER_BOX_CONTROL: { current: ShifterBox | undefined } = {
   current: undefined,
@@ -62,9 +62,7 @@ const DISABLE_SOUNDS_SHIFTER_BOX_STYLE = {
   height: 200,
 }
 
-export function setSoundsDisabledState(
-  this: void
-): [Record<string, string>, Record<string, unknown>] {
+function setSoundsDisabledState(this: void): [Record<string, string>, Record<string, unknown>] {
   const backupedSounds = DISABLED_SOUND_BACKUPS.current
   const settings = STATE.settingsVars.settings
   const isDisableSoundLSBEnabled = settings.disableSoundsLibShifterBox
@@ -207,7 +205,7 @@ export function updateDisabledSoundsLibShifterBoxState(
   box.SetEnabled(isDisableSoundLSBEnabled)
 }
 
-export function buildSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): undefined {
+function buildSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): undefined {
   if (parentCtrl === undefined) {
     return
   }

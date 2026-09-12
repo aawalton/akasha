@@ -14,7 +14,7 @@ export type UpstreamVerdict =
 
 const ADDON_VERSION_FIELD = "addonversion:"
 
-export function parseAddOnVersion(manifestText: string): string | undefined {
+function parseAddOnVersion(manifestText: string): string | undefined {
   for (const line of manifestText.split(/\r?\n/)) {
     const directive = line.trim()
     if (!directive.startsWith("##")) continue

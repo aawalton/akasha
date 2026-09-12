@@ -1,7 +1,7 @@
 const lib = LibSets
 
 export const MAJOR = lib.name
-export const MINOR = lib.version
+const MINOR = lib.version
 
 export const UNKNOWN_NAME = "n/a"
 

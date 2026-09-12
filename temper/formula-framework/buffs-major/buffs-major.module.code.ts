@@ -16,7 +16,7 @@ interface BuffMajorTemplate {
   effects: readonly BuffMajorEffect[]
 }
 
-export const TEMPER_BUFF_MAJOR_DATA = {
+const TEMPER_BUFF_MAJOR_DATA = {
   "major-aegis": {
     id: "major-aegis" as const,
     name: "Major Aegis",

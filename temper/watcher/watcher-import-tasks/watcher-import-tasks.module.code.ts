@@ -26,11 +26,11 @@ import { refreshTaskProgress } from "akasha/temper/watcher/watcher-task-progress
 import { tasksThatRoll } from "akasha/temper/watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
-export const TASK_PAGE_TYPE_SLUG = "temper-task"
+const TASK_PAGE_TYPE_SLUG = "temper-task"
 
-export const MILLISECONDS_PER_SECOND = 1000
+const MILLISECONDS_PER_SECOND = 1000
 
-export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
+const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
 export type TaskPage = Row & { id: string; slug: string }
 
@@ -75,7 +75,7 @@ export function seamsReady(seams: ImportTasksSeams = {}): ReadySeams {
   }
 }
 
-export function taskCompletionShape(): CompletionShape {
+function taskCompletionShape(): CompletionShape {
   const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
   if (shape === null) {
     throw new Error(`no completion shape names \`${TASK_PAGE_TYPE_SLUG}\``)
@@ -83,11 +83,11 @@ export function taskCompletionShape(): CompletionShape {
   return shape
 }
 
-export function asText(value: unknown): string | undefined {
+function asText(value: unknown): string | undefined {
   return textIn(value) ?? undefined
 }
 
-export function asInstant(value: unknown): string | number | undefined {
+function asInstant(value: unknown): string | number | undefined {
   if (typeof value === "number") return value
   return asText(value)
 }
@@ -109,7 +109,7 @@ export function isCompleteForever(task: TaskPage): boolean {
   return total > 0 && current >= total
 }
 
-export function markedDone(shape: CompletionShape, atMs: number): Readonly<Record<string, string>> {
+function markedDone(shape: CompletionShape, atMs: number): Readonly<Record<string, string>> {
   const stamp = new Date(atMs).toISOString()
   return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
 }
@@ -124,7 +124,7 @@ export function completionSet(
   return completionValues(shape, task, completedAtMs, at.getTime())
 }
 
-export function completedOnThatDay(task: TaskPage, completedAtMs: number): boolean {
+function completedOnThatDay(task: TaskPage, completedAtMs: number): boolean {
   const shape = taskCompletionShape()
   const lastMs = instantToMillis(asInstant(task[shape.stampKey]))
   if (lastMs === null) return false
@@ -174,10 +174,7 @@ export async function clearCompletion(task: TaskPage, seams: ReadySeams): Promis
   return { action: "cleared" }
 }
 
-export async function readTaskPages(
-  userId: string,
-  seams: ReadySeams
-): Promise<readonly TaskPage[]> {
+async function readTaskPages(userId: string, seams: ReadySeams): Promise<readonly TaskPage[]> {
   const asked = await seams.ask({
     pageTypeSlug: TASK_PAGE_TYPE_SLUG,
     where: { accountPage: { is: userId } },
@@ -204,7 +201,7 @@ async function refreshedOrSaid(
   }
 }
 
-export function taskFactsOf(task: TaskPage): TaskFacts {
+function taskFactsOf(task: TaskPage): TaskFacts {
   const card = asText(task.completionCardId)
   if (card === undefined) return { slug: task.slug }
   const held = task.completionItemPath
@@ -225,7 +222,7 @@ export function tasksByName(tasks: readonly TaskPage[]): Map<string, TaskPage> {
   return byName
 }
 
-export async function rollOnProgress(
+async function rollOnProgress(
   tasks: readonly TaskPage[],
   read: TaskCompletionsRead,
   userId: string,

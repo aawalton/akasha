@@ -27,7 +27,7 @@ export interface SkillMorphLineProgressInput {
   lineSkills: Record<number, MorphSkillProgress> | undefined
 }
 
-export function resolveSkillMorphLineProgress(input: SkillMorphLineProgressInput): {
+function resolveSkillMorphLineProgress(input: SkillMorphLineProgressInput): {
   current: number
   total: number
 } {
@@ -54,7 +54,7 @@ export interface SkillMorphSkillProgressInput {
   skillBaseName: string
 }
 
-export function resolveSkillMorphSkillProgress(
+function resolveSkillMorphSkillProgress(
   input: SkillMorphSkillProgressInput
 ): { current: number; total: number } | undefined {
   const isExpected = input.expectedSkillsForLine.some((s) => s.baseName === input.skillBaseName)

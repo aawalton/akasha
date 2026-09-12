@@ -19,7 +19,7 @@ function isKeybindingsEmpty(this: void, held: Record<string, VkBind[] | undefine
   return Object.keys(held).length === 0
 }
 
-export function handleControlsPageOpened(this: void): undefined {
+function handleControlsPageOpened(this: void): undefined {
   KEYBINDINGS_FRAGMENT.RegisterCallback("StateChange", (_oldState: number, newState: number) => {
     if (newState === SCENE_FRAGMENT_SHOWING) {
       if (KEYBINDER_STATE.isDirty) {
@@ -36,7 +36,7 @@ export function handleControlsPageOpened(this: void): undefined {
   })
 }
 
-export function keepBindButtonEnabled(this: void): undefined {
+function keepBindButtonEnabled(this: void): undefined {
   const bindButton = BIND_KEY_DIALOG.control.bindButton
   const orgEnabled = bindButton.SetEnabled
   bindButton.SetEnabled = function (this: BindKeyDialogButton, _enabled: boolean): undefined {

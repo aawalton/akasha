@@ -69,7 +69,7 @@ export interface ReconcileResult {
   readonly memory: AutoQuestMemory
 }
 
-export function exploreKey(menuFingerprint: string, index: number): string {
+function exploreKey(menuFingerprint: string, index: number): string {
   return `${menuFingerprint}${index}`
 }
 

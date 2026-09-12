@@ -31,11 +31,11 @@ export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
 export const COMPLETION_OVERRIDE_PAGE_TYPE_SLUG = "temper-completion-override"
 
-export const TASKS_KEY = "tasks"
+const TASKS_KEY = "tasks"
 
-export const CHARACTER_PRIORITY_KEY = "characterPriority"
+const CHARACTER_PRIORITY_KEY = "characterPriority"
 
-export const TEMPER_CHARACTERS_SIBLINGS = ["characters", "account", "navigation"] as const
+const TEMPER_CHARACTERS_SIBLINGS = ["characters", "account", "navigation"] as const
 
 const ROWS_PER_READ = 1000
 
@@ -101,7 +101,7 @@ export function taskKey(row: Page): string {
   return row.id
 }
 
-export function stillToDo(row: Page): boolean {
+function stillToDo(row: Page): boolean {
   const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
   if (shape === null) return true
   return !readsAsDone(shape, row)
@@ -144,7 +144,7 @@ async function learnCharacterEsoIds(
   return
 }
 
-export async function completionOverridesByEsoCharacter(
+async function completionOverridesByEsoCharacter(
   userId: string,
   characterEsoIdById: Map<string, string>,
   collect: PageCollect = collectPages,

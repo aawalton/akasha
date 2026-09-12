@@ -52,7 +52,7 @@ const ACTIONS: readonly ItemAction[] = [
   "list",
 ] as const
 
-export const CLASSIFIED_ITEM_ARB: fc.Arbitrary<ClassifiedInventoryItem> = fc
+const CLASSIFIED_ITEM_ARB: fc.Arbitrary<ClassifiedInventoryItem> = fc
   .record({
     itemId: fc.integer({ min: 1, max: 100_000 }),
     pathIdx: fc.integer({ min: 0, max: CATEGORY_PATHS.length - 1 }),
@@ -67,14 +67,14 @@ export const CLASSIFIED_ITEM_ARB: fc.Arbitrary<ClassifiedInventoryItem> = fc
     bagId,
   }))
 
-export const CATEGORY_RULE_ARB: fc.Arbitrary<CategoryRule> = fc.record({
+const CATEGORY_RULE_ARB: fc.Arbitrary<CategoryRule> = fc.record({
   id: fc.uuid(),
   categoryId: fc.constantFrom(...ALL_CATEGORY_IDS),
   action: fc.constantFrom(...ACTIONS),
   active: fc.option(fc.boolean(), { nil: undefined }),
 })
 
-export const ITEM_RULE_ARB: fc.Arbitrary<ItemRule> = fc.record({
+const ITEM_RULE_ARB: fc.Arbitrary<ItemRule> = fc.record({
   id: fc.uuid(),
   itemId: fc.integer({ min: 1, max: 100_000 }),
   itemName: fc.constant("Test Item"),
@@ -82,7 +82,7 @@ export const ITEM_RULE_ARB: fc.Arbitrary<ItemRule> = fc.record({
   active: fc.option(fc.boolean(), { nil: undefined }),
 })
 
-export function dedupeById<T extends { id: string }>(rules: readonly T[]): readonly T[] {
+function dedupeById<T extends { id: string }>(rules: readonly T[]): readonly T[] {
   const seen = new Set<string>()
   return rules.filter((r) => {
     if (seen.has(r.id)) return false
@@ -101,7 +101,7 @@ export const ITEM_RULE_LIST_ARB = fc
 
 export const CLASSIFIED_ITEM_LIST_ARB = fc.array(CLASSIFIED_ITEM_ARB, { maxLength: 25 })
 
-export function ruleMatchesItem(rule: CategoryRule, item: ClassifiedInventoryItem): boolean {
+function ruleMatchesItem(rule: CategoryRule, item: ClassifiedInventoryItem): boolean {
   if (rule.categoryId === ALL_CATEGORIES_ID) return true
   return item.nodeIds.includes(rule.categoryId)
 }

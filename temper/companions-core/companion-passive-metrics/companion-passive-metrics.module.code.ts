@@ -5,7 +5,7 @@ export interface CompanionPassiveMetricTemplate {
   name: string
 }
 
-export const TEMPER_COMPANION_PASSIVE_METRICS = {
+const TEMPER_COMPANION_PASSIVE_METRICS = {
   "companion-ability-cooldown": { id: "companion-ability-cooldown", name: "Cooldowns" },
   "companion-armor": { id: "companion-armor", name: "Armor" },
   "companion-break-free-cooldown": { id: "companion-break-free-cooldown", name: "Break Free CD" },

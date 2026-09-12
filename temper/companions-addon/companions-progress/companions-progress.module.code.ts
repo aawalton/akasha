@@ -8,12 +8,12 @@ import {
   type SavedCompanionEntry,
 } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 
-export function getActiveCompanionEntry(): SavedCompanionEntry | undefined {
+function getActiveCompanionEntry(): SavedCompanionEntry | undefined {
   if (!HasActiveCompanion()) return undefined
   return ensureCompanionEntry(GetActiveCompanionDefId())
 }
 
-export function collectCompanionSkillLines(entry: SavedCompanionEntry): undefined {
+function collectCompanionSkillLines(entry: SavedCompanionEntry): undefined {
   if (!AreCompanionSkillsInitialized()) return
 
   entry.skillLineProgress = {}
@@ -68,7 +68,7 @@ export function updateCompanionExperience(level: number, currentXP: number): und
   entry.currentXP = currentXP
 }
 
-export function updateCompanionRapport(currentRapport: number): undefined {
+function updateCompanionRapport(currentRapport: number): undefined {
   const entry = getActiveCompanionEntry()
   if (entry === undefined) return
 

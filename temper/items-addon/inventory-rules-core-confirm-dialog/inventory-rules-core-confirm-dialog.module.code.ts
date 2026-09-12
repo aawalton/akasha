@@ -1,5 +1,6 @@
 import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
-export const CONFIRM_DIALOG_NAME = "TEMPERINVENTORY_CONFIRM_DESTRUCTIVE"
+
+const CONFIRM_DIALOG_NAME = "TEMPERINVENTORY_CONFIRM_DESTRUCTIVE"
 
 export function shouldConfirmAction(action: string): boolean {
   const confirmActions = getInventoryConfig().safety?.confirmActions

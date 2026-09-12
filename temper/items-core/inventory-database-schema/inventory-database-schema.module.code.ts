@@ -89,7 +89,7 @@ const inventoryCurrenciesSchema = z
   })
   .strict()
 
-export const inventoryDatabaseSchema = z
+const inventoryDatabaseSchema = z
   .object({
     locations: z.record(z.string(), locationSchema),
     meta: z

@@ -1,4 +1,4 @@
-export const POTION_ITEM_ID_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
+const POTION_ITEM_ID_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
   [64710]: ["health-restore", "magicka-restore", "stamina-restore"],
   [112427]: ["magicka-restore"],
   [112428]: ["stamina-restore"],
@@ -39,7 +39,7 @@ export const POTION_ITEM_ID_TO_RESTORE_METRICS: Record<number, readonly string[]
   [224832]: ["magicka-restore", "stamina-restore"],
 }
 
-export const POTION_ENCODED_TRAITS_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
+const POTION_ENCODED_TRAITS_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
   [8849689]: [],
   [8456477]: ["health-restore"],
   [8984861]: [],

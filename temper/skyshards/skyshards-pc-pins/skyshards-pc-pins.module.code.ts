@@ -26,7 +26,7 @@ import {
 import { PIN_TOOLTIP_CREATOR } from "akasha/temper/skyshards/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts"
 import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
 
-export function setMainworldTint(this: void, pin: MapPin): unknown {
+function setMainworldTint(this: void, pin: MapPin): unknown {
   if (pin.m_PinTag != null) {
     const pinTag = pin.m_PinTag as SkyshardPin
     const moreInfo = optionalField(pinTag, SKYSHARDS_PINDATA_MOREINFO)

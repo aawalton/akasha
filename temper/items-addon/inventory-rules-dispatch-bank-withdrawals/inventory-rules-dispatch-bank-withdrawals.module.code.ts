@@ -33,9 +33,10 @@ import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/action-
 import { planStockReconcile } from "akasha/temper/items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-export const BANK_CHARACTER_PREFIX = "character:"
 
-export function canCurrentCharacterBenefitFromXP(): boolean {
+const BANK_CHARACTER_PREFIX = "character:"
+
+function canCurrentCharacterBenefitFromXP(): boolean {
   if (GetPlayerChampionPointsEarned() < 3600) return true
 
   if (GetUnitLevel("player") < 50) return true
@@ -68,7 +69,7 @@ export function canCurrentCharacterBenefitFromXP(): boolean {
   return false
 }
 
-export function collectBankWithdrawals(
+function collectBankWithdrawals(
   ctx: BankSlotContext,
   currentCharId: string,
   frozen: FrozenStockCounts

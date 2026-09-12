@@ -11,7 +11,7 @@ import type {
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export const ZONE_COMPLETION_TYPES = [
+const ZONE_COMPLETION_TYPES = [
   ZONE_COMPLETION_TYPE_DELVES,
   ZONE_COMPLETION_TYPE_FEATURED_ACHIEVEMENTS,
   ZONE_COMPLETION_TYPE_GROUP_BOSSES,
@@ -28,10 +28,7 @@ export const ZONE_COMPLETION_TYPES = [
   ZONE_COMPLETION_TYPE_WORLD_EVENTS,
 ]
 
-export function collectZoneCompletionCatalog(
-  this: void,
-  onComplete: (this: void) => void
-): undefined {
+function collectZoneCompletionCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, ZoneCompletionCatalogZone> = {}
 

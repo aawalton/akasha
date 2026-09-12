@@ -6,10 +6,7 @@ import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export function collectCompanionEquipmentCatalog(
-  this: void,
-  onComplete: (this: void) => void
-): undefined {
+function collectCompanionEquipmentCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
 
   const catalog: CompanionEquipmentCatalogData = {

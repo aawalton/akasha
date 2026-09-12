@@ -1,10 +1,10 @@
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
-export const MOTIF_CHAPTERS_PER_STYLE = 14
+const MOTIF_CHAPTERS_PER_STYLE = 14
 
 export type SparseMotifKnowledge = Record<number, number[]>
 
-export function scanMotifKnowledge(): SparseMotifKnowledge {
+function scanMotifKnowledge(): SparseMotifKnowledge {
   const knowledge: SparseMotifKnowledge = {}
 
   const numStyles = GetNumValidItemStyles()

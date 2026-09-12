@@ -44,7 +44,7 @@ export function formatCategoryPath(chain: string[]): string {
   return parts.join(" > ")
 }
 
-export function formatConditionResult(label: string, pass: boolean): string {
+function formatConditionResult(label: string, pass: boolean): string {
   return `${label} ${pass ? "✓" : "✗"}`
 }
 

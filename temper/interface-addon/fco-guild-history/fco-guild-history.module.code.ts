@@ -80,7 +80,7 @@ function showLastPage(this: void): undefined {
 }
 
 let AUTO_JUMP_TO_NEXT_GUILD_HISTORY_PAGE = false
-export function recursivelyAutoNavigateToLastGuildHistoryPage(this: void): undefined {
+function recursivelyAutoNavigateToLastGuildHistoryPage(this: void): undefined {
   AUTO_JUMP_TO_NEXT_GUILD_HISTORY_PAGE = false
   if (
     guildHistoryKB === undefined ||

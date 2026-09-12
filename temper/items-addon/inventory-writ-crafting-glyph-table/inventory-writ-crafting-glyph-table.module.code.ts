@@ -60,7 +60,7 @@ export const LEVEL_TIERS: Array<[number, number, number, number]> = [
 
 export const TA_ITEM_ID = 45850
 
-export const ASPECT_RUNE_BY_QUALITY: Record<number, number> = {
+const ASPECT_RUNE_BY_QUALITY: Record<number, number> = {
   1: TA_ITEM_ID,
   2: 45851,
   3: 45852,
@@ -82,7 +82,7 @@ export interface MasterEnchantingRunes {
   aspectRuneId: number
 }
 
-export const MASTER_WRIT_TIER_BY_MATERIAL_ID: Record<number, number> = {
+const MASTER_WRIT_TIER_BY_MATERIAL_ID: Record<number, number> = {
   207: 308,
   225: 366,
 }

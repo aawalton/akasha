@@ -3,7 +3,7 @@ import { z } from "zod"
 export const HUD_SCENES = ["hud", "hudui", "loot"] as const
 export type HudScene = (typeof HUD_SCENES)[number]
 
-export const HIDE_MECHANISMS = [
+const HIDE_MECHANISMS = [
   "fragment-group",
   "scene-fragment",
   "SetHiddenForReason",
@@ -17,10 +17,10 @@ export const HIDE_MECHANISMS = [
 ] as const
 export type HideMechanism = (typeof HIDE_MECHANISMS)[number]
 
-export const COMPONENT_KINDS = ["fragment", "non-fragment-control"] as const
+const COMPONENT_KINDS = ["fragment", "non-fragment-control"] as const
 export type ComponentKind = (typeof COMPONENT_KINDS)[number]
 
-export const SOURCE_REF_SCHEMA = z
+const SOURCE_REF_SCHEMA = z
   .object({
     file: z.string().min(1),
     line: z.number().int().positive(),
@@ -28,7 +28,7 @@ export const SOURCE_REF_SCHEMA = z
   .strict()
 export type SourceRef = z.infer<typeof SOURCE_REF_SCHEMA>
 
-export const HUD_COMPONENT_RECORD_SCHEMA = z
+const HUD_COMPONENT_RECORD_SCHEMA = z
   .object({
     id: z.string().min(1),
     name: z.string().min(1),

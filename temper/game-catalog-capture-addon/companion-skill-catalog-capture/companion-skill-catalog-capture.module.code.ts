@@ -20,10 +20,7 @@ interface CompanionSkillWorkItem {
   abilityIndex: number
 }
 
-export function collectCompanionSkillCatalog(
-  this: void,
-  onComplete: (this: void) => void
-): undefined {
+function collectCompanionSkillCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, CompanionSkillCatalogLine> = {}
   const workItems: CompanionSkillWorkItem[] = []

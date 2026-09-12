@@ -5,7 +5,7 @@ const pendingUseDeposits = new LuaMap<
   readonly { readonly charId: string; readonly qty: number }[]
 >()
 
-export function setPendingUseDeposits(
+function setPendingUseDeposits(
   bagId: number,
   slotIndex: number,
   deposits: readonly { readonly charId: string; readonly qty: number }[]

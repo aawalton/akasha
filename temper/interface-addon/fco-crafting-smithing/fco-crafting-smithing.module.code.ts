@@ -177,7 +177,7 @@ function onCraftingCreateChangeArmorTypeButtonClicked(
   horizontalScrollList.SetSelectedIndex(newIndex)
 }
 
-export function smithingCreateOnLeftOrRight(this: void): undefined {
+function smithingCreateOnLeftOrRight(this: void): undefined {
   zo_callLater(() => {
     const horizontalScrollList = getHorizontalScrollList()
     if (horizontalScrollList === undefined) {
@@ -321,10 +321,10 @@ export function smithingCreateAddArmorTypeSwitchButton(this: void): undefined {
   }
 }
 
-export function smithingCreate(this: void): undefined {
+function smithingCreate(this: void): undefined {
   smithingCreateAddArmorTypeSwitchButton()
 }
 
-export function smithingImprove(this: void): undefined {
+function smithingImprove(this: void): undefined {
   smithingImproveBlockImprovement()
 }

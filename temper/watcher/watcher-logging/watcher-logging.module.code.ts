@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { WORKER_LOG } from "akasha/temper/watcher/watcher-daemon/watcher-daemon.module.code.ts"
 import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 
-export const MAX_LOG_BYTES = 1_000_000
+const MAX_LOG_BYTES = 1_000_000
 
 export const MAX_LOG_FILES = 3
 
@@ -34,7 +34,7 @@ export function rollRenames(path: string, maxFiles: number = MAX_LOG_FILES): rea
   return renames
 }
 
-export function workerLogFilePath(): string {
+function workerLogFilePath(): string {
   return join(watcherLogDir(), WORKER_LOG)
 }
 

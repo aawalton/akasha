@@ -16,7 +16,7 @@ interface BuffOtherTemplate {
   effects: readonly BuffOtherEffect[]
 }
 
-export const TEMPER_BUFF_OTHER_DATA = {
+const TEMPER_BUFF_OTHER_DATA = {
   "empower": {
     id: "empower" as const,
     name: "Empower",

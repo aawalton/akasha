@@ -41,7 +41,7 @@ import {
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-export const COMPLETION_TO_DO = "import this completion"
+const COMPLETION_TO_DO = "import this completion"
 
 const [CATALOG] = TARGET_OPERATIONS.catalog.imports
 const [CHARACTERS, COMPLETION, TASKS] = TARGET_OPERATIONS.characters.imports
@@ -70,7 +70,7 @@ export interface DispatchRunners {
   readonly exportTasks: typeof runExportTasks
 }
 
-export const WATCHER_RUNNERS: DispatchRunners = {
+const WATCHER_RUNNERS: DispatchRunners = {
   importCatalog: runImportCatalog,
   importCharacters: runImportCharacters,
   importCompanions: runImportCompanions,

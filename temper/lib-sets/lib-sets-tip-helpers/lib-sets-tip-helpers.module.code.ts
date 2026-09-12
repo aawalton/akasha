@@ -29,7 +29,7 @@ const SET_TYPE_TO_TEXTURE = lib.setTypeToTexture
 const undauntedChestTexture = asString(SET_TYPE_TO_TEXTURE["undaunted chest"])
 const vetDungTexture = asString(SET_TYPE_TO_TEXTURE["vet_dung"])
 
-export function isLineBreakAtEnd(this: void, str: string | undefined): boolean {
+function isLineBreakAtEnd(this: void, str: string | undefined): boolean {
   if (str === undefined || str === "") {
     return false
   }

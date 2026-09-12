@@ -25,7 +25,7 @@ function markerPath(savedVarsDir: string, member: string): string {
   return join(savedVarsDir, MARKER_DIRNAME, `${member}.json`)
 }
 
-export function isBundleMemberMigrated(savedVarsDir: string, member: string): boolean {
+function isBundleMemberMigrated(savedVarsDir: string, member: string): boolean {
   return existsSync(markerPath(savedVarsDir, member))
 }
 

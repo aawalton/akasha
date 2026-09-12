@@ -46,7 +46,7 @@ export function dbg(this: void, ...args: unknown[]): undefined {
   }
 }
 
-export function pinTaskOnError(this: void, err: unknown): undefined {
+function pinTaskOnError(this: void, err: unknown): undefined {
   const msg = asString(err)
   const [pinHit] = string.find(msg, "Map/MapPin", 1, true)
   const [nilHit] = string.find(msg, "attempt to index a nil value", 1, true)

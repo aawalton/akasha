@@ -6,7 +6,7 @@ interface SourceCategoryTemplate {
   displayOrder: number
 }
 
-export const TEMPER_SOURCE_CATEGORY_DATA = {
+const TEMPER_SOURCE_CATEGORY_DATA = {
   "base": { id: "base" as const, name: "Base Stats", displayOrder: 1 },
   "attributes": { id: "attributes" as const, name: "Attributes", displayOrder: 2 },
   "armor": { id: "armor" as const, name: "Armor", displayOrder: 3 },

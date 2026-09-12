@@ -22,10 +22,7 @@ function addonActionToItemAction(action: AddonItemAction): ItemAction {
   return action === "open-stolen-when-safe" ? "open" : action
 }
 
-export function resolveTooltipDecision(
-  bagId: number,
-  slotIndex: number
-): TooltipDecision | undefined {
+function resolveTooltipDecision(bagId: number, slotIndex: number): TooltipDecision | undefined {
   const pending = getPendingAction(bagId, slotIndex)
   if (pending !== undefined) {
     return {
@@ -43,7 +40,7 @@ export function resolveTooltipDecision(
   }
 }
 
-export function stockSurplus(
+function stockSurplus(
   bagId: number,
   slotIndex: number,
   targetQuantity: number | undefined

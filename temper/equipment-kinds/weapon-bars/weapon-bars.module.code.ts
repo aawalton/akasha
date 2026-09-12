@@ -5,7 +5,7 @@ export interface WeaponBarTemplate {
   name: string
 }
 
-export const TEMPER_WEAPON_BARS = {
+const TEMPER_WEAPON_BARS = {
   "primary-weapon-bar": { id: "primary-weapon-bar", name: "Primary Bar" },
   "backup-weapon-bar": { id: "backup-weapon-bar", name: "Backup Bar" },
 } as const satisfies Record<string, WeaponBarTemplate>

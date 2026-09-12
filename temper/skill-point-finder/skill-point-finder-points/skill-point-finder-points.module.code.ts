@@ -276,7 +276,7 @@ function setTotPoints(this: void): undefined {
   }
 }
 
-export function updateAllSavedVars(this: void): undefined {
+function updateAllSavedVars(this: void): undefined {
   requireSVar().ptsData[STATE.selectedChar] = TemperTableFunctions.CopyTable(STATE.ptsData)
 }
 

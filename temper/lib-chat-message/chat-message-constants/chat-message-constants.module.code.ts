@@ -10,8 +10,8 @@ export const SYSTEM_TAG = string.format(
 )
 
 export const TIME_FORMAT_AUTO = "[%X]"
-export const TIME_FORMAT_12 = "[%I:%M:%S %p]"
-export const TIME_FORMAT_24 = "[%T]"
+const TIME_FORMAT_12 = "[%I:%M:%S %p]"
+const TIME_FORMAT_24 = "[%T]"
 export const TIME_FORMATS = [TIME_FORMAT_AUTO, TIME_FORMAT_12, TIME_FORMAT_24]
 
 export const TIME_FORMAT_MAPPING: Record<string, string> = {

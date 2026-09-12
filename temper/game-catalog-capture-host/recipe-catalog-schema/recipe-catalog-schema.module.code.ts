@@ -11,6 +11,6 @@ const recipeCatalogListSchema = z
   })
   .strict()
 
-export const recipeCatalogSchema = z.record(z.coerce.number(), recipeCatalogListSchema)
+const recipeCatalogSchema = z.record(z.coerce.number(), recipeCatalogListSchema)
 
 assertSchemaMatchesPayload<typeof recipeCatalogSchema, Record<number, RecipeCatalogList>>()

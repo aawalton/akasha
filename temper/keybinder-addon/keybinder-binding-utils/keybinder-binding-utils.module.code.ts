@@ -6,7 +6,7 @@ export interface ActionRef {
   actionIndex: number
 }
 
-export const maxBindings = GetMaxBindingsPerAction()
+const maxBindings = GetMaxBindingsPerAction()
 
 export const keybindList = KEYBIND_MANAGER.list
 

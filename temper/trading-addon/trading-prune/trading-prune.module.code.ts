@@ -5,7 +5,7 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/trading-addon/trading-saved-variables/trading-saved-variables.module.code.ts"
 
-export const EXPIRY_SECONDS = 14 * 24 * 60 * 60
+const EXPIRY_SECONDS = 14 * 24 * 60 * 60
 
 export function pruneExpiredListings(): undefined {
   const sv = getSavedVariables()

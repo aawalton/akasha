@@ -3,7 +3,8 @@ import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-tem
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import type { CharacterScope } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
-export const KNOWN_DECON_CRAFT_TYPES = new LuaSet<number>()
+
+const KNOWN_DECON_CRAFT_TYPES = new LuaSet<number>()
 KNOWN_DECON_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)
 KNOWN_DECON_CRAFT_TYPES.add(CRAFTING_TYPE_CLOTHIER)
 KNOWN_DECON_CRAFT_TYPES.add(CRAFTING_TYPE_ENCHANTING)
@@ -41,7 +42,7 @@ export function inferDeconCraftingType(itemLink: string): number {
   return CRAFTING_TYPE_INVALID
 }
 
-export const DECON_CRAFT_TYPES = [
+const DECON_CRAFT_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,
   CRAFTING_TYPE_CLOTHIER,
   CRAFTING_TYPE_WOODWORKING,
@@ -49,7 +50,7 @@ export const DECON_CRAFT_TYPES = [
   CRAFTING_TYPE_JEWELRYCRAFTING,
 ]
 
-export const CRAFT_TYPE_TO_NON_COMBAT_BONUS = new LuaMap<number, number>()
+const CRAFT_TYPE_TO_NON_COMBAT_BONUS = new LuaMap<number, number>()
 CRAFT_TYPE_TO_NON_COMBAT_BONUS.set(
   CRAFTING_TYPE_BLACKSMITHING,
   NON_COMBAT_BONUS_BLACKSMITHING_LEVEL

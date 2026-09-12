@@ -6,13 +6,14 @@ import {
   orderSoulGems,
 } from "akasha/temper/items-addon/inventory-auto-maintenance-select/inventory-auto-maintenance-select.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
-export const WEAPON_SLOTS: readonly number[] = [
+
+const WEAPON_SLOTS: readonly number[] = [
   EQUIP_SLOT_MAIN_HAND,
   EQUIP_SLOT_OFF_HAND,
   EQUIP_SLOT_BACKUP_MAIN,
   EQUIP_SLOT_BACKUP_OFF,
 ]
-export const REPAIR_SLOTS: readonly number[] = [
+const REPAIR_SLOTS: readonly number[] = [
   EQUIP_SLOT_HEAD,
   EQUIP_SLOT_CHEST,
   EQUIP_SLOT_SHOULDERS,

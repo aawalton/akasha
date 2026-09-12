@@ -111,7 +111,7 @@ function twinOptionsContainer(
   return container
 }
 
-export function createOptionsControls(this: void, panel: LamControl): boolean {
+function createOptionsControls(this: void, panel: LamControl): boolean {
   const addonID = panel.GetName()
   if (OPTIONS_STATE[addonID] === OPTIONS_CREATED) {
     return false

@@ -13,11 +13,11 @@ export function getCharacterLocationKey(): string | undefined {
   return id
 }
 
-export function getBankLocationKey(): string {
+function getBankLocationKey(): string {
   return LOC_BANK
 }
 
-export function getCraftBagLocationKey(): string {
+function getCraftBagLocationKey(): string {
   return LOC_CRAFT_BAG
 }
 

@@ -4,7 +4,7 @@ const TOP_LEVEL_CLOSE = /^\}/
 
 const TOP_LEVEL_ASSIGN = /^[A-Za-z_][A-Za-z0-9_]*[ \t]*=/
 
-export function assignmentOf(global: string): RegExp {
+function assignmentOf(global: string): RegExp {
   return new RegExp(`^${escapeRegExp(global)}[ \\t]*=`)
 }
 
@@ -39,7 +39,7 @@ export function extractTopLevelBlock(content: string, global: string): string | 
   return lines.slice(opensAt).join("\n")
 }
 
-export function extractOneLineOrBlock(lines: readonly string[], opensAt: number): string {
+function extractOneLineOrBlock(lines: readonly string[], opensAt: number): string {
   for (let at = opensAt + 1; at < lines.length; at += 1) {
     const line = lines[at] ?? ""
     if (TOP_LEVEL_CLOSE.test(line)) return lines.slice(opensAt, at + 1).join("\n")

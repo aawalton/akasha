@@ -2,7 +2,7 @@ const TARGET_KEYBIND = "UI_SHORTCUT_HELP"
 
 let patched = false
 
-export function buildSafeName(
+function buildSafeName(
   originalName: MailKeybindDescriptor["name"]
 ): ((this: void, descriptor: MailKeybindDescriptor) => string) | undefined {
   if (typeof originalName !== "function") return undefined

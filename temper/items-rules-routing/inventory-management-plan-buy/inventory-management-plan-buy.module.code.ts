@@ -19,7 +19,7 @@ export interface BuyShortfall {
   quantity: number
 }
 
-export function collectBuyShortfalls(
+function collectBuyShortfalls(
   buyRules: readonly BuyRule[],
   inventory: InventoryDatabase | null
 ): readonly BuyShortfall[] {

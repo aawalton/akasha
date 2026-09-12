@@ -26,7 +26,7 @@ export function onSearchHeaderEditBoxTextChanged(
   listObj.searchStr = searchStr
 }
 
-export function toggleSearchHeaderUI(
+function toggleSearchHeaderUI(
   _shifterBox: ShifterBox,
   listObj: ShifterBoxList,
   _searchButtonCtrl: Control

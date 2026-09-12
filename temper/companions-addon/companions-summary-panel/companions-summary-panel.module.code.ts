@@ -20,20 +20,21 @@ import {
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/companions-id-map/companions-id-map.module.code.ts"
 import { getCleanCompanionName } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
-export const SUMMARY_ROW_HEIGHT = 28
-export const SUMMARY_ROW_SPACING = 4
-export const SUMMARY_COL_NAME = 0
-export const SUMMARY_COL_NAME_WIDTH = 140
-export const SUMMARY_COL_EQUIP = 140
-export const SUMMARY_COL_EQUIP_WIDTH = 80
-export const SUMMARY_COL_UPGRADE = 220
-export const SUMMARY_COL_UPGRADE_WIDTH = 50
-export const SUMMARY_COL_SKILLS = 270
-export const SUMMARY_COL_SKILLS_WIDTH = 80
-export const SUMMARY_COL_BUILD = 350
-export const SUMMARY_COL_BUILD_WIDTH = 60
-export const SUMMARY_COL_APPLY = 410
-export const SUMMARY_COL_APPLY_WIDTH = 60
+
+const SUMMARY_ROW_HEIGHT = 28
+const SUMMARY_ROW_SPACING = 4
+const SUMMARY_COL_NAME = 0
+const SUMMARY_COL_NAME_WIDTH = 140
+const SUMMARY_COL_EQUIP = 140
+const SUMMARY_COL_EQUIP_WIDTH = 80
+const SUMMARY_COL_UPGRADE = 220
+const SUMMARY_COL_UPGRADE_WIDTH = 50
+const SUMMARY_COL_SKILLS = 270
+const SUMMARY_COL_SKILLS_WIDTH = 80
+const SUMMARY_COL_BUILD = 350
+const SUMMARY_COL_BUILD_WIDTH = 60
+const SUMMARY_COL_APPLY = 410
+const SUMMARY_COL_APPLY_WIDTH = 60
 
 export interface SummaryRow {
   nameLabel: LabelControl

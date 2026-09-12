@@ -21,7 +21,7 @@ export interface UpstreamPaths {
   readonly addonDir: string
 }
 
-export function upstreamPaths(pin: UpstreamPin): UpstreamPaths {
+function upstreamPaths(pin: UpstreamPin): UpstreamPaths {
   const checkoutRoot = join(addonUpstreamDir(), pin.checkoutDirName)
   return { checkoutRoot, addonDir: join(checkoutRoot, pin.addonSubdir) }
 }
@@ -35,10 +35,7 @@ function headCommit(dir: string): string | undefined {
   return done.code === 0 ? done.out.trim() : undefined
 }
 
-export async function materializeUpstream(
-  pin: UpstreamPin,
-  paths: UpstreamPaths
-): Promise<undefined> {
+async function materializeUpstream(pin: UpstreamPin, paths: UpstreamPaths): Promise<undefined> {
   if (headCommit(paths.checkoutRoot) === pin.commit) return
 
   await mkdir(paths.checkoutRoot, { recursive: true })
@@ -60,10 +57,7 @@ export async function materializeUpstream(
   ])
 }
 
-export async function probeUpstream(
-  pin: UpstreamPin,
-  paths: UpstreamPaths
-): Promise<UpstreamProbe> {
+async function probeUpstream(pin: UpstreamPin, paths: UpstreamPaths): Promise<UpstreamProbe> {
   const missingFiles: string[] = []
   let bundleMarkerHits = 0
 

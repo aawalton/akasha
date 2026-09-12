@@ -48,7 +48,7 @@ function showDefaultsDialog(this: void, panel: LamControl): undefined {
   ZO_Dialogs_ShowDialog(LAM_DEFAULTS_DIALOG)
 }
 
-export function discardChangesOnReloadControls(this: void): undefined {
+function discardChangesOnReloadControls(this: void): undefined {
   for (const reloadControl of controlsForReload) {
     const getFunc = reloadControl.data.getFunc
     const startValue = reloadControl.startValue ?? []

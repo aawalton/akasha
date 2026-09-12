@@ -9,7 +9,7 @@ const numberList = tolerant(luaArrayOrEmpty(z.number()))
 
 const looseRecord = tolerant(z.record(z.string(), z.unknown()))
 
-export const accountCompletionInputSchema = z.looseObject({
+const accountCompletionInputSchema = z.looseObject({
   achievements: looseRecord,
   itemSets: looseRecord,
   antiquityLore: looseRecord,
@@ -21,7 +21,7 @@ export const accountCompletionInputSchema = z.looseObject({
   grandMasterStations: looseRecord,
 })
 
-export const characterCompletionInputSchema = z.looseObject({
+const characterCompletionInputSchema = z.looseObject({
   name: tolerant(z.string()),
   priorityOrder: tolerant(z.number()),
 
@@ -53,7 +53,7 @@ export const characterCompletionInputSchema = z.looseObject({
   dailyWrits: looseRecord,
 })
 
-export const companionCompletionInputSchema = z.looseObject({
+const companionCompletionInputSchema = z.looseObject({
   build: looseRecord,
   selectedBuild: tolerant(z.string()),
   targetBuildHash: tolerant(z.string()),

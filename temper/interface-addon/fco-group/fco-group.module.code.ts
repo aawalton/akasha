@@ -24,7 +24,7 @@ function wrapFunction(
   }
 }
 
-export function hookChampionRankUtils(this: void): undefined {
+function hookChampionRankUtils(this: void): undefined {
   if (STATE.settingsVars.settings.showRealCPs !== true) {
     return
   }
@@ -47,7 +47,7 @@ export function hookChampionRankUtils(this: void): undefined {
   }
 }
 
-export function hookGroupList(this: void, runItOnce?: boolean): undefined {
+function hookGroupList(this: void, runItOnce?: boolean): undefined {
   if (STATE.settingsVars.settings.showRealCPs !== true) {
     return
   }

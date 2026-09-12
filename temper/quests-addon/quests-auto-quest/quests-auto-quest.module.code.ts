@@ -27,11 +27,11 @@ const HEARTBEAT_INTERVAL_MS = 250
 let memory: AutoQuestMemory = INITIAL_AUTO_QUEST_MEMORY
 let heartbeatRunning = false
 
-export function isAutoQuestEnabled(): boolean {
+function isAutoQuestEnabled(): boolean {
   return getSavedVariables().autoQuest !== false
 }
 
-export function isAutoQuestDebugEnabled(): boolean {
+function isAutoQuestDebugEnabled(): boolean {
   return getSavedVariables().autoQuestDebug === true
 }
 

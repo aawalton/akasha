@@ -24,7 +24,7 @@ const collectiblesCatalogCategorySchema = z
   })
   .strict()
 
-export const collectiblesCatalogSchema = z
+const collectiblesCatalogSchema = z
   .object({
     categories: z.record(z.coerce.number(), collectiblesCatalogCategorySchema),
   })

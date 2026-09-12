@@ -14,7 +14,7 @@ import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/lib-zone/zone-public-dunge
 import type { Lib } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
 import { UI_STRINGS_EN } from "akasha/temper/lib-zone/zone-ui-strings/zone-ui-strings.module.code.ts"
 
-export function checkIfLanguageIsSupported(this: void, lang: string | undefined): boolean {
+function checkIfLanguageIsSupported(this: void, lang: string | undefined): boolean {
   if (lang === undefined) return false
   for (const [, langIsSupported] of pairs(SUPPORTED_LANGUAGES)) {
     if (lang === langIsSupported) return true

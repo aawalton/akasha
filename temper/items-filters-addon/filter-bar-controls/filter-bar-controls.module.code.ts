@@ -17,7 +17,7 @@ import type {
 
 export const COLOR_PRIMARY = [0.8442, 0.8442, 0.8442] as const
 export const COLOR_SECONDARY = [0.6447, 0.6447, 0.6447] as const
-export const COLOR_ACTIVE = [0.55, 0.78, 0.4] as const
+const COLOR_ACTIVE = [0.55, 0.78, 0.4] as const
 
 export const PADDING_X = 10
 export const PADDING_Y = 6
@@ -25,10 +25,10 @@ export const CONTROL_HEIGHT = 22
 export const CONTROL_GAP = 6
 export const LABEL_GAP = 4
 
-export const NAME_BOX_WIDTH = 140
-export const RANGE_BOX_WIDTH = 70
-export const MULTISELECT_DROPDOWN_WIDTH = 120
-export const TOGGLE_WIDTH = 70
+const NAME_BOX_WIDTH = 140
+const RANGE_BOX_WIDTH = 70
+const MULTISELECT_DROPDOWN_WIDTH = 120
+const TOGGLE_WIDTH = 70
 export const CLEAR_WIDTH = 50
 
 export interface BarButton {

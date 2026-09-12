@@ -14,14 +14,14 @@ export interface ListingCandidate {
   itemLink: string
 }
 
-export function computeListPrice(itemLink: string, stackCount: number): number | undefined {
+function computeListPrice(itemLink: string, stackCount: number): number | undefined {
   if (TamrielTradeCentrePrice === undefined) return undefined
   const priceInfo = TamrielTradeCentrePrice.GetPriceInfo(itemLink)
   if (priceInfo === undefined || priceInfo.SuggestedPrice === undefined) return undefined
   return math.floor(priceInfo.SuggestedPrice * stackCount)
 }
 
-export let tradingHouseOpen = false
+let tradingHouseOpen = false
 
 let inFlightListing: string | undefined
 
@@ -32,7 +32,7 @@ export function onTradingHouseClosed(): undefined {
 
 export type PostResponseOutcome = "success" | "failure" | "ignore"
 
-export function classifyPostResponse(
+function classifyPostResponse(
   this: void,
   responseType: number,
   result: number

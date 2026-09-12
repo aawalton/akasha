@@ -12,8 +12,8 @@ const CRAFT_STEP_DELAY_MS = 25
 
 const STATION_EXIT_DELAY_MS = 200
 
-export let queue: WritCraftRequest[] = []
-export let processing = false
+let queue: WritCraftRequest[] = []
+let processing = false
 
 export function enqueueWritCraft(request: WritCraftRequest): undefined {
   queue.push(request)
@@ -22,7 +22,7 @@ export function enqueueWritCraft(request: WritCraftRequest): undefined {
   }
 }
 
-export function craftNext(): undefined {
+function craftNext(): undefined {
   if (queue.length === 0) {
     processing = false
     return

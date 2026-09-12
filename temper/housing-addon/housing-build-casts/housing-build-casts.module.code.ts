@@ -42,7 +42,7 @@ export function asBackdropEdgeView(value: unknown): BackdropEdgeView {
   return value as BackdropEdgeView
 }
 
-export function asString(value: unknown): string {
+function asString(value: unknown): string {
   return value as string
 }
 export function asNumber(value: unknown): number {

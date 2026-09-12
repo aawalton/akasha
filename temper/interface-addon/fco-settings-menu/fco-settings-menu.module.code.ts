@@ -52,7 +52,7 @@ const favoritesExcludedListStatusIconText = zo_iconTextFormatNoSpace(
   true
 )
 
-export const QUALITY_CHOICES: { current: Record<number, string> } = { current: {} }
+const QUALITY_CHOICES: { current: Record<number, string> } = { current: {} }
 
 let fcoSettingsPanel: Control | undefined
 

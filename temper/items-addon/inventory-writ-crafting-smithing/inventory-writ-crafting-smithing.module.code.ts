@@ -25,7 +25,7 @@ export const JEWELRY_INDEX_RANGES: Record<number, number> = {
   5: 40,
 }
 
-export const DEFAULT_STYLE_IDS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 46]
+const DEFAULT_STYLE_IDS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 46]
 
 export function selectStyle(patternIdx: number): number {
   let bestStyle = -1
@@ -44,7 +44,7 @@ export function selectStyle(patternIdx: number): number {
   return bestStyle !== -1 ? bestStyle : 1
 }
 
-export function findSmithingMatch(
+function findSmithingMatch(
   questIndex: number,
   conditionIndex: number,
   craftType: number

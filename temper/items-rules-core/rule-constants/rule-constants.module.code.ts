@@ -1,4 +1,4 @@
-export const RULE_CONSTANTS = { MIN_LISTING_VALUE: 5000 } as const
+const RULE_CONSTANTS = { MIN_LISTING_VALUE: 5000 } as const
 export type RuleConstantKey = keyof typeof RULE_CONSTANTS
 export const RULE_CONSTANT_KEYS = [
   "MIN_LISTING_VALUE",

@@ -2,7 +2,8 @@ import { LOC_COMPANION_PREFIX } from "akasha/temper/items-addon/inventory-consta
 import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ItemData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-export function equipTypeToEquipSlot(equipType: number): number | undefined {
+
+function equipTypeToEquipSlot(equipType: number): number | undefined {
   if (equipType === EQUIP_TYPE_HEAD) return EQUIP_SLOT_HEAD
   if (equipType === EQUIP_TYPE_CHEST) return EQUIP_SLOT_CHEST
   if (equipType === EQUIP_TYPE_SHOULDERS) return EQUIP_SLOT_SHOULDERS
@@ -19,7 +20,7 @@ export function equipTypeToEquipSlot(equipType: number): number | undefined {
   return undefined
 }
 
-export function liveWornSlotMatches(
+function liveWornSlotMatches(
   bagId: number,
   equipSlot: number,
   traitType: number,
@@ -36,7 +37,7 @@ export function liveWornSlotMatches(
   return true
 }
 
-export function savedWornSlotMatches(
+function savedWornSlotMatches(
   item: ItemData,
   traitType: number,
   quality: number,

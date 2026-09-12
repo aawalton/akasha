@@ -34,7 +34,8 @@ import {
   walkRules,
 } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-export const PREFIX = "[TemperRules]"
+
+const PREFIX = "[TemperRules]"
 
 function buildMatchContextForRender(itemLink: string, ancestorChain: string[]): MatchContext {
   const found = findItemInInventory(itemLink)

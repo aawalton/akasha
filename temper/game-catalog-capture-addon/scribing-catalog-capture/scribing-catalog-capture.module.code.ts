@@ -9,13 +9,9 @@ import type {
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export const SCRIBING_SLOTS = [
-  SCRIBING_SLOT_PRIMARY,
-  SCRIBING_SLOT_SECONDARY,
-  SCRIBING_SLOT_TERTIARY,
-]
+const SCRIBING_SLOTS = [SCRIBING_SLOT_PRIMARY, SCRIBING_SLOT_SECONDARY, SCRIBING_SLOT_TERTIARY]
 
-export function collectScribingCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectScribingCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const grimoires: Record<number, ScribingCatalogGrimoire> = {}
   const scripts: Record<number, ScribingCatalogScript> = {}

@@ -131,7 +131,7 @@ function displayCollectionsReport(
   return lastObject + 10
 }
 
-export function buildShalidorReport(): number {
+function buildShalidorReport(): number {
   const pointsForRankMax = 1380
 
   let totalKnown = 0
@@ -179,7 +179,7 @@ export function buildShalidorReport(): number {
   return lastObject
 }
 
-export function buildEideticReport(lastObject: number): undefined {
+function buildEideticReport(lastObject: number): undefined {
   if (REPORT_STATE.eideticModeAsked === 2) {
     buildEideticReportPerCollection(lastObject)
   } else {
@@ -187,7 +187,7 @@ export function buildEideticReport(lastObject: number): undefined {
   }
 }
 
-export function hidePreviousReport(): undefined {
+function hidePreviousReport(): undefined {
   for (const childIndex of $range(1, LoreBooksReportContainerScrollChild.GetNumChildren())) {
     const childObject = LoreBooksReportContainerScrollChild.GetChild(childIndex)
     if (childObject !== undefined) {
@@ -200,7 +200,7 @@ export function hidePreviousReport(): undefined {
   }
 }
 
-export function buildLoreBookSummary(): undefined {
+function buildLoreBookSummary(): undefined {
   hidePreviousReport()
 
   const lastObject = buildShalidorReport()

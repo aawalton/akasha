@@ -27,7 +27,7 @@ function buildChainEligibilityResolvers(context: RuleMatcherContext): Eligibilit
   }
 }
 
-export function expandChainEntryIntoRows(
+function expandChainEntryIntoRows(
   rule: CompiledOrderedRule | ItemRule,
   entry: AffectedItem,
   sourceSlotCount: number,

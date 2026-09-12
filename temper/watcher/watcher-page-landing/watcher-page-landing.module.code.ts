@@ -183,7 +183,7 @@ export function jsonlBodyOf(lines: readonly string[]): string {
   return lines.length === 0 ? "" : `${lines.join("\n")}\n`
 }
 
-export function jsonIn(line: string): unknown {
+function jsonIn(line: string): unknown {
   try {
     return JSON.parse(line) as unknown
   } catch {
@@ -191,7 +191,7 @@ export function jsonIn(line: string): unknown {
   }
 }
 
-export function textOf(held: unknown, key: string): string {
+function textOf(held: unknown, key: string): string {
   if (held === null || held === undefined) return ""
   const value = (held as Record<string, unknown>)[key]
   return typeof value === "string" ? value : ""

@@ -2,8 +2,8 @@ export function formatBagSlots(usedSlots: number, totalSlots: number): string {
   return `${usedSlots}/${totalSlots}`
 }
 
-export const BURST_QUIET_SECONDS = 5
-export const BURST_FADE_SECONDS = 1
+const BURST_QUIET_SECONDS = 5
+const BURST_FADE_SECONDS = 1
 
 function threeSigFigs(value: number): string {
   if (value >= 100) return value.toFixed(0)

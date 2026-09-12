@@ -1,9 +1,9 @@
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
-export const ESO_CRAFTING_TYPE_BLACKSMITHING = 1
-export const ESO_CRAFTING_TYPE_CLOTHIER = 2
-export const ESO_CRAFTING_TYPE_WOODWORKING = 6
-export const ESO_CRAFTING_TYPE_JEWELRYCRAFTING = 7
+const ESO_CRAFTING_TYPE_BLACKSMITHING = 1
+const ESO_CRAFTING_TYPE_CLOTHIER = 2
+const ESO_CRAFTING_TYPE_WOODWORKING = 6
+const ESO_CRAFTING_TYPE_JEWELRYCRAFTING = 7
 
 const EQUIP_TYPE_NECK = 2
 const EQUIP_TYPE_RING = 12

@@ -26,7 +26,7 @@ export function loadSolventSelection(this: void): undefined {
   }
 }
 
-export function showTopLevelWindow(this: void): undefined {
+function showTopLevelWindow(this: void): undefined {
   TemperPotionsOutput.title = PotMaker.modeBarLabel
   TemperPotions.title = PotMaker.modeBarLabel
 
@@ -44,7 +44,7 @@ export function showTopLevelWindow(this: void): undefined {
   PotMaker.loading.SetParent(TemperPotionsTopLevel)
 }
 
-export function showStationMenu(this: void, parent: Control): undefined {
+function showStationMenu(this: void, parent: Control): undefined {
   TemperPotionsOutput.title = asLabelControl(PotMaker.LAS)
   TemperPotions.title = asLabelControl(PotMaker.LAS)
 

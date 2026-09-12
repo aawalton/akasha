@@ -19,7 +19,7 @@ import {
 import type { IconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 
-export const LMP = LibMapPins
+const LMP = LibMapPins
 
 export interface AchPinEntry {
   type: number
@@ -42,14 +42,14 @@ export interface AchievementSectionSpec {
   sizeDefault: number
 }
 
-export function bothFiltersDisabled(pinType: string, pinTypeDone: string): (this: void) => boolean {
+function bothFiltersDisabled(pinType: string, pinTypeDone: string): (this: void) => boolean {
   return () => {
     const filters = getCharacterSavedVariables().filters
     return !isFilterEnabled(filters, pinType) && !isFilterEnabled(filters, pinTypeDone)
   }
 }
 
-export function toggleControl(pinType: string, stringKey: string): LamCheckboxData {
+function toggleControl(pinType: string, stringKey: string): LamCheckboxData {
   return {
     type: "checkbox",
     name: perCharName(stringKey),
@@ -62,7 +62,7 @@ export function toggleControl(pinType: string, stringKey: string): LamCheckboxDa
   }
 }
 
-export function styleControl(spec: AchievementSectionSpec): LamDropdownData {
+function styleControl(spec: AchievementSectionSpec): LamDropdownData {
   const sv = getSavedVariables()
   return {
     type: "dropdown",
@@ -91,7 +91,7 @@ export function styleControl(spec: AchievementSectionSpec): LamDropdownData {
   }
 }
 
-export function sizeControl(spec: AchievementSectionSpec): LamSliderData {
+function sizeControl(spec: AchievementSectionSpec): LamSliderData {
   const sv = getSavedVariables()
   return {
     type: "slider",

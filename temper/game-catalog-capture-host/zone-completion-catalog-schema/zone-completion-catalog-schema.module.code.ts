@@ -22,7 +22,7 @@ const zoneCompletionCatalogZoneSchema = z
   })
   .strict()
 
-export const zoneCompletionCatalogSchema = z.record(z.number(), zoneCompletionCatalogZoneSchema)
+const zoneCompletionCatalogSchema = z.record(z.number(), zoneCompletionCatalogZoneSchema)
 
 assertSchemaMatchesPayload<
   typeof zoneCompletionCatalogSchema,

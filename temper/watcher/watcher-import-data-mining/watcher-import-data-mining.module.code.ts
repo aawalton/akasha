@@ -121,7 +121,7 @@ function describeLosses(diagnostics: MinedExtractDiagnostics): string {
   return losses.join(" and ")
 }
 
-export function decideBlockClearing(
+function decideBlockClearing(
   block: MinedBlockKey,
   posted: number,
   diagnostics: MinedExtractDiagnostics

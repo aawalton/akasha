@@ -9,19 +9,19 @@ import type {
   MiniMapControl,
 } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 
-export const ZONE_ALERT_MODE = {
+const ZONE_ALERT_MODE = {
   Always: "ALWAYS",
   MiniMapHidden: "MINIMAPHIDDEN",
   Never: "NEVER",
 } as const
 
-export const COMPASS_MODE = {
+const COMPASS_MODE = {
   Untouched: "UNTOUCHED",
   Hidden: "HIDDEN",
   Shown: "SHOWN",
 } as const
 
-export const FONT_FACES: Record<string, [string, number] | string> = {
+const FONT_FACES: Record<string, [string, number] | string> = {
   MEDIUM_FONT: ["$(MEDIUM_FONT)", 1],
   BOLD_FONT: ["$(BOLD_FONT)", 1],
   CHAT_FONT: ["$(CHAT_FONT)", 1],

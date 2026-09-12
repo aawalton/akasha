@@ -4,7 +4,8 @@ import { getHouseFurnishingsLocationKey } from "akasha/temper/items-addon/invent
 import { ensureLocation } from "akasha/temper/items-addon/inventory-saved-variables/inventory-saved-variables.module.code.ts"
 import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { PlacedFurnishingData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-export function extractFurnishingData(furnitureId: Id64): PlacedFurnishingData | undefined {
+
+function extractFurnishingData(furnitureId: Id64): PlacedFurnishingData | undefined {
   const [itemName] = GetPlacedHousingFurnitureInfo(furnitureId)
   if (itemName === "") return undefined
 

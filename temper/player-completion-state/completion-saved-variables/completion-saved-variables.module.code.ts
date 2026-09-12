@@ -69,7 +69,7 @@ const SAVED_VARIABLES_DEFAULTS: SavedVariablesData & Record<string, unknown> = {
   migrationVersions: {},
 }
 
-export let savedVarsInstance: SavedVariablesData | undefined
+let savedVarsInstance: SavedVariablesData | undefined
 
 export function initializeSavedVariables(): SavedVariablesData {
   const raw = ZO_SavedVars.NewAccountWide(
@@ -86,9 +86,7 @@ export function initializeSavedVariables(): SavedVariablesData {
   return savedVarsInstance
 }
 
-export function migrateFromFlatStructure(
-  sv: SavedVariablesData & Record<string, unknown>
-): undefined {
+function migrateFromFlatStructure(sv: SavedVariablesData & Record<string, unknown>): undefined {
   const hasOldKeys =
     sv["builds"] !== undefined ||
     sv["selectedTab"] !== undefined ||
@@ -214,7 +212,7 @@ export interface CharactersConfigGlobal {
   readonly completionOverrides?: Record<string, CompletionOverride[]>
 }
 
-export function migrateFromTemperSavedVars(): undefined {
+function migrateFromTemperSavedVars(): undefined {
   const oldVars: unknown = globalThis.Temper_SavedVariables
   if (!isObjectRecord(oldVars)) return
 

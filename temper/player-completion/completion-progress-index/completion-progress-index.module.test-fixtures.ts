@@ -4,7 +4,7 @@ import type {
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
 
-export function mkMount(
+function mkMount(
   speed: number,
   stamina: number,
   carry: number,

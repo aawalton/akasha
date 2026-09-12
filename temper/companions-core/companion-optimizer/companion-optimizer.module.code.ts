@@ -63,7 +63,7 @@ const NO_WEAPON_ROLE: CompanionWeaponRoleId = "no-weapon-role"
 const NO_SKILL: CompanionSkillId = "no-skill"
 const NO_TRAIT: CompanionTraitId = "no-trait"
 
-export function getPhase(state: CompanionState): Phase {
+function getPhase(state: CompanionState): Phase {
   if (state.companion.id === NO_COMPANION) return "select-companion"
   if (state.companion.baseRoles.length === 0) return "select-role"
   if (getWeaponRole(state) === NO_WEAPON_ROLE) return "select-weapon-role"

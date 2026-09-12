@@ -1,4 +1,4 @@
-export const TTC_KIOSK_LOCATIONS: Record<number, string> = {
+const TTC_KIOSK_LOCATIONS: Record<number, string> = {
   0: "Craglorn: Belkarth",
   1: "Craglorn: Belkarth Outlaws Refuge",
   2: "Coldharbour: Hollow City",

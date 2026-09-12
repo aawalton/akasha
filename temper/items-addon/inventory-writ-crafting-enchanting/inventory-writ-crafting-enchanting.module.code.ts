@@ -34,7 +34,7 @@ export function findItemInBags(itemId: number): { bag: number; slot: number } | 
   return undefined
 }
 
-export function findEnchantingRunes(
+function findEnchantingRunes(
   questIndex: number,
   conditionIndex: number
 ): { essenceRuneId: number; potencyRuneId: number } | undefined {

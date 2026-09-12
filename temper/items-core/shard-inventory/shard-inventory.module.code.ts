@@ -1,4 +1,4 @@
-export const MAX_CHUNK_BYTES = 900_000
+const MAX_CHUNK_BYTES = 900_000
 
 export function shardInventoryJson(json: string): readonly string[] {
   if (json.length <= MAX_CHUNK_BYTES) return [json]

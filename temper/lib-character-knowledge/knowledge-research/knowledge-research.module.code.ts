@@ -10,7 +10,7 @@ export function asCraftNode(value: unknown): CraftNode {
   return value as CraftNode
 }
 type LineNode = Record<number, number>
-export function asLineNode(value: unknown): LineNode {
+function asLineNode(value: unknown): LineNode {
   return value as LineNode
 }
 

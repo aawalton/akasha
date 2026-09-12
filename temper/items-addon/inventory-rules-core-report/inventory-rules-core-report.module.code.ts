@@ -1,7 +1,8 @@
 import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-export const VALID_REPORT_LEVELS = ["none", "minimal", "verbose"]
+
+const VALID_REPORT_LEVELS = ["none", "minimal", "verbose"]
 
 const MAX_DISPLAYED_GROUPS = 10
 

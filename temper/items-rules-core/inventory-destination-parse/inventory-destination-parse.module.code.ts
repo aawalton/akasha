@@ -6,7 +6,7 @@ import {
 
 const ITEM_ACTIONS: ReadonlySet<ItemAction> = new Set<ItemAction>(ITEM_ACTION_VALUES)
 
-export function isItemAction(value: string): value is ItemAction {
+function isItemAction(value: string): value is ItemAction {
   for (const action of ITEM_ACTIONS) {
     if (action === value) return true
   }

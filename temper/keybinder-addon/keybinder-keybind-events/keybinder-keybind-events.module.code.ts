@@ -3,7 +3,7 @@ import { ADDON_NAME } from "akasha/temper/keybinder-addon/keybinder-constants/ke
 import { syncKeybindings } from "akasha/temper/keybinder-addon/keybinder-share/keybinder-share.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
 
-export function handleBindingsLoaded(this: void): undefined {
+function handleBindingsLoaded(this: void): undefined {
   if (KEYBINDER_STATE.bindingsSynchronised) {
     syncKeybindings()
     KEYBINDER_STATE.isDirty = false
@@ -12,7 +12,7 @@ export function handleBindingsLoaded(this: void): undefined {
   }
 }
 
-export function handleBindingCleared(
+function handleBindingCleared(
   this: void,
   layerIndex: number,
   categoryIndex: number,
@@ -34,7 +34,7 @@ export function handleBindingCleared(
   }
 }
 
-export function handleBindingSet(
+function handleBindingSet(
   this: void,
   layerIndex: number,
   categoryIndex: number,

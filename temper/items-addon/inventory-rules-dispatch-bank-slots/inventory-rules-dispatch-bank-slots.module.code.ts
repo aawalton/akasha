@@ -11,7 +11,7 @@ export interface BankSlotContext {
   currentChestId: string | undefined
 }
 
-export function bankFindEmptySlot(ctx: BankSlotContext, bag: number): number | undefined {
+function bankFindEmptySlot(ctx: BankSlotContext, bag: number): number | undefined {
   const size = GetBagSize(bag)
   for (let slot = 0; slot < size; slot++) {
     const key = slotKey(bag, slot)

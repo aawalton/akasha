@@ -38,7 +38,7 @@ const lorebooksTable = asSubzonePinTable(LOREBOOKS)
 const chestTable = asNestedPinTable(CHEST_DATA)
 const zoneAchievementTable = asStringNumberMap(ZONE_ACHIEVEMENT)
 
-export function compassPinAddCallback(this: void, i: number): undefined {
+function compassPinAddCallback(this: void, i: number): undefined {
   if (
     STATE.updatingCompassPin[i] === true ||
     GetMapType() > MAPTYPE_ZONE ||

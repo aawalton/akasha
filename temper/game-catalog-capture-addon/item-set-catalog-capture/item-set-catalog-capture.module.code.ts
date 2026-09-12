@@ -17,7 +17,7 @@ import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registr
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import { resolveCategoryNames } from "akasha/temper/item-sets/item-set-categories/item-set-categories.module.code.ts"
 
-export function collectItemSetCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectItemSetCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, ItemSetCatalogEntry> = {}
 

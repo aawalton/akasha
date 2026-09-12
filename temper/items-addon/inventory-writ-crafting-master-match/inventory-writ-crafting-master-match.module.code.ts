@@ -18,7 +18,7 @@ export interface EquipFingerprint {
   armorType: number
 }
 
-export function readEquipFingerprint(this: void, link: string): EquipFingerprint {
+function readEquipFingerprint(this: void, link: string): EquipFingerprint {
   return {
     craftType: GetItemLinkCraftingSkillType(link),
     equipType: GetItemLinkEquipType(link),
@@ -27,7 +27,7 @@ export function readEquipFingerprint(this: void, link: string): EquipFingerprint
   }
 }
 
-export function topMaterialIndex(this: void, craftType: number): number {
+function topMaterialIndex(this: void, craftType: number): number {
   const ranges = craftType === CRAFTING_TYPE_JEWELRYCRAFTING ? JEWELRY_INDEX_RANGES : INDEX_RANGES
   let max = 1
   for (const [, idx] of Object.entries(ranges)) {

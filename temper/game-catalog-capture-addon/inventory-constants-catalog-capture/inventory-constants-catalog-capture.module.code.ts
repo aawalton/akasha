@@ -9,10 +9,7 @@ import { buildItemTypes } from "akasha/temper/game-catalog-capture-addon/item-ty
 import { buildSpecializedItemTypes } from "akasha/temper/game-catalog-capture-addon/specialized-item-type-constants/specialized-item-type-constants.module.code.ts"
 import { buildWeaponTypes } from "akasha/temper/game-catalog-capture-addon/weapon-type-constants/weapon-type-constants.module.code.ts"
 
-export function collectInventoryConstantsCatalog(
-  this: void,
-  onComplete: (this: void) => void
-): undefined {
+function collectInventoryConstantsCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
 
   const itemTypes = buildItemTypes()

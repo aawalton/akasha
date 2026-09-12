@@ -11,10 +11,11 @@ import {
   type OpenQueueEntry,
   resetAttemptedOpenLinksForChain,
 } from "akasha/temper/items-addon/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
-export const MAX_OPS = 50
-export const CHARACTER_PREFIX = "character:"
-export const USE_FRAME_DELAY = 200
-export let useGeneration = 0
+
+const MAX_OPS = 50
+const CHARACTER_PREFIX = "character:"
+const USE_FRAME_DELAY = 200
+let useGeneration = 0
 
 export function dispatchUseActions(): undefined {
   useGeneration++
@@ -84,7 +85,7 @@ export function dispatchUseActions(): undefined {
   }
 }
 
-export function useItem(gen: number, bagId: number, slotIndex: number): boolean {
+function useItem(gen: number, bagId: number, slotIndex: number): boolean {
   if (gen !== useGeneration) return false
   const [stackCount] = GetSlotStackSize(bagId, slotIndex)
   if (stackCount === 0) {

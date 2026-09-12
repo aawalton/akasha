@@ -32,7 +32,7 @@ export const NOW = new Date("2024-03-15T18:00:00.000Z")
 
 export const NOW_ISO = NOW.toISOString()
 
-export const LANDED = { outcome: "landed", at: "c0" } as const
+const LANDED = { outcome: "landed", at: "c0" } as const
 
 export function buildLua(entries: ReadonlyArray<{ taskId: string; timestamp: number }>): string {
   const inner = entries

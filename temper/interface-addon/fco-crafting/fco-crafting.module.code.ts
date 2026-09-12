@@ -4,7 +4,7 @@ import {
 } from "akasha/temper/interface-addon/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"
 import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
-export function onEventCraftingStationClose(this: void): undefined {
+function onEventCraftingStationClose(this: void): undefined {
   const settings = STATE.settingsVars.settings
   if (settings.changeSoundAtCrafting === true) {
     resetVolumeLevels(SETTING_TYPE_AUDIO, AUDIO_SETTING_AUDIO_VOLUME)
@@ -21,7 +21,7 @@ export function onEventCraftingStationOpened(
   setArmorTypeSwitchButtonHiddenForCraftType(tradeskillType)
 }
 
-export function resetVolumeLevels(
+function resetVolumeLevels(
   this: void,
   audioType: number | string,
   audioVolumeId?: number
@@ -53,7 +53,7 @@ export function saveVolumeLevels(this: void, settingType: number, settingId: num
   }
 }
 
-export function changeVolumeLevels(this: void, changeType: string): boolean {
+function changeVolumeLevels(this: void, changeType: string): boolean {
   if (changeType === undefined) {
     return false
   }
@@ -94,7 +94,7 @@ export function soundLowerAtCraftingCheck(this: void): boolean {
   return false
 }
 
-export function soundModifications(this: void): undefined {
+function soundModifications(this: void): undefined {
   soundLowerAtCraftingCheck()
 }
 

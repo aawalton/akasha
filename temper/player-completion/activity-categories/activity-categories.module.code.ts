@@ -7,7 +7,7 @@ export interface ActivityCategoryTemplate {
   badgeVariant: NonNullable<BadgeVariant>
 }
 
-export const TEMPER_ACTIVITY_CATEGORIES = {
+const TEMPER_ACTIVITY_CATEGORIES = {
   "arenas": { id: "arenas", name: "Arenas", badgeVariant: "orange" },
   "characters": { id: "characters", name: "Characters", badgeVariant: "blue" },
   "companions": { id: "companions", name: "Companions", badgeVariant: "blue" },

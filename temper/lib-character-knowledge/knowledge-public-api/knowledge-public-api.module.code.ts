@@ -13,7 +13,7 @@ function asVersioned(value: unknown): Versioned {
   return value as Versioned
 }
 
-export function publishVersioned(this: void, name: string, lib: { version: number }): undefined {
+function publishVersioned(this: void, name: string, lib: { version: number }): undefined {
   const existing = asVersioned(asGlobalTable(globalThis)[name])
   if (
     !(

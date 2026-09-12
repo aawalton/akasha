@@ -15,7 +15,7 @@ const STABLE_FEED_BUTTONS: Record<number, Control> = {
   [RIDING_TRAIN_CARRYING_CAPACITY]: ZO_StablePanelCarryTrainRowTrainButton,
 }
 
-export function checkIfAllStableButtonsAreMaxedOut(this: void): boolean {
+function checkIfAllStableButtonsAreMaxedOut(this: void): boolean {
   let retVar = false
   let maxCnt = 0
   for (const [, stableFeedType] of ipairs(STABLE_FEED_TYPES)) {
@@ -82,7 +82,7 @@ export function hookStableScene(this: void): undefined {
   }
 }
 
-export function getRidingTrainInfo(this: void): undefined {
+function getRidingTrainInfo(this: void): undefined {
   for (const [, stableFeedType] of ipairs(STABLE_FEED_TYPES)) {
     if (STABLE_SKILLS[stableFeedType] === undefined) {
       STABLE_SKILLS[stableFeedType] = {}

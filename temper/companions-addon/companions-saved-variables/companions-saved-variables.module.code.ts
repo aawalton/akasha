@@ -46,7 +46,7 @@ export interface SavedVariablesData {
   perf?: { loadTimeMs: number }
 }
 
-export let savedVarsInstance: SavedVariablesData | undefined
+let savedVarsInstance: SavedVariablesData | undefined
 
 export function initializeSavedVariables(): SavedVariablesData {
   savedVarsInstance = ZO_SavedVars.NewAccountWide(
@@ -80,7 +80,7 @@ function isSavedCompanionEntry(x: unknown): x is SavedCompanionEntry {
   return true
 }
 
-export function migrateFromTemperSavedVars(): undefined {
+function migrateFromTemperSavedVars(): undefined {
   const oldVars: unknown = globalThis.Temper_SavedVariables
   if (!isObjectRecord(oldVars)) return
 

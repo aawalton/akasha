@@ -6,7 +6,7 @@ import type { CurrencyCatalogEntry } from "akasha/temper/capture-shapes/currency
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export const CURRENCY_TYPES = [
+const CURRENCY_TYPES = [
   CURT_MONEY,
   CURT_ALLIANCE_POINTS,
   CURT_TELVAR_STONES,
@@ -26,7 +26,7 @@ export const CURRENCY_TYPES = [
   CURT_TOME_CHALLENGE_REROLLS,
 ]
 
-export function collectCurrencyCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectCurrencyCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const currencies: Record<number, CurrencyCatalogEntry> = {}
 

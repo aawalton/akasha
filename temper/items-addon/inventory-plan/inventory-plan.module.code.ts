@@ -20,7 +20,7 @@ export type StaticVenueKey =
   | "companion-menu"
   | "mailbox"
 
-export const VENUE_ORDER: StaticVenueKey[] = [
+const VENUE_ORDER: StaticVenueKey[] = [
   "bank",
   "house-storage",
   "furniture-vault",
@@ -33,7 +33,7 @@ export const VENUE_ORDER: StaticVenueKey[] = [
   "mailbox",
 ]
 
-export const VENUE_LABELS: Record<StaticVenueKey, string> = {
+const VENUE_LABELS: Record<StaticVenueKey, string> = {
   bank: "Bank",
   "house-storage": "House Storage",
   "furniture-vault": "Furniture Vault",
@@ -46,7 +46,7 @@ export const VENUE_LABELS: Record<StaticVenueKey, string> = {
   mailbox: "Mailbox",
 }
 
-export function destinationToVenue(destination: string): string | undefined {
+function destinationToVenue(destination: string): string | undefined {
   if (
     destination === "bank" ||
     destination === "craft-bag" ||
@@ -88,7 +88,7 @@ export function resolveVenueLabel(venueKey: string): string {
   return venueKey
 }
 
-export function moveVerb(destination: string): string {
+function moveVerb(destination: string): string {
   if (destination.startsWith("character:")) return "withdraw"
   return "deposit"
 }
@@ -98,7 +98,7 @@ export interface VenuePlan {
   verbs: Array<{ verb: string; count: number }>
 }
 
-export function classifyPendingVenue(
+function classifyPendingVenue(
   action: AddonItemAction,
   destination: string | undefined,
   isStolen: boolean
@@ -130,7 +130,7 @@ export function classifyPendingVenue(
   return undefined
 }
 
-export function computePlanVenues(): VenuePlan[] | undefined {
+function computePlanVenues(): VenuePlan[] | undefined {
   const compiled = getCompiledConfig()
   if (!compiled) return undefined
 

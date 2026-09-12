@@ -16,9 +16,10 @@ import {
   startVaultDepositChain,
 } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
 import { executeBankWithdrawals } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
-export const MAX_OPS = 50
 
-export let dispatchingBank = false
+const MAX_OPS = 50
+
+let dispatchingBank = false
 
 export function isDispatchingBank(): boolean {
   return dispatchingBank

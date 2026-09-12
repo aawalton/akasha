@@ -11,10 +11,7 @@ import {
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 
-export function setAllArmorWeights(
-  build: CompanionState,
-  weight: CompanionArmorWeight
-): CompanionState {
+function setAllArmorWeights(build: CompanionState, weight: CompanionArmorWeight): CompanionState {
   const armor = { ...build.equipment.armor }
   for (const slotId of companionArmorSlots.ids) {
     const slot = armor[slotId]
@@ -39,7 +36,7 @@ export function setBaseRoles(
   return setAllArmorWeights(withRoles, getArmorWeightForBaseRoles(roles))
 }
 
-export function setUltimate(build: CompanionState, skillId: CompanionSkillId): CompanionState {
+function setUltimate(build: CompanionState, skillId: CompanionSkillId): CompanionState {
   return {
     ...build,
     skills: {

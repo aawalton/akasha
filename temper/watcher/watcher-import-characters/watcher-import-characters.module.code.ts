@@ -126,7 +126,7 @@ export function parseCharacterSavedVariables(content: string): readonly ParsedCh
   return entries
 }
 
-export function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAction {
+function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAction {
   const decoded = decodeBuild(toBuildHash(entry.buildHash))
   if (!decoded) {
     return {

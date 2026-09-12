@@ -49,7 +49,7 @@ export function getCurrentText(
   return editBoxText
 }
 
-export function updateTextsSavedStringLower(
+function updateTextsSavedStringLower(
   this: void,
   fieldType: MailFieldType,
   isFavorite: boolean,
@@ -204,7 +204,7 @@ export function removeSavedValue(
   }
 }
 
-export function updateMailEditBoxText(
+function updateMailEditBoxText(
   this: void,
   fieldType: MailFieldType,
   newText: string,
@@ -270,7 +270,7 @@ export function loadLastUsedValue(this: void, fieldType: MailFieldType): undefin
   setMailValue(fieldType, lastUsedSettings, true)
 }
 
-export function saveAsFavorit(
+function saveAsFavorit(
   this: void,
   fieldType: MailFieldType,
   favoriteValue: string | undefined
@@ -289,7 +289,7 @@ export function saveAsFavorit(
   return false
 }
 
-export function saveAsProfile(
+function saveAsProfile(
   this: void,
   profileIndex: number,
   enteredProfileName: string | undefined
@@ -340,11 +340,7 @@ export function saveAsLastUsedList(
   return true
 }
 
-export function saveAsLastUsed(
-  this: void,
-  fieldType: MailFieldType,
-  lastUsedValue?: string
-): undefined {
+function saveAsLastUsed(this: void, fieldType: MailFieldType, lastUsedValue?: string): undefined {
   const currentText = lastUsedValue ?? getCurrentText(fieldType)
   if (!isStringValue(currentText)) {
     return

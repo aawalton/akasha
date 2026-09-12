@@ -1,12 +1,13 @@
 import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
 import { DEFAULT_BACKPACK_SETTINGS } from "akasha/temper/items-core/backpack-settings-types/backpack-settings-types.module.code.ts"
-export const DEFAULT_BUFFER_SLOTS = DEFAULT_BACKPACK_SETTINGS.bufferSlots
+
+const DEFAULT_BUFFER_SLOTS = DEFAULT_BACKPACK_SETTINGS.bufferSlots
 
 export function getConfiguredBufferSlots(): number {
   return getInventoryConfig().backpack?.bufferSlots ?? DEFAULT_BUFFER_SLOTS
 }
 
-export function backpackFreeSlotsAboveBuffer(): number {
+function backpackFreeSlotsAboveBuffer(): number {
   return GetNumBagFreeSlots(BAG_BACKPACK) - getConfiguredBufferSlots()
 }
 

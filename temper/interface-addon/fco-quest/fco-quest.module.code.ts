@@ -3,7 +3,7 @@ import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.
 let questTrackerHeader1: QuestTrackerHeaderControl | undefined
 let QUEST_TRACKER_ON_MOVE_HOOKED = false
 
-export function questTrackerLoadPosition(this: void, onInit?: boolean): undefined {
+function questTrackerLoadPosition(this: void, onInit?: boolean): undefined {
   if (questTrackerHeader1 === undefined) {
     return
   }
@@ -74,7 +74,7 @@ export function questTrackerMovable(this: void, isMovable?: boolean, loadPos?: b
   }
 }
 
-export function questTrackerChanges(this: void): undefined {
+function questTrackerChanges(this: void): undefined {
   questTrackerHeader1 =
     questTrackerHeader1 ?? ZO_FocusedQuestTrackerPanelContainerQuestContainerTrackedHeader1
 

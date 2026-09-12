@@ -67,7 +67,7 @@ function asOptionalNumber(value: unknown): number | undefined {
   return parseNumber(value)
 }
 
-export function parseItem(raw: unknown): InventoryItemData | undefined {
+function parseItem(raw: unknown): InventoryItemData | undefined {
   const item = asRecord(raw)
   if (!item) return undefined
 

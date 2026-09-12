@@ -26,7 +26,7 @@ export function disableDebug(this: void): undefined {
   logger.Info("Debug has been disabled")
 }
 
-export function setDebugState(this: void, bool: boolean): undefined {
+function setDebugState(this: void, bool: boolean): undefined {
   STATE.active = bool
 }
 

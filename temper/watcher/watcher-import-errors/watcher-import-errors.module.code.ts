@@ -37,7 +37,7 @@ export interface ImportErrorsOptions {
   staleAfterHours?: number
 }
 
-export function cachingDeployedBuildIdFor(): DeployedBuildIdFor {
+function cachingDeployedBuildIdFor(): DeployedBuildIdFor {
   const cache = new Map<string, string | null>()
   return (folder) => readDeployedBuildId(folder, cache)
 }

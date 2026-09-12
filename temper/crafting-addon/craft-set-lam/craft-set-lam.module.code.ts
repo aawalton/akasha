@@ -14,7 +14,7 @@ import { registerPanel } from "akasha/temper/settings-panel/register-panel/regis
 
 const LAM = LibAddonMenu2
 
-export const PANEL_DATA: LamPanelData = {
+const PANEL_DATA: LamPanelData = {
   type: "panel",
   name: STATE.Title,
   displayName: STATE.Title,
@@ -24,7 +24,7 @@ export const PANEL_DATA: LamPanelData = {
   registerForDefaults: true,
 }
 
-export const OPTIONS_TABLE: LamControlData[] = [
+const OPTIONS_TABLE: LamControlData[] = [
   {
     type: "header",
     name: "UI Settings",

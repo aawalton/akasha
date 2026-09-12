@@ -8,7 +8,7 @@ import type {
   Settings,
 } from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
-export function buildDefaultSettings(this: void): Settings {
+function buildDefaultSettings(this: void): Settings {
   return {
     title: { font: "ProseAntique" },
     GSP: {
@@ -245,7 +245,7 @@ const PD_KEYS = [
   "CG",
 ]
 
-export function buildDefaultPtsData(this: void): PointsData {
+function buildDefaultPtsData(this: void): PointsData {
   return {
     Tot: 0,
     GenTot: 0,

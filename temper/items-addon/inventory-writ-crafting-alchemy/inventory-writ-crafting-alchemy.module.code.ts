@@ -16,11 +16,10 @@ import {
   newConsumableTrace,
   recordMasterConsumableTrace,
 } from "akasha/temper/items-addon/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
-export const SOLVENT_ITEM_IDS = [
-  883, 1187, 4570, 23265, 23266, 23267, 23268, 64500, 64501, 75364, 75365,
-]
 
-export function findSolvent(
+const SOLVENT_ITEM_IDS = [883, 1187, 4570, 23265, 23266, 23267, 23268, 64500, 64501, 75364, 75365]
+
+function findSolvent(
   requiredItemId: number,
   materialItemId: number
 ): { bag: number; slot: number } | undefined {

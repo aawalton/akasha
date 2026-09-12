@@ -29,7 +29,7 @@ export function computeEnableActions(pack: Pack, entries: readonly AddonEntry[])
   return actions
 }
 
-export function packAddonNames(pack: Pack): string[] {
+function packAddonNames(pack: Pack): string[] {
   const names: string[] = []
   for (const name in pack) {
     names.push(name)

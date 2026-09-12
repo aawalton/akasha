@@ -5,14 +5,14 @@ import type {
 } from "akasha/temper/capture-shapes/tribute-catalog/tribute-catalog.module.code.ts"
 import { z } from "zod"
 
-export const tributePatronCatalogCardSchema = z
+const tributePatronCatalogCardSchema = z
   .object({
     baseCardName: z.string(),
     upgradeCardName: z.string(),
   })
   .strict()
 
-export const tributePatronCatalogEntrySchema = z
+const tributePatronCatalogEntrySchema = z
   .object({
     name: z.string(),
     categoryName: z.string(),
@@ -24,6 +24,6 @@ export const tributePatronCatalogEntrySchema = z
 assertSchemaMatchesPayload<typeof tributePatronCatalogCardSchema, TributePatronCatalogCard>()
 assertSchemaMatchesPayload<typeof tributePatronCatalogEntrySchema, TributePatronCatalogEntry>()
 
-export const tributeCatalogSchema = z.record(z.coerce.number(), tributePatronCatalogEntrySchema)
+const tributeCatalogSchema = z.record(z.coerce.number(), tributePatronCatalogEntrySchema)
 
 export type TributeCatalog = z.infer<typeof tributeCatalogSchema>

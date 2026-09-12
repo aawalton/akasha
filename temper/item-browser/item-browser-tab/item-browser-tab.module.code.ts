@@ -25,7 +25,7 @@ import type { ContextMenuFactory } from "akasha/temper/item-browser/item-browser
 
 const CONTEXT_MENU_ITEMS: ContextMenuFactory[] = []
 
-export function registerContextMenuItem(this: void, factory: ContextMenuFactory): undefined {
+function registerContextMenuItem(this: void, factory: ContextMenuFactory): undefined {
   CONTEXT_MENU_ITEMS.push(factory)
   return undefined
 }
@@ -134,7 +134,7 @@ function lazyInitializeBrowser(this: void): undefined {
   return undefined
 }
 
-export function refreshBrowser(this: void, noActiveCheck?: boolean): undefined {
+function refreshBrowser(this: void, noActiveCheck?: boolean): undefined {
   const list = getList()
   if (
     getInitialized() > 1 &&

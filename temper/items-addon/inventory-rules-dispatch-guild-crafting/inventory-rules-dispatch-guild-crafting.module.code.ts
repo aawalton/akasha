@@ -22,7 +22,8 @@ import { evaluateRules } from "akasha/temper/items-addon/inventory-rules-eval/in
 import { dispatchWritCrafting } from "akasha/temper/items-addon/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-export const MAX_OPS = 50
+
+const MAX_OPS = 50
 
 export function onOpenGuildBank(): undefined {
   const guildBankKey = getGuildBankLocationKey()
@@ -141,7 +142,7 @@ export function onOpenGuildBank(): undefined {
   transferNext()
 }
 
-export function countActiveResearch(craftType: number): number {
+function countActiveResearch(craftType: number): number {
   let active = 0
   const numLines = GetNumSmithingResearchLines(craftType)
   for (let lineIndex = 1; lineIndex <= numLines; lineIndex++) {
@@ -154,13 +155,13 @@ export function countActiveResearch(craftType: number): number {
   return active
 }
 
-export const RESEARCH_CRAFT_TYPES = new LuaSet<number>()
+const RESEARCH_CRAFT_TYPES = new LuaSet<number>()
 RESEARCH_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)
 RESEARCH_CRAFT_TYPES.add(CRAFTING_TYPE_CLOTHIER)
 RESEARCH_CRAFT_TYPES.add(CRAFTING_TYPE_WOODWORKING)
 RESEARCH_CRAFT_TYPES.add(CRAFTING_TYPE_JEWELRYCRAFTING)
 
-export function collectBankDeconTargets(
+function collectBankDeconTargets(
   this: void,
   bankBagId: number,
   deconTargets: { bagId: number; slotIndex: number; link: string; ruleIndex: number }[],

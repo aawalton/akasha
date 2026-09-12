@@ -10,7 +10,7 @@ export function isThirdAlchemySlotUnlocked(this: void): boolean {
   return ZO_Alchemy_IsThirdAlchemySlotUnlocked()
 }
 
-export function addLine(
+function addLine(
   this: void,
   tooltip: TooltipControl,
   text: string,

@@ -123,7 +123,7 @@ export function getDefaults(this: void): LostTreasureDefaults {
   return DEFAULTS
 }
 
-export function getNewTexturePath(this: void, path: string, pinType: PinType): string {
+function getNewTexturePath(this: void, path: string, pinType: PinType): string {
   const textures = LibTreasure_GetIcons()
   const fileName = getFileNameFromPath(path)
   if (fileName !== undefined) {

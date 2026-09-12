@@ -281,7 +281,7 @@ export function updateExcludedMountIdsLibShifterBoxState(
   shifterBox.SetEnabled(isExcludeMountIdsLSBEnabled)
 }
 
-export function buildExcludedMountIdsLibShifterBox(
+function buildExcludedMountIdsLibShifterBox(
   this: void,
   parentCtrl: Control | undefined
 ): undefined {

@@ -49,7 +49,7 @@ function defaultFilterState(locationOptions: readonly LocationViewOption[]): Bro
   }
 }
 
-export function refreshBrowser(): undefined {
+function refreshBrowser(): undefined {
   if (browser === undefined) return
   const charId = tostring(GetCurrentCharacterId())
   const rows = buildBrowserRows()

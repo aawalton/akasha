@@ -9,7 +9,7 @@ import { REPORT_STATE } from "akasha/temper/lorebooks/lorebooks-report-state/lor
 import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import type { EideticBookZoneEntry } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
-export function allowEideticReport(): boolean {
+function allowEideticReport(): boolean {
   return (
     LORE_LIBRARY.eideticPossibleCollected - (LORE_LIBRARY.eideticCurrentlyCollected ?? 0) <= 225
   )

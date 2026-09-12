@@ -23,7 +23,8 @@ import {
 } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
 import { ensureLocation } from "akasha/temper/items-addon/inventory-saved-variables/inventory-saved-variables.module.code.ts"
 import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-export function scanLocation(key: string, displayName: string, bags: number[]): undefined {
+
+function scanLocation(key: string, displayName: string, bags: number[]): undefined {
   const location = ensureLocation(key, displayName)
   for (const bagId of bags) {
     location.bags[bagId] = {}

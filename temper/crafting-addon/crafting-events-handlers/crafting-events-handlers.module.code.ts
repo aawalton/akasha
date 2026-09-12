@@ -420,21 +420,21 @@ export function runeRecipeTabShow(this: void): undefined {
   }
 }
 
-export function cookFoodTabShow(this: void): undefined {
+function cookFoodTabShow(this: void): undefined {
   if (STATE.Account.options.usecook) {
     cookShowCategory(1)
     cookShow()
   }
 }
 
-export function cookDrinkTabShow(this: void): undefined {
+function cookDrinkTabShow(this: void): undefined {
   if (STATE.Account.options.usecook) {
     cookShowCategory(8)
     cookShow()
   }
 }
 
-export function cookFurnitureTabShow(this: void): undefined {
+function cookFurnitureTabShow(this: void): undefined {
   if (STATE.Account.options.usecook) {
     cookShowCategory(19)
     cookShow()

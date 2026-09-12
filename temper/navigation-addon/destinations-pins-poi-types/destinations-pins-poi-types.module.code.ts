@@ -51,8 +51,8 @@ export const DESTINATIONS_PIN_TYPE_GROUPAREAOFINTEREST = 48
 export const DESTINATIONS_PIN_TYPE_HOUSING = 49
 export const DESTINATIONS_PIN_TYPE_DWEMERGEAR = 50
 export const DESTINATIONS_PIN_TYPE_NORDBOAT = 51
-export const DESTINATIONS_PIN_TYPE_DEADLANDS = 52
-export const DESTINATIONS_PIN_TYPE_HIGHISLE = 53
+const DESTINATIONS_PIN_TYPE_DEADLANDS = 52
+const DESTINATIONS_PIN_TYPE_HIGHISLE = 53
 export const DESTINATIONS_PIN_TYPE_MUSHROMTOWER = 54
 export const DESTINATIONS_PIN_TYPE_GROUPPORTAL = 55
 export const DESTINATIONS_PIN_TYPE_ENDLESSARCHIVE = 56
@@ -163,65 +163,64 @@ const ACH_TYPES: Record<number, string | undefined> = {
   [55]: getSettingsString("POITYPE_UNKNOWN"),
 }
 
-export const ZONE_TO_ACHIEVEMENTS: Record<number, Record<string, number | undefined> | undefined> =
-  {
-    [872]: {
-      khenarthisroost_base_0: 1,
-      auridon_base_0: 2,
-      grahtwood_base_0: 3,
-      greenshade_base_0: 4,
-      malabaltor_base_0: 5,
-      reapersmarch_base_0: 6,
-      balfoyen_base_0: 7,
-      stonefalls_base_0: 8,
-      deshaan_base_0: 9,
-      shadowfen_base_0: 10,
-      eastmarch_base_0: 11,
-      therift_base_0: 12,
-      betnihk_base_0: 13,
-      glenumbra_base_0: 14,
-      stormhaven_base_0: 15,
-      rivenspire_base_0: 16,
-      alikr_base_0: 17,
-      bangkorai_base_0: 18,
-      coldharbour_base_0: 19,
-    },
-    [767167]: {
-      auridon_base_0: 1,
-      grahtwood_base_0: 2,
-      greenshade_base_0: 3,
-      malabaltor_base_0: 4,
-      reapersmarch_base_0: 5,
-      stonefalls_base_0: 6,
-      deshaan_base_0: 7,
-      shadowfen_base_0: 8,
-      eastmarch_base_0: 9,
-      therift_base_0: 10,
-      glenumbra_base_0: 11,
-      stormhaven_base_0: 12,
-      rivenspire_base_0: 13,
-      alikr_base_0: 14,
-      bangkorai_base_0: 15,
-    },
-    [704]: {
-      glenumbra_base_0: 1,
-      stonefalls_base_0: 2,
-      auridon_base_0: 3,
-      stormhaven_base_0: 4,
-      deshaan_base_0: 5,
-      grahtwood_base_0: 6,
-      rivenspire_base_0: 7,
-      shadowfen_base_0: 8,
-      greenshade_base_0: 9,
-      alikr_base_0: 10,
-      eastmarch_base_0: 11,
-      malabaltor_base_0: 12,
-      bangkorai_base_0: 13,
-      therift_base_0: 14,
-      reapersmarch_base_0: 15,
-      coldharbour_base_0: 16,
-    },
-  }
+const ZONE_TO_ACHIEVEMENTS: Record<number, Record<string, number | undefined> | undefined> = {
+  [872]: {
+    khenarthisroost_base_0: 1,
+    auridon_base_0: 2,
+    grahtwood_base_0: 3,
+    greenshade_base_0: 4,
+    malabaltor_base_0: 5,
+    reapersmarch_base_0: 6,
+    balfoyen_base_0: 7,
+    stonefalls_base_0: 8,
+    deshaan_base_0: 9,
+    shadowfen_base_0: 10,
+    eastmarch_base_0: 11,
+    therift_base_0: 12,
+    betnihk_base_0: 13,
+    glenumbra_base_0: 14,
+    stormhaven_base_0: 15,
+    rivenspire_base_0: 16,
+    alikr_base_0: 17,
+    bangkorai_base_0: 18,
+    coldharbour_base_0: 19,
+  },
+  [767167]: {
+    auridon_base_0: 1,
+    grahtwood_base_0: 2,
+    greenshade_base_0: 3,
+    malabaltor_base_0: 4,
+    reapersmarch_base_0: 5,
+    stonefalls_base_0: 6,
+    deshaan_base_0: 7,
+    shadowfen_base_0: 8,
+    eastmarch_base_0: 9,
+    therift_base_0: 10,
+    glenumbra_base_0: 11,
+    stormhaven_base_0: 12,
+    rivenspire_base_0: 13,
+    alikr_base_0: 14,
+    bangkorai_base_0: 15,
+  },
+  [704]: {
+    glenumbra_base_0: 1,
+    stonefalls_base_0: 2,
+    auridon_base_0: 3,
+    stormhaven_base_0: 4,
+    deshaan_base_0: 5,
+    grahtwood_base_0: 6,
+    rivenspire_base_0: 7,
+    shadowfen_base_0: 8,
+    greenshade_base_0: 9,
+    alikr_base_0: 10,
+    eastmarch_base_0: 11,
+    malabaltor_base_0: 12,
+    bangkorai_base_0: 13,
+    therift_base_0: 14,
+    reapersmarch_base_0: 15,
+    coldharbour_base_0: 16,
+  },
+}
 
 export function zoneToAchievementCriterion(
   achievementZoneMap: number,

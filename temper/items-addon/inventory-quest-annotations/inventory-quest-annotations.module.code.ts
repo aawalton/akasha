@@ -10,9 +10,9 @@ export interface PendingQuestCompletion {
   timestamp: number
 }
 
-export let pendingQuestCompletion: PendingQuestCompletion | undefined
+let pendingQuestCompletion: PendingQuestCompletion | undefined
 
-export function classifyFromCompletionType(
+function classifyFromCompletionType(
   completionType: number
 ): "delve" | "group-boss" | "world-event" | undefined {
   if (completionType === ZONE_COMPLETION_TYPE_DELVES) return "delve"

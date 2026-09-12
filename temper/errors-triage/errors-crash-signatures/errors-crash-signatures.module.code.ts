@@ -7,7 +7,7 @@ export interface CrashSignature {
 const NIL_FUNCTION_RE = /function expected instead of nil/i
 const CRAFTSTORE_HANDLER_RE = /\b(?:TemperCrafting_\w+|CraftStoreFixed_\w+|Cook\w+)/
 
-export const CRASH_SIGNATURES: readonly CrashSignature[] = [
+const CRASH_SIGNATURES: readonly CrashSignature[] = [
   {
     id: "craftstorefixed-cook-nil-function",
     culpritAddon: "TemperCrafting",

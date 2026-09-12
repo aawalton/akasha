@@ -27,12 +27,12 @@ export function getCompiledConfig(): CompiledRuleConfig | undefined {
   return compiled
 }
 
-export const pendingActions = new LuaMap<number, AddonItemAction>()
-export const pendingDestinations = new LuaMap<number, string>()
-export const pendingTargetQuantities = new LuaMap<number, number>()
-export const pendingStockScopes = new LuaMap<number, string>()
-export const pendingRuleIndices = new LuaMap<number, number>()
-export const pendingItemIds = new LuaMap<number, string>()
+const pendingActions = new LuaMap<number, AddonItemAction>()
+const pendingDestinations = new LuaMap<number, string>()
+const pendingTargetQuantities = new LuaMap<number, number>()
+const pendingStockScopes = new LuaMap<number, string>()
+const pendingRuleIndices = new LuaMap<number, number>()
+const pendingItemIds = new LuaMap<number, string>()
 
 export function setPendingAction(
   bagId: number,

@@ -25,7 +25,7 @@ const STATE_SHAPE = z
   })
   .strict()
 
-export const STATE_FILE = "daemon.json"
+const STATE_FILE = "daemon.json"
 
 export const WORKER_LOG = "watcher.log"
 
@@ -39,7 +39,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-export function workerEntryAt(root: string): string {
+function workerEntryAt(root: string): string {
   const page = listedAt(root, MODULE, WORKER)[0]
   const at = page === undefined ? null : besideAt(page.path, CODE, TS)
   if (at === null) {
@@ -50,7 +50,7 @@ export function workerEntryAt(root: string): string {
   return at
 }
 
-export function stateFilePath(): string {
+function stateFilePath(): string {
   return join(watcherConfigDir(), STATE_FILE)
 }
 

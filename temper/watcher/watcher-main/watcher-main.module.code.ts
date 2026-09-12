@@ -36,11 +36,11 @@ import { resolveWatcherToken } from "akasha/temper/watcher/watcher-token/watcher
 import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-export const POLL_INTERVAL_MS = 2000
+const POLL_INTERVAL_MS = 2000
 
-export const UPDATE_CHECK_MIN_INTERVAL_MS = 60_000
+const UPDATE_CHECK_MIN_INTERVAL_MS = 60_000
 
-export const HOURLY_UPDATE_CHECK_MS = 60 * 60_000
+const HOURLY_UPDATE_CHECK_MS = 60 * 60_000
 
 const WATCHED_NAME = /^Temper(.+)\.lua$/
 

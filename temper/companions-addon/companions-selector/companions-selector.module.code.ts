@@ -32,18 +32,18 @@ import {
   type SavedCompanionEquipmentSlot,
 } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 export const DROPDOWN_HEIGHT = 30
-export const DROPDOWN_WIDTH = 200
+const DROPDOWN_WIDTH = 200
 export const DROPDOWN_BOTTOM_MARGIN = 12
-export const COMPANION_DROPDOWN_LEFT = 170
+const COMPANION_DROPDOWN_LEFT = 170
 
 export function getCleanCompanionName(companionId: number): string {
   return zo_strformat("<<1>>", GetCompanionName(companionId))
 }
 
-export let selectedId: number | undefined
-export let SYNCING = false
+let selectedId: number | undefined
+let SYNCING = false
 
-export const DROPDOWN_INSTANCES: ComboBox[] = []
+const DROPDOWN_INSTANCES: ComboBox[] = []
 
 export function createCompanionDropdown(parent: Control): Control {
   const container = WINDOW_MANAGER.CreateControlFromVirtual(
@@ -72,7 +72,7 @@ export function createCompanionDropdown(parent: Control): Control {
   return container
 }
 
-export function syncComboBoxToCompanionId(comboBox: ComboBox, companionId: number): undefined {
+function syncComboBoxToCompanionId(comboBox: ComboBox, companionId: number): undefined {
   SYNCING = true
   const name = getCleanCompanionName(companionId)
   const items = comboBox.GetItems()

@@ -12,7 +12,7 @@ export interface MailCandidate {
   itemLink: string
 }
 
-export function extractMailRecipient(destination: string): string | undefined {
+function extractMailRecipient(destination: string): string | undefined {
   if (destination.startsWith("mail:")) {
     const handle = destination.slice("mail:".length)
     if (handle.length > 0) return handle

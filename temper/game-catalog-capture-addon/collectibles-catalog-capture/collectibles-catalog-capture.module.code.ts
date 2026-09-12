@@ -21,10 +21,7 @@ export interface CollectibleWorkItem {
   collectibleIndex: number
 }
 
-export function collectCollectiblesCatalog(
-  this: void,
-  onComplete: (this: void) => void
-): undefined {
+function collectCollectiblesCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: CollectiblesCatalogData = { categories: {} }
 

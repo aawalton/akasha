@@ -17,9 +17,9 @@ export type MailSourceCategory = {
   onComplete?: (this: void, count: number) => undefined
 }
 
-export const HIRELING_MAIL_LOOTED_CALLBACK = "Temper_HirelingMailLooted"
+const HIRELING_MAIL_LOOTED_CALLBACK = "Temper_HirelingMailLooted"
 
-export const HIRELING_SUBJECTS: readonly string[] = [
+const HIRELING_SUBJECTS: readonly string[] = [
   "Raw Enchanter Materials",
   "Raw Clothier Materials",
   "Raw Blacksmith Materials",
@@ -27,7 +27,7 @@ export const HIRELING_SUBJECTS: readonly string[] = [
   "Raw Provisioner Materials",
 ]
 
-export function isHirelingMailInfo(
+function isHirelingMailInfo(
   subject: string,
   numAttachments: number,
   attachedMoney: number,

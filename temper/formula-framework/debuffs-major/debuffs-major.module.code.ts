@@ -16,7 +16,7 @@ interface DebuffMajorTemplate {
   effects: readonly DebuffMajorEffect[]
 }
 
-export const TEMPER_DEBUFF_MAJOR_DATA = {
+const TEMPER_DEBUFF_MAJOR_DATA = {
   "major-breach": {
     id: "major-breach" as const,
     name: "Major Breach",

@@ -4,7 +4,7 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-export const BY_PRIORITY_DESTINATION = "character:by-priority"
+const BY_PRIORITY_DESTINATION = "character:by-priority"
 
 export interface StockSurplusTier {
   readonly destination: MoveToDestination

@@ -1,6 +1,7 @@
 import { extractItemData } from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
 import type { ItemData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-export function scanStandardBag(bagId: number): Record<number, ItemData> {
+
+function scanStandardBag(bagId: number): Record<number, ItemData> {
   const items: Record<number, ItemData> = {}
   const bagSize = GetBagSize(bagId)
   for (let slotIndex = 0; slotIndex < bagSize; slotIndex++) {
@@ -12,7 +13,7 @@ export function scanStandardBag(bagId: number): Record<number, ItemData> {
   return items
 }
 
-export function scanVirtualBag(): Record<number, ItemData> {
+function scanVirtualBag(): Record<number, ItemData> {
   const items: Record<number, ItemData> = {}
   let slotId = GetNextVirtualBagSlotId(undefined)
   while (slotId !== undefined) {
@@ -25,7 +26,7 @@ export function scanVirtualBag(): Record<number, ItemData> {
   return items
 }
 
-export function scanIteratedBag(bagId: number): Record<number, ItemData> {
+function scanIteratedBag(bagId: number): Record<number, ItemData> {
   const items: Record<number, ItemData> = {}
   let slotIndex = ZO_GetNextBagSlotIndex(bagId, undefined)
   while (slotIndex !== undefined) {

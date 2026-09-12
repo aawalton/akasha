@@ -46,7 +46,7 @@ export type MasterWritConditionInfo = {
   readonly craftingType: number | undefined
 }
 
-export function classifyMasterWritQuest(
+function classifyMasterWritQuest(
   this: void,
   isEndingStep: boolean,
   conditions: readonly MasterWritConditionInfo[]

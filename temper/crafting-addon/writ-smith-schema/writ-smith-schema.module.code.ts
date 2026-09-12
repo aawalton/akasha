@@ -1,7 +1,7 @@
 import "akasha/temper/crafting-addon/writ-smith-request-items/writ-smith-request-items.module.code.ts"
 import type { Improvement } from "akasha/temper/crafting-addon/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 
-export const PURPLE: Improvement = {
+const PURPLE: Improvement = {
   index: 4,
   name: "",
   green_mat_ct: 2,
@@ -10,7 +10,7 @@ export const PURPLE: Improvement = {
   gold_mat_ct: 0,
 }
 
-export const GOLD: Improvement = {
+const GOLD: Improvement = {
   index: 5,
   name: "",
   green_mat_ct: 2,
@@ -19,7 +19,7 @@ export const GOLD: Improvement = {
   gold_mat_ct: 8,
 }
 
-export const GREEN_JEWELRY: Improvement = {
+const GREEN_JEWELRY: Improvement = {
   index: 2,
   name: "",
   green_mat_ct: 2,
@@ -28,7 +28,7 @@ export const GREEN_JEWELRY: Improvement = {
   gold_mat_ct: 0,
 }
 
-export const BLUE_JEWELRY: Improvement = {
+const BLUE_JEWELRY: Improvement = {
   index: 3,
   name: "",
   green_mat_ct: 2,
@@ -37,7 +37,7 @@ export const BLUE_JEWELRY: Improvement = {
   gold_mat_ct: 0,
 }
 
-export const PURPLE_JEWELRY: Improvement = {
+const PURPLE_JEWELRY: Improvement = {
   index: 4,
   name: "",
   green_mat_ct: 2,
@@ -46,7 +46,7 @@ export const PURPLE_JEWELRY: Improvement = {
   gold_mat_ct: 0,
 }
 
-export const GOLD_JEWELRY: Improvement = {
+const GOLD_JEWELRY: Improvement = {
   index: 5,
   name: "",
   green_mat_ct: 2,

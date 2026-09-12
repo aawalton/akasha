@@ -16,7 +16,7 @@ interface DebuffMinorTemplate {
   effects: readonly DebuffMinorEffect[]
 }
 
-export const TEMPER_DEBUFF_MINOR_DATA = {
+const TEMPER_DEBUFF_MINOR_DATA = {
   "minor-breach": {
     id: "minor-breach" as const,
     name: "Minor Breach",

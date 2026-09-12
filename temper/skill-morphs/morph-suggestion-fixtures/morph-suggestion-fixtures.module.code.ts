@@ -7,7 +7,7 @@ import type {
   SkillMorphInput,
 } from "akasha/temper/skill-morphs/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
-export const MORPHABLE_LINE_DISPLAY_ORDERS: ReadonlyMap<number, number> = (() => {
+const MORPHABLE_LINE_DISPLAY_ORDERS: ReadonlyMap<number, number> = (() => {
   const map = new Map<number, number>()
   for (const sl of skillLines.list) {
     if (sl.esoSkillLineId !== 0 && morphableSkillsByLine.has(sl.id)) {
@@ -17,16 +17,16 @@ export const MORPHABLE_LINE_DISPLAY_ORDERS: ReadonlyMap<number, number> = (() =>
   return map
 })()
 
-export const DK_ARDENT_FLAME = 35
-export const DK_DRACONIC_POWER = 36
-export const DK_EARTHEN_HEART = 37
-export const SORC_DARK_MAGIC = 41
-export const SORC_DAEDRIC_SUMMONING = 42
-export const SORC_STORM_CALLING = 43
-export const VAMPIRE = 51
-export const WEREWOLF = 50
+const DK_ARDENT_FLAME = 35
+const DK_DRACONIC_POWER = 36
+const DK_EARTHEN_HEART = 37
+const SORC_DARK_MAGIC = 41
+const SORC_DAEDRIC_SUMMONING = 42
+const SORC_STORM_CALLING = 43
+const VAMPIRE = 51
+const WEREWOLF = 50
 
-export const ALL_CLASS_LINES: ReadonlySet<number> = new Set<number>([
+const ALL_CLASS_LINES: ReadonlySet<number> = new Set<number>([
   DK_ARDENT_FLAME,
   DK_DRACONIC_POWER,
   DK_EARTHEN_HEART,
@@ -34,12 +34,12 @@ export const ALL_CLASS_LINES: ReadonlySet<number> = new Set<number>([
   SORC_DAEDRIC_SUMMONING,
   SORC_STORM_CALLING,
 ])
-export const DK_CLASS_LINES: ReadonlySet<number> = new Set<number>([
+const DK_CLASS_LINES: ReadonlySet<number> = new Set<number>([
   DK_ARDENT_FLAME,
   DK_DRACONIC_POWER,
   DK_EARTHEN_HEART,
 ])
-export const VAMPIRE_WEREWOLF_GROUP: ReadonlyArray<ReadonlySet<number>> = [
+const VAMPIRE_WEREWOLF_GROUP: ReadonlyArray<ReadonlySet<number>> = [
   new Set<number>([VAMPIRE, WEREWOLF]),
 ]
 
@@ -53,7 +53,7 @@ export interface SkillOpts {
   isUltimate?: boolean
 }
 
-export function makeSkill(opts: SkillOpts): SkillMorphInput {
+function makeSkill(opts: SkillOpts): SkillMorphInput {
   return {
     base: opts.base,
     morph1: opts.morph1,
@@ -85,7 +85,7 @@ export function lineOf(skills: Record<number, SkillMorphInput>): MorphSkillLineI
   return { skills }
 }
 
-export const DEFAULT_CAPS = { active: 7, ultimate: 2 }
+const DEFAULT_CAPS = { active: 7, ultimate: 2 }
 
 function deriveExpectedFromProgress(slp: Record<number, MorphSkillLineInput | undefined>): {
   expectedSkillsByEsoLineId: ReadonlyMap<number, ReadonlyArray<ExpectedMorphableSkillForSuggestion>>

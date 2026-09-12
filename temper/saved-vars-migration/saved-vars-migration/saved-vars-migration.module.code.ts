@@ -89,7 +89,7 @@ export type ConsolidationMigration =
     }
   | { readonly mode: "append"; readonly runFor: string; readonly spec: AppendSpec }
 
-export function logConsolidationMigration(
+function logConsolidationMigration(
   outcome: RenameMigrationOutcome | AppendMigrationOutcome
 ): undefined {
   if (outcome.kind === "renamed") {

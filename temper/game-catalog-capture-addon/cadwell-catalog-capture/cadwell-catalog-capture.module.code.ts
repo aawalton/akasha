@@ -11,13 +11,13 @@ import type {
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export const CADWELL_LEVELS = [
+const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,
   CADWELL_PROGRESSION_LEVEL_SILVER,
   CADWELL_PROGRESSION_LEVEL_GOLD,
 ]
 
-export function collectCadwellCatalog(this: void, onComplete: (this: void) => void): undefined {
+function collectCadwellCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, CadwellCatalogLevel> = {}
 

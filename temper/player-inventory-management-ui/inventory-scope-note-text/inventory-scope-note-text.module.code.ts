@@ -11,7 +11,7 @@ function formatGoldValue(value: number): string {
   return `${Math.round(value).toLocaleString()}g`
 }
 
-export function describeExclusions(excluded: readonly ExcludedLocation[]): string | undefined {
+function describeExclusions(excluded: readonly ExcludedLocation[]): string | undefined {
   if (excluded.length === 0) return undefined
 
   const guildBanks = excluded.filter((e) => e.reason === "unmanaged-guild-bank")

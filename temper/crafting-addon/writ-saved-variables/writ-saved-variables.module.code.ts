@@ -4,11 +4,11 @@ import {
 } from "akasha/temper/crafting-addon/writ-constants/writ-constants.module.code.ts"
 import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
 
-export const WW_DEFAULT: {
+const WW_DEFAULT: {
   log?: unknown
 } = {}
 
-export const WW_DEFAULT_CHAR: {
+const WW_DEFAULT_CHAR: {
   writ_unique_id: Record<string, WritSavedChariable | undefined>
   enable_mat_price_tooltip: boolean
   enable_mat_list_chat: string | undefined

@@ -24,7 +24,7 @@ import {
 
 const FLAT_STOCK_SURPLUS_SINK = "bank"
 
-export function computeUseAllocation(
+function computeUseAllocation(
   bagId: number,
   slotIndex: number,
   itemKey: ItemKey,
@@ -88,7 +88,7 @@ function currentCharPassesEligibility(conditions: CharEligibilityConditions | un
   return composeCharEligibilityPredicate(conditions, resolvers)(currentChar)
 }
 
-export function resolveStockChainForCurrentChar(
+function resolveStockChainForCurrentChar(
   chain: DestinationChain
 ): { destination: string | undefined; targetQuantity: number } | undefined {
   const plan = planStockChainVisit(chain)

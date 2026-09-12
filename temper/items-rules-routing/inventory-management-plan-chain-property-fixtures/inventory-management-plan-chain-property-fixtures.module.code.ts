@@ -28,8 +28,8 @@ export interface ChainTier {
 export type DestinationChain = readonly ChainTier[]
 
 export const STOCK_STACK_COUNT_ARB = fc.integer({ min: 1, max: 24 })
-export const TARGET_QUANTITY_ARB = fc.integer({ min: 1, max: 8 })
-export const PRIORITY_NUM_ARB = fc.integer({ min: 1, max: 4 })
+const TARGET_QUANTITY_ARB = fc.integer({ min: 1, max: 8 })
+const PRIORITY_NUM_ARB = fc.integer({ min: 1, max: 4 })
 export const PRIORITY_ARB = fc.array(PRIORITY_NUM_ARB, { minLength: 1, maxLength: 4 })
 
 const FIXED_DESTINATIONS: readonly MoveToDestination[] = [
@@ -38,11 +38,9 @@ const FIXED_DESTINATIONS: readonly MoveToDestination[] = [
   "house-storage:4677",
 ] as const
 
-export const TIER_DESTINATION_ARB: fc.Arbitrary<MoveToDestination> = fc.constantFrom(
-  ...FIXED_DESTINATIONS
-)
+const TIER_DESTINATION_ARB: fc.Arbitrary<MoveToDestination> = fc.constantFrom(...FIXED_DESTINATIONS)
 
-export const TIER_ARB: fc.Arbitrary<ChainTier> = fc
+const TIER_ARB: fc.Arbitrary<ChainTier> = fc
   .record({
     destination: TIER_DESTINATION_ARB,
     targetQuantity: fc.option(TARGET_QUANTITY_ARB, { nil: undefined }),

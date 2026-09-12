@@ -7,16 +7,16 @@ export const TAB_NAME = "ItemBrowser"
 export const DATA_TYPE = 1
 export const SORT_TYPE = 1
 
-export const FLAG_CRAFTED = 0x01
-export const FLAG_JEWELRY = 0x02
-export const FLAG_WEAPON = 0x04
-export const FLAG_MONSTER = 0x08
-export const FLAG_MIXED_WEIGHTS = 0x10
-export const FLAG_ALLIANCE_STYLE = 0x20
-export const FLAG_MULTI_STYLE = 0x40
-export const FLAG_MANUAL_STYLE = 0x80
-export const FLAG_MYTHIC = 0x100
-export const FLAG_SHIELD = 0x200
+const FLAG_CRAFTED = 0x01
+const FLAG_JEWELRY = 0x02
+const FLAG_WEAPON = 0x04
+const FLAG_MONSTER = 0x08
+const FLAG_MIXED_WEIGHTS = 0x10
+const FLAG_ALLIANCE_STYLE = 0x20
+const FLAG_MULTI_STYLE = 0x40
+const FLAG_MANUAL_STYLE = 0x80
+const FLAG_MYTHIC = 0x100
+const FLAG_SHIELD = 0x200
 
 export interface ItemFlags {
   readonly crafted: number

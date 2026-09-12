@@ -9,9 +9,9 @@ import {
 } from "akasha/temper/bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
 import { SKILL_ABILITY_ID_TO_INDEX } from "akasha/temper/companions-addon/companions-skill-map/companions-skill-map.module.code.ts"
 
-export const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]
+const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]
 
-export const INDEX_TO_TRAIT: string[] = [
+const INDEX_TO_TRAIT: string[] = [
   "No Trait",
   "Aggressive",
   "Augmented",
@@ -24,7 +24,7 @@ export const INDEX_TO_TRAIT: string[] = [
   "Vigorous",
 ]
 
-export const INDEX_TO_WEAPON_TYPE: string[] = [
+const INDEX_TO_WEAPON_TYPE: string[] = [
   "",
   "Sword",
   "Axe",
@@ -41,7 +41,7 @@ export const INDEX_TO_WEAPON_TYPE: string[] = [
   "Shield",
 ]
 
-export const INDEX_TO_QUALITY_COLOR: [number, number, number][] = [
+const INDEX_TO_QUALITY_COLOR: [number, number, number][] = [
   [0.5, 0.5, 0.5],
   [1, 1, 1],
   [0.12, 0.76, 0.12],
@@ -50,7 +50,7 @@ export const INDEX_TO_QUALITY_COLOR: [number, number, number][] = [
   [0.98, 0.86, 0.24],
 ]
 
-export const INDEX_TO_SKILL_ABILITY_ID: number[] = []
+const INDEX_TO_SKILL_ABILITY_ID: number[] = []
 
 for (const [abilityIdStr, skillIndex] of Object.entries(SKILL_ABILITY_ID_TO_INDEX)) {
   const abilityId = tonumber(abilityIdStr)
@@ -59,7 +59,7 @@ for (const [abilityIdStr, skillIndex] of Object.entries(SKILL_ABILITY_ID_TO_INDE
   }
 }
 
-export const INDEX_TO_ARMOR_TYPE_CONST: number[] = []
+const INDEX_TO_ARMOR_TYPE_CONST: number[] = []
 for (const [esoConstStr, idx] of Object.entries(ARMOR_TYPE_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
   if (esoConst !== undefined) {
@@ -67,7 +67,7 @@ for (const [esoConstStr, idx] of Object.entries(ARMOR_TYPE_TO_INDEX)) {
   }
 }
 
-export const INDEX_TO_ARMOR_TRAIT: number[] = []
+const INDEX_TO_ARMOR_TRAIT: number[] = []
 for (const [esoConstStr, idx] of Object.entries(ARMOR_TRAIT_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
   if (esoConst !== undefined) {
@@ -75,7 +75,7 @@ for (const [esoConstStr, idx] of Object.entries(ARMOR_TRAIT_TO_INDEX)) {
   }
 }
 
-export const INDEX_TO_JEWELRY_TRAIT: number[] = []
+const INDEX_TO_JEWELRY_TRAIT: number[] = []
 for (const [esoConstStr, idx] of Object.entries(JEWELRY_TRAIT_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
   if (esoConst !== undefined) {
@@ -83,7 +83,7 @@ for (const [esoConstStr, idx] of Object.entries(JEWELRY_TRAIT_TO_INDEX)) {
   }
 }
 
-export const INDEX_TO_WEAPON_TRAIT: number[] = []
+const INDEX_TO_WEAPON_TRAIT: number[] = []
 for (const [esoConstStr, idx] of Object.entries(WEAPON_TRAIT_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
   if (esoConst !== undefined) {
@@ -91,7 +91,7 @@ for (const [esoConstStr, idx] of Object.entries(WEAPON_TRAIT_TO_INDEX)) {
   }
 }
 
-export const INDEX_TO_WEAPON_TYPE_CONST: number[] = []
+const INDEX_TO_WEAPON_TYPE_CONST: number[] = []
 for (const [esoConstStr, idx] of Object.entries(WEAPON_TYPE_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
   if (esoConst !== undefined) {
@@ -99,7 +99,7 @@ for (const [esoConstStr, idx] of Object.entries(WEAPON_TYPE_TO_INDEX)) {
   }
 }
 
-export const INDEX_TO_QUALITY: number[] = []
+const INDEX_TO_QUALITY: number[] = []
 for (const [esoConstStr, idx] of Object.entries(QUALITY_TO_INDEX)) {
   const esoConst = tonumber(esoConstStr)
   if (esoConst !== undefined) {

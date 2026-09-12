@@ -149,7 +149,7 @@ export interface PortTarget {
   readonly tsType: string
 }
 
-export const PORT_TARGETS: readonly PortTarget[] = [
+const PORT_TARGETS: readonly PortTarget[] = [
   {
     file: "set-data-preloaded.generated.ts",
     exportName: "SET_DATA_PRELOADED",
@@ -194,7 +194,7 @@ export const PORT_TARGETS: readonly PortTarget[] = [
   },
 ]
 
-export function generatedDir(argv: readonly string[]): string {
+function generatedDir(argv: readonly string[]): string {
   const at = argv.indexOf(OUT_DIR_FLAG)
   const named = at === -1 ? undefined : argv[at + 1]
   const dir = named ?? optionalEnv(OUT_DIR_ENV)
@@ -208,7 +208,7 @@ export function generatedDir(argv: readonly string[]): string {
   return resolve(dir)
 }
 
-export function portedHeader(target: PortTarget, usesBoolPair: boolean): string {
+function portedHeader(target: PortTarget, usesBoolPair: boolean): string {
   const importLine = usesBoolPair ? `import { boolPair } from "${BOOL_PAIR_SPECIFIER}"\n\n` : ""
   return (
     `// Ported from genuine upstream LibSets ${LIBSETS_UPSTREAM.version} (AddOnVersion ${LIBSETS_UPSTREAM.addOnVersion}) — do not edit by hand.\n` +
@@ -218,7 +218,7 @@ export function portedHeader(target: PortTarget, usesBoolPair: boolean): string 
   )
 }
 
-export async function portLibsetsData(outDir: string): Promise<readonly string[]> {
+async function portLibsetsData(outDir: string): Promise<readonly string[]> {
   const srcDir = await resolveVerifiedUpstream(LIBSETS_UPSTREAM)
 
   const sources = await Promise.all(

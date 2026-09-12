@@ -141,7 +141,7 @@ function addSkillTypeContextMenuEntry(
 
 const preHookedSkillTypeEntryCtrls = new LuaMap<FcocsSkillLineEntryControl, boolean>()
 
-export function preHookSkillLinesOnMouseDown(this: void): undefined {
+function preHookSkillLinesOnMouseDown(this: void): undefined {
   const skillLinesTree = skillsWindow.skillLinesTree
   if (
     skillsWindow !== undefined &&

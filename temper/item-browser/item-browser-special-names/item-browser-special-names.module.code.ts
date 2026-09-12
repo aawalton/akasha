@@ -1,10 +1,10 @@
-export const UN_MAJ = -101
-export const UN_GLI = -102
-export const UN_URG = -103
-export const CYRO_L = -201
-export const CYRO_M = -202
-export const CYRO_H = -203
-export const TGUILD = -301
+const UN_MAJ = -101
+const UN_GLI = -102
+const UN_URG = -103
+const CYRO_L = -201
+const CYRO_M = -202
+const CYRO_H = -203
+const TGUILD = -301
 
 function mythicItemName(this: void, itemId: number): string {
   const itemLink = string.format("|H1:item:%d:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h", itemId)

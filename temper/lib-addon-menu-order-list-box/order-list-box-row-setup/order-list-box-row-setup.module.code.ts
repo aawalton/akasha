@@ -166,7 +166,7 @@ export function updateRemoveEntryEnabledState(this: void, control: LamControl): 
   )
 }
 
-export function updateDisabledStateOfControls(
+function updateDisabledStateOfControls(
   this: void,
   control: LamControl,
   disable: boolean

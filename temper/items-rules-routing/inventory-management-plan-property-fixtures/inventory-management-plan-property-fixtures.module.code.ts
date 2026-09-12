@@ -17,10 +17,10 @@ import {
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import fc from "fast-check"
 
-export const STACK_COUNT_ARB = fc.integer({ min: 1, max: 50 })
-export const QUALITY_ARB = fc.integer({ min: 1, max: 5 })
+const STACK_COUNT_ARB = fc.integer({ min: 1, max: 50 })
+const QUALITY_ARB = fc.integer({ min: 1, max: 5 })
 
-export const ITEM_NAME_ARB = fc.stringMatching(/^[a-zA-Z]{4,12}$/)
+const ITEM_NAME_ARB = fc.stringMatching(/^[a-zA-Z]{4,12}$/)
 
 export const PHYSICAL_ACTIONS: readonly ItemAction[] = ["sell", "destroy"] as const
 export const NON_PHYSICAL_ACTIONS: readonly ItemAction[] = ["nothing", "lock", "unlock"] as const
@@ -57,7 +57,7 @@ export function sumPlanStackCount(plan: ManagementPlan): number {
   return total
 }
 
-export function makeEquipItem(name: string, itemId: number): InventoryItemData {
+function makeEquipItem(name: string, itemId: number): InventoryItemData {
   return { ...makeItem(name), itemId, equipType: 1, stackCount: 1 }
 }
 
@@ -168,7 +168,7 @@ export function buildStackableBypassScenario(
   return { rule, affectedItemsMap, inventory }
 }
 
-export const RECIPE_NAME = "Recipe: Roast Venison"
+const RECIPE_NAME = "Recipe: Roast Venison"
 export const RECIPE_RESULT_ID = 28289
 
 export const COPY_COUNT_ARB = fc.integer({ min: 0, max: 5 })

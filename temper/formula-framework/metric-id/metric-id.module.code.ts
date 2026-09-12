@@ -1,4 +1,4 @@
-export const METRIC_IDS = [
+const METRIC_IDS = [
   "alliance-points-gain",
   "attack-crit-damage-spell",
   "attack-crit-damage-weapon",

@@ -21,7 +21,7 @@ import {
 import type { SignedInAnswer } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { initialFileState } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
 
-export const SCRATCH_AT = "/var/tmp"
+const SCRATCH_AT = "/var/tmp"
 
 export const LIVE = `${SCRATCH_AT}/watcher-main-probe/live`
 
@@ -99,7 +99,7 @@ export function downloading(
   return updating({ kind: "update-available", version }, { performUpdate })
 }
 
-export const NO_ANSWER = {
+const NO_ANSWER = {
   ok: true,
   operations: [],
   writeBack: null,

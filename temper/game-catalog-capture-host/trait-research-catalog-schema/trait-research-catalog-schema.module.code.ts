@@ -18,10 +18,7 @@ const traitResearchCatalogCraftTypeSchema = z
   })
   .strict()
 
-export const traitResearchCatalogSchema = z.record(
-  z.coerce.number(),
-  traitResearchCatalogCraftTypeSchema
-)
+const traitResearchCatalogSchema = z.record(z.coerce.number(), traitResearchCatalogCraftTypeSchema)
 
 assertSchemaMatchesPayload<
   typeof traitResearchCatalogSchema,

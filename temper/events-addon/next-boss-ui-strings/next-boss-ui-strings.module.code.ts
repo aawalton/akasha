@@ -1,6 +1,6 @@
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
-export const STRINGS: Record<string, string> = {
+const STRINGS: Record<string, string> = {
   SI_ICTHENEXTBOSS_AMONCRUL: "Amoncrul",
   SI_ICTHENEXTBOSS_THIRSK: "Baron Thirsk",
   SI_ICTHENEXTBOSS_GLORGOLOCH: "Glorgoloch the Destroyer",

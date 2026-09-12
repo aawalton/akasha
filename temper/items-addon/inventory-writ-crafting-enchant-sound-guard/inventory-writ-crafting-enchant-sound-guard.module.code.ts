@@ -6,7 +6,7 @@ declare const CRAFTING_RESULTS: { enchantSoundPlayer?: EnchantSoundPlayer } | un
 
 let installed = false
 
-export function buildNilLengthSafePlaySound(
+function buildNilLengthSafePlaySound(
   original: EnchantSoundPlayer["PlaySound"]
 ): (this: EnchantSoundPlayer, soundName?: string, soundLength?: number) => void {
   return function (this: EnchantSoundPlayer, soundName?: string, soundLength?: number): undefined {

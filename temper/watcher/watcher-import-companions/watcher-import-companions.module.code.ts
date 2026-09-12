@@ -20,11 +20,11 @@ import {
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
-export const COMPANIONS_SAVED_VARIABLES_GLOBAL = "TemperCompanions_SavedVariables"
+const COMPANIONS_SAVED_VARIABLES_GLOBAL = "TemperCompanions_SavedVariables"
 
-export const COMPANION_PROGRESS_PAGE_TYPE_SLUG = "temper-companion-progress"
+const COMPANION_PROGRESS_PAGE_TYPE_SLUG = "temper-companion-progress"
 
-export const NO_ROLE_KEY = "no-role"
+const NO_ROLE_KEY = "no-role"
 
 export const COMPANION_IDS_WITH_DEF_ID: readonly CompanionId[] = companions.list
   .filter((companion) => companion.esoCompanionId !== 0)

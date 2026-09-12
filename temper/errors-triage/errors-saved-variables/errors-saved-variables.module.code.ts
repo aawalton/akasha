@@ -4,7 +4,7 @@ import { savedVariablesRootSchema as captureRootSchema } from "akasha/temper/sav
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
-export const errorEntrySchema = z
+const errorEntrySchema = z
   .object({
     traceback: z.string().nullish(),
     message: z.string(),

@@ -15,7 +15,7 @@ import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-stat
 const asSharedInventorySlotData = (value: { bagId: number }): SharedInventorySlotData =>
   value as SharedInventorySlotData
 
-export function houseBankQuantity(
+function houseBankQuantity(
   this: void,
   bag: number,
   slot?: number | false,

@@ -23,7 +23,7 @@ import type { BrowseResultListing } from "akasha/temper/trading-addon/trading-br
 
 export const ROW_HEIGHT = 20
 export const ROW_GAP = 2
-export const HEADER_HEIGHT = CONTROL_HEIGHT
+const HEADER_HEIGHT = CONTROL_HEIGHT
 
 const COL_NAME_X = PADDING_X
 const COL_UNIT_X = PADDING_X + 300

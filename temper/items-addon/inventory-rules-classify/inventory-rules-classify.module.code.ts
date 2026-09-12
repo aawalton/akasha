@@ -5,7 +5,8 @@ import {
 } from "akasha/temper/items-addon/inventory-category-tree/inventory-category-tree.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { luaStringContains } from "akasha/temper/narrow/lua-string-contains/lua-string-contains.module.code.ts"
-export function resolveCategoryNode(signals: ItemSignals, nodeId: string): string | undefined {
+
+function resolveCategoryNode(signals: ItemSignals, nodeId: string): string | undefined {
   const node = CATEGORY_TREE[nodeId]
   if (!node) return undefined
 
@@ -99,7 +100,7 @@ function arrayIncludes(arr: number[], value: number): boolean {
   return false
 }
 
-export function hasSignals(node: CategoryNode): boolean {
+function hasSignals(node: CategoryNode): boolean {
   return !!(
     node.filterTypes ||
     node.itemTypes ||
@@ -114,7 +115,7 @@ export function hasSignals(node: CategoryNode): boolean {
   )
 }
 
-export function matchesSignals(signals: ItemSignals, node: CategoryNode): boolean {
+function matchesSignals(signals: ItemSignals, node: CategoryNode): boolean {
   if (node.filterTypes && !arrayIncludes(node.filterTypes, signals.filterType)) return false
   if (node.itemTypes && !arrayIncludes(node.itemTypes, signals.itemType)) return false
   if (node.specializedItemTypes) {

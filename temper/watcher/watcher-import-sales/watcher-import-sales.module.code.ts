@@ -14,13 +14,13 @@ import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code
 import { slugOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
-export const SALES_GLOBAL_NAME = "TemperSales_SavedVariables"
+const SALES_GLOBAL_NAME = "TemperSales_SavedVariables"
 
-export const SALE_PAGE_TYPE_SLUG = "temper-sale"
+const SALE_PAGE_TYPE_SLUG = "temper-sale"
 
-export const SALE_SLUG_BASE = "sale"
+const SALE_SLUG_BASE = "sale"
 
-export const MILLISECONDS_PER_SECOND = 1000
+const MILLISECONDS_PER_SECOND = 1000
 
 const SALE_ENTRY_SCHEMA = z
   .object({

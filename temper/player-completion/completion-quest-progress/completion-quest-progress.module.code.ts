@@ -19,7 +19,7 @@ export interface QuestCatalogZone {
   zoneQuests: readonly QuestCatalogQuest[]
 }
 
-export function extractCompletedIds(
+function extractCompletedIds(
   completion: NonNullable<CompletionCharacterRow["completion"]>
 ): Set<number> {
   const ids = new Set<number>()

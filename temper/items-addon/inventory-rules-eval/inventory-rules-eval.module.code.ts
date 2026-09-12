@@ -270,8 +270,8 @@ export function rescanWornItems(): undefined {
 
 setRescanInventoryRef(rescanInventory)
 
-export const ACTIONS_CHANGED_DEBOUNCE_MS = 500
-export let actionsChangedPending = false
+const ACTIONS_CHANGED_DEBOUNCE_MS = 500
+let actionsChangedPending = false
 
 export function fireInventoryActionsChanged(): undefined {
   if (actionsChangedPending) return

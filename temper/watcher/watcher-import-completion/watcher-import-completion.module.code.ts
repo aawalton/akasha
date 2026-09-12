@@ -36,15 +36,15 @@ import {
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
-export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
+const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
-export const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"
+const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"
 
-export const CHILD_ROW_LIMIT = 1000
+const CHILD_ROW_LIMIT = 1000
 
-export const COMPLETION_PROPERTY = "completion"
+const COMPLETION_PROPERTY = "completion"
 
-export const COMPLETION_ENDING = "json"
+const COMPLETION_ENDING = "json"
 
 export const NO_SIGNED_IN_USER =
   "no user is signed in, so a completion import has no account to write under"
@@ -91,11 +91,11 @@ export interface ImportCompletionOutcome {
   readonly preservedLabels: readonly string[]
 }
 
-export function foundCounts(characterCount: number, companionCount: number): string {
+function foundCounts(characterCount: number, companionCount: number): string {
   return `found 1 account, ${characterCount} character(s), ${companionCount} companion(s)`
 }
 
-export function skippedCharactersWhy(count: number): string {
+function skippedCharactersWhy(count: number): string {
   return `${count} character entry/entries were not readable and were skipped`
 }
 
@@ -107,11 +107,11 @@ export function preservedWhy(label: string, fields: readonly string[]): string {
   return `${label}: the incoming completion was missing ${fields.join(", ")}, and the forward merge kept what was stored. A saved-variables wipe or a parse regression looks like this.`
 }
 
-export function noAccountPageIdWhy(userId: string): string {
+function noAccountPageIdWhy(userId: string): string {
   return `the ${ACCOUNT_PAGE_TYPE_SLUG} page for ${userId} came back with no id`
 }
 
-export function completionRoadWhy(pageTypeSlug: string, act: string, why: string): string {
+function completionRoadWhy(pageTypeSlug: string, act: string, why: string): string {
   return `the completion files beside the ${pageTypeSlug} pages ${act}: ${why}`
 }
 

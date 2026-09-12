@@ -29,7 +29,7 @@ import type {
 
 const em = EVENT_MANAGER
 
-export function adjustZoom(this: void): undefined {
+function adjustZoom(this: void): undefined {
   const self = holder
   const [,] = GetMapPlayerPosition("player")
   const [numTiles] = GetMapNumTiles()

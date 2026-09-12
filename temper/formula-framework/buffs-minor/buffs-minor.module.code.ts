@@ -16,7 +16,7 @@ interface BuffMinorTemplate {
   effects: readonly BuffMinorEffect[]
 }
 
-export const TEMPER_BUFF_MINOR_DATA = {
+const TEMPER_BUFF_MINOR_DATA = {
   "minor-aegis": {
     id: "minor-aegis" as const,
     name: "Minor Aegis",

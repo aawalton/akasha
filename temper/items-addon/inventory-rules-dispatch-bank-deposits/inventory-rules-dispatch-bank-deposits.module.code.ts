@@ -27,7 +27,8 @@ import { computeStockTierDeposit } from "akasha/temper/items-addon/inventory-sto
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
-export const DEPOSIT_CHARACTER_PREFIX = "character:"
+
+const DEPOSIT_CHARACTER_PREFIX = "character:"
 
 function resolveCascadeTierForCtx(
   ctx: BankSlotContext,

@@ -11,7 +11,8 @@ import {
 } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-repack-scan/inventory-rules-dispatch-guild-repack-scan.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-export let repackRunning = false
+
+let repackRunning = false
 
 export function repackGuildBank(): undefined {
   if (!IsGuildBankOpen()) {
@@ -78,12 +79,9 @@ export function repackGuildBank(): undefined {
   })
 }
 
-export const MAX_REPACK_PASSES = 2
+const MAX_REPACK_PASSES = 2
 
-export function executeRepack(
-  initialGroups: ItemGroup[],
-  backpackItems: LuaSet<number>
-): undefined {
+function executeRepack(initialGroups: ItemGroup[], backpackItems: LuaSet<number>): undefined {
   repackRunning = true
   const ns = `${ADDON_NAME}_GuildRepack`
   let groups = initialGroups

@@ -7,7 +7,7 @@ export interface RotationBreakdownRowTemplate {
   description: string
 }
 
-export const TEMPER_ROTATION_BREAKDOWN_ROWS = {
+const TEMPER_ROTATION_BREAKDOWN_ROWS = {
   "damage": {
     id: "damage",
     name: "Damage",

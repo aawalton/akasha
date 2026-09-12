@@ -12,17 +12,14 @@ import type {
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export const CRAFTING_TYPES = [
+const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,
   CRAFTING_TYPE_CLOTHIER,
   CRAFTING_TYPE_WOODWORKING,
   CRAFTING_TYPE_JEWELRYCRAFTING,
 ]
 
-export function collectTraitResearchCatalog(
-  this: void,
-  onComplete: (this: void) => void
-): undefined {
+function collectTraitResearchCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, TraitResearchCatalogCraftType> = {}
 

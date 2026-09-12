@@ -14,8 +14,7 @@ import type {
 export const EM = EVENT_MANAGER
 
 const log = LibDebugLogger !== undefined ? LibDebugLogger(MAJOR) : undefined
-export const Debug: LogFunc =
-  log !== undefined ? (message, ...args) => log.Debug(message, ...args) : df
+const Debug: LogFunc = log !== undefined ? (message, ...args) => log.Debug(message, ...args) : df
 export const Warn: LogFunc =
   log !== undefined ? (message, ...args) => log.Warn(message, ...args) : df
 

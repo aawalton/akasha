@@ -16,7 +16,7 @@ interface DebuffOtherTemplate {
   effects: readonly DebuffOtherEffect[]
 }
 
-export const TEMPER_DEBUFF_OTHER_DATA = {
+const TEMPER_DEBUFF_OTHER_DATA = {
   "burning": {
     id: "burning" as const,
     name: "Burning",

@@ -2,7 +2,7 @@ import { asDebugInfoList } from "akasha/temper/lib-zone/zone-casts/zone-casts.mo
 import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
 import type { SavedVarsTable } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
 
-export function getMaxZoneIndicesAndIds(this: void): LuaMultiReturn<[number, number]> {
+function getMaxZoneIndicesAndIds(this: void): LuaMultiReturn<[number, number]> {
   const numZoneIndices = GetNumZones()
   let maxZoneIds = 0
   for (const zoneIndex of $range(0, numZoneIndices)) {

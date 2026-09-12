@@ -23,6 +23,6 @@ const cadwellCatalogLevelSchema = z
   })
   .strict()
 
-export const cadwellCatalogSchema = z.record(z.number(), cadwellCatalogLevelSchema)
+const cadwellCatalogSchema = z.record(z.number(), cadwellCatalogLevelSchema)
 
 assertSchemaMatchesPayload<typeof cadwellCatalogSchema, Record<number, CadwellCatalogLevel>>()

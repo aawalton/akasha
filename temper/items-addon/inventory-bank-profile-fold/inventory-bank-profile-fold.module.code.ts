@@ -68,7 +68,7 @@ export function nsToMs(ns: number): number {
   return Math.round(ns / 100000) / 10
 }
 
-export function sourceBucket(source: string): string {
+function sourceBucket(source: string): string {
   if (source === "[C]") return "[C]"
   const marker = "AddOns/"
   const idx = source.indexOf(marker)

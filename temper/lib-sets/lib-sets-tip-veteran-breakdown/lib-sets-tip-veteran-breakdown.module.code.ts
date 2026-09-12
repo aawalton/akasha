@@ -27,7 +27,7 @@ export interface VeteranPieceEntry {
   state: VeteranPieceState
 }
 
-export function resolveVeteranPieces(
+function resolveVeteranPieces(
   this: void,
   veteranTable: { [equipType: number]: boolean | undefined },
   setEquipTypes: number[]
@@ -52,7 +52,7 @@ export function resolveVeteranPieces(
   return entries
 }
 
-export function isUniformBreakdown(this: void, entries: VeteranPieceEntry[]): boolean {
+function isUniformBreakdown(this: void, entries: VeteranPieceEntry[]): boolean {
   let seenState: VeteranPieceState | undefined
   for (const entry of entries) {
     if (entry.state === "unknown") {
@@ -67,7 +67,7 @@ export function isUniformBreakdown(this: void, entries: VeteranPieceEntry[]): bo
   return true
 }
 
-export function gatherSetVeteranPieces(
+function gatherSetVeteranPieces(
   this: void,
   setId: number | undefined,
   veteranTable: { [equipType: number]: boolean | undefined }
@@ -83,7 +83,7 @@ export function gatherSetVeteranPieces(
   return resolveVeteranPieces(veteranTable, setEquipTypes)
 }
 
-export function renderVeteranBreakdown(
+function renderVeteranBreakdown(
   this: void,
   setData: { [key: string]: unknown },
   entries: VeteranPieceEntry[],

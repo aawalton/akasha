@@ -44,15 +44,11 @@ function containsSubstring(haystack: string, needle: string): boolean {
   return false
 }
 
-export function matchQuality(row: BrowserRow, quality: number): boolean {
+function matchQuality(row: BrowserRow, quality: number): boolean {
   return quality === BROWSER_QUALITY_ANY || row.quality === quality
 }
 
-export function matchSearch(
-  row: BrowserRow,
-  searchLower: string,
-  mode: BrowserSearchMode
-): boolean {
+function matchSearch(row: BrowserRow, searchLower: string, mode: BrowserSearchMode): boolean {
   if (searchLower === "") return true
   const nameHit = containsSubstring(toLowerAscii(row.itemName), searchLower)
   const setHit = containsSubstring(toLowerAscii(row.setName), searchLower)

@@ -8,7 +8,8 @@ import type {
   InventoryCurrencies,
 } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
-export const CURRENCY_MAP: Record<number, string> = {}
+
+const CURRENCY_MAP: Record<number, string> = {}
 if (CURT_MONEY !== undefined) CURRENCY_MAP[CURT_MONEY] = "gold"
 if (CURT_ALLIANCE_POINTS !== undefined) CURRENCY_MAP[CURT_ALLIANCE_POINTS] = "alliancePoints"
 if (CURT_TELVAR_STONES !== undefined) CURRENCY_MAP[CURT_TELVAR_STONES] = "telvarStones"
@@ -27,13 +28,13 @@ if (CURT_TOME_TOKENS !== undefined) CURRENCY_MAP[CURT_TOME_TOKENS] = "tomeTokens
 if (CURT_TOME_CHALLENGE_REROLLS !== undefined)
   CURRENCY_MAP[CURT_TOME_CHALLENGE_REROLLS] = "tomeChallengeRerolls"
 
-export const BANKABLE_CURRENCIES: number[] = []
+const BANKABLE_CURRENCIES: number[] = []
 if (CURT_MONEY !== undefined) BANKABLE_CURRENCIES.push(CURT_MONEY)
 if (CURT_ALLIANCE_POINTS !== undefined) BANKABLE_CURRENCIES.push(CURT_ALLIANCE_POINTS)
 if (CURT_TELVAR_STONES !== undefined) BANKABLE_CURRENCIES.push(CURT_TELVAR_STONES)
 if (CURT_WRIT_VOUCHERS !== undefined) BANKABLE_CURRENCIES.push(CURT_WRIT_VOUCHERS)
 
-export function ensureCurrencies(): InventoryCurrencies {
+function ensureCurrencies(): InventoryCurrencies {
   const db = getDatabase()
   if (!db.currencies) {
     db.currencies = { characters: {} }
