@@ -7,5 +7,5 @@ export const agent = {
   said: "--agent",
   takes: "an agent to answer for, said once per agent",
   value: "text",
-  placeholder: "agent id",
+  placeholder: "agent-id",
 } as const satisfies Argument

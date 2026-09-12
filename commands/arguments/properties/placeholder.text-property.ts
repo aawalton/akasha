@@ -15,6 +15,10 @@ export const placeholder = {
     },
     {
       invariantKind: "departure",
+      statement: "A name of more than one part is hyphenated rather than spaced.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An argument carrying no value names no word here.",
     },
   ],
