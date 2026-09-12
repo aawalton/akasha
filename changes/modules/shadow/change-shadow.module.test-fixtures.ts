@@ -40,6 +40,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Carried as Declared } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -300,12 +301,14 @@ export function worldOfType(
   bodies: Readonly<Record<string, string>>,
   carried: readonly Declared[] | null,
   values: ReadonlyMap<string, Value>,
-  reaching: Reaching
+  reaching: Reaching,
+  shapes: ReadonlyMap<string, Shape> = new Map<string, Shape>()
 ): World {
   const index = {
     kindsUnder: () => new Set([kind]),
     pageTypesIn: () => new Set([kind]),
     propertiesIfNamed: () => carried,
+    shapesAt: () => shapes,
     valuesByPath: () => values,
   } as never
   const ledger = ledgerAt(NOWHERE, filesOf(bodies), reaching)

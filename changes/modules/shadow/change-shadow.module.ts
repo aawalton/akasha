@@ -54,6 +54,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "That ledger's index answers the shapes a test states, and no shape otherwise.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A world recording the change reached rather than running it is built here rather than by each test.",
     },
