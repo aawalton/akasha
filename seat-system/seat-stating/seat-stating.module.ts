@@ -65,6 +65,14 @@ export const seatStating = {
       statement: "The type a seat's page names is imported from the file the page type states.",
     },
     {
+      invariantKind: "departure",
+      statement: "A seat whose page type the index names no file for is written as no page.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A page written here imports its type from somewhere rather than from nowhere.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A stop takes away the page an address is read from.",
     },

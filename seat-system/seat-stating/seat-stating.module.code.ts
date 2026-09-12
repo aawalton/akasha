@@ -115,9 +115,11 @@ export function seatBody(
   const above = person ? null : stated.parentName
   if (!person && (above === null || above === "")) return null
   const typeSlug = typeSlugOf(root, SEAT_TYPE)
+  const from = typedFrom(root, typeSlug)
+  if (from === "") return null
   const named = said(typeSlug)
   return [
-    `import type { Seat } from "${typedFrom(root, typeSlug)}"`,
+    `import type { Seat } from ${said(from)}`,
     "",
     `export const ${exportedAs(seatName)} = {`,
     `  id: ${said(stated.agentId)},`,

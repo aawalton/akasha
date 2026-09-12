@@ -19,6 +19,7 @@ import {
   seatBody,
   statedSeat,
   tookSeat,
+  typedFrom,
   unfiled,
 } from "akasha/seat-system/seat-stating/seat-stating.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
@@ -63,6 +64,14 @@ test("a seat short of a persona or a domain or a role is written as no page", ()
   expect(seatBody(short("domain"), "athena", ROOT)).toBeNull()
   expect(seatBody(short("role"), "athena", ROOT)).toBeNull()
   expect(seatBody(short("principal"), "athena", ROOT)).toBeNull()
+})
+
+test("a page type the index files no page for is imported from nowhere", () => {
+  expect(typedFrom(ROOT, "nothing-carries-this-slug")).toBe("")
+})
+
+test("a seat's page imports its type from somewhere rather than from nowhere", () => {
+  expect(seatBody(WHOLE, "athena", ROOT)).not.toContain('from ""')
 })
 
 test("a seat short of a start mode or a registration is written as no page", () => {
