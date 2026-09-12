@@ -1,10 +1,9 @@
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
-  DATA,
   GOAL,
-  INPUT,
   NOTES,
   refusing,
   settingsOf,
@@ -73,7 +72,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
       `this buy rule is inactive — say \`akasha temper inventory buy-rule update ${created.id} ${ACTIVE} true\` to start it`,
     ],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
 
