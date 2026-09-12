@@ -6,10 +6,7 @@ export const temperInventorySnapshot = {
   slug: "temper-inventory-snapshot",
   definition: "the command giving back a stored holdings snapshot as one whole record",
   code: "ts",
-  taking: [
-    { said: "--output <path>", takes: "the file the record is written to" },
-    { said: "--json", takes: "give the record on one line rather than indented" },
-  ],
+  taking: [{ said: "--json", takes: "give the record on one line rather than indented" }],
 
   invariants: [
     {
@@ -53,5 +50,6 @@ export const temperInventorySnapshot = {
   arguments: [
     { argument: "argument/latest" },
     { argument: "argument/snapshot", saidAs: "word", notWith: ["argument/latest"] },
+    { argument: "argument/output" },
   ],
 } as const satisfies Command
