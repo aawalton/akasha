@@ -150,14 +150,14 @@ export function linksMended(root: string): undefined {
   return linksMade(root, gone)
 }
 
-export function mendedFor(root: string): readonly string[] {
+export function mendedFor(root: string, calledAs: string): readonly string[] {
   try {
     linksMended(root)
     return []
   } catch (thrown) {
     const why = saidBy(thrown)
     return [
-      `akasha: a hook is registered through a link that is gone, and writing it again failed: ${why}`,
+      `${calledAs}: a hook is registered through a link that is gone, and writing it again failed: ${why}`,
     ]
   }
 }

@@ -42,7 +42,7 @@ export async function answering(
 ): Promise<Said> {
   try {
     const outside = outsideOf(env, at, from)
-    const mended = mendedFor(outside.root)
+    const mended = mendedFor(outside.root, outside.calledAs)
     const said = saidOf(await calling(argv, outside))
     return { out: said.out, err: [...mended, ...said.err], code: said.code }
   } catch (thrown) {

@@ -68,6 +68,10 @@ export const hookLinks = {
     },
     {
       invariantKind: "departure",
+      statement: "The name that answer opens with is handed in rather than spelled here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name carrying the mark of a half-written link is no event.",
     },
     {
