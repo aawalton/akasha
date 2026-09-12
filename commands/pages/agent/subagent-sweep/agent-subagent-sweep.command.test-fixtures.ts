@@ -43,7 +43,7 @@ export const CHILD = "claude --dangerously-skip-permissions --model opus"
 
 export const TASK = "rg --json needle ."
 
-export const AT = "seat-system/subagents/pages"
+export const AT = "held/subagents"
 
 const TREE = "akasha"
 
@@ -145,7 +145,7 @@ export function refusalBeside(root: string, page: string): undefined {
 }
 
 export function seatFiled(root: string, seatName: string, seatId: string): string {
-  const at = `seat-system/seats/pages/${seatName}/${seatName}.seat.ts`
+  const at = `held/seats/${seatName}/${seatName}.seat.ts`
   writing(root, at, `export const ${seatName} = { assignmentSlug: "domain/akasha" }\n`)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", `${seatName} sits`])
