@@ -13,6 +13,22 @@ function told(some: Partial<Told>): Asked {
   return { told: { ...ANSWERED, ...some }, checks: 55, commit: "abc", also: [] }
 }
 
+test("a run no check answered for is refused rather than answered clean", () => {
+  const said = askedAnswer({ ...told({}), checks: 0 }, null)
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("no check answered")
+  expect(said.refusals[0]).toContain("nothing judged")
+  expect(said.refusals[1]).toContain("a clean answer would mean nothing")
+})
+
+test("that refusal says nothing judged rather than reading as some checks left out", () => {
+  const left = "this answer leaves out 5 checks not yet judging"
+  const said = askedAnswer({ ...told({}), checks: 0, also: [left] }, null)
+  expect(said.report).toEqual([])
+  expect(said.refusals.join(" ")).not.toContain("leaves out")
+})
+
 test("a run the verdicts answer clean says how many checks answered and for what", () => {
   const said = askedAnswer(told({}), null)
   expect(said.code).toBe(0)

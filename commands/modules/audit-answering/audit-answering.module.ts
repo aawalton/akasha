@@ -11,6 +11,28 @@ export const auditAnswering = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A run no check answered for is refused rather than answered clean.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says nothing judged rather than reading as some checks left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal carries none of the lines handed in alongside a clean answer.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Nothing here weighs what a check takes as input, so one refusal covers judging nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which checks take a change as input is bound by `module/checking` rather than here.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reason and a run of refusals are held to a ceiling by `module/refusal-holding`.",
     },

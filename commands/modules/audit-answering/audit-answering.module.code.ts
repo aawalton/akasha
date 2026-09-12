@@ -30,6 +30,11 @@ const IN_VERDICTS = "and what they judged is in their verdicts"
 
 const NONE_AFTER = "of the audit service ran, and no round after that started — "
 
+const NONE_ANSWERED = "this is not an audit — no check answered, so nothing judged this commit"
+
+const WOULD_MEAN =
+  "a clean answer would mean nothing — name a check with `--check <slug>` or state `runsOnAudit`"
+
 export type Keeping = (whole: readonly string[]) => string | null
 
 export function brokenBy(thrown: unknown, rounds: readonly string[] = []): Answer {
@@ -59,6 +64,7 @@ export function codeOf(round: Told): number {
 export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
   const round = given.told
   const rounds = given.rounds ?? []
+  if (given.checks === 0) return refusedBy([NONE_ANSWERED, WOULD_MEAN], OPERATIONAL)
   if (round.broken !== null && rounds.length === 0) {
     return refusedBy([`${NO_ROUND}${round.broken}`], OPERATIONAL)
   }
