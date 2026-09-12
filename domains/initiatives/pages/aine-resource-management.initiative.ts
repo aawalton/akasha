@@ -8,11 +8,6 @@ export const aineResourceManagement = {
   persona: "aine",
   intents: [
     {
-      statement: "A seat is bounded by its share rather than by a ceiling.",
-      workingMemory:
-        "seat-launching states CPUQuota=800%, it reaches one seat of seventeen, and nothing on the host has ever been throttled. A ceiling holds even where every other core is idle, so on a 24 processor machine that is usually not full it can only make Alan wait longer for a seat he is waiting on. A share is free while the machine is quiet and divides fairly while it is busy, which is the whole job.\n",
-    },
-    {
       statement: "Every kind of work an agent starts runs under a ceiling of its own.",
       workingMemory:
         "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Every kind now records what it spent beside a page, so every kind has a page a ceiling could be stated on. A bash call already runs in a control group of its own, which is where a ceiling on one would be enforced.",
