@@ -65,22 +65,6 @@ export const athenaCommandModules = {
       workingMemory:
         "`cli.module.ts:48` and `answering/command-answering.module.ts:13` already state it, with `INPUT = 1`, `DATA = 2`, `OPERATIONAL = 3` at `command-answering.module.code.ts:6-10`. `mistaking` at `refusing.module.code.ts:10-12` and `refusing` at `calling.module.code.ts:244-246` hand out 1 flat, and a `catch` answering 1 says the caller was mistaken where the machine broke. `git restore` was mended that way. A check has to hold it, because nothing derives a code from a refusal's words.\n",
     },
-    {
-      statement: "A refusal that is the caller's mistake names the call that would succeed.",
-      workingMemory:
-        "`unknownIn` at `flags/command-flags.module.code.ts:35-52` refuses with `is no flag this takes` alone, though it is handed `valued` and `bare`, which `command-flags.module.ts:34` says is deliberate. Its callers are `change-running.module.code.ts:364` and `file-arguing.module.code.ts:218`, so one bare line covers every change command. `callOf` at `domains/context/modules/warranting/warranting.module.code.ts:114-117` is the proven shape. A refusal over the data or the machine names no such call.\n",
-    },
-    {
-      statement: "A refusal that is the caller's mistake quotes the part of the call it refused.",
-      workingMemory:
-        "`refusalIn` at `block-combined-akasha-calls.agent-hook.code.ts:158-161` answers one static body from `:30` whatever the command was, so a pipe, a loop, a redirect, a substitution, an `&&` and a semicolon all meet the same wall and none is named. The auditor read it after a semicolon and reached the wrong conclusion about which part was barred. `block-akasha-reads.agent-hook.code.ts:47,51` is the shape: it fills the path in and spells the call to run instead.\n",
-    },
-    {
-      statement:
-        "A refusal over a misspelled name points at the nearest name, worked out in one place.",
-      workingMemory:
-        "`change-running.module.code.ts:362,377` answers the whole act list with no nearest match. `parse-args.module.code.ts:88-93` already answers `did you mean`, through `suggestClosest` at `utils/text/suggest-closest/`, whose other reader is `cli-args`. That module is a nearest-word matcher rather than a build check, so it moves, and one place answers the nearest name for every command rather than each command reaching for it itself.\n",
-    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
