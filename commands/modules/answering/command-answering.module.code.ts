@@ -9,6 +9,8 @@ export const DATA = 2
 
 export const OPERATIONAL = 3
 
+export const UNCLASSIFIED = 70
+
 const CARRIES_A_CODE: ReadonlySet<string> = new Set([
   "ExitError",
   "CliError",
