@@ -84,5 +84,9 @@ export const blockGitWrites = {
       invariantKind: "gap",
       statement: "A hand-written commit does not leave the index stamp behind HEAD.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A read flag read as another flag's value lets the call through.",
+    },
   ],
 } as const satisfies AgentHook
