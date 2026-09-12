@@ -25,10 +25,6 @@ export const ACCESS_KEY = "access-token"
 
 export const REFRESH_KEY = "refresh-token"
 
-export const FAKE_ACCESS = "fake-access-token-for-a-test"
-
-export const FAKE_REFRESH = "fake-refresh-token-for-a-test"
-
 export const ROTATED_ACCESS = "fake-access-token-rotated-for-a-test"
 
 export const ROTATED_REFRESH = "fake-refresh-token-rotated-for-a-test"
@@ -41,7 +37,7 @@ export const LATER = NOW + AN_HOUR
 
 export const LATER_AT = new Date(LATER).toISOString()
 
-export const RESCUED_DECLARED: readonly Declared[] = [
+const RESCUED_DECLARED: readonly Declared[] = [
   ...ACCOUNT_DECLARED,
   { slug: "rescued-credential", uncommitted: true },
 ]
