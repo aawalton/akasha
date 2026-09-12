@@ -49,6 +49,6 @@ export const temperCommunityAddonUpdate = {
     { argument: "argument/code-root" },
     { argument: "argument/addons-dir" },
     { argument: "argument/force" },
-    { argument: "argument/only" },
+    { argument: "argument/only", repeats: true },
   ],
 } as const satisfies Command
