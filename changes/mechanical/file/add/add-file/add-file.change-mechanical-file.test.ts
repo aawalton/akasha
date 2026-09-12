@@ -36,6 +36,31 @@ test("a path holding another body states a replace holding the whole body each s
   ])
 })
 
+test("a body composed against the body there states the replace as it would without", () => {
+  const said = runChange(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "beta\n", old: "alpha\n" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([
+    { kind: "replace", path: AT, contentFrom: "alpha\n", contentTo: "beta\n" },
+  ])
+})
+
+test("a body composed against a body that is not there is refused and answers no edit", () => {
+  const said = runChange(worldOf({ [AT]: "moved\n" }), { at: AT, body: "beta\n", old: "alpha\n" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/moved since the body handed in was composed/)
+})
+
+test("a body composed against nothing stated writes over whatever is there", () => {
+  const said = runChange(worldOf({ [AT]: "moved\n" }), { at: AT, body: "beta\n" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([
+    { kind: "replace", path: AT, contentFrom: "moved\n", contentTo: "beta\n" },
+  ])
+})
+
 const ENTRIES = "akasha/one.thing.cases.jsonl"
 
 const ENTRY_LINE = '{"case": "one"}\n'

@@ -46,6 +46,18 @@ export const addFile = {
       statement: "An `id` is worked out after the body given is weighed against the body there.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller may state the body its own body was composed against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body stated that is not the body there refuses the change unwritten.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller stating no such body is held to nothing and writes over what is there.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges whether a body may be written.",
     },

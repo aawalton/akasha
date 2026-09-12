@@ -9,7 +9,12 @@ import {
 export type Asked = {
   readonly at: string
   readonly body: string
+  readonly old?: string
 }
+
+const MOVED =
+  "moved since the body handed in was composed — read it again and compose the body from" +
+  " what is there now"
 
 function bodiedFor(world: World, given: Asked): string {
   if (!entriedIn(world.index)(given.at)) return given.body
@@ -20,6 +25,9 @@ export function runChange(world: World, given: Asked): Said {
   const was = world.textOf(given.at)
   if (was === given.body) {
     return refusing(`\`${given.at}\` already holds this body, so this change writes nothing`)
+  }
+  if (given.old !== undefined && was !== given.old) {
+    return refusing(`\`${given.at}\` ${MOVED}`)
   }
   const body = bodiedFor(world, given)
   if (was === null || was === "") {
