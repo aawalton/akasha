@@ -1,3 +1,5 @@
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
@@ -56,11 +58,19 @@ const CARRIED: readonly Value[] = [
   { pageTypeSlug: DRAFTED, slug: "sketch", propertySlug: "sketch", runsFileLength: false },
 ]
 
+function bodyAt(root: string, at: string, value: Value): undefined {
+  const path = join(root, at)
+  mkdirSync(dirname(path), { recursive: true })
+  writeFileSync(path, `export const held = ${JSON.stringify(value)}\n`)
+}
+
 function alsoSeeded(root: string): undefined {
   const filing = pageFilingFrom(root, STEM)
   for (const [slug, above] of ABOVE) {
     const value = { pageTypeSlug: PAGE_TYPE, slug, extends: [above] }
-    filing(PAGE_TYPE, slug, `akasha/${slug}.page-type.ts`, value)
+    const at = `akasha/${slug}.page-type.ts`
+    const id = filing(PAGE_TYPE, slug, at, value)
+    bodyAt(root, at, { id, ...value })
   }
   for (const value of CARRIED) {
     const kind = String(value["pageTypeSlug"])
@@ -68,7 +78,9 @@ function alsoSeeded(root: string): undefined {
     shapeAdded(root, kind, slug, [
       { pageTypeSlug: kind, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
     ])
-    const id = filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
+    const at = `akasha/${slug}.${kind}.ts`
+    const id = filing(kind, slug, at, value)
+    bodyAt(root, at, { id, ...value })
     relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   }
 }
@@ -92,12 +104,9 @@ export function seeded(value: Value): string {
       fileName: LOCKFILE,
     },
   ])
-  valueAlsoFiled(root, FILE_PROPERTY, [
-    {
-      path: PROPERTY_AT,
-      value: { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value },
-    },
-  ])
+  const lockfile = { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value }
+  valueAlsoFiled(root, FILE_PROPERTY, [{ path: PROPERTY_AT, value: lockfile }])
+  bodyAt(root, PROPERTY_AT, lockfile)
   besideFiled(root, DRAFTED, "sketchbook", SKETCH_AT, SKETCH_ID)
   shapeAdded(root, DRAFTED, "sketchbook", [
     {
@@ -109,18 +118,15 @@ export function seeded(value: Value): string {
       fileName: SKETCHBOOK,
     },
   ])
-  valueAlsoFiled(root, DRAFTED, [
-    {
-      path: SKETCH_AT,
-      value: {
-        id: SKETCH_ID,
-        pageTypeSlug: DRAFTED,
-        slug: "sketchbook",
-        ...value,
-        fileName: SKETCHBOOK,
-      },
-    },
-  ])
+  const sketchbook = {
+    id: SKETCH_ID,
+    pageTypeSlug: DRAFTED,
+    slug: "sketchbook",
+    ...value,
+    fileName: SKETCHBOOK,
+  }
+  valueAlsoFiled(root, DRAFTED, [{ path: SKETCH_AT, value: sketchbook }])
+  bodyAt(root, SKETCH_AT, sketchbook)
   listedFiled(root, PAGE_TYPE, WORKSPACE, [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, PAGE_TYPE, [
     { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: WORKSPACE } },
