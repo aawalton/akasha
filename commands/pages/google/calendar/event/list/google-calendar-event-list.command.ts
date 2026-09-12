@@ -6,16 +6,7 @@ export const googleCalendarEventList = {
   slug: "google-calendar-event-list",
   definition: "the command answering the events a calendar holds in a window",
   code: "ts",
-  taking: [
-    {
-      said: "--calendar <id>",
-      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
-    },
-    { said: "--from <iso>", takes: "where the window opens" },
-    { said: "--to <iso>", takes: "where the window closes" },
-    { said: "--query <text>", takes: "the text an event is kept for" },
-    { said: "--max <n>", takes: "how many events this answers with at most" },
-  ],
+  taking: [{ said: "--to <iso>", takes: "where the window closes" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -35,4 +26,10 @@ export const googleCalendarEventList = {
     },
   ],
   name: "list",
+  arguments: [
+    { argument: "argument/calendar" },
+    { argument: "argument/window-from" },
+    { argument: "argument/event-query" },
+    { argument: "argument/max" },
+  ],
 } as const satisfies Command
