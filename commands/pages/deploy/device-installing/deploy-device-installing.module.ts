@@ -53,6 +53,14 @@ export const deployDeviceInstalling = {
       statement: "The run on the mac is handed in.",
     },
     {
+      invariantKind: "departure",
+      statement: "The keychain password unlocking the mac is handed in beside that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing the run in hands the password in too, so no secret is read.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here uploads to App Store Connect.",
     },

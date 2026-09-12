@@ -98,15 +98,17 @@ export function doneIn(out: string): readonly string[] {
 
 export type Ran = (target: SshTarget, script: string, options?: RunSshOptions) => Promise<SshResult>
 
+export type Secret = () => string
+
 export async function deployed(
   app: MobileApp,
   device: string,
   done: string[],
-  ran: Ran = runSshResult
+  ran: Ran = runSshResult,
+  secret: Secret = readKeychainPassword
 ): Promise<Answer> {
-  const password = readKeychainPassword()
   const said = await ran(MACBOOK, scriptOf(app, device), {
-    sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
+    sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: secret() },
   })
   done.push(...doneIn(said.stdout))
   const report = [
@@ -137,7 +139,8 @@ export async function deployed(
 export async function installedOnDevice(
   slug: string,
   appNamed: AppNamed = resolveApp,
-  ran: Ran = runSshResult
+  ran: Ran = runSshResult,
+  secret: Secret = readKeychainPassword
 ): Promise<Answer> {
   return await answering(async (done) => {
     const app = appNamed(slug)
@@ -147,6 +150,6 @@ export async function installedOnDevice(
         `${app.slug} names no phone of its own, so nothing says which phone to install to`,
       ])
     }
-    return await deployed(app, device, done, ran)
+    return await deployed(app, device, done, ran, secret)
   })
 }
