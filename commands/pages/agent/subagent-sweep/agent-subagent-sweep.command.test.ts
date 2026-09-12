@@ -163,7 +163,7 @@ test("a word this takes no flag for refuses the whole run and reaches no landing
       held.landing
     )
     expect(said.code).toBe(1)
-    expect(said.refusals.join("\n")).toContain("is not a word this takes")
+    expect(said.refusals.join("\n")).toContain(`\`${word}\` is no argument`)
   }
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)

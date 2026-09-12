@@ -8,6 +8,8 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { remove } from "akasha/commands/arguments/pages/remove.argument.ts"
 import {
   answering,
   INPUT,
@@ -19,6 +21,7 @@ import {
   answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
 import {
   akashaHolderProcessOf,
   akashaSeatsThatExist,
@@ -52,11 +55,7 @@ import {
   seatPageIn,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 
-const REMOVE = "--remove"
-
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
-
-export type Read = { readonly removing: boolean } | { readonly refused: string }
 
 export type Landing = (
   root: string,
@@ -99,22 +98,6 @@ function seatsNow(): Iterable<string> {
   } catch {
     return []
   }
-}
-
-export function namedIn(argv: readonly string[]): Read {
-  let removing = false
-  for (const token of argv) {
-    if (token === REMOVE) {
-      removing = true
-      continue
-    }
-    return {
-      refused:
-        `\`${token}\` is not a word this takes — a sweep takes \`${REMOVE}\` and nothing else, ` +
-        "and a run naming nothing reports without writing",
-    }
-  }
-  return { removing }
 }
 
 function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefined {
@@ -183,7 +166,7 @@ async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
 export function heldBack(calledAs: string, stale: number): readonly string[] {
   return [
     "",
-    `${calledAs} wrote nothing. Say \`${REMOVE}\` to take away the ${String(stale)} page(s) ` +
+    `${calledAs} wrote nothing. Say \`${remove.said}\` to take away the ${String(stale)} page(s) ` +
       "judged STALE — a page judged WORKING or UNDETERMINED never goes, whatever the run says.",
   ]
 }
@@ -268,8 +251,8 @@ export async function agentSubagentSweep(
   said: RunningSaid = transcriptsSay,
   landing: Landing = runMechanicalChange
 ): Promise<Answer> {
-  const read = namedIn(argv)
-  if ("refused" in read) return answeredWith([], [read.refused], INPUT)
+  const read = takenFor(argv, given.calledAs, page, [remove])
+  if ("refused" in read) return answeredWith([], read.refused, INPUT)
   const root = resolve(given.root)
   const pages = pagesIn(root)
   let own: OwnIds = NO_OWN_IDS
@@ -282,7 +265,7 @@ export async function agentSubagentSweep(
   const census = censusOf(judged)
   const { going, left } = partedStale(root, staleAmong(judged))
   const kept = keptSaid(left)
-  if (!read.removing) {
+  if (!read.taken.remove) {
     const loose = pagelessSaid(pagelessAmong(pages, own.running))
     return answeredWith(
       [...census, ...kept, ...loose, ...heldBack(given.calledAs, going.length)],
