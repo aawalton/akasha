@@ -6,6 +6,7 @@ export const imessageContactList = {
   slug: "imessage-contact-list",
   definition: "the command naming the address book contacts whose name has a run of letters",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
