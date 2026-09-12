@@ -121,6 +121,11 @@ export const commandIsNamedByItsPlaceInTheTree = {
       invariantKind: "absence",
       statement: "A module's own name is judged by nothing here.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "A body mentioning or implementing the tree is judged by a syntax rule rather than here.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
