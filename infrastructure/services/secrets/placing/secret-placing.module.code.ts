@@ -59,7 +59,7 @@ function walk(node: unknown, found: Demand[]): undefined {
   for (const one of Object.values(node)) walk(one, found)
 }
 
-export function demandedBy(plan: Plan): readonly Demand[] {
+function demandedBy(plan: Plan): readonly Demand[] {
   const found: Demand[] = []
   for (const manifest of plan.manifests) {
     for (const document of parseAllDocuments(manifest.yaml)) walk(document.toJS(), found)

@@ -41,7 +41,7 @@ export type FileWriteDeps = {
   readonly write: (asked: Writing) => Promise<Wrote>
 }
 
-export const LIVE: FileWriteDeps = {
+const LIVE: FileWriteDeps = {
   ask: (query) => askingFor(query),
   read: (sought) => readingFor(sought),
   write: (asked) => writingFor(asked),
@@ -53,7 +53,7 @@ function actingUnder(seat: string | undefined): string | undefined {
   return acting.startsWith(`${seat}${SUBAGENT_MARK}`) ? acting : undefined
 }
 
-export function writerOf(stated: string | undefined): string {
+function writerOf(stated: string | undefined): string {
   const seat = ENV_TEXT.parse(process.env.AGENT_ID)
   const writer = ENV_TEXT.parse(process.env.PAGE_WRITER)
   const named = stated ?? writer ?? actingUnder(seat) ?? seat
@@ -176,7 +176,7 @@ function valuesFor(input: Readonly<Record<string, unknown>>): Record<string, unk
   return out
 }
 
-export function slugInWhere(where: PageWhere | undefined): string | null {
+function slugInWhere(where: PageWhere | undefined): string | null {
   for (const one of where ?? []) {
     if ("eq" in one && one.key === SLUG && typeof one.eq === "string" && one.eq !== "")
       return one.eq

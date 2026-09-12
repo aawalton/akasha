@@ -16,7 +16,7 @@ function toFilterConfig(filter: ViewFilter): FilterConfig {
   }
 }
 
-export function buildFilterPredicate(
+function buildFilterPredicate(
   filters: readonly ViewFilter[] | undefined,
   properties: readonly PropertyDefinition[],
   pageTypeId?: string,

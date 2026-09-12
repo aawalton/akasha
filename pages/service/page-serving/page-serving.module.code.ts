@@ -31,7 +31,7 @@ export const READ_AT = "/read"
 
 export const WRITE_AT = "/write"
 
-export const SHAPE_AT = "/shape"
+const SHAPE_AT = "/shape"
 
 export const FILE_AT = "/file"
 
@@ -81,7 +81,7 @@ function boundRefused(at: string, name: string, bound: unknown): string | null {
 
 export type Took = { readonly test: Test } | { readonly refused: string }
 
-export function testIn(key: string, given: unknown): Took {
+function testIn(key: string, given: unknown): Took {
   const held = objectIn(given)
   if (held === null) return { refused: `\`where.${key}\` is no test this takes` }
   if (Object.keys(held).length === 0) return { refused: `\`where.${key}\` states no test` }
@@ -159,7 +159,7 @@ export function queryIn(given: unknown): Read {
 
 export type Shaping = { readonly pageTypeSlug: string } | { readonly refused: string }
 
-export function shapeIn(given: unknown): Shaping {
+function shapeIn(given: unknown): Shaping {
   const held = objectIn(given)
   if (held === null) return { refused: "a shape is asked for by a JSON object" }
   const pageTypeSlug = held.pageTypeSlug
@@ -171,7 +171,7 @@ export function shapeIn(given: unknown): Shaping {
 
 export type Filed = { readonly named: FileNamed } | { readonly refused: string }
 
-export function fileIn(given: unknown): Filed {
+function fileIn(given: unknown): Filed {
   const held = objectIn(given)
   if (held === null) return { refused: "a file is asked for by a JSON object" }
   const pageTypeSlug = held.pageTypeSlug

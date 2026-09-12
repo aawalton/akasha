@@ -45,7 +45,7 @@ export function bySlug(every: readonly Subject[]): readonly Subject[] {
   return [...every].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function wholeKindSubject(root: string): readonly Subject[] {
+function wholeKindSubject(root: string): readonly Subject[] {
   const found = listedAt(root, PAGE_TYPE, WORKSTATION_SERVICE)[0]
   if (found === undefined) return []
   return [
@@ -71,7 +71,7 @@ export function iosSubjects(apps: Apps): readonly Subject[] {
   )
 }
 
-export function pagedSubjects(root: string, kind: Kind): readonly Subject[] {
+function pagedSubjects(root: string, kind: Kind): readonly Subject[] {
   const found: Subject[] = []
   for (const one of valuesOfType(root, kind)) {
     const slug = textAt(one.value, SLUG)

@@ -78,7 +78,7 @@ export function parseLokiPositiveInt(flag: string, value: string): number {
   return n
 }
 
-export function escapeLokiLabelValue(value: string): string {
+function escapeLokiLabelValue(value: string): string {
   return value.replace(/\\/g, "\\\\").replace(/"/g, '\\"')
 }
 
@@ -114,7 +114,7 @@ export async function findPodNamespaces(args: {
   }
 }
 
-export const LOKI_RETENTION_MS = 168 * 3_600_000
+const LOKI_RETENTION_MS = 168 * 3_600_000
 export const LOKI_RETENTION_LABEL = "7d"
 
 function buildLogMatcher(args: { pod: string; namespace: string }): string {
@@ -221,8 +221,8 @@ export async function fetchLokiLogs(args: FetchLokiLogsArgs): Promise<LokiFetchR
   return { lines, cursor, isDone: cursor === null }
 }
 
-export const MAX_LOKI_PAGE_LIMIT = 5000
-export const MAX_LOKI_PAGES = 400
+const MAX_LOKI_PAGE_LIMIT = 5000
+const MAX_LOKI_PAGES = 400
 
 export async function fetchAllLokiLogs(
   args: Omit<FetchLokiLogsArgs, "cursor" | "limit"> & { pageLimit?: number }

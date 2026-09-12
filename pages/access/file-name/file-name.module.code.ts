@@ -23,13 +23,13 @@ function heldIn(values: Readonly<Record<string, unknown>>): HeldAt {
   }
 }
 
-export function filledName(template: string, values: Readonly<Record<string, unknown>>): Filled {
+function filledName(template: string, values: Readonly<Record<string, unknown>>): Filled {
   const heldAt = heldIn(values)
   const stem = filledBy(template, heldAt)
   return stem === null ? { ok: false, holes: unfilledIn(template, heldAt) } : { ok: true, stem }
 }
 
-export function constantHolesIn(template: string): readonly string[] {
+function constantHolesIn(template: string): readonly string[] {
   return holesIn(template).filter((one) => SETTLED_BY_ROW.has(camelizeKey(one)))
 }
 
@@ -46,7 +46,7 @@ export function refuseTakenName(
   )
 }
 
-export function fixedPrefixOf(glob: string): string {
+function fixedPrefixOf(glob: string): string {
   const segments = glob.split("/")
   const star = segments.findIndex((one) => one.includes("*"))
   return star < 0 ? "" : segments.slice(0, star).join("/")
@@ -56,12 +56,12 @@ const MARKDOWN = ".md"
 
 const BY_NAME = /^\*\*\/\*\.([a-z0-9]+(?:-[a-z0-9]+)*)\.md$/
 
-export function suffixOf(glob: string): string | null {
+function suffixOf(glob: string): string | null {
   const found = BY_NAME.exec(glob)
   return found === null ? null : (found[1] as string)
 }
 
-export function relPathFor(glob: string, name: string): string {
+function relPathFor(glob: string, name: string): string {
   if (!glob.includes("*")) return glob
   const slug = suffixOf(glob)
   if (slug !== null) return `pages/${slug}/${name}.${slug}${MARKDOWN}`
@@ -89,7 +89,7 @@ export function nameFromAt(glob: string, at: string): string | null {
   return relPathFor(glob, name) === relPath ? name : null
 }
 
-export const NAMED_FOR_DEFAULT = "{slug}"
+const NAMED_FOR_DEFAULT = "{slug}"
 
 export type Naming =
   | { readonly stated: true; readonly name: string }

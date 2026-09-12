@@ -7,7 +7,7 @@ import type {
 } from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 
-export function isJsonObject(
+function isJsonObject(
   value: ReadonlyJSONValue | undefined
 ): value is { readonly [key: string]: ReadonlyJSONValue } {
   return value != null && typeof value === "object" && !Array.isArray(value)
@@ -52,7 +52,7 @@ const DATE_SENTINELS = [
   "custom_date",
 ] as const satisfies ReadonlyArray<SentinelDateValue["sentinel"]>
 
-export function isDateSentinel(v: unknown): v is SentinelDateValue["sentinel"] {
+function isDateSentinel(v: unknown): v is SentinelDateValue["sentinel"] {
   return typeof v === "string" && DATE_SENTINELS.some((s) => s === v)
 }
 

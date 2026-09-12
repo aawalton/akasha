@@ -43,7 +43,7 @@ export function byName(every: readonly Candidate[]): ReadonlyMap<string, Candida
   return new Map(every.map((one) => [one.slug, one]))
 }
 
-export function furtherBehind(one: Candidate, two: Candidate): number {
+function furtherBehind(one: Candidate, two: Candidate): number {
   if (one.deployedAt !== two.deployedAt) {
     if (one.deployedAt === null) return -1
     if (two.deployedAt === null) return 1

@@ -34,7 +34,7 @@ const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 const MAX_IDEAL = 44
 const CHAR_PX = 8
 const CELL_PADDING_PX = 16
-export const MIN_COLUMN_PX = 96
+const MIN_COLUMN_PX = 96
 
 type JsonRecord = { readonly [key: string]: ReadonlyJSONValue | undefined }
 
@@ -42,7 +42,7 @@ function isJsonRecord(value: ReadonlyJSONValue): value is JsonRecord {
   return typeof value === "object" && value !== null && !Array.isArray(value)
 }
 
-export function valueDisplayLength(value: ReadonlyJSONValue | undefined): number {
+function valueDisplayLength(value: ReadonlyJSONValue | undefined): number {
   if (value == null) return 0
   if (typeof value === "string") return value.length
   if (typeof value === "number" || typeof value === "boolean") return String(value).length
@@ -110,7 +110,7 @@ function multiSelectDisplayLength(
   return shown.reduce((sum, l) => sum + l.length, 0) + (shown.length - 1) * 2
 }
 
-export function propertyValueDisplayLength(
+function propertyValueDisplayLength(
   value: ReadonlyJSONValue | undefined,
   def: PropertyDefinition
 ): number {

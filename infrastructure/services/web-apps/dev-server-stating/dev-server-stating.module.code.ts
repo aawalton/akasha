@@ -115,11 +115,11 @@ function projectsRoot(): string {
   return `${homedir()}/projects`
 }
 
-export function devServerDir(seq: number): string {
+function devServerDir(seq: number): string {
   return `${projectsRoot()}/${seq}/dev-servers`
 }
 
-export function devServerLogDir(seq: number): string {
+function devServerLogDir(seq: number): string {
   return `${devServerDir(seq)}/logs`
 }
 
@@ -135,7 +135,7 @@ export function ensureDevServerDirs(seq: number): undefined {
   mkdirSync(devServerLogDir(seq), { recursive: true })
 }
 
-export function parseState(raw: string): DevServerState {
+function parseState(raw: string): DevServerState {
   const decoded: unknown = JSON.parse(raw)
   if (!isRecord(decoded)) {
     throw new Error(`dev-server state is not an object: ${raw.slice(0, 200)}`)

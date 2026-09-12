@@ -3,13 +3,13 @@ import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts
 
 export type PageTypeBacking = "file" | "unknown"
 
-export const FILE_BACKED_ROSTER_PATH = "/api/page-types"
+const FILE_BACKED_ROSTER_PATH = "/api/page-types"
 
 export type RosterAnswer = ReadonlySet<string> | RosterUnreachable
 
 export type RosterReader = () => Promise<RosterAnswer>
 
-export function readRosterBody(body: unknown): ReadonlySet<string> | null {
+function readRosterBody(body: unknown): ReadonlySet<string> | null {
   if (!isRecord(body)) return null
   const types = body.types
   if (!Array.isArray(types)) return null

@@ -68,7 +68,7 @@ function isList(value: unknown): value is readonly unknown[] {
   return Array.isArray(value)
 }
 
-export function coerceByType(value: unknown, type: string): unknown {
+function coerceByType(value: unknown, type: string): unknown {
   if (value === null || value === undefined) return null
   const stated = type.trim()
   const listed = INNER_TYPE.safeParse(LIST_OF.exec(stated))

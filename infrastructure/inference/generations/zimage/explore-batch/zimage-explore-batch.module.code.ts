@@ -61,7 +61,7 @@ export async function renderedIn(base: string, promptId: string): Promise<Render
   return undefined
 }
 
-export async function exploreBatch(
+async function exploreBatch(
   modelRaw: string,
   width: number,
   height: number,

@@ -13,7 +13,7 @@ export type CompletionShape = {
   readonly doneKey: string
 }
 
-export const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
+const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
   "to-do": {
     stampKey: "toDoLastCompletedAt",
     dueKey: "toDoDueDate",

@@ -282,7 +282,7 @@ export type Derived = {
 
 const DERIVED = new WeakMap<Facing, Derived>()
 
-export function derivedFor(given: Facing): Derived {
+function derivedFor(given: Facing): Derived {
   const found = DERIVED.get(given)
   if (found !== undefined) return found
   const naming = namingFor(given)
@@ -351,7 +351,7 @@ export function slugsWhere(
   return made
 }
 
-export function writersIn(
+function writersIn(
   naming: Iterable<Naming>,
   carriedBy: (named: string) => Carried
 ): ReadonlyMap<string, string> {
@@ -372,7 +372,7 @@ export function writersIn(
   return made
 }
 
-export function sectionsOfGroups(given: Kinded): ReadonlyMap<string, string> {
+function sectionsOfGroups(given: Kinded): ReadonlyMap<string, string> {
   const made = new Map<string, string>()
   for (const listed of given.everyOfType(MODULE_PROPERTY_GROUP)) {
     const value = given.valueAt(listed.path)
@@ -385,7 +385,7 @@ export function sectionsOfGroups(given: Kinded): ReadonlyMap<string, string> {
   return made
 }
 
-export function writerIn(given: Facing, path: string, held: Derived): string | null {
+function writerIn(given: Facing, path: string, held: Derived): string | null {
   const said = partedIn(path)
   if (said === null) return null
   const sectioned = sectionedIn(said)
@@ -427,7 +427,7 @@ export function groupWrites(given: Facing, path: string): boolean {
   }
 }
 
-export function namingUnder(given: Kinded): readonly Naming[] {
+function namingUnder(given: Kinded): readonly Naming[] {
   const found: Naming[] = []
   for (const kind of given.kindsUnder(FILE_PROPERTY)) {
     for (const listed of given.everyOfType(kind)) {
@@ -447,7 +447,7 @@ export function namingFor(given: Kinded): readonly Naming[] {
   return made
 }
 
-export function foldersUnder(given: Kinded): readonly Naming[] {
+function foldersUnder(given: Kinded): readonly Naming[] {
   const found: Naming[] = []
   for (const kind of given.kindsUnder(NAMED_FOLDER_PROPERTY)) {
     for (const listed of given.everyOfType(kind)) {

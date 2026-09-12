@@ -10,14 +10,14 @@ const S3_ENDPOINT = "http://s3-gateway.seaweedfs.svc.cluster.local:8333"
 
 const GPU_VRAM_TIER = "8gi" as const
 
-export const UPSCALE_WEIGHT_CACHE_HOSTPATH = "/var/lib/upscale-weights"
-export const UPSCALE_WEIGHT_CACHE_MOUNT = "/app/ComfyUI/models/SEEDVR2"
+const UPSCALE_WEIGHT_CACHE_HOSTPATH = "/var/lib/upscale-weights"
+const UPSCALE_WEIGHT_CACHE_MOUNT = "/app/ComfyUI/models/SEEDVR2"
 
 const TTL_SECONDS_AFTER_FINISHED = 3600
 const ACTIVE_DEADLINE_SECONDS = 1800
 const DEFAULT_BLOCKS_TO_SWAP = 24
 
-export const UPSCALE_JOB_MEMORY = "16Gi"
+const UPSCALE_JOB_MEMORY = "16Gi"
 
 interface SecretKeyRef {
   readonly secretKeyRef: { readonly name: string; readonly key: string }

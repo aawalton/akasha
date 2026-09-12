@@ -4,7 +4,7 @@ export const PROACTIVE_REFRESH_MARGIN_MS = 120_000
 
 const JwtPayloadExpSchema = z.object({ exp: z.number() }).passthrough()
 
-export function decodeJwtExpMs(jwt: string): number | null {
+function decodeJwtExpMs(jwt: string): number | null {
   const parts = jwt.split(".")
   const payload = parts[1]
   if (parts.length !== 3 || payload === undefined) return null

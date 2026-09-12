@@ -2,7 +2,7 @@ import { z } from "zod"
 
 export const POSITION_WRITE_EVENT = "position-write"
 
-export const PositionWriteDetailSchema = z
+const PositionWriteDetailSchema = z
   .object({
     pageId: z.string().min(1),
     progress: z.number(),

@@ -4,7 +4,7 @@ import { z } from "zod"
 
 export const MLX_VLM_MODEL = "mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit"
 export const DEFAULT_FRAMES = 16
-export const VIDEO_QA_MAX_TOKENS = 1024
+const VIDEO_QA_MAX_TOKENS = 1024
 
 export function selectFrameIndices(total: number, want: number): readonly number[] {
   if (total <= 0 || want <= 0) return []

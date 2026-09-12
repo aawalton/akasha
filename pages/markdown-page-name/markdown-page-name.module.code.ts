@@ -7,7 +7,7 @@ export type PageName = {
   readonly type: string
 }
 
-export function pageNameOf(key: string): PageName | null {
+function pageNameOf(key: string): PageName | null {
   const base = key.slice(key.lastIndexOf("/") + 1)
   const tail = `${DOT}${PAGE_EXTENSION}`
   if (!base.endsWith(tail)) return null

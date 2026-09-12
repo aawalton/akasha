@@ -13,7 +13,7 @@ export const PRUNE_NAMESPACE = "seaweedfs-prune-sessions"
 
 export const COMPONENT_PRUNE = "prune"
 
-export const RETENTION_DAYS = 30
+const RETENTION_DAYS = 30
 
 const PRUNE_PATH = `src:${ASSETS_BUCKET}/${EXPIRING_PREFIXES[0]}`
 

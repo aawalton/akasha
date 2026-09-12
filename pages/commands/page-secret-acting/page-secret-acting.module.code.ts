@@ -39,14 +39,14 @@ export type Target = {
   readonly declared: readonly string[]
 }
 
-export function declaredIn(root: string, pageTypeSlug: string): readonly string[] {
+function declaredIn(root: string, pageTypeSlug: string): readonly string[] {
   return propertiesOf(pageTypeSlug, root, (at) => valueAt(at, root))
     .filter((one) => one.secret)
     .map((one) => one.key)
     .sort()
 }
 
-export function targetIn(root: string, path: string): Target | { readonly refused: string } {
+function targetIn(root: string, path: string): Target | { readonly refused: string } {
   const sidecar = secretAt(path)
   if (sidecar === null) {
     return { refused: `${path} is no TypeScript page, and a sops file stands beside a page` }
@@ -100,7 +100,7 @@ export function valueIn(
   return value
 }
 
-export function messageFor(saying: Saying, target: Target, act: string): string {
+function messageFor(saying: Saying, target: Target, act: string): string {
   const spelled = saying.commitMessage
   if (spelled !== undefined && spelled.trim() !== "") return spelled.trim()
   const key = saying.key

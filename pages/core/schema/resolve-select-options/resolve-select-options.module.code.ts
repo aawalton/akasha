@@ -36,7 +36,7 @@ interface SelectOptionSource {
   readonly optionListRef?: string
 }
 
-export function resolveSelectOptions(
+function resolveSelectOptions(
   config: SelectOptionSource,
   lookupOptionList: OptionListLookup
 ): readonly SelectOption[] {

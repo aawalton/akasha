@@ -30,7 +30,7 @@ import { readMemInfoKb } from "akasha/utils/system/memory-guard/memory-guard.mod
 
 export type ReaperState = { lastGlobalKillAtMs: number | null }
 
-export async function runReaperTick(
+async function runReaperTick(
   state: ReaperState,
   readSnapshots: (uid: number) => readonly PidSnapshot[] = readUserPidSnapshots
 ): Promise<void> {
@@ -136,7 +136,7 @@ export async function runReaperTick(
   }
 }
 
-export const REAPER_TICK_DEADLINE_MS = 60_000
+const REAPER_TICK_DEADLINE_MS = 60_000
 
 export function runBoundedReaperTick(
   state: ReaperState,

@@ -31,7 +31,7 @@ function validateEntryShape(entry: unknown): string | null {
   return null
 }
 
-export function validateProgressValue(value: ReadonlyJSONValue | undefined): string | null {
+function validateProgressValue(value: ReadonlyJSONValue | undefined): string | null {
   if (value === null || value === undefined || value === "") return null
   if (!isRecord(value)) return "Progress value must be an object"
   if (!isFiniteNonNegativeNumber(value.current)) {

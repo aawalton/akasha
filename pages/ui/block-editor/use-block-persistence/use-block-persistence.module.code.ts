@@ -17,9 +17,9 @@ import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code
 import { useCallback, useRef } from "react"
 import { toast } from "sonner"
 
-export const SAVE_FAILED_MESSAGE = "This note is not saving"
+const SAVE_FAILED_MESSAGE = "This note is not saving"
 
-export const SAVE_FAILED_DESCRIPTION =
+const SAVE_FAILED_DESCRIPTION =
   "Your words are on screen but have not been written down. Copy anything you cannot lose."
 
 function announceSaveFailure(): undefined {

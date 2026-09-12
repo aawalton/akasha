@@ -31,7 +31,7 @@ export function buildGenerationBody(input: {
   }
 }
 
-export function parseSize(size: string): { width: number; height: number } {
+function parseSize(size: string): { width: number; height: number } {
   const parts = size.split("x")
   const width = Number(parts[0])
   const height = Number(parts[1])
@@ -45,9 +45,9 @@ export function parseSize(size: string): { width: number; height: number } {
   return { width, height }
 }
 
-export const GEN_SIZE_MIN = 256
-export const GEN_SIZE_MAX = 4096
-export const GEN_SIZE_MULTIPLE = 16
+const GEN_SIZE_MIN = 256
+const GEN_SIZE_MAX = 4096
+const GEN_SIZE_MULTIPLE = 16
 
 export function parseGenerationSize(size: string): { width: number; height: number } {
   const { width, height } = parseSize(size)

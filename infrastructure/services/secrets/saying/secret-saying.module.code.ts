@@ -10,7 +10,7 @@ import { stringify } from "yaml"
 
 const PREFIX = "[secret-saying]"
 
-export const OPAQUE = "Opaque"
+const OPAQUE = "Opaque"
 
 export function flagValues(argv: readonly string[], name: string): readonly string[] {
   const found: string[] = []
@@ -83,7 +83,7 @@ export function valuesFor(akasha: string, resource: string): Record<string, stri
   return values
 }
 
-export function sayingFor(
+function sayingFor(
   akasha: string,
   resource: string,
   namespace: string,
@@ -93,7 +93,7 @@ export function sayingFor(
   return secretYaml(valuesFor(akasha, resource), resource, namespace, type, labels)
 }
 
-export function runSaying(argv: readonly string[]): number {
+function runSaying(argv: readonly string[]): number {
   const root = flagValue(argv, "--root")
   const resource = flagValue(argv, "--resource")
   const namespace = flagValue(argv, "--namespace")

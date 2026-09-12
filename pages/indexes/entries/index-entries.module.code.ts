@@ -57,7 +57,7 @@ export const FILE_PROPERTY = "file-property"
 
 export const ENTRY_PROPERTY = "page-property-entry"
 
-export const FILE_PROPERTY_GROUP = "file-property-group"
+const FILE_PROPERTY_GROUP = "file-property-group"
 
 const BESIDE = [FILE_PROPERTY, ENTRY_PROPERTY]
 

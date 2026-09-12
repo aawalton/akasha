@@ -15,7 +15,7 @@ const NEXT_PUBLIC_MINTED_LITERALS: ReadonlyArray<readonly [string, string]> = [
   ["VITE_ELECTRIC_URL", "https://supabase.alanwalton.com/electric/v1/shape"],
 ]
 
-export function synthesizeNextPublicCopies(kv: Map<string, string>): undefined {
+function synthesizeNextPublicCopies(kv: Map<string, string>): undefined {
   for (const [src, dst] of NEXT_PUBLIC_COPY_PAIRS) {
     const value = kv.get(src)
     if (value === undefined) continue

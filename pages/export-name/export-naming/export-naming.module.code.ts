@@ -11,7 +11,7 @@ const REMEDY =
   "Put the page type slug in front of it, as `day-2026-08-20` and" +
   " `great-course-7-days-of-drawing` already do, and name the file for the slug you land"
 
-export function slugComposedIn(path: string, text: string): string | null {
+function slugComposedIn(path: string, text: string): string | null {
   const found = SLUG_AT.exec(text)
   if (found === null || !PAGE_TYPE_AT.test(text)) return null
   const slug = found[1] as string

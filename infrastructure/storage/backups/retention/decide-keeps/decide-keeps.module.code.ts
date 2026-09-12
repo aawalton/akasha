@@ -8,14 +8,14 @@ import type {
 
 const MS_PER_DAY = 86_400_000
 
-export function utcMidnightOf(dateUtc: string): Date {
+function utcMidnightOf(dateUtc: string): Date {
   const year = Number(dateUtc.slice(0, 4))
   const month = Number(dateUtc.slice(5, 7))
   const day = Number(dateUtc.slice(8, 10))
   return new Date(Date.UTC(year, month - 1, day))
 }
 
-export function isoWeekKeyOf(dateUtc: string): string {
+function isoWeekKeyOf(dateUtc: string): string {
   const date = utcMidnightOf(dateUtc)
   const isoDay = date.getUTCDay() === 0 ? 7 : date.getUTCDay()
   date.setUTCDate(date.getUTCDate() + 4 - isoDay)

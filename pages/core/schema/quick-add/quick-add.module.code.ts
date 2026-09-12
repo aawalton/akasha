@@ -21,7 +21,7 @@ const pickerSchema = z
   })
   .strict()
 
-export const quickAddConfigSchema = z
+const quickAddConfigSchema = z
   .object({
     titlePropertyId: z.string(),
     notesPropertyId: z.string().optional(),

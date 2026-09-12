@@ -1,10 +1,10 @@
 import { z } from "zod"
 
-export const mediaRendererSchema = z.literal("tts")
+const mediaRendererSchema = z.literal("tts")
 
-export const mediaVariantAxisSchema = z.literal("narrator")
+const mediaVariantAxisSchema = z.literal("narrator")
 
-export const audioMediaConfigSchema = z
+const audioMediaConfigSchema = z
   .object({
     sourcePropertyId: z.string().min(1),
     renderer: mediaRendererSchema,
@@ -14,7 +14,7 @@ export const audioMediaConfigSchema = z
 
 const imageRendererSchema = z.literal("z-image-turbo")
 
-export const imageMediaConfigSchema = z
+const imageMediaConfigSchema = z
   .object({
     renderer: imageRendererSchema,
   })

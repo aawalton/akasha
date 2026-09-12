@@ -69,7 +69,7 @@ const NO_COUNT_SAYS =
 const DROPPING_SAYS =
   "a test this client cannot run is refused rather than dropped, because dropping one answers with every page of the type instead of the pages asked for"
 
-export function meets(values: Flat, key: string, test: Flat): boolean {
+function meets(values: Flat, key: string, test: Flat): boolean {
   const held = values[key]
   for (const [name, bound] of Object.entries(test)) {
     if (!matches(held, name, bound)) return false
@@ -77,7 +77,7 @@ export function meets(values: Flat, key: string, test: Flat): boolean {
   return true
 }
 
-export function testsUnknownIn(where: Flat): readonly string[] {
+function testsUnknownIn(where: Flat): readonly string[] {
   const found: string[] = []
   for (const [key, test] of Object.entries(where)) {
     if (typeof test !== "object" || test === null || Array.isArray(test)) {

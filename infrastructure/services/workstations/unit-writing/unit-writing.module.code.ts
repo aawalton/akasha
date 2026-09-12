@@ -12,7 +12,7 @@ const SECRETS_FILE = "%h/.secrets.env"
 
 export const RESTART_EXIT = 79
 
-export const WRITTEN_PREFIX = "# Written from "
+const WRITTEN_PREFIX = "# Written from "
 
 export type Started = ServiceWorkstation & { readonly runs: readonly string[] }
 
@@ -21,7 +21,7 @@ export type Service = {
   readonly pagePath: string
 }
 
-export function scheduleOf(given: Service): string | null {
+function scheduleOf(given: Service): string | null {
   const stated = given.service.systemd?.schedule
   if (stated === undefined) return null
   const one = stated.trim()
@@ -49,7 +49,7 @@ function shelled(given: Service, one: string): string {
   return `/usr/bin/env bash -c '${inner}'`
 }
 
-export function execLines(given: Service): readonly string[] {
+function execLines(given: Service): readonly string[] {
   return given.service.runs.map((one) => `ExecStart=${shelled(given, one)}`)
 }
 
@@ -63,7 +63,7 @@ function opening(given: Service): readonly string[] {
   ]
 }
 
-export function orderingLines(given: Service): readonly string[] {
+function orderingLines(given: Service): readonly string[] {
   const stated = given.service.systemd
   const lines: string[] = []
   for (const one of stated?.after ?? []) lines.push(`After=${one}`)
@@ -79,7 +79,7 @@ function joined(codes: readonly number[]): string {
   return [...new Set(codes)].join(" ")
 }
 
-export function exitLines(given: Service): readonly string[] {
+function exitLines(given: Service): readonly string[] {
   const stated = given.service.systemd
   const stops = stated?.successExitStatus === undefined ? [] : [stated.successExitStatus]
   const forces = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]

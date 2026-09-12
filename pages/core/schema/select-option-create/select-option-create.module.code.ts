@@ -5,9 +5,9 @@ export type SelectOptionCreateResult =
   | { kind: "existing"; option: SelectOption }
   | { kind: "create"; option: SelectOption }
 
-export const MAX_OPTION_LABEL_LENGTH = 100
+const MAX_OPTION_LABEL_LENGTH = 100
 
-export function resolveSelectOptionCreate(args: {
+function resolveSelectOptionCreate(args: {
   label: string
   existingOptions: readonly SelectOption[]
   maxLabelLength: number

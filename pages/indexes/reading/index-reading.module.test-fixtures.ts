@@ -419,7 +419,7 @@ const TREE = "akasha"
 
 const IMPORTS_NONE = "akasha/one/imports-none.module.ts"
 
-export const HELD_PAGE = `export const held = {
+const HELD_PAGE = `export const held = {
   id: "01a04bed-1450-7000-8000-00000000aaaa",
   pageTypeSlug: "module",
   slug: "held",
@@ -427,13 +427,13 @@ export const HELD_PAGE = `export const held = {
 }
 `
 
-export function moduleTyped(root: string): undefined {
+function moduleTyped(root: string): undefined {
   const at = `${TREE}/module.page-type.ts`
   const id = "01a04bed-1450-7000-8000-0000000000ff"
   listedFiled(root, "page-type", "module", [{ path: at, id }])
 }
 
-export function pagesRebuilt(root: string): string {
+function pagesRebuilt(root: string): string {
   refreshedIn(root, TREE)
   moduleTyped(root)
   importFiled(root, IMPORTS_NONE, [])

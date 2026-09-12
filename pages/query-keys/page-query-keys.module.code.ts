@@ -2,7 +2,7 @@ import type { Carries } from "akasha/pages/derive-shape/page-derive-shape.module
 import type { PageQuery } from "akasha/pages/query-shape/page-query-shape.module.code.ts"
 import { BODY } from "akasha/pages/value-key/page-value-key.module.code.ts"
 
-export function askedKeys(query: PageQuery): readonly string[] {
+function askedKeys(query: PageQuery): readonly string[] {
   const wanted = new Set<string>(query.keys ?? [])
   if (query.sortBy !== undefined) wanted.add(query.sortBy)
   if (query.target !== undefined) wanted.add(query.target)

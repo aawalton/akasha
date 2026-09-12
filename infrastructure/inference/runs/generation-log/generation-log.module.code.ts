@@ -18,9 +18,9 @@ export function generationLogSlug(): string {
   return stated === undefined || stated === "" ? "alan" : stated
 }
 
-export const GENERATION_WRITER = "inference-cli <inference-cli@alanwalton.com>"
+const GENERATION_WRITER = "inference-cli <inference-cli@alanwalton.com>"
 
-export function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<string, Json> {
+function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<string, Json> {
   const values: Record<string, Json> = {}
   for (const [key, value] of Object.entries(properties)) {
     values[kebabizeKey(key)] = value
@@ -48,9 +48,9 @@ export type Landing = {
   readonly writeFiles: typeof writeFiles
 }
 
-export const LANDING: Landing = { readPages, readFiles, writeFiles }
+const LANDING: Landing = { readPages, readFiles, writeFiles }
 
-export function propertyFor(pageTypeSlug: string): string | null {
+function propertyFor(pageTypeSlug: string): string | null {
   return ROW_PROPERTIES[pageTypeSlug] ?? null
 }
 

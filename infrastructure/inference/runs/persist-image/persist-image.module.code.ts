@@ -13,11 +13,11 @@ import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/objec
 import { coverUrl } from "akasha/pages/url/cover-url/cover-url.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
-export const IMAGE_PAGE_TYPE_SLUG = "image"
+const IMAGE_PAGE_TYPE_SLUG = "image"
 
 const IMAGE_OPERATIONS = new Set(["generate", "edit", "upscale"])
 
-export function deriveEngine(service: string, operation: string): string {
+function deriveEngine(service: string, operation: string): string {
   if (operation === "edit") return "nano-banana"
   if (operation === "upscale") return "seedvr2"
   if (service.startsWith("image-gen")) return "z-image"
@@ -34,7 +34,7 @@ export interface ImagePersistInput {
   readonly outputPath: string
 }
 
-export function buildImagePageProperties(input: ImagePersistInput): Record<string, Json> {
+function buildImagePageProperties(input: ImagePersistInput): Record<string, Json> {
   const { record, inferenceRunId, outputPath } = input
   return {
     title: record.title,
@@ -54,11 +54,11 @@ export interface PersistImageDeps {
   readonly publishCover: (pageId: string, bytes: Uint8Array) => Promise<void>
 }
 
-export function putSaid(pageId: string): string {
+function putSaid(pageId: string): string {
   return `put ${pageId}'s bytes at ${imageObjectKey(pageId)} in the object store`
 }
 
-export function coveredSaid(pageId: string): string {
+function coveredSaid(pageId: string): string {
   return `set the cover of ${pageId} to ${coverUrl(pageId)}`
 }
 

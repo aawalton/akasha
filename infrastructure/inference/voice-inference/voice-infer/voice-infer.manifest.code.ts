@@ -4,20 +4,20 @@ import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-c
 import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 import { voiceInferImage } from "akasha/infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"
 
-export const NAMESPACE = "voice"
+const NAMESPACE = "voice"
 const APP_NAME = "voice-infer"
 const INSTANCE_NAME = "voice-infer"
 const COMPONENT = "inference"
 const PART_OF = "voice"
 const MANAGED_BY = "bootstrap"
 
-export const NODE = "node-02"
+const NODE = "node-02"
 
 const S3_CREDS_NAME = "voice-infer-s3-creds"
 const S3_CREDS_KEYS = ["access_key", "secret_key"]
 
-export const SERVICE_NAME = "voice-infer"
-export const PORT = 8080
+const SERVICE_NAME = "voice-infer"
+const PORT = 8080
 
 const RESOURCE_LABELS = {
   app: APP_NAME,

@@ -9,7 +9,7 @@ import { z } from "zod"
 
 const GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta"
 
-export function imageMimeType(path: string): string {
+function imageMimeType(path: string): string {
   const ext = extname(path).toLowerCase()
   if (ext === ".jpg" || ext === ".jpeg") return "image/jpeg"
   if (ext === ".webp") return "image/webp"
@@ -34,7 +34,7 @@ export interface GeminiEditRequestInput {
   readonly imageConfig?: GeminiImageConfig
 }
 
-export function buildGeminiEditRequest(input: GeminiEditRequestInput): Readonly<{
+function buildGeminiEditRequest(input: GeminiEditRequestInput): Readonly<{
   contents: readonly unknown[]
   generationConfig: Readonly<{
     responseModalities: readonly string[]
@@ -81,7 +81,7 @@ const GeminiResponseSchema = z.object({
     .optional(),
 })
 
-export function parseGeminiImageResponse(json: unknown): Uint8Array {
+function parseGeminiImageResponse(json: unknown): Uint8Array {
   const parsed = GeminiResponseSchema.safeParse(json)
   if (!parsed.success) {
     throw new DataError(`unexpected Gemini response shape: ${parsed.error.message}`)
@@ -154,7 +154,7 @@ export function imageFormatForPath(path: string): string {
   return ext.length > 0 ? ext : "png"
 }
 
-export function magickTranscodeArgs(format: string): readonly string[] {
+function magickTranscodeArgs(format: string): readonly string[] {
   return ["-", `${format}:-`]
 }
 

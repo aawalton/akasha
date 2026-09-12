@@ -29,7 +29,7 @@ export function unregisterCapabilityHost(id: string): undefined {
   notify()
 }
 
-export function capabilityHostEntries(): readonly HostEntry[] {
+function capabilityHostEntries(): readonly HostEntry[] {
   return entrySnapshot
 }
 

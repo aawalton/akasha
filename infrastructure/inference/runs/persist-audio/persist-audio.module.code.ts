@@ -9,11 +9,11 @@ import { audioObjectKey } from "akasha/infrastructure/storage/object-store/key/o
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
-export const AUDIO_PAGE_TYPE_SLUG = "audio"
+const AUDIO_PAGE_TYPE_SLUG = "audio"
 
 const AUDIO_OPERATIONS = new Set(["voice-design", "voice-clone", "music"])
 
-export function deriveAudioEngine(service: string, operation: string): string {
+function deriveAudioEngine(service: string, operation: string): string {
   if (operation === "music") return "ace-step"
   return service
 }
@@ -28,7 +28,7 @@ export interface AudioPersistInput {
   readonly outputPath: string
 }
 
-export function buildAudioPageProperties(input: AudioPersistInput): Record<string, Json> {
+function buildAudioPageProperties(input: AudioPersistInput): Record<string, Json> {
   const { record, inferenceRunId, outputPath } = input
   return {
     title: record.title,
@@ -51,7 +51,7 @@ export interface PersistAudioDeps {
   readonly publishAudio: (pageId: string, bytes: Uint8Array) => Promise<void>
 }
 
-export function putSaid(pageId: string): string {
+function putSaid(pageId: string): string {
   return `put ${pageId}'s bytes at ${audioObjectKey(pageId)} in the object store`
 }
 

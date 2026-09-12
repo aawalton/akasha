@@ -66,7 +66,7 @@ function makeAdminHandler(
   }
 }
 
-export function makePoolHandler(
+function makePoolHandler(
   service: PoolService,
   swap: ReturnType<typeof createSwapController>,
   proxy: (one: PoolService, request: Request) => Promise<Response> = proxyToService

@@ -38,7 +38,7 @@ const TYPES = "types"
 
 const HOLDS = "ts"
 
-export function bodyRefused(
+function bodyRefused(
   key: string,
   pageTypeSlug: string,
   fileName: string | null | undefined,

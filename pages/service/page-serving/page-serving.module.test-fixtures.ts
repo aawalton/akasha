@@ -5,7 +5,7 @@ import { ASK_AT, WRITE_AT } from "akasha/pages/service/page-serving/page-serving
 import type { Asked, Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const ROOT = join(import.meta.dir, "..", "..", "..")
+const ROOT = join(import.meta.dir, "..", "..", "..")
 
 export const TOLD: Asked[] = []
 

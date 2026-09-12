@@ -45,7 +45,7 @@ const JUDGED: Readonly<Record<string, (held: unknown) => boolean>> = {
   text: (held) => typeof held === "string",
 }
 
-export const KINDS: readonly string[] = Object.keys(JUDGED).sort()
+const KINDS: readonly string[] = Object.keys(JUDGED).sort()
 
 function nameOf(held: unknown): string {
   if (held === null) return "nothing"

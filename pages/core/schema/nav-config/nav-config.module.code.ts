@@ -4,7 +4,7 @@ import {
 } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
 import * as z from "zod"
 
-export const navConfigSchema = z
+const navConfigSchema = z
   .object({
     locked: lockedFacetSchema.optional(),
   })

@@ -209,7 +209,7 @@ export function declaring(
   }
 }
 
-export function manifest(slug: string, fileName: string): Value {
+function manifest(slug: string, fileName: string): Value {
   return { id: slug, pageTypeSlug: "file-property", slug, propertySlug: "manifest", fileName }
 }
 

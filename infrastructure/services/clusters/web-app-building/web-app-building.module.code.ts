@@ -68,7 +68,7 @@ export function buildTargetOf(plan: Plan): BuildTarget | null {
   return null
 }
 
-export function runGit(root: string, argv: readonly string[]): Ran {
+function runGit(root: string, argv: readonly string[]): Ran {
   const done = running([GIT, "-C", root, ...argv])
   return { argv: [GIT, ...argv], code: done.code, stdout: done.out, stderr: done.err }
 }
@@ -96,7 +96,7 @@ export function carriedByOrigin(root: string, sha: string): Carried {
   return { carried: runGit(root, ["merge-base", "--is-ancestor", sha, FETCHED]).code === 0 }
 }
 
-export function ranOf(argv: readonly string[], at: string): Ran {
+function ranOf(argv: readonly string[], at: string): Ran {
   const done = running([...argv], { cwd: at })
   return { argv: [...argv], code: done.code, stdout: done.out, stderr: done.err }
 }
@@ -240,7 +240,7 @@ export async function declaredBuildEnv(at: string): Promise<readonly BuildEnvEnt
   }
 }
 
-export function secretValue(namespace: string, secret: string, key: string): string | null {
+function secretValue(namespace: string, secret: string, key: string): string | null {
   const ran = runKubectl([
     "get",
     "secret",
@@ -291,7 +291,7 @@ export function resolveBuildEnv(
   return { env, hidden, missing }
 }
 
-export const NOTHING_SET: Resolved = { env: [], hidden: [], missing: [] }
+const NOTHING_SET: Resolved = { env: [], hidden: [], missing: [] }
 
 export function hiding(said: string, hidden: readonly string[]): string {
   let held = said
@@ -327,7 +327,7 @@ function sleepFor(seconds: number): undefined {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, seconds * 1000)
 }
 
-export function syncTo(target: BuildTarget, pod: string, sha: string, ran: Ran[]): number {
+function syncTo(target: BuildTarget, pod: string, sha: string, ran: Ran[]): number {
   for (let attempt = 1; attempt <= SYNC_ATTEMPTS; attempt++) {
     const one = inSync(target, pod, syncScript(sha))
     ran.push(one)

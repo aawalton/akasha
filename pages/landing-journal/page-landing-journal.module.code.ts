@@ -19,7 +19,7 @@ const STATE = [".local", "state", "page-landings"]
 
 const NAMED = 16
 
-export function journalDir(): string {
+function journalDir(): string {
   const named = process.env[DIR_ENV]
   if (named !== undefined && named.trim() !== "") return named
   return join(process.env.HOME ?? homedir(), ...STATE)

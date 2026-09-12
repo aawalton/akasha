@@ -10,11 +10,11 @@ export type Reached =
 
 const AT = '{range .items[*]}{.metadata.namespace}/{.metadata.name}{"\\n"}{end}'
 
-export function keyOf(one: Running): string {
+function keyOf(one: Running): string {
   return `${one.kind}/${one.namespace}/${one.name}`
 }
 
-export function workloadOf(service: ServiceCluster): Running {
+function workloadOf(service: ServiceCluster): Running {
   return {
     kind: service.resourceKind,
     namespace: service.namespace,

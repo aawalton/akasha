@@ -4,7 +4,7 @@ import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/vi
 const DATE_ONLY_REGEX = /^\d{4}-\d{2}-\d{2}$/
 const DAY_MS = 86_400_000
 
-export function parseTimelineDateMs(value: ReadonlyJSONValue | undefined): number | null {
+function parseTimelineDateMs(value: ReadonlyJSONValue | undefined): number | null {
   if (typeof value === "number") return Number.isFinite(value) ? value : null
   if (typeof value !== "string" || value === "") return null
   if (DATE_ONLY_REGEX.test(value)) {

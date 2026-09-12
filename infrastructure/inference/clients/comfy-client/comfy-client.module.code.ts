@@ -62,7 +62,7 @@ function outputImageOf(entry: HistoryEntry): ImageRef | undefined {
   return images.find((i) => i.type === "output") ?? images[0]
 }
 
-export function decidePollStep(entry: HistoryEntry | undefined): PollDecision {
+function decidePollStep(entry: HistoryEntry | undefined): PollDecision {
   if (entry === undefined) return { kind: "pending" }
   if (entry.status?.status_str === "error") {
     return { kind: "error", message: `ComfyUI run failed: ${JSON.stringify(entry.status)}` }
@@ -88,7 +88,7 @@ function canonicalize(value: unknown): string {
   return JSON.stringify(sortDeep(value))
 }
 
-export function selectCachedOutput(
+function selectCachedOutput(
   history: Record<string, HistoryEntry>,
   graph: ComfyGraph
 ): ImageRef | undefined {

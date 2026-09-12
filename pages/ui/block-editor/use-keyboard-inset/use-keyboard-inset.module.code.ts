@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 
 const FOCUS_SETTLE_DELAYS_MS = [50, 150, 300, 500, 700] as const
 
-export function keyboardInsetFromViewport(
+function keyboardInsetFromViewport(
   viewport: { readonly height: number; readonly offsetTop: number } | null,
   layoutHeight: number
 ): number {

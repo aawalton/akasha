@@ -17,7 +17,7 @@ import {
 
 const PAGE_TYPE_SLUG = "page-type"
 
-export class PageTypesMissing extends Error {
+class PageTypesMissing extends Error {
   readonly slugs: readonly string[]
   constructor(slugs: readonly string[]) {
     super(`no page-type file for slug(s): ${slugs.join(", ")}`)

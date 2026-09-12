@@ -56,7 +56,7 @@ export async function runWorkstationUpscale(params: {
   }
 }
 
-export function buildUpscaleScriptArgs(input: {
+function buildUpscaleScriptArgs(input: {
   readonly inName: string
   readonly outName: string
   readonly resolution: number

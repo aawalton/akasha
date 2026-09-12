@@ -24,7 +24,7 @@ const HELD = new Map<string, Naming>()
 
 export type Body = (path: string) => string | null
 
-export function namesFile(path: string, fileName: string): boolean {
+function namesFile(path: string, fileName: string): boolean {
   if (!path.endsWith(fileName)) return false
   const at = path.length - fileName.length
   return at === 0 || path[at - 1] === SEPARATOR
@@ -66,7 +66,7 @@ export function manifestsIn(
   return manifestsAmong(paths, fileProperties.get(MANIFEST) ?? null)
 }
 
-export function besideAt(path: string, fileName: string): string {
+function besideAt(path: string, fileName: string): string {
   const at = dirname(path)
   return at === "." ? fileName : `${at}/${fileName}`
 }
@@ -122,7 +122,7 @@ export type Carried = {
   readonly after: string | null
 }
 
-export function bodiesOver(repo: string, carried: ReadonlyMap<string, string | null>): Body {
+function bodiesOver(repo: string, carried: ReadonlyMap<string, string | null>): Body {
   const onDisk = bodiesAt(repo)
   return (path) => (carried.has(path) ? (carried.get(path) ?? null) : onDisk(path))
 }
@@ -158,7 +158,7 @@ export function reachingSettled(
   )
 }
 
-export function landedElsewhere(was: Naming, now: Naming): readonly string[] {
+function landedElsewhere(was: Naming, now: Naming): readonly string[] {
   const said: string[] = []
   for (const [specifier, before] of was) {
     if (now.get(specifier) !== before) said.push(before)
@@ -166,10 +166,7 @@ export function landedElsewhere(was: Naming, now: Naming): readonly string[] {
   return said
 }
 
-export function importersAmong(
-  given: string | Reading,
-  landed: readonly string[]
-): ReadonlySet<string> {
+function importersAmong(given: string | Reading, landed: readonly string[]): ReadonlySet<string> {
   const reading = readingOf(given)
   const said = new Set<string>()
   for (const one of landed) {

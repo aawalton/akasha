@@ -8,7 +8,7 @@ import {
 } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
-export const CORE_DEFINITION_SLUGS = ["page-type", "page-property-definition"] as const
+const CORE_DEFINITION_SLUGS = ["page-type", "page-property-definition"] as const
 
 export function useCoreDefinitionsReady(): boolean {
   const [ready, setReady] = useState(false)

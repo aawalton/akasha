@@ -25,13 +25,13 @@ export interface ModelSpec {
   readonly defaultNegative: string
 }
 
-export const ZIMAGE_TEXT_ENCODER = "qwen_3_4b_fp8_mixed.safetensors"
-export const ZIMAGE_VAE = "ae.safetensors"
+const ZIMAGE_TEXT_ENCODER = "qwen_3_4b_fp8_mixed.safetensors"
+const ZIMAGE_VAE = "ae.safetensors"
 
-export const ZIMAGE_BASE_UNET = "z-img_fp8-e4m3fn-scaled.safetensors"
-export const ZIMAGE_TURBO_UNET = "z-img-turbo_fp8-e4m3fn.safetensors"
+const ZIMAGE_BASE_UNET = "z-img_fp8-e4m3fn-scaled.safetensors"
+const ZIMAGE_TURBO_UNET = "z-img-turbo_fp8-e4m3fn.safetensors"
 
-export const ZIMAGE_MODEL_SHIFT = 3.0
+const ZIMAGE_MODEL_SHIFT = 3.0
 
 interface SamplerProfile {
   readonly defaultSteps: number

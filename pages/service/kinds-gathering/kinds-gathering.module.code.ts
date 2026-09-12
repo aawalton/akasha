@@ -45,7 +45,7 @@ const SLASH = "/"
 
 export type Named = Map<string, ReadonlyMap<string, Value>>
 
-export function sourceFor(given: string | Reading): Source {
+function sourceFor(given: string | Reading): Source {
   const reading = readingIn(given)
   return sourceAmong(
     valuesOfType(reading, PAGE_TYPE).map((one) => one.value),
@@ -94,7 +94,7 @@ function codeAt(path: string): string {
   return path.replace(/\.ts$/, CODE)
 }
 
-export function computedFor(root: string, carried: readonly Carried[]): readonly Computed[] {
+function computedFor(root: string, carried: readonly Carried[]): readonly Computed[] {
   const wanted = carried.filter((one) => one.pageTypeSlug === COMPUTED)
   if (wanted.length === 0) return []
   const bySlug = new Map<string, Valued>()

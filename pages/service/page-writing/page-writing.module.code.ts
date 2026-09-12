@@ -134,7 +134,7 @@ function beside(root: string, kept: readonly Kept[]): readonly string[] {
   return kept.map((one) => one.path)
 }
 
-export function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[] {
+function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[] {
   const held = changes.map(
     (one): FileChange =>
       one.at === TAKE

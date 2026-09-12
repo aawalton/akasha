@@ -32,7 +32,7 @@ export type Every = { readonly services: readonly Service[] } | { readonly refus
 
 export type Read = Every | { readonly unnamed: string }
 
-export function textsIn(held: unknown): readonly string[] | null {
+function textsIn(held: unknown): readonly string[] | null {
   if (!Array.isArray(held)) return null
   const took: string[] = []
   for (const one of held) {
@@ -62,7 +62,7 @@ export function runnerCodeIn(root: string): readonly string[] {
   return "refused" in run ? [] : [run.path]
 }
 
-export function runsFrom(
+function runsFrom(
   root: string,
   value: Value,
   codeAt: string = ""
@@ -73,7 +73,7 @@ export function runsFrom(
   return "refused" in said ? said : [said.command]
 }
 
-export function refusedIn(held: readonly string[] | Refused | null): held is Refused {
+function refusedIn(held: readonly string[] | Refused | null): held is Refused {
   return held !== null && !Array.isArray(held)
 }
 

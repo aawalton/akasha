@@ -22,7 +22,7 @@ export function readFrom(reading: Reading): string {
   return READ_FROM.get(reading) ?? INDEX_AT
 }
 
-export function gitFolderIn(root: string): string {
+function gitFolderIn(root: string): string {
   const own = join(root, GIT_AT)
   const found = statSync(own, { throwIfNoEntry: false })
   if (found === undefined || found.isDirectory()) return own

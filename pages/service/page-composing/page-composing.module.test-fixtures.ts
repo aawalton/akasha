@@ -41,9 +41,9 @@ export const HELD_CRATE_ID = seed("22")
 
 export const DEVICE_TOKENS_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
 
-export const HELD_THING = "held-thing"
+const HELD_THING = "held-thing"
 
-export const HELD_FIGURE = "held-figure"
+const HELD_FIGURE = "held-figure"
 
 export const A_PORTRAIT_AT = "akasha/figures/pages/held-figure/held-figure.figure.portrait.md"
 

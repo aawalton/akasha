@@ -51,7 +51,7 @@ export function getDefaultGroupSorts(
   return [{ field: "label", direction: "asc" }]
 }
 
-export function makeGroupKeyByPropertyComparator(
+function makeGroupKeyByPropertyComparator(
   prop: PropertyDefinition | undefined,
   resolver?: PageResolver | null
 ): (aKey: string, aLabel: string, bKey: string, bLabel: string) => number {

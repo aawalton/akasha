@@ -109,7 +109,7 @@ export function buildMfluxQueryScript(host: InferenceHost, serviceName: string):
   ].join("\n")
 }
 
-export function buildRunScript(host: InferenceHost, service: Provisioned): string {
+function buildRunScript(host: InferenceHost, service: Provisioned): string {
   const cwd = `${serviceDir(host.home, service.name)}/${service.workdir}`
   const execLine = `exec ${service.runs}`
   return [
@@ -123,7 +123,7 @@ export function buildRunScript(host: InferenceHost, service: Provisioned): strin
   ].join("\n")
 }
 
-export function buildPlist(host: InferenceHost, service: Provisioned): string {
+function buildPlist(host: InferenceHost, service: Provisioned): string {
   const dir = serviceDir(host.home, service.name)
   const supervised = service.lifecycle === "always-on"
   const boolTag = (v: boolean) => (v ? "<true/>" : "<false/>")

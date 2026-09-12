@@ -11,7 +11,7 @@ const RCLONE_IMAGE = "rclone/rclone:1.74.3"
 
 export const ASSETS_NAMESPACE = "seaweedfs-backup-assets"
 
-export const COMPONENT_BACKUP_ASSETS = "backup-assets"
+const COMPONENT_BACKUP_ASSETS = "backup-assets"
 
 const BACKUP_MOUNT = "/backup"
 
@@ -23,7 +23,7 @@ const ASSET_REVIEW_THRESHOLD = 0.8
 
 const ASSET_REVIEW_BYTES = ASSET_BUDGET_BYTES * ASSET_REVIEW_THRESHOLD
 
-export function assetCopyScript(): string {
+function assetCopyScript(): string {
   const list = NON_EXPIRING_PREFIXES.join(" ")
   return [
     "set -u",

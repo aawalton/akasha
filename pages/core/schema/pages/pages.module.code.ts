@@ -40,7 +40,7 @@ const propertyDefinitionLikeSchema = z
       def.title === "" ? Object.assign({}, def, { title: humanizeIdentifier(def.id) }) : def
   )
 
-export const pageTypeDataSchema = z
+const pageTypeDataSchema = z
   .object({
     propertyDefinitions: z.array(propertyDefinitionLikeSchema).readonly(),
     sequence: sequenceConfigSchema.optional().catch(undefined),

@@ -45,7 +45,7 @@ export function generatorAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, GENERATOR, HOLDS)
 }
 
-export function generatingIn(root: string, at: string, body: string | null = null): Reached {
+function generatingIn(root: string, at: string, body: string | null = null): Reached {
   let held: Held
   try {
     held = heldOver(root, at, body)

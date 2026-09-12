@@ -27,7 +27,7 @@ const jsonValueSchema: z.ZodType<ReadonlyJSONValue> = z.lazy(() =>
   ])
 )
 
-export const blockSchema: z.ZodType<Block> = z.lazy(() =>
+const blockSchema: z.ZodType<Block> = z.lazy(() =>
   z
     .object({
       id: z.string().optional(),
@@ -48,7 +48,7 @@ export const richDocumentSchema = z
   })
   .strict()
 
-export function validateRichDocumentValue(value: ReadonlyJSONValue | undefined): string | null {
+function validateRichDocumentValue(value: ReadonlyJSONValue | undefined): string | null {
   if (value === null || value === undefined || value === "") return null
   const parsed = richDocumentSchema.safeParse(value)
   if (parsed.success) return null

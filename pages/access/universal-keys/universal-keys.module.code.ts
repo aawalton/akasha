@@ -2,7 +2,7 @@ import type { PROMOTED_COLUMN } from "akasha/pages/access/routing-core/routing-c
 
 const PAGE_TYPE = "type"
 
-export const READ_ONLY_KEYS = [
+const READ_ONLY_KEYS = [
   "id",
   "seq",
   "pageTypeId",

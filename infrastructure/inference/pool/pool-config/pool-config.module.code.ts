@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const PoolServiceSchema = z
+const PoolServiceSchema = z
   .object({
     name: z.string().min(1),
     publicPort: z.number().int().positive(),
@@ -11,7 +11,7 @@ export const PoolServiceSchema = z
   .strict()
 export type PoolService = z.infer<typeof PoolServiceSchema>
 
-export const PoolConfigSchema = z
+const PoolConfigSchema = z
   .object({
     adminPort: z.number().int().positive(),
     warmSet: z.array(z.string().min(1)).readonly(),

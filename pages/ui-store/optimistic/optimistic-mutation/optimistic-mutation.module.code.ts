@@ -16,7 +16,7 @@ import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.modul
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
-export const SETTLE_HANDOFF_CEILING_MS = DEFAULT_TICK_MS * 5
+const SETTLE_HANDOFF_CEILING_MS = DEFAULT_TICK_MS * 5
 
 const rowSettleChains = new WeakMap<Collection<PageRow, string>, Map<string, Promise<void>>>()
 

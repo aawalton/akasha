@@ -12,7 +12,7 @@ interface ItemRect {
   height: number
 }
 
-export function computeDropZone(
+function computeDropZone(
   rect: ItemRect,
   pointerY: number,
   isRootItem: boolean

@@ -8,7 +8,7 @@ export interface Reduced {
   readonly over: number | null
 }
 
-export const NOTHING: Reduced = { value: null, over: null }
+const NOTHING: Reduced = { value: null, over: null }
 
 export function reduced(
   rows: readonly Row[],

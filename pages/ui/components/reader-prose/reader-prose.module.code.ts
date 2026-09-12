@@ -5,7 +5,7 @@ export type ProseBlock =
 
 const FENCE_RE = /^\s*```/
 
-export function isSceneBreak(line: string): boolean {
+function isSceneBreak(line: string): boolean {
   const compact = line.replace(/[ \t]/g, "")
   if (compact.length < 3) return false
   const marker = compact[0]

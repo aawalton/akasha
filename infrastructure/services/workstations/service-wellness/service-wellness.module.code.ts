@@ -8,11 +8,11 @@ export const WELL = "well"
 
 export const LOOKED_AT = "lookedAt"
 
-export function wellIn(one: Health): boolean {
+function wellIn(one: Health): boolean {
   return one.broken === null
 }
 
-export function unchanged(root: string, one: Health): boolean {
+function unchanged(root: string, one: Health): boolean {
   return uncommittedIn(root, one.pagePath)?.[WELL] === wellIn(one)
 }
 

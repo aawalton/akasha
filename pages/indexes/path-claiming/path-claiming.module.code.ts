@@ -101,7 +101,7 @@ export function pathsOf(
 
 const NO_FOLDERS: FoldersBy = new Map()
 
-export function foldersClaimedIn(
+function foldersClaimedIn(
   value: Value,
   path: string,
   repo: string,

@@ -6,9 +6,9 @@ export type Reached<T> =
   | { readonly ok: true; readonly body: T }
   | { readonly ok: false; readonly why: string; readonly status?: number }
 
-export const PAGE_STORE_ORIGIN = "http://page-store.page-store.svc.cluster.local:8787"
+const PAGE_STORE_ORIGIN = "http://page-store.page-store.svc.cluster.local:8787"
 
-export const PAGE_STORE_BROWSER_PREFIX = "/api"
+const PAGE_STORE_BROWSER_PREFIX = "/api"
 
 export const ASK_CEILING_MS = 5_000
 
@@ -16,7 +16,7 @@ export const WRITE_CEILING_MS = 30_000
 
 export const ATTEMPTS = 4
 
-export const FIRST_BACKOFF_MS = 250
+const FIRST_BACKOFF_MS = 250
 
 export const BACKOFF_CEILING_MS = 4_000
 
@@ -118,7 +118,7 @@ async function postedOnce(
   return { ok: true, body: parsed }
 }
 
-export function attemptsSaid(spent: number): string {
+function attemptsSaid(spent: number): string {
   return spent === 1 ? "one attempt was spent" : `${spent} attempts were spent`
 }
 

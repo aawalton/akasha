@@ -3,11 +3,11 @@ import { JsonSchema } from "akasha/utils/narrow/json-schema/json-schema.module.c
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { z } from "zod"
 
-export const PAGE_WRITE_PATH = "/api/page-write"
+const PAGE_WRITE_PATH = "/api/page-write"
 
-export const PAGE_TYPES_PATH = "/api/page-types"
+const PAGE_TYPES_PATH = "/api/page-types"
 
-export const WRITE_OVER_SERVER_OPS = [
+const WRITE_OVER_SERVER_OPS = [
   "createPage",
   "createPageIfAbsent",
   "patchPage",
@@ -30,7 +30,7 @@ export function isWriteOverServerOp(one: unknown): one is WriteOverServerOp {
   return typeof one === "string" && WRITE_OVER_SERVER_OP_NAMES.has(one)
 }
 
-export class ServerWriteError extends Error {
+class ServerWriteError extends Error {
   readonly op: string
   readonly status: number | null
   constructor(op: string, status: number | null, message: string) {

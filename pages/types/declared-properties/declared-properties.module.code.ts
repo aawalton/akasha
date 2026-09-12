@@ -183,10 +183,7 @@ function declaredFor(value: Value, source: Source, own: string): readonly Carrie
   return made
 }
 
-export function declarationsIfNamed(
-  pageTypeSlug: string,
-  source: Source
-): readonly Carried[] | null {
+function declarationsIfNamed(pageTypeSlug: string, source: Source): readonly Carried[] | null {
   const carried: Carried[] = []
   const walked = new Set<string>()
   const waiting: string[] = [pageTypeSlug]

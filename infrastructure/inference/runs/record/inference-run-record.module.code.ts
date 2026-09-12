@@ -8,7 +8,7 @@ import {
 } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
 import { z } from "zod"
 
-export const InferenceRunRecordSchema = z.object({
+const InferenceRunRecordSchema = z.object({
   title: z.string(),
   service: z.enum(INFERENCE_SERVICES),
   operation: z.enum(INFERENCE_OPERATIONS),

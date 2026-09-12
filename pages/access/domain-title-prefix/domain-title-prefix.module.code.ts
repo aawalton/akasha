@@ -1,10 +1,7 @@
 const TEMPER_SLUG_PREFIX = "temper-"
 const TEMPER_TITLE_PREFIX = "Temper "
 
-export const TEMPER_UNPREFIXED_SLUGS: ReadonlySet<string> = new Set([
-  "character-build",
-  "companion-build",
-])
+const TEMPER_UNPREFIXED_SLUGS: ReadonlySet<string> = new Set(["character-build", "companion-build"])
 
 function isTemperDomainSlug(slug: string): boolean {
   return slug.startsWith(TEMPER_SLUG_PREFIX) || TEMPER_UNPREFIXED_SLUGS.has(slug)

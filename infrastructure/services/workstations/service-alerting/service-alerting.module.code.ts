@@ -38,7 +38,7 @@ export function championing(rows: readonly DomainRow[]): (address: string) => st
   }
 }
 
-export function bodyFor(one: Health, since: string, now: string): string {
+function bodyFor(one: Health, since: string, now: string): string {
   const same = since === now
   const held = same ? "It broke just now." : `It has been broken since ${since}.`
   return [

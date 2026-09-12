@@ -12,7 +12,7 @@ export const REDACTED = "[REDACTED]"
 
 export const UNCLASSIFIED = "[UNCLASSIFIED]"
 
-export const SAFE_VALUE_FLAGS: ReadonlySet<string> = new Set([
+const SAFE_VALUE_FLAGS: ReadonlySet<string> = new Set([
   "-a",
   "--account",
   "--agent-id",
@@ -56,7 +56,7 @@ const SUBCOMMAND_WORD_RE = /^[a-z][a-z0-9-]{0,31}$/
 const SOURCE_EXT_RE =
   /\.(ts|tsx|js|jsx|mjs|cjs|md|json|jsonl|lua|sql|sh|yaml|yml|toml|txt|log|css|html|py)$/
 
-export const MAX_TOKEN_CHARS = 200
+const MAX_TOKEN_CHARS = 200
 
 export const MAX_ARGV_TOKENS = 64
 

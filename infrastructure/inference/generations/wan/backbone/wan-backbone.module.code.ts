@@ -1,21 +1,19 @@
 import type { ComfyNode } from "akasha/infrastructure/inference/comfy/graph/comfy-graph.module.code.ts"
 
-export const WAN_HIGH_NOISE_UNET = "Wan2.2-I2V-A14B-HighNoise-Q5_K_M.gguf"
-export const WAN_LOW_NOISE_UNET = "Wan2.2-I2V-A14B-LowNoise-Q5_K_M.gguf"
-export const WAN_HIGH_NOISE_UNET_LIGHTNING = "Wan2.2-I2V-A14B-HighNoise-Q3_K_M.gguf"
-export const WAN_LOW_NOISE_UNET_LIGHTNING = "Wan2.2-I2V-A14B-LowNoise-Q3_K_M.gguf"
-export const WAN_TEXT_ENCODER = "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
-export const WAN_VAE = "wan_2.1_vae.safetensors"
-export const WAN_LIGHTNING_LORA_HIGH =
-  "Wan2.2-I2V-A14B-4steps-lora-rank64-Seko-V1-high_noise.safetensors"
-export const WAN_LIGHTNING_LORA_LOW =
-  "Wan2.2-I2V-A14B-4steps-lora-rank64-Seko-V1-low_noise.safetensors"
+const WAN_HIGH_NOISE_UNET = "Wan2.2-I2V-A14B-HighNoise-Q5_K_M.gguf"
+const WAN_LOW_NOISE_UNET = "Wan2.2-I2V-A14B-LowNoise-Q5_K_M.gguf"
+const WAN_HIGH_NOISE_UNET_LIGHTNING = "Wan2.2-I2V-A14B-HighNoise-Q3_K_M.gguf"
+const WAN_LOW_NOISE_UNET_LIGHTNING = "Wan2.2-I2V-A14B-LowNoise-Q3_K_M.gguf"
+const WAN_TEXT_ENCODER = "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+const WAN_VAE = "wan_2.1_vae.safetensors"
+const WAN_LIGHTNING_LORA_HIGH = "Wan2.2-I2V-A14B-4steps-lora-rank64-Seko-V1-high_noise.safetensors"
+const WAN_LIGHTNING_LORA_LOW = "Wan2.2-I2V-A14B-4steps-lora-rank64-Seko-V1-low_noise.safetensors"
 
 export const WAN_FULL_STEPS = 20
 export const WAN_LIGHTNING_STEPS = 4
-export const WAN_FULL_CFG = 3.5
-export const WAN_LIGHTNING_CFG = 1.0
-export const WAN_MODEL_SHIFT = 8.0
+const WAN_FULL_CFG = 3.5
+const WAN_LIGHTNING_CFG = 1.0
+const WAN_MODEL_SHIFT = 8.0
 export const WAN_FPS = 16
 export const WAN_DEFAULT_WIDTH = 1280
 export const WAN_DEFAULT_HEIGHT = 720
@@ -24,7 +22,7 @@ export const WAN_DEFAULT_FRAMES = 81
 export const WAN_DEFAULT_NEGATIVE_PROMPT =
   "色调艳丽，过曝，静态，细节模糊不清，字幕，风格，作品，画作，画面，静止，整体发灰，最差质量，低质量，JPEG压缩残留，丑陋的，残缺的，多余的手指，画得不好的手部，画得不好的脸部，畸形的，毁容的，形态畸形的肢体，手指融合，静止不动的画面，杂乱的背景，三条腿，背景人很多，倒着走"
 
-export function expertBoundary(steps: number): number {
+function expertBoundary(steps: number): number {
   return Math.round(steps / 2)
 }
 

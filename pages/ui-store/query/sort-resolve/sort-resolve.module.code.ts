@@ -182,7 +182,7 @@ function aggregateValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortVal
   return computeAggregate(config, pageDataOf(row), ctx.allData)
 }
 
-export function resolveSortValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {
+function resolveSortValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {
   const info = ctx.keyInfo.get(key)
   if (info === undefined || info.kind === "promoted") return promotedValue(row, key)
   switch (info.kind) {
@@ -205,7 +205,7 @@ function typeRank(value: number | string | boolean): number {
   return 3
 }
 
-export function jsonbCompare(a: number | string | boolean, b: number | string | boolean): number {
+function jsonbCompare(a: number | string | boolean, b: number | string | boolean): number {
   const ra = typeRank(a)
   const rb = typeRank(b)
   if (ra !== rb) return ra < rb ? -1 : 1

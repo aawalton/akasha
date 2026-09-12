@@ -74,7 +74,7 @@ export const DEFAULT_PAGE_SIZE = 12
 export const DEFAULT_GROUP_PAGE_SIZE = 6
 export const DEFAULT_ITEM_PAGE_SIZE = 12
 
-export const viewDataSchema = viewDataSchemaV1
+const viewDataSchema = viewDataSchemaV1
 
 export type ViewLayout =
   | "cards"
@@ -173,7 +173,7 @@ export type ViewDataParseError = {
   raw: string
 }
 
-export function migrateViewData(raw: unknown): unknown {
+function migrateViewData(raw: unknown): unknown {
   if (!isRecord(raw)) return raw
 
   const obj: Record<string, unknown> = { ...raw }

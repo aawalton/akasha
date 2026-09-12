@@ -26,7 +26,7 @@ export interface BlockAccessoryBarProps {
   readonly onTurnInto: () => void
 }
 
-export function accessoryBarBottomPadding(inset: number): { paddingBottom?: string } {
+function accessoryBarBottomPadding(inset: number): { paddingBottom?: string } {
   return inset > 0 ? {} : { paddingBottom: "max(0.375rem, env(safe-area-inset-bottom))" }
 }
 

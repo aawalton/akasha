@@ -1,9 +1,4 @@
-export const RESERVED_SLUGS_UNIVERSAL: ReadonlySet<string> = new Set([
-  "_next",
-  "actions",
-  "api",
-  "auth",
-])
+const RESERVED_SLUGS_UNIVERSAL: ReadonlySet<string> = new Set(["_next", "actions", "api", "auth"])
 
 export function validateSlugReserved(value: unknown, fieldName: "slug" | "pluralSlug"): undefined {
   if (typeof value !== "string") return

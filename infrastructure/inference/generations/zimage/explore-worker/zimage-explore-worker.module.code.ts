@@ -30,13 +30,13 @@ const SEED_PINNED = /^#seed\s+(\d+)\s*\n/
 
 export type Asked = { readonly prompt: string; readonly seed: number }
 
-export function askedIn(raw: string): Asked {
+function askedIn(raw: string): Asked {
   const found = SEED_PINNED.exec(raw)
   if (found?.[1] === undefined) return { prompt: raw.trim(), seed: drawSeed() }
   return { prompt: raw.slice(found[0].length).trim(), seed: Number(found[1]) }
 }
 
-export function alive(pid: number): boolean {
+function alive(pid: number): boolean {
   try {
     process.kill(pid, 0)
     return true
@@ -61,7 +61,7 @@ async function nextIn(queueDir: string): Promise<string | undefined> {
   return entries.filter((one) => one.endsWith(".txt")).sort()[0]
 }
 
-export async function exploreWorker(
+async function exploreWorker(
   modelRaw: string,
   width: number,
   height: number,

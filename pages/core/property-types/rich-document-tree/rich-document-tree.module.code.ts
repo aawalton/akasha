@@ -51,7 +51,7 @@ export function flattenBlockIds(
   return out
 }
 
-export function pointerForPath(bodyKey: string, path: BlockPath): string {
+function pointerForPath(bodyKey: string, path: BlockPath): string {
   let pointer = `/${bodyKey}/blocks`
   path.forEach((idx, depth) => {
     pointer += depth === 0 ? `/${idx}` : `/children/${idx}`

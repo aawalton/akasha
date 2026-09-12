@@ -389,7 +389,7 @@ export type Naming = {
   readonly identity: boolean
 }
 
-export function namingsAmong(
+function namingsAmong(
   record: Value,
   under: string,
   fieldOf: (key: string) => string | null,

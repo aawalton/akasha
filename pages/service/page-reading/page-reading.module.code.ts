@@ -41,13 +41,13 @@ const ABOVE = ".."
 
 const PARTED_BY = "/"
 
-export const placing: Placing = listedAt
+const placing: Placing = listedAt
 
 export function namedIn(one: Named): string {
   return `${one.pageTypeSlug}/${one.slug}`
 }
 
-export function withheldIn(path: string): string | null {
+function withheldIn(path: string): string | null {
   if (secretNamed(path)) {
     return `\`${path}\` holds a page's secret values, and this hands out no secret`
   }

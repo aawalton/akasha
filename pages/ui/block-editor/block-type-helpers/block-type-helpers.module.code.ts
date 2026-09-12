@@ -10,7 +10,7 @@ import {
   type V1BlockType,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 
-export function continuationType(type: string): V1BlockType {
+function continuationType(type: string): V1BlockType {
   switch (type) {
     case "bulleted-list-item":
       return "bulleted-list-item"

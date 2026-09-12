@@ -8,7 +8,7 @@ const MULTIPART_REQUEST_TIMEOUT_MS = 120_000
 
 export const MULTIPART_THRESHOLD_BYTES = 16 * 1024 * 1024
 
-export const MULTIPART_PART_SIZE_BYTES = 8 * 1024 * 1024
+const MULTIPART_PART_SIZE_BYTES = 8 * 1024 * 1024
 
 const UPLOAD_ID_RE = /<UploadId>([^<]+)<\/UploadId>/
 const UPLOAD_ID_CAPTURES = z.tuple([z.string()])

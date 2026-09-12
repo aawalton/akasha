@@ -241,7 +241,7 @@ export async function validateSession(cookieHeader: string): Promise<Identity | 
   return validateAccessToken(accessToken)
 }
 
-export async function validateAccessToken(accessToken: string): Promise<Identity | null> {
+async function validateAccessToken(accessToken: string): Promise<Identity | null> {
   const key = await hashKey(accessToken)
   const cached = sessionCache.get(key)
   if (cached !== undefined) return cached.value

@@ -14,7 +14,7 @@ export type InputsHash12 = string & { readonly __brand: "InputsHash12" }
 
 const INPUTS_HASH_12_RE = /^[0-9a-f]{12}$/
 
-export function inputsHash12(said: string): InputsHash12 {
+function inputsHash12(said: string): InputsHash12 {
   if (!INPUTS_HASH_12_RE.test(said)) {
     throw new Error(
       `Invalid InputsHash12: expected 12 lowercase hex chars, got "${truncate(said)}"`

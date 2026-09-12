@@ -5,7 +5,7 @@ export function buildStubResponse(body: string): Response {
   })
 }
 
-export function buildBadGatewayResponse(): Response {
+function buildBadGatewayResponse(): Response {
   return new Response("Bad Gateway", { status: 502 })
 }
 

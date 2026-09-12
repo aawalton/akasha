@@ -19,7 +19,7 @@ export function shouldPersistMedia(
   return operations.has(operation)
 }
 
-export function landedSaid(pageId: string): string {
+function landedSaid(pageId: string): string {
   return `landed the row ${pageId} beside the generation log`
 }
 

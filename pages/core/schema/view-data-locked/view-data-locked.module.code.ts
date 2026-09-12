@@ -1,6 +1,6 @@
 import * as z from "zod"
 
-export const GRANULAR_LOCK_KEYS = [
+const GRANULAR_LOCK_KEYS = [
   "pageType",
   "createPage",
   "deletePage",
@@ -14,10 +14,10 @@ export const GRANULAR_LOCK_KEYS = [
 ] as const
 export type GranularLockKey = (typeof GRANULAR_LOCK_KEYS)[number]
 
-export const AGGREGATE_LOCK_KEYS = ["editPages", "editView", "editRows"] as const
+const AGGREGATE_LOCK_KEYS = ["editPages", "editView", "editRows"] as const
 type AggregateLockKey = (typeof AGGREGATE_LOCK_KEYS)[number]
 
-export const LOCK_AGGREGATES: Record<AggregateLockKey, readonly GranularLockKey[]> = {
+const LOCK_AGGREGATES: Record<AggregateLockKey, readonly GranularLockKey[]> = {
   editPages: ["createPage", "deletePage", "editProperties"],
   editView: ["changeLayout", "changeCoverSource", "changeCardSize", "changePropertyVisibility"],
   editRows: ["editRowIcon", "editRowValues"],

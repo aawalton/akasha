@@ -21,7 +21,7 @@ const BUCKET = "etcd-snapshots"
 const S3_ENDPOINT = `http://s3-gateway.${NAMESPACE}.svc.cluster.local:${S3_GATEWAY_HTTP_PORT}`
 const S3_SECRET = "seaweedfs-creds"
 
-export const RETENTION_DAYS = 30
+const RETENTION_DAYS = 30
 
 const MIN_SNAPSHOT_BYTES = 1048576
 

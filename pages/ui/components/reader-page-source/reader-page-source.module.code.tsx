@@ -63,7 +63,7 @@ export interface ReaderPageSource {
   readonly ReaderHeaderMenu: (props: ReaderHeaderMenuProps) => ReactNode
 }
 
-export const ONLINE_READER_PAGE_SOURCE: ReaderPageSource = {
+const ONLINE_READER_PAGE_SOURCE: ReaderPageSource = {
   useReaderPageType: (targetSlug) => {
     const { pages } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
     const pageType = pages.find((pt) => pt.properties?.slug === targetSlug)

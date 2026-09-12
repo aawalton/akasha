@@ -6,11 +6,11 @@ const WORKTREES = "worktrees"
 
 const CHANGE = "change"
 
-export function changeBranchName(seq: number): string {
+function changeBranchName(seq: number): string {
   return `${CHANGE}-${seq}`
 }
 
-export function branchWorktreePath(name: string): string {
+function branchWorktreePath(name: string): string {
   return join(optionalEnv("HOME") ?? "", WORKTREES, name)
 }
 

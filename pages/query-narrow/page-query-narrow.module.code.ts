@@ -1,6 +1,6 @@
 import type { Test } from "akasha/pages/query-shape/page-query-shape.module.code.ts"
 
-export const TEST_SAYS =
+const TEST_SAYS =
   "a test is either the value the key must hold, or a map stating `is`, `in`, `not-in`, `has`, `contains`, `ends-with`, `empty`, `at-or-after` or `before`"
 
 function scalarText(value: unknown): string | null {
@@ -42,7 +42,7 @@ const LIST_SLOTS: Readonly<Record<string, ListKey>> = {
   contains: "contains",
 }
 
-export function testOf(key: string, value: unknown): Test | null {
+function testOf(key: string, value: unknown): Test | null {
   const flat = scalarText(value)
   if (flat !== null) return { key, is: flat }
   if (typeof value !== "object" || value === null || Array.isArray(value)) return null

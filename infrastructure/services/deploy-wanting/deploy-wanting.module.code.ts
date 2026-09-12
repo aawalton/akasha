@@ -86,11 +86,7 @@ export function wantingIn(root: string, kind: Named["kind"], commit: string): Wa
   }
 }
 
-export function candidateFor(
-  root: string,
-  subject: Subject,
-  deploying: boolean = false
-): Candidate {
+function candidateFor(root: string, subject: Subject, deploying: boolean = false): Candidate {
   const was = sinceCommit(root, commitRecordedIn(root, subject.pagePath))
   return {
     slug: subject.slug,

@@ -83,7 +83,7 @@ export type Bodied = {
   readonly body: string
 }
 
-export function bodiesUnder(tree: string): readonly Bodied[] {
+function bodiesUnder(tree: string): readonly Bodied[] {
   const found: Bodied[] = []
   for (const path of walkedUnder(tree, typed)) {
     const body = textOnDisk(path)
@@ -188,7 +188,7 @@ export function refreshedWhole(
   return refreshedFrom(tree, indexIn(repo), repo, put, done)
 }
 
-export function filedInto(root: string, filings: readonly Filing[]): undefined {
+function filedInto(root: string, filings: readonly Filing[]): undefined {
   for (const one of filings) keepDelta(join(root, one.at), one, root)
 }
 

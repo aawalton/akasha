@@ -1,5 +1,5 @@
 export const LAUNCHD_LABEL_PREFIX = "com.alanwalton.inference."
-export const CONDA_ENV_PREFIX = "inference-"
+const CONDA_ENV_PREFIX = "inference-"
 
 export const TRAFFIC_COP_SERVICE_NAME = "traffic-cop"
 

@@ -13,16 +13,11 @@ export type ClusterNode = {
   loginUser: string
 }
 
-export const clusterNodes: readonly ClusterNode[] = [
-  node01,
-  node02,
-  node03,
-  node04,
-  node05,
-  node06,
-].map((host) => ({ slug: host.slug, address: host.address, loginUser: host.loginUser }))
+const clusterNodes: readonly ClusterNode[] = [node01, node02, node03, node04, node05, node06].map(
+  (host) => ({ slug: host.slug, address: host.address, loginUser: host.loginUser })
+)
 
-export function clusterNodesTable(): string {
+function clusterNodesTable(): string {
   return clusterNodes.map((node) => `${node.slug}\t${node.address}\t${node.loginUser}`).join("\n")
 }
 

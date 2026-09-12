@@ -22,7 +22,7 @@ export function fileStemOf(key: string): string {
   return dot <= 0 ? base : base.slice(0, dot)
 }
 
-export function idDerivedFrom(at: string): string {
+function idDerivedFrom(at: string): string {
   const said = ENCODER.encode(at)
   const over = new Uint8Array(NAMESPACE.length + said.length)
   over.set(NAMESPACE)

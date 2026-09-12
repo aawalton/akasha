@@ -9,7 +9,7 @@ export function imageObjectKey(pageId: string): string {
   return `images/${pageId}.png`
 }
 
-export function legacyImageObjectKey(pageId: string): string {
+function legacyImageObjectKey(pageId: string): string {
   return `persona-images/${pageId}.png`
 }
 

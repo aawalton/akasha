@@ -15,7 +15,7 @@ const TYPES = "types"
 
 const HOLDS = "ts"
 
-export const GENERATED_AT = "pages/core/generated"
+const GENERATED_AT = "pages/core/generated"
 
 export const AGGREGATE = "icon-search-index"
 
@@ -34,7 +34,7 @@ const INDEX_BUDGET: Budget = { bytes: 8_000, reserve: 0 }
 
 const PASCAL_BUDGET: Budget = { bytes: 12_000, reserve: 512 }
 
-export const SHARD_NAME = /^(entries|pascal-to-kebab)-\d\d$/
+const SHARD_NAME = /^(entries|pascal-to-kebab)-\d\d$/
 
 const ID_LINE = /^\s*id:\s*"([0-9a-f-]{36})",?\s*$/m
 
@@ -63,7 +63,7 @@ function stringsIn(value: unknown): readonly string[] {
   return held
 }
 
-export function aliasNamesIn(value: unknown): readonly string[] {
+function aliasNamesIn(value: unknown): readonly string[] {
   if (!Array.isArray(value)) return []
   const held: string[] = []
   for (const one of value) {
@@ -76,7 +76,7 @@ export function aliasNamesIn(value: unknown): readonly string[] {
   return [...new Set(held)].sort()
 }
 
-export function kebabToPascal(name: string): string {
+function kebabToPascal(name: string): string {
   return name
     .split("-")
     .map((one) => {
@@ -86,7 +86,7 @@ export function kebabToPascal(name: string): string {
     .join("")
 }
 
-export function kebabToCamel(slug: string): string {
+function kebabToCamel(slug: string): string {
   const [head, ...rest] = slug.split("-")
   return (head ?? "") + rest.map((one) => kebabToPascal(one)).join("")
 }
@@ -95,7 +95,7 @@ export function bytesIn(text: string): number {
   return new TextEncoder().encode(text).length
 }
 
-export function packed(lines: readonly string[], budget: Budget): readonly (readonly string[])[] {
+function packed(lines: readonly string[], budget: Budget): readonly (readonly string[])[] {
   const shards: string[][] = []
   let holding: string[] = []
   let bytes = budget.reserve
@@ -113,11 +113,11 @@ export function packed(lines: readonly string[], budget: Budget): readonly (read
   return shards
 }
 
-export function ordinal(at: number): string {
+function ordinal(at: number): string {
   return String(at).padStart(ORDINAL_WIDTH, "0")
 }
 
-export function shardSlug(stem: string, at: number): string {
+function shardSlug(stem: string, at: number): string {
   return `${stem}-${ordinal(at)}`
 }
 
@@ -129,7 +129,7 @@ export function folderOf(slug: string): string {
   return join(GENERATED_AT, slug)
 }
 
-export function codeAtOf(slug: string): string {
+function codeAtOf(slug: string): string {
   return join(folderOf(slug), `${slug}.module.code.ts`)
 }
 
@@ -137,7 +137,7 @@ export function pageAtOf(slug: string): string {
   return join(folderOf(slug), `${slug}.module.ts`)
 }
 
-export function idFor(root: string, slug: string): string {
+function idFor(root: string, slug: string): string {
   const at = resolve(root, pageAtOf(slug))
   if (existsSync(at)) {
     const found = ID_LINE.exec(readFileSync(at, "utf8"))
@@ -201,7 +201,7 @@ function pascalShard(lines: readonly string[], at: number): Staged {
   }
 }
 
-export function aggregate(indexShards: number, pascalShards: number): Staged {
+function aggregate(indexShards: number, pascalShards: number): Staged {
   const overIndex = <T>(f: (at: number) => T): T[] =>
     Array.from({ length: indexShards }, (_unused, at) => f(at))
   const overPascal = <T>(f: (at: number) => T): T[] =>
@@ -235,7 +235,7 @@ export function aggregate(indexShards: number, pascalShards: number): Staged {
   }
 }
 
-export function overlong(lines: readonly string[], budget: Budget, what: string): string | null {
+function overlong(lines: readonly string[], budget: Budget, what: string): string | null {
   for (const line of lines) {
     const size = bytesIn(line)
     if (size + budget.reserve >= budget.bytes) {

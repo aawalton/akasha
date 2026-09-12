@@ -76,7 +76,7 @@ const HELD = new Map<string, string>([
   ["url-property", "string"],
 ])
 
-export function typesAtOf(path: string): string | null {
+function typesAtOf(path: string): string | null {
   return besideAt(path, SECTION, HOLDS)
 }
 
@@ -97,7 +97,7 @@ function declaringMany(shadow: Shadow, kind: string, found: Set<string>): undefi
   }
 }
 
-export function manyIn(shadow: Shadow): ReadonlySet<string> {
+function manyIn(shadow: Shadow): ReadonlySet<string> {
   const found = new Set<string>()
   declaringMany(shadow, PAGE_TYPE, found)
   for (const kind of shadow.index.kindsUnder(PAGE_PROPERTY)) declaringMany(shadow, kind, found)
@@ -173,7 +173,7 @@ function recordIn(shadow: Shadow, asked: Asked): Written | null {
   return { held: `{\n${lines.join("\n")}\n}`, imports }
 }
 
-export function writtenFor(shadow: Shadow, asked: Asked): Written | null {
+function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   const held = HELD.get(asked.kind)
   if (held !== undefined) return { held, imports: [] }
   if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
@@ -195,7 +195,7 @@ function importedBefore(one: string, two: string): number {
   return importedAt(one) < importedAt(two) ? -1 : 1
 }
 
-export function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean): string {
+function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean): string {
   const imports = (
     many ? [`import type { List } from "${LIST_AT}"`, ...written.imports] : [...written.imports]
   ).sort(importedBefore)

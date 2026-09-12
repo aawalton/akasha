@@ -22,7 +22,7 @@ import {
 import { randomId } from "akasha/pages/ids/random-id/random-id.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
-export const V1_BLOCK_TYPES = [
+const V1_BLOCK_TYPES = [
   "paragraph",
   "heading",
   "bulleted-list-item",
@@ -84,7 +84,7 @@ function healBlocks(blocks: readonly Block[]): readonly Block[] {
   })
 }
 
-export function withId(block: Block): Block {
+function withId(block: Block): Block {
   if (block.id !== undefined && block.id !== "") return block
   return { ...block, id: newBlockId() }
 }
@@ -182,21 +182,18 @@ export function applyEditorOp(doc: RichDocument, op: EditorOp): RichDocument {
   }
 }
 
-export function lastIndex(path: BlockPath): number | undefined {
+function lastIndex(path: BlockPath): number | undefined {
   return path[path.length - 1]
 }
 
-export function locate(
-  blocks: readonly Block[],
-  id: string
-): { path: BlockPath; block: Block } | null {
+function locate(blocks: readonly Block[], id: string): { path: BlockPath; block: Block } | null {
   const path = findBlockPath(blocks, id)
   if (path === null) return null
   const block = getBlockAtPath(blocks, path)
   return block === undefined ? null : { path, block }
 }
 
-export function locateSiblingPair(
+function locateSiblingPair(
   blocks: readonly Block[],
   id: string
 ): { path: BlockPath; cur: Block; prevPath: BlockPath; prev: Block } | null {
@@ -218,7 +215,7 @@ export function textOf(block: Block): string {
   return typeof block.text === "string" ? block.text : ""
 }
 
-export function turnBlockInto(block: Block, type: V1BlockType, level?: HeadingLevel): Block {
+function turnBlockInto(block: Block, type: V1BlockType, level?: HeadingLevel): Block {
   const id = block.id ?? newBlockId()
   const content = stripLeadingMarker(textOf(block))
   const text = isMarkerType(type) ? markerFor(type) + content : content
@@ -227,13 +224,13 @@ export function turnBlockInto(block: Block, type: V1BlockType, level?: HeadingLe
   return kids !== undefined && kids.length > 0 ? { ...turned, children: kids } : turned
 }
 
-export function mergeBlocks(prev: Block, cur: Block): Block {
+function mergeBlocks(prev: Block, cur: Block): Block {
   const kids = [...(prev.children ?? []), ...(cur.children ?? [])]
   const merged = { ...prev, text: textOf(prev) + textOf(cur) }
   return kids.length > 0 ? { ...merged, children: kids } : withoutChildren(merged)
 }
 
-export function withoutChildren(block: Block): Block {
+function withoutChildren(block: Block): Block {
   const { children, ...rest } = block
   return rest
 }

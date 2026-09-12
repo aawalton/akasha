@@ -28,7 +28,7 @@ export function refuseALiveTestWriteIn(
   }
 }
 
-export function refuseALiveTestWrite(root: string, what: string, route: string): undefined {
+function refuseALiveTestWrite(root: string, what: string, route: string): undefined {
   if (!inATestRun()) return
   const repo = liveCheckoutAt(root)
   if (repo === null) return

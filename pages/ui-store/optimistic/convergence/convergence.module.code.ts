@@ -9,7 +9,7 @@ import { jsonEqual } from "akasha/utils/narrow/json-equal/json-equal.module.code
 
 export const DEFAULT_TICK_MS = 250
 
-export const CONVERGENCE_CEILING_MS = FILE_BACKING_POLL_MS * 2
+const CONVERGENCE_CEILING_MS = FILE_BACKING_POLL_MS * 2
 
 export class ConvergenceUnreached extends Error {
   readonly rowId: string
@@ -48,7 +48,7 @@ export interface ConvergenceOptions {
   readonly waitForTick?: WaitForTick
 }
 
-export function readCanonicalRow(
+function readCanonicalRow(
   collection: Collection<PageRow, string>,
   rowId: string
 ): PageRow | undefined {
@@ -70,7 +70,7 @@ export function readCanonicalRow(
   return current === undefined ? undefined : asPageRow(current)
 }
 
-export function predictedSetSatisfied(
+function predictedSetSatisfied(
   predictedSet: Readonly<Record<string, unknown>>,
   canonicalRow: PageRow
 ): boolean {

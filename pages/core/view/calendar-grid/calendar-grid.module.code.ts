@@ -48,14 +48,14 @@ function format(y: number, m: number, d: number): string {
   return `${pad4(y)}-${padTwo(m)}-${padTwo(d)}`
 }
 
-export function addCalendarDays(dayStr: string, n: number): string {
+function addCalendarDays(dayStr: string, n: number): string {
   const parsed = parseDay(dayStr)
   if (parsed === null) return dayStr
   const dt = new Date(toNoonUtc(parsed[0], parsed[1], parsed[2]) + n * DAY_MS)
   return format(dt.getUTCFullYear(), dt.getUTCMonth() + 1, dt.getUTCDate())
 }
 
-export function weekdayIndex(dayStr: string): number {
+function weekdayIndex(dayStr: string): number {
   const parsed = parseDay(dayStr)
   if (parsed === null) return -1
   return new Date(toNoonUtc(parsed[0], parsed[1], parsed[2])).getUTCDay()

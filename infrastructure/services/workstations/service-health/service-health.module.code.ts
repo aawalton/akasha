@@ -41,13 +41,13 @@ export type Health = {
   readonly broken: string | null
 }
 
-export function unboundAt(root: string, pagePath: string): readonly string[] {
+function unboundAt(root: string, pagePath: string): readonly string[] {
   const held = uncommittedIn(root, pagePath)?.[UNBOUND]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")
 }
 
-export function beatAt(root: string, pagePath: string): string | null {
+function beatAt(root: string, pagePath: string): string | null {
   return beatOn(uncommittedIn(root, pagePath))
 }
 
@@ -83,7 +83,7 @@ export function statesIn(text: string): ReadonlyMap<string, UnitState> {
   return held
 }
 
-export function unbeatenIn(one: Watched, now: Date): string | null {
+function unbeatenIn(one: Watched, now: Date): string | null {
   const withinMs = one.worksWithinMs
   if (withinMs === null) return null
   const said = beating(one.workedAt, now, withinMs)
@@ -130,7 +130,7 @@ export function healthIn(
   }))
 }
 
-export function showing(units: readonly string[]): string {
+function showing(units: readonly string[]): string {
   if (units.length === 0) return ""
   return ran(["systemctl", "--user", "show", ...units, "-p", `${ID},${ACTIVE_STATE},${RESULT}`]).out
 }

@@ -7,7 +7,7 @@ export function isNotesEligible(type: PropertyType): boolean {
   return type === "markdown" || type === "rich-document"
 }
 
-export function firstAlphabeticalNotesPropertyId(
+function firstAlphabeticalNotesPropertyId(
   properties: readonly PropertyDefinition[]
 ): string | undefined {
   const eligible = properties

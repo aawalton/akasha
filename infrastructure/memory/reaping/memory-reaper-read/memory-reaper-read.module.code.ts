@@ -14,7 +14,7 @@ export function resolvePositiveEnvOverride(envName: string, fallback: number): n
   return parsed.success ? parsed.data : fallback
 }
 
-export function readPssKb(pid: number, fallbackKb: number): number {
+function readPssKb(pid: number, fallbackKb: number): number {
   let rollup: string
   try {
     rollup = readFileSync(`/proc/${pid}/smaps_rollup`, "utf8")

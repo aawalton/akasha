@@ -27,11 +27,11 @@ export interface FetchPlan {
   readonly deletes: readonly string[]
 }
 
-export function filePagesPath(pageTypeSlug: string): string {
+function filePagesPath(pageTypeSlug: string): string {
   return `/api/pages/${encodeURIComponent(pageTypeSlug)}`
 }
 
-export function canonicalJson(value: unknown): string {
+function canonicalJson(value: unknown): string {
   if (value === undefined) return "null"
   if (Array.isArray(value)) return `[${value.map(canonicalJson).join(",")}]`
   if (!isRecord(value)) return JSON.stringify(value)
@@ -49,7 +49,7 @@ export interface AnswerReach {
   readonly held: number
 }
 
-export function readAnswerCut(body: unknown, carried: number): AnswerReach | null {
+function readAnswerCut(body: unknown, carried: number): AnswerReach | null {
   if (!isRecord(body)) return null
   const held = body.held
   if (typeof held !== "number" || !Number.isFinite(held)) return null
@@ -69,7 +69,7 @@ export function readAnswerRows(body: unknown): readonly PageRow[] | null {
   return rows
 }
 
-export function planFetchedRows(
+function planFetchedRows(
   fetched: readonly PageRow[],
   delivered: ReadonlySet<string>,
   getRow: (id: string) => PageRow | undefined

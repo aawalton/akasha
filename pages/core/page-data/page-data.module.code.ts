@@ -24,7 +24,7 @@ export type PropertyType =
   | "rich-document"
   | "action-button"
 
-export const STORAGE_TIERS = ["indexed", "content", "external"] as const
+const STORAGE_TIERS = ["indexed", "content", "external"] as const
 
 export type StorageTier = (typeof STORAGE_TIERS)[number]
 

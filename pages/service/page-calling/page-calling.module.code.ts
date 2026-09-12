@@ -17,21 +17,21 @@ export const READ_AT = "/read"
 
 export const WRITE_AT = "/write"
 
-export const SHAPE_AT = "/shape"
+const SHAPE_AT = "/shape"
 
 export const FILE_AT = "/file"
 
-export const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
+const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
 
-export const OVER_THE_TAILNET = "http://page-store.page-store.svc.cluster.local:8787"
+const OVER_THE_TAILNET = "http://page-store.page-store.svc.cluster.local:8787"
 
-export const IN_A_BROWSER = "/api"
+const IN_A_BROWSER = "/api"
 
-export const ASK_CEILING_MS = 5000
+const ASK_CEILING_MS = 5000
 
-export const WRITE_CEILING_MS = 30000
+const WRITE_CEILING_MS = 30000
 
-export const FILE_CEILING_MS = 15000
+const FILE_CEILING_MS = 15000
 
 export const ATTEMPTS = 6
 
@@ -76,7 +76,7 @@ export function backoffFor(taken: number): number {
   return 100 * 2 ** (taken - 1)
 }
 
-export const sleep: Sleeper = (waited) =>
+const sleep: Sleeper = (waited) =>
   new Promise((settle) => {
     setTimeout(settle, waited)
   })

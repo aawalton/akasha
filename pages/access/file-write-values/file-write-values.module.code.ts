@@ -66,13 +66,13 @@ export function statedId(values: Readonly<Record<string, Value>>): string | null
   return typeof held === "string" && held !== "" ? held : null
 }
 
-export function declaredKeysOf(
+function declaredKeysOf(
   declarations: readonly { readonly key: string }[] | null
 ): ReadonlyMap<string, string> {
   return new Map((declarations ?? []).map((one) => [camelizeKey(one.key), one.key]))
 }
 
-export function fileValuesOf(
+function fileValuesOf(
   op: string,
   pageTypeSlug: string,
   input: Readonly<Record<string, unknown>>,

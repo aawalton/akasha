@@ -64,7 +64,7 @@ type Known = {
   readonly bare: ReadonlyMap<string, Shape | null>
 }
 
-export function typesAtOf(pageTypePath: string): string | null {
+function typesAtOf(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
 }
 
@@ -91,7 +91,7 @@ export function resolvingIn(shadow: Shadow): (named: string) => Shape | null {
   }
 }
 
-export function parentsFor(shadow: Shadow, value: Record<string, unknown>): readonly Taken[] {
+function parentsFor(shadow: Shadow, value: Record<string, unknown>): readonly Taken[] {
   const found: Taken[] = []
   for (const slug of slugsIn(value[ABOVE])) {
     const listed = shadow.index.listedAt(PAGE_TYPE, slug)[0]
@@ -154,7 +154,7 @@ function importsOf(slug: string, taken: readonly Taken[]): readonly string[] {
     .map(([spec, held]) => `import type { ${held.sort().join(", ")} } from ${saidAs(spec)}`)
 }
 
-export function bodyFor(slug: string, parents: readonly Taken[], keys: readonly Key[]): string {
+function bodyFor(slug: string, parents: readonly Taken[], keys: readonly Key[]): string {
   const imports = importsOf(slug, [...parents, ...keys])
   const head = [...parents.map((one) => calledIn(slug, one.typeName)), "{"].join(" & ")
   const lines = [

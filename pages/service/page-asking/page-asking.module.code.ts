@@ -133,7 +133,7 @@ export function titledAs(propertySlug: string): string {
     .join(" ")
 }
 
-export function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
+function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
   return {
     key: one.propertySlug,
     type: one.pageTypeSlug,

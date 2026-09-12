@@ -40,11 +40,11 @@ export async function finishInferenceRun(
   )
 }
 
-export function openedSaid(pageId: string): string {
+function openedSaid(pageId: string): string {
   return `opened run ${pageId} in the \`${generationLogSlug()}\` log`
 }
 
-export function closedSaid(pageId: string, status: string): string {
+function closedSaid(pageId: string, status: string): string {
   return `closed run ${pageId} as ${status}`
 }
 

@@ -15,7 +15,7 @@ export type BadgeVariant = (typeof BADGE_VARIANTS)[number]
 
 export const badgeVariantSchema = z.enum(BADGE_VARIANTS)
 
-export const COLOR_RULE_VARIANTS = [
+const COLOR_RULE_VARIANTS = [
   "default",
   "green",
   "blue",

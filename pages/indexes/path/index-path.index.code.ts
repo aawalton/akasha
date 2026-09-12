@@ -42,11 +42,11 @@ export function pathAt(at: string): string {
   return at.slice(PATH.length + 1, -ENDING.length)
 }
 
-export function fileFor(at: string): string {
+function fileFor(at: string): string {
   return join(PATH, `${at}${ENDING}`)
 }
 
-export function claimedIn(
+function claimedIn(
   value: Value,
   path: string,
   repo: string,

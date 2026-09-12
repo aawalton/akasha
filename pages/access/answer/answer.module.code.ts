@@ -14,9 +14,9 @@ import type { Asked } from "akasha/pages/service/page-asking/page-asking.module.
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
-export const LISTING_CEILING = 5_000
+const LISTING_CEILING = 5_000
 
-export const DEFINITIONS_AT_ONCE = 4
+const DEFINITIONS_AT_ONCE = 4
 
 const PAGE_TYPE = "page-type"
 

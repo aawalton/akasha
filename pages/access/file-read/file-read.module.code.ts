@@ -55,7 +55,7 @@ const ALSO_READ: Readonly<Record<string, string>> = {
   lastViewedAt: "last_viewed_at",
 }
 
-export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
+function pageOf(raw: Readonly<Record<string, unknown>>): Page {
   const page = flattenRow({ ...raw })
   const alsoRead: Record<string, Json> = {}
   for (const [key, column] of Object.entries(ALSO_READ)) {

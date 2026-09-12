@@ -1,7 +1,7 @@
 import { type FSWatcher, readdirSync, readFileSync, watch } from "node:fs"
 import { dirname, join } from "node:path"
 
-export const SETTLE_MS = 1_000
+const SETTLE_MS = 1_000
 
 const GONE = "gone"
 

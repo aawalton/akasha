@@ -151,7 +151,7 @@ export function grounded(): Pair {
   return { tree, root }
 }
 
-export function aWrittenWorld(): Pair {
+function aWrittenWorld(): Pair {
   const { tree, root } = bare()
   const indexing = indexingAt(root, tree)
   for (const [at, value] of VOCABULARY)
@@ -252,7 +252,7 @@ export function aWorldDeclaringNothing(): Pair {
   return held
 }
 
-export function uniqueKindRespelled(unique: string): readonly string[] {
+function uniqueKindRespelled(unique: string): readonly string[] {
   const { tree, root } = grounded()
   const at = join(tree, "id.text-property.ts")
   const moving = [{ path: at, before: bodyOf(idPage), after: bodyOf({ ...idPage, unique }) }]

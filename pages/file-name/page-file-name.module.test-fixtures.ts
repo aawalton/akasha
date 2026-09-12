@@ -17,7 +17,7 @@ export const PORTRAIT = new Set<string>(["portrait"])
 
 export const PATCH = new Set<string>(["code", "test", "patch"])
 
-export const ITEMS = new Set<string>(["items", "quests", "part2"])
+const ITEMS = new Set<string>(["items", "quests", "part2"])
 
 export const MINE = "akasha/one/eso.temper-mine"
 

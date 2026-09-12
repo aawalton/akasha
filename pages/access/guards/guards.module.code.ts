@@ -11,7 +11,7 @@ function isDefinitionTierSlug(slug: string | undefined): slug is DefinitionTierS
 
 type PipelineSeqLike = number | string
 
-export class DefinitionTierWriteError extends Error {
+class DefinitionTierWriteError extends Error {
   readonly slug: string
   constructor(slug: string, op: string) {
     const replacement =
@@ -28,7 +28,7 @@ export function rejectDefinitionTier(slug: string, op: string): undefined {
   if (isDefinitionTierSlug(slug)) throw new DefinitionTierWriteError(slug, op)
 }
 
-export class PageTypeNotFileBacked extends Error {
+class PageTypeNotFileBacked extends Error {
   readonly slug: string
   constructor(op: string, slug: string) {
     super(
@@ -44,7 +44,7 @@ export async function requireFileBacked(op: string, slug: string): Promise<undef
   throw new PageTypeNotFileBacked(op, slug)
 }
 
-export class ReservedKeyError extends Error {
+class ReservedKeyError extends Error {
   readonly kind = "read-only" as const
   readonly key: string
   constructor(op: string, key: string) {
@@ -62,7 +62,7 @@ export function rejectReadOnlyKeys(op: string, properties: Record<string, unknow
 
 const TAGS_KEY = "tags"
 
-export class WholesaleTagsSetError extends Error {
+class WholesaleTagsSetError extends Error {
   readonly kind = "wholesale-tags-set" as const
   constructor(op: string) {
     super(
@@ -76,7 +76,7 @@ export function rejectWholesaleTagsSet(op: string, set: Record<string, unknown>)
   if (TAGS_KEY in set) throw new WholesaleTagsSetError(op)
 }
 
-export class ScopePolicyError extends Error {
+class ScopePolicyError extends Error {
   readonly allowedPipelineSeq: PipelineSeqLike
   readonly offeredPipelineSeq: PipelineSeqLike | undefined
   constructor(op: string, allowed: PipelineSeqLike, offered: PipelineSeqLike | undefined) {
