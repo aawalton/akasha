@@ -1,10 +1,10 @@
 import { resolveSlot, scan } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
+import { seatRoster } from "akasha/agents/seats/modules/roster/seat-roster.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { seatRoster } from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
 
 export interface SeatRow {
   readonly id: string

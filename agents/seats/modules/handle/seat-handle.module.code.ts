@@ -1,10 +1,10 @@
-import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   type Seated,
   seatRoster,
   seatsStanding,
-} from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
+} from "akasha/agents/seats/modules/roster/seat-roster.module.code.ts"
+import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
