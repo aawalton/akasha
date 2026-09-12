@@ -93,7 +93,6 @@ export const command = {
     "namespace/google",
     "command/deploy",
     "module/folder-linking",
-    "module/body-loading",
     "module/change-ceiling",
     "module/install-linking",
     "module/unit-landing",

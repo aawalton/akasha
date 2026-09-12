@@ -65,6 +65,7 @@ export const code = {
     "module/path-runs",
     "module/script-paths",
     "module/folder-spelling",
+    "module/body-loading",
   ],
   invariants: [
     {

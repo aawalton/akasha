@@ -1,11 +1,7 @@
 import { basename } from "node:path"
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyFor, type Held, heldOver } from "akasha/code/body-loading/body-loading.module.code.ts"
 import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
-import {
-  bodyFor,
-  type Held,
-  heldOver,
-} from "akasha/commands/modules/body-loading/body-loading.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
