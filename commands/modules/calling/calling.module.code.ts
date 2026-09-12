@@ -30,6 +30,7 @@ import {
   typeSlugById,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 
 export type Kind = {
   readonly slug: string
@@ -305,6 +306,11 @@ export function namespaceSlugIn(root: string): string | null {
   return indexThere(root) ? typeSlugById(root, NAMESPACE_TYPE) : null
 }
 
+function namedIn(root: string, every: readonly string[]): readonly string[] {
+  const type = namespaceSlugIn(root)
+  return type === null ? every : [...every, ...slugsOfType(root, type)]
+}
+
 function saidOfPart(root: string, part: string): string | null {
   const slug = slugOfPart(part)
   for (const type of [commandSlugIn(root), namespaceSlugIn(root)]) {
@@ -344,9 +350,9 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   if (unread !== null && refreshNamed(argv)) {
     return indexRefresh(argv.slice(ROOTED_WORDS.length), { ...outside, root })
   }
-  const carried = (saying: () => string): Answer => {
+  const carried = (saying: (every: readonly string[]) => string): Answer => {
     const every = commandsIn(root)
-    const held = [saying()]
+    const held = [saying(every)]
     if (unread !== null) held.push(unread)
     if (every.length > 0) {
       held.push(
@@ -366,9 +372,9 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     const listing =
       under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
     if (listing !== null) return { report: listing, refusals: [], code: 0 }
-    return carried(() =>
+    return carried((every) =>
       unread === null
-        ? `\`${named}\` is no command akasha carries.`
+        ? `\`${named}\` is no command akasha carries.${meantSaid(named, namedIn(root, every))}`
         : `\`${named}\` was looked for and not read.`
     )
   }

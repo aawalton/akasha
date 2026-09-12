@@ -113,6 +113,11 @@ export const calling = {
     {
       invariantKind: "departure",
       statement:
+        "Such a name near a command's or a namespace's is refused with that name pointed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A name a namespace has rather than a command is answered with what that namespace holds.",
     },
     {
