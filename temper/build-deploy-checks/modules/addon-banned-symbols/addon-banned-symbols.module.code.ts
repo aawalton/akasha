@@ -10,7 +10,7 @@ import {
   ESO_WHOLLY_STRIPPED_NAMESPACES,
 } from "akasha/temper/build-deploy-checks/eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts"
 import { scanningBundleFile } from "akasha/temper/build-deploy-checks/modules/bundle-file-scan/bundle-file-scan.module.code.ts"
-import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 
 const MATCH_GROUPS_SCHEMA = z

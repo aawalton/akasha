@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 
 test("a literal is escaped before becoming a pattern", () => {
   expect(escapeRegExp("a.b*c")).toBe("a\\.b\\*c")

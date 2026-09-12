@@ -1,4 +1,3 @@
-import { ESO_BAG_WORN } from "akasha/temper/items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
@@ -11,6 +10,7 @@ import {
   type LocationTypeId,
   locationTypes,
 } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
+import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 
 export interface ItemLocationEntry {
   locationKey: string

@@ -1,5 +1,5 @@
-import { ESO_BAG_WORN } from "akasha/temper/items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,

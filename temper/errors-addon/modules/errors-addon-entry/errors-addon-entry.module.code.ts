@@ -1,4 +1,4 @@
-import { ERRORS_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-errors/errors-descriptor/errors-descriptor.module.code.ts"
+import { ERRORS_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-errors/modules/errors-descriptor/errors-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
 import {
   flushBuffered,

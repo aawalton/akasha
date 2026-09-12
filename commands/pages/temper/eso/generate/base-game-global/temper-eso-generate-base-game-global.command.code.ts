@@ -25,13 +25,13 @@ import { temperEsoGenerateBaseGameGlobal as page } from "akasha/commands/pages/t
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
-  extractGlobalNames,
-  extractStringIdNames,
-} from "akasha/temper/commands/eso-base-game-globals/eso-base-game-globals.module.code.ts"
-import {
   saidShort,
   stagingAt,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
+  extractGlobalNames,
+  extractStringIdNames,
+} from "akasha/temper/commands/modules/eso-base-game-globals/eso-base-game-globals.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,

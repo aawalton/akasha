@@ -1,5 +1,5 @@
-import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 
 interface MatchHead {

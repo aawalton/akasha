@@ -1,4 +1,4 @@
-import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 
 const TOP_LEVEL_CLOSE = /^\}/
 
