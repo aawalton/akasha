@@ -44,7 +44,10 @@ import { rootSelector } from "akasha/commands/arguments/pages/root-selector.argu
 import { signInPath as signInPathArgument } from "akasha/commands/arguments/pages/sign-in-path.argument.ts"
 import { timeoutMs } from "akasha/commands/arguments/pages/timeout-ms.argument.ts"
 import { url } from "akasha/commands/arguments/pages/url.argument.ts"
-import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answeredWith,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { browserTestVerifyRender as page } from "akasha/commands/pages/browser/test-verify-render/browser-test-verify-render.command.ts"
 
@@ -385,16 +388,16 @@ export async function browserTestVerifyRender(
     const why =
       `the sign-in page had not hydrated within ${wanted.timeout}ms, so the render was never ` +
       "observed — a healthy page under load rather than a broken one"
-    return {
-      report: toldOf(
+    return answeredWith(
+      toldOf(
         { verdict: "INDETERMINATE", reason: why },
         { url: at, pageType: pageTypeSlug, httpStatus: 0 },
         null,
         asJson
       ),
-      refusals: [why],
-      code: INDETERMINATE,
-    }
+      [why],
+      INDETERMINATE
+    )
   }
 
   try {
@@ -402,11 +405,11 @@ export async function browserTestVerifyRender(
     const verdict = decideDeployedRenderVerdict(seen.observation)
     const where = { url: at, pageType: pageTypeSlug, httpStatus: seen.status }
     const code = codeOf(verdict.verdict)
-    return {
-      report: toldOf(verdict, where, seen.observation, asJson),
-      refusals: code === 0 ? [] : [verdict.reason],
-      code,
-    }
+    return answeredWith(
+      toldOf(verdict, where, seen.observation, asJson),
+      code === 0 ? [] : [verdict.reason],
+      code
+    )
   } finally {
     await session.teardown()
   }

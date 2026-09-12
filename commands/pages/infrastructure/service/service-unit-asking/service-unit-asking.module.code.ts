@@ -1,9 +1,10 @@
 import {
   DATA,
   INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { systemctl } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
@@ -17,7 +18,7 @@ export type Named = {
   readonly dryRun: boolean
 }
 
-export function asked(told: string, named: Named, given: Given): Answer {
+export function asked(act: string, named: Named, given: Given): Answer {
   const slug = named.workstationService
   const read = readFor(given.root, slug)
   if ("unnamed" in read) return refused(read.unnamed, INPUT)
@@ -28,11 +29,11 @@ export function asked(told: string, named: Named, given: Given): Answer {
   }
 
   const unit = installedUnitName(found)
-  if (named.dryRun) return { report: [`${told}\t${unit}`, NOT_ASKED], refusals: [], code: OK }
+  if (named.dryRun) return told([`${act}\t${unit}`, NOT_ASKED])
 
-  const done = systemctl([told, unit])
+  const done = systemctl([act, unit])
   if (done.code !== 0) {
-    return { report: [], refusals: [`${unit} was refused: ${done.out}`], code: OPERATIONAL }
+    return refusedBy([`${unit} was refused: ${done.out}`], OPERATIONAL)
   }
-  return { report: [`${told}\t${unit}`], refusals: [], code: OK }
+  return told([`${act}\t${unit}`])
 }

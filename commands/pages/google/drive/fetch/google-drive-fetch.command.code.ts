@@ -4,6 +4,7 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { driveFile } from "akasha/commands/arguments/pages/drive-file.argument.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
+  answeredWith,
   codeOf,
   DATA,
   INPUT,
@@ -77,7 +78,7 @@ export async function wroteFile(
 export function fetchRefused(thrown: unknown, fileId: string, done: readonly string[]): Answer {
   const said = reachSaid(thrown, fileId) ?? refused(whyOf(thrown), codeOf(thrown))
   if (done.length === 0) return said
-  return { report: [...done], refusals: [...said.refusals, ...partWay(done)], code: said.code }
+  return answeredWith([...done], [...said.refusals, ...partWay(done)], said.code)
 }
 
 async function fetching(
