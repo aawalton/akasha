@@ -50,9 +50,12 @@ test("a page stating what a command takes has a surface", () => {
   })
 })
 
-test("the argument names a page states are read off it", () => {
+test("an entry's name and how that command takes it are both read off the entry", () => {
   expect(argumentsIn({ arguments: [{ argument: "argument/json", required: false }] })).toEqual([
-    "argument/json",
+    { argument: "argument/json", saidAs: null },
+  ])
+  expect(argumentsIn({ arguments: [{ argument: "argument/node", saidAs: "word" }] })).toEqual([
+    { argument: "argument/node", saidAs: "word" },
   ])
   expect(argumentsIn({ arguments: [{ required: true }, "held", null, 1] })).toEqual([])
   expect(argumentsIn({ arguments: "held" })).toEqual([])

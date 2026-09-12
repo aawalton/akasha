@@ -14,7 +14,8 @@ export const argumentNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What is read of an argument is how it is said and what it is for.",
+      statement:
+        "What is read of an argument is how it is spelled, what it carries and what it is for.",
     },
     {
       invariantKind: "departure",
@@ -39,6 +40,34 @@ export const argumentNaming = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes a help answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument is written down the way the command naming it lets a call fill it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument taken at its flag is written down as that flag and its placeholder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument stating no placeholder is written down as its flag alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument taken as a word is written down as its placeholder alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word argument stating no placeholder is written down by its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument taken either way is written down as a word and then at its flag.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A placeholder is written in the angle brackets a page leaves off it.",
     },
   ],
 } as const satisfies Module

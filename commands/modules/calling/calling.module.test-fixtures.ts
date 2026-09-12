@@ -231,6 +231,7 @@ export type Taken = {
   readonly slug: string
   readonly said?: string
   readonly takes?: string
+  readonly placeholder?: string
 }
 
 export function argumentsFiled(root: string, taken: readonly Taken[]): undefined {
@@ -247,7 +248,14 @@ export function argumentsFiled(root: string, taken: readonly Taken[]): undefined
     valueAlsoFiled(root, ARGUMENT, [
       {
         path: at,
-        value: { id, pageTypeSlug: ARGUMENT, slug: one.slug, said: one.said, takes: one.takes },
+        value: {
+          id,
+          pageTypeSlug: ARGUMENT,
+          slug: one.slug,
+          said: one.said,
+          takes: one.takes,
+          placeholder: one.placeholder,
+        },
       },
     ])
   }

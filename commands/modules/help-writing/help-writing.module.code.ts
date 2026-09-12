@@ -11,6 +11,8 @@ const ARGUMENTS = "arguments"
 
 const ARGUMENT = "argument"
 
+const SAID_AS = "saidAs"
+
 const INVARIANTS = "invariants"
 
 const STATEMENT = "statement"
@@ -51,14 +53,22 @@ export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<
   return { holds, notYet: later }
 }
 
-export function argumentsIn(page: Record<string, unknown>): readonly string[] {
+export type Naming = {
+  readonly argument: string
+  readonly saidAs: string | null
+}
+
+export function argumentsIn(page: Record<string, unknown>): readonly Naming[] {
   const held = page[ARGUMENTS]
   if (!Array.isArray(held)) return []
-  const named: string[] = []
+  const named: Naming[] = []
   for (const one of held) {
     if (typeof one !== "object" || one === null) continue
-    const said = (one as Record<string, unknown>)[ARGUMENT]
-    if (typeof said === "string") named.push(said)
+    const entry = one as Record<string, unknown>
+    const said = entry[ARGUMENT]
+    if (typeof said !== "string") continue
+    const how = entry[SAID_AS]
+    named.push({ argument: said, saidAs: typeof how === "string" ? how : null })
   }
   return named
 }

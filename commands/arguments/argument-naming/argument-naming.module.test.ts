@@ -16,15 +16,49 @@ const JSON_LINE = {
 
 const DRY_RUN = { said: "--dry-run", takes: "judge what the act would land and write nothing" }
 
+const NODE = { said: "--node", takes: "the node acted on, as the node table names it" }
+
+const RULE = { said: "--rule", takes: "the rule acted on" }
+
 function rooted(): string {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   argumentsFiled(root, [
     { slug: "json", ...JSON_LINE },
     { slug: "dry-run", ...DRY_RUN },
+    { slug: "node", ...NODE, placeholder: "id" },
+    { slug: "rule", ...RULE },
     { slug: "unsaid" },
   ])
   return root
 }
+
+test("an argument taken at its flag is written down as that flag and its placeholder", () => {
+  expect(argumentsNamed(rooted(), { arguments: [{ argument: "argument/node" }] })).toEqual([
+    { said: "--node <id>", takes: NODE.takes },
+  ])
+})
+
+test("an argument stating no placeholder is written down as its flag alone", () => {
+  expect(argumentsNamed(rooted(), { arguments: [{ argument: "argument/rule" }] })).toEqual([RULE])
+})
+
+test("an argument taken as a word is written down as its placeholder alone", () => {
+  const page = { arguments: [{ argument: "argument/node", saidAs: "word" }] }
+  expect(argumentsNamed(rooted(), page)).toEqual([{ said: "<id>", takes: NODE.takes }])
+})
+
+test("a word argument stating no placeholder is written down by its slug", () => {
+  const page = { arguments: [{ argument: "argument/rule", saidAs: "word" }] }
+  expect(argumentsNamed(rooted(), page)).toEqual([{ said: "<rule>", takes: RULE.takes }])
+})
+
+test("an argument taken either way is written down as a word and then at its flag", () => {
+  const page = { arguments: [{ argument: "argument/node", saidAs: "flag-or-word" }] }
+  expect(argumentsNamed(rooted(), page)).toEqual([
+    { said: "<id>", takes: NODE.takes },
+    { said: "--node <id>", takes: NODE.takes },
+  ])
+})
 
 test("an argument is read by the slug after the page type, as how it is said and what it is for", () => {
   expect(argumentsNamed(rooted(), { arguments: [{ argument: "argument/json" }] })).toEqual([

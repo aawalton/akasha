@@ -109,5 +109,9 @@ export const helpWriting = {
       invariantKind: "absence",
       statement: "Nothing here loads a page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An entry's name and how that command takes it are both read off the entry.",
+    },
   ],
 } as const satisfies Module

@@ -14,8 +14,20 @@ const SAID = "said"
 
 const TAKES = "takes"
 
-export function linesIn(root: string): ReadonlyMap<string, Taking[number]> {
-  const found = new Map<string, Taking[number]>()
+const PLACEHOLDER = "placeholder"
+
+const WORD = "word"
+
+const FLAG_OR_WORD = "flag-or-word"
+
+export type Said = {
+  readonly said: string
+  readonly takes: string
+  readonly placeholder: string | null
+}
+
+export function linesIn(root: string): ReadonlyMap<string, Said> {
+  const found = new Map<string, Said>()
   const type = typeSlugById(root, ARGUMENT_TYPE)
   if (type === null) return found
   for (const one of valuesOfType(root, type)) {
@@ -23,9 +35,30 @@ export function linesIn(root: string): ReadonlyMap<string, Taking[number]> {
     const said = one.value[SAID]
     const takes = one.value[TAKES]
     if (typeof slug !== "string" || typeof said !== "string" || typeof takes !== "string") continue
-    found.set(slug, { said, takes })
+    const shown = one.value[PLACEHOLDER]
+    found.set(slug, { said, takes, placeholder: typeof shown === "string" ? shown : null })
   }
   return found
+}
+
+function asAWord(slug: string, one: Said): string {
+  return `<${one.placeholder ?? slug}>`
+}
+
+function atAFlag(one: Said): string {
+  return one.placeholder === null ? one.said : `${one.said} <${one.placeholder}>`
+}
+
+function spelt(slug: string, one: Said, saidAs: string | null): Taking {
+  const takes = one.takes
+  if (saidAs === WORD) return [{ said: asAWord(slug, one), takes }]
+  if (saidAs === FLAG_OR_WORD) {
+    return [
+      { said: asAWord(slug, one), takes },
+      { said: atAFlag(one), takes },
+    ]
+  }
+  return [{ said: atAFlag(one), takes }]
 }
 
 export function argumentsNamed(root: string, page: Record<string, unknown> | null): Taking {
@@ -35,8 +68,9 @@ export function argumentsNamed(root: string, page: Record<string, unknown> | nul
   const lines = linesIn(root)
   const held: Taking[number][] = []
   for (const part of named) {
-    const one = lines.get(slugOfPart(part))
-    if (one !== undefined) held.push(one)
+    const slug = slugOfPart(part.argument)
+    const one = lines.get(slug)
+    if (one !== undefined) held.push(...spelt(slug, one, part.saidAs))
   }
   return held
 }
