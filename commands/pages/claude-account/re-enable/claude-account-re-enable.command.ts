@@ -9,14 +9,11 @@ export const claudeAccountReEnable = {
   code: "ts",
   changeKind: "change-mechanical",
   taking: [{ said: "<account>", takes: "the account to put back, named as its page is named" }],
-  helpNotes: [
-    "an account is shut out when the gateway finds its subscription inactive, and the reason it found is kept beside the account's page.",
-    "this clears that reason, and the picker counts the account again from the next ask.",
-    "the gateway clears the reason itself when it next finds the subscription active, so this is for putting an account back before that happens rather than instead of it.",
-    "an account that was never shut out is answered as already standing rather than refused.",
-    "the reason is kept beside the page rather than in it, so clearing it commits nothing.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The picker counts the account again from the next ask.",
+    },
     {
       invariantKind: "departure",
       statement: "One call names one account.",
