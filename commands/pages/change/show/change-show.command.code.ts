@@ -12,12 +12,14 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+import {
+  noPageSaid,
+  stalling,
+} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   argumentsIn,
   worldFor,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   ANSWER_CEILING,
   countLines,
@@ -85,7 +87,7 @@ export function showing(given: Given, taken: Arguments): Answer {
   try {
     text = worldFor(given.root, kept.rows, before).textOf(path)
   } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
+    return stalling(given.root, kept.rows, thrown)
   }
   if (text === null) return mistaking([`\`${path}\` ${NOTHING}`])
   const bytes = BYTES.encode(text)

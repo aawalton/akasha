@@ -131,6 +131,10 @@ export const changeShow = {
     },
     {
       invariantKind: "departure",
+      statement: "A show whose edits kept will not replay is refused by the edit that went stale.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key other than `at` is refused rather than passed over.",
     },
   ],
