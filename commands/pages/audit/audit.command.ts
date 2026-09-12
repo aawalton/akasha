@@ -8,12 +8,7 @@ export const audit = {
     "the command answering every check that runs at audit, over every file this repository has",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--check <slug>",
-      takes: "a check the round runs beyond the ones the audit phase names",
-    },
-  ],
+  taking: [],
 
   timeout: null,
   invariants: [
@@ -146,4 +141,5 @@ export const audit = {
     { invariantKind: "departure", statement: "`--check` is named again for each check asked for." },
   ],
   name: "audit",
+  arguments: [{ argument: "argument/check" }],
 } as const satisfies Command
