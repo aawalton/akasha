@@ -11,15 +11,18 @@ export const temperInventoryBankProfile = {
     { said: "--inventory-path <path>", takes: "the saved-variables file the capture is read from" },
     { said: "--json", takes: "give the whole capture as JSON rather than as text" },
   ],
-  helpNotes: [
-    "the capture rolls up cost by source and names the costliest closures by inclusive and by self time.",
-    "the total time in Lua is reported beside the time spent collecting garbage.",
-    "a file holding no capture is refused rather than read as an empty one.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The capture read is the most recent capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The capture rolls up cost by source.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The capture names the costliest closures by inclusive time and by self time.",
     },
     {
       invariantKind: "departure",
