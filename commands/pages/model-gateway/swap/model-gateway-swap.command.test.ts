@@ -4,7 +4,6 @@ import {
   JSON_OUT,
   readIn,
 } from "akasha/commands/pages/model-gateway/swap/model-gateway-swap.command.code.ts"
-import { modelGatewaySwap } from "akasha/commands/pages/model-gateway/swap/model-gateway-swap.command.ts"
 
 function swapRefused(argv: readonly string[]): string {
   const said = readIn(argv)
@@ -36,8 +35,4 @@ test("a seat named alone is read as the seat said", () => {
 test("the fleet flag and the json flag are read together", () => {
   const said = readIn([FLEET, JSON_OUT])
   expect("refused" in said ? false : said.on.has(JSON_OUT)).toBe(true)
-})
-
-test("the page says the swap is mechanical", () => {
-  expect(modelGatewaySwap.changeKind).toBe("change-mechanical")
 })

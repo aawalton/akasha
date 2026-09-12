@@ -7,7 +7,6 @@ export const domainDeclarationList = {
   definition: "the command handing over every domain and persona page whole, as JSON",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--subject <subject>",

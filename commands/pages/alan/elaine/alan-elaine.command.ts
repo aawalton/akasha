@@ -7,7 +7,6 @@ export const alanElaine = {
   definition: "the command reading what Apple Health recorded about Alan's body",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--days <n>",

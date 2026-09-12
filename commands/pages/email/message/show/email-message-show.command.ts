@@ -6,7 +6,6 @@ export const emailMessageShow = {
   slug: "email-message-show",
   definition: "the command fetching one Gmail message whole, its plain-text body decoded",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },

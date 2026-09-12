@@ -7,7 +7,6 @@ export const alanFood = {
   definition: "the command filing one food Alan ate onto the day that food counts to",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<title>", takes: "the food's short name, said here or with `--title`" },
     { said: "--title <name>", takes: "the food's short name, in place of the first word" },

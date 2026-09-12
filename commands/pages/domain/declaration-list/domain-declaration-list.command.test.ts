@@ -32,7 +32,6 @@ test("a flag wanting a word and given none is refused", () => {
   expect(refusedIn([SUBJECT])).toContain("nothing followed it")
 })
 
-test("the page says it writes nothing and takes one flag", () => {
-  expect(domainDeclarationList.changeKind).toBe("change-none")
+test("the page takes one flag", () => {
   expect(domainDeclarationList.taking.map((one) => one.said)).toEqual([`${SUBJECT} <subject>`])
 })

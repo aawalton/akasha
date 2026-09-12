@@ -7,7 +7,6 @@ export const agentForest = {
   definition: "the command answering the seats a seat tree is drawn from, as one JSON object",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   parts: ["module/no-word-reading"],
   taking: [],
   helpNotes: [

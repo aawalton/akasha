@@ -6,7 +6,6 @@ export const emailMessageTrash = {
   slug: "email-message-trash",
   definition: "the command moving one Gmail message to Trash",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },

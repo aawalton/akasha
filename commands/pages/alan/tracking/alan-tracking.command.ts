@@ -9,7 +9,6 @@ export const alanTracking = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--file-path <path>", takes: "a path under the tracked trees to write" },
     { said: "--content-file <file>", takes: "the body that lands at the --file-path before it" },

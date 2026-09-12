@@ -7,7 +7,6 @@ export const claudeAccountAdd = {
   definition:
     "the command filing a page for a claude account and giving it the next free alias slot",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<account>", takes: "the name the account is to be reached by" },
     { said: "--email <address>", takes: "the address the account signs in as" },

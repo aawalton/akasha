@@ -5,7 +5,6 @@ import {
   readIn,
   shortOf,
 } from "akasha/commands/pages/model-gateway/status/model-gateway-status.command.code.ts"
-import { modelGatewayStatus } from "akasha/commands/pages/model-gateway/status/model-gateway-status.command.ts"
 
 function statusRefusals(argv: readonly string[]): readonly string[] {
   const said = readIn(argv)
@@ -43,8 +42,4 @@ test("a version is shortened, and a version that will not read is shown as a das
   expect(shortOf("0123456789abcdef")).toBe("0123456789ab")
   expect(shortOf(null)).toBe("—")
   expect(shortOf("")).toBe("—")
-})
-
-test("the page says it writes nothing", () => {
-  expect(modelGatewayStatus.changeKind).toBe("change-none")
 })

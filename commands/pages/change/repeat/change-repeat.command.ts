@@ -7,7 +7,6 @@ export const changeRepeat = {
   definition: "the command applying one change batch after batch until a batch lands nothing",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   timeout: null,
   invariants: [
     {

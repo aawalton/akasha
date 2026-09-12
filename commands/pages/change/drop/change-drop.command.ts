@@ -7,7 +7,6 @@ export const changeDrop = {
   definition: "the command taking kept edits away without landing any of them",
   code: "ts",
   test: "ts",
-  changeKind: "change-authored",
   invariants: [
     {
       invariantKind: "departure",

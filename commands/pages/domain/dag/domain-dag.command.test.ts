@@ -52,7 +52,6 @@ test("--domain and --up are each repeatable", () => {
   expect(wanted.above).toEqual(["three"])
 })
 
-test("the page says it writes nothing and names the module it draws with", () => {
-  expect(domainDag.changeKind).toBe("change-none")
+test("the page names the module it draws with", () => {
   expect(domainDag.parts).toContain("module/domain-drawing")
 })

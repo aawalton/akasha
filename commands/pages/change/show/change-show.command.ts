@@ -7,7 +7,6 @@ export const changeShow = {
   definition: "the command answering the body a path would have once this agent's kept edits land",
   code: "ts",
   test: "ts",
-  changeKind: "change-authored",
 
   invariants: [
     {

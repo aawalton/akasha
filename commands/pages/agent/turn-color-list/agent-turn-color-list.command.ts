@@ -8,7 +8,6 @@ export const agentTurnColorList = {
     "the command answering the color each named agent, or each named turn state, is drawn in",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<agent id>", takes: "an agent to answer for, said as a bare word. Repeatable." },
     {

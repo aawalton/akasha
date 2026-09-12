@@ -7,7 +7,6 @@ export const changeList = {
   definition: "the command naming the edits an agent keeps and has not landed",
   code: "ts",
   test: "ts",
-  changeKind: "change-authored",
 
   invariants: [
     {

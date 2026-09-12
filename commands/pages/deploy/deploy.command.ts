@@ -8,7 +8,6 @@ export const deploy = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKind: "change-none",
   timeout: 300,
   parts: [
     "module/deploy-check-judging",

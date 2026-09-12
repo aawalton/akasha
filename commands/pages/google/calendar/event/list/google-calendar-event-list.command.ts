@@ -6,7 +6,6 @@ export const googleCalendarEventList = {
   slug: "google-calendar-event-list",
   definition: "the command answering the events a calendar holds in a window",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--calendar <id>",

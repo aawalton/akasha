@@ -6,7 +6,6 @@ export const googleCalendarEventCreate = {
   slug: "google-calendar-event-create",
   definition: "the command placing a new event and inviting everyone named on it",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--calendar <id>",

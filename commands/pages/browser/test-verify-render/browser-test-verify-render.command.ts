@@ -7,7 +7,6 @@ export const browserTestVerifyRender = {
   definition:
     "the command telling a rendered page on a deployed site from a failure and from an empty shell",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--url <origin>", takes: "the deployed origin the page is fetched from" },
     { said: "--path <path>", takes: "the path under that origin" },

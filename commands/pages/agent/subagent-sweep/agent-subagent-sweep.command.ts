@@ -9,7 +9,6 @@ export const agentSubagentSweep = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKind: "change-mechanical",
   taking: [{ said: "--remove", takes: "take away the pages this run judged stale" }],
   invariants: [
     {

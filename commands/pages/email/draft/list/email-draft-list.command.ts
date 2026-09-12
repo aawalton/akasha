@@ -6,7 +6,6 @@ export const emailDraftList = {
   slug: "email-draft-list",
   definition: "the command naming the id, message and thread of each draft in the mailbox",
   code: "ts",
-  changeKind: "change-none",
   taking: [{ said: "--max <n>", takes: "how many drafts to answer with at most" }],
 
   invariants: [

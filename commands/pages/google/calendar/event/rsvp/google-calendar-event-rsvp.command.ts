@@ -6,7 +6,6 @@ export const googleCalendarEventRsvp = {
   slug: "google-calendar-event-rsvp",
   definition: "the command setting Alan's own response on one event",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the event to act on, said in place" },
     { said: "--event <id>", takes: "the event to act on, said as a flag rather than in place" },

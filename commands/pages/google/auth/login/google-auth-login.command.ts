@@ -7,7 +7,6 @@ export const googleAuthLogin = {
   definition:
     "the command granting the consent Google is reached as Alan on, for calendar, drive and mail",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--callback-url <url>",
