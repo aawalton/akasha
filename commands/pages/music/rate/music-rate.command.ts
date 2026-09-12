@@ -26,15 +26,15 @@ export const musicRate = {
     { said: "--insights-file <file>", takes: "a file the insights are read from" },
     { said: "--json", takes: "give what was recorded as JSON rather than as a line" },
   ],
-  helpNotes: [
-    "a page is named by its slug, which is what `music-next` gives back.",
-    "`--reaction` belongs to an artist, and `--personal-connections` and `--insights` belong to a song.",
-    "a call recording nothing is refused, so name a rating or one of the prose flags.",
-    "each prose flag has a `-file` twin reading the same value off a file, and one call says one of the two.",
-    "the prose lands in a file beside the page rather than in the page.",
-    "a rating already there is written over.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A prose flag said beside its file twin is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A grade already recorded is written over.",
+    },
     {
       invariantKind: "departure",
       statement: "A page is named by its slug.",
