@@ -1,9 +1,5 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import {
-  isMediaPageId,
-  resolveMediaPage,
-} from "akasha/alan/web/media-page/media-page.module.code.ts"
-import {
   capacitorCorsHeaders,
   corsPreflight,
   corsResponder,
@@ -11,6 +7,10 @@ import {
 import { forwardedOrigin } from "akasha/alan/web/modules/forwarded-origin/forwarded-origin.module.code.ts"
 import { ensureHlsPlaylist } from "akasha/alan/web/modules/hls-render/hls-render.module.code.ts"
 import { resolveChapterKokoroSegments } from "akasha/alan/web/modules/kokoro-render/kokoro-render.module.code.ts"
+import {
+  isMediaPageId,
+  resolveMediaPage,
+} from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
 import { rewriteHlsPlaylist } from "akasha/alan/web/rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
 import { hlsPlaylistObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
@@ -20,7 +20,7 @@ import {
 import {
   mediaTokenSecret,
   verifyMediaToken,
-} from "akasha/pages/ui/media/media-token/media-token.module.code.ts"
+} from "akasha/pages/ui/media/modules/media-token/media-token.module.code.ts"
 import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,

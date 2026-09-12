@@ -26,7 +26,7 @@ import {
 } from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
 import { PageDetailSubpages } from "akasha/pages/ui/components/page-detail-subpages/page-detail-subpages.module.code.tsx"
 import { usePageDefaultContent } from "akasha/pages/ui/components/use-page-default-content/use-page-default-content.module.code.ts"
-import { MarkdownRenderer } from "akasha/pages/ui/markdown/markdown-renderer/markdown-renderer.module.code.tsx"
+import { MarkdownRenderer } from "akasha/pages/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import {
   type PageTypeSlug,

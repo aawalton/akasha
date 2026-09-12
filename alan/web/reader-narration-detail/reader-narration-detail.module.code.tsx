@@ -1,12 +1,12 @@
 "use client"
 
-import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { PageDetailWithReadMark } from "akasha/alan/web/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
 import { useReaderActiveMarks } from "akasha/alan/web/use-reader-active-marks/use-reader-active-marks.module.code.ts"
 import {
   KOKORO_STREAM_VARIANT,
   STORED_READ_ALOUD_VARIANT,
-} from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
+} from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
 import { planPlayFromSentence } from "akasha/pages/ui/media/play-from-sentence/play-from-sentence.module.code.ts"
 import type { ActiveSessionInit } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
 import { useOptionalPlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"

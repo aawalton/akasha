@@ -1,14 +1,14 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { isMediaPageId } from "akasha/alan/web/media-page/media-page.module.code.ts"
 import {
   capacitorCorsHeaders,
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
-import { isMedium } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
+import { isMediaPageId } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
+import { isMedium } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
 import {
   mediaTokenSecret,
   mintMediaToken,
-} from "akasha/pages/ui/media/media-token/media-token.module.code.ts"
+} from "akasha/pages/ui/media/modules/media-token/media-token.module.code.ts"
 import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,

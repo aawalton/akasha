@@ -1,5 +1,5 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { resolveMediaPage } from "akasha/alan/web/media-page/media-page.module.code.ts"
+import { resolveMediaPage } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
 import { resolveFromNSentenceMarks } from "akasha/alan/web/read-aloud-marks/read-aloud-marks.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"

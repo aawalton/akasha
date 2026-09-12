@@ -1,4 +1,7 @@
-import { isMedium, type Medium } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
+import {
+  isMedium,
+  type Medium,
+} from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
 import type { ActiveSessionInit } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
 import { z } from "zod"
 

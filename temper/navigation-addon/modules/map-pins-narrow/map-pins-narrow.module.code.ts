@@ -1,8 +1,4 @@
 import type {
-  PinDef,
-  PinTag,
-} from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
-import type {
   DescMap,
   FishingBugFixTable,
   IconMap,
@@ -15,6 +11,10 @@ import type {
   StringNumberMap,
   SubzonePinTable,
 } from "akasha/temper/navigation-addon/modules/map-pins-data-types/map-pins-data-types.module.code.ts"
+import type {
+  PinDef,
+  PinTag,
+} from "akasha/temper/navigation-addon/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"
 
 type OptNumber = number | undefined
 type OptString = string | undefined

@@ -8,11 +8,11 @@ import {
   openingInstantOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   AKASHA,
   rootsNamed,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

@@ -1,9 +1,3 @@
-import { getSavedVars } from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { SKY_SHARDS_ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-sky-shards-achievements/map-pins-sky-shards-achievements.module.code.ts"
-import {
-  getPinTypeId,
-  STATE,
-} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
 import { ACHIEVEMENTS_ID } from "akasha/temper/navigation-addon/modules/map-pins-achievements-id/map-pins-achievements-id.module.code.ts"
 import { BOSSES_ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-bosses-achievements/map-pins-bosses-achievements.module.code.ts"
 import { refreshCompass } from "akasha/temper/navigation-addon/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"
@@ -12,6 +6,12 @@ import type {
   NumberMap,
 } from "akasha/temper/navigation-addon/modules/map-pins-data-types/map-pins-data-types.module.code.ts"
 import { FISHING_ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-fishing-achievements/map-pins-fishing-achievements.module.code.ts"
+import { getSavedVars } from "akasha/temper/navigation-addon/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import { SKY_SHARDS_ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-sky-shards-achievements/map-pins-sky-shards-achievements.module.code.ts"
+import {
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
 
 const achievementsId: NumberMap = ACHIEVEMENTS_ID
 const skyShardsAchievements: IdSet = SKY_SHARDS_ACHIEVEMENTS

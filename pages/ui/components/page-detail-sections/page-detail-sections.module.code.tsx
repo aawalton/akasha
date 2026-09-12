@@ -5,7 +5,7 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
-import { MarkdownRenderer } from "akasha/pages/ui/markdown/markdown-renderer/markdown-renderer.module.code.tsx"
+import { MarkdownRenderer } from "akasha/pages/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import type { ReactNode } from "react"
 
 const HEADING_TAGS = ["h2", "h3", "h4", "h5", "h6"] as const

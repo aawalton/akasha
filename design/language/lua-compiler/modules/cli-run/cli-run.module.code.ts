@@ -1,5 +1,4 @@
 #!/usr/bin/env bun
-import * as performance from "akasha/design/language/lua-compiler/measure-performance/measure-performance.module.code.ts"
 import * as cliDiagnostics from "akasha/design/language/lua-compiler/modules/cli-diagnostics/cli-diagnostics.module.code.ts"
 import {
   getHelpString,
@@ -16,6 +15,7 @@ import {
   type CompilerOptions,
   isBundleEnabled,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
+import * as performance from "akasha/design/language/lua-compiler/modules/measure-performance/measure-performance.module.code.ts"
 import { createTranspiler } from "akasha/design/language/lua-compiler/transpile-transpiler/transpile-transpiler.module.code.ts"
 import * as ts from "typescript"
 

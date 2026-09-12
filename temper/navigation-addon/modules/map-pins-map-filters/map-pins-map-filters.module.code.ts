@@ -1,12 +1,3 @@
-import type { PinDef } from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
-import { PRECURSOR_TOOLTIP } from "akasha/temper/navigation-addon/map-pins-precursor-tooltip/map-pins-precursor-tooltip.module.code.ts"
-import { getSavedVars } from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { SHRINE_ICON } from "akasha/temper/navigation-addon/map-pins-shrine-icon/map-pins-shrine-icon.module.code.ts"
-import {
-  getPinManager,
-  getPinTypeId,
-} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
-import { loc } from "akasha/temper/navigation-addon/map-pins-ui-strings/map-pins-ui-strings.module.code.ts"
 import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { addCompassCustomPin } from "akasha/temper/navigation-addon/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"
 import { CUSTOM_PINS } from "akasha/temper/navigation-addon/modules/map-pins-config/map-pins-config.module.code.ts"
@@ -20,6 +11,15 @@ import {
 } from "akasha/temper/navigation-addon/modules/map-pins-membership/map-pins-membership.module.code.ts"
 import { MINING_SAMPLE_TOOLTIP } from "akasha/temper/navigation-addon/modules/map-pins-mining-sample-tooltip/map-pins-mining-sample-tooltip.module.code.ts"
 import { asControl } from "akasha/temper/navigation-addon/modules/map-pins-narrow/map-pins-narrow.module.code.ts"
+import type { PinDef } from "akasha/temper/navigation-addon/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"
+import { PRECURSOR_TOOLTIP } from "akasha/temper/navigation-addon/modules/map-pins-precursor-tooltip/map-pins-precursor-tooltip.module.code.ts"
+import { getSavedVars } from "akasha/temper/navigation-addon/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import { SHRINE_ICON } from "akasha/temper/navigation-addon/modules/map-pins-shrine-icon/map-pins-shrine-icon.module.code.ts"
+import {
+  getPinManager,
+  getPinTypeId,
+} from "akasha/temper/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
+import { loc } from "akasha/temper/navigation-addon/modules/map-pins-ui-strings/map-pins-ui-strings.module.code.ts"
 
 type TooltipText = string | ((this: void) => string)
 

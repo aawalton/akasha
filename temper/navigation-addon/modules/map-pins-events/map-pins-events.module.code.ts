@@ -1,12 +1,4 @@
 import {
-  getSavedGlobal,
-  getSavedVars,
-} from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import {
-  getPinTypeId,
-  STATE,
-} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
-import {
   onAchievementUpdate,
   onBookLearned,
   onSkyshardsUpdated,
@@ -18,6 +10,14 @@ import {
 import { scanInventory } from "akasha/temper/navigation-addon/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"
 import { onLootReceived } from "akasha/temper/navigation-addon/modules/map-pins-item-events/map-pins-item-events.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/map-pins-names/map-pins-names.module.code.ts"
+import {
+  getSavedGlobal,
+  getSavedVars,
+} from "akasha/temper/navigation-addon/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import {
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
 
 function resizePins(this: void, minimap: boolean): undefined {
   if (BUI === undefined) return

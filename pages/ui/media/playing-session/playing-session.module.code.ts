@@ -1,4 +1,4 @@
-import type { Medium } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
+import type { Medium } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type ActiveSessionInit = {

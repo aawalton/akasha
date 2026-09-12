@@ -1,5 +1,5 @@
-import type { Medium } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
-import { KOKORO_STREAM_VARIANT } from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
+import type { Medium } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
+import { KOKORO_STREAM_VARIANT } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
 import { usePlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
 import { readPersistedSession } from "akasha/pages/ui/media/playing-session-storage/playing-session-storage.module.code.ts"
 import { useEffect, useLayoutEffect, useRef } from "react"

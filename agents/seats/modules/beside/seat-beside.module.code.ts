@@ -2,14 +2,14 @@ import { existsSync } from "node:fs"
 import { akashaSeatRelPath } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
-  PAGE_EXTENSION,
-  pageStemOf,
-} from "akasha/pages/markdown-page-name/markdown-page-name.module.code.ts"
-import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import {
+  PAGE_EXTENSION,
+  pageStemOf,
+} from "akasha/pages/modules/markdown-page-name/markdown-page-name.module.code.ts"
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,

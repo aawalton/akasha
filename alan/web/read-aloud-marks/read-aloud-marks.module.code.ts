@@ -1,8 +1,8 @@
-import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import {
   estimateChapterSentenceMarks,
   estimateChapterSentenceMarksFromN,
 } from "akasha/alan/harness/voice-core/modules/estimate-marks/estimate-marks.module.code.ts"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { parseHlsExtinf } from "akasha/alan/web/modules/hls-extinf/hls-extinf.module.code.ts"
 import { hlsPlaylistObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"

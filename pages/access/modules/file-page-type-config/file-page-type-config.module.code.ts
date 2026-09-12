@@ -1,7 +1,7 @@
 import {
   type MediaConfig,
   parseMediaConfig,
-} from "akasha/pages/core/schema/media-config/media-config.module.code.ts"
+} from "akasha/pages/core/schema/modules/media-config/media-config.module.code.ts"
 import {
   parseSequenceConfig,
   type SequenceConfig,

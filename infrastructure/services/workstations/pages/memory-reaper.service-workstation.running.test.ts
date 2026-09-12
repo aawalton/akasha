@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const reaping = await import(
-  "akasha/infrastructure/memory/reaping/memory-reaper-running/memory-reaper-running.module.code.ts"
+  "akasha/infrastructure/memory/reaping/modules/memory-reaper-running/memory-reaper-running.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/memory/reaping/memory-reaper-running/memory-reaper-running.module.code.ts",
+  "akasha/infrastructure/memory/reaping/modules/memory-reaper-running/memory-reaper-running.module.code.ts",
   () => ({
     ...reaping,
     runMemoryReaper: () => {
@@ -39,7 +39,7 @@ test("a run turns the reaper module's own loop rather than a loop written again 
 test("a loop that ended badly is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   const why = new Error("the reaper could not read the process table")
   mock.module(
-    "akasha/infrastructure/memory/reaping/memory-reaper-running/memory-reaper-running.module.code.ts",
+    "akasha/infrastructure/memory/reaping/modules/memory-reaper-running/memory-reaper-running.module.code.ts",
     () => ({
       ...reaping,
       runMemoryReaper: () => Promise.reject(why),

@@ -14,7 +14,7 @@ import {
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
+import { enforceMemoryGuard } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 
 export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }
 

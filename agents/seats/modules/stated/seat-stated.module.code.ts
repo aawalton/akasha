@@ -30,7 +30,7 @@ import {
   type TranscriptRecord,
   transcriptOf,
 } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
+import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   ROTATED_KEY,
   rotatedOf,

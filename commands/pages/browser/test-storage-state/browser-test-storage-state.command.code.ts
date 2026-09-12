@@ -23,7 +23,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { browserTestStorageState as page } from "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.ts"
-import { playwrightStorageStatePath } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
+import { playwrightStorageStatePath } from "akasha/seat-system/supervising/modules/mcp-registry/mcp-registry.module.code.ts"
 
 const OWNER_ONLY = 0o600
 

@@ -1,10 +1,10 @@
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   pathsUnder,
   subagentsAt,

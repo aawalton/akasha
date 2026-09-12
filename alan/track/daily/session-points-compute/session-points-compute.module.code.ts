@@ -4,7 +4,7 @@ import {
   openedWindowOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { numberOf } from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
+import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { z } from "zod"
 
 export const PersonaSessionRowSchema = z

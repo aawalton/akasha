@@ -1,11 +1,3 @@
-import type {
-  Lib,
-  LmpPinManager,
-} from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
-import {
-  getZoneAndSubzone,
-  myPosition,
-} from "akasha/temper/lib-map-pins/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"
 import {
   LIB_NAME,
   LIB_VERSION,
@@ -14,6 +6,14 @@ import {
 } from "akasha/temper/lib-map-pins/modules/map-pins-constants/map-pins-constants.module.code.ts"
 import { dm as dmImpl } from "akasha/temper/lib-map-pins/modules/map-pins-debug/map-pins-debug.module.code.ts"
 import { getCurrentMapFilterGroup } from "akasha/temper/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"
+import type {
+  Lib,
+  LmpPinManager,
+} from "akasha/temper/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"
+import {
+  getZoneAndSubzone,
+  myPosition,
+} from "akasha/temper/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"
 import {
   addPinFilter,
   setPinFilterHidden,

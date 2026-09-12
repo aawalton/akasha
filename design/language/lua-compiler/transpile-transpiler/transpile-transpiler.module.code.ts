@@ -1,5 +1,4 @@
 import * as path from "node:path"
-import * as performance from "akasha/design/language/lua-compiler/measure-performance/measure-performance.module.code.ts"
 import {
   type CompilerOptions,
   isBundleEnabled,
@@ -12,6 +11,7 @@ import {
   findUsedLualibFeatures,
   getLuaLibBundle,
 } from "akasha/design/language/lua-compiler/modules/lualib-runtime/lualib-runtime.module.code.ts"
+import * as performance from "akasha/design/language/lua-compiler/modules/measure-performance/measure-performance.module.code.ts"
 import { getBundleResult } from "akasha/design/language/lua-compiler/transpile-bundle/transpile-bundle.module.code.ts"
 import type {
   EmitFile,

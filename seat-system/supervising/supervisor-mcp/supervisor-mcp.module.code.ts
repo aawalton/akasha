@@ -16,11 +16,11 @@ import {
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "akasha/code/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
-import { planDisableReconcile } from "akasha/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+import { planDisableReconcile } from "akasha/seat-system/supervising/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 import {
   getMcpServerRegistry,
   playwrightStorageStatePath,
-} from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
+} from "akasha/seat-system/supervising/modules/mcp-registry/mcp-registry.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const LOG = "[supervisor-mcp]"

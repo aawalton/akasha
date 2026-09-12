@@ -8,11 +8,11 @@ import { getMediaPageTypeSlugs } from "akasha/pages/access/page-type-config/page
 import {
   isMedium,
   MEDIA_FORMATS,
-} from "akasha/pages/core/media-formats/media-formats.module.code.ts"
+} from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
 import {
   mediaTokenSecret,
   verifyMediaToken,
-} from "akasha/pages/ui/media/media-token/media-token.module.code.ts"
+} from "akasha/pages/ui/media/modules/media-token/media-token.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 

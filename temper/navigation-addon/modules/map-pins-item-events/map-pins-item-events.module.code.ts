@@ -1,8 +1,3 @@
-import { PIECES_OF_HISTORY } from "akasha/temper/navigation-addon/map-pins-pieces-of-history/map-pins-pieces-of-history.module.code.ts"
-import { PRECURSOR_ITEMS } from "akasha/temper/navigation-addon/map-pins-precursor-items/map-pins-precursor-items.module.code.ts"
-import { RELICS_OF_SUMMERSET } from "akasha/temper/navigation-addon/map-pins-relics-of-summerset/map-pins-relics-of-summerset.module.code.ts"
-import { getPinTypeId } from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
-import { WROTHGAR_RELICS } from "akasha/temper/navigation-addon/map-pins-wrothgar-relics/map-pins-wrothgar-relics.module.code.ts"
 import { markAchievementItem } from "akasha/temper/navigation-addon/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { ANCESTRAL_TOMB_RUBBING } from "akasha/temper/navigation-addon/modules/map-pins-ancestral-tomb-rubbing/map-pins-ancestral-tomb-rubbing.module.code.ts"
 import { CHRONOGLER_TABLET } from "akasha/temper/navigation-addon/modules/map-pins-chronogler-tablet/map-pins-chronogler-tablet.module.code.ts"
@@ -11,6 +6,11 @@ import type { NumberMap } from "akasha/temper/navigation-addon/modules/map-pins-
 import { INSTRUMENTS } from "akasha/temper/navigation-addon/modules/map-pins-instruments/map-pins-instruments.module.code.ts"
 import { MINING_SAMPLE_COLLECTOR } from "akasha/temper/navigation-addon/modules/map-pins-mining-sample-collector/map-pins-mining-sample-collector.module.code.ts"
 import { MURAL_MENDER_FRAGMENTS } from "akasha/temper/navigation-addon/modules/map-pins-mural-mender-fragments/map-pins-mural-mender-fragments.module.code.ts"
+import { PIECES_OF_HISTORY } from "akasha/temper/navigation-addon/modules/map-pins-pieces-of-history/map-pins-pieces-of-history.module.code.ts"
+import { PRECURSOR_ITEMS } from "akasha/temper/navigation-addon/modules/map-pins-precursor-items/map-pins-precursor-items.module.code.ts"
+import { RELICS_OF_SUMMERSET } from "akasha/temper/navigation-addon/modules/map-pins-relics-of-summerset/map-pins-relics-of-summerset.module.code.ts"
+import { getPinTypeId } from "akasha/temper/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
+import { WROTHGAR_RELICS } from "akasha/temper/navigation-addon/modules/map-pins-wrothgar-relics/map-pins-wrothgar-relics.module.code.ts"
 
 const ancestralTombRubbing: NumberMap = ANCESTRAL_TOMB_RUBBING
 const wrothgarRelics: NumberMap = WROTHGAR_RELICS

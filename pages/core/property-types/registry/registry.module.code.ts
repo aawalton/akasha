@@ -1,5 +1,4 @@
 import type { PropertyType } from "akasha/pages/core/page-data/page-data.module.code.ts"
-import { MARKDOWN_OPS } from "akasha/pages/core/property-types/markdown/markdown.module.code.ts"
 import { ACTION_BUTTON_OPS } from "akasha/pages/core/property-types/modules/action-button/action-button.module.code.ts"
 import { AGGREGATE_OPS } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
 import { BOOLEAN_OPS } from "akasha/pages/core/property-types/modules/boolean/boolean.module.code.ts"
@@ -8,6 +7,7 @@ import { DATE_OPS } from "akasha/pages/core/property-types/modules/date/date.mod
 import { FORMULA_OPS } from "akasha/pages/core/property-types/modules/formula/formula.module.code.ts"
 import { INSTANT_OPS } from "akasha/pages/core/property-types/modules/instant/instant.module.code.ts"
 import { JSON_OPS } from "akasha/pages/core/property-types/modules/json/json.module.code.ts"
+import { MARKDOWN_OPS } from "akasha/pages/core/property-types/modules/markdown/markdown.module.code.ts"
 import { MULTI_RELATION_OPS } from "akasha/pages/core/property-types/multi-relation/multi-relation.module.code.ts"
 import { MULTI_SELECT_OPS } from "akasha/pages/core/property-types/multi-select-property/multi-select-property.module.code.ts"
 import { NUMBER_OPS } from "akasha/pages/core/property-types/number/number.module.code.ts"

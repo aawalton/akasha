@@ -1,16 +1,3 @@
-import type { MapPinCallbackFn } from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
-import { getSavedVars } from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
-import { SHRINE_ICON } from "akasha/temper/navigation-addon/map-pins-shrine-icon/map-pins-shrine-icon.module.code.ts"
-import { SHRINES } from "akasha/temper/navigation-addon/map-pins-shrines/map-pins-shrines.module.code.ts"
-import {
-  getPinManager,
-  getPinTypeId,
-  STATE,
-} from "akasha/temper/navigation-addon/map-pins-state/map-pins-state.module.code.ts"
-import { TIME_BREACH } from "akasha/temper/navigation-addon/map-pins-time-breach/map-pins-time-breach.module.code.ts"
-import { loc } from "akasha/temper/navigation-addon/map-pins-ui-strings/map-pins-ui-strings.module.code.ts"
-import { VOLENDRUNG } from "akasha/temper/navigation-addon/map-pins-volendrung/map-pins-volendrung.module.code.ts"
-import { ZONE_ACHIEVEMENT } from "akasha/temper/navigation-addon/map-pins-zone-achievement/map-pins-zone-achievement.module.code.ts"
 import { ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-achievements/map-pins-achievements.module.code.ts"
 import { ALLIANCE_COLORS } from "akasha/temper/navigation-addon/modules/map-pins-alliance-colors/map-pins-alliance-colors.module.code.ts"
 import { LOOT_MAP_PIN_CALLBACKS } from "akasha/temper/navigation-addon/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"
@@ -31,6 +18,19 @@ import {
   asStringNumberMap,
   asSubzonePinTable,
 } from "akasha/temper/navigation-addon/modules/map-pins-narrow/map-pins-narrow.module.code.ts"
+import type { MapPinCallbackFn } from "akasha/temper/navigation-addon/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"
+import { getSavedVars } from "akasha/temper/navigation-addon/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
+import { SHRINE_ICON } from "akasha/temper/navigation-addon/modules/map-pins-shrine-icon/map-pins-shrine-icon.module.code.ts"
+import { SHRINES } from "akasha/temper/navigation-addon/modules/map-pins-shrines/map-pins-shrines.module.code.ts"
+import {
+  getPinManager,
+  getPinTypeId,
+  STATE,
+} from "akasha/temper/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
+import { TIME_BREACH } from "akasha/temper/navigation-addon/modules/map-pins-time-breach/map-pins-time-breach.module.code.ts"
+import { loc } from "akasha/temper/navigation-addon/modules/map-pins-ui-strings/map-pins-ui-strings.module.code.ts"
+import { VOLENDRUNG } from "akasha/temper/navigation-addon/modules/map-pins-volendrung/map-pins-volendrung.module.code.ts"
+import { ZONE_ACHIEVEMENT } from "akasha/temper/navigation-addon/modules/map-pins-zone-achievement/map-pins-zone-achievement.module.code.ts"
 
 const timeBreach = asSubzonePinTable(TIME_BREACH)
 const shrines = asSubzonePinTable(SHRINES)
