@@ -6,6 +6,7 @@ export const longAnswering = {
   slug: "long-answering",
   definition: "the run of lines a body too long for one answer hands back, and how far it reached",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

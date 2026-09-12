@@ -11,18 +11,11 @@ import {
   tooWide,
   widthOf,
 } from "akasha/commands/modules/long-body/long-body.module.code.ts"
+import { lettered } from "akasha/commands/modules/long-body/long-body.module.test-fixtures.ts"
 
 const CALLED_AS = "akasha read"
 
 const HELD = "akasha/one/held.ts"
-
-function lettered(many: number): string {
-  const said: string[] = []
-  for (let one = 1; one <= many; one += 1) {
-    said.push(`line ${String(one).padStart(4, "0")} ${"x".repeat(60)}`)
-  }
-  return `${said.join("\n")}\n`
-}
 
 test("a body with a closing newline holds no line after it", () => {
   expect(linesOf("one\ntwo\n")).toEqual(["one", "two"])

@@ -7,6 +7,7 @@ export const longBody = {
   definition: "a body longer than one answer handed back a run of whole numbered lines at a time",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
