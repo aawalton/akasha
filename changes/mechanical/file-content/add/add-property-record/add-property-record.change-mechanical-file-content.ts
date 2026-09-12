@@ -34,6 +34,10 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal shows one record rather than describing the form.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The whitespace around a record is dropped before that record is read or written.",
     },
     {

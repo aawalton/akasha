@@ -58,6 +58,12 @@ test("text that parses as no record is refused before the body is read", () => {
   expect(refusalOf(said)).toContain("parses as no record")
 })
 
+test("that refusal shows one record rather than describing the form", () => {
+  const said = addPropertyRecord(worldOf({}), { at: AT, key: KEY, record: "argument: onto" })
+  const shown = /`(\{[^`]*\})`/.exec(String(refusalOf(said)))?.[1]
+  expect(shown === undefined ? null : recordIn(shown)).not.toBe(null)
+})
+
 test("a key spelled with quotes it does not need is refused", () => {
   const { said } = answering(HOLDING, `{ "pagePropertySlug": "text-property/name" }`)
   expect(refusalOf(said)).toContain("is quoted")

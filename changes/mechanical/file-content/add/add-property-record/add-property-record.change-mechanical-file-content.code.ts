@@ -17,6 +17,11 @@ import ts from "typescript"
 
 const READING = "record.ts"
 
+const NO_RECORD =
+  "parses as no record, so nothing is put in — a record is one object literal, as" +
+  ' `{ argument: "argument/onto", required: true, saidAs: "word" }` is,' +
+  " and `key: value` lines are not"
+
 export type AddPropertyRecordAsked = {
   readonly at: string
   readonly key: string
@@ -77,7 +82,7 @@ export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): 
   const record = given.record.trim()
   const read = recordIn(record)
   if (read === null) {
-    return refusing(`\`${record}\` parses as no record, so nothing is put in`)
+    return refusing(`\`${record}\` ${NO_RECORD}`)
   }
   const quoted = quotedKeyIn(read)
   if (quoted !== null) {
