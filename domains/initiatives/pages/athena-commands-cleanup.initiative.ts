@@ -25,5 +25,6 @@ export const athenaCommandsCleanup = {
     "A module exporting flag constants puts those literals in every importer's reach, so a diff of reachable flags against a page is a worklist rather than findings.",
     "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
     "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
+    "A large mechanical landing arrives by holding fewer paths and putting fewer commands between draft and apply, rather than by waiting for the swarm to go quiet.",
   ],
 } as const satisfies Initiative
