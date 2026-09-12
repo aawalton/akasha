@@ -65,7 +65,7 @@ export function readIn(argv: readonly string[]): Reading<Read> {
 }
 
 export type Typing = {
-  readonly state: () => Promise<SimSessionState>
+  readonly state: (done: string[]) => Promise<SimSessionState>
   readonly focused: (base: string, sessionId: string) => Promise<string>
   readonly found: (base: string, sessionId: string, by: string, said: string) => Promise<string>
   readonly tapped: (base: string, sessionId: string, elementId: string) => Promise<unknown>
@@ -94,7 +94,7 @@ export async function typedIn(
   done: string[],
   typing: Typing = TYPING
 ): Promise<Answer> {
-  const state = await typing.state()
+  const state = await typing.state(done)
   const selector = read.selector
   if (selector === undefined) {
     const focused = await typing.focused(state.appiumBase, state.sessionId)

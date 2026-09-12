@@ -46,5 +46,9 @@ export const simDriver = {
       statement:
         "The loading, the opening, the signing in, the scripting and the saving are handed in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Attaching to a webview names the context it switched the session onto.",
+    },
   ],
 } as const satisfies Module

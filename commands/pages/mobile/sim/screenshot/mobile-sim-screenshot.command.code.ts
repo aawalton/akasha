@@ -31,15 +31,20 @@ export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
   return { output: said.named[OUTPUT] ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`) }
 }
 
-async function pictured(read: Read): Promise<Answer> {
-  const state = await driving()
+export type Picturing = (done: string[], read: Read) => Promise<Answer>
+
+async function pictured(done: string[], read: Read): Promise<Answer> {
+  const state = await driving(done)
   const png = await screenshot(state.appiumBase, state.sessionId)
   writeFileSync(read.output, png)
   return told([read.output])
 }
 
-export async function mobileSimScreenshot(argv: readonly string[]): Promise<Answer> {
+export async function mobileSimScreenshot(
+  argv: readonly string[],
+  picturing: Picturing = pictured
+): Promise<Answer> {
   const read = readIn(argv, Date.now())
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await pictured(read))
+  return await answering(async (done) => await picturing(done, read))
 }

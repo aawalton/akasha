@@ -55,7 +55,17 @@ async function acquireWebview(base: string, sessionId: string): Promise<string> 
   )
 }
 
-export async function attachWebview(state: SimSessionState): Promise<SimSessionState> {
+export function attachedSaid(session: string, webview: string): string {
+  return (
+    `the sim session ${session} was switched onto the webview context ${webview}, ` +
+    "and the session file on this disk says so now"
+  )
+}
+
+export async function attachWebview(
+  done: string[],
+  state: SimSessionState
+): Promise<SimSessionState> {
   let contexts: readonly string[]
   try {
     contexts = await getContexts(state.appiumBase, state.sessionId)
@@ -76,6 +86,7 @@ export async function attachWebview(state: SimSessionState): Promise<SimSessionS
   await setContext(state.appiumBase, state.sessionId, webview)
   const updated: SimSessionState = { ...state, webviewContext: webview }
   saveSessionState(updated)
+  done.push(attachedSaid(state.sessionId, webview))
   return updated
 }
 

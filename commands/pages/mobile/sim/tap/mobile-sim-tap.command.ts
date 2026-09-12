@@ -6,6 +6,7 @@ export const mobileSimTap = {
   slug: "mobile-sim-tap",
   definition: "the command tapping the simulator screen the way a finger would",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -30,6 +31,10 @@ export const mobileSimTap = {
     {
       invariantKind: "absence",
       statement: "Nothing here opens a session.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the context switch attaching to the webview already made.",
     },
   ],
   name: "tap",

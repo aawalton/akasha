@@ -6,6 +6,7 @@ export const mobileSimScreenshot = {
   slug: "mobile-sim-screenshot",
   definition: "the command taking a picture of the simulator screen and saying where it was put",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -31,6 +32,10 @@ export const mobileSimScreenshot = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads the picture back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the context switch attaching to the webview already made.",
     },
   ],
   name: "screenshot",

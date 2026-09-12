@@ -55,14 +55,19 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { script: piped }
 }
 
-async function evaluated(read: Read): Promise<Answer> {
-  const state = await driving()
+export type Evaluating = (done: string[], read: Read) => Promise<Answer>
+
+async function evaluated(done: string[], read: Read): Promise<Answer> {
+  const state = await driving(done)
   const result = await executeScript(state.appiumBase, state.sessionId, read.script)
   return told([JSON.stringify(result, null, INDENT)])
 }
 
-export async function mobileSimEval(argv: readonly string[]): Promise<Answer> {
+export async function mobileSimEval(
+  argv: readonly string[],
+  evaluating: Evaluating = evaluated
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await evaluated(read))
+  return await answering(async (done) => await evaluating(done, read))
 }

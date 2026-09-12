@@ -7,6 +7,7 @@ export const mobileSimEval = {
   definition:
     "the command running JavaScript inside the simulator's webview and giving back what it returned",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -27,6 +28,10 @@ export const mobileSimEval = {
     {
       invariantKind: "absence",
       statement: "Nothing here opens a session.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the context switch attaching to the webview already made.",
     },
   ],
   name: "eval",

@@ -82,8 +82,10 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { x, y, toX, toY, holdMs, steps, stepMs }
 }
 
-async function dragged(read: Read): Promise<Answer> {
-  const state = await driving()
+export type Dragging = (done: string[], read: Read) => Promise<Answer>
+
+async function dragged(done: string[], read: Read): Promise<Answer> {
+  const state = await driving(done)
   await longPressDrag(state.appiumBase, state.sessionId, {
     x: read.x,
     y: read.y,
@@ -98,8 +100,11 @@ async function dragged(read: Read): Promise<Answer> {
   ])
 }
 
-export async function mobileSimLongPressDrag(argv: readonly string[]): Promise<Answer> {
+export async function mobileSimLongPressDrag(
+  argv: readonly string[],
+  dragging: Dragging = dragged
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await dragged(read))
+  return await answering(async (done) => await dragging(done, read))
 }

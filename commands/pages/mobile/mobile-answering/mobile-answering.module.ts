@@ -44,5 +44,10 @@ export const mobileAnswering = {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Driving a session switches its context, so a caller hands in the list that switch is named on.",
+    },
   ],
 } as const satisfies Module

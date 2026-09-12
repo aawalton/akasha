@@ -68,8 +68,10 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { x: across, y: down }
 }
 
-async function tapped(read: Read): Promise<Answer> {
-  const state = await driving()
+export type Tapping = (done: string[], read: Read) => Promise<Answer>
+
+async function tapped(done: string[], read: Read): Promise<Answer> {
+  const state = await driving(done)
   if ("selector" in read) {
     const elementId = await findElement(state.appiumBase, state.sessionId, BY_CSS, read.selector)
     await clickElement(state.appiumBase, state.sessionId, elementId)
@@ -79,8 +81,11 @@ async function tapped(read: Read): Promise<Answer> {
   return told([`tapped\t(${read.x}, ${read.y})`])
 }
 
-export async function mobileSimTap(argv: readonly string[]): Promise<Answer> {
+export async function mobileSimTap(
+  argv: readonly string[],
+  tapping: Tapping = tapped
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await tapped(read))
+  return await answering(async (done) => await tapping(done, read))
 }

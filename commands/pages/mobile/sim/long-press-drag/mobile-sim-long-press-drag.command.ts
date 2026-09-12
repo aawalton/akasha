@@ -6,6 +6,7 @@ export const mobileSimLongPressDrag = {
   slug: "mobile-sim-long-press-drag",
   definition: "the command holding a finger down on the simulator and dragging it somewhere",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
@@ -27,6 +28,10 @@ export const mobileSimLongPressDrag = {
     {
       invariantKind: "absence",
       statement: "Nothing here opens a session.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the context switch attaching to the webview already made.",
     },
   ],
   name: "long-press-drag",

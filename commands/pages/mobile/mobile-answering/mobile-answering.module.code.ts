@@ -112,6 +112,6 @@ export function keyedLines(
   return lines
 }
 
-export async function driving(): Promise<SimSessionState> {
-  return await attachWebview(requireDrivingState())
+export async function driving(done: string[]): Promise<SimSessionState> {
+  return await attachWebview(done, requireDrivingState())
 }
