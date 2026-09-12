@@ -4,7 +4,8 @@ export const agentTurnColors = {
   id: "01a0693c-9b24-7a22-8c27-03b9194b117e",
   type: "command",
   slug: "agent-turn-colors",
-  definition: "the color each named agent, or each named turn state, is drawn in",
+  definition:
+    "the command answering the color each named agent, or each named turn state, is drawn in",
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",

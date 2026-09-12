@@ -4,7 +4,7 @@ export const pageTree = {
   id: "01a06936-e303-7910-8ed1-f5ea8e762847",
   type: "command",
   slug: "page-tree",
-  definition: "the index answers a page tree is composed from",
+  definition: "the command answering the page type and property rows a page tree is assembled from",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

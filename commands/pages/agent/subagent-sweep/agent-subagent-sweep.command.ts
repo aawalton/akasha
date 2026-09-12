@@ -4,7 +4,8 @@ export const agentSubagentSweep = {
   id: "01a072c2-eed8-7f35-9595-65c72afdc7aa",
   type: "command",
   slug: "agent-subagent-sweep",
-  definition: "every subagent page on disk judged, and the stale ones taken away when told to",
+  definition:
+    "the command judging every subagent page on disk and taking the stale ones away when told",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
