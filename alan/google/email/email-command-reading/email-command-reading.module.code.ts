@@ -1,7 +1,7 @@
 import { isAbsolute, resolve } from "node:path"
 import { buildComposeInput } from "akasha/alan/google/email/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
-import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Filing,
@@ -31,10 +31,6 @@ export function pathAt(root: string, path: string): string {
 
 export function asJsonLines(value: unknown): Answer {
   return told(JSON.stringify(value, null, 2).split("\n"))
-}
-
-export function refusing(said: readonly string[], code: number): Answer {
-  return refusedBy(said, code)
 }
 
 export type Composed = { readonly input: ComposeInput } | { readonly why: readonly string[] }
