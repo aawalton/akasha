@@ -6,5 +6,5 @@ export const esoObjects02 = {
   slug: "eso-objects-02",
   definition: "one part of the game objects an add-on calls methods on",
   d: "ts",
-  generated: { writtenBy: "akasha temper-eso-generate-typings", sourceVersion: 101050 },
+  generated: { writtenBy: "akasha temper eso generate typings", sourceVersion: 101050 },
 } as const satisfies TypeDeclaration

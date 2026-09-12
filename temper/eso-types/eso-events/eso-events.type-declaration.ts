@@ -6,5 +6,5 @@ export const esoEvents = {
   slug: "eso-events",
   definition: "the numbers the game names its events by",
   d: "ts",
-  generated: { writtenBy: "akasha temper-eso-generate-typings", sourceVersion: 101050 },
+  generated: { writtenBy: "akasha temper eso generate typings", sourceVersion: 101050 },
 } as const satisfies TypeDeclaration
