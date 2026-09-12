@@ -11,14 +11,14 @@ import {
 import { readSeatPlaces } from "akasha/code/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import { championTree } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
-import {
-  type ForestSeat,
-  forestOver,
-  NOW,
-} from "akasha/commands/pages/agent/forest/agent-forest.command.code.ts"
 import { treeIn } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import { pageAnswers } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
 import { domainRowsIn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
+import type { ForestSeat } from "akasha/seat-system/seat-forest-reading/seat-forest-reading.module.code.ts"
+import {
+  forestOver,
+  NOW,
+} from "akasha/seat-system/seat-forest-reading/seat-forest-reading.module.code.ts"
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 
 function wholePath(root: string, at: string | null | undefined): string | null {

@@ -153,6 +153,7 @@ export const seatSystem = {
     "domain/oauth-proxy",
     "domain/seat-credential",
     "domain/pty",
+    "module/seat-forest-reading",
   ],
   invariants: [
     {
