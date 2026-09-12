@@ -33,5 +33,9 @@ export const gitTreeHash = {
       invariantKind: "departure",
       statement: "The code repo's build inputs are a fixed hand-written list of five paths.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fetch of origin is named here, so every caller names it the same way.",
+    },
   ],
 } as const satisfies Module

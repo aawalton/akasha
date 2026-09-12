@@ -36,6 +36,10 @@ export function resolveRepoRoot(cwd?: string): string {
   return said(cwd ?? process.cwd(), ["rev-parse", "--show-toplevel"]).trim()
 }
 
+export function fetchedSaid(repoRoot: string): string {
+  return `origin was fetched into ${repoRoot}, and the refs and objects it brought down stay there`
+}
+
 export function fetchOrigin(repoRoot: string): undefined {
   said(repoRoot, ["fetch", "origin"])
   return undefined

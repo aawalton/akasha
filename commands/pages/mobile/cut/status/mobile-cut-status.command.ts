@@ -6,6 +6,7 @@ export const mobileCutStatus = {
   slug: "mobile-cut-status",
   definition: "the command saying whether a TestFlight cut is owed or the phones are current",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -30,6 +31,10 @@ export const mobileCutStatus = {
     {
       invariantKind: "absence",
       statement: "Nothing here builds or uploads or files anything.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names each repo origin was already fetched into.",
     },
   ],
   name: "status",

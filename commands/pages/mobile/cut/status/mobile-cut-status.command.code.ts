@@ -7,6 +7,7 @@ import {
 import {
   computeBuildInputTreeHash,
   countCommitsBetween,
+  fetchedSaid,
   fetchOrigin,
   resolveRef,
   resolveRepoRoot,
@@ -55,13 +56,17 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { app, json: said.flags.has(JSON_SAID) }
 }
 
-async function compared(read: Read): Promise<Answer> {
+export type Comparing = (done: string[], read: Read) => Promise<Answer>
+
+async function compared(done: string[], read: Read): Promise<Answer> {
   const repoRoot = resolveRepoRoot(codeRoot())
   fetchOrigin(repoRoot)
+  done.push(fetchedSaid(repoRoot))
   const mainSha = resolveRef(repoRoot, MAIN)
 
   const shellRoot = resolveRepoRoot(shellRepoRoot(read.app))
   fetchOrigin(shellRoot)
+  done.push(fetchedSaid(shellRoot))
 
   const current: CurrentTreeState = {
     mainSha,
@@ -124,8 +129,11 @@ async function compared(read: Read): Promise<Answer> {
   ])
 }
 
-export async function mobileCutStatus(argv: readonly string[]): Promise<Answer> {
+export async function mobileCutStatus(
+  argv: readonly string[],
+  comparing: Comparing = compared
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await compared(read))
+  return await answering(async (done) => await comparing(done, read))
 }
