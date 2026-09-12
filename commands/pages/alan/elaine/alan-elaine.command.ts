@@ -7,16 +7,7 @@ export const alanElaine = {
   definition: "the command reading what Apple Health recorded about Alan's body",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--days <n>",
-      takes: "how many days back the trailing window reaches, fourteen where none is said",
-    },
-    {
-      said: "--file-path <path>",
-      takes: "the macbook path to an export zip or an unpacked export.xml, in place of the scan",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -69,7 +60,15 @@ export const alanElaine = {
       invariantKind: "absence",
       statement: "Nothing here reads the iPhone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying no window reaches fourteen days back.",
+    },
   ],
   name: "elaine",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/days" },
+    { argument: "argument/macbook-file" },
+  ],
 } as const satisfies Command
