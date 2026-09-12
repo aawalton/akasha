@@ -9,8 +9,6 @@ export const musicRate = {
   test: "ts",
   taking: [
     { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
-    { said: "--slug <slug>", takes: "the artist or song page the grade is recorded onto" },
-    { said: "--rating <F..S+>", takes: "the grade, a rung on the ladder from `F` up to `S+`" },
     { said: "--reaction <md>", takes: "what Alan said about an artist, for `--target artist`" },
     { said: "--reaction-file <file>", takes: "a file the reaction is read from" },
     {
@@ -71,5 +69,9 @@ export const musicRate = {
     },
   ],
   name: "rate",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/slug", required: true },
+    { argument: "argument/rating" },
+  ],
 } as const satisfies Command
