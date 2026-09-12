@@ -18,13 +18,15 @@ export const pageSecretClear = {
       takes: "what the commit is for, where the one naming the sops file will not do",
     },
   ],
-  helpNotes: [
-    "what this drops is not coming back through any command here: the value stands in the ciphertext of an earlier commit, and nothing here opens one.",
-    "name what a page holds before dropping anything.",
-    "where the key was the last one the file held, the file is taken away rather than written empty.",
-    "which keys a page may hold is its page type's call, and a key it does not declare secret is refused naming the ones it does.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A key the page's page type does not declare secret is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the keys that page type declares.",
+    },
     {
       invariantKind: "departure",
       statement: "A key that was the last one the sops file had takes the file with that key.",
