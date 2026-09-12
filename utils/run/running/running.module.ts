@@ -66,16 +66,24 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "That peak is the highest the process and the children it waited on ever held.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The kernel counts that peak in kilobytes and a caller is answered in bytes.",
+      statement: "That peak is the highest everything in the process's group ever held at once.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A process the kernel reported no usage for is answered as having reached no peak.",
+        "The group's peak is read once the process ended and before the group is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller is answered whether the peak answered was measured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process run in no group is answered as having reached no peak.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a process is answered as having had no peak measured.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +130,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A process given a ceiling runs in a control group made for that one run.",
+      statement: "Every process run here runs in a control group made for that one run.",
     },
     {
       invariantKind: "departure",
@@ -131,11 +139,32 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "An ancestor group is written in only where processor time is delegated to that group.",
+        "An ancestor group is written in only where processor time and memory are delegated to that group.",
     },
     {
       invariantKind: "departure",
-      statement: "The seconds the group has spent are read while the run is going.",
+      statement:
+        "A group left where the run that made it is gone is taken away before a group is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group left is known by the run that made it being named in the group's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The program a process is named by is looked for on the path before the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A program found is run by the path that found it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A program found nowhere is run in no group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds a bounded process's group has spent are read while the run is going.",
     },
     {
       invariantKind: "departure",
@@ -151,16 +180,24 @@ export const running = {
       statement: "A ceiling raises no limit.",
     },
     {
-      invariantKind: "constraint",
-      statement: "A machine delegating no processor time bounds no run.",
+      invariantKind: "absence",
+      statement: "Nothing ends a process whose caller stated no ceiling.",
     },
     {
       invariantKind: "constraint",
-      statement: "A run on a machine delegating no processor time is not refused.",
+      statement: "A machine delegating processor time and memory nowhere bounds no run.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A run on such a machine is not refused.",
     },
     {
       invariantKind: "gap",
       statement: "A run on such a machine is caught by the seconds answered rather than bounded.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A run on such a machine has no peak measured.",
     },
     {
       invariantKind: "departure",

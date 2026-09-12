@@ -255,6 +255,7 @@ export function spentAs(path: string, cpuSeconds: number, code: number): Spent {
     wallMs: 0,
     cpuSeconds,
     peakBytes: 0,
+    peakMeasured: false,
     signal: null,
     code,
     out: "",

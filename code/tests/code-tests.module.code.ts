@@ -80,6 +80,7 @@ export type Spent = {
   readonly wallMs: number
   readonly cpuSeconds: number
   readonly peakBytes: number
+  readonly peakMeasured: boolean
   readonly signal: string | null
   readonly code: number
   readonly out: string
@@ -325,6 +326,7 @@ export function spentIn(
         wallMs: Date.now() - began,
         cpuSeconds: done.cpuSeconds,
         peakBytes: done.peakBytes,
+        peakMeasured: done.peakMeasured,
         signal: done.signal,
         code: done.code,
         out: `${done.out}${done.err}`,

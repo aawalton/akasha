@@ -254,6 +254,7 @@ export type Spawned = {
   readonly wallMs: number
   readonly cpuSeconds: number
   readonly peakBytes: number
+  readonly peakMeasured: boolean
   readonly baselineBytes: number | null
   readonly refusals: number
 }
@@ -271,7 +272,7 @@ export function costSpawned(given: Spawned): Cost {
     peakBytes: given.peakBytes,
     residentBeforeBytes: baseline ?? 0,
     peakAddedBytes: baseline === null ? given.peakBytes : Math.max(given.peakBytes - baseline, 0),
-    peakMeasured: baseline !== null,
+    peakMeasured: given.peakMeasured,
     readCalls: 0,
     writeCalls: 0,
     readBytes: 0,

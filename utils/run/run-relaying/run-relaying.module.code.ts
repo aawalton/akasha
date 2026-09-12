@@ -44,6 +44,7 @@ export type Answer = {
   readonly signal: string | null
   readonly cpuSeconds: number
   readonly peakBytes: number
+  readonly peakMeasured: boolean
 }
 
 export type Frame = {
@@ -191,6 +192,7 @@ function lostOn(raised: unknown): Held {
     err: `runner channel lost: ${raised instanceof Error ? raised.message : String(raised)}`,
     cpuSeconds: 0,
     peakBytes: 0,
+    peakMeasured: false,
   }
 }
 
@@ -226,5 +228,6 @@ export function relayed(argv: readonly string[], asked: Asked = {}): Held {
     err: new TextDecoder().decode(answered.second),
     cpuSeconds: said.cpuSeconds,
     peakBytes: said.peakBytes,
+    peakMeasured: said.peakMeasured,
   }
 }

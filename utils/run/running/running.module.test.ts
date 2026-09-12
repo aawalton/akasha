@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
-import { readFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import { relayed, SERVING_MARKER } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 import {
   bytes,
   delegatedAt,
+  madePid,
   NO_CODE,
   ran,
   said,
@@ -129,11 +131,57 @@ test("a process is answered with the peak memory that process reached", () => {
   expect(large - small).toBeGreaterThan(300e6)
 })
 
+test("a process run after a bigger one is answered its own peak rather than the bigger one", () => {
+  const large = ran(["bun", "-e", "new Uint8Array(400e6).fill(1)"]).peakBytes
+  const small = ran(["true"]).peakBytes
+  expect(large).toBeGreaterThan(300e6)
+  expect(small).toBeLessThan(large / 4)
+})
+
+test("two processes of the same shape are each answered a peak of that process's own", () => {
+  const one = ran(["bun", "-e", "new Uint8Array(300e6).fill(1)"]).peakBytes
+  const two = ran(["bun", "-e", "new Uint8Array(60e6).fill(1)"]).peakBytes
+  expect(one).not.toBe(two)
+  expect(one - two).toBeGreaterThan(200e6)
+})
+
+test("a caller is answered whether the peak answered was measured", () => {
+  expect(ran(["true"]).peakMeasured).toBe(true)
+  expect(spawnedHere(["true"]).peakMeasured).toBe(true)
+})
+
+test("a program on no path raises rather than being answered", () => {
+  expect(() => spawnedHere(["no-such-program-on-any-path"])).toThrow(/no-such-program/)
+})
+
+test("the run that made a group is named in the group's name", () => {
+  expect(madePid("akasha-1234-5678")).toBe(1234)
+  expect(madePid("akasha-call-1234")).toBeNull()
+  expect(madePid("akasha-1234")).toBeNull()
+  expect(madePid("agent")).toBeNull()
+})
+
+test("a group left where the run that made it is gone is taken away before a group is made", () => {
+  const own = (readFileSync("/proc/self/cgroup", "utf8").trim().split(":").at(-1) ?? "").trim()
+  const parent = delegatedAt(own)
+  expect(parent).not.toBeNull()
+  const gone = ran(["sh", "-c", "printf %s $$"]).out
+  const left = join(String(parent), `akasha-${gone}-1`)
+  mkdirSync(left)
+  expect(existsSync(left)).toBe(true)
+  ran(["true"])
+  expect(existsSync(left)).toBe(false)
+})
+
 test("a run relayed is answered the peak a run made here is answered", () => {
   const argv = ["bun", "-e", "new Uint8Array(200e6).fill(1)"]
   const here = spawnedHere(argv).peakBytes
   const there = relayed(argv).peakBytes
   expect(Math.abs(there - here)).toBeLessThan(here / 2)
+})
+
+test("a run relayed says its peak was measured as a run made here does", () => {
+  expect(relayed(["true"]).peakMeasured).toBe(spawnedHere(["true"]).peakMeasured)
 })
 
 test("a process given a ceiling is ended at that many processor seconds", () => {
@@ -166,7 +214,9 @@ test("a delegated ancestor is the one a budget is made under", () => {
   const own = (readFileSync("/proc/self/cgroup", "utf8").trim().split(":").at(-1) ?? "").trim()
   const at = delegatedAt(own)
   expect(at).not.toBeNull()
-  expect(readFileSync(`${String(at)}/cgroup.subtree_control`, "utf8")).toContain("cpu")
+  const control = readFileSync(`${String(at)}/cgroup.subtree_control`, "utf8")
+  expect(control).toContain("cpu")
+  expect(control).toContain("memory")
 })
 
 test("the seconds answered carry what a process's own children spent", () => {

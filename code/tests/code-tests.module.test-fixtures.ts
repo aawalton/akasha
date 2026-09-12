@@ -32,6 +32,12 @@ export const NEEDS =
   'import { expect, test } from "bun:test"\n' +
   'test("one", () => { expect(globalThis.held).toBe(true) })\n'
 
+export const SWELLS =
+  'import { expect, test } from "bun:test"\n' +
+  'test("one", () => { const held = new Uint8Array(300e6)\n' +
+  "  held.fill(1)\n" +
+  "  expect(held[0]).toBe(1) })\n"
+
 export const LOADED = "akasha/loaded.log"
 
 export const COUNTS =

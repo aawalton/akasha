@@ -4,7 +4,7 @@ import { costSpawned } from "akasha/checks/modules/cost/check-cost.module.code.t
 
 const MIB = 1024 * 1024
 
-function spawned(peakBytes: number, baselineBytes: number | null): Spawned {
+function spawned(peakBytes: number, baselineBytes: number | null, peakMeasured = true): Spawned {
   return {
     runId: "01a0917b-4d0b-7000-9f2a-6c1d4e2c9b70",
     ranAt: "2026-09-12T00:00:00.000Z",
@@ -13,6 +13,7 @@ function spawned(peakBytes: number, baselineBytes: number | null): Spawned {
     wallMs: 1200,
     cpuSeconds: 1.2345,
     peakBytes,
+    peakMeasured,
     baselineBytes,
     refusals: 0,
   }
@@ -38,7 +39,14 @@ test("a run stating no held memory holds none and added its whole peak", () => {
   expect(cost.peakBytes).toBe(200 * MIB)
   expect(cost.residentBeforeBytes).toBe(0)
   expect(cost.peakAddedBytes).toBe(200 * MIB)
-  expect(cost.peakMeasured).toBe(false)
+})
+
+test("a spawned run's peak is measured where the run that spawned it measured that peak", () => {
+  expect(costSpawned(spawned(200 * MIB, null, true)).peakMeasured).toBe(true)
+})
+
+test("a spawned run's peak is unmeasured where the run that spawned it measured nothing", () => {
+  expect(costSpawned(spawned(200 * MIB, 150 * MIB, false)).peakMeasured).toBe(false)
 })
 
 test("every second a spawned run spent is a child's", () => {

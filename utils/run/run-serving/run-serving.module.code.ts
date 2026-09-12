@@ -27,11 +27,19 @@ function framedFor(frame: Frame): Uint8Array {
       signal: done.signal,
       cpuSeconds: done.cpuSeconds,
       peakBytes: done.peakBytes,
+      peakMeasured: done.peakMeasured,
     }
     return framed(said, done.out, new TextEncoder().encode(done.err))
   } catch (raised) {
     const threw = raised instanceof Error ? raised.message : String(raised)
-    const said: Answer = { threw, code: NO_CODE, signal: null, cpuSeconds: 0, peakBytes: 0 }
+    const said: Answer = {
+      threw,
+      code: NO_CODE,
+      signal: null,
+      cpuSeconds: 0,
+      peakBytes: 0,
+      peakMeasured: false,
+    }
     return framed(said, new Uint8Array(), new Uint8Array())
   }
 }

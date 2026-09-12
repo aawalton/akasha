@@ -1,5 +1,6 @@
-import { accessSync, constants, mkdirSync, readFileSync, rmdirSync } from "node:fs"
+import { accessSync, constants, mkdirSync, readdirSync, readFileSync, rmdirSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { pidAliveOrAssumeAlive } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import {
   parseServingMarker,
   relayed,
@@ -11,8 +12,6 @@ export const NO_CODE = -1
 
 const MICROS = 1_000_000
 
-const KIB = 1024
-
 const MOUNT = "/sys/fs/cgroup"
 
 const OWN = "/proc/self/cgroup"
@@ -23,7 +22,11 @@ const PROCS = "cgroup.procs"
 
 const CPU = "cpu"
 
+const MEMORY = "memory"
+
 const STAT = "cpu.stat"
+
+const PEAK = "memory.peak"
 
 const USAGE = "usage_usec "
 
@@ -31,10 +34,17 @@ const POLL = 50
 
 const SWEEPS = 20
 
+const MADE = "akasha-"
+
+const APART = "-"
+
+const DIGITS = /^\d+$/
+
 function holding(at: string): boolean {
   try {
     accessSync(at, constants.W_OK)
-    return readFileSync(join(at, CONTROL), "utf8").split(/\s+/).includes(CPU)
+    const held = readFileSync(join(at, CONTROL), "utf8").split(/\s+/)
+    return held.includes(CPU) && held.includes(MEMORY)
   } catch {
     return false
   }
@@ -49,6 +59,30 @@ export function delegatedAt(own: string): string | null {
   return holding(MOUNT) ? MOUNT : null
 }
 
+export function madePid(named: string): number | null {
+  if (!named.startsWith(MADE)) return null
+  const rest = named.slice(MADE.length)
+  const apart = rest.indexOf(APART)
+  const digits = apart < 0 ? "" : rest.slice(0, apart)
+  return DIGITS.test(digits) ? Number(digits) : null
+}
+
+export function leftSwept(parent: string): undefined {
+  let held: readonly string[] = []
+  try {
+    held = readdirSync(parent)
+  } catch {
+    return
+  }
+  for (const one of held) {
+    const pid = madePid(one)
+    if (pid === null || pidAliveOrAssumeAlive(pid)) continue
+    try {
+      rmdirSync(join(parent, one))
+    } catch {}
+  }
+}
+
 function budgetAt(): string | null {
   let text = ""
   try {
@@ -60,7 +94,8 @@ function budgetAt(): string | null {
   if (own === undefined) return null
   const parent = delegatedAt(own)
   if (parent === null) return null
-  const at = join(parent, `akasha-${String(process.pid)}-${String(Bun.nanoseconds())}`)
+  leftSwept(parent)
+  const at = join(parent, `${MADE}${String(process.pid)}${APART}${String(Bun.nanoseconds())}`)
   try {
     mkdirSync(at)
     return at
@@ -90,8 +125,14 @@ export function watching(at: string, ceiling: number): string {
   )
 }
 
-function joined(at: string, argv: readonly string[]): readonly string[] {
-  return ["sh", "-c", `echo $$ > ${join(at, PROCS)}; exec "$@"`, "sh", ...argv]
+function joined(at: string, argv: readonly string[], found: string): readonly string[] {
+  return ["sh", "-c", `echo $$ > ${join(at, PROCS)}; exec "$@"`, "sh", found, ...argv.slice(1)]
+}
+
+function foundFor(argv: readonly string[], asked: Asked): string | null {
+  const first = argv[0]
+  if (first === undefined) return null
+  return Bun.which(first, asked.cwd === undefined ? {} : { cwd: asked.cwd })
 }
 
 function spentAt(at: string): number | null {
@@ -104,6 +145,17 @@ function spentAt(at: string): number | null {
   for (const line of text.split("\n"))
     if (line.startsWith(USAGE)) return Number(line.slice(USAGE.length)) / MICROS
   return null
+}
+
+function peakAt(at: string): number | null {
+  let text = ""
+  try {
+    text = readFileSync(join(at, PEAK), "utf8")
+  } catch {
+    return null
+  }
+  const held = Number(text.trim())
+  return Number.isFinite(held) ? held : null
 }
 
 function swept(at: string): undefined {
@@ -124,6 +176,7 @@ export type Said = {
   readonly err: string
   readonly cpuSeconds: number
   readonly peakBytes: number
+  readonly peakMeasured: boolean
 }
 
 export type Held = {
@@ -133,6 +186,7 @@ export type Held = {
   readonly err: string
   readonly cpuSeconds: number
   readonly peakBytes: number
+  readonly peakMeasured: boolean
 }
 
 export type Asked = {
@@ -145,13 +199,15 @@ export type Asked = {
 
 export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
   const ceiling = asked.cpuCeiling
-  const at = ceiling === undefined ? null : budgetAt()
+  const found = foundFor(argv, asked)
+  const at = found === null ? null : budgetAt()
   const watch =
     at === null || ceiling === undefined
       ? null
       : Bun.spawn(["bun", "-e", watching(at, ceiling)], { stdout: "ignore", stderr: "ignore" })
   try {
-    const done = Bun.spawnSync([...(at === null ? argv : joined(at, argv))], {
+    const named = at === null || found === null ? argv : joined(at, argv, found)
+    const done = Bun.spawnSync([...named], {
       stdout: "pipe",
       stderr: "pipe",
       ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
@@ -159,14 +215,16 @@ export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
       ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
       ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
     })
-    const group = at === null ? null : spentAt(at)
+    const group = at === null || ceiling === undefined ? null : spentAt(at)
+    const peak = at === null ? null : peakAt(at)
     return {
       code: done.exitCode ?? NO_CODE,
       signal: done.signalCode ?? null,
       out: new Uint8Array(done.stdout),
       err: done.stderr.toString(),
       cpuSeconds: group ?? Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
-      peakBytes: Number(done.resourceUsage?.maxRSS ?? 0) * KIB,
+      peakBytes: peak ?? 0,
+      peakMeasured: peak !== null,
     }
   } finally {
     watch?.kill()
@@ -207,6 +265,7 @@ export function ran(argv: readonly string[], asked: Asked = {}): Said {
     err: done.err,
     cpuSeconds: done.cpuSeconds,
     peakBytes: done.peakBytes,
+    peakMeasured: done.peakMeasured,
   }
 }
 

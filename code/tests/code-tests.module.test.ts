@@ -28,6 +28,7 @@ import {
   PASSES,
   ROOTED,
   SETS,
+  SWELLS,
   THROWS,
   WEB_BUNFIG,
 } from "akasha/code/tests/code-tests.module.test-fixtures.ts"
@@ -284,8 +285,23 @@ check("a file under the ceiling is still answered with what that file spent", ()
   expect(found[0]?.cpuSeconds).toBeGreaterThan(0)
   expect(found[0]?.wallMs).toBeGreaterThan(0)
   expect(found[0]?.peakBytes).toBeGreaterThan(0)
+  expect(found[0]?.peakMeasured).toBe(true)
   expect(Date.parse(found[0]?.ranAt ?? "")).toBeGreaterThan(0)
 })
+
+check(
+  "two files of one run are each answered the peak that file reached",
+  () => {
+    const root = repo({ "big.test.ts": SWELLS, "one.test.ts": PASSES })
+    const found = spentOver(root, ["akasha"]).spent
+    expect(found.map((one) => one.path)).toEqual(["akasha/big.test.ts", "akasha/one.test.ts"])
+    const big = found[0]?.peakBytes ?? 0
+    const small = found[1]?.peakBytes ?? 0
+    expect(big - small).toBeGreaterThan(200e6)
+    expect(found[1]?.peakMeasured).toBe(true)
+  },
+  30000
+)
 
 check("a run answers the memory a run of its shape reached before any test of it ran", () => {
   const root = repo({ "one.test.ts": PASSES })

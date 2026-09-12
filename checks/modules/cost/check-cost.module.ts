@@ -173,11 +173,11 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "Such a run's peak is measured where the held memory is stated.",
+      statement: "Such a run states whether the peak it reached was measured.",
     },
     {
       invariantKind: "departure",
-      statement: "Such a run's peak is a proxy where no held memory is stated.",
+      statement: "A line says of such a peak what the run stating it says.",
     },
     {
       invariantKind: "absence",

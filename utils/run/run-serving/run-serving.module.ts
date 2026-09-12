@@ -30,6 +30,10 @@ export const runServing = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether that peak was measured is answered beside it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ceiling is judged here rather than in the process that asked for the run.",
     },
     {

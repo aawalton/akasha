@@ -268,7 +268,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that measured no such memory records each file's peak as unmeasured.",
+      statement: "Each file is recorded as the run of that file says its peak was measured.",
     },
     {
       invariantKind: "departure",

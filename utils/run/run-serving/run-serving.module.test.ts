@@ -45,6 +45,13 @@ test("a run past its processor ceiling is answered as died on a signal", () => {
   expect(done.cpuSeconds).toBeLessThan(2)
 })
 
+test("the peak answered is the peak the process the server started reached", () => {
+  const done = relayed(["bun", "-e", "new Uint8Array(300e6).fill(1)"])
+  expect(done.peakMeasured).toBe(true)
+  expect(done.peakBytes).toBeGreaterThan(200e6)
+  expect(relayed(["true"]).peakBytes).toBeLessThan(done.peakBytes / 4)
+})
+
 test("the seconds answered are the run's own rather than the server's", () => {
   const idle = relayed(["true"]).cpuSeconds
   const busy = relayed(["bun", "-e", "let x = 0; for (let i = 0; i < 1e8; i++) x += i"]).cpuSeconds

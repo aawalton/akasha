@@ -105,11 +105,23 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether that peak was measured comes back with it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run the server threw on is answered as having reached no peak.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run is answered as having had no peak measured.",
     },
     {
       invariantKind: "absence",
       statement: "A lost channel is answered as having reached no peak.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A lost channel is answered as having had no peak measured.",
     },
     {
       invariantKind: "absence",

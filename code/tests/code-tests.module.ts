@@ -48,6 +48,10 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "What one file spent says whether that peak was measured.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A run's answer has the memory the runner reaches before any test of that run runs.",
     },

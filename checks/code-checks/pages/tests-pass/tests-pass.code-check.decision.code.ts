@@ -228,6 +228,7 @@ function costsKept(root: string, each: readonly Spent[], baselineBytes: number |
           wallMs: one.wallMs,
           cpuSeconds: one.cpuSeconds,
           peakBytes: one.peakBytes,
+          peakMeasured: one.peakMeasured,
           baselineBytes,
           refusals: clean ? 0 : 1,
         })
