@@ -260,25 +260,12 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal names the path and says the path lands outside the repository.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A move's two paths are weighed against the repository root as an edit's path is.",
     },
     {
       invariantKind: "departure",
       statement:
         "Nothing is written at a path outside the repository however that path reached the writing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The repository ignoring a path does not put that path outside the repository.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A path reaching outside the repository through a symlink inside it is judged by nothing.",
     },
     {
       invariantKind: "departure",

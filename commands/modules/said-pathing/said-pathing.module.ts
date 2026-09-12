@@ -51,6 +51,11 @@ export const saidPathing = {
       statement: "A name opening with two dots is a name rather than a step out of the root.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "A path reaching outside the repository through a symlink inside it is judged by nothing.",
+    },
+    {
       invariantKind: "departure",
       statement: "The refusal for a path written outside the repository is worded here.",
     },
