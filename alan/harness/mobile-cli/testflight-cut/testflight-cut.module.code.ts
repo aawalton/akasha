@@ -217,7 +217,7 @@ export async function runTestflightCut(
       built = await buildWwwAt(done, { app, ref: mainSha })
     } catch (err) {
       throw new OperationalError(
-        `the workstation www build failed, so nothing was staged to the MacBook and no build number was spent (${
+        `the workstation www build failed. It stopped before the MacBook, so no build number was spent there — but it had already written on this workstation, and what it wrote is named with this refusal (${
           err instanceof Error ? err.message : String(err)
         }). The stage script's own output is above — search the run for \`[stage-app]\` and read what follows it for the refusing gate and the modules it names.`
       )

@@ -101,5 +101,9 @@ export const testflightCut = {
       invariantKind: "departure",
       statement: "What the fingerprint recorder names is kept rather than dropped at the call.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A www build that fails says where it stopped rather than that nothing was done.",
+    },
   ],
 } as const satisfies Module
