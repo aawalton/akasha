@@ -12,5 +12,5 @@ export const rule90d1aa3b = {
   displayOrder: 76,
   action: "sell",
   active: true,
-  updatedAt: "2026-06-02T18:57:41.940Z",
+  updatedAt: "2026-09-12T15:33:39.566Z",
 } as const satisfies TemperInventoryRule
