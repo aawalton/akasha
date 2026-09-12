@@ -1,4 +1,5 @@
 import { join, resolve } from "node:path"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -10,8 +11,6 @@ import {
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as saidOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-
-const DATA = 2
 
 const FAILED = 3
 
@@ -127,5 +126,5 @@ export async function temperAddonTypecheck(argv: readonly string[] = []): Promis
   report.push(
     `typechecked ${String(done.length)} addon(s) of the ${String(every.length)} under ${root}: read ${String(readFiles)} file(s), ${String(ownFiles)} of them the addons' own`
   )
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
