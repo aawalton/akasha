@@ -6,6 +6,7 @@ export const inferenceVideoQa = {
   slug: "inference-video-qa",
   definition: "the command answering a question about a clip from the frames taken out of it",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -44,6 +45,10 @@ export const inferenceVideoQa = {
       invariantKind: "departure",
       statement:
         "That one of the two is named is held in this command's code rather than in a narrowing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the ffmpeg run, which clearing the frames away does not undo.",
     },
   ],
   name: "video-qa",

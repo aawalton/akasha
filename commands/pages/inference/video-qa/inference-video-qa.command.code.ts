@@ -81,7 +81,106 @@ async function urlsIn(dir: string, wanted: number): Promise<readonly string[]> {
   return urls
 }
 
-export async function inferenceVideoQa(argv: readonly string[], given: Given): Promise<Answer> {
+export type Read = {
+  readonly checklist: string
+  readonly frames: number
+  readonly fps: number | undefined
+  readonly timeout: number
+  readonly videoPath: string | undefined
+  readonly framesDir: string | undefined
+  readonly commandLine: string
+}
+
+export type Asking = (done: string[], read: Read) => Promise<Answer>
+
+export function decodedSaid(videoPath: string): string {
+  return (
+    `ffmpeg was run over ${videoPath} on this machine to take frames out of it, ` +
+    "and that run is not undone by the frames being cleared away again"
+  )
+}
+
+async function asked(done: string[], read: Read): Promise<Answer> {
+  const reached = serviceNamed(SERVICE)
+  let taken: string | undefined
+  try {
+    let imageDataUrls: readonly string[]
+    let videoFields: { inputVideoPath: string; inputVideoSha256: string } | undefined
+    if (read.videoPath !== undefined) {
+      let clipBytes: Uint8Array
+      try {
+        clipBytes = await readFile(read.videoPath)
+      } catch {
+        return refusedBy([`\`${VIDEO}\` names \`${read.videoPath}\`, which will not read`])
+      }
+      videoFields = { inputVideoPath: read.videoPath, inputVideoSha256: sha256Hex(clipBytes) }
+      taken = await mkdtemp(join(SCRATCH_AT, "inference-video-qa-"))
+      await runFfmpeg(
+        buildFrameExtractArgs({
+          videoPath: read.videoPath,
+          outDir: taken,
+          ...(read.fps === undefined ? {} : { fps: read.fps }),
+        })
+      )
+      done.push(decodedSaid(read.videoPath))
+      imageDataUrls = await urlsIn(taken, read.frames)
+    } else if (read.framesDir !== undefined) {
+      imageDataUrls = await urlsIn(read.framesDir, read.frames)
+    } else {
+      return refusedBy([`this names \`${VIDEO}\` or \`${FRAMES_DIR}\`, and nothing did`])
+    }
+
+    const record = buildInferenceRunRecord({
+      service: SERVICE,
+      operation: "video-qa",
+      model: MLX_VLM_MODEL,
+      host: reached.service.host,
+      commandLine: read.commandLine,
+      startedAt: new Date().toISOString(),
+      prompt: read.checklist,
+      frames: imageDataUrls.length,
+      ...(read.fps === undefined ? {} : { fps: read.fps }),
+      ...(videoFields ?? {}),
+    })
+
+    const pageId = await startInferenceRun(record)
+    const startMs = Date.now()
+    try {
+      const answer = await runVideoQa({
+        baseUrl: reached.baseUrl,
+        body: buildVideoQaRequest({
+          model: MLX_VLM_MODEL,
+          checklist: read.checklist,
+          imageDataUrls: [...imageDataUrls],
+        }),
+        timeoutMs: read.timeout * SECOND_MS,
+      })
+      await finishInferenceRun(pageId, {
+        status: "completed",
+        completedAt: new Date().toISOString(),
+        durationMs: Date.now() - startMs,
+        outputText: answer,
+      })
+      return told(answer.split("\n"))
+    } catch (thrown) {
+      await finishInferenceRun(pageId, {
+        status: "failed",
+        completedAt: new Date().toISOString(),
+        durationMs: Date.now() - startMs,
+        errorMessage: thrown instanceof Error ? thrown.message : String(thrown),
+      })
+      throw thrown
+    }
+  } finally {
+    if (taken !== undefined) await rm(taken, { recursive: true, force: true })
+  }
+}
+
+export async function inferenceVideoQa(
+  argv: readonly string[],
+  given: Given,
+  asking: Asking = asked
+): Promise<Answer> {
   const said = wordsIn(argv, TAKING, [])
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -103,78 +202,14 @@ export async function inferenceVideoQa(argv: readonly string[], given: Given): P
     refusals.push(`\`${FRAMES}\` takes a whole number above zero, and ${frames} is not one`)
   if (refusals.length > 0 || checklist === null) return refusedBy(refusals)
 
-  return await answering(async () => {
-    const reached = serviceNamed(SERVICE)
-    let taken: string | undefined
-    try {
-      let imageDataUrls: readonly string[]
-      let videoFields: { inputVideoPath: string; inputVideoSha256: string } | undefined
-      if (videoPath !== undefined) {
-        let clipBytes: Uint8Array
-        try {
-          clipBytes = await readFile(videoPath)
-        } catch {
-          return refusedBy([`\`${VIDEO}\` names \`${videoPath}\`, which will not read`])
-        }
-        videoFields = { inputVideoPath: videoPath, inputVideoSha256: sha256Hex(clipBytes) }
-        taken = await mkdtemp(join(SCRATCH_AT, "inference-video-qa-"))
-        await runFfmpeg(
-          buildFrameExtractArgs({
-            videoPath,
-            outDir: taken,
-            ...(fps === undefined ? {} : { fps }),
-          })
-        )
-        imageDataUrls = await urlsIn(taken, frames)
-      } else if (framesDir !== undefined) {
-        imageDataUrls = await urlsIn(framesDir, frames)
-      } else {
-        return refusedBy([`this names \`${VIDEO}\` or \`${FRAMES_DIR}\`, and nothing did`])
-      }
-
-      const record = buildInferenceRunRecord({
-        service: SERVICE,
-        operation: "video-qa",
-        model: MLX_VLM_MODEL,
-        host: reached.service.host,
-        commandLine: madeOf(given.calledAs, argv),
-        startedAt: new Date().toISOString(),
-        prompt: checklist,
-        frames: imageDataUrls.length,
-        ...(fps === undefined ? {} : { fps }),
-        ...(videoFields ?? {}),
-      })
-
-      const pageId = await startInferenceRun(record)
-      const startMs = Date.now()
-      try {
-        const answer = await runVideoQa({
-          baseUrl: reached.baseUrl,
-          body: buildVideoQaRequest({
-            model: MLX_VLM_MODEL,
-            checklist,
-            imageDataUrls: [...imageDataUrls],
-          }),
-          timeoutMs: timeout * SECOND_MS,
-        })
-        await finishInferenceRun(pageId, {
-          status: "completed",
-          completedAt: new Date().toISOString(),
-          durationMs: Date.now() - startMs,
-          outputText: answer,
-        })
-        return told(answer.split("\n"))
-      } catch (thrown) {
-        await finishInferenceRun(pageId, {
-          status: "failed",
-          completedAt: new Date().toISOString(),
-          durationMs: Date.now() - startMs,
-          errorMessage: thrown instanceof Error ? thrown.message : String(thrown),
-        })
-        throw thrown
-      }
-    } finally {
-      if (taken !== undefined) await rm(taken, { recursive: true, force: true })
-    }
-  })
+  const read: Read = {
+    checklist,
+    frames,
+    fps,
+    timeout,
+    videoPath,
+    framesDir,
+    commandLine: madeOf(given.calledAs, argv),
+  }
+  return await answering(async (done) => await asking(done, read))
 }
