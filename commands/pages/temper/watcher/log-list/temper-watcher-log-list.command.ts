@@ -11,7 +11,6 @@ export const temperWatcherLogList = {
       said: "--since <duration>",
       takes: "how far back the records reach, said in seconds, minutes, hours or days",
     },
-    { said: "--limit <n>", takes: "the most records given back" },
     { said: "--json", takes: "give one object holding every line rather than one object per line" },
     { said: "--log-dir <path>", takes: "the directory the watcher's logs are read from" },
   ],
@@ -34,4 +33,5 @@ export const temperWatcherLogList = {
     },
   ],
   name: "log-list",
+  arguments: [{ argument: "argument/limit" }],
 } as const satisfies Command
