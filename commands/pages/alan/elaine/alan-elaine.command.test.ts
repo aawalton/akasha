@@ -52,7 +52,9 @@ test("the window it takes by default is fourteen days", () => {
 
 test("a window of no days is refused rather than read as the default", () => {
   const window = windowIn(0)
-  expect("refused" in window && window.refused[0]).toContain("positive integer")
+  expect("refused" in window && window.refused[0]).toBe(
+    "`--days` takes a whole number of one or more, and `0` is none"
+  )
 })
 
 test("a window that is no integer is refused", () => {

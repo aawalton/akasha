@@ -33,7 +33,9 @@ export function windowIn(said: number | undefined): Window {
   if (said === undefined) return { days: DEFAULT_DAYS }
   if (said < 1) {
     return {
-      refused: [`\`${daysArgument.said}\` takes a positive integer, and \`${said}\` is none`],
+      refused: [
+        `\`${daysArgument.said}\` takes a whole number of one or more, and \`${said}\` is none`,
+      ],
     }
   }
   return { days: said }
