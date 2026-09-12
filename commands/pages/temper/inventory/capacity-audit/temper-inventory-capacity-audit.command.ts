@@ -18,14 +18,14 @@ export const temperInventoryCapacityAudit = {
     },
     { said: "--json", takes: "give the whole audit as JSON rather than as text" },
   ],
-  helpNotes: [
-    "each overflowing destination carries the slots needed against the slots free.",
-    "the rules and the items the capacity filter dropped are named beside it.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A destination is reported only where the slots needed run past the slots free.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An overflowing destination names the slots needed and the slots free.",
     },
     {
       invariantKind: "departure",
