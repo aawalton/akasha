@@ -6,6 +6,7 @@ export const seatActCalling = {
   slug: "seat-act-calling",
   definition: "a seat act called with the words that follow the act's name",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -23,6 +24,23 @@ export const seatActCalling = {
     {
       invariantKind: "departure",
       statement: "A refusal from a wrapped act has the exit code that act's error states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wrapped act is handed a list to name each thing that act finishes writing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An act that threw after writing is refused naming what the act had written by then.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act that threw before writing anything is refused as the fault alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What an act finished writing is reported whether that act threw or not.",
     },
     {
       invariantKind: "absence",
