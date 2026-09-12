@@ -153,6 +153,16 @@ export const command = {
       statement: "A machine-facing answer is a flag on the command a person runs.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A refusal backticks what the call wrote and says what is true before what the call did.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A refusal opens lowercase and carries no bracketed tag, no parenthetical and no capital for stress.",
+    },
+    {
       invariantKind: "absence",
       statement: "Outside its directives, a command's code and page spell no name of its own call.",
     },
