@@ -1,4 +1,4 @@
-import type { SubagentKind } from "akasha/seat-system/subagent-kinds/subagent-kind.page-type.types.ts"
+import type { SubagentKind } from "akasha/agents/seats/subagent-kinds/subagent-kind.page-type.types.ts"
 
 export const explore = {
   id: "01a06861-f664-7abd-b503-d89b310876ae",
