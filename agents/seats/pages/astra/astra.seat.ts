@@ -11,4 +11,5 @@ export const astra = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "48fd8798-a090-423d-82ce-9ff1654f9c70",
 } as const satisfies Seat
