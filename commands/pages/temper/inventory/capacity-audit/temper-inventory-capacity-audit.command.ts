@@ -6,7 +6,6 @@ export const temperInventoryCapacityAudit = {
   slug: "temper-inventory-capacity-audit",
   definition: "the command naming the destinations whose storage the rules would overflow",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--inventory-path <path>",

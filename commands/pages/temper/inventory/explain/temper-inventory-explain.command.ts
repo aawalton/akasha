@@ -6,7 +6,6 @@ export const temperInventoryExplain = {
   slug: "temper-inventory-explain",
   definition: "the command tracing why an item resolves to the action the rules give it",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<item>", takes: "the item traced, as a bare item id or as a game item link" },
     {

@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleUpdate = {
   slug: "temper-inventory-buy-rule-update",
   definition: "the command changing the fields of a buy rule named by its id",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the id of the buy rule changed" },
     { said: "--target <n>", takes: "the total quantity to buy up to" },

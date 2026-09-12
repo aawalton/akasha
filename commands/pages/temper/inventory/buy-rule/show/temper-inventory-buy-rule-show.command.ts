@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleShow = {
   slug: "temper-inventory-buy-rule-show",
   definition: "the command giving back one buy rule named by its id",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the id of the buy rule given back" },
     { said: "--tsv", takes: "give one tab-separated row rather than JSON" },

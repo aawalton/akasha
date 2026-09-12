@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleLock = {
   slug: "temper-inventory-buy-rule-lock",
   definition: "the command locking a buy rule named by its id",
   code: "ts",
-  changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the buy rule locked" }],
   invariants: [
     {

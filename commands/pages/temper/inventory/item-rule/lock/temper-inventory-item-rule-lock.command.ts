@@ -6,7 +6,6 @@ export const temperInventoryItemRuleLock = {
   slug: "temper-inventory-item-rule-lock",
   definition: "the command locking a per-item rule named by its id",
   code: "ts",
-  changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the per-item rule locked" }],
   invariants: [
     {
