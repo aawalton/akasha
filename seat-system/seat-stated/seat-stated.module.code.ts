@@ -14,9 +14,9 @@ import {
   type PrincipalRecord,
   principalOf,
 } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
+import { backfillSeatRecord } from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { backfillSeatRecord } from "akasha/seat-system/seat-record/seat-record.module.code.ts"
 import {
   type RegistrationRecord,
   registrationAccountOf,

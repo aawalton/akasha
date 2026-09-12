@@ -1,3 +1,4 @@
+import type { SeatRecord } from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
@@ -9,7 +10,6 @@ import {
   CARRIED,
   RECORDS,
 } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import type { SeatRecord } from "akasha/seat-system/seat-record/seat-record.module.code.ts"
 
 function heldAt(values: Record<string, unknown>, at: readonly string[]): unknown {
   const [one, two] = at

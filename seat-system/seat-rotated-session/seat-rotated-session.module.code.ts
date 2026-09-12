@@ -3,7 +3,7 @@ import {
   dropSeatRecord,
   keepSeatRecord,
   seatRecordOf,
-} from "akasha/seat-system/seat-record/seat-record.module.code.ts"
+} from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
 import {
   type SessionRecord,
   sessionRecordOf,
