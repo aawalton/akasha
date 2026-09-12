@@ -29,8 +29,8 @@ export const removeUnusedExportKeywords = {
         "The rung dropping the keyword is reached once for each file rather than once for each name.",
     },
     {
-      invariantKind: "absence",
-      statement: "This change takes no argument.",
+      invariantKind: "departure",
+      statement: "A run drops the keyword in at most the count of files handed in.",
     },
   ],
 } as const satisfies ChangeAgent

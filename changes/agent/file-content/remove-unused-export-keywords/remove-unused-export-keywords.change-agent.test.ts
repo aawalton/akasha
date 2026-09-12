@@ -14,6 +14,8 @@ const DROP = "change-mechanical-file-content/remove-export-keyword"
 
 const NOWHERE = "/nowhere"
 
+const MOST = 100
+
 const AT = "akasha/held.module.code.ts"
 
 const READER = "akasha/reader.module.code.ts"
@@ -51,17 +53,23 @@ function worldOver(held: Readonly<Record<string, string>>, importers: readonly s
 test("the keyword goes from a value its own file names and stays on one nothing names", async () => {
   const world = worldOver({ [AT]: TEXT }, [])
 
-  const said = await removeUnusedExportKeywords(world)
+  const said = await removeUnusedExportKeywords(world, MOST)
 
   expect(bodyAnswered(said, world, AT)).toBe(
     "function held(): number {\n  return 1\n}\n\nexport function spare(): number {\n  return held()\n}\n"
   )
 })
 
+test("a run capped at no file drops no keyword", async () => {
+  const world = worldOver({ [AT]: TEXT }, [])
+
+  expect((await removeUnusedExportKeywords(world, 0)).edits).toEqual([])
+})
+
 test("a value another file names keeps its keyword", async () => {
   const world = worldOver({ [AT]: TEXT, [READER]: READER_TEXT }, [READER])
 
-  const said = await removeUnusedExportKeywords(world)
+  const said = await removeUnusedExportKeywords(world, MOST)
 
   expect(bodyAnswered(said, world, AT)).toBe(
     "function held(): number {\n  return 1\n}\n\nexport function spare(): number {\n  return held()\n}\n"

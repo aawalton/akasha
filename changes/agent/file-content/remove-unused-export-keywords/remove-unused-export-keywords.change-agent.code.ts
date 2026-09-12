@@ -1,5 +1,6 @@
 import {
   gathered,
+  missing,
   refusing,
   untaken,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
@@ -12,6 +13,8 @@ import {
 import { typed } from "akasha/code/typing/code-typing.module.code.ts"
 
 const DROP = "change-mechanical-file-content/remove-export-keyword"
+
+const MOST = "most"
 
 function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): readonly string[] {
   const text = world.textOf(path)
@@ -26,10 +29,11 @@ function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): 
   return found.filter((one) => one.named).map((one) => one.name)
 }
 
-export async function removeUnusedExportKeywords(world: World): Promise<Answer> {
+export async function removeUnusedExportKeywords(world: World, most: number): Promise<Answer> {
   const pageTypes = world.index.pageTypesIn()
   const answers: Answer[] = []
   for (const path of world.index.everyPath()) {
+    if (answers.length >= most) break
     if (!typed(path)) continue
     const names = surplusIn(world, pageTypes, path)
     if (names.length === 0) continue
@@ -40,10 +44,17 @@ export async function removeUnusedExportKeywords(world: World): Promise<Answer> 
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = []
+export const takes: readonly string[] = [MOST]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  const named = Object.keys(given)[0]
-  if (named !== undefined) return refusing(untaken(named, takes))
-  return await removeUnusedExportKeywords(world)
+  for (const key of Object.keys(given)) {
+    if (key !== MOST) return refusing(untaken(key, takes))
+  }
+  const said = given[MOST]
+  if (said === undefined) return refusing(missing(MOST))
+  const most = Number(said)
+  if (!Number.isInteger(most) || most < 1) {
+    return refusing(`\`${said}\` is no count of files to drop the keyword in`)
+  }
+  return await removeUnusedExportKeywords(world, most)
 }
