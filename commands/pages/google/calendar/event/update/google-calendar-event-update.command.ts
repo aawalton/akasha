@@ -65,6 +65,6 @@ export const googleCalendarEventUpdate = {
     { argument: "argument/location" },
     { argument: "argument/attendees" },
     { argument: "argument/timezone" },
-    { argument: "argument/recurrence" },
+    { argument: "argument/recurrence", repeats: true },
   ],
 } as const satisfies Command
