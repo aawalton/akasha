@@ -16,6 +16,10 @@ export const temperInventoryItemRuleCreate = {
       invariantKind: "absence",
       statement: "Nothing the web alone shows reaches the addon.",
     },
+    {
+      invariantKind: "departure",
+      statement: "`--stock-scope` is taken here and refused, since an item rule carries no scope.",
+    },
   ],
   name: "create",
   arguments: [
