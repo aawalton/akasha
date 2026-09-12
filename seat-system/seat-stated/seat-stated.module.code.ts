@@ -15,12 +15,12 @@ import {
   principalOf,
 } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import { backfillSeatRecord } from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type RegistrationRecord,
   registrationAccountOf,
-} from "akasha/seat-system/seat-registration-account/seat-registration-account.module.code.ts"
+} from "akasha/agents/seats/modules/registration-account/seat-registration-account.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
+import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ROTATED_KEY,
   rotatedOf,
