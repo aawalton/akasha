@@ -5,7 +5,7 @@ import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SEAT = "seat"
 
-const SEATS_BEFORE = ["agents/seats/pages"]
+const SEATS_BEFORE = ["seat-system/seats/pages"]
 
 const SUFFIX = ".seat.ts"
 
