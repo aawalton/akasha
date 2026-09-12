@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const CURSE_EAV_SCHEMA = z
@@ -65,7 +66,7 @@ export function generateTemperCurse(curseRows: readonly Page[]): string {
  * ESO character curse states (vampire, werewolf, no-curse), sourced from
  * the universal pages table (page type: temper-curse).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 interface CurseTemplate {
