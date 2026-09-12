@@ -11,8 +11,8 @@ import {
   type ActivityCategoryId,
 } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { completionPercent } from "akasha/temper/player-completion/modules/completion-percent/completion-percent.module.code.ts"
-import { useCompletionSearch } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
 import { useCompletionActivityMode } from "akasha/temper/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
+import { useCompletionSearch } from "akasha/temper/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
 import { useEffect, useRef, useState } from "react"

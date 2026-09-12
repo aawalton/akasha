@@ -29,12 +29,12 @@ import {
   isCharacterMeasured,
   isCompanionMeasured,
 } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
-import { CompletionSearchContext } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
 import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
+import { CompletionSearchContext } from "akasha/temper/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { CompletionSummaryTab } from "akasha/temper/web/completion-summary-tab/completion-summary-tab.module.code.tsx"
 import {
   type CompletionToolbarContextValue,
