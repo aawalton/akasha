@@ -47,6 +47,11 @@ export const renamePageAddress = {
       invariantKind: "departure",
       statement: "An address naming no scope leaves a body spelling a scoped address alone.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A restated address keeps the place its spelling had, so a sorted list can stop being sorted.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
