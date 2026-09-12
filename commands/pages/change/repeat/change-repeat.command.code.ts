@@ -140,7 +140,7 @@ export function noBatching(slug: string): string {
   )
 }
 
-export function changeAgain(
+export function changeRepeat(
   argv: readonly string[],
   given: Given,
   piping: Piping = inputIn,

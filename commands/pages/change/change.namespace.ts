@@ -11,7 +11,7 @@ export const change = {
     "command/change-drop",
     "command/change-draft",
     "command/change-apply",
-    "command/change-again",
+    "command/change-repeat",
     "module/change-arguing",
   ],
   name: "change",
