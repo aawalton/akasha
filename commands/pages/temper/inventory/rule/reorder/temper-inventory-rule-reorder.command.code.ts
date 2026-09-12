@@ -1,9 +1,8 @@
+import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
-  DATA,
   FORCE,
-  INPUT,
   lockedOff,
   named,
   readIn,
