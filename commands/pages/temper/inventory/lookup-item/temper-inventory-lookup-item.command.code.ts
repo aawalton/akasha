@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -15,10 +16,6 @@ import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/m
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
 
 const INVENTORY_PATH = "--inventory-path"
 
@@ -187,12 +184,12 @@ export async function temperInventoryLookupItem(
     return {
       report: [JSON.stringify(jsonOf(itemId, match, classification, categoryNodeIds))],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
   return {
     report: [...rowsOf(itemId, match, classification, categoryNodeIds)],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
