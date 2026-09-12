@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { childrenAmong } from "akasha/seat-system/seat-children/seat-children.module.code.ts"
+import { childrenAmong } from "akasha/agents/seats/modules/children/seat-children.module.code.ts"
 import type { Seated } from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
 
 const seated = (id: string): Seated => ({ id }) as Seated
