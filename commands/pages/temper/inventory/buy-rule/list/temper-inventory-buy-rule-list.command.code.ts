@@ -1,10 +1,10 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryBuyRuleList as page } from "akasha/commands/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
 import {
-  answeredCall,
-  JSON_FLAG,
+  answeredWith,
   settingsOf,
-  shapeOf,
   toldOf,
   toldRows,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -15,8 +15,6 @@ import {
 import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
-
-const SHAPE = shapeOf([JSON_FLAG], { alone: [JSON_FLAG] })
 
 const NO_SNAPSHOT = "no-snapshot"
 
@@ -42,7 +40,7 @@ async function latestInventory(): Promise<InventoryDatabase | null> {
   return snapshotDatabase(header.slug)
 }
 
-async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
+async function shortfalls(asJson: boolean): Promise<Answer> {
   const settings = await (await settingsOf()).read()
   const rules = settings.buyRules ?? []
   const inventory = await latestInventory()
@@ -59,7 +57,7 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
       })
     }
   }
-  if (held.has(JSON_FLAG)) {
+  if (asJson) {
     return toldOf(
       rules.map((rule) => {
         const read = reading.get(rule.id) ?? UNREAD
@@ -90,5 +88,5 @@ export async function temperInventoryBuyRuleList(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredCall(argv, given.calledAs, SHAPE, listed)
+  return await answeredWith(argv, given.calledAs, page, [json], (taken) => shortfalls(taken.json))
 }
