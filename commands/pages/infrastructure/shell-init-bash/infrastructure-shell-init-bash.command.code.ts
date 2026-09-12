@@ -1,4 +1,5 @@
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -7,21 +8,13 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { infrastructureShellInitBash as page } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"
 import type { AliasEntry } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.code.ts"
 import { generateBashInit } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.code.ts"
 
 const NO_ACCOUNT =
   "no claude account page was read, so the set would carry no account launcher at all — " +
   "the shell keeps the definitions it started with rather than losing them silently"
-
-export type Read = { readonly composing: true } | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals = argv.map(
-    (one) => `\`${one}\` is no word this takes — this takes none and composes one set, for bash`
-  )
-  return refusals.length > 0 ? { refused: refusals } : { composing: true }
-}
 
 export function accountsIn(root: string): readonly AliasEntry[] {
   return [...aliasIndexesIn(root)]
@@ -30,7 +23,7 @@ export function accountsIn(root: string): readonly AliasEntry[] {
 }
 
 export function infrastructureShellInitBash(argv: readonly string[], given: Given): Answer {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [])
   if ("refused" in read) return refusedBy(read.refused)
   try {
     const accounts = accountsIn(given.root)

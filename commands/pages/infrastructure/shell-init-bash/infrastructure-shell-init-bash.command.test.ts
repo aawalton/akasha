@@ -1,9 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  infrastructureShellInitBash,
-  readIn,
-} from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"
+import { infrastructureShellInitBash } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"
 import { ACCOUNT_TYPE_AT } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test-fixtures.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -20,18 +17,15 @@ const given: Given = {
 
 describe("what this takes", () => {
   test("is nothing", () => {
-    expect(readIn([])).toEqual({ composing: true })
+    expect(infrastructureShellInitBash([], given).refusals).toEqual([])
   })
 
   test("so a word given to it is refused", () => {
-    const read = readIn(["bash"])
-    expect("refused" in read).toBe(true)
     expect(infrastructureShellInitBash(["bash"], given).code).toBe(1)
   })
 
   test("and every word given is named rather than the first alone", () => {
-    const read = readIn(["one", "two"])
-    expect("refused" in read && read.refused.length).toBe(2)
+    expect(infrastructureShellInitBash(["one", "two"], given).refusals.length).toBe(2)
   })
 })
 
