@@ -41,3 +41,40 @@ test("a run that started a server and booted a simulator names both", async () =
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toContain(`${STARTED}; ${BOOTED}`)
 })
+
+test("a call naming no route is refused before Appium is reached", async () => {
+  const said = await mobileSimOpenUrl([])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--route")
+})
+
+test("two bare words are refused, since this opens one route", async () => {
+  const said = await mobileSimOpenUrl(["/one", "/two"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("/two")
+})
+
+test("a route said as a word and at its flag is refused", async () => {
+  const said = await mobileSimOpenUrl(["--route", "/one", "/two"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--route")
+})
+
+test("an app slug no page carries is refused rather than defaulted", async () => {
+  const said = await mobileSimOpenUrl(["--app", "nosuch", "/one"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("nosuch")
+})
+
+test("a flag this takes no argument at is refused by name", async () => {
+  const said = await mobileSimOpenUrl(["--bogus", "/one"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--as-real-user")
+})

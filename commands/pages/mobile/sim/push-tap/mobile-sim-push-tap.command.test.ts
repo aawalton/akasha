@@ -10,6 +10,7 @@ import type {
   Read,
 } from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
 import {
+  mobileSimPushTap,
   probed,
   pushSaid,
 } from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
@@ -82,4 +83,34 @@ test("a tap that drew no trace is refused with the push still named", async () =
 
   expect(held.code).toBe(OPERATIONAL)
   expect(held.report).toEqual([PUSHED, SAID])
+})
+
+test("a call naming no route is refused before any push goes out", async () => {
+  const said = await mobileSimPushTap([])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--route")
+})
+
+test("two bare words are refused, since one push carries one route", async () => {
+  const said = await mobileSimPushTap(["/inbox", "/outbox"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("/outbox")
+})
+
+test("an app slug no page carries is refused rather than defaulted", async () => {
+  const said = await mobileSimPushTap(["--route", "/inbox", "--app", "nosuch"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("nosuch")
+})
+
+test("a flag this takes no argument at is refused by name", async () => {
+  const said = await mobileSimPushTap(["--bogus", "/inbox"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--warm")
 })
