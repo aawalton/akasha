@@ -283,7 +283,7 @@ export async function appending(
   const kept = await keptEdits(root, page, async (had) => {
     const before = foldedIn(had)
     if (before.refused !== null) {
-      answer = { report: [], refusals: [before.refused], code: 3 }
+      answer = { report: [], refusals: [before.refused], code: 2 }
       return had
     }
     let said: Said
