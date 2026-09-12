@@ -47,12 +47,12 @@ export const commandTakingTwoWordsIsTestedFromWords = {
       statement: "This check runs on no phase, so it binds nobody and states its rule only.",
     },
     {
-      invariantKind: "gap",
-      statement: "Three commands fill two or more arguments from words and no test fills any.",
+      invariantKind: "upkeep",
+      statement: "Every command filling two or more arguments from words has a test filling them.",
     },
     {
       invariantKind: "departure",
-      statement: "The phases come on once Alan approves the check and those three have tests.",
+      statement: "The phases come on once Alan approves the check.",
     },
     {
       invariantKind: "absence",
