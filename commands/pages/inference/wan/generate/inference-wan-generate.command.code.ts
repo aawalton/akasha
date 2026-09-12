@@ -1,3 +1,7 @@
+import {
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Shape } from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
@@ -33,11 +37,11 @@ export function readGenerate(argv: readonly string[]): ReturnType<typeof readIn>
 
 export async function inferenceWanGenerate(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readGenerate(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
     return await generating(read, given, argv, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: 3 }
+    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
 }

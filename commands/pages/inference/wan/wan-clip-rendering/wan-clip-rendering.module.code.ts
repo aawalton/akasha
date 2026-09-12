@@ -1,6 +1,12 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -64,7 +70,7 @@ export async function generating(
   const startSaid = said.get("--start-image")
   const endSaid = said.get("--end-image")
   if (startSaid === undefined && endSaid === undefined) {
-    return refused("this names `--start-image` or `--end-image`, and neither was said", 1)
+    return refused("this names `--start-image` or `--end-image`, and neither was said", INPUT)
   }
   const startPath = startSaid === undefined ? undefined : at(given, startSaid)
   const endPath = endSaid === undefined ? undefined : at(given, endSaid)
@@ -76,7 +82,7 @@ export async function generating(
   const size = said.get("--size") ?? ""
   const held = parseSizeOrNull(size)
   if (held === null) {
-    return refused(`\`--size\` is two whole numbers parted by \`x\`, and \`${size}\` is not`, 1)
+    return refused(`\`--size\` is two whole numbers parted by \`x\`, and \`${size}\` is not`, INPUT)
   }
   const { width, height } = held
   const frames = numberIn(said, "--frames") ?? 0
@@ -102,13 +108,13 @@ export async function generating(
   let startBytes: Uint8Array | undefined
   if (startPath !== undefined) {
     const one = await bytesIn("--start-image", startPath)
-    if ("why" in one) return refused(one.why, 2)
+    if ("why" in one) return refused(one.why, DATA)
     startBytes = one.bytes
   }
   let endBytes: Uint8Array | undefined
   if (endPath !== undefined) {
     const one = await bytesIn("--end-image", endPath)
-    if ("why" in one) return refused(one.why, 2)
+    if ("why" in one) return refused(one.why, DATA)
     endBytes = one.bytes
   }
   const startName = startPath === undefined ? undefined : basename(startPath)
@@ -122,7 +128,7 @@ export async function generating(
     return refused(
       `\`--start-image\` and \`--end-image\` are two files named \`${startName}\`, ` +
         "and staging would put one over the other — name one of them otherwise",
-      1
+      INPUT
     )
   }
 
@@ -191,7 +197,7 @@ export async function generating(
     return { outputPath: outPath, outputBytes: mp4 }
   })
   report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function extending(
@@ -207,7 +213,7 @@ export async function extending(
   if (direction === undefined) {
     return refused(
       `\`--direction\` is \`forward\` or \`back\`, and \`${directionSaid}\` is neither`,
-      1
+      INPUT
     )
   }
   const prompt = said.get("--prompt") ?? ""
@@ -227,7 +233,7 @@ export async function extending(
       : at(given, outSaid)
 
   if (contextFrames < 1) {
-    return refused("`--context-frames` is one frame or more", 1)
+    return refused("`--context-frames` is one frame or more", INPUT)
   }
   let contextBytes: Uint8Array
   try {
@@ -235,24 +241,24 @@ export async function extending(
   } catch (thrown) {
     return refused(
       `\`--context\` names \`${contextPath}\`, which would not be read — ${whyOf(thrown)}`,
-      2
+      DATA
     )
   }
 
   const counted = await framesIn(contextPath)
-  if ("why" in counted) return { report, refusals: [counted.why], code: 3 }
+  if ("why" in counted) return { report, refusals: [counted.why], code: OPERATIONAL }
   if (contextFrames >= counted.many) {
     return refused(
       `\`--context-frames\` is ${contextFrames}, and the clip holds ${counted.many} frames — ` +
         "the window is fewer frames than the clip",
-      1
+      INPUT
     )
   }
   let width: number
   let height: number
   if (sizeSaid === undefined) {
     const probed = await sizeIn(contextPath)
-    if ("why" in probed) return { report, refusals: [probed.why], code: 3 }
+    if ("why" in probed) return { report, refusals: [probed.why], code: OPERATIONAL }
     width = probed.width
     height = probed.height
     report.push(`the context clip holds ${counted.many} frames at ${width}x${height}`)
@@ -261,7 +267,7 @@ export async function extending(
     if (held === null) {
       return refused(
         `\`--size\` is two whole numbers parted by \`x\`, and \`${sizeSaid}\` is not`,
-        1
+        INPUT
       )
     }
     width = held.width
@@ -346,5 +352,5 @@ export async function extending(
     return { outputPath: outPath, outputBytes: mp4 }
   })
   report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
