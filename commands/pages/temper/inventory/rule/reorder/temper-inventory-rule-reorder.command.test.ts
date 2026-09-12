@@ -16,14 +16,14 @@ import {
   temperInventoryRuleReorder,
 } from "akasha/commands/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"
 import { temperInventoryRuleReorder as page } from "akasha/commands/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts"
-import { wroteSaid } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { wroteSaid } from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   HELD,
   LOCKED_ID,
   UNREADABLE,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory rule reorder"

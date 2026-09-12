@@ -20,7 +20,7 @@ import {
   unfound,
   type Writing,
   wroteSaid,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   reorderCategoryRule,
   resolveAnchorIndex,

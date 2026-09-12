@@ -15,7 +15,7 @@ import {
   UNREADABLE,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 
 const CALLED_AS = "akasha temper inventory rule create"
 

@@ -1,4 +1,4 @@
-import type { Writing } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import type { Writing } from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export const HELD = "a-rule-the-settings-hold"

@@ -16,13 +16,13 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryBuyRuleCreate as page } from "akasha/commands/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
+import { BUY_SOURCE_VALUES } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import {
   settingsOf,
   type Writing,
   webOf,
   wroteSaid,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { BUY_SOURCE_VALUES } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   addBuyRule,
   bulkUpdateBuyRules,

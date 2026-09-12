@@ -18,13 +18,13 @@ import { temperInventoryRuleUpdate as page } from "akasha/commands/pages/temper/
 import {
   type Writing,
   wroteSaid,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   HELD,
   LOCKED_ID as SHUT,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 
 const CALLED_AS = "akasha temper inventory rule update"
 

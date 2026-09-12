@@ -19,13 +19,13 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryItemRuleCreate as page } from "akasha/commands/pages/temper/inventory/item-rule/create/temper-inventory-item-rule-create.command.ts"
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
+import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import {
   settingsOf,
   type Writing,
   webOf,
   wroteSaid,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
 import {
   addItemRule,

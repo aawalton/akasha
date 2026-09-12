@@ -18,18 +18,18 @@ import { answeredByPage } from "akasha/commands/modules/page-answering/page-answ
 import { temperInventoryRuleCreate as page } from "akasha/commands/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts"
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
-  settingsOf,
-  type Writing,
-  webOf,
-  wroteSaid,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import {
   narrowCategoryId,
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
   parseConditionsJson,
 } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import {
+  settingsOf,
+  type Writing,
+  webOf,
+  wroteSaid,
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { addCategoryRule } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 

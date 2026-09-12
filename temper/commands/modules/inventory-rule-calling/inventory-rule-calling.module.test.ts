@@ -6,13 +6,13 @@ import {
   droppedRule,
   lockedRule,
   wroteSaid,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   HELD,
   LOCKED_ID,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 
 const THREW_AFTER_WRITING = writingThat(() => Promise.resolve("written"))
 
