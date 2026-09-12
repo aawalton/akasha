@@ -7,13 +7,7 @@ export const googleAuthLogin = {
   definition:
     "the command granting the consent Google is reached as Alan on, for calendar, drive and mail",
   code: "ts",
-  taking: [
-    {
-      said: "--callback-url <url>",
-      takes:
-        "the callback URL pasted from the browser, where the loopback listener cannot be reached",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -45,4 +39,5 @@ export const googleAuthLogin = {
     },
   ],
   name: "login",
+  arguments: [{ argument: "argument/callback-url" }],
 } as const satisfies Command
