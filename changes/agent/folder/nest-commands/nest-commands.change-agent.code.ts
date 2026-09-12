@@ -107,6 +107,8 @@ export async function nestCommands(world: World, given: NestCommandsAsked): Prom
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [NAMESPACE]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const namespace = given[NAMESPACE]
   if (namespace === undefined) return refusing(missing(NAMESPACE))

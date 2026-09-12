@@ -16,6 +16,8 @@ export async function removeFolder(world: World, given: RemoveFolderAsked): Prom
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [AT]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
