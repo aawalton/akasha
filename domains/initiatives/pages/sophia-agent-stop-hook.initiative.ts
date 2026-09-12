@@ -16,7 +16,7 @@ export const sophiaAgentStopHook = {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Two of five have judges, each one prompt. Neither Clock Nor Meter, at `directive-kept`, catches 15 of 34 and refuses none of 214 clean turns. One At A Time, at `one-at-a-time-kept`, catches 11 of 24 and refuses none of 214; over Eppie's whole pool, 19 of 33 and none of 227. What got it past its misfires was turns already judged put in to calibrate, and a terminal clause after the ordered steps. No Commentary was set down at 0.857. Don't Stop! has 55 breaches waiting and Act By Default 36.",
+        "Three of five have judges, each one prompt. Neither Clock Nor Meter, at `directive-kept`, catches 15 of 34 and refuses none of 214 clean turns. One At A Time, at `one-at-a-time-kept`, 19 of 33 and none of 227. No Commentary, at `no-commentary-kept`, 11 of 63 and none of 227, and still none with the eight turns it quotes held out. Act By Default has 36 breaches waiting. Don't Stop! is the hard one: the widest sign tried misfires 44 times over 227.",
     },
     {
       statement:
@@ -32,7 +32,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "A case names every directive the turn breaks rather than one of them.",
       workingMemory:
-        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as a turn breaking nothing. 165 of the 413 cases are labelled that way, and the judge fires on 6 of them, three of which plainly break Neither Clock Nor Meter too. Every precision figure taken on this set is understated by that. The rival test says as much on its own page: which rule is named is not weighed, because one turn breaks more than one rule.",
+        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as a turn breaking nothing. 165 of the 413 cases are labelled that way. It bites hardest on Don't Stop!, where `Applying module again.` is labelled clean and `Let me make the change.` a breach, and nothing on either says whether the other rule was weighed at all. Until a case names every rule its turn breaks, no judge for that directive can be measured. The rival test says as much on its own page.",
     },
     {
       statement: "Every turn Eppie mined and labelled is a case.",
