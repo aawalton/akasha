@@ -70,6 +70,11 @@ export const athenaCommandModules = {
       workingMemory:
         "`whyOf` at `fault-saying.module.code.ts:12-14` cuts the message at 240 and is the whole of a fault refusal: `faulted` at `answering/command-answering.module.code.ts:44-46` builds it from `whyOf` alone. `framesOf` at `:16-27` already reads file, line and column off the stack, and its one reader is `checks/modules/checking/checking.module.code.ts:305,308`. The frame goes on a line of its own, so `fault-saying.module.ts:59` still holds. The 240 cut stays.\n",
     },
+    {
+      statement: "A refusal's exit code says what kind of thing went wrong.",
+      workingMemory:
+        "`cli.module.ts:48` and `answering/command-answering.module.ts:13` already state it, with `INPUT = 1`, `DATA = 2`, `OPERATIONAL = 3` at `command-answering.module.code.ts:6-10`. `mistaking` at `refusing.module.code.ts:10-12` and `refusing` at `calling.module.code.ts:244-246` hand out 1 flat, and a `catch` answering 1 says the caller was mistaken where the machine broke. `git restore` was mended that way. A check has to hold it, because nothing derives a code from a refusal's words.\n",
+    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
