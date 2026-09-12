@@ -26,7 +26,7 @@ export const claudeAccountReading = {
     {
       invariantKind: "departure",
       statement:
-        "A fleet answer reads the fleet's index once and then reads each slug's page once.",
+        "A fleet answer lists where the fleet's slugs are filed and then reads each slug's page once.",
     },
     {
       invariantKind: "departure",
