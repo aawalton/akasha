@@ -1,12 +1,14 @@
 import { realpathSync } from "node:fs"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const FAILED = 3
 
 const CODE_ROOT_FLAG = "--code-root"
 
@@ -39,7 +41,7 @@ export async function temperAddonDataGenerate(argv: readonly string[] = []): Pro
         DATA
       )
     }
-    return refused(`the addon data was not written whole: ${messageOf(thrown)}`, FAILED)
+    return refused(`the addon data was not written whole: ${messageOf(thrown)}`, OPERATIONAL)
   }
 
   return {
