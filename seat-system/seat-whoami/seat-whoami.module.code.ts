@@ -8,11 +8,11 @@ import {
   nameFromHistory,
 } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
 import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   seatIdForName,
   seatNameForAgent,
-} from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+} from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   principalOf,
   principalSeatIdOf,

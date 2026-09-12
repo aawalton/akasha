@@ -5,7 +5,7 @@ import {
 } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
 import { watchMessagesTo } from "akasha/agents/messaging/message-file-watch/message-file-watch.module.code.ts"
 import { startDeliveryWitness } from "akasha/agents/messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
-import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 const WITNESS_HEARTBEAT_MS = 30_000

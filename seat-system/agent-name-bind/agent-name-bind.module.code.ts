@@ -4,7 +4,7 @@ import {
   type Claiming,
   type Presence,
 } from "akasha/agents/seats/modules/name-claim/seat-name-claim.module.code.ts"
-import { agentHolderProcess } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { agentHolderProcess } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import {
   parseSeatProcKey,
   seatProcKeyPresence,

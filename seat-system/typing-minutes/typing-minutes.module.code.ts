@@ -1,5 +1,5 @@
 import { appendFile, mkdir } from "node:fs/promises"
-import { seatNameForSupervisorPid } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { seatNameForSupervisorPid } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 

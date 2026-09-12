@@ -1,11 +1,11 @@
 import { attributesOf } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import {
   anyWorking,
   anyWorkingRead,
   type TurnWorking,
   workingOf,
 } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
-import { agentPresence } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { roleIsOnCall } from "akasha/seat-system/seat-role-on-call/seat-role-on-call.module.code.ts"
 import {

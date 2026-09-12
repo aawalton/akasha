@@ -1,4 +1,4 @@
-import { agentHolderProcess } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { agentHolderProcess } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import {
   formatSeatProcKey,
   parseSeatProcKey,
