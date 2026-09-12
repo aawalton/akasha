@@ -42,4 +42,5 @@ export const temperAddonList = {
       statement: "Nothing here reads the game folder.",
     },
   ],
+  name: "list",
 } as const satisfies Command

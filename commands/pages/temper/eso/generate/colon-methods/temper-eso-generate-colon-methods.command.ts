@@ -61,4 +61,5 @@ export const temperEsoGenerateColonMethods = {
       statement: "A check reads this census.",
     },
   ],
+  name: "colon-methods",
 } as const satisfies Command

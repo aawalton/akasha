@@ -60,4 +60,5 @@ export const temperAddonTypecheck = {
       statement: "Nothing is emitted by the compiler here.",
     },
   ],
+  name: "typecheck",
 } as const satisfies Command

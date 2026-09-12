@@ -38,4 +38,5 @@ export const temperAddonGlobalNameDependents = {
       statement: "Naming no global reports only the globals a menu entry is bound to.",
     },
   ],
+  name: "global-name-dependents",
 } as const satisfies Command

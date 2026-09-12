@@ -56,4 +56,5 @@ export const temperEsoGenerateChatterNames = {
       statement: "The rendering of the registry is in akasha.",
     },
   ],
+  name: "chatter-names",
 } as const satisfies Command

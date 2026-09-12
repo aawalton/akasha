@@ -41,4 +41,5 @@ export const temperCommunityAddonInstall = {
       statement: "Nothing here keeps an addon it installed up to date.",
     },
   ],
+  name: "addon-install",
 } as const satisfies Command

@@ -45,4 +45,5 @@ export const temperAddonGenerateLoadOrder = {
       statement: "Nothing written here is carried by a commit.",
     },
   ],
+  name: "generate-load-order",
 } as const satisfies Command

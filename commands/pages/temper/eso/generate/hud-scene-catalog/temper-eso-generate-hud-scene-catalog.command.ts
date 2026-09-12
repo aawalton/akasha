@@ -71,4 +71,5 @@ export const temperEsoGenerateHudSceneCatalog = {
       statement: "Nothing here writes the clone.",
     },
   ],
+  name: "hud-scene-catalog",
 } as const satisfies Command

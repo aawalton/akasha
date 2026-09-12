@@ -69,4 +69,5 @@ export const temperEsoTypingsAudit = {
       statement: "Nothing here writes an artifact or the clone.",
     },
   ],
+  name: "typings-audit",
 } as const satisfies Command

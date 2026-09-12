@@ -32,4 +32,5 @@ export const temperAddonDataGenerate = {
         "Emitted data differing from the hand-written equipment mappings refuses the call.",
     },
   ],
+  name: "data-generate",
 } as const satisfies Command

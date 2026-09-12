@@ -75,4 +75,5 @@ export const temperEsoGenerateTypings = {
       statement: "The opt-in manifest naming which tokens are kept is in akasha.",
     },
   ],
+  name: "typings",
 } as const satisfies Command

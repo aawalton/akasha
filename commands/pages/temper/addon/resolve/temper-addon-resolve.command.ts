@@ -41,4 +41,5 @@ export const temperAddonResolve = {
       statement: "Nothing here reads the game folder.",
     },
   ],
+  name: "resolve",
 } as const satisfies Command

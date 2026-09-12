@@ -45,4 +45,5 @@ export const temperAddonCopyMetadata = {
       statement: "Nothing written here is carried by a commit.",
     },
   ],
+  name: "copy-metadata",
 } as const satisfies Command

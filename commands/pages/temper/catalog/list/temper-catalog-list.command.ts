@@ -23,4 +23,5 @@ export const temperCatalogList = {
       statement: "Nothing here reads the game's saved variables.",
     },
   ],
+  name: "list",
 } as const satisfies Command

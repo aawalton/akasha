@@ -33,4 +33,5 @@ export const temperCommunityAddonList = {
       statement: "A folder the deploy pipeline owns is left out.",
     },
   ],
+  name: "addon-list",
 } as const satisfies Command

@@ -69,4 +69,5 @@ export const temperEsoGenerateBaseGameGlobals = {
       statement: "The run count and the workspace-package page's part slugs are written together.",
     },
   ],
+  name: "base-game-globals",
 } as const satisfies Command

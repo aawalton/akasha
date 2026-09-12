@@ -50,4 +50,5 @@ export const temperCatalogStatus = {
       statement: "A missing file is read as no capture rather than refusing the call.",
     },
   ],
+  name: "status",
 } as const satisfies Command

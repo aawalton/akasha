@@ -35,4 +35,5 @@ export const temperCatalogInvalidate = {
       statement: "The collection happens when the game next reloads.",
     },
   ],
+  name: "invalidate",
 } as const satisfies Command
