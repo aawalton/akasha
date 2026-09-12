@@ -44,7 +44,7 @@ const TAKING = [
   { said: IMAGE },
   { said: HOST },
   { said: OUTPUT },
-  { said: RESOLUTION, aliases: ["-r"] },
+  { said: RESOLUTION },
   { said: SEED },
 ]
 
