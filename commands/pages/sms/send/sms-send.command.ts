@@ -10,7 +10,6 @@ export const smsSend = {
     { said: "--to <e164>", takes: "the number the text goes to, written in E.164" },
     { said: "<e164>", takes: "the same number, said as a word rather than at its flag" },
     { said: "--text <body>", takes: "the message body" },
-    { said: "--text-file <path>", takes: "a file the body is read from, or `-` for the input" },
     {
       said: "--from <e164>",
       takes: "the number to send from, the toll-free one where none is said",
@@ -55,5 +54,5 @@ export const smsSend = {
     },
   ],
   name: "send",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/text-file" }],
 } as const satisfies Command

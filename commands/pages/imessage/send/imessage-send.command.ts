@@ -16,7 +16,6 @@ export const imessageSend = {
       takes: "the same recipient, said as a word rather than at its flag",
     },
     { said: "--text <body>", takes: "the message body" },
-    { said: "--text-file <path>", takes: "a file the body is read from, or `-` for the input" },
     { said: "--image <path>", takes: "a file hung off the message, ten megabytes at most" },
   ],
   invariants: [
@@ -55,5 +54,5 @@ export const imessageSend = {
     },
   ],
   name: "send",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/text-file" }],
 } as const satisfies Command
