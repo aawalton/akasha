@@ -34,6 +34,6 @@ export const emailMessageList = {
     { argument: "argument/query-file" },
     { argument: "argument/mail-query" },
     { argument: "argument/max" },
-    { argument: "argument/label" },
+    { argument: "argument/label", repeats: true },
   ],
 } as const satisfies Command

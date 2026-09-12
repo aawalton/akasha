@@ -8,5 +8,4 @@ export const label = {
   takes: "a label id a listing is held to, said again for each",
   value: "text",
   placeholder: "id",
-  repeats: true,
 } as const satisfies Argument
