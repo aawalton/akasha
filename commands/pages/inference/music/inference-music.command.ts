@@ -26,12 +26,6 @@ export const inferenceMusic = {
     { said: "--output <path.wav>", takes: "where the WAV is written" },
     { said: "--no-persist", takes: "leave the audio where it was written and file no page for it" },
   ],
-  helpNotes: [
-    "lyrics nothing named render an instrumental rather than silence.",
-    "the render is submitted as a task and then polled, so the timeout counts the whole wait rather than one request.",
-    "a seed nothing named is drawn, and the seed is recorded whether it was drawn or said.",
-    "the steps default to what the turbo distill was trained for, and raising them costs time for quality.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -48,6 +42,10 @@ export const inferenceMusic = {
     {
       invariantKind: "departure",
       statement: "A seed nothing named is drawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seed is recorded whether the seed was drawn or named.",
     },
     {
       invariantKind: "departure",
