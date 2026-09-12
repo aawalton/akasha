@@ -16,6 +16,7 @@ export const service = {
     "page-type/service-inference",
     "module/deploy-choosing",
     "module/deploy-subject-listing",
+    "module/deploy-wanting",
   ],
   invariants: [
     {
