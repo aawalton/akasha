@@ -9,13 +9,12 @@ import {
   KEPT_LANDS,
   KEPT_LANDS_ENTRIES,
   KEPT_PAGE,
-  keptAt,
   movesOf,
   OWNED_CODE,
   OWNED_LANDS,
   OWNED_PAGE,
   OWNED_UNDER,
-  ownedAt,
+  pagesAt,
   RUNS,
   SEATED_PAGE,
   SEATED_SLUG,
@@ -32,9 +31,6 @@ import {
   WIDE_FIXTURES,
   WIDE_PAGE,
   WIDE_SESSIONS,
-  wardedAt,
-  wayAt,
-  wideAt,
   worldIn,
 } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
 import {
@@ -239,7 +235,7 @@ test("a body that is no page spelling the page's address states the new address"
 })
 
 test("a beside file is carried whichever kind of property holds that file", async () => {
-  const said = await runChange(worldIn(wideAt, textIn(wideAt)), { at: WIDE_PAGE, to: CARRIED })
+  const said = await runChange(worldIn(pagesAt, textIn(pagesAt)), { at: WIDE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [WIDE_PAGE, CARRIED_PAGE],
@@ -250,7 +246,7 @@ test("a beside file is carried whichever kind of property holds that file", asyn
 })
 
 test("a page whose type holds a secret has the sops file beside it carried too", async () => {
-  const world = worldIn(wardedAt, textIn(wardedAt))
+  const world = worldIn(pagesAt, textIn(pagesAt))
   const said = await runChange(world, { at: WARDED_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
@@ -261,7 +257,7 @@ test("a page whose type holds a secret has the sops file beside it carried too",
 })
 
 test("a page carries the uncommitted file its type declares though the page states no key", async () => {
-  const world = worldIn(keptAt, textIn(keptAt))
+  const world = worldIn(pagesAt, textIn(pagesAt))
   const said = await runChange(world, { at: KEPT_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
@@ -271,14 +267,14 @@ test("a page carries the uncommitted file its type declares though the page stat
 })
 
 test("a page whose type holds a secret it keeps no file for carries no sops file", async () => {
-  const world = worldIn(wardedAt, textIn(wardedAt))
+  const world = worldIn(pagesAt, textIn(pagesAt))
   const said = await runChange(world, { at: SECOND_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([[SECOND_PAGE, WARDED_LANDS]])
 })
 
 test("a page owning its folder carries what sits under that folder, each file once", async () => {
-  const said = await runChange(worldIn(ownedAt, textIn(ownedAt)), { at: OWNED_PAGE, to: CARRIED })
+  const said = await runChange(worldIn(pagesAt, textIn(pagesAt)), { at: OWNED_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [OWNED_PAGE, CARRIED_PAGE],
@@ -298,7 +294,7 @@ test("a page carrying the slug asked for is carried into the folder that slug na
 })
 
 test("a page carrying the slug asked for, in the folder that slug names, is refused", async () => {
-  const world = worldIn(wardedAt, textIn(wardedAt))
+  const world = worldIn(pagesAt, textIn(pagesAt))
   const said = await runChange(world, { at: SEATED_PAGE, to: SEATED_SLUG })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
@@ -367,8 +363,8 @@ test("a page type scoping its slug names that scope in the address", () => {
 })
 
 test("a way named for the old slug is named for the new slug", async () => {
-  const was = textIn(wayAt)
-  const said = await runChange(worldIn(wayAt, was), { at: WAY_PAGE, to: CARRIED })
+  const was = textIn(pagesAt)
+  const said = await runChange(worldIn(pagesAt, was), { at: WAY_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(bodiesIn(said, was).get(WAY_MANIFEST)).toContain(
     `"./${CARRIED}": "./${CARRIED}/${CARRIED}.module.code.ts"`

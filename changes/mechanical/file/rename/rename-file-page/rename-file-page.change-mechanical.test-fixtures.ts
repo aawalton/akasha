@@ -14,7 +14,6 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
-  idOf,
   indexedRepo,
   pageOf,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
@@ -57,31 +56,6 @@ export const WARDED_LANDS_CODE = "akasha/eight/carried.warded.code.ts"
 
 export const WARDED_LANDS_SOPS = "akasha/eight/carried.warded.sops.yaml"
 
-export const wardedAt: string = indexedRepo({
-  [SEATED_PAGE]: pageOf({ id: idOf("0"), pageTypeSlug: "module", slug: SEATED_SLUG, code: "ts" }),
-  [SEATED_CODE]: "export const kept = 5\n",
-  [WARDED_TYPE]: pageOf({
-    id: idOf("d"),
-    pageTypeSlug: "page-type",
-    slug: "warded",
-    pluralSlug: "warded",
-    extends: ["page-type/module"],
-    properties: [
-      { pagePropertySlug: "relation-property/note", required: false, many: false, secret: true },
-    ],
-  }),
-  [WARDED_PAGE]: pageOf({ id: idOf("e"), pageTypeSlug: "warded", slug: "warded-one", code: "ts" }),
-  [WARDED_CODE]: "export const kept = 6\n",
-  [WARDED_SOPS]: "kept: ENC[held]\n",
-  [SECOND_PAGE]: pageOf({ id: idOf("f"), pageTypeSlug: "warded", slug: "second" }),
-})
-
-export const ownedAt: string = indexedRepo({
-  [OWNED_PAGE]: pageOf({ id: idOf("d"), pageTypeSlug: "module", slug: "owned", code: "ts" }),
-  [OWNED_CODE]: "export const kept = 7\n",
-  [OWNED_UNDER]: "kept\n",
-})
-
 export const WIDE_PAGE = "akasha/four/wide.module.ts"
 
 export const WIDE_CODE = "akasha/four/wide.module.code.ts"
@@ -90,41 +64,6 @@ export const WIDE_SESSIONS = "akasha/four/wide.module.sessions.jsonl"
 
 export const WIDE_FIXTURES = "akasha/four/wide.module.test-fixtures.ts"
 
-export const wideAt: string = indexedRepo({
-  "akasha/test-fixtures.file-property.ts": bodyOf({
-    id: idOf("d"),
-    pageTypeSlug: "file-property",
-    slug: "test-fixtures",
-    propertySlug: "test-fixtures",
-  }),
-  "akasha/page-property-entry.page-type.ts": bodyOf({
-    id: idOf("e"),
-    pageTypeSlug: "page-type",
-    slug: "page-property-entry",
-    extends: ["page-type/page-property"],
-    properties: [],
-  }),
-  "akasha/sessions.page-property-entry.ts": bodyOf({
-    id: idOf("0"),
-    pageTypeSlug: "page-property-entry",
-    slug: "sessions",
-    propertySlug: "sessions",
-  }),
-  [WIDE_PAGE]: pageOf({
-    id: idOf("f"),
-    pageTypeSlug: "module",
-    slug: "wide",
-    code: "ts",
-    testFixtures: "ts",
-    sessions: "jsonl",
-  }),
-  [WIDE_CODE]: "export const kept = 3\n",
-  [WIDE_FIXTURES]: "export const set = 4\n",
-  [WIDE_SESSIONS]: "{}\n",
-})
-
-const keptId = (one: string): string => `01a04a4a-0004-7000-8000-00000000000${one}`
-
 export const KEPT_PAGE = "akasha/kepts/first/first.kept.ts"
 
 export const KEPT_ENTRIES = "akasha/kepts/first/first.kept.entries.uncommitted.jsonl"
@@ -132,42 +71,6 @@ export const KEPT_ENTRIES = "akasha/kepts/first/first.kept.entries.uncommitted.j
 export const KEPT_LANDS = "akasha/kepts/carried/carried.kept.ts"
 
 export const KEPT_LANDS_ENTRIES = "akasha/kepts/carried/carried.kept.entries.uncommitted.jsonl"
-
-export const keptAt: string = indexedRepo({
-  "akasha/file-property.page-type.ts": pageOf({
-    id: keptId("0"),
-    pageTypeSlug: "page-type",
-    slug: "file-property",
-    pluralSlug: "file-properties",
-    extends: ["page-type/page-property"],
-  }),
-  "akasha/entries.file-property.ts": pageOf({
-    id: keptId("1"),
-    pageTypeSlug: "file-property",
-    slug: "entries",
-    propertySlug: "entries",
-  }),
-  "akasha/kept.page-type.ts": pageOf({
-    id: keptId("2"),
-    pageTypeSlug: "page-type",
-    slug: "kept",
-    pluralSlug: "kepts",
-    extends: ["page-type/module"],
-    properties: [
-      {
-        pagePropertySlug: "file-property/entries",
-        required: false,
-        many: false,
-        uncommitted: true,
-        default: "jsonl",
-      },
-    ],
-  }),
-  [KEPT_PAGE]: pageOf({ id: keptId("3"), pageTypeSlug: "kept", slug: "first" }),
-  [KEPT_ENTRIES]: '{"kind":"add"}\n',
-})
-
-const wayId = (one: string): string => `01a04a4a-0003-7000-8000-00000000000${one}`
 
 export const WAY_MANIFEST = "akasha/nine/package.json"
 
@@ -183,23 +86,103 @@ const WAY_BODY = `{
 }
 `
 
-export const wayAt: string = indexedRepo({
+const oneId = (one: string): string => `01a04a4a-0005-7000-8000-0000000000${one}`
+
+export const pagesAt: string = indexedRepo({
+  [SEATED_PAGE]: pageOf({ id: oneId("01"), pageTypeSlug: "module", slug: SEATED_SLUG, code: "ts" }),
+  [SEATED_CODE]: "export const kept = 5\n",
+  [WARDED_TYPE]: pageOf({
+    id: oneId("02"),
+    pageTypeSlug: "page-type",
+    slug: "warded",
+    pluralSlug: "warded",
+    extends: ["page-type/module"],
+    properties: [
+      { pagePropertySlug: "relation-property/note", required: false, many: false, secret: true },
+    ],
+  }),
+  [WARDED_PAGE]: pageOf({
+    id: oneId("03"),
+    pageTypeSlug: "warded",
+    slug: "warded-one",
+    code: "ts",
+  }),
+  [WARDED_CODE]: "export const kept = 6\n",
+  [WARDED_SOPS]: "kept: ENC[held]\n",
+  [SECOND_PAGE]: pageOf({ id: oneId("04"), pageTypeSlug: "warded", slug: "second" }),
+  [OWNED_PAGE]: pageOf({ id: oneId("05"), pageTypeSlug: "module", slug: "owned", code: "ts" }),
+  [OWNED_CODE]: "export const kept = 7\n",
+  [OWNED_UNDER]: "kept\n",
+  "akasha/test-fixtures.file-property.ts": bodyOf({
+    id: oneId("06"),
+    pageTypeSlug: "file-property",
+    slug: "test-fixtures",
+    propertySlug: "test-fixtures",
+  }),
+  "akasha/page-property-entry.page-type.ts": bodyOf({
+    id: oneId("07"),
+    pageTypeSlug: "page-type",
+    slug: "page-property-entry",
+    extends: ["page-type/page-property"],
+    properties: [],
+  }),
+  "akasha/sessions.page-property-entry.ts": bodyOf({
+    id: oneId("08"),
+    pageTypeSlug: "page-property-entry",
+    slug: "sessions",
+    propertySlug: "sessions",
+  }),
+  [WIDE_PAGE]: pageOf({
+    id: oneId("09"),
+    pageTypeSlug: "module",
+    slug: "wide",
+    code: "ts",
+    testFixtures: "ts",
+    sessions: "jsonl",
+  }),
+  [WIDE_CODE]: "export const kept = 3\n",
+  [WIDE_FIXTURES]: "export const set = 4\n",
+  [WIDE_SESSIONS]: "{}\n",
   "akasha/file-property.page-type.ts": pageOf({
-    id: wayId("0"),
+    id: oneId("0a"),
     pageTypeSlug: "page-type",
     slug: "file-property",
     pluralSlug: "file-properties",
     extends: ["page-type/page-property"],
   }),
+  "akasha/entries.file-property.ts": pageOf({
+    id: oneId("0b"),
+    pageTypeSlug: "file-property",
+    slug: "entries",
+    propertySlug: "entries",
+  }),
+  "akasha/kept.page-type.ts": pageOf({
+    id: oneId("0c"),
+    pageTypeSlug: "page-type",
+    slug: "kept",
+    pluralSlug: "kepts",
+    extends: ["page-type/module"],
+    properties: [
+      {
+        pagePropertySlug: "file-property/entries",
+        required: false,
+        many: false,
+        uncommitted: true,
+        default: "jsonl",
+      },
+    ],
+  }),
+  [KEPT_PAGE]: pageOf({ id: oneId("0d"), pageTypeSlug: "kept", slug: "first" }),
+  [KEPT_ENTRIES]: '{"kind":"add"}\n',
   "akasha/manifest.file-property.ts": pageOf({
-    id: wayId("1"),
+    id: oneId("0e"),
     pageTypeSlug: "file-property",
     slug: "manifest",
     propertySlug: "manifest",
     fileName: "package.json",
   }),
   "akasha/workspace-package.page-type.ts": pageOf({
-    id: wayId("2"),
+    id: oneId("0f"),
     pageTypeSlug: "page-type",
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
@@ -207,13 +190,13 @@ export const wayAt: string = indexedRepo({
     properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
   }),
   "akasha/nine/nine.workspace-package.ts": pageOf({
-    id: wayId("3"),
+    id: oneId("10"),
     pageTypeSlug: "workspace-package",
     slug: "nine",
     manifest: "json",
   }),
   [WAY_MANIFEST]: WAY_BODY,
-  [WAY_PAGE]: pageOf({ id: wayId("4"), pageTypeSlug: "module", slug: "ninth", code: "ts" }),
+  [WAY_PAGE]: pageOf({ id: oneId("11"), pageTypeSlug: "module", slug: "ninth", code: "ts" }),
   [WAY_CODE]: "export const kept = 8\n",
 })
 
