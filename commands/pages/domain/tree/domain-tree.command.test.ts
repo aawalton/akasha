@@ -11,7 +11,7 @@ import {
 const ROOT = "/nowhere"
 
 function givenIn(): Given {
-  return { root: ROOT, calledAs: "akasha domain-tree", from: ROOT, writer: null, agentId: null }
+  return { root: ROOT, calledAs: "akasha domain tree", from: ROOT, writer: null, agentId: null }
 }
 
 const ROWS: readonly DomainRow[] = [

@@ -54,7 +54,7 @@ function outsideHere(): Given {
   const said = optionalEnv("AKASHA_WRITER")
   return {
     root: stated === undefined ? rootOf(import.meta.path) : resolve(stated),
-    calledAs: "akasha domain-tree",
+    calledAs: "akasha domain tree",
     from: process.cwd(),
     writer: said ?? AUTHOR,
     agentId: writerIn(process.env),
