@@ -22,22 +22,12 @@ const SHOWN: Surface = {
     { said: "--file-path <path>", takes: "the page read" },
     { said: "--key <name>", takes: "the one secret" },
   ],
-  helpNotes: ["nothing is written."],
   invariants: [],
 }
 
-test("a page stating what a command takes and no help note has a surface", () => {
+test("a page stating what a command takes has a surface", () => {
   expect(surfaceOf({ taking: [{ said: "<id>", takes: "the id" }] })).toEqual({
     taking: [{ said: "<id>", takes: "the id" }],
-    helpNotes: [],
-    invariants: [],
-  })
-})
-
-test("a page stating help notes and nothing taken has a surface", () => {
-  expect(surfaceOf({ helpNotes: ["it is piped in."] })).toEqual({
-    taking: [],
-    helpNotes: ["it is piped in."],
     invariants: [],
   })
 })
@@ -72,14 +62,14 @@ test("no invariant of its own makes a page one help is answered from", () => {
   ).toBe(null)
 })
 
-test("the invariants are written under the help notes", () => {
+test("the invariants are written under the arguments", () => {
   const said = helpOf(
     "akasha held",
     null,
-    { taking: [], helpNotes: ["it repeats."], invariants: ["Nothing here writes."] },
+    { taking: [{ said: "<id>", takes: "the id" }], invariants: ["Nothing here writes."] },
     []
   )
-  expect(said).toEqual(["akasha held", "", "", "it repeats.", "", "Nothing here writes."])
+  expect(said).toEqual(["akasha held", "", "  <id>  the id", "", "Nothing here writes."])
 })
 
 const RULED = {
@@ -108,14 +98,11 @@ test("a page stating no directive is read as no rule", () => {
 })
 
 test("the rules are written under the invariants, each after a blank line", () => {
-  const said = helpOf("akasha held", null, { taking: [], helpNotes: [], invariants: [] }, [
-    "one",
-    "two",
-  ])
+  const said = helpOf("akasha held", null, { taking: [], invariants: [] }, ["one", "two"])
   expect(said).toEqual(["akasha held", "", "", "one", "", "two"])
 })
 
-test("a page stating neither has none", () => {
+test("a page stating nothing taken has none", () => {
   expect(surfaceOf({})).toBe(null)
   expect(surfaceOf(null)).toBe(null)
 })
@@ -130,16 +117,6 @@ test("the arguments are padded so what each takes lines up", () => {
 
 test("a call handed no definition opens with the call alone", () => {
   expect(helpOf("akasha page secret show", null, SHOWN, [])[0]).toBe("akasha page secret show")
-})
-
-test("the help notes are written under the arguments", () => {
-  expect(helpOf("akasha held", null, SHOWN, []).slice(4)).toEqual(["", "nothing is written."])
-})
-
-test("a command stating no help note is written down without them", () => {
-  expect(
-    helpOf("akasha held", null, { taking: SHOWN.taking, helpNotes: [], invariants: [] }, [])
-  ).toHaveLength(4)
 })
 
 test("asking for help lists the commands with what each page says it is for", async () => {
@@ -174,20 +151,9 @@ test("a command answers for help out of the surface its own page states", async 
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe("akasha held — what held is for")
   expect(said.report).toContain("  --file-path <path>  a path it takes")
-  expect(said.report).toContain("it repeats.")
 })
 
-test("a command stating help notes and no taking is answered for from its page", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, definition: "what held is for", notes: ["it is piped in."] },
-  ])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("akasha held — what held is for")
-  expect(said.report).toContain("it is piped in.")
-})
-
-test("a command stating what it takes and no help note is answered for from its page", async () => {
+test("a command stating what it takes is answered for from its page", async () => {
   const root = rootWith([
     { slug: "held", body: ANSWERS, taking: [{ said: "<id>", takes: "the id acted on" }] },
   ])

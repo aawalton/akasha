@@ -22,11 +22,7 @@ export const helpWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating help notes has a surface.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page stating neither has none.",
+      statement: "A page stating nothing taken has none.",
     },
     {
       invariantKind: "departure",
@@ -34,11 +30,7 @@ export const helpWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "The help notes are written under the arguments.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The invariants a command's page states are written under the help notes.",
+      statement: "The invariants a command's page states are written under the arguments.",
     },
     {
       invariantKind: "departure",
