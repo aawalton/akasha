@@ -4,8 +4,8 @@ import { addonName } from "akasha/commands/arguments/pages/addon-name.argument.t
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -35,5 +35,5 @@ export function temperAddonResolve(argv: readonly string[], given: Given): Answe
     return refused(`${name} reaches no addon under ${root}`, DATA)
   }
 
-  return { report: JSON.stringify(match, null, SPACES).split("\n"), refusals: [], code: OK }
+  return told(JSON.stringify(match, null, SPACES).split("\n"))
 }

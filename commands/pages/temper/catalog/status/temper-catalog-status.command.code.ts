@@ -5,8 +5,8 @@ import { savedVariablesFile } from "akasha/commands/arguments/pages/saved-variab
 import { sideFile as sideFileArgument } from "akasha/commands/arguments/pages/side-file.argument.ts"
 import {
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -130,23 +130,15 @@ export function temperCatalogStatus(argv: readonly string[], given: Given): Answ
   }
 
   if (taken.json) {
-    return { report: jsonOf(summaries, sideFile), refusals: [], code: OK }
+    return told(jsonOf(summaries, sideFile))
   }
 
   if (summaries.length === 0) {
-    return {
-      report: [
-        `${capturePath} names no account, so nothing here has collected a domain`,
-        ...summaryLines(summaries, sideFile),
-      ],
-      refusals: [],
-      code: OK,
-    }
+    return told([
+      `${capturePath} names no account, so nothing here has collected a domain`,
+      ...summaryLines(summaries, sideFile),
+    ])
   }
 
-  return {
-    report: [HEADING, ...rowsFor(summaries, sideFile), "", ...summaryLines(summaries, sideFile)],
-    refusals: [],
-    code: OK,
-  }
+  return told([HEADING, ...rowsFor(summaries, sideFile), "", ...summaryLines(summaries, sideFile)])
 }
