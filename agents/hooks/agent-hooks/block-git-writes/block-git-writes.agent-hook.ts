@@ -11,8 +11,13 @@ export const blockGitWrites = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A git write is refused unless the call has a flag that writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A git write in the command word is refused unless the call has a flag that writes nothing.",
     },
     {
       invariantKind: "departure",
