@@ -1,11 +1,18 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  pageIconSearchIndexGenerate,
   type Stageable,
   type Staging,
   stagedSaid,
-  wordsIn,
   wroteStage,
 } from "akasha/commands/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"
+
+const CALLED_AS = "akasha page icon-search-index-generate"
+
+function given(): Given {
+  return { root: "/nowhere", calledAs: CALLED_AS, from: "/nowhere", writer: null, agentId: null }
+}
 
 function shardOf(slug: string): Stageable {
   return {
@@ -30,16 +37,18 @@ function keeping(): { readonly staging: Staging; readonly wrote: readonly string
   }
 }
 
-test("a flag it does not take is refused", () => {
-  const said = wordsIn(["--depth"])
-  if (!("refused" in said)) throw new Error("this was taken")
-  expect(said.refused[0]).toContain("--depth")
+test("a flag it does not take is refused", async () => {
+  const said = await pageIconSearchIndexGenerate(["--depth"], given())
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe(
+    `\`--depth\` is no argument \`${CALLED_AS}\` takes — it takes \`--code-root\`, \`--stage\``
+  )
 })
 
-test("a flag with no path after it is refused", () => {
-  const said = wordsIn(["--stage"])
-  if (!("refused" in said)) throw new Error("this was taken")
-  expect(said.refused[0]).toContain("names a path")
+test("a flag with no path after it is refused", async () => {
+  const said = await pageIconSearchIndexGenerate(["--stage"], given())
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe("`--stage` takes a value, and none follows it")
 })
 
 test("every shard the stage took is named once that shard is whole", () => {

@@ -6,6 +6,9 @@ import {
   landingAt,
   removingAt,
 } from "akasha/code/name-series/name-series.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"
 import {
   answering,
   INPUT,
@@ -13,6 +16,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { pageIconSearchIndexGenerate as page } from "akasha/commands/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts"
 import {
   AGGREGATE,
   bytesIn,
@@ -25,12 +29,6 @@ import {
   standingIn,
 } from "akasha/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-
-const CODE_ROOT = "--code-root"
-
-const STAGE = "--stage"
-
-const VALUED: readonly string[] = [CODE_ROOT, STAGE]
 
 const LUCIDE_TAG = "0.576.0"
 
@@ -45,30 +43,6 @@ const STAGE_PREFIX = "akasha-icon-search-index-stage-"
 const FETCH_CEILING_MS = 180_000
 
 const SECOND_MS = 1000
-
-type Said = Readonly<Record<string, string | undefined>>
-
-type Reading = { readonly named: Said } | { readonly refused: readonly string[] }
-
-export function wordsIn(argv: readonly string[]): Reading {
-  const named: Record<string, string | undefined> = {}
-  const refusals: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at] ?? ""
-    if (!VALUED.includes(one)) {
-      refusals.push(`\`${one}\` is not an argument this takes`)
-      continue
-    }
-    const value = argv[at + 1]
-    if (value === undefined) {
-      refusals.push(`\`${one}\` names a path, and nothing followed it`)
-      continue
-    }
-    named[one] = value
-    at += 1
-  }
-  return refusals.length > 0 ? { refused: refusals } : { named }
-}
 
 async function fetched(
   into: string
@@ -163,11 +137,11 @@ function staged(
   done: string[],
   staging: Staging = STAGING
 ): string {
-  const items: readonly Stageable[] = pages.map((page) => ({
-    slug: page.slug,
+  const items: readonly Stageable[] = pages.map((shard) => ({
+    slug: shard.slug,
     files: [
-      { at: page.codeAt, body: page.code },
-      { at: page.pageAt, body: pageBody(root, page.slug, page.definition) },
+      { at: shard.codeAt, body: shard.code },
+      { at: shard.pageAt, body: pageBody(root, shard.slug, shard.definition) },
     ],
   }))
 
@@ -216,20 +190,20 @@ export async function pageIconSearchIndexGenerate(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const said = wordsIn(argv)
-  if ("refused" in said) return { report: [], refusals: said.refused, code: INPUT }
+  const read = takenFor(argv, given.calledAs, page, [codeRootArgument, stageArgument])
+  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
 
-  const named = said.named[CODE_ROOT]
+  const named = read.taken.codeRoot
   if (named !== undefined && !existsSync(named)) {
     return {
       report: [],
-      refusals: [`\`${CODE_ROOT} ${named}\` names no folder that is there`],
+      refusals: [`\`${codeRootArgument.said} ${named}\` names no folder that is there`],
       code: INPUT,
     }
   }
   return await answering(async (done) => {
     const root = realpathSync(named ?? given.root)
-    const stage = stagingAt(said.named[STAGE], done)
+    const stage = stagingAt(read.taken.stage, done)
     const scratch = mkdtempSync(join(realpathSync(SCRATCH_UNDER), SCRATCH_PREFIX))
     try {
       const release = await fetched(scratch)
