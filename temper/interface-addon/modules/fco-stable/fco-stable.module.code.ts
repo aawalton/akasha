@@ -1,5 +1,5 @@
-import { muteMountSound } from "akasha/temper/interface-addon/fco-sounds/fco-sounds.module.code.ts"
 import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { muteMountSound } from "akasha/temper/interface-addon/modules/fco-sounds/fco-sounds.module.code.ts"
 
 export const STABLE_SKILLS: Record<number, { maxed?: boolean }> = {}
 

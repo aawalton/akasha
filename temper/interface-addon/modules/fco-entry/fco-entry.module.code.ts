@@ -1,15 +1,5 @@
 import "akasha/temper/interface-addon/modules/fco-global/fco-global.module.code.ts"
 
-import { questChanges } from "akasha/temper/interface-addon/fco-quest/fco-quest.module.code.ts"
-import { getSettings } from "akasha/temper/interface-addon/fco-settings/fco-settings.module.code.ts"
-import { buildAddonMenu } from "akasha/temper/interface-addon/fco-settings-menu/fco-settings-menu.module.code.ts"
-import { skillChanges } from "akasha/temper/interface-addon/fco-skills/fco-skills.module.code.ts"
-import { slashCommands } from "akasha/temper/interface-addon/fco-slash-commands/fco-slash-commands.module.code.ts"
-import { soundChanges } from "akasha/temper/interface-addon/fco-sounds/fco-sounds.module.code.ts"
-import {
-  hookStableScene,
-  mountChanges,
-} from "akasha/temper/interface-addon/fco-stable/fco-stable.module.code.ts"
 import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 import { tooltipChanges } from "akasha/temper/interface-addon/fco-tooltips/fco-tooltips.module.code.ts"
 import { uiChanges } from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
@@ -58,6 +48,16 @@ import {
 } from "akasha/temper/interface-addon/modules/fco-mainmenu/fco-mainmenu.module.code.ts"
 import { mapStuff } from "akasha/temper/interface-addon/modules/fco-map/fco-map.module.code.ts"
 import { overallFunctions } from "akasha/temper/interface-addon/modules/fco-overall/fco-overall.module.code.ts"
+import { questChanges } from "akasha/temper/interface-addon/modules/fco-quest/fco-quest.module.code.ts"
+import { getSettings } from "akasha/temper/interface-addon/modules/fco-settings/fco-settings.module.code.ts"
+import { buildAddonMenu } from "akasha/temper/interface-addon/modules/fco-settings-menu/fco-settings-menu.module.code.ts"
+import { skillChanges } from "akasha/temper/interface-addon/modules/fco-skills/fco-skills.module.code.ts"
+import { slashCommands } from "akasha/temper/interface-addon/modules/fco-slash-commands/fco-slash-commands.module.code.ts"
+import { soundChanges } from "akasha/temper/interface-addon/modules/fco-sounds/fco-sounds.module.code.ts"
+import {
+  hookStableScene,
+  mountChanges,
+} from "akasha/temper/interface-addon/modules/fco-stable/fco-stable.module.code.ts"
 
 const EM = EVENT_MANAGER
 

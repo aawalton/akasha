@@ -1,4 +1,3 @@
-import { buildEmptySettings } from "akasha/temper/interface-addon/fco-settings-empty/fco-settings-empty.module.code.ts"
 import type {
   AddonVars,
   CtrlVars,
@@ -21,6 +20,7 @@ import {
   SAVED_VARS_VERSION,
   SPIN_FRAGMENTS,
 } from "akasha/temper/interface-addon/modules/fco-constants/fco-constants.module.code.ts"
+import { buildEmptySettings } from "akasha/temper/interface-addon/modules/fco-settings-empty/fco-settings-empty.module.code.ts"
 
 export interface FcocsState {
   addonVars: AddonVars
