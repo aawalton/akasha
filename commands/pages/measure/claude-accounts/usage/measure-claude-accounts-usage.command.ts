@@ -8,16 +8,14 @@ export const measureClaudeAccountsUsage = {
   code: "ts",
   changeKind: "change-mechanical",
   taking: [],
-  helpNotes: [
-    "each account's usage is read upstream first, and what is read lands beside that account.",
-    "reading usage costs nothing and starts no window.",
-    "renewing a token is the upkeep service's alone, so a lapsed account is passed over and named.",
-    "the `>` names the account the picker would take right now.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A fleet answered as holding nobody is the pages being wrong.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The account the picker would take next is marked in the answer.",
     },
     {
       invariantKind: "departure",
