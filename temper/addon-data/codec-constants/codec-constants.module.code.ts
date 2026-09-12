@@ -71,7 +71,7 @@ export function generateCodecConstants(): string {
  *         temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts
  *         temper/addon-data/codec-widths/codec-widths.module.code.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
+ * DO NOT EDIT — regenerate with: akasha temper addon data-generate
  */
 
 // =========================================================================

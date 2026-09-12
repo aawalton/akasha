@@ -138,7 +138,7 @@ export function generatePotionRestoreMetrics(
  * Pure data (no functions, no bitwise/regex) so it bundles cleanly into the
  * compiled Lua addon as well as the web build.
  *
- * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
+ * DO NOT EDIT — regenerate with: akasha temper addon data-generate
  */
 
 /** Crown/dropped potion itemId → restore metric ids. */
