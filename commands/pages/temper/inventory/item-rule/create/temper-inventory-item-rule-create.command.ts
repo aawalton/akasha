@@ -12,7 +12,6 @@ export const temperInventoryItemRuleCreate = {
       said: "--item-name <s>",
       takes: "the item's display name, where the id remains what it matches on",
     },
-    { said: "--destination <d>", takes: "where the item goes, for the actions that move it" },
     { said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" },
     {
       said: "--stock-scope <scope>",
@@ -37,5 +36,6 @@ export const temperInventoryItemRuleCreate = {
     { argument: "argument/goal" },
     { argument: "argument/active" },
     { argument: "argument/action" },
+    { argument: "argument/destination" },
   ],
 } as const satisfies Command

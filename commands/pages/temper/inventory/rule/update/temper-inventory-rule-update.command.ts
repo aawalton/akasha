@@ -10,10 +10,6 @@ export const temperInventoryRuleUpdate = {
     { said: "<id>", takes: "the id of the category rule changed" },
     { said: "--category <id>", takes: "the category of items the rule reaches" },
     {
-      said: "--destination <destination>",
-      takes: "where the item goes, for the actions that move it",
-    },
-    {
       said: "--destination-chain <json>",
       takes: "the cascade of destinations the item falls through",
     },
@@ -45,5 +41,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/goal" },
     { argument: "argument/active" },
     { argument: "argument/action" },
+    { argument: "argument/destination" },
   ],
 } as const satisfies Command

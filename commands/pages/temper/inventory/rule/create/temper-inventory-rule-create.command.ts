@@ -8,10 +8,6 @@ export const temperInventoryRuleCreate = {
   code: "ts",
   taking: [
     { said: "--category <id>", takes: "the category of items the rule reaches" },
-    {
-      said: "--destination <destination>",
-      takes: "where the item goes, for the actions that move it",
-    },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
     {
       said: "--stock-scope <scope>",
@@ -36,5 +32,6 @@ export const temperInventoryRuleCreate = {
     { argument: "argument/goal" },
     { argument: "argument/active" },
     { argument: "argument/action" },
+    { argument: "argument/destination" },
   ],
 } as const satisfies Command
