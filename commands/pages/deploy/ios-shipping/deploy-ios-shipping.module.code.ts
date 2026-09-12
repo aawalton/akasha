@@ -13,14 +13,15 @@ import {
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 export const CONFIGURATION = "Release"
 
@@ -129,5 +130,5 @@ export async function shipIosApp(
       ? `built\t${slug}\tarchived, exported, validated by Apple, and sent to nobody`
       : `built\t${slug}\tarchived, exported and uploaded to TestFlight`
   )
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
