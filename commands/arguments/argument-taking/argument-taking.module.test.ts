@@ -116,3 +116,11 @@ test("a group forbidding nothing is answered as two a call may leave out", () =>
   const seat: string | undefined = read.taken.seat
   expect(seat).toBe("a")
 })
+
+test("an entry is read from its place in the list rather than found", () => {
+  const held = NAMING_THEM.arguments[1]
+  expect(held.required).toBe(true)
+  expect(held.argument).toBe("argument/seat")
+  expect("required" in NAMING_THEM.arguments[0]).toBe(false)
+  expect("repeats" in NAMING_THEM.arguments[3]).toBe(true)
+})

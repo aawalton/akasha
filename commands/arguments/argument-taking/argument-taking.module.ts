@@ -14,6 +14,11 @@ export const argumentTaking = {
       statement: "The arguments a command takes are handed in as pages rather than spelled here.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "An entry is read from its place in the list rather than found, since only some carry `required`.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A command page's entries are read against the argument pages that command's code names.",
