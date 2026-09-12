@@ -12,10 +12,6 @@ export const trackSessionLog = {
     { said: "--start <time>", takes: "the wall time the stretch began" },
     { said: "--end <time>", takes: "the wall time the stretch ended" },
     {
-      said: "--safety <level>",
-      takes: "how safe Alan was over the stretch, from -2 to 5 in half steps",
-    },
-    {
       said: "--difficulty <level>",
       takes: "how hard the stretch was on him, from 0 to 5 in half steps",
     },
@@ -92,5 +88,9 @@ export const trackSessionLog = {
     },
   ],
   name: "log",
-  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/day" },
+    { argument: "argument/safety" },
+  ],
 } as const satisfies Command
