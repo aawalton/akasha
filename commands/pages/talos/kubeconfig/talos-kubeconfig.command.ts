@@ -45,7 +45,7 @@ export const talosKubeconfig = {
   name: "kubeconfig",
   arguments: [
     { argument: "argument/cluster" },
-    { argument: "argument/ip" },
+    { argument: "argument/ip", required: true },
     { argument: "argument/output" },
   ],
 } as const satisfies Command
