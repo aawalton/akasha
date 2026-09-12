@@ -19,15 +19,12 @@ export const browserTestStorageState = {
       takes: "where the storage state is written, the registry's where none is said",
     },
   ],
-  helpNotes: [
-    "the user, the password and the project are read from the environment rather than said here.",
-    "a sign-in refused for the wrong password is retried once, and only for the throwaway user.",
-    "the retry sets the throwaway user's password to the one the environment states.",
-    "the user signed in as is checked against the protected one before any browser opens.",
-    "the file is written readable by its owner alone, since it carries a live session.",
-    "the file this writes is not a page, so nothing here lands a commit.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The user, the password, the origin and the backend keys are read from the environment.",
+    },
     {
       invariantKind: "departure",
       statement: "The sign-in is made through the app's own form rather than against the auth API.",
@@ -38,7 +35,12 @@ export const browserTestStorageState = {
     },
     {
       invariantKind: "departure",
-      statement: "The user the sign-in resolved to is checked against the protected user.",
+      statement: "Healing sets the throwaway user's password to the one the environment states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The user the sign-in resolved to is checked against the protected user before any browser opens.",
     },
     {
       invariantKind: "departure",
