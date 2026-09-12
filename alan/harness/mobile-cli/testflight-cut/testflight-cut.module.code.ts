@@ -75,7 +75,7 @@ type Recorder = (appSlug: string, fp: CutFingerprint) => Promise<void>
 
 export function cutRecordCall(appSlug: string, fp: CutFingerprint): string {
   const said = [
-    "akasha mobile-cut-record",
+    "akasha mobile cut record",
     `--app ${appSlug}`,
     `--build-number ${fp.buildNumber}`,
     `--main-sha ${fp.mainSha}`,
@@ -287,7 +287,7 @@ export async function runTestflightCut(opts: {
     )
     say(`  ${cutRecordCall(app.slug, fingerprint)}\n`)
     throw new OperationalError(
-      `build ${assignedBuildNumber} uploaded, and its cut fingerprint was not filed after ${FILING_TRIES} tries, so \`akasha mobile-cut-status\` would answer against an older build without saying so: ${filed}. The upload is done — file the fingerprint with the \`akasha mobile-cut-record\` call printed above rather than cutting again.`
+      `build ${assignedBuildNumber} uploaded, and its cut fingerprint was not filed after ${FILING_TRIES} tries, so \`akasha mobile cut status\` would answer against an older build without saying so: ${filed}. The upload is done — file the fingerprint with the \`akasha mobile cut record\` call printed above rather than cutting again.`
     )
   }
   say(`✓ recorded cut fingerprint (build ${assignedBuildNumber}, main ${cutCommit.slice(0, 12)})\n`)
@@ -321,7 +321,7 @@ export async function runTestflightCut(opts: {
       throw new OperationalError(
         `Build still processing after ${POLL_TIMEOUT_MS / 60_000} minutes (last state: ${
           outcome.lastState ?? "not yet visible"
-        }). The upload succeeded — check App Store Connect → TestFlight, or re-run \`akasha mobile-testflight-status --wait\` to keep waiting.`
+        }). The upload succeeded — check App Store Connect → TestFlight, or re-run \`akasha mobile testflight-status --wait\` to keep waiting.`
       )
     }
     say(
