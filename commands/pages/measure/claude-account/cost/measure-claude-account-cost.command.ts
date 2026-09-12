@@ -9,15 +9,28 @@ export const measureClaudeAccountCost = {
   changeKind: "change-mechanical",
   parts: ["module/claude-account-costing"],
   taking: [],
-  helpNotes: [
-    "the calls priced are the ones the transcripts on this machine hold over the last thirty days.",
-    "a price is the api's own list price, so what a subscription cost is not what this says.",
-    "a call a resumed session or a subagent wrote down again is counted once.",
-    "the transcripts sit on this machine, so calls made on another machine are not counted.",
-    "a model this holds no price for is named under the total rather than counted as nothing.",
-    "every transcript is read, which takes minutes, and nothing is written while it runs.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The calls priced are the ones this machine's transcripts hold over the last thirty days.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A price is the api's own list price.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call a resumed session or a subagent wrote down again is counted once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A model this holds no price for is named under the total rather than counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every transcript is read.",
+    },
     {
       invariantKind: "absence",
       statement: "A run writes no value the commit has.",
