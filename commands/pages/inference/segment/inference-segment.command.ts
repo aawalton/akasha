@@ -7,7 +7,7 @@ export const inferenceSegment = {
   definition: "the command parting an image's foreground from its background as an alpha matte",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--alpha-matting", takes: "refine the matte's edges, which costs more" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -61,5 +61,6 @@ export const inferenceSegment = {
     { argument: "argument/cutout-out" },
     { argument: "argument/flatten" },
     { argument: "argument/flatten-out" },
+    { argument: "argument/alpha-matting" },
   ],
 } as const satisfies Command
