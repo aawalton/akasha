@@ -1,7 +1,7 @@
 import { COLOR_SELECT } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import { asFields } from "akasha/temper/crafting-addon/modules/potion-controls-helpers/potion-controls-helpers.module.code.ts"
-import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
-import type { TraitData } from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/modules/potion-state/potion-state.module.code.ts"
+import type { TraitData } from "akasha/temper/crafting-addon/modules/potion-types/potion-types.module.code.ts"
 
 interface HighlightLabel extends LabelControl {
   defaultHighlightColor?: ZoColorDef

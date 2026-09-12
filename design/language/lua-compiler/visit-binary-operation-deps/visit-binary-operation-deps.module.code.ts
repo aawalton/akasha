@@ -1,7 +1,7 @@
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
-import type { WithPrecedingStatements } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import type { WithPrecedingStatements } from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
 import type { BitOperator } from "akasha/design/language/lua-compiler/visit-bit/visit-bit.module.code.ts"
 import type { SimpleOperator } from "akasha/design/language/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import type * as ts from "typescript"

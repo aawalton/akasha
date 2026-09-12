@@ -32,7 +32,7 @@ import { CompanionGearByPricePanelCard } from "akasha/temper/player-economics-ui
 import { CompanionGearByTraitPanelCard } from "akasha/temper/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"
 import { useCompanionShoppingData } from "akasha/temper/player-economics-ui/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
-import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
+import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.code.tsx"
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"
 

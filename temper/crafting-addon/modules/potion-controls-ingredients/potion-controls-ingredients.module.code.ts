@@ -7,10 +7,10 @@ import {
   asControlHandler,
   xPosMustNotFilter,
 } from "akasha/temper/crafting-addon/modules/potion-controls-layout/potion-controls-layout.module.code.ts"
-import { getAccountSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
-import { isScreenRightHalf } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
-import type { IngredientView } from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
+import { getAccountSettings } from "akasha/temper/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/modules/potion-state/potion-state.module.code.ts"
+import { isScreenRightHalf } from "akasha/temper/crafting-addon/modules/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+import type { IngredientView } from "akasha/temper/crafting-addon/modules/potion-types/potion-types.module.code.ts"
 
 type TooltipTextSetter = (
   this: void,

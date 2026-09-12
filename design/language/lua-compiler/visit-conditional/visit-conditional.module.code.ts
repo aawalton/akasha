@@ -7,7 +7,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
-} from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
 import {
   performHoisting,
   ScopeType,

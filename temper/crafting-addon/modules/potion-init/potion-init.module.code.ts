@@ -9,35 +9,35 @@ import {
 import {
   getPlayerSettings,
   initializeSavedVariables,
-} from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
-import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/modules/potion-state/potion-state.module.code.ts"
 import {
   EN_LANGUAGE,
   registerStrings,
-} from "akasha/temper/crafting-addon/potion-ui-strings/potion-ui-strings.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-ui-strings/potion-ui-strings.module.code.ts"
 import {
   loadSolventSelection,
   saveSolventSelection,
   showStationOrTopLevel,
-} from "akasha/temper/crafting-addon/potion-window-helpers/potion-window-helpers.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-window-helpers/potion-window-helpers.module.code.ts"
 import "akasha/temper/crafting-addon/modules/potion-controls-ingredients/potion-controls-ingredients.module.code.ts"
 import "akasha/temper/crafting-addon/modules/potion-controls-layout/potion-controls-layout.module.code.ts"
 import "akasha/temper/crafting-addon/modules/potion-controls/potion-controls.module.code.ts"
 import "akasha/temper/crafting-addon/modules/potion-events/potion-events.module.code.ts"
 import "akasha/temper/crafting-addon/modules/potion-ingredient/potion-ingredient.module.code.ts"
-import "akasha/temper/crafting-addon/potion-inventory/potion-inventory.module.code.ts"
-import "akasha/temper/crafting-addon/potion-job-search/potion-job-search.module.code.ts"
-import "akasha/temper/crafting-addon/potion-keybinds/potion-keybinds.module.code.ts"
-import "akasha/temper/crafting-addon/potion-main-menu/potion-main-menu.module.code.ts"
-import "akasha/temper/crafting-addon/potion-potion-craft/potion-potion-craft.module.code.ts"
-import "akasha/temper/crafting-addon/potion-potion/potion-potion.module.code.ts"
-import "akasha/temper/crafting-addon/potion-public-api/potion-public-api.module.code.ts"
-import "akasha/temper/crafting-addon/potion-reagents/potion-reagents.module.code.ts"
-import "akasha/temper/crafting-addon/potion-render-page/potion-render-page.module.code.ts"
-import "akasha/temper/crafting-addon/potion-search/potion-search.module.code.ts"
-import "akasha/temper/crafting-addon/potion-settings-menu/potion-settings-menu.module.code.ts"
-import "akasha/temper/crafting-addon/potion-tooltips/potion-tooltips.module.code.ts"
-import "akasha/temper/crafting-addon/potion-windows/potion-windows.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-job-search/potion-job-search.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-potion-craft/potion-potion-craft.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-public-api/potion-public-api.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-reagents/potion-reagents.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-render-page/potion-render-page.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-search/potion-search.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-settings-menu/potion-settings-menu.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-tooltips/potion-tooltips.module.code.ts"
+import "akasha/temper/crafting-addon/modules/potion-windows/potion-windows.module.code.ts"
 
 PotMaker.language = EN_LANGUAGE
 

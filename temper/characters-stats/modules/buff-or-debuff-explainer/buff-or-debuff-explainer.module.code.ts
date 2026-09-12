@@ -1,4 +1,4 @@
-import type { PotionSource } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
+import type { PotionSource } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { getBuffOrDebuffId } from "akasha/temper/characters-stats/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import {
   getMetricDisplayName,

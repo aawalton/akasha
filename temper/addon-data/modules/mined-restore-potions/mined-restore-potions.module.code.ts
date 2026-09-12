@@ -7,7 +7,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { partAt } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import type { MinedRestorePotion } from "akasha/temper/addon-data/potion-restore-metrics/potion-restore-metrics.module.code.ts"
+import type { MinedRestorePotion } from "akasha/temper/addon-data/modules/potion-restore-metrics/potion-restore-metrics.module.code.ts"
 
 const MINE = "temper-mine"
 

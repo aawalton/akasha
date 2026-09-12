@@ -6,12 +6,12 @@ import {
   TEXTURE_REAGENTUNKNOWN,
   TRAIT_EFFECT,
 } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
-import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
+import { PotMaker } from "akasha/temper/crafting-addon/modules/potion-state/potion-state.module.code.ts"
 import type {
   Ingredient,
   IngredientFactory,
   MatchResult,
-} from "akasha/temper/crafting-addon/potion-types/potion-types.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-types/potion-types.module.code.ts"
 
 function asIngredient(value: unknown): Ingredient {
   return value as Ingredient

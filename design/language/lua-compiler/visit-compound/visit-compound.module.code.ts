@@ -7,7 +7,7 @@ import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/luali
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
-} from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
 import { cannotAssignToNodeOfKind } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isArrayLength } from "akasha/design/language/lua-compiler/visit-array-length/visit-array-length.module.code.ts"
 import { transformAssignmentWithRightPrecedingStatements } from "akasha/design/language/lua-compiler/visit-assignments/visit-assignments.module.code.ts"

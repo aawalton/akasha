@@ -11,7 +11,7 @@ import {
 import {
   type PotionId,
   potions,
-} from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
+} from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
 import type { FoodOrDrinkId } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import type { MundusId } from "akasha/temper/character-sources/modules/mundus-source/mundus-source.module.code.ts"
 import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
@@ -23,7 +23,7 @@ import {
   getMundusById,
   MundusSelectDialog,
 } from "akasha/temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.code.tsx"
-import { PotionSelectDialog } from "akasha/temper/web/potion-select-dialog/potion-select-dialog.module.code.tsx"
+import { PotionSelectDialog } from "akasha/temper/web/modules/potion-select-dialog/potion-select-dialog.module.code.tsx"
 import { Info } from "lucide-react"
 import { useState } from "react"
 

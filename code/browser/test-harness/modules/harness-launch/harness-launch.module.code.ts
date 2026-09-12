@@ -5,7 +5,7 @@ import {
   type ConsoleCapture,
   createConsoleCapture,
 } from "akasha/code/browser/test-harness/modules/console-capture/console-capture.module.code.ts"
-import { prewarmDevServer } from "akasha/code/browser/test-harness/prewarm/prewarm.module.code.ts"
+import { prewarmDevServer } from "akasha/code/browser/test-harness/modules/prewarm/prewarm.module.code.ts"
 import {
   decideTargetGuard,
   isLocalhostTarget,

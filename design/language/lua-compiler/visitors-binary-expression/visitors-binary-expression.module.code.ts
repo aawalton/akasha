@@ -10,7 +10,7 @@ import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/luali
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
-} from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   isEqualsAssignment,

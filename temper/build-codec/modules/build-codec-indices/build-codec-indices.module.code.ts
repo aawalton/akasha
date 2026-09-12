@@ -1,5 +1,5 @@
 import { poisons } from "akasha/temper/alchemy/modules/poison-source/poison-source.module.code.ts"
-import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
+import { potions } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import { getSkillLineCategory } from "akasha/temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"
