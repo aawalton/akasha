@@ -2,6 +2,12 @@ import {
   type MaterializeTranscriptResult,
   materializeLocalTranscript,
 } from "akasha/agents/claude-code/session/transcript-materialize/transcript-materialize.module.code.ts"
+import {
+  type LaunchSeatOpts,
+  type LaunchSeatResult,
+  launchSeatUnderTmux,
+  liveSessionHolds,
+} from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { terminatePriorAgentTree } from "akasha/agents/seats/modules/recovery/seat-recovery.module.code.ts"
@@ -11,12 +17,6 @@ import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import {
-  type LaunchSeatOpts,
-  type LaunchSeatResult,
-  launchSeatUnderTmux,
-  liveSessionHolds,
-} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import {
   decideSpawnGuard,
   type SpawnGuardDecision,

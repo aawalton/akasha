@@ -15,6 +15,7 @@ import {
   isValidSeatName,
   resolveOptionalSeatId,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { launchSeatUnderTmux } from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
@@ -41,7 +42,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import {
   type StatedIdentity,
   spawnSeat,

@@ -10,6 +10,12 @@ import {
   resolveSeatTargetCli,
   resolveSeatTargetFromFlagOrEnv,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import {
+  holdSeatPaneOpen,
+  killSeatSession,
+  launchSeatUnderTmux,
+  respawnSeatUnderTmux,
+} from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
@@ -27,12 +33,6 @@ import {
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
-import {
-  holdSeatPaneOpen,
-  killSeatSession,
-  launchSeatUnderTmux,
-  respawnSeatUnderTmux,
-} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { resumeSeat as relaunchStoppedSeat } from "akasha/seat-system/resume-seat/resume-seat.module.code.ts"
 import {
   liveResumeVerifySleep,

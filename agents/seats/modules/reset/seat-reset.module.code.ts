@@ -1,6 +1,10 @@
 import { composeSeatName } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import {
+  killSeatSession,
+  launchSeatUnderTmux,
+} from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
@@ -26,10 +30,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  killSeatSession,
-  launchSeatUnderTmux,
-} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { A_RESET, stopSeat } from "akasha/seat-system/stop-seat/stop-seat.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
