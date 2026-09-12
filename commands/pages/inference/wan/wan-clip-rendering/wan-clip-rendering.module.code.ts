@@ -4,11 +4,12 @@ import { basename, dirname, join } from "node:path"
 import { negativePrompt as negativePromptArgument } from "akasha/commands/arguments/pages/negative-prompt.argument.ts"
 import { renderPrompt as promptArgument } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
 import {
+  answeredWith,
   DATA,
   INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -80,7 +81,7 @@ function prosedIn(
 
 export async function generating(taken: Generate, given: Given, report: string[]): Promise<Answer> {
   const prose = prosedIn(given.root, taken)
-  if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
+  if ("refused" in prose) return answeredWith(report, [...prose.refused], INPUT)
   const startSaid = taken.startImage
   const endSaid = taken.endImage
   const startPath = startSaid === undefined ? undefined : pathUnder(given.root, startSaid)
@@ -212,12 +213,12 @@ export async function generating(taken: Generate, given: Given, report: string[]
     report
   )
   report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 export async function extending(taken: Extend, given: Given, report: string[]): Promise<Answer> {
   const prose = prosedIn(given.root, taken)
-  if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
+  if ("refused" in prose) return answeredWith(report, [...prose.refused], INPUT)
   const contextPath = pathUnder(given.root, taken.context)
   const directionSaid = taken.direction
   const direction: ExtendDirection | undefined = DIRECTIONS.find((one) => one === directionSaid)
@@ -257,7 +258,7 @@ export async function extending(taken: Extend, given: Given, report: string[]): 
   }
 
   const counted = await framesIn(contextPath)
-  if ("why" in counted) return { report, refusals: [counted.why], code: OPERATIONAL }
+  if ("why" in counted) return answeredWith(report, [counted.why], OPERATIONAL)
   if (contextFrames >= counted.many) {
     return refused(
       `\`--context-frames\` is ${contextFrames}, and the clip holds ${counted.many} frames — ` +
@@ -269,7 +270,7 @@ export async function extending(taken: Extend, given: Given, report: string[]): 
   let height: number
   if (sizeSaid === undefined) {
     const probed = await sizeIn(contextPath)
-    if ("why" in probed) return { report, refusals: [probed.why], code: OPERATIONAL }
+    if ("why" in probed) return answeredWith(report, [probed.why], OPERATIONAL)
     width = probed.width
     height = probed.height
     report.push(`the context clip holds ${counted.many} frames at ${width}x${height}`)
@@ -367,5 +368,5 @@ export async function extending(taken: Extend, given: Given, report: string[]): 
     report
   )
   report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
