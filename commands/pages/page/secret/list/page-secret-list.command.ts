@@ -6,6 +6,7 @@ export const pageSecretList = {
   slug: "page-secret-list",
   definition: "the command naming which secrets a page holds, none of them decrypted",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
