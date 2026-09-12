@@ -85,6 +85,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names the call taking the kept edits away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The bodies written are put back when anything after the writing throws.",
     },
     {

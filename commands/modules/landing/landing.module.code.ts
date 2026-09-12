@@ -84,7 +84,10 @@ export type Refused = {
   readonly said?: readonly string[]
 }
 
-const AGAIN_WRITTEN = "nothing was written — read them again against what is there now"
+const AGAIN_WRITTEN =
+  "nothing was written — reading those bodies again leaves the edits kept as they were," +
+  " so `akasha change drop` with `all: true` takes them away and the change is drafted again" +
+  " against what is there now"
 
 const NOTHING_OUTSIDE = "nothing landed — name every path against the repository root"
 

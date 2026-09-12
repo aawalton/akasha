@@ -263,6 +263,16 @@ test("a change read against a commit that moved a path it carries is refused unw
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(`${A}\n`)
 })
 
+test("a refusal over a body that moved names the call taking the kept edits away", async () => {
+  const root = pagesRepo()
+  const read = baseOf(root)
+  committedAgain(root, "akasha/a.domain.ts", `${A}\n`)
+  const said = await landedMoving(root, read)
+  const why = "refusals" in said ? said.refusals.join("\n") : ""
+  expect(why).toContain("`akasha change drop` with `all: true`")
+  expect(why).toContain("drafted again")
+})
+
 test("a change read against a commit that moved nothing it carries is landed", async () => {
   const root = pagesRepo()
   const read = baseOf(root)
