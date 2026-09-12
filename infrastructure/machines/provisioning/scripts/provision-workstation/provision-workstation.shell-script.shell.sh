@@ -102,7 +102,7 @@ fi
 
 echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via community-addon install command)..."
 if [ "$(uname)" != "Darwin" ]; then
-  if ! (cd "$AKASHA" && bun "$DISPATCHER" temper-community-addon-install TamrielTradeCentre); then
+  if ! (cd "$AKASHA" && bun "$DISPATCHER" temper community addon-install TamrielTradeCentre); then
     echo "WARN: TamrielTradeCentre install via community-addon command failed — continuing." >&2
   fi
 fi
@@ -181,6 +181,6 @@ echo "  - Ensure the kubeconfig, ~/.secrets.env, tailscale enrollment, and home 
 echo "    (setup-symlinks.sh) are in place — those are not provisioned by this script."
 echo "  - Restore the workstation SMS outbound creds into ~/.secrets.env from the telnyx"
 echo "    account page, which is their tracked source:"
-echo "      akasha page-secret-show --file-path alan/harness/sms-core/telnyx-accounts/pages/outbound/outbound.telnyx-account.ts --key api-key"
+echo "      akasha page secret show --file-path alan/harness/sms-core/telnyx-accounts/pages/outbound/outbound.telnyx-account.ts --key api-key"
 echo "    and the from-number is stated on that page. Add each as"
 echo "    'export KEY=value' (edit specific lines; never overwrite the file)."
