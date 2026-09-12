@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "Both aliases are taken: `refusedAll` over 12 callers at `ea092d2`, `refusing` over 6 at `5f8725d`, both exit codes run live. A class no literal scan sees is open: `answeredWith(x, [], OK)` is `told` said the long way. `asJson` is refused by `json ? [JSON.stringify(x)] : lines`, the commonest shape. Out for good: `command-answering`, `calling`, `service-unit-asking`, `service-putting-up`. Alan's: do `workload-applying`'s `Applied` and `service-putting-up`'s `PutUp` answer a command?\n",
+        "Both aliases are taken: `refusedAll` over 12 callers at `ea092d2`, `refusing` over 6 at `5f8725d`. Nine literals are left over six files, and `seat supervisor stop` is blocked. Out for good: `command-answering`, `calling`, `service-unit-asking`, `service-putting-up`. Alan's: `told` is exported three times for three meanings — build an answer, run a git command, and `inventory-rule-calling`'s — so a file importing one cannot take another, and `Applied` and `PutUp` answer what is no command.\n",
     },
     {
       statement:
