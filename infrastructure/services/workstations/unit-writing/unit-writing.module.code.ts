@@ -4,6 +4,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"
 const CHECKOUT = "%h/repos/akasha"
+const SLICE = "background.slice"
 const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"
@@ -98,6 +99,7 @@ export function serviceUnitText(given: Service): string {
     "",
     "[Service]",
     `Type=${scheduled ? "oneshot" : "simple"}`,
+    `Slice=${SLICE}`,
     `WorkingDirectory=${CHECKOUT}`,
     `Environment=PATH=${PATH_ENV}`,
     `Environment=AKASHA_ROOT=${CHECKOUT}`,

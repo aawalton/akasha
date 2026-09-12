@@ -35,6 +35,13 @@ test("a service stating no schedule is simple, wanted by the default target, and
   expect(text).toContain("SuccessExitStatus=143\n")
 })
 
+test("a service is put in the slice ranking below the apps Alan is using", () => {
+  expect(serviceUnitText(pageOf({}))).toContain("Slice=background.slice")
+  expect(serviceUnitText(pageOf({ systemd: { schedule: "daily" } }))).toContain(
+    "Slice=background.slice"
+  )
+})
+
 test("the unit names the page it was written from", () => {
   const text = serviceUnitText(pageOf({}))
   expect(text).toContain(`Documentation=file://%h/repos/akasha/${PAGE_PATH}`)

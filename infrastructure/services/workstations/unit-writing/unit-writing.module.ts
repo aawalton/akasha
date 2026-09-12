@@ -43,6 +43,10 @@ export const unitWriting = {
       statement: "A service reaching here has its command lines settled already.",
     },
     {
+      invariantKind: "departure",
+      statement: "A service is put in the slice holding the work that ranks below Alan's apps.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },
