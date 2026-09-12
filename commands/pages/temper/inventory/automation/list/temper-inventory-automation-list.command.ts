@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const temperInventoryAutomationShow = {
+export const temperInventoryAutomationList = {
   id: "01a0603c-c1ce-749d-a434-9035b90e6e37",
   type: "command",
-  slug: "temper-inventory-automation-show",
+  slug: "temper-inventory-automation-list",
   definition: "the command giving back the automation toggles as they are set",
   code: "ts",
   changeKind: "change-none",
