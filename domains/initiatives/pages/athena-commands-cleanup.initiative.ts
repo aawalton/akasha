@@ -37,5 +37,6 @@ export const athenaCommandsCleanup = {
     "An attribution is settled from the verdict store rather than from a fixture probe, because a probe over one scratch world does not answer for the test file it imitates.",
     "A conclusion drawn from one reading is settled by the series before it is acted on: the log sidecar, the verdict store, or the page type that already states the rule.",
     "A check that fell short because a landing moved a path mid-walk still writes a verdict, so nothing re-asks it and the round is lost until the next one.",
+    "A heredoc piped to `wc -c` is refused where its body names a guarded command, since the hook measures the call whole, so a long field's length is settled by the landing's own check.",
   ],
 } as const satisfies Initiative
