@@ -22,7 +22,6 @@ const INSTEAD = "import it from the command-answering module instead"
 
 const BUILDS_THE_ANSWER: readonly string[] = [
   "commands/modules/answering/",
-  "commands/modules/calling/",
   "commands/modules/refusing/",
 ]
 

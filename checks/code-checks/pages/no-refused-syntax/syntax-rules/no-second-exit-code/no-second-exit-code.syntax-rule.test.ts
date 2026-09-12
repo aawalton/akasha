@@ -12,8 +12,6 @@ const BUILT = 'const one = { report: [], refusals: ["why"], code: 3 }\n'
 
 const WHERE_IT_IS_BUILT = "akasha/commands/modules/refusing/probe.module.code.ts"
 
-const WHERE_THE_ANSWER_IS_BUILT = "akasha/commands/modules/calling/probe.module.code.ts"
-
 test("a file declaring no exit code is refused nothing", () => {
   expect(noSecondExitCode(parsed("export const one = 1\n"))).toEqual([])
 })
@@ -148,7 +146,7 @@ test("a call handed more than that name takes is left", () => {
 
 test("the module building the answer hands the number its test reads", () => {
   const text = 'const one = answeredWith([], ["why"], 1)\n'
-  expect(noSecondExitCode(parsed(text, WHERE_THE_ANSWER_IS_BUILT))).toEqual([])
+  expect(noSecondExitCode(parsed(text, WHERE_IT_IS_BUILT))).toEqual([])
 })
 
 test("a number inside an expression is not judged", () => {
