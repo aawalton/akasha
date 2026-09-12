@@ -16,7 +16,7 @@ import { runChecker } from "akasha/temper/items-filters-core/search-eval-adapter
 import type { FilterEditorOption } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import { defineFilter } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import { parseStringArray } from "akasha/temper/items-filters-core/search-string-array-parse/search-string-array-parse.module.code.ts"
-import { checkClassification } from "akasha/temper/items-rules-eval/check-classification/check-classification.module.code.ts"
+import { checkClassification } from "akasha/temper/items-rules-eval/modules/check-classification/check-classification.module.code.ts"
 
 function buildTraitOptions(): readonly FilterEditorOption[] {
   const all = [
