@@ -68,7 +68,7 @@ export function untotalledOf(named: number, measured: number): readonly string[]
   return ["", `${String(left)} ${left === 1 ? "persona carries" : "personas carry"} no total yet`]
 }
 
-export function measurePersonas(_argv: readonly string[], given: Given): Answer {
+export function measurePersona(_argv: readonly string[], given: Given): Answer {
   const named = personasStanding(given.root).map((one) => ({
     slug: one.slug,
     label: displayNameOf(one.slug),
