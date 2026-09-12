@@ -18,7 +18,7 @@ const WANTED: Wanted = {
   inPlace: true,
 }
 
-export function googleCalendarEventsRsvp(argv: readonly string[], given: Given): Promise<Answer> {
+export function googleCalendarEventRsvp(argv: readonly string[], given: Given): Promise<Answer> {
   return answeredBy(readIn(argv, WANTED), given.calledAs, async (read) =>
     (await eventsIn()).rsvpEvent(await asAlan(), rsvpOf(read))
   )
