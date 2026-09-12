@@ -31,11 +31,6 @@ export const athenaCommandArguments = {
         "`TakenFor` in `argument-taking.module.code.ts` reads a command page's `arguments` literal and answers exactly those keys, camelised, each typed by its argument page's `value`, with `required` deciding optionality (`66235ec888d6`). Proven on `git push` (`bfc3221fbcbc`) and `seat reset` (`750592bac7dc`), where reading a key the page does not name now draws `TS2339` at apply. Left: every other command's code still reads a bag keyed by `string`.\n",
     },
     {
-      statement: "No command page states `taking`.",
-      workingMemory:
-        "210 command pages state `taking: []`; 20 still carry entries — nine inference generators, four send commands, four temper inventory writers, `music rate`, `google calendar event list` and `read`. `read` carries `--full`, which its `arguments` does not name and Alan has not ruled on. No act takes a many-valued property off one page, so `taking: []` is the terminal state, and this closes with one `remove-property-from-every-page` over `page-type/command` once the last entry is gone.\n",
-    },
-    {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
         "Every alias is gone — `7f192eb50ad` through `99d2e372171`. Measured at `e659f26d471`: 37 spellings carry more than one `takes` sentence, about 25 of them genuinely more than one argument. `--query` names five things, `--from` four, `--file-path` four over 13 commands, `--message` a Gmail id and a commit message. No command names two arguments alike, so no call site is ambiguous. Five wait on Alan: `--last`, `--to`, `--target`, `--prompt` and `--text`.\n",
