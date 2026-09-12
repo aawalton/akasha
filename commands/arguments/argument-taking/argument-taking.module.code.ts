@@ -172,11 +172,12 @@ function grouped(naming: readonly Naming[]): readonly (readonly Naming[])[] {
 }
 
 function saidNone(calledAs: string, group: readonly Naming[]): string {
-  const every = group.map((one) => eitherWay(one))
+  const every = group.flatMap((one) => spellingsOf(one))
   const last = every[every.length - 1] ?? ""
   const before = every.slice(0, -1)
-  const said = before.length === 0 ? last : `${before.join(", ")} or ${last}`
-  const naught = group.length > 2 ? "and nothing said any of them" : "and nothing said either"
+  const said =
+    before.length === 0 ? namesDrawn([last]) : `${namesDrawn(before)} or ${namesDrawn([last])}`
+  const naught = every.length > 2 ? "and nothing said any of them" : "and nothing said either"
   return `\`${calledAs}\` takes ${said}, ${naught}`
 }
 

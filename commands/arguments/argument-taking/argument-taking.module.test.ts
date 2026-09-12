@@ -18,6 +18,8 @@ import {
   NO_NOPE,
   NO_VALUE,
   NODE,
+  NOT_BOTH,
+  ONE_OF_SPELT,
   ONE_OF_THEM,
   ONE_OF_THREE,
   ONE_OF_TWO,
@@ -265,9 +267,7 @@ test("a word is refused where the command takes no argument as a word", () => {
 })
 
 test("two arguments one call may not say together are refused where a call says both", () => {
-  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], ONE_OF_THEM)[0]).toBe(
-    "`--video` and `--frames-dir` are never said together, and this call says both"
-  )
+  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], ONE_OF_THEM)[0]).toBe(NOT_BOTH)
 })
 
 test("two arguments one call may not say together are read where a call says one", () => {
@@ -275,9 +275,7 @@ test("two arguments one call may not say together are read where a call says one
 })
 
 test("a pair both entries state is refused once", () => {
-  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], EACH_STATING)).toEqual([
-    "`--video` and `--frames-dir` are never said together, and this call says both",
-  ])
+  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], EACH_STATING)).toEqual([NOT_BOTH])
 })
 
 test("a group one call must say one of is refused where a call says none of them", () => {
@@ -299,6 +297,12 @@ test("a group one call must say one of is read where a call says one", () => {
 test("arguments naming each other that way are one group rather than pairs", () => {
   expect(refusals([], ONE_OF_THREE)).toEqual([
     "`akasha thing` takes `--to-position`, `--before` or `--after`, and nothing said any of them",
+  ])
+})
+
+test("a group is counted by the spellings its refusal names rather than by its arguments", () => {
+  expect(refusals([], ONE_OF_SPELT)).toEqual([
+    "`akasha thing` takes `<node>`, `--node` or `--video`, and nothing said any of them",
   ])
 })
 

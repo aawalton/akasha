@@ -164,7 +164,15 @@ export const SAID_NEITHER =
 
 export const NO_VALUE = "`--limit` takes a value, and none follows it"
 
+export const NOT_BOTH =
+  "`--video` and `--frames-dir` are never said together, and this call says both"
+
 export const NO_NOPE = "`--nope` is no argument `akasha thing` takes — it takes `--limit`"
+
+export const ONE_OF_SPELT: readonly Naming[] = [
+  { argument: argumentOf("node", "text"), saidAs: "flag-or-word", oneOf: [VIDEO] },
+  { argument: VIDEO },
+]
 
 export const ONE_OF_THREE: readonly Naming[] = [
   { argument: TO_POSITION, oneOf: [BEFORE, AFTER] },
