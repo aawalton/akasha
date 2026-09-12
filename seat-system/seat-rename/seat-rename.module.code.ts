@@ -1,10 +1,10 @@
+import { restateSeatName } from "akasha/agents/seats/modules/name-restate/seat-name-restate.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   composeSeatName,
   FLEET,
   type NameableSeat,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { restateSeatName } from "akasha/seat-system/seat-name-restate/seat-name-restate.module.code.ts"
 import { pageValuesOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import {
