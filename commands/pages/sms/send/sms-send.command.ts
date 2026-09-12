@@ -9,15 +9,6 @@ export const smsSend = {
   taking: [
     { said: "--to <e164>", takes: "the number the text goes to, written in E.164" },
     { said: "<e164>", takes: "the same number, said as a word rather than at its flag" },
-    { said: "--text <body>", takes: "the message body" },
-    {
-      said: "--from <e164>",
-      takes: "the number to send from, the toll-free one where none is said",
-    },
-    {
-      said: "--base-url <url>",
-      takes: "the carrier API to reach, the live one where none is said",
-    },
   ],
   invariants: [
     {
@@ -52,7 +43,17 @@ export const smsSend = {
       invariantKind: "absence",
       statement: "Nothing here checks that the number is one anybody enrolled.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The carrier reached is the live API unless another is said.",
+    },
   ],
   name: "send",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/text-file" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/text-file" },
+    { argument: "argument/text" },
+    { argument: "argument/from-number" },
+    { argument: "argument/base-url" },
+  ],
 } as const satisfies Command
