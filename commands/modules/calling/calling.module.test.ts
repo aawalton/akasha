@@ -261,6 +261,50 @@ test("the commands there are come from the index", () => {
   expect(commandsIn(root)).toEqual(["held", "other"])
 })
 
+test("a command under a namespace is named by the call reaching it", () => {
+  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
+  namespacesIn(root, [
+    {
+      slug: "change",
+      name: "change",
+      definition: "what a landing carries",
+      parts: ["command/change-draft"],
+    },
+  ])
+  expect(commandsIn(root)).toEqual(["change draft"])
+})
+
+test("the commands a refusal lists are the calls reaching them", async () => {
+  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
+  namespacesIn(root, [
+    {
+      slug: "change",
+      name: "change",
+      definition: "what a landing carries",
+      parts: ["command/change-draft"],
+    },
+  ])
+  const said = await calling(["nowhere"], { ...OUTSIDE, root })
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals[0]).toContain("  akasha change draft")
+  expect(said.refusals[0]).not.toContain("akasha change-draft")
+})
+
+test("a name near a command's is pointed at as the call reaching that command", async () => {
+  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
+  namespacesIn(root, [
+    {
+      slug: "change",
+      name: "change",
+      definition: "what a landing carries",
+      parts: ["command/change-draft"],
+    },
+  ])
+  const said = await calling(["change-draf"], { ...OUTSIDE, root })
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals[0]).toContain("Did you mean `change draft`?")
+})
+
 test("a name no command carries is told where the surface is written down", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling(["nowhere"], { ...OUTSIDE, root })

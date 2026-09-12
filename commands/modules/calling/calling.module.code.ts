@@ -24,6 +24,7 @@ import {
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import {
   type Naming,
+  pathOf,
   type Reached,
   saidIn,
   walkingIn,
@@ -125,7 +126,9 @@ export function commandSlugIn(root: string): string | null {
 
 export function commandsIn(root: string): readonly string[] {
   const said = commandSlugIn(root)
-  return said === null ? [] : slugsOfType(root, said)
+  if (said === null) return []
+  const named = levelNamed(root)
+  return slugsOfType(root, said).map((one) => pathOf(one, named))
 }
 
 export function reachedIn(
@@ -317,7 +320,9 @@ export function namespaceSlugIn(root: string): string | null {
 
 function namedIn(root: string, every: readonly string[]): readonly string[] {
   const type = namespaceSlugIn(root)
-  return type === null ? every : [...every, ...slugsOfType(root, type)]
+  if (type === null) return every
+  const named = levelNamed(root)
+  return [...every, ...slugsOfType(root, type).map((one) => pathOf(one, named))]
 }
 
 type Level = {

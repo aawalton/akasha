@@ -4,6 +4,8 @@ const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 const UNDER = "-"
 
+const SPACE = " "
+
 export type Reached = {
   readonly named: string
   readonly held: number
@@ -22,7 +24,22 @@ export function wordsIn(argv: readonly string[]): readonly string[] {
 }
 
 export function saidIn(argv: readonly string[], held: number): string {
-  return argv.slice(0, held).join(" ")
+  return argv.slice(0, held).join(SPACE)
+}
+
+export function pathOf(slug: string, namedAt: Naming): string {
+  const words: string[] = []
+  let rest = slug
+  while (rest !== "") {
+    const said = namedAt(rest)
+    if (said === null || (said !== rest && !rest.endsWith(`${UNDER}${said}`))) {
+      words.unshift(rest)
+      break
+    }
+    words.unshift(said)
+    rest = said === rest ? "" : rest.slice(0, rest.length - said.length - UNDER.length)
+  }
+  return words.join(SPACE)
 }
 
 function below(named: string, word: string): string {

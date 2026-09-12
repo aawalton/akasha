@@ -195,6 +195,15 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A command in that list is written as the call reaching it rather than as its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name such a refusal points at is written the same way.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index naming no page type for commands is not an index with no command.",
     },
     {
