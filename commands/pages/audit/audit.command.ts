@@ -133,8 +133,8 @@ export const audit = {
       statement: "An audit's findings are answered as the data's fault.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing schedules this command.",
+      invariantKind: "departure",
+      statement: "The audit service is started by an hourly timer and by a run asking for a round.",
     },
     {
       invariantKind: "absence",
