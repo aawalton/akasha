@@ -1,4 +1,10 @@
 import { basename, dirname, join } from "node:path"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Shape } from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
@@ -60,7 +66,7 @@ async function scoring(read: Taken, given: Given, report: string[]): Promise<Ans
     String(clearing),
   ])
   if (proc === null) {
-    return { report, refusals: ["podman is not on PATH"], code: 3 }
+    return { report, refusals: ["podman is not on PATH"], code: OPERATIONAL }
   }
   const out = await new Response(proc.stdout).text()
   const err = await new Response(proc.stderr).text()
@@ -74,24 +80,24 @@ async function scoring(read: Taken, given: Given, report: string[]): Promise<Ans
         "the scorer would not take the inputs — no face was found in the reference, " +
           `or the frames directory is not there — ${last}`,
       ],
-      code: 2,
+      code: DATA,
     }
   }
   if (exited !== 0) {
     const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
-    return { report, refusals: [`the scorer ended at ${exited} — ${last}`], code: 3 }
+    return { report, refusals: [`the scorer ended at ${exited} — ${last}`], code: OPERATIONAL }
   }
   report.push(...rows)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function inferenceWanScore(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readScore(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
     return await scoring(read, given, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: 3 }
+    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
 }

@@ -1,5 +1,12 @@
 import { mkdir, readdir } from "node:fs/promises"
 import { basename, dirname, extname, join } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -35,9 +42,9 @@ async function framing(read: Taken, given: Given, report: string[]): Promise<Ans
   const said = read.said
   const videoPath = at(given, said.get("--video") ?? "")
   const fps = numberIn(said, "--fps")
-  if (fps === 0) return refused("`--fps` is one frame a second or more", 1)
+  if (fps === 0) return refused("`--fps` is one frame a second or more", INPUT)
   if (!(await Bun.file(videoPath).exists())) {
-    return refused(`\`--video\` names \`${videoPath}\`, and nothing is there`, 2)
+    return refused(`\`--video\` names \`${videoPath}\`, and nothing is there`, DATA)
   }
   const stem = basename(videoPath, extname(videoPath))
   const outSaid = said.get("--out-dir")
@@ -55,26 +62,26 @@ async function framing(read: Taken, given: Given, report: string[]): Promise<Ans
     join(outDir, "frame-%04d.png"),
   ])
   if (proc === null) {
-    return { report, refusals: ["ffmpeg is not on PATH — install it"], code: 3 }
+    return { report, refusals: ["ffmpeg is not on PATH — install it"], code: OPERATIONAL }
   }
   const err = await new Response(proc.stderr).text()
   if ((await proc.exited) !== 0) {
     const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
-    return { report, refusals: [`ffmpeg took no frames out of it — ${last}`], code: 3 }
+    return { report, refusals: [`ffmpeg took no frames out of it — ${last}`], code: OPERATIONAL }
   }
   const written = await readdir(outDir)
   const many = written.filter((one) => FRAME_PATTERN.test(one)).length
   report.push(`frames\t${many}`, `dir\t${outDir}`)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function inferenceWanFrame(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readFrame(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
     return await framing(read, given, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: 3 }
+    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
 }
