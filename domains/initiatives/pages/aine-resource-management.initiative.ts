@@ -10,7 +10,7 @@ export const aineResourceManagement = {
     {
       statement: "Every test file an agent runs has a memory ceiling of its own.",
       workingMemory:
-        "A test file is held to five processor seconds, stated once on code-file-property and inherited by every module's test run, and judged once the run ended. Nothing states a memory ceiling. Every test file now spawns in a control group of its own and the peak recorded against it is that group's own, so the number a ceiling would be judged against is per file rather than per run. maxMemoryMb is declared on code-file-property, read by no code, and stated by no page.",
+        "A test file is held to five processor seconds and 128 megabytes, both stated on code-file-property and read by code-tests. A run sits in a leaf of its own group and what it starts sits beside it, so the seconds and peak recorded carry everything that file started. The ceiling reclaims and slows rather than ending a run, so a file wanting more pays in processor seconds instead, and only the processor ceiling is judged. Of 1700 test files, 207 sit against the ceiling.",
     },
     {
       statement: "Every change an agent runs has a memory ceiling of its own.",
@@ -30,7 +30,7 @@ export const aineResourceManagement = {
     {
       statement: "Every guard a tool call runs has a processor and a memory ceiling of its own.",
       workingMemory:
-        "A guard is an agent hook, and hook-dispatch spawns each one and records a cost row against that hook's page. No hook states either ceiling and nothing judges the run. The processor seconds recorded are the dispatcher's child seconds and so are the guard's, while the peak recorded is the dispatcher's own high water mark rather than the guard's. A guard runs on every tool call of every seat, which is where the volume is.",
+        "A guard is an agent hook, and hook-dispatch spawns each one and records a cost row against that hook's page. No hook states either ceiling and nothing judges the run. The seconds recorded are the dispatcher's child seconds and so the guard's, while the peak is the dispatcher's own mark rather than the guard's. A guard runs on every tool call of every seat. clear-reads sweeps the read record at every session start, opening 35,216 files in 31,591 folders to read one moment from each.",
     },
     {
       statement: "Every deploy an agent runs has a processor and a memory ceiling of its own.",
