@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const SKILL_EAV_SCHEMA = z
@@ -130,7 +131,7 @@ ${fields.join(",\n")},
  * in \`skills-data.ts\` continue to distinguish e.g. passive skills
  * with implemented effects from those without.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"

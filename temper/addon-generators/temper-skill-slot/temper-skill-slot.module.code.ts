@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { skillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
 import { z } from "zod"
@@ -56,7 +57,7 @@ export function generateTemperSkillSlot(rows: readonly Page[]): string {
  * feeds the \`SkillSlotId\` union and the \`skillSlots.data\` lookup in
  * @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { SkillSlotTemplate } from "../skill-slots-data"
