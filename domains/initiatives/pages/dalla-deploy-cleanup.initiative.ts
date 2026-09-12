@@ -32,7 +32,7 @@ export const dallaDeployCleanup = {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
       workingMemory:
-        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. The workstation kind is the union over every workstation service. The workstation and ESO addon kinds have a loop running; the other five wait on somebody typing the command. What composes a unit's text sits in no closure, so a change to it starts no deploy.",
+        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. The workstation kind is the union over every workstation service and the CLI the deploy is run through, which is 1174 files, so nearly any commit wants a workstation deploy. The workstation and ESO addon kinds have a loop running; the other five wait on somebody typing the command.",
     },
   ],
   constraints: [
