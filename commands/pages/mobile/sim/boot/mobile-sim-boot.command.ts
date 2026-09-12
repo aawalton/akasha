@@ -6,12 +6,7 @@ export const mobileSimBoot = {
   slug: "mobile-sim-boot",
   definition: "the command booting a simulator and starting the Appium server it is driven through",
   code: "ts",
-  taking: [
-    {
-      said: "--udid <udid>",
-      takes: "the simulator to boot, the first booted or available iPhone where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -36,4 +31,5 @@ export const mobileSimBoot = {
     },
   ],
   name: "boot",
+  arguments: [{ argument: "argument/udid" }],
 } as const satisfies Command

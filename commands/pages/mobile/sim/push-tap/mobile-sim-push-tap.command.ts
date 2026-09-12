@@ -14,10 +14,6 @@ export const mobileSimPushTap = {
       said: "--warm",
       takes: "leave the app running, so the tap measures a warm open rather than a cold one",
     },
-    {
-      said: "--udid <udid>",
-      takes: "the simulator to push to, the session's own or the first booted where none is said",
-    },
     { said: "--title <text>", takes: "the notification's title, `Tap probe` where none is said" },
   ],
 
@@ -48,5 +44,5 @@ export const mobileSimPushTap = {
     },
   ],
   name: "push-tap",
-  arguments: [{ argument: "argument/app" }],
+  arguments: [{ argument: "argument/app" }, { argument: "argument/udid" }],
 } as const satisfies Command

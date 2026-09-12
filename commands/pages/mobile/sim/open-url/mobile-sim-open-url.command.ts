@@ -14,11 +14,6 @@ export const mobileSimOpenUrl = {
       said: "--as-real-user",
       takes: "sign in as Alan to read what only he can see, and change nothing through it",
     },
-    {
-      said: "--udid <udid>",
-      takes:
-        "the simulator to open it on, the session's own or the first booted where none is said",
-    },
   ],
 
   invariants: [
@@ -49,5 +44,5 @@ export const mobileSimOpenUrl = {
     },
   ],
   name: "open-url",
-  arguments: [{ argument: "argument/app" }],
+  arguments: [{ argument: "argument/app" }, { argument: "argument/udid" }],
 } as const satisfies Command
