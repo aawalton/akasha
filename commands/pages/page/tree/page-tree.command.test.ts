@@ -12,7 +12,7 @@ import type { Valued } from "akasha/pages/indexes/reading/index-reading.module.c
 const ROOT = "/nowhere"
 
 function givenIn(): Given {
-  return { root: ROOT, calledAs: "akasha page-tree", from: ROOT, writer: null, agentId: null }
+  return { root: ROOT, calledAs: "akasha page tree", from: ROOT, writer: null, agentId: null }
 }
 
 const TYPES: readonly Valued[] = [

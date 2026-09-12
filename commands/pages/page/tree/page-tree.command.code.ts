@@ -266,7 +266,7 @@ if (import.meta.main) {
   const said = optionalEnv("AKASHA_WRITER")
   const answer = pageTree(process.argv.slice(2), {
     root: stated === undefined ? rootOf(import.meta.path) : resolve(stated),
-    calledAs: "akasha page-tree",
+    calledAs: "akasha page tree",
     from: process.cwd(),
     writer: said ?? AUTHOR,
     agentId: writerIn(process.env),
