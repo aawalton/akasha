@@ -8,4 +8,5 @@ export const rembgSession = {
   takes: "the rembg session the matte is cut with",
   value: "text",
   placeholder: "name",
+  default: "birefnet-portrait",
 } as const satisfies Argument
