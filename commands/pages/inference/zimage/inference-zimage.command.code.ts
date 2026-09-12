@@ -5,6 +5,7 @@ import { basename, dirname, join } from "node:path"
 import {
   answering,
   INPUT,
+  keeping,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -282,5 +283,5 @@ async function generating(read: Taken, given: Given, done: string[]): Promise<An
 export async function inferenceZimage(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => await generating(read, given, done))
+  return await answering(async (done) => keeping(done, await generating(read, given, done)))
 }

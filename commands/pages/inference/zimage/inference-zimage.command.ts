@@ -77,6 +77,10 @@ export const inferenceZimage = {
     },
     {
       invariantKind: "departure",
+      statement: "A render that refused part way says what it had passed over by then.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The copying and the moving are handed in.",
     },
   ],

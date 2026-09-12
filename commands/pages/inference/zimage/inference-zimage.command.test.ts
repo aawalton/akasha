@@ -107,6 +107,37 @@ test("a comma list of checkpoints is refused", async () => {
   expect(said.refusals[0]).toContain("comma")
 })
 
+test("a refusal after a flag was passed over says what this had passed over", async () => {
+  const said = await inferenceZimage(
+    [
+      "--prompt",
+      "a cat",
+      "--output",
+      "/elsewhere/a.png",
+      "--base-model",
+      "flux-dev",
+      "--lora-paths",
+      "/elsewhere/one.safetensors,/elsewhere/two.safetensors",
+    ],
+    given("/nowhere")
+  )
+
+  expect(said.refusals[0]).toContain("comma")
+  expect(said.report.join(" ")).toContain("flux-dev")
+  const last = said.refusals[said.refusals.length - 1] as string
+  expect(last).toContain("flux-dev")
+})
+
+test("a refusal with nothing passed over and nothing written names neither", async () => {
+  const said = await inferenceZimage(
+    ["--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
+    given("/nowhere")
+  )
+
+  expect(said.report).toEqual([])
+  expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
 test("a relative path is read against the root rather than the calling folder", () => {
   expect(at(given("/repo"), "out/a.png")).toBe("/repo/out/a.png")
   expect(at(given("/repo"), "/elsewhere/a.png")).toBe("/elsewhere/a.png")
