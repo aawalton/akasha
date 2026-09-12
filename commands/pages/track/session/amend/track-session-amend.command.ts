@@ -7,12 +7,7 @@ export const trackSessionAmend = {
   definition: "the command changing a stretch already written",
   code: "ts",
   parts: [],
-  taking: [
-    {
-      said: "--relationship <id|title>",
-      takes: "who the stretch was with, said again or parted by commas for several",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -103,5 +98,6 @@ export const trackSessionAmend = {
     { argument: "argument/title" },
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
+    { argument: "argument/relationship" },
   ],
 } as const satisfies Command

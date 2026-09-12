@@ -6,12 +6,7 @@ export const trackSessionSplit = {
   slug: "track-session-split",
   definition: "the command parting one stretch into two at a time said",
   code: "ts",
-  taking: [
-    {
-      said: "--relationship <id|title>",
-      takes: "who the stretch was with, said again or parted by commas for several",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -106,5 +101,6 @@ export const trackSessionSplit = {
     { argument: "argument/title" },
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
+    { argument: "argument/relationship" },
   ],
 } as const satisfies Command
