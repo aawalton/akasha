@@ -26,6 +26,14 @@ export const inboxWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "A run that threw says what that run had already carried out before it threw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each run is handed a list of its own rather than one the watch keeps filling.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A pass that acted on nothing and found nothing waiting and nothing unclaimed says nothing.",
     },

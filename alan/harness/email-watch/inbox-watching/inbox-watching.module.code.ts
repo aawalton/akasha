@@ -70,8 +70,9 @@ export async function runInboxWatching(): Promise<void> {
   log(`watching ${PERSON}'s mail every ${Math.round(EVERY_MS / 1000)}s`)
 
   while (!stopping.signal.aborted) {
+    const done: string[] = []
     try {
-      const report = await oneRun(PERSON, ROOT, box, { dryRun: false })
+      const report = await oneRun(PERSON, ROOT, box, { dryRun: false }, done)
       if (report.acted > 0 || report.waiting > 0 || report.unclaimed > 0)
         log(
           `${report.examined} examined, ${report.acted} acted on, ${report.waiting} waiting, ${report.unclaimed} unclaimed`
@@ -79,6 +80,7 @@ export async function runInboxWatching(): Promise<void> {
       await announce()
     } catch (error) {
       log(`pass failed: ${String(error)}`)
+      for (const one of done) log(`the run had already done this: ${one}`)
     }
     await sleptUntilStopped(EVERY_MS, stopping.signal)
   }

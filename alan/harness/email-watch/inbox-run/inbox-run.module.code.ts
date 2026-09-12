@@ -113,15 +113,29 @@ function spelt(rule: Rule): string {
   return [...(rule.filing === null ? [] : [rule.filing]), ...forward, ...rule.actions].join("+")
 }
 
+export function forwardedSaid(id: string, to: string): string {
+  return `message ${id}, forwarded to ${to}, which nothing here takes back`
+}
+
+export function unsubscribedSaid(url: string): string {
+  return `a one-click unsubscribe POSTed to ${url}, which nothing here takes back`
+}
+
+export function archivedSaid(id: string): string {
+  return `message ${id}, archived at Gmail and out of the inbox`
+}
+
 export async function carry(
   rule: Rule,
   message: Message,
   box: Mailbox,
-  root: string
+  root: string,
+  done: string[] = []
 ): Promise<void> {
   if (rule.forwardTo !== null) {
     const to = addressOfPerson(rule.forwardTo, root)
     await box.send(forwardOf(await box.rawOf(message.id), to, message))
+    done.push(forwardedSaid(message.id, to))
     record({ message: message.id, rule: rule.slug, action: "forward", to })
   }
   if (rule.actions.includes("unsubscribe")) {
@@ -133,6 +147,7 @@ export async function carry(
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
           body: "List-Unsubscribe=One-Click",
         })
+        done.push(unsubscribedSaid(url))
         record({ message: message.id, rule: rule.slug, action: "unsubscribe", url })
       }
     } else
@@ -146,6 +161,7 @@ export async function carry(
   }
   if (rule.filing === "archive") {
     await box.modify(message.id, { remove: ["INBOX"] })
+    done.push(archivedSaid(message.id))
     record({ message: message.id, rule: rule.slug, action: "archive" })
   }
   if (rule.filing === "skip") record({ message: message.id, rule: rule.slug, action: "skip" })
@@ -167,7 +183,8 @@ export async function oneRun(
   person: string,
   root: string,
   box: Mailbox,
-  options: { readonly dryRun: boolean }
+  options: { readonly dryRun: boolean },
+  done: string[] = []
 ): Promise<RunReport> {
   const rules = rulesOf(person, root)
   const state = readState()
@@ -201,16 +218,24 @@ export async function oneRun(
       decisions.push(`${claim.messageId} → ${rule.slug} (delayed, now due)`)
       continue
     }
+    const did: string[] = []
     try {
-      await carry(rule, await box.message(claim.messageId), box, root)
+      await carry(rule, await box.message(claim.messageId), box, root, did)
       acted += 1
       claims.splice(
         claims.findIndex((one) => one.messageId === claim.messageId),
         1
       )
     } catch (error) {
-      record({ message: claim.messageId, rule: rule.slug, action: "failed", error: String(error) })
+      record({
+        message: claim.messageId,
+        rule: rule.slug,
+        action: "failed",
+        error: String(error),
+        done: did,
+      })
     }
+    done.push(...did)
   }
 
   for (const id of found.ids) {
@@ -272,12 +297,14 @@ export async function oneRun(
       record({ message: id, rule: rule.slug, action: "claimed", actAt: due.toISOString() })
       continue
     }
+    const did: string[] = []
     try {
-      await carry(rule, message, box, root)
+      await carry(rule, message, box, root, did)
       acted += 1
     } catch (error) {
-      record({ message: id, rule: rule.slug, action: "failed", error: String(error) })
+      record({ message: id, rule: rule.slug, action: "failed", error: String(error), done: did })
     }
+    done.push(...did)
   }
 
   const waiting = claims.filter((one) => one.actAt === undefined)
