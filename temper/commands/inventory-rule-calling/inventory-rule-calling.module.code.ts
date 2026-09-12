@@ -1,4 +1,10 @@
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -32,12 +38,6 @@ import type {
   InventoryRuleSettings,
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-
-export const INPUT = 1
-
-export const DATA = 2
-
-export const OPERATIONAL = 3
 
 export const FORCE = "--force"
 
@@ -228,7 +228,7 @@ export function readIn(argv: readonly string[], calledAs: string, shape: Shape):
 }
 
 export function told(text: string): Answer {
-  return { report: text.split("\n"), refusals: [], code: 0 }
+  return { report: text.split("\n"), refusals: [], code: OK }
 }
 
 export function toldOf(value: unknown): Answer {
