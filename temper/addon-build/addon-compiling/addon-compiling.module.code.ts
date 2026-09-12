@@ -33,8 +33,8 @@ function bytesAt(path: string): number {
   return existsSync(path) ? statSync(path).size : 0
 }
 
-function refusing(reason: string): Compiled {
-  return { lines: [], refusals: [reason] }
+function refusing(reason: string, done: readonly string[] = []): Compiled {
+  return { lines: [...done], refusals: [reason] }
 }
 
 export function bundlePathFor(root: string, canonicalName: string): string {
@@ -60,25 +60,31 @@ function emptied(root: string, dir: string, canonicalName: string): undefined {
 export async function compiledAddon(
   root: string,
   dir: string,
-  canonicalName: string
+  canonicalName: string,
+  done: string[] = []
 ): Promise<Compiled> {
   const compiler = compilerRoot()
   const entry = compilerEntry()
   if (!existsSync(join(compiler, entry))) {
     return refusing(
-      `${compiler} holds no ${entry}, so nothing there is the compiler this builds with`
+      `${compiler} holds no ${entry}, so nothing there is the compiler this builds with`,
+      done
     )
   }
 
   let config: string | null
   try {
-    config = await compilerConfigPathFor(root, dir, canonicalName)
+    config = await compilerConfigPathFor(root, dir, canonicalName, done)
   } catch (thrown) {
-    return refusing(`${canonicalName} states settings a build cannot read: ${messageOf(thrown)}`)
+    return refusing(
+      `${canonicalName} states settings a build cannot read: ${messageOf(thrown)}`,
+      done
+    )
   }
   if (config === null) {
     return refusing(
-      `${canonicalName} holds no ${TSCONFIG_NAME} in ${dir} and its page names no bundle entry to write one from, so there is nothing to compile`
+      `${canonicalName} holds no ${TSCONFIG_NAME} in ${dir} and its page names no bundle entry to write one from, so there is nothing to compile`,
+      done
     )
   }
 
@@ -93,36 +99,39 @@ export async function compiledAddon(
 
   if (answered.code !== 0) {
     return {
-      lines: errors.length > 0 ? errors : said,
+      lines: [...done, ...(errors.length > 0 ? errors : said)],
       refusals: [`${canonicalName} did not compile (exit ${String(answered.code)})`],
     }
   }
   const bytes = bytesAt(bundle)
   if (bytes === 0) {
     return refusing(
-      `${canonicalName} compiled clean and left no ${bundle}, so a build reported here is a build over nothing`
+      `${canonicalName} compiled clean and left no ${bundle}, so a build reported here is a build over nothing`,
+      done
     )
   }
 
   try {
-    await copyAddonMetadata(root, dir, canonicalName)
+    await copyAddonMetadata(root, dir, canonicalName, done)
   } catch (thrown) {
     return refusing(
-      `${canonicalName} compiled, and what it ships beside its Lua did not copy: ${messageOf(thrown)}`
+      `${canonicalName} compiled, and what it ships beside its Lua did not copy: ${messageOf(thrown)}`,
+      done
     )
   }
 
   return {
-    lines: [`compiled ${canonicalName}, ${String(bytes)} byte(s) of Lua at ${bundle}`],
+    lines: [...done, `compiled ${canonicalName}, ${String(bytes)} byte(s) of Lua at ${bundle}`],
     refusals: [],
   }
 }
 
-export async function compiledEveryAddon(root: string): Promise<Compiled> {
+export async function compiledEveryAddon(root: string, done: string[] = []): Promise<Compiled> {
   const roster = listAllAddons({ repoRoot: root })
   if (roster.length === 0) {
     return refusing(
-      `${root} holds no addon carrying a manifest, so a run here would compile nothing`
+      `${root} holds no addon carrying a manifest, so a run here would compile nothing`,
+      done
     )
   }
   const named = [...roster].sort((left, right) =>
@@ -130,8 +139,8 @@ export async function compiledEveryAddon(root: string): Promise<Compiled> {
   )
   let bytes = 0
   for (const one of named) {
-    const done = await compiledAddon(root, one.dir, one.canonicalName)
-    if (done.refusals.length > 0) return done
+    const built = await compiledAddon(root, one.dir, one.canonicalName, done)
+    if (built.refusals.length > 0) return built
     bytes += bytesAt(bundlePathFor(root, one.canonicalName))
   }
   return {

@@ -37,6 +37,10 @@ export const addonCompiling = {
     },
     {
       invariantKind: "departure",
+      statement: "A compile that refused names every file it had already written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The compile is bounded at an hour.",
     },
     {
