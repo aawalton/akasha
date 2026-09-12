@@ -46,7 +46,7 @@ function agreementViolations(artifacts: readonly StampedArtifact[]): readonly st
   ]
 }
 
-export function evaluateEsoTypingsFreshness(input: FreshnessInput): FreshnessResult {
+export function evaluateEsoDeclarationFreshness(input: FreshnessInput): FreshnessResult {
   const { artifacts } = input
 
   if (artifacts.length === 0) {

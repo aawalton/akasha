@@ -8,7 +8,7 @@ import {
   WALK_ROOT,
 } from "akasha/temper/build-deploy-checks/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
 import {
-  evaluateEsoTypingsFreshness,
+  evaluateEsoDeclarationFreshness,
   type StampedArtifact,
 } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
@@ -31,7 +31,7 @@ function main(): number {
   })
   const scan = `by ${generatorsCovered(artifacts)} generator(s)`
 
-  const result = evaluateEsoTypingsFreshness({ artifacts })
+  const result = evaluateEsoDeclarationFreshness({ artifacts })
   if (result.ok) {
     process.stdout.write(
       "check-eso-declaration-fresh: every clone-derived ESO artifact is stamped, names a generator " +
