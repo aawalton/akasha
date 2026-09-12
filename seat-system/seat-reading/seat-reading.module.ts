@@ -42,7 +42,16 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A name reaches a seat's page without the index.",
+      statement: "A name reaches a seat's page whether or not that seat has a page yet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder a seat's page sits in is asked of the index rather than spelled here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is a seat by the page type filing it rather than by the folder it sits in.",
     },
     {
       invariantKind: "departure",

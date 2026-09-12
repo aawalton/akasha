@@ -1,17 +1,12 @@
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { alive, type Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
-import {
-  everyOfType,
-  listedById,
-  typeSlugOf,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
-
-const SEAT_DIR = "seat-system/seats/pages/"
 
 const SEAT_TAIL = ".seat.ts"
 
@@ -44,8 +39,12 @@ export function nameOf(page: string): string {
   return bare.endsWith(SEAT_TAIL) ? bare.slice(0, -SEAT_TAIL.length) : bare
 }
 
-export function seatPathForName(name: string): string {
-  return `${SEAT_DIR}${name}/${name}${SEAT_TAIL}`
+export function seatsAt(root: string = seatRoot()): string {
+  return pagesAtFor(root, typeSlugOf(root, SEAT_TYPE))
+}
+
+export function seatPathForName(name: string, root: string = seatRoot()): string {
+  return `${seatsAt(root)}/${name}/${name}${SEAT_TAIL}`
 }
 
 export function holderIn(told: unknown): Holder | null {
@@ -72,16 +71,14 @@ export function supervisorAlive(root: string, page: string): boolean {
 export function seatPathForAgent(agentId: string, root: string = seatRoot()): string | null {
   if (agentId === "") return null
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
-    if (one.path.startsWith(SEAT_DIR) && one.id === agentId) return one.path
+    if (one.id === agentId) return one.path
   }
-  const held = listedById(root, agentId)
-  return held?.path.startsWith(SEAT_DIR) === true ? held.path : null
+  return null
 }
 
 export function seatPathForSession(sessionUuid: string, root: string = seatRoot()): string | null {
   if (sessionUuid === "") return null
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
-    if (!one.path.startsWith(SEAT_DIR)) continue
     const held: Value | null = valueAt(one.path, root)
     if (held === null) continue
     if ((held as Record<string, unknown>)[SESSION] === sessionUuid) return one.path
