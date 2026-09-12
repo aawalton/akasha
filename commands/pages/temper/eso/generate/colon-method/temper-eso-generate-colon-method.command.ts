@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const temperEsoGenerateColonMethods = {
+export const temperEsoGenerateColonMethod = {
   id: "01a0685d-f8fa-7dc8-bf64-5a62864e6dbb",
   type: "command",
-  slug: "temper-eso-generate-colon-methods",
+  slug: "temper-eso-generate-colon-method",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",
   changeKind: "change-none",
@@ -61,5 +61,5 @@ export const temperEsoGenerateColonMethods = {
       statement: "A check reads this census.",
     },
   ],
-  name: "colon-methods",
+  name: "colon-method",
 } as const satisfies Command

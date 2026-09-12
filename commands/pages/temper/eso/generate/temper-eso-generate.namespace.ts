@@ -6,9 +6,9 @@ export const temperEsoGenerate = {
   slug: "temper-eso-generate",
   definition: "what is written out from the game's own files",
   parts: [
-    "command/temper-eso-generate-base-game-globals",
-    "command/temper-eso-generate-chatter-names",
-    "command/temper-eso-generate-colon-methods",
+    "command/temper-eso-generate-base-game-global",
+    "command/temper-eso-generate-chatter-name",
+    "command/temper-eso-generate-colon-method",
     "command/temper-eso-generate-hud-scene-catalog",
     "command/temper-eso-generate-typings",
   ],

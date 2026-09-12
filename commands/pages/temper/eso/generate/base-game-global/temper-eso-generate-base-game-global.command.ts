@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const temperEsoGenerateBaseGameGlobals = {
+export const temperEsoGenerateBaseGameGlobal = {
   id: "01a0685d-f8fa-7913-8b39-8d1f9f835d34",
   type: "command",
-  slug: "temper-eso-generate-base-game-globals",
+  slug: "temper-eso-generate-base-game-global",
   definition: "the command staging the census of the string ids the base game provides",
   code: "ts",
   changeKind: "change-none",
@@ -69,5 +69,5 @@ export const temperEsoGenerateBaseGameGlobals = {
       statement: "The run count and the workspace-package page's part slugs are written together.",
     },
   ],
-  name: "base-game-globals",
+  name: "base-game-global",
 } as const satisfies Command
