@@ -6,7 +6,7 @@ export const temperInventoryConfiguration = {
   slug: "temper-inventory-configuration",
   definition: "the command giving back the compiled rule configuration the addon has",
   code: "ts",
-
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
