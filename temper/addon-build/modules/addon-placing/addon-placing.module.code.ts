@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
 import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
-import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
 import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
+import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/modules/consolidation-migrations/consolidation-migrations.module.code.ts"
 import {
   collectFloorsFor,
   decideFolderOwnership,

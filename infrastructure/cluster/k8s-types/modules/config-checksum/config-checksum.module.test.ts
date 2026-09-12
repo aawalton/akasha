@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
+import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/modules/config-checksum/config-checksum.module.code.ts"
 
 test("the order the keys are written in leaves the hash the same hash", () => {
   expect(configChecksum({ one: "a", two: "b" })).toBe(configChecksum({ two: "b", one: "a" }))

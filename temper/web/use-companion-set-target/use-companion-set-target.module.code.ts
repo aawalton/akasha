@@ -4,7 +4,7 @@ import {
   applyCompanionMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import { confirmingTarget } from "akasha/temper/build-support/confirm-set-target/confirm-set-target.module.code.ts"
+import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,
