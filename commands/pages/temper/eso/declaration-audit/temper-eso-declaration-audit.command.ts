@@ -7,6 +7,7 @@ export const temperEsoDeclarationAudit = {
   definition:
     "the command reading which committed game artifacts are stamped behind the clone they came from",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -52,6 +53,18 @@ export const temperEsoDeclarationAudit = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes an artifact or the clone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument this command does not take is refused rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument said twice is refused rather than read as the first saying.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test seam is taken after the world, so a real call reaches the work.",
     },
   ],
   name: "declaration-audit",

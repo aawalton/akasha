@@ -4,23 +4,29 @@ import {
   renderAuditReading,
   summarizeAudit,
 } from "akasha/checks/modules/audit-reading/audit-reading.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { esoDoc } from "akasha/commands/arguments/pages/eso-doc.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answeredWith,
   OK,
   OPERATIONAL,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
+import {
+  esoAnswering,
+  type Generating,
+  type Taking,
+} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,
 } from "akasha/temper/build-deploy-checks/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
 import type { StampedArtifact } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 
@@ -28,14 +34,12 @@ const SUBJECT = "clone-derived ESO artifacts stamped behind the ~/esoui clone"
 
 const MAX_REPORTED = 20
 
-const CODE_ROOT_FLAG = "--code-root"
+const NAMED = [json, codeRootArgument, esoDoc]
 
-const ESO_DOC_FLAG = "--eso-doc"
+type Taken = Taking<typeof page, typeof NAMED>
 
-const JSON_FLAG = "--json"
-
-export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer {
-  const namedRepo = saidFor(argv, CODE_ROOT_FLAG)
+function audited(_done: string[], taken: Taken): Answer {
+  const namedRepo = taken.codeRoot
   const givenRepo = namedRepo === undefined ? codeRoot() : resolve(namedRepo)
   let repoRoot: string
   try {
@@ -44,7 +48,7 @@ export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer 
     repoRoot = givenRepo
   }
 
-  const namedDoc = saidFor(argv, ESO_DOC_FLAG)
+  const namedDoc = taken.esoDoc
   const givenDoc = namedDoc === undefined ? esouiDocPath() : resolve(namedDoc)
   let docPath: string
   try {
@@ -138,7 +142,7 @@ export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer 
     observedAtMs: Date.now(),
   }
 
-  if (argv.includes(JSON_FLAG)) return answeredWith([JSON.stringify(audit)], [], OK)
+  if (taken.json) return answeredWith([JSON.stringify(audit)], [], OK)
 
   const lines = [...renderAuditReading(SUBJECT, audit.reading)]
   lines.push(
@@ -176,4 +180,16 @@ export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer 
     )
   }
   return answeredWith(lines, [], OK)
+}
+
+export async function auditing(
+  argv: readonly string[],
+  given: Given,
+  generating: Generating<Taken> = audited
+): Promise<Answer> {
+  return await esoAnswering(argv, given, page, NAMED, generating)
+}
+
+export function temperEsoDeclarationAudit(argv: readonly string[], given: Given): Promise<Answer> {
+  return auditing(argv, given)
 }

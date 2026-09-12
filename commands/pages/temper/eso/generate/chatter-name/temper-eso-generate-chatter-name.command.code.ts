@@ -2,11 +2,9 @@ import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
   answeredWith,
-  answering,
   DATA,
   keeping,
   OK,
@@ -14,7 +12,11 @@ import {
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import {
+  esoAnswering,
+  type Generating,
+  type Taking,
+} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
 import { temperEsoGenerateChatterName as page } from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
@@ -30,13 +32,10 @@ const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
-export type Generating = (
-  done: string[],
-  named: string | undefined,
-  given: Given
-) => Promise<Answer>
+type Taken = Taking<typeof page, typeof NAMED>
 
-async function generated(done: string[], named: string | undefined, given: Given): Promise<Answer> {
+async function generated(done: string[], taken: Taken, given: Given): Promise<Answer> {
+  const named = taken.codeRoot
   let root: string
   try {
     root = realpathSync(named ?? codeRoot())
@@ -98,13 +97,17 @@ async function generated(done: string[], named: string | undefined, given: Given
   return answeredWith([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`], [], OK)
 }
 
-export async function temperEsoGenerateChatterName(
+export async function chattering(
   argv: readonly string[],
   given: Given,
-  generating: Generating = generated
+  generating: Generating<Taken> = generated
 ): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, NAMED)
-  if ("refused" in read) return mistaking(read.refused)
-  const named = read.taken.codeRoot
-  return await answering(async (done) => await generating(done, named, given))
+  return await esoAnswering(argv, given, page, NAMED, generating)
+}
+
+export function temperEsoGenerateChatterName(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return chattering(argv, given)
 }
