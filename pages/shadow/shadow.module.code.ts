@@ -1,5 +1,6 @@
 import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/carried-file/carried-file.module.code.ts"
+import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
@@ -189,7 +190,7 @@ function pinnedIn(root: string): Reading {
     lines: under.lines,
     read: (path) => {
       if (bodies.has(path)) return bodies.get(path) ?? null
-      const said = commit === null ? null : told(root, ["cat-file", "blob", `${commit}:${path}`])
+      const said = commit === null ? null : textOf(bodyAt(root, commit, path))
       const made = said ?? under.read(path)
       bodies.set(path, made)
       return made
