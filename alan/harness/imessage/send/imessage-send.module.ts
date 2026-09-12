@@ -15,5 +15,21 @@ export const imessageSend = {
       invariantKind: "departure",
       statement: "An attachment is written to a temporary folder the script removes on exit.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each send is its own call to osascript rather than a statement sharing one call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A send that landed is echoed before the next send runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A send that raised stops the script, so nothing after it is echoed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words a marker is read as are written here rather than where it is read.",
+    },
   ],
 } as const satisfies Module

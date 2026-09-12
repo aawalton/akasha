@@ -6,6 +6,7 @@ export const imessageSend = {
   slug: "imessage-send",
   definition: "the command handing one message to the Messages app on the mac",
   code: "ts",
+  test: "ts",
   taking: [
     {
       said: "--to <name-or-handle>",
@@ -51,6 +52,18 @@ export const imessageSend = {
       statement: "A body read from a file has no closing line ending.",
     },
     { invariantKind: "departure", statement: "A picture a call names is hung off the message." },
+    {
+      invariantKind: "departure",
+      statement: "A send that landed is named as soon as the script on the mac says so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A picture that failed after the text names that text in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lines the mac answers are handed in.",
+    },
   ],
   name: "send",
   arguments: [

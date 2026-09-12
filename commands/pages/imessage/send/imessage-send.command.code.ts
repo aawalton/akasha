@@ -17,8 +17,10 @@ import { fetchContacts } from "akasha/alan/harness/imessage/remote/imessage-remo
 import {
   buildSendScript,
   type SendAttachment,
+  sentSaid,
 } from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
-import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
+import { streamSshLines } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
+import type { SshTarget } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
 import {
   answering,
   asJson,
@@ -108,13 +110,26 @@ export async function handleFor(to: string): Promise<string> {
   return reached
 }
 
-export function imessageSend(argv: readonly string[], given: Given): Promise<Answer> {
+export type Lines = (target: SshTarget, script: string) => AsyncIterable<string>
+
+export async function sent(script: string, done: string[], lines: Lines): Promise<void> {
+  for await (const line of lines(MACBOOK, script)) {
+    const one = sentSaid(line)
+    if (one !== null) done.push(one)
+  }
+}
+
+export function imessageSend(
+  argv: readonly string[],
+  given: Given,
+  lines: Lines = streamSshLines
+): Promise<Answer> {
   const said = readIn(argv, given)
   if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
-  return answering(async () => {
+  return answering(async (done) => {
     const attachment = said.image === undefined ? undefined : attachmentAt(given.root, said.image)
     const handle = await handleFor(said.to)
-    await runSshCapture(MACBOOK, buildSendScript(handle, said.text, attachment))
+    await sent(buildSendScript(handle, said.text, attachment), done, lines)
     if (said.json) {
       return asJson({
         sent: true,
