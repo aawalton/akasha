@@ -32,8 +32,14 @@ test("a file the deploy names to be judged joins the diff, changed or not", () =
 })
 
 test("the change carries every file the deploy is built from", () => {
-  const change = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"])
-  expect([...(change.carried ?? [])].sort()).toEqual(["one.ts", "two.ts"])
+  const carried = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"]).carried ?? []
+  expect(carried).toContain("one.ts")
+  expect(carried).toContain("two.ts")
+})
+
+test("a file in a folder the deploy is built from is carried with it", () => {
+  const carried = changeFrom(ROOT, "HEAD", "HEAD", new Set(["bun.lock"])).carried ?? []
+  expect(carried).toContain("biome.json")
 })
 
 test("a commit git no longer holds is read as no commit", () => {

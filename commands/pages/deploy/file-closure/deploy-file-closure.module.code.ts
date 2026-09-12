@@ -81,6 +81,20 @@ export function besideThe(tracked: readonly string[], pagePath: string): readonl
   return underFolder(tracked, folderOf(pagePath))
 }
 
+export function carriedWith(
+  root: string,
+  commit: string,
+  built: ReadonlySet<string>
+): readonly string[] {
+  const folders = new Set<string>()
+  for (const one of built) folders.add(folderOf(one))
+  const found = new Set<string>(built)
+  for (const one of trackedAt(root, commit)) {
+    if (folders.has(folderOf(one))) found.add(one)
+  }
+  return [...found]
+}
+
 function webSeeds(root: string, slug: string, tracked: readonly string[]): readonly string[] {
   const read = deployableNamed(root, slug)
   if ("refused" in read) return []

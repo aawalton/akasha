@@ -4,6 +4,7 @@ import {
   commitAt,
   pathsIn,
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
+import { carriedWith } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
 import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -26,12 +27,13 @@ export function changeFrom(
   also: readonly string[] = []
 ): Change {
   const at = (path: string) => bodyAt(root, now, path)
-  if (was === null) return { root, changed: [...built], before: at, after: at }
+  const carried = carriedWith(root, now, built)
+  if (was === null) return { root, changed: [...built], carried, before: at, after: at }
   const moved = changedBetween(root, was, now).filter((one) => built.has(one))
   return {
     root,
     changed: [...new Set([...moved, ...also])],
-    carried: [...built],
+    carried,
     before: (path) => bodyAt(root, was, path),
     after: at,
   }

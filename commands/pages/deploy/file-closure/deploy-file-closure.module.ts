@@ -78,5 +78,10 @@ export const deployFileClosure = {
       statement:
         "One reading of a commit builds every closure asked of it, reading each body once.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every tracked file in a folder a deploy is built from is carried with that deploy.",
+    },
   ],
 } as const satisfies Module
