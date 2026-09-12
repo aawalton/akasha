@@ -5,10 +5,9 @@ import type {
   SearchResponse,
 } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const INPUT = 1
 
 const DEFAULT_LIMIT = 5
 
@@ -121,7 +120,7 @@ export async function searchWith(find: Finding, argv: readonly string[]): Promis
   const candidates = selectCandidates(result.tracks?.items ?? [], artist, limit)
   const envelope: SearchEnvelope = { query, artist: artist ?? null, candidates }
   const report = read.json ? [JSON.stringify(envelope)] : linesOf(envelope)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export function musicSearch(argv: readonly string[] = []): Promise<Answer> {
