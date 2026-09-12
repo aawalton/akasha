@@ -13,14 +13,7 @@ export const mobileTestflightStatus = {
       takes: "hold until the build is valid or has failed rather than answering once",
     },
   ],
-  helpNotes: [
-    "this asks App Store Connect and nothing else, so it neither reaches the mac nor builds anything.",
-    "a build still processing is an answer rather than a failure, and a wait is what turns it into one.",
-    "a wait asks every thirty seconds for up to thirty minutes and gives back what it saw on the way.",
-    "the token is minted afresh for each read, since a wait outlives any one token.",
-    "a build that failed or came back invalid is a refusal carrying what App Store Connect said was wrong.",
-    "a wait that runs out is a refusal, and the build is still processing rather than lost.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
