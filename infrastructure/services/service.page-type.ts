@@ -7,7 +7,12 @@ export const service = {
   definition: "a thing a deploy puts up",
   pluralSlug: "services",
   extends: ["page-type/domain"],
-  parts: ["text-property/deployed-commit", "text-property/refused-commit"],
+  parts: [
+    "text-property/deployed-commit",
+    "text-property/refused-commit",
+    "number-property/cooldown-seconds",
+    "relation-property/deploys-after",
+  ],
   properties: [
     {
       pageProperty: "text-property/deployed-commit",
@@ -20,6 +25,13 @@ export const service = {
       required: false,
       many: false,
       uncommitted: true,
+    },
+    { pageProperty: "number-property/cooldown-seconds", required: false, many: false },
+    {
+      pageProperty: "relation-property/deploys-after",
+      required: false,
+      many: true,
+      maxCount: null,
     },
   ],
   invariants: [

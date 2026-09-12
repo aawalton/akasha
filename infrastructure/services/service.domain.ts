@@ -14,6 +14,7 @@ export const service = {
     "page-type/secret",
     "service-workstation/service-watching",
     "page-type/service-inference",
+    "module/deploy-choosing",
   ],
   invariants: [
     {
