@@ -6,6 +6,7 @@ export const emailMessageList = {
   slug: "email-message-list",
   definition: "the command summarising each Gmail message a search matches, the search optional",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
