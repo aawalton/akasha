@@ -22,15 +22,7 @@ export const mobileSimPushTap = {
     },
     { said: "--title <text>", takes: "the notification's title, `Tap probe` where none is said" },
   ],
-  helpNotes: [
-    "this makes what a tap on a notification does measurable on demand rather than only when one arrives.",
-    "the app is terminated first by default, since a cold open is the one worth measuring.",
-    "a cold run where the app is still running is refused, because it would have measured a warm open and said cold.",
-    "the banner is tapped where a banner sits rather than by finding it, since a banner is not in the page.",
-    "the trace is read out of the running app, so a build carrying no trace instrument is refused rather than answered empty.",
-    "the trace is waited for rather than read once, since the app has to start before it can write one.",
-    "the session opened to tap the banner is ended afterwards, whether the tap led anywhere or not.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
