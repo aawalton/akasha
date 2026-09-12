@@ -26,7 +26,6 @@ import {
   widthOf,
 } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { owing } from "akasha/commands/pages/read/body-owing/body-owing.module.code.ts"
 import {
   bodyRead,
   differenceOf,
@@ -37,6 +36,7 @@ import {
   longAnswer,
   reachedTo,
 } from "akasha/commands/pages/read/long-answering/long-answering.module.code.ts"
+import { owing } from "akasha/commands/pages/read/modules/body-owing/body-owing.module.code.ts"
 import {
   type Discard,
   discarded,

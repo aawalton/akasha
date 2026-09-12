@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
-import { owing } from "akasha/commands/pages/read/body-owing/body-owing.module.code.ts"
+import { owing } from "akasha/commands/pages/read/modules/body-owing/body-owing.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
