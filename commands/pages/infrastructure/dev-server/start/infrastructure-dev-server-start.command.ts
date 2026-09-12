@@ -11,7 +11,7 @@ export const infrastructureDevServerStart = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seq said as a word is read only where no flag names a seq.",
+      statement: "A seq said as a word and after `--seq` is refused.",
     },
     {
       invariantKind: "departure",
