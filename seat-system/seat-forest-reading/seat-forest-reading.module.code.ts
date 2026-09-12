@@ -6,7 +6,7 @@ import {
 import {
   type ForestRow,
   readSeatForest,
-} from "akasha/seat-system/seat-forest/seat-forest.module.code.ts"
+} from "akasha/agents/seats/modules/forest/seat-forest.module.code.ts"
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   type SeatTurnReading,
