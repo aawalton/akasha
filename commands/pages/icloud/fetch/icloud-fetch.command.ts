@@ -7,12 +7,7 @@ export const icloudFetch = {
   definition: "the command writing every photo an iCloud shared album holds to disk",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--json",
-      takes: "report each written path as a JSON object rather than as a path alone",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -75,10 +70,15 @@ export const icloudFetch = {
       invariantKind: "absence",
       statement: "Nothing here writes to the album.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A JSON answer here is one object a written path rather than one document.",
+    },
   ],
   name: "fetch",
   arguments: [
     { argument: "argument/output" },
     { argument: "argument/album", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/json" },
   ],
 } as const satisfies Command
