@@ -15,12 +15,11 @@ export const googleCalendarEventShow = {
       takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
     },
   ],
-  helpNotes: [
-    "an event is named in place or as a flag, and naming it both ways over is refused.",
-    "this reaches the calendar as the account akasha runs under rather than as Alan.",
-    "the event answered with is reported as JSON.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The event this answers with is reported as JSON.",
+    },
     {
       invariantKind: "departure",
       statement: "An event named in place and as a flag is refused.",
