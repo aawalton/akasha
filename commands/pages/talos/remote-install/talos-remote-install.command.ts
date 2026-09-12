@@ -6,6 +6,7 @@ export const talosRemoteInstall = {
   slug: "talos-remote-install",
   definition: "the command replacing the Linux running on a remote node with Talos, over SSH",
   code: "ts",
+  test: "ts",
   taking: [
     { said: "<node>", takes: "the node to install, said as a word rather than after `--node`" },
     {
@@ -97,6 +98,18 @@ export const talosRemoteInstall = {
     {
       invariantKind: "departure",
       statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The handover is named as soon as the host has taken the script.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw after the handover names the handover in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reaching and the waiting this runs are handed in.",
     },
     {
       invariantKind: "absence",

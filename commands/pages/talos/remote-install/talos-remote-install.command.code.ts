@@ -1,8 +1,4 @@
-import {
-  OPERATIONAL,
-  refusedBy,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -234,7 +230,42 @@ export function installScript(
   return `set -euo pipefail\n\n${preflight}\nif can_kexec; then\n  echo "[remote] auto: kexec eligible — using kexec"\n${kexec}else\n  echo "[remote] auto: kexec ineligible — falling back to dd"\n${dd}fi\nexit 0\n`
 }
 
-async function installing(read: Named, given: Given): Promise<Answer> {
+export type Reaching = typeof runSsh
+
+export type Waiting = typeof waitForPort
+
+export function handoverSaid(read: Named): string {
+  return (
+    `the handover ran on ${read.ip} over ${read.method},` +
+    " and that host is no longer running what it ran before"
+  )
+}
+
+export async function handedOver(
+  read: Named,
+  script: string,
+  reaching: Reaching,
+  waiting: Waiting,
+  done: string[]
+): Promise<undefined> {
+  await reaching({ user: read.sshUser, host: read.ip, keyPath: read.sshKey, script })
+  done.push(handoverSaid(read))
+  await waiting({
+    host: read.ip,
+    port: MAINTENANCE_PORT,
+    timeoutMs: WAIT_MS,
+    intervalMs: TICK_MS,
+  })
+  return undefined
+}
+
+async function installing(
+  read: Named,
+  given: Given,
+  reaching: Reaching,
+  waiting: Waiting,
+  done: string[]
+): Promise<Answer> {
   let node: NodeIntent
   let cluster: ClusterIntent
   try {
@@ -258,6 +289,7 @@ async function installing(read: Named, given: Given): Promise<Answer> {
   }
 
   const schematicId = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
+  done.push(`the schematic ${schematicId} is registered with the factory`)
   const version = cluster.talosVersion
   const urls: Urls = {
     raw: metalRawXzUrl(schematicId, version),
@@ -270,34 +302,24 @@ async function installing(read: Named, given: Given): Promise<Answer> {
     return mistaking([`\`${read.method}\` needs a fixed install disk, and ${node.id} states none`])
   }
 
-  const report = [
+  await handedOver(read, script, reaching, waiting, done)
+  return told([
     `schematic id: ${schematicId}`,
     `method: ${read.method}`,
     `provisioning Talos on ${read.ip} over ${read.method}`,
-  ]
-  await runSsh({ user: read.sshUser, host: read.ip, keyPath: read.sshKey, script })
-  report.push(
-    `the handoff is scheduled — waiting for maintenance mode at ${read.ip}:${MAINTENANCE_PORT}`
-  )
-  await waitForPort({
-    host: read.ip,
-    port: MAINTENANCE_PORT,
-    timeoutMs: WAIT_MS,
-    intervalMs: TICK_MS,
-  })
-  report.push(`Talos is up at ${read.ip}`)
-  report.push(
-    `\`${given.calledAs} talos apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`
-  )
-  return told(report)
+    `the handoff is scheduled — waiting for maintenance mode at ${read.ip}:${MAINTENANCE_PORT}`,
+    `Talos is up at ${read.ip}`,
+    `\`${given.calledAs} talos apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`,
+  ])
 }
 
-export async function talosRemoteInstall(argv: readonly string[], given: Given): Promise<Answer> {
+export async function talosRemoteInstall(
+  argv: readonly string[],
+  given: Given,
+  reaching: Reaching = runSsh,
+  waiting: Waiting = waitForPort
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return mistaking(read.refused)
-  try {
-    return await installing(read, given)
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
+  return await answering(async (done) => installing(read, given, reaching, waiting, done))
 }
