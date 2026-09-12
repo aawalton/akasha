@@ -1,7 +1,7 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { argumentsNamed } from "akasha/commands/arguments/argument-naming/argument-naming.module.code.ts"
+import { argumentsNamed } from "akasha/commands/arguments/naming/argument-naming.module.code.ts"
 import {
   DATA,
   INPUT,

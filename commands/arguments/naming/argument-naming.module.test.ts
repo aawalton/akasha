@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { argumentsNamed } from "akasha/commands/arguments/argument-naming/argument-naming.module.code.ts"
+import { argumentsNamed } from "akasha/commands/arguments/naming/argument-naming.module.code.ts"
 import {
   ANSWERS,
   argumentsFiled,
