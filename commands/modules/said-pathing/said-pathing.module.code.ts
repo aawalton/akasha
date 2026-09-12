@@ -1,4 +1,5 @@
 import { existsSync, statSync } from "node:fs"
+import { homedir } from "node:os"
 import { isAbsolute, join, relative, resolve, sep } from "node:path"
 
 export const GIT_DIR = ".git"
@@ -6,6 +7,13 @@ export const GIT_DIR = ".git"
 const PARTED_BY = "/"
 
 const UP = ".."
+
+const HOME = "~/"
+
+export function pathUnder(root: string, path: string): string {
+  if (path.startsWith(HOME)) return join(homedir(), path.slice(HOME.length))
+  return isAbsolute(path) ? path : resolve(root, path)
+}
 
 export function outsideRoot(root: string, path: string): boolean {
   const at = relative(root, join(root, path))

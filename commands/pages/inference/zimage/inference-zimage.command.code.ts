@@ -32,7 +32,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { inferenceZimage as page } from "akasha/commands/pages/inference/zimage/inference-zimage.command.ts"
 import {
   fetchImage,

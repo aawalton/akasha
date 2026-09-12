@@ -19,7 +19,6 @@ export const inference = {
     "command/inference-zimage",
     "namespace/inference-voice",
     "namespace/inference-wan",
-    "module/flag-arguing",
   ],
   name: "inference",
 } as const satisfies Namespace

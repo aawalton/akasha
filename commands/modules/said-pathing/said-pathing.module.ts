@@ -31,6 +31,27 @@ export const saidPathing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "One reader here answers no path for a path outside the repository and one answers that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller writing a render outside the repository reads its path by the second.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path opening with `~/` is read against the home directory by that reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An absolute path that reader is handed is taken as that path is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Any other path that reader is handed is read against the root handed with it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The repository root is no path inside the repository.",
     },
     {

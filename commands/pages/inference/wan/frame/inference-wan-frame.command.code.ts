@@ -17,7 +17,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { inferenceWanFrame as page } from "akasha/commands/pages/inference/wan/frame/inference-wan-frame.command.ts"
 import { spawned } from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
 

@@ -1,10 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
+import { homedir } from "node:os"
+import { join } from "node:path"
 import {
   barredIn,
   GIT_DIR,
   offRepo,
   outsideRoot,
   pathAt,
+  pathUnder,
   underGitIn,
   writesOutside,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
@@ -41,6 +44,19 @@ test("an absolute path outside the repository is no path inside the repository",
 
 test("the repository root is no path inside the repository", () => {
   expect(pathAt("/repo", ".")).toBe(null)
+})
+
+test("a path opening with `~/` is read against the home directory", () => {
+  expect(pathUnder("/nowhere", "~/held.png")).toBe(join(homedir(), "held.png"))
+})
+
+test("an absolute path outside the repository is taken as that path is", () => {
+  expect(pathUnder("/nowhere", "/held/one.png")).toBe("/held/one.png")
+  expect(pathAt("/nowhere", "/held/one.png")).toBe(null)
+})
+
+test("any other path is read against the root handed over", () => {
+  expect(pathUnder("/nowhere", "held/one.png")).toBe("/nowhere/held/one.png")
 })
 
 test("a path outside the repository is refused by name", () => {
