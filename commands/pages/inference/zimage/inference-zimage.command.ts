@@ -67,6 +67,19 @@ export const inferenceZimage = {
       invariantKind: "absence",
       statement: "Nothing here starts the container or provisions the weights.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The copy is named as soon as that copy lands, and the staging again once that copy is moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A render that threw part way names those files in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The copying and the moving are handed in.",
+    },
   ],
   name: "zimage",
   arguments: [
