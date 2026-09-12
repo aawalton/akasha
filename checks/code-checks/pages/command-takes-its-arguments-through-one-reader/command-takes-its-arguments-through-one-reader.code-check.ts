@@ -4,7 +4,7 @@ export const commandTakesItsArgumentsThroughOneReader = {
   id: "01a09518-e34b-711d-97f3-8664b5b48363",
   type: "code-check",
   slug: "command-takes-its-arguments-through-one-reader",
-  definition: "the check refusing a command's code that reads the words of its own call itself",
+  definition: "the check refusing a read of a command's call outside the one reader",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnWorktree: false,
