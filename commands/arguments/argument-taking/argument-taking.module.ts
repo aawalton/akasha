@@ -73,6 +73,15 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement: "An argument is taken at its flag only where the command takes it at a flag.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal names an argument the command takes as a word alone by its placeholder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word spelled as a flag is refused rather than filling an argument.",
     },
     {

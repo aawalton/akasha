@@ -26,7 +26,9 @@ const TO: Naming = { argument: argumentOf("to", "text", true) }
 
 const ACTIVE: Naming = { argument: argumentOf("active", "true-or-false") }
 
-const NODE: Naming = { argument: argumentOf("node", "text"), saidAsAWord: true }
+const NODE: Naming = { argument: argumentOf("node", "text"), saidAs: "flag-or-word" }
+
+const SLUG: Naming = { argument: argumentOf("slug", "text"), saidAs: "word" }
 
 const VIDEO = argumentOf("video", "path")
 
@@ -181,4 +183,41 @@ test("a pair both entries state is refused once", () => {
   expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], each)).toEqual([
     "`--video` and `--frames-dir` are never said together, and this call says both",
   ])
+})
+
+test("an argument said as a word alone is filled by a word", () => {
+  expect(taken(["one"], [SLUG])).toEqual({ slug: "one" })
+})
+
+test("an argument said as a word alone is not taken at a flag", () => {
+  expect(refusals(["--slug", "one"], [SLUG])[0]).toBe(
+    "`--slug` is no argument `akasha thing` takes — it takes `<slug>`"
+  )
+})
+
+test("an argument said as a word alone is named as a word where the command needs it", () => {
+  expect(refusals([], [{ ...SLUG, required: true }])[0]).toBe(
+    "`akasha thing` takes `<slug>`, and nothing said it"
+  )
+})
+
+test("an argument said as a word alone is named by the placeholder it states", () => {
+  const placed: Naming = {
+    argument: { ...argumentOf("node", "text"), placeholder: "id" } as Argument,
+    saidAs: "word",
+    required: true,
+  }
+  expect(refusals([], [placed])[0]).toBe("`akasha thing` takes `<id>`, and nothing said it")
+})
+
+test("a word argument and a flag argument may not be said together", () => {
+  const ids = argumentOf("agent-id", "text", true)
+  const state = argumentOf("state", "text", true)
+  const each: readonly Naming[] = [
+    { argument: ids, saidAs: "word", notWith: [state] },
+    { argument: state },
+  ]
+  expect(refusals(["a1", "--state", "working"], each)[0]).toBe(
+    "`<agent-id>` and `--state` are never said together, and this call says both"
+  )
 })

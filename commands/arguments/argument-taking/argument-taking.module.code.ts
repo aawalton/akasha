@@ -1,10 +1,12 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
+export type SaidAs = "flag" | "word" | "flag-or-word"
+
 export type Naming = {
   readonly argument: Argument
   readonly required?: boolean
-  readonly saidAsAWord?: boolean
+  readonly saidAs?: SaidAs
   readonly notWith?: readonly Argument[]
 }
 
@@ -20,12 +22,25 @@ function carries(argument: Argument): boolean {
   return argument.value !== "none"
 }
 
-function whyRefused(argument: Argument, said: string): string | null {
-  if (argument.value === "whole-number" && !WHOLE.test(said)) {
-    return `\`${argument.said} ${said}\` is no whole number of nought or more`
+function atAFlag(one: Naming): boolean {
+  return one.saidAs !== "word"
+}
+
+function asAWord(one: Naming): boolean {
+  return one.saidAs === "word" || one.saidAs === "flag-or-word"
+}
+
+function spelt(one: Naming): string {
+  return atAFlag(one) ? one.argument.said : `<${one.argument.placeholder ?? one.argument.slug}>`
+}
+
+function whyRefused(one: Naming, said: string): string | null {
+  const value = one.argument.value
+  if (value === "whole-number" && !WHOLE.test(said)) {
+    return `\`${spelt(one)} ${said}\` is no whole number of nought or more`
   }
-  if (argument.value === "true-or-false" && said !== "true" && said !== "false") {
-    return `\`${argument.said}\` takes \`true\` or \`false\`, and \`${said}\` is neither`
+  if (value === "true-or-false" && said !== "true" && said !== "false") {
+    return `\`${spelt(one)}\` takes \`true\` or \`false\`, and \`${said}\` is neither`
   }
   return null
 }
@@ -55,39 +70,42 @@ type Filling = {
   readonly refusals: string[]
 }
 
-function filling(state: Filling, argument: Argument, value: string, byWord: boolean): undefined {
-  const why = whyRefused(argument, value)
+function filling(state: Filling, one: Naming, value: string, byWord: boolean): undefined {
+  const why = whyRefused(one, value)
   if (why !== null) {
     state.refusals.push(why)
     return
   }
-  const said = argument.said
-  const key = exportedAs(argument.slug)
+  const argument = one.argument
+  const slug = argument.slug
+  const key = exportedAs(slug)
   if (argument.repeats === true) {
     const before = (state.taken[key] ?? []) as readonly (string | number)[]
     state.taken[key] = [...before, heldOf(argument, value) as string | number]
-  } else if (state.heard.has(said)) {
-    state.refusals.push(saidAgain(said, byWord, state.asWord.has(said)))
+  } else if (state.heard.has(slug)) {
+    state.refusals.push(saidAgain(spelt(one), byWord, state.asWord.has(slug)))
     return
   } else {
     state.taken[key] = heldOf(argument, value)
   }
-  state.heard.add(said)
-  if (byWord) state.asWord.add(said)
+  state.heard.add(slug)
+  if (byWord) state.asWord.add(slug)
 }
 
 function fighting(state: Filling, naming: readonly Naming[]): undefined {
+  const bySlug = new Map(naming.map((one) => [one.argument.slug, one]))
   const paired = new Set<string>()
   for (const one of naming) {
-    const said = one.argument.said
-    if (!state.heard.has(said)) continue
+    const slug = one.argument.slug
+    if (!state.heard.has(slug)) continue
     for (const other of one.notWith ?? []) {
-      if (!state.heard.has(other.said)) continue
-      const pair = [said, other.said].sort().join(" ")
+      if (!state.heard.has(other.slug)) continue
+      const pair = [slug, other.slug].sort().join(" ")
       if (paired.has(pair)) continue
       paired.add(pair)
+      const held = bySlug.get(other.slug)
       state.refusals.push(
-        `\`${said}\` and \`${other.said}\` are never said together, and this call says both`
+        `\`${spelt(one)}\` and \`${held === undefined ? other.said : spelt(held)}\` are never said together, and this call says both`
       )
     }
   }
@@ -99,9 +117,10 @@ export function takingIn(
   naming: readonly Naming[]
 ): Read {
   const state: Filling = { taken: {}, heard: new Set(), asWord: new Set(), refusals: [] }
-  const bySaid = new Map(naming.map((one) => [one.argument.said, one]))
-  const spellings = [...bySaid.keys()]
-  const forWords = naming.find((one) => one.saidAsAWord === true)
+  const atFlags = naming.filter((one) => atAFlag(one))
+  const bySaid = new Map(atFlags.map((one) => [one.argument.said, one]))
+  const spellings = naming.map((one) => spelt(one))
+  const forWords = naming.find((one) => asAWord(one))
   for (let at = 0; at < argv.length; at += 1) {
     const word = argv[at]
     if (word === undefined) continue
@@ -111,13 +130,13 @@ export function takingIn(
         state.refusals.push(unknown(word, calledAs, spellings))
         continue
       }
-      filling(state, forWords.argument, word, true)
+      filling(state, forWords, word, true)
       continue
     }
     const argument = held.argument
     if (!carries(argument)) {
       state.taken[exportedAs(argument.slug)] = true
-      state.heard.add(argument.said)
+      state.heard.add(argument.slug)
       continue
     }
     const next = argv[at + 1]
@@ -126,11 +145,11 @@ export function takingIn(
       continue
     }
     at += 1
-    filling(state, argument, next, false)
+    filling(state, held, next, false)
   }
   for (const one of naming) {
-    if (one.required !== true || state.heard.has(one.argument.said)) continue
-    state.refusals.push(`\`${calledAs}\` takes \`${one.argument.said}\`, and nothing said it`)
+    if (one.required !== true || state.heard.has(one.argument.slug)) continue
+    state.refusals.push(`\`${calledAs}\` takes \`${spelt(one)}\`, and nothing said it`)
   }
   fighting(state, naming)
   if (state.refusals.length > 0) return { refused: state.refusals }
