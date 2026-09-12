@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { heldNow } from "akasha/commands/pages/deploy/holding/deploy-holding.module.code.ts"
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
@@ -24,10 +25,7 @@ import {
   runOf,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
-import {
-  type Ran,
-  systemctl,
-} from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+import type { Ran } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import {
   asked,
   type Running,
@@ -43,14 +41,6 @@ const CLI = "module/cli"
 
 const DEPLOY = "deploy"
 
-const LISTING: readonly string[] = [
-  "list-units",
-  "--type=scope",
-  "--no-legend",
-  "--plain",
-  `${SCOPE_LEAD}*${SCOPE_END}`,
-]
-
 const A_SERVICE = "service"
 
 export type Ticked = {
@@ -60,23 +50,6 @@ export type Ticked = {
 
 export function scopeFor(slug: string): string {
   return `${SCOPE_LEAD}${slug}${SCOPE_END}`
-}
-
-export function slugIn(word: string): string | null {
-  if (!word.startsWith(SCOPE_LEAD) || !word.endsWith(SCOPE_END)) return null
-  const slug = word.slice(SCOPE_LEAD.length, -SCOPE_END.length)
-  return slug === "" ? null : slug
-}
-
-export function deployingIn(out: string): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const line of out.split("\n")) {
-    for (const word of line.trim().split(/\s+/)) {
-      const slug = slugIn(word)
-      if (slug !== null) found.add(slug)
-    }
-  }
-  return found
 }
 
 export function deployArgv(root: string, tree: string, slug: string): readonly string[] | Refused {
@@ -113,8 +86,7 @@ export function ticked(
   root: string,
   kind: Kind,
   now: number = Date.now(),
-  run: Running = systemdRun,
-  listing: Running = systemctl
+  run: Running = systemdRun
 ): Ticked {
   const tree = treeIn(root, WORKSTATION_SERVICE)
   if (tree === null) {
@@ -123,14 +95,7 @@ export function ticked(
       wrong: [saidOfNoTree(WORKSTATION_SERVICE, `git names no folder under ${root}`)],
     }
   }
-  const listed = asked(listing, LISTING)
-  if (listed.code !== 0) {
-    return {
-      said: [],
-      wrong: [`which deploys are running was not answered, so nothing was put up — ${listed.out}`],
-    }
-  }
-  const deploying = deployingIn(listed.out)
+  const deploying = heldNow(root)
   const commit = headOf(root)
   const every = candidatesIn(root, kind, commit, deploying)
   const chosen = chosenFrom(every, now)

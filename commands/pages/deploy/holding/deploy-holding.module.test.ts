@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
+import { rmSync } from "node:fs"
 import {
+  heldNow,
   heldWhile,
   holdAt,
   saidOfHeld,
@@ -46,6 +48,26 @@ test("a deploy that threw releases the hold and throws on", async () => {
   await expect(thrown).rejects.toThrow("no")
   const done = await heldWhile(ROOT, "deploy-holding-test-three", async () => 2)
   expect(done).toEqual({ value: 2 })
+})
+
+test("what is running is read off the holds a live process keeps", async () => {
+  const done = await heldWhile(ROOT, "deploy-holding-test-four", async () =>
+    heldNow(ROOT).has("deploy-holding-test-four")
+  )
+  expect(done).toEqual({ value: true })
+  expect(heldNow(ROOT).has("deploy-holding-test-four")).toBe(false)
+})
+
+test("a hold left by a process that is gone says no deploy is running", async () => {
+  await heldWhile(ROOT, "deploy-holding-test-five", async () => 1)
+  const at = holdAt(ROOT, "deploy-holding-test-five") as string
+  expect(taken(at, "probe")).toBe(true)
+  expect(heldNow(ROOT).has("deploy-holding-test-five")).toBe(false)
+  rmSync(at, { force: true })
+})
+
+test("a root that is no git checkout has no deploy running", () => {
+  expect(heldNow(NO_CHECKOUT).size).toBe(0)
 })
 
 test("a refusal names the thing, the process and how long the hold has been there", () => {

@@ -54,5 +54,13 @@ export const deployHolding = {
       invariantKind: "absence",
       statement: "Nothing here holds two things apart that are put up separately.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Which things have a deploy running is read off the holds a live process keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold left by a process that is gone says no deploy is running.",
+    },
   ],
 } as const satisfies Module

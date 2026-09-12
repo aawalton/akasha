@@ -22,12 +22,11 @@ export const deployLooping = {
     },
     {
       invariantKind: "departure",
-      statement: "That scope is what holds a service to one deploy at a time.",
+      statement: "The hold a deploy takes is what holds a service to one deploy at a time.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A service whose scope is already running is passed over rather than started again.",
+      statement: "A service already holding a deploy is passed over rather than started again.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +46,6 @@ export const deployLooping = {
         "A tick that puts nothing up says how many wanted a deploy and how many were running.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A systemd that would not answer which scopes run leaves the tick putting nothing up.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here judges what a deploy is built from.",
     },
@@ -69,8 +63,7 @@ export const deployLooping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which scopes are running is asked of systemd, and a scope is started by the program that makes one.",
+      statement: "Which services have a deploy running is read off the holds a deploy takes.",
     },
   ],
 } as const satisfies Module

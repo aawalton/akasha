@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, statSync, unlinkSync } from "node:fs"
+import { mkdirSync, readdirSync, rmSync, statSync, unlinkSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { DEPLOYS } from "akasha/files/git-place/git-place.module.code.ts"
 import {
@@ -21,6 +21,25 @@ export type Held<T> = { readonly value: T } | { readonly refused: string }
 export function holdAt(root: string, slug: string): string | null {
   const dir = gitDirIn(root)
   return dir === null ? null : join(dir, DEPLOYS, `${slug}${A_LOCK}`)
+}
+
+export function heldNow(root: string): ReadonlySet<string> {
+  const dir = gitDirIn(root)
+  const found = new Set<string>()
+  if (dir === null) return found
+  const at = join(dir, DEPLOYS)
+  let names: readonly string[]
+  try {
+    names = readdirSync(at)
+  } catch {
+    return found
+  }
+  for (const name of names) {
+    if (!name.endsWith(A_LOCK)) continue
+    const holder = holderOf(markIn(join(at, name)))
+    if (holder !== null && alive(holder)) found.add(name.slice(0, -A_LOCK.length))
+  }
+  return found
 }
 
 export function sinceAt(at: string, now: number): number {
