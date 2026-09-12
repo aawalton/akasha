@@ -5,6 +5,13 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
 import { rootOf, written } from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -262,7 +269,7 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
 
 async function logging(read: Logged, given: Given): Promise<Answer> {
   const happenedAtRead = happenedAtFrom(read.date, read.time, new Date())
-  if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, 1)
+  if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, INPUT)
   const happenedAtDate = happenedAtRead.at
   const happenedAt = happenedAtDate.toISOString()
   const dayStr = openedDayOf(resolveRoots(), happenedAtDate)
@@ -273,21 +280,21 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   if (read.image !== undefined) {
     bytes = await readFile(read.image).catch(() => null)
     if (bytes === null || bytes.length === 0) {
-      return refused(`\`${IMAGE}\` names ${read.image}, which is not there or holds nothing`, 1)
+      return refused(`\`${IMAGE}\` names ${read.image}, which is not there or holds nothing`, INPUT)
     }
     store = seaweedFSObjectStoreFromEnv()
     if (store === null) {
       return refused(
         "no object store is configured — SEAWEEDFS_S3_ENDPOINT, SEAWEEDFS_BUCKET, " +
           "SEAWEEDFS_ACCESS_KEY and SEAWEEDFS_SECRET_KEY say where one is",
-        3
+        OPERATIONAL
       )
     }
   }
 
   const held = stemsThere(root)
   if ("refused" in held) {
-    return refused(`the food entries already filed could not be read: ${held.refused}`, 3)
+    return refused(`the food entries already filed could not be read: ${held.refused}`, DATA)
   }
   const stem = freeStemIn(stemFor(dayStr, read.title), held.stems)
   const slug = slugOfStem(stem)
@@ -303,7 +310,8 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   }
 
   const landed = await landFoodEntry(root, slug, values)
-  if (!landed.ok) return refused(`the food entry did not land as a page: ${landed.why}`, 3)
+  if (!landed.ok)
+    return refused(`the food entry did not land as a page: ${landed.why}`, OPERATIONAL)
 
   const report: string[] = []
   const notLanded: string[] = []
@@ -359,7 +367,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
         notLanded,
       })
     )
-    return { report, refusals: [], code: 0 }
+    return told(report)
   }
   report.push(
     `id\t${foodId}`,
@@ -372,15 +380,15 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
     `estimatedCalories\t${read.estimatedCalories ?? "-"}`,
     `notLanded\t${notLanded.length === 0 ? NOTHING_MISSED : notLanded.join(",")}`
   )
-  return { report, refusals: [], code: 0 }
+  return told(report)
 }
 
 export async function alanFood(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await logging(read, given)
   } catch (thrown) {
-    return refused(whyOf(thrown), 3)
+    return refused(whyOf(thrown), OPERATIONAL)
   }
 }

@@ -1,5 +1,10 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import type { LiveProxySeat } from "akasha/agents/models/gateway/modules/proxy-seats/proxy-seats.module.code.ts"
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { liveSeats } from "akasha/commands/pages/model-gateway/status/live-gateway-seats/live-gateway-seats.module.code.ts"
@@ -65,22 +70,22 @@ function statusing(on: ReadonlySet<string>, report: string[]): Answer {
         })),
       })
     )
-    return { report, refusals: [], code: 0 }
+    return told(report)
   }
   for (const { seat, drift } of rows) {
     report.push(`${labelOf(seat)}\t${drift}\t${shortOf(seat.runningVersion)}\t${shortOf(onDisk)}`)
   }
-  return { report, refusals: [], code: 0 }
+  return told(report)
 }
 
 export function modelGatewayStatus(argv: readonly string[], given: Given): Answer {
   void given
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
     return statusing(read.on, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: 3 }
+    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
 }
