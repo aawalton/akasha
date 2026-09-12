@@ -73,6 +73,10 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
+      statement: "One source reads the index through one reader, and holds that reader no longer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "No page type is read until a calculation reaches into that page type.",
     },
     {

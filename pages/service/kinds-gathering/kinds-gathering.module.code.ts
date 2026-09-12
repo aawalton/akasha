@@ -44,9 +44,10 @@ const SLASH = "/"
 export type Named = Map<string, ReadonlyMap<string, Value>>
 
 export function sourceFor(root: string): Source {
+  const reading = readingIn(root)
   return sourceAmong(
-    valuesOfType(root, PAGE_TYPE).map((one) => one.value),
-    sourceIn(root, () => null)
+    valuesOfType(reading, PAGE_TYPE).map((one) => one.value),
+    sourceIn(reading, () => null)
   )
 }
 
