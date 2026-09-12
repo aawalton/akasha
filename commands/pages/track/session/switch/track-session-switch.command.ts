@@ -7,9 +7,7 @@ export const trackSessionSwitch = {
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",
   parts: ["module/waking"],
-  taking: [
-    { said: "--at <time>", takes: "the wall time the open stretch ends and the next begins" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -101,5 +99,6 @@ export const trackSessionSwitch = {
     { argument: "argument/difficulty" },
     { argument: "argument/relationship" },
     { argument: "argument/title" },
+    { argument: "argument/at" },
   ],
 } as const satisfies Command

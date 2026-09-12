@@ -6,7 +6,7 @@ export const trackSessionClose = {
   slug: "track-session-close",
   definition: "the command ending the open stretch of a day",
   code: "ts",
-  taking: [{ said: "--at <time>", takes: "the wall time the stretch ends" }],
+  taking: [],
 
   invariants: [
     {
@@ -47,5 +47,9 @@ export const trackSessionClose = {
     },
   ],
   name: "close",
-  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/day" },
+    { argument: "argument/at" },
+  ],
 } as const satisfies Command
