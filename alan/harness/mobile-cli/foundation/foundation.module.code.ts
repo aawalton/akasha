@@ -37,7 +37,7 @@ const CLEANUP_STACK = [
   "trap _cleanup EXIT",
 ].join("\n")
 
-export const SCRIPT_HEADER = `set -euo pipefail\n${MAC_PATH_PREFIX}\n${MAC_ENSURE_BUN}\n${CLEANUP_STACK}`
+export const SCRIPT_HEADER = `set -euo pipefail\n${MAC_PATH_PREFIX}\n${CLEANUP_STACK}`
 
 export function readKeychainPassword(): string {
   const parsed = z.string().min(1).safeParse(process.env[KEYCHAIN_PASSWORD_ENV])
@@ -191,6 +191,7 @@ export function buildNativeSync(opts: {
   }
   return [
     `cd ${opts.root}`,
+    MAC_ENSURE_BUN,
     "bun install",
     `export NATIVE_SHELL_TREE_ROOT=${opts.root}`,
     `export NATIVE_SHELL_PLUGINS=${quoted(opts.app.toolReached.join(" "))}`,

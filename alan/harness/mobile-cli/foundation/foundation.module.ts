@@ -27,7 +27,11 @@ export const foundation = {
     {
       invariantKind: "departure",
       statement:
-        "the script header installs bun through homebrew on a mac that does not already have bun",
+        "The step installing a native shell's packages installs bun first on a mac with none.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A script that never runs bun installs no bun.",
     },
     {
       invariantKind: "constraint",
