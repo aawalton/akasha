@@ -33,4 +33,5 @@ export const temperInventoryBankProfile = {
     },
   ],
   name: "profile",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

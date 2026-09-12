@@ -33,4 +33,5 @@ export const temperInventoryMasterWritProbe = {
     },
   ],
   name: "writ-probe",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

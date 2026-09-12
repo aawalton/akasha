@@ -29,4 +29,5 @@ export const temperInventoryBankTrace = {
     },
   ],
   name: "trace",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

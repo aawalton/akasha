@@ -30,4 +30,5 @@ export const temperInventoryMasterCraftTrace = {
     },
   ],
   name: "craft-trace",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

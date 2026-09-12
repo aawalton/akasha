@@ -34,4 +34,5 @@ export const temperInventoryMasterConsumableTrace = {
     },
   ],
   name: "consumable-trace",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
