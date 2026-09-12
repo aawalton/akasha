@@ -12,14 +12,13 @@ import {
   landingAgain,
   worthAnotherTry,
 } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
+import { livenessOf } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import {
   agentIdOf,
   asking,
   assignedTo,
   LOG_AT,
-  livenessOf,
   logPathOf,
-  namedAmong,
   pathIn,
   pathOf,
   pathsUnder,
@@ -116,17 +115,6 @@ test("a slug whose page is already flat keeps that page", () => {
       "seat-system/subagents/pages/akasha-xyz/akasha-xyz.subagent.ts"
     )
   })
-})
-
-test("a subagent the transcript names below another is named as one at the top is", () => {
-  const deep = { key: "c", label: "c", agentId: OWN, children: [] }
-  const under = { key: "b", label: "b", agentId: ANOTHER, children: [deep] }
-  expect(namedAmong([{ key: "a", label: "a", agentId: null, children: [under] }], OWN)).toBe(true)
-})
-
-test("a subagent the transcript names nowhere is named by nothing", () => {
-  expect(namedAmong([{ key: "a", label: "a", agentId: ANOTHER, children: [] }], OWN)).toBe(false)
-  expect(namedAmong([], OWN)).toBe(false)
 })
 
 test("a log sits in the seat's own folder named for this module", () => {

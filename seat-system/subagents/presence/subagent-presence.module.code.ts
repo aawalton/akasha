@@ -6,10 +6,6 @@ import {
   type Asking,
   landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import {
-  createSubagentReader,
-  type SubagentNode,
-} from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { nameFaultIn } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -25,7 +21,6 @@ import {
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
@@ -33,6 +28,10 @@ import {
   landingAgain,
   type Went,
 } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
+import {
+  livenessOf,
+  type Reading,
+} from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
@@ -57,8 +56,6 @@ const ASSIGNMENT = "assignmentSlug"
 const KIND = "dispatchedAs"
 
 const ID = "id"
-
-const AGENT_ID = "agentId"
 
 const SUFFIX = ".subagent.ts"
 
@@ -193,38 +190,6 @@ export function startedAfter(root: string, page: string, stoppedAt: number | nul
   if (stoppedAt === null) return false
   const held = asNumber(uncommittedIn(root, page)?.[STARTED])
   return held !== null && held > stoppedAt
-}
-
-export function namedAmong(nodes: readonly SubagentNode[], own: string): boolean {
-  return nodes.some((one) => one.agentId === own || namedAmong(one.children, own))
-}
-
-export type Liveness = "working" | "returned" | "unread"
-
-export type Reading = (root: string, page: string, own?: string) => Promise<Liveness>
-
-export type Acting = { readonly seatId: string; readonly own: string }
-
-export function actingAs(root: string, page: string): Acting | null {
-  const value = valueAt(page, root)
-  const agentId = value === null ? null : textAt(value, AGENT_ID)
-  if (agentId === null) return null
-  const mark = agentId.indexOf(SUBAGENT_MARK)
-  if (mark <= 0) return null
-  return { seatId: agentId.slice(0, mark), own: agentId.slice(mark + SUBAGENT_MARK.length) }
-}
-
-export async function livenessOf(root: string, page: string, own?: string): Promise<Liveness> {
-  try {
-    const acting = actingAs(root, page)
-    if (acting === null) return "unread"
-    const named = transcriptOf(acting.seatId)?.value
-    if (named === undefined || named === "") return "unread"
-    const running = await createSubagentReader().forSeat(acting.seatId, named)
-    return namedAmong(running, own ?? acting.own) ? "working" : "returned"
-  } catch {
-    return "unread"
-  }
 }
 
 export function leftWhereItIs(root: string, seatName: string, at: string): string | null {

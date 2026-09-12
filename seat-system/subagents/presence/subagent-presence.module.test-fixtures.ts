@@ -14,10 +14,10 @@ import {
   seatRefusalsAt,
 } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
+import type { Reading } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import {
   type Landing,
   pathOf,
-  type Reading,
   slugOf,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"

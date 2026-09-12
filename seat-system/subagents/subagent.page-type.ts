@@ -11,6 +11,7 @@ export const subagent = {
   parts: [
     "module/subagent-body",
     "module/subagent-landing-again",
+    "module/subagent-liveness",
     "module/subagent-presence",
     "number-property/subagent-started",
     "relation-property/subagent-kind",
