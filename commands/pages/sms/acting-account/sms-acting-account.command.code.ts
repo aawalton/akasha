@@ -1,40 +1,15 @@
 import { extractActingAccountUserId } from "akasha/alan/harness/sms-core/acting-account/acting-account.module.code.ts"
-import {
-  heldAt,
-  type Reading,
-  wordsIn,
-} from "akasha/alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
+import { heldAt } from "akasha/alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { surfaceFile } from "akasha/commands/arguments/pages/surface-file.argument.ts"
 import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const SURFACE = "--surface-file"
-
-const VALUED = [SURFACE]
-
-const SWITCHES: readonly string[] = []
-
-export type Read = {
-  readonly surface: string
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const refusals = said.loose.map(
-    (one) => `\`${one}\` follows nothing this takes — it takes flags alone`
-  )
-  const surface = said.named[SURFACE]
-  if (surface === undefined) {
-    refusals.push(`this names the surface to read at \`${SURFACE}\`, and nothing did`)
-  }
-  if (refusals.length > 0 || surface === undefined) return { refused: refusals }
-  return { surface }
-}
+import { smsActingAccount as page } from "akasha/commands/pages/sms/acting-account/sms-acting-account.command.ts"
 
 export function smsActingAccount(argv: readonly string[], given: Given): Answer {
-  const said = readIn(argv)
-  if ("refused" in said) return refusedBy(said.refused)
-  const held = heldAt(given, SURFACE, said.surface)
+  const read = takenFor(argv, given.calledAs, page, [surfaceFile])
+  if ("refused" in read) return refusedBy(read.refused)
+  const held = heldAt(given, surfaceFile.said, read.taken.surfaceFile)
   if ("refused" in held) return refusedBy(held.refused)
   const accountUserId = extractActingAccountUserId(held.text)
   if (accountUserId === null) {
