@@ -4,7 +4,7 @@ export const googleCalendarEvent = {
   id: "01a08cf6-9dc4-7aa5-9293-19e026970755",
   type: "namespace",
   slug: "google-calendar-event",
-  definition: "the events a calendar holds",
+  definition: "an event a calendar holds",
   parts: [
     "command/google-calendar-event-create",
     "command/google-calendar-event-delete",
