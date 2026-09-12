@@ -9,7 +9,6 @@ export const athenaCommandsCleanup = {
   intents: [],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
-    "Only the coordinating seat runs `akasha audit`, so a subagent cannot judge against a check what that subagent read.",
     "The coordinating seat hands each intent to a subagent and works no intent itself.",
     "Up to twenty subagents work at once.",
     "An intent whose next move is unclear has that question written into its working memory, and the work goes on.",
@@ -33,5 +32,7 @@ export const athenaCommandsCleanup = {
     "`asJson` is exactly one `JSON.stringify` call and nothing else, so a second element, or a `null, SPACES` spelling split into lines, is `told` rather than `asJson`.\n",
     "A check's silence measures adoption better than a grep for the reader's name, because a command reaching that reader through a typed wrapper reads as neither converted nor refused.\n",
     "A defaulted test seam in second place crashes every call while every test passes, and a thin entry handing the call and the world to a seam-taking helper makes that impossible.\n",
+    "A subagent may run a bare `akasha audit` and not one narrowed by check or path, so a single check is re-derived by calling its own audit entry rather than by narrowing the audit.\n",
+    "A taboo term refused beside an unread page is not recorded as read, so the same call refuses on that term again once the reading is done.\n",
   ],
 } as const satisfies Initiative
