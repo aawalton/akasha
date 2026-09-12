@@ -26,7 +26,7 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import { createEmptyCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
+import { createEmptyCompanion } from "akasha/temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import {
   buildHash as toBuildHash,
   buildId as toBuildId,

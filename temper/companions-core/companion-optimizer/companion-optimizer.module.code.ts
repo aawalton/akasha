@@ -1,8 +1,3 @@
-import {
-  countEmptyTraitSlots,
-  setNextEmptyTrait,
-  setRingQualityToLegendary,
-} from "akasha/temper/companions-core/companion-equipment-slots/companion-equipment-slots.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   findBestPermutation,
@@ -41,6 +36,11 @@ import {
   setBaseRoles,
   setCompanion,
 } from "akasha/temper/companions-core/modules/companion-build-edits/companion-build-edits.module.code.ts"
+import {
+  countEmptyTraitSlots,
+  setNextEmptyTrait,
+  setRingQualityToLegendary,
+} from "akasha/temper/companions-core/modules/companion-equipment-slots/companion-equipment-slots.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }

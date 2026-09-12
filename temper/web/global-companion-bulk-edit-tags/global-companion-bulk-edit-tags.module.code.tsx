@@ -1,8 +1,6 @@
 "use client"
 
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
-import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { LEGENDARY_QUALITY_OPTIONS } from "akasha/temper/companions-core/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import {
   type CompanionTraitId,
@@ -16,6 +14,8 @@ import {
   bulkUpdateAllCompanionQualities,
   bulkUpdateAllCompanionTraits,
 } from "akasha/temper/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { LEGENDARY_QUALITY_OPTIONS } from "akasha/temper/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

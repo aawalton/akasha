@@ -1,4 +1,3 @@
-import { extractFormulaComponents } from "akasha/temper/companions-core/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import {
   getSkillCastTime,
   getSkillCooldown,
@@ -8,6 +7,7 @@ import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { extractFormulaComponents } from "akasha/temper/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import type {
   RotationCategory,
   RotationState,

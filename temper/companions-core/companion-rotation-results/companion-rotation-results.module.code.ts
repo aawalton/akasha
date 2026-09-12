@@ -1,8 +1,8 @@
-import { extractFormulaComponents } from "akasha/temper/companions-core/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import { calculateLightAttackDamage } from "akasha/temper/companions-core/companion-light-attack/companion-light-attack.module.code.ts"
 import { classifyHealingTarget } from "akasha/temper/companions-core/companion-rotation-state/companion-rotation-state.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { calculateEffectiveMultiplier } from "akasha/temper/companions-core/condition-evaluator/condition-evaluator.module.code.ts"
+import { extractFormulaComponents } from "akasha/temper/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import type {
   DamageBreakdown,
   RotationConfig,

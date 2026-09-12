@@ -1,5 +1,5 @@
-import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { companionEquipmentQualities } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionEquipmentQualities } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 
 export const AVAILABLE_QUALITY_OPTIONS = companionEquipmentQualities.list.filter((q) => q.available)
 
