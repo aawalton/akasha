@@ -4,7 +4,11 @@ import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.modu
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
-import { OK, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answeredWith,
+  OK,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { applyWith } from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { CHANGE_APPLY_SLUG } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
@@ -177,7 +181,7 @@ export async function applied(
 ): Promise<Answer> {
   if (said.code !== OK) return said
   const then = await applyWith(applyingIn(argv), given)
-  return { report: [...said.report, ...then.report], refusals: then.refusals, code: then.code }
+  return answeredWith([...said.report, ...then.report], then.refusals, then.code)
 }
 
 const NO_AGENT_PAGE =
