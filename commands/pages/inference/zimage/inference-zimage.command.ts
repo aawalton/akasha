@@ -9,7 +9,6 @@ export const inferenceZimage = {
   test: "ts",
   changeKind: "change-mechanical",
   taking: [
-    { said: "generate", takes: "the act, which is one image written to a named path" },
     { said: "--prompt <text>", takes: "what the image is of" },
     { said: "--prompt-file <path>", takes: "that prompt read from a path, or `-` for stdin" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
@@ -30,7 +29,7 @@ export const inferenceZimage = {
     { said: "--timeout <s>", takes: "how many seconds the wait on ComfyUI runs for" },
   ],
   helpNotes: [
-    "the act is the first word, and this carries one act.",
+    "this is said with flags alone.",
     "the flags are the ones mflux-generate takes, so a rig aimed at this renders through it with no change to how the rig calls.",
     "a checkpoint is staged into the container's LoRA volume under a name the path it came from is hashed into, and mixed in for this render alone.",
     "one checkpoint is rendered against, and a comma list of them is refused.",
@@ -41,7 +40,7 @@ export const inferenceZimage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The act is the first word.",
+      statement: "Every word this takes is a flag or a flag's value.",
     },
     {
       invariantKind: "departure",

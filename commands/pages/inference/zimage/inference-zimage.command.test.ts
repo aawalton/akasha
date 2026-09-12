@@ -10,38 +10,30 @@ function given(root: string): Given {
   return { root, calledAs: "akasha inference zimage", from: root, writer: null, agentId: null }
 }
 
-test("nothing said is refused, naming the act it carries", async () => {
+test("nothing said is refused, naming the flags it needs", async () => {
   const said = await inferenceZimage([], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("generate")
+  expect(said.refusals[0]).toContain("--prompt")
 })
 
-test("an act it does not carry is refused", async () => {
+test("a word that is no flag is refused", async () => {
   expect((await inferenceZimage(["render"], given("/nowhere"))).code).toBe(1)
 })
 
 test("the prompt and the path it writes to are both named", () => {
-  const said = readIn(["generate", "--prompt", "a cat"])
+  const said = readIn(["--prompt", "a cat"])
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--output")
 })
 
 test("a flag it does not take is refused", () => {
-  const said = readIn([
-    "generate",
-    "--prompt",
-    "a cat",
-    "--output",
-    "/elsewhere/a.png",
-    "--wat",
-    "1",
-  ])
+  const said = readIn(["--prompt", "a cat", "--output", "/elsewhere/a.png", "--wat", "1"])
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--wat")
 })
 
 test("the mflux defaults hold where nothing said them", () => {
-  const said = readIn(["generate", "--prompt", "a cat", "--output", "/elsewhere/a.png"])
+  const said = readIn(["--prompt", "a cat", "--output", "/elsewhere/a.png"])
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) {
     expect(said.said.get("--width")).toBe("1024")
@@ -52,34 +44,18 @@ test("the mflux defaults hold where nothing said them", () => {
 })
 
 test("a guidance that is no number is refused", () => {
-  const said = readIn([
-    "generate",
-    "--prompt",
-    "a cat",
-    "--output",
-    "/elsewhere/a.png",
-    "--guidance",
-    "loud",
-  ])
+  const said = readIn(["--prompt", "a cat", "--output", "/elsewhere/a.png", "--guidance", "loud"])
   expect("refused" in said).toBe(true)
 })
 
 test("a width that is no whole number is refused", () => {
-  const said = readIn([
-    "generate",
-    "--prompt",
-    "a",
-    "--output",
-    "/elsewhere/a.png",
-    "--width",
-    "10.5",
-  ])
+  const said = readIn(["--prompt", "a", "--output", "/elsewhere/a.png", "--width", "10.5"])
   expect("refused" in said).toBe(true)
 })
 
 test("a model nothing registers is the caller's mistake", async () => {
   const said = await inferenceZimage(
-    ["generate", "--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
+    ["--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
     given("/nowhere")
   )
   expect(said.code).toBe(1)
@@ -89,7 +65,6 @@ test("a model nothing registers is the caller's mistake", async () => {
 test("a comma list of checkpoints is refused", async () => {
   const said = await inferenceZimage(
     [
-      "generate",
       "--prompt",
       "a cat",
       "--output",

@@ -28,10 +28,6 @@ import {
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-const GENERATE = "generate"
-
-const ACTS = [GENERATE] as const
-
 const DEFAULT_PORT = "8678"
 
 const STAGED_DIGEST = 8
@@ -67,38 +63,26 @@ const WHOLE = new Set(["--width", "--height", "--steps", "--seed", "--timeout"])
 const REAL = new Set(["--guidance", "--lora-scales"])
 
 export type Taken = {
-  readonly act: string
   readonly said: ReadonlyMap<string, string>
   readonly on: ReadonlySet<string>
 }
 
 export type Read = Taken | { readonly refused: readonly string[] }
 
-function acts(): string {
-  return namesDrawn(ACTS)
-}
-
 function flags(): string {
   return namesDrawn(TAKEN.keys())
 }
 
 export function readIn(argv: readonly string[]): Read {
-  const [named, ...rest] = argv
-  if (named === undefined) {
-    return { refused: [`this names no act — it carries ${acts()}`] }
-  }
-  if (named !== GENERATE) {
-    return { refused: [`\`${named}\` is no act this carries — it carries ${acts()}`] }
-  }
   const refusals: string[] = []
   const said = new Map<string, string>()
   const on = new Set<string>()
   const holding = (flag: string, value: string): undefined => heldOnce(said, refusals, flag, value)
-  for (let step = 0; step < rest.length; step += 1) {
-    const one = rest[step]
+  for (let step = 0; step < argv.length; step += 1) {
+    const one = argv[step]
     if (one === undefined) continue
     if (!one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag, and \`${GENERATE}\` is said with flags alone`)
+      refusals.push(`\`${one}\` is no flag, and this is said with flags alone`)
       continue
     }
     const shape = TAKEN.get(one)
@@ -111,7 +95,7 @@ export function readIn(argv: readonly string[]): Read {
       refusals.push(`\`${one}\` is no flag this takes — it takes ${flags()}`)
       continue
     }
-    const value = rest[step + 1]
+    const value = argv[step + 1]
     step += 1
     if (value === undefined) {
       refusals.push(`\`${one}\` carries a value, and nothing followed it`)
@@ -130,7 +114,7 @@ export function readIn(argv: readonly string[]): Read {
   }
   for (const [flag, value] of FILLED) if (!said.has(flag)) said.set(flag, value)
   for (const flag of NEEDED) {
-    if (!said.has(flag)) refusals.push(`\`${GENERATE}\` names \`${flag}\`, and nothing said it`)
+    if (!said.has(flag)) refusals.push(`this names \`${flag}\`, and nothing said it`)
   }
   for (const [flag, value] of said) {
     if (WHOLE.has(flag) && wholeIn(value) === null) {
@@ -143,7 +127,7 @@ export function readIn(argv: readonly string[]): Read {
     }
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act: GENERATE, said, on }
+  return { said, on }
 }
 
 export function at(given: Given, path: string): string {
