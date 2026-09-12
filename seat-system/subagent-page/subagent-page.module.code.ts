@@ -1,5 +1,10 @@
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import type { StandingSubagent } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
+import {
+  akashaSubagentPathsOf,
+  removeAkashaSubagentPagesOf,
+  sweepingAkashaSubagentPagesOf,
+} from "akasha/agents/subagents/modules/page-akasha/subagent-page-akasha.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
@@ -9,11 +14,6 @@ import {
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import {
-  akashaSubagentPathsOf,
-  removeAkashaSubagentPagesOf,
-  sweepingAkashaSubagentPagesOf,
-} from "akasha/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts"
 
 const KIND = "dispatchedAs"
 
