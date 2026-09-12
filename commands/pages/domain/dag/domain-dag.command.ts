@@ -9,7 +9,6 @@ export const domainDag = {
   test: "ts",
   parts: [],
   taking: [
-    { said: "--paths", takes: "the file carrying each domain, drawn beside its slug" },
     { said: "--descent", takes: "every page type extending `domain` as well as `domain` itself" },
   ],
   invariants: [
@@ -61,5 +60,9 @@ export const domainDag = {
     },
   ],
   name: "dag",
-  arguments: [{ argument: "argument/root-domain" }, { argument: "argument/up" }],
+  arguments: [
+    { argument: "argument/root-domain" },
+    { argument: "argument/up" },
+    { argument: "argument/paths" },
+  ],
 } as const satisfies Command
