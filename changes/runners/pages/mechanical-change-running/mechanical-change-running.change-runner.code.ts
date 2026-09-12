@@ -15,7 +15,7 @@ import {
 import type { Changes } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { type Applied, applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { runningOf } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"

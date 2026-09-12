@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const drafting = {
+export const changeKindRunning = {
   id: "01a06315-8aa2-7993-a0d0-9ec51066ecaf",
   type: "module",
-  slug: "drafting",
+  slug: "change-kind-running",
   definition: "what a run of a change does about the checks and the readings owed",
   code: "ts",
   test: "ts",

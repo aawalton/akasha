@@ -9,7 +9,7 @@ import {
   type Carried,
   messageFor,
 } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   A,

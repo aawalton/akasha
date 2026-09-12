@@ -1,5 +1,5 @@
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 
 export const NOTHING_RUNS: Running = {
   checks: false,

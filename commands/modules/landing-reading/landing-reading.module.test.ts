@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, readingIn, sameBody } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { runningOf } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   carryLanded,
