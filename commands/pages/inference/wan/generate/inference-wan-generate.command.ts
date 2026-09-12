@@ -8,8 +8,6 @@ export const inferenceWanGenerate = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--start-image <png>", takes: "the first frame the clip is conditioned on" },
-    { said: "--end-image <png>", takes: "the last frame the clip is conditioned on" },
     { said: "--prompt <text>", takes: "the motion prompt" },
     { said: "--prompt-file <path>", takes: "the motion prompt read from a path, or `-` for stdin" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
@@ -17,7 +15,6 @@ export const inferenceWanGenerate = {
       said: "--negative-prompt-file <path>",
       takes: "that steering read from a path, or `-` for stdin",
     },
-    { said: "--frames <n>", takes: "the clip's length in frames" },
   ],
   invariants: [
     {
@@ -57,5 +54,8 @@ export const inferenceWanGenerate = {
     { argument: "argument/steps" },
     { argument: "argument/size" },
     { argument: "argument/lightning" },
+    { argument: "argument/start-image" },
+    { argument: "argument/end-image" },
+    { argument: "argument/clip-frames" },
   ],
 } as const satisfies Command
