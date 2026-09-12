@@ -34,11 +34,6 @@ export const athenaCommandModules = {
         "`change-preparing.module.code.ts` is the only caller of `manifest-locking`, `group-writing`, `spacing-stepping`, `source-globbing`, `type-generating` and `export-naming`, and none is reached by name from the command line. Each writes for another domain: a lockfile and install, a page's property group file, a stylesheet's spacing as Swift, a Tailwind entry's trees, a page type's types, a page slug's export name. The only thing they take from `commands/` is `body-loading`.\n",
     },
     {
-      statement: "Git object reading and committing sit in the git domain.",
-      workingMemory:
-        "`committing.module.code.ts:3` imports `git/running` and does nothing but build trees, move branches and write the index. `commit-reading.module.ts:7` reads the body a commit holds at a path. `holding.module.ts:7` is the hold over a worktree, and `git-landing-lock.module.ts:34` already says it is not the akasha landing lock. `differing` stays beside `read`. A check judges that a module running git sits in the git domain.\n",
-    },
-    {
       statement: "One page declares what an exit code means.",
       workingMemory:
         "`cli.module.code.ts:12-20` declares `OK`, `INPUT`, `DATA`, `OPERATIONAL` and `UNCLASSIFIED`, and `command-answering.module.code.ts:6-10` declares the first four again. `OPERATIONAL = 3` is written out in thirty-nine files today — every `talos` command, thirteen under `temper/inventory`, `deploy`, `music/capture`, `workload-applying`, `service-putting-up` — rather than imported. Nothing holds the five to one meaning.\n",
