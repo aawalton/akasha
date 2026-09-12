@@ -1,4 +1,3 @@
-import type { TunnelRoutes } from "akasha/code/workspace-packages/properties/tunnel-routes.code-file-property.types.ts"
 import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { Directives } from "akasha/domains/properties/directives.record-property.types.ts"
 import type { Expands } from "akasha/domains/properties/expands.boolean-property.types.ts"
@@ -7,6 +6,7 @@ import type { LinkedAt } from "akasha/domains/properties/linked-at.text-property
 import type { OutputDirectory } from "akasha/domains/properties/output-directory.build-folder-property.types.ts"
 import type { Parts } from "akasha/domains/properties/parts.relation-property.types.ts"
 import type { PluralSlug } from "akasha/domains/properties/plural-slug.text-property.types.ts"
+import type { TunnelRoutes } from "akasha/domains/properties/tunnel-routes.code-file-property.types.ts"
 import type { TypescriptConfig } from "akasha/domains/properties/typescript-config.file-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 
