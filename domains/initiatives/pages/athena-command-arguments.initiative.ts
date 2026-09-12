@@ -38,7 +38,7 @@ export const athenaCommandArguments = {
     {
       statement: "A key piped into a command is one of that command's arguments.",
       workingMemory:
-        "`taking.record-property.ts:34` says a command taking its arguments piped in states nothing here, so the keys `akasha change draft` reads are written on no page. A caller learns them from a refusal: drafting `rename-page` with `slug` was answered by `to` names what this change is handed. Each act carries its own — `at`, `old`, `new`, `key`, `record`, `where`, `is`, `of`, `to`. Only the way the words arrive differs.\n",
+        "Each of the 47 acts reads its keys from `const`s in its own `changes/agent/**/*.change-agent.code.ts`, and no module names them. A key is required where its read is guarded by a `missing` refusal. `untaken` at `change-answer.module.code.ts:61` is reached by 2 acts, so a misspelled key is silent in the other 45. `to` is overloaded eight ways, and only `at` is read against the repository root. Do these keys wait on the argument-page design?\n",
     },
     {
       statement: "No command page states `taking`.",
@@ -48,7 +48,7 @@ export const athenaCommandArguments = {
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
-        "`slug.text-property.ts:11` makes a slug unique within its page type, which does not bind an argument's spelling. Both halves are broken: `--last` is a count at `measure-changes.command.ts:14,16` and true-or-false at `track-session-drop.command.ts:16`; `at` is a wall-clock time in six `track session` commands and a file destination at `browser-test-storage-state.command.ts:19`. The file to act on is `--file-path`, `--file` and `--path`; the checkout is `--code-root` and `--repo-root`.\n",
+        "`--code-root`, `--file-path` and `--at` each name one argument now, and `--path` only the path under an origin. Left: `--last` is a count at `measure-changes.command.ts:13` and true-or-false at `track-session-drop.command.ts:15`; `--to` names a recipient, a list position and a window end; `--target` names two things. Seven pages declare an alias to drop, and `--out` and `--output` are one meaning twice. Which meaning keeps `--last`?\n",
     },
   ],
 } as const satisfies Initiative
