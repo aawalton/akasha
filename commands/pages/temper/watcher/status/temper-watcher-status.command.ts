@@ -8,12 +8,12 @@ export const temperWatcherStatus = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the state as JSON rather than as one line" }],
-  helpNotes: [
-    "one watcher runs for the whole workstation, so there is one state to report.",
-    "a watcher that is running carries its process id, how long it has been up, and where its log is.",
-    "whether it is running is read from systemd rather than from a file it wrote.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A watcher that is running is reported with its process id, its uptime and its log path.",
+    },
     {
       invariantKind: "departure",
       statement: "One watcher runs for the whole workstation.",
