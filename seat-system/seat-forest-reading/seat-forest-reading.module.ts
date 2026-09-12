@@ -7,6 +7,7 @@ export const seatForestReading = {
   definition:
     "every seat akasha holds, with the state, color and page each has, and every subagent page",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -1,28 +1,18 @@
 import { expect, test } from "bun:test"
 import type { SubagentPage } from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  agentForest,
-  saidOf,
-} from "akasha/commands/pages/agent/forest/agent-forest.command.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { ForestRow } from "akasha/seat-system/seat-forest/seat-forest.module.code.ts"
-import type {
-  ForestSaid,
-  Reading,
+import {
+  type ForestSaid,
+  forestOver,
+  NOW,
+  type Reading,
 } from "akasha/seat-system/seat-forest-reading/seat-forest-reading.module.code.ts"
-import { forestOver } from "akasha/seat-system/seat-forest-reading/seat-forest-reading.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnReading,
   type SeatTurnState,
 } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
-
-const ROOT = "/nowhere"
-
-function givenIn(root: string): Given {
-  return { root, calledAs: "akasha agent forest", from: root, writer: null, agentId: null }
-}
 
 const ASTRA: ForestRow = {
   id: "01a00000-0000-7000-8000-00000000000a",
@@ -133,12 +123,12 @@ test("the one root is what every path, page and color was read against", () => {
   expect(held.rootsAsked.length).toBe(5)
 })
 
-test("what is said is one object carrying the repo, the rows and the subagent pages", () => {
+test("what is read is one object carrying the repo, the rows and the subagent pages", () => {
   const said: ForestSaid = forestOver("/repo", reading([ASTRA], {}))
 
-  expect(Object.keys(JSON.parse(saidOf(said)))).toEqual(["repo", "rows", "subagents"])
-  expect(JSON.parse(saidOf(said)).subagents).toEqual([SUBAGENT])
-  expect(JSON.parse(saidOf(said)).repo).toBe("/repo")
+  expect(Object.keys(said)).toEqual(["repo", "rows", "subagents"])
+  expect(said.subagents).toEqual([SUBAGENT])
+  expect(said.repo).toBe("/repo")
 })
 
 test("a subagent page carries the kind that subagent was dispatched as", () => {
@@ -147,21 +137,13 @@ test("a subagent page carries the kind that subagent was dispatched as", () => {
   expect(said.subagents[0]?.dispatchedAs).toBe("general-purpose")
 })
 
-test("a fleet holding no seat answers an empty list rather than nothing at all", () => {
-  const said = JSON.parse(saidOf(forestOver("/repo", reading([], {}))))
+test("a fleet holding no seat reads an empty list rather than nothing at all", () => {
+  const said = forestOver("/repo", reading([], {}))
 
   expect(said.rows).toEqual([])
 })
 
-test("a word this does not take refuses as a fault in the call", async () => {
-  const said = await agentForest(["--json"], givenIn(ROOT))
-
-  expect(said.code).toBe(1)
-  expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("`--json`")
-})
-
-test("a forest that cannot be read is a throw carried out as a refusal", () => {
+test("a forest that cannot be read throws rather than reading as no seat at all", () => {
   const held: Reading = {
     ...reading([], {}),
     forest: () => {
@@ -172,18 +154,11 @@ test("a forest that cannot be read is a throw carried out as a refusal", () => {
   expect(() => forestOver("/repo", held)).toThrow("no seat page akasha holds could be read")
 })
 
-test("a call naming nothing answers the forest the fleet holds now", async () => {
-  const said = await agentForest([], givenIn(akashaRoot()))
+test("the fleet the checkout holds now reads every row with a state and a page", () => {
+  const said = forestOver(akashaRoot(), NOW)
 
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(said.report.length).toBe(1)
-  const held = JSON.parse(said.report[0] ?? "")
-
-  expect(held.repo).toBe(akashaRoot())
-  expect(Array.isArray(held.rows)).toBe(true)
-  expect(Array.isArray(held.subagents)).toBe(true)
-  for (const one of held.rows) {
+  expect(said.repo).toBe(akashaRoot())
+  for (const one of said.rows) {
     expect(typeof one.id).toBe("string")
     expect(typeof one.live).toBe("boolean")
     expect(SEAT_TURN_STATES).toContain(one.state)
