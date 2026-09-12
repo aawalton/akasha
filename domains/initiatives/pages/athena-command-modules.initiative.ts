@@ -13,12 +13,6 @@ export const athenaCommandModules = {
       workingMemory:
         "`refusedBy` at `answering/command-answering.module.code.ts:26` builds every refusal now: `calling.module.code.ts`'s private `refusing` is gone, and `refused:116`, `mistaking` and `troubling` in `refusing.module.code.ts` all call it. Three named ways in are left — `refused` (about 70 importers), `mistaking` (29), and `faulted`. Dropping them rewrites an import line in about 100 files, and no change act does that. Do the named ways stay?\n",
     },
-
-    {
-      statement: "A module whose readers are outside the command system sits outside it.",
-      workingMemory:
-        "`repo-seeding` sits in `testing-system/`, `gated-landing` and `gated-write` in `changes/modules/`, and `during-call` in `utils/` at `a6050f8e918`, its readers spread over two domains and claimed by none. `argument-narrowing`, `parse-args`, `payload`, `cli` and `value-minting` each import the command system, so they stay. Two are in flight: `scratching` to `utils/fs/`, a move over 253 files, and `body-loading`, whose readers sit in `pages` and `code`.",
-    },
     {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
