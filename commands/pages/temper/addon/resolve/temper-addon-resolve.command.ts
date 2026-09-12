@@ -7,12 +7,7 @@ export const temperAddonResolve = {
   definition: "the command answering which addon a name reaches",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "<name>",
-      takes: "the canonical name, flat directory leaf or nested parent domain to resolve",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -37,5 +32,8 @@ export const temperAddonResolve = {
     },
   ],
   name: "resolve",
-  arguments: [{ argument: "argument/code-root" }],
+  arguments: [
+    { argument: "argument/code-root" },
+    { argument: "argument/addon-name", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command
