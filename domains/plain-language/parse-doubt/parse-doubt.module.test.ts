@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import type {
   DepSentence,
   DepToken,
-} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+} from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
+import { makeSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import {
   doubtsIn,
   isSound,

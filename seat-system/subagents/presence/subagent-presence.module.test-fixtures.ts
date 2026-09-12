@@ -23,7 +23,7 @@ import {
   type Landing,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
-import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { bodyAt, writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"

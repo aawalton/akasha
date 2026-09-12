@@ -1,4 +1,3 @@
-import { DEFAULT_RULES } from "akasha/temper/items-rules-core/default-rules-data/default-rules-data.module.code.ts"
 import type {
   CategoryRule,
   InventoryRuleSettings,
@@ -6,6 +5,7 @@ import type {
   ItemRule,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { DEFAULT_RULES } from "akasha/temper/items-rules-core/modules/default-rules-data/default-rules-data.module.code.ts"
 
 export function createDefaultRuleSettings(craftBagAccess = false): InventoryRuleSettings {
   return patchFurnitureVaultDestination(

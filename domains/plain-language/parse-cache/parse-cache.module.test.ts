@@ -1,7 +1,7 @@
 import { afterAll, afterEach, expect, test } from "bun:test"
 import { appendFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
-import type { ParsedSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import type { ParsedSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import {
   keyFor,
   makeParseCacheAt,

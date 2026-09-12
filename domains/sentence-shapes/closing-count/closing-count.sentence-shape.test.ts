@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { sentenceOf } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
+import { sentenceOf } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.test-fixtures.ts"
 import { closingCount } from "akasha/domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts"
 
 test("a count closing a sentence over the list it gave is found", () => {

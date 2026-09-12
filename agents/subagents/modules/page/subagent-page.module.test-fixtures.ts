@@ -18,7 +18,7 @@ import {
   landingNaming,
   RETURNED,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
-import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/utils/run/running/running.module.code.ts"
 

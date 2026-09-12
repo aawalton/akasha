@@ -1,8 +1,8 @@
-import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import type { DepSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import {
   hasChild,
   rootOf,
-} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+} from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 
 const SUBJECT = ["nsubj", "csubj"]
 

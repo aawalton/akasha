@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { sentenceOf } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
+import { sentenceOf } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.test-fixtures.ts"
 import { loneDeterminer } from "akasha/domains/sentence-shapes/lone-determiner/lone-determiner.sentence-shape.code.ts"
 
 test("a demonstrative filling the subject slot is found", () => {

@@ -77,9 +77,12 @@ mock.module(
 )
 
 const nullComponent = () => null
-mock.module("akasha/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx", () => ({
-  DeepLinkOpenSync: nullComponent,
-}))
+mock.module(
+  "akasha/alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx",
+  () => ({
+    DeepLinkOpenSync: nullComponent,
+  })
+)
 mock.module(
   "akasha/alan/web/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx",
   () => ({

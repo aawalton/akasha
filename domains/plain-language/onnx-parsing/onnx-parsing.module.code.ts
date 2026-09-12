@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url"
 import {
   decodeTree,
   type ParsedSentence,
-} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+} from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { makeParseCache } from "akasha/domains/plain-language/parse-cache/parse-cache.module.code.ts"
 import {
   chunkForEncoder,

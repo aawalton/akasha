@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { sentenceOf } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
+import { sentenceOf } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.test-fixtures.ts"
 import { foundIn } from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.code.ts"
 import {
   A_BODY_IS_HOLDING_A_CONFLICT,

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import { sentenceOf } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
+import type { DepSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
+import { sentenceOf } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.test-fixtures.ts"
 import {
   type Passage,
   restatedIn,

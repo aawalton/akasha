@@ -6,7 +6,7 @@ import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.co
 import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
-import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export type Held = Record<string, unknown>

@@ -1,4 +1,4 @@
-import type { Row } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.test-fixtures.ts"
+import type { Row } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.test-fixtures.ts"
 
 export const HOLD = new Set(["hold", "holds", "holding"])
 

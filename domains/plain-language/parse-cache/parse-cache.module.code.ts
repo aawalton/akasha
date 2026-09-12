@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { ParsedSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import type { ParsedSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { CACHE } from "akasha/files/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 
