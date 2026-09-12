@@ -155,12 +155,11 @@ function measured(judging: Judging): Judging {
 export async function applying(
   given: Given,
   page: string,
-  taken: Arguments,
+  asked: Taken,
   carried: Carried | null
 ): Promise<Applying> {
   const keeping = (refusals: readonly string[]): readonly string[] =>
     refusalsKept(given.root, page, refusals)
-  const asked = askedIn(taken)
   if ("refusals" in asked) return notLanded(mistaking(keeping(asked.refusals)))
   const broken = asked.glass
   if (carried === null) {

@@ -151,5 +151,13 @@ export const applyRunning = {
       invariantKind: "departure",
       statement: "What one apply run cost is appended beside the page of the command that ran.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The arguments are read once, and the apply is handed what that reading answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply whose arguments the reading refused folds nothing.",
+    },
   ],
 } as const satisfies Module

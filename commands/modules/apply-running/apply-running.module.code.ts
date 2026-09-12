@@ -13,6 +13,7 @@ import {
   askedIn,
   type Carried,
   pathsIn,
+  type Taken,
 } from "akasha/commands/modules/applying/applying.module.code.ts"
 import {
   type Given as Arguments,
@@ -134,17 +135,18 @@ export function takenIn(piping: Piping): Arguments | string {
   return "refused" in read ? read.refused : read.given
 }
 
-async function ending(taken: Arguments, given: Given): Promise<Ended> {
+async function ending(asked: Taken, given: Given): Promise<Ended> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
     return bare(mistaking([noPageSaid(given.root, given.agentId)]))
   }
+  if ("refusals" in asked) return bare(await applying(given, page, asked, null))
   const held = keptEdits(given.root, page, (had) => had)
   if ("why" in held) return bare({ report: [], refusals: [held.why], code: 3 })
   const said = folding(given.root, page)
   if ("refusals" in said) return bare({ report: [], refusals: said.refusals, code: 3 })
   const paths = said.folded.length
-  const answered = await applying(given, page, taken, said.carried)
+  const answered = await applying(given, page, asked, said.carried)
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)
   if (put !== null) {
     return { answer: { report: [put], refusals: answered.refusals, code: answered.code }, paths }
@@ -169,7 +171,7 @@ export async function applyWith(taken: Arguments, given: Given): Promise<Answer>
   const asked = askedIn(taken)
   if (!("refusals" in asked) && asked.measure) allowedAgain(MEASURED_ALLOWED, MEASURED_NAME)
   const before = opening()
-  const done = await ending(taken, given)
+  const done = await ending(asked, given)
   const refusals = done.answer.refusals.length
   const page = commandPageAt(given.root, CHANGE_APPLY_SLUG)
   costRecorded(given.root, page, before, APPLY, APPLY, done.paths, refusals)
