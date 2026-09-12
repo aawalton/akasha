@@ -12,7 +12,6 @@ export const command = {
     "command/read",
     "namespace/git",
     "record-property/taking",
-    "text-property/help-notes",
     "namespace/imessage",
     "namespace/measure",
     "namespace/seat",
@@ -118,7 +117,6 @@ export const command = {
   loadedBy: "module/calling",
   properties: [
     { pageProperty: "record-property/taking", required: false, many: true, maxCount: null },
-    { pageProperty: "text-property/help-notes", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/timeout", required: false, many: false },
     { pageProperty: "text-property/level-name", required: false, many: false },
     {
