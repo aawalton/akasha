@@ -137,7 +137,7 @@ test("two pages of different page types carrying one slug are let through", () =
 function propertyBody(unique: string | null): Uint8Array {
   const said = unique === null ? "" : `, unique: ${JSON.stringify(unique)}`
   return bytesOf(
-    `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "text-property", ` +
+    `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: ${JSON.stringify(TEXT)}, ` +
       `slug: "name", propertySlug: "name"${said} }\n`
   )
 }

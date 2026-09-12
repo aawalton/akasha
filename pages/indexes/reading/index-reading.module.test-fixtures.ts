@@ -23,7 +23,7 @@ import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.t
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   beneath,
   indexIn,
@@ -216,13 +216,18 @@ function kindFiled(root: string, kind: string): undefined {
   valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
 }
 
-const SHAPED: Readonly<Record<string, unknown>> = {
-  targetPageTypeSlug: null,
-  unique: null,
-  uniquePropertySlug: null,
-  fileName: null,
-  folderName: null,
-  sorted: false,
+function shaping(pageTypeSlug: string, slug: string): Shape {
+  return {
+    pageTypeSlug,
+    targetPageTypeSlug: null,
+    unique: null,
+    uniquePropertySlug: null,
+    slug,
+    propertySlug: slug,
+    fileName: null,
+    folderName: null,
+    sorted: false,
+  }
 }
 
 export function shapeAdded(
@@ -234,10 +239,7 @@ export function shapeAdded(
   for (const one of lines) {
     if (one === null || typeof one !== "object") continue
     const said = {
-      pageTypeSlug,
-      slug,
-      propertySlug: slug,
-      ...SHAPED,
+      ...shaping(pageTypeSlug, slug),
       ...one,
     } as Record<string, unknown>
     if (typeof said.propertySlug !== "string") continue

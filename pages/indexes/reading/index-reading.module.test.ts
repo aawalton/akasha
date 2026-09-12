@@ -26,6 +26,7 @@ import {
   scopedFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapeFiled, shapeFileFor } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import { indexAt, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
@@ -307,6 +308,20 @@ test("the shapes of one page type are read once for a reading and that page type
   const reading = readingIn(root)
 
   expect(shapesOfType(reading, "text-property")).toBe(shapesOfType(reading, "text-property"))
+})
+
+test("a fixture files a shape as the line the index itself files for that page property", () => {
+  const root = rootAt()
+  shapeAdded(root, "text-property", "held", [{ unique: "page" }])
+
+  expect(readingIn(root).lines(shapeFileFor("text-property"))).toEqual(
+    shapeFiled({
+      pageTypeSlug: "text-property",
+      slug: "held",
+      propertySlug: "held",
+      unique: "page",
+    }).map((one) => one.line)
+  )
 })
 
 test("a page the values name and no slug names is answered by nothing", () => {
