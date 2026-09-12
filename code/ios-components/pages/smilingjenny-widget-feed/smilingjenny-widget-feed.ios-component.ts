@@ -42,11 +42,6 @@ export const smilingjennyWidgetFeed = {
     {
       invariantKind: "constraint",
       statement:
-        "A widget is granted fewer reloads a day than a refresh every fifteen minutes asks.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
         "A surplus falling thirty-two an hour reaches the rung four under it in seven minutes.",
     },
     {
