@@ -6,12 +6,7 @@ export const temperEsoGenerateBaseGameGlobal = {
   slug: "temper-eso-generate-base-game-global",
   definition: "the command staging the census of the string ids the base game provides",
   code: "ts",
-  taking: [
-    {
-      said: "--eso-root <path>",
-      takes: "the game's Lua source root, the `~/esoui` clone where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -60,5 +55,9 @@ export const temperEsoGenerateBaseGameGlobal = {
     },
   ],
   name: "base-game-global",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/stage" }],
+  arguments: [
+    { argument: "argument/code-root" },
+    { argument: "argument/stage" },
+    { argument: "argument/eso-root" },
+  ],
 } as const satisfies Command

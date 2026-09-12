@@ -6,12 +6,7 @@ export const temperEsoGenerateColonMethod = {
   slug: "temper-eso-generate-colon-method",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",
-  taking: [
-    {
-      said: "--eso-root <path>",
-      takes: "the game's Lua source root, the `~/esoui` clone where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -52,5 +47,9 @@ export const temperEsoGenerateColonMethod = {
     },
   ],
   name: "colon-method",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/stage" }],
+  arguments: [
+    { argument: "argument/code-root" },
+    { argument: "argument/stage" },
+    { argument: "argument/eso-root" },
+  ],
 } as const satisfies Command
