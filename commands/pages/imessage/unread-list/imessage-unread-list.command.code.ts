@@ -1,14 +1,9 @@
 import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import { buildUnreadListSql } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
-  CONTACT_SAID,
-  countOf,
-  JSON_SAID,
-  LIMIT_SAID,
+  countRefused,
   namingIn,
   oldestFirst,
-  type Reading,
-  wordsIn,
 } from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import {
   formatLocalMinute,
@@ -21,38 +16,18 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { contact } from "akasha/commands/arguments/pages/contact.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
 import {
   answering,
   asJson,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const VALUED = [LIMIT_SAID, CONTACT_SAID]
-
-const SWITCHES = [JSON_SAID]
-
-export type Read = {
-  readonly contact: string | undefined
-  readonly limit: number | undefined
-  readonly json: boolean
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const refusals = [...flagsAloneIn(said)]
-  const limit = countOf(said.named[LIMIT_SAID], LIMIT_SAID)
-  if (typeof limit === "object") refusals.push(...limit.refused)
-  if (refusals.length > 0) return { refused: refusals }
-  return {
-    contact: said.named[CONTACT_SAID],
-    limit: typeof limit === "number" ? limit : undefined,
-    json: said.flags.has(JSON_SAID),
-  }
-}
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { imessageUnreadList as page } from "akasha/commands/pages/imessage/unread-list/imessage-unread-list.command.ts"
 
 export function unreadLines(
   messages: readonly ImessageMessage[],
@@ -81,22 +56,25 @@ export function unreadRecords(
   }))
 }
 
-export function imessageUnreadList(argv: readonly string[]): Promise<Answer> {
-  const said = readIn(argv)
-  if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
+export function imessageUnreadList(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [json, limitArgument, contact])
+  if ("refused" in read) return Promise.resolve(refusedBy(read.refused))
+  const taken = read.taken
+  const why = countRefused(taken.limit, limitArgument.said)
+  if (why.length > 0) return Promise.resolve(refusedBy(why))
   return answering(async () => {
     const handleRowids =
-      said.contact === undefined ? undefined : await resolveContactHandleRowids(said.contact)
+      taken.contact === undefined ? undefined : await resolveContactHandleRowids(taken.contact)
     const [messages, contacts] = await Promise.all([
       fetchMessages(
         buildUnreadListSql({
-          ...(said.limit === undefined ? {} : { limit: said.limit }),
+          ...(taken.limit === undefined ? {} : { limit: taken.limit }),
           ...(handleRowids === undefined ? {} : { handleRowids }),
         })
       ),
       fetchContacts(),
     ])
     const name = namingIn(contacts)
-    return said.json ? asJson(unreadRecords(messages, name)) : told(unreadLines(messages, name))
+    return taken.json ? asJson(unreadRecords(messages, name)) : told(unreadLines(messages, name))
   })
 }
