@@ -21,6 +21,14 @@ const PACKAGE = "workspace-package"
 
 const MANIFEST = "manifest"
 
+const WORKSPACE = "workspace"
+
+const WORKSPACE_MANIFEST = "workspace-manifest"
+
+const HERE = "."
+
+const ROOT = ""
+
 const EXPORTS = "exports"
 
 const AT = "@"
@@ -97,23 +105,41 @@ export function manifestNamed(shadow: Shadow): string {
   return said
 }
 
-export function packagePagesIn(shadow: Shadow): readonly string[] {
-  const found = new Set(shadow.index.everyOfType(PACKAGE).map((one) => one.path))
-  for (const kind of shadow.index.kindsUnder(PACKAGE)) {
-    if (kind === PACKAGE) continue
-    for (const one of shadow.index.everyOfType(kind)) found.add(one.path)
+export function pagesOfKind(shadow: Shadow, kind: string): readonly string[] {
+  const found = new Set(shadow.index.everyOfType(kind).map((one) => one.path))
+  for (const under of shadow.index.kindsUnder(kind)) {
+    if (under === kind) continue
+    for (const one of shadow.index.everyOfType(under)) found.add(one.path)
   }
   return [...found].sort()
 }
 
-export function manifestsIn(shadow: Shadow): readonly Manifest[] {
-  const pages = packagePagesIn(shadow)
-  if (pages.length === 0) return []
-  const manifest = manifestNamed(shadow)
+export function packagePagesIn(shadow: Shadow): readonly string[] {
+  return pagesOfKind(shadow, PACKAGE)
+}
+
+export function folderOf(path: string): string {
+  const folder = dirname(path)
+  return folder === HERE ? ROOT : folder
+}
+
+export function manifestsAt(
+  pages: readonly string[],
+  manifest: string | null
+): readonly Manifest[] {
+  if (manifest === null) return []
   return pages.map((path) => {
-    const folder = dirname(path)
+    const folder = folderOf(path)
     return { folder, at: join(folder, manifest) }
   })
+}
+
+export function manifestsIn(shadow: Shadow): readonly Manifest[] {
+  const pages = packagePagesIn(shadow)
+  const held = pages.length === 0 ? [] : manifestsAt(pages, manifestNamed(shadow))
+  const workspaces = pagesOfKind(shadow, WORKSPACE)
+  const over = manifestsAt(workspaces, shadow.index.fileKeysAt().get(WORKSPACE_MANIFEST) ?? null)
+  return [...held, ...over]
 }
 
 export function packagesIn(change: Change, standing: readonly Manifest[]): readonly Package[] {
@@ -128,7 +154,8 @@ export function packagesIn(change: Change, standing: readonly Manifest[]): reado
 }
 
 function within(folder: string, path: string): boolean {
-  return path.startsWith(`${folder}/`)
+  if (folder === ROOT) return path !== ROOT
+  return path.startsWith(`${folder}${PARTED_BY}`)
 }
 
 export function holdingIn(packages: readonly Package[], path: string): Package | null {

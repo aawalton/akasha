@@ -13,7 +13,7 @@ export const specifierNamesAPackage = {
     {
       invariantKind: "departure",
       statement:
-        "The packages are found in the index under every page type descending from `workspace-package`.",
+        "The packages are the index's `workspace-package` and `workspace` pages and the kinds under each.",
     },
     {
       invariantKind: "departure",

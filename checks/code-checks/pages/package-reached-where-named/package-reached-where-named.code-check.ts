@@ -14,7 +14,15 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "departure",
       statement:
-        "The packages are found in the index under every page type descending from `workspace-package`.",
+        "The packages are the index's `workspace-package` and `workspace` pages and the kinds under each.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page at the repository root has the root itself for its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root folder holds every path but itself.",
     },
     {
       invariantKind: "departure",

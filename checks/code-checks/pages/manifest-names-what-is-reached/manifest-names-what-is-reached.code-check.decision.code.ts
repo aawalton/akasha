@@ -24,6 +24,8 @@ const AT = "@"
 
 const PARTED_BY = "/"
 
+const ROOT = ""
+
 const NODE = "node:"
 
 const BUN = "bun:"
@@ -197,7 +199,7 @@ export function rootedIn(change: Change, at: string): string | null {
 export function ownerOf(folders: readonly string[], path: string): string | null {
   let found: string | null = null
   for (const one of folders) {
-    if (!path.startsWith(`${one}${PARTED_BY}`)) continue
+    if (one !== ROOT && !path.startsWith(`${one}${PARTED_BY}`)) continue
     if (found === null || one.length > found.length) found = one
   }
   return found
@@ -305,15 +307,18 @@ function holdingBy(
   const known = new Set(folders)
   for (const path of every) {
     if (!bodyNamed(path)) continue
+    let owner: string | null = null
     let at = path.lastIndexOf(PARTED_BY)
     while (at > 0) {
-      const owner = path.slice(0, at)
-      if (known.has(owner)) {
-        found.get(owner)?.push(path)
+      const said = path.slice(0, at)
+      if (known.has(said)) {
+        owner = said
         break
       }
       at = path.lastIndexOf(PARTED_BY, at - 1)
     }
+    if (owner === null && known.has(ROOT)) owner = ROOT
+    if (owner !== null) found.get(owner)?.push(path)
   }
   return found
 }
