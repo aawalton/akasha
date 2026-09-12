@@ -12,10 +12,6 @@ export const infrastructureLoki = {
       said: "--since <duration>",
       takes: "how far back from now to look, in s, m, h or d, `1h` where none is said",
     },
-    {
-      said: "--all",
-      takes: "every line inside the window, page after page, rather than the first `--limit`",
-    },
   ],
   invariants: [
     {
@@ -77,5 +73,6 @@ export const infrastructureLoki = {
     { argument: "argument/pod", saidAs: "flag-or-word" },
     { argument: "argument/kube-namespace" },
     { argument: "argument/cursor" },
+    { argument: "argument/every-line" },
   ],
 } as const satisfies Command
