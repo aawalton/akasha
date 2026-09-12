@@ -86,7 +86,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "A question the index answers is one file read rather than a walk.",
+      statement: "A question the index answers is read from the index rather than from the pages.",
     },
     {
       invariantKind: "absence",
