@@ -14,7 +14,7 @@ import type { SidebarBoot } from "akasha/code/router-apps/properties/sidebar-boo
 import type { SiteIcon } from "akasha/code/router-apps/properties/site-icon.file-property.types.ts"
 import type { TestPreload } from "akasha/code/router-apps/properties/test-preload.file-property.types.ts"
 import type { ViteConfig } from "akasha/code/router-apps/properties/vite-config.code-file-property.types.ts"
-import type { ToolReached } from "akasha/code/workspace-packages/properties/tool-reached.text-property.types.ts"
+import type { ToolReached } from "akasha/code/workspaces/properties/tool-reached.text-property.types.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type RouterApp = Domain & {

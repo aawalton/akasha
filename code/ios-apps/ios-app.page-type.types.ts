@@ -23,7 +23,7 @@ import type { WebEntry } from "akasha/code/ios-apps/properties/web-entry.file-pr
 import type { WebEnvPath } from "akasha/code/ios-apps/properties/web-env-path.text-property.types.ts"
 import type { WidgetBundleId } from "akasha/code/ios-apps/properties/widget-bundle-id.text-property.types.ts"
 import type { WidgetProfileName } from "akasha/code/ios-apps/properties/widget-profile-name.text-property.types.ts"
-import type { ToolReached } from "akasha/code/workspace-packages/properties/tool-reached.text-property.types.ts"
+import type { ToolReached } from "akasha/code/workspaces/properties/tool-reached.text-property.types.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { Service } from "akasha/infrastructure/services/service.page-type.types.ts"
 
