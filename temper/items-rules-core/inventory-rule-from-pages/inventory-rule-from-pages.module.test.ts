@@ -73,6 +73,25 @@ test("a condition value that is no JSON is read as the text it is", () => {
   expect(held.conditions).toEqual({ stolen: "not-stolen" })
 })
 
+test("a condition value the field's shape refuses names the rule, the field and what it held", () => {
+  expect(() =>
+    ruleFromPage({
+      page: PAGE,
+      conditions: [{ conditionField: "potion-effects", conditionValue: "Restore Health" }],
+    })
+  ).toThrow(
+    'inventoryRuleFromPages: rule `rule-gold-stock` is unread — `potionEffects` holds "Restore Health", and the shape that field declares refuses it: Invalid input: expected array, received string'
+  )
+})
+
+test("one effect id written as a list of one is read", () => {
+  const held = ruleFromPage({
+    page: PAGE,
+    conditions: [{ conditionField: "potion-effects", conditionValue: '["Restore Health"]' }],
+  })
+  expect(held.conditions).toEqual({ potionEffects: ["Restore Health"] })
+})
+
 test("a chain is read leg by leg, and a leg says only what it carries", () => {
   const held = ruleFromPage({
     page: PAGE,

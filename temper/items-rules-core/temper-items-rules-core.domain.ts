@@ -52,6 +52,7 @@ export const temperItemsRulesCore = {
     "module/inventory-rule-compiler-types",
     "module/inventory-rule-controlled",
     "module/inventory-rule-engine",
+    "module/inventory-rule-conditions-shape",
     "module/inventory-rule-from-pages",
     "module/inventory-rule-to-pages",
     "module/inventory-rule-writes",

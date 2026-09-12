@@ -24,6 +24,16 @@ export const inventoryRuleFromPages = {
     {
       invariantKind: "departure",
       statement:
+        "What that read yields is held against the shape a condition declares before it reaches a rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value that shape refuses stops the read naming the rule, the condition and what it held.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A property the page leaves unsaid is left off the rule rather than written empty.",
     },
     {

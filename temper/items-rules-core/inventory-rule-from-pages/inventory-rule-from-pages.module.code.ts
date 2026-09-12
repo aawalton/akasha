@@ -1,3 +1,7 @@
+import {
+  conditionsTaken,
+  saidWrong,
+} from "akasha/temper/items-rules-core/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
 import type {
   CategoryRule,
   DestinationChain,
@@ -59,11 +63,20 @@ function epochOf(instant: string): number {
   return at
 }
 
-function conditionsOf(entries: readonly ConditionEntry[]): CategoryRule["conditions"] {
+function conditionsOf(
+  entries: readonly ConditionEntry[],
+  slug: string
+): CategoryRule["conditions"] {
   if (entries.length === 0) return undefined
   const held: Record<string, unknown> = {}
   for (const entry of entries) held[keyOf(entry.conditionField)] = spelt(entry.conditionValue)
-  return held as CategoryRule["conditions"]
+  const read = conditionsTaken(held)
+  if ("wrong" in read) {
+    throw new Error(
+      `inventoryRuleFromPages: rule \`${slug}\` is unread — ${read.wrong.map(saidWrong).join("; ")}`
+    )
+  }
+  return read.taken
 }
 
 function chainOf(entries: readonly ChainEntry[]): DestinationChain | undefined {
@@ -159,7 +172,7 @@ export function heldFromRows(rows: readonly Record<string, unknown>[]): readonly
 
 export function ruleFromPage(held: HeldRule): CategoryRule {
   const page = held.page
-  const conditions = conditionsOf(held.conditions ?? [])
+  const conditions = conditionsOf(held.conditions ?? [], page.slug)
   const destinationChain = chainOf(held.chain ?? [])
   return {
     id: page.slug.startsWith(SLUG_PREFIX) ? page.slug.slice(SLUG_PREFIX.length) : page.slug,
