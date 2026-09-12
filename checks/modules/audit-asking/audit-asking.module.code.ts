@@ -49,7 +49,11 @@ async function unansweredIn(
 }
 
 export function refusalsIn(verdicts: Verdicts, checks: readonly string[]): readonly string[] {
-  return checks.flatMap((one) => (verdicts[one]?.refusals ?? []).map((two) => `${one} — ${two}`))
+  return checks.flatMap((one) => {
+    const held = verdicts[one]
+    if (held === undefined) return []
+    return held.refusals.map((two) => `${one} at ${held.commit} — ${two}`)
+  })
 }
 
 export function unrunIn(verdicts: Verdicts, checks: readonly string[]): readonly string[] {

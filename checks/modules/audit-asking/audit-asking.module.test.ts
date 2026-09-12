@@ -97,7 +97,7 @@ test("a round whose verdict answers ends the asking", async () => {
   })
   expect(rounds).toBe(1)
   expect(told.unanswered).toEqual([])
-  expect(told.refusals).toEqual(["typecheck — one.ts — no"])
+  expect(told.refusals).toEqual([`typecheck at ${made[0] ?? ""} — one.ts — no`])
 })
 
 test("a round that would not start leaves every check it was owed unanswered", async () => {
@@ -187,14 +187,14 @@ test("a fault before any round started names nothing on that list", async () => 
   expect(await threwAfter(0)).toEqual([])
 })
 
-test("a refusal is named with the check that refused it", () => {
+test("a refusal is named with the check that refused it and the commit it is at", () => {
   const verdicts: Verdicts = {
     typecheck: { ...CLEAN, refusals: ["one.ts — no"] },
     "lint-clean": { ...CLEAN, refusals: ["two.ts — no"] },
   }
   expect(refusalsIn(verdicts, ["typecheck", "lint-clean"])).toEqual([
-    "typecheck — one.ts — no",
-    "lint-clean — two.ts — no",
+    "typecheck at a — one.ts — no",
+    "lint-clean at a — two.ts — no",
   ])
 })
 

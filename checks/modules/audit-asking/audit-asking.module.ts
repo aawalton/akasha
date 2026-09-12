@@ -66,6 +66,10 @@ export const auditAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal is named with the commit its verdict is at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check that could not run is named apart from a check that refused.",
     },
     {
