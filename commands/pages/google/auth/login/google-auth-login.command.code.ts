@@ -26,15 +26,18 @@ export function readIn(argv: readonly string[]): Read {
 export function googleAuthLogin(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, INPUT))
-  return answeredBy(async () => {
+  return answeredBy(async (done) => {
     const { clientId, clientSecret } = readGoogleOauthAppCredentials()
-    const lines = await googleOauthConsentSaying({
-      scopes: SCOPES,
-      clientId,
-      clientSecret,
-      tokenVar: SHARED_TOKEN_VAR,
-      callbackUrl: said.one[CALLBACK_URL],
-    })
+    const lines = await googleOauthConsentSaying(
+      {
+        scopes: SCOPES,
+        clientId,
+        clientSecret,
+        tokenVar: SHARED_TOKEN_VAR,
+        callbackUrl: said.one[CALLBACK_URL],
+      },
+      done
+    )
     return told(lines)
   })
 }

@@ -37,6 +37,15 @@ export const googleAuthLogin = {
       invariantKind: "absence",
       statement: "The token's value reaches neither the report nor a log.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A login refused after the code reached Google says that code is spent and consent is asked again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A login refused before the code reached Google is refused as the fault alone.",
+    },
   ],
   name: "login",
   arguments: [{ argument: "argument/callback-url" }],

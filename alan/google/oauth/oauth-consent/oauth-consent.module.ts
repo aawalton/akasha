@@ -6,6 +6,7 @@ export const oauthConsent = {
   slug: "oauth-consent",
   definition: "the browser round trip a Google refresh token comes back from",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -34,6 +35,18 @@ export const oauthConsent = {
     {
       invariantKind: "departure",
       statement: "An exchange answering with no refresh token is an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An exchange that reached Google says the code is spent, whatever came back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An exchange that never reached Google names nothing as written.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The token's value is in nothing named as written.",
     },
   ],
 } as const satisfies Module

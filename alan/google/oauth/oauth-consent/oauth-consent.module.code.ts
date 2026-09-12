@@ -30,10 +30,26 @@ function consentUrl(request: ConsentRequest, redirectUri: string): string {
   return `${AUTH_URL}?${query.toString()}`
 }
 
-async function refreshTokenSaved(
+export type Minting = {
+  readonly asked: (url: string, body: URLSearchParams) => Promise<Response>
+  readonly saved: (name: string, value: string) => string
+}
+
+export const MINTING: Minting = {
+  asked: (url, body) => fetch(url, { method: "POST", body }),
+  saved: saveWorkstationSecret,
+}
+
+export const SPENT =
+  "the authorization code reached Google, and one code is spent once — consent again rather " +
+  "than sending the same callback URL twice"
+
+export async function refreshTokenSaved(
   request: ConsentRequest,
   redirectUri: string,
-  code: string
+  code: string,
+  done: string[] = [],
+  minting: Minting = MINTING
 ): Promise<string> {
   const body = new URLSearchParams({
     code,
@@ -42,7 +58,8 @@ async function refreshTokenSaved(
     redirect_uri: redirectUri,
     grant_type: "authorization_code",
   })
-  const res = await fetch(TOKEN_URL, { method: "POST", body })
+  const res = await minting.asked(TOKEN_URL, body)
+  done.push(SPENT)
   if (!res.ok)
     throw new OperationalError(
       `token exchange: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`
@@ -53,19 +70,24 @@ async function refreshTokenSaved(
     throw new OperationalError(
       "token exchange succeeded but returned no refresh token — revoke the app's access and re-run with prompt=consent"
     )
-  const at = saveWorkstationSecret(request.tokenVar, refreshToken)
+  const at = minting.saved(request.tokenVar, refreshToken)
+  done.push(`wrote ${request.tokenVar} into ${at}`)
   return `${request.tokenVar} is written into ${at}, and every shell started from here reads it`
 }
 
 async function exchangeFromCallbackUrl(
   request: ConsentRequest,
-  rawUrl: string
+  rawUrl: string,
+  done: string[]
 ): Promise<readonly string[]> {
   const { redirectUri, code } = parseOauthCallbackUrl(rawUrl)
-  return [await refreshTokenSaved(request, redirectUri, code)]
+  return [await refreshTokenSaved(request, redirectUri, code, done)]
 }
 
-async function consentViaLoopback(request: ConsentRequest): Promise<readonly string[]> {
+async function consentViaLoopback(
+  request: ConsentRequest,
+  done: string[]
+): Promise<readonly string[]> {
   let settlers: CodeSettlers | undefined
   const codePromise = new Promise<string>((resolve, reject) => {
     settlers = { resolve, reject }
@@ -99,19 +121,20 @@ async function consentViaLoopback(request: ConsentRequest): Promise<readonly str
     )
 
     const code = await codePromise
-    return [await refreshTokenSaved(request, redirectUri, code)]
+    return [await refreshTokenSaved(request, redirectUri, code, done)]
   } finally {
     server.stop()
   }
 }
 
 export async function googleOauthConsentSaying(
-  request: ConsentRequest
+  request: ConsentRequest,
+  done: string[] = []
 ): Promise<readonly string[]> {
   if (request.callbackUrl !== undefined) {
-    return exchangeFromCallbackUrl(request, request.callbackUrl)
+    return exchangeFromCallbackUrl(request, request.callbackUrl, done)
   }
-  return consentViaLoopback(request)
+  return consentViaLoopback(request, done)
 }
 
 export async function googleOauthConsent(request: ConsentRequest): Promise<void> {
