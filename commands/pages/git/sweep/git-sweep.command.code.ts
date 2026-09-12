@@ -1,3 +1,4 @@
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   type Given,
@@ -8,8 +9,6 @@ import { foundIn, takingFrom } from "akasha/git/store-sweeping/git-store-sweepin
 
 const DRY_RUN = "--dry-run"
 
-const MISTOOK = 1
-
 const NOTHING = "nothing akasha left is under the folder git does not track"
 
 const NO_GIT_DIR = "git names no directory for this checkout, so there is nowhere to sweep"
@@ -19,11 +18,11 @@ export function gitSweep(argv: readonly string[], given: Given): Answer {
   if (argv.length > 0 && !dry) {
     return refused(
       `\`${argv.join(" ")}\` is not an argument this takes — this command takes \`${DRY_RUN}\` alone`,
-      MISTOOK
+      INPUT
     )
   }
   const gitDir = gitDirIn(given.root)
-  if (gitDir === null) return refused(NO_GIT_DIR, MISTOOK)
+  if (gitDir === null) return refused(NO_GIT_DIR, INPUT)
   const found = foundIn(gitDir).filter((one) => one.there)
   if (found.length === 0) return { report: [NOTHING], refusals: [], code: 0 }
   if (dry) {
@@ -33,6 +32,6 @@ export function gitSweep(argv: readonly string[], given: Given): Answer {
   return {
     report: said.took.map((one) => `took\t${one}`),
     refusals: said.refusals,
-    code: said.refusals.length === 0 ? 0 : MISTOOK,
+    code: said.refusals.length === 0 ? 0 : INPUT,
   }
 }
