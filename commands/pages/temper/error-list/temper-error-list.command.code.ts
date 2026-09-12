@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -26,8 +26,6 @@ import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-pat
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-
-const SAID_WRONG = 1
 
 const ERRORS_PATH_FLAG = "--errors-path"
 
@@ -187,7 +185,7 @@ function staleAfterIn(argv: readonly string[]): number | string {
 
 export async function temperErrorsList(argv: readonly string[] = []): Promise<Answer> {
   const staleAfterHours = staleAfterIn(argv)
-  if (typeof staleAfterHours === "string") return refused(staleAfterHours, SAID_WRONG)
+  if (typeof staleAfterHours === "string") return refused(staleAfterHours, INPUT)
 
   const errorsPath = valuesOf(argv, ERRORS_PATH_FLAG)[0] ?? savedVarsFile(CAPTURE_FILE)
   const includeStale = argv.includes(INCLUDE_STALE_FLAG)
