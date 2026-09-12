@@ -66,7 +66,7 @@ export const attributes = {
     {
       invariantKind: "departure",
       statement:
-        "`akasha measure attributes` answers an attribute's level beside that attribute's total.",
+        "`akasha measure attribute` answers an attribute's level beside that attribute's total.",
     },
     {
       invariantKind: "departure",

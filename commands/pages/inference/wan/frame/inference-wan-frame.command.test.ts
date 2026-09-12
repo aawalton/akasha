@@ -7,7 +7,7 @@ import {
 import { at } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha inference wan frames", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha inference wan frame", from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming the flag it needs", async () => {
