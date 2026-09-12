@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   renderEffects,
   renderPlainEffect,
@@ -120,7 +121,7 @@ export function generateTemperWeaponTrait(rows: readonly Page[]): string {
  * floor(rawValue) * 2); the facade derives the raw constants from
  * \`qualityValues.normal\` and \`qualityValues.legendary\`.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { WeaponTraitTemplate, WeaponTraitQualityValues } from "../weapon-traits-data"
