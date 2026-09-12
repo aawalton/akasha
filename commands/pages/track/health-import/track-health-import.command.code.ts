@@ -14,6 +14,7 @@ import {
   answering,
   DATA,
   INPUT,
+  keeping,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -39,7 +40,7 @@ const BARE = [DRY_RUN, RESTART]
 
 const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
 
-const NO_EXPORT =
+export const NO_EXPORT =
   "no Apple Health export is on this workstation or on the macbook. On your iPhone, open Health, " +
   "tap your profile photo, then Export All Health Data, and put the zip in `~/Downloads` on either " +
   "machine — or name one with `--file-path`."
@@ -166,7 +167,8 @@ export function readingLines(
 }
 
 export function resumable(said: Answer): Answer {
-  if (said.refusals.length === 0 || said.refusals.includes(NO_EXPORT)) return said
+  if (said.refusals.length === 0) return said
+  if (said.report.length === 0 && said.refusals.includes(NO_EXPORT)) return said
   return { ...said, refusals: [...said.refusals, TAKEN_UP] }
 }
 
@@ -188,7 +190,7 @@ export async function healthImported(
         deps,
         done
       )
-      if (outcome.sourceFile === null) return refused(NO_EXPORT, DATA)
+      if (outcome.sourceFile === null) return keeping(done, refused(NO_EXPORT, DATA))
       return told([...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)])
     })
   )

@@ -63,7 +63,11 @@ export const trackHealthImport = {
     },
     {
       invariantKind: "departure",
-      statement: "Every refusal but the missing export says the run can be taken up again.",
+      statement: "A refusal says the run can be taken up unless that run wrote nothing at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An export read with no header line names the batches it wrote before refusing.",
     },
     {
       invariantKind: "departure",

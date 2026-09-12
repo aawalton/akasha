@@ -16,6 +16,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   healthImported,
   linesOf,
+  NO_EXPORT,
   resumable,
   type Taken,
   taken,
@@ -168,6 +169,20 @@ test("a refusal that is not the missing export says the run can be taken up", ()
 test("a report with no refusal is left as it was", () => {
   const said = { report: ["import\thealth\t/x.zip"], refusals: [], code: OK }
   expect(resumable(said)).toEqual(said)
+})
+
+test("the missing export with nothing written says nothing about taking the run up", () => {
+  const said = { report: [], refusals: [NO_EXPORT], code: DATA }
+  expect(resumable(said)).toEqual(said)
+})
+
+test("the missing export after a batch landed still says the run can be taken up", () => {
+  const said = resumable({
+    report: ["wrote batch 1, 1000 samples, through record line 1000"],
+    refusals: [NO_EXPORT],
+    code: DATA,
+  })
+  expect(said.refusals[said.refusals.length - 1]).toContain("--restart")
 })
 
 test("a dry run reads the export, reaches no writer, and says nothing was written", async () => {
