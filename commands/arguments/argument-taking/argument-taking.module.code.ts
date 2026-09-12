@@ -240,26 +240,24 @@ type Unnamed<Page extends Commanding, Pages extends Argument> = Exclude<
 
 type Flat<Of> = { readonly [Key in keyof Of]: Of[Key] }
 
-export type TakenFor<Page extends Commanding, Pages extends Argument> = Flat<
-  {
-    [Entry in Entries<Page> as Filled<Entry, Pages> extends true
-      ? Camel<Slugged<Entry["argument"]>>
-      : never]: Carried<Entry, PageOf<Entry, Pages>>
-  } & {
-    [Entry in Entries<Page> as Filled<Entry, Pages> extends true
-      ? never
-      : Camel<Slugged<Entry["argument"]>>]?: Carried<Entry, PageOf<Entry, Pages>>
-  }
->
-
 type Missing<Said extends string> = {
   readonly [Key in `hand takenFor the argument page for ${Said}`]: never
 }
 
-export type Covering<Page extends Commanding, Pages extends Argument> = [
+export type TakenFor<Page extends Commanding, Pages extends Argument> = [
   Unnamed<Page, Pages>,
 ] extends [never]
-  ? unknown
+  ? Flat<
+      {
+        [Entry in Entries<Page> as Filled<Entry, Pages> extends true
+          ? Camel<Slugged<Entry["argument"]>>
+          : never]: Carried<Entry, PageOf<Entry, Pages>>
+      } & {
+        [Entry in Entries<Page> as Filled<Entry, Pages> extends true
+          ? never
+          : Camel<Slugged<Entry["argument"]>>]?: Carried<Entry, PageOf<Entry, Pages>>
+      }
+    >
   : Missing<Unnamed<Page, Pages>>
 
 function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | null {
@@ -282,7 +280,7 @@ export function takenFor<Page extends Commanding, Pages extends readonly Argumen
   argv: readonly string[],
   calledAs: string,
   page: Page,
-  pages: Pages & Covering<Page, Pages[number]>
+  pages: Pages
 ): Read<TakenFor<Page, Pages[number]>> {
   const bySlug: ReadonlyMap<string, Argument> = new Map(pages.map((one) => [one.slug, one]))
   const naming: Naming[] = []
