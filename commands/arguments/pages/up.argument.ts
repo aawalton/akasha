@@ -8,5 +8,4 @@ export const up = {
   takes: "the domain to draw ABOVE instead of below, up to the roots, said once per domain",
   value: "text",
   placeholder: "slug",
-  repeats: true,
 } as const satisfies Argument

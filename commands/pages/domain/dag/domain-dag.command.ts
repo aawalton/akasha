@@ -59,9 +59,9 @@ export const domainDag = {
   ],
   name: "dag",
   arguments: [
-    { argument: "argument/up" },
     { argument: "argument/paths" },
     { argument: "argument/descent" },
     { argument: "argument/root-domain", repeats: true },
+    { argument: "argument/up", repeats: true },
   ],
 } as const satisfies Command
