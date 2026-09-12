@@ -2,6 +2,7 @@ import { join, resolve } from "node:path"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
+  answeredWith,
   answering,
   DATA,
   naming,
@@ -102,22 +103,22 @@ async function typechecked(done: string[], root: string): Promise<Answer> {
     const said = judged(root, one, config, left)
     rows.push(said)
     if (said.code !== 0) {
-      return {
-        report: [...said.errors, ...rows.map(rowOf)],
-        refusals: [
+      return answeredWith(
+        [...said.errors, ...rows.map(rowOf)],
+        [
           `${said.name} does not typecheck against its own compiler settings (exit ${String(said.code)}, ${String(said.errors.length)} error(s)), so the addons after it were left unread`,
         ],
-        code: OPERATIONAL,
-      }
+        OPERATIONAL
+      )
     }
     if (said.ownFiles === 0) {
-      return {
-        report: rows.map(rowOf),
-        refusals: [
+      return answeredWith(
+        rows.map(rowOf),
+        [
           `${said.name} compiled none of its own ${String(said.readFiles)} read file(s), so a clean result here is a result over nothing`,
         ],
-        code: OPERATIONAL,
-      }
+        OPERATIONAL
+      )
     }
   }
 
