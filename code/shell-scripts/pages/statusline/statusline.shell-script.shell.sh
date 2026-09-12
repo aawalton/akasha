@@ -27,7 +27,7 @@ AGENT_COUNT=0
 if [ -n "${AGENT_ID:-}" ]; then
   AGENT_COUNT=$("$BUN_BIN" "$AKASHA/agents/seats/modules/children/seat-children.module.code.ts" "$AGENT_ID" 2>/dev/null || echo 0)
   case "$AGENT_COUNT" in '' | *[!0-9]*) AGENT_COUNT=0 ;; esac
-  printf '%s' "$INPUT" | "$BUN_BIN" "$AKASHA/seat-system/seat-usage-keep/seat-usage-keep.module.code.ts" "$AGENT_ID" >/dev/null 2>&1 || true
+  printf '%s' "$INPUT" | "$BUN_BIN" "$AKASHA/agents/seats/modules/usage-keep/seat-usage-keep.module.code.ts" "$AGENT_ID" >/dev/null 2>&1 || true
 fi
 
 MODEL_DISPLAY=""
