@@ -3,7 +3,6 @@ import "akasha/temper/eso-types/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import { bytesToBase64url } from "akasha/temper/bit-codec/base64url/base64url.module.code.ts"
 import {
   bitWriterToBytes,
   makeBitWriter,
@@ -17,6 +16,7 @@ import {
   getWeaponTraitIndex,
   getWeaponTypeIndex,
 } from "akasha/temper/bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
+import { bytesToBase64url } from "akasha/temper/bit-codec/modules/base64url/base64url.module.code.ts"
 import {
   ARMOR_WEIGHT_BITS,
   CODEC_MINOR_VERSION,

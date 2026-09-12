@@ -9,7 +9,7 @@ import {
   storedBeatGrandfatherKeys,
   systemBeatCarriesVoiceText,
   WriteBeatSchema,
-} from "akasha/story/engine/core/beat-schema/beat-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/beat-schema/beat-schema.module.code.ts"
 
 describe("BeatSchema", () => {
   test("a narrative beat carrying text is admitted", () => {

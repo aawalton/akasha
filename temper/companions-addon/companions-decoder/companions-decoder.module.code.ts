@@ -3,11 +3,11 @@ import "akasha/temper/eso-types/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import { base64urlToBytes } from "akasha/temper/bit-codec/base64url/base64url.module.code.ts"
 import {
   makeBitReader,
   readBits,
 } from "akasha/temper/bit-codec/bit-reader/bit-reader.module.code.ts"
+import { base64urlToBytes } from "akasha/temper/bit-codec/modules/base64url/base64url.module.code.ts"
 import type { CompanionBuildData } from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
 import {
   ARMOR_WEIGHT_BITS,

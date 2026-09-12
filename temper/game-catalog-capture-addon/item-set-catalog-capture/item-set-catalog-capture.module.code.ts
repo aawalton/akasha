@@ -9,11 +9,11 @@ import type {
   ItemSetCatalogPiece,
 } from "akasha/temper/capture-shapes/item-set-catalog/item-set-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import {
   BATCH_DELAY,
   BATCH_SIZE,
-} from "akasha/temper/catalog-core/batch-config/batch-config.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+} from "akasha/temper/catalog-core/modules/batch-config/batch-config.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import { resolveCategoryNames } from "akasha/temper/item-sets/item-set-categories/item-set-categories.module.code.ts"
 

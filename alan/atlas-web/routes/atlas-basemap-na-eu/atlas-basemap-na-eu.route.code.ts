@@ -1,7 +1,7 @@
 import {
   checkBasemapRange,
   MAX_RANGE_BYTES,
-} from "akasha/alan/atlas-web/basemap-range/basemap-range.module.code.ts"
+} from "akasha/alan/atlas-web/modules/basemap-range/basemap-range.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 
 const OBJECT_KEY = "na-eu.pmtiles"
