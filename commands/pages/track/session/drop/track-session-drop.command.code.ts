@@ -8,9 +8,7 @@ import {
 } from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
 import {
   addressed,
-  DRY_RUN,
   faultsIn,
-  MEND,
   shownOf,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 
@@ -25,12 +23,12 @@ export async function trackSessionDrop(argv: readonly string[], given: Given): P
   const at = standing.rows.indexOf(found)
   const before = at > 0 ? standing.rows[at - 1] : undefined
   standing.rows.splice(at, 1)
-  if (argv.includes(MEND) && before !== undefined) {
+  if (standing.mend && before !== undefined) {
     if (found.endTime === undefined) delete before.endTime
     else before.endTime = found.endTime
   }
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (argv.includes(DRY_RUN)) return telling(shownOf(standing.rows))
+  if (standing.dryRun) return telling(shownOf(standing.rows))
   return await landed(standing.held, standing.rows, `Drop ${found.title} on ${standing.day}`, given)
 }

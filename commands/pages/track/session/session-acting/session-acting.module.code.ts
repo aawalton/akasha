@@ -19,10 +19,12 @@ import {
   activitiesIn,
   BARE,
   DAY,
+  DRY_RUN,
   dayNow,
   type Held,
   heldFor,
   linesOf,
+  MEND,
   openIn,
   type Row,
   saidFor,
@@ -36,6 +38,8 @@ export type Standing = {
   readonly held: Held
   readonly rows: Row[]
   readonly activities: readonly ActivityDifficulty[]
+  readonly dryRun: boolean
+  readonly mend: boolean
 }
 
 export type Tagging =
@@ -57,7 +61,14 @@ export function standingFor(argv: readonly string[], root: string, now: Date): S
   const day = saidFor(argv, DAY) ?? dayNow(now)
   const held = heldFor(root, day)
   if (typeof held === "string") return held
-  return { day, held, rows: held.rows.map((one) => ({ ...one })), activities: activitiesIn(root) }
+  return {
+    day,
+    held,
+    rows: held.rows.map((one) => ({ ...one })),
+    activities: activitiesIn(root),
+    dryRun: argv.includes(DRY_RUN),
+    mend: argv.includes(MEND),
+  }
 }
 
 export function taggingFor(argv: readonly string[], root: string): Tagging {

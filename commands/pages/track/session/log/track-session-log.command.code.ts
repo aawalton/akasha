@@ -13,7 +13,6 @@ import {
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
   anchoredIn,
-  DRY_RUN,
   END,
   faultsIn,
   instantIn,
@@ -60,6 +59,6 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
   standing.rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (argv.includes(DRY_RUN)) return telling(shownOf([one]))
+  if (standing.dryRun) return telling(shownOf([one]))
   return await landed(standing.held, standing.rows, `Log ${title} on ${standing.day}`, given)
 }

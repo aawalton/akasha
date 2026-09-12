@@ -16,7 +16,6 @@ import {
   AT,
   addressed,
   anchoredIn,
-  DRY_RUN,
   faultsIn,
   levelsFor,
   mintedAt,
@@ -61,7 +60,7 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
   standing.rows.splice(standing.rows.indexOf(found) + 1, 0, next)
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
-  if (argv.includes(DRY_RUN)) return telling(shownOf([found, next]))
+  if (standing.dryRun) return telling(shownOf([found, next]))
   return await landed(
     standing.held,
     standing.rows,

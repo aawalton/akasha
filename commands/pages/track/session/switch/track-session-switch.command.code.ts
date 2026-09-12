@@ -14,7 +14,6 @@ import {
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
   AT,
-  DRY_RUN,
   faultsIn,
   instantIn,
   levelsFor,
@@ -58,7 +57,7 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
   const landings = home === found ? [found] : [found, home]
   const faults = landings.flatMap((one) => faultsIn(one.rows, one.held))
   if (faults.length > 0) return mistaking(faults)
-  if (argv.includes(DRY_RUN)) return telling(shownOf(home.rows.slice(-2)))
+  if (standing.dryRun) return telling(shownOf(home.rows.slice(-2)))
   const said =
     home === found
       ? `Switch on ${home.held.day}`

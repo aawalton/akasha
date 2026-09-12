@@ -19,7 +19,6 @@ import {
 } from "akasha/commands/pages/track/session-leveling/session-leveling.module.code.ts"
 import {
   anchoredIn,
-  DRY_RUN,
   FROM_FILE,
   faultsIn,
   mintedAt,
@@ -101,7 +100,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
   }
   const faults = [...refusals, ...faultsIn(made, standing.held)]
   if (faults.length > 0) return mistaking(faults)
-  if (argv.includes(DRY_RUN)) return telling(shownOf(made))
+  if (standing.dryRun) return telling(shownOf(made))
   return await landed(
     standing.held,
     made,
