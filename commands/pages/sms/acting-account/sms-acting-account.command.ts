@@ -6,6 +6,7 @@ export const smsActingAccount = {
   slug: "sms-acting-account",
   definition: "the command reading the write-as account out of a delivered SMS surface's footer",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

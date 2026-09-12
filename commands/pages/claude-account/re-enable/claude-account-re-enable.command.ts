@@ -7,6 +7,7 @@ export const claudeAccountReEnable = {
   definition:
     "the command putting one claude account back in the pool its subscription shut it out of",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
