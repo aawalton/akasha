@@ -7,7 +7,6 @@ export const temperErrorList = {
   definition: "the command naming the game's Lua errors the errors addon captured",
   code: "ts",
   taking: [
-    { said: "--errors-path <path>", takes: "the saved-variables file the errors are read from" },
     { said: "--include-stale", takes: "show the entries left behind by an older session too" },
     {
       said: "--stale-after-hours <n>",
@@ -47,5 +46,5 @@ export const temperErrorList = {
     },
   ],
   name: "error-list",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/errors-path" }],
 } as const satisfies Command
