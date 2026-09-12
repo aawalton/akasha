@@ -8,13 +8,11 @@ export const seatReset = {
   code: "ts",
   test: "ts",
   taking: [{ said: "<name>", takes: "the seat to reset, named as that seat's page is named" }],
-  helpNotes: [
-    "a reset names one seat, spelled as that seat's page is spelled rather than as an id.",
-    "a reset reads the last committed page where the seat is stopped, and that page is reached by the name.",
-    "what a reset says is written where the reset runs rather than carried back as a report.",
-    "a flag past the name is refused though the module beneath a reset takes several.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A reset reads the last committed page where the seat is stopped.",
+    },
     {
       invariantKind: "departure",
       statement: "The seat reset is named by the first word.",
