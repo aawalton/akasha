@@ -8,7 +8,7 @@ export const designInterfaces = {
   parts: [
     "domain/design-tokens",
     "page-type/color",
-    "domain/design-badges",
+    "domain/design-interfaces-badges",
     "domain/design-forms",
     "domain/design-layout",
     "domain/design-patterns",
