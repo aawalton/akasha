@@ -88,6 +88,6 @@ export const talosApply = {
   arguments: [
     { argument: "argument/node", required: true, saidAs: "flag-or-word" },
     { argument: "argument/cluster" },
-    { argument: "argument/ip" },
+    { argument: "argument/ip", required: true },
   ],
 } as const satisfies Command
