@@ -8,11 +8,11 @@ import { getArmorEffects } from "akasha/temper/characters-equipment/modules/armo
 import type { ArmorTraitId } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { ArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { ArmorTypeId } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type {
   Effect,
   MetricEffect,
-} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+} from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 
 interface ArmorItemSource extends EffectSourceInterface<"armor", Effect> {
   categoryId: "armor"

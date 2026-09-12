@@ -9,8 +9,8 @@ import {
 } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import type { ArmorPieceCounts } from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
+import type { ArmorPieceCounts } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
 
 type ArmorWeight = "light" | "medium" | "heavy"
 

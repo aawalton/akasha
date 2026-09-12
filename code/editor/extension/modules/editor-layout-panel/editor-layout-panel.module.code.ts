@@ -2,7 +2,7 @@ import type {
   LayoutGroup,
   LayoutTab,
   TabKind,
-} from "akasha/code/editor/extension/editor-layout-columns/editor-layout-columns.module.code.ts"
+} from "akasha/code/editor/extension/modules/editor-layout-columns/editor-layout-columns.module.code.ts"
 import {
   recordObservation,
   recordSweep,

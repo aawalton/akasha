@@ -17,7 +17,7 @@ import { formatAbbreviated } from "akasha/temper/formula-framework/number-format
 import type {
   ArmorPieceCounts,
   BadgeVariant,
-} from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
+} from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface EffectBadgeProps {

@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import { EditableNumber } from "akasha/design/interfaces/forms/editable-number/editable-number.module.code.tsx"
+import { EditableNumber } from "akasha/design/interfaces/forms/modules/editable-number/editable-number.module.code.tsx"
 import {
   Select,
   SelectContent,

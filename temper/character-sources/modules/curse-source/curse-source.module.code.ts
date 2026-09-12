@@ -1,6 +1,6 @@
 import type { VampireStageId } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
-import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 
 export interface CurseSource extends EffectSourceInterface {
   categoryId: "curse"

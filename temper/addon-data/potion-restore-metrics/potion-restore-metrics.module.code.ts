@@ -5,7 +5,7 @@ import {
   ALCHEMY_EFFECT_IDS,
   encodedTraitsOf,
 } from "akasha/temper/alchemy/potion-traits/potion-traits.module.code.ts"
-import { isMetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { isMetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 
 export interface MinedRestorePotion {
   readonly itemId: number

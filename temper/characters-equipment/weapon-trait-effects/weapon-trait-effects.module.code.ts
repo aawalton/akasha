@@ -8,7 +8,7 @@ import {
   type EquipmentQualityId,
   resolveQuality,
 } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function rawTraitQualityValues(

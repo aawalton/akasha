@@ -2,14 +2,14 @@ import {
   getMetricDisplayName,
   metrics,
 } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type BuffOrDebuffEffect,
   type Effect,
   isBuffOrDebuffEffect,
   isMetricEffect,
   type MetricEffect,
-} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
-import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+} from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { formatPercent } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 

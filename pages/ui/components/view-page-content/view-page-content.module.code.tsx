@@ -9,7 +9,7 @@ import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.c
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
-import { EditableTitle } from "akasha/pages/ui/components/editable-title/editable-title.module.code.tsx"
+import { EditableTitle } from "akasha/pages/ui/components/modules/editable-title/editable-title.module.code.tsx"
 import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import { PageSystemShell } from "akasha/pages/ui/components/page-system-shell/page-system-shell.module.code.tsx"
 import { PageTitleProperties } from "akasha/pages/ui/components/page-title-properties/page-title-properties.module.code.tsx"

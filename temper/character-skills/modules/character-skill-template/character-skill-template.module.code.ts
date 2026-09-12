@@ -1,4 +1,4 @@
-import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { SkillTypeId } from "akasha/temper/skill-kinds/skill-types/skill-types.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 

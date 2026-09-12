@@ -1,7 +1,3 @@
-import {
-  type ColumnNumber,
-  chooseColumn,
-} from "akasha/code/editor/extension/editor-group/editor-group.module.code.ts"
 import { parseSeatClick } from "akasha/code/editor/extension/invoked-seat/invoked-seat.module.code.ts"
 import type { SeatClick } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import { ancestorNames } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
@@ -10,6 +6,10 @@ import {
   forest,
   output,
 } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
+import {
+  type ColumnNumber,
+  chooseColumn,
+} from "akasha/code/editor/extension/modules/editor-group/editor-group.module.code.ts"
 import {
   groupForTerminal,
   openColumns,

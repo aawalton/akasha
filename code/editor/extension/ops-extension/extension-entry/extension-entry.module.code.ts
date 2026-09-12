@@ -1,4 +1,3 @@
-import * as editorLayout from "akasha/code/editor/extension/editor-layout-panel/editor-layout-panel.module.code.ts"
 import {
   commandServerHeard,
   disposeCommandServer,
@@ -10,6 +9,7 @@ import {
 import * as agentTree from "akasha/code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"
 import * as commandTree from "akasha/code/editor/extension/modules/command-tree-panel/command-tree-panel.module.code.ts"
 import * as domainTree from "akasha/code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts"
+import * as editorLayout from "akasha/code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts"
 import {
   createObservationStore,
   recordObservation,
