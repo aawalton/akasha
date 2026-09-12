@@ -8,7 +8,6 @@ export const inferenceSegment = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--cutout", takes: "also write the foreground on transparency" },
     { said: "--cutout-out <path>", takes: "where that cutout is written" },
     {
       said: "--flatten <color>",
@@ -67,5 +66,6 @@ export const inferenceSegment = {
     { argument: "argument/image", required: true, saidAs: "flag-or-word" },
     { argument: "argument/timeout" },
     { argument: "argument/matte-out" },
+    { argument: "argument/cutout" },
   ],
 } as const satisfies Command
