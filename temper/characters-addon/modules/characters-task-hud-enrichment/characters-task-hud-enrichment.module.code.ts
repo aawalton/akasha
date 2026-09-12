@@ -17,12 +17,12 @@ import {
 } from "akasha/temper/characters-addon/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
-import { findFirstIncompleteLoreCollection } from "akasha/temper/player-completion/completion-lore-collection/completion-lore-collection.module.code.ts"
-import { extractLoreKnownSet } from "akasha/temper/player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,
 } from "akasha/temper/player-completion/modules/completion-cadwell-sort/completion-cadwell-sort.module.code.ts"
+import { findFirstIncompleteLoreCollection } from "akasha/temper/player-completion/modules/completion-lore-collection/completion-lore-collection.module.code.ts"
+import { extractLoreKnownSet } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 

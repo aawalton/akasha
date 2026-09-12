@@ -20,15 +20,15 @@ import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debou
 import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import {
-  isAccountMeasured,
-  isCharacterMeasured,
-  isCompanionMeasured,
-} from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
-import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
 } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { getCompletionCardTab } from "akasha/temper/player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
+import {
+  isAccountMeasured,
+  isCharacterMeasured,
+  isCompanionMeasured,
+} from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import type {
   CompletionFilter,
   CompletionSortMode,

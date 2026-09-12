@@ -1,6 +1,3 @@
-import type { ItemSetOverallProgress } from "akasha/temper/player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
-import { transformItemSetProgress } from "akasha/temper/player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
-import { isAccountMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type { SubclassingSkillLineProgressResult } from "akasha/temper/player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import { transformSubclassingSkillLineProgress } from "akasha/temper/player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import { buildAccountSummary } from "akasha/temper/player-completion/completion-summary-account/completion-summary-account.module.code.ts"
@@ -36,6 +33,9 @@ import { transformAccountAchievementProgress } from "akasha/temper/player-comple
 import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { transformCollectiblesProgress } from "akasha/temper/player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
+import type { ItemSetOverallProgress } from "akasha/temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import { transformItemSetProgress } from "akasha/temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import { isAccountMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,

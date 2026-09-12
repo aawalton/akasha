@@ -3,8 +3,8 @@ import type {
   AccountCompletion,
   CharacterAchievementProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
 
 const ACCOUNT_TALLY = "account"
 const CHARACTER_TALLY = "character"
