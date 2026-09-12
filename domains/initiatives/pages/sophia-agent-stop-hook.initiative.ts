@@ -10,7 +10,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",
       workingMemory:
-        "Measured on the 121 cases: 14 of 34 breaches caught, 2 misfires on 87 clean, so 87.5 percent precision against Alan's bar of no misfires at all. Both misfires quote a measured machine cost, which the prompt already carves out: a 120-second `change apply` ceiling, and a check loading 457 values. 88 of the 121 cases landed after the last prompt edit, so the prompt had never been scored on this set until now.",
+        "Met for Neither Clock Nor Meter, the one directive judged. On the 413 cases: no refusal on any of the 214 turns labelled as breaking nothing, and 15 of 34 breaches caught. The 6 that read as misfires all land on turns labelled as breaking some other rule, and at least three of them break this rule as well — `my web-search budget for this session is spent` among them. So the apparent loss is the answer key rather than the judge.",
     },
     {
       statement: "A refusal takes more than one prompt agreeing that the turn breaks the rule.",
@@ -33,6 +33,16 @@ export const sophiaAgentStopHook = {
       statement: "The code deciding whether to hold a turn open is tested.",
       workingMemory:
         "`judging` in `keep-alan-directives.inference-hook.code.ts` holds the whole decision and has no test. The test file beside it covers `personIn`, `stillWorking` and `SCOPE` and stops there. The hook's own page carries a gap nothing answers: a turn held open twice running says so to the person.",
+    },
+    {
+      statement: "A case names every directive the turn breaks rather than one of them.",
+      workingMemory:
+        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as a turn breaking nothing. 165 of the 413 cases are labelled that way, and the judge fires on 6 of them, three of which plainly break Neither Clock Nor Meter too. Every precision figure taken on this set is understated by that. The rival test says as much on its own page: which rule is named is not weighed, because one turn breaks more than one rule.",
+    },
+    {
+      statement: "Every turn Eppie mined and labelled is a case.",
+      workingMemory:
+        "292 of her 449 trusted rows landed at `c628cb77f3d`, joining the 121 already there. 112 are held back because their text spells a path the index answers for, and `page-path-is-asked-for` refuses them; a case's text is a verbatim quotation of an agent's turn, so rewording it falsifies the case. Those 112 sit at `held-cases.uncommitted.jsonl` beside the test and in her scratchpad under /tmp, which a restart takes. `append-lines-from` is back to carry them and goes once they land.",
     },
   ],
   constraints: ["A refusal reminds an agent of a directive Alan's own page states."],
