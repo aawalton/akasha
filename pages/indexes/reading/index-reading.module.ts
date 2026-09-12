@@ -206,5 +206,13 @@ export const indexReading = {
       invariantKind: "departure",
       statement: "A fixture files a shape's kind as a page type once for each root.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fixture files every field a shape carries rather than a chosen few.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field left out of that filing has a test read a default as what was filed.",
+    },
   ],
 } as const satisfies Module
