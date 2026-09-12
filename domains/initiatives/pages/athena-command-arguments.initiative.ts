@@ -33,7 +33,7 @@ export const athenaCommandArguments = {
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
-        "30 spellings are carried by more than one argument page at `b365d4a17ab`: 19 pairs, 6 triples, 3 quads, `--query` by five and `--to` by six. The `down from 37` was mine and does not reproduce: `e659f26d471` had 216 pages and 10 such spellings, so it rose. No command names two alike, so no call is ambiguous. Each page was minted for one meaning with the contested spelling kept, which claims nothing and changes nothing a caller types. Alan's: does one argument having one spelling rename these 30?\n",
+        "30 spellings are carried by more than one argument page at `b365d4a17ab`: 19 pairs, 6 triples, 3 quads, `--query` by five, `--to` by six. The `down from 37` was mine and does not reproduce: 10 at `e659f26d471` over 216 pages, so it rose. No command names two alike, so no call is ambiguous. An argument already carries two spellings by design: `said` at its flag, `placeholder` as a word, 292 of 340. The command's `saidAs` picks which, over 96 entries. Alan's: does the intent mean the flag alone?\n",
     },
   ],
 } as const satisfies Initiative
