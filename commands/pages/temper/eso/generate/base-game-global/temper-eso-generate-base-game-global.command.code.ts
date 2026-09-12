@@ -6,15 +6,23 @@ import {
   renderSeries,
   stageSeries,
 } from "akasha/code/name-series/name-series.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { esoRoot as esoRootArgument } from "akasha/commands/arguments/pages/eso-root.argument.ts"
+import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"
 import {
   answeredWith,
-  answering,
   DATA,
   naming,
   OK,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  esoAnswering,
+  type Generating,
+  type Taking,
+} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+import { temperEsoGenerateBaseGameGlobal as page } from "akasha/commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
@@ -22,7 +30,6 @@ import {
   extractStringIdNames,
 } from "akasha/temper/commands/eso-base-game-globals/eso-base-game-globals.module.code.ts"
 import {
-  saidFor,
   saidShort,
   stagingAt,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
@@ -33,11 +40,7 @@ import {
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 
-const ESO_ROOT_FLAG = "--eso-root"
-
-const CODE_ROOT_FLAG = "--code-root"
-
-const STAGE_FLAG = "--stage"
+const NAMED = [codeRootArgument, stageArgument, esoRootArgument]
 
 const GENERATED_DIR_REL = "temper/build-deploy-checks"
 
@@ -47,18 +50,29 @@ const BINDING = "ESO_BASE_GAME_STRING_IDS"
 
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
 
-export type Staging = (done: string[], argv: readonly string[], given: Given) => Answer
+type Taken = Taking<typeof page, typeof NAMED>
 
-export async function temperEsoGenerateBaseGameGlobal(
+export type Staging = Generating<Taken>
+
+export async function staging(
   argv: readonly string[],
   given: Given,
-  staging: Staging = staged
+  stagingWork: Staging = staged
 ): Promise<Answer> {
-  return await answering((done) => naming(done, staging(done, argv, given)))
+  return await esoAnswering(argv, given, page, NAMED, async (done, taken, each) =>
+    naming(done, await stagingWork(done, taken, each))
+  )
 }
 
-function staged(done: string[], argv: readonly string[], given: Given): Answer {
-  const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
+export function temperEsoGenerateBaseGameGlobal(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return staging(argv, given)
+}
+
+function staged(done: string[], taken: Taken, given: Given): Answer {
+  const namedCheckout = taken.codeRoot
 
   let checkout: string
   try {
@@ -70,7 +84,7 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
     )
   }
 
-  const namedRoot = saidFor(argv, ESO_ROOT_FLAG)
+  const namedRoot = taken.esoRoot
   const esoRoot = namedRoot === undefined ? esouiSourceDir() : resolve(namedRoot)
   try {
     if (!statSync(esoRoot).isDirectory()) {
@@ -79,7 +93,7 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
   } catch {
     return refused(
       `${esoRoot} is not there. The game's UI source is Zenimax's and is vendored in no repository here — ` +
-        "restore the peer clone with `git clone https://github.com/esoui/esoui.git ~/esoui`, or name another copy with --eso-root",
+        `restore the peer clone with \`git clone https://github.com/esoui/esoui.git ~/esoui\`, or name another copy with ${esoRootArgument.said}`,
       DATA
     )
   }
@@ -135,7 +149,7 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
     checkout,
     spec,
     pages,
-    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX, done),
+    stagingAt(taken.stage, STAGE_PREFIX, done),
     `write the base-game string-id census from the ~/esoui clone at API ${String(apiVersion)}`,
     done
   )

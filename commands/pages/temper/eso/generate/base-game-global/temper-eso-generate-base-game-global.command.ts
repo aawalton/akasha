@@ -6,6 +6,7 @@ export const temperEsoGenerateBaseGameGlobal = {
   slug: "temper-eso-generate-base-game-global",
   definition: "the command staging the census of the string ids the base game provides",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

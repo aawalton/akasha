@@ -4,13 +4,6 @@ import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SCRATCH_PARENT = "/var/tmp"
 
-export function saidFor(argv: readonly string[], flag: string): string | undefined {
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === flag) return argv[at + 1]
-  }
-  return undefined
-}
-
 export function saidShort(thrown: unknown): string {
   return saidBy(thrown).replace(/\s+/g, " ").trim()
 }
