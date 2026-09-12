@@ -2,11 +2,11 @@ import {
   getCurrentlyPlaying,
   getPlaybackState,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { OK, refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const JSON_SAID = "--json"
+import { musicNowPlaying as page } from "akasha/commands/pages/music/now-playing/music-now-playing.command.ts"
 
 const PLAYING = "▶"
 
@@ -87,14 +87,11 @@ export async function nowPlayingWith(
   argv: readonly string[],
   calledAs: string
 ): Promise<Answer> {
-  for (const one of argv) {
-    if (one !== JSON_SAID) {
-      return refused(`\`${one}\` is nothing \`${calledAs}\` takes`, INPUT)
-    }
-  }
+  const taking = takenFor(argv, calledAs, page, [json])
+  if ("refused" in taking) return refusedBy(taking.refused)
   const [state, current] = await Promise.all([read.getPlaybackState(), read.getCurrentlyPlaying()])
   const envelope = envelopeOf(state, current)
-  const report = argv.includes(JSON_SAID) ? [JSON.stringify(envelope)] : [lineOf(envelope)]
+  const report = taking.taken.json ? [JSON.stringify(envelope)] : [lineOf(envelope)]
   return { report, refusals: [], code: OK }
 }
 
