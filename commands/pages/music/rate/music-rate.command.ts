@@ -9,7 +9,6 @@ export const musicRate = {
   test: "ts",
   taking: [
     { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
-    { said: "--reaction <md>", takes: "what Alan said about an artist, for `--target artist`" },
 
     {
       said: "--personal-connections <md>",
@@ -72,5 +71,6 @@ export const musicRate = {
     { argument: "argument/reaction-file" },
     { argument: "argument/personal-connections-file" },
     { argument: "argument/insights-file" },
+    { argument: "argument/reaction", notWith: ["argument/reaction-file"] },
   ],
 } as const satisfies Command
