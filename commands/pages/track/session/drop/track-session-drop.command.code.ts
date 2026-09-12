@@ -3,7 +3,6 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import {
   landed,
   standingFor,
-  taggingFor,
   telling,
 } from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
 import {
@@ -16,8 +15,6 @@ export async function trackSessionDrop(argv: readonly string[], given: Given): P
   const now = new Date()
   const standing = standingFor(argv, given.root, now)
   if (typeof standing === "string") return mistaking([standing])
-  const tagging = taggingFor(argv, given.root)
-  if (tagging.read === "refused") return mistaking(tagging.refusals)
   const found = addressed(argv, standing.rows, now)
   if (typeof found === "string") return mistaking([found])
   const at = standing.rows.indexOf(found)
