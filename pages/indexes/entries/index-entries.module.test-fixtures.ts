@@ -62,6 +62,11 @@ function shapesKept(kept: Kept): ReadonlyMap<string, readonly string[]> {
   return found
 }
 
+export function keptFiled(root: string, kept: Kept): undefined {
+  for (const [type, lines] of kept) lineFiled(root, `value/${type}.jsonl`, lines.join("\n"))
+  for (const [at, lines] of shapesKept(kept)) lineFiled(root, at, lines.join("\n"))
+}
+
 export const scratch = scratchWorld()
 
 export function grounded(): { readonly root: string; readonly repo: string } {
@@ -133,8 +138,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     unique: slugPage.unique,
   })
   propertyKind(kept, "one-of-property")
-  for (const [type, lines] of kept) filed(`value/${type}.jsonl`, lines.join("\n"))
-  for (const [at, lines] of shapesKept(kept)) filed(at, lines.join("\n"))
+  keptFiled(root, kept)
   return { root, repo }
 }
 

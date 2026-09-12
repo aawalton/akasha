@@ -8,6 +8,7 @@ import {
   declaring,
   grounded,
   type Kept,
+  keptFiled,
   propertyKind,
   scratch,
   shaped,
@@ -247,7 +248,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
   })
   shaping(kept, "text-property", "log-text", { propertySlug: "log-text" })
   propertyKind(kept, "page-property-entry")
-  for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
+  keptFiled(root, kept)
   return { root, repo }
 }
 
@@ -308,7 +309,7 @@ function oneOfRecords(): { readonly root: string; readonly repo: string } {
   })
   propertyKind(kept, "record-property")
   propertyKind(kept, "one-of-property")
-  for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
+  keptFiled(root, kept)
   return { root, repo }
 }
 
