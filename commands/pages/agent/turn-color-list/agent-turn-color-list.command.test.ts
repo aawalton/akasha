@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   agentTurnColorList,
   colorsOfStates,
@@ -123,9 +124,9 @@ test("an id no seat ever held is left out rather than refused", () => {
 
 test("a color rewritten under this command is the color it next answers", () => {
   const root = rootWith("chartreuse")
-  const was = optionalEnv("AKASHA_ROOT")
+  const was = optionalEnv(ROOT_NAMED)
   try {
-    process.env["AKASHA_ROOT"] = root
+    process.env[ROOT_NAMED] = root
     const first = agentTurnColorList([STATE, "working"], givenIn())
 
     expect(first.refusals).toEqual([])
@@ -140,8 +141,8 @@ test("a color rewritten under this command is the color it next answers", () => 
       colors: { working: "vermilion" },
     })
   } finally {
-    if (was === undefined) delete process.env["AKASHA_ROOT"]
-    else process.env["AKASHA_ROOT"] = was
+    if (was === undefined) delete process.env[ROOT_NAMED]
+    else process.env[ROOT_NAMED] = was
     rmSync(root, { recursive: true, force: true })
   }
 })
