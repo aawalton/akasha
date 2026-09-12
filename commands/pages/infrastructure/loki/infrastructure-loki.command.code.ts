@@ -1,3 +1,10 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { cursor as cursorArgument } from "akasha/commands/arguments/pages/cursor.argument.ts"
+import { everyLine } from "akasha/commands/arguments/pages/every-line.argument.ts"
+import { kubeNamespace } from "akasha/commands/arguments/pages/kube-namespace.argument.ts"
+import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { pod as podArgument } from "akasha/commands/arguments/pages/pod.argument.ts"
+import { since as sinceArgument } from "akasha/commands/arguments/pages/since.argument.ts"
 import {
   codeOf,
   refusedBy,
@@ -6,6 +13,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { infrastructureLoki as page } from "akasha/commands/pages/infrastructure/loki/infrastructure-loki.command.ts"
 import {
   chooseLogsDiagnostic,
   describeBounds,
@@ -20,22 +28,6 @@ import {
   parseLokiDuration,
   parseLokiPositiveInt,
 } from "akasha/infrastructure/services/clusters/loki-log-fetching/loki-log-fetching.module.code.ts"
-
-const POD = "--pod"
-
-const NAMESPACE = "--namespace"
-
-const SINCE = "--since"
-
-const LIMIT = "--limit"
-
-const CURSOR = "--cursor"
-
-const ALL = "--all"
-
-const VALUED = [POD, NAMESPACE, SINCE, LIMIT, CURSOR]
-
-const NAMESPACE_BY_DEFAULT = "ci"
 
 const SINCE_BY_DEFAULT = "1h"
 
@@ -52,72 +44,38 @@ export type Read =
     }
   | { readonly refused: readonly string[] }
 
-export function readIn(argv: readonly string[]): Read {
+export function readIn(argv: readonly string[], calledAs: string): Read {
+  const read = takenFor(argv, calledAs, page, [
+    limitArgument,
+    podArgument,
+    kubeNamespace,
+    cursorArgument,
+    everyLine,
+    sinceArgument,
+  ])
+  if ("refused" in read) return { refused: read.refused }
+  const taken = read.taken
   const refusals: string[] = []
-  const words: string[] = []
-  const said = new Map<string, string>()
-  let all = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (VALUED.includes(one)) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined || value.startsWith("-")) {
-        refusals.push(`\`${one}\` names a value, and none followed it`)
-        continue
-      }
-      said.set(one, value)
-      continue
-    }
-    if (one === ALL) {
-      all = true
-      continue
-    }
-    if (one.startsWith("-")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${[...VALUED, ALL].join("`, `")}\``
-      )
-      continue
-    }
-    words.push(one)
-  }
-  if (words.length > 1) {
-    refusals.push(`\`${words[1]}\` follows the pod, and one call names one pod`)
-  }
-  const loose = words[0]
-  if (loose !== undefined) {
-    if (said.has(POD)) {
-      refusals.push(`\`${loose}\` sits where the pod goes, and \`${POD}\` already names one`)
-    } else {
-      said.set(POD, loose)
-    }
-  }
-  const pod = said.get(POD)
-  if (pod === undefined) {
-    refusals.push(`the pod is said as the first word or with \`${POD}\`, and neither was said`)
-  }
-  const namespace = said.get(NAMESPACE) ?? NAMESPACE_BY_DEFAULT
-  const since = said.get(SINCE) ?? SINCE_BY_DEFAULT
+  const since = taken.since ?? SINCE_BY_DEFAULT
   try {
-    parseLokiDuration(SINCE, since)
+    parseLokiDuration(sinceArgument.said, since)
   } catch (thrown) {
     refusals.push(whyOf(thrown))
   }
   let limit = 0
   try {
-    limit = parseLokiPositiveInt(LIMIT, said.get(LIMIT) ?? LIMIT_BY_DEFAULT)
+    limit = parseLokiPositiveInt(limitArgument.said, String(taken.limit ?? LIMIT_BY_DEFAULT))
   } catch (thrown) {
     refusals.push(whyOf(thrown))
   }
-  if (refusals.length > 0 || pod === undefined) return { refused: refusals }
+  if (refusals.length > 0) return { refused: refusals }
   return {
-    pod,
-    namespace,
+    pod: taken.pod,
+    namespace: taken.kubeNamespace,
     since,
     limit,
-    cursor: said.get(CURSOR) ?? null,
-    all,
+    cursor: taken.cursor ?? null,
+    all: taken.everyLine,
   }
 }
 
@@ -174,7 +132,7 @@ async function fetching(
 }
 
 export async function infrastructureLoki(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = readIn(argv, given.calledAs)
   if ("refused" in read) return refusedBy(read.refused)
   try {
     return await fetching(read, given.calledAs)

@@ -5,8 +5,10 @@ import {
   readIn,
 } from "akasha/commands/pages/infrastructure/loki/infrastructure-loki.command.code.ts"
 
+const CALLED = "akasha infrastructure loki"
+
 function given(root: string): Given {
-  return { root, calledAs: "akasha infrastructure loki", from: root, writer: null, agentId: null }
+  return { root, calledAs: CALLED, from: root, writer: null, agentId: null }
 }
 
 test("nothing said is refused, naming how the pod is said", async () => {
@@ -16,22 +18,22 @@ test("nothing said is refused, naming how the pod is said", async () => {
 })
 
 test("a second word after the pod is refused", () => {
-  expect("refused" in readIn(["my-pod", "other-pod"])).toBe(true)
+  expect("refused" in readIn(["my-pod", "other-pod"], CALLED)).toBe(true)
 })
 
 test("a pod said as a word sits where the flag would", () => {
-  const read = readIn(["my-pod"])
+  const read = readIn(["my-pod"], CALLED)
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
   expect(read.pod).toBe("my-pod")
 })
 
 test("a pod said twice, once as a word and once as a flag, is refused", () => {
-  expect("refused" in readIn(["my-pod", "--pod", "other-pod"])).toBe(true)
+  expect("refused" in readIn(["my-pod", "--pod", "other-pod"], CALLED)).toBe(true)
 })
 
 test("the namespace, the window and the limit hold where none is said", () => {
-  const read = readIn(["my-pod"])
+  const read = readIn(["my-pod"], CALLED)
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
   expect(read.namespace).toBe("ci")
@@ -40,12 +42,12 @@ test("the namespace, the window and the limit hold where none is said", () => {
 })
 
 test("a window in no unit this reads is refused", () => {
-  expect("refused" in readIn(["my-pod", "--since", "1 fortnight"])).toBe(true)
+  expect("refused" in readIn(["my-pod", "--since", "1 fortnight"], CALLED)).toBe(true)
 })
 
 test("a limit that is no positive whole number is refused", () => {
-  expect("refused" in readIn(["my-pod", "--limit", "0"])).toBe(true)
-  expect("refused" in readIn(["my-pod", "--limit", "-3"])).toBe(true)
+  expect("refused" in readIn(["my-pod", "--limit", "0"], CALLED)).toBe(true)
+  expect("refused" in readIn(["my-pod", "--limit", "-3"], CALLED)).toBe(true)
 })
 
 test("a flag it does not take is refused", async () => {
@@ -55,11 +57,11 @@ test("a flag it does not take is refused", async () => {
 })
 
 test("a valued flag naming no value is refused", () => {
-  expect("refused" in readIn(["my-pod", "--since"])).toBe(true)
+  expect("refused" in readIn(["my-pod", "--since"], CALLED)).toBe(true)
 })
 
 test("reaching every line is read, and it names no cursor", () => {
-  const read = readIn(["my-pod", "--all"])
+  const read = readIn(["my-pod", "--all"], CALLED)
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
   expect(read.all).toBe(true)
