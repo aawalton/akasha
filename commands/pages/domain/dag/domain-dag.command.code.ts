@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
 import {
@@ -56,6 +57,6 @@ export function readIn(argv: readonly string[]): Read {
 
 export function domainDag(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   return answeredBy(() => dagLines(read, resolve(given.root)))
 }

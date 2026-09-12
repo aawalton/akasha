@@ -2,6 +2,7 @@ import { writeDailyReading } from "akasha/alan/track/daily/write-daily-points/wr
 import {
   faulted,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -32,7 +33,7 @@ export async function trackWeight(argv: readonly string[], _given: Given): Promi
   const day = saidFor(argv, DAY) ?? dayNow(new Date())
   try {
     const outcome = await writeDailyReading(day, "bodyweight", pounds)
-    return { report: [`${day}  ${String(pounds)} lb  ${outcome}`], refusals: [], code: 0 }
+    return told([`${day}  ${String(pounds)} lb  ${outcome}`])
   } catch (thrown) {
     return faulted(thrown)
   }
