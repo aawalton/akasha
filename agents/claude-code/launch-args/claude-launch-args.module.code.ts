@@ -22,6 +22,7 @@ export type InteractiveCLIArgsOpts = {
   resume: SeatResume
   sessionId: string
   sessionName: string | null
+  remoteControlName: string | null
   systemPromptFile: string | null
   model: string
   fallbackModel: string | null
@@ -37,6 +38,10 @@ export function buildInteractiveCLIArgs(opts: InteractiveCLIArgsOpts): readonly 
   }
   if (opts.sessionName !== null && opts.sessionName !== "") {
     cliArgs.push("--name", opts.sessionName)
+  }
+
+  if (opts.remoteControlName !== null && opts.remoteControlName !== "") {
+    cliArgs.push(`--remote-control=${opts.remoteControlName}`)
   }
 
   cliArgs.push("--model", opts.model)

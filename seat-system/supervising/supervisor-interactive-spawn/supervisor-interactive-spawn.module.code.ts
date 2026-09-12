@@ -140,6 +140,7 @@ export async function buildIterationSpawnOpts(args: {
     resume,
     sessionId,
     sessionName: seatNameForAgent(agentId),
+    remoteControlName: remoteControlOn ? seatNameForAgent(agentId) : null,
     systemPromptFile,
     model,
     fallbackModel,

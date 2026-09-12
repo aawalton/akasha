@@ -15,5 +15,14 @@ export const claudeLaunchArgs = {
       invariantKind: "departure",
       statement: "The name a child is started under is the live name and the durable title both.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A child whose remote control is on names its remote control session for the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A remote control session left unnamed is named for the machine and two words.",
+    },
   ],
 } as const satisfies Module
