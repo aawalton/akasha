@@ -1,7 +1,3 @@
-import {
-  type CraftedSetEntry,
-  SETS,
-} from "akasha/temper/crafting-addon/craft-sets-data/craft-sets-data.module.code.ts"
 import type { StyleApi } from "akasha/temper/crafting-addon/craft-styles-data/craft-styles-data.module.code.ts"
 import {
   CHAMPION_POINTS_TEXTURE,
@@ -30,6 +26,10 @@ import {
   RUNE,
   type RuneTable,
 } from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
+import {
+  type CraftedSetEntry,
+  SETS,
+} from "akasha/temper/crafting-addon/modules/craft-sets-data/craft-sets-data.module.code.ts"
 
 export interface StyleNameRow {
   name: string

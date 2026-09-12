@@ -1,8 +1,8 @@
-import { SETS } from "akasha/temper/crafting-addon/craft-sets-data/craft-sets-data.module.code.ts"
 import { CB_UPDATE_PLAYER } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as Characters from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
+import { SETS } from "akasha/temper/crafting-addon/modules/craft-sets-data/craft-sets-data.module.code.ts"
 
 interface TimerEntry {
   id: string

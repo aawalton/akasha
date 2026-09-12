@@ -1,7 +1,3 @@
-import {
-  type CraftedSetEntry,
-  SETS,
-} from "akasha/temper/crafting-addon/craft-sets-data/craft-sets-data.module.code.ts"
 import * as StyleTracking from "akasha/temper/crafting-addon/craft-style-tracking/craft-style-tracking.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
@@ -15,6 +11,10 @@ import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craf
 import type { NameSortable } from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import * as PlayerState from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import * as ResearchGrid from "akasha/temper/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import {
+  type CraftedSetEntry,
+  SETS,
+} from "akasha/temper/crafting-addon/modules/craft-sets-data/craft-sets-data.module.code.ts"
 
 function asWidth(this: void, value: unknown): number {
   return value as number
