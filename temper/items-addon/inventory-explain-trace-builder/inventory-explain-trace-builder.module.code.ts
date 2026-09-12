@@ -27,12 +27,12 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
+import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import type {
   RuleEvalResult,
   WalkTrace,
-} from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
-import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
+} from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 

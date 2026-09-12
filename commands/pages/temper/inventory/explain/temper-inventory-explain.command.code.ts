@@ -35,13 +35,13 @@ import {
   type TtcBreakdown,
 } from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import type {
   IndeterminateReason,
   RejectionReason,
   RuleEvalResult,
   WalkOutcome,
-} from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+} from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [

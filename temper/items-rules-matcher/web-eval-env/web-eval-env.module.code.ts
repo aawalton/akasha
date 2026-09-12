@@ -11,7 +11,7 @@ import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/scribing-tota
 import type {
   EvalEnv,
   WantedEquipmentFacts,
-} from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+} from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface WebEnvExtras {

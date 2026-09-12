@@ -1,9 +1,9 @@
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import type {
   EvalContext,
   EvalEnv,
-} from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+} from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 
 const STUB_ENV: EvalEnv = {
   isKnownByCharacter: () => "unknown",

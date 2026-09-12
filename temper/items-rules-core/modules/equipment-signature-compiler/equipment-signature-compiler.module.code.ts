@@ -14,7 +14,7 @@ import {
   PLAYER_ARMOR_TRAIT_TO_ESO,
   PLAYER_JEWELRY_TRAIT_TO_ESO,
   PLAYER_WEAPON_TRAIT_TO_ESO,
-} from "akasha/temper/equipment/eso-trait-map/eso-trait-map.module.code.ts"
+} from "akasha/temper/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { jewelrySlots } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import { armorSlots } from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"

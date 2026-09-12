@@ -9,7 +9,7 @@ import {
   temperEsoGenerateDeclaration,
   typeFaultsIn,
 } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
-import type { SelectedTokens } from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
+import type { SelectedTokens } from "akasha/temper/eso-declaration/modules/eso-token-scope/eso-token-scope.module.code.ts"
 
 const NOTHING: SelectedTokens = { functions: [], objects: [], events: [], enums: [] }
 

@@ -31,10 +31,6 @@ import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.t
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
-  type SelectedTokens,
-  selectOptIn,
-} from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
-import {
   generateEnumsFile,
   generateEventsFile,
   generateFunctionsFile,
@@ -48,6 +44,10 @@ import {
   typeFaultIn,
 } from "akasha/temper/eso-declaration/modules/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 import { ESO_OPT_IN } from "akasha/temper/eso-declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"
+import {
+  type SelectedTokens,
+  selectOptIn,
+} from "akasha/temper/eso-declaration/modules/eso-token-scope/eso-token-scope.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,

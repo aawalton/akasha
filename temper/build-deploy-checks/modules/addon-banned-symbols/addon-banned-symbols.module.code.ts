@@ -1,3 +1,4 @@
+import { scanningBundleFile } from "akasha/temper/build-deploy-checks/modules/bundle-file-scan/bundle-file-scan.module.code.ts"
 import {
   ESO_AVAILABLE_COROUTINE,
   ESO_AVAILABLE_DEBUG,
@@ -8,8 +9,7 @@ import {
   ESO_AVAILABLE_UTF8,
   ESO_STRIPPED_GLOBALS,
   ESO_WHOLLY_STRIPPED_NAMESPACES,
-} from "akasha/temper/build-deploy-checks/eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts"
-import { scanningBundleFile } from "akasha/temper/build-deploy-checks/modules/bundle-file-scan/bundle-file-scan.module.code.ts"
+} from "akasha/temper/build-deploy-checks/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts"
 import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 
