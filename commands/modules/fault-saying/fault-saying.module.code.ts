@@ -1,4 +1,4 @@
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { oneLine } from "akasha/utils/text/modules/one-line/one-line.module.code.ts"
 
 const FRAME_AT = /^\s+at (?:.+ )?\(?(\/[^\s()]+:\d+:\d+)\)?$/

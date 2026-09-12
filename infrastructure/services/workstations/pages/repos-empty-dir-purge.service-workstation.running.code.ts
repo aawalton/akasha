@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import { runBinary } from "akasha/infrastructure/services/workstations/modules/binary-running/binary-running.module.code.ts"
-import { runOf } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
+import { runOf } from "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
 
 const STARTS = "shell-script/repos-empty-dir-purge"

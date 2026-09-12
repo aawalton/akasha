@@ -4,7 +4,7 @@ import {
   type Verdicts,
   verdictsRead,
 } from "akasha/checks/modules/audit-verdict/audit-verdict.module.code.ts"
-import { endingOf, ran } from "akasha/utils/run/running/running.module.code.ts"
+import { endingOf, ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const UNIT = "audit-running.service"
 

@@ -14,7 +14,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getActionLabel } from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
-import { RuleNotesDialog } from "akasha/temper/player-inventory-management-ui/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
+import { RuleNotesDialog } from "akasha/temper/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
 
 interface ItemRuleCardDialogsProps {
   rule: ItemRule

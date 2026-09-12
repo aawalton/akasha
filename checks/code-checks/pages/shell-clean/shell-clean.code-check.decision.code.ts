@@ -3,7 +3,7 @@ import { everyFileOf } from "akasha/checks/modules/change-walking/change-walking
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SH = ".sh"
 

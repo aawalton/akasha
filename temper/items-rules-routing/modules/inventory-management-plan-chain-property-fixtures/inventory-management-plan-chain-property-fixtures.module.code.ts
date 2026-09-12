@@ -4,7 +4,7 @@ import type {
   CategoryRule,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { makeStackableItem } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
 import {
   ESO_BAG_BACKPACK,

@@ -1,11 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
-import { instantMs } from "akasha/alan/harness/health-samples-access/sample-identity/sample-identity.module.code.ts"
-import { recordOf } from "akasha/alan/harness/health-samples-access/sample-rows/sample-rows.module.code.ts"
+import { instantMs } from "akasha/alan/harness/health-samples-access/modules/sample-identity/sample-identity.module.code.ts"
+import { recordOf } from "akasha/alan/harness/health-samples-access/modules/sample-rows/sample-rows.module.code.ts"
 import {
   checkoutRoot,
   sampleRowsAt,
-} from "akasha/alan/harness/health-samples-access/sample-selecting/sample-selecting.module.code.ts"
-import type { HealthMetric } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
+} from "akasha/alan/harness/health-samples-access/modules/sample-selecting/sample-selecting.module.code.ts"
+import type { HealthMetric } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
 import { z } from "zod"
 
 const DAY_MS = 86400000

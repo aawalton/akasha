@@ -2,7 +2,7 @@ import {
   HEALTH_METRIC_UNIT,
   type HealthSample,
   type HealthMetric as StoredMetric,
-} from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
+} from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
 import type {
   HealthMetric,
   HealthRecord,

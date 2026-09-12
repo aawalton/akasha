@@ -39,7 +39,7 @@ const relay = await import(
 )
 
 const composing = await import(
-  "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
+  "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"
 )
 
 const checkout = await import(
@@ -58,7 +58,7 @@ mock.module(
 )
 
 mock.module(
-  "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts",
+  "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts",
   () => ({
     ...composing,
     pathOf: (_root: string, point: string) =>

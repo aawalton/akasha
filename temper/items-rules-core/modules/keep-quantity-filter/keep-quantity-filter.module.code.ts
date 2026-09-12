@@ -5,7 +5,7 @@ import type {
 import type {
   FilterOption,
   InventoryRuleFilter,
-} from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
 const OUTBOUND_ACTIONS: ReadonlySet<ItemAction> = new Set([
   "sell",

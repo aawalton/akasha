@@ -26,7 +26,7 @@ import {
   getCurrentSessionIdForSelfHeal,
 } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const MODULE = "module"
 

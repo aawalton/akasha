@@ -10,7 +10,7 @@ import type {
   InventoryRuleSettings,
   ItemRule,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { ruleFingerprint } from "akasha/temper/items-rules-core/rule-fingerprint/rule-fingerprint.module.code.ts"
+import { ruleFingerprint } from "akasha/temper/items-rules-core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
 import { useDeferredValue, useMemo } from "react"
 
 export interface AssembledInventoryRules {

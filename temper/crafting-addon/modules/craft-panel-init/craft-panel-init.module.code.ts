@@ -3,7 +3,7 @@ import * as ResearchGrid from "akasha/temper/crafting-addon/modules/craft-resear
 import * as RuneCrafting from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
-import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
+import { runeShowMode } from "akasha/temper/crafting-addon/modules/rune-mode/rune-mode.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

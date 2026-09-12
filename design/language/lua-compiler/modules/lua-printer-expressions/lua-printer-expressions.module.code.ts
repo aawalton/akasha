@@ -17,7 +17,7 @@ import {
   rightAssociativeOperators,
   type SourceChunk,
 } from "akasha/design/language/lua-compiler/modules/lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import { isValidLuaIdentifier } from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"
+import { isValidLuaIdentifier } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
 import { SourceNode } from "source-map"
 
 export function printExpression(

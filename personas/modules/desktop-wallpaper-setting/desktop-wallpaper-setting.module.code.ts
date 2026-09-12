@@ -12,7 +12,7 @@ import {
   orderedWallpaperSlugs,
   type WallpaperRow,
 } from "akasha/personas/wallpaper-order/wallpaper-order.module.code.ts"
-import { NO_CODE, ran, type Said } from "akasha/utils/run/running/running.module.code.ts"
+import { NO_CODE, ran, type Said } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const PERSONA = "persona"
 

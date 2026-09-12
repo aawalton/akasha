@@ -12,7 +12,7 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
 

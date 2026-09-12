@@ -1,7 +1,7 @@
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { bytes, ran } from "akasha/utils/run/running/running.module.code.ts"
+import { bytes, ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const OBJECT_ID = /^[0-9a-f]{40,64}$/
 

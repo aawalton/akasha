@@ -1,9 +1,9 @@
-import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import {
   commandOf,
   type Refused,
   runOf,
-} from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"
+import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import type {
   Service,
   Started,

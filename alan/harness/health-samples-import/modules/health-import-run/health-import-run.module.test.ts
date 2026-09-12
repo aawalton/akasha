@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtemp, rm } from "node:fs/promises"
 import { join } from "node:path"
-import type { HealthSampleWriteReport } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
+import type { HealthSampleWriteReport } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
 import {
   type ImportRunDeps,
   type ImportRunOptions,

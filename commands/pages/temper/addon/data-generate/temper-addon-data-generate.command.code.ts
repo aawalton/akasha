@@ -16,7 +16,7 @@ import {
   EquipmentMappingsStale,
   generateAddonData,
 } from "akasha/temper/addon-data/modules/generate-addon-data/generate-addon-data.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

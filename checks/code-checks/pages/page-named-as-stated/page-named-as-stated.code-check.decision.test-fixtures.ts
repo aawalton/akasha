@@ -5,7 +5,7 @@ import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { bodiesIn, bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const ROOT = "/repo"
 

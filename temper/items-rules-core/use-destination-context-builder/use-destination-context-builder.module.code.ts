@@ -11,7 +11,7 @@ import { getRecipeResultId } from "akasha/temper/items-core/modules/recipe-resul
 import {
   lookupKnownMotifChapters,
   type RuleMatcherContext,
-} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   type CharacterId,
   characterId,

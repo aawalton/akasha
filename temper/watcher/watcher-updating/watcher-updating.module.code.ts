@@ -1,7 +1,7 @@
 import { existsSync, renameSync, unlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { isSourceRuntime } from "akasha/temper/watcher/watcher-runtime/watcher-runtime.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
 export const SOURCE_UPDATE_EXIT_CODE = 75

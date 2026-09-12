@@ -22,7 +22,7 @@ import {
   setLocalPosition,
 } from "akasha/alan/web/modules/offline-text-cache/offline-text-cache.module.code.ts"
 import { reportReadCompletionDiag } from "akasha/alan/web/modules/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const CACHE_INDEX_PATH = "chapters-cache.json"
 const COMPLETION_QUEUE_PATH = "completion-queue.json"

@@ -11,8 +11,8 @@ import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const MODEL_CHECK_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 

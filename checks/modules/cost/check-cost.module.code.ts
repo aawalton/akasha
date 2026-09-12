@@ -7,7 +7,7 @@ import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.
 import { uncommittedPartAt } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
 import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
-import { spentRelaying } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
+import { spentRelaying } from "akasha/utils/run/modules/run-relaying/run-relaying.module.code.ts"
 
 const ENTRIES = "entries"
 

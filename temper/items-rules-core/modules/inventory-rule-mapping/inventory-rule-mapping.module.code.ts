@@ -10,8 +10,8 @@ import type {
 import type { InventoryConfig } from "akasha/temper/items-rules-core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { INVENTORY_CONFIG_DEFAULTS } from "akasha/temper/items-rules-core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { buildItemCategoryActions } from "akasha/temper/items-rules-core/modules/item-category-actions/item-category-actions.module.code.ts"
-import { resolveRuleConditionStates } from "akasha/temper/items-rules-core/rule-condition-states/rule-condition-states.module.code.ts"
-import { collectDestinations } from "akasha/temper/items-rules-core/rule-destinations/rule-destinations.module.code.ts"
+import { resolveRuleConditionStates } from "akasha/temper/items-rules-core/modules/rule-condition-states/rule-condition-states.module.code.ts"
+import { collectDestinations } from "akasha/temper/items-rules-core/modules/rule-destinations/rule-destinations.module.code.ts"
 import { collectTraitActions } from "akasha/temper/items-rules-core/trait-actions/trait-actions.module.code.ts"
 
 export function rulesToInventoryConfig(

@@ -8,7 +8,7 @@ import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.mo
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const ROOT = "/repo"
 

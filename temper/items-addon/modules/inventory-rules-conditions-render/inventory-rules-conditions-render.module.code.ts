@@ -1,7 +1,7 @@
 import { compareWithOp } from "akasha/temper/items-rules-core/modules/comparison-op/comparison-op.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { resolveThreshold } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
+import { resolveThreshold } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
 export interface MatchContext {
   quality: number

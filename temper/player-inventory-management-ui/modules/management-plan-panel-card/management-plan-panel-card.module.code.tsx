@@ -20,7 +20,7 @@ import {
   decideManagementPlanPanelState,
   type InventoryReadState,
   type ManagementPlanPanelState,
-} from "akasha/temper/player-inventory-management-ui/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
 import {
   type ValueExplanationData,
   ValueExplanationDialog,

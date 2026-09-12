@@ -15,7 +15,7 @@ import {
   type Carried,
   propertiesOf,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { z } from "zod"
 

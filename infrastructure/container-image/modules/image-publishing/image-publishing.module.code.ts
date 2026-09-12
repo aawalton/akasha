@@ -19,7 +19,7 @@ import {
   REGISTRY,
   refFor,
 } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const BUILDER = "tcp://buildkit.buildkit.svc.cluster.local:1234"
 const BUILDKIT_VERSION = "v0.28.0"

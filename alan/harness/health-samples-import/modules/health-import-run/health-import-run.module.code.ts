@@ -2,7 +2,7 @@ import type {
   HealthSample,
   HealthSampleWriteReport,
   HealthMetric as StoredMetric,
-} from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
+} from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
 import {
   parseExportDateLine,
   parseRecordLine,

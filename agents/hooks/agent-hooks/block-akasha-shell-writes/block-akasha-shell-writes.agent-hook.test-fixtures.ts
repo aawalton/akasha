@@ -4,7 +4,7 @@ import { refusalFor } from "akasha/agents/hooks/agent-hooks/block-akasha-shell-w
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const scratch = scratchWorld()
 

@@ -2,8 +2,8 @@ import { encodeObjectStoreKey } from "akasha/infrastructure/storage/object-store
 import {
   MULTIPART_THRESHOLD_BYTES,
   s3PutObjectMultipart,
-} from "akasha/infrastructure/storage/object-store/s3-multipart/s3-multipart.module.code.ts"
-import { signS3Request } from "akasha/infrastructure/storage/object-store/s3-signing/s3-signing.module.code.ts"
+} from "akasha/infrastructure/storage/object-store/modules/s3-multipart/s3-multipart.module.code.ts"
+import { signS3Request } from "akasha/infrastructure/storage/object-store/modules/s3-signing/s3-signing.module.code.ts"
 import {
   type SeaweedFSConfig,
   seaweedFsConfigFromEnv,

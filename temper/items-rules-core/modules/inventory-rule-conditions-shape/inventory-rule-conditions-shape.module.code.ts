@@ -1,5 +1,5 @@
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
+import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
 import { z } from "zod"
 
 const COMPARISON_OP_SCHEMA = z.enum(["<", "<=", "=", ">=", ">"])

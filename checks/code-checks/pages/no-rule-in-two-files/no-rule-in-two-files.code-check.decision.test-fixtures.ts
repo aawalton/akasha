@@ -12,7 +12,7 @@ import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const CAMEL = `function camel(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())

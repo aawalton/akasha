@@ -10,11 +10,11 @@ import type {
   CompanionBuildInput,
   CompletionCharacterInput,
   CompletionCompanionInput,
-} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   compileWantedEquipment as compileCharacterSignatures,
   compileWantedCompanionEquipment as compileCompanionSignatures,
-} from "akasha/temper/items-rules-matcher/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 
 export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"

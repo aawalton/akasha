@@ -3,7 +3,7 @@ import type { CategoryRule } from "akasha/temper/items-rules-core/modules/invent
 import type {
   FilterOption,
   InventoryRuleFilter,
-} from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
 export const LOCATION_OPTIONS: readonly FilterOption[] = [
   { value: "worn", label: "Worn (Equipped)" },

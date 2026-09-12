@@ -10,7 +10,7 @@ import {
   AuthPageContent as DSAuthPageContent,
 } from "akasha/design/interfaces/patterns/modules/auth-page-content/auth-page-content.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
+import { safeInternalPath } from "akasha/pages/url/modules/safe-target/safe-target.module.code.ts"
 import {
   clearLastPath,
   getLastPath,

@@ -16,7 +16,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import {
   createSafeName,
   isUnsafeName,
-} from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
 import {
   performHoisting,
   ScopeType,

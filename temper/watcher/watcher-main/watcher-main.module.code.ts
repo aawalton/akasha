@@ -34,7 +34,7 @@ import {
 } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
 import { resolveWatcherToken } from "akasha/temper/watcher/watcher-token/watcher-token.module.code.ts"
 import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const POLL_INTERVAL_MS = 2000
 

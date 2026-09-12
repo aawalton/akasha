@@ -39,7 +39,7 @@ import {
   type SignedInReader,
   signedInUserId,
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const COMPLETION_TO_DO = "import this completion"
 

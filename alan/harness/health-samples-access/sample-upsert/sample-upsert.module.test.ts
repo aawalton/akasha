@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { sampleIdentity } from "akasha/alan/harness/health-samples-access/sample-identity/sample-identity.module.code.ts"
-import type { HealthSample } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
+import { sampleIdentity } from "akasha/alan/harness/health-samples-access/modules/sample-identity/sample-identity.module.code.ts"
+import type { HealthSample } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
 import {
   landDay,
   mergedInto,

@@ -32,7 +32,7 @@ import {
   parsePositionWriteDetail,
 } from "akasha/pages/ui/components/modules/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { useEffect, useRef } from "react"
 
 const DOWN_SYNC_CONCURRENCY = 5

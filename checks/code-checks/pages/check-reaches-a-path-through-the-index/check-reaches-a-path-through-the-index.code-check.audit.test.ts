@@ -7,7 +7,7 @@ import { scratch, staged } from "akasha/checks/modules/staging/check-staging.mod
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 afterAll(scratch.sweep)
 

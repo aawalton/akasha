@@ -3,8 +3,8 @@ import type {
   ItemAction,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
-import type { InventoryRuleFilter } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 const read = (c: CategoryRule["conditions"]): RequiredCurseStateCondition | undefined =>
   c?.requiredCurseState !== undefined ? c.requiredCurseState : undefined

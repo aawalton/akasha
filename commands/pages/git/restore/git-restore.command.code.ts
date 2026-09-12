@@ -17,7 +17,7 @@ import { gitRestore as page } from "akasha/commands/pages/git/restore/git-restor
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { anythingThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const HEAD = "HEAD"
 

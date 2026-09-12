@@ -5,11 +5,11 @@ import type { InventoryDatabase } from "akasha/temper/items-core/modules/invento
 import type {
   CharacterBuildInput,
   RuleMatcherContext,
-} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   buildDerivedContext,
   mergeInventoryContext,
-} from "akasha/temper/items-rules-matcher/rule-matcher-context/rule-matcher-context.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/rule-matcher-context/rule-matcher-context.module.code.ts"
 import {
   useCompletionCharacters,
   useCompletionCompanions,

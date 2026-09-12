@@ -17,7 +17,7 @@ import { temperCommunityAddonInstall as page } from "akasha/commands/pages/tempe
 import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import { installNamedAddon } from "akasha/temper/community-addons/modules/install-named-addon/install-named-addon.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, force, communityAddon]
 

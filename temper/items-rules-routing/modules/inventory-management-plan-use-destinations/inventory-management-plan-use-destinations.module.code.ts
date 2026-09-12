@@ -7,7 +7,7 @@ import type {
   ItemRule,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildStockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
 import { planStockDestinationsForStack } from "akasha/temper/items-rules-core/stock-destination-planner/stock-destination-planner.module.code.ts"
 import type { StockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-types/stock-destination-types.module.code.ts"

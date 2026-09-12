@@ -5,7 +5,7 @@ import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.m
 import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const ROOT = "/repo"
 

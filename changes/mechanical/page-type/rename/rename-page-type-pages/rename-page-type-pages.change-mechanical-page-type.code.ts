@@ -8,7 +8,7 @@ import {
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { typeSlugIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Asked = {
   readonly at: string

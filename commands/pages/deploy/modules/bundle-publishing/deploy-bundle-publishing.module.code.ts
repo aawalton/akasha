@@ -12,7 +12,7 @@ import {
   packedBundle,
 } from "akasha/temper/addon-build/modules/addon-bundling/addon-bundling.module.code.ts"
 import { compiledEveryAddon } from "akasha/temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const PUSH_CEILING_MS = 5 * 60 * 1000
 

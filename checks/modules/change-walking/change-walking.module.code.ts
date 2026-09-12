@@ -20,7 +20,7 @@ import { type Loaded, loadedFrom } from "akasha/pages/modules/value/page-value.m
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { isMissing } from "akasha/utils/fs/modules/missing/missing.module.code.ts"
 import { sortedOnce } from "akasha/utils/narrow/sorted-once/sorted-once.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export type Body = {
   readonly root: string

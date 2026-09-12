@@ -6,7 +6,7 @@ import {
 import {
   normalize,
   type VocabularyEntry,
-} from "akasha/alan/harness/rules-engine/rule-vocabulary/rule-vocabulary.module.code.ts"
+} from "akasha/alan/harness/rules-engine/modules/rule-vocabulary/rule-vocabulary.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const TYPE = "monarch-merchant"

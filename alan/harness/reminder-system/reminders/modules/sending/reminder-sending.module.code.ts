@@ -6,7 +6,7 @@ import {
   uncommittedIn,
 } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
 const TOOK = "change-mechanical-file/remove-file"

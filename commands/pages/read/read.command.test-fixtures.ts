@@ -27,7 +27,7 @@ import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.co
 import { mintedId } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
-import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
+import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const CALLED_AS = "akasha read"
 

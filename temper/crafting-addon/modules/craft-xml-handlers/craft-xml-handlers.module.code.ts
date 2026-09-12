@@ -4,7 +4,7 @@ import { recipeShowCategory } from "akasha/temper/crafting-addon/modules/craft-r
 import { runeSetValue } from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { controlShow } from "akasha/temper/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
-import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
+import { runeShowMode } from "akasha/temper/crafting-addon/modules/rune-mode/rune-mode.module.code.ts"
 
 export type CoordKey = "style" | "recipe" | "blueprint" | "rune" | "cook" | "overview"
 export type AnchorKey = "button" | "questbox" | "position"

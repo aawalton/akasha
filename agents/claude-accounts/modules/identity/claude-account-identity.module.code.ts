@@ -14,7 +14,7 @@ import { accountPathIn } from "akasha/agents/claude-accounts/modules/reading/cla
 import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { removeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const PROBE_TIMEOUT_MS = 750
 

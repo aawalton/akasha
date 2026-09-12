@@ -12,7 +12,7 @@ import {
   IMPLICIT_TERMINAL_RULE_ID,
   type ItemRule,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import {
   type AllRuleAffectedItemsCache,

@@ -8,7 +8,7 @@ import {
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { typedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 

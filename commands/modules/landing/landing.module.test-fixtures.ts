@@ -32,7 +32,7 @@ import { textProperty } from "akasha/pages/text-properties/text-property.page-ty
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
+import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 

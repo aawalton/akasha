@@ -8,7 +8,7 @@ import {
 } from "akasha/infrastructure/services/clusters/workload-deploying/workload-deploying.module.code.ts"
 import { quoted } from "akasha/shell/modules/quoting/quoting.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
+import { ran as running } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const GIT = "git"
 const BUN = "bun"

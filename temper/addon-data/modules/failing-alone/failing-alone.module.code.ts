@@ -1,4 +1,4 @@
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export function rendered(
   w: (dir: string, name: string, source: string) => Promise<number>,

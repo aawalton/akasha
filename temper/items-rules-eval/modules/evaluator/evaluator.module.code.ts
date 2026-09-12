@@ -10,7 +10,7 @@ import type {
   WalkTrace,
 } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
-import { evaluateConditions } from "akasha/temper/items-rules-eval/rule-condition-eval/rule-condition-eval.module.code.ts"
+import { evaluateConditions } from "akasha/temper/items-rules-eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts"
 
 export function evaluateRule(
   rule: CompiledOrderedRule,

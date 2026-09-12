@@ -16,8 +16,8 @@ import {
   getNodePath,
 } from "akasha/temper/items-rules-core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { LOCATION_OPTIONS } from "akasha/temper/items-rules-core/modules/location-filter/location-filter.module.code.ts"
-import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
-import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"
+import type { FilterId } from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"
 import {
   getTraitFamily,

@@ -17,7 +17,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { quoted } from "akasha/shell/modules/quoting/quoting.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { ran as spawned } from "akasha/utils/run/running/running.module.code.ts"
+import { ran as spawned } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
 const HOST_ENV = "AKASHA_MAC_HOST"

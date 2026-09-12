@@ -1,6 +1,6 @@
 "use client"
 
-import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import type { FilterId } from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { RuleCardFilterChipCanLevelMorphs } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chip-can-level-morphs/rule-card-filter-chip-can-level-morphs.module.code.tsx"
 import { RuleCardFilterChipPotionEffects } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chip-potion-effects/rule-card-filter-chip-potion-effects.module.code.tsx"
 import { RuleCardFilterChipRequiredCurseState } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chip-required-curse-state/rule-card-filter-chip-required-curse-state.module.code.tsx"

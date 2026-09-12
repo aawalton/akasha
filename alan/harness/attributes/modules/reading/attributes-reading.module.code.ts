@@ -26,7 +26,7 @@ import {
   AKASHA,
   resolveRoots,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const READOUTS = "alan/attributes/readouts"
 

@@ -6,7 +6,7 @@ import type {
   SyncOperationKind,
   SyncOperationState,
 } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export const TARGET_OPERATIONS = {
   catalog: { imports: ["catalog"] },

@@ -11,7 +11,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const EMAIL_MAX = 100
 const TO_DO_PAGE_TYPE_SLUG = "to-do"

@@ -1,4 +1,4 @@
-import { selectHealthSamples } from "akasha/alan/harness/health-samples-access/sample-selecting/sample-selecting.module.code.ts"
+import { selectHealthSamples } from "akasha/alan/harness/health-samples-access/modules/sample-selecting/sample-selecting.module.code.ts"
 import { activeCaloriesFromSamples } from "akasha/alan/harness/health-samples-day/modules/active-calories/active-calories.module.code.ts"
 export interface WakeWindow {
   readonly from: number

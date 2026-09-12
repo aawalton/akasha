@@ -1,6 +1,6 @@
 import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
-import type { SalesPayload } from "akasha/temper/capture-sales/sales-payload/sales-payload.module.code.ts"
+import type { SalesPayload } from "akasha/temper/capture-sales/modules/sales-payload/sales-payload.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/watcher-account-page/watcher-account-page.module.code.ts"

@@ -10,7 +10,7 @@ import {
   decideUnmappedItemsPanelState,
   type InventoryReadState,
   type UnmappedItemsPanelState,
-} from "akasha/temper/player-inventory-management-ui/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { useMemo } from "react"
 

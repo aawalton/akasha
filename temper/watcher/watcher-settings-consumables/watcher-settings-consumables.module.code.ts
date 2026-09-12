@@ -7,11 +7,11 @@ import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modul
 import type {
   CharacterBuildInput,
   CompletionCharacterInput,
-} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   compileConsumableStock as consumableStockOf,
   compileWantedConsumables as wantedConsumablesOf,
-} from "akasha/temper/items-rules-matcher/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,

@@ -1,7 +1,7 @@
 import type {
   Field,
   RuleSet,
-} from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+} from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
 import { z } from "zod"
 
 export const EMAIL_RULE_SET_NAME = "email-rule"

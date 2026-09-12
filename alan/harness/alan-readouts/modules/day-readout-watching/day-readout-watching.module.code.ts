@@ -39,7 +39,7 @@ import {
 import {
   READOUT_SLUG as SAFETY_SLUG,
   takeReading as takeSafety,
-} from "akasha/alan/harness/safety/reading/safety-reading.module.code.ts"
+} from "akasha/alan/harness/safety/modules/reading/safety-reading.module.code.ts"
 import {
   READOUT_SLUG as SLEEP_SLUG,
   takeReading as takeSleep,

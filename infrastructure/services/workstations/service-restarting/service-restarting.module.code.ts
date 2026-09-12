@@ -1,7 +1,7 @@
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Linking } from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
 import type { Ran } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
-import { NO_CODE } from "akasha/utils/run/running/running.module.code.ts"
+import { NO_CODE } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const A_TIMER = ".timer"
 

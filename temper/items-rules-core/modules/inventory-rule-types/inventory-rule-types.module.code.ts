@@ -4,7 +4,7 @@ import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/mod
 import type { ComparisonOpId } from "akasha/temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import type { RuleConstantKey } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
+import type { RuleConstantKey } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
 
 const BANKABLE_CURRENCY_KEYS = ["gold", "alliancePoints", "telvarStones", "writVouchers"] as const
 type BankableCurrencyKey = (typeof BANKABLE_CURRENCY_KEYS)[number]

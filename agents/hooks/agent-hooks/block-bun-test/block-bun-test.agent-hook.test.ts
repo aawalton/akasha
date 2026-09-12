@@ -11,7 +11,7 @@ import {
 import { judging } from "akasha/agents/hooks/modules/judging/hook-judging.module.code.ts"
 import { payloadOf } from "akasha/agents/hooks/modules/payload/hook-payload.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-bun-test.agent-hook.code.ts")
 

@@ -47,12 +47,12 @@ import {
 } from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { hideControl } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
-import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
+import { runeShowMode } from "akasha/temper/crafting-addon/modules/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,
   runeInitialize,
   runeView,
-} from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/rune-panel/rune-panel.module.code.ts"
 
 type RuneJob = RuneTable["job"]
 const asRuneJob = (value: { amount: number }): RuneJob => value as RuneJob

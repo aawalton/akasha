@@ -3,7 +3,7 @@ import type { InventoryConfig } from "akasha/temper/items-rules-core/modules/inv
 import type {
   RuleConditionStates,
   RuleStates,
-} from "akasha/temper/items-rules-core/rule-condition-states/rule-condition-states.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-condition-states/rule-condition-states.module.code.ts"
 
 export type ConditionalActions = Pick<
   InventoryConfig,

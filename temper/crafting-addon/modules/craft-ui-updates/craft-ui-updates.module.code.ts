@@ -8,7 +8,7 @@ import * as ResearchGrid from "akasha/temper/crafting-addon/modules/craft-resear
 import * as StyleTracking from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import * as Utilities from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
-import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
+import { runeView } from "akasha/temper/crafting-addon/modules/rune-panel/rune-panel.module.code.ts"
 
 const WM = WINDOW_MANAGER
 const SM = SCENE_MANAGER

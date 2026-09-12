@@ -10,7 +10,7 @@ import {
 import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const INSTEAD = "`--old-file` and `--new-file`"
 

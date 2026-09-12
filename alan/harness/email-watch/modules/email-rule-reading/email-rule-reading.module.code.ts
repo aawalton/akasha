@@ -6,7 +6,7 @@ import {
   ruleLocation,
   ruleTypeSlug,
 } from "akasha/alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.code.ts"
-import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+import type { Condition } from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { z } from "zod"
 

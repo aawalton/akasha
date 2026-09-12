@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SCAN_SKIP_DIRS = new Set([
   "node_modules",

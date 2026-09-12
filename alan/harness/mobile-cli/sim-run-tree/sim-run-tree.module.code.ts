@@ -17,7 +17,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { said } from "akasha/utils/run/running/running.module.code.ts"
+import { said } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]
 

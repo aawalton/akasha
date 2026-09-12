@@ -1,7 +1,7 @@
 import { tempSymbolId } from "akasha/design/language/lua-compiler/modules/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { createSafeName } from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"
+import { createSafeName } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
 import * as ts from "typescript"
 
 export interface TempNames {

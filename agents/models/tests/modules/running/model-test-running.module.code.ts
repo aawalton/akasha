@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { ran as spawned } from "akasha/utils/run/running/running.module.code.ts"
+import { ran as spawned } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const FAMILY = "model-family"
 

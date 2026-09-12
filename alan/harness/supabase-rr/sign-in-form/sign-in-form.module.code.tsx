@@ -1,6 +1,6 @@
 import { signInWithPassword } from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
 import { AuthPageContent } from "akasha/design/interfaces/patterns/modules/auth-page-content/auth-page-content.module.code.tsx"
-import { safeRedirectTarget } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
+import { safeRedirectTarget } from "akasha/pages/url/modules/safe-target/safe-target.module.code.ts"
 import { useSearchParams } from "react-router"
 
 const ALLOWED_REDIRECT_HOSTS = ["alanwalton.com"] as const

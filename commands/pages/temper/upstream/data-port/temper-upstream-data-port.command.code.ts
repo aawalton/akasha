@@ -22,7 +22,7 @@ import {
   UPSTREAM_LIBRARIES,
 } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const CODE_ROOT_ENV = "CODE_ROOT"
 

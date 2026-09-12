@@ -5,7 +5,7 @@ import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core
 import {
   type RuleConstantKey,
   resolveThreshold,
-} from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
 
 export function resolveOptionalThreshold(
   v: number | RuleConstantKey | undefined
