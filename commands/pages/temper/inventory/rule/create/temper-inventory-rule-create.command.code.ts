@@ -30,8 +30,8 @@ import {
   narrowStockScope,
   parseConditionsJson,
 } from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import { addCategoryRule } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { addCategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const PAGES = [title, notes, goal, active, action, destination, stockScope, category, conditions]
 

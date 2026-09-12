@@ -1,5 +1,5 @@
-import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { InventoryConfig } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryConfig } from "akasha/temper/items-rules-core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import type {
   RuleConditionStates,
   RuleStates,

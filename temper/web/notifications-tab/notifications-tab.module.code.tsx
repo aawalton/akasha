@@ -17,14 +17,14 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
-import {
-  DESTRUCTIVE_ACTIONS,
-  type DestructiveAction,
-} from "akasha/temper/items-core/inventory-safety-types/inventory-safety-types.module.code.ts"
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,
 } from "akasha/temper/items-core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
+import {
+  DESTRUCTIVE_ACTIONS,
+  type DestructiveAction,
+} from "akasha/temper/items-core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { useBackpackSettings } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {
   useLoggingSettings,

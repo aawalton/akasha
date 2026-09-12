@@ -1,13 +1,13 @@
-import {
-  getSavedVariables,
-  isSavedVariablesReady,
-} from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { MasterWritSpec } from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
 import type {
   MasterConsumableOutcome,
   MasterConsumablePhase,
   MasterConsumableTrace,
 } from "akasha/temper/items-addon/inventory-writ-master-consumable-trace-types/inventory-writ-master-consumable-trace-types.module.code.ts"
+import {
+  getSavedVariables,
+  isSavedVariablesReady,
+} from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 export function newConsumableTrace(
   this: void,
   spec: MasterWritSpec,

@@ -1,10 +1,10 @@
-import { getDatabase } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type {
   BrowserRow,
   FixedLocationViewId,
   LocationViewKind,
   LocationViewOption,
 } from "akasha/temper/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { getDatabase } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemCentricInventory } from "akasha/temper/items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
 import {
   classifyLocation,

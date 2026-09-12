@@ -2,20 +2,6 @@ import "akasha/temper/items-addon/modules/inventory-public-api/inventory-public-
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { startPerfTrace } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
-import { registerConfirmDialog } from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
-import { repackGuildBank } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-repack/inventory-rules-dispatch-guild-repack.module.code.ts"
-import { rescanInventory } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
-import { onTemperRulesCommand } from "akasha/temper/items-addon/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"
-import {
-  initializeSavedVariables,
-  migrateCraftedField,
-  migrateEmptyLocationKey,
-  migrateHouseBankLocationKeys,
-  migrateItemLinkDerivedFields,
-  pruneDeletedCharacters,
-} from "akasha/temper/items-addon/inventory-saved-variables/inventory-saved-variables.module.code.ts"
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { pruneStaleTemperLocks } from "akasha/temper/items-addon/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 import { registerTooltipHook } from "akasha/temper/items-addon/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"
 import { registerTooltipLockIcon } from "akasha/temper/items-addon/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"
@@ -54,6 +40,20 @@ import {
 import { finishPerfTrace } from "akasha/temper/items-addon/modules/inventory-perf/inventory-perf.module.code.ts"
 import { handleTemperPlanCommand } from "akasha/temper/items-addon/modules/inventory-plan/inventory-plan.module.code.ts"
 import { pruneStaleAnnotations } from "akasha/temper/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { registerConfirmDialog } from "akasha/temper/items-addon/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
+import { repackGuildBank } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-guild-repack/inventory-rules-dispatch-guild-repack.module.code.ts"
+import { rescanInventory } from "akasha/temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { onTemperRulesCommand } from "akasha/temper/items-addon/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"
+import {
+  initializeSavedVariables,
+  migrateCraftedField,
+  migrateEmptyLocationKey,
+  migrateHouseBankLocationKeys,
+  migrateItemLinkDerivedFields,
+  pruneDeletedCharacters,
+} from "akasha/temper/items-addon/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()

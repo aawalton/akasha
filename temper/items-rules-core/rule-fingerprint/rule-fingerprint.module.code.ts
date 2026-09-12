@@ -1,4 +1,4 @@
-import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
 
 export function ruleFingerprint(rule: CategoryRule): string {

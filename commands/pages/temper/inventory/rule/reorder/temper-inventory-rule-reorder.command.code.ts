@@ -24,7 +24,7 @@ import {
 import {
   reorderCategoryRule,
   resolveAnchorIndex,
-} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
 const PAGES = [force, categoryRuleId, toPosition, before, after]
 

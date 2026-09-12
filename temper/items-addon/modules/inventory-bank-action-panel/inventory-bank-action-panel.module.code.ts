@@ -6,9 +6,9 @@ import {
   createMovableWindow,
   type MovableWindowHandle,
 } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { getBankTransitionSummary } from "akasha/temper/items-addon/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
 import { recordSettlingMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const PANEL_NAME = "TemperBankActionPanel"
 const BANK_ANCHOR_TARGET_NAMES = ["ZO_PlayerBankBackpack", "ZO_PlayerBank"]

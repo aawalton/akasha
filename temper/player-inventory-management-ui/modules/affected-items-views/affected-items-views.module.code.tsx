@@ -20,11 +20,11 @@ import {
   hasAnyValue,
   type InventoryNode,
 } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
   buildAffectedItemLocationNodes,
   buildAffectedItemNodes,
 } from "akasha/temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
   leafToValueData,
   type ValueExplanationData,

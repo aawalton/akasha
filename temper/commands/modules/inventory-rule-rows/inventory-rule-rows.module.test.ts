@@ -1,0 +1,56 @@
+import { describe, expect, test } from "bun:test"
+import {
+  BUY_RULE_COLUMNS,
+  ITEM_RULE_COLUMNS,
+  itemRuleRow,
+  RULE_SHOW_COLUMNS,
+} from "akasha/temper/commands/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+
+const RULE: ItemRule = {
+  id: "rule-1",
+  itemId: 45336,
+  itemName: "Rubedite Ore",
+  action: "move-to",
+  active: true,
+  locked: false,
+  stockQuantity: 200,
+  destination: "bank",
+}
+
+describe("itemRuleRow", () => {
+  test("prints the fields the item rule columns name and no others", () => {
+    expect(Object.keys(itemRuleRow(RULE)).sort()).toEqual([...ITEM_RULE_COLUMNS].sort())
+  })
+
+  test("carries each value off the rule unchanged", () => {
+    expect(itemRuleRow(RULE)).toEqual({
+      id: "rule-1",
+      itemId: 45336,
+      itemName: "Rubedite Ore",
+      action: "move-to",
+      active: true,
+      locked: false,
+      stockQuantity: 200,
+      destination: "bank",
+    })
+  })
+})
+
+describe("the column sets", () => {
+  test("every listing names its id first", () => {
+    expect(ITEM_RULE_COLUMNS[0]).toBe("id")
+    expect(BUY_RULE_COLUMNS[0]).toBe("id")
+    expect(RULE_SHOW_COLUMNS[0]).toBe("id")
+  })
+
+  test("a buy rule is listed by its target quantity and source", () => {
+    expect(BUY_RULE_COLUMNS).toContain("targetQuantity")
+    expect(BUY_RULE_COLUMNS).toContain("source")
+  })
+
+  test("a rule shown is listed by its category rather than its item", () => {
+    expect(RULE_SHOW_COLUMNS).toContain("categoryId")
+    expect(RULE_SHOW_COLUMNS).not.toContain("itemId")
+  })
+})

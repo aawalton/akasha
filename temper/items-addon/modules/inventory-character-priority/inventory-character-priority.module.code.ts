@@ -1,4 +1,4 @@
-import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { getCompiledConfig } from "akasha/temper/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import {
   type CharacterId,
   characterId,

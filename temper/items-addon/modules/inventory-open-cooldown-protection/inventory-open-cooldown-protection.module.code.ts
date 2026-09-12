@@ -1,7 +1,7 @@
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { getQuestAnnotation } from "akasha/temper/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   type CooldownGroup,
   isDlcDailyContainerByName,

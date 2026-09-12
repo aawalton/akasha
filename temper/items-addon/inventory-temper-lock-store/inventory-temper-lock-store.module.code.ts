@@ -1,8 +1,8 @@
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   isValidLockKey,
   selectStaleLockKeys,
 } from "akasha/temper/items-addon/inventory-temper-lock-core/inventory-temper-lock-core.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 function temperLockKeyForSlot(bagId: number, slotIndex: number): string | undefined {
   const uniqueId = GetItemUniqueId(bagId, slotIndex)

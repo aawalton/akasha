@@ -1,4 +1,4 @@
-import type { SavedVariablesData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import type { SavedVariablesData } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export type WritAutomation = SavedVariablesData["automation"]
 
 export type WritResolveKey =

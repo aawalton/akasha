@@ -1,14 +1,14 @@
+import {
+  conditionsTaken,
+  saidWrong,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
 import type {
   CategoryRule,
   DestinationChain,
   ItemAction,
   MoveToDestination,
   StockScope,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import {
-  conditionsTaken,
-  saidWrong,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export interface RulePage {
   readonly slug: string

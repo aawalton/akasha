@@ -4,7 +4,7 @@ import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
 import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
 import { getTraitFamily } from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"

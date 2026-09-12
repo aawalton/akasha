@@ -1,5 +1,5 @@
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemFactsForSlot } from "akasha/temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { createFilterBar } from "akasha/temper/items-filters-addon/modules/filter-bar/filter-bar.module.code.ts"
 import { createFilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { buildFilterIndex } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"

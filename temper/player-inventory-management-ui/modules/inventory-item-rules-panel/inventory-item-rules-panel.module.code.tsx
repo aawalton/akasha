@@ -10,8 +10,7 @@ import {
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
-import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ItemRuleCard } from "akasha/temper/player-inventory-management-ui/item-rule-card/item-rule-card.module.code.tsx"
 import { ItemSearchDialog } from "akasha/temper/player-inventory-management-ui/item-search-dialog/item-search-dialog.module.code.tsx"
 import type {
@@ -19,6 +18,7 @@ import type {
   LockStatusFilter,
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import { ResetBadge } from "akasha/temper/player-inventory-management-ui/modules/inventory-reset-badge/inventory-reset-badge.module.code.tsx"
+import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
 import { RuleBulkActionBadge } from "akasha/temper/player-inventory-management-ui/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import { Plus } from "lucide-react"

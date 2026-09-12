@@ -12,7 +12,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getActionLabel } from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { RuleNotesDialog } from "akasha/temper/player-inventory-management-ui/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
 

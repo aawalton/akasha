@@ -1,4 +1,3 @@
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   accumulateFrame,
   bucketBySource,
@@ -12,6 +11,7 @@ import type {
   ProfilerRecordKind,
   ResolvedEntry,
 } from "akasha/temper/items-addon/modules/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
+import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const SCHEMA_VERSION = 1
 const TOP_N = 40

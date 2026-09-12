@@ -13,7 +13,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { temperInventoryAutomationSet as page } from "akasha/commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
-import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+import { inventorySettings } from "akasha/temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import {
   type AutomationScope,
   applyToggle,

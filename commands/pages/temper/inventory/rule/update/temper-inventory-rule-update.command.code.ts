@@ -37,7 +37,7 @@ import {
   parseConditionsJson,
   parseDestinationChainJson,
 } from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import { bulkUpdateCategoryRules } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import { bulkUpdateCategoryRules } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
 const CHANGED = [
   category,

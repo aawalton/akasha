@@ -1,16 +1,21 @@
 "use client"
 
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   CategoryRule,
   ItemRule,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type {
+  ActiveStatusFilter,
+  LockStatusFilter,
+  RuleSortField,
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import {
   ACTIVE_STATUS_ITEMS,
   GOAL_FILTER_ITEMS,
   LOCK_STATUS_ITEMS,
-} from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"
 import {
   buildActionFilterPredicate,
   buildCategoryMatchIds,
@@ -19,16 +24,11 @@ import {
   matchesItemRule,
   matchItemLocation as matchItemLocationPure,
   partitionRules,
-} from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"
 import {
   sortCategoryRules,
   sortItemRules,
-} from "akasha/temper/player-inventory-management-ui/inventory-rules-sort/inventory-rules-sort.module.code.ts"
-import type {
-  ActiveStatusFilter,
-  LockStatusFilter,
-  RuleSortField,
-} from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-sort/inventory-rules-sort.module.code.ts"
 import { useCallback, useMemo, useRef } from "react"
 
 export interface DeferredRuleFilters {

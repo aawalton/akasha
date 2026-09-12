@@ -1,8 +1,8 @@
+import type { MasterCraftTrace } from "akasha/temper/items-addon/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
 import {
   getSavedVariables,
   isSavedVariablesReady,
-} from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { MasterCraftTrace } from "akasha/temper/items-addon/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
+} from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
 const MASTER_CRAFT_TRACE_RING_MAX = 24
 

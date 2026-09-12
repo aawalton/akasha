@@ -7,27 +7,14 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { emitTsv } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
-} from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
-import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
-import { emitTsv } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
-import {
-  duplicateCategoryRule,
-  duplicateItemRule,
-  lockCategoryRule,
-  lockItemRule,
-  removeCategoryRule,
-  removeItemRule,
-} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type {
-  CategoryRule,
-  InventoryRuleSettings,
-  ItemRule,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import { inventorySettings } from "akasha/temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import {
   duplicateBuyRule,
   lockBuyRule,
@@ -35,6 +22,19 @@ import {
 } from "akasha/temper/items-rules-core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import {
+  duplicateCategoryRule,
+  duplicateItemRule,
+  lockCategoryRule,
+  lockItemRule,
+  removeCategoryRule,
+  removeItemRule,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type {
+  CategoryRule,
+  InventoryRuleSettings,
+  ItemRule,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export type Kind = "category" | "item" | "buy"
 

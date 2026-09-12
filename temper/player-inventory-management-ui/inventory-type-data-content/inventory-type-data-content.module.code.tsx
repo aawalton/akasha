@@ -22,7 +22,6 @@ import {
   groupInventoryByType,
 } from "akasha/temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { InventoryTypeSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
 import { InventoryTypePanelCard } from "akasha/temper/player-inventory-management-ui/inventory-type-panel-card/inventory-type-panel-card.module.code.tsx"
 import {
@@ -36,6 +35,7 @@ import type {
   FilterValues,
   SortField,
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import {
   resolvePricingRegion,
   resolvePricingRegionNote,

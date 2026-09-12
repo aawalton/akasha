@@ -1,6 +1,6 @@
 "use client"
 
-import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
 import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
 import {

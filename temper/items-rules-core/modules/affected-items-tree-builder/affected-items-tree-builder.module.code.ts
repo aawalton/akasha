@@ -12,7 +12,7 @@ import {
   type InventoryTypeEntry,
 } from "akasha/temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry {

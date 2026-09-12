@@ -3,7 +3,7 @@ import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-tr
 import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   FilterOption,
   InventoryRuleFilter,

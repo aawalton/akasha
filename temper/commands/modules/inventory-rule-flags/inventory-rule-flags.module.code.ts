@@ -1,5 +1,12 @@
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+import { getCategoryDescendantIds } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import type { BuySource } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+import {
+  destinationFormsSaid,
+  narrowDestination,
+} from "akasha/temper/items-rules-core/modules/inventory-destination-parse/inventory-destination-parse.module.code.ts"
+import { CategoryRuleConditionsShape } from "akasha/temper/items-rules-core/modules/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
@@ -8,14 +15,7 @@ import {
   type ItemAction,
   type MoveToDestination,
   type StockScope,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { getCategoryDescendantIds } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
-import type { BuySource } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
-import {
-  destinationFormsSaid,
-  narrowDestination,
-} from "akasha/temper/items-rules-core/modules/inventory-destination-parse/inventory-destination-parse.module.code.ts"
-import { CategoryRuleConditionsShape } from "akasha/temper/items-rules-core/modules/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { z } from "zod"
 
 const CATEGORY_IDS: ReadonlySet<string> = getCategoryDescendantIds(

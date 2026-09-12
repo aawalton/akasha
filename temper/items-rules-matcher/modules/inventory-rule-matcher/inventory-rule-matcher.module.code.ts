@@ -1,20 +1,25 @@
-import type {
-  AffectedItem,
-  AllRuleAffectedItemsResult,
-  ClassifiedInventoryItem,
-} from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import {
-  IMPLICIT_TERMINAL_RULE_ID,
-  type ItemRule,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   type CompiledOrderedRule,
   IMPLICIT_TERMINAL_COMPILED_RULE,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  AffectedItem,
+  AllRuleAffectedItemsResult,
+  ClassifiedInventoryItem,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import {
+  IMPLICIT_TERMINAL_RULE_ID,
+  type ItemRule,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { computeStockGroups } from "akasha/temper/items-rules-eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
 import { evaluateRule } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
+import {
+  computeQuantity,
+  createAllocationEnv,
+  type MatchedCI,
+} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"
 import {
   type AllRuleAffectedItemsCache,
   categoryRuleFingerprint,
@@ -23,22 +28,17 @@ import {
   residuesFromPrevSnapshot,
   residuesToEntries,
   restoreResiduesFromEntries,
-} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-cache/inventory-rule-matcher-cache.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-cache/inventory-rule-matcher-cache.module.code.ts"
 import {
   buildAffectedItem,
   getExcludeLocation,
   isAlreadyAtDestination,
   isContainerBlockedByAction,
-} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"
 import {
   applyFillOnceCI,
   applyFillOnceCompanionCI,
-} from "akasha/temper/items-rules-matcher/inventory-rule-matcher-fill-once/inventory-rule-matcher-fill-once.module.code.ts"
-import {
-  computeQuantity,
-  createAllocationEnv,
-  type MatchedCI,
-} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"
+} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-fill-once/inventory-rule-matcher-fill-once.module.code.ts"
 import {
   buildItemIdToCooldownGroup,
   buildWebEvalEnv,

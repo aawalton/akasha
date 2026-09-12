@@ -9,11 +9,11 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+import { getNodeChildren } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { getNodeChildren } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 
 interface RuleCardCategoryRowProps {

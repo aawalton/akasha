@@ -3,11 +3,11 @@
 import type {
   CategoryRule,
   ItemRule,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   getCategoryRuleDescriptions,
   getItemRuleDescriptions,
-} from "akasha/temper/player-inventory-management-ui/inventory-rules-descriptions/inventory-rules-descriptions.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-descriptions/inventory-rules-descriptions.module.code.ts"
 import { useMemo } from "react"
 
 interface RulePartition {

@@ -1,5 +1,5 @@
-import type { ItemData } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { extractItemData } from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
+import type { ItemData } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 
 function scanStandardBag(bagId: number): Record<number, ItemData> {
   const items: Record<number, ItemData> = {}

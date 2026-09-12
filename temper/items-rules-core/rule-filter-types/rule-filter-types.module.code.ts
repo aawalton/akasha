@@ -2,7 +2,7 @@ import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tr
 import type {
   CategoryRule,
   ItemAction,
-} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export interface FilterOption {
   value: string
