@@ -5,5 +5,5 @@ export const seatCredential = {
   type: "domain",
   slug: "seat-credential",
   definition: "the credential a seat's account is signed in with",
-  parts: ["module/supervisor-credentials", "module/account-terminal", "module/oauth-health-lines"],
+  parts: ["module/account-terminal", "module/oauth-health-lines", "module/supervisor-credentials"],
 } as const satisfies Domain

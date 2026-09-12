@@ -5,7 +5,7 @@ export const technology = {
   type: "domain",
   slug: "technology",
   definition: "how outside systems should be used",
-  parts: ["domain/technology-definitions", "domain/mcp"],
+  parts: ["domain/mcp", "domain/technology-definitions"],
   invariants: [
     {
       invariantKind: "constraint",

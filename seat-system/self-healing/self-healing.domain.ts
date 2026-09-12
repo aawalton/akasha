@@ -6,14 +6,14 @@ export const selfHealing = {
   slug: "self-healing",
   definition: "a supervisor replaced in place by the version its files now hold",
   parts: [
+    "module/supervisor-file-version",
+    "module/supervisor-handoff-env",
+    "module/supervisor-reexec",
+    "module/supervisor-reexec-mark",
     "module/supervisor-self-heal",
     "module/supervisor-self-heal-install",
     "module/supervisor-self-heal-jitter-decide",
     "module/supervisor-self-heal-jitter-rule",
     "module/supervisor-self-heal-state",
-    "module/supervisor-reexec",
-    "module/supervisor-reexec-mark",
-    "module/supervisor-handoff-env",
-    "module/supervisor-file-version",
   ],
 } as const satisfies Domain

@@ -7,9 +7,9 @@ export const storage = {
   definition: "where bytes live",
   parts: [
     "domain/backup",
-    "domain/disk-store",
     "domain/container-registry",
     "domain/database",
+    "domain/disk-store",
     "domain/git-repos",
     "domain/object-store",
   ],

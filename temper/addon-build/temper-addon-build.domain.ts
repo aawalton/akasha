@@ -7,17 +7,17 @@ export const temperAddonBuild = {
   definition: "what building temper's ESO addons out of TypeScript needs to know",
   outputDirectory: true,
   parts: [
-    "module/lua-build-command",
+    "module/addon-bundling",
+    "module/addon-compiler-config",
+    "module/addon-compiling",
     "module/addon-load-order",
     "module/addon-metadata-copy",
-    "module/addon-compiler-config",
     "module/addon-metadata-files",
-    "module/global-name-dependents",
-    "module/consolidation-migrations",
-    "module/addon-compiling",
     "module/addon-placing",
-    "module/addon-bundling",
     "module/build-output",
+    "module/consolidation-migrations",
+    "module/global-name-dependents",
+    "module/lua-build-command",
   ],
   invariants: [
     {

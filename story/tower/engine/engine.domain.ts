@@ -5,7 +5,7 @@ export const engine = {
   type: "domain",
   slug: "engine",
   definition: "how one attack in a tower game is worked out from two sheets and a seed",
-  parts: ["module/combat-types", "module/derive", "module/rng", "module/resolve-action"],
+  parts: ["module/combat-types", "module/derive", "module/resolve-action", "module/rng"],
   invariants: [
     {
       invariantKind: "absence",

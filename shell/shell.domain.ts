@@ -5,7 +5,7 @@ export const shell = {
   type: "domain",
   slug: "shell",
   definition: "text a POSIX shell reads as a command",
-  parts: ["module/quoting", "domain/shell-terminal"],
+  parts: ["domain/shell-terminal", "module/quoting"],
   invariants: [
     {
       invariantKind: "absence",

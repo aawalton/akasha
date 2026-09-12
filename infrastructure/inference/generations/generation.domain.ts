@@ -8,12 +8,12 @@ export const generation = {
   pluralSlug: "generations",
   parts: [
     "module/comfy-up-body",
-    "page-type/audio",
     "domain/upscale",
     "domain/wan",
     "domain/zimage",
     "module/comfy-up-building",
     "module/comfy-up-guarding",
+    "page-type/audio",
     "page-type/generation-log",
     "page-type/image",
   ],

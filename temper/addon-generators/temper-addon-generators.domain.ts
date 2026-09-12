@@ -8,6 +8,7 @@ export const temperAddonGenerators = {
   parts: [
     "module/addon-data-page",
     "module/classes",
+    "module/do-not-edit",
     "module/item-category-tree",
     "module/metric-tree",
     "module/parse-restore-metrics-from-ability-text",
@@ -118,7 +119,6 @@ export const temperAddonGenerators = {
     "module/web-rule-traits",
     "module/web-rule-value",
     "module/web-rule-wanted-and-stock",
-    "module/do-not-edit",
   ],
   invariants: [
     {

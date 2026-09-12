@@ -8,13 +8,13 @@ export const tower = {
   parts: [
     "domain/core",
     "domain/engine",
-    "module/page-slugs",
     "module/combat-mapping",
-    "module/roll-payload",
+    "module/page-slugs",
     "module/plan-archive",
     "module/render-chapter",
     "module/resolve-hero",
     "module/retrofit-system-cards",
+    "module/roll-payload",
   ],
   invariants: [
     {
