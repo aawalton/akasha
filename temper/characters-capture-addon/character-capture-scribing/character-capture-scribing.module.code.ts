@@ -1,6 +1,4 @@
 import "akasha/temper/eso-types/eso-functions-06/eso-functions-06.type-declaration.d.ts"
-import { getBaseAbilityId } from "akasha/temper/characters-capture-addon/character-capture-base-ability/character-capture-base-ability.module.code.ts"
-import type { CharacterScribingData } from "akasha/temper/characters-capture-addon/character-capture-codec-types/character-capture-codec-types.module.code.ts"
 import {
   getAffixScriptIndex,
   getFocusScriptIndex,
@@ -8,6 +6,8 @@ import {
   getSignatureScriptIndex,
 } from "akasha/temper/characters-capture-addon/character-capture-scribing-map/character-capture-scribing-map.module.code.ts"
 import { getPlayerSkillIndex } from "akasha/temper/characters-capture-addon/character-capture-skill-map/character-capture-skill-map.module.code.ts"
+import { getBaseAbilityId } from "akasha/temper/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"
+import type { CharacterScribingData } from "akasha/temper/characters-capture-addon/modules/character-capture-codec-types/character-capture-codec-types.module.code.ts"
 
 export function captureScribingData(): CharacterScribingData[] {
   const result: CharacterScribingData[] = []

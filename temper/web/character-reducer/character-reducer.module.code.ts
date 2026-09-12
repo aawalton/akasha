@@ -4,7 +4,7 @@ import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-li
 import {
   CHARACTER_ACTIONS,
   type CharacterAction,
-} from "akasha/temper/web/character-actions/character-actions.module.code.ts"
+} from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function characterReducer(state: CharacterState, action: CharacterAction): CharacterState {

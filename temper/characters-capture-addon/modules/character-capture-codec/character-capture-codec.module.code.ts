@@ -13,21 +13,6 @@ import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declarati
 import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import { getAllianceIndex } from "akasha/temper/characters-capture-addon/character-capture-alliance-map/character-capture-alliance-map.module.code.ts"
-import { getBaseAbilityId } from "akasha/temper/characters-capture-addon/character-capture-base-ability/character-capture-base-ability.module.code.ts"
-import { getChampionPointIndex } from "akasha/temper/characters-capture-addon/character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts"
-import { getClassIndex } from "akasha/temper/characters-capture-addon/character-capture-class-map/character-capture-class-map.module.code.ts"
-import type {
-  CharacterArmorSlotData,
-  CharacterBuildData,
-  CharacterCPDisciplineData,
-  CharacterJewelrySlotData,
-  CharacterWeaponBarData,
-} from "akasha/temper/characters-capture-addon/character-capture-codec-types/character-capture-codec-types.module.code.ts"
-import {
-  getCurseIndex,
-  getVampireStageIndex,
-} from "akasha/temper/characters-capture-addon/character-capture-curse-map/character-capture-curse-map.module.code.ts"
 import {
   captureCharacterArmorSlot,
   captureCharacterJewelrySlot,
@@ -47,6 +32,21 @@ import { getRaceIndex } from "akasha/temper/characters-capture-addon/character-c
 import { captureScribingData } from "akasha/temper/characters-capture-addon/character-capture-scribing/character-capture-scribing.module.code.ts"
 import { getPlayerSkillLineIndex } from "akasha/temper/characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { getPlayerSkillIndex } from "akasha/temper/characters-capture-addon/character-capture-skill-map/character-capture-skill-map.module.code.ts"
+import { getAllianceIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.code.ts"
+import { getBaseAbilityId } from "akasha/temper/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"
+import { getChampionPointIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts"
+import { getClassIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.code.ts"
+import type {
+  CharacterArmorSlotData,
+  CharacterBuildData,
+  CharacterCPDisciplineData,
+  CharacterJewelrySlotData,
+  CharacterWeaponBarData,
+} from "akasha/temper/characters-capture-addon/modules/character-capture-codec-types/character-capture-codec-types.module.code.ts"
+import {
+  getCurseIndex,
+  getVampireStageIndex,
+} from "akasha/temper/characters-capture-addon/modules/character-capture-curse-map/character-capture-curse-map.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const CHARACTER_ARMOR_SLOTS = [

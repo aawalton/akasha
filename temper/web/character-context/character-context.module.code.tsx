@@ -19,9 +19,9 @@ import { useCharacter as useCharacterZero } from "akasha/temper/characters-chara
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import type { CharacterAction } from "akasha/temper/web/character-actions/character-actions.module.code.ts"
-import { CHARACTER_ACTIONS } from "akasha/temper/web/character-actions/character-actions.module.code.ts"
 import { characterReducer } from "akasha/temper/web/character-reducer/character-reducer.module.code.ts"
+import type { CharacterAction } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
+import { CHARACTER_ACTIONS } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { useBuildSync } from "akasha/temper/web/use-build-sync/use-build-sync.module.code.ts"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 
