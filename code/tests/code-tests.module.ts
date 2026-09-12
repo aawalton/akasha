@@ -252,6 +252,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A test file that is not the one named beside a page runs only when that test file itself changes.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test file is named to the runner by its own path.",
     },
     {
