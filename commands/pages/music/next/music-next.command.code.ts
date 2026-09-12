@@ -7,14 +7,19 @@ import type {
 import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import {
+  DATA,
+  OK,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { musicNext as page } from "akasha/commands/pages/music/next/music-next.command.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-
-const JSON_SAID = "--json"
 
 const ARTIST = "artist"
 
@@ -130,14 +135,11 @@ export function saidOf(selection: Selection): readonly string[] {
 }
 
 export function musicNext(argv: readonly string[], given: Given): Answer {
-  for (const one of argv) {
-    if (one !== JSON_SAID) {
-      return refused(`\`${one}\` is nothing \`${given.calledAs}\` takes`, INPUT)
-    }
-  }
+  const read = takenFor(argv, given.calledAs, page, [json])
+  if ("refused" in read) return refusedBy(read.refused)
   const amiss = gradeAmiss(given.root)
   if (amiss !== null) return refused(amiss, DATA)
   const selection = selectionOf(selectNextExploration(catalogIn(given.root)))
-  const report = argv.includes(JSON_SAID) ? [JSON.stringify(selection)] : saidOf(selection)
+  const report = read.taken.json ? [JSON.stringify(selection)] : saidOf(selection)
   return { report: [...report], refusals: [], code: OK }
 }

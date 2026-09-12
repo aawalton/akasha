@@ -79,7 +79,7 @@ test("the human answer names the artist and the song", () => {
 test("anything other than --json is refused by name", () => {
   const said = musicNext(["--window"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("`--window` is nothing")
+  expect(said.refusals.join("\n")).toContain("`--window` is no argument")
   expect(said.report).toEqual([])
 })
 
