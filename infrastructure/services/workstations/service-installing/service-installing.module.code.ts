@@ -159,26 +159,29 @@ export function writeUnit(home: string, name: string, text: string): undefined {
   writeFileSync(join(at, name), text)
 }
 
-export function linkUnit(home: string, name: string): undefined {
+export function linkUnit(home: string, name: string): boolean {
   const target = join(stagingDir(home), name)
   const at = join(systemdDir(home), name)
   mkdirSync(systemdDir(home), { recursive: true })
   try {
-    if (lstatSync(at).isSymbolicLink() && realpathSync(at) === target) return
+    if (lstatSync(at).isSymbolicLink() && realpathSync(at) === target) return false
     rmSync(at, { force: true })
   } catch {
     rmSync(at, { force: true })
   }
   symlinkSync(target, at)
+  return true
 }
 
 function dropStaged(home: string, name: string): undefined {
   rmSync(join(stagingDir(home), name), { force: true })
 }
 
-export function unlinkUnit(home: string, name: string): undefined {
+export function unlinkUnit(home: string, name: string, did: string[] = []): undefined {
   rmSync(join(systemdDir(home), name), { force: true })
+  did.push(`unlinked ${name}`)
   dropStaged(home, name)
+  did.push(`removed ${name}`)
 }
 
 export function installing(
@@ -195,14 +198,14 @@ export function installing(
 
   for (const [name, text] of plan.write) {
     writeUnit(home, name, text)
-    linkUnit(home, name)
     did.push(`wrote ${name}`)
+    if (linkUnit(home, name)) did.push(`linked ${name}`)
   }
 
   for (const name of plan.remove) {
     took(`stopped ${name}`, run(["stop", name]))
-    took(`removed ${name}`, run(["disable", name]))
-    unlinkUnit(home, name)
+    took(`disabled ${name}`, run(["disable", name]))
+    unlinkUnit(home, name, did)
   }
 
   for (const name of plan.strand ?? []) {
@@ -217,7 +220,7 @@ export function installing(
   for (const name of plan.stop) {
     took(`stopped ${name}`, run(["stop", name]))
     took(`disabled ${name}`, run(["disable", name]))
-    linkUnit(home, name)
+    if (linkUnit(home, name)) did.push(`linked ${name} again`)
   }
   if (plan.stop.length > 0) took("reloaded", run(["daemon-reload"]))
 

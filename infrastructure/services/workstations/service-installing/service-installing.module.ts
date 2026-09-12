@@ -79,6 +79,19 @@ export const serviceInstalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A unit written and the link to it are named apart, each after that one landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A unit is named removed after its staged file has gone rather than after a disable.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link that was already there is named by nothing, since nothing wrote it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A link a disable took away is made again.",
     },
     {

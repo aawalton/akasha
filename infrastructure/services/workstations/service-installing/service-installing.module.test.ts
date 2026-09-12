@@ -213,3 +213,35 @@ test("a plan naming nothing stranded takes no staged file away", () => {
   installing(HOME, NOTHING, run)
   expect(existsSync(join(stagingDir(HOME), "stays.service"))).toBe(true)
 })
+
+test("unlinking names the link and the staged file apart, each after that one has gone", () => {
+  writeUnit(HOME, "apart.service", "body")
+  linkUnit(HOME, "apart.service")
+  const did: string[] = []
+  unlinkUnit(HOME, "apart.service", did)
+  expect(did).toEqual(["unlinked apart.service", "removed apart.service"])
+})
+
+test("a link already pointing where it belongs is answered as a link nothing wrote", () => {
+  writeUnit(HOME, "twice.service", "body")
+  expect(linkUnit(HOME, "twice.service")).toBe(true)
+  expect(linkUnit(HOME, "twice.service")).toBe(false)
+})
+
+test("a unit written is named before the link to it is named rather than after", () => {
+  const { run } = recorded()
+  const did: string[] = []
+  installing(HOME, { ...NOTHING, write: new Map([["fresh.service", "body"]]) }, run, did)
+  expect(did.indexOf("wrote fresh.service")).toBeLessThan(did.indexOf("linked fresh.service"))
+})
+
+test("a unit is named removed after its staged file has gone rather than after a disable", () => {
+  const { run } = recorded()
+  writeUnit(HOME, "away.service", "body")
+  linkUnit(HOME, "away.service")
+  const did: string[] = []
+  installing(HOME, { ...NOTHING, remove: ["away.service"] }, run, did)
+  expect(did).toContain("disabled away.service")
+  expect(did.indexOf("disabled away.service")).toBeLessThan(did.indexOf("removed away.service"))
+  expect(existsSync(join(stagingDir(HOME), "away.service"))).toBe(false)
+})
