@@ -3,13 +3,13 @@ import { base64Url } from "akasha/utils/narrow/base64-url/base64-url.module.code
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
-export const APNS_AUTH_KEY_ENV = "APNS_AUTH_KEY_P8"
+const APNS_AUTH_KEY_ENV = "APNS_AUTH_KEY_P8"
 
-export const APNS_KEY_ID = "3KCWQ4M92H"
+const APNS_KEY_ID = "3KCWQ4M92H"
 
-export const APNS_TEAM_ID = "M6AN6NM6FL"
+const APNS_TEAM_ID = "M6AN6NM6FL"
 
-export const APNS_HOST = "api.push.apple.com"
+const APNS_HOST = "api.push.apple.com"
 
 const APNS_PORT = 443
 
@@ -29,7 +29,7 @@ export interface ApnsSender {
   readonly close: () => undefined
 }
 
-export function classifyApnsResponse(said: {
+function classifyApnsResponse(said: {
   readonly status: number
   readonly reason: string | null
   readonly apnsId: string | null
@@ -45,7 +45,7 @@ export function classifyApnsResponse(said: {
 
 const APNS_REASON = z.object({ reason: z.string() })
 
-export function reasonIn(body: string): string | null {
+function reasonIn(body: string): string | null {
   if (body === "") return null
   try {
     return APNS_REASON.parse(JSON.parse(body)).reason
@@ -54,7 +54,7 @@ export function reasonIn(body: string): string | null {
   }
 }
 
-export function pkcs8In(pem: string): Uint8Array<ArrayBuffer> {
+function pkcs8In(pem: string): Uint8Array<ArrayBuffer> {
   const body = pem.replace(/-----[^-]+-----/g, "").replace(/\s+/g, "")
   if (body === "") {
     throw new Error(
@@ -67,7 +67,7 @@ export function pkcs8In(pem: string): Uint8Array<ArrayBuffer> {
   return der
 }
 
-export async function buildApnsJwt(args: {
+async function buildApnsJwt(args: {
   readonly pem: string
   readonly keyId: string
   readonly teamId: string
@@ -91,7 +91,7 @@ export async function buildApnsJwt(args: {
   return `${signing}.${base64Url(signature)}`
 }
 
-export function apnsSender(pem: string): ApnsSender {
+function apnsSender(pem: string): ApnsSender {
   let signed: { readonly jwt: string; readonly atSeconds: number } | null = null
   let session: http2.ClientHttp2Session | null = null
 

@@ -29,7 +29,7 @@ const PAGE_TYPE = "agent-hook"
 
 const ASKING_TYPE = "inference-hook"
 
-export const HOOK_TYPES: readonly string[] = [PAGE_TYPE, ASKING_TYPE]
+const HOOK_TYPES: readonly string[] = [PAGE_TYPE, ASKING_TYPE]
 
 const CODE = "code"
 
@@ -187,7 +187,7 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
   return rewriting(event, carried[INPUT] as Record<string, unknown>)
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   const raw = await Bun.stdin.text()
   let payload: Record<string, unknown> | null
   try {

@@ -85,7 +85,7 @@ function typedFrom(root: string, typeSlug: string): string {
   return importedFrom(at)
 }
 
-export function sourceBodyOf(root: string, source: string): string {
+function sourceBodyOf(root: string, source: string): string {
   const typeSlug = typeSlugOf(root, LOG_SOURCE_TYPE)
   return [
     `import type { ${typedAs(typeSlug)} } from "${typedFrom(root, typeSlug)}"`,
@@ -98,7 +98,7 @@ export function sourceBodyOf(root: string, source: string): string {
   ].join("\n")
 }
 
-export function dayBodyOf(
+function dayBodyOf(
   root: string,
   slug: string,
   source: string,

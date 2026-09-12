@@ -92,7 +92,7 @@ async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
   }
 }
 
-export function judging(root: string, agent: string, asked: string, turn: string): Answer {
+function judging(root: string, agent: string, asked: string, turn: string): Answer {
   const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
   if (person === null) return LET_THROUGH
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
@@ -111,7 +111,7 @@ export function judging(root: string, agent: string, asked: string, turn: string
   return LET_THROUGH
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   if (Bun.argv[2] === SCOPE_FLAG) {
     process.stdout.write(`${SCOPE.join("\n")}\n`)
     return ASIDE

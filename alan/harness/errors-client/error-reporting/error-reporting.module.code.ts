@@ -14,7 +14,7 @@ export function setReleaseSha(sha: string): undefined {
   return undefined
 }
 
-export function resolveReportReleaseSha(
+function resolveReportReleaseSha(
   inputReleaseSha: string | undefined,
   defaultSha: string
 ): string | undefined {

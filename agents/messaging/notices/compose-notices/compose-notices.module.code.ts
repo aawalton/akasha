@@ -79,7 +79,7 @@ export function render(body: string): string {
     .join("\n\n")
 }
 
-export function noticesIn(root: string): Readonly<Record<string, string>> {
+function noticesIn(root: string): Readonly<Record<string, string>> {
   const rendered: Record<string, string> = {}
   for (const one of valuesOfType(root, PAGE_TYPE)) {
     const named = partedIn(one.path)

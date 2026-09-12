@@ -10,7 +10,7 @@ import { money } from "akasha/alan/harness/monarch/transaction/monarch-transacti
 export const MODEL = "sonnet"
 export const BATCH = 10
 
-export const NOT_A_CATEGORY = "Uncategorized"
+const NOT_A_CATEGORY = "Uncategorized"
 
 export function offerable(titles: Iterable<string>): readonly string[] {
   return [...new Set(titles)].filter((name) => name !== NOT_A_CATEGORY).sort()
@@ -39,7 +39,7 @@ function line(candidate: Candidate, index: number): string {
   )
 }
 
-export function prompt(categories: readonly string[], batch: readonly Candidate[]): string {
+function prompt(categories: readonly string[], batch: readonly Candidate[]): string {
   return [
     "You are categorizing transactions for one household's personal finances.",
     "",

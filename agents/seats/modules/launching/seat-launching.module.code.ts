@@ -6,13 +6,13 @@ import {
 import { sessionHeld } from "akasha/agents/seats/modules/stopping/seat-stopping.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
-export const TMUX_HISTORY_LIMIT = "50000"
+const TMUX_HISTORY_LIMIT = "50000"
 
 export const SEAT_MODE_INTERACTIVE = "interactive"
 
-export const SEAT_MODE_HEADLESS = "headless"
+const SEAT_MODE_HEADLESS = "headless"
 
-export const SEAT_MODES: readonly string[] = [SEAT_MODE_INTERACTIVE, SEAT_MODE_HEADLESS]
+const SEAT_MODES: readonly string[] = [SEAT_MODE_INTERACTIVE, SEAT_MODE_HEADLESS]
 
 export const DEFAULT_ACCOUNT = "aawalton"
 
@@ -229,7 +229,7 @@ export type Spawning = {
   readonly settle: (ms: number) => Promise<void>
 }
 
-export const SPAWNING: Spawning = {
+const SPAWNING: Spawning = {
   ran: answerOf,
   held: sessionHeld,
   at: () => Date.now(),

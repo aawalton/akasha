@@ -101,7 +101,7 @@ function namedForType(pageTypeSlug: string, slug: string): string {
   return `${slug}.${pageTypeSlug}.ts`
 }
 
-export async function landing(
+async function landing(
   pageTypeSlug: string,
   folder: string,
   already: readonly PageFile[],
@@ -150,7 +150,7 @@ export async function landing(
   return { items, minted: made, changed: moved, slugs }
 }
 
-export function accountWanted(a: MonarchAccount): Wanted {
+function accountWanted(a: MonarchAccount): Wanted {
   return {
     monarchId: a.id,
     title: a.displayName,
@@ -167,7 +167,7 @@ export function accountWanted(a: MonarchAccount): Wanted {
   }
 }
 
-export function categoryWanted(c: MonarchCategory): Wanted {
+function categoryWanted(c: MonarchCategory): Wanted {
   const values: Record<string, Value> = {}
   if (c.groupName !== null) values.categoryGroup = c.groupName
   if (c.groupType !== null) values.categoryGroupType = c.groupType
@@ -180,7 +180,7 @@ export function categoryWanted(c: MonarchCategory): Wanted {
   }
 }
 
-export function tagWanted(t: MonarchTag): Wanted {
+function tagWanted(t: MonarchTag): Wanted {
   const values: Record<string, Value> = {}
   if (t.color !== null) values.tagColour = t.color
   if (t.order !== null) values.tagPlace = t.order
@@ -193,7 +193,7 @@ export function tagWanted(t: MonarchTag): Wanted {
   }
 }
 
-export function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
+function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
   const values: Record<string, Value> = {
     account: accountSlug,
     securityName: h.securityName,

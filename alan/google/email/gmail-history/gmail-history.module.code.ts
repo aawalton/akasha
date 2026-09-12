@@ -8,7 +8,7 @@ import type { z } from "zod"
 
 type ParsedHistoryList = z.infer<typeof gmailHistoryListSchema>
 
-export function extractMessageIds(parsed: ParsedHistoryList): readonly string[] {
+function extractMessageIds(parsed: ParsedHistoryList): readonly string[] {
   const ids: string[] = []
   for (const entry of parsed.history ?? []) {
     for (const added of entry.messagesAdded ?? []) {

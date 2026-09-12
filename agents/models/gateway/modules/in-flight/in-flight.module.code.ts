@@ -4,7 +4,7 @@ export type IdleWaitTimers = {
   readonly waited: (ms: number, fired: () => undefined) => () => undefined
 }
 
-export const REAL_WAIT_TIMERS: IdleWaitTimers = {
+const REAL_WAIT_TIMERS: IdleWaitTimers = {
   waited: (ms, fired) => {
     const handle = setTimeout(fired, ms)
     handle.unref?.()

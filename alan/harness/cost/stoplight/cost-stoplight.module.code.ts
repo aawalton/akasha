@@ -23,15 +23,13 @@ import { askingFor } from "akasha/pages/service/page-calling/page-calling.module
 
 const READOUT = "readout"
 
-export const COST_GROUP = "cost"
+const COST_GROUP = "cost"
 
-export const SURPLUS_READOUT = "upkeep-surplus"
+const SURPLUS_READOUT = "upkeep-surplus"
 
 const NO_FIGURE = ""
 
-export async function surplusNow(
-  readingHeld: ReadingHeld = relayedReading
-): Promise<Stoplight | null> {
+async function surplusNow(readingHeld: ReadingHeld = relayedReading): Promise<Stoplight | null> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { slug: { is: SURPLUS_READOUT } },
@@ -44,16 +42,13 @@ export async function surplusNow(
   return await stoplightOf(row, HABIT, readingHeld)
 }
 
-export function countingDown(
-  cost: number,
-  surplus: Stoplight | null
-): Pick<Stoplight, "coloredWith"> {
+function countingDown(cost: number, surplus: Stoplight | null): Pick<Stoplight, "coloredWith"> {
   if (!(cost > 0) || surplus === null) return {}
   if (surplus.readingHeld !== undefined) return {}
   return { coloredWith: surplus }
 }
 
-export function costStoplightWith(
+function costStoplightWith(
   row: Values,
   surplus: Stoplight | null,
   readingHeld: ReadingHeld = relayedReading

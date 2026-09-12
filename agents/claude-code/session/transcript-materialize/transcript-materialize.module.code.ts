@@ -17,7 +17,7 @@ export interface MaterializeTranscriptResult {
   readonly downloaded: boolean
 }
 
-export function transcriptSessionIds(text: string): ReadonlySet<string> {
+function transcriptSessionIds(text: string): ReadonlySet<string> {
   const ids = new Set<string>()
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
@@ -34,7 +34,7 @@ export function transcriptCarriesSession(text: string, sessionId: string): boole
   return transcriptSessionIds(text).has(sessionId)
 }
 
-export function transcriptRecordCount(text: string, sessionId: string): number {
+function transcriptRecordCount(text: string, sessionId: string): number {
   let count = 0
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
@@ -47,7 +47,7 @@ export function transcriptRecordCount(text: string, sessionId: string): number {
   return count
 }
 
-export function decideResumeSource(facts: {
+function decideResumeSource(facts: {
   localRecords: number
   remoteRecords: number
 }): "keep-local" | "write-remote" | "fail" {

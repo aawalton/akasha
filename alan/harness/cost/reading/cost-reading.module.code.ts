@@ -8,7 +8,7 @@ import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.
 
 export const READOUT_SLUG = "cost-multiplier"
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no open block carries both a safety level and a difficulty level, so there is no cost to " +
   "take. A tile showing no signal is right where a tile showing a cost Alan is not paying " +
   "would be a lie."

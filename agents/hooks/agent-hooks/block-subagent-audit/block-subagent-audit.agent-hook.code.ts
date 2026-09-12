@@ -145,7 +145,7 @@ export function answerFor(raw: string): Answer {
   return narrowedBy(runs) ? refusing(REFUSAL) : LET_THROUGH
 }
 
-export async function ranAsJudging(): Promise<number> {
+async function ranAsJudging(): Promise<number> {
   if (Bun.argv[2] === SCOPE_FLAG) {
     process.stdout.write(`${SCOPE.join("\n")}\n`)
     return ASIDE
@@ -157,7 +157,7 @@ export async function ranAsJudging(): Promise<number> {
   }
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsJudging()
 }
 

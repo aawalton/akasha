@@ -14,15 +14,15 @@ import { z } from "zod"
 
 export const ASC_KEY_ID = "Q5485KN54Y"
 export const ASC_ISSUER_ID = "69a6de75-758d-47e3-e053-5b8c7c11a4d1"
-export const ASC_KEY_PATH = "$HOME/.appstoreconnect/private_keys/AuthKey_Q5485KN54Y.p8"
+const ASC_KEY_PATH = "$HOME/.appstoreconnect/private_keys/AuthKey_Q5485KN54Y.p8"
 
-export const KEYCHAIN_PASSWORD_ENV = "MACBOOK_KEYCHAIN_PASSWORD"
+const KEYCHAIN_PASSWORD_ENV = "MACBOOK_KEYCHAIN_PASSWORD"
 
 export const KEYCHAIN_PASSWORD_SSH_ENV = "LC_MACBOOK_KEYCHAIN_PASSWORD"
 
 export const MAC_PATH_PREFIX = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 
-export const MAC_ENSURE_BUN = [
+const MAC_ENSURE_BUN = [
   "if ! command -v bun >/dev/null 2>&1; then",
   '  command -v brew >/dev/null 2>&1 || { echo "ERROR: this mac has neither bun nor homebrew, and the build installs bun through homebrew." >&2; exit 1; }',
   "  brew install bun",
@@ -90,7 +90,7 @@ export function readNativeShellHealthkitEnv(): string | undefined {
   return parsed.success ? parsed.data : undefined
 }
 
-export const RING_CREDENTIAL_ENV = "NATIVE_SHELL_RING_CREDENTIAL"
+const RING_CREDENTIAL_ENV = "NATIVE_SHELL_RING_CREDENTIAL"
 
 export function readRingCredentialFor(app: MobileApp): string | undefined {
   const script = ringCredentialScriptFor(app)
@@ -125,9 +125,9 @@ export function buildKeychainUnlock(): string {
   ].join("\n")
 }
 
-export const MAC_SHELL_CLONE = "$HOME/repos/akasha"
+const MAC_SHELL_CLONE = "$HOME/repos/akasha"
 
-export const CHECKOUT_VAR = "NATIVE_SHELL_CHECKOUT"
+const CHECKOUT_VAR = "NATIVE_SHELL_CHECKOUT"
 
 export const CHECKOUT_ROOT = `"$${CHECKOUT_VAR}"`
 

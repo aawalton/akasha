@@ -40,7 +40,7 @@ function valueAfter(argv: readonly string[], flag: string): string | null {
   return value
 }
 
-export function statedForPage(
+function statedForPage(
   agentId: string,
   account: string | null = null,
   selfHealAgent: string | null = null,

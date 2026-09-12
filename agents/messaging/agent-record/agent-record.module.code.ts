@@ -8,7 +8,7 @@ export type SeatReading =
   | { readonly kind: "no-page" }
   | { readonly kind: "unreachable"; readonly why: string }
 
-export function readSeatPage(handler: string): SeatReading {
+function readSeatPage(handler: string): SeatReading {
   try {
     return akashaSeatIdForName(handler) === null ? { kind: "no-page" } : { kind: "page-stands" }
   } catch (error) {
@@ -16,7 +16,7 @@ export function readSeatPage(handler: string): SeatReading {
   }
 }
 
-export async function writeAnnouncement(
+async function writeAnnouncement(
   handler: string,
   body: string,
   log: (line: string) => void,

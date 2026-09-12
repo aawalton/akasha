@@ -35,7 +35,7 @@ export type Minting = {
   readonly saved: (name: string, value: string) => string
 }
 
-export const MINTING: Minting = {
+const MINTING: Minting = {
   asked: (url, body) => fetch(url, { method: "POST", body }),
   saved: saveWorkstationSecret,
 }

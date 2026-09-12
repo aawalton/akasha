@@ -30,7 +30,7 @@ export async function fetchUnreadCount(): Promise<number> {
   return parseUnreadCount(await runSshCapture(MACBOOK, buildChatDbScript(buildCountUnreadSql())))
 }
 
-export async function fetchHandles(): Promise<readonly ImessageHandle[]> {
+async function fetchHandles(): Promise<readonly ImessageHandle[]> {
   return parseHandleRows(await runSshCapture(MACBOOK, buildChatDbScript(buildHandlesSql())))
 }
 

@@ -65,7 +65,7 @@ function delayOf(stated: unknown, relPath: string): number {
   return minutes
 }
 
-export function pageOf(at: string): Record<string, unknown> {
+function pageOf(at: string): Record<string, unknown> {
   const declared = load(at) as Record<string, unknown>
   const values = Object.values(declared).filter(
     (one): one is Record<string, unknown> => typeof one === "object" && one !== null

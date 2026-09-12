@@ -21,7 +21,7 @@ export interface MimeMessageInput {
 
 const NON_ASCII = /[^\x20-\x7e]/
 
-export function encodeHeaderText(value: string): string {
+function encodeHeaderText(value: string): string {
   if (!NON_ASCII.test(value)) return value
   return `=?UTF-8?B?${Buffer.from(value, "utf-8").toString("base64")}?=`
 }

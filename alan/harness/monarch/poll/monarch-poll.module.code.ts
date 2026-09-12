@@ -29,7 +29,7 @@ export interface PollTally {
 
 const REFETCH_IDS = 400
 
-export function changedIds(
+function changedIds(
   stamps: readonly MonarchStamp[],
   held: ReadonlyMap<string, string | null>
 ): readonly string[] {
@@ -40,7 +40,7 @@ export function changedIds(
   return changed
 }
 
-export function heldWatermarks(rows: readonly MirroredRow[]): ReadonlyMap<string, string | null> {
+function heldWatermarks(rows: readonly MirroredRow[]): ReadonlyMap<string, string | null> {
   return new Map(rows.map((row) => [row.monarchId, row.updatedAt]))
 }
 

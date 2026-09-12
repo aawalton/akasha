@@ -122,10 +122,7 @@ export function messageLines(
   )
 }
 
-export function messageRecords(
-  messages: readonly ImessageMessage[],
-  name: NameFor
-): readonly unknown[] {
+function messageRecords(messages: readonly ImessageMessage[], name: NameFor): readonly unknown[] {
   return oldestFirst(messages).map((one) => ({
     rowid: one.rowid,
     guid: one.guid,

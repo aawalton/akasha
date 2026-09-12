@@ -9,9 +9,9 @@ import {
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-export const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
+const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
 
-export const USAGE_READ_AT = "usageReadAt"
+const USAGE_READ_AT = "usageReadAt"
 
 const NOTHING_BESIDE = "nothing sits beside its page, or nothing that parsed"
 

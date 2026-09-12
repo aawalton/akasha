@@ -23,7 +23,7 @@ import {
 
 export const DEFAULT_HOLD_POLL_MS = 2000
 
-export const COMMITTED_SSE_HEADERS: Readonly<Record<string, string>> = {
+const COMMITTED_SSE_HEADERS: Readonly<Record<string, string>> = {
   "content-type": "text/event-stream; charset=utf-8",
   "cache-control": "no-cache",
   connection: "keep-alive",

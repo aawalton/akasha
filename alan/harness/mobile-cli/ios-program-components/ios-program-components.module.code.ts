@@ -15,7 +15,7 @@ type ProgramPage = (typeof PROGRAM_PAGES)[number]
 
 const COMPONENT_PREFIX = "ios-component/"
 
-export const COMPONENT_SUFFIX = ".ios-component.swift.swift"
+const COMPONENT_SUFFIX = ".ios-component.swift.swift"
 
 function programPage(programSlug: string): ProgramPage {
   const page = PROGRAM_PAGES.find((held) => held.slug === programSlug)
@@ -30,7 +30,7 @@ function programPage(programSlug: string): ProgramPage {
   return page
 }
 
-export function componentSwiftForProgram(programSlug: string): readonly string[] {
+function componentSwiftForProgram(programSlug: string): readonly string[] {
   const page = programPage(programSlug)
   const named: readonly string[] = page.components ?? []
   return named.map((one) => {
@@ -49,7 +49,7 @@ export function componentSwiftFor(appSlug: string): readonly string[] {
   return componentSwiftForProgram(`${appSlug}-widget`)
 }
 
-export function targetNameForProgram(programSlug: string): string {
+function targetNameForProgram(programSlug: string): string {
   const page = programPage(programSlug)
   const named: string | undefined = "targetName" in page ? page.targetName : undefined
   if (typeof named !== "string" || named === "") {

@@ -1,9 +1,9 @@
 import { ANTHROPIC_ERROR_ENVELOPE_SCHEMA } from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 import { z } from "zod"
 
-export const FORCED_TOOL_CHOICE_STATUS = 400
+const FORCED_TOOL_CHOICE_STATUS = 400
 
-export const INVALID_REQUEST_ERROR_TYPE = "invalid_request_error"
+const INVALID_REQUEST_ERROR_TYPE = "invalid_request_error"
 
 export const FORCED_TOOL_CHOICE_MESSAGE_PREFIX = "tool_choice forces tool use is not compatible"
 

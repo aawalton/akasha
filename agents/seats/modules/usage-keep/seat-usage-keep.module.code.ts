@@ -8,7 +8,7 @@ function parseUsageReading(held: unknown): UsageReading {
   return usageIn(held)
 }
 
-export async function keepUsageFromStdin(agent: string): Promise<undefined> {
+async function keepUsageFromStdin(agent: string): Promise<undefined> {
   if (agent === "") return
   try {
     const said: unknown = JSON.parse(await Bun.stdin.text())

@@ -16,15 +16,15 @@ import {
 import type { StartOAuthProxyOptions } from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
 import type { ArmableStreamObserver } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
-export const ROOT = "/var/tmp/proxy-serving-root"
+const ROOT = "/var/tmp/proxy-serving-root"
 
 export const PORT = 4321
 
 export const SOCKET_PATH = "/var/tmp/proxy-serving-root/rc.sock"
 
-export const AT = "http://localhost:4321"
+const AT = "http://localhost:4321"
 
-export const NOW = 1_700_000_000_000
+const NOW = 1_700_000_000_000
 
 export const STUB_OAUTH: OAuthEffects = {
   getBestCredential: async () => null,
@@ -36,7 +36,7 @@ export const STUB_OAUTH: OAuthEffects = {
   clearAccountSubscriptionDisabled: async () => undefined,
 }
 
-export const STILL_TIMERS: IdleTimers = {
+const STILL_TIMERS: IdleTimers = {
   set: () => setTimeout(() => undefined, 0),
   clear: () => undefined,
 }

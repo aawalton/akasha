@@ -129,7 +129,7 @@ async function answerTo(at: string, token: string, model: string, prompt: string
   throw new Error(`${UNREACHED_SAID} after ${TRIES} tries`)
 }
 
-export async function modelAsking(asking: Asking): Promise<readonly string[]> {
+async function modelAsking(asking: Asking): Promise<readonly string[]> {
   const at = endpoint()
   const token = await credential()
   const answers: string[] = new Array(asking.prompts.length).fill("")

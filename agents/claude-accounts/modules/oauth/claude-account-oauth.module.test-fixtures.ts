@@ -14,7 +14,7 @@ export type Same<A, B> =
 
 export const FAKE_ACCESS_TOKEN = "FAKE-access-000000"
 
-export const FAKE_REFRESH_TOKEN = "FAKE-refresh-00000"
+const FAKE_REFRESH_TOKEN = "FAKE-refresh-00000"
 
 export const FAKE_ACCOUNT_UUID = "11111111-2222-7333-8444-555555555555"
 
@@ -86,7 +86,7 @@ export const RECENT_ATTEMPT: RepollGateState = {
 
 export const AT_EPOCH: RepollGateState = { lastAttemptMs: 0, breakerUntilMs: null }
 
-export const FRESH_CREDENTIAL = {
+const FRESH_CREDENTIAL = {
   account: "acct-a",
   accessToken: FAKE_ACCESS_TOKEN,
   refreshToken: FAKE_REFRESH_TOKEN,

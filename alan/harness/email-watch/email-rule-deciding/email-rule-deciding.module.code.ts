@@ -7,7 +7,7 @@ import {
   matches as matchesIn,
 } from "akasha/alan/harness/rules-engine/rule-partition/rule-partition.module.code.ts"
 
-export function caseOf(message: Message): Case {
+function caseOf(message: Message): Case {
   return {
     from: message.fromAddress,
     to: message.to,
@@ -16,7 +16,7 @@ export function caseOf(message: Message): Case {
   }
 }
 
-export function matches(conditions: readonly Condition[], message: Message): boolean {
+function matches(conditions: readonly Condition[], message: Message): boolean {
   return matchesIn(EMAIL_RULE_SET, conditions, caseOf(message))
 }
 

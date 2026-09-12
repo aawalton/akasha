@@ -22,7 +22,7 @@ export function onCallRolesIn(values: readonly { readonly value: unknown }[]): R
   return found
 }
 
-export function onCallRoles(): ReadonlySet<string> {
+function onCallRoles(): ReadonlySet<string> {
   return onceInCall(HELD, () => onCallRolesIn(valuesOfType(akashaRoot(), ROLE)))
 }
 

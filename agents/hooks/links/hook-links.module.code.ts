@@ -42,7 +42,7 @@ export function linkFor(event: string): string {
   return join(linksAt(), event)
 }
 
-export function dispatchAt(root: string): string {
+function dispatchAt(root: string): string {
   const listed = listedAt(root, MODULE, DISPATCH)
   const page = listed.length === 1 ? listed[0]?.path : undefined
   if (page === undefined) {
@@ -100,7 +100,7 @@ export function anothersIn(held: string | null, root: string): boolean {
   return existsSync(held)
 }
 
-export function linkedTo(at: string, event: string, root: string): undefined {
+function linkedTo(at: string, event: string, root: string): undefined {
   const link = linkFor(event)
   let held: string | null
   try {
@@ -144,7 +144,7 @@ export function danglingIn(): readonly string[] {
   return named.filter((one) => !one.includes(HALF_WRITTEN) && !reaches(linkFor(one))).toSorted()
 }
 
-export function linksMended(root: string): undefined {
+function linksMended(root: string): undefined {
   const gone = danglingIn()
   if (gone.length === 0) return undefined
   return linksMade(root, gone)

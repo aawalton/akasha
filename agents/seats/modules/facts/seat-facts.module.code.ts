@@ -9,7 +9,7 @@ import {
 import { seatRoster } from "akasha/agents/seats/modules/roster/seat-roster.module.code.ts"
 import { seatWhoami } from "akasha/agents/seats/modules/whoami/seat-whoami.module.code.ts"
 
-export const SEAT_MODE_INTERACTIVE = "interactive"
+const SEAT_MODE_INTERACTIVE = "interactive"
 
 export interface SeatFacts {
   readonly name: string

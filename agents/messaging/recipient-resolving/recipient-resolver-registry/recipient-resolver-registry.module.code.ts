@@ -24,7 +24,7 @@ export const ALAN_HANDLER_SEAT = handlerSeatName("alan", ROOT)
 
 const ACTION_BOX_AGENT_ID = "019ef9ea-83e2-707e-b1f3-3b70875a8e88"
 
-export const IRIS_SPEC: OnDemandAgentSpec = {
+const IRIS_SPEC: OnDemandAgentSpec = {
   name: "iris",
   wakeSources: [
     {
@@ -46,7 +46,7 @@ export const IRIS_SPEC: OnDemandAgentSpec = {
   owner: "aine",
 }
 
-export const ARIA_STAGED_SPEC: OnDemandAgentSpec = {
+const ARIA_STAGED_SPEC: OnDemandAgentSpec = {
   name: "aria",
   wakeSources: [
     {
@@ -71,7 +71,7 @@ export const ARIA_STAGED_SPEC: OnDemandAgentSpec = {
   owner: "aine",
 }
 
-export const KI_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("amy", "ki", ROOT, {
+const KI_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("amy", "ki", ROOT, {
   owner: "amy",
   stateAuthorityDetail:
     "Ki's owned content pages (books/anime/reviews), RLS-owned by her accountUserId",
@@ -79,7 +79,7 @@ export const KI_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("amy", "ki",
 
 export const KI_HANDLER_WAKE_SOURCE = smsWakeSource(KI_HANDLER_SPEC.name)
 
-export const JENNY_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("claude", "jenny", ROOT, {
+const JENNY_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("claude", "jenny", ROOT, {
   owner: "atlas",
   stateAuthorityDetail:
     "Jenny's owned Atlas content pages (location/location-collection/collection), RLS-owned by her accountUserId",
@@ -87,10 +87,7 @@ export const JENNY_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("claude",
 
 export const JENNY_HANDLER_WAKE_SOURCE = smsWakeSource(JENNY_HANDLER_SPEC.name)
 
-export const SMS_ENTRY_POINT_SPECS: readonly OnDemandAgentSpec[] = [
-  KI_HANDLER_SPEC,
-  JENNY_HANDLER_SPEC,
-]
+const SMS_ENTRY_POINT_SPECS: readonly OnDemandAgentSpec[] = [KI_HANDLER_SPEC, JENNY_HANDLER_SPEC]
 
 const DECLARED_SPECS: readonly OnDemandAgentSpec[] = [
   IRIS_SPEC,
@@ -111,7 +108,7 @@ function seatedHandlerSpec(
   )
 }
 
-export function assembleArmedSpecs(
+function assembleArmedSpecs(
   personaSlugs: readonly string[],
   personaWakeSources: ReadonlyMap<string, readonly CommsRule[]> = new Map(),
   personHandlers: readonly PersonHandlerIdentity[] = []

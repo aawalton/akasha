@@ -17,7 +17,7 @@ const FIELDS: readonly Field[] = [
   { name: "to", type: "text", values: [], filler: "someone@unnamed." },
 ]
 
-export const EMAIL_RULE_PATH =
+const EMAIL_RULE_PATH =
   /^(?<holder>[a-z0-9-]+)\/harness\/inboxes\/email-rules\/(?<kind>agent|code)s\/pages\/(?<slug>[a-z0-9-]+)\.email-rule-\k<kind>\.ts$/
 
 export function ruleFolderIn(person: string, kind: EmailRuleKind): string {

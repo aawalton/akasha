@@ -2,7 +2,7 @@ import type { Page } from "akasha/pages/core/page-types/page-types.module.code.t
 import { toNumber } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import { z } from "zod"
 
-export const LocationPinSchema = z.object({
+const LocationPinSchema = z.object({
   id: z.string(),
   title: z.string(),
   latitude: z.number().min(-90).max(90),

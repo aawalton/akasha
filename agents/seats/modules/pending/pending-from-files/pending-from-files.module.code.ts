@@ -21,7 +21,7 @@ export interface SeatPending {
 
 const BLOCKED = "blocked"
 
-export function sendersStandingBlocked(): ReadonlySet<string> {
+function sendersStandingBlocked(): ReadonlySet<string> {
   const found = new Set<string>()
   for (const to of everyRecipient()) {
     for (const one of messagesTo(to)) {

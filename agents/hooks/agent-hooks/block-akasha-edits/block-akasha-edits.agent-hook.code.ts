@@ -21,7 +21,7 @@ const EDIT = "Edit"
 
 const NOTEBOOK_EDIT = "NotebookEdit"
 
-export const JUDGED: readonly string[] = [WRITE, EDIT, NOTEBOOK_EDIT]
+const JUDGED: readonly string[] = [WRITE, EDIT, NOTEBOOK_EDIT]
 
 export const SCOPE: readonly string[] = [
   "block-akasha-edits refuses Write, Edit and NotebookEdit landing anywhere inside this",
@@ -192,7 +192,7 @@ async function main(): Promise<number> {
   return REFUSED
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await main()
 }
 

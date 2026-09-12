@@ -13,11 +13,11 @@ import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { z } from "zod"
 
-export const SAMPLE_ROWS_KEY = "health-samples"
+const SAMPLE_ROWS_KEY = "health-samples"
 
-export const DAYS_KEPT_IN = "alan/track/daily/days/pages"
+const DAYS_KEPT_IN = "alan/track/daily/days/pages"
 
-export const DAY_SLUG_PREFIX = "day-"
+const DAY_SLUG_PREFIX = "day-"
 
 const HELD = "jsonl"
 
@@ -35,11 +35,11 @@ export function checkoutRoot(): string {
   return at
 }
 
-export function dayFolderAt(day: string): string {
+function dayFolderAt(day: string): string {
   return `${DAYS_KEPT_IN}/${day}`
 }
 
-export function dayPageAt(day: string): string {
+function dayPageAt(day: string): string {
   return `${dayFolderAt(day)}/${DAY_SLUG_PREFIX}${day}.${ANCHOR_PAGE_TYPE}.ts`
 }
 

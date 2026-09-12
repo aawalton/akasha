@@ -1,6 +1,6 @@
 import { chapterWords as countChapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
 
-export const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
+const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 
 const USER_AGENT =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
@@ -42,7 +42,7 @@ const ENTITIES: Record<string, string> = {
   "&quot;": '"',
 }
 
-export function decodeEntities(text: string): string {
+function decodeEntities(text: string): string {
   return text
     .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number(code)))
     .replace(/&#[xX]([0-9a-fA-F]+);/g, (_, code: string) =>
@@ -51,7 +51,7 @@ export function decodeEntities(text: string): string {
     .replace(/&nbsp;|&amp;|&lt;|&gt;|&#39;|&apos;|&quot;/g, (m) => ENTITIES[m] ?? m)
 }
 
-export function htmlToText(html: string): string {
+function htmlToText(html: string): string {
   return decodeEntities(
     html
       .replace(/<br\s*\/?>/gi, "\n")
@@ -76,7 +76,7 @@ interface ChapterJson {
   readonly visible?: number | boolean
 }
 
-export function parseChapterList(html: string): readonly RawChapter[] {
+function parseChapterList(html: string): readonly RawChapter[] {
   const raw = CHAPTERS_WITH_VOLUMES.exec(html)?.[1] ?? CHAPTERS_PLAIN.exec(html)?.[1]
   if (raw === undefined) return []
   let list: readonly ChapterJson[]
@@ -109,7 +109,7 @@ function textOfAll(html: string, pattern: RegExp): string[] {
   return out
 }
 
-export function parseStatus(html: string): string | null {
+function parseStatus(html: string): string | null {
   const labels = textOfAll(html, /<span[^>]*class="[^"]*\blabel\b[^"]*"[^>]*>([\s\S]*?)<\/span>/gi)
   for (const label of labels) {
     const upper = label.toUpperCase()
@@ -118,7 +118,7 @@ export function parseStatus(html: string): string | null {
   return null
 }
 
-export function parseTags(html: string): readonly string[] {
+function parseTags(html: string): readonly string[] {
   const tags = textOfAll(html, /<a[^>]*class="[^"]*\bfiction-tag\b[^"]*"[^>]*>([\s\S]*?)<\/a>/gi)
   return [...new Set(tags)]
 }

@@ -9,9 +9,9 @@ import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akash
 
 export const SETTLED_MS = 60_000
 
-export const HEAD_LINES = 16
+const HEAD_LINES = 16
 
-export const HEAD_BYTES = 262_144
+const HEAD_BYTES = 262_144
 
 const SUFFIX = ".jsonl"
 

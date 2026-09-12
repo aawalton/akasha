@@ -27,7 +27,7 @@ function readAttached(): ReadonlySet<string> | null {
 
 let held: { readonly at: number; readonly sessions: ReadonlySet<string> | null } | null = null
 
-export function attachedSessions(): ReadonlySet<string> | null {
+function attachedSessions(): ReadonlySet<string> | null {
   const now = Date.now()
   if (held !== null && now - held.at < HELD_FOR_MS) return held.sessions
   held = { at: now, sessions: readAttached() }

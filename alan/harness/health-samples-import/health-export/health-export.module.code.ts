@@ -164,7 +164,7 @@ export interface FetchScriptOptions {
   readonly metrics: readonly HealthMetric[]
 }
 
-export function buildAwkProgram(sinceDay: string, metrics: readonly HealthMetric[]): string {
+function buildAwkProgram(sinceDay: string, metrics: readonly HealthMetric[]): string {
   const typeMatch = identifiersFor(metrics)
     .map((t) => `/type="${t}"/`)
     .join("||")

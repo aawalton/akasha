@@ -10,7 +10,7 @@ import {
 } from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
 import { buildAnthropicSseErrorFrame } from "akasha/agents/models/gateway/modules/sse-error-frame/sse-error-frame.module.code.ts"
 
-export const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const
+const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const
 
 const NEWLINE_BYTES = new Uint8Array([0x0a])
 

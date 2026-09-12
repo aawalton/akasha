@@ -60,7 +60,7 @@ export function charismaOf(day: Day): number | null {
   return charismaIn(held.map((one) => spelledBack(one as Day)))
 }
 
-export const OVER_THE_DAYS: readonly Summing[] = [
+const OVER_THE_DAYS: readonly Summing[] = [
   { page: STRENGTH_PAGE, pointsOf: strengthIn },
   { page: ENDURANCE_PAGE, pointsOf: enduranceIn },
   { page: WISDOM_PAGE, pointsOf: wisdomIn },
@@ -87,7 +87,7 @@ export function daysCounted(days: readonly Day[], before?: string): readonly Day
   return counted.filter((day) => String(day[DATE] ?? "") < before)
 }
 
-export function daysTracked(root: string): readonly Day[] {
+function daysTracked(root: string): readonly Day[] {
   const asked = asking(root, { pageTypeSlug: DAY_PAGE_TYPE, keys: DAY_KEYS } as never)
   if ("refused" in asked) {
     throw new Error(
@@ -99,7 +99,7 @@ export function daysTracked(root: string): readonly Day[] {
   return days
 }
 
-export function spanTracked(days: readonly Day[]): { readonly from: string; readonly to: string } {
+function spanTracked(days: readonly Day[]): { readonly from: string; readonly to: string } {
   const first = days[0]
   const last = days[days.length - 1]
   if (first === undefined || last === undefined) throw new Error(NO_DAY_TRACKED)

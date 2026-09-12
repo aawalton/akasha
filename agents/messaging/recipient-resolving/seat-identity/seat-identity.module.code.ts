@@ -8,7 +8,7 @@ export interface SeatIdentity {
   readonly id: string
 }
 
-export function seatIdentityIn(frontmatter: Record<string, unknown>): SeatIdentity | null {
+function seatIdentityIn(frontmatter: Record<string, unknown>): SeatIdentity | null {
   const id = frontmatter[ID_KEY]
   if (typeof id !== "string" || id === "") return null
   return { id }

@@ -7,9 +7,9 @@ import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { SMILINGJENNY_PUSH_APP } from "akasha/persons/push-apps/push-apps.module.code.ts"
 
-export const SURPLUS_FALL_KIND = "surplus-fall"
+const SURPLUS_FALL_KIND = "surplus-fall"
 
-export const DEEP_LINK_PATH_KEY = "path"
+const DEEP_LINK_PATH_KEY = "path"
 
 export function notificationFeedRoute(feed: Feed): string {
   return buildPageHref({

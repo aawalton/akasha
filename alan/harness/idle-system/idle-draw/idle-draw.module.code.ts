@@ -26,7 +26,7 @@ function coverImageId(cover: string): string {
   return cover.startsWith(API_IMAGE_PREFIX) ? cover.slice(API_IMAGE_PREFIX.length) : cover
 }
 
-export function colorForSlug(slug: string): string {
+function colorForSlug(slug: string): string {
   let h = 0x811c9dc5
   for (let i = 0; i < slug.length; i++) {
     h ^= slug.charCodeAt(i)

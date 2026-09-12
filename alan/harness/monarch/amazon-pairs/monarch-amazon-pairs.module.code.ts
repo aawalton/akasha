@@ -25,7 +25,7 @@ export interface Undecided {
   readonly netCents: number
 }
 
-export function undecided(category: string | null): boolean {
+function undecided(category: string | null): boolean {
   return category === null || category === "Uncategorized"
 }
 
@@ -39,7 +39,7 @@ function byOrder(rows: readonly PairRow[]): ReadonlyMap<string, readonly PairRow
   return grouped
 }
 
-export function undecidedPairs(rows: readonly PairRow[]): readonly Undecided[] {
+function undecidedPairs(rows: readonly PairRow[]): readonly Undecided[] {
   const found: Undecided[] = []
   for (const [orderNumber, group] of byOrder(rows)) {
     const debits = group.filter((r) => r.amountCents < 0)
@@ -56,7 +56,7 @@ export function undecidedPairs(rows: readonly PairRow[]): readonly Undecided[] {
   return found
 }
 
-export function divergentPairs(rows: readonly PairRow[]): readonly Divergence[] {
+function divergentPairs(rows: readonly PairRow[]): readonly Divergence[] {
   const found: Divergence[] = []
   for (const [orderNumber, group] of byOrder(rows)) {
     const debits = group.filter((r) => r.amountCents < 0)
@@ -69,7 +69,7 @@ export function divergentPairs(rows: readonly PairRow[]): readonly Divergence[] 
   return found
 }
 
-export async function pairedRows(): Promise<readonly PairRow[]> {
+async function pairedRows(): Promise<readonly PairRow[]> {
   const titles = await categoryTitles()
   const held: PairRow[] = []
   for (const row of await readAllTransactions()) {

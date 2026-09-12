@@ -75,13 +75,13 @@ function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>, from:
   }
 }
 
-export async function allRows(): Promise<readonly Row[]> {
+async function allRows(): Promise<readonly Row[]> {
   const titles = await categoryTitles()
   const from = trustedFrom()
   return (await readAllTransactions()).map((line) => rowOf(line, titles, from))
 }
 
-export function matches(row: Row, filter: Filter): boolean {
+function matches(row: Row, filter: Filter): boolean {
   if (filter.ids !== undefined && !filter.ids.includes(row.monarchId)) return false
   if (filter.notId !== undefined && row.monarchId === filter.notId) return false
   if (filter.from !== undefined && row.date < filter.from) return false
@@ -112,7 +112,7 @@ function ordered(rows: readonly Row[], newestFirst: boolean): readonly Row[] {
   )
 }
 
-export async function rowsMatching(
+async function rowsMatching(
   filter: Filter,
   limit: number,
   newestFirst: boolean
@@ -121,7 +121,7 @@ export async function rowsMatching(
   return ordered(found, newestFirst).slice(0, limit)
 }
 
-export async function countMatching(filter: Filter): Promise<number> {
+async function countMatching(filter: Filter): Promise<number> {
   return (await allRows()).filter((row) => matches(row, filter)).length
 }
 
@@ -130,7 +130,7 @@ function categoryOf(row: Row): string {
   return `${row.category} (${row.trusted ? "trusted" : "untrusted"})`
 }
 
-export function show(row: Row): string {
+function show(row: Row): string {
   return (
     `${row.date} | ${money(row.amount)} | id=${row.monarchId} | account=${row.account} | ` +
     `merchant=${JSON.stringify(row.merchant)} | statement=${JSON.stringify(row.statement)} | ` +
@@ -211,7 +211,7 @@ async function account(text: string, from: string, to: string, limit: number): P
   )
 }
 
-export function usage(): string {
+function usage(): string {
   return [
     `bun ${evidenceFileAt()} <lookup> — read-only evidence about transactions`,
     "",

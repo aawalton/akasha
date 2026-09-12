@@ -19,7 +19,7 @@ import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-pr
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
-export const toCommsInput = (m: InboundMessageRow): CommsInput =>
+const toCommsInput = (m: InboundMessageRow): CommsInput =>
   wakeCommsInput({ senderAgentId: m.sender_agent_id, source: m.source, content: m.content })
 
 export async function defaultRecipientResolverDeps(

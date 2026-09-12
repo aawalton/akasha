@@ -1,4 +1,4 @@
-export const PENDING_VERDICTS = ["stopped", "live-child", "awaiting-reply", "none"] as const
+const PENDING_VERDICTS = ["stopped", "live-child", "awaiting-reply", "none"] as const
 
 export type PendingVerdict = (typeof PENDING_VERDICTS)[number]
 

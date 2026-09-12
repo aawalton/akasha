@@ -30,7 +30,7 @@ function names(text: string | undefined): boolean {
   return (text ?? "").toLowerCase().includes("audible")
 }
 
-export async function audibleCharges(): Promise<readonly Charge[]> {
+async function audibleCharges(): Promise<readonly Charge[]> {
   const monarchIds = new Map<string, string>()
   const titles = new Map<string, string>()
   for (const page of await categoryPages()) {
@@ -57,7 +57,7 @@ export async function audibleCharges(): Promise<readonly Charge[]> {
   return held.sort((one, other) => one.date.localeCompare(other.date))
 }
 
-export function actionFor(charge: Charge): Action {
+function actionFor(charge: Charge): Action {
   if (charge.categoryId === AUDIBLE_CATEGORY_ID) return "done"
   if (charge.amount > 0) return "recategorize-only"
   if (charge.categoryName === "Uncategorized") return "recategorize-only"

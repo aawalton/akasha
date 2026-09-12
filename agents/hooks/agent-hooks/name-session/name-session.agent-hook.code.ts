@@ -129,7 +129,7 @@ export function namingFor(
   return namingOver(payload, name, tailOf)
 }
 
-export function tailAt(at: string): string | null {
+function tailAt(at: string): string | null {
   return readOwnTranscriptTail(at, TAIL_BYTES, transcriptRecordOf)
 }
 
@@ -137,7 +137,7 @@ export function written(one: Naming): undefined {
   appendFileSync(one.at, one.lines)
 }
 
-export async function ranAsNaming(
+async function ranAsNaming(
   env: Readonly<Record<string, string | undefined>>,
   nameOf: (agent: string) => string | null = seatNameForAgent,
   tailOf: (at: string) => string | null = tailAt,
@@ -156,7 +156,7 @@ export async function ranAsNaming(
   return said(LET_THROUGH)
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsNaming(process.env)
 }
 

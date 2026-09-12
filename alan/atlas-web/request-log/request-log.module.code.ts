@@ -19,7 +19,7 @@ export type RequestCompletion = {
 
 const MAX_UA = 120
 
-export function sanitizeLogValue(value: string): string {
+function sanitizeLogValue(value: string): string {
   // biome-ignore lint/suspicious/noControlCharactersInRegex: stripping them is the point
   return value.replace(/[\u0000-\u001f\u007f]/g, ".")
 }

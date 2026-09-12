@@ -86,7 +86,7 @@ export function weighingPid(named: string): number | null {
   return DIGITS.test(tail) ? Number(tail) : null
 }
 
-export function leftSwept(): undefined {
+function leftSwept(): undefined {
   let own = ""
   try {
     own = readFileSync(OWN, "utf8").trim().split("\n")[0]?.split(":").at(-1) ?? ""
@@ -134,7 +134,7 @@ export function answerFor(payload: Record<string, unknown>, root: string): Answe
   })
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   const payload = payloadIn(await Bun.stdin.text())
   if (payload === null) return said(LET_THROUGH)
   try {

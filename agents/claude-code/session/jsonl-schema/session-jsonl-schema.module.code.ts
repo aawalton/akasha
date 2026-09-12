@@ -43,7 +43,7 @@ const UnknownContentBlock = shape
   .looseObject({ type: shape.string() })
   .refine((b) => !MODELED_CONTENT_BLOCK_TYPES.has(b.type), { message: "Invalid input" })
 
-export const ContentBlock = shape.union([ModeledContentBlock, UnknownContentBlock])
+const ContentBlock = shape.union([ModeledContentBlock, UnknownContentBlock])
 export type ContentBlock = Infer<typeof ContentBlock>
 
 const TokenUsage = shape.looseObject({

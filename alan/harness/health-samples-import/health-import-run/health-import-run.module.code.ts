@@ -24,7 +24,7 @@ import {
 
 export const MAX_IMPORT_BATCH = 1000
 
-export function checkpointSaid(at: string): string {
+function checkpointSaid(at: string): string {
   return `${at}, the checkpoint this run left outside the checkout`
 }
 

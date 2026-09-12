@@ -247,7 +247,7 @@ export function refusalFor(call: GitCall): string | null {
 
 export const refusalIn = judgingCalls(gitCallsIn, refusalFor)
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
 }
 

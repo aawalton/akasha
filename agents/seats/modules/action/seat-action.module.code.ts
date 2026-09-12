@@ -36,7 +36,7 @@ export function describeAckTimeout(verb: AckVerb, reason: AckTimeoutReason): str
   )
 }
 
-export function buildRequestedActionSet(
+function buildRequestedActionSet(
   request: AgentActionRequest,
   armedAtMs?: number
 ): Record<string, unknown> {

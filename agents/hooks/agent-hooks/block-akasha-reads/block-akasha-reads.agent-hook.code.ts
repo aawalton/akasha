@@ -42,7 +42,7 @@ export const SCOPE: readonly string[] = [
   "what the program says about itself, held as the text it prints rather than as a comment.",
 ]
 
-export function refusalFor(shown: string): string {
+function refusalFor(shown: string): string {
   return [
     `${HOOK}: Read reaches \`${shown}\`, inside this checkout.`,
     "The akasha command reads that folder, and records the read. Only a read it records counts,",
@@ -72,7 +72,7 @@ export function refusalIn(filePath: string, from: string, root: string): string 
   return insideOf(settled(join(here, DATA_AT)), at) ? null : refusalFor(shownIn(here, at))
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsHook(HOOK, FILE_PATH, SCOPE, import.meta.path, refusalIn)
 }
 

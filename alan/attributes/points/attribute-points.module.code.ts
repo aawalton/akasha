@@ -36,7 +36,7 @@ function numberKept(root: string, slug: string, key: string): number | null {
   return typeof points === "number" ? points : null
 }
 
-export function pointsBeforeTodayKept(root: string, slug: string): number | null {
+function pointsBeforeTodayKept(root: string, slug: string): number | null {
   return numberKept(root, slug, POINTS_BEFORE_TODAY)
 }
 

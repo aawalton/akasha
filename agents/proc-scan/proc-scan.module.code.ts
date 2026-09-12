@@ -2,7 +2,7 @@ import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { rejectSelfProc } from "akasha/agents/proc-tree/agent-proc-tree.module.code.ts"
 
-export function extractEnvironVar(environ: string, key: string): string | undefined {
+function extractEnvironVar(environ: string, key: string): string | undefined {
   const prefix = `${key}=`
   for (const entry of environ.split("\0")) {
     if (entry.startsWith(prefix)) return entry.slice(prefix.length)
@@ -10,7 +10,7 @@ export function extractEnvironVar(environ: string, key: string): string | undefi
   return undefined
 }
 
-export function readProcStat(pid: string): {
+function readProcStat(pid: string): {
   state: string | undefined
   ppid: number | undefined
 } {

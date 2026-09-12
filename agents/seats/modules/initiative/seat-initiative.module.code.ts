@@ -19,7 +19,7 @@ export interface InitiativePlace {
   readonly pageTypeSlug: string
 }
 
-export function initiativesIn(root: string): ReadonlyMap<string, string> {
+function initiativesIn(root: string): ReadonlyMap<string, string> {
   return new Map(initiativesDrawn(root).map((one) => [one.slug, one.path]))
 }
 

@@ -1,7 +1,7 @@
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 
 export const MS_PER_HOUR = 3_600_000
-export const HALF_HOUR_MS = 1_800_000
+const HALF_HOUR_MS = 1_800_000
 export const AT_0800_MST = new Date("2026-01-15T15:00:00Z")
 export const AT_1002_MST = new Date("2026-01-15T17:02:00Z")
 export const AT_2000_MST = new Date("2026-01-16T03:00:00Z")

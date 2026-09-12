@@ -70,7 +70,7 @@ export function messageDirRelPath(_to: string): string {
   return pagesAt()
 }
 
-export function messageRelPath(to: string, id: string): string {
+function messageRelPath(to: string, id: string): string {
   const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : messageNamed(id)
   const found = messagesTo(to).find((one) => one.id === stem)
   return found?.relPath ?? `${pagesAt()}/${stem}${PAGE_EXT}`

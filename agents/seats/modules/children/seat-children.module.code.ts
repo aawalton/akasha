@@ -13,11 +13,11 @@ export function childrenAmong(
   return among.filter((one) => principalOf(one.id) === parentAgentId)
 }
 
-export function seatChildrenOf(parentAgentId: string): readonly Seated[] {
+function seatChildrenOf(parentAgentId: string): readonly Seated[] {
   return childrenAmong(parentAgentId, seatsPresent(), principalSeatIdOf)
 }
 
-export function countLiveSeatChildren(parentAgentId: string): number {
+function countLiveSeatChildren(parentAgentId: string): number {
   return seatChildrenOf(parentAgentId).length
 }
 

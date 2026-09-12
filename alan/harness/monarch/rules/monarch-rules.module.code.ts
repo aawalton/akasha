@@ -109,7 +109,7 @@ export function clausesMatch(rule: Rule, against: Subject): boolean {
   return dateClausesMatch(rule, against.date)
 }
 
-export function isCounterpart(spec: CounterpartSpec, subject: Subject, other: Subject): boolean {
+function isCounterpart(spec: CounterpartSpec, subject: Subject, other: Subject): boolean {
   if (cents(other.amount) !== -cents(subject.amount)) return false
   if (accountKey(other.account) === accountKey(subject.account)) return false
   return dayGap(other.date, subject.date) <= spec.withinDays

@@ -24,7 +24,7 @@ const EMPTY_REPORT: HealthSampleWriteReport = {
   valueChanged: 0,
 }
 
-export const WRITER = "Health samples <health-samples@alanwalton.com>"
+const WRITER = "Health samples <health-samples@alanwalton.com>"
 
 export const TRIES = 5
 
@@ -149,7 +149,7 @@ function messageFor(path: string, tally: DayTally): string {
   return `${String(tally.inserted)} reading(s) filed and ${String(tally.valueChanged)} corrected in ${path}`
 }
 
-export function committedSaid(said: string): string {
+function committedSaid(said: string): string {
   return `${said}, committed at the pages`
 }
 

@@ -74,7 +74,7 @@ const REFUSED = [
   "A body ending mid-line is opened `body HEREDOC-BODY no-newline` rather than piped in.",
 ]
 
-export const SCOPE: readonly string[] = [
+const SCOPE: readonly string[] = [
   `${HOOK} refuses a command naming \`akasha read\` or \`akasha change\` unless the whole`,
   "command is one of the two approved forms. It matches the command whole rather than looking",
   "for a forbidden shape inside it.",
@@ -142,7 +142,7 @@ function pastAssignments(command: string): string {
   return command.trim().replace(ASSIGNED, "")
 }
 
-export function approvedForm(command: string): boolean {
+function approvedForm(command: string): boolean {
   const text = pastAssignments(command)
   if (READ.test(text)) return true
   const lines = text.split("\n")
@@ -150,7 +150,7 @@ export function approvedForm(command: string): boolean {
   return opened !== null && closedIn(lines, opened)
 }
 
-export function triggered(command: string): boolean {
+function triggered(command: string): boolean {
   const text = pastAssignments(command)
   const looked = OPENS_AKASHA.test(text) ? text.replace(SAFE_QUOTED, "") : text
   return NAMED.test(looked)
@@ -185,7 +185,7 @@ export function refusalIn(command: string): string | null {
   return toldOf(HOOK, [QUOTED_SAID, "", ...quotedIn(command), "", ...MEASURED_SAID, "", ...REFUSED])
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
 }
 

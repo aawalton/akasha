@@ -13,7 +13,7 @@ const TARGET_ASPECT = TARGET_WIDTH / TARGET_HEIGHT
 
 export type SourceImage = { path: string; width: number; height: number }
 
-export const pickBestSource = (images: readonly SourceImage[]): SourceImage | undefined => {
+const pickBestSource = (images: readonly SourceImage[]): SourceImage | undefined => {
   const aspectBucket = (img: SourceImage): number =>
     Math.round(Math.abs(img.width / img.height - TARGET_ASPECT) * 10)
   return [...images].sort((a, b) => {

@@ -13,14 +13,11 @@ const WINDOW_UNKNOWN =
 
 export type Counted = "spent" | "left"
 
-export function windowsAsked(
-  percentKey: string,
-  resetsAtKey: string
-): Readonly<Record<string, unknown>> {
+function windowsAsked(percentKey: string, resetsAtKey: string): Readonly<Record<string, unknown>> {
   return { "page-type": CLAUDE_ACCOUNT, keys: [percentKey, resetsAtKey] }
 }
 
-export function soonestHoursIn(
+function soonestHoursIn(
   rows: readonly Row[],
   now: number,
   percentKey: string,

@@ -22,9 +22,9 @@ function worldAt(): string {
   return root
 }
 
-export const WORLD = worldAt()
+const WORLD = worldAt()
 
-export const ROOT = rootOf(import.meta.path)
+const ROOT = rootOf(import.meta.path)
 
 export const INSIDE = "inside the akasha folder"
 

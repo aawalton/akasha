@@ -268,7 +268,7 @@ export function rawCallsIn(command: string): readonly string[] {
   return found.map((one) => one.trim()).filter((one) => one !== "")
 }
 
-export function bodiedCalls(calls: readonly string[]): ReadonlySet<number> {
+function bodiedCalls(calls: readonly string[]): ReadonlySet<number> {
   const inside = new Set<number>()
   let owed: readonly string[] = []
   for (let at = 0; at < calls.length; at += 1) {
@@ -296,7 +296,7 @@ export function programHandedIn(calls: readonly string[], at: number): string {
   return text
 }
 
-export function programLandingsIn(command: string): readonly Landing[] {
+function programLandingsIn(command: string): readonly Landing[] {
   const calls = rawCallsIn(command)
   const bodied = bodiedCalls(calls)
   const found: Landing[] = []
@@ -484,7 +484,7 @@ async function main(): Promise<number> {
   return REFUSED
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await main()
 }
 

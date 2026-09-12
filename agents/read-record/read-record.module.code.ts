@@ -45,13 +45,13 @@ export function blobIdOf(bytes: Uint8Array): string {
   return createHash("sha1").update(`blob ${bytes.length}\0`).update(bytes).digest("hex")
 }
 
-export const ENDING = ".jsonl"
+const ENDING = ".jsonl"
 
-export function readsAt(root: string): string {
+function readsAt(root: string): string {
   return join(root, READS_AT, "path")
 }
 
-export function readersAt(root: string, path: string): string {
+function readersAt(root: string, path: string): string {
   return join(readsAt(root), path, "agent", "id")
 }
 
@@ -90,7 +90,7 @@ function readingOf(value: unknown): Reading | null {
   return withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
 }
 
-export function readingAt(at: string): Reading | null {
+function readingAt(at: string): Reading | null {
   let raw: string
   try {
     raw = readFileSync(at, "utf8")

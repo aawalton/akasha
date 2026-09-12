@@ -15,11 +15,11 @@ export const AMAZON_SINCE = "2025-01-01"
 export const isAmazon = (t: MonarchTransaction): boolean =>
   (t.merchant?.name ?? "").toLowerCase().includes("amazon")
 
-export function landed(stored: string | null, orderNumber: string): boolean {
+function landed(stored: string | null, orderNumber: string): boolean {
   return (stored ?? "").trim() !== "" && (stored ?? "").trimEnd().endsWith(orderNumber)
 }
 
-export async function recordOrderNumber(monarchId: string, orderNumber: string): Promise<boolean> {
+async function recordOrderNumber(monarchId: string, orderNumber: string): Promise<boolean> {
   const placed = await findTransaction(monarchId)
   if (placed === null) throw new Error(`no month sidecar carries transaction ${monarchId}`)
   if (placed.line.amazonOrderNumber === orderNumber) return false

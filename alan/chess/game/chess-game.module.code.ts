@@ -1,7 +1,7 @@
 import type { PositionStatus } from "akasha/alan/chess/position/chess-position.module.code.ts"
 import { fenSideToMove } from "akasha/alan/chess/uci/chess-uci.module.code.ts"
 
-export const STANDARD_START_FEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+const STANDARD_START_FEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
 
 export type PlayerColor = "white" | "black"
 export type Winner = PlayerColor | "draw"
@@ -23,7 +23,7 @@ export function positionKey(fen: string): string {
   return fen.trim().split(/\s+/).slice(0, 4).join(" ")
 }
 
-export function halfmoveClock(fen: string): number {
+function halfmoveClock(fen: string): number {
   const field = fen.trim().split(/\s+/)[4]
   if (field === undefined) {
     return 0
@@ -41,11 +41,11 @@ function fullmoveNumber(fen: string): number {
   return Number.isInteger(n) && n >= 1 ? n : 1
 }
 
-export function isFiftyMove(fen: string): boolean {
+function isFiftyMove(fen: string): boolean {
   return halfmoveClock(fen) >= 100
 }
 
-export function repetitionCount(keys: readonly string[], key: string): number {
+function repetitionCount(keys: readonly string[], key: string): number {
   let count = 0
   for (const k of keys) {
     if (k === key) {
@@ -55,7 +55,7 @@ export function repetitionCount(keys: readonly string[], key: string): number {
   return count
 }
 
-export function opponentOf(color: PlayerColor): PlayerColor {
+function opponentOf(color: PlayerColor): PlayerColor {
   return color === "white" ? "black" : "white"
 }
 

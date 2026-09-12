@@ -63,7 +63,7 @@ function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit
   return { [wireKeyName]: wireKey }
 }
 
-export function fallingWith(
+function fallingWith(
   reading: Extract<HeldReading, { held: "fresh" }>,
   rungs: readonly Rung[]
 ): Pick<Stoplight, "takenAt" | "fallsPerHour" | "rungs"> {

@@ -1,6 +1,6 @@
-export const BIND_RETRY_BUDGET_MS = 15_000
+const BIND_RETRY_BUDGET_MS = 15_000
 
-export const BIND_RETRY_INTERVAL_MS = 50
+const BIND_RETRY_INTERVAL_MS = 50
 
 export type BindRetryClock = {
   now: () => number

@@ -66,7 +66,7 @@ const SOURCES: readonly DecidedSource[] = [
   "manual-categorization",
 ]
 
-export async function categorySlugByMonarchId(categoryMonarchId: string): Promise<string> {
+async function categorySlugByMonarchId(categoryMonarchId: string): Promise<string> {
   const found = (await categoryPages()).filter(
     (one) => keyOf(one, "monarchId") === categoryMonarchId
   )

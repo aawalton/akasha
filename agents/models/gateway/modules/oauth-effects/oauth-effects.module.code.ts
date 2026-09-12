@@ -254,7 +254,7 @@ export function markedOn(
   }
 }
 
-export async function repolledIn(args: {
+async function repolledIn(args: {
   readonly root: string
   readonly doors: Doors
   readonly gates: Map<string, RepollGateState>

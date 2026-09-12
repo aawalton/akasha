@@ -16,7 +16,7 @@ const googleEventTimeSchema = z
   })
   .passthrough()
 
-export const googleEventSchema = z
+const googleEventSchema = z
   .object({
     id: z.string(),
     status: z.string().optional(),
@@ -57,7 +57,7 @@ export function normalizeEvent(raw: unknown, calendarId: string): NormalizedEven
   }
 }
 
-export function normalizeRecurrence(rules: readonly string[]): readonly string[] {
+function normalizeRecurrence(rules: readonly string[]): readonly string[] {
   return rules.map((rule) => `RRULE:${rule.trim().replace(/^RRULE:/i, "")}`)
 }
 
@@ -76,11 +76,11 @@ export function computeRsvpAttendees(
   return { attendees: next, matched }
 }
 
-export function isDateOnly(value: string): boolean {
+function isDateOnly(value: string): boolean {
   return /^\d{4}-\d{2}-\d{2}$/.test(value)
 }
 
-export function validateBoundaries(
+function validateBoundaries(
   start: string | undefined,
   end: string | undefined,
   timezone: string | undefined

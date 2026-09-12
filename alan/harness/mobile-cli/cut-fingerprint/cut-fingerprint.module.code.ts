@@ -25,7 +25,7 @@ const MOBILE_CUTS_AT = "akasha/alan/harness/mobile-cli/mobile-cuts"
 
 const CUT_TYPES_AT = `${MOBILE_CUTS_AT}/${MOBILE_CUT_PAGE_TYPE_SLUG}.page-type.types.ts`
 
-export class CutsUnread extends Error {
+class CutsUnread extends Error {
   readonly at: string
   constructor(at: string, why: string) {
     super(
@@ -174,7 +174,7 @@ export type Filing = {
   readonly valued: typeof valueAt
 }
 
-export const FILING: Filing = {
+const FILING: Filing = {
   rooted: akashaRoot,
   pathed: cutPagePath,
   changed: runMechanicalChange,

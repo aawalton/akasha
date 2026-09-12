@@ -1,4 +1,4 @@
-export const DEEP_LINK_PATH_KEY = "path"
+const DEEP_LINK_PATH_KEY = "path"
 
 export const PUSH_TAP_APNS_AT = "/var/tmp/ops-sim-push-tap.apns"
 
@@ -27,7 +27,7 @@ export function buildApnsPayload(opts: {
   }
 }
 
-export function encodeApnsPayload(payload: ApnsPayload): string {
+function encodeApnsPayload(payload: ApnsPayload): string {
   return Buffer.from(JSON.stringify(payload), "utf8").toString("base64")
 }
 

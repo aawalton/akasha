@@ -42,7 +42,7 @@ function idleIn(kept: SeatTurnRecords): SeatTurnReading {
   return { state: "idle", waitingOn: null }
 }
 
-export function tookATurn(kept: SeatTurnRecords): boolean {
+function tookATurn(kept: SeatTurnRecords): boolean {
   return anyPendingRead(kept.pending) || anyWorkingRead(kept.working)
 }
 
@@ -59,7 +59,7 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
   return idleIn(kept)
 }
 
-export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
+function seatTurnRecordsOf(agent: string): SeatTurnRecords {
   return {
     presence: agentPresence(agent),
     pending: pendingOf(agent),

@@ -37,7 +37,7 @@ function categoryId(ids: ReadonlyMap<string, string>, name: string): string {
   return found
 }
 
-export function parseBookList(text: string): readonly BookTransfer[] {
+function parseBookList(text: string): readonly BookTransfer[] {
   const lines = text
     .split("\n")
     .map((line) => line.trim())

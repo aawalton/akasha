@@ -48,7 +48,7 @@ function runningModeOf(seat: SeatStanding): string | null {
   return id === null ? null : akashaRunningModeOf(id)
 }
 
-export function forestRow(seat: SeatStanding): ForestRow {
+function forestRow(seat: SeatStanding): ForestRow {
   const person = textAt(seat.frontmatter, PERSON_KEY)
   const parentName = textAt(seat.frontmatter, PRINCIPAL_KEY)
   const startMode = textAt(seat.frontmatter, START_MODE_KEY)
@@ -63,7 +63,7 @@ export function forestRow(seat: SeatStanding): ForestRow {
   }
 }
 
-export function parentsToFetch(
+function parentsToFetch(
   inHand: readonly SeatStanding[],
   attempted: ReadonlySet<string>
 ): readonly string[] {

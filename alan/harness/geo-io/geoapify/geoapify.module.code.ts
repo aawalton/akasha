@@ -6,20 +6,20 @@ export type GeoFetch = (
   init?: { headers?: Record<string, string> }
 ) => Promise<Response>
 
-export const defaultGeoFetch: GeoFetch = (url, init) => fetch(url, init)
+const defaultGeoFetch: GeoFetch = (url, init) => fetch(url, init)
 
-export const GEOAPIFY_AUTOCOMPLETE_URL = "https://api.geoapify.com/v1/geocode/autocomplete"
-export const GEOAPIFY_GEOCODE_URL = "https://api.geoapify.com/v1/geocode/search"
-export const GEOAPIFY_ROUTING_URL = "https://api.geoapify.com/v1/routing"
+const GEOAPIFY_AUTOCOMPLETE_URL = "https://api.geoapify.com/v1/geocode/autocomplete"
+const GEOAPIFY_GEOCODE_URL = "https://api.geoapify.com/v1/geocode/search"
+const GEOAPIFY_ROUTING_URL = "https://api.geoapify.com/v1/routing"
 
-export const GEOAPIFY_GEOCODE_LIMIT = 1
+const GEOAPIFY_GEOCODE_LIMIT = 1
 
 export function buildGeoapifyAutocompleteUrl(text: string, apiKey: string, limit: number): string {
   const params = new URLSearchParams({ text, apiKey, limit: String(limit), format: "geojson" })
   return `${GEOAPIFY_AUTOCOMPLETE_URL}?${params.toString()}`
 }
 
-export function buildGeoapifyGeocodeUrl(
+function buildGeoapifyGeocodeUrl(
   text: string,
   apiKey: string,
   limit: number = GEOAPIFY_GEOCODE_LIMIT
@@ -28,7 +28,7 @@ export function buildGeoapifyGeocodeUrl(
   return `${GEOAPIFY_GEOCODE_URL}?${params.toString()}`
 }
 
-export function buildGeoapifyRoutingUrl(
+function buildGeoapifyRoutingUrl(
   from: GeoCoord,
   to: GeoCoord,
   mode: string,
@@ -39,7 +39,7 @@ export function buildGeoapifyRoutingUrl(
   return `${GEOAPIFY_ROUTING_URL}?${params.toString()}`
 }
 
-export async function geoapifyFetchJson(
+async function geoapifyFetchJson(
   url: string,
   fetchFn: GeoFetch = defaultGeoFetch
 ): Promise<unknown> {

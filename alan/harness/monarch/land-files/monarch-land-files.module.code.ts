@@ -88,7 +88,7 @@ function raw(t: MonarchTransaction, name: string): string | null {
   return typeof value === "string" && value !== "" ? value : null
 }
 
-export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine | null {
+function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine | null {
   if (t.account === null) return null
   const accountSlug = maps.accounts.get(t.account.id)
   if (accountSlug === undefined) return null
@@ -157,7 +157,7 @@ function monthPage(slug: string): string {
   ].join("\n")
 }
 
-export const ARRIVED_FROM_MONARCH = "monarch"
+const ARRIVED_FROM_MONARCH = "monarch"
 
 function carried(before: TransactionLine, arriving: TransactionLine): TransactionLine {
   const held: Record<string, unknown> = { ...arriving, id: before.id }
@@ -190,7 +190,7 @@ function sortLines(lines: readonly TransactionLine[]): readonly TransactionLine[
   )
 }
 
-export function merged(
+function merged(
   already: readonly TransactionLine[],
   arriving: readonly TransactionLine[],
   retiring: ReadonlySet<string>

@@ -2,7 +2,7 @@ import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const SEC_MS = 1000
 
-export const RECIPIENT_RESOLVER_ENV = {
+const RECIPIENT_RESOLVER_ENV = {
   tickSec: "RECIPIENT_RESOLVER_TICK_SEC",
   reviveTimeoutSec: "RECIPIENT_RESOLVER_REVIVE_TIMEOUT_SEC",
   dryRun: "RECIPIENT_RESOLVER_DRY_RUN",

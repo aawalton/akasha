@@ -43,7 +43,7 @@ function scalar(value: unknown, key: string): string {
   return fail(`\`${key}\` takes a string or a number`)
 }
 
-export function argvFor(payload: Record<string, unknown>): readonly string[] {
+function argvFor(payload: Record<string, unknown>): readonly string[] {
   const argv: string[] = []
   for (const [key, flag] of VALUES) {
     const value = payload[key]

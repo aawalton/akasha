@@ -14,12 +14,12 @@ function isPerftDoneLine(line: string): boolean {
   return line.trim().startsWith("Nodes searched")
 }
 
-export const SKILL_MIN = 0
-export const SKILL_MAX = 20
-export const ELO_MIN = 1320
-export const ELO_MAX = 3190
+const SKILL_MIN = 0
+const SKILL_MAX = 20
+const ELO_MIN = 1320
+const ELO_MAX = 3190
 
-export async function legalMoves(fen: string): Promise<readonly string[]> {
+async function legalMoves(fen: string): Promise<readonly string[]> {
   const lines = await runEngine({
     commands: [`position fen ${fen}`, "go perft 1"],
     until: isPerftDoneLine,
@@ -60,7 +60,7 @@ export async function evaluate(fen: string, depth: number): Promise<EvaluateResu
   }
 }
 
-export function classifyStatus(moveCount: number, inCheck: boolean): PositionStatus {
+function classifyStatus(moveCount: number, inCheck: boolean): PositionStatus {
   if (moveCount === 0) {
     return inCheck ? "checkmate" : "stalemate"
   }
@@ -75,7 +75,7 @@ export interface ApplyMoveResult {
   readonly legalMoveCount: number
 }
 
-export async function applyMove(fen: string, move: string): Promise<ApplyMoveResult> {
+async function applyMove(fen: string, move: string): Promise<ApplyMoveResult> {
   const legal = await legalMoves(fen)
   if (!legal.includes(move)) {
     throw new InputError(`illegal move "${move}" in position "${fen}"`)
@@ -112,7 +112,7 @@ export interface PlayResult {
   readonly strength: { readonly mode: "level" | "elo"; readonly value: number }
 }
 
-export function strengthOptions(strength: PlayStrength): {
+function strengthOptions(strength: PlayStrength): {
   readonly options: readonly string[]
   readonly mode: "level" | "elo"
   readonly value: number

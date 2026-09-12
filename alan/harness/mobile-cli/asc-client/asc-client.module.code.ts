@@ -8,13 +8,13 @@ import {
 import { base64Url } from "akasha/utils/narrow/base64-url/base64-url.module.code.ts"
 import { z } from "zod"
 
-export const ASC_KEY_LOCAL_PATH = `${homedir()}/.appstoreconnect/private_keys/AuthKey_${ASC_KEY_ID}.p8`
+const ASC_KEY_LOCAL_PATH = `${homedir()}/.appstoreconnect/private_keys/AuthKey_${ASC_KEY_ID}.p8`
 
 const ASC_API_BASE = "https://api.appstoreconnect.apple.com"
 
-export const JWT_TTL_SECONDS = 900
+const JWT_TTL_SECONDS = 900
 
-export const JWT_REMINT_MARGIN_SECONDS = 120
+const JWT_REMINT_MARGIN_SECONDS = 120
 
 function pemToPkcs8Der(pem: string): Uint8Array<ArrayBuffer> {
   const body = pem.replace(/-----[^-]+-----/g, "").replace(/\s+/g, "")
@@ -60,9 +60,7 @@ export async function buildAscJwt(opts: {
   return `${signingInput}.${base64Url(signature)}`
 }
 
-export async function mintAscJwt(
-  nowSeconds: number = Math.floor(Date.now() / 1000)
-): Promise<string> {
+async function mintAscJwt(nowSeconds: number = Math.floor(Date.now() / 1000)): Promise<string> {
   let pem: string
   try {
     pem = readFileSync(ASC_KEY_LOCAL_PATH, "utf8")
@@ -177,7 +175,7 @@ export function pickMaxBuildVersion(resp: BuildVersionsResponse): number {
   return max
 }
 
-export async function ascApiGet<T>(path: string, jwt: string, schema: z.ZodType<T>): Promise<T> {
+async function ascApiGet<T>(path: string, jwt: string, schema: z.ZodType<T>): Promise<T> {
   const res = await fetch(`${ASC_API_BASE}${path}`, { headers: { Authorization: `Bearer ${jwt}` } })
   if (res.status === 401 || res.status === 403) {
     throw new OperationalError(

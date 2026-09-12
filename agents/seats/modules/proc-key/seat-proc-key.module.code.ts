@@ -12,7 +12,7 @@ export interface SeatProcKey {
   readonly startTicks: number
 }
 
-export const SEAT_PRESENCES = ["present", "absent", "unknown"] as const
+const SEAT_PRESENCES = ["present", "absent", "unknown"] as const
 
 export type SeatPresence = (typeof SEAT_PRESENCES)[number]
 
@@ -21,7 +21,7 @@ export type ProcStartReading =
   | { readonly kind: "no-such-process" }
   | { readonly kind: "unreadable"; readonly because: string }
 
-export function readProcStart(pid: number, procRoot: string = PROC): ProcStartReading {
+function readProcStart(pid: number, procRoot: string = PROC): ProcStartReading {
   const at = `${procRoot}/${pid}/stat`
   let raw: string
   try {

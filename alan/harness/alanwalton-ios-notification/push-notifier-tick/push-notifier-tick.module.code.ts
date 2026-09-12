@@ -32,7 +32,7 @@ export interface NotifierState {
   sentThrough: string
 }
 
-export function say(line: string): undefined {
+function say(line: string): undefined {
   console.log(`${LOG} ${line}`)
   return undefined
 }
@@ -47,11 +47,11 @@ export async function openState(): Promise<NotifierState> {
   return { sentThrough: newest ?? new Date().toISOString() }
 }
 
-export function deliveredSaid(what: string, bundleId: string): string {
+function deliveredSaid(what: string, bundleId: string): string {
   return `${what}, delivered to a phone on ${bundleId}, which nothing here takes back`
 }
 
-export function prunedSaid(bundleId: string): string {
+function prunedSaid(bundleId: string): string {
   return `a dead device token on ${bundleId}, taken away`
 }
 
@@ -96,7 +96,7 @@ async function fanOut(
   }
 }
 
-export async function pushNotification(
+async function pushNotification(
   args: {
     readonly notification: Notification
     readonly sender: ApnsSender
@@ -129,7 +129,7 @@ export interface TickDeps {
   readonly alanUserId?: string
 }
 
-export async function runPushNotifierTick(
+async function runPushNotifierTick(
   state: NotifierState,
   deps: TickDeps,
   signal: AbortSignal,

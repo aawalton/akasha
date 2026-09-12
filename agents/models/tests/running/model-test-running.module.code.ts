@@ -125,7 +125,7 @@ export function keptBy(one: Case, got: readonly Got[]): boolean {
   return anyYes(got) === (one.answer === YES)
 }
 
-export function readingIn(root: string): PageReading {
+function readingIn(root: string): PageReading {
   return (pageTypeSlug, slug) => {
     try {
       return valuedAt(root, pageTypeSlug, slug).value
@@ -150,7 +150,7 @@ function besideIn(root: string, at: string): Beside {
   return { asking: asking as Asking, keeping: keeping as Keeping }
 }
 
-export async function everyCase(root: string, slug: string): Promise<readonly Case[]> {
+async function everyCase(root: string, slug: string): Promise<readonly Case[]> {
   const at = besideAt(valuedAt(root, TEST, slug).path, CASES, JSONL)
   if (at === null) throw new Error(`\`${slug}\` has no cases beside it`)
   return casesIn(await Bun.file(join(root, at)).text())

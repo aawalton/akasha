@@ -9,7 +9,7 @@ function binOverride(envVar: string): string | undefined {
 
 const DEFAULT_TIMEOUT_MS = 15_000
 
-export function resolveStockfishPath(): string {
+function resolveStockfishPath(): string {
   const override = binOverride("CHESS_STOCKFISH_BIN")
   if (override !== undefined) {
     return override

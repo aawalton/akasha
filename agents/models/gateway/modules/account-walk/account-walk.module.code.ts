@@ -22,9 +22,9 @@ import type { QueueOutcome } from "akasha/agents/models/gateway/modules/pre-forw
 import { withTransportRetry } from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 import { attemptServerErrorRetry } from "akasha/agents/models/gateway/modules/server-error-retry/server-error-retry.module.code.ts"
 
-export const BAD_GATEWAY = 502
+const BAD_GATEWAY = 502
 
-export const RATE_LIMIT_STATUS = 429
+const RATE_LIMIT_STATUS = 429
 
 const SERVER_ERROR_STATUSES: ReadonlySet<number> = new Set([429, 500, 502, 503, 529])
 

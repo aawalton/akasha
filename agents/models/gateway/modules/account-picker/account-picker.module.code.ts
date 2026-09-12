@@ -8,7 +8,7 @@ export type PickerDoors = {
   readonly said: (line: string) => undefined
 }
 
-export const DOORS: PickerDoors = {
+const DOORS: PickerDoors = {
   said: (line) => {
     console.log(line)
   },

@@ -1,7 +1,7 @@
-export const LOGICAL_MODELS = ["fable", "opus", "sonnet", "haiku"] as const
+const LOGICAL_MODELS = ["fable", "opus", "sonnet", "haiku"] as const
 export type LogicalModel = (typeof LOGICAL_MODELS)[number]
 
-export const EXTENDED_SUFFIX = "[1m]"
+const EXTENDED_SUFFIX = "[1m]"
 
 export type ModelSpec = {
   readonly logical: LogicalModel

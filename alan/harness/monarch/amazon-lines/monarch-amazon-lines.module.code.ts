@@ -4,7 +4,7 @@ import { AMAZON_SINCE } from "akasha/alan/harness/monarch/amazon-write/monarch-a
 import type { TransactionLine } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import { readAllTransactions } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 
-export function namesAmazon(line: TransactionLine): boolean {
+function namesAmazon(line: TransactionLine): boolean {
   return (line.merchant ?? "").toLowerCase().includes("amazon")
 }
 

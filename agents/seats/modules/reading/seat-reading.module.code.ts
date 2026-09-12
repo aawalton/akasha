@@ -30,7 +30,7 @@ const STATED: Readonly<Record<string, string>> = {
   "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
 
-export function seatRoot(): string {
+function seatRoot(): string {
   return rootOf(import.meta.dir)
 }
 
@@ -68,7 +68,7 @@ export function supervisorAlive(root: string, page: string): boolean {
   return held !== null && alive(held)
 }
 
-export function seatPathForAgent(agentId: string, root: string = seatRoot()): string | null {
+function seatPathForAgent(agentId: string, root: string = seatRoot()): string | null {
   if (agentId === "") return null
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
     if (one.id === agentId) return one.path
@@ -76,7 +76,7 @@ export function seatPathForAgent(agentId: string, root: string = seatRoot()): st
   return null
 }
 
-export function seatPathForSession(sessionUuid: string, root: string = seatRoot()): string | null {
+function seatPathForSession(sessionUuid: string, root: string = seatRoot()): string | null {
   if (sessionUuid === "") return null
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
     const held: Value | null = valueAt(one.path, root)
@@ -86,14 +86,11 @@ export function seatPathForSession(sessionUuid: string, root: string = seatRoot(
   return null
 }
 
-export function seatPathFor(handle: string, root: string = seatRoot()): string | null {
+function seatPathFor(handle: string, root: string = seatRoot()): string | null {
   return seatPathForAgent(handle, root) ?? seatPathForSession(handle, root)
 }
 
-export function seatStating(
-  handle: string,
-  root: string = seatRoot()
-): Record<string, unknown> | null {
+function seatStating(handle: string, root: string = seatRoot()): Record<string, unknown> | null {
   const page = seatPathFor(handle, root)
   if (page === null) return null
   const held: Value | null = valueAt(page, root)

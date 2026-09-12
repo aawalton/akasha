@@ -15,7 +15,7 @@ const UNIT_ALIASES: Readonly<Record<StoredMetric, readonly string[]>> = {
   stepCount: ["count"],
 }
 
-export const UNATTRIBUTED_SOURCE = "Unattributed"
+const UNATTRIBUTED_SOURCE = "Unattributed"
 
 export type ConversionRejection =
   | "metric-not-imported"

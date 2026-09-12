@@ -4,7 +4,7 @@ export const CHESS_GAME_SLUG = "chess-game"
 
 export type ChessGameValue = string | number | boolean
 
-export function chessGamePageName(externalId: string): string {
+function chessGamePageName(externalId: string): string {
   return externalId.replace(/_/g, "-")
 }
 

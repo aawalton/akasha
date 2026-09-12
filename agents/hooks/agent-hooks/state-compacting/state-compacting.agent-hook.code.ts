@@ -64,9 +64,7 @@ export function stated(
   return compacting
 }
 
-export async function ranAsStating(
-  env: Readonly<Record<string, string | undefined>>
-): Promise<number> {
+async function ranAsStating(env: Readonly<Record<string, string | undefined>>): Promise<number> {
   if (Bun.argv[2] === SCOPE_FLAG) {
     process.stdout.write(`${SCOPE.join("\n")}\n`)
     return ASIDE
@@ -79,7 +77,7 @@ export async function ranAsStating(
   return ASIDE
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsStating(process.env)
 }
 

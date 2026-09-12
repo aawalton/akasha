@@ -49,18 +49,15 @@ import {
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import type { Server } from "bun"
 
-export const DEFAULT_LOG_PREFIX = "[oauth-proxy]"
+const DEFAULT_LOG_PREFIX = "[oauth-proxy]"
 
-export const HEALTH_PATH = "/healthz"
+const HEALTH_PATH = "/healthz"
 
-export const IN_FLIGHT_PATH = "/inflight"
+const IN_FLIGHT_PATH = "/inflight"
 
-export const RC_STATUS_PATH = "/rc-status"
+const RC_STATUS_PATH = "/rc-status"
 
-export const MESSAGES_PATHS: ReadonlySet<string> = new Set([
-  "/v1/messages",
-  "/v1/messages/count_tokens",
-])
+const MESSAGES_PATHS: ReadonlySet<string> = new Set(["/v1/messages", "/v1/messages/count_tokens"])
 
 const ROOT_PATH = "/"
 
@@ -116,7 +113,7 @@ export type ServingSurface = {
 
 export type ServingDoors = ServingSurface & { readonly queuedIn?: QueuedIn | undefined }
 
-export function requestLine(logPrefix: string, req: Request, pathname: string): string {
+function requestLine(logPrefix: string, req: Request, pathname: string): string {
   const auth = req.headers.has("authorization") ? "yes" : "no"
   return `${logPrefix} req ${req.method} ${pathname} auth=${auth}`
 }
@@ -133,7 +130,7 @@ function listeningOf(server: Server<undefined>): Listening {
   }
 }
 
-export function listenedOn(spec: ListenSpec): Listening {
+function listenedOn(spec: ListenSpec): Listening {
   const answered = spec.answered
   const fetch = (req: Request, serving: Server<undefined>): Promise<Response> =>
     answered(req, listeningOf(serving))
@@ -167,7 +164,7 @@ export const SURFACE: ServingSurface = {
   },
 }
 
-export function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
+function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
   const { logPrefix, oauth } = parts
   const getFreshToken = freshCredentialIn({
     logPrefix,
@@ -195,7 +192,7 @@ export function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
   }
 }
 
-export function queuedIn(parts: ServingParts): (turn: MessageTurn) => Promise<Response> {
+function queuedIn(parts: ServingParts): (turn: MessageTurn) => Promise<Response> {
   const { logPrefix, oauth, holds, logAt, now, slept, said } = parts
   const seams = walkSeamsOf(parts)
   return function queued(turn) {

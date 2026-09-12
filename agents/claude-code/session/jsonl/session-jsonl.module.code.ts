@@ -24,7 +24,7 @@ export function parseSessionLine(line: string): SessionMessage | null {
   return SessionMessage.parse(json)
 }
 
-export function parseSessionLines(text: string): readonly SessionMessage[] {
+function parseSessionLines(text: string): readonly SessionMessage[] {
   const out: SessionMessage[] = []
   for (const raw of text.split("\n")) {
     if (raw.trim() === "") continue

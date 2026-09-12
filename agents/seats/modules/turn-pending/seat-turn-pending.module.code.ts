@@ -3,9 +3,9 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { keepBesideUnder } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
 
-export const PENDING_KEY = "turn-pending"
+const PENDING_KEY = "turn-pending"
 
-export const TURN_PENDING_COMPONENTS = [
+const TURN_PENDING_COMPONENTS = [
   "compacting",
   "live-shell",
   "live-subagent",

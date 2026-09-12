@@ -9,11 +9,11 @@ import { matchAgentChannel } from "akasha/alan/harness/email-inbound/agent-chann
 import type { InboundMessage } from "akasha/alan/harness/email-inbound/inbound-message/inbound-message.module.code.ts"
 import { parseSender } from "akasha/alan/harness/email-inbound/sender/sender.module.code.ts"
 
-export function isSpamLabeled(labelIds: readonly string[] | undefined): boolean {
+function isSpamLabeled(labelIds: readonly string[] | undefined): boolean {
   return (labelIds ?? []).includes(SPAM_LABEL)
 }
 
-export function isSentLabeled(labelIds: readonly string[] | undefined): boolean {
+function isSentLabeled(labelIds: readonly string[] | undefined): boolean {
   return (labelIds ?? []).includes(SENT_LABEL)
 }
 

@@ -57,7 +57,7 @@ const STATE_SHAPE = z.object({
   claims: z.array(CLAIM_SHAPE).optional(),
 })
 
-export function readState(): State {
+function readState(): State {
   try {
     return { ...EMPTY, ...STATE_SHAPE.parse(JSON.parse(readFileSync(STATE_FILE, "utf8"))) }
   } catch {
@@ -113,19 +113,19 @@ function spelt(rule: Rule): string {
   return [...(rule.filing === null ? [] : [rule.filing]), ...forward, ...rule.actions].join("+")
 }
 
-export function forwardedSaid(id: string, to: string): string {
+function forwardedSaid(id: string, to: string): string {
   return `message ${id}, forwarded to ${to}, which nothing here takes back`
 }
 
-export function unsubscribedSaid(url: string): string {
+function unsubscribedSaid(url: string): string {
   return `a one-click unsubscribe POSTed to ${url}, which nothing here takes back`
 }
 
-export function archivedSaid(id: string): string {
+function archivedSaid(id: string): string {
   return `message ${id}, archived at Gmail and out of the inbox`
 }
 
-export async function carry(
+async function carry(
   rule: Rule,
   message: Message,
   box: Mailbox,

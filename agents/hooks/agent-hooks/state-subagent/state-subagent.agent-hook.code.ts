@@ -98,7 +98,7 @@ export function askedOf(
   return seatName === null ? null : { seatName, seatId: seat, act }
 }
 
-export function stated(
+function stated(
   env: Readonly<Record<string, string | undefined>>,
   raw: string,
   root: string
@@ -112,7 +112,7 @@ export function stated(
   return asked
 }
 
-export async function ranAsStating(
+async function ranAsStating(
   env: Readonly<Record<string, string | undefined>>,
   at: string
 ): Promise<number> {
@@ -128,7 +128,7 @@ export async function ranAsStating(
   return ASIDE
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsStating(process.env, import.meta.path)
 }
 

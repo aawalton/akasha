@@ -97,7 +97,7 @@ export type Ancestry = {
   readonly self: () => number
 }
 
-export function parentOf(pid: number): number | null {
+function parentOf(pid: number): number | null {
   let stat: string
   try {
     stat = readFileSync(`/proc/${String(pid)}/stat`, "utf8")
@@ -107,7 +107,7 @@ export function parentOf(pid: number): number | null {
   return statedIn(stat).ppid
 }
 
-export const ANCESTRY: Ancestry = { parentOf, self: () => process.pid }
+const ANCESTRY: Ancestry = { parentOf, self: () => process.pid }
 
 export function ancestorOfSelf(pid: number, how: Ancestry = ANCESTRY): boolean {
   let cursor: number | null = how.self()

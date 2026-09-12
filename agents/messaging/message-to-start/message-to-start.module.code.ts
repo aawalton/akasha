@@ -65,11 +65,11 @@ export type Started =
   | { readonly kind: "started"; readonly id: string }
   | { readonly kind: "refuse"; readonly reason: string }
 
-export function answersToAPerson(domain: string, role: string): boolean {
+function answersToAPerson(domain: string, role: string): boolean {
   return handlerDerives(rootFor(resolveRoots(), AKASHA), role, domain).principal !== null
 }
 
-export async function startSeat(
+async function startSeat(
   domain: string,
   role: string,
   senderAgentId: string | null,

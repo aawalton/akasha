@@ -155,7 +155,7 @@ function examples(rows: readonly Scored[], title: string, want: number): readonl
   return out
 }
 
-export function report(file: RunFile): string {
+function report(file: RunFile): string {
   const rows = score(file)
   const pop = file.populationSummary
   const out: string[] = [

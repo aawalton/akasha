@@ -1,10 +1,10 @@
 import type { PoolSummary } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
 
-export const RATE_LIMIT_STATUS = 429
+const RATE_LIMIT_STATUS = 429
 
-export const RATE_LIMIT_STATUS_TEXT = "Too Many Requests"
+const RATE_LIMIT_STATUS_TEXT = "Too Many Requests"
 
-export const RATE_LIMIT_ERROR_TYPE = "rate_limit_error"
+const RATE_LIMIT_ERROR_TYPE = "rate_limit_error"
 
 export const DEFAULT_RETRY_AFTER_SECONDS = 60
 

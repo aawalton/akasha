@@ -30,9 +30,9 @@ interface Span {
   readonly endMs: number
 }
 
-export const DAY_PAGE_TYPE = "day"
+const DAY_PAGE_TYPE = "day"
 
-export const SESSIONS_SLUG = "sessions"
+const SESSIONS_SLUG = "sessions"
 
 const ENTRY_EXTENSION = "jsonl"
 
@@ -48,7 +48,7 @@ const END_TIME = "endTime"
 
 const EVENING_HOUR = 18
 
-export function isSleepTitle(title: unknown): boolean {
+function isSleepTitle(title: unknown): boolean {
   return typeof title === "string" && title.trim().toLowerCase() === SLEEP
 }
 
@@ -56,7 +56,7 @@ export function dayBefore(dayStr: string): string {
   return getEsoDayStr(new Date(getEsoDayWindow(dayStr).start.getTime() - 1))
 }
 
-export function eveningOf(dayStr: string): Date {
+function eveningOf(dayStr: string): Date {
   const [year, month, at] = dayStr.split("-").map(Number)
   if (year === undefined || month === undefined || at === undefined) return new Date(Number.NaN)
   const found = instantsForMountainWall({
@@ -160,7 +160,7 @@ export function openingWindowIn(root: string, dayStr: string): DayWindow | Refus
   return { from: from.toISOString(), to: to.toISOString() }
 }
 
-export function closingWithoutNext(dayStr: string, now: Date): Date {
+function closingWithoutNext(dayStr: string, now: Date): Date {
   const closed = eveningOf(dayStr)
   const latest = eveningOf(dayAfter(dayStr))
   const at = now.getTime()

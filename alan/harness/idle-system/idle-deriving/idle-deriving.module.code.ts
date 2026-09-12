@@ -13,7 +13,7 @@ import type {
   SynergyMatrix,
 } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
-export function hashContent(content: string): number {
+function hashContent(content: string): number {
   let h = 0x811c9dc5
   for (let i = 0; i < content.length; i++) {
     h ^= content.charCodeAt(i)
@@ -26,22 +26,22 @@ function mechanicUnit(content: string, mechanicKey: string): number {
   return hashContent(content + mechanicKey) / 4294967296
 }
 
-export function deriveBaseRate(content: string): number {
+function deriveBaseRate(content: string): number {
   const steps = (DERIVED_RATE_MAX - DERIVED_RATE_MIN) * 10 + 1
   const step = Math.min(steps - 1, Math.floor(mechanicUnit(content, "baseRate") * steps))
   return (DERIVED_RATE_MIN * 10 + step) / 10
 }
 
-export function deriveAffinity(content: string): "lead" | "support" | "anchor" {
+function deriveAffinity(content: string): "lead" | "support" | "anchor" {
   const idx = Math.min(2, Math.floor(mechanicUnit(content, "affinity") * AFFINITY_SEATS.length))
   return AFFINITY_SEATS[idx] ?? "lead"
 }
 
-export function deriveWeatherOrderKey(content: string): number {
+function deriveWeatherOrderKey(content: string): number {
   return mechanicUnit(content, "weatherOrder")
 }
 
-export function pairSynergyFromHashes(hashA: number, hashB: number): number {
+function pairSynergyFromHashes(hashA: number, hashB: number): number {
   const lo = Math.min(hashA, hashB)
   const hi = Math.max(hashA, hashB)
   const u = hashContent(`${lo}+${hi}:synergy`) / 4294967296

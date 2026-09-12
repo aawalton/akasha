@@ -34,7 +34,7 @@ export function rolesUnlocked(_s: GameState): boolean {
   return true
 }
 
-export function seatBonus(t: Teammate, tiers: SeatTiers): number {
+function seatBonus(t: Teammate, tiers: SeatTiers): number {
   const rank = t.rank ?? 0
   if (tiers.lock && t.locked === true) return SEATLOCK_PER
   if (tiers.grand && rank >= GRAND_RANK_REQ) return GRAND_PER
@@ -138,7 +138,7 @@ export function echoBonus(s: GameState): number {
   return s.echoMult ?? 0
 }
 
-export function devotionFactor(s: GameState): number {
+function devotionFactor(s: GameState): number {
   if (s.devotionUnlocked !== true) return 1
   return 1 + Math.min((s.devotionStreak ?? 0) * DEV_PER, DEV_CAP)
 }

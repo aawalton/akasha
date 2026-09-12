@@ -37,7 +37,7 @@ function restoreTerminal(): undefined {
   applySttySane()
 }
 
-export async function proxiedTerminal(): Promise<number> {
+async function proxiedTerminal(): Promise<number> {
   let command = process.argv.slice(2)
   if (command[0] === "--") command = command.slice(1)
   if (command.length === 0) {

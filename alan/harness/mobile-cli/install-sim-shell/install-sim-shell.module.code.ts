@@ -39,7 +39,7 @@ export interface InstallSimShellOptions {
   readonly report?: (line: string) => void
 }
 
-export function buildSimScriptPath(app: MobileApp, repoRoot: string): string {
+function buildSimScriptPath(app: MobileApp, repoRoot: string): string {
   if (app.simBuildScript === null) {
     throw new InputError(
       `${app.slug} states no \`sim-build-script\`, so there is no script in this repo to build a sim from`

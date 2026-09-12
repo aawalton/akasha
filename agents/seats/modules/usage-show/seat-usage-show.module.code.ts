@@ -3,7 +3,7 @@ import {
   modelOf,
 } from "akasha/agents/seats/modules/usage/seat-usage.module.code.ts"
 
-export function usageLineFor(agent: string): string {
+function usageLineFor(agent: string): string {
   const model = agent === "" ? null : modelOf(agent)
   const tokens = agent === "" ? null : contextTokensOf(agent)
   if (model === null && tokens === null) return "{}\n"

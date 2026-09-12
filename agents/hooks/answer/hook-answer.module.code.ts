@@ -109,7 +109,7 @@ export function said(answer: Answer): number {
   return answer.code
 }
 
-export function fromIn(raw: string): string {
+function fromIn(raw: string): string {
   try {
     const payload = parseHookPayload(raw)
     const held = payload?.["cwd"]

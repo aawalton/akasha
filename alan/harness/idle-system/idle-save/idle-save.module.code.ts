@@ -28,7 +28,7 @@ const gachaSchema = z.object({
   cycleDraws: z.number(),
 })
 
-export const idleSaveSchema = z.looseObject({
+const idleSaveSchema = z.looseObject({
   resource: z.number(),
   teammates: z.array(teammateSchema),
   lastTickAt: z.number(),

@@ -10,13 +10,13 @@ import {
   withTransportRetry,
 } from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 
-export const NEVER = 2_147_483_647
+const NEVER = 2_147_483_647
 
 export const MS = 3500
 
 export const ENC = new TextEncoder()
 
-export const DEC = new TextDecoder()
+const DEC = new TextDecoder()
 
 export const COMMENT = new TextDecoder().decode(KEEPALIVE_COMMENT_BYTES)
 
@@ -26,7 +26,7 @@ export const FIRST = "the first read died"
 
 export const LEFT = "client left"
 
-export const noop = (): undefined => undefined
+const noop = (): undefined => undefined
 
 export function socketError(): TypeError {
   return new TypeError("The socket connection was closed unexpectedly")
@@ -105,7 +105,7 @@ export function countingSource(
   })
 }
 
-export function dyingSource(): ReadableStream<Uint8Array> {
+function dyingSource(): ReadableStream<Uint8Array> {
   return new ReadableStream<Uint8Array>({
     pull: () => {
       throw new Error(FIRST)

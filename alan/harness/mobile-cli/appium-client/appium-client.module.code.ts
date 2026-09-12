@@ -5,9 +5,9 @@ export const APPIUM_BASE = "http://100.64.0.2:4723"
 
 const ELEMENT_KEY = "element-6066-11e4-a52e-4f735466cecf"
 
-export const DEFAULT_CALL_TIMEOUT_MS = 30_000
-export const STATUS_TIMEOUT_MS = 8_000
-export const SESSION_CREATE_TIMEOUT_MS = 360_000
+const DEFAULT_CALL_TIMEOUT_MS = 30_000
+const STATUS_TIMEOUT_MS = 8_000
+const SESSION_CREATE_TIMEOUT_MS = 360_000
 
 const envelopeSchema = z.object({ value: z.unknown() }).passthrough()
 

@@ -102,9 +102,7 @@ export function answerFor(env: Readonly<Record<string, string | undefined>>, raw
   return call === null ? LET_THROUGH : rewriting(AT, call)
 }
 
-export async function ranAsNaming(
-  env: Readonly<Record<string, string | undefined>>
-): Promise<number> {
+async function ranAsNaming(env: Readonly<Record<string, string | undefined>>): Promise<number> {
   if (Bun.argv[2] === SCOPE_FLAG) {
     process.stdout.write(`${SCOPE.join("\n")}\n`)
     return ASIDE
@@ -116,7 +114,7 @@ export async function ranAsNaming(
   }
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsNaming(process.env)
 }
 

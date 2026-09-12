@@ -54,7 +54,7 @@ export function foldSeatWork(held: readonly SeatHolding[]): SeatWork {
   return { byInitiative }
 }
 
-export function seatHoldingsNow(): readonly SeatHolding[] {
+function seatHoldingsNow(): readonly SeatHolding[] {
   return seatPageAgents().map((agent) => {
     const state = seatTurnStateOf(agent).state
     return { initiative: initiativeOf(agent)?.value ?? null, state, color: colorOfState(state) }

@@ -3,11 +3,11 @@ import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.cod
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
 
-export const JOINER = "-"
+const JOINER = "-"
 
 export const HANDLER = "handler"
 
-export const FLEX = /^flex-(?:0|[1-9]\d*)$/
+const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
 const FLEX_HELD = /(?:^|-)(flex-(?:0|[1-9]\d*))(?:-|$)/
 

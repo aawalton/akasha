@@ -32,7 +32,7 @@ const decodeEntities = (s: string): string =>
     .replaceAll("&mdash;", "—")
     .replaceAll("&ndash;", "–")
 
-export const parseCatalog = (html: string): readonly CatalogEntry[] => {
+const parseCatalog = (html: string): readonly CatalogEntry[] => {
   const anchor = /<a\b[^>]*href="https:\/\/esoss[^"]+\.jpe?g"[^>]*data-zl-title="(.*?)"[\s>]/gs
   const seen = new Set<string>()
   const entries: CatalogEntry[] = []
@@ -54,7 +54,7 @@ export const parseCatalog = (html: string): readonly CatalogEntry[] => {
   return entries
 }
 
-export const parseResolutions = (html: string): readonly Resolution[] => {
+const parseResolutions = (html: string): readonly Resolution[] => {
   const link = /href="(https:\/\/esoss[^"]+\.jpe?g)\?no-resize"[^>]*>(\d+x\d+)</g
   const byLabel = new Map<string, string>()
   for (const match of html.matchAll(link)) {
@@ -65,7 +65,7 @@ export const parseResolutions = (html: string): readonly Resolution[] => {
   return [...byLabel].map(([label, url]) => ({ label, url }))
 }
 
-export const sanitizeFolderName = (title: string): string => {
+const sanitizeFolderName = (title: string): string => {
   const cleaned = [...title]
     .map((ch) => {
       if (ch === "/" || ch === "\\") return "-"

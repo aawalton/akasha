@@ -113,7 +113,7 @@ export function tscIn(segment: string): boolean {
   return THROUGH.includes(named) && ranBy(words.slice(1)) === TSC
 }
 
-export function refusalFor(call: BunCall): string | null {
+function refusalFor(call: BunCall): string | null {
   if (call.act === RUNS) return BUN_REFUSAL
   return scriptOf(call) === RUNS ? BUN_REFUSAL : null
 }
@@ -124,7 +124,7 @@ export function refusalIn(command: string, from: string, root: string): string |
   return overTsc ?? refusalOver(bunCallsIn(command), refusalFor)
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
 }
 

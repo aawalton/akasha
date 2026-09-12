@@ -33,7 +33,7 @@ export function checkpointKey(identity: CheckpointIdentity): string {
   return createHash("sha256").update(parts).digest("hex").slice(0, 16)
 }
 
-export function defaultCheckpointDir(): string {
+function defaultCheckpointDir(): string {
   return join(homedir(), ".cache", "health-import")
 }
 

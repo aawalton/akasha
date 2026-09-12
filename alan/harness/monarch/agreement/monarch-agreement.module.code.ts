@@ -58,7 +58,7 @@ async function mirrorCounts(): Promise<{
   }
 }
 
-export async function agreement(): Promise<readonly Reading[]> {
+async function agreement(): Promise<readonly Reading[]> {
   const auth = await monarchHeaders()
   const mirror = await mirrorCounts()
   return [
@@ -76,7 +76,7 @@ export async function agreement(): Promise<readonly Reading[]> {
   ]
 }
 
-export function disagreements(readings: readonly Reading[]): readonly Reading[] {
+function disagreements(readings: readonly Reading[]): readonly Reading[] {
   return readings.filter((r) => r.monarch !== r.mirror)
 }
 
@@ -88,7 +88,7 @@ export async function reportAgreement(): Promise<readonly Reading[]> {
   return report(await agreement())
 }
 
-export function report(readings: readonly Reading[]): readonly Reading[] {
+function report(readings: readonly Reading[]): readonly Reading[] {
   for (const r of readings) console.log(`  ${line(r)}`)
   const parted = disagreements(readings)
   if (parted.length === 0) return parted

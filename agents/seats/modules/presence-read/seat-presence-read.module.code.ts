@@ -15,7 +15,7 @@ import { parse } from "yaml"
 
 const FRONTMATTER_FENCE = "---"
 
-export function frontmatterIn(raw: string): Record<string, unknown> | null {
+function frontmatterIn(raw: string): Record<string, unknown> | null {
   if (!raw.startsWith(`${FRONTMATTER_FENCE}\n`)) return null
   const close = raw.indexOf(`\n${FRONTMATTER_FENCE}`, FRONTMATTER_FENCE.length)
   if (close === -1) return null

@@ -27,7 +27,7 @@ const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
 
 const PROPERTY_TYPE = "text-property"
 
-export const PAGES_AT = "akasha/agents/claude-accounts/pages"
+const PAGES_AT = "akasha/agents/claude-accounts/pages"
 
 export const FAKE_ACCESS = "fake-access-token-for-a-test"
 
@@ -35,7 +35,7 @@ export const FAKE_REFRESH = "fake-refresh-token-for-a-test"
 
 export const NOW = Date.parse("2026-09-02T12:00:00.000Z")
 
-export const MS_AN_HOUR = 3_600_000
+const MS_AN_HOUR = 3_600_000
 
 export const RESETS_AT = "2026-09-05T00:00:00.000Z"
 
@@ -125,7 +125,7 @@ export function pageAt(slug: string): string {
   return `${PAGES_AT}/${slug}/${slug}.claude-account.ts`
 }
 
-export function besideAt(slug: string): string {
+function besideAt(slug: string): string {
   return `${PAGES_AT}/${slug}/${slug}.claude-account.uncommitted.ts`
 }
 
@@ -245,7 +245,7 @@ export function doorsWith(
   return { doors, said: saidLines, warned: warnedLines, asked, pages }
 }
 
-export function secretsHeld(): ReadonlyMap<string, string> {
+function secretsHeld(): ReadonlyMap<string, string> {
   return new Map([
     ["access-token", FAKE_ACCESS],
     ["refresh-token", FAKE_REFRESH],

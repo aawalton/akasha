@@ -38,7 +38,7 @@ export interface MobileApp {
   readonly defaultDeviceUdid: string | null
 }
 
-export const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
+const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
 const SHELL_SCRIPT_PAGE_TYPE_SLUG = "shell-script"
 
@@ -140,7 +140,7 @@ export function mobileApps(): Readonly<Record<string, MobileApp>> {
   return held
 }
 
-export function knownAppSlugs(): readonly string[] {
+function knownAppSlugs(): readonly string[] {
   return Object.keys(mobileApps()).sort()
 }
 
@@ -167,7 +167,7 @@ export function appIn(slug: string | undefined): AppRead {
 
 const SHELL_SCRIPT_PART_PREFIX = `${SHELL_SCRIPT_PAGE_TYPE_SLUG}/`
 
-export const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
+const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
 
 export function ringCredentialScriptFor(app: MobileApp): string | null {
   const value = valueAt(app.pagePath, akashaRoot())
@@ -181,7 +181,7 @@ export function ringCredentialScriptFor(app: MobileApp): string | null {
   return scriptNamed(named.slice(SHELL_SCRIPT_PART_PREFIX.length), app.pagePath, "among its parts")
 }
 
-export const CODE_REPO = "code"
+const CODE_REPO = "code"
 
 export interface RepoPath {
   readonly repo: string

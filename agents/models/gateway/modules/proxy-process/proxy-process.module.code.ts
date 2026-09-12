@@ -8,13 +8,13 @@ import type {
 } from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-export const LOG_PREFIX = "[oauth-proxy]"
+const LOG_PREFIX = "[oauth-proxy]"
 
-export const BOOT_REFUSED_CODE = 1
+const BOOT_REFUSED_CODE = 1
 
-export const SHUT_DOWN_CODE = 0
+const SHUT_DOWN_CODE = 0
 
-export const SIGNALS = ["SIGTERM", "SIGINT"] as const
+const SIGNALS = ["SIGTERM", "SIGINT"] as const
 
 export type ProxyStateToWrite = {
   readonly pid: number
@@ -39,7 +39,7 @@ export type ProcessDoors = {
   readonly exited: (code: number) => undefined
 }
 
-export function guarded(doors: ProcessDoors, line: string, work: () => undefined): undefined {
+function guarded(doors: ProcessDoors, line: string, work: () => undefined): undefined {
   try {
     work()
   } catch (thrown) {
@@ -47,7 +47,7 @@ export function guarded(doors: ProcessDoors, line: string, work: () => undefined
   }
 }
 
-export function optionsFor(env: OAuthProxyBootEnv, doors: ProcessDoors): StartOAuthProxyOptions {
+function optionsFor(env: OAuthProxyBootEnv, doors: ProcessDoors): StartOAuthProxyOptions {
   return {
     port: env.port,
     root: doors.root,

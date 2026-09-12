@@ -5,7 +5,7 @@ import {
 } from "akasha/persons/device-token-registration/device-token-registration.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
-export const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
+const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
 
 export interface DeviceToken {
   readonly deviceToken: string

@@ -66,7 +66,7 @@ export function seatsPresent(): readonly Seated[] {
   return seatsStanding().filter((one) => one.present)
 }
 
-export function seatsAbsent(): readonly Seated[] {
+function seatsAbsent(): readonly Seated[] {
   const standing = seatsStanding()
   const byId = new Map<string, Seated>()
   for (const one of standing) {

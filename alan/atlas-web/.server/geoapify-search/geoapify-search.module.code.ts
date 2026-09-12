@@ -2,9 +2,9 @@ import type { PlaceCandidate } from "akasha/alan/atlas-web/place-candidate/place
 import { buildGeoapifyAutocompleteUrl } from "akasha/alan/harness/geo-io/geoapify/geoapify.module.code.ts"
 import { z } from "zod"
 
-export const GEOAPIFY_SEARCH_LIMIT = 10
+const GEOAPIFY_SEARCH_LIMIT = 10
 
-export function buildGeoapifySearchUrl(
+function buildGeoapifySearchUrl(
   text: string,
   apiKey: string,
   limit: number = GEOAPIFY_SEARCH_LIMIT
@@ -37,7 +37,7 @@ const geoapifyResponseSchema = z
 
 export type GeoapifyResponse = z.infer<typeof geoapifyResponseSchema>
 
-export function normalizeFeatures(parsed: GeoapifyResponse): readonly PlaceCandidate[] {
+function normalizeFeatures(parsed: GeoapifyResponse): readonly PlaceCandidate[] {
   const candidates: PlaceCandidate[] = []
   for (const feature of parsed.features) {
     const p = feature.properties

@@ -51,7 +51,7 @@ const AS_THE_STORE_ANSWERS: Readonly<Record<string, string>> = {
 
 const STRETCH_KEYS = Object.keys(AS_THE_STORE_ANSWERS)
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no attribute could be read, so there is no reading to take. A tile showing no signal is right " +
   "where a tile showing points Alan did not earn would be a lie."
 
@@ -116,7 +116,7 @@ const OFF_THE_DAY = [
 
 const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can be read off one"
 
-export async function readAttributes(now: Date = new Date()): Promise<Taken> {
+async function readAttributes(now: Date = new Date()): Promise<Taken> {
   const kept: Record<string, number> = {}
   const unread: string[] = []
   const keep = (page: string, value: number | null): undefined => {

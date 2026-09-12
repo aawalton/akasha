@@ -1,4 +1,4 @@
-export const ERROR_TYPE = {
+const ERROR_TYPE = {
   NETWORK: "network",
   AUTHENTICATION: "auth",
   RATE_LIMIT: "rate_limit",

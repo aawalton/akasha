@@ -14,17 +14,17 @@ export interface PluginLocation {
   time: number | null
 }
 
-export function finiteNonNegative(n: number | null | undefined): number | undefined {
+function finiteNonNegative(n: number | null | undefined): number | undefined {
   if (n == null || !Number.isFinite(n) || n < 0) return undefined
   return n
 }
 
-export function finiteSigned(n: number | null | undefined): number | undefined {
+function finiteSigned(n: number | null | undefined): number | undefined {
   if (n == null || !Number.isFinite(n)) return undefined
   return n
 }
 
-export function capturedAtIso(timeMs: number | null | undefined, nowMs: number): string {
+function capturedAtIso(timeMs: number | null | undefined, nowMs: number): string {
   const ms = timeMs != null && Number.isFinite(timeMs) ? timeMs : nowMs
   return new Date(ms).toISOString()
 }
@@ -70,7 +70,7 @@ export function mapPluginLocation(
   return point
 }
 
-export function pointKey(p: Pick<LocationPoint, "deviceId" | "clientSeq">): string {
+function pointKey(p: Pick<LocationPoint, "deviceId" | "clientSeq">): string {
   return `${p.deviceId}:${p.clientSeq}`
 }
 

@@ -37,7 +37,7 @@ export async function orderEmails(): Promise<readonly EmailMessage[]> {
   return cachedMessages({ query: GMAIL_QUERY, cacheDir: BODY_CACHE, label: "order confirmations" })
 }
 
-export async function candidateCharges(): Promise<readonly Movement[]> {
+async function candidateCharges(): Promise<readonly Movement[]> {
   return amazonMovements((amount) => amount < 0)
 }
 

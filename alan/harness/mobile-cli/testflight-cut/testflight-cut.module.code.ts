@@ -64,7 +64,7 @@ import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 export type Say = (text: string) => void
 
-export const toStdout: Say = (text) => {
+const toStdout: Say = (text) => {
   process.stdout.write(text)
 }
 

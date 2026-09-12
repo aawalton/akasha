@@ -73,7 +73,7 @@ function resolveImport(root: string, specifier: string, fromAbsolute: string): s
   )
 }
 
-export function collectVersionTreeFilesFrom(root: string, entrypoint: string): readonly string[] {
+function collectVersionTreeFilesFrom(root: string, entrypoint: string): readonly string[] {
   const seen = new Set<string>()
   const queue: { absolute: string; reachedFrom: string | null }[] = [
     { absolute: entrypoint, reachedFrom: null },
@@ -94,7 +94,7 @@ export function collectVersionTreeFilesFrom(root: string, entrypoint: string): r
   return [...seen].map((absolute) => relative(root, absolute)).toSorted()
 }
 
-export function computeVersionTreeHashFrom(root: string, entrypoint: string): string {
+function computeVersionTreeHashFrom(root: string, entrypoint: string): string {
   const perFileLines = collectVersionTreeFilesFrom(root, entrypoint).map((rel) => {
     const hash = createHash("sha256")
       .update(readFileSync(join(root, rel)))

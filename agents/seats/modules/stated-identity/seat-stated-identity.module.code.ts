@@ -15,7 +15,7 @@ export interface StatedIdentity {
   readonly role?: string
 }
 
-export function resolveCall(stated: StatedIdentity): Partial<Record<Declaration, string>> | null {
+function resolveCall(stated: StatedIdentity): Partial<Record<Declaration, string>> | null {
   const held = stated as Readonly<Record<string, unknown>>
   const slots: Partial<Record<Declaration, string>> = {}
   for (const key of [...ATTRIBUTES, ...ASSIGNMENTS]) {

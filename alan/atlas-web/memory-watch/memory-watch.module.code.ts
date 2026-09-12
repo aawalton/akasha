@@ -1,4 +1,4 @@
-export const RSS_REPORT_STEP_BYTES = 8 * 1024 * 1024
+const RSS_REPORT_STEP_BYTES = 8 * 1024 * 1024
 
 export const RSS_SAMPLE_INTERVAL_MS = 2_000
 

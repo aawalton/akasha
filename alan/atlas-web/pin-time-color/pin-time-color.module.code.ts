@@ -1,6 +1,6 @@
 export type TimeBucket = "past" | "imminent" | "future" | "unscheduled"
 
-export const IMMINENT_WINDOW_MS = 24 * 60 * 60 * 1000
+const IMMINENT_WINDOW_MS = 24 * 60 * 60 * 1000
 
 export const TIME_BUCKET_TOKENS: Record<TimeBucket, string> = {
   past: "--tertiary",

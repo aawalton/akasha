@@ -42,7 +42,7 @@ function spelledForTheStore(
   return held
 }
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no stretch of the day carries a capacity, so there is no reading to take. A tile showing no " +
   "signal is right where a tile showing capacity Alan does not have would be a lie."
 

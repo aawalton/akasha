@@ -40,7 +40,7 @@ export function notesOf(every: readonly Refreshing[]): readonly string[] {
   return found
 }
 
-export async function refreshOne(root: string, account: string, now: number): Promise<Refreshing> {
+async function refreshOne(root: string, account: string, now: number): Promise<Refreshing> {
   const held = credentialIn(root, account, secretsIn)
   if (held.kind === "absent") return { account, kind: "absent", why: held.why }
   const cred = held.credential

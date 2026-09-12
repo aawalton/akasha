@@ -186,7 +186,7 @@ const QueryRecordSchema = z
 
 const QueryResponseSchema = z.object({ records: z.array(QueryRecordSchema) }).passthrough()
 
-export function safeFilename(encoded: string, fallbackStem: string): string {
+function safeFilename(encoded: string, fallbackStem: string): string {
   let decoded = ""
   try {
     decoded = Buffer.from(encoded, "base64").toString("utf8")

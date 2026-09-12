@@ -76,7 +76,7 @@ let heldOrigin: string | undefined
 
 export type Answering = (asked: AskedOf) => Rows
 
-export function answeredRows(asked: AskedOf): Rows {
+function answeredRows(asked: AskedOf): Rows {
   if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
   if (asked.pageTypeSlug === "readout-group") return ANSWERED.groups
   if (asked.pageTypeSlug === "readout-scale") return ANSWERED.scales

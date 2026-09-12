@@ -42,7 +42,7 @@ export async function mirroredWindow(window?: FetchedWindow): Promise<readonly M
   return rows
 }
 
-export async function pendingIds(): Promise<readonly string[]> {
+async function pendingIds(): Promise<readonly string[]> {
   const held: string[] = []
   for (const month of await readMonths()) {
     for (const line of month.transactions) {
@@ -54,7 +54,7 @@ export async function pendingIds(): Promise<readonly string[]> {
 
 const RETIRE_CEILING = 0.05
 
-export function vanished(
+function vanished(
   fetchedIds: ReadonlySet<string>,
   mirrored: readonly string[]
 ): {

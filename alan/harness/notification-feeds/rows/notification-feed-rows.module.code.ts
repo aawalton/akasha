@@ -50,12 +50,12 @@ function rowsFor(page: string): readonly Readonly<Record<string, unknown>>[] {
   return read.entries as readonly Readonly<Record<string, unknown>>[]
 }
 
-export function feedPageFor(personSlug: string): string | null {
+function feedPageFor(personSlug: string): string | null {
   const listed = listedAt(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG, personSlug)[0]
   return listed === undefined ? null : listed.path
 }
 
-export function notifiedSaid(personSlug: string, at: string): string {
+function notifiedSaid(personSlug: string, at: string): string {
   return `a notification filed for ${personSlug} at ${at}, which a reader can already see`
 }
 

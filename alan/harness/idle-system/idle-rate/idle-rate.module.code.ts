@@ -45,18 +45,18 @@ function pairKey(a: string, b: string): string {
   return [a, b].sort().join("+")
 }
 
-export function pairSynergy(matrix: SynergyMatrix, a: string, b: string): number {
+function pairSynergy(matrix: SynergyMatrix, a: string, b: string): number {
   const v = matrix[pairKey(a, b)]
   return typeof v === "number" ? v : DEFAULT_SYNERGY
 }
 
-export function balanceFactor(rankA: number, rankB: number): number {
+function balanceFactor(rankA: number, rankB: number): number {
   const lo = Math.min(rankA, rankB)
   const hi = Math.max(rankA, rankB)
   return hi === 0 ? 1 : lo / hi
 }
 
-export function computeTeamSynergy(
+function computeTeamSynergy(
   members: readonly string[],
   teammates: readonly Teammate[],
   matrix: SynergyMatrix
@@ -100,7 +100,7 @@ function perGirlBoostedRate(
   return isLead ? e * LEAD_MULT : e
 }
 
-export function computeRoleAwareTotalRate(
+function computeRoleAwareTotalRate(
   team: readonly string[],
   teammates: readonly Teammate[],
   matrix: SynergyMatrix,

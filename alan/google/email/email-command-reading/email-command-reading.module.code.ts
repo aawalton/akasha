@@ -10,21 +10,21 @@ import type { Piping } from "akasha/commands/modules/piping/piping.module.code.t
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-export const INPUT_MARK = "-"
+const INPUT_MARK = "-"
 
-export const SUBJECT = "--subject"
+const SUBJECT = "--subject"
 
-export const SUBJECT_FILE = "--subject-file"
+const SUBJECT_FILE = "--subject-file"
 
-export const BODY = "--body"
+const BODY = "--body"
 
-export const BODY_FILE = "--body-file"
+const BODY_FILE = "--body-file"
 
 export const SUBJECT_FILING: Filing = { said: SUBJECT, file: SUBJECT_FILE, whole: false }
 
 export const BODY_FILING: Filing = { said: BODY, file: BODY_FILE, whole: true }
 
-export function pathAt(root: string, path: string): string {
+function pathAt(root: string, path: string): string {
   return isAbsolute(path) ? path : resolve(root, path)
 }
 

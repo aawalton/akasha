@@ -8,7 +8,7 @@ import type { NotifyInput } from "akasha/alan/harness/notification-feeds/rows/no
 const KEEPER_UNREVIVABLE_KIND = "keeper-unrevivable"
 const KEEPER_UNREVIVABLE_SOURCE = "supervisor"
 
-export function buildKeeperUnrevivableNotifyInput(name: string, agentId: string): NotifyInput {
+function buildKeeperUnrevivableNotifyInput(name: string, agentId: string): NotifyInput {
   return {
     title: `${name} is down and cannot be woken`,
     body:
@@ -24,7 +24,7 @@ export async function pushKeeperUnrevivableToAlan(name: string, agentId: string)
   await notify(ALAN_PERSON, buildKeeperUnrevivableNotifyInput(name, agentId))
 }
 
-export function buildUnrevivableMessageBody(name: string, agentId: string): string {
+function buildUnrevivableMessageBody(name: string, agentId: string): string {
   return (
     `\`${name}\` (${agentId}) was absent with inbound work waiting, so the recipient-resolver tried ` +
     "to revive it. The revive did not take — it either never booted or came back without advancing " +

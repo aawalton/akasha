@@ -7,7 +7,7 @@ import type { OnDemandAgentSpec } from "akasha/agents/messaging/recipient-resolv
 
 const LOG = "[local] recipient-resolver:"
 
-export const HARNESS_LEAD_NAME = "athena"
+const HARNESS_LEAD_NAME = "athena"
 
 function withTimeout<T>(work: Promise<T>, ms: number, label: string): Promise<T> {
   return new Promise<T>((resolve, reject) => {

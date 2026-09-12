@@ -63,7 +63,7 @@ const STRATUM_OF: ReadonlyMap<string, Stratum> = new Map([
   ["Entrepreneurship", "ENVELOPE-OCCASION"],
 ])
 
-export function stratumOf(category: string): Stratum {
+function stratumOf(category: string): Stratum {
   const stratum = STRATUM_OF.get(category)
   if (stratum === undefined) {
     throw new Error(
@@ -76,7 +76,7 @@ export function stratumOf(category: string): Stratum {
 
 export type Pool = "DEV" | "HOLDOUT"
 
-export function poolOf(monarchId: string): Pool {
+function poolOf(monarchId: string): Pool {
   const digest = createHash("sha256").update(monarchId).digest("hex")
   const last = digest.charAt(digest.length - 1)
   return "01234567".includes(last) ? "DEV" : "HOLDOUT"

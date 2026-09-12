@@ -20,7 +20,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-export function evidenceAt(): string {
+function evidenceAt(): string {
   const page = listedAt(REPO, MODULE, EVIDENCE_SLUG)[0]
   const at = page === undefined ? null : besideAt(page.path, CODE, TS)
   if (at === null) {
@@ -31,7 +31,7 @@ export function evidenceAt(): string {
   return at
 }
 
-export function allowedTools(): readonly string[] {
+function allowedTools(): readonly string[] {
   const relative = evidenceAt()
   return [`Bash(bun ${join(REPO, relative)}:*)`, `Bash(bun ${relative}:*)`]
 }

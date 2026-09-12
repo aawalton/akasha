@@ -45,7 +45,7 @@ async function sendChannelNotification(
   })
 }
 
-export async function deliverClaimedMessage(args: {
+async function deliverClaimedMessage(args: {
   row: { id: string; content: string; sender_agent_id: string | null; source: string | null }
   claim: (id: string) => Promise<boolean>
   notify: (msg: DeliveredMessage) => Promise<void>

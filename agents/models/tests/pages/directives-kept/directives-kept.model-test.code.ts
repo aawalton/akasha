@@ -34,7 +34,7 @@ export function rulesOf(every: readonly Directive[]): string {
   return every.map((one) => ruleOf(one)).join("\n\n")
 }
 
-export function lettersIn(said: string): string {
+function lettersIn(said: string): string {
   return said.toLowerCase().replace(LETTERS, "")
 }
 

@@ -14,7 +14,7 @@ import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.mo
 import { resolveOrCreateDaily } from "akasha/alan/track/daily/track-resolve/track-resolve.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
-export const INBOX_WRITER = "inbox-tracking"
+const INBOX_WRITER = "inbox-tracking"
 
 export type PersistOutcome = "created" | "patched" | "unchanged"
 

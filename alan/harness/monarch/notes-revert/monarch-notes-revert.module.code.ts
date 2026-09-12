@@ -10,7 +10,7 @@ import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
 
-export const SNAPSHOT_PATH = `${HOME}/monarch-notes-snapshot-18168.json`
+const SNAPSHOT_PATH = `${HOME}/monarch-notes-snapshot-18168.json`
 
 export interface SnapshotRow {
   readonly monarchId: string
@@ -20,7 +20,7 @@ export interface SnapshotRow {
   readonly tagIds: readonly string[]
 }
 
-export function snapshotRow(t: MonarchTransaction): SnapshotRow {
+function snapshotRow(t: MonarchTransaction): SnapshotRow {
   return {
     monarchId: t.id,
     date: t.date,
@@ -40,7 +40,7 @@ const SNAPSHOT_SHAPE = shape.array(
   })
 )
 
-export function heldSnapshot(): readonly SnapshotRow[] {
+function heldSnapshot(): readonly SnapshotRow[] {
   return SNAPSHOT_SHAPE.parse(JSON.parse(readFileSync(SNAPSHOT_PATH, "utf8")))
 }
 

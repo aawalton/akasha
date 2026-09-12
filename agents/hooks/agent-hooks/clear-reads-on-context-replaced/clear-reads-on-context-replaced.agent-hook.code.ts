@@ -159,7 +159,7 @@ export function sourceIn(raw: string): string {
   return saidIn(raw, "source")
 }
 
-export async function ranAsClearing(
+async function ranAsClearing(
   env: Readonly<Record<string, string | undefined>>,
   at: string
 ): Promise<number> {
@@ -176,7 +176,7 @@ export async function ranAsClearing(
   return ASIDE
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsClearing(process.env, import.meta.path)
 }
 

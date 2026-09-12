@@ -72,7 +72,7 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-export function refusalFor(call: BunCall): string | null {
+function refusalFor(call: BunCall): string | null {
   return call.act === RUNS ? toldOf(HOOK, REFUSED) : null
 }
 
@@ -81,7 +81,7 @@ export function refusalIn(command: string, from: string, root: string): string |
   return refusalOver(bunCallsIn(command), refusalFor)
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
 }
 

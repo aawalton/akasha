@@ -6,9 +6,9 @@ import {
 
 export type UsageRecord = SeatRecord
 
-export const MODEL_KEY = "model"
+const MODEL_KEY = "model"
 
-export const CONTEXT_TOKENS_KEY = "context-tokens"
+const CONTEXT_TOKENS_KEY = "context-tokens"
 
 export interface UsageReading {
   readonly model: string | null

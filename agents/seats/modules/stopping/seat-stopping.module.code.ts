@@ -89,7 +89,7 @@ export function subagentGuard(input: {
   }
 }
 
-export function agentPids(agentId: string): readonly number[] {
+function agentPids(agentId: string): readonly number[] {
   const found: number[] = []
   for (const one of procEntries([AGENT_ID]).entries) {
     if (one.named[AGENT_ID] !== agentId) continue
@@ -99,7 +99,7 @@ export function agentPids(agentId: string): readonly number[] {
   return found
 }
 
-export function subagentsOf(root: string, seatName: string): readonly Working[] {
+function subagentsOf(root: string, seatName: string): readonly Working[] {
   const found: Working[] = []
   for (const one of everyOfType(root, typeSlugOf(root, SUBAGENT_TYPE))) {
     const value = valueAt(one.path, root)
@@ -126,7 +126,7 @@ export async function sessionHeld(name: string): Promise<boolean> {
   return (await tmux(["has-session", "-t", `=${name}`])) === 0
 }
 
-export async function endedSession(name: string): Promise<boolean> {
+async function endedSession(name: string): Promise<boolean> {
   if (!(await sessionHeld(name))) return false
   await tmux(["kill-session", "-t", `=${name}`])
   return !(await sessionHeld(name))

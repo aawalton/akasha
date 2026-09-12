@@ -61,7 +61,7 @@ const DEFAULT_LOG_PREFIX = "[upkeep]"
 
 const NO_CODE = "unknown"
 
-export const INTER_ACCOUNT_DELAY_MS: number = 2_000
+const INTER_ACCOUNT_DELAY_MS: number = 2_000
 
 export const RETRY_BACKOFF_MS: readonly number[] = [10_000, 30_000]
 
@@ -130,7 +130,7 @@ export async function retriedOn429<T>(args: {
   }
 }
 
-export async function windowTriggeredFor(accessToken: string): Promise<Triggered> {
+async function windowTriggeredFor(accessToken: string): Promise<Triggered> {
   const answered = await fetch(MESSAGES_URL, {
     method: "POST",
     headers: {
@@ -218,7 +218,7 @@ function alertedOn(args: {
   }
 }
 
-export async function upkeepPassFor(args: {
+async function upkeepPassFor(args: {
   readonly root: string
   readonly slug: string
   readonly doors: Doors

@@ -28,7 +28,7 @@ const PAGE_SLOTS = ["persona-slug", "domain-slug", "role-slug"] as const
 
 const PERSON_KEY = "person-slug"
 
-export function pushedSlotsOf(agent: string): string | null {
+function pushedSlotsOf(agent: string): string | null {
   const values = pageValuesOf(agent)
   if (values === null) return null
   const person = values[PERSON_KEY]

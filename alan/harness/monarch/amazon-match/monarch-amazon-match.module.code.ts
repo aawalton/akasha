@@ -2,12 +2,12 @@ import type { AmazonOrder } from "akasha/alan/harness/monarch/amazon-order/monar
 import type { AmazonRefund } from "akasha/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.code.ts"
 import { cents } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
-export const MATCH_WINDOW_DAYS = 10
+const MATCH_WINDOW_DAYS = 10
 
-export const REFUND_DAYS_BEFORE = 3
-export const REFUND_DAYS_AFTER = 21
+const REFUND_DAYS_BEFORE = 3
+const REFUND_DAYS_AFTER = 21
 
-export const MAX_NOTE_CHARS = 900
+const MAX_NOTE_CHARS = 900
 
 export interface Movement {
   readonly monarchId: string
@@ -33,7 +33,7 @@ export interface Partition<T> {
 
 const DAY_MS = 86_400_000
 
-export function daysAfter(from: string, to: string): number {
+function daysAfter(from: string, to: string): number {
   const start = Date.parse(`${from.slice(0, 10)}T00:00:00Z`)
   const end = Date.parse(`${to.slice(0, 10)}T00:00:00Z`)
   if (Number.isNaN(start) || Number.isNaN(end)) {

@@ -39,7 +39,7 @@ export function saidOf(report: RunReport, dryRun: boolean): readonly string[] {
   return [...report.decisions.map((one) => `  ${one}`), tallyOf(report, dryRun)]
 }
 
-export async function pass(argv: readonly string[]): Promise<number> {
+async function pass(argv: readonly string[]): Promise<number> {
   const dryRun = dryRunIn(argv)
   const report = await oneRun(personIn(argv), akashaRoot(), await mailbox(), { dryRun })
   for (const line of saidOf(report, dryRun)) process.stdout.write(`${line}\n`)

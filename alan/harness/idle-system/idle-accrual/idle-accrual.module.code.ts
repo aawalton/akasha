@@ -82,7 +82,7 @@ function weatherSlugAt(now: number, roster: readonly string[]): string {
 function weatherNextRotateAt(now: number): number {
   return (Math.floor(now / WEATHER_PERIOD_MS) + 1) * WEATHER_PERIOD_MS
 }
-export function weatherSnapshot(
+function weatherSnapshot(
   now: number,
   roster: readonly string[]
 ): { currentSlug: string; nextRotateAt: number } {
@@ -101,7 +101,7 @@ function bloomPairsOf(roster: readonly string[]): readonly string[] {
 function bloomPairAt(now: number, pairs: readonly string[]): string {
   return pairs[Math.floor(now / BLOOM_PERIOD_MS) % pairs.length] ?? ""
 }
-export function bloomSnapshot(
+function bloomSnapshot(
   now: number,
   roster: readonly string[]
 ): { pairKey: string; nextRotateAt: number } {
@@ -111,22 +111,22 @@ export function bloomSnapshot(
   }
 }
 
-export function overdriveActiveAt(now: number): boolean {
+function overdriveActiveAt(now: number): boolean {
   return now % OVERDRIVE_PERIOD_MS < OVERDRIVE_ON_MS
 }
-export function overdriveSnapshot(now: number): { activeUntil: number; nextStartAt: number } {
+function overdriveSnapshot(now: number): { activeUntil: number; nextStartAt: number } {
   const base = Math.floor(now / OVERDRIVE_PERIOD_MS) * OVERDRIVE_PERIOD_MS
   return { activeUntil: base + OVERDRIVE_ON_MS, nextStartAt: base + OVERDRIVE_PERIOD_MS }
 }
-export function eclipseActiveAt(now: number): boolean {
+function eclipseActiveAt(now: number): boolean {
   return now % ECLIPSE_PERIOD_MS < ECLIPSE_ON_MS
 }
-export function eclipseSnapshot(now: number): { activeUntil: number; nextStartAt: number } {
+function eclipseSnapshot(now: number): { activeUntil: number; nextStartAt: number } {
   const base = Math.floor(now / ECLIPSE_PERIOD_MS) * ECLIPSE_PERIOD_MS
   return { activeUntil: base + ECLIPSE_ON_MS, nextStartAt: base + ECLIPSE_PERIOD_MS }
 }
 
-export function cohesionRamp(lineupSince: number | undefined, now: number): number {
+function cohesionRamp(lineupSince: number | undefined, now: number): number {
   if (lineupSince === undefined) return 0
   const hours = Math.max(0, now - lineupSince) / 3600000
   return Math.min(COHESION_CAP, hours * COHESION_PER_HOUR)

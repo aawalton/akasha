@@ -7,11 +7,11 @@ const PAGE_TYPE = "seat-turn-state"
 
 const COLOR_KEY = "color"
 
-export function pageOfState(akasha: string, state: SeatTurnState): string | null {
+function pageOfState(akasha: string, state: SeatTurnState): string | null {
   return listedAt(akasha, PAGE_TYPE, state)[0]?.path ?? null
 }
 
-export function colorStatedOn(akasha: string, state: SeatTurnState): string | null {
+function colorStatedOn(akasha: string, state: SeatTurnState): string | null {
   let values: Readonly<Record<string, unknown>> | null
   try {
     const at = pageOfState(akasha, state)

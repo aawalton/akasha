@@ -19,7 +19,7 @@ export interface Addressed {
   readonly id: string
 }
 
-export function personBehindHandlerSeat(name: string, root: string): string | null {
+function personBehindHandlerSeat(name: string, root: string): string | null {
   for (const person of personPrincipals(root)) {
     if (handlerSeatName(person, root) === name) return person
   }

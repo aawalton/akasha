@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const CONTACTS_SOURCE_SEPARATOR = "__IMESSAGE_CONTACTS_DB__"
+const CONTACTS_SOURCE_SEPARATOR = "__IMESSAGE_CONTACTS_DB__"
 
 const contactRowSchema = z
   .object({
@@ -21,7 +21,7 @@ export interface Contact {
   readonly emails: readonly string[]
 }
 
-export function normalizePhone(input: string): string {
+function normalizePhone(input: string): string {
   return input.replace(/\D/g, "")
 }
 
@@ -40,7 +40,7 @@ export function isPhoneLike(input: string): boolean {
   return /\d/.test(trimmed) && /^[+]?[\d\s().-]+$/.test(trimmed)
 }
 
-export function buildContactsSql(): string {
+function buildContactsSql(): string {
   return `
 SELECT r.Z_PK AS pk, r.ZFIRSTNAME AS first_name, r.ZLASTNAME AS last_name,
        r.ZORGANIZATION AS organization, 'phone' AS kind, p.ZFULLNUMBER AS value

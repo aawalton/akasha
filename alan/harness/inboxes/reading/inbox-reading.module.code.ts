@@ -26,7 +26,7 @@ function pageOf(root: string, slug: string): string {
   return listed.path
 }
 
-export function emailPage(root: string): string {
+function emailPage(root: string): string {
   return pageOf(root, "inboxes-email")
 }
 
@@ -40,11 +40,11 @@ export function temperTasksPage(root: string): string {
 
 const TEMPER_TASKS_KEY = "inbox-temper-tasks"
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no inbox could be read, so there is no reading to take. A tile showing no signal is right " +
   "where a tile showing an inbox nobody counted would be a lie."
 
-export const SOME_STAND_STALE =
+const SOME_STAND_STALE =
   "a readout nothing was kept for still holds the number kept before it, which is not the count now, " +
   "so this run did not succeed."
 

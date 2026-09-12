@@ -37,11 +37,11 @@ const GMAIL_QUERY = 'from:return@amazon.com subject:"refund issued"'
 const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
 const BODY_CACHE = `${HOME}/.cache/monarch-amazon-refunds`
 
-export async function refundEmails(): Promise<readonly EmailMessage[]> {
+async function refundEmails(): Promise<readonly EmailMessage[]> {
   return cachedMessages({ query: GMAIL_QUERY, cacheDir: BODY_CACHE, label: "refund notices" })
 }
 
-export async function candidateCredits(): Promise<readonly Movement[]> {
+async function candidateCredits(): Promise<readonly Movement[]> {
   return amazonMovements((amount) => amount > 0)
 }
 

@@ -51,7 +51,7 @@ const EXCLUDED_DIR_NAMES: ReadonlySet<string> = new Set([
   ".vite",
 ])
 
-export function newestMtimeMs(root: string): number | null {
+function newestMtimeMs(root: string): number | null {
   if (!existsSync(root)) return null
   let newest: number | null = null
   const walk = (dir: string): undefined => {
@@ -136,7 +136,7 @@ export function assertStagedWwwFresh(app: MobileApp, spaRoot: string): undefined
   return undefined
 }
 
-export function ensureWebEnvLocal(app: MobileApp, repoRoot: string): undefined {
+function ensureWebEnvLocal(app: MobileApp, repoRoot: string): undefined {
   const segments = app.webEnvSegments
   if (segments === null) return undefined
   const target = join(repoRoot, ...segments)

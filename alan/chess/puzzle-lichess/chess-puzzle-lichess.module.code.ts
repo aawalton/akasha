@@ -1,8 +1,8 @@
-export const LICHESS_PUZZLE_URL = "https://database.lichess.org/lichess_db_puzzle.csv.zst"
+const LICHESS_PUZZLE_URL = "https://database.lichess.org/lichess_db_puzzle.csv.zst"
 
-export const DEFAULT_INGEST_LIMIT = 10000
+const DEFAULT_INGEST_LIMIT = 10000
 
-export const PUZZLE_LICENSE = "CC0-1.0"
+const PUZZLE_LICENSE = "CC0-1.0"
 
 const BATCH_SIZE = 250
 
@@ -45,14 +45,11 @@ export interface IngestCounts {
 
 export type Batch = (puzzles: readonly ParsedPuzzle[]) => undefined
 
-export function parseHeader(line: string): readonly string[] {
+function parseHeader(line: string): readonly string[] {
   return line.split(",").map((c) => c.trim())
 }
 
-export function assembleRow(
-  header: readonly string[],
-  line: string
-): Record<string, string> | null {
+function assembleRow(header: readonly string[], line: string): Record<string, string> | null {
   const fields = line.split(",")
   if (fields.length !== header.length) return null
   const row: Record<string, string> = {}
@@ -86,7 +83,7 @@ function nonEmpty(row: Record<string, string>, column: string): string {
   return one
 }
 
-export function parsePuzzleRow(row: Record<string, string>): ParsedPuzzle {
+function parsePuzzleRow(row: Record<string, string>): ParsedPuzzle {
   return {
     puzzleId: nonEmpty(row, "PuzzleId"),
     fen: nonEmpty(row, "FEN"),
@@ -101,7 +98,7 @@ export function parsePuzzleRow(row: Record<string, string>): ParsedPuzzle {
   }
 }
 
-export function solverColorFromFen(fen: string): SolverColor | null {
+function solverColorFromFen(fen: string): SolverColor | null {
   const active = fen.trim().split(/\s+/)[1]
   if (active === "w") return "black"
   if (active === "b") return "white"

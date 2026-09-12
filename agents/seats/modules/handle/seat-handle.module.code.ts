@@ -44,7 +44,7 @@ export function isValidSeatName(candidate: string): boolean {
   return true
 }
 
-export function planSeatResolution(input: string): SeatHandle {
+function planSeatResolution(input: string): SeatHandle {
   if (lowerUuid(input.toLowerCase())) return { kind: "uuid", uuid: input.toLowerCase() }
   const clean = input.replace(/-/g, "").toLowerCase()
   if (clean.length > 0 && clean.length <= UUID_HEX_LEN && HEX_ONLY_RE.test(clean)) {
@@ -88,7 +88,7 @@ function byRecency(plan: SeatHandle, found: readonly Seated[]): readonly Seated[
   return [found.reduce((best, one) => (one.activeAtMs > best.activeAtMs ? one : best))]
 }
 
-export function resolveSeatAmong(
+function resolveSeatAmong(
   input: string,
   standing: readonly Seated[],
   every: readonly Seated[]

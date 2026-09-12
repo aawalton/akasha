@@ -62,10 +62,7 @@ export function attachedSaid(session: string, webview: string): string {
   )
 }
 
-export async function attachWebview(
-  done: string[],
-  state: SimSessionState
-): Promise<SimSessionState> {
+async function attachWebview(done: string[], state: SimSessionState): Promise<SimSessionState> {
   let contexts: readonly string[]
   try {
     contexts = await getContexts(state.appiumBase, state.sessionId)
@@ -106,7 +103,7 @@ export type Opening = {
   readonly saved: (state: SimSessionState) => undefined
 }
 
-export const OPENING: Opening = {
+const OPENING: Opening = {
   loaded: loadSessionState,
   live: sessionStillLive,
   created: createSession,
@@ -207,7 +204,7 @@ async function sessionStillLive(state: SimSessionState): Promise<boolean> {
   }
 }
 
-export function requireDrivingState(): SimSessionState {
+function requireDrivingState(): SimSessionState {
   return requireSessionState()
 }
 

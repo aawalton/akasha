@@ -36,7 +36,7 @@ async function chosenRule(flags: ReadonlyMap<string, readonly string[]>): Promis
   return found
 }
 
-export function categoryFrom(rule: Rule, row: HistoryRow, decision: Decision): string {
+function categoryFrom(rule: Rule, row: HistoryRow, decision: Decision): string {
   switch (decision.kind) {
     case "categorize":
       return decision.category

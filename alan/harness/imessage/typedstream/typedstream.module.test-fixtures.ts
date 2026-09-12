@@ -30,11 +30,11 @@ export function longBody(text: string): string {
   return `${NSSTRING}${PAYLOAD}82${le}${hex(text)}`
 }
 
-export function overrunBody(text: string): string {
+function overrunBody(text: string): string {
   return `${NSSTRING}${PAYLOAD}7f${hex(text)}`
 }
 
-export function unknownLengthForm(marker: string, text: string): string {
+function unknownLengthForm(marker: string, text: string): string {
   return `${NSSTRING}${PAYLOAD}${marker}${hex(text)}`
 }
 
