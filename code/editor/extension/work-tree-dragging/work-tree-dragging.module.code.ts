@@ -123,7 +123,7 @@ export interface WorkDropWatch {
 }
 
 export type Calling = (
-  module: string,
+  slug: string,
   exported: string,
   args: readonly string[],
   options: { readonly timeout: number }
