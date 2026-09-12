@@ -5,6 +5,9 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { pathOf } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import { page } from "akasha/commands/pages/page/page.namespace.ts"
+import { pageTree as treePage } from "akasha/commands/pages/page/tree/page-tree.command.ts"
 import { AKASHA } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   readingIn,
@@ -33,6 +36,15 @@ const SUFFIX = "-property"
 const TARGET_PAGE_TYPE = "targetPageType"
 
 const EXTENDS = "extends"
+
+const CALLED_AS = "akasha"
+
+const NAMED: Readonly<Record<string, string>> = {
+  [page.slug]: page.name,
+  [treePage.slug]: treePage.name,
+}
+
+const CALL = `${CALLED_AS} ${pathOf(treePage.slug, (slug) => NAMED[slug] ?? null)}`
 
 export interface Row {
   readonly at: string
@@ -263,7 +275,7 @@ export function pageTree(argv: readonly string[], given: Given): Answer {
 if (import.meta.main) {
   const answer = pageTree(process.argv.slice(2), {
     root: rootIn(process.env, import.meta.path),
-    calledAs: "akasha page tree",
+    calledAs: CALL,
     from: process.cwd(),
     writer: authorIn(process.env),
     agentId: writerIn(process.env),
