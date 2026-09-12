@@ -1,12 +1,4 @@
 import {
-  getMapTextureName,
-  MAP_STATE,
-} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
-import {
-  getDestinationKnownPoiTexture,
-  getDestinationUnknownPoiTexture,
-} from "akasha/temper/navigation-addon/destinations-pins-poi-textures/destinations-pins-poi-textures.module.code.ts"
-import {
   DESTINATIONS_PIN_TYPE_CRAFTING,
   DESTINATIONS_PIN_TYPE_MUNDUS,
   DESTINATIONS_PIN_TYPE_UNKNOWN,
@@ -30,6 +22,14 @@ import {
 import { abilityDescription } from "akasha/temper/navigation-addon/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"
 import { PIN_TEXTURES } from "akasha/temper/navigation-addon/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  getMapTextureName,
+  MAP_STATE,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+import {
+  getDestinationKnownPoiTexture,
+  getDestinationUnknownPoiTexture,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-poi-textures/destinations-pins-poi-textures.module.code.ts"
 
 export type UnknownPinTagKeyboardLine = [
   font: string,

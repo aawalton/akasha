@@ -1,8 +1,4 @@
 import { insertChatText } from "akasha/temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.code.ts"
-import {
-  getMapTextureName,
-  MAP_STATE,
-} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 import { FishLocs } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import {
   getRawSavedVariablesRoot,
@@ -10,6 +6,10 @@ import {
 } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { dm } from "akasha/temper/navigation-addon/modules/destinations-logger/destinations-logger.module.code.ts"
+import {
+  getMapTextureName,
+  MAP_STATE,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 
 type PoiCaptureTable = Record<number, Record<string, string>>
 

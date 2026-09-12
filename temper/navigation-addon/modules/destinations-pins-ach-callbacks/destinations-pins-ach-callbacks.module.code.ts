@@ -1,7 +1,3 @@
-import {
-  getMapTextureName,
-  MAP_STATE,
-} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIDs,
@@ -31,6 +27,10 @@ import {
   DEST_PIN_TEXT_COLOR_WROTHGARJUMPER_DONE,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  getMapTextureName,
+  MAP_STATE,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 
 export const ACH_STATE: { mapData: AchRow[] | undefined } = { mapData: undefined }
 

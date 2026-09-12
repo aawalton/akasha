@@ -1,7 +1,3 @@
-import {
-  getMapTextureName,
-  MAP_STATE,
-} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIDs,
@@ -30,6 +26,10 @@ import {
   ACH_STATE,
   sharedAchievementsPinData,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+import {
+  getMapTextureName,
+  MAP_STATE,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 
 export function otherpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

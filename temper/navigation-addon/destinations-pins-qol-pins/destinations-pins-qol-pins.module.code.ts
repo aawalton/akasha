@@ -1,8 +1,4 @@
 import {
-  getMapTextureName,
-  MAP_STATE,
-} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
-import {
   type QolPinData,
   QolStore,
 } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
@@ -12,6 +8,10 @@ import {
   STABLE,
 } from "akasha/temper/navigation-addon/destinations-shared-data/destinations-shared-data.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  getMapTextureName,
+  MAP_STATE,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 
 function redrawMapPinsOnly(pinType: string): undefined {
   LibMapPins.RefreshPins(pinType)

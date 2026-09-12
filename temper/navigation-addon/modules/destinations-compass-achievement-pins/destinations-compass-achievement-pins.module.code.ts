@@ -1,7 +1,3 @@
-import {
-  getMapTextureName,
-  MAP_STATE,
-} from "akasha/temper/navigation-addon/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIndex,
@@ -22,6 +18,10 @@ import {
   pairEnabled,
 } from "akasha/temper/navigation-addon/modules/destinations-compass-pair-pin/destinations-compass-pair-pin.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  getMapTextureName,
+  MAP_STATE,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
 
 export function addAchievementCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

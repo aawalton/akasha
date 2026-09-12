@@ -1,14 +1,3 @@
-import { addPinFilters } from "akasha/temper/navigation-addon/destinations-pins-map-filters/destinations-pins-map-filters.module.code.ts"
-import {
-  AyleidpinTypeCallback,
-  DeadlandspinTypeCallback,
-  DwemerRuinpinTypeCallback,
-  HighIslepinTypeCallback,
-  VampireAltarpinTypeCallback,
-  WerewolfShrinepinTypeCallback,
-  WWVamppinTypeCallback,
-} from "akasha/temper/navigation-addon/destinations-pins-misc-poi-callbacks/destinations-pins-misc-poi-callbacks.module.code.ts"
-import { buildPinLayouts } from "akasha/temper/navigation-addon/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"
 import { mapCallbackQolPins } from "akasha/temper/navigation-addon/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"
 import {
   PIN_TOOLTIP_CREATOR,
@@ -56,6 +45,17 @@ import {
   collectiblepinTypeCallback,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-collectible-callbacks/destinations-pins-collectible-callbacks.module.code.ts"
 import { addCompassPins } from "akasha/temper/navigation-addon/modules/destinations-pins-compass/destinations-pins-compass.module.code.ts"
+import { addPinFilters } from "akasha/temper/navigation-addon/modules/destinations-pins-map-filters/destinations-pins-map-filters.module.code.ts"
+import {
+  AyleidpinTypeCallback,
+  DeadlandspinTypeCallback,
+  DwemerRuinpinTypeCallback,
+  HighIslepinTypeCallback,
+  VampireAltarpinTypeCallback,
+  WerewolfShrinepinTypeCallback,
+  WWVamppinTypeCallback,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-misc-poi-callbacks/destinations-pins-misc-poi-callbacks.module.code.ts"
+import { buildPinLayouts } from "akasha/temper/navigation-addon/modules/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"
 
 export function setPinLayouts(): undefined {
   const layouts = buildPinLayouts()

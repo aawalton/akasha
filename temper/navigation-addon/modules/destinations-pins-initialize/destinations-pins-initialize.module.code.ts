@@ -1,15 +1,4 @@
 import "akasha/temper/navigation-addon/destinations-pins-slash-commands/destinations-pins-slash-commands.module.code.ts"
-import {
-  hookKeepTooltips,
-  hookPoiTooltips,
-} from "akasha/temper/navigation-addon/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"
-import { initVariables } from "akasha/temper/navigation-addon/destinations-pins-init-variables/destinations-pins-init-variables.module.code.ts"
-import {
-  disableEnglishFunctionnalities,
-  showLanguageWarning,
-  supported_menu_lang,
-} from "akasha/temper/navigation-addon/destinations-pins-language/destinations-pins-language.module.code.ts"
-import { setPinLayouts } from "akasha/temper/navigation-addon/destinations-pins-layouts-applied/destinations-pins-layouts-applied.module.code.ts"
 import { redrawQolPins } from "akasha/temper/navigation-addon/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"
 import { initializeSetDescription } from "akasha/temper/navigation-addon/destinations-pins-sets/destinations-pins-sets.module.code.ts"
 import { onGamepadPreferredModeChanged } from "akasha/temper/navigation-addon/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
@@ -31,6 +20,17 @@ import {
   onPoiUpdated,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-events/destinations-pins-events.module.code.ts"
 import { updateCompassFilters } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
+import {
+  hookKeepTooltips,
+  hookPoiTooltips,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"
+import { initVariables } from "akasha/temper/navigation-addon/modules/destinations-pins-init-variables/destinations-pins-init-variables.module.code.ts"
+import {
+  disableEnglishFunctionnalities,
+  showLanguageWarning,
+  supported_menu_lang,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-language/destinations-pins-language.module.code.ts"
+import { setPinLayouts } from "akasha/temper/navigation-addon/modules/destinations-pins-layouts-applied/destinations-pins-layouts-applied.module.code.ts"
 
 export function initializeDestinations(): undefined {
   registerSettingsStrings()
