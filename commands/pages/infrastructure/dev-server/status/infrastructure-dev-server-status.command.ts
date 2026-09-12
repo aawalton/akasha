@@ -13,9 +13,6 @@ export const infrastructureDevServerStatus = {
     { said: "--app <name>", takes: "the app to narrow the answer to" },
     { said: "--json", takes: "answer as one JSON line rather than as lines a reader takes" },
   ],
-  helpNotes: [
-    "a call naming neither a seq nor an app answers for every server a state file tracks.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -24,6 +21,10 @@ export const infrastructureDevServerStatus = {
     {
       invariantKind: "departure",
       statement: "A call naming neither a seq nor an app is read rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a call answers for every server a state file tracks.",
     },
     {
       invariantKind: "departure",
