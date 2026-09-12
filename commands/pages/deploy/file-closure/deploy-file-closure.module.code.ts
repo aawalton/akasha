@@ -1,6 +1,6 @@
 import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
-import { folderOf } from "akasha/code/path-between/code-path-between.module.code.ts"
+import { folderOf } from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import { reachedFrom } from "akasha/code/stylesheets/source-globbing/source-globbing.module.code.ts"
 import {
   IOS_APP,

@@ -9,7 +9,7 @@ import type {
   Refusal,
   Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 
 const SONG_AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"

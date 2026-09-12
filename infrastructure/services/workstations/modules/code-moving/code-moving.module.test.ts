@@ -11,8 +11,8 @@ import {
   lineAt,
   movedFrom,
   saidOfMoved,
-} from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const A_KIND = "held-kind"
 

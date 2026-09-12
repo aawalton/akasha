@@ -4,7 +4,10 @@ import {
   overEachText,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { landingOf, specifiersIn } from "akasha/code/specifier/code-specifier.module.code.ts"
+import {
+  landingOf,
+  specifiersIn,
+} from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 

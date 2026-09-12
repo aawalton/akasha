@@ -3,7 +3,7 @@ import {
   type Body,
   overEachText,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { type Placed, spelledIn } from "akasha/code/specifier/code-specifier.module.code.ts"
+import { type Placed, spelledIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"

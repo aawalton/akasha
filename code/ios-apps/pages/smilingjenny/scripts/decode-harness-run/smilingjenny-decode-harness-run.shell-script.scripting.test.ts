@@ -7,7 +7,7 @@ import {
   mainSwiftIn,
 } from "akasha/code/ios-apps/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.code.ts"
 import { namedIn } from "akasha/code/script-paths/script-paths.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

@@ -21,7 +21,7 @@ import {
   type Taking,
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateColonMethod as page } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { extractColonMethodNames } from "akasha/temper/commands/eso-colon-methods/eso-colon-methods.module.code.ts"
 import {

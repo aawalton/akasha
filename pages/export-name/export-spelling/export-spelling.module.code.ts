@@ -1,4 +1,4 @@
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"

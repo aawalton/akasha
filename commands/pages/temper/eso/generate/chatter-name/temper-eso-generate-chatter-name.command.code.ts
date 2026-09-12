@@ -17,9 +17,9 @@ import {
   type Taking,
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateChatterName as page } from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 

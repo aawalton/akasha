@@ -60,7 +60,7 @@ import {
   buildWwwAt,
   type WwwBuildResult,
 } from "akasha/alan/harness/mobile-cli/www-build/www-build.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 export type Say = (text: string) => void
 

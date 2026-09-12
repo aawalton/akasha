@@ -3,7 +3,7 @@ import type {
   Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { lineOf, literalPartIn } from "akasha/code/source/code-source.module.code.ts"
+import { lineOf, literalPartIn } from "akasha/code/modules/source/code-source.module.code.ts"
 import { type Naming, pathOf } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import ts from "typescript"
 

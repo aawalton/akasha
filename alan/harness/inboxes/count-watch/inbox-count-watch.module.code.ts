@@ -17,8 +17,8 @@ import {
   relayReading,
   statedIn,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
-import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
 import { followFolders } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {

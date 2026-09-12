@@ -6,7 +6,7 @@ import {
   cleaningIn,
   refiningIn,
 } from "akasha/infrastructure/inference/generations/upscale/run/upscale-run.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

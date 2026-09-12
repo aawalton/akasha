@@ -8,7 +8,7 @@ import { requiredIn } from "akasha/changes/modules/key-requiring/key-requiring.m
 import { without } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import { keyOf, literalIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import ts from "typescript"
 
 export type RemovePagePropertyAsked = {

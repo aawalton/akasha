@@ -6,7 +6,7 @@ import {
   kindSeeds,
   underFolder,
 } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const PAGE = "apps/one/one.web-app.ts"
 

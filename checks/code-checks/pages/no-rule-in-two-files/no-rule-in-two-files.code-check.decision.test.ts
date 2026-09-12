@@ -19,7 +19,7 @@ import {
   unindexed,
   WIDEN,
 } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"
-import { speltIn } from "akasha/code/rule/code-rule.module.code.ts"
+import { speltIn } from "akasha/code/modules/rule/code-rule.module.code.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

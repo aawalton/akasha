@@ -19,7 +19,7 @@ import {
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { SPA_SOURCE_VAR } from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
 import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { shown } from "akasha/utils/run/running/running.module.code.ts"
 
 function worktreeOfRepo(dir: string, repoRoot: string): boolean {

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { faultSaid, parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { faultSaid, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import { asPage } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { generateTemperInventoryCurrency } from "akasha/temper/addon-generators/temper-inventory-currency/temper-inventory-currency.module.code.ts"
 

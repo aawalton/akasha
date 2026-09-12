@@ -5,7 +5,7 @@ import {
   type Inference,
   readFor,
 } from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 export function boundTo(command: readonly string[], flag: string): string | undefined {
   const at = command.indexOf(flag)

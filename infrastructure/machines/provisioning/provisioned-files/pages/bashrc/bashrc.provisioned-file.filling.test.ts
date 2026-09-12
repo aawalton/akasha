@@ -7,9 +7,9 @@ import {
   rootsBesideIn,
   rootsUnderIn,
 } from "akasha/infrastructure/machines/provisioning/provisioned-files/pages/bashrc/bashrc.provisioned-file.filling.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

@@ -10,7 +10,7 @@ import {
   noCallNamingNoLevel,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-call-naming-no-level/no-call-naming-no-level.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 
 function judged(path: string, text: string): readonly Refusal[] {
   return noCallNamingNoLevel({

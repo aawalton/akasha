@@ -16,7 +16,7 @@ import {
   exportsNamed,
   reachedFrom,
   referencesOf,
-} from "akasha/code/naming/code-naming.module.code.ts"
+} from "akasha/code/modules/naming/code-naming.module.code.ts"
 import {
   type Placing,
   placingOver,

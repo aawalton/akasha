@@ -1,5 +1,5 @@
 import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const COMMANDS_AT = "commands/pages/"

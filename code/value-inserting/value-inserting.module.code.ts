@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { literalOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import ts from "typescript"
 
 export function insertedInto(path: string, text: string, key: string, said: string): string | null {

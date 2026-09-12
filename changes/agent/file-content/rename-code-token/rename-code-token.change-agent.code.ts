@@ -10,8 +10,8 @@ import {
   declaredNamed,
   declaredOn,
   exportsNamed,
-} from "akasha/code/naming/code-naming.module.code.ts"
-import { scoping } from "akasha/code/source/code-source.module.code.ts"
+} from "akasha/code/modules/naming/code-naming.module.code.ts"
+import { scoping } from "akasha/code/modules/source/code-source.module.code.ts"
 import {
   placingOver,
   readingOf,

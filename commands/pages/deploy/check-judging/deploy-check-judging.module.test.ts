@@ -5,7 +5,7 @@ import {
   saidOfNoGate,
   sinceCommit,
 } from "akasha/commands/pages/deploy/check-judging/deploy-check-judging.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

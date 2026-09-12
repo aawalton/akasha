@@ -5,7 +5,7 @@ import {
   bodyIn,
   sourcedIn,
 } from "akasha/infrastructure/cluster/operations/registry-gc/registry-gc.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

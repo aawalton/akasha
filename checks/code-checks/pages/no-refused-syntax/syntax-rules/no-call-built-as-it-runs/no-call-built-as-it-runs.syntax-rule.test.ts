@@ -10,7 +10,7 @@ import {
   noCallBuiltAsItRuns,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-call-built-as-it-runs/no-call-built-as-it-runs.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 
 const CODE_AT = "temper/one/one.module.code.ts"
 

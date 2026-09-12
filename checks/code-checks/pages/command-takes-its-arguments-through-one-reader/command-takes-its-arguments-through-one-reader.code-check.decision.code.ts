@@ -3,8 +3,8 @@ import {
   onDisk,
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { lineOf, parsedAs } from "akasha/code/source/code-source.module.code.ts"
-import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
+import { lineOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
+import { landingOf } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import ts from "typescript"

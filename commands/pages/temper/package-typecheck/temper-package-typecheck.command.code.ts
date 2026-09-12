@@ -13,7 +13,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperPackageTypecheck as page } from "akasha/commands/pages/temper/package-typecheck/temper-package-typecheck.command.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { inNameOrder } from "akasha/temper/commands/name-ordering/name-ordering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

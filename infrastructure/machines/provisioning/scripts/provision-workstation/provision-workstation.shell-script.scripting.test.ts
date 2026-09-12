@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
+import { landingOf } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import {
   accountIn,
   bodyIn,
@@ -11,7 +11,7 @@ import {
   manifestIn,
   rootsIn,
 } from "akasha/infrastructure/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

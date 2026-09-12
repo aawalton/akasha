@@ -55,7 +55,7 @@ test("a TypeScript file written under a root taken from the root module is refus
   const said = only(
     'import { writeFile } from "node:fs/promises"\n' +
       'import { join, resolve } from "node:path"\n' +
-      'import { codeRoot } from "@akasha/pages/code-root"\n' +
+      'import { codeRoot } from "@akasha/pages/modules/code-root"\n' +
       "export async function one(): Promise<void> {\n" +
       '  const here = resolve(codeRoot(), "a")\n' +
       '  await writeFile(join(here, "b.ts"), "")\n' +
@@ -80,7 +80,7 @@ test("a destination named by a constant the write does not spell is followed", (
   const said = only(
     'import { writeFile } from "node:fs/promises"\n' +
       'import { resolve } from "node:path"\n' +
-      'import { codeRoot } from "@akasha/pages/code-root"\n' +
+      'import { codeRoot } from "@akasha/pages/modules/code-root"\n' +
       'const OUT = "temper/one/a.generated.ts"\n' +
       "export async function one(): Promise<void> {\n" +
       "  const out = resolve(codeRoot(), OUT)\n" +
@@ -95,7 +95,7 @@ test("a root a body assigns rather than declares is followed", () => {
   const said = only(
     'import { realpathSync, writeFileSync } from "node:fs"\n' +
       'import { join } from "node:path"\n' +
-      'import { codeRoot } from "@akasha/pages/code-root"\n' +
+      'import { codeRoot } from "@akasha/pages/modules/code-root"\n' +
       "export function one(): void {\n" +
       "  let root: string\n" +
       "  root = realpathSync(codeRoot())\n" +

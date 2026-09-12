@@ -11,7 +11,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperAddonCopyMetadata as page } from "akasha/commands/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { copyAddonMetadata } from "akasha/temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"
 import {
   listAllAddons,

@@ -7,8 +7,12 @@ import {
   pathsFor,
   serverNamed,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
-import { lineOf, parsedAs, typedImport } from "akasha/code/source/code-source.module.code.ts"
-import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
+import {
+  lineOf,
+  parsedAs,
+  typedImport,
+} from "akasha/code/modules/source/code-source.module.code.ts"
+import { landingOf } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 

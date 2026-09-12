@@ -4,7 +4,7 @@ import {
   overEachFile,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { literalOf, parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { literalOf, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

@@ -6,7 +6,7 @@ import {
   partsIn,
   upIn,
 } from "akasha/code/ios-apps/pages/alanwalton/scripts/health-samples-drain/alanwalton-health-samples-drain.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

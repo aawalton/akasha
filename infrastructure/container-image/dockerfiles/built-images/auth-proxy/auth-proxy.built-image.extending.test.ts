@@ -5,7 +5,7 @@ import {
   bodyIn,
   ranBy,
 } from "akasha/infrastructure/container-image/dockerfiles/built-images/auth-proxy/auth-proxy.built-image.extending.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

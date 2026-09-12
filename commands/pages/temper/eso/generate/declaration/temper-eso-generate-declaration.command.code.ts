@@ -26,8 +26,8 @@ import {
   type Taking,
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateDeclaration as page } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {

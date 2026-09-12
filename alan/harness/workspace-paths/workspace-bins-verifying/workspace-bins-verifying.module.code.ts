@@ -4,7 +4,7 @@ import {
   expectedWorkspaceBinNames,
   findMissingBins,
 } from "akasha/alan/harness/workspace-paths/workspace-bins/workspace-bins.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const PREFIX = "verify-workspace-bins"
 

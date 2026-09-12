@@ -5,7 +5,7 @@ import {
   bodyIn,
   rootsShellIn,
 } from "akasha/infrastructure/cluster/operations/mirror-base-images/mirror-base-images.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

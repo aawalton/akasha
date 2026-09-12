@@ -20,7 +20,7 @@ import {
   type Taking,
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,

@@ -29,7 +29,7 @@ import {
   assertStagedWwwFresh,
   stageWwwFromWorkingTree,
 } from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 export interface InstallSimShellOptions {
   readonly app: MobileApp

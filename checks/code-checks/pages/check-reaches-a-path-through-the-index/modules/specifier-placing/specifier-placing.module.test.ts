@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { specifyingIn } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const AT = "one/one.module.code.ts"

@@ -11,7 +11,7 @@ import {
   mark,
   noBodyReadBesideAnIndex,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 
 const ANSWERING = 'import type { Answering } from "@akasha/indexes/answering"\n'
 

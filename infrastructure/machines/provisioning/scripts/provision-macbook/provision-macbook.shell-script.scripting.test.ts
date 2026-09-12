@@ -2,9 +2,9 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
 import { bodyIn } from "akasha/infrastructure/machines/provisioning/scripts/provision-macbook/provision-macbook.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

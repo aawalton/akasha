@@ -10,7 +10,7 @@ import {
   matchingIn,
 } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import ts from "typescript"
 
 export type Given = { readonly at: string; readonly key: string } & (

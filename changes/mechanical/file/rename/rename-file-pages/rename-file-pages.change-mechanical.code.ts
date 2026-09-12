@@ -2,7 +2,7 @@ import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 

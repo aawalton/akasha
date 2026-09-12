@@ -1,13 +1,13 @@
 import {
   folderOf,
   relativeBetween,
-} from "akasha/code/path-between/code-path-between.module.code.ts"
+} from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import {
   argumentsOf,
   type Span,
   type Tokens,
   tokensOf,
-} from "akasha/code/tokens/code-tokens.module.code.ts"
+} from "akasha/code/modules/tokens/code-tokens.module.code.ts"
 import { normalizeAbsolute } from "akasha/pages/repo-path/repo-path.module.code.ts"
 
 const OWN_DIR = ["import.meta.dir", "import.meta.dirname", "__dirname"] as const

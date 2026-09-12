@@ -5,9 +5,7 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { costSpawned, recordCost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import type { Bodies, Body, Link } from "akasha/code/test-overlay/test-overlay.module.code.ts"
-import type { Ran, Spent } from "akasha/code/tests/code-tests.module.code.ts"
+import type { Ran, Spent } from "akasha/code/modules/tests/code-tests.module.code.ts"
 import {
   alreadyRunning,
   CEILING,
@@ -18,7 +16,9 @@ import {
   ranOver,
   spentOver,
   testsBesideOf,
-} from "akasha/code/tests/code-tests.module.code.ts"
+} from "akasha/code/modules/tests/code-tests.module.code.ts"
+import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
+import type { Bodies, Body, Link } from "akasha/code/test-overlay/test-overlay.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/running/running.module.code.ts"

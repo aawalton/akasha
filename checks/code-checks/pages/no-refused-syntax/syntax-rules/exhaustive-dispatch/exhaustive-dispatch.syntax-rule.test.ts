@@ -8,7 +8,7 @@ import {
   exhaustiveDispatch,
   mark,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.code.ts"
-import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 
 function switching(body: string): string {
   return `function held(one: string): string {\n  switch (one) {\n    case "a":\n      return "a"\n${body}  }\n  return ""\n}\n`

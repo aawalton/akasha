@@ -1,4 +1,4 @@
-import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,

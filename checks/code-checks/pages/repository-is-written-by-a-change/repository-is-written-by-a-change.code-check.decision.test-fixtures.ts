@@ -73,7 +73,7 @@ const MODULE_VALUES: readonly Filed[] = [
     },
   },
   {
-    path: "pages/code-root/code-root.module.ts",
+    path: "pages/modules/code-root/code-root.module.ts",
     value: {
       id: "01a08299-65c2-7005-8000-000000000005",
       pageTypeSlug: "module",

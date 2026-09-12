@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { bodyIn } from "akasha/code/ios-apps/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

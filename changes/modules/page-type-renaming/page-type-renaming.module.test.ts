@@ -7,7 +7,7 @@ import {
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { faultSaid, parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { faultSaid, parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import {
   aType,
   bodyOf,

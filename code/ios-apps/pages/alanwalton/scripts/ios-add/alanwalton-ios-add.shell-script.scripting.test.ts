@@ -5,7 +5,7 @@ import {
   bodyIn,
   scriptFilesIn,
 } from "akasha/code/ios-apps/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 
