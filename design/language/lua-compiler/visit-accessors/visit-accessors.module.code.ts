@@ -1,13 +1,13 @@
-import type {
-  AllAccessorDeclarations,
-  TransformationContext,
-} from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import { createSelfIdentifier } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import type {
+  AllAccessorDeclarations,
+  TransformationContext,
+} from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { createPrototypeName } from "akasha/design/language/lua-compiler/visit-constructor/visit-constructor.module.code.ts"
 import { createClassAccessorDecoratingExpression } from "akasha/design/language/lua-compiler/visit-decorators/visit-decorators.module.code.ts"
 import {

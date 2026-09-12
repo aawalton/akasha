@@ -1,5 +1,3 @@
-import { createTempNames } from "akasha/design/language/lua-compiler/context-temp-names/context-temp-names.module.code.ts"
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type {
   ExpressionLikeNode,
   FunctionVisitor,
@@ -27,6 +25,8 @@ import {
   assertAllStatements,
   assertIsExpression,
 } from "akasha/design/language/lua-compiler/modules/context-lua-node-assertions/context-lua-node-assertions.module.code.ts"
+import { createTempNames } from "akasha/design/language/lua-compiler/modules/context-temp-names/context-temp-names.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type {
   Scope,
   ScopeType,

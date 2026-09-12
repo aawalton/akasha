@@ -1,5 +1,4 @@
 import * as path from "node:path"
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
@@ -19,6 +18,7 @@ import {
 } from "akasha/design/language/lua-compiler/lualib-pages/lualib-pages.module.code.ts"
 import { parseConfigFileWithSystem } from "akasha/design/language/lua-compiler/modules/cli-tsconfig/cli-tsconfig.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "akasha/design/language/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
 import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"

@@ -1,5 +1,5 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import { ExtensionKind } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   invalidMultiFunctionUse,
   invalidRangeUse,

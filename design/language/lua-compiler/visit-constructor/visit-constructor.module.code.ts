@@ -1,8 +1,8 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import { createSelfIdentifier } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { ScopeType } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
 import { transformClassInstanceFields } from "akasha/design/language/lua-compiler/visit-fields/visit-fields.module.code.ts"
 import {

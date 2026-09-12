@@ -1,8 +1,8 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ContextType,
   getFunctionContextType,
 } from "akasha/design/language/lua-compiler/function-context/function-context.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { willWrapThisVoidAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   unsupportedNoSelfFunctionConversion,

@@ -1,4 +1,3 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ExtensionKind,
   getBinaryCallExtensionArgs,
@@ -9,6 +8,7 @@ import {
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import type { LanguageExtensionCallTransformerMap } from "akasha/design/language/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import type * as ts from "typescript"

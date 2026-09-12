@@ -1,4 +1,3 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   ContextType,
@@ -8,6 +7,7 @@ import { wrapInTable } from "akasha/design/language/lua-compiler/lua-ast/lua-ast
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformBuiltinCallExpression } from "akasha/design/language/lua-compiler/modules/builtins/builtins.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { getOptionalContinuationData } from "akasha/design/language/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import { isValidLuaIdentifier } from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"

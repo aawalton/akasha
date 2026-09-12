@@ -1,4 +1,3 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   getSymbolExportScope,
@@ -15,6 +14,7 @@ import {
   getTypeAnnotations,
 } from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import { transformBuiltinPropertyAccessExpression } from "akasha/design/language/lua-compiler/modules/builtins/builtins.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { isOptionalContinuation } from "akasha/design/language/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {

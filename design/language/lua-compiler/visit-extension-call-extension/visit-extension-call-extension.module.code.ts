@@ -1,9 +1,9 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ExtensionKind,
   getExtensionKindForNode,
 } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import { operatorExtensionTransformers } from "akasha/design/language/lua-compiler/visit-extension-operators/visit-extension-operators.module.code.ts"
 import {
   tableExtensionTransformers,

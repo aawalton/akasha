@@ -1,6 +1,6 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import * as extensions from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
 import { getExtensionKindForSymbol } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   type Scope,
   ScopeType,

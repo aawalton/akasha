@@ -1,4 +1,4 @@
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type * as ts from "typescript"
 
 export type IsOptimizedVarArgSpreadFn = (
