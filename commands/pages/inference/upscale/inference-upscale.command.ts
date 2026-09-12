@@ -39,7 +39,7 @@ export const inferenceUpscale = {
 
     {
       invariantKind: "absence",
-      statement: "Nothing here provisions the weights or starts the container.",
+      statement: "Nothing here provisions the weights.",
     },
   ],
   name: "upscale",
