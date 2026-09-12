@@ -6,7 +6,6 @@ export const trackSessionList = {
   slug: "track-session-list",
   definition: "the command saying the stretches a day has",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
     { said: "--json", takes: "answer as JSON rather than as lines meant for a reader" },

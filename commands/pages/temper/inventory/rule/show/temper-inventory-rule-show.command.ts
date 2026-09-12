@@ -6,7 +6,6 @@ export const temperInventoryRuleShow = {
   slug: "temper-inventory-rule-show",
   definition: "the command giving back one category rule named by its id",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the id of the category rule given back" },
     { said: "--json", takes: "give the rule as JSON" },

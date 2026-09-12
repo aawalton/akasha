@@ -7,7 +7,6 @@ export const temperUpstreamDataPort = {
   definition:
     "the command bringing an upstream game library's data into the files this repository has",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     {
       said: "<library>",
