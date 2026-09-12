@@ -11,6 +11,7 @@ import {
   keepTranscript,
   transcriptRecordOf,
 } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { rotatedTranscriptFor } from "akasha/agents/seats/modules/transcript-rotation/seat-transcript-rotation.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
@@ -25,7 +26,6 @@ import {
   type Stated,
   statedOf,
 } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
-import { rotatedTranscriptFor } from "akasha/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome
