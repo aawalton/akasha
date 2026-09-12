@@ -31,10 +31,6 @@ const OVER_ASKED_BY = 5
 
 const WANTS = "what to search for"
 
-export function wrongIn(query: string | undefined): readonly string[] {
-  return query === undefined ? [`this names ${WANTS}, and nothing did`] : []
-}
-
 export function imessageSearch(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [
     json,
@@ -48,8 +44,11 @@ export function imessageSearch(argv: readonly string[], given: Given): Promise<A
   const held = filledIn(given.root, taken.messageQuery, taken.queryFile, QUERY)
   if ("refused" in held) return Promise.resolve(refusedBy(held.refused))
   const query = held.text
-  const wrong = [...wrongIn(query), ...countRefused(taken.limit, limitArgument.said)]
-  if (wrong.length > 0 || query === undefined) return Promise.resolve(refusedBy(wrong))
+  const wrong = countRefused(taken.limit, limitArgument.said)
+  if (wrong.length > 0) return Promise.resolve(refusedBy(wrong))
+  if (query === undefined) {
+    return Promise.resolve(refusedBy([`this names ${WANTS}, and nothing did`]))
+  }
   const limit = taken.limit ?? DEFAULT_LIMIT
   return answering(async () => {
     const handleRowids =

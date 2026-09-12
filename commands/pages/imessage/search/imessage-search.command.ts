@@ -33,12 +33,24 @@ export const imessageSearch = {
       statement: "A contact matching nobody refuses rather than answering empty.",
     },
     { invariantKind: "departure", statement: "A call saying no limit gives back twenty matches." },
+    {
+      invariantKind: "departure",
+      statement: "A call naming nothing to search for is refused before any file is read.",
+    },
   ],
   name: "search",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/query-file", notWith: ["argument/message-query"] },
-    { argument: "argument/message-query", saidAs: "flag-or-word" },
+    {
+      argument: "argument/query-file",
+      notWith: ["argument/message-query"],
+      oneOf: ["argument/message-query"],
+    },
+    {
+      argument: "argument/message-query",
+      saidAs: "flag-or-word",
+      oneOf: ["argument/query-file"],
+    },
     { argument: "argument/contact" },
     { argument: "argument/limit" },
   ],
