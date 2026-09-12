@@ -1,5 +1,10 @@
 import { realpathSync } from "node:fs"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -17,10 +22,6 @@ import {
 } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const SAID_WRONG = 1
-
-const FAILED = 3
 
 const CODE_ROOT_FLAG = "--code-root"
 
@@ -42,22 +43,19 @@ function carried(): string {
 export async function temperUpstreamDataPort(argv: readonly string[] = []): Promise<Answer> {
   const names = namesIn(argv, TAKING_A_VALUE)
   if (names.length === 0) {
-    return refused(`name the upstream library ported — this carries ${carried()}`, SAID_WRONG)
+    return refused(`name the upstream library ported — this carries ${carried()}`, INPUT)
   }
   if (names.length > 1) {
     return refused(
       `one call ports one library, and ${names.join(", ")} names ${String(names.length)}`,
-      SAID_WRONG
+      INPUT
     )
   }
 
   const named = names[0] as string
   const library = libraryNamed(named)
   if (library === undefined) {
-    return refused(
-      `${named} is no upstream library this ports — it carries ${carried()}`,
-      SAID_WRONG
-    )
+    return refused(`${named} is no upstream library this ports — it carries ${carried()}`, INPUT)
   }
 
   const askedRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
@@ -76,7 +74,10 @@ export async function temperUpstreamDataPort(argv: readonly string[] = []): Prom
   try {
     await PORTED_BY[library](root)
   } catch (thrown) {
-    return refused(`${library} was not ported whole into ${root}: ${messageOf(thrown)}`, FAILED)
+    return refused(
+      `${library} was not ported whole into ${root}: ${messageOf(thrown)}`,
+      OPERATIONAL
+    )
   }
 
   return {
