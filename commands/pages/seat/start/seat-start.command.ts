@@ -7,7 +7,6 @@ export const seatStart = {
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
   taking: [
-    { said: "--model <id>", takes: "the model the seat launched here runs on" },
     { said: "--anthropic-base-url <url>", takes: "the base address the seat launched here calls" },
     {
       said: "--anthropic-auth-token <token>",
@@ -69,5 +68,6 @@ export const seatStart = {
     { argument: "argument/flex" },
     { argument: "argument/initiative" },
     { argument: "argument/account" },
+    { argument: "argument/seat-model" },
   ],
 } as const satisfies Command
