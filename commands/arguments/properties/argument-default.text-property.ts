@@ -21,10 +21,6 @@ export const argumentDefault = {
       invariantKind: "departure",
       statement: "An argument stating one is always answered, as one a command needs is.",
     },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here lets one command default an argument differently from another.",
-    },
   ],
   types: "ts",
 } as const satisfies TextProperty
