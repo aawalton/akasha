@@ -1,22 +1,4 @@
 import {
-  asCompassPinData,
-  asCompassPoolClass,
-  asControl,
-  asMaybeResetFn,
-  asMaybeUpdateFn,
-  asTableKey,
-} from "akasha/temper/navigation-addon/compass-pins-casts/compass-pins-casts.module.code.ts"
-import {
-  CUSTOM_COMPASS_LAYOUT_RESET,
-  CUSTOM_COMPASS_LAYOUT_UPDATE,
-  DEFAULT_TEXTURE,
-  FALLBACK_MAX_DISTANCE,
-  LEGACY_LAYOUT_RESET,
-  LEGACY_LAYOUT_UPDATE,
-  PIN_NAME_PREFIX,
-  PIN_TEMPLATE,
-} from "akasha/temper/navigation-addon/compass-pins-constants/compass-pins-constants.module.code.ts"
-import {
   pinLayouts,
   STATE,
 } from "akasha/temper/navigation-addon/compass-pins-state/compass-pins-state.module.code.ts"
@@ -30,6 +12,24 @@ import type {
   CompassPinManagerInstance,
   PinKey,
 } from "akasha/temper/navigation-addon/compass-pins-types/compass-pins-types.module.code.ts"
+import {
+  asCompassPinData,
+  asCompassPoolClass,
+  asControl,
+  asMaybeResetFn,
+  asMaybeUpdateFn,
+  asTableKey,
+} from "akasha/temper/navigation-addon/modules/compass-pins-casts/compass-pins-casts.module.code.ts"
+import {
+  CUSTOM_COMPASS_LAYOUT_RESET,
+  CUSTOM_COMPASS_LAYOUT_UPDATE,
+  DEFAULT_TEXTURE,
+  FALLBACK_MAX_DISTANCE,
+  LEGACY_LAYOUT_RESET,
+  LEGACY_LAYOUT_UPDATE,
+  PIN_NAME_PREFIX,
+  PIN_TEMPLATE,
+} from "akasha/temper/navigation-addon/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
 
 const PARENT = asControl(COMPASS.container)
 const CONTROL_POOL = asCompassPoolClass(ZO_ControlPool)
