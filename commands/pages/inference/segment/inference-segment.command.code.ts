@@ -47,7 +47,7 @@ const ALPHA_MATTING = "--alpha-matting"
 const TIMEOUT = "--timeout"
 
 const TAKING = [
-  { said: IMAGE, aliases: ["--in"] },
+  { said: IMAGE },
   { said: MATTE_OUT },
   { said: MODEL },
   { said: CUTOUT_OUT },
