@@ -71,9 +71,7 @@ async function scored(done: string[], taken: Taken, given: Given): Promise<Answe
     "--floor",
     String(clearing),
   ])
-  if (proc === null) {
-    return { report: [], refusals: ["podman is not on PATH"], code: OPERATIONAL }
-  }
+  if (proc === null) return refusedBy(["podman is not on PATH"], OPERATIONAL)
   done.push(relabelledSaid([framesDir, referenceDir, cache]))
   const out = await new Response(proc.stdout).text()
   const err = await new Response(proc.stderr).text()
@@ -81,22 +79,20 @@ async function scored(done: string[], taken: Taken, given: Given): Promise<Answe
   const rows = out.split("\n").filter((one) => one !== "")
   if (exited === REJECTED_INPUTS) {
     const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
-    return keeping(done, {
-      report: [],
-      refusals: [
-        "the scorer would not take the inputs — no face was found in the reference, " +
-          `or the frames directory is not there — ${last}`,
-      ],
-      code: DATA,
-    })
+    return keeping(
+      done,
+      refusedBy(
+        [
+          "the scorer would not take the inputs — no face was found in the reference, " +
+            `or the frames directory is not there — ${last}`,
+        ],
+        DATA
+      )
+    )
   }
   if (exited !== 0) {
     const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
-    return keeping(done, {
-      report: [],
-      refusals: [`the scorer ended at ${exited} — ${last}`],
-      code: OPERATIONAL,
-    })
+    return keeping(done, refusedBy([`the scorer ended at ${exited} — ${last}`], OPERATIONAL))
   }
   return told(rows)
 }
