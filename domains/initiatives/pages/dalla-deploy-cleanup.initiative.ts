@@ -26,7 +26,7 @@ export const dallaDeployCleanup = {
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
       workingMemory:
-        "`workstation-deploying`, `eso-addon-deploying`, `cluster-deploying` and `web-app-deploying` each tick their own kind every minute through `ticked`, which needs only the kind named beside the page. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits that deploy out. Three kinds have no loop: 13 inference services, 9 container recipes, and the 3 ios apps, which a deploy hands to Apple.",
+        "Five services tick a kind of their own every minute through `ticked`: the workstation, eso addon, cluster, web app and container recipe kinds. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits it out. Two kinds have no loop: the 13 inference services, whose deploy boots out a live model server on Alan's laptop with no idle check, and the 3 ios apps, which a deploy hands to Apple.",
     },
     {
       statement:
