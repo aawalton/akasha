@@ -29,10 +29,6 @@ export const browserTestVerifyRender = {
       said: "--hydration-selector <sel>",
       takes: "an element that is there once the page has hydrated",
     },
-    {
-      said: "--sign-in-path <path>",
-      takes: "the path a sign-in wall sends to, `/sign-in` where none is said",
-    },
     { said: "--timeout-ms <ms>", takes: "how long each wait is given" },
     { said: "--no-sign-in", takes: "look as nobody rather than signing in" },
     { said: "--as-throwaway", takes: "look as the throwaway user rather than the live one" },
@@ -95,5 +91,9 @@ export const browserTestVerifyRender = {
     },
   ],
   name: "test-verify-render",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/url", required: true }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/url", required: true },
+    { argument: "argument/sign-in-path" },
+  ],
 } as const satisfies Command
