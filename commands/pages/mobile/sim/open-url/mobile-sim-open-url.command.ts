@@ -22,14 +22,7 @@ export const mobileSimOpenUrl = {
         "the simulator to open it on, the session's own or the first booted where none is said",
     },
   ],
-  helpNotes: [
-    "this is what leaves a session there, and every driving command after it attaches to that session.",
-    "a session already there on the same simulator is reused rather than replaced.",
-    "signing in is done by putting a session in before the route is navigated to, rather than by typing into a form.",
-    "the identity is a throwaway by default, since anything typed in the simulator is written as whoever is signed in.",
-    "`--as-real-user` is for reading what Alan's own pages look like and nothing is to be changed through it.",
-    "the webview is taken hold of again after the navigation, since navigating drops the context.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
