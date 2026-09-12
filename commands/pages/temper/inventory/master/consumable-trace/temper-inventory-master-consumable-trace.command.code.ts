@@ -1,4 +1,10 @@
 import { resolve } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -9,12 +15,6 @@ import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -192,6 +192,6 @@ export async function temperInventoryMasterConsumableTrace(
     return refused(whyOf(thrown), OPERATIONAL)
   }
   if ("why" in held) return refused(held.why, DATA)
-  if (read.json) return { report: [JSON.stringify(held.traces)], refusals: [], code: 0 }
-  return { report: [...consumableTraceSaid(held.traces)], refusals: [], code: 0 }
+  if (read.json) return { report: [JSON.stringify(held.traces)], refusals: [], code: OK }
+  return { report: [...consumableTraceSaid(held.traces)], refusals: [], code: OK }
 }
