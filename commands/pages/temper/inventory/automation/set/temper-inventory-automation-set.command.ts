@@ -8,10 +8,6 @@ export const temperInventoryAutomationSet = {
   code: "ts",
   taking: [
     {
-      said: "--value <true|false|null>",
-      takes: "what the toggle becomes, where `null` takes the entry away",
-    },
-    {
       said: "--target <characters|companions>",
       takes: "which interface a toggle carried by both is set on",
     },
@@ -36,5 +32,9 @@ export const temperInventoryAutomationSet = {
     },
   ],
   name: "set",
-  arguments: [{ argument: "argument/scope" }, { argument: "argument/toggle", required: true }],
+  arguments: [
+    { argument: "argument/scope" },
+    { argument: "argument/toggle", required: true },
+    { argument: "argument/value", required: true },
+  ],
 } as const satisfies Command
