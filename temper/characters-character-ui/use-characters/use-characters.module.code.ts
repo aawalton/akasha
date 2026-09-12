@@ -14,7 +14,7 @@ import { encodeBuild } from "akasha/temper/build-codec/modules/build-codec/build
 import {
   type CharacterBuildMetadata,
   extractCharacterMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import {
   type BuildRow,
   mapBuildRow,

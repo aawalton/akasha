@@ -13,7 +13,7 @@ import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-so
 import { Tabs } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { encodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { extractCharacterMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {
   useCharacterLifecycle,

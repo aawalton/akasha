@@ -1,4 +1,4 @@
-import { buildLookup } from "akasha/temper/settings-panel/build-lookup/build-lookup.module.code.ts"
+import { buildLookup } from "akasha/temper/settings-panel/modules/build-lookup/build-lookup.module.code.ts"
 
 export interface LamDropdownData {
   type: "dropdown"

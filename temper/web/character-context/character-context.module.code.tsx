@@ -7,7 +7,7 @@ import {
 import {
   applyCharacterMetadata,
   type CharacterBuildMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import {
   type BuildVisibility,
   type SettableBuildVisibility,

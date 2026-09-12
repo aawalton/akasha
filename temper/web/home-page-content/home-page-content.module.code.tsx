@@ -27,7 +27,7 @@ import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build
 import {
   applyCharacterMetadata,
   applyCompanionMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { useCharacterList } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { useCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"

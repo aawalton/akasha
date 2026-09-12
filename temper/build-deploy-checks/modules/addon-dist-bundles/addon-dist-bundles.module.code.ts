@@ -1,6 +1,6 @@
 import { readdirSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { addonBuildOutputRel } from "akasha/temper/addon-build/build-output/build-output.module.code.ts"
+import { addonBuildOutputRel } from "akasha/temper/addon-build/modules/build-output/build-output.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 
 export const ADDON_BUNDLE_UNIT = "addon bundles"

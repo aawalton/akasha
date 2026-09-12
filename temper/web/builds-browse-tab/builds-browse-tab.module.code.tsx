@@ -13,7 +13,6 @@ import { Button } from "akasha/design/interfaces/primitives/button/button.module
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { getRoleName } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
-import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
 import { CharacterListCardWithHandle } from "akasha/temper/web/character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
 import {
   type FilterValues,
@@ -21,6 +20,7 @@ import {
   getRaceName,
   isValidRole,
 } from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
+import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
 import { NewCharacterPanelCard } from "akasha/temper/web/new-character-panel-card/new-character-panel-card.module.code.tsx"
 import { FolderOpen, Search } from "lucide-react"

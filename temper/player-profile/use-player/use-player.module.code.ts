@@ -7,7 +7,7 @@ import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-o
 import { useOptimisticUpsertPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import type { ProfileMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import type { ProfileMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { useCallback, useMemo } from "react"

@@ -13,12 +13,12 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
 import { talosConfigGen as page } from "akasha/commands/pages/talos/config-gen/talos-config-gen.command.ts"
+import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
+import { emitDocumentsYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
   buildNodePatch,
   PLACEHOLDER_SCHEMATIC_ID,
-} from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
-import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
-import { emitDocumentsYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/build-patch/build-patch.module.code.ts"
 import {
   getClusterForNode,
   getNode,

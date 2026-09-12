@@ -12,11 +12,11 @@ import {
 import type {
   CharacterBuildMetadata,
   CompanionBuildMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import {
   applyCharacterMetadata,
   applyCompanionMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { toBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"

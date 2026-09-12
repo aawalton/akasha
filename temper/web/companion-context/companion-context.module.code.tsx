@@ -3,7 +3,7 @@
 import {
   applyCompanionMetadata,
   type CompanionBuildMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import {
   type BuildVisibility,
   toBuildVisibility,

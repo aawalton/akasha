@@ -10,7 +10,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosApply as page } from "akasha/commands/pages/talos/apply/talos-apply.command.ts"
-import { buildNodePatch } from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
 import {
@@ -19,6 +18,7 @@ import {
   emitSchematicYaml,
 } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import { registerSchematic } from "akasha/infrastructure/cluster/provisioning/talos/factory/factory.module.code.ts"
+import { buildNodePatch } from "akasha/infrastructure/cluster/provisioning/talos/modules/build-patch/build-patch.module.code.ts"
 import {
   getCluster,
   getNode,

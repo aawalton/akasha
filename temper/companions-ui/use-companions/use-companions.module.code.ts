@@ -13,7 +13,7 @@ import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.t
 import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
-} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+} from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import {
   type BuildRow,
   mapBuildRow,

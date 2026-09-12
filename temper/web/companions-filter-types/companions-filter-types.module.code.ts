@@ -9,8 +9,8 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
+import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 
 export const BASE_ROLES = companionBaseRoles.ids
 

@@ -15,7 +15,7 @@ import {
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { extractCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"

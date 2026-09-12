@@ -23,14 +23,13 @@ import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import { applyCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { applyCharacterMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
 } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
 import {
   BuildsBrowseTab,
   type DecodedBuild,
@@ -42,6 +41,7 @@ import {
   type SortField,
   TAB_LABELS,
 } from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
+import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import { PlanTab, usePlanEntities } from "akasha/temper/web/plan-tab/plan-tab.module.code.tsx"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
