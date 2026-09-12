@@ -125,7 +125,7 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
-      statement: "A word opening with one dash alone is a value rather than a flag.",
+      statement: "A word opening with one dash the command takes no argument at is a value.",
     },
     {
       invariantKind: "departure",
