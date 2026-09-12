@@ -1,4 +1,9 @@
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -9,10 +14,6 @@ import {
   type JsonOutput,
   type RuleTraceRow,
 } from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const INVENTORY_PATH = "--inventory-path"
 
@@ -167,6 +168,6 @@ export async function temperInventoryReplayExplain(
   return {
     report: [`[addon @ ${trace.timestamp}]`, ...said.replace(/\n+$/, "").split("\n")],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
