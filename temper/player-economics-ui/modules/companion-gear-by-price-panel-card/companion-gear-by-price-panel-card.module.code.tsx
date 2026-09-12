@@ -6,7 +6,7 @@ import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.mod
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { getQualityClassName } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
-import type { CompanionGearNeed } from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
+import type { CompanionGearNeed } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   buildBlendedPriceMap,
   buildSlotPriceMap,
@@ -14,9 +14,9 @@ import {
   formatGold,
   getCompanionGearItemName,
   resolveNeedPrice,
-} from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+} from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/use-shopping-list/use-shopping-list.module.code.ts"
-import { needToShoppingKey } from "akasha/temper/shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
+import { needToShoppingKey } from "akasha/temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { useMemo, useState } from "react"

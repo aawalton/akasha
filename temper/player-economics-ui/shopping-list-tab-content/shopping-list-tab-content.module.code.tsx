@@ -30,7 +30,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Progress } from "akasha/design/interfaces/primitives/progress-bar/progress-bar.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { formatGold } from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,
   buildMissingItemDisplays,
@@ -50,7 +50,7 @@ import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/
 import {
   needToShoppingItem,
   needToShoppingKey,
-} from "akasha/temper/shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
+} from "akasha/temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { isShoppingSettings } from "akasha/temper/shopping/shopping-settings/shopping-settings.module.code.ts"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"

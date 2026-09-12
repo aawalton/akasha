@@ -14,10 +14,6 @@ import {
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
-  type CompanionJewelrySlotId,
-  companionJewelrySlots,
-} from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import {
   type CompanionTraitId,
   companionTraits,
 } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
@@ -30,6 +26,10 @@ import {
   getAvailableQualityOptions,
   LEGENDARY_QUALITY_OPTIONS,
 } from "akasha/temper/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+import {
+  type CompanionJewelrySlotId,
+  companionJewelrySlots,
+} from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

@@ -1,7 +1,3 @@
-import {
-  type CompanionJewelrySlotId,
-  companionJewelrySlots,
-} from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { evaluate } from "akasha/temper/companions-core/companion-optimizer/companion-optimizer.module.code.ts"
 import {
   type CompanionSkillSlotId,
@@ -18,6 +14,10 @@ import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
 } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
+  type CompanionJewelrySlotId,
+  companionJewelrySlots,
+} from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 
 export interface CompanionSuggestion {
   type: "trait" | "quality" | "skill"

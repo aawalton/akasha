@@ -1,10 +1,10 @@
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { getQualityClassName } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
-import type { CompanionGearNeed } from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
+import type { CompanionGearNeed } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   getCompanionGearItemName,
   resolveNeedPrice,
-} from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+} from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { MissingItemDisplay } from "akasha/temper/player-economics-ui/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"
 import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 

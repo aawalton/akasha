@@ -1,8 +1,8 @@
+import { isPriceEntry } from "akasha/temper/trading-pricing/is-price-entry/is-price-entry.module.code.ts"
 import type {
   CompanionEquipmentQualityId,
   CompanionTraitId,
-} from "akasha/temper/trading-pricing/companion-gear-ids/companion-gear-ids.module.code.ts"
-import { isPriceEntry } from "akasha/temper/trading-pricing/is-price-entry/is-price-entry.module.code.ts"
+} from "akasha/temper/trading-pricing/modules/companion-gear-ids/companion-gear-ids.module.code.ts"
 import type {
   PricingData,
   TTCPriceEntry,

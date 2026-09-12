@@ -13,7 +13,7 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { formatGold } from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import { PackageCheck } from "lucide-react"
 
 interface ShoppingTripCompletePanelCardProps {

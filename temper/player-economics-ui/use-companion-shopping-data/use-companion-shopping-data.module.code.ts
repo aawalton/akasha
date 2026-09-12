@@ -13,7 +13,7 @@ import { buildHash as toBuildHash } from "akasha/temper/formula-framework/module
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,
-} from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
+} from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import {
   type BlendedPriceKey,
@@ -21,7 +21,7 @@ import {
   buildSlotPriceMap,
   computeTotalCost,
   type SlotPriceKey,
-} from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+} from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   useInventory,
   usePriceExtract,
@@ -33,7 +33,7 @@ import {
   resolvePricingRegionNote,
 } from "akasha/temper/player-inventory-management-ui/pricing-region/pricing-region.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
+import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import { useMemo } from "react"
 
