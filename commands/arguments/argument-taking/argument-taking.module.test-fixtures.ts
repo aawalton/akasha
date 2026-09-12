@@ -1,5 +1,23 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
-import type { Naming } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import type {
+  Naming,
+  Taken,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takingIn } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+
+export const CALLED_AS = "akasha thing"
+
+export function taken(argv: readonly string[], naming: readonly Naming[]): Taken {
+  const read = takingIn(argv, CALLED_AS, naming)
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  return read.taken
+}
+
+export function refusals(argv: readonly string[], naming: readonly Naming[]): readonly string[] {
+  const read = takingIn(argv, CALLED_AS, naming)
+  if (!("refused" in read)) throw new Error("this was read rather than refused")
+  return read.refused
+}
 
 export function argumentOf(slug: string, value: Argument["value"]): Argument {
   return {
@@ -100,3 +118,40 @@ export const NAMING_THEM = {
 } as const
 
 export const NAMING_NONE = { slug: "nothing" } as const
+
+export const DASH: Naming = {
+  argument: { ...argumentOf("short", "text"), said: "-s" } as Argument,
+}
+
+export const EACH_STATING: readonly Naming[] = [
+  { argument: VIDEO, notWith: [FRAMES_DIR] },
+  { argument: FRAMES_DIR, notWith: [VIDEO] },
+]
+
+export const PLACED: Naming = {
+  argument: { ...argumentOf("node", "text"), placeholder: "id" } as Argument,
+  saidAs: "word",
+  required: true,
+}
+
+const AGENT_ID = argumentOf("agent-id", "text")
+
+const STATE = argumentOf("state", "text")
+
+export const WORD_AND_FLAG: readonly Naming[] = [
+  { argument: AGENT_ID, repeats: true, saidAs: "word", notWith: [STATE] },
+  { argument: STATE, repeats: true },
+]
+
+export const NAMING_WORD = {
+  slug: "thing",
+  arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
+} as const
+
+export const NAMING_NOT_WITH = {
+  slug: "thing",
+  arguments: [
+    { argument: "argument/seat", notWith: ["argument/limit"] },
+    { argument: "argument/limit" },
+  ],
+} as const

@@ -1,47 +1,32 @@
 import { expect, test } from "bun:test"
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
-import type {
-  Naming,
-  Taken,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
-import {
-  takenFor,
-  takingIn,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   ACTIVE,
-  argumentOf,
+  DASH,
   DRY_RUN,
-  FRAMES_DIR,
+  EACH_STATING,
   FROM,
   LIMIT,
   LIMIT_PAGE,
   NAMING_NONE,
+  NAMING_NOT_WITH,
   NAMING_TAIL,
   NAMING_THEM,
+  NAMING_WORD,
   NODE,
   ONE_OF_THEM,
   ONTO,
   PAGES,
+  PLACED,
   REST,
+  refusals,
   SEAT_PAGE,
   SLUG,
   TAIL_PAGE,
   TO,
-  VIDEO,
+  taken,
+  WORD_AND_FLAG,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
-
-function taken(argv: readonly string[], naming: readonly Naming[]): Taken {
-  const read = takingIn(argv, "akasha thing", naming)
-  if ("refused" in read) throw new Error(read.refused.join("; "))
-  return read.taken
-}
-
-function refusals(argv: readonly string[], naming: readonly Naming[]): readonly string[] {
-  const read = takingIn(argv, "akasha thing", naming)
-  if (!("refused" in read)) throw new Error("this was read rather than refused")
-  return read.refused
-}
 
 test("an argument carrying no value is true where it is said and false where it is not", () => {
   expect(taken(["--dry-run"], [DRY_RUN])).toEqual({ dryRun: true })
@@ -102,8 +87,7 @@ test("a value that is one dash is a value, which is how a call names what is pip
 })
 
 test("an argument the command names where a value goes is refused whatever it is spelled", () => {
-  const dash: Naming = { argument: { ...argumentOf("short", "text"), said: "-s" } as Argument }
-  expect(refusals(["--limit", "-s"], [LIMIT, dash])[0]).toBe(
+  expect(refusals(["--limit", "-s"], [LIMIT, DASH])[0]).toBe(
     "`--limit` takes a value, and none follows it"
   )
 })
@@ -284,11 +268,7 @@ test("two arguments one call may not say together are read where a call says one
 })
 
 test("a pair both entries state is refused once", () => {
-  const each: readonly Naming[] = [
-    { argument: VIDEO, notWith: [FRAMES_DIR] },
-    { argument: FRAMES_DIR, notWith: [VIDEO] },
-  ]
-  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], each)).toEqual([
+  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], EACH_STATING)).toEqual([
     "`--video` and `--frames-dir` are never said together, and this call says both",
   ])
 })
@@ -310,12 +290,7 @@ test("an argument said as a word alone is named as a word where the command need
 })
 
 test("an argument said as a word alone is named by the placeholder it states", () => {
-  const placed: Naming = {
-    argument: { ...argumentOf("node", "text"), placeholder: "id" } as Argument,
-    saidAs: "word",
-    required: true,
-  }
-  expect(refusals([], [placed])[0]).toBe("`akasha thing` takes `<id>`, and nothing said it")
+  expect(refusals([], [PLACED])[0]).toBe("`akasha thing` takes `<id>`, and nothing said it")
 })
 
 test("a command page's entries are read against the argument pages its code names", () => {
@@ -341,24 +316,13 @@ test("an argument the command page needs is refused where nothing said it", () =
 })
 
 test("how a command page says a call fills an argument is carried to the reader", () => {
-  const page = {
-    slug: "thing",
-    arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
-  } as const
-  const read = takenFor(["athena"], "akasha thing", page, [SEAT_PAGE])
+  const read = takenFor(["athena"], "akasha thing", NAMING_WORD, [SEAT_PAGE])
   if ("refused" in read) throw new Error(read.refused.join("; "))
   expect(read.taken.seat).toBe("athena")
 })
 
 test("two arguments a command page says are never said together are refused", () => {
-  const page = {
-    slug: "thing",
-    arguments: [
-      { argument: "argument/seat", notWith: ["argument/limit"] },
-      { argument: "argument/limit" },
-    ],
-  } as const
-  const read = takenFor(["--seat", "a", "--limit", "1"], "akasha thing", page, [
+  const read = takenFor(["--seat", "a", "--limit", "1"], "akasha thing", NAMING_NOT_WITH, [
     SEAT_PAGE,
     LIMIT_PAGE,
   ])
@@ -388,13 +352,7 @@ test("a call saying an argument takes that value over the default", () => {
 })
 
 test("a word argument and a flag argument may not be said together", () => {
-  const ids = argumentOf("agent-id", "text")
-  const state = argumentOf("state", "text")
-  const each: readonly Naming[] = [
-    { argument: ids, repeats: true, saidAs: "word", notWith: [state] },
-    { argument: state, repeats: true },
-  ]
-  expect(refusals(["a1", "--state", "working"], each)[0]).toBe(
+  expect(refusals(["a1", "--state", "working"], WORD_AND_FLAG)[0]).toBe(
     "`<agent-id>` and `--state` are never said together, and this call says both"
   )
 })
