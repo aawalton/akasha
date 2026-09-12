@@ -34,6 +34,14 @@ export const gitSweep = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal names each path taken as well as each path that would not go.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The taking is handed in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path that would not go is a fault in the world rather than in the call.",
     },
     {

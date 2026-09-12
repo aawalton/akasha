@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { gitSweep } from "akasha/commands/pages/git/sweep/git-sweep.command.code.ts"
 import { LEFT, STORES } from "akasha/files/git-place/git-place.module.code.ts"
@@ -94,6 +95,21 @@ test("a path on the command line is refused rather than swept", () => {
   expect(said.refusals[0]).toBe(
     `\`${KEPT_AT}\` is no argument \`akasha git sweep\` takes — it takes \`--dry-run\``
   )
+})
+
+test("a sweep that took some and refused others names each path taken in its refusal", () => {
+  const root = repo()
+  filled(root, LEFT_AT)
+  const said = gitSweep([], givenIn(root), () => ({
+    took: [LEFT_AT],
+    refusals: [`\`${KEPT_AT}\` would not go: it is held open`],
+  }))
+
+  expect(said.code).toBe(OPERATIONAL)
+  expect(said.report).toEqual([`took\t${LEFT_AT}`])
+  expect(said.refusals[0]).toContain("would not go")
+  expect(said.refusals.at(-1)).toContain(`took\t${LEFT_AT}`)
+  expect(said.refusals.at(-1)).toContain("stopped part way")
 })
 
 test("nothing is committed", () => {
