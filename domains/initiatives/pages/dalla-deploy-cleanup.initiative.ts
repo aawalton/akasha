@@ -10,7 +10,7 @@ export const dallaDeployCleanup = {
     {
       statement: "A service waits out the cooldown its page states before deploying again.",
       workingMemory:
-        "`number-property/cooldown-seconds` sits on `page-type/service`, and a page stating none takes the 60 seconds `deploy-choosing` holds as the default. Every deploy now keeps `deployEndedAt` beside the page it was read from, whether that deploy put up or refused, and the wait is counted from there. No page states a cooldown of its own yet, so the hour an iOS app wants for TestFlight is unwritten.",
+        "`number-property/cooldown-seconds` sits on `page-type/service`, and a page stating none takes the 60 seconds `deploy-choosing` holds as the default. Every deploy keeps `deployEndedAt` beside the page it was read from, and a deploy that refused keeps that same moment under `deployRefusedAt` too; the two being equal is what says the last deploy refused, and then the wait is 600 seconds rather than 60, so one thing that cannot go starves none of its kind. No page states a cooldown of its own yet.",
     },
     {
       statement:
@@ -21,18 +21,18 @@ export const dallaDeployCleanup = {
     {
       statement: "A deploy loop puts up first the service furthest behind that is able to deploy.",
       workingMemory:
-        "`chosenFrom` in `deploy-choosing` sorts the able by when the commit each put up was made, oldest first, with a service never put up ahead of every service that has been, and the slug settling a tie so a tick is repeatable. Able means wanting a deploy, past its cooldown, with no deploy of its own running, and held back by nothing it deploys after. A tick with nothing able chooses nothing rather than refusing.",
+        "`chosenFrom` in `deploy-choosing` sorts by when the commit each put up was made, oldest first, a service never put up ahead of every service that has been, and the slug settling a tie. It then asks down that order and stops at the first able one, so whether a service wants a deploy is asked only as far as the choosing needs. That, with one reading of the commit behind every closure of a kind, took a tick over 48 ESO addons from 17 seconds to under one.",
     },
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
       workingMemory:
-        "`workstation-deploying` is the one for the workstation kind, ticking every minute. A tick lists that kind's subjects through `deploy-subject-listing`, asks `deploy-wanting` which of them a commit changed, picks one through `deploy-choosing`, and starts `akasha deploy <slug>` in a transient scope named for that slug, then ends rather than waiting. Only the workstation kind has a page: every other kind has nothing recorded as deployed, so a loop would put all of them up at once.",
+        "`workstation-deploying` and `eso-addon-deploying` each tick their own kind every minute through `ticked`, which needs only the kind named beside the page. A tick lists that kind's subjects, picks one, and starts `akasha deploy <slug>` in a transient scope named for that slug, then waits that deploy out. Four kinds have no loop: 51 cluster services, 13 inference services, 9 container recipes, 6 web apps, and the 3 ios apps, which a deploy hands to Apple.",
     },
     {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
       workingMemory:
-        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. The workstation kind is the union over every workstation service. A subject whose diff names no file at all is answered without following anything. Only the workstation kind has a loop running; every other kind waits on somebody typing the command.",
+        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. The workstation kind is the union over every workstation service. The workstation and ESO addon kinds have a loop running; the other five wait on somebody typing the command. What composes a unit's text sits in no closure, so a change to it starts no deploy.",
     },
   ],
   constraints: [
