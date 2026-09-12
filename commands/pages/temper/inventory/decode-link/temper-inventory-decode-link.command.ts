@@ -39,4 +39,5 @@ export const temperInventoryDecodeLink = {
     },
   ],
   name: "decode-link",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

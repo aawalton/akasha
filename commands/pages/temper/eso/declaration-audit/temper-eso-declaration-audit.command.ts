@@ -69,4 +69,5 @@ export const temperEsoDeclarationAudit = {
     },
   ],
   name: "declaration-audit",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
