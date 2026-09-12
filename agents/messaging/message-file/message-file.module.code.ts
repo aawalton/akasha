@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs"
 import { messageNamed } from "akasha/agents/messaging/message-naming/message-naming.module.code.ts"
-import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import {
   landBodies,
   landRemovals,
-} from "akasha/commands/modules/gated-landing/gated-landing.module.code.ts"
+} from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
+import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import { whyRefused } from "akasha/commands/modules/gated-write/gated-write.module.code.ts"
 import { AKASHA, akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"

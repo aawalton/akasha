@@ -1,7 +1,7 @@
 import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
-import { landRemovals } from "akasha/commands/modules/gated-landing/gated-landing.module.code.ts"
+import { landRemovals } from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
 import { besideOf } from "akasha/pages/beside/page-beside.module.code.ts"
 import {
   AKASHA,
