@@ -1,15 +1,12 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { poolService } from "akasha/commands/arguments/pages/pool-service.argument.ts"
 import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  aloneIn,
-  heldOr,
-  wasRefused,
-  wordsIn,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { inferenceActivate as page } from "akasha/commands/pages/inference/activate/inference-activate.command.ts"
 import {
   copActivate,
   findCop,
@@ -30,17 +27,11 @@ async function resided(done: string[], name: string): Promise<Answer> {
 
 export async function inferenceActivate(
   argv: readonly string[],
+  given: Given,
   residing: Residing = resided
 ): Promise<Answer> {
-  const said = wordsIn(argv, [], [])
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const read = takenFor(argv, given.calledAs, page, [poolService])
+  if ("refused" in read) return refusedBy(read.refused)
 
-  const refusals: string[] = []
-  const name = heldOr(aloneIn(said, "the pool service"), refusals) ?? undefined
-  if (refusals.length > 0) return refusedBy(refusals)
-  if (name === undefined) {
-    return refusedBy(["this names the pool service made resident, and nothing did"])
-  }
-
-  return await answering(async (done) => await residing(done, name))
+  return await answering(async (done) => await residing(done, read.taken.poolService))
 }
