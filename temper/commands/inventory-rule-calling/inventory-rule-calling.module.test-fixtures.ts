@@ -9,6 +9,10 @@ export const ITEM_HELD = "an-item-rule-the-settings-hold"
 
 export const ITEM_LOCKED = "an-item-rule-the-settings-lock"
 
+export const BUY_HELD = "a-buy-rule-the-settings-hold"
+
+export const BUY_LOCKED = "a-buy-rule-the-settings-lock"
+
 const SETTINGS: InventoryRuleSettings = {
   version: 2,
   rules: [
@@ -29,6 +33,26 @@ const SETTINGS: InventoryRuleSettings = {
       itemId: 30151,
       itemName: "a thing the settings keep",
       action: "nothing",
+      active: true,
+      locked: true,
+    },
+  ],
+  buyRules: [
+    {
+      id: BUY_HELD,
+      itemId: 30150,
+      itemName: "a thing the settings know",
+      targetQuantity: 5,
+      source: "merchant",
+      active: true,
+      locked: false,
+    },
+    {
+      id: BUY_LOCKED,
+      itemId: 30151,
+      itemName: "a thing the settings keep",
+      targetQuantity: 5,
+      source: "merchant",
       active: true,
       locked: true,
     },
