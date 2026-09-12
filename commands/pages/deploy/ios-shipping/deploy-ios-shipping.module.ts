@@ -89,5 +89,9 @@ export const deployIosShipping = {
       invariantKind: "absence",
       statement: "The keychain password reaches no report.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The list this ship names things into is the one the cut names things into.",
+    },
   ],
 } as const satisfies Module

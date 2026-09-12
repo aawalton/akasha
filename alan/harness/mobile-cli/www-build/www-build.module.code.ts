@@ -6,6 +6,7 @@ import {
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  fetchedSaid,
   fetchOrigin,
   resolveRef,
   resolveRepoRoot,
@@ -37,12 +38,39 @@ export interface WwwBuildResult {
   readonly wwwDir: string
 }
 
-export async function buildWwwAt(opts: {
-  readonly app: MobileApp
-  readonly ref?: string
-  readonly repoRoot?: string
-  readonly buildWorktreeDir?: string
-}): Promise<WwwBuildResult> {
+export function buildDirTakenSaid(dir: string): string {
+  return `${dir} was deleted, and whatever was in it is gone`
+}
+
+export function worktreeAddedSaid(dir: string, sha: string): string {
+  return `a detached worktree was added at ${dir} on ${sha}, and it is registered in this repo`
+}
+
+export function buildDirResetSaid(dir: string): string {
+  return `${dir} was fetched, force checked out and cleaned — anything uncommitted in it is gone`
+}
+
+export function webEnvCopiedSaid(path: string): string {
+  return `the workstation's web env file, secrets and all, was copied to ${path}`
+}
+
+export function installedSaid(dir: string): string {
+  return `\`bun install\` ran in ${dir} and wrote that worktree's node_modules`
+}
+
+export function wwwStagedSaid(dir: string): string {
+  return `the stage script wrote www/ into ${dir}, which is the shell's own checkout`
+}
+
+export async function buildWwwAt(
+  done: string[],
+  opts: {
+    readonly app: MobileApp
+    readonly ref?: string
+    readonly repoRoot?: string
+    readonly buildWorktreeDir?: string
+  }
+): Promise<WwwBuildResult> {
   const { app } = opts
   if (app.wwwStageScript === null || app.nativeShellRepoPath === null) {
     throw new InputError(
@@ -52,29 +80,36 @@ export async function buildWwwAt(opts: {
   const repoRoot = opts?.repoRoot ?? resolveRepoRoot(codeRoot())
 
   fetchOrigin(repoRoot)
+  done.push(fetchedSaid(repoRoot))
   const mainSha = resolveRef(repoRoot, opts?.ref ?? "origin/main")
 
   const buildDir = opts?.buildWorktreeDir ?? join(homedir(), ".mobile-cut-build")
 
   if (!worktreeOfRepo(buildDir, repoRoot)) {
     rmSync(buildDir, { recursive: true, force: true })
+    done.push(buildDirTakenSaid(buildDir))
     shown(["git", "-C", repoRoot, "worktree", "prune"])
     shown(["git", "-C", repoRoot, "worktree", "add", "--detach", buildDir, mainSha])
+    done.push(worktreeAddedSaid(buildDir, mainSha))
   } else {
     shown(["git", "-C", buildDir, "fetch", "origin"])
     shown(["git", "-C", buildDir, "checkout", "--detach", "--force", mainSha])
     shown(["git", "-C", buildDir, "clean", "-fd"])
+    done.push(buildDirResetSaid(buildDir))
   }
 
   const webEnvSegments = app.webEnvSegments
   if (webEnvSegments !== null) {
     const workstationEnv = join(repoRoot, ...webEnvSegments)
     if (existsSync(workstationEnv)) {
-      copyFileSync(workstationEnv, join(buildDir, ...webEnvSegments))
+      const landedAt = join(buildDir, ...webEnvSegments)
+      copyFileSync(workstationEnv, landedAt)
+      done.push(webEnvCopiedSaid(landedAt))
     }
   }
 
   shown(["bun", "install"], { cwd: buildDir })
+  done.push(installedSaid(buildDir))
   const shellRoot = shellRepoRoot(app)
   const stageScript = join(shellRoot, splitRepoPath(app.wwwStageScript).path)
   const spaSource =
@@ -85,6 +120,7 @@ export async function buildWwwAt(opts: {
     cwd: shellRoot,
     env: { ...process.env, [SPA_SOURCE_VAR]: spaSource },
   })
+  done.push(wwwStagedSaid(shellRoot))
 
   const wwwDir = join(shellRoot, stagedWwwRepoPath(app) ?? "")
   if (!existsSync(join(wwwDir, "index.html"))) {

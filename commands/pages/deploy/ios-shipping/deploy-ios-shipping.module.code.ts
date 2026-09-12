@@ -107,7 +107,7 @@ export async function shipIosApp(
   }
   const spoken: string[] = []
   try {
-    await runTestflightCut({
+    await runTestflightCut(up, {
       app,
       configuration: CONFIGURATION,
       buildNumber: undefined,

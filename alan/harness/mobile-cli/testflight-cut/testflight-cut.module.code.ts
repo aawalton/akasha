@@ -30,6 +30,7 @@ import {
 import {
   commitAt,
   computeBuildInputTreeHash,
+  fetchedSaid,
   fetchOrigin,
   originReaches,
   resolveRepoRoot,
@@ -71,7 +72,18 @@ const FILING_TRIES = 4
 
 const FILING_BACKOFF_MS = [2_000, 5_000, 15_000] as const
 
-type Recorder = (appSlug: string, fp: CutFingerprint) => Promise<void>
+type Recorder = (appSlug: string, fp: CutFingerprint, done: string[]) => Promise<void>
+
+export function stagedToMacSaid(host: string, stagingRel: string): string {
+  return `the www bundle was rsynced onto ${host} at ~/${stagingRel}, replacing what was there`
+}
+
+export function macRanSaid(host: string, noUpload: boolean): string {
+  const did = noUpload
+    ? "archived and exported there, and nothing was sent to Apple"
+    : "archived, exported and uploaded, so a TestFlight build number may already be spent"
+  return `the deploy script ran on ${host}, which checked out, ${did}`
+}
 
 export function cutRecordCall(appSlug: string, fp: CutFingerprint): string {
   const said = [
@@ -91,12 +103,13 @@ export async function fileFingerprint(
   fp: CutFingerprint,
   record: Recorder,
   sleep: (ms: number) => Promise<void> = (ms) => new Promise((resolve) => setTimeout(resolve, ms)),
-  say: Say = toStdout
+  say: Say = toStdout,
+  done: string[] = []
 ): Promise<string | null> {
   let last = "nothing was tried"
   for (let attempt = 0; attempt < FILING_TRIES; attempt += 1) {
     try {
-      await record(appSlug, fp)
+      await record(appSlug, fp, done)
       return null
     } catch (err) {
       last = err instanceof Error ? err.message : String(err)
@@ -119,17 +132,20 @@ function elapsedSince(from: number): string {
   return `${Math.floor(seconds / 60)}m${String(seconds % 60).padStart(2, "0")}s`
 }
 
-export async function runTestflightCut(opts: {
-  readonly app: MobileApp
-  readonly configuration: string
-  readonly buildNumber: number | undefined
-  readonly sync: boolean
-  readonly wait: boolean
-  readonly noUpload: boolean
-  readonly password: string
-  readonly ref: string
-  readonly say?: Say
-}): Promise<undefined> {
+export async function runTestflightCut(
+  done: string[],
+  opts: {
+    readonly app: MobileApp
+    readonly configuration: string
+    readonly buildNumber: number | undefined
+    readonly sync: boolean
+    readonly wait: boolean
+    readonly noUpload: boolean
+    readonly password: string
+    readonly ref: string
+    readonly say?: Say
+  }
+): Promise<undefined> {
   const { app, configuration, buildNumber, sync, wait, noUpload, password, ref } = opts
   const say = opts.say ?? toStdout
   const watched = opts.say === undefined
@@ -138,7 +154,11 @@ export async function runTestflightCut(opts: {
   const codeRepoRoot = resolveRepoRoot(codeRoot())
   const shellRoot = resolveRepoRoot(shellRepoRoot(app))
   fetchOrigin(codeRepoRoot)
-  if (shellRoot !== codeRepoRoot) fetchOrigin(shellRoot)
+  done.push(fetchedSaid(codeRepoRoot))
+  if (shellRoot !== codeRepoRoot) {
+    fetchOrigin(shellRoot)
+    done.push(fetchedSaid(shellRoot))
+  }
   const pinned = (repoRoot: string, repoName: string): string => {
     const commit = commitAt(repoRoot, ref)
     if (commit === null) {
@@ -194,7 +214,7 @@ export async function runTestflightCut(opts: {
     const wwwAt = Date.now()
     let built: WwwBuildResult
     try {
-      built = await buildWwwAt({ app, ref: mainSha })
+      built = await buildWwwAt(done, { app, ref: mainSha })
     } catch (err) {
       throw new OperationalError(
         `the workstation www build failed, so nothing was staged to the MacBook and no build number was spent (${
@@ -206,6 +226,7 @@ export async function runTestflightCut(opts: {
       `Staging www (main ${mainSha.slice(0, 12)}) → ${MACBOOK.user}@${MACBOOK.host}:~/${stagingRel}…\n`
     )
     await rsyncToHost(MACBOOK, built.wwwDir, stagingRel, { quiet: !watched })
+    done.push(stagedToMacSaid(MACBOOK.host, stagingRel))
     say(`  www built and staged in ${elapsedSince(wwwAt)}\n`)
   }
 
@@ -229,6 +250,7 @@ export async function runTestflightCut(opts: {
     quiet: !watched,
     sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
   })
+  done.push(macRanSaid(MACBOOK.host, noUpload))
   if (!watched) say(out.endsWith("\n") ? out : `${out}\n`)
   const macTook = elapsedSince(macAt)
 
@@ -280,7 +302,14 @@ export async function runTestflightCut(opts: {
     ),
     cutAt: new Date().toISOString(),
   }
-  const filed = await fileFingerprint(app.slug, fingerprint, recordCutFingerprint, undefined, say)
+  const filed = await fileFingerprint(
+    app.slug,
+    fingerprint,
+    recordCutFingerprint,
+    undefined,
+    say,
+    done
+  )
   if (filed !== null) {
     say(
       `\n! the upload SUCCEEDED and build ${assignedBuildNumber} is at Apple. Only its fingerprint went unfiled.\n`

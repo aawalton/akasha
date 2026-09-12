@@ -92,5 +92,14 @@ export const testflightCut = {
       invariantKind: "departure",
       statement: "An upload that succeeded is never made again over a fingerprint left unfiled.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The macbook run is named before its output is judged, since the upload lands first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the fingerprint recorder names is kept rather than dropped at the call.",
+    },
   ],
 } as const satisfies Module

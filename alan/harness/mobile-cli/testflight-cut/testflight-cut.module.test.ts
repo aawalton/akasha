@@ -3,6 +3,8 @@ import type { CutFingerprint } from "akasha/alan/harness/mobile-cli/cut-fingerpr
 import {
   cutRecordCall,
   fileFingerprint,
+  macRanSaid,
+  stagedToMacSaid,
 } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 
 const FP: CutFingerprint = {
@@ -63,6 +65,40 @@ describe("fileFingerprint", () => {
     )
     expect(failed).toContain("no checkout root places the page type")
     expect(tries).toBe(4)
+  })
+})
+
+describe("what a run names it had done", () => {
+  test("the list handed in reaches the recorder, so what the recorder names is kept", async () => {
+    const done: string[] = []
+    const failed = await fileFingerprint(
+      "alanwalton",
+      FP,
+      async (_slug, _fp, carried) => {
+        carried.push("the cut page was filed")
+      },
+      noWait,
+      saidNothing,
+      done
+    )
+    expect(failed).toBeNull()
+    expect(done).toEqual(["the cut page was filed"])
+  })
+
+  test("an upload carried out says a build number may be spent", () => {
+    const said = macRanSaid("mac", false)
+    expect(said).toContain("uploaded")
+    expect(said).toContain("may already be spent")
+  })
+
+  test("an upload skipped says nothing was sent, so no one hunts a spent number", () => {
+    const said = macRanSaid("mac", true)
+    expect(said).toContain("nothing was sent to Apple")
+    expect(said).not.toContain("may already be spent")
+  })
+
+  test("the staging says what it replaced, since rsync deletes what it does not carry", () => {
+    expect(stagedToMacSaid("mac", "www-staging")).toContain("replacing what was there")
   })
 })
 

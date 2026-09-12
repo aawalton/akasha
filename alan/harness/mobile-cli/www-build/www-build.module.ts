@@ -6,6 +6,7 @@ export const wwwBuild = {
   slug: "www-build",
   definition: "the www bundle built at a named commit in a detached worktree",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -27,6 +28,15 @@ export const wwwBuild = {
     {
       invariantKind: "departure",
       statement: "The staged `www/` lands in the shell's own checkout rather than in the worktree.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Each thing this deletes, adds, installs or stages is named into the list handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build directory deleted is named before the worktree replacing it is added.",
     },
   ],
 } as const satisfies Module
