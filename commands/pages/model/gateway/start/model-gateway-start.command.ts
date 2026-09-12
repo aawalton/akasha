@@ -7,10 +7,7 @@ export const modelGatewayStart = {
   definition: "the command starting one gateway on the akasha entry, apart from the fleet",
   code: "ts",
   parts: ["module/proxy-run"],
-  taking: [
-    { said: "--keep", takes: "leave the gateway running and say the process id to stop it by" },
-    { said: "--seconds", takes: "how long to wait for the port line before giving up" },
-  ],
+  taking: [{ said: "--seconds", takes: "how long to wait for the port line before giving up" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -68,5 +65,6 @@ export const modelGatewayStart = {
     { argument: "argument/gateway-port" },
     { argument: "argument/registration-account" },
     { argument: "argument/version" },
+    { argument: "argument/keep" },
   ],
 } as const satisfies Command
