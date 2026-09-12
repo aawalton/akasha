@@ -8,4 +8,5 @@ export const host = {
   takes: "which GPU the work runs on",
   value: "text",
   placeholder: "where",
+  default: "cluster",
 } as const satisfies Argument
