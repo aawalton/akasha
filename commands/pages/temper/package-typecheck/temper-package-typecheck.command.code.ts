@@ -1,14 +1,16 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { inNameOrder } from "akasha/temper/commands/name-ordering/name-ordering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-
-const FAILED = 3
 
 const UNDER = "temper"
 const CONFIG = "tsconfig.json"
@@ -98,7 +100,7 @@ export function temperPackageTypecheck(argv: readonly string[] = []): Answer {
     if (left <= 0) {
       return refused(
         `the run passed its ceiling of ${String(CEILING_MS / A_MINUTE)} minutes before ${name} was typechecked, so what it would have found is unknown`,
-        FAILED
+        OPERATIONAL
       )
     }
     all.push(judged(root, at, name, left))
@@ -114,5 +116,5 @@ export function temperPackageTypecheck(argv: readonly string[] = []): Answer {
   for (const one of all.filter((row) => row.code !== 0)) {
     refusals.push(`${one.name} failed to typecheck (exit ${String(one.code)})`)
   }
-  return { report, refusals, code: refusals.length > 0 ? FAILED : OK }
+  return { report, refusals, code: refusals.length > 0 ? OPERATIONAL : OK }
 }
