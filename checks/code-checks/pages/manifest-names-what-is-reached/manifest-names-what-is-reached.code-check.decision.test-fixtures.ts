@@ -10,7 +10,10 @@ import {
   wrote,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { listingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -67,6 +70,7 @@ export function rooted(prefix: string = "akasha-reached-"): string {
   founded(root)
   typed(root, PACKAGE, "page")
   declaring(root, MANIFEST_KEY, { pageTypeSlug: FILE_PROPERTY, fileName: "package.json" })
+  listedFiled(root, PACKAGE, "one-system", [{ path: PAGE_AT, id: ID }])
   valueAlsoFiled(root, PACKAGE, [
     { path: PAGE_AT, value: { id: ID, pageTypeSlug: PACKAGE, slug: "one-system" } },
   ])
