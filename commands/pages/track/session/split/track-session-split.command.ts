@@ -6,6 +6,7 @@ export const trackSessionSplit = {
   slug: "track-session-split",
   definition: "the command parting one stretch into two at a time said",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
