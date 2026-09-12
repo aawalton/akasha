@@ -200,7 +200,8 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
-      statement: "More words than a command takes are refused saying how many either side is.",
+      statement:
+        "More words than a command takes are refused saying how many either side is and naming the spare.",
     },
     {
       invariantKind: "departure",
