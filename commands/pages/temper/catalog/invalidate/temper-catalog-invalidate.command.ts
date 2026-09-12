@@ -13,14 +13,14 @@ export const temperCatalogInvalidate = {
     { said: "--side-file <path>", takes: "the file the addon reads the request from" },
     { said: "--json", takes: "give the written request as JSON rather than as one line" },
   ],
-  helpNotes: [
-    "a domain is named or `--all` is said, never both.",
-    "the request is a version the addon compares against what it last saw, so the collection happens at the next reload.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A call naming one domain beside `--all` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no domain and saying no `--all` is refused.",
     },
     {
       invariantKind: "departure",
