@@ -9,6 +9,9 @@ import {
   recordRead,
 } from "akasha/agents/read-record/read-record.module.code.ts"
 import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
+import { full as fullArgument } from "akasha/commands/arguments/pages/full.argument.ts"
 import {
   INPUT,
   OK,
@@ -42,14 +45,11 @@ import {
   type Discard,
   discarded,
 } from "akasha/commands/pages/read/output-reaching/output-reaching.module.code.ts"
+import { read as page } from "akasha/commands/pages/read/read.command.ts"
 import { warrantedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 export const ANSWER_CEILING = 28000
-
-const FILE_PATH = "--file-path"
-
-const FULL = "--full"
 
 const SEAT = "--seat"
 
@@ -94,12 +94,6 @@ export type Target = {
   readonly absolute: string
 }
 
-type Meant = {
-  readonly paths: readonly string[]
-  readonly full: boolean
-  readonly refusal: string | null
-}
-
 type Aimed = {
   readonly targets: readonly Target[]
   readonly refusals: readonly string[]
@@ -118,7 +112,7 @@ export function restCall(
 ): readonly string[] {
   if (left.length === 0) return []
   const one = left.length === 1
-  const named = left.map((at) => `${FILE_PATH} ${at.named}`).join(" ")
+  const named = left.map((at) => `${filePath.said} ${at.named}`).join(" ")
   return [
     `${left.length} file${one ? "" : "s"} ${one ? "was" : "were"} left unread here: the rest of the set ` +
       `runs past the ${ANSWER_CEILING} bytes one answer holds, and a read takes no line range, so no ` +
@@ -127,32 +121,12 @@ export function restCall(
   ]
 }
 
-function meaning(argv: readonly string[]): Meant {
-  const refused = (said: string): Meant => ({ paths: [], full: false, refusal: said })
-  const paths: string[] = []
-  let full = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at] ?? ""
-    if (one === FILE_PATH) {
-      const value = argv[at + 1]
-      if (value === undefined) return refused(`${FILE_PATH} names a file, and nothing followed it`)
-      paths.push(value)
-      at += 1
-      continue
-    }
-    if (one === FULL) {
-      full = true
-      continue
-    }
-    if (one === SEAT) {
-      return refused(
-        `${SEAT} reads what a seat is bound to, and this read answers for the paths it is named and ` +
-          "nothing else"
-      )
-    }
-    return refused(`\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\``)
-  }
-  return { paths, full, refusal: null }
+export function wrongIn(argv: readonly string[]): readonly string[] {
+  if (!argv.includes(SEAT)) return []
+  return [
+    `${SEAT} reads what a seat is bound to, and this read answers for the paths it is named and ` +
+      "nothing else",
+  ]
 }
 
 function aiming(paths: readonly string[], given: Given): Aimed {
@@ -301,10 +275,14 @@ export function readWith(
   }
   const agentId = given.agentId
   if (agentId === null) return mistaking([NO_AGENT])
-  const meant = meaning(argv)
-  if (meant.refusal !== null) return mistaking([meant.refusal])
-  const bare = meant.paths.length === 0
-  const asked = bare ? ownSeatIn(agentId, seatAt) : meant.paths
+  const wrong = wrongIn(argv)
+  if (wrong.length > 0) return mistaking(wrong)
+  const meant = takenFor(argv, given.calledAs, page, [filePath, fullArgument])
+  if ("refused" in meant) return mistaking(meant.refused)
+  const paths = meant.taken.filePath
+  const whole = meant.taken.full
+  const bare = paths.length === 0
+  const asked = bare ? ownSeatIn(agentId, seatAt) : paths
   if (asked === null) return mistaking([noSeatFor(agentId)])
   const aimed = aiming(asked, given)
   if (aimed.refusals.length > 0) return mistaking(aimed.refusals)
@@ -333,7 +311,7 @@ export function readWith(
     const bytes = held.bytes
     const at = relative(resolve(given.root), absolute)
     const oid = blobIdOf(bytes)
-    const seen = meant.full ? null : readingIn(given.root, agentId, at)
+    const seen = whole ? null : readingIn(given.root, agentId, at)
     const lines = tellingOf(given.root, named, bytes, oid, seen)
     const cost = costOf(lines)
     const rest = queue.slice(order)
@@ -382,7 +360,7 @@ export function readWith(
       })
     }
   }
-  const owed = meant.full ? left : owing(given.root, agentId, left)
+  const owed = whole ? left : owing(given.root, agentId, left)
   report.push(...restCall(given.calledAs, owed, bare))
   return answeredWith(report, refusals, mistaken ? INPUT : failed ? OPERATIONAL : OK)
 }

@@ -166,11 +166,11 @@ test("--seat is refused with what it would have meant", () => {
   expect(seat.refusals[0]).toContain("what a seat is bound to")
 })
 
-test("an argument this does not take is a caller mistake", () => {
-  const root = rootWith([])
-  const said = read(["--offset", "20"], givenFor(root))
+test("an argument this does not take is refused, naming every argument it takes", () => {
+  const said = read(["--offset", "20"], givenFor(rootWith([])))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is not an argument this takes")
+  expect(said.refusals[0]).toContain("is no argument")
+  for (const one of TAKING) expect(said.refusals[0]).toContain(one.said)
 })
 
 test("more than one answer holds comes back as fewer files and a call for the rest", () => {
@@ -194,14 +194,6 @@ test("the call for the rest reads exactly what was left, and then the set is don
   expect(said.code).toBe(0)
   expect(returned.length).toBe(left.length)
   expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
-})
-
-test("every argument the page shows is an argument this takes", () => {
-  const root = heldRoot()
-  for (const one of TAKING) {
-    const said = read([one.said.split(" ")[0] ?? ""], givenFor(root))
-    expect(said.refusals.join(" ")).not.toContain("this takes")
-  }
 })
 
 test("a read records the body that reached the agent", () => {
