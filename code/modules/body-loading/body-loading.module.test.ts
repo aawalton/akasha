@@ -1,6 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { bodyFor, heldOver, leftHeldAt } from "akasha/code/body-loading/body-loading.module.code.ts"
-import { BESIDE } from "akasha/code/body-loading/body-loading.module.test-fixtures.ts"
+import {
+  bodyFor,
+  heldOver,
+  leftHeldAt,
+} from "akasha/code/modules/body-loading/body-loading.module.code.ts"
+import { BESIDE } from "akasha/code/modules/body-loading/body-loading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
