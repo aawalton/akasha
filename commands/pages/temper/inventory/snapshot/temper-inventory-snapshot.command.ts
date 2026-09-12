@@ -8,7 +8,6 @@ export const temperInventorySnapshot = {
   code: "ts",
   taking: [
     { said: "<snapshot>", takes: "the snapshot read, by its page id or by its slug" },
-    { said: "--latest", takes: "take the newest snapshot on the account rather than one named" },
     { said: "--output <path>", takes: "the file the record is written to" },
     { said: "--json", takes: "give the record on one line rather than indented" },
   ],
@@ -52,4 +51,5 @@ export const temperInventorySnapshot = {
     },
   ],
   name: "snapshot",
+  arguments: [{ argument: "argument/latest" }],
 } as const satisfies Command
