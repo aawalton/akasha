@@ -7,7 +7,6 @@ export const mobileSimLongPressDrag = {
   definition: "the command holding a finger down on the simulator and dragging it somewhere",
   code: "ts",
   taking: [
-    { said: "--y <px>", takes: "how far down the viewport the finger goes down" },
     { said: "--to-x <px>", takes: "how far across the viewport the finger ends" },
     { said: "--to-y <px>", takes: "how far down the viewport the finger ends" },
     {
@@ -41,5 +40,8 @@ export const mobileSimLongPressDrag = {
     },
   ],
   name: "long-press-drag",
-  arguments: [{ argument: "argument/x", required: true }],
+  arguments: [
+    { argument: "argument/x", required: true },
+    { argument: "argument/y", required: true },
+  ],
 } as const satisfies Command

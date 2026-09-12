@@ -6,10 +6,7 @@ export const mobileSimTap = {
   slug: "mobile-sim-tap",
   definition: "the command tapping the simulator screen the way a finger would",
   code: "ts",
-  taking: [
-    { said: "--selector <css>", takes: "the element to tap, found by CSS in the webview" },
-    { said: "--y <px>", takes: "how far down the viewport to tap, with `--x`" },
-  ],
+  taking: [{ said: "--selector <css>", takes: "the element to tap, found by CSS in the webview" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -37,5 +34,5 @@ export const mobileSimTap = {
     },
   ],
   name: "tap",
-  arguments: [{ argument: "argument/x" }],
+  arguments: [{ argument: "argument/x" }, { argument: "argument/y" }],
 } as const satisfies Command
