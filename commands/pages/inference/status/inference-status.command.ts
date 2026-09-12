@@ -8,17 +8,19 @@ export const inferenceStatus = {
   code: "ts",
   changeKind: "change-none",
   taking: [],
-  helpNotes: [
-    "each host is asked in turn, and what it says is reported under its name and address.",
-    "a service is reported by whether its directory, its conda env and its launchd job are there.",
-    "the hash beside a service is the hash of the inputs the host was last given.",
-    "a host holding no managed service is said so rather than left out.",
-    "this is what the host holds rather than what the registry declares.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The services reported are the services the host has.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service is reported by whether its directory, its conda environment and its launchd job are there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The hash beside a service is the hash of the inputs that host was last given.",
     },
     {
       invariantKind: "departure",
