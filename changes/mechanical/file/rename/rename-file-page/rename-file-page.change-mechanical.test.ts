@@ -109,9 +109,18 @@ const heldAt: string = indexedRepo({
   [SPELLER_CODE]: `export const at = "module/${HELD_SLUG}"\n`,
 })
 
+const SHARED_PAGE = "akasha/ten/shared-one.module.ts"
+
+const SHARED_CODE = "akasha/ten/shared-one.module.code.ts"
+
+const SHARED_BESIDE = "akasha/ten/second-here.module.ts"
+
 const otherAt: string = indexedRepo({
   [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
   [OTHER_CODE]: "export const kept = 2\n",
+  [SHARED_PAGE]: pageOf({ id: idOf("0"), pageTypeSlug: "module", slug: "shared-one", code: "ts" }),
+  [SHARED_CODE]: "export const kept = 9\n",
+  [SHARED_BESIDE]: pageOf({ id: idOf("d"), pageTypeSlug: "module", slug: "second-here" }),
 })
 
 const heldWas = textIn(heldAt)
@@ -273,6 +282,16 @@ test("a page whose type holds a secret it keeps no file for carries no sops file
   const said = await runChange(world, { at: SECOND_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([[SECOND_PAGE, WARDED_LANDS]])
+})
+
+test("a page sharing its folder is renamed in the folder that page sits in", async () => {
+  const root = otherAt
+  const said = await runChange(worldIn(root, textIn(root)), { at: SHARED_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [SHARED_PAGE, "akasha/ten/carried.module.ts"],
+    [SHARED_CODE, "akasha/ten/carried.module.code.ts"],
+  ])
 })
 
 test("a page owning its folder carries what sits under that folder, each file once", async () => {
