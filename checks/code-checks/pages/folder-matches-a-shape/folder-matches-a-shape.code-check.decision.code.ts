@@ -31,10 +31,15 @@ import type {
   UncommittedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
+  extensionsFor,
+  heldNamed,
+} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
+import {
   claimsOf,
   type IsThere,
   type SidecarsBy,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import type { Carried } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -266,6 +271,25 @@ export function partOfOver(index: Paged): (page: Held) => readonly string[] {
   }
 }
 
+const ANY = (): boolean => true
+
+export function namingParts(
+  shadow: Shadow,
+  grouped: Grouped,
+  parts: (page: Held) => readonly string[]
+): (page: Held) => readonly string[] {
+  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+  return (page) => {
+    const found = parts(page)
+    const more = grouped
+      .at(folderOf(page.path))
+      .filter(
+        (one) => !found.includes(one) && heldNamed(one, extensionsFor(shadow.index), ANY, carrying)
+      )
+    return more.length === 0 ? found : [...found, ...more]
+  }
+}
+
 export function claimingOver(
   grouped: Grouped,
   pageTypes: ReadonlySet<string>,
@@ -329,14 +353,18 @@ export function judgingOver(given: Reading): Judging {
   const holds = holdingOver(index, grouped, pageTypes, fileProperties)
   const heldNames = namesHeldBy(shapes)
   const namedFor = namingOver(holds, heldNames)
-  const parts = partsOver(
-    index,
-    given.root,
-    index.filePropertiesAt(),
-    index.sidecarsAt(),
-    index.uncommittedFiledAt(),
-    index.folderPropertiesAt(),
-    (at) => grouped.at(folderOf(at)).includes(at)
+  const parts = namingParts(
+    given.shadow,
+    grouped,
+    partsOver(
+      index,
+      given.root,
+      index.filePropertiesAt(),
+      index.sidecarsAt(),
+      index.uncommittedFiledAt(),
+      index.folderPropertiesAt(),
+      (at) => grouped.at(folderOf(at)).includes(at)
+    )
   )
   const partOf = partOfOver(index)
   const claimed = claimingOver(grouped, pageTypes, fileProperties, parts)

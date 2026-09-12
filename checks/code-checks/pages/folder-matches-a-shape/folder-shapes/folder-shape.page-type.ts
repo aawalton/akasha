@@ -249,6 +249,10 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A file whose ending a page's property names is a part of that page too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shape states its test.",
     },
     {
