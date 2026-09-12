@@ -19,6 +19,10 @@ import {
   subagentsDirOf,
 } from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
 import {
+  pagelessAmong,
+  pagelessSaid,
+} from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
+import {
   movedOnto,
   saidOf,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -47,10 +51,6 @@ import {
   akashaHolderProcessOf,
   akashaSeatsThatExist,
 } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import {
-  pagelessAmong,
-  pagelessSaid,
-} from "akasha/seat-system/subagent-pageless/subagent-pageless.module.code.ts"
 import {
   leftWhereItIs,
   seatPageIn,

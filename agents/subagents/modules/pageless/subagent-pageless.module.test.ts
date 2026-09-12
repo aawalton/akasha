@@ -4,7 +4,7 @@ import {
   NONE_PAGELESS,
   pagelessAmong,
   pagelessSaid,
-} from "akasha/seat-system/subagent-pageless/subagent-pageless.module.code.ts"
+} from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
 
 const OWN = "a38f63805f9b94edf"
 
