@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
   DATA,
   INPUT,
@@ -319,9 +320,13 @@ test("a refresh that ran through names nothing it wrote in a refusal", () => {
   expect(answer.refusals).toEqual([])
 })
 
+const SHOWN: Readonly<Record<string, string>> = { "argument/dry-run": dryRunArgument.said }
+
 test("every flag the page shows is one this takes", () => {
-  for (const one of indexCommand.taking) {
-    const held = readIn([one.said.split(" ")[0] ?? ""])
+  for (const one of indexCommand.arguments) {
+    const shown = SHOWN[one.argument] ?? ""
+    expect(shown).not.toBe("")
+    const held = readIn([shown.split(" ")[0] ?? ""])
     expect("refused" in held ? held.refused.join(" ") : "").not.toContain("this takes")
   }
 })
