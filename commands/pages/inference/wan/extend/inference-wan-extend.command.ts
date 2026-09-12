@@ -48,6 +48,10 @@ export const inferenceWanExtend = {
     { argument: "argument/prompt-file" },
     { argument: "argument/negative-prompt-file" },
     { argument: "argument/negative-prompt", notWith: ["argument/negative-prompt-file"] },
-    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
+    {
+      argument: "argument/render-prompt",
+      notWith: ["argument/prompt-file"],
+      oneOf: ["argument/prompt-file"],
+    },
   ],
 } as const satisfies Command

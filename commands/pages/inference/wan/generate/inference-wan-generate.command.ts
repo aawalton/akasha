@@ -45,12 +45,16 @@ export const inferenceWanGenerate = {
     { argument: "argument/steps" },
     { argument: "argument/size" },
     { argument: "argument/lightning" },
-    { argument: "argument/start-image" },
+    { argument: "argument/start-image", oneOf: ["argument/end-image"] },
     { argument: "argument/end-image" },
     { argument: "argument/clip-frames" },
     { argument: "argument/prompt-file" },
     { argument: "argument/negative-prompt-file" },
     { argument: "argument/negative-prompt", notWith: ["argument/negative-prompt-file"] },
-    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
+    {
+      argument: "argument/render-prompt",
+      notWith: ["argument/prompt-file"],
+      oneOf: ["argument/prompt-file"],
+    },
   ],
 } as const satisfies Command

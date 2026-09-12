@@ -17,20 +17,22 @@ function given(root: string): Given {
   }
 }
 
-test("nothing said is refused, naming the flag it needs", async () => {
+const RENDERED = ["--prompt", "a stroll", "--start-image", "a.png"]
+
+test("nothing said is refused, naming the flags it needs", async () => {
   const said = await inferenceWanGenerate([], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--prompt")
+  expect(said.refusals.join(" ")).toContain("--prompt")
 })
 
 test("a flag another command takes is refused here", () => {
-  const said = readGenerate(["--prompt", "a stroll", "--video", "clip.mp4"], CALLED)
+  const said = readGenerate([...RENDERED, "--video", "clip.mp4"], CALLED)
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--video")
 })
 
 test("a switch is held apart from a flag carrying a value", () => {
-  const said = readGenerate(["--prompt", "a stroll", "--lightning"], CALLED)
+  const said = readGenerate([...RENDERED, "--lightning"], CALLED)
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) {
     expect(said.taken.lightning).toBe(true)
@@ -39,25 +41,31 @@ test("a switch is held apart from a flag carrying a value", () => {
 })
 
 test("the clip length holds the default its page states", () => {
-  const said = readGenerate(["--prompt", "a stroll"], CALLED)
+  const said = readGenerate(RENDERED, CALLED)
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) expect(said.taken.clipFrames).toBe(81)
 })
 
 test("the prompt and the file it sits in are never said together", () => {
-  const said = readGenerate(["--prompt", "a stroll", "--prompt-file", "p.txt"], CALLED)
+  const said = readGenerate([...RENDERED, "--prompt-file", "p.txt"], CALLED)
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--prompt-file")
 })
 
 test("a flag carrying its value at an equals sign is taken rather than refused", () => {
-  const said = readGenerate(["--prompt=a stroll", "--steps=8"], CALLED)
+  const said = readGenerate(["--prompt=a stroll", "--start-image=a.png", "--steps=8"], CALLED)
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) expect(said.taken.steps).toBe(8)
 })
 
-test("naming neither conditioning image is the caller's mistake", async () => {
-  const said = await inferenceWanGenerate(["--prompt", "a stroll"], given("/nowhere"))
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--start-image")
+test("naming neither conditioning image is the caller's mistake", () => {
+  const said = readGenerate(["--prompt", "a stroll"], CALLED)
+  expect("refused" in said).toBe(true)
+  if ("refused" in said) expect(said.refused[0]).toContain("--start-image")
+})
+
+test("naming no prompt at all is the caller's mistake", () => {
+  const said = readGenerate(["--start-image", "a.png"], CALLED)
+  expect("refused" in said).toBe(true)
+  if ("refused" in said) expect(said.refused[0]).toContain("--prompt-file")
 })

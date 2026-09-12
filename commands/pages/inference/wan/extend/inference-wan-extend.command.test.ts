@@ -19,6 +19,12 @@ test("nothing said is refused, naming the flags it needs", async () => {
   expect(said.refusals[0]).toContain("--context")
 })
 
+test("naming no prompt at all is the caller's mistake", () => {
+  const said = readExtend(["--context", "c.mp4", "--direction", "forward"], CALLED)
+  expect("refused" in said).toBe(true)
+  if ("refused" in said) expect(said.refused[0]).toContain("--prompt-file")
+})
+
 test("a flag said twice is refused rather than the last winning", () => {
   const said = readExtend(["--context", "one.mp4", "--context", "two.mp4"], CALLED)
   expect("refused" in said).toBe(true)
