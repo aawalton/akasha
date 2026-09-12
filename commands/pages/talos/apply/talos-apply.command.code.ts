@@ -122,7 +122,7 @@ async function applying(read: Named, given: Given): Promise<Answer> {
       report: [],
       refusals: [
         `no cluster secrets are at ${secretsPath}`,
-        `\`${given.calledAs} talos-secrets-gen ${CLUSTER} ${name}\` writes them, and an apply reads them`,
+        `\`${given.calledAs} talos secret-gen ${CLUSTER} ${name}\` writes them, and an apply reads them`,
       ],
       code: INPUT,
     }

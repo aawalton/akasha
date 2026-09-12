@@ -76,7 +76,7 @@ async function fetching(read: Named, given: Given): Promise<Answer> {
       report: [],
       refusals: [
         `no talosconfig is at ${talosconfig}`,
-        `\`${given.calledAs} talos-apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
+        `\`${given.calledAs} talos apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
       ],
       code: INPUT,
     }

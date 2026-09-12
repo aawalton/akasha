@@ -298,7 +298,7 @@ async function installing(read: Named, given: Given): Promise<Answer> {
   })
   report.push(`Talos is up at ${read.ip}`)
   report.push(
-    `\`${given.calledAs} talos-apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`
+    `\`${given.calledAs} talos apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`
   )
   return { report, refusals: [], code: OK }
 }
