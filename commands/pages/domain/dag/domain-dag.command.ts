@@ -8,9 +8,7 @@ export const domainDag = {
   code: "ts",
   test: "ts",
   parts: [],
-  taking: [
-    { said: "--descent", takes: "every page type extending `domain` as well as `domain` itself" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -64,5 +62,6 @@ export const domainDag = {
     { argument: "argument/root-domain" },
     { argument: "argument/up" },
     { argument: "argument/paths" },
+    { argument: "argument/descent" },
   ],
 } as const satisfies Command
