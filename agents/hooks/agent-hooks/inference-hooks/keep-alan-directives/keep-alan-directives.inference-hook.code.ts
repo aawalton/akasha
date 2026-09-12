@@ -21,6 +21,7 @@ import {
   modelOf,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 import { seatIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -32,7 +33,6 @@ import {
   type TurnWorking,
   workingOf,
 } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
-import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 const HOOK = "keep-alan-directives"
 

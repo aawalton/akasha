@@ -19,6 +19,11 @@ import {
   type RegistrationRecord,
   registrationAccountOf,
 } from "akasha/agents/seats/modules/registration-account/seat-registration-account.module.code.ts"
+import {
+  TRANSCRIPT_KEY,
+  type TranscriptRecord,
+  transcriptOf,
+} from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
@@ -30,11 +35,6 @@ import {
   type SessionRecord,
   sessionOf,
 } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
-import {
-  TRANSCRIPT_KEY,
-  type TranscriptRecord,
-  transcriptOf,
-} from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
 

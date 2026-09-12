@@ -10,6 +10,7 @@ import {
   readSeatProcKey,
 } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
+import { keepTranscript } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import {
   ownRepoRoot,
@@ -20,7 +21,6 @@ import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code
 import { keepBeside } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
 import { clearRotated } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
 import { keepSession } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
-import { keepTranscript } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
