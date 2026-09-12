@@ -9,10 +9,6 @@ export const seatStart = {
   taking: [
     { said: "--prompt <text>", takes: "the first turn's prompt, which a headless start needs" },
     {
-      said: "--prompt-file <path|->",
-      takes: "the file the prompt is read from, or `-` for what is piped in",
-    },
-    {
       said: "--persona <slug>",
       takes: "who this seat is, filling the role and the domain neither of which is said",
     },
@@ -77,5 +73,9 @@ export const seatStart = {
     },
   ],
   name: "start",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/start-mode" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/start-mode" },
+    { argument: "argument/prompt-file" },
+  ],
 } as const satisfies Command
