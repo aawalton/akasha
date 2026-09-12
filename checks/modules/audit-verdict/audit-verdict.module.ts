@@ -18,7 +18,11 @@ export const auditVerdict = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict states the commit the audit that took it ran at.",
+      statement: "A verdict states the newest commit its finding still answers for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verdict states the moment the check ran.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +31,7 @@ export const auditVerdict = {
     {
       invariantKind: "departure",
       statement:
-        "A clean verdict answers for the commit it ran at and every ancestor of that commit.",
+        "A clean verdict answers for the commit it states and every ancestor of that commit.",
     },
     {
       invariantKind: "departure",
