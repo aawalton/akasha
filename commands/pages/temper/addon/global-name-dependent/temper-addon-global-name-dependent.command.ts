@@ -11,7 +11,6 @@ export const temperAddonGlobalNameDependent = {
     { said: "<global>", takes: "the global name dependents are enumerated for" },
     { said: "--global <name>", takes: "the global name dependents are enumerated for" },
     { said: "--json", takes: "give one report per line as JSON rather than as prose" },
-    { said: "--code-root <path>", takes: "the checkout scanned" },
   ],
 
   invariants: [
@@ -38,4 +37,5 @@ export const temperAddonGlobalNameDependent = {
     },
   ],
   name: "global-name-dependent",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

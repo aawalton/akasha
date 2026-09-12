@@ -10,7 +10,6 @@ export const temperCommunityAddonList = {
   taking: [
     { said: "--outdated", takes: "name only the addons an update is published for" },
     { said: "--addons-dir <path>", takes: "the game's addon directory read" },
-    { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
   ],
 
   invariants: [
@@ -32,5 +31,5 @@ export const temperCommunityAddonList = {
     },
   ],
   name: "addon-list",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
 } as const satisfies Command

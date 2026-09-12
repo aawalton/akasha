@@ -6,12 +6,7 @@ export const temperAddonDataGenerate = {
   slug: "temper-addon-data-generate",
   definition: "the command writing the addon data files from the pages with their source",
   code: "ts",
-  taking: [
-    {
-      said: "--code-root <path>",
-      takes: "the checkout the game data is read from and the files are written into",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,4 +28,5 @@ export const temperAddonDataGenerate = {
     },
   ],
   name: "data-generate",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

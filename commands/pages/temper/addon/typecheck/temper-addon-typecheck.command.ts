@@ -8,7 +8,7 @@ export const temperAddonTypecheck = {
     "the command typechecking each addon against its own compiler settings with nothing emitted",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--code-root <path>", takes: "the checkout whose addons are typechecked" }],
+  taking: [],
 
   invariants: [
     {
@@ -57,4 +57,5 @@ export const temperAddonTypecheck = {
     },
   ],
   name: "typecheck",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

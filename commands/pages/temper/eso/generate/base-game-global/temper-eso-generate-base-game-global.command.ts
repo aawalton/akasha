@@ -12,10 +12,6 @@ export const temperEsoGenerateBaseGameGlobal = {
       takes: "the game's Lua source root, the `~/esoui` clone where none is said",
     },
     {
-      said: "--code-root <path>",
-      takes: "the checkout the census is staged against, for the page ids and bodies already there",
-    },
-    {
       said: "--stage <path>",
       takes:
         "the directory the bodies are staged in, a fresh one under /var/tmp where none is said",
@@ -69,4 +65,5 @@ export const temperEsoGenerateBaseGameGlobal = {
     },
   ],
   name: "base-game-global",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

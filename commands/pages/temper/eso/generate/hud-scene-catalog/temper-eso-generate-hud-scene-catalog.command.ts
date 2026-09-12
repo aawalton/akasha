@@ -6,12 +6,7 @@ export const temperEsoGenerateHudSceneCatalog = {
   slug: "temper-eso-generate-hud-scene-catalog",
   definition: "the command writing the catalog of HUD parts out of the game's own scene source",
   code: "ts",
-  taking: [
-    {
-      said: "--code-root <path>",
-      takes: "the checkout the catalog is written into",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -74,4 +69,5 @@ export const temperEsoGenerateHudSceneCatalog = {
     },
   ],
   name: "hud-scene-catalog",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

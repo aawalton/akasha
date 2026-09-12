@@ -14,7 +14,6 @@ export const temperCommunityAddonUpdate = {
       takes: "download and install every matched addon rather than only the outdated ones",
     },
     { said: "--addons-dir <path>", takes: "the game's addon directory read and written" },
-    { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
   ],
   invariants: [
     {
@@ -47,5 +46,5 @@ export const temperCommunityAddonUpdate = {
     },
   ],
   name: "addon-update",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
 } as const satisfies Command

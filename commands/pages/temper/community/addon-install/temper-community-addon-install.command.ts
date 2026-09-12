@@ -10,7 +10,6 @@ export const temperCommunityAddonInstall = {
     { said: "<name>", takes: "the community addon's name, or one of the folder names it installs" },
     { said: "--force", takes: "install again even where the target folders are already present" },
     { said: "--addons-dir <path>", takes: "the game's addon directory installed into" },
-    { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
   ],
 
   invariants: [
@@ -40,5 +39,5 @@ export const temperCommunityAddonInstall = {
     },
   ],
   name: "addon-install",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
 } as const satisfies Command

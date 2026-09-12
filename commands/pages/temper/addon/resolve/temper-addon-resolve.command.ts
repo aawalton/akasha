@@ -12,7 +12,6 @@ export const temperAddonResolve = {
       said: "<name>",
       takes: "the canonical name, flat directory leaf or nested parent domain to resolve",
     },
-    { said: "--code-root <path>", takes: "the checkout the addons are discovered in" },
   ],
 
   invariants: [
@@ -38,4 +37,5 @@ export const temperAddonResolve = {
     },
   ],
   name: "resolve",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

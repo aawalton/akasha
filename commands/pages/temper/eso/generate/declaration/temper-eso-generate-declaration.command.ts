@@ -6,12 +6,7 @@ export const temperEsoGenerateDeclaration = {
   slug: "temper-eso-generate-declaration",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",
-  taking: [
-    {
-      said: "--code-root <path>",
-      takes: "the checkout the declarations are written into",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -74,4 +69,5 @@ export const temperEsoGenerateDeclaration = {
     },
   ],
   name: "declaration",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

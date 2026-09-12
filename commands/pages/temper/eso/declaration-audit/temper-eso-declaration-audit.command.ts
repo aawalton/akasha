@@ -9,10 +9,6 @@ export const temperEsoDeclarationAudit = {
   code: "ts",
   taking: [
     {
-      said: "--code-root <path>",
-      takes: "the checkout the committed artifacts are read from",
-    },
-    {
       said: "--eso-doc <path>",
       takes: "the documentation file the clone's API version is read from",
     },
@@ -65,5 +61,5 @@ export const temperEsoDeclarationAudit = {
     },
   ],
   name: "declaration-audit",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
 } as const satisfies Command

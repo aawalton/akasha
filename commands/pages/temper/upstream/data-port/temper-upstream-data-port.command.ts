@@ -12,7 +12,6 @@ export const temperUpstreamDataPort = {
       said: "<library>",
       takes: "which upstream library is ported: housing, lib-map-data, lib-treasure or lib-zone",
     },
-    { said: "--code-root <path>", takes: "the checkout the ported files land in" },
   ],
   invariants: [
     {
@@ -29,4 +28,5 @@ export const temperUpstreamDataPort = {
     },
   ],
   name: "data-port",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

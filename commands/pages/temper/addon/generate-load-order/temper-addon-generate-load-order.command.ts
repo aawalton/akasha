@@ -7,10 +7,7 @@ export const temperAddonGenerateLoadOrder = {
   definition:
     "the command writing an addon's load-order manifest and build stamp into its build output",
   code: "ts",
-  taking: [
-    { said: "--addon <name>", takes: "the addon a load order is written for" },
-    { said: "--code-root <path>", takes: "the checkout read and written" },
-  ],
+  taking: [{ said: "--addon <name>", takes: "the addon a load order is written for" }],
 
   invariants: [
     {
@@ -39,4 +36,5 @@ export const temperAddonGenerateLoadOrder = {
     },
   ],
   name: "generate-load-order",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command

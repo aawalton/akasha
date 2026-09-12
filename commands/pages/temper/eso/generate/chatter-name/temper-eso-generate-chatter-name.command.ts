@@ -7,12 +7,7 @@ export const temperEsoGenerateChatterName = {
   definition:
     "the command writing the chatter and interaction name registry the quests addon reads",
   code: "ts",
-  taking: [
-    {
-      said: "--code-root <path>",
-      takes: "the checkout the enum declarations are read from and the registry written into",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -58,4 +53,5 @@ export const temperEsoGenerateChatterName = {
     },
   ],
   name: "chatter-name",
+  arguments: [{ argument: "argument/code-root" }],
 } as const satisfies Command
