@@ -59,7 +59,11 @@ export const talosImageBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "The registering and the writing this runs are handed in.",
+      statement: "A build that refused part way names them as a build that threw does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The registering, the writing and the fetching this runs are handed in.",
     },
     {
       invariantKind: "departure",

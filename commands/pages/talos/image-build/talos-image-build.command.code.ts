@@ -5,6 +5,7 @@ import { download } from "akasha/commands/arguments/pages/download.argument.ts"
 import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
 import {
   answering,
+  naming,
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -46,6 +47,8 @@ export async function fetched(
   return { bytes: new Uint8Array(await answer.arrayBuffer()) }
 }
 
+export type Fetching = typeof fetched
+
 export type Registering = (yaml: string) => Promise<string>
 
 export type Writing = (at: string, bytes: Uint8Array) => Promise<void>
@@ -84,6 +87,7 @@ async function building(
   given: Given,
   registering: Registering,
   writing: Writing,
+  fetching: Fetching,
   done: string[]
 ): Promise<Answer> {
   let node: NodeIntent
@@ -98,7 +102,7 @@ async function building(
   const isoUrl = installerIsoUrl(id, cluster.talosVersion)
   done.push(`installer iso: ${isoUrl}`)
   if (read.download === undefined) return told(done)
-  const got = await fetched(isoUrl)
+  const got = await fetching(isoUrl)
   if ("refused" in got) return answeredWith(done, [got.refused], OPERATIONAL)
   await wroteIso(resolve(given.root, read.download), got.bytes, writing, done)
   return told(done)
@@ -108,9 +112,12 @@ export async function talosImageBuild(
   argv: readonly string[],
   given: Given,
   registering: Registering = registerSchematic,
-  writing: Writing = writeFile
+  writing: Writing = writeFile,
+  fetching: Fetching = fetched
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [nodeArgument, download])
   if ("refused" in read) return mistaking(read.refused)
-  return await answering(async (done) => building(read.taken, given, registering, writing, done))
+  return await answering(async (done) =>
+    naming(done, await building(read.taken, given, registering, writing, fetching, done))
+  )
 }

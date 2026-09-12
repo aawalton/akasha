@@ -5,7 +5,9 @@ import {
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
+  Fetching,
   Registering,
   Writing,
 } from "akasha/commands/pages/talos/image-build/talos-image-build.command.code.ts"
@@ -13,6 +15,7 @@ import {
   isoSaid,
   registeredSchematic,
   schematicSaid,
+  talosImageBuild,
   wroteIso,
 } from "akasha/commands/pages/talos/image-build/talos-image-build.command.code.ts"
 
@@ -48,6 +51,54 @@ test("the download is named as soon as the bytes reach the disk", async () => {
 
   await wroteIso(AT, BYTES, writing, done)
   expect(done).toEqual([isoSaid(AT)])
+})
+
+const NODE = "node-03"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha talos image-build",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+const dropping: Fetching = () =>
+  Promise.resolve({ refused: "the installer ISO fetch answered 503" })
+
+test("a download that would not be fetched is refused with the schematic named", async () => {
+  const held = await talosImageBuild(
+    [NODE, "--download", "installer.iso"],
+    GIVEN,
+    registering,
+    writing,
+    dropping
+  )
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.refusals[0]).toContain("503")
+  expect(held.report.join(" ")).toContain(ID)
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain(ID)
+})
+
+test("what the report already says is not said a second time by naming it", async () => {
+  const held = await talosImageBuild(
+    [NODE, "--download", "installer.iso"],
+    GIVEN,
+    registering,
+    writing,
+    dropping
+  )
+
+  expect(held.report.filter((one) => one === schematicSaid(ID))).toHaveLength(1)
+})
+
+test("a node the table does not name is refused with nothing named as written", async () => {
+  const held = await talosImageBuild(["node-nowhere"], GIVEN, registering, writing, dropping)
+
+  expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
 
 test("a build that threw part way names in its refusal the schematic it had registered", async () => {
