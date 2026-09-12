@@ -121,5 +121,5 @@ export const gitRestore = {
     },
   ],
   name: "restore",
-  arguments: [{ argument: "argument/file-path", required: true }],
+  arguments: [{ argument: "argument/file-path", required: true, repeats: true }],
 } as const satisfies Command

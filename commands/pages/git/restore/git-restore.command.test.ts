@@ -235,14 +235,16 @@ test("several paths go back in one call", () => {
 
 test("a call naming no path is refused", () => {
   const root = repoWith()
-  expect(gitRestore([], givenIn(root)).refusals.join("\n")).toContain("name at least one path")
+  expect(gitRestore([], givenIn(root)).refusals.join("\n")).toContain(
+    "`akasha git restore` takes `--file-path`, and nothing said it"
+  )
 })
 
 test("a path carrying no flag before it is refused rather than read as a named path", () => {
   const root = repoWith()
   const said = gitRestore([ONE], givenIn(root))
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("carries no flag before it")
+  expect(said.refusals.join("\n")).toContain(`\`${ONE}\` is no argument \`akasha git restore\``)
 })
 
 test("no flag but --file-path is taken", () => {
@@ -250,8 +252,15 @@ test("no flag but --file-path is taken", () => {
   for (const flag of ["--all", "--folder", "--message"]) {
     const said = gitRestore([flag, "x"], givenIn(root))
     expect(said.code).toBe(1)
-    expect(said.refusals.join("\n")).toContain("is not a flag this takes")
+    expect(said.refusals.join("\n")).toContain("it takes `--file-path`")
   }
+})
+
+test("a flag where a path goes is refused rather than put back as a path", () => {
+  const root = repoWith()
+  const said = gitRestore(["--file-path", "--typo"], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("\n")).toContain("`--file-path` takes a value, and none follows it")
 })
 
 test("a path outside the repository is refused", () => {

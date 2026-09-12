@@ -1,13 +1,15 @@
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { FILE_PATH } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { gitRestore as page } from "akasha/commands/pages/git/restore/git-restore.command.ts"
 import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { anythingThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"
@@ -50,40 +52,6 @@ export type Held = {
 export type Cleared = {
   readonly path: string
   readonly entry: Entry
-}
-
-export type Read = { readonly named: readonly string[] } | { readonly refused: string }
-
-export function namedIn(argv: readonly string[]): Read {
-  const named: string[] = []
-  let at = 0
-  while (at < argv.length) {
-    const token = argv[at]
-    if (token === undefined) break
-    if (token === FILE_PATH) {
-      const value = argv[at + 1]
-      if (value === undefined) return { refused: `${FILE_PATH} takes a path, and none follows it` }
-      if (value.startsWith("-")) {
-        return { refused: `${FILE_PATH} takes a path, and \`${value}\` names another flag` }
-      }
-      named.push(value)
-      at = at + 2
-      continue
-    }
-    if (token.startsWith("-")) {
-      return {
-        refused:
-          `\`${token}\` is not a flag this takes — a restore names its paths as ` +
-          `\`${FILE_PATH} <path>\` and takes nothing else`,
-      }
-    }
-    return {
-      refused:
-        `\`${token}\` carries no flag before it, and a restore names every path behind a flag — ` +
-        `say \`${FILE_PATH} ${token}\``,
-    }
-  }
-  return { named }
 }
 
 export function headEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
@@ -340,13 +308,10 @@ export function reportOf(
 }
 
 export function gitRestore(argv: readonly string[], given: Given): Answer {
-  const read = namedIn(argv)
-  if ("refused" in read) return answeredWith([], [read.refused], 1)
-  if (read.named.length === 0) {
-    return answeredWith([], [`name at least one path to restore, as \`${FILE_PATH} <path>\``], 1)
-  }
+  const read = takenFor(argv, given.calledAs, page, [filePath])
+  if ("refused" in read) return answeredWith([], read.refused, 1)
   const root = resolve(given.root)
-  const wanted = pathsIn(root, read.named)
+  const wanted = pathsIn(root, read.taken.filePath)
   if ("refusals" in wanted) return answeredWith([], wanted.refusals, 1)
   const judged = judgedIn(root, wanted.paths, given.calledAs)
   if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code ?? 1)
