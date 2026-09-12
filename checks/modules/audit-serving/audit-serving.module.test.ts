@@ -5,11 +5,14 @@ import {
   auditOne,
   bodyFor,
   carriedOn,
+  championOf,
   commitOf,
   keyFor,
   movedIn,
   type Over,
+  passedOn,
   roundOver,
+  telling,
   turnAt,
   turnedRed,
   verdictOf,
@@ -107,6 +110,53 @@ test("a check turns red only where it was clean or unknown before", () => {
   expect(turnedRed(CLEAN, CLEAN)).toBe(false)
 })
 
+test("the one told is read from the pages rather than named in the module", () => {
+  expect(championOf(process.cwd())).toMatch(/^[a-z][a-z-]*$/)
+})
+
+test("a reason for a telling nobody took is closed once however it arrived", () => {
+  expect(passedOn("thea", "a check turned.", "no seat is held").endsWith("held.")).toBe(true)
+  expect(passedOn("thea", "a check turned.", "no seat is held.").endsWith("held.")).toBe(true)
+})
+
+test("a telling nobody could receive is passed to Alan, saying who it was meant for", async () => {
+  const asked: string[] = []
+  const bodies: string[] = []
+  const why = await telling(
+    async (to, body) => {
+      asked.push(to)
+      bodies.push(body)
+      return to === "alan" ? null : "no seat holds that name"
+    },
+    "thea",
+    "a check turned."
+  )
+  expect(asked).toEqual(["thea", "alan"])
+  expect(bodies[1]).toContain("meant for `thea`")
+  expect(bodies[1]).toContain("no seat holds that name")
+  expect(why).toBeNull()
+})
+
+test("a telling Alan was meant for is not passed to Alan a second time", async () => {
+  const asked: string[] = []
+  const why = await telling(
+    async (to) => {
+      asked.push(to)
+      return "nothing is waiting there"
+    },
+    "alan",
+    "a check turned."
+  )
+  expect(asked).toEqual(["alan"])
+  expect(why).toContain("`alan`")
+})
+
+test("a telling neither could take is answered as a refusal rather than thrown", async () => {
+  const why = await telling(async () => "nothing is waiting there", "thea", "a check turned.")
+  expect(why).toContain("`thea`")
+  expect(why).toContain("`alan`")
+})
+
 test("a round runs the checks its phase names and the checks a request names", () => {
   const every: readonly Gathered[] = [
     gathered("typecheck", "/r"),
@@ -135,7 +185,7 @@ test("two askers join one run only where check, home and commit all agree", () =
   expect(keyFor(one)).not.toBe(keyFor({ ...one, home: "/other" }))
 })
 
-test("what thea is told names every check that turned and what each refused", () => {
+test("what the one told reads names every check that turned and what each refused", () => {
   const said = bodyFor(
     [{ check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }],
     "abc",

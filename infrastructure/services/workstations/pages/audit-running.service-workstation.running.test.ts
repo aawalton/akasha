@@ -36,10 +36,12 @@ test("a run answers once the round is over, because this service runs hourly rat
   await expect(running.runService()).resolves.toBeUndefined()
 })
 
-test("a round that told thea nothing is carried out rather than swallowed, so a broken round is a failed unit", async () => {
+const THREW = "the tree the audit would run over could not be read"
+
+test("a round that threw is carried out rather than swallowed, so a broken round is a failed unit", async () => {
   mock.module("akasha/checks/modules/audit-serving/audit-serving.module.code.ts", () => ({
     ...audit,
-    runAuditServing: () => Promise.reject(new Error(audit.NOTHING_TOLD)),
+    runAuditServing: () => Promise.reject(new Error(THREW)),
   }))
-  await expect(running.runService()).rejects.toThrow(audit.NOTHING_TOLD)
+  await expect(running.runService()).rejects.toThrow(THREW)
 })

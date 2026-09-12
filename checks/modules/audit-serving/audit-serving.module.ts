@@ -90,7 +90,17 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement: "thea is told of a check that turned from clean to refusing.",
+      statement:
+        "The persona championing checks is told of a check that turned from clean to refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The one told is read from the pages rather than named in this module.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A telling nobody could receive is passed to Alan, saying who it was meant for and why.",
     },
     {
       invariantKind: "departure",
@@ -118,7 +128,17 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A telling that lands nowhere ends the round as broken.",
+      statement:
+        "A telling that lands nowhere is said on the error stream and ends the round done.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The round's exit says whether the audit ran rather than whether a telling landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verdict is written as each check is judged rather than once the round is over.",
     },
     {
       invariantKind: "departure",

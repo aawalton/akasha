@@ -27,8 +27,10 @@ import {
   heldTo,
   reasonSaid,
 } from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
+import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import { championing } from "akasha/infrastructure/services/workstations/service-alerting/service-alerting.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -39,7 +41,9 @@ const TURNS = ".local/state/workstation-services/audit-turns"
 
 const WAITED = 3_600_000
 
-const TO = "thea"
+const ANSWERS_FOR = "domain/check"
+
+const FALLBACK = "alan"
 
 const FROM = "audit-running"
 
@@ -84,6 +88,23 @@ export const running: Running = async (one, change) =>
 export const sending: Sent = async (to, body) => {
   const wrote = await writeMessage({ to, from: FROM, warrant: "announce", body })
   return wrote.kind === "refused" ? wrote.detail : null
+}
+
+export function championOf(root: string): string {
+  return championing(domainsDrawn(root))(ANSWERS_FOR) ?? FALLBACK
+}
+
+export function passedOn(to: string, body: string, why: string): string {
+  const said = why.endsWith(".") ? why : `${why}.`
+  return `${body} This was meant for \`${to}\`, whom nothing could reach: ${said}`
+}
+
+export async function telling(send: Sent, to: string, body: string): Promise<string | null> {
+  const why = await send(to, body)
+  if (why === null) return null
+  if (to === FALLBACK) return `nothing told \`${FALLBACK}\`: ${why}`
+  const then = await send(FALLBACK, passedOn(to, body, why))
+  return then === null ? null : `nothing told \`${to}\` or \`${FALLBACK}\`: ${then}`
 }
 
 export async function commitOf(root: string): Promise<string> {
@@ -216,6 +237,7 @@ export type Serving = {
   readonly home: string
   readonly run?: Running
   readonly send?: Sent
+  readonly to?: string
 }
 
 export function roundOver(
@@ -252,27 +274,16 @@ export async function serving(given: Serving): Promise<Told> {
   for (const one of asked) requestDone(given.home, one)
   const red = ran.filter((one) => turned.includes(one.check))
   if (red.length === 0) return { ran, turned, refused: [] }
-  const why = await send(TO, bodyFor(red, over.commit, given.home))
+  const to = given.to ?? championOf(given.root)
+  const why = await telling(send, to, bodyFor(red, over.commit, given.home))
   return { ran, turned, refused: why === null ? [] : [why] }
 }
-
-export const NOTHING_TOLD = `${SAID} a check turned red and the telling landed nowhere`
-
-const NOTHING_TOLD_STATUS = 1
 
 export async function runAuditServing(): Promise<void> {
   const told = await serving({ root: checkoutAt(), home: requireEnv("HOME") })
   const red = told.ran.filter((one) => !cleanly(one.verdict)).length
   process.stdout.write(`${SAID} ${counted(told.ran.length, "audit")}, ${red} refusing\n`)
-  for (const one of told.refused) process.stderr.write(`${SAID} nothing told thea: ${one}\n`)
-  if (told.refused.length > 0) throw new Error(NOTHING_TOLD)
+  for (const one of told.refused) process.stderr.write(`${SAID} ${one}\n`)
 }
 
-if (import.meta.main) {
-  try {
-    await runAuditServing()
-  } catch (thrown) {
-    if (!(thrown instanceof Error) || thrown.message !== NOTHING_TOLD) throw thrown
-    process.exit(NOTHING_TOLD_STATUS)
-  }
-}
+if (import.meta.main) await runAuditServing()
