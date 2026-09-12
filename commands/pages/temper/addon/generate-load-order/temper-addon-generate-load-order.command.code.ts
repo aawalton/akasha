@@ -1,5 +1,10 @@
 import { resolve } from "node:path"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  DATA,
+  INPUT,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -9,10 +14,29 @@ import {
   resolveAddon,
 } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const ADDON = "--addon"
 const CODE_ROOT = "--code-root"
+
+export type Named = {
+  readonly root: string
+  readonly dir: string
+  readonly canonicalName: string
+}
+
+export type Writing = (done: string[], named: Named) => Promise<Answer>
+
+async function written(done: string[], named: Named): Promise<Answer> {
+  const made = await writeLoadOrder(named.root, named.dir, named.canonicalName, done)
+  return told([
+    `wrote ${named.canonicalName} over ${String(made.luaCount)} Lua file(s) from ${named.dir}`,
+    `${String(made.bytes)} byte(s) at ${made.manifestPath}, beside ${made.buildIdPath}`,
+  ])
+}
+
+export async function writtenBy(named: Named, writing: Writing = written): Promise<Answer> {
+  return await answering(async (done) => await writing(done, named))
+}
 
 export async function temperAddonGenerateLoadOrder(argv: readonly string[] = []): Promise<Answer> {
   const asked = valuesOf(argv, ADDON)
@@ -40,17 +64,5 @@ export async function temperAddonGenerateLoadOrder(argv: readonly string[] = [])
     )
   }
 
-  try {
-    const written = await writeLoadOrder(root, found.dir, found.canonicalName)
-    return {
-      report: [
-        `wrote ${found.canonicalName} over ${String(written.luaCount)} Lua file(s) from ${found.dir}`,
-        `${String(written.bytes)} byte(s) at ${written.manifestPath}, beside ${written.buildIdPath}`,
-      ],
-      refusals: [],
-      code: OK,
-    }
-  } catch (thrown) {
-    return refused(`${found.canonicalName}: ${messageOf(thrown)}`, DATA)
-  }
+  return await writtenBy({ root, dir: found.dir, canonicalName: found.canonicalName })
 }

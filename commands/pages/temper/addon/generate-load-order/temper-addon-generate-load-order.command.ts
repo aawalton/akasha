@@ -7,6 +7,7 @@ export const temperAddonGenerateLoadOrder = {
   definition:
     "the command writing an addon's load-order manifest and build stamp into its build output",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
@@ -32,6 +33,14 @@ export const temperAddonGenerateLoadOrder = {
     {
       invariantKind: "absence",
       statement: "Nothing written here is carried by a commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
     },
   ],
   name: "generate-load-order",
