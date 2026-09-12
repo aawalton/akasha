@@ -6,6 +6,7 @@ export const temperInventoryItemRuleUpdate = {
   slug: "temper-inventory-item-rule-update",
   definition: "the command changing the fields of a per-item rule named by its id",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -18,6 +19,27 @@ export const temperInventoryItemRuleUpdate = {
     {
       invariantKind: "departure",
       statement: "An id no per-item rule carries refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no field to change is refused, naming the fields it changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A destination that is no destination is refused before the store is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act that changes takes the store it writes through rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change is named on the caller's list as soon as that write has gone through.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rule left unwritten is named nowhere, whether it was refused, locked or unfound.",
     },
   ],
   name: "update",

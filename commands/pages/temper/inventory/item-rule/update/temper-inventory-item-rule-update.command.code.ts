@@ -22,7 +22,9 @@ import {
   named,
   settingsOf,
   unfound,
+  type Writing,
   webOf,
+  wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
@@ -33,9 +35,14 @@ const CHANGED = [action, destination, title, notes, goal, active, stockQuantity]
 
 const PAGES = [...CHANGED, force, itemRuleId]
 
-type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-async function changed(taken: Taken, calledAs: string): Promise<Answer> {
+export async function changing(
+  taken: Taken,
+  calledAs: string,
+  writing: Writing,
+  done: string[]
+): Promise<Answer> {
   const said = taken.destination
   let moveTo: ReturnType<typeof narrowDestination>
   if (said !== undefined) {
@@ -60,21 +67,25 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
     return refused(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
   }
   const id = taken.itemRuleId
-  const settingsAccess = await settingsOf()
-  const settings = await settingsAccess.read()
+  const settings = await writing.read()
   const rule = (settings.itemRules ?? []).find((one) => one.id === id)
   if (rule === undefined) return unfound("item", id)
   if (rule.locked === true && !taken.force) return lockedOff("item", id)
   const next = bulkUpdateItemRules(settings, [id], patch, { force: taken.force })
-  await settingsAccess.write(next)
+  await writing.write(next)
+  done.push(wroteSaid("item", id, "changed"))
   return told(emitJson((next.itemRules ?? []).find((one) => one.id === id) ?? rule).split("\n"))
+}
+
+async function changed(taken: Taken, calledAs: string, done: string[]): Promise<Answer> {
+  return await changing(taken, calledAs, await settingsOf(), done)
 }
 
 export async function temperInventoryItemRuleUpdate(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredByPage(argv, given.calledAs, page, PAGES, (taken) =>
-    changed(taken, given.calledAs)
+  return await answeredByPage(argv, given.calledAs, page, PAGES, (taken, done) =>
+    changed(taken, given.calledAs, done)
   )
 }
