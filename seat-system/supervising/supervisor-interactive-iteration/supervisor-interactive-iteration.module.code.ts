@@ -1,11 +1,11 @@
 import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
-import { reconcileClaimedRedelivery } from "akasha/seat-system/messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
+import { reconcileClaimedRedelivery } from "akasha/agents/messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
 import {
   readClaimedBefore,
   releaseMessageClaim,
-} from "akasha/seat-system/messaging/supervisor-message-claim/supervisor-message-claim.module.code.ts"
-import { redeliveryHoldoff } from "akasha/seat-system/messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
+} from "akasha/agents/messaging/supervisor-message-claim/supervisor-message-claim.module.code.ts"
+import { redeliveryHoldoff } from "akasha/agents/messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,

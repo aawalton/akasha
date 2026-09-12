@@ -1,16 +1,16 @@
 import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
   decideRecipient,
   names,
   type Recipient,
   type SeatRow,
   type Stated,
   seatsStating,
-} from "akasha/seat-system/messaging/message-to/message-to.module.code.ts"
+} from "akasha/agents/messaging/message-to/message-to.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { handlerDerives } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { resumeSeat as putTheSeatBack } from "akasha/seat-system/seat-resume/seat-resume.module.code.ts"

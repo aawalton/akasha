@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { writeMessage } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
 import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import {
   championing,
@@ -14,7 +15,6 @@ import {
   healthFor,
 } from "akasha/infrastructure/services/workstations/service-health/service-health.module.code.ts"
 import { looked } from "akasha/infrastructure/services/workstations/service-wellness/service-wellness.module.code.ts"
-import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const LEDGER = ".local/state/workstation-services/service-outages.json"
@@ -89,6 +89,35 @@ export const sending: Sent = async (to, body) => {
   return wrote.kind === "refused" ? wrote.detail : null
 }
 
+export async function carrying(given: {
+  readonly tell: readonly Telling[]
+  readonly keeping: Ledger
+  readonly home: string
+  readonly now: string
+  readonly send: Sent
+}): Promise<Ticked> {
+  let keeping = given.keeping
+  const done: string[] = []
+  const refused: string[] = []
+  for (const one of given.tell) {
+    let why = await given.send(one.to, one.body)
+    let reached = one.to
+    if (why !== null && one.to !== FALLBACK) {
+      reached = FALLBACK
+      why = await given.send(FALLBACK, passedOn(one, why))
+    }
+    if (why !== null) {
+      refused.push(`${one.slug} for \`${one.to}\`: ${why}`)
+      continue
+    }
+    keeping = told(keeping, one.slug, given.now)
+    ledgerWrite(given.home, keeping)
+    done.push(`${one.slug} to \`${reached}\``)
+  }
+  ledgerWrite(given.home, keeping)
+  return { told: done, refused }
+}
+
 export async function ticking(given: {
   readonly root: string
   readonly home: string
@@ -96,7 +125,6 @@ export async function ticking(given: {
   readonly send?: Sent
   readonly keep?: Kept
 }): Promise<Ticked> {
-  const send = given.send ?? sending
   const keep = given.keep ?? looked
   const health = healthFor(given.root)
   if (typeof health === "string") {
@@ -111,26 +139,13 @@ export async function ticking(given: {
     now: given.now,
     fallback: FALLBACK,
   })
-  let keeping = decided.keeping
-  const done: string[] = []
-  const refused: string[] = []
-  for (const one of decided.tell) {
-    let why = await send(one.to, one.body)
-    let reached = one.to
-    if (why !== null && one.to !== FALLBACK) {
-      reached = FALLBACK
-      why = await send(FALLBACK, passedOn(one, why))
-    }
-    if (why !== null) {
-      refused.push(`${one.slug} for \`${one.to}\`: ${why}`)
-      continue
-    }
-    keeping = told(keeping, one.slug, given.now)
-    ledgerWrite(given.home, keeping)
-    done.push(`${one.slug} to \`${reached}\``)
-  }
-  ledgerWrite(given.home, keeping)
-  return { told: done, refused }
+  return carrying({
+    tell: decided.tell,
+    keeping: decided.keeping,
+    home: given.home,
+    now: given.now,
+    send: given.send ?? sending,
+  })
 }
 
 export function homeAt(): string {

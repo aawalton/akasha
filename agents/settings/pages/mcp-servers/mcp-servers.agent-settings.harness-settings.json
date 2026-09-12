@@ -2,7 +2,7 @@
   "messages": {
     "type": "stdio",
     "command": "bun",
-    "args": ["run", "$INSTRUCTIONS/akasha/seat-system/messaging/messages-mcp/messages-mcp.module.code.ts"],
+    "args": ["run", "$INSTRUCTIONS/akasha/agents/messaging/messages-mcp/messages-mcp.module.code.ts"],
     "secretEnv": ["MCP_API_KEY"]
   },
   "playwright": {

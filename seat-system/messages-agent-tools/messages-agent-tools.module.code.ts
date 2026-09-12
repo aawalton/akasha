@@ -2,9 +2,9 @@ import {
   claimMessage,
   releaseClaim,
   takeMessage,
-} from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
-import { watchMessagesTo } from "akasha/seat-system/messaging/message-file-watch/message-file-watch.module.code.ts"
-import { startDeliveryWitness } from "akasha/seat-system/messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
+} from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+import { watchMessagesTo } from "akasha/agents/messaging/message-file-watch/message-file-watch.module.code.ts"
+import { startDeliveryWitness } from "akasha/agents/messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 

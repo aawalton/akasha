@@ -1,3 +1,4 @@
+import { messageNamed } from "akasha/agents/messaging/message-naming/message-naming.module.code.ts"
 import {
   type DeliverEffect,
   handleInboundSms,
@@ -16,7 +17,6 @@ import {
   askingFor,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { messageNamed } from "akasha/seat-system/messaging/message-naming/message-naming.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 

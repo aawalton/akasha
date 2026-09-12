@@ -164,7 +164,6 @@ export const seatSystem = {
     "service-workstation/recipient-resolver",
     "service-workstation/sweep-log-days",
     "service-workstation/sweep-supervisor-logs",
-    "domain/messaging",
     "domain/terminal-shell",
     "domain/recipient-resolving",
     "domain/supervising",

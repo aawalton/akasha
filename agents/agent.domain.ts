@@ -21,5 +21,6 @@ export const agent = {
     "module/agent-proc-liveness",
     "module/agent-proc-tree",
     "module/agent-attributes",
+    "domain/messaging",
   ],
 } as const satisfies Domain

@@ -1,6 +1,6 @@
+import { decideClaimedRedelivery } from "akasha/agents/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import { notices } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
-import { decideClaimedRedelivery } from "akasha/seat-system/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import {
   readPayload,
   record,

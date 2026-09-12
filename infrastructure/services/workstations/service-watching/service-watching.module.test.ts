@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import {
+  carrying,
   ledgerAt,
   ledgerIn,
   ledgerRead,
@@ -61,35 +62,63 @@ test("a reason already closed is not closed twice", () => {
   expect(said.endsWith("held.")).toBe(true)
 })
 
+const BROKE = "2026-09-08T00:00:00.000Z"
+
+const NOW = "2026-09-09T00:00:00.000Z"
+
+const TELL = [
+  { slug: "a-service", to: "ember", body: "`a-service` is broken." },
+  { slug: "b-service", to: "aine", body: "`b-service` is broken." },
+]
+
+const KEEPING = {
+  "a-service": { brokenSince: BROKE, toldAt: null },
+  "b-service": { brokenSince: BROKE, toldAt: null },
+}
+
 test("what is told is written down only once the telling lands", async () => {
-  const home = mkdtempSync("/var/tmp/service-watching-kept-")
-  const ticked = await ticking({
-    root: ROOT,
-    home,
-    now: new Date().toISOString(),
+  const carried = await carrying({
+    tell: TELL,
+    keeping: KEEPING,
+    home: HOME,
+    now: NOW,
     send: async () => "nothing is waiting there",
-    keep: () => [],
   })
-  expect(ticked.told).toEqual([])
-  for (const one of Object.values(ledgerRead(home))) expect(one.toldAt).toBe(null)
-  rmSync(home, { recursive: true, force: true })
+  expect(carried.told).toEqual([])
+  expect(carried.refused.length).toBe(2)
+  for (const one of Object.values(ledgerRead(HOME))) expect(one.toldAt).toBe(null)
 })
 
 test("a telling nobody takes is carried to the one stated instead", async () => {
-  const home = mkdtempSync("/var/tmp/service-watching-past-")
   const asked: string[] = []
-  await ticking({
-    root: ROOT,
-    home,
-    now: new Date().toISOString(),
-    send: async (to) => {
+  const bodies: string[] = []
+  const carried = await carrying({
+    tell: [TELL[0] as (typeof TELL)[number]],
+    keeping: KEEPING,
+    home: HOME,
+    now: NOW,
+    send: async (to, body) => {
       asked.push(to)
+      bodies.push(body)
       return to === "alan" ? null : "no seat is held"
     },
-    keep: () => [],
   })
-  if (asked.length > 0) expect(asked).toContain("alan")
-  rmSync(home, { recursive: true, force: true })
+  expect(asked).toEqual(["ember", "alan"])
+  expect(bodies[1]).toContain("meant for `ember`")
+  expect(carried.told).toEqual(["a-service to `alan`"])
+  expect(ledgerRead(HOME)["a-service"]?.toldAt).toBe(NOW)
+})
+
+test("the tellings after a telling that lands nowhere still go out", async () => {
+  const carried = await carrying({
+    tell: TELL,
+    keeping: KEEPING,
+    home: HOME,
+    now: NOW,
+    send: async (to) => (to === "aine" ? null : "no seat is held"),
+  })
+  expect(carried.told).toEqual(["b-service to `aine`"])
+  expect(carried.refused).toEqual(["a-service for `ember`: no seat is held"])
 })
 
 const LIVE_HOME = mkdtempSync("/var/tmp/service-watching-live-")

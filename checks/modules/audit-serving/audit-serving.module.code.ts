@@ -1,5 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { writeMessage } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
 import {
   requestDone,
   requestsIn,
@@ -31,7 +32,6 @@ import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 

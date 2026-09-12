@@ -1,8 +1,8 @@
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   everyRecipient,
   messagesTo,
-} from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
+} from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   anyLiveShell,
   workingOf,

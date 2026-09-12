@@ -1,3 +1,4 @@
+import { writeMessage } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
 import { sweepOrphanedResources } from "akasha/infrastructure/cluster/manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts"
 import {
   decideSweepSignal,
@@ -6,7 +7,6 @@ import {
   SENDER,
   type SweepReading,
 } from "akasha/infrastructure/cluster/manifests/orphan-sweep-notice/orphan-sweep-notice.module.code.ts"
-import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 
 const SWEEP_CEILING_MS = 300_000
 

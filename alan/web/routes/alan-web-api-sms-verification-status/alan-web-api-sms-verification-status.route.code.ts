@@ -1,6 +1,6 @@
+import { messageNamed } from "akasha/agents/messaging/message-naming/message-naming.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.code.ts"
 import { writingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { messageNamed } from "akasha/seat-system/messaging/message-naming/message-naming.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 

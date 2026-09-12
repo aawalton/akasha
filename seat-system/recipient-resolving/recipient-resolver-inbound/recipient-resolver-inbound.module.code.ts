@@ -1,4 +1,4 @@
-import { unclaimedTo } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
+import { unclaimedTo } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 
 export interface InboundMessageRow {

@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import type { DeliveryRecord } from "akasha/seat-system/channel-delivery/channel-delivery.module.code.ts"
 import {
   decideWitnessTick,
   type PendingWitness,
   WITNESS_OBSERVATION_LIMIT,
   witnessActionFor,
-} from "akasha/seat-system/messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
+} from "akasha/agents/messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
+import type { DeliveryRecord } from "akasha/seat-system/channel-delivery/channel-delivery.module.code.ts"
 
 const ID = "11111111-2222-3333-4444-555555555555"
 
