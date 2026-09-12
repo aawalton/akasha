@@ -26,7 +26,6 @@ export const deploy = {
     "module/deploy-tree-pinning",
   ],
   taking: [
-    { said: "--ref <rev>", takes: "the commit to put up" },
     {
       said: "--measured",
       takes: "run the whole deploy under no ceiling, so what it cost is recorded",
@@ -257,5 +256,6 @@ export const deploy = {
     { argument: "argument/dry-run" },
     { argument: "argument/deploy-subject", required: true, saidAs: "word" },
     { argument: "argument/no-upload" },
+    { argument: "argument/ref" },
   ],
 } as const satisfies Command
