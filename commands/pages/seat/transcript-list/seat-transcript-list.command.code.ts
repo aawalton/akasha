@@ -1,3 +1,8 @@
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
@@ -41,11 +46,11 @@ export function seatTranscriptList(argv: readonly string[], _given: Given): Answ
   if (argv.length > 0) {
     const said = namesDrawn(argv)
     const are = argv.length === 1 ? "is no word this takes" : "are no words this takes"
-    return { report: [], refusals: [`${said} ${are} — this command takes none`], code: 1 }
+    return refusedBy([`${said} ${are} — this command takes none`])
   }
   try {
-    return { report: [saidOf(transcriptsNow())], refusals: [], code: 0 }
+    return told([saidOf(transcriptsNow())])
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], DATA)
   }
 }

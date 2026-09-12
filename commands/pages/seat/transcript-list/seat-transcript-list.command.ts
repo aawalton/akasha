@@ -36,6 +36,10 @@ export const seatTranscriptList = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat record that would not be read is a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat with no transcript is left out rather than answered an empty path.",
     },
     {
