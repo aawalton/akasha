@@ -4,18 +4,10 @@ export const complexityRowing = {
   id: "01a08ccb-ef46-7d67-8b4e-cc41cae3762e",
   type: "module",
   slug: "complexity-rowing",
-  definition: "the rows a complexity metric answers, and the flags a call for them takes",
+  definition: "the rows a complexity metric answers",
   code: "ts",
   test: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A flag a command does not take is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The refusal names the flags that command takes.",
-    },
     {
       invariantKind: "departure",
       statement: "A cyclomatic row is one function and a maintainability row is one file.",

@@ -10,123 +10,51 @@ import {
   percentile,
   resolveAnalysisInputs,
 } from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-export const FILE = "--file-path"
-
-export const THRESHOLD = "--threshold"
-
-export const TOP = "--top"
-
-export const AS_JSON = "--json"
 
 const REPORT_TOP = 10
 
-export interface Takes {
-  readonly file: boolean
-  readonly threshold: boolean
-}
-
 export interface Wanted {
-  readonly file: string | null
-  readonly threshold: number | null
-  readonly top: number | null
-  readonly asJson: boolean
-}
-
-export type Read = Wanted | { readonly refused: readonly string[] }
-
-function wholeOf(flag: string, value: string | undefined): number | string {
-  if (value === undefined) return `${flag} names a whole number and nothing followed it`
-  const many = Number(value)
-  if (!Number.isInteger(many) || many < 0) {
-    return `${flag} names a whole number of nought or more, and \`${value}\` is none`
-  }
-  return many
-}
-
-export function flagsFor(takes: Takes): readonly string[] {
-  const held: string[] = []
-  if (takes.file) held.push(FILE)
-  if (takes.threshold) held.push(THRESHOLD)
-  held.push(TOP, AS_JSON)
-  return held
-}
-
-export function readIn(argv: readonly string[], takes: Takes): Read {
-  const flags = flagsFor(takes)
-  const valued = flags.filter((one) => one !== AS_JSON)
-  const refusals: string[] = []
-  let file: string | null = null
-  let threshold: number | null = null
-  let top: number | null = null
-  let asJson = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === AS_JSON) {
-      asJson = true
-      continue
-    }
-    if (valued.includes(one)) {
-      const value = argv[at + 1]
-      at += 1
-      if (one === FILE) {
-        if (value === undefined) refusals.push(`${FILE} names a path and nothing followed it`)
-        else file = value
-        continue
-      }
-      const many = wholeOf(one, value)
-      if (typeof many === "string") refusals.push(many)
-      else if (one === THRESHOLD) threshold = many
-      else top = many
-      continue
-    }
-    refusals.push(
-      one.startsWith("-")
-        ? `\`${one}\` is no flag this takes — it takes ${namesDrawn(flags)}`
-        : `\`${one}\` is no word this takes — it takes ${namesDrawn(flags)}`
-    )
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { file, threshold, top, asJson }
+  readonly json: boolean
+  readonly filePath?: string
+  readonly threshold?: number
+  readonly top?: number
 }
 
 function fmt(one: number, digits = 2): string {
   return one.toFixed(digits)
 }
 
-function inputsFor(root: string, file: string | null): AnalysisInputs {
-  return resolveAnalysisInputs(file === null ? undefined : resolve(root, file))
+function inputsFor(root: string, file: string | undefined): AnalysisInputs {
+  return resolveAnalysisInputs(file === undefined ? undefined : resolve(root, file))
 }
 
-function kept<T>(rows: readonly T[], top: number | null): readonly T[] {
-  return top === null ? rows : rows.slice(0, top)
+function kept<T>(rows: readonly T[], top: number | undefined): readonly T[] {
+  return top === undefined ? rows : rows.slice(0, top)
 }
 
 export function cyclomaticLines(wanted: Wanted, root: string): readonly string[] {
-  const rows = [...collectCyclomaticRows(inputsFor(root, wanted.file))].sort((a, b) => {
+  const rows = [...collectCyclomaticRows(inputsFor(root, wanted.filePath))].sort((a, b) => {
     if (b.cc !== a.cc) return b.cc - a.cc
     if (a.file !== b.file) return a.file.localeCompare(b.file)
     return a.line - b.line
   })
   const least = wanted.threshold
-  const over = least === null ? rows : rows.filter((one) => one.cc >= least)
+  const over = least === undefined ? rows : rows.filter((one) => one.cc >= least)
   const shown = kept(over, wanted.top)
-  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
+  if (wanted.json) return [JSON.stringify({ rows: shown })]
   return shown.map((one) => `${one.file}\t${one.function}\t${one.line}\t${one.cc}`)
 }
 
 export function halsteadLines(wanted: Wanted, root: string): readonly string[] {
-  const rows = [...collectHalsteadRows(inputsFor(root, wanted.file))].sort((a, b) => {
+  const rows = [...collectHalsteadRows(inputsFor(root, wanted.filePath))].sort((a, b) => {
     if (b.volume !== a.volume) return b.volume - a.volume
     if (a.file !== b.file) return a.file.localeCompare(b.file)
     return a.line - b.line
   })
   const least = wanted.threshold
-  const over = least === null ? rows : rows.filter((one) => one.volume >= least)
+  const over = least === undefined ? rows : rows.filter((one) => one.volume >= least)
   const shown = kept(over, wanted.top)
-  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
+  if (wanted.json) return [JSON.stringify({ rows: shown })]
   return shown.map(
     (one) =>
       `${one.file}\t${one.function}\t${one.line}\t${one.n1}\t${one.n2}\t${one.N1}\t${one.N2}\t` +
@@ -135,14 +63,14 @@ export function halsteadLines(wanted: Wanted, root: string): readonly string[] {
 }
 
 export function maintainabilityLines(wanted: Wanted, root: string): readonly string[] {
-  const rows = [...collectMaintainabilityRows(inputsFor(root, wanted.file))].sort((a, b) => {
+  const rows = [...collectMaintainabilityRows(inputsFor(root, wanted.filePath))].sort((a, b) => {
     if (a.mi !== b.mi) return a.mi - b.mi
     return a.file.localeCompare(b.file)
   })
   const most = wanted.threshold
-  const under = most === null ? rows : rows.filter((one) => one.mi <= most)
+  const under = most === undefined ? rows : rows.filter((one) => one.mi <= most)
   const shown = kept(under, wanted.top)
-  if (wanted.asJson) return [JSON.stringify({ rows: shown })]
+  if (wanted.json) return [JSON.stringify({ rows: shown })]
   return shown.map(
     (one) => `${one.file}\t${fmt(one.mi, 1)}\t${one.sloc}\t${one.ccSum}\t${fmt(one.volumeSum)}`
   )
@@ -191,7 +119,7 @@ interface Rolled {
 
 export function reportLines(wanted: Wanted, root: string): readonly string[] {
   const top = wanted.top ?? REPORT_TOP
-  const inputs = inputsFor(root, null)
+  const inputs = inputsFor(root, undefined)
   const cc = collectCyclomaticRows(inputs)
   const hs = collectHalsteadRows(inputs)
   const mi = collectMaintainabilityRows(inputs)
@@ -201,7 +129,7 @@ export function reportLines(wanted: Wanted, root: string): readonly string[] {
   const ccSaid = summaryOf(cc.map((one) => one.cc))
   const hsSaid = summaryOf(hs.map((one) => one.volume))
   const miSaid = summaryOf(mi.map((one) => one.mi))
-  if (wanted.asJson) {
+  if (wanted.json) {
     const rolled: Rolled = {
       cyclomatic: { ...ccSaid, top: ccTop },
       halstead: { ...hsSaid, top: hsTop },
