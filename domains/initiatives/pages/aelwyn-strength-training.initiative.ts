@@ -79,6 +79,9 @@ export const aelwynStrengthTraining = {
       statement:
         "How Alan is today is read from the sets Alan has just done rather than asked in advance.",
     },
+    {
+      statement: "The first movement offered is one Alan has done enough to read a drop against.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
