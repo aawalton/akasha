@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { COOK } from "akasha/temper/crafting-addon/modules/craft-cook/craft-cook.module.code.ts"
 import { FURNISHER } from "akasha/temper/crafting-addon/modules/craft-furnisher/craft-furnisher.module.code.ts"
 import * as Inventory from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
@@ -7,6 +6,7 @@ import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
 import * as Research from "akasha/temper/crafting-addon/modules/craft-research/craft-research.module.code.ts"
 import * as Utilities from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 export interface CraftSkillEntry {
   level: number

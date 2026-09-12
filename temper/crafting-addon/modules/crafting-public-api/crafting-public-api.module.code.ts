@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { AccountData } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import {
   blueprintSearch,
@@ -63,6 +62,7 @@ import {
   setTitleText,
 } from "akasha/temper/crafting-addon/modules/craft-xml-handlers/craft-xml-handlers.module.code.ts"
 import { toSet } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 

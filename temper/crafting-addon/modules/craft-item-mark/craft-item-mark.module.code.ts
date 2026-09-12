@@ -1,7 +1,7 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { COOK } from "akasha/temper/crafting-addon/modules/craft-cook/craft-cook.module.code.ts"
 import * as DataValidation from "akasha/temper/crafting-addon/modules/craft-validation/craft-validation.module.code.ts"
 import { splitLink } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

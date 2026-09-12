@@ -1,6 +1,6 @@
 import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { isCraftingRankBelowCap } from "akasha/temper/items-core/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
+import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import type { CharacterScope } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 

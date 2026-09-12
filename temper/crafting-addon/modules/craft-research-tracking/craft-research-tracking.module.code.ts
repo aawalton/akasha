@@ -1,4 +1,4 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 export function updateTrackingStatus(char: string): undefined {
   const account = STATE.Account

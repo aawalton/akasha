@@ -1,7 +1,7 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { CsCookButton } from "akasha/temper/crafting-addon/modules/craft-cooking/craft-cooking.module.code.ts"
 import * as RecipeCooking from "akasha/temper/crafting-addon/modules/craft-cooking/craft-cooking.module.code.ts"
 import * as RuneCrafting from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import {
   runeHideVanillaUI,
   runeInitialize,

@@ -1,6 +1,6 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as RuneSelection from "akasha/temper/crafting-addon/modules/craft-rune-selection/craft-rune-selection.module.code.ts"
 import { hideControl } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import {
   runeShowFavorites,
   runeShowFurnitureFavorites,

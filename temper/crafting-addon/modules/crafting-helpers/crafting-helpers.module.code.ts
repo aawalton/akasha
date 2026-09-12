@@ -1,6 +1,6 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { FURNISHER } from "akasha/temper/crafting-addon/modules/craft-furnisher/craft-furnisher.module.code.ts"
 import { RawItemTypes } from "akasha/temper/crafting-addon/modules/craft-item-types/craft-item-types.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 export function splitLink(link: string, nr: number): number | false | undefined {
   const split: Record<number, string> = [...SplitString(":", link)]

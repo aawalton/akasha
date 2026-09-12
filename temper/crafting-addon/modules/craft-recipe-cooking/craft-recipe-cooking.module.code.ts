@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import * as PlayerState from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import {
@@ -10,6 +9,7 @@ import {
   hideControl,
   toChat,
 } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

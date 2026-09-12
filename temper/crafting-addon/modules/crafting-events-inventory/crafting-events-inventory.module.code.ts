@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import {
   isLocked,
@@ -11,6 +10,7 @@ import {
   stripLink,
   updateMatsInfo,
 } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 const asSharedInventorySlotData = (value: { bagId: number }): SharedInventorySlotData =>
   value as SharedInventorySlotData

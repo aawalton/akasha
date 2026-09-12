@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { AccountPlayerEntry } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import * as CharMeta from "akasha/temper/crafting-addon/modules/craft-char-meta/craft-char-meta.module.code.ts"
 import { getCharacters } from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
@@ -18,6 +17,7 @@ import {
   mustControl,
   texture,
 } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 const defined = <T>(value: T | undefined): T =>
   value ?? error("TemperCrafting: unexpected nil in saved variables")
