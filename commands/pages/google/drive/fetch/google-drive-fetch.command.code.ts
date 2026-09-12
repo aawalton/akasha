@@ -1,5 +1,8 @@
 import { mkdir } from "node:fs/promises"
 import { basename, isAbsolute, join, resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { driveFile } from "akasha/commands/arguments/pages/drive-file.argument.ts"
+import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   codeOf,
   DATA,
@@ -12,58 +15,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-
-const SOURCE = "--source"
-
-const OUTPUT = "--output"
-
-const VALUED = new Set([SOURCE, OUTPUT])
-
-export type Read =
-  | { readonly said: ReadonlyMap<string, string> }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const words: string[] = []
-  const said = new Map<string, string>()
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      words.push(one)
-      continue
-    }
-    if (!VALUED.has(one)) {
-      refusals.push(`\`${one}\` is no flag this takes`)
-      continue
-    }
-    const value = argv[at + 1]
-    if (value === undefined || value.startsWith("--")) {
-      refusals.push(`\`${one}\` takes a value, and none followed it`)
-      continue
-    }
-    at += 1
-    if (said.has(one)) {
-      refusals.push(`\`${one}\` is said twice over, and it takes one value`)
-      continue
-    }
-    said.set(one, value)
-  }
-  const first = words[0]
-  if (first !== undefined) {
-    if (words.length > 1) {
-      refusals.push(`\`${words[1]}\` follows the file, and one call names one file`)
-    } else if (said.has(SOURCE)) {
-      refusals.push(`\`${first}\` names the file in place where \`${SOURCE}\` names it too`)
-    } else {
-      said.set(SOURCE, first)
-    }
-  }
-  if (!said.has(SOURCE)) refusals.push("this takes the file to fetch, and none was named")
-  if (refusals.length > 0) return { refused: refusals }
-  return { said }
-}
+import { googleDriveFetch as page } from "akasha/commands/pages/google/drive/fetch/google-drive-fetch.command.ts"
 
 export function folderOf(said: string | undefined, root: string, from: string): string {
   if (said === undefined) return from
@@ -129,14 +81,15 @@ export function fetchRefused(thrown: unknown, fileId: string, done: readonly str
 }
 
 async function fetching(
-  said: ReadonlyMap<string, string>,
+  source: string,
+  into: string | undefined,
   root: string,
   from: string
 ): Promise<Answer> {
   const done: string[] = []
   const files = await import("akasha/alan/google/drive/drive-files/drive-files.module.code.ts")
-  const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
-  const folder = folderOf(said.get(OUTPUT), root, from)
+  const fileId = files.parseDriveFileId(source)
+  const folder = folderOf(into, root, from)
   const { makeDriveClient } = await import(
     "akasha/alan/google/drive/drive-client/drive-client.module.code.ts"
   )
@@ -165,10 +118,11 @@ async function fetching(
 }
 
 export async function googleDriveFetch(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [output, driveFile])
   if ("refused" in read) return refusedBy(read.refused)
+  const taken = read.taken
   try {
-    return await fetching(read.said, resolve(given.root), given.from)
+    return await fetching(taken.driveFile, taken.output, resolve(given.root), given.from)
   } catch (thrown) {
     return refused(`${given.calledAs} — ${whyOf(thrown)}`, codeOf(thrown))
   }

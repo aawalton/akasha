@@ -1,18 +1,28 @@
 import { expect, test } from "bun:test"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { driveFile } from "akasha/commands/arguments/pages/drive-file.argument.ts"
+import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
   fetchRefused,
   folderOf,
   madeSaid,
-  readIn,
   wroteFile,
 } from "akasha/commands/pages/google/drive/fetch/google-drive-fetch.command.code.ts"
+import { googleDriveFetch as page } from "akasha/commands/pages/google/drive/fetch/google-drive-fetch.command.ts"
 
-const refusedBy = refusingWith(readIn)
+const CALLED_AS = "akasha google drive fetch"
+
+const NAMED = [output, driveFile] as const
+
+function refusedBy(argv: readonly string[]): readonly string[] {
+  const read = takenFor(argv, CALLED_AS, page, NAMED)
+  if (!("refused" in read)) throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
+  return read.refused
+}
 
 test("a call naming no file is refused", () => {
-  expect(refusedBy([])[0]).toContain("none was named")
+  expect(refusedBy([])[0]).toContain("nothing said it")
 })
 
 test("a flag it does not take is refused", () => {
@@ -24,17 +34,17 @@ test("a flag with no value after it is refused", () => {
 })
 
 test("the file is read from the word said in place", () => {
-  const read = readIn(["1AbC"])
+  const read = takenFor(["1AbC"], CALLED_AS, page, NAMED)
   if ("refused" in read) throw new Error("this was refused")
-  expect(read.said.get("--source")).toBe("1AbC")
+  expect(read.taken.driveFile).toBe("1AbC")
 })
 
 test("a file named in place and as a flag is refused", () => {
-  expect(refusedBy(["1AbC", "--source", "1AbC"])[0]).toContain("in place")
+  expect(refusedBy(["1AbC", "--source", "1AbC"])[0]).toContain("as a word and at its flag")
 })
 
 test("a second file is refused", () => {
-  expect(refusedBy(["1AbC", "2DeF"])[0]).toContain("one file")
+  expect(refusedBy(["1AbC", "2DeF"])[0]).toContain("said twice")
 })
 
 test("a folder named as a relative path is read against the repository root", () => {
