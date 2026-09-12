@@ -3,7 +3,6 @@ import { join, relative, resolve } from "node:path"
 import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { bodyRead, differenceOf } from "akasha/commands/modules/differing/differing.module.code.ts"
 import {
   type Discard,
   discarded,
@@ -16,6 +15,10 @@ import {
   readingIn,
   recordRead,
 } from "akasha/commands/modules/reading/reading.module.code.ts"
+import {
+  bodyRead,
+  differenceOf,
+} from "akasha/commands/pages/read/differing/differing.module.code.ts"
 import type { Run } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
 import {
   countLines,
