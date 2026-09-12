@@ -20,5 +20,9 @@ export const persistAudio = {
       statement:
         "An object store the environment has not configured is raised rather than skipped.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The object put is pushed into the caller's `done`.",
+    },
   ],
 } as const satisfies Module

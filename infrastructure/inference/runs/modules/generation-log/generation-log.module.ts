@@ -25,7 +25,15 @@ export const generationLog = {
     },
     {
       invariantKind: "departure",
+      statement: "The last part is found by halving the range rather than by reading every part.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch rewrites the one part holding the row of that id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch reads back from the last part, so a row just landed is found first.",
     },
     {
       invariantKind: "departure",

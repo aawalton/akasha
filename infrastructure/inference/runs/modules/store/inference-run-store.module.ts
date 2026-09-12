@@ -29,5 +29,13 @@ export const inferenceRunStore = {
       invariantKind: "departure",
       statement: "No run lands both an image page and an audio page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The opening and the closing of a run are each pushed into the caller's `done`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run closed as failed is named there before the failure is raised on.",
+    },
   ],
 } as const satisfies Module

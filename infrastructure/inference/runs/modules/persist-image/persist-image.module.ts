@@ -19,5 +19,9 @@ export const persistImage = {
       invariantKind: "departure",
       statement: "The cover is set after the bytes are stored rather than before.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The object put and the cover set are each pushed into the caller's `done`.",
+    },
   ],
 } as const satisfies Module

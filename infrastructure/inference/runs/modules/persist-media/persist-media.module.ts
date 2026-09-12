@@ -19,5 +19,9 @@ export const persistMedia = {
       invariantKind: "departure",
       statement: "A caller that says not to persist is obeyed whatever the operation was.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page landing is pushed into the caller's `done` before the bytes go up.",
+    },
   ],
 } as const satisfies Module

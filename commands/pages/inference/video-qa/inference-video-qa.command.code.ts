@@ -30,11 +30,11 @@ import {
   toPngDataUrl,
 } from "akasha/infrastructure/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import { serviceNamed } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import {
   finishInferenceRun,
   startInferenceRun,
-} from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 

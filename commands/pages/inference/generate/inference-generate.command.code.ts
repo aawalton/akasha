@@ -40,10 +40,10 @@ import {
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import type { InferenceService } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
 import { INFERENCE_SERVICES } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
 const PAGES = [
   guidanceArgument,

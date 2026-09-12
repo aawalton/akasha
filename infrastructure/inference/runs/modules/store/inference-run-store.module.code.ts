@@ -2,17 +2,17 @@ import {
   generationLogSlug,
   landRow,
   mergeRow,
-} from "akasha/infrastructure/inference/runs/generation-log/generation-log.module.code.ts"
+} from "akasha/infrastructure/inference/runs/modules/generation-log/generation-log.module.code.ts"
 import {
   defaultPersistAudioDeps,
   persistInferenceAudio,
   shouldPersistAudio,
-} from "akasha/infrastructure/inference/runs/persist-audio/persist-audio.module.code.ts"
+} from "akasha/infrastructure/inference/runs/modules/persist-audio/persist-audio.module.code.ts"
 import {
   defaultPersistImageDeps,
   persistInferenceImage,
   shouldPersistImage,
-} from "akasha/infrastructure/inference/runs/persist-image/persist-image.module.code.ts"
+} from "akasha/infrastructure/inference/runs/modules/persist-image/persist-image.module.code.ts"
 import {
   buildFinishPatch,
   type FinishInferenceRunInput,
