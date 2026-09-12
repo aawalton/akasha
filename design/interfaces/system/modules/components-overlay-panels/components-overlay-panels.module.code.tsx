@@ -7,7 +7,6 @@ import {
   TabsList,
   TabsTrigger,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
@@ -21,6 +20,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import {
   Popover,
   PopoverContent,

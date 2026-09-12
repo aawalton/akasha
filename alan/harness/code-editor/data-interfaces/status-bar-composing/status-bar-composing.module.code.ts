@@ -3,7 +3,7 @@ import { readFleetUsage } from "akasha/agents/claude-accounts/modules/usage/clau
 import {
   glyphsOf,
   legendOf,
-} from "akasha/alan/harness/code-editor/data-interfaces/group-stoplights/group-stoplights.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/modules/group-stoplights/group-stoplights.module.code.ts"
 import {
   HABIT,
   inPlaceOrder,

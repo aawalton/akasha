@@ -1,7 +1,7 @@
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
-} from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+} from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import {
   keyedAs,
   shownSaid,

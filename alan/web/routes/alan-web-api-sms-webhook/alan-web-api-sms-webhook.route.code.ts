@@ -3,7 +3,7 @@ import {
   type DeliverEffect,
   handleInboundSms,
   type RecordDiscardEffect,
-} from "akasha/alan/harness/sms-core/handle-inbound/handle-inbound.module.code.ts"
+} from "akasha/alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.code.ts"
 import {
   projectSmsIdentities,
   type SmsExternalIdentity,

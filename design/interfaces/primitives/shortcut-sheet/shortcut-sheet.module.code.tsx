@@ -1,6 +1,5 @@
 "use client"
 
-import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
 import {
   Dialog,
@@ -10,6 +9,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import {
   groupByLayerAndGroup,
   isChorded,

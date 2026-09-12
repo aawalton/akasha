@@ -1,7 +1,7 @@
 import type {
   AffixVariantTemplate,
   SignatureVariantTemplate,
-} from "akasha/temper/character-skills/grimoire-template/grimoire-template.module.code.ts"
+} from "akasha/temper/character-skills/modules/grimoire-template/grimoire-template.module.code.ts"
 import { getScribedSkillByGrimoireAndFocus } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
 import {
   type GrimoireId,

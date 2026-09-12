@@ -1,10 +1,10 @@
+import { upsertFilePage } from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,
   rejectDefinitionTier,
   rejectReadOnlyKeys,
   requireFileBacked,
-} from "akasha/pages/access/guards/guards.module.code.ts"
-import { upsertFilePage } from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
+} from "akasha/pages/access/modules/guards/guards.module.code.ts"
 import {
   asPageList,
   overServer,

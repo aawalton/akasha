@@ -2,8 +2,8 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { akashaRoot } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
 import type { ColumnNumber } from "akasha/code/editor/extension/modules/editor-group/editor-group.module.code.ts"
+import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import {
   identified,
   type PidTally,

@@ -1,10 +1,13 @@
-import { INTERNAL, lib } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
+import {
+  INTERNAL,
+  lib,
+} from "akasha/temper/lib-gps/modules/gps-lib-state/gps-lib-state.module.code.ts"
 import type {
   Lib,
   MapAdapterInstance,
   MeasurementInstance,
   TamrielOMeterInstance,
-} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
+} from "akasha/temper/lib-gps/modules/gps-types/gps-types.module.code.ts"
 
 function requireMeter(this: void): TamrielOMeterInstance {
   const meter = INTERNAL.meter

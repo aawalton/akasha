@@ -6,8 +6,8 @@ import "akasha/temper/lib-histoire/histoire-cache-status-bar/histoire-cache-stat
 import "akasha/temper/lib-histoire/histoire-quick-navigation/histoire-quick-navigation.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-compatibility/histoire-compatibility.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-legacy-category-lookup/histoire-legacy-category-lookup.module.code.ts"
-import "akasha/temper/lib-histoire/histoire-adapter/histoire-adapter.module.code.ts"
-import "akasha/temper/lib-histoire/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"
+import "akasha/temper/lib-histoire/modules/histoire-adapter/histoire-adapter.module.code.ts"
+import "akasha/temper/lib-histoire/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-status-selection-widget/histoire-status-selection-widget.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-status-linked-icon/histoire-status-linked-icon.module.code.ts"
@@ -29,7 +29,7 @@ import "akasha/temper/lib-histoire/histoire-legacy-event-listener/histoire-legac
 import "akasha/temper/lib-histoire/histoire-legacy-event-listener-api/histoire-legacy-event-listener-api.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-server-request/histoire-server-request.module.code.ts"
 import "akasha/temper/lib-histoire/histoire-server-request-manager/histoire-server-request-manager.module.code.ts"
-import "akasha/temper/lib-histoire/histoire-api/histoire-api.module.code.ts"
+import "akasha/temper/lib-histoire/modules/histoire-api/histoire-api.module.code.ts"
 
 import { internal } from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
 

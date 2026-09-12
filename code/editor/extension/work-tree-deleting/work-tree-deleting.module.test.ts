@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { LANDING_TIMEOUT_MS } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+import { LANDING_TIMEOUT_MS } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,

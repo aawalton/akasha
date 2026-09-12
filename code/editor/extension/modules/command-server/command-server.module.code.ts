@@ -5,7 +5,7 @@ import {
   LEASE_MS,
   leaseAsked,
   PROTOCOL,
-} from "akasha/code/editor/extension/harness-wire/harness-wire.module.code.ts"
+} from "akasha/code/editor/extension/modules/harness-wire/harness-wire.module.code.ts"
 import { module } from "akasha/code/modules/module.page-type.ts"
 import { command } from "akasha/commands/command.page-type.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"

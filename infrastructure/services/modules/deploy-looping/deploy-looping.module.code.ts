@@ -19,7 +19,7 @@ import {
   saidOfNoTree,
   treeIn,
 } from "akasha/commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
-import { headOf } from "akasha/git/head-commit/head-commit.module.code.ts"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   type Candidate,
   chosenFrom,

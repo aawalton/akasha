@@ -2,11 +2,11 @@ import { expect, test } from "bun:test"
 import type {
   ImportOutcome,
   ImportRunDeps,
-} from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+} from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
 import {
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
-} from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+} from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
 import { batch as batchArgument } from "akasha/commands/arguments/pages/batch.argument.ts"
 import { firstDay } from "akasha/commands/arguments/pages/first-day.argument.ts"
 import {

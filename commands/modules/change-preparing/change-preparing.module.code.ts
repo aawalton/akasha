@@ -6,7 +6,7 @@ import type {
   Replacing,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { steppedFor } from "akasha/code/ios-components/pages/spacing/stepping/spacing-stepping.module.code.ts"
-import { bodiesFor } from "akasha/code/module-property-groups/group-writing/group-writing.module.code.ts"
+import { bodiesFor } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
 import { textIn } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
 import { globbedFor } from "akasha/code/stylesheets/source-globbing/source-globbing.module.code.ts"

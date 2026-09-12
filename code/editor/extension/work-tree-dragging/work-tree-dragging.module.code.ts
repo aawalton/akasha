@@ -1,7 +1,7 @@
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
-} from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+} from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { VIEW_ID } from "akasha/code/editor/extension/work-tree-ids/work-tree-ids.module.code.ts"
 import { initiativeHandIntent } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
 import { initiativeMoveIntent } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.ts"

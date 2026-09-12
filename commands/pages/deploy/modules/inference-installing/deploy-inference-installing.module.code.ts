@@ -3,10 +3,6 @@ import { join, relative } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  buildGuiSessionProbeScript,
-  decideGuiSession,
-} from "akasha/infrastructure/inference/pool/gui-session/gui-session.module.code.ts"
 import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import {
   serviceDir,
@@ -20,6 +16,10 @@ import {
   syncDir,
 } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import { computeInputsHash } from "akasha/infrastructure/inference/pool/inputs-hash/inputs-hash.module.code.ts"
+import {
+  buildGuiSessionProbeScript,
+  decideGuiSession,
+} from "akasha/infrastructure/inference/pool/modules/gui-session/gui-session.module.code.ts"
 import {
   buildPoolConfig,
   buildWritePoolConfigScript,

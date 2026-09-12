@@ -7,7 +7,7 @@ import {
 } from "akasha/temper/hud-addon/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"
 import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
-import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
+import { header } from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const PANEL_ID = "TemperHudOptions"

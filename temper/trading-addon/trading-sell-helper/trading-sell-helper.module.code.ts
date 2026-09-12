@@ -33,7 +33,7 @@ import {
 import {
   createSellFlow,
   type SellFlow,
-} from "akasha/temper/trading-post/guild-store-poster/guild-store-poster.module.code.ts"
+} from "akasha/temper/trading-post/modules/guild-store-poster/guild-store-poster.module.code.ts"
 
 const DIFFERENT_QUALITY_ITEMTYPES: Record<number, true> = {
   [ITEMTYPE_GLYPH_ARMOR]: true,

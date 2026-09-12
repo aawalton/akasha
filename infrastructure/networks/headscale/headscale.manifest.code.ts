@@ -16,7 +16,7 @@ import {
   NAMESPACE,
   NAMESPACE_LABELS,
   TLS_LABELS,
-} from "akasha/infrastructure/networks/headscale-constants/headscale-constants.module.code.ts"
+} from "akasha/infrastructure/networks/modules/headscale-constants/headscale-constants.module.code.ts"
 import { ApiObject, App, Chart } from "cdk8s"
 
 const TLS_SECRET_NAME = "headscale-tls"

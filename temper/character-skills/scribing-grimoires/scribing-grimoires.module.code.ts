@@ -1,4 +1,4 @@
-import type { GrimoireTemplate } from "akasha/temper/character-skills/grimoire-template/grimoire-template.module.code.ts"
+import type { GrimoireTemplate } from "akasha/temper/character-skills/modules/grimoire-template/grimoire-template.module.code.ts"
 import { SCRIBING_GRIMOIRES_00 } from "akasha/temper/character-skills/scribing-grimoires-00/scribing-grimoires-00.module.code.ts"
 import { SCRIBING_GRIMOIRES_01 } from "akasha/temper/character-skills/scribing-grimoires-01/scribing-grimoires-01.module.code.ts"
 import { SCRIBING_GRIMOIRES_02 } from "akasha/temper/character-skills/scribing-grimoires-02/scribing-grimoires-02.module.code.ts"

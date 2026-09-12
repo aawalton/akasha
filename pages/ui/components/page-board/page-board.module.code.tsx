@@ -17,7 +17,7 @@ import {
   letGo,
   tookHold,
 } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
-import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   type BoardColumnRect,
