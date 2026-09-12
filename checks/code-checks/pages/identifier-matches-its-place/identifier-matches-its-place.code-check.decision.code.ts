@@ -15,6 +15,8 @@ const UNDER = "_"
 
 const DECLARED = ".d.ts"
 
+const DRAWN = ".tsx"
+
 const OPENING = /^[A-Z]/
 
 const THROUGH = 1
@@ -203,6 +205,16 @@ export function declaring(at: string): boolean {
   return at.endsWith(DECLARED)
 }
 
+function isExported(node: ts.Node): boolean {
+  const held = ts.isVariableDeclaration(node) ? node.parent.parent : node
+  const modifiers = ts.canHaveModifiers(held) ? ts.getModifiers(held) : undefined
+  if (modifiers === undefined) return false
+  for (const one of modifiers) {
+    if (one.kind === ts.SyntaxKind.ExportKeyword) return true
+  }
+  return false
+}
+
 function stating(node: ts.Node): boolean {
   const modifiers = ts.canHaveModifiers(node) ? ts.getModifiers(node) : undefined
   if (modifiers !== undefined) {
@@ -228,8 +240,17 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   const eachIn = (name: ts.BindingName, scope: ts.Node): undefined => {
     for (const one of namesIn(name)) placedIn(one, "name", scope)
   }
-  const taking = (name: ts.Identifier, held: ts.Node, scope: ts.Node): undefined => {
+  const drawnIn = at.endsWith(DRAWN)
+  const taking = (
+    name: ts.Identifier,
+    held: ts.Node,
+    scope: ts.Node,
+    declared: ts.Node
+  ): undefined => {
     if (drawing(held) || openedAsATag(scope, name.text)) {
+      return take(name, "component", places.componentIdentifier)
+    }
+    if (drawnIn && OPENING.test(name.text) && isExported(declared)) {
       return take(name, "component", places.componentIdentifier)
     }
     return take(name, "function", places.functionIdentifier)
@@ -239,12 +260,12 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
-      taking(node.name, node, holding ?? source)
+      taking(node.name, node, holding ?? source, node)
     }
     if (ts.isVariableDeclaration(node)) {
       const bound = node.initializer
       if (ts.isIdentifier(node.name) && bound !== undefined && boundToAFunction(node)) {
-        taking(node.name, bound, holding ?? source)
+        taking(node.name, bound, holding ?? source, node)
       } else if (holding !== null && !ts.isCatchClause(node.parent)) {
         eachIn(node.name, holding)
       }

@@ -89,8 +89,13 @@ export const identifierMatchesItsPlace = {
       statement: "The element opening with that name is looked for as far as that name reaches.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A function exported from a `.tsx` file with a name opening upper is judged a component.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A component opened as an element only from another file is judged as a function.",
+      statement: "A component in a file not named `.tsx` is judged as a function.",
     },
     {
       invariantKind: "departure",

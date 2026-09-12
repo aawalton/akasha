@@ -218,12 +218,11 @@ test("a component not in upper camel case is refused, naming it a component", ()
   expect(said[0]).toContain("`name-format/upper-camel-case`")
 })
 
-test("a function beside a component that draws nothing is still a function", () => {
-  const body = "export function RungOf() {\n  return 1\n}\n"
-  const said = refusedIn(DRAWN_AT, body, PLACES)
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("the function `RungOf`")
-  expect(said[0]).toContain("`name-format/lower-camel-case`")
+test("a function a drawn file exports with a name opening upper is a component", () => {
+  const held = "function RungOf() {\n  return 1\n}\n"
+  expect(refusedIn(DRAWN_AT, `export ${held}`, PLACES)).toEqual([])
+  expect(refusedIn(DRAWN_AT, held, PLACES)).toHaveLength(1)
+  expect(refusedIn(AT, `export ${held}`, PLACES)).toHaveLength(1)
 })
 
 test("a component bound to a name is judged as one, arrow and declaration alike", () => {
@@ -300,7 +299,7 @@ test("a declaration in an ordinary file is passed over, and a name beside it is 
 
 test("a function answering with an object holding an element draws nothing", () => {
   const held = "export function heldOver() {\n  return { slot: <p>one</p> }\n}\n"
-  const over = "export function HeldOver() {\n  return { slot: <p>one</p> }\n}\n"
+  const over = "function HeldOver() {\n  return { slot: <p>one</p> }\n}\n"
   expect(refusedIn(DRAWN_AT, held, PLACES)).toEqual([])
   const said = refusedIn(DRAWN_AT, over, PLACES)
   expect(said).toHaveLength(1)
