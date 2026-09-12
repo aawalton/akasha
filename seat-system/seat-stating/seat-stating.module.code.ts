@@ -158,19 +158,20 @@ export function addressFor(
 export async function statedSeat(
   root: string,
   stated: SeatStated,
-  seatName: string
+  seatName: string,
+  landing: Landing = runMechanicalChange
 ): Promise<Stating> {
   const page = seatPathForName(seatName)
   const there = existsSync(join(root, page))
+  const was = there ? readFileSync(join(root, page), "utf8") : null
   const addressed = addressFor(stated, page, root, there)
   const body = seatBody(stated, seatName, root, addressed)
   if (body === null) return { kind: "unstated" }
-  if (there && readFileSync(join(root, page), "utf8") === body) {
-    return { kind: "unchanged" }
-  }
-  const landed = await runMechanicalChange(
+  if (was === body) return { kind: "unchanged" }
+  const given = was === null ? { at: page, body } : { at: page, body, old: was }
+  const landed = await landing(
     root,
-    [{ at: PUT, given: { at: page, body } }],
+    [{ at: PUT, given }],
     `${seatName}: the seat is in akasha as what it states`
   )
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong

@@ -112,5 +112,10 @@ export const seatStating = {
       invariantKind: "absence",
       statement: "Nothing here runs the akasha command as a process.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page written over hands in the body read from it, and a new page hands in none.",
+    },
   ],
 } as const satisfies Module

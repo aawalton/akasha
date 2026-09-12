@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
@@ -11,6 +12,7 @@ import {
   personNamed,
   type SeatStated,
   seatBody,
+  statedSeat,
   tookSeat,
   unfiled,
 } from "akasha/seat-system/seat-stating/seat-stating.module.code.ts"
@@ -249,4 +251,32 @@ test("the page alone is taken away after that one refusal and no other", () => {
   expect(unfiled([UNFILED_SAID, HELD_LOCK])).toBe(false)
   expect(unfiled([HELD_LOCK])).toBe(false)
   expect(unfiled([])).toBe(false)
+})
+
+const SITS_NOWHERE = "nobody-sits-here"
+
+const SITS_SOMEWHERE = "olwen"
+
+async function statingAt(name: string): Promise<readonly Asking[]> {
+  let asked: readonly Asking[] = []
+  const landing: Landing = (_root, changes, _message) => {
+    asked = changes
+    return Promise.resolve({ refusals: [], code: EXIT.OPERATIONAL })
+  }
+  await statedSeat(ROOT, WHOLE, name, landing)
+  return asked
+}
+
+test("a seat written over a page already there hands in the body it read", async () => {
+  const asked = await statingAt(SITS_SOMEWHERE)
+
+  expect(asked.length).toBe(1)
+  expect(asked[0]?.given).toHaveProperty("old")
+})
+
+test("a seat written where no page is there hands in no body it read", async () => {
+  const asked = await statingAt(SITS_NOWHERE)
+
+  expect(asked.length).toBe(1)
+  expect(asked[0]?.given).not.toHaveProperty("old")
 })
