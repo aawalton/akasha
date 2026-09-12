@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   ASK_AT,
   answering,

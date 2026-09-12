@@ -8,7 +8,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   idFiled,

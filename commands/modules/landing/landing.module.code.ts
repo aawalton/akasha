@@ -68,7 +68,7 @@ import {
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"

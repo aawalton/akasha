@@ -1,14 +1,14 @@
 import { mkdirSync, readdirSync, rmSync, statSync, unlinkSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { DEPLOYS } from "akasha/files/git-place/git-place.module.code.ts"
 import {
   alive,
   holderOf,
   markIn,
   startedAt,
 } from "akasha/files/lock-holder/lock-holder.module.code.ts"
-import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
+import { DEPLOYS } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import { taken } from "akasha/git/holding/holding.module.code.ts"
+import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 
 const A_LOCK = ".lock"
 

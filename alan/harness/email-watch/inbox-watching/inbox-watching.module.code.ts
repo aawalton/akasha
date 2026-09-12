@@ -1,5 +1,5 @@
 import { recordToAgent } from "akasha/agents/messaging/modules/agent-record/agent-record.module.code.ts"
-import { mailbox } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+import { mailbox } from "akasha/alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts"
 import {
   markTold,
   oneRun,

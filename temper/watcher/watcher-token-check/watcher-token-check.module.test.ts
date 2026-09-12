@@ -22,7 +22,7 @@ function unreached(name: string): () => never {
   }
 }
 
-mock.module("akasha/pages/access/get/get.module.code.ts", () => ({
+mock.module("akasha/pages/access/modules/get/get.module.code.ts", () => ({
   getPage: async (): Promise<Page | null> => enrolment,
   getPageByIdSuffix: unreached("getPageByIdSuffix"),
   getPageByIdSuffixAcrossTypes: unreached("getPageByIdSuffixAcrossTypes"),

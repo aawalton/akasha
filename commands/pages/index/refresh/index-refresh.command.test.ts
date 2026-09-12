@@ -12,7 +12,7 @@ import {
   classed,
   indexRefresh,
 } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { indexNamed, indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everythingFiled,

@@ -16,7 +16,7 @@ import {
   LOCK_AT,
   refusedWhereHeld,
 } from "akasha/git/holding/holding.module.code.ts"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {

@@ -16,7 +16,7 @@ import {
   type Named,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
-import { told } from "akasha/git/running/git-running.module.code.ts"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import type {
   Candidate,
   Wanting,

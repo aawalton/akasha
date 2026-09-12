@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

@@ -15,7 +15,7 @@ import type {
 } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   bodyOf,

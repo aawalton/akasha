@@ -1,8 +1,4 @@
 import {
-  GmContextSchema,
-  GmReferenceSchema,
-} from "akasha/story/engine/core/gm-context-schema/gm-context-schema.module.code.ts"
-import {
   ControlledEntityKindSchema,
   GameConfigSchema,
   GameDisplayConfigSchema,
@@ -11,6 +7,10 @@ import {
   MechanicsWeightSchema,
   ResolutionSchema,
 } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import {
+  GmContextSchema,
+  GmReferenceSchema,
+} from "akasha/story/engine/core/modules/gm-context-schema/gm-context-schema.module.code.ts"
 import { NarrativeContinuitySchema } from "akasha/story/engine/core/narrative-continuity-schema/narrative-continuity-schema.module.code.ts"
 import { ResolutionMechanismSchema } from "akasha/story/engine/core/roll-schema/roll-schema.module.code.ts"
 import { z } from "zod"

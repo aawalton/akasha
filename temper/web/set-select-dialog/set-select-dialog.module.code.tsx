@@ -1,6 +1,6 @@
 "use client"
 
-import { convertIconPathToUrl } from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { canClassEquipSet } from "akasha/temper/characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
 import {
   createSetSelectConfig,

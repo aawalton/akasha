@@ -1,6 +1,6 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { said } from "akasha/git/running/git-running.module.code.ts"
+import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { keepingIn } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   aType,

@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import {
   generatedPathFor,
   writeIfChanged,
-} from "akasha/infrastructure/cluster/k8s-synth/generated-file/generated-file.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-synth/modules/generated-file/generated-file.module.code.ts"
 import { discoverSynthFiles } from "akasha/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.code.ts"
 import { describeDrift } from "akasha/infrastructure/cluster/k8s-synth/synth-drift/synth-drift.module.code.ts"
 import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/synth-loading/synth-loading.module.code.ts"

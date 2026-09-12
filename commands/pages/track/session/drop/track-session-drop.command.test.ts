@@ -11,7 +11,7 @@ import {
   ROWS_AT,
   SLEPT,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.test-fixtures.ts"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { gitIn, storeIn, TREES } from "akasha/files/git-place/git-place.module.code.ts"
+import { gitIn, storeIn, TREES } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import {
   codeMoved,
   codeStartedAt,

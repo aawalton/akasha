@@ -12,7 +12,7 @@ import {
   keptEdits,
   sweptAll,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {

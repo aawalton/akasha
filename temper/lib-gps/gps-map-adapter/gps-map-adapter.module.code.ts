@@ -1,8 +1,3 @@
-import {
-  asGlobalFnTable,
-  asGlobalObjectTable,
-  asSetMapResultFn,
-} from "akasha/temper/lib-gps/gps-casts/gps-casts.module.code.ts"
 import { INTERNAL, lib } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
 import type {
   MapAdapterClass,
@@ -10,6 +5,11 @@ import type {
   WorldSizeInstance,
 } from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 import { WorldSize } from "akasha/temper/lib-gps/gps-world-size/gps-world-size.module.code.ts"
+import {
+  asGlobalFnTable,
+  asGlobalObjectTable,
+  asSetMapResultFn,
+} from "akasha/temper/lib-gps/modules/gps-casts/gps-casts.module.code.ts"
 
 const CALIBRATION = { x: 0, y: 0 }
 

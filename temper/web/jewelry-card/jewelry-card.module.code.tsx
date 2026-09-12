@@ -10,15 +10,15 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import type { JewelryItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
 import {
   type JewelryEnchantId,
   jewelryEnchants,
 } from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { getValidSetsForSlot } from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {

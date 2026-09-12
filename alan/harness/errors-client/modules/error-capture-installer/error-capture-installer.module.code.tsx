@@ -3,7 +3,7 @@
 import {
   type ErrorApp,
   setupGlobalErrorHandlers,
-} from "akasha/alan/harness/errors-client/global-error-capture/global-error-capture.module.code.ts"
+} from "akasha/alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts"
 import { useEffect } from "react"
 
 export type ErrorCaptureInstallerProps = {

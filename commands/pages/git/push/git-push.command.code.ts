@@ -9,8 +9,8 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { gitPush as page } from "akasha/commands/pages/git/push/git-push.command.ts"
-import { git } from "akasha/git/capping/git-capping.module.code.ts"
-import { pushBranch, remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
+import { git } from "akasha/git/modules/capping/git-capping.module.code.ts"
+import { pushBranch, remoteOf } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 
 function branchIn(root: string): string | null {
   const head = git(root, ["symbolic-ref", "--short", "HEAD"])

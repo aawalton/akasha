@@ -6,7 +6,7 @@ import {
   isMediaPageId,
   resolveMediaPage,
 } from "akasha/alan/web/media-page/media-page.module.code.ts"
-import { getPage } from "akasha/pages/access/get/get.module.code.ts"
+import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { getMediaConfig } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 
 const KOKORO_VOICE = "af_heart"

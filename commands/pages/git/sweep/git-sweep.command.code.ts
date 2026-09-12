@@ -11,9 +11,15 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { gitSweep as page } from "akasha/commands/pages/git/sweep/git-sweep.command.ts"
-import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
-import type { Found, Took } from "akasha/git/store-sweeping/git-store-sweeping.module.code.ts"
-import { foundIn, takingFrom } from "akasha/git/store-sweeping/git-store-sweeping.module.code.ts"
+import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
+import type {
+  Found,
+  Took,
+} from "akasha/git/modules/store-sweeping/git-store-sweeping.module.code.ts"
+import {
+  foundIn,
+  takingFrom,
+} from "akasha/git/modules/store-sweeping/git-store-sweeping.module.code.ts"
 
 const NOTHING = "nothing akasha left is under the folder git does not track"
 

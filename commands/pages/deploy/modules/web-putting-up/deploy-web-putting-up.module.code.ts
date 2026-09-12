@@ -7,7 +7,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
+import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   alreadyBuilt,
   buildInPod,

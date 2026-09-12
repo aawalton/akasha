@@ -1,5 +1,5 @@
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { said } from "akasha/git/running/git-running.module.code.ts"
+import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 
 export function given(root: string): Given {
   return { root, calledAs: "akasha deploy", from: root, writer: null, agentId: null }

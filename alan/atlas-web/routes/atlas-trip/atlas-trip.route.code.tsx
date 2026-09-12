@@ -10,8 +10,8 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
-import { getPageByIdSuffix } from "akasha/pages/access/get/get.module.code.ts"
-import { getPagesByRelation } from "akasha/pages/access/get-by-relation/get-by-relation.module.code.ts"
+import { getPageByIdSuffix } from "akasha/pages/access/modules/get/get.module.code.ts"
+import { getPagesByRelation } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"

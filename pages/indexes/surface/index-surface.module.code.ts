@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, statSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { GIT_AT, INDEXES, storeAt } from "akasha/files/git-place/git-place.module.code.ts"
+import { GIT_AT, INDEXES, storeAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import type { Child, Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 

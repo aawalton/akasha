@@ -1,4 +1,4 @@
-import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 
 declare const TreeShaBrand: unique symbol
 export type TreeSha = string & { readonly [TreeShaBrand]: "TreeSha" }

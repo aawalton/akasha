@@ -1,4 +1,4 @@
-import { told } from "akasha/git/running/git-running.module.code.ts"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 
 const AGENT_ID = "agentId"

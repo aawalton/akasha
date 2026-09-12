@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

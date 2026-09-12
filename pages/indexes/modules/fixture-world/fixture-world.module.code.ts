@@ -1,7 +1,7 @@
 import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"

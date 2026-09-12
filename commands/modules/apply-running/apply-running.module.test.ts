@@ -21,7 +21,7 @@ import {
   landingFrom,
 } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

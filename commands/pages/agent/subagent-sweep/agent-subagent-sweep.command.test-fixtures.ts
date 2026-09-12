@@ -24,7 +24,7 @@ import {
   type RunningSaid,
   type SeatTranscripts,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

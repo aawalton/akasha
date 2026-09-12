@@ -1,5 +1,4 @@
 import { createLogger } from "akasha/temper/addon-log/library-logger/library-logger.module.code.ts"
-import { asLib } from "akasha/temper/lib-gps/gps-casts/gps-casts.module.code.ts"
 import {
   BLACKREACH_ROOT_MAP_INDEX,
   CHAT_SHORT_TAG,
@@ -8,6 +7,7 @@ import {
   TAMRIEL_MAP_INDEX,
 } from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
 import type { InternalState, Lib } from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
+import { asLib } from "akasha/temper/lib-gps/modules/gps-casts/gps-casts.module.code.ts"
 
 function createChat(this: void): LibChatMessageProxy {
   if (LibChatMessage === undefined) {

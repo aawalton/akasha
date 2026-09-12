@@ -10,14 +10,14 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
-import {
   type ArmorEnchantId,
   armorEnchants,
 } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import {
   getValidSetsForArmorSlot,
   getValidWeightsForSet,

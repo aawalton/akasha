@@ -1,4 +1,4 @@
-import { getPage } from "akasha/pages/access/get/get.module.code.ts"
+import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/pages/access/patch/patch.module.code.ts"
 import { logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {

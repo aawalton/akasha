@@ -1,4 +1,4 @@
-import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import { type UpsertPageArgs, upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"

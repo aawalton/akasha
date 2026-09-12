@@ -17,7 +17,7 @@ import {
   type DependentSourceFile,
   enumerateGlobalDependents,
   type GlobalDependentReport,
-} from "akasha/temper/addon-build/global-name-dependents/global-name-dependents.module.code.ts"
+} from "akasha/temper/addon-build/modules/global-name-dependents/global-name-dependents.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"

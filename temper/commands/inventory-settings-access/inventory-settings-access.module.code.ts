@@ -1,5 +1,5 @@
-import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { deletePages } from "akasha/pages/access/modules/deleting/deleting.module.code.ts"
+import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { upsertPage, upsertPages } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { AutomationSettingsShape } from "akasha/temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"

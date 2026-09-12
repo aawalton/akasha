@@ -15,7 +15,7 @@ import {
   getPageByIdSuffix,
   getPageByIdSuffixAcrossTypes,
   getPages,
-} from "akasha/pages/access/get/get.module.code.ts"
+} from "akasha/pages/access/modules/get/get.module.code.ts"
 import { getDescendantPageTypeSlugs } from "akasha/pages/access/page-type/page-type.module.code.ts"
 import {
   getMediaConfig,

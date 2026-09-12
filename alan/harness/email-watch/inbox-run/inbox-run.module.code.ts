@@ -1,9 +1,9 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { forwardOf } from "akasha/alan/google/email/modules/forwarded-message/forwarded-message.module.code.ts"
 import type {
   Mailbox,
   Message,
-} from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
-import { forwardOf } from "akasha/alan/google/email/modules/forwarded-message/forwarded-message.module.code.ts"
+} from "akasha/alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts"
 import { decide } from "akasha/alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"

@@ -1,4 +1,4 @@
-import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
+import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,

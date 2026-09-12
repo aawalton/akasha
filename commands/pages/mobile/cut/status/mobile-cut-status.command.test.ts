@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { fetchedSaid } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
+import { fetchedSaid } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
 import {
   OPERATIONAL,
   partWay,

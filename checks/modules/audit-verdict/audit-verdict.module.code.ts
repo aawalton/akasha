@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 
 const KEPT = ".local/state/workstation-services/audit-verdicts.json"
 

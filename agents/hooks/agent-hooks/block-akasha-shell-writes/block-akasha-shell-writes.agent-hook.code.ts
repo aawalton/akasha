@@ -21,7 +21,7 @@ import {
   wordsOf,
 } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
+import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import { z } from "zod"
 
 const HOOK_NAME = "block-akasha-shell-writes"

@@ -1,7 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import {
   mobileApps,
   resolveApp,
@@ -13,6 +12,7 @@ import {
   STAMP_GATE_OK,
   WIDGET_STAMP_MARKER,
 } from "akasha/alan/harness/mobile-cli/modules/build-stamp-gate/build-stamp-gate.module.code.ts"
+import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {
   everyPath,

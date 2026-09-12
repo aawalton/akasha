@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { dataIn } from "akasha/files/git-place/git-place.module.code.ts"
+import { dataIn } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import {
   cipherFor,
   keysBeside,

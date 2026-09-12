@@ -1,4 +1,4 @@
-import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { RelatedIdGroup } from "akasha/pages/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"

@@ -15,7 +15,7 @@ import { useDebouncedCallback } from "akasha/design/interfaces/primitives/use-de
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import type { PageFilterDimension } from "akasha/pages/core/view/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
+import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import {
   BetweenDateValueInput,
   BetweenInstantValueInput,

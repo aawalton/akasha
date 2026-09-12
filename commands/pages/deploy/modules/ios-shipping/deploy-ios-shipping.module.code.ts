@@ -1,4 +1,3 @@
-import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import {
   acquireLocalCutLock,
   releaseLocalCutLock,
@@ -12,6 +11,7 @@ import {
   readKeychainPassword,
   readRingCredentialFor,
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
+import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import {
   answeredWith,
@@ -20,7 +20,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
+import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

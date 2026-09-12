@@ -21,7 +21,7 @@ import {
   rowsIn,
   TYPE,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Facing } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"

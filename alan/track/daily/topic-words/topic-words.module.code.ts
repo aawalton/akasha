@@ -7,7 +7,7 @@ import {
   writeIntelligenceTopics,
   writeWisdomWords,
 } from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
-import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   AKASHA,

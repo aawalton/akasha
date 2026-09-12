@@ -9,7 +9,7 @@ import {
   bodyAt,
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { said } from "akasha/git/running/git-running.module.code.ts"
+import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const AT_DEPLOY = "deploy"

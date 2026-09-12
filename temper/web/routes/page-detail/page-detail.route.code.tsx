@@ -1,6 +1,6 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
-import { getPageByIdSuffix, getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { getPageByIdSuffix, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { PageDetailContent } from "akasha/pages/ui/components/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"

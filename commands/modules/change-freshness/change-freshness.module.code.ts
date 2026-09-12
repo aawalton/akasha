@@ -6,7 +6,7 @@ import {
   sameBody,
 } from "akasha/agents/read-record/read-record.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { said as gitIn, told } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn, told } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   type Facing,
   facingOn,

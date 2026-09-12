@@ -7,7 +7,7 @@ import {
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { holding, LOCK_AT, refusedWhereHeld } from "akasha/git/holding/holding.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"

@@ -6,19 +6,19 @@ import {
   OperationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
-  fetchedSaid,
-  fetchOrigin,
-  resolveRef,
-  resolveRepoRoot,
-} from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
-import {
   type MobileApp,
   shellRepoRoot,
   splitRepoPath,
   stagedWwwRepoPath,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  fetchedSaid,
+  fetchOrigin,
+  resolveRef,
+  resolveRepoRoot,
+} from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
 import { SPA_SOURCE_VAR } from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
-import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
+import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { shown } from "akasha/utils/run/running/running.module.code.ts"
 

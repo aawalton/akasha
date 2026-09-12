@@ -3,7 +3,7 @@
 import type {
   GetPagesForViewArgs,
   GetPagesForViewResult,
-} from "akasha/pages/access/get-for-view/get-for-view.module.code.ts"
+} from "akasha/pages/access/modules/get-for-view/get-for-view.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import { useViewQuery } from "akasha/pages/ui/cache/use-view-query/use-view-query.module.code.ts"

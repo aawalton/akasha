@@ -4,7 +4,7 @@ import {
   pageInHistory,
   subagentPageInHistory,
 } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 

@@ -15,7 +15,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { gitRestore as page } from "akasha/commands/pages/git/restore/git-restore.command.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { anythingThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

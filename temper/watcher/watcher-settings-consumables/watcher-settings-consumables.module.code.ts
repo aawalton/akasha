@@ -1,4 +1,4 @@
-import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { readFiles, readPages } from "akasha/pages/query/store-writing/store-writing.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"

@@ -1,4 +1,4 @@
-import { type GetPagesArgs, getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { type GetPagesArgs, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import type { PageCursor } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 

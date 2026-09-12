@@ -1,5 +1,5 @@
 import type { PlaceCandidate } from "akasha/alan/atlas-web/place-candidate/place-candidate.module.code.ts"
-import { buildGeoapifyAutocompleteUrl } from "akasha/alan/harness/geo-io/geoapify/geoapify.module.code.ts"
+import { buildGeoapifyAutocompleteUrl } from "akasha/alan/harness/geo-io/modules/geoapify/geoapify.module.code.ts"
 import { z } from "zod"
 
 const GEOAPIFY_SEARCH_LIMIT = 10

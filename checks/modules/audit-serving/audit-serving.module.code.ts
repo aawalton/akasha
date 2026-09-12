@@ -29,7 +29,7 @@ import {
 } from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
 import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import {
   championing,
   passedOn,

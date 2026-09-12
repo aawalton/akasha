@@ -48,7 +48,7 @@ import {
   glassSaid,
   unloadableIn,
 } from "akasha/git/modules/committing/committing.module.code.ts"
-import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
+import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt as textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

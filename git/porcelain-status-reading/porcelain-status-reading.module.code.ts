@@ -1,4 +1,4 @@
-import { runGitRaw } from "akasha/git/answering/git-answering.module.code.ts"
+import { runGitRaw } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import {
   PORCELAIN_STATUS_ARGS,
   type PorcelainEntry,

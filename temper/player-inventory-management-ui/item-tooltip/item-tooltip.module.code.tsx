@@ -1,6 +1,6 @@
 "use client"
 
-import { convertIconPathToUrl } from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
