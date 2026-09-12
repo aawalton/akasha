@@ -2,11 +2,6 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import {
-  HoverCard,
-  HoverCardContent,
-  HoverCardTrigger,
-} from "akasha/design/interfaces/primitives/hover-card/hover-card.module.code.tsx"
-import {
   AlertDialog,
   AlertDialogAction,
   AlertDialogCancel,
@@ -58,6 +53,11 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "akasha/design/interfaces/primitives/modules/hover-card/hover-card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 

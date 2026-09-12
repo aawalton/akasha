@@ -2,6 +2,7 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import type { PortToFriendConstants } from "akasha/temper/housing-addon/modules/housing-constants/housing-constants.module.code.ts"
 import type {
   Config,
   PortToFriendAddonState,
@@ -10,15 +11,14 @@ import type {
   PortToFriendDefaults,
   PortToFriendHacks,
   PortToFriendMenuHolder,
-} from "akasha/temper/housing-addon/housing-state-types/housing-state-types.module.code.ts"
+} from "akasha/temper/housing-addon/modules/housing-state-types/housing-state-types.module.code.ts"
 import type {
   Favorite,
   LibraryEntry,
   PurchasedHouse,
   SavedVars,
   SortedMyHouse,
-} from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
-import type { PortToFriendConstants } from "akasha/temper/housing-addon/modules/housing-constants/housing-constants.module.code.ts"
+} from "akasha/temper/housing-addon/modules/housing-types/housing-types.module.code.ts"
 
 export interface PortToFriendHolder {
   addonName: string

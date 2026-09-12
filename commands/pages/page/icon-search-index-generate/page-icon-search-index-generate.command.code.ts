@@ -28,7 +28,7 @@ import {
   rendered,
   type Staged,
   standingIn,
-} from "akasha/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts"
+} from "akasha/pages/commands/modules/icon-index-rendering/icon-index-rendering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const LUCIDE_TAG = "0.576.0"

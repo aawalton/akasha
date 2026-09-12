@@ -1,6 +1,6 @@
 "use client"
 
-import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type {
   PageDataJSON,
   PropertyDefinition,

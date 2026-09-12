@@ -1,7 +1,6 @@
 import "akasha/temper/eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
 import {
   asControl,
   asControlHandler,
@@ -12,6 +11,7 @@ import {
   controlsTree,
   nilName,
 } from "akasha/temper/housing-addon/modules/housing-build-casts/housing-build-casts.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/modules/housing-state/housing-state.module.code.ts"
 
 export function buildVcTab(this: void): undefined {
   const c = controlsTree(portToFriend.controls)

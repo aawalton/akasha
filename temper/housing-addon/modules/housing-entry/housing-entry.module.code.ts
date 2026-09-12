@@ -1,4 +1,4 @@
-import "akasha/temper/housing-addon/housing-publish/housing-publish.module.code.ts"
+import "akasha/temper/housing-addon/modules/housing-publish/housing-publish.module.code.ts"
 
 import "akasha/temper/housing-addon/modules/housing-init/housing-init.module.code.ts"
 

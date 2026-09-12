@@ -7,8 +7,8 @@ import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration
 import {
   getPtfSavedVars,
   portToFriend,
-} from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
-import type { PurchasedHouse } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
+} from "akasha/temper/housing-addon/modules/housing-state/housing-state.module.code.ts"
+import type { PurchasedHouse } from "akasha/temper/housing-addon/modules/housing-types/housing-types.module.code.ts"
 
 interface ListSlider {
   IsHidden: (this: ListSlider) => boolean

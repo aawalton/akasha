@@ -25,7 +25,7 @@ import {
 import {
   createIdSuffixPipeline,
   type IdSuffixResult,
-} from "akasha/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
+} from "akasha/pages/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 

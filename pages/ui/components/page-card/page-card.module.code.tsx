@@ -1,8 +1,8 @@
 "use client"
 
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interfaces/layout/panel-card-data/panel-card-data.module.code.ts"
-import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { IconPicker } from "akasha/design/interfaces/patterns/modules/icon-picker/icon-picker.module.code.tsx"
 import {
   Card,
   CardContent,
@@ -12,7 +12,7 @@ import {
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type {
   PageDataJSON,
   PropertyDefinition,

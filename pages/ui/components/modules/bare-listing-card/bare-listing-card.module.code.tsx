@@ -1,6 +1,6 @@
 "use client"
 
-import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { PageCard } from "akasha/pages/ui/components/page-card/page-card.module.code.tsx"

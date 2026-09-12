@@ -8,7 +8,7 @@ import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.
 import {
   getPtfSavedVars,
   portToFriend,
-} from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+} from "akasha/temper/housing-addon/modules/housing-state/housing-state.module.code.ts"
 
 function parseLuaCapture(captured: string | undefined): string | undefined {
   return captured
