@@ -6,6 +6,7 @@ export const temperCommunityAddonInstall = {
   slug: "temper-community-addon-install",
   definition: "the command installing a third-party game addon from the community site by name",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
