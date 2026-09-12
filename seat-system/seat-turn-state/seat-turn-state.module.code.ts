@@ -3,17 +3,17 @@ import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-pr
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { roleIsOnCall } from "akasha/agents/seats/modules/role-on-call/seat-role-on-call.module.code.ts"
 import {
+  anyPendingRead,
+  pendingOf,
+  pendingOn,
+  type TurnPending,
+} from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
+import {
   anyWorking,
   anyWorkingRead,
   type TurnWorking,
   workingOf,
 } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
-import {
-  anyPendingRead,
-  pendingOf,
-  pendingOn,
-  type TurnPending,
-} from "akasha/seat-system/seat-turn-pending/seat-turn-pending.module.code.ts"
 
 export const SEAT_TURN_STATES = ["working", "idle-pending", "ready", "idle", "stopped"] as const
 
