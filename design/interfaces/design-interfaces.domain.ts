@@ -11,7 +11,7 @@ export const designInterfaces = {
     "domain/design-interfaces-badges",
     "domain/design-interfaces-forms",
     "domain/design-interfaces-layout",
-    "domain/design-patterns",
+    "domain/design-interfaces-patterns",
     "domain/design-primitives",
     "domain/design-system",
   ],
