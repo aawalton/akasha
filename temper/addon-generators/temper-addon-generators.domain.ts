@@ -118,6 +118,7 @@ export const temperAddonGenerators = {
     "module/web-rule-traits",
     "module/web-rule-value",
     "module/web-rule-wanted-and-stock",
+    "module/do-not-edit",
   ],
   invariants: [
     {
