@@ -14,12 +14,7 @@ export const temperCommunityAddonInstall = {
     { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
     { said: "--json", takes: "give the outcome as JSON rather than as a tab-separated line" },
   ],
-  helpNotes: [
-    "the addon is downloaded, verified and extracted, and a step that fails refuses the call.",
-    "an entry installing a folder the deploy pipeline owns is refused rather than allowed to overwrite it.",
-    "a target folder already present is left alone unless `--force` is said.",
-    "the addon is unmanaged once installed, so nothing here keeps it up to date.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -40,6 +35,10 @@ export const temperCommunityAddonInstall = {
     {
       invariantKind: "departure",
       statement: "A download is verified before extraction.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here keeps an addon it installed up to date.",
     },
   ],
 } as const satisfies Command
