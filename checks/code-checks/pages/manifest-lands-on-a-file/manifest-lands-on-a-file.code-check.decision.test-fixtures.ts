@@ -4,7 +4,10 @@ import {
   typed,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 export const PACKAGE = "workspace-package"
 
@@ -39,6 +42,7 @@ export function rooted(prefix: string = "akasha-manifest-"): string {
   founded(root)
   typed(root, PACKAGE, "page")
   declaring(root, MANIFEST_KEY, { pageTypeSlug: FILE_PROPERTY, fileName: "package.json" })
+  listedFiled(root, PACKAGE, "held", [{ path: PAGE_AT, id: ID }])
   valueAlsoFiled(root, PACKAGE, [
     { path: PAGE_AT, value: { id: ID, pageTypeSlug: PACKAGE, slug: "held" } },
   ])
