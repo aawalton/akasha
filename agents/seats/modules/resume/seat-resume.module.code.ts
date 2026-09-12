@@ -1,4 +1,4 @@
-import { readTranscriptMtimeMs } from "akasha/agents/io-probe/io-probe.module.code.ts"
+import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import {
   describeAckTimeout,
   setRequestedAction,

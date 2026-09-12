@@ -1,5 +1,3 @@
-import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
-import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { getConfiguredBufferSlots } from "akasha/temper/items-addon/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
@@ -29,10 +27,12 @@ import {
   evaluateRules,
   findMatchedRule,
 } from "akasha/temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { slotKey } from "akasha/temper/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const BANK_CHARACTER_PREFIX = "character:"
 

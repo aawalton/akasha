@@ -12,8 +12,8 @@ import {
   createSaveQueue,
   type SaveQueue,
 } from "akasha/pages/ui/block-editor/save-queue/save-queue.module.code.ts"
-import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 import { useCallback, useRef } from "react"
 import { toast } from "sonner"
 

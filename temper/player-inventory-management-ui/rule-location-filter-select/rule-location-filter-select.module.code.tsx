@@ -35,7 +35,7 @@ export function RuleLocationFilterSelect({
 }: {
   ruleLocation: string | null
   inventory:
-    | import("akasha/temper/items-core/inventory-types/inventory-types.module.code.ts").InventoryDatabase
+    | import("akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts").InventoryDatabase
     | null
   onRuleLocationChange: (location: string | null) => void
 }) {

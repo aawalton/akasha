@@ -1,4 +1,4 @@
-import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
 
 type MetatableView = { __index?: Record<string | number, unknown> } | undefined
 

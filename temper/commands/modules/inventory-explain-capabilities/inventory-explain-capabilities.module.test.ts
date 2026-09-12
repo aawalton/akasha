@@ -8,7 +8,7 @@ import {
 import type {
   InventoryDatabase,
   InventoryItemData,
-} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 
 function itemAt(itemId: number, itemName: string): InventoryItemData {
   return {

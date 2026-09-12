@@ -1,4 +1,3 @@
-import { migrateLocksToTemperLocks } from "akasha/temper/items-addon/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
 import { registerAutoMaintenanceEvents } from "akasha/temper/items-addon/modules/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"
 import {
   hideBankActionPanel,
@@ -76,6 +75,7 @@ import {
 import { registerAutoListResultEvents } from "akasha/temper/items-addon/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { registerVenueDispatchEvents } from "akasha/temper/items-addon/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/items-addon/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { migrateLocksToTemperLocks } from "akasha/temper/items-addon/modules/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
 
 const NET_WORTH_DEBOUNCE_MS = 500
 let netWorthRecomputePending = false

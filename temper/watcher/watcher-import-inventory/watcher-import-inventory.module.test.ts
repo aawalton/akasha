@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { ExcludedLocation } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { NetWorthResult } from "akasha/temper/items-core/modules/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   countInventory,
   excludedValueOf,

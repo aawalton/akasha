@@ -1,10 +1,5 @@
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import type {
-  InventoryDatabase,
-  PriceSource,
-} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
 import {
   type ExcludedLocation,
   type ExclusionReason,
@@ -14,6 +9,11 @@ import { readManagedGuildBanks } from "akasha/temper/items-core/modules/inventor
 import { computeNetWorth } from "akasha/temper/items-core/modules/inventory-net-worth/inventory-net-worth.module.code.ts"
 import type { NetWorthResult } from "akasha/temper/items-core/modules/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
+import type {
+  InventoryDatabase,
+  PriceSource,
+} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { computeInventoryTotalValue } from "akasha/temper/items-core/modules/inventory-value/inventory-value.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
 import { inventorySnapshotName } from "akasha/temper/watcher/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {

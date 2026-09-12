@@ -1,5 +1,5 @@
 import { answerPricingPost } from "akasha/temper/web/pricing-post-answer/pricing-post-answer.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 type RequestBody = {
   wtToken: string

@@ -2,11 +2,6 @@ import "akasha/temper/items-addon/modules/inventory-public-api/inventory-public-
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { startPerfTrace } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { pruneStaleTemperLocks } from "akasha/temper/items-addon/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
-import { registerTooltipHook } from "akasha/temper/items-addon/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"
-import { registerTooltipLockIcon } from "akasha/temper/items-addon/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"
-import { registerRuleTooltipHook } from "akasha/temper/items-addon/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"
-import { probeMasterWrits } from "akasha/temper/items-addon/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts"
 import { initializeInventoryActionPanel } from "akasha/temper/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"
 import { initializeBankActionPanel } from "akasha/temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"
 import {
@@ -54,6 +49,11 @@ import {
   pruneDeletedCharacters,
 } from "akasha/temper/items-addon/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { pruneStaleTemperLocks } from "akasha/temper/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import { registerTooltipHook } from "akasha/temper/items-addon/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"
+import { registerTooltipLockIcon } from "akasha/temper/items-addon/modules/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"
+import { registerRuleTooltipHook } from "akasha/temper/items-addon/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"
+import { probeMasterWrits } from "akasha/temper/items-addon/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts"
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()

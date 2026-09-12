@@ -4,7 +4,7 @@ import type {
   MorphCharacterRow,
 } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { computeCharacterCanLevelMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-checker/skill-morphs-checker.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 function isMorphCharacterCompletion(value: unknown): value is MorphCharacterCompletion {
   return isObjectRecord(value)

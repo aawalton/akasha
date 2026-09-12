@@ -12,8 +12,8 @@ import {
 import { createDefaultRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
-import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 

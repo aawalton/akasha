@@ -1,4 +1,4 @@
-import { readTranscriptMtimeMs } from "akasha/agents/io-probe/io-probe.module.code.ts"
+import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   busyTrail,

@@ -29,7 +29,7 @@ import {
   parsePageHrefParam,
 } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
 

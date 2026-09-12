@@ -3,7 +3,7 @@ import { listingConfigSchema } from "akasha/pages/core/schema/listing-config/lis
 import { mediaConfigSchema } from "akasha/pages/core/schema/media-config/media-config.module.code.ts"
 import { detailConfigSchema } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { sequenceConfigSchema } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import * as z from "zod"
 
 export type ReadonlyJSONValue =

@@ -1,8 +1,4 @@
 import {
-  buildEnsureAppStoreProfile,
-  buildLoginOnlyKeychainScope,
-} from "akasha/alan/harness/mobile-cli/ios-signing/ios-signing.module.code.ts"
-import {
   buildAcquireMacBuildLock,
   buildChooseBuildNumber,
   buildReleaseMacBuildLock,
@@ -29,6 +25,10 @@ import {
   CHECKOUT_ROOT,
   SCRIPT_HEADER,
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
+import {
+  buildEnsureAppStoreProfile,
+  buildLoginOnlyKeychainScope,
+} from "akasha/alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
   readonly app: MobileApp

@@ -28,8 +28,8 @@ import {
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 
 export type FileReadShape = {
   readonly pageTypeId: string

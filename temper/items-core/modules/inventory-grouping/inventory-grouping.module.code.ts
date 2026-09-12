@@ -1,7 +1,3 @@
-import type {
-  InventoryDatabase,
-  InventoryLocationData,
-} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { CategoryPath } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   classifyLocation,
@@ -23,6 +19,10 @@ import {
   type InventoryTypeSummary,
   isInventoryTypeCategory,
 } from "akasha/temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import type {
+  InventoryDatabase,
+  InventoryLocationData,
+} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 
 interface FilterableGroup {
   items: readonly InventoryItemRow[]

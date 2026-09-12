@@ -7,7 +7,7 @@ import type {
   ShifterBoxList,
   Valued,
 } from "akasha/temper/lib-shifter-box/shifter-types/shifter-types.module.code.ts"
-import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
+import { isCallback } from "akasha/temper/narrow/modules/is-callback/is-callback.module.code.ts"
 
 export function getDeepClonedTable<T>(sourceTable: T | undefined): T | undefined {
   if (sourceTable === undefined) return undefined

@@ -14,8 +14,8 @@ import type {
   ViewEffect,
   ViewRow,
 } from "akasha/pages/core/view-state/view-state-change/view-state-change.module.code.ts"
-import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 function escapePointer(segment: string): string {
   return segment.replace(/~/g, "~0").replace(/\//g, "~1")

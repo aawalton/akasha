@@ -10,7 +10,7 @@ import {
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "akasha/temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import fc from "fast-check"
 
 function makeSkillPoints(over: {

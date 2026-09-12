@@ -6,7 +6,7 @@ import type {
   TooltipValue,
   Valued,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
-import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
+import { isCallback } from "akasha/temper/narrow/modules/is-callback/is-callback.module.code.ts"
 
 const wm = WINDOW_MANAGER
 

@@ -23,7 +23,7 @@ import {
 } from "akasha/temper/lorebooks/lorebooks-pins/lorebooks-pins.module.code.ts"
 import { getQuestLocation } from "akasha/temper/lorebooks/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
-import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
 
 export const PIN_TOOLTIP_STATE: { informationTooltip: unknown } = {
   informationTooltip: undefined,

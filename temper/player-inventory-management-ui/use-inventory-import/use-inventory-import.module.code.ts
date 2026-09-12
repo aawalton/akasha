@@ -8,8 +8,8 @@ import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticUpsertPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
-import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
+import { computeInventoryTotalValue } from "akasha/temper/items-core/modules/inventory-value/inventory-value.module.code.ts"
 import {
   type ExistingChunkRow,
   type ExistingSnapshotRow,

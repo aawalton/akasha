@@ -29,7 +29,7 @@ import {
 } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
-import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
 
 export interface ShalidorPinTag {
   readonly [SHALIDOR_LOCATION_X]: number

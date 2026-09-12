@@ -1,4 +1,4 @@
-import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import { askSupervisorDecide } from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import {

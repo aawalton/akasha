@@ -1,8 +1,4 @@
 import {
-  clearWritCraftQueue,
-  onWritCraftCompleted,
-} from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
-import {
   flushJunkGate,
   openJunkGate,
 } from "akasha/temper/items-addon/modules/inventory-junk-queue/inventory-junk-queue.module.code.ts"
@@ -17,6 +13,10 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"
 import { onTradingHouseClosed } from "akasha/temper/items-addon/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/items-addon/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import {
+  clearWritCraftQueue,
+  onWritCraftCompleted,
+} from "akasha/temper/items-addon/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 export function registerVenueDispatchEvents(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_OpenStore`,

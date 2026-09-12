@@ -1,4 +1,4 @@
-import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
+import { slotKey } from "akasha/temper/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 
 let gateOpen = false
 

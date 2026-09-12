@@ -19,9 +19,9 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string

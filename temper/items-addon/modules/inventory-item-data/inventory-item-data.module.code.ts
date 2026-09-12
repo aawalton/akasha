@@ -1,8 +1,8 @@
-import { isTemperLocked } from "akasha/temper/items-addon/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 import { captureOrNull } from "akasha/temper/items-addon/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { isItemLinkQuestRelevant } from "akasha/temper/items-addon/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { ItemData } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import type { PriceSource } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { isTemperLocked } from "akasha/temper/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import type { PriceSource } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 export function resolvePriceSource(): PriceSource {
   return TamrielTradeCentrePrice === undefined ? "none" : "ttc"
 }

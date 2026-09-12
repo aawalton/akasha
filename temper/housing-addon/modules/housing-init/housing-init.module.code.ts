@@ -44,7 +44,7 @@ import {
 import { portToFriend } from "akasha/temper/housing-addon/modules/housing-state/housing-state.module.code.ts"
 import type { SavedVars } from "akasha/temper/housing-addon/modules/housing-types/housing-types.module.code.ts"
 import { registerUiStrings } from "akasha/temper/housing-addon/modules/housing-ui-strings/housing-ui-strings.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 registerUiStrings()
 

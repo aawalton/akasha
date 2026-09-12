@@ -4,8 +4,8 @@ import {
   asPageRow,
   type PageRow,
 } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { jsonEqual } from "akasha/utils/narrow/json-equal/json-equal.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 export const DEFAULT_TICK_MS = 250
 

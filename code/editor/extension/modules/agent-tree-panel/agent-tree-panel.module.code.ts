@@ -3,7 +3,6 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { invokedSeat } from "akasha/code/editor/extension/invoked-seat/invoked-seat.module.code.ts"
 import { countRows } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "akasha/code/editor/extension/modules/agent-page-opening/agent-page-opening.module.code.ts"
 import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
@@ -35,6 +34,7 @@ import {
 import { createColumnMemory } from "akasha/code/editor/extension/modules/column-memory/column-memory.module.code.ts"
 import { sampleColumns } from "akasha/code/editor/extension/modules/column-sampling/column-sampling.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
+import { invokedSeat } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import { newestWins } from "akasha/code/editor/extension/newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "akasha/code/editor/extension/seat-act-confirm/seat-act-confirm.module.code.ts"

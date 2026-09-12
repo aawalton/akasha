@@ -1,8 +1,8 @@
+import { currencies } from "akasha/temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryCurrencies,
-} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import { currencies } from "akasha/temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
+} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 
 interface CurrencySummaryRow {
   key: string
