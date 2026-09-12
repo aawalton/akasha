@@ -71,6 +71,22 @@ export const modelGatewaySwap = {
       statement:
         "A seat that did not take the swap up before the wait ran out is refused as an operational fault.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each seat is named as soon as that seat holds the ask.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A swap that threw part way names those seats in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat holding the ask swaps whether or not this call lives to say so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The asking this runs is handed in.",
+    },
   ],
   name: "swap",
   arguments: [{ argument: "argument/json" }],

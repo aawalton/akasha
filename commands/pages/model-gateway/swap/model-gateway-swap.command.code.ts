@@ -3,6 +3,7 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
+  partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -67,12 +68,21 @@ export function readIn(argv: readonly string[]): Read {
   return { target, on }
 }
 
-type Outcome = "swapped" | "no-live-proxy" | "timeout"
+export type Outcome = "swapped" | "no-live-proxy" | "timeout"
 
-async function swapped(agentId: string): Promise<Outcome> {
+export type Held = { readonly agentId: string; readonly status: Outcome }
+
+export function askedSaid(agentId: string): string {
+  return `${agentId} holds the ask to swap its gateway, so that gateway swaps whatever follows`
+}
+
+export type Asking = (agentId: string, done: string[]) => Promise<Outcome>
+
+async function swapped(agentId: string, done: string[]): Promise<Outcome> {
   const state = readProxyState(agentId)
   if (state == null || !pidAliveOrRefuse(state.pid)) return "no-live-proxy"
   await setRequestedAction(agentId, { action: ACTION })
+  done.push(askedSaid(agentId))
   const said = await waitForActionCleared(agentId)
   return said.ok ? "swapped" : "timeout"
 }
@@ -81,17 +91,36 @@ function waiting(ms: number): Promise<void> {
   return new Promise((done) => setTimeout(done, ms))
 }
 
-async function fleeting(on: ReadonlySet<string>, report: string[]): Promise<Answer> {
-  const live = liveSeats()
-  const held: { agentId: string; status: Outcome }[] = []
-  for (const [at, seat] of live.entries()) {
-    const status = await swapped(seat.agentId).catch((thrown: unknown): Outcome => {
-      report.push(`${seat.agentId} would not answer — ${whyOf(thrown)}`)
+export async function askedEach(
+  seats: readonly string[],
+  asking: Asking,
+  report: string[],
+  done: string[]
+): Promise<readonly Held[]> {
+  const held: Held[] = []
+  for (const [at, agentId] of seats.entries()) {
+    const status = await asking(agentId, done).catch((thrown: unknown): Outcome => {
+      report.push(`${agentId} would not answer — ${whyOf(thrown)}`)
       return "timeout"
     })
-    held.push({ agentId: seat.agentId, status })
-    if (at < live.length - 1) await waiting(STAGGER_MS)
+    held.push({ agentId, status })
+    if (at < seats.length - 1) await waiting(STAGGER_MS)
   }
+  return held
+}
+
+async function fleeting(
+  on: ReadonlySet<string>,
+  report: string[],
+  done: string[],
+  asking: Asking
+): Promise<Answer> {
+  const held = await askedEach(
+    liveSeats().map((seat) => seat.agentId),
+    asking,
+    report,
+    done
+  )
   const timedOut = held.filter((one) => one.status === "timeout")
   if (on.has(JSON_OUT)) {
     report.push(JSON.stringify({ ok: timedOut.length === 0, seats: held }))
@@ -107,12 +136,17 @@ async function fleeting(on: ReadonlySet<string>, report: string[]): Promise<Answ
   }
 }
 
-async function swapping(read: Taken, report: string[]): Promise<Answer> {
-  if (read.on.has(FLEET)) return await fleeting(read.on, report)
+async function swapping(
+  read: Taken,
+  report: string[],
+  done: string[],
+  asking: Asking
+): Promise<Answer> {
+  if (read.on.has(FLEET)) return await fleeting(read.on, report, done, asking)
   const target = read.target ?? ""
   const found = resolveSeatTarget(target)
   if ("error" in found) return refused(found.error, INPUT)
-  const status = await swapped(found.id)
+  const status = await asking(found.id, done)
   if (status === "timeout") {
     return {
       report,
@@ -134,14 +168,23 @@ async function swapping(read: Taken, report: string[]): Promise<Answer> {
   return { report, refusals: [], code: OK }
 }
 
-export async function modelGatewaySwap(argv: readonly string[], given: Given): Promise<Answer> {
+export async function modelGatewaySwap(
+  argv: readonly string[],
+  given: Given,
+  asking: Asking = swapped
+): Promise<Answer> {
   void given
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
   const report: string[] = []
+  const done: string[] = []
   try {
-    return await swapping(read, report)
+    return await swapping(read, report, done, asking)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: codeOf(thrown) }
+    return {
+      report: [...report, ...done],
+      refusals: [whyOf(thrown), ...partWay(done)],
+      code: codeOf(thrown),
+    }
   }
 }
