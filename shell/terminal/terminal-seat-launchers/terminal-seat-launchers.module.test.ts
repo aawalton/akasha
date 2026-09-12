@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
+import { ptyProxyRel } from "akasha/agents/seats/modules/entry-paths/seat-entry-paths.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
-import { ptyProxyRel } from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
 import { HANDLER } from "akasha/seat-system/seat-naming/seat-naming.module.code.ts"
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import { parses } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.test-fixtures.ts"

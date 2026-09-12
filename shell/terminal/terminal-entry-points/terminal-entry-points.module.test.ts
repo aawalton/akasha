@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   ptyProxyRel,
   seatResumeRel,
   supervisorRel,
-} from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
+} from "akasha/agents/seats/modules/entry-paths/seat-entry-paths.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   akashaCommand,
   proxy,

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { ptyProxyRel } from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
+import { ptyProxyRel } from "akasha/agents/seats/modules/entry-paths/seat-entry-paths.module.code.ts"
 import {
   claudeNewAccountFn,
   supervisorFn,
