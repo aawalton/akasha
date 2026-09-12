@@ -22,27 +22,34 @@ export const infrastructureService = {
     { said: "<slug>", takes: "the service acted on, named by the slug its page carries" },
     { said: "--dry-run", takes: "say what would happen and change nothing" },
   ],
-  helpNotes: [
-    "the act is first and one call names one act.",
-    "a service is named for `start`, `stop` and `restart`, and one is started, stopped or restarted at a time.",
-    "`sweep` names no service, since it reaches every unit of ours at once.",
-    "`run` runs one service in this process out of the code its `running` group holds beside its page.",
-    "a service whose `running` code is not there, or exports no `runService`, is refused by name rather than run.",
-    "`run` asks systemd nothing, so a service already under systemd is left running where it is.",
-    "a scheduled service is reached by its timer, and one that is not by its service unit.",
-    "a unit is written under your home and reached by a link systemd reads, which is how it is known to be ours.",
-    "a unit of ours the pages no longer account for is stopped, disabled and taken away by `sweep`.",
-    "a unit file staged under your home that no link reaches is stranded, and `sweep` takes it away too.",
-    "a stranded file is said apart from an installed unit, since taking it away asks systemd nothing.",
-    "`sweep` answers nothing only where installed and staged alike are accounted for by a page.",
-    "putting a service's units where systemd reads them is `akasha deploy`, which nothing here does.",
-    "a systemctl that refuses is carried back as a refusal rather than printed beside a success.",
-    "`run` runs under no ceiling on the wall clock, since a service runs until it is stopped.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The act is first and the service acted on is after the act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One call names one act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start, a stop and a restart each name one service, and one at a time.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run asks systemd nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scheduled service is reached by its timer and any other by its service unit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit is ours where a link systemd reads reaches a file staged under the home.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep stops and disables a unit of ours before taking that unit away.",
     },
     {
       invariantKind: "departure",
