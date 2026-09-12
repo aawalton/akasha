@@ -8,16 +8,6 @@ export const akashaFolderShape = {
   persona: "akasha",
   intents: [
     {
-      statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
-      workingMemory:
-        "The shapes are one of logic: if any shape matches, the folder is fine, and two shapes need not agree. So a refused folder is answered by changing the folder or adding a shape, never by loosening a shape that declines it. Alan has refused enabling `pages-of-one-type`. This check runs at no phase, so nothing judges a folder at landing and the intent can go un-met in silence; enabling it is Alan's and follows zero refusals. The tests read the held folder names from the shapes' own `HOLDS` now.\n",
-    },
-    {
-      statement: "A check determines whether a folder should be a workspace package.",
-      workingMemory:
-        "`manifest` alone makes the package: `workspace-package` extends `domain` and adds it, and the root names `workspaces` as a pattern. `unnamedIn` waives any reach whose name some manifest states, so `manifest-names-what-is-reached` guards no cross-package workspace import. 3525 of 10958 files spelling an `@akasha/` import sit under no manifest and nothing judges them. `specifier-names-a-package` is built and clean, held off every phase until Alan approves it.\n",
-    },
-    {
       statement: "No relation value lands that akasha cannot key to one page.",
       workingMemory:
         "`add-property-record`, `change-property-record-field` and `add-property-value` now name `relation-reaches-a-page`. `add-page-property` is held: `move-property-on-every-page` reaches it, and the guard judges every relation on every page written, so it judges a whole migration batch. Land it once the wide renames are done. The acts writing only the empty string state why they name none. `relation-resolves` is the only reading of reachability and is `runsOnAudit: false`; clean over 122519 files.",
@@ -31,6 +21,16 @@ export const akashaFolderShape = {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
       workingMemory:
         "Twelve shapes are enabled, each written on its own. Seven differ only in the folder name that shape publishes as `HOLDS`: pages, properties, sections, scripts, modules, property pages and workstation services, each judging that one folder under the page above. Three differ only in what the single page in the folder is: a page, a domain, a page type. A pattern is worth replacing shapes with only where it refuses every folder those shapes refuse.\n",
+    },
+    {
+      statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
+      workingMemory:
+        "The shapes are one of logic: if any shape matches, the folder is fine, and two shapes need not agree. So a refused folder is answered by changing the folder or adding a shape, never by loosening a shape that declines it. Alan has refused enabling `pages-of-one-type`. This check runs at no phase, so nothing judges a folder at landing and the intent can go un-met in silence; enabling it is Alan's and follows zero refusals. The tests read the held folder names from the shapes' own `HOLDS` now.\n",
+    },
+    {
+      statement: "A check determines whether a folder should be a workspace package.",
+      workingMemory:
+        "`manifest` alone makes the package: `workspace-package` extends `domain` and adds it, and the root names `workspaces` as a pattern. `unnamedIn` waives any reach whose name some manifest states, so `manifest-names-what-is-reached` guards no cross-package workspace import. 3525 of 10958 files spelling an `@akasha/` import sit under no manifest and nothing judges them. `specifier-names-a-package` is built and clean, held off every phase until Alan approves it.\n",
     },
   ],
   constraints: [
