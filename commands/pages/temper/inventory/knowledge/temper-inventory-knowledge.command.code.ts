@@ -1,4 +1,9 @@
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -9,10 +14,6 @@ import {
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const CHAR = "--char"
 
@@ -181,11 +182,11 @@ export async function temperInventoryKnowledge(
       name: one.name,
       knows: knowsItem(one, key, STYLE_TO_CHAPTERS),
     }))
-    if (read.json) return { report: [JSON.stringify(rows)], refusals: [], code: 0 }
+    if (read.json) return { report: [JSON.stringify(rows)], refusals: [], code: OK }
     return {
       report: rows.map((one) => `${one.id}\t${one.name ?? ""}\t${one.knows}`),
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
   const rows = selected.map((one) => ({
@@ -198,7 +199,7 @@ export async function temperInventoryKnowledge(
   if (read.json) {
     const first = rows[0]
     const held = read.charId !== null && first !== undefined ? first : rows
-    return { report: [JSON.stringify(held)], refusals: [], code: 0 }
+    return { report: [JSON.stringify(held)], refusals: [], code: OK }
   }
   return {
     report: rows.map(
@@ -206,6 +207,6 @@ export async function temperInventoryKnowledge(
         `${one.id}\t${one.name ?? ""}\t${one.recipeCount}\t${one.motifCount}\t${one.scriptCount}`
     ),
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
