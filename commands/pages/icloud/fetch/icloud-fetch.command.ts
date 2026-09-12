@@ -17,14 +17,7 @@ export const icloudFetch = {
       takes: "report each written path as a JSON object rather than as a path alone",
     },
   ],
-  helpNotes: [
-    "the album is named in place or as a flag, and naming it both ways over is refused.",
-    "the share link alone reaches the album, so no Apple account and no credential is asked for.",
-    "the album is walked a page at a time until no photo is left, and every original resource is written as it is stored.",
-    "two photos of one name land under names told apart rather than one written over the other.",
-    "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
-    "an album holding no photo is answered as the data rather than as an empty run.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
