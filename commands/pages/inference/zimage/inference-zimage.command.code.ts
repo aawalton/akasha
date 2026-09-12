@@ -3,7 +3,7 @@ import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
 import {
-  codeOf,
+  answering,
   INPUT,
   refusedBy,
   told,
@@ -148,9 +148,43 @@ function homeIn(): string {
   return optionalEnv("ZIMAGE_HOME") ?? join(homedir(), ".local", "share", "zimage")
 }
 
+export type Staging = {
+  readonly copied: (from: string, to: string) => Promise<void>
+  readonly renamed: (from: string, to: string) => Promise<void>
+}
+
+export const STAGING: Staging = { copied: copyFile, renamed: rename }
+
+export function scratchAt(dest: string): string {
+  return `${dest}.staging-${String(process.pid)}`
+}
+
+export function copiedSaid(scratch: string): string {
+  return `the checkpoint is copied to ${scratch}`
+}
+
+export function stagedSaid(name: string): string {
+  return `the checkpoint is staged as loras/${name}`
+}
+
+export async function stagedInto(
+  sourcePath: string,
+  dest: string,
+  staging: Staging,
+  done: string[]
+): Promise<undefined> {
+  const scratch = scratchAt(dest)
+  await staging.copied(sourcePath, scratch)
+  done.push(copiedSaid(scratch))
+  await staging.renamed(scratch, dest)
+  done.push(stagedSaid(basename(dest)))
+  return undefined
+}
+
 async function staged(
   sourcePath: string,
-  lorasDir: string
+  lorasDir: string,
+  done: string[]
 ): Promise<{ readonly name: string } | { readonly why: string }> {
   let came: Awaited<ReturnType<typeof stat>>
   try {
@@ -166,13 +200,11 @@ async function staged(
   const found = await stat(dest).catch(() => undefined)
   if (found !== undefined && found.size === came.size) return { name }
   await mkdir(lorasDir, { recursive: true })
-  const scratch = `${dest}.staging-${process.pid}`
-  await copyFile(sourcePath, scratch)
-  await rename(scratch, dest)
+  await stagedInto(sourcePath, dest, STAGING, done)
   return { name }
 }
 
-async function generating(read: Taken, given: Given, report: string[]): Promise<Answer> {
+async function generating(read: Taken, given: Given, done: string[]): Promise<Answer> {
   const said = read.said
   const prompt = said.get("--prompt") ?? ""
   const outPath = at(given, said.get("--output") ?? "")
@@ -197,7 +229,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
 
   const baseModel = said.get("--base-model")
   if (baseModel !== undefined) {
-    report.push(
+    done.push(
       `\`--base-model\` said \`${baseModel}\`, which is passed over — the render goes through \`${modelId}\``
     )
   }
@@ -211,10 +243,10 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
         INPUT
       )
     }
-    const held = await staged(at(given, loraSaid), join(homeIn(), "models", "loras"))
+    const held = await staged(at(given, loraSaid), join(homeIn(), "models", "loras"), done)
     if ("why" in held) return refused(held.why, INPUT)
     loraName = held.name
-    report.push(`the checkpoint is staged as loras/${loraName}, mixed in at ${loraStrength}`)
+    done.push(`loras/${loraName} is mixed in at ${loraStrength}`)
   }
 
   const baseUrl = `http://127.0.0.1:${portIn()}`
@@ -235,7 +267,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
       }),
     pollDeadlineMs: waiting,
     onProgress: (one: string) => {
-      report.push(one)
+      done.push(one)
       return undefined
     },
   })
@@ -243,17 +275,12 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
   const png = await fetchImage(baseUrl, run.image)
   await mkdir(dirname(outPath), { recursive: true })
   await writeFile(outPath, png)
-  report.push(`${png.byteLength} bytes are at ${outPath}, at seed ${seed}`)
-  return told(report)
+  done.push(`${png.byteLength} bytes are at ${outPath}, at seed ${seed}`)
+  return told(done)
 }
 
 export async function inferenceZimage(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  const report: string[] = []
-  try {
-    return await generating(read, given, report)
-  } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: codeOf(thrown) }
-  }
+  return await answering(async (done) => await generating(read, given, done))
 }
