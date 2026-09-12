@@ -15,8 +15,6 @@ export const imessageSend = {
       said: "<name-or-handle>",
       takes: "the same recipient, said as a word rather than at its flag",
     },
-    { said: "--text <body>", takes: "the message body" },
-    { said: "--image <path>", takes: "a file hung off the message, ten megabytes at most" },
   ],
   invariants: [
     {
@@ -52,7 +50,13 @@ export const imessageSend = {
       invariantKind: "departure",
       statement: "A body read from a file has no closing line ending.",
     },
+    { invariantKind: "departure", statement: "A picture a call names is hung off the message." },
   ],
   name: "send",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/text-file" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/text-file" },
+    { argument: "argument/text" },
+    { argument: "argument/image" },
+  ],
 } as const satisfies Command
