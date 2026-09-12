@@ -52,7 +52,9 @@ test("nothing said is refused, saying an album is needed", async () => {
   const said = await icloudFetch([], given())
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toBe("`akasha icloud fetch` takes `--url`, and nothing said it")
+  expect(said.refusals[0]).toBe(
+    "`akasha icloud fetch` takes `<share-url>` or `--url`, and nothing said it"
+  )
 })
 
 test("a flag it does not take is refused", async () => {
@@ -71,7 +73,7 @@ test("an album named in place and as a flag is refused", async () => {
   const said = await icloudFetch([ALBUM, "--url", ALBUM], given())
 
   expect(said.refusals[0]).toBe(
-    "`--url` is said as a word and at its flag, and one call says it one way"
+    "`<share-url>` is said as a word and `--url` at its flag, and one call says it one way"
   )
 })
 
