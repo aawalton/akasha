@@ -11,6 +11,7 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Read, Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
@@ -21,8 +22,6 @@ import {
   readingArgv,
   startedOn,
 } from "akasha/commands/pages/music/play/music-play.command.code.ts"
-
-const INPUT = 1
 
 const TAKING_VALUE: readonly string[] = [ARTIST, DEVICE_ID]
 
@@ -104,7 +103,7 @@ async function queued(read: Read, ports: Queueing): Promise<Answer> {
   const said = read.bare.has(JSON_FLAG)
     ? [JSON.stringify(queueEnvelopeFor(queries, tracks, deviceId))]
     : queueLinesFor(tracks)
-  return { report: said, refusals: [], code: 0 }
+  return { report: said, refusals: [], code: OK }
 }
 
 export async function queueing(argv: readonly string[], ports: Queueing): Promise<Answer> {
