@@ -41,6 +41,7 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   expect(words).toContain("--scope")
   expect(words).toContain(`--unit=${scopeFor("temper-web")}`)
   expect(words).toContain("deploy")
+  expect(words).toContain("--measured")
   expect(words).toContain("temper-web")
   expect(words.some((one) => one.startsWith("/tree/"))).toBe(true)
 })

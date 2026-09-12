@@ -55,6 +55,8 @@ const CLI = "module/cli"
 
 const DEPLOY = "deploy"
 
+const MEASURED = "--measured"
+
 const A_SERVICE = "service"
 
 const SHOW = "show"
@@ -85,6 +87,7 @@ export function deployArgv(root: string, tree: string, slug: string): readonly s
     run.runner,
     join(tree, run.path),
     DEPLOY,
+    MEASURED,
     slug,
   ]
 }

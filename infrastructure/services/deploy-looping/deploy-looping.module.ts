@@ -120,5 +120,10 @@ export const deployLooping = {
       invariantKind: "departure",
       statement: "The deploy runs free of the mark saying a process sits under a run relay.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy a tick starts runs under no ceiling, since nobody is waiting on that call.",
+    },
   ],
 } as const satisfies Module
