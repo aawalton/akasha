@@ -1,2 +1,2 @@
-{"id":"01a072f9-f8b5-74b9-a876-aa700616277a","destination":"character:by-priority","targetQuantity":10,"charEligibility":"{\"requiredSkillLines\":{\"mode\":\"any-not-maxed\",\"skillLineIds\":[\"world-legerdemain\",\"guild-thieves-guild\",\"guild-dark-brotherhood\"]}}"}
-{"id":"01a072f9-f8b5-74ae-8db3-e0e356f148da","destination":"bank"}
+{"id":"01a09638-8b40-7c87-9036-cf7b03e240f2","destination":"character:by-priority","targetQuantity":10,"charEligibility":"{\"requiredSkillLines\":{\"mode\":\"any-not-maxed\",\"skillLineIds\":[\"world-legerdemain\",\"guild-thieves-guild\",\"guild-dark-brotherhood\"]}}"}
+{"id":"01a09638-8b40-7f4a-852d-c140fbea20fb","destination":"bank"}
