@@ -6,7 +6,7 @@ import {
   type RaceSource,
   sortedRaces,
 } from "akasha/temper/character-build/race-source/race-source.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { getRaceIconUrl } from "akasha/temper/races/race-icon-url/race-icon-url.module.code.ts"
 import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"
 import {

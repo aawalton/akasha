@@ -6,7 +6,7 @@ import {
   foodOrDrink,
 } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { convertIconPathToUrl } from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,

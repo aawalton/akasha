@@ -12,7 +12,7 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   type CompanionArmorSlotId,
   companionArmorSlots,

@@ -20,13 +20,13 @@ import {
   jewelryEnchants,
 } from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { getValidSetsForSlot } from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityClassName,
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   type JewelryTraitId,
   jewelryTraits,

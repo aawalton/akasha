@@ -13,13 +13,13 @@ import {
   sweptAll,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   noPathsFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 
 afterAll(scratch.sweep)
 

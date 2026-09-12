@@ -13,7 +13,7 @@ import {
   type SetSourceId,
 } from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
 import { isSetsAllId } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"

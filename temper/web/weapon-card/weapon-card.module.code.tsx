@@ -31,13 +31,13 @@ import {
   weaponEnchantments,
 } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityClassName,
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   type ArmorTraitId,
   armorTraits,
