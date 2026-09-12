@@ -194,6 +194,11 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A subagent the transcript names below another subagent is named as one at the top is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat stating no transcript leaves the take-down to the other evidence.",
     },
     {

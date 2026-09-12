@@ -4,7 +4,10 @@ import { dropReadings, SUBAGENT_MARK } from "akasha/agents/read-record/read-reco
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { createSubagentReader } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import {
+  createSubagentReader,
+  type SubagentNode,
+} from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -224,6 +227,10 @@ export function startedAfter(root: string, page: string, stoppedAt: number | nul
   return held !== null && held > stoppedAt
 }
 
+export function namedAmong(nodes: readonly SubagentNode[], own: string): boolean {
+  return nodes.some((one) => one.agentId === own || namedAmong(one.children, own))
+}
+
 export async function stillWorking(root: string, page: string, own: string): Promise<boolean> {
   try {
     const value = valueAt(page, root)
@@ -235,7 +242,7 @@ export async function stillWorking(root: string, page: string, own: string): Pro
     const named = transcriptOf(seatId)?.value
     if (named === undefined || named === "") return false
     const running = await createSubagentReader().forSeat(seatId, named)
-    return running.some((one) => one.agentId === own)
+    return namedAmong(running, own)
   } catch {
     return false
   }
