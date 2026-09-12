@@ -10,17 +10,13 @@ export const musicRate = {
   taking: [
     { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
     { said: "--reaction <md>", takes: "what Alan said about an artist, for `--target artist`" },
-    { said: "--reaction-file <file>", takes: "a file the reaction is read from" },
+
     {
       said: "--personal-connections <md>",
       takes: "what a song is tied to in Alan's own life, for `--target song`",
     },
-    {
-      said: "--personal-connections-file <file>",
-      takes: "a file the personal connections are read from",
-    },
+
     { said: "--insights <md>", takes: "what Alan found in a song, for `--target song`" },
-    { said: "--insights-file <file>", takes: "a file the insights are read from" },
   ],
   invariants: [
     {
@@ -73,5 +69,8 @@ export const musicRate = {
     { argument: "argument/json" },
     { argument: "argument/slug", required: true },
     { argument: "argument/rating" },
+    { argument: "argument/reaction-file" },
+    { argument: "argument/personal-connections-file" },
+    { argument: "argument/insights-file" },
   ],
 } as const satisfies Command
