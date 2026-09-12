@@ -90,6 +90,10 @@ export const domainRows = {
         "A slug two page types each have widens the pages asked about rather than narrowing the pages.",
     },
     {
+      invariantKind: "departure",
+      statement: "The path a drawn domain carries reaches the panel under the name `relPath`.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page is opened for the parts that page names.",
     },

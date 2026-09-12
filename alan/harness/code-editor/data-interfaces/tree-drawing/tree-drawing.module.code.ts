@@ -16,9 +16,9 @@ import {
   forestOver,
   NOW,
 } from "akasha/commands/pages/agent/forest/agent-forest.command.code.ts"
-import { domainRowsIn } from "akasha/commands/pages/domain/tree/domain-tree.command.code.ts"
 import { treeIn } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import { pageAnswers } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
+import { domainRowsIn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 
 function wholePath(root: string, at: string | null | undefined): string | null {

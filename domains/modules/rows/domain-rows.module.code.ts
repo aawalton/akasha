@@ -1,3 +1,4 @@
+import type { DomainRow as PanelRow } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   idsNaming,
@@ -144,4 +145,18 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     })
   }
   return drawn
+}
+
+export function rowsFrom(drawn: readonly DomainRow[]): readonly PanelRow[] {
+  return drawn.map((one) => ({
+    slug: one.slug,
+    relPath: one.path,
+    persona: one.persona,
+    parent: one.parent,
+    sequence: one.sequence,
+  }))
+}
+
+export function domainRowsIn(root: string): readonly PanelRow[] {
+  return rowsFrom(domainsDrawn(root))
 }

@@ -5,6 +5,6 @@ export const domain = {
   type: "namespace",
   slug: "domain",
   definition: "the domains this repository has, drawn or handed over",
-  parts: ["command/domain-dag", "command/domain-declarations", "command/domain-tree"],
+  parts: ["command/domain-dag", "command/domain-declarations"],
   name: "domain",
 } as const satisfies Namespace

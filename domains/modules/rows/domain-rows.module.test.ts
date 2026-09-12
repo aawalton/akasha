@@ -5,6 +5,7 @@ import { scratchWorld } from "akasha/commands/modules/scratching/scratching.modu
 import {
   domainsDrawn,
   kindsUnderDomain,
+  rowsFrom,
 } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { relationFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -138,4 +139,34 @@ test("a domain no persona names answers with no champion", () => {
   filing(root, "persona", "athena", HER, { championedDomain: "domain/one" })
   champions(root, ONE, HER)
   expect(domainsDrawn(root).find((held) => held.slug === "domain/two")?.persona).toBe(null)
+})
+
+test("a panel row says the drawn path as relPath and carries the champion on", () => {
+  const said = rowsFrom([
+    {
+      slug: "domain/akasha",
+      path: "akasha/akasha.domain.ts",
+      persona: "amy",
+      parent: null,
+      sequence: [],
+    },
+  ])
+
+  expect(said).toEqual([
+    {
+      slug: "domain/akasha",
+      relPath: "akasha/akasha.domain.ts",
+      persona: "amy",
+      parent: null,
+      sequence: [],
+    },
+  ])
+})
+
+test("a panel row for a domain no persona champions carries no champion", () => {
+  const said = rowsFrom([
+    { slug: "domain/pages", path: "pages.domain.ts", persona: null, parent: null, sequence: [] },
+  ])
+
+  expect(said[0]?.persona).toBeNull()
 })
