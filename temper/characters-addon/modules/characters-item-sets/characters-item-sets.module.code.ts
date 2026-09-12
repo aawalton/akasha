@@ -1,4 +1,4 @@
-import type { ItemSetProgress } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
+import type { ItemSetProgress } from "akasha/temper/completion/modules/completion-record/completion-record.module.code.ts"
 import { resolveCategoryNames } from "akasha/temper/item-sets/item-set-categories/item-set-categories.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 

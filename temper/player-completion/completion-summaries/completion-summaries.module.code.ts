@@ -1,8 +1,4 @@
 import type { AccountCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import {
-  transformCompanionQuestProgress,
-  transformQuestProgress,
-} from "akasha/temper/player-completion/completion-quest-progress/completion-quest-progress.module.code.ts"
 import { computeOverallCompletionScore } from "akasha/temper/player-completion/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import { transformSkillPointsProgress } from "akasha/temper/player-completion/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
 import { transformSubclassingSkillLineProgress } from "akasha/temper/player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
@@ -48,6 +44,10 @@ import { transformDailyWritsProgress } from "akasha/temper/player-completion/mod
 import { transformItemSetProgress } from "akasha/temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import { transformLoreLibraryProgress } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import { transformPoiProgress } from "akasha/temper/player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
+import {
+  transformCompanionQuestProgress,
+  transformQuestProgress,
+} from "akasha/temper/player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {

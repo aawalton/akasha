@@ -3,7 +3,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
+} from "akasha/temper/completion/modules/completion-record/completion-record.module.code.ts"
 import { z } from "zod"
 
 const achievementCriteriaProgressSchema = z
