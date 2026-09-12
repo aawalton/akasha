@@ -8,8 +8,6 @@ export const infrastructureDevServerBootstrap = {
   code: "ts",
   name: "bootstrap",
   taking: [
-    { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },
-    { said: "--seq <n>", takes: "the branch sequence number naming the worktree" },
     {
       said: "--app <name>",
       takes: "whose `.env.local` to write, named by the slug that app's web app page carries",
@@ -31,5 +29,9 @@ export const infrastructureDevServerBootstrap = {
         "Nothing here writes over an `.env.local` already there unless the command is told to.",
     },
   ],
-  arguments: [{ argument: "argument/json" }, { argument: "argument/force" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/force" },
+    { argument: "argument/seq", saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command

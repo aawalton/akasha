@@ -8,11 +8,6 @@ export const infrastructureDevServerStop = {
   code: "ts",
   name: "stop",
   taking: [
-    { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },
-    {
-      said: "--seq <n>",
-      takes: "the branch sequence number naming the worktree, the state file and the log",
-    },
     {
       said: "--app <name>",
       takes: "which app to stop, named by the slug that app's web app page carries",
@@ -50,5 +45,5 @@ export const infrastructureDevServerStop = {
         "A server already stopped is answered as stopped and the state file it left is taken.",
     },
   ],
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/seq", saidAs: "flag-or-word" }],
 } as const satisfies Command

@@ -10,8 +10,6 @@ export const infrastructureDevServerLogs = {
   name: "logs",
   parts: ["module/last-lines"],
   taking: [
-    { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },
-    { said: "--seq <n>", takes: "the branch sequence number naming the log" },
     {
       said: "--app <name>",
       takes: "whose log to read, named by the slug that app's web app page carries",
@@ -39,4 +37,5 @@ export const infrastructureDevServerLogs = {
       statement: "Nothing here follows a log as the log grows.",
     },
   ],
+  arguments: [{ argument: "argument/seq", saidAs: "flag-or-word" }],
 } as const satisfies Command
