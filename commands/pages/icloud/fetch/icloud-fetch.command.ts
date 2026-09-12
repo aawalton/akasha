@@ -8,8 +8,6 @@ export const icloudFetch = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },
-    { said: "--url <share-url>", takes: "the album to fetch, said as a flag rather than in place" },
     {
       said: "--json",
       takes: "report each written path as a JSON object rather than as a path alone",
@@ -79,5 +77,8 @@ export const icloudFetch = {
     },
   ],
   name: "fetch",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [
+    { argument: "argument/output" },
+    { argument: "argument/album", required: true, saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
