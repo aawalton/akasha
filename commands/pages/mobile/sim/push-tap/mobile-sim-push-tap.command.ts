@@ -8,8 +8,6 @@ export const mobileSimPushTap = {
     "the command sending a push to the simulator, tapping its banner and reading what the tap did",
   code: "ts",
   taking: [
-    { said: "<path>", takes: "the route the push carries, representing `--route`" },
-    { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },
     {
       said: "--warm",
       takes: "leave the app running, so the tap measures a warm open rather than a cold one",
@@ -44,5 +42,9 @@ export const mobileSimPushTap = {
     },
   ],
   name: "push-tap",
-  arguments: [{ argument: "argument/app" }, { argument: "argument/udid" }],
+  arguments: [
+    { argument: "argument/app" },
+    { argument: "argument/udid" },
+    { argument: "argument/route", required: true, saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command

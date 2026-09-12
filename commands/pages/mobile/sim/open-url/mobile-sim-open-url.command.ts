@@ -7,8 +7,6 @@ export const mobileSimOpenUrl = {
   definition: "the command opening a route in the simulator and leaving a session at it",
   code: "ts",
   taking: [
-    { said: "<path>", takes: "the route to open, representing `--route`" },
-    { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },
     { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
     {
       said: "--as-real-user",
@@ -44,5 +42,9 @@ export const mobileSimOpenUrl = {
     },
   ],
   name: "open-url",
-  arguments: [{ argument: "argument/app" }, { argument: "argument/udid" }],
+  arguments: [
+    { argument: "argument/app" },
+    { argument: "argument/udid" },
+    { argument: "argument/route", required: true, saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
