@@ -7,10 +7,6 @@ export const seatStart = {
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
   taking: [
-    {
-      said: "--persona <slug>",
-      takes: "who this seat is, filling the role and the domain neither of which is said",
-    },
     { said: "--role <slug>", takes: "what this seat does, outranking the persona's own role" },
     {
       said: "--domain <slug>",
@@ -81,5 +77,6 @@ export const seatStart = {
     { argument: "argument/start-mode" },
     { argument: "argument/prompt-file" },
     { argument: "argument/prompt" },
+    { argument: "argument/persona" },
   ],
 } as const satisfies Command
