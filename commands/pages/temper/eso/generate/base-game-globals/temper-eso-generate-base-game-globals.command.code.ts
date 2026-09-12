@@ -28,7 +28,7 @@ import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.mod
 
 const DATA = 2
 
-const SELF = "akasha temper-eso-generate-base-game-globals"
+const SELF = "akasha temper eso generate base-game-globals"
 
 const ESO_ROOT_FLAG = "--eso-root"
 

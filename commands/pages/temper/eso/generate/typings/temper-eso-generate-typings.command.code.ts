@@ -36,7 +36,7 @@ const DATA = 2
 
 const FAILED = 3
 
-const SELF = "akasha temper-eso-generate-typings"
+const SELF = "akasha temper eso generate typings"
 
 const CODE_ROOT_FLAG = "--code-root"
 

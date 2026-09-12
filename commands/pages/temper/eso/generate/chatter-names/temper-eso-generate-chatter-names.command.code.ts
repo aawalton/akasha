@@ -15,7 +15,7 @@ const DATA = 2
 
 const FAILED = 3
 
-const SELF = "akasha temper-eso-generate-chatter-names"
+const SELF = "akasha temper eso generate chatter-names"
 
 const CODE_ROOT_FLAG = "--code-root"
 
@@ -47,7 +47,7 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
   } catch (thrown) {
     return refused(
       `${sourcePath} is what this registry is drawn from and it is not there — ` +
-        "`akasha temper-eso-generate-typings` is what writes it — " +
+        "`akasha temper eso generate typings` is what writes it — " +
         saidShort(thrown),
       DATA
     )

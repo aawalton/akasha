@@ -25,7 +25,7 @@ import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.mod
 
 const DATA = 2
 
-const SELF = "akasha temper-eso-generate-colon-methods"
+const SELF = "akasha temper eso generate colon-methods"
 
 const ESO_ROOT_FLAG = "--eso-root"
 
