@@ -6,6 +6,7 @@ export const inferenceVoiceClone = {
   slug: "inference-voice-clone",
   definition: "the command speaking text in the voice a reference clip carries",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
