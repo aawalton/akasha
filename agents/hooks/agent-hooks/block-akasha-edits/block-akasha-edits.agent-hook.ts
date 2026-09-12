@@ -61,6 +61,10 @@ export const blockAkashaEdits = {
       statement: "There is no akasha command for a notebook.",
     },
     {
+      invariantKind: "departure",
+      statement: "A payload this cannot read judges nothing and exits so the dispatch refuses.",
+    },
+    {
       invariantKind: "gap",
       statement: "An agent refused here still writes the file the akasha command reads.",
     },

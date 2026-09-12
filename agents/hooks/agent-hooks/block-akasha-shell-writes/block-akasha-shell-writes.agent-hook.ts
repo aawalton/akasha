@@ -139,6 +139,14 @@ export const blockAkashaShellWrites = {
       statement: "A call another program builds is hidden from this hook as `sh -c` hides a call.",
     },
     {
+      invariantKind: "departure",
+      statement: "A payload this cannot read judges nothing and exits so the dispatch refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload that parses and is not an object is a payload this cannot read.",
+    },
+    {
       invariantKind: "gap",
       statement: "A path a word represents rather than spells is judged as a spelled path is.",
     },
