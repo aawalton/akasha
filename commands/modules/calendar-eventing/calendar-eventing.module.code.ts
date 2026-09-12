@@ -190,36 +190,49 @@ export function readIn(argv: readonly string[], wanted: Wanted): Read {
   return { said: held.said, recurrence: held.recurrence }
 }
 
-export function inputOf(read: Said): EventInput {
-  const { said, recurrence } = read
+export type Shaping = {
+  readonly calendar?: string | undefined
+  readonly summary?: string | undefined
+  readonly start?: string | undefined
+  readonly end?: string | undefined
+  readonly description?: string | undefined
+  readonly location?: string | undefined
+  readonly attendees?: string | undefined
+  readonly timezone?: string | undefined
+  readonly recurrence: readonly string[]
+  readonly sendUpdates?: string | undefined
+}
+
+export type Patching = Shaping & { readonly event: string }
+
+export function inputOf(taken: Shaping): EventInput {
   return {
-    calendarId: said.get(CALENDAR),
-    summary: said.get(SUMMARY) ?? "",
-    start: said.get(START) ?? "",
-    end: said.get(END) ?? "",
-    description: said.get(DESCRIPTION),
-    location: said.get(LOCATION),
-    attendees: emails(said.get(ATTENDEES)),
-    timezone: said.get(TIMEZONE),
-    recurrence: rules(recurrence),
-    sendUpdates: narrowSendUpdates(said.get(SENDING)),
+    calendarId: taken.calendar,
+    summary: taken.summary ?? "",
+    start: taken.start ?? "",
+    end: taken.end ?? "",
+    description: taken.description,
+    location: taken.location,
+    attendees: emails(taken.attendees),
+    timezone: taken.timezone,
+    recurrence: rules(taken.recurrence),
+    sendUpdates: narrowSendUpdates(taken.sendUpdates),
   }
 }
 
-export function patchOf(read: Said): EventPatch {
-  const { said, recurrence } = read
+export function patchOf(taken: Patching): EventPatch {
   return {
-    calendarId: said.get(CALENDAR),
-    eventId: said.get(EVENT) ?? "",
-    summary: said.get(SUMMARY),
-    start: said.get(START),
-    end: said.get(END),
-    description: said.get(DESCRIPTION),
-    location: said.get(LOCATION),
-    attendees: emails(said.get(ATTENDEES)),
-    timezone: said.get(TIMEZONE),
-    recurrence: rules(recurrence),
-    sendUpdates: narrowSendUpdates(said.get(SENDING)),
+    calendarId: taken.calendar,
+    eventId: taken.event,
+    summary: taken.summary,
+    start: taken.start,
+    end: taken.end,
+    description: taken.description,
+    location: taken.location,
+    attendees: emails(taken.attendees),
+    timezone: taken.timezone,
+    recurrence: rules(taken.recurrence),
+    sendUpdates: narrowSendUpdates(taken.sendUpdates),
   }
 }
 
