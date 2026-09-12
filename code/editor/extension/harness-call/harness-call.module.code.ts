@@ -111,13 +111,13 @@ export function disposeCommandServer(): undefined {
 }
 
 export async function callHarness(
-  module: string,
+  slug: string,
   exported: string,
   args: readonly string[],
   options: HarnessCallOptions
 ): Promise<string> {
-  const what = `${module}#${exported}`
-  const answer = await askServed(servedClient(), module, exported, args, options.timeout)
+  const what = `${slug}#${exported}`
+  const answer = await askServed(servedClient(), slug, exported, args, options.timeout)
   if (answer.code !== 0) {
     const said = answer.stderr.trim()
     throw new Error(said === "" ? `${what} exited ${answer.code} and said nothing` : said)

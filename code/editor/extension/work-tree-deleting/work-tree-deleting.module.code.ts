@@ -20,7 +20,7 @@ const CONFIRM = "Delete"
 const MOVED_UNDERFOOT = "that moved while you were deleting it — nothing was deleted"
 
 export type Calling = (
-  module: string,
+  slug: string,
   exported: string,
   args: readonly string[],
   options: { readonly timeout: number }
