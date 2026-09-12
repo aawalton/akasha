@@ -3,7 +3,9 @@ import { dirname, join } from "node:path"
 import type {
   Given,
   Judging,
+  Kind,
   Readers,
+  Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import {
   overEveryIn,
@@ -33,6 +35,8 @@ const MODULE = "module"
 const COMMAND = "command"
 
 const NAMESPACE = "namespace"
+
+const KINDS: readonly Kind[] = [COMMAND, NAMESPACE]
 
 const NAMES_ITSELF = "name"
 
@@ -184,37 +188,61 @@ export function readersOf(shadow: Shadow): Readers {
   }
 }
 
-function levelNamed(shadow: Shadow, slug: string): string | null {
-  for (const type of [COMMAND, NAMESPACE]) {
-    const listed = shadow.index.listedAt(type, slug)[0]
+type Level = {
+  readonly name: string
+  readonly kind: Kind
+}
+
+export type Levels = {
+  readonly namedAt: Naming
+  readonly typedAt: Typing
+}
+
+function levelAt(shadow: Shadow, slug: string): Level | null {
+  for (const kind of KINDS) {
+    const listed = shadow.index.listedAt(kind, slug)[0]
     if (listed === undefined) continue
     const said = shadow.pageOf(listed.path)?.[NAMES_ITSELF]
-    if (typeof said === "string") return said
+    if (typeof said === "string") return { name: said, kind }
   }
   return null
 }
 
-export function namingOf(shadow: Shadow): Naming {
-  const held = new Map<string, string | null>()
-  return (slug) => {
+export function levelsOf(shadow: Shadow): Levels {
+  const held = new Map<string, Level | null>()
+  const at = (slug: string): Level | null => {
     const found = held.get(slug)
     if (found !== undefined) return found
-    const said = levelNamed(shadow, slug)
+    const said = levelAt(shadow, slug)
     held.set(slug, said)
     return said
+  }
+  return {
+    namedAt: (slug) => at(slug)?.name ?? null,
+    typedAt: (slug) => at(slug)?.kind ?? null,
   }
 }
 
 export const NAMES_NOTHING: Naming = () => null
+
+export const TYPES_NOTHING: Typing = () => null
+
+export const NO_LEVELS: Levels = { namedAt: NAMES_NOTHING, typedAt: TYPES_NOTHING }
 
 export function refusalsIn(
   rules: readonly Rule[],
   path: string,
   text: string,
   readers: Readers,
-  namedAt: Naming = NAMES_NOTHING
+  levels: Levels = NO_LEVELS
 ): readonly string[] {
-  const parsed: Given = { path, source: parsedAs(path, text), readers, namedAt }
+  const parsed: Given = {
+    path,
+    source: parsedAs(path, text),
+    readers,
+    namedAt: levels.namedAt,
+    typedAt: levels.typedAt,
+  }
   const said: string[] = []
   for (const rule of rules) {
     for (const one of rule.judge(parsed)) {
@@ -227,8 +255,8 @@ export function refusalsIn(
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const rules = rulesIn(change.root, shadow, change)
   const readers = readersOf(shadow)
-  const namedAt = namingOf(shadow)
+  const levels = levelsOf(shadow)
   return overEveryIn(change, textNamed, (path, text) =>
-    refusalsIn(rules, path, text, readers, namedAt)
+    refusalsIn(rules, path, text, readers, levels)
   )
 }

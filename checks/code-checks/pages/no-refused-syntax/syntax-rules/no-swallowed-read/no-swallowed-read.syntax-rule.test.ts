@@ -3,6 +3,7 @@ import {
   CHANGE_FROM,
   JUDGED_FROM,
   LEVELS_NAMED,
+  LEVELS_TYPED,
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
@@ -23,6 +24,7 @@ function over(text: string): readonly Refusal[] {
     source: parsedAs(PROBE_AT, text),
     readers: NO_READERS,
     namedAt: LEVELS_NAMED,
+    typedAt: LEVELS_TYPED,
   })
 }
 

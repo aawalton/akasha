@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  namingOf,
+  levelsOf,
   type Rule,
   readersOf,
   refusalsIn,
@@ -129,11 +129,21 @@ test("the readers of page bodies a module has are the names that module's own pa
 test("what a level of the command tree names itself is read off that level's own page", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   levelsFiled(root)
-  const named = namingOf(shadowAt(root))
+  const named = levelsOf(shadowAt(root)).namedAt
 
   expect(named("change")).toBe("change")
   expect(named("change-draft")).toBe("draft")
   expect(named("no-level-carries-this-slug")).toBe(null)
+})
+
+test("whether a level is a command or a namespace is read off that level's own page", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  levelsFiled(root)
+  const typed = levelsOf(shadowAt(root)).typedAt
+
+  expect(typed("change")).toBe("namespace")
+  expect(typed("change-draft")).toBe("command")
+  expect(typed("no-level-carries-this-slug")).toBe(null)
 })
 
 test("a rule whose code no change answers a body for is refused", () => {

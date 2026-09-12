@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   LEVELS_NAMED,
+  LEVELS_TYPED,
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
@@ -16,6 +17,7 @@ function judged(path: string, text: string): readonly Refusal[] {
     source: parsedAs(path, text),
     readers: NO_READERS,
     namedAt: LEVELS_NAMED,
+    typedAt: LEVELS_TYPED,
   })
 }
 

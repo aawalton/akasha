@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   LEVELS_NAMED,
+  LEVELS_TYPED,
   parsed,
   READERS_FILED,
   SHADOW_AT,
@@ -21,7 +22,13 @@ const BESIDE = 'import { uncommittedIn, wholeValue } from "@akasha/pages/page-un
 const TRIPS = `${ANSWERING}${VALUE_AT}export function one(root: string, path: string, index: Answering): Value | null {\n  index.everyPath()\n  return valueAt(path, root)\n}\n`
 
 function at(path: string, text: string) {
-  return { path, source: parsedAs(path, text), readers: READERS_FILED, namedAt: LEVELS_NAMED }
+  return {
+    path,
+    source: parsedAs(path, text),
+    readers: READERS_FILED,
+    namedAt: LEVELS_NAMED,
+    typedAt: LEVELS_TYPED,
+  }
 }
 
 test("a name no module declares as a reader of page bodies is no reader", () => {

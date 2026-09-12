@@ -6,11 +6,16 @@ export type Readers = {
   readonly get: (moduleSlug: string) => ReadonlySet<string> | undefined
 }
 
+export type Kind = "command" | "namespace"
+
+export type Typing = (slug: string) => Kind | null
+
 export type Given = {
   readonly path: string
   readonly source: SourceFile
   readonly readers: Readers
   readonly namedAt: Naming
+  readonly typedAt: Typing
 }
 
 export type Refusal = {
@@ -65,6 +70,10 @@ export const syntaxRule = {
     {
       invariantKind: "departure",
       statement: "A rule is handed what each level of the command tree names itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule is handed whether a level is a command or a namespace.",
     },
     {
       invariantKind: "departure",

@@ -1,7 +1,9 @@
 import type { Rule } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.code.ts"
 import type {
   Given,
+  Kind,
   Readers,
+  Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
@@ -178,12 +180,24 @@ const NAMED: ReadonlyMap<string, string> = new Map([
 
 export const LEVELS_NAMED: Naming = (slug) => NAMED.get(slug) ?? null
 
+const TYPED: ReadonlyMap<string, Kind> = new Map([
+  ["change", NAMESPACE],
+  ["change-draft", COMMAND],
+  ["work-tree", COMMAND],
+  ["temper", NAMESPACE],
+  ["temper-addon", NAMESPACE],
+  ["temper-addon-data-generate", COMMAND],
+])
+
+export const LEVELS_TYPED: Typing = (slug) => TYPED.get(slug) ?? null
+
 export function parsed(text: string, at: string = PROBE_AT): Given {
   return {
     path: at,
     source: parsedAs(at, text),
     readers: READERS_FILED,
     namedAt: LEVELS_NAMED,
+    typedAt: LEVELS_TYPED,
   }
 }
 

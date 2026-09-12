@@ -51,6 +51,7 @@ function spelledOut(standing: Given, said: string): Given {
     source: parsedAs(standing.path, text),
     readers: standing.readers,
     namedAt: alsoNaming(standing.namedAt),
+    typedAt: standing.typedAt,
   }
 }
 

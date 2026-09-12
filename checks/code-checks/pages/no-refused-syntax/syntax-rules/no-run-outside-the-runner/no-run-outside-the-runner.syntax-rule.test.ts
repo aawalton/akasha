@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   LEVELS_NAMED,
+  LEVELS_TYPED,
   NO_READERS,
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
@@ -87,6 +88,7 @@ test("a file in the runner's own folder is refused nothing", () => {
       source: parsedAs(at, text),
       readers: NO_READERS,
       namedAt: LEVELS_NAMED,
+      typedAt: LEVELS_TYPED,
     })
   ).toEqual([])
 })
