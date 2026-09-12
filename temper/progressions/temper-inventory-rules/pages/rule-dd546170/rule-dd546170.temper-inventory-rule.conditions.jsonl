@@ -1,4 +1,4 @@
-{"id":"01a0963d-27f6-71d7-a2dc-2d4ad1d05823","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
-{"id":"01a0963d-27f6-7ae2-9001-29c90cc48184","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0963d-27f6-71e6-90d7-94d5c28d4423","conditionField":"market-value-op","conditionValue":"<"}
-{"id":"01a0963d-27f6-795c-b9c4-14f16095f046","conditionField":"merchant-value","conditionValue":"0"}
+{"id":"01a0963f-56a8-73a2-b97c-4d337e6439f9","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
+{"id":"01a0963f-56a8-7ec5-adef-68a4a5bddecc","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0963f-56a8-7d7b-937a-13820c4ed38a","conditionField":"market-value-op","conditionValue":"<"}
+{"id":"01a0963f-56a8-7bdf-99d5-60de64eff6c8","conditionField":"merchant-value","conditionValue":"0"}
