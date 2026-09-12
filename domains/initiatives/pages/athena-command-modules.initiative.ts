@@ -22,7 +22,7 @@ export const athenaCommandModules = {
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
       workingMemory:
-        "24 mismatched codes were mended over 18 landings, `1f8c38b99e3` through `b93b0cd4404`. `no-second-exit-code` refuses only a rebound name, not a bare `code: 3`. `applying.module.code.ts:177` still gives 3 to both a check-refused landing and a git lock held too long, and widening `Refused` to carry a code is in flight. The fork left: `calling.module.ts` calls a name reaching no page the caller's mistake, `seat-handle.module.code.ts:113` calls it the data's fault. Which?",
+        "The fork was one claim: a handle the caller typed is the caller's mistake, so `seat-handle` was wrong and `calling` was right; mended across `seat-handle`, `takeover-seat` and `model-gateway-swap` in `d79b5e3d30b` through `bbbdc7e147c`. Both halves of `applying` are settled. What is left is the bare literal: 40+ `.code.ts` files still spell `code: 0/1/2/3` by hand, which `no-second-exit-code` cannot see.",
     },
   ],
   constraints: [
