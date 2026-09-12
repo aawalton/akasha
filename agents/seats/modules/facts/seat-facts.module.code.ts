@@ -5,7 +5,7 @@ import {
 import {
   parseSeatProcKey,
   type SeatPresence,
-} from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { seatRoster } from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
 import { seatWhoami } from "akasha/seat-system/seat-whoami/seat-whoami.module.code.ts"
 

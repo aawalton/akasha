@@ -1,4 +1,5 @@
 import { pageFromHistory } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { statedProcessPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { FLEET } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
@@ -10,7 +11,6 @@ import {
   akashaSeatsStated,
   akashaSeatValuesOf,
 } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { statedProcessPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10

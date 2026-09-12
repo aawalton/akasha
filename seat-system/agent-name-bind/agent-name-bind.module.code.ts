@@ -8,7 +8,7 @@ import { agentHolderProcess } from "akasha/agents/seats/modules/presence-read/se
 import {
   parseSeatProcKey,
   seatProcKeyPresence,
-} from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 
 const ANCESTRY_DEPTH_LIMIT = 32
 

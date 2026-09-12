@@ -2,6 +2,7 @@ import { resolve } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/proc-scan/proc-scan.module.code.ts"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
+import { parseSeatProcKey } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
@@ -26,7 +27,6 @@ import {
   akashaHolderProcessOf,
   akashaSeatsThatExist,
 } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,

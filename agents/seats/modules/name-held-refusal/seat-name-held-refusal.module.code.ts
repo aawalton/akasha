@@ -1,5 +1,5 @@
+import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { ruleText } from "akasha/alan/harness/rules-engine/instructions-rule/instructions-rule.module.code.ts"
-import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   DECLARING_MODULE,
   decideSpawnGuard,
