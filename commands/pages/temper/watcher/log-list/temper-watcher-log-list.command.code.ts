@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
@@ -10,8 +11,6 @@ import { parseWatcherLine } from "akasha/temper/watcher/watcher-log-line/watcher
 import { mergeNewestFirst } from "akasha/temper/watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
 import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 
-const INPUT = 1
-const DATA = 2
 const SINCE = "--since"
 const LIMIT = "--limit"
 const LOG_DIR = "--log-dir"
@@ -100,8 +99,8 @@ export function temperWatcherLogList(argv: readonly string[]): Answer {
     return {
       report: [JSON.stringify({ lines: capped, count: capped.length })],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
-  return { report: capped.map((one) => JSON.stringify(one)), refusals: [], code: 0 }
+  return { report: capped.map((one) => JSON.stringify(one)), refusals: [], code: OK }
 }
