@@ -15,10 +15,7 @@ export const temperInventoryLookupItem = {
     },
     { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "the item is classified by the node ids the capture carries for it.",
-    "an item the capture does not hold is refused by its id rather than reported as absent.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
