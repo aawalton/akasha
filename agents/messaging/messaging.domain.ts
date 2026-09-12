@@ -22,5 +22,6 @@ export const messaging = {
     "module/supervisor-claimed-redelivery-decide",
     "module/supervisor-redelivery-holdoff",
     "module/channel-delivery",
+    "module/messages-agent-tools",
   ],
 } as const satisfies Domain

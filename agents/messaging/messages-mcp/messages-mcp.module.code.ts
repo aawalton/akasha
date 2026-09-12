@@ -6,7 +6,7 @@ import { join } from "node:path"
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { getAgentId } from "akasha/agents/messaging/messages-agent-id/messages-agent-id.module.code.ts"
-import { startChannelListener } from "akasha/seat-system/messages-agent-tools/messages-agent-tools.module.code.ts"
+import { startChannelListener } from "akasha/agents/messaging/messages-agent-tools/messages-agent-tools.module.code.ts"
 
 function loadSecrets(): undefined {
   try {

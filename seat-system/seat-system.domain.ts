@@ -34,7 +34,6 @@ export const seatSystem = {
     "module/agent-name-bind",
     "module/agent-record",
     "module/agent-turn-drawn",
-    "module/messages-agent-tools",
     "module/proc-scan",
     "module/resume-seat",
     "module/resume-verify",
