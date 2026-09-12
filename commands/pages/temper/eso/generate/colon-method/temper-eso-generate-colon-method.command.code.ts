@@ -28,12 +28,12 @@ import {
   stagingAt,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { extractColonMethodNames } from "akasha/temper/commands/modules/eso-colon-methods/eso-colon-methods.module.code.ts"
-import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
 } from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiSourceDir } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
 
 const NAMED = [codeRootArgument, stage, esoRoot]
 

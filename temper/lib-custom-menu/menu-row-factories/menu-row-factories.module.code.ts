@@ -1,4 +1,3 @@
-import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   setupDivider,
   setupHeader,
@@ -8,6 +7,7 @@ import type {
   LcmRowControl,
   PooledRow,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
 
 let upInside: LcmRowControl | undefined
 

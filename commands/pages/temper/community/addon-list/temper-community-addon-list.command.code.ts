@@ -18,7 +18,7 @@ import {
   type PlannedAddon,
   planUpdates,
 } from "akasha/temper/community-addons/modules/addon-update-plan/addon-update-plan.module.code.ts"
-import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, outdated]

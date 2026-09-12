@@ -28,7 +28,7 @@ import {
   parityAddonTrace,
   parityRouting,
 } from "akasha/temper/commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   RuleEvalResult,

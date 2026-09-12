@@ -16,7 +16,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { temperInventoryBankTrace as page } from "akasha/commands/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.ts"
 import { readBankTraces } from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const INVENTORY_LUA = "TemperInventory.lua"
 

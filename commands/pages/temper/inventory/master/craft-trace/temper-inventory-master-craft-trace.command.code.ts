@@ -14,7 +14,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { temperInventoryMasterCraftTrace as page } from "akasha/commands/pages/temper/inventory/master/craft-trace/temper-inventory-master-craft-trace.command.ts"
 import { readMasterCraftTraces } from "akasha/temper/commands/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const INVENTORY_LUA = "TemperInventory.lua"
 

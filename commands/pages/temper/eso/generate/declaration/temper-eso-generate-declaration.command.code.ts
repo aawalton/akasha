@@ -30,7 +30,6 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import { ESO_OPT_IN } from "akasha/temper/eso-declaration/eso-opt-in/eso-opt-in.module.code.ts"
 import {
   type SelectedTokens,
   selectOptIn,
@@ -48,11 +47,12 @@ import {
   parseObjects,
   typeFaultIn,
 } from "akasha/temper/eso-declaration/modules/eso-doc-tokens/eso-doc-tokens.module.code.ts"
-import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
+import { ESO_OPT_IN } from "akasha/temper/eso-declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
 } from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

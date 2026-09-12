@@ -12,7 +12,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperUpstreamDataVerify as page } from "akasha/commands/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts"
-import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { verifyHousing } from "akasha/temper/upstream-data/housing-upstream-verify/housing-upstream-verify.module.code.ts"
 import { verifyMapData } from "akasha/temper/upstream-data/map-data-upstream-verify/map-data-upstream-verify.module.code.ts"
 import { verifyTreasure } from "akasha/temper/upstream-data/treasure-upstream-verify/treasure-upstream-verify.module.code.ts"

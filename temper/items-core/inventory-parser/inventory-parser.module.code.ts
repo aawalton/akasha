@@ -1,4 +1,4 @@
-import { stripEsoNameSuffix } from "akasha/temper/build-support/eso-name/eso-name.module.code.ts"
+import { stripEsoNameSuffix } from "akasha/temper/build-support/modules/eso-name/eso-name.module.code.ts"
 import {
   parseCraftingLevels,
   parseOpenCooldowns,

@@ -1,4 +1,3 @@
-import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   getValueOrCallback,
   runTooltip,
@@ -19,6 +18,7 @@ import type {
   LcmRowControl,
   Submenu,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
 import {
   DEFAULT_TEXT_COLOR,
   DEFAULT_TEXT_HIGHLIGHT,

@@ -32,12 +32,12 @@ import {
   extractGlobalNames,
   extractStringIdNames,
 } from "akasha/temper/commands/modules/eso-base-game-globals/eso-base-game-globals.module.code.ts"
-import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
 } from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiSourceDir } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
 
 const NAMED = [codeRootArgument, stageArgument, esoRootArgument]
 

@@ -26,7 +26,7 @@ import {
   type ResolvedInventoryItem,
   resolveItemFromInventory,
 } from "akasha/temper/commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,
   type JsonOutput,

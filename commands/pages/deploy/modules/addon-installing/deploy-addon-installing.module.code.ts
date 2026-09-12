@@ -13,7 +13,7 @@ import {
 } from "akasha/temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"
 import { placedAddon } from "akasha/temper/addon-build/modules/addon-placing/addon-placing.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 function goingTo(): string {

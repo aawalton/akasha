@@ -21,7 +21,7 @@ import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-st
 import {
   addonsDir,
   savedVarsDir,
-} from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+} from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,

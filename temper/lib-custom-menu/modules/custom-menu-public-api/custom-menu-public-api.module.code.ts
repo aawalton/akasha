@@ -1,4 +1,3 @@
-import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   getValueOrCallback,
   noop,
@@ -21,6 +20,7 @@ import type {
   TooltipValue,
   Valued,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
 
 function addCustomMenuItem(
   this: void,

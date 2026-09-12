@@ -17,7 +17,7 @@ import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs
 import {
   getEsoDayStringFromSec,
   getEsoResetTimestampSec,
-} from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+} from "akasha/temper/dungeons/modules/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import type {
   SavedVariablesData,
