@@ -6,6 +6,6 @@ export const tracedItemId = {
   slug: "traced-item-id",
   said: "--traced-item-id",
   takes: "the item whose stored trace is compared",
-  value: "text",
+  value: "whole-number",
   placeholder: "item-id",
 } as const satisfies Argument

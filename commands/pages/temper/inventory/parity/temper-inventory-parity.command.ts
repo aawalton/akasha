@@ -6,7 +6,7 @@ export const temperInventoryParity = {
   slug: "temper-inventory-parity",
   definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
   code: "ts",
-
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

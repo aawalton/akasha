@@ -1,14 +1,20 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { char as charArgument } from "akasha/commands/arguments/pages/char.argument.ts"
+import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { tracedItemId as tracedItemIdArgument } from "akasha/commands/arguments/pages/traced-item-id.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventoryParity as page } from "akasha/commands/pages/temper/inventory/parity/temper-inventory-parity.command.ts"
 import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
@@ -30,17 +36,11 @@ import type {
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
-const CHAR = "--char"
-
-const INVENTORY_PATH = "--inventory-path"
-
-const CHARACTERS_PATH = "--characters-path"
+const NAMED = [inventoryPathArgument, charactersPathArgument, charArgument, tracedItemIdArgument]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
 const CHARACTERS_LUA = "TemperCharacters.lua"
-
-const TAKING_A_VALUE = [CHAR, INVENTORY_PATH, CHARACTERS_PATH]
 
 const ABSENT = "(absent)"
 
@@ -63,64 +63,6 @@ type AddonVerdict =
   | { readonly kind: "matched"; readonly action: string }
   | { readonly kind: "rejected"; readonly reason: string; readonly detail?: string }
   | { readonly kind: "skipped" }
-
-export type Read =
-  | {
-      readonly itemId: number
-      readonly charId: string
-      readonly inventoryPath: string | null
-      readonly charactersPath: string | null
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const held = new Map<string, string>()
-  let named: string | null = null
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (TAKING_A_VALUE.includes(one)) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      held.set(one, value)
-      continue
-    }
-    if (one.startsWith("--")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${CHAR}\`, ` +
-          `\`${INVENTORY_PATH}\` and \`${CHARACTERS_PATH}\``
-      )
-      continue
-    }
-    if (named !== null) {
-      refusals.push(`\`${one}\` follows the item already named, and one call compares one item`)
-      continue
-    }
-    named = one
-  }
-  if (named === null) refusals.push("this names no item — it takes a bare item id")
-  else if (!/^\d+$/.test(named)) {
-    refusals.push(`\`${named}\` is no whole item id, and a stored trace is reached by id`)
-  }
-  const charId = held.get(CHAR)
-  if (charId === undefined) {
-    refusals.push(
-      `\`${CHAR}\` names the character the stored trace was captured from, and nothing said it`
-    )
-  }
-  if (refusals.length > 0 || named === null || charId === undefined) return { refused: refusals }
-  return {
-    itemId: Number(named),
-    charId,
-    inventoryPath: held.get(INVENTORY_PATH) ?? null,
-    charactersPath: held.get(CHARACTERS_PATH) ?? null,
-  }
-}
 
 function numSaid(value: number | undefined): string {
   return value === undefined ? ABSENT : String(value)
@@ -275,19 +217,23 @@ export function walkSaid(rows: readonly WalkDiffRow[]): readonly string[] {
 }
 
 export async function temperInventoryParity(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const itemId = taken.tracedItemId
 
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const root = resolve(given.root)
   const inventoryPath =
-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+    taken.inventoryPath === undefined
+      ? savedVarsFile(INVENTORY_LUA)
+      : resolve(root, taken.inventoryPath)
   const charactersPath =
-    read.charactersPath === null
+    taken.charactersPath === undefined
       ? savedVarsFile(CHARACTERS_LUA)
-      : resolve(root, read.charactersPath)
+      : resolve(root, taken.charactersPath)
 
   let content: string
   try {
@@ -304,19 +250,19 @@ export async function temperInventoryParity(
 
   let trace: ParityAddonTrace
   try {
-    trace = addonTraces.loadParityAddonTraceFromContent(content, read.itemId)
+    trace = addonTraces.loadParityAddonTraceFromContent(content, itemId)
   } catch (thrown) {
     return refused(
-      `${inventoryPath} holds no stored trace for item ${String(read.itemId)} — ${whyOf(thrown)}`,
+      `${inventoryPath} holds no stored trace for item ${String(itemId)} — ${whyOf(thrown)}`,
       DATA
     )
   }
 
   const db = caps.parseInventoryContent(content)
-  const resolved = resolveItemFromInventory(caps, db, read.itemId)
+  const resolved = resolveItemFromInventory(caps, db, itemId)
   if (resolved === undefined) {
     return refused(
-      `item ${String(read.itemId)} is in the stored trace and in no bag scan of ` +
+      `item ${String(itemId)} is in the stored trace and in no bag scan of ` +
         `${inventoryPath}, so there is nothing fresh to compare it against`,
       DATA
     )
@@ -360,7 +306,7 @@ export async function temperInventoryParity(
       addonMatched === undefined
         ? undefined
         : routing.matchedRouteFrom(addonMatched.action, addonMatched.destination)
-    const routingDiff = routing.computeRoutingDiff(read.charId, item, webMatch, addonMatch)
+    const routingDiff = routing.computeRoutingDiff(taken.char, item, webMatch, addonMatch)
     const report = [
       ...inputsSaid(inputRows),
       "",
@@ -373,7 +319,7 @@ export async function temperInventoryParity(
     return {
       report,
       refusals: [
-        `the addon's stored trace for item ${String(read.itemId)} and a fresh evaluation ` +
+        `the addon's stored trace for item ${String(itemId)} and a fresh evaluation ` +
           "do not agree, and the rows above name where",
       ],
       code: DATA,
