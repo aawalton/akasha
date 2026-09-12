@@ -106,7 +106,6 @@ export const command = {
     "namespace/refresh",
     "number-property/timeout",
     "page-type/namespace",
-    "page-type/refactor-command",
     "namespace/agent",
     "namespace/initiative",
     "namespace/alan",
