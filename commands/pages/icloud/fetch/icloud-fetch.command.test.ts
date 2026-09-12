@@ -51,15 +51,15 @@ test("a second album is refused", () => {
   expect(refusedBy([ALBUM, ALBUM])[0]).toContain("one album")
 })
 
-test("the older spelling of the folder flag is read as the folder flag", () => {
+test("the folder is read from the folder flag", () => {
   const read = readIn([ALBUM, "--output", "/pictures"])
 
   if ("refused" in read) throw new Error("this was refused")
-  expect(read.said.get("--out")).toBe("/pictures")
+  expect(read.said.get("--output")).toBe("/pictures")
 })
 
-test("the folder flag said under both spellings is refused", () => {
-  expect(refusedBy([ALBUM, "--out", "/a", "--output", "/b"])[0]).toContain("twice")
+test("the folder flag said twice is refused", () => {
+  expect(refusedBy([ALBUM, "--output", "/a", "--output", "/b"])[0]).toContain("twice")
 })
 
 test("the json flag is alone and takes no value", () => {

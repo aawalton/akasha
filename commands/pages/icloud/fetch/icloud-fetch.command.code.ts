@@ -19,13 +19,11 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 
 const URL_FLAG = "--url"
 
-const OUT = "--out"
-
 const OUTPUT = "--output"
 
 const JSON_FLAG = "--json"
 
-const VALUED = new Set([URL_FLAG, OUT, OUTPUT])
+const VALUED = new Set([URL_FLAG, OUTPUT])
 
 const BARE = new Set([JSON_FLAG])
 
@@ -59,12 +57,11 @@ export function readIn(argv: readonly string[]): Read {
       continue
     }
     at += 1
-    const key = one === OUTPUT ? OUT : one
-    if (said.has(key)) {
-      refusals.push(`\`${key}\` is said twice over, and it takes one value`)
+    if (said.has(one)) {
+      refusals.push(`\`${one}\` is said twice over, and it takes one value`)
       continue
     }
-    said.set(key, value)
+    said.set(one, value)
   }
   const first = words[0]
   if (first !== undefined) {
@@ -153,7 +150,7 @@ async function fetching(
   if (assets.length === 0) {
     return { report: [], refusals: [`the shared album at ${shareUrl} holds no photo`], code: 2 }
   }
-  const folder = folderOf(read.said.get(OUT), root, from)
+  const folder = folderOf(read.said.get(OUTPUT), root, from)
   await mkdir(folder, { recursive: true })
   const targets = dedupePaths(assets, folder)
   for (const target of targets) await downloadTo(target.asset.downloadURL, target.path)
