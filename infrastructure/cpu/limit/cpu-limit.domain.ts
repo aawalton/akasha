@@ -39,6 +39,19 @@ export const cpuLimit = {
       statement: "The desktop outranks the apps, and the apps outrank everything akasha runs.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A run past its processor ceiling runs to its end rather than being stopped there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a run past its ceiling judged does not land.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run stopped partway leaves the agent nothing to mend that run by.",
+    },
+    {
       invariantKind: "gap",
       statement: "Every processor limit is the value of a page property.",
     },
