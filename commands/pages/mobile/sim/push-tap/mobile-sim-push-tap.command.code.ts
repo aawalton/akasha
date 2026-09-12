@@ -102,7 +102,7 @@ async function traceOf(base: string, sessionId: string): Promise<Traced> {
 }
 
 export type Probing = {
-  readonly appium: () => Promise<string>
+  readonly appium: (done: string[]) => Promise<string>
   readonly loaded: () => SimSessionState | null
   readonly sim: (done: string[]) => Promise<string>
   readonly pushed: (read: Read, udid: string) => Promise<string>
@@ -153,7 +153,7 @@ export async function probed(
   done: string[],
   probing: Probing = PROBING
 ): Promise<Answer> {
-  const base = await probing.appium()
+  const base = await probing.appium(done)
   const udid = read.udid ?? probing.loaded()?.udid ?? (await probing.sim(done))
 
   const pushed = await probing.pushed(read, udid)

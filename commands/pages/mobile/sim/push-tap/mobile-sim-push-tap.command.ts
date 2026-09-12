@@ -20,6 +20,10 @@ export const mobileSimPushTap = {
     },
     {
       invariantKind: "departure",
+      statement: "An Appium server this started is named before the wait for it to answer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run that threw after the push names that push in its refusal.",
     },
     {
