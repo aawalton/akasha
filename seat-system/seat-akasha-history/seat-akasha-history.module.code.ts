@@ -1,10 +1,18 @@
+import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import { underOldKeys } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-const SEATS = "seat-system/seats/pages"
+const SEAT = "seat"
+
+const SEATS_BEFORE = ["seat-system/seats/pages"]
 
 const SUFFIX = ".seat.ts"
+
+function foldersOf(root: string): readonly string[] {
+  const now = pagesAtFor(root, SEAT)
+  return SEATS_BEFORE.includes(now) ? SEATS_BEFORE : [now, ...SEATS_BEFORE]
+}
 
 const ID = "id"
 
@@ -40,7 +48,7 @@ function newestPerPath(root: string): ReadonlyMap<string, Wrote> {
     "--format=%H %ct",
     "--name-only",
     "--",
-    SEATS,
+    ...foldersOf(root),
   ])
   const found = new Map<string, Wrote>()
   if (log === null) return found
@@ -57,7 +65,7 @@ function newestPerPath(root: string): ReadonlyMap<string, Wrote> {
       }
       continue
     }
-    if (!said.startsWith(`${SEATS}/`) || !said.endsWith(SUFFIX)) continue
+    if (!said.endsWith(SUFFIX)) continue
     if (!found.has(said)) found.set(said, wrote)
   }
   return found
@@ -101,9 +109,9 @@ export function akashaSeatInHistory(agentId: string, root: string): SeatInHistor
 
 export function akashaSeatNamedInHistory(seatName: string, root: string): SeatInHistory | null {
   if (seatName === "") return null
-  const wanted = `${SEATS}/${seatName}/${seatName}${SUFFIX}`
+  const wanted = `/${seatName}${SUFFIX}`
   for (const held of seatsInHistory(root).values()) {
-    if (held.path === wanted) return held
+    if (held.path.endsWith(wanted)) return held
   }
   return null
 }

@@ -40,5 +40,15 @@ export const seatAkashaHistory = {
       statement:
         "Git history is walked by the path a seat page had rather than by the seat page type.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "History is walked over the folder the seats sit in now and every folder they sat in before.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat is named in history by the file its page is rather than by that file's folder.",
+    },
   ],
 } as const satisfies Module
