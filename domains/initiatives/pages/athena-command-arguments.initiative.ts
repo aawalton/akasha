@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takingIn` at `commands/arguments/argument-taking/argument-taking.module.code.ts` is the one reader, proven by 15 tests, and nothing calls it. The three readers it replaces still run: `readIn` at `inventory-rule-calling.module.code.ts:164`, `readTaking` at `email-command-reading.module.code.ts:93`, `readIn` at `index-refresh.command.code.ts:32`. Does `calling` resolve a command's argument pages and hand the command what it read, or does each command reach the reader itself?\n",
+        "`takingIn` at `commands/arguments/argument-taking/argument-taking.module.code.ts` is the one reader, proven by 29 tests. The question is settled: `calling` resolves a command's argument pages and hands the command what it read, since `command.page-type.ts` already binds `loadedBy: module/calling` and each command reaching the reader itself repeats the resolution 225 times. This waits on the migration off `taking`.",
     },
     {
       statement:
