@@ -8,4 +8,5 @@ export const loraScales = {
   takes: "how strongly that checkpoint is mixed in",
   value: "text",
   placeholder: "f",
+  default: "1.0",
 } as const satisfies Argument

@@ -100,6 +100,10 @@ export const inferenceZimage = {
     { argument: "argument/lora-paths" },
     { argument: "argument/lora-scales" },
     { argument: "argument/negative-prompt", notWith: ["argument/negative-prompt-file"] },
-    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
+    {
+      argument: "argument/render-prompt",
+      notWith: ["argument/prompt-file"],
+      oneOf: ["argument/prompt-file"],
+    },
   ],
 } as const satisfies Command

@@ -8,4 +8,5 @@ export const height = {
   takes: "how tall the image is rendered",
   value: "whole-number",
   placeholder: "n",
+  default: "1024",
 } as const satisfies Argument
