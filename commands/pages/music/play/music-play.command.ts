@@ -21,11 +21,11 @@ export const musicPlay = {
     { said: "--device-id <id>", takes: "the Spotify device played on, rather than the active one" },
     { said: "--json", takes: "give the answer as JSON rather than as a line of text" },
   ],
-  helpNotes: [
-    "a query is answered with the top hit Spotify gives, so --artist is what keeps a cover off.",
-    "an account with nothing already playing and no device to play on refuses the call.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Nothing playing already and no device to play on refuses the call.",
+    },
     {
       invariantKind: "departure",
       statement: "A uri named plays that exact track and searches for nothing.",
