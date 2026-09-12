@@ -11,7 +11,7 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "`commands/arguments/argument.page-type.ts` is the page type: `said`, `takes`, `value` of none, text, whole-number, true-or-false or path, `placeholder`, `repeats`. `argument/dry-run` is its one page, named by `akasha index refresh`. 322 argument concepts are still spelled in 225 command pages. `--json` is named by 64 of them with 44 different `takes` sentences, `--force` by 12 with 8. Does one shared page carry one sentence, or does a command restate what its argument is for?\n",
+        "`commands/arguments/argument.page-type.ts` is the page type: `said`, `takes`, `value`, `placeholder`, `repeats`. `Single Authority` settles the shape: one page per argument carrying one `takes` sentence, so the 44 wordings of `--json` across 64 command pages become one. The migration is running, largest argument first. Left for Alan: `--last`, `--to` and `--target` each spell two meanings, which is intent 7 and holds those commands back.",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
