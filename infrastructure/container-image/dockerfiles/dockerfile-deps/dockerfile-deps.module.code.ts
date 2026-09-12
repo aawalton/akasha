@@ -12,8 +12,9 @@ export function readJson(path: string): Record<string, unknown> {
   return isObjectRecord(parsed) ? parsed : {}
 }
 
-export function buildPackageNameMap(): Map<string, string> {
-  const workspaces = listWorkspaceDirs(ROOT)
+export function buildPackageNameMap(
+  workspaces: readonly string[] = listWorkspaceDirs(ROOT)
+): Map<string, string> {
   const map = new Map<string, string>()
 
   for (const ws of workspaces) {

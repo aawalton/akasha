@@ -29,8 +29,8 @@ export function dockerfileFor(slug: string): string {
     throw new Error(`${slug} is no built image, so no Dockerfile is written for it`)
   }
   const ext = extensionsOf(config)
-  const names = buildPackageNameMap()
   const dirs = [...listWorkspaceDirs(ROOT)].sort()
+  const names = buildPackageNameMap(dirs)
   switch (config.type) {
     case "nextjs":
       return generateNextjsDockerfile(slug, config, names, ext, dirs)
