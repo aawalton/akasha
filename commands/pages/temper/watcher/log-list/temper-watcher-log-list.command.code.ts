@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
   LogSource,
@@ -23,7 +23,7 @@ const DURATION = /^(\d+)([smhd])$/
 
 type Told = { readonly named: Record<string, string>; readonly flags: readonly string[] }
 
-function told(argv: readonly string[]): Told | string {
+function told(argv: readonly string[], calledAs: string): Told | string {
   const named: Record<string, string> = {}
   const flags: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
@@ -39,7 +39,7 @@ function told(argv: readonly string[]): Told | string {
       flags.push(one)
       continue
     }
-    return `\`${one}\` is nothing \`akasha temper watcher log list\` takes`
+    return `\`${one}\` is nothing \`${calledAs}\` takes`
   }
   return { named, flags }
 }
@@ -68,8 +68,8 @@ function linesIn(path: string, source: LogSource): readonly WatcherLogLine[] | n
   return read
 }
 
-export function temperWatcherLogList(argv: readonly string[]): Answer {
-  const read = told(argv)
+export function temperWatcherLogList(argv: readonly string[], given: Given): Answer {
+  const read = told(argv, given.calledAs)
   if (typeof read === "string") return refused(read, INPUT)
 
   const sinceSaid = read.named[SINCE] ?? "1h"
