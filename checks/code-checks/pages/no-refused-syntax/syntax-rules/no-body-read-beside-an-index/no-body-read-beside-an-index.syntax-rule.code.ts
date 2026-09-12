@@ -1,14 +1,17 @@
 import type {
   Given,
+  Readers,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
-const FACES: ReadonlyMap<string, ReadonlySet<string>> = new Map([
-  ["Answering", new Set(["answering", "index-answering"])],
-  ["Reading", new Set(["shape", "index-shape"])],
-  ["Shadow", new Set(["shadow"])],
+const FACES: Readers = new Map([
+  ["answering", new Set(["Answering"])],
+  ["index-answering", new Set(["Answering"])],
+  ["shape", new Set(["Reading"])],
+  ["index-shape", new Set(["Reading"])],
+  ["shadow", new Set(["Shadow"])],
 ])
 
 const ROOT_WORDS: ReadonlySet<string> = new Set(["root", "repo", "repository"])
@@ -21,19 +24,16 @@ function moduleOf(specifier: string): string {
   return last.replace(/\.[cm]?tsx?$/, "").replace(/\.(module|index)\.code$/, "")
 }
 
-function boundTo(
-  source: ts.SourceFile,
-  wanted: ReadonlyMap<string, ReadonlySet<string>>
-): ReadonlySet<string> {
+function boundTo(source: ts.SourceFile, wanted: Readers): ReadonlySet<string> {
   const named = new Set<string>()
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one) || !ts.isStringLiteral(one.moduleSpecifier)) continue
-    const from = moduleOf(one.moduleSpecifier.text)
     const bound = one.importClause?.namedBindings
     if (bound === undefined || !ts.isNamedImports(bound)) continue
+    const declared = wanted.get(moduleOf(one.moduleSpecifier.text))
+    if (declared === undefined) continue
     for (const each of bound.elements) {
-      const original = each.propertyName?.text ?? each.name.text
-      if (wanted.get(original)?.has(from) === true) named.add(each.name.text)
+      if (declared.has(each.propertyName?.text ?? each.name.text)) named.add(each.name.text)
     }
   }
   return named

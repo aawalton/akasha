@@ -113,15 +113,15 @@ test("a change rewriting a rule's code is judged by the body the change carries"
   ])
 })
 
-test("the readers of page bodies are the names the module pages declare and no others", () => {
+test("the readers of page bodies a module has are the names that module's own page declares", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   modulesFiled(root)
   const found = readersOf(shadowAt(root))
 
-  expect([...found.keys()].sort()).toEqual(["accountValuesIn", "valueAt"])
-  expect([...(found.get("valueAt") ?? [])]).toEqual(["page-value"])
-  expect([...(found.get("accountValuesIn") ?? [])]).toEqual(["claude-account-reading"])
-  expect(found.has("quiet")).toBe(false)
+  expect([...(found.get("page-value") ?? [])]).toEqual(["valueAt"])
+  expect([...(found.get("claude-account-reading") ?? [])]).toEqual(["accountValuesIn"])
+  expect([...(found.get("quiet") ?? [])]).toEqual([])
+  expect([...(found.get("no-module-carries-this-slug") ?? [])]).toEqual([])
 })
 
 test("a rule whose code no change answers a body for is refused", () => {

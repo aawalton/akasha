@@ -152,20 +152,29 @@ export function rulesIn(
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function readersOf(shadow: Shadow): Readers {
-  const found = new Map<string, Set<string>>()
-  for (const value of shadow.index.valuesByPath(MODULE).values()) {
-    const declared = value[DECLARES]
-    const slug = value.slug
-    if (!Array.isArray(declared) || typeof slug !== "string") continue
-    for (const one of declared) {
-      if (typeof one !== "string") continue
-      const held = found.get(one)
-      if (held === undefined) found.set(one, new Set([slug]))
-      else held.add(slug)
-    }
+function declaredBy(shadow: Shadow, moduleSlug: string): ReadonlySet<string> {
+  const named = new Set<string>()
+  const listed = shadow.index.listedAt(MODULE, moduleSlug)[0]
+  if (listed === undefined) return named
+  const declared = shadow.pageOf(listed.path)?.[DECLARES]
+  if (!Array.isArray(declared)) return named
+  for (const one of declared) {
+    if (typeof one === "string") named.add(one)
   }
-  return found
+  return named
+}
+
+export function readersOf(shadow: Shadow): Readers {
+  const held = new Map<string, ReadonlySet<string>>()
+  return {
+    get: (moduleSlug) => {
+      const found = held.get(moduleSlug)
+      if (found !== undefined) return found
+      const named = declaredBy(shadow, moduleSlug)
+      held.set(moduleSlug, named)
+      return named
+    },
+  }
 }
 
 export function refusalsIn(

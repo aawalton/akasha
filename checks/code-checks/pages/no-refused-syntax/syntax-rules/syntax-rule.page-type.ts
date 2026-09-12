@@ -1,7 +1,9 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { SourceFile } from "typescript"
 
-export type Readers = ReadonlyMap<string, ReadonlySet<string>>
+export type Readers = {
+  readonly get: (moduleSlug: string) => ReadonlySet<string> | undefined
+}
 
 export type Given = {
   readonly path: string
@@ -52,6 +54,10 @@ export const syntaxRule = {
     {
       invariantKind: "departure",
       statement: "A rule is handed what the pages declare, since a rule reads no index of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule asks what one module declares rather than holding every module's answer.",
     },
     {
       invariantKind: "departure",

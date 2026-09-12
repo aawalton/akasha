@@ -11,6 +11,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { bodyOf, type Held } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -89,39 +90,44 @@ export function ruling(slug: string, line: number, reason: string): Rule {
 export const NO_READERS: Readers = new Map()
 
 export const READERS_FILED: Readers = new Map([
-  ["valueAt", new Set(["page-value"])],
-  ["accountValuesIn", new Set(["claude-account-reading"])],
+  ["page-value", new Set(["valueAt"])],
+  ["claude-account-reading", new Set(["accountValuesIn"])],
 ])
 
+const MODULE_PAGES: readonly (readonly [string, Held])[] = [
+  [
+    "akasha/pages/value/page-value.module.ts",
+    {
+      id: "01a0596b-0000-7000-8000-000000000002",
+      pageTypeSlug: MODULE,
+      slug: "page-value",
+      pageBodyReaders: ["valueAt"],
+    },
+  ],
+  [
+    "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.ts",
+    {
+      id: "01a0596b-0000-7000-8000-000000000003",
+      pageTypeSlug: MODULE,
+      slug: "claude-account-reading",
+      pageBodyReaders: ["accountValuesIn"],
+    },
+  ],
+  [
+    "akasha/one/quiet.module.ts",
+    {
+      id: "01a0596b-0000-7000-8000-000000000004",
+      pageTypeSlug: MODULE,
+      slug: "quiet",
+    },
+  ],
+]
+
 export function modulesFiled(root: string): undefined {
-  valueAlsoFiled(root, MODULE, [
-    {
-      path: "akasha/pages/value/page-value.module.ts",
-      value: {
-        id: "01a0596b-0000-7000-8000-000000000002",
-        pageTypeSlug: MODULE,
-        slug: "page-value",
-        pageBodyReaders: ["valueAt"],
-      },
-    },
-    {
-      path: "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.ts",
-      value: {
-        id: "01a0596b-0000-7000-8000-000000000003",
-        pageTypeSlug: MODULE,
-        slug: "claude-account-reading",
-        pageBodyReaders: ["accountValuesIn"],
-      },
-    },
-    {
-      path: "akasha/one/quiet.module.ts",
-      value: {
-        id: "01a0596b-0000-7000-8000-000000000004",
-        pageTypeSlug: MODULE,
-        slug: "quiet",
-      },
-    },
-  ])
+  for (const [path, value] of MODULE_PAGES) {
+    writing(root, path, bodyOf(value))
+    listedFiled(root, MODULE, String(value.slug), [{ path, id: String(value.id) }])
+  }
   return undefined
 }
 
