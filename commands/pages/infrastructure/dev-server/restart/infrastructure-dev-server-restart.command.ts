@@ -7,12 +7,7 @@ export const infrastructureDevServerRestart = {
   definition: "the command stopping one app's dev server and starting it again",
   code: "ts",
   name: "restart",
-  taking: [
-    {
-      said: "--port <p>",
-      takes: "the port to run on, replacing the one the base port and the seq work out",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -31,5 +26,6 @@ export const infrastructureDevServerRestart = {
     { argument: "argument/json" },
     { argument: "argument/seq", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
+    { argument: "argument/port" },
   ],
 } as const satisfies Command

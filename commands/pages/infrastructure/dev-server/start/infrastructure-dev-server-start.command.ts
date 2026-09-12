@@ -7,12 +7,7 @@ export const infrastructureDevServerStart = {
   definition: "the command spawning one app's dev server and recording where it is",
   code: "ts",
   name: "start",
-  taking: [
-    {
-      said: "--port <p>",
-      takes: "the port to run on, replacing the one the base port and the seq work out",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -45,5 +40,6 @@ export const infrastructureDevServerStart = {
     { argument: "argument/json" },
     { argument: "argument/seq", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
+    { argument: "argument/port" },
   ],
 } as const satisfies Command
