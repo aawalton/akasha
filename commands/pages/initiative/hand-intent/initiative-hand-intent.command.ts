@@ -13,14 +13,7 @@ export const initiativeHandIntent = {
     { said: "<statement>", takes: "the statement the intent being handed over states" },
     { said: "<to>", takes: "the initiative taking the intent" },
   ],
-  helpNotes: [
-    "an intent is named by its statement, which is the label the work tree draws it under.",
-    "the intent's working memory is handed over with the intent.",
-    "the intent lands after the intents the initiative taking it already states.",
-    "both pages are written by one change, so the intent is never held by neither.",
-    "an initiative handing an intent to itself is refused.",
-    "a run lands one commit and runs no check.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
