@@ -13,17 +13,11 @@ export const temperEsoGenerateTypings = {
       takes: "the checkout the declarations are written into",
     },
   ],
-  helpNotes: [
-    "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
-    "the documentation read is the `~/esoui` clone's `ESOUIDocumentation.txt`, which is Zenimax's and is vendored nowhere here.",
-    "the opt-in manifest is the scope: the dump describes thousands of tokens and an addon wants a few hundred, so a token the manifest does not name is absent from the declarations.",
-    "an enum a kept token names is kept too, and so is an object above a kept object.",
-    "each written file carries the clone provenance line and the API version it was built from, which is what the freshness audit weighs.",
-    "the five files land together as one commit through the mechanical change that writes a code file, which formats each body as it lands.",
-    "a file the checkout already holds is left out of that change, so a run over unchanged documentation lands nothing.",
-    "a clone that is not on this workstation refuses the call rather than writing thinner declarations.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The documentation read is the `~/esoui` clone's `ESOUIDocumentation.txt`.",
+    },
     {
       invariantKind: "departure",
       statement:
@@ -45,6 +39,11 @@ export const temperEsoGenerateTypings = {
     {
       invariantKind: "departure",
       statement: "The checkout written into is named on the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no checkout writes into what `CODE_ROOT` names, else this repository.",
     },
     {
       invariantKind: "departure",
