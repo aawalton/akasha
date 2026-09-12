@@ -8,11 +8,16 @@ import {
   type Topic,
   topicTreeIn,
 } from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import {
+  DATA,
+  OK,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const JSON_SAID = "--json"
+import { alanLearnNext as page } from "akasha/commands/pages/alan/learn-next/alan-learn-next.command.ts"
 
 const UNOPENED = "unopened"
 
@@ -27,11 +32,8 @@ export function sweepOf(leaves: readonly Leaf[]): readonly Leaf[] {
 }
 
 export function alanLearnNext(argv: readonly string[], given: Given): Answer {
-  let json = false
-  for (const one of argv) {
-    if (one !== JSON_SAID) return refused(`\`${one}\` is nothing this takes`, INPUT)
-    json = true
-  }
+  const read = takenFor(argv, given.calledAs, page, [json])
+  if ("refused" in read) return refusedBy(read.refused)
   let tree: Topic
   try {
     tree = topicTreeIn(given.root)
@@ -44,7 +46,9 @@ export function alanLearnNext(argv: readonly string[], given: Given): Answer {
     return refused(`every one of the ${leaves.length} leaves of the book is opened`, DATA)
   }
   return {
-    report: [json ? JSON.stringify(next) : `${next.path}\t${next.label}\t${next.status}`],
+    report: [
+      read.taken.json ? JSON.stringify(next) : `${next.path}\t${next.label}\t${next.status}`,
+    ],
     refusals: [],
     code: OK,
   }
