@@ -18,6 +18,7 @@ import { headOf } from "akasha/git/head-commit/head-commit.module.code.ts"
 import {
   type Candidate,
   chosenFrom,
+  type Wanting,
 } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import {
   candidatesIn,
@@ -28,7 +29,10 @@ import {
   runOf,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
-import type { Ran } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+import {
+  type Ran,
+  systemctl,
+} from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import {
   asked,
   type Running,
@@ -46,6 +50,12 @@ const CLI = "module/cli"
 const DEPLOY = "deploy"
 
 const A_SERVICE = "service"
+
+const SHOW = "show"
+
+const LOAD_STATE = "--property=LoadState"
+
+const LOADED = "LoadState=loaded"
 
 export type Ticked = {
   readonly said: readonly string[]
@@ -86,11 +96,44 @@ export function saidOfNothing(
   return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, and ${deploying.size} with a deploy running`
 }
 
+export function scopeLoaded(probe: Running, slug: string): boolean {
+  const done = asked(probe, [SHOW, scopeFor(slug), LOAD_STATE])
+  return done.out.split("\n").some((one) => one.trim() === LOADED)
+}
+
+export function saidOfLoadedScope(slug: string): string {
+  return `a scope named \`${scopeFor(slug)}\` is loaded with no deploy of \`${slug}\` holding it, so \`${slug}\` was not put up`
+}
+
+export type Past = {
+  readonly chosen: Candidate | null
+  readonly said: readonly string[]
+}
+
+export function chosenPastLoaded(
+  every: readonly Candidate[],
+  now: number,
+  wants: Wanting,
+  probe: Running
+): Past {
+  const said: string[] = []
+  let left = every
+  for (let tries = 0; tries <= every.length; tries += 1) {
+    const chosen = chosenFrom(left, now, wants)
+    if (chosen === null) return { chosen: null, said }
+    if (!scopeLoaded(probe, chosen.slug)) return { chosen, said }
+    said.push(saidOfLoadedScope(chosen.slug))
+    left = left.map((one) => (one.slug === chosen.slug ? { ...one, deploying: true } : one))
+  }
+  return { chosen: null, said }
+}
+
 export function ticked(
   root: string,
   kind: Kind,
   now: number = Date.now(),
-  run: Running = systemdRun
+  run: Running = systemdRun,
+  probe: Running = systemctl
 ): Ticked {
   const tree = treeIn(root, WORKSTATION_SERVICE)
   if (tree === null) {
@@ -102,15 +145,17 @@ export function ticked(
   const deploying = heldNow(root)
   const commit = headOf(root)
   const every = candidatesIn(root, kind, deploying)
-  const chosen = chosenFrom(every, now, wantingIn(root, kind, commit))
-  if (chosen === null) return { said: [saidOfNothing(kind, every, deploying)], wrong: [] }
-  const argv = deployArgv(root, tree, chosen.slug)
-  if ("refused" in argv) return { said: [], wrong: [argv.refused] }
+  const past = chosenPastLoaded(every, now, wantingIn(root, kind, commit), probe)
+  if (past.chosen === null) {
+    return { said: [...past.said, saidOfNothing(kind, every, deploying)], wrong: [] }
+  }
+  const argv = deployArgv(root, tree, past.chosen.slug)
+  if ("refused" in argv) return { said: past.said, wrong: [argv.refused] }
   const started = asked(run, argv)
   if (started.code !== 0) {
-    return { said: [], wrong: [`\`${chosen.slug}\` was not put up — ${started.out}`] }
+    return { said: past.said, wrong: [`\`${past.chosen.slug}\` was not put up — ${started.out}`] }
   }
-  return { said: [`put \`${chosen.slug}\` up at ${commit}`], wrong: [] }
+  return { said: [...past.said, `put \`${past.chosen.slug}\` up at ${commit}`], wrong: [] }
 }
 
 export const EVERY_KIND: readonly Kind[] = [

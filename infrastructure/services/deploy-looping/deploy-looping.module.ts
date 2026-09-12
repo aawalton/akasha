@@ -33,8 +33,18 @@ export const deployLooping = {
       statement: "The scope outlives the loop, so a loop restarted mid-deploy leaves it running.",
     },
     {
-      invariantKind: "gap",
-      statement: "A deploy whose scope outlived its hold is read as a deploy still running.",
+      invariantKind: "departure",
+      statement:
+        "A tick reads whether a service's scope name is free before spending a deploy on it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A scope name taken with no deploy holding it is said, and that service is left for later.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here clears a scope a deploy left behind.",
     },
     {
       invariantKind: "departure",
