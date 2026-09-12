@@ -6,16 +6,7 @@ export const mobileCutRecord = {
   slug: "mobile-cut-record",
   definition: "the command filing what a TestFlight build already at Apple was cut from",
   code: "ts",
-  taking: [
-    { said: "--build-number <n>", takes: "the number App Store Connect gave the build" },
-    { said: "--main-sha <sha>", takes: "the code-repo commit the cut was taken at" },
-    {
-      said: "--shell-sha <sha>",
-      takes: "the shell-repo commit the cut was taken at, where it named one",
-    },
-    { said: "--build-input-tree-hash <hash>", takes: "the build-input closure the cut worked out" },
-    { said: "--cut-at <instant>", takes: "when the cut was taken, this moment where none is said" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -47,5 +38,12 @@ export const mobileCutRecord = {
     },
   ],
   name: "record",
-  arguments: [{ argument: "argument/app" }],
+  arguments: [
+    { argument: "argument/app" },
+    { argument: "argument/build-number", required: true },
+    { argument: "argument/main-sha", required: true },
+    { argument: "argument/shell-sha" },
+    { argument: "argument/build-input-tree-hash" },
+    { argument: "argument/cut-at" },
+  ],
 } as const satisfies Command
