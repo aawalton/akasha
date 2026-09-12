@@ -10,27 +10,7 @@ import {
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import {
-  namedIn,
-  ran,
-} from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
-
-test("the seat an act acts on is the first word past the act's name", () => {
-  expect(namedIn("akasha seat reset", "reset", ["athena", "--force"])).toEqual({ name: "athena" })
-})
-
-test("an act naming no seat at all is refused", () => {
-  const held = namedIn("akasha seat reset", "reset", [])
-  expect("name" in held).toBe(false)
-  expect((held as { refusals: readonly string[]; code: number }).code).toBe(INPUT)
-  expect((held as { refusals: readonly string[] }).refusals[0]).toContain("nothing followed it")
-})
-
-test("a flag where the seat should be named is refused", () => {
-  const held = namedIn("akasha seat reset", "reset", ["--force"])
-  expect("name" in held).toBe(false)
-  expect((held as { refusals: readonly string[] }).refusals[0]).toContain("is a flag")
-})
+import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 test("an act that wrote nothing and threw nothing is answered as nothing done", async () => {
   expect(await ran(async () => {})).toEqual({ report: [], refusals: [], code: OK })

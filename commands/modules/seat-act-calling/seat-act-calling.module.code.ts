@@ -1,23 +1,5 @@
-import {
-  answering,
-  INPUT,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-export type Named = { readonly name: string }
-
-export function namedIn(word: string, act: string, rest: readonly string[]): Named | Answer {
-  const name = rest[0]
-  if (name === undefined) {
-    return refused(`\`${word}\` names the seat to ${act}, and nothing followed it`, INPUT)
-  }
-  if (name.startsWith("-")) {
-    return refused(`\`${word}\` names the seat to ${act} first, and \`${name}\` is a flag`, INPUT)
-  }
-  return { name }
-}
 
 export async function ran(running: (done: string[]) => Promise<void>): Promise<Answer> {
   return await answering(async (done) => {
