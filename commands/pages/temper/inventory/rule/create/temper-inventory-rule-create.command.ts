@@ -7,7 +7,6 @@ export const temperInventoryRuleCreate = {
   definition: "the command adding a category rule",
   code: "ts",
   taking: [
-    { said: "--category <id>", takes: "the category of items the rule reaches" },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
   ],
 
@@ -30,5 +29,6 @@ export const temperInventoryRuleCreate = {
     { argument: "argument/action" },
     { argument: "argument/destination" },
     { argument: "argument/stock-scope" },
+    { argument: "argument/category" },
   ],
 } as const satisfies Command
