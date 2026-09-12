@@ -1,7 +1,13 @@
 import { existsSync, readFileSync } from "node:fs"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { savedVariablesFile } from "akasha/commands/arguments/pages/saved-variables-file.argument.ts"
+import { sideFile as sideFileArgument } from "akasha/commands/arguments/pages/side-file.argument.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperCatalogStatus as page } from "akasha/commands/pages/temper/catalog/status/temper-catalog-status.command.ts"
 import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
 import {
   type AccountSummary,
@@ -15,14 +21,9 @@ import {
   parseSideFile,
   type SideFile,
 } from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const SAVED_VARIABLES_FLAG = "--saved-variables-file"
-
-const SIDE_FILE_FLAG = "--side-file"
-
-const JSON_FLAG = "--json"
+const NAMED = [json, sideFileArgument, savedVariablesFile]
 
 const SPACES = 2
 
@@ -105,9 +106,12 @@ function jsonOf(
   return JSON.stringify({ accounts, sideFile: sideFile ?? null }, null, SPACES).split("\n")
 }
 
-export function temperCatalogStatus(argv: readonly string[] = []): Answer {
-  const capturePath = resolveSavedVariablesPath(valuesOf(argv, SAVED_VARIABLES_FLAG)[0])
-  const sideFilePath = resolveSideFilePath(valuesOf(argv, SIDE_FILE_FLAG)[0])
+export function temperCatalogStatus(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const capturePath = resolveSavedVariablesPath(taken.savedVariablesFile)
+  const sideFilePath = resolveSideFilePath(taken.sideFile)
 
   let summaries: readonly AccountSummary[]
   let sideFile: SideFile | undefined
@@ -122,7 +126,7 @@ export function temperCatalogStatus(argv: readonly string[] = []): Answer {
     return refused(`${capturePath} holds no capture this reads: ${messageOf(thrown)}`, DATA)
   }
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     return { report: jsonOf(summaries, sideFile), refusals: [], code: OK }
   }
 
