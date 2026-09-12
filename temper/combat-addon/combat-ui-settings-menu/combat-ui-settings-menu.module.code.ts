@@ -1,14 +1,3 @@
-import { exportBuild } from "akasha/temper/combat-addon/combat-ui-build-export/combat-ui-build-export.module.code.ts"
-import {
-  POSTTOCHAT_MODE_HEALING,
-  POSTTOCHAT_MODE_MULTI,
-  POSTTOCHAT_MODE_SELECTION,
-  POSTTOCHAT_MODE_SELECTION_HEALING,
-  POSTTOCHAT_MODE_SINGLE,
-  POSTTOCHAT_MODE_SINGLEANDMULTI,
-  POSTTOCHAT_MODE_SMART,
-  postToChat,
-} from "akasha/temper/combat-addon/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
 import {
   getCurrentFight,
   getSelections,
@@ -23,6 +12,17 @@ import {
   LAST_FIGHTS,
   setShowOverHeal,
 } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
+import { exportBuild } from "akasha/temper/combat-addon/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"
+import {
+  POSTTOCHAT_MODE_HEALING,
+  POSTTOCHAT_MODE_MULTI,
+  POSTTOCHAT_MODE_SELECTION,
+  POSTTOCHAT_MODE_SELECTION_HEALING,
+  POSTTOCHAT_MODE_SINGLE,
+  POSTTOCHAT_MODE_SINGLEANDMULTI,
+  POSTTOCHAT_MODE_SMART,
+  postToChat,
+} from "akasha/temper/combat-addon/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 function toggleShowIds(this: void): undefined {

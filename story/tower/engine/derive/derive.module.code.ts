@@ -1,7 +1,7 @@
 import type {
   Derived,
   Sheet,
-} from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
+} from "akasha/story/tower/engine/modules/combat-types/combat-types.module.code.ts"
 
 export function derive(s: Sheet): Derived {
   const a = s.attributes

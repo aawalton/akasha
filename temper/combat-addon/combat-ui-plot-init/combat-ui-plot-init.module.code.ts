@@ -1,8 +1,3 @@
-import type {
-  LayoutControl,
-  TooltipCarrier,
-} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import { namedChild } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type { SelectorControl } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
 import { updateGraphPanel } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
 import {
@@ -35,6 +30,11 @@ import {
 import { editLabelStart } from "akasha/temper/combat-addon/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts"
 import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import type {
+  LayoutControl,
+  TooltipCarrier,
+} from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { namedChild } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 
 const PLOT_DEFAULT_FUNCTION: Record<
   number,

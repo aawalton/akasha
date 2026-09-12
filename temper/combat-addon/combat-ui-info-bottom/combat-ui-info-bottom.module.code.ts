@@ -1,7 +1,3 @@
-import {
-  ARMOR_COLORS,
-  getEnchantQuality,
-} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import type { GearItemControl } from "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 import {
@@ -10,6 +6,10 @@ import {
   getFormattedAbilityName,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import {
+  ARMOR_COLORS,
+  getEnchantQuality,
+} from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 
 const EQUIP_SLOTS: Array<[number, string]> = [
   [EQUIP_SLOT_MAIN_HAND, "EsoUI/Art/CharacterWindow/gearslot_mainhand.dds"],

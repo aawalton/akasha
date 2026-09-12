@@ -1,8 +1,8 @@
+import { derive } from "akasha/story/tower/engine/derive/derive.module.code.ts"
 import type {
   ActionInput,
   ActionResult,
-} from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
-import { derive } from "akasha/story/tower/engine/derive/derive.module.code.ts"
+} from "akasha/story/tower/engine/modules/combat-types/combat-types.module.code.ts"
 import { rng, rollFor } from "akasha/story/tower/engine/rng/rng.module.code.ts"
 
 export function resolveAction(inp: ActionInput): ActionResult {

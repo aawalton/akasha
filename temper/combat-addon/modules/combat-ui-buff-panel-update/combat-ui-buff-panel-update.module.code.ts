@@ -1,15 +1,4 @@
 import {
-  type BuffRowControl,
-  buffSortFunction,
-  buffTextColor,
-  effectColor,
-  getBuffData,
-  getTotalUnitTime,
-  type RowAnchor,
-  updateBuffPanelLegacy,
-} from "akasha/temper/combat-addon/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
-import { isSigilAbility } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import {
   adjustRowSize,
   resetBars,
 } from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
@@ -28,6 +17,17 @@ import type { EffectInstance } from "akasha/temper/combat-addon/modules/combat-c
 import { getFormattedAbilityIcon } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import {
+  type BuffRowControl,
+  buffSortFunction,
+  buffTextColor,
+  effectColor,
+  getBuffData,
+  getTotalUnitTime,
+  type RowAnchor,
+  updateBuffPanelLegacy,
+} from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
+import { isSigilAbility } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 
 interface BuffRowData {
   buffName?: string

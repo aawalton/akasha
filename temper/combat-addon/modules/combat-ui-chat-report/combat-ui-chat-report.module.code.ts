@@ -1,4 +1,8 @@
-import { getBuffDataAndUnits } from "akasha/temper/combat-addon/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
+import { getSelections } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import { optionalNumberValue } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
+import { getBuffDataAndUnits } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import {
   getBossTargetDamage,
   getCurrentReportData,
@@ -7,11 +11,7 @@ import {
   getSingleTargetDamage,
   getTimedataPrefix,
   getUnitsByName,
-} from "akasha/temper/combat-addon/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"
-import { getSelections } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
-import { optionalNumberValue } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
-import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"
 
 const POSTTOCHAT_MODE_NONE = 0
 export const POSTTOCHAT_MODE_SINGLE = 1

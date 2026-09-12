@@ -4,7 +4,7 @@ import {
   type GameCharacterSheet,
 } from "akasha/story/tower/core/modules/character-schema/character-schema.module.code.ts"
 import type { Hud } from "akasha/story/tower/core/revealed-sheet/revealed-sheet.module.code.ts"
-import type { Sheet as CombatSheet } from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
+import type { Sheet as CombatSheet } from "akasha/story/tower/engine/modules/combat-types/combat-types.module.code.ts"
 import { z } from "zod"
 
 export type PersistedCombatant = GameCharacterSheet | FloorEnemy

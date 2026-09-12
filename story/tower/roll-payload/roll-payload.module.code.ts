@@ -1,7 +1,7 @@
 import type {
   ActionInput,
   ActionResult,
-} from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
+} from "akasha/story/tower/engine/modules/combat-types/combat-types.module.code.ts"
 import { z } from "zod"
 
 const TowerRollPayloadSchema = z

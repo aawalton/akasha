@@ -1,4 +1,3 @@
-import type { RowAnchor } from "akasha/temper/combat-addon/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import {
   adjustRowSize,
   getShortFormattedNumber,
@@ -21,6 +20,7 @@ import {
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import type { RowAnchor } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 
 export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating UnitPanel")

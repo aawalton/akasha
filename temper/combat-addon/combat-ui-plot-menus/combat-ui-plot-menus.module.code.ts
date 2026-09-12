@@ -1,4 +1,3 @@
-import { namedChild } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type { SelectorControl } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
 import {
   drawAllPlots,
@@ -33,6 +32,7 @@ import {
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { namedChild } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 
 export const PLOT_FUNCTIONS: ((this: void) => undefined)[] = []
 

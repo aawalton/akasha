@@ -1,4 +1,3 @@
-import type { TooltipCarrier } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import {
   adjustRowSize,
   resetBars,
@@ -33,6 +32,7 @@ import {
   generateSelectionStats,
   LAST_FIGHTS,
 } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
+import type { TooltipCarrier } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 
 function updateReportDeferred(this: void): undefined {
   const report = TemperCombat_Report

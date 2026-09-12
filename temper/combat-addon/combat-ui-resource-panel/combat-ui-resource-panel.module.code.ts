@@ -1,4 +1,3 @@
-import type { RowAnchor } from "akasha/temper/combat-addon/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import {
   adjustRowSize,
   resetBars,
@@ -20,6 +19,7 @@ import type { ResourceAbilityData } from "akasha/temper/combat-addon/modules/com
 import { getFormattedAbilityName } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import type { RowAnchor } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 
 function updateResourceBars(
   this: void,

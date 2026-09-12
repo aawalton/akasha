@@ -1,19 +1,19 @@
-import type {
-  LayoutControl,
-  TooltipCarrier,
-  TooltipSpec,
-} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import {
-  isNonNullObject,
-  namedChild,
-  storeOrigLayout,
-} from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import {
   refreshLiveReport,
   resizeLiveReport,
 } from "akasha/temper/combat-addon/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
 import type { CurrentData } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import type {
+  LayoutControl,
+  TooltipCarrier,
+  TooltipSpec,
+} from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  isNonNullObject,
+  namedChild,
+  storeOrigLayout,
+} from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 
 export interface LiveReportControl extends LayoutControl, TopLevelWindow {
   Toggle?: (this: void, control: Control, value?: boolean) => undefined

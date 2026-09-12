@@ -1,6 +1,6 @@
 declare const TemperCombat_Report: TopLevelWindow &
   import("akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts").ReportControl &
-  import("akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts").LayoutControl
+  import("akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts").LayoutControl
 
 declare const TemperCombat_Report_FightList: import("akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts").UpdatableControl
 
