@@ -1,10 +1,5 @@
 import { MAX_CHAMPION_POINTS } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type {
-  AccountRecipeUnionProgress,
-  AccountScribingUnionProgress,
-} from "akasha/temper/player-completion/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
-import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type {
   AccountPoiUnionProgress,
@@ -20,6 +15,11 @@ import type {
   AccountLoreProgress,
   AccountTributeProgress,
 } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type {
+  AccountRecipeUnionProgress,
+  AccountScribingUnionProgress,
+} from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export function buildAccountSummary(

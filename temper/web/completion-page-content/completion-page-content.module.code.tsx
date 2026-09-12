@@ -35,7 +35,6 @@ import type {
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 import { CompletionSearchContext } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
-import { CompletionAccountTab } from "akasha/temper/web/completion-account-tab/completion-account-tab.module.code.tsx"
 import { CompletionCharactersTab } from "akasha/temper/web/completion-characters-tab/completion-characters-tab.module.code.tsx"
 import { CompletionCompanionsTab } from "akasha/temper/web/completion-companions-tab/completion-companions-tab.module.code.tsx"
 import { CompletionPageEmpty } from "akasha/temper/web/completion-page-empty/completion-page-empty.module.code.tsx"
@@ -52,6 +51,7 @@ import {
   type CompletionToolbarContextValue,
   CompletionToolbarProvider,
 } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+import { CompletionAccountTab } from "akasha/temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx"
 import { useCompletionFilters } from "akasha/temper/web/use-completion-filters/use-completion-filters.module.code.ts"
 import { useCompletionProgress } from "akasha/temper/web/use-completion-progress/use-completion-progress.module.code.ts"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"

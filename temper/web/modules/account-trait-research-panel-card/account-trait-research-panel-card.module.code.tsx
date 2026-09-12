@@ -1,7 +1,7 @@
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,

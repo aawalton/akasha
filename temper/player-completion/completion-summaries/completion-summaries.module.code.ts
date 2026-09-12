@@ -1,10 +1,5 @@
 import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
-  transformAccountRecipeUnion,
-  transformAccountScribingUnion,
-} from "akasha/temper/player-completion/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
-import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
-import {
   transformAccountQuestUnion,
   transformCompanionQuestUnion,
 } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
@@ -48,6 +43,11 @@ import { buildCompanionSummary } from "akasha/temper/player-completion/completio
 import { transformCompletionCharacters } from "akasha/temper/player-completion/completion-transforms/completion-transforms.module.code.ts"
 import { transformTributeProgress } from "akasha/temper/player-completion/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
+import {
+  transformAccountRecipeUnion,
+  transformAccountScribingUnion,
+} from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {

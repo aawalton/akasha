@@ -1,13 +1,3 @@
-import type {
-  AccountRecipeUnionProgress,
-  AccountScribingUnionProgress,
-} from "akasha/temper/player-completion/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
-import {
-  transformAccountRecipeUnion,
-  transformAccountScribingUnion,
-} from "akasha/temper/player-completion/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
-import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
-import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import { transformAccountQuestUnion } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type {
@@ -36,6 +26,16 @@ import type {
   AccountLoreProgress,
   AccountTributeProgress,
 } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type {
+  AccountRecipeUnionProgress,
+  AccountScribingUnionProgress,
+} from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import {
+  transformAccountRecipeUnion,
+  transformAccountScribingUnion,
+} from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,
