@@ -1,4 +1,4 @@
-import * as Knowledge from "akasha/temper/crafting-addon/craft-knowledge/craft-knowledge.module.code.ts"
+import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge/craft-knowledge.module.code.ts"
 
 export interface CraftCharacterSkillLine {
   currentRank?: number
