@@ -48,7 +48,7 @@ const TIMEOUT = "--timeout"
 
 const TAKING = [
   { said: IMAGE, aliases: ["--in"] },
-  { said: MATTE_OUT, aliases: ["--output"] },
+  { said: MATTE_OUT },
   { said: MODEL },
   { said: CUTOUT_OUT },
   { said: FLATTEN },
