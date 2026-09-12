@@ -29,7 +29,20 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
-      statement: "A call to anything that file imports carries the words out of this judgement.",
+      statement:
+        "A call to a name this file imports is followed into the file that import lands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The trace stops at that one file rather than going on from there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call into a file judged here carries those words out of this judgement.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal reached across an import names the file the reading is written in.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +86,15 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "absence",
-      statement: "A reader another file holds is judged by nothing here.",
+      statement: "A specifier landing on no path under akasha is followed nowhere.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name brought in as a default or as a whole module is followed nowhere.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A reader two files on from a command's code is read by nothing here.",
     },
     {
       invariantKind: "absence",

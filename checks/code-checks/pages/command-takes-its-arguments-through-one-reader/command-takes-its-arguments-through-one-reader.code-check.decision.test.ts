@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import {
   found,
   moduleOf,
+  type Reach,
+  reaching,
   slugOf,
 } from "akasha/checks/code-checks/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.code-check.decision.code.ts"
 
@@ -57,7 +59,7 @@ test("a reader the same file declares is followed into", () => {
   expect(said[0]).toContain("`words.length`")
 })
 
-test("a reader another file holds carries those words out of this judgement", () => {
+test("a reader no import of this file names is followed nowhere", () => {
   expect(found(AT, bodied("  return answered(readIn(argv))\n"))).toEqual([])
 })
 
@@ -141,4 +143,77 @@ test("a module's refusals are named in the order the lines run", () => {
   const said = found(BESIDE_AT, READER.replace("saidFor", "eachFor") + READER)
   expect(said[0]).toContain("line 2")
   expect(said[1]).toContain("line 5")
+})
+
+const ONWARD_AT = "temper/commands/onward/onward.module.code.ts"
+
+const TAKEN_AT = "commands/arguments/word-taking/word-taking.module.code.ts"
+
+function brings(at: string, name: string): string {
+  return `import { ${name} } from "akasha/${at}"\n`
+}
+
+function opening(held: ReadonlyMap<string, string>): Reach {
+  return reaching((at) => held.get(at) ?? null)
+}
+
+const HANDS_ON = "  return answered(saidFor(argv))\n"
+
+test("a reader another file holds is followed one file on", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const said = found(AT, brings(FAR_AT, "saidFor") + bodied(HANDS_ON), reach)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(FAR_AT)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("`argv.length`")
+})
+
+test("a reader in a file nothing opens is followed nowhere", () => {
+  expect(found(AT, brings(FAR_AT, "saidFor") + bodied(HANDS_ON))).toEqual([])
+})
+
+test("a reader a renamed import names is followed under the name that file exports", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = `import { saidFor as heldFor } from "akasha/${FAR_AT}"\n`
+  const said = found(AT, brought + bodied("  return answered(heldFor(argv))\n"), reach)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(FAR_AT)
+})
+
+test("the trace stops one file on", () => {
+  const onward = READER.replace("return argv.length", "return onward(argv)")
+  const relays = brings(ONWARD_AT, "onward") + onward
+  const reach = opening(
+    new Map([
+      [FAR_AT, relays],
+      [ONWARD_AT, READER.replace("saidFor", "onward")],
+    ])
+  )
+  expect(found(AT, brings(FAR_AT, "saidFor") + bodied(HANDS_ON), reach)).toEqual([])
+})
+
+test("a call into a file judged here is followed nowhere", () => {
+  const reach = opening(new Map([[BESIDE_AT, READER]]))
+  expect(found(AT, brings(BESIDE_AT, "saidFor") + bodied(HANDS_ON), reach)).toEqual([])
+})
+
+test("a call to `takenFor` is followed nowhere even where that file opens", () => {
+  const reach = opening(new Map([[TAKEN_AT, READER.replace("saidFor", "takenFor")]]))
+  const hands = "  return answered(takenFor(argv, given.calledAs, page, PAGES))\n"
+  expect(found(AT, brings(TAKEN_AT, "takenFor") + bodied(hands), reach)).toEqual([])
+})
+
+test("a specifier landing on no path under akasha is followed nowhere", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = 'import { saidFor } from "node:path"\n'
+  expect(found(AT, brought + bodied(HANDS_ON), reach)).toEqual([])
+})
+
+test("a command's own read is named before one reached across an import", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const body = "  return answered(argv[0], saidFor(argv))\n"
+  const said = found(AT, brings(FAR_AT, "saidFor") + bodied(body), reach)
+  expect(said).toHaveLength(2)
+  expect(said[0]).not.toContain(FAR_AT)
+  expect(said[1]).toContain(FAR_AT)
 })

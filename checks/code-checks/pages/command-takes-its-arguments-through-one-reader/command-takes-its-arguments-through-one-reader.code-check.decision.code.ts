@@ -1,4 +1,11 @@
+import {
+  bodyOf,
+  onDisk,
+  textIn,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 
@@ -14,6 +21,10 @@ const FIRST = 0
 
 const NOWHERE = -1
 
+const AFTER = 1
+
+const ONE_HOP = 1
+
 const ONE_READER = "takenFor"
 
 const WORDS = "argv"
@@ -25,20 +36,63 @@ const INSTEAD =
 type Held = ReadonlyMap<string, ts.FunctionLikeDeclaration>
 
 type Found = {
+  readonly at: string
   readonly line: number
   readonly how: string
 }
 
-type Reading = {
+export type Opening = (at: string) => string | null
+
+type Reached = {
+  readonly at: string
+  readonly named: string
+}
+
+type Opened = {
   readonly source: ts.SourceFile
   readonly declared: Held
+  readonly imported: ReadonlyMap<string, Reached>
+}
+
+export type Reach = {
+  readonly open: Opening
+  readonly held: Map<string, Opened | null>
+}
+
+type Shared = {
+  readonly reach: Reach
   readonly walked: Set<string>
   readonly seen: Found[]
+}
+
+type Reading = {
+  readonly shared: Shared
+  readonly at: string
+  readonly opened: Opened
+  readonly hops: number
 }
 
 type Taking = {
   readonly holder: ts.FunctionLikeDeclaration
   readonly at: number
+}
+
+const NOTHING_OPENS: Opening = () => null
+
+export function reaching(open: Opening): Reach {
+  return { open, held: new Map() }
+}
+
+export function openingIn(change: Change): Opening {
+  return (at) => textIn(change, at)
+}
+
+export function openingUnder(root: string): Opening {
+  const disk = onDisk(root)
+  return (at) => {
+    const bytes = disk(at)
+    return bytes === null ? null : bodyOf({ root, path: at, bytes })
+  }
 }
 
 function tailOf(path: string): string | null {
@@ -113,9 +167,9 @@ function sayingOf(node: ts.Identifier): string {
 }
 
 function reading(state: Reading, holder: ts.FunctionLikeDeclaration, at: number): undefined {
-  const key = `${holder.pos} ${at}`
-  if (state.walked.has(key)) return
-  state.walked.add(key)
+  const key = `${state.at} ${holder.pos} ${at}`
+  if (state.shared.walked.has(key)) return
+  state.shared.walked.add(key)
   const taking = holder.parameters[at]
   const body = holder.body
   if (taking === undefined || body === undefined || !ts.isIdentifier(taking.name)) return
@@ -123,20 +177,65 @@ function reading(state: Reading, holder: ts.FunctionLikeDeclaration, at: number)
   const visit = (node: ts.Node): undefined => {
     if (ts.isIdentifier(node) && node.text === words && named(node)) {
       const call = handedOn(node)
-      if (call === null) state.seen.push({ line: lineOf(state.source, node), how: sayingOf(node) })
-      else followed(state, call, node)
+      if (call === null) {
+        const line = lineOf(state.opened.source, node)
+        state.shared.seen.push({ at: state.at, line, how: sayingOf(node) })
+      } else followed(state, call, node)
     }
     ts.forEachChild(node, visit)
   }
   ts.forEachChild(body, visit)
 }
 
+function importedIn(path: string, source: ts.SourceFile): ReadonlyMap<string, Reached> {
+  const every = new Map<string, Reached>()
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one) || !ts.isStringLiteral(one.moduleSpecifier)) continue
+    const clause = one.importClause
+    const bound = clause?.namedBindings
+    if (clause === undefined || clause.isTypeOnly || bound === undefined) continue
+    if (!ts.isNamedImports(bound)) continue
+    const at = landingOf(path, one.moduleSpecifier.text)
+    if (at === null) continue
+    for (const each of bound.elements) {
+      if (each.isTypeOnly) continue
+      every.set(each.name.text, { at, named: each.propertyName?.text ?? each.name.text })
+    }
+  }
+  return every
+}
+
+function openedOf(path: string, source: ts.SourceFile): Opened {
+  return { source, declared: declaredIn(source), imported: importedIn(path, source) }
+}
+
+function openedAt(reach: Reach, at: string): Opened | null {
+  const held = reach.held.get(at)
+  if (held !== undefined) return held
+  const text = reach.open(at)
+  const made = text === null ? null : openedOf(at, parsedAs(at, text))
+  reach.held.set(at, made)
+  return made
+}
+
+function hopped(state: Reading, callee: ts.Identifier, at: number): undefined {
+  if (state.hops >= ONE_HOP) return
+  const held = state.opened.imported.get(callee.text)
+  if (held === undefined || judgedIn(held.at)) return
+  const opened = openedAt(state.shared.reach, held.at)
+  if (opened === null) return
+  const into = opened.declared.get(held.named)
+  if (into === undefined) return
+  reading({ shared: state.shared, at: held.at, opened, hops: state.hops + ONE_HOP }, into, at)
+}
+
 function followed(state: Reading, call: ts.CallExpression, node: ts.Identifier): undefined {
   const callee = call.expression
-  if (!ts.isIdentifier(callee)) return
-  const into = state.declared.get(callee.text)
-  if (into === undefined) return
-  reading(state, into, call.arguments.indexOf(node))
+  if (!ts.isIdentifier(callee) || callee.text === ONE_READER) return
+  const at = call.arguments.indexOf(node)
+  const into = state.opened.declared.get(callee.text)
+  if (into === undefined) hopped(state, callee, at)
+  else reading(state, into, at)
 }
 
 function saidOut(one: ts.FunctionDeclaration | ts.VariableStatement): boolean {
@@ -165,19 +264,31 @@ function takingsIn(source: ts.SourceFile): readonly Taking[] {
   return every
 }
 
-function takingFor(path: string, source: ts.SourceFile, declared: Held): readonly Taking[] {
+function takingFor(path: string, opened: Opened): readonly Taking[] {
   const slug = slugOf(path)
-  if (slug === null) return takingsIn(source)
-  const holder = declared.get(exportedAs(slug))
+  if (slug === null) return takingsIn(opened.source)
+  const holder = opened.declared.get(exportedAs(slug))
   return holder === undefined ? [] : [{ holder, at: FIRST }]
 }
 
-export function found(path: string, text: string): readonly string[] {
+function sayingFor(path: string, one: Found): string {
+  if (one.at === path) return `line ${one.line} ${one.how} — ${INSTEAD}`
+  return `${one.at} line ${one.line} ${one.how}, and this hands those words there — ${INSTEAD}`
+}
+
+function before(path: string, one: Found, other: Found): number {
+  const mine = (held: Found): number => (held.at === path ? FIRST : AFTER)
+  if (mine(one) !== mine(other)) return mine(one) - mine(other)
+  if (one.at !== other.at) return one.at < other.at ? NOWHERE : AFTER
+  return one.line - other.line
+}
+
+export function found(path: string, text: string, reach?: Reach): readonly string[] {
   if (!judgedIn(path)) return []
-  const source = parsedAs(path, text)
-  const declared = declaredIn(source)
-  const state: Reading = { source, declared, walked: new Set(), seen: [] }
-  for (const one of takingFor(path, source, declared)) reading(state, one.holder, one.at)
-  const said = [...state.seen].sort((one, other) => one.line - other.line)
-  return said.map((one) => `line ${one.line} ${one.how} — ${INSTEAD}`)
+  const opened = openedOf(path, parsedAs(path, text))
+  const shared: Shared = { reach: reach ?? reaching(NOTHING_OPENS), walked: new Set(), seen: [] }
+  const state: Reading = { shared, at: path, opened, hops: FIRST }
+  for (const one of takingFor(path, opened)) reading(state, one.holder, one.at)
+  const said = [...shared.seen].sort((one, other) => before(path, one, other))
+  return said.map((one) => sayingFor(path, one))
 }
