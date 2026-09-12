@@ -41,14 +41,13 @@ export const OPEN = "--open"
 export const LAST = "--last"
 export const JSON_SAID = "--json"
 export const DRY_RUN = "--dry-run"
-export const LEAVE_GAP = "--leave-gap"
 export const MEND = "--mend"
 export const FROM_FILE = "--from-file"
 export const RELATIONSHIP = "--relationship"
 
 export const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID, FROM_FILE, RELATIONSHIP]
 
-export const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN, LEAVE_GAP, MEND]
+export const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN, MEND]
 
 const KEYS = [
   "id",
