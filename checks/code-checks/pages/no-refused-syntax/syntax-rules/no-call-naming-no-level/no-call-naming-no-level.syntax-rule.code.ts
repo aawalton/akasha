@@ -7,6 +7,8 @@ import ts from "typescript"
 
 const MARKED = /`akasha[ \t]+([^`\n]+)`/g
 
+const RECORDS_WHAT_WAS_SAID = /\.finding\.tsx?$/
+
 const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 const APART = /[ \t]+/
@@ -42,6 +44,7 @@ export function lostIn(said: string, standing: Given): Lost | null {
 }
 
 export function noCallNamingNoLevel(standing: Given): readonly Refusal[] {
+  if (RECORDS_WHAT_WAS_SAID.test(standing.path)) return []
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     const text = literalPartIn(node)

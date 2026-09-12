@@ -9,14 +9,18 @@ import { noCallNamingNoLevel } from "akasha/checks/code-checks/pages/no-refused-
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
-function over(text: string): readonly Refusal[] {
+function judged(path: string, text: string): readonly Refusal[] {
   return noCallNamingNoLevel({
-    path: PROBE_AT,
-    source: parsedAs(PROBE_AT, text),
+    path,
+    source: parsedAs(path, text),
     readers: NO_READERS,
     namedAt: LEVELS_NAMED,
     typedAt: LEVELS_TYPED,
   })
+}
+
+function over(text: string): readonly Refusal[] {
+  return judged(PROBE_AT, text)
 }
 
 function said(text: string): string {
@@ -83,6 +87,15 @@ test("a literal that is itself the call is not judged, carrying no backtick insi
 test("two marked calls in one literal are refused once each", () => {
   const text = `${marked("change take")} and ${marked("change stray")}`
   expect(over(said(text))).toHaveLength(2)
+})
+
+test("a finding is judged nothing, holding what was said when it was said", () => {
+  const at = "domains/findings/pages/one-thing-happened.finding.ts"
+  expect(judged(at, said(marked("change take")))).toEqual([])
+})
+
+test("the same call outside a finding is refused", () => {
+  expect(over(said(marked("change take")))).toHaveLength(1)
 })
 
 test("the line named is the line the literal is on", () => {

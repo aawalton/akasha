@@ -48,6 +48,15 @@ export const noCallNamingNoLevel = {
     },
     {
       invariantKind: "absence",
+      statement:
+        "A call inside a finding is not judged, a finding holding what was said when it was said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A finding is where the tree holds a past state rather than what is true now.",
+    },
+    {
+      invariantKind: "absence",
       statement: "A call whose first word names no level is not judged.",
     },
     {
