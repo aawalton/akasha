@@ -16,5 +16,7 @@ export const athenaCommandsCleanup = {
     "An intent whose next move is unclear has that question written into its working memory, and the work goes on.",
     "The work goes on until every intent left on a child initiative is blocked on Alan.",
     "A subagent lands its own change, and the coordinating seat keeps the child pages.",
+    "The `Answer` type moving out of `module/calling` is one landing over about 270 files, and it lands alone and last with nothing else in flight.",
+    "Taking `taking` off `page-type/command` is the coordinating seat's one landing, made once every command page states `taking: []`.",
   ],
 } as const satisfies Initiative
