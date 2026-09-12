@@ -30,5 +30,6 @@ export const athenaCommandsCleanup = {
     "A page invariant that reads like a group rule often means the opposite, so the refusal is confirmed in the code before a page key is landed.",
     "An import edit and the edits leaning on it are one unit, so the whole import line is settled from every name the file will use before any body edit is drafted.\n",
     "A command page and the module page beneath it can disagree with nothing to catch it, and a check compares code against the page beside that code, so the module page is the one that has been wrong.\n",
+    "`asJson` is exactly one `JSON.stringify` call and nothing else, so a second element, or a `null, SPACES` spelling split into lines, is `told` rather than `asJson`.\n",
   ],
 } as const satisfies Initiative
