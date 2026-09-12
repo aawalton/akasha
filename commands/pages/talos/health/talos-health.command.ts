@@ -53,7 +53,7 @@ export const talosHealth = {
   name: "health",
   arguments: [
     { argument: "argument/cluster" },
-    { argument: "argument/ip" },
+    { argument: "argument/ip", required: true },
     { argument: "argument/control-plane-ips" },
     { argument: "argument/worker-ips" },
   ],
