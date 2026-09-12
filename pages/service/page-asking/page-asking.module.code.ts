@@ -4,8 +4,11 @@ import {
   type Valued,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
+  COMPUTED,
+  type Counting,
   carriedFor,
   computedInto,
+  computedOver,
   gatheredFor,
   type Named,
   pagesOfType,
@@ -235,6 +238,69 @@ function byPath(one: Valued, two: Valued): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
 
+function workedIn(carried: readonly Carried[]): ReadonlySet<string> {
+  const worked = new Set<string>()
+  for (const one of carried) if (one.pageTypeSlug === COMPUTED) worked.add(one.key)
+  return worked
+}
+
+function narrowsOn(query: Query, worked: ReadonlySet<string>): boolean {
+  if (query.sortBy !== undefined && worked.has(query.sortBy)) return true
+  const where = query.where
+  if (where === undefined) return false
+  return Object.keys(where).some((key) => worked.has(key))
+}
+
+function carriesWorked(query: Query, worked: ReadonlySet<string>): boolean {
+  const keys = query.keys
+  if (keys === undefined) return worked.size > 0
+  return keys.some((key) => worked.has(key))
+}
+
+function orderedIn(query: Query, held: readonly Valued[]): readonly Valued[] {
+  const sortBy = query.sortBy
+  const sorted = [...held].sort(byPath)
+  if (sortBy !== undefined) sorted.sort((one, two) => weigh(one.value[sortBy], two.value[sortBy]))
+  if (query.descending === true) sorted.reverse()
+  return sorted
+}
+
+function takenIn(query: Query, sorted: readonly Valued[]): readonly Valued[] {
+  const limit = query.limit
+  const from = query.offset ?? 0
+  return limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
+}
+
+function answering(query: Query, taken: readonly Valued[], n: number): Asked {
+  return { rows: taken.map((one) => rowOf(one.value, query.keys)), n }
+}
+
+function countedFirst(root: string, query: Query, counting: readonly Counting[]): Asked {
+  const counted = computedInto(root, counting)
+  const darkened = unlit(query, counted.dark)
+  if (darkened !== null) return { refused: darkened }
+  const held = counted.rows.filter((one) => narrows(one.value, query.where))
+  const sorted = orderedIn(query, held)
+  return answering(query, takenIn(query, sorted), sorted.length)
+}
+
+function narrowedFirst(
+  root: string,
+  query: Query,
+  counting: readonly Counting[],
+  working: boolean
+): Asked {
+  const rows = counting.map((one) => one.row)
+  const held = rows.filter((one) => narrows(one.value, query.where))
+  const sorted = orderedIn(query, held)
+  const taken = takenIn(query, sorted)
+  if (!working) return answering(query, taken, sorted.length)
+  const counted = computedOver(root, counting, taken)
+  const darkened = unlit(query, counted.dark)
+  if (darkened !== null) return { refused: darkened }
+  return answering(query, counted.rows, sorted.length)
+}
+
 export function asking(root: string, query: Query): Asked {
   const { limit, offset } = query
   if (limit !== undefined && (!Number.isInteger(limit) || limit < 0)) {
@@ -254,23 +320,12 @@ export function asking(root: string, query: Query): Asked {
   const carried = carriedFor(reading, query.pageTypeSlug)
   const unnamed = unkeyed(query, carried)
   if (unnamed !== null) return { refused: unnamed }
-  let held: readonly Valued[]
   try {
-    const counted = computedInto(
-      root,
-      gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [], reading)
-    )
-    const darkened = unlit(query, counted.dark)
-    if (darkened !== null) return { refused: darkened }
-    held = counted.rows.filter((one) => narrows(one.value, query.where))
+    const counting = gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [], reading)
+    const worked = workedIn(carried)
+    if (narrowsOn(query, worked)) return countedFirst(root, query, counting)
+    return narrowedFirst(root, query, counting, carriesWorked(query, worked))
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
   }
-  const sortBy = query.sortBy
-  const sorted = [...held].sort(byPath)
-  if (sortBy !== undefined) sorted.sort((one, two) => weigh(one.value[sortBy], two.value[sortBy]))
-  if (query.descending === true) sorted.reverse()
-  const from = offset ?? 0
-  const taken = limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
-  return { rows: taken.map((one) => rowOf(one.value, query.keys)), n: sorted.length }
 }

@@ -37,7 +37,7 @@ import { textAt, type Value } from "akasha/pages/value-reading/page-value-readin
 
 const PAGE_TYPE = "page-type"
 
-const COMPUTED = "computed-property"
+export const COMPUTED = "computed-property"
 
 const CODE = ".code.ts"
 
@@ -207,9 +207,13 @@ function reachingIn(
   return { subjectAt, namingAt }
 }
 
-export function computedInto(root: string, counting: readonly Counting[]): Counted {
+export function computedOver(
+  root: string,
+  counting: readonly Counting[],
+  taken: readonly Valued[]
+): Counted {
   if (counting.every((one) => one.computed.length === 0)) {
-    return { rows: counting.map((one) => one.row), dark: new Map() }
+    return { rows: taken, dark: new Map() }
   }
   const subjects = new Map<string, Subject>()
   const named = new Map<string, string>()
@@ -224,13 +228,21 @@ export function computedInto(root: string, counting: readonly Counting[]): Count
   }
   const computing = computingOver(reachingIn(root, subjects, named))
   const dark = new Map<string, string>()
-  const rows = counting.map((one) => {
-    const worked = computing.workedAt(one.row.path)
-    if (worked === null) return one.row
+  const rows = taken.map((one) => {
+    const worked = computing.workedAt(one.path)
+    if (worked === null) return one
     for (const [key, why] of worked.dark) if (!dark.has(key)) dark.set(key, why)
-    return { path: one.row.path, value: worked.value as Value }
+    return { path: one.path, value: worked.value as Value }
   })
   return { rows, dark }
+}
+
+export function computedInto(root: string, counting: readonly Counting[]): Counted {
+  return computedOver(
+    root,
+    counting,
+    counting.map((one) => one.row)
+  )
 }
 
 function valuedFor(

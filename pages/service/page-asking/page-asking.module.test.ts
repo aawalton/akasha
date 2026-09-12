@@ -1,26 +1,22 @@
 import { expect, test } from "bun:test"
-import { join } from "node:path"
 import {
-  type Asked,
   askedFor,
   asking,
   keysOf,
   meets,
   ownerFor,
-  type Query,
   shaping,
   titledAs,
 } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-
-const root = join(import.meta.dir, "..", "..", "..")
-
-function typesHeld(
-  types: Readonly<Record<string, Record<string, unknown>>>
-): Map<string, ReadonlyMap<string, Record<string, unknown>>> {
-  const made = new Map<string, ReadonlyMap<string, Record<string, unknown>>>()
-  made.set("page-type", new Map(Object.entries(types)))
-  return made
-}
+import {
+  levels,
+  over,
+  persona,
+  root,
+  rowsOf,
+  slugsOf,
+  typesHeld,
+} from "akasha/pages/service/page-asking/page-asking.module.test-fixtures.ts"
 
 test("a page type naming one above it reads the owner that climb carries", () => {
   expect(ownerFor(root, new Map(), "temper-catalog-thing")).toBe("account-page")
@@ -62,11 +58,6 @@ test("a page type above that nothing holds stops no other climb", () => {
   })
   expect(ownerFor(root, held, "under")).toBe("there-owner")
 })
-
-function rowsOf(asked: Asked): readonly Record<string, unknown>[] {
-  if ("refused" in asked) throw new Error(`refused: ${asked.refused}`)
-  return asked.rows
-}
 
 test("every page of a type is answered", () => {
   const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind" }))
@@ -213,18 +204,6 @@ test("an offset that is not whole is refused", () => {
   expect("refused" in asked && asked.refused).toContain("offset")
 })
 
-function slugsOf(asked: Asked): readonly unknown[] {
-  return rowsOf(asked).map((one) => one.slug)
-}
-
-function over(where: unknown): Asked {
-  return asking(root, {
-    pageTypeSlug: "invariant-kind",
-    where: where as Query["where"],
-    keys: ["slug"],
-  })
-}
-
 test("a test this does not run is refused rather than dropped", () => {
   const asked = over({ slug: { startsWith: "dep" } })
   expect("refused" in asked && asked.refused).toContain("where.slug.startsWith")
@@ -370,4 +349,38 @@ test("a declaration is titled by its own property slug rather than by the defini
   const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
   const found = declarations.find((one) => one.key === "invariant-group")
   expect(found?.title).toBe("Invariant Group")
+})
+
+test("a question naming no calculated key takes what the unlimited question takes", () => {
+  const named = { sortBy: "slug", keys: ["slug"] } as const
+  const every = persona(named)
+  const some = persona({ ...named, offset: 2, limit: 3 })
+  if ("refused" in every) throw new Error(every.refused)
+  if ("refused" in some) throw new Error(some.refused)
+  expect(some.rows).toEqual(every.rows.slice(2, 5))
+  expect(some.n).toBe(every.n)
+  expect(some.n).toBeGreaterThan(some.rows.length)
+})
+
+test("a question naming no key carries the calculations of the rows it took", () => {
+  const every = rowsOf(persona({ sortBy: "slug" }))
+  const some = rowsOf(persona({ sortBy: "slug", offset: 2, limit: 3 }))
+  expect(some).toEqual(every.slice(2, 5))
+  expect(typeof some[0]?.relationshipLevel).toBe("number")
+})
+
+test("a where naming a calculated key narrows on what that calculation answered", () => {
+  const every = levels(undefined)
+  const below = levels({ relationshipLevel: { before: 1 } })
+  const above = levels({ relationshipLevel: { "at-or-after": 1 } })
+  expect(every.length).toBeGreaterThan(1)
+  expect(levels({ relationshipLevel: { after: 1000000 } })).toEqual([])
+  expect([...below, ...above].sort()).toEqual([...every].sort())
+})
+
+test("a sortBy naming a calculated key orders by what that calculation answered", () => {
+  const rows = rowsOf(persona({ sortBy: "relationshipLevel", keys: ["relationshipLevel"] }))
+  const said = rows.map((one) => Number(one.relationshipLevel))
+  expect(said.length).toBeGreaterThan(1)
+  expect(said).toEqual([...said].sort((one, two) => one - two))
 })

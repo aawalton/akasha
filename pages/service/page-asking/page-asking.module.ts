@@ -7,6 +7,7 @@ export const pageAsking = {
   definition: "a question put to the pages, and the rows it answers with",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -95,7 +96,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A calculation is worked out over every page answered.",
+      statement: "A calculation the rows carry is worked out over every row a question answers.",
     },
     {
       invariantKind: "departure",
@@ -104,11 +105,26 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A calculation is worked out before the tests narrow.",
+      statement:
+        "A question testing or ordering on a calculated key works every calculation out first.",
     },
     {
       invariantKind: "departure",
-      statement: "A calculation is worked out before the rows are ordered.",
+      statement:
+        "A question testing and ordering on no calculated key narrows before working any out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question whose rows carry no calculated key works no calculation out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation is worked out over the rows taken rather than over every row gathered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation reaches every page gathered however few rows are worked out.",
     },
     {
       invariantKind: "departure",

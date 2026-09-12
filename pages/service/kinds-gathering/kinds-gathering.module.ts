@@ -44,6 +44,15 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A calculation is worked out over the rows named rather than over every row gathered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation reaches every row gathered however few rows are worked out.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row is keyed by its path.",
     },
     {
