@@ -180,7 +180,7 @@ export const temperItemsAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A move at the bank waits for the game to settle before the next move.",
+      statement: "Moves at the bank go out in batches, a cooldown apart.",
     },
     {
       invariantKind: "constraint",
