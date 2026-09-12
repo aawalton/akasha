@@ -7,6 +7,8 @@ import {
   FOOD_ENTRIES_AT,
   outsideTracked,
 } from "akasha/alan/track/landing/track-landing.module.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
@@ -16,6 +18,7 @@ import {
   alanTracking,
   NO_GLASS,
   strayIn,
+  trackedBy,
 } from "akasha/commands/pages/alan/tracking/alan-tracking.command.code.ts"
 import {
   BESIDE_FOOD_ENTRIES,
@@ -117,6 +120,46 @@ test("a day and the rows beside it are named as the change adding a file, with t
     { at: ADDS, given: { at: AT, body: DAY } },
     { at: ADDS, given: { at: ROWS_AT, body: ROW } },
   ])
+})
+
+const WENT_WRONG = new Error("the commit was written and the push went wrong")
+
+function askingIn(root: string): readonly string[] {
+  return ["--file-path", AT, "--content-file", bodyAt(root, "threw.txt", DAY), "--message", "held"]
+}
+
+test("a run that landed the commit and then threw says that commit in its refusal", async () => {
+  const root = scratch.rootFor("akasha-tracking-")
+  const asking = askingIn(root)
+  const said = await trackedBy(asking, servingIn(root), throwingAfter(["abc123"], WENT_WRONG))
+
+  expect(said.report).toEqual(["abc123"])
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: abc123. Nothing after that ran."
+  )
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run that threw before it landed anything says the fault by itself", async () => {
+  const root = scratch.rootFor("akasha-tracking-")
+  const asking = askingIn(root)
+  const said = await trackedBy(asking, servingIn(root), throwingAfter([], WENT_WRONG))
+
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the commit was written and the push went wrong")
+  expect(said.refusals.some((one) => one.startsWith("this stopped part way"))).toBe(false)
+})
+
+test("a run that wrote twice names each write in the order it happened", async () => {
+  const root = scratch.rootFor("akasha-tracking-")
+  const wrote = [`landed ${AT}`, "abc123"]
+  const said = await trackedBy(askingIn(root), servingIn(root), throwingAfter(wrote, WENT_WRONG))
+
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(
+    `this stopped part way. What it had done by then is this: landed ${AT}; abc123. ` +
+      "Nothing after that ran."
+  )
 })
 
 test("a food entry is named as the change adding a file at its path", () => {

@@ -56,6 +56,14 @@ export const alanTracking = {
       invariantKind: "absence",
       statement: "Nothing here reaches a path an agent chose.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "tracking",
   arguments: [

@@ -2,6 +2,7 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { keeping } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import { type Answer, answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
@@ -70,14 +71,17 @@ export function wroteIn(landed: Applied): readonly string[] {
 }
 
 export async function landingTracked(
+  done: string[],
   root: string,
   changes: readonly FileChange[],
   message: string
 ): Promise<Answer> {
   const stray = strayAmong(changes.flatMap(pathsOf))
   if (stray.length > 0) return mistaking(stray)
-  const landed = await runMechanicalChange(root, askedFor(changes), message)
-  if ("refusals" in landed) return answeredWith([...(landed.said ?? [])], landed.refusals, WRONG)
+  const landed = await runMechanicalChange(root, askedFor(changes), message, null, { done })
+  if ("refusals" in landed) {
+    return keeping(done, answeredWith([...(landed.said ?? [])], landed.refusals, WRONG))
+  }
   const wrote = wroteIn(landed)
   return answeredWith(wrote, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
 }
