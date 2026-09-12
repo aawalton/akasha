@@ -1,15 +1,15 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { turnState } from "akasha/commands/arguments/pages/turn-state.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   agentTurnColorList,
   colorsOfStates,
   colorsSaid,
-  readIn,
-  STATE,
   statedAs,
+  wrongIn,
 } from "akasha/commands/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"
 import {
   colorIn,
@@ -44,46 +44,60 @@ function rootWith(color: string): string {
   return at
 }
 
+const STATE = turnState.said
+
 test("bare words are agent ids", () => {
-  expect(readIn(["01a0-one", "01a0-two"])).toEqual({ agents: ["01a0-one", "01a0-two"] })
+  const said = agentTurnColorList(["01a0-one", "01a0-two"], givenIn())
+
+  expect(said.refusals).toEqual([])
+  expect(parseColorsAnswered(said.report[0] ?? "")).toEqual({ colors: {} })
 })
 
 test("a call naming nothing asks about no agent at all", () => {
-  expect(readIn([])).toEqual({ agents: [] })
+  const said = agentTurnColorList([], givenIn())
+
+  expect(said.refusals).toEqual([])
+  expect(parseColorsAnswered(said.report[0] ?? "")).toEqual({ colors: {} })
 })
 
 test("`--state` is repeatable", () => {
-  expect(readIn([STATE, "working", STATE, "stopped"])).toEqual({ states: ["working", "stopped"] })
+  const root = rootWith("chartreuse")
+  const was = optionalEnv(ROOT_NAMED)
+  try {
+    process.env[ROOT_NAMED] = root
+    const said = agentTurnColorList([STATE, "working", STATE, "stopped"], givenIn())
+
+    expect(said.refusals).toEqual([])
+    expect(parseColorsAnswered(said.report[0] ?? "")).toEqual({
+      colors: { working: "chartreuse" },
+    })
+  } finally {
+    if (was === undefined) delete process.env[ROOT_NAMED]
+    else process.env[ROOT_NAMED] = was
+    rmSync(root, { recursive: true, force: true })
+  }
 })
 
 test("ids and states are never asked for together", () => {
-  const said = readIn([STATE, "working", "01a0-one"])
+  const said = agentTurnColorList([STATE, "working", "01a0-one"], givenIn())
 
-  expect("refused" in said && said.refused[0]).toContain("never both in one call")
+  expect(said.refusals[0]).toContain("never said together")
 })
 
 test("a name no turn state carries is refused rather than left out", () => {
-  const said = readIn([STATE, "nope"])
+  const said = agentTurnColorList([STATE, "nope"], givenIn())
 
-  expect("refused" in said && said.refused[0]).toContain("nope names no turn state")
+  expect(said.refusals[0]).toContain("nope names no turn state")
 })
 
 test("every name no turn state carries is named rather than the first of them alone", () => {
-  const said = readIn([STATE, "nope", STATE, "working", STATE, "elsewhere"])
-
-  expect("refused" in said && said.refused[0]).toContain("nope elsewhere")
+  expect(wrongIn(["nope", "working", "elsewhere"]) ?? "").toContain("nope elsewhere")
 })
 
 test("`--state` naming nothing after it is refused", () => {
-  const said = readIn([STATE])
+  const said = agentTurnColorList([STATE], givenIn())
 
-  expect("refused" in said && said.refused[0]).toContain("takes the name of a turn state after it")
-})
-
-test("a flag this does not take is refused", () => {
-  const said = readIn(["--json"])
-
-  expect("refused" in said && said.refused[0]).toContain("`--json`")
+  expect(said.refusals[0]).toContain("takes a value, and none follows it")
 })
 
 test("a turn state is told from a name that is no turn state", () => {

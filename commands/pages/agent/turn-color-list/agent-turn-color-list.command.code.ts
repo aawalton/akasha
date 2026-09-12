@@ -1,64 +1,34 @@
 import { colorsOf } from "akasha/agents/turn-drawn/agent-turn-drawn.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { agent as agentArgument } from "akasha/commands/arguments/pages/agent.argument.ts"
+import { turnState } from "akasha/commands/arguments/pages/turn-state.argument.ts"
 import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { agentTurnColorList as page } from "akasha/commands/pages/agent/turn-color-list/agent-turn-color-list.command.ts"
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnState,
 } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 
-export const STATE = "--state"
-
-export type Read =
-  | { readonly agents: readonly string[] }
-  | { readonly states: readonly SeatTurnState[] }
-  | { readonly refused: readonly string[] }
+const NAMED = [agentArgument, turnState]
 
 export function statedAs(name: string): SeatTurnState | null {
   return SEAT_TURN_STATES.find((one) => one === name) ?? null
 }
 
-export function readIn(argv: readonly string[]): Read {
-  const named: string[] = []
-  const agents: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const word = argv[at] ?? ""
-    if (word === STATE) {
-      const said = argv[at + 1]
-      if (said === undefined) {
-        return { refused: [`\`${STATE}\` takes the name of a turn state after it`] }
-      }
-      named.push(said)
-      at += 1
-      continue
-    }
-    if (word.startsWith("-")) {
-      return {
-        refused: [`\`${word}\` is no word this takes — it takes agent ids, or \`${STATE} <name>\``],
-      }
-    }
-    agents.push(word)
-  }
-  if (named.length > 0 && agents.length > 0) {
-    return { refused: ["ask for agent ids or for turn states, never both in one call"] }
-  }
-  const states: SeatTurnState[] = []
-  const unspelt: string[] = []
-  for (const one of named) {
+export function wrongIn(named: readonly string[]): string | null {
+  const unspelt = named.filter((one) => statedAs(one) === null)
+  if (unspelt.length === 0) return null
+  return `${unspelt.join(" ")} names no turn state; they are ${SEAT_TURN_STATES.join(", ")}`
+}
+
+function statesIn(named: readonly string[]): readonly SeatTurnState[] {
+  return named.flatMap((one) => {
     const state = statedAs(one)
-    if (state === null) unspelt.push(one)
-    else states.push(state)
-  }
-  if (unspelt.length > 0) {
-    return {
-      refused: [
-        `${unspelt.join(" ")} names no turn state; they are ${SEAT_TURN_STATES.join(", ")}`,
-      ],
-    }
-  }
-  if (states.length > 0) return { states }
-  return { agents }
+    return state === null ? [] : [state]
+  })
 }
 
 export type ColorOf = (state: SeatTurnState) => string | null
@@ -79,11 +49,15 @@ export function colorsSaid(colors: Readonly<Record<string, string>>): string {
   return JSON.stringify({ colors })
 }
 
-export function agentTurnColorList(argv: readonly string[], _given: Given): Answer {
-  const read = readIn(argv)
+export function agentTurnColorList(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const wrong = wrongIn(taken.turnState)
+  if (wrong !== null) return mistaking([wrong])
+  const states = statesIn(taken.turnState)
   try {
-    const colors = "states" in read ? colorsOfStates(read.states) : colorsOf(read.agents)
+    const colors = states.length > 0 ? colorsOfStates(states) : colorsOf(taken.agent)
     return told([colorsSaid(colors)])
   } catch (thrown) {
     return faulted(thrown)
