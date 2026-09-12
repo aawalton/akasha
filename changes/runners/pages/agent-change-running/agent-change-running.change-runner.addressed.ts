@@ -80,6 +80,9 @@ export type Changes = {
   "change-agent/move-property-on-every-page": Parameters<
     typeof import("akasha/changes/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/move-property-value": Parameters<
+    typeof import("akasha/changes/agent/file-content/move-property-value/move-property-value.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/nest-commands": Parameters<
     typeof import("akasha/changes/agent/folder/nest-commands/nest-commands.change-agent.code.ts")["runChange"]
   >[1]
