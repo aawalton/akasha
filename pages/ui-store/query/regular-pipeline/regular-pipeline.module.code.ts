@@ -11,11 +11,11 @@ import {
   attributesOf,
   type PageRow,
 } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
-import { conditionMatches } from "akasha/pages/ui-store/query/condition-eval/condition-eval.module.code.ts"
+import { conditionMatches } from "akasha/pages/ui-store/query/modules/condition-eval/condition-eval.module.code.ts"
 import {
   type BoolExpr,
   conditionToExpr,
-} from "akasha/pages/ui-store/query/condition-expr/condition-expr.module.code.ts"
+} from "akasha/pages/ui-store/query/modules/condition-expr/condition-expr.module.code.ts"
 import type {
   PageConditionLike,
   UsePagesOptions,

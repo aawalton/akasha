@@ -16,7 +16,7 @@ import {
   type BoolExpr,
   conditionToExpr,
   constTrue,
-} from "akasha/pages/ui-store/query/condition-expr/condition-expr.module.code.ts"
+} from "akasha/pages/ui-store/query/modules/condition-expr/condition-expr.module.code.ts"
 import {
   classifyKey,
   type KeyInfo,

@@ -1,5 +1,5 @@
-import { evaluateCondition } from "akasha/temper/companions-core/condition-evaluator/condition-evaluator.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import { evaluateCondition } from "akasha/temper/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts"
 import type {
   HealthSamples,
   RotationState,
