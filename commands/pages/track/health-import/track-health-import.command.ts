@@ -55,6 +55,10 @@ export const trackHealthImport = {
     },
     {
       invariantKind: "departure",
+      statement: "An import that broke after a batch landed names each batch it wrote.",
+    },
+    {
+      invariantKind: "departure",
       statement: "This workstation is looked in before the macbook is reached.",
     },
     {

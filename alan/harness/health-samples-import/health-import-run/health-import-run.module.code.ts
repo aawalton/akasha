@@ -100,7 +100,8 @@ const EMPTY_WRITE: HealthSampleWriteReport = {
 
 export async function runHealthImport(
   opts: ImportRunOptions,
-  deps: ImportRunDeps
+  deps: ImportRunDeps,
+  done: string[] = []
 ): Promise<ImportOutcome> {
   const tally = emptyTally()
   const perMetric = emptyStats()
@@ -119,11 +120,15 @@ export async function runHealthImport(
 
   const flush = async (): Promise<void> => {
     if (buffer.length === 0) return
+    const many = buffer.length
     if (!opts.dryRun) {
       const report = await deps.writeBatch(buffer)
       write = addReport(write, report)
+      done.push(
+        `wrote batch ${batches + 1}, ${many} samples, through record line ${tally.recordLines}`
+      )
     }
-    samplesWritten += buffer.length
+    samplesWritten += many
     batches += 1
     buffer = []
     if (!opts.dryRun && key !== undefined) {

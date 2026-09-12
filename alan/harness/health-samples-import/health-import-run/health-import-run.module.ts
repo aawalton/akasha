@@ -6,7 +6,12 @@ export const healthImportRun = {
   slug: "health-import-run",
   definition: "one import run, from the records read to the samples written",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A batch written is named in the list the caller handed in before the next runs.",
+    },
     {
       invariantKind: "departure",
       statement:

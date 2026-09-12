@@ -15,6 +15,7 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
+  partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -171,6 +172,7 @@ export async function healthImported(
   deps: ImportRunDeps,
   atMs: number
 ): Promise<Answer> {
+  const done: string[] = []
   let outcome: ImportOutcome
   try {
     outcome = await runHealthImport(
@@ -181,10 +183,15 @@ export async function healthImported(
         restart: held.restart,
         onProgress: () => undefined,
       },
-      deps
+      deps,
+      done
     )
   } catch (thrown) {
-    return { report: [], refusals: [saidBy(thrown), TAKEN_UP], code: OPERATIONAL }
+    return {
+      report: done,
+      refusals: [saidBy(thrown), ...partWay(done), TAKEN_UP],
+      code: OPERATIONAL,
+    }
   }
   if (outcome.sourceFile === null) return refused(NO_EXPORT, DATA)
   return {
