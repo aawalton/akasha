@@ -1,3 +1,8 @@
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
@@ -45,10 +50,6 @@ export type Method = (typeof METHODS)[number]
 const VALUED: readonly string[] = [NODE, IP, SSH_USER, SSH_KEY, METHOD]
 
 const BARE: readonly string[] = [CONFIRM_WIPE]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const MAINTENANCE_PORT = 50000
 
@@ -299,7 +300,7 @@ async function installing(read: Named, given: Given): Promise<Answer> {
   report.push(
     `\`${given.calledAs} talos-apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`
   )
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function talosRemoteInstall(argv: readonly string[], given: Given): Promise<Answer> {
