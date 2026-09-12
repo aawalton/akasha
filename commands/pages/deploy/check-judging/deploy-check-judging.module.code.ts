@@ -22,13 +22,15 @@ export function changeFrom(
   root: string,
   was: string | null,
   now: string,
-  built: ReadonlySet<string>
+  built: ReadonlySet<string>,
+  also: readonly string[] = []
 ): Change {
   const at = (path: string) => bodyAt(root, now, path)
   if (was === null) return { root, changed: [...built], before: at, after: at }
+  const moved = changedBetween(root, was, now).filter((one) => built.has(one))
   return {
     root,
-    changed: changedBetween(root, was, now).filter((one) => built.has(one)),
+    changed: [...new Set([...moved, ...also])],
     before: (path) => bodyAt(root, was, path),
     after: at,
   }
@@ -47,10 +49,11 @@ export async function judgedOnDeploy(
   slug: string,
   was: string | null,
   now: string,
-  built: ReadonlySet<string>
+  built: ReadonlySet<string>,
+  also: readonly string[] = []
 ): Promise<readonly string[]> {
   try {
-    const change = changeFrom(root, was, now, built)
+    const change = changeFrom(root, was, now, built, also)
     if (change.changed.length === 0) return []
     const gate = gateFor(root, AT_DEPLOY)
     if (!("gate" in gate)) return [saidOfNoGate(slug, gate.broken)]

@@ -18,7 +18,15 @@ export const serviceRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "The test proving a service runs is the `running` group's test beside its page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The page a slug names is read from the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A slug no page is filed under is answered for by no test.",
     },
     {
       invariantKind: "departure",

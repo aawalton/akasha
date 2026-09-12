@@ -26,6 +26,11 @@ test("the change carries the root it is judged in", () => {
   expect(changeFrom(ROOT, null, "HEAD", BUILT).root).toBe(ROOT)
 })
 
+test("a file the deploy names to be judged joins the diff, changed or not", () => {
+  const change = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"])
+  expect([...change.changed]).toEqual(["three.ts"])
+})
+
 test("a commit git no longer holds is read as no commit", () => {
   expect(sinceCommit(ROOT, NOWHERE)).toBe(null)
 })

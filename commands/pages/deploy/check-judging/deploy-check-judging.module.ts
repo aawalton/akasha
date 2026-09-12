@@ -22,6 +22,10 @@ export const deployCheckJudging = {
     },
     {
       invariantKind: "departure",
+      statement: "A file the deploy names to be judged joins that diff, changed or not.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service no deploy has finished for is judged over every file it is built from.",
     },
     {

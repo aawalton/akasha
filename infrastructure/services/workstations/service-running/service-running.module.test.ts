@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { runService } from "akasha/infrastructure/services/workstations/pages/sweep-log-days.service-workstation.running.code.ts"
 import {
   noService,
+  provingFor,
   reachedFor,
   runNamedService,
 } from "akasha/infrastructure/services/workstations/service-running/service-running.module.code.ts"
@@ -39,6 +40,15 @@ test("the run reached is the one the file beside that service's page exports", a
 test("the code is taken from the checkout named rather than the one the pages are read under", async () => {
   const reached = await reachedFor(ROOT, SLUG, NOWHERE)
   expect("refused" in reached ? reached.refused : "").toContain(NOWHERE)
+})
+
+test("the test proving a service runs is the one beside that service's page", () => {
+  const found = provingFor(ROOT, [SLUG])[0] ?? ""
+  expect(found).toContain(`${SLUG}.service-workstation.running.test.ts`)
+})
+
+test("a slug no workstation service carries is answered for by no test", () => {
+  expect(provingFor(ROOT, [NO_SLUG])).toEqual([])
 })
 
 test("a run naming no service is refused rather than running something", async () => {

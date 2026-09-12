@@ -70,6 +70,7 @@ import {
   servableNamed,
 } from "akasha/infrastructure/services/clusters/workload-applying/workload-applying.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
+import { provingFor } from "akasha/infrastructure/services/workstations/service-running/service-running.module.code.ts"
 
 const PUT_UP = "deploy"
 const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]
@@ -220,7 +221,11 @@ export async function deployHeld(
   const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
   const moved = was === null ? null : changedBetween(given.root, was, commit)
   const restarting = closures === null ? null : touchedIn(closures, moved)
-  const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
+  const proving =
+    read.kind === WORKSTATION_SERVICE && restarting !== null
+      ? provingFor(given.root, restarting)
+      : []
+  const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built, proving)
   const dry = wanted.dryRun
   const noting = () =>
     dry

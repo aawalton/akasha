@@ -9,6 +9,8 @@ const SERVICE_PAGE_TYPE = "service-workstation"
 
 const RUNNING = "running.code"
 
+const PROVING = "running.test"
+
 const TS = "ts"
 
 const RUNS = "runService"
@@ -26,6 +28,17 @@ export type Reached =
 
 export function noService(slug: string): string {
   return `no workstation service is slugged \`${slug}\``
+}
+
+export function provingFor(root: string, slugs: Iterable<string>): readonly string[] {
+  const found: string[] = []
+  for (const slug of slugs) {
+    const page = listedAt(root, SERVICE_PAGE_TYPE, slug)[0]
+    if (page === undefined) continue
+    const beside = besideAt(page.path, PROVING, TS)
+    if (beside !== null) found.push(beside)
+  }
+  return found.sort()
 }
 
 export async function reachedFor(

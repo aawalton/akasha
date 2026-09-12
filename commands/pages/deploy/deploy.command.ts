@@ -126,6 +126,15 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The test proving a workstation service runs is judged wherever that service would restart.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service whose test is refused leaves every unit and every tree as they were.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A dry run is judged by those checks as a run that puts up is.",
     },
     {
