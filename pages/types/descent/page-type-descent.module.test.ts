@@ -28,7 +28,9 @@ function typed(root: string, slug: string, above: readonly string[] | null): und
   const id = idOf(slug)
   listedFiled(root, "page-type", slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
-  valueAlsoFiled(root, "page-type", [{ path, value: { id, pageTypeSlug: "page-type", slug } }])
+  valueAlsoFiled(root, "page-type", [
+    { path, value: { id, pageTypeSlug: "page-type", slug, extends: above ?? [] } },
+  ])
   for (const one of above ?? []) namedFiled(root, idOf(one), "extends-type", id, [{ path }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })

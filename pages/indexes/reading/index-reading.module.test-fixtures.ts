@@ -209,9 +209,10 @@ function kindFiled(root: string, kind: string): undefined {
   KINDED.set(root, held)
   if (held.has(kind)) return
   held.add(kind)
-  relationFiled(root, typeListed(root, PAGE_PROPERTY), "extends-type", typeListed(root, kind), [
-    { path: `akasha/${kind}.${PAGE_TYPE}.ts` },
-  ])
+  const at = `akasha/${kind}.${PAGE_TYPE}.ts`
+  const id = typeListed(root, kind, at)
+  const value = { id, pageTypeSlug: PAGE_TYPE, slug: kind, extends: [PAGE_PROPERTY] }
+  valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
 }
 
 const CARRIED: readonly (readonly [string, string])[] = [

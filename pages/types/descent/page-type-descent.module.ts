@@ -10,7 +10,7 @@ export const pageTypeDescent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Descent is read from the page types filed as naming a page type they extend.",
+      statement: "Descent is read from the types each page type's own value names as above it.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +41,8 @@ export const pageTypeDescent = {
       statement: "Nothing here walks the pages.",
     },
     {
-      invariantKind: "absence",
-      statement: "No page type's own value is read to work out what is under it.",
+      invariantKind: "departure",
+      statement: "A world writing its own index is answered before that index has any relation.",
     },
   ],
 } as const satisfies Module
