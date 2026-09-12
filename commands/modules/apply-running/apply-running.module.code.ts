@@ -26,7 +26,7 @@ import {
   commandPageAt,
 } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
 import { noPageSaid } from "akasha/commands/modules/change-running/change-running.module.code.ts"
-import { headOf, type Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -35,6 +35,7 @@ import {
   MEASURED_ALLOWED,
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { headOf } from "akasha/git/head-commit/head-commit.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 

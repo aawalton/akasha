@@ -19,24 +19,12 @@ export const drafting = {
       statement: "A call with no change kind runs every check and owes every reading.",
     },
     {
-      invariantKind: "departure",
-      statement: "The commit at HEAD is read from git rather than carried by a caller.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here writes into the worktree.",
     },
     {
       invariantKind: "absence",
       statement: "No whole body is carried here.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Reading the commit at HEAD is a second concern.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "This module holds more than one concern.",
     },
     {
       invariantKind: "gap",

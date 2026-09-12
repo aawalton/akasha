@@ -24,6 +24,7 @@ export const git = {
     "module/committing",
     "module/commit-reading",
     "module/holding",
+    "module/head-commit",
   ],
   invariants: [
     {
