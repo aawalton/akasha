@@ -6,6 +6,7 @@ export const infrastructureDevServerStop = {
   slug: "infrastructure-dev-server-stop",
   definition: "the command ending one app's dev server and taking the state file it held",
   code: "ts",
+  test: "ts",
   name: "stop",
   invariants: [
     {
