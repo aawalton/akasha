@@ -35,6 +35,7 @@ export const temperInventoryRuleReorder = {
     {
       argument: "argument/to-position",
       notWith: ["argument/before", "argument/after"],
+      oneOf: ["argument/before", "argument/after"],
     },
     { argument: "argument/before", notWith: ["argument/after"] },
     { argument: "argument/after" },
