@@ -79,3 +79,13 @@ test("a reserved tail is let through by the page beside it being filed, not by i
   expect(claimed(HELD_UNCOMMITTED)).toBe(true)
   expect(claimed(HELD_SECRET)).toBe(true)
 })
+
+const HELD_ENTRIES = "akasha/a/held.module.entries.uncommitted.jsonl"
+
+test("a file named as a page's uncommitted tail names that page though a section runs before it", () => {
+  const root = scratch.rootFor("akasha-file-has-its-page-sectioned-")
+  noPathsFiled(root)
+  claiming(root, HELD, HELD, ID)
+  expect(reservedBeside(HELD_ENTRIES)).toBe(HELD)
+  expect(claimingIn(shadowAt(root))(HELD_ENTRIES)).toBe(true)
+})

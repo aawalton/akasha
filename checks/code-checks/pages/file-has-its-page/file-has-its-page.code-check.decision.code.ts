@@ -4,7 +4,7 @@ import {
   pageOf,
   partedIn,
   secretNamed,
-  uncommittedNamed,
+  uncommittedHeld,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   extensionsFor,
@@ -20,7 +20,7 @@ export const UNCLAIMED =
 export type Claiming = (path: string) => boolean
 
 export function reservedBeside(path: string): string | null {
-  if (!uncommittedNamed(path) && !secretNamed(path)) return null
+  if (!uncommittedHeld(path) && !secretNamed(path)) return null
   const said = partedIn(path)
   return said === null ? null : join(dirname(path), `${pageOf(said)}${TS}`)
 }
