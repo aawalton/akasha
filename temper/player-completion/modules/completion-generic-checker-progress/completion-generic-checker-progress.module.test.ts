@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type {
   CharacterCompletion,
   SkillPointProgress,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"

@@ -4,7 +4,7 @@ import type {
   GrimoireEntry,
   ScribingProgress,
   ScriptEntry,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 
 function mergeGrimoire(stored: GrimoireEntry, fresh: GrimoireEntry): GrimoireEntry {
   return {

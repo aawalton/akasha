@@ -4,7 +4,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountSummaryData,
   CharacterSummaryData,

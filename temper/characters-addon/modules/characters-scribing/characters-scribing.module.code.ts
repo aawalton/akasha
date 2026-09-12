@@ -4,7 +4,7 @@ import type {
   GrimoireEntry,
   ScribingProgress,
   ScriptEntry,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 
 const SCRIBING_SLOTS = [SCRIBING_SLOT_PRIMARY, SCRIBING_SLOT_SECONDARY, SCRIBING_SLOT_TERTIARY]
 

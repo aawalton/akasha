@@ -1,4 +1,4 @@
-import type { RecipeList } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { RecipeList } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { RECIPE_DATA } from "akasha/temper/completion/recipe-data/recipe-data.module.code.ts"
 import type {
   CharacterRecipeProgress,

@@ -1,5 +1,4 @@
-import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { transformPoiProgress } from "akasha/temper/player-completion/completion-poi-progress/completion-poi-progress.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   transformCompanionQuestProgress,
   transformQuestProgress,
@@ -48,6 +47,7 @@ import type { CompletionCompanionRow } from "akasha/temper/player-completion/mod
 import { transformDailyWritsProgress } from "akasha/temper/player-completion/modules/completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts"
 import { transformItemSetProgress } from "akasha/temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import { transformLoreLibraryProgress } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
+import { transformPoiProgress } from "akasha/temper/player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {

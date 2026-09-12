@@ -1,4 +1,4 @@
-import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
 import type {
   AccountCompletionCardChecker,

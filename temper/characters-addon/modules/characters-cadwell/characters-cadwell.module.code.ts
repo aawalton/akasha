@@ -4,7 +4,7 @@ import type {
   CadwellPOI,
   CadwellProgress,
   CadwellZone,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 
 const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,

@@ -1,5 +1,5 @@
 import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
-import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { SkillPointProgress } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   ENDLESS_ARCHIVE,
   GROUP_DUNGEONS,

@@ -2,7 +2,7 @@ import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.mod
 import {
   type CrossCharacterReading,
   materializeCrossCharacterProgress,
-} from "akasha/temper/player-completion/completion-progress-index/completion-progress-index.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
 import { joinPath } from "akasha/utils/narrow/join-path/join-path.module.code.ts"
 
 export type ProgressRow = {

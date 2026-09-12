@@ -1,5 +1,5 @@
-import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { unlockedCollectibleIds } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { unlockedCollectibleIds } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountTributeProgress,
   TributeCardUpgradeProgress,

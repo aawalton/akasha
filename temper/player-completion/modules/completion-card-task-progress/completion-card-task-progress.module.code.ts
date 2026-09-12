@@ -2,7 +2,7 @@ import { companions } from "akasha/temper/companions-core/modules/companions/com
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,

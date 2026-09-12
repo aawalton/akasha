@@ -7,7 +7,7 @@ import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
-import type { SkillLineProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { SkillLineProgress } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   getSavedVariables,
   type TaskData,

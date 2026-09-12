@@ -1,4 +1,3 @@
-import type { PoiZoneCatalogEntry } from "akasha/temper/player-completion/completion-poi-progress/completion-poi-progress.module.code.ts"
 import type { QuestCatalogZone } from "akasha/temper/player-completion/completion-quest-progress/completion-quest-progress.module.code.ts"
 import type {
   TraitResearchCatalogCraftType,
@@ -10,6 +9,7 @@ import type { AchievementCategoryCatalogEntry } from "akasha/temper/player-compl
 import type { AntiquityCatalogCategory } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type { CadwellLevelCatalogEntry } from "akasha/temper/player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
 import type { CollectibleCatalogCategory } from "akasha/temper/player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
+import type { PoiZoneCatalogEntry } from "akasha/temper/player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
 
 export interface CompletionCatalogs {
   achievementCategories: readonly AchievementCategoryCatalogEntry[]

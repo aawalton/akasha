@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { computeOverallCompletionScore } from "akasha/temper/player-completion/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import {
   buildCompletionSummaries,

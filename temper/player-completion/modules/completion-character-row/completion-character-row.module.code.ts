@@ -1,4 +1,4 @@
-import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 
 export interface CompletionCharacterRow {
   id: string

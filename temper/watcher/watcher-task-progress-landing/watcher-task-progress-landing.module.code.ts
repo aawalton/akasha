@@ -8,9 +8,9 @@ import { askingFor } from "akasha/pages/service/page-calling/page-calling.module
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { buildCrossCharacterCompletionIndex } from "akasha/temper/player-completion/completion-progress-index/completion-progress-index.module.code.ts"
+} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
+import { buildCrossCharacterCompletionIndex } from "akasha/temper/player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
 import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {
   besidePathOf,

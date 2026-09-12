@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { completionPercent } from "akasha/temper/player-completion/completion-percent/completion-percent.module.code.ts"
+import { completionPercent } from "akasha/temper/player-completion/modules/completion-percent/completion-percent.module.code.ts"
 
 describe("completionPercent", () => {
   test("only exact completion reads as 100", () => {
