@@ -118,8 +118,8 @@ export function restCall(
   ]
 }
 
-export function wrongIn(argv: readonly string[]): readonly string[] {
-  if (!argv.includes(SEAT)) return []
+export function wrongIn(refusals: readonly string[]): readonly string[] {
+  if (!refusals.some((one) => one.includes(`\`${SEAT}\``))) return []
   return [
     `${SEAT} reads what a seat is bound to, and this read answers for the paths it is named and ` +
       "nothing else",
@@ -272,10 +272,8 @@ export function readWith(
   }
   const agentId = given.agentId
   if (agentId === null) return mistaking([NO_AGENT])
-  const wrong = wrongIn(argv)
-  if (wrong.length > 0) return mistaking(wrong)
   const meant = takenFor(argv, given.calledAs, page, [filePath, fullArgument])
-  if ("refused" in meant) return mistaking(meant.refused)
+  if ("refused" in meant) return mistaking([...wrongIn(meant.refused), ...meant.refused])
   const paths = meant.taken.filePath
   const whole = meant.taken.full
   const bare = paths.length === 0
