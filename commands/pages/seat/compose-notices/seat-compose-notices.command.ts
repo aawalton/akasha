@@ -9,7 +9,7 @@ export const seatComposeNotices = {
   code: "ts",
   test: "ts",
   taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
-  helpNotes: [],
+
   invariants: [
     {
       invariantKind: "departure",
