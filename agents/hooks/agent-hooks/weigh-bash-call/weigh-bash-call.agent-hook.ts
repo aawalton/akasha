@@ -54,8 +54,11 @@ export const weighBashCall = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The fill is judged by the line's opening, since the rest of that line is written by the shell.",
+      statement: "The fill is judged by the whole line rather than by the line's opening.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rest of that line is written by the shell and counted at its widest.",
     },
     {
       invariantKind: "departure",

@@ -45,6 +45,8 @@ const QUOTE = "'"
 
 const QUOTED = "'\\''"
 
+const TAIL_HOLDS = 296
+
 export function quoted(text: string): string {
   return `${QUOTE}${text.replaceAll(QUOTE, QUOTED)}${QUOTE}`
 }
@@ -60,6 +62,10 @@ export function firstLineOf(command: string): string {
 export function headFor(runId: string, ranAt: string, command: string): string {
   const named = JSON.stringify(firstLineOf(command))
   return `{"runId":"${runId}","ranAt":"${ranAt}","phase":"${PHASE}","ran":${named},`
+}
+
+export function lineHolds(head: string): number {
+  return Buffer.byteLength(head, "utf8") + TAIL_HOLDS
 }
 
 export function wrappedFor(script: string, at: string, head: string, command: string): string {
@@ -119,7 +125,7 @@ export function answerFor(payload: Record<string, unknown>, root: string): Answe
   const script = scriptAt(root)
   if (script === null) return LET_THROUGH
   const head = headFor(Bun.randomUUIDv7(), new Date().toISOString(), command)
-  const filling = fillingAt(root, page, Buffer.byteLength(head, "utf8"))
+  const filling = fillingAt(root, page, lineHolds(head))
   if (filling === null) return LET_THROUGH
   if (filling.opened) partFiled(root, page, filling.at)
   return rewriting(event, {

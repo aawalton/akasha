@@ -1,10 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
+import { Buffer } from "node:buffer"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   answerFor,
   firstLineOf,
   headFor,
+  lineHolds,
   quoted,
   scriptAt,
   weighingPid,
@@ -41,6 +43,33 @@ test("a line's opening names the run and the phase and what ran", () => {
   expect(head).toBe(
     '{"runId":"one","ranAt":"2026-09-11T00:00:00.000Z","phase":"bash","ran":"echo \'hi\'",'
   )
+})
+
+const WALL_MS = '"wallMs":'
+
+const ENDS = '"refusals":0}'
+
+const WIDEST = 20
+
+test("the fill budgeted covers the whole line rather than its opening alone", () => {
+  const head = headFor("one", "2026-09-11T00:00:00.000Z", "ls")
+
+  expect(lineHolds(head)).toBeGreaterThan(Buffer.byteLength(head, "utf8"))
+})
+
+test("the fill budgeted covers the widest tail the shell can append", () => {
+  const at = scriptAt(rootOf(import.meta.path))
+  if (at === null) throw new Error("the weighing script is not there")
+  const format = readFileSync(at, "utf8")
+    .split("\n")
+    .find((one) => one.includes(WALL_MS))
+  if (format === undefined) throw new Error("the weighing script appends no line")
+  const widest = format
+    .slice(format.indexOf(WALL_MS), format.indexOf(ENDS) + ENDS.length)
+    .replaceAll("%06d", "0".repeat(6))
+    .replaceAll("%s", "9".repeat(WIDEST))
+
+  expect(lineHolds("")).toBeGreaterThanOrEqual(Buffer.byteLength(widest, "utf8") + 1)
 })
 
 test("the command an agent wrote is left whole under the line that reads the script", () => {
