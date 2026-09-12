@@ -4,7 +4,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { GeminiImageConfig } from "akasha/infrastructure/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
@@ -16,9 +16,9 @@ import {
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   oneOf,
   proseNeededAt,
   wasRefused,
@@ -93,7 +93,7 @@ export function configOf(
   }
 }
 
-export async function inferenceEdit(argv: readonly string[]): Promise<Answer> {
+export async function inferenceEdit(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -146,7 +146,7 @@ export async function inferenceEdit(argv: readonly string[]): Promise<Answer> {
       operation: "edit",
       model: MODEL,
       host: HOST,
-      commandLine: calledAs("inference-edit", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       prompt,
       inputImagePath: subject,
