@@ -1,8 +1,16 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
+  appenderOver,
   boundFaultIn,
   dayNameOf,
 } from "akasha/agents/seats/log-days/log-day-writing/log-day-writing.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const SOURCE = "oauth-proxy-console"
 
@@ -39,4 +47,47 @@ test("a seat name carrying a dot or a slash or a space names no export", () => {
 
 test("a source naming no export is refused though its day names one", () => {
   expect(boundFaultIn("a/b", SEAT, DATE)).not.toBeNull()
+})
+
+const SLUG = dayNameOf(SOURCE, SEAT, DATE)
+
+const PAGE = `${SLUG}.seat-log-day.ts`
+
+const LINES = `${SLUG}.seat-log-day.lines.uncommitted.jsonl`
+
+function dayUp(root: string, under: string): string {
+  mkdirSync(join(root, under, SLUG), { recursive: true })
+  writeFileSync(join(root, under, SLUG, PAGE), "export const held = {}\n")
+  writeFileSync(join(root, under, SLUG, LINES), '{"written-at":"seed"}\n')
+  return `${under}/${SLUG}/${PAGE}`
+}
+
+function linesIn(root: string, under: string): string {
+  return readFileSync(join(root, under, SLUG, LINES), "utf8")
+}
+
+test("a line written after its page moved goes beside that page where the page now is", async () => {
+  const root = scratch.rootFor("akasha-log-day-writing-moved-")
+  let at = dayUp(root, "was")
+  const next = dayUp(root, "now")
+  const said = appenderOver(
+    root,
+    SLUG,
+    null,
+    () => at,
+    async () => null
+  )
+
+  said.append({ "written-at": `${DATE}T00:00:00Z`, text: "before the move" })
+  await said.flushed()
+  expect(linesIn(root, "was")).toContain("before the move")
+
+  rmSync(join(root, "was", SLUG, PAGE))
+  at = next
+  said.append({ "written-at": `${DATE}T00:00:01Z`, text: "after the move" })
+  await said.flushed()
+
+  expect(said.refused()).toBeNull()
+  expect(linesIn(root, "now")).toContain("after the move")
+  expect(linesIn(root, "was")).not.toContain("after the move")
 })

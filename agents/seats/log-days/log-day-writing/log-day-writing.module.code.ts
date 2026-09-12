@@ -33,6 +33,8 @@ const HELD = "jsonl"
 
 const FIRST_PART = 1
 
+const LOOK_EVERY = 1000
+
 const PAGE_TYPE = "page-type"
 
 const TYPES = "types"
@@ -162,10 +164,58 @@ export function boundFaultIn(source: string, seatName: string, date: string): st
   return held === null ? null : `${held}, so no line is written`
 }
 
+export type Pathing = (slug: string) => string
+
+export type Raising = (pagePath: string) => Promise<string | null>
+
+async function raisedFor(
+  root: string,
+  source: string,
+  slug: string,
+  seatName: string,
+  date: string,
+  pagePath: string
+): Promise<string | null> {
+  try {
+    const sourceAt = sourcePathOf(root, source)
+    const sourceUp = await putUp(
+      root,
+      sourceAt,
+      sourceBodyOf(root, source),
+      `${source}: a log source is the log one program keeps`
+    )
+    if (!sourceUp) return `no page landed at ${sourceAt}, so no line is written`
+    const dayUp = await putUp(
+      root,
+      pagePath,
+      dayBodyOf(root, slug, source, seatName, date),
+      `${slug}: one source's lines for one seat on one day`
+    )
+    return dayUp ? null : `no page landed at ${pagePath}, so no line is written`
+  } catch (error) {
+    return `no page landed at ${pagePath}, so no line is written: ${error instanceof Error ? error.message : String(error)}`
+  }
+}
+
 function appenderFor(root: string, source: string, seatName: string, date: string): Appender {
   const slug = dayNameOf(source, seatName, date)
-  const pagePath = dayPathIn(root, slug)
-  const bound = boundFaultIn(source, seatName, date)
+  return appenderOver(
+    root,
+    slug,
+    boundFaultIn(source, seatName, date),
+    (one) => dayPathIn(root, one),
+    (one) => raisedFor(root, source, slug, seatName, date, one)
+  )
+}
+
+export function appenderOver(
+  root: string,
+  slug: string,
+  bound: string | null,
+  pathing: Pathing,
+  raising: Raising
+): Appender {
+  let pagePath = pathing(slug)
   if (bound !== null) return refusingAppender(pagePath, bound)
   const held = lastPartOf(root, pagePath)
   if (held === null) {
@@ -176,30 +226,24 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
   let part = held.part
   let bytes = held.bytes
   let refused: string | null = null
-  let queued: Promise<void> = (async () => {
-    try {
-      const sourceAt = sourcePathOf(root, source)
-      const sourceUp = await putUp(
-        root,
-        sourceAt,
-        sourceBodyOf(root, source),
-        `${source}: a log source is the log one program keeps`
-      )
-      if (!sourceUp) {
-        refused = `no page landed at ${sourceAt}, so no line is written`
-        return
-      }
-      const dayUp = await putUp(
-        root,
-        pagePath,
-        dayBodyOf(root, slug, source, seatName, date),
-        `${slug}: one source's lines for one seat on one day`
-      )
-      if (!dayUp) refused = `no page landed at ${pagePath}, so no line is written`
-    } catch (error) {
-      refused = `no page landed at ${pagePath}, so no line is written: ${error instanceof Error ? error.message : String(error)}`
-    }
-  })()
+  let lookedAt = 0
+  let queued: Promise<void> = raising(pagePath).then((say): undefined => {
+    if (say !== null) refused = say
+  })
+  const following = (now: number): undefined => {
+    if (existsSync(join(root, pagePath))) return
+    if (now - lookedAt < LOOK_EVERY) return
+    lookedAt = now
+    const again = pathing(slug)
+    if (again === pagePath || !existsSync(join(root, again))) return
+    const moved = lastPartOf(root, again)
+    if (moved === null) return
+    mkdirSync(dirname(moved.path), { recursive: true })
+    pagePath = again
+    path = moved.path
+    part = moved.part
+    bytes = moved.bytes
+  }
   return {
     append: (line): undefined => {
       if (refused !== null) return
@@ -210,6 +254,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
         refused = `no line reached ${path}: ${error instanceof Error ? error.message : String(error)}`
         return
       }
+      following(Date.now())
       const size = Buffer.byteLength(text, "utf8") + 1
       let opened = bytes === 0
       if (bytes > 0 && bytes + size > ENTRY_CEILING) {
@@ -225,11 +270,12 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
       }
       bytes += size
       const at = path
+      const under = pagePath
       queued = queued.then(async () => {
         if (refused !== null) return
         try {
           await appendFile(at, `${text}\n`, "utf8")
-          if (opened) partFiled(root, pagePath, at)
+          if (opened) partFiled(root, under, at)
         } catch (error) {
           refused = `no line reached ${at}: ${error instanceof Error ? error.message : String(error)}`
         }
