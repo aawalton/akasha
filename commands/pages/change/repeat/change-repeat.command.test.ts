@@ -95,7 +95,17 @@ function throwingAfter(commits: readonly string[]): Running {
 test("a call naming no change is refused", async () => {
   const said = await changeRepeat([], givenAt("/nowhere"), piping(ASKED))
 
-  expect(said.refusals[0] ?? "").toContain("no change is named")
+  expect(said.code).toBe(1)
+  expect(said.refusals[0] ?? "").toContain("<change>")
+  expect(said.refusals[0] ?? "").toContain("nothing said it")
+  expect(said.refusals.at(-1) ?? "").toContain("one change over and over")
+})
+
+test("a call naming two changes is refused rather than repeating the first", async () => {
+  const said = await changeRepeat(["wide", "narrow"], givenAt("/nowhere"), piping(ASKED))
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0] ?? "").toContain("takes 1 word")
 })
 
 test("a call piping nothing in is refused", async () => {

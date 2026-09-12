@@ -1,11 +1,14 @@
 import { join } from "node:path"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { change } from "akasha/commands/arguments/pages/change.argument.ts"
 import { answering, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { type Input, inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { changeRepeat as page } from "akasha/commands/pages/change/repeat/change-repeat.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -40,7 +43,7 @@ const KEPT_ALREADY =
 
 const COMMITTED = "committed as "
 
-const NO_CHANGE = "no change is named, and a repeat runs one change over and over"
+const ONE_CHANGE = "a repeat runs one change over and over"
 
 const NO_ARGUMENTS =
   "a repeat reads its arguments from standard input, and this call piped nothing in"
@@ -66,14 +69,14 @@ export type Running = (argv: readonly string[], given: string) => Batch
 export type Making = (root: string, at: string) => Running
 
 export function cliAt(root: string): string | null {
-  const page = listedAt(root, MODULE, CLI)[0]
-  return page === undefined ? null : besideAt(page.path, CODE, TS)
+  const found = listedAt(root, MODULE, CLI)[0]
+  return found === undefined ? null : besideAt(found.path, CODE, TS)
 }
 
 export function takesAtMost(root: string, slug: string): boolean | null {
-  const page = listedAt(root, CHANGE_AGENT, slug)[0]
-  if (page === undefined) return null
-  const value = valueAt(page.path, root)
+  const found = listedAt(root, CHANGE_AGENT, slug)[0]
+  if (found === undefined) return null
+  const value = valueAt(found.path, root)
   return value === null ? null : value[TAKES_AT_MOST] === true
 }
 
@@ -151,8 +154,9 @@ export async function changeRepeat(
   piping: Piping = inputIn,
   making: Making = runningIn
 ): Promise<Answer> {
-  const slug = argv[0]
-  if (slug === undefined) return mistaking([NO_CHANGE])
+  const named = takenFor(argv, given.calledAs, page, [change])
+  if ("refused" in named) return mistaking([...named.refused, ONE_CHANGE])
+  const slug = named.taken.change
   const piped = textFrom(piping)
   if ("why" in piped) return mistaking([piped.why])
   const read = readingIn(piped.text)
@@ -165,7 +169,7 @@ export async function changeRepeat(
   if (!takes) return mistaking([noBatching(slug)])
   const at = cliAt(given.root)
   if (at === null) return mistaking([NO_CLI])
-  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
-  if (page !== null && editsWaiting(given.root, page)) return mistaking([KEPT_ALREADY])
+  const agentPage = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (agentPage !== null && editsWaiting(given.root, agentPage)) return mistaking([KEPT_ALREADY])
   return await answering((done) => repeating(making(given.root, at), slug, piped.text, done))
 }
