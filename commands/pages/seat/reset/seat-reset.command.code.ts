@@ -1,27 +1,17 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  namedIn,
-  ran,
-} from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-const RESET = "reset"
+import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { seatReset as page } from "akasha/commands/pages/seat/reset/seat-reset.command.ts"
 
 export async function seatReset(argv: readonly string[], given: Given): Promise<Answer> {
-  const named = namedIn(given.calledAs, RESET, argv)
-  if (!("name" in named)) return named
-  const stray = argv.slice(1)
-  if (stray.length > 0) {
-    return refused(
-      `\`${given.calledAs}\` names the seat to reset and takes nothing else, and ${namesDrawn(stray)} followed it`,
-      1
-    )
-  }
+  const read = takenFor(argv, given.calledAs, page, [seat])
+  if ("refused" in read) return refusedBy(read.refused)
   const { default: resetting } = await import(
     "akasha/seat-system/seat-reset/seat-reset.module.code.ts"
   )
   return await ran(async (done) => {
-    await resetting([named.name], done)
+    await resetting([read.taken.seat], done)
   })
 }
