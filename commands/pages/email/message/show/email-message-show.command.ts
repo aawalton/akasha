@@ -11,10 +11,7 @@ export const emailMessageShow = {
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
-  helpNotes: [
-    "the message comes back with its full headers and the first plain-text part decoded as its body.",
-    "the attachments hanging off it are named by `email attachment list`.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
