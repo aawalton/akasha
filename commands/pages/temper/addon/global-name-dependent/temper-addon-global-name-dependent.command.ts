@@ -14,11 +14,7 @@ export const temperAddonGlobalNameDependent = {
     { said: "--json", takes: "give one report per line as JSON rather than as prose" },
     { said: "--code-root <path>", takes: "the checkout scanned" },
   ],
-  helpNotes: [
-    "naming no global reports every global an addon writes that a menu entry is bound to.",
-    "the addon sources and the markup files alike are read for dependents.",
-    "a global an addon saves its variables under counts as one the addon writes.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -36,6 +32,10 @@ export const temperAddonGlobalNameDependent = {
     {
       invariantKind: "departure",
       statement: "Naming no global reports only the globals a menu entry is bound to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A global an addon saves its variables under is one that addon writes.",
     },
   ],
   name: "global-name-dependent",
