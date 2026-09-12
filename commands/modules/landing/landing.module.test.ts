@@ -211,6 +211,22 @@ test("a change that takes a file away removes it and commits the removal", async
   expect(filesIn(root)).toEqual(besides("one.txt"))
 })
 
+test("a landing names the commit it landed on a list the caller hands in", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const done: string[] = []
+  const rows = rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }])
+  const said = await landing(root, rows, "held", ADMITS, null, null, [], null, null, done)
+  expect("refusals" in said ? null : said.commit).toBe(done[0] ?? null)
+  expect(done.length).toBe(1)
+})
+
+test("a landing that committed nothing names nothing on that list", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const done: string[] = []
+  await landing(root, [], "held", ADMITS, null, null, [], null, null, done)
+  expect(done).toEqual([])
+})
+
 test("asking for nothing is done rather than refused, and writes and commits nothing", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)

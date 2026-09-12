@@ -236,6 +236,14 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing names the commit that landing landed on a list the caller hands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that committed nothing names nothing on that list.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The index is settled before the commit.",
     },
     {

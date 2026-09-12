@@ -289,14 +289,6 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal an apply gives after its commit landed names that commit.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An apply that committed nothing says that nothing was committed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A key an apply does not take is refused rather than passed over.",
     },
   ],
