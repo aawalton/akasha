@@ -59,6 +59,7 @@ export type Named = {
   readonly slug: string
   readonly body: string
   readonly also?: string
+  readonly name?: string
   readonly definition?: string
   readonly surface?: Surface
   readonly notes?: readonly string[]
@@ -68,15 +69,22 @@ export type Named = {
 export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): string {
   const root = scratch.rootFor("akasha-calling-")
   noneOfTypeFiled(root, typeSlug)
-  idFiled(root, COMMAND_TYPE, [
-    { path: `akasha/command-system/command/${typeSlug}.page-type.ts`, id: COMMAND_TYPE },
-  ])
+  const typeAt = `akasha/command-system/command/${typeSlug}.page-type.ts`
+  idFiled(root, COMMAND_TYPE, [{ path: typeAt, id: COMMAND_TYPE }])
+  mkdirSync(join(root, typeAt.slice(0, typeAt.lastIndexOf("/"))), { recursive: true })
+  const rooted = named.map((one) => `${COMMAND}/${one.slug}`)
+  writeFileSync(
+    join(root, typeAt),
+    `export const ${exportedAs(typeSlug)} = ` +
+      `{ slug: "${typeSlug}", parts: ${JSON.stringify(rooted)} }\n`
+  )
   let minted = 0
   for (const one of named) {
     const at = `akasha/command-system/command/${one.slug}/${one.slug}.command.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
+    const called = one.name === undefined ? "" : `, name: ${JSON.stringify(one.name)}`
     const noted = one.notes === undefined ? "" : `, helpNotes: ${JSON.stringify(one.notes)}`
     const taken = one.taking === undefined ? "" : `, taking: ${JSON.stringify(one.taking)}`
     const shown =
@@ -85,7 +93,7 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
         : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
     writeFileSync(
       join(root, at),
-      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}${shown} }\n`
+      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${called}${stated}${shown} }\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
@@ -112,6 +120,7 @@ export const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
 
 export type Under = {
   readonly slug: string
+  readonly name?: string
   readonly definition?: string
   readonly parts: readonly string[]
 }
@@ -127,9 +136,10 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
+    const called = one.name === undefined ? "" : `, name: ${JSON.stringify(one.name)}`
     writeFileSync(
       join(root, at),
-      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}` +
+      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${called}${stated}` +
         `, parts: ${JSON.stringify(one.parts)} }\n`
     )
     minted = minted + 1

@@ -159,7 +159,11 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A part is listed by the words past the name of the namespace with it.",
+      statement: "A part is listed by the name that part's own page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part stating no name is listed by its slug.",
     },
     {
       invariantKind: "departure",
@@ -167,8 +171,19 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A part whose slug opens with another name than its namespace's is listed nowhere.",
+      statement: "A part that is no command and no namespace is listed nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root of the tree is listed the way a namespace is listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root's parts are the parts the page type saying what a command is states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No listing reads the whole roster of commands.",
     },
     {
       invariantKind: "departure",

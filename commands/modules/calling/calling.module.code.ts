@@ -16,8 +16,6 @@ import {
   listingOf,
   partsOf,
   slugOfPart,
-  underOf,
-  widest,
 } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 import {
   secondsIn,
@@ -35,6 +33,7 @@ import {
   indexNamed,
   indexThere,
   listedAt,
+  listedById,
   slugsOfType,
   typeSlugById,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -71,6 +70,8 @@ export const HELP = "--help"
 export const HELP_SHORT = "-h"
 
 const DEFINITION = "definition"
+
+const NAME = "name"
 
 const RUNS_CHECKS = "runsChecks"
 
@@ -195,24 +196,6 @@ export function kindNamed(root: string, slug: string): Kind | null {
   return { slug, runsChecks: checks, writerOwesReading: owed, readersOweReading: stales }
 }
 
-function definitionIn(root: string, path: string, slug: string): string | null {
-  return definitionOf(pageIn(root, path, slug))
-}
-
-function toldOf(root: string, every: readonly string[], calledAs: string): readonly string[] {
-  const held = every.map((one) => {
-    const path = pageAt(root, one)
-    return {
-      named: `${calledAs} ${one}`,
-      said: path === null ? null : definitionIn(root, path, one),
-    }
-  })
-  const wide = widest(held.map((one) => one.named))
-  return held.map((one) =>
-    one.said === null ? `  ${one.named}` : `  ${one.named.padEnd(wide)}  ${one.said}`
-  )
-}
-
 export function unreadIn(root: string, outside: Outside): string | null {
   const at = indexNamed()
   const saying = (opened: string): string =>
@@ -303,15 +286,17 @@ async function answeredBy(
   }
 }
 
+function rootPageIn(root: string): Record<string, unknown> | null {
+  const slug = commandSlugIn(root)
+  if (slug === null) return null
+  const found = listedById(root, COMMAND_TYPE)
+  return found === null ? null : pageIn(root, found.path, slug)
+}
+
 function helping(root: string, outside: Outside): Answer {
-  const every = commandsIn(root)
   const unread = unreadIn(root, outside)
-  const report: string[] = []
-  if (every.length > 0) {
-    report.push(`${outside.calledAs} carries these commands:`, "")
-    report.push(...toldOf(root, every, outside.calledAs))
-    report.push("", `say \`${outside.calledAs} <command> ${HELP}\` for what one takes`)
-  }
+  const listing = listedUnder(root, rootPageIn(root), outside.calledAs, null)
+  const report: string[] = listing === null ? [] : [...listing]
   if (unread !== null) report.push(unread)
   return { report, refusals: [], code: 0 }
 }
@@ -329,15 +314,33 @@ function namedIn(root: string, every: readonly string[]): readonly string[] {
   return type === null ? every : [...every, ...slugsOfType(root, type)]
 }
 
-function saidOfPart(root: string, part: string): string | null {
+function levelOfPart(root: string, part: string): Held | null {
   const slug = slugOfPart(part)
   for (const type of [commandSlugIn(root), namespaceSlugIn(root)]) {
     if (type === null) continue
     const found = listedAt(root, type, slug)
     const one = found[0]
-    if (found.length === 1 && one !== undefined) return definitionIn(root, one.path, slug)
+    if (found.length !== 1 || one === undefined) continue
+    const page = pageIn(root, one.path, slug)
+    const named = page === null ? null : page[NAME]
+    return { named: typeof named === "string" ? named : slug, said: definitionOf(page) }
   }
   return null
+}
+
+function listedUnder(
+  root: string,
+  page: Record<string, unknown> | null,
+  under: string,
+  definition: string | null
+): readonly string[] | null {
+  const held: Held[] = []
+  for (const part of partsOf(page)) {
+    const one = levelOfPart(root, part)
+    if (one === null) continue
+    held.push({ named: `${under} ${one.named}`, said: one.said })
+  }
+  return listingOf(under, definition, held, HELP)
 }
 
 function namespaceSaid(
@@ -349,14 +352,7 @@ function namespaceSaid(
   const first = reached.found[0]
   if (reached.found.length !== 1 || first === undefined) return null
   const page = pageIn(root, first.path, reached.named)
-  const under = `${calledAs} ${said}`
-  const held: Held[] = []
-  for (const part of partsOf(page)) {
-    const rest = underOf(reached.named, part)
-    if (rest === null) continue
-    held.push({ named: `${under} ${rest}`, said: saidOfPart(root, part) })
-  }
-  return listingOf(under, definitionOf(page), held, HELP)
+  return listedUnder(root, page, `${calledAs} ${said}`, definitionOf(page))
 }
 
 export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {

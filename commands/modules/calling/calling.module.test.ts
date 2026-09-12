@@ -144,10 +144,13 @@ test("a word steps a whole level, so a longer word reaches no command below", as
 })
 
 test("a namespace naming no command is answered with what sits under it", async () => {
-  const root = rootWith([{ slug: "track-session-open", body: ANSWERS, definition: "open one" }])
+  const root = rootWith([
+    { slug: "track-session-open", name: "open", body: ANSWERS, definition: "open one" },
+  ])
   namespacesIn(root, [
     {
       slug: "track-session",
+      name: "session",
       definition: "the stretches a day holds",
       parts: ["command/track-session-open"],
     },
@@ -162,9 +165,10 @@ test("a namespace naming no command is answered with what sits under it", async 
 test("a namespace under a namespace is listed as one word more", async () => {
   const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
   namespacesIn(root, [
-    { slug: "track", definition: "a day", parts: ["namespace/track-session"] },
+    { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
     {
       slug: "track-session",
+      name: "session",
       definition: "the stretches",
       parts: ["command/track-session-open"],
     },
