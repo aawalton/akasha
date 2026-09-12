@@ -29,21 +29,12 @@ import {
   isCharacterMeasured,
   isCompanionMeasured,
 } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
+import { CompletionSearchContext } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
+import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
-} from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import { CompletionSearchContext } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
-import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
-import { CompletionPageEmpty } from "akasha/temper/web/completion-page-empty/completion-page-empty.module.code.tsx"
-import {
-  buildActivityItems,
-  SKILL_TYPE_ITEMS,
-  SORT_OPTIONS,
-  STATUS_ITEMS,
-  VALID_TABS,
-} from "akasha/temper/web/completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
-import { CompletionPageOwnEmpty } from "akasha/temper/web/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
+} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { CompletionSummaryTab } from "akasha/temper/web/completion-summary-tab/completion-summary-tab.module.code.tsx"
 import {
   type CompletionToolbarContextValue,
@@ -52,6 +43,15 @@ import {
 import { CompletionAccountTab } from "akasha/temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx"
 import { CompletionCharactersTab } from "akasha/temper/web/modules/completion-characters-tab/completion-characters-tab.module.code.tsx"
 import { CompletionCompanionsTab } from "akasha/temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"
+import { CompletionPageEmpty } from "akasha/temper/web/modules/completion-page-empty/completion-page-empty.module.code.tsx"
+import {
+  buildActivityItems,
+  SKILL_TYPE_ITEMS,
+  SORT_OPTIONS,
+  STATUS_ITEMS,
+  VALID_TABS,
+} from "akasha/temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
+import { CompletionPageOwnEmpty } from "akasha/temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
 import { useCompletionFilters } from "akasha/temper/web/use-completion-filters/use-completion-filters.module.code.ts"
 import { useCompletionProgress } from "akasha/temper/web/use-completion-progress/use-completion-progress.module.code.ts"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"

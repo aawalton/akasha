@@ -10,7 +10,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
   withActivityCategories,
-} from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,

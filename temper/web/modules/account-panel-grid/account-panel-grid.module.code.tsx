@@ -7,7 +7,7 @@ import { SubclassingSkillMorphsPanelCard } from "akasha/temper/player-completion
 import type {
   CompletionFilter,
   CompletionSortMode,
-} from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { GrandMasterStationsPanelCard } from "akasha/temper/web/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx"
 import { ItemSetsProgressPanelCard } from "akasha/temper/web/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx"
 import { LoreLibraryPanelCard } from "akasha/temper/web/lore-library-panel-card/lore-library-panel-card.module.code.tsx"

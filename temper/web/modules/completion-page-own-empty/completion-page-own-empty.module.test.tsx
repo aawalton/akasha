@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { CompletionPageOwnEmpty } from "akasha/temper/web/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
+import { CompletionPageOwnEmpty } from "akasha/temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
 import type { ReactElement, ReactNode } from "react"
 
 type LinkLikeProps = { href?: unknown; children?: ReactNode }

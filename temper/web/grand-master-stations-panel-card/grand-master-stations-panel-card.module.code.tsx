@@ -9,7 +9,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
   withActivityCategories,
-} from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 const FALLBACK_LABELS = ["Blacksmithing", "Clothier", "Jewelrycrafting", "Woodworking"]
 

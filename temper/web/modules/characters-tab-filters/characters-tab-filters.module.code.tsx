@@ -16,7 +16,7 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type { CompletionSortMode } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+import type { CompletionSortMode } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { useState } from "react"
 
 type FilterId = "status" | "activity" | "character" | "skills"

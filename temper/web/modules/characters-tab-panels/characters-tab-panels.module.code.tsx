@@ -6,7 +6,7 @@ import { SkillMorphsProgressPanelCard } from "akasha/temper/player-completion-sk
 import type {
   CompletionFilter,
   CompletionSortMode,
-} from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { LoreLibraryProgressPanelCard } from "akasha/temper/web/lore-library-progress-panel-card/lore-library-progress-panel-card.module.code.tsx"
 import { AllianceRankPanelCard } from "akasha/temper/web/modules/alliance-rank-panel-card/alliance-rank-panel-card.module.code.tsx"
 import { CadwellProgressPanelCard } from "akasha/temper/web/modules/cadwell-progress-panel-card/cadwell-progress-panel-card.module.code.tsx"
