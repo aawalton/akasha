@@ -7,6 +7,7 @@ export const network = {
   definition: "what a program reaches other machines over",
   pluralSlug: "networks",
   parts: [
+    "domain/auth-proxy",
     "domain/certificate",
     "manifest/cloudflared",
     "manifest/ddns-headscale",
@@ -14,7 +15,6 @@ export const network = {
     "manifest/tailnet-egress",
     "manifest/talos-subnet-router",
     "module/headscale-constants",
-    "domain/auth-proxy",
   ],
   invariants: [
     {

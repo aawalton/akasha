@@ -5,5 +5,5 @@ export const machines = {
   type: "domain",
   slug: "machines",
   definition: "the machines Alan owns and what they are worth running",
-  parts: ["page-type/computer", "page-type/host", "page-type/cluster", "domain/provisioning"],
+  parts: ["domain/provisioning", "page-type/cluster", "page-type/computer", "page-type/host"],
 } as const satisfies Domain

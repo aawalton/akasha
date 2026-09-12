@@ -36,7 +36,6 @@ export const memoryReaping = {
     },
   ],
   parts: [
-    "module/memory-reaper-running",
     "module/memory-reaper-config",
     "module/memory-reaper-global",
     "module/memory-reaper-kill",
@@ -45,6 +44,7 @@ export const memoryReaping = {
     "module/memory-reaper-plan",
     "module/memory-reaper-proc-scan",
     "module/memory-reaper-read",
+    "module/memory-reaper-running",
     "module/memory-reaper-tick",
   ],
 } as const satisfies Domain

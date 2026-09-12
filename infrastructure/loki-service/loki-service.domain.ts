@@ -8,8 +8,8 @@ export const lokiService = {
   parts: [
     "manifest/loki",
     "manifest/promtail",
-    "module/loki-constants",
     "module/loki-configs",
+    "module/loki-constants",
     "module/loki-manifests",
     "module/promtail-manifests",
   ],

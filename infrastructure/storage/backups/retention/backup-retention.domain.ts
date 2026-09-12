@@ -9,17 +9,17 @@ export const backupRetention = {
   parts: [
     "manifest/gfs-promoter",
     "manifest/seaweedfs-backup-longtail",
-    "module/keep-decision",
+    "module/backup-attestation",
     "module/backup-info",
+    "module/barman",
     "module/barman-output",
-    "module/retention-env",
+    "module/copy-longtail",
+    "module/keep-decision",
     "module/decide-keeps",
     "module/decide-longtail",
-    "module/backup-attestation",
-    "module/barman",
-    "module/rclone",
     "module/promote-keeps",
-    "module/copy-longtail",
+    "module/rclone",
+    "module/retention-env",
   ],
   invariants: [
     {

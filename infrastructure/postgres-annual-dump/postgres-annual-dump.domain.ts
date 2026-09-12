@@ -6,8 +6,8 @@ export const postgresAnnualDump = {
   slug: "postgres-annual-dump",
   definition: "the yearly whole copy of the database, and what it is taken by",
   parts: [
+    "container-recipe/postgres-annual-dump-image",
     "manifest/postgres-annual-dump-manifests",
     "shell-script/annual-dump",
-    "container-recipe/postgres-annual-dump-image",
   ],
 } as const satisfies Domain

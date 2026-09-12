@@ -6,7 +6,6 @@ export const dockerfiles = {
   slug: "dockerfiles",
   definition: "the Dockerfile each service is built from, written from what the service imports",
   parts: [
-    "page-type/built-image",
     "module/dockerfile-builder",
     "module/dockerfile-bun-service",
     "module/dockerfile-deps",
@@ -16,5 +15,6 @@ export const dockerfiles = {
     "module/dockerfile-services",
     "module/dockerfile-tool-image",
     "module/dockerfile-writing",
+    "page-type/built-image",
   ],
 } as const satisfies Domain

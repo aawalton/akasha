@@ -6,8 +6,8 @@ export const inference = {
   slug: "inference",
   definition: "the services that run models and keep a record of every run",
   parts: [
-    "domain/generation",
     "domain/comfy",
+    "domain/generation",
     "domain/inference-clients",
     "domain/inference-commands",
     "domain/inference-pool",
