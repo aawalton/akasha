@@ -2,9 +2,9 @@ import { dirname, join } from "node:path"
 import {
   answeredWith,
   DATA,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -42,14 +42,10 @@ export async function putUpAddon(
   }
   const name = found.canonicalName
   if (dryRun) {
-    return answeredWith(
-      [
-        `${slug} would be compiled from ${under} to ${bundlePathFor(codeAt, name)}`,
-        `and placed as ${name} in ${goingTo()}`,
-      ],
-      [],
-      OK
-    )
+    return told([
+      `${slug} would be compiled from ${under} to ${bundlePathFor(codeAt, name)}`,
+      `and placed as ${name} in ${goingTo()}`,
+    ])
   }
 
   const report: string[] = []
@@ -62,5 +58,5 @@ export async function putUpAddon(
   report.push(...placed.lines)
   if (placed.refusals.length > 0) return answeredWith(report, placed.refusals, OPERATIONAL)
   up.push(`${name}, placed where the game reads it`)
-  return answeredWith(report, [], OK)
+  return told(report)
 }
