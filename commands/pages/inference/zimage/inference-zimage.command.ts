@@ -84,10 +84,10 @@ export const inferenceZimage = {
   ],
   name: "zimage",
   arguments: [
-    { argument: "argument/output" },
     { argument: "argument/timeout" },
     { argument: "argument/seed" },
     { argument: "argument/steps" },
     { argument: "argument/guidance" },
+    { argument: "argument/output", required: true },
   ],
 } as const satisfies Command
