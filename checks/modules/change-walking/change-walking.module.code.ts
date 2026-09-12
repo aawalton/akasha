@@ -208,14 +208,25 @@ export function judgingEachAsync<T extends { readonly path: string }>(
   return Object.assign(run, stated)
 }
 
+export function takenIn(takes: Input | null, paths: readonly string[], shadow: Shadow): boolean {
+  if (takes === null) return true
+  try {
+    return paths.some((path) => takes(path, shadow))
+  } catch {
+    return true
+  }
+}
+
 export function input<T>(selector: Selector<T>, run: Running): Bounded {
-  const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
+  const bound = (change: Change, shadow: Shadow): readonly Judged[] =>
+    takenIn(selector.isInput, change.changed, shadow) ? run(change, shadow) : []
   const stated: Stated = { isInput: selector.isInput }
   return Object.assign(bound, stated)
 }
 
 export function inputAsync<T>(selector: Selector<T>, run: RunningAsync): BoundedAsync {
-  const bound = (change: Change, shadow: Shadow): Promise<readonly Judged[]> => run(change, shadow)
+  const bound = async (change: Change, shadow: Shadow): Promise<readonly Judged[]> =>
+    takenIn(selector.isInput, change.changed, shadow) ? await run(change, shadow) : []
   const stated: Stated = { isInput: selector.isInput }
   return Object.assign(bound, stated)
 }

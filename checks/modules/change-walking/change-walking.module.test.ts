@@ -219,6 +219,7 @@ test("an input laid on a runner wraps it, leaving the runner it was handed carry
   expect(bound.isInput("one.ts", shadow)).toBe(true)
   expect(bound.isInput("one.md", shadow)).toBe(false)
   expect(bound(change, shadow)).toEqual([{ path: "gone.ts", reason: "said" }])
+  expect(bound({ ...change, changed: ["note.md"] }, shadow)).toEqual([])
 })
 
 test("the judge of a selection is handed the index the change leaves, so it may ask of it", () => {

@@ -35,6 +35,14 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a change holds the input a check takes is answered here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A runner carrying an input is run only over a change holding a path it takes.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A selector names a path before reading it, so a path it drops is never opened.",
     },
     {

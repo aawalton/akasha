@@ -1,7 +1,10 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import type { Input } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  type Input,
+  takenIn,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   type Cost,
   closing,
@@ -278,13 +281,7 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
 }
 
 export function takesAny(one: Gathered, paths: readonly string[], shadow: Shadow): boolean {
-  const takes = one.isInput
-  if (takes === null) return true
-  try {
-    return paths.some((path) => takes(path, shadow))
-  } catch {
-    return true
-  }
+  return takenIn(one.isInput, paths, shadow)
 }
 
 function takenAway(one: Gathered, change: Change): boolean {
