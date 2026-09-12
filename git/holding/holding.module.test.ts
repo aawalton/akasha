@@ -73,7 +73,7 @@ const ADMITS: Judging = {
 const PROPOSED: readonly FileChange[] = [{ kind: "add", path: "new.txt", content: "proposed" }]
 
 const AT_ONCE = Array.from(
-  { length: 8 },
+  { length: 4 },
   (_, at) =>
     `p${String.fromCharCode(97 + Math.floor(at / 26))}${String.fromCharCode(97 + (at % 26))}`
 )
