@@ -45,5 +45,5 @@ export const temperPackageTypecheck = {
     },
   ],
   name: "package-typecheck",
-  arguments: [{ argument: "argument/argument-package" }],
+  arguments: [{ argument: "argument/package-name" }],
 } as const satisfies Command
