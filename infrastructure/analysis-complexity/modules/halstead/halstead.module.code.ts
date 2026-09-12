@@ -1,4 +1,4 @@
-import { classifyToken } from "akasha/infrastructure/analysis-complexity/operator-classification/operator-classification.module.code.ts"
+import { classifyToken } from "akasha/infrastructure/analysis-complexity/modules/operator-classification/operator-classification.module.code.ts"
 import {
   type FunctionNode,
   isFunctionBearing,

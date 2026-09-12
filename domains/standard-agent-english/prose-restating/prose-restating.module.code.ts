@@ -1,6 +1,6 @@
 import type { DepSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
-import { loadParser } from "akasha/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts"
+import { loadParser } from "akasha/domains/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"
 import { foundIn } from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.code.ts"
 import {
   type Pattern,

@@ -1,5 +1,5 @@
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 

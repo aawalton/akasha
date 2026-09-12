@@ -39,7 +39,7 @@ import { useInventory } from "akasha/temper/player-inventory-management-ui/modul
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { InventoryTypeSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/modules/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
-import { OverallSummaryPanelCard } from "akasha/temper/web/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
+import { OverallSummaryPanelCard } from "akasha/temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
 import { RecentCharactersCard } from "akasha/temper/web/recent-characters-card/recent-characters-card.module.code.tsx"
 import { RecentCompanionsCard } from "akasha/temper/web/recent-companions-card/recent-companions-card.module.code.tsx"
 import { useCompletionProgress } from "akasha/temper/web/use-completion-progress/use-completion-progress.module.code.ts"

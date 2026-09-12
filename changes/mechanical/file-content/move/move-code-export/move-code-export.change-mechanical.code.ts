@@ -29,7 +29,7 @@ import {
   type Naming,
   specifierFor,
 } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
-import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { reachingOf } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 
 const ADD_FILE_CODE = "change-mechanical/add-file-code"

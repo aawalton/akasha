@@ -18,9 +18,8 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
-import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { spellingsIn } from "akasha/pages/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
@@ -32,10 +31,11 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Beside as Sidecar } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { namedAs, slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   folderFor,
   namedForThePlural,

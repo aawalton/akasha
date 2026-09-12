@@ -20,6 +20,10 @@ import {
   takenAway,
 } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
+  bodiesAt,
+  reachingBuilt,
+} from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
+import {
   refusingEmpty,
   settlingOver,
 } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
@@ -28,10 +32,6 @@ import {
   indexIn,
   readingAt,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import {
-  bodiesAt,
-  reachingBuilt,
-} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { sidecarsIn, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"

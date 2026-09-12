@@ -6,13 +6,17 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { Asked, Query, Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import type {
+  Asked,
+  Query,
+  Row,
+} from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
   readingFor,
   type Writing,
   writingFor,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import type {
   Read,
   Asked as Sought,

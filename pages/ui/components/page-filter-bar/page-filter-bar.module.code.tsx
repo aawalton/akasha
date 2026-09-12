@@ -5,7 +5,7 @@ import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-b
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
-import { OperatorFilterControl } from "akasha/pages/ui/components/operator-filter-control/operator-filter-control.module.code.tsx"
+import { OperatorFilterControl } from "akasha/pages/ui/components/modules/operator-filter-control/operator-filter-control.module.code.tsx"
 import { useState } from "react"
 
 interface PagesFilterBarProps {

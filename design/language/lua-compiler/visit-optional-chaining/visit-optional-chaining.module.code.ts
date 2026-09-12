@@ -6,7 +6,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import {
   createOptionalContinuationIdentifier,
   getOptionalContinuationData,
-} from "akasha/design/language/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   canBeFalsyWhenNotNull,

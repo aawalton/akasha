@@ -7,7 +7,7 @@ import { DeepLinkOpenSync } from "akasha/alan/web/modules/deep-link-open-sync/de
 import { DeviceSecretSync } from "akasha/alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"
 import { NativeAuthRefreshSync } from "akasha/alan/web/modules/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx"
 import { setOfflineCacheUserKey } from "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
-import { OfflineTextSync } from "akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx"
+import { OfflineTextSync } from "akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"
 import { PushRegistrationSync } from "akasha/alan/web/push-registration-sync/push-registration-sync.module.code.tsx"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

@@ -1,7 +1,7 @@
 "use client"
 
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { enqueueChapterCompletion } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
+import { enqueueChapterCompletion } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import {
   isCompletionAlreadySet,
   selectCompletionWriteMode,

@@ -9,7 +9,7 @@ import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import {
   manifestsAmong,
   reachingOf,
-} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+} from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const MANIFEST = "package.json"

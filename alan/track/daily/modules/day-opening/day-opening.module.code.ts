@@ -9,7 +9,7 @@ import {
   type Refused,
   openingInstantOn as recordedOpeningOn,
   spannedWindowIn,
-} from "akasha/alan/harness/health-samples-day/opening-window/opening-window.module.code.ts"
+} from "akasha/alan/harness/health-samples-day/modules/opening-window/opening-window.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 

@@ -13,7 +13,7 @@ import type {
 import {
   readingFor,
   writingFor,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
 
 const EMPTY_REPORT: HealthSampleWriteReport = {

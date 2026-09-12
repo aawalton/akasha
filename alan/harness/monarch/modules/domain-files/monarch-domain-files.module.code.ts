@@ -19,7 +19,7 @@ import {
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import type { WriteItem } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
 import { through } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
-import { bodyOf, importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { bodyOf, importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
 
 export type Value = string | number | boolean
 

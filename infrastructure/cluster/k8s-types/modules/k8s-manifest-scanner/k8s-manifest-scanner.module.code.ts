@@ -22,7 +22,7 @@ import {
   splitDocs,
   unquote,
 } from "akasha/infrastructure/cluster/k8s-types/modules/k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
-import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 export interface ImageLine {
   readonly value: string

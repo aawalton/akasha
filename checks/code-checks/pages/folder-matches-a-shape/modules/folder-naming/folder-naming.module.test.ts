@@ -42,7 +42,7 @@ test("a folder wanting a name that cannot be worked out still wants a name", () 
 test("a folder named `pages` the page in it names is that page's folder rather than a part", () => {
   const holds = holding({ "akasha/pages-system/pages": ["page", "pages"] })
   expect(heldFolder("akasha/pages-system/pages", holds, HELD)).toBe(false)
-  expect(namingFolderOf("akasha/pages-system/pages/address", holds, HELD)).toBe(
+  expect(namingFolderOf("akasha/pages-system/pages/modules/address", holds, HELD)).toBe(
     "akasha/pages-system/pages"
   )
 })
@@ -114,7 +114,7 @@ test("a folder named `pages` the page in it names ends the descent", () => {
   const holds = holding({ "akasha/pages-system/pages": ["page", "pages"] })
   const grouped = grouping({
     "akasha/pages-system": ["akasha/pages-system/pages"],
-    "akasha/pages-system/pages": ["akasha/pages-system/pages/address"],
+    "akasha/pages-system/pages": ["akasha/pages-system/pages/modules/address"],
   })
   expect(answeringTo("akasha/pages-system", grouped, holds, HELD)).toEqual([
     "akasha/pages-system/pages",

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   chapterPageForOffline,
   OFFLINE_CHAPTER_KEYS,
-} from "akasha/alan/library/reading/offline-reading/offline-reading.module.code.ts"
+} from "akasha/alan/library/reading/modules/offline-reading/offline-reading.module.code.ts"
 import {
   parsePersistedContentPage,
   serializeContentPage,

@@ -5,8 +5,8 @@ import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-mor
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/interfaces/patterns/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"
 import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
-import { PageBoard } from "akasha/pages/ui/components/page-board/page-board.module.code.tsx"
-import { PageCalendar } from "akasha/pages/ui/components/page-calendar/page-calendar.module.code.tsx"
+import { PageBoard } from "akasha/pages/ui/components/modules/page-board/page-board.module.code.tsx"
+import { PageCalendar } from "akasha/pages/ui/components/modules/page-calendar/page-calendar.module.code.tsx"
 import { PageListSection } from "akasha/pages/ui/components/page-list-section/page-list-section.module.code.tsx"
 import type {
   PageSystemTabContentProps,

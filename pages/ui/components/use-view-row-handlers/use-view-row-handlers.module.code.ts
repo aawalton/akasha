@@ -8,7 +8,7 @@ import type {
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { createOptionOnDefinition } from "akasha/pages/ui/components/modules/create-option/create-option.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useHostCreateSelectOption } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
+import { useHostCreateSelectOption } from "akasha/pages/ui/modules/option-create-context/option-create-context.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPropertyDefinition } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"

@@ -12,7 +12,7 @@ import {
 import {
   isWriteOverServerOp,
   type WriteOverServerOp,
-} from "akasha/pages/access/over-server/over-server.module.code.ts"
+} from "akasha/pages/access/modules/over-server/over-server.module.code.ts"
 import {
   patchPage,
   patchPageById,

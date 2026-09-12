@@ -3,7 +3,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 
 const NONE = "none"
 

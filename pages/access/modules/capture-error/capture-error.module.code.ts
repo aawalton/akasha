@@ -1,10 +1,10 @@
-import type { Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import type { Row } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
   type Fetcher,
   type Sleeper,
   writingFor,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type ErrorCapturePayload = {

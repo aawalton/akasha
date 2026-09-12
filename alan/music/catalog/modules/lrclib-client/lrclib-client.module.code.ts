@@ -2,7 +2,7 @@ import {
   type LrclibRecord,
   lrclibSearchSchema,
 } from "akasha/alan/music/catalog/modules/lrclib-schema/lrclib-schema.module.code.ts"
-import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
+import { pacedQueue } from "akasha/utils/narrow/modules/paced-queue/paced-queue.module.code.ts"
 
 const BASE_URL = "https://lrclib.net/api"
 

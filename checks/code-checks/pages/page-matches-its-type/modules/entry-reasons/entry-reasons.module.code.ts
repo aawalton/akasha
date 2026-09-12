@@ -1,6 +1,6 @@
-import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
 import { entriedAmong, entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { partsReading } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"

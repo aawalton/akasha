@@ -24,7 +24,7 @@ import { getMetricDisplayName } from "akasha/temper/characters-stats/modules/met
 import { isNamedSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { BuffOrDebuffExplanationDialog } from "akasha/temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"
 import { EffectsPanelCard } from "akasha/temper/web/modules/effects-panel-card/effects-panel-card.module.code.tsx"
-import { OptimizationPanelCard } from "akasha/temper/web/optimization-panel-card/optimization-panel-card.module.code.tsx"
+import { OptimizationPanelCard } from "akasha/temper/web/modules/optimization-panel-card/optimization-panel-card.module.code.tsx"
 import { PanelCardSkeleton } from "akasha/temper/web/panel-card-skeleton/panel-card-skeleton.module.code.tsx"
 import { StatCategoryPanelCard } from "akasha/temper/web/stat-category-panel-card/stat-category-panel-card.module.code.tsx"
 import { StatExplanationDialog } from "akasha/temper/web/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx"

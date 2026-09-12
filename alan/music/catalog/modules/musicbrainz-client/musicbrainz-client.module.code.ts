@@ -8,7 +8,7 @@ import {
   mbRecordingBrowseSchema,
   mbWorkBrowseSchema,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
+import { pacedQueue } from "akasha/utils/narrow/modules/paced-queue/paced-queue.module.code.ts"
 
 const BASE_URL = "https://musicbrainz.org/ws/2"
 

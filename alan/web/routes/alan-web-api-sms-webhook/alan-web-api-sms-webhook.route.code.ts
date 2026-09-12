@@ -16,7 +16,7 @@ import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/verify-signa
 import {
   askingFor,
   writingFor,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 

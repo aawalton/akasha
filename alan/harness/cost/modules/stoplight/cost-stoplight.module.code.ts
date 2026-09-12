@@ -19,7 +19,7 @@ import {
   BELOW_EVERY_RUNG,
   readingSaid,
 } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 

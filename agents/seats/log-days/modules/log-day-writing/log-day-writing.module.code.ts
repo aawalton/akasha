@@ -2,7 +2,6 @@ import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import {
   exportedAs,
   nameFaultIn,
@@ -15,6 +14,7 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

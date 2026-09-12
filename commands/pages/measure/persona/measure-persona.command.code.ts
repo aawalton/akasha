@@ -13,7 +13,7 @@ import {
   PLACES,
 } from "akasha/commands/pages/measure/modules/tabling/measure-tabling.module.code.ts"
 import { measurePersona as page } from "akasha/commands/pages/measure/persona/measure-persona.command.ts"
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
 import {

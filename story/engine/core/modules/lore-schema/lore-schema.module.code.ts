@@ -1,4 +1,4 @@
-import { oneLine } from "akasha/utils/text/one-line/one-line.module.code.ts"
+import { oneLine } from "akasha/utils/text/modules/one-line/one-line.module.code.ts"
 import { z } from "zod"
 
 const LORE_KINDS = ["entity", "timeline", "thread", "quote"] as const

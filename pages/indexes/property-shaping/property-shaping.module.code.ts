@@ -1,10 +1,10 @@
-import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   answered,
   shapesEvery,
   shapesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { addressedIn, addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 
 export function shapesAt(given: string | Reading): ReadonlyMap<string, Shape> {
   return shapesEvery(given)

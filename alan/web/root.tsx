@@ -6,7 +6,7 @@ import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/au
 import { guardedRootData } from "akasha/alan/harness/supabase-rr/root-loader/root-loader.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
-import { readLocalPosition } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
+import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/font-preload.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"

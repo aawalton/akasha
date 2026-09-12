@@ -4,7 +4,7 @@ import type { FileReadDeps } from "akasha/pages/access/modules/file-read/file-re
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
 
 const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/

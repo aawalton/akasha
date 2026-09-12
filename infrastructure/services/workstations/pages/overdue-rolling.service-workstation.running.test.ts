@@ -2,9 +2,11 @@ import { expect, mock, test } from "bun:test"
 
 const RAN: string[] = []
 
-const rolling = await import("akasha/alan/harness/overdue-rolling/overdue-rolling.module.code.ts")
+const rolling = await import(
+  "akasha/alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts"
+)
 
-mock.module("akasha/alan/harness/overdue-rolling/overdue-rolling.module.code.ts", () => ({
+mock.module("akasha/alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts", () => ({
   ...rolling,
   runOverdueRolling: () => {
     RAN.push("roll")
@@ -34,7 +36,7 @@ test("a run turns the rolling module's own roll rather than a roll written again
 test("a roll that could not run is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   RAN.length = 0
   const why = new Error("the overdue to-dos could not be written")
-  mock.module("akasha/alan/harness/overdue-rolling/overdue-rolling.module.code.ts", () => ({
+  mock.module("akasha/alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts", () => ({
     ...rolling,
     runOverdueRolling: () => Promise.reject(why),
   }))

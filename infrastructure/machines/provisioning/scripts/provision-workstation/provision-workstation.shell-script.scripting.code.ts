@@ -5,10 +5,10 @@ import {
   SECRET_SHOW,
   SERVICE_SWEEP,
 } from "akasha/infrastructure/modules/calls/infrastructure-calls.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
+import { importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
 
 const SCRIPT = "shell-script"
 

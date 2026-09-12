@@ -6,17 +6,17 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
-} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache/orchestrator-cache.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
   orchestratorCacheVolumeMounts,
   orchestratorCacheVolumes,
-} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   AUDHDALAN_WEB_CACHE,
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
-} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 const NAMESPACE = "audhdalan"
 const APP_NAME = "web"

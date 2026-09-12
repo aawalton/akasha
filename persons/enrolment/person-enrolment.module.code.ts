@@ -2,7 +2,7 @@ import {
   askingFor,
   type Fetcher,
   type Sleeper,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const PERSON_PAGE_TYPE = "person"
 

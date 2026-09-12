@@ -26,6 +26,12 @@ import {
   uniquePropertiesAt,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
+  type Body,
+  bodiesAt,
+  reachingSettled,
+  rereadOver,
+} from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
+import {
   indexThere,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -34,12 +40,6 @@ import {
   overlaidOn,
   readingNone,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import {
-  type Body,
-  bodiesAt,
-  reachingSettled,
-  rereadOver,
-} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   sidecarsOver,

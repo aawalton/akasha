@@ -24,7 +24,7 @@ import { createPromiseIdentifier } from "akasha/design/language/lua-compiler/mod
 import {
   getOptionalContinuationData,
   isOptionalContinuation,
-} from "akasha/design/language/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/optional-chain-data/optional-chain-data.module.code.ts"
 import {
   createSafeName,
   hasUnsafeIdentifierName,

@@ -4,13 +4,13 @@ import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedById,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
 
 const AKASHA_FILE_CEILING_BYTES = 15_000
 

@@ -21,7 +21,7 @@ import { AccountSummaryPanelCard } from "akasha/temper/web/modules/account-summa
 import { CharactersSummaryPanelCard } from "akasha/temper/web/modules/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"
 import { CompanionsSummaryPanelCard } from "akasha/temper/web/modules/companions-summary-panel-card/companions-summary-panel-card.module.code.tsx"
 import { useCompletionToolbar } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
-import { OverallSummaryPanelCard } from "akasha/temper/web/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
+import { OverallSummaryPanelCard } from "akasha/temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
 import { useState } from "react"
 
 type FilterId = "status"

@@ -1,9 +1,9 @@
 import { dirname } from "node:path"
-import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   everyOfType,
   listedAt,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

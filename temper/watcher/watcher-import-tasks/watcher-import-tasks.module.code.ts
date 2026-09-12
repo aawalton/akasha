@@ -8,8 +8,8 @@ import {
   readsAsDone,
   uncompletionValues,
 } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
-import type { Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import type { Row } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { isCumulativeCard } from "akasha/temper/player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {

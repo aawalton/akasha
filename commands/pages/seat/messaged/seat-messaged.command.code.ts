@@ -8,7 +8,7 @@ import { answering, told } from "akasha/commands/modules/answering/command-answe
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { seatMessaged as page } from "akasha/commands/pages/seat/messaged/seat-messaged.command.ts"
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   keepPointsToday,
   pointsIn,

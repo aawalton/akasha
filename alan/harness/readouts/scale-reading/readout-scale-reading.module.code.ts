@@ -3,7 +3,7 @@ import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.
 import {
   askingFor,
   type Fetcher,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT_SCALE = "readout-scale"
 

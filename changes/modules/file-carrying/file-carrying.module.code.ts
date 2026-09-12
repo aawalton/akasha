@@ -3,8 +3,8 @@ import { renameManifestWays } from "akasha/changes/mechanical/file-content/chang
 import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
+import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 
 export function movesOf(moved: ReadonlyMap<string, string>): readonly FileChange[] {

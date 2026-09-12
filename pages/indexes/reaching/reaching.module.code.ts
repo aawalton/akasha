@@ -1,4 +1,3 @@
-import { addressIn, type PageAddress } from "akasha/pages/address/page-address.module.code.ts"
 import type { Rowed, Rowing } from "akasha/pages/entries/page-entries.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
@@ -8,6 +7,10 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
+import {
+  addressIn,
+  type PageAddress,
+} from "akasha/pages/modules/address/page-address.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   slugOf,

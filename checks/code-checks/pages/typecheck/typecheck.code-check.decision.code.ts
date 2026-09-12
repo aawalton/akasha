@@ -8,6 +8,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { lua50Config } from "akasha/code/lua-runtime-libraries/properties/lua50-config.file-property.ts"
 import { universalConfig } from "akasha/code/lua-runtime-libraries/properties/universal-config.file-property.ts"
 import { textIn, textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
+import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import { specifiersIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import {
@@ -20,7 +21,6 @@ import {
   readingOf,
   servedOf,
 } from "akasha/code/modules/typing/code-typing.module.code.ts"
-import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import { reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"

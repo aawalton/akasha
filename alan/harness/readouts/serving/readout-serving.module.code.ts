@@ -13,7 +13,7 @@ import {
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { relayedHeld } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import { readScale } from "akasha/alan/harness/readouts/scale-reading/readout-scale-reading.module.code.ts"
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 

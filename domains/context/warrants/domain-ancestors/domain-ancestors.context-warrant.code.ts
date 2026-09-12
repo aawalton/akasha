@@ -6,7 +6,6 @@ import {
   blobAt,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { addressedIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   idsNaming,
   type Listed,
@@ -14,6 +13,7 @@ import {
   listedById,
   listedFor,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { addressedIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

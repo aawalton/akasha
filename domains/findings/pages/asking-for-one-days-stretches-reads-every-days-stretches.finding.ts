@@ -18,7 +18,7 @@ export const askingForOneDaysStretchesReadsEveryDaysStretches = {
     "`where`. It then flattens every day's `sessions` list into rows and only afterwards " +
     "filters them, so `sessionsOfDay(dailyId)` narrows on `daily-tracking` over rows already " +
     "read.\n\n" +
-    "`asking` in `pages/service/page-asking/page-asking.module.code.ts` calls " +
+    "`asking` in `pages/service/modules/page-asking/page-asking.module.code.ts` calls " +
     "`gatheredFor(root, query.pageTypeSlug, carried, ...)` with every carried property of the " +
     "page type rather than the keys the query names, and `page-asking` states that the values " +
     "a page keeps beside the page are read from the file the page names. `sessions` is such a " +

@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { filedFor, type PageAddress } from "akasha/pages/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
@@ -17,6 +16,10 @@ import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import {
+  filedFor,
+  type PageAddress,
+} from "akasha/pages/modules/address/page-address.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

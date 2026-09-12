@@ -8,7 +8,7 @@ import {
   shaping,
   TESTS_RUN,
   type Test,
-} from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+} from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   foldedFor,
   type Naming,

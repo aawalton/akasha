@@ -1,13 +1,13 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
 import { upperUuid } from "akasha/pages/name-formats/pages/upper-uuid/upper-uuid.name-format.code.ts"
-import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import type { Test } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
   type Fetcher,
   readingFor,
   type Sleeper,
   writingFor,
-} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { personSlugForAccount } from "akasha/persons/enrolment/person-enrolment.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,

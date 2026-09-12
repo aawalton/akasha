@@ -2,8 +2,12 @@ import {
   numberOf,
   textOf,
 } from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
-import type { Asked, Query, Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import type {
+  Asked,
+  Query,
+  Row,
+} from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 const POINTS_SOURCE_PAGE_TYPE_SLUG = "persona-points-source"

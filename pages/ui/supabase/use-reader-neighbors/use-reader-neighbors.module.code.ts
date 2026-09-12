@@ -1,7 +1,7 @@
 "use client"
 
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getOrderedNeighbors } from "akasha/pages/access/ordered/ordered.module.code.ts"
+import { getOrderedNeighbors } from "akasha/pages/access/modules/ordered/ordered.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
 import { pageLinkOf } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"

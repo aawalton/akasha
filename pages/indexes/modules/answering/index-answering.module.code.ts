@@ -9,6 +9,7 @@ import {
   type UncommittedBy,
   uncommittedFiledAt,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { manifestsBeside } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -33,7 +34,6 @@ import type {
   Shape as Filed,
   Reading,
 } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { manifestsBeside } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import {
   type SidecarsBy,
   sidecarsOver,

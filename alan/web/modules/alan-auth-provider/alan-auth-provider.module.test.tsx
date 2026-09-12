@@ -89,7 +89,7 @@ mock.module(
     NativeAuthRefreshSync: nullComponent,
   })
 )
-mock.module("akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx", () => ({
+mock.module("akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx", () => ({
   OfflineTextSync: nullComponent,
 }))
 mock.module(

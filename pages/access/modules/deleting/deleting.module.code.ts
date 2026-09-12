@@ -7,7 +7,7 @@ import {
   asPageList,
   overServer,
   writesOverServer,
-} from "akasha/pages/access/over-server/over-server.module.code.ts"
+} from "akasha/pages/access/modules/over-server/over-server.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import {
   asPage,

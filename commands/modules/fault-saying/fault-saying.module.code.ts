@@ -1,5 +1,5 @@
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-import { oneLine } from "akasha/utils/text/one-line/one-line.module.code.ts"
+import { oneLine } from "akasha/utils/text/modules/one-line/one-line.module.code.ts"
 
 const FRAME_AT = /^\s+at (?:.+ )?\(?(\/[^\s()]+:\d+:\d+)\)?$/
 

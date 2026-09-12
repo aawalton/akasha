@@ -2,7 +2,7 @@ import type {
   RecurrenceDueResult,
   RecurrenceTask,
 } from "akasha/alan/harness/recurrence/shape/recurrence-shape.module.code.ts"
-import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/utils/digit-padding/modules/pad-two/pad-two.module.code.ts"
 import { RRule } from "rrule"
 
 function toEpoch(date: string, time: string | null): number {

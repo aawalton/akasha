@@ -29,7 +29,7 @@ import {
   type ResolvedOverlay,
   viewMatchesRow,
 } from "akasha/pages/ui-store/query/view-match/view-match.module.code.ts"
-import type { UseViewQueryOptions } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
+import type { UseViewQueryOptions } from "akasha/pages/ui-store/sql/modules/options/options.module.code.ts"
 import { instantIn } from "akasha/utils/narrow/modules/instant-in/instant-in.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
