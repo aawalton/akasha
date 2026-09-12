@@ -26,13 +26,13 @@ export const dallaDeployCleanup = {
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
       workingMemory:
-        "`workstation-deploying` and `eso-addon-deploying` each tick their own kind every minute through `ticked`, which needs only the kind named beside the page. A tick lists that kind's subjects, picks one, and starts `akasha deploy <slug>` in a transient scope named for that slug, then waits that deploy out. Five kinds have no loop: 51 cluster services, 13 inference services, 9 container recipes, 6 web apps, and the 3 ios apps, which a deploy hands to Apple.",
+        "`workstation-deploying`, `eso-addon-deploying` and `cluster-deploying` each tick their own kind every minute through `ticked`, which needs only the kind named beside the page. A tick picks one subject and starts `akasha deploy --measured <slug>` in a transient scope named for that slug, bounded at an hour by systemd, then waits that deploy out. Four kinds have no loop: 13 inference services, 9 container recipes, 6 web apps, and the 3 ios apps, which a deploy hands to Apple.",
     },
     {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
       workingMemory:
-        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. The workstation kind is the union over every workstation service and the CLI, 1174 files, so the tests beside most of the repository are in its run and a red test anywhere refuses it. All 48 ESO addons are up to date. The workstation loop has put nothing up since 07:04 on 12 September.",
+        "Built from is the closure `deploy-file-closure` follows out of the files beside a page, and changed is that closure meeting what `git diff` names between the `deployedCommit` kept beside the page and HEAD. A deploy is judged in an overlay carrying every file in a folder it is built from, read out of the commit being put up, so no run mixes two commits. All 48 ESO addons are up to date, the workstation kind was put up at `eec1a045`, and the 51 cluster services are worked through one a tick.",
     },
   ],
   constraints: [
