@@ -8,7 +8,6 @@ export const temperWatcherLogList = {
   code: "ts",
   taking: [
     { said: "--json", takes: "give one object holding every line rather than one object per line" },
-    { said: "--log-dir <path>", takes: "the directory the watcher's logs are read from" },
   ],
   invariants: [
     {
@@ -29,5 +28,9 @@ export const temperWatcherLogList = {
     },
   ],
   name: "log-list",
-  arguments: [{ argument: "argument/limit" }, { argument: "argument/since" }],
+  arguments: [
+    { argument: "argument/limit" },
+    { argument: "argument/since" },
+    { argument: "argument/log-dir" },
+  ],
 } as const satisfies Command
