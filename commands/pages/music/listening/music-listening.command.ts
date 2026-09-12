@@ -7,12 +7,7 @@ export const musicListening = {
   definition: "the command reading what Alan listens to on Spotify",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--window <short|medium|long>",
-      takes: "the window the top lists are counted over, medium where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -45,5 +40,9 @@ export const musicListening = {
     },
   ],
   name: "listening",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/limit" },
+    { argument: "argument/window" },
+  ],
 } as const satisfies Command
