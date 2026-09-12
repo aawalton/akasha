@@ -51,6 +51,18 @@ export const seatSupervisorRestart = {
       statement: "The seats reached are the seats the index files, whatever folder they sit in.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each seat is named as soon as that seat has been asked and signalled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A restart that threw part way names those seats in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The restarting this runs is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here restarts a client.",
     },

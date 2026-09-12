@@ -1,4 +1,5 @@
 import {
+  answering,
   DATA,
   INPUT,
   told,
@@ -21,11 +22,13 @@ const ASKED = "asked"
 
 const SIGNAL = "SIGTERM"
 
-type Seat = {
+export type Seat = {
   readonly page: string
   readonly name: string
   readonly holder: Holder | null
 }
+
+export type Restarting = (root: string, seat: Seat, done: string[]) => undefined
 
 function seatsIn(root: string): readonly Seat[] {
   const found: Seat[] = []
@@ -35,25 +38,45 @@ function seatsIn(root: string): readonly Seat[] {
   return [...found].sort((one, other) => (one.name < other.name ? -1 : 1))
 }
 
-function restarted(root: string, standing: Seat): string {
-  const holder = standing.holder
+export function restarted(root: string, seat: Seat, done: string[]): undefined {
+  const holder = seat.holder
   if (holder === null) {
-    return `${standing.name} states no supervisor that can be read, so nothing was asked of it`
+    done.push(`${seat.name} states no supervisor that can be read, so nothing was asked of it`)
+    return undefined
   }
   if (!alive(holder)) {
-    return `${standing.name} states supervisor ${holder.pid}, which is no longer the process it names`
+    done.push(
+      `${seat.name} states supervisor ${holder.pid}, which is no longer the process it names`
+    )
+    return undefined
   }
-  mergeUncommitted(root, standing.page, { [ASK]: ASKED })
+  mergeUncommitted(root, seat.page, { [ASK]: ASKED })
   try {
     process.kill(holder.pid, SIGNAL)
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
-    return `${standing.name} holds the ask and its supervisor ${holder.pid} took no signal: ${why}`
+    done.push(`${seat.name} holds the ask and its supervisor ${holder.pid} took no signal: ${why}`)
+    return undefined
   }
-  return `${standing.name} asked supervisor ${holder.pid} and signalled it`
+  done.push(`${seat.name} asked supervisor ${holder.pid} and signalled it`)
+  return undefined
 }
 
-export function seatSupervisorRestart(argv: readonly string[], given: Given): Answer {
+export function restartedEach(
+  root: string,
+  seats: readonly Seat[],
+  restarting: Restarting,
+  done: string[]
+): undefined {
+  for (const seat of seats) restarting(root, seat, done)
+  return undefined
+}
+
+export async function seatSupervisorRestart(
+  argv: readonly string[],
+  given: Given,
+  restarting: Restarting = restarted
+): Promise<Answer> {
   if (argv.length !== 1 || argv[0] !== ALL) {
     return refused(`\`${given.calledAs}\` takes \`${ALL}\` and nothing else`, INPUT)
   }
@@ -65,5 +88,8 @@ export function seatSupervisorRestart(argv: readonly string[], given: Given): An
       DATA
     )
   }
-  return told(seats.map((one) => restarted(given.root, one)))
+  return await answering((done) => {
+    restartedEach(given.root, seats, restarting, done)
+    return told(done)
+  })
 }
