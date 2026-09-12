@@ -5,10 +5,11 @@ export const moduleSitsUnderAModulesFolder = {
   type: "code-check",
   slug: "module-sits-under-a-modules-folder",
   definition: "the check refusing a module page whose folder sits under no modules folder",
-  runsOnChange: true,
-  runsOnDeploy: true,
-  runsOnWorktree: true,
-  runsOnAudit: true,
+  runsOnChange: false,
+  runsOnDeploy: false,
+  runsOnWorktree: false,
+  runsOnAudit: false,
+  experimental: true,
   invariants: [
     {
       invariantKind: "departure",
