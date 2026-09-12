@@ -5,23 +5,25 @@ import type {
   SearchResponse,
 } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
-import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
+import {
+  INPUT,
+  OK,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { musicSearch as page } from "akasha/commands/pages/music/search/music-search.command.ts"
 
 const DEFAULT_LIMIT = 5
 
 const MAX_FETCH = 10
 
-const ARTIST = "--artist"
-
-const LIMIT = "--limit"
-
-const JSON_SAID = "--json"
-
-const REST = "--"
-
-const VALUED: readonly string[] = [ARTIST, LIMIT]
+const NAMED = [artistArgument, json, limitArgument, queryArgument]
 
 export type SearchEnvelope = {
   readonly query: string
@@ -31,51 +33,8 @@ export type SearchEnvelope = {
 
 export type Finding = (params: SearchParams) => Promise<SearchResponse>
 
-type Told = {
-  readonly query: string | undefined
-  readonly artist: string | undefined
-  readonly limitSaid: string | undefined
-  readonly json: boolean
-}
-
-export function toldIn(argv: readonly string[], calledAs: string): Told | string {
-  const named: Record<string, string> = {}
-  const loose: string[] = []
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at] as string
-    if (one === REST) {
-      loose.push(...argv.slice(at + 1))
-      break
-    }
-    const eq = one.startsWith(REST) ? one.indexOf("=") : -1
-    const said = eq > 0 ? one.slice(0, eq) : one
-    const inline = eq > 0 ? one.slice(eq + 1) : undefined
-    if (VALUED.includes(said)) {
-      const value = inline ?? argv[at + 1]
-      if (value === undefined) return `\`${said}\` was said with nothing after it`
-      if (inline === undefined) at += 1
-      if (named[said] !== undefined) return `\`${said}\` was said more than once`
-      named[said] = value
-      continue
-    }
-    if (said === JSON_SAID) {
-      if (inline !== undefined) return `\`${JSON_SAID}\` takes nothing after it`
-      json = true
-      continue
-    }
-    if (one.startsWith(REST)) return `\`${said}\` is nothing \`${calledAs}\` takes`
-    loose.push(one)
-  }
-  return { query: loose[0], artist: named[ARTIST], limitSaid: named[LIMIT], json }
-}
-
-function countIn(said: string): number | string {
-  const count = Number(said)
-  if (!Number.isInteger(count) || count < 0) {
-    return `${LIMIT} must be a non-negative integer, got: ${said}`
-  }
-  return count
+export function wrongIn(said: string): string | null {
+  return said === "" ? "supply a track query to search for" : null
 }
 
 export function linesOf(envelope: SearchEnvelope): readonly string[] {
@@ -97,21 +56,20 @@ export async function searchWith(
   argv: readonly string[],
   calledAs: string
 ): Promise<Answer> {
-  const read = toldIn(argv, calledAs)
-  if (typeof read === "string") return refused(read, INPUT)
-  const query = read.query
-  if (query === undefined || query === "") {
-    return refused("supply a track query to search for", INPUT)
-  }
-  const limit = read.limitSaid === undefined ? DEFAULT_LIMIT : countIn(read.limitSaid)
-  if (typeof limit === "string") return refused(limit, INPUT)
-  const artist = read.artist
+  const read = takenFor(argv, calledAs, page, NAMED)
+  if ("refused" in read) return refusedBy(read.refused, INPUT)
+  const taken = read.taken
+  const wrong = wrongIn(taken.query)
+  if (wrong !== null) return refused(wrong, INPUT)
+  const query = taken.query
+  const limit = taken.limit ?? DEFAULT_LIMIT
+  const artist = taken.artist
   const wide = artist !== undefined && artist !== ""
   const fetchLimit = wide ? MAX_FETCH : Math.min(limit, MAX_FETCH)
   const result = await find({ q: query, types: ["track"], limit: fetchLimit })
   const candidates = selectCandidates(result.tracks?.items ?? [], artist, limit)
   const envelope: SearchEnvelope = { query, artist: artist ?? null, candidates }
-  const report = read.json ? [JSON.stringify(envelope)] : linesOf(envelope)
+  const report = taken.json ? [JSON.stringify(envelope)] : linesOf(envelope)
   return { report, refusals: [], code: OK }
 }
 

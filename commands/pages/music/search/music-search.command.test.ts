@@ -5,7 +5,7 @@ import type {
 } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { searchResponseSchema } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import type { Finding } from "akasha/commands/pages/music/search/music-search.command.code.ts"
-import { searchWith, toldIn } from "akasha/commands/pages/music/search/music-search.command.code.ts"
+import { searchWith } from "akasha/commands/pages/music/search/music-search.command.code.ts"
 
 const CALLED = "akasha music search"
 
@@ -54,13 +54,25 @@ function findingOf(tracks: readonly Track[], asked: SearchParams[]): Finding {
 test("a call naming no query is refused", async () => {
   const said = await searchWith(findingOf([], []), ["--json"], CALLED)
   expect(said.code).toBe(1)
+  expect(said.refusals).toEqual([`\`${CALLED}\` takes \`<query>\`, and nothing said it`])
+})
+
+test("a query said as nothing at all is refused", async () => {
+  const said = await searchWith(findingOf([], []), [""], CALLED)
+  expect(said.code).toBe(1)
   expect(said.refusals).toEqual(["supply a track query to search for"])
 })
 
 test("a limit that is no whole count is refused", async () => {
   const said = await searchWith(findingOf([], []), ["Bulletproof", "--limit", "half"], CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--limit must be a non-negative integer, got: half")
+  expect(said.refusals[0]).toBe("`--limit half` is no whole number of nought or more")
+})
+
+test("a flag joined to its value by an equals sign is read", async () => {
+  const asked: SearchParams[] = []
+  await searchWith(findingOf([ONE], asked), ["Bulletproof", "--limit=3"], CALLED)
+  expect(asked[0]?.limit).toBe(NARROW)
 })
 
 test("anything the command does not take refuses the call", async () => {
@@ -118,28 +130,4 @@ test("no artist named fetches no more than the limit asked for", async () => {
   const asked: SearchParams[] = []
   await searchWith(findingOf([ONE], asked), ["Bulletproof", "--limit", "3"], CALLED)
   expect(asked[0]?.limit).toBe(NARROW)
-})
-
-test("a flag joined to its value by an equals sign is read", () => {
-  expect(toldIn(["Bulletproof", "--limit=3"], CALLED)).toEqual({
-    query: "Bulletproof",
-    artist: undefined,
-    limitSaid: "3",
-    json: false,
-  })
-})
-
-test("a flag said with nothing after it is refused", () => {
-  expect(toldIn(["Bulletproof", "--artist"], CALLED)).toBe(
-    "`--artist` was said with nothing after it"
-  )
-})
-
-test("what follows a bare -- is a positional", () => {
-  expect(toldIn(["--", "--artist"], CALLED)).toEqual({
-    query: "--artist",
-    artist: undefined,
-    limitSaid: undefined,
-    json: false,
-  })
 })
