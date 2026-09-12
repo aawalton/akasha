@@ -123,8 +123,8 @@ test("a word carrying no dash is refused too, because this takes no word at all"
 test("every word it was given is named rather than the first of them alone", () => {
   const said = seatTranscriptList(["--json", "--counts"], givenIn())
 
-  expect(said.refusals[0]).toContain("`--json`")
-  expect(said.refusals[0]).toContain("`--counts`")
+  expect(said.refusals.join("\n")).toContain("`--json`")
+  expect(said.refusals.join("\n")).toContain("`--counts`")
 })
 
 test("a call naming nothing answers the seats the fleet holds now", () => {

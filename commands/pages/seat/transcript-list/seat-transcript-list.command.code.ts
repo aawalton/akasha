@@ -1,3 +1,4 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
@@ -5,9 +6,9 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { seatTranscriptList as page } from "akasha/commands/pages/seat/transcript-list/seat-transcript-list.command.ts"
 import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatRecordOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const TRANSCRIPT_KEY = "transcript-path"
 
@@ -42,12 +43,9 @@ export function saidOf(seats: readonly SeatTranscript[]): string {
   return JSON.stringify({ seats })
 }
 
-export function seatTranscriptList(argv: readonly string[], _given: Given): Answer {
-  if (argv.length > 0) {
-    const said = namesDrawn(argv)
-    const are = argv.length === 1 ? "is no word this takes" : "are no words this takes"
-    return refusedBy([`${said} ${are} — this command takes none`])
-  }
+export function seatTranscriptList(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return told([saidOf(transcriptsNow())])
   } catch (thrown) {
