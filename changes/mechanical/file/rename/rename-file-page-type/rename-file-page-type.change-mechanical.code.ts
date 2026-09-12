@@ -43,9 +43,9 @@ type Carried =
 function readIn(world: World, was: string): Read {
   const found: string[] = []
   try {
-    for (const path of world.index.valuesByPath(was).keys()) {
-      const said = partedIn(path)
-      if (said === null) return { refused: `\`${path}\` reads as no page file` }
+    for (const one of world.index.everyOfType(was)) {
+      const said = partedIn(one.path)
+      if (said === null) return { refused: `\`${one.path}\` reads as no page file` }
       found.push(said.slug)
     }
     return { slugs: found }
