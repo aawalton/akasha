@@ -17,7 +17,7 @@ import { listingFiled } from "akasha/pages/indexes/reading/index-reading.module.
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-export const PACKAGE = "workspace-package"
+const PACKAGE = "workspace-package"
 
 export const FOLDER = "akasha/one-system"
 
@@ -25,7 +25,7 @@ export const AT = `${FOLDER}/one/one.module.code.ts`
 
 export const MANIFEST_AT = `${FOLDER}/package.json`
 
-export const PAGE_AT = `${FOLDER}/one-system.workspace-package.ts`
+const PAGE_AT = `${FOLDER}/one-system.workspace-package.ts`
 
 export const STYLE_AT = `${FOLDER}/one/one.stylesheet.styles.css`
 

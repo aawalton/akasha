@@ -72,7 +72,7 @@ function namingFor(shadow: Shadow): Naming {
   return made
 }
 
-export const PAGE_FILES: Selector<Body> = {
+const PAGE_FILES: Selector<Body> = {
   named: "the files a page holds",
   isInput: (path, shadow) => judgedFor(shadow)(path),
   from: (change, shadow) => FILES.from(change, shadow).filter((one) => judgedFor(shadow)(one.path)),

@@ -7,7 +7,7 @@ export const DOMAIN = "domain"
 
 export const THE_WHOLE = "akasha"
 
-export const PARTS = "parts"
+const PARTS = "parts"
 
 const PART_SLUGS = "part-slugs"
 

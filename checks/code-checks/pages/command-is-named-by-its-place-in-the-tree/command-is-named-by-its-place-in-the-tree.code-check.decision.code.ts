@@ -4,9 +4,9 @@ import { filedById, namesIn } from "akasha/pages/indexes/reaching/reaching.modul
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-export const COMMAND = "command"
+const COMMAND = "command"
 
-export const NAMESPACE = "namespace"
+const NAMESPACE = "namespace"
 
 const MODULE = "module"
 
@@ -14,7 +14,7 @@ export const COMMANDS = "commands"
 
 export const PAGES_AT = "commands/pages"
 
-export const MODULES_AT = "commands/modules"
+const MODULES_AT = "commands/modules"
 
 const PAGE_TYPE = "page-type"
 

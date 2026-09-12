@@ -55,7 +55,7 @@ function takenAsAWord(one: ts.ObjectLiteralExpression): boolean {
   return false
 }
 
-export function wordsIn(held: ts.ArrayLiteralExpression): number {
+function wordsIn(held: ts.ArrayLiteralExpression): number {
   let count = 0
   for (const one of held.elements) {
     if (ts.isObjectLiteralExpression(one) && takenAsAWord(one)) count += 1

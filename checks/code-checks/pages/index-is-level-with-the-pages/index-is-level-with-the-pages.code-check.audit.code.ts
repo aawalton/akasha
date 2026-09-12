@@ -41,12 +41,11 @@ export type Reading = {
   readonly dies?: Dies
 }
 
-export const reconciling: Reconciling = (root) => refreshedWhole(root, root, false).drift
+const reconciling: Reconciling = (root) => refreshedWhole(root, root, false).drift
 
-export const committing: Committing = (root) =>
-  said(["git", "-C", root, "rev-parse", "HEAD"]).trim()
+const committing: Committing = (root) => said(["git", "-C", root, "rev-parse", "HEAD"]).trim()
 
-export const moving: Moving = (root, from, to) =>
+const moving: Moving = (root, from, to) =>
   said(["git", "-C", root, "diff", "--name-only", from, to])
     .split(PARTED_BY)
     .filter((one) => one !== "")
@@ -57,13 +56,13 @@ export function pathOf(line: string): string {
   return cut === NOWHERE ? held : held.slice(cut + RENAMED.length)
 }
 
-export const writing: Writing = (root) =>
+const writing: Writing = (root) =>
   said(["git", "-C", root, "status", "--porcelain", "--untracked-files=all"])
     .split(PARTED_BY)
     .filter((one) => one !== "")
     .map((one) => pathOf(one))
 
-export function dyingUnder(root: string): Dies {
+function dyingUnder(root: string): Dies {
   const gone = new Set<string>()
   for (const one of valuesOfType(root, PAGE_TYPE)) {
     const held = one.value as Record<string, unknown>

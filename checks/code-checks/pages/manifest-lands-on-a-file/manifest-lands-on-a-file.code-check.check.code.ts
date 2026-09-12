@@ -12,7 +12,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
-export function askingIn(change: Change): Asking {
+function askingIn(change: Change): Asking {
   return {
     textAt: (path) => textIn(change, path),
     there: (path) => change.after(path) !== null,

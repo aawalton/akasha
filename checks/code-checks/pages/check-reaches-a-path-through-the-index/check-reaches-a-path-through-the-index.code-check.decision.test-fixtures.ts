@@ -46,7 +46,7 @@ export const ASKED: Asked = {
   toolResolvesPaths: (path) => path === RESOLVED,
 }
 
-export const SHELL = "akasha/one.thing.shell.sh"
+const SHELL = "akasha/one.thing.shell.sh"
 
 export function ran(text: string): readonly string[] {
   return reasonsIn(reaching, naming, SHELL, text)
@@ -58,7 +58,7 @@ export const ONE = `a/one/${CONTAINERFILE}`
 
 export const TWO = `a/two/${CONTAINERFILE}`
 
-export const TWICE = [ONE, TWO]
+const TWICE = [ONE, TWO]
 
 export const nearer = askingOver(TWICE)
 

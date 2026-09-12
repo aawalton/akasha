@@ -90,7 +90,7 @@ function drawn(node: ts.Expression, through: number): boolean {
   return false
 }
 
-export function drawing(node: ts.Node): boolean {
+function drawing(node: ts.Node): boolean {
   const working = workingIn(node)
   if (working === null) return false
   if (!ts.isBlock(working.body)) return drawn(working.body as ts.Expression, THROUGH)
@@ -111,7 +111,7 @@ function nulled(node: ts.Expression): boolean {
   return heldIn(node).kind === ts.SyntaxKind.NullKeyword
 }
 
-export function answersNull(node: ts.Node): boolean {
+function answersNull(node: ts.Node): boolean {
   const working = workingIn(node)
   if (working === null) return false
   if (!ts.isBlock(working.body)) return nulled(working.body as ts.Expression)
@@ -208,14 +208,14 @@ function openedAsATag(scope: ts.Node, text: string): boolean {
   return found
 }
 
-export function pageValueIn(at: string): string | null {
+function pageValueIn(at: string): string | null {
   const said = partedIn(at)
   if (said === null) return null
   if (said.sections.length === 0) return exportedAs(said.slug)
   return exportedAs([said.slug, said.pageType, ...said.sections].join("-"))
 }
 
-export function constantsIn(source: ts.SourceFile, at: string): readonly ts.Identifier[] {
+function constantsIn(source: ts.SourceFile, at: string): readonly ts.Identifier[] {
   const itself = pageValueIn(at)
   const found: ts.Identifier[] = []
   for (const statement of source.statements) {
@@ -231,7 +231,7 @@ export function constantsIn(source: ts.SourceFile, at: string): readonly ts.Iden
   return found
 }
 
-export function declaring(at: string): boolean {
+function declaring(at: string): boolean {
   return at.endsWith(DECLARED)
 }
 
@@ -323,7 +323,7 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   return found
 }
 
-export function fixedNamesIn(index: Answering): ReadonlyMap<string, string> {
+function fixedNamesIn(index: Answering): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   const held = index.carryingOf(FIXED_BY)
   if ("refused" in held) return found

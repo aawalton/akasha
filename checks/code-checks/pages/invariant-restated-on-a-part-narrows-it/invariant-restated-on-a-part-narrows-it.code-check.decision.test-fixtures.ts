@@ -10,9 +10,9 @@ import { idFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const ABOVE_ID = "01a0959b-4249-7000-a2fe-000000000001"
+const ABOVE_ID = "01a0959b-4249-7000-a2fe-000000000001"
 
-export const BELOW_ID = "01a0959b-4249-7000-a2fe-000000000002"
+const BELOW_ID = "01a0959b-4249-7000-a2fe-000000000002"
 
 export const ABOVE_AT = pathFor("domain", "above")
 
@@ -24,7 +24,7 @@ export const OTHER = "A folder git owns is walked past."
 
 export const scratch = scratchWorld()
 
-export function statedAs(said: readonly string[]): string {
+function statedAs(said: readonly string[]): string {
   const each = said.map(
     (one) => `{ invariantKind: "departure", statement: ${JSON.stringify(one)} }`
   )

@@ -20,7 +20,7 @@ import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-export const ROOT = "/nowhere"
+const ROOT = "/nowhere"
 
 export const MANIFEST = "package.json"
 
@@ -147,7 +147,7 @@ export const PACKAGED = "packaged/package.json"
 
 export const PACKAGED_CODE = "packaged/reached/reached.module.code.ts"
 
-export const MANIFEST_BODY = `${JSON.stringify({
+const MANIFEST_BODY = `${JSON.stringify({
   name: "ops",
   main: "./extension-entry/extension-entry.module.code.ts",
 })}\n`

@@ -216,7 +216,7 @@ function writtenIn(source: ts.SourceFile): ReadonlyMap<string, readonly ts.Expre
   return found
 }
 
-export function heldIn(
+function heldIn(
   source: ts.SourceFile,
   asking: Asking,
   specified: Specified

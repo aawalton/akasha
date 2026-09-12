@@ -82,7 +82,7 @@ function elsewhereSaid(named: string, at: readonly string[], folder: string): st
   )
 }
 
-export function reasonsFor(one: Naming, roster: Roster): readonly string[] {
+function reasonsFor(one: Naming, roster: Roster): readonly string[] {
   const at = roster.get(one.named)
   if (at === undefined) return [staleSaid(one.named)]
   if (one.folder === null || at.includes(one.folder)) return []

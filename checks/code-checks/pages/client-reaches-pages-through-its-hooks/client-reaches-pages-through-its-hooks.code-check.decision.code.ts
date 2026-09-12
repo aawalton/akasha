@@ -48,7 +48,7 @@ type Taken = {
   readonly spaces: ReadonlySet<string>
 }
 
-export function sideIn(asking: Asking, slug: string): Side | null {
+function sideIn(asking: Asking, slug: string): Side | null {
   const folder = asking.folderOf(slug)
   if (folder === null) return null
   const manifest = asking.manifestNamed()

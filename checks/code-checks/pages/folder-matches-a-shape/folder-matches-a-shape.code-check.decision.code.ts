@@ -96,7 +96,7 @@ export function pageNameOf(path: string): string {
   return name.endsWith(TS_ENDING) ? name.slice(0, -TS_ENDING.length) : name
 }
 
-export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<string, string>): Held {
+function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<string, string>): Held {
   if (held.kind !== "stray") return held
   const propertySlug = filing.get(basename(held.path))
   if (propertySlug === undefined) return held
@@ -114,7 +114,7 @@ export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<stri
   }
 }
 
-export function pageTypesAt(grouped: Grouped, folder: string): readonly string[] {
+function pageTypesAt(grouped: Grouped, folder: string): readonly string[] {
   const found: string[] = []
   for (const one of grouped.at(folder)) {
     const said = partedIn(one)
@@ -124,11 +124,7 @@ export function pageTypesAt(grouped: Grouped, folder: string): readonly string[]
   return found
 }
 
-export function declaredBesideIn(
-  index: Answering,
-  grouped: Grouped,
-  folder: string
-): readonly string[] {
+function declaredBesideIn(index: Answering, grouped: Grouped, folder: string): readonly string[] {
   const found: string[] = []
   for (const one of grouped.at(`${folder}/${PROPERTIES}`)) {
     const said = partedIn(one)
@@ -149,10 +145,7 @@ export function declaredBesideIn(
   return found
 }
 
-export function declaringOver(
-  index: Answering,
-  grouped: Grouped
-): (folder: string) => Declaring | null {
+function declaringOver(index: Answering, grouped: Grouped): (folder: string) => Declaring | null {
   const held = new Map<string, Declaring | null>()
   return (folder) => {
     const found = held.get(folder)
@@ -190,7 +183,7 @@ function roots(page: Held, said: Held): boolean {
   return page.pageTypeSlug === DOMAIN && said.pageTypeSlug === WORKSPACE
 }
 
-export function pairedIn(pages: readonly Held[]): readonly Held[] {
+function pairedIn(pages: readonly Held[]): readonly Held[] {
   const [one, two] = pages
   if (one === undefined || pages.length > 2) return []
   if (two === undefined) return [one]
@@ -273,7 +266,7 @@ export function partOfOver(index: Paged): (page: Held) => readonly string[] {
 
 const ANY = (): boolean => true
 
-export function namingParts(
+function namingParts(
   shadow: Shadow,
   grouped: Grouped,
   parts: (page: Held) => readonly string[]
@@ -290,7 +283,7 @@ export function namingParts(
   }
 }
 
-export function claimingOver(
+function claimingOver(
   grouped: Grouped,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>,

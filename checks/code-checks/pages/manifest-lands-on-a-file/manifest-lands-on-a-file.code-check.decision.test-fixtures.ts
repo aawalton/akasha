@@ -9,13 +9,13 @@ import {
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const PACKAGE = "workspace-package"
+const PACKAGE = "workspace-package"
 
 export const FOLDER = "akasha/held"
 
 export const MANIFEST_AT = `${FOLDER}/package.json`
 
-export const PAGE_AT = `${FOLDER}/held.workspace-package.ts`
+const PAGE_AT = `${FOLDER}/held.workspace-package.ts`
 
 export const AT = `${FOLDER}/one/one.module.code.ts`
 

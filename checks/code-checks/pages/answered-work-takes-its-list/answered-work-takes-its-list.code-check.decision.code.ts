@@ -8,7 +8,7 @@ const NONE = 0
 
 type Work = ts.ArrowFunction | ts.FunctionExpression
 
-export function namedIn(source: ts.SourceFile): string | null {
+function namedIn(source: ts.SourceFile): string | null {
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const clause = one.importClause

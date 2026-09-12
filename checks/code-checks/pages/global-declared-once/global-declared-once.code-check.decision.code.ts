@@ -120,7 +120,7 @@ export function statedIn(path: string, text: string): readonly Stated[] {
   return found
 }
 
-export function reasonFor(one: Stated, held: Stated): string {
+function reasonFor(one: Stated, held: Stated): string {
   const harm = one.kind === "member" ? MEMBER_HARM : NAME_HARM
   return `\`${one.name}\` is declared at ${one.path}:${one.line} and at ${held.path}:${held.line}. ${ONE_HOME} ${harm}`
 }

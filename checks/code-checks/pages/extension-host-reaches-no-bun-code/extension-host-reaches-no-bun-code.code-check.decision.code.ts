@@ -32,7 +32,7 @@ export type Indexing = {
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
 }
 
-export function linkedIn(index: Indexing): string {
+function linkedIn(index: Indexing): string {
   const carried = index.carryingOf(LINKED)
   if ("refused" in carried) throw new Error(`${carried.refused}, ${UNKNOWN}`)
   const key = exportedAs(LINKED)
@@ -103,7 +103,7 @@ export type Reached = {
 
 const NOTHING: Reached = { specifiers: [], global: false }
 
-export function reachedIn(at: string, text: string): Reached {
+function reachedIn(at: string, text: string): Reached {
   const asked = text.includes(GLOBAL)
   const dynamic = text.includes(DYNAMIC)
   if (!asked && !dynamic && !text.includes(STATED)) return NOTHING
@@ -131,7 +131,7 @@ export function reachedIn(at: string, text: string): Reached {
   return { specifiers, global }
 }
 
-export function namingOver(change: Change, paths: readonly string[]): Naming {
+function namingOver(change: Change, paths: readonly string[]): Naming {
   const found: ReadonlyMap<string, string>[] = []
   for (const path of paths) {
     if (path !== NAMED && !path.endsWith(`/${NAMED}`)) continue
@@ -144,7 +144,7 @@ export function namingOver(change: Change, paths: readonly string[]): Naming {
   return reachingOver(found)
 }
 
-export function entryIn(change: Change, manifest: string): string | null {
+function entryIn(change: Change, manifest: string): string | null {
   const text = textIn(change, manifest)
   if (text === null) return null
   let read: unknown

@@ -35,7 +35,7 @@ export function keyOf(one: Stated): string {
   return keyFor(one)
 }
 
-export function statedByKey(stated: readonly Stated[]): ReadonlyMap<string, readonly Stated[]> {
+function statedByKey(stated: readonly Stated[]): ReadonlyMap<string, readonly Stated[]> {
   return Map.groupBy(stated, keyOf)
 }
 

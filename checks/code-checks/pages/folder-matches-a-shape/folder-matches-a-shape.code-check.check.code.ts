@@ -35,7 +35,7 @@ export function edgesOf(
   return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
 }
 
-export function foldersAbove(change: Change): ReadonlySet<string> {
+function foldersAbove(change: Change): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of change.changed) {
     for (const at of ancestorsOf(one)) found.add(at)

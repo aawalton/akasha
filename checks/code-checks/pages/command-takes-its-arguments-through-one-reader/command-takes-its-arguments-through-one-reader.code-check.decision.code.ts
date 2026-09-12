@@ -116,7 +116,7 @@ export function moduleOf(path: string): string | null {
   return MODULE_NAMED.exec(held)?.[STEM] ?? null
 }
 
-export function judgedIn(path: string): boolean {
+function judgedIn(path: string): boolean {
   return slugOf(path) !== null || moduleOf(path) !== null
 }
 
@@ -129,7 +129,7 @@ function defaulted(one: ts.FunctionDeclaration): boolean {
   return one.modifiers?.some((each) => each.kind === ts.SyntaxKind.DefaultKeyword) === true
 }
 
-export function declaredIn(source: ts.SourceFile): Held {
+function declaredIn(source: ts.SourceFile): Held {
   const every = new Map<string, ts.FunctionLikeDeclaration>()
   for (const one of source.statements) {
     if (ts.isFunctionDeclaration(one)) {

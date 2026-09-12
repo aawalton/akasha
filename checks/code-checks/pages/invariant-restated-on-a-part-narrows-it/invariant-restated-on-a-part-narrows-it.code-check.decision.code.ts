@@ -55,7 +55,7 @@ function aboveOf(shadow: Shadow, value: Value): readonly string[] {
   return found
 }
 
-export function pairsFor(shadow: Shadow, path: string, value: Value): readonly string[][] {
+function pairsFor(shadow: Shadow, path: string, value: Value): readonly string[][] {
   const found: string[][] = []
   for (const one of belowOf(shadow, value)) if (one !== path) found.push([path, one])
   for (const one of aboveOf(shadow, value)) if (one !== path) found.push([one, path])

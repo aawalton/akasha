@@ -118,7 +118,7 @@ export function reachIn(at: string, text: string): Reach {
   return { packages, protocols }
 }
 
-export function styleSpecifiersIn(text: string): readonly string[] {
+function styleSpecifiersIn(text: string): readonly string[] {
   const found: string[] = []
   for (const one of text.matchAll(IMPORTED)) {
     const said = one[1]

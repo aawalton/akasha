@@ -166,7 +166,7 @@ function envKeyed(node: ts.Node): boolean {
   return ts.isIdentifier(held.expression) && held.expression.text === PROCESS
 }
 
-export function keyedIn(source: ts.SourceFile): readonly ts.Node[] {
+function keyedIn(source: ts.SourceFile): readonly ts.Node[] {
   const found: ts.Node[] = []
   const visit = (node: ts.Node): undefined => {
     if (envKeyed(node)) found.push(node)
@@ -184,7 +184,7 @@ function envNextNamed(node: ts.Node): node is ts.PropertyAccessExpression {
   return ts.isIdentifier(held.expression) && held.expression.text === PROCESS
 }
 
-export function servedNodesIn(source: ts.SourceFile): ReadonlySet<ts.Node> {
+function servedNodesIn(source: ts.SourceFile): ReadonlySet<ts.Node> {
   const found = new Set<ts.Node>()
   for (const statement of source.statements) {
     if (!ts.canHaveModifiers(statement)) continue
@@ -196,7 +196,7 @@ export function servedNodesIn(source: ts.SourceFile): ReadonlySet<ts.Node> {
   return found
 }
 
-export function nextNamedIn(
+function nextNamedIn(
   source: ts.SourceFile,
   routed: boolean
 ): readonly ts.PropertyAccessExpression[] {
@@ -242,7 +242,7 @@ function namedSaid(line: number, name: string): string {
   return `line ${line} reads \`process.env.${name}\`, a name marked for Next — read \`import.meta.env.${vite}\` instead`
 }
 
-export function reasonsIn(
+function reasonsIn(
   path: string,
   text: string,
   routed: boolean,
