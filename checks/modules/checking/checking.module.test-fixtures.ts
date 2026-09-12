@@ -6,6 +6,7 @@ import {
   checksIn,
   type Gathered,
   judgingBy,
+  type Phase,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Cost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -142,6 +143,20 @@ export function rootHolding(named: readonly Named[], holding: readonly string[])
   const root = rootWith(named)
   for (const path of holding) writeFileSync(join(root, path), "held")
   return root
+}
+
+export function everyIn(named: readonly Named[]): readonly Gathered[] {
+  return checksIn(rootWith(named))
+}
+
+export async function judgedIn(
+  named: readonly Named[],
+  holding: readonly string[],
+  changed: readonly string[],
+  phase: Phase = "change"
+): Promise<readonly Judged[]> {
+  const root = rootHolding(named, holding)
+  return await judgingBy(checksIn(root), phase).over(overIn(root, changed))
 }
 
 export const REFUSES_ALL =
