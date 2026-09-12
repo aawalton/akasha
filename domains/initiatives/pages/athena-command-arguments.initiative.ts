@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "195 of 235 reach the generated keyed type at `b9d19e753bc`, 185 calling `takenFor` and 10 through `inventory-rule-calling`. 23 of 29 namespaces are whole; 27 of the 40 left are temper. No command names `Taken`, and only `change show` and `change apply` reach a key by element access, neither on the command line. Held on purpose: `alan tracking` on two frozen modules, `change apply` and `change draft` on the runs list their refusal names, `seat start` on the handshake Alan's `sr` reads.\n",
+        "199 of 235 call `takenFor` at `06eee94c208`, and 10 more reach the generated keyed type through `inventory-rule-calling`; most of the rest are temper. Held: `alan tracking` on two frozen modules; `change apply` and `change draft` because `takingIn` swallows `--`, so `akasha change apply --` would land every kept edit where today it refuses. Alan's: `seat start` can move alone, and asks whether its seat-name refusal may widen from the first word to any lone stray word.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
