@@ -43,7 +43,7 @@ export const musicPlay = {
     { argument: "argument/json" },
     { argument: "argument/artist" },
     { argument: "argument/device-id" },
-    { argument: "argument/uri" },
     { argument: "argument/query", saidAs: "word", notWith: ["argument/uri"] },
+    { argument: "argument/uri", notWith: ["argument/artist"] },
   ],
 } as const satisfies Command
