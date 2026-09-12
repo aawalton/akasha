@@ -1,4 +1,9 @@
 import { dirname, join } from "node:path"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -9,9 +14,6 @@ import { placedAddon } from "akasha/temper/addon-build/addon-placing/addon-placi
 import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const DATA = 2
-const FAILED = 3
 
 function goingTo(): string {
   try {
@@ -44,17 +46,17 @@ export async function putUpAddon(
         `and placed as ${name} in ${goingTo()}`,
       ],
       [],
-      0
+      OK
     )
   }
 
   const report: string[] = []
   const compiled = await compiledAddon(codeAt, dir, name)
   report.push(...compiled.lines)
-  if (compiled.refusals.length > 0) return answering(report, compiled.refusals, FAILED)
+  if (compiled.refusals.length > 0) return answering(report, compiled.refusals, OPERATIONAL)
 
   const placed = placedAddon(codeAt, dir, name)
   report.push(...placed.lines)
-  if (placed.refusals.length > 0) return answering(report, placed.refusals, FAILED)
-  return answering(report, [], 0)
+  if (placed.refusals.length > 0) return answering(report, placed.refusals, OPERATIONAL)
+  return answering(report, [], OK)
 }
