@@ -16,6 +16,7 @@ import {
   listedAt,
   listedById,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
@@ -28,8 +29,6 @@ import { subagentStarted } from "akasha/seat-system/subagents/properties/subagen
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
-
-export const SUBAGENTS_AT = "seat-system/subagents/pages"
 
 export const WRITING = "write"
 
@@ -85,12 +84,16 @@ export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}${SUBAGENT_MARK}${own}`
 }
 
+export function subagentsAt(root: string = ownRepoRoot()): string {
+  return pagesAtFor(root, SUBAGENT)
+}
+
 export function pathOf(slug: string): string {
-  return `${SUBAGENTS_AT}/${slug}/${slug}${SUFFIX}`
+  return `${subagentsAt()}/${slug}/${slug}${SUFFIX}`
 }
 
 export function pathIn(root: string, slug: string): string {
-  const flat = `${SUBAGENTS_AT}/${slug}${SUFFIX}`
+  const flat = `${subagentsAt()}/${slug}${SUFFIX}`
   return existsSync(join(root, flat)) ? flat : pathOf(slug)
 }
 

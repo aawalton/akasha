@@ -7,13 +7,13 @@ import {
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   pathsUnder,
-  SUBAGENTS_AT,
+  subagentsAt,
   sweeping,
   tookUnder,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 
 export function akashaSubagentsDirIn(root: string): string {
-  return `${root}/${SUBAGENTS_AT}`
+  return `${root}/${subagentsAt(root)}`
 }
 
 export function akashaSubagentPathsOf(
