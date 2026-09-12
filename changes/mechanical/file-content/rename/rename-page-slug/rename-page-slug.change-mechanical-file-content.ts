@@ -31,6 +31,14 @@ export const renamePageSlug = {
       invariantKind: "departure",
       statement: "A plural the page states already is left alone rather than restated.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A name handed in is stated where the page states another name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call handing in no name leaves the name the page states alone.",
+    },
   ],
   changeKind: "change-mechanical",
   guards: ["change-guard/slug-names-one-property"],

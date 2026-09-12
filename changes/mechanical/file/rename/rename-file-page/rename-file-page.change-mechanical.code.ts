@@ -63,6 +63,8 @@ const PAGE_TYPE = "page-type"
 
 const PLURAL_SLUG = "pluralSlug"
 
+const NAME = "name"
+
 const FIRST = 1
 
 export type Asked = {
@@ -360,10 +362,12 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (folded.refused !== null) return folded
   seen = carried.world
   if (given.to !== held.slug) {
+    const level = tailOf(held.slug, held.said.get(NAME) ?? "", given.to)
     const said = await reach(seen, RENAME_PAGE_SLUG, {
       at: lands,
       to: given.to,
       plural: given.plural,
+      name: level ?? undefined,
     })
     if (said.said.refused !== null) return said.said
     answers.push(said.said)

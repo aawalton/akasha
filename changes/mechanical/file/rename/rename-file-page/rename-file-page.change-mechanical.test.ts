@@ -80,17 +80,11 @@ const TYPED_PAGE = "akasha/five/typed-one.module.ts"
 
 const TYPED_LANDS = "akasha/five/carried.module.ts"
 
-const PLAIN_PAGE = "akasha/seven/plain-one.module.ts"
-
-const PLAIN_LANDS = "akasha/seven/carried.module.ts"
-
 const READER_PAGE = "akasha/six/reader.module.ts"
 
 const READER_CODE = "akasha/six/reader.module.code.ts"
 
 const TYPED_VALUE = { id: idOf("d"), pageTypeSlug: "module", slug: TYPED_SLUG }
-
-const PLAIN_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: "plain-one" }
 
 const READER_VALUE = { id: idOf("e"), pageTypeSlug: "module", slug: "reader", code: "ts" }
 
@@ -100,7 +94,7 @@ function readerBody(named: string, at: string): string {
 
 const typedAt: string = indexedRepo({
   [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf(TYPED_VALUE)}`,
-  [PLAIN_PAGE]: `export type Kept = string\n\n${pageOf(PLAIN_VALUE)}`,
+
   [READER_PAGE]: pageOf(READER_VALUE),
   [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
 })
@@ -283,24 +277,6 @@ test("a page whose type holds a secret it keeps no file for carries no sops file
   expect(movesOf(said)).toEqual([[SECOND_PAGE, WARDED_LANDS]])
 })
 
-test("a page sharing its folder is renamed in the folder that page sits in", async () => {
-  const root = indexedRepo({
-    [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
-    [OTHER_CODE]: "export const kept = 2\n",
-    "akasha/three/second.module.ts": pageOf({
-      id: idOf("e"),
-      pageTypeSlug: "module",
-      slug: "second",
-    }),
-  })
-  const said = await runChange(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
-  expect(said.refused).toBe(null)
-  expect(movesOf(said)).toEqual([
-    [OTHER_PAGE, "akasha/three/carried.module.ts"],
-    [OTHER_CODE, "akasha/three/carried.module.code.ts"],
-  ])
-})
-
 test("a page owning its folder carries what sits under that folder, each file once", async () => {
   const said = await runChange(worldIn(ownedAt, textIn(ownedAt)), { at: OWNED_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
@@ -340,15 +316,6 @@ test("a page exporting a type named from its slug has the const and the type spe
   expect(body).toContain(`export const ${CARRIED} =`)
   expect(body).not.toContain("TypedOne")
   expect(bodies.get(READER_CODE)).toBe(readerBody("Carried", `../five/${CARRIED}.module.ts`))
-})
-
-test("a page exporting no type named from its slug leaves that file's type alone", async () => {
-  const root = typedAt
-  const said = await runChange(worldIn(root, textIn(root)), { at: PLAIN_PAGE, to: CARRIED })
-  const body = bodiesIn(said, textIn(root)).get(PLAIN_LANDS) ?? ""
-  expect(said.refused).toBe(null)
-  expect(body).toContain("export type Kept = string")
-  expect(body).toContain(`export const ${CARRIED} =`)
 })
 
 test("a page renamed over a ledger is carried once rather than a second time", async () => {

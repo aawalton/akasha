@@ -64,6 +64,15 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page naming itself by what its old slug adds names itself by what the new adds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page naming itself otherwise keeps the name that page states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A new slug opening otherwise lands the page in a folder named for the whole.",
     },
     {

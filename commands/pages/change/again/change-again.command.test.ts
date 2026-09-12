@@ -5,7 +5,7 @@ import {
   piping,
 } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
 import {
-  changeRepeat,
+  changeAgain,
   cliAt,
   committedIn,
   lined,
@@ -13,7 +13,7 @@ import {
   repeating,
   saidBy,
   takesAtMost,
-} from "akasha/commands/pages/change/repeat/change-repeat.command.code.ts"
+} from "akasha/commands/pages/change/again/change-again.command.code.ts"
 import {
   idOf,
   indexedRepo,
@@ -80,25 +80,25 @@ function landing(commits: readonly string[], reached: string[][] = []): Running 
 }
 
 test("a call naming no change is refused", () => {
-  const said = changeRepeat([], givenAt("/nowhere"), piping(ASKED))
+  const said = changeAgain([], givenAt("/nowhere"), piping(ASKED))
 
   expect(said.refusals[0] ?? "").toContain("no change is named")
 })
 
 test("a call piping nothing in is refused", () => {
-  const said = changeRepeat(["wide"], givenAt("/nowhere"), NOTHING)
+  const said = changeAgain(["wide"], givenAt("/nowhere"), NOTHING)
 
   expect(said.refusals[0] ?? "").toContain("piped nothing in")
 })
 
 test("a call handed no ceiling is refused", () => {
-  const said = changeRepeat(["wide"], givenAt("/nowhere"), piping("page-type: module\n"))
+  const said = changeAgain(["wide"], givenAt("/nowhere"), piping("page-type: module\n"))
 
   expect(said.refusals[0] ?? "").toContain("`at-most` says how many pages one batch acts on")
 })
 
 test("a ceiling that is no whole number above nothing is refused", () => {
-  const said = changeRepeat(["wide"], givenAt("/nowhere"), piping("at-most: none\n"))
+  const said = changeAgain(["wide"], givenAt("/nowhere"), piping("at-most: none\n"))
 
   expect(said.refusals[0] ?? "").toContain("is no count of pages")
 })
@@ -112,9 +112,7 @@ test("whether a change takes a ceiling is read off that change's page", () => {
 })
 
 test("a change whose page states no ceiling is refused", () => {
-  const said = changeRepeat(["narrow"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
-    landing([])
-  )
+  const said = changeAgain(["narrow"], givenAt(indexedRepo(HELD)), piping(ASKED), () => landing([]))
 
   expect(said.refusals[0] ?? "").toContain("states no `takes-at-most`")
 })
@@ -126,7 +124,7 @@ test("the file a child runs is read from the index", () => {
 test("every batch is handed the arguments the call was piped, unchanged", () => {
   const reached: string[][] = []
 
-  const said = changeRepeat(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
+  const said = changeAgain(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
     landing(["aaa"], reached)
   )
 

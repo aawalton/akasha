@@ -48,10 +48,13 @@ const PLURAL_SLUG = "pluralSlug"
 
 const ID = "id"
 
+const NAME = "name"
+
 export type RenamePageSlugAsked = {
   readonly at: string
   readonly to: string
   readonly plural?: string
+  readonly name?: string
 }
 
 type Renaming = {
@@ -197,6 +200,16 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
     if (stated.said.refused !== null) return stated.said
     answers.push(stated.said)
     seen = stated.world
+  }
+  if (given.name !== undefined && given.name !== said.get(NAME)?.text) {
+    const named = await reach(seen, CHANGE_PAGE_PROPERTY, {
+      at: given.at,
+      key: NAME,
+      to: given.name,
+    })
+    if (named.said.refused !== null) return named.said
+    answers.push(named.said)
+    seen = named.world
   }
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
