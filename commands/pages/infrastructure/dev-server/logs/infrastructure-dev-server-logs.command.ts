@@ -29,8 +29,8 @@ export const infrastructureDevServerLogs = {
     },
   ],
   arguments: [
-    { argument: "argument/seq", saidAs: "flag-or-word" },
-    { argument: "argument/web-app" },
+    { argument: "argument/seq", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/web-app", required: true },
     { argument: "argument/tail" },
   ],
 } as const satisfies Command

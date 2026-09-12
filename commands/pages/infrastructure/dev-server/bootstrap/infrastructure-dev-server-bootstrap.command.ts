@@ -27,7 +27,7 @@ export const infrastructureDevServerBootstrap = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/force" },
-    { argument: "argument/seq", saidAs: "flag-or-word" },
-    { argument: "argument/web-app" },
+    { argument: "argument/seq", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/web-app", required: true },
   ],
 } as const satisfies Command
