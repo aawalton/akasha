@@ -105,6 +105,14 @@ export const initiativeWorkTree = {
       statement: "A tree with no initiative is refused rather than printed as nothing.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree with no initiative is a fault of the data.",
+    },
+    {
       invariantKind: "absence",
       statement: "A run writes nothing.",
     },

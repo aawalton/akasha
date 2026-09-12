@@ -55,6 +55,14 @@ export const initiativeDelete = {
       statement: "A run says the commit that run landed.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that refused is a fault of the data.",
+    },
+    {
       invariantKind: "absence",
       statement: "No run refreshes the index.",
     },

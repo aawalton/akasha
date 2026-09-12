@@ -1,6 +1,13 @@
 import { resolve } from "node:path"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   type InitiativeRow,
   initiativesDrawn,
@@ -192,35 +199,27 @@ export function treeIn(root: string): readonly Node[] {
 }
 
 function said(root: string, shown: Shown): Answer {
-  if (shown === "colors") {
-    return { report: [colorsSaid(root, drawnNow())], refusals: [], code: 0 }
-  }
+  if (shown === "colors") return told([colorsSaid(root, drawnNow())])
   const tree = treeIn(root)
-  if (shown === "json") {
-    return { report: [JSON.stringify({ repo: root, roots: tree })], refusals: [], code: 0 }
-  }
+  if (shown === "json") return told([JSON.stringify({ repo: root, roots: tree })])
   if (shown === "counts") {
-    return {
-      report: [
-        `initiatives:  ${String(countOf(tree, "initiative"))}`,
-        `intents:      ${String(countOf(tree, "intent"))}`,
-      ],
-      refusals: [],
-      code: 0,
-    }
+    return told([
+      `initiatives:  ${String(countOf(tree, "initiative"))}`,
+      `intents:      ${String(countOf(tree, "intent"))}`,
+    ])
   }
   if (tree.length === 0) {
-    return { report: [], refusals: [`no initiative was read from the index at ${root}`], code: 2 }
+    return refusedBy([`no initiative was read from the index at ${root}`], DATA)
   }
-  return { report: [...render(tree)], refusals: [], code: 0 }
+  return told([...render(tree)])
 }
 
 export function initiativeWorkTree(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return said(resolve(given.root), read.shown)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

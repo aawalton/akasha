@@ -1,5 +1,11 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -72,19 +78,19 @@ async function carried(root: string, at: string, asked: Asked, given: Given): Pr
     given.agentId,
     { writer: given.writer }
   )
-  if ("refusals" in landed) return { report: [], refusals: [...landed.refusals], code: 2 }
-  return { report: [...saidFor(asked, landed.commit)], refusals: [], code: 0 }
+  if ("refusals" in landed) return refusedBy([...landed.refusals], DATA)
+  return told([...saidFor(asked, landed.commit)])
 }
 
 export async function initiativeMoveIntent(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: [...read.refused], code: 1 }
+  if ("refused" in read) return mistaking([...read.refused])
   try {
     const root = resolve(given.root)
     const one = initiativesDrawn(root).find((each) => each.slug === read.slug)
     if (one === undefined) return mistaking([noInitiative(read.slug)])
     return await carried(root, one.path, read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }
