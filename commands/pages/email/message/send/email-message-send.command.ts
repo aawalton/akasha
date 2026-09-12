@@ -34,18 +34,30 @@ export const emailMessageSend = {
     },
     { said: '--from <"Name <addr>">', takes: "a verified send-as alias to send the mail from" },
   ],
-  helpNotes: [
-    "a reply names both the thread and the message replied to, and its headers are derived from that message.",
-    "a subject or a body is said inline or read from a file, and saying it both ways is refused.",
-    "one call reads standard input once, so `-` names it for one flag at most.",
-    "a path that is not absolute is read against the repository root.",
-    "the send comes back as the message's id and its thread.",
-    "a message once sent is not taken back.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A reply's threading is derived from the message replied to rather than stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reply names both the thread it joins and the message replied to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subject or a body said both inline and in a file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`-` names standard input for one flag at most.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A send comes back as the message's id and its thread.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message once sent is not taken back.",
     },
 
     {
