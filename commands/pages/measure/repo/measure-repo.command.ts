@@ -9,16 +9,37 @@ export const measureRepo = {
   changeKind: "change-mechanical",
   parts: ["module/repo-measuring", "module/checkout-counting"],
   taking: [],
-  helpNotes: [
-    "`repo` counts the files the checkout holds and the lines those files run to, by file type.",
-    "a file type is what follows the last dot in a name, and a name with no dot is its own type.",
-    "a file a `generated`, `build`, `dist`, `out` or `coverage` folder holds is not counted.",
-    "no file is judged for being text, so a font counts whatever newlines its bytes hold.",
-    "the total beneath the types counts what was counted rather than what git listed.",
-    "what git counts is counted: tracked files, and untracked files the repository keeps.",
-    "what the repository ignores is not counted, so built output is no file waiting to arrive.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The lines each file runs to are counted beside the files.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file type is what follows the last dot in a name, and a name with no dot is its own type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tracked file and an untracked file the repository keeps are both counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The total beneath the types counts what was counted rather than what git listed.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A file a `generated`, `build`, `dist`, `out` or `coverage` folder holds is not counted.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file the repository ignores is not counted.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file is judged for being text.",
+    },
     {
       invariantKind: "absence",
       statement: "A run writes no value the commit has.",
