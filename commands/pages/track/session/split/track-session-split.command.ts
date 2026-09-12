@@ -7,7 +7,6 @@ export const trackSessionSplit = {
   definition: "the command parting one stretch into two at a time said",
   code: "ts",
   taking: [
-    { said: "--title <text>", takes: "what the second half is called" },
     {
       said: "--safety <level>",
       takes: "how safe Alan was over the stretch, from -2 to 5 in half steps",
@@ -112,5 +111,6 @@ export const trackSessionSplit = {
     { argument: "argument/id" },
     { argument: "argument/open" },
     { argument: "argument/last" },
+    { argument: "argument/title" },
   ],
 } as const satisfies Command
