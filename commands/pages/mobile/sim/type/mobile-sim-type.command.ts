@@ -9,10 +9,6 @@ export const mobileSimType = {
   taking: [
     { said: "--text <text>", takes: "the text to type" },
     { said: "--text -", takes: "the text to type, read from what is piped in" },
-    {
-      said: "--selector <css>",
-      takes: "the element to put the cursor in first, the one already focused where none is said",
-    },
   ],
 
   invariants: [
@@ -34,4 +30,5 @@ export const mobileSimType = {
     },
   ],
   name: "type",
+  arguments: [{ argument: "argument/selector" }],
 } as const satisfies Command
