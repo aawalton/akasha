@@ -13,6 +13,7 @@ import {
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
   A_CRATE,
+  A_HELD_FIGURE,
   A_NEW_FIGURE,
   A_NEW_THING,
   A_PORTRAIT_AT,
@@ -21,7 +22,6 @@ import {
   carrying,
   DEVICE_TOKENS_AT,
   HELD_CRATE_ID,
-  HELD_FIGURE,
   HELD_THING,
   HELD_THING_BODY,
   HELD_THING_ID,
@@ -174,9 +174,7 @@ test("a merge keeps every key the caller does not name", () => {
 })
 
 test("a merge keeps a value held in a file beside the page as the extension it states", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "figure", slug: HELD_FIGURE, values: { title: "a new title" }, merge: true },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: { title: "a new title" } }])
   expect("puts" in said && said.puts[0]?.content).toContain('portrait: "md"')
 })
 
@@ -210,77 +208,36 @@ test("a value that is no string under a key held in a file is refused", () => {
 
 test("a body handed over under a key held in a file is refused rather than written", () => {
   const body = JSON.stringify({ achievements: Array.from({ length: 400 }, (_, at) => at) })
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "figure", slug: HELD_FIGURE, values: { rounds: body }, merge: true },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: { rounds: body } }])
   expect("refused" in said && said.refused).toContain("`rounds` is held in a file")
   expect("refused" in said && said.refused).toContain("Write that file at a path of its own")
 })
 
 test("a key held in a file naming an ending is written into the page", () => {
-  const said = foldedFor(ROOT, [
-    {
-      pageTypeSlug: "figure",
-      slug: HELD_FIGURE,
-      values: { rounds: "jsonl" },
-      merge: true,
-    },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: { rounds: "jsonl" } }])
   expect("puts" in said && said.puts[0]?.content).toContain('rounds: "jsonl"')
 })
 
 test("a body handed over for a file property is put at the file its ending names", () => {
-  const said = foldedFor(ROOT, [
-    {
-      pageTypeSlug: "figure",
-      slug: HELD_FIGURE,
-      values: {},
-      bodies: { portrait: "# One\n" },
-      merge: true,
-    },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "# One\n" } }])
   const put = "puts" in said ? said.puts.find((one) => one.path === A_PORTRAIT_AT) : undefined
   expect(put?.content).toBe("# One\n")
   expect("puts" in said && said.puts[0]?.content).toContain('portrait: "md"')
 })
 
 test("a body handed over names the ending the page already carries", () => {
-  const said = foldedFor(ROOT, [
-    {
-      pageTypeSlug: "figure",
-      slug: HELD_FIGURE,
-      values: {},
-      bodies: { portrait: "x" },
-      merge: true,
-    },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "x" } }])
   const paths = "puts" in said ? said.puts.map((one) => one.path) : []
   expect(paths).toContain(A_PORTRAIT_AT)
 })
 
 test("a body handed over under a key holding its values as rows is refused", () => {
-  const said = foldedFor(ROOT, [
-    {
-      pageTypeSlug: "figure",
-      slug: HELD_FIGURE,
-      values: {},
-      bodies: { rounds: "{}\n" },
-      merge: true,
-    },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { rounds: "{}\n" } }])
   expect("refused" in said && said.refused).toContain("keeps its values as rows")
 })
 
 test("a body handed over under a key held in no file is refused", () => {
-  const said = foldedFor(ROOT, [
-    {
-      pageTypeSlug: "figure",
-      slug: HELD_FIGURE,
-      values: {},
-      bodies: { remark: "a body" },
-      merge: true,
-    },
-  ])
+  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { remark: "a body" } }])
   expect("refused" in said && said.refused).toContain("holds in a file beside the page")
 })
 
@@ -376,6 +333,18 @@ test("a slug past the length is refused before its page type is looked for", () 
     { pageTypeSlug: "no-such-type", slug: PAST_THE_LENGTH, values: {} },
   ])
   expect("refused" in said && said.refused).toContain("101 characters")
+})
+
+test("a slug making a name no export may be declared under is refused", () => {
+  expect(slugRefused("2-things")).toContain("`2Things`")
+  expect(slugRefused("held.one")).toContain("no `export const` may be declared under")
+  expect(slugRefused("class")).toContain("TypeScript keeps for itself")
+  expect(slugRefused("")).toContain("a slug saying nothing names no export")
+})
+
+test("a page whose slug makes no name composes into nothing", () => {
+  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: "2-things" }])
+  expect("refused" in said && said.refused).toContain("`2Things`")
 })
 
 test("a merge is refused for a key the page type declares no property for", () => {

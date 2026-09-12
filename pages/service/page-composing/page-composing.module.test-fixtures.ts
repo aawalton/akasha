@@ -64,6 +64,8 @@ export const A_CRATE = {
   values: { title: "a crate" },
 }
 
+export const A_HELD_FIGURE = { pageTypeSlug: "figure", slug: HELD_FIGURE, merge: true }
+
 const REPO_AT = rootOf(import.meta.dir)
 
 export function pageTypeAt(slug: string): string {

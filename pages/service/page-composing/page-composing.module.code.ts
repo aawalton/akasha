@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { bodyOf, importedFrom, unnamedIn } from "akasha/pages/body/page-body.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { partsOver } from "akasha/pages/entry-writing/page-entry-writing.module.code.ts"
+import { nameFaultIn } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import {
@@ -172,12 +173,16 @@ function shownAs(held: string): string {
 }
 
 export function slugRefused(slug: string): string | null {
-  if (slug.length <= STEM_CEILING) return null
-  return (
-    `this names a page whose slug is ${shownAs(slug)}, past the ${STEM_CEILING} characters a ` +
-    `page's slug holds. A name minted from text is shortened where it is minted, because only ` +
-    `what minted it knows which words may go.`
-  )
+  if (slug.length > STEM_CEILING) {
+    return (
+      `this names a page whose slug is ${shownAs(slug)}, past the ${STEM_CEILING} characters a ` +
+      `page's slug holds. A name minted from text is shortened where it is minted, because only ` +
+      `what minted it knows which words may go.`
+    )
+  }
+  const fault = nameFaultIn(slug)
+  if (fault !== null) return `this names a page, and ${fault}`
+  return null
 }
 
 function offAName(held: string): boolean {

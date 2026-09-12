@@ -142,6 +142,10 @@ export const pageComposing = {
       statement: "A slug past that length is refused rather than shortened.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A slug making a name no `export const` may be declared under is refused.",
+    },
+    {
       invariantKind: "departure",
       statement: "A page the index already has keeps the identity the page has.",
     },
