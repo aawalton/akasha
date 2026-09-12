@@ -1,6 +1,5 @@
 import { afterEach, describe, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
-import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import { askIn } from "akasha/code/editor/extension/command-server/command-server.module.code.ts"
 import {
@@ -19,7 +18,7 @@ import {
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { z } from "zod"
 
-const BUN = join(homedir(), ".bun", "bin", "bun")
+const BUN = process.execPath
 
 const SERVER = join(import.meta.dir, "command-server.module.code.ts")
 
