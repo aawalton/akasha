@@ -1,48 +1,43 @@
 import { expect, test } from "bun:test"
 import type { Judged } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  BROKEN,
-  CASES,
-  JSON_OUT,
-  readIn,
+  modelTest,
   rowOf,
-  SHOW,
   scoreOf,
   shownOf,
 } from "akasha/commands/pages/model/test/model-test.command.code.ts"
 
-test("the test to score is the word carrying no hyphen", () => {
-  const read = readIn(["directive-kept"])
-  expect(read).toEqual({ test: "directive-kept", from: null, on: new Set() })
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha model test",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+test("naming no test is refused", async () => {
+  const said = await modelTest([], GIVEN)
+
+  expect(said.refusals).toEqual(["`akasha model test` takes `<test>`, and nothing said it"])
 })
 
-test("the cases of another test are taken by name", () => {
-  const read = readIn(["directives-kept", CASES, "directive-kept"])
-  expect(read).toEqual({ test: "directives-kept", from: "directive-kept", on: new Set() })
+test("naming a second test is refused", async () => {
+  const said = await modelTest(["one", "two"], GIVEN)
+
+  expect(said.refusals[0]).toBe("`akasha model test` takes 1 word and this call says 2 words")
 })
 
-test("the flags a run takes are gathered", () => {
-  const read = readIn(["directive-kept", BROKEN, JSON_OUT])
-  expect(read).toEqual({ test: "directive-kept", from: null, on: new Set([BROKEN, JSON_OUT]) })
+test("a flag a run does not take is refused by name", async () => {
+  const said = await modelTest(["one", "--loud"], GIVEN)
+
+  expect(said.refusals[0]).toContain("`--loud`")
 })
 
-test("naming no test is refused", () => {
-  expect(readIn([])).toEqual({ refused: ["a run takes the test to score, and none was named"] })
-})
+test("naming the cases flag without a test is refused", async () => {
+  const said = await modelTest(["one", "--cases"], GIVEN)
 
-test("naming a second test is refused", () => {
-  const read = readIn(["one", "two"])
-  expect("refused" in read && read.refused[0]).toContain("a second test")
-})
-
-test("a flag a run does not take is refused by name", () => {
-  const read = readIn(["one", "--loud"])
-  expect("refused" in read && read.refused[0]).toContain("`--loud`")
-})
-
-test("naming the cases flag without a test is refused", () => {
-  const read = readIn(["one", CASES])
-  expect("refused" in read && read.refused[0]).toContain(CASES)
+  expect(said.refusals[0]).toBe("`--cases` takes a value, and none follows it")
 })
 
 const ONE: Judged = {
@@ -78,11 +73,6 @@ test("a case nothing could be asked of says so in place of an answer", () => {
 
 test("the score counts the cases kept out of every case", () => {
   expect(scoreOf([ONE, { ...ONE, kept: false }])).toBe("kept\t1 of 2")
-})
-
-test("the show flag is gathered with the rest", () => {
-  const read = readIn(["directive-kept", SHOW])
-  expect(read).toEqual({ test: "directive-kept", from: null, on: new Set([SHOW]) })
 })
 
 test("showing a case gives the whole prompt put and the whole answer back", () => {
