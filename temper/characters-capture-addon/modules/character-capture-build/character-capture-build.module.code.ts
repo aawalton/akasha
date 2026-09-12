@@ -1,7 +1,7 @@
 import "akasha/temper/eso-types/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import { encodeCharacterBuild } from "akasha/temper/characters-capture-addon/character-capture-encoder/character-capture-encoder.module.code.ts"
 import { captureCharacterBuild } from "akasha/temper/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"
+import { encodeCharacterBuild } from "akasha/temper/characters-capture-addon/modules/character-capture-encoder/character-capture-encoder.module.code.ts"
 
 export interface CapturedCharacterBuild {
   buildHash: string

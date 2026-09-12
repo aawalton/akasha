@@ -13,12 +13,6 @@ import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declarati
 import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import {
-  captureCharacterArmorSlot,
-  captureCharacterJewelrySlot,
-  captureCharacterWeaponSlot,
-} from "akasha/temper/characters-capture-addon/character-capture-equipment/character-capture-equipment.module.code.ts"
-import { getFoodIndex } from "akasha/temper/characters-capture-addon/character-capture-food-map/character-capture-food-map.module.code.ts"
 import { getMundusIndex } from "akasha/temper/characters-capture-addon/character-capture-mundus-map/character-capture-mundus-map.module.code.ts"
 import {
   CHARACTER_PASSIVE_SKILL_COUNT,
@@ -47,6 +41,12 @@ import {
   getCurseIndex,
   getVampireStageIndex,
 } from "akasha/temper/characters-capture-addon/modules/character-capture-curse-map/character-capture-curse-map.module.code.ts"
+import {
+  captureCharacterArmorSlot,
+  captureCharacterJewelrySlot,
+  captureCharacterWeaponSlot,
+} from "akasha/temper/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"
+import { getFoodIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-food-map/character-capture-food-map.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const CHARACTER_ARMOR_SLOTS = [
