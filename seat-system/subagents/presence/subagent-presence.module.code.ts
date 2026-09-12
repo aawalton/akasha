@@ -264,11 +264,30 @@ export async function took(
   return wentBy(await landing(done, root, [{ at: TAKE_PAGE, given: { at } }], why), done)
 }
 
+export function seatNamesIn(root: string): readonly string[] {
+  const names: string[] = []
+  for (const one of everyOfType(root, SEAT)) {
+    const named = partedIn(one.path)
+    if (named !== null && named.sections.length === 0 && named.pageType === SEAT) {
+      names.push(named.slug)
+    }
+  }
+  return names
+}
+
+export function underSeatNamed(names: readonly string[], seatName: string, slug: string): boolean {
+  if (!slug.startsWith(`${seatName}-`)) return false
+  return !names.some((one) => one.length > seatName.length && slug.startsWith(`${one}-`))
+}
+
 export function pathsUnder(root: string, seatName: string): readonly string[] {
-  const mark = `${seatName}-`
+  const names = seatNamesIn(root)
   return everyOfType(root, SUBAGENT)
     .map((one) => one.path)
-    .filter((one) => partedIn(one)?.slug.startsWith(mark) === true)
+    .filter((one) => {
+      const slug = partedIn(one)?.slug
+      return slug !== undefined && underSeatNamed(names, seatName, slug)
+    })
     .sort()
 }
 

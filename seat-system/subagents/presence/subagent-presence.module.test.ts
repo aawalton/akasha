@@ -28,6 +28,7 @@ import {
   stampedAt,
   startedIn,
   took,
+  underSeatNamed,
   WRITING,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
@@ -190,8 +191,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
 
 test("a take-down leaves the readings of the page it took where they are", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
-    const at = pathOf(slugOf("akasha", OWN))
+    const at = await pageWritten(root)
     readingKept(root, at)
     expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
@@ -201,8 +201,7 @@ test("a take-down leaves the readings of the page it took where they are", async
 
 test("a take-down a held hold refused answers a why worth another try, taking no page", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
-    const at = pathOf(slugOf("akasha", OWN))
+    const at = await pageWritten(root)
     lockHeldIn(root)
     const why = whyIn(await took(root, "akasha", OWN, [], HELD_LANDING, null, RETURNED))
     expect(worthAnotherTry(why)).toBe(true)
@@ -258,8 +257,7 @@ test("a page that is not there is taken away by doing nothing", async () => {
 
 test("a take-down moves what its subagent left onto the seat, and the page goes", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
-    const at = pathOf(slugOf("akasha", OWN))
+    const at = await pageWritten(root)
     writing(root, editsAt(at) ?? "", ROW)
     refusalsKept(root, at, [REFUSAL])
     expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
@@ -284,8 +282,7 @@ test("a take-down whose seat the index has no page for leaves edits waiting", as
 
 test("a stop the run began after leaves the page where it is", async () => {
   await underSeat(async (root) => {
-    await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)
-    const at = pathOf(slugOf("akasha", OWN))
+    const at = await pageWritten(root)
     startedIn(root, at, 2)
     expect(await took(root, "akasha", OWN, [], LANDS, 1, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(true)
@@ -319,6 +316,13 @@ test("the pages under a seat are the pages the index files under that seat's nam
     writing(root, editsAt(at) ?? "", ROW)
     expect(pathsUnder(root, "akasha")).toEqual([at, other])
   })
+})
+
+test("a page is under the longest seat name the index files that its slug opens with", () => {
+  const names = ["aine", "aine-two"]
+  expect(underSeatNamed(names, "aine", `aine-${OWN}`)).toBe(true)
+  expect(underSeatNamed(names, "aine", `aine-two-${OWN}`)).toBe(false)
+  expect(underSeatNamed(names, "aine-two", `aine-two-${OWN}`)).toBe(true)
 })
 
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {

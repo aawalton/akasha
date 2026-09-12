@@ -322,6 +322,14 @@ export const subagentPresence = {
         "A run of hyphens between the seat's name and the subagent's own id is written as one.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page is under the longest seat name the index files that its slug opens with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose name opens another seat's name sweeps no page of that other seat.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A slug no `export const` may be declared under writes nothing.",
     },
