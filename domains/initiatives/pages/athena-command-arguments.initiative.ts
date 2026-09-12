@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` is the one reader. The check `command-takes-its-arguments-through-one-reader` landed at `43dbf523a33e` with `experimental: true`, so it binds nobody; Alan approves a check before it binds. It refused 47 of 235 command files at `b365d4a17ab`. It is blind twice: `slugOf` matches only `*.command.code.ts`, so the shared modules where argv reading lives go unjudged, and `followed` resolves a callee only within the same file.\n",
+        "`takenFor` is the one reader. The check `command-takes-its-arguments-through-one-reader` is `experimental: true`, so it binds nobody; Alan approves a check before it binds, and the audit phase is off with it. Both its blind spots are mended, `3ae22245d60` and `5e4bd47f2e0`: it judges module code under `commands/pages` and follows a call one file on. That took it from 79 refusals over 39 files to 188 over 56, of which 107 name a reading written one file on.\n",
     },
     {
       statement:
