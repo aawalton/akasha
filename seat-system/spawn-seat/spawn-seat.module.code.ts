@@ -8,6 +8,7 @@ import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes
 import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/agents/seats/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 import {
   dataError,
   inputError,
@@ -27,7 +28,6 @@ import {
   type LaunchSeatResult,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
 import {
   decideSkillTokenGuard,
   DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
