@@ -15,7 +15,8 @@ export const noSecondExitCode = {
     },
     {
       invariantKind: "departure",
-      statement: "An object naming what a call refuses is a refusal being built.",
+      statement:
+        "A code is judged where the answer carries refusals, whether an object spells it or a call hands it.",
     },
     {
       invariantKind: "departure",
@@ -40,12 +41,21 @@ export const noSecondExitCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A builder handed an empty list of refusals answers well, and is left alone.",
+      statement:
+        "An answer whose list of refusals is empty says nothing went wrong, and is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A list of refusals no literal spells is read as carrying them.",
     },
     {
       invariantKind: "absence",
       statement:
         "A builder of that name taking no code is not seen, since no number is ever handed it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A number inside an expression is not judged, only a number written on its own.",
     },
     {
       invariantKind: "departure",

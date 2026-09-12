@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noSecondExitCode } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-second-exit-code/no-second-exit-code.syntax-rule.code.ts"
 
-const BUILT = "const one = { report: [], refusals: [], code: 3 }\n"
+const BUILT = 'const one = { report: [], refusals: ["why"], code: 3 }\n'
 
 const WHERE_IT_IS_BUILT = "akasha/commands/modules/refusing/probe.module.code.ts"
 
@@ -57,7 +57,7 @@ test("a refusal whose code is a number rather than a name is refused", () => {
 
 test("a refusal naming its code is left", () => {
   expect(
-    noSecondExitCode(parsed("const one = { report: [], refusals: [], code: DATA }\n"))
+    noSecondExitCode(parsed('const one = { report: [], refusals: ["why"], code: DATA }\n'))
   ).toEqual([])
 })
 
@@ -65,8 +65,20 @@ test("a number on a code beside no refusals is left", () => {
   expect(noSecondExitCode(parsed('const one = { code: 1, out: "" }\n'))).toEqual([])
 })
 
+test("an answer whose list of refusals is empty is left", () => {
+  expect(noSecondExitCode(parsed("const one = { report: done, refusals: [], code: 0 }\n"))).toEqual(
+    []
+  )
+})
+
+test("a list of refusals no literal spells is read as carrying them", () => {
+  const said = noSecondExitCode(parsed("const one = { report: [], refusals, code: 1 }\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("INPUT")
+})
+
 test("a number that is no exit code is left alone there too", () => {
-  expect(noSecondExitCode(parsed("const one = { refusals: [], code: 7 }\n"))).toEqual([])
+  expect(noSecondExitCode(parsed('const one = { refusals: ["why"], code: 7 }\n'))).toEqual([])
 })
 
 test("the module building a command's refusal spells the number", () => {
@@ -74,7 +86,7 @@ test("the module building a command's refusal spells the number", () => {
 })
 
 test("the line named is the line the code sits on", () => {
-  const said = noSecondExitCode(parsed("const one = {\n  refusals: [],\n  code: 2,\n}\n"))
+  const said = noSecondExitCode(parsed('const one = {\n  refusals: ["why"],\n  code: 2,\n}\n'))
   expect(said[0]?.line).toBe(3)
 })
 
@@ -127,6 +139,11 @@ test("a call handed more than that name takes is left", () => {
 test("the module building the answer hands the number its test reads", () => {
   const text = 'const one = answeredWith([], ["why"], 1)\n'
   expect(noSecondExitCode(parsed(text, WHERE_THE_ANSWER_IS_BUILT))).toEqual([])
+})
+
+test("a number inside an expression is not judged", () => {
+  const text = "const one = answeredWith([], said.refused, said.code ?? 1)\n"
+  expect(noSecondExitCode(parsed(text))).toEqual([])
 })
 
 test("the line named is the line the number handed sits on", () => {

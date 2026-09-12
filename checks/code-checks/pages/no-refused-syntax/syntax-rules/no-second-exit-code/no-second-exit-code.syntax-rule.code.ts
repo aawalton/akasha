@@ -44,22 +44,24 @@ function numberOf(node: ts.Expression | undefined): number | null {
   return Number(node.text)
 }
 
+function emptyList(node: ts.Expression | undefined): boolean {
+  return node !== undefined && ts.isArrayLiteralExpression(node) && node.elements.length === 0
+}
+
 function spelledIn(held: ts.ObjectLiteralExpression): Spelled | null {
   let refuses = false
   let found: Spelled | null = null
   for (const one of held.properties) {
     const name = one.name
     if (name === undefined || !ts.isIdentifier(name)) continue
-    if (name.text === "refusals") refuses = true
+    if (name.text === "refusals") {
+      refuses = !ts.isPropertyAssignment(one) || !emptyList(one.initializer)
+    }
     if (name.text !== "code" || !ts.isPropertyAssignment(one)) continue
     const meant = numberOf(one.initializer)
     if (meant !== null) found = { at: one, meant }
   }
   return refuses ? found : null
-}
-
-function emptyList(node: ts.Expression | undefined): boolean {
-  return node !== undefined && ts.isArrayLiteralExpression(node) && node.elements.length === 0
 }
 
 function handedIn(held: ts.CallExpression): Spelled | null {
