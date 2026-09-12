@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const emailMessagesGet = {
+export const emailMessageGet = {
   id: "01a06810-cf11-79cf-8583-56ab486a6b70",
   type: "command",
-  slug: "email-messages-get",
+  slug: "email-message-get",
   definition: "the command fetching one Gmail message whole, its plain-text body decoded",
   code: "ts",
   changeKind: "change-none",

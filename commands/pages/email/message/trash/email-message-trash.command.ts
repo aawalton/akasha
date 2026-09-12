@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const emailMessagesTrash = {
+export const emailMessageTrash = {
   id: "01a06810-cf11-7809-b382-e88022027eb3",
   type: "command",
-  slug: "email-messages-trash",
+  slug: "email-message-trash",
   definition: "the command moving one Gmail message to Trash",
   code: "ts",
   changeKind: "change-none",

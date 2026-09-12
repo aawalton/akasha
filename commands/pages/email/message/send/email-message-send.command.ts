@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const emailMessagesSend = {
+export const emailMessageSend = {
   id: "01a06810-cf11-717b-8bb7-cfc22b009ed1",
   type: "command",
-  slug: "email-messages-send",
+  slug: "email-message-send",
   definition: "the command sending a composed message from the authenticated mailbox",
   code: "ts",
   changeKind: "change-none",

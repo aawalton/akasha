@@ -8,7 +8,7 @@ export const email = {
   parts: [
     "namespace/email-attachment",
     "namespace/email-draft",
-    "namespace/email-messages",
+    "namespace/email-message",
     "command/email-unsubscribe",
   ],
 } as const satisfies Namespace
