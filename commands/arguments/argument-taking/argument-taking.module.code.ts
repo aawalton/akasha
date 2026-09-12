@@ -1,6 +1,7 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 export type SaidAs = "flag" | "word" | "flag-or-word"
 
@@ -77,6 +78,11 @@ function saidAgain(said: string, byWord: boolean, wasWord: boolean): string {
     : `\`${said}\` is said as a word and at its flag, and one call says it one way`
 }
 
+function tooManyWords(calledAs: string, takes: number, said: number): string {
+  const taking = counted(takes, "word")
+  return `\`${calledAs}\` takes ${taking} and this call says ${counted(said, "word")}`
+}
+
 type Filling = {
   readonly taken: Record<string, Value>
   readonly heard: Set<string>
@@ -134,17 +140,25 @@ export function takingIn(
   const atFlags = naming.filter((one) => atAFlag(one))
   const bySaid = new Map(atFlags.map((one) => [one.argument.said, one]))
   const spellings = naming.map((one) => spelt(one))
-  const forWords = naming.find((one) => asAWord(one))
+  const forWords = naming.filter((one) => asAWord(one))
+  let atWord = 0
+  let overflowed = 0
   for (let at = 0; at < argv.length; at += 1) {
     const word = argv[at]
     if (word === undefined) continue
     const held = bySaid.get(word)
     if (held === undefined) {
-      if (forWords === undefined || spelledAsAFlag(word)) {
+      if (forWords.length === 0 || spelledAsAFlag(word)) {
         state.refusals.push(unknown(word, calledAs, spellings))
         continue
       }
-      filling(state, forWords, word, true)
+      const takingIt = forWords[atWord]
+      if (takingIt === undefined) {
+        overflowed += 1
+        continue
+      }
+      filling(state, takingIt, word, true)
+      if (!repeating(takingIt)) atWord += 1
       continue
     }
     const argument = held.argument
@@ -160,6 +174,9 @@ export function takingIn(
     }
     at += 1
     filling(state, held, next, false)
+  }
+  if (overflowed > 0) {
+    state.refusals.push(tooManyWords(calledAs, forWords.length, forWords.length + overflowed))
   }
   for (const one of naming) {
     if (one.required !== true || state.heard.has(one.argument.slug)) continue

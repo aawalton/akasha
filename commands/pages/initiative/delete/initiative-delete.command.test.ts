@@ -28,7 +28,9 @@ test("a call naming no word is refused, naming the initiative by its placeholder
 test("a call naming two words is refused", async () => {
   const said = await initiativeDelete(["one", "two"], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("said twice")
+  expect(said.refusals[0]).toBe(
+    "`akasha initiative delete` takes 1 word and this call says 2 words"
+  )
 })
 
 test("a name that is no initiative is refused in words naming it", () => {

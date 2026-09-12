@@ -167,10 +167,47 @@ test("an argument said as a word and at its flag in one call is refused", () => 
   )
 })
 
-test("a second word is refused where that argument does not repeat", () => {
+test("a second word is refused where the command takes one word", () => {
   expect(refusals(["n1", "n2"], [NODE])[0]).toBe(
-    "`--node` is said twice, and one call says it once"
+    "`akasha thing` takes 1 word and this call says 2 words"
   )
+})
+
+const FROM: Naming = { argument: argumentOf("from", "text"), saidAs: "word" }
+
+const ONTO: Naming = { argument: argumentOf("onto", "text"), saidAs: "word" }
+
+const REST: Naming = { argument: argumentOf("rest", "text"), saidAs: "word", repeats: true }
+
+test("two words fill the two word arguments in the order the command names them", () => {
+  expect(taken(["here", "there"], [FROM, ONTO])).toEqual({ from: "here", onto: "there" })
+})
+
+test("three words fill the three word arguments in the order the command names them", () => {
+  expect(taken(["here", "said", "there"], [FROM, SLUG, ONTO])).toEqual({
+    from: "here",
+    slug: "said",
+    onto: "there",
+  })
+})
+
+test("a call saying fewer words than the command takes is refused by the one left unsaid", () => {
+  expect(refusals(["here"], [FROM, { ...ONTO, required: true }])[0]).toBe(
+    "`akasha thing` takes `<onto>`, and nothing said it"
+  )
+})
+
+test("a call saying more words than the command takes says how many either side is", () => {
+  expect(refusals(["here", "there", "spare"], [FROM, ONTO])[0]).toBe(
+    "`akasha thing` takes 2 words and this call says 3 words"
+  )
+})
+
+test("a repeating word argument takes every word from its own place on", () => {
+  expect(taken(["here", "one", "two"], [FROM, REST])).toEqual({
+    from: "here",
+    rest: ["one", "two"],
+  })
 })
 
 test("a word spelled as a flag is refused rather than filling an argument", () => {

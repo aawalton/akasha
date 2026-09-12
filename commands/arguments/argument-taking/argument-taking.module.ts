@@ -69,7 +69,7 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
-      statement: "A word that is no flag fills the argument the command takes as a word.",
+      statement: "A word that is no flag fills the arguments taken as words, in the order named.",
     },
     {
       invariantKind: "departure",
@@ -144,6 +144,14 @@ export const argumentTaking = {
     {
       invariantKind: "departure",
       statement: "The type a take answers is the one warning that an argument page was left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repeating word argument takes every word from its own place on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "More words than a command takes are refused saying how many either side is.",
     },
   ],
 } as const satisfies Module
