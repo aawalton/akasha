@@ -8,13 +8,7 @@ export const agentTurnColorList = {
     "the command answering the color each named agent, or each named turn state, is drawn in",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<agent id>", takes: "an agent to answer for, said as a bare word. Repeatable." },
-    {
-      said: "--state <name>",
-      takes: "a turn state to answer for rather than an agent. Repeatable.",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -95,4 +89,8 @@ export const agentTurnColorList = {
     },
   ],
   name: "turn-color-list",
+  arguments: [
+    { argument: "argument/agent", saidAs: "word", notWith: ["argument/turn-state"] },
+    { argument: "argument/turn-state", notWith: ["argument/agent"] },
+  ],
 } as const satisfies Command
