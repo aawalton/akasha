@@ -29,15 +29,7 @@ export const trackSessionAmend = {
     },
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
-  helpNotes: [
-    "every time said here is a US Mountain wall time, and no other clock is read or written.",
-    "a day is named at --day and nowhere else.",
-    "a stretch is addressed by --id, by --at, by --open or by --last, so no act asks for an id first.",
-    "show prints each stretch's id in what it says to a reader, which is where an id to address by comes from.",
-    "--relationship names a relationship by its id or by its title, and amend replaces what a stretch carried rather than adding to it.",
-    "a title carrying one of a relationship's aliases tags the stretch with that relationship, with no flag said, and what --relationship names is kept beside it.",
-    "an alias more than one relationship carries tags neither, and says nothing about it, since no act that writes stops to ask.",
-  ],
+
   invariants: [
     {
       invariantKind: "gap",
