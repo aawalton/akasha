@@ -18,14 +18,9 @@ export const emailDraftCreate = {
       takes: "the subject line, which every draft names here or at `--subject-file`",
     },
     {
-      said: "--subject-file <path>",
-      takes: "a file the subject is read from, or `-` for the input",
-    },
-    {
       said: "--body <text>",
       takes: "the plain-text body, which every draft names here or at `--body-file`",
     },
-    { said: "--body-file <path>", takes: "a file the body is read from, or `-` for the input" },
     { said: "--attach <path>", takes: "a file to hang off the mail, said again for each" },
     { said: "--thread <id>", takes: "the thread the message joins" },
     {
@@ -65,4 +60,5 @@ export const emailDraftCreate = {
     },
   ],
   name: "create",
+  arguments: [{ argument: "argument/subject-file" }, { argument: "argument/body-file" }],
 } as const satisfies Command
