@@ -199,13 +199,15 @@ const UNFILED_SAID = `\`${PAGE_AT}\` names no page, so no page is taken away`
 
 const HELD_LOCK = "another landing has held the lock"
 
+const COMMITTED = "1111111111111111111111111111111111111111"
+
 function landingSaying(answers: readonly (readonly string[])[]): {
   readonly landing: Landing
   readonly named: readonly string[]
 } {
   const named: string[] = []
   let asked = 0
-  const landing: Landing = (_root, changes, _message) => {
+  const landing: Landing = (_done, _root, changes, _message) => {
     named.push(changes.map((one) => one.at).join(","))
     const said = answers[asked] ?? []
     asked += 1
@@ -260,6 +262,23 @@ test("a seat whose page is not there names no change", async () => {
   expect(ran.named).toEqual([])
 })
 
+test("a stop whose landing committed before it refused names that commit", async () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("seat-stating-")
+    writing(root, PAGE_AT, PAGE_BODY)
+    const landing: Landing = (done) => {
+      done.push(COMMITTED)
+      return Promise.resolve({ refusals: [HELD_LOCK], code: EXIT.OPERATIONAL })
+    }
+    const said = await tookSeat(root, STOPPED, "deliberate", landing)
+    expect(said.kind).toBe("refused")
+    expect(said.kind === "refused" ? said.said : "").toContain(COMMITTED)
+  } finally {
+    world.sweep()
+  }
+})
+
 test("the page alone is taken away after that one refusal and no other", () => {
   expect(unfiled([UNFILED_SAID])).toBe(true)
   expect(unfiled([UNFILED_SAID, HELD_LOCK])).toBe(false)
@@ -278,7 +297,7 @@ const SITS_SOMEWHERE = seatedSomewhere()
 
 async function statingAt(name: string): Promise<readonly Asking[]> {
   let asked: readonly Asking[] = []
-  const landing: Landing = (_root, changes, _message) => {
+  const landing: Landing = (_done, _root, changes, _message) => {
     asked = changes
     return Promise.resolve({ refusals: [], code: EXIT.OPERATIONAL })
   }

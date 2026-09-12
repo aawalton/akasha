@@ -2,7 +2,8 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { seatPathForName } from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -157,11 +158,15 @@ export function addressFor(
   return onPage ?? assignmentStatedIn(assignment, domain)
 }
 
+function refusing(wrong: readonly string[], done: readonly string[]): Stating {
+  return { kind: "refused", said: [wrong.join("; "), ...partWay(done)].join(" ") }
+}
+
 export async function statedSeat(
   root: string,
   stated: SeatStated,
   seatName: string,
-  landing: Landing = runMechanicalChange
+  landing: Landing = landedMechanically
 ): Promise<Stating> {
   const page = seatPathForName(seatName)
   const there = existsSync(join(root, page))
@@ -171,21 +176,24 @@ export async function statedSeat(
   if (body === null) return { kind: "unstated" }
   if (was === body) return { kind: "unchanged" }
   const given = was === null ? { at: page, body } : { at: page, body, old: was }
+  const done: string[] = []
   const landed = await landing(
+    done,
     root,
     [{ at: PUT, given }],
     `${seatName}: the seat is in akasha as what it states`
   )
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return { kind: "refused", said: wrong.join("; ") }
+  if (wrong.length > 0) return refusing(wrong, done)
   return { kind: "wrote" }
 }
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
-) => ReturnType<typeof runMechanicalChange>
+) => ReturnType<typeof landedMechanically>
 
 export function wrongIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
   return "refusals" in landed ? landed.refusals : landed.wrong
@@ -199,15 +207,17 @@ export async function tookSeat(
   root: string,
   seatName: string,
   why: string,
-  landing: Landing = runMechanicalChange
+  landing: Landing = landedMechanically
 ): Promise<Stating> {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
   const message = `${seatName} stopped, ${why}, so its page goes`
-  const wrong = wrongIn(await landing(root, [{ at: TAKE, given: { at: page } }], message))
+  const done: string[] = []
+  const wrong = wrongIn(await landing(done, root, [{ at: TAKE, given: { at: page } }], message))
   if (wrong.length === 0) return { kind: "took" }
-  if (!unfiled(wrong)) return { kind: "refused", said: wrong.join("; ") }
-  const left = wrongIn(await landing(root, [{ at: TAKE_FILE, given: { at: page } }], message))
-  if (left.length > 0) return { kind: "refused", said: left.join("; ") }
+  if (!unfiled(wrong)) return refusing(wrong, done)
+  const taken: readonly Asking[] = [{ at: TAKE_FILE, given: { at: page } }]
+  const left = wrongIn(await landing(done, root, taken, message))
+  if (left.length > 0) return refusing(left, done)
   return { kind: "took" }
 }

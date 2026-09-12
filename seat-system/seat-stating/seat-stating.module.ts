@@ -114,6 +114,10 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing that committed before it refused names that commit in the refusal.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Where a seat's page sits is read from the one rule rather than spelled again.",
     },
     {
