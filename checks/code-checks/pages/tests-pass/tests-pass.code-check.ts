@@ -310,6 +310,14 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "A path restated that way names no file this repository has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder move respells a real path, and leaves a fixture naming one stale.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The bodies the overlay carries are the ones the change names as carried, or the changed ones.",
     },

@@ -64,23 +64,23 @@ export const RESOLVES =
   `  expect(found.map((one) => one.path)).toEqual([${JSON.stringify(TYPE_NOW)}])\n` +
   "})\n"
 
-export const SORTED_AT = "utils/narrow/sorted-once/sorted-once.module.test.ts"
+export const SORTED_AT = "held/one/one.module.test.ts"
 
-export const COUNTED_AT = "utils/text/counted/counted.module.test.ts"
+export const COUNTED_AT = "held/two/two.module.test.ts"
 
 export const AUTHORED_ONE_FAILED = `bun test v1.3.14 (0d9b296a)
 ...
-utils/text/counted/counted.module.test.ts:
+held/two/two.module.test.ts:
 1 | import { expect, test } from "bun:test"
-2 | import { counted } from "./counted.module.code.ts"
+2 | import { heldTwo } from "./two.module.code.ts"
 3 | 
 4 | test("a count of one is said with the singular", () => {
-5 |   expect(counted(1, "file")).toBe("1 fileish")
+5 |   expect(heldTwo(1, "file")).toBe("1 fileish")
                                  ^
 error: expect(received).toBe(expected)
 Expected: "1 fileish"
 Received: "1 file"
-      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+      at <anonymous> (held/two/two.module.test.ts:5:30)
 (fail) a count of one is said with the singular [0.12ms]
 ....
 7 pass
@@ -90,40 +90,40 @@ Ran 8 tests across 2 files. [27.00ms]
 `
 
 export const AUTHORED_TWO_FAILED = `bun test v1.3.14 (0d9b296a)
-utils/narrow/sorted-once/sorted-once.module.test.ts:
+held/one/one.module.test.ts:
 # Unhandled error between tests
 -------------------------------
 1 | import { expect, test } from "bun:test"
-2 | import { sortedOnce } from "./sorted-once.module.code.ts"
+2 | import { heldOne } from "./one.module.code.ts"
 3 | 
-4 | if (sortedOnce.length > -1) throw new Error("this file will not load")
+4 | if (heldOne.length > -1) throw new Error("this file will not load")
                                           ^
 error: this file will not load
-      at utils/narrow/sorted-once/sorted-once.module.test.ts:4:39
+      at held/one/one.module.test.ts:4:39
 -------------------------------
-utils/text/counted/counted.module.test.ts:
+held/two/two.module.test.ts:
 1 | import { expect, test } from "bun:test"
-2 | import { counted } from "./counted.module.code.ts"
+2 | import { heldTwo } from "./two.module.code.ts"
 3 | 
 4 | test("a count of one is said with the singular", () => {
-5 |   expect(counted(1, "file")).toBe("1 fileish")
+5 |   expect(heldTwo(1, "file")).toBe("1 fileish")
                                  ^
 error: expect(received).toBe(expected)
 Expected: "1 fileish"
 Received: "1 file"
-      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+      at <anonymous> (held/two/two.module.test.ts:5:30)
 (fail) a count of one is said with the singular [0.10ms]
 4 | test("a count of one is said with the singular", () => {
-5 |   expect(counted(1, "file")).toBe("1 fileish")
+5 |   expect(heldTwo(1, "file")).toBe("1 fileish")
 6 | })
 7 | 
 8 | test("every other count is said with the plural", () => {
-9 |   expect(counted(2, "file")).toBe("2 filesish")
+9 |   expect(heldTwo(2, "file")).toBe("2 filesish")
                                  ^
 error: expect(received).toBe(expected)
 Expected: "2 filesish"
 Received: "2 files"
-      at <anonymous> (utils/text/counted/counted.module.test.ts:9:30)
+      at <anonymous> (held/two/two.module.test.ts:9:30)
 (fail) every other count is said with the plural [0.03ms]
 ...
 3 pass
@@ -134,21 +134,21 @@ Ran 6 tests across 2 files. [26.00ms]
 `
 
 export const AUTHORED_CHATTY_PASSED = `bun test v1.3.14 (0d9b296a)
-utils/narrow/sorted-once/sorted-once.module.test.ts:
+held/one/one.module.test.ts:
 [test] bind to port 4321 hit EADDRINUSE; retrying
 [test] bind to port 4321 failed after 100ms — giving up
 .........
-utils/text/counted/counted.module.test.ts:
+held/two/two.module.test.ts:
 1 | import { expect, test } from "bun:test"
-2 | import { counted } from "./counted.module.code.ts"
+2 | import { heldTwo } from "./two.module.code.ts"
 3 | 
 4 | test("a count of one is said with the singular", () => {
-5 |   expect(counted(1, "file")).toBe("1 fileish")
+5 |   expect(heldTwo(1, "file")).toBe("1 fileish")
                                  ^
 error: expect(received).toBe(expected)
 Expected: "1 fileish"
 Received: "1 file"
-      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+      at <anonymous> (held/two/two.module.test.ts:5:30)
 (fail) a count of one is said with the singular [0.12ms]
 ...
 12 pass
@@ -158,10 +158,10 @@ Ran 13 tests across 2 files. [31.00ms]
 `
 
 export const AUTHORED_CHATTY_CLEAN = `bun test v1.3.14 (0d9b296a)
-utils/narrow/sorted-once/sorted-once.module.test.ts:
+held/one/one.module.test.ts:
 [test] bind to port 4321 hit EADDRINUSE; retrying
 .........
-utils/text/counted/counted.module.test.ts:
+held/two/two.module.test.ts:
 [forward-test] upstream-idle-timeout acct /v1/messages idleMs=5000
 ....
 13 pass
@@ -171,21 +171,21 @@ Ran 13 tests across 2 files. [31.00ms]
 `
 
 export const AUTHORED_LOGGED_ERROR = `bun test v1.3.14 (0d9b296a)
-utils/narrow/sorted-once/sorted-once.module.test.ts:
+held/one/one.module.test.ts:
 16 |   } catch (held) {
 17 |     console.error(held)
                    ^
 error: refused
-      at <anonymous> (utils/narrow/sorted-once/sorted-once.module.test.ts:17:5)
+      at <anonymous> (held/one/one.module.test.ts:17:5)
 .....
-utils/text/counted/counted.module.test.ts:
+held/two/two.module.test.ts:
 4 | test("a count of one is said with the singular", () => {
-5 |   expect(counted(1, "file")).toBe("1 fileish")
+5 |   expect(heldTwo(1, "file")).toBe("1 fileish")
                                  ^
 error: expect(received).toBe(expected)
 Expected: "1 fileish"
 Received: "1 file"
-      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+      at <anonymous> (held/two/two.module.test.ts:5:30)
 (fail) a count of one is said with the singular [0.12ms]
 ...
 12 pass
@@ -195,13 +195,13 @@ Ran 13 tests across 2 files. [31.00ms]
 `
 
 export const CAPTURED_FOREIGN_HEADER = `bun test v1.3.14 (0d9b296a)
-utils/narrow/sorted-once/sorted-once.module.test.ts:
+held/one/one.module.test.ts:
 ..
 ../../akasha-serving-fxYI8e/0.test.ts:
 error: expect(received).toBe(expected)
 Expected: "-1.5"
 Received: ""
-      at <anonymous> (utils/narrow/sorted-once/sorted-once.module.test.ts:91:28)
+      at <anonymous> (held/one/one.module.test.ts:91:28)
 (fail) a level below zero and between whole numbers crosses the relay whole [1.81ms]
 .
 9 pass
@@ -211,14 +211,14 @@ Ran 10 tests across 1 file. [242.00ms]
 `
 
 export const AUTHORED_ERRORED = `bun test v1.3.14 (0d9b296a)
-utils/narrow/sorted-once/sorted-once.module.test.ts:
+held/one/one.module.test.ts:
 # Unhandled error between tests
 -------------------------------
 5 |   queueMicrotask(() => {
 6 |     throw new Error("after the test ended")
                   ^
 error: after the test ended
-      at <anonymous> (utils/narrow/sorted-once/sorted-once.module.test.ts:6:11)
+      at <anonymous> (held/one/one.module.test.ts:6:11)
 -------------------------------
 .....
 5 pass
