@@ -10,10 +10,10 @@ import {
   type EditorOp,
   normalizeRichDocument,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
-import { collectToggleIds } from "akasha/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.code.ts"
 import { BlockAccessoryBar } from "akasha/pages/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx"
 import { BlockRow } from "akasha/pages/ui/block-editor/modules/block-row/block-row.module.code.tsx"
 import { BlockTree } from "akasha/pages/ui/block-editor/modules/block-tree/block-tree.module.code.tsx"
+import { collectToggleIds } from "akasha/pages/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"
 import { SlashMenu } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
 import { useBlockCollapse } from "akasha/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.code.ts"
 import { useBlockFocus } from "akasha/pages/ui/block-editor/use-block-focus/use-block-focus.module.code.ts"
