@@ -16,27 +16,17 @@ export const athenaCommandModules = {
     {
       statement: "A module sits at the lowest node of the command tree that reaches it.",
       workingMemory:
-        "`namespace.page-type.ts:64` already says a module more than one command of a namespace reaches sits under that namespace, and `pages/read/long-body/` shows the pattern. Six under `commands/modules/` depart: `differing` and `output-reaching` reach `read` alone, `play-row` `music/capture` alone; `change-arguing` two `change` commands, `measure-tabling` two `measure` commands, `inventory-file-arguing` five under `temper/inventory`. A check judges where a module sits, so it cannot drift back.\n",
-    },
-    {
-      statement: "The record of what an agent has read is kept in the agent domain.",
-      workingMemory:
-        "`agent.page-type.ts:54` says the pages an agent has read are the agent's own, and `:26,33` declare its edits and refusals there. `commands/modules/reading/` holds the record and imports nothing from `commands/`; its readers run across `agents/hooks/`, `seat-system/` and `domains/context/`. `refusals-keeping` is the same case. `agents/read-record/` already holds that name for a module about who is acting, so one of the two is renamed.\n",
+        "The six have moved, each a part of the page it now sits under: `differing` and `output-reaching` under `pages/read/`, `play-row` under `pages/music/capture/`, `change-arguing` under `pages/change/`, `measure-tabling` under `pages/measure/`, `inventory-file-arguing` under `pages/temper/inventory/`. No check holds the placement: `command-is-named-by-its-place-in-the-tree` judges a module beside a command by nothing. Does that check grow, or is a second written?\n",
     },
     {
       statement: "A module whose readers are outside the command system sits outside it.",
       workingMemory:
-        "`scratching.module.code.ts` is reached right across the repository, production code among it — `check-staging`, `fixture-world`, `addon-download`, `supervisor-self-heal-install`, `talos-apply` — so it is no command module. `repo-seeding` is test scaffolding instead: every importer is a test, and it imports `*.test-fixtures.ts`, so production code cannot reach it. The two go to different places.\n",
+        "`repo-seeding` sits in `testing-system/` (62451e2a65c). `scratching` is still under `commands/modules/`; `utils/fs` is where it goes and its 250 importers move with it, but the landing is refused by 8 tests failing in check test files the move does not touch — `hand-written-global-is-no-method`, `held-addon-names-a-roster-addon`, `introduced-property-is-a-part`, `no-raw-nul-bytes` — each a fixture root the check reads nothing out of. Who mends those first?\n",
     },
     {
       statement: "Each mechanical writer sits in the domain that owns what that writer writes.",
       workingMemory:
-        "`change-preparing.module.code.ts` is the only caller of `manifest-locking`, `group-writing`, `spacing-stepping`, `source-globbing`, `type-generating` and `export-naming`, and none is reached by name from the command line. Each writes for another domain: a lockfile and install, a page's property group file, a stylesheet's spacing as Swift, a Tailwind entry's trees, a page type's types, a page slug's export name. The only thing they take from `commands/` is `body-loading`.\n",
-    },
-    {
-      statement: "One page declares what an exit code means.",
-      workingMemory:
-        "`cli.module.code.ts:12-20` declares `OK`, `INPUT`, `DATA`, `OPERATIONAL` and `UNCLASSIFIED`, and `command-answering.module.code.ts:6-10` declares the first four again. `OPERATIONAL = 3` is written out in thirty-nine files today — every `talos` command, thirteen under `temper/inventory`, `deploy`, `music/capture`, `workload-applying`, `service-putting-up` — rather than imported. Nothing holds the five to one meaning.\n",
+        "`spacing-stepping`, `source-globbing`, `type-generating` and `group-writing` have moved. `manifest-locking` and `export-naming` are still under `commands/modules/`, and `applying` is a second caller of `manifest-locking` past `change-preparing`. All six rewrite one file, `change-preparing.module.code.ts`, so two agents moving at once refuse each other's landings.\n",
     },
     {
       statement:
