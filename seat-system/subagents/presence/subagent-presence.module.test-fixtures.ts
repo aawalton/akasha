@@ -14,7 +14,10 @@ import {
   seatRefusalsAt,
 } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
-import type { Reading } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
+import type {
+  Liveness,
+  Reading,
+} from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import {
   type Landing,
   pathOf,
@@ -157,11 +160,15 @@ export function pageUnder(root: string, seatName: string): string {
   return at
 }
 
-export const RETURNED: Reading = () => Promise.resolve("returned")
+function readingOf(liveness: Liveness): Reading {
+  return () => Promise.resolve({ liveness, why: `the reading says ${liveness}` })
+}
 
-export const UNREAD: Reading = () => Promise.resolve("unread")
+export const RETURNED: Reading = readingOf("returned")
 
-export const WORKING: Reading = () => Promise.resolve("working")
+export const UNREAD: Reading = readingOf("unread")
+
+export const WORKING: Reading = readingOf("working")
 
 export async function pageWritten(root: string): Promise<string> {
   await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)

@@ -29,8 +29,8 @@ import {
   type Went,
 } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import {
-  livenessOf,
   type Reading,
+  readOf,
 } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
@@ -216,13 +216,15 @@ export async function took(
   done: string[] = [],
   landing: Landing = landedMechanically,
   stoppedAt: number | null = null,
-  reading: Reading = livenessOf
+  reading: Reading = readOf
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
   if (!existsSync(join(root, at))) return WENT
   if (startedAfter(root, at, stoppedAt)) return WENT
-  if ((await reading(root, at, own)) !== "returned") return WENT
+  const read = await reading(root, at, own)
+  if (read.liveness === "working") return WENT
+  if (read.liveness !== "returned") return { why: `${at} is left where it is — ${read.why}` }
   const moved = movingOff(root, seatName, at)
   if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
@@ -259,10 +261,10 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
 export async function notWorking(
   root: string,
   under: readonly string[],
-  reading: Reading = livenessOf
+  reading: Reading = readOf
 ): Promise<readonly string[]> {
   const left: string[] = []
-  for (const at of under) if ((await reading(root, at)) !== "working") left.push(at)
+  for (const at of under) if ((await reading(root, at)).liveness !== "working") left.push(at)
   return left
 }
 
@@ -272,7 +274,7 @@ export async function tookUnder(
   why: string,
   done: string[] = [],
   landing: Landing = landedMechanically,
-  reading: Reading = livenessOf
+  reading: Reading = readOf
 ): Promise<Went> {
   const paths = await notWorking(root, pathsUnder(root, seatName), reading)
   if (paths.length === 0) return WENT

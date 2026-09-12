@@ -54,6 +54,23 @@ export const subagentLiveness = {
       statement: "The id a subagent runs under is taken from the page where a caller names none.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reading says which of its steps settled the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page stating no agent id and a seat stating no transcript are told apart by that reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading that ends in an error carries what was thrown into that reason.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes that reason anywhere.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a page away, writes one, or lands anything.",
     },

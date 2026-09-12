@@ -281,11 +281,13 @@ test("a stop the run began after leaves the page where it is", async () => {
   })
 })
 
-test("a seat stating no transcript leaves the page where it is", async () => {
+test("a seat stating no transcript leaves the page where it is and says which step did", async () => {
   await underSeat(async (root) => {
     const at = await pageWritten(root)
     expect(await livenessOf(root, at)).toBe("unread")
-    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
+    const why = whyIn(await took(root, "akasha", OWN, [], LANDS))
+    expect(why).toContain(at)
+    expect(why).toContain("states no transcript")
     expect(existsSync(join(root, at))).toBe(true)
   })
 })

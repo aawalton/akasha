@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   livenessOf,
   namedAmong,
+  readOf,
 } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 
 const OWN = "a38f63805f9b94edf"
@@ -23,4 +24,11 @@ test("a subagent the transcript names nowhere is named by nothing", () => {
 
 test("a page whose own agent id will not be read reads as unread", async () => {
   expect(await livenessOf("/var/tmp/subagent-liveness-nowhere", NOWHERE)).toBe("unread")
+})
+
+test("a reading says which of its steps settled the answer", async () => {
+  const held = await readOf("/var/tmp/subagent-liveness-nowhere", NOWHERE)
+
+  expect(held.liveness).toBe("unread")
+  expect(held.why).toContain("states no agent id")
 })

@@ -233,6 +233,14 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page left where nothing could be read says to the log which step settled that.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That line names the page it left as every line here names what it acted on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stop told no moment takes the page away rather than leaving it.",
     },
     {
