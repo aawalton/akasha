@@ -8,7 +8,11 @@ import {
   NO_TEXT,
   rowsFrom,
 } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
-import type { Landed, Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import type {
+  Committing,
+  Landed,
+  Refused,
+} from "akasha/commands/modules/landing/landing.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
@@ -394,6 +398,19 @@ export async function rebuiltBeside(): Promise<{
     landed: butTheStamp(everythingFiled(root)),
     again: butTheStamp(everyFileUnder(rebuilt)),
   }
+}
+
+export async function landedNoting(asks: boolean): Promise<{
+  readonly done: readonly string[]
+  readonly noting: Committing
+  readonly commit: string | null
+}> {
+  const root = repoWith({ "one.txt": "committed" })
+  const done: string[] = []
+  const noting: Committing = { commit: null }
+  const asked = asks ? rowsIn(root, [{ path: "new.txt", body: bytesOf(PROPOSED) }]) : []
+  const said = await landing(root, asked, "held", ADMITS, null, null, [], null, null, done, noting)
+  return { done, noting, commit: "refusals" in said ? null : said.commit }
 }
 
 export async function pathsSeen(root: string): Promise<readonly string[]> {

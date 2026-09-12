@@ -85,6 +85,8 @@ export type Refused = {
   readonly said?: readonly string[]
 }
 
+export type Committing = { commit: string | null }
+
 const AGAIN_WRITTEN =
   "nothing was written — the edits kept do not rebase, and reading those bodies again does not" +
   " move them. `akasha change drop` with `all: true` takes away the whole pool rather than the" +
@@ -226,7 +228,8 @@ export function landing(
   asRead?: readonly AsRead[],
   drafting?: null,
   over?: Change | null,
-  done?: string[]
+  done?: string[],
+  noting?: Committing | null
 ): Promise<Landed | Refused>
 export function landing(
   root: string,
@@ -248,7 +251,8 @@ export async function landing(
   asRead: readonly AsRead[] = [],
   drafting: Drafting | null = null,
   over: Change | null = null,
-  done: string[] = []
+  done: string[] = [],
+  noting: Committing | null = null
 ): Promise<Landed | Refused | Drafted> {
   if (changes.length === 0) {
     const base = baseOf(root)
@@ -345,7 +349,10 @@ export async function landing(
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
         const commit = committed(root, bodies, took, message, writer)
-        if (commit !== null) done.push(commit)
+        if (commit !== null) {
+          if (noting !== null) noting.commit = commit
+          done.push(`commit ${commit}`)
+        }
         const held = asideFrom(root, split.uncommitted)
         const aside = asideOnto(root, [...held])
         try {

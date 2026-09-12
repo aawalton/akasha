@@ -24,6 +24,7 @@ import {
   LINE,
   landedAtHead,
   landedMoving,
+  landedNoting,
   NUL,
   pageLanded,
   pagesRepo,
@@ -212,20 +213,21 @@ test("a change that takes a file away removes it and commits the removal", async
   expect(filesIn(root)).toEqual(besides("one.txt"))
 })
 
-test("a landing names the commit it landed on a list the caller hands in", async () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const done: string[] = []
-  const rows = rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }])
-  const said = await landing(root, rows, "held", ADMITS, null, null, [], null, null, done)
-  expect("refusals" in said ? null : said.commit).toBe(done[0] ?? null)
-  expect(done.length).toBe(1)
+test("a landing names the commit it landed in a slot the caller hands in", async () => {
+  const said = await landedNoting(true)
+  expect(said.commit).toBe(said.noting.commit)
+  expect(said.noting.commit).not.toBeNull()
 })
 
-test("a landing that committed nothing names nothing on that list", async () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const done: string[] = []
-  await landing(root, [], "held", ADMITS, null, null, [], null, null, done)
-  expect(done).toEqual([])
+test("a landing names that commit on the caller's list as prose, not as a bare token", async () => {
+  const said = await landedNoting(true)
+  expect(said.done).toEqual([`commit ${said.noting.commit}`])
+})
+
+test("a landing that committed nothing names nothing on that list or in that slot", async () => {
+  const said = await landedNoting(false)
+  expect(said.done).toEqual([])
+  expect(said.noting.commit).toBeNull()
 })
 
 test("asking for nothing is done rather than refused, and writes and commits nothing", async () => {

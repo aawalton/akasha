@@ -306,6 +306,10 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit such a refusal names is read from a slot rather than off a list.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key an apply does not take is refused rather than passed over.",
     },
   ],

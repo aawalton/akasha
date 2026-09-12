@@ -27,7 +27,11 @@ import {
   gateBuilt,
   NO_GATE,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import { landing, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import {
+  type Committing,
+  landing,
+  type Refused,
+} from "akasha/commands/modules/landing/landing.module.code.ts"
 import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
 import {
   commitSaid,
@@ -123,9 +127,8 @@ function landedAs(answer: Answer): Applying {
   return { ...answer, landed: true }
 }
 
-function stoppedBy(done: readonly string[], thrown: unknown): readonly string[] {
-  const commit = done[0]
-  if (commit === undefined) return [`${NOTHING_COMMITTED} ${whyOf(thrown)}`]
+function stoppedBy(commit: string | null, thrown: unknown): readonly string[] {
+  if (commit === null) return [`${NOTHING_COMMITTED} ${whyOf(thrown)}`]
   return [`${AFTER_COMMIT} ${whyOf(thrown)}`, `${commit} ${IN_GIT}`]
 }
 
@@ -190,7 +193,7 @@ export async function applying(
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   if (asked.measure) process.env[MEASURING] = MARK
-  const done: string[] = []
+  const noting: Committing = { commit: null }
   try {
     const said = await applied(
       given.root,
@@ -201,7 +204,8 @@ export async function applying(
       [],
       carried,
       null,
-      done
+      [],
+      noting
     )
     if ("refusals" in said) {
       return notLanded(answeredWith([...(said.said ?? [])], keeping(said.refusals), said.code))
@@ -220,8 +224,8 @@ export async function applying(
       )
     )
   } catch (thrown) {
-    const stopped = refusedBy(keeping(stoppedBy(done, thrown)), OPERATIONAL)
-    return done.length === 0 ? notLanded(stopped) : landedAs(stopped)
+    const stopped = refusedBy(keeping(stoppedBy(noting.commit, thrown)), OPERATIONAL)
+    return noting.commit === null ? notLanded(stopped) : landedAs(stopped)
   } finally {
     delete process.env[MEASURING]
   }
@@ -313,7 +317,8 @@ export async function applied(
   moves: readonly FileMove[] = [],
   carried: Carried | null = null,
   read: string | null = null,
-  done: string[] = []
+  done: string[] = [],
+  noting: Committing | null = null
 ): Promise<Applied | Refused> {
   if (carried === null) return { refusals: [NOTHING_HELD], code: INPUT }
   const holding = carried
@@ -340,7 +345,8 @@ export async function applied(
       asRead,
       null,
       prepared.over,
-      done
+      done,
+      noting
     )
   )
   if ("refusals" in ended) {

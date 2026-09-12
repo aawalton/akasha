@@ -244,11 +244,16 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing names the commit that landing landed on a list the caller hands in.",
+      statement: "A landing names the commit that landing landed in a slot the caller hands in.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing that committed nothing names nothing on that list.",
+      statement:
+        "A landing names that commit on the caller's list as prose rather than as a bare token.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that committed nothing names nothing on that list or in that slot.",
     },
     {
       invariantKind: "departure",
