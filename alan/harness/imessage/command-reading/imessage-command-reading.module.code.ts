@@ -1,5 +1,3 @@
-import { readFileSync } from "node:fs"
-import { resolve } from "node:path"
 import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import type { Contact } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import {
@@ -14,10 +12,7 @@ import {
   singleLine,
 } from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
 import { asJson, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Filing } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const JSON_SAID = "--json"
@@ -25,10 +20,6 @@ export const JSON_SAID = "--json"
 export const CONTACT_SAID = "--contact"
 
 export const LIMIT_SAID = "--limit"
-
-export const PIPED_SAID = "-"
-
-const TRAILING_LINES = /(?:\r?\n)+$/
 
 const SENT = "→"
 
@@ -107,37 +98,6 @@ export function countRefused(value: number | undefined, flag: string): readonly 
     return [`\`${flag}\` was said a number past the largest one that can be read`]
   }
   return []
-}
-
-export type Prose = { readonly text: string | undefined } | { readonly refused: readonly string[] }
-
-export function proseIn(given: Given, said: Said, one: Filing, piping: Piping = inputIn): Prose {
-  const inline = said.named[one.said]
-  const path = said.named[one.file]
-  if (inline !== undefined && path !== undefined) {
-    return {
-      refused: [
-        `\`${one.said}\` and \`${one.file}\` both say what to send, and one way at a time is the way`,
-      ],
-    }
-  }
-  if (inline !== undefined) return { text: inline }
-  if (path === undefined) return { text: undefined }
-  if (path === PIPED_SAID) {
-    const held = piping()
-    if ("tty" in held) {
-      return { refused: [`\`${one.file} -\` names the input, and nothing is piped in`] }
-    }
-    if ("unreadable" in held) {
-      return { refused: [`the input would not open — ${held.unreadable}`] }
-    }
-    return { text: new TextDecoder().decode(held.bytes).replace(TRAILING_LINES, "") }
-  }
-  try {
-    return { text: readFileSync(resolve(given.root, path), "utf8").replace(TRAILING_LINES, "") }
-  } catch (thrown) {
-    return { refused: [`\`${one.file} ${path}\` would not open — ${whyOf(thrown)}`] }
-  }
 }
 
 export function namingIn(contacts: readonly Contact[]): NameFor {

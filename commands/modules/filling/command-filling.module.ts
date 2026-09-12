@@ -4,7 +4,7 @@ export const commandFilling = {
   id: "01a07c81-8c23-70b6-81d9-34ffaac1e749",
   type: "module",
   slug: "command-filling",
-  definition: "what a command was told at a flag or as a bare word, and the file a flag names",
+  definition: "what a command was told at a flag, as a bare word, or in the file a flag names",
   code: "ts",
   test: "ts",
   invariants: [
@@ -22,8 +22,29 @@ export const commandFilling = {
         "A flag holding prose is answered by a second flag naming the file that prose sits in.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here opens the file that second flag names.",
+      invariantKind: "departure",
+      statement: "A value said at its flag and at its file at once is the caller's mistake.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file named `-` is the input.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path that is not absolute is read against the root handed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value read whole keeps the line endings at its end, and any other value loses them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a value is read whole belongs to the filing rather than to the reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that would not open is answered as a refusal rather than thrown.",
     },
   ],
 } as const satisfies Module

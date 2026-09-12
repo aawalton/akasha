@@ -6,7 +6,6 @@ import {
   LIMIT_SAID,
   messagesAnswered,
   namingIn,
-  proseIn,
   type Reading,
   wordsIn,
 } from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
@@ -20,7 +19,11 @@ import {
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { filing, wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import {
+  filing,
+  proseIn,
+  wordFilling,
+} from "akasha/commands/modules/filling/command-filling.module.code.ts"
 
 const QUERY = filing("--query")
 
@@ -47,7 +50,7 @@ export function readIn(argv: readonly string[], given: Given): Reading<Read> {
   const refusals: string[] = []
   const word = wordFilling(said, QUERY.said, WANTS)
   if (typeof word === "object") refusals.push(...word.refused)
-  const filed = proseIn(given, said, QUERY)
+  const filed = proseIn(given.root, said.named, QUERY)
   if ("refused" in filed) refusals.push(...filed.refused)
   if (said.loose.length > 0 && said.named[QUERY.file] !== undefined) {
     refusals.push(

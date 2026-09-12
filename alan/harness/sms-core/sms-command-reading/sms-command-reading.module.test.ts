@@ -1,24 +1,14 @@
 import { describe, expect, test } from "bun:test"
 import {
   JSON_SAID,
-  proseIn,
   wordsIn,
 } from "akasha/alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const TEXT = { said: "--text", file: "--text-file" }
 
 const VALUED = ["--to", TEXT.said, TEXT.file]
 
 const SWITCHES = [JSON_SAID]
-
-const GIVEN: Given = {
-  root: "/",
-  calledAs: "sms send",
-  from: "/",
-  writer: null,
-  agentId: null,
-}
 
 function said(argv: readonly string[]) {
   const read = wordsIn(argv, VALUED, SWITCHES)
@@ -40,25 +30,5 @@ describe("wordsIn", () => {
 
   test("refuses a flag whose value is another flag it takes", () => {
     expect("refused" in wordsIn(["--to", TEXT.said], VALUED, SWITCHES)).toBe(true)
-  })
-})
-
-describe("proseIn", () => {
-  test("takes the body said at its flag", () => {
-    expect(proseIn(GIVEN, said([TEXT.said, "hello"]), TEXT)).toEqual({ text: "hello" })
-  })
-
-  test("answers nothing where neither way was said", () => {
-    expect(proseIn(GIVEN, said([]), TEXT)).toEqual({ text: undefined })
-  })
-
-  test("refuses the body said both ways", () => {
-    const read = said([TEXT.said, "hello", TEXT.file, "./body.md"])
-    expect("refused" in proseIn(GIVEN, read, TEXT)).toBe(true)
-  })
-
-  test("refuses a file that will not open", () => {
-    const read = said([TEXT.file, "/nowhere/at/all/body.md"])
-    expect("refused" in proseIn(GIVEN, read, TEXT)).toBe(true)
   })
 })

@@ -1,4 +1,3 @@
-import { readFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import { buildComposeInput } from "akasha/alan/google/email/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
@@ -8,7 +7,10 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import {
+  type Filing,
+  proseIn,
+} from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -42,14 +44,6 @@ export const REPLY_TO = "--reply-to-message"
 export const FROM = "--from"
 
 const WHOLE_NUMBER = /^\d+$/
-
-const TRAILING_LINES = /(?:\r?\n)+$/
-
-export type Filing = {
-  readonly said: string
-  readonly file: string
-  readonly whole: boolean
-}
 
 export type Taking = {
   readonly valued: readonly string[]
@@ -198,36 +192,6 @@ export async function answeredBy(run: (done: string[]) => Promise<Answer>): Prom
   return await answering(run)
 }
 
-type Held = { readonly text: string } | { readonly why: string }
-
-function heldAt(root: string, path: string, whole: boolean, piping: Piping): Held {
-  if (path === INPUT_MARK) {
-    const input = piping()
-    if ("tty" in input) return { why: "`-` names the input, and nothing is piped in" }
-    if ("unreadable" in input) return { why: `the input would not open — ${input.unreadable}` }
-    const said = new TextDecoder().decode(input.bytes)
-    return { text: whole ? said : said.replace(TRAILING_LINES, "") }
-  }
-  try {
-    const said = readFileSync(pathAt(root, path), "utf8")
-    return { text: whole ? said : said.replace(TRAILING_LINES, "") }
-  } catch (thrown) {
-    return { why: `${path} would not open — ${whyOf(thrown)}` }
-  }
-}
-
-export type Prose = { readonly said: string | undefined } | { readonly why: string }
-
-export function proseIn(given: Given, said: Said, filing: Filing, piping: Piping = inputIn): Prose {
-  const inline = said.one[filing.said]
-  if (inline !== undefined) return { said: inline }
-  const path = said.one[filing.file]
-  if (path === undefined) return { said: undefined }
-  const held = heldAt(resolve(given.root), path, filing.whole, piping)
-  if ("why" in held) return { why: `\`${filing.file} ${path}\` — ${held.why}` }
-  return { said: held.text }
-}
-
 export type Composed = { readonly input: ComposeInput } | { readonly why: string }
 
 export async function composedIn(
@@ -235,20 +199,20 @@ export async function composedIn(
   said: Said,
   piping: Piping = inputIn
 ): Promise<Composed> {
-  const subject = proseIn(given, said, SUBJECT_FILING, piping)
-  if ("why" in subject) return { why: subject.why }
-  const body = proseIn(given, said, BODY_FILING, piping)
-  if ("why" in body) return { why: body.why }
-  if (subject.said === undefined || body.said === undefined) {
+  const root = resolve(given.root)
+  const subject = proseIn(root, said.one, SUBJECT_FILING, piping)
+  if ("refused" in subject) return { why: subject.refused.join(" | ") }
+  const body = proseIn(root, said.one, BODY_FILING, piping)
+  if ("refused" in body) return { why: body.refused.join(" | ") }
+  if (subject.text === undefined || body.text === undefined) {
     return { why: `a composition names both \`${SUBJECT}\` and \`${BODY}\`` }
   }
-  const root = resolve(given.root)
   const input = await buildComposeInput({
     to: said.many[TO] ?? [],
     cc: said.many[CC] ?? [],
     bcc: said.many[BCC] ?? [],
-    subject: subject.said,
-    body: body.said,
+    subject: subject.text,
+    body: body.text,
     thread: said.one[THREAD],
     replyToMessage: said.one[REPLY_TO],
     from: said.one[FROM],

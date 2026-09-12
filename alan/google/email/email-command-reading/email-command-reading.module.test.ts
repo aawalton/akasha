@@ -8,7 +8,6 @@ import {
   COMPOSING,
   MAX,
   MESSAGE,
-  proseIn,
   readTaking,
   SUBJECT_FILING,
   type Taking,
@@ -21,7 +20,8 @@ import {
   DATA,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { proseIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const WENT = "gmail sent the message to one@example.com, and sending cannot be undone"
@@ -88,12 +88,6 @@ afterAll(scratch.sweep)
 function rootAt(): string {
   return scratch.rootFor("email-command-reading-")
 }
-
-function givenAt(root: string): Given {
-  return { root, calledAs: "akasha email message send", from: root, writer: null, agentId: null }
-}
-
-const TTY = () => ({ tty: true }) as const
 
 test("a word alone fills the flag the command names for it", () => {
   expect(readTaking(["18c1f2a3"], NAMING)).toEqual({ one: { [MESSAGE]: "18c1f2a3" }, many: {} })
@@ -184,31 +178,17 @@ test("every refusal a call earns is gathered rather than the first alone", () =>
   expect("refused" in held ? held.refused.length : 0).toBe(3)
 })
 
-test("a line read from a file loses its line ending and a whole body keeps it", () => {
+test("a subject read from a file loses its line ending and a whole body keeps it", () => {
   const root = rootAt()
   writeFileSync(join(root, "subject.txt"), "Hello\n")
   writeFileSync(join(root, "body.md"), "Line one\n\n")
-  const said = { one: { "--subject-file": "subject.txt", "--body-file": "body.md" }, many: {} }
-  expect(proseIn(givenAt(root), said, SUBJECT_FILING, TTY)).toEqual({ said: "Hello" })
-  expect(proseIn(givenAt(root), said, BODY_FILING, TTY)).toEqual({ said: "Line one\n\n" })
+  const said = { "--subject-file": "subject.txt", "--body-file": "body.md" }
+  expect(proseIn(root, said, SUBJECT_FILING, TERMINAL)).toEqual({ text: "Hello" })
+  expect(proseIn(root, said, BODY_FILING, TERMINAL)).toEqual({ text: "Line one\n\n" })
 })
 
 test("text said at its flag is taken without the file being reached for", () => {
-  const root = rootAt()
-  const said = { one: { "--subject": "Said inline" }, many: {} }
-  expect(proseIn(givenAt(root), said, SUBJECT_FILING, TTY)).toEqual({ said: "Said inline" })
-})
-
-test("a file that is not there answers with why rather than throwing", () => {
-  const root = rootAt()
-  const said = { one: { "--body-file": "gone.md" }, many: {} }
-  const held = proseIn(givenAt(root), said, BODY_FILING, TTY)
-  expect("why" in held ? held.why : "").toContain("would not open")
-})
-
-test("a terminal at `-` is nothing piped in", () => {
-  const root = rootAt()
-  const said = { one: { "--body-file": "-" }, many: {} }
-  const held = proseIn(givenAt(root), said, BODY_FILING, TTY)
-  expect("why" in held ? held.why : "").toContain("nothing is piped in")
+  expect(proseIn(rootAt(), { "--subject": "Said inline" }, SUBJECT_FILING, TERMINAL)).toEqual({
+    text: "Said inline",
+  })
 })

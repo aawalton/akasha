@@ -31,27 +31,11 @@ export const smsCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Text is said at its flag or read from a file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Text said both ways is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file named `-` is the input.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path that is not absolute is read against the repository root.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A surface is carried whole and a body loses its closing line endings.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every refusal a call earns is gathered rather than the first alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here opens a file.",
     },
     {
       invariantKind: "absence",

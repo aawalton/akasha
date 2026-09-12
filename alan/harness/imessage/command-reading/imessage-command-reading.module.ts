@@ -35,22 +35,6 @@ export const imessageCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Text is said at its flag or read from a file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Text said both ways is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file named `-` is the input.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path that is not absolute is read against the repository root.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every refusal a call earns is gathered rather than the first alone.",
     },
     {
@@ -60,6 +44,10 @@ export const imessageCommandReading = {
     {
       invariantKind: "departure",
       statement: "A message Alan sent carries an arrow away from Alan.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here opens a file.",
     },
     {
       invariantKind: "absence",

@@ -3,7 +3,6 @@ import { basename, resolve } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   JSON_SAID,
-  proseIn,
   type Reading,
   wordsIn,
 } from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
@@ -29,7 +28,11 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { filing, wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import {
+  filing,
+  proseIn,
+  wordFilling,
+} from "akasha/commands/modules/filling/command-filling.module.code.ts"
 
 const TO = "--to"
 
@@ -59,7 +62,7 @@ export function readIn(argv: readonly string[], given: Given): Reading<Read> {
   const to = wordFilling(said, TO, WANTS)
   if (typeof to === "object") refusals.push(...to.refused)
   else if (to === undefined) refusals.push(`this names ${WANTS}, and nothing did`)
-  const body = proseIn(given, said, TEXT)
+  const body = proseIn(given.root, said.named, TEXT)
   if ("refused" in body) refusals.push(...body.refused)
   const image = said.named[IMAGE]
   const text = "refused" in body ? undefined : body.text
