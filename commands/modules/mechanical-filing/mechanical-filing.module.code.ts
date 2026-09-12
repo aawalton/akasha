@@ -4,6 +4,7 @@ import {
   MECHANICAL_KIND,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   answering,
@@ -16,8 +17,6 @@ import type { Piping } from "akasha/commands/modules/piping/piping.module.code.t
 const PUT = "change-mechanical/add-file-of-any-kind"
 
 const TAKE = "change-mechanical-file/remove-file"
-
-const WRONG = 3
 
 export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   const asked: Asking[] = []
@@ -47,11 +46,11 @@ export async function filing(
   const built = builtIn(argv, given, piping, MECHANICAL_KIND)
   if ("code" in built) return built
   const landed = await landing(given.root, askedFor(built.changes), built.message)
-  if ("refusals" in landed) return answering([...(landed.said ?? [])], landed.refusals, WRONG)
+  if ("refusals" in landed) return answering([...(landed.said ?? [])], landed.refusals, OPERATIONAL)
   const wrote = [
     ...landed.landed.map((one) => `landed ${one}`),
     ...landed.said,
     commitSaid(landed.commit, landed.untracked ?? []),
   ]
-  return answering(wrote, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
+  return answering(wrote, landed.wrong, landed.wrong.length === 0 ? 0 : OPERATIONAL)
 }
