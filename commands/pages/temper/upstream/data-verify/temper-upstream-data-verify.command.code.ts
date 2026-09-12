@@ -1,5 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { library as libraryArgument } from "akasha/commands/arguments/pages/library.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -7,7 +9,9 @@ import {
   OPERATIONAL,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperUpstreamDataVerify as page } from "akasha/commands/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { verifyHousing } from "akasha/temper/upstream-data/housing-upstream-verify/housing-upstream-verify.module.code.ts"
 import { verifyMapData } from "akasha/temper/upstream-data/map-data-upstream-verify/map-data-upstream-verify.module.code.ts"
@@ -43,13 +47,19 @@ function whereUpstreamIs(): { readonly addons: string } | { readonly why: string
   }
 }
 
-export async function temperUpstreamDataVerify(argv: readonly string[] = []): Promise<Answer> {
-  const said = argv[0]
+const NAMED = [libraryArgument]
+
+export async function temperUpstreamDataVerify(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const taking = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in taking) return mistaking(taking.refused)
+  const said = taking.taken.library
   const library = libraryNamed(said)
   if (library === undefined) {
     return refused(
-      `${said === undefined ? "no library was named" : `\`${said}\` is no upstream library this rules on`}` +
-        ` — name one of: ${UPSTREAM_LIBRARIES.join(", ")}`,
+      `\`${said}\` is no upstream library this rules on — name one of: ${UPSTREAM_LIBRARIES.join(", ")}`,
       DATA
     )
   }
