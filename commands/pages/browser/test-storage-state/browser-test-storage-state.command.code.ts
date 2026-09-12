@@ -10,26 +10,20 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "akasha/alan/harness/supabase-server/throwaway-user/throwaway-user.module.code.ts"
-import { wordsIn } from "akasha/code/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
 import { readBrowserTestEnv } from "akasha/code/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/harness-launch/harness-launch.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { signInPath as signInPathArgument } from "akasha/commands/arguments/pages/sign-in-path.argument.ts"
+import { url as urlArgument } from "akasha/commands/arguments/pages/url.argument.ts"
 import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { browserTestStorageState as page } from "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.ts"
 import { playwrightStorageStatePath } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
-
-const URL_SAID = "--url"
-
-const SIGN_IN_PATH = "--sign-in-path"
-
-const OUTPUT = "--output"
-
-const VALUED: readonly string[] = [URL_SAID, SIGN_IN_PATH, OUTPUT]
-
-const NO_SWITCH: readonly string[] = []
 
 const DEFAULT_SIGN_IN = "/sign-in"
 
@@ -88,12 +82,13 @@ export async function exportBrowserTestStorageState(
   }
   assertCredentialPathAllowed({ resolvedUserId: signIn.user.id })
 
-  const { browser, context, page } = await launchAndSignIn(
-    { url, email: env.email, password: env.password },
-    signInPath
-  )
+  const {
+    browser,
+    context,
+    page: tab,
+  } = await launchAndSignIn({ url, email: env.email, password: env.password }, signInPath)
   try {
-    done.push(`signed in at ${page.url()}`)
+    done.push(`signed in at ${tab.url()}`)
     mkdirSync(dirname(output), { recursive: true })
     await context.storageState({ path: output })
     done.push(`wrote the storage state to ${output}`)
@@ -117,12 +112,19 @@ export async function exportedBy(
   return await answering(async (done) => await exporting(done, asked))
 }
 
-export async function browserTestStorageState(argv: readonly string[]): Promise<Answer> {
-  const said = wordsIn(argv, VALUED, NO_SWITCH)
-  if ("refused" in said) return refusedBy(said.refused)
+export async function browserTestStorageState(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [
+    outputArgument,
+    signInPathArgument,
+    urlArgument,
+  ])
+  if ("refused" in read) return refusedBy(read.refused)
   return await exportedBy({
-    url: said.named[URL_SAID],
-    signInPath: said.named[SIGN_IN_PATH],
-    output: said.named[OUTPUT],
+    url: read.taken.url,
+    signInPath: read.taken.signInPath,
+    output: read.taken.output,
   })
 }
