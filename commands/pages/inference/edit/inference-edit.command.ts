@@ -52,6 +52,10 @@ export const inferenceEdit = {
     { argument: "argument/aspect-ratio" },
     { argument: "argument/prompt-file" },
     { argument: "argument/image", required: true, repeats: true },
-    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
+    {
+      argument: "argument/render-prompt",
+      notWith: ["argument/prompt-file"],
+      oneOf: ["argument/prompt-file"],
+    },
   ],
 } as const satisfies Command
