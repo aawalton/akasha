@@ -1,47 +1,28 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { addonName } from "akasha/commands/arguments/pages/addon-name.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperAddonResolve as page } from "akasha/commands/pages/temper/addon/resolve/temper-addon-resolve.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   listAllAddons,
   resolveAddon,
 } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 
-const ROOT_FLAG = "--code-root"
-
-const TAKES_A_VALUE = [ROOT_FLAG]
-
-const FLAG_MARK = "--"
+const NAMED = [codeRootArgument, addonName]
 
 const SPACES = 2
 
-function namesIn(argv: readonly string[]): readonly string[] {
-  const found: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (TAKES_A_VALUE.includes(one)) {
-      at += 1
-      continue
-    }
-    if (one.startsWith(FLAG_MARK)) continue
-    found.push(one)
-  }
-  return found
-}
-
-export function temperAddonResolve(argv: readonly string[] = []): Answer {
-  const root = resolve(valuesOf(argv, ROOT_FLAG)[0] ?? codeRoot())
-
-  const name = namesIn(argv)[0]
-  if (name === undefined) {
-    return refused(
-      "nothing here names the addon resolved, so there is no name to reach one by",
-      DATA
-    )
-  }
+export function temperAddonResolve(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const root = resolve(taken.codeRoot ?? codeRoot())
+  const name = taken.addonName
 
   const reached = resolveAddon(name, { repoRoot: root })
   const match = listAllAddons({ repoRoot: root }).find(

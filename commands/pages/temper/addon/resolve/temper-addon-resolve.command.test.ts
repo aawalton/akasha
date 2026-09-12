@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperAddonResolve } from "akasha/commands/pages/temper/addon/resolve/temper-addon-resolve.command.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { manifestFor } from "akasha/temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
@@ -9,6 +10,14 @@ import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
+
+const GIVEN: Given = {
+  root: ".",
+  calledAs: "akasha temper addon resolve",
+  from: ".",
+  writer: null,
+  agentId: null,
+}
 
 const NESTED = "TemperNested"
 const NESTED_LEAF = "temper-nested-addon"
@@ -33,7 +42,7 @@ function fixtureFor(): string {
 }
 
 function reached(root: string, name: string): { canonicalName: string; dir: string } {
-  const said = temperAddonResolve([name, "--code-root", root])
+  const said = temperAddonResolve([name, "--code-root", root], GIVEN)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   return JSON.parse(said.report.join("\n")) as { canonicalName: string; dir: string }
@@ -56,7 +65,7 @@ test("the parent domain reaches the same addon the canonical name does", () => {
 
 test("a name reaching no addon is refused by that name rather than answered", () => {
   const root = fixtureFor()
-  const said = temperAddonResolve(["NotAnAddonHere", "--code-root", root])
+  const said = temperAddonResolve(["NotAnAddonHere", "--code-root", root], GIVEN)
   expect(said.code).not.toBe(0)
   expect(said.refusals.join("\n")).toContain("NotAnAddonHere")
   expect(said.refusals.join("\n")).toContain("reaches no addon")
@@ -64,9 +73,30 @@ test("a name reaching no addon is refused by that name rather than answered", ()
 
 test("naming no addon at all is refused", () => {
   const root = fixtureFor()
-  const said = temperAddonResolve(["--code-root", root])
+  const said = temperAddonResolve(["--code-root", root], GIVEN)
   expect(said.code).not.toBe(0)
-  expect(said.refusals.join("\n")).toContain("names the addon resolved")
+  expect(said.refusals.join("\n")).toContain("takes `<name>`, and nothing said it")
+})
+
+test("two names in one call are refused rather than the first one resolved", () => {
+  const root = fixtureFor()
+  const said = temperAddonResolve([NESTED, NESTED_LEAF, "--code-root", root], GIVEN)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("takes 1 word and this call says 2")
+})
+
+test("a word opening with one dash is read as the name rather than passed over", () => {
+  const root = fixtureFor()
+  const said = temperAddonResolve(["-x", "--code-root", root], GIVEN)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("-x reaches no addon")
+})
+
+test("a flag this takes no argument for is refused rather than passed over", () => {
+  const root = fixtureFor()
+  const said = temperAddonResolve([NESTED, "--code-root", root, "--json"], GIVEN)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--json` is no argument")
 })
 
 test("the checkout named is the one resolved in", () => {
