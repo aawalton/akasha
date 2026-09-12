@@ -17,11 +17,11 @@ const FORCE_FLAG = "--force"
 
 const ADDONS_DIR_FLAG = "--addons-dir"
 
-const REPO_ROOT_FLAG = "--repo-root"
+const CODE_ROOT_FLAG = "--code-root"
 
 const JSON_FLAG = "--json"
 
-const TAKING_A_VALUE = [ADDONS_DIR_FLAG, REPO_ROOT_FLAG]
+const TAKING_A_VALUE = [ADDONS_DIR_FLAG, CODE_ROOT_FLAG]
 
 const SPACES = 2
 
@@ -42,7 +42,7 @@ export async function temperCommunityAddonInstall(argv: readonly string[] = []):
 
   const name = names[0] as string
   const addonsPath = valuesOf(argv, ADDONS_DIR_FLAG)[0] ?? addonsDir()
-  const repoRoot = valuesOf(argv, REPO_ROOT_FLAG)[0]
+  const repoRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
 
   let outcome: Awaited<ReturnType<typeof installNamedAddon>>
   try {

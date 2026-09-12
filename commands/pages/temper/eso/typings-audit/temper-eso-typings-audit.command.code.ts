@@ -25,14 +25,14 @@ const SUBJECT = "clone-derived ESO artifacts stamped behind the ~/esoui clone"
 
 const MAX_REPORTED = 20
 
-const REPO_ROOT_FLAG = "--repo-root"
+const CODE_ROOT_FLAG = "--code-root"
 
 const ESO_DOC_FLAG = "--eso-doc"
 
 const JSON_FLAG = "--json"
 
 export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
-  const namedRepo = saidFor(argv, REPO_ROOT_FLAG)
+  const namedRepo = saidFor(argv, CODE_ROOT_FLAG)
   const givenRepo = namedRepo === undefined ? codeRoot() : resolve(namedRepo)
   let repoRoot: string
   try {

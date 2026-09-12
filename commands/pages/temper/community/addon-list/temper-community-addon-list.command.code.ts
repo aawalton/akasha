@@ -17,7 +17,7 @@ const OUTDATED_FLAG = "--outdated"
 
 const ADDONS_DIR_FLAG = "--addons-dir"
 
-const REPO_ROOT_FLAG = "--repo-root"
+const CODE_ROOT_FLAG = "--code-root"
 
 const JSON_FLAG = "--json"
 
@@ -44,7 +44,7 @@ function countLine(counts: Record<PlannedAddon["status"], number>): string {
 
 export async function temperCommunityAddonList(argv: readonly string[] = []): Promise<Answer> {
   const addonsPath = valuesOf(argv, ADDONS_DIR_FLAG)[0] ?? addonsDir()
-  const repoRoot = valuesOf(argv, REPO_ROOT_FLAG)[0]
+  const repoRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
 
   let plan: ReturnType<typeof planUpdates>
   try {

@@ -10,7 +10,7 @@ export const temperEsoTypingsAudit = {
   changeKind: "change-none",
   taking: [
     {
-      said: "--repo-root <path>",
+      said: "--code-root <path>",
       takes: "the checkout the committed artifacts are read from",
     },
     {

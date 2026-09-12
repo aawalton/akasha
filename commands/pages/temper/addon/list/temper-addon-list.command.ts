@@ -13,7 +13,7 @@ export const temperAddonList = {
       said: "--json",
       takes: "give one record per addon as JSON rather than as tab-separated rows",
     },
-    { said: "--repo-root <path>", takes: "the checkout the addons are discovered in" },
+    { said: "--code-root <path>", takes: "the checkout the addons are discovered in" },
   ],
   helpNotes: [
     "both the flat layout and the nested layout are discovered.",

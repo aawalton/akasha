@@ -12,7 +12,7 @@ export const temperAddonGlobalNameDependents = {
     { said: "<global>", takes: "the global name dependents are enumerated for" },
     { said: "--global <name>", takes: "the global name dependents are enumerated for" },
     { said: "--json", takes: "give one report per line as JSON rather than as prose" },
-    { said: "--repo-root <path>", takes: "the checkout scanned" },
+    { said: "--code-root <path>", takes: "the checkout scanned" },
   ],
   helpNotes: [
     "naming no global reports every global an addon writes that a menu entry is bound to.",

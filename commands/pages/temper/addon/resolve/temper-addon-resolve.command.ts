@@ -13,7 +13,7 @@ export const temperAddonResolve = {
       said: "<name>",
       takes: "the canonical name, flat directory leaf or nested parent domain to resolve",
     },
-    { said: "--repo-root <path>", takes: "the checkout the addons are discovered in" },
+    { said: "--code-root <path>", takes: "the checkout the addons are discovered in" },
   ],
   helpNotes: [
     "a canonical name, a flat directory leaf and a nested parent domain all reach the same addon.",

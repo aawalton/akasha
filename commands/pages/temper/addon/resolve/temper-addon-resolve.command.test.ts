@@ -33,7 +33,7 @@ function fixtureFor(): string {
 }
 
 function reached(root: string, name: string): { canonicalName: string; dir: string } {
-  const said = temperAddonResolve([name, "--repo-root", root])
+  const said = temperAddonResolve([name, "--code-root", root])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   return JSON.parse(said.report.join("\n")) as { canonicalName: string; dir: string }
@@ -56,7 +56,7 @@ test("the parent domain reaches the same addon the canonical name does", () => {
 
 test("a name reaching no addon is refused by that name rather than answered", () => {
   const root = fixtureFor()
-  const said = temperAddonResolve(["NotAnAddonHere", "--repo-root", root])
+  const said = temperAddonResolve(["NotAnAddonHere", "--code-root", root])
   expect(said.code).not.toBe(0)
   expect(said.refusals.join("\n")).toContain("NotAnAddonHere")
   expect(said.refusals.join("\n")).toContain("reaches no addon")
@@ -64,7 +64,7 @@ test("a name reaching no addon is refused by that name rather than answered", ()
 
 test("naming no addon at all is refused", () => {
   const root = fixtureFor()
-  const said = temperAddonResolve(["--repo-root", root])
+  const said = temperAddonResolve(["--code-root", root])
   expect(said.code).not.toBe(0)
   expect(said.refusals.join("\n")).toContain("names the addon resolved")
 })

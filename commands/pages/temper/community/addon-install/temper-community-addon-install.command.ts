@@ -11,7 +11,7 @@ export const temperCommunityAddonInstall = {
     { said: "<name>", takes: "the community addon's name, or one of the folder names it installs" },
     { said: "--force", takes: "install again even where the target folders are already present" },
     { said: "--addons-dir <path>", takes: "the game's addon directory installed into" },
-    { said: "--repo-root <path>", takes: "the checkout the deploy-owned roster is read from" },
+    { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
     { said: "--json", takes: "give the outcome as JSON rather than as a tab-separated line" },
   ],
   helpNotes: [

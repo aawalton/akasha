@@ -15,7 +15,7 @@ export const temperCommunityAddonUpdate = {
       takes: "download and install every matched addon rather than only the outdated ones",
     },
     { said: "--addons-dir <path>", takes: "the game's addon directory read and written" },
-    { said: "--repo-root <path>", takes: "the checkout the deploy-owned roster is read from" },
+    { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
     { said: "--json", takes: "give the outcome as JSON rather than as tab-separated rows" },
   ],
   helpNotes: [

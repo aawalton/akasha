@@ -10,7 +10,7 @@ import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-
 
 const DATA = 2
 
-const ROOT_FLAG = "--repo-root"
+const ROOT_FLAG = "--code-root"
 
 const TAKES_A_VALUE = [ROOT_FLAG]
 

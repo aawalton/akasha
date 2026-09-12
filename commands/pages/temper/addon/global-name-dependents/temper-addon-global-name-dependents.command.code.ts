@@ -21,11 +21,11 @@ const DATA = 2
 
 const GLOBAL_FLAG = "--global"
 
-const REPO_ROOT_FLAG = "--repo-root"
+const CODE_ROOT_FLAG = "--code-root"
 
 const JSON_FLAG = "--json"
 
-const TAKING_A_VALUE = [GLOBAL_FLAG, REPO_ROOT_FLAG]
+const TAKING_A_VALUE = [GLOBAL_FLAG, CODE_ROOT_FLAG]
 
 const PASSED_OVER = ["node_modules", "dist", "generated"]
 
@@ -127,7 +127,7 @@ function linesFor(report: GlobalDependentReport): readonly string[] {
 }
 
 export function temperAddonGlobalNameDependents(argv: readonly string[] = []): Answer {
-  const root = resolve(valuesOf(argv, REPO_ROOT_FLAG)[0] ?? codeRoot())
+  const root = resolve(valuesOf(argv, CODE_ROOT_FLAG)[0] ?? codeRoot())
   const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv, TAKING_A_VALUE)[0]
 
   const addons = listAllAddons({ repoRoot: root })

@@ -28,7 +28,7 @@ const FORCE_FLAG = "--force"
 
 const ADDONS_DIR_FLAG = "--addons-dir"
 
-const REPO_ROOT_FLAG = "--repo-root"
+const CODE_ROOT_FLAG = "--code-root"
 
 const JSON_FLAG = "--json"
 
@@ -94,7 +94,7 @@ function lineOf(one: Outcome): string {
 
 export async function temperCommunityAddonUpdate(argv: readonly string[] = []): Promise<Answer> {
   const addonsPath = valuesOf(argv, ADDONS_DIR_FLAG)[0] ?? addonsDir()
-  const repoRoot = valuesOf(argv, REPO_ROOT_FLAG)[0]
+  const repoRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
   const only = valuesOf(argv, ONLY_FLAG)
 
   let plan: ReturnType<typeof planUpdates>
