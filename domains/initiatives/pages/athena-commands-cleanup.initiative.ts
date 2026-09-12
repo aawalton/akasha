@@ -21,7 +21,6 @@ export const athenaCommandsCleanup = {
     "A change is judged before the hold is taken, so a landing over hundreds of files costs collision surface rather than a hold on the swarm.",
     "A check blind to a class of file steers the swarm away from that class rather than leaving it undone, because agents work the refusals they can see.",
     "A namespace whose survey shows one or two stragglers usually holds a shared reader the survey cannot see, and the straggler is bait.",
-    "A module exporting flag constants puts those literals in every importer's reach, so a diff of reachable flags against a page is a worklist rather than findings.",
     "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
     "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
     "A large mechanical landing arrives by holding fewer paths and putting fewer commands between draft and apply, rather than by waiting for the swarm to go quiet.",
@@ -37,5 +36,6 @@ export const athenaCommandsCleanup = {
     "An intent met is taken off its initiative as soon as the meeting is found, rather than left standing with working memory saying it is done.",
     "A name carrying meaning the builder's name does not is no alias, however exactly its body reduces to that builder.",
     "A census of a symbol greps the bare identifier or runs multiline, and an import with no call to justify it is the cheaper census, because a call spelled over four lines is invisible to one line.",
+    "An invariant with a test named after its own words does not rot, and an invariant with no test is true only on the day it was written.",
   ],
 } as const satisfies Initiative
