@@ -1,6 +1,7 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   type Apps,
+  CONTAINER_RECIPE,
   IOS_APP,
   type IosApps,
   type Kind,
@@ -24,6 +25,8 @@ const COOLDOWN = "cooldownSeconds"
 const AFTER = "deploysAfter"
 
 const SLUG = "slug"
+
+const REPOSITORY = "repository"
 
 export type Subject = {
   readonly kind: Kind
@@ -49,6 +52,11 @@ export function bySlug(every: readonly Subject[]): readonly Subject[] {
 
 export function kindedElsewhere(kind: Kind, read: Read): boolean {
   return !("refused" in read) && read.kind !== kind
+}
+
+export function pushedNowhere(kind: Kind, value: Value | null): boolean {
+  if (kind !== CONTAINER_RECIPE) return false
+  return value === null || textAt(value, REPOSITORY) === null
 }
 
 function wholeKindSubject(root: string): readonly Subject[] {
@@ -83,6 +91,7 @@ function pagedSubjects(root: string, kind: Kind, apps: IosApps): readonly Subjec
     const slug = textAt(one.value, SLUG)
     if (slug === null) continue
     if (kindedElsewhere(kind, kindNamed(root, slug, apps))) continue
+    if (pushedNowhere(kind, one.value)) continue
     found.push({
       kind,
       slug,

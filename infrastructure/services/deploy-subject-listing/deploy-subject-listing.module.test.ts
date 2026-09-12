@@ -6,6 +6,7 @@ import {
   cooldownIn,
   iosSubjects,
   kindedElsewhere,
+  pushedNowhere,
   type Subject,
 } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 
@@ -57,6 +58,20 @@ test("a page a deploy reads as the kind it is filed under is a subject of that k
 
 test("a page whose slug a deploy refuses to read is left a subject", () => {
   expect(kindedElsewhere("service-cluster", { refused: "two pages are named that" })).toBe(false)
+})
+
+test("a container recipe naming where its image is pushed is a subject", () => {
+  expect(pushedNowhere("container-recipe", { repository: "cluster/eso-rig" })).toBe(false)
+})
+
+test("a container recipe naming no repository is no subject, since a deploy has nowhere to push it", () => {
+  expect(pushedNowhere("container-recipe", {})).toBe(true)
+  expect(pushedNowhere("container-recipe", null)).toBe(true)
+})
+
+test("a page of any other kind is a subject whether or not it names a repository", () => {
+  expect(pushedNowhere("service-cluster", {})).toBe(false)
+  expect(pushedNowhere("eso-addon", null)).toBe(false)
 })
 
 test("every ios app is a subject named by its slug", () => {

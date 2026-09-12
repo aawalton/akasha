@@ -45,6 +45,16 @@ export const deploySubjectListing = {
     {
       invariantKind: "departure",
       statement:
+        "A container recipe naming no repository is no subject of the container recipe kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A recipe naming a repository is the one a deploy pushes; one naming none is built where it runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A subject stating no cooldown carries the cooldown every service waits by default.",
     },
     {
