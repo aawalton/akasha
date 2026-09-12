@@ -14,16 +14,19 @@ export const talosBootstrap = {
       takes: "the cluster whose talosconfig is read, `main` where none is said",
     },
   ],
-  helpNotes: [
-    "this runs once per cluster: again over a healthy cluster it does nothing, and over a broken one it can lose etcd state.",
-    "the node must already carry its config, so `talos-apply` runs first and writes the talosconfig this reads.",
-    "the talosconfig is read from `<home>/.talos/<cluster>.config`, where `talos-apply` wrote it.",
-    "talosctl writes its own progress to the streams this was called on, so that output is not in the report.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A talosconfig that is not there refuses the bootstrap.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The talosconfig read sits at `<home>/.talos/<cluster>.config`, where `talos-apply` writes it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "talosctl writes its own progress to the streams the call was made on.",
     },
     {
       invariantKind: "departure",
