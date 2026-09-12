@@ -53,6 +53,10 @@ export const seatSupervisorRestart = {
       statement: "A restart reaches every seat.",
     },
     {
+      invariantKind: "departure",
+      statement: "The seats reached are the seats the index files, whatever folder they sit in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here restarts a client.",
     },

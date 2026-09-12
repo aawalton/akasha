@@ -8,8 +8,6 @@ import { nameOf, supervisorOf } from "akasha/seat-system/seat-reading/seat-readi
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
-const SEAT_DIR = "seat-system/seats/pages/"
-
 const ALL = "--all"
 
 const ASK = "reExecAsk"
@@ -27,7 +25,6 @@ type Seat = {
 function seatsIn(root: string): readonly Seat[] {
   const found: Seat[] = []
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
-    if (!one.path.startsWith(SEAT_DIR)) continue
     found.push({ page: one.path, name: nameOf(one.path), holder: supervisorOf(root, one.path) })
   }
   return [...found].sort((one, other) => (one.name < other.name ? -1 : 1))
