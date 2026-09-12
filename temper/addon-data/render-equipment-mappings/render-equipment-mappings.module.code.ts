@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { armorEnchants } from "akasha/temper/characters-equipment/armor-enchants/armor-enchants.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
@@ -129,7 +130,7 @@ export function ${table.temperIdHelperName}(esoId: number): string {
  * Keys are ESO Lua global constants that resolve to numbers at runtime.
  * Source: engine/equipment/ data files
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 ${sections.join("\n\n")}
