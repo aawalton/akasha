@@ -17,6 +17,7 @@ import {
   asking,
   assignedTo,
   LOG_AT,
+  livenessOf,
   logPathOf,
   namedAmong,
   pathIn,
@@ -55,8 +56,10 @@ import {
   OWN,
   PERSONA_AT,
   pageUnder,
+  pageWritten,
   pastTheStamp,
   REFUSAL,
+  RETURNED,
   ROW,
   readingKept,
   SEAT_AT,
@@ -67,6 +70,7 @@ import {
   THREW_AFTER,
   underSeat,
   WENT,
+  WORKING,
   whyIn,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
@@ -176,7 +180,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
     expect(messageIn(root)).not.toContain(MECHANICAL)
     const at = pathOf(slugOf("akasha", OWN))
     const named: string[] = []
-    expect(await took(root, "akasha", OWN, [], landingNaming(named))).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], landingNaming(named), null, RETURNED)).toEqual(WENT)
     expect(named).toEqual(["change-mechanical-file/remove-file-page"])
     expect(existsSync(join(root, at))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
@@ -189,7 +193,7 @@ test("a take-down leaves the readings of the page it took where they are", async
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     readingKept(root, at)
-    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
     expect(readingIn(root, AGENT, at)).not.toBe(null)
   })
@@ -200,7 +204,7 @@ test("a take-down a held hold refused answers a why worth another try, taking no
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     lockHeldIn(root)
-    const why = whyIn(await took(root, "akasha", OWN, [], HELD_LANDING))
+    const why = whyIn(await took(root, "akasha", OWN, [], HELD_LANDING, null, RETURNED))
     expect(worthAnotherTry(why)).toBe(true)
     expect(existsSync(join(root, at))).toBe(true)
   })
@@ -236,7 +240,10 @@ test("a take-down that threw after it landed names what it landed", async () => 
   await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const done: string[] = []
-    const went = await landingAgain(() => took(root, "akasha", OWN, done, THREW_AFTER), done)
+    const went = await landingAgain(
+      () => took(root, "akasha", OWN, done, THREW_AFTER, null, RETURNED),
+      done
+    )
     expect(whyIn(went)).toContain(COMMITTED)
   })
 })
@@ -255,7 +262,7 @@ test("a take-down moves what its subagent left onto the seat, and the page goes"
     const at = pathOf(slugOf("akasha", OWN))
     writing(root, editsAt(at) ?? "", ROW)
     refusalsKept(root, at, [REFUSAL])
-    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
     expect(keptBySeat(root)).toEqual({
       edits: ROW,
@@ -268,7 +275,9 @@ test("a take-down whose seat the index has no page for leaves edits waiting", as
   await underSeat(async (root) => {
     const at = pageUnder(root, "thea")
     writing(root, editsAt(at) ?? "", ROW)
-    expect(whyIn(await took(root, "thea", OWN, [], LANDS))).toContain("edits waiting")
+    expect(whyIn(await took(root, "thea", OWN, [], LANDS, null, RETURNED))).toContain(
+      "edits waiting"
+    )
     expect(existsSync(join(root, at))).toBe(true)
   })
 })
@@ -278,10 +287,27 @@ test("a stop the run began after leaves the page where it is", async () => {
     await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)
     const at = pathOf(slugOf("akasha", OWN))
     startedIn(root, at, 2)
-    expect(await took(root, "akasha", OWN, [], LANDS, 1)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, 1, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(true)
-    expect(await took(root, "akasha", OWN, [], LANDS, 3)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, 3, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
+  })
+})
+
+test("a seat stating no transcript leaves the page where it is", async () => {
+  await underSeat(async (root) => {
+    const at = await pageWritten(root)
+    expect(await livenessOf(root, at)).toBe("unread")
+    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(true)
+  })
+})
+
+test("a page a reading names as working is left where it is", async () => {
+  await underSeat(async (root) => {
+    const at = await pageWritten(root)
+    expect(await took(root, "akasha", OWN, [], LANDS, null, WORKING)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(true)
   })
 })
 
@@ -306,7 +332,7 @@ test("a page in history is taken up with its id and kind, and comes back with th
     expect(landed).not.toContain(HELD_ASSIGNMENT)
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
     expect(messageIn(root)).toContain("a subagent resuming takes up the page it had")
-    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
   })

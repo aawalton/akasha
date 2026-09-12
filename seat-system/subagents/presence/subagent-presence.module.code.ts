@@ -199,20 +199,31 @@ export function namedAmong(nodes: readonly SubagentNode[], own: string): boolean
   return nodes.some((one) => one.agentId === own || namedAmong(one.children, own))
 }
 
-export async function stillWorking(root: string, page: string, own: string): Promise<boolean> {
+export type Liveness = "working" | "returned" | "unread"
+
+export type Reading = (root: string, page: string, own?: string) => Promise<Liveness>
+
+export type Acting = { readonly seatId: string; readonly own: string }
+
+export function actingAs(root: string, page: string): Acting | null {
+  const value = valueAt(page, root)
+  const agentId = value === null ? null : textAt(value, AGENT_ID)
+  if (agentId === null) return null
+  const mark = agentId.indexOf(SUBAGENT_MARK)
+  if (mark <= 0) return null
+  return { seatId: agentId.slice(0, mark), own: agentId.slice(mark + SUBAGENT_MARK.length) }
+}
+
+export async function livenessOf(root: string, page: string, own?: string): Promise<Liveness> {
   try {
-    const value = valueAt(page, root)
-    const agentId = value === null ? null : textAt(value, AGENT_ID)
-    if (agentId === null) return false
-    const mark = agentId.indexOf(SUBAGENT_MARK)
-    if (mark <= 0) return false
-    const seatId = agentId.slice(0, mark)
-    const named = transcriptOf(seatId)?.value
-    if (named === undefined || named === "") return false
-    const running = await createSubagentReader().forSeat(seatId, named)
-    return namedAmong(running, own)
+    const acting = actingAs(root, page)
+    if (acting === null) return "unread"
+    const named = transcriptOf(acting.seatId)?.value
+    if (named === undefined || named === "") return "unread"
+    const running = await createSubagentReader().forSeat(acting.seatId, named)
+    return namedAmong(running, own ?? acting.own) ? "working" : "returned"
   } catch {
-    return false
+    return "unread"
   }
 }
 
@@ -239,13 +250,14 @@ export async function took(
   own: string,
   done: string[] = [],
   landing: Landing = landedMechanically,
-  stoppedAt: number | null = null
+  stoppedAt: number | null = null,
+  reading: Reading = livenessOf
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
   if (!existsSync(join(root, at))) return WENT
   if (startedAfter(root, at, stoppedAt)) return WENT
-  if (await stillWorking(root, at, own)) return WENT
+  if ((await reading(root, at, own)) !== "returned") return WENT
   const moved = movingOff(root, seatName, at)
   if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`

@@ -199,11 +199,33 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating no transcript leaves the take-down to the other evidence.",
+      statement:
+        "A take-down may fail to take a page that is done, and may never take a page that is not.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript that will not open leaves the take-down to the other evidence.",
+      statement:
+        "A page goes only where the transcript was read and does not name its subagent as running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat stating no transcript leaves the page where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript that will not open leaves the page where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose own agent id will not be read leaves the page where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading that ends in an error leaves the page where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reading a take-down judges by is handed in rather than reached for.",
     },
     {
       invariantKind: "absence",

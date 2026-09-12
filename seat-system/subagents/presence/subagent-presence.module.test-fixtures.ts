@@ -17,7 +17,9 @@ import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.c
 import {
   type Landing,
   pathOf,
+  type Reading,
   slugOf,
+  wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
@@ -153,6 +155,15 @@ export function pageUnder(root: string, seatName: string): string {
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "a page under a seat the index has no page for"])
   return at
+}
+
+export const RETURNED: Reading = () => Promise.resolve("returned")
+
+export const WORKING: Reading = () => Promise.resolve("working")
+
+export async function pageWritten(root: string): Promise<string> {
+  await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)
+  return pathOf(slugOf("akasha", OWN))
 }
 
 export function readingKept(root: string, at: string): undefined {
