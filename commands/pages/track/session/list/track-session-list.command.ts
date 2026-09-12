@@ -6,7 +6,7 @@ export const trackSessionList = {
   slug: "track-session-list",
   definition: "the command saying the stretches a day has",
   code: "ts",
-  taking: [{ said: "--day <date>", takes: "which day to act on, written as that day's own date" }],
+  taking: [],
 
   invariants: [
     {
@@ -27,5 +27,5 @@ export const trackSessionList = {
     },
   ],
   name: "list",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/day" }],
 } as const satisfies Command

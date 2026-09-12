@@ -7,7 +7,7 @@ export const trackSessionCheck = {
   definition: "the command judging the rows a day carries",
   code: "ts",
   parts: ["module/session-rows", "module/session-relationships"],
-  taking: [{ said: "--day <date>", takes: "which day to act on, written as that day's own date" }],
+  taking: [],
 
   invariants: [
     {
@@ -76,4 +76,5 @@ export const trackSessionCheck = {
     },
   ],
   name: "check",
+  arguments: [{ argument: "argument/day" }],
 } as const satisfies Command

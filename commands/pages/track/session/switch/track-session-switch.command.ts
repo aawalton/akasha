@@ -10,7 +10,6 @@ export const trackSessionSwitch = {
   taking: [
     { said: "--title <text>", takes: "what the next stretch is called" },
     { said: "--at <time>", takes: "the wall time the open stretch ends and the next begins" },
-    { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
     {
       said: "--safety <level>",
       takes: "how safe Alan was over the stretch, from -2 to 5 in half steps",
@@ -108,5 +107,5 @@ export const trackSessionSwitch = {
     },
   ],
   name: "switch",
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
 } as const satisfies Command
