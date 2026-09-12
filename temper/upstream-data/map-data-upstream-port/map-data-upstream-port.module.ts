@@ -28,5 +28,9 @@ export const mapDataUpstreamPort = {
       invariantKind: "departure",
       statement: "The ported file names the upstream version the data came out of.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The file written is named to the caller as soon as that file is written.",
+    },
   ],
 } as const satisfies Module

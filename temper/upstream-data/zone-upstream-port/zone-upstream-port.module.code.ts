@@ -25,14 +25,22 @@ const GEO_HEADER =
   "// Regenerate with: akasha temper upstream data-port lib-zone --code-root <code-checkout>\n" +
   "// Verify with:     akasha temper upstream data-verify lib-zone\n"
 
-export async function port(codeRoot: string): Promise<void> {
+function ran(result: unknown): undefined {
+  if (result !== "ok") {
+    throw new Error(`port-data returned ${typeof result}: ${String(result)}`)
+  }
+  return undefined
+}
+
+export async function port(codeRoot: string, done: string[] = []): Promise<void> {
   const pkgDir = join(codeRoot, PACKAGE_OF["lib-zone"])
   const zoneOut = join(pkgDir, ZONE_REL)
   const geoOut = join(pkgDir, GEO_REL)
   const vm = await makeLuaVm({ stubs: `${ESO_STUBS}${SERIALIZE_TS_LUA}` })
   try {
     await mkdir(join(pkgDir, "src/generated"), { recursive: true })
-    const script = `
+    ran(
+      await vm.run(`
       _G.LibZone = {
         currentClientLanguage = "en",
         checkIfLanguageIsSupported = function() return false end,
@@ -49,7 +57,14 @@ export async function port(codeRoot: string): Promise<void> {
         "export const PUBLIC_DUNGEON_MAP_IDS: Record<number, boolean> = " ..
           serialize_ts(lib.publicDungeonMapIds, 0) .. "\\n"
       write_file(${JSON.stringify(zoneOut)}, ${JSON.stringify(ZONE_HEADER)} .. zoneBody)
+      return "ok"
+    `)
+    )
+    done.push(`wrote ${zoneOut}`)
 
+    ran(
+      await vm.run(`
+      local lib = _G.LibZone
       dofile(${JSON.stringify(GEO_SOURCE)})
       if type(lib.geoDataReferenceTable) ~= "table" then error("geoDataReferenceTable missing") end
 
@@ -58,11 +73,10 @@ export async function port(codeRoot: string): Promise<void> {
           serialize_ts(lib.geoDataReferenceTable, 0) .. "\\n"
       write_file(${JSON.stringify(geoOut)}, ${JSON.stringify(GEO_HEADER)} .. geoBody)
       return "ok"
-    `
-    const result = await vm.run(script)
-    if (result !== "ok") {
-      throw new Error(`port-data returned ${typeof result}: ${String(result)}`)
-    }
+    `)
+    )
+    done.push(`wrote ${geoOut}`)
+
     console.log(`ported ${DATA_SOURCE} -> ${zoneOut}`)
     console.log(`ported ${GEO_SOURCE} -> ${geoOut}`)
   } finally {

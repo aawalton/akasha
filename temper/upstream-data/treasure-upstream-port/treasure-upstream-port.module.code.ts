@@ -99,7 +99,7 @@ import type { AllData } from "../types"
 
 export const ALL_DATA: AllData = `
 
-export async function port(codeRoot: string): Promise<void> {
+export async function port(codeRoot: string, done: string[] = []): Promise<void> {
   const outPath = join(codeRoot, PACKAGE_OF["lib-treasure"], OUT_REL)
   const source = await readFile(SOURCE_PATH, "utf-8")
   const vm = await makeLuaVm({ stubs: SERIALIZER })
@@ -122,6 +122,7 @@ export async function port(codeRoot: string): Promise<void> {
       throw new Error(`serializer returned ${typeof serialized}, expected string`)
     }
     await writeFile(outPath, `${HEADER}${serialized}\n`)
+    done.push(`wrote ${outPath}`)
     console.log(`ported ${SOURCE_PATH} -> ${outPath}`)
   } finally {
     await vm.close()

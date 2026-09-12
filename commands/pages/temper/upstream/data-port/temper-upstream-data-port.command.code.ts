@@ -1,9 +1,9 @@
 import { realpathSync } from "node:fs"
 import {
+  answering,
   DATA,
   INPUT,
-  OK,
-  OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -29,7 +29,7 @@ const CODE_ROOT_ENV = "CODE_ROOT"
 
 const TAKING_A_VALUE = [CODE_ROOT_FLAG]
 
-const PORTED_BY: Record<UpstreamLibrary, (root: string) => Promise<void>> = {
+const PORTED_BY: Record<UpstreamLibrary, (root: string, done: string[]) => Promise<void>> = {
   housing: portHousing,
   "lib-map-data": portMapData,
   "lib-treasure": portTreasure,
@@ -38,6 +38,21 @@ const PORTED_BY: Record<UpstreamLibrary, (root: string) => Promise<void>> = {
 
 function carried(): string {
   return UPSTREAM_LIBRARIES.join(", ")
+}
+
+export type Porting = (done: string[], library: UpstreamLibrary, root: string) => Promise<Answer>
+
+async function ported(done: string[], library: UpstreamLibrary, root: string): Promise<Answer> {
+  await PORTED_BY[library](root, done)
+  return told([`ported ${library} into ${root}, writing each emitted file whole`])
+}
+
+export async function portedBy(
+  library: UpstreamLibrary,
+  root: string,
+  porting: Porting = ported
+): Promise<Answer> {
+  return await answering(async (done) => await porting(done, library, root))
 }
 
 export async function temperUpstreamDataPort(argv: readonly string[] = []): Promise<Answer> {
@@ -71,18 +86,5 @@ export async function temperUpstreamDataPort(argv: readonly string[] = []): Prom
 
   process.env[CODE_ROOT_ENV] = root
 
-  try {
-    await PORTED_BY[library](root)
-  } catch (thrown) {
-    return refused(
-      `${library} was not ported whole into ${root}: ${messageOf(thrown)}`,
-      OPERATIONAL
-    )
-  }
-
-  return {
-    report: [`ported ${library} into ${root}, writing each emitted file whole`],
-    refusals: [],
-    code: OK,
-  }
+  return await portedBy(library, root)
 }

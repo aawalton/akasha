@@ -139,7 +139,7 @@ function emitArray(
   return { files, barrelImports, barrelStatement }
 }
 
-export async function port(codeRoot: string): Promise<void> {
+export async function port(codeRoot: string, done: string[] = []): Promise<void> {
   const dataDir = join(codeRoot, PACKAGE_OF.housing, DATA_REL)
   const vm = await makeLuaVm({ stubs: PRELUDE })
   try {
@@ -161,9 +161,13 @@ export async function port(codeRoot: string): Promise<void> {
     const euData = parseEntries(euRaw, "euData")
     const naData = parseEntries(naRaw, "naData")
 
+    let cleared = 0
     for (const f of await readdir(dataDir)) {
-      if (f.endsWith(".generated.ts")) await rm(join(dataDir, f))
+      if (!f.endsWith(".generated.ts")) continue
+      await rm(join(dataDir, f))
+      cleared += 1
     }
+    if (cleared > 0) done.push(`cleared ${String(cleared)} generated file(s) under ${dataDir}`)
 
     const eu = emitArray("euLibraryData", "library-data-eu", euData)
     const na = emitArray("naLibraryData", "library-data-na", naData)
@@ -172,6 +176,7 @@ export async function port(codeRoot: string): Promise<void> {
     for (const f of [...eu.files, ...na.files]) {
       await writeFile(join(dataDir, f.relPath), f.content)
       written.push(f.relPath)
+      done.push(`wrote ${join(dataDir, f.relPath)}`)
     }
 
     const imports = `${eu.barrelImports}${na.barrelImports}`
@@ -182,6 +187,7 @@ export async function port(codeRoot: string): Promise<void> {
       `${eu.barrelStatement}${na.barrelStatement}`
     await writeFile(join(dataDir, "library-data.generated.ts"), barrelOut)
     written.push("library-data.generated.ts (barrel)")
+    done.push(`wrote ${join(dataDir, "library-data.generated.ts")}`)
 
     console.log(`ported euData (${euData.length}) + naData (${naData.length})`)
     for (const f of written) console.log(`-> ${DATA_REL}/${f}`)

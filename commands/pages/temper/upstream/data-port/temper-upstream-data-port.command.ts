@@ -7,6 +7,7 @@ export const temperUpstreamDataPort = {
   definition:
     "the command bringing an upstream game library's data into the files this repository has",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -19,6 +20,14 @@ export const temperUpstreamDataPort = {
     {
       invariantKind: "departure",
       statement: "A library the port list does not hold refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
     },
   ],
   name: "data-port",

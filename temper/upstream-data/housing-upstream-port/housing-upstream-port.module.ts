@@ -35,5 +35,10 @@ export const housingUpstreamPort = {
       invariantKind: "departure",
       statement: "The checkout the ported files land in is named by the caller.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a run has cleared and written is named to the caller as each of them happens.",
+    },
   ],
 } as const satisfies Module

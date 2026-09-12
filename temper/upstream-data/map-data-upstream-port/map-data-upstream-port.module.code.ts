@@ -14,7 +14,7 @@ const HEADER =
   "// Regenerate with: akasha temper upstream data-port lib-map-data --code-root <code-checkout>\n" +
   "// Verify with:     akasha temper upstream data-verify lib-map-data\n"
 
-export async function port(codeRoot: string): Promise<void> {
+export async function port(codeRoot: string, done: string[] = []): Promise<void> {
   const pkgDir = join(codeRoot, PACKAGE_OF["lib-map-data"])
   const out = join(pkgDir, OUT_REL)
   const vm = await makeLuaVm({ stubs: SERIALIZE_TS_LUA })
@@ -49,6 +49,7 @@ export async function port(codeRoot: string): Promise<void> {
     if (result !== "ok") {
       throw new Error(`port-data returned ${typeof result}: ${String(result)}`)
     }
+    done.push(`wrote ${out}`)
     console.log(`ported ${SOURCE} -> ${out}`)
   } finally {
     await vm.close()

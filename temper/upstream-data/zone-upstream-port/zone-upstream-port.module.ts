@@ -29,5 +29,9 @@ export const zoneUpstreamPort = {
       invariantKind: "departure",
       statement: "The ported file names the upstream version the data came out of.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each of the two files is named to the caller before the other one is worked out.",
+    },
   ],
 } as const satisfies Module
