@@ -48,4 +48,5 @@ export const musicQueue = {
     },
   ],
   name: "queue",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

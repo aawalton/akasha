@@ -47,4 +47,5 @@ export const musicListening = {
     },
   ],
   name: "listening",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

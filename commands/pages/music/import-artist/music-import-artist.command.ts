@@ -62,4 +62,5 @@ export const musicImportArtist = {
     },
   ],
   name: "import-artist",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
