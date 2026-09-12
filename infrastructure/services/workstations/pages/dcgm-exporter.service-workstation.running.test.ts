@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const HANDED: string[][] = []
 
 const binaryRunning = await import(
-  "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts"
+  "akasha/infrastructure/services/workstations/modules/binary-running/binary-running.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts",
+  "akasha/infrastructure/services/workstations/modules/binary-running/binary-running.module.code.ts",
   () => ({
     ...binaryRunning,
     runBinary: (argv: readonly string[]) => {

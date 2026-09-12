@@ -1,4 +1,4 @@
-import { runBinary } from "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts"
+import { runBinary } from "akasha/infrastructure/services/workstations/modules/binary-running/binary-running.module.code.ts"
 
 const ARGV = [
   "/usr/bin/podman",

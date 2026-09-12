@@ -12,7 +12,7 @@ import {
   selectedInOrder,
   singleSelection,
   toggleSelection,
-} from "akasha/pages/core/property-types/block-selection/block-selection.module.code.ts"
+} from "akasha/pages/core/property-types/modules/block-selection/block-selection.module.code.ts"
 import type { RichDocument } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
 import {
   type EditorOp,

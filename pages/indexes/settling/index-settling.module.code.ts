@@ -1,17 +1,6 @@
 import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
-  idsUnnamed,
-  pagesBeside,
-  pagesElsewhere,
-  pagesNaming,
-  pagesOfTypes,
-  pagesStranded,
-  pagesTurned,
-  relationsTurned,
-  typesDeclaring,
-} from "akasha/pages/indexes/beside-turning/beside-turning.module.code.ts"
-import {
   type Entry,
   fileKeysAt,
   fileKeysIn,
@@ -25,6 +14,17 @@ import {
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import {
+  idsUnnamed,
+  pagesBeside,
+  pagesElsewhere,
+  pagesNaming,
+  pagesOfTypes,
+  pagesStranded,
+  pagesTurned,
+  relationsTurned,
+  typesDeclaring,
+} from "akasha/pages/indexes/modules/beside-turning/beside-turning.module.code.ts"
 import {
   type Body,
   bodiesAt,

@@ -3,7 +3,7 @@ import {
   isMarkerType,
   markerFor,
   stripLeadingMarker,
-} from "akasha/pages/core/property-types/block-markers/block-markers.module.code.ts"
+} from "akasha/pages/core/property-types/modules/block-markers/block-markers.module.code.ts"
 import {
   type Block,
   type RichDocument,

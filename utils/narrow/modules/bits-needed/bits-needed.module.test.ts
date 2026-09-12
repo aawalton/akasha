@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bitsNeeded } from "akasha/utils/narrow/bits-needed/bits-needed.module.code.ts"
+import { bitsNeeded } from "akasha/utils/narrow/modules/bits-needed/bits-needed.module.code.ts"
 
 test("a count of one or none still takes one bit", () => {
   expect(bitsNeeded(0)).toBe(1)

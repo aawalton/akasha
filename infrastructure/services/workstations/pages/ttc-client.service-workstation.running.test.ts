@@ -6,11 +6,11 @@ const WORDS = 6
 const PATH_AT = 4
 
 const binaryRunning = await import(
-  "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts"
+  "akasha/infrastructure/services/workstations/modules/binary-running/binary-running.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts",
+  "akasha/infrastructure/services/workstations/modules/binary-running/binary-running.module.code.ts",
   () => ({
     ...binaryRunning,
     runBinary: (argv: readonly string[]) => {

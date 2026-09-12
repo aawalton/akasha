@@ -13,7 +13,7 @@ import {
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
-import { BlockEditor } from "akasha/pages/ui/block-editor/block-editor/block-editor.module.code.tsx"
+import { BlockEditor } from "akasha/pages/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { PageCover } from "akasha/pages/ui/components/page-cover/page-cover.module.code.tsx"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
