@@ -8,7 +8,6 @@ export const argument = {
   pluralSlug: "arguments",
   extends: ["page-type/page"],
   parts: [
-    "boolean-property/repeats",
     "select-property/argument-value",
     "text-property/placeholder",
     "text-property/said",
@@ -22,7 +21,6 @@ export const argument = {
     { pageProperty: "text-property/takes", required: true, many: false },
     { pageProperty: "select-property/argument-value", required: true, many: false },
     { pageProperty: "text-property/placeholder", required: false, many: false },
-    { pageProperty: "boolean-property/repeats", required: false, many: false },
   ],
   invariants: [
     {
@@ -46,6 +44,10 @@ export const argument = {
       statement: "A command's code reads its arguments through a type written from these pages.",
     },
     { invariantKind: "absence", statement: "A key piped into a change is no argument here." },
+    {
+      invariantKind: "departure",
+      statement: "How many times a command lets an argument be said belongs to that command.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

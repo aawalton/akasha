@@ -9,7 +9,7 @@ export const repeats = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An argument stating nothing here is said once.",
+      statement: "An entry stating nothing here says its argument once.",
     },
     {
       invariantKind: "departure",

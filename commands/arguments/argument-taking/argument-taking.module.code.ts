@@ -33,7 +33,7 @@ function carries(argument: Argument): boolean {
 }
 
 function repeating(one: Naming): boolean {
-  return one.repeats ?? one.argument.repeats === true
+  return one.repeats === true
 }
 
 function atAFlag(one: Naming): boolean {
@@ -201,16 +201,10 @@ type Carries<Said extends Argument["value"]> = Said extends "whole-number"
     ? boolean
     : string
 
-type Repeating<Entry extends Named, Page extends Argument> = Entry extends {
-  readonly repeats: true
-}
-  ? true
-  : Page extends { readonly repeats: true }
-    ? true
-    : false
+type Repeating<Entry extends Named> = Entry extends { readonly repeats: true } ? true : false
 
 type Carried<Entry extends Named, Page extends Argument> =
-  Repeating<Entry, Page> extends true ? readonly Carries<Page["value"]>[] : Carries<Page["value"]>
+  Repeating<Entry> extends true ? readonly Carries<Page["value"]>[] : Carries<Page["value"]>
 
 type Entries<Page extends Commanding> = Page extends {
   readonly arguments: infer Held extends readonly Named[]
@@ -229,7 +223,7 @@ type Filled<Entry extends Named, Pages extends Argument> = Entry extends {
   ? true
   : PageOf<Entry, Pages> extends { readonly value: "none" }
     ? true
-    : Repeating<Entry, PageOf<Entry, Pages>> extends true
+    : Repeating<Entry> extends true
       ? true
       : false
 

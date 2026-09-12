@@ -9,7 +9,7 @@ import {
   takingIn,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 
-function argumentOf(slug: string, value: Argument["value"], repeats?: boolean): Argument {
+function argumentOf(slug: string, value: Argument["value"]): Argument {
   return {
     id: "01a09400-0000-7000-8000-000000000000",
     type: "argument",
@@ -17,7 +17,6 @@ function argumentOf(slug: string, value: Argument["value"], repeats?: boolean): 
     said: `--${slug}`,
     takes: `what ${slug} is for`,
     value,
-    ...(repeats === undefined ? {} : { repeats }),
   } as Argument
 }
 
@@ -25,7 +24,7 @@ const DRY_RUN: Naming = { argument: argumentOf("dry-run", "none") }
 
 const LIMIT: Naming = { argument: argumentOf("limit", "whole-number") }
 
-const TO: Naming = { argument: argumentOf("to", "text", true) }
+const TO: Naming = { argument: argumentOf("to", "text"), repeats: true }
 
 const ACTIVE: Naming = { argument: argumentOf("active", "true-or-false") }
 
@@ -269,7 +268,6 @@ const TO_PAGE = {
   said: "--to",
   takes: "what to is for",
   value: "text",
-  repeats: true,
 } as const satisfies Argument
 
 const PAGES = [DRY_RUN_PAGE, SEAT_PAGE, LIMIT_PAGE, TO_PAGE]
@@ -280,7 +278,7 @@ const NAMING_THEM = {
     { argument: "argument/dry-run" },
     { argument: "argument/seat", required: true },
     { argument: "argument/limit" },
-    { argument: "argument/to" },
+    { argument: "argument/to", repeats: true },
   ],
 } as const
 
@@ -343,11 +341,11 @@ test("a command page naming no argument is answered with nothing taken", () => {
 })
 
 test("a word argument and a flag argument may not be said together", () => {
-  const ids = argumentOf("agent-id", "text", true)
-  const state = argumentOf("state", "text", true)
+  const ids = argumentOf("agent-id", "text")
+  const state = argumentOf("state", "text")
   const each: readonly Naming[] = [
-    { argument: ids, saidAs: "word", notWith: [state] },
-    { argument: state },
+    { argument: ids, repeats: true, saidAs: "word", notWith: [state] },
+    { argument: state, repeats: true },
   ]
   expect(refusals(["a1", "--state", "working"], each)[0]).toBe(
     "`<agent-id>` and `--state` are never said together, and this call says both"

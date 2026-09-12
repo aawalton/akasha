@@ -131,5 +131,10 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement: "A bare dash is the value naming what is piped in rather than a flag.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "How many times a call may say an argument is handed in rather than read off the argument.",
+    },
   ],
 } as const satisfies Module

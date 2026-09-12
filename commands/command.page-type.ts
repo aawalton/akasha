@@ -108,6 +108,7 @@ export const command = {
     "relation-property/not-with",
     "module/beside-sweeping",
     "module/long-body",
+    "boolean-property/repeats",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
