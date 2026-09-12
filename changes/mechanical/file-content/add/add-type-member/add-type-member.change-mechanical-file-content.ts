@@ -48,6 +48,18 @@ export const addTypeMember = {
       statement: "A body with no such alias is refused.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A key no page spells is refused before any body is composed.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A type name no import holds is refused before any body is composed.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A type named from an empty path is refused.",
+    },
+    {
       invariantKind: "departure",
       statement: "The body is answered rather than written.",
     },

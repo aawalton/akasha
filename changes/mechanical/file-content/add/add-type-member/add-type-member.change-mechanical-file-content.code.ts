@@ -4,6 +4,10 @@ import {
   stating,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  keyFaultIn,
+  spelledBare,
+} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
@@ -80,6 +84,14 @@ export function withMember(
 }
 
 export function addTypeMember(world: World, given: AddTypeMemberAsked): Said {
+  const fault = keyFaultIn(given.key)
+  if (fault !== null) return refusing(fault)
+  if (!spelledBare(given.held)) {
+    return refusing(`\`${given.held}\` is no type name an import holds, so no member is put in`)
+  }
+  if (given.from.trim() === "") {
+    return refusing(`\`${given.held}\` is imported from no path, so no member is put in`)
+  }
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)

@@ -83,6 +83,20 @@ test("a body carrying no such alias is refused", () => {
   expect(refusalOf(said)).toContain("no object type named")
 })
 
+test("a key no page spells is refused before any body is composed", () => {
+  expect(refusalOf(answering(HOLDING, { key: "web-directory" }).said)).toContain(
+    "no key a page spells"
+  )
+})
+
+test("a type name no import holds is refused before any body is composed", () => {
+  expect(refusalOf(answering(HOLDING, { held: "Web-Directory" }).said)).toContain("no type name")
+})
+
+test("a type named from an empty path is refused", () => {
+  expect(refusalOf(answering(HOLDING, { from: "" }).said)).toContain("no path")
+})
+
 test("a body carrying no import gains the import at its opening", () => {
   const { world, said } = answering(`export type IosApp = {\n  manifest: string\n}\n`)
   expect(bodyOf(said, world.base).startsWith("import type { WebDirectory }")).toBe(true)
