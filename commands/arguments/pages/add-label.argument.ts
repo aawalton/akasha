@@ -8,5 +8,4 @@ export const addLabel = {
   takes: "a label id to put on it, said again for each",
   value: "text",
   placeholder: "label-id",
-  repeats: true,
 } as const satisfies Argument
