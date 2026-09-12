@@ -9,7 +9,7 @@ import {
   getCompanionName,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
-import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,

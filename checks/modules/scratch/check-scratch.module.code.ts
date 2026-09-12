@@ -14,7 +14,7 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

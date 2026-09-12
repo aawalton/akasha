@@ -8,7 +8,7 @@ import {
   importFiled,
   noImportersFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const AT = "akasha/held.module.code.ts"

@@ -3,7 +3,7 @@
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { SkillLineCategoryId } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import { ChampionPointsPanel } from "akasha/temper/web/champion-points-panel/champion-points-panel.module.code.tsx"
 import type { CharacterMetadata } from "akasha/temper/web/character-context/character-context.module.code.tsx"

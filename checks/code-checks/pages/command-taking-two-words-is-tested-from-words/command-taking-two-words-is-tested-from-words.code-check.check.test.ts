@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { reasonsIn } from "akasha/checks/code-checks/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.code-check.check.code.ts"
-import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 

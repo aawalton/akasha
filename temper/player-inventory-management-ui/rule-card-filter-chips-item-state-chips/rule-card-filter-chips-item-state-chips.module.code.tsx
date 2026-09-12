@@ -8,10 +8,10 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
-import { BOP_TRADEABLE_OPTIONS } from "akasha/temper/items-rules-core/bop-tradeable-filter/bop-tradeable-filter.module.code.ts"
-import { BOUND_OPTIONS } from "akasha/temper/items-rules-core/bound-filter/bound-filter.module.code.ts"
 import { CRAFTED_OPTIONS } from "akasha/temper/items-rules-core/crafted-filter/crafted-filter.module.code.ts"
 import { LOCKED_OPTIONS } from "akasha/temper/items-rules-core/locked-filter/locked-filter.module.code.ts"
+import { BOP_TRADEABLE_OPTIONS } from "akasha/temper/items-rules-core/modules/bop-tradeable-filter/bop-tradeable-filter.module.code.ts"
+import { BOUND_OPTIONS } from "akasha/temper/items-rules-core/modules/bound-filter/bound-filter.module.code.ts"
 import { QUEST_RELEVANT_OPTIONS } from "akasha/temper/items-rules-core/quest-relevant-filter/quest-relevant-filter.module.code.ts"
 import { STACK_FULLNESS_OPTIONS } from "akasha/temper/items-rules-core/stack-fullness-filter/stack-fullness-filter.module.code.ts"
 import { STOLEN_OPTIONS } from "akasha/temper/items-rules-core/stolen-filter/stolen-filter.module.code.ts"

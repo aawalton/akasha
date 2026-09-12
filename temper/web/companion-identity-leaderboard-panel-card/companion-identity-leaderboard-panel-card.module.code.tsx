@@ -25,7 +25,7 @@ import {
 } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "akasha/temper/web/leaderboard-columns/leaderboard-columns.module.code.ts"
 import { useMemo } from "react"
 

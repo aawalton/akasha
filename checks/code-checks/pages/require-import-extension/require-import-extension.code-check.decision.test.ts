@@ -4,7 +4,7 @@ import {
   type Stands,
 } from "akasha/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.code.ts"
 import { NESTED_AT } from "akasha/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.test-fixtures.ts"
-import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 const ROOT = "/repo"
 

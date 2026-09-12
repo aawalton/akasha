@@ -10,7 +10,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

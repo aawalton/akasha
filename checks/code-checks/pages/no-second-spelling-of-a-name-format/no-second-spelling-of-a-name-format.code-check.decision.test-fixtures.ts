@@ -5,7 +5,7 @@ import {
   filing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"

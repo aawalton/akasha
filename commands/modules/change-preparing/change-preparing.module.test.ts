@@ -14,7 +14,7 @@ import {
 } from "akasha/commands/modules/change-preparing/change-preparing.module.test-fixtures.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   AGENT,

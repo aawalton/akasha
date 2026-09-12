@@ -49,7 +49,7 @@ import type {
 } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export const COMPANION_BUILD_TYPE = 0x02
 

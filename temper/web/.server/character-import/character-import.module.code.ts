@@ -10,8 +10,8 @@ import type {
   BuildHash,
   BuildId,
   EsoCharacterId,
-} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
-import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { races } from "akasha/temper/races/races/races.module.code.ts"
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }

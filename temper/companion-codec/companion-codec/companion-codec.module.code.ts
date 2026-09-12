@@ -10,8 +10,8 @@ import {
 } from "akasha/temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { registerCompanionDecoder } from "akasha/temper/companions-core/reference-build-data/reference-build-data.module.code.ts"
-import type { BuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { BuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export const ESO_VERSION_48 = 48
 

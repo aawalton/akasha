@@ -10,7 +10,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/parts-list-is-sorted/parts-list-is-sorted.code-check.decision.test-fixtures.ts"
 import { judgingBy, landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

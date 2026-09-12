@@ -10,7 +10,7 @@ import {
   companions,
   getCompanionIdByDefId,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/watcher-account-page/watcher-account-page.module.code.ts"

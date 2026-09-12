@@ -29,13 +29,13 @@ import {
   pageFiled,
   valueTakenFrom,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { bytesOf as bytes } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import {
   ADMITS_CODE,
   MINTED,
   mintedId,
   minting,
 } from "akasha/testing-system/minting/minting.module.code.ts"
+import { bytesOf as bytes } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

@@ -6,7 +6,7 @@ import {
   bodyRead,
   differenceOf,
 } from "akasha/commands/pages/read/differing/differing.module.code.ts"
-import { bytesOf as bodyOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf as bodyOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { SCRATCH_AT, scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
 

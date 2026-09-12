@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { reasonsIn } from "akasha/checks/code-checks/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.code-check.check.code.ts"
-import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 const ROOT = "/repo"
 

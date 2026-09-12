@@ -1,4 +1,4 @@
-import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { z } from "zod"
 
 export interface CompanionVersion {

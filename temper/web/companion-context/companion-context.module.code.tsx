@@ -14,8 +14,8 @@ import {
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
-import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
 import { COMPANION_ACTIONS } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
 import {

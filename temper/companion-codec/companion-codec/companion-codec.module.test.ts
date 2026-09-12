@@ -30,7 +30,7 @@ import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/compan
 import {
   buildHash,
   buildId,
-} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 const COMPANION_BUILD_TYPE = 2
 

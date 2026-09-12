@@ -8,7 +8,7 @@ import {
   rowsIn,
   scratch,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 const LINKED = "01a04e11-0000-7000-8000-000000000003"
 

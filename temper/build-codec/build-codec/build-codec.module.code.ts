@@ -9,8 +9,8 @@ import {
   bytesToBase64url,
 } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { BuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { BuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export const ESO_VERSION_48 = 48
 

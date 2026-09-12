@@ -27,7 +27,7 @@ import {
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 const HELD_ID = "01a05991-d998-7000-b3f5-2a1c0d7e4b91"
 

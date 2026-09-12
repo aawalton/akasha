@@ -51,7 +51,7 @@ import type { StandardArmorType } from "akasha/temper/equipment-kinds/modules/ar
 import {
   buildHash,
   buildId,
-} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 const CHARACTER_BUILD_TYPE = 1
 

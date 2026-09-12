@@ -16,7 +16,7 @@ import {
 } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
-import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { CompanionsBuildBrowseTab } from "akasha/temper/web/companions-build-browse-tab/companions-build-browse-tab.module.code.tsx"
 import type { FilterValues } from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"

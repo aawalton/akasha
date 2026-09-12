@@ -10,8 +10,8 @@ import { companions } from "akasha/temper/companions-core/companions/companions.
 import type {
   BuildHash,
   BuildId,
-} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
-import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 export type ImportCompanionResult =

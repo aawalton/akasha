@@ -1,7 +1,7 @@
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
-import { BOOLEAN_OPS } from "akasha/pages/core/property-types/boolean/boolean.module.code.ts"
 import { DATE_OPS } from "akasha/pages/core/property-types/date/date.module.code.ts"
 import { textFilterPredicate } from "akasha/pages/core/property-types/filter-utils/filter-utils.module.code.ts"
+import { BOOLEAN_OPS } from "akasha/pages/core/property-types/modules/boolean/boolean.module.code.ts"
 import { NUMBER_OPS, toNumber } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import type {
   FilterConfig,

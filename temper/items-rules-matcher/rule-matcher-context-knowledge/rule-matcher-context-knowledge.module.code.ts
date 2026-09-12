@@ -3,7 +3,7 @@ import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.m
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { resolveCharacterToggles } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
-import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type {

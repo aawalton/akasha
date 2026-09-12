@@ -30,7 +30,7 @@ import {
   type CompanionRoleId,
   companionRoles,
 } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
-import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"

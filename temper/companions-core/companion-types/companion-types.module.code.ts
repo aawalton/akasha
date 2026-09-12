@@ -10,7 +10,7 @@ import type { CompanionTraitId } from "akasha/temper/companions-core/companion-t
 import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 interface CompanionArmorItem {
   type: CompanionArmorSlotId

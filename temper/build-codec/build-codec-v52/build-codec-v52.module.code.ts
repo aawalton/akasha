@@ -75,7 +75,7 @@ import type { CharacterState } from "akasha/temper/character-build/build-types/b
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { RoleId } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { TargetArmorId } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 
 export const CHARACTER_BUILD_TYPE = 0x01

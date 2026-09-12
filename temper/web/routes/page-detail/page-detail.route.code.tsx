@@ -30,7 +30,7 @@ import { createEmptyCompanion } from "akasha/temper/companions-core/companion-fa
 import {
   buildHash as toBuildHash,
   buildId as toBuildId,
-} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { CharacterEditor } from "akasha/temper/web/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/companion-editor/companion-editor.module.code.tsx"
 import { useEffect } from "react"
