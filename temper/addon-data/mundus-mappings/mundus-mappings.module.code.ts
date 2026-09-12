@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { mundus } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
 export function generateMundusMappings(): string {
   const indexEntries: string[] = []
@@ -17,7 +18,7 @@ export function generateMundusMappings(): string {
  * Maps ESO mundus IDs to temper indices and string IDs.
  * Source: engine/character/mundus-source.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const MUNDUS_ESO_ID_TO_INDEX: Record<number, number> = {

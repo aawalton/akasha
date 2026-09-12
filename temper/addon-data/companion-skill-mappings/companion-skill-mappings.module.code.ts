@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 
 export function generateSkillMappings(): string {
@@ -19,7 +20,7 @@ export function generateSkillMappings(): string {
  * Maps ESO ability IDs to temper skill indices.
  * Source: engine/companions/skills/companion-skills-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const SKILL_ABILITY_ID_TO_INDEX: Record<number, number> = {

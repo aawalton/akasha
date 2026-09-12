@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 export function generateFoodMappings(): string {
   const indexEntries: string[] = []
@@ -17,7 +18,7 @@ export function generateFoodMappings(): string {
  * Maps ESO food/drink buff ability IDs to temper indices and string IDs.
  * Source: engine/food-and-drink/food-or-drink-source.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {

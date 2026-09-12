@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { curses } from "akasha/temper/character-sources/curses/curses.module.code.ts"
 import { vampireStages } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
 export function generateCurseMappings(): string {
@@ -36,7 +37,7 @@ export function generateCurseMappings(): string {
  * Maps ESO buff ability IDs to temper curse state and vampire stage IDs.
  * Source: engine/character/curse-data.ts, engine/character/vampire-stages-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const CURSE_ABILITY_ID_TO_TEMPER_ID: Record<number, string> = {
