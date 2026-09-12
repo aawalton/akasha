@@ -18,13 +18,11 @@ export const talosImageBuild = {
       takes: "the file to fetch the installer ISO to once it is registered",
     },
   ],
-  helpNotes: [
-    "the schematic is posted to the factory, which answers with the id and serves the installer built from it.",
-    "the id is the content of the schematic, so the same extension list answers with the same id and a repeat costs nothing.",
-    "naming no download reports the id and the installer's address and fetches nothing.",
-    "the installer's address carries the cluster's Talos version, which is read off the node's own cluster.",
-  ],
   invariants: [
+    {
+      invariantKind: "absence",
+      statement: "Nothing is fetched where no download is named.",
+    },
     {
       invariantKind: "departure",
       statement: "The node is named as a word or after `--node`.",
