@@ -15,7 +15,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperCatalogInvalidate as page } from "akasha/commands/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.ts"
-import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
+import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/modules/domain-keys/domain-keys.module.code.ts"
 import { resolveSideFilePath } from "akasha/temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
   computeNextSideFile,

@@ -1,4 +1,4 @@
-import { componentTestMissingDom } from "akasha/testing-system/dom-guarding/dom-guarding.module.code.ts"
+import { componentTestMissingDom } from "akasha/testing-system/modules/dom-guarding/dom-guarding.module.code.ts"
 
 if (componentTestMissingDom(process.argv, typeof globalThis.document !== "undefined")) {
   throw new Error(
@@ -15,7 +15,7 @@ if (componentTestMissingDom(process.argv, typeof globalThis.document !== "undefi
       "  cd <that-dir> && bun test <path-relative-to-that-dir>",
       "",
       "or preload the document registrar explicitly from the root:",
-      "  bun test --preload @akasha/testing-system/dom-registering <path>",
+      "  bun test --preload @akasha/testing-system/modules/dom-registering <path>",
     ].join("\n")
   )
 }

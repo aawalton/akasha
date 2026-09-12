@@ -2,7 +2,7 @@ import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import {
   CATALOG_DOMAIN_KEYS,
   type DomainKey,
-} from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
+} from "akasha/temper/catalog-core/modules/domain-keys/domain-keys.module.code.ts"
 import { readAccountSummaries } from "akasha/temper/catalog-host/saved-variables-reader/saved-variables-reader.module.code.ts"
 import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 

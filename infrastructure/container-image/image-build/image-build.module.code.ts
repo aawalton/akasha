@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
 import {
   IMAGES,
   ROOT,
 } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
+import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

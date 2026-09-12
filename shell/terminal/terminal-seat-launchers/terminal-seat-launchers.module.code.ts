@@ -12,7 +12,7 @@ import {
   personaDocumentGateLines,
   personaDocumentStandsShell,
   personDocumentStandsShell,
-} from "akasha/shell/terminal/document-present/document-present.module.code.ts"
+} from "akasha/shell/terminal/modules/document-present/document-present.module.code.ts"
 import {
   SEAT_START,
   SEAT_SUPERVISOR_STOP,

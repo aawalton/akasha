@@ -1,6 +1,5 @@
 import { join } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
-import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
 import { generateBunServiceDockerfile } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-bun-service/dockerfile-bun-service.module.code.ts"
 import {
   buildPackageNameMap,
@@ -16,6 +15,7 @@ import {
   ROOT,
   SERVICES,
 } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
+import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function extensionsOf(config: ServiceConfig): DockerfileExtensions {
