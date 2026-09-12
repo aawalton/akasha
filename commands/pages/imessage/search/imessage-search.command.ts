@@ -37,7 +37,7 @@ export const imessageSearch = {
   name: "search",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/query-file" },
+    { argument: "argument/query-file", notWith: ["argument/message-query"] },
     { argument: "argument/message-query", saidAs: "flag-or-word" },
     { argument: "argument/contact" },
     { argument: "argument/limit" },

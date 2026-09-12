@@ -1,35 +1,29 @@
 import { buildSearchSql } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
-  CONTACT_SAID,
-  countOf,
-  JSON_SAID,
-  LIMIT_SAID,
+  countRefused,
   messagesAnswered,
   namingIn,
-  type Reading,
-  wordsIn,
 } from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
 } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { contact } from "akasha/commands/arguments/pages/contact.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { messageQuery } from "akasha/commands/arguments/pages/message-query.argument.ts"
+import { queryFile } from "akasha/commands/arguments/pages/query-file.argument.ts"
 import {
   answering,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  filing,
-  proseIn,
-  wordFilling,
-} from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { imessageSearch as page } from "akasha/commands/pages/imessage/search/imessage-search.command.ts"
 
-const QUERY = filing("--query")
-
-const VALUED = [QUERY.said, QUERY.file, CONTACT_SAID, LIMIT_SAID]
-
-const SWITCHES = [JSON_SAID]
+const QUERY = filing(messageQuery.said)
 
 const DEFAULT_LIMIT = 20
 
@@ -37,59 +31,43 @@ const OVER_ASKED_BY = 5
 
 const WANTS = "what to search for"
 
-export type Read = {
-  readonly query: string
-  readonly contact: string | undefined
-  readonly limit: number
-  readonly json: boolean
-}
-
-export function readIn(argv: readonly string[], given: Given): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const refusals: string[] = []
-  const word = wordFilling(said, QUERY.said, WANTS)
-  if (typeof word === "object") refusals.push(...word.refused)
-  const filed = proseIn(given.root, said.named, QUERY)
-  if ("refused" in filed) refusals.push(...filed.refused)
-  if (said.loose.length > 0 && said.named[QUERY.file] !== undefined) {
-    refusals.push(
-      `${WANTS} is said as a word and at \`${QUERY.file}\`, and one way at a time is the way`
-    )
-  }
-  const limit = countOf(said.named[LIMIT_SAID], LIMIT_SAID)
-  if (typeof limit === "object") refusals.push(...limit.refused)
-  const query = typeof word === "string" ? word : "refused" in filed ? undefined : filed.text
-  if (query === undefined) refusals.push(`this names ${WANTS}, and nothing did`)
-  if (refusals.length > 0 || query === undefined) return { refused: refusals }
-  return {
-    query,
-    contact: said.named[CONTACT_SAID],
-    limit: typeof limit === "number" ? limit : DEFAULT_LIMIT,
-    json: said.flags.has(JSON_SAID),
-  }
+export function wrongIn(query: string | undefined): readonly string[] {
+  return query === undefined ? [`this names ${WANTS}, and nothing did`] : []
 }
 
 export function imessageSearch(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = readIn(argv, given)
-  if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
+  const read = takenFor(argv, given.calledAs, page, [
+    json,
+    queryFile,
+    messageQuery,
+    contact,
+    limitArgument,
+  ])
+  if ("refused" in read) return Promise.resolve(refusedBy(read.refused))
+  const taken = read.taken
+  const held = filledIn(given.root, taken.messageQuery, taken.queryFile, QUERY)
+  if ("refused" in held) return Promise.resolve(refusedBy(held.refused))
+  const query = held.text
+  const wrong = [...wrongIn(query), ...countRefused(taken.limit, limitArgument.said)]
+  if (wrong.length > 0 || query === undefined) return Promise.resolve(refusedBy(wrong))
+  const limit = taken.limit ?? DEFAULT_LIMIT
   return answering(async () => {
     const handleRowids =
-      said.contact === undefined ? undefined : await resolveContactHandleRowids(said.contact)
+      taken.contact === undefined ? undefined : await resolveContactHandleRowids(taken.contact)
     const [candidates, contacts] = await Promise.all([
       fetchMessages(
         buildSearchSql({
-          query: said.query,
-          limit: said.limit * OVER_ASKED_BY,
+          query,
+          limit: limit * OVER_ASKED_BY,
           ...(handleRowids === undefined ? {} : { handleRowids }),
         })
       ),
       fetchContacts(),
     ])
-    const needle = said.query.toLowerCase()
+    const needle = query.toLowerCase()
     const matched = candidates
       .filter((one) => one.text.toLowerCase().includes(needle))
-      .slice(0, said.limit)
-    return messagesAnswered(matched, namingIn(contacts), said.json)
+      .slice(0, limit)
+    return messagesAnswered(matched, namingIn(contacts), taken.json)
   })
 }
