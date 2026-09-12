@@ -105,6 +105,7 @@ export const command = {
     "record-property/command-arguments",
     "select-property/said-as",
     "relation-property/not-with",
+    "relation-property/one-of",
     "module/beside-sweeping",
     "module/long-body",
     "boolean-property/repeats",
