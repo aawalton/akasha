@@ -9,7 +9,7 @@ import {
 } from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
 import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const CALENDAR = "--calendar"
@@ -280,12 +280,4 @@ export async function eventsIn() {
 
 export function answeredAsJson(work: (done: string[]) => Promise<unknown>): Promise<Answer> {
   return answering(async (done) => told(JSON.stringify(await work(done), null, 2).split("\n")))
-}
-
-export function answeredAsJsonBy(
-  read: Read,
-  work: (taken: Said, done: string[]) => Promise<unknown>
-): Promise<Answer> {
-  if ("refused" in read) return Promise.resolve(mistaking(read.refused))
-  return answeredAsJson((done) => work(read, done))
 }

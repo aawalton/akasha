@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
-  answeredAsJsonBy,
+  answeredAsJson,
   CALENDAR,
   END,
   EVENT,
@@ -134,19 +134,17 @@ test("a whole call reads to what it was said", () => {
   expect(read.said.get(MAX)).toBe("5")
 })
 
-const TAKEN = readIn(["abc123"], GETTING)
-
 const TOOK_IT = "work@example.com took the change to event abc123"
 
 test("a call the calendar took is answered as the value it gave, laid out as JSON", async () => {
-  const held = await answeredAsJsonBy(TAKEN, async () => ({ id: "abc123" }))
+  const held = await answeredAsJson(async () => ({ id: "abc123" }))
 
   expect(held.code).toBe(0)
   expect(held.report.join("")).toContain("abc123")
 })
 
 test("a call that threw after the calendar took the write names that write in its refusal", async () => {
-  const held = await answeredAsJsonBy(TAKEN, async (_taken, done) => {
+  const held = await answeredAsJson(async (done) => {
     done.push(TOOK_IT)
     throw new OperationalError("the reply would not read")
   })
@@ -160,7 +158,7 @@ test("a call that threw after the calendar took the write names that write in it
 })
 
 test("a call that threw before the calendar took anything names no write", async () => {
-  const held = await answeredAsJsonBy(TAKEN, async () => {
+  const held = await answeredAsJson(async () => {
     throw new OperationalError("the calendar would not answer")
   })
 
@@ -169,7 +167,7 @@ test("a call that threw before the calendar took anything names no write", async
 })
 
 test("a call that threw a fault of no known kind is operational rather than seventy", async () => {
-  const held = await answeredAsJsonBy(TAKEN, async () => {
+  const held = await answeredAsJson(async () => {
     throw new Error("the reply was not the shape asked for")
   })
 
