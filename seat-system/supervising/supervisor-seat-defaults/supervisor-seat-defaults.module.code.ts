@@ -56,7 +56,14 @@ export async function stateSeatDefaults(opts: {
 }): Promise<void> {
   if (seatDefaultsStand(opts.agentId, opts.mode)) return
   try {
-    await run(defaultStating(opts.agentId, opts.mode))
+    const said = await run(defaultStating(opts.agentId, opts.mode))
+    if (said.kind === "refused") {
+      console.error(
+        `${LOG} stating the defaults of seat ${opts.agentId} was refused, so this boot carries ` +
+          "whatever its page already said, and a boot that has no page carries no seat name: " +
+          said.said.trim()
+      )
+    }
   } catch (err) {
     console.error(
       `${LOG} stating the defaults of seat ${opts.agentId} failed, so this boot carries ` +
