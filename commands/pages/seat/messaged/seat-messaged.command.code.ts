@@ -2,6 +2,7 @@ import {
   raiseMessages,
   sentIn,
 } from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
@@ -69,8 +70,8 @@ export async function seatMessaged(argv: readonly string[], given: Given): Promi
   const counted = raiseMessages(given.root, slug, at)
   const sent = counted === null ? null : sentIn(counted, slug)
   if (sent === null) {
-    return { report: [`${slug} ${at.toISOString()}`, NO_DAY], refusals: [], code: 0 }
+    return told([`${slug} ${at.toISOString()}`, NO_DAY])
   }
   keepPointsToday(given.root, persona, pointsIn(sent))
-  return { report: [`${slug} ${at.toISOString()} ${String(sent)}`], refusals: [], code: 0 }
+  return told([`${slug} ${at.toISOString()} ${String(sent)}`])
 }

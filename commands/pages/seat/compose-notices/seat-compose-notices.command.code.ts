@@ -4,6 +4,7 @@ import { notices } from "akasha/agents/messaging/notices/compose-notices/compose
 import {
   faulted,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
@@ -50,9 +51,9 @@ export function seatComposeNotices(argv: readonly string[], given: Given): Answe
   }
   try {
     const json = saidOf(found)
-    if (read.output === null) return { report: [json], refusals: [], code: 0 }
+    if (read.output === null) return told([json])
     writeFileSync(pathOf(read.output, resolve(given.root)), `${json}\n`)
-    return { report: [], refusals: [], code: 0 }
+    return told([])
   } catch (thrown) {
     return faulted(thrown)
   }
