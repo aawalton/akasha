@@ -49,13 +49,13 @@ import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
 } from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { collectMotifKnowledge } from "akasha/temper/player-completion-state/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import {
   getSavedVariables,
   initializeSavedVariables,
   pruneDeletedCharacters,
 } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { initializeSkillPointFinder } from "akasha/temper/skill-point-finder/skill-point-finder-init/skill-point-finder-init.module.code.ts"
 
 const FIRST_READ_DELAY_MS = 3000

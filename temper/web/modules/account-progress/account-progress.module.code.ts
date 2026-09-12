@@ -1,4 +1,3 @@
-import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { transformCollectiblesProgress } from "akasha/temper/player-completion/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
 import type { ItemSetOverallProgress } from "akasha/temper/player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
@@ -36,6 +35,7 @@ import {
 } from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
 import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformAccountAchievementProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,

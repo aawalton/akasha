@@ -23,7 +23,7 @@ import {
 import { updateSkillPoints } from "akasha/temper/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { updateTraitResearch } from "akasha/temper/characters-addon/modules/characters-trait-research/characters-trait-research.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 
 const TRAIT_RESEARCH_EVENTS = [
   { suffix: "_TraitResearchCompleted", event: EVENT_SMITHING_TRAIT_RESEARCH_COMPLETED },

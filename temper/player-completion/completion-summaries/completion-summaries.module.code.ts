@@ -1,6 +1,4 @@
 import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
-import { transformCadwellProgress } from "akasha/temper/player-completion/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
 import type {
   AccountSummaryData,
   CharacterSummaryData,
@@ -48,6 +46,8 @@ import {
   transformAccountAchievementProgress,
   transformCharacterAchievementProgress,
 } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
+import { transformCadwellProgress } from "akasha/temper/player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {
