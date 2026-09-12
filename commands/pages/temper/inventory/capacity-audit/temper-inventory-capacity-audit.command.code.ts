@@ -1,4 +1,8 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   OPERATIONAL,
   refused,
@@ -7,6 +11,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryCapacityAudit as page } from "akasha/commands/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts"
 import {
   capacityFilter,
   planInputs,
@@ -14,55 +19,11 @@ import {
 } from "akasha/temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { CapacityAudit } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 
-const INVENTORY_PATH = "--inventory-path"
-
-const CHARACTERS_PATH = "--characters-path"
-
-const JSON_FLAG = "--json"
+const TAKES = [json, inventoryPathArgument, charactersPathArgument]
 
 const SPACES = 2
 
 const AUDIT_HEADER = "[TemperInventory] Capacity audit:"
-
-export type Read =
-  | {
-      readonly inventoryPath: string | null
-      readonly charactersPath: string | null
-      readonly json: boolean
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let inventoryPath: string | null = null
-  let charactersPath: string | null = null
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    if (one === INVENTORY_PATH || one === CHARACTERS_PATH) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      if (one === INVENTORY_PATH) inventoryPath = value
-      else charactersPath = value
-      continue
-    }
-    refusals.push(
-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
-        `\`${CHARACTERS_PATH}\` and \`${JSON_FLAG}\``
-    )
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { inventoryPath, charactersPath, json }
-}
 
 export function auditSaid(audit: CapacityAudit): readonly string[] {
   if (audit.entries.length === 0) {
@@ -84,22 +45,23 @@ export function auditSaid(audit: CapacityAudit): readonly string[] {
 }
 
 export async function temperInventoryCapacityAudit(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in read) return refusedBy(read.refused)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const taken = read.taken
+  const root = resolve(given.root)
   try {
     const inputs = await planInputs()
     const inventoryPath =
-      read.inventoryPath === null
+      taken.inventoryPath === undefined
         ? inputs.DEFAULT_INVENTORY_PATH
-        : resolve(root, read.inventoryPath)
+        : resolve(root, taken.inventoryPath)
     const charactersPath =
-      read.charactersPath === null
+      taken.charactersPath === undefined
         ? inputs.DEFAULT_CHARACTERS_PATH
-        : resolve(root, read.charactersPath)
+        : resolve(root, taken.charactersPath)
     const { db, orderedRules, itemRules, context, classifiedItems } =
       await inputs.loadInventoryPlanInputs(inventoryPath, charactersPath)
     const matcher = await ruleMatcher()
@@ -116,7 +78,7 @@ export async function temperInventoryCapacityAudit(
       matched.ruleMap,
       db
     )
-    if (read.json) return told(JSON.stringify(audit, null, SPACES).split("\n"))
+    if (taken.json) return told(JSON.stringify(audit, null, SPACES).split("\n"))
     return told([...auditSaid(audit)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
