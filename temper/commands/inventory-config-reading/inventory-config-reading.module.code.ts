@@ -230,8 +230,8 @@ export function parseTemperInventoryConfig(content: string): CompiledInventoryCo
   })
 
   const orderedRules: ReadonlyArray<CompiledOrderedRule> = compiled.orderedRules.map((rule) => {
-    const { id: _id, ...rest } = rule
-    return rest
+    const { id, ...rest } = rule
+    return id === undefined ? rest : { ...rest, id }
   })
 
   return {

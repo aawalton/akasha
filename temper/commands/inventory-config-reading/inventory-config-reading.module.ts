@@ -22,11 +22,11 @@ export const inventoryConfigReading = {
     },
     {
       invariantKind: "departure",
-      statement: "An ordered rule has no id.",
+      statement: "An ordered rule carries the id the addon gave it.",
     },
     {
       invariantKind: "departure",
-      statement: "The id is the caller's to hold.",
+      statement: "An ordered rule the addon left unnamed carries no id.",
     },
     {
       invariantKind: "departure",

@@ -38,12 +38,15 @@ test("an unnamed rule is named for its category and its place, and a named one k
   expect(held.rules.map((one) => one.id)).toEqual(["weapons#0", "named"])
 })
 
-test("an ordered rule carries no id, the id being the caller's to hold", () => {
+test("an ordered rule carries the id the addon gave it", () => {
   const held = parseTemperInventoryConfig(TWO_RULES)
   expect(held.orderedRules).toHaveLength(2)
-  for (const one of held.orderedRules) {
-    expect(Object.hasOwn(one, "id")).toBe(false)
-  }
+  expect(held.orderedRules[1]?.id).toBe("named")
+})
+
+test("an ordered rule the addon left unnamed carries no id", () => {
+  const held = parseTemperInventoryConfig(TWO_RULES)
+  expect(Object.hasOwn(held.orderedRules[0] ?? {}, "id")).toBe(false)
 })
 
 test("a character priority written as a lua list reads as a list", () => {
