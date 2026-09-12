@@ -1,4 +1,3 @@
-import type { CurrencyCatalogEntry } from "akasha/temper/capture-shapes/currency-catalog/currency-catalog.module.code.ts"
 import type { FurnitureCatalogData } from "akasha/temper/capture-shapes/furniture-catalog/furniture-catalog.module.code.ts"
 import type { InventoryConstantsCatalogData } from "akasha/temper/capture-shapes/inventory-constants-catalog/inventory-constants-catalog.module.code.ts"
 import type { ItemSetCatalogEntry } from "akasha/temper/capture-shapes/item-set-catalog/item-set-catalog.module.code.ts"
@@ -10,6 +9,7 @@ import type { ClassCatalogEntry } from "akasha/temper/capture-shapes/modules/cla
 import type { CollectiblesCatalogData } from "akasha/temper/capture-shapes/modules/collectibles-catalog/collectibles-catalog.module.code.ts"
 import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes/modules/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
 import type { CompanionSkillCatalogLine } from "akasha/temper/capture-shapes/modules/companion-skill-catalog/companion-skill-catalog.module.code.ts"
+import type { CurrencyCatalogEntry } from "akasha/temper/capture-shapes/modules/currency-catalog/currency-catalog.module.code.ts"
 import type { PoiCatalogZone } from "akasha/temper/capture-shapes/poi-catalog/poi-catalog.module.code.ts"
 import type { RecipeCatalogList } from "akasha/temper/capture-shapes/recipe-catalog/recipe-catalog.module.code.ts"
 import type { ScribingCatalogData } from "akasha/temper/capture-shapes/scribing-catalog/scribing-catalog.module.code.ts"
