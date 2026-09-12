@@ -18,6 +18,7 @@ export const workspace = {
     "file-property/workspace-manifest",
     "build-folder-property/package-directory",
     "module/manifest-locking",
+    "text-property/tool-reached",
   ],
   extends: ["page-type/domain"],
   properties: [

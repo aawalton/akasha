@@ -6,7 +6,7 @@ export const workspacePackage = {
   slug: "workspace-package",
   definition: "a folder with a package.json file",
   pluralSlug: "workspace-packages",
-  parts: ["file-property/manifest", "text-property/tool-reached"],
+  parts: ["file-property/manifest"],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/manifest", required: false, many: false },
