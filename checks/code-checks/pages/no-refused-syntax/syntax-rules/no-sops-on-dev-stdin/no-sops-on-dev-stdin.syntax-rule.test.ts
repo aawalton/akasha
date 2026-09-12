@@ -4,6 +4,7 @@ import {
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
+  mark,
   noSopsOnDevStdin,
   spelledIn,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.code.ts"
@@ -71,6 +72,12 @@ test("the reason carries what to do instead", () => {
 test("only whole literals are read, so a joined path is not seen", () => {
   const text = 'run("sops", `${dir}/dev/stdin`)\n'
   expect(noSopsOnDevStdin(parsed(text))).toEqual([])
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'run("sops", "-e", "/dev/stdin")\n'
+  expect(noSopsOnDevStdin(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("strings are gathered out of a nested list and nothing else", () => {

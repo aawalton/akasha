@@ -1,9 +1,14 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
+
+const VOID = "void"
+
+export const mark: Marking = (text) => text.includes(VOID)
 
 const DROPPED =
   "so a body handing back a value fills it and that value is dropped without a word — an async body's promise above all"

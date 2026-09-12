@@ -4,6 +4,7 @@ import {
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
+  mark,
   noScrubBashEnvUndoes,
   saidIn,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-scrub-bash-env-undoes/no-scrub-bash-env-undoes.syntax-rule.code.ts"
@@ -114,6 +115,12 @@ test("a call refused is not read again through the string that call holds", () =
 test("the reason carries what to write instead", () => {
   const said = noScrubBashEnvUndoes(parsed('run("env -u SOMETHING bash -c ls")\n'))
   expect(said[0]?.reason).toContain("BASH_ENV=")
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'run("env", "-u", "SOMETHING", "bash", "-c", one)\n'
+  expect(noScrubBashEnvUndoes(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("words are gathered out of a nested list, and what cannot be spelled is marked", () => {

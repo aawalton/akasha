@@ -1,11 +1,14 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf, literalPartIn } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const COMMANDS_AT = "commands/pages/"
+
+export const mark: Marking = (_text, path) => path.startsWith(COMMANDS_AT)
 
 const JUDGED = /(?:\.code\.tsx?|\.command\.ts)$/
 

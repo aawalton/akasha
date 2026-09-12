@@ -6,6 +6,7 @@ import {
 import {
   ends,
   exhaustiveDispatch,
+  mark,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
@@ -70,6 +71,12 @@ test("a switch nested inside another statement is judged too", () => {
 test("two switches falling out are refused once each", () => {
   const text = `${switching("")}${switching("")}`
   expect(exhaustiveDispatch(parsed(text))).toHaveLength(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = switching("")
+  expect(exhaustiveDispatch(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("a statement ends the dispatch only where it throws, returns, or asserts never", () => {

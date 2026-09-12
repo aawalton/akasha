@@ -1,6 +1,7 @@
 import { wordsOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
@@ -15,6 +16,10 @@ type Reading = {
 }
 
 const ENV = /(?:^|\/)env$/
+
+const ENV_SPELLED = "env"
+
+export const mark: Marking = (text) => text.includes(ENV_SPELLED)
 
 const BASH = /(?:^|\/)bash$/
 

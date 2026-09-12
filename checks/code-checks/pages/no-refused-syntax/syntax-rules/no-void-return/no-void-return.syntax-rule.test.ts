@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noVoidReturn } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noVoidReturn,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.code.ts"
 
 test("a file returning nothing that way is refused nothing", () => {
   expect(noVoidReturn(parsed("export const one = 1\n"))).toEqual([])
@@ -106,6 +112,12 @@ test("a function nested inside a call is judged too", () => {
 test("the line named is the annotation's own", () => {
   const said = noVoidReturn(parsed("const one = 1\nfunction two(): void {}\n"))
   expect(said[0]?.line).toBe(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "function one(): void {}\n"
+  expect(noVoidReturn(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two of them are refused once each", () => {

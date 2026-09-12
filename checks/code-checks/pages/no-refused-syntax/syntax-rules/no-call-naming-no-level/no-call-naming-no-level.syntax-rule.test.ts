@@ -5,7 +5,10 @@ import {
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noCallNamingNoLevel } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-call-naming-no-level/no-call-naming-no-level.syntax-rule.code.ts"
+import {
+  mark,
+  noCallNamingNoLevel,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-call-naming-no-level/no-call-naming-no-level.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
@@ -96,6 +99,12 @@ test("a finding is judged nothing, holding what was said when it was said", () =
 
 test("the same call outside a finding is refused", () => {
   expect(over(said(marked("change take")))).toHaveLength(1)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = said(marked("change take"))
+  expect(over(text)).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("the line named is the line the literal is on", () => {

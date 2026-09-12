@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   commandExportNamedForItsSlug,
+  mark,
   slugOf,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/command-export-named-for-its-slug/command-export-named-for-its-slug.syntax-rule.code.ts"
 import type {
@@ -78,6 +79,12 @@ test("a module beside the command is judged nothing", () => {
 
 test("a file outside the commands is refused nothing", () => {
   expect(judging(OUTSIDE_AT, "export const other = 1\n")).toEqual([])
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "export function hummingDeepSongs(): number {\n  return 1\n}\n"
+  expect(judging(SONG_AT, text)).toHaveLength(1)
+  expect(mark(text, SONG_AT)).toBe(true)
 })
 
 test("the slug is read off the stem the code file is named with", () => {

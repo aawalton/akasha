@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   calledIn,
+  mark,
   noCommandSpellingItsOwnCall,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-command-spelling-its-own-call/no-command-spelling-its-own-call.syntax-rule.code.ts"
 import type {
@@ -129,6 +130,12 @@ test("the line named is the line the literal is on", () => {
     at(LEAF_AT, 'const one = 1\nconst SELF = "akasha humming leaf"\n')
   )
   expect(said[0]?.line).toBe(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'const SELF = "akasha humming deep-song"\n'
+  expect(noCommandSpellingItsOwnCall(at(HUMMED_AT, text))).toHaveLength(1)
+  expect(mark(text, HUMMED_AT)).toBe(true)
 })
 
 test("the folders a command's file sits in are answered with a space for each slash", () => {

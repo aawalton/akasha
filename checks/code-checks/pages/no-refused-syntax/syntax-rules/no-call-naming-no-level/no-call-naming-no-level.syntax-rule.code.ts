@@ -1,11 +1,16 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf, literalPartIn } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const MARKED = /`akasha[ \t]+([^`\n]+)`/g
+
+const OPENS_MARKED = "`akasha"
+
+export const mark: Marking = (text) => text.includes(OPENS_MARKED)
 
 const RECORDS_WHAT_WAS_SAID = /\.finding\.tsx?$/
 

@@ -1,11 +1,14 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const PIPE = "/dev/stdin"
+
+export const mark: Marking = (text) => text.includes(PIPE)
 
 const MARKERS: ReadonlySet<string> = new Set(["sops", "--filename-override"])
 

@@ -4,6 +4,7 @@ import {
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
+  mark,
   midnightPinned,
   noLocalMidnightParse,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.code.ts"
@@ -90,6 +91,12 @@ test("a date nested inside a call is judged too", () => {
 test("two pinned dates are refused once each", () => {
   const text = 'const a = new Date(x + "T00:00")\nconst b = new Date(y + "T00:00:00")\n'
   expect(noLocalMidnightParse(parsed(text))).toHaveLength(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'const at = new Date(day + "T00:00")\n'
+  expect(noLocalMidnightParse(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("a pinned midnight is seen apart from what reads it", () => {

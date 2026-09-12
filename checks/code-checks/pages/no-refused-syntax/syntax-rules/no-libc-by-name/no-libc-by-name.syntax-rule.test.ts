@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
   isFamily,
+  mark,
   noLibcByName,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.code.ts"
 
@@ -66,6 +70,12 @@ test("a name built as the code runs is not seen", () => {
 test("the line named is the line the call is on", () => {
   const said = noLibcByName(parsed('const one = 1\ndlopen("libc.so.6")\n'))
   expect(said[0]?.line).toBe(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'dlopen("libc.so.6")\n'
+  expect(noLibcByName(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two openings are refused once each", () => {

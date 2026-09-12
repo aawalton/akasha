@@ -1,5 +1,6 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
@@ -8,6 +9,8 @@ import ts from "typescript"
 const MIDNIGHT = /^T00:00(:00(\.\d+)?)?/
 
 const DATE = "Date"
+
+export const mark: Marking = (text) => text.includes(DATE)
 
 const READ_WHERE =
   "so what comes back is midnight where the machine is rather than midnight where the day is"

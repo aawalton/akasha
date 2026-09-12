@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noAngleBracketCast } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noAngleBracketCast,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.code.ts"
 
 test("a file asserting nothing is refused nothing", () => {
   expect(noAngleBracketCast(parsed("export const one = 1\n"))).toEqual([])
@@ -47,6 +53,12 @@ test("one nested inside a call is judged too", () => {
 test("the line named is the line the assertion is on", () => {
   const said = noAngleBracketCast(parsed("const one = 1\nconst two = <Held>held\n"))
   expect(said[0]?.line).toBe(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "const one = <Held>held\n"
+  expect(noAngleBracketCast(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two of them are refused once each", () => {
