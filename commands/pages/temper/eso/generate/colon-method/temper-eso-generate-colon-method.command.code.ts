@@ -38,7 +38,7 @@ const BINDING = "ESO_COLON_METHOD_NAMES"
 
 const STAGE_PREFIX = "eso-colon-methods-stage-"
 
-export function temperEsoGenerateColonMethods(argv: readonly string[], given: Given): Answer {
+export function temperEsoGenerateColonMethod(argv: readonly string[], given: Given): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
