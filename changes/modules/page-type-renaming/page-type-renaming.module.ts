@@ -40,6 +40,10 @@ export const pageTypeRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A slug is written into that key as the source spells a string rather than bare.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page stating its type under both keys has both keys restated.",
     },
     {

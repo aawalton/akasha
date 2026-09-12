@@ -7,6 +7,7 @@ import {
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { faultSaid, parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -105,4 +106,29 @@ test("a page stating its type under both keys has both keys restated", () => {
 
 test("a key the page does not state is left alone", () => {
   expect(keyedAnew('type: "widget"\n', PAGE_AT, WAS, TO).length).toBe(1)
+})
+
+test("a slug the source would not hold bare is written escaped", () => {
+  expect(keyedAnew('type: "widget"\n', PAGE_AT, WAS, 'ga"dget')).toEqual([
+    {
+      kind: "replace",
+      path: PAGE_AT,
+      contentFrom: 'type: "widget"',
+      contentTo: 'type: "ga\\"dget"',
+    },
+  ])
+  expect(faultSaid(parsedAs(PAGE_AT, 'export const one = { type: "ga\\"dget" }\n'))).toBeNull()
+})
+
+test("an old slug the source would not hold bare is looked for escaped", () => {
+  const text = 'type: "wid\\"get"\n'
+
+  expect(keyedAnew(text, PAGE_AT, 'wid"get', TO)).toEqual([
+    {
+      kind: "replace",
+      path: PAGE_AT,
+      contentFrom: 'type: "wid\\"get"',
+      contentTo: 'type: "gadget"',
+    },
+  ])
 })

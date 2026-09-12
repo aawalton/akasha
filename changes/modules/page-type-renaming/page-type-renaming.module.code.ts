@@ -2,6 +2,7 @@ import { basename, dirname, join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 const KEYS = ["type", "pageTypeSlug"]
@@ -73,9 +74,14 @@ export function keyedAnew(
 ): readonly FileChange[] {
   const said: FileChange[] = []
   for (const key of KEYS) {
-    const held = `${key}: "${was}"`
+    const held = `${key}: ${saidAs(was)}`
     if (!text.includes(held)) continue
-    said.push({ kind: "replace", path: lands, contentFrom: held, contentTo: `${key}: "${to}"` })
+    said.push({
+      kind: "replace",
+      path: lands,
+      contentFrom: held,
+      contentTo: `${key}: ${saidAs(to)}`,
+    })
   }
   return said
 }
