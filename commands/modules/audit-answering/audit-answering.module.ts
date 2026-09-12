@@ -63,6 +63,14 @@ export const auditAnswering = {
       statement: "A round that would not start is refused rather than answered clean.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each code an answer exits with is named rather than written as a number.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads which checks there are.",
     },

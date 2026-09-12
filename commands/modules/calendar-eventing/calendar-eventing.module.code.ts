@@ -8,8 +8,10 @@ import {
   SEND_UPDATES,
 } from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const CALENDAR = "--calendar"
@@ -257,15 +259,11 @@ export async function answeredBy(
   calledAs: string,
   work: (taken: Said) => Promise<unknown>
 ): Promise<Answer> {
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     const value = await work(read)
-    return { report: JSON.stringify(value, null, 2).split("\n"), refusals: [], code: 0 }
+    return told(JSON.stringify(value, null, 2).split("\n"))
   } catch (thrown) {
-    return {
-      report: [],
-      refusals: [`${calledAs} — ${whyOf(thrown)}`],
-      code: exitCodeForThrowable(thrown),
-    }
+    return refusedBy([`${calledAs} — ${whyOf(thrown)}`], exitCodeForThrowable(thrown))
   }
 }

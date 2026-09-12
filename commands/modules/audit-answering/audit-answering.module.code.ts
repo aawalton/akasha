@@ -5,7 +5,14 @@ import {
   heldTo,
   reasonSaid,
 } from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { type Answer, answering } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
@@ -25,7 +32,7 @@ const NO_ROUND = "no round of the audit service ran — "
 export type Keeping = (whole: readonly string[]) => string | null
 
 export function brokenBy(thrown: unknown): Answer {
-  return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
+  return refusedBy([`nothing was judged — ${whyOf(thrown)}`], OPERATIONAL)
 }
 
 export async function judgedOver(
@@ -34,7 +41,7 @@ export async function judgedOver(
   also: readonly string[],
   keeping: Keeping | null = null
 ): Promise<Answer> {
-  if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
+  if (judging.named.length === 0) return refusedBy([NOTHING_RUNS], OPERATIONAL)
   let takenBy: readonly string[]
   let said: readonly Judged[]
   try {
@@ -43,12 +50,10 @@ export async function judgedOver(
   } catch (thrown) {
     return brokenBy(thrown)
   }
-  if (takenBy.length === 0) return { report: [], refusals: [NOTHING_TAKES], code: 3 }
+  if (takenBy.length === 0) return refusedBy([NOTHING_TAKES], OPERATIONAL)
   const held = counted(takenBy.length, "check")
   const over = `${held} judged ${counted(change.changed.length, "file")}`
-  if (said.length === 0) {
-    return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
-  }
+  if (said.length === 0) return told([`${over}, and none refused`, ...also])
   const whole = said.map((one) => `${one.path} — ${one.reason}`)
   const at = keeping === null ? null : keeping(whole)
   const lines = said.map((one) => `${one.path} — ${reasonSaid(one.reason, REASON_CEILING)}`)
@@ -58,11 +63,11 @@ export async function judgedOver(
     unrun > 0
       ? [`${counted(unrun, "check")} could not run and judged nothing, so this answer is short`]
       : []
-  return {
-    report: [`${over}, and ${counted(said.length, "refusal")} in all`, ...could, ...also],
-    refusals: at === null ? kept : [...kept, pointerFor(at)],
-    code: unrun > 0 ? 3 : 2,
-  }
+  return answering(
+    [`${over}, and ${counted(said.length, "refusal")} in all`, ...could, ...also],
+    at === null ? kept : [...kept, pointerFor(at)],
+    unrun > 0 ? OPERATIONAL : DATA
+  )
 }
 
 export type Asked = {
@@ -72,40 +77,38 @@ export type Asked = {
   readonly also: readonly string[]
 }
 
-export function codeOf(told: Told): number {
-  if (told.unrun.length > 0 || told.unanswered.length > 0) return 3
-  return told.refusals.length > 0 ? 2 : 0
+export function codeOf(round: Told): number {
+  if (round.unrun.length > 0 || round.unanswered.length > 0) return OPERATIONAL
+  return round.refusals.length > 0 ? DATA : OK
 }
 
 export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
-  const told = given.told
-  if (told.broken !== null) {
-    return { report: [], refusals: [`${NO_ROUND}${told.broken}`], code: 3 }
-  }
+  const round = given.told
+  if (round.broken !== null) return refusedBy([`${NO_ROUND}${round.broken}`], OPERATIONAL)
   const over = `${counted(given.checks, "check")} answered for ${given.commit}`
   const said =
-    told.refusals.length === 0
+    round.refusals.length === 0
       ? `${over}, and none refused`
-      : `${over}, and ${counted(told.refusals.length, "refusal")} in all`
+      : `${over}, and ${counted(round.refusals.length, "refusal")} in all`
   const could =
-    told.unrun.length > 0
-      ? [`${counted(told.unrun.length, "check")} could not run: ${told.unrun.join(", ")}`]
+    round.unrun.length > 0
+      ? [`${counted(round.unrun.length, "check")} could not run: ${round.unrun.join(", ")}`]
       : []
   const left =
-    told.unanswered.length > 0
+    round.unanswered.length > 0
       ? [
-          `${counted(told.unanswered.length, "check")} is unanswered there: ` +
-            told.unanswered.join(", "),
+          `${counted(round.unanswered.length, "check")} is unanswered there: ` +
+            round.unanswered.join(", "),
         ]
       : []
-  const at = keeping === null || told.refusals.length === 0 ? null : keeping(told.refusals)
+  const at = keeping === null || round.refusals.length === 0 ? null : keeping(round.refusals)
   const kept = heldTo(
-    told.refusals.map((one) => reasonSaid(one, REASON_CEILING)),
+    round.refusals.map((one) => reasonSaid(one, REASON_CEILING)),
     ANSWER_CEILING
   )
-  return {
-    report: [said, ...could, ...left, ...given.also],
-    refusals: at === null ? kept : [...kept, pointerFor(at)],
-    code: codeOf(told),
-  }
+  return answering(
+    [said, ...could, ...left, ...given.also],
+    at === null ? kept : [...kept, pointerFor(at)],
+    codeOf(round)
+  )
 }

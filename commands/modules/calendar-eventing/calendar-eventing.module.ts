@@ -37,6 +37,18 @@ export const calendarEventing = {
       statement: "An act that only reads reaches the calendar as the account akasha runs under.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A flag this act does not take is a fault of the input.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call the calendar threw on exits with the code that throw carries.",
+    },
+    {
       invariantKind: "absence",
       statement: "No act word is read here, because the namespace walked names the act.",
     },
