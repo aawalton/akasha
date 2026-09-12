@@ -118,6 +118,18 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
+      statement: "A push that threw after it committed names that commit in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push that threw has the pair beside the page as a refused landing does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rescue that throws is said rather than thrown, so a push still answers.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Pushing one account's credential opens that account's page and no other page.",
     },
     {

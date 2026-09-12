@@ -121,7 +121,7 @@ export function sopsIn(said: Partial<Doors> = {}): Sops {
       return text === undefined ? null : valuesOf(text)
     },
     cipherMade: (root, page, values) => ({ text: cipherText(root, page, values), why: "" }),
-    landing: async (root, asked, message): Promise<Applied> => {
+    landing: async (_done, root, asked, message): Promise<Applied> => {
       landed.push(message)
       for (const [at, body] of bodiesOf(asked)) held.set(join(root, at), body)
       return LANDED
@@ -149,14 +149,14 @@ export function seeded(
 }
 
 export function silentLanding(sops: Sops): Doors["landing"] {
-  return async (root, asked, message) => {
+  return async (_done, root, asked, message) => {
     sops.landed.push(`${message} ${root} ${asked.length}`)
     return LANDED
   }
 }
 
 export function crossedLanding(sops: Sops): Doors["landing"] {
-  return async (root, asked, message) => {
+  return async (_done, root, asked, message) => {
     sops.landed.push(message)
     const crossed = new Map([
       [ACCESS_KEY, "fake-access-token-something-else"],
@@ -170,15 +170,38 @@ export function crossedLanding(sops: Sops): Doors["landing"] {
 }
 
 export function spoilingLanding(sops: Sops, at: string): Doors["landing"] {
-  return async (root, asked, message) => {
-    const said = await sops.doors.landing(root, asked, message)
+  return async (done, root, asked, message) => {
+    const said = await sops.doors.landing(done, root, asked, message)
     writeFileSync(join(root, at), "this is not a page body\n")
     return said
   }
 }
 
+export const THREW_AFTER_COMMIT = "1111111111111111111111111111111111111111"
+
+export function committingThenThrowingLanding(sops: Sops): Doors["landing"] {
+  return async (done, root, asked, message) => {
+    await sops.doors.landing(done, root, asked, message)
+    done.push(THREW_AFTER_COMMIT)
+    throw new Error("the work after that commit stopped")
+  }
+}
+
 export function refusingLanding(refusals: readonly string[]): Doors["landing"] {
   return async () => ({ refusals, code: EXIT.DATA })
+}
+
+export function refusingSops(): Sops {
+  return sopsIn({ landing: refusingLanding(FAILED) })
+}
+
+export function pushedWith(
+  root: string,
+  slug: string,
+  sops: Sops,
+  landing: Doors["landing"]
+): Promise<Push> {
+  return pushed(root, credentialOf(slug), { ...sops.doors, landing })
 }
 
 export function heldIn(sops: Sops, root: string, page: string): ReadonlyMap<string, string> {

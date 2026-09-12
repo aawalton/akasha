@@ -8,7 +8,7 @@ import {
 import { accountPathIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import {
   type Asking,
-  runMechanicalChange,
+  landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -62,6 +62,7 @@ export type CipherMade = (
 ) => Composed
 
 export type Landing = (
+  done: string[],
   root: string,
   asked: readonly Asking[],
   message: string
@@ -76,7 +77,7 @@ export type Doors = {
 export const DOORS: Doors = {
   secretsRead: secretsIn,
   cipherMade: cipherFor,
-  landing: runMechanicalChange,
+  landing: landedMechanically,
 }
 
 export type Push =
@@ -154,6 +155,24 @@ export function rescuedBeside(
   return "and the rotated pair is held beside the page, which no gate judges, so the next read takes that pair"
 }
 
+export function rescueWhy(
+  root: string,
+  page: string | null,
+  credential: Credential,
+  given: Reading,
+  pageOf: PageOf,
+  routing?: Routing
+): string {
+  if (page === null) {
+    return "and no page was reached before it threw, so the rotated pair is gone"
+  }
+  try {
+    return rescuedBeside(root, page, credential, given, pageOf, routing)
+  } catch (thrown) {
+    return `and the rescue threw as well, so the rotated pair is gone: ${saidBy(thrown)}`
+  }
+}
+
 function stampedOn(
   root: string,
   credential: Credential,
@@ -188,6 +207,8 @@ export async function pushedIn(
   routing?: Routing
 ): Promise<Push> {
   const { slug } = credential
+  const done: string[] = []
+  let reached: string | null = null
   try {
     if (!SLUG_SHAPE.test(slug)) {
       return refusedFor(slug, `\`${slug}\` is no account name a path is written from`)
@@ -215,6 +236,7 @@ export async function pushedIn(
         why: `no page is filed for \`${slug}\`, and a secret belongs to a page`,
       }
     }
+    reached = page
     const sidecar = secretAt(page)
     if (sidecar === null) return refusedFor(slug, `\`${slug}\` names no sops file beside its page`)
 
@@ -246,6 +268,7 @@ export async function pushedIn(
     const composed = doors.cipherMade(root, page, next)
     if (composed.text === null) return refusedFor(slug, composed.why)
     const landed = await doors.landing(
+      done,
       root,
       [{ at: PUT, given: { at: sidecar, body: composed.text } }],
       `akasha: credential push ${sidecar}`
@@ -280,6 +303,14 @@ export async function pushedIn(
     }
     return { kind: "pushed", slug, sidecar, keys: [...PUSHED_KEYS] }
   } catch (thrown) {
-    return refusedFor(slug, `the push threw, which it is written never to do: ${saidBy(thrown)}`)
+    const landed =
+      done.length === 0
+        ? ""
+        : ` — ${done.join(", ")} landed before it stopped, so the pair this pushed is in that commit`
+    const rescue = rescueWhy(root, reached, credential, given, pageOf, routing)
+    return refusedFor(
+      slug,
+      `the push threw, which it is written never to do: ${saidBy(thrown)}${landed} — ${rescue}`
+    )
   }
 }
