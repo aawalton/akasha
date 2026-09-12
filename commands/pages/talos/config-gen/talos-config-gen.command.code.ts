@@ -1,5 +1,10 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
@@ -27,10 +32,6 @@ export const OUTPUT = "--output"
 export const SCHEMATIC_ENV = "TALOS_SCHEMATIC_ID"
 
 const VALUED: readonly string[] = [NODE, OUTPUT]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 export type Named = { readonly node: string; readonly output: string | null }
 
@@ -100,10 +101,10 @@ async function writing(read: Named, given: Given): Promise<Answer> {
   const registryCa = cluster.registryHosts.length > 0 ? readRegistryCa() : undefined
   const patch = buildNodePatch(node, cluster, schematicSaid(), { registryCa })
   const yaml = emitDocumentsYaml([patch, ...buildNodeVolumes(node)])
-  if (read.output === null) return { report: lines(yaml), refusals: [], code: 0 }
+  if (read.output === null) return { report: lines(yaml), refusals: [], code: OK }
   const at = resolve(given.root, read.output)
   await writeFile(at, yaml)
-  return { report: [`wrote ${at}`], refusals: [], code: 0 }
+  return { report: [`wrote ${at}`], refusals: [], code: OK }
 }
 
 export async function talosConfigGen(argv: readonly string[], given: Given): Promise<Answer> {
