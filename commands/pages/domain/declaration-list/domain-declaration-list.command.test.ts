@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { declarationSubject } from "akasha/commands/arguments/pages/declaration-subject.argument.ts"
 import {
   readIn,
   SUBJECT,
@@ -32,6 +33,11 @@ test("a flag wanting a word and given none is refused", () => {
   expect(refusedIn([SUBJECT])).toContain("nothing followed it")
 })
 
+const SHOWN: Readonly<Record<string, string>> = {
+  "argument/declaration-subject": declarationSubject.said,
+}
+
 test("the page takes one flag", () => {
-  expect(domainDeclarationList.taking.map((one) => one.said)).toEqual([`${SUBJECT} <subject>`])
+  const shown = domainDeclarationList.arguments.map((one) => SHOWN[one.argument] ?? "")
+  expect(shown).toEqual([SUBJECT])
 })
