@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decideReviveIoVerify,
   lastAdvancementMs,
-} from "akasha/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
+} from "akasha/agents/seats/modules/revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 
 const REVIVED_AT = 1_000
 
