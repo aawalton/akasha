@@ -11,10 +11,6 @@ export const emailMessageTrash = {
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
-  helpNotes: [
-    "trashing is a label rather than a delete, so taking the TRASH label off brings the message back.",
-    "the labels the message carries afterwards come back with its id and its thread.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -23,6 +19,10 @@ export const emailMessageTrash = {
     {
       invariantKind: "departure",
       statement: "The labels the message has after the change come back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The message's id and its thread come back beside those labels.",
     },
     {
       invariantKind: "absence",
