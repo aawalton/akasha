@@ -6,7 +6,7 @@ export const deployingTheWorkstationKindByHandRunsPastTheDeployCeiling = {
   slug: "deploying-the-workstation-kind-by-hand-runs-past-the-deploy-ceiling",
   domain: "domain/infrastructure",
   claim:
-    "The workstation kind can be put up only by its deploy loop, because `akasha deploy service-workstation` by hand runs past the 300 seconds that command's page allows.",
+    "A deploy loop cannot put up a kind whose deploy runs past the ceiling that command's page states, because only a call can ask to be measured and a loop makes none.",
   evidence:
-    "Three by-hand runs were killed at that ceiling: mine, and two from another seat, one started 07:57:45 and gone by 08:02:45, one started 08:02:58 and gone by 08:08:02. Each held `.git/deploys/service-workstation.lock` for those five minutes, and the loop read the kind as already deploying and put nothing up on every tick meanwhile. The loop itself does not hit the ceiling, because it runs the CLI out of `.git/trees/service-workstation` rather than through `akasha`, and nothing outside the `akasha` command watches a clock.",
+    "`akasha deploy` states 300 seconds, and `--measured` lifts that for one call. On 12 September the workstation kind was stopped at that ceiling five times inside half an hour: twice from `workstation-deploying`, at 08:18:21 and 08:23:31, each after 302 seconds, and three times by hand from two seats. The ceiling is kept by the CLI wherever it runs, so running it out of `.git/trees/service-workstation` rather than through `akasha` escapes nothing. The measured run that followed reached its refusal in 169 seconds, so what the kills met was a slow moment rather than a deploy that never ends.",
 } as const satisfies Finding
