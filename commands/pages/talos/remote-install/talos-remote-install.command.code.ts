@@ -197,11 +197,6 @@ async function installing(
       `\`${methodArgument.said} ${KEXEC}\` leaves the selector to the apply, as does booting the node into maintenance mode`,
     ])
   }
-  if (!read.confirmWipe) {
-    return mistaking([
-      `${installDisk ?? "the disk the selector matches"} on ${read.ip} is wiped, and \`${confirmWipeArgument.said}\` did not say so`,
-    ])
-  }
 
   const schematicId = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
   done.push(`the schematic ${schematicId} is registered with the factory`)
