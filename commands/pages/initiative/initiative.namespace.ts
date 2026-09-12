@@ -6,11 +6,11 @@ export const initiative = {
   slug: "initiative",
   definition: "the initiatives at work and the intents each one has",
   parts: [
+    "command/initiative-delete",
+    "command/initiative-delete-intent",
+    "command/initiative-hand-intent",
     "command/initiative-move-intent",
     "command/initiative-work-tree",
-    "command/initiative-delete-intent",
-    "command/initiative-delete",
-    "command/initiative-hand-intent",
   ],
   name: "initiative",
 } as const satisfies Namespace

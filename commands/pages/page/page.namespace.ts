@@ -5,6 +5,6 @@ export const page = {
   type: "namespace",
   slug: "page",
   definition: "the pages themselves, reached as pages rather than as what they are about",
-  parts: ["command/page-icon-search-index-generate", "namespace/page-secret", "command/page-tree"],
+  parts: ["command/page-icon-search-index-generate", "command/page-tree", "namespace/page-secret"],
   name: "page",
 } as const satisfies Namespace
