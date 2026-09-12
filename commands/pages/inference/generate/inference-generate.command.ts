@@ -6,6 +6,7 @@ export const inferenceGenerate = {
   slug: "inference-generate",
   definition: "the command rendering one image off a prompt through an image pool service",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
