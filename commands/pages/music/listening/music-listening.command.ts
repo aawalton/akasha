@@ -12,7 +12,6 @@ export const musicListening = {
       said: "--window <short|medium|long>",
       takes: "the window the top lists are counted over, medium where none is said",
     },
-    { said: "--limit <n>", takes: "the most rows given back for one list, ten where none is said" },
   ],
   invariants: [
     {
@@ -46,5 +45,5 @@ export const musicListening = {
     },
   ],
   name: "listening",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
 } as const satisfies Command

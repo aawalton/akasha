@@ -10,7 +10,6 @@ export const musicSearch = {
   taking: [
     { said: "query", takes: "the track query the search is made with" },
     { said: "--artist <name>", takes: "keep only candidates whose artist contains this name" },
-    { said: "--limit <n>", takes: "the most candidates given back, five where nothing is said" },
   ],
   invariants: [
     {
@@ -43,5 +42,5 @@ export const musicSearch = {
     },
   ],
   name: "search",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
 } as const satisfies Command

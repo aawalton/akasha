@@ -11,7 +11,6 @@ export const musicImportArtist = {
     { said: "<name>", takes: "the artist to look for, said as `--name` is said" },
     { said: "--name <name>", takes: "the artist to look for by name" },
     { said: "--mbid <mbid>", takes: "the artist's MusicBrainz id, which is looked for by nothing" },
-    { said: "--limit <n>", takes: "how many songs at most are brought in" },
   ],
 
   invariants: [
@@ -61,5 +60,5 @@ export const musicImportArtist = {
     },
   ],
   name: "import-artist",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
 } as const satisfies Command
