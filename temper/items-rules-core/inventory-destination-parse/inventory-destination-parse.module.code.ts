@@ -26,22 +26,26 @@ const CLOSED_DESTINATIONS: readonly MoveToDestination[] = [
   "guild-bank",
 ]
 
+const NAMED_DESTINATIONS = [
+  "house-storage:",
+  "character:",
+  "character-worn:",
+  "companion-worn:",
+  "guild-bank:",
+  "mail:",
+] as const
+
+export function destinationFormsSaid(): string {
+  return [...CLOSED_DESTINATIONS, ...NAMED_DESTINATIONS.map((one) => `${one}<name>`)].join(", ")
+}
+
 export function narrowDestination(value: string): MoveToDestination | undefined {
   if (value.length === 0) return undefined
   for (const closed of CLOSED_DESTINATIONS) {
     if (closed === value) return closed
   }
-  if (value.startsWith("house-storage:")) {
-    return `house-storage:${value.slice("house-storage:".length)}`
+  for (const named of NAMED_DESTINATIONS) {
+    if (value.startsWith(named)) return `${named}${value.slice(named.length)}`
   }
-  if (value.startsWith("character:")) return `character:${value.slice("character:".length)}`
-  if (value.startsWith("character-worn:")) {
-    return `character-worn:${value.slice("character-worn:".length)}`
-  }
-  if (value.startsWith("companion-worn:")) {
-    return `companion-worn:${value.slice("companion-worn:".length)}`
-  }
-  if (value.startsWith("guild-bank:")) return `guild-bank:${value.slice("guild-bank:".length)}`
-  if (value.startsWith("mail:")) return `mail:${value.slice("mail:".length)}`
   return undefined
 }

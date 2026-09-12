@@ -1,5 +1,9 @@
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { BuySource } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import {
+  destinationFormsSaid,
+  narrowDestination,
+} from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
 import { CategoryRuleConditionsShape } from "akasha/temper/items-rules-core/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
 import {
   type CategoryRule,
@@ -40,11 +44,13 @@ export function narrowStockScope(value: string, flagName: string): StockScope {
 }
 
 export function narrowMoveToDestination(value: string, flagName: string): MoveToDestination {
-  if (value.length === 0) {
-    throw new InputError(`${flagName}: destination must be non-empty`)
+  const found = narrowDestination(value)
+  if (found === undefined) {
+    throw new InputError(
+      `${flagName}: invalid destination '${value}' (expected one of: ${destinationFormsSaid()})`
+    )
   }
-  const SCHEMA = z.custom<MoveToDestination>((v) => typeof v === "string" && v.length > 0)
-  return SCHEMA.parse(value)
+  return found
 }
 
 export function parseBooleanFlag(value: string | undefined, flagName: string): boolean | undefined {

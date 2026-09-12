@@ -36,6 +36,20 @@ test("an empty destination is refused and a said one is taken", () => {
   expect(() => narrowMoveToDestination("", "--destination")).toThrow(InputError)
 })
 
+test("a destination taking a name is taken with that name", () => {
+  expect(narrowMoveToDestination("house-storage:4675", "--destination")).toBe("house-storage:4675")
+  expect(narrowMoveToDestination("character:by-priority", "--destination")).toBe(
+    "character:by-priority"
+  )
+})
+
+test("a destination nobody declares is refused, naming the flag and what was said", () => {
+  expect(() => narrowMoveToDestination("bnak", "--destination")).toThrow(InputError)
+  expect(() => narrowMoveToDestination("bnak", "--destination")).toThrow(
+    /--destination: invalid destination 'bnak'/
+  )
+})
+
 test("a boolean flag takes true or false, unsaid reads as unsaid, and anything else is refused", () => {
   expect(parseBooleanFlag("true", "--active")).toBe(true)
   expect(parseBooleanFlag("false", "--active")).toBe(false)
