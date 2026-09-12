@@ -6,7 +6,6 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import type {
   Downloading,
   Target,
@@ -14,7 +13,6 @@ import type {
 import {
   folderOf,
   icloudFetch,
-  readIn,
   wroteEach,
 } from "akasha/commands/pages/icloud/fetch/icloud-fetch.command.code.ts"
 
@@ -50,54 +48,43 @@ function given(): Given {
   }
 }
 
-const refusedBy = refusingWith(readIn)
-
 test("nothing said is refused, saying an album is needed", async () => {
   const said = await icloudFetch([], given())
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("none was named")
+  expect(said.refusals[0]).toBe("`akasha icloud fetch` takes `--url`, and nothing said it")
 })
 
-test("a flag it does not take is refused", () => {
-  expect(refusedBy([ALBUM, "--since", "2026"])[0]).toContain("--since")
+test("a flag it does not take is refused", async () => {
+  const said = await icloudFetch([ALBUM, "--since", "2026"], given())
+
+  expect(said.refusals[0]).toContain("--since")
 })
 
-test("a flag with no value after it is refused", () => {
-  expect(refusedBy(["--url"])[0]).toContain("takes a value")
+test("a flag with no value after it is refused", async () => {
+  const said = await icloudFetch(["--url"], given())
+
+  expect(said.refusals[0]).toBe("`--url` takes a value, and none follows it")
 })
 
-test("the album is read from the word said in place", () => {
-  const read = readIn([ALBUM])
+test("an album named in place and as a flag is refused", async () => {
+  const said = await icloudFetch([ALBUM, "--url", ALBUM], given())
 
-  if ("refused" in read) throw new Error("this was refused")
-  expect(read.said.get("--url")).toBe(ALBUM)
+  expect(said.refusals[0]).toBe(
+    "`--url` is said as a word and at its flag, and one call says it one way"
+  )
 })
 
-test("an album named in place and as a flag is refused", () => {
-  expect(refusedBy([ALBUM, "--url", ALBUM])[0]).toContain("in place")
+test("a second album is refused", async () => {
+  const said = await icloudFetch([ALBUM, ALBUM], given())
+
+  expect(said.refusals[0]).toBe("`akasha icloud fetch` takes 1 word and this call says 2 words")
 })
 
-test("a second album is refused", () => {
-  expect(refusedBy([ALBUM, ALBUM])[0]).toContain("one album")
-})
+test("the folder flag said twice is refused", async () => {
+  const said = await icloudFetch([ALBUM, "--output", "/a", "--output", "/b"], given())
 
-test("the folder is read from the folder flag", () => {
-  const read = readIn([ALBUM, "--output", "/pictures"])
-
-  if ("refused" in read) throw new Error("this was refused")
-  expect(read.said.get("--output")).toBe("/pictures")
-})
-
-test("the folder flag said twice is refused", () => {
-  expect(refusedBy([ALBUM, "--output", "/a", "--output", "/b"])[0]).toContain("twice")
-})
-
-test("the json flag is alone and takes no value", () => {
-  const read = readIn([ALBUM, "--json"])
-
-  if ("refused" in read) throw new Error("this was refused")
-  expect(read.json).toBe(true)
+  expect(said.refusals[0]).toBe("`--output` is said twice, and one call says it once")
 })
 
 test("a folder named as a relative path is read against the repository root", () => {
