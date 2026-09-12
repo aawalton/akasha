@@ -9,7 +9,7 @@ import {
 import {
   extensionsFor,
   heldNamed,
-} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const TS = ".ts"

@@ -2,7 +2,7 @@ import type { Body } from "akasha/checks/modules/change-walking/change-walking.m
 import {
   extensionsFor,
   heldNamed,
-} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
 import {
   type Carried,
   foldersFor,

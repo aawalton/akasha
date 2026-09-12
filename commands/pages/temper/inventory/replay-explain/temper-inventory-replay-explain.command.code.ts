@@ -18,7 +18,7 @@ import {
   formatExplainWalk,
   type JsonOutput,
   type RuleTraceRow,
-} from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
+} from "akasha/temper/explain/modules/explain-walk/explain-walk.module.code.ts"
 
 const TAKES = [inventoryPathArgument, itemlink]
 

@@ -1,8 +1,4 @@
 import {
-  createExportedIdentifier,
-  getSymbolExportScope,
-} from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
-import {
   getExtensionKindForNode,
   getExtensionKindForSymbol,
 } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
@@ -21,6 +17,10 @@ import {
 import { tempSymbolId } from "akasha/design/language/lua-compiler/modules/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
+import {
+  createExportedIdentifier,
+  getSymbolExportScope,
+} from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import {
   getOptionalContinuationData,
   isOptionalContinuation,

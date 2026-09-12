@@ -3,7 +3,7 @@ import type {
   Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { calledIn } from "akasha/pages/export-name/export-spelling/export-spelling.module.code.ts"
+import { calledIn } from "akasha/pages/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 const COMMANDS_AT = "commands/pages/"

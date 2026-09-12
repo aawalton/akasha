@@ -1,5 +1,4 @@
 import { upsertHealthSamples } from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
-import { streamExportLines } from "akasha/alan/harness/health-samples-import/export-fetching/export-fetching.module.code.ts"
 import { buildFetchScript } from "akasha/alan/harness/health-samples-import/health-export/health-export.module.code.ts"
 import { IMPORT_METRICS } from "akasha/alan/harness/health-samples-import/health-import/health-import.module.code.ts"
 import { importReading } from "akasha/alan/harness/health-samples-import/health-import-reading/health-import-reading.module.code.ts"
@@ -9,6 +8,7 @@ import {
   MAX_IMPORT_BATCH,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+import { streamExportLines } from "akasha/alan/harness/health-samples-import/modules/export-fetching/export-fetching.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { batch as batchArgument } from "akasha/commands/arguments/pages/batch.argument.ts"
 import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"

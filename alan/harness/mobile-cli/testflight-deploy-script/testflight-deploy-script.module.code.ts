@@ -1,4 +1,3 @@
-import { buildExportOptionsPlist } from "akasha/alan/harness/mobile-cli/export-options-plist/export-options-plist.module.code.ts"
 import {
   ascAuthArgs,
   buildKeychainUnlock,
@@ -29,6 +28,7 @@ import {
   buildValidateApp,
 } from "akasha/alan/harness/mobile-cli/modules/altool/altool.module.code.ts"
 import { buildStampGate } from "akasha/alan/harness/mobile-cli/modules/build-stamp-gate/build-stamp-gate.module.code.ts"
+import { buildExportOptionsPlist } from "akasha/alan/harness/mobile-cli/modules/export-options-plist/export-options-plist.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
   readonly app: MobileApp

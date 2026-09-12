@@ -1,7 +1,3 @@
-import {
-  addExportToIdentifier,
-  getSymbolExportScope,
-} from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
 import { createLocalOrExportedOrGlobalDeclaration } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
@@ -12,6 +8,10 @@ import {
 } from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
+import {
+  addExportToIdentifier,
+  getSymbolExportScope,
+} from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import { isFirstDeclaration } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/visit-property-name/visit-property-name.module.code.ts"

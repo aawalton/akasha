@@ -1,7 +1,3 @@
-import {
-  createExportedIdentifier,
-  getIdentifierExportScope,
-} from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
@@ -9,6 +5,10 @@ import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lua
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
+import {
+  createExportedIdentifier,
+  getIdentifierExportScope,
+} from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import {
   addScopeVariableDeclaration,
   peekScope,

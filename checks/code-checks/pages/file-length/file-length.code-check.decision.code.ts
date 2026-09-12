@@ -3,7 +3,7 @@ import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.mod
 import {
   extensionsFor,
   heldNamed,
-} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
 import {
   type Carried,
   foldersFor,

@@ -1,4 +1,3 @@
-import { addExportToIdentifier } from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
 import {
   createBoundedUnpackCall,
   createLocalOrExportedOrGlobalDeclaration,
@@ -12,6 +11,7 @@ import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-featur
 import { validateAssignment } from "akasha/design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
+import { addExportToIdentifier } from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import { unsupportedVarDeclaration } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { assert, cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"

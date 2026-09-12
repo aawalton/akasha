@@ -1,9 +1,4 @@
 import {
-  createDefaultExportStringLiteral,
-  hasDefaultExportModifier,
-} from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
-import { createExportsIdentifier } from "akasha/design/language/lua-compiler/exports-identifier/exports-identifier.module.code.ts"
-import {
   ContextType,
   getFunctionContextType,
 } from "akasha/design/language/lua-compiler/function-context/function-context.module.code.ts"
@@ -20,6 +15,11 @@ import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-featur
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
+import {
+  createDefaultExportStringLiteral,
+  hasDefaultExportModifier,
+} from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
+import { createExportsIdentifier } from "akasha/design/language/lua-compiler/modules/exports-identifier/exports-identifier.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   peekScope,

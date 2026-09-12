@@ -1,10 +1,3 @@
-import {
-  createDefaultExportExpression,
-  createExportedIdentifier,
-  hasDefaultExportModifier,
-  isSymbolExported,
-  shouldBeExported,
-} from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
 import { createSelfIdentifier } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
@@ -15,6 +8,13 @@ import type {
   TransformationContext,
 } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
+import {
+  createDefaultExportExpression,
+  createExportedIdentifier,
+  hasDefaultExportModifier,
+  isSymbolExported,
+  shouldBeExported,
+} from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   createSafeName,
