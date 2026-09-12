@@ -9,10 +9,6 @@ export const alanElaine = {
   test: "ts",
   changeKind: "change-none",
   taking: [
-    {
-      said: "health-snapshot",
-      takes: "the act, which is the latest reading of each metric beside its trailing trend",
-    },
     { said: "--days <n>", takes: "how many days back the trailing window reaches" },
     {
       said: "--path <file>",
@@ -21,7 +17,6 @@ export const alanElaine = {
     { said: "--json", takes: "the snapshot as one JSON object rather than as formatted lines" },
   ],
   helpNotes: [
-    "the act is first and one call names one act.",
     "Apple Health lives on the iPhone, so what is read is an export dropped on the macbook rather than the phone itself.",
     "the newest export zip in the macbook's downloads is taken where no path is named.",
     "the metrics are heart rate variability, resting heart rate, blood oxygen, steps and sleep.",
@@ -30,10 +25,6 @@ export const alanElaine = {
     "a window of no days is refused rather than read as the window this takes by default.",
   ],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The act is the first word.",
-    },
     {
       invariantKind: "departure",
       statement: "The archive is scanned whole on the macbook whatever window is asked for.",

@@ -9,17 +9,11 @@ import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
 
-export const HEALTH_SNAPSHOT = "health-snapshot"
-
 export const DAYS = "--days"
 
 export const PATH = "--path"
 
 export const JSON_SAID = "--json"
-
-const ACTS = [HEALTH_SNAPSHOT]
-
-const CARRIED = ACTS.join("`, `")
 
 const VALUED = new Set([DAYS, PATH])
 
@@ -29,7 +23,6 @@ const DAY_MS = 86_400_000
 
 export type Read =
   | {
-      readonly act: string
       readonly days: number
       readonly path: string | undefined
       readonly json: boolean
@@ -38,7 +31,6 @@ export type Read =
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
-  const words: string[] = []
   const said = new Map<string, string>()
   let json = false
   for (let at = 0; at < argv.length; at += 1) {
@@ -58,23 +50,9 @@ export function readIn(argv: readonly string[]): Read {
       said.set(one, value)
       continue
     }
-    if (one.startsWith("-")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${DAYS}\`, \`${PATH}\` and \`${JSON_SAID}\``
-      )
-      continue
-    }
-    words.push(one)
-  }
-  const [act, ...rest] = words
-  if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries \`${CARRIED}\``] }
-  }
-  if (!ACTS.includes(act)) {
-    refusals.push(`\`${act}\` is no act this carries — it carries \`${CARRIED}\``)
-  }
-  for (const stray of rest) {
-    refusals.push(`\`${stray}\` follows the act \`${act}\`, and one call names one act`)
+    refusals.push(
+      `\`${one}\` is no word this takes — it takes \`${DAYS}\`, \`${PATH}\` and \`${JSON_SAID}\``
+    )
   }
   let days = DEFAULT_DAYS
   const daysSaid = said.get(DAYS)
@@ -87,7 +65,7 @@ export function readIn(argv: readonly string[]): Read {
     }
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act, days, path: said.get(PATH), json }
+  return { days, path: said.get(PATH), json }
 }
 
 export function sinceDay(days: number, nowMs: number): string {
