@@ -7,15 +7,7 @@ export const alanFood = {
   definition: "the command filing one food Alan ate onto the day that food counts to",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<title>", takes: "the food's short name, said here or with `--title`" },
-    { said: "--title <name>", takes: "the food's short name, in place of the first word" },
-    { said: "--image <path>", takes: "a photo on this machine, published as the entry's cover" },
-    { said: "--plant-grams <n>", takes: "grams of whole plants in the food" },
-    { said: "--estimated-calories <n>", takes: "the food's estimated total calories" },
-    { said: "--date <YYYY-MM-DD>", takes: "the Mountain calendar date the food was eaten on" },
-    { said: "--time <HH:MM>", takes: "the Mountain wall clock it was eaten at, read on that date" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -92,7 +84,19 @@ export const alanFood = {
       invariantKind: "absence",
       statement: "Nothing here reads a photo from anywhere but this machine.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The photo a call names is published as the entry's cover.",
+    },
   ],
   name: "food",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/title", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/image" },
+    { argument: "argument/plant-grams" },
+    { argument: "argument/estimated-calories" },
+    { argument: "argument/date" },
+    { argument: "argument/time" },
+  ],
 } as const satisfies Command
