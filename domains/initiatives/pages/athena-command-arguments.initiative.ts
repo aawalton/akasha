@@ -16,7 +16,7 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Five keys on `command-arguments.record-property.ts`: `argument`, `required`, `saidAs`, `notWith`, `repeats`; `default` sits on the argument page. Of 216 pages naming arguments, 141 narrow and 75 do not, some where the code narrows instead — `track-weight.command.ts:58`. A route argument is a page ending `-file`, `c194ea764b8`, and 21 exist. Alan's: `command-taking-two-words-is-tested-from-words` landed inert — should it bind?\n",
+        "Six keys now: `argument`, `required`, `saidAs`, `notWith`, `repeats`, `oneOf`; `default` sits on the argument page. Of 74 pages naming every argument bare, 1 was understated — 73 agree with their code, and for the 34 reading through `takenFor` a gap cannot drift in, since the page is the enforcement. Two shapes no page can state: ordered pairing of `--file-path` with the `--content-file` after it, and a default one command has and another does not.\n",
     },
     {
       statement:
