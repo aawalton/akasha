@@ -1,3 +1,4 @@
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -7,10 +8,7 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
-import {
-  planSeatResolution,
-  resolveSeatTarget,
-} from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -108,9 +106,7 @@ async function swapping(read: Taken, report: string[]): Promise<Answer> {
   if (read.on.has(FLEET)) return await fleeting(read.on, report)
   const target = read.target ?? ""
   const found = resolveSeatTarget(target)
-  if ("error" in found) {
-    return refused(found.error, planSeatResolution(target).kind === "invalid" ? 1 : 2)
-  }
+  if ("error" in found) return refused(found.error, INPUT)
   const status = await swapped(found.id)
   if (status === "timeout") {
     return {

@@ -60,11 +60,6 @@ export const modelGatewaySwap = {
       statement: "A fleet swap is staggered.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A name that could name no seat is answered apart from a name no seat that is there answers to.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here restarts a client.",
     },
