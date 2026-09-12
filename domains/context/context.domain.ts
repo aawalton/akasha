@@ -6,10 +6,10 @@ export const context = {
   slug: "context",
   definition: "what a change requires its writer to have read",
   parts: [
-    "page-type/context-warrant",
+    "domain/required-reading",
     "module/agent-stated",
     "module/warranting",
-    "domain/required-reading",
+    "page-type/context-warrant",
   ],
   invariants: [
     {

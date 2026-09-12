@@ -6,10 +6,10 @@ export const clusterProvisioning = {
   slug: "cluster-provisioning",
   definition: "bringing an empty cluster up to where the pipeline can run",
   parts: [
+    "certificate-authority/cluster-ca",
     "domain/bootstrap-layers",
     "domain/talos",
     "shell-script/generate-certs",
-    "certificate-authority/cluster-ca",
   ],
   invariants: [
     {

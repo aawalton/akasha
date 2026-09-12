@@ -6,13 +6,13 @@ export const designInterfaces = {
   slug: "design-interfaces",
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [
-    "domain/design-interfaces-tokens",
     "domain/design-interfaces-badges",
     "domain/design-interfaces-forms",
     "domain/design-interfaces-layout",
     "domain/design-interfaces-patterns",
     "domain/design-interfaces-primitives",
     "domain/design-interfaces-system",
+    "domain/design-interfaces-tokens",
     "page-type/color",
   ],
   invariants: [

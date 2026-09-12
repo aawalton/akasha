@@ -6,14 +6,14 @@ export const standardAgentEnglish = {
   slug: "standard-agent-english",
   definition: "the language akasha is allowed to write in",
   parts: [
-    "domain/term",
     "domain/standard-agent-english-non-term",
-    "page-type/standard-agent-english-property",
-    "module/term-census",
+    "domain/term",
     "module/prose-pattern",
     "module/prose-reach",
-    "page-type/prose-frame",
     "module/prose-rewrite",
+    "module/term-census",
     "module/prose-restating",
+    "page-type/prose-frame",
+    "page-type/standard-agent-english-property",
   ],
 } as const satisfies Domain

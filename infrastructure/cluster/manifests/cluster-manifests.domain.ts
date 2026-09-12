@@ -11,6 +11,7 @@ export const clusterManifests = {
     "manifest/app-namespaces-synth",
     "manifest/cert-manager-synth",
     "manifest/cloudnative-pg-synth",
+    "manifest/cluster-reach-synth",
     "manifest/metallb-synth",
     "module/orphan-resource-audit",
     "module/orphan-resource-listing",
@@ -20,6 +21,5 @@ export const clusterManifests = {
     "module/tunnel-route",
     "module/tunnel-route-discovery",
     "service-workstation/orphaned-resources-sweep",
-    "manifest/cluster-reach-synth",
   ],
 } as const satisfies Domain

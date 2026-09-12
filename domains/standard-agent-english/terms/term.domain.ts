@@ -6,11 +6,11 @@ export const term = {
   slug: "term",
   definition: "one word or phrase, and whether akasha writes it",
   parts: [
+    "page-type/allowed-term",
+    "page-type/banned-term",
     "page-type/common-language-term",
     "page-type/foreign-name-term",
     "page-type/term",
-    "page-type/allowed-term",
-    "page-type/banned-term",
   ],
   invariants: [
     {

@@ -9,8 +9,8 @@ export const file = {
   parts: [
     "domain/folder-path",
     "module/answer-mark",
-    "module/git-place",
     "module/exclusive",
+    "module/git-place",
     "module/lock-holder",
     "module/lock-holder-runs",
   ],

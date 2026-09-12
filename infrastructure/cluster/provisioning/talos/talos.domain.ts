@@ -20,7 +20,7 @@ export const talos = {
     "module/schema",
     "module/sops",
     "module/ssh",
-    "module/wait-for-port",
     "module/talosctl",
+    "module/wait-for-port",
   ],
 } as const satisfies Domain

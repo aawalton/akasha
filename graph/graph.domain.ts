@@ -6,12 +6,12 @@ export const graph = {
   slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
   parts: [
-    "page-type/graph-node",
-    "page-type/graph-edge",
-    "page-type/graph-attribute",
     "module/file-kind-authorship",
     "module/graph-asking",
     "module/graph-closure",
+    "page-type/graph-attribute",
+    "page-type/graph-edge",
+    "page-type/graph-node",
   ],
   invariants: [
     {
