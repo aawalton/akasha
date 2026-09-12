@@ -3,7 +3,11 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
-import { idFiled, valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { relationFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const ONE = "01a04e9f-0000-7000-8000-00000000000a"
@@ -45,7 +49,9 @@ function worldFor(typeSlug: string = INITIATIVE): string {
 }
 
 function filing(root: string, slug: string, id: string, typeSlug: string = INITIATIVE): undefined {
-  valueAlsoFiled(root, typeSlug, [{ path: pathFor(slug, typeSlug), value: { id, slug } }])
+  const path = pathFor(slug, typeSlug)
+  listedFiled(root, typeSlug, slug, [{ path, id }])
+  valueAlsoFiled(root, typeSlug, [{ path, value: { id, slug } }])
 }
 
 function under(root: string, child: string, parent: string): undefined {
@@ -140,9 +146,9 @@ test("a parent under two children keeps each of them under it", () => {
 
 test("a path the file name says is no initiative is passed over", () => {
   const root = worldFor()
-  valueAlsoFiled(root, INITIATIVE, [
-    { path: "akasha/editor-extension/stray.module.ts", value: { id: ONE, slug: "stray" } },
-  ])
+  const stray = "akasha/editor-extension/stray.module.ts"
+  listedFiled(root, INITIATIVE, "stray", [{ path: stray, id: ONE }])
+  valueAlsoFiled(root, INITIATIVE, [{ path: stray, value: { id: ONE, slug: "stray" } }])
   expect(initiativesDrawn(root)).toEqual([])
 })
 

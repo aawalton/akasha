@@ -24,9 +24,5 @@ export const indexFiling = {
       invariantKind: "absence",
       statement: "Nothing here reads a line back.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A page filed by its value is filed under its type's slugs by that same call.",
-    },
   ],
 } as const satisfies Module

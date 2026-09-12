@@ -182,9 +182,13 @@ export function readingKept(root: string, at: string): undefined {
 }
 
 export function subagentsFiled(root: string, at: string, other: string): undefined {
+  const own = slugOf("akasha", OWN)
+  const second = slugOf("akasha", "second")
+  listedFiled(root, "subagent", own, [{ path: at, id: SEAT_ID }])
+  listedFiled(root, "subagent", second, [{ path: other, id: ANOTHER }])
   valueAlsoFiled(root, "subagent", [
-    { path: at, value: { id: SEAT_ID, slug: slugOf("akasha", OWN) } },
-    { path: other, value: { id: ANOTHER, slug: slugOf("akasha", "second") } },
+    { path: at, value: { id: SEAT_ID, slug: own } },
+    { path: other, value: { id: ANOTHER, slug: second } },
   ])
   return undefined
 }
