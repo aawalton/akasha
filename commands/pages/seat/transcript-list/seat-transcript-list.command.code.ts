@@ -37,7 +37,7 @@ export function saidOf(seats: readonly SeatTranscript[]): string {
   return JSON.stringify({ seats })
 }
 
-export function seatTranscripts(argv: readonly string[], _given: Given): Answer {
+export function seatTranscriptList(argv: readonly string[], _given: Given): Answer {
   if (argv.length > 0) {
     const said = namesDrawn(argv)
     const are = argv.length === 1 ? "is no word this takes" : "are no words this takes"

@@ -78,7 +78,7 @@ export function colorsSaid(colors: Readonly<Record<string, string>>): string {
   return JSON.stringify({ colors })
 }
 
-export function agentTurnColors(argv: readonly string[], _given: Given): Answer {
+export function agentTurnColorList(argv: readonly string[], _given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {

@@ -3,7 +3,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   type Held,
   saidOf,
-  seatTranscripts,
+  seatTranscriptList,
   transcriptsOver,
 } from "akasha/commands/pages/seat/transcript-list/seat-transcript-list.command.code.ts"
 
@@ -106,7 +106,7 @@ test("what is said is one object carrying the seats and nothing else", () => {
 })
 
 test("a word this does not take refuses as a fault in the call", () => {
-  const said = seatTranscripts(["--json"], givenIn())
+  const said = seatTranscriptList(["--json"], givenIn())
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -114,21 +114,21 @@ test("a word this does not take refuses as a fault in the call", () => {
 })
 
 test("a word carrying no dash is refused too, because this takes no word at all", () => {
-  const said = seatTranscripts(["seats"], givenIn())
+  const said = seatTranscriptList(["seats"], givenIn())
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("`seats`")
 })
 
 test("every word it was given is named rather than the first of them alone", () => {
-  const said = seatTranscripts(["--json", "--counts"], givenIn())
+  const said = seatTranscriptList(["--json", "--counts"], givenIn())
 
   expect(said.refusals[0]).toContain("`--json`")
   expect(said.refusals[0]).toContain("`--counts`")
 })
 
 test("a call naming nothing answers the seats the fleet holds now", () => {
-  const said = seatTranscripts([], givenIn())
+  const said = seatTranscriptList([], givenIn())
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)

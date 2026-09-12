@@ -21,7 +21,7 @@ Speaks newline-delimited JSON. Asks arrive on stdin and answers go out on **fd 3
 caller opens as a fourth pipe. What this server is for, what it will not do, and why it refuses
 to live are stated on the module page beside this file.
 
-  ask     {"id":1,"module":"agent-turn-colors","export":"agentTurnColors","args":["01a0…"]}
+  ask     {"id":1,"module":"agent-turn-color-list","export":"agentTurnColorList","args":["01a0…"]}
   answer  {"id":1,"ok":true,"code":0,"stdout":"…","stderr":"…","ageMs":12,"pid":9}
   refusal {"id":1,"ok":false,"refusal":"lease","saying":"…","ageMs":30001}
 

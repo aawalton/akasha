@@ -18,9 +18,9 @@ export interface SubagentTranscript {
 
 const CALL_TIMEOUT_MS = 30_000
 
-const TRANSCRIPTS_MODULE = "seat-transcripts"
+const TRANSCRIPTS_MODULE = "seat-transcript-list"
 
-const TRANSCRIPTS_EXPORT = "seatTranscripts"
+const TRANSCRIPTS_EXPORT = "seatTranscriptList"
 
 const HOLD_MS = 5_000
 
@@ -32,11 +32,11 @@ function parseSeats(answered: unknown): readonly SeatTranscript[] {
     typeof answered !== "object" ||
     !Array.isArray((answered as { seats?: unknown }).seats)
   ) {
-    throw new Error("seat-transcripts: the answer carries no `seats` array")
+    throw new Error("seat-transcript-list: the answer carries no `seats` array")
   }
   return (answered as { seats: readonly unknown[] }).seats.map((raw, at) => {
     if (raw === null || typeof raw !== "object") {
-      throw new Error(`seat-transcripts: seats[${at}] is not an object`)
+      throw new Error(`seat-transcript-list: seats[${at}] is not an object`)
     }
     const row = raw as Record<string, unknown>
     if (
@@ -45,7 +45,7 @@ function parseSeats(answered: unknown): readonly SeatTranscript[] {
       typeof row.transcriptPath !== "string"
     ) {
       throw new Error(
-        `seat-transcripts: seats[${at}] carries no agentId, seatName and transcriptPath`
+        `seat-transcript-list: seats[${at}] carries no agentId, seatName and transcriptPath`
       )
     }
     return { agentId: row.agentId, seatName: row.seatName, transcriptPath: row.transcriptPath }
@@ -65,7 +65,7 @@ export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> 
     seats = parseSeats(JSON.parse(stdout))
   } catch (err) {
     if (err instanceof SyntaxError) {
-      throw new Error(`seat-transcripts did not print JSON: ${String(err)}`)
+      throw new Error(`seat-transcript-list did not print JSON: ${String(err)}`)
     }
     throw err
   }

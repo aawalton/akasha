@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  agentTurnColors,
+  agentTurnColorList,
   colorsOfStates,
   colorsSaid,
   readIn,
@@ -106,7 +106,7 @@ test("what is said is one object carrying the colors and nothing else", () => {
 })
 
 test("a word this does not take refuses as a fault in the call", () => {
-  const said = agentTurnColors(["--json"], givenIn())
+  const said = agentTurnColorList(["--json"], givenIn())
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -114,7 +114,7 @@ test("a word this does not take refuses as a fault in the call", () => {
 })
 
 test("an id no seat ever held is left out rather than refused", () => {
-  const said = agentTurnColors(["01a00000-0000-7000-8000-00000000000a"], givenIn())
+  const said = agentTurnColorList(["01a00000-0000-7000-8000-00000000000a"], givenIn())
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -126,7 +126,7 @@ test("a color rewritten under this command is the color it next answers", () => 
   const was = optionalEnv("AKASHA_ROOT")
   try {
     process.env["AKASHA_ROOT"] = root
-    const first = agentTurnColors([STATE, "working"], givenIn())
+    const first = agentTurnColorList([STATE, "working"], givenIn())
 
     expect(first.refusals).toEqual([])
     expect(parseColorsAnswered(first.report[0] ?? "")).toEqual({
@@ -134,7 +134,7 @@ test("a color rewritten under this command is the color it next answers", () => 
     })
 
     colorIn(root, "vermilion")
-    const second = agentTurnColors([STATE, "working"], givenIn())
+    const second = agentTurnColorList([STATE, "working"], givenIn())
 
     expect(parseColorsAnswered(second.report[0] ?? "")).toEqual({
       colors: { working: "vermilion" },

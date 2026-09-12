@@ -63,8 +63,8 @@ async function colorSaid(
 ): Promise<{ readonly color: string; readonly pid: number }> {
   const answer = await askServed(
     client,
-    "agent-turn-colors",
-    "agentTurnColors",
+    "agent-turn-color-list",
+    "agentTurnColorList",
     ["--state", "working"],
     ASK_MS
   )
@@ -115,8 +115,8 @@ describe("the command server where it cannot answer", () => {
 
     process.kill(first.pid, "SIGKILL")
     const asking = client.ask(
-      "agent-turn-colors",
-      "agentTurnColors",
+      "agent-turn-color-list",
+      "agentTurnColorList",
       ["--state", "working"],
       ASK_MS
     )
@@ -139,7 +139,7 @@ describe("the command server where it cannot answer", () => {
     await rested(1_800)
 
     const thrown = await client
-      .ask("agent-turn-colors", "agentTurnColors", ["--state", "working"], ASK_MS)
+      .ask("agent-turn-color-list", "agentTurnColorList", ["--state", "working"], ASK_MS)
       .then(
         (answer) => ({ refused: false, saying: JSON.stringify(answer) as unknown }),
         (err: unknown) => ({ refused: true, saying: err })
@@ -162,8 +162,8 @@ describe("the command server when its lease turns over under a caller", () => {
 
     const answer = await askServed(
       client,
-      "agent-turn-colors",
-      "agentTurnColors",
+      "agent-turn-color-list",
+      "agentTurnColorList",
       ["--state", "working"],
       ASK_MS
     )
@@ -178,7 +178,7 @@ describe("the command server when its lease turns over under a caller", () => {
     await colorSaid(client)
     client.dispose()
     const thrown = await client
-      .ask("agent-turn-colors", "agentTurnColors", ["--state", "working"], ASK_MS)
+      .ask("agent-turn-color-list", "agentTurnColorList", ["--state", "working"], ASK_MS)
       .then(
         () => null,
         (err: unknown) => err
