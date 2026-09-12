@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noNeverSettlingThrow } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-never-settling-throw/no-never-settling-throw.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noNeverSettlingThrow,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-never-settling-throw/no-never-settling-throw.syntax-rule.code.ts"
 
 test("a file throwing nothing is refused nothing", () => {
   expect(noNeverSettlingThrow(parsed("export const one = 1\n"))).toEqual([])
@@ -69,6 +75,12 @@ test("the executor is drawn in the reason", () => {
 test("a throw inside a function is judged too", () => {
   const text = "function read(): number {\n  throw new Promise(() => {})\n}\n"
   expect(noNeverSettlingThrow(parsed(text))).toHaveLength(1)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "throw new Promise(() => {})\n"
+  expect(noNeverSettlingThrow(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two throws are refused once each", () => {

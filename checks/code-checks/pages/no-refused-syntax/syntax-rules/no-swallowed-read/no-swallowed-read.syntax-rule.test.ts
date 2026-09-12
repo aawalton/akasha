@@ -7,7 +7,10 @@ import {
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noSwallowedRead } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.code.ts"
+import {
+  mark,
+  noSwallowedRead,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
@@ -151,6 +154,12 @@ test("the line named is the catch's own", () => {
     "const one = 1\n" +
     "function two(l: Change) {\n  try {\n    return readFileSync(l.root)\n  } catch {\n    return null\n  }\n}\n"
   expect(walking(body)[0]?.line).toBe(6)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = WALKING + SWALLOWED
+  expect(over(text)).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two swallows are refused once each", () => {

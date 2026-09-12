@@ -6,6 +6,7 @@ import {
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
   alsoNaming,
+  mark,
   noCallBuiltAsItRuns,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-call-built-as-it-runs/no-call-built-as-it-runs.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
@@ -89,6 +90,12 @@ test("a file that holds no code is judged not", () => {
 test("the line refused is the template's own line", () => {
   const text = 'const AT = "temper-addon"\nconst one = 1\nconst why = `akasha ${AT}`\n'
   expect(over(text)[0]?.line).toBe(3)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "const why = `akasha temper-${one}`\n"
+  expect(over(text)).toHaveLength(1)
+  expect(mark(text, CODE_AT)).toBe(true)
 })
 
 test("the word put in for a worked-out piece names a level only where the slug before it names one", () => {

@@ -1,5 +1,6 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
@@ -20,6 +21,10 @@ const CAPTURES: ReadonlySet<string> = new Set([
   "execFile",
   "execFileSync",
 ])
+
+export const mark: Marking = (text, path) =>
+  !path.startsWith(RUNNER_AT) &&
+  (text.includes(CHILD) || (text.includes(BUN) && text.includes(SYNC)))
 
 const INSTEAD = "reach for `ran` or `said` or `bytes` or `shown` from `@akasha/utils/run/running`"
 

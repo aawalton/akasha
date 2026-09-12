@@ -5,7 +5,10 @@ import {
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noHyphenatedCall } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-hyphenated-call/no-hyphenated-call.syntax-rule.code.ts"
+import {
+  mark,
+  noHyphenatedCall,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-hyphenated-call/no-hyphenated-call.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
@@ -65,6 +68,12 @@ test("a file that holds no code is judged not", () => {
 
 test("the line named is the line the literal is on", () => {
   expect(over('const one = 1\nconst SELF = "akasha temper-addon"\n')[0]?.line).toBe(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'const SELF = "akasha temper-addon-data-generate"\n'
+  expect(over(text)).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two collapsed calls in one literal are refused once each", () => {

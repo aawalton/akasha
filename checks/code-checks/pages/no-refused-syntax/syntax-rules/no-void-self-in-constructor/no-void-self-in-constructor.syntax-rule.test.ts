@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noVoidSelfInConstructor } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-constructor/no-void-self-in-constructor.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noVoidSelfInConstructor,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-constructor/no-void-self-in-constructor.syntax-rule.code.ts"
 
 test("a file holding no constructor member is refused nothing", () => {
   expect(noVoidSelfInConstructor(parsed("export const one = 1\n"))).toEqual([])
@@ -62,6 +68,12 @@ test("two constructors declaring it are refused once each", () => {
   const text =
     "interface HeldClass {\n  New: (this: void) => Held\n  Subclass: (this: void) => Held\n}\n"
   expect(noVoidSelfInConstructor(parsed(text))).toHaveLength(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "interface HeldClass {\n  New: (this: void) => Held\n}\n"
+  expect(noVoidSelfInConstructor(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("a constructor inside a nested type literal is judged too", () => {

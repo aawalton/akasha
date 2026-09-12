@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noAkashaCommandFromCode } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noAkashaCommandFromCode,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"
 import { DISPATCHER } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test-fixtures.ts"
 
 test("a file launching nothing is refused nothing", () => {
@@ -90,6 +96,12 @@ test("two such calls are refused once each", () => {
 test("the reason carries what to do instead", () => {
   const said = noAkashaCommandFromCode(parsed('spawnSync("akasha", [])\n'))
   expect(said[0]?.reason).toContain("importing them")
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'spawnSync("akasha", ["read"])\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("a name built as the code runs is not seen", () => {

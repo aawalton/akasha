@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noNonNullAssertion } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noNonNullAssertion,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.code.ts"
 
 test("a file asserting no absence away is refused nothing", () => {
   expect(noNonNullAssertion(parsed("export const one = 1\n"))).toEqual([])
@@ -51,6 +57,12 @@ test("one nested inside a call is judged too", () => {
 test("the line named is the line the operator is on", () => {
   const said = noNonNullAssertion(parsed("const one = 1\nconst two = foo!.bar\n"))
   expect(said[0]?.line).toBe(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "const one = foo!.bar\n"
+  expect(noNonNullAssertion(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two of them are refused once each", () => {

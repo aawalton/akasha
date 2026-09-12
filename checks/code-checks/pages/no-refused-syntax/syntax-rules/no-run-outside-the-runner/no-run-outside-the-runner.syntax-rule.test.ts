@@ -3,9 +3,13 @@ import {
   LEVELS_NAMED,
   LEVELS_TYPED,
   NO_READERS,
+  PROBE_AT,
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noRunOutsideTheRunner } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.code.ts"
+import {
+  mark,
+  noRunOutsideTheRunner,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
 const TAKEN = 'import { execFileSync } from "node:child_process"\n'
@@ -91,6 +95,12 @@ test("a file in the runner's own folder is refused nothing", () => {
       typedAt: LEVELS_TYPED,
     })
   ).toEqual([])
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = TAKEN + 'execFileSync("git", ["status"])\n'
+  expect(noRunOutsideTheRunner(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("execFileSync taken from anywhere else is permitted", () => {

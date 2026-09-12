@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noVoidSelfInObjectMethod } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.code.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  mark,
+  noVoidSelfInObjectMethod,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.code.ts"
 
 test("a file holding no object literal is refused nothing", () => {
   expect(noVoidSelfInObjectMethod(parsed("export const one = 1\n"))).toEqual([])
@@ -47,6 +53,12 @@ test("the line named is the line the method is on", () => {
 test("a method in an object literal nested inside another is judged too", () => {
   const text = "const one = { inner: { held(this: void) {} } }\n"
   expect(noVoidSelfInObjectMethod(parsed(text))).toHaveLength(1)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "const one = { held(this: void, a: number) {} }\n"
+  expect(noVoidSelfInObjectMethod(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two methods declaring it are refused once each", () => {

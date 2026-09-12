@@ -1,18 +1,27 @@
 import type {
   Given,
+  Marking,
   Readers,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
-const FACES: Readers = new Map([
-  ["answering", new Set(["Answering"])],
-  ["index-answering", new Set(["Answering"])],
-  ["shape", new Set(["Reading"])],
-  ["index-shape", new Set(["Reading"])],
-  ["shadow", new Set(["Shadow"])],
-])
+const FACED: readonly (readonly [string, readonly string[]])[] = [
+  ["answering", ["Answering"]],
+  ["index-answering", ["Answering"]],
+  ["shape", ["Reading"]],
+  ["index-shape", ["Reading"]],
+  ["shadow", ["Shadow"]],
+]
+
+const FACES: Readers = new Map<string, ReadonlySet<string>>(
+  FACED.map(([at, named]) => [at, new Set(named)])
+)
+
+const FACE_NAMES: readonly string[] = FACED.flatMap(([, named]) => named)
+
+export const mark: Marking = (text) => FACE_NAMES.some((one) => text.includes(one))
 
 const ROOT_WORDS: ReadonlySet<string> = new Set(["root", "repo", "repository"])
 

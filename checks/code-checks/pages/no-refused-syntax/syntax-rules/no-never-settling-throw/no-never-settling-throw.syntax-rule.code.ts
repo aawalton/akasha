@@ -1,5 +1,6 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
@@ -7,14 +8,20 @@ import ts from "typescript"
 
 type Executor = ts.ArrowFunction | ts.FunctionExpression
 
+const PROMISE = "Promise"
+
+const THROWS = "throw"
+
+export const mark: Marking = (text) => text.includes(THROWS) && text.includes(PROMISE)
+
 const REMEDY =
   "suspends the subtree for good; throw the promise the resource is already loading on, " +
   "or take `resolve` and call it when the value arrives"
 
 function isPromiseConstruction(node: ts.NewExpression): boolean {
   const callee = node.expression
-  if (ts.isIdentifier(callee)) return callee.text === "Promise"
-  return ts.isPropertyAccessExpression(callee) && callee.name.text === "Promise"
+  if (ts.isIdentifier(callee)) return callee.text === PROMISE
+  return ts.isPropertyAccessExpression(callee) && callee.name.text === PROMISE
 }
 
 function parameterNames(fn: Executor): readonly string[] {

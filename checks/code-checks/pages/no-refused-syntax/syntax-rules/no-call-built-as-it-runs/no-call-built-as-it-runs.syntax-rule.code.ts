@@ -7,6 +7,7 @@ import { noHyphenatedCall } from "akasha/checks/code-checks/pages/no-refused-syn
 import type {
   Given,
   Judging,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf, parsedAs } from "akasha/code/source/code-source.module.code.ts"
@@ -18,6 +19,10 @@ const SOMETHING = "something"
 const UNDER = "-"
 
 const SPELLED_OUT: readonly Judging[] = [noHyphenatedCall, noCommandSpellingItsOwnCall]
+
+const TEMPLATE = "`"
+
+export const mark: Marking = (text) => text.includes(TEMPLATE)
 
 function wordFor(node: ts.Expression, bound: ReadonlyMap<string, string>): string {
   if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) return node.text

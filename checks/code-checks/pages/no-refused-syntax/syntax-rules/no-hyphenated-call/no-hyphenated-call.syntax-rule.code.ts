@@ -1,5 +1,6 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf, literalPartIn } from "akasha/code/source/code-source.module.code.ts"
@@ -9,6 +10,10 @@ import ts from "typescript"
 const CODE_NAMED = /\.code\.tsx?$/
 
 const HYPHENATED = /(?<![\w-])akasha[ \t]+([a-z0-9]+(?:-[a-z0-9]+)+)(?![\w-])/g
+
+const OPENS_HYPHENATED = /akasha[ \t]/
+
+export const mark: Marking = (text, path) => CODE_NAMED.test(path) && OPENS_HYPHENATED.test(text)
 
 const SPACE = " "
 

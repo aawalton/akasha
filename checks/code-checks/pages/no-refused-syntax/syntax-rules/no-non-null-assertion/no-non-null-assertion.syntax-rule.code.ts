@@ -1,9 +1,14 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
+
+const ASSERTS = "!"
+
+export const mark: Marking = (text) => text.includes(ASSERTS)
 
 const UNWEIGHED =
   "so a value the types say may be absent is taken as present, weighed against nothing, and the absence arrives as a crash rather than as an answer"

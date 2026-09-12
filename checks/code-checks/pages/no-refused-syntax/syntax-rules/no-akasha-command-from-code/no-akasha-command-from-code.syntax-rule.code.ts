@@ -1,12 +1,15 @@
 import { basenameOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const COMMAND = "akasha"
+
+export const mark: Marking = (text) => text.includes(COMMAND)
 
 const SHELL = "$"
 

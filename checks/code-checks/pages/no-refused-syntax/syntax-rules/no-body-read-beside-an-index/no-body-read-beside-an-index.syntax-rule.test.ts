@@ -2,11 +2,15 @@ import { expect, test } from "bun:test"
 import {
   LEVELS_NAMED,
   LEVELS_TYPED,
+  PROBE_AT,
   parsed,
   READERS_FILED,
   SHADOW_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noBodyReadBesideAnIndex } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.code.ts"
+import {
+  mark,
+  noBodyReadBesideAnIndex,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
 const ANSWERING = 'import type { Answering } from "@akasha/indexes/answering"\n'
@@ -131,6 +135,11 @@ test("the same code is judged the same wherever it sits", () => {
 test("a root reaching a function under a name carrying none of the three words is not seen", () => {
   const text = `${ANSWERING}${VALUE_AT}export function one(where: string, path: string, index: Answering): Value | null {\n  index.everyPath()\n  return valueAt(path, where)\n}\n`
   expect(noBodyReadBesideAnIndex(parsed(text))).toEqual([])
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  expect(noBodyReadBesideAnIndex(parsed(TRIPS))).toHaveLength(1)
+  expect(mark(TRIPS, PROBE_AT)).toBe(true)
 })
 
 test("one function reading twice is refused once, at the first read", () => {

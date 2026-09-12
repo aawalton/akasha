@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
   credentialNamedIn,
+  mark,
   noCredentialInScriptText,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.code.ts"
 
@@ -72,6 +76,12 @@ test("the line named is the line the call is on", () => {
 test("two leaking calls are refused once each", () => {
   const text = "page.evaluate(password)\nframe.waitForFunction(secret)\n"
   expect(noCredentialInScriptText(parsed(text))).toHaveLength(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'page.evaluate("value = " + password)\n'
+  expect(noCredentialInScriptText(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("a credential is found however deep in the text it sits", () => {

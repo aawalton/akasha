@@ -4,6 +4,7 @@ import {
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
+  mark,
   noDoubleCast,
   withoutParens,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.code.ts"
@@ -62,6 +63,12 @@ test("an assertion nested inside a call is judged too", () => {
 test("two double casts are refused once each", () => {
   const text = "const one = a as unknown as A\nconst two = b as any as B\n"
   expect(noDoubleCast(parsed(text))).toHaveLength(2)
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = "const one = held as unknown as Held\n"
+  expect(noDoubleCast(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("parentheses are taken off an expression until none are left", () => {

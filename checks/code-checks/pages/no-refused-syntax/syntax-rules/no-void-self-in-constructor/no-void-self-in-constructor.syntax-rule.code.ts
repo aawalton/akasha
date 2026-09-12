@@ -1,11 +1,16 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const CONSTRUCTOR_NAMES: ReadonlySet<string> = new Set(["New", "Subclass"])
+
+const VOID = "void"
+
+export const mark: Marking = (text) => text.includes(VOID)
 
 const DROPPED =
   "so the compiler emits a dot call, the class never reaches it and every argument shifts by one"

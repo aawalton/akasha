@@ -1,5 +1,6 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
@@ -32,6 +33,13 @@ const REFUSALS_AT: ReadonlyMap<string, number> = new Map([
   ["refusedBy", 0],
 ])
 
+const REFUSALS = "refusals"
+
+export const mark: Marking = (text) =>
+  [...MEANT.keys()].some((one) => text.includes(one)) ||
+  [...HANDED_A_CODE].some((one) => text.includes(one)) ||
+  text.includes(REFUSALS)
+
 type Spelled = {
   readonly at: ts.Node
   readonly meant: number
@@ -52,7 +60,7 @@ function spelledIn(held: ts.ObjectLiteralExpression): Spelled | null {
   for (const one of held.properties) {
     const name = one.name
     if (name === undefined || !ts.isIdentifier(name)) continue
-    if (name.text === "refusals") {
+    if (name.text === REFUSALS) {
       refuses = !ts.isPropertyAssignment(one) || !emptyList(one.initializer)
     }
     if (name.text !== "code" || !ts.isPropertyAssignment(one)) continue

@@ -1,5 +1,6 @@
 import type {
   Given,
+  Marking,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
@@ -8,6 +9,8 @@ import ts from "typescript"
 const UNKNOWN = "unknown"
 
 const ANY = "any"
+
+export const mark: Marking = (text) => text.includes(UNKNOWN) || text.includes(ANY)
 
 const WEIGHED =
   "so what it claims after that is weighed against nothing and could name any type at all"
