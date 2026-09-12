@@ -1,15 +1,13 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const googleCalendarEventsUpdate = {
-  id: "01a08cf6-2498-7264-92b4-a12c680c958c",
+export const googleCalendarEventCreate = {
+  id: "01a08cf5-d6aa-73ba-98ee-cf689f633831",
   type: "command",
-  slug: "google-calendar-events-update",
-  definition: "the command changing the fields a call names on one event",
+  slug: "google-calendar-event-create",
+  definition: "the command placing a new event and inviting everyone named on it",
   code: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "<id>", takes: "the event to act on, said in place" },
-    { said: "--event <id>", takes: "the event to act on, said as a flag rather than in place" },
     {
       said: "--calendar <id>",
       takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
@@ -19,10 +17,7 @@ export const googleCalendarEventsUpdate = {
     { said: "--end <iso>", takes: "when the event closes, as a timestamp or as a date alone" },
     { said: "--description <text>", takes: "the event's description" },
     { said: "--location <text>", takes: "the event's location" },
-    {
-      said: "--attendees <emails>",
-      takes: "who attends, parted by commas, taking the place of whoever attends now",
-    },
+    { said: "--attendees <emails>", takes: "who attends, parted by commas" },
     {
       said: "--timezone <iana>",
       takes: "the IANA zone a start and an end carrying none are read in",
@@ -33,28 +28,20 @@ export const googleCalendarEventsUpdate = {
     },
     {
       said: "--send-updates <who>",
-      takes: "who is emailed about the change, of `all`, `externalOnly` and `none`",
+      takes: "who is emailed about the event, of `all`, `externalOnly` and `none`",
     },
   ],
   helpNotes: [
-    "an event is named in place or as a flag, and naming it both ways over is refused.",
     "this reaches the calendar as Alan, so the invites carry his name.",
-    "an update changes the fields the call names and leaves every other field as it is.",
+    "the consent this leans on is granted once by `akasha google auth login`.",
+    "a date alone at both ends is a whole-day event, and its end is the day after the last day it covers.",
     "a zone is an IANA name rather than an offset, and a whole-day event carries none.",
     "the event answered with is reported as JSON.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An event named in place and as a flag is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "This reaches the calendar as Alan.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An update leaves every field the call does not name as that field is.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +49,15 @@ export const googleCalendarEventsUpdate = {
     },
     {
       invariantKind: "departure",
+      statement: "A whole-day event's end is the day after the last day the event covers.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A zone is an IANA name rather than a raw offset.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A whole-day event has no zone.",
     },
     {
       invariantKind: "departure",

@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const googleCalendarEventsDelete = {
+export const googleCalendarEventDelete = {
   id: "01a08cf5-8fad-7e36-be9f-9248e12362cb",
   type: "command",
-  slug: "google-calendar-events-delete",
+  slug: "google-calendar-event-delete",
   definition: "the command taking one event off its calendar",
   code: "ts",
   changeKind: "change-none",
