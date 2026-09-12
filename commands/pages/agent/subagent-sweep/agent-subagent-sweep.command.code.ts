@@ -17,9 +17,9 @@ import { remove } from "akasha/commands/arguments/pages/remove.argument.ts"
 import {
   answeredWith,
   answering,
-  INPUT,
   naming,
   OPERATIONAL,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
@@ -253,7 +253,7 @@ export async function agentSubagentSweep(
   landing: Landing = landedMechanically
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [remove])
-  if ("refused" in read) return answeredWith([], read.refused, INPUT)
+  if ("refused" in read) return refusedBy(read.refused)
   const root = resolve(given.root)
   const pages = pagesIn(root)
   let own: OwnIds = NO_OWN_IDS
