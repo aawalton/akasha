@@ -1,10 +1,6 @@
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
-  carriedIn,
-  taggedFor,
-} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
-import {
   addressed,
   DIFFICULTY,
   DRY_RUN,
@@ -20,6 +16,10 @@ import {
   taggingFor,
   telling,
 } from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
+import {
+  carriedIn,
+  taggedFor,
+} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 
 export async function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()

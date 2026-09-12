@@ -5,11 +5,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import type { ActivityDifficulty } from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
-import type { RelationshipPage } from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
-import {
-  relationshipsFor,
-  relationshipsIn,
-} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
 import {
   activitiesIn,
   BARE,
@@ -28,6 +23,11 @@ import {
   type Landing,
   pathUnder,
 } from "akasha/commands/pages/track/session/day-landing/day-landing.module.code.ts"
+import type { RelationshipPage } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
+import {
+  relationshipsFor,
+  relationshipsIn,
+} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
   dayBefore,
   sleeping,

@@ -2,10 +2,6 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
-  taggedFor,
-  taggingOf,
-} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
-import {
   anchoredIn,
   DRY_RUN,
   END,
@@ -26,6 +22,10 @@ import {
   taggingFor,
   telling,
 } from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
+import {
+  taggedFor,
+  taggingOf,
+} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 
 export async function trackSessionLog(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()

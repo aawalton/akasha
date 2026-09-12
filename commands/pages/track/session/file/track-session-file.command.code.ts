@@ -8,10 +8,6 @@ import {
   readSafety,
 } from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
 import {
-  taggedFor,
-  taggingOf,
-} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
-import {
   anchoredIn,
   DRY_RUN,
   FROM_FILE,
@@ -27,6 +23,10 @@ import {
   taggingFor,
   telling,
 } from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
+import {
+  taggedFor,
+  taggingOf,
+} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 
