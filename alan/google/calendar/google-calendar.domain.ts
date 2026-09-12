@@ -6,11 +6,11 @@ export const googleCalendar = {
   slug: "google-calendar",
   definition: "Alan's Google calendar events read, made, changed and answered",
   parts: [
-    "module/calendar-credentials",
     "module/calendar-auth",
     "module/calendar-client",
-    "module/calendar-event-shapes",
+    "module/calendar-credentials",
     "module/calendar-event-schema",
+    "module/calendar-event-shapes",
     "module/calendar-events",
     "module/send-updates-narrowing",
   ],

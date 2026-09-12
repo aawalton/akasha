@@ -6,15 +6,15 @@ export const healthSamplesImport = {
   slug: "health-samples-import",
   definition: "health readings taken off a machine of Alan's and brought into the store",
   parts: [
-    "module/verdict-reading",
     "module/health-export",
-    "module/laptop-host",
     "module/export-fetching",
-    "module/health-snapshot",
     "module/health-import",
     "module/health-import-checkpoint",
-    "module/health-import-run",
     "module/health-import-reading",
+    "module/health-import-run",
+    "module/health-snapshot",
+    "module/laptop-host",
+    "module/verdict-reading",
   ],
   invariants: [
     {

@@ -7,11 +7,11 @@ export const day = {
   definition: "which day an instant falls on, where a day does not start at midnight",
   parts: [
     "module/day-string",
-    "module/us-zone-offset",
     "module/eso-day",
-    "module/new-york-wall",
     "module/mountain-day",
     "module/mountain-wall",
+    "module/new-york-wall",
+    "module/us-zone-offset",
   ],
   invariants: [
     {

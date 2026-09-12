@@ -6,9 +6,9 @@ export const errorsClient = {
   slug: "errors-client",
   definition: "an error caught in a browser sent to the site that served it",
   parts: [
+    "module/error-capture-installer",
     "module/error-reporting",
     "module/global-error-capture",
-    "module/error-capture-installer",
     "module/use-report-render-error",
   ],
   invariants: [

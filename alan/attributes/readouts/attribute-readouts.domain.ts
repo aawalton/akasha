@@ -6,11 +6,11 @@ export const attributeReadouts = {
   slug: "attribute-readouts",
   definition: "the reading each attribute's points are shown as",
   parts: [
-    "readout/attribute-strength",
-    "readout/attribute-endurance",
-    "readout/attribute-constitution",
-    "readout/attribute-wisdom",
-    "readout/attribute-intelligence",
     "readout/attribute-charisma",
+    "readout/attribute-constitution",
+    "readout/attribute-endurance",
+    "readout/attribute-strength",
+    "readout/attribute-intelligence",
+    "readout/attribute-wisdom",
   ],
 } as const satisfies Domain

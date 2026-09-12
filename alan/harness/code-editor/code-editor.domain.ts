@@ -8,9 +8,9 @@ export const codeEditor = {
   parts: [
     "domain/code-editor-group-layout",
     "page-type/code-editor-data-interface",
-    "page-type/code-editor-window",
     "page-type/code-editor-group",
     "page-type/code-editor-terminal",
+    "page-type/code-editor-window",
     "repo/code-editor-repo",
   ],
   invariants: [

@@ -7,9 +7,9 @@ export const emailInbound = {
   definition: "what an arriving email is read into before anything acts on it",
   parts: [
     "module/inbound-message",
-    "module/sender",
     "module/agent-channel",
     "module/inbound-decision",
+    "module/sender",
   ],
   invariants: [
     {

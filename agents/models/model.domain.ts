@@ -8,11 +8,11 @@ export const model = {
   pluralSlug: "models",
   parts: [
     "domain/model-gateway",
+    "module/model-answer",
     "module/model-asking",
     "module/model-vocab",
     "page-type/model-family",
     "page-type/model-test",
-    "module/model-answer",
   ],
   invariants: [
     {

@@ -5,7 +5,7 @@ export const healthSamplesDay = {
   type: "domain",
   slug: "health-samples-day",
   definition: "a day's health readings, counted from the moment that day opened",
-  parts: ["module/opening-window", "module/active-calories"],
+  parts: ["module/active-calories", "module/opening-window"],
   invariants: [
     {
       invariantKind: "absence",

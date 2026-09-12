@@ -7,6 +7,7 @@ export const agent = {
   definition: "an agent and what puts its work to a model",
   parts: [
     "domain/claude-code",
+    "domain/hook",
     "domain/messaging",
     "domain/model",
     "module/agent-attributes",
@@ -15,8 +16,6 @@ export const agent = {
     "module/launch-flags",
     "module/tool-access",
     "page-type/agent",
-    "domain/hook",
-    "page-type/claude-account",
     "module/acting-agent",
     "module/agent-page-reading",
     "module/agent-proc-liveness",
@@ -25,6 +24,7 @@ export const agent = {
     "module/proc-scan",
     "module/read-record",
     "module/refusals-keeping",
+    "page-type/claude-account",
     "page-type/role",
   ],
 } as const satisfies Domain
