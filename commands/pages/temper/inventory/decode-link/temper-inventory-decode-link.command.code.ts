@@ -1,7 +1,7 @@
 import {
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { ParsedItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
@@ -45,8 +45,8 @@ export function temperInventoryDecodeLink(argv: readonly string[] = []): Answer 
   }
 
   if (argv.includes(JSON_FLAG)) {
-    return { report: JSON.stringify(read, null, SPACES).split("\n"), refusals: [], code: OK }
+    return told(JSON.stringify(read, null, SPACES).split("\n"))
   }
 
-  return { report: [...rowsOf(read)], refusals: [], code: OK }
+  return told(rowsOf(read))
 }

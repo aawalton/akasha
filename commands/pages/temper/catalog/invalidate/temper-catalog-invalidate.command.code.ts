@@ -9,8 +9,8 @@ import {
   answering,
   INPUT,
   naming,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -72,18 +72,14 @@ function written(done: string[], named: Named): Answer {
   }
 
   if (named.json) {
-    return { report: JSON.stringify(next, null, SPACES).split("\n"), refusals: [], code: OK }
+    return told(JSON.stringify(next, null, SPACES).split("\n"))
   }
 
   const said = next.invalidateDomains.length === 0 ? "all" : next.invalidateDomains.join(",")
-  return {
-    report: [
-      `invalidateVersion=${String(next.invalidateVersion)} invalidateDomains=${said}`,
-      `written to ${sideFilePath}, and the addon collects again when the game next reloads`,
-    ],
-    refusals: [],
-    code: OK,
-  }
+  return told([
+    `invalidateVersion=${String(next.invalidateVersion)} invalidateDomains=${said}`,
+    `written to ${sideFilePath}, and the addon collects again when the game next reloads`,
+  ])
 }
 
 export async function writtenBy(named: Named, writing: Writing = written): Promise<Answer> {
