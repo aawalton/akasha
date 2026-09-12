@@ -9,12 +9,6 @@ export const gitSweep = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "--dry-run", takes: "say what would be taken away, and take nothing" }],
-  helpNotes: [
-    "a store akasha keeps is left alone, and so is everything git keeps for itself.",
-    "the reach is the paths `git-place` names as kept before and kept no longer, which is why this takes no path of its own.",
-    "a sweep reaches the folder every worktree of this checkout shares, so one run serves them all.",
-    "a path akasha left is no page, so a change neither writes it nor takes it away.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
