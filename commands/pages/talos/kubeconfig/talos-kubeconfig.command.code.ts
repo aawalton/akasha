@@ -2,12 +2,13 @@ import { existsSync } from "node:fs"
 import { mkdir } from "node:fs/promises"
 import { dirname, resolve } from "node:path"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import {
   clusterKubeconfigPath,
@@ -72,14 +73,10 @@ export function readIn(argv: readonly string[]): Read {
 async function fetching(read: Named, given: Given): Promise<Answer> {
   const talosconfig = clusterTalosconfigPath(read.cluster)
   if (!existsSync(talosconfig)) {
-    return {
-      report: [],
-      refusals: [
-        `no talosconfig is at ${talosconfig}`,
-        `\`${given.calledAs} talos apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
-      ],
-      code: INPUT,
-    }
+    return mistaking([
+      `no talosconfig is at ${talosconfig}`,
+      `\`${given.calledAs} talos apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
+    ])
   }
   const output =
     read.output === null ? clusterKubeconfigPath(read.cluster) : resolve(given.root, read.output)
@@ -97,15 +94,15 @@ async function fetching(read: Named, given: Given): Promise<Answer> {
       output,
     ],
   })
-  return { report: [`wrote ${output}`], refusals: [], code: OK }
+  return told([`wrote ${output}`])
 }
 
 export async function talosKubeconfig(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await fetching(read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

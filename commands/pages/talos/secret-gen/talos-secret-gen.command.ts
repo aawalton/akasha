@@ -40,6 +40,10 @@ export const talosSecretGen = {
       statement: "An empty bundle is operational rather than a bundle.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes the bundle unencrypted where that bundle is kept.",
     },

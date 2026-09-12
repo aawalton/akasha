@@ -2,12 +2,13 @@ import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterSecretsSopsPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
@@ -67,14 +68,10 @@ export function readIn(argv: readonly string[]): Read {
 async function generating(read: Named): Promise<Answer> {
   const destPath = clusterSecretsSopsPath(read.cluster)
   if (existsSync(destPath) && !read.force) {
-    return {
-      report: [],
-      refusals: [
-        `a secrets file is already at ${destPath}`,
-        `writing it again loses every node's PKI, so \`${FORCE}\` is what says a rotation is meant`,
-      ],
-      code: INPUT,
-    }
+    return mistaking([
+      `a secrets file is already at ${destPath}`,
+      `writing it again loses every node's PKI, so \`${FORCE}\` is what says a rotation is meant`,
+    ])
   }
   await mkdir(dirname(destPath), { recursive: true })
   const workDir = await mkdtemp(join(SCRATCH_AT, "talos-secrets-gen-"))
@@ -82,26 +79,20 @@ async function generating(read: Named): Promise<Answer> {
   try {
     await runTalosctl({ args: ["gen", "secrets", "-o", tmpSecretsPath, "--force"] })
     const info = await stat(tmpSecretsPath)
-    if (info.size === 0) {
-      return { report: [], refusals: ["talosctl gen secrets wrote nothing"], code: OPERATIONAL }
-    }
+    if (info.size === 0) return refusedBy(["talosctl gen secrets wrote nothing"], OPERATIONAL)
     await encryptFile(tmpSecretsPath, destPath)
   } finally {
     await rm(workDir, { recursive: true, force: true })
   }
-  return {
-    report: [`wrote the SOPS-encrypted secrets to ${destPath}`],
-    refusals: [],
-    code: OK,
-  }
+  return told([`wrote the SOPS-encrypted secrets to ${destPath}`])
 }
 
 export async function talosSecretGen(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await generating(read)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

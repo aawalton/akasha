@@ -44,6 +44,10 @@ export const talosKubeconfig = {
       statement: "A kubeconfig already at the destination is written over rather than merged into.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes to the kubeconfig k3s is reached through.",
     },

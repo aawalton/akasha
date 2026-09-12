@@ -53,6 +53,10 @@ export const talosHealth = {
       statement: "Worker nodes are named to the check only where a worker address is named.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here changes a node.",
     },

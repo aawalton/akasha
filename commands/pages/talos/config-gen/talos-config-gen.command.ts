@@ -66,6 +66,10 @@ export const talosConfigGen = {
       statement: "The documents are reported where no output file is named.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches a node.",
     },

@@ -1,12 +1,13 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
 import {
   buildNodePatch,
@@ -96,23 +97,23 @@ async function writing(read: Named, given: Given): Promise<Answer> {
     node = getNode(read.node)
     cluster = getClusterForNode(read.node)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: INPUT }
+    return mistaking([whyOf(thrown)])
   }
   const registryCa = cluster.registryHosts.length > 0 ? readRegistryCa() : undefined
   const patch = buildNodePatch(node, cluster, schematicSaid(), { registryCa })
   const yaml = emitDocumentsYaml([patch, ...buildNodeVolumes(node)])
-  if (read.output === null) return { report: lines(yaml), refusals: [], code: OK }
+  if (read.output === null) return told(lines(yaml))
   const at = resolve(given.root, read.output)
   await writeFile(at, yaml)
-  return { report: [`wrote ${at}`], refusals: [], code: OK }
+  return told([`wrote ${at}`])
 }
 
 export async function talosConfigGen(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await writing(read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }
