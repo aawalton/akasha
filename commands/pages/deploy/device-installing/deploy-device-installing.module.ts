@@ -37,6 +37,22 @@ export const deployDeviceInstalling = {
       statement: "A build reporting no sentinel counts as nothing installed.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each step the script got through echoes a mark of its own before the next runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that exited non-zero is answered with every step it got through named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the mac said is kept whether that run exited zero or not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The run on the mac is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here uploads to App Store Connect.",
     },

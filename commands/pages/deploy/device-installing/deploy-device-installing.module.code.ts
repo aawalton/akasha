@@ -16,7 +16,12 @@ import {
   iosAppDir,
   resolveApp,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import type {
+  RunSshOptions,
+  SshResult,
+  SshTarget,
+} from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import { runSshResult } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import {
   answering,
   OPERATIONAL,
@@ -34,6 +39,17 @@ const OFF = "0"
 const BUILT = "** BUILD SUCCEEDED **"
 
 const INSTALLED = "DEPLOY_DEVICE_OK"
+
+const CHECKED_OUT = "DEPLOY_DEVICE_CHECKED_OUT"
+
+const SYNCED = "DEPLOY_DEVICE_SYNCED"
+
+const STEPS: readonly (readonly [string, string])[] = [
+  [CHECKED_OUT, `the checkout on ${MACBOOK.host} was moved to ${MAIN}`],
+  [SYNCED, "the native seam was synced over that checkout"],
+  [BUILT, "the app was built"],
+  [INSTALLED, "the app was installed to the phone"],
+]
 
 export type AppNamed = (slug: string) => MobileApp
 
@@ -56,12 +72,14 @@ export function scriptOf(app: MobileApp, device: string): string {
     SCRIPT_HEADER,
     buildKeychainUnlock(),
     buildRunCheckout(MAIN),
+    `echo "${CHECKED_OUT}"`,
     buildNativeSync({
       app,
       root: CHECKOUT_ROOT,
       nativeShellAps: readNativeShellApsEnv() ?? OFF,
       nativeShellHealthkit: readNativeShellHealthkitEnv() ?? OFF,
     }),
+    `echo "${SYNCED}"`,
     `cd ${iosAppDir(app, CHECKOUT_ROOT)}`,
     xcodebuild,
     `APP=${appPath}`,
@@ -74,32 +92,54 @@ export function scriptOf(app: MobileApp, device: string): string {
   ].join("\n")
 }
 
-async function deployed(app: MobileApp, device: string): Promise<Answer> {
+export function doneIn(out: string): readonly string[] {
+  return STEPS.filter(([marker]) => out.includes(marker)).map(([, said]) => said)
+}
+
+export type Ran = (target: SshTarget, script: string, options?: RunSshOptions) => Promise<SshResult>
+
+export async function deployed(
+  app: MobileApp,
+  device: string,
+  done: string[],
+  ran: Ran = runSshResult
+): Promise<Answer> {
   const password = readKeychainPassword()
-  const report = [`building ${app.slug} at ${CONFIGURATION} on ${MACBOOK.host} for phone ${device}`]
-  const out = await runSshCapture(MACBOOK, scriptOf(app, device), {
+  const said = await ran(MACBOOK, scriptOf(app, device), {
     sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
   })
-  report.push(out.trimEnd())
-  if (!out.includes(BUILT)) {
+  done.push(...doneIn(said.stdout))
+  const report = [
+    `building ${app.slug} at ${CONFIGURATION} on ${MACBOOK.host} for phone ${device}`,
+    said.stdout.trimEnd(),
+    ...done,
+  ]
+  if (said.code !== 0) {
+    return {
+      report,
+      refusals: [`the run on ${MACBOOK.host} exited ${said.code}`],
+      code: OPERATIONAL,
+    }
+  }
+  if (!said.stdout.includes(BUILT)) {
     return { report, refusals: [`xcodebuild did not report \`${BUILT}\``], code: OPERATIONAL }
   }
-  if (!out.includes(INSTALLED)) {
+  if (!said.stdout.includes(INSTALLED)) {
     return {
       report,
       refusals: [`the install did not report \`${INSTALLED}\`, so nothing reached the phone`],
       code: OPERATIONAL,
     }
   }
-  report.push(`installed ${app.slug} at ${CONFIGURATION} to phone ${device}`)
   return told(report)
 }
 
 export async function installedOnDevice(
   slug: string,
-  appNamed: AppNamed = resolveApp
+  appNamed: AppNamed = resolveApp,
+  ran: Ran = runSshResult
 ): Promise<Answer> {
-  return await answering(async () => {
+  return await answering(async (done) => {
     const app = appNamed(slug)
     const device = app.defaultDeviceUdid
     if (device === null) {
@@ -107,6 +147,6 @@ export async function installedOnDevice(
         `${app.slug} names no phone of its own, so nothing says which phone to install to`,
       ])
     }
-    return await deployed(app, device)
+    return await deployed(app, device, done, ran)
   })
 }

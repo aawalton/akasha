@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Ran } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
+import {
+  doneIn,
   installedOnDevice,
   scriptOf,
 } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
@@ -51,4 +57,57 @@ test("an app whose page names no phone is refused rather than guessed at", async
 
   expect(answer.code).toBe(INPUT)
   expect(answer.refusals.join(" ")).toContain("names no phone")
+})
+
+const PHONED = { ...QUIET, defaultDeviceUdid: UDID } as const satisfies MobileApp
+
+const CHECKED_OUT = "DEPLOY_DEVICE_CHECKED_OUT"
+
+const SYNCED = "DEPLOY_DEVICE_SYNCED"
+
+const WHOLE = `${CHECKED_OUT}\n${SYNCED}\n** BUILD SUCCEEDED **\nDEPLOY_DEVICE_OK`
+
+function ran(stdout: string, code: number): Ran {
+  return () => Promise.resolve({ stdout, code })
+}
+
+test("each step the mac got through is named in the order the script ran them", () => {
+  expect(doneIn(WHOLE)).toEqual([
+    doneIn(CHECKED_OUT)[0] as string,
+    "the native seam was synced over that checkout",
+    "the app was built",
+    "the app was installed to the phone",
+  ])
+})
+
+test("a run that failed after the checkout still names the checkout and the sync", async () => {
+  const answer = await installedOnDevice(
+    "quiet",
+    () => PHONED,
+    ran(`${CHECKED_OUT}\n${SYNCED}\nerror: code signing failed`, 65)
+  )
+
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.report).toContain("the native seam was synced over that checkout")
+  expect(answer.report).not.toContain("the app was built")
+  expect(answer.refusals.join(" ")).toContain("exited 65")
+})
+
+test("a run that reached the mac and got nothing done names no step", async () => {
+  const answer = await installedOnDevice("quiet", () => PHONED, ran("", 255))
+
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.report).not.toContain("the app was built")
+  expect(doneIn("")).toEqual([])
+})
+
+test("an ssh that threw before the mac ran anything names nothing", async () => {
+  const answer = await installedOnDevice(
+    "quiet",
+    () => PHONED,
+    () => Promise.reject(new OperationalError("ssh not found on PATH"))
+  )
+
+  expect(answer.report).toEqual([])
+  expect(answer.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
