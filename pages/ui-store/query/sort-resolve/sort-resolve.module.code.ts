@@ -23,7 +23,7 @@ import {
   attributesOf,
   type PageRow,
 } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
-import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { instantIn } from "akasha/utils/narrow/instant-in/instant-in.module.code.ts"
 
 const warnedUnacquiredTargets = new Set<string>()

@@ -7,7 +7,7 @@ import {
   deviceSecretPresented,
   mintDeviceSecret as mintOverTheStore,
   revokeDeviceSecret as revokeOverTheStore,
-} from "akasha/persons/device-secret-keeping/device-secret-keeping.module.code.ts"
+} from "akasha/persons/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 
 export type DeviceSecretAdmission = "admitted" | "refused" | "unread"
 

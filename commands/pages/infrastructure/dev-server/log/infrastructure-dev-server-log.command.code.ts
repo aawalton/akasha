@@ -18,7 +18,7 @@ import {
   logFilePath,
   lookupApp,
   namingApps,
-} from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+} from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 async function tailing(read: {
   root: string

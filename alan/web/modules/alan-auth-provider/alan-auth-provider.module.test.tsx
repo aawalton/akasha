@@ -48,7 +48,7 @@ mock.module(
     useAppVersionCheck: () => undefined,
   })
 )
-mock.module("akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts", () => ({
+mock.module("akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts", () => ({
   emitStoreDiagnostic: () => undefined,
   setStoreDiagnosticsSink: () => undefined,
 }))

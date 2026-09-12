@@ -1,6 +1,6 @@
 import type { PageRow } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import type { PagesSyncController } from "akasha/pages/ui-store/collection/sync-controller/sync-controller.module.code.ts"
-import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { PageRowSchema } from "akasha/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts"
 import {
   foldSnapshotEntries,

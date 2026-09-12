@@ -33,7 +33,7 @@ mock.module("akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts", () => 
 }))
 
 const { DeviceSecretSync } = await import(
-  "akasha/alan/web/device-secret-sync/device-secret-sync.module.code.tsx"
+  "akasha/alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"
 )
 
 function Harness({ userID }: { userID: string | null }) {

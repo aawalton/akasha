@@ -6,7 +6,7 @@ import {
   capacitorCorsHeaders,
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
-import { mintDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
+import { mintDeviceSecretSchema } from "akasha/persons/modules/device-secret-body/device-secret-body.module.code.ts"
 import { ROUTE_TARGETS } from "akasha/persons/route-access/route-access.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"

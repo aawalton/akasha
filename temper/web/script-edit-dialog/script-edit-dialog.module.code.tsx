@@ -1,3 +1,4 @@
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   Dialog,
   DialogBody,
@@ -5,8 +6,7 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import {
   Select,
   SelectContent,

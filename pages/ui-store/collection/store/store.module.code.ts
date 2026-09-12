@@ -43,7 +43,7 @@ import {
   isDefinitionTierSlug,
   type ShapeDescriptor,
 } from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
-import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   computeProactiveRefreshDelayMs,
   PROACTIVE_REFRESH_MARGIN_MS,

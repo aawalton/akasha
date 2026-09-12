@@ -1,4 +1,4 @@
-import type { DevServerState } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+import type { DevServerState } from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 export interface DevServerRecord {
   readonly seq: number | null

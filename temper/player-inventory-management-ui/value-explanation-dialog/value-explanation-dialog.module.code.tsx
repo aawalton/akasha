@@ -1,13 +1,13 @@
 "use client"
 
+import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
-import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"

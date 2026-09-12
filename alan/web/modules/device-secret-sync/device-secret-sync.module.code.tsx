@@ -11,7 +11,7 @@ import {
   mintDeviceSecretResponseSchema,
   mintDeviceSecretSchema,
   revokeDeviceSecretSchema,
-} from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
+} from "akasha/persons/modules/device-secret-body/device-secret-body.module.code.ts"
 import {
   decideMintAction,
   decideRecoveryAction,
@@ -20,7 +20,7 @@ import {
   type RouteRead,
   recoveryMarkRead,
   routeRead,
-} from "akasha/persons/device-secret-minting/device-secret-minting.module.code.ts"
+} from "akasha/persons/modules/device-secret-minting/device-secret-minting.module.code.ts"
 import { useContext, useEffect, useRef } from "react"
 
 async function probeKeychain(plugin: DeviceSecretPlugin, userId: string): Promise<PeekProbe> {

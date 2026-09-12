@@ -13,7 +13,7 @@ import { CommandPalette } from "akasha/design/interfaces/primitives/modules/comm
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { configureLocalPositionReader } from "akasha/pages/ui/components/local-position-port/local-position-port.module.code.ts"
-import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
   configurePagesPersistence,

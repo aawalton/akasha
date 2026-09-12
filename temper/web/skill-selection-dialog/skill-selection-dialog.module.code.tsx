@@ -1,9 +1,3 @@
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
@@ -17,6 +11,12 @@ import {
   CommandInput,
   CommandList,
 } from "akasha/design/interfaces/primitives/modules/command/command.module.code.tsx"
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import {
   type SkillId,
   skills,

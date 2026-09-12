@@ -19,7 +19,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
 import { configureLocalPositionReader } from "akasha/pages/ui/components/local-position-port/local-position-port.module.code.ts"
-import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
   configurePagesPersistence,

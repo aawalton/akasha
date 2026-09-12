@@ -27,7 +27,7 @@ import { CommandPalette } from "akasha/design/interfaces/primitives/modules/comm
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"
 import {

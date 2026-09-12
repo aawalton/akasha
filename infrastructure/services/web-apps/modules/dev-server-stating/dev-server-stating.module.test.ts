@@ -3,7 +3,7 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   appNamesIn,
   namingApps,
-} from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+} from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 const root = rootOf(import.meta.dir)
 

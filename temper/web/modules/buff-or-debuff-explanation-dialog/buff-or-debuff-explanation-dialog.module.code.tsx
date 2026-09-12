@@ -1,14 +1,14 @@
 "use client"
 
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { explainBuff } from "akasha/temper/characters-stats/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"

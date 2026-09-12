@@ -1,7 +1,7 @@
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"
 import { applyJsonPatch } from "akasha/pages/core/json-patch/modules/apply/apply.module.code.ts"
 import type { PageRow } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
-import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   awaitConvergence,
   type ConvergenceOptions,

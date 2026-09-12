@@ -9,7 +9,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { infrastructureDevServerStart } from "akasha/commands/pages/infrastructure/dev-server/start/infrastructure-dev-server-start.command.code.ts"
 import { infrastructureDevServerStart as page } from "akasha/commands/pages/infrastructure/dev-server/start/infrastructure-dev-server-start.command.ts"
-import { namingApps } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+import { namingApps } from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 const CALLED_AS = "akasha infrastructure dev-server start"
 

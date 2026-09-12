@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
+  noNap,
+  overTheLiveStore,
+  recordingFetcher,
+} from "akasha/persons/enrolment/person-enrolment.module.test-fixtures.ts"
+import {
   DEVICE_SECRET_PAGE_TYPE,
   deviceSecretHashesEqual,
   deviceSecretPresented,
@@ -10,16 +15,11 @@ import {
   hashDeviceSecret,
   pageIn,
   readPresentedDeviceSecret,
-} from "akasha/persons/device-secret-keeping/device-secret-keeping.module.code.ts"
+} from "akasha/persons/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,
-} from "akasha/persons/device-secret-shape/device-secret-shape.module.code.ts"
-import {
-  noNap,
-  overTheLiveStore,
-  recordingFetcher,
-} from "akasha/persons/enrolment/person-enrolment.module.test-fixtures.ts"
+} from "akasha/persons/modules/device-secret-shape/device-secret-shape.module.code.ts"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
