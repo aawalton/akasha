@@ -6,7 +6,6 @@ export const nodeExporter = {
   slug: "node-exporter",
   definition:
     "the service publishing the workstation's processor, memory, disk and network as metrics",
-  runs: ["/home/linuxbrew/.linuxbrew/bin/node_exporter --web.listen-address=:9100"],
   enabled: true,
   needsSecrets: false,
   systemd: {

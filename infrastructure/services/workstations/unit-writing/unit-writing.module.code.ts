@@ -1,4 +1,3 @@
-import type { Runs } from "akasha/infrastructure/services/workstations/properties/runs.text-property.types.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 
 const PATH_ENV =
@@ -9,14 +8,13 @@ const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"
 const TIMER_TARGET = "timers.target"
-const LENIENT = "-"
 const SECRETS_FILE = "%h/.secrets.env"
 
 export const RESTART_EXIT = 79
 
 export const WRITTEN_PREFIX = "# Written from "
 
-export type Started = ServiceWorkstation & { readonly runs: Runs }
+export type Started = ServiceWorkstation & { readonly runs: readonly string[] }
 
 export type Service = {
   readonly service: Started
@@ -44,13 +42,11 @@ function header(given: Service): string {
 }
 
 function shelled(given: Service, one: string): string {
-  const lenient = one.startsWith(LENIENT)
-  const run = lenient ? one.slice(1) : one
   const inner =
     given.service.needsSecrets === true
-      ? `set -a; [ -f "${SECRETS_FILE}" ] && . "${SECRETS_FILE}"; exec ${run}`
-      : `exec ${run}`
-  return `${lenient ? LENIENT : ""}/usr/bin/env bash -c '${inner}'`
+      ? `set -a; [ -f "${SECRETS_FILE}" ] && . "${SECRETS_FILE}"; exec ${one}`
+      : `exec ${one}`
+  return `/usr/bin/env bash -c '${inner}'`
 }
 
 export function execLines(given: Service): readonly string[] {

@@ -5,7 +5,6 @@ export const greatCoursesSync = {
   type: "service-workstation",
   slug: "great-courses-sync",
   definition: "the service filing a Great Courses course as a page where none represents it",
-  runs: ["bun alan/collections/great-courses/catalogue-syncing/catalogue-syncing.module.code.ts"],
   enabled: true,
   needsSecrets: false,
   systemd: {

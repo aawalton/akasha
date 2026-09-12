@@ -1,10 +1,7 @@
 import { expect, mock, test } from "bun:test"
 import { homedir } from "node:os"
-import { ttcClient } from "akasha/infrastructure/services/workstations/pages/ttc-client.service-workstation.ts"
 
 const HANDED: string[][] = []
-const HOME = "%h"
-const SPACE = " "
 const WORDS = 6
 const PATH_AT = 4
 
@@ -58,21 +55,10 @@ test("the path the run quotes carries its spaces into one argument rather than f
   expect(HANDED[0]?.[PATH_AT]).toContain("Elder Scrolls Online")
 })
 
-test("what the binary runner is handed is the run the page names, word for word", async () => {
-  HANDED.length = 0
-  await running.runService()
-  const spelled = (HANDED[0] ?? [])
-    .map((word) => (word.includes(SPACE) ? `"${word}"` : word))
-    .join(SPACE)
-    .replace(homedir(), HOME)
-  expect(spelled).toBe(ttcClient.runs[0])
-})
-
-test("the home directory is the one word the run spells that the page leaves to systemd", async () => {
+test("the home directory is worked out here rather than left to systemd", async () => {
   HANDED.length = 0
   await running.runService()
   expect(HANDED[0]?.[PATH_AT]?.startsWith(`${homedir()}/`)).toBe(true)
-  expect(ttcClient.runs[0]).toContain(`"${HOME}/`)
 })
 
 test("the run spawns nothing of its own, so the binary runner is the only way out", async () => {

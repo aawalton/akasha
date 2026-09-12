@@ -6,7 +6,6 @@ export const auditRunning = {
   slug: "audit-running",
   definition:
     "the service running each check's audit and telling whoever champions checks what turned red",
-  runs: ["bun checks/modules/audit-serving/audit-serving.module.code.ts"],
   enabled: true,
   needsSecrets: false,
   systemd: {

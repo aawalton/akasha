@@ -5,7 +5,6 @@ export const personaPointsRebuilding = {
   type: "service-workstation",
   slug: "persona-points-rebuilding",
   definition: "the service working out each persona's points again once a day has opened",
-  runs: ["bun alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*-*-* 04:10:00",

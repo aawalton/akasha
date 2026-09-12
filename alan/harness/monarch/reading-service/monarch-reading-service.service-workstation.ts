@@ -5,7 +5,6 @@ export const monarchReadingService = {
   type: "service-workstation",
   slug: "monarch-reading-service",
   definition: "the service taking Monarch's unreviewed count onto its readout",
-  runs: ["bun alan/harness/monarch/reading/monarch-reading.module.code.ts"],
   enabled: true,
   needsSecrets: true,
   systemd: {

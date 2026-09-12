@@ -16,6 +16,7 @@ export const serviceInference = {
     "text-property/python-version",
     "text-property/workdir",
     "module/inference-reading",
+    "text-property/runs",
   ],
   properties: [
     { pageProperty: "text-property/inference-host", required: true, many: false },

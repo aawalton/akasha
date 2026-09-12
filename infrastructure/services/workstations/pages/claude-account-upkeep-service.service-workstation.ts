@@ -5,9 +5,6 @@ export const claudeAccountUpkeepService = {
   type: "service-workstation",
   slug: "claude-account-upkeep-service",
   definition: "the service renewing each Claude account's token and reading its usage every hour",
-  runs: [
-    "bun agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.code.ts",
-  ],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

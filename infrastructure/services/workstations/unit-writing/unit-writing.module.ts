@@ -31,7 +31,7 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A command opening with a dash may fail without the unit failing.",
+      statement: "A command that fails fails the unit.",
     },
     {
       invariantKind: "departure",

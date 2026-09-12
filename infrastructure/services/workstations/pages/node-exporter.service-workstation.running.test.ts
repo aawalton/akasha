@@ -1,5 +1,4 @@
 import { expect, mock, test } from "bun:test"
-import { nodeExporter } from "akasha/infrastructure/services/workstations/pages/node-exporter.service-workstation.ts"
 
 const HANDED: string[][] = []
 
@@ -37,12 +36,6 @@ test("a run hands the binary runner the program and the arguments rather than a 
   expect(HANDED).toEqual([
     ["/home/linuxbrew/.linuxbrew/bin/node_exporter", "--web.listen-address=:9100"],
   ])
-})
-
-test("what the binary runner is handed is the run the page names, word for word", async () => {
-  HANDED.length = 0
-  await running.runService()
-  expect(HANDED[0]).toEqual(nodeExporter.runs[0].split(" "))
 })
 
 test("the run spawns nothing of its own, so the binary runner is the only way out", async () => {

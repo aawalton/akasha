@@ -6,7 +6,6 @@ export const recipientResolver = {
   slug: "recipient-resolver",
   definition:
     "the service resolving each message's recipient and seating an agent in the seat named",
-  runs: [],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,

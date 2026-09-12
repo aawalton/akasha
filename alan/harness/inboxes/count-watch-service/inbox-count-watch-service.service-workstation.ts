@@ -5,9 +5,6 @@ export const inboxCountWatchService = {
   type: "service-workstation",
   slug: "inbox-count-watch-service",
   definition: "the service taking the task counts again the moment a page lands",
-  runs: [
-    "bun alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts https://alanwalton.com",
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

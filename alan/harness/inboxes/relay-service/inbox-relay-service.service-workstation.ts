@@ -5,11 +5,6 @@ export const inboxRelayService = {
   type: "service-workstation",
   slug: "inbox-relay-service",
   definition: "the service carrying the inbox counts to the site that shows them",
-  runs: [
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/inboxes-email/inboxes-email.readout.ts https://alanwalton.com",
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts https://alanwalton.com",
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts temper/progressions/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

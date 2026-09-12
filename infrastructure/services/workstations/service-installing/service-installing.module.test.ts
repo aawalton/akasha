@@ -17,7 +17,7 @@ import {
   unlinkUnit,
   writeUnit,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
-import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
+import type { Started } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
 
 const HOME = mkdtempSync("/var/tmp/service-installing-")
 
@@ -30,9 +30,9 @@ const BASE = {
   definition: "the service a test writes a unit for",
   runs: ["bun a.ts"],
   enabled: true,
-} as const satisfies ServiceWorkstation
+} as const satisfies Started
 
-function pageOf(more: Partial<ServiceWorkstation>) {
+function pageOf(more: Partial<Started>) {
   return { service: { ...BASE, ...more }, pagePath: "akasha/a.service-workstation.ts" }
 }
 

@@ -41,7 +41,6 @@ export const serviceWorkstation = {
     "text-property/binds",
     "text-property/part-of",
     "select-property/restart",
-    "text-property/runs",
     "text-property/schedule",
     "text-property/stops",
     "text-property/unbound",
@@ -58,7 +57,6 @@ export const serviceWorkstation = {
     "module/service-running",
   ],
   properties: [
-    { pageProperty: "text-property/runs", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/enabled", required: true, many: false },
     { pageProperty: "record-property/systemd", required: false, many: false },
     { pageProperty: "boolean-property/needs-secrets", required: false, many: false },

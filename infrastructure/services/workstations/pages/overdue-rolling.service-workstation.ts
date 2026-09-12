@@ -5,7 +5,6 @@ export const overdueRolling = {
   type: "service-workstation",
   slug: "overdue-rolling",
   definition: "the service moving every overdue to-do onto the day that has just opened",
-  runs: ["bun alan/harness/overdue-rolling/overdue-rolling.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*-*-* 04:05:00",

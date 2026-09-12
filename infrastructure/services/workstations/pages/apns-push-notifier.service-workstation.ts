@@ -5,9 +5,6 @@ export const apnsPushNotifier = {
   type: "service-workstation",
   slug: "apns-push-notifier",
   definition: "the service putting each notification written for Alan on his devices",
-  runs: [
-    "bun alan/harness/alanwalton-ios-notification/push-notifying/push-notifying.module.code.ts",
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

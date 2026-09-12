@@ -1,5 +1,4 @@
 import { expect, mock, test } from "bun:test"
-import { dcgmExporter } from "akasha/infrastructure/services/workstations/pages/dcgm-exporter.service-workstation.ts"
 
 const HANDED: string[][] = []
 
@@ -49,12 +48,6 @@ test("a run hands the binary runner the program and the arguments rather than a 
       "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
     ],
   ])
-})
-
-test("what the binary runner is handed is the run the page names, word for word", async () => {
-  HANDED.length = 0
-  await running.runService()
-  expect(HANDED[0]).toEqual(dcgmExporter.runs[0].split(" "))
 })
 
 test("the run spawns nothing of its own, so the binary runner is the only way out", async () => {

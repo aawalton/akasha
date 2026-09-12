@@ -37,10 +37,7 @@ export const runComposing = {
       invariantKind: "departure",
       statement: "A file held as TypeScript is run by bun and one held as shell by bash.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run that may fail without the service failing opens with a dash.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A name reaching no page refuses rather than composing a path.",
@@ -53,10 +50,7 @@ export const runComposing = {
       invariantKind: "departure",
       statement: "The key a page holds that file under is read from the property's own page.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A page stating a start is composed from that start rather than from a fixture.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here writes a unit.",

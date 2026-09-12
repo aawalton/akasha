@@ -5,7 +5,6 @@ export const sweepLogDays = {
   type: "service-workstation",
   slug: "sweep-log-days",
   definition: "the service removing every log day past the window a log is kept for",
-  runs: [],
   enabled: true,
   systemd: {
     schedule: "daily",

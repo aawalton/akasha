@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 import {
   installedUnitName,
   isScheduled,
+  type Started,
   serviceUnitText,
   timerUnitText,
   unitFileNames,
@@ -21,9 +21,9 @@ const BASE = {
   definition: "the service a test writes a unit for",
   runs: [RUNS_TYPESCRIPT],
   enabled: true,
-} as const satisfies ServiceWorkstation
+} as const satisfies Started
 
-function pageOf(more: Partial<ServiceWorkstation>) {
+function pageOf(more: Partial<Started>) {
   return { service: { ...BASE, ...more }, pagePath: PAGE_PATH }
 }
 
@@ -105,9 +105,10 @@ test("a service stating nothing about secrets is handed none", () => {
   expect(serviceUnitText(pageOf({ needsSecrets: false }))).not.toContain("secrets.env")
 })
 
-test("a command opening with a dash keeps the dash outside the shell it starts", () => {
-  const text = serviceUnitText(pageOf({ runs: ["-/usr/bin/podman stop it"] }))
-  expect(text).toContain("ExecStart=-/usr/bin/env bash -c 'exec /usr/bin/podman stop it'")
+test("a command that fails fails the unit, so no dash is written before the shell it starts", () => {
+  const text = serviceUnitText(pageOf({ runs: ["/usr/bin/podman stop it"] }))
+  expect(text).toContain("ExecStart=/usr/bin/env bash -c 'exec /usr/bin/podman stop it'")
+  expect(text).not.toContain("ExecStart=-")
 })
 
 test("what the page states about timing is written where systemd reads it", () => {

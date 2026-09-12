@@ -8,7 +8,7 @@ import {
   type Watched,
   watchedIn,
 } from "akasha/infrastructure/services/workstations/service-health/service-health.module.code.ts"
-import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
+import type { Started } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
 import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const BASE = {
@@ -18,7 +18,7 @@ const BASE = {
   definition: "the service a test reads the health of",
   runs: ["bun a.ts"],
   enabled: true,
-} as const satisfies ServiceWorkstation
+} as const satisfies Started
 
 const PAGE = "akasha/a.service-workstation.ts"
 
@@ -26,7 +26,7 @@ const ROOT = process.cwd()
 
 const OFF = "workstation.alanwalton.ts.net"
 
-function pageOf(more: Partial<ServiceWorkstation>) {
+function pageOf(more: Partial<Started>) {
   return { service: { ...BASE, ...more }, pagePath: PAGE }
 }
 

@@ -1,54 +1,39 @@
 import { expect, test } from "bun:test"
 import {
   commandOf,
-  type Start,
-  startsIn,
-  wordsIn,
+  runOf,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
 import {
+  HELD_TREE,
   NOWHERE,
-  OUTSIDE,
+  RUNNER,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.test-fixtures.ts"
-import { SERVICE_PAGE_TYPE } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ROOT = process.cwd()
 
-type Page = {
-  readonly runs: readonly string[] | null
-  readonly starts: readonly Start[] | null
+const BUN = "bun"
+
+function runnerPath(): string {
+  const run = runOf(ROOT, RUNNER)
+  if ("refused" in run) throw new Error(run.refused)
+  expect(run.runner).toBe(BUN)
+  return run.path
 }
 
-function pagesBySlug(): ReadonlyMap<string, Page> {
-  const found = new Map<string, Page>()
-  for (const one of valuesOfType(ROOT, SERVICE_PAGE_TYPE)) {
-    const slug = textAt(one.value, "slug")
-    if (slug === null) continue
-    found.set(slug, { runs: wordsIn(one.value.runs), starts: startsIn(one.value.starts) })
-  }
-  return found
-}
-
-test("every service page states a start or is named as one this shape does not reach", () => {
-  const pages = pagesBySlug()
-  for (const [slug, page] of pages) {
-    expect([slug, page.starts !== null || slug in OUTSIDE]).toEqual([slug, true])
-  }
-  for (const slug of Object.keys(OUTSIDE)) expect([slug, pages.has(slug)]).toEqual([slug, true])
+test("the file run is the one code file a page's type requires, under the program holding it", () => {
+  expect(runnerPath().endsWith(".module.code.ts")).toBe(true)
 })
 
-test("a command composed from a page's start is the command that page states, byte for byte", () => {
-  for (const [slug, page] of pagesBySlug()) {
-    const { runs, starts } = page
-    if (runs === null || starts === null) continue
-    expect([slug, starts.length]).toEqual([slug, runs.length])
-    for (let at = 0; at < starts.length; at += 1) {
-      const one = starts[at]
-      if (one === undefined) continue
-      expect([slug, at, commandOf(ROOT, one)]).toEqual([slug, at, { command: runs[at] as string }])
-    }
-  }
+test("the words a start states are written after the file that start names", () => {
+  expect(commandOf(ROOT, { code: RUNNER, arguments: ["a-service"] })).toEqual({
+    command: `${BUN} ${runnerPath()} a-service`,
+  })
+})
+
+test("a run is spelled under the tree named where a tree is named", () => {
+  expect(commandOf(ROOT, { code: RUNNER }, HELD_TREE)).toEqual({
+    command: `${BUN} ${HELD_TREE}/${runnerPath()}`,
+  })
 })
 
 test("a name reaching no page refuses rather than composing a path", () => {

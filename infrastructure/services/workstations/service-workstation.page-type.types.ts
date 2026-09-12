@@ -5,7 +5,6 @@ import type { LookedAt } from "akasha/infrastructure/services/workstations/prope
 import type { NeedsSecrets } from "akasha/infrastructure/services/workstations/properties/needs-secrets.boolean-property.types.ts"
 import type { Port } from "akasha/infrastructure/services/workstations/properties/port.number-property.types.ts"
 import type { Running } from "akasha/infrastructure/services/workstations/properties/running.module-property-group.ts"
-import type { Runs } from "akasha/infrastructure/services/workstations/properties/runs.text-property.types.ts"
 import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import type { Unbound } from "akasha/infrastructure/services/workstations/properties/unbound.text-property.types.ts"
 import type { Well } from "akasha/infrastructure/services/workstations/properties/well.boolean-property.types.ts"
@@ -13,7 +12,6 @@ import type { WorkedAt } from "akasha/infrastructure/services/workstations/prope
 import type { WorksWithinSeconds } from "akasha/infrastructure/services/workstations/properties/works-within-seconds.number-property.types.ts"
 
 export type ServiceWorkstation = Service & {
-  runs?: Runs
   enabled: Enabled
   systemd?: Systemd
   needsSecrets?: NeedsSecrets

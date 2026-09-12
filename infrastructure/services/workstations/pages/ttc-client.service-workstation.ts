@@ -5,9 +5,7 @@ export const ttcClient = {
   type: "service-workstation",
   slug: "ttc-client",
   definition: "the service keeping Tamriel Trade Centre prices current inside the game's prefix",
-  runs: [
-    '/usr/bin/protontricks-launch --no-term --appid 306130 "%h/.steam/steam/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/Client/Client.exe" Silent',
-  ],
+
   enabled: true,
   needsSecrets: false,
   systemd: {

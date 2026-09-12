@@ -5,10 +5,6 @@ export const sleepRelayService = {
   type: "service-workstation",
   slug: "sleep-relay-service",
   definition: "the service carrying the sleep hours to the sites that show them",
-  runs: [
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://alanwalton.com",
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://smilingjenny.me",
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

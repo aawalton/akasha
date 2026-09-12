@@ -5,10 +5,6 @@ export const capacityRelayService = {
   type: "service-workstation",
   slug: "capacity-relay-service",
   definition: "the service carrying the capacity hours to the sites that show them",
-  runs: [
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts https://alanwalton.com",
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts https://smilingjenny.me",
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

@@ -5,9 +5,6 @@ export const reposEmptyDirPurge = {
   type: "service-workstation",
   slug: "repos-empty-dir-purge",
   definition: "the service removing every directory with nothing under Alan's repositories",
-  runs: [
-    "bash code/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh",
-  ],
   enabled: false,
   systemd: {
     schedule: "daily",

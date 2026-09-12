@@ -5,10 +5,6 @@ export const monarchRelayService = {
   type: "service-workstation",
   slug: "monarch-relay-service",
   definition: "the service carrying the unreviewed reading to the sites that show it",
-  runs: [
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://alanwalton.com",
-    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://smilingjenny.me",
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

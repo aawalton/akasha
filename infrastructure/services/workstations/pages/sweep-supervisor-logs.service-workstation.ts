@@ -5,7 +5,6 @@ export const sweepSupervisorLogs = {
   type: "service-workstation",
   slug: "sweep-supervisor-logs",
   definition: "the service removing the log directory of every supervisor whose seat is gone",
-  runs: [],
   enabled: true,
   systemd: {
     schedule: "daily",
