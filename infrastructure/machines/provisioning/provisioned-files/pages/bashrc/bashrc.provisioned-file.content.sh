@@ -121,7 +121,7 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 # resolving, and a generator that exits nonzero inside `$(...)` leaves the shell with no functions
 # and says nothing.
 # `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.
-eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh" infrastructure-shell-init-bash)"
+eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh" infrastructure shell-init-bash)"
 export DISABLE_COST_WARNINGS=1
 
 

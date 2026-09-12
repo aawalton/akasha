@@ -164,7 +164,7 @@ export function bodyIn(given: string | Reading): string {
     "# resolving, and a generator that exits nonzero inside `$(...)` leaves the shell with no functions",
     "# and says nothing.",
     "# `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.",
-    `eval "$("${launcherIn(given)}" infrastructure-shell-init-bash)"`,
+    `eval "$("${launcherIn(given)}" infrastructure shell-init-bash)"`,
     "export DISABLE_COST_WARNINGS=1",
     "",
     "",

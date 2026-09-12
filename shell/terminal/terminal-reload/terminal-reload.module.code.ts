@@ -2,7 +2,7 @@ import { akashaCommand } from "akasha/shell/terminal/terminal-entry-points/termi
 
 export const RELOAD_FN = "_akasha_reload"
 
-export const COMPOSING = "infrastructure-shell-init-bash"
+export const COMPOSING = "infrastructure shell-init-bash"
 
 export function implName(name: string): string {
   return `_akasha_fn_${name}`
