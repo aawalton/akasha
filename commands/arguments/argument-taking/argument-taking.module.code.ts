@@ -93,14 +93,16 @@ type Filling = {
 }
 
 function filling(state: Filling, one: Naming, value: string, byWord: boolean): undefined {
-  const why = whyRefused(one, value)
-  if (why !== null) {
-    state.refusals.push(why)
-    return
-  }
   const argument = one.argument
   const slug = argument.slug
   const key = exportedAs(slug)
+  const why = whyRefused(one, value)
+  if (why !== null) {
+    state.refusals.push(why)
+    state.heard.add(slug)
+    if (byWord) state.asWord.add(slug)
+    return
+  }
   if (repeating(one)) {
     const before = (state.taken[key] ?? []) as readonly (string | number)[]
     state.taken[key] = [...before, heldOf(argument, value) as string | number]

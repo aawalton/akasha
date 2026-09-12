@@ -45,6 +45,19 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement: "An argument carrying no value is taken once where one call says it twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value that will not narrow is refused for the value alone rather than as one nothing said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value is read whole, so the spaces around it are the value's own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An argument whose value is another argument is an argument no value follows.",
     },
     {
@@ -175,6 +188,16 @@ export const argumentTaking = {
       invariantKind: "gap",
       statement:
         "An argument is known to be needed here, and what that argument must be one of is not.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A pair one call may not say together is answered as two arguments a call may leave out.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A command needing one of several arguments and none alone is refused here rather than typed.",
     },
     {
       invariantKind: "departure",

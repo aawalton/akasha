@@ -114,6 +114,10 @@ test("an argument that does not repeat is refused where one call says it twice",
   )
 })
 
+test("an argument carrying no value is taken once where one call says it twice", () => {
+  expect(taken(["--dry-run", "--dry-run"], [DRY_RUN])).toEqual({ dryRun: true })
+})
+
 test("a value that is no whole number is refused", () => {
   expect(refusals(["--limit", "many"], [LIMIT])[0]).toBe(
     "`--limit many` is no whole number of nought or more"
@@ -124,6 +128,16 @@ test("a value that is neither true nor false is refused", () => {
   expect(refusals(["--active", "yes"], [ACTIVE])[0]).toBe(
     "`--active` takes `true` or `false`, and `yes` is neither"
   )
+})
+
+test("a value that will not narrow is refused for the value alone", () => {
+  expect(refusals(["--limit", "many"], [{ ...LIMIT, required: true }])).toEqual([
+    "`--limit many` is no whole number of nought or more",
+  ])
+})
+
+test("a value is read whole, so the spaces around it are the value's own", () => {
+  expect(taken(["--node", " padded "], [NODE])).toEqual({ node: " padded " })
 })
 
 test("an argument the command needs and nothing said is refused", () => {
