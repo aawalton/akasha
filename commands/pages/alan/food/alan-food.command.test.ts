@@ -20,8 +20,14 @@ import {
   wallClockIn,
 } from "akasha/commands/pages/alan/food/alan-food.command.code.ts"
 
+const CALLED_AS = "akasha alan food"
+
 function given(root: string): Given {
   return { root, calledAs: "akasha alan food", from: root, writer: null, agentId: null }
+}
+
+function reading(argv: readonly string[]) {
+  return readIn(argv, CALLED_AS)
 }
 
 const KALE: Logged = {
@@ -89,47 +95,47 @@ test("a run that finished answers what it reported and nothing the list holds", 
 })
 
 test("the food's name is read off the first word", () => {
-  const said = readIn(["Broccoli"])
+  const said = reading(["Broccoli"])
   expect("refused" in said).toBe(false)
   expect(!("refused" in said) && said.title).toBe("Broccoli")
 })
 
 test("the food's name is read off the flag as well", () => {
-  const said = readIn(["--title", "Shrimp & grits"])
+  const said = reading(["--title", "Shrimp & grits"])
   expect(!("refused" in said) && said.title).toBe("Shrimp & grits")
 })
 
 test("a food named twice is refused rather than one name being dropped", () => {
-  const said = readIn(["Broccoli", "--title", "Kale"])
-  expect("refused" in said && said.refused[0]).toContain("said once")
+  const said = reading(["Broccoli", "--title", "Kale"])
+  expect("refused" in said && said.refused[0]).toContain("as a word and at its flag")
 })
 
 test("a second food after the first is refused", () => {
-  const said = readIn(["Broccoli", "Kale", "Chard"])
-  expect("refused" in said && said.refused[0]).toContain("one call names one food")
+  const said = reading(["Broccoli", "Kale", "Chard"])
+  expect("refused" in said && said.refused[0]).toContain("word")
 })
 
 test("a flag it does not take is refused", () => {
-  expect("refused" in readIn(["Broccoli", "--calories", "90"])).toBe(true)
+  expect("refused" in reading(["Broccoli", "--calories", "90"])).toBe(true)
 })
 
 test("a flag naming a value with nothing after it is refused", () => {
-  const said = readIn(["Broccoli", "--plant-grams"])
-  expect("refused" in said && said.refused[0]).toContain("names a value")
+  const said = reading(["Broccoli", "--plant-grams"])
+  expect("refused" in said && said.refused[0]).toContain("takes a value")
 })
 
-test("grams and calories must be non-negative numbers", () => {
-  expect("refused" in readIn(["Broccoli", "--plant-grams", "-1"])).toBe(true)
-  expect("refused" in readIn(["Broccoli", "--plant-grams", "lots"])).toBe(true)
-  expect("refused" in readIn(["Broccoli", "--estimated-calories", "-5"])).toBe(true)
-  const said = readIn(["Broccoli", "--plant-grams", "90", "--estimated-calories", "650"])
+test("grams and calories are whole numbers of nought or more", () => {
+  expect("refused" in reading(["Broccoli", "--plant-grams", "-1"])).toBe(true)
+  expect("refused" in reading(["Broccoli", "--plant-grams", "lots"])).toBe(true)
+  expect("refused" in reading(["Broccoli", "--estimated-calories", "-5"])).toBe(true)
+  const said = reading(["Broccoli", "--plant-grams", "90", "--estimated-calories", "650"])
   expect(!("refused" in said) && said.plantGrams).toBe(90)
   expect(!("refused" in said) && said.estimatedCalories).toBe(650)
 })
 
 test("a date that is not YYYY-MM-DD is refused", () => {
-  expect("refused" in readIn(["Broccoli", "--date", "26-06-26"])).toBe(true)
-  expect("refused" in readIn(["Broccoli", "--date", "2026-06-26"])).toBe(false)
+  expect("refused" in reading(["Broccoli", "--date", "26-06-26"])).toBe(true)
+  expect("refused" in reading(["Broccoli", "--date", "2026-06-26"])).toBe(false)
 })
 
 test("a wall clock is read on a 24-hour clock or refused", () => {
@@ -138,7 +144,7 @@ test("a wall clock is read on a 24-hour clock or refused", () => {
   expect(wallClockIn("24:00")).toBeNull()
   expect(wallClockIn("12:60")).toBeNull()
   expect(wallClockIn("half two")).toBeNull()
-  expect("refused" in readIn(["Broccoli", "--time", "25:00"])).toBe(true)
+  expect("refused" in reading(["Broccoli", "--time", "25:00"])).toBe(true)
 })
 
 test("neither a date nor a time said leaves the instant as now", () => {

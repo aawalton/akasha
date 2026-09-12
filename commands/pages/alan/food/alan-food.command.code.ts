@@ -5,6 +5,14 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
 import { rootOf, written } from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { date as dateArgument } from "akasha/commands/arguments/pages/date.argument.ts"
+import { estimatedCalories as caloriesArgument } from "akasha/commands/arguments/pages/estimated-calories.argument.ts"
+import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
+import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
+import { plantGrams as gramsArgument } from "akasha/commands/arguments/pages/plant-grams.argument.ts"
+import { time as timeArgument } from "akasha/commands/arguments/pages/time.argument.ts"
+import { title as titleArgument } from "akasha/commands/arguments/pages/title.argument.ts"
 import {
   answering,
   DATA,
@@ -16,6 +24,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { alanFood as page } from "akasha/commands/pages/alan/food/alan-food.command.ts"
 import { imageObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,
@@ -29,21 +38,15 @@ import { asking } from "akasha/pages/service/page-asking/page-asking.module.code
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-export const TITLE = "--title"
-
-export const IMAGE = "--image"
-
-export const PLANT_GRAMS = "--plant-grams"
-
-export const ESTIMATED_CALORIES = "--estimated-calories"
-
-export const DATE = "--date"
-
-export const TIME = "--time"
-
-export const JSON_SAID = "--json"
-
-const VALUED = new Set([TITLE, IMAGE, PLANT_GRAMS, ESTIMATED_CALORIES, DATE, TIME])
+const NAMED = [
+  jsonArgument,
+  titleArgument,
+  imageArgument,
+  gramsArgument,
+  caloriesArgument,
+  dateArgument,
+  timeArgument,
+] as const
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
 
@@ -106,87 +109,35 @@ export function wallClockIn(raw: string): WallClock | null {
   return { hh, mm }
 }
 
-function nonNegative(name: string, raw: string, refusals: string[]): number | undefined {
-  const held = Number(raw)
-  if (!Number.isFinite(held) || held < 0) {
-    refusals.push(`\`${name}\` takes a non-negative number, and \`${raw}\` is none`)
-    return undefined
-  }
-  return held
-}
-
-export function readIn(argv: readonly string[]): Read {
+export function readIn(argv: readonly string[], calledAs: string): Read {
+  const read = takenFor(argv, calledAs, page, NAMED)
+  if ("refused" in read) return { refused: read.refused }
+  const taken = read.taken
   const refusals: string[] = []
-  const words: string[] = []
-  const said = new Map<string, string>()
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_SAID) {
-      json = true
-      continue
-    }
-    if (VALUED.has(one)) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` names a value, and nothing followed it`)
-        continue
-      }
-      said.set(one, value)
-      continue
-    }
-    if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag this takes`)
-      continue
-    }
-    words.push(one)
-  }
-  const [named, ...rest] = words
-  for (const stray of rest) {
-    refusals.push(`\`${stray}\` follows the food's name, and one call names one food`)
-  }
-  const titleSaid = said.get(TITLE)
-  if (titleSaid !== undefined && named !== undefined) {
+  const said = taken.date
+  if (said !== undefined && !DAY_PATTERN.test(said)) {
     refusals.push(
-      `the food's name is said once — \`${named}\` is the first word and \`${TITLE}\` names \`${titleSaid}\``
+      `\`${dateArgument.said}\` takes a date written YYYY-MM-DD, and \`${said}\` is none`
     )
   }
-  const title = titleSaid ?? named
-  if (title === undefined || title === "") {
+  const clock = taken.time === undefined ? undefined : wallClockIn(taken.time)
+  if (taken.time !== undefined && clock === null) {
     refusals.push(
-      `the food's name is said as the first word or with \`${TITLE}\`, and neither was said`
+      `\`${timeArgument.said}\` takes a wall clock written HH:MM, and \`${taken.time}\` is none`
     )
   }
-  const plantGramsSaid = said.get(PLANT_GRAMS)
-  const plantGrams =
-    plantGramsSaid === undefined ? undefined : nonNegative(PLANT_GRAMS, plantGramsSaid, refusals)
-  const caloriesSaid = said.get(ESTIMATED_CALORIES)
-  const estimatedCalories =
-    caloriesSaid === undefined ? undefined : nonNegative(ESTIMATED_CALORIES, caloriesSaid, refusals)
-  const date = said.get(DATE)
-  if (date !== undefined && !DAY_PATTERN.test(date)) {
-    refusals.push(`\`${DATE}\` takes a date written YYYY-MM-DD, and \`${date}\` is none`)
+  if (taken.image === "") {
+    refusals.push(`\`${imageArgument.said}\` names a path, and what followed it was empty`)
   }
-  const timeSaid = said.get(TIME)
-  const time = timeSaid === undefined ? undefined : wallClockIn(timeSaid)
-  if (timeSaid !== undefined && time === null) {
-    refusals.push(`\`${TIME}\` takes a wall clock written HH:MM, and \`${timeSaid}\` is none`)
-  }
-  const image = said.get(IMAGE)
-  if (image !== undefined && image === "") {
-    refusals.push(`\`${IMAGE}\` names a path, and what followed it was empty`)
-  }
-  if (refusals.length > 0 || title === undefined) return { refused: refusals }
+  if (refusals.length > 0) return { refused: refusals }
   return {
-    title,
-    image,
-    plantGrams,
-    estimatedCalories,
-    date,
-    time: time ?? undefined,
-    json,
+    title: taken.title,
+    image: taken.image,
+    plantGrams: taken.plantGrams,
+    estimatedCalories: taken.estimatedCalories,
+    date: said,
+    time: clock ?? undefined,
+    json: taken.json,
   }
 }
 
@@ -285,7 +236,10 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   if (read.image !== undefined) {
     bytes = await readFile(read.image).catch(() => null)
     if (bytes === null || bytes.length === 0) {
-      return refused(`\`${IMAGE}\` names ${read.image}, which is not there or holds nothing`, INPUT)
+      return refused(
+        `\`${imageArgument.said}\` names ${read.image}, which is not there or holds nothing`,
+        INPUT
+      )
     }
     store = seaweedFSObjectStoreFromEnv()
     if (store === null) {
@@ -346,8 +300,8 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   }
 
   try {
-    const page = listedAt(root, MODULE, NUTRITION_POINTS)[0]?.path
-    const at = page === undefined ? null : besideAt(page, CODE, TS)
+    const filed = listedAt(root, MODULE, NUTRITION_POINTS)[0]?.path
+    const at = filed === undefined ? null : besideAt(filed, CODE, TS)
     if (at === null) {
       throw new Error(`no \`${MODULE}\` page is filed under \`${NUTRITION_POINTS}\``)
     }
@@ -404,7 +358,7 @@ export async function foodLogged(
 }
 
 export async function alanFood(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = readIn(argv, given.calledAs)
   if ("refused" in read) return refusedBy(read.refused)
   return await foodLogged(read, given)
 }
