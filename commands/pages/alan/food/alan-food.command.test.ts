@@ -1,14 +1,22 @@
 import { expect, test } from "bun:test"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   alanFood,
+  foodLogged,
   freeStemIn,
   happenedAtFrom,
+  type Logged,
   readIn,
   slugOfStem,
   stemFor,
   stemOfSlug,
-  stoppedBy,
   wallClockIn,
 } from "akasha/commands/pages/alan/food/alan-food.command.code.ts"
 
@@ -16,34 +24,68 @@ function given(root: string): Given {
   return { root, calledAs: "akasha alan food", from: root, writer: null, agentId: null }
 }
 
+const KALE: Logged = {
+  title: "Kale",
+  image: undefined,
+  plantGrams: undefined,
+  estimatedCalories: undefined,
+  date: undefined,
+  time: undefined,
+  json: false,
+}
+
+const ENTRY = "wrote the food entry food-entry-2026-06-26-kale, id 01a0"
+
 test("nothing said is refused, naming what it takes", async () => {
   const said = await alanFood([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--title")
 })
 
-test("a run stopped before the entry was written is refused as the fault alone", () => {
-  const said = stoppedBy({ done: [], report: [] }, new Error("the day would not open"))
+test("a run stopped before the entry was written is refused as the fault alone", async () => {
+  const said = await foodLogged(KALE, given("/nowhere"), async () => {
+    throw new Error("the day would not open")
+  })
   expect(said.report).toEqual([])
-  expect(said.refusals).toEqual(["the day would not open"])
-  expect(said.code).toBe(3)
+  expect(said.refusals[0]).toBe("the day would not open")
+  expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+  expect(said.code).toBe(OPERATIONAL)
 })
 
-test("a run stopped after the entry was written names the entry and every write past it", () => {
-  const kept = {
-    done: ["wrote the food entry food-entry-2026-06-26-kale, id 01a0", "put the cover for 01a0"],
-    report: ["cover did not land for food entry 01a0: the pool dropped the call"],
-  }
-  const said = stoppedBy(kept, new Error("the roll-up would not load"))
+test("a run stopped after the entry was written names the entry and every write past it", async () => {
+  const said = await foodLogged(KALE, given("/nowhere"), async (_read, _given, kept) => {
+    kept.done.push(ENTRY, "put the cover for 01a0")
+    kept.report.push("cover did not land for food entry 01a0: the pool dropped the call")
+    throw new Error("the roll-up would not load")
+  })
   expect(said.report[0]).toContain("wrote the food entry")
   expect(said.report[1]).toContain("put the cover")
   expect(said.report[2]).toContain("cover did not land")
   expect(said.refusals[0]).toBe("the roll-up would not load")
+  expect(said.refusals.some((one) => one.startsWith("thrown at "))).toBe(true)
   const last = said.refusals[said.refusals.length - 1] as string
   expect(last).toContain("stopped part way")
-  expect(last).toContain("wrote the food entry food-entry-2026-06-26-kale, id 01a0")
+  expect(last).toContain(ENTRY)
   expect(last).toContain("put the cover for 01a0")
-  expect(said.code).toBe(3)
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a fault carrying a code of its own is answered with that code", async () => {
+  const said = await foodLogged(KALE, given("/nowhere"), async () => {
+    throw new DataError("the food entries already filed could not be read")
+  })
+  expect(said.code).toBe(DATA)
+})
+
+test("a run that finished answers what it reported and nothing the list holds", async () => {
+  const said = await foodLogged(KALE, given("/nowhere"), async (_read, _given, kept) => {
+    kept.done.push(ENTRY)
+    kept.report.push("id\t01a0")
+    return told(kept.report)
+  })
+  expect(said.report).toEqual(["id\t01a0"])
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(OK)
 })
 
 test("the food's name is read off the first word", () => {

@@ -36,6 +36,10 @@ export const alanFood = {
     },
     {
       invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Which day an entry counts to is worked out from when the entry happened against when Alan woke.",
     },

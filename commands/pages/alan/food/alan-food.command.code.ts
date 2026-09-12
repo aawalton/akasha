@@ -6,10 +6,10 @@ import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
 import { rootOf, written } from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import {
+  answering,
   DATA,
   INPUT,
   OPERATIONAL,
-  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -270,17 +270,9 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
 
 export type Kept = { readonly done: string[]; readonly report: string[] }
 
-export function stoppedBy(kept: Kept, thrown: unknown): Answer {
-  const why = whyOf(thrown)
-  if (kept.done.length === 0) return refused(why, OPERATIONAL)
-  return {
-    report: [...kept.done, ...kept.report],
-    refusals: [why, ...partWay(kept.done)],
-    code: OPERATIONAL,
-  }
-}
+export type Logging = (read: Logged, given: Given, kept: Kept) => Promise<Answer>
 
-async function logging(read: Logged, given: Given, kept: Kept): Promise<Answer> {
+async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   const happenedAtRead = happenedAtFrom(read.date, read.time, new Date())
   if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, INPUT)
   const happenedAtDate = happenedAtRead.at
@@ -400,13 +392,19 @@ async function logging(read: Logged, given: Given, kept: Kept): Promise<Answer> 
   return told(report)
 }
 
+export async function foodLogged(
+  read: Logged,
+  given: Given,
+  logging: Logging = logged
+): Promise<Answer> {
+  const report: string[] = []
+  const said = await answering(async (done) => await logging(read, given, { done, report }))
+  if (said.refusals.length === 0 || report.length === 0) return said
+  return { ...said, report: [...said.report, ...report] }
+}
+
 export async function alanFood(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  const kept: Kept = { done: [], report: [] }
-  try {
-    return await logging(read, given, kept)
-  } catch (thrown) {
-    return stoppedBy(kept, thrown)
-  }
+  return await foodLogged(read, given)
 }
