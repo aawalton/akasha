@@ -1,7 +1,6 @@
 import {
-  codeOf,
+  answering,
   INPUT,
-  partWay,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -21,14 +20,8 @@ export function namedIn(word: string, act: string, rest: readonly string[]): Nam
 }
 
 export async function ran(running: (done: string[]) => Promise<void>): Promise<Answer> {
-  const done: string[] = []
-  try {
+  return await answering(async (done) => {
     await running(done)
-  } catch (thrown) {
-    const why = thrown instanceof Error ? thrown.message : String(thrown)
-    const code = codeOf(thrown)
-    if (done.length === 0) return refused(why, code)
-    return { report: done, refusals: [why, ...partWay(done)], code }
-  }
-  return told([])
+    return told([])
+  })
 }

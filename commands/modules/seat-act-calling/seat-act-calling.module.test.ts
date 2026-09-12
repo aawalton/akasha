@@ -65,8 +65,16 @@ test("an act that threw before writing anything is refused as the fault alone", 
     throw new InputError("no seat of that name")
   })
   expect(held.report).toEqual([])
-  expect(held.refusals).toEqual(["no seat of that name"])
+  expect(held.refusals[0]).toBe("no seat of that name")
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
   expect(held.code).toBe(INPUT)
+})
+
+test("a fault says where that fault was thrown", async () => {
+  const held = await ran(async () => {
+    throw new InputError("no seat of that name")
+  })
+  expect(held.refusals[1]).toMatch(/^thrown at \/.+\.module\.test\.ts:\d+:\d+$/)
 })
 
 test("a refusal from a wrapped act has the exit code that act's error states", async () => {

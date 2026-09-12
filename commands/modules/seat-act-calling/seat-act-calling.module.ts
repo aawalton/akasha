@@ -40,6 +40,10 @@ export const seatActCalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A fault says where that fault was thrown.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An act that finished every write says nothing over what that act printed itself.",
     },
     {
