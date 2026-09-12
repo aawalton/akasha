@@ -3,7 +3,7 @@ import type {
   ParsedEvent,
   ParsedFunction,
   ParsedObject,
-} from "akasha/temper/eso-typings/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+} from "akasha/temper/eso-declaration/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 
 export interface EsoOptIn {
   readonly functions: readonly string[]

@@ -4,7 +4,7 @@ import {
   parseEvents,
   parseFunctions,
   parseObjects,
-} from "akasha/temper/eso-typings/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+} from "akasha/temper/eso-declaration/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 
 const ENUM_DUMP = [
   "h5. AbilityType",

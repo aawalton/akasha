@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { ParsedTokens } from "akasha/temper/eso-typings/eso-token-scope/eso-token-scope.module.code.ts"
-import { selectOptIn } from "akasha/temper/eso-typings/eso-token-scope/eso-token-scope.module.code.ts"
+import type { ParsedTokens } from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
+import { selectOptIn } from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
 
 const PARSED: ParsedTokens = {
   functions: [

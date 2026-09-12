@@ -4,7 +4,7 @@ import {
   generateEventsFile,
   generateFunctionsFile,
   generateObjectsFile,
-} from "akasha/temper/eso-typings/eso-declaration-text/eso-declaration-text.module.code.ts"
+} from "akasha/temper/eso-declaration/eso-declaration-text/eso-declaration-text.module.code.ts"
 
 test("an enum is a number type and each value a declared number", () => {
   const text = generateEnumsFile([{ name: "AbilityType", values: ["ABILITY_TYPE_ATTACK"] }])

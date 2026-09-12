@@ -18,24 +18,24 @@ import {
   saidShort,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
-  esoCloneHeaderLines,
-  parseEsoDocApiVersion,
-} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
-import {
   generateEnumsFile,
   generateEventsFile,
   generateFunctionsFile,
   generateObjectsFile,
-} from "akasha/temper/eso-typings/eso-declaration-text/eso-declaration-text.module.code.ts"
+} from "akasha/temper/eso-declaration/eso-declaration-text/eso-declaration-text.module.code.ts"
 import {
   parseEnums,
   parseEvents,
   parseFunctions,
   parseObjects,
-} from "akasha/temper/eso-typings/eso-doc-tokens/eso-doc-tokens.module.code.ts"
-import { ESO_OPT_IN } from "akasha/temper/eso-typings/eso-opt-in/eso-opt-in.module.code.ts"
-import { selectOptIn } from "akasha/temper/eso-typings/eso-token-scope/eso-token-scope.module.code.ts"
+} from "akasha/temper/eso-declaration/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+import { ESO_OPT_IN } from "akasha/temper/eso-declaration/eso-opt-in/eso-opt-in.module.code.ts"
+import { selectOptIn } from "akasha/temper/eso-declaration/eso-token-scope/eso-token-scope.module.code.ts"
+import {
+  esoCloneHeaderLines,
+  parseEsoDocApiVersion,
+} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 
 const CODE_ROOT_FLAG = "--code-root"
 
