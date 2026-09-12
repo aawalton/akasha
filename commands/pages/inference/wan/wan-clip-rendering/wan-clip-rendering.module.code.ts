@@ -15,12 +15,8 @@ import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import type { Taken as Extend } from "akasha/commands/pages/inference/wan/extend/inference-wan-extend.command.code.ts"
 import type { Taken as Generate } from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
-import type { Taken } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
-import {
-  at,
-  numberIn,
-} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 import {
   framesIn,
   homeIn,
@@ -74,7 +70,7 @@ type Prosed = { readonly prompt: string; readonly negative: string }
 
 export function prosedIn(
   root: string,
-  taken: Generate
+  taken: Extend | Generate
 ): Prosed | { readonly refused: readonly string[] } {
   const prompt = filledIn(root, taken.renderPrompt, taken.promptFile, PROMPT)
   if ("refused" in prompt) return prompt
@@ -232,14 +228,15 @@ export async function generating(
 }
 
 export async function extending(
-  read: Taken,
+  taken: Extend,
   given: Given,
   argv: readonly string[],
   report: string[]
 ): Promise<Answer> {
-  const said = read.said
-  const contextPath = at(given, said.get("--context") ?? "")
-  const directionSaid = said.get("--direction") ?? ""
+  const prose = prosedIn(given.root, taken)
+  if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
+  const contextPath = pathUnder(given.root, taken.context)
+  const directionSaid = taken.direction
   const direction: ExtendDirection | undefined = DIRECTIONS.find((one) => one === directionSaid)
   if (direction === undefined) {
     return refused(
@@ -247,21 +244,21 @@ export async function extending(
       INPUT
     )
   }
-  const prompt = said.get("--prompt") ?? ""
-  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
-  const lightning = read.on.has("--lightning")
-  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
-  const seed = numberIn(said, "--seed") ?? drawSeed()
-  const contextFrames = numberIn(said, "--context-frames") ?? 0
-  const asked = numberIn(said, "--new-frames") ?? 0
-  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
-  const sizeSaid = said.get("--size")
+  const prompt = prose.prompt
+  const negative = prose.negative
+  const lightning = taken.lightning
+  const steps = taken.steps ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
+  const seed = taken.seed ?? drawSeed()
+  const contextFrames = taken.contextFrames
+  const asked = taken.newFrames
+  const waiting = (taken.timeout ?? DEFAULT_TIMEOUT_SECONDS) * 1000
+  const sizeSaid = taken.size
   const nowMs = Date.now()
-  const outSaid = said.get("--output")
+  const outSaid = taken.output
   const outPath =
     outSaid === undefined
       ? join(homedir(), "Pictures", "Generated", `extend-${Math.floor(nowMs / 1000)}.mp4`)
-      : at(given, outSaid)
+      : pathUnder(given.root, outSaid)
 
   if (contextFrames < 1) {
     return refused("`--context-frames` is one frame or more", INPUT)
