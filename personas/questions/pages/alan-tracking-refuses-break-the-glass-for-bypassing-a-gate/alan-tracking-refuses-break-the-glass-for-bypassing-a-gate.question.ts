@@ -1,0 +1,17 @@
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
+
+export const alanTrackingRefusesBreakTheGlassForBypassingAGate = {
+  id: "01a095c0-657e-7872-af6a-850c3a93b42b",
+  type: "question",
+  slug: "alan-tracking-refuses-break-the-glass-for-bypassing-a-gate",
+  ask: "`alan tracking` refuses `--break-the-glass` for bypassing a gate that was never there. Should the refusal exist? The guard is the first statement of the command, `commands/pages/alan/tracking/alan-tracking.command.code.ts:56`, and the words come from `NO_GLASS` at `:21`: the flag is no flag this takes, because a body the checks refuse is a fault in the program that composed it. No check refuses that body. This command lands through `MECHANICAL_KIND`, declared at `changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts:29`, whose page sets `runsChecks: false` at `changes/kinds/pages/change-mechanical.change-kind.ts:9`; and `runMechanicalChange` hands its gate `NO_GATE` at `:91` with no branch, where `NO_GATE` at `commands/modules/gate-building/gate-building.module.code.ts:42` names no checks and judges nothing. So the refusal turns away a caller for wanting past a gate this landing does not have. The command page already records the gap at `alan-tracking.command.ts:46` — every check that judges a write judges the change landed here — and states the refusal twice as its own departures, at `:51` (every flag `file-arguing` takes is taken here but the glass) and `:54` (nothing here breaks the glass). Two things written down about this flag are not true. It is not refused in `file-arguing`: that module admits it by default in `VALUED` at `commands/modules/file-arguing/file-arguing.module.code.ts:44`, and the command filters it out into `TAKES` at `alan-tracking.command.code.ts:23`. And it is not in the take-list a stray flag prints: the committed expectation at `alan-tracking.command.test.ts:93` lists six flags and the glass is not among them. No argument page names it anywhere under `commands/arguments/pages`, and `--help` could not show it either way, because `argumentsIn` at `commands/modules/help-writing/help-writing.module.code.ts:63` reads the page's own `arguments` array and nothing else. The flag is live elsewhere: `mechanical-filing.module.code.ts:50` and `testing-system/repo-seeding/repo-seeding.module.code.ts:200` both take the default `VALUED` and so admit it, and `mechanical-filing` reaches ten `track session` commands through `session-acting.module.code.ts:96`. It is honoured where a gate does exist, at `commands/modules/applying/applying.module.code.ts:70` and on the apply's page at `commands/pages/change/apply/change-apply.command.ts:88`.",
+  askedBy: "athena",
+  askedIn: "01a09263-b049-757c-8bce-377d6682545a",
+  status: "open",
+  offered: [
+    "The guard at `:56` goes and the two departures at `:51` and `:54` go with it — a caller saying the flag then gets the ordinary unknown-flag refusal, which the take-list already matches",
+    "The guard stays and its words change to say what is true — this landing is judged by no check, so there is no glass here to break",
+    "The gap at `alan-tracking.command.ts:46` is closed first, so mechanical landings are judged, and the refusal then means exactly what it already says",
+    "The flag stops being admitted by the default `VALUED` at `file-arguing.module.code.ts:44`, so the ten `track session` commands stop taking it too, and only a gated landing knows the word",
+  ],
+} as const satisfies Question
