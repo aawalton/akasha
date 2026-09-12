@@ -19,7 +19,10 @@ import {
 import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  valuesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
@@ -258,7 +261,7 @@ export function plannedOver(items: readonly Played[], ledger: Ledger): Planned {
 }
 
 export function heardPageIn(root: string): string | { readonly refused: string } {
-  const found = valuesOfType(root, HEARD_MUSIC)
+  const found = everyOfType(root, HEARD_MUSIC)
   const only = found.length === 1 ? found[0] : undefined
   if (only === undefined) {
     return {
