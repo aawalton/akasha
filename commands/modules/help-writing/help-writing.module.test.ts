@@ -135,14 +135,14 @@ test("an entry stating no statement is read as nothing", () => {
   expect(statementsIn({}, NONE)).toEqual({ holds: [], notYet: [] })
 })
 
-test("no invariant of its own makes a page one help is answered from", () => {
+test("no invariant of its own is read as something a command takes", () => {
   expect(
     surfaceOf(
       { invariants: [{ invariantKind: "absence", statement: "Nothing writes." }] },
       NONE,
       UNNAMED
     )
-  ).toBe(null)
+  ).toEqual({ taking: [], holds: ["Nothing writes."], notYet: [] })
 })
 
 test("the invariants are written under the arguments", () => {
@@ -213,8 +213,11 @@ test("the rules are written under the invariants, each after a blank line", () =
   expect(said).toEqual(["akasha held", "", "", "one", "", "two"])
 })
 
-test("a page stating nothing taken has none", () => {
-  expect(surfaceOf({}, NONE, UNNAMED)).toBe(null)
+test("a page stating nothing taken and naming no argument is read as taking nothing", () => {
+  expect(surfaceOf({}, NONE, UNNAMED)).toEqual({ taking: [], holds: [], notYet: [] })
+})
+
+test("a command whose page is nowhere has no surface", () => {
   expect(surfaceOf(null, NONE, UNNAMED)).toBe(null)
 })
 
@@ -297,9 +300,10 @@ test("a command stating the taking of an argument it names writes that argument 
   ])
 })
 
-test("a command stating no surface is handed the flag to answer for itself", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS }])
+test("a command stating nothing taken is answered for from its page all the same", async () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
   const said = await calling(["held", HELP], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("--help")
+  expect(said.report[0]).toBe("akasha held — what held is for")
+  expect(said.report).not.toContain("--help")
 })

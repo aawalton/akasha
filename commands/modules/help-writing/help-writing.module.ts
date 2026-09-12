@@ -26,7 +26,11 @@ export const helpWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating nothing taken and naming no argument has none.",
+      statement: "A page stating nothing taken and naming no argument is read as taking nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command whose page is nowhere has no surface.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +91,7 @@ export const helpWriting = {
     },
     {
       invariantKind: "absence",
-      statement: "No invariant of its own makes a page a page help is answered from.",
+      statement: "No invariant of its own is read as something a command takes.",
     },
     {
       invariantKind: "departure",

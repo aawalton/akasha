@@ -92,10 +92,8 @@ export function surfaceOf(
 ): Surface | null {
   if (page === null) return null
   const taking = page[TAKING]
-  const states = Array.isArray(taking)
-  if (!states && !Array.isArray(page[ARGUMENTS])) return null
   return {
-    taking: merged(states ? (taking as Taking) : [], named),
+    taking: merged(Array.isArray(taking) ? (taking as Taking) : [], named),
     ...statementsIn(page, notYet),
   }
 }
