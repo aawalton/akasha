@@ -21,7 +21,7 @@ export const emberInventoryRules = {
       statement:
         "An item the rules move to another place is moved once the character reaches that place.",
       workingMemory:
-        "Alan tested after 9b90a46 and 0fc09ae: 219852 now moves to Erin Solstice, and every other deposit lands. Soul Gem (Empty) 33265 alone still needs a second visit to the banker, and goes on that second visit. So the rule matches and the filters admit it; what drops it is the deposit budget, the storage slot search, or the paced chain losing it behind a move that stalled.",
+        "Root cause found and fixed in 66c358e7. The withdrawal side judged every storage slot before reading pending actions off it; the deposit side read the backpack cold. Its only writer outside a full rescan is the slot handler, which returns early on a non-default update reason and skips a slot already carrying an action it does not call stale. onOpenBank now calls refreshBackpackActions first. Left: Alan to confirm the Soul Gem goes on one visit.",
     },
     {
       statement:
