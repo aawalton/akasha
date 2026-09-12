@@ -7,10 +7,6 @@ export const temperInventoryBuyRuleCreate = {
   definition: "the command adding a buy rule",
   code: "ts",
   taking: [
-    {
-      said: "--item-name <s>",
-      takes: "the item's display name, where the id remains what it matches on",
-    },
     { said: "--target <n>", takes: "the total quantity to buy up to" },
     { said: "--source <name>", takes: "where the item is bought from" },
   ],
@@ -32,5 +28,6 @@ export const temperInventoryBuyRuleCreate = {
     { argument: "argument/goal" },
     { argument: "argument/active" },
     { argument: "argument/item-id" },
+    { argument: "argument/item-name" },
   ],
 } as const satisfies Command
