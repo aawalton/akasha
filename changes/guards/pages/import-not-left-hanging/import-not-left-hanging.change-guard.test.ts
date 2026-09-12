@@ -119,6 +119,22 @@ test("a file nothing imports is not refused", () => {
   expect(said.edits).toHaveLength(1)
 })
 
+test("a file taken away beside the file importing it leaves no import hanging", () => {
+  const root = indexedRepo()
+
+  const said = guardedBy(
+    worldAt(root, heldAt(root, HELD_CODE)),
+    stating([
+      { kind: "remove", path: HELD_CODE },
+      { kind: "remove", path: NAMER_CODE },
+    ]),
+    GUARDS
+  )
+
+  expect(said.refused).toBe(null)
+  expect(said.edits).toHaveLength(2)
+})
+
 test("a file carried off a path another file still imports is refused", () => {
   const root = indexedRepo()
 
