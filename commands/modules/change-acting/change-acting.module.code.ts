@@ -25,17 +25,18 @@ export const NO_PAGE = "this call names no agent whose page the edits would be k
 
 const PAGE_LANDING =
   "Run this same call again: nothing was kept and nothing was lost, so a try costs only the" +
-  " wait, and that wait has run to minutes rather than to seconds. Where it is refused again," +
+  " wait, and that wait has run to minutes rather than to seconds. This call read the index" +
+  " and no file on disk: the index names no page under this agent's id, and why none is named" +
+  " is not something the index says. Where it is refused again," +
   " what says whether this page was ever written, and when it last went, is this repository's" +
   " own history over the page's path. A reason is in `subagent-presence.log` under this seat's" +
-  " folder in the user's runtime directory, which the landing that writes the page leaves a" +
-  " line in only where that landing refused, so a log naming this page nowhere says those" +
-  " landings went rather than that none ran. That landing runs on" +
+  " folder in the user's runtime directory, which the landing that writes a subagent's page" +
+  " leaves a line in only where that landing refused, so a log naming this page nowhere says" +
+  " those landings went rather than that none ran. That landing runs on" +
   " its own and the subagent does not wait for it, so it may still be queued, it may have" +
   " refused, or nothing may have started it. A landing that refused for any reason but the lock or a" +
   " put-back is retried by nothing, and a landing that ended before it could say why is" +
-  " retried by nothing either. What writes the page again is the landing that runs when this" +
-  " subagent is next dispatched or resumed, so say that you are refused to whoever dispatched" +
+  " retried by nothing either. Say that you are refused to whoever dispatched" +
   " you rather than working around the refusal."
 
 const MODULE = "module"

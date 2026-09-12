@@ -113,16 +113,25 @@ test("the refusal promises no outcome from waiting and names no call an agent is
   expect(said).not.toContain("bun ")
 })
 
-test("the refusal says what writes the page again and what is retried by nothing", () => {
+test("the refusal says what it read and what is retried by nothing", () => {
   const root = repo()
 
   const said = noPageSaid(root, presenceIn(root))
 
-  expect(said).toContain("next dispatched or resumed")
+  expect(said).toContain("read the index and no file on disk")
   expect(said).toContain("this repository's own history over the page's path")
   expect(said).toContain("says those landings went rather than that none ran")
   expect(said).toContain("ended before it could say why is retried by nothing")
   expect(said).toContain("minutes rather than to seconds")
+})
+
+test("the refusal asserts no reason the index names no page", () => {
+  const root = repo()
+
+  const said = noPageSaid(root, presenceIn(root))
+
+  expect(said).toContain("why none is named is not something the index says")
+  expect(said).not.toContain("next dispatched or resumed")
 })
 
 test("a call naming no agent at all is refused without the retry", () => {

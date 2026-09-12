@@ -140,7 +140,7 @@ export const changeActing = {
     {
       invariantKind: "departure",
       statement:
-        "That refusal says the page is written again by the landing the next dispatch or resume runs.",
+        "That refusal says it read the index and no file on disk, and asserts no reason none is named.",
     },
     {
       invariantKind: "departure",
