@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { keepBeside } from "akasha/agents/seats/modules/beside/seat-beside.module.code.ts"
 import { runningModeIn } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import {
   type BeatReport,
@@ -18,7 +19,6 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { keepBeside } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
 import { clearRotated } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
 import { keepSession } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
 import {
