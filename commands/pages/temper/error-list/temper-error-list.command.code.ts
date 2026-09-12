@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -27,8 +28,6 @@ import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SAID_WRONG = 1
-
-const DATA = 2
 
 const ERRORS_PATH_FLAG = "--errors-path"
 
@@ -235,7 +234,7 @@ export async function temperErrorsList(argv: readonly string[] = []): Promise<An
       triageReason: one.triageReason,
       ...(one.inferred === undefined ? {} : { inferredCulprit: one.inferred }),
     }))
-    return { report: [JSON.stringify(out), ...heldLine], refusals: [], code: 0 }
+    return { report: [JSON.stringify(out), ...heldLine], refusals: [], code: OK }
   }
 
   if (shown.length === 0) {
@@ -245,9 +244,9 @@ export async function temperErrorsList(argv: readonly string[] = []): Promise<An
         ...heldLine,
       ],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
 
-  return { report: [HEADING, ...shown.map(rowOf), ...heldLine], refusals: [], code: 0 }
+  return { report: [HEADING, ...shown.map(rowOf), ...heldLine], refusals: [], code: OK }
 }
