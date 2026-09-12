@@ -1,4 +1,5 @@
 import { readTranscriptMtimeMs } from "akasha/agents/io-probe/io-probe.module.code.ts"
+import { seatRecord } from "akasha/agents/seats/modules/facts/seat-facts.module.code.ts"
 import {
   resolveSeatTargetCli,
   resolveSeatTargetFromFlagOrEnv,
@@ -26,7 +27,6 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
-import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
