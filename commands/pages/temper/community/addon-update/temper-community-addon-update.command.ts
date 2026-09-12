@@ -38,6 +38,10 @@ export const temperCommunityAddonUpdate = {
       invariantKind: "absence",
       statement: "Nothing here reports a change without making that change.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder laid down before its group threw is named updated rather than failed.",
+    },
   ],
   name: "addon-update",
   arguments: [
