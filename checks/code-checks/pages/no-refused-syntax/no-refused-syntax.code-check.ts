@@ -53,7 +53,19 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is parsed the once and handed to every rule.",
+      statement: "A file is parsed the once and handed to every rule left to judge it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the file's text excuses is left out before the file is parsed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file every mark excuses reaches no parse and no rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mark is read off the rule's own code beside the judging.",
     },
     {
       invariantKind: "departure",

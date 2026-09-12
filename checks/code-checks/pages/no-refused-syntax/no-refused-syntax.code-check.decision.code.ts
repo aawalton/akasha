@@ -4,6 +4,7 @@ import type {
   Given,
   Judging,
   Kind,
+  Marking,
   Readers,
   Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
@@ -42,9 +43,12 @@ const NAMES_ITSELF = "name"
 
 const DECLARES = "pageBodyReaders"
 
+const MARK = "mark"
+
 export type Rule = {
   readonly slug: string
   readonly judge: Judging
+  readonly mark?: Marking
 }
 
 type Running = (...given: readonly unknown[]) => undefined
@@ -153,7 +157,12 @@ export function rulesIn(
         `${one.path} is a syntax rule, and ${beside} answers to nothing that can judge`
       )
     }
-    found.push({ slug, judge: named as Judging })
+    const marking = mod[MARK]
+    if (typeof marking === "function") {
+      found.push({ slug, judge: named as Judging, mark: marking as Marking })
+    } else {
+      found.push({ slug, judge: named as Judging })
+    }
   }
   if (found.length === 0) {
     throw new Error(
@@ -229,6 +238,10 @@ const TYPES_NOTHING: Typing = () => null
 
 const NO_LEVELS: Levels = { namedAt: NAMES_NOTHING, typedAt: TYPES_NOTHING }
 
+export function markedIn(rules: readonly Rule[], path: string, text: string): readonly Rule[] {
+  return rules.filter((one) => one.mark === undefined || one.mark(text, path))
+}
+
 export function refusalsIn(
   rules: readonly Rule[],
   path: string,
@@ -236,6 +249,8 @@ export function refusalsIn(
   readers: Readers,
   levels: Levels = NO_LEVELS
 ): readonly string[] {
+  const live = markedIn(rules, path, text)
+  if (live.length === 0) return []
   const parsed: Given = {
     path,
     source: parsedAs(path, text),
@@ -244,7 +259,7 @@ export function refusalsIn(
     typedAt: levels.typedAt,
   }
   const said: string[] = []
-  for (const rule of rules) {
+  for (const rule of live) {
     for (const one of rule.judge(parsed)) {
       said.push(`line ${one.line}: ${one.reason} — \`${rule.slug}\``)
     }

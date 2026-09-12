@@ -25,6 +25,8 @@ export type Refusal = {
 
 export type Judging = (standing: Given) => readonly Refusal[]
 
+export type Marking = (text: string, path: string) => boolean
+
 export const syntaxRule = {
   id: "01a0500d-738b-79f3-8932-7d947cd9b51b",
   type: "page-type",
@@ -86,11 +88,29 @@ export const syntaxRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule is handed every file the check judges and narrows nothing.",
+      statement: "A rule is handed every file its own mark does not excuse.",
     },
     {
       invariantKind: "departure",
-      statement: "Every rule judges every file.",
+      statement: "Every rule whose mark the file carries judges that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule stating no mark is handed every file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mark excuses a file only where that rule could not have refused it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rule states its mark in the file that holds the pattern the mark is taken from.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No table of marks is kept, since a mark apart from its pattern would stale unseen.",
     },
     {
       invariantKind: "departure",

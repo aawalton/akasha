@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   levelsOf,
+  markedIn,
   type Rule,
   readersOf,
   refusalsIn,
@@ -40,6 +41,66 @@ test("a refusal carries the line, the reason, and the rule that gave it", () => 
 
 test("a rule refusing nothing refuses nothing", () => {
   expect(refusalsIn([QUIET], PROBE_AT, TEXT, NO_READERS)).toEqual([])
+})
+
+test("a rule stating no mark is handed every file", () => {
+  const loud = ruling("loud", 7, "it is wrong")
+  expect(loud.mark).toBeUndefined()
+  expect(markedIn([loud], PROBE_AT, TEXT)).toEqual([loud])
+  expect(markedIn([loud], "elsewhere/other.ts", "")).toEqual([loud])
+})
+
+test("every rule whose mark the file carries judges that file", () => {
+  const marked: Rule = {
+    ...ruling("marked", 7, "it is wrong"),
+    mark: (text) => text.includes("one"),
+  }
+  expect(refusalsIn([marked], PROBE_AT, TEXT, NO_READERS)).toEqual([
+    "line 7: it is wrong — `marked`",
+  ])
+})
+
+test("a rule its mark excuses is not asked to judge that file", () => {
+  let asked = 0
+  const watching: Rule = {
+    slug: "watching",
+    judge: () => {
+      asked += 1
+      return [{ line: 1, reason: "it is wrong" }]
+    },
+    mark: (text) => text.includes("nowhere in this body"),
+  }
+  expect(refusalsIn([watching], PROBE_AT, TEXT, NO_READERS)).toEqual([])
+  expect(asked).toBe(0)
+})
+
+test("a mark is handed the text of the file and the path of the file", () => {
+  const seen: string[] = []
+  const watching: Rule = {
+    slug: "watching",
+    judge: () => [],
+    mark: (text, path) => {
+      seen.push(text, path)
+      return false
+    },
+  }
+  markedIn([watching], PROBE_AT, TEXT)
+  expect(seen).toEqual([TEXT, PROBE_AT])
+})
+
+test("a file no rule's mark carries reaches no parse, since no rule is left to judge it", () => {
+  const excused: Rule = { slug: "excused", judge: () => [], mark: () => false }
+  const also: Rule = { slug: "also", judge: () => [], mark: () => false }
+  expect(markedIn([excused, also], PROBE_AT, TEXT)).toEqual([])
+  expect(refusalsIn([excused, also], PROBE_AT, TEXT, NO_READERS)).toEqual([])
+})
+
+test("a mark one rule states excuses that rule alone and leaves the rest judging", () => {
+  const excused: Rule = { ...ruling("excused", 1, "first"), mark: () => false }
+  const kept = ruling("kept", 2, "second")
+  expect(refusalsIn([excused, kept], PROBE_AT, TEXT, NO_READERS)).toEqual([
+    "line 2: second — `kept`",
+  ])
 })
 
 test("two rules refusing one file refuse it twice, and neither hides the other", () => {
