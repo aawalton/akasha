@@ -6,7 +6,7 @@ import type { SetTemplate } from "akasha/temper/equipment/set-template/set-templ
 import {
   createDataFile,
   type DataFile,
-} from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
+} from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const SETS_ALL_ROWS: readonly SetTemplate[] = [...SETS_ROWS_FIRST, ...SETS_ROWS_SECOND]
 

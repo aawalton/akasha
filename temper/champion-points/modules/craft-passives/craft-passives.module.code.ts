@@ -1,5 +1,5 @@
 import type { ChampionPointTemplate } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
-import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
+import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const CRAFT_PASSIVE_CHAMPION_POINTS = {
   "discipline-artisan": {

@@ -1,6 +1,6 @@
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionSkillId } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
-import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
+import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 interface CompanionPassiveEffect {
   metricId: CompanionMetricId

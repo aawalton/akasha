@@ -20,11 +20,11 @@ import {
   getArmorMultiplier,
 } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import {
   createDataFile,
   type DataFile,
-} from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
+} from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const TEMPER_ARMOR_WEIGHTS_BY_ID = {
   "heavy": {

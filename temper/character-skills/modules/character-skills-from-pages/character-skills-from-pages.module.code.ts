@@ -88,7 +88,7 @@ import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-li
 import {
   createDataFile,
   type DataFile,
-} from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
+} from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const SKILLS_DATA = {
   ...CHARACTER_SKILLS_00,

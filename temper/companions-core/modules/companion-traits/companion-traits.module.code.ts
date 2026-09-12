@@ -2,7 +2,7 @@ import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/
 import type { CompanionMetricEffect } from "akasha/temper/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { EquipmentQualityId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
+import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 export interface CompanionTraitTemplate {
   id: string
