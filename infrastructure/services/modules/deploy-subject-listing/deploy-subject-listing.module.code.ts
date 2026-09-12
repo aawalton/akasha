@@ -9,7 +9,7 @@ import {
   PAGE_TYPE,
   type Read,
   WORKSTATION_SERVICE,
-} from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
+} from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import { listedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {

@@ -8,16 +8,19 @@ let answer: { readonly said: readonly string[]; readonly wrong: readonly string[
 }
 
 const looping = await import(
-  "akasha/infrastructure/services/deploy-looping/deploy-looping.module.code.ts"
+  "akasha/infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"
 )
 
-mock.module("akasha/infrastructure/services/deploy-looping/deploy-looping.module.code.ts", () => ({
-  ...looping,
-  ticked: (_root: string, kind: string) => {
-    TICKED.push(kind)
-    return answer
-  },
-}))
+mock.module(
+  "akasha/infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts",
+  () => ({
+    ...looping,
+    ticked: (_root: string, kind: string) => {
+      TICKED.push(kind)
+      return answer
+    },
+  })
+)
 
 const running = await import(
   "akasha/infrastructure/services/workstations/pages/workstation-deploying.service-workstation.running.code.ts"

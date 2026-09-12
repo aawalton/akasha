@@ -7,5 +7,5 @@ export const messageCc73d26793ad = {
   to: "thea",
   from: "audit-running",
   warrant: "announce",
-  body: "the audit at b54caedd669a4022801280b031cd2c0fabe2345c found 1 check newly refusing.\n`typecheck` refused 1 time:\n  infrastructure/services/deploy-looping/deploy-looping.module.code.ts — line 2: TS2305: Module '\"akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts\"' has no exported member 'heldNow'.\n/var/home/walton/.local/state/workstation-services/audit-verdicts.json holds what each of them refuses, whole.\n",
+  body: "the audit at b54caedd669a4022801280b031cd2c0fabe2345c found 1 check newly refusing.\n`typecheck` refused 1 time:\n  infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts — line 2: TS2305: Module '\"akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts\"' has no exported member 'heldNow'.\n/var/home/walton/.local/state/workstation-services/audit-verdicts.json holds what each of them refuses, whole.\n",
 } as const satisfies Message

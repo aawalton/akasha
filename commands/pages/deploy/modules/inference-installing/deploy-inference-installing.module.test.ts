@@ -3,7 +3,7 @@ import {
   OVER_SSH,
   putUpInferenceService,
   type Reaching,
-} from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
+} from "akasha/commands/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"
 
 const ROOT = process.cwd()
 const SERVICE = "moss-tts"

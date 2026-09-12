@@ -14,7 +14,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperCommunityAddonUpdate as page } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.ts"
-import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
+import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import {
   fetchCatalog,
   fetchFileDetails,
