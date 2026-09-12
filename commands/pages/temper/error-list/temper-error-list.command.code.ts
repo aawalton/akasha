@@ -36,8 +36,6 @@ const JSON_FLAG = "--json"
 
 const INCLUDE_STALE_FLAG = "--include-stale"
 
-const ALL_FLAG = "--all"
-
 const STALE_AFTER_FLAG = "--stale-after-hours"
 
 const CAPTURE_FILE = "TemperErrors.lua"
@@ -193,7 +191,7 @@ export async function temperErrorsList(argv: readonly string[] = []): Promise<An
   if (typeof staleAfterHours === "string") return refused(staleAfterHours, SAID_WRONG)
 
   const errorsPath = valuesOf(argv, ERRORS_PATH_FLAG)[0] ?? savedVarsFile(CAPTURE_FILE)
-  const includeStale = argv.includes(INCLUDE_STALE_FLAG) || argv.includes(ALL_FLAG)
+  const includeStale = argv.includes(INCLUDE_STALE_FLAG)
 
   let content: string
   try {

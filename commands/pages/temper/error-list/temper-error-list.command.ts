@@ -10,7 +10,6 @@ export const temperErrorList = {
     { said: "--errors-path <path>", takes: "the saved-variables file the errors are read from" },
     { said: "--json", takes: "give each error as JSON rather than as tab-separated rows" },
     { said: "--include-stale", takes: "show the entries left behind by an older session too" },
-    { said: "--all", takes: "the same as `--include-stale`, which it is a second spelling of" },
     {
       said: "--stale-after-hours <n>",
       takes: "how far behind the log frontier an entry is before it counts as stale",
