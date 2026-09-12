@@ -49,10 +49,7 @@ export const changeList = {
       invariantKind: "absence",
       statement: "A list writes nothing.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No taking is stated here.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The help flag reaches this command's own help rather than the namespace's.",

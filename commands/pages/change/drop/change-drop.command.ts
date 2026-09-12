@@ -68,10 +68,6 @@ export const changeDrop = {
       invariantKind: "absence",
       statement: "A drop lands nothing.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No taking is stated here.",
-    },
   ],
   name: "drop",
 } as const satisfies Command

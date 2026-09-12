@@ -82,10 +82,7 @@ export const changeApply = {
       invariantKind: "departure",
       statement: "The help flag is read before the arguments are, so nothing need be piped in.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No taking is stated here.",
-    },
+
     {
       invariantKind: "departure",
       statement: "`break-the-glass` passes the checks.",

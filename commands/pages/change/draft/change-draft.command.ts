@@ -106,10 +106,7 @@ export const changeDraft = {
       invariantKind: "departure",
       statement: "The help flag is read before the arguments are, so nothing need be piped in.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No taking is stated here.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A draft's answer names every page written.",
