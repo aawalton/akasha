@@ -1,4 +1,5 @@
 import {
+  holdsAfter,
   takingIn,
   unreadable,
 } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
@@ -11,7 +12,11 @@ import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts
 const NAMED = 5
 
 export function carryingIn(given: Guarding, slug: string): readonly string[] {
-  return [...given.shadow.index.everyOfType(slug).map((one) => one.path)].sort()
+  return given.before.index
+    .everyOfType(slug)
+    .map((one) => one.path)
+    .filter((path) => holdsAfter(given, path))
+    .sort()
 }
 
 function countSaid(count: number): string {

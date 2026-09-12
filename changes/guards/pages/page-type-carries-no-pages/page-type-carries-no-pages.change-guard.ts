@@ -16,7 +16,8 @@ export const pageTypeCarriesNoPages = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages of that page type are read from the index the answer leaves.",
+      statement:
+        "The pages of that page type are read from the world the change read before answering.",
     },
     {
       invariantKind: "departure",
