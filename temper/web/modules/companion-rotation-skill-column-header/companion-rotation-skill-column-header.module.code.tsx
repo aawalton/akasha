@@ -13,8 +13,8 @@ import { TableHead } from "akasha/design/interfaces/primitives/table/table.modul
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { SkillSlotData } from "akasha/temper/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
-import { CompanionSkillDetailContent } from "akasha/temper/web/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx"
 import { CompanionSkillSelectDialog } from "akasha/temper/web/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx"
+import { CompanionSkillDetailContent } from "akasha/temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx"
 import {
   useCompanion,
   useCompanionActions,

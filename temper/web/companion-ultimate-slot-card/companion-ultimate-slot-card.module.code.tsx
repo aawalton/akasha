@@ -4,9 +4,9 @@ import { Button } from "akasha/design/interfaces/primitives/modules/button/butto
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { CompanionSkillCard } from "akasha/temper/web/companion-skill-card/companion-skill-card.module.code.tsx"
+import type { CompanionSkillTemplate } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import { Plus, X } from "lucide-react"
 
 interface CompanionUltimateSlotCardProps {

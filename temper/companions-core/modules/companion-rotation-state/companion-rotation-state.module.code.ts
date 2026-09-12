@@ -1,13 +1,13 @@
 import {
-  getSkillCastTime,
-  getSkillCooldown,
-  getSkillUltimateCost,
-} from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { extractFormulaComponents } from "akasha/temper/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
+import {
+  getSkillCastTime,
+  getSkillCooldown,
+  getSkillUltimateCost,
+} from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type {
   RotationCategory,
   RotationState,

@@ -18,7 +18,7 @@ import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
 } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { CompanionShoppingDataContent } from "akasha/temper/player-economics-ui/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"
+import { CompanionShoppingDataContent } from "akasha/temper/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"
 import { ShoppingListTabContent } from "akasha/temper/player-economics-ui/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx"
 import type {
   ShoppingMarks,

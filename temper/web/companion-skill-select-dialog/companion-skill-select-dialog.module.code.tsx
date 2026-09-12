@@ -14,13 +14,13 @@ import {
   type CompanionSkillLineId,
   companionSkillLines,
 } from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
-import { CompanionSkillCard } from "akasha/temper/web/companion-skill-card/companion-skill-card.module.code.tsx"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogCategory,
   type FilterableSelectDialogConfig,
   type FilterableSelectDialogItem,
 } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { useMemo } from "react"
 

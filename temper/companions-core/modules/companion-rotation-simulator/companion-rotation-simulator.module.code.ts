@@ -1,8 +1,4 @@
 import {
-  activateSkill,
-  selectNextSkill,
-} from "akasha/temper/companions-core/companion-skill-executor/companion-skill-executor.module.code.ts"
-import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
@@ -16,6 +12,10 @@ import {
   createEmptyResult,
 } from "akasha/temper/companions-core/modules/companion-rotation-results/companion-rotation-results.module.code.ts"
 import { initializeState } from "akasha/temper/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts"
+import {
+  activateSkill,
+  selectNextSkill,
+} from "akasha/temper/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts"
 import type {
   HealthSamples,
   RotationConfig,
