@@ -12,6 +12,7 @@ import { MOUNTED } from "akasha/code/test-overlay/test-overlay.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const MODULE = "module"
 
@@ -147,4 +148,16 @@ export function linksMended(root: string): undefined {
   const gone = danglingIn()
   if (gone.length === 0) return undefined
   return linksMade(root, gone)
+}
+
+export function mendedFor(root: string): readonly string[] {
+  try {
+    linksMended(root)
+    return []
+  } catch (thrown) {
+    const why = saidBy(thrown)
+    return [
+      `akasha: a hook is registered through a link that is gone, and writing it again failed: ${why}`,
+    ]
+  }
 }

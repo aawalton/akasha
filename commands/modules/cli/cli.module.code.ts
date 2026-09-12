@@ -1,7 +1,7 @@
 import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
 import { resolve } from "node:path"
-import { linksMended } from "akasha/agents/hooks/links/hook-links.module.code.ts"
+import { mendedFor } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { UNCLASSIFIED } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -34,18 +34,6 @@ export function outsideOf(
 
 export function saidOf(answer: Answer): Said {
   return { out: answer.report, err: answer.refusals, code: answer.code }
-}
-
-export function mendedFor(root: string): readonly string[] {
-  try {
-    linksMended(root)
-    return []
-  } catch (thrown) {
-    const why = saidBy(thrown)
-    return [
-      `akasha: a hook is registered through a link that is gone, and writing it again failed: ${why}`,
-    ]
-  }
 }
 
 export async function answering(

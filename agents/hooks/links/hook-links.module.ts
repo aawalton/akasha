@@ -64,6 +64,10 @@ export const hookLinks = {
     },
     {
       invariantKind: "departure",
+      statement: "A mend that fails answers what failed rather than stopping its caller.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name carrying the mark of a half-written link is no event.",
     },
     {
