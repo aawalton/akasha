@@ -4,9 +4,9 @@ import { codeRoot } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { outdated } from "akasha/commands/arguments/pages/outdated.argument.ts"
 import {
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -75,24 +75,16 @@ export async function temperCommunityAddonList(
   const counts = countsOf(plan.addons)
 
   if (taken.json) {
-    return {
-      report: JSON.stringify({ addonsDir: addonsPath, counts, addons: shown }, null, SPACES).split(
-        "\n"
-      ),
-      refusals: [],
-      code: OK,
-    }
+    return told(
+      JSON.stringify({ addonsDir: addonsPath, counts, addons: shown }, null, SPACES).split("\n")
+    )
   }
 
-  return {
-    report: [
-      ...shown.map(
-        (one) =>
-          `${one.dir}\t${one.status}\t${one.installedVersion ?? "-"}\t${one.latestVersion ?? "-"}`
-      ),
-      countLine(counts),
-    ],
-    refusals: [],
-    code: OK,
-  }
+  return told([
+    ...shown.map(
+      (one) =>
+        `${one.dir}\t${one.status}\t${one.installedVersion ?? "-"}\t${one.latestVersion ?? "-"}`
+    ),
+    countLine(counts),
+  ])
 }

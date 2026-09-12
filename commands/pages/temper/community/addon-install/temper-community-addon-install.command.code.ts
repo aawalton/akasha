@@ -7,9 +7,9 @@ import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answering,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -54,33 +54,21 @@ export async function temperCommunityAddonInstall(
     }
 
     if (taken.json) {
-      return {
-        report: JSON.stringify({ name, addonsDir: addonsPath, ...outcome }, null, SPACES).split(
-          "\n"
-        ),
-        refusals: [],
-        code: OK,
-      }
+      return told(
+        JSON.stringify({ name, addonsDir: addonsPath, ...outcome }, null, SPACES).split("\n")
+      )
     }
 
     if (outcome.action === "skipped") {
-      return {
-        report: [
-          `${name}\tskipped\t${outcome.dirs.join(",")}`,
-          `every folder it installs is already there, and ${force.said} installs it again`,
-        ],
-        refusals: [],
-        code: OK,
-      }
+      return told([
+        `${name}\tskipped\t${outcome.dirs.join(",")}`,
+        `every folder it installs is already there, and ${force.said} installs it again`,
+      ])
     }
 
-    return {
-      report: [
-        `${outcome.dirs.join(",")}\tinstalled\t${outcome.version}`,
-        `${String(outcome.dirs.length)} folder(s) into ${addonsPath}, unmanaged, so nothing keeps it up to date`,
-      ],
-      refusals: [],
-      code: OK,
-    }
+    return told([
+      `${outcome.dirs.join(",")}\tinstalled\t${outcome.version}`,
+      `${String(outcome.dirs.length)} folder(s) into ${addonsPath}, unmanaged, so nothing keeps it up to date`,
+    ])
   })
 }
