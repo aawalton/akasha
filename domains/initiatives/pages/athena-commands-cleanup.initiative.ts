@@ -28,7 +28,6 @@ export const athenaCommandsCleanup = {
     "A check's silence measures adoption better than a grep for the reader's name, because a command reaching that reader through a typed wrapper reads as neither converted nor refused.\n",
     "A defaulted test seam in second place crashes every call while every test passes, and a thin entry handing the call and the world to a seam-taking helper makes that impossible.\n",
     "A subagent may run a bare `akasha audit` and not one narrowed by check or path, so a single check is re-derived by calling its own audit entry rather than by narrowing the audit.\n",
-    "A taboo term refused beside an unread page is not recorded as read, so the same call refuses on that term again once the reading is done.\n",
     "An intent met is taken off its initiative as soon as the meeting is found, rather than left standing with working memory saying it is done.",
     "A name carrying meaning the builder's name does not is no alias, however exactly its body reduces to that builder.",
     "A census of a symbol greps the bare identifier or runs multiline, and an import with no call to justify it is the cheaper census, because a call spelled over four lines is invisible to one line.",
