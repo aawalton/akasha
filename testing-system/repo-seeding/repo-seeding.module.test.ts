@@ -28,7 +28,7 @@ test("a check whose code was taken away refuses the change, and nothing reaches 
   const root = repoCheckCodeGone()
   const was = headOf(root)
   const said = await wrote(root, ["--message", "held"])
-  expect(said.code).toBe(3)
+  expect(said.code).toBe(2)
   expect(said.refusals.join("\n")).toContain(
     "the check `admits` could not be gathered, so it judged nothing"
   )
@@ -68,7 +68,7 @@ test("a check is handed a removal, and can refuse it", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   checking(root, "refuses-taking", REFUSES_TAKING)
   const said = await wroteWith(root, ["--remove", "akasha/two.ts", "--message", "held"])
-  expect(said.code).toBe(3)
+  expect(said.code).toBe(2)
   expect(said.refusals.join("\n")).toContain("akasha/two.ts — a check judged this going away")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(true)
   expect(treeHolds(root, "akasha/two.ts")).toBe(true)
