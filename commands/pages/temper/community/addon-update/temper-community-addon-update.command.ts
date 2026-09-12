@@ -42,6 +42,10 @@ export const temperCommunityAddonUpdate = {
       invariantKind: "departure",
       statement: "A folder laid down before its group threw is named updated rather than failed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder the archive carried nothing for is named failed rather than left out.",
+    },
   ],
   name: "addon-update",
   arguments: [
