@@ -2,8 +2,15 @@ import {
   markedIn,
   subscriptionMarks,
 } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
@@ -23,7 +30,7 @@ export function readIn(argv: readonly string[]): Read {
 
 export function claudeAccountReEnable(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     const said = markedIn(
       given.root,
@@ -32,21 +39,13 @@ export function claudeAccountReEnable(argv: readonly string[], given: Given): An
       readingIn(given.root),
       (path) => valueAt(path, given.root)
     )
-    if (said.kind === "absent") return { report: [], refusals: [said.why], code: 2 }
-    if (said.kind === "refused") return { report: [], refusals: [said.why], code: 3 }
+    if (said.kind === "absent") return refusedBy([said.why], DATA)
+    if (said.kind === "refused") return refusedBy([said.why], OPERATIONAL)
     if (said.kind === "unchanged") {
-      return {
-        report: [`${read.account} was already standing, so nothing was cleared`],
-        refusals: [],
-        code: 0,
-      }
+      return told([`${read.account} was already standing, so nothing was cleared`])
     }
-    return {
-      report: [`${read.account} stands again, and the picker counts it from the next ask`],
-      refusals: [],
-      code: 0,
-    }
+    return told([`${read.account} stands again, and the picker counts it from the next ask`])
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

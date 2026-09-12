@@ -1,10 +1,16 @@
 import { accountsAtIn } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -113,18 +119,14 @@ export function slotFrom(held: ReadonlyMap<string, number>, asked: number | null
 
 export async function claudeAccountAdd(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     const held = aliasIndexesIn(given.root)
     if (held.has(read.account)) {
-      return {
-        report: [],
-        refusals: [`a page already exists for \`${read.account}\`, and this writes over none`],
-        code: 1,
-      }
+      return mistaking([`a page already exists for \`${read.account}\`, and this writes over none`])
     }
     const slot = slotFrom(held, read.alias)
-    if (typeof slot === "string") return { report: [], refusals: [slot], code: 1 }
+    if (typeof slot === "string") return mistaking([slot])
     const pageType = typeSlugOf(given.root, ACCOUNT_TYPE)
     const typeAt = listedAt(given.root, PAGE_TYPE, pageType)[0]?.path
     const typesAt = typeAt === undefined ? null : besideAt(typeAt, TYPES, HOLDS)
@@ -147,16 +149,12 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
       `akasha: file a page for the claude account ${read.account}`
     )
     const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-    if (wrong.length > 0) return { report: [], refusals: wrong, code: DATA }
-    return {
-      report: [
-        `${read.account} holds slot ${slot} and is filed at ${at}`,
-        "run /login in the launching session to sign it in",
-      ],
-      refusals: [],
-      code: 0,
-    }
+    if (wrong.length > 0) return refusedBy(wrong, DATA)
+    return told([
+      `${read.account} holds slot ${slot} and is filed at ${at}`,
+      "run /login in the launching session to sign it in",
+    ])
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

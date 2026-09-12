@@ -62,6 +62,10 @@ export const claudeAccountAdd = {
       statement: "The change adding a file writes the page rather than an edit composed here.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here signs in or reads a token or writes a secret.",
     },

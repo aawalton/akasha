@@ -30,6 +30,14 @@ export const claudeAccountReEnable = {
       statement: "The reason is cleared beside the page rather than in it.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account no page is filed for is a fault of the data.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a token or asks a model.",
     },
