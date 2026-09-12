@@ -1,8 +1,13 @@
 import { expect, test } from "bun:test"
+import { existsSync, readdirSync } from "node:fs"
+import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
+import {
+  seatPathForName,
+  seatsAt,
+} from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   addressFor,
   assignedKinds,
@@ -255,7 +260,12 @@ test("the page alone is taken away after that one refusal and no other", () => {
 
 const SITS_NOWHERE = "nobody-sits-here"
 
-const SITS_SOMEWHERE = "olwen"
+function seatedSomewhere(): string {
+  const named = readdirSync(join(ROOT, seatsAt(ROOT)))
+  return named.find((one) => existsSync(join(ROOT, seatPathForName(one)))) ?? ""
+}
+
+const SITS_SOMEWHERE = seatedSomewhere()
 
 async function statingAt(name: string): Promise<readonly Asking[]> {
   let asked: readonly Asking[] = []
@@ -268,6 +278,8 @@ async function statingAt(name: string): Promise<readonly Asking[]> {
 }
 
 test("a seat written over a page already there hands in the body it read", async () => {
+  expect(SITS_SOMEWHERE).not.toBe("")
+
   const asked = await statingAt(SITS_SOMEWHERE)
 
   expect(asked.length).toBe(1)
