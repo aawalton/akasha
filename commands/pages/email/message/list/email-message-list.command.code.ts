@@ -8,6 +8,7 @@ import {
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { listMessages } from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Filing,
@@ -35,10 +36,10 @@ export function readIn(argv: readonly string[]): Read {
 
 export function emailMessageList(argv: readonly string[], given: Given): Promise<Answer> {
   const said = readIn(argv)
-  if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
+  if ("refused" in said) return Promise.resolve(refusing(said.refused, INPUT))
   return answeredBy(async () => {
     const query = proseIn(given.root, said.one, FILING)
-    if ("refused" in query) return refusing(query.refused, 1)
+    if ("refused" in query) return refusing(query.refused, INPUT)
     const labels = said.many[LABEL] ?? []
     return asJsonLines(
       await listMessages({
