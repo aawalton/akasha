@@ -18,6 +18,7 @@ import {
   SEAT_MODES,
 } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/modules/recovery/seat-recovery.module.code.ts"
+import { HELP } from "akasha/agents/seats/modules/resume-help/seat-resume-help.module.code.ts"
 import {
   dataError,
   exitCodeForThrowable,
@@ -36,7 +37,6 @@ import {
   liveResumeVerifySleep,
   resumeAndVerify,
 } from "akasha/seat-system/resume-verify/resume-verify.module.code.ts"
-import { HELP } from "akasha/seat-system/seat-resume-help/seat-resume-help.module.code.ts"
 import type { ReviveIoVerdict } from "akasha/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 import { decideSubagentGuard } from "akasha/seat-system/subagent-guard/subagent-guard.module.code.ts"
 import { standingSubagentsOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
