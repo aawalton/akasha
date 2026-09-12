@@ -16,13 +16,11 @@ export const inferenceUpscale = {
     { said: "--seed <n>", takes: "the sampler seed" },
     { said: "--no-persist", takes: "leave the image where it was written and file no page for it" },
   ],
-  helpNotes: [
-    "the resolution is the shortest edge in pixels rather than a factor, so a factor is worked out against the source's short side first.",
-    "the host is the cluster where nothing names one, and naming the workstation opts into the card sitting in it.",
-    "on the cluster the work is a Job and the image travels through the object store, and on the workstation it is a container reading a data directory.",
-    "the environment holds where that data directory sits under `UPSCALE_HOME`.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "`UPSCALE_HOME` names the workstation's data directory.",
+    },
     {
       invariantKind: "departure",
       statement: "The resolution is the shortest edge in pixels.",
