@@ -27,7 +27,7 @@ export const HELD = "export const held = 1\n"
 
 const ID = "01a05d75-0000-7000-8000-00000000000a"
 
-const MANIFEST_KEY = "manifest"
+const MANIFEST_KEY = "workspace-manifest"
 
 const FILE_PROPERTY = "file-property"
 
