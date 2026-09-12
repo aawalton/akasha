@@ -1,16 +1,16 @@
 import {
-  getEndTime,
-  getStackEffect,
-} from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
-import { buildActionCtx } from "akasha/temper/combat-addon/combat-action-duration-args/combat-action-duration-args.module.code.ts"
-import { fireEngineUpdate } from "akasha/temper/combat-addon/combat-action-engine-context/combat-action-engine-context.module.code.ts"
-import {
   purgeQueue,
   removeAction,
   STATE,
 } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { getGallopEffect } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
+import {
+  getEndTime,
+  getStackEffect,
+} from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
+import { buildActionCtx } from "akasha/temper/combat-addon/modules/combat-action-duration-args/combat-action-duration-args.module.code.ts"
+import { fireEngineUpdate } from "akasha/temper/combat-addon/modules/combat-action-engine-context/combat-action-engine-context.module.code.ts"
 
 const SECONDS_BEFORE_FADE_MS = 1000
 

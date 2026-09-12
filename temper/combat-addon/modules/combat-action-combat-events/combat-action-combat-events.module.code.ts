@@ -1,5 +1,3 @@
-import { buildEffect } from "akasha/temper/combat-addon/combat-action-effect/combat-action-effect.module.code.ts"
-import { findActionByNewEffect } from "akasha/temper/combat-addon/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
 import {
   removeAction,
   STATE,
@@ -11,6 +9,8 @@ import type {
   Effect,
 } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { buildAbility } from "akasha/temper/combat-addon/modules/combat-action-ability/combat-action-ability.module.code.ts"
+import { buildEffect } from "akasha/temper/combat-addon/modules/combat-action-effect/combat-action-effect.module.code.ts"
+import { findActionByNewEffect } from "akasha/temper/combat-addon/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
 
 const CORE_MINIMUM_DURATION_MS = 2500
 

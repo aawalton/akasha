@@ -1,11 +1,11 @@
+import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import {
   getAreaEffectCount,
   getStageInfo,
   getStageInfo2,
-} from "akasha/temper/combat-addon/combat-action-display/combat-action-display.module.code.ts"
-import type { DurationCtx } from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
-import { getStackEffect } from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
-import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-action-display/combat-action-display.module.code.ts"
+import type { DurationCtx } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
+import { getStackEffect } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
 
 export type StackRightLabel =
   | { readonly kind: "count"; readonly text: string }

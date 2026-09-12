@@ -1,15 +1,4 @@
 import {
-  bracketLowPriority,
-  formatRemainLabel,
-  needEndingAlert,
-} from "akasha/temper/combat-addon/combat-action-display/combat-action-display.module.code.ts"
-import type { DurationCtx } from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
-import {
-  getDuration,
-  getEndTime,
-  optEffect,
-} from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
-import {
   getLabelFont,
   getStackLabelFont,
 } from "akasha/temper/combat-addon/combat-action-fonts/combat-action-fonts.module.code.ts"
@@ -23,6 +12,17 @@ import {
   cooldownStart,
   newCooldown,
 } from "akasha/temper/combat-addon/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"
+import {
+  bracketLowPriority,
+  formatRemainLabel,
+  needEndingAlert,
+} from "akasha/temper/combat-addon/modules/combat-action-display/combat-action-display.module.code.ts"
+import type { DurationCtx } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
+import {
+  getDuration,
+  getEndTime,
+  optEffect,
+} from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

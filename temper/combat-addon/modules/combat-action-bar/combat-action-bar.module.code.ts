@@ -1,6 +1,3 @@
-import type { DurationCtx } from "akasha/temper/combat-addon/combat-action-duration/combat-action-duration.module.code.ts"
-import { buildActionCtx } from "akasha/temper/combat-addon/combat-action-duration-args/combat-action-duration-args.module.code.ts"
-import { onEngineUpdate } from "akasha/temper/combat-addon/combat-action-engine-context/combat-action-engine-context.module.code.ts"
 import { matchesAbility } from "akasha/temper/combat-addon/combat-action-matching/combat-action-matching.module.code.ts"
 import { STATE } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import {
@@ -21,6 +18,9 @@ import {
 import type { BarSettings } from "akasha/temper/combat-addon/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
 import { getBarSettings } from "akasha/temper/combat-addon/modules/combat-action-bar-settings/combat-action-bar-settings.module.code.ts"
 import { getNewest } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
+import type { DurationCtx } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
+import { buildActionCtx } from "akasha/temper/combat-addon/modules/combat-action-duration-args/combat-action-duration-args.module.code.ts"
+import { onEngineUpdate } from "akasha/temper/combat-addon/modules/combat-action-engine-context/combat-action-engine-context.module.code.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

@@ -1,13 +1,4 @@
 import {
-  clearCrux,
-  setCruxStacks,
-} from "akasha/temper/combat-addon/combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
-import { buildEffect } from "akasha/temper/combat-addon/combat-action-effect/combat-action-effect.module.code.ts"
-import {
-  findActionByNewEffect,
-  findActionByOldEffect,
-} from "akasha/temper/combat-addon/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
-import {
   calcLevel,
   sortEffectList,
 } from "akasha/temper/combat-addon/combat-action-priority/combat-action-priority.module.code.ts"
@@ -20,6 +11,15 @@ import { updateStackInfo } from "akasha/temper/combat-addon/combat-action-stacks
 import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
 import type { Effect } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { ensureCruxActions } from "akasha/temper/combat-addon/modules/combat-action-crux/combat-action-crux.module.code.ts"
+import {
+  clearCrux,
+  setCruxStacks,
+} from "akasha/temper/combat-addon/modules/combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
+import { buildEffect } from "akasha/temper/combat-addon/modules/combat-action-effect/combat-action-effect.module.code.ts"
+import {
+  findActionByNewEffect,
+  findActionByOldEffect,
+} from "akasha/temper/combat-addon/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
 
 export interface EffectChange {
   changeType: number
