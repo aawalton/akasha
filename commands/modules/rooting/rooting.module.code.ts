@@ -5,9 +5,14 @@ export const MARKED = "akasha.domain.ts"
 
 export const ROOT_NAMED = "AKASHA_ROOT"
 
-export function rootIn(env: Readonly<Record<string, string | undefined>>, at: string): string {
+export function rootStated(env: Readonly<Record<string, string | undefined>>): string | undefined {
   const stated = env[ROOT_NAMED]
-  return stated === undefined || stated === "" ? rootOf(at) : resolve(stated)
+  return stated === undefined || stated === "" ? undefined : stated
+}
+
+export function rootIn(env: Readonly<Record<string, string | undefined>>, at: string): string {
+  const stated = rootStated(env)
+  return stated === undefined ? rootOf(at) : resolve(stated)
 }
 
 export function rootOf(at: string): string {

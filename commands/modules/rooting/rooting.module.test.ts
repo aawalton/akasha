@@ -6,6 +6,7 @@ import {
   ROOT_NAMED,
   rootIn,
   rootOf,
+  rootStated,
 } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { CLI_UNDER } from "akasha/commands/modules/rooting/rooting.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
@@ -65,4 +66,10 @@ test("a root stated as nothing is no root stated", () => {
   const root = checkoutMade()
   expect(rootIn({ [ROOT_NAMED]: "" }, join(root, CLI_UNDER))).toBe(root)
   expect(rootIn({}, join(root, CLI_UNDER))).toBe(root)
+})
+
+test("a caller carrying its own fallback is answered the stated root or nothing", () => {
+  expect(rootStated({ [ROOT_NAMED]: "/elsewhere" })).toBe("/elsewhere")
+  expect(rootStated({ [ROOT_NAMED]: "" })).toBeUndefined()
+  expect(rootStated({})).toBeUndefined()
 })

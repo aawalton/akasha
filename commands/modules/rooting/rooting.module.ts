@@ -42,5 +42,9 @@ export const rooting = {
       invariantKind: "departure",
       statement: "The name the environment states a root under is said here alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A caller carrying its own fallback is answered the stated root or nothing.",
+    },
   ],
 } as const satisfies Module
