@@ -72,4 +72,5 @@ export const alanElaine = {
       statement: "Nothing here reads the iPhone.",
     },
   ],
+  name: "elaine",
 } as const satisfies Command

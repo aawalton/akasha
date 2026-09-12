@@ -104,4 +104,5 @@ export const changeRepeat = {
       statement: "No ceiling is held on how many batches one run takes.",
     },
   ],
+  name: "repeat",
 } as const satisfies Command

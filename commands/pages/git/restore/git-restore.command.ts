@@ -121,4 +121,5 @@ export const gitRestore = {
       statement: "`--file-path` is named again for each path put back.",
     },
   ],
+  name: "restore",
 } as const satisfies Command

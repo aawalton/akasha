@@ -38,4 +38,5 @@ export const claudeAccountReEnable = {
       statement: "Nothing here reads a token or asks a model.",
     },
   ],
+  name: "re-enable",
 } as const satisfies Command

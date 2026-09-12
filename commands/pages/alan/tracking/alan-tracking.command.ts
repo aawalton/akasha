@@ -64,4 +64,5 @@ export const alanTracking = {
       statement: "Nothing here reaches a path an agent chose.",
     },
   ],
+  name: "tracking",
 } as const satisfies Command

@@ -138,4 +138,5 @@ export const audit = {
     },
     { invariantKind: "departure", statement: "`--check` is named again for each check asked for." },
   ],
+  name: "audit",
 } as const satisfies Command

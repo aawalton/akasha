@@ -95,4 +95,5 @@ export const alanFood = {
       statement: "Nothing here reads a photo from anywhere but this machine.",
     },
   ],
+  name: "food",
 } as const satisfies Command

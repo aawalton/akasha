@@ -39,4 +39,5 @@ export const imessageContactList = {
       statement: "Nothing here reads a message.",
     },
   ],
+  name: "contact-list",
 } as const satisfies Command

@@ -60,4 +60,5 @@ export const claudeAccountAdd = {
         "The folder a page is filed into is read off the account pages rather than spelled here.",
     },
   ],
+  name: "add",
 } as const satisfies Command

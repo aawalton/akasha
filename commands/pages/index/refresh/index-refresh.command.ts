@@ -72,4 +72,5 @@ export const indexRefresh = {
       statement: "A refresh that stopped part way says the index may hold part of what it wrote.",
     },
   ],
+  name: "refresh",
 } as const satisfies Command

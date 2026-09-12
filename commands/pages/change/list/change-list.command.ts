@@ -59,4 +59,5 @@ export const changeList = {
       statement: "The help flag reaches this command's own help notes.",
     },
   ],
+  name: "list",
 } as const satisfies Command

@@ -125,4 +125,5 @@ export const changeShow = {
       statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
     },
   ],
+  name: "show",
 } as const satisfies Command

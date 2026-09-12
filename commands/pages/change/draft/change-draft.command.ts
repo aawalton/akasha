@@ -112,4 +112,5 @@ export const changeDraft = {
       statement: "A change past the processor seconds its page allows keeps nothing.",
     },
   ],
+  name: "draft",
 } as const satisfies Command

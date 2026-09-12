@@ -35,4 +35,5 @@ export const gitPush = {
       statement: "A push takes no argument naming the branch carried.",
     },
   ],
+  name: "push",
 } as const satisfies Command

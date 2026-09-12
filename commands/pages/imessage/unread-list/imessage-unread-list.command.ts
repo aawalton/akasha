@@ -46,4 +46,5 @@ export const imessageUnreadList = {
       statement: "Nothing here marks a message read.",
     },
   ],
+  name: "unread-list",
 } as const satisfies Command

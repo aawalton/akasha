@@ -42,4 +42,5 @@ export const domainDag = {
       statement: "A run writes nothing.",
     },
   ],
+  name: "dag",
 } as const satisfies Command

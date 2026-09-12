@@ -43,4 +43,5 @@ export const imessageRecentList = {
       statement: "Nothing here searches the text of a message.",
     },
   ],
+  name: "recent-list",
 } as const satisfies Command

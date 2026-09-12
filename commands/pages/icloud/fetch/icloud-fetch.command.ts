@@ -75,4 +75,5 @@ export const icloudFetch = {
       statement: "Nothing here writes to the album.",
     },
   ],
+  name: "fetch",
 } as const satisfies Command

@@ -75,4 +75,5 @@ export const changeDrop = {
       statement: "No taking is stated here.",
     },
   ],
+  name: "drop",
 } as const satisfies Command

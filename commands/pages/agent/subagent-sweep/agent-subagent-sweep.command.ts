@@ -151,4 +151,5 @@ export const agentSubagentSweep = {
       statement: "Why a page is left that way is read from the module the take-down reads it from.",
     },
   ],
+  name: "subagent-sweep",
 } as const satisfies Command

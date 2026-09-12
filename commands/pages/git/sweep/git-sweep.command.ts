@@ -43,4 +43,5 @@ export const gitSweep = {
       statement: "No name akasha keeps is taken.",
     },
   ],
+  name: "sweep",
 } as const satisfies Command

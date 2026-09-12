@@ -146,4 +146,5 @@ export const changeApply = {
       statement: "A change past the processor seconds its page allows lands nothing.",
     },
   ],
+  name: "apply",
 } as const satisfies Command

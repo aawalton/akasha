@@ -163,4 +163,5 @@ export const agentForest = {
       statement: "A run writes nothing.",
     },
   ],
+  name: "forest",
 } as const satisfies Command
