@@ -7,7 +7,7 @@ import {
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
@@ -15,8 +15,6 @@ import {
   saidFor,
   saidShort,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-
-const SELF = "akasha temper eso generate chatter-name"
 
 const CODE_ROOT_FLAG = "--code-root"
 
@@ -28,7 +26,10 @@ const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
-export async function temperEsoGenerateChatterNames(argv: readonly string[] = []): Promise<Answer> {
+export async function temperEsoGenerateChatterNames(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
@@ -54,7 +55,7 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
     )
   }
 
-  const registry = chatterNamesModule(source, SELF)
+  const registry = chatterNamesModule(source, given.calledAs)
   if (registry.chatter.length === 0 || registry.interaction.length === 0) {
     return refused(
       `${sourcePath} declares ${String(registry.chatter.length)} CHATTER_ and ` +
