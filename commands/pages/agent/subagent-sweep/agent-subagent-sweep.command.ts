@@ -9,7 +9,7 @@ export const agentSubagentSweep = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  taking: [{ said: "--remove", takes: "take away the pages this run judged stale" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -192,4 +192,5 @@ export const agentSubagentSweep = {
     },
   ],
   name: "subagent-sweep",
+  arguments: [{ argument: "argument/remove" }],
 } as const satisfies Command
