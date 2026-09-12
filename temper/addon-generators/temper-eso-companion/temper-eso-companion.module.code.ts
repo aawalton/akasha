@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { renderConstOrNull } from "akasha/temper/addon-generators/render-const-or-null/render-const-or-null.module.code.ts"
 import { z } from "zod"
 
@@ -121,7 +122,7 @@ ${fields.join(",\n")},
  * \`companionsFromPages.data["bastian"]\` is well-typed and feeds the
  * \`companions\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT -- regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"

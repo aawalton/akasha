@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const TRAIT_FAMILY_SCHEMA = z.union([z.literal("weapon"), z.literal("armor"), z.literal("jewelry")])
@@ -100,7 +101,7 @@ export function generateTemperEsoTraitMap(rows: readonly Page[]): string {
  * Reverse maps (ESO number → temper trait id) are reconstructed at
  * module load by the facade via the typed-ids \`invertViaIds\` helper.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { ArmorTraitId } from "../armor-traits-data"
