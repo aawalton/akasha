@@ -1,3 +1,4 @@
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   aiming,
@@ -15,15 +16,11 @@ export async function pageSecretList(argv: readonly string[], given: Given): Pro
     if ("code" in aimed) return aimed
     const target = aimed.target
     const keys = keysBeside(given.root, target.path)
-    return {
-      report: [
-        `held:   ${target.sidecar} holds ${keys.length === 0 ? NOTHING : namesDrawn(keys)}`,
-        `secret: the page type declares ${
-          target.declared.length === 0 ? "no key" : namesDrawn(target.declared)
-        }`,
-      ],
-      refusals: [],
-      code: 0,
-    }
+    return told([
+      `held:   ${target.sidecar} holds ${keys.length === 0 ? NOTHING : namesDrawn(keys)}`,
+      `secret: the page type declares ${
+        target.declared.length === 0 ? "no key" : namesDrawn(target.declared)
+      }`,
+    ])
   })
 }

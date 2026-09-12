@@ -1,3 +1,7 @@
+import {
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   aiming,
@@ -25,11 +29,7 @@ export async function pageSecretSet(argv: readonly string[], given: Given): Prom
     const taken = pipedIn()
     if ("tty" in taken) return mistaken([BARE])
     if ("unreadable" in taken) {
-      return {
-        report: [],
-        refusals: [`what is piped in would not open — ${taken.unreadable}`],
-        code: 3,
-      }
+      return refusedBy([`what is piped in would not open — ${taken.unreadable}`], OPERATIONAL)
     }
     const value = valueSaid(taken.bytes, aimed.said.keepLastNewline)
     if (typeof value !== "string") return mistaken([value.refused])

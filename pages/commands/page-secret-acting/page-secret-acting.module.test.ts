@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -194,14 +198,14 @@ test("a sops file holding nothing is taken away through the change removing a fi
     changes: [{ at: TAKE, given: { at: SIDECAR } }],
     message: CLEAR,
   })
-  expect(said).toEqual({ report: [`took away ${SIDECAR}`], refusals: [], code: 0 })
+  expect(said).toEqual({ report: [`took away ${SIDECAR}`], refusals: [], code: OK })
 })
 
 test("what is composed is written through the change adding a file of any kind", async () => {
   const fake = reaching()
   const values = new Map([["access-token", "one"]])
   const said = await landedWith(givenIn(rooted()), SAID, TARGET, "set", values, fake.landing)
-  expect(said).toEqual({ report: [`wrote ${SIDECAR}`], refusals: [], code: 0 })
+  expect(said).toEqual({ report: [`wrote ${SIDECAR}`], refusals: [], code: OK })
   const one = fake.handed()
   if (one === null) throw new Error("nothing reached the landing")
   expect(one.message).toBe(SET)
@@ -217,20 +221,24 @@ test("a value that will not compose is refused and reaches no landing", async ()
   const values = new Map([["access-token", ""]])
   const said = await landedWith(givenIn(NOWHERE), SAID, TARGET, "set", values, fake.landing)
   expect(fake.handed()).toBeNull()
-  expect(said.code).toBe(2)
+  expect(said.code).toBe(DATA)
   expect(said.refusals).toContain("nothing was written")
 })
 
 test("a landing that refuses is answered by what that landing refused", async () => {
-  const fake = reaching({ refusals: ["another landing held the lock"], code: EXIT.OPERATIONAL })
+  const fake = reaching({ refusals: ["another landing held the lock"], code: OPERATIONAL })
   const said = await landedWith(givenIn(NOWHERE), SAID, TARGET, "clear", new Map(), fake.landing)
-  expect(said).toEqual({ report: [], refusals: ["another landing held the lock"], code: 3 })
+  expect(said).toEqual({
+    report: [],
+    refusals: ["another landing held the lock"],
+    code: OPERATIONAL,
+  })
 })
 
 test("a landing answering something wrong is answered by what went wrong", async () => {
   const fake = reaching({ ...LANDED, wrong: ["the check refused"] })
   const said = await landedWith(givenIn(NOWHERE), SAID, TARGET, "clear", new Map(), fake.landing)
-  expect(said).toEqual({ report: [], refusals: ["the check refused"], code: 3 })
+  expect(said).toEqual({ report: [], refusals: ["the check refused"], code: OPERATIONAL })
 })
 
 test("a message the caller spells reaches the landing rather than the one composed", async () => {

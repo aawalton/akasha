@@ -1,3 +1,4 @@
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   aiming,
@@ -18,6 +19,6 @@ export async function pageSecretShow(argv: readonly string[], given: Given): Pro
     if (value === undefined) {
       return wrongData(`${aimed.target.sidecar} holds no \`${key}\``)
     }
-    return { report: [value], refusals: [], code: 0 }
+    return told([value])
   })
 }
