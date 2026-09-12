@@ -10,8 +10,11 @@ export const indexRefresh = {
   changeKind: "change-none",
   timeout: 600,
   taking: [{ said: "--dry-run", takes: "say what the repair would change and write nothing" }],
-  helpNotes: ["a refresh makes no commit, so it takes no message and runs no check."],
   invariants: [
+    {
+      invariantKind: "absence",
+      statement: "A refresh runs no check.",
+    },
     {
       invariantKind: "departure",
       statement: "The index is brought level with the repository as the repository is.",
