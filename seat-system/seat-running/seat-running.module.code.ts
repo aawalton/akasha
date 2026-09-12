@@ -8,6 +8,7 @@ import {
   type Declaration,
   recordedModeOf,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { defaultLines } from "akasha/agents/seats/modules/defaults/seat-defaults.module.code.ts"
 import {
   launchOf,
   launchStating,
@@ -32,7 +33,6 @@ import {
 } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { type Args, parseArgs } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { attributeFor } from "akasha/seat-system/seat-attribute/seat-attribute.module.code.ts"
-import { defaultLines } from "akasha/seat-system/seat-defaults/seat-defaults.module.code.ts"
 import { nameStanding } from "akasha/seat-system/seat-name-stands/seat-name-stands.module.code.ts"
 import {
   nameableFrom,
