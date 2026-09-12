@@ -1,5 +1,5 @@
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { appendOnlyIn } from "akasha/pages/indexes/file-appending/file-appending.module.code.ts"
+import { appendOnlyIn } from "akasha/pages/indexes/modules/file-appending/file-appending.module.code.ts"
 import type { Facing } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 
 export function dropped(facing: Facing, said: Answer): Answer {

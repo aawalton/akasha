@@ -1,10 +1,10 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
-import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 import {
   chatDisableNotificationAnimation,
   chatDisableNotificationSound,
   chatWhisperAndFlaggedAsOffline,
 } from "akasha/temper/interface-addon/modules/fco-chat/fco-chat.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/modules/fco-types/fco-types.module.code.ts"
 
 export function buildChatControls(
   this: void,

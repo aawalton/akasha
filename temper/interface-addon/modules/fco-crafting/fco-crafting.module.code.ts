@@ -1,8 +1,8 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 import {
   setArmorTypeSwitchButtonHiddenForCraftType,
   smithingModifications,
 } from "akasha/temper/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
 
 function onEventCraftingStationClose(this: void): undefined {
   const settings = STATE.settingsVars.settings

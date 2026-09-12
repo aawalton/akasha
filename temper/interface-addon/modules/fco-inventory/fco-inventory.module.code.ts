@@ -1,9 +1,9 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { verticalScrollbarHacks } from "akasha/temper/interface-addon/modules/fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
 import type {
   IconPosBox,
   RGBAColor,
-} from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
-import { verticalScrollbarHacks } from "akasha/temper/interface-addon/modules/fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"
+} from "akasha/temper/interface-addon/modules/fco-types/fco-types.module.code.ts"
 
 const playerInv = PLAYER_INVENTORY
 

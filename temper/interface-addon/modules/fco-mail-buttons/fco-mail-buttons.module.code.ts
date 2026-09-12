@@ -1,5 +1,3 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
-import { addButton } from "akasha/temper/interface-addon/fco-utils/fco-utils.module.code.ts"
 import {
   checkIfEditBoxContextMenusNeedAnUpdate,
   updateMailContextMenuButtonContextMenus,
@@ -19,6 +17,8 @@ import {
 } from "akasha/temper/interface-addon/modules/fco-mail-events/fco-mail-events.module.code.ts"
 import { getMailReceivedMassChangeContextMenu } from "akasha/temper/interface-addon/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"
 import { updateLowercaseTextTables } from "akasha/temper/interface-addon/modules/fco-mail-store/fco-mail-store.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
+import { addButton } from "akasha/temper/interface-addon/modules/fco-utils/fco-utils.module.code.ts"
 
 const addonVars = STATE.addonVars
 

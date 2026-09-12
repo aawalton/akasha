@@ -1,5 +1,6 @@
 "use client"
 
+import { Calendar } from "akasha/design/interfaces/forms/modules/calendar/calendar.module.code.tsx"
 import {
   Field,
   FieldDescription,
@@ -7,8 +8,7 @@ import {
   FieldLabel,
   FieldSeparator,
   FieldSet,
-} from "akasha/design/interfaces/forms/field/field.module.code.tsx"
-import { Calendar } from "akasha/design/interfaces/forms/modules/calendar/calendar.module.code.tsx"
+} from "akasha/design/interfaces/forms/modules/field/field.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"

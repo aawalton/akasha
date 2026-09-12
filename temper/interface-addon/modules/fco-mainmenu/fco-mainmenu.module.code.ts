@@ -1,5 +1,5 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
-import { addButton } from "akasha/temper/interface-addon/fco-utils/fco-utils.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
+import { addButton } from "akasha/temper/interface-addon/modules/fco-utils/fco-utils.module.code.ts"
 
 const SM = SCENE_MANAGER
 const WM = WINDOW_MANAGER

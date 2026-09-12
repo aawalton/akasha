@@ -1,10 +1,10 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
-import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 import { SAVED_VARIABLES_NAME } from "akasha/temper/interface-addon/modules/fco-constants/fco-constants.module.code.ts"
 import {
   buildDefaults,
   buildDefaultsSettings,
 } from "akasha/temper/interface-addon/modules/fco-settings-defaults/fco-settings-defaults.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/modules/fco-types/fco-types.module.code.ts"
 
 interface SvTable {
   [key: string]: SvTable | undefined

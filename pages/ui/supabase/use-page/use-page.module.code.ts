@@ -9,7 +9,7 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
-import { FILE_BACKING_POLL_MS } from "akasha/pages/ui-store/collection/fetch-attach/fetch-attach.module.code.ts"
+import { FILE_BACKING_POLL_MS } from "akasha/pages/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"

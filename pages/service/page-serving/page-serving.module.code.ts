@@ -1,7 +1,7 @@
 import {
   type Named as FileNamed,
   filing,
-} from "akasha/pages/service/file-answering/file-answering.module.code.ts"
+} from "akasha/pages/service/modules/file-answering/file-answering.module.code.ts"
 import {
   asking,
   type Query,

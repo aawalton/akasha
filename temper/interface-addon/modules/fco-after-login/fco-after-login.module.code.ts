@@ -1,5 +1,5 @@
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 import { asStringRecord } from "akasha/temper/interface-addon/modules/fco-casts/fco-casts.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
 
 const SM = SCENE_MANAGER
 const scenes = SM.scenes

@@ -1,4 +1,3 @@
-import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 import { soundLowerAtCraftingCheck } from "akasha/temper/interface-addon/modules/fco-crafting/fco-crafting.module.code.ts"
 import { smithingCreateAddArmorTypeSwitchButton } from "akasha/temper/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"
 import {
@@ -9,6 +8,7 @@ import {
   checkIfOtherStableButtonsAreMaxedOut,
   STABLE_SKILLS,
 } from "akasha/temper/interface-addon/modules/fco-stable/fco-stable.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/modules/fco-types/fco-types.module.code.ts"
 
 export function buildGroupControls(
   this: void,

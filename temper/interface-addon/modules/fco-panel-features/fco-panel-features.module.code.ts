@@ -1,8 +1,3 @@
-import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
-import {
-  promotionalEventTrackerUiChanges,
-  statsPanelUiChanges,
-} from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
 import {
   excludedMountIdsShifterBoxControl,
   updateExcludedMountIdsLibShifterBox,
@@ -20,6 +15,11 @@ import {
   updateDisableSoundsLibShifterBoxEntries,
   updateSoundsLibShifterBox,
 } from "akasha/temper/interface-addon/modules/fco-sounds/fco-sounds.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/modules/fco-types/fco-types.module.code.ts"
+import {
+  promotionalEventTrackerUiChanges,
+  statsPanelUiChanges,
+} from "akasha/temper/interface-addon/modules/fco-ui/fco-ui.module.code.ts"
 
 export function buildCollectiblesControls(
   this: void,

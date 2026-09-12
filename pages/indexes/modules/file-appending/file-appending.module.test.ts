@@ -3,7 +3,7 @@ import {
   appendingFor,
   appendOnlyIn,
   appendsOnly,
-} from "akasha/pages/indexes/file-appending/file-appending.module.code.ts"
+} from "akasha/pages/indexes/modules/file-appending/file-appending.module.code.ts"
 import type {
   Carried,
   Facing,

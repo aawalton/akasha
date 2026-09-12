@@ -1,8 +1,5 @@
 import "akasha/temper/interface-addon/modules/fco-global/fco-global.module.code.ts"
 
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
-import { tooltipChanges } from "akasha/temper/interface-addon/fco-tooltips/fco-tooltips.module.code.ts"
-import { uiChanges } from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
 import {
   afterLoginOrReloaduiFunctions,
   noEnlightenedSound,
@@ -58,6 +55,9 @@ import {
   hookStableScene,
   mountChanges,
 } from "akasha/temper/interface-addon/modules/fco-stable/fco-stable.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
+import { tooltipChanges } from "akasha/temper/interface-addon/modules/fco-tooltips/fco-tooltips.module.code.ts"
+import { uiChanges } from "akasha/temper/interface-addon/modules/fco-ui/fco-ui.module.code.ts"
 
 const EM = EVENT_MANAGER
 
