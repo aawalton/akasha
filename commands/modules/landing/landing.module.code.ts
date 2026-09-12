@@ -62,12 +62,12 @@ import {
   writesOutside,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
-import { holding } from "akasha/git/holding/holding.module.code.ts"
 import {
   bodyAt,
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
+import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

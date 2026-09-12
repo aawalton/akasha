@@ -7,8 +7,8 @@ import {
   startedAt,
 } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { DEPLOYS } from "akasha/files/modules/git-place/git-place.module.code.ts"
-import { taken } from "akasha/git/holding/holding.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
+import { taken } from "akasha/git/modules/holding/holding.module.code.ts"
 
 const A_LOCK = ".lock"
 

@@ -7,7 +7,7 @@ import {
   saidOfHeld,
   saidOfNoHold,
 } from "akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"
-import { taken } from "akasha/git/holding/holding.module.code.ts"
+import { taken } from "akasha/git/modules/holding/holding.module.code.ts"
 
 const ROOT = process.cwd()
 

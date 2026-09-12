@@ -4,12 +4,12 @@ import {
   STOP_REASON_LAST_CACHED_EVENT_REACHED,
   STOP_REASON_MANAGED_RANGE_LOST,
   STOP_REASON_MANUAL_STOP,
-} from "akasha/temper/lib-histoire/histoire-constants/histoire-constants.module.code.ts"
+} from "akasha/temper/lib-histoire/modules/histoire-constants/histoire-constants.module.code.ts"
 import {
   internal,
   lib,
-} from "akasha/temper/lib-histoire/histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireGlobal } from "akasha/temper/lib-histoire/histoire-types/histoire-types.module.code.ts"
+} from "akasha/temper/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
+import type { LibHistoireGlobal } from "akasha/temper/lib-histoire/modules/histoire-types/histoire-types.module.code.ts"
 
 const logger = internal.logger
 

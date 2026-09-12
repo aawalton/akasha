@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
-import { heldSaid, WAITED_AT_MOST } from "akasha/git/holding/holding.module.code.ts"
+import { heldSaid, WAITED_AT_MOST } from "akasha/git/modules/holding/holding.module.code.ts"
 import {
   landingAgain,
   reasonThrown,

@@ -13,7 +13,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { indexRefresh as page } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
-import { holding } from "akasha/git/holding/holding.module.code.ts"
+import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { type Drift, filedUnder } from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
