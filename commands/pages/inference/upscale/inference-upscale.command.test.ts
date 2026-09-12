@@ -40,7 +40,19 @@ test("a resolution that is no whole number is refused", async () => {
 test("a second image word is refused", async () => {
   const said = await inferenceUpscale(["a.png", "b.png", "--resolution", "100"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("b.png")
+  expect(said.refusals[0]).toContain("1 word")
+})
+
+test("the GPU holds the default its page states", async () => {
+  const said = await inferenceUpscale(["--image", "a.png", "--resolution", "0"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals.join(" ")).not.toContain("--host")
+})
+
+test("a flag carrying its value at an equals sign is taken rather than refused", async () => {
+  const said = await inferenceUpscale(["--image=a.png", "--resolution=0"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("above zero")
 })
 
 test("a flag this does not take is refused", async () => {

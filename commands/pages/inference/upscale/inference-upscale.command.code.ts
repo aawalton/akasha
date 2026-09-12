@@ -2,23 +2,28 @@ import { readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { host as hostArgument } from "akasha/commands/arguments/pages/host.argument.ts"
+import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
+import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
+import { output } from "akasha/commands/arguments/pages/output.argument.ts"
+import { resolution as resolutionArgument } from "akasha/commands/arguments/pages/resolution.argument.ts"
+import { seed as seedArgument } from "akasha/commands/arguments/pages/seed.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { inferenceUpscale as page } from "akasha/commands/pages/inference/upscale/inference-upscale.command.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
-  aloneIn,
-  countAt,
-  heldOr,
   madeOf,
-  oneOf,
-  wasRefused,
-  wordsIn,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
@@ -28,27 +33,9 @@ import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/i
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
-const IMAGE = "--image"
+const PAGES = [hostArgument, imageArgument, noPersist, output, resolutionArgument, seedArgument]
 
-const HOST = "--host"
-
-const OUTPUT = "--output"
-
-const RESOLUTION = "--resolution"
-
-const SEED = "--seed"
-
-const NO_PERSIST = "--no-persist"
-
-const TAKING = [
-  { said: IMAGE },
-  { said: HOST },
-  { said: OUTPUT },
-  { said: RESOLUTION },
-  { said: SEED },
-]
-
-const SWITCHES = [NO_PERSIST]
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 const CLUSTER = "cluster"
 
@@ -76,36 +63,43 @@ export function upscaleHomeOf(said: string | undefined): string {
   return raw
 }
 
+export function wrongIn(taken: Taken): readonly string[] {
+  const wrong: string[] = []
+  if (taken.resolution <= 0) {
+    const said = resolutionArgument.said
+    wrong.push(`\`${said}\` takes a whole number above zero, and ${taken.resolution} is not one`)
+  }
+  if (!HOSTS.includes(taken.host)) {
+    const said = hostArgument.said
+    wrong.push(
+      `\`${said}\` takes one of ${HOSTS.join(", ")}, and \`${taken.host}\` is none of them`
+    )
+  }
+  return wrong
+}
+
 export async function inferenceUpscale(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, SWITCHES)
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const wrong = wrongIn(read.taken)
+  if (wrong.length > 0) return refusedBy(wrong)
 
-  const refusals: string[] = []
-  const loose = heldOr(aloneIn(said, "the image"), refusals) ?? undefined
-  const resolution = heldOr(countAt(said, RESOLUTION, undefined), refusals) ?? undefined
-  const seed = heldOr(countAt(said, SEED, DEFAULT_SEED), refusals) ?? DEFAULT_SEED
-  const where = heldOr(oneOf(said, HOST, HOSTS, CLUSTER), refusals) ?? CLUSTER
-
-  const imagePath = said.named[IMAGE] ?? loose
-  if (imagePath === undefined) refusals.push("this names the image remade, and nothing did")
-  if (resolution === undefined) refusals.push(`this names \`${RESOLUTION}\`, and nothing did`)
-  else if (resolution <= 0) {
-    refusals.push(`\`${RESOLUTION}\` takes a whole number above zero, and ${resolution} is not one`)
-  }
-  if (refusals.length > 0 || imagePath === undefined || resolution === undefined) {
-    return refusedBy(refusals)
-  }
+  const taken = read.taken
+  const imagePath = taken.image
+  const resolution = taken.resolution
+  const seed = taken.seed ?? DEFAULT_SEED
+  const where = taken.host
 
   return await answering(async () => {
     let inputBytes: Uint8Array
     try {
       inputBytes = await readFile(imagePath)
     } catch {
-      return refusedBy([`\`${IMAGE}\` names \`${imagePath}\`, which will not read`])
+      return refusedBy([`\`${imageArgument.said}\` names \`${imagePath}\`, which will not read`])
     }
 
     const nowMs = Date.now()
-    const outputPath = resolveOutputPath("upscale", said.named[OUTPUT], nowMs)
+    const outputPath = resolveOutputPath("upscale", taken.output, nowMs)
     const stamp = `${process.pid}-${nowMs}`
     const inName = `upscale-in-${stamp}.png`
     const outName = `upscale-out-${stamp}.png`
@@ -150,7 +144,7 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
         report.push(wroteTo(outputPath, outputBytes, "image"))
         return { outputPath, outputBytes }
       },
-      { persist: !said.flags.has(NO_PERSIST) }
+      { persist: !taken.noPersist }
     )
     return told(report)
   })
