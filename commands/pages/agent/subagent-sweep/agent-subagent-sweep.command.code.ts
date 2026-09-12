@@ -12,6 +12,7 @@ import {
   answering,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { dropReadings } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
@@ -159,6 +160,9 @@ const NOTHING_STALE = "no page was judged STALE, so nothing went"
 
 const ALL_KEPT = "every page judged STALE was left where it is, so nothing went"
 
+const MOVE_STOPPED =
+  "the sweep stopped while moving what the stale pages had beside them, and no page went —"
+
 interface Parted {
   readonly going: readonly Judged[]
   readonly left: readonly string[]
@@ -196,25 +200,32 @@ export function messageOf(stale: readonly Judged[]): string {
   ].join("\n")
 }
 
-function moving(root: string, stale: readonly Judged[]): readonly string[] {
+type Moving = { readonly moved: readonly string[]; readonly why: string | null }
+
+function moving(root: string, stale: readonly Judged[]): Moving {
   const said: string[] = []
   for (const one of stale) {
-    const seat = seatPageIn(root, one.page.seatName)
-    if (seat === null) continue
-    said.push(...saidOf(one.page.slug, movedOnto(root, seat, one.page.path)))
+    try {
+      const seat = seatPageIn(root, one.page.seatName)
+      if (seat === null) continue
+      said.push(...saidOf(one.page.slug, movedOnto(root, seat, one.page.path)))
+    } catch (thrown) {
+      return { moved: said, why: `${MOVE_STOPPED} ${whyOf(thrown)}` }
+    }
   }
-  return said
+  return { moved: said, why: null }
 }
 
 async function taking(root: string, stale: readonly Judged[], landing: Landing): Promise<Answer> {
-  const moved = moving(root, stale)
+  const { moved, why } = moving(root, stale)
+  if (why !== null) return answering(moved, [why], WRONG)
   const changes: readonly Asking[] = stale.map((one) => ({
     at: TAKE,
     given: { at: one.page.path },
   }))
   const landed = await landing(root, changes, messageOf(stale))
-  if ("refusals" in landed) return answering([], landed.refusals, WRONG)
-  if (landed.wrong.length > 0) return answering([], landed.wrong, WRONG)
+  if ("refusals" in landed) return answering(moved, landed.refusals, WRONG)
+  if (landed.wrong.length > 0) return answering(moved, landed.wrong, WRONG)
   dropReadings(
     root,
     stale.map((one) => one.page.path)
@@ -252,6 +263,8 @@ export async function agentSubagentSweep(
     return answering([...census, ...kept, "", why], [], 0)
   }
   const gone = await taking(root, going, landing)
-  if (gone.code !== 0) return answering([...census, ...kept, ""], [...gone.refusals], gone.code)
+  if (gone.code !== 0) {
+    return answering([...census, ...kept, "", ...gone.report], [...gone.refusals], gone.code)
+  }
   return answering([...census, ...kept, "", ...gone.report], [], 0)
 }

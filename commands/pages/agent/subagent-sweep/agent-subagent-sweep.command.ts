@@ -135,6 +135,14 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
+      statement: "A run that refused names what it had already moved onto a seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move that threw part way refuses the run and names what moved before it threw.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stale page goes whether or not a subagent left edits waiting beside it.",
     },
     {

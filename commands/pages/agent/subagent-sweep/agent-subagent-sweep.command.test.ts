@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
+
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   agentSubagentSweep,
@@ -8,13 +8,17 @@ import {
   TAKE,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import {
+  ACTING,
+  ACTS,
   AGAIN,
+  ALIVE,
   agentIdOf,
-  CHILD,
   editsBeside,
+  GONE,
   givenIn,
   halfReading,
   keptBySeat,
+  LOCK_HELD,
   landings,
   logPut,
   NOTHING_KEPT,
@@ -27,12 +31,12 @@ import {
   ROW,
   reading,
   refusalBeside,
+  refusedRemoving,
   removing,
   SEAT_ID,
   saying,
   seated,
   seatFiled,
-  TASK,
   THROWS,
   takeLine,
   there,
@@ -40,8 +44,6 @@ import {
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
 import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
-
-const ACTING = agentIdOf(SEAT_ID, OWN)
 
 const world = scratchWorld()
 
@@ -53,12 +55,6 @@ function worldWith(): { root: string; base: string; at: string } {
     at: paged(root, "akasha", OWN, ACTING),
   }
 }
-
-const GONE = [entry({ agentId: OTHER_ID, cmdline: CHILD, pid: 8 })]
-
-const ALIVE = [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 8 })]
-
-const ACTS = [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 })]
 
 const NOWHERE = "/var/tmp/subagent-sweep-no-transcript.jsonl"
 
@@ -160,10 +156,9 @@ test("only the stale are named to the landing in one run", async () => {
 
 test("a landing that refused leaves the census reported and the page where it is", async () => {
   const { root, base, at } = worldWith()
-  const held = landings({ refusals: ["another landing held the lock"] })
-  const said = await removing(root, base, GONE, saying([]), held.landing)
+  const said = await refusedRemoving(root, base, GONE, saying([]))
   expect(said.code).toBe(3)
-  expect(said.refusals).toEqual(["another landing held the lock"])
+  expect(said.refusals).toEqual([LOCK_HELD])
   expect(said.report.join("\n")).toContain("STALE")
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -355,6 +350,17 @@ test("a stale page whose subagent left edits waiting moves them onto its seat an
     refusals: refusalsSaid(`akasha-${OWN}`, REFUSAL),
   })
   expect(said.report.join("\n")).toContain("left 1 edit(s) unlanded")
+  world.sweep()
+})
+
+test("a run the landing refused names what it had already moved onto a seat", async () => {
+  const { root, base, at } = worldWith()
+  const seat = seatFiled(root, "akasha", SEAT_ID)
+  editsBeside(root, at)
+  const said = await refusedRemoving(root, base, ALIVE, saying([], [OWN]))
+  expect(said.code).toBe(3)
+  expect(said.report.join("\n")).toContain("left 1 edit(s) unlanded")
+  expect(keptBySeat(root, seat).edits).toBe(ROW)
   world.sweep()
 })
 

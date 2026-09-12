@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
+import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
@@ -66,6 +67,20 @@ const LANDED: Applied = {
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
 }
+
+export const ACTING = agentIdOf(SEAT_ID, OWN)
+
+export const GONE: readonly ProcLivenessEntry[] = [
+  entry({ agentId: OTHER_ID, cmdline: CHILD, pid: 8 }),
+]
+
+export const ALIVE: readonly ProcLivenessEntry[] = [
+  entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 8 }),
+]
+
+export const ACTS: readonly ProcLivenessEntry[] = [
+  entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 }),
+]
 
 export function pathOf(seatName: string, own: string): string {
   return `${AT}/${seatName}-${own}.subagent.ts`
@@ -186,6 +201,17 @@ export function removing(
   landing: Landing
 ): Promise<Answer> {
   return agentSubagentSweep(["--remove"], givenIn(root), seen, base, said, landing)
+}
+
+export const LOCK_HELD = "another landing held the lock"
+
+export function refusedRemoving(
+  root: string,
+  base: string,
+  seen: readonly ProcLivenessEntry[],
+  said: RunningSaid
+): Promise<Answer> {
+  return removing(root, base, seen, said, landings({ refusals: [LOCK_HELD] }).landing)
 }
 
 export function there(root: string, at: string): boolean {
