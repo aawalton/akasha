@@ -9,7 +9,6 @@ export const temperInventoryRuleShow = {
   taking: [
     { said: "<id>", takes: "the id of the category rule given back" },
     { said: "--json", takes: "give the rule as JSON" },
-    { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
   ],
   invariants: [
     {
@@ -35,4 +34,5 @@ export const temperInventoryRuleShow = {
     },
   ],
   name: "show",
+  arguments: [{ argument: "argument/tsv" }],
 } as const satisfies Command
