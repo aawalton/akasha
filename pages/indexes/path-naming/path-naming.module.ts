@@ -48,6 +48,14 @@ export const pathNaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A body git does not keep is left out of that search.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body git does not keep is rewritten between one reading of it and the next.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body is searched whatever language that body is written in.",
     },
     {

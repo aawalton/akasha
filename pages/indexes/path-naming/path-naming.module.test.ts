@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   importingOf,
   namingOf,
+  spellersIn,
   spellingOf,
 } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import { heldIndexedAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -52,4 +53,11 @@ test("a path the caller already knows about is left out of the search", () => {
 
 test("a path that moves is never answered as a body naming what moved", () => {
   expect(spellingOf(heldIndexed(), AT, MOVING, new Set())).not.toContain(HELD)
+})
+
+test("a body git does not keep is left out of the search, and a tracked one is not", () => {
+  const tracked = "akasha/one/holder/holder.module.code.ts"
+  const withheld = "akasha/one/holder/holder.module.state.uncommitted.json"
+  const said = spellersIn([tracked, withheld], () => HELD, MOVING, new Set())
+  expect(said).toEqual([tracked])
 })
