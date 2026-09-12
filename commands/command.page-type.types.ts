@@ -6,7 +6,7 @@ import type { Taking } from "akasha/commands/properties/taking.record-property.t
 import type { Timeout } from "akasha/commands/properties/timeout.number-property.types.ts"
 
 export type Command = Module & {
-  changeKind: ChangeKind
+  changeKind?: ChangeKind
   taking?: Taking
   helpNotes?: HelpNotes
   timeout?: Timeout

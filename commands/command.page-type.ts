@@ -130,7 +130,7 @@ export const command = {
   extends: ["page-type/module"],
   loadedBy: "module/calling",
   properties: [
-    { pageProperty: "relation-property/change-kind", required: true, many: false },
+    { pageProperty: "relation-property/change-kind", required: false, many: false },
     { pageProperty: "record-property/taking", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/help-notes", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/timeout", required: false, many: false },
