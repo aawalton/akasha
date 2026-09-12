@@ -25,7 +25,7 @@ export const alanTracking = {
     {
       invariantKind: "departure",
       statement:
-        "The change a call asks for is read by `file-arguing` and landed by `tracking-landing`.",
+        "The change a call asks for is read by `file-arguing` and landed by `track-landing`.",
     },
     {
       invariantKind: "departure",
@@ -36,15 +36,15 @@ export const alanTracking = {
       statement: "The function this command calls knows no command line.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "The kind named here runs no warrant.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "No reading is owed for a path landed here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "Every check that judges a write judges the change landed here.",
     },
     {
@@ -56,7 +56,7 @@ export const alanTracking = {
       statement: "Nothing here breaks the glass.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "gap",
       statement: "Nothing here reaches a path an agent chose.",
     },
     {

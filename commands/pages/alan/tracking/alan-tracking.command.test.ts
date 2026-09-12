@@ -98,6 +98,13 @@ test("the flags a stray flag is answered with name no flag this refuses", async 
   ])
 })
 
+test("the restated flag is admitted, which is what holds two of this page's gaps open", async () => {
+  const said = await alanTracking(["--restated"], givenIn())
+  expect(said.refusals).toEqual([
+    "this call names no --file-path to write and no --remove to take away, so it asks for nothing",
+  ])
+})
+
 test("a stray path is refused before anything is composed", async () => {
   const said = await alanTracking(["--file-path", STRAY_PAGE], givenIn())
   expect(said.refusals).toEqual([outsideTracked(STRAY_PAGE)])
