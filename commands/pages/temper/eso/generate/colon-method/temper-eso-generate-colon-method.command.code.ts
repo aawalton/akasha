@@ -7,7 +7,7 @@ import {
   stageSeries,
 } from "akasha/code/name-series/name-series.module.code.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
@@ -24,8 +24,6 @@ import {
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 
-const SELF = "akasha temper eso generate colon-method"
-
 const ESO_ROOT_FLAG = "--eso-root"
 
 const CODE_ROOT_FLAG = "--code-root"
@@ -40,7 +38,7 @@ const BINDING = "ESO_COLON_METHOD_NAMES"
 
 const STAGE_PREFIX = "eso-colon-methods-stage-"
 
-export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Answer {
+export function temperEsoGenerateColonMethods(argv: readonly string[], given: Given): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
@@ -105,7 +103,7 @@ export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Ans
       "one run of the colon-method names the base game defines, in the whole census's order",
     aggregateDefinition:
       "every colon-method name the base game defines, gathered from the runs holding them",
-    provenance: [...esoCloneHeaderLines(SELF, apiVersion)],
+    provenance: [...esoCloneHeaderLines(given.calledAs, apiVersion)],
   }
 
   const pages = renderSeries(checkout, spec)
