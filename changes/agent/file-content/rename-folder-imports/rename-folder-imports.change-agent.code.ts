@@ -65,6 +65,8 @@ export function renameFolderImports(world: World, given: RenameFolderImportsAske
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [AT]
+
 export function runChange(world: World, given: Asked): Said {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))

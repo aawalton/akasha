@@ -113,6 +113,8 @@ export async function addPropertyValues(world: World, lines: readonly Line[]): P
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [ADDED]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const body = given[ADDED]
   if (body === undefined) return refusing(missing(ADDED))
