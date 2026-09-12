@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const argumentTaking = {
-  id: "01a09419-fb82-7d05-a756-3f0e001dff28",
+export const argumentWordReading = {
+  id: "01a09600-4b21-7a3e-9f08-2c7d41e6b905",
   type: "module",
-  slug: "argument-taking",
-  definition: "a command page's arguments read from a call through the words it says",
+  slug: "argument-word-reading",
+  definition: "a call's words read against the narrowings handed in",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -38,6 +38,11 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A whole number is read as the call wrote it, so one padded with spaces is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A repeating argument gathers its values in the order the values are said.",
     },
     {
@@ -48,7 +53,6 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement: "An argument that does not repeat is refused where one call says it twice.",
     },
-
     {
       invariantKind: "departure",
       statement:
@@ -61,7 +65,11 @@ export const argumentTaking = {
     {
       invariantKind: "departure",
       statement:
-        "A whole number is read as the call wrote it, so one padded with spaces is refused.",
+        "An argument handed an empty value is refused however it was spelled, and counts as unsaid.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the empty value the way the call wrote it.",
     },
     {
       invariantKind: "departure",
@@ -136,41 +144,12 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A group is counted by the spellings its refusal names rather than by its members.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value that will not narrow still answers for the group it is in.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A command page's entries are read against the argument pages that command's code names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The record answered holds the arguments the command page names and no other key.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An argument a command page needs is always answered.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An argument page carrying a default is always answered, as a needed one is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A default is read as a said value is read, so a whole number answers a number.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call saying an argument takes that value over the default.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An argument carrying a value a command page does not need is left out where nothing said it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A command page naming no argument is answered with nothing taken.",
     },
     {
       invariantKind: "departure",
@@ -189,15 +168,6 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement:
         "How many times a call may say an argument is handed in rather than read off the argument.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An argument page the code does not hand in is answered with no key rather than a refusal.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The type a take answers is the one warning that an argument page was left out.",
     },
     {
       invariantKind: "departure",
@@ -224,15 +194,6 @@ export const argumentTaking = {
         "A pair one call may not say together is answered as two arguments a call may leave out.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A command needing one of several arguments and none alone is refused here rather than typed.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Typing it needs the page to say whether one of a group is said or only one.",
-    },
-    {
       invariantKind: "departure",
       statement:
         "A set read at run time is weighed by adding to this refusal rather than by reading the call.",
@@ -240,15 +201,6 @@ export const argumentTaking = {
     {
       invariantKind: "departure",
       statement: "An argument said `--flag=value` carries what follows the first equals.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An argument handed an empty value is refused however it was spelled, and counts as unsaid.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal names the empty value the way the call wrote it.",
     },
     {
       invariantKind: "departure",

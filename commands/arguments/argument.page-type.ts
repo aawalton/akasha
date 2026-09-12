@@ -17,6 +17,7 @@ export const argument = {
     "module/argument-taking",
     "module/argument-naming",
     "module/argument-routing",
+    "module/argument-word-reading",
   ],
   properties: [
     { pageProperty: "text-property/said", required: true, many: false },

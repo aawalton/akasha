@@ -1,5 +1,4 @@
 import {
-  type Read,
   type TakenFor,
   takenFor,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
@@ -16,6 +15,7 @@ import { size } from "akasha/commands/arguments/pages/size.argument.ts"
 import { startImage } from "akasha/commands/arguments/pages/start-image.argument.ts"
 import { steps } from "akasha/commands/arguments/pages/steps.argument.ts"
 import { timeout } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import type { Read } from "akasha/commands/arguments/word-reading/argument-word-reading.module.code.ts"
 import {
   OPERATIONAL,
   refusedBy,
