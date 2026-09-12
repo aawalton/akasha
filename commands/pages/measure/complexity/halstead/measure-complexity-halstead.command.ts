@@ -7,7 +7,6 @@ export const measureComplexityHalstead = {
   definition:
     "the command saying each function's token counts, and the volume, difficulty, effort, time and bugs",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "the one file to read, said from the repository root" },
     { said: "--threshold <n>", takes: "the volume a row must reach to be in the answer" },

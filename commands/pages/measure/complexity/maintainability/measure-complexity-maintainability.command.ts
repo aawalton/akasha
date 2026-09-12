@@ -7,7 +7,6 @@ export const measureComplexityMaintainability = {
   definition:
     "the command saying the maintainability index of each file of a checkout's TypeScript",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "the one file to read, said from the repository root" },
     { said: "--threshold <n>", takes: "the index a row must be at or under to be in the answer" },

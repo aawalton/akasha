@@ -7,7 +7,6 @@ export const mobileSimPushTap = {
   definition:
     "the command sending a push to the simulator, tapping its banner and reading what the tap did",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<path>", takes: "the route the push carries, representing `--route`" },
     { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },

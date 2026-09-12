@@ -6,7 +6,6 @@ export const measureClaudeAccountCost = {
   slug: "measure-claude-account-cost",
   definition: "the command pricing the calls the transcripts on this machine have",
   code: "ts",
-  changeKind: "change-mechanical",
   parts: ["module/claude-account-costing"],
   taking: [],
   invariants: [

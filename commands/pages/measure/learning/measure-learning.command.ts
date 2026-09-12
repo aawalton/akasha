@@ -7,7 +7,6 @@ export const measureLearning = {
   definition:
     "the command saying how far through the Book of Everything Alan has got, part by part",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--json",

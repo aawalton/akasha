@@ -6,7 +6,6 @@ export const mobileSimBoot = {
   slug: "mobile-sim-boot",
   definition: "the command booting a simulator and starting the Appium server it is driven through",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--udid <udid>",

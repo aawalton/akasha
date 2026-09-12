@@ -6,7 +6,6 @@ export const measureRepo = {
   slug: "measure-repo",
   definition: "the command counting the files the checkout has, by file type",
   code: "ts",
-  changeKind: "change-mechanical",
   parts: ["module/repo-measuring", "module/checkout-counting"],
   taking: [],
   invariants: [

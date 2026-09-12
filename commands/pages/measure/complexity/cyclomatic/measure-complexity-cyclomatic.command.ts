@@ -7,7 +7,6 @@ export const measureComplexityCyclomatic = {
   definition:
     "the command saying the McCabe complexity of each function of a checkout's TypeScript",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "the one file to read, said from the repository root" },
     { said: "--threshold <n>", takes: "the figure a row must reach to be in the answer" },

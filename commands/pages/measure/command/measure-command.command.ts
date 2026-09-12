@@ -6,7 +6,6 @@ export const measureCommand = {
   slug: "measure-command",
   definition: "the command saying what a command's own run cost in processor time and memory",
   code: "ts",
-  changeKind: "change-mechanical",
   parts: ["module/command-measuring"],
   taking: [
     { said: "--last <count>", takes: "how many of the most recent runs the numbers cover" },
