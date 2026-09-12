@@ -36,7 +36,13 @@ test("the value of one flag is not read as another flag", () => {
 })
 
 test("a flag this does not take is refused rather than ignored", () => {
-  expect(unknownIn(["--mechanical"], VALUED, [])).toEqual(["`--mechanical` is no flag this takes"])
+  expect(unknownIn(["--mechanical"], VALUED, [])).toEqual(["`--mechanical` is no flag this takes."])
+})
+
+test("a flag near one handed in is refused with that flag pointed at", () => {
+  expect(unknownIn(["--file-paths"], VALUED, [])).toEqual([
+    "`--file-paths` is no flag this takes. Did you mean `--file-path`?",
+  ])
 })
 
 test("a flag the caller says carries no value is taken", () => {

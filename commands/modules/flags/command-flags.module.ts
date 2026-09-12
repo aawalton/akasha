@@ -39,6 +39,10 @@ export const commandFlags = {
     },
     {
       invariantKind: "departure",
+      statement: "A flag near a spelling handed in is refused with that spelling pointed at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A message is read from the command line or from a file.",
     },
     {

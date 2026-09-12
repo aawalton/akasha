@@ -146,8 +146,8 @@ test("a flag said on the command line is refused", async () => {
   const said = await acting(repo(), argv, piping(taking(NAMER_PAGE)))
 
   expect(said.refusals).toEqual([
-    "`--file-path` is no flag this takes",
-    `\`${NAMER_PAGE}\` is no flag this takes`,
+    "`--file-path` is no flag this takes.",
+    `\`${NAMER_PAGE}\` is no flag this takes.`,
   ])
 })
 

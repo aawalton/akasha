@@ -1,4 +1,5 @@
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 
 export const BREAK_GLASS = "--break-the-glass"
 
@@ -37,6 +38,7 @@ export function unknownIn(
   valued: readonly string[],
   bare: readonly string[]
 ): readonly string[] {
+  const every = [...valued, ...bare]
   const said: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
@@ -46,7 +48,7 @@ export function unknownIn(
       continue
     }
     if (bare.includes(one)) continue
-    said.push(`\`${one}\` is no flag this takes`)
+    said.push(`\`${one}\` is no flag this takes.${meantSaid(one, every)}`)
   }
   return said
 }
