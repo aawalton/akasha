@@ -7,6 +7,7 @@ export const parts = {
   propertySlug: "parts",
   definition: "the domains this one is made of",
   targetPageType: "page-type/domain",
+  sorted: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -17,8 +18,12 @@ export const parts = {
       statement: "A page is named by exactly one parent.",
     },
     {
+      invariantKind: "departure",
+      statement: "A parts list is sorted by the whole `type/slug` a part is written as.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A parts list is sorted.",
+      statement: "Every parts list already written is in that order.",
     },
   ],
   types: "ts",
