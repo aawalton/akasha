@@ -100,9 +100,10 @@ function saidAgain(one: Naming, byWord: boolean, wasWord: boolean): string {
   return `\`${spelt(one, true)}\` is said as a word and \`${spelt(one, false)}\` at its flag, and one call says it one way`
 }
 
-function tooManyWords(calledAs: string, takes: number, said: number): string {
+function tooManyWords(calledAs: string, takes: number, spare: readonly string[]): string {
   const taking = counted(takes, "word")
-  return `\`${calledAs}\` takes ${taking} and this call says ${counted(said, "word")}`
+  const said = counted(takes + spare.length, "word")
+  return `\`${calledAs}\` takes ${taking} and this call says ${said} — nothing takes ${namesDrawn(spare, " or ")}`
 }
 
 type Filling = {
@@ -197,7 +198,7 @@ export function takingIn(
   const spellings = naming.flatMap((one) => spellingsOf(one))
   const forWords = naming.filter((one) => asAWord(one))
   let atWord = 0
-  let overflowed = 0
+  const spare: string[] = []
   let wordsOnly = false
   for (let at = 0; at < argv.length; at += 1) {
     const word = argv[at]
@@ -217,7 +218,7 @@ export function takingIn(
       }
       const takingIt = forWords[atWord]
       if (takingIt === undefined) {
-        overflowed += 1
+        spare.push(word)
         continue
       }
       filling(state, takingIt, word, true)
@@ -249,8 +250,8 @@ export function takingIn(
     at += 1
     filling(state, held, next, false)
   }
-  if (overflowed > 0) {
-    state.refusals.push(tooManyWords(calledAs, forWords.length, forWords.length + overflowed))
+  if (spare.length > 0) {
+    state.refusals.push(tooManyWords(calledAs, forWords.length, spare))
   }
   for (const one of naming) {
     if (one.required !== true || state.heard.has(one.argument.slug)) continue

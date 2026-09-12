@@ -163,9 +163,9 @@ test("an argument said as a word and at its flag in one call is refused", () => 
   )
 })
 
-test("a second word is refused where the command takes one word", () => {
+test("a second word is refused where the command takes one word, named as the call said it", () => {
   expect(refusals(["n1", "n2"], [NODE])[0]).toBe(
-    "`akasha thing` takes 1 word and this call says 2 words"
+    "`akasha thing` takes 1 word and this call says 2 words — nothing takes `n2`"
   )
 })
 
@@ -189,7 +189,13 @@ test("a call saying fewer words than the command takes is refused by the one lef
 
 test("a call saying more words than the command takes says how many either side is", () => {
   expect(refusals(["here", "there", "spare"], [FROM, ONTO])[0]).toBe(
-    "`akasha thing` takes 2 words and this call says 3 words"
+    "`akasha thing` takes 2 words and this call says 3 words — nothing takes `spare`"
+  )
+})
+
+test("every word past the ones a command takes is named rather than the first alone", () => {
+  expect(refusals(["here", "there", "one", "two"], [FROM, ONTO])[0]).toBe(
+    "`akasha thing` takes 2 words and this call says 4 words — nothing takes `one` or `two`"
   )
 })
 
