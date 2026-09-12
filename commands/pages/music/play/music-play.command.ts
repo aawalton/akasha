@@ -13,10 +13,6 @@ export const musicPlay = {
       said: "--uri <spotify:track:...>",
       takes: "play this exact track and search for nothing, naming no query",
     },
-    {
-      said: "--artist <name>",
-      takes: "hold the query to this artist, read without regard to case",
-    },
     { said: "--device-id <id>", takes: "the Spotify device played on, rather than the active one" },
   ],
   invariants: [
@@ -50,5 +46,5 @@ export const musicPlay = {
     },
   ],
   name: "play",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/artist" }],
 } as const satisfies Command

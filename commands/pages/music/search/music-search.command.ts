@@ -7,10 +7,7 @@ export const musicSearch = {
   definition: "the command naming the Spotify tracks a query matches, each with its artists",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "query", takes: "the track query the search is made with" },
-    { said: "--artist <name>", takes: "keep only candidates whose artist contains this name" },
-  ],
+  taking: [{ said: "query", takes: "the track query the search is made with" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -42,5 +39,9 @@ export const musicSearch = {
     },
   ],
   name: "search",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/limit" },
+    { argument: "argument/artist" },
+  ],
 } as const satisfies Command
