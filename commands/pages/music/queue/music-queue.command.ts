@@ -38,6 +38,18 @@ export const musicQueue = {
       invariantKind: "absence",
       statement: "Nothing here writes a page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each track is named as soon as that track reaches Spotify.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that threw part way names those tracks in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The playing and the queueing are handed in.",
+    },
   ],
   name: "queue",
   arguments: [
