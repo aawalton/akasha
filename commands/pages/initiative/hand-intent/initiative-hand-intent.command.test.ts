@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { fromInitiative } from "akasha/commands/arguments/pages/from-initiative.argument.ts"
+import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
+import { toInitiative } from "akasha/commands/arguments/pages/to-initiative.argument.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -15,6 +19,7 @@ import {
   statingIn,
   wrongIn,
 } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"
+import { initiativeHandIntent as page } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
 
 const ASKED = { from: "one", statement: "A thing is so.", to: "two" }
 
@@ -118,6 +123,18 @@ const GIVEN: Given = {
 }
 
 const FELL = new Error("the change runner fell over")
+
+test("each word lands on the argument sitting at its place in `arguments`", () => {
+  const read = takenFor([ASKED.from, ASKED.statement, ASKED.to], GIVEN.calledAs, page, [
+    fromInitiative,
+    statement,
+    toInitiative,
+  ])
+
+  expect(read).toEqual({
+    taken: { fromInitiative: ASKED.from, statement: ASKED.statement, toInitiative: ASKED.to },
+  })
+})
 
 test("a run that landed the commit and then threw says that commit in its refusal", async () => {
   const said = await handedBy(ASKED, GIVEN, throwingAfter(["abc123"], FELL))
