@@ -4,8 +4,9 @@ import {
   seatPageAt,
   subagentPagesStanding,
 } from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
+import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { readIn } from "akasha/commands/pages/agent/forest/no-word-reading/no-word-reading.module.code.ts"
 import {
   type ForestRow,
@@ -67,10 +68,10 @@ export function saidOf(forest: ForestSaid): string {
 
 export async function agentForest(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   try {
-    return { report: [saidOf(forestOver(resolve(given.root), NOW))], refusals: [], code: 0 }
+    return told([saidOf(forestOver(resolve(given.root), NOW))])
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return faulted(thrown)
   }
 }

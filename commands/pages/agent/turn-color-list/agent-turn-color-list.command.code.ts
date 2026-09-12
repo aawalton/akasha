@@ -1,6 +1,7 @@
 import { colorsOf } from "akasha/agents/turn-drawn/agent-turn-drawn.module.code.ts"
+import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   SEAT_TURN_STATES,
@@ -80,11 +81,11 @@ export function colorsSaid(colors: Readonly<Record<string, string>>): string {
 
 export function agentTurnColorList(argv: readonly string[], _given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     const colors = "states" in read ? colorsOfStates(read.states) : colorsOf(read.agents)
-    return { report: [colorsSaid(colors)], refusals: [], code: 0 }
+    return told([colorsSaid(colors)])
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return faulted(thrown)
   }
 }
