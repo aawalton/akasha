@@ -59,5 +59,13 @@ export const deployLooping = {
       invariantKind: "absence",
       statement: "Nothing here writes a unit or restarts a service.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The kind a loop ticks over is the word handed to its run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed no kind a deploy puts up is refused by naming every kind.",
+    },
   ],
 } as const satisfies Module

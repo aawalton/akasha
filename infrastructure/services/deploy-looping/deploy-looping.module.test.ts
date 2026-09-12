@@ -3,8 +3,11 @@ import type { Candidate } from "akasha/infrastructure/services/deploy-choosing/d
 import {
   deployArgv,
   deployingIn,
+  EVERY_KIND,
+  kindIn,
   SCOPE_END,
   SCOPE_LEAD,
+  saidOfNoKind,
   saidOfNothing,
   scopeFor,
   slugIn,
@@ -69,4 +72,20 @@ test("a tick putting nothing up says how many wanted one and how many were runni
   expect(said).toContain("1 service")
   expect(said).toContain("of 2")
   expect(said).toContain("1 already")
+})
+
+test("a kind a deploy puts up is read off the call", () => {
+  expect(kindIn("service-workstation")).toBe("service-workstation")
+  expect(kindIn("web-app")).toBe("web-app")
+})
+
+test("a word that is no kind is read as none", () => {
+  expect(kindIn("pages-service")).toBe(null)
+  expect(kindIn(undefined)).toBe(null)
+})
+
+test("a call naming no kind is refused by naming every kind", () => {
+  const said = saidOfNoKind("pages-service")
+  expect(said).toContain("pages-service")
+  for (const one of EVERY_KIND) expect(said).toContain(one)
 })

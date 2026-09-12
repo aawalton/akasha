@@ -1,6 +1,12 @@
 import { join } from "node:path"
 import {
+  CLUSTER_SERVICE,
+  CONTAINER_RECIPE,
+  ESO_ADDON,
+  INFERENCE_SERVICE,
+  IOS_APP,
   type Kind,
+  WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import {
@@ -135,9 +141,36 @@ export function ticked(
   return { said: [`put \`${chosen.slug}\` up at ${commit}`], wrong: [] }
 }
 
-export function runDeployLooping(kind: Kind): number {
+export const EVERY_KIND: readonly Kind[] = [
+  CLUSTER_SERVICE,
+  CONTAINER_RECIPE,
+  ESO_ADDON,
+  INFERENCE_SERVICE,
+  IOS_APP,
+  WEB_APP,
+  WORKSTATION_SERVICE,
+]
+
+export function kindIn(word: string | undefined): Kind | null {
+  return EVERY_KIND.find((one) => one === word) ?? null
+}
+
+export function saidOfNoKind(word: string | undefined): string {
+  return `a loop is run for one kind, and \`${word ?? ""}\` is no kind a deploy puts up — the kinds are ${EVERY_KIND.join(", ")}`
+}
+
+export function runDeployLooping(word: string | undefined): number {
+  const kind = kindIn(word)
+  if (kind === null) {
+    process.stderr.write(`${saidOfNoKind(word)}\n`)
+    return 1
+  }
   const done = ticked(checkoutAt(), kind)
   for (const one of done.said) process.stdout.write(`${one}\n`)
   for (const one of done.wrong) process.stderr.write(`${one}\n`)
   return done.wrong.length === 0 ? 0 : 1
+}
+
+if (import.meta.main) {
+  process.exit(runDeployLooping(process.argv[2]))
 }
