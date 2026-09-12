@@ -6,12 +6,7 @@ export const temperInventoryRuleUpdate = {
   slug: "temper-inventory-rule-update",
   definition: "the command changing the fields of a category rule named by its id",
   code: "ts",
-  taking: [
-    {
-      said: "--destination-chain <json>",
-      takes: "the cascade of destinations the item falls through",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -39,5 +34,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/category" },
     { argument: "argument/conditions" },
     { argument: "argument/category-rule-id", required: true, saidAs: "word" },
+    { argument: "argument/destination-chain" },
   ],
 } as const satisfies Command
