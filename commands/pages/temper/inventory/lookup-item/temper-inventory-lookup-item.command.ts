@@ -26,4 +26,5 @@ export const temperInventoryLookupItem = {
     },
   ],
   name: "lookup-item",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

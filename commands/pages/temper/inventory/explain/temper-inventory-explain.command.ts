@@ -39,4 +39,5 @@ export const temperInventoryExplain = {
     },
   ],
   name: "explain",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
