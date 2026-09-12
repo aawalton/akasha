@@ -80,7 +80,9 @@ test("an album named in place and as a flag is refused", async () => {
 test("a second album is refused", async () => {
   const said = await icloudFetch([ALBUM, ALBUM], given())
 
-  expect(said.refusals[0]).toBe("`akasha icloud fetch` takes 1 word and this call says 2 words")
+  expect(said.refusals[0]).toBe(
+    `\`akasha icloud fetch\` takes 1 word and this call says 2 words — nothing takes \`${ALBUM}\``
+  )
 })
 
 test("the folder flag said twice is refused", async () => {
