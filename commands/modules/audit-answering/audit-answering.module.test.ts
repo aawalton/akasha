@@ -17,9 +17,10 @@ test("a run no check answered for is refused rather than answered clean", () => 
   const said = askedAnswer({ ...told({}), checks: 0 }, null)
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("no check answered")
-  expect(said.refusals[0]).toContain("nothing judged")
-  expect(said.refusals[1]).toContain("a clean answer would mean nothing")
+  expect(said.refusals[0]).toBe(
+    "this is not an audit — no check answered, so nothing judged and a clean answer would mean nothing"
+  )
+  expect(said.refusals[1]).toContain("--check <slug>")
 })
 
 test("that refusal says nothing judged rather than reading as some checks left out", () => {
