@@ -8,6 +8,7 @@ import {
   startOAuthProxy,
 } from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
 import { transportLogFlushed } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
+import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   clearProxyState,
@@ -19,7 +20,6 @@ import {
   redirectConsoleToSink,
   seatPageSink,
 } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
-import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 
 export const CONSOLE_SOURCE = "oauth-proxy-console"
 

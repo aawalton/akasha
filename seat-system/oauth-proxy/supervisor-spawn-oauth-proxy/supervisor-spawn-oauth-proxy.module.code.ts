@@ -1,6 +1,7 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
 import { modelGatewayEntrypoint } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   stopByPid,
@@ -15,7 +16,6 @@ import {
   readProxyState,
 } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { readAdoptedClaudeProxyPort } from "akasha/seat-system/supervising/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
-import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import {

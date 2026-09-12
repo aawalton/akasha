@@ -5,12 +5,12 @@ import {
   type ProcLivenessEntry,
 } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
+import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { LOG_AT } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
-import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 
 const SEAT = "principalSeatName"
 
