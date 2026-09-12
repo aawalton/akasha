@@ -11,5 +11,10 @@ export const athenaCommandsCleanup = {
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
     "A command's name is spelled outside akasha, in Alan's aliases and in the editor extension, which no landing here reaches.",
     "Only the coordinating seat runs `akasha audit`, so a subagent cannot judge against a check what that subagent read.",
+    "The coordinating seat hands each intent to a subagent and works no intent itself.",
+    "Up to twenty subagents work at once.",
+    "A subagent lands its own change, and the coordinating seat keeps the five child pages.",
+    "An intent whose next move is unclear has that question written into its working memory, and the work goes on.",
+    "The work goes on until every intent left on a child initiative is blocked on Alan.",
   ],
 } as const satisfies Initiative
