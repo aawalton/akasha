@@ -76,4 +76,5 @@ export const trackSessionCheck = {
       statement: "Nothing here takes `--date`.",
     },
   ],
+  name: "check",
 } as const satisfies Command

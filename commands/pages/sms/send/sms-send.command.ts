@@ -56,4 +56,5 @@ export const smsSend = {
       statement: "Nothing here checks that the number is one anybody enrolled.",
     },
   ],
+  name: "send",
 } as const satisfies Command

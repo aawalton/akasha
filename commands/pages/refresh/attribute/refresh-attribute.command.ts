@@ -39,4 +39,5 @@ export const refreshAttribute = {
       statement: "A run works out no level.",
     },
   ],
+  name: "attribute",
 } as const satisfies Command

@@ -37,4 +37,5 @@ export const seatStart = {
       statement: "A start prints the agent's id on the output stream.",
     },
   ],
+  name: "start",
 } as const satisfies Command

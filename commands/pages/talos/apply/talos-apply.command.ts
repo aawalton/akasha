@@ -76,4 +76,5 @@ export const talosApply = {
       statement: "Nothing here undoes an apply.",
     },
   ],
+  name: "apply",
 } as const satisfies Command

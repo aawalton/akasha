@@ -61,4 +61,5 @@ export const seatSupervisorRestart = {
       statement: "Nothing here restarts a client.",
     },
   ],
+  name: "restart",
 } as const satisfies Command

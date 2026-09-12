@@ -83,4 +83,5 @@ export const trackHealthImport = {
       statement: "Whether the export read is current is answered by nothing here.",
     },
   ],
+  name: "health-import",
 } as const satisfies Command

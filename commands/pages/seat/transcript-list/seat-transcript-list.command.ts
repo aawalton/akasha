@@ -73,4 +73,5 @@ export const seatTranscriptList = {
       statement: "Nothing here reads a transcript.",
     },
   ],
+  name: "transcript-list",
 } as const satisfies Command

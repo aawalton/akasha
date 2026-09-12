@@ -37,4 +37,5 @@ export const seatReset = {
       statement: "The output a reset prints is written where the reset runs.",
     },
   ],
+  name: "reset",
 } as const satisfies Command

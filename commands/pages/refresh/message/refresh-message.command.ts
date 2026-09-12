@@ -34,4 +34,5 @@ export const refreshMessage = {
       statement: "A run writes no value the commit has.",
     },
   ],
+  name: "message",
 } as const satisfies Command

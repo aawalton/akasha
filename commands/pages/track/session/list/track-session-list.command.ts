@@ -30,4 +30,5 @@ export const trackSessionList = {
       statement: "`list` writes nothing.",
     },
   ],
+  name: "list",
 } as const satisfies Command

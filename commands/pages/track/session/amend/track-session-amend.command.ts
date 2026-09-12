@@ -108,4 +108,5 @@ export const trackSessionAmend = {
       statement: "A write here is judged as `check` judges.",
     },
   ],
+  name: "amend",
 } as const satisfies Command

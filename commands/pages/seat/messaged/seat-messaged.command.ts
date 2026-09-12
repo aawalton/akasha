@@ -53,4 +53,5 @@ export const seatMessaged = {
       statement: "A run marks no persona but the named seat's persona.",
     },
   ],
+  name: "messaged",
 } as const satisfies Command

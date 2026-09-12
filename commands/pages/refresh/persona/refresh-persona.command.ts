@@ -30,4 +30,5 @@ export const refreshPersona = {
       statement: "A run works today's count out again from today's own rows.",
     },
   ],
+  name: "persona",
 } as const satisfies Command

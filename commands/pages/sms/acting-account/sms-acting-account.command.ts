@@ -39,4 +39,5 @@ export const smsActingAccount = {
       statement: "Nothing here reaches the carrier.",
     },
   ],
+  name: "acting-account",
 } as const satisfies Command

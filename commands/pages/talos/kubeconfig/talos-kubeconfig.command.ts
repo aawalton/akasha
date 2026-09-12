@@ -49,4 +49,5 @@ export const talosKubeconfig = {
       statement: "Nothing here writes to the kubeconfig k3s is reached through.",
     },
   ],
+  name: "kubeconfig",
 } as const satisfies Command

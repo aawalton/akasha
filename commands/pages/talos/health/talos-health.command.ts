@@ -58,4 +58,5 @@ export const talosHealth = {
       statement: "Nothing here changes a node.",
     },
   ],
+  name: "health",
 } as const satisfies Command

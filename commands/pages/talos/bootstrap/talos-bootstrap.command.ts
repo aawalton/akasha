@@ -49,4 +49,5 @@ export const talosBootstrap = {
       statement: "Nothing here undoes a bootstrap.",
     },
   ],
+  name: "bootstrap",
 } as const satisfies Command

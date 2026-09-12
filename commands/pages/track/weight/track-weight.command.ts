@@ -55,4 +55,5 @@ export const trackWeight = {
       statement: "Nothing here writes the weight onto Alan's person page.",
     },
   ],
+  name: "weight",
 } as const satisfies Command

@@ -64,4 +64,5 @@ export const seatComposeNotices = {
         "A notice slug a caller names that no page carries is refused before a fleet meets it.",
     },
   ],
+  name: "compose-notices",
 } as const satisfies Command

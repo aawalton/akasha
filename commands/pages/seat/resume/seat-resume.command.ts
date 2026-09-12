@@ -42,4 +42,5 @@ export const seatResume = {
       statement: "The output a resume prints is written where the resume runs.",
     },
   ],
+  name: "resume",
 } as const satisfies Command

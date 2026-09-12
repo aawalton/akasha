@@ -180,6 +180,7 @@ export const read = {
         "A read the warrants cannot be worked out for returns the files the read was named.",
     },
   ],
+  name: "read",
   directives: [
     {
       directiveKind: "rule",

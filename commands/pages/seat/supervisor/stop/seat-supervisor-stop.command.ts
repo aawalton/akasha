@@ -42,4 +42,5 @@ export const seatSupervisorStop = {
       statement: "Nothing here stops a seat by anything but the name its page carries.",
     },
   ],
+  name: "stop",
 } as const satisfies Command

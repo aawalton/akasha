@@ -111,4 +111,5 @@ export const trackSessionFile = {
       statement: "A write here is judged as `check` judges.",
     },
   ],
+  name: "file",
 } as const satisfies Command

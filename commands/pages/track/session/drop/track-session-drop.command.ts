@@ -72,4 +72,5 @@ export const trackSessionDrop = {
       statement: "A write here is judged as `check` judges.",
     },
   ],
+  name: "drop",
 } as const satisfies Command

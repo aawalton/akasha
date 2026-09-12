@@ -111,4 +111,5 @@ export const trackSessionSplit = {
       statement: "A write here is judged as `check` judges.",
     },
   ],
+  name: "split",
 } as const satisfies Command

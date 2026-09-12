@@ -60,4 +60,5 @@ export const seatRefreshSettings = {
       statement: "Nothing here writes the settings document.",
     },
   ],
+  name: "refresh-settings",
 } as const satisfies Command
