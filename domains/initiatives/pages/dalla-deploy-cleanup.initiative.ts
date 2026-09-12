@@ -9,12 +9,6 @@ export const dallaDeployCleanup = {
   intents: [
     {
       statement:
-        "A deploy is built from a tree pinned at the commit rather than from the working checkout.",
-      workingMemory:
-        "A worktree per deploy kind is reset to the commit rather than made afresh, so it costs the files that changed rather than a checkout of the whole tree. The kind's own deploy service is the only thing that moves its tree, so no two deploys race over one. The tree is kept rather than taken away.",
-    },
-    {
-      statement:
         "Every workstation service runs from one checkout the workstation deploy alone moves.",
       workingMemory:
         "The wrapper stops following files, so nothing unjudged reaches a running service. The whole kind is put up by one deploy named for the kind, judged over the union of every workstation closure. The tree moves once and only the units whose own closure changed are restarted; a scheduled unit reads the tree on its next tick. The main checkout is the database and the only write target, so a unit reads and writes pages under it while running its code out of the pinned one.",

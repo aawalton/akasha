@@ -184,11 +184,6 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a deploy is built from is read out of the commit rather than off the worktree.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file another deploy is built from and this one is not leaves this one alone.",
     },
     {
@@ -287,6 +282,11 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "The bundle is published before the web app serving it is put up.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy is built from a tree pinned at the commit rather than from the checkout.",
     },
   ],
 } as const satisfies Command
