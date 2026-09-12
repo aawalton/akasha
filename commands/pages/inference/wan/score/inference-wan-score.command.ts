@@ -33,6 +33,10 @@ export const inferenceWanScore = {
       invariantKind: "absence",
       statement: "Nothing here reaches the GPU.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the `:Z` relabelling podman did to the mounted directories.",
+    },
   ],
   name: "score",
   arguments: [

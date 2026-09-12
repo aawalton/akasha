@@ -1,13 +1,51 @@
 import { expect, test } from "bun:test"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  partWay,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   inferenceWanScore,
   readScore,
+  relabelledSaid,
 } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference wan score", from: root, writer: null, agentId: null }
 }
+
+const SCORED = ["--frames-dir", "f", "--reference", "r.png"]
+
+const RELABELLED = relabelledSaid(["/frames", "/ref", "/cache"])
+
+const WENT_AWAY = new Error("podman went away while the scorer ran")
+
+test("a run that relabelled the mounts and then threw names that relabelling", async () => {
+  const said = await inferenceWanScore(
+    SCORED,
+    given("/nowhere"),
+    throwingAfter([RELABELLED], WENT_AWAY)
+  )
+
+  expect(said.report).toEqual([RELABELLED])
+  expect(said.refusals.at(-1)).toBe(partWay([RELABELLED])[0])
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a fault carrying a code of its own keeps that code rather than the one code", async () => {
+  const said = await inferenceWanScore(
+    SCORED,
+    given("/nowhere"),
+    throwingAfter([], new DataError("the reference carries no face"))
+  )
+
+  expect(said.report).toEqual([])
+  expect(said.code).toBe(DATA)
+  expect(said.refusals.at(-1)).not.toContain("stopped part way")
+})
 
 test("nothing said is refused, naming the flags it needs", async () => {
   const said = await inferenceWanScore([], given("/nowhere"))

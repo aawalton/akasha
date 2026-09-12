@@ -1,12 +1,13 @@
 import { basename, dirname, join } from "node:path"
 import {
+  answering,
   DATA,
-  OK,
+  keeping,
   OPERATIONAL,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Shape } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
 import type {
   Taken,
@@ -38,12 +39,22 @@ export function readScore(argv: readonly string[]): ReturnType<typeof readIn> {
   return readIn(argv, TAKING)
 }
 
-async function scoring(read: Taken, given: Given, report: string[]): Promise<Answer> {
+export function relabelledSaid(dirs: readonly string[]): string {
+  return (
+    `podman was handed ${dirs.join(", ")} as \`:Z\` mounts, and the SELinux labels ` +
+    "on those directories were rewritten on this disk to suit the container"
+  )
+}
+
+export type Scoring = (done: string[], read: Taken, given: Given) => Promise<Answer>
+
+async function scored(done: string[], read: Taken, given: Given): Promise<Answer> {
   const said = read.said
   const framesDir = at(given, said.get("--frames-dir") ?? "")
   const referencePath = at(given, said.get("--reference") ?? "")
+  const referenceDir = dirname(referencePath)
   const clearing = Number(said.get("--floor") ?? "")
-  const home = homeIn()
+  const cache = join(homeIn(), "cache")
   const proc = spawned([
     "podman",
     "run",
@@ -53,9 +64,9 @@ async function scoring(read: Taken, given: Given, report: string[]): Promise<Ans
     "-v",
     `${framesDir}:/scoring/frames:Z`,
     "-v",
-    `${dirname(referencePath)}:/scoring/ref:Z`,
+    `${referenceDir}:/scoring/ref:Z`,
     "-v",
-    `${join(home, "cache")}:/root/.cache:Z`,
+    `${cache}:/root/.cache:Z`,
     imageIn(),
     "/app/bin/score-frames.py",
     "--reference",
@@ -66,38 +77,41 @@ async function scoring(read: Taken, given: Given, report: string[]): Promise<Ans
     String(clearing),
   ])
   if (proc === null) {
-    return { report, refusals: ["podman is not on PATH"], code: OPERATIONAL }
+    return { report: [], refusals: ["podman is not on PATH"], code: OPERATIONAL }
   }
+  done.push(relabelledSaid([framesDir, referenceDir, cache]))
   const out = await new Response(proc.stdout).text()
   const err = await new Response(proc.stderr).text()
   const exited = await proc.exited
   const rows = out.split("\n").filter((one) => one !== "")
   if (exited === REJECTED_INPUTS) {
     const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
-    return {
-      report,
+    return keeping(done, {
+      report: [],
       refusals: [
         "the scorer would not take the inputs — no face was found in the reference, " +
           `or the frames directory is not there — ${last}`,
       ],
       code: DATA,
-    }
+    })
   }
   if (exited !== 0) {
     const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
-    return { report, refusals: [`the scorer ended at ${exited} — ${last}`], code: OPERATIONAL }
+    return keeping(done, {
+      report: [],
+      refusals: [`the scorer ended at ${exited} — ${last}`],
+      code: OPERATIONAL,
+    })
   }
-  report.push(...rows)
-  return { report, refusals: [], code: OK }
+  return told(rows)
 }
 
-export async function inferenceWanScore(argv: readonly string[], given: Given): Promise<Answer> {
+export async function inferenceWanScore(
+  argv: readonly string[],
+  given: Given,
+  scoring: Scoring = scored
+): Promise<Answer> {
   const read = readScore(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  const report: string[] = []
-  try {
-    return await scoring(read, given, report)
-  } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
-  }
+  return await answering(async (done) => await scoring(done, read, given))
 }
