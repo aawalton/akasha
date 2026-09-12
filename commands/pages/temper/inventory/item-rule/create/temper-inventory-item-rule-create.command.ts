@@ -7,7 +7,6 @@ export const temperInventoryItemRuleCreate = {
   definition: "the command adding a per-item rule",
   code: "ts",
   taking: [
-    { said: "--item-id <n>", takes: "the game item id the rule matches on" },
     {
       said: "--item-name <s>",
       takes: "the item's display name, where the id remains what it matches on",
@@ -34,5 +33,6 @@ export const temperInventoryItemRuleCreate = {
     { argument: "argument/action" },
     { argument: "argument/destination" },
     { argument: "argument/stock-scope" },
+    { argument: "argument/item-id" },
   ],
 } as const satisfies Command
