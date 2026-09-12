@@ -72,4 +72,5 @@ export const indexRefresh = {
     },
   ],
   name: "refresh",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command
