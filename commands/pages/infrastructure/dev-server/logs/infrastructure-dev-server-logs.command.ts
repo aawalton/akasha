@@ -16,9 +16,11 @@ export const infrastructureDevServerLogs = {
       said: "--app <name>",
       takes: "whose log to read, named by the slug that app's web app page carries",
     },
-    { said: "--tail <n>", takes: "how many trailing lines of the log to answer with" },
+    {
+      said: "--tail <n>",
+      takes: "how many trailing lines to answer with, a hundred where none is said",
+    },
   ],
-  helpNotes: ["a tail nothing said is a hundred lines."],
   invariants: [
     {
       invariantKind: "departure",
