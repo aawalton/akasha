@@ -1,7 +1,7 @@
-import { composeCharEligibilityPredicate } from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { composeCharEligibilityPredicate } from "akasha/temper/items-rules-core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildStockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
 import { planStockDestinationsForStack } from "akasha/temper/items-rules-core/stock-destination-planner/stock-destination-planner.module.code.ts"

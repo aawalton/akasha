@@ -13,11 +13,11 @@ import {
   type EquipmentQualityId,
   resolveQuality,
 } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type {
   Effect,
   MetricEffect,
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 
 function calculateNirnhonedValue(
   basePower: number,

@@ -6,11 +6,11 @@ import {
 import { getJewelryTraitEffects } from "akasha/temper/characters-equipment/jewelry-trait-effects/jewelry-trait-effects.module.code.ts"
 import type { JewelryTraitId } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { JewelryTypeId } from "akasha/temper/equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
-import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type {
   Effect,
   MetricEffect,
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 
 interface JewelryItemSource extends EffectSourceInterface<"jewelry", Effect> {
   categoryId: "jewelry"

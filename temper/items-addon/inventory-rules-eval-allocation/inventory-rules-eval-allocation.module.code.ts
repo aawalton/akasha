@@ -4,16 +4,16 @@ import { buildUnlockContext } from "akasha/temper/items-addon/inventory-rules-co
 import type { UseAllocation } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/items-addon/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/items-addon/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
-import {
-  type CharEligibilityConditions,
-  composeCharEligibilityPredicate,
-  type EligibilityResolvers,
-} from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { ResolvedEntry } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   DestinationChain,
   ItemAction,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  type CharEligibilityConditions,
+  composeCharEligibilityPredicate,
+  type EligibilityResolvers,
+} from "akasha/temper/items-rules-core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
 import {

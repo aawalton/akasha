@@ -13,7 +13,7 @@ import { extractSkills } from "akasha/temper/characters-stats/extract-skills/ext
 import { extractTarget } from "akasha/temper/characters-stats/extract-target/extract-target.module.code.ts"
 import { extractWeapons } from "akasha/temper/characters-stats/extract-weapons/extract-weapons.module.code.ts"
 import type { TranslationContext } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 
 export function buildStateToEffectSources(
   build: CharacterState,

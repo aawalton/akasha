@@ -1,4 +1,4 @@
-import { isEffectivelyAuthenticated } from "akasha/alan/harness/supabase-rr/effective-auth/effective-auth.module.code.ts"
+import { isEffectivelyAuthenticated } from "akasha/alan/harness/supabase-rr/modules/effective-auth/effective-auth.module.code.ts"
 import { hasSessionCookie } from "akasha/alan/harness/supabase-rr/session-cookie/session-cookie.module.code.ts"
 import { refreshSession } from "akasha/alan/harness/supabase-rr/session-refresh/session-refresh.module.code.ts"
 import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.module.code.ts"

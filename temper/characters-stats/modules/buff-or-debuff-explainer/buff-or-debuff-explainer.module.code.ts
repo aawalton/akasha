@@ -4,7 +4,6 @@ import {
   metrics,
 } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
 import { getBuffOrDebuffId } from "akasha/temper/characters-stats/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { BuffOrDebuffEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import {
@@ -12,6 +11,7 @@ import {
   isMetricEffect,
   type MetricEffect,
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 

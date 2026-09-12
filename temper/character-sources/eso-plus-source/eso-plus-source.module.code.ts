@@ -1,4 +1,4 @@
-import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 
 interface EsoPlusTemplate extends EffectSourceInterface {

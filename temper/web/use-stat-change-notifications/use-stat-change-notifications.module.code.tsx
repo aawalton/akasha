@@ -12,8 +12,8 @@ import {
   diffEffectSources,
   summarizeEffectChanges,
 } from "akasha/temper/characters-stats/modules/diff-effect-sources/diff-effect-sources.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import {
   type StatChangeNotification,
   StatChangesDescription,

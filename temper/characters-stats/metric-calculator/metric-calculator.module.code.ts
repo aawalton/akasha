@@ -15,8 +15,8 @@ import {
 } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
 import { calculateBuffs } from "akasha/temper/characters-stats/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/characters-stats/modules/build-state-adapter/build-state-adapter.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
 
 export interface CalculationResult {

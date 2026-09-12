@@ -1,4 +1,4 @@
-import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
+import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { max } from "akasha/commands/arguments/pages/max.argument.ts"
 import {
