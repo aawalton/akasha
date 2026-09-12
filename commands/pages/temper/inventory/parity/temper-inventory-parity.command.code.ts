@@ -6,6 +6,7 @@ import { charactersPath as charactersPathArgument } from "akasha/commands/argume
 import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
 import { tracedItemId as tracedItemIdArgument } from "akasha/commands/arguments/pages/traced-item-id.argument.ts"
 import {
+  answeredWith,
   DATA,
   OPERATIONAL,
   refused,
@@ -316,14 +317,14 @@ export async function temperInventoryParity(
     ]
     const diverged = inputRows.length > 0 || walkRows.length > 0 || routingDiff.mismatch
     if (!diverged) return told(report)
-    return {
+    return answeredWith(
       report,
-      refusals: [
+      [
         `the addon's stored trace for item ${String(itemId)} and a fresh evaluation ` +
           "do not agree, and the rows above name where",
       ],
-      code: DATA,
-    }
+      DATA
+    )
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
