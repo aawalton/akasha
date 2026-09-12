@@ -8,4 +8,5 @@ export const lang = {
   takes: "the language the speaking is in",
   value: "text",
   placeholder: "name",
+  default: "English",
 } as const satisfies Argument

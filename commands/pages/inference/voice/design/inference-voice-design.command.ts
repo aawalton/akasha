@@ -46,7 +46,15 @@ export const inferenceVoiceDesign = {
     { argument: "argument/lang" },
     { argument: "argument/text-file" },
     { argument: "argument/instruct-file" },
-    { argument: "argument/instruct", notWith: ["argument/instruct-file"] },
-    { argument: "argument/spoken-text", notWith: ["argument/text-file"] },
+    {
+      argument: "argument/instruct",
+      notWith: ["argument/instruct-file"],
+      oneOf: ["argument/instruct-file"],
+    },
+    {
+      argument: "argument/spoken-text",
+      notWith: ["argument/text-file"],
+      oneOf: ["argument/text-file"],
+    },
   ],
 } as const satisfies Command
