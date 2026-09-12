@@ -28,5 +28,7 @@ export const athenaCommandsCleanup = {
     "A large mechanical landing arrives by holding fewer paths and putting fewer commands between draft and apply, rather than by waiting for the swarm to go quiet.",
     "A body branch a page key replaces is residue of three kinds: behavioural, reachable from code but not from a call, or load-bearing for a type. The third reads deadest and will not compile.",
     "A page invariant that reads like a group rule often means the opposite, so the refusal is confirmed in the code before a page key is landed.",
+    "An import edit and the edits leaning on it are one unit, so the whole import line is settled from every name the file will use before any body edit is drafted.\n",
+    "A command page and the module page beneath it can disagree with nothing to catch it, and a check compares code against the page beside that code, so the module page is the one that has been wrong.\n",
   ],
 } as const satisfies Initiative
