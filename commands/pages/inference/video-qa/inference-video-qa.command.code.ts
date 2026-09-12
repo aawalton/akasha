@@ -48,7 +48,7 @@ const TIMEOUT = "--timeout"
 const TAKING = [
   { said: VIDEO },
   { said: FRAMES_DIR },
-  { said: CHECKLIST, aliases: ["--prompt"], prose: true },
+  { said: CHECKLIST, prose: true },
   { said: FRAMES },
   { said: FPS },
   { said: TIMEOUT },
