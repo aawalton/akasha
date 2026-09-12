@@ -1,4 +1,5 @@
 import {
+  answering,
   keeping,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -11,10 +12,7 @@ import {
   readIn,
   SEQ,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import {
-  starting,
-  stoppedBy,
-} from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
+import { starting } from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
 
 export const TAKING: Taking = {
   flags: [SEQ, APP, PORT, JSON_LINE],
@@ -27,9 +25,8 @@ export async function infrastructureDevServerStart(
 ): Promise<Answer> {
   const read = readIn(argv, given.root, TAKING)
   if ("refused" in read) return refusedBy(read.refused)
-  const done: string[] = []
-  try {
-    return keeping(
+  return await answering(async (done) =>
+    keeping(
       done,
       await starting(
         {
@@ -42,7 +39,5 @@ export async function infrastructureDevServerStart(
         done
       )
     )
-  } catch (thrown) {
-    return stoppedBy(done, thrown)
-  }
+  )
 }

@@ -1,15 +1,12 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
 import {
   asJson,
-  codeOf,
   INPUT,
   OPERATIONAL,
-  partWay,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   APP,
   SEQ,
@@ -50,10 +47,6 @@ const DEV_COMMAND: readonly string[] = ["bunx", "react-router", "dev", "--port",
 const NO_COOKIE_DOMAIN = "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN"
 
 const REPLACED_BY = "akasha infrastructure dev-server restart"
-
-export function stoppedBy(done: readonly string[], thrown: unknown): Answer {
-  return { report: [...done], refusals: [whyOf(thrown), ...partWay(done)], code: codeOf(thrown) }
-}
 
 export async function starting(
   read: {
@@ -99,11 +92,7 @@ export async function starting(
     )
   }
 
-  try {
-    enforceMemoryGuard(KIND)
-  } catch (thrown) {
-    return refused(whyOf(thrown), OPERATIONAL)
-  }
+  enforceMemoryGuard(KIND)
 
   ensureDevServerDirs(read.seq)
   const logPath = logFilePath(read.seq, read.app)

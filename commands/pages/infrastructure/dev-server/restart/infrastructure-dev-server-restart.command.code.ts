@@ -1,4 +1,5 @@
 import {
+  answering,
   keeping,
   OK,
   refusedBy,
@@ -14,7 +15,6 @@ import {
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
 import {
   starting,
-  stoppedBy,
   stopping,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
 
@@ -32,12 +32,9 @@ export async function infrastructureDevServerRestart(
   const root = given.root
   const seq = read.seq ?? 0
   const app = read.app ?? ""
-  const done: string[] = []
-  try {
+  return await answering(async (done) => {
     const stopped = await stopping({ root, seq, app, all: false, json: false }, done)
     if (stopped.code !== OK) return keeping(done, stopped)
     return keeping(done, await starting({ root, seq, app, port: read.port, json: read.json }, done))
-  } catch (thrown) {
-    return stoppedBy(done, thrown)
-  }
+  })
 }

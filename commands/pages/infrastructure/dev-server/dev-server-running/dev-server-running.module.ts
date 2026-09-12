@@ -6,7 +6,6 @@ export const devServerRunning = {
   slug: "dev-server-running",
   definition: "one app's dev server spawned in a worktree, and ended again",
   code: "ts",
-  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
