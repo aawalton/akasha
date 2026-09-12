@@ -37,4 +37,5 @@ export const temperInventoryCapacityAudit = {
     },
   ],
   name: "capacity-audit",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

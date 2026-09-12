@@ -24,4 +24,5 @@ export const temperInventoryAutomationList = {
     },
   ],
   name: "list",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
