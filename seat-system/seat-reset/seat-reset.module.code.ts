@@ -10,6 +10,7 @@ import {
   type SeatFromHistory,
   seatFromHistory,
 } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { principalSeatNameOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import {
   dataError,
   inputError,
@@ -24,7 +25,6 @@ import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { principalSeatNameOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 import {
   pageWouldCompose,
   type Stated,

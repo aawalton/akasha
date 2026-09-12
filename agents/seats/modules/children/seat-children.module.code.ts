@@ -1,4 +1,4 @@
-import { principalSeatIdOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import { principalSeatIdOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import {
   type Seated,
   seatsPresent,

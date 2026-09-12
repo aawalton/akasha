@@ -12,11 +12,11 @@ import {
   seatIdForName,
   seatNameForAgent,
 } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   principalOf,
   principalSeatIdOf,
-} from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+} from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export interface SeatWhoami {

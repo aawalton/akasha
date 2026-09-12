@@ -4,11 +4,11 @@ import {
   type Declaration,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
 import { flexOf } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
+import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import type {
   NameableSeat,
   Principal,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { principalOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 
 export function nameableStated(
   set: Partial<Record<Declaration, string>>,
