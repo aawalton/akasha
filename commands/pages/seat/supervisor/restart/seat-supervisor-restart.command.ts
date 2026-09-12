@@ -11,12 +11,7 @@ export const seatSupervisorRestart = {
   taking: [
     { said: "--all", takes: "every seat akasha carries, which is the only reach a restart has" },
   ],
-  helpNotes: [
-    "a restart is asked and signalled in one motion: the ask alone is taken up by the next turn and comes to nothing.",
-    "a supervisor takes the ask as it shuts down and re-execs in place, carrying the client it holds across.",
-    "the session in the seat outlives the restart, which is the whole reason this is not a seat restart.",
-    "a seat naming no supervisor still standing is reported and left alone.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
