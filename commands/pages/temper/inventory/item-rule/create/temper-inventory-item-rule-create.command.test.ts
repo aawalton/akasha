@@ -13,6 +13,7 @@ import {
 } from "akasha/commands/pages/temper/inventory/item-rule/create/temper-inventory-item-rule-create.command.code.ts"
 import { temperInventoryItemRuleCreate as page } from "akasha/commands/pages/temper/inventory/item-rule/create/temper-inventory-item-rule-create.command.ts"
 import {
+  UNREADABLE,
   WROTE,
   writingThat,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
@@ -81,4 +82,15 @@ test("a write the store refuses names nothing, because nothing was written", asy
   const said = await answered((done) => making(ASKED, refusing, done))
   expect(said.refusals.join("\n")).toContain("would not take it")
   expect(said.refusals.join("\n")).not.toContain("stopped part way")
+})
+
+test("a misspelled action is refused by a store that cannot be read, which never is", async () => {
+  const said = await answered((done) => making({ ...ASKED, action: "polish-it" }, UNREADABLE, done))
+  expect(said.refusals.join("\n")).toContain("polish-it")
+  expect(said.refusals.join("\n")).not.toContain("would not be read")
+})
+
+test("a call spelt right reaches the store, and says so when the store cannot be read", async () => {
+  const said = await answered((done) => making(ASKED, UNREADABLE, done))
+  expect(said.refusals.join("\n")).toContain("would not be read")
 })

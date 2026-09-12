@@ -22,6 +22,7 @@ import {
 import {
   ITEM_HELD,
   ITEM_LOCKED,
+  UNREADABLE,
   WROTE,
   writingThat,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
@@ -34,11 +35,6 @@ const REPO = rootOf(import.meta.dir)
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
 const TITLE = "a title the call gives it"
-
-const UNREADABLE: Writing = {
-  read: () => Promise.reject(new Error("the store would not be read")),
-  write: () => Promise.reject(new Error("the store would not be written")),
-}
 
 const updateRefusals = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await temperInventoryItemRuleUpdate(argv, GIVEN)

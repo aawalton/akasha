@@ -40,3 +40,8 @@ export function writingThat(write: (settings: InventoryRuleSettings) => Promise<
 }
 
 export const WROTE = writingThat(() => Promise.resolve())
+
+export const UNREADABLE: Writing = {
+  read: () => Promise.reject(new Error("the store would not be read")),
+  write: () => Promise.reject(new Error("the store would not be written")),
+}

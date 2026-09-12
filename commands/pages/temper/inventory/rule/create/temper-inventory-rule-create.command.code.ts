@@ -38,18 +38,22 @@ const PAGES = [title, notes, goal, active, action, destination, stockScope, cate
 export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 export async function making(taken: Taken, writing: Writing, done: string[]): Promise<Answer> {
+  const categoryId = narrowCategoryId(taken.category, category.said)
+  const doing = narrowItemAction(taken.action, action.said)
+  const moveTo =
+    taken.destination === undefined
+      ? undefined
+      : narrowMoveToDestination(taken.destination, destination.said)
+  const scope =
+    taken.stockScope === undefined ? undefined : narrowStockScope(taken.stockScope, stockScope.said)
   const narrowed = parseConditionsJson(taken.conditions)
   const settings = await writing.read()
   const next = addCategoryRule(settings, {
-    categoryId: narrowCategoryId(taken.category, category.said),
-    action: narrowItemAction(taken.action, action.said),
-    ...(taken.destination !== undefined
-      ? { destination: narrowMoveToDestination(taken.destination, destination.said) }
-      : {}),
+    categoryId,
+    action: doing,
+    ...(moveTo !== undefined ? { destination: moveTo } : {}),
     ...(narrowed !== undefined ? { conditions: narrowed } : {}),
-    ...(taken.stockScope !== undefined
-      ? { stockScope: narrowStockScope(taken.stockScope, stockScope.said) }
-      : {}),
+    ...(scope !== undefined ? { stockScope: scope } : {}),
     ...(taken.goal !== undefined ? { goal: taken.goal } : {}),
   })
   const created = next.rules[next.rules.length - 1]

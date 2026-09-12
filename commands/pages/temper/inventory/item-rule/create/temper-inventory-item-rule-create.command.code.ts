@@ -65,11 +65,12 @@ export async function making(taken: Taken, writing: Writing, done: string[]): Pr
       return refused(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
     }
   }
+  const doing = narrowItemAction(taken.action ?? NOTHING, action.said)
   const settings = await writing.read()
   const added = addItemRule(settings, {
     itemId: taken.itemId,
     itemName: taken.itemName,
-    action: narrowItemAction(taken.action ?? NOTHING, action.said),
+    action: doing,
   })
   const created = (added.itemRules ?? [])[0]
   if (created === undefined) {

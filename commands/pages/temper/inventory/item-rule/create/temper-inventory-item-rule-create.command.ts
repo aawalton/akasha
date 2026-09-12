@@ -22,6 +22,10 @@ export const temperInventoryItemRuleCreate = {
     },
     {
       invariantKind: "departure",
+      statement: "Every flag is narrowed before the store is read, so a misspelling reads nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule added is named on the caller's list as soon as that write has gone.",
     },
     {
