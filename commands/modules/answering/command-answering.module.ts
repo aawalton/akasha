@@ -73,6 +73,30 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "Work owes that list a name from its second durable write onward.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Work making one durable write owes nothing, one write being whole or not made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write made by something the work calls is the work's own write.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing checks a list is filled, a write hiding inside whatever the work calls.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Writing seams handed in as a named record would make a work's writes countable.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "Which work owes nothing is judged by reading it, command by command.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The sentence naming what that list holds is built here for every refusal to reach.",
     },
