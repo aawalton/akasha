@@ -170,6 +170,14 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The value one page carries is read from that page's own body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That value is read once for a path and a reading together, and held.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The one page of a page type carrying a slug is answered with the value that page carries.",
     },

@@ -16,6 +16,7 @@ import {
   readingOf,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Listed = {
@@ -279,13 +280,22 @@ export function valuesByPath(
   return pathed(given, pageTypeSlug)
 }
 
+const bodied = heldEach((reading: Reading, path: string): Value | null => {
+  const body = reading.read(path)
+  return body === null ? null : valueIn(body)
+})
+
+export function valueByPath(given: string | Reading, path: string): Value | null {
+  return bodied(given, path)
+}
+
 export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: string): Valued {
   const listed = listedAt(given, pageTypeSlug, slug)[0]
   if (listed === undefined) {
     throw new Error(`no \`${pageTypeSlug}\` page carries the slug \`${slug}\``)
   }
-  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
-  if (value === undefined) {
+  const value = valueByPath(given, listed.path)
+  if (value === null) {
     throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
   }
   return { path: listed.path, value }
