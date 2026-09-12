@@ -71,6 +71,10 @@ export const talosApply = {
       statement: "The decrypted secrets are taken away however the apply ends.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here undoes an apply.",
     },

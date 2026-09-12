@@ -55,6 +55,10 @@ export const talosImageBuild = {
       invariantKind: "departure",
       statement: "The id and the address are reported though the download did not land.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
   ],
   name: "image-build",
 } as const satisfies Command

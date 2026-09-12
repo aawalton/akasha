@@ -1,12 +1,17 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
@@ -100,26 +105,26 @@ async function registering(read: Named, given: Given): Promise<Answer> {
     node = getNode(read.node)
     cluster = getClusterForNode(read.node)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: INPUT }
+    return mistaking([whyOf(thrown)])
   }
   const id = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
   const isoUrl = installerIsoUrl(id, cluster.talosVersion)
   const report = [`schematic id: ${id}`, `installer iso: ${isoUrl}`]
-  if (read.download === null) return { report, refusals: [], code: OK }
+  if (read.download === null) return told(report)
   const got = await fetched(isoUrl)
-  if ("refused" in got) return { report, refusals: [got.refused], code: OPERATIONAL }
+  if ("refused" in got) return answering(report, [got.refused], OPERATIONAL)
   const at = resolve(given.root, read.download)
   await writeFile(at, got.bytes)
   report.push(`wrote ${at}`)
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 export async function talosImageBuild(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await registering(read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

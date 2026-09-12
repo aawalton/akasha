@@ -2,12 +2,13 @@ import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { buildNodePatch } from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
@@ -113,19 +114,15 @@ async function applying(read: Named, given: Given): Promise<Answer> {
     name = read.cluster ?? node.cluster
     cluster = getCluster(name)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: INPUT }
+    return mistaking([whyOf(thrown)])
   }
 
   const secretsPath = clusterSecretsSopsPath(name)
   if (!existsSync(secretsPath)) {
-    return {
-      report: [],
-      refusals: [
-        `no cluster secrets are at ${secretsPath}`,
-        `\`${given.calledAs} talos secret-gen ${CLUSTER} ${name}\` writes them, and an apply reads them`,
-      ],
-      code: INPUT,
-    }
+    return mistaking([
+      `no cluster secrets are at ${secretsPath}`,
+      `\`${given.calledAs} talos secret-gen ${CLUSTER} ${name}\` writes them, and an apply reads them`,
+    ])
   }
 
   const report = [`registering the image factory schematic for ${node.id}`]
@@ -194,15 +191,15 @@ async function applying(read: Named, given: Given): Promise<Answer> {
     if (decrypted !== undefined) await rm(dirname(decrypted), { recursive: true, force: true })
     await rm(workDir, { recursive: true, force: true })
   }
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 export async function talosApply(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await applying(read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

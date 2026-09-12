@@ -44,6 +44,10 @@ export const talosBootstrap = {
       statement: "Nothing here says whether the cluster was bootstrapped before.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here undoes a bootstrap.",
     },

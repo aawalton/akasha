@@ -1,11 +1,12 @@
 import { existsSync } from "node:fs"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
@@ -57,31 +58,23 @@ export function readIn(argv: readonly string[]): Read {
 async function bootstrapping(read: Named, given: Given): Promise<Answer> {
   const talosconfig = clusterTalosconfigPath(read.cluster)
   if (!existsSync(talosconfig)) {
-    return {
-      report: [],
-      refusals: [
-        `no talosconfig is at ${talosconfig}`,
-        `\`${given.calledAs} talos apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
-      ],
-      code: INPUT,
-    }
+    return mistaking([
+      `no talosconfig is at ${talosconfig}`,
+      `\`${given.calledAs} talos apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
+    ])
   }
   await runTalosctl({
     args: ["--talosconfig", talosconfig, "bootstrap", "--nodes", read.ip, "--endpoints", read.ip],
   })
-  return {
-    report: [`etcd was bootstrapped on ${read.ip} for ${read.cluster}`],
-    refusals: [],
-    code: OK,
-  }
+  return told([`etcd was bootstrapped on ${read.ip} for ${read.cluster}`])
 }
 
 export async function talosBootstrap(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await bootstrapping(read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }
