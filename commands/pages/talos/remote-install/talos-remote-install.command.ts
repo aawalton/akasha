@@ -7,9 +7,7 @@ export const talosRemoteInstall = {
   definition: "the command replacing the Linux running on a remote node with Talos, over SSH",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--confirm-wipe", takes: "the acknowledgement that the install disk is overwritten" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -105,5 +103,6 @@ export const talosRemoteInstall = {
     { argument: "argument/ssh-user" },
     { argument: "argument/ssh-key" },
     { argument: "argument/method" },
+    { argument: "argument/confirm-wipe", required: true },
   ],
 } as const satisfies Command
