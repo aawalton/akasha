@@ -9,10 +9,6 @@ export const talosRemoteInstall = {
   test: "ts",
   taking: [
     {
-      said: "--ip <ip>",
-      takes: "the address the running host answers at, and answers at as Talos",
-    },
-    {
       said: "--ssh-user <user>",
       takes: "the user to reach the host as, holding sudo without a password",
     },
@@ -112,5 +108,8 @@ export const talosRemoteInstall = {
     },
   ],
   name: "remote-install",
-  arguments: [{ argument: "argument/node", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/node", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/ip" },
+  ],
 } as const satisfies Command

@@ -7,7 +7,6 @@ export const talosHealth = {
   definition: "the command running the talosctl health check over a Talos cluster",
   code: "ts",
   taking: [
-    { said: "--ip <ip>", takes: "the node the health check is asked of" },
     {
       said: "--control-plane-ips <csv>",
       takes: "every etcd member's address, which the membership arm weighs",
@@ -58,5 +57,5 @@ export const talosHealth = {
     },
   ],
   name: "health",
-  arguments: [{ argument: "argument/cluster" }],
+  arguments: [{ argument: "argument/cluster" }, { argument: "argument/ip" }],
 } as const satisfies Command
