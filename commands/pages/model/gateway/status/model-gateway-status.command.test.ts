@@ -1,28 +1,33 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   driftOf,
-  JSON_OUT,
-  readIn,
+  modelGatewayStatus,
   shortOf,
 } from "akasha/commands/pages/model/gateway/status/model-gateway-status.command.code.ts"
 
-function statusRefusals(argv: readonly string[]): readonly string[] {
-  const said = readIn(argv)
-  if ("refused" in said) return said.refused
-  return []
+const CALLED_AS = "akasha model gateway status"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: CALLED_AS,
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
 }
 
-test("a status is handed no seat to name", () => {
-  expect(statusRefusals(["awen"]).join(" ")).toContain("every live seat")
-})
-
-test("a status takes the json flag", () => {
-  const said = readIn([JSON_OUT])
-  expect("refused" in said ? false : said.on.has(JSON_OUT)).toBe(true)
+test("a word naming a seat is refused", () => {
+  const said = modelGatewayStatus(["awen"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe(
+    `\`awen\` is no argument \`${CALLED_AS}\` takes — it takes \`--json\``
+  )
 })
 
 test("a flag a status does not take is refused by name", () => {
-  expect(statusRefusals(["--fleet"]).join(" ")).toContain("--fleet")
+  const said = modelGatewayStatus(["--fleet"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--fleet")
 })
 
 test("a seat holding the version the tree holds is current", () => {

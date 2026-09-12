@@ -1,5 +1,7 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import type { LiveProxySeat } from "akasha/agents/models/gateway/modules/proxy-seats/proxy-seats.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   OPERATIONAL,
   refusedBy,
@@ -8,34 +10,13 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { liveSeats } from "akasha/commands/pages/model/gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
-
-export const JSON_OUT = "--json"
+import { modelGatewayStatus as page } from "akasha/commands/pages/model/gateway/status/model-gateway-status.command.ts"
 
 const SHORT = 12
 
 const NONE = "—"
 
 const LABEL = 8
-
-export type Read = { readonly on: ReadonlySet<string> } | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const on = new Set<string>()
-  for (const one of argv) {
-    if (one === JSON_OUT) {
-      on.add(one)
-      continue
-    }
-    if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag a status takes — it takes \`${JSON_OUT}\``)
-      continue
-    }
-    refusals.push(`\`${one}\` names a seat, and a status reads every live seat`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { on }
-}
 
 type Drift = "current" | "lagging" | "unknown"
 
@@ -53,11 +34,11 @@ function labelOf(seat: LiveProxySeat): string {
   return seat.name ?? seat.agentId.slice(0, LABEL)
 }
 
-function statusing(on: ReadonlySet<string>, report: string[]): Answer {
+function statusing(asJson: boolean, report: string[]): Answer {
   const seats = liveSeats()
   const onDisk = computeModelGatewayTreeVersion()
   const rows = seats.map((seat) => ({ seat, drift: driftOf(seat.runningVersion, onDisk) }))
-  if (on.has(JSON_OUT)) {
+  if (asJson) {
     report.push(
       JSON.stringify({
         ok: true,
@@ -79,12 +60,11 @@ function statusing(on: ReadonlySet<string>, report: string[]): Answer {
 }
 
 export function modelGatewayStatus(argv: readonly string[], given: Given): Answer {
-  void given
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
-    return statusing(read.on, report)
+    return statusing(read.taken.json, report)
   } catch (thrown) {
     return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
