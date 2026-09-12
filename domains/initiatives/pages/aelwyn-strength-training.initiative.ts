@@ -101,6 +101,9 @@ export const aelwynStrengthTraining = {
     {
       statement: "What Alan owns is read from the kit pages rather than written as a constraint.",
     },
+    {
+      statement: "A piece of kit names which equipment tags that piece covers.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
