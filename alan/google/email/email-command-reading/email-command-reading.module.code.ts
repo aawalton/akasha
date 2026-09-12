@@ -13,7 +13,7 @@ import type { Piping } from "akasha/commands/modules/piping/piping.module.code.t
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-export const INPUT = "-"
+export const INPUT_MARK = "-"
 
 export const MESSAGE = "--message"
 
@@ -105,7 +105,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
   for (let at = 0; at < argv.length; at += 1) {
     const token = argv[at]
     if (token === undefined) continue
-    if (!token.startsWith("-") || token === INPUT) {
+    if (!token.startsWith("-") || token === INPUT_MARK) {
       words.push(token)
       continue
     }
@@ -168,7 +168,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
     }
   }
   const piped = (taking.filing ?? [])
-    .filter((filing) => one[filing.file] === INPUT)
+    .filter((filing) => one[filing.file] === INPUT_MARK)
     .map((filing) => filing.file)
   if (piped.length > 1) {
     refusals.push(`${namesDrawn(piped)} each name the input, and one call reads the input once`)
@@ -201,7 +201,7 @@ export async function answeredBy(run: (done: string[]) => Promise<Answer>): Prom
 type Held = { readonly text: string } | { readonly why: string }
 
 function heldAt(root: string, path: string, whole: boolean, piping: Piping): Held {
-  if (path === INPUT) {
+  if (path === INPUT_MARK) {
     const input = piping()
     if ("tty" in input) return { why: "`-` names the input, and nothing is piped in" }
     if ("unreadable" in input) return { why: `the input would not open — ${input.unreadable}` }
