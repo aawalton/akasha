@@ -9,9 +9,8 @@ export const alanFood = {
   test: "ts",
   changeKind: "change-mechanical",
   taking: [
-    { said: "log", takes: "the act, which is to write one food entry" },
     { said: "<title>", takes: "the food's short name, said here or with `--title`" },
-    { said: "--title <name>", takes: "the food's short name, in place of the word after the act" },
+    { said: "--title <name>", takes: "the food's short name, in place of the first word" },
     { said: "--image <path>", takes: "a photo on this machine, published as the entry's cover" },
     { said: "--plant-grams <n>", takes: "grams of whole plants in the food" },
     { said: "--estimated-calories <n>", takes: "the food's estimated total calories" },
@@ -20,7 +19,7 @@ export const alanFood = {
     { said: "--json", takes: "the entry as one JSON object rather than as a row for each field" },
   ],
   helpNotes: [
-    "the act is first and one call names one food.",
+    "one call names one food.",
     "plant grams are the one source of the nutrition points health pillar, at a point a gram, rolled up for the day after each entry.",
     "the entry records the instant it happened at, and which day it counts to is worked out from that instant against when Alan woke.",
     "a date said without a time is read as noon, and a time said without a date is read on today.",
@@ -33,7 +32,7 @@ export const alanFood = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The act is the first word and the food's name is the second.",
+      statement: "The food's name is the first word.",
     },
     {
       invariantKind: "departure",

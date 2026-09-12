@@ -21,8 +21,6 @@ import { asking } from "akasha/pages/service/page-asking/page-asking.module.code
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-export const LOG = "log"
-
 export const TITLE = "--title"
 
 export const IMAGE = "--image"
@@ -36,10 +34,6 @@ export const DATE = "--date"
 export const TIME = "--time"
 
 export const JSON_SAID = "--json"
-
-const ACTS = [LOG]
-
-const ACTS_SAID = ACTS.join("`, `")
 
 const VALUED = new Set([TITLE, IMAGE, PLANT_GRAMS, ESTIMATED_CALORIES, DATE, TIME])
 
@@ -76,7 +70,6 @@ const TS = "ts"
 export type WallClock = { readonly hh: number; readonly mm: number }
 
 export type Logged = {
-  readonly act: string
   readonly title: string
   readonly image: string | undefined
   readonly plantGrams: number | undefined
@@ -142,26 +135,20 @@ export function readIn(argv: readonly string[]): Read {
     }
     words.push(one)
   }
-  const [act, ...rest] = words
-  if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries \`${ACTS_SAID}\``] }
-  }
-  if (!ACTS.includes(act)) {
-    refusals.push(`\`${act}\` is no act this carries — it carries \`${ACTS_SAID}\``)
-  }
-  for (const stray of rest.slice(1)) {
+  const [named, ...rest] = words
+  for (const stray of rest) {
     refusals.push(`\`${stray}\` follows the food's name, and one call names one food`)
   }
   const titleSaid = said.get(TITLE)
-  if (titleSaid !== undefined && rest[0] !== undefined) {
+  if (titleSaid !== undefined && named !== undefined) {
     refusals.push(
-      `the food's name is said once — \`${rest[0]}\` follows the act and \`${TITLE}\` names \`${titleSaid}\``
+      `the food's name is said once — \`${named}\` is the first word and \`${TITLE}\` names \`${titleSaid}\``
     )
   }
-  const title = titleSaid ?? rest[0]
+  const title = titleSaid ?? named
   if (title === undefined || title === "") {
     refusals.push(
-      `the food's name is said as the word after \`${LOG}\` or with \`${TITLE}\`, and neither was said`
+      `the food's name is said as the first word or with \`${TITLE}\`, and neither was said`
     )
   }
   const plantGramsSaid = said.get(PLANT_GRAMS)
@@ -185,7 +172,6 @@ export function readIn(argv: readonly string[]): Read {
   }
   if (refusals.length > 0 || title === undefined) return { refused: refusals }
   return {
-    act,
     title,
     image,
     plantGrams,
@@ -325,7 +311,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
     notLanded.push(step)
     report.push(
       `${step} did not land for food entry ${foodId}: ${whyOf(thrown)}`,
-      `the entry itself is written — saying \`${given.calledAs} ${LOG}\` again would write a ` +
+      `the entry itself is written — saying \`${given.calledAs}\` again would write a ` +
         `second one rather than mend this one. ${after}`
     )
   }
