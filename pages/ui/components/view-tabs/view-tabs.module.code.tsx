@@ -21,7 +21,7 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { CreateViewPopover } from "akasha/pages/ui/components/create-view-popover/create-view-popover.module.code.tsx"
+import { CreateViewPopover } from "akasha/pages/ui/components/modules/create-view-popover/create-view-popover.module.code.tsx"
 import {
   VIEW_FALLBACK_ICON_NAME,
   ViewTabContextMenu,
