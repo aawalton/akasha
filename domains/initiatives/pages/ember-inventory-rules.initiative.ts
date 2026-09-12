@@ -15,7 +15,7 @@ export const emberInventoryRules = {
     {
       statement: "The reading outside the game resolves a destination chain as the addon does.",
       workingMemory:
-        "Item 71779, rule 440d6e66. `resolveDestination` plans a stock rule's chain through `planStockChainVisit`, the planner the addon plans it through, so `explain 71779` answers destination `bank` and label `Stock x10`. `EvalEnv` gained the three eligibility lookups: off the game the ranks and the curse state come from the characters capture, and whether a character can level a morph is unknown. Left: plan routes a chain through items-rules-routing rather than through `resolveDestination`.",
+        "Measured: about a quarter of Alan's distinct item ids read indeterminate offline while the addon decides them all, because `buildCliEvalEnv` hard-codes 16 of 24 resolvers to unknown. `isTraitResearched` and `isCraftingRankBelowCap` cause nearly all of it, so rules 47 `research-by-priority` and 50 `inspire-current` each take nothing offline and rule 60 `equipment-deconstruct` absorbs 514, making the plan's deconstruct line wrong in composition rather than merely short.",
     },
     {
       statement:
