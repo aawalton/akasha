@@ -5,7 +5,7 @@ import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace
 import {
   ROOT,
   SERVICES,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 
 function isDirectory(path: string): boolean {
   return statSync(path, { throwIfNoEntry: false })?.isDirectory() === true

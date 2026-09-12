@@ -5,7 +5,7 @@ import { bunGit } from "akasha/infrastructure/container-image/dockerfiles/built-
 import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-images/ci/ci.built-image.ts"
 import { gfsPromoter } from "akasha/infrastructure/container-image/dockerfiles/built-images/gfs-promoter/gfs-promoter.built-image.ts"
 import { kubectl } from "akasha/infrastructure/container-image/dockerfiles/built-images/kubectl/kubectl.built-image.ts"
-import type { ServiceConfig } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import type { ServiceConfig } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-extensions/dockerfile-extensions.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const ROOT = akashaRoot()

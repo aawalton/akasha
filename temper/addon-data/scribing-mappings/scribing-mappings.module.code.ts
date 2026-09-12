@@ -1,4 +1,4 @@
-import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
 import { grimoires } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { affixScripts } from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import { focusScripts } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"

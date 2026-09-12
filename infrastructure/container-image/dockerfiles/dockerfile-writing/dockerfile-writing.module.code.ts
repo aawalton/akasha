@@ -1,21 +1,21 @@
 import { join } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
-import { generateBunServiceDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-bun-service/dockerfile-bun-service.module.code.ts"
+import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
+import { generateBunServiceDockerfile } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-bun-service/dockerfile-bun-service.module.code.ts"
 import {
   buildPackageNameMap,
   readJson,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-deps/dockerfile-deps.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-deps/dockerfile-deps.module.code.ts"
 import {
   type DockerfileExtensions,
   parseDockerfileExtensions,
   type ServiceConfig,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts"
-import { generateNextjsDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-nextjs/dockerfile-nextjs.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import { generateNextjsDockerfile } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-nextjs/dockerfile-nextjs.module.code.ts"
 import {
   ROOT,
   SERVICES,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
-import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function extensionsOf(config: ServiceConfig): DockerfileExtensions {

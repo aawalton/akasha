@@ -1,4 +1,4 @@
-import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"

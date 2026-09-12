@@ -1,4 +1,4 @@
-import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
 import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 
 export function generateSetCategoryMappings(): string {

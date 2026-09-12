@@ -3,12 +3,12 @@ import { join } from "node:path"
 import type {
   DockerfileExtensions,
   ServiceConfig,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts"
-import { collectExecutedDeps } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-imports/dockerfile-imports.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import { collectExecutedDeps } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-imports/dockerfile-imports.module.code.ts"
 import {
   HEADER,
   ROOT,
-} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 
 export function generateBunServiceDockerfile(
   appName: string,

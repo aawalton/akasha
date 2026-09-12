@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
-import { readJson } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-deps/dockerfile-deps.module.code.ts"
-import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+import { readJson } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-deps/dockerfile-deps.module.code.ts"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { Glob } from "bun"
 

@@ -1,4 +1,4 @@
-import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
 import { mundus } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
 export function generateMundusMappings(): string {
   const indexEntries: string[] = []
