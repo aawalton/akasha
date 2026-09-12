@@ -106,6 +106,7 @@ export const noUnparsedBoundaryRead = {
       invariantKind: "departure",
       statement: "A call to `requireEnv` or `requireGet` or `requireFirst` is an approved parse.",
     },
+    { invariantKind: "departure", statement: "A file named `.test-fixtures.ts` is passed over." },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

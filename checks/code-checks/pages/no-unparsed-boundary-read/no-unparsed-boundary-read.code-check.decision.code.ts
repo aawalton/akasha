@@ -44,6 +44,8 @@ const DECLARATIONS_ENDING = ".d.ts"
 
 const GENERATED_ENDINGS = [".generated.ts", ".generated.tsx"]
 
+const FIXTURES_ENDING = ".test-fixtures.ts"
+
 const EXEMPT_DIRS: ReadonlySet<string> = new Set(["__fixtures__", "generated"])
 
 const SNIPPET_AT_MOST = 120
@@ -368,6 +370,7 @@ function snippetOf(whole: string, source: ts.SourceFile, node: ts.Node): string 
 
 export function isExempt(at: string): boolean {
   if (at.endsWith(DECLARATIONS_ENDING)) return true
+  if (at.endsWith(FIXTURES_ENDING)) return true
   for (const ending of GENERATED_ENDINGS) {
     if (at.endsWith(ending)) return true
   }

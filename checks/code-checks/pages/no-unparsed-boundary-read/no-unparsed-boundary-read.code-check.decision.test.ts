@@ -115,6 +115,11 @@ test("a machine-written file named `.generated.ts` is passed over", () => {
   expect(isExempt("checks/held.generated.tsx")).toBe(true)
 })
 
+test("a fixture file named by its suffix is passed over", () => {
+  expect(reasonsFor("checks/held.test-fixtures.ts", READ_AND_USED)).toEqual([])
+  expect(isExempt("checks/held.test-fixtures.ts")).toBe(true)
+})
+
 test("a path holding neither a named segment nor a named ending is judged", () => {
   expect(isExempt(AT)).toBe(false)
 })
