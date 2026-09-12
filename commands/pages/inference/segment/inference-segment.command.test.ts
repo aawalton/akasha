@@ -52,6 +52,31 @@ test("naming no image is refused", async () => {
   expect(said.refusals[0]).toContain("names the image matted")
 })
 
+test("a second word beside the image is refused", async () => {
+  const said = await inferenceSegment(["a.png", "b.png"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("names the image once")
+})
+
+test("a flag this takes none of is refused, and the flags it takes are named", async () => {
+  const said = await inferenceSegment(["--nonsense"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--nonsense")
+  expect(said.refusals[0]).toContain("--alpha-matting")
+})
+
+test("a timeout that is no whole number is refused", async () => {
+  const said = await inferenceSegment(["--image", "a.png", "--timeout", "soon"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`soon` is not one")
+})
+
+test("a flag nothing follows with a value is refused", async () => {
+  const said = await inferenceSegment(["--image", "a.png", "--flatten"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--flatten")
+})
+
 test("each file is named as soon as that file reaches the disk", async () => {
   const done: string[] = []
   await wroteEach(EVERY, putting(3), done)
