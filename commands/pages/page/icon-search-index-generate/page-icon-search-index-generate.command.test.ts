@@ -1,10 +1,16 @@
 import { expect, test } from "bun:test"
+import {
+  keeping,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   pageIconSearchIndexGenerate,
   type Stageable,
   type Staging,
   stagedSaid,
+  stageSaid,
   wroteStage,
 } from "akasha/commands/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"
 
@@ -24,7 +30,7 @@ function shardOf(slug: string): Stageable {
   }
 }
 
-function keeping(): { readonly staging: Staging; readonly wrote: readonly string[] } {
+function watching(): { readonly staging: Staging; readonly wrote: readonly string[] } {
   const wrote: string[] = []
   return {
     wrote,
@@ -53,7 +59,7 @@ test("a flag with no path after it is refused", async () => {
 
 test("every shard the stage took is named once that shard is whole", () => {
   const done: string[] = []
-  const held = keeping()
+  const held = watching()
   wroteStage("/stage", [shardOf("shard-00"), shardOf("shard-01")], done, held.staging)
   expect(done).toEqual([stagedSaid("shard-00"), stagedSaid("shard-01")])
   expect(held.wrote.length).toBe(4)
@@ -101,7 +107,34 @@ test("a shard only half written is named nowhere", () => {
 
 test("each body reaches the stage under the path it lands at", () => {
   const done: string[] = []
-  const held = keeping()
+  const held = watching()
   wroteStage("/stage", [shardOf("shard-00")], done, held.staging)
   expect(held.wrote[0]).toBe("/stage/held/shard-00/shard-00.module.code.ts")
+})
+
+const STAGE = "/var/tmp/akasha-icon-search-index-stage-aa"
+
+const RELEASE = "the lucide 0.576.0 tarball would not unpack"
+
+test("a refusal returned after the stage was made names the stage rather than nothing", () => {
+  const said = keeping([stageSaid(STAGE)], {
+    report: [],
+    refusals: [RELEASE],
+    code: OPERATIONAL,
+  })
+  expect(said.report).toEqual([stageSaid(STAGE)])
+  expect(said.refusals[0]).toBe(RELEASE)
+  expect(said.refusals[1]).toContain("stopped part way")
+  expect(said.refusals[1]).toContain(STAGE)
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a refusal returned before the stage was made names nothing at all", () => {
+  const said = { report: [], refusals: [RELEASE], code: OPERATIONAL }
+  expect(keeping([], said)).toEqual(said)
+})
+
+test("a run that refused nothing is left as it was, whatever reached the stage", () => {
+  const said = { report: ["1600 icons staged"], refusals: [], code: OK }
+  expect(keeping([stageSaid(STAGE)], said)).toEqual(said)
 })

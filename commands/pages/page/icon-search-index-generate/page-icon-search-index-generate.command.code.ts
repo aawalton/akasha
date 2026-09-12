@@ -12,6 +12,7 @@ import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.ar
 import {
   answering,
   INPUT,
+  keeping,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -207,10 +208,14 @@ export async function pageIconSearchIndexGenerate(
     const scratch = mkdtempSync(join(realpathSync(SCRATCH_UNDER), SCRATCH_PREFIX))
     try {
       const release = await fetched(scratch)
-      if ("why" in release) return { report: [], refusals: [release.why], code: OPERATIONAL }
+      if ("why" in release) {
+        return keeping(done, { report: [], refusals: [release.why], code: OPERATIONAL })
+      }
       const entries = entriesIn(release.icons)
       const held = rendered(entries)
-      if ("refused" in held) return { report: [], refusals: held.refused, code: INPUT }
+      if ("refused" in held) {
+        return keeping(done, { report: [], refusals: held.refused, code: INPUT })
+      }
       const pages = held.pages
 
       const standing = standingIn(root)
