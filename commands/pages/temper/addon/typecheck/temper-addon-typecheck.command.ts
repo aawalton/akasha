@@ -10,14 +10,7 @@ export const temperAddonTypecheck = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "--code-root <path>", takes: "the checkout whose addons are typechecked" }],
-  helpNotes: [
-    "an addon's own compiler settings are the only statement of what it compiles and which game globals it may name.",
-    "the compiler is therefore run once per addon rather than once over the workspace.",
-    "a declaration held by a sibling addon is read by neither the build nor this, so naming it is caught here and nowhere else.",
-    "the addons are taken in canonical-name order and the first one that does not typecheck ends the run.",
-    "an addon whose own files the compile leaves unread is refused, since a clean result there reports on work the compiler never read.",
-    "the whole run is bounded rather than each addon, so a compiler making no progress refuses with the addon it was on.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -54,6 +47,10 @@ export const temperAddonTypecheck = {
     {
       invariantKind: "departure",
       statement: "The whole run is bounded rather than each addon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run passing its ceiling refuses with the addon that run was on.",
     },
     {
       invariantKind: "absence",
