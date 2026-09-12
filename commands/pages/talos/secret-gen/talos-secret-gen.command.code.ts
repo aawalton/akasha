@@ -1,6 +1,11 @@
 import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
@@ -16,10 +21,6 @@ export const FORCE = "--force"
 const VALUED: readonly string[] = [CLUSTER]
 
 const BARE: readonly string[] = [FORCE]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 export type Named = { readonly cluster: string; readonly force: boolean }
 
@@ -91,7 +92,7 @@ async function generating(read: Named): Promise<Answer> {
   return {
     report: [`wrote the SOPS-encrypted secrets to ${destPath}`],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
 
