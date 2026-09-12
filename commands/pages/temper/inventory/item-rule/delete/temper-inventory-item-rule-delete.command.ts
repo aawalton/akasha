@@ -11,11 +11,11 @@ export const temperInventoryItemRuleDelete = {
     { said: "<id>", takes: "the id of the per-item rule taken away" },
     { said: "--force", takes: "take it away even where it is locked" },
   ],
-  helpNotes: [
-    "a locked per-item rule is refused rather than taken away, unless `--force` is said.",
-    "an id no per-item rule carries is refused by that id.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A locked per-item rule is refused unless the call says `--force`.",
+    },
     {
       invariantKind: "departure",
       statement: "An id no per-item rule carries refuses the call.",
