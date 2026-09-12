@@ -27,20 +27,6 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A write carrying part of the answer is followed by a write of the bytes left over.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A destination refusing bytes for now is written to again rather than dropping the bytes left over.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Writing the answer sets no length on the destination beforehand.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The report is printed apart from the refusals.",
     },
     {

@@ -14,5 +14,6 @@ export const utilsFs = {
     "module/read-stdin-or-file",
     "module/text-on-disk",
     "module/text-there",
+    "module/whole-writing",
   ],
 } as const satisfies Domain

@@ -1,5 +1,4 @@
 import { Buffer } from "node:buffer"
-import { writeSync } from "node:fs"
 import { mendedFor } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { unclassified } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -7,6 +6,7 @@ import type { Answer, Outside } from "akasha/commands/modules/calling/calling.mo
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { writtenWhole } from "akasha/utils/fs/whole-writing/whole-writing.module.code.ts"
 
 const CALLED_AS = "akasha"
 
@@ -52,15 +52,7 @@ export async function answering(
 
 export function spilled(fd: number, lines: readonly string[]): undefined {
   if (lines.length === 0) return
-  const bytes = Buffer.from(lines.map((one) => `${one}\n`).join(""))
-  let gone = 0
-  while (gone < bytes.length) {
-    try {
-      gone += writeSync(fd, bytes, gone)
-    } catch (thrown) {
-      if ((thrown as { code?: string }).code !== "EAGAIN") throw thrown
-    }
-  }
+  writtenWhole(fd, Buffer.from(lines.map((one) => `${one}\n`).join("")))
 }
 
 if (import.meta.main) {
