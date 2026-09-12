@@ -27,12 +27,12 @@ import {
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { CompanionListCardWithHandle } from "akasha/temper/web/companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
 import {
   CompanionsFilterBar,
   type SortField,
 } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
 import type { FilterValues } from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"
+import { CompanionListCardWithHandle } from "akasha/temper/web/modules/companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
 import { NewCompanionButton } from "akasha/temper/web/new-companion-button/new-companion-button.module.code.tsx"
 import { NewCompanionPanelCard } from "akasha/temper/web/new-companion-panel-card/new-companion-panel-card.module.code.tsx"
 import type { useFilteredBuilds } from "akasha/temper/web/use-filtered-builds/use-filtered-builds.module.code.ts"

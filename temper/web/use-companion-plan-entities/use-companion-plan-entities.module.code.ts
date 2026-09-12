@@ -1,8 +1,4 @@
 import {
-  type DecodedBuild,
-  getBuildScoreWithAllRolesFallback,
-} from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
-import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
@@ -10,8 +6,12 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionLiveOnlyEntity } from "akasha/temper/web/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
+import {
+  type DecodedBuild,
+  getBuildScoreWithAllRolesFallback,
+} from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionPlanEntity } from "akasha/temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"
+import type { CompanionLiveOnlyEntity } from "akasha/temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
 import { useMemo } from "react"
 
 interface RawBuild {

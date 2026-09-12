@@ -1,4 +1,3 @@
-import { activateLightAttack } from "akasha/temper/companions-core/companion-light-attack/companion-light-attack.module.code.ts"
 import {
   type CompanionMetricValue,
   companionMetrics,
@@ -16,6 +15,7 @@ import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { activateLightAttack } from "akasha/temper/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"
 import type {
   HealthSamples,
   RotationConfig,

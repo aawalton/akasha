@@ -18,18 +18,18 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import type { ComboRankingsMap } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import {
-  type CompanionLiveOnlyEntity,
-  CompanionLiveOnlyPanelCard,
-} from "akasha/temper/web/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
+import type { ComboRankingsMap } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import {
   CompanionEntityPanelCard,
   type CompanionPlanEntity,
 } from "akasha/temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"
+import {
+  type CompanionLiveOnlyEntity,
+  CompanionLiveOnlyPanelCard,
+} from "akasha/temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
 import { Gamepad2 } from "lucide-react"
 import { useMemo } from "react"
 
