@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { answeredBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
+import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
 
 test("the lines gathered are the report, with nothing refused", () => {
-  const said = answeredBy(() => ["one", "two"])
+  const said = reportedBy(() => ["one", "two"])
 
   expect(said.code).toBe(OK)
   expect(said.report).toEqual(["one", "two"])
@@ -11,7 +11,7 @@ test("the lines gathered are the report, with nothing refused", () => {
 })
 
 test("a thrown reason comes back as a refusal carrying that reason", () => {
-  const said = answeredBy(() => {
+  const said = reportedBy(() => {
     throw new Error("nothing was there")
   })
 
@@ -20,7 +20,7 @@ test("a thrown reason comes back as a refusal carrying that reason", () => {
 })
 
 test("gathering nothing answers an empty report rather than refusing", () => {
-  const said = answeredBy(() => [])
+  const said = reportedBy(() => [])
 
   expect(said.code).toBe(OK)
   expect(said.report).toEqual([])

@@ -7,11 +7,11 @@ import { top } from "akasha/commands/arguments/pages/top.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { halsteadLines } from "akasha/commands/modules/complexity-rowing/complexity-rowing.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { answeredBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
+import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
 import { measureComplexityHalstead as page } from "akasha/commands/pages/measure/complexity/halstead/measure-complexity-halstead.command.ts"
 
 export function measureComplexityHalstead(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [json, filePath, top, threshold])
   if ("refused" in read) return mistaking(read.refused)
-  return answeredBy(() => halsteadLines(read.taken, resolve(given.root)))
+  return reportedBy(() => halsteadLines(read.taken, resolve(given.root)))
 }

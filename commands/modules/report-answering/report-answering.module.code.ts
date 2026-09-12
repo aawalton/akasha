@@ -6,7 +6,7 @@ import {
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
-export function answeredBy(lines: () => readonly string[]): Answer {
+export function reportedBy(lines: () => readonly string[]): Answer {
   try {
     return told(lines())
   } catch (thrown) {

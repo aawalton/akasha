@@ -5,12 +5,12 @@ import {
   summaryOf,
   type Wanted,
 } from "akasha/commands/modules/complexity-rowing/complexity-rowing.module.code.ts"
-import { answeredBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
+import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
 
 const OWN = join(import.meta.dir, "complexity-rowing.module.code.ts")
 
 function rows(wanted: Wanted): readonly string[] {
-  return answeredBy(() => cyclomaticLines(wanted, "/repo")).report
+  return reportedBy(() => cyclomaticLines(wanted, "/repo")).report
 }
 
 test("a run over one file answers a row for each of its functions", () => {
