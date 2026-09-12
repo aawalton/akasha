@@ -1,15 +1,3 @@
-import {
-  moveToPrecedingTemp as moveToPrecedingTempImpl,
-  shouldMoveToTemp as shouldMoveToTempImpl,
-  transformArguments as transformArgumentsImpl,
-  transformCallAndArguments as transformCallAndArgumentsImpl,
-  transformExpressionList as transformExpressionListImpl,
-  transformOrderedExpressions as transformOrderedExpressionsImpl,
-} from "akasha/design/language/lua-compiler/context-dispatch-helpers/context-dispatch-helpers.module.code.ts"
-import {
-  assertAllStatements,
-  assertIsExpression,
-} from "akasha/design/language/lua-compiler/context-lua-node-assertions/context-lua-node-assertions.module.code.ts"
 import { createTempNames } from "akasha/design/language/lua-compiler/context-temp-names/context-temp-names.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type {
@@ -27,6 +15,18 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-exp
 import type * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import type { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
+import {
+  moveToPrecedingTemp as moveToPrecedingTempImpl,
+  shouldMoveToTemp as shouldMoveToTempImpl,
+  transformArguments as transformArgumentsImpl,
+  transformCallAndArguments as transformCallAndArgumentsImpl,
+  transformExpressionList as transformExpressionListImpl,
+  transformOrderedExpressions as transformOrderedExpressionsImpl,
+} from "akasha/design/language/lua-compiler/modules/context-dispatch-helpers/context-dispatch-helpers.module.code.ts"
+import {
+  assertAllStatements,
+  assertIsExpression,
+} from "akasha/design/language/lua-compiler/modules/context-lua-node-assertions/context-lua-node-assertions.module.code.ts"
 import type {
   Scope,
   ScopeType,

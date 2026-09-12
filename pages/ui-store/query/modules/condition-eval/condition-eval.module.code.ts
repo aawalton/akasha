@@ -2,7 +2,7 @@ import {
   isPromotedKey,
   PROMOTED_COLUMN,
 } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
-import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
+import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/modules/content-tier/content-tier.module.code.ts"
 import {
   asPageRecord,
   asRecord,

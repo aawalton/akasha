@@ -10,7 +10,7 @@ import {
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { bodyPropertyIsContentTier } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
+import { bodyPropertyIsContentTier } from "akasha/pages/core/schema/modules/content-tier/content-tier.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import {
