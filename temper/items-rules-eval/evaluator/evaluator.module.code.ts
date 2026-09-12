@@ -20,6 +20,7 @@ export function evaluateRule(
 ): RuleEvalResult {
   const baseResult = {
     index,
+    ruleId: rule.id,
     categoryId: rule.categoryId,
     action: rule.action,
     destination: rule.destination,

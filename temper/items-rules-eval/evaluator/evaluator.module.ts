@@ -24,5 +24,9 @@ export const evaluator = {
       invariantKind: "departure",
       statement: "Every rule is evaluated even after the first match is found.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A rule's result names the rule the result is of.",
+    },
   ],
 } as const satisfies Module
