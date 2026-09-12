@@ -14,10 +14,7 @@ export const temperCommunityAddonList = {
     { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
     { said: "--json", takes: "give the listing as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "the newest version comes from the community site, so a network that will not answer refuses the call.",
-    "a folder the deploy pipeline owns is not a third-party addon and is left out.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
