@@ -114,8 +114,8 @@ export const initiativeWorkTree = {
   ],
   name: "work-tree",
   arguments: [
-    { argument: "argument/json" },
-    { argument: "argument/counts", notWith: ["argument/colors"] },
-    { argument: "argument/colors", notWith: ["argument/counts"] },
+    { argument: "argument/json", notWith: ["argument/counts", "argument/colors"] },
+    { argument: "argument/counts", notWith: ["argument/json", "argument/colors"] },
+    { argument: "argument/colors", notWith: ["argument/json", "argument/counts"] },
   ],
 } as const satisfies Command
