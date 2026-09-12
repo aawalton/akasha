@@ -5,7 +5,7 @@ export const change = {
   type: "domain",
   slug: "change",
   definition: "how a change to the repository is worked out and reached by name",
-  parts: ["page-type/change", "page-type/thrown"],
+  parts: ["page-type/change"],
   directives: [
     {
       directiveKind: "rule",
