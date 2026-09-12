@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` is the one reader, and the check's three blind spots are mended: module code under `commands/pages`, a call followed one file on, a dynamic `await import()`. It refuses 15 over three commands at `9b56121c79b`, still `experimental`. The flip is measured safe: the change phase judges only paths a change carries, and no closure of 176 slugs holds those three, so only `alan tracking` blocks it. `parse-args` is outside it, last called by Alan's `sr`, whose runs retiring it changes.\n",
+        "`takenFor` is the one reader, and the check's three blind spots are mended: module code under `commands/pages`, a call followed one file on, a dynamic `await import()`. It refuses 15 over three commands at `9b56121c79b`, still `experimental`. The flip is measured safe: the change phase judges only paths a change carries, and no closure of 176 slugs holds those three, so only `alan tracking` blocks it. `parse-args` has one importer, `seat-resume`, which `sr` reaches by a flag. Alan's.\n",
     },
     {
       statement:
