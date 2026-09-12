@@ -16,11 +16,6 @@ export const temperWatcherLogs = {
     { said: "--json", takes: "give one object holding every line rather than one object per line" },
     { said: "--log-dir <path>", takes: "the directory the watcher's logs are read from" },
   ],
-  helpNotes: [
-    "the watcher's own log and the tray's log are merged into one run newest first.",
-    "each record carries when it was written, what it said, which log it came from, and its level.",
-    "a duration whose unit this does not carry is refused by name.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,7 +27,7 @@ export const temperWatcherLogs = {
     },
     {
       invariantKind: "departure",
-      statement: "Each record names the log the record came from.",
+      statement: "Each record names its time, its text, the log it came from and its level.",
     },
     {
       invariantKind: "departure",
