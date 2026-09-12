@@ -6,10 +6,7 @@ export const temperCatalogInvalidate = {
   slug: "temper-catalog-invalidate",
   definition: "the command telling the catalog addon to collect the named domains again",
   code: "ts",
-  taking: [
-    { said: "--domain <name>", takes: "a catalog domain to collect again, said once per domain" },
-    { said: "--all", takes: "collect every catalog domain again" },
-  ],
+  taking: [{ said: "--all", takes: "collect every catalog domain again" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,5 +30,9 @@ export const temperCatalogInvalidate = {
     },
   ],
   name: "invalidate",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/side-file" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/side-file" },
+    { argument: "argument/domain" },
+  ],
 } as const satisfies Command
