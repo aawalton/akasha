@@ -41,6 +41,8 @@ const PAGE = "one/held.service-workstation.ts"
 
 const RELOADED = ["daemon-reload"]
 
+const STARTED = "try-restart"
+
 const REACHES = "one/held.module.code.ts"
 
 const UNREACHED = "node:fs"
@@ -160,7 +162,7 @@ test("a changed ExecStart starts the service again and names the field that did 
   expect(startsFor).toEqual(["ExecStart"])
   expect(said.wrong).toEqual([])
   expect(said.said.join("")).toContain(`started ${UNIT} again — \`ExecStart\` changed`)
-  expect(calls).toEqual([RELOADED, ["restart", UNIT]])
+  expect(calls).toEqual([RELOADED, [STARTED, UNIT]])
 })
 
 test("a changed Environment or WorkingDirectory starts the service again", () => {
@@ -244,7 +246,7 @@ test("systemd that cannot be reached is said as wrong and starts nothing again",
 
 test("a restart that refuses is said as wrong and the rest are still asked for", () => {
   const home = homeWith({ [UNIT]: WAS, [TIMER]: TICKS })
-  const { calls, run } = taking({ [`restart ${UNIT}`]: 1 })
+  const { calls, run } = taking({ [`${STARTED} ${UNIT}`]: 1 })
   const drifts: readonly Drift[] = [
     { unit: UNIT, page: PAGE, text: `${WAS}X=1\n`, startsFor: ["ExecStart"] },
     { unit: TIMER, page: PAGE, text: without(TICKS, "hourly", "daily"), startsFor: ["OnCalendar"] },
@@ -254,7 +256,7 @@ test("a restart that refuses is said as wrong and the rest are still asked for",
 
   expect(said.wrong.join("")).toContain(`${UNIT} runs as it did`)
   expect(said.said.join("")).toContain(`armed ${TIMER} again — \`OnCalendar\` changed`)
-  expect(calls).toEqual([RELOADED, ["restart", UNIT], ["restart", TIMER]])
+  expect(calls).toEqual([RELOADED, [STARTED, UNIT], [STARTED, TIMER]])
 })
 
 test("a reload that refuses leaves the units written and starts nothing again", () => {
@@ -277,7 +279,7 @@ test("a file a service reaches starts it again with no unit written and no reloa
 
   expect(said.wrong).toEqual([])
   expect(said.said).toEqual([`started ${UNIT} again — the code it runs changed at \`${REACHES}\``])
-  expect(calls).toEqual([["restart", UNIT]])
+  expect(calls).toEqual([[STARTED, UNIT]])
 })
 
 test("a service a field and a file both started again is said to have both reasons", () => {

@@ -85,6 +85,16 @@ export const unitLanding = {
     {
       invariantKind: "departure",
       statement:
+        "A service that is not running is started again by nothing, since it is not running.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What starts a service that is stopped is the deploy naming the kind, not a landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A scheduled service's own unit starts nothing again, because its next tick reads it as it is.",
     },
     {

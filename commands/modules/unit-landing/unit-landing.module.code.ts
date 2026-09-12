@@ -47,7 +47,7 @@ const A_UNIT = "unit"
 
 const RELOAD: readonly string[] = ["daemon-reload"]
 
-const RESTART = "restart"
+const RESTART = "try-restart"
 
 const AND = " and "
 
