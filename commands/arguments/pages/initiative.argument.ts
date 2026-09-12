@@ -5,7 +5,7 @@ export const initiative = {
   type: "argument",
   slug: "initiative",
   said: "--initiative",
-  takes: "the initiative acted on, named by the slug that initiative declares",
+  takes: "an initiative, named by the slug that initiative declares",
   value: "text",
   placeholder: "initiative",
 } as const satisfies Argument
