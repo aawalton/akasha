@@ -10,13 +10,11 @@ export const mobileSimTeardown = {
   taking: [
     { said: "--stop-appium", takes: "stop the mac's Appium server as well as ending the session" },
   ],
-  helpNotes: [
-    "the Appium server is left running by default, since something driving the simulator by hand may be using it.",
-    "a session Appium has already dropped is forgotten here rather than treated as a failure.",
-    "no session there is nothing to end rather than a refusal.",
-    "the simulator itself is left booted, and `mobile sim boot` finds it again.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "No session there is nothing to end rather than a refusal.",
+    },
     {
       invariantKind: "departure",
       statement: "The Appium server is left running unless stopping that server is asked for.",
