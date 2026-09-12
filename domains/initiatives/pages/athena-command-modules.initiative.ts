@@ -85,6 +85,12 @@ export const athenaCommandModules = {
       workingMemory:
         "`refusalIn` at `block-combined-akasha-calls.agent-hook.code.ts:158-161` answers one static body from `:30` whatever the command was, so a pipe, a loop, a redirect, a substitution, an `&&` and a semicolon all meet the same wall and none is named. The auditor read it after a semicolon and reached the wrong conclusion about which part was barred. `block-akasha-reads.agent-hook.code.ts:47,51` is the shape: it fills the path in and spells the call to run instead.\n",
     },
+    {
+      statement:
+        "A refusal over a misspelled name points at the nearest name, worked out in one place.",
+      workingMemory:
+        "`change-running.module.code.ts:362,377` answers the whole act list with no nearest match. `parse-args.module.code.ts:88-93` already answers `did you mean`, through `suggestClosest` at `temper/build-deploy-checks/suggest-closest/`, whose other reader is `cli-args`. That module is a nearest-word matcher rather than a build check, so it moves, and one place answers the nearest name for every command rather than each command reaching for it itself.\n",
+    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
