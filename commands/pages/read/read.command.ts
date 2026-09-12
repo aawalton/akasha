@@ -9,7 +9,7 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/long-body", "module/differing", "module/output-reaching"],
+  parts: ["module/long-body", "module/differing", "module/output-reaching", "module/body-owing"],
   taking: [{ said: "--full", takes: "the whole body, whatever your record holds" }],
   invariants: [
     {
@@ -187,6 +187,11 @@ export const read = {
     {
       invariantKind: "absence",
       statement: "A read naming a file hands back that file and no file that file warrants.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file left over whose body the record already holds is neither counted nor named.",
     },
   ],
   name: "read",

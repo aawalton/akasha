@@ -21,6 +21,7 @@ import {
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { owing } from "akasha/commands/pages/read/body-owing/body-owing.module.code.ts"
 import {
   bodyRead,
   differenceOf,
@@ -381,7 +382,8 @@ export function readWith(
       })
     }
   }
-  report.push(...restCall(given.calledAs, left, bare))
+  const owed = meant.full ? left : owing(given.root, agentId, left)
+  report.push(...restCall(given.calledAs, owed, bare))
   return answeredWith(report, refusals, mistaken ? INPUT : failed ? OPERATIONAL : OK)
 }
 
