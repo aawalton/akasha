@@ -14,20 +14,20 @@ export const inferenceSegment = {
     { said: "--model <name>", takes: "the rembg session the matte is cut with" },
     { said: "--cutout", takes: "also write the foreground on transparency" },
     { said: "--cutout-out <path>", takes: "where that cutout is written" },
-    { said: "--flatten <color>", takes: "also write the foreground on a solid color" },
+    {
+      said: "--flatten <color>",
+      takes:
+        "also write the foreground on a solid color, said `#RRGGBB` or as numbers parted by commas",
+    },
     { said: "--flatten-out <path>", takes: "where that flattened image is written" },
     { said: "--alpha-matting", takes: "refine the matte's edges, which costs more" },
     { said: "--timeout <s>", takes: "how many seconds the wait on the pool runs for" },
   ],
-  helpNotes: [
-    "the image is said without a flag or as `--image`, and one call names one image.",
-    "the matte is always written, and the cutout and the flatten are written beside it only when asked.",
-    "a path nothing named sits beside the matte, under the matte's own name and a suffix.",
-    "a color is said as a hex triple or as three numbers separated by commas.",
-    "the timeout counts the cop's swap and the cold model load as well as the cut.",
-    "one run row is filed for the call rather than one for each image written.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "One call names one image.",
+    },
     {
       invariantKind: "departure",
       statement: "The matte is written on every call that finishes.",
