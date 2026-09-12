@@ -1,0 +1,12 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const whichChecksSeeAMechanicalLandingDependsOnWhenItArrivesInTheAuditWindow = {
+  id: "01a09579-3bad-7a65-8b31-a694cb720585",
+  type: "finding",
+  slug: "which-checks-see-a-mechanical-landing-depends-on-when-it-arrives-in-the-audit-window",
+  domain: "domain/check",
+  claim:
+    "The audit is what judges a mechanical landing, and which of its checks see that landing depends on when the landing arrives inside the audit's own window.",
+  evidence:
+    "`change-mechanical` states `runsChecks: false` and carries the gap `A fault a mechanical change lands is found by the audit`, so the audit is the whole of the compensating control. It is a moving read over a tree other agents are landing into, and a landing that arrives part way through is seen by the checks that have not yet read and missed by the checks that already have.\n\nMeasured on one landing. `b9055bc3376` landed five `.d.ts` at `temper/addons/types/eso/generated/` at 2026-09-12T11:22:00Z. The audit that reported them measured between 11:20:25Z and 11:27:16Z, so the landing arrived 95 seconds into a 411-second window. That audit reported 10,680 `typecheck` refusals, zero from `global-declared-once` and zero from `file-has-its-page`.\n\nBoth of those checks do refuse these files. Run at HEAD with the five bodies restored, the audit variant of `global-declared-once` returns 5,198 refusals naming them and the audit variant of `file-has-its-page` returns 5. The check-on-change variants return the same 5,198 and 5. They reported nothing only because they had already read the tree when the files arrived.\n\nThe cost is in which check survives the race. `global-declared-once` names the cause in one line — `` `ActionBarSlotType` is declared at temper/eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts:1 and at temper/addons/types/eso/generated/enums.d.ts:8 `` — and `file-has-its-page` names it in five. `typecheck` names it in 10,680, of which about 380 are consequences in addon modules rather than the fault, because a redeclared name stops being typechecked wherever it is read. The two cheap answers were the ones lost, and the expensive one was the only signal the swarm got.\n\nThe same window explains three more refusals in that audit that are not faults: two `index-is-level-with-the-pages` and one `lint-clean`, all naming paths that the page moves at 04:47:38 and 05:08:22 local were shifting while the audit read.",
+} as const satisfies Finding
