@@ -3,17 +3,20 @@ import {
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
 import { VIEW_ID } from "akasha/code/editor/extension/work-tree-ids/work-tree-ids.module.code.ts"
+import { initiativeHandIntent } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
+import { initiativeMoveIntent } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type * as vscode from "vscode"
 
 export const DRAG_MIME = `application/vnd.code.tree.${VIEW_ID.toLowerCase()}`
 
-const MOVE_SLUG = "initiative-move-intent"
+const MOVE_SLUG = initiativeMoveIntent.slug
 
-const MOVE_EXPORT = "initiativeMoveIntent"
+const MOVE_EXPORT = exportedAs(MOVE_SLUG)
 
-const HAND_SLUG = "initiative-hand-intent"
+const HAND_SLUG = initiativeHandIntent.slug
 
-const HAND_EXPORT = "initiativeHandIntent"
+const HAND_EXPORT = exportedAs(HAND_SLUG)
 
 const INTENT_MARK = "#"
 

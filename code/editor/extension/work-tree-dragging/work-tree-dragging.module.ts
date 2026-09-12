@@ -90,6 +90,10 @@ export const workTreeDragging = {
       statement: "The harness call is handed in rather than imported.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each command asked is named by reading the slug off that command's own page.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes the initiative's page.",
     },
