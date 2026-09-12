@@ -115,7 +115,9 @@ test("a value named twice is refused rather than chosen between", () => {
 })
 
 test("a flag taking a value and given none is refused", () => {
-  expect(taken(["--path"])).toEqual({ refused: expect.stringContaining("names none after it") })
+  expect(taken(["--file-path"])).toEqual({
+    refused: expect.stringContaining("names none after it"),
+  })
   expect(taken(["--since", "--dry-run"])).toEqual({
     refused: expect.stringContaining("names none after it"),
   })
@@ -132,8 +134,8 @@ test("a call naming nothing takes the whole history a thousand readings at a tim
 })
 
 test("a value is read whether it follows its flag or is joined to it", () => {
-  expect(held([`--path=${SOURCE}`]).path).toBe(SOURCE)
-  expect(held(["--path", SOURCE]).path).toBe(SOURCE)
+  expect(held([`--file-path=${SOURCE}`]).path).toBe(SOURCE)
+  expect(held(["--file-path", SOURCE]).path).toBe(SOURCE)
 })
 
 test("an export the macbook does not hold is refused as the data's fault", async () => {

@@ -26,7 +26,7 @@ export const HEALTH = "health"
 
 const CALLED = "akasha track health import"
 
-const PATH = "--path"
+const FILE_PATH = "--file-path"
 
 const SINCE = "--since"
 
@@ -36,7 +36,7 @@ const DRY_RUN = "--dry-run"
 
 const RESTART = "--restart"
 
-const VALUED = [PATH, SINCE, BATCH]
+const VALUED = [FILE_PATH, SINCE, BATCH]
 
 const BARE = [DRY_RUN, RESTART]
 
@@ -45,7 +45,7 @@ const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
 const NO_EXPORT =
   "no Apple Health export is on this workstation or on the macbook. On your iPhone, open Health, " +
   "tap your profile photo, then Export All Health Data, and put the zip in `~/Downloads` on either " +
-  "machine — or name one with `--path`."
+  "machine — or name one with `--file-path`."
 
 const TAKEN_UP =
   "what already landed is written, and a call made again takes the run up where it ended unless `--restart` is said"
@@ -112,7 +112,7 @@ export function taken(argv: readonly string[]): Reading {
     }
   }
   return {
-    path: held.get(PATH),
+    path: held.get(FILE_PATH),
     since: since ?? NO_LOWER_BOUND,
     batch,
     dryRun: bare.has(DRY_RUN),

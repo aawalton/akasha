@@ -11,7 +11,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 
 const DATA = 2
 
-const PATH_FLAG = "--path"
+const FILE_PATH_FLAG = "--file-path"
 
 const JSON_FLAG = "--json"
 
@@ -89,7 +89,7 @@ function linesOf(entry: TraceEntry): readonly string[] {
 }
 
 export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
-  const tracePath = saidFor(argv, PATH_FLAG) ?? savedVarsFile(CAPTURE_FILE)
+  const tracePath = saidFor(argv, FILE_PATH_FLAG) ?? savedVarsFile(CAPTURE_FILE)
 
   let content: string
   try {

@@ -11,11 +11,11 @@ import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code
 
 export const DAYS = "--days"
 
-export const PATH = "--path"
+export const FILE_PATH = "--file-path"
 
 export const JSON_SAID = "--json"
 
-const VALUED = new Set([DAYS, PATH])
+const VALUED = new Set([DAYS, FILE_PATH])
 
 const DEFAULT_DAYS = 14
 
@@ -51,7 +51,7 @@ export function readIn(argv: readonly string[]): Read {
       continue
     }
     refusals.push(
-      `\`${one}\` is no word this takes — it takes \`${DAYS}\`, \`${PATH}\` and \`${JSON_SAID}\``
+      `\`${one}\` is no word this takes — it takes \`${DAYS}\`, \`${FILE_PATH}\` and \`${JSON_SAID}\``
     )
   }
   let days = DEFAULT_DAYS
@@ -65,7 +65,7 @@ export function readIn(argv: readonly string[]): Read {
     }
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { days, path: said.get(PATH), json }
+  return { days, path: said.get(FILE_PATH), json }
 }
 
 export function sinceDay(days: number, nowMs: number): string {
@@ -87,7 +87,7 @@ export async function alanElaine(argv: readonly string[], given: Given): Promise
     if (exported.sourceFile === null) {
       return refused(
         "no Apple Health export is on the macbook — export all health data from the iPhone's " +
-          `Health app and drop the zip in the macbook's downloads, or name one with \`${PATH}\``,
+          `Health app and drop the zip in the macbook's downloads, or name one with \`${FILE_PATH}\``,
         2
       )
     }

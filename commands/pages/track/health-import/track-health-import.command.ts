@@ -10,7 +10,7 @@ export const trackHealthImport = {
   changeKind: "change-none",
   taking: [
     {
-      said: "--path <file>",
+      said: "--file-path <path>",
       takes: "the export to read, in place of the newest export the machine holds",
     },
     { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },

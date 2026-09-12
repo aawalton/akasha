@@ -14,7 +14,7 @@ export const alanElaine = {
       takes: "how many days back the trailing window reaches, fourteen where none is said",
     },
     {
-      said: "--path <file>",
+      said: "--file-path <path>",
       takes: "the macbook path to an export zip or an unpacked export.xml, in place of the scan",
     },
     { said: "--json", takes: "the snapshot as one JSON object rather than as formatted lines" },

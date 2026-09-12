@@ -44,7 +44,7 @@ test("a window that is no integer is refused", () => {
 })
 
 test("a path and the json flag are read off the words", () => {
-  const said = readIn(["--path", "~/Downloads/export.zip", "--json"])
+  const said = readIn(["--file-path", "~/Downloads/export.zip", "--json"])
   expect("refused" in said).toBe(false)
   if ("refused" in said) return
   expect(said.path).toBe("~/Downloads/export.zip")
