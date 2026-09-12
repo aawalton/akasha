@@ -13,10 +13,6 @@ export const browserTestStorageState = {
       said: "--sign-in-path <path>",
       takes: "the path the form is at, `/sign-in` where none is said",
     },
-    {
-      said: "--output <path>",
-      takes: "where the storage state is written, the registry's where none is said",
-    },
   ],
   invariants: [
     {
@@ -59,4 +55,5 @@ export const browserTestStorageState = {
     },
   ],
   name: "test-storage-state",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

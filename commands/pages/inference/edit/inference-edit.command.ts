@@ -14,7 +14,6 @@ export const inferenceEdit = {
       said: "--prompt-file <path>",
       takes: "that instruction read from a path, or `-` for standard input",
     },
-    { said: "--output <path>", takes: "where the image is written" },
     { said: "--engine <name>", takes: "the engine the edit goes through" },
     { said: "--aspect-ratio <ratio>", takes: "the shape the output is fixed to" },
     { said: "--size <1K|2K|4K>", takes: "the size the output is fixed to" },
@@ -56,4 +55,5 @@ export const inferenceEdit = {
     },
   ],
   name: "edit",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

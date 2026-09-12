@@ -12,7 +12,6 @@ export const inferenceGenerate = {
       said: "--prompt-file <path>",
       takes: "that prompt read from a path, or `-` for standard input",
     },
-    { said: "--output <path>", takes: "where the PNG is written" },
     { said: "--size <WxH>", takes: "how wide and how tall the image is rendered" },
     { said: "--seed <n>", takes: "the sampler seed" },
     { said: "--guidance <n>", takes: "how far the sampler is pushed toward the prompt" },
@@ -57,4 +56,5 @@ export const inferenceGenerate = {
     },
   ],
   name: "generate",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

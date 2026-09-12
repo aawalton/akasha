@@ -6,13 +6,7 @@ export const mobileSimScreenshot = {
   slug: "mobile-sim-screenshot",
   definition: "the command taking a picture of the simulator screen and saying where it was put",
   code: "ts",
-  taking: [
-    {
-      said: "--output <path>",
-      takes:
-        "where to put the picture, a file named for this moment in the temp folder where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -41,4 +35,5 @@ export const mobileSimScreenshot = {
     },
   ],
   name: "screenshot",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

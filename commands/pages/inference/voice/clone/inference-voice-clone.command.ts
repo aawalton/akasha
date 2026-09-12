@@ -15,7 +15,6 @@ export const inferenceVoiceClone = {
       said: "--ref-text-file <path>",
       takes: "that transcript read from a path, or `-` for standard input",
     },
-    { said: "--output <path.wav>", takes: "where the WAV is written" },
     { said: "--priority <lane>", takes: "which lane of the traffic cop the request waits in" },
     { said: "--timeout <s>", takes: "how many seconds the wait on the pool runs for" },
     {
@@ -52,4 +51,5 @@ export const inferenceVoiceClone = {
     },
   ],
   name: "clone",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

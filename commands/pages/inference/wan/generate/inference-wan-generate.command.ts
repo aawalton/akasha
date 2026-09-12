@@ -22,7 +22,6 @@ export const inferenceWanGenerate = {
     { said: "--lightning", takes: "the four-step Lightning pair, which drops guidance to one" },
     { said: "--size <WxH>", takes: "the dimensions the clip is rendered at" },
     { said: "--frames <n>", takes: "the clip's length in frames" },
-    { said: "--output <path>", takes: "where the mp4 is written" },
     { said: "--timeout <s>", takes: "how many seconds the wait on ComfyUI runs for" },
   ],
   invariants: [
@@ -56,4 +55,5 @@ export const inferenceWanGenerate = {
     },
   ],
   name: "generate",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

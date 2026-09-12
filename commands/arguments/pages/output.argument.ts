@@ -5,7 +5,7 @@ export const output = {
   type: "argument",
   slug: "output",
   said: "--output",
-  takes: "the file written to rather than reporting the answer",
+  takes: "where what this command makes is written",
   value: "path",
   placeholder: "path",
 } as const satisfies Argument

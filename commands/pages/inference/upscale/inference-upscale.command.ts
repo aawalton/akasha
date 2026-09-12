@@ -10,7 +10,6 @@ export const inferenceUpscale = {
     { said: "<image>", takes: "the image remade, said without a flag" },
     { said: "--image <path>", takes: "that image said as a flag instead" },
     { said: "--host <where>", takes: "which GPU the work runs on" },
-    { said: "--output <path>", takes: "where the remade image is written" },
     { said: "--resolution <px>", takes: "how many pixels the shortest edge is remade at" },
     { said: "--seed <n>", takes: "the sampler seed" },
     { said: "--no-persist", takes: "leave the image where it was written and file no page for it" },
@@ -51,4 +50,5 @@ export const inferenceUpscale = {
     },
   ],
   name: "upscale",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command

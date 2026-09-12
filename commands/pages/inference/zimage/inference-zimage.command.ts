@@ -15,7 +15,6 @@ export const inferenceZimage = {
       said: "--negative-prompt-file <path>",
       takes: "that steering read from a path, or `-` for stdin",
     },
-    { said: "--output <path>", takes: "where the PNG is written" },
     { said: "--model <id>", takes: "the registered checkpoint the render goes through" },
     { said: "--base-model <name>", takes: "the selector mflux takes here, which is passed over" },
     { said: "--width <n>", takes: "how wide the image is rendered" },
@@ -88,4 +87,5 @@ export const inferenceZimage = {
     },
   ],
   name: "zimage",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command
