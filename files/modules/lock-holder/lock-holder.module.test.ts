@@ -7,7 +7,7 @@ import {
   markIn,
   startedAt,
 } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const UNKNOWN = "-"
 

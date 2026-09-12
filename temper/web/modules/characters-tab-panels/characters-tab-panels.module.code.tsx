@@ -21,7 +21,7 @@ import { PackUpgradesPanelCard } from "akasha/temper/web/modules/pack-upgrades-p
 import { PoiProgressPanelCard } from "akasha/temper/web/modules/poi-progress-panel-card/poi-progress-panel-card.module.code.tsx"
 import { QuestProgressPanelCard } from "akasha/temper/web/modules/quest-progress-panel-card/quest-progress-panel-card.module.code.tsx"
 import { RecipesProgressPanelCard } from "akasha/temper/web/modules/recipes-progress-panel-card/recipes-progress-panel-card.module.code.tsx"
-import { ScribingKnowledgeProgressPanelCard } from "akasha/temper/web/scribing-knowledge-progress-panel-card/scribing-knowledge-progress-panel-card.module.code.tsx"
+import { ScribingKnowledgeProgressPanelCard } from "akasha/temper/web/modules/scribing-knowledge-progress-panel-card/scribing-knowledge-progress-panel-card.module.code.tsx"
 import { SkillLinesProgressPanelCard } from "akasha/temper/web/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"
 import { SkillPointsProgressPanelCard } from "akasha/temper/web/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx"
 import { TraitResearchProgressPanelCard } from "akasha/temper/web/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"

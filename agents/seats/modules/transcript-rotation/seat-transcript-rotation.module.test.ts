@@ -7,7 +7,7 @@ import {
   SETTLED_MS,
   type TranscriptCandidate,
 } from "akasha/agents/seats/modules/transcript-rotation/seat-transcript-rotation.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const NAMED = "/transcripts/old.jsonl"
 

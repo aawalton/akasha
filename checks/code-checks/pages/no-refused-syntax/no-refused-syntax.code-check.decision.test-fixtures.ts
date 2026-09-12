@@ -17,8 +17,8 @@ import {
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"

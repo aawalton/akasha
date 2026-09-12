@@ -30,7 +30,7 @@ import {
   appendAddonSavedVars,
   type ConsolidationMigration,
   migrateAddonSavedVars,
-} from "akasha/temper/saved-vars-migration/saved-vars-migration/saved-vars-migration.module.code.ts"
+} from "akasha/temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"
 
 const DIST = "dist"
 const SHOWN = 10

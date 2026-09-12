@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { reasonsIn } from "akasha/checks/code-checks/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.code-check.check.code.ts"
 import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const AT = "commands/pages/humming/leaf/humming-leaf.command.ts"
 

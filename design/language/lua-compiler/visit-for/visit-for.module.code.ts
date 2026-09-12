@@ -2,7 +2,7 @@ import type { FunctionVisitor } from "akasha/design/language/lua-compiler/module
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/modules/preceding-statements/preceding-statements.module.code.ts"
-import { ScopeType } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+import { ScopeType } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import {
   invertCondition,
   transformLoopBody,

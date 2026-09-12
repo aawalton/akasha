@@ -10,8 +10,8 @@ import { entriesFiled } from "akasha/pages/indexes/modules/reading/index-reading
 import { readerIn, type Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const CAMEL = `function camel(slug: string): string {

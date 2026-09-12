@@ -19,7 +19,7 @@ import {
 import {
   deserializeSavedSearch,
   serializeSavedSearch,
-} from "akasha/temper/items-filters-core/saved-search/saved-search.module.code.ts"
+} from "akasha/temper/items-filters-core/modules/saved-search/saved-search.module.code.ts"
 import { buildFilterIndex } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
 import type { ActiveFilterValues } from "akasha/temper/items-filters-core/search-filter-set/search-filter-set.module.code.ts"
 import {

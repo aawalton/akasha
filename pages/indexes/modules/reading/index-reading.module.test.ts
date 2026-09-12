@@ -28,7 +28,7 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexAt, indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { shapeFiled, shapeFileFor } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"

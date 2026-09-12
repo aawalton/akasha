@@ -4,7 +4,7 @@ import { getExtensionKindForSymbol } from "akasha/design/language/lua-compiler/m
 import {
   type Scope,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import type * as ts from "typescript"
 
 export function isGlobalVarargConstant(

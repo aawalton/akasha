@@ -29,7 +29,7 @@ import {
   type Row,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 import { dayBefore, sleeping } from "akasha/commands/pages/track/waking/waking.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export type Standing = {
   readonly day: string

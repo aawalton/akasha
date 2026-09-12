@@ -14,7 +14,7 @@ import {
   hasReferencedSymbol,
   hasReferencedUndefinedLocalFunction,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { isOptimizedVarArgSpreadHolder } from "akasha/design/language/lua-compiler/symbols-deps/symbols-deps.module.code.ts"
 import {
   findFirstNonOuterParent,

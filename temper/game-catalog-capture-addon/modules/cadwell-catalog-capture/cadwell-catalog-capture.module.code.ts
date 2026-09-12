@@ -9,7 +9,7 @@ import type {
   CadwellCatalogZone,
 } from "akasha/temper/capture-shapes/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,

@@ -1,5 +1,5 @@
 import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { createScribedSkillSource } from "akasha/temper/character-skills/scribed-skill-source/scribed-skill-source.module.code.ts"
+import { createScribedSkillSource } from "akasha/temper/character-skills/modules/scribed-skill-source/scribed-skill-source.module.code.ts"
 import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"

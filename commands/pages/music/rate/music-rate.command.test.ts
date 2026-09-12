@@ -23,7 +23,7 @@ import {
   valuesFor,
   WRITE,
 } from "akasha/commands/pages/music/rate/music-rate.command.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

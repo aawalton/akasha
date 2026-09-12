@@ -1,4 +1,4 @@
-import type { NodeIntent } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+import type { NodeIntent } from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 
 export const REHEARSAL_NODES: Readonly<Record<string, NodeIntent>> = {
   "rehearsal-01": {

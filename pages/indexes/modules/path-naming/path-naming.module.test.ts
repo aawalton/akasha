@@ -7,7 +7,7 @@ import {
 } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { heldIndexedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { HELD, THREE } from "akasha/testing-system/modules/page-holding/page-holding.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -17,7 +17,7 @@ import {
   gatheredFor,
   kindsFor,
 } from "akasha/pages/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

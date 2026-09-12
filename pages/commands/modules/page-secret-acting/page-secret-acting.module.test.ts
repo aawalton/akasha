@@ -21,7 +21,7 @@ import {
   undeclared,
   valueIn,
 } from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "akasha/agents/claude-accounts/pages/one.claude-account.ts"
 

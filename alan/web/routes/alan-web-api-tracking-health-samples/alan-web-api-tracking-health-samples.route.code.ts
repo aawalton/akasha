@@ -1,5 +1,5 @@
 import type { HealthSample } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
-import { upsertHealthSamples } from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
+import { upsertHealthSamples } from "akasha/alan/harness/health-samples-access/modules/sample-upsert/sample-upsert.module.code.ts"
 import { resolveDeviceSecretContext } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
 import {
   capacitorCorsHeaders,

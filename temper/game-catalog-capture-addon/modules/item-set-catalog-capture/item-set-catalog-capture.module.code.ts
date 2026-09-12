@@ -14,7 +14,7 @@ import {
   BATCH_SIZE,
 } from "akasha/temper/catalog-core/modules/batch-config/batch-config.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import { resolveCategoryNames } from "akasha/temper/item-sets/modules/item-set-categories/item-set-categories.module.code.ts"
 
 function collectItemSetCatalog(this: void, onComplete: (this: void) => void): undefined {

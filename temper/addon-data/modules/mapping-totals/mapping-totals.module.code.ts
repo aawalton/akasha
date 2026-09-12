@@ -2,7 +2,7 @@ import { potions } from "akasha/temper/alchemy/modules/potion-source/potion-sour
 import { passiveSkillIds } from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import { championPoints } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { grimoires } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { grimoires } from "akasha/temper/character-skills/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { alliances } from "akasha/temper/character-sources/modules/alliances/alliances.module.code.ts"
 import { curses } from "akasha/temper/character-sources/modules/curses/curses.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
@@ -20,8 +20,8 @@ import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-
 import { jewelryTraits } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import { races } from "akasha/temper/races/modules/races/races.module.code.ts"
-import { affixScripts } from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import { focusScripts } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import { affixScripts } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import { focusScripts } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {

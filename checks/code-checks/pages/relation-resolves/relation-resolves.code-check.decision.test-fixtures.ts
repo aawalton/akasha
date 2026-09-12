@@ -11,8 +11,8 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing as wrote } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing as wrote } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const A = "akasha/t/a.note.ts"
 

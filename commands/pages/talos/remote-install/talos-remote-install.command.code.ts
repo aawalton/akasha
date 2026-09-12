@@ -26,7 +26,7 @@ import {
 import type {
   ClusterIntent,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 import { runSsh } from "akasha/infrastructure/cluster/provisioning/talos/ssh/ssh.module.code.ts"
 import { waitForPort } from "akasha/infrastructure/cluster/provisioning/talos/wait-for-port/wait-for-port.module.code.ts"
 

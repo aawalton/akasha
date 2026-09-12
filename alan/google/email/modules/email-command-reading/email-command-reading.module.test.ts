@@ -8,7 +8,7 @@ import {
 } from "akasha/alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts"
 import { proseIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

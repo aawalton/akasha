@@ -6,7 +6,7 @@ import {
   noPathsFiled,
   pathFiled,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

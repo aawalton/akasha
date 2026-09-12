@@ -10,7 +10,7 @@ import type {
   TraitResearchCatalogTrait,
 } from "akasha/temper/capture-shapes/trait-research-catalog/trait-research-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,

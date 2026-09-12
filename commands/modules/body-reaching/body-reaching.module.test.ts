@@ -7,7 +7,7 @@ import {
   textOf,
 } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

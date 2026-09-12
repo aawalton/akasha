@@ -4,7 +4,7 @@ import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.modul
 import { InputBadge } from "akasha/design/interfaces/badges/modules/input-badge/input-badge.module.code.tsx"
 import { hostIn } from "akasha/design/interfaces/badges/url-badge/url-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
-import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
+import { scalarText } from "akasha/utils/narrow/modules/scalar-text/scalar-text.module.code.ts"
 import { ExternalLink } from "lucide-react"
 import { useEffect, useState } from "react"
 

@@ -6,7 +6,7 @@ import {
 } from "akasha/agents/hooks/agent-hooks/state-subagent/state-subagent.agent-hook.code.ts"
 import { SEAT_NAMED } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"
 

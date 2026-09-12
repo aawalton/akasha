@@ -8,7 +8,7 @@ import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.mo
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"

@@ -7,7 +7,7 @@ import { gitSweep } from "akasha/commands/pages/git/sweep/git-sweep.command.code
 import { LEFT, STORES } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import { git } from "akasha/git/modules/capping/git-capping.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const LEFT_AT = LEFT[0] ?? ""
 

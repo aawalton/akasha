@@ -9,7 +9,7 @@ import {
   uncommittedAt,
   uncommittedBesideAt,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

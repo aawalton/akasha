@@ -7,7 +7,7 @@ import type {
   RecipeCatalogRecipe,
 } from "akasha/temper/capture-shapes/modules/recipe-catalog/recipe-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 function collectRecipeCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

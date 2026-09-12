@@ -31,8 +31,11 @@ import {
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { bodyAt, writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import {
+  bodyAt,
+  writing,
+} from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 

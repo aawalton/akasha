@@ -10,7 +10,7 @@ import type {
   Asked,
   Wrote,
 } from "akasha/pages/service/modules/page-writing/page-writing.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

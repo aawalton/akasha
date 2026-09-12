@@ -1,5 +1,5 @@
 import { founded } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const LOOSE_AT = "akasha/one/answering/answering.module.ts"
 

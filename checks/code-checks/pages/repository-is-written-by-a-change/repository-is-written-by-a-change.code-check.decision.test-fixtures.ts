@@ -1,8 +1,8 @@
 import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { bodyOf } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const AT = "checks/one/one.module.code.ts"
 

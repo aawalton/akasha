@@ -7,7 +7,7 @@ import { claiming } from "akasha/checks/modules/scratch/check-scratch.module.cod
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000004"
 

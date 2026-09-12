@@ -15,7 +15,7 @@ import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/modules/domain-k
 import {
   type AccountSummary,
   readAccountSummaries,
-} from "akasha/temper/catalog-host/saved-variables-reader/saved-variables-reader.module.code.ts"
+} from "akasha/temper/catalog-host/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
 import {
   resolveSavedVariablesPath,
   resolveSideFilePath,

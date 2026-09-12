@@ -27,7 +27,7 @@ import {
 import type {
   ClusterIntent,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 
 export type Named = { readonly node: string; readonly download?: string }
 

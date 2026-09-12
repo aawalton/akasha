@@ -17,7 +17,7 @@ import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.mo
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namedUnder } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 

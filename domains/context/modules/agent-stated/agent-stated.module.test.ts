@@ -5,8 +5,8 @@ import {
 } from "akasha/domains/context/modules/agent-stated/agent-stated.module.code.ts"
 import { NO_AGENT_AT } from "akasha/domains/context/modules/agent-stated/agent-stated.module.test-fixtures.ts"
 import { seatListed } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

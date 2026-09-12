@@ -7,7 +7,7 @@ import {
   LoopContinued,
   performHoisting,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { isAssignmentPattern } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { transformAssignment } from "akasha/design/language/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
 import { transformBlockOrStatement } from "akasha/design/language/lua-compiler/visit-block/visit-block.module.code.ts"

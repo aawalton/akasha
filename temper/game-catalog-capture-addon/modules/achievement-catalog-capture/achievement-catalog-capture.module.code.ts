@@ -10,7 +10,7 @@ import {
   BATCH_SIZE,
 } from "akasha/temper/catalog-core/modules/batch-config/batch-config.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import { requireNumericKey } from "akasha/temper/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import { requireDefined } from "akasha/utils/narrow/modules/require-defined/require-defined.module.code.ts"
 

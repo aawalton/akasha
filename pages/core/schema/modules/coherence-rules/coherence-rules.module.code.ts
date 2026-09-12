@@ -1,4 +1,4 @@
-import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
+import { scalarText } from "akasha/utils/narrow/modules/scalar-text/scalar-text.module.code.ts"
 import { z } from "zod"
 
 const ValueInRuleSchema = z

@@ -14,7 +14,7 @@ import {
   peekScope,
   type Scope,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { assert, castArray } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
 

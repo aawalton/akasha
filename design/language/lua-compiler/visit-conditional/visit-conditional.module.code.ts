@@ -11,7 +11,7 @@ import {
 import {
   performHoisting,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { truthyOnlyConditionalValue } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { canBeFalsy } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { transformBlockOrStatement } from "akasha/design/language/lua-compiler/visit-block/visit-block.module.code.ts"

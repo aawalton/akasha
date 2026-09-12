@@ -11,7 +11,7 @@ import {
   slugsIn,
   textsAt,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
 

@@ -9,7 +9,7 @@ import {
   wordFilling,
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { piping, TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const WANTS = "what to send"
 

@@ -17,7 +17,7 @@ import {
   TURNS_NOTHING_AT,
   WRITES,
 } from "akasha/pages/types/type-turning/type-turning.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

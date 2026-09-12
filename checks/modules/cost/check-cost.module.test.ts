@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Cost, Spawned } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { costSpawned, recordCost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const MIB = 1024 * 1024
 

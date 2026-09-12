@@ -26,7 +26,7 @@ import {
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

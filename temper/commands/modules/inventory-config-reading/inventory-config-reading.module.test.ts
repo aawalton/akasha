@@ -5,7 +5,7 @@ import {
   loadTemperInventoryConfigFromPath,
   parseTemperInventoryConfig,
 } from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

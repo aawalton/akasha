@@ -28,7 +28,7 @@ import { said as git } from "akasha/git/modules/running/git-running.module.code.
 import type { Facing } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

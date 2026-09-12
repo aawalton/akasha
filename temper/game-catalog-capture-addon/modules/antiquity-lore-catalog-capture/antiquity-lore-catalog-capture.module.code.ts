@@ -5,7 +5,7 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture-shapes/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 function collectAntiquityLoreCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

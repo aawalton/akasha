@@ -13,8 +13,8 @@ import {
   ROLE,
   roleItself,
 } from "akasha/domains/context/warrants/role-itself/role-itself.context-warrant.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

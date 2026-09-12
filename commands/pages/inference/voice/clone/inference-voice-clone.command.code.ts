@@ -40,7 +40,7 @@ import {
 import { scpUpload } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const PAGES = [
   modeArgument,

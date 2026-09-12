@@ -15,7 +15,7 @@ import {
   servingFrom,
 } from "akasha/code/editor/extension/modules/command-server-client/command-server-client.module.code.ts"
 import { LEASE_ENV } from "akasha/code/editor/extension/modules/harness-wire/harness-wire.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { z } from "zod"
 
 const BUN = process.execPath

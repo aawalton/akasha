@@ -6,7 +6,7 @@ import {
   boundFaultIn,
   dayNameOf,
 } from "akasha/agents/seats/log-days/modules/log-day-writing/log-day-writing.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

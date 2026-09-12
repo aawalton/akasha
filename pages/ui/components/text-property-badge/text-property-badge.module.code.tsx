@@ -6,7 +6,7 @@ import { resolveBadgeVariant } from "akasha/pages/core/modules/resolve-badge-var
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { textConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
-import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
+import { scalarText } from "akasha/utils/narrow/modules/scalar-text/scalar-text.module.code.ts"
 import { useEffect, useState } from "react"
 
 function CommitOnlyInputBadge({

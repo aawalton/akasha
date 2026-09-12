@@ -1,7 +1,7 @@
 import {
   type SchemaViolation,
   toViolations,
-} from "akasha/story/engine/core/schema-violation/schema-violation.module.code.ts"
+} from "akasha/story/engine/core/modules/schema-violation/schema-violation.module.code.ts"
 import { z } from "zod"
 
 export const PoolChangeSchema = z

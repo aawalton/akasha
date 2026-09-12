@@ -4,7 +4,7 @@ import "akasha/temper/eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 
 import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes/modules/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 function collectCompanionEquipmentCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

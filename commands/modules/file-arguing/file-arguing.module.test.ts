@@ -4,7 +4,7 @@ import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.modul
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

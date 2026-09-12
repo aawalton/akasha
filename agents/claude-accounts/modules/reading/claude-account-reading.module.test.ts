@@ -27,7 +27,7 @@ import {
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

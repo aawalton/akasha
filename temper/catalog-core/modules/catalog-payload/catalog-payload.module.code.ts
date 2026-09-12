@@ -12,7 +12,7 @@ import type { ItemSetCatalogEntry } from "akasha/temper/capture-shapes/modules/i
 import type { LoreLibraryCatalogCategory } from "akasha/temper/capture-shapes/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
 import type { PoiCatalogZone } from "akasha/temper/capture-shapes/modules/poi-catalog/poi-catalog.module.code.ts"
 import type { RecipeCatalogList } from "akasha/temper/capture-shapes/modules/recipe-catalog/recipe-catalog.module.code.ts"
-import type { ScribingCatalogData } from "akasha/temper/capture-shapes/scribing-catalog/scribing-catalog.module.code.ts"
+import type { ScribingCatalogData } from "akasha/temper/capture-shapes/modules/scribing-catalog/scribing-catalog.module.code.ts"
 import type { SkillCatalogLine } from "akasha/temper/capture-shapes/skill-catalog/skill-catalog.module.code.ts"
 import type { TraitResearchCatalogCraftType } from "akasha/temper/capture-shapes/trait-research-catalog/trait-research-catalog.module.code.ts"
 import type { TributePatronCatalogEntry } from "akasha/temper/capture-shapes/tribute-catalog/tribute-catalog.module.code.ts"

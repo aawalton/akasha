@@ -1,7 +1,7 @@
 import type {
   MachineConfigPatch,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 
 function userVolumeDoc(volume: NodeIntent["userVolumes"][number]): MachineConfigPatch {
   const maxSize = volume.maxSize ?? (volume.grow ? undefined : volume.minSize)

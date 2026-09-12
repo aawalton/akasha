@@ -73,7 +73,7 @@ import {
   WORKING,
   whyIn,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {
   const when = new Date(1788600000123)

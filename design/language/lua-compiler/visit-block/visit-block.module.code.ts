@@ -5,7 +5,7 @@ import {
   performHoisting,
   type Scope,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import * as ts from "typescript"
 
 export function transformBlockOrStatement(

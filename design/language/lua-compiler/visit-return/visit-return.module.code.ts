@@ -10,7 +10,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import {
   ScopeType,
   walkScopesUp,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import { invalidMultiFunctionReturnType } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isInAsyncFunction } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import {

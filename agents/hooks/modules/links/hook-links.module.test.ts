@@ -12,7 +12,7 @@ import {
   AKASHA,
   rootEnvName,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = "/made-up/checkout"
 

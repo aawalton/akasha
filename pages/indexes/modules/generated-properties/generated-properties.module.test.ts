@@ -15,7 +15,7 @@ import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.modu
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

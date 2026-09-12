@@ -7,7 +7,7 @@ import {
   WITHOUT_BROWSER,
 } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import { wrote } from "akasha/code/modules/typing/code-typing.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const KEYS_SAID =
   "export function heldOf(said: readonly string[]): Held {\n  return { keyed: said }\n}\n"

@@ -30,7 +30,7 @@ import type { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/
 import type {
   Scope,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import type { SymbolInfo } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
 import { unsupportedNodeKind } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { assert, castArray } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"

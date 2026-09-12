@@ -14,7 +14,7 @@ import {
   ASYNC_MAIN_AT,
   INTERFACE_ENTRY_AT,
 } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

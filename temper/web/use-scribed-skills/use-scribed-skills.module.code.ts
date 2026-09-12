@@ -3,13 +3,13 @@ import {
   type SkillId,
   skills,
 } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
-import { getScribedSkillId } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
+import type { ScribedSkill } from "akasha/temper/character-skills/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import { getScribedSkillId } from "akasha/temper/character-skills/modules/scribed-skills/scribed-skills.module.code.ts"
 import {
   type GrimoireId,
   grimoires,
-} from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
-import type { FocusScriptId } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+} from "akasha/temper/character-skills/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+import type { FocusScriptId } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { PendingScriptEdits } from "akasha/temper/web/skills-types/skills-types.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"

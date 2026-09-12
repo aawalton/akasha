@@ -31,10 +31,10 @@ import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos
 import type {
   ClusterIntent,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 import { decryptToTmp } from "akasha/infrastructure/cluster/provisioning/talos/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
-import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CONTROL_PLANE = "controlplane"
 

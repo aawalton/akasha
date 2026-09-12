@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
 import type {
   ImageFactorySchematic,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 import { stringify } from "yaml"
 
 export function buildSchematic(node: NodeIntent): ImageFactorySchematic {

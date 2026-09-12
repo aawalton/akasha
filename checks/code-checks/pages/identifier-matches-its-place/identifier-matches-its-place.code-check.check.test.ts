@@ -6,7 +6,7 @@ import {
 } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.test-fixtures.ts"
 import { change, proposing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const HELD = "akasha/held.ts"
 

@@ -16,7 +16,7 @@ import {
 } from "akasha/commands/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const root = rootOf(import.meta.dir)
 

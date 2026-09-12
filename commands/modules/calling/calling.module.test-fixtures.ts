@@ -8,7 +8,7 @@ import {
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { noneOfTypeFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const MECHANICAL: Kind = {
   slug: "change-mechanical",

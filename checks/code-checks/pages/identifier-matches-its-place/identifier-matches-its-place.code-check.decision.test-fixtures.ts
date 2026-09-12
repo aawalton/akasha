@@ -9,8 +9,8 @@ import { constantIdentifier } from "akasha/pages/name-places/pages/constant-iden
 import { derivedIdentifier } from "akasha/pages/name-places/pages/derived-identifier.name-place.ts"
 import { functionIdentifier } from "akasha/pages/name-places/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/pages/name-places/pages/type-identifier.name-place.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const FORMAT = "name-format"
 

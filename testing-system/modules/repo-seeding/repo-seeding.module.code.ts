@@ -37,7 +37,7 @@ import {
   minting,
 } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"
 

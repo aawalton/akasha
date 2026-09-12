@@ -8,7 +8,7 @@ import {
   entriesAt,
   entriesIn,
 } from "akasha/pages/modules/entries/page-entries.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

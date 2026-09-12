@@ -4,7 +4,7 @@ import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declarati
 import type {
   SavedSearch,
   SavedSearchStore,
-} from "akasha/temper/items-filters-core/saved-search/saved-search.module.code.ts"
+} from "akasha/temper/items-filters-core/modules/saved-search/saved-search.module.code.ts"
 import { getSavedVariables } from "akasha/temper/trading-addon/trading-saved-variables/trading-saved-variables.module.code.ts"
 
 export function getSavedSearches(this: void): SavedSearchStore {

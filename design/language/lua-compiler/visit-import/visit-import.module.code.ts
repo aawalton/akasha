@@ -15,7 +15,7 @@ import {
 } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { createSafeName } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
-import { peekScope } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+import { peekScope } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import {
   getCustomNameFromSymbol,
   transformIdentifier,

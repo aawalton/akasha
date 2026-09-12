@@ -11,7 +11,7 @@ import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/p
 import {
   createSaveQueue,
   type SaveQueue,
-} from "akasha/pages/ui/block-editor/save-queue/save-queue.module.code.ts"
+} from "akasha/pages/ui/block-editor/modules/save-queue/save-queue.module.code.ts"
 import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback, useRef } from "react"

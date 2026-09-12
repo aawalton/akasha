@@ -1,5 +1,5 @@
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import { buildArmorTypes } from "akasha/temper/game-catalog-capture-addon/modules/armor-type-constants/armor-type-constants.module.code.ts"
 import { buildDisplayCategories } from "akasha/temper/game-catalog-capture-addon/modules/display-category-constants/display-category-constants.module.code.ts"
 import { buildEnumValueLabels } from "akasha/temper/game-catalog-capture-addon/modules/enum-value-labels/enum-value-labels.module.code.ts"

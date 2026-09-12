@@ -19,7 +19,7 @@ import {
   RETURNED,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
-import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"

@@ -27,7 +27,7 @@ import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos
 import type {
   ClusterIntent,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const SCHEMATIC_ENV = "TALOS_SCHEMATIC_ID"

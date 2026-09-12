@@ -10,7 +10,7 @@ import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/luali
 import {
   type Scope,
   ScopeType,
-} from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
 import {
   unsupportedForTarget,
   unsupportedForTargetButOverrideAvailable,

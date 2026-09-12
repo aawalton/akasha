@@ -3,7 +3,7 @@ import { REHEARSAL_NODES } from "akasha/infrastructure/cluster/provisioning/talo
 import type {
   ClusterIntent,
   NodeIntent,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 
 const REGISTRY_HOST = "registry.registry.svc.cluster.local:5000"
 

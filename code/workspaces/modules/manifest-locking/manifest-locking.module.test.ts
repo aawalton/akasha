@@ -22,7 +22,7 @@ import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/chang
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { anythingThere as linkThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const scratch = scratchWorld()

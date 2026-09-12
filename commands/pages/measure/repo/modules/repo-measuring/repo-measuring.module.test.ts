@@ -8,7 +8,7 @@ import {
 } from "akasha/commands/pages/measure/repo/modules/repo-measuring/repo-measuring.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

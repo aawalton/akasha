@@ -26,7 +26,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

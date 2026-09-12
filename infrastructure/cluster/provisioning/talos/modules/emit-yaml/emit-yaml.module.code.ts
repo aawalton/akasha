@@ -1,7 +1,7 @@
 import type {
   ImageFactorySchematic,
   MachineConfigPatch,
-} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 import { stringify } from "yaml"
 
 export function emitPatchYaml(patch: MachineConfigPatch): string {

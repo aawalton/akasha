@@ -7,7 +7,10 @@ import {
   differenceOf,
 } from "akasha/commands/pages/read/modules/differing/differing.module.code.ts"
 import { bytesOf as bodyOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-import { SCRATCH_AT, scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import {
+  SCRATCH_AT,
+  scratchWorld,
+} from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const scratch = scratchWorld()
