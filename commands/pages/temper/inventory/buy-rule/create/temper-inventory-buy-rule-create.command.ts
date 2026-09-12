@@ -6,10 +6,31 @@ export const temperInventoryBuyRuleCreate = {
   slug: "temper-inventory-buy-rule-create",
   definition: "the command adding a buy rule",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A new buy rule is inactive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule added inactive is answered with the call that would start it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A source no buy rule buys at is refused before the store is read at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act that adds takes the store rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule added is named on the caller's list as soon as that write has gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the store would not take is named nowhere, because nothing was written.",
     },
     {
       invariantKind: "absence",

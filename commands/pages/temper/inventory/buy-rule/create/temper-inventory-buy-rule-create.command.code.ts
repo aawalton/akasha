@@ -18,7 +18,9 @@ import { temperInventoryBuyRuleCreate as page } from "akasha/commands/pages/temp
 import {
   answeredByPage,
   settingsOf,
+  type Writing,
   webOf,
+  wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { BUY_SOURCE_VALUES } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import {
@@ -36,9 +38,9 @@ const SPACES = 2
 
 const PAGES = [title, notes, goal, active, itemId, itemName, targetQuantity, sourceArgument]
 
-type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-async function made(taken: Taken): Promise<Answer> {
+export async function making(taken: Taken, writing: Writing, done: string[]): Promise<Answer> {
   const said = taken.source ?? MERCHANT
   const source: BuySource | undefined = BUY_SOURCE_VALUES.find((one) => one === said)
   if (source === undefined) {
@@ -47,8 +49,7 @@ async function made(taken: Taken): Promise<Answer> {
       INPUT
     )
   }
-  const settingsAccess = await settingsOf()
-  const settings = await settingsAccess.read()
+  const settings = await writing.read()
   const added = addBuyRule(settings, {
     itemId: taken.itemId,
     itemName: taken.itemName,
@@ -62,7 +63,8 @@ async function made(taken: Taken): Promise<Answer> {
   const patch: Partial<Pick<BuyRule, "active" | "goal" | "title" | "notes">> = webOf(taken)
   const next =
     Object.keys(patch).length > 0 ? bulkUpdateBuyRules(added, [created.id], patch) : added
-  await settingsAccess.write(next)
+  await writing.write(next)
+  done.push(wroteSaid("buy", created.id, "added"))
   const after = (next.buyRules ?? []).find((one) => one.id === created.id) ?? created
   const answer = told(JSON.stringify(after, null, SPACES).split("\n"))
   if (after.active === true) return answer
@@ -70,6 +72,10 @@ async function made(taken: Taken): Promise<Answer> {
     ...answer.report,
     `this buy rule is inactive — say \`akasha temper inventory buy-rule update ${created.id} ${active.said} true\` to start it`,
   ])
+}
+
+async function made(taken: Taken, done: string[]): Promise<Answer> {
+  return await making(taken, await settingsOf(), done)
 }
 
 export async function temperInventoryBuyRuleCreate(
