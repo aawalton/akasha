@@ -11,10 +11,6 @@ export const infrastructureDevServerLogs = {
   parts: ["module/last-lines"],
   taking: [
     {
-      said: "--app <name>",
-      takes: "whose log to read, named by the slug that app's web app page carries",
-    },
-    {
       said: "--tail <n>",
       takes: "how many trailing lines to answer with, a hundred where none is said",
     },
@@ -37,5 +33,8 @@ export const infrastructureDevServerLogs = {
       statement: "Nothing here follows a log as the log grows.",
     },
   ],
-  arguments: [{ argument: "argument/seq", saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/seq", saidAs: "flag-or-word" },
+    { argument: "argument/web-app" },
+  ],
 } as const satisfies Command

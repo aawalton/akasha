@@ -9,10 +9,6 @@ export const infrastructureDevServerRestart = {
   name: "restart",
   taking: [
     {
-      said: "--app <name>",
-      takes: "which app to restart, named by the slug that app's web app page carries",
-    },
-    {
       said: "--port <p>",
       takes: "the port to run on, replacing the one the base port and the seq work out",
     },
@@ -31,5 +27,9 @@ export const infrastructureDevServerRestart = {
       statement: "A stop that refused leaves the start unrun.",
     },
   ],
-  arguments: [{ argument: "argument/json" }, { argument: "argument/seq", saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/seq", saidAs: "flag-or-word" },
+    { argument: "argument/web-app" },
+  ],
 } as const satisfies Command

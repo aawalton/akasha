@@ -7,7 +7,7 @@ export const infrastructureDevServerStatus = {
   definition: "the command reading whether an app's dev server is running or stopped",
   code: "ts",
   name: "status",
-  taking: [{ said: "--app <name>", takes: "the app to narrow the answer to" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -34,5 +34,9 @@ export const infrastructureDevServerStatus = {
       statement: "Nothing here writes a state file.",
     },
   ],
-  arguments: [{ argument: "argument/json" }, { argument: "argument/seq", saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/seq", saidAs: "flag-or-word" },
+    { argument: "argument/web-app" },
+  ],
 } as const satisfies Command

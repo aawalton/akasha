@@ -9,10 +9,6 @@ export const infrastructureDevServerStart = {
   name: "start",
   taking: [
     {
-      said: "--app <name>",
-      takes: "which app to start, named by the slug that app's web app page carries",
-    },
-    {
       said: "--port <p>",
       takes: "the port to run on, replacing the one the base port and the seq work out",
     },
@@ -45,5 +41,9 @@ export const infrastructureDevServerStart = {
       statement: "Nothing here writes over an `.env.local` already there.",
     },
   ],
-  arguments: [{ argument: "argument/json" }, { argument: "argument/seq", saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/seq", saidAs: "flag-or-word" },
+    { argument: "argument/web-app" },
+  ],
 } as const satisfies Command

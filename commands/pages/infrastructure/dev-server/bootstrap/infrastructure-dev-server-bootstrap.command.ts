@@ -7,12 +7,7 @@ export const infrastructureDevServerBootstrap = {
   definition: "the command writing an app's `.env.local` from the app's secret pages",
   code: "ts",
   name: "bootstrap",
-  taking: [
-    {
-      said: "--app <name>",
-      takes: "whose `.env.local` to write, named by the slug that app's web app page carries",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,5 +28,6 @@ export const infrastructureDevServerBootstrap = {
     { argument: "argument/json" },
     { argument: "argument/force" },
     { argument: "argument/seq", saidAs: "flag-or-word" },
+    { argument: "argument/web-app" },
   ],
 } as const satisfies Command
