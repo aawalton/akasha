@@ -40,7 +40,7 @@ export function readIn(argv: readonly string[]): Read {
   return { subjects }
 }
 
-export function domainDeclarations(argv: readonly string[], given: Given): Answer {
+export function domainDeclarationList(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   return answeredBy(() => declarationLines(read.subjects, resolve(given.root)))

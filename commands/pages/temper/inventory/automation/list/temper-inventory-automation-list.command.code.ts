@@ -62,7 +62,7 @@ export function rowsOf(settings: AutomationSettings): readonly Row[] {
   ]
 }
 
-export async function temperInventoryAutomationShow(argv: readonly string[] = []): Promise<Answer> {
+export async function temperInventoryAutomationList(argv: readonly string[] = []): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
 

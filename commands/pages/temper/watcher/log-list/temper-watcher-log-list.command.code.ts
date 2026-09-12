@@ -69,7 +69,7 @@ function linesIn(path: string, source: LogSource): readonly WatcherLogLine[] | n
   return read
 }
 
-export function temperWatcherLogs(argv: readonly string[]): Answer {
+export function temperWatcherLogList(argv: readonly string[]): Answer {
   const read = told(argv)
   if (typeof read === "string") return refused(read, INPUT)
 
