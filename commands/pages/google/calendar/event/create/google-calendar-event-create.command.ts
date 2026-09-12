@@ -31,13 +31,6 @@ export const googleCalendarEventCreate = {
       takes: "who is emailed about the event, of `all`, `externalOnly` and `none`",
     },
   ],
-  helpNotes: [
-    "this reaches the calendar as Alan, so the invites carry his name.",
-    "the consent this leans on is granted once by `akasha google auth login`.",
-    "a date alone at both ends is a whole-day event, and its end is the day after the last day it covers.",
-    "a zone is an IANA name rather than an offset, and a whole-day event carries none.",
-    "the event answered with is reported as JSON.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -46,6 +39,14 @@ export const googleCalendarEventCreate = {
     {
       invariantKind: "departure",
       statement: "A start and an end are both a date alone or both a timestamp.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start and an end each a date alone is a whole-day event.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The event this answers with is reported as JSON.",
     },
     {
       invariantKind: "departure",
