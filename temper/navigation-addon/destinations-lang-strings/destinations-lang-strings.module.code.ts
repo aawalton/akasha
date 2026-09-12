@@ -1,5 +1,3 @@
-import { SETTINGS_STRINGS as SETTINGS_PL } from "akasha/temper/navigation-addon/destinations-lang-settings-pl/destinations-lang-settings-pl.module.code.ts"
-import { SETTINGS_STRINGS as SETTINGS_RU } from "akasha/temper/navigation-addon/destinations-lang-settings-ru/destinations-lang-settings-ru.module.code.ts"
 import { SETTINGS_STRINGS as SETTINGS_ZH } from "akasha/temper/navigation-addon/destinations-lang-settings-zh/destinations-lang-settings-zh.module.code.ts"
 import {
   COLLECTIBLE_DATA_INDEX as COLLECTIBLE_INDEX_DE,
@@ -44,6 +42,8 @@ import { SETTINGS_STRINGS as SETTINGS_FR } from "akasha/temper/navigation-addon/
 import { SETTINGS_STRINGS as SETTINGS_FX } from "akasha/temper/navigation-addon/modules/destinations-lang-settings-fx/destinations-lang-settings-fx.module.code.ts"
 import { SETTINGS_STRINGS as SETTINGS_JF } from "akasha/temper/navigation-addon/modules/destinations-lang-settings-jf/destinations-lang-settings-jf.module.code.ts"
 import { SETTINGS_STRINGS as SETTINGS_JP } from "akasha/temper/navigation-addon/modules/destinations-lang-settings-jp/destinations-lang-settings-jp.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_PL } from "akasha/temper/navigation-addon/modules/destinations-lang-settings-pl/destinations-lang-settings-pl.module.code.ts"
+import { SETTINGS_STRINGS as SETTINGS_RU } from "akasha/temper/navigation-addon/modules/destinations-lang-settings-ru/destinations-lang-settings-ru.module.code.ts"
 
 export interface CollectiblesData {
   CollectibleDataIndex: { KEY: number; NUMBER: number; NAME: number }
