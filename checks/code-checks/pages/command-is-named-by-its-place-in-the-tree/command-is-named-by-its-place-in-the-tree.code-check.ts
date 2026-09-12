@@ -68,7 +68,8 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       invariantKind: "gap",
-      statement: "A namespace holds more than one command or namespace.",
+      statement:
+        "A namespace names an area a person narrows by rather than restating a command under it.",
     },
     {
       invariantKind: "gap",
