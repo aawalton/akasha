@@ -84,6 +84,12 @@ test("the reach stops at the ceiling it is handed and says that the reach stoppe
   expect(short.files.size).toBeLessThan(reachedBack(READING, [LEAF]).files.size)
 })
 
+test("a root is turned into a reading of its index rather than read as one", () => {
+  expect([...reachedBack(codeRoot(), [LEAF]).files].sort()).toEqual(
+    [...reachedBack(READING, [LEAF]).files].sort()
+  )
+})
+
 test("the file a service reaches is named, and one it reaches none is answered as none", () => {
   expect(reachingIn([LEAF], new Set([LEAF]))).toBe(LEAF)
   expect(reachingIn([LEAF], new Set())).toBe(null)
