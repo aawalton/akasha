@@ -8,9 +8,11 @@ import {
   narrowedTo,
   notAnAuditIn,
   notYetJudgingIn,
+  ranHere,
   waitingOn,
   wrongIn,
 } from "akasha/commands/pages/audit/audit.command.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 function gathered(
   slugs: readonly string[],
@@ -115,6 +117,26 @@ test("a run over every check that runs at audit leaves none of them out", () => 
 test("a run of a check that runs at no audit leaves every audit check out", () => {
   const atAudit = gathered(["one", "two"], ["audit"])
   expect(leftOutOf(atAudit, ["three"])).toBe(2)
+})
+
+const NOTHING: Change = { root: ".", changed: [], before: () => null, after: () => null }
+
+test("a run naming checks judges those checks in the calling process", async () => {
+  const said = await ranHere(gathered(["one"], ["audit"]), NOTHING, "abc", async () => [
+    { path: "a.ts", reason: "no" },
+  ])
+
+  expect(said.refusals).toEqual(["one at abc — a.ts — no"])
+  expect(said.unanswered).toEqual([])
+  expect(said.broken).toBeNull()
+})
+
+test("a check that threw in the calling process is named as one that could not run", async () => {
+  const said = await ranHere(gathered(["one"], ["audit"]), NOTHING, "abc", async () => [
+    { path: "a.ts", reason: "threw", threw: true },
+  ])
+
+  expect(said.unrun).toEqual(["one"])
 })
 
 test("a flag naming no check is refused", async () => {

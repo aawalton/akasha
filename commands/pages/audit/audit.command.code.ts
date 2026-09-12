@@ -1,7 +1,12 @@
 import { resolve } from "node:path"
 import { auditRefusalsPut } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
-import { asked } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
-import { commitOf } from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
+import { asked, type Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
+import {
+  commitOf,
+  type Running,
+  running,
+} from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
+import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
@@ -15,6 +20,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { audit as page } from "akasha/commands/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
@@ -84,6 +90,22 @@ export function notYetJudgingIn(
   return [`this answer leaves out ${counted(held.length, "check")} not yet judging: ${waiting}`]
 }
 
+export async function ranHere(
+  chosen: readonly Gathered[],
+  change: Change,
+  commit: string,
+  run: Running = running
+): Promise<Told> {
+  const refusals: string[] = []
+  const unrun: string[] = []
+  for (const one of chosen) {
+    const found = await run(one, change)
+    for (const two of found) refusals.push(`${one.slug} at ${commit} — ${two.path} — ${two.reason}`)
+    if (found.some((two) => two.threw === true)) unrun.push(one.slug)
+  }
+  return { refusals, unrun, unanswered: [], broken: null }
+}
+
 export async function askedOver(
   root: string,
   every: readonly Gathered[],
@@ -95,13 +117,20 @@ export async function askedOver(
   const narrowed = narrowedTo(every, atAudit, named)
   if (narrowed.refusals.length > 0) return refusedBy(narrowed.refusals)
   const commit = await commitOf(root)
-  const home = requireEnv("HOME")
-  const told = await asked({ root, home, checks: narrowed.checks, commit, done })
   const also = [
     ...notAnAuditIn(leftOutOf(atAudit, narrowed.checks)),
     ...notYetJudgingIn(every, named),
   ]
-  return askedAnswer({ told, checks: narrowed.checks.length, commit, also, rounds: done }, keeping)
+  const checks = narrowed.checks.length
+  if (named.length > 0) {
+    const held = new Set(narrowed.checks)
+    const chosen = every.filter((one) => held.has(one.slug))
+    const here = await ranHere(chosen, everythingIn(root), commit)
+    return askedAnswer({ told: here, checks, commit, also }, keeping)
+  }
+  const home = requireEnv("HOME")
+  const told = await asked({ root, home, checks: narrowed.checks, commit, done })
+  return askedAnswer({ told, checks, commit, also, rounds: done }, keeping)
 }
 
 export async function audit(argv: readonly string[], given: Given): Promise<Answer> {
