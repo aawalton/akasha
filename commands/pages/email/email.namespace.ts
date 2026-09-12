@@ -7,7 +7,6 @@ export const email = {
   definition: "the mail Alan sends and receives",
   parts: [
     "namespace/email-attachments",
-    "command/email-auth-login",
     "namespace/email-drafts",
     "namespace/email-messages",
     "command/email-unsubscribe",
