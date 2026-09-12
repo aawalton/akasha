@@ -38,5 +38,15 @@ export const inferenceRun = {
       invariantKind: "absence",
       statement: "Nothing here knows which host a service is on.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "No run is recorded, since the generation log refuses every row rather than landing one.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A command recording a run stops at that refusal before reaching anything it would record.",
+    },
   ],
 } as const satisfies Domain
