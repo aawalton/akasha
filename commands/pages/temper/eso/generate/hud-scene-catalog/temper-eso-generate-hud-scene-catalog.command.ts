@@ -13,20 +13,23 @@ export const temperEsoGenerateHudSceneCatalog = {
       takes: "the checkout the catalog is written into",
     },
   ],
-  helpNotes: [
-    "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
-    "the source is the one clone file declaring the main gameplay scene, and one record is taken for each distinct component it names.",
-    "what counts as a component and what shape a record takes come from the package declaring them, so a run parses by the rules sitting beside it rather than by the tree's.",
-    "the records are written as three modules divided by how the game hides the part: a fragment group, a scene fragment, or a top-level control.",
-    "a component the game parents to GuiRoot and creates at runtime is outside a single-file walk, and so outside this catalog.",
-    "a scene source naming no component refuses the call, because an empty catalog reads to every consumer as a clean answer.",
-    "a rendered module over the fifteen thousand byte akasha ceiling refuses the call and is a sign the catalog wants dividing further.",
-    "the three modules land together as one commit through the mechanical change that writes a code file, and a module the checkout already holds is left out.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The catalog is read out of the game's own scene source rather than hand-written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One record is taken for each distinct component the scene source names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The records are divided into three modules by how the game hides the part.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no checkout writes into what `CODE_ROOT` names, else this repository.",
     },
     {
       invariantKind: "departure",
