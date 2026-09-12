@@ -9,7 +9,7 @@ import {
   telling,
 } from "akasha/commands/pages/track/session/open/session-acting/session-acting.module.code.ts"
 
-export function trackSessionShow(argv: readonly string[], given: Given): Answer {
+export function trackSessionList(argv: readonly string[], given: Given): Answer {
   const standing = standingFor(argv, given.root, new Date())
   if (typeof standing === "string") return mistaking([standing])
   return telling(
