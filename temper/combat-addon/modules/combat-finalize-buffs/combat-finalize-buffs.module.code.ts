@@ -1,4 +1,3 @@
-import { countSlots } from "akasha/temper/combat-addon/combat-unit-stats/combat-unit-stats.module.code.ts"
 import type {
   CmxFight,
   EffectInstance,
@@ -9,6 +8,7 @@ import {
   getFoodDrinkItemLinkFromAbilityId,
   MUNDUS_STONES,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { countSlots } from "akasha/temper/combat-addon/modules/combat-unit-stats/combat-unit-stats.module.code.ts"
 
 const inf = math.huge
 

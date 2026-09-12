@@ -7,14 +7,6 @@ import {
 } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
 import {
-  Command,
-  CommandEmpty,
-  CommandGroup,
-  CommandInput,
-  CommandItem,
-  CommandList,
-} from "akasha/design/interfaces/primitives/command/command.module.code.tsx"
-import {
   Dialog,
   DialogBody,
   DialogContent,
@@ -28,6 +20,14 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
+import {
+  Command,
+  CommandEmpty,
+  CommandGroup,
+  CommandInput,
+  CommandItem,
+  CommandList,
+} from "akasha/design/interfaces/primitives/modules/command/command.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { formatEffects } from "akasha/temper/characters-stats/format-effects/format-effects.module.code.ts"

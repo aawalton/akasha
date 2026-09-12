@@ -1,4 +1,4 @@
-import type { ComfyNode } from "akasha/infrastructure/inference/comfy/graph/comfy-graph.module.code.ts"
+import type { ComfyNode } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
 
 const WAN_HIGH_NOISE_UNET = "Wan2.2-I2V-A14B-HighNoise-Q5_K_M.gguf"
 const WAN_LOW_NOISE_UNET = "Wan2.2-I2V-A14B-LowNoise-Q5_K_M.gguf"

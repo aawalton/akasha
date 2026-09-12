@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { comfyUpBody } from "akasha/infrastructure/inference/generations/comfy-up-body/comfy-up-body.module.code.ts"
-import { RECIPE } from "akasha/infrastructure/inference/generations/comfy-up-body/comfy-up-body.module.test-fixtures.ts"
+import { comfyUpBody } from "akasha/infrastructure/inference/generations/modules/comfy-up-body/comfy-up-body.module.code.ts"
+import { RECIPE } from "akasha/infrastructure/inference/generations/modules/comfy-up-body/comfy-up-body.module.test-fixtures.ts"
 
 const PROVEN = { name: "zimage", port: 8678, smoke: "zimage-smoke" }
 

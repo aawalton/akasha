@@ -1,10 +1,4 @@
 import {
-  Command,
-  CommandGroup,
-  CommandInput,
-  CommandList,
-} from "akasha/design/interfaces/primitives/command/command.module.code.tsx"
-import {
   Dialog,
   DialogContent,
   DialogHeader,
@@ -17,6 +11,12 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
+import {
+  Command,
+  CommandGroup,
+  CommandInput,
+  CommandList,
+} from "akasha/design/interfaces/primitives/modules/command/command.module.code.tsx"
 import {
   type SkillId,
   skills,

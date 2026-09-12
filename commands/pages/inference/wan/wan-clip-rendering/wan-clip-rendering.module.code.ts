@@ -23,11 +23,11 @@ import {
   portIn,
   sizeIn,
 } from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,
-} from "akasha/infrastructure/inference/clients/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
 
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,

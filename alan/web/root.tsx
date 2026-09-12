@@ -9,7 +9,7 @@ import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import { readLocalPosition } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { fontPreloading } from "akasha/code/router-apps/font-preload/font-preload.module.code.ts"
-import { CommandPalette } from "akasha/design/interfaces/primitives/command-palette/command-palette.module.code.tsx"
+import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { configureLocalPositionReader } from "akasha/pages/ui/components/local-position-port/local-position-port.module.code.ts"

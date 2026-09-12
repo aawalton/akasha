@@ -1,5 +1,5 @@
-import { buildingFrom } from "akasha/infrastructure/inference/generations/comfy-up-building/comfy-up-building.module.code.ts"
-import { guarding } from "akasha/infrastructure/inference/generations/comfy-up-guarding/comfy-up-guarding.module.code.ts"
+import { buildingFrom } from "akasha/infrastructure/inference/generations/modules/comfy-up-building/comfy-up-building.module.code.ts"
+import { guarding } from "akasha/infrastructure/inference/generations/modules/comfy-up-guarding/comfy-up-guarding.module.code.ts"
 
 const SHARED = "z"
 

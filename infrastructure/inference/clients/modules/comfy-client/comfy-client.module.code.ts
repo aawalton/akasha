@@ -1,4 +1,4 @@
-import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/graph/comfy-graph.module.code.ts"
+import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 

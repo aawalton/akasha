@@ -34,11 +34,11 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { inferenceZimage as page } from "akasha/commands/pages/inference/zimage/inference-zimage.command.ts"
+import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,
-} from "akasha/infrastructure/inference/clients/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generations/zimage/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,

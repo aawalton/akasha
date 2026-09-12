@@ -1,20 +1,20 @@
 "use client"
 
 import {
-  Command,
-  CommandEmpty,
-  CommandGroup,
-  CommandInput,
-  CommandItem,
-  CommandList,
-} from "akasha/design/interfaces/primitives/command/command.module.code.tsx"
-import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import {
+  Command,
+  CommandEmpty,
+  CommandGroup,
+  CommandInput,
+  CommandItem,
+  CommandList,
+} from "akasha/design/interfaces/primitives/modules/command/command.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useEffect, useState } from "react"

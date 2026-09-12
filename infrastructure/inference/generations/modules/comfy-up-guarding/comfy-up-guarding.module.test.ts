@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { guarding } from "akasha/infrastructure/inference/generations/comfy-up-guarding/comfy-up-guarding.module.code.ts"
+import { guarding } from "akasha/infrastructure/inference/generations/modules/comfy-up-guarding/comfy-up-guarding.module.code.ts"
 
 test("a machine with no podman is refused before anything else is read", () => {
   expect(guarding()[0]).toBe("if ! command -v podman >/dev/null 2>&1; then")

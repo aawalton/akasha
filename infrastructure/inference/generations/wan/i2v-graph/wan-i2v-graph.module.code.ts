@@ -1,7 +1,7 @@
 import type {
   ComfyGraph,
   ComfyNode,
-} from "akasha/infrastructure/inference/comfy/graph/comfy-graph.module.code.ts"
+} from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
 import { buildWanBackbone } from "akasha/infrastructure/inference/generations/wan/backbone/wan-backbone.module.code.ts"
 
 export interface I2vGraphParams {

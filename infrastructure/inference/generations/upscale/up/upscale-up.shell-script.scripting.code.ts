@@ -1,5 +1,5 @@
 import { dirname, relative } from "node:path"
-import { comfyUpBody } from "akasha/infrastructure/inference/generations/comfy-up-body/comfy-up-body.module.code.ts"
+import { comfyUpBody } from "akasha/infrastructure/inference/generations/modules/comfy-up-body/comfy-up-body.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"

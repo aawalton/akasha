@@ -1,7 +1,3 @@
-import {
-  countSlots,
-  updateUnitStats,
-} from "akasha/temper/combat-addon/combat-unit-stats/combat-unit-stats.module.code.ts"
 import type {
   CmxFight,
   CoreLogLine,
@@ -24,6 +20,10 @@ import {
   isPlayerStatsLogLine,
   isResourcesLogLine,
 } from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+import {
+  countSlots,
+  updateUnitStats,
+} from "akasha/temper/combat-addon/modules/combat-unit-stats/combat-unit-stats.module.code.ts"
 
 function getStackData(instance: EffectInstance | undefined, stacks: number): EffectStackData {
   const stackData = instance !== undefined ? instance[stacks] : undefined

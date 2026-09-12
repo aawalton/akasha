@@ -4,11 +4,11 @@ import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.t
 import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { measureCommand as page } from "akasha/commands/pages/measure/command/measure-command.command.ts"
 import {
   COMMAND,
   costsIn,
-} from "akasha/commands/pages/measure/command/command-measuring/command-measuring.module.code.ts"
-import { measureCommand as page } from "akasha/commands/pages/measure/command/measure-command.command.ts"
+} from "akasha/commands/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"
 
 export function measureCommand(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [runWindow])

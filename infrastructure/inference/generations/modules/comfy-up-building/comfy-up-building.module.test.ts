@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { buildingFrom } from "akasha/infrastructure/inference/generations/comfy-up-building/comfy-up-building.module.code.ts"
-import { RECIPE } from "akasha/infrastructure/inference/generations/comfy-up-building/comfy-up-building.module.test-fixtures.ts"
+import { buildingFrom } from "akasha/infrastructure/inference/generations/modules/comfy-up-building/comfy-up-building.module.code.ts"
+import { RECIPE } from "akasha/infrastructure/inference/generations/modules/comfy-up-building/comfy-up-building.module.test-fixtures.ts"
 
 test("the folders a run reads and writes are made before anything is built", () => {
   expect(buildingFrom(RECIPE)[0]).toBe(

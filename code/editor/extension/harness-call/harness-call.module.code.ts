@@ -1,12 +1,12 @@
 import * as fs from "node:fs"
 import * as os from "node:os"
 import * as path from "node:path"
-import { commandServer } from "akasha/code/editor/extension/command-server/command-server.module.ts"
 import {
   askServed,
   type Serving,
   servingFrom,
 } from "akasha/code/editor/extension/command-server-client/command-server-client.module.code.ts"
+import { commandServer } from "akasha/code/editor/extension/modules/command-server/command-server.module.ts"
 import { answerBytesSaid } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
@@ -14,7 +14,7 @@ export function akashaRoot(): string {
   return rootStated(process.env) ?? path.join(os.homedir(), "repos", "akasha")
 }
 
-const SERVER_IN = "code/editor/extension/command-server"
+const SERVER_IN = "code/editor/extension/modules/command-server"
 
 export function serverPath(): string {
   return path.join(akashaRoot(), SERVER_IN, `${commandServer.slug}.module.code.ts`)

@@ -1,4 +1,4 @@
-import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/graph/comfy-graph.module.code.ts"
+import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
 import type { ModelSpec } from "akasha/infrastructure/inference/generations/zimage/models/zimage-models.module.code.ts"
 
 export const ZIMAGE_DEFAULT_WIDTH = 1024
