@@ -3,9 +3,9 @@
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { CharacterManagementPanelCard } from "akasha/temper/web/character-management-panel-card/character-management-panel-card.module.code.tsx"
 import { BuildDescriptionPanelCard } from "akasha/temper/web/modules/build-description-panel-card/build-description-panel-card.module.code.tsx"
 import { BuildInfoPanelCard } from "akasha/temper/web/modules/build-info-panel-card/build-info-panel-card.module.code.tsx"
+import { CharacterManagementPanelCard } from "akasha/temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx"
 
 interface GeneralPanelProps {
   buildId: BuildId

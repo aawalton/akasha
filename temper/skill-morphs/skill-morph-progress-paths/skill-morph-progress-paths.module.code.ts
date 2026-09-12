@@ -1,7 +1,7 @@
 import type {
   ExpectedMorphableSkill,
   MorphSkillLineProgressMap,
-} from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+} from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 
 interface MorphVariantProgress {
   name: string

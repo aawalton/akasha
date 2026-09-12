@@ -36,8 +36,8 @@ export interface PickRelevantSkillLineIdsInput {
   morphableLineDisplayOrders: ReadonlyMap<number, number>
 }
 
-import type { ExpectedMorphableSkill } from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { buildMorphEntry } from "akasha/temper/skill-morphs/modules/build-morph-entry/build-morph-entry.module.code.ts"
+import type { ExpectedMorphableSkill } from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 
 export type ExpectedMorphableSkillForSuggestion = ExpectedMorphableSkill
 

@@ -5,7 +5,7 @@ import type { RoleId } from "akasha/temper/character-sources/character-roles/cha
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import { usePlayerByUserId } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"
-import { CharacterListPanelCard } from "akasha/temper/web/character-list-panel-card/character-list-panel-card.module.code.tsx"
+import { CharacterListPanelCard } from "akasha/temper/web/modules/character-list-panel-card/character-list-panel-card.module.code.tsx"
 
 interface CharacterListCardWithHandleProps {
   build: {

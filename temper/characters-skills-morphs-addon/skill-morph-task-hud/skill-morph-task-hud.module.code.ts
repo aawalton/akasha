@@ -12,7 +12,7 @@ import {
   getSavedVariables,
   type TaskData,
 } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import type { ExpectedMorphableSkill } from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import type { ExpectedMorphableSkill } from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import {
   type MorphSuggestionEntry,
   pickRelevantSkillLineIds,

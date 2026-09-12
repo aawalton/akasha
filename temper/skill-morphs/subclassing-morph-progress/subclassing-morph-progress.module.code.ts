@@ -1,5 +1,5 @@
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { MorphSkillLineProgressMap } from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import type { MorphSkillLineProgressMap } from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import type {
   MorphableSkillDetail,
   SkillMorphProgressEntry,

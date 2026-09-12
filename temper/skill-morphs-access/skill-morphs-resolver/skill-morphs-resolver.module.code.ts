@@ -1,4 +1,4 @@
-import { computeCharacterMorphProgress } from "akasha/temper/skill-morphs/character-morph-progress/character-morph-progress.module.code.ts"
+import { computeCharacterMorphProgress } from "akasha/temper/skill-morphs/modules/character-morph-progress/character-morph-progress.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 import { resolveSkillMorphProgressByPath } from "akasha/temper/skill-morphs/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 import {
