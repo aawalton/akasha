@@ -9,11 +9,6 @@ export const athenaCommandTree = {
   parent: "athena-commands-cleanup",
   intents: [
     {
-      statement: "One check judges the whole command tree.",
-      workingMemory:
-        "`command-is-named-by-its-place-in-the-tree` is the one check. Eleven modules moved and the check widened (`169167e8c1ae`): a module sits directly inside the lowest level every page under `commands/pages` reaching it sits under, one reached across namespaces sits in `commands/modules`, a reader outside `commands/pages` is not counted, and it now dispatches on TypeScript bodies under `commands/`. The one-part gap became a meaning test (`f2c07288812`) only `google-auth` fails.\n",
-    },
-    {
       statement:
         "Every name in the command tree is singular; how many a command answers is no part of its name.",
       workingMemory:
