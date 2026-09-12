@@ -43,6 +43,10 @@ export const mobileSimOpenUrl = {
       statement:
         "An Appium server this started and a simulator this booted are named in the refusal.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An Appium server started is named before the wait for it to answer.",
+    },
   ],
   name: "open-url",
   arguments: [

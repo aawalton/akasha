@@ -2,8 +2,6 @@ import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile
 import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { openSession } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
 import {
-  appiumIsUp,
-  appiumStartedSaid,
   ensureAppium,
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
@@ -36,9 +34,7 @@ export type Read = {
 export type Routing = (done: string[], read: Read) => Promise<Answer>
 
 async function opened(done: string[], read: Read): Promise<Answer> {
-  const wasUp = await appiumIsUp()
-  const base = await ensureAppium()
-  if (!wasUp) done.push(appiumStartedSaid(base))
+  const base = await ensureAppium(done)
   const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim(done))
   const state = await openSession(
     {
