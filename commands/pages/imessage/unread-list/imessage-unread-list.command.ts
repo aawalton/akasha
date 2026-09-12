@@ -6,6 +6,7 @@ export const imessageUnreadList = {
   slug: "imessage-unread-list",
   definition: "the command giving back the unread messages that came to Alan",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
