@@ -1,5 +1,3 @@
-import { fishDonepinTypeCallback } from "akasha/temper/navigation-addon/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"
-import { fishpinTypeCallback } from "akasha/temper/navigation-addon/destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   BrawlpinTypeCallback,
@@ -56,6 +54,8 @@ import {
   mapCallbackFakeKnown,
   mapCallbackUnknown,
 } from "akasha/temper/navigation-addon/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
+import { fishDonepinTypeCallback } from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"
+import { fishpinTypeCallback } from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.code.ts"
 
 export function setPinLayouts(): undefined {
   const layouts = buildPinLayouts()

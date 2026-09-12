@@ -1,7 +1,3 @@
-import {
-  FISH_LOCATIONS_INDEX,
-  FISH_LOCATIONS_STORE,
-} from "akasha/temper/navigation-addon/destinations-fish-data/destinations-fish-data.module.code.ts"
 import { getCollectiblesData } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { MUNDUS_STRINGS } from "akasha/temper/navigation-addon/destinations-mundus-data/destinations-mundus-data.module.code.ts"
 import {
@@ -24,6 +20,10 @@ import {
   CHAMPION_TABLE_INDEX,
   CHAMPION_TABLE_STORE,
 } from "akasha/temper/navigation-addon/modules/destinations-champions-data/destinations-champions-data.module.code.ts"
+import {
+  FISH_LOCATIONS_INDEX,
+  FISH_LOCATIONS_STORE,
+} from "akasha/temper/navigation-addon/modules/destinations-fish-data/destinations-fish-data.module.code.ts"
 
 export type AchRow = (number | string)[]
 export type ChampionRow = number[]

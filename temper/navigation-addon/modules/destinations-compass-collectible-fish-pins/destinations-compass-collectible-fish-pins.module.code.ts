@@ -1,9 +1,3 @@
-import {
-  DESTINATIONS_FISH_TYPE_FOUL,
-  DESTINATIONS_FISH_TYPE_LAKE,
-  DESTINATIONS_FISH_TYPE_OCEAN,
-  DESTINATIONS_FISH_TYPE_RIVER,
-} from "akasha/temper/navigation-addon/destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -20,6 +14,12 @@ import {
   rowString,
 } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  DESTINATIONS_FISH_TYPE_FOUL,
+  DESTINATIONS_FISH_TYPE_LAKE,
+  DESTINATIONS_FISH_TYPE_OCEAN,
+  DESTINATIONS_FISH_TYPE_RIVER,
+} from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
 
 export function collectibleFishCompassPins(this: void): undefined {
   const cssv = getCharacterSavedVariables()

@@ -1,10 +1,3 @@
-import { baitAndWaterForPinType } from "akasha/temper/navigation-addon/destinations-fishing-bait/destinations-fishing-bait.module.code.ts"
-import {
-  DESTINATIONS_FISH_TYPE_FOUL,
-  DESTINATIONS_FISH_TYPE_LAKE,
-  DESTINATIONS_FISH_TYPE_OCEAN,
-  DESTINATIONS_FISH_TYPE_RIVER,
-} from "akasha/temper/navigation-addon/destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   ACH_STATE,
@@ -25,6 +18,13 @@ import {
   DEST_PIN_TEXT_COLORTITLE_FISH,
   DEST_PIN_TEXT_COLORWATER_FISH_DONE,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { baitAndWaterForPinType } from "akasha/temper/navigation-addon/modules/destinations-fishing-bait/destinations-fishing-bait.module.code.ts"
+import {
+  DESTINATIONS_FISH_TYPE_FOUL,
+  DESTINATIONS_FISH_TYPE_LAKE,
+  DESTINATIONS_FISH_TYPE_OCEAN,
+  DESTINATIONS_FISH_TYPE_RIVER,
+} from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
 
 export function fishDonepinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return
