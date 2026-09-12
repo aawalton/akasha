@@ -42,19 +42,9 @@ test("the root a call is answered against is the one rooting reads", () => {
   expect(outsideOf({}, AT, "/nowhere").root).toBe(ROOT_AT)
 })
 
-test("a commit is authored as Claude when no agent and no writer are stated", () => {
+test("the writer a call carries is the one commit-author answers", () => {
   forgetCommitAuthor()
   expect(outsideOf({}, AT, "/nowhere").writer).toBe(CLAUDE_AUTHOR)
-})
-
-test("an empty stated writer is treated as none stated", () => {
-  forgetCommitAuthor()
-  expect(outsideOf({ AKASHA_WRITER: "" }, AT, "/nowhere").writer).toBe(CLAUDE_AUTHOR)
-})
-
-test("a stated writer wins over the persona", () => {
-  const said = outsideOf({ AKASHA_WRITER: "Someone <one@two.three>" }, AT, "/nowhere")
-  expect(said.writer).toBe("Someone <one@two.three>")
 })
 
 test("an agent is nobody when nothing names one", () => {

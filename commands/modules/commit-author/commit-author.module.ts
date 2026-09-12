@@ -6,6 +6,7 @@ export const commitAuthor = {
   slug: "commit-author",
   definition: "who a commit is authored as, read from the persona the writing seat acts under",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
