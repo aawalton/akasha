@@ -11,14 +11,15 @@ export const temperAutoQuestTrace = {
     { said: "--path <path>", takes: "the saved-variables file the trace is read from" },
     { said: "--json", takes: "give the whole trace as JSON rather than as text" },
   ],
-  helpNotes: [
-    "the path defaults to the quests addon's saved variables in the workstation's live game install.",
-    "a capture the file does not hold is refused rather than read as an empty trace.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The trace is read from the addon's saved variables.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no path reads the quests addon's capture in the game's live saved variables.",
     },
     {
       invariantKind: "departure",
