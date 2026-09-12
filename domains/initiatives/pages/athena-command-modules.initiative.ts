@@ -24,11 +24,6 @@ export const athenaCommandModules = {
         "`repo-seeding` sits in `testing-system/` (62451e2a65c). `scratching` is still under `commands/modules/`; `utils/fs` is where it goes and its 250 importers move with it, but the landing is refused by 8 tests failing in check test files the move does not touch — `hand-written-global-is-no-method`, `held-addon-names-a-roster-addon`, `introduced-property-is-a-part`, `no-raw-nul-bytes` — each a fixture root the check reads nothing out of. Who mends those first?\n",
     },
     {
-      statement: "Each mechanical writer sits in the domain that owns what that writer writes.",
-      workingMemory:
-        "`spacing-stepping`, `source-globbing`, `type-generating` and `group-writing` have moved. `manifest-locking` and `export-naming` are still under `commands/modules/`, and `applying` is a second caller of `manifest-locking` past `change-preparing`. All six rewrite one file, `change-preparing.module.code.ts`, so two agents moving at once refuse each other's landings.\n",
-    },
-    {
       statement:
         "`cli` prints an answer and gives that answer an exit code, and does nothing else.",
       workingMemory:
