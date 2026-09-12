@@ -13,18 +13,6 @@ import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { TEXT_TERTIARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import {
-  formatArmorSlot,
-  formatJewelrySlot,
-  formatWeaponSlot,
-  getQualityColorForSlot,
-} from "akasha/temper/companions-addon/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
-import {
-  equipState,
-  hideOptimalColumn,
-  hideUpgradeIndicators,
-  refreshUpgradeIndicators,
-} from "akasha/temper/companions-addon/companions-equipment-panel/companions-equipment-panel.module.code.ts"
 import { TWO_HANDED_TYPES } from "akasha/temper/companions-addon/companions-equipment-rows/companions-equipment-rows.module.code.ts"
 import {
   formatArmorFromIndices,
@@ -49,6 +37,18 @@ import {
 } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
 import { SLOT_NAMES } from "akasha/temper/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"
+import {
+  formatArmorSlot,
+  formatJewelrySlot,
+  formatWeaponSlot,
+  getQualityColorForSlot,
+} from "akasha/temper/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
+import {
+  equipState,
+  hideOptimalColumn,
+  hideUpgradeIndicators,
+  refreshUpgradeIndicators,
+} from "akasha/temper/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {

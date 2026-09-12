@@ -19,13 +19,6 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import {
-  describeMismatch,
-  EQUIPMENT_SLOT_COUNT,
-  type EquipmentSlotGroup,
-  evaluateEquipmentMatch,
-  type SlotMismatch,
-} from "akasha/temper/companions-addon/companions-equipment-match/companions-equipment-match.module.code.ts"
 import { scanForUpgrades } from "akasha/temper/companions-addon/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
 import {
   captureAndSaveActiveCompanionBuild,
@@ -49,6 +42,13 @@ import {
 } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
 import { SLOT_NAMES } from "akasha/temper/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"
+import {
+  describeMismatch,
+  EQUIPMENT_SLOT_COUNT,
+  type EquipmentSlotGroup,
+  evaluateEquipmentMatch,
+  type SlotMismatch,
+} from "akasha/temper/companions-addon/modules/companions-equipment-match/companions-equipment-match.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN
