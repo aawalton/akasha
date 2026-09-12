@@ -8,5 +8,4 @@ export const turnState = {
   takes: "a turn state to answer for rather than an agent, said once per state",
   value: "text",
   placeholder: "name",
-  repeats: true,
 } as const satisfies Argument
