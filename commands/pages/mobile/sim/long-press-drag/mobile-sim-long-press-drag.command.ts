@@ -19,13 +19,7 @@ export const mobileSimLongPressDrag = {
     { said: "--steps <n>", takes: "how many moves the drag is made of, 12 where none is said" },
     { said: "--step-ms <ms>", takes: "how long each move takes, 30 where none is said" },
   ],
-  helpNotes: [
-    "the hold is what opens a long-press menu, and the drag is what reaches an item on it.",
-    "a drag that ends where it began is still a drag, which is how a menu is opened and left open.",
-    "the four coordinates are each required, since a gesture missing an end is no gesture.",
-    "the session already there is what is dragged in, so `mobile sim open-url` comes first.",
-    "the drag is made of moves rather than of one jump, because one jump reads as a tap somewhere else.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
