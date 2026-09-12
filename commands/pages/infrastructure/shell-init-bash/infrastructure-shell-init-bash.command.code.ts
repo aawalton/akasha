@@ -1,4 +1,10 @@
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { AliasEntry } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.code.ts"
@@ -25,12 +31,12 @@ export function accountsIn(root: string): readonly AliasEntry[] {
 
 export function infrastructureShellInitBash(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     const accounts = accountsIn(given.root)
-    if (accounts.length === 0) return { report: [], refusals: [NO_ACCOUNT], code: 2 }
-    return { report: generateBashInit(accounts).split("\n"), refusals: [], code: 0 }
+    if (accounts.length === 0) return refusedBy([NO_ACCOUNT], DATA)
+    return told(generateBashInit(accounts).split("\n"))
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

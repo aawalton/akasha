@@ -1,5 +1,12 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { basename } from "node:path"
+import {
+  asJson,
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -89,32 +96,23 @@ export async function seatRefreshSettings(argv: readonly string[]): Promise<Answ
   const stray = argv.filter((one) => one !== JSON_FLAG)
   if (stray.length > 0) {
     const said = namesDrawn(stray)
-    return {
-      report: [],
-      refusals: [`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`],
-      code: 1,
-    }
+    return refusedBy([`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`])
   }
   const base = await readAgentSettingsBase()
   if (base.kind !== "loaded") {
-    return {
-      report: [],
-      refusals: [
-        `${AGENT_SETTINGS_PATH} would not read, so there is nothing to write: ${base.reason}`,
-      ],
-      code: 2,
-    }
+    return refusedBy(
+      [`${AGENT_SETTINGS_PATH} would not read, so there is nothing to write: ${base.reason}`],
+      DATA
+    )
   }
   let paths: readonly string[]
   try {
     paths = liveSettingsPaths()
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
-  if (paths.length === 0) return { report: [], refusals: [NOTHING_LIVE], code: 2 }
+  if (paths.length === 0) return refusedBy([NOTHING_LIVE], DATA)
   const rows = paths.map((path) => refreshedAt(path, base.settings))
-  if (argv.includes(JSON_FLAG)) {
-    return { report: [JSON.stringify({ rows })], refusals: [], code: 0 }
-  }
-  return { report: rows.map((row) => `${row.path}\t${row.outcome}`), refusals: [], code: 0 }
+  if (argv.includes(JSON_FLAG)) return asJson({ rows })
+  return told(rows.map((row) => `${row.path}\t${row.outcome}`))
 }
