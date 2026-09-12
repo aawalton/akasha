@@ -1,4 +1,4 @@
-import type { LogType } from "akasha/temper/addon-log/addon-log/addon-log.module.code.ts"
+import type { LogType } from "akasha/temper/addon-log/modules/addon-log/addon-log.module.code.ts"
 
 export type GlobalObjectTable = Record<string, unknown>
 

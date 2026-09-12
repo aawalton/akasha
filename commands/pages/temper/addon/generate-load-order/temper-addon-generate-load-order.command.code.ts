@@ -12,7 +12,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperAddonGenerateLoadOrder as page } from "akasha/commands/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { writeLoadOrder } from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
+import { writeLoadOrder } from "akasha/temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"
 import {
   listAllAddons,
   resolveAddon,

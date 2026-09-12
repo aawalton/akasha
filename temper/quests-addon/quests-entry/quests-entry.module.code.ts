@@ -1,6 +1,6 @@
 import "akasha/temper/quests-addon/quests-public-api/quests-public-api.module.code.ts"
 
-import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
+import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { registerAutoQuestEvents } from "akasha/temper/quests-addon/quests-auto-quest/quests-auto-quest.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/quests-addon/quests-constants/quests-constants.module.code.ts"
 import { initializeSavedVariables } from "akasha/temper/quests-addon/quests-saved-variables/quests-saved-variables.module.code.ts"

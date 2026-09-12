@@ -1,13 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, join, relative, resolve, sep } from "node:path"
 import {
-  ADDON_BUILD_COMMAND,
-  ADDON_BUNDLE_UNIT,
-  type AddonDistBundles,
-  collectAddonDistBundles,
-  refuseAddonDistPopulation,
-} from "akasha/temper/build-deploy-checks/addon-dist-bundles/addon-dist-bundles.module.code.ts"
-import {
   assertStringIdsRegistered,
   extractOnInitializedGetStringIds,
   filterAddonOwnedStringIds,
@@ -22,6 +15,13 @@ import {
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
 import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
+import {
+  ADDON_BUILD_COMMAND,
+  ADDON_BUNDLE_UNIT,
+  type AddonDistBundles,
+  collectAddonDistBundles,
+  refuseAddonDistPopulation,
+} from "akasha/temper/build-deploy-checks/modules/addon-dist-bundles/addon-dist-bundles.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"

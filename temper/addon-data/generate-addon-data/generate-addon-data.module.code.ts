@@ -1,9 +1,9 @@
-import { buildAddonDataWrites } from "akasha/temper/addon-data/addon-data-writes/addon-data-writes.module.code.ts"
 import { logInventoryOutputSummary } from "akasha/temper/addon-data/inventory-output-summary/inventory-output-summary.module.code.ts"
 import { buildMappingGeneratorWrites } from "akasha/temper/addon-data/mapping-generator-writes/mapping-generator-writes.module.code.ts"
 import { buildMappingTotals } from "akasha/temper/addon-data/mapping-totals/mapping-totals.module.code.ts"
 import { ensureAllOutputDirs } from "akasha/temper/addon-data/modules/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
 import { fetchAddonDataPages } from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
+import { buildAddonDataWrites } from "akasha/temper/addon-data/modules/addon-data-writes/addon-data-writes.module.code.ts"
 import {
   buildPageRowTotals,
   logMappingTotals,

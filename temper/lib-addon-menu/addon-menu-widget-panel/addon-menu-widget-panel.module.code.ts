@@ -2,26 +2,26 @@ import {
   asEsoHandler,
   asLamControl,
   asLamFactory,
-} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
-import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.code.ts"
 import {
   cm,
   LAMCC,
   lam,
   registerWidget,
   wm,
-} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   LamControl,
   PanelData,
   Valued,
-} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
-import { L } from "akasha/temper/lib-addon-menu/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
+import { L } from "akasha/temper/lib-addon-menu/modules/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
 import {
   getStringFromValue,
   getTopPanel,
   requestRefreshIfNeeded,
-} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
 
 const SEPARATOR = " - "
 const COLORED_SEPARATOR = ZO_WHITE.Colorize(SEPARATOR)

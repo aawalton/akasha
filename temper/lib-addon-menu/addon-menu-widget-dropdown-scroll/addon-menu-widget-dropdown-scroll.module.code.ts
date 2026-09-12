@@ -1,7 +1,7 @@
 import type {
   DropdownData,
   LamControl,
-} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
 
 const DEFAULT_VISIBLE_ROWS = 10
 const PADDING_Y = ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y

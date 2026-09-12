@@ -2,17 +2,17 @@ import {
   asEsoHandler,
   asLamFactory,
   asTooltipHostControl,
-} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
-import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.code.ts"
 import {
   LAMCC,
   registerWidget,
   wm,
-} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   DescriptionData,
   LamControl,
-} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
 import {
   createBaseControl,
   getColorForState,
@@ -20,7 +20,7 @@ import {
   getStringFromValue,
   registerForRefreshIfNeeded,
   setUpTooltip,
-} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
 
 function onLinkClicked(
   this: void,

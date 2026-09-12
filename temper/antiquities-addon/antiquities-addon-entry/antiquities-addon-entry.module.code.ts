@@ -2,7 +2,7 @@ import "akasha/temper/antiquities-addon/antiquities-addon-global/antiquities-add
 
 import "akasha/temper/antiquities-addon/leads-init/leads-init.module.code.ts"
 
-import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
+import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { onAddOnLoaded } from "akasha/temper/antiquities-addon/antiquities-addon-loaded/antiquities-addon-loaded.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/antiquities-addon/antiquities-addon-names/antiquities-addon-names.module.code.ts"
 

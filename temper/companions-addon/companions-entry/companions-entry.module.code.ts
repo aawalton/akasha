@@ -28,7 +28,7 @@ import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import "akasha/temper/companions-addon/companions-globals/companions-globals.module.code.ts"
 
-import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
+import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,

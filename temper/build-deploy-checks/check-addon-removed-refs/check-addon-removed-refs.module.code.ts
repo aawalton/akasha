@@ -1,17 +1,17 @@
 import { relative, resolve } from "node:path"
 import {
-  ADDON_BUNDLE_UNIT,
-  type AddonDistBundles,
-  collectAddonDistBundles,
-  refuseAddonDistPopulation,
-} from "akasha/temper/build-deploy-checks/addon-dist-bundles/addon-dist-bundles.module.code.ts"
-import {
   formatIssue,
   type RemovedRefIssue,
   scanBundleFile,
 } from "akasha/temper/build-deploy-checks/addon-removed-refs/addon-removed-refs.module.code.ts"
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
 import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import {
+  ADDON_BUNDLE_UNIT,
+  type AddonDistBundles,
+  collectAddonDistBundles,
+  refuseAddonDistPopulation,
+} from "akasha/temper/build-deploy-checks/modules/addon-dist-bundles/addon-dist-bundles.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 

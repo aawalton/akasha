@@ -16,11 +16,6 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import { temperCommunityAddonUpdate as page } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
 import {
-  clearedSaid,
-  downloadAndInstall,
-  laidSaid,
-} from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
-import {
   distinctUids,
   type PlannedAddon,
   planUpdates,
@@ -32,6 +27,11 @@ import {
   fetchFileDetails,
 } from "akasha/temper/community-addons/esoui-catalog/esoui-catalog.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
+import {
+  clearedSaid,
+  downloadAndInstall,
+  laidSaid,
+} from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

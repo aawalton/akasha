@@ -1,13 +1,13 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join, relative, sep } from "node:path"
 import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   type AddonDependencies,
   resolveDistributableSet,
 } from "akasha/temper/addons-resolve/distributable-set/distributable-set.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,

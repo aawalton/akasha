@@ -1,19 +1,19 @@
 import {
   asControl,
   asLamFactory,
-} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
-import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.code.ts"
 import {
   LAMCC,
   lam,
   registerWidget,
   wm,
-} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   ColorpickerData,
   LamControl,
   UpdateValueFn,
-} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
 import {
   getDefaultValue,
   getStringFromValue,
@@ -21,7 +21,7 @@ import {
   registerForReloadIfNeeded,
   requestRefreshIfNeeded,
   updateWarning,
-} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 

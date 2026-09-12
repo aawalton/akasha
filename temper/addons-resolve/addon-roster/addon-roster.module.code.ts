@@ -1,8 +1,8 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   computeWorkspaceClosure,
   loadWorkspaceCatalog,

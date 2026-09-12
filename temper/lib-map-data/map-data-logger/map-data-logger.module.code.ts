@@ -1,7 +1,7 @@
 import {
   createAddonLog,
   type LogType,
-} from "akasha/temper/addon-log/addon-log/addon-log.module.code.ts"
+} from "akasha/temper/addon-log/modules/addon-log/addon-log.module.code.ts"
 import { INTERNAL } from "akasha/temper/lib-map-data/map-data-lib-state/map-data-lib-state.module.code.ts"
 import type { Internal } from "akasha/temper/lib-map-data/map-data-types/map-data-types.module.code.ts"
 

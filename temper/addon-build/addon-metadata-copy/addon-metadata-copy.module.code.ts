@@ -1,10 +1,6 @@
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
-  DIST_UNDER,
-  writeLoadOrder,
-} from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
-import {
   addonBindingsPathIn,
   BINDINGS_FILE_NAME,
   GAME_METADATA_DIR,
@@ -12,9 +8,13 @@ import {
   namedFilePathsIn,
 } from "akasha/temper/addon-build/addon-metadata-files/addon-metadata-files.module.code.ts"
 import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import {
+  DIST_UNDER,
+  writeLoadOrder,
+} from "akasha/temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"
 import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,

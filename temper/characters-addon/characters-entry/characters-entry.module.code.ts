@@ -1,6 +1,6 @@
 import "akasha/temper/characters-addon/characters-public-api/characters-public-api.module.code.ts"
 
-import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
+import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,

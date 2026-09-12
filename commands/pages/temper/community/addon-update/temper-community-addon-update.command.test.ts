@@ -7,11 +7,11 @@ import {
   temperCommunityAddonUpdate,
   wentSaid,
 } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"
+import type { PlannedAddon } from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
 import {
   clearedSaid,
   laidSaid,
-} from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
-import type { PlannedAddon } from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
+} from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
 
 const AT = "/nowhere/addons"
 
