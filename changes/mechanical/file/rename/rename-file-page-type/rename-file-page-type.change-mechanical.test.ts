@@ -121,9 +121,22 @@ const RUNS: Reaching = async (world, at, given) => {
   return refusing(`\`${at}\` is reached by nothing here`)
 }
 
+const BARE_TYPE = "akasha/bare.page-type.ts"
+
+const BARE_BODY = `export type Bare = { readonly id: string }
+
+${pageOf({
+  id: idOf("c"),
+  pageTypeSlug: "page-type",
+  slug: "bare",
+  pluralSlug: "bares",
+  extends: ["page-type/page"],
+})}`
+
 function repoIn(): string {
   return indexedRepo({
     [KEPT_TYPE]: TYPE_BODY,
+    [BARE_TYPE]: BARE_BODY,
     [ONE_PAGE]: ONE_BODY,
     [ONE_CODE]: ONE_CODE_BODY,
     [SPELLER_PAGE]: pageOf({
@@ -153,7 +166,9 @@ function counting(): { readonly runs: Reaching; readonly called: () => number } 
 
 const KEPT_ROOT = repoIn()
 
-const KEPT_WORLD = worldIn(KEPT_ROOT)
+const KEPT_COUNTED = counting()
+
+const KEPT_WORLD = worldIn(KEPT_ROOT, KEPT_COUNTED.runs)
 
 const ASKED = { at: KEPT_TYPE, to: CARRIED, plural: "carrieds" }
 
@@ -227,56 +242,22 @@ export const longDayOne = {
 } as const satisfies LongDay
 `
 
-function ownedRepo(): string {
-  return indexedRepo({
-    [OWNED_TYPE]: OWNED_TYPE_BODY,
-    [OWNED_WORKED]: "export type WorkedLongDay = { readonly id: string }\n",
-    [OWNED_PAGE]: OWNED_PAGE_BODY,
-  })
-}
+const OWNED_WORKED_LANDS = "akasha/days/day.page-type.worked.ts"
 
-const OWNED_ASKED = { at: OWNED_TYPE, to: "day", plural: "days" }
+const OWNED_READER_PAGE = "akasha/reader.module.ts"
 
-test("a page type whose folder already names its new plural keeps that folder", async () => {
-  const said = await runChange(worldIn(ownedRepo()), OWNED_ASKED)
-  const paths = pathsIn(said)
+const OWNED_READER_CODE = "akasha/reader.module.code.ts"
 
-  expect(said.refused).toBe(null)
-  expect(paths).toContain(OWNED_LANDS)
-  expect(paths).toContain(OWNED_PAGE_LANDS)
-})
+const WORKED_PROPERTY = "akasha/worked.file-property.ts"
 
-const HELD_TYPE = "akasha/held.page-type.ts"
+const OWNED_READER_BODY = `import type { WorkedLongDay } from "./days/long-day.page-type.worked.ts"
 
-const HELD_WORKED = "akasha/held.page-type.worked.ts"
-
-const HELD_WORKED_LANDS = "akasha/borne.page-type.worked.ts"
-
-const HELD_READER_PAGE = "akasha/reader.module.ts"
-
-const HELD_READER_CODE = "akasha/reader.module.code.ts"
-
-const HELD_TYPE_BODY = `export type Held = { readonly id: string }
-
-${pageOf({
-  id: idOf("g"),
-  pageTypeSlug: "page-type",
-  slug: "held",
-  pluralSlug: "helds",
-  extends: ["page-type/page"],
-  worked: "ts",
-})}`
-
-const HELD_READER_BODY = `import type { WorkedHeld } from "./held.page-type.worked.ts"
-
-export function idIn(one: WorkedHeld): string {
+export function idIn(one: WorkedLongDay): string {
   return one.id
 }
 `
 
-const WORKED_PROPERTY = "akasha/worked.file-property.ts"
-
-function heldRepo(): string {
+function ownedRepo(): string {
   return indexedRepo({
     [WORKED_PROPERTY]: pageOf({
       id: idOf("9"),
@@ -284,57 +265,61 @@ function heldRepo(): string {
       slug: "worked",
       propertySlug: "worked",
     }),
-    [HELD_TYPE]: HELD_TYPE_BODY,
-    [HELD_WORKED]: "export type WorkedHeld = { readonly id: string }\n",
-    [HELD_READER_PAGE]: pageOf({
+    [OWNED_TYPE]: OWNED_TYPE_BODY,
+    [OWNED_WORKED]: "export type WorkedLongDay = { readonly id: string }\n",
+    [OWNED_PAGE]: OWNED_PAGE_BODY,
+    [OWNED_READER_PAGE]: pageOf({
       id: idOf("h"),
       pageTypeSlug: "module",
       slug: "reader",
       code: "ts",
     }),
-    [HELD_READER_CODE]: HELD_READER_BODY,
+    [OWNED_READER_CODE]: OWNED_READER_BODY,
   })
 }
 
-const HELD_ASKED = { at: HELD_TYPE, to: "borne", plural: "bornes" }
+const OWNED_ASKED = { at: OWNED_TYPE, to: "day", plural: "days" }
 
-test("the type a page type's worked file exports is spelled from the new slug", async () => {
-  const world = worldIn(heldRepo())
-  const said = await runChange(world, HELD_ASKED)
-  const bodies = bodiesIn(said, world.base)
+const OWNED_WORLD = worldIn(ownedRepo())
+
+let owned: Promise<Answer> | null = null
+
+function ownedSaid(): Promise<Answer> {
+  owned ??= runChange(OWNED_WORLD, OWNED_ASKED)
+  return owned
+}
+
+test("a page type whose folder already names its new plural keeps that folder", async () => {
+  const said = await ownedSaid()
+  const paths = pathsIn(said)
 
   expect(said.refused).toBe(null)
-  expect(bodies.get(HELD_WORKED_LANDS) ?? "").toContain("export type WorkedBorne")
-  expect(bodies.get(HELD_READER_CODE) ?? "").toContain("WorkedBorne")
-  expect(bodies.get(HELD_READER_CODE) ?? "").not.toContain("WorkedHeld")
+  expect(paths).toContain(OWNED_LANDS)
+  expect(paths).toContain(OWNED_PAGE_LANDS)
 })
 
-const BARE_TYPE = "akasha/bare.page-type.ts"
+test("the type a page type's worked file exports is spelled from the new slug", async () => {
+  const said = await ownedSaid()
+  const bodies = bodiesIn(said, OWNED_WORLD.base)
 
-const BARE_BODY = `export type Bare = { readonly id: string }
-
-${pageOf({
-  id: idOf("c"),
-  pageTypeSlug: "page-type",
-  slug: "bare",
-  pluralSlug: "bares",
-  extends: ["page-type/page"],
-})}`
+  expect(said.refused).toBe(null)
+  expect(bodies.get(OWNED_WORKED_LANDS) ?? "").toContain("export type WorkedDay")
+  expect(bodies.get(OWNED_READER_CODE) ?? "").toContain("WorkedDay")
+  expect(bodies.get(OWNED_READER_CODE) ?? "").not.toContain("WorkedLongDay")
+})
 
 const BARE_ASKED = { at: BARE_TYPE, to: CARRIED, plural: "carrieds" }
 
 test("every page's address is restated over one reading of the bodies", async () => {
-  const counted = counting()
-  const said = await runChange(worldIn(KEPT_ROOT, counted.runs), ASKED)
+  const said = await keptSaid()
 
   expect(said.refused).toBe(null)
-  expect(counted.called()).toBe(1)
+  expect(KEPT_COUNTED.called()).toBe(1)
 })
 
 test("a page type carrying no page has no address restated", async () => {
   const counted = counting()
-  const root = indexedRepo({ [BARE_TYPE]: BARE_BODY })
-  const said = await runChange(worldIn(root, counted.runs), BARE_ASKED)
+  const said = await runChange(worldIn(KEPT_ROOT, counted.runs), BARE_ASKED)
 
   expect(said.refused).toBe(null)
   expect(counted.called()).toBe(0)
