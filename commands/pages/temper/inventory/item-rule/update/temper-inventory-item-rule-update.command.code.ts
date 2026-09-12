@@ -1,84 +1,68 @@
+import type { TakenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { action } from "akasha/commands/arguments/pages/action.argument.ts"
+import { active } from "akasha/commands/arguments/pages/active.argument.ts"
+import { destination } from "akasha/commands/arguments/pages/destination.argument.ts"
+import { force } from "akasha/commands/arguments/pages/force.argument.ts"
+import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
+import { itemRuleId } from "akasha/commands/arguments/pages/item-rule-id.argument.ts"
+import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
+import { stockQuantity } from "akasha/commands/arguments/pages/stock-quantity.argument.ts"
+import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryItemRuleUpdate as page } from "akasha/commands/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.ts"
 import {
-  ACTIVE,
-  answeredCall,
-  FORCE,
-  GOAL,
+  answeredByPage,
   lockedOff,
-  NOTES,
   named,
   refusing,
   settingsOf,
-  shapeOf,
-  TITLE,
   toldOf,
   unfound,
-  webIn,
-  wholeOf,
+  webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
 import { bulkUpdateItemRules } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-const ACTION = "--action"
+const CHANGED = [action, destination, title, notes, goal, active, stockQuantity]
 
-const DESTINATION = "--destination"
+const PAGES = [...CHANGED, force, itemRuleId]
 
-const STOCK_QUANTITY = "--stock-quantity"
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-const CHANGES = [ACTION, DESTINATION, TITLE, NOTES, GOAL, ACTIVE, STOCK_QUANTITY]
-
-const SHAPE = shapeOf([...CHANGES, FORCE], {
-  alone: [FORCE],
-  whole: [STOCK_QUANTITY],
-  yesNo: [ACTIVE],
-  namesARule: true,
-})
-
-async function changed(
-  id: string,
-  held: ReadonlyMap<string, string>,
-  given: Given
-): Promise<Answer> {
-  const action = held.get(ACTION)
-  const destinationSaid = held.get(DESTINATION)
-  let destination: ReturnType<typeof narrowDestination>
-  if (destinationSaid !== undefined) {
-    destination = narrowDestination(destinationSaid)
-    if (destination === undefined) {
-      return refusing(
-        `\`${DESTINATION}\` names \`${destinationSaid}\`, which is no destination`,
-        INPUT
-      )
+async function changed(taken: Taken, calledAs: string): Promise<Answer> {
+  const said = taken.destination
+  let moveTo: ReturnType<typeof narrowDestination>
+  if (said !== undefined) {
+    moveTo = narrowDestination(said)
+    if (moveTo === undefined) {
+      return refusing(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
     }
   }
-  const stockQuantity = wholeOf(held, STOCK_QUANTITY)
   const patch: Partial<
     Pick<
       ItemRule,
       "action" | "destination" | "active" | "goal" | "title" | "notes" | "stockQuantity"
     >
   > = {
-    ...(action !== undefined ? { action: narrowItemAction(action, ACTION) } : {}),
-    ...(destination !== undefined ? { destination } : {}),
-    ...(stockQuantity !== undefined ? { stockQuantity } : {}),
-    ...webIn(held),
+    ...(taken.action !== undefined ? { action: narrowItemAction(taken.action, action.said) } : {}),
+    ...(moveTo !== undefined ? { destination: moveTo } : {}),
+    ...(taken.stockQuantity !== undefined ? { stockQuantity: taken.stockQuantity } : {}),
+    ...webOf(taken),
   }
   if (Object.keys(patch).length === 0) {
-    return refusing(
-      `\`${given.calledAs}\` names no field to change — it changes ${named(CHANGES)}`,
-      INPUT
-    )
+    const every = named(CHANGED.map((one) => one.said))
+    return refusing(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
   }
-  const force = held.has(FORCE)
+  const id = taken.itemRuleId
   const settingsAccess = await settingsOf()
   const settings = await settingsAccess.read()
   const rule = (settings.itemRules ?? []).find((one) => one.id === id)
   if (rule === undefined) return unfound("item", id)
-  if (rule.locked === true && !force) return lockedOff("item", id)
-  const next = bulkUpdateItemRules(settings, [id], patch, { force })
+  if (rule.locked === true && !taken.force) return lockedOff("item", id)
+  const next = bulkUpdateItemRules(settings, [id], patch, { force: taken.force })
   await settingsAccess.write(next)
   return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? rule)
 }
@@ -87,5 +71,7 @@ export async function temperInventoryItemRuleUpdate(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredCall(argv, given.calledAs, SHAPE, (held, id) => changed(id, held, given))
+  return await answeredByPage(argv, given.calledAs, page, PAGES, (taken) =>
+    changed(taken, given.calledAs)
+  )
 }

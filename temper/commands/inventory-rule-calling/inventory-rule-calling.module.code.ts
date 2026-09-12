@@ -269,6 +269,23 @@ export function webIn(held: ReadonlyMap<string, string>): Record<string, unknown
   }
 }
 
+export type Webbed = {
+  readonly title?: string
+  readonly notes?: string
+  readonly goal?: string
+  readonly active?: boolean
+}
+
+export function webOf(taken: Webbed): Record<string, unknown> {
+  const { title, notes, goal, active } = taken
+  return {
+    ...(title !== undefined ? { title } : {}),
+    ...(notes !== undefined ? { notes } : {}),
+    ...(goal !== undefined ? { goal } : {}),
+    ...(active !== undefined ? { active } : {}),
+  }
+}
+
 export function unfound(kind: Kind, id: string): Answer {
   return refused(`no ${KINDLY[kind].named} carries the id \`${id}\``, DATA)
 }

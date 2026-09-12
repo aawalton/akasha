@@ -1,16 +1,22 @@
+import type { TakenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { action } from "akasha/commands/arguments/pages/action.argument.ts"
+import { active } from "akasha/commands/arguments/pages/active.argument.ts"
+import { category } from "akasha/commands/arguments/pages/category.argument.ts"
+import { conditions } from "akasha/commands/arguments/pages/conditions.argument.ts"
+import { destination } from "akasha/commands/arguments/pages/destination.argument.ts"
+import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
+import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
+import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
+import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryRuleCreate as page } from "akasha/commands/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts"
 import {
-  ACTIVE,
-  answeredCall,
-  GOAL,
-  NOTES,
+  answeredByPage,
   settingsOf,
-  shapeOf,
-  TITLE,
   toldOf,
-  webIn,
+  webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowItemAction,
@@ -21,43 +27,31 @@ import {
 import { addCategoryRule } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-const CATEGORY = "--category"
+const PAGES = [title, notes, goal, active, action, destination, stockScope, category, conditions]
 
-const ACTION = "--action"
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-const DESTINATION = "--destination"
-
-const CONDITIONS = "--conditions"
-
-const STOCK_SCOPE = "--stock-scope"
-
-const SHAPE = shapeOf(
-  [CATEGORY, ACTION, DESTINATION, CONDITIONS, TITLE, NOTES, GOAL, ACTIVE, STOCK_SCOPE],
-  { yesNo: [ACTIVE], required: [CATEGORY, ACTION] }
-)
-
-async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
-  const destination = held.get(DESTINATION)
-  const scope = held.get(STOCK_SCOPE)
-  const goal = held.get(GOAL)
-  const conditions = parseConditionsJson(held.get(CONDITIONS))
+async function made(taken: Taken): Promise<Answer> {
+  const narrowed = parseConditionsJson(taken.conditions)
   const settingsAccess = await settingsOf()
   const settings = await settingsAccess.read()
   const next = addCategoryRule(settings, {
-    categoryId: held.get(CATEGORY) ?? "",
-    action: narrowItemAction(held.get(ACTION) ?? "", ACTION),
-    ...(destination !== undefined
-      ? { destination: narrowMoveToDestination(destination, DESTINATION) }
+    categoryId: taken.category,
+    action: narrowItemAction(taken.action, action.said),
+    ...(taken.destination !== undefined
+      ? { destination: narrowMoveToDestination(taken.destination, destination.said) }
       : {}),
-    ...(conditions !== undefined ? { conditions } : {}),
-    ...(scope !== undefined ? { stockScope: narrowStockScope(scope, STOCK_SCOPE) } : {}),
-    ...(goal !== undefined ? { goal } : {}),
+    ...(narrowed !== undefined ? { conditions: narrowed } : {}),
+    ...(taken.stockScope !== undefined
+      ? { stockScope: narrowStockScope(taken.stockScope, stockScope.said) }
+      : {}),
+    ...(taken.goal !== undefined ? { goal: taken.goal } : {}),
   })
   const created = next.rules[next.rules.length - 1]
   if (created === undefined) {
     return refused("a category rule was added and none is at the end of the list", DATA)
   }
-  const merged: CategoryRule = { ...created, ...webIn(held) }
+  const merged: CategoryRule = { ...created, ...webOf(taken) }
   await settingsAccess.write({
     ...next,
     rules: next.rules.map((one) => (one.id === created.id ? merged : one)),
@@ -69,5 +63,5 @@ export async function temperInventoryRuleCreate(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredCall(argv, given.calledAs, SHAPE, made)
+  return await answeredByPage(argv, given.calledAs, page, PAGES, made)
 }
