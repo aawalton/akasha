@@ -7,10 +7,7 @@ export const modelGatewaySwap = {
   definition: "the command respawning a live seat's gateway on the bytecode here",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
-    { said: "--fleet", takes: "every live seat in turn rather than one named" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -87,7 +84,15 @@ export const modelGatewaySwap = {
       invariantKind: "departure",
       statement: "The asking this runs is handed in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A seat may also be named by its id rather than as its page is named.",
+    },
   ],
   name: "swap",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/seat", saidAs: "word", notWith: ["argument/fleet"] },
+    { argument: "argument/fleet", notWith: ["argument/seat"] },
+  ],
 } as const satisfies Command
