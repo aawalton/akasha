@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
+import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -10,6 +13,7 @@ import {
   saidFor,
   wrongIn,
 } from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"
+import { initiativeDeleteIntent as page } from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
 
 test("a call naming three words is refused", async () => {
   const said = await initiativeDeleteIntent(["one", "two", "three"], GIVEN)
@@ -59,6 +63,12 @@ const GIVEN: Given = {
 }
 
 const HELD = { slug: "held", statement: "A thing is so." }
+
+test("each word lands on the argument sitting at its place in `arguments`", () => {
+  const read = takenFor([HELD.slug, HELD.statement], GIVEN.calledAs, page, [initiative, statement])
+
+  expect(read).toEqual({ taken: { initiative: HELD.slug, statement: HELD.statement } })
+})
 
 const GAVE_WAY = new Error("the record would not come out of the page")
 
