@@ -91,7 +91,11 @@ export const identifierMatchesItsPlace = {
     {
       invariantKind: "departure",
       statement:
-        "A function exported from a `.tsx` file with a name opening upper is judged a component.",
+        "A function a drawn file exports with a name opening upper and answering with null is a component.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A return inside a function nested in the body is no answer of the outer one.",
     },
     {
       invariantKind: "gap",

@@ -50,6 +50,14 @@ const FORMATS: readonly Formatted[] = [
 
 export const FIXED_AT = "akasha/lualibs/at.lualib.code.ts"
 
+export const FIXED_BODY = "export function __TS__ArrayAt() {}\n"
+
+export const DRAWN_NULL = "export function RungOf() {\n  return null\n}\n"
+
+export const DRAWN_ONE = "export function RungOf() {\n  return 1\n}\n"
+
+export const DRAWN_HELD = "function RungOf() {\n  return null\n}\n"
+
 export const PLACES: Places = {
   fixed: new Map([["akasha/lualibs", "__TS__ArrayAt"]]),
   typeIdentifier: {

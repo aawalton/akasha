@@ -107,6 +107,30 @@ export function drawing(node: ts.Node): boolean {
   return found
 }
 
+function nulled(node: ts.Expression): boolean {
+  return heldIn(node).kind === ts.SyntaxKind.NullKeyword
+}
+
+export function answersNull(node: ts.Node): boolean {
+  const working = workingIn(node)
+  if (working === null) return false
+  if (!ts.isBlock(working.body)) return nulled(working.body as ts.Expression)
+  let found = false
+  let other = false
+  const walk = (each: ts.Node): undefined => {
+    if (ts.isFunctionLike(each)) return
+    if (ts.isReturnStatement(each)) {
+      if (each.expression === undefined) return
+      if (nulled(each.expression)) found = true
+      else other = true
+      return
+    }
+    ts.forEachChild(each, walk)
+  }
+  walk(working.body)
+  return found && !other
+}
+
 function heldIn(node: ts.Expression): ts.Expression {
   if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return heldIn(node.expression)
   return node
@@ -258,7 +282,7 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     if (drawing(held) || openedAsATag(scope, name.text)) {
       return take(name, "component", places.componentIdentifier)
     }
-    if (drawnIn && OPENING.test(name.text) && isExported(declared)) {
+    if (drawnIn && OPENING.test(name.text) && isExported(declared) && answersNull(held)) {
       return take(name, "component", places.componentIdentifier)
     }
     return take(name, "function", places.functionIdentifier)
