@@ -5,7 +5,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
@@ -21,9 +21,9 @@ import {
 } from "akasha/infrastructure/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
 import {
   boundTo,
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   proseNeededAt,
   serviceNamed,
   wasRefused,
@@ -104,7 +104,7 @@ export function guidanceOf(raw: string | undefined, refusals: string[]): number 
   return held
 }
 
-export async function inferenceGenerate(argv: readonly string[]): Promise<Answer> {
+export async function inferenceGenerate(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -153,7 +153,7 @@ export async function inferenceGenerate(argv: readonly string[]): Promise<Answer
       operation: "generate",
       model,
       host: reached.service.host,
-      commandLine: calledAs("inference-generate", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       prompt,
       size,
