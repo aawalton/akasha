@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   routedBy,
   routeFor,
-} from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
+} from "akasha/commands/arguments/routing/argument-routing.module.code.ts"
 
 test("a route argument is the argument it routes with the suffix on the end", () => {
   expect(routeFor("--body")).toBe("--body-file")
