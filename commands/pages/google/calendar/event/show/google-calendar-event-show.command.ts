@@ -6,6 +6,7 @@ export const googleCalendarEventShow = {
   slug: "google-calendar-event-show",
   definition: "the command answering one event named by its id",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
