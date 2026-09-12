@@ -105,7 +105,7 @@ export function classifyPendingVenue(
 ): { venue: string; verb: string } | undefined {
   if (action === "sell") return { venue: "vendor", verb: "sell" }
   if (action === "destroy") {
-    return isStolen ? { venue: "fence", verb: "sell" } : { venue: "vendor", verb: "sell" }
+    return isStolen ? { venue: "fence", verb: "destroy" } : { venue: "vendor", verb: "destroy" }
   }
   if (action === "fence-sell") return { venue: "fence", verb: "sell" }
   if (action === "fence-launder") return { venue: "fence", verb: "launder" }
