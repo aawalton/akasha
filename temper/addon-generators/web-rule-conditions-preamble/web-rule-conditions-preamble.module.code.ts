@@ -4,7 +4,7 @@ export const WEB_CONDITIONS_PREAMBLE = `\
  *
  * Condition evaluation for the inventory rule matcher (web platform).
  *
- * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
+ * DO NOT EDIT — regenerate with: akasha temper addon data-generate
  */
 
 import { findCooldownGroup, isRftwContainer } from "@temper/game-items-core/cooldown-groups"
