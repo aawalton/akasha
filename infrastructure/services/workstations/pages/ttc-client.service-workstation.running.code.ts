@@ -4,7 +4,13 @@ import { runBinary } from "akasha/infrastructure/services/workstations/binary-ru
 const CLIENT =
   ".steam/steam/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/Client/Client.exe"
 
-const ARGV = ["/usr/bin/protontricks-launch", "--no-term", `${homedir()}/${CLIENT}`]
+const ARGV = [
+  "/usr/bin/protontricks-launch",
+  "--no-term",
+  "--appid",
+  "306130",
+  `${homedir()}/${CLIENT}`,
+]
 
 export async function runService(): Promise<never> {
   return await runBinary(ARGV)

@@ -5,7 +5,7 @@ import { ttcClient } from "akasha/infrastructure/services/workstations/pages/ttc
 const HANDED: string[][] = []
 const HOME = "%h"
 const SPACE = " "
-const WORDS = 3
+const WORDS = 5
 
 const binaryRunning = await import(
   "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts"
@@ -42,6 +42,8 @@ test("a run hands the binary runner the program and the arguments rather than a 
     [
       "/usr/bin/protontricks-launch",
       "--no-term",
+      "--appid",
+      "306130",
       `${homedir()}/.steam/steam/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/Client/Client.exe`,
     ],
   ])
