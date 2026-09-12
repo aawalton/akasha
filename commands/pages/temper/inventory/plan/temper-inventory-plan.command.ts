@@ -48,4 +48,5 @@ export const temperInventoryPlan = {
       statement: "The holdings are read from a stored snapshot rather than from the workstation.",
     },
   ],
+  name: "plan",
 } as const satisfies Command

@@ -23,4 +23,5 @@ export const temperInventoryBuyRuleDuplicate = {
       statement: "An id no buy rule has refuses the call.",
     },
   ],
+  name: "duplicate",
 } as const satisfies Command

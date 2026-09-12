@@ -34,4 +34,5 @@ export const temperInventoryMasterConsumableTrace = {
       statement: "Each trace has the writ's outcome.",
     },
   ],
+  name: "consumable-trace",
 } as const satisfies Command

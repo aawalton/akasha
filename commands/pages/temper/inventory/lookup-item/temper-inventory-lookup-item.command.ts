@@ -26,4 +26,5 @@ export const temperInventoryLookupItem = {
       statement: "An item the capture does not hold refuses the call.",
     },
   ],
+  name: "lookup-item",
 } as const satisfies Command

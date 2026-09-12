@@ -36,4 +36,5 @@ export const temperInventoryRuleReorder = {
       statement: "A locked rule is refused unless the call says `--force`.",
     },
   ],
+  name: "reorder",
 } as const satisfies Command

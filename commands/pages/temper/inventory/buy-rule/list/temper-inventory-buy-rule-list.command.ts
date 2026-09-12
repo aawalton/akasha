@@ -22,4 +22,5 @@ export const temperInventoryBuyRuleList = {
       statement: "Each rule has the shortfall against its target.",
     },
   ],
+  name: "list",
 } as const satisfies Command

@@ -33,4 +33,5 @@ export const temperInventoryConfiguration = {
       statement: "A section the configuration does not hold refuses the call.",
     },
   ],
+  name: "configuration",
 } as const satisfies Command

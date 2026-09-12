@@ -39,4 +39,5 @@ export const temperInventoryExplain = {
       statement: "An item no scan has refuses the call.",
     },
   ],
+  name: "explain",
 } as const satisfies Command

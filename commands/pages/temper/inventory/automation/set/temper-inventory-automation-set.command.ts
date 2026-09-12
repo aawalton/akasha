@@ -41,4 +41,5 @@ export const temperInventoryAutomationSet = {
       statement: "A toggle no interface carries refuses the call.",
     },
   ],
+  name: "set",
 } as const satisfies Command

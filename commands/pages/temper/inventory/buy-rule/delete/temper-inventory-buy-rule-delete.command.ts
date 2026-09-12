@@ -22,4 +22,5 @@ export const temperInventoryBuyRuleDelete = {
       statement: "An id no buy rule has refuses the call.",
     },
   ],
+  name: "delete",
 } as const satisfies Command

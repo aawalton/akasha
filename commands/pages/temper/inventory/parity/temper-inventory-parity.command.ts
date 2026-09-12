@@ -34,4 +34,5 @@ export const temperInventoryParity = {
       statement: "A stored trace for another item refuses the call.",
     },
   ],
+  name: "parity",
 } as const satisfies Command

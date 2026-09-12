@@ -44,4 +44,5 @@ export const temperInventorySnapshot = {
       statement: "Nothing here reaches the page store over the network.",
     },
   ],
+  name: "snapshot",
 } as const satisfies Command

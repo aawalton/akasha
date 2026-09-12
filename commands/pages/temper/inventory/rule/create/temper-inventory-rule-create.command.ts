@@ -35,4 +35,5 @@ export const temperInventoryRuleCreate = {
       statement: "Nothing the web alone shows reaches the addon.",
     },
   ],
+  name: "create",
 } as const satisfies Command

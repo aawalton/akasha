@@ -24,4 +24,5 @@ export const temperInventoryAutomationList = {
       statement: "Nothing here changes a toggle.",
     },
   ],
+  name: "list",
 } as const satisfies Command

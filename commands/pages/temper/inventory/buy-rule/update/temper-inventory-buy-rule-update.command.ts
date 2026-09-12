@@ -31,4 +31,5 @@ export const temperInventoryBuyRuleUpdate = {
       statement: "An id no buy rule has refuses the call.",
     },
   ],
+  name: "update",
 } as const satisfies Command

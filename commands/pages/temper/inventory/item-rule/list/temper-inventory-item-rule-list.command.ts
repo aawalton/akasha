@@ -15,4 +15,5 @@ export const temperInventoryItemRuleList = {
       statement: "The rules are given in the order the settings have.",
     },
   ],
+  name: "list",
 } as const satisfies Command

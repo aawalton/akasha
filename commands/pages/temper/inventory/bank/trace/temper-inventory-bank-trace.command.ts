@@ -29,4 +29,5 @@ export const temperInventoryBankTrace = {
       statement: "A file with no trace refuses the call.",
     },
   ],
+  name: "trace",
 } as const satisfies Command

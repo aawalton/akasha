@@ -42,4 +42,5 @@ export const temperInventoryKnowledge = {
       statement: "A character the capture does not hold refuses the call.",
     },
   ],
+  name: "knowledge",
 } as const satisfies Command

@@ -18,4 +18,5 @@ export const temperInventoryItemRuleShow = {
       statement: "An id no per-item rule carries refuses the call.",
     },
   ],
+  name: "show",
 } as const satisfies Command

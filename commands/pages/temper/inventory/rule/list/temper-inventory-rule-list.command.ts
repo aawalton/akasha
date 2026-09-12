@@ -22,4 +22,5 @@ export const temperInventoryRuleList = {
       statement: "The order given is the order the addon reads.",
     },
   ],
+  name: "list",
 } as const satisfies Command

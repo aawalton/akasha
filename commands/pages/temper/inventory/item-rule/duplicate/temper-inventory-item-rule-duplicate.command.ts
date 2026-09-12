@@ -23,4 +23,5 @@ export const temperInventoryItemRuleDuplicate = {
       statement: "An id no per-item rule carries refuses the call.",
     },
   ],
+  name: "duplicate",
 } as const satisfies Command

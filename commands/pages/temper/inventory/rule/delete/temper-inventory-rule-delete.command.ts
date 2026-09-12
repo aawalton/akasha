@@ -22,4 +22,5 @@ export const temperInventoryRuleDelete = {
       statement: "An id no category rule carries refuses the call.",
     },
   ],
+  name: "delete",
 } as const satisfies Command

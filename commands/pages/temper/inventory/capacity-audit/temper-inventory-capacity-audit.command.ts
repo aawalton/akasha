@@ -37,4 +37,5 @@ export const temperInventoryCapacityAudit = {
       statement: "A run finding no overflow reports nothing.",
     },
   ],
+  name: "capacity-audit",
 } as const satisfies Command

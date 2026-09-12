@@ -39,4 +39,5 @@ export const temperInventoryDecodeLink = {
       statement: "Nothing here reads a file.",
     },
   ],
+  name: "decode-link",
 } as const satisfies Command

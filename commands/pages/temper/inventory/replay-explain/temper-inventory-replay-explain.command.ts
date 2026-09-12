@@ -33,4 +33,5 @@ export const temperInventoryReplayExplain = {
       statement: "Nothing here evaluates a rule.",
     },
   ],
+  name: "replay-explain",
 } as const satisfies Command

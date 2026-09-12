@@ -21,4 +21,5 @@ export const temperInventoryItemRuleDelete = {
       statement: "An id no per-item rule carries refuses the call.",
     },
   ],
+  name: "delete",
 } as const satisfies Command

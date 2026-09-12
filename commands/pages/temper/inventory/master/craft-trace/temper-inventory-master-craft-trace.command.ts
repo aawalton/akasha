@@ -30,4 +30,5 @@ export const temperInventoryMasterCraftTrace = {
       statement: "Each trace has the craft's outcome.",
     },
   ],
+  name: "craft-trace",
 } as const satisfies Command

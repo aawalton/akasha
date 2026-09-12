@@ -18,4 +18,5 @@ export const temperInventoryRuleUnlock = {
       statement: "An id no category rule carries refuses the call.",
     },
   ],
+  name: "unlock",
 } as const satisfies Command

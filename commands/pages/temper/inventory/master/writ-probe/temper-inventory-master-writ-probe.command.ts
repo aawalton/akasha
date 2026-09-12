@@ -33,4 +33,5 @@ export const temperInventoryMasterWritProbe = {
       statement: "Nothing here takes a capture.",
     },
   ],
+  name: "writ-probe",
 } as const satisfies Command

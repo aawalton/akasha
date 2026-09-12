@@ -33,4 +33,5 @@ export const temperInventoryBankProfile = {
       statement: "A file with no capture refuses the call.",
     },
   ],
+  name: "profile",
 } as const satisfies Command
