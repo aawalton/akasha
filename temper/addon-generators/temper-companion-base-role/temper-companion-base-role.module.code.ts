@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const COMPANION_BASE_ROLE_EAV_SCHEMA = z
@@ -87,7 +88,7 @@ export function generateTemperCompanionBaseRole(rows: readonly Page[]): string {
  * The four companion base roles (dps, tank, healer, support) sourced
  * from the universal pages table (page type: temper-companion-base-role).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { CompanionArmorWeight } from "../companion-types"

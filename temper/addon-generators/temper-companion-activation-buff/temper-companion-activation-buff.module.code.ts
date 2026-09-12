@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   rankOf,
   ranksOf,
@@ -49,7 +50,7 @@ export function generateTemperCompanionActivationBuff(rows: readonly Page[]): st
  * \`buff-or-debuff-source\`. Sourced from the universal pages table
  * (page type: temper-companion-activation-buff).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
