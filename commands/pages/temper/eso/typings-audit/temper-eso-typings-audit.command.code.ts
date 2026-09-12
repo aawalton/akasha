@@ -4,6 +4,7 @@ import {
   renderAuditReading,
   summarizeAudit,
 } from "akasha/checks/modules/audit-reading/audit-reading.module.code.ts"
+import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -18,8 +19,6 @@ import {
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
-
-const OPERATIONAL = 3
 
 const SUBJECT = "clone-derived ESO artifacts stamped behind the ~/esoui clone"
 
@@ -135,7 +134,7 @@ export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
     observedAtMs: Date.now(),
   }
 
-  if (argv.includes(JSON_FLAG)) return answering([JSON.stringify(audit)], [], 0)
+  if (argv.includes(JSON_FLAG)) return answering([JSON.stringify(audit)], [], OK)
 
   const lines = [...renderAuditReading(SUBJECT, audit.reading)]
   lines.push(
@@ -155,7 +154,7 @@ export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
     lines.push(
       `    Every artifact compared is stamped ${String(cloneApiVersion)}, current with the clone.`
     )
-    return answering(lines, [], 0)
+    return answering(lines, [], OK)
   }
 
   lines.push(
@@ -172,5 +171,5 @@ export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
       `    and ${String(findings.length - MAX_REPORTED)} more, not listed; --json carries every one`
     )
   }
-  return answering(lines, [], 0)
+  return answering(lines, [], OK)
 }
