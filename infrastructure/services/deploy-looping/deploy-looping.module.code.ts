@@ -33,6 +33,7 @@ import {
   asked,
   type Running,
 } from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
+import { SERVING_MARKER } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
@@ -63,6 +64,7 @@ export function deployArgv(root: string, tree: string, slug: string): readonly s
     "--collect",
     "--quiet",
     `--unit=${scopeFor(slug)}`,
+    `--setenv=${SERVING_MARKER}=`,
     "--",
     run.runner,
     join(tree, run.path),
@@ -81,7 +83,7 @@ export function saidOfNothing(
   every: readonly Candidate[],
   deploying: ReadonlySet<string>
 ): string {
-  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} were weighed, and ${deploying.size} already have a deploy running`
+  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, and ${deploying.size} with a deploy running`
 }
 
 export function ticked(

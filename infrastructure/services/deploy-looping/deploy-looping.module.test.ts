@@ -10,6 +10,7 @@ import {
   saidOfNothing,
   scopeFor,
 } from "akasha/infrastructure/services/deploy-looping/deploy-looping.module.code.ts"
+import { SERVING_MARKER } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 
 function candidate(slug: string): Candidate {
   return {
@@ -31,6 +32,7 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   const argv = deployArgv(process.cwd(), "/tree", "temper-web")
   expect(argv).not.toHaveProperty("refused")
   const words = argv as readonly string[]
+  expect(words).toContain(`--setenv=${SERVING_MARKER}=`)
   expect(words).toContain("--scope")
   expect(words).toContain(`--unit=${scopeFor("temper-web")}`)
   expect(words).toContain("deploy")
@@ -42,7 +44,7 @@ test("a tick putting nothing up says how many were weighed and how many were run
   const said = saidOfNothing("web-app", [candidate("one"), candidate("two")], new Set(["one"]))
   expect(said).toContain("web-app")
   expect(said).toContain("2 services")
-  expect(said).toContain("1 already")
+  expect(said).toContain("1 with a deploy running")
 })
 
 test("a kind a deploy puts up is read off the call", () => {
