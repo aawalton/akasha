@@ -12,6 +12,7 @@ export const modelTest = {
     "model-test/no-commentary-kept",
     "model-test/one-at-a-time-kept",
     "model-test/restatement",
+    "model-test/still-waiting-kept",
     "model-test/subagent-brief-kept",
     "module/model-test-running",
     "page-property-entry/cases",
