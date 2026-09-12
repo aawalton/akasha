@@ -1,11 +1,11 @@
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
-import { getNodePath } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
   type CategoryRule,
   type ItemRule,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { getNodePath } from "akasha/temper/items-rules-core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { getActionLabel } from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 
 function describeCategoryRule(rule: CategoryRule): string {

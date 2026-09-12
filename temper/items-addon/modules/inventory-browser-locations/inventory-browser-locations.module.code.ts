@@ -3,8 +3,8 @@ import type {
   LocationViewKind,
   LocationViewOption,
 } from "akasha/temper/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
-import type { ItemLocationEntry } from "akasha/temper/items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
 import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
+import type { ItemLocationEntry } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function matchesFixed(

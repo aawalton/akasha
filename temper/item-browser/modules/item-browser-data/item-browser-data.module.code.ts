@@ -1,4 +1,3 @@
-import { ZONE_CLASSIFICATION } from "akasha/temper/item-browser/item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
 import {
   FLAGS,
   type ItemFlags,
@@ -8,6 +7,7 @@ import {
   type RawItem,
 } from "akasha/temper/item-browser/modules/item-browser-items/item-browser-items.module.code.ts"
 import { buildSpecialNames } from "akasha/temper/item-browser/modules/item-browser-special-names/item-browser-special-names.module.code.ts"
+import { ZONE_CLASSIFICATION } from "akasha/temper/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
 
 export interface ItemBrowserData {
   readonly flags: ItemFlags

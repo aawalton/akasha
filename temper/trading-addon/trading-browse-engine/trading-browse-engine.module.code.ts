@@ -13,7 +13,7 @@ import {
   itemPassesFilters,
 } from "akasha/temper/items-filters-core/search-filter-set/search-filter-set.module.code.ts"
 import { createSearchRequestCollector } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 import { readResultListing } from "akasha/temper/trading-addon/trading-listing-facts/trading-listing-facts.module.code.ts"
 import { applyCollectorToNativeSearch } from "akasha/temper/trading-addon/trading-search-request-native/trading-search-request-native.module.code.ts"
 import {

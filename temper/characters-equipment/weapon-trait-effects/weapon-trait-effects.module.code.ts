@@ -1,4 +1,4 @@
-import type { WeaponItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type { WeaponItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import {
   WEAPON_TRAIT_QUALITY_VALUES,

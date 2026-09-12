@@ -1,4 +1,3 @@
-import type { EntryData } from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 import {
   CRAFTED_ENCHANTMENTS,
   SORT_TYPE,
@@ -17,6 +16,7 @@ import {
   getVars,
   getZoneNameById,
 } from "akasha/temper/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
+import type { EntryData } from "akasha/temper/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 
 function makeItemLink(this: void, id: number, flags: number, ext?: number): string {
   const flagDefs = getData().flags

@@ -15,7 +15,7 @@ import { useOptimisticPatchPropertyDefinition } from "akasha/pages/ui/supabase/m
 import type { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback } from "react"
 
 interface UseViewRowHandlersArgs {

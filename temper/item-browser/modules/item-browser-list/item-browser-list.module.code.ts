@@ -1,8 +1,3 @@
-import type {
-  ContextMenuFactory,
-  EntryData,
-  ItemBrowserListInstance,
-} from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 import {
   DATA_TYPE,
   PLEDGE_FILTER_ID,
@@ -32,6 +27,11 @@ import {
   formatTransmuteCost,
   getVars,
 } from "akasha/temper/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
+import type {
+  ContextMenuFactory,
+  EntryData,
+  ItemBrowserListInstance,
+} from "akasha/temper/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 
 interface ItemBrowserListClass extends ItemBrowserListInstance {}
 

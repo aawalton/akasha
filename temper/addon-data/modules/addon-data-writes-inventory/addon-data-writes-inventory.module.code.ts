@@ -1,6 +1,6 @@
 import { TEMPER_INVENTORY_CORE_OUTPUT_DIR } from "akasha/temper/addon-data/modules/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
 import type { AddonDataPages } from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
-import { generateTemperItemCategoryTree } from "akasha/temper/addon-generators/item-category-tree/item-category-tree.module.code.ts"
+import { generateTemperItemCategoryTree } from "akasha/temper/addon-generators/modules/item-category-tree/item-category-tree.module.code.ts"
 import { generateTemperInventoryCurrency } from "akasha/temper/addon-generators/temper-inventory-currency/temper-inventory-currency.module.code.ts"
 import { generateTemperLocationType } from "akasha/temper/addon-generators/temper-location-type/temper-location-type.module.code.ts"
 

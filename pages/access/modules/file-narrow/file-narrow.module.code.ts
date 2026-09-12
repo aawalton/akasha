@@ -6,7 +6,7 @@ import type {
   PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {

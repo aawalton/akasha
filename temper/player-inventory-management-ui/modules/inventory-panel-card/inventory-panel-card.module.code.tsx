@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
+import { ItemRow } from "akasha/design/interfaces/patterns/modules/item-row/item-row.module.code.tsx"
 import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
@@ -11,7 +11,7 @@ import {
   hasAnyValue,
   type InventoryNode,
 } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
-import { ItemTooltipPopover } from "akasha/temper/player-inventory-management-ui/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
+import { ItemTooltipPopover } from "akasha/temper/player-inventory-management-ui/modules/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
 import {
   leafToValueData,
   type ValueExplanationData,

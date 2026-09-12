@@ -8,7 +8,6 @@ import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import { ItemSetsProgressPanelCard } from "akasha/temper/web/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx"
 import { LoreLibraryPanelCard } from "akasha/temper/web/lore-library-panel-card/lore-library-panel-card.module.code.tsx"
 import { AccountAchievementsPanelCard } from "akasha/temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.code.tsx"
 import { AccountCollectiblesPanelCard } from "akasha/temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.code.tsx"
@@ -25,6 +24,7 @@ import { AntiquityLorePanelCard } from "akasha/temper/web/modules/antiquity-lore
 import { BankUpgradesPanelCard } from "akasha/temper/web/modules/bank-upgrades-panel-card/bank-upgrades-panel-card.module.code.tsx"
 import { ChampionPointsPanelCard } from "akasha/temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.code.tsx"
 import { GrandMasterStationsPanelCard } from "akasha/temper/web/modules/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx"
+import { ItemSetsProgressPanelCard } from "akasha/temper/web/modules/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx"
 import { SubclassingSkillLinesPanelCard } from "akasha/temper/web/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"
 
 interface AccountPanelGridProps {

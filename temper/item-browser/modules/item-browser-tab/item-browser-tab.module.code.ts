@@ -1,4 +1,3 @@
-import type { ContextMenuFactory } from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 import {
   ADDON_NAME,
   SLASH_COMMANDS_LIST,
@@ -22,6 +21,7 @@ import {
   setList,
   setMultiStyle,
 } from "akasha/temper/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
+import type { ContextMenuFactory } from "akasha/temper/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 
 const CONTEXT_MENU_ITEMS: ContextMenuFactory[] = []
 

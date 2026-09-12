@@ -1,5 +1,4 @@
 import { stripEsoNameSuffix } from "akasha/temper/build-support/modules/eso-name/eso-name.module.code.ts"
-import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
 import {
   parseCraftingLevels,
   parseOpenCooldowns,
@@ -20,6 +19,7 @@ import type {
   PlacedFurnishingData,
   PriceSource,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"

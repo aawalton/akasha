@@ -1,11 +1,11 @@
 "use client"
 
-import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import {
   extractRelationContainment,
   getPagesByRelation,
 } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
+import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import {

@@ -1,4 +1,4 @@
-import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
+import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 
 const ITEMTYPE_WEAPON = 1
 const ITEMTYPE_ARMOR = 2

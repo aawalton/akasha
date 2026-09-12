@@ -1,4 +1,3 @@
-import type { EntryData } from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 import { FLAG_BROWSER_ITEM } from "akasha/temper/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import {
   getSelectedAccount,
@@ -6,6 +5,7 @@ import {
 } from "akasha/temper/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import { getList } from "akasha/temper/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
 import { addTooltipExtension } from "akasha/temper/item-browser/modules/item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts"
+import type { EntryData } from "akasha/temper/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 
 let currentTooltip: TooltipControl | undefined
 

@@ -1,4 +1,4 @@
-import type { ItemTooltipInstance } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import type { ItemTooltipInstance } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 
 interface InventoryBranchNode {
   key: string

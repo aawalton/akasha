@@ -5,7 +5,6 @@ import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/p
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
@@ -13,6 +12,7 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
+import { ItemRow } from "akasha/design/interfaces/patterns/modules/item-row/item-row.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,

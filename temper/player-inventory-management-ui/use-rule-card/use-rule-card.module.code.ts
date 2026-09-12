@@ -1,10 +1,6 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
-import {
-  getNodeChildren,
-  getNodePath,
-} from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import { LOCATION_OPTIONS } from "akasha/temper/items-rules-core/location-filter/location-filter.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
@@ -16,6 +12,10 @@ import {
   type MoveToDestination,
   type StockScope,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  getNodeChildren,
+  getNodePath,
+} from "akasha/temper/items-rules-core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
 import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
 import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"

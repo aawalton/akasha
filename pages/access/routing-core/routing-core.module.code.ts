@@ -1,6 +1,6 @@
 import { parsePageSeq } from "akasha/pages/access/parse-page-seq/parse-page-seq.module.code.ts"
 import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export const PROMOTED_COLUMN = {

@@ -47,8 +47,8 @@ import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/d
 import {
   computeProactiveRefreshDelayMs,
   PROACTIVE_REFRESH_MARGIN_MS,
-} from "akasha/pages/ui-store/realtime/jwt-exp/jwt-exp.module.code.ts"
-import { decodeJwtSub } from "akasha/pages/ui-store/realtime/jwt-sub/jwt-sub.module.code.ts"
+} from "akasha/pages/ui-store/realtime/modules/jwt-exp/jwt-exp.module.code.ts"
+import { decodeJwtSub } from "akasha/pages/ui-store/realtime/modules/jwt-sub/jwt-sub.module.code.ts"
 import type { ShapeResumeState } from "akasha/pages/ui-store/realtime/shape-meta/shape-meta.module.code.ts"
 
 const ROSTER_RETRY_MS = 2_000

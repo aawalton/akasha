@@ -1,7 +1,7 @@
 import type {
   PoisonId,
   WeaponItem,
-} from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { getWeaponEnchantmentEffects } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { getWeaponTraitEffects } from "akasha/temper/characters-equipment/weapon-trait-effects/weapon-trait-effects.module.code.ts"

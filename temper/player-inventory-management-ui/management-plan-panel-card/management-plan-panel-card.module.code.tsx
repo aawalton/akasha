@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
+import { ItemRow } from "akasha/design/interfaces/patterns/modules/item-row/item-row.module.code.tsx"
 import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.module.code.ts"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"

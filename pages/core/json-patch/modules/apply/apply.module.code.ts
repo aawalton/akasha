@@ -6,9 +6,9 @@ import {
   jsonbSet,
   objectChild,
   parsePgInt,
-} from "akasha/pages/core/json-patch/jsonb-ops/jsonb-ops.module.code.ts"
+} from "akasha/pages/core/json-patch/modules/jsonb-ops/jsonb-ops.module.code.ts"
 import type { JsonPatchOp } from "akasha/pages/core/view-state/view-state-change/view-state-change.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 
 const SYSTEM_KEYS: ReadonlySet<string> = new Set([
   "id",

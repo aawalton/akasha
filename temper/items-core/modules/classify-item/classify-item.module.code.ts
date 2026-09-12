@@ -1,12 +1,12 @@
 import {
   ITEM_CATEGORY_PRIORITY,
   ITEM_CATEGORY_TREE,
-} from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+} from "akasha/temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type {
   CategoryPath,
   ClassifiableItem,
   ItemCategoryNode,
-} from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
+} from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 
 export function classifyItem(item: ClassifiableItem): CategoryPath {
   for (const categoryId of ITEM_CATEGORY_PRIORITY) {

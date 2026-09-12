@@ -14,8 +14,8 @@ import {
   resolveSentinelInstantDayRange,
 } from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 
 type LooseSentinel = SentinelDateValue & SentinelInstantValue
 

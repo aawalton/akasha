@@ -10,7 +10,7 @@ import {
   readPages,
   writeFiles,
 } from "akasha/pages/query/store-writing/store-writing.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 export function generationLogSlug(): string {

@@ -1,5 +1,4 @@
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { checkClassification } from "akasha/temper/items-rules-eval/modules/check-classification/check-classification.module.code.ts"
 import { checkContainer } from "akasha/temper/items-rules-eval/modules/check-container/check-container.module.code.ts"
 import { checkCrossCharacterCraft } from "akasha/temper/items-rules-eval/modules/check-cross-character-craft/check-cross-character-craft.module.code.ts"
@@ -13,6 +12,7 @@ import type { ConditionCheckResult } from "akasha/temper/items-rules-eval/module
 import { checkStackFullness } from "akasha/temper/items-rules-eval/modules/check-stack-fullness/check-stack-fullness.module.code.ts"
 import { checkStock } from "akasha/temper/items-rules-eval/modules/check-stock/check-stock.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 
 export type ConditionResult =
   | { readonly kind: "pass" }

@@ -31,8 +31,8 @@ import {
 } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

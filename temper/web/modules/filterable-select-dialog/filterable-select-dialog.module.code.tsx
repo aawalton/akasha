@@ -5,7 +5,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
+import { ItemCard } from "akasha/design/interfaces/patterns/modules/item-card/item-card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Collapsible,

@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
+import { ItemCard } from "akasha/design/interfaces/patterns/modules/item-card/item-card.module.code.tsx"
 import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import {
   Select,
@@ -34,7 +34,7 @@ import {
   getQualityClassName,
   getQualityVariant,
 } from "akasha/temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
-import { jewelrySlots } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import { jewelrySlots } from "akasha/temper/equipment-kinds/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { useMemo } from "react"

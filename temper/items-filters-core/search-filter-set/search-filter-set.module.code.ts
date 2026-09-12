@@ -3,7 +3,7 @@ import type {
   FilterId,
   FilterValue,
 } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 
 export type ActiveFilterValues = ReadonlyMap<FilterId, FilterValue>
 

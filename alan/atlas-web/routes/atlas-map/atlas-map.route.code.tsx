@@ -5,7 +5,7 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
-import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
+import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import { data } from "react-router"
 import { z } from "zod"
 

@@ -1,4 +1,4 @@
-import type { SetBonusEntry } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import type { SetBonusEntry } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import {
   MINE_NAME,

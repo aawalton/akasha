@@ -1,4 +1,4 @@
-import type { ArmorItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type { ArmorItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { getInfusedArmorBonus } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { isLargeArmorEnchantSlot } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
 import {

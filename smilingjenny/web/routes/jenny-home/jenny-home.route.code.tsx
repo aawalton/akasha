@@ -1,5 +1,5 @@
 import { requireJenny } from "akasha/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"
-import { Shell } from "akasha/smilingjenny/web/jenny-shell/jenny-shell.module.code.tsx"
+import { Shell } from "akasha/smilingjenny/web/modules/jenny-shell/jenny-shell.module.code.tsx"
 import { data } from "react-router"
 
 export async function loader({ request }: { request: Request }) {

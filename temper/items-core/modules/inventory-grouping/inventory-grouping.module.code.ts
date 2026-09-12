@@ -1,4 +1,3 @@
-import type { CategoryPath } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   classifyLocation,
   getLocationDisplayName,
@@ -23,6 +22,7 @@ import type {
   InventoryDatabase,
   InventoryLocationData,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { CategoryPath } from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 
 interface FilterableGroup {
   items: readonly InventoryItemRow[]

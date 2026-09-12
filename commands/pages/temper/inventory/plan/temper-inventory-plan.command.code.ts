@@ -33,8 +33,8 @@ import {
   planInputs,
   ruleMatcher,
 } from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
-import type { ClassifiableItem } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { ClassifiableItem } from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   type CompiledOrderedRule,
   IMPLICIT_TERMINAL_COMPILED_RULE,

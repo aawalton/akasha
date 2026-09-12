@@ -1,4 +1,4 @@
-import type { ArmorItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import type { ArmorItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
   ARMOR_TRAIT_QUALITY_VALUES,
   armorTraits,
