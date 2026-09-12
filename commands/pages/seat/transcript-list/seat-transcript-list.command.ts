@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const seatTranscripts = {
+export const seatTranscriptList = {
   id: "01a06934-ff28-7819-ad05-c50a0471362c",
   type: "command",
-  slug: "seat-transcripts",
+  slug: "seat-transcript-list",
   definition: "the command saying where each seat's transcript file is",
   code: "ts",
   test: "ts",

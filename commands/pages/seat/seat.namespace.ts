@@ -12,7 +12,7 @@ export const seat = {
     "command/seat-start",
     "command/seat-messaged",
     "command/seat-refresh-settings",
-    "command/seat-transcripts",
+    "command/seat-transcript-list",
     "command/seat-compose-notices",
   ],
 } as const satisfies Namespace

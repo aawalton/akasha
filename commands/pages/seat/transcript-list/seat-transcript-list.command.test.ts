@@ -5,7 +5,7 @@ import {
   saidOf,
   seatTranscripts,
   transcriptsOver,
-} from "akasha/commands/pages/seat/transcripts/seat-transcripts.command.code.ts"
+} from "akasha/commands/pages/seat/transcript-list/seat-transcript-list.command.code.ts"
 
 const ROOT = "/nowhere"
 
