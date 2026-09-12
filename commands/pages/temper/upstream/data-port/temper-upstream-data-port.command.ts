@@ -7,12 +7,7 @@ export const temperUpstreamDataPort = {
   definition:
     "the command bringing an upstream game library's data into the files this repository has",
   code: "ts",
-  taking: [
-    {
-      said: "<library>",
-      takes: "which upstream library is ported: housing, lib-map-data, lib-treasure or lib-zone",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -28,5 +23,8 @@ export const temperUpstreamDataPort = {
     },
   ],
   name: "data-port",
-  arguments: [{ argument: "argument/code-root" }],
+  arguments: [
+    { argument: "argument/code-root" },
+    { argument: "argument/library", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command
