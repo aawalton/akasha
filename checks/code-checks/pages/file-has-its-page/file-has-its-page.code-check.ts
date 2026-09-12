@@ -73,6 +73,18 @@ export const fileHasItsPage = {
       statement:
         "A file closing that way in a folder beneath that page is claimed by nothing here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An uncommitted tail names the page beside it though a section runs before it.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An audit hands this check ignored files whose names spell an uncommitted tail.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here exempts a path for where it sits or for what it is named.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
